@@ -4,7 +4,7 @@ description: "Your own experience is a laboratory for consciousness. Careful att
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-10-26T21:21:43+00:00
+ai_modified: 2026-10-31T06:09:45+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -25,7 +25,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-31
 last_curated: null
 last_deep_review: 2026-07-19T15:04:27+00:00
@@ -217,7 +217,7 @@ But the tests establish data that *any* adequate theory must accommodate:
 - Active inhibition feels different from inaction—veto has its own phenomenology of oppositional effort
 - Training refines rather than dissolves phenomenological access—the opposite of what illusionism predicts
 
-The effort datum needs a further qualification. The felt-effort tests establish that effort is real and does causal work; they do not establish that it transparently reports its own operation, and the calibration, depletion, and modulation dissociations show it does not. This is why the Map rests its case on *convergence* across these tests rather than on any single one: the cumulative pattern above is harder to explain away than any datum taken alone. The Map's framework predicts these features. Materialist frameworks must explain them away. Whether they can do so without ad hoc maneuvers is what philosophical argument must assess.
+The effort datum needs a further qualification. The felt-effort tests establish that effort is real, and they fit its doing causal work without showing that it does. Nor do they establish that it transparently reports its own operation; the calibration, depletion, and modulation dissociations show it does not. This is why the Map rests its case on *convergence* across these tests rather than on any single one: the cumulative pattern above is harder to explain away than any datum taken alone. The Map's framework predicts these features. Materialist frameworks must explain them away. Whether they can do so without ad hoc maneuvers is what philosophical argument must assess.
 
 ## The Practical Payoff
 
@@ -227,7 +227,7 @@ Testing the Map from inside isn't merely intellectual exercise. Each test develo
 
 **Access to witness mode**: The capacity to observe mental contents without identification reduces reactive suffering. You see the thought; you don't become the thought. This is why the witness test matters practically, not just philosophically—it opens a mode of consciousness with therapeutic value.
 
-**Recognition of effort**: Understanding that sustained attention costs something allows more realistic self-management. The effort test reveals attention as a finite resource. You can budget effort rather than depleting it unknowingly.
+**Recognition of effort**: Understanding that sustained attention costs something allows more realistic self-management. The effort test lets you feel that cost as it accrues. You can budget effort deliberately rather than spend it unnoticed.
 
 **Experiential grounding for philosophy**: The Map's claims become concrete when tested. "Consciousness selects" stops being abstract when you feel the difference between selection and observation. "Witness consciousness" stops being jargon when you access it. Philosophy grounded in experience has a different quality than philosophy that merely describes experience from outside.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-30 20:29:45+00:00
+ai_modified: 2026-10-31 06:09:45+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[post-decoherence-selection]]'
 created: 2026-03-10
-date: &id001 2026-10-30
+date: &id001 2026-10-31
 description: At a decision point of genuine indeterminacy the trilemma foregrounds
   three horns—determinism, randomness, mental causation. Human-AI analysis of why
   only directed selection preserves authorship, treated as a heuristic not a complete
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 06:13:05+00:00
-lastmod: 2026-10-30 20:29:45+00:00
+lastmod: 2026-10-31 06:09:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ Reject either assumption and further positions open up that the trilemma does no
 
 That mixture combines Horns 1 and 2 and inherits both problems: the determined component removes authorship over that portion; the random component adds arbitrariness to the rest. Against *this* option the trilemma's pressure holds—only a directed resolution of genuine indeterminacy preserves authorship over the open portion.
 
-Reasons-responsive compatibilism is the most developed of these set-aside positions, and the [Compatibilist Objections](#compatibilist-objections) section below engages it directly. The disagreement there is at the framework boundary: the Map does not claim the trilemma refutes the compatibilist, only that the compatibilist reading fails to explain the phenomenological data—the effort that scales with difficulty, the depletion that requires recovery—which is what one would expect if consciousness genuinely selects and not what one would expect if it passively accompanies predetermined outcomes.
+Reasons-responsive compatibilism is the most developed of these set-aside positions, and the [Compatibilist Objections](#compatibilist-objections) section below engages it directly. The disagreement there is at the framework boundary: the Map does not claim the trilemma refutes the compatibilist, only that effort scaling with difficulty fits the compatibilist reading less naturally than the Map's, on which consciousness genuinely selects rather than passively accompanying predetermined outcomes. The phenomenology alone does not adjudicate between them.
 
 ## The Mechanism Question
 
@@ -115,7 +115,7 @@ Compatibilists raise several challenges to the trilemma's significance:
 
 This does not prove that consciousness is required for grasping—that remains the Map's claim, not a demonstrated conclusion. It identifies what the compatibilist must account for: the difference between a system whose outputs reliably correlate with reasons and a system that acts *because of* what the reasons support. [Reasons-responsiveness](/concepts/reasons-responsiveness/) in the Map's sense requires this normative dimension.
 
-**"The phenomenology settles nothing."** The feeling of openness during deliberation could be a cognitive illusion—the brain representing its own uncertainty as "felt openness." Perhaps effort is just the brain monitoring resource allocation. The Map responds: this redescription is available for any phenomenological evidence, and the felt data is compatible with either reading taken on its own. What tells against the illusion construal is the systematic pattern—effort correlating with difficulty across attention, motor control, and reasoning; depletion requiring recovery; willed processing engaging different neural circuits than automatic processing—which is what genuine causal engagement would look like. Dismissing it as illusion requires explaining why the illusion is so precisely calibrated to what selection would actually involve.
+**"The phenomenology settles nothing."** The feeling of openness during deliberation could be a cognitive illusion—the brain representing its own uncertainty as "felt openness." Perhaps effort is just the brain monitoring resource allocation. The Map responds: this redescription is available for any phenomenological evidence, and the felt data is compatible with either reading taken on its own. What the Map sets against the illusion construal is the systematic pattern—effort correlating with difficulty across attention, motor control, and reasoning; willed processing engaging different neural circuits than automatic processing—which is what genuine causal engagement would look like on the Map's reading. Ego depletion does not belong in the pattern: its resource reading [failed in its standard paradigm](/concepts/mental-effort/#depletion). Dismissing the pattern as illusion requires explaining why the illusion is so precisely calibrated to what selection would actually involve.
 
 **"Felt openness is what any embedded agent would feel."** Planck kept causation universal yet called the ego "one single point" where the causal method is inapplicable "on logical grounds" (1932, p. 161): the observing subject cannot also be the object of research, "for no eye can see itself" (p. 163). He called the view that freedom is merely apparent "entirely mistaken" (p. 163) and said the limit holds "even in the case of the super-intelligence postulated by Laplace" (p. 164). MacKay (1960) made the point logical: no prediction of a choice can be both correct and validly believed by the agent beforehand, so felt freedom is "the entirely justifiable corollary of these peculiar logical facts" (p. 37), with determinism neither affirmed nor denied (p. 32). On either account, openness is predicted under Horn 1 as firmly as under Horn 3: possibly veridical but non-discriminating. Neither author is an ally. Planck's freedom is a standpoint truth in a causal world, and MacKay thought it "misguided and immoral" to make physical indeterminacy essential to freedom (p. 31); both tell against one move only, citing felt openness as evidence for Horn 3. The systematic pattern above answers for effort alone, about which the self-observation limit predicts nothing. On openness the Map has no answer to Planck or MacKay; its one discriminator, the [conditional signature](/apex/born-preserving-causal-efficacy/#where-a-selection-could-show-if-anywhere-the-conditional-signature), is statistical and untested. Tenet 5 binds only the Map's reasoning: it bars both preferring Horn 3 for its richness and dismissing Planck as deflationary.
 

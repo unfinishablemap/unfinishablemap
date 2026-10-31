@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 05:43:53+00:00
+ai_modified: 2026-10-31 06:10:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 05:43:53+00:00
+lastmod: 2026-10-31 06:10:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T06:10:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/) (primary); [testing-the-map-from-inside](/apex/testing-the-map-from-inside/) (secondary). Both files edited; none skipped.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Word count**: trilemma 3,390 → 3,402 (+12; topics hard 4,000); testing-the-map-from-inside 4,400 → 4,410 (+10; apex hard 5,000).
+- **Changes (trilemma)**: (1) L91: "the compatibilist reading fails to explain the phenomenological data—the effort that scales with difficulty, the depletion that requires recovery—which is what one would expect…" → "effort scaling with difficulty fits the compatibilist reading less naturally than the Map's, on which consciousness genuinely selects rather than passively accompanying predetermined outcomes. The phenomenology alone does not adjudicate between them." Depletion dropped; openness not reintroduced (consistent with the 10-30 Planck/MacKay concession). (2) L113: "What tells against" → "What the Map sets against"; "depletion requiring recovery;" dropped from the systematic pattern; "would look like" now carries "on the Map's reading"; new sentence "Ego depletion does not belong in the pattern: its resource reading [failed in its standard paradigm](/concepts/mental-effort/#depletion)." Next sentence "Dismissing it" → "Dismissing the pattern" so the pronoun does not land on depletion. The Planck paragraph's "The systematic pattern above" still resolves.
+- **Changes (apex)**: (3) L220: "establish that effort is real and does causal work; they do not establish…" → "establish that effort is real, and they fit its doing causal work without showing that it does. Nor do they establish…" (tenets.md L95 grade; same wording the open mental-effort L94 P3 proposes). (4) L230: "reveals attention as a finite resource. You can budget effort rather than depleting it unknowingly." → "lets you feel that cost as it accrues. You can budget effort deliberately rather than spend it unnoticed."
+- **Engagements**: reasons-responsive compatibilist (L91): Mode Three; effort-scaling is offered as fit on the Map's reading, non-adjudicating by phenomenology alone. Illusion construal (L113): Mode Three with a debt assignment (explain the calibration); answered by fit, not proof. No author enlisted; epiphenomenalism not conceded.
+- **Out of scope, not edited**: trilemma L54 "sustained attention depletes capacity" (resource-model language in the Horn 1 reply) and "tracks nothing real" for felt openness (against the 10-30 Planck/MacKay concession); apex L134 "so it does causal work" (same overgrade as L220); apex L220 "Materialist frameworks must explain them away" (the process-model reply absorbs them).
+- **Published**: yes
 
 ## 2026-10-31T05:43:53+00:00 - refine-draft
 - **Status**: Success
