@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-10-30 17:25:06+00:00
+ai_modified: 2026-10-31 10:54:44+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-10-30 17:25:06+00:00
+lastmod: 2026-10-31 10:54:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ Neuroscience draws a related distinction. Willed attention (internally generated
 
 Jeffrey Schwartz developed a cognitive therapy for OCD based on his four-step method (Relabel, Reattribute, Refocus, Revalue), which teaches patients to redirect attention away from obsessive thoughts. PET showed altered caudate metabolism after successful treatment (Schwartz et al., 1996). Important caveats: the original study included only 18 participants (9 new), has not been replicated with the same method outside the UCLA group, and included no comparison with standard exposure-response prevention therapy. The four-step method can be characterised as modified CBT with an added cognitive framing, and the mainstream materialist explanation—that changed behaviour alters neural activation through Hebbian learning—fits the same data.
 
-Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) extends the empirical case with additional evidence streams—psychotherapy neuroimaging showing pathway divergence between CBT and pharmacotherapy, and placebo neuroplasticity—though each stream individually admits materialist reinterpretation. Meditation structural remodelling, once cited as supporting evidence, has been weakened by replication failures (Kral et al., 2022).
+Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) from psychotherapy and placebo forms one preferential signature with the OCD data, compatible alike with the Zeno reading and a physical top-down route. Meditation structural remodelling, once cited as supporting evidence, has been weakened by replication failures (Kral et al., 2022).
 
 The clinical data is compatible with both the quantum interpretation and classical neural self-modification—cognitive-behavioural intervention has physical consequences either way. The philosophical case for Stapp's mechanism rests on independent arguments about quantum indeterminacy and the measurement problem, not on clinical evidence alone.
 
@@ -142,7 +142,7 @@ Perhaps effort phenomenology is just what certain neural computations feel like�
 
 ### The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue there is no phenomenal effort to explain. **Response**: Illusionism faces a regress—the *seeming* to feel effort must be explained. The contemplative evidence above cuts the other way: trained practitioners report the effort/effortlessness distinction sharpening rather than dissolving.
+[Illusionists](/concepts/illusionism/) argue there is no phenomenal effort to explain. **Response**: Illusionism faces a regress—the *seeming* to feel effort must be explained. The adept meditators above still draw the effort/effortlessness distinction, their reports tracking PCC activity.
 
 ## Relation to Site Perspective
 
@@ -179,7 +179,7 @@ The model generates falsifiable predictions:
 3. **Neuroplasticity occurs without conscious engagement**—equivalent brain changes under anaesthesia or sleep
 4. **Neural quantum effects prove non-functional**—quantum coherence occurs in neurons but plays no role in processing or consciousness
 5. **Conscious behavioural throughput vastly exceeds current estimates** (>15 bits/second consistently)
-6. **Contemplative training reveals effort as illusory**—advanced meditators report the distinction dissolves (current evidence shows it becomes clearer)
+6. **Contemplative training reveals effort as illusory**—advanced meditators report the distinction dissolves (current reports keep it)
 7. **Pattern selection shows no observation-rate signature beyond the classical**—if measured selection efficacy scales only with attended dwell-time in the manner a Hebbian "attention strengthens what it dwells on" account already predicts, with no residual dependence on the *rate* of discrete observation that the Zeno mechanism specifically requires, the quantum-Zeno component is doing no work the classical account does not. A quantum-Zeno selector predicts a distinctive non-linearity in selection probability as observation rate rises toward the Zeno-freezing regime; a classical Hebbian selector predicts smooth saturation with total attention. Finding only the latter would refute the quantum component while leaving the attention-as-selection psychology intact.
 
 Predictions 1, 2, 3, 5 and 6 test the attention-and-effort layer the model shares with a purely classical attention-as-selection account; a reader could grant all of them and still prefer the classical reading. Only predictions 4 and 7 bear on the quantum component specifically, and both are harder to operationalise—an honest statement of where the model's empirical exposure currently lies.

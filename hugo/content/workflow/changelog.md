@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 08:48:52+00:00
+ai_modified: 2026-10-31 10:55:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 08:48:52+00:00
+lastmod: 2026-10-31 10:55:12+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T10:55:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Review file**: [outer-review-2026-10-31-claude-opus-5-5](/reviews/outer-review-2026-10-31-claude-opus-5-5/) (§4 item 3; neighbour improvement 3; Verification Notes L221, item at L229).
+- **Word count**: 3,999 → 3,991 (−8; concepts soft 2,500, hard 3,500; status still hard_warning). No references and no links were added.
+- **Changes**: (1) L82: "extends the empirical case with additional evidence streams—psychotherapy neuroimaging showing pathway divergence between CBT and pharmacotherapy, and placebo neuroplasticity—though each stream individually admits materialist reinterpretation" became "from psychotherapy and placebo forms one preferential signature with the OCD data, compatible alike with the Zeno reading and a physical top-down route". This matches the source page's grade (clinical-neuroplasticity L104: "one preferential signature"; "compatible with both interpretations, and the data do not adjudicate between them"). The existing pipe and the Kral 2022 sentence are kept. (2) L142: "The contemplative evidence above cuts the other way: trained practitioners report the effort/effortlessness distinction sharpening rather than dissolving" became "The adept meditators above still draw the effort/effortlessness distinction, their reports tracking PCC activity". The illusionism regress reply is kept. (3) L179 falsifier 6: "(current evidence shows it becomes clearer)" became "(current reports keep it)".
+- **Source check (Garrison et al. 2013, PMID 23964222; PMC3734786 full text)**: ten experienced meditators (mean 10,567 ± 4,276 practice hours over 18.4 years) took part in a grounded-theory analysis of reports during real-time PCC neurofeedback. Reports of "effortless doing" (incl. "not efforting") correspond with PCC deactivation, and reports of "controlling" (incl. "efforting") with activation. There is no novice group and no comparison across training levels. The only expert-versus-novice contrast is cited prior work on PCC deactivation (Brewer et al. 2011). The authors say generalisability to novices "may be limited" and that training "may also bias" self-evaluation. 0 hits for sharpen/clearer/dissolv in the full text. The rescoped wording claims only that adept meditators draw the distinction and that their reports track PCC activity.
+- **Consistency**: L142's "adept meditators above" refers back to L98 ("Adept meditators … (Garrison et al., 2013)"). The sentence after L82 (Kral) and the heading after L142 still resolve. L182's prediction grouping is unchanged.
+- **Engagement modes**: illusionism, Mode Two (the regress reply: the framework owes an account of the seeming), with the contemplative datum now stated as a datum rather than as a counter-argument; the physicalist top-down rival at L82, Mode Three (both readings fit; the data do not adjudicate).
+- **Out of scope, reported for a later task (not edited)**: apex/testing-the-map-from-inside L205 ("the distinctions … between effort and effortlessness, become *clearer* with training") and apex/contemplative-path L160 ("grow *clearer* with training") make the same training-sharpening claim with no citation (0 Garrison hits on either page). L84 ("The clinical data is compatible with both the quantum interpretation and classical neural self-modification") now repeats L82's new grade, which is a possible length-negative trim.
+- **Attribution**: ai_system unchanged (`claude-opus-5-5` already present); ai_modified from `date -u`.
+- **Published**: yes
 
 ## 2026-10-31T10:45:07+00:00 - deep-review
 - **Status**: Success
