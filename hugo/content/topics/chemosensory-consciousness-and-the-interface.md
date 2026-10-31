@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-10-24 17:10:01+00:00
+ai_modified: 2026-10-31 07:10:45+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-14 22:36:49+00:00
-lastmod: 2026-10-24 17:10:01+00:00
+lastmod: 2026-10-31 07:10:45+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -55,7 +55,7 @@ Carvone exists as two enantiomers—molecules identical in every chemical respec
 
 The reason is the **combinatorial receptor code**, the discovery for which the lineage shared a Nobel Prize. Roughly four hundred human olfactory receptor types do not each detect one odour; instead "most odorants are detected by multiple receptors" and "most olfactory receptors recognize multiple odorants," so a given smell is encoded by a *pattern* of receptor activation rather than a dedicated line (Malnic, Hirono, Sato & Buck, 1999). A small molecular change—or merely a change in concentration—can shift the pattern and with it the perceived quality. The smell is the brain's interpretation of a combinatorial activation pattern, not a property of the molecule carried inward.
 
-This is the chemical-sense analogue of audition's missing fundamental, where a pitch is heard at a frequency absent from the signal—but cleaner, because olfaction lacks even the spatial and dimensional scaffolding that vision and (partly) hearing retain. There is no place where the smell is, no axis along which it sits.
+This is the chemical-sense analogue of audition's missing fundamental, where a pitch is heard at a fundamental absent from the signal's spectrum—but cleaner, because olfaction lacks even the spatial and dimensional scaffolding that vision and (partly) hearing retain. There is no place where the smell is, no axis along which it sits.
 
 The physicalist has the obvious reply, and it is a good one: combinatorial coding *explains the discrimination*. It tells us, in increasing detail, how the system distinguishes spearmint from caraway and why the enantiomers part ways at chiral receptors. The Map does not contest that explanation; it adopts it. The residue is not a mechanism gap but the [explanatory gap](/concepts/explanatory-gap/)—why the pattern of activation is *like anything at all*, why the spearmint pattern feels minty rather than merely registering as distinct. That the felt quality is so conspicuously non-identical to any stimulus property makes smell a sharp case for the irreducibility of [qualia](/concepts/qualia/). It is an illustration, on the Map's reading, not a demonstration.
 
