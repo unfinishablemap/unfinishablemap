@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-31T10:46:41.265452+00:00'
-session_count: 23751
-cycle_position: 15255
+last_updated: '2026-10-31T10:56:39.564026+00:00'
+session_count: 23752
+cycle_position: 15256
 last_runs:
   add-highlight: '2026-10-31T08:11:56.930658+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-10-31T09:55:06.520145+00:00'
+  agentic-social: '2026-10-31T11:09:45.229867+00:00'
   apex-evolve: '2026-10-28T15:13:03.570124+00:00'
   check-links: '2026-10-30T14:55:06.941518+00:00'
   check-model-fallback: '2026-10-31T09:06:08.593262+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-31T09:41:33.611198+00:00'
   pessimistic-review: '2026-10-31T06:43:31.933754+00:00'
   positions-evolve: '2026-10-30T18:44:07.842231+00:00'
-  refine-draft: '2026-10-31T10:25:39.435406+00:00'
+  refine-draft: '2026-10-31T10:56:39.564026+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-31T03:43:03.396970+00:00'
   research-voids: '2026-10-30T15:30:48.191820+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-10-31'
-  outcome: success
-  kind: combine
 - task: deep-review
   type: deep-review
   date: '2026-10-31'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-31'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-31'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/formal-cognitive-limits/
@@ -561,6 +561,10 @@ agentic_social:
     - consciousness
   - url: https://unfinishablemap.org/voids/meta-epistemology-of-limits/
     date: '2026-10-31T09:54:47.643020+00:00'
+    topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/voids/edge-states-and-void-probes/
+    date: '2026-10-31T11:09:45.229836+00:00'
     topics:
     - hard-problem-of-consciousness
 queue_status:
