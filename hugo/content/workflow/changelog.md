@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 11:53:53+00:00
+ai_modified: 2026-10-31 12:58:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 11:53:53+00:00
+lastmod: 2026-10-31 12:58:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T12:58:37+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Sellars' Myth of Jones: inner episodes as theoretical posits and the theory-ladenness of introspection (todo L40, P3, harvested from optimistic-2026-10-30-secondary-quality-residue-wing, Uncovered 3)
+- **Output**: [sellars-myth-of-jones-and-theory-laden-introspection-2026-10-31](/research/sellars-myth-of-jones-and-theory-laden-introspection-2026-10-31/)
+- **Recommended action**: `fold` → `concepts/sellars-manifest-and-scientific-images`, as a new `## The Myth of Jones` section after `## The Myth of the Given`. The drafted passage has 398 body words. With two references and two Further Reading lines the fold adds about 479 words, for a host projection of 2,361 → ~2,840 (concepts hard 3,500). An optional 50-word Churchland attribution sentence is drafted for `concepts/constitutive-vs-referring-observation` L59. Caps re-measured: topics 368/370, concepts 370/370.
+- **Edition**: § numbers come from the ditext hypertext (1956 text with the 1963 notes). Parts XII–XVI = §§48–63 verified. Jones the theorist first appears at §53; the earlier "Jones" in parts II–V and VIII is a stock name. "Myth of Jones" and "theory-laden" both count 0 across all 16 parts. The label is the commentators' (Garfield 1989). Harvard 1997 numbering was not seen at source; it is indirectly consistent.
+- **Quote ledger**: 11/11 passage quotes VERIFIED by `grep -F` in normalised raw text (EPM ditext; Churchland 1981 JSTOR-scan OCR; Churchland 1985 via the 1989 reprint text layer). 0 UNREACHABLE. Each quote's subject is recorded.
+- **Key findings**: Sellars drew a realist moral ("most misleading" §59; "discovery" §62), so eliminativism adds possible falsity (Churchland 1981, p. 70, about beliefs and desires). Churchland 1985 is reductive about qualia, not eliminative. The Map's astronomy analogy is Churchland's own and goes unattributed. Theory-theory name: Morton 1980, with Gopnik 1993 applying it to self-knowledge. Churchland 1981 does not cite Sellars; the lineage is in SEP Ramsey and Churchland 1985, p. 55.
+- **Out of scope (not edited)**: `topics/eliminative-materialism` L78 has Sellars say self-evidence is "an artefact of long enculturation" (against §§51, 59 and SEP). `concepts/constitutive-vs-referring-observation` L59 and `topics/phenomenal-authority-and-first-person-evidence` L118 say "implicitly modelled", with the analogy unattributed. Phenomenal-authority L104 and L148 treat trainability as support, but Churchland 1985 predicts it as well (calibration flag).
+- **Sources consulted**: 14 (EPM ditext, all 16 parts; Churchland 1981; Churchland 1985/1989; SEP Sellars, Eliminative Materialism, Folk Psychology as a Theory, Introspection, Theory and Observation; Garfield 1989 abstract; Gopnik 1993 abstract; McDowell EPM draft; Crossref/OpenAlex metadata for O'Shea 2012, Rorty 1965, Feyerabend 1963)
 
 ## 2026-10-31T12:16:03+00:00 - deep-review
 - **Status**: Success
