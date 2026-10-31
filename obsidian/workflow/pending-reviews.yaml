@@ -445,9 +445,9 @@
   commissioned_at: '2026-10-31T04:09:23.317390+00:00'
   prompt_summary: Audit emotion-regulation-and-the-timing-of-control (recent-aged)
   target_filename: outer-review-2026-10-31-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-31T04:55:41.692856+00:00'
   failure_reason: null
   prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
     \ journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article\

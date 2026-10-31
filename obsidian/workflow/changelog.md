@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T04:34:10+00:00
+ai_modified: 2026-10-31T05:02:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T05:02:13+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro Deep Research. collect-gemini-review collected it at ~04:53 UTC, ~44 min after commission, from https://gemini.google.com/app/49453f687ad477a3. Extraction was js-dom from the h1 report panel: 26,497 chars, SHA-256 matched in-page and on disk. Gemini's source chips render empty, so the report carries no links.
+- **File**: [[reviews/outer-review-2026-10-31-gemini-3-1-pro]]
+- **Subject**: recent. `topics/emotion-regulation-and-the-timing-of-control`; third and last leg of the 2026-10-31 cycle, same subject as the ChatGPT and Claude legs.
+- **Claims verified**: 9 adjudicated against the live page, Crossref, OpenAlex, Europe PMC full text (Eronen & Bringmann 2021, PMC8273366) and the Map's quantum pages. 4 survive (one partly), 2 are lower value and 3 fail. The ego-depletion charge fails because L61 already hedges the depletion record. The circularity charge fails because the article disclaims evidential use at L37, L93, L105 and L111; one of its quotations ("location fit without providing unique evidence") is fabricated. The Seneca charge fails because L95 already disclaims the mapping. Of the reviewer's five "2020–2025" sources, Smith et al. 2021 does not exist as cited, Strauss et al. 2021 was not located, Georgiev is 2015 (not "2020/2021") and already cited on three Map pages, and Eronen & Bringmann 2021 is real but its Stroop gloss is distorted.
+- **High-value findings**: 4, all convergent with a sibling leg. Two now have three-reviewer convergence: (1) affect labelling cannot illustrate "no conscious contribution at any stage", and (2) laboratory timing findings may not transfer to the field. Two now have two-reviewer convergence and move from optional to small named items: (3) active inference as an unnamed rival architecture at L93, and (4) the Stapp section's silence on decoherence, which the Map engages on its quantum pages.
+- **Tasks generated**: 0 new. 3 addenda: the P1 "no conscious contribution at any stage" (affect-labelling convergence; do not cite Smith 2021); the P2 literature currency task, with new item (g), active inference via a pipe to `consciousness-selecting-neural-patterns#the-active-inference-rival`, about +8 words and no new reference, and new item (h), a zero-word pipe of L101's "a posit" to `zeno-dynamics-on-a-decohered-mixture`; and the P2 "earlier is easier" task (lab-to-field convergence; do not cite Strauss 2021).
+
 ## 2026-10-31T04:34:10+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5 with Research (collected by collect-claude-review at ~04:23 UTC, ~73 min after commission, from https://claude.ai/chat/af7a43ba-9166-4f8f-9844-0c8bdd76f66c; "Research complete · 380 sources · 7m 44s"; artifact panel body stable at 29,462 chars across a 10 s sentinel; js-dom extraction, 36,149-char / 36,899-byte body, SHA-256 f010a9b5…4882663e matched in-page and on disk; Blob download route)

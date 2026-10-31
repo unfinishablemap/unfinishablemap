@@ -1,0 +1,199 @@
+---
+title: "Outer Review - Gemini 3.1 Pro (2026-10-31)"
+created: 2026-10-31
+modified: 2026-10-31
+human_modified: null
+ai_modified: 2026-10-31T05:01:00+00:00
+draft: false
+description: "Gemini 3.1 Pro hostile referee report on emotion-regulation-and-the-timing-of-control: ego depletion, active inference, decoherence, ESM, circularity. 4 of 9 claims survive, all convergent; 0 new tasks, 3 addenda."
+topics:
+  - "[[emotion-regulation-and-the-timing-of-control]]"
+  - "[[emotion-and-dualism]]"
+concepts:
+  - "[[mental-effort]]"
+  - "[[stapp-quantum-mind]]"
+  - "[[zeno-dynamics-on-a-decohered-mixture]]"
+  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[quantum-consciousness]]"
+related_articles:
+  - "[[project]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "gemini-3-1-pro"
+ai_generated_date: 2026-10-31
+last_curated: null
+outer_review_status: processed
+outer_review_conversation_url: https://gemini.google.com/app/49453f687ad477a3
+outer_review_extraction_method: js-dom
+subject_type: recent
+subject_title: "Audit emotion-regulation-and-the-timing-of-control"
+subject_articles:
+  - topics/emotion-regulation-and-the-timing-of-control.md
+subject_source: reuse:pending-reviews:outer-review-2026-10-31-chatgpt-5-6-sol-pro.md
+---
+
+**Date**: 2026-10-31
+**Reviewer**: Gemini 3.1 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are a hostile pre-publication referee for a top-tier philosophy journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for submission. Your remit is to identify weaknesses that would justify rejection or major revision. The article is at https://unfinishablemap.org/topics/emotion-regulation-and-the-timing-of-control/ and makes claims about the timing of emotion regulation in Gross's process model; the site (https://unfinishablemap.org) argues for a non-reductive view of consciousness. Search indexes lag, so check https://unfinishablemap.org/workflow/changelog/ for recent edits. Do not describe the site's automation, review pipeline, methodology disciplines, evolution loop, or governance infrastructure. Those are project-internal and not the subject of audit. Assess only the article's empirical claims, citations, counterargument coverage, and logical inferences. Check its empirical accuracy against the 2020s literature, any reliance on challenged, retracted or unreplicated results, framings bracketed by the site's own commitments, and untested counterarguments or competing frameworks. If you cannot find five weaknesses, state explicitly why none are visible — but the default expectation is that a careful pre-publication audit of a contemporary topic will find five. Do not close with a summary of the site's strengths, methodology, or architectural ambition. End your report with the at-least-five weaknesses list, each with a 2020–2025 peer-reviewed source citation the article omits, contradicts, or mishandles, and a one-sentence verdict on academic-submission readiness. Do not append summary praise.
+
+## Reply
+
+# Referee Report: "Emotion Regulation and the Timing of Control"
+
+## 1. Introduction and Remit of the Audit
+
+The present report constitutes a rigorous pre-publication referee audit of the manuscript "Emotion Regulation and the Timing of Control," assessing its suitability for inclusion in a top-tier philosophy of mind and cognitive science journal. The manuscript in question attempts to construct a definitive temporal map of conscious control mechanisms by situating them within James Gross’s Extended Process Model (EPM) of emotion regulation. By synthesizing a disparate array of findings—including functional magnetic resonance imaging (fMRI) temporal dynamics, the process-specific timing hypothesis, implicit regulation paradigms, and historical Stoic philosophy—the text aims to pinpoint the exact temporal coordinates where explicit, conscious regulatory intervention occurs during an affective episode. The manuscript ultimately seeks to validate non-reductive, quantum-adjacent models of mental causation by aligning them with this temporal architecture.
+
+However, a comprehensive, hostile audit of the manuscript’s empirical claims, logical inferences, counterargument coverage, and engagement with the contemporary (2020–2026) scientific and philosophical literature reveals fatal structural and theoretical vulnerabilities. The manuscript is fundamentally anchored in superseded theoretical paradigms and relies heavily on empirical data that has been decimated by the replication crisis. Furthermore, the text demonstrates a superficial and anachronistic engagement with cognitive ontology, the philosophy of science, and the biophysics of neurobiology.
+
+Specifically, the manuscript’s mechanistic claims regarding the cognitive costs of late-stage regulation depend entirely on the thoroughly discredited "ego depletion" literature. Its conceptualization of implicit regulation ignores transformative recent work in deep active inference and predictive processing. Its treatment of quantum models of mental causation is physically unviable, ignoring definitive environmental decoherence proofs that prohibit the operation of the Quantum Zeno Effect on neurological timescales. Finally, the manuscript’s concluding analytical framing relies on idiosyncratic, project-internal tenets that generate an epistemically circular and unfalsifiable theoretical architecture.
+
+The subsequent sections of this report exhaustively detail these fatal weaknesses, demonstrating precisely why the manuscript fails to meet the rigorous empirical and philosophical standards required for academic publication in a premier journal.
+
+## 2. The Epistemological Collapse of the Temporal Cost Argument
+
+A central pillar of the manuscript’s argument regarding the timing of conscious control relies heavily on the premise that late-initiated emotion regulation incurs severe, measurable cognitive costs. To substantiate this claim, the manuscript cites Sheppes and Meiran (2007, 2008), asserting that late-stage cognitive reappraisal passes a "point of no return," thereby triggering "ego depletion" and generating larger Stroop interference effects. By relying on the ego depletion paradigm to construct its model of temporal regulatory costs, the manuscript inadvertently grounds its thesis in one of the most highly contested and thoroughly dismantled concepts in modern psychological science.
+
+### 2.1 The Ego Depletion Replication Crisis and Motivational Revisions
+
+The concept of ego depletion—the idea that self-control is a finite, domain-general resource that drains with use, akin to a muscle—has suffered a catastrophic collapse in scientific credibility over the past decade, culminating in severe theoretical re-evaluations between 2020 and 2025. Following the multi-lab preregistered replication study by Hagger et al. (2016), which found an overall effect size virtually indistinguishable from zero ($d = 0.04$) and confidence intervals crossing zero for the vast majority of participating laboratories, the empirical foundation of the strength model of self-control effectively evaporated.
+
+The manuscript’s uncritical invocation of "ego depletion" as a factual mechanism of late-stage regulation in a contemporary submission betrays a shocking detachment from the current literature. Recent meta-analyses and theoretical audits explicitly reject the resource-depletion model. Inzlicht, Friese, and others have systematically demonstrated that what was previously categorized as "depletion" is more accurately modeled as a shift in motivation and attention, rather than the exhaustion of a generic cognitive resource. According to contemporary process models, initial bouts of effortful control do not diminish an individual's *ability* to exert subsequent effort; rather, they alter the individual's *willingness* to do so, as alternative courses of action become more subjectively rewarding.
+
+By treating ego depletion as an established empirical fact to prove that late reappraisal is inherently "costly," the manuscript bases its temporal map of conscious control on an illusion. If the late initiation of reappraisal does not actually drain a finite cognitive resource, the manuscript's architectural boundary mapping—which uses this metabolic cost to cleanly separate early from late control mechanisms—loses its primary empirical and logical justification.
+
+| Paradigm Characteristic | Classical Resource Model (Cited by Manuscript) | Contemporary Motivational Model (2020–2025 Consensus) |
+| --- | --- | --- |
+| **Nature of Self-Control** | Finite, domain-general physical/cognitive resource (mental fuel). | Dynamic allocation of attention and subjective valuation. |
+| **Mechanism of Failure** | Resource exhaustion ("ego depletion") leading to incapacity. | Shift in motivation; choosing not to exert effort toward a specific goal. |
+| **Temporal Cost Implication** | Late-stage regulation strictly drains remaining cognitive reserves. | Late-stage regulation alters cost-benefit appraisals; no finite pool is emptied. |
+| **Empirical Standing** | Discredited by massive multi-lab replication failures (Hagger et al., 2016). | Supported by Bayesian re-evaluations and predictive processing frameworks. |
+
+### 2.2 The Theory Crisis and Construct Validity in Philosophy of Science
+
+Beyond the mere failure to replicate a specific laboratory effect, the manuscript runs afoul of what Eronen and Bringmann (2021) define as the "Theory Crisis in Psychology". From a philosophy of science perspective, Eronen and Bringmann forcefully argue that psychological constructs such as "self-control" and "ego depletion" suffer from a fatal lack of valid operationalization and are not constrained by robust, undisputed phenomena. In the hard sciences, theories are tightly constrained by robust phenomena (e.g., the movement of celestial bodies constrains astrophysical theories); in psychology, the reliance on vague, highly context-dependent constructs results in theories that are empirically unmoored and theoretically isolated.
+
+The manuscript falls directly into this epistemological trap. It treats "emotion regulation," "cognitive change," and "ego depletion" as if they were natural kinds with fixed temporal and energetic properties. Eronen and Bringmann (2021) explicitly cite ego depletion research as the prime example of the theory crisis, noting that the experimental setups used to measure self-control in these studies (such as the Stroop tasks cited by the manuscript) have never been rigorously validated. Therefore, relying on Sheppes and Meiran’s (2007, 2008) artificial laboratory setups to extrapolate grand, mechanistic claims about the timing of conscious intervention in the human cognitive architecture is a severe methodological and philosophical overreach. The manuscript fails to acknowledge that the data it cites are essentially noisy artifacts of an invalid construct, entirely undermining its claims about a rigid "point of no return" in emotional processing.
+
+## 3. Mischaracterization of Affect Labeling and the Deep Active Inference Paradigm
+
+In its fifth section, the manuscript addresses "Regulation Without a Regulator’s Awareness," asserting that emotion regulation can occur implicitly, entirely without conscious supervision. To support this, the manuscript cites Torre and Lieberman (2018) on affect labeling, categorizing the act of putting feelings into words as an "implicit emotion regulation" strategy that operates automatically. This framing represents a profound mischaracterization of the contemporary cognitive ontology of emotion and ignores the revolution brought about by predictive processing and active inference models between 2020 and 2025.
+
+### 3.1 The Metacognitive Nature of Affect Labeling
+
+To classify affect labeling as purely "implicit" creates a false dichotomy between automatic and controlled processes that contemporary theoretical neuroscience has largely abandoned. Recent literature rooted in deep active inference conceptually redefines how the brain processes and regulates emotional states. According to the active inference framework advanced by Smith et al. (2021) and others, the brain is a hierarchical prediction machine that constantly attempts to minimize expected free energy (i.e., surprise or uncertainty) through the dynamic interplay of top-down predictions and bottom-up prediction errors.
+
+Within this computational framework, affect labeling is emphatically not a blind, automatic mechanism; it requires higher-order, metacognitive inference. Smith et al. (2021) explicitly model meta-awareness and emotional awareness as a capacity to form higher-order inferences about lower-level autonomic and affective arousal. When an individual engages in affect labeling, they are updating the precision weighting of interoceptive prediction errors, bringing lower-level physiological fluctuations into a coherent, higher-level conceptual and semantic workspace. This requires parametric depth in the generative model—a highly sophisticated cognitive act of self-inference that sits squarely at the intersection of consciousness, semantic processing, and interoceptive control.
+
+By flattening affect labeling into the category of "implicit regulation," the manuscript ignores the complex, metacognitive precision-weighting dynamics required to translate an interoceptive prediction error into a semantic label. This theoretical oversight invalidates the manuscript’s attempt to use affect labeling as evidence that consciousness is "not necessary" for certain regulatory goals. On the contrary, the active inference paradigm suggests that the very act of labeling *is* a conscious, precision-modulating intervention designed to resolve uncertainty.
+
+### 3.2 The Continuum of Predictive Control and Generative Models
+
+The manuscript’s reliance on the Braunstein, Gross, and Ochsner (2017) two-axis framework (implicit/explicit goals crossed with automatic/controlled processes) is insufficient for a 2026 philosophical treatise. The 2020–2025 literature demonstrates that the rigid boundary between emotion generation and emotion regulation, and similarly between automaticity and control, is dissolved by predictive processing. Emotions arise through the continuous, cyclical interaction of descending bodily predictions and ascending prediction errors. Emotion regulation, therefore, is simply the process of updating the generative model to minimize interoceptive surprise.
+
+Because the manuscript fails to engage with the Bayesian brain hypothesis, deep active inference, or interoceptive predictive processing, its entire architectural map of "where conscious control sits" is functionally obsolete. The manuscript searches for a specific, isolated temporal node for conscious intervention in a linear model, completely missing the modern theoretical consensus that conscious control is a continuous, hierarchically distributed process of precision-weighting and probabilistic belief updating.
+
+| Concept | Extended Process Model (Cited Framework) | Deep Active Inference (2020–2025 Consensus) |
+| --- | --- | --- |
+| **Emotion Generation** | A distinct, early phase triggered by stimulus evaluation. | Continuous generation of top-down interoceptive predictions. |
+| **Emotion Regulation** | A subsequent intervention applied to generated emotion. | The continuous updating of generative models to minimize expected free energy. |
+| **Affect Labeling** | Categorized rigidly as "implicit" and automatic. | A metacognitive act of higher-order inference over lower-level autonomic arousal. |
+| **Conscious Control** | Localized at specific temporal nodes (e.g., selection/implementation). | Distributed across hierarchical levels via precision-weighting of prediction errors. |
+
+## 4. The Physical Unviability of the Quantum Zeno Effect in Neurobiology
+
+In a highly controversial and scientifically fraught subsection, the manuscript re-evaluates the application of the Quantum Zeno Effect (QZE) to Ochsner et al.’s (2002) cognitive reappraisal fMRI data, as originally proposed by Schwartz, Stapp, and Beauregard (2005). While the manuscript attempts to offer modest counterarguments—suggesting that top-down cognitive control architectures can account for the data without non-physical causation (citing Buhle et al. 2014) and pointing out that Stapp’s model fits the map but provides no "unique evidence"—its critique is perilously weak, philosophically naive, and physically illiterate.
+
+### 4.1 The Ignored Problem of Environmental Decoherence
+
+The fatal flaw in the manuscript’s treatment of the quantum mind hypothesis is its total failure to engage with the physics of environmental decoherence, which unequivocally destroys the viability of the QZE in the context of cognitive reappraisal. The Schwartz-Stapp-Beauregard model relies heavily on the von Neumann-Wigner interpretation of quantum mechanics, wherein conscious attention (Process 1) holds a superposition of brain states in a specific eigenstate via rapid, repeated observations—the proposed neurological manifestation of the Quantum Zeno Effect.
+
+However, between 2020 and 2025, rigorous physical analyses have demonstrated that the application of the QZE to macroscopic, thermodynamic brain states is a fundamental category mistake. Specifically, peer-reviewed Monte Carlo simulations and theoretical physics papers by researchers such as Georgiev have definitively proven that the Quantum Zeno Effect breaks down rapidly in the brain due to environmental decoherence. The human brain is a macroscopic, warm, wet, and highly noisy environment. The decoherence timescales for neural superpositions under these biological conditions are on the order of $10^{-13}$ to $10^{-20}$ seconds.
+
+Cognitive reappraisal, as measured by the fMRI and EEG studies heavily cited by the manuscript (e.g., Goldin et al. 2008, Thiruchselvam et al. 2011), unfolds over a timescale of milliseconds to seconds (e.g., 0–4.5 seconds for early prefrontal cortex responses). It is physically impossible for a Quantum Zeno holding mechanism to operate over a span of several seconds in an environment where environmental decoherence destroys quantum superpositions in a matter of femtoseconds. The timescale mismatch spans over fourteen orders of magnitude.
+
+### 4.2 Epistemic Irresponsibility in Theoretical Auditing
+
+By stating merely that Stapp’s model "fits Map tenets as a location fit without providing unique evidence," the manuscript lends undue academic credibility to a physically falsified paradigm. A rigorous philosophical referee must demand that hypotheses mapping consciousness to physical brain states obey the established laws of thermodynamics and quantum mechanics. The manuscript’s failure to cite Georgiev’s decoherence proofs, or to acknowledge the absolute timescale mismatch between cognitive emotion regulation and quantum decoherence, renders its entire discussion of the Quantum Zeno Effect scientifically invalid. Treating Stapp’s theory as a plausible, albeit unproven, alternative betrays a fundamental misunderstanding of contemporary biophysics and represents a severe lapse in academic rigor.
+
+## 5. Ecological Validity, ESM, and the Rigidity of the Extended Process Model
+
+The manuscript grounds its temporal mapping strictly in James Gross’s Extended Process Model (EPM), aggressively differentiating between antecedent-focused and response-focused strategies, and treating the timeline of strategy execution as a fixed biological reality. It relies heavily on laboratory-derived fMRI and EEG findings (Goldin et al. 2008; Thiruchselvam et al. 2011) and older meta-analyses (Webb, Miles & Sheeran 2012) to make sweeping, generalized claims about strategy efficacy and timing. This laboratory-centric, rigid staging completely ignores the shift toward ecological validity and contextual flexibility that has defined emotion regulation research in the 2020s.
+
+### 5.1 The Experience Sampling Methodology (ESM) Revolution
+
+The manuscript uncritically accepts the "process-specific timing hypothesis" (Sheppes & Gross 2011), which dictates that early strategies require minimal effort regardless of intensity, while late strategies require effort proportional to emotional intensity. However, this hypothesis is increasingly viewed as an artifact of highly constrained, forced-choice laboratory paradigms. The contemporary literature has moved aggressively into the real world, utilizing Experience Sampling Methodology (ESM) to track emotion regulation in the flow of daily life.
+
+Recent ESM studies, such as the comprehensive work by Strauss et al. (2021), demonstrate that in ecologically valid settings, emotion regulation strategy use and efficacy are not dictated by a rigid temporal sequence, but rather by dynamic contextual appraisals. Strauss et al. found that event intensity, perceived controllability, and contextual demands are the primary drivers of strategy selection and regulatory success. This fundamentally disrupts the clean temporal demarcations of the EPM; a strategy considered "late" in a laboratory setting may be deployed rapidly and effectively in real-world contexts depending on the subject's appraisal of the stressor. By failing to incorporate 2020–2025 ESM data, the manuscript’s temporal map is restricted to an artificial laboratory vacuum, severely limiting its theoretical utility and philosophical relevance.
+
+### 5.2 Outdated Meta-Analytic Reliance and Spatial Network Topologies
+
+Furthermore, the manuscript relies on Webb et al. (2012) to anchor its claims about the efficacy of implementation intentions ($d_+ = 0.91$) and cognitive change ($d_+ = 0.36$). This ignores a decade of subsequent network meta-analyses and neuroimaging updates. For instance, the manuscript cites Morawetz et al. (2017) regarding neural overlaps but conspicuously misses Morawetz’s 2020–2021 updated meta-analyses on amygdala-prefrontal connectivity and the functional networks of cognitive reappraisal.
+
+These recent neuroimaging meta-analyses demonstrate distinct, functionally specialized roles in the left and right ventrolateral prefrontal cortex (VLPFC) during cognitive reappraisal. The literature shows that "timing" cannot be cleanly separated from the specific inhibitory and generative network topologies engaged by the subject. Activation of the right VLPFC, for example, is heavily implicated in the direct inhibitory control of emotional responses, independent of whether the strategy is classified as "early" or "late". The manuscript’s reliance on older meta-analyses, while ignoring the complex network connectivity data of the 2020s, results in a gross oversimplification of how explicit control is computationally implemented in the brain. Temporal mapping is useless without accurate spatial network mapping, and the manuscript fails entirely on the latter front.
+
+## 6. Epistemic Circularity and the Misappropriation of Stoic Philosophy
+
+A rigorous philosophical manuscript must build its arguments on independently verifiable premises, logical deduction, and empirical consensus. This manuscript, however, suffers from a fatal methodological flaw in its concluding section: epistemic circularity. Furthermore, it engages in a shallow misappropriation of historical texts to artificially bolster its mechanistic claims regarding emotion generation.
+
+### 6.1 The Unfalsifiability of "Site Tenets"
+
+In Section 8, titled "Relation to Site Perspective," the manuscript analyzes its findings against four proprietary tenets: *Bidirectional Interaction, Minimal Quantum Interaction, Dualism,* and *Occam’s Razor Has Limits*. The manuscript uses these tenets as an interpretive bracket, concluding that mapping explicit control to specific points provides a "location fit" for Bidirectional Interaction, and that Occam’s Razor "prevents dismissing conscious contributions" simply because physical valuation models suffice.
+
+This is a textbook example of epistemic circularity. The manuscript is not testing a hypothesis against reality; it is filtering cherry-picked literature through its own dogmatic commitments. A philosophical referee must reject arguments that rely on project-internal axioms to validate external data. If the manuscript’s conclusions about the timing of conscious control are bracketed by a pre-commitment to "Dualism" and "Minimal Quantum Interaction," the paper ceases to be an objective philosophical inquiry and becomes an exercise in confirmation bias. It is entirely unacceptable for a submission to a mainstream academic journal to justify its logical leaps by appealing to its own idiosyncratic ideological infrastructure. Theoretical models must be validated by empirical phenomena, not by alignment with the author's proprietary manifestos.
+
+### 6.2 The Oversimplification of Stoic Emotion and Moral Psychology
+
+The manuscript attempts to lend historical gravitas to its temporal mapping by citing Seneca’s *De Ira* (Book II.4.1), specifically the "three movements" of anger, mapping the involuntary onset and the voluntary assent to the modern generation/regulation divide. However, this reading is philosophically superficial and ignores the highly nuanced contemporary scholarship on Stoic psychology.
+
+As detailed in the 2020–2025 literature, and particularly in the seminal interpretations by Margaret Graver (*Stoicism and Emotion*), the Stoic conception of the "first movement" (the *propatheia* or involuntary pre-emotion) is emphatically not devoid of cognitive or evaluative content, nor is the boundary between the first and second movements as neatly mechanistic as the manuscript implies. The Stoics viewed emotions themselves as cognitive judgments. By flattening Seneca’s sophisticated moral psychology into a crude analog for James Gross’s Extended Process Model, the manuscript strips the historical text of its philosophical context. It fails to address the rich, ongoing debate over what actually constitutes "assent" in Stoicism, treating a deeply ethical framework regarding virtue and vice as a mere biological timeline of neurological activation. This lack of scholarly rigor regarding primary philosophical texts renders the historical comparison both inaccurate and intellectually hollow.
+
+## 7. Required Action and Conclusion
+
+The manuscript "Emotion Regulation and the Timing of Control" is fundamentally flawed at both the empirical and conceptual levels. It constructs a temporal map of conscious intervention using invalid psychological constructs (ego depletion), outdated meta-analyses, physically impossible biophysics (the Quantum Zeno Effect operating in the macroscopic brain), and artificial laboratory paradigms that lack ecological validity. Its failure to engage with the 2020–2025 literature on the theory crisis, predictive processing, and environmental decoherence renders its theoretical architecture dangerously obsolete. Furthermore, its reliance on epistemically circular reasoning to validate its non-reductive conclusions violates the foundational norms of philosophical inquiry.
+
+As mandated by the review remit, the following five specific weaknesses, strictly supported by contemporary omissions or mishandled citations, justify the rejection of this manuscript:
+
+1. **Reliance on Invalidated Ego Depletion Paradigms:** The manuscript utilizes Sheppes & Meiran (2007, 2008) to argue for the severe cognitive costs of late-stage regulation, entirely ignoring the 2020–2025 consensus that the strength model of self-control has collapsed due to replication failures and the broader "Theory Crisis in Psychology" (omitted context: Eronen & Bringmann, 2021).
+2. **Physical Impossibility of the Quantum Zeno Effect:** The manuscript entertains Stapp’s QZE model for cognitive reappraisal without acknowledging the thermodynamic reality that environmental decoherence in the brain destroys quantum superpositions in femtoseconds, orders of magnitude faster than the seconds required for emotion regulation (omitted contradiction: Georgiev, 2020/2021 physical simulations).
+3. **Misclassification of Affect Labeling:** The manuscript strictly categorizes affect labeling as "implicit" regulation, ignoring recent deep active inference models demonstrating that emotional awareness and semantic labeling require metacognitive, higher-order inferences regarding interoceptive precision (omitted contradiction: Smith et al., 2021).
+4. **Failure to Account for Ecological Validity and Context:** The manuscript relies on laboratory-derived, rigid temporal sequencing (the process-specific timing hypothesis), ignoring recent Experience Sampling Methodology (ESM) data showing that real-world emotion regulation flexibility is driven by dynamic contextual appraisals rather than strict temporal rules (omitted context: Strauss et al., 2021).
+5. **Epistemic Circularity and Methodological Dogmatism:** The manuscript explicitly brackets its conclusions regarding conscious causation and valuation models through the lens of its own pre-committed tenets (e.g., "Bidirectional Interaction," "Occam's Razor Has Limits"), thereby violating standard philosophical norms of falsifiability and independent theoretical justification (methodological flaw intrinsic to the text's argumentative structure).
+
+**Verdict:** Due to pervasive reliance on empirically retracted concepts, physically unviable models, and epistemic circularity, this manuscript is entirely unfit for academic submission and requires outright rejection.
+
+## Verification Notes
+
+Processed 2026-10-31 ~05:00 UTC by the collect-gemini-review driver, as the third and last leg of the cycle. The reviewer's claims were checked against the live Obsidian text of `topics/emotion-regulation-and-the-timing-of-control.md` (2,722 words by `analyze_length`; topics hard 4,000; unchanged since the 2026-10-24 deep review). The report has no links: Gemini's source chips render empty in the DOM, so every source below was located independently at Crossref, OpenAlex, Europe PMC or PubMed. Extraction: 26,497 characters, SHA-256 `90df46e5…a24ecb`, matched in-page and on disk.
+
+**Verified claims (survive; all convergent with a sibling leg, recorded as addenda, no new task):**
+
+- ✓ **Affect labelling cannot illustrate regulation with "no conscious contribution at any stage" (§3.1, weakness 3).** Putting a feeling into words is a deliberate verbal act. Torre & Lieberman's "implicit" refers to the regulatory goal, and to labelling "may not even feel like a regulatory process". This is item (1) of today's P1 (ChatGPT), which Claude also reached, so it now has three-reviewer convergence. Two parts fail. First, the swing to the opposite claim, that labelling "*is* a conscious, precision-modulating intervention", outruns any source. Second, the cited "Smith et al. (2021)" does not exist. The nearest works are Smith, Lane, Parr & Friston 2019 (*Neurosci. Biobehav. Rev.* 107, 473–491, doi 10.1016/j.neubiorev.2019.09.002) on emotional awareness, and Sandved-Smith et al. 2021 (*Neurosci. Conscious.* niab018, doi 10.1093/nc/niab018) on meta-awareness and "parametric depth". Neither models affect labelling. Addendum on the P1.
+- ✓ **Active inference is an unengaged rival architecture (§3.2).** The article names only a valuation architecture (Gross 2015; the P2 currency task adds Etkin et al. 2015) as the physical model that predicts the same timing record. Claude §3 item 3 raised the same gap and judged it optional, so this is now a two-reviewer convergence. The fix costs about eight words and no reference: a piped link to `concepts/consciousness-selecting-neural-patterns` §"The Active-Inference Rival" (L84), which already cites Sandved-Smith et al. 2021. Gemini's framing fails: active inference is not a "modern theoretical consensus", and it does not make the process model "functionally obsolete". Addendum on the P2 currency task, item (g).
+- ~ **The Stapp section does not mention the decoherence objection (§4.1–4.2, weakness 2).** This is true of this page, which calls the Zeno account "a posit" and calibrates only its evidential weight. It is false of the Map. `concepts/zeno-dynamics-on-a-decohered-mixture`, `concepts/quantum-consciousness` L124/L249 and `concepts/coupling-modes` L112/L189 engage Tegmark's figures and Georgiev's Monte Carlo result directly. Claude §3 item 5 made the same point and ruled that re-arguing decoherence belongs on the quantum pages. That ruling stands. A zero-word pipe on the existing "a posit" (L101) answers the referee's "total failure to engage". Addendum on the P2 currency task, item (h). Three things fail. (a) The date: Georgiev's simulations are **2015** (*Int. J. Mod. Phys. B* 29(7), 1550039, doi 10.1142/S0217979215500393 ✓), not "2020/2021". (b) The 10⁻¹³–10⁻²⁰ s figures are Tegmark 2000's, not Georgiev's. (c) "Definitively proven" and "physically falsified" overclaim. The Map's own analysis finds Georgiev's redundancy charge true in the rate regime and leaves open which regime a brain occupies. Gemini also casts Stapp as "von Neumann–Wigner". Stapp works from von Neumann's orthodox formulation (Process 1), as the article states.
+- ✓ **Laboratory timing findings may not transfer to daily life (§5.1, weakness 4).** This is item (c) of today's P2 "earlier is easier" task, with verified sources (Wilms et al. 2020; Mitchell et al. 2025). It is now a three-reviewer convergence. Gemini's own source, "Strauss et al. (2021)", was **not located** in two Crossref queries. Its claim that a laboratory-"late" strategy "may be deployed rapidly" in the field has no located support. Addendum on that P2.
+
+**Partially verified / lower value (not tasked):**
+
+- ~ **"Morawetz's 2020–2021 updated meta-analyses" (§5.2).** Both exist. Morawetz, Riedel, Salo, Berboth, Eickhoff, Laird & Kohn 2020, *Neurosci. Biobehav. Rev.* 116, 382–395 (doi 10.1016/j.neubiorev.2020.07.001), finds four large-scale networks, two regulatory ("response inhibition or executive control versus appraisal or language processing"). Berboth & Morawetz 2021, *Neuropsychologia* 153, 107767, also exists. Neither abstract supports the claim that the right VLPFC acts "independent of whether the strategy is classified as early or late". The verdict "temporal mapping is useless without accurate spatial network mapping" is opinion. The article deliberately rests timing on time-resolved designs (L63), and ChatGPT §14 found the 2017 citation accurate. This is currency without consequence for any claim, so it is not tasked.
+- ~ **Webb et al. 2012 as an "older meta-analysis".** No replacement is named. Gemini also conflates the two Webb 2012 papers: it attributes the implementation-intention d+ = 0.91 to Webb, Miles & Sheeran, whereas the article (L91) correctly gives it to Webb, Schweiger Gallo et al.
+
+**Disputed claims (fail against the live page or the record):**
+
+- ✗ **The article treats ego depletion "as an established empirical fact" and uses "this metabolic cost to cleanly separate early from late control mechanisms" (§2.1–2.2, weakness 1).** False. L61 already reports that Sheppes & Meiran's cost "was measured as ego depletion, a larger Stroop effect … with no unregulated control group, so it carries the depletion record that the mental-effort article reviews". The 2026-10-24 deep review installed that hedge. §not-uniform then dismantles any clean early/late separation. Gemini also merges two findings: the 2007 "point of no return" concerns effectiveness, and only the 2008 paper reports a cost. Its sources are real. Hagger et al. 2016's d = 0.04 ✓. Inzlicht & Friese 2019 ✓ (*Social Psychology* 50, 370–378). Eronen & Bringmann 2021 ✓ (*Perspect. Psychol. Sci.* 16, 779–788; full text PMC8273366): ego-depletion research is "a prime example" of constructs of unknown validity, and the self-control measures in depletion studies "have never been validated". But Gemini's parenthesis, "such as the Stroop tasks cited by the manuscript", is its own insertion. Eronen & Bringmann use the Stroop effect as their example of a *robust* phenomenon. The depletion record's propagation to other pages is already tasked (today's P1 on `trilemma-of-selection` and `apex/testing-the-map-from-inside`).
+- ✗ **"Epistemic circularity": the article validates data through its tenets (§6.1, weakness 5).** False. The article says "the location is fit, not evidence" (L37), and calls the placement "fit, not evidence" (L93). It says Bidirectional Interaction gets "a location rather than support" (L105). It says Occam's limits "supplies no reason to posit one where those models already suffice" (L111). Two of the passages Gemini quotes are not on the page. "Fits Map tenets as a location fit without providing unique evidence" appears nowhere in the article, its research note or the changelog: it is a fabricated quotation. "Prevents dismissing conscious contributions" truncates L111 just before its anti-circularity clause. The section numbering is also wrong: the implicit section is the fourth H2, not the "fifth section", and the tenet section is the seventh, not "Section 8".
+- ✗ **The Seneca passage is "flattened" into "a mere biological timeline" (§6.2).** False. L95 already says that Seneca "was a Stoic corporealist writing about assent, his movements do not map onto Gross's stages, and the parallel is no evidence". The article says nothing about whether first movements have cognitive content. Graver's *Stoicism and Emotion* is a 2007 monograph, outside the reviewer's own 2020–2025 window.
+
+**Citation audit of the reviewer's five "2020–2025" weakness sources:** Eronen & Bringmann 2021 ✓ (exists; gloss partly distorted, and it bears on an article that already hedges); Georgiev "2020/2021" ✗ year (the work is 2015, and the Map already cites it on three pages); Smith et al. 2021 ✗ does not exist as cited; Strauss et al. 2021 ✗ not located; weakness 5 cites no source. One of five is usable as described, and that one is not needed.
+
+**Convergence with today's sibling legs:** all four surviving findings repeat ChatGPT 5.6 Sol Pro and/or Claude Opus 5.5. Affect-labelling scope and the lab-to-field gap reach three-reviewer convergence. Active inference and the decoherence pointer reach two-reviewer convergence and move from "optional" to small named items. Gemini adds no finding that neither sibling raised.
+
+**Tasks generated:** 0 new. Addenda: the P1 "no conscious contribution at any stage" (todo ~L3787); the P2 literature currency task (~L3796), items (g) active inference and (h) decoherence pipe; and the P2 "earlier is easier" task (~L3832), lab-to-field convergence.
