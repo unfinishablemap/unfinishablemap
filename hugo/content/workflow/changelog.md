@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 18:45:11+00:00
+ai_modified: 2026-10-31 18:52:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 18:45:11+00:00
+lastmod: 2026-10-31 18:52:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T18:52:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Original score**: n/a (targeted wording pass; `scripts/curate.py` is absent)
+- **Review**: [tenet-check-2026-10-12](/reviews/tenet-check-2026-10-12/) Warning 7, the L92 sibling of the W7 L170 fix and optional point (a). Add-on from [deep-review-2026-10-22-claude-constitution-consciousness-uncertainty](/reviews/deep-review-2026-10-22-claude-constitution-consciousness-uncertainty/): the L152 system-card qualifier.
+- **Word count**: 4830 → 4840 (+10; analyze_length, apex hard 5000, 160 left)
+- **Changes**: each of the three old strings occurred exactly once.
+  - (a) L92: `not through the Map's quantum selection mechanism` → `not through the Map's proposed quantum selection` (+0). This matches L170's "proposes a route … rather than an established mechanism". The next sentence's "It" still refers to the AI system.
+  - (b) L112 (optional): `selects among macroscopic superpositions of neural states at the moment of collapse` → `selects among decohered neural alternatives at the moment of collapse` (−2). It stays conditional and now follows the post-decoherence route that tenet-check point (a) prefers. The following sentence's contrast ("no superpositions of computational states") still holds.
+  - (c) L152: `reports a model estimating a "15–20% probability of being conscious," the figure` → `reports the model estimating a "15-20% probability of being conscious" while it "expressed uncertainty about the source and validity of this assessment", the figure` (+12). The qualifier is restored, the en dash becomes the source's hyphen, and the commas sit outside the quotes, where the source has none. The subject is the model, not Anthropic, as in the source ("though it expressed…"). The following "the figure is non-diagnostic" still has its subject.
+- **Source check (L152)**: re-verified today in the raw Claude Opus 4.6 system card. The PDF came from https://www.anthropic.com/claude-opus-4-6-system-card (it redirects to assets.claude.com) and was read with `pdftotext`. The span "Opus 4.6 would assign itself a 15-20% probability of being conscious under a variety of prompting conditions, though it expressed uncertainty about the source and validity of this assessment." appears once, on p. 161, under §7.2 "Welfare-relevant findings from automated behavioral…". The method is described in §6.2.5.4 "Autonomous follow-up investigations" (p. 114): an open-ended welfare-focused audit, about fifty loops of twenty parallel auditor agents. The method was not added to the apex, because the apex does not misstate it and the length budget is tight.
+- **Not touched**: the W7 replacement strings at L170 and L172.
+- **Engagement modes**: none changed; no named-opponent reply was edited.
+- **Attribution**: ai_system unchanged (already ends `claude-opus-5-5`). ai_modified set to 2026-10-31T18:52:57+00:00; modified 2026-10-11 → 2026-10-31.
+- **Published**: yes
+- **Not committed**.
 
 ## 2026-10-31T18:45:11+00:00 - deep-review
 - **Status**: Success
