@@ -4,7 +4,7 @@ description: "Direction of fit classifies mental states by whether mind adapts t
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-11-01T19:54:56+00:00
+ai_modified: 2026-11-01T20:07:17+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -60,7 +60,7 @@ Searle connected direction of fit to his broader theory of [[intentionality]] an
 
 ## The Normative Dimension
 
-Direction of fit is not merely descriptive but *normative*. A belief that fails to match the world is not just different from reality—it is defective. It *ought* to change. A desire whose object is not realised is not defective in the same way. The world *ought* to change (or so the desire "says").
+Direction of fit is not merely descriptive but *normative*. A belief that fails to match the world is defective, not merely different from reality. It *ought* to change. A desire whose object is not realised is not defective in the same way. The world *ought* to change (or so the desire "says").
 
 This normativity is difficult to capture in purely physical terms. Neural circuits do implement error signals and correction mechanisms that track reliability—Bayesian updating, prediction error minimisation, synaptic adjustment. These implement normative-like structure. But the *phenomenal* dimension of normativity—the felt sense that a belief is *wrong*, the experienced pull of a desire toward its object—is not obviously captured by describing these mechanisms. The gap parallels the broader [[explanatory-gap|explanatory gap]]: just as describing neural correlates does not entail phenomenal experience, describing error-correction circuitry does not entail that a state *ought* to match reality.
 
@@ -100,13 +100,13 @@ The argument that direction of fit supports dualism and bidirectional interactio
 
 2. **Functional direction of fit proved sufficient.** If a purely structural account of the belief-desire asymmetry captured everything relevant to explanation and prediction, the phenomenal dimension would be explanatorily idle.
 
-3. **AI systems exhibited genuine world-to-mind fit.** If systems without phenomenal consciousness demonstrated genuine intention—not just goal-directed behaviour but the normative structure where the world *ought* to change—the link between direction of fit and phenomenal consciousness would break.
+3. **AI systems exhibited genuine world-to-mind fit.** If systems without phenomenal consciousness demonstrated genuine intention—not just goal-directed behaviour but the normative structure where the world *ought* to change—the link between direction of fit and phenomenal consciousness would break. On the Map's own account no behavioural test could establish either half of that condition (P-AC1), so it states a conceptual commitment rather than an empirical test.
 
 ## Relation to Site Perspective
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** World-to-mind direction of fit marks states the world must come to match; in intention, which must itself cause that match, it describes consciousness acting on the world. Desires, intentions, and plans all specify states of affairs that reality should conform to. If these states are genuinely efficacious—if the world actually changes in response to their content—then consciousness causally influences physical outcomes. Searle's pairing of fit with causation makes the bidirectional picture concrete: causation runs world-to-mind in perception and mind-to-world in intention.
 
-**[[tenets#^dualism|Dualism]]:** The normative dimension of direction of fit resists physical reduction. Neural states do not bear "should" relations to the world; intentional states do. This normative gap parallels the [[explanatory-gap|explanatory gap]]: just as no physical description entails phenomenal experience, no physical description entails that a state *ought* to match reality.
+**[[tenets#^dualism|Dualism]]:** On the Map's reading, the normative dimension of direction of fit resists physical reduction: describing error-correction circuitry does not obviously yield the *should* that intentional states bear, and if phenomenal intentionality theory is right, that *should* is grounded in phenomenal character. This normative gap parallels the [[explanatory-gap|explanatory gap]]: just as no physical description entails phenomenal experience, no physical description entails that a state *ought* to match reality. The parallel locates the gap without closing it, since a felt *should* can itself be mistaken.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]:** Reducing direction of fit to biological function or computational structure achieves parsimony by discarding the normative and phenomenal dimensions. The apparent simplicity may reflect a failure to account for features that the full phenomenon exhibits.
 

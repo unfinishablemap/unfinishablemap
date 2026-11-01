@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 19:54:56+00:00
+ai_modified: 2026-11-01 20:07:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 19:54:56+00:00
+lastmod: 2026-11-01 20:07:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T20:07:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [direction-of-fit](/concepts/direction-of-fit/)
+- **Source**: Issue 2 / Priority 2 (Task B) of [pessimistic-2026-11-01-direction-of-fit](/reviews/pessimistic-2026-11-01-direction-of-fit/). Runs after the sibling Task A (19:54Z), which rewrote L107. L107 was read first and left alone; the new L109 matches its conditional register.
+- **Original score**: n/a (targeted consistency fix; `scripts/curate.py` absent)
+- **Defect**: epistemic-to-metaphysical equivocation. L65 makes an epistemic claim about what descriptions of circuitry capture ("These implement normative-like structure"; "is not obviously captured by describing these mechanisms"). L109 asserted the metaphysical version without the hedge, and "intentional states do" presupposed that intentional states are not neural states, which is the point in dispute.
+- **Changes** (each OLD string re-grepped with `grep -cF` first, count 1):
+  - (1) L109 Dualism: "The normative dimension of direction of fit resists physical reduction. Neural states do not bear "should" relations to the world; intentional states do." became "On the Map's reading, the normative dimension of direction of fit resists physical reduction: describing error-correction circuitry does not obviously yield the *should* that intentional states bear, and if phenomenal intentionality theory is right, that *should* is grounded in phenomenal character." This is now at L65's epistemic calibration and conditional on PIT, as L67 is. The explanatory-gap sentence that follows was kept.
+  - (2) L109 optional parity clause, INSTALLED: "The parallel locates the gap without closing it, since a felt *should* can itself be mistaken." was appended after "no physical description entails that a state *ought* to match reality." It answers the Dennett-persona parity objection, that phenomenal description does not entail an ought either. PIT's conditional at L67 stays the Map's bet.
+  - (3) L103 falsifier 3: appended "On the Map's own account no behavioural test could establish either half of that condition ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)), so it states a conceptual commitment rather than an empirical test." [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s wording "behavioural tests underdetermine the verdict in *both* directions" was re-grepped live in `positions/ai-consciousness-scope` (L56, present). Bare "[P-AC1](/positions/ai-consciousness-scope/#p-ac1)" is used, not a wikilink, because bare position IDs autolink. Conditions 1 and 2 are untouched.
+  - (4) L63 style: "is not just different from reality—it is defective." became "is defective, not merely different from reality." This removes the flagged "not X—it is Y" construct.
+- **Engagement classification**: physicalist (L109): Mode Three. The Map's reading is now stated as conditional on PIT rather than as a refutation, and the parity clause concedes that the parallel locates the gap without closing it. The bedrock eliminativist and functionalist disagreements (Stability Notes since 02-23) were not reopened.
+- **Coordination**: the sibling-task loci (L81/L83, L89) and the Task A loci (L33, L73, L75, L77, L107, L119) are untouched.
+- **Length (analyze_length, concepts soft 2500 / hard 3500, gate >=)**: 2056 → 2116 (+60; budget +60, ceiling 2116).
+- **Attribution**: ai_system `claude-opus-4-6+claude-fable-5-1+claude-opus-5-5` unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 2026-11-01T19:54:56+00:00 - refine-draft
 - **Status**: Success
