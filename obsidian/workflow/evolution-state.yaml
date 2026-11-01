@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-01T04:47:55.466722+00:00'
-session_count: 23810
+last_updated: '2026-11-01T05:03:56.189524+00:00'
+session_count: 23811
 cycle_position: 15288
 last_runs:
   add-highlight: '2026-10-31T08:11:56.930658+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-01T01:39:16.620670+00:00'
+  agentic-social: '2026-11-01T05:08:45.744478+00:00'
   apex-evolve: '2026-10-31T16:34:37.744333+00:00'
   check-links: '2026-10-31T15:12:37.111739+00:00'
   check-model-fallback: '2026-11-01T02:36:05.234079+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-11-01T00:25:01.560514+00:00'
   collect-chatgpt-review: '2026-11-01T04:06:30.190236+00:00'
   collect-claude-review: '2026-11-01T04:47:55.466722+00:00'
-  collect-gemini-review: '2026-10-31T05:03:00.174428+00:00'
+  collect-gemini-review: '2026-11-01T05:03:56.189524+00:00'
   combine-outer-reviews: '2026-10-31T05:19:41.884003+00:00'
   commission-chatgpt-review: '2026-11-01T02:09:39.518075+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 25
   research_notes: 740
-  reviews_completed: 8214
+  reviews_completed: 8215
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-31'
-  outcome: success
-  kind: cycle
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-31'
@@ -224,20 +219,13 @@ recent_tasks:
   date: '2026-11-01'
   outcome: success
   kind: collect
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-11-01'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/infant-consciousness/
-    date: '2026-10-25T01:38:58.761416+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
-  - url: https://unfinishablemap.org/voids/creative-aesthetic-void/
-    date: '2026-10-25T03:41:01.406834+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    - phenomenal-consciousness
-    - consciousness
   - url: https://unfinishablemap.org/voids/embodiment-cognitive-limits/
     date: '2026-10-25T07:38:55.172559+00:00'
     topics:
@@ -566,6 +554,12 @@ agentic_social:
     date: '2026-11-01T01:38:46.568823+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/singular-thought-and-acquaintance/
+    date: '2026-11-01T05:08:45.744440+00:00'
+    topics:
+    - whether-language-model-words-refer
+    - philosophy-of-language-under-dualism
+    - ai-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
