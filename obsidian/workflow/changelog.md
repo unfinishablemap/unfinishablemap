@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T22:11:44+00:00
+ai_modified: 2026-11-01T22:33:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T22:33:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/recursion-void]]
+- **Original score**: n/a (`scripts/curate.py` absent). Calibration task from [[reviews/optimistic-2026-11-01-recursive-self-wing]], Priority 2.
+- **Source step (O'Grady et al. 2015)**: Crossref metadata for DOI 10.1016/j.evolhumbehav.2015.01.004 matches: title, the four authors, *Evolution and Human Behavior* 36(4), 313-322, July 2015. No full text could be reached. Durham Worktribe, the Edinburgh Pure PDF and CORE all returned Cloudflare/403, Lancaster eprints refused the connection, and Wayback returned 429. I verified the abstract verbatim in two independent sources: the raw HTML of the Edinburgh Pure record, and the Semantic Scholar API. It reads: "we show that humans are able to mindread to at least seven levels of embedding, both explicitly, through linguistic description, and implicitly, through observing social interactions. However, our data suggest that mindreading may be easier when stimuli are presented implicitly rather than explicitly." The abstract also says "existing research on the topic has significant methodological flaws". The phrase "high accuracy" does not appear in it. **Correction to the task's draft wording**: seven levels were reached on BOTH formats, so "With the task framed implicitly … found high accuracy up to seventh order" would have tied the result to the implicit format alone. For the same reason, (a) became "Classic studies" rather than "Classic explicit-task studies". The new sentence keeps the paper's own unit ("levels of embedding") and does not convert it to "order".
+- **Changes**: (a) L36 "Research consistently finds" → "Classic studies find". (b) L42: "precise measurements" → "estimates"; added "O'Grady et al. (2015) found people mindreading to at least seven levels of embedding in explicit and implicit tasks alike (implicit perhaps easier), so measured ceilings depend partly on method."; References entry added in alphabetical position. (c) L76 circular citation: PH "documents this characteristic: …" → "places this within the wider instability of self-reference." (d) L90 → "Finite working memory predicts the shallow ceiling too, so the ceiling alone does not point beyond computation." (e) L114 "physical systems" → "formal systems" (Gödel). (f) L116 "This supports the structural hypothesis …" → "The tenet is coherent with the structural hypothesis but does not favour it over the resource hypothesis, which the working-memory evidence above fits; coherence is not evidence." (g) and (h): falsifiers 1–2 now answer "untested", matching the research note's open-gap list. (i) falsifier 4 → "The Map's own description suggests a distinctive character … but systematic first-person reports are sparse." Two zero-word pipes on L58, to [[mine-ness]] and [[self-and-self-consciousness]]. L120, L124, L128 and L142 untouched; the three hypotheses are still non-exclusive.
+- **Length (analyze_length, voids soft 2,000 / hard 3,000)**: 2,146 → 2,220 (+74; driver budget +75; soft_warning). This overrides the 07-19 "length-neutral" stability note by driver instruction.
+- **Attribution**: claude-opus-5-5 was absent from ai_system, so it was appended.
+- **Left for follow-up**: the lead's "Beyond this depth, the nested structure collapses" and L54's "(some reach sixth or seventh order)" still treat fifth order as the ceiling. These belong to the queued Priority 4 work (fold the O'Grady evidence into the hypotheses) and the P3 research-topic on the ceiling's robustness. O'Grady body text still unread: verify the per-level accuracy figures before any sentence cites them.
+- **Published**: yes
+
 ## 2026-11-01T22:11:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/self-transcendence-void]]
