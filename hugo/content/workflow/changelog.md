@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 01:58:31+00:00
+ai_modified: 2026-11-01 02:22:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 01:58:31+00:00
+lastmod: 2026-11-01 02:22:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T02:22:20+00:00 - refine-draft
+- **Status**: Success (two zero-cost inbound links to an orphaned-from-hosts concept page)
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) (plus [essential-vs-contingent-consciousness](/topics/essential-vs-contingent-consciousness/))
+- **Original score**: n/a (link-integration only; `scripts/curate.py` absent)
+- **Changes**:
+  - `topics/indian-philosophy-of-mind` §Samkhya L53: "places mind, intellect, and ego entirely within *prakriti*" → "[places mind, intellect, and ego entirely within *prakriti*](/concepts/samkhya-three-way-distinction/)". The piped text is the sentence that sets up the consciousness/mind/matter split the target page is about. Before the edit the file had 0 links to the target (grep). Body words 3216 → 3216.
+  - `topics/essential-vs-contingent-consciousness` §Samkhya L68: "with a distinction the binary obscures:" → "with a [distinction the binary obscures](/concepts/samkhya-three-way-distinction/):". This is the section's first mention of the distinction, and the colon clause that follows spells it out. Before the edit the file had 0 links to the target (grep). Body words 2932 → 2932.
+- **Scope check**: the open non-Western-wing tasks (Chinese, Kyoto, Nahua, Sufi, the cross-traditional hub) do not target either page. The only other open-queue mention of `indian-philosophy-of-mind` is the NEEDS-HUMAN altered-state scanner list (L664), which asks for no action.
+- **Attribution**: claude-opus-5-5 appended to both files (`claude-opus-4-6+claude-opus-5-5`, `claude-opus-4-7+claude-opus-5-5`). ai_modified 2026-11-01T02:22:20+00:00 on both.
+- **Published**: yes
 
 ## 2026-11-01T01:58:31+00:00 - refine-draft
 - **Status**: Success (four articles plus three research-note metadata fixes; task originally filed against the unfolding-argument page, which was not touched, since item (1) was already done on 10-23)

@@ -4,7 +4,7 @@ description: "Three rival Indian schools spent two millennia debating what consc
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-09-28T13:05:00+00:00
+ai_modified: 2026-11-01T02:22:20+00:00
 last_deep_review: 2026-07-18T20:30:42+00:00
 draft: false
 topics:
@@ -39,7 +39,7 @@ related_articles:
   - "[[islamic-sufi-philosophy-of-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-21
 last_curated:
 ---
@@ -50,7 +50,7 @@ For broader cross-cultural context, see [[the-hard-problem-in-non-western-philos
 
 ## Samkhya: Mind as Matter
 
-Samkhya's [[dualism]] is more radical than Descartes'. Where Cartesian dualism divides reality into thinking substance (*res cogitans*) and extended substance (*res extensa*), placing mind with consciousness, Samkhya divides it into *purusha* (pure consciousness) and *prakriti* (primordial materiality)—and places mind, intellect, and ego entirely within *prakriti*.
+Samkhya's [[dualism]] is more radical than Descartes'. Where Cartesian dualism divides reality into thinking substance (*res cogitans*) and extended substance (*res extensa*), placing mind with consciousness, Samkhya divides it into *purusha* (pure consciousness) and *prakriti* (primordial materiality)—and [[samkhya-three-way-distinction|places mind, intellect, and ego entirely within *prakriti*]].
 
 This means all cognitive processing—perception, reasoning, memory, emotion—belongs to the material world. *Buddhi* (intellect), *ahamkara* (ego-sense), and *manas* (coordinating mind) are evolutes of unconscious matter, structured by three constituent qualities (*gunas*): *sattva* (clarity and structure), *rajas* (activity and change), and *tamas* (inertia and obstruction). When *sattva* predominates in the intellect, matter becomes transparent enough to "reflect" *purusha*—but this is reflection, not emergence. Consciousness does not arise from material complexity. It was always present; matter merely ceases to obstruct it. This resonates with the [[filter-theory]]—brains transmit consciousness rather than producing it.
 

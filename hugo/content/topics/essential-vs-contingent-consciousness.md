@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-08-08 12:48:11+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-11-01 02:22:20+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 12:48:11+00:00
-lastmod: 2026-08-08 12:48:11+00:00
+lastmod: 2026-11-01 02:22:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ Nyaya's reading of the dreamless-sleep report is the mirror image of Advaita's. 
 
 ## Samkhya: The Purusha Question
 
-Samkhya complicates the binary and is worth separating because it is easy to misread. *Purusha* (pure consciousness) is, on the standard reading, *essentially* conscious — it is changeless witnessing (*saksin*) and never becomes unconscious. But Samkhya places all *mental activity* — intellect (*buddhi*), ego (*ahamkara*), coordinating mind (*manas*) — within *prakriti* (materiality). So Samkhya answers the essential/contingent question with a distinction the binary obscures: the *witness* is essentially conscious, but *cognition* (which the binary's "consciousness" often means) belongs to matter and is therefore intermittent.
+Samkhya complicates the binary and is worth separating because it is easy to misread. *Purusha* (pure consciousness) is, on the standard reading, *essentially* conscious — it is changeless witnessing (*saksin*) and never becomes unconscious. But Samkhya places all *mental activity* — intellect (*buddhi*), ego (*ahamkara*), coordinating mind (*manas*) — within *prakriti* (materiality). So Samkhya answers the essential/contingent question with a [distinction the binary obscures](/concepts/samkhya-three-way-distinction/): the *witness* is essentially conscious, but *cognition* (which the binary's "consciousness" often means) belongs to matter and is therefore intermittent.
 
 This dissolves the dreamless-sleep puzzle differently again. *Purusha* never sleeps — witnessing is constant. What ceases in dreamless sleep is the *sattvic* transparency of *buddhi* that lets matter "reflect" *purusha*; the material instrument goes dark, the witness does not. The Samkhya position therefore is not a third point on the same line but a relocation of the question: *which thing* is the candidate for the non-physical aspect? If it is the witness, Samkhya is essentialist; if it is the cognitive apparatus, that apparatus is material and the question of its "consciousness" is a question about matter. The Map's framing — a single non-physical aspect that either is or is not essentially conscious — has to choose which of Samkhya's two principles it most resembles. (For the *purusha*-*prakriti* interaction problem this raises, see [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/).)
 
