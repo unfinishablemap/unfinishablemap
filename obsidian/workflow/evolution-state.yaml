@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-01T21:49:46.532932+00:00'
-session_count: 23868
+last_updated: '2026-11-01T21:52:37.089157+00:00'
+session_count: 23869
 cycle_position: 15324
 last_runs:
   add-highlight: '2026-11-01T08:07:19.217282+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-01T21:52:36.994476+00:00'
+  agentic-social: '2026-11-01T21:52:37.089157+00:00'
   apex-evolve: '2026-10-31T16:34:37.744333+00:00'
   check-links: '2026-11-01T16:11:38.405984+00:00'
   check-model-fallback: '2026-11-01T19:36:08.683928+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-11-01'
-  outcome: success
-  kind: trigger
 - task: check-links
   type: check-links
   date: '2026-11-01'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-01'
   outcome: success
   kind: cycle
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-01'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/observation-and-measurement-void/

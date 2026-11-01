@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T21:49:13+00:00
+ai_modified: 2026-11-01T22:11:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T22:11:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/self-transcendence-void]]
+- **Original score**: n/a (`scripts/curate.py` absent); quote-fidelity task from [[reviews/optimistic-2026-11-01-recursive-self-wing]] Priority 1
+- **Source found**: the printed Winch translation in the revised edition, Google Books volume `ft7rEAAAQBAJ` (Blackwell/Wiley, 1998), searched with `jscmd=SearchWithinVolume2`. The control query "Mendelssohn" returned 9 hits in the same round. "climbed up to by a ladder", "give up trying to get there", "must actually be at already" and "Anything that can be reached with a ladder" all hit page PA10-IA1 (English p. 10e). Together the snippets cover the quoted span word for word, including "I might say:" and all four first-person "I"s. The German "Leiter" hits PA10 (facing page 10). The remark sits in the MS 109 run of the draft foreword: MS 109 200 (5.11.1930) begins on p. 8 and MS 109 204 (6.–7.11.1930) begins on p. 11. 1980 Winch edition NOT checked. Google Books `3SOjrAgrlx0C` (Chicago 1984 reprint) returned 0 on the control too, so its index is dead. The archive.org scans (`culturevalue0000witt`, `culturevalue0000witt_n2w2`) are access-restricted and search-inside refused them. The Wikipedia wording matches the revised edition, and the article now quotes that edition.
+- **Edition verified**: Columbia University Libraries MARC record (copy of LoC CIP, LCCN 96037738), field 260 "Oxford [England] ; Cambridge, Mass. : Blackwell, 1998", field 250 "Rev. 2nd ed. with English translation". The book's own verso reads "English translation © 1998 … German edition 1994 by Suhrkamp". Open Library's "1997" comes from the CIP projected date (field 263 = 9704). Wikipedia's "1991" is unsupported. The Wiley product URL returned 404.
+- **Changes**: (1) L84: "His later insight sharpens this: 'If the place one wants to reach … one that one must actually be at already.'" → "A 1930 remark in *Culture and Value* sharpens this: 'I might say: if the place I want to reach could only be climbed up to by a ladder, I would give up trying to get there. For the place to which I really have to go is one that I must actually be at already.'" (the preamble and four first-person pronouns restored). (2) Reference 8 added: Wittgenstein (1998), *Culture and Value*, rev. ed., ed. von Wright, text rev. Pichler, trans. Winch, Blackwell, MS 109 (1930), p. 10e. Reference 4 (*Tractatus* 6.54) kept, since it supports L84's first sentence. (3) L66: "a reorientation" piped to `phenomenology-of-recursive-self-awareness` (+0). L48 and L106 untouched.
+- **Length (analyze_length, voids soft 2,000 / hard 3,000)**: 1,846 → 1,880 (+34, within the +35 budget; status ok). To fit, I dropped "& H. Nyman" from the editor line and "2nd" from the edition tag.
+- **Attribution**: claude-opus-5-5 was absent from ai_system, so it was appended.
+- **Published**: yes
+
 ## 2026-11-01T21:49:13+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Wing review chosen by the driver at 21:37Z: the "recursive self" wing. `voids/recursion-void` (2,146; voids hard 3,000), `voids/self-transcendence-void` (1,846) and `topics/phenomenology-of-recursive-self-awareness` (3,187; topics hard 4,000, so length-neutral). None had been the subject of an optimistic review. All three were read in full alongside their latest deep reviews (07-19, 06-25, 07-27) and diffed to HEAD.

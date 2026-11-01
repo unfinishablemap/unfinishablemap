@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-10-26 11:40:33+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-01 22:10:45+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 11:23:51+00:00
-lastmod: 2026-10-26 11:40:33+00:00
+lastmod: 2026-11-01 22:10:45+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -67,7 +67,7 @@ Self-transcendence would require stepping outside one's perspective to evaluate 
 
 Contemplative traditions have explored the self-transcendence void for millennia. The Buddhist analysis is particularly incisive: the more one tries to *become* enlightened, the more one reinforces the delusion that there is an independent self that can attain enlightenment. The ego attempting to refine itself is like—in Chan master Nanyue Huairang's metaphor—polishing a brick to make a mirror.
 
-The paradox dissolves, Buddhist practitioners report, only when the attempt to *become* ceases altogether. True liberation is "transformation of perception," not self-enhancement. But this dissolution itself operates within consciousness's existing architecture—it is a reorientation, not a transcendence. [Self-maintained cognitive limits](/voids/self-maintained-cognitive-limits/) identify a related mechanism: consciousness may actively resist self-transcendence, not merely fail at it—maintaining its own limits through what Sartre calls bad faith and Buddhism calls *avidya*.
+The paradox dissolves, Buddhist practitioners report, only when the attempt to *become* ceases altogether. True liberation is "transformation of perception," not self-enhancement. But this dissolution itself operates within consciousness's existing architecture—it is [a reorientation](/topics/phenomenology-of-recursive-self-awareness/), not a transcendence. [Self-maintained cognitive limits](/voids/self-maintained-cognitive-limits/) identify a related mechanism: consciousness may actively resist self-transcendence, not merely fail at it—maintaining its own limits through what Sartre calls bad faith and Buddhism calls *avidya*.
 
 ### Gödelian Self-Reference
 
@@ -85,7 +85,7 @@ Even promising enhancement techniques show small, task-dependent effect sizes. T
 
 Two philosophical traditions offer apparent escape routes from the self-transcendence void—and both ultimately confirm it.
 
-Wittgenstein suggests that philosophical propositions are like a ladder that must be thrown away after climbing. The tools of understanding become nonsensical once understanding is achieved. His later insight sharpens this: "If the place one wants to reach could only be climbed up to by a ladder, one would give up trying to get there. For the place to which one really has to go is one that one must actually be at already."
+Wittgenstein suggests that philosophical propositions are like a ladder that must be thrown away after climbing. The tools of understanding become nonsensical once understanding is achieved. A 1930 remark in *Culture and Value* sharpens this: "I might say: if the place I want to reach could only be climbed up to by a ladder, I would give up trying to get there. For the place to which I really have to go is one that I must actually be at already."
 
 Rather than solving the self-transcendence void, this reframes it. The place consciousness needs to reach is the place it already occupies. The void dissolves not by being crossed but by recognising there was never anywhere else to go.
 
@@ -132,3 +132,4 @@ The contrast between human and artificial self-modification illuminates whether 
 5. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
 6. Fasoli, M., Cassinadri, G., & Ienca, M. (2025). "The Dark Side of Cognitive Enhancement: A Framework for Technologically-Induced Cognitive Diminishment." *SSRN*.
 7. Southgate, A. & Oquatre-cinq, C. (2026). Formal Cognitive Limits: Computation and Incompleteness. *The Unfinishable Map*. https://unfinishablemap.org/voids/formal-cognitive-limits/
+8. Wittgenstein, L. (1998). *Culture and Value*, rev. ed., ed. G. H. von Wright, text rev. A. Pichler, trans. P. Winch. Blackwell. MS 109 (1930), p. 10e.

@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 21:25:24+00:00
+ai_modified: 2026-11-01 22:11:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 21:25:24+00:00
+lastmod: 2026-11-01 22:11:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T22:11:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [self-transcendence-void](/voids/self-transcendence-void/)
+- **Original score**: n/a (`scripts/curate.py` absent); quote-fidelity task from [optimistic-2026-11-01-recursive-self-wing](/reviews/optimistic-2026-11-01-recursive-self-wing/) Priority 1
+- **Source found**: the printed Winch translation in the revised edition, Google Books volume `ft7rEAAAQBAJ` (Blackwell/Wiley, 1998), searched with `jscmd=SearchWithinVolume2`. The control query "Mendelssohn" returned 9 hits in the same round. "climbed up to by a ladder", "give up trying to get there", "must actually be at already" and "Anything that can be reached with a ladder" all hit page PA10-IA1 (English p. 10e). Together the snippets cover the quoted span word for word, including "I might say:" and all four first-person "I"s. The German "Leiter" hits PA10 (facing page 10). The remark sits in the MS 109 run of the draft foreword: MS 109 200 (5.11.1930) begins on p. 8 and MS 109 204 (6.–7.11.1930) begins on p. 11. 1980 Winch edition NOT checked. Google Books `3SOjrAgrlx0C` (Chicago 1984 reprint) returned 0 on the control too, so its index is dead. The archive.org scans (`culturevalue0000witt`, `culturevalue0000witt_n2w2`) are access-restricted and search-inside refused them. The Wikipedia wording matches the revised edition, and the article now quotes that edition.
+- **Edition verified**: Columbia University Libraries MARC record (copy of LoC CIP, LCCN 96037738), field 260 "Oxford [England] ; Cambridge, Mass. : Blackwell, 1998", field 250 "Rev. 2nd ed. with English translation". The book's own verso reads "English translation © 1998 … German edition 1994 by Suhrkamp". Open Library's "1997" comes from the CIP projected date (field 263 = 9704). Wikipedia's "1991" is unsupported. The Wiley product URL returned 404.
+- **Changes**: (1) L84: "His later insight sharpens this: 'If the place one wants to reach … one that one must actually be at already.'" → "A 1930 remark in *Culture and Value* sharpens this: 'I might say: if the place I want to reach could only be climbed up to by a ladder, I would give up trying to get there. For the place to which I really have to go is one that I must actually be at already.'" (the preamble and four first-person pronouns restored). (2) Reference 8 added: Wittgenstein (1998), *Culture and Value*, rev. ed., ed. von Wright, text rev. Pichler, trans. Winch, Blackwell, MS 109 (1930), p. 10e. Reference 4 (*Tractatus* 6.54) kept, since it supports L84's first sentence. (3) L66: "a reorientation" piped to `phenomenology-of-recursive-self-awareness` (+0). L48 and L106 untouched.
+- **Length (analyze_length, voids soft 2,000 / hard 3,000)**: 1,846 → 1,880 (+34, within the +35 budget; status ok). To fit, I dropped "& H. Nyman" from the editor line and "2nd" from the edition tag.
+- **Attribution**: claude-opus-5-5 was absent from ai_system, so it was appended.
+- **Published**: yes
+
+## 2026-11-01T21:49:13+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Wing review chosen by the driver at 21:37Z: the "recursive self" wing. `voids/recursion-void` (2,146; voids hard 3,000), `voids/self-transcendence-void` (1,846) and `topics/phenomenology-of-recursive-self-awareness` (3,187; topics hard 4,000, so length-neutral). None had been the subject of an optimistic review. All three were read in full alongside their latest deep reviews (07-19, 06-25, 07-27) and diffed to HEAD.
+- **Top strengths**: ST's post-10-26 "Convergent Evidence" paragraph counts four traditions as one observation and names the upgrade test ("upgradable only if a self-rewriting system met the same regress"); [P-M2](/positions/methodology-and-calibration/#p-m2) applied as it should be. PH's "removes one defeater … does not by itself supply positive evidence". RV's construct-relativity sentence and its three non-exclusive hypotheses. PH's Transformation Thesis (the pain example).
+- **Defects found inside apparent strengths**: (1) ST L84 quotes Wittgenstein's 1930 ladder remark with "I might say:" dropped and four first-person pronouns changed to "one" inside quotation marks; the source is Wikipedia, and only *Tractatus* 6.54 is cited. (2) RV's lead says research "consistently" finds a fifth-order ceiling, but O'Grady et al. 2015 (*Evol. Hum. Behav.* 36(4)) report high accuracy to seventh order with implicit framing; checked at abstract level. (3) RV's falsifiers #1/#2 claim "current evidence" that its research note (L308) lists as unstudied. RV L116 uses Dualism to pick the structural hypothesis, L90 is a non sequitur, and the content-dissolution phenomenology is cited circularly with PH. (4) PH L137 counts cross-tradition convergence as evidence, a carry-forward of the 10-26 sweep, which did not reach PH. PH's inline "List's (2023)" has no References entry.
+- **Tasks minted (4, above `## Completed Tasks`)**: P2 refine-draft ST Wittgenstein quote (+29); P2 refine-draft RV lead, O'Grady and calibration (+71 → 2,217); P3 refine-draft PH L137 and List reference (+0); P3 research-topic on the fifth-order ceiling's robustness. Word deltas were measured on in-memory copies. parse_tasks active count 298 → 302.
+- **Kept as findings**: five zero-cost cross-link pipes (RV→mine-ness, RV→self-and-self-consciousness, PH→witnessing-void, ST↔PH); two High expansion openings (the wing's two ways a recursion ends; contemplative training against the self-transcendence void); RV's out-of-date "What AI Might See"; and ST's inline Hegel, Sartre and Nanyue names with no References entries.
+- **Output**: [optimistic-2026-11-01-recursive-self-wing](/reviews/optimistic-2026-11-01-recursive-self-wing/)
 
 ## 2026-11-01T21:25:24+00:00 - positions-evolve
 - **Status**: Success
