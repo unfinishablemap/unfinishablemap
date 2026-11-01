@@ -3998,6 +3998,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-01
 - **Notes**: The 20:48Z review dropped "at specific neural sites" (the locality premise the register says the page does not carry) and "decoherence rates" from that page's L95 Minimal Quantum Interaction paragraph and made it conditional ("The tenet permits this reading; the contemplative record does not test it"). The register's L47 note (re-grep "carries a conditional second instance") is now stale. FIX: update or retire the clause so the register no longer counts that page as an instance, length-neutral; if the positions-register convention requires a dated Updated note, check lengths first (positions hard 2,500, gate `>=`). Measured 2026-11-01 21:00Z: quantum-interface **5,997** (far OVER hard, so the entry edit must be net-negative); quantum-interface-calibration-history **3,995** (also over). REPORT rather than split if neither has room. NO BAND MOVES. ATTRIBUTION: append only your own model id, only if ABSENT. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P3: `apex/moral-status-of-edge-cases` L139 still glosses P-AC3 as holding "distinct conscious subjects morally additive under closed individualism" (one premise); P-AC3 was retitled 2026-11-01 to carry both premises
+- **Type**: refine-draft
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Status**: pending
+- **Source**: positions-evolve 2026-11-01 21:24Z (P-AC3 retitle; out-of-scope lead)
+- **Generated**: 2026-11-01
+- **Notes**: P-AC3's heading now reads "Under closed individualism and an additive counting rule, conscious copies are morally additive" (re-grep `positions/ai-consciousness-scope`). The apex's L139 gloss (re-grep "morally additive under closed individualism", count 1 on 2026-11-01) names only the first premise. Add the counting-rule premise in one clause, e.g. "…morally additive under closed individualism and an additive counting rule". LENGTH 4,504 by analyze_length (apex hard 5,000, gate `>=`); budget +6. Do not touch the rest of the paragraph. ATTRIBUTION: append only your own model id, only if ABSENT. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
 ## Completed Tasks
 
 
