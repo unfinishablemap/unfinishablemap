@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 17:59:30+00:00
+ai_modified: 2026-11-01 18:53:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 17:59:30+00:00
+lastmod: 2026-11-01 18:53:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T18:53:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [assent-before-descartes](/topics/assent-before-descartes/)
+- **Source**: fold-in from the "Potential Article Angles" section of [assent-and-ascertainment-in-buddhist-epistemology-2026-10-15](/research/assent-and-ascertainment-in-buddhist-epistemology-2026-10-15/). The Stability Notes of [deep-review-2026-10-14-assent-before-descartes](/reviews/deep-review-2026-10-14-assent-before-descartes/) were read first; nothing they protect was touched.
+- **Original score**: n/a (targeted fold-in; `scripts/curate.py` absent)
+- **Changes**: (1) a new section, A Buddhist Comparison: Ascertainment Without an Act `{#buddhist-ascertainment}`, between The Sceptics and Augustine (371 words, two paragraphs: Dharmakīrti and his commentators; the Theravāda Abhidhamma); (2) seven reference entries added and the list renumbered 1–30; (3) the lead clause "follows the Greek and Latin line only, leaving Buddhist and other accounts aside" became "follows the Greek and Latin line, with `[[#buddhist-ascertainment|one Buddhist comparison]]` set beside it and other accounts left aside", because the old clause would have contradicted the new section. The closing sentence "The objections of Hobbes and Spinoza belong to a later history" is unchanged; the new section needs no forward pointer.
+- **Deviations from the note's draft text** (each checked at source): (1) "seventh century" became "sixth or seventh century; the date is debated" (Tillemans: "still debated ... seventh century C.E. or in the sixth"). (2) "fixed by its object" was dropped, because Tillemans makes it conditional ("if we grant external objects"); the Tillemans quotation "purely non-conceptual" stands in its place. (3) The Nakasuka locus "on PV I.48" became p. 283: the definitional sentence describes PV I.43–58, and I.48 is cited there for the lack-of-superimposition point. (4) "Its causes are acuity, habituation and context" became "include", since Nakasuka's n. 2 ends "and others". The clause "when they are deficient it fails to arise" was added from his p. 285 translation ("due to the deficiency of causes of a determinate cognition"). (5) Dunne p. 321: "under distraction" was wrong. The bar to ascertainment is "that perception's lack of acuity", in Dunne's own illustration of a bright colour seen across a field. (6) Dunne p. 291: the act-from-doubt point is Śākyabuddhi's commentary (PVṬ) as Dunne translates it, and is now attributed to Śākyabuddhi. (7) Dharmottara: "adds the limit the Stoics also drew" was removed. Stcherbatsky's context shows that the sentence concerns knowledge pointing out an object "as an aim of a (possible) purposive action", which is about action rather than assent. It now reads "raises compulsion only for action and denies it there", and "(against his will)" is flagged as Stcherbatsky's parenthesis. (8) "there is no one to withhold" became "has no act of assent to withhold", because the same passage speaks of a judicious person, so "no one" overclaimed. (9) The Dhammasaṅgaṇī/Expositor clause and the Abhidhammattha-saṅgaha ch. IV process-order quotation were added, so that "both traditions supply the ordering" has support on the Abhidhamma side. (10) "comprehension first" became "understanding first", which matches the Descartes wording the page quotes and avoids a clash with Zeno's fist, where comprehension follows assent. (11) Nārada is cited as the edition actually read (5th ed., Buddhist Missionary Society 1987, reprinting the 1979 4th rev. ed.) rather than "BPS 1979"; the publisher of the 1979 edition is unverified.
+- **Verification**: every quoted span was grep-verified in a raw source: the Tillemans SEP HTML, the Nakasuka PDF (austriaca.at), the Stcherbatsky and Expositor OCR (archive.org), SuttaCentral ds2.1.1 with the 1900 archive.org OCR, and Nārada on BuddhaNet and palikanon. Dunne is snippet-only (control query 0), so he is paraphrased, never quoted. Metadata: Nakasuka at austriaca.at (pp. 283–299; eds. Kellner, McAllister, Lasic and McClintock; BKGA 104; ISBN 978-3-7001-8781-3; no DOI). Dunne via the Crossref review record and Open Library (ISBN 978-0-86171-184-0); Open Library gives Boston and the Crossref review header gives Somerville, MA, and Boston is used. Tillemans: first published 2011-08-19, substantive revision 2026-04-07, Summer 2026 edition. Rhys Davids 1900: Oriental Translation Fund NS XII, Royal Asiatic Society. Expositor: PTS Translation Series 8, 1920, title-page translator "Maung Tin". Stcherbatsky: 1930, read in the Motilal reprint. Kellner 2004 was verified (WSTB Heft 58, eds. Katsura & Steinkellner, Wien: Arbeitskreis für Tibetische und Buddhistische Studien, pp. 1–51) but is not cited, for length. The Visuddhimagga is not used.
+- **Engagement classification**: no named-opponent reply; mode n/a. No tenet claim; Relation to Site Perspective untouched.
+- **Length (analyze_length, topics soft 3000 / hard 4000, gate >=)**: 3339 → 3928 (+589: section 371, references 213, lead +5); 71 words of headroom.
+- **Attribution**: ai_system unchanged (claude-opus-5-5 already present).
+- **Note erratum (note not edited)**: the note's Dunne ledger names Kellner's review as *History of Religions*; Crossref 10.1086/499465 is *The Journal of Religion* 85(4), 683–685.
+- **Published**: yes
 
 ## 2026-11-01T17:59:30+00:00 - refine-draft
 - **Status**: Success
