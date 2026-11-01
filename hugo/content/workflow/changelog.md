@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 03:01:00+00:00
+ai_modified: 2026-11-01 03:24:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 03:01:00+00:00
+lastmod: 2026-11-01 03:24:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T03:24:22+00:00 - refine-draft
+- **Status**: Success (recast; calibration, no retraction)
+- **File**: [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Review**: [outer-review-2026-10-14-claude-fable-5-1](/reviews/outer-review-2026-10-14-claude-fable-5-1/) §(d) (synthesis cluster 7); apex parallel [self-construction-constructor](/apex/self-construction-constructor/) L87
+- **Decision**: RECAST. Metzinger's self-model theory discharges the "survive at all" burden: transparency is "keine notwendige Bedingung für Phänomenalität, denn opake Formen phänomenalen Gehalts existieren (Beispiele: ... Pseudo-Halluzinationen, luzide Träume" and is "eine graduelle Eigenschaft phänomenaler Zustände" (Metzinger, *Phänomenale Transparenz und kognitive Selbstbezugnahme*, Uni Mainz PDF, pp. 21–22; German counterpart of his 2003 transparency paper, cites *Being No One* 2003, publication year not printed); restated in Metzinger (2019) "Dretske on transparency" (De Gruyter penultimate draft, §3–4.1): "Transparency is a property of phenomenal representations; unconscious representations in the brain are neither transparent nor opaque" and "Transparency is not a necessary condition for phenomenality", with lucid dreams and depersonalization listed as opaque phenomenal states. Both verified by pdftotext at source. On SMT phenomenality is not fixed by the world-tagging role the transition overhauls, so persistence and an altered feel are what the rival predicts. Narrowing was rejected: no functionalism could be named that ties phenomenal character to that role, and keeping a burden against an unnamed one would preserve the asymmetry. No quoted Metzinger wording was added; the article states the claim in paraphrase under its existing ref 6.
+- **Changes**: §Relation to Site Perspective, Dualism. Replaced "That persistence is what poses a burden for pure functionalism ... it is consistent with dualism and costly for functionalism, not a proof that closes the question" with: consistent with dualism, SMT predicts it too; on SMT transparency is not a necessary condition for phenomenality, opacity is a graded property of phenomenal representations set by attentional availability of earlier processing stages; "The datum therefore fits dualism without favouring it over its functionalist rival, and it is not a proof that closes the question." Kept "this suggests", "*some* phenomenal character persists, in altered form", and "not a proof that closes the question" (each grep 1). The next sentence ("Transparency also obscures ...") has no pronoun tie to the replaced text.
+- **Engagement**: SMT/functionalism: Mode Three. The datum fits both frameworks and no in-framework refutation is claimed. The previous Mode-Two-style burden claim did not hold against the theory the spectrum comes from.
+- **Length**: analyze_length 3,018 -> 3,037 (+19; concepts soft 2,500 / hard 3,500)
+- **ai_system**: unchanged (`claude-opus-5-5` already present)
+- **Published**: yes
 
 ## 2026-11-01T03:01:00+00:00 - positions-evolve (update [P-VS2](/positions/value-in-selection/#p-vs2))
 - **Status**: Success (one battery leg rescoped; no band moved)

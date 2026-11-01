@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-10-25 22:02:01+00:00
+ai_modified: 2026-11-01 03:24:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[self-reference-paradox]]'
 - '[[metacognition]]'
 created: 2026-02-09
-date: &id001 2026-10-25
+date: &id001 2026-11-01
 description: Experience normally conceals itself as representation (transparency)
   but can reveal its constructed character (opacity). This spectrum, introduced by
   Metzinger, exposes cognitive architecture and its limits.
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-25 14:16:29+00:00
-lastmod: 2026-10-25 22:02:01+00:00
+lastmod: 2026-11-01 03:24:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ Thomas Nagel's observation that consciousness is essentially perspectival connec
 
 The transparency-opacity spectrum connects to several of The Unfinishable Map's [tenets](/tenets/).
 
-**[Dualism](/tenets/#dualism)**: If representations can become visible *as* representations while retaining phenomenal character, this suggests phenomenal character is not identical to representational status. An opaque representation still has a what-it-is-likeness — blur feels like something, depersonalisation feels like something, lucid dream awareness feels like something — even though its representational *status* has changed from transparent to opaque. The opacity transition is itself a functional change: it alters belief-fixation, the tagging of content as world versus construct, and what the system will report. And the feel itself changes across the transition — blur is not sharp sight, lucid is not non-lucid dreaming. So this is not an invariance of phenomenal character under a transformation that leaves it untouched. The defensible claim is narrower: representational status changes while *some* phenomenal character persists, in altered form, across the change. That persistence is what poses a burden for pure functionalism — the functionalist owes an account of why phenomenal character should survive at all when the representation's world-tagging functional role is overhauled. The Map reads the persistence as evidence for dualism, but this is a burden-shift to the functionalist, not a deduction from the data: it is consistent with dualism and costly for functionalism, not a proof that closes the question. Transparency also obscures the case for physicalism: our intuitive sense that physical descriptions exhaust reality may itself be an artefact of transparency. Physicalism *feels* natural partly because phenomenal transparency makes experience seem like direct contact with a physical world.
+**[Dualism](/tenets/#dualism)**: If representations can become visible *as* representations while retaining phenomenal character, this suggests phenomenal character is not identical to representational status. An opaque representation still has a what-it-is-likeness — blur feels like something, depersonalisation feels like something, lucid dream awareness feels like something — even though its representational *status* has changed from transparent to opaque. The opacity transition is itself a functional change: it alters belief-fixation, the tagging of content as world versus construct, and what the system will report. And the feel itself changes across the transition — blur is not sharp sight, lucid is not non-lucid dreaming. So this is not an invariance of phenomenal character under a transformation that leaves it untouched. The defensible claim is narrower: representational status changes while *some* phenomenal character persists, in altered form, across the change. That persistence is consistent with dualism, but Metzinger's self-model theory, the representationalist and functionalist account the spectrum comes from, predicts it too. On that theory transparency is not a necessary condition for phenomenality: transparency and opacity are graded properties of phenomenal representations themselves, set by the attentional availability of earlier processing stages, so an opaque state keeps its phenomenal character while its feel shifts with its changed status. The datum therefore fits dualism without favouring it over its functionalist rival, and it is not a proof that closes the question. Transparency also obscures the case for physicalism: our intuitive sense that physical descriptions exhaust reality may itself be an artefact of transparency. Physicalism *feels* natural partly because phenomenal transparency makes experience seem like direct contact with a physical world.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Naive realism — the simplest perceptual theory — feels irresistible precisely because phenomenal transparency makes the representational medium invisible. Occam's Razor, applied uncritically, would endorse this simplicity. But the simplicity is an artefact: evolutionary pressure selects for useful perception, not accurate perception, and transparency conceals the gap between usefulness and accuracy. Phenomenal opacity disrupts this parsimony by revealing complexity that transparency hid. The simpler theory was not simpler reality; it was simpler appearance.
 
