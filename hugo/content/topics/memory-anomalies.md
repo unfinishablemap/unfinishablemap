@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-10-24 16:38:39+00:00
+ai_modified: 2026-11-01 17:17:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 16:38:39+00:00
-lastmod: 2026-10-24 16:38:39+00:00
+lastmod: 2026-11-01 17:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,10 +62,10 @@ Begin with what the three anomalies have in common. One influential strand of me
 Each anomaly appears to be what happens when one of these channels misfires while the others run normally:
 
 - **Déjà vu** is a familiarity signal without supporting recollection. The current scene matches some stored configuration enough to trigger the "this has been encountered before" feeling, but the source memory is unrecoverable. The subject feels pastness without finding a past.
-- **Jamais vu** is the inverse: a collapse of the familiarity signal while propositional knowledge stays intact. The word is still known to be a word; it simply stops *feeling* like one. Repetition (semantic satiation) is a reliable inducer.
+- **Jamais vu** is the inverse: a collapse of the familiarity signal while propositional knowledge stays intact. The word is still known to be a word, and later recognised no worse (Moulin et al. 2021); it simply stops *feeling* like one. Repetition (semantic satiation) can induce it.
 - **Cryptomnesia** is recollection of content without recollection of source. The forgotten poem returns as the writer's "own" line; the philosophical idea encountered at age eleven returns at thirty as fresh insight. The source-monitoring tag is missing, and the default attribution is *self*.
 
-Reading the trio this way — as three rotations on the same architecture rather than three independent oddities — does most of the philosophical work that follows. It also explains why these states are surprisingly common: they are the system operating at its margin rather than pathologies of it. About 60% of people report having had déjà vu (Brown 2003); jamais vu is reliably induced after about thirty repetitions of a word in laboratory settings (Moulin et al. 2021); cryptomnesia appears consistently when people take turns generating items and then recall their own or add new ones (Brown & Murphy 1989; Marsh & Bower 1993).
+Reading the trio this way — as three rotations on the same architecture rather than three independent oddities — does most of the philosophical work that follows. It also explains why these states are surprisingly common: they are the system operating at its margin rather than pathologies of it. About 60% of people report having had déjà vu (Brown 2003); about two-thirds of participants report jamais vu, in about a third of word-copying trials, typically after some thirty repetitions (Moulin et al. 2021); cryptomnesia appears consistently when people take turns generating items and then recall their own or add new ones (Brown & Murphy 1989; Marsh & Bower 1993).
 
 ## The Dual-Process Architecture {#dual-process}
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-26
-ai_modified: 2026-10-11 22:20:47+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-01 17:17:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 12:01:01+00:00
-lastmod: 2026-10-11 22:20:47+00:00
+lastmod: 2026-11-01 17:17:00+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-phenomenology]]'
@@ -66,6 +66,8 @@ The distinction PCT turns on was given its canonical form by Elijah Chudnoff in 
 Chudnoff's verdict on the evidential machinery is more guarded than the debate's shorthand suggests, and the Map should not overstate what he certifies. He sorts phenomenal-contrast arguments into three kinds—*pure* (Strawson's Jack/Jacques case, which holds sensory input fixed), *hypothetical* (Kriegel's Zoe case), and *glossed* (developed by Chudnoff himself)—and argues that the pure and hypothetical forms "face significant difficulties", defending only the glossed version as sound (2015b, 82). So the familiar sensory-input-held-fixed contrast is not a premise Chudnoff hands the strong horn. His own illustration of irreducibility is homelier: you read that `a < 1` implies `2 − 2a > 0` and merely wonder whether it is true, then grasp *why* a's being less than 1 makes 2a smaller than 2—a phenomenal difference no wholly sensory state supplies (IEP, glossing 2015a, 15).
 
 A crucial role-accuracy point: **Chudnoff supplies the distinction but is a *critic* of content-PCT, not a proponent.** He argues *against* phenomenal intentionality for cognitive states—that the contents of demonstrative, indexical, natural-kind, and mathematical concepts do *not* constitutively depend on phenomenal properties alone. So the Map's frequent citation "Chudnoff distinguishes accompanying from constituting" is faithful to his *distinction*, but the Map sides *against* Chudnoff on the content-determinacy verdict. The actual proponents of the strong horn the Map adopts come from the phenomenal-intentionality programme, whose sharpest statement is Horgan and Tienson's: there is "a kind of intentionality, pervasive in human mental life, that is constitutively determined by phenomenology alone" (2002, 520, as quoted in the SEP entry on phenomenal intentionality). The Internet Encyclopedia of Philosophy glosses the programme's shared commitment—crediting Horgan and Tienson, Kriegel, and Mendelovici jointly rather than any one figure—as the claim that phenomenology is "primary to all other forms of intentionality." Pitt, Strawson, Siewert, and Kriegel develop adjacent versions. The Map takes the constitutive horn over the accompaniment horn abductively; it does not borrow the verdict from Chudnoff.
+
+**An inducible partial dissociation.** Semantic satiation gives the constitution-versus-accompaniment question a laboratory case, one the Map elsewhere files under the [recognition void](/voids/recognition-void/). Repeating a word can make it seem to lose its meaning while the competence that speeded matching tasks measure survives. Across Tian and Huber's four experiments accuracy never interacted with repetition and, where it differed, favoured the repeated category; in the two that showed satiation, only a speed advantage reversed, by tens of milliseconds (2010). Moulin and colleagues' word-copying induction found no significant difference in later recognition of the alienated words—"if anything, recognition was better for words which had elicited jamais vu"—and 43% of episodes were justified as "I knew it was spelt right, but it seemed wrong" (2021). Under the [evidential discipline](/project/evidential-status-discipline/) the record is consistent with either horn. The constitutive reading says the meaning has lapsed *for the subject* while processing continues: the understanding-versus-processing distinction, induced on demand. The accompaniment reading says a fluency signal has dropped out of a still-contentful state, and the reports are largely form-level: the commonest justifications concern spelling and handwriting, and Başoğlu (2026) argues that such reports "point out some sub-semantic properties of the stimulus", though his target is the perceptual experience of meaning rather than PCT. No study yet pairs trial-level reports of the meaning-character with a transfer-grade competence measure on the same items. Such a paradigm could supply on demand the clean zero case that [P-TU1](/positions/thought-and-understanding/#p-tu1) names as the finding that would count against liberalism; as it stands, the result lends [Tenet 1](/tenets/#dualism) nothing beyond what the discipline already allows.
 
 ## The Direction of Constitution {#direction}
 
@@ -122,4 +124,7 @@ The honest framing throughout: PCT is a *contested constitutive thesis the Map h
 7. Horgan, Terence, and John Tienson. "The Intentionality of Phenomenology and the Phenomenology of Intentionality." In *Philosophy of Mind: Classical and Contemporary Readings*, edited by David J. Chalmers. New York: Oxford University Press, 2002.
 8. "Phenomenal Intentionality." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/phenomenal-intentionality/
 9. Bennett, Karen. "Spatio-Temporal Coincidence and the Grounding Problem." *Philosophical Studies* 118, no. 3 (2004): 339–371. https://doi.org/10.1023/B:PHIL.0000026471.20355.54
-10. Southgate, A. & Oquatre-sept, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/
+10. Tian, Xing, and David E. Huber. "Testing an Associative Account of Semantic Satiation." *Cognitive Psychology* 60, no. 4 (2010): 267–290. https://doi.org/10.1016/j.cogpsych.2010.01.003
+11. Moulin, Chris J. A., Nicole Bell, Merita Turunen, Arina Baharin, and Akira R. O'Connor. "The the the the Induction of Jamais Vu in the Laboratory: Word Alienation and Semantic Satiation." *Memory* 29, no. 7 (2021): 933–942. https://doi.org/10.1080/09658211.2020.1727519
+12. Başoğlu, Yavuz Recep. "Semantic Satiation and Perceiving Meanings." *Phenomenology and the Cognitive Sciences* (2026). https://doi.org/10.1007/s11097-026-10195-7
+13. Southgate, A. & Oquatre-sept, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/

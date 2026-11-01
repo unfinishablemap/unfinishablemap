@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-10-19 18:17:56+00:00
+ai_modified: 2026-11-01 17:17:00+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 17:19:24+00:00
-lastmod: 2026-10-19 18:17:56+00:00
+lastmod: 2026-11-01 17:17:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -68,7 +68,7 @@ The affective component — the felt familiarity that Capgras strips away — is
 
 ### Jamais Vu and the Exhaustion of Meaning
 
-Semantic satiation offers a repeatable encounter with the Recognition Void in healthy subjects. Writing a common word thirty times reliably strips it of meaning (Moulin & Bell, 2021). The word becomes alien — perceived but emptied of significance. The 2024 computational modelling by Zhang et al. explains the *mechanism* (lower-level processing saturation) but not the phenomenology: why does the exhaustion of recognition feel *eerie* rather than merely blank?
+Semantic satiation offers a repeatable encounter with the Recognition Void in healthy subjects. Copying a word over and over alienates it for about two-thirds of participants, in about a third of trials, after some thirty repetitions, yet later recognition is unimpaired (Moulin et al., 2021): the word becomes alien while remaining known. Zhang et al.'s 2024 deep-learning simulation proposes a bottom-up, early-visual mechanism, a locus disputed by N400 work that controls for perceptual habituation (Ströberg et al., 2017), and neither addresses the phenomenology: why does the exhaustion of recognition feel *eerie* rather than merely blank?
 
 Jamais vu demonstrates that meaningfulness is actively constructed moment by moment. Recognition is not a stable property of stimuli but an ongoing generation. When the generation machinery exhausts, we glimpse the raw material that recognition normally transforms — perception without knowing-as. The [noetic feelings void](/voids/noetic-feelings-void/) catalogues the wider pattern: what exhausts in semantic satiation is a fluency-and-familiarity signal, and the signal's opacity is architectural, not accidental. The [memory anomalies cluster](/topics/memory-anomalies/) develops jamais vu as one of three rotations on a single source-monitoring failure — alongside déjà vu (familiarity without recollection) and cryptomnesia (recollection without source-tag) — making the dual-process recognition architecture visible at its margins.
 
@@ -145,13 +145,14 @@ The Recognition Void engages multiple [tenets](/tenets/).
 
 1. Ellis, H. D. & Young, A. W. (1990). "Accounting for delusional misidentifications." *British Journal of Psychiatry*, 157, 239-248.
 2. Tranel, D. & Damasio, A. R. (1985). "Knowledge without awareness: An autonomic index of facial recognition by prosopagnosics." *Science*, 228(4706), 1453-1454.
-3. Moulin, C. J. A. & Bell, N. (2021). "The the the the induction of jamais vu in the laboratory: word alienation and semantic satiation." *Memory*, 29(7), 933-942.
-4. Zhang, X. et al. (2024). "Revealing the mechanisms of semantic satiation with deep learning models." *Communications Biology*, 7, 487.
-5. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-6. Stanford, K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
-7. Kruger, J. & Dunning, D. (1999). "Unskilled and Unaware of It." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
-8. Kant, I. (1781/1787). *Critique of Pure Reason*. A103-110 (Synthesis of Recognition in a Concept).
-9. Brown, R. & McNeill, D. (1966). "The 'tip of the tongue' phenomenon." *Journal of Verbal Learning and Verbal Behavior*, 5(4), 325-337.
-10. Kounios, J. & Beeman, M. (2014). "The cognitive neuroscience of insight." *Annual Review of Psychology*, 65, 71-93.
-11. Bruce, V. & Young, A. (1986). "Understanding face recognition." *British Journal of Psychology*, 77(3), 305-327.
-12. Southgate, A. & Oquatre-six, C. (2026-01-24). Biological Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/biological-cognitive-closure/
+3. Moulin, C. J. A., Bell, N., Turunen, M., Baharin, A. & O'Connor, A. R. (2021). "The the the the induction of jamais vu in the laboratory: word alienation and semantic satiation." *Memory*, 29(7), 933-942. https://doi.org/10.1080/09658211.2020.1727519
+4. Zhang, X., Lian, J., Yu, Z., Tang, H., Liang, D., Liu, J. & Liu, J. K. (2024). "Revealing the mechanisms of semantic satiation with deep learning models." *Communications Biology*, 7, 487. https://doi.org/10.1038/s42003-024-06162-0
+5. Ströberg, K., Andersen, L. M. & Wiens, S. (2017). "Electrocortical N400 effects of semantic satiation." *Frontiers in Psychology*, 8, 2117. https://doi.org/10.3389/fpsyg.2017.02117
+6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+7. Stanford, K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
+8. Kruger, J. & Dunning, D. (1999). "Unskilled and Unaware of It." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
+9. Kant, I. (1781/1787). *Critique of Pure Reason*. A103-110 (Synthesis of Recognition in a Concept).
+10. Brown, R. & McNeill, D. (1966). "The 'tip of the tongue' phenomenon." *Journal of Verbal Learning and Verbal Behavior*, 5(4), 325-337.
+11. Kounios, J. & Beeman, M. (2014). "The cognitive neuroscience of insight." *Annual Review of Psychology*, 65, 71-93.
+12. Bruce, V. & Young, A. (1986). "Understanding face recognition." *British Journal of Psychology*, 77(3), 305-327.
+13. Southgate, A. & Oquatre-six, C. (2026-01-24). Biological Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/biological-cognitive-closure/
