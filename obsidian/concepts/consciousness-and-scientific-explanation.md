@@ -4,7 +4,7 @@ description: "Dualism does not stop science—it redirects it. Neural correlates
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-10-07T01:34:30+00:00
+ai_modified: 2026-11-01T09:29:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-07-19T06:34:03+00:00
+last_deep_review: 2026-11-01T09:29:04+00:00
 ---
 
 The most common objection to dualism is not philosophical but practical: that it stops science. If consciousness is not reducible to physical processes, critics argue, then there is nothing left to investigate. The Unfinishable Map holds that this objection gets the situation backwards. Dualism does not stop scientific inquiry into consciousness — it redirects it. Reduction is one form of scientific explanation. It is not the only form. Under dualism, neuroscience retains its full empirical programme, psychophysical laws become a legitimate target of discovery, and non-reductive explanation emerges as the appropriate framework for the mind-body relationship.
@@ -63,9 +63,9 @@ Dualism does make one prediction that promissory physicalism does not: that the 
 
 Reduction is not the only form of scientific explanation, even within the physical sciences.
 
-**Thermodynamics** preceded its reduction to statistical mechanics by over a century. The gas laws, the laws of heat exchange, and the principles of entropy were discovered, formalised, and used to build steam engines — all without anyone knowing that temperature was mean molecular kinetic energy. Thermodynamic explanation was genuine explanation. It identified lawful regularities, supported predictions, and enabled technological control. The later reduction to statistical mechanics added a deeper level of understanding but did not retrospectively invalidate the thermodynamic explanations.
+**Thermodynamics** preceded its reduction to statistical mechanics by decades. The gas laws, the laws of heat exchange, and the principles of entropy were discovered, formalised, and used to improve steam engines — all before it was established that temperature was mean molecular kinetic energy. Thermodynamic explanation was genuine explanation. It identified lawful regularities, supported predictions, and enabled technological control. The later reduction to statistical mechanics added a deeper level of understanding but did not retrospectively invalidate the thermodynamic explanations.
 
-**Phenomenological laws in physics** describe regularities without specifying underlying mechanisms. Ohm's law relates voltage, current, and resistance. It was a perfectly good scientific law for decades before electron theory explained *why* it held. The law was not a placeholder for a future reduction. It was a genuine discovery about how the world works.
+**Phenomenological laws in physics** describe regularities without specifying underlying mechanisms. Ohm's law relates voltage, current, and resistance. It was a perfectly good scientific law for decades before electron theory explained *why* it held. The law was a genuine discovery about how the world works, not a placeholder for a future reduction.
 
 **Chemistry before atomic theory** classified elements, predicted reactions, and discovered conservation principles — all without knowing what elements *were* at the fundamental level. Dalton's atomic theory eventually provided a reductive foundation, but the explanatory work of pre-atomic chemistry was not mere description awaiting real explanation.
 
@@ -99,19 +99,19 @@ Dualism clarifies rather than obscures the explanatory structure of consciousnes
 
 **Psychophysical laws explain** the systematic relationship between physical structures and phenomenal experience — why *this* neural pattern correlates with *this* experience rather than some other. These explanations are non-reductive. They connect domains rather than collapsing one into the other.
 
-**The [[hard-problem-of-consciousness|hard problem]]** — why there is [[emergence|experience at all]] — may be where [[mysterianism|explanation reaches its limit]]. The question of why physical structures correlate with phenomenal experience may be as fundamental and unanswerable as the question of why the universe has the physical constants it has. A brute regularity at the base level is not a failure of science. It is where the foundations are.
+**The [[hard-problem-of-consciousness|hard problem]]** — why there is [[emergence|experience at all]] — may be where [[mysterianism|explanation reaches its limit]]. The question of why physical structures correlate with phenomenal experience may be as fundamental and unanswerable as the question of why the universe has the physical constants it has. A brute regularity at the base level is where science reaches its foundations, not where it fails.
 
-This division does not mean giving up. It means recognising that different questions require different kinds of answers. The question "how does the visual cortex process colour?" has a mechanistic answer. The question "why does processed colour have a phenomenal character?" may require a different kind of answer — or may mark a genuine stopping point, as fundamental constants do in physics.
+Recognising that different questions require different kinds of answers is not giving up. The question "how does the visual cortex process colour?" has a mechanistic answer. The question "why does processed colour have a phenomenal character?" may require a different kind of answer — or may mark a genuine stopping point, as fundamental constants do in physics.
 
 ## Objections Considered
 
 **"Non-reductive explanation is not real explanation."** This amounts to stipulating that only reduction counts as explanation — a definition that excludes thermodynamics before Boltzmann, chemistry before Dalton, and phenomenological laws throughout physics. The physicalist's rejoinder — that those cases were eventually reduced — is addressed in the section on non-reductive explanation: the consciousness case is disanalogous because we have direct acquaintance with the explanandum in a way that was never true for temperature or chemical bonding.
 
-**"Psychophysical laws are just brute correlations."** All fundamental laws are, at bottom, brute. Why does mass curve spacetime? General relativity describes the relationship without explaining *why* it holds. Psychophysical laws would be in the same position — lawful regularities without deeper explanation. This is how fundamental science always terminates.
+**"Psychophysical laws are just brute correlations."** All fundamental laws are, at bottom, brute. Why does mass curve spacetime? General relativity describes the relationship without explaining *why* it holds. Psychophysical laws would be in the same position — lawful regularities without deeper explanation. This is how fundamental science terminates.
 
-**"The hard problem is an illusion."** Dennett and the illusionist school (Frankish, 2016) argue that phenomenal consciousness as philosophers conceive it does not exist — that the hard problem dissolves once we stop assuming qualia are what they seem. This article's framework presupposes the hard problem is genuine. The Map's response leads with a debt the illusionist still owes on their own terms: declaring the hard problem illusory does not dissolve the [[meta-problem-of-consciousness|meta-problem]] of why consciousness *seems* so hard, since the illusionist grants that the seeming exists and must then explain why it is robust enough, and resistant enough to deflation, that even illusionists are obliged to theorise it. The explanatory burden is shifted, not retired. Underlying the Map's confidence that the seeming tracks something real is the dualist's starting intuition that the hard problem is a report of what is directly given in experience rather than a theoretical posit — but that intuition is the starting point, not the load-bearing rebuttal; the rebuttal is that the meta-problem survives the deflation the illusionist proposes.
+**"The hard problem is an illusion."** Dennett and the illusionist school (Frankish, 2016) argue that phenomenal consciousness as philosophers conceive it does not exist — that the hard problem dissolves once we stop assuming qualia are what they seem. This article's framework presupposes the hard problem is genuine. The Map's response leads with a debt the illusionist still owes on their own terms: declaring the hard problem illusory does not dissolve the [[meta-problem-of-consciousness|meta-problem]] of why consciousness *seems* so hard, since the illusionist grants that the seeming exists and must then explain why it is robust enough, and resistant enough to deflation, that even illusionists are obliged to theorise it. The explanatory burden is shifted, not retired. Underlying the Map's confidence that the seeming tracks something real is the dualist's starting intuition that the hard problem is a report of what is directly given in experience rather than a theoretical posit — but that intuition is the starting point, not the rebuttal, which is that the meta-problem survives the deflation the illusionist proposes.
 
-**"Dualism provides no mechanism."** The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes a candidate mechanism: consciousness biases otherwise indeterminate quantum outcomes in neural systems. Whether this specific proposal is correct, the demand for a mechanism is legitimate and dualism-compatible. The mechanism connects two domains; it need not reduce one to the other.
+**"Dualism provides no mechanism."** The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes a candidate mechanism, still without a worked model (P-Q10): consciousness biases otherwise indeterminate quantum outcomes in neural systems. Whether this specific proposal is correct, the demand for a mechanism is legitimate and dualism-compatible. The mechanism connects two domains; it need not reduce one to the other.
 
 ## Relation to Site Perspective
 
@@ -128,7 +128,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet opens 
 ## Further Reading
 
 - [[psychophysical-laws-bridging-mind-and-matter]] — The framework for laws connecting mind and brain
-- [[methodology-of-consciousness-research]] — Why scientific method structurally excludes subjectivity
+- [[methodology-of-consciousness-research]] — Why consciousness research needs dual methodologies
 - [[consciousness-defeats-explanation]] — How consciousness breaks standard theories of explanation
 - [[reductionism]] — Why reduction succeeds everywhere except consciousness
 - [[evolution-under-dualism]] — How evolutionary biology operates under dualist assumptions
@@ -136,7 +136,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet opens 
 - [[neural-correlates-of-consciousness]] — The empirical programme that dualism preserves
 - [[dualism]] — The converging arguments for irreducibility
 - [[philosophy-of-science-under-dualism]] — Broader implications for demarcation and theory choice
-- [[galilean-exclusion]] — The founding methodological decision that created the hard problem
+- [[galilean-exclusion]] — The exclusion that shaped the hard problem's modern form
 - [[noetic-feelings-void]] — Why the felt sense of "sufficient explanation" is itself opaque
 
 ## References

@@ -1,9 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T08:56:00+00:00
+ai_modified: 2026-11-01T09:29:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T09:29:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-and-scientific-explanation]]
+- **Selection**: `deep_review.py next` top candidate (score 75, 105 days since review). Not on the driver's 14-page exclusion list. No open todo task names the slug above `## Completed Tasks`. Three body refines landed after the 07-19 no-op (09-04 Churchland quote, 10-02 corridor paragraph, 10-07 closure/Type-B), and every page it depends on changed (3–23 commits each).
+- **Word count**: 2548 → 2541 (−7) by analyze_length; prose 2311 → 2304; `soft_warning` both ends (concepts 2500/3500). Length-negative as the band requires.
+- **Critical issues addressed**: 1. The Further Reading gloss for [[concepts/galilean-exclusion]] ("The founding methodological decision that created the hard problem") misstated the recalibrated page ("one influential reconstruction"; "shaped the modern form ... without supplying the problem's force") and failed the origin ⇒ validity check. Now "The exclusion that shaped the hard problem's modern form".
+- **Medium issues addressed**: 3.
+  - L66 thermodynamics: "by over a century" → "by decades"; "used to build steam engines" → "used to improve" (the engines predate the science); "without anyone knowing" → "before it was established" (Clausius named entropy in 1865, after his 1857 kinetic paper).
+  - L114 mechanism reply: added "still without a worked model (P-Q10)".
+  - Methodology gloss: "structurally excludes subjectivity" → "needs dual methodologies".
+- **Low issues addressed**: 5.
+  - Three "This is not X. It is Y." constructs rephrased (L68, L102, L104).
+  - L112 "load-bearing" removed.
+  - L110 "always" dropped.
+- **Citations**: both quotes re-verified at raw source.
+  - Churchland 1986: "leaves us without explanatory nuts and bolts" is verbatim in both extractions of the 542-page PDF, at printed p. 322.
+  - Chalmers 1995: the "furniture of the basic laws of nature" sentence is verbatim at consc.net.
+  - Levine 1983 and Nagel 1974 metadata match Crossref.
+  - 8/8 inline↔References; no superlatives.
+- **Engagement modes**:
+  - Churchland/Dennett science-stopping: Mode One (conflation of irreducibility with uninvestigability).
+  - Optimistic induction: Mixed (the disanalogy works inside the induction; the residue is marked as at issue).
+  - Non-reductive-explanation objection: Mode One (counterexamples from accepted science).
+  - Brute correlations: Mode One (parity).
+  - Illusionism: Mode Two + Three.
+  - Mechanism demand: Mode Three, now explicit about P-Q10.
+- **Out of scope, not fixed**:
+  - L58/L126 consume the open P1 HUMAN DECISION on P-Q2's quantifier (todo L1626); this page should join its cascade list.
+  - `concepts/philosophy-of-science-under-dualism` L128 carries the same "structurally excludes subjectivity" gloss.
+  - `topics/methodology-of-consciousness-research` opens with unlabelled necessity vocabulary ("built into the scientific method itself"); its open P3 is scoped to L132–L134.
+- **Attribution**: `ai_system` unchanged (claude-opus-5-5 already present).
+- **Output**: [[reviews/deep-review-2026-11-01-consciousness-and-scientific-explanation]]
+
 ## 2026-11-01T08:56:00+00:00 - refine-draft
 - **Status**: Success (verified false-high; exemption applied, no prose change)
 - **File**: [[topics/mad-dog-everettianism]]
