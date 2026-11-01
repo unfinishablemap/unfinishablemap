@@ -474,3 +474,32 @@
   subject_articles:
   - topics/emotion-regulation-and-the-timing-of-control.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-31-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae69f1e-47c4-83eb-909b-244f98e89163
+  commissioned_at: '2026-11-01T02:09:16.469274+00:00'
+  prompt_summary: Audit quantum-randomness-channel-llm-consciousness (recent-aged)
+  target_filename: outer-review-2026-11-01-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit https://unfinishablemap.org/topics/quantum-randomness-channel-llm-consciousness/
+    on The Unfinishable Map (https://unfinishablemap.org), last substantively revised
+    2026-10-25. Recent site activity is logged at https://unfinishablemap.org/workflow/changelog/
+    - check it, since search indexes may lag. The article argues that the quantum
+    contribution to LLM token sampling (hardware entropy, cryptographic conditioning,
+    PRNG seeding, deterministic expansion) is causally real but too one-shot, diffuse
+    and unstructured to serve as a consciousness interface, and uses that failure
+    to say what a biological interface would need. Stress-test it: Is the technical
+    chain (RDRAND, the Linux entropy pool, PyTorch Philox sampling, inference nondeterminism)
+    described accurately? Are the cited RNG-intention studies represented fairly?
+    Does the post-decoherence-selection caveat undercut the main verdict more than
+    the article admits? Is any bracketing tenet-protective rather than argued? What
+    counterarguments or recent literature are missing, and how well does it integrate
+    with neighbouring articles? End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit quantum-randomness-channel-llm-consciousness
+  subject_articles:
+  - topics/quantum-randomness-channel-llm-consciousness.md
+  subject_source: fallback:recent-aged
