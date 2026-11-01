@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-22 06:22:57+00:00
+ai_modified: 2026-11-01 15:30:39+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[evolution-of-consciousness]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-10-13
-date: &id001 2026-10-14
+date: &id001 2026-11-01
 description: If conscious selection affects fitness, what does evolution pass on?
   A human-AI analysis separating receiver, eligibility and law, and naming the debts
   that remain open.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-14 10:38:50+00:00
-lastmod: 2026-10-22 06:22:57+00:00
+lastmod: 2026-11-01 15:30:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ An external AI review of the Map (September 2026) pressed the question as a dile
 - **(c) The mapping is a fixed fundamental law.** Then one unchanging law must serve intentions that are species-specific, sensitive to development and rich in meaning.
 - **(d) Each subject learns the mapping.** Then learning requires an interface that already works, and the first successful mind-to-brain mapping has no source: an onset regress.
 
-The dilemma reaches beyond the Map, to every interactionist who relies on the evolutionary argument Hedda Hassel Mørch traces from James (1890) through Popper and Eccles (1977) and Popper (1978). The review also named the repair it thought owed: separating evolution of the physical receiver, evolution of subject eligibility, and evolution or learning of the psychophysical "codebook".
+The dilemma reaches beyond the Map, to every interactionist who relies on the evolutionary argument Hedda Hassel Mørch traces from James (1890) through [Popper and Eccles (1977)](/concepts/popper-three-worlds-interactionism/) and Popper (1978). The review also named the repair it thought owed: separating evolution of the physical receiver, evolution of subject eligibility, and evolution or learning of the psychophysical "codebook".
 
 ## Three Things Evolution Could Pass On {#three-inheritables}
 

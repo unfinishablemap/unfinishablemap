@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 14:52:56+00:00
+ai_modified: 2026-11-01 15:30:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 14:52:56+00:00
+lastmod: 2026-11-01 15:30:39+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T15:30:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [popper-three-worlds-interactionism](/concepts/popper-three-worlds-interactionism/)
+- **Original score**: n/a (targeted locus fix; `scripts/curate.py` absent)
+- **Branch**: CITE. The "pending a check" locus (L86, "**Arguments against epiphenomenalism, pending a check.**") now cites Popper's actual arguments at page level.
+- **Sources tried / found**: (1) Popper 1977, *Dialectica* 31(1/2): 177–186. Crossref metadata printed in full (title, author, vol 31, issue 1/2, pp. 177-186, DOI 10.1111/j.1746-8361.1977.tb01363.x; publisher now "Verein philosophie.ch"). Wiley `pdf`/`pdfdirect` 403, Wiley TDM 400, PhilPapers 403. The DOI now resolves to philosophie.ch (`/popper-1977`), whose open-access PDF (`assets.philosophie.ch/dialectica/popper-1977a.pdf`, 10 pp.) was READ IN FULL with pdftotext + NFKC. Wayback not needed. (2) *The Self and Its Brain* (1977): archive.org has 3 items (`selfitsbrain0000popp`, `selfitsbrain00popp`, `selfitsbrainanar0000popp`), all access-restricted (djvu.txt 401; search-inside returns "Item not available"). Google Books SearchWithinVolume2 is live on the Springer print id `xNk8-nwe8mgC` (with page numbers) and the Routledge id `RdN9BwAAQBAJ` (none). Control "trialist" hit in rounds 1–3 (pp. 359, 360, 584). Round 4's control returned 0, so that round's zeros ("kernel of truth", "If we regain") are void. Also a false zero: "this argument is decisive" = 0 on `xNk8` while "tremendous impact" on the same id returned the sentence containing it (p. 74). (3) Gray 1981 re-fetched at reasonpapers.com: "He adduces some important and, in my view, wholly conclusive arguments against the doctrines of parallelism and epiphenomenalism" is VERIFIED on PDF p. 2 = printed p. 122.
+- **Verified quotes**: SIB p. 74 "but denies it any biological function", "the tremendous impact of this evolution (and of the evolution of World 3) upon World 1. I think that this argument is decisive"; SIB p. 75 "This does not refute epiphenomenalism. It merely means that if epiphenomenalism is true, we cannot take seriously as a reason or argument whatever is said in its support"; Dialectica p. 185 has the same Darwinian argument but reads "the tremendous impact of this evolution on world 1. I think that this argument is decisive". The World-3 parenthesis is absent there, and so are the "suicidal"/self-stultification paragraph and the Haldane section (0 hits each; control "tremendous" = 1). Caveat: Dialectica principle (3) on p. 185 does say "(and of world 3)", so the article scopes the omission to "that passage".
+- **Changes**: (a) L86 rewritten. Old: "**Arguments against epiphenomenalism, pending a check.** … The review does not say whether they stand free of World 3; Popper's 1977 *Dialectica* paper on the topic, not read here, is where to look." New: the Darwinian argument with page cites; World 3 only as a parenthesis that the Dialectica version omits; the Map can take it (piped to `evolutionary-case-for-mental-causation`) together with its `inheritance-problem-for-the-psychophysical-law`; Popper's own "This does not refute epiphenomenalism" for his self-stultification argument (piped to `self-stultification`). (b) L38 sources sentence: SIB "read only in snippets". (c) L76 dropped the redundant clause "because none of them depends on World 3" (−7 words, to pay for the cite). (d) L72 grain complaint piped to `temporal-consciousness-structure-and-agency` (0 words). (e) L100 "two of his replies" → "several" (now stale: closure, conservation, plastic-control hierarchy, Darwinian argument). (f) References: Dialectica "(Read in full; pp. 183–185 relied on.)"; SIB "(§20, pp. 72–75, read in snippets; otherwise through Gray 1981.)". (g) Inbound: `topics/inheritance-problem-for-the-psychophysical-law` L52, "Popper and Eccles (1977)" piped to this page (0 words; ai_modified bumped).
+- **Length**: analyze_length 3414 → 3454 (+40; concepts hard 3500, headroom now 45). Inheritance page 3408 → 3408.
+- **Engagement classification**: epiphenomenalism via Popper's Darwinian argument, Mode One (from the epiphenomenalist's own Darwinism: no biological function, so no Darwinian account of World 2's evolution). The self-stultification argument is Popper's own Mode Three admission ("does not refute"), reported as such.
+- **Residue (not changed)**: the task notes call P3 "Materialism Transcends Itself", but SIB's running heads and TOC show P1 = "Materialism Transcends Itself" (p. 3) and P3 = "Materialism Criticized" (p. 51; §19 Panpsychism p. 67, §20 Epiphenomenalism p. 72, §21 Haldane p. 75, §23 p. 86, §24 "A Critical Note on Parallelism" pp. 88–93). The parallelism critique (§24) was seen only in one p. 91 snippet ("consciousness or awareness has a number of biologically useful functions"), so the page makes no claim about it. P4/P5 not reached.
+- **Published**: yes
 
 ## 2026-11-01T14:52:56+00:00 - refine-draft
 - **Status**: Success

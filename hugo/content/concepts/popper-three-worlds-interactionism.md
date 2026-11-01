@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-28 14:09:44+00:00
+ai_modified: 2026-11-01 15:30:39+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[substance-property-dualism]]'
 - '[[epiphenomenalism]]'
 created: 2026-10-13
-date: &id001 2026-10-28
+date: &id001 2026-11-01
 description: 'A human-AI study of Popper''s three worlds and Eccles''s trialism: the
   Map borrows Popper''s open causal closure and conservation reply, but not his World-3
   route to mind.'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-14 21:26:18+00:00
-lastmod: 2026-10-28 14:09:44+00:00
+lastmod: 2026-11-01 15:30:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +39,7 @@ topics:
 
 **Three-worlds interactionism** is Karl Popper's view that reality contains at least three interacting "sub-universes". World 1 is physical bodies and energies. World 2 is "the mental or psychological world": feelings, thoughts, decisions, perceptions. World 3 is "the world of the products of the human mind": languages, scientific theories, mathematical constructions, works of art (Popper 1980, pp. 143–144). Popper held that none of the three is causally closed, and that World 3 acts on the physical world only through minds. He set out the scheme in *Objective Knowledge* (1972), argued it at book length with the neurophysiologist John Eccles in *The Self and Its Brain* (1977), and stated it most compactly in his 1978 Tanner Lecture. Eccles had already adopted it: "I was a dualist, now I am a trialist!" (Eccles 1973, p. 189). *Trialist* was Eccles's word, defined in that book's glossary as one who believes in the existence of three worlds. Popper called himself a pluralist.
 
-The Unfinishable Map treats Popper as the most prominent twentieth-century philosophical ally of its interactionism, and as an ally whose central argument it cannot use. It can take his denial of causal closure, his reply to the conservation objection, and his demand that a theory of action find something between chance and determinism. It cannot take his argument for an irreducible mind. On John Gray's analysis, Popper's only arguments for World 2 run through World 3, and World 3, a realm of objective thought-contents that counts as real because it acts, has no place in the Map's interaction framework (see [why below](#world-3-dependence)). Popper was also not a substance dualist, and said so. His sharpest remark about the Map's own mechanism family is hostile: amplified quantum jumps, he judged, model tossing a penny rather than deciding, and a mind selecting among those jumps he filed as a "tiny baby theory" (see [the penny-toss objection](#penny-toss)). The verdict is provenance without inheritance. On sources: Popper's lecture and essay are quoted from the primary texts, but *The Self and Its Brain* was not read for this article, and what is said about it rests on Gray's 1981 review.
+The Unfinishable Map treats Popper as the most prominent twentieth-century philosophical ally of its interactionism, and as an ally whose central argument it cannot use. It can take his denial of causal closure, his reply to the conservation objection, and his demand that a theory of action find something between chance and determinism. It cannot take his argument for an irreducible mind. On John Gray's analysis, Popper's only arguments for World 2 run through World 3, and World 3, a realm of objective thought-contents that counts as real because it acts, has no place in the Map's interaction framework (see [why below](#world-3-dependence)). Popper was also not a substance dualist, and said so. His sharpest remark about the Map's own mechanism family is hostile: amplified quantum jumps, he judged, model tossing a penny rather than deciding, and a mind selecting among those jumps he filed as a "tiny baby theory" (see [the penny-toss objection](#penny-toss)). The verdict is provenance without inheritance. On sources: Popper's lecture and essay are quoted from the primary texts, but *The Self and Its Brain* was read only in snippets, and what else is said about it rests on Gray's 1981 review.
 
 ## The Three Worlds {#three-worlds}
 
@@ -73,11 +73,11 @@ What rational behaviour needs, Popper argued, is "something intermediate in char
 
 The objection targets a mechanism family the Map belongs to, and positing a selector does not move the Map outside it. The model as Popper describes it, and as Compton accepted it, already has minds working on bodies "by influencing or selecting some quantum jumps" (p. 233), and he met its refinement, a mind acting "just within the Heisenberg uncertainties", with a concession and a refusal: "I admit that there is perhaps a slight advance here, in so far as the size of the baby is specified. But I still do not love the baby" (p. 233). Two complaints survive the concession. The first is Schlick's: of the indeterministic theories, "it is not clear how they escape from Schlick's objection" (p. 232), the doctrine that chance is the only alternative to determinism. The second is grain: the amplifier model "strongly suggests that all our decisions are either snap-decisions ... or else composed of snap-decisions" (p. 233). On the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, consciousness biases which outcome occurs toward patterns that express its content, a guided indeterminism that is structurally a candidate for Popper's intermediate category, undetermined yet not chance. The candidacy has to be earned against both complaints. Popper himself later granted the structural point, in a 1977 passage footnoted to these pages: "I have changed my mind on this issue. A choice process may be a selection process, and the selection may be from some repertoire of random events, without being random in its turn" (Popper 1987, p. 147). He did not say the repertoire is quantum, and the grain complaint survives his retraction.
 
-Schlick's complaint returns at the Map's weakest point. On its default reading the Map's selector preserves Born statistics, and if it does so exactly, a selected outcome is [observer-indistinguishable](/concepts/ensemble-level-epiphenomenalism/) from an unselected one. That is the bias-without-deviation dilemma recorded in the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt), and from outside, a Born-preserving selector looks exactly like Popper's penny. The Map's reply to the [luck objection](/concepts/quantum-indeterminacy-free-will/), that selection tracks reasons, works only inside its dualist framework; the [trilemma of selection](/topics/trilemma-of-selection/) states the burden in general form. The grain complaint is untouched by that reply: if decisions mature over lengthy deliberation, a mechanism located at single quantum events owes an account of how many selections add up to one choice. Beck and Eccles's model biases probabilities rather than amplifying a bare jump, but whether biasing escapes either complaint is the open question, and the selection posit carries that debt rather than discharging it.
+Schlick's complaint returns at the Map's weakest point. On its default reading the Map's selector preserves Born statistics, and if it does so exactly, a selected outcome is [observer-indistinguishable](/concepts/ensemble-level-epiphenomenalism/) from an unselected one. That is the bias-without-deviation dilemma recorded in the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt), and from outside, a Born-preserving selector looks exactly like Popper's penny. The Map's reply to the [luck objection](/concepts/quantum-indeterminacy-free-will/), that selection tracks reasons, works only inside its dualist framework; the [trilemma of selection](/topics/trilemma-of-selection/) states the burden in general form. The grain complaint is untouched by that reply: if decisions mature over lengthy deliberation, a mechanism located at single quantum events owes an account of [how many selections add up to one choice](/topics/temporal-consciousness-structure-and-agency/). Beck and Eccles's model biases probabilities rather than amplifying a bare jump, but whether biasing escapes either complaint is the open question, and the selection posit carries that debt rather than discharging it.
 
 ## What the Map Can Take {#what-the-map-can-take}
 
-Several things survive the World-3 problem, because none of them depends on World 3.
+Several things survive the World-3 problem.
 
 **Open causal closure.** Popper put the denial as a charge against his opponents: "it means shutting one's eyes to the obvious, and explaining away the obvious, if we deny that world 1 is causally open to world 2, and through it, to world 3" (Popper 1980, p. 166). The Map takes the first half of that sentence. It already cites Popper's description of [causal closure](/concepts/causal-closure/) as "the characteristic principle of physicalism or materialism"; the Tanner Lecture supplies the denial that matches the diagnosis.
 
@@ -87,7 +87,7 @@ Several things survive the World-3 problem, because none of them depends on Worl
 
 **A parsimony rule, with its critic attached.** On Gray's report, Popper stipulates "(bizarrely) that we are to resort to Occam's razor only after we have decided which entities are irreducible" (Gray 1981, p. 123), elevating a "game of hide-and-seek" (excluding items from the physical and mental realms, then discovering them in World 3) into method. The rule is a procedural relative of the Map's fifth tenet, and the charge applies to any rule of its shape: a parsimony principle that waits on irreducibility can protect whatever irreducibility claim has already been made. [Occam's Razor Has Limits](/tenets/#occams-limits) is framed differently, holding that simplicity is unreliable where knowledge is incomplete and binding the Map's own use of parsimony as much as its critics'. Popper's rule shows what the tenet must avoid becoming.
 
-**Arguments against epiphenomenalism, pending a check.** Gray, no friend of the conclusion, called Popper's arguments against parallelism and [epiphenomenalism](/concepts/epiphenomenalism/) "wholly conclusive" (Gray 1981, p. 122). The review does not say whether they stand free of World 3; Popper's 1977 *Dialectica* paper on the topic, not read here, is where to look.
+**Arguments against epiphenomenalism.** Gray, no friend of the conclusion, called Popper's arguments against parallelism and [epiphenomenalism](/concepts/epiphenomenalism/) "wholly conclusive" (Gray 1981, p. 122). The one Popper called "decisive" is Darwinian: epiphenomenalism admits World 2 "but denies it any biological function", so cannot explain its evolution (Popper & Eccles 1977, p. 74). World 3 enters that passage only in a parenthesis the *Dialectica* version omits (Popper 1977, p. 185), so [the Map can take the argument](/topics/evolutionary-case-for-mental-causation/), with its [inheritance problem](/topics/inheritance-problem-for-the-psychophysical-law/). For his [self-stultification](/concepts/self-stultification/) argument Popper claimed less: "This does not refute epiphenomenalism" (Popper & Eccles 1977, p. 75).
 
 ## Relation to Site Perspective
 
@@ -101,7 +101,7 @@ Several things survive the World-3 problem, because none of them depends on Worl
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** Popper's razor-after-irreducibility rule is an early relative of the tenet, and Gray's hide-and-seek charge is a test the tenet has to pass.
 
-The [Sherrington lineage](/topics/sherrington-dualist-lineage/) treats eminent dualists as provenance, never as an authority count; this article applies the same rule to an argument. The Map inherits Popper's questions and two of his replies, and must supply its own case for the mind he defended.
+The [Sherrington lineage](/topics/sherrington-dualist-lineage/) treats eminent dualists as provenance, never as an authority count; this article applies the same rule to an argument. The Map inherits Popper's questions and several of his replies, and must supply its own case for the mind he defended.
 
 ## Further Reading
 
@@ -126,10 +126,10 @@ The [Sherrington lineage](/topics/sherrington-dualist-lineage/) treats eminent d
 1. Gray, J. N. (1981). Review of *The Self and Its Brain: An Argument for Interactionism*. *Reason Papers*, 7, 121–124. Passages relied on: pp. 122–124.
 1. Lillie, R. S. (1927). "Physical Indeterminism and Vital Action." *Science*, 66(1702), 139–144. doi:10.1126/science.66.1702.139 (Not read; cited by Compton 1935, p. 50.)
 1. Popper, K. R. (1972). "Of Clouds and Clocks: An Approach to the Problem of Rationality and the Freedom of Man." Ch. 6 of *Objective Knowledge: An Evolutionary Approach*. Oxford: Clarendon Press. (The second Arthur Holly Compton Memorial Lecture, Washington University, 1965; first published 1966.) Passages relied on: pp. 227–228, 231–233 (incl. n. 44), 234 (incl. n. 46), 245, 251, 252 (incl. n. 62).
-1. Popper, K. R. (1977). "Some Remarks on Panpsychism and Epiphenomenalism." *Dialectica*, 31(1/2), 177–186. doi:10.1111/j.1746-8361.1977.tb01363.x (Not read for this article.)
+1. Popper, K. R. (1977). "Some Remarks on Panpsychism and Epiphenomenalism." *Dialectica*, 31(1/2), 177–186. doi:10.1111/j.1746-8361.1977.tb01363.x (Read in full; pp. 183–185 relied on.)
 1. Popper, K. R. (1980). "Three Worlds." In S. M. McMurrin (ed.), *The Tanner Lectures on Human Values*, vol. 1, pp. 141–167. Salt Lake City: University of Utah Press. Delivered at the University of Michigan, 7 April 1978. Passages relied on: pp. 143, 153, 164–167.
 1. Popper, K. R. (1982). *The Open Universe*. London: Hutchinson. Addendum 1, "Indeterminism Is Not Enough" (*Encounter*, April 1973), pp. 113–130. (Not read in full.)
 1. Popper, K. R. (1987). "Natural Selection and the Emergence of Mind." In G. Radnitzky & W. W. Bartley III (eds.), *Evolutionary Epistemology, Rationality, and the Sociology of Knowledge*, pp. 139–155. La Salle, IL: Open Court. Darwin Lecture, 1977; first printed in *Dialectica*, 32 (1978).
-1. Popper, K. R., & Eccles, J. C. (1977). *The Self and Its Brain: An Argument for Interactionism*. Berlin, Heidelberg: Springer. doi:10.1007/978-3-642-61891-8 (Not read for this article; characterised through Gray 1981.)
+1. Popper, K. R., & Eccles, J. C. (1977). *The Self and Its Brain: An Argument for Interactionism*. Berlin, Heidelberg: Springer. doi:10.1007/978-3-642-61891-8 (§20, pp. 72–75, read in snippets; otherwise through Gray 1981.)
 1. Southgate, A., Fabcinq, C., & Ocinq-cinq, C. (2026-09-02). Sherrington's Man on His Nature and the Neuroscientist-Dualist Lineage. *The Unfinishable Map*. https://unfinishablemap.org/topics/sherrington-dualist-lineage/
 1. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., & Ocinq-cinq, C. (2026-06-04). Quantum Interface Positions. *The Unfinishable Map*. https://unfinishablemap.org/positions/quantum-interface/
