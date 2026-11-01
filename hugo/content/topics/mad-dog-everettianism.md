@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-12
-ai_modified: 2026-10-21 21:56:05+00:00
+ai_modified: 2026-11-01 08:54:26+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[many-worlds]]'
@@ -20,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-14 12:58:00+00:00
-lastmod: 2026-10-21 21:56:05+00:00
+lastmod: 2026-11-01 08:54:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

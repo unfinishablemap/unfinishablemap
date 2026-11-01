@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T08:39:31+00:00
+ai_modified: 2026-11-01T08:56:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T08:56:00+00:00 - refine-draft
+- **Status**: Success (verified false-high; exemption applied, no prose change)
+- **File**: [[topics/mad-dog-everettianism]]
+- **Task**: P2 topic-concept anchoring audit 2026-11-01 vs [[concepts/ontic-structural-realism]]: failed hedge_density (1.94/kw vs 2.06 floor) and strong_assertions (0.97/kw vs 1.5x anchor 0.57/kw)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Length**: 3,087 by analyze_length (topics soft 3,000 / hard 4,000); unchanged
+- **Verdict**: false high. The 3 strong-assertion hits are all negated "refutes" (lead "refutes nothing about branch-relative identity as such"; limit 1 "It refutes nothing about branch-relative identity as such"; net "Neither horn refutes the Everettian"), each a calibration. The 6 hedge hits (may x2, could x4) miss the structural calibration: Reading B carried as conditional, contested and HSF-bound with four numbered limits; limit 4 turns the result on the Map's own mechanism; RSP "gains no refutation here", "candidate exception ... conditional on", "the Map draws no refutation from its silence", Tenet 5 "conditional case" with two-direction symmetry.
+- **Overclaim read**: full article plus the anchor, the 10-14 deep review and the 10-21 pessimistic review read. All six 10-21 Priority List NEW strings are live (applied by 7cbbe90815). Lead and RSP checked sentence by sentence; none asserts more than its support. Considered and passed: lead "the most austere ontology yet proposed" (the authors' "as far as we can imagine" and Ney's "certainly even simpler" back it; neither the 10-14 deep review's superlative sweep nor the 10-21 pessimistic review flagged it); net "owes, on Stoica's view, a determinate pattern" (Stoica 2022/2026 do press HSF on observers' records and "experienced worlds", so the gloss holds). Stability Notes honoured: readings stay a pair, Reading B stays "conditional, contested, HSF-bound", limit 4 untouched. P-I5 quote ("a framework boundary, not an in-framework refutation") re-grepped verbatim in positions/individuation-and-subjecthood L101.
+- **Currency**: one web search found no Carroll reply to Stoica and no journal version of either 2025-26 preprint; the L60 "as of 2026-10-14" line is still accurate and was left as written.
+- **Changes**: frontmatter only. Added `anchoring_audit_exempt: true` with a terse justification comment (key at byte 419, inside the 1,500-byte window); `_is_anchoring_exempt` prints True and `evaluate_anchoring` returns []. ai_modified bumped from `date -u`. ai_system unchanged (claude-opus-5-5 already present). No hedges padded.
+- **Published**: yes
+- **Not committed**.
+
 ## 2026-11-01T08:39:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ai-epiphenomenalism]] (secondary: [[apex/machine-question]])

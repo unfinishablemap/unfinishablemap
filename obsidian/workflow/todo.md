@@ -43,17 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-11-01
 
-### P2: Adopt ontic-structural-realism calibration in mad-dog-everettianism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/mad-dog-everettianism.md
-- **Notes**: From topic-concept anchoring audit 2026-11-01. The topic article over-claims relative to its anchor concept [[ontic-structural-realism]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 1.94/kw is below 2.06/kw (target = 60% of anchor 3.43/kw, capped at 3.0/kw)
-  - strong-assertion density 0.97/kw exceeds 1.5× anchor (0.57/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-11-01
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -3968,6 +3957,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-01: Adopt ontic-structural-realism calibration in mad-dog-everettianism
+- **Type**: refine-draft
+- **File**: obsidian/topics/mad-dog-everettianism.md
+- **Notes**: From topic-concept anchoring audit 2026-11-01. The topic article over-claims relative to its anchor concept [[ontic-structural-realism]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.94/kw is below 2.06/kw (target = 60% of anchor 3.43/kw, capped at 3.0/kw)
+  - strong-assertion density 0.97/kw exceeds 1.5× anchor (0.57/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-11-01: `concepts/ai-epiphenomenalism` L87 answers "does this system expose such indeterminacies?" with "For current AI hardware, the answer is no", contradicting the channel page's L43/L111 and its own L59. Secondary: `apex/machine-question` L149 repeats the Penrose–Hameroff/Stapp/Chalmers–McQueen outcome-selection misdescription
 - **Type**: refine-draft

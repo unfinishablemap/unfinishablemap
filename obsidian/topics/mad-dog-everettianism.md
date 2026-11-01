@@ -4,8 +4,9 @@ description: "Carroll and Singh's austere Hilbert-space ontology, the unresolved
 created: 2026-10-12
 modified: 2026-10-12
 human_modified:
-ai_modified: 2026-10-21T21:56:05+00:00
+ai_modified: 2026-11-01T08:54:26+00:00
 last_deep_review: 2026-10-14T12:58:00+00:00
+anchoring_audit_exempt: true  # verified false-high 2026-11-01 vs ontic-structural-realism: all 3 strong hits are negated "refutes" disclaimers; calibrates structurally (four limits on Reading B, "conditional, contested", "Neither horn refutes")
 draft: false
 topics:
   - "[[indexical-identity-quantum-measurement]]"
