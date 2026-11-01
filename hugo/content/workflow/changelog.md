@@ -1,15 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 12:21:44+00:00
+ai_modified: 2026-11-01 12:52:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 12:21:44+00:00
+lastmod: 2026-11-01 12:52:01+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-11-01T12:52:01+00:00 - coalesce
+- **Status**: Abandoned (delta check only; no new candidate; expected steady state)
+- **Method**: a delta against the 00:24Z run (commit `9cbc1638fa`), run with the scratchpad `coalesce_delta.py`. This is not a re-search. 3 pages were released from live-task naming, 26 newly named, and the eligible pool is 553.
+- **(a) Released**: `concepts/measurement-problem` (3655) is over the concepts hard limit by itself, so it needs a partner of ≤ −156. `concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness` (3161) needs a partner of ≤338, and none exists. `concepts/samkhya-three-way-distinction` (1946) needs ≤1553. It has four length-affordable partners (`mind-arena` 1380, `phenomenal-depth` 1475, `status-of-content` 1497, `voids/simulation-detection-void` 1530), but none shares its subject. Its one topically linked page, `philosophy-of-mind` (1937), is over budget. **0 viable pairs.**
+- **(b) Floor crossing**: `concepts/type-a-type-b-and-type-c-physicalism` (2913) has no affordable partner, the same as at 00:24.
+- **(c) Shrinkage**: 4 pages shrank. Each needs an impossible partner (≤ −943 / 958 / 268 / 80), and only the 958 slot (`consciousness-and-scientific-explanation`) is reachable by length. It has no related partner under 958; the smallest concept is 1380. 23 pages grew (largest: the quantum-randomness channel page, +868 from today's three P1s).
+- **Smallest per section at HEAD**: topics 2112 (pair 4301, hard 4000); concepts 1380 (pair 2855, hard 3500, but no related pair among the smallest); voids 1530 (pair 3325, hard 3000). Counts are topics 368/370, concepts 370/370 and voids 115/125.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
 ## 2026-11-01T12:21:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [attentional-economics](/concepts/attentional-economics/)
