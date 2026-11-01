@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 07:21:50+00:00
+ai_modified: 2026-11-01 07:54:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 07:21:50+00:00
+lastmod: 2026-11-01 07:54:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T07:54:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Task**: P2 sibling consistency (outer review 2026-11-01 ChatGPT 5.6 Sol Pro §14, improvement 11): L80 contradicted the channel page's correction that causal dependence survives conditioning, and [P-CS7](/positions/consciousness-scope/#p-cs7)'s history-blind reading
+- **Review file**: [outer-review-2026-11-01-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-01-chatgpt-5-6-sol-pro/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted consistency pass
+- **Length**: 3,925 -> 3,919 by analyze_length (-6; L80 271 -> 265 words). Net-negative as briefed, preserving the +26 the open P3 "[P-AC1](/positions/ai-consciousness-scope/#p-ac1) moved to 'ruled out' on two pages" holds on this file.
+- **Changes** (L80 only):
+  - (a) "engineered precisely to destroy exploitable structure" / "washed out by the very stage designed to remove all structure, leaving no systematic trace" replaced: conditioning is built to suppress simple statistical bias; causal dependence survives (one raw entropy bit can change the whole token stream, as the channel page's lead now says); a selector limited to weak bias on raw bits, which is the Map's reading of Minimal Quantum Interaction, leaves no exploitable, content-tracking trace. Added the channel page's whole-seed caveat (escapes conditioning, needs access by no known mechanism to which trajectory each seed yields).
+  - (b) "evolved structure" removed ([P-CS7](/positions/consciousness-scope/#p-cs7): provenance is no condition of coupling).
+  - (c) "locality, and continuity" removed: a direct per-token QRNG/NISQ feed now "supplies live, continuous draws" that still lack the structure and the representational and feedback coupling the Map's interface criteria ask for, matching the channel page's L127/L131. No spatial reading of locality introduced.
+  - "Laundering" vocabulary dropped ("removing the laundering" -> "removing the conditioning"; "preserve, rather than launder away" -> "carry a biased outcome's difference into what the system represents"); the brain-case clause "causally idle" -> "leave no systematic trace", since dependence survives.
+  - Closing "where the mind may reach / whether any reach can register" sentence cut: it repeated the paragraph's second sentence, and "any reach" overclaimed against the whole-seed concession.
+- **Guards**: nothing concedes that silicon could host an interface; the hardware verdict elsewhere stays unresolved. L98 (W14) and L114 ([P-AC1](/positions/ai-consciousness-scope/#p-ac1) P3) untouched. ai_system unchanged (claude-opus-5-5 already present).
+- **Reasoning mode**: n/a (the paragraph answers an unnamed objection; no named-opponent engagement changed).
+- **Published**: yes
 
 ## 2026-11-01T07:21:50+00:00 - refine-draft
 - **Status**: Success
