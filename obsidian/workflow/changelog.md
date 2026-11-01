@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T11:23:09+00:00
+ai_modified: 2026-11-01T11:49:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T11:49:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-zeno-effect]]
+- **Selection**: candidate #2 (score 75) after the driver-excluded `topics/forward-in-time-vs-time-symmetric-selection`; no open task names it as File/Secondary; 7 unreviewed commits since 2026-08-21.
+- **Word count**: 3240 → 3231 (−9), concepts soft 2,500 / hard 3,500, gate `>=`; length-negative pass.
+- **Critical issues addressed**: 4. (1) L78 "~1,000 observations per window that Stapp's own modelling assumes (Stapp 2007)" contradicted by *Mindful Universe* p. 127 (10 ms between probing actions, "~ 100 hertz", so about thirty per 300 ms window; "1000"/"thousand" = 0 in the volume, control query live), corrected. (2) RtSP Tenet 2 "the leading candidate" / "most closely fitted" contradicted P-Q1/P-Q4 (Stapp-Zeno demoted below post-decoherence selection), now ranked per P-Q4. (3) L74 "the Zeno mechanism as the Map uses it traces to the 2007 book" was false genealogy against the page's own Stapp (2000) cite (Zeno also in QID 2005 and SSB 2005); corrected, keeping the title disambiguation. (4) RtSP Bidirectional "destabilise as easily as stabilise" contradicted the page's own Kofman–Kurizki asymmetry; aligned.
+- **Medium issues addressed**: 2 (SSB 2005 subtitle restored; Hagan 2002 DOI added). Meta-sentence at L76 trimmed (−14) to fund.
+- **Citations web-verified**: Stapp 2000, Georgiev 2015, Tegmark 2000, Hagan 2002, SSB 2005, Kobylkov 2019, Gauger 2011 (delta); Kofman–Kurizki, Naskar–Joarder, Ishizaki–Fleming quotes re-grepped at raw source. Ledger in the review file.
+- **Engagements**: Ballentine/Itano Mode Three; Tegmark/Hagan/Reimers Mode Three; Stapp 2000/Georgiev 2015 mixed Two/Three.
+- **Out-of-scope (not fixed)**: the same unverified "~1000 per 300 ms (Stapp 2007)" is live at `topics/comparing-quantum-consciousness-mechanisms` L82 (origin), `concepts/timing-gap-problem` L71, `concepts/quantum-consciousness` L124, `concepts/bidirectional-interaction` L85, `topics/the-interface-problem` L83, `concepts/conscious-vs-unconscious-processing` L247, `research/quantum-zeno-effect-2026-07-14` L108.
+- **ai_system**: `claude-opus-5-5` already present; not appended.
+- **Output**: [[reviews/deep-review-2026-11-01-quantum-zeno-effect]]
+
 ## 2026-11-01T11:23:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/attentional-economics]]
