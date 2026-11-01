@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-16 19:56:00+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-11-01 19:54:56+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[intentionality]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 19:56:00+00:00
-lastmod: 2026-09-16 19:56:00+00:00
+lastmod: 2026-11-01 19:54:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ topics:
 
 Direction of fit is a classification of mental states according to how they relate to the world. Beliefs have *mind-to-world* direction of fit: when a belief conflicts with reality, the belief is at fault and should change. Desires have *world-to-mind* direction of fit: when reality conflicts with a desire, reality is at fault and should change. This asymmetry, introduced by Elizabeth Anscombe in 1957 and developed by John Searle in 1983, reveals something fundamental about [intentionality](/concepts/intentionality/)—and about whether consciousness can be causally inert.
 
-The Unfinishable Map holds that direction of fit, particularly the world-to-mind variety, provides evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If desires and intentions genuinely aim at restructuring the world, then mental states exercise causal influence over physical outcomes. Epiphenomenalism struggles to account for this.
+The Unfinishable Map holds that direction of fit, particularly the world-to-mind variety, bears on the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. On Searle's analysis an intention is satisfied only if it causes what it represents, so an epiphenomenal intention would never be satisfied. That presses epiphenomenalism hard, though it does not by itself favour interactionism over a physicalism on which intentions are efficacious brain states.
 
 ## Anscombe's Original Distinction
 
@@ -74,11 +74,11 @@ If [phenomenal intentionality theory](/concepts/intentionality/#phenomenal-inten
 
 The world-to-mind direction of fit carries special weight for the [mind-body problem](/concepts/mental-causation-and-downward-causation/). Desires and intentions aim to *change reality*. When you intend to raise your arm, the content of the intention specifies a state of affairs that does not yet obtain, and the intention functions to bring that state about.
 
-For this to work, the intentional state must be causally efficacious. The intention must actually cause the arm to rise. If mental states with world-to-mind fit are [epiphenomenal](/concepts/epiphenomenalism/)—causally inert accompaniments of neural activity—then their directedness toward changing the world is an illusion. They "aim" at nothing because they do nothing.
+For this to work, the intentional state must be causally efficacious. The intention must actually cause the arm to rise. World-to-mind fit alone does not demand this: an inert desire for rain is still satisfied if it rains. Intentions do demand it, because Searle builds causation into their conditions of satisfaction. If intentions are [epiphenomenal](/concepts/epiphenomenalism/)—causally inert accompaniments of neural activity—then none is ever satisfied, even when the arm rises.
 
-The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet takes world-to-mind fit at face value. When consciousness holds a representation of a desired state and acts to bring it about, the phenomenal content guides physical outcomes. The [aesthetic creation](/topics/aesthetics-and-consciousness/) case makes this vivid: the painter holds a phenomenal template (world-to-mind fit) and reshapes canvas to match, with continuous phenomenal feedback (mind-to-world fit) guiding each stroke.
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet takes intention's causal self-reference at face value. When consciousness holds a representation of a desired state and acts to bring it about, the phenomenal content guides physical outcomes. The [aesthetic creation](/topics/aesthetics-and-consciousness/) case makes this vivid: the painter holds a phenomenal template (world-to-mind fit) and reshapes canvas to match, with continuous phenomenal feedback (mind-to-world fit) guiding each stroke.
 
-The [placebo effect](/topics/empirical-phenomena-mental-causation/) provides suggestive empirical evidence. When a patient believes a treatment will reduce pain, the belief's content—what it is *about*—correlates with which physiological cascades activate. A physicalist can attribute this [content-specificity](/concepts/content-specificity-of-mental-causation/) to neural patterns rather than irreducible mental content. But the direction-of-fit framing sharpens the puzzle: the belief's representational content (mind-to-world) appears to initiate world-to-mind causal chains in the body, and whether neural implementation fully accounts for this content-dependence remains contested.
+The [placebo effect](/topics/empirical-phenomena-mental-causation/) provides suggestive empirical evidence. When a patient believes a treatment will reduce pain, the belief's content—what it is *about*—correlates with which physiological cascades activate. A physicalist can attribute this [content-specificity](/concepts/content-specificity-of-mental-causation/) to neural patterns rather than irreducible mental content. But the direction-of-fit framing sharpens the puzzle: the belief's representational content (mind-to-world fit) appears to initiate mind-to-world causal chains in the body, and whether neural implementation fully accounts for this content-dependence remains contested.
 
 ## Direction of Fit and Agent Causation
 
@@ -108,7 +108,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 
 ## Relation to Site Perspective
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction):** World-to-mind direction of fit is, at its core, a description of consciousness acting on the world. Desires, intentions, and plans all specify states of affairs that reality should conform to. If these states are genuinely efficacious—if the world actually changes in response to their content—then consciousness causally influences physical outcomes. Direction of fit makes the bidirectional picture concrete: perception flows world-to-mind, and intention flows mind-to-world.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction):** World-to-mind direction of fit marks states the world must come to match; in intention, which must itself cause that match, it describes consciousness acting on the world. Desires, intentions, and plans all specify states of affairs that reality should conform to. If these states are genuinely efficacious—if the world actually changes in response to their content—then consciousness causally influences physical outcomes. Searle's pairing of fit with causation makes the bidirectional picture concrete: causation runs world-to-mind in perception and mind-to-world in intention.
 
 **[Dualism](/tenets/#dualism):** The normative dimension of direction of fit resists physical reduction. Neural states do not bear "should" relations to the world; intentional states do. This normative gap parallels the [explanatory gap](/concepts/explanatory-gap/): just as no physical description entails phenomenal experience, no physical description entails that a state *ought* to match reality.
 
@@ -120,7 +120,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [agent-causation](/concepts/agent-causation/) — How agents exercise world-to-mind causal power
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Direction of fit in artistic creation, where the reversal from appreciation to creation makes causation explicit
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem direction of fit helps frame
-- [placebo effect](/topics/empirical-phenomena-mental-causation/) — Empirical evidence that belief content drives physiological outcomes
+- [placebo effect](/topics/empirical-phenomena-mental-causation/) — Suggestive evidence that belief content shapes physiological outcomes
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thought that may ground direction of fit
 - [subjective-aim](/concepts/subjective-aim/) — Whitehead's process-metaphysics account of directedness toward "satisfaction," the world-to-mind fit of an occasion steering its own becoming

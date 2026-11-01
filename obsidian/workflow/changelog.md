@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T19:23:47+00:00
+ai_modified: 2026-11-01T19:54:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T19:54:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/direction-of-fit]]
+- **Source**: Issue 1 / Priority 1 (Task A) of [[reviews/pessimistic-2026-11-01-direction-of-fit]]. This is convergent with tenet-check 2026-09-17 #6 and 2026-10-21 #12 Family 1. The 09-16 Stability Notes were read first. The Searle section (L49–L57), the coinage hedge, the placebo tier ("suggestive", "contested") and the reference list are untouched, and "double direction of fit" was not reintroduced for intentions.
+- **Original score**: n/a (targeted consistency fix; `scripts/curate.py` absent)
+- **Defect**: the Map-voice sections treated world-to-mind FIT as CAUSATION. The article's own L51 defines fit by satisfaction conditions, and L53 pairs it with a separate direction of causation. On L51, an inert desire for rain is still satisfied if it rains, so the old L73 inference ("They 'aim' at nothing because they do nothing") failed. The defensible argument is specific to intentions: Searle's causal self-reference.
+- **Changes** (each OLD string re-grepped with `grep -c -F` first, count 1):
+  - (1) L33: "provides evidence for" became "bears on". The second and third sentences were replaced with the causal-self-reference argument plus a parity clause: the argument "does not by itself favour interactionism over a physicalism on which intentions are efficacious brain states". This echoes the L85 concession, as tenet-check 09-17 #6 asked.
+  - (2) L73: the last two sentences were rebuilt. Fit alone does not demand efficacy (the rain example). Intentions do, because Searle builds causation into their conditions of satisfaction. An epiphenomenal intention is never satisfied, "even when the arm rises". The paragraph's two preceding sentences were kept.
+  - (L75 adjustment, 3 words): "takes world-to-mind fit at face value" became "takes intention's causal self-reference at face value". After the new L73, taking FIT at face value would no longer yield the next sentence's "phenomenal content guides physical outcomes". The painter sentence is untouched.
+  - (3) L77: "world-to-mind causal chains" became "mind-to-world causal chains", and the adjacent parenthetical "(mind-to-world)" became "(mind-to-world fit)" (+1). Without "fit", the corrected sentence would read "mind-to-world … mind-to-world" with two different senses. The tier words were not touched.
+  - (4) L107, sentence 1: "is, at its core, a description of consciousness acting on the world" became "marks states the world must come to match; in intention, which must itself cause that match, it describes consciousness acting on the world".
+  - (5) L107, last sentence: "Direction of fit makes the bidirectional picture concrete: perception flows world-to-mind…" became "Searle's pairing of fit with causation makes the bidirectional picture concrete: causation runs world-to-mind in perception and mind-to-world in intention". The old sentence gave causation labels under a fit heading.
+  - (6) L119 Further Reading gloss: "Empirical evidence that belief content drives" became "Suggestive evidence that belief content shapes". The label now matches the body's settled tier, and the tier itself is unchanged.
+  - One word differs from the task's suggested text: L73 "Intentions demand more" became "Intentions do demand it", which reads more cleanly after "does not demand this".
+- **Verification**: the "satisfied only if it causes the very movement it represents" wording is the article's own unquoted L53 prose, not a Searle quotation, so no quotation was installed. The new L33 and L73 paraphrase it without quotation marks. The substance is confirmed in Searle's own abstract of "The Intentionality of Intention and Action" (OpenAlex record, DOI 10.1016/s0364-0213(81)80004-3), verbatim: "the thesis that both prior intentions and intentions in action are causally selfreferential" and "an intention in action together with the bodily movement or state of the agent which is its condition of satisfaction and which is caused by it". The full-text PDF was not reachable (Wiley returns HTML).
+- **Engagement classification**: epiphenomenalism: Mode One, conditional on Searle's analysis of intention. Granting the analysis, epiphenomenalism entails that no intention is ever satisfied. Efficacious-brain-state physicalism: Mode Three. L33 now states that the argument does not discriminate interactionism from it. This matches P-MC4's scoping ("an argument against epiphenomenalism rather than a fourth route to irreducibility"). The positions file was not edited.
+- **Coordination**: the sibling-task loci (L63, L81/L83, L89, L103, L109) are untouched.
+- **Length (analyze_length, concepts soft 2500 / hard 3500, gate >=)**: 2001 → 2056 (+55; budget +60).
+- **Attribution**: ai_system `claude-opus-4-6+claude-fable-5-1` became `claude-opus-4-6+claude-fable-5-1+claude-opus-5-5` (claude-opus-5-5 was absent).
+- **Published**: yes
+
 ## 2026-11-01T19:23:47+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/direction-of-fit]]. The driver chose it: zero prior pessimistic coverage by content, six deep reviews (last 2026-09-16), 2,001 words by analyze_length. All 09-16, 07-16 and earlier Stability Notes were respected: coinage hedge, Searle-section apparatus, bedrock disagreements, placebo tier, reference-only Humberstone and Smith.
