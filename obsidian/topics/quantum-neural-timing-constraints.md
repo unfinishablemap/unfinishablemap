@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-10-26T21:21:43+00:00
+ai_modified: 2026-11-01T13:14:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-24
 last_curated: null
 last_deep_review: 2026-07-25T18:02:31+00:00
@@ -110,7 +110,7 @@ This defines the withholding window, at least for cued stops: onset could be can
 3. Rapid attention holds desired patterns stable
 4. The *rate* of observation corresponds to felt mental effort
 
-This mechanism doesn't require sustained coherence across the full neural decision window (200–500ms). It requires only that observation events occur faster than the relevant decoherence timescale for each observation. If decoherence occurs at microseconds and attention cycles at milliseconds, consciousness would need approximately 1000 observation cycles per decision event. The [[consciousness-bandwidth-architecture|bandwidth architecture]] supplies the format-translation account these timing constraints discipline: the question-and-answer mechanism lets consciousness encode attentional targets rather than physical specifications.
+This mechanism doesn't require sustained coherence across the full neural decision window (200–500ms). It requires only that observation events occur faster than the relevant decoherence timescale for each observation. If decoherence occurs at microseconds and attention cycles at milliseconds, consciousness would need approximately 1000 observation cycles per decision event. That figure follows from the timescales, not from Stapp: the model he describes uses 10 milliseconds between probing actions, about 100 per second (Stapp 2007, p. 127). The [[consciousness-bandwidth-architecture|bandwidth architecture]] supplies the format-translation account these timing constraints discipline: the question-and-answer mechanism lets consciousness encode attentional targets rather than physical specifications.
 
 ### The Key Insight
 
@@ -182,7 +182,7 @@ The timing compatibility question generates testable predictions. An important c
 
 1. **Mesoscopic coherence**: Perry's 1–10ms network coherence is theoretical. If experiments reliably fail to detect coherence beyond ~100μs in neural tissue, mechanisms requiring millisecond coherence (including Orch OR) are ruled out.
 
-2. **Observation rate signatures**: If Stapp's mechanism requires ~1 kHz observation cycles, neural signatures at this frequency should correlate with willed attention and motor decisions. The 40 Hz gamma band is too slow; look for higher frequencies. This tests Stapp's quantum Zeno model specifically.
+2. **Observation rate signatures**: If the Zeno mechanism requires ~1 kHz observation cycles, or the ~100 Hz probing of the model Stapp describes, neural signatures at that frequency should correlate with willed attention and motor decisions. The 40 Hz gamma band is too slow for either; look for higher frequencies. This tests Stapp's quantum Zeno model specifically.
 
 3. **Timing precision of conscious influence**: The withholding window closes about 200 ms before onset, but Schultze-Kraft's subjects could still alter movements inside it, so late influence of the shaping kind is already documented. The open question is withholding: if experiments showed onset reliably cancelled by stop signals arriving later than 200 ms before EMG, the stop-signal reaction time would have been beaten and the mechanism would need to act faster than it.
 
@@ -215,6 +215,7 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 1. Sahu, S., Ghosh, S., Fujita, D., & Bandyopadhyay, A. (2014). Live visualizations of single isolated tubulin protein self-assembly via tunneling current: effect of electromagnetic pumping during spontaneous growth of microtubule. *Scientific Reports*, 4, 7303.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.
 1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904–E2913.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Stapp, H.P. (2008). A model of the quantum-classical and mind-brain connections. *arXiv:0803.1633*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401–1416.

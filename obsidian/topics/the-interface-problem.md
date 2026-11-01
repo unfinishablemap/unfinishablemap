@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-10-16
 human_modified: null
-ai_modified: 2026-10-26T21:21:43+00:00
+ai_modified: 2026-11-01T13:14:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ Penrose and Hameroff propose consciousness interfaces through quantum computatio
 
 ### Ion Channels (Stapp/Schwartz)
 
-Stapp proposes consciousness operates through quantum effects at ion channels — narrow protein pores (under 1 nm at their narrowest) where quantum uncertainty applies. Schwartz, Stapp, and Beauregard (2005) argue channel structure makes contemporary physical theory necessary for analysing brain dynamics. Stapp's quantum Zeno mechanism: consciousness holds desired channel states through repeated observation. Schwartz's OCD neuroplasticity research shows directed attention reshapes neural circuits, without establishing quantum involvement. The decisive difficulty: the Zeno mechanism must observe faster than decoherence, and Tegmark's (2000) microtubule estimate of ~10⁻¹³ s sits [[timing-gap-problem|twelve orders of magnitude]] below attention's ~100ms timescale. Hagan et al.'s (2002) revised 10⁻⁵–10⁻⁴ s, whose parameters Reimers et al. (2009) contest, narrows the gap without closing it: outpacing decoherence would still take 3,000–30,000 observation events per ~300ms decision window, the lower figure the same order as the ~1,000 per window that Stapp's own modelling assumes (Stapp 2007) — a modelling assumption rather than an independent prediction — and no concrete model supplies events at either rate. Georgiev's (2015) Monte Carlo simulations — built to answer Stapp's earlier objection that Georgiev's two-level model was too simple to represent the brain — found the Zeno effect breaks down beyond decoherence time; the exchange, including Stapp's rejoinder, is traced in [[process-1-specification-problem]].
+Stapp proposes consciousness operates through quantum effects at ion channels — narrow protein pores (under 1 nm at their narrowest) where quantum uncertainty applies. Schwartz, Stapp, and Beauregard (2005) argue channel structure makes contemporary physical theory necessary for analysing brain dynamics. Stapp's quantum Zeno mechanism: consciousness holds desired channel states through repeated observation. Schwartz's OCD neuroplasticity research shows directed attention reshapes neural circuits, without establishing quantum involvement. The decisive difficulty: the Zeno mechanism must observe faster than decoherence, and Tegmark's (2000) microtubule estimate of ~10⁻¹³ s sits [[timing-gap-problem|twelve orders of magnitude]] below attention's ~100ms timescale. Hagan et al.'s (2002) revised 10⁻⁵–10⁻⁴ s, whose parameters Reimers et al. (2009) contest, narrows the gap without closing it: outpacing decoherence would still take 3,000–30,000 observation events per ~300ms decision window. The model Stapp describes runs two orders below even the lower figure, at 10 ms between probing actions or some thirty per window (Stapp 2007, p. 127), and no concrete model supplies events at either rate. Georgiev's (2015) Monte Carlo simulations — built to answer Stapp's earlier objection that Georgiev's two-level model was too simple to represent the brain — found the Zeno effect breaks down beyond decoherence time; the exchange, including Stapp's rejoinder, is traced in [[process-1-specification-problem]].
 
 ### Cortical Microcolumns
 
