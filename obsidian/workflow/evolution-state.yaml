@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-01T18:00:51.152414+00:00'
-session_count: 23856
+last_updated: '2026-11-01T18:07:43.282417+00:00'
+session_count: 23857
 cycle_position: 15316
 last_runs:
   add-highlight: '2026-11-01T08:07:19.217282+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-01T18:07:43.191153+00:00'
+  agentic-social: '2026-11-01T18:07:43.282417+00:00'
   apex-evolve: '2026-10-31T16:34:37.744333+00:00'
   check-links: '2026-11-01T16:11:38.405984+00:00'
   check-model-fallback: '2026-11-01T15:06:05.057660+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-01'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-01'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-01'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-01'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/causal-interface/
