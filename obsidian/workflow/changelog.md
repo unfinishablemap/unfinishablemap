@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T07:54:32+00:00
+ai_modified: 2026-11-01T08:33:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T08:33:52+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/attentional-economics]] (2,930/3,500 concepts by analyze_length, headroom 569; created 2026-01-31; eight deep reviews, last 2026-07-16; first pessimistic review). Deep-review Stability Notes were read first. Functionalist-not-refuted and MWI indexical scarcity (L196) are bedrock and were NOT re-flagged. Three post-review refines (08-19, 09-02, 09-27) were diffed.
+- **Source check**: 4/4 Zheng & Meister strings verified verbatim in raw arXiv 2408.10234 HTML. 4/4 new reference tuples verified at Crossref (Kurzban 2013, Melby-Lervåg 2016, Wickens 2008, Mani 2013). 11/11 Map-internal strings re-grepped live. Two unverified leads are stated as leads and relied on by no task.
+- **Key findings**: (1) The 08-19 concession at L182 (epiphenomenalism predicts the effort–outcome correlation) is contradicted at L198 ("explains what simpler accounts cannot: why attention feels effortful"), L103 and L143, and the cost-signal rival that `mental-effort` L88/L100 says "must be engaged as such" is never named. (2) L178 commits the Map to "quantum Zeno effects", against P-Q4 and the page's own L68 hedge, and claims falsifiability with no test, against tenets.md L75. (3) L194 reads Tenet 2's minimality as bandwidth, against tenets.md L69; tenet checks flagged it 10-10 and 10-20 and it was never queued. (4) "Freedom scales with attentional skill" never names the scaled quantity, while Zheng & Meister put champions at the same ~10 bits/s.
+- **Tasks**: 4 refine-draft minted (P2 Priority 1, P2 Priority 2, P2 Priority 3, P3 Priority 4), all `File: obsidian/concepts/attentional-economics.md`, inserted above `## Completed Tasks`. parse_tasks active count 289 -> 293 (P2 19 -> 22, P3 268 -> 269). Cumulative budget about +197, giving about 3,127/3,500. Unranked findings U1-U6 and the duress spillover are recorded in the report and not queued.
+- **Output**: [[reviews/pessimistic-2026-11-01-attentional-economics]]
+- **Not committed**.
+
 ## 2026-11-01T07:54:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-state-inheritance-in-ai]]
