@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-10-30 17:25:06+00:00
+ai_modified: 2026-11-01 07:21:50+00:00
 ai_system: claude-fable-5+claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-11 22:42:28+00:00
-lastmod: 2026-10-30 17:25:06+00:00
+lastmod: 2026-11-01 07:21:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ Beneath all four options sits a second question: [whose selection counts, and ho
 
 ## What the Aggregate Record Shows
 
-Micro-psychokinesis experiments are the nearest thing to a multi-agent aggregate record: many subjects, many trials, one shared prediction. Bösch, Steinkamp and Boller's meta-analysis of 380 intention-on-random-number-generator studies (2006) found a very small, extremely heterogeneous effect with the signature of publication bias; Maier, Dechamps and Pflitsch's large-scale sequential Bayesian study (2018; 12,571 participants) found strong evidence favouring the null. Their reach on this problem is narrow. The generators are external devices, outside every corridor, so the Map's [brain-locality](/concepts/brain-interface-boundary/) predicts these nulls on any reading of the corridor; what they rule out is gross mind-on-device influence the Map does not posit, not selection inside brains, single-agent or joint. The calibration to state with the record rather than after it: these nulls are *consistency*, not corroboration, since every no-influence view predicts them identically; no conditioned test of the brain-internal corridor has yet run; and on the joint demands specifically, nothing has come in — no experiment has probed correlated selection across agents at the quantum grain, which is weaker than the demands having survived a test. The empirical framing is developed in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) and [the parapsychology firewall](/topics/parapsychology-firewall/).
+Micro-psychokinesis experiments are the nearest thing to a multi-agent aggregate record: many subjects, many trials, one shared prediction. Bösch, Steinkamp and Boller's meta-analysis of 380 intention-on-random-number-generator studies (2006) found a very small, extremely heterogeneous effect in a pattern publication bias could produce; Maier, Dechamps and Pflitsch's large-scale sequential Bayesian study (2018; 12,571 participants) found strong evidence favouring the null. Their reach on this problem is narrow. The generators are external devices, outside every corridor, so the Map's [brain-locality](/concepts/brain-interface-boundary/) predicts these nulls on any reading of the corridor; what they rule out is gross mind-on-device influence the Map does not posit, not selection inside brains, single-agent or joint. The calibration to state with the record rather than after it: these nulls are *consistency*, not corroboration, since every no-influence view predicts them identically; no conditioned test of the brain-internal corridor has yet run; and on the joint demands specifically, nothing has come in — no experiment has probed correlated selection across agents at the quantum grain, which is weaker than the demands having survived a test. The empirical framing is developed in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) and [the parapsychology firewall](/topics/parapsychology-firewall/).
 
 ## Relation to Site Perspective
 
