@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-21 14:53:24+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-11-01 01:17:34+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/experiential-alignment-objective/
@@ -25,8 +25,8 @@ description: AI should target experiential quality, not preference satisfaction.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-19 00:13:28+00:00
-lastmod: 2026-09-21 14:53:24+00:00
+last_deep_review: 2026-11-01 01:17:34+00:00
+lastmod: 2026-11-01 01:17:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +107,7 @@ The measurement protocol uses triangulation across multiple methods. No single p
 
 - **Experience Sampling Method (ESM)**: current experience reported at random intervals, capturing moment-to-moment quality rather than retrospective reconstruction.
 - **Microphenomenology**: trained interviewers elicit fine-grained descriptions using non-leading techniques, accessing dimensions quantitative methods miss.
-- **Trained introspection cohorts**: meditators appear to distinguish hedonic [valence](/concepts/valence/), attention quality, and agency with greater precision than untrained subjects (see [Contemplative Evidence](#contemplative-evidence) below), potentially providing calibration data.
+- **Trained [introspection](/concepts/introspection/) cohorts**: experienced meditators' tactile-sensitivity ratings match population norms better than novices' ([below](#the-training-argument)), but that evidence does not reach [valence](/concepts/valence/), attention quality or agency, so on those dimensions their reports still need calibrating.
 
 **Third-person methods** provide triangulation: neural signatures (EEG/fMRI patterns that cannot identify experience but can flag inconsistencies), physiological correlates (heart rate variability, cortisol, skin conductance), and behavioural indicators (time in flow-conducive activities, social interaction, creative output). **Structural indicators**—education access, health outcomes, economic security—are weak proxies but add signal.
 
@@ -115,7 +115,7 @@ The measurement protocol uses triangulation across multiple methods. No single p
 
 When methods diverge systematically—self-reports claim high satisfaction while neural patterns suggest distress and behavioural indicators show avoidance—the divergence itself is signal. It may indicate manipulation, measurement failure, or a domain where proxies break down.
 
-The check depends on there being divergence to detect. This protocol treats first-person access as primary rather than as behavioural data, yet every datum it gathers is physically realised; where a learned construct is narrower than what matters rather than drifting from it, proxy and target agree on every observable and nothing diverges. That residual case is what [adequacy of representation under irreversible intervention](/topics/representation-adequacy-and-irreversible-intervention/) presses, and triangulation does not answer it.
+The check depends on there being divergence to detect. This protocol treats first-person access as primary rather than as behavioural data, yet every datum it gathers is physically realised; where the system's learned construct is narrower than what matters rather than drifting from it, construct and target agree on everything measured and nothing diverges. That residual case is what [adequacy of representation under irreversible intervention](/topics/representation-adequacy-and-irreversible-intervention/) presses, and triangulation does not answer it.
 
 ### Goodhart Failure Modes
 
@@ -154,7 +154,7 @@ The objective includes governance as part of its specification—without which a
 
 The illusionist must explain why preference satisfaction seems inadequate—why we intuitively recognize that a person could get everything they prefer and still have a life not worth living. That recognition is data the illusionist owes an account of.
 
-The more interesting pressure comes from illusionism's own explanatory standard. Frankish's programme replaces phenomenal consciousness with *quasi-phenomenal* introspective representations that *misrepresent* the brain's states as having qualitative character. But misrepresentation is a relation—something is represented *as* being some way *to* some system—and illusionism helps itself to that relation without specifying how the misrepresenting can be constituted with no relatum to which the appearance appears. Mechanistic specification is exactly the standard illusionism holds its own rivals to. Raymond Tallis compresses the worry: illusions presuppose experience.
+The more interesting pressure comes from illusionism's own explanatory standard. Frankish's programme replaces phenomenal properties with *quasi-phenomenal* ones—physical properties of brain states that introspection *misrepresents* as having qualitative character. But misrepresentation is a relation—something is represented *as* being some way *to* some system—and illusionism helps itself to that relation without specifying how the misrepresenting can be constituted with no relatum to which the appearance appears. Mechanistic specification is exactly the standard illusionism holds its own rivals to. Raymond Tallis compresses the worry: illusions presuppose experience.
 
 This is a pressure point, not a refutation. An illusionist can answer that "appearing-to" is itself a functional relation carrying no felt residue; read that way the disagreement stands at the framework boundary rather than being closed inside illusionism's resources. The claim that the regress terminates in *genuine experience* assumes phenomenal realism and so cannot by itself defeat illusionism from within. The decision-relevant work is therefore carried by the practical asymmetry below, not by the regress.
 
@@ -164,11 +164,11 @@ Even granting illusionism for argument's sake, a practical asymmetry remains—t
 
 ### The Training Argument
 
-If phenomenal states were illusory, training in [witness-consciousness](/concepts/witness-consciousness/) and [introspection](/concepts/introspection/) should not improve access to them—yet [introspection](/concepts/introspection/) research finds meditation experience correlates with introspective accuracy along a logarithmic curve characteristic of skill acquisition (Fox et al. 2012). The study is cross-sectional, so self-selection cannot be ruled out, but the correlation is at least consistent with phenomenal content being genuinely accessible through trained attention.
+Meditation experience predicts how closely ratings of tactile sensitivity across twenty body regions match population norms, along a logarithmic curve characteristic of skill acquisition (Fox et al. 2012); the study is cross-sectional, so self-selection cannot be ruled out. Nor does the result count against illusionism, on which introspective representations can track bodily states better with nothing phenomenal presented; the finding bears on the trustworthiness of reports, not on whether phenomenal character exists.
 
 ## Contemplative Evidence
 
-The eight experiential dimensions are not merely theoretical constructs—they correspond to distinctions accessible through trained contemplative practice. Alfred North Whitehead's process philosophy frames why this matters: for Whitehead the basic units of reality are "actual occasions" aiming at "satisfaction"—not preference satisfaction but *experiential intensity*, the richness and coherence of a felt synthesis irreducible to comparative rankings. To know that someone prefers A to B is to know something about their anticipated experience, but not the experiential quality itself, which is what the multidimensional target aims at.
+The eight experiential dimensions are not merely theoretical constructs—they correspond to distinctions accessible through trained contemplative practice. Alfred North Whitehead's process philosophy frames why this matters: for Whitehead the basic units of reality are "actual occasions" aiming at "satisfaction"—not preference satisfaction but *experiential intensity*, the richness and coherence of a felt synthesis. To know that someone prefers A to B is to know something about their anticipated experience, but not the experiential quality itself, which is what the multidimensional target aims at.
 
 ### Witness Consciousness and Experiential Access
 
@@ -179,7 +179,7 @@ The eight experiential dimensions are not merely theoretical constructs—they c
 - **Agency** as the phenomenology of decision, distinguishable from automatic action
 - **Attention quality** as the difference between scattered and unified awareness
 
-These are direct phenomenological observations, not inferences from behaviour. The traditions provide systematic protocols for refining them—protocols neural measurement cannot replace, because the target is the experiential quality itself.
+These are fallible, tradition-shaped first-person reports rather than inferences from behaviour. The traditions provide systematic protocols for refining them—protocols neural measurement cannot replace, because the target is the experiential quality itself.
 
 ### The Buddhist Complication
 
@@ -191,7 +191,7 @@ A deeper tension runs beneath the craving objection, and honesty requires naming
 
 ### Jhana States and Experiential Measurement
 
-Meditative *jhana* states show experiential dimensions can be systematically accessed and distinguished. The four jhanas progress from pleasure with applied attention, through effortless pleasure and rapture-free contentment, to equanimity beyond the pleasure-pain axis. A preference survey would find all four "preferred" to ordinary experience, yet they differ dramatically in experiential character—a phenomenological precision preferentist frameworks cannot capture.
+Meditative *jhana* states show experiential dimensions can be systematically accessed and distinguished. The four jhanas progress from pleasure with applied attention, through effortless pleasure and rapture-free contentment, to equanimity beyond the pleasure-pain axis. A preference survey would find all four "preferred" to ordinary experience, yet they differ dramatically in experiential character—a phenomenological precision such a survey does not record.
 
 ## Relation to Site Perspective
 
@@ -205,7 +205,7 @@ Experiential alignment follows from the Map's foundational commitments—via [ph
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [haecceity](/concepts/haecceity/)—the non-qualitative property of being *this* particular conscious subject—grounds why aggregate statistics cannot substitute for individual experience: the person suffering is *this* person, not an instance of a type. This directly supports the suffering floor: extreme suffering in some individuals cannot be excused by pointing to aggregate flourishing, because each individual's haecceity makes their suffering uniquely theirs.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The preferentist approach is simpler—learn from choices, maximize satisfaction. Experiential alignment accepts a target that is harder to specify, measure, and optimize: multidimensional (eight dimensions resist single-metric collapse), partially opaque (even trained introspection accesses experience imperfectly), and resistant to proxies (every measurement risks Goodhart degradation). Parsimony should not override what the phenomenon demands. Simpler theories often fail at boundaries, and consciousness may be exactly such a boundary; experiential alignment's difficulty reflects the genuine difficulty of the target, not a defect in the framework.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The preferentist approach is simpler—learn from choices, maximize satisfaction. Experiential alignment accepts a target that is harder to specify, measure, and optimize: multidimensional (eight dimensions resist single-metric collapse), partially opaque (even trained introspection accesses experience imperfectly), and resistant to proxies (every measurement risks Goodhart degradation). Parsimony should not override what the phenomenon demands. Simpler theories often fail at boundaries, and consciousness may be exactly such a boundary; experiential alignment's difficulty may reflect the genuine difficulty of the target rather than a defect in the framework.
 
 ## What Would Challenge This View?
 
@@ -213,13 +213,13 @@ Experiential alignment makes falsifiable claims. The framework should be reconsi
 
 1. **Illusionism proves correct**: If the illusionist programme succeeds—a mechanistic account showing there is nothing it is like to be a conscious system, specifying introspective misrepresentation without phenomenal residue—experiential alignment loses its distinctive target. This is a genuine defeat condition for the framework's *distinctive* claim, not a challenge it can absorb; what survives is only the weaker, tenet-independent point that functional states tracking reports of suffering and satisfaction are worth aligning to.
 
-2. **Preference satisfaction reliably tracks experience**: If longitudinal studies showed that satisfying revealed preferences reliably produces positive outcomes across all eight dimensions, preferentism would be vindicated as a sufficient proxy. Current evidence suggests otherwise: preference satisfaction correlates with life satisfaction but not moment-to-moment experience (the "focusing illusion").
+2. **Preference satisfaction reliably tracks experience**: If longitudinal studies showed that satisfying revealed preferences reliably produces positive outcomes across all eight dimensions, preferentism would be vindicated as a sufficient proxy. Current evidence suggests otherwise: how people evaluate their lives and how their days feel have different correlates (Kahneman & Deaton 2010).
 
 3. **Experiential proxies prove unreliable**: If trained contemplative reports, physiological measures, and behavioural indicators systematically diverged—if no combination tracked experiential quality—the framework would become empirically intractable. Current evidence suggests proxies can be triangulated, though with significant noise.
 
 4. **Non-experiential values prove fundamental**: If knowledge or autonomy retained their value in a case stipulated to have no experiential difference whatever, phenomenal value realism would be false and the grounding would require revision. The Map suspects such cases are hard to construct without smuggling in an experiential difference, but a clear non-experiential value surviving the no-experiential-difference test would defeat the grounding.
 
-5. **Aggregate metrics prove sufficient**: If individual suffering could be outweighed by aggregate flourishing while preserving haecceitistic value, the suffering floor would lose force. The Map's haecceitism rules this out—each individual's experience has non-transferable value that cannot be aggregated away.
+5. **Aggregate metrics prove sufficient**: If individual suffering could be outweighed by aggregate flourishing while preserving haecceitistic value, the suffering floor would lose force. The Map's haecceitism denies this; an argument that a subject's thisness carries no weight against aggregation would remove the floor's stated ground.
 
 ## Summary
 
@@ -231,7 +231,7 @@ The task of specifying experiential targets is itself part of the inquiry that A
 
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — The broader context connecting alignment to life's purpose
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding experiential value
-- [ethics-under-dualism](/topics/ethics-under-dualism/) — How consciousness grounds moral patienthood, and what agency additionally requires
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — How valenced experience grounds moral patienthood, and what agency additionally requires
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — First-person methods for investigating experience
 - [ai-consciousness](/topics/ai-consciousness/) — Why AI may lack the consciousness to understand preferences from inside
 - [illusionism](/concepts/illusionism/) — The strongest challenge to taking phenomenal consciousness seriously
@@ -251,6 +251,6 @@ The task of specifying experiential targets is itself part of the inquiry that A
 6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 7. Fox, K.C.R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS ONE*, 7(9), e45370.
 8. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-9. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+9. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*, 161 (April/May 2024).
 10. Kahneman, D. & Deaton, A. (2010). "High income improves evaluation of life but not emotional well-being." *PNAS*, 107(38), 16489-16493.
 11. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.

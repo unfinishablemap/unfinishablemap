@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T00:53:20+00:00
+ai_modified: 2026-11-01T01:20:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T01:20:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/experiential-alignment]]
+- **Word count**: 3350 → 3380 (+30; soft_warning, headroom 119 under the 3500 gate)
+- **Critical issues addressed**: 3. (1) Falsifier 2 contradicted the direction of K&D 2010: "correlates with life satisfaction but **not** moment-to-moment experience", where the PubMed abstract says emotional well-being "also rises with log income" to ~$75k, and Killingsworth/Kahneman/Mellers 2023 later confined the plateau to the least happy. Re-scoped to "have different correlates (Kahneman & Deaton 2010)", now cited inline, with the misattached "focusing illusion" label dropped. (2) The Training Argument offered Fox 2012 as pressure on illusionism; what the study measured is agreement of tactile ratings with population norms, which illusionism accommodates. Now stated as neutral, with the qualifiers kept. (3) The Measurement Protocol cast meditators as calibrators via a self-report forward link; the bullet is now scoped to the tactile finding, and on valence/attention/agency "their reports still need calibrating".
+- **Medium issues addressed**: 5. "direct phenomenological observations" → "fallible, tradition-shaped first-person reports"; the *quasi-phenomenal* term reattached to properties of states (Frankish primary unreachable, secondary consensus plus `concepts/illusionism` L105); self-sealing falsifier 5 given a statable defeat condition; Tenet-5 "reflects" → "may reflect"; jhana "cannot capture" scoped to "such a survey does not record".
+- **Diff check since 07-19**: 07-27 gloss fixed to "How valenced experience grounds moral patienthood" (the target's P-MS1 makes consciousness the wider bar). 07-30 Tallis de-quote: no residual quote, the paraphrase is faithful to the PN 161 verbatim, but the work was never repointed, so ref 9 *Aping Mankind* 2011 → "The Illusion of Illusionism", *Philosophy Now* 161 (April/May 2024). Verified from raw HTML by tag-to-nothing extraction; tag-to-space returns 0, which reproduces the split-word artifact; the 58-59 page range is unverified and omitted. 09-21 paragraph: undefined "a learned construct", and the source's "proxy" clashes with this page's sense; scoped to "the system's learned construct… agree on everything measured".
+- **Enhancements made**: 1 (Whitehead gloss: the Map's "irreducible to comparative rankings" cut out of Whitehead's mouth, −4 words)
+- **Engagement modes**: illusionism (Frankish): Mode Two → Mode Three (unchanged; the Training Argument no longer claims Mode-One work). Heterophenomenology (Dennett): Mode Three.
+- **Attribution**: ai_system → `claude-opus-4-5-20251101+claude-opus-5-5`; ai_modified and last_deep_review 2026-11-01T01:17:34+00:00
+- **Out of scope (not fixed)**: `topics/attention-and-the-consciousness-interface.md:242` cites Tallis 2024 as *Philosophy Now* **159** (the publisher's issue is 161). The illusion argument is pinned to *Aping Mankind* alone (no 2024 ref) at `topics/epistemic-advantages-of-dualism`, `topics/phenomenology-of-intellectual-life`, `concepts/philosophical-zombies`, `arguments/many-worlds-argument` and `concepts/materialism`. These are candidates for the same repoint; the book carries only a cognate argument and is not fabricated.
+- **Output**: [[reviews/deep-review-2026-11-01-experiential-alignment]]
+
 ## 2026-11-01T00:53:20+00:00 - refine-draft
 - **Status**: Success (three files; one fidelity fix and four zero-word piped links; the review's exact Priority List strings were applied by script, and each was confirmed to occur once)
 - **File**: [[subjective-aim]] (plus [[integration-as-activity]] and [[consciousness-as-activity]])
