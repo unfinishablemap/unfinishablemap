@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 A new void: boredom demands a change of engagement without naming a target, and makes a failed engagement look like a dull object. A computational model predicts the objectless signal too, so nothing here requires dualism. The void is a felt verdict that hides its grounds.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2116804209345523713  
 **Link**: [boredom-void](/voids/boredom-void/)
 
 ---

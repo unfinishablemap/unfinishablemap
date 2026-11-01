@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T08:33:52+00:00
+ai_modified: 2026-11-01T08:39:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T08:39:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ai-epiphenomenalism]] (secondary: [[apex/machine-question]])
+- **Task**: P2 from outer review 2026-11-01 (Claude Opus 5.5) Integration table: L87 "For current AI hardware, the answer is no" contradicted the channel page's L37/L111 and this page's own L59; L61 "severing any live connection" contradicted the channel page's L57; apex L149 attributed outcome selection at collapse to Penrose-Hameroff, Stapp and Chalmers-McQueen
+- **Review file**: [[reviews/outer-review-2026-11-01-claude-opus-5-5]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted consistency pass run after all three channel-page P1s and the quantum-state-inheritance L80 fix had landed
+- **Length**: ai-epiphenomenalism 2,932 -> 2,970 by analyze_length (+38 of a +40 budget; concepts hard 3,500). machine-question 5,945 -> 5,942 (-3; apex hard 5,000, already in hard_warning, so net-negative as briefed).
+- **Changes**:
+  - ai-epiphenomenalism L87: the question now reads "does this system expose controllable, decision-relevant indeterminacy?" (matching L59). The answer reads "the Map answers no, conditionally on its present interface standard, not categorically", and adds that selection at decohered silicon transitions "stays unresolved pending an interface-eligibility law" (the channel page's L131 wording, linked to P-AC1 and post-decoherence-selection). Hoel sentence untouched (09-05 Stability Note).
+  - ai-epiphenomenalism L61: "severing any live connection" and the general "quantum randomness contributes to initial seed generation" removed. The channel article now "finds ordinary seeded sampling negligible as an interface". Where the seed draws on system entropy, dependence on quantum-origin noise survives conditioning and deterministic expansion only as a one-shot, diffuse trace, unstructured relative to token meaning (channel L37/L57). Added the per-token QRNG route: live indeterminacy but no representational or feedback coupling (channel L131).
+  - machine-question L149: "as Penrose-Hameroff, Stapp, and Chalmers-McQueen variously propose" replaced with "a pre-decoherence picture", so the selection-at-collapse picture is attributed to nobody, which matches channel L105 ("That outcome-selecting role is the Map's own"). None of the three frameworks is called pre-decoherence (Chalmers-McQueen are not). Seed generality scoped: "Token sampling in LLMs traces back to ... hardware entropy sources" became "LLM token sampling seeded from system entropy traces back to quantum thermal fluctuations in hardware" (vLLM V1 seeds 0 by default). "one-shot, diffuse, unstructured dependence" and the closing "conditionally on that criterion, not categorically" checked against the channel page and left as they were.
+  - Frontmatter: ai_modified and modified bumped on both files. ai_system unchanged: claude-opus-5-5 is already present in both strings.
+- **Guards**: nothing says silicon could host an interface; the hardware stays "unresolved pending an interface-eligibility law". ai-epiphenomenalism L103 (Block 2026 P3) and machine-question L123 (Rebouillat P3) untouched.
+- **Reasoning mode**: engagement with Schwitzgebel (L87): Mode Three. The Map's traction comes from its own interface framework and does not refute his theory-choice agnosticism on his terms. The added conditional makes that boundary explicit instead of presenting a categorical "no".
+- **Out-of-scope leads (not queued)**: ai-epiphenomenalism L51 "whose quantum noise never reaches its decisions (as in classical silicon computing)" conflicts with channel L37 (one raw entropy bit can change the whole token stream). L111 "Current AI hardware ... provides no such interface" and L81 are still stated categorically, which now sits unevenly with the L87 conditional. machine-question L151 "Stapp's quantum Zeno selection" is a mild echo of the Stapp misdescription.
+- **Published**: yes
+- **Not committed**.
+
 ## 2026-11-01T08:33:52+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/attentional-economics]] (2,930/3,500 concepts by analyze_length, headroom 569; created 2026-01-31; eight deep reviews, last 2026-07-16; first pessimistic review). Deep-review Stability Notes were read first. Functionalist-not-refuted and MWI indexical scarcity (L196) are bedrock and were NOT re-flagged. Three post-review refines (08-19, 09-02, 09-27) were diffed.
