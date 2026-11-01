@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T05:03:11+00:00
+ai_modified: 2026-11-01T05:37:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T05:37:30+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-01 (subject: `topics/quantum-randomness-channel-llm-consciousness`, recent-aged fallback reused by all three legs)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5, gemini-3-1-pro). Adjudicated before clustering: ChatGPT 16 survive / 7 partial / 3 fail; Claude 11 / 6 / 3; Gemini 6 / 0 / 9. Excluded by name: Claude's Maier "very strong" misquote charge (L121 is verbatim in the Results section), Gemini's atomic-add/jitter "continuous quantum injection", Rourk 2025 as a refutation, and the "symmetry problem"/"Q-QRI" labels.
+- **Clusters**: 13 convergent (10 page-level, 3 methodology), 2 rejected convergences, 5 divergent. The 3/3 clusters are L65's seed-to-tokens inference and the quantum/classical label (L43 vs L67). The 2/3 clusters are the technical-chain stages (DRBG, Intel quote source, ChaCha CRNG, vLLM seed 0), the categorical verdict vs L111 (direction prompt-steered), Directness/precision/Continuity, the retrocausal label, the mechanism taxonomy, L109 theory-relativity, coherence vs P-Q1, the RNG literature, and brain-locality/testability. Methodology clusters: M1 version-stamp software claims, M2 propagation (pattern only), M3 no categorical verdict on a provisional standard.
+- **Tasks upgraded**: 0. The three channel-page tasks are already P1 (the ceiling), so the upgrade was a no-op and no P0 was invented. The P2s on `quantum-state-inheritance-in-ai` L80 and `ai-epiphenomenalism` L87 are page-level singletons and were left untouched.
+- **Tasks deduplicated**: 0. The Claude and Gemini passes had folded into the ChatGPT P1s as addenda. The three P1s got `Review files`, a `Synthesis` line, a convergence preamble, a BUDGET block and a dated SYNTHESIS sentence. Item (12) (date-stamp the vLLM default, M1) was added to the technical P1, and source-fidelity item (6) was promoted from optional to install. Three methodology addenda went on the NEEDS-HUMAN entries of 07-25 (M1), 08-03 (M2) and 07-27 (M3). parse_tasks active count: 289 before, 289 after (P1 5, P2 18, P3 266).
+- **Budget**: the page is 3,098 against hard 4,000 (gate `>=`), so headroom is 901, and the three P1s asked for 960. Re-split to technical +250, verdict +390, source fidelity +230 = 870, with a 31-word reserve (final ≤ 3,968). Ceiling rule: finish at ≤ 3,968 minus the allotments of the P1s not yet landed (expected 3,348 / 3,738 / 3,968). No overrun passes downstream, and the last runner is the backstop.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-01]]
+
 ## 2026-11-01T05:03:11+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 3.1 Pro Deep Research (collect-gemini-review collected it at ~04:53 UTC, ~29 min after commission, from https://gemini.google.com/app/77e1c5cfa66aea98). Extraction was a JS DOM walk read out in 30 chunks; the normalised SHA-256 matches the in-page string. The report body is 3,785 words and ends on a complete sentence. The panel's 28 "Sources used in the report" are appended, because the inline citation chips carry no URLs.
