@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 11:49:40+00:00
+ai_modified: 2026-11-01 12:21:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 11:49:40+00:00
+lastmod: 2026-11-01 12:21:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T12:21:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [attentional-economics](/concepts/attentional-economics/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted re-registration, review fix 3 of [pessimistic-2026-11-01-attentional-economics](/reviews/pessimistic-2026-11-01-attentional-economics/) (Issue 3: L194 reads Tenet 2's minimality as channel narrowness)
+- **Word count** (analyze_length): 3030 → 3056 (+26; budget +30, ceiling 3060). Concepts hard 3,500, gate `>=`. Sibling lines (L198, L103, L143, L117, L131, L178, L68, L192, L50), the L42/L48/L66 hedge (08-19 install-once) and L202 (P3 sibling) untouched.
+- **Source gate**: passed. `tenets/tenets.md` L69 ("Tenet 2's minimality is *empirical-constraint* minimality, fixed by the Rules-out clause … no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation") and `concepts/control-theoretic-will` L134 ("signal size measures something other than this tenet's minimality … a wider channel with the same exactness would be just as minimal") grep-verified live and unchanged; prescribed text installed without adaptation.
+- **Changes**: RtSP Minimal Quantum Interaction (L194): "The bandwidth constraint (~10 bits/second) reflects the minimality … it selects among results through a narrow channel" → the ~10 bits/s figure is a bandwidth fact rather than the tenet's minimality, which the empirical record fixes; a wider channel with the same exactness would be as minimal; "selects … through a narrow channel" → "biases which results become actual" (matches the 11:23Z L50 "determines→biases"). Bold tenet-link lead-in unchanged.
+- **Scope**: this page only; the corpus family in tenet-check-2026-10-20 Note 4 is left for its batched job.
+- **ai_system**: held (re-registration, no new argument; `claude-opus-5-5` already present).
+- **Published**: yes
 
 ## 2026-11-01T11:49:40+00:00 - deep-review
 - **Status**: Success

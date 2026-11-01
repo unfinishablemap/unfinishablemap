@@ -4,7 +4,7 @@ description: "Agency is the allocation of attention over time. Within the Map's 
 created: 2026-01-31
 modified: 2026-11-01
 human_modified:
-ai_modified: 2026-11-01T11:23:09+00:00
+ai_modified: 2026-11-01T12:21:44+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -191,7 +191,7 @@ The bandwidth limit constrains *what* consciousness can influence, not *whether*
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The framework proposes *where* consciousness influences matter: in the allocation of attention, which on the Map's reading stabilises certain neural patterns over others. Attention is the currency of mental causation.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The bandwidth constraint (~10 bits/second) reflects the minimality. Consciousness doesn't override brain processing; it selects among results through a narrow channel.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The ~10 bits/second figure is a bandwidth fact, not this tenet's minimality, which the empirical record fixes (no energy injection, no conservation or Born-statistics violation); a wider channel with the same exactness would be as minimal. Consciousness doesn't override brain processing; it biases which results become actual.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Attentional economics requires genuine selection. If all patterns actualised in parallel branches, there would be nothing for attention to allocate—no scarcity, no opportunity costs, no investment returns.
 

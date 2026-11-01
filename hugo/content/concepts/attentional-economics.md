@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-11-01 11:23:09+00:00
+ai_modified: 2026-11-01 12:21:44+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 18:08:59+00:00
-lastmod: 2026-11-01 11:23:09+00:00
+lastmod: 2026-11-01 12:21:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -194,7 +194,7 @@ The bandwidth limit constrains *what* consciousness can influence, not *whether*
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The framework proposes *where* consciousness influences matter: in the allocation of attention, which on the Map's reading stabilises certain neural patterns over others. Attention is the currency of mental causation.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The bandwidth constraint (~10 bits/second) reflects the minimality. Consciousness doesn't override brain processing; it selects among results through a narrow channel.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The ~10 bits/second figure is a bandwidth fact, not this tenet's minimality, which the empirical record fixes (no energy injection, no conservation or Born-statistics violation); a wider channel with the same exactness would be as minimal. Consciousness doesn't override brain processing; it biases which results become actual.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Attentional economics requires genuine selection. If all patterns actualised in parallel branches, there would be nothing for attention to allocate—no scarcity, no opportunity costs, no investment returns.
 
