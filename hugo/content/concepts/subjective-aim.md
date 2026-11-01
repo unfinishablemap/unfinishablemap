@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-10-22 15:56:31+00:00
+ai_modified: 2026-11-01 00:52:38+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 22:25:00+00:00
-lastmod: 2026-10-22 15:56:31+00:00
+lastmod: 2026-11-01 00:52:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ Each actual occasion in Whitehead's ontology undergoes "concrescence"—a proces
 
 Whitehead distinguished the *initial* subjective aim from the *modified* subjective aim. The initial aim derives from what Whitehead called the *primordial nature* of God—a technical term for the ordering of abstract possibilities, not an omnipotent creator standing outside the process. As the occasion develops, it modifies this initial aim through its own creative process, introducing genuine novelty. The final aim—what the occasion actually becomes—reflects both inherited constraint and creative self-determination.
 
-Subjective aim is not conscious deliberation. Most actual occasions (electrons, molecules, simple organisms) have subjective aim in only the most attenuated sense—a minimal directedness toward their own satisfaction. Human consciousness represents the extreme case: highly complex occasions with rich subjective aims involving reflection, imagination, and deliberate choice.
+Subjective aim is not conscious deliberation. Most actual occasions (those composing electrons, molecules, simple organisms) have subjective aim in only the most attenuated sense—a minimal directedness toward their own satisfaction. Human consciousness represents the extreme case: highly complex occasions with rich subjective aims involving reflection, imagination, and deliberate choice.
 
 ## Subjective Aim and Value
 
@@ -92,7 +92,7 @@ Subjective aim faces objections both from within and outside process philosophy.
 
 Subjective aim intersects with the Map's tenets in illuminating but also tensional ways.
 
-**[Dualism](/tenets/#dualism)**: The Map holds that consciousness is distinct from physical processes. Whitehead denies this distinction—subjective aim is present in all actuality, not just in conscious beings. The Map can use subjective aim as a model for how directed selection works without endorsing Whitehead's panpsychist conclusion. Human consciousness may be the only locus where subjective aim rises to genuine awareness and deliberate selection, while the metaphysical structure Whitehead identifies (self-directed becoming) illuminates what selection involves.
+**[Dualism](/tenets/#dualism)**: The Map holds that consciousness is distinct from physical processes. Whitehead denies this distinction—subjective aim is present in all actuality, not just in conscious beings. The Map can use subjective aim as a model for how directed selection works without [endorsing Whitehead's panpsychist conclusion](/topics/the-steelman-for-process-monism/). Human consciousness may be the only locus where subjective aim rises to genuine awareness and deliberate selection, while the metaphysical structure Whitehead identifies (self-directed becoming) illuminates what selection involves.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Subjective aim provides a process-philosophical *description* of what the Map proposes physically: consciousness guiding outcomes where physics leaves them undetermined. Concrescence is structurally analogous to quantum collapse; subjective aim is structurally analogous to the selective role of consciousness. The concepts operate at different levels of description—metaphysical and physical—and the analogy is suggestive rather than demonstrative. But it shows that the Map's proposal is not metaphysically arbitrary: process philosophy arrived at a similar structure through independent reasoning.
 

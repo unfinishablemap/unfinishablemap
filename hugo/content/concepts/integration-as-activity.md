@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-10-02 14:14:37+00:00
+ai_modified: 2026-11-01 00:52:38+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 14:14:37+00:00
-lastmod: 2026-10-02 14:14:37+00:00
+lastmod: 2026-11-01 00:52:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ The activity framing is not the Map's invention. Four well-developed frameworks,
 
 ### Recurrent Processing
 
-Victor Lamme's recurrent processing theory (Lamme 2006) identifies consciousness with recurrent neural processing—signals that loop back from higher cortical areas to lower ones. Feed-forward processing, however integrated, is unconscious; consciousness begins when recurrence creates loops. This is integration as *process*: recurrence is something the brain does over time, not a static measure of its state. The temporal dimension is built in; there is no "phi at an instant" because recurrence cannot exist at an instant.
+Victor Lamme's [recurrent processing theory](/concepts/recurrent-processing-theory/) (Lamme 2006) identifies consciousness with recurrent neural processing—signals that loop back from higher cortical areas to lower ones. Feed-forward processing, however integrated, is unconscious; consciousness begins when recurrence creates loops. This is integration as *process*: recurrence is something the brain does over time, not a static measure of its state. The temporal dimension is built in; there is no "phi at an instant" because recurrence cannot exist at an instant.
 
 The Map registers the convergence with activity framing while noting RPT's limit: it identifies which neural states are conscious without explaining *why* any neural state is conscious at all. The [hard problem](/topics/hard-problem-of-consciousness/) persists. RPT shows that the activity framing is available in cognitive neuroscience; it does not by itself supply the Map's metaphysics.
 
@@ -110,7 +110,7 @@ Treating integration as activity is a framing, not an argument for [interactioni
 - A property dualist could hold that the activity is performed by a physical subject whose physical states have non-physical experiential aspects, without any non-physical causation. The activity is real; it just does not require an interactionist tenet.
 - An emergentist could hold that the activity is a high-level pattern that genuinely does causal work via downward causation, without being non-physical.
 - A neutral monist could hold that the activity is fundamental at a level that is neither mental nor physical, with both aspects derivative.
-- A Madhyamaka or process-philosophical no-subject reading could hold that the activity is a dependently-arisen pattern of aggregates without a substantial performing subject—the integrating happens, but neither a structure nor an agent is its ontological ground. The Map prefers the subject-performing reading on independent grounds (see [Activity Has a First-Personal Character](#what-activity-adds) and [Tenet 1](/tenets/#dualism)), but the no-subject option is a genuine third alternative that the identity-versus-activity framing should not silently exclude.
+- A Madhyamaka or [process-philosophical no-subject reading](/topics/the-steelman-for-process-monism/) could hold that the activity is a dependently-arisen pattern of aggregates without a substantial performing subject—the integrating happens, but neither a structure nor an agent is its ontological ground. The Map prefers the subject-performing reading on independent grounds (see [Activity Has a First-Personal Character](#what-activity-adds) and [Tenet 1](/tenets/#dualism)), but the no-subject option is a genuine third alternative that the identity-versus-activity framing should not silently exclude.
 
 The Map takes the activity discipline to be most naturally at home in an interactionist framework, where the subject performing the integration has causal powers not exhausted by the substrate's physical laws (see [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) and [type-token-causation](/concepts/type-token-causation/) for the operational mechanism). That naturalness is an argument from fit, not a proof. The discipline's main work is to deny the identity thesis, not to specify the positive metaphysics that replaces it.
 

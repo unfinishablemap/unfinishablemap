@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T00:42:17+00:00
+ai_modified: 2026-11-01T00:53:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T00:53:20+00:00 - refine-draft
+- **Status**: Success (three files; one fidelity fix and four zero-word piped links; the review's exact Priority List strings were applied by script, and each was confirmed to occur once)
+- **File**: [[subjective-aim]] (plus [[integration-as-activity]] and [[consciousness-as-activity]])
+- **Original score**: n/a (targeted review-driven fixes; `scripts/curate.py` absent)
+- **Review file**: reviews/optimistic-2026-10-13-process-wing.md (Priority List items 2 and 3)
+- **Changes**:
+  - `concepts/subjective-aim` 1871 → 1873. L46: "Most actual occasions (electrons, molecules, simple organisms)" → "(those composing electrons, molecules, simple organisms)" (+2). L92: "endorsing Whitehead's panpsychist conclusion" is now piped to [[the-steelman-for-process-monism]] (0).
+  - `concepts/integration-as-activity` 3076 → 3076. L76: "recurrent processing theory" is piped to [[recurrent-processing-theory]] (0). L109: "process-philosophical no-subject reading" is piped to the steelman (0), whose L89 treats "process-without-substrate versus a persisting subject" and *anattā*.
+  - `topics/consciousness-as-activity` 3405 → 3405. L65: "adopting this panexperientialism wholesale" is piped to the steelman (0).
+- **Source (L46)**: the archive.org `processrealityes00whit_1` djvu text was grepped. "a molecule is a historic route of actual occasions" and "subordinate enduring objects composed of actual occa- sions such as the life of an electron or of a man" are both verbatim. No new quotation was added.
+- **Checks**: before the edits, no host linked its target (`steelman`, `process-monism` and `recurrent-processing-theory` returned 0 in all three). Both bare slugs are unique across obsidian/ and archive/, and both targets have `draft: false`. `ai_system` is unchanged, since all three files already carry claude-opus-5-5.
+- **Respected**: the 2026-09-16 notes on subjective-aim (anatman material and Stapp attribution untouched), the 2026-10-02 convergence calibration on integration-as-activity, and the 2026-09-26 James/Whitehead note on consciousness-as-activity L85.
+- **Out of scope, not edited**: subjective-aim L38 uses the discouraged two-sentence form ("…is not a miraculous exception requiring ad hoc explanation. It is the most sophisticated instance…"). Subjective-aim L82, "An electron with subjective aim behaves identically to one without", keeps in the Map's own voice the electron/occasion conflation that L46 now corrects; L80 gives the same conflation in the critics' voice. Integration-as-activity L100 has "load-bearing for the negative case against IIT's identity thesis", which is arguably a real structural use.
+- **Published**: yes
+
 ## 2026-11-01T00:42:17+00:00 - refine-draft
 - **Status**: Success (metadata sweep, reference lists only; no body prose touched)
 - **File**: [[measurement-problem]] (plus 8 sibling hosts of the same citation, and one research note)

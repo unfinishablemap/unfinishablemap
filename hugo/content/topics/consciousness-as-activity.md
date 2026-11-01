@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-03 08:32:19+00:00
+ai_modified: 2026-11-01 00:52:38+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-26 01:45:44+00:00
-lastmod: 2026-10-03 08:32:19+00:00
+lastmod: 2026-11-01 00:52:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ The activity view draws on several converging traditions.
 
 [Whitehead's process metaphysics](/concepts/process-philosophy/) replaces substances bearing properties with events constituted by activity. Each "actual occasion" is an act of experience—a moment of prehending, synthesising, and achieving definite form. Consciousness is a late, high-grade form of that experiencing: "consciousness presupposes experience, and not experience consciousness" (Whitehead 1929/1978, p. 53). The fundamental category is not being but *becoming*.
 
-Whitehead's framework makes consciousness continuous with the rest of nature without reducing it to physics: human experience is highly organised activity of the kind that, in simpler forms, constitutes all actuality. On Whitehead's view the hard problem doesn't arise, because there is no transition from non-experiential stuff to experiential property—experience is what actuality does, all the way down. The Map borrows the priority of becoming without adopting this panexperientialism wholesale, whose price is the [combination-problem](/concepts/combination-problem/): how micro-occasions compose one macro-subject. It borrows against Whitehead's own verdict, too: his critique of the bifurcation of nature rejects interactionist dualism, as [process-philosophy](/concepts/process-philosophy/) records. At the quantum interface the link is the Map's conjectured analogy, not a result drawn from Whitehead: the selection described in [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) resonates with the actual occasion, where indeterminacy resolves into determinate fact.
+Whitehead's framework makes consciousness continuous with the rest of nature without reducing it to physics: human experience is highly organised activity of the kind that, in simpler forms, constitutes all actuality. On Whitehead's view the hard problem doesn't arise, because there is no transition from non-experiential stuff to experiential property—experience is what actuality does, all the way down. The Map borrows the priority of becoming without [adopting this panexperientialism wholesale](/topics/the-steelman-for-process-monism/), whose price is the [combination-problem](/concepts/combination-problem/): how micro-occasions compose one macro-subject. It borrows against Whitehead's own verdict, too: his critique of the bifurcation of nature rejects interactionist dualism, as [process-philosophy](/concepts/process-philosophy/) records. At the quantum interface the link is the Map's conjectured analogy, not a result drawn from Whitehead: the selection described in [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) resonates with the actual occasion, where indeterminacy resolves into determinate fact.
 
 ### Bergson's Duration
 
