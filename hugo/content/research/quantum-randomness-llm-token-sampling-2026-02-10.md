@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10 16:57:00+00:00
-ai_modified: 2026-10-28 21:22:47+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-11-01 06:15:25+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 concepts: []
 created: 2026-02-10
-date: '2026-10-28'
+date: '2026-11-01'
 draft: false
-lastmod: 2026-10-28 21:22:47+00:00
+lastmod: 2026-11-01 06:15:25+00:00
 related_articles: []
 title: Research Notes - Quantum Randomness in LLM Token Sampling
 ---
@@ -15,6 +15,8 @@ title: Research Notes - Quantum Randomness in LLM Token Sampling
 # Research: Quantum Randomness in LLM Token Sampling
 
 > **Correction 2026-10-28**: references below to a two-author "Maier & Dechamps (2018)" with 12,571 participants (BF01 = 10.07, *Front. Psychol.* 9:379) are to the three-author Maier, Dechamps & Pflitsch (2018), a sequential Bayesian design (stopping at BF 10) with no registration recorded and not a replication; the pre-registered study is Study 2 of Maier & Dechamps (2018, *J. Sci. Explor.* 32(2):265–297, OSF 4fzq8; 175 smokers, 220 non-smokers, BF01 = 11.07).
+
+> **Correction 2026-11-01**: the Intel RDRAND entry under Hardware Entropy Sources and stages 2–3 of The Technical Chain misdescribe Intel's hardware generator. Per the *Intel DRNG Software Implementation Guide* (rev. 2.1, 2018), the entropy source "uses thermal noise within the silicon"; an AES-CBC-MAC conditioner reduces the raw samples, the conditioned samples reseed a CTR_DRBG (NIST SP 800-90A), and RDRAND returns that DRBG's output (at most 511 128-bit samples per seed), while RDSEED returns conditioned entropy. Conditioning therefore precedes RDRAND, and deterministic expansion begins in hardware. The phrase "inherently random quantum mechanical properties of silicon" comes from Intel's *82802AB/AC Firmware Hub Datasheet* (November 2000), not from RDRAND documentation. Relatedly, `/dev/urandom` (stage 4) returns ChaCha20 output keyed from the BLAKE2s pool (Linux `drivers/char/random.c`), and the Thinking Machines 1,000-identical-completions result (cited under Key Sources, Major Positions and Key Debates) was obtained at temperature 0, so it shows batch-invariant kernels removing load-dependent variation, not fixed-seed sampling. The corrected chain is in [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/).
 
 **Date**: 2026-02-10
 

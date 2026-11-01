@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-01T05:38:35.932693+00:00'
-session_count: 23813
+last_updated: '2026-11-01T05:51:59.453663+00:00'
+session_count: 23814
 cycle_position: 15288
 last_runs:
   add-highlight: '2026-10-31T08:11:56.930658+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-01T01:21:42.890513+00:00'
   embed-videos: '2026-11-01T03:36:26.109165+00:00'
   expand-topic: '2026-10-31T18:00:20.484233+00:00'
-  harvest-research-subjects: '2026-10-31T23:21:13.213257+00:00'
+  harvest-research-subjects: '2026-11-01T05:51:59.453663+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-27T05:09:53.973438+00:00'
   optimistic-review: '2026-10-31T21:56:56.088718+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-01'
-  outcome: success
-  kind: agentic_social
 - task: coalesce
   type: coalesce
   date: '2026-11-01'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-01'
   outcome: success
   kind: combine
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-01'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/embodiment-cognitive-limits/

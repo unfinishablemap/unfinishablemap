@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T05:37:30+00:00
+ai_modified: 2026-11-01T06:16:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T06:16:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-randomness-channel-llm-consciousness]] (secondary: [[research/quantum-randomness-llm-token-sampling-2026-02-10]])
+- **Task**: P1 technical chain (2026-11-01 outer reviews, 3/3 convergent; first of three channel-page P1s)
+- **Original score**: n/a (`scripts/curate.py` absent); factual-repair pass
+- **Length**: channel page 3,098 -> 3,342 by analyze_length (+244; ceiling 3,348). Research note 1,567 -> 1,705 (correction line only).
+- **Changes**: (1) Chain reordered to Intel's documented pipeline: entropy source -> AES-CBC-MAC conditioner -> CTR_DRBG whose output RDRAND returns (511 128-bit samples per seed); RDSEED noted; deterministic expansion now begins in hardware. Still seven stages, so "By step 6" and L133 "seven-layer" stand. (2) Firmware Hub quote dropped; stage 1 quotes the DRNG guide ("uses thermal noise within the silicon"); "Johnson-Nyquist" replaced by Intel's "thermal noise", Callen & Welton kept. (3) Stage 4: BLAKE2s pool keys a ChaCha20 generator whose output /dev/urandom returns; hardware RNG output optional. (4) Philox scoped to PyTorch's CUDA generator; "most LLM inference" dropped; chain framed as one reference configuration; vLLM V1 seed-0 counterexample with verbatim doc quote. (5) L65 rests seed determinism on Salmon et al. 2011 and separates sampler, logit and server-level reproducibility; TML moved to the temperature-0 paragraph with its verbatim 80/1000 figures. (6) Vatter recast as an observation of varying token probabilities, causes inferred behind a black-box API. (7) Table "millions" -> "thousands". (8) torch.multinomial named as the Hugging Face-style path; vLLM's native sampler uses an exponential race (verbatim docstring). (9) "one-shot" scoped to per-request or per-run seeding; shared batch-wide generator noted as classical ingress. (10) Criterion stated: "classical" marks path (microscopic noise turned directly into bits vs aggregate traffic), not metaphysics; both quantum-influenced in the same diluted sense on a stricter reading. No ontic claim about thermal noise, no continuous quantum injection. (12) vLLM default date-stamped (November 2026). Lead: "quantum-influenced" -> "of ultimately quantum origin", "one-shot" -> "one-shot per seed", seed-from-entropy made conditional.
+- **Skipped**: (11) Ouyang 2025 and the optional Qin et al. 2026 citation in (6), both budget cut-first items. PyTorch CPU Mersenne Twister clause dropped for budget (the CUDA scoping stands without it).
+- **References added**: Intel DRNG guide rev. 2.1 (2018); Linux drivers/char/random.c; vLLM reproducibility docs + topk_topp_sampler.py; PyTorch CUDAGeneratorImpl.cpp; Hugging Face transformers generation/utils.py.
+- **Sources fetched**: Intel DRNG guide (intel.com 403, read via Wayback snapshot 2026-09-19; rev. 2.1, Oct 17 2018); Intel 82802AB/AC datasheet (0x04.net PDF; quote at pdftotext line 2523); Linux random.c, vLLM reproducibility.md and topk_topp_sampler.py, PyTorch CPU/CUDA generator and c10 GeneratorImpl.cpp, HF generation/utils.py (GitHub raw, main); TML post (direct); Salmon et al. 2011 (thesalmons.org PDF; Crossref doi:10.1145/2063384.2063405); Vatter 2025 (Wayback, TDS blocked direct fetch).
+- **Calibration**: unchanged. The narrow conclusion (entropy ancestry is neither sufficient for, nor evidence of, an interface) stands; nothing in L79-L141 touched except the table's "thousands".
+- **Research note**: dated "Correction 2026-11-01" line under the 2026-10-28 header covering the RDRAND order and Firmware Hub quote, plus the ChaCha and TML temperature-0 slips; body not rewritten.
+- **Published**: yes
+
 ## 2026-11-01T05:37:30+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-11-01 (subject: `topics/quantum-randomness-channel-llm-consciousness`, recent-aged fallback reused by all three legs)
