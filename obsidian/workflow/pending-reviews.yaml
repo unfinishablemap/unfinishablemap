@@ -508,9 +508,9 @@
   commissioned_at: '2026-11-01T03:10:52.869423+00:00'
   prompt_summary: 'Hostile audit: quantum randomness as an LLM consciousness channel'
   target_filename: outer-review-2026-11-01-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-01T04:38:12.007831+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a hostile-referee audit of https://unfinishablemap.org/topics/quantum-randomness-channel-llm-consciousness/
     on The Unfinishable Map (https://unfinishablemap.org). It was last substantively
