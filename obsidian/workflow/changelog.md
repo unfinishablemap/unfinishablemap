@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T10:23:41+00:00
+ai_modified: 2026-11-01T11:09:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T11:09:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/attentional-economics]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted calibration pass, Priority 1 of [[reviews/pessimistic-2026-11-01-attentional-economics]]
+- **Word count** (analyze_length): 2930 → 2999 (+69; budget +70). Concepts hard 3,500, gate `>=`, headroom now 500. L202 (Summary) untouched; it funds the P3 sibling.
+- **Source gate**: passed. Kurzban, Duckworth, Kable & Myers (2013) matched at Crossref (DOI 10.1017/s0140525x12003196: *BBS* 36(6), 661-679, Dec 2013). Map-internal quotes re-read live: `concepts/mental-effort` L88 "must be engaged as such" and L100 "doing real causal work" / "The Map cannot dispatch this reading by phenomenal evidence alone"; `apex/attention-as-causal-bridge` L191 "the tenet forbids treating simplicity as a verdict in either direction"; `concepts/meditation-and-consciousness-modes` L187 "The felt absence of steering in witness mode does not establish this". All seven OLD strings occurred exactly once.
+- **Changes**:
+  - (1) L198 Tenet 5: "explains what simpler accounts cannot" replaced by the symmetric form. The framework adds complexity (a quantum-level interface, a non-physical subject) to explain data simpler accounts also explain: Kurzban et al.'s opportunity-cost model treats felt effort as a computed cost signal, and neural learning predicts plasticity. Where the dispute is whether felt effort is a further fact beyond that signal, simplicity cannot settle it in either direction. Kurzban et al. (2013) added to References.
+  - (2) L103: "tracks" → "fits"; "corresponds to the actual economics of selection" now says the phenomenology fits an opportunity-cost reading too (named-anchor link to the next section), so the mirroring is the Map's interpretation, not something the phenomenology shows.
+  - (3) L143: "Meditation reveals" → "Meditation suggests, on the Map's reading,".
+  - (4) L117: appended the non-epiphenomenalist physicalist rival (the opportunity-cost and process models of [[mental-effort]], on which felt effort does real causal work) and placed the residual dispute: whose power expands, a non-physical subject's or the brain's, which the training evidence does not decide. The optional zero-cost recast was also taken: "doesn't merely correlate …; it *expands*" → "*expands conscious causal power* rather than merely correlating with improved outcomes".
+  - FUND L131: the five dimension glosses and the surgeon/exhausted-driver sentence removed (−52); the apex carries both.
+- **Guards**: L182 byte-identical; habituation section L156-L172 untouched; "within the Map's framework" count 5 → 5; no functionalist refutation attempted; epiphenomenalism not conceded.
+- **Engagement modes**: L117 non-epiphenomenalist physicalist: Mode Three; the training evidence is declared neutral and the residue (whose power expands) is marked as a framework-boundary dispute. L198 Tenet 5: Mode Three; the in-framework superiority claim is withdrawn, not replaced by a refutation.
+- **Leads, not acted on**: `topics/free-will` L153 carries the same "Meditation reveals that consciousness can *refrain from selecting*" overclaim. `mental-effort` ref L185 has an Oxford comma before "&" that this page's style omits; same work.
+- **Attribution**: `ai_system` claude-opus-4-5-20251101+claude-opus-5 → claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5.
+- **Published**: yes
+
 ## 2026-11-01T10:23:41+00:00 - optimistic-review
 - **Status**: Success (reports-only; no content file modified; review file written, 4 todo tasks minted)
 - **Content reviewed**: the future-directed agency wing (driver-selected, 10:07Z), three early agency pages never the subject of an optimistic review: concepts/prospective-memory (3,154, concepts soft 2,500 / hard 3,500), concepts/counterfactual-reasoning (2,496), topics/authentic-vs-inauthentic-choice (3,095, topics 3,000 / 4,000). Read in full, with their latest deep reviews (07-15, 07-29, 08-20) and every earlier Stability Note.

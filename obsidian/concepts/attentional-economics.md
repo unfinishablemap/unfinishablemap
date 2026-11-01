@@ -2,9 +2,9 @@
 title: "Attentional Economics"
 description: "Agency is the allocation of attention over time. Within the Map's framework, attention training is metaphysically agency-enhancing: freedom scales with skill."
 created: 2026-01-31
-modified: 2026-08-19
+modified: 2026-11-01
 human_modified:
-ai_modified: 2026-09-27T09:55:13+00:00
+ai_modified: 2026-11-01T11:08:21+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-31
 last_curated:
 last_deep_review: 2026-07-16T18:08:59+00:00
@@ -100,7 +100,7 @@ When you choose where to direct attention, you experience:
 
 **Investment temporality**: Sustained attention feels like ongoing commitment, not instantaneous selection. You continuously renew the allocation.
 
-This phenomenology tracks what the framework claims is happening: consciousness engaging with neural possibilities through sustained attentional focus. The felt economics of attention corresponds to the actual economics of selection.
+This phenomenology fits what the framework claims is happening: consciousness engaging with neural possibilities through sustained attentional focus. It fits an opportunity-cost reading as well ([[#attention-training-is-metaphysically-significant|explained below]]): that the felt economics of attention mirrors an economics of selection is the Map's interpretation, not something the phenomenology shows.
 
 ## Attention Training Is Metaphysically Significant
 
@@ -114,7 +114,7 @@ They are **metaphysically agency-enhancing**. They expand the scope of what cons
 
 Consider the contrast with a framework where consciousness is epiphenomenal. On that view, attention training might change brain states, but consciousness isn't doing the changing—it's just along for the ride. The training's value would be purely functional, not agential.
 
-The Map's framework inverts this. Training attention doesn't merely correlate with improved outcomes; it *expands conscious causal power*. The meditator doesn't just feel more in control—they *have more control* in the framework's own terms.
+The Map's framework inverts this. Training attention *expands conscious causal power* rather than merely correlating with improved outcomes. The meditator doesn't just feel more in control—they *have more control* in the framework's own terms. A non-epiphenomenalist physicalist grants the expansion too: on the opportunity-cost and process models the [[mental-effort]] page engages, felt effort does real causal work. What remains in dispute is whose power expands, a non-physical subject's or the brain's, and the training evidence does not decide that.
 
 ## Working Memory and Attentional Capital
 
@@ -128,7 +128,7 @@ Attentional economics interprets this as a capital constraint. Limited working m
 
 If agency scales with attentional skill, [[moral-responsibility|moral responsibility]] gains texture. The Map already grounds desert in [[agent-causation|agent causation]]—the agent as genuine source of action. Attentional economics adds that the *extent* of authorship varies with attentional capacity.
 
-The [[apex/moral-architecture-of-consciousness#The Responsibility Gradient|moral architecture apex's Responsibility Gradient]] is the catalogue's worked exhibit of attentional economics applied at the moral-responsibility tier. The apex specifies five dimensions along which attentional capacity varies—**bandwidth** (how many considerations can be held simultaneously), **stability** (whether moral reasoning can be sustained against distraction), **scope** (how broadly the attentional field surveys consequences), **flexibility** (the capacity to shift between perspectives), and **availability** (how much attentional resource remains after competing demands)—and uses this five-dimensional decomposition to produce a graded account of desert that unifies what legal systems already recognise piecemeal (diminished capacity, duress, mental impairment) under the single mechanism this article specifies: each operates by constraining the attentional channel through which consciousness exercises control. The apex's surgeon-after-36-hour-shift and exhausted-driver examples are the worked illustrations of the gradient under realistic conditions.
+The [[apex/moral-architecture-of-consciousness#The Responsibility Gradient|moral architecture apex's Responsibility Gradient]] is the catalogue's worked exhibit of attentional economics applied at the moral-responsibility tier. The apex specifies five dimensions along which attentional capacity varies—**bandwidth**, **stability**, **scope**, **flexibility** and **availability**—and uses this five-dimensional decomposition to produce a graded account of desert that unifies what legal systems already recognise piecemeal (diminished capacity, duress, mental impairment) under the single mechanism this article specifies: each operates by constraining the attentional channel through which consciousness exercises control.
 
 This doesn't excuse wrongdoing—"I couldn't sustain attention on the consequences" doesn't eliminate responsibility. But it suggests:
 
@@ -140,7 +140,7 @@ This doesn't excuse wrongdoing—"I couldn't sustain attention on the consequenc
 
 ## The Economics of Witness Mode
 
-Meditation reveals that consciousness can *refrain from selecting*—entering what the Map calls "witness mode." This complicates the economic framing in illuminating ways.
+Meditation suggests, on the Map's reading, that consciousness can *refrain from selecting*—entering what the Map calls "witness mode." This complicates the economic framing in illuminating ways.
 
 In ordinary attention, the scarce resource gets allocated among competing options. In witness mode, attention doesn't select among contents but holds the entire field equanimously. This isn't the same as divided attention (allocating bandwidth across multiple foci); it's a different mode entirely.
 
@@ -195,7 +195,7 @@ The bandwidth limit constrains *what* consciousness can influence, not *whether*
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Attentional economics requires genuine selection. If all patterns actualised in parallel branches, there would be nothing for attention to allocate—no scarcity, no opportunity costs, no investment returns.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The framework adds complexity (quantum mechanisms, bandwidth constraints, economic structure) but explains what simpler accounts cannot: why attention feels effortful, why training produces neuroplastic change, why sustained focus differs from brief notice.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The framework adds complexity (a quantum-level interface, a non-physical subject) to explain data that simpler accounts also explain: an opportunity-cost model treats felt effort as a computed cost signal (Kurzban et al. 2013), and neural learning predicts training-induced plasticity. Where the dispute is whether felt effort is a further fact beyond that signal, simplicity cannot settle it in either direction.
 
 ## Summary
 
@@ -224,3 +224,4 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 1. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+1. Kurzban, R., Duckworth, A., Kable, J.W. & Myers, J. (2013). An opportunity cost model of subjective effort and task performance. *Behavioral and Brain Sciences*, 36(6), 661-679.
