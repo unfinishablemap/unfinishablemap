@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T13:52:22+00:00
+ai_modified: 2026-11-01T14:38:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T14:38:42+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Observer-intention double-slit experiments and their replications (harvested from [[reviews/outer-review-2026-11-01-claude-opus-5-5]])
+- **Output**: [[research/observer-intention-double-slit-experiments-2026-11-01]]
+- **Sources consulted**: 27 (13 peer-reviewed articles, 2 peer-reviewed commentaries, 5 preprints, 1 blog, plus Crossref/OpenAlex/OSF/PMC metadata records; 4 leads unretrieved: Ibison & Jeffers full text, Radin et al. 2015 *Quantum Biosystems*, Pinto's Bial report, Jeffers 2003)
+- **Recommended action**: `fold` into [[topics/parapsychology-firewall]] (one ~270-word paragraph after L73, a 6-word L51 consistency edit, 7 references; about +455 on 2,658, topics hard 4,000). Fold mints nothing via the chain, so the refine-draft task must be minted by hand. Topics measured 368/370 by `count_section_files`.
+- **Calibration verdict**: every confirmatory or independently analysed leg is null: Tremblay 2019 as republished in 2021, the commissioned AMP study (Walleczek & von Stillfried 2019; Radin et al. 2021 concede the planned analysis was null), Guerrer's preregistered formal sessions (preprint) and Radin 2025 pooled. The remaining positives come from analyses adopted after planned tests failed. The design is intention-conditioned but external, so brain-locality predicts the nulls and they confirm nothing. A replicated directional effect would count against P-Q2 and brain-locality. Feedback-coupled designs are flagged as a possible scope gap for a P-Q3 audit; that is a Map-side inference and is kept off the firewall page.
+
 ## 2026-11-01T13:52:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-integrated-information]]
