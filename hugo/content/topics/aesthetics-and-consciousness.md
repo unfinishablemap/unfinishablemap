@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-10-05 18:05:55+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-01 15:41:34+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/aesthetic-dimension-of-consciousness/
@@ -52,7 +52,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-14 07:50:09+00:00
-lastmod: 2026-10-05 18:05:55+00:00
+lastmod: 2026-11-01 15:41:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ A sunset, a fugue, a mathematical proof, and a well-turned sentence can all be b
 
 The physicalist invokes structural similarity: perhaps beauty tracks information-theoretic complexity or some abstract mathematical ratio. Three considerations weigh against this, though none is decisive on its own. The structure-experience gap persists—grant that beautiful things share some structural property *S*, and the question remains why *S* produces the phenomenal experience of beauty rather than none at all. Structural proposals chronically underdetermine beauty—the golden ratio appears in unremarkable arrangements, maximal complexity is ugly, and the "sweet spot" theories fail for abstract mathematics and tragedy, though a sufficiently complex structural account might yet recover these cases. Multiple realisability cuts both ways—the supervenience base spans substrates that share no physical or functional property at a level that could ground supervenience, even though whether a suitably abstract functional level exists is exactly what the physicalist contests.
 
-Formal beauty—symmetry, proportion, harmonic ratios—is where reduction should be easiest. The major triad's 4:5:6 frequency ratio is precisely specifiable, cross-culturally stable, and mathematically describable. Yet the beauty *is* not the ratio. A spectrometer detects the ratio without finding it beautiful. Formal beauty's precision actually *worsens* the gap: the relevant structure is fully mapped (Helmholtz, 1863/1954; Plomp & Levelt, 1965), yet the gap remains. More structural detail specifies the gap more precisely rather than closing it.
+Formal beauty—symmetry, proportion, harmonic ratios—is where reduction should be easiest. The major triad's 4:5:6 frequency ratio is precisely specifiable, cross-culturally stable, and mathematically describable. Yet the beauty *is* not the ratio. A spectrometer detects the ratio without finding it beautiful. Formal beauty's precision actually *worsens* the gap: the relevant structure is fully mapped (Helmholtz, 1863/1954; Plomp & Levelt, 1965), yet the gap remains. More structural detail specifies the gap more precisely rather than closing it. Sibley's (1959) observation that aesthetic concepts are "not condition-governed" (outside a few marginal cases he concedes, no description in non-aesthetic terms logically guarantees that "graceful" or "delicate" applies) is a weaker, concept-level cousin of this gap rather than support for it. Sibley himself grants that simple colour words are not condition-governed either, and the differences he then draws are epistemic rather than metaphysical; Zangwill (2023) holds that such anomalousness coexists with aesthetic properties supervening on non-aesthetic ones. The gap pressed here concerns why the mapped ratio is *experienced as* beautiful at all, a question the logic of aesthetic vocabulary leaves untouched, and only that question bears on dualism.
 
 Cross-modal aesthetic judgments point the same way without settling anything against a determined opponent. A listener who says a Rothko and a Feldman composition share "expansive stillness" identifies a phenomenal commonality in their own response, not in physically unrelated objects; the consistency within individuals and partial consistency across populations suggests a phenomenal property not reducible to any single modality. A physicalist reads the same consistency as a shared abstract feature of the neural response rather than of phenomenal character, and the data alone is compatible with both.
 
@@ -206,4 +206,6 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 1. Revonsuo, A. (2006). *Inner Presence: Consciousness as a Biological Phenomenon*. MIT Press.
 1. Scarry, E. (1999). *On Beauty and Being Just*. Princeton University Press.
 1. Schopenhauer, A. (1818/1969). *The World as Will and Representation*. Dover.
+1. Sibley, F. (1959). "Aesthetic Concepts." *The Philosophical Review*, 68(4), 421–450. DOI: 10.2307/2182490
+1. Zangwill, N. (2023). "Aesthetic Judgment." *Stanford Encyclopedia of Philosophy* (first published 2003; substantive revision 16 February 2023). https://plato.stanford.edu/entries/aesthetic-judgment/
 1. Zeki, S. (1999). *Inner Vision: An Exploration of Art and the Brain*. Oxford University Press.

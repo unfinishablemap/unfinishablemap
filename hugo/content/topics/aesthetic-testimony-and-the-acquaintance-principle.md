@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-31 21:03:05+00:00
+ai_modified: 2026-11-01 15:41:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-31 21:03:05+00:00
-lastmod: 2026-10-31 21:03:05+00:00
+lastmod: 2026-11-01 15:41:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ Whether the resistance reflects a deep fact about first-personal knowledge, or m
 
 In *Art and Its Objects* (2nd ed., 1980), Wollheim formulated the principle that has anchored the field — "a well-entrenched principle in aesthetics", as he calls it, "which insists that judgments of aesthetic value, unlike judgments of moral knowledge, must be based on first-hand experience of their objects and are not, except within very narrow limits, transmissible from one person to another" (1980: 233).
 
-Two features of the formulation matter, and the first is easy to over-read. Wollheim's contrast is with *moral* knowledge specifically. He claimed that aesthetic value is unlike the moral case, where deference is comparatively unproblematic; he did not, in this sentence, set aesthetic value apart from every domain in which testimony works. The broader thesis of **aesthetic exceptionalism** — that aesthetic value is the odd one out among domains generally — is a generalisation of Wollheim's narrower contrast, and it is the subsequent debate rather than Wollheim's sentence that has to carry it. That matters here, because the Map's reading below needs the exception to be about first-personhood; if it were really about the peculiarities of moral epistemology, the sentence would license far less than it appears to. Second, the originator already built in exceptions — "within very narrow limits" — so even the strongest statement of the principle is hedged, not absolute.
+Two features of the formulation matter, and the first is easy to over-read. Wollheim's contrast is with *moral* knowledge specifically. He claimed that aesthetic value is unlike the moral case, where deference is comparatively unproblematic; he did not, in this sentence, set aesthetic value apart from every domain in which testimony works. The broader thesis of **aesthetic exceptionalism** — that aesthetic value is the odd one out among domains generally — is a generalisation of Wollheim's narrower contrast, and it is the subsequent debate rather than Wollheim's sentence that has to carry it. That matters here, because the Map's reading below needs the exception to be about first-personhood; if it were really about the peculiarities of moral epistemology, the sentence would license far less than it appears to. Second, Wollheim already built in exceptions — "within very narrow limits" — so even the strongest statement of the principle is hedged, not absolute.
 
 The principle sharpens into a puzzle when placed beside ordinary testimony. You can come to *know* that Sydney is south of Brisbane, that a compound is toxic, or that a colleague was late, entirely on someone's report. Aesthetic value looks different. Being told "the late Beethoven quartets are profound" by a reliable, sincere, competent listener seems not to put you in a position to *judge* them profound — not, at least, in the way that hearing them yourself would. The puzzle is why aesthetic value should be the exception — not merely relative to moral judgement, but relative to testimony at large. Whether that wider exceptionalism is genuine is the debate's central fault line, and it is not a fault line the field currently splits evenly across: Riggle (2025), writing in the principle's defence, reports a near consensus that the principle as traditionally stated fails. The Map's reading below has to survive that, not sidestep it.
 

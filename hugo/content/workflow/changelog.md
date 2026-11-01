@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 15:30:39+00:00
+ai_modified: 2026-11-01 15:42:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 15:30:39+00:00
+lastmod: 2026-11-01 15:42:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T15:42:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) (secondary: [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/))
+- **Original score**: n/a (targeted fold-in; `scripts/curate.py` absent)
+- **Source note**: [aesthetic-concepts-and-the-non-condition-governed-gap-2026-10-15](/research/aesthetic-concepts-and-the-non-condition-governed-gap-2026-10-15/) (verdict FOLD-IN).
+- **Changes (hub)**: (a) Appended three sentences to the end of the 4:5:6 triad paragraph (located by "The major triad's 4:5:6 frequency ratio"). They separate Sibley's concept-level non-condition-governedness from the hub's structure-experience gap so that Sibley cannot later be cited as support for it. Old paragraph end: "More structural detail specifies the gap more precisely rather than closing it." New: + "Sibley's (1959) observation that aesthetic concepts are "not condition-governed" (outside a few marginal cases he concedes, no description in non-aesthetic terms logically guarantees that "graceful" or "delicate" applies) is a weaker, concept-level cousin of this gap rather than support for it. Sibley himself grants that simple colour words are not condition-governed either, and the differences he then draws are epistemic rather than metaphysical; Zangwill (2023) holds that such anomalousness coexists with aesthetic properties supervening on non-aesthetic ones. The gap pressed here concerns why the mapped ratio is *experienced as* beautiful at all, a question the logic of aesthetic vocabulary leaves untouched, and only that question bears on dualism." (b) References: added Sibley 1959 and Zangwill 2023 (SEP), alphabetised.
+- **Deviations from the note's sentences (source-driven)**: (1) Added "outside a few marginal cases he concedes". Sibley p. 577 reads "barring certain limited exceptions, see below [p. 582]", and his n.6 (p. 582) admits "some rare genuine exceptions" ("ugly"/"hideous" for faces) and says he "preferred to over- rather than understate my view". "marginal" is his word. (2) "Sibley extended the same point to colour words" became "Sibley himself grants that simple colour words are not condition-governed either". The raw text offers the colour comparison as "One very natural way to counter this question" and then draws "great dissimilarities", which were missing from the note's sentence; the clause "the differences he then draws are epistemic rather than metaphysical" records them (normal perceivers may fail to discern; judgments are supported by disputation). (3) "Zangwill notes" became "Zangwill (2023) holds": the SEP text argues for the combination ("there seem to be good reasons to embrace both principles"); it does not report it as an observation. (4) NOT installed: the note's claim that the triad "is in fact one of Sibley's own conceded borderline cases". Sibley never discusses the triad, and his n.6 borderline is "bright colors" to "gay" / "reds and yellows" to "warm". The analogy is the note's inference. Also, n.6 is on reprint p. 582, not "p. 584 n.6" as the note says.
+- **Sources verified (raw)**: Sibley 1959 metadata at Crossref (title, author, *Phil. Rev.* 68(4), first page 421, Oct 1959, JSTOR). Crossref gives no end page; it is bounded by the next article in the issue, MacIntyre "Hume on 'Is' and 'Ought'" at p. 451 (10.2307/2182491). Text read at the archive.org djvu.txt of the 1969 Tillman reprint: "not condition-governed" 2 hits ("aesthetic concepts are not condition-governed even in this way", p. 577; "some other sorts of concepts also are not condition-governed", p. 585); "We do not apply simple color words by following rules" 1 hit (p. 585). "graceful" (22) and "delicate" (29) are Sibley's own examples inside his article span. Zangwill, "Aesthetic Judgment", SEP, "First published Fri Feb 28, 2003; substantive revision Thu Feb 16, 2023", by Nick Zangwill. It reads "Frank Sibley observed that aesthetic concepts are not positively "condition-governed" (Sibley 1959)" followed by "This kind of anomalousness is one thing, dependence or supervenience another. Even though aesthetic properties are anomalous, they depend and supervene on nonaesthetic properties" (1 hit each). The only quotation installed is "not condition-governed", which is verbatim at source; "graceful" and "delicate" are word-mentions.
+- **Secondary**: the driver's pre-check said "no 'originator' left on that page" and that the 10-31 deep review had fixed it. Both were FALSE. `grep -iF originator` found L49 "Second, the originator already built in exceptions" live in both obsidian/ and hugo/. The 10-31 deep review fixed the L47 Wollheim *quotation*, not this noun. Its stability note ("Realism acknowledges a well-entrenched principle … which may be called the Acquaintance principle") makes "originator" wrong on the page's own evidence. Changed to "Second, Wollheim already built in exceptions" (−1 word). ai_system already contains claude-opus-5-5, so it was not appended.
+- **Length**: analyze_length hub 3403 → 3542 (+139; topics hard 4000, headroom 457). Acquaintance page 3674 → 3673.
+- **Engagement classification**: n/a. Sibley and Zangwill are engaged as a putative ally being declined, not as opponents. The fold marks the framework boundary honestly: a physicalist can accept Sibley.
+- **Attribution**: hub ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-5-5.
+- **Published**: yes
 
 ## 2026-11-01T15:30:39+00:00 - refine-draft
 - **Status**: Success
