@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-10-29 05:22:14+00:00
+ai_modified: 2026-11-01 00:41:15+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:33:15+00:00
-lastmod: 2026-10-29 05:22:14+00:00
+lastmod: 2026-11-01 00:41:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -260,7 +260,7 @@ The Map's position is strong emergentism that specifies its mechanism: conscious
 1. Stapp, H.P. (2000). The importance of quantum decoherence in brain processes. arXiv:quant-ph/0010029.
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 1. Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine*.
+1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: a review of recent trends. *Philosophical Magazine*, 1-38. arXiv:2502.19278. https://doi.org/10.1080/14786435.2025.2601922
 1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. https://doi.org/10.1073/pnas.0809353105
 1. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.

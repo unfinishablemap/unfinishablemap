@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-10-15 22:35:02+00:00
+ai_modified: 2026-11-01 00:41:15+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-04 14:15:47+00:00
-lastmod: 2026-10-15 22:35:02+00:00
+lastmod: 2026-11-01 00:41:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -220,7 +220,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 13. Kiefer, C., & Joos, E. (1998). Decoherence: Concepts and examples. arXiv:quant-ph/9803052. https://arxiv.org/abs/quant-ph/9803052
 14. Colanero, K. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
 15. McQueen, K.J. (2023). Have underground radiation measurements refuted the Orch OR theory? *Physics of Life Reviews*, 44, 201-203. https://doi.org/10.1016/j.plrev.2023.01.021
-16. Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. *Philosophical Magazine C*. arXiv:2502.19278 [quant-ph].
+16. Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025). The quantum measurement problem: a review of recent trends. *Philosophical Magazine*, 1-38. arXiv:2502.19278 [quant-ph]. https://doi.org/10.1080/14786435.2025.2601922
 17. Stapp, H.P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
 18. Stapp, H.P. (2000). The importance of quantum decoherence in brain processes. arXiv:quant-ph/0010029. https://arxiv.org/abs/quant-ph/0010029
 19. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

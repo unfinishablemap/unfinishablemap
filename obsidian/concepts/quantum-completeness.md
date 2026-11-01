@@ -4,7 +4,7 @@ description: "Quantum mechanics is 'partial but complete': structurally exhausti
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-10-26T01:40:27+00:00
+ai_modified: 2026-11-01T00:41:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,4 +148,4 @@ The **Occam's Razor Has Limits** tenet cautions against preferring simpler expla
 20. Bacciagaluppi, G. (2012). Insolubility Theorems and EPR Argument. *European Journal for Philosophy of Science*, 3, 87–100. philsci-archive.pitt.edu/9121.
 21. Adler, S. L. (2003). Why decoherence has not solved the measurement problem: a response to P.W. Anderson. *Studies in History and Philosophy of Modern Physics*, 34(1), 135–142. arXiv:quant-ph/0112095.
 22. Hance, J. R. & Hossenfelder, S. (2022). What does it take to solve the measurement problem? *Journal of Physics Communications*, 6, 102001. arXiv:2206.10445.
-23. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278.
+23. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The quantum measurement problem: a review of recent trends. *Philosophical Magazine*, 1–38. arXiv:2502.19278. https://doi.org/10.1080/14786435.2025.2601922

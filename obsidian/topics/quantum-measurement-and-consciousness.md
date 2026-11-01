@@ -4,7 +4,7 @@ description: "The measurement problem and the hard problem share an identical lo
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-09-27T23:06:28+00:00
+ai_modified: 2026-11-01T00:41:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-07-12T15:00:19+00:00
@@ -226,7 +226,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Saunders, S. (2010). "Chance in the Everett interpretation." In *Many Worlds? Everett, Quantum Theory, and Reality*, eds. Saunders, Barrett, Kent, and Wallace. Oxford University Press.
 1. Sebens, C.T. & Carroll, S.M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
+1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The quantum measurement problem: a review of recent trends." *Philosophical Magazine*, 1-38. arXiv:2502.19278. https://doi.org/10.1080/14786435.2025.2601922
 1. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 1. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.

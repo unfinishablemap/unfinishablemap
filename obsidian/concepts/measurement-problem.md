@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-10-14T12:09:02+00:00
+ai_modified: 2026-11-01T00:41:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -232,7 +232,7 @@ The measurement problem is central to the Map's framework, and [[tenets/backgrou
 1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194-4206.
-1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].
+1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The quantum measurement problem: a review of recent trends." *Philosophical Magazine*, 1-38. arXiv:2502.19278. https://doi.org/10.1080/14786435.2025.2601922
 1. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
 1. Cubitt, T.S., Perez-Garcia, D., & Wolf, M.M. (2015). "Undecidability of the spectral gap." *Nature*, 528, 207-211.
 1. Dourdent, H. (2020). "A Quantum Gödelian Hunch." arXiv:2005.04274.

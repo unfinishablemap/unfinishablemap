@@ -4,7 +4,7 @@ description: "Reads the measurement problem as disclosure rather than deficiency
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-10-30T21:25:23+00:00
+ai_modified: 2026-11-01T00:41:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -128,7 +128,7 @@ None of these is individually decisive, and the honest likelihood comparison sho
 ## References
 
 1. Bell, J.S. (1990). "Against 'Measurement'." *Physics World*, 3(8), 33–40.
-2. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278v1 [quant-ph] (quoted from v1; v2–v3 revise the wording).
+2. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The quantum measurement problem: a review of recent trends." *Philosophical Magazine*, 1–38. arXiv:2502.19278v1 [quant-ph] (quoted from v1; v2–v3 revise the wording). https://doi.org/10.1080/14786435.2025.2601922
 3. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267.
 4. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*, 75(2), 715–775.
 5. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97–115.

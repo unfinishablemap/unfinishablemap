@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-26 02:41:30+00:00
+ai_modified: 2026-11-01 00:41:15+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:50:42+00:00
-lastmod: 2026-10-26 02:41:30+00:00
+lastmod: 2026-11-01 00:41:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -259,7 +259,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 1. Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503
 1. Kobylkov, D., Wynn, J., Winklhofer, M., Chetverikova, R., Xu, J., Hiscock, H., Hore, P. J., & Mouritsen, H. (2019). Electromagnetic 0.1–100 kHz noise does not disrupt orientation in a night-migrating songbird implying a spin coherence lifetime of less than 10 µs. *Journal of the Royal Society Interface*, 16(161), 20190716. https://doi.org/10.1098/rsif.2019.0716
 1. Lees, J. P. et al. (BaBar Collaboration) (2012). Observation of time-reversal violation in the B⁰ meson system. *Physical Review Letters*, 109(21), 211801.
-1. Tomaz, A.A., Mattos, R.S. & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine C*. DOI: 10.1080/14786435.2025.2601922.
+1. Tomaz, A.A., Mattos, R.S. & Barbatti, M. (2025). The quantum measurement problem: a review of recent trends. *Philosophical Magazine*, 1-38. DOI: 10.1080/14786435.2025.2601922. arXiv:2502.19278.
 1. Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/
 1. Stanford Encyclopedia of Philosophy. "Temporal Consciousness." https://plato.stanford.edu/entries/consciousness-temporal/
 1. Internet Encyclopedia of Philosophy. "Eternalism." https://iep.utm.edu/eternalism/

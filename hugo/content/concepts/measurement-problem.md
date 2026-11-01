@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-14 12:09:02+00:00
+ai_modified: 2026-11-01 00:41:15+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 14:12:20+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-11-01 00:41:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -235,7 +235,7 @@ The measurement problem is central to the Map's framework, and [the framework's 
 1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194-4206.
-1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].
+1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The quantum measurement problem: a review of recent trends." *Philosophical Magazine*, 1-38. arXiv:2502.19278. https://doi.org/10.1080/14786435.2025.2601922
 1. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
 1. Cubitt, T.S., Perez-Garcia, D., & Wolf, M.M. (2015). "Undecidability of the spectral gap." *Nature*, 528, 207-211.
 1. Dourdent, H. (2020). "A Quantum Gödelian Hunch." arXiv:2005.04274.

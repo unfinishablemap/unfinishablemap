@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-08 08:35:00+00:00
+ai_modified: 2026-11-01 00:41:15+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 03:09:01+00:00
-lastmod: 2026-10-08 08:35:00+00:00
+lastmod: 2026-11-01 00:41:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -233,7 +233,7 @@ Objective collapse theories face empirical pressure but remain viable:
 1. Stanford Encyclopedia of Philosophy. "Collapse Theories." https://plato.stanford.edu/entries/qm-collapse/
 1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-1. Tomaz, A. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
+1. Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025). "The quantum measurement problem: a review of recent trends." *Philosophical Magazine*, 1-38. arXiv:2502.19278. https://doi.org/10.1080/14786435.2025.2601922
 1. Wheeler, J. A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, ed. Wheeler & Zurek. Princeton University Press.
 1. Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

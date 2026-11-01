@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-09-02 21:42:14+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-11-01 00:41:15+00:00
+ai_system: claude-fable-5+claude-opus-5-5
 concepts: []
 created: 2026-09-02
-date: '2026-09-02'
+date: '2026-11-01'
 draft: false
-lastmod: 2026-09-02 21:42:14+00:00
+lastmod: 2026-11-01 00:41:15+00:00
 related_articles: []
 title: 'Research Notes: The Improper Versus Proper Mixture Distinction'
 ---
@@ -68,7 +68,7 @@ Claims the new page must **correct or re-source** are in the Quote-Fidelity Find
 - **Key points**: the direct attack d'Espagnat answered. Abstract: "All quantum mixtures are what d'Espagnat has termed 'improper.' His 'proper' mixture cannot be created — if welcher weg, or distinguishing, information exists, an improper mixture results, while in the absence of such information, the resulting 'mixture' is a pure state." **[grep-verified]** Argues d'Espagnat's inconsistency claim "fails to account for the indistinguishability of the pure-state subensembles" **[grep-verified]**.
 - **Tenet alignment**: Conflicts with the Map's reading — if no proper mixture is ever physically preparable, the contrast class the Map's argument leans on is empty in one direction.
 
-### Castellani, "All quantum mixtures are proper" (arXiv:2201.04143; philsci-archive 20113, 2022)
+### Castellani, "All quantum mixtures are proper" (arXiv:2201.04143, 2022; published 2023)
 - **Key points**: the modern emptiness attack, titled in the *opposite* direction from Kirkpatrick. Abstract: "It is argued that proper and improper quantum mixed states have no observable differences, and hence should not be distinguished." **[grep-verified]** Section 4 conclusion: "the proper/improper distinction is unphysical, i.e. not detectable by any experiment on S" **[grep-verified]**.
 - **Instructive asymmetry**: Kirkpatrick says all mixtures are improper; Castellani says all are proper. They agree on operational indistinguishability and disagree on which label survives — evidence that the *deflationary* conclusion is underdetermined even among deflationists, a point the article can use.
 - **Tenet alignment**: Conflicts with Tenets 1 and 4 as deployed; a worked reply is exactly what the new page owes.
@@ -111,7 +111,7 @@ Claims the new page must **correct or re-source** are in the Quote-Fidelity Find
 - **Relation to tenets**: grounds Tenets 1 and 4's reading of the outcome gap; the Map's whole post-decoherence corridor stands on it.
 
 ### Operational deflation (the distinction is empty)
-- **Proponents**: Kirkpatrick 2001; Castellani 2022; the "sufficiently thorough decoherence" physicists the QD article L66 gestures at.
+- **Proponents**: Kirkpatrick 2001; Castellani 2023; the "sufficiently thorough decoherence" physicists the QD article L66 gestures at.
 - **Core claim**: no experiment on the system distinguishes the two; a distinction with no observable difference should not be drawn.
 - **Weaknesses found this run**: (a) the two flagship papers deflate in opposite directions (all-improper vs all-proper); (b) reversible-regime recoherence is an observable difference (Zeh), so the emptiness claim must be scoped to the irreversible regime, at which point it is a FAPP claim, and FAPP claims are exactly what is in dispute; (c) pressed hard it tends to collapse into Everett or an epistemic view, which are separately-priced positions, not free deflation.
 - **Relation to tenets**: conflicts with Tenets 1 and 4; a Tenet 5 case study (parsimony judged with incomplete knowledge).
@@ -193,7 +193,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for named-a
 - Bassi, A. & Ghirardi, G. C. (2000). A General Argument Against the Universal Validity of the Superposition Principle. *Physics Letters A*, 275, 373–381.
 - Bell, J. S. (1990). Against 'measurement'. *Physics World*, 3(8), 33–40.
 - Busch, P. & Shimony, A. (1996). Insolubility of the quantum measurement problem for unsharp observables. *SHPMP*, 27(4), 397–404. arXiv:quant-ph/9604013.
-- Castellani, L. (2022). All quantum mixtures are proper. arXiv:2201.04143; philsci-archive.pitt.edu/20113.
+- Castellani, L. (2023). All quantum mixtures are proper. *IJQI* 21(4), 2350019. arXiv:2201.04143. https://doi.org/10.1142/S0219749923500193
 - Colanero, K. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
 - d'Espagnat, B. (1971/1976). *Conceptual Foundations of Quantum Mechanics* (1st/2nd ed.). W.A. Benjamin.
 - d'Espagnat, B. (1995). *Veiled Reality*. Addison-Wesley.

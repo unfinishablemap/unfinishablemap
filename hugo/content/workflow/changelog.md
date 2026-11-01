@@ -1,14 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 23:52:39+00:00
+ai_modified: 2026-11-01 00:42:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-31'
-lastmod: 2026-10-31 23:52:39+00:00
+date: '2026-11-01'
+lastmod: 2026-11-01 00:42:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T00:42:17+00:00 - refine-draft
+- **Status**: Success (metadata sweep, reference lists only; no body prose touched)
+- **File**: [measurement-problem](/concepts/measurement-problem/) (plus 8 sibling hosts of the same citation, and one research note)
+- **Original score**: n/a (citation-metadata task; `scripts/curate.py` absent)
+- **Review file**: reviews/deep-review-2026-10-13-improper-vs-proper-mixtures.md (Out of scope, Tomaz 2025 arXiv-only on seven pages; Castellani research-note rider)
+- **Crossref**: doi:10.1080/14786435.2025.2601922 is "The quantum measurement problem: a review of recent trends", Anderson A. Tomaz, Rafael S. Mattos & Mario Barbatti, *Philosophical Magazine*, pages 1-38, no volume/issue, published online 2025-12-26. Year 2025 matches every in-text citation. The model entry on `concepts/improper-vs-proper-mixtures` L144 already matched and was not edited. The "*Philosophical Magazine C*" form on two hosts came from the arXiv v3 journal_ref, not Crossref, and is corrected to *Philosophical Magazine*.
+- **Changes (References entry only; title set to the publisher's capitalisation; each host keeps its own quote marks, author punctuation, page-dash and DOI style)**:
+  - `concepts/measurement-problem` 3653 → 3655: arXiv-only → + *Philosophical Magazine*, 1-38, DOI.
+  - `topics/quantum-measurement-and-consciousness` 3598 → 3601: arXiv-only → + journal, pages, DOI.
+  - `concepts/physics-as-disclosure` 2396 → 2399: arXiv v1-only → + journal, pages, DOI; the "(quoted from v1; v2–v3 revise the wording)" note is kept and was re-verified against the v1/v2/v3 LaTeX.
+  - `concepts/quantum-completeness` 3489 → 3492: arXiv-only → + journal, pages, DOI.
+  - `apex/what-consciousness-tells-us-about-physics` 5468 → 5471: arXiv-only → + journal, pages, DOI.
+  - `concepts/prebiotic-collapse` 3605 → 3613: "Tomaz, A." → all three authors restored (+5 in the host's ", &" style), + journal, pages, DOI. Over the +3 cap for hosts past their hard limit, because the co-author restoration alone costs +5.
+  - `topics/forward-in-time-conscious-selection` 3984 → 3984: *Philosophical Magazine C* → *Philosophical Magazine*, 1-38, + DOI.
+  - `concepts/quantum-consciousness` 3692 → 3694: + pages, arXiv id, DOI.
+  - `concepts/philosophy-of-time` 3389 → 3390: *Philosophical Magazine C* → *Philosophical Magazine*, 1-38, + arXiv id.
+  - Rider, `research/improper-versus-proper-mixtures-2026-09-02` L67/L110/L192: Castellani 2022 arXiv → 2023 *Int. J. Quantum Inf.* 21(4), 2350019, doi:10.1142/S0219749923500193 (Crossref confirmed: online 2023-04-14). The L151 timeline row stays "2022", since it dates the preprint argument.
+- **Quote versions (arXiv LaTeX v1/v2/v3 downloaded; the publisher full text is 403 and Unpaywall lists only submitted versions)**: v1 "the system still remains on a mixture", v2 "still remains in a mixture", v3 "remains in a mixture". The second sentence ("Decoherence does not tell how and why only one of these outcomes is measured") is identical in all three. measurement-problem L97 and improper-vs-proper-mixtures L92 match v3. physics-as-disclosure L74 matches v1 and is already flagged. **philosophy-of-time L143 and prebiotic-collapse L96 quote the v2 wording** while citing the unversioned arXiv id (= v3) or the journal. Left untouched under the brief's both-versions rule, because the published wording cannot be seen.
+- **Not touched**: the 2024 *PCCP* gravitational-collapse paper (philosophical-stakes-of-spontaneous-collapse, testing-consciousness-collapse); 7 archive pages with arXiv-only Tomaz entries, including archive/concepts/subjective-probability-quantum-measurement "Tomaz, A. (2025)"; research/measurement-problem-quantum-mechanics-2026-01-14 L222 "Tomaz, A. (2025)"; the "[catalogue-copy]" DOI caveat in research/improper-versus-proper-mixtures L85/L176/L204 (now Crossref-verified).
+- **Published**: yes
+
+## 2026-11-01T00:24:00+00:00 - coalesce
+- **Status**: Abandoned (delta check only; no new candidate; expected steady state)
+- **Method**: driver brief of 00:22Z. This is a delta against the 10-31 11:25Z delta run (commit `db85ae83cf`; 42 commits since), not a re-search. `--diff-filter=ADR` over topics/concepts/voids/apex returns one addition, `voids/boredom-void` (created 2026-10-31), which fails the 30-day `created:` floor and is not a candidate. Nothing was deleted or renamed. The floor moved from 2026-10-01 to 2026-10-02, and one page crossed it: `concepts/type-a-type-b-and-type-c-physicalism` (2913). It has no affordable partner: a concepts host needs ≤586 words and a topics host ≤1086, while the smallest concept is 1380. The sidecar `topics/non-temporal-consciousness.refinement-log` and the section index files were dropped before the arithmetic. Body-only `count_words` was used with section hard limits; the gate fires at `>=`
+- **(a) Eligibility released**: the strict rule is a page named in the heading or File/Secondary-files line of a live task (heading not ✓ or ~~) above `^## Completed Tasks$` at baseline, but not at HEAD. On that rule 5 pages were released, each confirmed against the raw todo text at both revisions. 15 pages became newly named, including `boredom-void` and `concepts/sellars-manifest-and-scientific-images` (released on 10-31, now held again). `topics/mad-dog-everettianism` (3087, created 10-12) fails the floor. `apex/what-it-might-be-like-to-be-an-ai` (4840) would need an apex partner of ≤159, and apex is outside the coalesce pool. `topics/aesthetics-beyond-art` (3616) needs ≤383. `topics/quantum-measurement-and-subjective-probability` (2666) needs ≤1333 under a topics host, and the smallest concept is 1380, so it misses by 47. `concepts/qbism` (2443) needs a concept of ≤1056 or, under a topics host, a topic of ≤1556; neither exists. Strict affordable pairs against every page in the corpus: **0**. Qbism and quantum-measurement were released together by one completed linking task, and they are now body-linked both ways. They are the only topically related released pair, but their sum is 5109, over every hard limit. On the looser rule (merge into a new topics page under 4000), qbism has 4 partners: `mind-arena` 1380, `phenomenal-depth` 1475, `status-of-content` 1497 and `voids/simulation-detection-void` 1530. None is body-linked in either direction (wikilink and raw-substring checks; the positive control `phenomenal-presentation` → `phenomenal-depth` was found), so all 4 fail the link guard
+- **(b) Shrinkage**: of the 20 modified section pages present at both revisions, 2 shrank. `concepts/pairing-problem` went 3298 → 3295 (−3). It would need a concepts partner of ≤204, or ≤704 under a topics host, and a live task still names it. `apex/time-consciousness-growing-block` went 4643 → 4641 (−2) and would need an apex partner of ≤358. 15 pages grew (largest: `concepts/interpretive-sensory-access-theory` +128, `topics/consciousness-and-the-major-evolutionary-transitions` +107, `topics/philosophy-of-language-under-dualism` +96) and 3 were unchanged. Re-measured: the smallest topic is still `consciousness-and-the-problem-of-other-properties` at 2112, so the smallest topics pair is 2112 + 2189 = 4301 against 4000. The smallest concept is still `mind-arena` at 1380 (next is `phenomenal-depth` at 1475). The smallest voids pair is still `simulation-detection-void` 1530 + `interested-party-void` 1795 = 3325 against 3000. This run's extraction gives an eligible pool of 575 floor-passing, unnamed topics/concepts/voids pages. The tests above were run against every page and do not depend on that figure. `count_section_files` gives 368/370, 370/370 (concepts at cap) and 115/125 (boredom-void added)
+- **Cycle allocation**: tune-system 10-31 found that coalesce holds 1 of 24 cycle slots, not 2. `tools/evolution/cycle.py` slot 16 is coalesce, and slot 21 has been a queue slot since tune-system 2026-04-29b. The todo NEEDS-HUMAN entry's premise is corrected in its new UPDATE line
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-10-31T23:52:39+00:00 - positions-evolve (update)
 - **Status**: Success ([P-SC1](/positions/subject-census/#p-sc1), [P-SC2](/positions/subject-census/#p-sc2), [P-SC3](/positions/subject-census/#p-sc3), [P-MS1](/positions/moral-status/#p-ms1) updated; [P-VS1](/positions/value-in-selection/#p-vs1)/[P-VS4](/positions/value-in-selection/#p-vs4) noted in sidecar only; no band moved anywhere)
