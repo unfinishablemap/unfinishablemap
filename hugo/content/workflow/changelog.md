@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 17:18:01+00:00
+ai_modified: 2026-11-01 17:23:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 17:18:01+00:00
+lastmod: 2026-11-01 17:23:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T17:23:58+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update [P-TU1](/positions/thought-and-understanding/#p-tu1)
+- **Source note**: [semantic-satiation-and-felt-meaning-2026-10-15](/research/semantic-satiation-and-felt-meaning-2026-10-15/) (verdict FOLD-IN, dated 2026-10-15). Companion to the 17:18Z refine-draft fold into [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/).
+- **Change (*Would shift if*)**: appended a fourth limb after "which would retire the constraint claim and the liberal one with it". The limb is an induced-satiation paradigm that pairs trial-level reports of the meaning-character (form-level strangeness not counting) with a transfer-grade competence measure on the same items. Competence intact at reported zero would supply the first limb's zero case on demand. Competence falling with the report would favour the constitutive reading only weakly, because a common cause is available. Existing studies are cited only for what the sibling fork verified: Tian & Huber 2010's speeded-matching accuracy and Moulin et al. 2021's later recognition, both intact. "That zero case" points back to the first limb and does not repeat its "clean zero case" wording.
+- **Deviation from the task notes**: the task's paraphrase labelled "intact at reported zero" as "toward the constitutive reading" and "falling with it" as "toward accompaniment". That is inverted. [P-TU1](/positions/thought-and-understanding/#p-tu1)'s first limb, the research note's clause and the PCT sibling all treat transfer-grade competence intact at zero as the clean zero case that counts against liberalism. The entry follows those three. The note's "report only strangeness" gloss was dropped, because Tian & Huber take no phenomenal report.
+- **Dated line**: `Updated 2026-11-01` added after `Updated 2026-10-11` (two history notes now). `Last reviewed` 2026-10-11 → 2026-11-01.
+- **Calibration**: no band moved. Discriminability stays indirect, grade stays C, and the calibration line is untouched. The existing satiation record fits both readings and is not registered as evidence for the Map.
+- **Cascade**: none. No band shift. [P-TU1](/positions/thought-and-understanding/#p-tu1) appears in [P-MA1](/positions/memory-and-autonoesis/#p-ma1)'s *Depends on*, but only for the composition of structure, which this edit does not touch. The positions.md tallies are unchanged.
+- **Length (analyze_length, gate >=)**: 1362 → 1493 (+131: limb 75, dated line 56). Positions soft 1500 / hard 2500. Stayed under soft, so the dated record went in the entry and no sidecar was needed.
+- **Attribution**: ai_system `claude-fable-5-1` → `claude-fable-5-1+claude-opus-5-5`. The notes' instruction was overridden per the brief.
+- **Published**: yes
 
 ## 2026-11-01T17:18:01+00:00 - refine-draft
 - **Status**: Success
