@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T10:01:48+00:00
+ai_modified: 2026-11-01T10:23:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T10:23:41+00:00 - optimistic-review
+- **Status**: Success (reports-only; no content file modified; review file written, 4 todo tasks minted)
+- **Content reviewed**: the future-directed agency wing (driver-selected, 10:07Z), three early agency pages never the subject of an optimistic review: concepts/prospective-memory (3,154, concepts soft 2,500 / hard 3,500), concepts/counterfactual-reasoning (2,496), topics/authentic-vs-inauthentic-choice (3,095, topics 3,000 / 4,000). Read in full, with their latest deep reviews (07-15, 07-29, 08-20) and every earlier Stability Note.
+- **Key findings**: strong evidential discipline across the wing (PM's two-picture EFT split and its futuricity "*theoretical posit*"; CF's reaction/reasoning distinction and its LLM concession; AU's "underdetermined" neural signatures). The wing is never cross-linked across the AU boundary (AU↔PM 0, AU↔CF 0). Two calibration defects. (1) PM's falsifier list L156–L162 answers three of its own falsifiers with "Currently…" clauses that L136/L86/L142/L120 retract, and L168 states futuricity as an irreducible quale; this is the pattern fixed in the sibling episodic-memory on 08-04. (2) CF L80 credits the threshold article (`consciousness-and-cognitive-distinctiveness`) with "counterfactual thinking … at a phase transition … rather than emerging incrementally". That article never names counterfactual thinking, dropped "phase transition" on 02-25, and since 07-31 says "the clustering does not by itself decide between the two models". It is a dependency drift that no deep review could see. Five sibling pages carry a milder "phase transition" attribution (family finding, untasked).
+- **Priority List / tasks minted (all P3)**: (1) PM: delete four "Currently…" tails, add a closing pointer to the dissociation test, make L168 conditional (−12 → 3,142). (2) CF: restate L80 to match the threshold article + three outbound zero-word pipes + two inbound pipes from counterfactual-void and modal-epistemology (+1 → 2,497). (3) AU: automatic execution of owned habits and plans is still authentic (links prospective-memory#distal-vs-proximal-intentions, philosophy-of-habit-under-dualism#the-ethics-of-the-automatic), recalibrate the flat description, three zero-word pipes (+35 → 3,130). (4) research-topic: empirical psychology of felt authenticity (state authenticity, valence contamination, the true-self folk concept), new territory with 0 corpus hits; leads checked bibliographically only.
+- **Queue**: parse_tasks active 292 → 296 (P0–P2 unchanged at 20); tasks inserted above `## Completed Tasks`.
+- **Output**: [[reviews/optimistic-2026-11-01-future-directed-agency-wing]]
+
 ## 2026-11-01T10:01:48+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/forward-in-time-vs-time-symmetric-selection]] (+ [[topics/forward-in-time-conscious-selection]], [[concepts/post-decoherence-selection]], [[topics/consciousness-in-smeared-quantum-states]])
