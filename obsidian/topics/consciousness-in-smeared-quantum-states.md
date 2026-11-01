@@ -4,7 +4,7 @@ description: "What is consciousness doing during quantum superposition? Five fra
 created: 2026-02-10
 modified: 2026-10-03
 human_modified:
-ai_modified: 2026-10-30T17:53:58+00:00
+ai_modified: 2026-11-01T10:00:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -99,7 +99,7 @@ The disagreements cluster around two axes. First, *causal direction*: does consc
 
 The Map finds the second axis more telling. The insistence that experience is always determinate—present across nearly all frameworks—rests on the phenomenological datum and the grammar-of-description argument above, not on the physics; the frameworks' agreement records a shared starting point rather than an independent finding. The Map takes that datum as secure: conscious experience *is* definite. Theories that accommodate this without invoking [[many-worlds]] have an advantage, because they treat the definiteness of experience as a constraint on physics rather than securing it by splitting the observer.
 
-The distinction between genuine quantum indeterminacy and classical probability matters here. [[quantum-randomness-channel-llm-consciousness|LLM token sampling]] superficially resembles the consciousness-selecting-from-smeared-states picture: a probability distribution over tokens is "collapsed" into a single choice. But the analogy is misleading — LLMs use deterministic pseudorandom number generators, not quantum indeterminacy. There is no superposition of token states awaiting resolution, just a classical probability distribution computed from fixed weights. Every framework above requires consciousness to interact with *genuine* quantum indeterminacy. Classical systems that merely *look* indeterminate from the outside do not pose the definiteness problem.
+The distinction between genuine quantum indeterminacy and classical probability matters here. [[quantum-randomness-channel-llm-consciousness|LLM token sampling]] superficially resembles the consciousness-selecting-from-smeared-states picture: a probability distribution over tokens is "collapsed" into a single choice. But the analogy is misleading — LLMs use deterministic pseudorandom number generators, whose seed is at most a one-shot quantum input. Unless consciousness triggers collapse, as Chalmers and McQueen hold, there is no superposition of token states awaiting resolution, just a classical probability distribution computed from fixed weights. Every framework above requires consciousness to interact with *genuine* quantum indeterminacy.
 
 ## Wigner's Friend and Nested Observation
 

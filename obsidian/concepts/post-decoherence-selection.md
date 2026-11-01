@@ -4,7 +4,7 @@ description: "Post-decoherence selection is whatever actualizes one outcome from
 created: 2026-03-29
 modified: 2026-10-05
 human_modified:
-ai_modified: 2026-10-27T01:42:02+00:00
+ai_modified: 2026-11-01T10:00:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ Every interpretation of quantum mechanics must take a stance on this gap—wheth
 
 Established quantum consciousness proposals—Stapp's quantum Zeno mechanism and Penrose-Hameroff Orch OR—place consciousness's causal role *before* or *during* decoherence. On the usual reading they require quantum coherence in neural structures to persist long enough for consciousness to interact with superposed states; Stapp disputes that reading of his own model, a dispute set out in the [[process-1-specification-problem|Process 1 specification problem]]. The usual reading exposes them to the [[timing-gap-problem|timing gap problem]]: Tegmark's (2000) calculations give decoherence times of about 10⁻²⁰ seconds for superposed neuron firing and 10⁻¹³ seconds for microtubule excitations, while conscious decisions take hundreds of milliseconds. Even the revised microtubule estimates of Hagan et al. (2002), which narrow that site's gap by eight to nine orders of magnitude, leave a factor of roughly a thousand, and they do not reach the ion-channel case Stapp's mechanism occupies.
 
-The Map's post-decoherence selection proposal sidesteps this objection entirely. If consciousness acts on the already-decohered mixture—fixing which single outcome the improper mixture resolves to—the decoherence timescale becomes irrelevant. Consciousness operates not on fragile quantum superpositions but on the robust, classically distinguishable branch structure that decoherence has already prepared. That structure supplies distinguishable candidate outcomes without settling any of them as the actual one; the point of contact is the actualization itself, not a choice among pre-decided actualities. The companion topic article [[forward-in-time-conscious-selection]] catalogues the candidate mechanisms (pre-decoherence variants from Penrose-Hameroff, Stapp, and Chalmers-McQueen alongside the post-decoherence path) and shows why the post-decoherence variant is the Map's strongest version of the forward-in-time strategy.
+The Map's post-decoherence selection proposal sidesteps this objection entirely. If consciousness acts on the already-decohered mixture—fixing which single outcome the improper mixture resolves to—the decoherence timescale becomes irrelevant. Consciousness operates not on fragile quantum superpositions but on the robust, classically distinguishable branch structure that decoherence has already prepared. That structure supplies distinguishable candidate outcomes without settling any of them as the actual one; the point of contact is the actualization itself, not a choice among pre-decided actualities. The companion topic article [[forward-in-time-conscious-selection]] catalogues the candidate mechanisms (pre-decoherence variants from Penrose-Hameroff and Stapp, and Chalmers-McQueen's decoherence-compatible collapse model, alongside the post-decoherence path) and shows why the post-decoherence variant is the Map's strongest version of the forward-in-time strategy.
 
 The metaphysical advantage is significant: immunity to the strongest empirical objection against quantum consciousness theories. The epistemological cost is equally significant: post-decoherence selection is harder to falsify. Pre-decoherence models make predictions about coherence maintenance in biological tissue that experiments could in principle test. Post-decoherence models sit mostly at the interpretive level—the gap between formalism and outcome—where empirical access is indirect, though not absent: their need for absolute outcomes, [[#absolute-outcomes-and-the-local-friendliness-theorem|explained below]], exposes them in principle to extended Wigner's-friend experiments, so their insulation from test is partial. A second cost is set out in [[process-1-specification-problem|Process 1 specification problem]]: choosing no basis and repeating no projection, the proposal escapes the basis dilemma pressed against Stapp's Zeno model, but a selection running at the Born rate leaves the unconditional density matrix where decoherence left it, the worry carried as [[ensemble-level-epiphenomenalism]].
 
@@ -118,7 +118,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 ## Further Reading
 
 - [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis integrating this concept with quantum Darwinism, contextuality, weak measurement, and stochastic amplification
-- [[forward-in-time-conscious-selection]] — Topic-level mechanism catalogue placing post-decoherence selection alongside pre-decoherence candidates (Penrose-Hameroff, Stapp, Chalmers-McQueen)
+- [[forward-in-time-conscious-selection]] — Topic-level mechanism catalogue placing post-decoherence selection alongside pre-decoherence candidates (Penrose-Hameroff, Stapp) and the Chalmers-McQueen collapse model
 - [[decoherence|Decoherence]]
 - [[measurement-problem|The Measurement Problem]]
 - [[timing-gap-problem|The Timing Gap Problem]]

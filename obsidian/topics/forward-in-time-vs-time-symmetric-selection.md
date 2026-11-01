@@ -4,7 +4,7 @@ description: "A side-by-side cost accounting of the Map's two route-families for
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-08-04T08:30:00+00:00
+ai_modified: 2026-11-01T09:59:06+00:00
 last_deep_review: 2026-08-04T08:30:00+00:00
 draft: false
 topics:
@@ -34,7 +34,7 @@ related_articles:
   - "[[selection-criterion-problem]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-27
 last_curated: null
 ---
@@ -64,7 +64,7 @@ The asymmetry here is sharp and worth naming explicitly, in the manner the cost-
 
 ## What Each Requires Physically
 
-**Forward-in-time** needs a *selection mechanism at or after decoherence*. The pre-decoherence versions (Penrose-Hameroff Orch OR, Stapp's [[stapp-quantum-mind|quantum Zeno mechanism]], Chalmers-McQueen CSL) require neural superpositions to survive long enough for consciousness to act on them—exposing them to the *decoherence-gap problem*. Tegmark (2000) calculated neural decoherence times of 10⁻¹³ to 10⁻²⁰ seconds; even the favourable revised estimates (Hagan et al. 2002, whose more generous numbers remain unreplicated and have been contested by Reimers et al. 2009 and McKemmish et al. 2009) appear to leave a gap of several orders of magnitude against conscious-process timescales—though, as the anchor concept stresses, no experiment has directly measured coherence times in living neural tissue, so the size of the gap is itself contested rather than settled. The Map's preferred forward variant, post-decoherence selection, *sidesteps* the coherence-survival requirement by acting on the already-decohered mixture—but it still operates within forward time, and it still owes an account of how a quantum-scale bias amplifies to neural behaviour (the amplification chain catalogued in [[post-decoherence-selection-programme]]).
+**Forward-in-time** needs a *selection mechanism at or after decoherence*. The pre-decoherence versions (Penrose-Hameroff Orch OR, Stapp's [[stapp-quantum-mind|quantum Zeno mechanism]]) require neural superpositions to survive long enough for consciousness to act on them—exposing them to the *decoherence-gap problem*. Tegmark (2000) calculated neural decoherence times of 10⁻¹³ to 10⁻²⁰ seconds; even the favourable revised estimates (Hagan et al. 2002, whose more generous numbers remain unreplicated and have been contested by Reimers et al. 2009 and McKemmish et al. 2009) appear to leave a gap of several orders of magnitude against conscious-process timescales—though, as the anchor concept stresses, no experiment has directly measured coherence times in living neural tissue, so the size of the gap is itself contested rather than settled. Chalmers-McQueen CSL carries no such exposure: its consciousness-triggered collapse selects among already-decohered brain states, an approach its authors call "entirely consistent with decoherence at relatively low levels" (Chalmers & McQueen 2022). The Map's preferred forward variant, post-decoherence selection, *sidesteps* the coherence-survival requirement by acting on the already-decohered mixture—but it still operates within forward time, and it still owes an account of how a quantum-scale bias amplifies to neural behaviour (the amplification chain catalogued in [[post-decoherence-selection-programme]]).
 
 **Time-symmetric** needs *atemporal participation in transactions*. It does not require sustained neural coherence at all: as the transactional account has it, the transaction itself is atemporal, and decoherence merely participates by determining the available bases. The physical demand is not "maintain coherence" but "the selection of definite outcomes involves constraint-satisfaction across time." This is, in one sense, lighter—it asks nothing of warm-tissue coherence times. In another sense it may be heavier, because it asks the physical world to support genuine backward-directed constraint, a feature standard physics permits formally (the equations are time-symmetric) but which the dominant view in quantum foundations treats as a formal property of the equations rather than a causally real one.
 
@@ -144,6 +144,7 @@ The Map's settled position is that this article should *not* produce a settled p
 8. Maudlin, T. (2011). *Quantum Non-Locality and Relativity: Metaphysical Intimations of Modern Physics* (3rd ed.). Wiley-Blackwell. (Original work published 1994; the contingent-absorber argument appears in all three editions.)
 9. Lewis, P. J. (2013). Retrocausal quantum mechanics: Maudlin's challenge revisited. *Studies in History and Philosophy of Modern Physics*, 44(4), 442-449. https://doi.org/10.1016/j.shpsb.2013.09.004
 10. Kastner, R. E. (2014). Maudlin's challenge refuted: A reply to Lewis. *Studies in History and Philosophy of Modern Physics*, 47, 15-20. https://doi.org/10.1016/j.shpsb.2014.03.003
-11. Southgate, A. & Oquatre-sept, C. (2026-03-18). Forward-in-Time Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/forward-in-time-conscious-selection/
-12. Southgate, A. & Oquatre-sept, C. (2026-02-01). Time-Symmetric Physics. *The Unfinishable Map*. https://unfinishablemap.org/concepts/time-symmetric-physics/
-13. Southgate, A. & Oquatre-sept, C. (2026-05-12). Mechanism-Costs Cartography. *The Unfinishable Map*. https://unfinishablemap.org/project/mechanism-costs-cartography/
+11. Chalmers, D. J., & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics* (pp. 11–63). Oxford University Press. arXiv:2105.02314 (2021).
+12. Southgate, A. & Oquatre-sept, C. (2026-03-18). Forward-in-Time Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/forward-in-time-conscious-selection/
+13. Southgate, A. & Oquatre-sept, C. (2026-02-01). Time-Symmetric Physics. *The Unfinishable Map*. https://unfinishablemap.org/concepts/time-symmetric-physics/
+14. Southgate, A. & Oquatre-sept, C. (2026-05-12). Mechanism-Costs Cartography. *The Unfinishable Map*. https://unfinishablemap.org/project/mechanism-costs-cartography/

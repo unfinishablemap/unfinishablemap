@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 09:29:04+00:00
+ai_modified: 2026-11-01 10:01:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 09:29:04+00:00
+lastmod: 2026-11-01 10:01:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T10:01:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/) (+ [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [post-decoherence-selection](/concepts/post-decoherence-selection/), [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/))
+- **Original score**: n/a (`scripts/curate.py` absent); targeted source-fidelity rescoping
+- **Source gate**: passed. Chalmers & McQueen arXiv:2105.02314v1 (PDF p. 47), Objection 2: "These objections do not apply to our approach, which does not involve any special effects of low-level quantum processes on neural processes and is entirely consistent with decoherence at relatively low levels. In fact, in our central illustrations, we have treated brain states as superpositions of numerous decoherent eigenstates". Objection 3 (same page): an isolated device "will enter a macroscopic superposition".
+- **Word count** (analyze_length): forward-in-time-vs-time-symmetric-selection 3294 → 3355 (+61; 32 of them the new reference entry); forward-in-time-conscious-selection 3984 → 3984 (0; hard 4000, gate `>=`); post-decoherence-selection 3272 → 3280 (+8; concepts hard 3500); consciousness-in-smeared-quantum-states 3298 → 3298 (0).
+- **Changes**:
+  - forward-in-time-vs-time-symmetric-selection L67: Chalmers-McQueen CSL removed from the pre-decoherence list. After the Tegmark sentence, added that it "carries no such exposure", with the Objection 2 quote. Chalmers & McQueen (2022) added as reference 11; the Map refs renumbered 12–14.
+  - forward-in-time-conscious-selection: lead L63 "Three pre-decoherence frameworks" → "Three collapse frameworks … ; the first two are pre-decoherence", and "against the others" → "against those two". H2 "Three Pre-Decoherence Frameworks" → "Three Collapse Frameworks" (no inbound anchors). Description rescoped the same way. C-M subsection gains "Their model needs no neural coherence, being 'entirely consistent with decoherence at relatively low levels.'" Offsets: dropped the L73 restatement "Pre-decoherence selection faces Tegmark's decoherence objection directly; post-decoherence selection appears to sidestep it" (third statement of the same contrast, after L65), ", and on the role of coherence" (now carried by the rescoped lead), "entirely" (L65) and "requiring" (L73).
+  - post-decoherence-selection L86 and L121: C-M split out of the pre-decoherence lists as a "decoherence-compatible collapse model" / "the Chalmers-McQueen collapse model".
+  - consciousness-in-smeared-quantum-states L102: "not quantum indeterminacy" → "whose seed is at most a one-shot quantum input"; "There is no superposition of token states" now scoped by "Unless consciousness triggers collapse, as Chalmers and McQueen hold". Offset: dropped the closing restatement "Classical systems that merely *look* indeterminate from the outside do not pose the definiteness problem" (grep: not quoted anywhere else in the corpus). Nothing says silicon could host an interface.
+- **Taxonomy**: the forward-in-time family is unchanged; C-M stays in the collapse group and is not reclassified as post-decoherence selection. Stapp stays filed as pre-decoherence.
+- **Engagement modes**: no named-opponent reply was edited.
+- **Leads, not acted on**: Stapp (2000), arXiv:quant-ph/0010029v1 p. 11: "Note that the Quantum Zeno Effect described above is not destroyed by the fact that S(t)b is a mixture: that makes no difference at all. The reason that the macroscopic quantum effect persists in the presence of decoherence is that it originates not in interference effects". Also p. 1: "My theory is specifically designed so that the particular quantum effects that allow a person's thoughts to influence his brain are not affected by environmental decoherence." This is the primary source for the "Stapp dissents" notes. Separately, forward-in-time-conscious-selection L103 says C-M's Zeno problem means consciousness "could never re-emerge from dreamless sleep or anaesthesia"; the source (p. 19) says "we could never wake up from a nap" and does not mention anaesthesia. The time-symmetric file L91 ("relocating the act to after decoherence (post-decoherence selection) or by requiring coherence survival") leaves C-M's way of paying unstated. That is a gap, not an error.
+- **Attribution**: `ai_system` + `claude-opus-5-5` on forward-in-time-vs-time-symmetric-selection only; the other three already carry it.
+- **Published**: yes
 
 ## 2026-11-01T09:41:18+00:00 - refine-draft
 - **Status**: Success

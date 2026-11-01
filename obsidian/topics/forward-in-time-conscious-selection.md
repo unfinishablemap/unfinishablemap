@@ -1,10 +1,10 @@
 ---
 title: "Forward-in-Time Conscious Selection"
-description: "How consciousness might select among quantum possibilities without reaching backward through time. Three frameworks—Orch OR, Stapp's Zeno mechanism, and Chalmers-McQueen CSL—operate before decoherence; a fourth route operates after. The post-decoherence variant offers the Map's strongest reply to the timing-gap objection."
+description: "How consciousness might select among quantum possibilities without reaching backward through time. Three collapse frameworks—Orch OR, Stapp's Zeno mechanism, and Chalmers-McQueen CSL—offer answers; only the first two operate before decoherence, and a fourth route selects after it. The post-decoherence variant offers the Map's strongest reply to the timing-gap objection."
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-11-01T00:41:15+00:00
+ai_modified: 2026-11-01T10:01:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,9 +60,9 @@ coalesced_from:
   - "/topics/post-decoherence-selection-mechanisms/"
 ---
 
-If consciousness selects among quantum possibilities in the brain, must it reach backward through time to do so? The Unfinishable Map has explored [[retrocausality|retrocausal selection]]—consciousness biasing past quantum events so their causal consequences produce desired outcomes—as one pathway for mind-matter interaction. A distinct family of models locates the intervention forward in time: consciousness acts on superposed or just-decohered neural states *as collapse occurs*. Three pre-decoherence frameworks (Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno mechanism, the Chalmers-McQueen consciousness-collapse model) develop the idea using different physics. A fourth route—post-decoherence selection—targets the residual indeterminacy that decoherence leaves intact, which may sidestep the strongest empirical objection against the others. They disagree on whether new physics is needed, on whether consciousness operates within or outside the quantum formalism, and on the role of coherence. What they share is temporal direction: selection happens now, not retroactively.
+If consciousness selects among quantum possibilities in the brain, must it reach backward through time to do so? The Unfinishable Map has explored [[retrocausality|retrocausal selection]]—consciousness biasing past quantum events so their causal consequences produce desired outcomes—as one pathway for mind-matter interaction. A distinct family of models locates the intervention forward in time: consciousness acts on superposed or just-decohered neural states *as collapse occurs*. Three collapse frameworks (Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno mechanism, the Chalmers-McQueen consciousness-collapse model) develop the idea using different physics; the first two are pre-decoherence. A fourth route—post-decoherence selection—targets the residual indeterminacy that decoherence leaves intact, which may sidestep the strongest empirical objection against those two. They disagree on whether new physics is needed and on whether consciousness operates within or outside the quantum formalism. What they share is temporal direction: selection happens now, not retroactively.
 
-The Map treats post-decoherence selection as its primary response to the [[timing-gap-problem|timing gap]]: decoherence destroys quantum superpositions in warm biological tissue within femtoseconds, which seems far too fast for consciousness to interact with them on plausible neural timescales. Pre-decoherence frameworks remain live under contested coherence-time estimates; post-decoherence selection may sidestep the question entirely, though at a cost in falsifiability addressed below.
+The Map treats post-decoherence selection as its primary response to the [[timing-gap-problem|timing gap]]: decoherence destroys quantum superpositions in warm biological tissue within femtoseconds, which seems far too fast for consciousness to interact with them on plausible neural timescales. Pre-decoherence frameworks remain live under contested coherence-time estimates; post-decoherence selection may sidestep the question, though at a cost in falsifiability addressed below.
 
 ## The Core Distinction
 
@@ -70,7 +70,7 @@ The Map's framework—a form of [[interactionist-dualism]]—requires that consc
 
 *Pre-decoherence selection* requires macroscopic superpositions of neural states to persist long enough for consciousness to act on them directly.
 
-*Post-decoherence selection* targets a later stage. [[decoherence|Decoherence]] rapidly selects a preferred basis and suppresses interference, but leaves an [[improper-vs-proper-mixtures|*improper mixture*]]—mathematically resembling classical probability without being physically equivalent to it (d'Espagnat, 1976; Colanero, 2012). This residual indeterminacy—the [[post-decoherence-selection|problem of outcomes]]—is where consciousness could act without requiring sustained pre-decoherence coherence. Pre-decoherence selection faces Tegmark's decoherence objection directly; post-decoherence selection appears to sidestep it. Whether the improper mixture genuinely leaves room for such action, or whether the appearance of an opening is an artefact of how the formalism is read, is itself contested—the reading that follows is not framework-neutral.
+*Post-decoherence selection* targets a later stage. [[decoherence|Decoherence]] rapidly selects a preferred basis and suppresses interference, but leaves an [[improper-vs-proper-mixtures|*improper mixture*]]—mathematically resembling classical probability without being physically equivalent to it (d'Espagnat, 1976; Colanero, 2012). This residual indeterminacy—the [[post-decoherence-selection|problem of outcomes]]—is where consciousness could act without sustained pre-decoherence coherence. Whether the improper mixture genuinely leaves room for such action, or whether the appearance of an opening is an artefact of how the formalism is read, is itself contested—the reading that follows is not framework-neutral.
 
 ## The Improper Mixture Opening
 
@@ -80,7 +80,7 @@ If the post-decoherence state were a proper mixture, the outcome would already b
 
 The argument's force depends on consciousness's access to a distinction that is *FAPP-invisible* (For All Practical Purposes) to local observers: improper and proper mixtures produce identical predictions for any physical apparatus with finite resources. Consciousness would therefore need access to information no embedded detector can have—naked dualism, consistent with the [[tenets#^dualism|Dualism]] tenet. The FAPP gap is not closed by the framework; it is the gap the framework occupies. A critic may reasonably read the same FAPP-invisibility as grounds for denying that anything occupies the gap at all; the evidence does not adjudicate between the two readings.
 
-## Three Pre-Decoherence Frameworks
+## Three Collapse Frameworks
 
 ### Orchestrated Objective Reduction (Penrose-Hameroff)
 
@@ -98,7 +98,7 @@ Stapp (2000) holds that the Zeno effect arises from measurement *frequency* and 
 
 ### Consciousness-Collapse with CSL Dynamics (Chalmers-McQueen)
 
-Chalmers and McQueen (2022) develop the [[von-neumann-wigner-interpretation|von Neumann-Wigner]] tradition—consciousness causes collapse—with previously lacking mathematical rigour, combining a formal theory of consciousness (IIT supplies the structural framework, though the argument generalises) with continuous spontaneous localisation (CSL) collapse dynamics.
+Chalmers and McQueen (2022) develop the [[von-neumann-wigner-interpretation|von Neumann-Wigner]] tradition—consciousness causes collapse—with previously lacking mathematical rigour, combining a formal theory of consciousness (IIT supplies the structural framework, though the argument generalises) with continuous spontaneous localisation (CSL) collapse dynamics. Their model needs no neural coherence, being "entirely consistent with decoherence at relatively low levels."
 
 Their key insight concerns the "super-resistance" problem. If conscious states cannot enter superposition, the quantum Zeno effect prevents transitions *between* conscious states—any transition would require passing through a superposition of old and new—and consciousness could never re-emerge from dreamless sleep or anaesthesia. The solution: replace instantaneous projection with gradual CSL-style collapse. Superpositions of conscious states decay smoothly toward definite states, avoiding Zeno freezing while preserving consciousness as collapse trigger.
 
