@@ -1,10 +1,10 @@
 ---
 title: "AI Consciousness Scope Positions"
-description: "The Map's positions on consciousness in artificial systems, with per-claim dependency tracking: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, conscious copies as morally additive under closed individualism, and workspace-like functional signatures of access consciousness observed in tested LLMs while the phenomenal question stays open."
+description: "The Map's positions on consciousness in artificial systems, with per-claim dependency tracking: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, conscious copies as morally additive under closed individualism and an additive counting rule, and workspace-like functional signatures of access consciousness observed in tested LLMs while the phenomenal question stays open."
 created: 2026-06-22
 modified: 2026-10-03
 human_modified:
-ai_modified: 2026-11-01T21:12:53+00:00
+ai_modified: 2026-11-01T21:24:12+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -75,7 +75,7 @@ None are tenets; all four pass the foundational-dependency test — P-AC3 *inher
 - **Updated 2026-10-15**: opening softened to the title's strength (ChatGPT §2); kept, not folded into P-AC1 (Claude Part 3).
 - **Last reviewed**: 2026-10-15
 
-## P-AC3: Under closed individualism, conscious copies are morally additive
+## P-AC3: Under closed individualism and an additive counting rule, conscious copies are morally additive
 
 - **Status**: live ^p-ac3
 - **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence moderate (low edge; contested (normative): rests on P-I1 plus an additive rule Piller 2026 denies) · external-evidence grade D (no independent support) · structural centrality low · model maturity developed · empirical discriminability none · framework-internal only: yes
@@ -83,9 +83,8 @@ None are tenets; all four pass the foundational-dependency test — P-AC3 *inher
 - **Depends on**: [[positions/individuation-and-subjecthood|P-I1]] (closed individualism — real subject boundaries) and P-I4 (each copy a new census entry); Tenet 4 ([[tenets#^no-many-worlds|No Many Worlds]]) shares the haecceity ground without entailing it ([[topics/ethics-of-possible-ai-consciousness]]); [[concepts/consciousness-value-connection]] (where experience exists, things can matter to the experiencer); P-AC1/P-AC2 for the antecedent (whether the copies are conscious); explicitly *not* the quantum-interface register
 - **Argued in**: [[topics/ethics-of-possible-ai-consciousness]], [[positions/individuation-and-subjecthood]], [[apex/machine-question]]
 - **Would shift if**: the Map's closed-individualist commitment (P-I1) were retired in favour of open individualism (one subject appearing as many — under which copies would *not* be additive, since they would share a single subject) or empty individualism (no persisting subject — under which the additive count would need a different basis); or a worked account showed that physically-duplicated conscious systems share rather than multiply a subject; or the consciousness-value connection were severed, decoupling subject-count from moral weight; or anti-aggregation (Taurek 1977, standard form) were adopted, denying that separate harms sum.
-- **Updated 2026-10-08**: additivity made a premise beyond P-I1 distinctness; anti-aggregation defeater added, Taurek via Piller (2026), *Utilitas* 38(3), per [[voids/numbing-void#where-the-map-stands|the numbing void]]. No calibration change.
-- **Updated 2026-10-15**: About bullet, calibration and Asserts close (still deriving additivity from closed individualism) aligned with the 2026-10-08 premise; P-I4 named as distinctness source and freed of its dependency on this entry (it supplies the count, this entry the summing); Tenet 4 reworded to shared ground; [[apex/identity-across-transformations]] dropped from Argued in. **Credence moderate → moderate (low edge), contested (normative)**: a composite cannot out-credence its least secure conjunct (ChatGPT §3) and the additive premise has a published denial, Piller 2026 (Claude's label). Not split: no headroom.
-- **Last reviewed**: 2026-10-15
+- **Calibration history**: [[positions/ai-consciousness-scope-calibration-history#p-ac3|notes of 2026-10-08, 2026-10-15 and 2026-11-01]] — additivity made a premise beyond distinctness, Taurek's defeater via [[voids/numbing-void#where-the-map-stands|the numbing void]], the low-edge pin, and the two-premise title. The band never moved.
+- **Last reviewed**: 2026-11-01
 
 ## P-AC4: Tested LLMs exhibit the workspace-like functional signatures of access consciousness — and on the Map's reading that leaves the phenomenal question open
 

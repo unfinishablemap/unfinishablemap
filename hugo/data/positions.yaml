@@ -100,15 +100,15 @@ p-ac2:
   weak: 'yes'
 p-ac3:
   bands: 'confidence: moderate · no independent evidence · peripheral to the framework'
-  claim: Under closed individualism, conscious copies are morally additive
+  claim: Under closed individualism and an additive counting rule, conscious copies are morally additive
   credence: moderate
   grade: D
   id: P-AC3
   slug: ai-consciousness-scope
   status: live
   structural_centrality: low
-  summary: 'P-AC3: Under closed individualism, conscious copies are morally additive — confidence: moderate
-    · no independent evidence · peripheral to the framework'
+  summary: 'P-AC3: Under closed individualism and an additive counting rule, conscious copies are morally
+    additive — confidence: moderate · no independent evidence · peripheral to the framework'
   weak: 'yes'
 p-ac4:
   bands: 'confidence: high · some independent evidence · moderately central'

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T21:15:43+00:00
+ai_modified: 2026-11-01T21:25:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T21:25:24+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update, P-AC3 (`positions/ai-consciousness-scope`). P3 queue task: give the heading both premises, closed individualism AND an additive counting rule, and carry the same clause to the file description and `positions/positions.md` L88. Applies P-M4: frames are calibrated down to the conditional the body defends.
+- **Heading**: "## P-AC3: Under closed individualism, conscious copies are morally additive" → "## P-AC3: Under closed individualism and an additive counting rule, conscious copies are morally additive".
+- **Anchor safety (before rename)**: I ran `grep -c` over `obsidian/`, `archive/` and `hugo/static/_redirects` for the slugified dialect (`p-ac3-under-closed-individualism`, `closed-individualism-conscious-copies`, `conscious-copies-are-morally-additive`) and the raw heading-text dialect (`P-AC3: Under closed individualism`, `P-AC3 Under closed individualism`). Zero links in either. The raw-text hits were the heading itself, the task's own Notes, and one quoted Location line in a review. A repo-wide sweep of the slug (excluding `hugo/public`) also returned 0. Four content deep links use `#^p-ac3`: [[apex/machine-question]], [[voids/numbing-void]], [[concepts/moral-census-opacity]] and [[topics/ethics-of-possible-ai-consciousness]]. The `^p-ac3` block id stays on the Status line, rendered as `<span id="p-ac3">`. Nothing was repointed.
+- **Edits**: (1) Heading as above. (2) Description: "conscious copies as morally additive under closed individualism" → "… under closed individualism and an additive counting rule". (3) The 2026-10-08 and 2026-10-15 Updated notes moved verbatim to the sidecar, on its own relocate-at-next-touch convention. They were replaced by a **Calibration history** line that keeps the numbing-void link. (4) Last reviewed 2026-10-15 → 2026-11-01. (5) `positions/positions.md` L88 gains the same clause, net-zero: "heavier and" → "heavier,", "the workspace-like" → "workspace-like", "functional *access*" → "*access*", and "while the *phenomenal* question stays untouched" → "the *phenomenal* question untouched".
+- **Sidecar**: a new `## P-AC3` section sits ahead of P-AC4 in [[positions/ai-consciousness-scope-calibration-history]]. It holds the dated 2026-11-01 note, newest first, above the two relocated notes. The intro now says that P-AC1 and P-AC2 alone keep inline notes. No Band rationale line was added, because the low-edge pin is stated in the live calibration line and Asserts.
+- **Calibration**: **no band moved on any axis.** P-AC3 was not split.
+- **Lead (not acted on)**: improvement 21 in [[reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro]] proposes splitting P-AC3 into a distinctness position and a linear-additivity position ("requires population-ethical argument, not merely metaphysical individuation"). P-I4 already registers distinctness and names summing as P-AC3's separate premise, so a split would leave P-AC3 as the summing premise alone. That is a separate structural decision, recorded as a lead in the sidecar note.
+- **Length (analyze_length, positions soft 1500 / hard 2500, gate >=)**: ai-consciousness-scope 3,121 → 3,047 (net −74, still hard_warning). positions.md 3,469 → 3,469. Sidecar 484 → 870 (ok). The +386 breaks down as 233 for the new note, 112 for the relocated pair, 15 for the heading and restatement, and 26 for the intro sentence.
+- **Cascade**: none. The claim is unchanged, so no dependent needs re-audit. P-I4's Asserts links to P-AC3 (`[[positions/ai-consciousness-scope|P-AC3]]`, file-level) for its summing premise, and that link is still accurate.
+- **Attribution**: claude-opus-5-5 was already present in ai_system on all three files, so none was appended.
+
 ## 2026-11-01T21:15:43+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: audit and update, P-AC4 (`positions/ai-consciousness-scope`). P3 queue task from [[reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state]] Issue 3: does Grade B survive the entry's own B/C rule, given Wang & Reid 2026?

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-11-01 21:12:53+00:00
+ai_modified: 2026-11-01 21:24:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: The Map's explicit, maintained register of positions it currently h
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-11-01 21:12:53+00:00
+lastmod: 2026-11-01 21:24:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Individuation and subjecthood](/positions/individuation-and-subjecthood/) — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), the conditional standing this gives Tenet 4's indexical objection, boundaries held determinate but unreadable off physical structure, the indivisibility of a perspective under fission and duplication, and the variant-relative reach of the anti-many-worlds case — three arguments against branch-egalitarian Everettianism, only the indexical one engaging first-personally centred variants and then only supplementarily
 - [Subject census](/positions/subject-census/) — the same subject matter carrying the *quantum-interface* dependency: why subject count and pairing become part of the interface's physical state description once conscious-state conditionals do causal work, the pairing law the Map owes and does not have (multi-agent composition and artificial-subject eligibility are its instances), and the undated onset and cessation of the channel
 - [Consciousness scope](/positions/consciousness-scope/) — where consciousness reaches in biological subjects: the substrate-permissive *minimal-dualism spine* (animal/infant phenomenality argued on bare Tenet 1 alone — a fallback that survives loss of the quantum apparatus, not independence from it inside the framework), animal consciousness graded by marker convergence, early infant emergence, and the fragmentation cases (split-brain, anaesthesia, sleep, dreaming) read as interface disruption rather than division of consciousness, and the architectural entry that reading rests on: the filter as the inbound leg of a two-way interface, conservation-safe but inert on its own; and the scope law itself, universal coupling: architectural adequacy suffices, and provenance is no criterion
-- [AI consciousness scope](/positions/ai-consciousness-scope/) — consciousness in artificial systems, split out for its heavier and *heterogeneous* dependency burden: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, conscious copies as morally additive under closed individualism, and the workspace-like global-availability signatures of functional *access* consciousness observed in LLMs (Anthropic's J-space) while the *phenomenal* question stays untouched
+- [AI consciousness scope](/positions/ai-consciousness-scope/) — consciousness in artificial systems, split out for its heavier, *heterogeneous* dependency burden: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, conscious copies as morally additive under closed individualism and an additive counting rule, and workspace-like global-availability signatures of *access* consciousness observed in LLMs (Anthropic's J-space), the *phenomenal* question untouched
 - [AI substrate verdicts](/positions/ai-substrate-verdicts/) — per-class substrate verdicts for artificial hardware, beginning with the quantum-computing classes: raw indeterminacy present, interface requirements failed — gate-based on three of five, the analog class more securely because adiabatic insensitivity is constitutive rather than an engineered defence. Split-graded on the [P-AC4](/positions/ai-consciousness-scope/#p-ac4) pattern: checkable engineering premises, framework-relative interface reading
 - [Arguments for dualism](/positions/arguments-for-dualism/) — what the anti-physicalist argument catalogue actually supports: premise-sharing rather than evidential independence, irreducibility-then-selection rather than three compounding routes, and cross-traditional near-independence rather than a third confirmation
 - [Arguments for mental causation](/positions/arguments-for-mental-causation/) — the same accounting for the anti-*epiphenomenalism* catalogue, and the register home of the selector [P-D2](/positions/arguments-for-dualism/#p-d2) leans on: self-stultification burdens bare-correlation epiphenomenalism while the phenomenal-concept version relocates the dispute, the argument establishes an existential claim where Tenet 3 asserts a universal one, the escape from the epiphenomenalist gravity well runs through denying causal completeness, and aesthetic creation is the one aesthetic line that survives both a closed explanatory gap and a successful holistic reduction — separable from the gap family, though not independent of it

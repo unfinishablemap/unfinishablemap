@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-11-01
-ai_modified: 2026-11-01 21:12:53+00:00
+ai_modified: 2026-11-01 21:24:12+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: 'Calibration audit trail for the AI-consciousness-scope positions r
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-01 21:12:53+00:00
+lastmod: 2026-11-01 21:24:12+00:00
 modified: *id001
 related_articles:
 - '[[positions/ai-consciousness-scope]]'
@@ -28,7 +28,15 @@ topics: []
 
 This is the calibration audit trail for the [AI consciousness scope positions register](/positions/ai-consciousness-scope/). **It contains no positions.** Every claim, calibration, dependency and shift condition lives in the register file; only the dated notes recording *why a band moved, or why it did not*, live here, following the convention set out in [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/).
 
-The file was opened on 2026-11-01, when the register stood at 3,126 words against the section's 2,500-word hard advisory, and an audit of [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s grade could not carry its dated note inline. [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s one earlier note is reproduced below verbatim, newest first, and the entry now indexes both from a **Calibration history** line. No **Band rationale** line was installed: the judgement the notes carry, B held and A withheld, is stated in the entry's live calibration line. The other three entries keep their notes inline until their next `/positions-evolve` touch, on the quantum-interface convention.
+The file was opened on 2026-11-01, when the register stood at 3,126 words against the section's 2,500-word hard advisory, and an audit of [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s grade could not carry its dated note inline. [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s one earlier note is reproduced below verbatim, newest first, and the entry now indexes both from a **Calibration history** line. No **Band rationale** line was installed: the judgement the notes carry, B held and A withheld, is stated in the entry's live calibration line. [P-AC3](/positions/ai-consciousness-scope/#p-ac3)'s two notes followed later the same day, at its retitle, again without a **Band rationale** line, since its calibration line and Asserts state the low-edge pin. [P-AC1](/positions/ai-consciousness-scope/#p-ac1) and [P-AC2](/positions/ai-consciousness-scope/#p-ac2) keep their notes inline until their next `/positions-evolve` touch, on the quantum-interface convention.
+
+## [P-AC3](/positions/ai-consciousness-scope/#p-ac3)
+
+Under closed individualism and an additive counting rule, conscious copies are morally additive.
+
+- **Updated 2026-11-01, heading retitled**: from "Under closed individualism, conscious copies are morally additive" to name both premises, per [P-M4](/positions/methodology-and-calibration/#p-m4), which calibrates a claim's frame (title, headers, meta-description) down to the conditional its body defends. The old title read additivity off closed individualism alone, the derivation the 2026-10-08 note below retired. The 2026-10-15 pass aligned the About bullet, calibration line and Asserts with that premise but left three summaries untouched: the heading, the file description and the [domain index](/positions/) entry. All three now carry the same clause. Before the rename, a check for heading-text links to the old heading, in both the slugified and the raw heading-text dialect, found none across `obsidian/`, `archive/` and `hugo/static/_redirects`. The four content deep links ([machine-question](/apex/machine-question/), [numbing-void](/voids/numbing-void/), [moral-census-opacity](/concepts/moral-census-opacity/), [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)) use `#^p-ac3`, whose anchor stays on the Status line. The two notes below moved here verbatim to pay for the longer title. **Lead, not acted on**: the ChatGPT 5.6 Sol Pro full-site audit ([outer-review-2026-10-20-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro/), improvement 21) proposes splitting the claim: one position for the numerical distinctness of copies, another for whether welfare or moral value "adds linearly across copies", which "requires population-ethical argument, not merely metaphysical individuation". [P-I4](/positions/individuation-and-subjecthood/#p-i4) already registers the distinctness half and names the summing as this entry's separate premise, so a split would leave [P-AC3](/positions/ai-consciousness-scope/#p-ac3) holding the summing premise alone. That is a separate structural decision. **No band moved on any axis.** Register 3,121 → 3,047 words.
+- **Updated 2026-10-15**: About bullet, calibration and Asserts close (still deriving additivity from closed individualism) aligned with the 2026-10-08 premise; [P-I4](/positions/individuation-and-subjecthood/#p-i4) named as distinctness source and freed of its dependency on this entry (it supplies the count, this entry the summing); Tenet 4 reworded to shared ground; [identity-across-transformations](/apex/identity-across-transformations/) dropped from Argued in. **Credence moderate → moderate (low edge), contested (normative)**: a composite cannot out-credence its least secure conjunct (ChatGPT §3) and the additive premise has a published denial, Piller 2026 (Claude's label). Not split: no headroom.
+- **Updated 2026-10-08**: additivity made a premise beyond [P-I1](/positions/individuation-and-subjecthood/#p-i1) distinctness; anti-aggregation defeater added, Taurek via Piller (2026), *Utilitas* 38(3), per [the numbing void](/voids/numbing-void/#where-the-map-stands). No calibration change.
 
 ## [P-AC4](/positions/ai-consciousness-scope/#p-ac4)
 
