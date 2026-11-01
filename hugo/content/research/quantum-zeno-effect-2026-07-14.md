@@ -1,16 +1,19 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_modified: 2026-11-01 13:27:50+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 concepts: []
 created: 2026-07-14
-date: '2026-07-14'
+date: '2026-11-01'
 draft: false
-lastmod: 2026-07-14 00:00:00+00:00
+lastmod: 2026-11-01 13:27:50+00:00
 related_articles: []
 title: Research Notes - The Quantum Zeno Effect
 ---
 
 # Research: The Quantum Zeno Effect
+
+> **Correction 2026-11-01**: the Stapp (2007) entry below gives "~1000 observations per ~300 ms decision window". *Mindful Universe* does not contain that figure. Its p. 127 describes a model that "uses 10 milliseconds for the time between probing actions" and says "These conditions allow the probing frequencies to be ~ 100 hertz", which is some thirty events per window. Google Books search-within on the volume returns zero hits for "1000" and "thousand", while same-round controls ("probing", "Zeno", "100") hit p. 127. The figure originated at `topics/comparing-quantum-consciousness-mechanisms` L82 and spread from there. Do not reintroduce it.
 
 **Date**: 2026-07-14
 **Search queries used**: Misra & Sudarshan 1977 JMP metadata; Itano et al. 1990 Phys Rev A trapped-ion demonstration; Kominis radical-pair quantum Zeno late-2000s; anti-Zeno Kaulakys & Gontis 1997 / Fischer-Gutiérrez-Medina-Raizen 2001; corpus grep for zeno / Misra / Sudarshan / Itano / Denton / Kominis / anti-zeno

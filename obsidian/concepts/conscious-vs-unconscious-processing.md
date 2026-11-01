@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-09-29T18:07:56+00:00
+ai_modified: 2026-11-01T13:27:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[concepts/epiphenomenalism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-23
 last_curated: null
 last_deep_review: 2026-07-25T18:48:49+00:00
@@ -244,7 +244,7 @@ The specific functions—working memory maintenance, novel combinations, spontan
 
 If consciousness interfaces with cognition through attention (as GNWT suggests), the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet locates this interface at quantum indeterminacies in attention-related neural systems. [[attention-as-interface|Voluntary attention]] gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
 
-The timing works: [[quantum-neural-timing-constraints]] documents a hierarchy from femtosecond decoherence to the 280-300ms neural decision windows. The [[stapp-quantum-mind|quantum Zeno mechanism]] doesn't require sustained coherence but operates through discrete observation events (~1000 per 300ms window), making the mechanism compatible with established neural timing.
+The timing works: [[quantum-neural-timing-constraints]] documents a hierarchy from femtosecond decoherence to the 280-300ms neural decision windows. The [[stapp-quantum-mind|quantum Zeno mechanism]] doesn't require sustained coherence but operates through discrete observations (~100 Hz; Stapp 2007, p. 127), making it compatible with established neural timing.
 
 ### No Many Worlds
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-29 18:07:56+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-01 13:27:50+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/conscious-vs-unconscious-processing/
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:48:49+00:00
-lastmod: 2026-09-29 18:07:56+00:00
+lastmod: 2026-11-01 13:27:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -247,7 +247,7 @@ The specific functions—working memory maintenance, novel combinations, spontan
 
 If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention](/concepts/attention-as-interface/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
 
-The timing works: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) documents a hierarchy from femtosecond decoherence to the 280-300ms neural decision windows. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require sustained coherence but operates through discrete observation events (~1000 per 300ms window), making the mechanism compatible with established neural timing.
+The timing works: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) documents a hierarchy from femtosecond decoherence to the 280-300ms neural decision windows. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require sustained coherence but operates through discrete observations (~100 Hz; Stapp 2007, p. 127), making it compatible with established neural timing.
 
 ### No Many Worlds
 

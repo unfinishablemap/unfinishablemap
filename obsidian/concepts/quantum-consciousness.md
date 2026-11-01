@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-11-01T00:41:15+00:00
+ai_modified: 2026-11-01T13:27:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ Even granting that the measurement problem leaves room for consciousness, specif
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the *sustained-coherence* requirement because each event is instantaneous, though each still needs a quantum state to act on.
 
-**The Zeno alternative.** If Stapp's observations must outpace decoherence, Hagan's revised scale demands 3,000 to 30,000 events per 300ms window, the lower figure the same order as Stapp's ~1000 (Stapp 2007), itself a modelling assumption. Stapp (2000) rejects that premise, holding that the effect survives when the brain state is a mixture; Georgiev (2015) replies that a mind projecting in the decoherence basis is [[process-1-specification-problem|redundant with it]]—the open crux. On either reading no concrete model supplies the events; the timing gap relocates rather than closes.
+**The Zeno alternative.** If Stapp's observations must outpace decoherence, Hagan's revised scale demands 3,000–30,000 events per 300ms window; the model Stapp describes runs two orders slower, probing every 10 ms (Stapp 2007, p. 127). Stapp (2000) rejects that premise, holding that the effect survives when the brain state is a mixture; Georgiev (2015) replies that a mind projecting in the decoherence basis is [[process-1-specification-problem|redundant with it]]—the open crux. On either reading no concrete model supplies the events; the timing gap relocates rather than closes.
 
 ## What These Theories Share
 
