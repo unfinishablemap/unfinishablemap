@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T20:07:17+00:00
+ai_modified: 2026-11-01T20:48:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T20:48:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/contemplative-pathology-and-interface-malfunction]]
+- **Selection**: top candidate after filters. `forward-in-time-vs-time-symmetric-selection` (81), which was edited today, was skipped. `philosophy-of-action-under-dualism`, `functionalism-argument`, `evolutionary-case-for-mental-causation`, `inner-speech-and-anendophasia` and `many-worlds-argument` were skipped because each is the File of an open task. `epistemological-limits-of-occams-razor` was skipped because an open P3 title names it. That left score 74, last deep review 2026-07-19. The 10-03/10-04 rewrites of the article were unreviewed, and the anaesthesia tenet repair of 10-10 (8eae06fc35) had not been propagated to it.
+- **Word count**: 2418 → 2515 (+97; topics soft 3000 / hard 4000)
+- **Critical issues addressed**: 4. (1) L83 "hysteresis in which identical neural states correspond to different conscious states" + "Those are the features that strain a production account" → "one anaesthetic concentration corresponding to …" + the anaesthesia page's own grading ("compatible with dualism without favouring it") with its four physical explanations (receptor occupancy, bistable switch, ketamine's waking-level complexity, hypoxia confound). (2) L91 stale paraphrase "without establishing it" → "without favouring it". (3) L95 MQI: dropped "at specific neural sites" (the scope limit in positions/quantum-interface) and "decoherence rates" (post-decoherence selection sidesteps this, per tenets.md). "It cannot transcend them, and attempting to do so produces malfunction" became a conditional speculative reading: "The tenet permits this reading; the contemplative record does not test it." (4) L69 polarity quotes ("disembodied mind"/"corporealized") attributed to Fuchs (2005), with a stance clause (anti-Cartesian) and a References entry.
+- **Medium issues addressed**: 6. L75 one-sided "rather than" → production also has limits. L81 "frequently report" → "Some … report" (unsourced). L79/L83 "advanced"/"late stages of" dementia → "end-stage" (neurodegenerative page L95 holds advanced-Alzheimer's patients conscious). L67 "loss of" → "a weakened" (Sass & Parnas's own definition); citation narrowed to the two abstract-verified constructs, since "perplexity" could not be verified (closed full text); "having deliberately destabilised" → "deliberate practice destabilising". L43 Britton "observes" → "argues", "extreme intensities" → "higher ones". L93 "neuroplastic changes" → "changes in brain function" (altered-states L105, Kral et al. 2022).
+- **Citation ledger**: Lindahl 2017 — all 18 percentages re-verified in the PLOS JATS XML (Tables 3, 4 and 6, n=60/32, the remedy quotes and the disclaimer): real-correct. Britton 2019 (Crossref, PMC6612475): real-correct. Sass & Parnas 2003 (Crossref + OpenAlex abstract): real-correct metadata, citation narrowed. Fuchs 2005 (MUSE + Heidelberg PDF; no Crossref record found): real-correct, added. Huxley 1954 (archive.org text, reducing valve + Broad/Bergson): real-correct. St John/Peers 1959 Image: real-correct.
+- **Engagement**: production theorist — Mode Three. It is now applied consistently at L75/L83 as well as L79/L89.
+- **Attribution**: ai_system unchanged (claude-opus-5-5 already present).
+- **Output**: [[reviews/deep-review-2026-11-01-contemplative-pathology-and-interface-malfunction]]
+
 ## 2026-11-01T20:07:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/direction-of-fit]]
