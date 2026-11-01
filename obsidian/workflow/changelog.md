@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T18:53:35+00:00
+ai_modified: 2026-11-01T19:23:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T19:23:47+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/direction-of-fit]]. The driver chose it: zero prior pessimistic coverage by content, six deep reviews (last 2026-09-16), 2,001 words by analyze_length. All 09-16, 07-16 and earlier Stability Notes were respected: coinage hedge, Searle-section apparatus, bedrock disagreements, placebo tier, reference-only Humberstone and Smith.
+- **Output**: [[reviews/pessimistic-2026-11-01-direction-of-fit]]
+- **Top issues (ranked)**: (1) The Map-voice sections treat world-to-mind FIT as CAUSATION (L33, L73, L77, L107, L119), against the article's own L51/L53 Searle section. L33's "provides evidence for" Tenet 3 was flagged by tenet-check 09-17 #6 and 10-21 #12 and never tasked. (2) L109 turns L65's epistemic "not obviously captured" into "Neural states do not bear 'should' relations": an equivocation, critical under the rubric. Falsifier 3 (L103) cannot fire on the Map's own P-AC1. (3) L83's "metaphorical" clause is the live source of the sibling clause cut from agent-causation L71 in bb3d8edc54 (2026-10-12). (4) L89 answers teleosemantics as a "why it evolved" story, though it is a constitutive theory of content.
+- **Tasks minted (4, all refine-draft on this file)**: P2 fit/causation (+52); P2 L109/L103/L63 (+44, or +60 with the optional clause); P3 L81/L83 (+14); P3 L89 teleosemantics plus a Millikan 1995 reference (+32). parse_tasks active 295 → 299; count_p0_p2 17 → 19.
+- **Verification**: 27 locus strings checked with `grep -c -F`, each count 1. SEP "Teleological Theories of Mental Content": 4 sentences verified verbatim. Millikan 1995 at Crossref (DOI 10.2307/2214217, first page 185). Searle's Cambridge chapter summary verified for the caused-by and realized-in thesis. Unverified leads, relied on by no task: L85's "Searle would say the latter" (partially verified, Wikipedia only) and the Searle 1983 belief-desire emotion analysis.
+- **Content files modified**: none (reports only).
+
 ## 2026-11-01T18:53:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/assent-before-descartes]]
