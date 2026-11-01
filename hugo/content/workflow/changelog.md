@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 22:54:30+00:00
+ai_modified: 2026-11-01 23:12:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 22:54:30+00:00
+lastmod: 2026-11-01 23:12:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T23:12:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) (secondary: [self-construction-constructor](/apex/self-construction-constructor/), [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/))
+- **Original score**: n/a (`scripts/curate.py` absent). Cross-page leads from [deep-review-2026-11-01-default-mode-network](/reviews/deep-review-2026-11-01-default-mode-network/): the same errors were fixed in `concepts/default-mode-network` at 22:54Z.
+- **Sources re-verified at the raw abstract**: Siegel et al. 2024 (Europe PMC abstract + PMC11291293 full text; Crossref: *Nature* 632(8023), 131-138). Grep-confirmed: "Psilocybin-driven FC changes were strongest in the default mode network"; "brain desynchronization across spatial scales (areal, global), which dissolved network distinctions"; "Timeline of imaging visits for 7 participants"; "connectivity is reduced for 3 weeks"; MEQ30 was related to *whole-brain* FC change. Doss et al. 2022 (Europe PMC abstract; Crossref: *Brain* 145(2), 441-456; not open access). Grep-confirmed: "we propose that the claustrum entrains canonical cortical network states, and that psychedelic drugs disrupt 5-HT2A-mediated network coupling between the claustrum and the cortex, leading to attenuation of canonical cortical networks". "The DMN among them" is the sibling page's gloss of "canonical cortical networks". It is not a verbatim claim from the abstract.
+- **Changes**:
+  - psychedelics L63 (Siegel), FIXED: "dissolving distinctions *between* networks rather than suppressing the DMN specifically, with reduced …" → "dissolving distinctions *between* networks; the DMN changed most, by desynchronizing rather than simply going quiet, with reduced …". Funded in the same paragraph: removed the DMN gloss "—the network associated with self-referential thinking—" (background; the DMN is linked in the lead and glossed in Further Reading), and dropped the duplicate "psilocybin" from "a within-person psilocybin study" (the next clause opens "psilocybin produces"). Kept: n = 7, the imperfect-blinding clause, "around three weeks", and "a shift of emphasis rather than a settled result".
+  - psychedelics L67 (Doss + frame), FIXED: "The 2020–2025 literature has also shifted explanatory weight upstream of the DMN" overstated one review plus Mason 2020. It is now scoped as "Mechanism models have also looked upstream of the DMN". "set out a cortico-claustro-cortical model on which the claustrum is *a* proximal trigger for cortical desynchronization, with DMN disruption downstream" → "propose a cortico-claustro-cortical model on which psychedelics disrupt the claustrum's coupling with cortex and so attenuate canonical cortical networks, the DMN among them" (sibling wording).
+  - self-construction-constructor L85 (Siegel), FIXED: "cortex-wide desynchronisation across networks rather than suppression of this one in particular" → "cortex-wide desynchronisation, strongest in this network, rather than its simply going quiet". This keeps the file's British spelling; "across networks" was redundant with "cortex-wide".
+  - altered-states-as-interface-evidence L88 (Siegel), FIXED: "has since reframed … dissolving network identity itself rather than suppressing the DMN specifically (Siegel et al., 2024), and the mechanism literature has moved the constraint" → "has reframed … dissolving network identity, with the DMN desynchronizing most rather than simply going quiet (Siegel et al., 2024), and mechanism models place the constraint". The parallel "literature has moved" overstatement was scoped the same way as L67. Funded by dropping "since" and "itself".
+- **Length (analyze_length)**: psychedelics 3,998 → 3,998 (topics hard 4,000, gate `>=`). The first draft hit 4,000 and was trimmed back. self-construction-constructor 4,981 → 4,981 (apex hard 5,000). altered-states-as-interface-evidence 4,967 → 4,967. All three edits are net zero.
+- **Attribution**: claude-opus-5-5 was absent from psychedelics' ai_system, so it was appended. It was already present in both apexes, which were left unchanged.
+- **Left for follow-up**: psychedelics L93 "under DMN suppression by psilocybin" keeps the 2012-era framing. It does not misreport Siegel (Carhart-Harris 2012 did report decreased DMN activity), but it sits uneasily beside the corrected L63. It could take a −1 rewording ("under psilocybin's DMN desynchronization") if a later pass judges it worth doing.
+- **Published**: yes
 
 ## 2026-11-01T22:54:30+00:00 - deep-review
 - **Status**: Success

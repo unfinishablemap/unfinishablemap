@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-09-09 00:28:41+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-01 23:12:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 15:27:38+00:00
-lastmod: 2026-09-09 00:28:41+00:00
+lastmod: 2026-11-01 23:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,11 +63,11 @@ Nothing here is evidence about the outbound leg. Psychedelics are the cluster's 
 
 ## The Neuroimaging Paradox
 
-Carhart-Harris et al. (2012) showed *decreased* DMN activity under psilocybin—the network associated with self-referential thinking—while Tagliazucchi et al. (2016) found between-network functional connectivity *increases* under LSD. Siegel et al. (2024), a within-person psilocybin study of seven participants and, like most psychedelic trials, [imperfectly blinded](/topics/clinical-evidence-quality-standards-consciousness-research/) (Muthukumaraswamy et al., 2021), reframe both findings: psilocybin produces *cortex-wide desynchronization across spatial scales*, dissolving distinctions *between* networks rather than suppressing the DMN specifically, with reduced anterior-hippocampus–DMN connectivity persisting around three weeks. Irrmischer et al. (2026) add a third drug: under DMT, self-dissolution intensity tracks shifts in oscillatory criticality *away* from the critical point. On this small, cross-drug base the picture is moving from "the DMN goes down" toward "network identity itself dissolves"—a shift of emphasis rather than a settled result.
+Carhart-Harris et al. (2012) showed *decreased* DMN activity under psilocybin while Tagliazucchi et al. (2016) found between-network functional connectivity *increases* under LSD. Siegel et al. (2024), a within-person study of seven participants and, like most psychedelic trials, [imperfectly blinded](/topics/clinical-evidence-quality-standards-consciousness-research/) (Muthukumaraswamy et al., 2021), reframe both findings: psilocybin produces *cortex-wide desynchronization across spatial scales*, dissolving distinctions *between* networks; the DMN changed most, by desynchronizing rather than simply going quiet, with reduced anterior-hippocampus–DMN connectivity persisting around three weeks. Irrmischer et al. (2026) add a third drug: under DMT, self-dissolution intensity tracks shifts in oscillatory criticality *away* from the critical point. On this small, cross-drug base the picture is moving from "the DMN goes down" toward "network identity itself dissolves"—a shift of emphasis rather than a settled result.
 
 A materialist can partly accommodate this: dissolving network identity disinhibits cross-network communication, so the brain does *different* things rather than strictly *less*. The metabolic record backs them: the state is *expensive* on FDG-PET, and a valve doing less should cost less ([the caveat in full](/concepts/filter-theory/#the-psychedelic-paradox)). The deeper puzzle for production models lies in the *structure* of what appears under desynchronization: the mystical-type cluster's cross-cultural reliability, selective access to suppressed content, and the noetic quality of insights subjects act on. Salience-amplification accounts predict intensity; they do not obviously predict why intensity should organise itself into these specific phenomenological structures.
 
-The 2020–2025 literature has also shifted explanatory weight upstream of the DMN. Doss et al. (2022), reviewing candidate mechanisms, set out a cortico-claustro-cortical model on which the claustrum is *a* proximal trigger for cortical desynchronization, with DMN disruption downstream. Mason et al. (2020) report a regional dissociation: higher medial-prefrontal glutamate was associated with *negatively* experienced ego dissolution, lower hippocampal glutamate with *positively* experienced dissolution. On this picture the constraint of conscious bandwidth looks distributed across claustrum, thalamic gating, predictive priors, and network-identity architecture rather than localised in any hub.
+Mechanism models have also looked upstream of the DMN. Doss et al. (2022), reviewing candidate mechanisms, propose a cortico-claustro-cortical model on which psychedelics disrupt the claustrum's coupling with cortex and so attenuate canonical cortical networks, the DMN among them. Mason et al. (2020) report a regional dissociation: higher medial-prefrontal glutamate was associated with *negatively* experienced ego dissolution, lower hippocampal glutamate with *positively* experienced dissolution. On this picture the constraint of conscious bandwidth looks distributed across claustrum, thalamic gating, predictive priors, and network-identity architecture rather than localised in any hub.
 
 Filter theory survives the re-description, but the specific "DMN goes down → filter loosens" inference must give way to the multilayered picture just described. Huxley's "reducing valve" maps more naturally onto *thalamic and claustral gating* than onto the DMN. The [evidential-status-discipline](/project/evidential-status-discipline/) follows: the *resolution* at which any filter sits is far less determined than 2012-era citations suggested, and nothing here supplies a filter-specific likelihood that would give the evidence a direction.
 
