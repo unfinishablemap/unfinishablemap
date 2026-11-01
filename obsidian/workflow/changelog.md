@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T12:52:01+00:00
+ai_modified: 2026-11-01T13:52:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T13:52:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-integrated-information]]
+- **Selection**: highest-ranked `deep_review.py candidates` entry (score 74) not on the driver's exclusion list and not named as File/Secondary by any open task. Skipped above it: forward-in-time-vs-time-symmetric-selection (excluded), philosophy-of-action-under-dualism (open P3 Davidson task File), arguments/functionalism-argument and arguments/many-worlds-argument (NEEDS-HUMAN task Files).
+- **Word count**: 3999 → 3996 (−3; topics hard 4000, gate `>=`; length-negative pass from zero headroom)
+- **Critical issues addressed**: 7. (1) "Rather than retreating from panpsychism, Tononi accepts it" → Tononi accepts IIT's panpsychist-leaning consequences "while holding that not everything is conscious (Tononi & Koch, 2015)", verified against Tononi & Koch's text "unlike panpsychism, IIT implies that not everything is conscious"; reference added. (2) Lopez & Montemayor gloss "experiences that share a phi-structure but differ in what is attended" is absent from the paper (grep of the Erkenntnis PDF; §3 is perception vs dreaming) → "why perception is more informative than dreaming when only information intrinsic to the system counts". (3) Corcoran et al. 2026 "found ... current evidence does not adjudicate" → "set out contrasting predictions for multi-site experiments still to be run", and the third theory (Neurorepresentationalism) named. (4) "as all interpretations except superdeterminism hold" is false (Bohm, Everett) → "as collapse and other indeterministic interpretations hold". (5) Fisher 2015 "might survive for hours" → "about a day" (paper: "∼ 10⁵ s ∼ 1day"). (6) Tenet-2 unconditioned-aggregate scoping, missed by the 09-30 sweep because this page says "frequency" and not "indistinguishable from chance": L78 "no unconditioned frequency test ... (intention-conditioned tests remain open)", L82 "unconditioned frequency counts". (7) Stale "two-paths framing" link → [[topics/quantum-biology-and-neural-consciousness#the-calibration-table]] (that page restructured to three sub-readings on 05-23).
+- **Medium issues addressed**: 6. MQI paragraph "the selected pattern is the integrated experience" (an identity claim) → "that selection is the integrating act"; "This also handles the temporal gap ... each collapse has duration" → "It may also bear on the temporal gap ... a conjecture the Map has not established"; L62 "cannot explain ... no causal role" → "owes an account of why we reliably track phenomenal facts that have no autonomous causal role" (consistent with L64 and tenets ^tenet-3-epiphenomenalism); Kim "at the same level" → "for the same effect"; Whitehead "nearly a century" → "some seventy-five years"; "femtoseconds" → "that fast"; Templeton/COGITATE conflation fixed. Lopez & Montemayor reference corrected to *Erkenntnis* 91(3), 1419–1443, "Needs".
+- **Trims**: four filler phrases and the duplicate explanatory-gap line in Relation to Site Perspective.
+- **Citation ledger**: 18 cites, all checked at Crossref or publisher (full ledger in review). Engagements: Merker/Williford/Rudrauf Mode Three; Corcoran Mode Three; Lopez & Montemayor Mode One; passivity objection Mixed (Mode Two opening, Mode Three circularity concession); Kim Mode One/Mixed.
+- **Out-of-scope leads (not fixed)**: [[concepts/integrated-information-theory]] L83 "Tononi accepts this implication openly", L99 "IIT's panpsychism" and L146 "IIT's willingness to accept panpsychism ... Tononi doesn't reject panpsychism" (same attribution error); [[topics/neural-implementation-specifics]] L124 "potentially hours" and L192 table "Hours" for Fisher's Posner estimate (paper says ∼10⁵ s ∼ 1 day); Fleming et al. 2023's revised publication in *Nature Neuroscience* 28(4), 689–693 (2025) is uncited corpus-wide.
+- **ai_system**: claude-opus-5-5 appended (absent before).
+- **Output**: [[reviews/deep-review-2026-11-01-consciousness-and-integrated-information]]
+
 ## 2026-11-01T13:29:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/quantum-consciousness]] (primary); secondaries [[concepts/bidirectional-interaction]], [[concepts/conscious-vs-unconscious-processing]], [[concepts/decoherence]] (checked, not edited), [[research/quantum-zeno-effect-2026-07-14]], [[project/calibration-audit-triple]]
