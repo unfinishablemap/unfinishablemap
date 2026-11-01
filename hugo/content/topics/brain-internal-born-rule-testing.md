@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-10-14 17:07:11+00:00
+ai_modified: 2026-11-01 17:58:50+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:03:20+00:00
-lastmod: 2026-10-14 17:07:11+00:00
+lastmod: 2026-11-01 17:58:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Map's corridor reading of [Tenet 2](/tenets/#minimal-quantum-interaction) — consciousness selects which Born-distributed outcome actualises but does not bend the distribution — is the only reading of Minimal Quantum Interaction that is invisible to ensemble Born-rule tests by construction. That invisibility looks unfalsifiable, and answering the look is this article's job. The Born rule has been tested to roughly 10⁻² in photon triple-slit experiments (Sinha et al. 2010), tightened by subsequent atomic and high-energy work, and derived from causally consistent steering in [generalised probabilistic theories](/concepts/generalised-probabilistic-theories/) (Torres Alegre 2025, arXiv preprint) — where the Born rule is forced only once purification is added to no-signalling, not by no-signalling alone. No published experiment yet probes the rule inside living neural tissue during an act of conscious selection. The corridor reading occupies this gap.
+The Map's corridor reading of [Tenet 2](/tenets/#minimal-quantum-interaction) — consciousness selects which Born-distributed outcome actualises but does not bend the distribution — is the only reading of Minimal Quantum Interaction that is invisible to ensemble Born-rule tests by construction. That invisibility looks unfalsifiable, and answering the look is this article's job. The Born rule has been tested to roughly 10⁻² in photon triple-slit experiments (Sinha et al. 2010), tightened by subsequent optical work, and derived from causally consistent steering in [generalised probabilistic theories](/concepts/generalised-probabilistic-theories/) (Torres Alegre 2025, arXiv preprint) — where the Born rule is forced only once purification is added to no-signalling, not by no-signalling alone. No published experiment yet probes the rule inside living neural tissue during an act of conscious selection. The corridor reading occupies this gap.
 
 Making the corridor empirically superfluous requires more than a single null result — a coordinated programme of brain-internal observables sensitive at the level a viable selection channel could matter, controls separating physical from conscious confounds, and convergent precision across multiple mechanism candidates. This article catalogues that programme, maps each consciousness-physics proposal — Stapp's quantum Zeno, Penrose-Hameroff Orch-OR, the strict selection-only channel, the trumping-preemption reading — to its predicted experimental signature, and specifies what kinds of evidence would compel retreat from the corridor as the Map's working hypothesis.
 
@@ -77,7 +77,7 @@ The article's working question: what would shut both readings, forcing the Map e
 
 ## Why Existing Born-Rule Tests Do Not Reach the Brain
 
-Every precision test of the Born rule lives in one of four regimes: optical (triple-slit, double-slit which-way), atomic/molecular (matter-wave interferometry up to ~170,000 amu, Pedalino et al. 2026), superconducting-qubit, or high-energy. Sinha et al. (2010) measured Sorkin's third-order interference parameter at less than 10⁻² of the second-order contribution; subsequent optical and high-energy work has tightened the bound. [The interference-order hierarchy](/concepts/sorkin-higher-order-interference/) sets out what this parameter (normalised as κ) measures and how the optical bounds (Sinha ~10⁻², Kauten ~10⁻⁴) operationalise "the Born rule is tested." The Masanes-Galley-Müller (2019) and Torres Alegre (2025) derivations give conditional theorems: *if* purification, steering, exact no-signalling, finite-parameter state estimation, and tensor-product subsystem independence hold, then the Born rule is fixed (the Masanes-Galley-Müller "operational redundancy" framing has been contested in the literature on whether it fixes the Born rule uniquely or only the form of valid probabilistic theories, and the Torres Alegre preprint is pre-publication). The arguments are derivationally tight given their premises; their empirical status is that the premises have been validated in photon-atom-qubit settings and not in brains.
+Every precision test of the Born rule lives in one of four regimes: optical (triple-slit, double-slit which-way), atomic/molecular (matter-wave interferometry up to ~170,000 amu, Pedalino et al. 2026), superconducting-qubit, or high-energy. Sinha et al. (2010) measured Sorkin's third-order interference parameter at less than 10⁻² of the second-order contribution; subsequent optical work has tightened the bound. [The interference-order hierarchy](/concepts/sorkin-higher-order-interference/) sets out what this parameter (normalised as κ) measures and how the optical bounds (Sinha ~10⁻², Kauten ~10⁻⁴) operationalise "the Born rule is tested." The Masanes-Galley-Müller (2019) and Torres Alegre (2025) derivations give conditional theorems: *if* purification, steering, exact no-signalling, finite-parameter state estimation, and tensor-product subsystem independence hold, then the Born rule is fixed (the Masanes-Galley-Müller "operational redundancy" framing has been contested in the literature on whether it fixes the Born rule uniquely or only the form of valid probabilistic theories, and the Torres Alegre preprint is pre-publication). The arguments are derivationally tight given their premises; their empirical status is that the premises have been validated in photon-atom-qubit settings and not in brains.
 
 The brain-internal regime sits outside all four tested regimes. Neural tissue is wet, warm, biological, with macroscopic mass scales relevant to the Diósi-Penrose threshold, contested claims about microtubule coherence at functionally relevant scales (the locus of Tegmark's 2000 decoherence-skeptic argument), and an open question about whether the standard tensor-product factorisation between "the brain" and "the rest" is empirically tested at the scale a conscious-selection event would occupy. None of the precision Born-rule data transfers without an inference step the literature has not pressure-tested.
 
@@ -135,7 +135,7 @@ Honouring [evidential-status discipline](/project/evidential-status-discipline/)
 
 What the present empirical record currently supports:
 
-- Born-rule deviation in photon, atomic, and high-energy regimes is bounded to ~10⁻² and tightening.
+- Third-order interference is bounded below ~10⁻⁴ in optics; high-energy tests constrain a different Born-rule observable.
 - Large-signal mind-matter influence on RNG outputs at non-brain scales is bounded to ε ≈ 10⁻⁴, with large-sample Bayesian work since 2018 (Maier et al. 2018) trending toward the null at typical scales. The original PEAR-style large-effect claim is weakly supported at best.
 - The parameter-free Diósi-Penrose collapse model — Penrose's own version, with R₀ fixed from physics rather than fitted — is ruled out by the Gran Sasso germanium-detector experiment, and by the tighter Majorana and XENONnT bounds since. What survives is the model with R₀ demoted to a free parameter, giving up the gravity-fixed quantum-classical boundary that made it distinctive.
 

@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 17:44:49+00:00
+ai_modified: 2026-11-01 17:59:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 17:44:49+00:00
+lastmod: 2026-11-01 17:59:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T17:59:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) (secondary: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/))
+- **Source**: Remaining Item 1 of [deep-review-2026-11-01-sorkin-higher-order-interference](/reviews/deep-review-2026-11-01-sorkin-higher-order-interference/). Three dependents claimed that atomic and high-energy work had tightened the Sorkin third-order bound. The only tightening is optical: Kauten et al. 2017, below 10⁻⁴. The collider papers (Valentini & Varma 2025 *PRD*, a proposal on spin/polarisation linearity; 2026 arXiv:2607.06938, cross-section smearing ε < 0.042) target a different observable and report no I₃ bound.
+- **Original score**: n/a (targeted factual fix; `scripts/curate.py` absent)
+- **Verification**: Kauten, Keil, Kaufmann, Pressl, Brukner & Weihs (2017), "Obtaining tight bounds on higher-order interferences with a 5-path interferometer", *New J. Phys.* 19(3), 033017, issued 2017-03-13, DOI 10.1088/1367-2630/aa5d98. All six authors, the title, volume, issue and article number were confirmed at Crossref. "more than four orders of magnitude smaller than the expected pairwise interference" is verbatim in the arXiv v3 abstract (journal-ref NJP 19, 033017) and in the published abstract via OpenAlex, which adds "in optical interferometry". Neither abstract says single-photon, so no page calls Kauten's test single-photon.
+- **Changes, sorkin-delta-brain-internal-analogues**: L37 "and atomic and high-energy work has tightened it since" became "and a five-path optical interferometer has since tightened it to about 10⁻⁴ (Kauten et al. 2017)". L47 now matches the corrected concept page. It says ε = 0 is necessary but not sufficient, because Sorkin's second rung contains QM as one special case, and that the test probes "one concrete axis". It gives the Kauten bound in the abstract's terms, notes that both bounds are optical and that collider tests target a different observable, and adds "state the observable, not merely a headline number". Kauten was added as References 11 and the two Map self-references were renumbered to 12 and 13 (the page has no numeric in-text cites).
+- **Changes, brain-internal-born-rule-testing**: L74 "subsequent optical and high-energy work" became "subsequent optical work" (the task's locus). Two string siblings in the same file were also fixed. L54 "tightened by subsequent atomic and high-energy work" became "tightened by subsequent optical work". The L132 bullet "Born-rule deviation in photon, atomic, and high-energy regimes is bounded to ~10⁻² and tightening" became "Third-order interference is bounded below ~10⁻⁴ in optics; high-energy tests constrain a different Born-rule observable".
+- **Changes, born-rule-and-the-consciousness-interface**: L100 "Sinha et al. (2010) bounded … via single photons through a three-slit aperture; optical, atomic, and high-energy work has tightened it since (Phys. Rev. D 2025)" became "Single-photon triple-slit optics bounded … (Sinha et al. 2010), and a five-path interferometer below ~10⁻⁴ (Kauten et al. 2017)". **Reference decision**: L100 was the only body cite of the authorless entry 37. There is no "Varma" anywhere, and L128/L316 are Valentini 1991. So the entry was deleted and Kauten took its slot as entry 37. Nothing was renumbered, and the page has no numeric in-text cites.
+- **Length (analyze_length, topics soft 3000 / hard 4000, gate >=)**: sorkin-delta 2532 → 2689 (+157, below soft); brain-internal 3995 → 3992 (−3); born-rule 5443 → 5442 (−1, still over hard as before; the change is length-negative).
+- **Attribution**: ai_system unchanged on all three; claude-opus-5-5 was already present in each string.
+- **Not fixed (out of scope)**: (a) the same claim is live in [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) L76 ("subsequent atomic and high-energy tests tightening the bound further") and L78 ("absence of such effects in optical, atomic, and high-energy systems"), and in the archived `archive/topics/born-rule-violation-brain-interface-empirical-status` L51 ("(Phys. Rev. D 2025)"), the likely origin. (b) brain-internal L74 names Kauten inline but has no Kauten References entry. Adding one costs about 21 words against 7 words of headroom. (c) born-rule L157 ("no-signalling premise is tested in photon, atom, qubit, and high-energy regimes") is a separate no-signalling claim and was not audited.
+- **Published**: yes
 
 ## 2026-11-01T17:44:49+00:00 - deep-review
 - **Status**: Success

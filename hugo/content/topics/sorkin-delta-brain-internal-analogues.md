@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-09-25 23:49:03+00:00
+ai_modified: 2026-11-01 17:58:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-25 23:49:03+00:00
-lastmod: 2026-09-25 23:49:03+00:00
+lastmod: 2026-11-01 17:58:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ topics:
 - '[[born-rule-and-the-consciousness-interface]]'
 ---
 
-The cleanest precision test of the Born rule is the triple-slit experiment: with three paths open, quantum mechanics forbids any genuinely three-way interference term, so the deviation parameter [Sorkin (1994) defined](/concepts/sorkin-higher-order-interference/) — the residue left after subtracting all the two-slit and one-slit patterns from the three-slit pattern — must vanish. Sinha et al. (2010) bounded that residue below 10⁻² of the second-order interference contribution in single-photon optics, and atomic and high-energy work has tightened it since. The Map's [corridor reading of Tenet 2](/topics/brain-internal-born-rule-testing/) names a brain-internal analogue of Sorkin's Δ as the cleanest kind of experiment that would test consciousness-mediated selection inside the brain — but it leaves the design unspecified, and so does the rest of the literature. **No brain-internal Sorkin-Δ analogue exists in published-protocol form.** This article is the design space for one: what such a test would have to look like, why translating the optical experiment to neural tissue is harder than it sounds, which candidate brain-internal observables could in principle carry a Δ-like quantity, and what precision in each would constrain which consciousness-physics proposal.
+The cleanest precision test of the Born rule is the triple-slit experiment: with three paths open, quantum mechanics forbids any genuinely three-way interference term, so the deviation parameter [Sorkin (1994) defined](/concepts/sorkin-higher-order-interference/) — the residue left after subtracting all the two-slit and one-slit patterns from the three-slit pattern — must vanish. Sinha et al. (2010) bounded that residue below 10⁻² of the second-order interference contribution in single-photon optics, and a five-path optical interferometer has since tightened it to about 10⁻⁴ (Kauten et al. 2017). The Map's [corridor reading of Tenet 2](/topics/brain-internal-born-rule-testing/) names a brain-internal analogue of Sorkin's Δ as the cleanest kind of experiment that would test consciousness-mediated selection inside the brain — but it leaves the design unspecified, and so does the rest of the literature. **No brain-internal Sorkin-Δ analogue exists in published-protocol form.** This article is the design space for one: what such a test would have to look like, why translating the optical experiment to neural tissue is harder than it sounds, which candidate brain-internal observables could in principle carry a Δ-like quantity, and what precision in each would constrain which consciousness-physics proposal.
 
 Everything that follows describes a *design space* — what a test would need, not a programme that exists or has produced results. None of the candidate observables below has been measured in the configuration this article specifies. Treating any of them as already-collected evidence would violate the [evidential-status discipline](/project/evidential-status-discipline/) this article is written to honour.
 
@@ -50,7 +50,7 @@ In the optical triple-slit experiment a single photon encounters three slits, la
 
 ε ∝ P_ABC − (P_AB + P_AC + P_BC) + (P_A + P_B + P_C).
 
-Standard quantum mechanics, because probabilities come from squared sums of complex amplitudes, predicts ε = 0 exactly: a three-path amplitude is a sum of three terms, and squaring it produces only pairwise cross-terms, never a genuine triple. A non-zero ε would signal probability assignment outside the Born rule — a higher-order interference the quantum formalism cannot generate. Sinha et al. (2010) measured ε normalised against the second-order interference and found it consistent with zero at the 10⁻² level.
+Standard quantum mechanics, because probabilities come from squared sums of complex amplitudes, predicts ε = 0 exactly: a three-path amplitude is a sum of three terms, and squaring it produces only pairwise cross-terms, never a genuine triple. A non-zero ε would signal probability assignment outside the Born rule — a higher-order interference the quantum formalism cannot generate. The converse does not hold: ε = 0 is a necessary condition for the Born rule rather than a sufficient one, since Sorkin's second rung, every member of which gives ε = 0, contains quantum mechanics as one special case. The test probes one concrete axis through the space of possible probability laws. Sinha et al. (2010) measured ε normalised against the second-order interference and found it consistent with zero at the 10⁻² level; Kauten et al. (2017) used a five-path optical interferometer to push the bound to more than four orders of magnitude below the expected pairwise interference. Both bounds are optical. Collider tests of Born-rule linearity target a different observable and set no third-order bound, so a claim about the tested regime must state the observable, not merely a headline number ([the interference-order hierarchy](/concepts/sorkin-higher-order-interference/) keeps the two apart).
 
 Three features make this test clean, and all three are exactly what the brain lacks. First, the experimenter controls which paths are open — slits can be physically blocked one at a time. Second, the paths are *phase-coherent*: the photon's amplitude is well-defined across all three apertures simultaneously, which is what allows interference at all. Third, the detector cleanly distinguishes outcomes (a click here versus there) with negligible classical confound. The optical Sorkin-Δ is a probe of amplitude structure, not of probability frequencies as such — it works because the amplitudes coherently interfere before any measurement.
 
@@ -118,5 +118,6 @@ Tenet 4 (No Many Worlds) is the presupposition that makes a Δ-analogue's questi
 8. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics* 17: 74–78.
 9. Gildert, S. (2025). *Consciousness in the Quantum Realm*. Nirvanic Consciousness Technologies.
 10. Stapp, H. P. (n.d.). Selected works. Lawrence Berkeley National Laboratory. https://www-physics.lbl.gov/~stapp/
-11. Southgate, A. & Oquatre-sept, C. (2026-05-14). Brain-Internal Born-Rule Testing — What Would Make the Corridor Empirically Superfluous. *The Unfinishable Map*. https://unfinishablemap.org/topics/brain-internal-born-rule-testing/
-12. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
+11. Kauten, T., Keil, R., Kaufmann, T., Pressl, B., Brukner, Č., & Weihs, G. (2017). Obtaining tight bounds on higher-order interferences with a 5-path interferometer. *New Journal of Physics* 19(3): 033017. https://doi.org/10.1088/1367-2630/aa5d98
+12. Southgate, A. & Oquatre-sept, C. (2026-05-14). Brain-Internal Born-Rule Testing — What Would Make the Corridor Empirically Superfluous. *The Unfinishable Map*. https://unfinishablemap.org/topics/brain-internal-born-rule-testing/
+13. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/

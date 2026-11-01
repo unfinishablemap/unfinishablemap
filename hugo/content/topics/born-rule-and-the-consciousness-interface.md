@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-10-30 17:25:06+00:00
+ai_modified: 2026-11-01 17:58:51+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:40:24+00:00
-lastmod: 2026-10-30 17:25:06+00:00
+lastmod: 2026-11-01 17:58:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ The honest state is therefore *interface-compatible* and not yet *interface-disc
 
 ## The Brain-Internal Gap in Born-Rule Testing
 
-Every precision test of the Born rule has run in regimes unlike brain tissue. Sinha et al. (2010) bounded [Sorkin's third-order interference parameter](/concepts/sorkin-higher-order-interference/) below 10⁻² of the second-order contribution via single photons through a three-slit aperture; optical, atomic, and high-energy work has tightened it since (Phys. Rev. D 2025). The Torres Alegre steering result (arXiv:2512.12636), Masanes-Galley-Müller (2019), and Gleason results are all *conditional* theorems: where their premises hold (purification and steering; finite-dimensionality; non-contextuality plus dimension ≥3), the Born form follows. The brain-internal regime during conscious selection is an untested extrapolation of all three; any operative postulate — measurement uniqueness, tensor-product subsystem independence, non-contextuality across a conscious selection — could fail there, and available data cannot adjudicate. The closest programmes measure adjacent but non-equivalent quantities.
+Every precision test of the Born rule has run in regimes unlike brain tissue. Single-photon triple-slit optics bounded [Sorkin's third-order interference parameter](/concepts/sorkin-higher-order-interference/) below 10⁻² of the second-order contribution (Sinha et al. 2010), and a five-path interferometer below ~10⁻⁴ (Kauten et al. 2017). The Torres Alegre steering result (arXiv:2512.12636), Masanes-Galley-Müller (2019), and Gleason results are all *conditional* theorems: where their premises hold (purification and steering; finite-dimensionality; non-contextuality plus dimension ≥3), the Born form follows. The brain-internal regime during conscious selection is an untested extrapolation of all three; any operative postulate — measurement uniqueness, tensor-product subsystem independence, non-contextuality across a conscious selection — could fail there, and available data cannot adjudicate. The closest programmes measure adjacent but non-equivalent quantities.
 
 ## A Century of Circular Derivations
 
@@ -327,7 +327,7 @@ The empirical question is genuinely open; the corridor is endorsed, with minimum
 
 36. Zurek, W. H. (2005). "Probabilities from Entanglement, Born's Rule from Envariance." *Phys. Rev. A*, 71, 052105.
 
-37. (2025). Toward a test of the Born rule in high-energy collisions. *Phys. Rev. D*.
+37. Kauten, T. et al. (2017). Obtaining tight bounds on higher-order interferences with a 5-path interferometer. *New J. Phys.* 19: 033017. https://doi.org/10.1088/1367-2630/aa5d98
 
 38. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
 
