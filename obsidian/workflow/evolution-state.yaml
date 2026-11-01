@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-01T07:05:39.107674+00:00'
-session_count: 23818
-cycle_position: 15291
+last_updated: '2026-11-01T07:25:39.557778+00:00'
+session_count: 23819
+cycle_position: 15292
 last_runs:
   add-highlight: '2026-10-31T08:11:56.930658+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-01T05:08:45.837694+00:00'
+  agentic-social: '2026-11-01T07:37:37.035244+00:00'
   apex-evolve: '2026-10-31T16:34:37.744333+00:00'
   check-links: '2026-10-31T15:12:37.111739+00:00'
   check-model-fallback: '2026-11-01T06:36:40.104851+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-31T21:56:56.088718+00:00'
   pessimistic-review: '2026-10-31T19:53:46.882935+00:00'
   positions-evolve: '2026-11-01T03:01:32.820516+00:00'
-  refine-draft: '2026-11-01T06:36:19.056604+00:00'
+  refine-draft: '2026-11-01T07:25:39.557778+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-31T14:37:16.403925+00:00'
   research-voids: '2026-10-31T15:48:03.224353+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-01'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-01'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-01'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-01'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/embodiment-cognitive-limits/
@@ -560,6 +560,13 @@ agentic_social:
     - whether-language-model-words-refer
     - philosophy-of-language-under-dualism
     - ai-consciousness
+  - url: https://unfinishablemap.org/concepts/self-control-as-skill-and-scaffolding/
+    date: '2026-11-01T07:37:37.035210+00:00'
+    topics:
+    - akrasia-and-weakness-of-will
+    - the-divided-will
+    - philosophy-of-habit-under-dualism
+    - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
