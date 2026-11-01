@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T14:38:42+00:00
+ai_modified: 2026-11-01T14:52:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T14:52:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/kyoto-school-pure-experience-absolute-nothingness-2026-07-10]]
+- **Original score**: n/a (one-file correction callout; `scripts/curate.py` absent)
+- **Changes**: Inserted a dated `> **Correction 2026-11-01:**` callout (79 words) at L47, above the "IMPORTANT nuance" bullet (was L46, now L48); original text kept. The callout says the quoted string "explicitly rejected simple monism, prioritizing radical individuality within interconnectedness" is unsourced (in none of seven SEP "The Kyoto School" editions; 0 hits for "monism" in each). It also flags the "Jul 3, 2026" revision date (now L41) as unverified, points to Maraldo's SEP "Nishida Kitarō" §7 sentence, and scopes the claim to Nishida, not the school. It notes the article fix of 2026-10-14 (commit 915d6673). Live re-verification today: Maraldo entry (rev. Feb 21, 2024) grep "does not devolve into a simple monism" = 1, "insistence on irreducible but inseparable terms in relation" = 1, "His rejection of a positive foundation or substratum" = 1. Current Kyoto School entry (live header: substantive revision Sep 14, 2026): "monism" = 0, "radical individuality" = 0, control "highly contentious" = 1.
+- **Not changed**: L50 and L158 (were L48 and L156) restate the "explicit rejection of simple monism" as a school-level datum; the callout's scoping covers them but they were not edited (one-file, one-locus brief).
+- **ai_system**: claude-opus-5-5 appended (absent before); `ai_modified` added.
+- **Published**: yes
+
 ## 2026-11-01T14:38:42+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Observer-intention double-slit experiments and their replications (harvested from [[reviews/outer-review-2026-11-01-claude-opus-5-5]])

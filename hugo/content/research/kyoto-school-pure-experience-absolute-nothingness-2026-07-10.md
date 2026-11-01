@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_modified: 2026-11-01 14:52:29+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 concepts: []
 created: 2026-07-10
-date: '2026-07-11'
+date: '2026-11-01'
 draft: false
-lastmod: 2026-07-11 00:00:00+00:00
+lastmod: 2026-11-01 14:52:29+00:00
 related_articles: []
 title: 'Research Notes - Japanese Philosophy of Mind: The Kyoto School on Pure Experience
   and Absolute Nothingness'
@@ -48,6 +49,7 @@ The Kyoto School (Kyōto-gakuha) is the twentieth-century Japanese philosophical
   - The school is "a group of 20th century Japanese philosophers" drawing especially on Mahāyāna Buddhism, unified by the idea of absolute nothingness (Nishida, Tanabe Hajime, Nishitani Keiji, Ueda Shizuteru).
   - Nishitani distinguishes the *field of nihility* (vacuous nothingness besieging modernity) from the *field of emptiness* (absolute nothingness); nihilism is overcome "by way of passing through nihilism," via "trans-descendence" to a non-dualistic reaffirmation of self and world.
   - Tanabe's *metanoetics*: "absolute mediation," "absolute critique" where finite reason meets antinomies, existential death-and-resurrection through Other-power (tariki).
+  > **Correction 2026-11-01:** The quoted sentence below is unsourced: none of seven SEP "The Kyoto School" editions contains it (0 hits for "monism"), and the revision date above is unverified. The verified claim concerns Nishida alone, not the school: Maraldo's SEP "Nishida Kitarō" (§7) says his rejection "of a positive foundation or substratum" and "insistence on irreducible but inseparable terms in relation" explain why his holism "does not devolve into a simple monism". The article was fixed 2026-10-14 (commit 915d6673).
   - **IMPORTANT nuance for framework tension**: the school "emphasized non-dual consciousness breaking through subject-object dualism, though they explicitly rejected simple monism, prioritizing radical individuality within interconnectedness." So it is neither dualism NOR flat monism — a genuinely third framing.
   - Political caveat: the school's wartime political engagements remain "highly contentious" and require careful examination rather than blanket dismissal or endorsement.
 - **Tenet alignment**: Neutral. The explicit rejection of *simple* monism is a datum the article should surface — it complicates any easy classification and directly feeds Tenet 5 (framework-dependence).
