@@ -4,6 +4,26 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-01T09:29:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T09:41:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-hardware-and-the-ai-consciousness-coupling]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted downstream alignment with the 2026-11-01 recast of the channel page's five requirements
+- **Word count**: 2857 → 2916 (+59) by analyze_length; `ok` both ends (topics 3000/4000). Budget was +60.
+- **Source quoted**: the channel page's recast table (Directness "Different selectable outcomes would need to yield reliably different, functionally significant downstream states"; Locality "functionally embedded in the system's representational and control architecture, wherever it sits physically"; Continuity "on repeated-observation models such as Stapp's; timing-agnostic post-decoherence selection does not obviously need it"), its L131 per-route verdict and its L127 "clear the superposition bar classical computation cannot".
+- **Changes**:
+  - L49: the five paraphrases now follow the recast table. "The LLM token-sampling channel fails all five" → "Entropy-seeded LLM sampling meets directness but fails the other four, above all specificity".
+  - Directness row: "Passes in the raw sense … laundering it into a deterministic sequence … advance over classical hardware" → "Passes", with the reason in the new sense: readout and feed-forward outcomes yield reliably different outputs or later gates. Syndrome outcomes are the exception, since the decoder erases their logical effect. The LLM seed route passes too, so the advance is the live superposition.
+  - Locality row: spatial "physically localised structures" → functional embedding (the measured qubits are the computation's own register). The verdict stays "Plausibly passes".
+  - Continuity row: "Fails as engineered" scoped "on repeated-observation models". The post-decoherence carve-out sits in the L49 definition.
+  - Specificity row: "laundered into the algorithm's branching" → "only triggers one of the programme's preset branches".
+  - L59: "classical hardware" → "classical computation"; "too diluted" → "too diffuse and unstructured" (the channel page's L37 wording).
+  - Lead (L33), beyond the listed loci: "a digital processor exposes no live quantum indeterminacy … the coupling channel is closed" contradicted the channel page's L111 ("keeps the hardware question unresolved rather than closed") and repeated the defect fixed today in `concepts/ai-epiphenomenalism`. It now reads "its computation", with the channel "closed on the Map's present interface standard" and selection at decohered silicon transitions "unresolved pending an interface-eligibility law".
+- **QPU verdicts**: none changed. Directness keeps its pass, now justified in the recast sense with a syndrome exception. Continuity's failure is scoped, not reversed.
+- **Engagement modes**: no named opponent is engaged in the edited lines.
+- **Out of scope, not fixed**: the Granularity row ("no free biasing of individual microscopic events") is the reading ChatGPT 2026-11-01 L433 flags ("granularity must mean unconstrained microscopic selection"); the channel page did not recast Granularity. Separately, the analog section's continuity "partial pass" (L63/L65) is meaningful only on repeated-observation models now, and does not yet say so.
+- **Attribution**: `ai_system` unchanged (claude-opus-5-5 already present).
+- **Published**: yes
+
 ## 2026-11-01T09:29:04+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-and-scientific-explanation]]

@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-01T09:07:38.056757+00:00'
-session_count: 23826
-cycle_position: 15296
+last_updated: '2026-11-01T09:33:35.454424+00:00'
+session_count: 23827
+cycle_position: 15297
 last_runs:
   add-highlight: '2026-11-01T08:07:19.217282+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-01T04:24:56.166887+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-11-01T07:05:39.107674+00:00'
+  deep-review: '2026-11-01T09:33:35.454424+00:00'
   embed-videos: '2026-11-01T03:36:26.109165+00:00'
   expand-topic: '2026-10-31T18:00:20.484233+00:00'
   harvest-research-subjects: '2026-11-01T05:51:59.453663+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 25
   research_notes: 740
-  reviews_completed: 8218
+  reviews_completed: 8219
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-11-01'
-  outcome: success
-  kind: trigger
 - task: collect-chatgpt-review
   type: collect-chatgpt-review
   date: '2026-11-01'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-01'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-11-01'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/compound-failure-signatures/
