@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-07-16 03:24:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-11-01 17:44:49+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
 - '[[channel-class-taxonomy]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-07-16 03:24:00+00:00
+lastmod: 2026-11-01 17:44:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -168,4 +168,4 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the hierarc
 6. Magaña-Loaiza, O. S., et al. (2016/2017). Exotic looped trajectories of photons in three-slit interference. *Nature Communications*, 8, 13987. (verify author list)
 7. "Many-particle interference to test Born's rule." (2020). *Physical Review Research*, 2, 012051(R). (verify first author — likely Pfister et al.)
 8. Radonjić, M., et al. (2023). Experimental higher-order interference in a nonlinear triple slit. *Physical Review A*. arXiv:2112.06965. (verify)
-9. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
+9. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(4), 885–893.

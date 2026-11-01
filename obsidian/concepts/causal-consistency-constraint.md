@@ -4,7 +4,7 @@ description: "Torres Alegre's no-signalling result fixes the Born rule's form fo
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-10-30T12:52:56+00:00
+ai_modified: 2026-11-01T17:44:49+00:00
 last_deep_review: 2026-08-26T23:52:46+00:00
 draft: false
 topics:
@@ -119,7 +119,7 @@ The constraint connects to the Map's [[tenets|foundational commitments]] without
 1. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. *arXiv:2512.12636*. https://arxiv.org/abs/2512.12636 (arXiv preprint, not yet peer-reviewed).
 2. Masanes, L., Galley, T., & Müller, M. P. (2019). The Measurement Postulates of Quantum Mechanics Are Operationally Redundant. *Nature Communications*, 10(1), 1361.
 3. Agrawal, G. & Wilson, M. (2025). Deriving the Generalised Born Rule from First Principles. *arXiv:2511.21355*.
-4. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
+4. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(4), 885–893.
 5. Deutsch, D. (1999). Quantum Theory of Probability and Decisions. *Proceedings of the Royal Society A*, 455(1988), 3129–3137.
 6. Wallace, D. (2003). Everettian Rationality: Defending Deutsch's Approach to Probability in the Everett Interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415–439.
 7. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.

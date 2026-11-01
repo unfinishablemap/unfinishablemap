@@ -3,7 +3,7 @@ title: "Research Notes - Generalised Probabilistic Theories and the Born Rule"
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-07-16T02:58:37+00:00
+ai_modified: 2026-11-01T17:44:49+00:00
 draft: false
 description: "Research on the generalised probabilistic theories (GPT) framework, the reconstruction programme, and how the Born rule appears within the landscape of possible theories — groundwork for a concepts/ home for a framework the Map currently defines only inline."
 topics:
@@ -16,7 +16,7 @@ related_articles:
   - "[[brain-internal-born-rule-testing]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-07-16
 last_curated:
 last_deep_review:
@@ -197,4 +197,4 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the three-i
 6. Plávala, M. (2023). General probabilistic theories: An introduction. *Physics Reports*, 1033, 1–64. *arXiv:2103.07469*. https://arxiv.org/abs/2103.07469
 7. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. *arXiv:2512.12636*. https://arxiv.org/abs/2512.12636 (preprint, not peer-reviewed).
 8. Causal Rigidity of Born-Type Probability Rules in Infinite-Dimensional Operational Theories (2026). *arXiv:2602.09056*. https://arxiv.org/abs/2602.09056 (preprint — verify authorship/details before citing).
-9. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
+9. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(4), 885–893.

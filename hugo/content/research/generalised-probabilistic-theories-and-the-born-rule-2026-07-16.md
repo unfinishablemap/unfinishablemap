@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-07-16 02:58:37+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-11-01 17:44:49+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
 - '[[causal-consistency-constraint]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-07-16 02:58:37+00:00
+lastmod: 2026-11-01 17:44:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -202,4 +202,4 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the three-i
 6. Plávala, M. (2023). General probabilistic theories: An introduction. *Physics Reports*, 1033, 1–64. *arXiv:2103.07469*. https://arxiv.org/abs/2103.07469
 7. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. *arXiv:2512.12636*. https://arxiv.org/abs/2512.12636 (preprint, not peer-reviewed).
 8. Causal Rigidity of Born-Type Probability Rules in Infinite-Dimensional Operational Theories (2026). *arXiv:2602.09056*. https://arxiv.org/abs/2602.09056 (preprint — verify authorship/details before citing).
-9. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
+9. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(4), 885–893.

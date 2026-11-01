@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-10-30 12:52:56+00:00
+ai_modified: 2026-11-01 17:44:49+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 23:52:46+00:00
-lastmod: 2026-10-30 12:52:56+00:00
+lastmod: 2026-11-01 17:44:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -123,7 +123,7 @@ The constraint connects to the Map's [foundational commitments](/tenets/) withou
 1. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. *arXiv:2512.12636*. https://arxiv.org/abs/2512.12636 (arXiv preprint, not yet peer-reviewed).
 2. Masanes, L., Galley, T., & Müller, M. P. (2019). The Measurement Postulates of Quantum Mechanics Are Operationally Redundant. *Nature Communications*, 10(1), 1361.
 3. Agrawal, G. & Wilson, M. (2025). Deriving the Generalised Born Rule from First Principles. *arXiv:2511.21355*.
-4. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
+4. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(4), 885–893.
 5. Deutsch, D. (1999). Quantum Theory of Probability and Decisions. *Proceedings of the Royal Society A*, 455(1988), 3129–3137.
 6. Wallace, D. (2003). Everettian Rationality: Defending Deutsch's Approach to Probability in the Everett Interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415–439.
 7. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.

@@ -4,7 +4,7 @@ description: "Reality has two irreducible aspects — structure (physics) and ac
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-10-30T08:41:16+00:00
+ai_modified: 2026-11-01T17:44:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,7 +169,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
 7. Cutter, B. (2019). Against the Middle Ground: Why Russellian Monism Is Unstable. *Analytic Philosophy*, 60(2), 109-129.
 8. Le Bihan, B. (2019). Aspects in Dual-Aspect Monism and Panpsychism: A Rejoinder to Benovsky. *Philosophical Investigations*, 42(2), 186-201.
-9. Gleason, A.M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885-893.
+9. Gleason, A.M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(4), 885-893.
 10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 11. Southgate, A. & Oquatre-six, C. (2026-01-16). Psychophysical Laws and Coupling. *The Unfinishable Map*. https://unfinishablemap.org/concepts/psychophysical-laws/
 12. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/

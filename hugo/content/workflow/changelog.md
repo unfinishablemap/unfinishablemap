@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 17:23:58+00:00
+ai_modified: 2026-11-01 17:44:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 17:23:58+00:00
+lastmod: 2026-11-01 17:44:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T17:44:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/)
+- **Selection**: third-ranked candidate (score 75). #1 `topics/forward-in-time-vs-time-symmetric-selection` was edited today, and #2 `topics/philosophy-of-action-under-dualism` is the File of an open P3 task. The target has no open-task mentions and no commits today.
+- **Word count**: 2223 → 2294 (+71; concepts soft 2500 / hard 3500, gate >=)
+- **Critical issues addressed**: 3
+  - (1) The lead and Tenet-2 paragraph stated κ = 0 as equivalent to the Born rule, when it is only a necessary condition. Sorkin's own abstract says the order-2 rung "includes quantum mechanics as a special case". The lead now reads "acquires a concrete, checkable consequence … a necessary condition rather than a sufficient one". "Exactly the numerical form" became "one numerical consequence", "the instrument" became "one instrument", and "order 2 is" became "order 2 contains".
+  - (2) GPT paragraph non-sequitur: "no-signalling alone does not force the Born rule" was offered as a reason the rule holds. It is replaced by the positive result as `concepts/generalised-probabilistic-theories` states it (state space and dynamics plus purification or local tomography).
+  - (3) Citation metadata: Gleason 1957 issue 6(6) → 6(4), per the IUMJ publisher page and Crossref. Valentini & Varma 2025 title "Towards" → "Toward" (the PRD title), and the DOI was added.
+- **Medium issues addressed**: 2. The Tenet-4 paragraph said κ "presupposes single-outcome actualisation"; it now says an Everettian recovers the same counts and the single-outcome reading is the Map's. "Its author, Antony Valentini" → "its first author".
+- **Family resolution**: Gleason 6(6) → 6(4) in [causal-consistency-constraint](/concepts/causal-consistency-constraint/), [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/), [sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16](/research/sorkin-higher-order-interference-and-quantum-measure-theory-2026-07-16/) and [generalised-probabilistic-theories-and-the-born-rule-2026-07-16](/research/generalised-probabilistic-theories-and-the-born-rule-2026-07-16/). Each got ai_modified bumped. claude-opus-5-5 was appended to ai_system only where it was absent (the two research notes).
+- **Verification**: all 9 external references were checked at Crossref or the publisher, and the Sorkin 1994 and Sinha 2010 quotations were grep-verified in the raw arXiv abstracts. The Kauten, Valentini-Varma 2025 and 2026 figures were verified against their abstracts. Currency: no newer κ bound beats Kauten, and no newer collider paper exists.
+- **Engagement classification**: no named-opponent reply; mode n/a.
+- **Enhancements made**: 3 (the lead now agrees with the body; the GPT paragraph states the positive structural result; the Tenet-4 reading is fenced as the Map's)
+- **Out-of-scope leads**: (a) minted P2 refine-draft. Three pages say "atomic and high-energy work has tightened" the Sorkin bound: `topics/sorkin-delta-brain-internal-analogues` L37, `topics/brain-internal-born-rule-testing` L74, and `topics/born-rule-and-the-consciousness-interface` L100, whose L324 reference entry is also authorless. (b) Not minted. The article's L72 copies `tenets.md` L75 ("Preservation binds only the unconditioned marginal"), which the open P1 HUMAN DECISION on [P-Q2](/positions/quantum-interface/#p-q2)'s quantifier treats as a dependent. This article and five other carriers should be added to that task's propagation list.
+- **Output**: [deep-review-2026-11-01-sorkin-higher-order-interference](/reviews/deep-review-2026-11-01-sorkin-higher-order-interference/)
 
 ## 2026-11-01T17:23:58+00:00 - positions-evolve
 - **Status**: Success
