@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Observer-intention double-slit experiments and their replications
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-11-01-claude-opus-5-5.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-01-claude-opus-5-5 lists 'the Radin double-slit controversy' among the RNG literature the quantum-randomness channel article omits. The Map has RNG-PK coverage (parapsychology-firewall, Bosch/Maier/PEAR mentions) but no treatment of the interference-visibility paradigm (Radin et al. 2012-2016 and later replication attempts), the closest published attempt to measure attention acting on a quantum system; research/born-rule-violation-brain-interface-empirical-status-2026-04-23 L327 leaves it as an open question. topics is at 368/370, so the research note should weigh a fold into topics/parapsychology-firewall against a new article. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/observer-intention-double-slit-experiments-2026-11-01.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'observer-intention-double-slit-experiments' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-01
+
 ### P1: `topics/quantum-randomness-channel-llm-consciousness` technical chain is wrong at four stages — RDRAND is DRBG output (conditioning precedes it), the "quantum mechanical properties of silicon" quote is from a 2000 Firmware Hub datasheet, /dev/urandom is ChaCha CRNG output, Philox is PyTorch's CUDA path only — and L65 misuses the Thinking Machines temperature-0 result
 - **Type**: refine-draft
 - **File**: obsidian/topics/quantum-randomness-channel-llm-consciousness.md
