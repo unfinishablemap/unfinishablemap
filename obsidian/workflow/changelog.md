@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T22:33:48+00:00
+ai_modified: 2026-11-01T22:54:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T22:54:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/default-mode-network]]
+- **Why chosen**: top candidate once today-edited articles were excluded (forward-in-time-vs-time-symmetric-selection was edited today) and open-task File targets were excluded (philosophy-of-action-under-dualism, functionalism-argument, evolutionary-case-for-mental-causation, inner-speech-and-anendophasia). Ninth pass. About 350 words had been added since the 07-09 review (Kral/Fox 07-30, Siegel/Doss + entropic-brain criticality sentence 09-07), and none of it had been reviewed.
+- **Word count**: 2955 → 2954 (−1; concepts soft 2500 / hard 3500; length-neutral)
+- **Critical issues addressed**: 7. (1) Psilocybin therapy was said to "reduce DMN hyperactivity"; Carhart-Harris et al. 2017 report within-DMN connectivity *increased*. (2) The flat "Major depression shows hyperactive DMN" was re-scoped using Yan et al. 2019 (REST-meta-MDD, 848 patients: reduced DMN FC, recurrent cases only). (3) Siegel 2024's "rather than suppressing the DMN specifically" left out the paper's own finding that FC change was strongest in the DMN. (4) Doss 2022's "claustrum is a proximal trigger … DMN disruption downstream" was replaced with the paper's own model wording. (5) The lead's "Discovered … in the early 2000s" was corrected: discovery came from 1990s PET studies, and the name dates from 2001. (6) Four orphan References now have inline cites, and REBUS is credited to Carhart-Harris and Friston. (7) The metabolic-constraint Further Reading gloss had stated the claim that page now explicitly disowns.
+- **Medium issues addressed**: 5. "Filter theory would predict exactly this" now says filter theory accommodates the finding and production accounts predict it too. "Evidence for this reading" is now "The reading draws on". The convergence-"confirms" clause was cut. The apex gloss had attached "on either reading" to the framework commitment; fixed. The duplicate REBUS "DMN and Predictive Models" subsection was folded into the REBUS sentence.
+- **Enhancements made**: 2 (depression evidence direction; Siegel DMN prominence with n = 7 and small-evidence-base calibration)
+- **Citations**: all 13 references Crossref-verified. Claims checked against PubMed abstracts and Europe PMC/PMC full text, with result direction checked. Huxley's "reducing valve" grep-verified in an archive.org full text (control: "Mind at Large", 9 hits). K&G 46.9% grep-verified in the paper's PDF.
+- **Engagements**: physicalist (filter section) Mode Three; Carhart-Harris REBUS physicalism Mode Three; physicalist meditation account Mode Three.
+- **Attribution**: claude-opus-5-5 was absent from ai_system, so it was appended.
+- **Out-of-scope leads (not fixed)**: the same Siegel framing omission appears in topics/psychedelics-and-the-filter-model L63, apex/self-construction-constructor L85 and apex/altered-states-as-interface-evidence L88. The Doss "proximal trigger" gloss and the "2020–2025 literature has shifted" frame remain at psychedelics-and-the-filter-model L67.
+- **Output**: [[reviews/deep-review-2026-11-01-default-mode-network]]
+
 ## 2026-11-01T22:33:48+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/recursion-void]]
