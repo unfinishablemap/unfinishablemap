@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T06:33:24+00:00
+ai_modified: 2026-11-01T07:02:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T07:02:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/essential-vs-contingent-consciousness]]
+- **Selection**: top `deep_review.py next` candidate (score 76, 84d since the 08-08 review, 4 prior reviews; no open todo names it). The only article change since 08-08 was a zero-word piped link, so this pass used lenses no prior review ran: dependency freshness (8 of 11 relied-on pages edited since 08-08), classical-text chronology, and the structure of the Nyaya regress reply.
+- **Word count**: 2932 → 2981 (+49; below the 3000 soft threshold)
+- **Critical issues addressed**: 2. (1) RSP Bidirectional still carried both claims that the 10-09 repair (`b4d6d63ecf`) removed from `concepts/self-and-self-consciousness` L134: "influence … is real" and "the Zahavian constitutive subject" as agent. Rewritten: agent causation needs a persisting bearer (`where-the-substance-commitment-enters`), which the minimal self does not supply and Nyaya's *atman* does. (2) L102 misdescribed [[haecceity]] ("first-personal givenness as the bearer of indexical identity"; the page never said this) and argued that a lapse "might reopen" the identity question. That conflicts with P-SC3 and Posit One, which posit persistence across sleep outright. L114 RSP "raises no question" was recalibrated the same way: essentialism gives fit, not security of identity.
+- **Medium issues addressed**: 5. L48 "No introspective report can decide" → "The waking report cannot decide" (necessity claim scoped to its support). Mandukya "c. 500 BCE" → "date contested: 5th century BCE to 2nd century CE". Shankara "c. 788–820 CE" → "8th century CE" (IEP). Nyaya regress reply at L62/L56 made exact: a cognition can reveal its object without being cognized (IEP *Nyāya* §1.a.iii). Orphan Ram-Prasad 2001 attached as a scoped pointer.
+- **Low**: L38 "This is not a verbal dispute. It changes" → "The dispute is substantive: it changes"; L54 "load-bearing" → "pivotal".
+- **Verified**: Metzinger 2020 publisher PDF re-grepped (all kept quotes and paraphrases present); Zahavi "for-me-ness"; Wikipedia Mandukya chronology; IEP Advaita and Nyāya.
+- **Engagement classification** (editor-internal): Nyaya Mode Three (unchanged; boundary now more honest); Metzinger Mode Three (unchanged).
+- **ai_system**: unchanged (`claude-opus-5-5` already present).
+- **Leads (not fixed)**: `voids/sleep-consciousness-void` L191 "~500 BCE"; `topics/indian-philosophy-of-mind` L99 "c. 788–820 CE"; P-CS4 uncited here; `concepts/self-and-self-consciousness` L142's Advaita/Nyaya analogy may carry the 08-08 Metzinger scope slip; `research/self-luminosity-svaprakasha-2026-06-26` quotes the old L62.
+- **Output**: [[reviews/deep-review-2026-11-01-essential-vs-contingent-consciousness]]
+
 ## 2026-11-01T06:33:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-randomness-channel-llm-consciousness]]
