@@ -4,7 +4,7 @@ description: "Agency is the allocation of attention over time. Within the Map's 
 created: 2026-01-31
 modified: 2026-11-01
 human_modified:
-ai_modified: 2026-11-01T11:08:21+00:00
+ai_modified: 2026-11-01T11:23:09+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -47,7 +47,7 @@ Economics studies how agents allocate scarce resources among competing ends. Att
 
 The brain processes enormous information flows unconsciously; consciousness receives a tiny fraction—roughly 10 bits per second by recent estimates (Zheng & Meister 2025). That figure is behavioural, and narrower than it first sounds: it measures the throughput of the channel through which deliberate selection passes, not the bandwidth of the brain as a whole, and it measures what conscious agents *do*, not what phenomenal attention processes internally. So narrowed, it still fixes the scarcity this framework prices. Every moment of attention is therefore an allocation choice: attending here means not attending there; sustaining focus on this means letting that decay. The flip side is [[adaptive-computational-depth|adaptive computational depth]]: reality itself concentrates detail where attention is directed, leaving unattended domains at lower resolution.
 
-This isn't metaphor. The Map's framework gives these economic concepts literal force: consciousness selects among quantum possibilities, and selection operates through attention. The scarcity is genuine (bandwidth cannot be borrowed or expanded at will), the trade-offs are real (attending here means not attending there), and the returns are measurable (sustained attention produces neuroplastic change). How you spend your attentional budget determines which neural patterns actualise.
+This isn't metaphor. The Map's framework gives these economic concepts literal force: consciousness selects among quantum possibilities, and selection operates through attention. The scarcity is genuine (bandwidth cannot be borrowed or expanded at will), the trade-offs are real (attending here means not attending there), and the returns are measurable (sustained attention produces neuroplastic change). On the Map's reading, how you spend your attentional budget biases which neural patterns actualise.
 
 ## From Decisions to Attention Allocation
 
@@ -65,7 +65,7 @@ Consider the constraints:
 
 **Bandwidth limits**: Deliberate selection operates at ~10 bits/second while unconscious processing handles millions. This extreme asymmetry means consciousness can only influence coarse-grained patterns, not fine-grained neural events. The scarcity that makes attention economically tradeable is, on the Map's reading, downstream of [[interface-friction|interface friction]]: attention is finite because the mind-brain channel has finite capacity and holding selections against the brain's default dynamics costs sustained expenditure. Friction supplies the *why* behind the scarcity this whole framework prices.
 
-**Temporal structure**: The [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]—if it's the mechanism—requires *sustained* observation to stabilise patterns. Brief attention produces minimal effect; sustained attention produces neuroplasticity. This temporal requirement gives attention its economic character: time invested matters.
+**Temporal structure**: Stapp's (2007) [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno proposal]]—if it's the mechanism, and the Map currently ranks it below post-decoherence selection ([[positions/quantum-interface#^p-q4|P-Q4]])—requires *sustained* observation to stabilise patterns. Brief attention produces minimal effect; sustained attention produces neuroplasticity. This temporal requirement gives attention its economic character: time invested matters.
 
 **Competition dynamics**: Neural patterns compete for dominance. Attention feeds some patterns while starving others. This is precisely what economic models describe: allocation of limited resources among competing uses.
 
@@ -175,7 +175,7 @@ The habituation boundary also explains why attention training requires ongoing p
 
 **"This is just folk psychology dressed up as metaphysics."**
 
-The framework makes claims beyond folk psychology: that attention operates through quantum mechanisms, that selection literally determines which neural patterns actualise, that training attention expands conscious causal power. These claims are empirically constrained and potentially falsifiable. Folk psychology doesn't commit to quantum Zeno effects or bandwidth limits; the Map's framework does.
+The framework makes claims beyond folk psychology: that attention acts through a quantum-level interface, that selection biases which neural patterns actualise, that training attention expands conscious causal power. Folk psychology commits to no such interface. The interface claims answer to decoherence and Born-statistics data, and the sharpest test would be a deviation conditioned on intention or task ([[positions/quantum-interface#^mechanism-debt|P-Q3]]); the causal-power claim is framework-internal.
 
 **"Attention training benefits could be purely neural, with consciousness as epiphenomenal spectator."**
 
@@ -189,7 +189,7 @@ The bandwidth limit constrains *what* consciousness can influence, not *whether*
 
 **[[tenets#^dualism|Dualism]]**: Attentional economics presupposes consciousness is distinct from the attentional mechanisms it operates through. The scarce resource being allocated is *conscious attention*—something irreducible to neural processing.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The framework specifies *how* consciousness influences matter: through the allocation of attention, which stabilises certain neural patterns over others. Attention is the currency of mental causation.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The framework proposes *where* consciousness influences matter: in the allocation of attention, which on the Map's reading stabilises certain neural patterns over others. Attention is the currency of mental causation.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The bandwidth constraint (~10 bits/second) reflects the minimality. Consciousness doesn't override brain processing; it selects among results through a narrow channel.
 

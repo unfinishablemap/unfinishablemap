@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T11:09:22+00:00
+ai_modified: 2026-11-01T11:23:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T11:23:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/attentional-economics]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted calibration pass, Priority 2 of [[reviews/pessimistic-2026-11-01-attentional-economics]] (Issue 2: mechanism commitment, unnamed falsifiability, "determines", "specifies how")
+- **Word count** (analyze_length): 2999 → 3030 (+31; budget +35, ceiling 3034). Concepts hard 3,500, gate `>=`. The Priority 1 sibling's lines (L198, L103, L143, L117, L131) and L202 (Summary) untouched; L194 left for its own sibling (review fix 3, Issue 3).
+- **Source gate**: passed. `positions/quantum-interface` `^mechanism-debt` at L79 (P-Q3 Asserts) and `^p-q4` at L90; P-Q4 Asserts reads "currently ranked below post-decoherence selection", paraphrased (not quoted). `tenets/tenets.md` L75 verified for "empirically indistinguishable from chance" under *unconditioned aggregate* tests and the conditioned-on-intention/task/subject test. `concepts/quantum-consciousness` heading `## Quantum Zeno Effect (Stapp)` exists (L77). Stapp (2007) *Mindful Universe* is the References entry and is now cited inline.
+- **Changes**: (1) Folk-psychology reply (L178): "quantum mechanisms" → "a quantum-level interface"; "literally determines" → "biases"; dropped the unnamed "potentially falsifiable" and the claim that the framework commits to quantum Zeno effects and bandwidth limits (Zeno is demoted by P-Q4, bandwidth is a physicalist finding); now names the live test, a deviation conditioned on intention or task (P-Q3 `^mechanism-debt`), and marks the causal-power claim framework-internal. (2) Temporal-structure constraint (L68): Stapp (2007) cited inline; "quantum Zeno effect" anchor text → "quantum Zeno proposal" (the effect is Misra-Sudarshan's, the neural proposal Stapp's, matching the linked section's "Proponent"/"The proposal"); adds the P-Q4 demotion. (3) Bidirectional Interaction (L192): "specifies *how* ... through" → "proposes *where* ... in", plus "on the Map's reading". (4) Economic framing (L50): "determines" → "biases", prefaced "On the Map's reading" (Tenet 2 says biasing). Optional "This isn't metaphor" softening skipped: not zero-cost (+4).
+- **Engagement classification**: folk-psychology objection: mixed. The interface claims are distinguished on their empirical commitments (in-framework reply); the causal-power claim is marked framework-internal (boundary marking) and no longer dressed as falsifiable.
+- **ai_system**: `claude-opus-5-5` already present; not appended.
+- **Published**: yes
+
 ## 2026-11-01T11:09:22+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/attentional-economics]]
