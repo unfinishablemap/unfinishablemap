@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-23 12:41:29+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-01 01:56:02+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[simulation]]'
@@ -16,7 +16,7 @@ date: &id001 2026-02-15
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-04-23 12:41:29+00:00
+lastmod: 2026-11-01 01:56:02+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -75,12 +75,12 @@ Consciousness appears to require contrast—difference, change, variation—in o
 - **Tenet alignment**: Directly supports Occam's Razor Has Limits. If our epistemology is contrast-dependent, our simplest models of reality systematically omit whatever is uniform. Simplicity may be an artefact of what contrasts happen to be available.
 - **Quote**: "What we perceive easily is difference and change—and difference is a relationship."
 
-### Neurophenomenal Structuralism (Prentner et al., 2022)
-- **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC10191193/
+### Neurophenomenal Structuralism (Lyre, 2022)
+- **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC9396309/
 - **Type**: Academic paper
 - **Key points**:
   - Argues that Q-structures (quality spaces) represent relations, not absolute values
-  - "In sensory systems the root relation from which order derives is not similarity, but difference; instead of qualitative identity as the primitive term, neural reality would be better reflected by using discriminability"
+  - "In sensory systems the root relation from which order derives is not similarity, but difference; instead of qualitative identity as the primitive term, neural reality would be better reflected by using discriminability" (Clark 2000, as quoted by Lyre)
   - Humans cannot distinguish colours in an absolute fashion—colour perception is relational
   - The cooled-hand/warmed-hand experiment demonstrates that even basic thermal qualia are difference-dependent, not absolute
 - **Tenet alignment**: Supports Dualism. If phenomenal qualities are constitutively relational, then consciousness is not simply mirroring physical properties but constructing a relational structure. A non-physical consciousness would naturally operate through relations rather than direct registration of physical absolutes.
@@ -274,7 +274,7 @@ Based on this research, a voids article could:
 - Fechner, G. T. (1860). *Elemente der Psychophysik*. Leipzig: Breitkopf and Härtel.
 - Heidegger, M. (1927/1962). *Being and Time*. Trans. J. Macquarrie & E. Robinson. Harper & Row.
 - Levinas, E. (1947/1978). *Existence and Existents*. Trans. A. Lingis. Kluwer Academic Publishers.
-- Prentner, R. et al. (2023). "Exploring the role of structuralist methodology in the neuroscience of consciousness." *Frontiers in Psychology*.
+- Lyre, H. (2022). "Neurophenomenal structuralism. A philosophical agenda for a structuralist neuroscience of consciousness." *Neuroscience of Consciousness*, 2022(1), niac012. https://doi.org/10.1093/nc/niac012
 - Rubin, E. (1915/1958). "Figure and Ground." In D. Beardslee & M. Wertheimer (Eds.), *Readings in Perception*. Van Nostrand.
 - Spencer-Brown, G. (1969). *Laws of Form*. Allen & Unwin.
 - Wackermann, J., Pütz, P., & Allefeld, C. (2008). "Ganzfeld-induced hallucinatory experience." *Cortex*, 44(4), 364-378.

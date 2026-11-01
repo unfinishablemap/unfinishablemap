@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-14 19:27:02+00:00
+ai_modified: 2026-11-01 01:56:02+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[reductionism]]'
 - '[[galilean-exclusion]]'
 created: 2026-10-13
-date: &id001 2026-10-14
+date: &id001 2026-11-01
 description: Structuralism says an experience is its place among other experiences,
   with no intrinsic quality left over. A human-AI study of the Map's most direct rival
   to dualism, its holders and its critics.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-14 19:27:02+00:00
-lastmod: 2026-10-14 19:27:02+00:00
+lastmod: 2026-11-01 01:56:02+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-acquaintance]]'
@@ -53,7 +53,7 @@ The most-cited proponents sit at different strengths, and running them together 
 
 **Kristjan Loorits (2014): metaphysical.** He argues that "the threat of dualism can be avoided" because consciousness, like the objects of physics, can be fully analysed in structural terms. Qualia "are in fact compositional and have an internal structure", built from unconscious associations, and consciousness "misperceives some of its own highly complex structural properties as monadic and qualitative." He denies "the ideal positive conceivability of zombies and inverted qualia". His 2026 paper, known here only by its abstract, argues that some behaviour cannot be explained without qualia "as more or less traditionally understood: ineffable, structurally unanalyzable, and distinctively qualitative", though "perhaps reducible in some heavily idealized sense". Whether that revises the 2014 metaphysics the abstract does not settle, so this article attributes the metaphysics to Loorits 2014 only.
 
-**Holger Lyre (2022): reductive physicalism.** Neurophenomenal structuralism is "a rigorous structuralist ontology about phenomenal consciousness that is physicalist and reductionist in spirit": phenomenal structure (Q-structure) is mirrored in neural structure (N-structure) and reduces to it. Lyre begins by declining a label — "One might be inclined to ask whether neurophenomenal structuralism is a version of structural realism. The short answer is: no." — but the doctrine declined is structural realism about the entities of physics, and his reasons run toward a stronger view. He grants "a family resemblance", since his doctrine "denies phenomenal intrinsicality", and declines realism about the phenomenal because "we can run an exclusion argument according to which the Q-structure plays no causal role at all, but all the causal work is taken over by the N-structure", leaving the view "consistent with a reduction of the phenomenal to the neural". Quoted alone, the disavowal suggests a softer rival than the one Lyre defends.
+**Holger Lyre (2022): reductive physicalism.** Neurophenomenal structuralism is "a rigorous structuralist ontology about phenomenal consciousness that is physicalist and reductionist in spirit": phenomenal structure (Q-structure) is mirrored in neural structure (N-structure) and reduces to it. Lyre begins by declining a label — "One might be inclined to ask whether neurophenomenal structuralism is a version of structural realism. The short answer is: no." — but the doctrine declined is structural realism about the entities of physics, and his reasons run toward a stronger view. He grants that there "seems to be a family resemblance", since his doctrine "denies phenomenal intrinsicality", and declines realism about the phenomenal because "we can run an exclusion argument according to which the Q-structure plays no causal role at all, but all the causal work is taken over by the N-structure", leaving the view "consistent with a reduction of the phenomenal to the neural". Quoted alone, the disavowal suggests a softer rival than the one Lyre defends.
 
 The lineage predates the label, with Austen Clark's quality-space theory (1993, 2000) named "first and foremost" among Lyre's antecedents. Fink and Lee give the honest measure of the field: "research on the structures of conscious experiences is currently at an early stage of development. Relevant articles are scattered across different debates and different academic fields."
 

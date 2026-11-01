@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-06 16:40:58+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-11-01 01:56:02+00:00
+ai_system: claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[ontic-structural-realism]]'
@@ -15,7 +15,7 @@ date: &id001 2026-09-06
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-06 16:40:58+00:00
+lastmod: 2026-11-01 01:56:02+00:00
 modified: *id001
 related_articles:
 - '[[physical-completeness]]'
@@ -224,8 +224,8 @@ to FKL.
   silently repair it and do not treat it as evidence of a bad transcription.
 - **The stated testable commitment, verbatim**: "**Since I am denying the ideal positive conceivability of
   zombies and inverted qualia**, I will not examine any of such arguments here." He grounds it: "it would
-  be logically inconsistent to hold that some fully structural phenomenon could be somehow different in
-  two structurally identical cases."
+  be logically inconsistent to hold that some fully structural phenomenon could be somehow different or
+  even absent in an occasion where its structure is present."
 - **He is not an ontic structural realist, verbatim**: "only a relatively small minority of the proponents
   of scientific object structuralism believe that structure and relations are actually all there is. An
   example of that kind of radical structuralist metaphysics is a theory of Ladyman and Ross (2007)."

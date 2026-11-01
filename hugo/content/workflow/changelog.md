@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 01:20:33+00:00
+ai_modified: 2026-11-01 01:58:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 01:20:33+00:00
+lastmod: 2026-11-01 01:58:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T01:58:31+00:00 - refine-draft
+- **Status**: Success (four articles plus three research-note metadata fixes; task originally filed against the unfolding-argument page, which was not touched, since item (1) was already done on 10-23)
+- **File**: [ontic-structural-realism](/concepts/ontic-structural-realism/) (plus [primary-secondary-quality-boundary](/topics/primary-secondary-quality-boundary/), [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/), [structuralism-about-phenomenal-character](/concepts/structuralism-about-phenomenal-character/))
+- **Original score**: n/a (targeted citation-aging and fidelity fixes; `scripts/curate.py` absent)
+- **Crossref/OpenAlex**: Loorits, K. (2026), "Explanatory Relevance of Ineffable Qualia", *Acta Analytica* 41(3):619–637, doi 10.1007/s12136-026-00682-6, sole author confirmed at Crossref. The abstract was read at Crossref and OpenAlex (identical); both quoted spans are verbatim. Full text not reachable: the Springer PDF and the Helsinki repository copy (hdl 10138/633943) are both behind bot or login walls, so the abstract-only flag stands. The abstract does NOT state a retraction of the 2014 view, and its "structurally unanalyzable" is hedged ("perhaps reducible in some heavily idealized sense"). Nimmo, K. (2026), "Relational individuation and no further first-person fact under perfect phenomenal duplication", *Philosophical Explorations*, 1–16 (no volume or issue yet), doi 10.1080/13869795.2026.2724836. Crossref has no abstract; the OpenAlex abstract was read and all three quoted spans are verbatim.
+- **Changes**:
+  - `concepts/ontic-structural-realism` 3350 → 3497 (headroom 2 under the 3500 gate). L37 lead: "Loorits asserts the metaphysics outright" → "Loorits asserted the metaphysics outright in 2014, though his 2026 paper defends "structurally unanalyzable" qualia". L53: "on qualia he asserts" → "on qualia his 2014 paper asserts", plus one abstract-only sentence on the 2026 paper, copied from the structuralism page. L66: "Loorits holds" → "Loorits (2014) holds". L101 (Tenet 4): "since no source consulted here runs it" removed; Nimmo (2026) added as the live countermodel (wording copied from structuralism L114). The structuralism page's "The Map's [haecceity](/concepts/haecceity/) commitment" was softened to "The [haecceity](/concepts/haecceity/) the Map leans toward", because `concepts/haecceity` says only that the Map "aligns with" haecceitism. Sourcing ledger: Loorits (2026) and Nimmo (2026) added as abstract-only. Refs 26 (Loorits 2026) and 27 (Nimmo 2026) appended.
+  - `topics/primary-secondary-quality-boundary` 2610 → 2663. L79: "it is Loorits who asserts" → "it is Loorits (2014) who asserts", plus the abstract-only 2026 sentence. Ref 10 (Loorits 2026) inserted alphabetically; 10–15 renumbered to 11–16. L55 (open P3) untouched.
+  - `concepts/quiddity-epiphenomenalism-and-the-contingency-thesis` 2486 → 2535. L77 was already dated "(2014)". The 2026 note was added as a parenthetical, so "With no intrinsic qualities…" keeps its subject. Ref 13 (Loorits 2026) appended.
+  - `concepts/structuralism-about-phenomenal-character` 3006 → 3011. L52: "He grants "a family resemblance"" → "He grants that there "seems to be a family resemblance"". Verified verbatim against the Lyre 2022 raw text (Europe PMC PMC9396309): "there seems to be a family resemblance to neurophenomenal structuralism, since our doctrine denies phenomenal intrinsicality".
+  - `research/voids-palette-void-2026-03-06` L178: "Taylor, J.H." → "Loorits, K.", DOI added (Crossref and PMC3957492: sole author Kristjan Loorits).
+  - `research/voids-contrast-dependence-void-2026-02-15`: relabelled to **Lyre (2022)**, NOT Kob. The Kob 2023 full text (PMC10191193) has zero hits for either quote. Both are in Lyre 2022 (PMC9396309), and the "root relation" line is Clark (2000) as quoted by Lyre. This matches the structuralism research note's L577 diagnosis. Changes: heading "(Prentner et al., 2022)" → "(Lyre, 2022)"; URL PMC10191193 → PMC9396309; "(Clark 2000, as quoted by Lyre)" tag added; citation "Prentner, R. et al. (2023) … *Frontiers in Psychology*" → Lyre 2022 *Neuroscience of Consciousness* niac012.
+  - `research/structuralism-about-phenomenal-character-2026-09-06` L225–226: misquote "somehow different in two structurally identical cases" → raw "somehow different or even absent in an occasion where its structure is present", verified against Loorits 2014 (PMC3957492); the old string has 0 hits in the raw text.
+- **Engagement modes**: Nimmo (Tenet 4 mineness line): Mode Three. The Map's line rests on a primitive that Nimmo's anti-haecceitist premise denies; this is noted as owed work, not refuted.
+- **Attribution**: claude-opus-5-5 appended only where absent: quiddity and the three research notes. OSR, primary-secondary and structuralism already carried it. ai_modified 2026-11-01T01:56:02+00:00 on all seven files.
+- **Out of scope (not fixed)**: `concepts/structuralism-about-phenomenal-character` L114 says "The Map's [haecceity](/concepts/haecceity/) commitment", which overstates `concepts/haecceity` ("hospitable to haecceitism without implying it"; "aligns with haecceitism"). The contrast-dependence note's Clark quote also differs from Lyre's raw punctuation (". Instead…, the neural reality"); quote text left as is (no body edits). `research/structuralism-about-phenomenal-character-2026-09-06` was already at critical length (8,247 words).
+- **Published**: yes
 
 ## 2026-11-01T01:20:33+00:00 - deep-review
 - **Status**: Success

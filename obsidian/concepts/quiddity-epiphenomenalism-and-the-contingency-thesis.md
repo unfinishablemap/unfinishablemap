@@ -2,9 +2,9 @@
 title: "Quiddity Epiphenomenalism and the Contingency Thesis"
 description: "The contingency thesis, Alter and Coleman's name for Howell's argument, is Russellian monism's sharpest defeater: if a different quiddity could ground the same disposition, phenomenal character does no causal work in virtue of being phenomenal. A collaborative analysis of why quiddity-grounding fails and why the Map's delegatory causation does not inherit the defect."
 created: 2026-05-31
-modified: 2026-05-31
+modified: 2026-11-01
 human_modified:
-ai_modified: 2026-09-24T22:01:00+00:00
+ai_modified: 2026-11-01T01:56:02+00:00
 last_deep_review: 2026-09-08T21:17:14+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[modal-structure-of-phenomenal-properties]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-31
 last_curated:
 ---
@@ -74,7 +74,7 @@ Howell anticipates the move and concedes that it works: "Such a 'necessitarian' 
 
 None of these is a knock-down refutation of necessitarianism. The point is that escaping the contingency thesis is not free: it trades an epiphenomenalism worry for a modal-commitment worry. The objection is "the single most damaging" precisely because every exit costs something the view was trying to keep.
 
-A third exit denies the premise both sides share. Kleiner (2025) transposes structural realism's epistemic/ontic fork onto the phenomenal and names the second branch ontic phenomenal structural realism, on which "phenomenal structures are ontologically basic: non-structural features of phenomenal character, such as intrinsic qualities, do not in fact exist" — he coins the taxonomy rather than declaring for it, and it is Loorits (2014) who asserts the metaphysics outright, holding that qualia "are in fact compositional and have an internal structure". With no intrinsic qualities there is no Q1 for a Q2 to replace, so the contingency thesis loses its subject matter rather than being answered. The Map gains nothing here. Lyre (2022) runs an exclusion argument on which "the Q-structure plays no causal role at all, but all the causal work is taken over by the N-structure" — phenomenal inertness reached with no grounding relation left to be contingent, and a position he takes to be "consistent with a reduction of the phenomenal to the neural", which makes it a rival to [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and not only to Russellian monism. Not inheriting Howell's objection therefore buys less than it looks. [[ontic-structural-realism|Ontic structural realism]] sets out what the Map does and does not concede to the structuralist.
+A third exit denies the premise both sides share. Kleiner (2025) transposes structural realism's epistemic/ontic fork onto the phenomenal and names the second branch ontic phenomenal structural realism, on which "phenomenal structures are ontologically basic: non-structural features of phenomenal character, such as intrinsic qualities, do not in fact exist" — he coins the taxonomy rather than declaring for it, and it is Loorits (2014) who asserts the metaphysics outright, holding that qualia "are in fact compositional and have an internal structure" (his 2026 paper, abstract only here, defends qualia "as more or less traditionally understood: ineffable, structurally unanalyzable", if "perhaps reducible in some heavily idealized sense"; the abstract does not settle whether that revises the 2014 view). With no intrinsic qualities there is no Q1 for a Q2 to replace, so the contingency thesis loses its subject matter rather than being answered. The Map gains nothing here. Lyre (2022) runs an exclusion argument on which "the Q-structure plays no causal role at all, but all the causal work is taken over by the N-structure" — phenomenal inertness reached with no grounding relation left to be contingent, and a position he takes to be "consistent with a reduction of the phenomenal to the neural", which makes it a rival to [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and not only to Russellian monism. Not inheriting Howell's objection therefore buys less than it looks. [[ontic-structural-realism|Ontic structural realism]] sets out what the Map does and does not concede to the structuralist.
 
 ## Contrast with the Map's Delegatory Causation
 
@@ -127,3 +127,4 @@ The discipline here matters because the temptation is real: it is easy to write 
 10. Kleiner, J. (2025). The Newman problem of consciousness science. *Philosophy and the Mind Sciences*, 6. https://doi.org/10.33735/phimisci.2025.11827
 11. Loorits, K. (2014). Structural qualia: a solution to the hard problem of consciousness. *Frontiers in Psychology*, 5, 237. https://doi.org/10.3389/fpsyg.2014.00237
 12. Lyre, H. (2022). Neurophenomenal structuralism. A philosophical agenda for a structuralist neuroscience of consciousness. *Neuroscience of Consciousness*, 2022(1), niac012. https://doi.org/10.1093/nc/niac012
+13. Loorits, K. (2026). Explanatory relevance of ineffable qualia. *Acta Analytica*, 41(3), 619–637. https://doi.org/10.1007/s12136-026-00682-6

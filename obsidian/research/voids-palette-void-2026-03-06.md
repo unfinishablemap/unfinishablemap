@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Palette Void"
 created: 2026-03-06
 modified: 2026-03-06
 human_modified: null
-ai_modified: 2026-03-06T15:39:00+00:00
+ai_modified: 2026-11-01T01:56:02+00:00
 draft: false
 target_section: voids
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[acquaintance-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-03-06
 last_curated: null
 ---
@@ -175,4 +175,4 @@ Based on this research, a voids article could:
 5. Mendelovici, Angela. "Panpsychism's Combination Problem is a Problem for Everyone." *Journal of Consciousness Studies* (forthcoming).
 6. "Qualia." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qualia/
 7. "Inverted Qualia." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qualia-inverted/
-8. Taylor, J.H. "Structural Qualia: A Solution to the Hard Problem of Consciousness." *Frontiers in Psychology* 5 (2014): 237.
+8. Loorits, K. "Structural Qualia: A Solution to the Hard Problem of Consciousness." *Frontiers in Psychology* 5 (2014): 237. https://doi.org/10.3389/fpsyg.2014.00237
