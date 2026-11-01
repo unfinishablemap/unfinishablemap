@@ -479,9 +479,9 @@
   commissioned_at: '2026-11-01T02:09:16.469274+00:00'
   prompt_summary: Audit quantum-randomness-channel-llm-consciousness (recent-aged)
   target_filename: outer-review-2026-11-01-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-01T03:56:12.982978+00:00'
   failure_reason: null
   prompt_text: 'Please audit https://unfinishablemap.org/topics/quantum-randomness-channel-llm-consciousness/
     on The Unfinishable Map (https://unfinishablemap.org), last substantively revised

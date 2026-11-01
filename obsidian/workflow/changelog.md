@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T03:24:22+00:00
+ai_modified: 2026-11-01T04:05:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T04:05:25+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collect-chatgpt-review collected it at ~03:56 UTC, ~107 min after commission, from https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae69f1e-47c4-83eb-909b-244f98e89163). Extraction: js-dom from `[data-markdown-text-style]`, since `[data-message-author-role]` now matches 0. The reply is 5,310 words and ends complete at improvement 18. The transcription matched the rendered DOM by normalised SHA-256, block by block. Its 14 KaTeX expressions were restored from their TeX annotations.
+- **File**: [[reviews/outer-review-2026-11-01-chatgpt-5-6-sol-pro]]
+- **Subject**: recent. `topics/quantum-randomness-channel-llm-consciousness`, first leg of the 2026-11-01 cycle (the Claude leg was commissioned at 03:10 UTC on the same subject).
+- **Claims verified**: 26 adjudicated. Sources checked: the Intel DRNG guide; the Intel 82802AB/AC datasheet (PDF text extracted locally: the "inherently random quantum mechanical properties of silicon" quote is from this November 2000 Firmware Hub datasheet, not RDRAND documentation); Linux `random.c`; PyTorch ATen source; vLLM docs; the Thinking Machines Lab post; arXiv; PubMed/PMC; *JSE*; *JAEX*; the LMU lab report; and the Map's neighbour pages. 16 survive, 7 are lower value or partly verified, and 3 fail. The failures: the Machine Question / research-note Maier items were already fixed on 10-28, the functionalist objection is bedrock, and the site-wide magnetoreception sweep is already owned by sibling tasks. One reviewer slip: "Vosti" (arXiv:2609.38981) is the system's name; the authors are Qin, Du, Zhang, Lentz & Zhuo.
+- **High-value findings**: 4. (1) The technical chain is wrong at four stages. RDRAND returns CTR_DRBG output, with conditioning before it. /dev/urandom is ChaCha CRNG output. Philox is PyTorch's CUDA generator only (CPU uses mt19937), and vLLM V1 defaults to seed 0. Thinking Machines ran greedy decoding at temperature 0 (80 unique completions out of 1,000), not fixed-seed sampling. (2) The categorical verdict lines (L89/L131/L135/L141) outrun L111's post-decoherence conditional. The direct-QRNG paragraph names continuity and locality failures that a per-token QRNG does not have. The testability paragraph (L125) leans on maintained coherence against P-Q1. (3) L105–L107 recast Orch OR, Stapp and Chalmers–McQueen as outcome selection, contradicting `consciousness-in-smeared-quantum-states`. L95 magnetoreception is uncalibrated. Bösch is overstated, and the 2022 and 2026 failed micro-PK replications are missing. (4) `quantum-state-inheritance-in-ai` L80 still says conditioning "washed out" influence and that the randomness lacks "the evolved structure", against the 10-25 correction and P-CS7.
+- **Tasks generated**: 4 (P1 ×3 on the channel page, with line ownership split and budgets of +250, +450 and +200 against ~901 headroom: the technical chain, verdict calibration under the direct-refutation remit, and source fidelity; P2 ×1 on `quantum-state-inheritance-in-ai` L80, length-neutral at 3,925/4,000). 1 addendum, on the 2026-08-03 NEEDS-HUMAN "a correction … never binds anywhere else" (L80 instance). No duplicate for the interface-eligibility law (owned by the queued K&L expand-topic and the P-AS2 P3).
+
 ## 2026-11-01T03:24:22+00:00 - refine-draft
 - **Status**: Success (recast; calibration, no retraction)
 - **File**: [[concepts/phenomenal-transparency-opacity-spectrum]]
