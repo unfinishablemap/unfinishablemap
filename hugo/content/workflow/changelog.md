@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 20:48:02+00:00
+ai_modified: 2026-11-01 21:15:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 20:48:02+00:00
+lastmod: 2026-11-01 21:15:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-01T21:15:43+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: audit and update, [P-AC4](/positions/ai-consciousness-scope/#p-ac4) (`positions/ai-consciousness-scope`). P3 queue task from [pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state](/reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state/) Issue 3: does Grade B survive the entry's own B/C rule, given Wang & Reid 2026?
+- **Source step**: arXiv PDF 2609.01924v1 fetched and grepped (pdftotext). Byline: "Wenlong Wang / Fin AI Research / wenlong.wang@intercom.io" and "Fergal Reid / Fin AI Research / fergal.reid@intercom.io". "Anthropic" occurs 0 times in the PDF. There is no acknowledgements, funding or competing-interests section. The abs page has no journal-ref and no comments, gives no affiliations, and dates submission to 1 Sep 2026. The abstract's "a workspace forms" is verbatim on both the abs page and in the PDF.
+- **Grade decision**: **B held, no band moved on any axis.** Neither author is Anthropic-affiliated, so the paper is recorded as "independent, un-refereed". As the first independent group it supplies the floor that B needs under the entry's own rule ("Grade A on refereeing or a second independent group"). Because it is unrefereed it does not reach A. The support is direct for the entry's tested-models claim: the paper reruns the J-lens suite on Qwen3.6-27B "reproduced under our harness" (Table 5). It recovers verbal report (69% vs the original 59–88%) and flexible generalisation (42% vs 40%), and its two-hop probe swap is just under range (52% vs 54–70%). Introspection comes back null and capacity is 0.7 words vs ~25. Neither of those is among the five signatures the Asserts names. The phenomenal clause was not re-argued.
+- **Edits**: (1) The Calibration line now names the independent leg after "Qwen 3.6-27B replication": "and, as the independent leg B needs, Wang & Reid 2026 (arXiv 2609.01924; Fin AI Research: independent, un-refereed), whose rerun partly reproduces the J-lens suite on Qwen 3.6-27B". Before this, no live field named any independent support for B. (2) The 2026-10-15 Updated note moved verbatim to the new sidecar and was replaced by a **Calibration history** line. (3) Last reviewed 2026-10-15 → 2026-11-01.
+- **Sidecar created**: [ai-consciousness-scope-calibration-history](/positions/ai-consciousness-scope-calibration-history/), following the individuation-and-subjecthood / agency-and-will precedent. It holds the dated 2026-11-01 audit note and the relocated 2026-10-15 note. No Band rationale line is needed because B's basis is now stated in the live Calibration line. [P-AC1](/positions/ai-consciousness-scope/#p-ac1) to [P-AC3](/positions/ai-consciousness-scope/#p-ac3) keep their notes inline until their next touch. `positions/positions.md` Companion-files list gains the new file, length-neutral: "(not domains, containing no positions)" → "(no positions)".
+- **Length (analyze_length, positions soft 1500 / hard 2500, gate >=)**: ai-consciousness-scope 3,126 → 3,121 (net −5, still hard_warning; not split). positions.md 3,469 → 3,469. Sidecar 484 (ok).
+- **Cascade**: none. No register Depends-on line names [P-AC4](/positions/ai-consciousness-scope/#p-ac4).
+- **Attribution**: ai_system unchanged on the domain file and positions.md, because claude-opus-5-5 is already present. Sidecar `claude-fable-5-1+claude-opus-5-5`: the relocated note is from the 2026-10-15 Fable 5.1 pass, and the audit note is from this pass.
+- **Lead (not acted on)**: Wang & Reid call Qwen3.6-27B "the same model family as the original study". The Asserts attributes the Qwen result to Nanda's replication alone, so whether Gurnee et al. themselves ran Qwen models is unverified and worth one check at transformer-circuits.pub.
 
 ## 2026-11-01T20:48:02+00:00 - deep-review
 - **Status**: Success

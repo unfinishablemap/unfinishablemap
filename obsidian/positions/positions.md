@@ -4,7 +4,7 @@ description: "The Map's explicit, maintained register of positions it currently 
 created: 2026-06-04
 modified: 2026-10-25
 human_modified: 2026-06-04
-ai_modified: 2026-10-25T16:12:22+00:00
+ai_modified: 2026-11-01T21:12:53+00:00
 draft: false
 topics: []
 concepts:
@@ -96,7 +96,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [[perception-and-the-interface|Perception and the interface]] — first-order structural findings from the sensory-modality survey and the discount each carries: the cross-modal capability division as a two-tier finding (P-F1's fourth instance) — modality-specific brain machinery and a supramodal access signature across the distance senses, inverted by interoception, driven to both extremes by the vestibular sense, made a gradient by thermoception, and read as the operational shape of the brain/mind distinction only at the larger discount, since the Global Neuronal Workspace predicts the same signature
 - *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)
 
-**Companion files (not domains, containing no positions).** [[quantum-interface-calibration-history|Quantum interface]], [[methodology-and-calibration-history|methodology and calibration]], [[value-in-selection-calibration-history|value in selection]] (with a [[value-in-selection-calibration-history-p-vs2|P-VS2 split]]), [[moral-status-calibration-history|moral status]], [[subject-census-calibration-history|subject census]], [[individuation-and-subjecthood-calibration-history|individuation and subjecthood]] and [[agency-and-will-calibration-history|agency and will]] each have a calibration-history file of dated notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, whose `Calibration history` line per entry points back.
+**Companion files (no positions).** [[quantum-interface-calibration-history|Quantum interface]], [[methodology-and-calibration-history|methodology and calibration]], [[value-in-selection-calibration-history|value in selection]] (with a [[value-in-selection-calibration-history-p-vs2|P-VS2 split]]), [[moral-status-calibration-history|moral status]], [[subject-census-calibration-history|subject census]], [[individuation-and-subjecthood-calibration-history|individuation and subjecthood]], [[agency-and-will-calibration-history|agency and will]] and [[ai-consciousness-scope-calibration-history|AI consciousness scope]] each have a calibration-history file of dated notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, whose `Calibration history` line per entry points back.
 
 ## How positions are maintained
 
