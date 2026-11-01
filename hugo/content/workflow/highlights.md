@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-31T08:11:22+00:00'
+ai_modified: '2026-11-01T08:06:42.615848'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-31'
+date: '2026-11-01'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-31 08:11:22+00:00
-modified: '2026-10-31'
+lastmod: 2026-11-01 08:06:42.615848+00:00
+modified: '2026-11-01'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-01: Boredom Wants Something Different but Won't Say What
+
+A new void: boredom demands a change of engagement without naming a target, and makes a failed engagement look like a dull object. A computational model predicts the objectless signal too, so nothing here requires dualism. The void is a felt verdict that hides its grounds.
+
+**Type**: new-article  
+**Link**: [boredom-void](/voids/boredom-void/)
+
+---
+
 ### 2026-10-31: Pitch Resists Physical Reduction Less Than Colour Does
 
 Remove a tone's fundamental and you still hear its pitch: the waveform keeps the fundamental's period. So pitch has a better physical candidate than colour. But listeners differ over middle C, and equal pitch steps aren't equal frequency intervals.
@@ -205,15 +214,6 @@ Revised apex: the Map proposes mind moves matter through attention. Yet one pati
 
 **Type**: refinement  
 **Link**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
-
----
-
-### 2026-10-09: The Identity Reports No Memory. Recognition Tests Find Some.
-
-In DID, identities report amnesia for each other yet recognise more of each other's events than people faking amnesia. The revised article drops the 'untouched brain' claim (DID hippocampi are smaller) and finds the pattern fits dualism without favouring it.
-
-**Type**: refinement  
-**Link**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
 
 ---
 
