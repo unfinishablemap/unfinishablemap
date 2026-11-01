@@ -1,15 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 15:42:28+00:00
+ai_modified: 2026-11-01 16:43:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 15:42:28+00:00
+lastmod: 2026-11-01 16:43:08+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-11-01T16:43:08+00:00 - research-voids
+- **Status**: Success
+- **Output**: [voids-amodal-void-2026-11-01](/research/voids-amodal-void-2026-11-01/) (7,967 words; frontmatter validates; 32 wikilinks resolve)
+- **Void**: the amodal void: hidden parts of seen objects felt as present but unseen. Four faces: disowning, mode, determinacy, felt absence.
+- **Dedup**: 0 live hits for amodal completion/perception, Ekroll, Briscoe, Kellman, Rauschenberger, Sekuler or Thielen. The positive controls hit. Nothing in `_redirects`, `archive/`, banked notes or todo.
+- **Recommended action**: article → `voids/amodal-void`, with fold into `perceptual-reality-monitoring-void` (375 words of headroom, too small) as the fallback. Expand-topic task hand-minted at P3.
+- **Calibration**: a physicalist/predictive-processing account predicts all four faces, so the void is not evidence for dualism; Tenet 5 is the main tenet.
+- **Changelog written by the driver**: the fork was briefed to leave this file alone.
 ## 2026-11-01T15:42:28+00:00 - refine-draft
 - **Status**: Success
 - **File**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) (secondary: [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/))
