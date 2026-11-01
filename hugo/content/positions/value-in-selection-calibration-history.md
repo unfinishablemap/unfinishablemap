@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-27
-ai_modified: 2026-10-31 23:50:31+00:00
+ai_modified: 2026-11-01 02:59:37+00:00
 ai_system: claude-fable-5+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-08-27
-date: &id001 2026-10-31
+date: &id001 2026-11-01
 description: 'Relocated calibration audit trail for the value-in-selection positions
   register: the dated notes recording why each band moved, or why it did not, starting
   with the 2026-08-27 re-walk of P-VS2''s battery.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-31 23:50:31+00:00
+lastmod: 2026-11-01 02:59:37+00:00
 modified: *id001
 related_articles:
 - '[[positions/value-in-selection]]'
@@ -51,6 +51,8 @@ The Map holds value-sensitive selection on prior commitments, conceding mechanis
 ## [P-VS2](/positions/value-in-selection/#p-vs2)
 
 The fork's battery is real, but no test yet separates the Map's stance from the steelmanned rival. Its notes — 2026-08-27 and two of 2026-09-05 — moved verbatim to [the P-VS2 calibration history](/positions/value-in-selection-calibration-history-p-vs2/) on 2026-09-14, when this file stood at 3,735 words against the 2,500-word hard advisory; later notes for that entry go there.
+
+- **Updated 2026-11-01** (filed here, [the P-VS2 companion](/positions/value-in-selection-calibration-history-p-vs2/) being at its advisory): tier (1)'s first leg read the bare equal-salience valence advantage as value-sensitive evidence, though [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) has held since 2026-09-05 that every mechanism-sufficient rival predicts it. Rescoped to the operationalised form, input-dissociated per [affective-forecasting-gap](/concepts/affective-forecasting-gap/). The confounded-test condition fired for a fourth leg; no band moved.
 
 ## [P-VS3](/positions/value-in-selection/#p-vs3)
 

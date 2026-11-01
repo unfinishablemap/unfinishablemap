@@ -2,9 +2,9 @@
 title: "Value in Selection — Calibration History"
 description: "Relocated calibration audit trail for the value-in-selection positions register: the dated notes recording why each band moved, or why it did not, starting with the 2026-08-27 re-walk of P-VS2's battery."
 created: 2026-08-27
-modified: 2026-10-31
+modified: 2026-11-01
 human_modified: null
-ai_modified: 2026-10-31T23:50:31+00:00
+ai_modified: 2026-11-01T02:59:37+00:00
 draft: false
 # topics: intentionally empty — relocated calibration audit trail holding no positions, not an article; topics live on the parent register positions/value-in-selection
 topics: []
@@ -48,6 +48,8 @@ The Map holds value-sensitive selection on prior commitments, conceding mechanis
 ## P-VS2
 
 The fork's battery is real, but no test yet separates the Map's stance from the steelmanned rival. Its notes — 2026-08-27 and two of 2026-09-05 — moved verbatim to [[positions/value-in-selection-calibration-history-p-vs2|the P-VS2 calibration history]] on 2026-09-14, when this file stood at 3,735 words against the 2,500-word hard advisory; later notes for that entry go there.
+
+- **Updated 2026-11-01** (filed here, [[positions/value-in-selection-calibration-history-p-vs2|the P-VS2 companion]] being at its advisory): tier (1)'s first leg read the bare equal-salience valence advantage as value-sensitive evidence, though [[topics/valence-and-conscious-selection]] has held since 2026-09-05 that every mechanism-sufficient rival predicts it. Rescoped to the operationalised form, input-dissociated per [[concepts/affective-forecasting-gap]]. The confounded-test condition fired for a fourth leg; no band moved.
 
 ## P-VS3
 

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01T02:22:20+00:00
+ai_modified: 2026-11-01T03:01:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-01T03:01:00+00:00 - positions-evolve (update P-VS2)
+- **Status**: Success (one battery leg rescoped; no band moved)
+- **File**: [[positions/value-in-selection]] (plus [[positions/value-in-selection-calibration-history]])
+- **Defect**: P-VS2 *Asserts* tier (1), first leg, read "valenced options selected more readily than equally-salient neutral options supports value-sensitive selection, parity supports value-blind". Since db12a423dc (2026-09-05 21:10Z), 17h after P-VS2's last edit, the parent [[topics/valence-and-conscious-selection]] L164 has said that advantage is one "which every rival above also predicts, so only the operationalised form below discriminates". Its L113 states the form: "at neural-value indifference choice tracks independently reported anticipatory affect".
+- **Change**: the leg now reads "a valence *selection-advantage* assay, which every mechanism-sufficient rival predicts even at equal salience unless operationalised: at matched computed value, forecast and learned value held ([[concepts/affective-forecasting-gap]]), choice tracking independently reported anticipatory affect supports value-sensitive selection, its absence value-blind". The "forecast and learned value held" clause matches the forecasting concept's input-dissociation table (L86–89: "Shift present affect; forecast, learned value fixed") and [[topics/graduated-middle-path-valence-modulated-attention]] L68 ("with the unfelt forecast and learned value measured and held"). Clamp survival is not restated in the leg because the clamp leg later in tier (1) already carries it. The clamp, asymbolia (Griffith and Kind 2024; Duval and Klein 2025), ~10-bit bandwidth and co-extensiveness caveats are unchanged (grep 1/1/2/1).
+- **Would shift if**: the confounded-test parenthetical named only the first 2026-09-05 firing. It now lists all four legs it has fired for (clamp, asymbolia, bandwidth, bare advantage). Per the 2026-09-05 bandwidth precedent, this firing is recorded without a band move, since credence is already *low*.
+- **Bands**: none moved (credence low, discriminability indirect). *Last reviewed* is now 2026-11-01. P-VS1 was not edited: its shift condition defers with "each as qualified there".
+- **Length**: register 2,498 → 2,498, paid for by removing redundancy only: "The battery has three tiers." (the tiers are numbered inline) and the Calibration-history line's per-note summaries (those live in the notes themselves). That line now reads "only the 3/3 clamp re-band moved bands". The dated note went to the domain history's `## P-VS2` section (2,426 → 2,482), because the P-VS2 companion stands at 2,499 of 2,500 and holds only a header plus verbatim notes. The companion was not touched (2,499).
+- **Cascade / follow-ups (not actioned)**: (a) P-VS2's asymbolia leg still reads "degraded selection *efficacy*, not merely reduced motivation". The same db12a423dc parent edit says that phrasing "separates nothing until it names a parameter" (choice content at matched value, fitted drift near zero). This is a sibling register seam, but it is outside this task's leg and the brief froze the asymbolia text. (b) The forecasting concept says the clamp "separates the last two columns". On its own table, the clamp seems to separate *present felt valence* from the *valence→attention hybrid* (columns 2 and 4), so that wording needs checking.
+- **Attribution**: claude-opus-5-5 appended to the register (it was absent). The domain history already carried it. ai_modified 2026-11-01T02:59Z on both.
+- **Published**: yes
+
 ## 2026-11-01T02:22:20+00:00 - refine-draft
 - **Status**: Success (two zero-cost inbound links to an orphaned-from-hosts concept page)
 - **File**: [[topics/indian-philosophy-of-mind]] (plus [[topics/essential-vs-contingent-consciousness]])
