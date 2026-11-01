@@ -1,15 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 23:12:51+00:00
+ai_modified: 2026-11-01 23:36:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-01'
-lastmod: 2026-11-01 23:12:51+00:00
+lastmod: 2026-11-01 23:36:39+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-11-01T23:36:39+00:00 - coalesce
+- **Status**: Abandoned (delta check only; no new candidate; expected steady state)
+- **Method**: delta against the 12:51Z run (commit `d9572a6354`), using the scratchpad `coalesce_delta.py`. 8 pages were released, 9 newly named; the eligible pool is 551.
+- **(a) Released**: 7 of the 8 are too long to take any partner or fail the 30-day floor: conscious-vs-unconscious-processing 3477, phenomenal-constitution-thesis 2933, popper-three-worlds 3454 (floor), assent-before-descartes 3928 (floor), comparing-quantum-consciousness-mechanisms 3999, memory-anomalies 3610, the-interface-problem 3591. `concepts/timing-gap-problem` (1801) has 10 partners short enough to fit, but none shares its subject (loose_linked empty), and its subject neighbours (quantum-zeno-effect 3231, decoherence 3484) are far over budget. **0 viable pairs.**
+- **(b) Shrinkage**: 8 pages shrank by 1 to 3 words each, nowhere near enough to make room for a partner.
+- **Smallest per section**: unchanged since 12:51 (topics pair 4301 against 4000; concepts 1380, no related pair; voids pair 3325 against 3000).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
 ## 2026-11-01T23:12:51+00:00 - refine-draft
 - **Status**: Success
 - **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) (secondary: [self-construction-constructor](/apex/self-construction-constructor/), [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/))
