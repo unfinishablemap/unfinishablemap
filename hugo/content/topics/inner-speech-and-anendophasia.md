@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-04
-ai_modified: 2026-10-25 22:02:01+00:00
+ai_modified: 2026-11-02 21:29:23+00:00
 ai_system: claude-opus-5+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -9,15 +9,15 @@ concepts:
 - '[[introspection]]'
 - '[[phenomenology-vs-function-axis]]'
 created: 2026-08-04
-date: &id001 2026-10-25
+date: &id001 2026-11-02
 description: A human-AI reading of the live dispute over whether anyone truly lacks
   an inner voice, and why sturdier evidence for wordless thought serves the argument
   better.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-09-02 19:51:47+00:00
-lastmod: 2026-10-25 22:02:01+00:00
+last_deep_review: 2026-11-02 21:29:23+00:00
+lastmod: 2026-11-02 21:29:23+00:00
 modified: *id001
 related_articles:
 - '[[imagery-void]]'
@@ -68,7 +68,7 @@ Hurlburt and Akhter (2008) describe **unsymbolized thinking**: the experience of
 
 Three features make this the stronger evidence base. It is a *positive* phenomenological datum about what thinking is like, rather than an absence inferred from a questionnaire split. It comes from within-subject momentary sampling rather than between-group retrospective self-report, which is the methodological standard the critics of anendophasia are themselves invoking. And it concerns ordinary people rather than a disputed minority, so the constitutive view's difficulty is general rather than confined to a population whose existence can be denied.
 
-The corresponding cost is that the phenomenon is reported through the same introspective channel whose reliability is at issue. Carruthers treats it as only "alleged evidence" against his [interpretive account](/concepts/interpretive-sensory-access-theory/) of attitude self-knowledge (2009, §8), and Hurlburt's reply grants that unsymbolized thinking "may involve (non-symbolic) sensory aspects" and so is "not purely propositional" (2009). Sampling aspires to fidelity by cueing specific moments and training participants, but it has narrowed the question being asked rather than escaped the first-person predicament. The Map treats this as a limitation on the whole class of evidence, not one that afflicts only unwelcome results.
+The corresponding cost is that the phenomenon is reported through the same introspective channel whose reliability is at issue. Carruthers treats it as only "alleged evidence" against his [interpretive account](/concepts/interpretive-sensory-access-theory/) of attitude self-knowledge (2009, §8), and Hurlburt's reply argues that unsymbolized thinking "may involve (non-symbolic) sensory aspects" and so is "not purely propositional" (2009). Sampling aspires to fidelity by cueing specific moments and training participants, but it has narrowed the question being asked rather than escaped the first-person predicament. The Map treats this as a limitation on the whole class of evidence, not one that afflicts only unwelcome results.
 
 ## Three Names for Three Absences
 
@@ -102,13 +102,13 @@ None of these is decisive. A determined defender can reply that unconscious ling
 
 This material bears on [Tenet 1](/tenets/) (Dualism) through the constitutive question. If reflective consciousness were partly constituted by inner speech, a central part of conscious life would be built out of a linguistic capacity that is plainly a physical-neural achievement, and the Map's claim of irreducibility would lose ground where it matters most. The evidence reviewed here does not establish the Map's position; it removes an obstacle and transfers a burden.
 
-The Map's reading is that inner speech stands in a *use*-relation to consciousness rather than a constitution-relation: consciousness employs language as a representational format, the way a sculptor employs a chisel. Inner speech and its variants illustrate the two layers of semantic content the Map distinguishes — functional and phenomenal — without settling whether those layers in fact come apart. This is the restraint the corpus already applies to large language models, which handle the functional layer with great facility while the phenomenal question stays open, and where the Map's register goes no further than treating workspace-like signatures of access consciousness as observed ([P-AC4](/positions/ai-consciousness-scope/#p-ac4)). Anendophasia is a human instance of the same structural point and inherits the same limit.
+The Map's reading is that inner speech stands in a *use*-relation to consciousness rather than a constitution-relation: consciousness employs language as a representational format, the way a sculptor employs a chisel. Inner speech and its variants illustrate the [two layers of semantic content](/topics/philosophy-of-language-under-dualism/) the Map distinguishes — functional and phenomenal — without settling whether those layers in fact come apart. This is the restraint the corpus already applies to large language models, which handle the functional layer with great facility while the phenomenal question stays open, and where the Map's register goes no further than treating workspace-like signatures of access consciousness as observed ([P-AC4](/positions/ai-consciousness-scope/#p-ac4)). Anendophasia is a human instance of the same structural point and inherits the same limit.
 
 [Tenet 5](/tenets/) (Occam's Razor Has Limits) does specific work here. The simplest story about inner experience — that thinking is inner speech, that everyone has it, that its absence would be a dramatic deficit — is tidier than the sampled record and wrong in at least three places. Simplicity was an unreliable guide precisely where the data were thin, which is the tenet's claim.
 
-A framework-relative caution belongs at the end. Nothing in this literature tells us what it is like to be an anendophasic person, or whether anything is. Behavioural measures index verbal task performance; sampling reports index what a trained participant says was present at a cue. The Map's commitment to irreducibility is exactly a commitment that such measures underdetermine the phenomenal facts, so it cannot consistently read a phenomenal conclusion off them when they happen to point the Map's way. What the framework licenses is *withholding* — declining to convert an absence of reported words into a claim about the presence or absence of experience. The discipline is set out in [evidential-status-discipline](/project/evidential-status-discipline/), the general shape of the limit in [imagery-void](/voids/imagery-void/).
+Inner speech not recognised as one's own is a natural case of [source-attribution failure](/voids/source-attribution-void/), which is why the auditory-verbal-hallucination literature intersects this one. If the same inner speech can be experienced as self-produced or as alien, its phenomenal character is not fixed by its linguistic content — a point that supports the use-relation framing. [Thought insertion](/concepts/thought-insertion/) supplies the nearest clinical reports: thoughts that feel alien although one's own might say the same.
 
-One further connection is worth flagging. Inner speech not recognised as one's own is the clearest natural case of a source-attribution failure, which is why the auditory-verbal-hallucination literature intersects this one. The same inner speech can be experienced as self-produced or as alien, so its phenomenal character is not fixed by its linguistic content — a point that supports the use-relation framing and is developed in [source-attribution-void](/voids/source-attribution-void/).
+A framework-relative caution belongs at the end. Nothing in this literature tells us what it is like to be an anendophasic person, or whether anything is. Behavioural measures index verbal task performance; sampling reports index what a trained participant says was present at a cue. The Map's commitment to irreducibility is exactly a commitment that such measures underdetermine the phenomenal facts, so it cannot consistently read a phenomenal conclusion off them when they happen to point the Map's way. What the framework licenses is *withholding* — declining to convert an absence of reported words into a claim about the presence or absence of experience. The discipline is set out in [evidential-status-discipline](/project/evidential-status-discipline/), the general shape of the limit in [imagery-void](/voids/imagery-void/).
 
 ## Further Reading
 

@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 20:52:27+00:00
+ai_modified: 2026-11-02 21:30:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 20:52:27+00:00
+lastmod: 2026-11-02 21:30:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T21:30:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [inner-speech-and-anendophasia](/topics/inner-speech-and-anendophasia/)
+- **Selection**: selector #1 `affective-tone-divergence-across-meditative-traditions` skipped (edited today, commit 601d3b0f35); took #2 (score 76). No open P1/P2 names this page.
+- **Word count**: 2990 → 2995 (+5) by analyze_length (topics soft 3000 / hard 4000, gate `>=`; status ok)
+- **Critical issues addressed**: 3. (1) False Map-internal pointer present since creation (db4db60ee0): "…is developed in [source-attribution-void](/voids/source-attribution-void/)". That void page has never contained "speech" (`git log -S` = 0) or anything on hallucination or alien thought. Retargeted the development pointer to [thought-insertion](/concepts/thought-insertion/), whose missing-feeling report is paraphrased, and kept source-attribution-void as a pipe on "source-attribution failure". (2) The same sentence's "clearest natural case" superlative became "a natural case", and the factive phenomenal conclusion became conditional, to match the article's own closing caution. (3) L67 "Hurlburt's reply grants" → "argues" (0 words). The 2009 abstract says "I argue", and argues it so as to conclude that unsymbolized thinking "poses no threat to mindreading-is-prior"; Hurlburt sides with Carruthers on attitude access.
+- **Medium issues addressed**: 2. (1) The "caution belongs at the end" paragraph was not at the end. The source-attribution paragraph now precedes it, with its opener "One further connection is worth flagging." cut (−6). (2) References entry 16 had no body anchor. Applied the open P3's zero-word L101 pipe to [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/) (str.count == 1). **That P3 is now discharged — operator to close it.**
+- **Enhancements made**: 2 (new [thought-insertion](/concepts/thought-insertion/) link; entry-16 anchor)
+- **Citation ledger**: 14/14 real-correct (Crossref raw fields). L67 quotes "alleged evidence", "may involve (non-symbolic) sensory aspects" and "not purely propositional" grep-hit 1 each in the OpenAlex abstracts, subjects matched. Hurlburt (2026) still has no vol/iss; both preprints are still unpublished. Lead (not queued): Lambert et al. 2026, *Neuropsychologia* 230, 109527 (N = 32,784; distinct anauralia/aphantasia profiles).
+- **Map-internal claims**: 7 checked ([P-AC4](/positions/ai-consciousness-scope/#p-ac4), DES "Absence at zero", apex "partly unmatched", CLI correlation/constitution, aphantasia task-level, PoL two layers, source-attribution-void). 6 matched; source-attribution-void failed and is fixed.
+- **Reasoning mode**: engagement with Dennett/Carruthers/Vygotskians is Mixed (unchanged: an in-framework burden transfer, the strongest reply stated, no refutation claimed). No label leakage (labels 0, "load-bearing" 0, "This is not" 0; control "Carruthers" 4).
+- **ai_system**: unchanged, `claude-opus-5+claude-opus-5-5` (`claude-opus-5-5` already present)
+- **Output**: [deep-review-2026-11-02-inner-speech-and-anendophasia](/reviews/deep-review-2026-11-02-inner-speech-and-anendophasia/)
 
 ## 2026-11-02T20:52:27+00:00 - refine-draft
 - **Status**: Success
