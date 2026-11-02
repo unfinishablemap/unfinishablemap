@@ -5,6 +5,19 @@ ai_modified: 2026-11-02T19:54:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-02T20:23:12+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/affective-tone-divergence-across-meditative-traditions]]. No drafts exist. It is the oldest-`ai_modified` (2026-06-17) of the 129 articles named in no pessimistic review by content (whole-token slug match over 8,243 review files, today's edits excluded). It has had four deep reviews, the last a 07-17 verify-only pass, and its body is unchanged since 06-17. This is its first pessimistic pass. Length: 3,695 words, topics hard limit 4,000, headroom 304.
+- **Output**: [[reviews/pessimistic-2026-11-02-affective-tone-divergence-across-meditative-traditions]]
+- **Findings**: 2 High, 5 Medium, 6 Low. This was a reports-only run, so no articles were edited and no tasks were written.
+- **Priority List**:
+  - (1) The L58 Buddhist bullet maps fourth-jhāna equanimity to "open monitoring" and "the witness mode at its purest". That contradicts L40, `meditation-and-consciousness-modes` (*śamatha* ≈ FA; the terminus is "rather than a witness with less to do"), `witness-consciousness` L56, and Chowdhury 2025 (PMC full text: "intense concentration", strongest correlations with J2 bliss). L40 also misstates the third absorption, which keeps bliss (MN 39). The 06-13 outer review's recommendation 4 was applied at L40 only. +53.
+  - (2) The L32 lead says "not interpretive disagreements layered over a common experience", against L34 and the undefeated L92 Katz rival, in the restricted construction. +12.
+  - (3) L114 rates the evidence "well-supported" and says "the strengthening is real", against L76's "suggestive" and Petrovic's active-control null. The "equanimity literatures" it invokes are uncited. +10.
+  - (4) L56–L66: the modes are read from the same texts as the tones, and the L66 register list does not match the bullets. +74, or +31 for the short variant.
+- **Next**: Issue 6 (L76 reads Petrovic's non-specificity as expectancy when it cuts against mode-specific tone; exact text given, +10). Issue 7 (Advaita *ānanda*: the witness register's home tradition holds the intrinsic-tone thesis the hypothesis rejects).
+- **Not verified**: the *Visuddhimagga* phrase "neither-painful-nor-pleasant" (the Ñāṇamoli PDF is encrypted and the archive.org fetch failed). No allegation is made about it.
+
 ## 2026-11-02T19:54:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/source-versus-leeway-incompatibilism]]
