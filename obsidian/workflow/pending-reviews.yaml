@@ -569,3 +569,30 @@
   subject_articles:
   - topics/quantum-randomness-channel-llm-consciousness.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-01-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae7f401-5304-83ed-abd7-dc1ed65c19ad
+  commissioned_at: '2026-11-02T02:25:00.172199+00:00'
+  prompt_summary: 'Audit cross-state-void: claims, citations, counterarguments, integration'
+  target_filename: outer-review-2026-11-02-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct an independent critical review of one article from
+    The Unfinishable Map (https://unfinishablemap.org), a philosophy site that takes
+    a dualist stance on consciousness. The article is "The Cross-State Void" at https://unfinishablemap.org/voids/cross-state-void/,
+    last substantively modified 2026-10-26. It argues that a mind in one visceral
+    state cannot represent the felt weight of another state it has often had: the
+    description crosses over, the motivational pull does not, and knowing about the
+    bias does not remove it. Audit its claims, citations and quotations, counterargument
+    coverage, and integration with surrounding articles. Look especially for insufficient
+    evidence, missed counterarguments (including how well the empirical hot-cold empathy
+    gap literature it draws on has held up), tenet-protective bracketing, and stale
+    references. Because search indexes lag, check the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit cross-state-void
+  subject_articles:
+  - voids/cross-state-void.md
+  subject_source: fallback:recent-aged
