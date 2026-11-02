@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-01T08:06:42.615848'
+ai_modified: '2026-11-02T08:09:48.003692'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-11-01'
+date: '2026-11-02'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-01 08:06:42.615848+00:00
-modified: '2026-11-01'
+lastmod: 2026-11-02 08:09:48.003692+00:00
+modified: '2026-11-02'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-02: If Consciousness Matters, Can a Verified Chip Have It?
+
+A 2024 proof: if consciousness changes how a system evolves, no AI on verified chips is conscious. The Map grants two premises but not the third, that computation fixes whether an AI is conscious, and reads the result as coherent with its view, not as evidence for it.
+
+**Type**: new-article  
+**Link**: [dynamical-relevance-and-the-verification-boundary](/topics/dynamical-relevance-and-the-verification-boundary/)
+
+---
+
 ### 2026-11-01: Boredom Wants Something Different but Won't Say What
 
 A new void: boredom demands a change of engagement without naming a target, and makes a failed engagement look like a dull object. A computational model predicts the objectless signal too, so nothing here requires dualism. The void is a felt verdict that hides its grounds.
@@ -206,15 +215,6 @@ Kent and Wittmann call time consciousness the missing link, and say that unlike 
 
 **Type**: refinement  
 **Link**: [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
-
----
-
-### 2026-10-10: Attention as Mind's Lever: Narrowed, Not Proven
-
-Revised apex: the Map proposes mind moves matter through attention. Yet one patient handles Stroop conflict normally while feeling no effort, and predictive processing fits the same data. Verdict: a narrowing of where mind could act, not proof it does.
-
-**Type**: refinement  
-**Link**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
 
 ---
 
