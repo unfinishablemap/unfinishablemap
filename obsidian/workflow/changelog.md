@@ -1,8 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 06:16:41+00:00
+ai_modified: 2026-11-02 06:49:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-02T06:49:09+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-02
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5, gemini-3-1-pro). All three reviewed the recent-aged `voids/cross-state-void` (2,983/3,000, unchanged since `560e50ce5c`); Claude and Gemini reused ChatGPT's subject.
+- **Clusters**: 10 convergent (C1–C10; 8 clean on both legs, C6 Scarry clean but low-value, C8 language-model scope partial on both), 1 partial (X1), 4 methodology convergences (record only), 2 rejected convergences, 7 divergences. Every vote was adjudicated before counting.
+  - **Gemini has no clean vote.** 12 of its 13 "article" quotations come from other pages (voids.md L64/L133/L306, research notes, the pre-`560e50ce5c` wording); its "Kim de Jong 2025" meta-analysis was not found. It still surfaced that the L3 description and voids.md L306 carry the overgeneralised disclosure claim (already routed).
+  - **Dominant**: C2 disclosure generalised from one instruction study, and C3 L65 recasting every cold-side success as state entry. C1, the lede's content/weight split, is attacked from opposite flanks (ChatGPT: weight partly crosses; Claude: the intensity estimate does not cross intact).
+  - **Rejected**: R1 Kang & Camerer demotion (ChatGPT + Claude, both declined by their passes; L67 already states the manipulation); R2 the Mary analogy (Gemini targets replaced wording; ChatGPT's is a judgement call).
+- **Tasks upgraded**: 3 (P3→P2: 1, P2→P1: 2). P2→P1 citation currency (C4–C8) and taxonomy propagation (C9); P3→P2 the outward cross-review (C10, disjoint hosts, all grep-verified at 0 inbound). The lede/L65/disclosure P1 is held at P1 by the cap.
+- **Tasks deduplicated**: 0. The later legs had annotated the ChatGPT tasks instead of minting siblings.
+- **Superseded**: 1. The 2026-10-23 P3 on the L75 Ulysses direction slip is now `Status: superseded`, with a Superseded-by line naming the citation-currency task, whose item (4) covers L75. The research-note L178 half was not covered and was carried as that task's COMBINE ADD-ON (b).
+- **Combine add-ons (zero-word coordination)**: P1 (a) align L93's restated split with the graded lede; (b) opposite-flank constraint; (c) an UNVERIFIED Steinmetz lead (D3). Taxonomy P1: voids.md L306 also says "felt weight" (the Claude-only neutrality P2's L3 phrase), so neutralise it in the same edit.
+- **Singletons untouched**: Noordhof propagation (P2), inaccessible-past L84 (P2), SICI DOIs (P2), neutrality slips (P2; ChatGPT §10.2/§10.3 checked, unverified or divergent).
+- **todo.md**: `parse_tasks` active 317 → 317 (P1 pending 1 → 3, P2 pending 8 → 7, P3 pending 279 → 277, superseded 0 → 1); `git diff --stat` 18 insertions, 12 deletions (including frontmatter ai_modified). Later tasks shifted down by 2 lines (L4110 → L4112 … L4188 → L4194). No content page was edited.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-02]]
+
 ---
 
 ## 2026-11-02T06:16:41+00:00 - outer-review
