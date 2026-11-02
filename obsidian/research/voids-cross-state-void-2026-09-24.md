@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - Voids: The Cross-State Void"
 created: 2026-09-24
-modified: 2026-09-24
+modified: 2026-11-02
 human_modified: null
-ai_modified: 2026-09-24T20:19:30+00:00
+ai_modified: 2026-11-02T07:31:02+00:00
 draft: false
 target_section: voids
 topics: []
@@ -175,7 +175,7 @@ The limit has three structural features.
 There are none from the cold side, by the argument above. The only "direct" method is re-entry: controlled re-induction of the state (a cold-pressor sample, a social-exclusion manipulation). That is not mapping from outside. It is visiting.
 
 ### Indirect Methods
-- **Precommitment and testimony from the hot self.** Ulysses contracts, advance directives, and notes written *during* craving or pain for the cold self to read. These transmit the hot self's *verdicts* rather than its weight. They are an apophatic workaround: one trusts a report one cannot re-feel.
+- **Precommitment and testimony across states.** Ulysses contracts and advance directives are drafted in the calm state, so they carry the cold self's *verdicts* into the hot state; notes written *during* craving or pain carry the hot self's *verdicts* out, for the cold self to read. In both directions a verdict crosses without its weight. They are an apophatic workaround: one acts on a report one cannot re-feel. *(Corrected 2026-11-02: this entry originally said all three transmit the hot self's verdicts. Only the craving notes run hot to cold; see [[precommitment-and-the-diachronic-agent]].)*
 - **Behavioural traces as the map.** The hot self's revealed choices (what it paid, what it broke) are a record of weight, read inferentially. This is how the void can be charted without being crossed.
 - **Structural inference.** Knowing the *direction* of the bias (the cold underestimate) allows a correction factor without any restored access. It resembles correcting for a known instrument bias.
 - **Contemplative "noting".** Meditative traditions that label states while they occur ("craving, craving") may build a thin bridge of recognition. Whether they carry weight across is an open, testable question and should not be asserted.
