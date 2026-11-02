@@ -10,6 +10,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-02T10:31:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)
+- **Selection**: `scripts/deep_review.py next` top candidate (score 82, 90 days since last review). Not on the driver's exclusion list.
+- **Word count**: 3355 → 3352 (−3; length-neutral, soft 3000 / hard 4000)
+- **Critical issues addressed**: 2
+  - L77: Vedovato 2017 was described as "measurement choices made after a photon's propagation determine its earlier wave-or-particle behaviour". The abstract (OpenAlex) says the apparatus was chosen "while the photons are propagating from the satellite to the ground". So the timing was wrong, and the retrocausal reading was stated as the result. This is the defect the 2026-10-20 `concepts/retrocausality` refine fixed on the anchor page; it never reached this article.
+  - L59: "interpretation surveys consistently place it well behind the orthodox, many-worlds, and Bohmian readings" was uncited. Schlosshauer, Kofler & Zeilinger 2013 (raw arXiv text, Q12) gives TI 0% **and** de Broglie–Bohm 0%. The clause now cites that poll and scopes it as "one small 2011 foundations-conference poll". New References entry, DOI checked at Crossref.
+- **Medium issues addressed**: 3
+  - L75: the CCC clause said "any corridor-compliant coupling", which was close to circular and dropped the concept page's "wherever those assumptions hold". Now scoped to the theorem's assumptions; "is not an ad hoc add-on:" replaced.
+  - L53: "is not stipulated here; it is the conclusion of" (a This-is-not-X construction) → "comes from". The passage the 07-29 optimistic review praised is kept.
+  - L67: "the anchor concept" → `[[decoherence|the anchor concept]]` (no word cost).
+- **Offsetting trims**: −34 words from five 2026-05-27 expand-topic phrases. Each was checked with `git log -S` and a grep of `reviews/`; none had been added or praised by a review.
+- **Citations (§2.4)**: Chalmers & McQueen 2022 is real-correct (Crossref pp. 11-63, DOI added). Its quote "entirely consistent with decoherence at relatively low levels" is verbatim in arXiv:2105.02314v1 Objection 2, and the "selects among already-decohered brain states" gloss matches the same passage. Schlosshauer et al. 2013 is real-correct. The Vedovato "state-of-the-art" superlative still holds (one WebSearch, nothing newer). The other nine entries stand from the 2026-08-04 ledger.
+- **Map-internal quotes**: the time-symmetric-physics L138 quote is still verbatim. The TI L58/L80 paraphrases, the retrocausality L93 underdetermination, and the selection-criterion and selection-only claims all still match.
+- **Reasoning mode**: Maudlin/TI Mode Three; Tegmark Mode One; MWI floor Mode Three (all unchanged). No label leakage.
+- **Not edited**: L91 ledger (Chalmers–McQueen and the decoherence debt). It is owned by the open P3 on `topics/forward-in-time-conscious-selection` (item 3), and line numbering was kept stable.
+- **Follow-up minted**: P3 refine-draft. The Wheeler delayed-choice "determine" wording is still live at `concepts/time-symmetric-physics` L154 and `concepts/prebiotic-collapse` L70 (that file is over the hard limit, so the fix must be net-negative), and possibly at `topics/stochastic-emergence-as-quantum-interface-evidence` L99. The task also carries a lead: `concepts/retrocausality` L62 dates Maudlin's challenge to 2011.
+- **ai_system**: unchanged. `claude-opus-5-5` is already present (final component).
+- **Output**: [deep-review-2026-11-02-forward-in-time-vs-time-symmetric-selection](/reviews/deep-review-2026-11-02-forward-in-time-vs-time-symmetric-selection/)
+
 ## 2026-11-02T09:52:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [inaccessible-past](/voids/inaccessible-past/)
