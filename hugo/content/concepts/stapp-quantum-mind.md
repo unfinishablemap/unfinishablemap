@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-10-31 10:54:44+00:00
+ai_modified: 2026-11-02 14:09:06+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-10-31 10:54:44+00:00
+lastmod: 2026-11-02 14:09:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ Georgiev (2012) argues Stapp's model treats mind as using projection operators w
 
 Perhaps effort phenomenology is just what certain neural computations feel like—consciousness accompanies selection without causing it.
 
-**Response**: Epiphenomenalism faces a calibration problem. If effort phenomenology is causally disconnected from cognitive engagement, why should it reliably track task difficulty? The options are: pre-established harmony (implausible—why invest in non-functional phenomenology?), necessary accompaniment (reintroduces the explanatory gap), or causal connection (Stapp's proposal—effort feels effortful because it *is* engagement in quantum observation). The causal connection is one way to explain the phenomenology-function correlation, at the cost of positing a [psychophysical bridge law](/concepts/psychophysical-laws/): the identity "felt effort is observation rate" does not derive why observation rate should be experienced as effort rather than as something else or nothing, so it relocates rather than closes the explanatory gap. A heterophenomenological critic will note that the same difficulty-tracking is equally predicted if effort-reports co-vary with metabolic and computational cost without any quantum observation—so the calibration argument constrains epiphenomenalism without establishing the causal reading over it.
+**Response**: Epiphenomenalism faces a calibration problem. If effort phenomenology is causally disconnected from cognitive engagement, why should it reliably track task difficulty? The options are: common causation (implausible—why invest in non-functional phenomenology?), necessary accompaniment (reintroduces the explanatory gap), or causal connection (Stapp's proposal—effort feels effortful because it *is* engagement in quantum observation). The causal connection is one way to explain the phenomenology-function correlation, at the cost of positing a [psychophysical bridge law](/concepts/psychophysical-laws/): the identity "felt effort is observation rate" does not derive why observation rate should be experienced as effort rather than as something else or nothing, so it relocates rather than closes the explanatory gap. A heterophenomenological critic will note that the difficulty-tracking is equally predicted if effort-reports co-vary with metabolic and computational cost without any quantum observation—so the calibration argument constrains epiphenomenalism without establishing the causal reading over it.
 
 ### The Illusionist Challenge
 

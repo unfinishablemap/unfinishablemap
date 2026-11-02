@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification bur
 created: 2026-01-09
 modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-10-29T00:36:47+00:00
+ai_modified: 2026-11-02T14:09:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,7 +151,7 @@ The [[consciousness-as-amplifier|consciousness-as-amplifier hypothesis]] strengt
 
 The [[knowledge-argument]] is usually directed against physicalism, but it also challenges epiphenomenalism. When Mary sees red for the first time, she learns something new—what red looks like. She subsequently behaves differently: recognising, describing, and imagining red experiences. The natural explanation is that her new phenomenal knowledge causes her new abilities.
 
-Epiphenomenalism must deny this: some neural state causes both the phenomenal knowledge and the behavioural changes, with the correlation being non-causal. This forces epiphenomenalism to posit pre-established harmony rather than accept the straightforward causal explanation.
+Epiphenomenalism must deny this: some neural state causes both the phenomenal knowledge and the behavioural changes, with the correlation being non-causal. This forces epiphenomenalism to read the fit as a common-cause parallel rather than accept the straightforward causal explanation.
 
 ## Convergence of Arguments
 
@@ -162,7 +162,7 @@ The case against epiphenomenalism does not rest on any single argument. Four ind
 | Epistemic (self-stultification) | Rational credibility | Hard to hold consistently in bare-correlation form |
 | Evolutionary | Explanatory adequacy | Cannot explain consciousness's existence or distribution |
 | Phenomenological (introspection) | Self-knowledge | Cannot account for introspective access |
-| Knowledge argument reversed | Behavioural change | Requires implausible coincidences |
+| Knowledge argument reversed | Behavioural change | Forgoes the natural causal explanation |
 
 Each succeeds or fails independently, but together they close escape routes that any single argument leaves open. An epiphenomenalist might respond to each with a targeted defence, but the defences must be independently plausible and mutually consistent. The cumulative burden escalates even when individual defences succeed.
 

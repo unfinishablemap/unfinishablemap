@@ -1,8 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T13:55:55+00:00
+ai_modified: 2026-11-02T14:09:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-02T14:09:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]] (plus [[concepts/stapp-quantum-mind]], from the 2026-10-31 16:20Z addendum)
+- **Task**: P3 "`concepts/epiphenomenalism` L154 + L165 — “posit pre-established harmony”". Pre-established harmony is Leibniz's no-traffic coordination (`concepts/occasionalism` L59). The epiphenomenalist reply is a common neural cause, as L154's own first clause says ("some neural state causes both").
+- **Review file**: reviews/optimistic-2026-10-16-self-stultification-repair-wing.md; addendum from reviews/tenet-check-2026-10-31.md W8.
+- **Original score**: n/a (`scripts/curate.py` is absent; this is a targeted labelling fix).
+- **Changes** (each old string occurred exactly once beforehand and zero times afterwards):
+  - epiphenomenalism L154: "This forces epiphenomenalism to posit pre-established harmony rather than accept the straightforward causal explanation." → "This forces epiphenomenalism to read the fit as a common-cause parallel rather than accept the straightforward causal explanation."
+  - epiphenomenalism L165 (convergence table): "Requires implausible coincidences" → "Forgoes the natural causal explanation". A common cause explains the correlation, so it involves no coincidence.
+  - stapp-quantum-mind L138: "The options are: pre-established harmony (implausible—why invest in non-functional phenomenology?)" → "The options are: common causation (implausible—why invest in non-functional phenomenology?)". The parenthetical objection is kept. A bare noun matches the list's other two items ("necessary accompaniment", "causal connection").
+  - stapp-quantum-mind L138, net-negative funding: "will note that the same difficulty-tracking is equally predicted" → "will note that the difficulty-tracking is equally predicted". "same" repeats what "equally" already says. The phrase appears in no review or todo entry. The pessimistic-2026-05-25-stapp replacement text "The causal connection is one way to explain" was deliberately left alone.
+- **Not touched**: epiphenomenalism L102–L132 (the AI-exception passage that `positions/ai-consciousness-scope` depends on). Its "establishes … could never have entered the physical world" is left for a separate pessimistic/positions pass. W8's other half (the bare seeming-regress at stapp L142) belongs to todo L3421.
+- **Pronoun check**: stapp L138's following sentences ("The causal connection is one way…", "…without establishing the causal reading over it") keep their referents. Epiphenomenalism L154's "the fit" refers to the correlation in the preceding clause.
+- **Engagement classification** (editor-internal): epiphenomenalism L154/L165 moves from an overstated in-framework charge (coincidence) to Mode Three with a naturalness cost: the common-cause reply is coherent, and the cost named is forgoing the natural explanation. Stapp L138 is mixed: Mode One on the common-cause option (an evolutionary-investment objection), then Mode Three boundary-marking in the closing sentence, which is unchanged.
+- **Length** (`analyze_length`; concepts hard limit 3500, gate `>=`): epiphenomenalism 3463 → 3469; stapp-quantum-mind 3991 → 3990 (net −1; still over its gate, which was already the case).
+- **Frontmatter**: `ai_modified` → 2026-11-02T14:09:06+00:00 on both files. Both `ai_system` strings already contain `claude-opus-5-5`, so neither was changed.
+- **Published**: yes
+
 ---
 
 ## 2026-11-02T13:55:55+00:00 - refine-draft
