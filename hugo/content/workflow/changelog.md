@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 15:24:56+00:00
+ai_modified: 2026-11-02 15:36:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 15:24:56+00:00
+lastmod: 2026-11-02 15:36:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T15:36:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness](/concepts/consciousness/)
+- **Task**: P3 "`concepts/consciousness` L117": the central concept page said the epiphenomenalist's reports track experience "only by luck" ("an unexplained coincidence"), the framing the self-stultification hub retired 2026-10-16 and tenets L101 contradicts.
+- **Review file**: reviews/optimistic-2026-10-16-self-stultification-repair-wing.md (Priority List item 4).
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted calibration fix).
+- **Changes** (old string occurred exactly once beforehand and zero times afterwards; new string occurs once): L117 "would be an unexplained coincidence—our zombie twins would say the same words, but only by luck would those words track phenomenal reality." → "would rest on a lawful parallel rather than on the experiences themselves—our zombie twins would say the same words, and whether a parallel without causal traffic yields knowledge is the [contested premise](/tenets/#tenet-3-epiphenomenalism)." (+10). The preceding sentence ("our accurate judgments about phenomenal states suggest genuine causal contact with experience") is unchanged.
+- **Model consistency**: agrees with hub `concepts/self-stultification` L147 (common-cause structure makes the tracking "lawful rather than coincidental") and L149 (the reply owes an account of how "a lawful parallel yields knowledge of experience without causal traffic from it", contested at the same `^tenet-3-epiphenomenalism` anchor), and with tenets L101 (reports "reliable in virtue of the parallel rather than the cause"; the objection bites only if knowledge requires causal traffic). `topics/valence-and-conscious-selection` L182 still uses "cosmic coincidence" for the inert-valence correlation but immediately names the co-optimization reply as the epiphenomenalist's best answer; it is a different (evolutionary-correlation) argument and was not edited. The new sentence names a contested premise and does not present self-stultification as refuting epiphenomenalism.
+- **Pronoun check**: L117 ends the paragraph; the next paragraph opens with its own subject ("**[panpsychism](/concepts/panpsychism/)** holds"). Within the sentence, "those words" was removed, and nothing points back to it.
+- **Engagement classification** (editor-internal): epiphenomenalism on L117, from a flat in-framework "luck" charge to Mode Three. The Map's rejection rests on a "suggest" inference, and the residue is named as the contested causal-traffic premise.
+- **Length** (`analyze_length`; concepts hard limit 3500): 2511 → 2521 (+10).
+- **Frontmatter**: `ai_modified` → 2026-11-02T15:36:46+00:00; `modified` → 2026-11-02; `ai_system` → claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5 (claude-opus-5-5 was absent). Validator: valid.
+- **Published**: yes
 
 ## 2026-11-02T15:24:56+00:00 - refine-draft
 - **Status**: Success
