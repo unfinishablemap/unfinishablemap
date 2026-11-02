@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt causal-closure calibration in dynamical-relevance-and-the-verification-boundary
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/dynamical-relevance-and-the-verification-boundary.md
+- **Notes**: From topic-concept anchoring audit 2026-11-02. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.01/kw is below 2.75/kw (target = 60% of anchor 4.58/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-11-02
+
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1680,7 +1692,8 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/collapse-priority-problem-2026-10-15.md
 - **Target section**: concepts
 - **Section**: concepts
-- **Status**: pending
+- **Status**: blocked
+- **Blocked-by**: concepts section cap: 370/370 by `tools.evolution.state.count_section_files` on 2026-11-02 03:51Z, so expand-topic refuses. Cycle_pick offered this task anyway; it does not apply the cap filter. Unblock by (a) freeing a concepts slot (coalesce/archive), (b) retargeting to topics, which has 1 slot left (369/370) and is a judgement call because the piece is concept-shaped, or (c) folding the debt statement into an existing host such as `concepts/post-decoherence-selection` (3,280 words, so tight). Operator decision.
 - **Source**: research-topic 2026-10-15 21:05Z (`obsidian/research/collapse-priority-problem-2026-10-15.md`, Recommended article; commit d37cd846). Driver-minted because nothing consumes `task_chains.pending_articles` for topics/concepts; the note's entry there is not a queue.
 - **Generated**: 2026-10-15
 - **Headroom**: concepts 359/370 (count_section_files 2026-10-15 20:45Z). Re-measure before writing and stop if >= 370. Target ~2,500 body words (concepts hard 3,500).
