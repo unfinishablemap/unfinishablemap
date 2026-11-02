@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T19:54:54+00:00
+ai_modified: 2026-11-02T20:39:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T20:39:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/affective-tone-divergence-across-meditative-traditions]]
+- **Task**: P2 from [[reviews/pessimistic-2026-11-02-affective-tone-divergence-across-meditative-traditions]], Priority List items 1–4. OLD→NEW strings were pulled from the review by script; each OLD occurred exactly once.
+- **Original score**: n/a (`scripts/curate.py` absent; specified-replacement task)
+- **Word count**: 3695 → 3845 by analyze_length (+150; topics hard limit 4000, gate `>=`; headroom now 154). Status stays `soft_warning`.
+- **Changes**:
+  1. (1a, +11) L40: the third absorption now drops rapture but keeps a subtler pleasure, and the fourth abandons pleasure (MN 39, Sujato: "Equanimous and mindful, one meditates in bliss"; the first two "drench, steep, fill, and spread" with rapture and bliss; the fourth comes "with the giving up of pleasure and pain"). All four re-confirmed via the SuttaCentral API.
+  2. (1b, +42) L58: the Buddhist bullet classes fourth-jhāna equanimity as concentrative absorption (selection thinning out), not open monitoring. "The witness mode at its purest" is replaced by the framework's "rather than a witness with less to do". The bullet adds J2 bliss (Chowdhury et al., 2025) as a stage-within-one-mode datum for the stage-mismatch rival. Checked against `meditation-and-consciousness-modes` L116 (*śamatha*/FA), L118 and L64, and `witness-consciousness` L56.
+  3. (2, +12) L32 lede: "These are not interpretive disagreements …; they are …" became the review's face-value wording. This removes the report→state slide and the restricted construction.
+  4. (3a +5, 3b +5) L114: "the loving-kindness and equanimity literatures suggest it does" became a practice-to-affect link "though not yet a mode-specific one". "The strengthening is real … well-supported" became "What the data support is narrower: … passive controls … but not active ones (Petrovic et al., 2024)". The grade now matches L76's "suggestive".
+  5. (4, +75, long variant) L66: the circularity is named (registers are read from the same texts that report the tone), and the register list is corrected. **Deviation from the review's NEW**: the list leads with "thinning selection", not "withdrawal". Item 1b deletes "the progressive *withdrawal* of selection" from the Buddhist bullet, so "withdrawal" would have mismatched the bullet it names. The other three labels match `*intensified participation*`, `*received*` and `*suspension of forcing*`. +1 word against the review's +74.
+- **Verification**:
+  - Chowdhury 2025: the PMC OAI full text (PMC11770875) was fetched; Europe PMC returned 500. It has "especially with ACAM-J-induced states of bliss" (abstract) and "the intensely pleasant bodily feeling of 'bliss or joy' during ACAM-J2". In the results, J2 "bliss/joy" correlates with DMN GFC (+), modularity (−), and beta/gamma power and LZ decreases. J3 "cool bliss" also supports 1a. The study is already reference 13.
+  - Petrovic 2024 is already reference 12. Crossref matches the title, the four authors, *CPR* 110, 102433 and 2024. The OpenAlex abstract says effects were positive "relative to passive control groups" and "non-significant relative to active control groups and alternative therapeutic treatments". No References change was needed.
+  - Pronouns re-read after every replaced sentence; all antecedents hold.
+  - Greps: "This is not"/"These are not" 0; "load-bearing" 4, all pre-existing and exempt per the review's Issue 13, none in new text; mode labels 0 (control `jhāna` = 3).
+- **Not touched**: the *Visuddhimagga* "neither-painful-nor-pleasant" quote (the review could not verify it; no allegation). Also Issues 6–13.
+- **Reasoning mode**: no named-opponent reply was edited. The rival paragraphs (L86–L94) are untouched and remain honest boundary-marking.
+- **Residual (not queued)**: L40's closing sentence still glosses the Chowdhury/Demir ratings as "fading valence". It now sits beside L58's J2-bliss clause from the same study. The two are compatible across the trajectory, but a later pass could note the J2 peak there too.
+- **ai_system**: claude-opus-4-7+claude-opus-4-8 → claude-opus-4-7+claude-opus-4-8+claude-opus-5-5 (fork transcript: 43× `claude-opus-5-5`, no other model).
+- **Published**: yes
 
 ## 2026-11-02T20:23:12+00:00 - pessimistic-review
 - **Status**: Success

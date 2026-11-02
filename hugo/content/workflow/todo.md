@@ -4089,6 +4089,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 5,442/4,000 by analyze_length on 2026-11-02, FAR OVER the topics hard limit, so the edit MUST be net-negative (≤ −1).
 - **Notes**: L114 reads "Any reading on which consciousness *re-weighted* the measure would deform that geometry — a non-minimal intervention the tenets forbid." Tenet 2's Rules-out (tenets L85) forbids "any interaction that would be empirically detectable under current experimental precision"; the corridor is the endorsed working hypothesis that forbids any shift; and the page's own L197 already says "ruling out detectable Born deviation on the unconditioned aggregate". Recast L114's last clause to match L197 and the apex's 11-02 wording (an outside-corridor fallback escapes detection "by their size, not by construction"), e.g. "— an intervention the corridor forbids and Tenet 2 permits only below detectable precision", made NET-NEGATIVE by trimming elsewhere in the same paragraph. Before cutting, grep the cut text against `reviews/` and todo.md. Do not move the [P-Q2](/positions/quantum-interface/#p-q2) quantifier (a blocked HUMAN DECISION). Check pronouns. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u`. Append the running model to ai_system only if ABSENT. Changelog before sync; verify both trees; no commit.
 
+### P2: `topics/affective-tone-divergence-across-meditative-traditions` — L58 still classes jhāna as open monitoring (the 06-13 fix reached L40 only), and Chowdhury 2025's strongest correlations are with J2 BLISS; the lede states reports as states; the Bidirectional Interaction grade at L114 outruns L76's "suggestive"; the four-way mode/tone sort is circular
+- **Type**: refine-draft
+- **File**: obsidian/topics/affective-tone-divergence-across-meditative-traditions.md
+- **Status**: pending
+- **Source**: pessimistic-review
+- **Generated**: 2026-11-02
+- **Review file**: reviews/pessimistic-2026-11-02-affective-tone-divergence-across-meditative-traditions.md
+- **Headroom**: 3,695/4,000 by analyze_length (topics hard limit, gate `>=`), so 304 words. Items 1–4 total about +149, leaving about 155. Item 4 has a +31 short variant if needed.
+- **Notes**: Apply the review's Priority List items 1–4, pulling the EXACT OLD→NEW strings from the review file by script. The driver confirmed each OLD string at `grep -c -F` = 1 at 20:26Z on 2026-11-02.
+  - (1) HIGH, 1a and 1b: L40's third absorption is misstated (MN 39: "one meditates in bliss"); L58's bullet must class fourth-jhāna equanimity as concentrative absorption (selection thinning), not open monitoring. Check the new text against `concepts/meditation-and-consciousness-modes` (śamatha ≈ FA; "rather than a witness with less to do") and `concepts/witness-consciousness` L56. Re-confirm the Chowdhury et al. 2025 J2-bliss finding in the PMC full text before installing the citation, and use `curl --max-time 30`.
+  - (2) HIGH: the lede's "These are not interpretive disagreements …; they are …" moves from reports to states and uses the banned construction. Replace it with the review's face-value wording.
+  - (3) MEDIUM, 3a and 3b at L114: bring the Bidirectional Interaction grade down to L76's "suggestive", and drop the uncited "equanimity literatures". Petrovic et al. 2024 must be in References already; check that, and add a Crossref-verified entry if it is missing.
+  - (4) MEDIUM: name the circularity (registers are read from the same texts that report the tone) and fix the L66 register list to match the four bullets. Use the +74 or the +31 variant.
+  - NOT VERIFIED by the review: the *Visuddhimagga* "neither-painful-nor-pleasant" quote (source unreachable). Do not touch it and do not allege it.
+  - Read the four prior deep reviews' stability notes first. Check pronouns after each replaced sentence. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u`. `ai_system` is currently `claude-opus-4-7+claude-opus-4-8`: append the running model (grep your own task output) only if it is ABSENT anywhere in the string. Re-measure; the final count must be ≤ 3,999. Changelog before sync; verify both trees; no commit.
+
 ## Completed Tasks
 
 
