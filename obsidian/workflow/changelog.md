@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 06:04:26+00:00
+ai_modified: 2026-11-02 06:16:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-02T06:16:41+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro Deep Research (`gemini-3-1-pro`), collected by collect-gemini-review. Commissioned 04:54:12Z; ready on the first collect attempt (06:07Z, about 73 min). Subject: `voids/cross-state-void`, the same subject as the ChatGPT and Claude reviews, reused from the ChatGPT entry.
+- **File**: [[reviews/outer-review-2026-11-02-gemini-3-1-pro]]
+- **Extraction**: the inline Deep Research panel (the only `.markdown.markdown-main-panel` with an h1; 27,989 textContent chars) was walked to markdown: 28,438 chars, 3,929 words, ending with the five-weakness table and the verdict. The 29-entry "Sources used in the report" list lives in a separate `deep-research-source-lists` element, so it was extracted separately and appended. The local file was FNV-hash-matched against the browser text (28,321 normalised chars, identical).
+- **Claims verified**: 20 checks. 13 phrases quoted as the article's own were traced: one paraphrases the description (L3); the rest come from `voids/voids.md` (L64, L133, L306), research notes, the pre-`560e50ce5c` wording ("cannot see it now"), selection-cluster pages, `positions/value-in-selection` and an optimistic review. Metadata ✓ for Maier, Wong & Feldman 2024 (already on numbing-void), Suksasilp & Garfinkel 2022, Papineau 2021 and Pettigrew.
+- **Disputed**: "Kim de Jong et al. 2025" empathy-gap meta-analysis not found (the OpenAlex Kim de Jong publishes on psychotherapy feedback; the APA Monitor PDF exceeded the fetch limit), so probably fabricated. Seth & Tsakiris misdated (2018, 22(11) 969–981, not 2021). "Claims physicalism fails" is false against L67/L93/L95. Interoceptive plasticity is a category error (current signals, not absent states). The Knowledge Argument critique answers superseded wording that L95 already concedes. Pettigrew is already engaged in transformative-experience-void (L65, L120). "Yang et al. 2025" is unsourced.
+- **High-value findings**: 3, all convergent: the disclosure overgeneralisation (also in the L3 description and voids.md L306); no physicalist mechanism named (now 3/3 reviewers, against an earlier length decline); the void-versus-bias label question (3/3).
+- **Tasks generated**: 0 (active stays 317).
+- **Convergence lines**: 3, each a `Convergence` line above Notes plus a GEMINI ADD-ON inside Notes. P1 lede/disclosure: also narrow the L3 description, and do not cite Kim de Jong or Yang. Citation-currency P2: revisit the mechanisms decline at clause level in L67, give the correct Seth & Tsakiris metadata, and do not attribute Gemini's enactment argument to them. Taxonomy P2: bring voids.md L306 "knowing about the bias does not remove it" into line with the P1, and record Gemini as a third voice on the label question.
+- **Length context**: cross-state-void 2,983/3,000 (16 headroom). All add-ons are length-neutral; the description edit is frontmatter, outside analyze_length.
+
 ---
 
 ## 2026-11-02T06:04:26+00:00 - outer-review
