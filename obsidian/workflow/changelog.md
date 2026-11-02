@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 04:48:19+00:00
+ai_modified: 2026-11-02 05:35:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-02T05:35:59+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (`gpt-5-6-sol-pro`), collected by collect-chatgpt-review. Commissioned at 02:25:00Z; ready on the first collect attempt (05:22Z, about 177 min). Subject: `voids/cross-state-void` (fallback:recent-aged).
+- **File**: [[reviews/outer-review-2026-11-02-chatgpt-5-6-sol-pro]]
+- **Extraction**: the 2026-10 ChatGPT DOM (one `[data-turn-key]` turn, `data-talvt-turn-state="complete"`, no stop button) has a single `[data-markdown-text-style]` body. It was walked to markdown with citation pills reduced to plain source links, then read out in 950-character chunks. The transcription matches the in-page string by FNV hash, both whole (46,197 chars) and per 2,000-char chunk. 5,961 words; the final item (34) is present.
+- **Claims verified**: 13 ✓ (Crossref/OpenAlex/PubMed: Fisher & Rangel 2014 20¢/19¢; Ozdemir et al. 2024, 248 participants, 60–71%/76–77% vs 58%; Krügel & Uhl 2023 symmetric commitment; Helton & Register green OA; the lede/Read & Loewenstein contradiction; the L65 immunising reading; the single-study disclosure claim; three sibling propagation debts; missing reciprocal links). 4 unverified leads (Helton & Register's concessions: 403 and a Cloudflare challenge, not attempted; Scarry p. 7: image-only PDF; the content of Taş et al. 2026; Uhl 2011).
+- **Disputed**: 2 ✗ (the article does not "slide among all three", since L75 already separates correction from access; Kang & Camerer demotion declined, because L67 already states the real/hypothetical manipulation and the paper frames itself as a hot-cold gap). 4 lower-value items recorded, not tasked (torture accuracy, Mary, rename, LM scope).
+- **High-value findings**: 9.
+- **Tasks generated**: 6 (P1 ×1, P2 ×4, P3 ×1), inserted above `## Completed Tasks` (active 309 → 315): (1) P1 cross-state-void lede vs own data, immunising Steinmetz reply, disclosure/structural/Occam scope; (2) P2 cross-state-void citation currency (Fisher & Rangel, Helton & Register, Scarry, L75 Ulysses, which discharges the 10-23 P3, L89); (3) P2 three-kinds-of-void L97 + voids.md L306 reclassification propagation; (4) P2 Noordhof caveat into valence-void + pain-consciousness-and-causal-power (convergent with pessimistic-2026-10-11 Issue 3); (5) P2 inaccessible-past L84 overclaim + reciprocal link; (6) P3 outward cross-review (mood/transformative/voids-between-minds links, Krügel & Uhl in precommitment).
+- **Methodology**: item 28 (propagation gate) was recorded as a 2026-11-02 addendum on the existing NEEDS-HUMAN propagation entry, with the verified cross-state instance. Items 25–34 otherwise recur from earlier cycles; no new methodology task.
+- **Length context**: cross-state-void is at 2,983/3,000 (16 headroom), so the P1 and P2 are briefed length-neutral.
+
 ---
 
 ## 2026-11-02T04:48:19+00:00 - check-tenets

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-02T04:54:34.902847+00:00'
-session_count: 23890
+last_updated: '2026-11-02T05:06:05.805334+00:00'
+session_count: 23891
 cycle_position: 15336
 last_runs:
   add-highlight: '2026-11-01T08:07:19.217282+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-11-02T02:38:02.679184+00:00'
   apex-evolve: '2026-10-31T16:34:37.744333+00:00'
   check-links: '2026-11-01T16:11:38.405984+00:00'
-  check-model-fallback: '2026-11-01T23:51:06.511087+00:00'
+  check-model-fallback: '2026-11-02T05:06:05.805334+00:00'
   check-tenets: '2026-11-02T04:49:08.886262+00:00'
   coalesce: '2026-11-01T23:36:56.131823+00:00'
   collect-chatgpt-review: '2026-11-01T04:06:30.190236+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-01'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-01'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-02'
   outcome: success
   kind: commission
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-02'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/what-voids-reveal/

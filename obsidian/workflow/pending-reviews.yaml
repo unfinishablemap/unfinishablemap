@@ -3,9 +3,9 @@
   commissioned_at: '2026-11-02T02:25:00.172199+00:00'
   prompt_summary: 'Audit cross-state-void: claims, citations, counterarguments, integration'
   target_filename: outer-review-2026-11-02-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-02T05:26:42.680333+00:00'
   failure_reason: null
   prompt_text: 'Please conduct an independent critical review of one article from
     The Unfinishable Map (https://unfinishablemap.org), a philosophy site that takes
