@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 05:35:59+00:00
+ai_modified: 2026-11-02 06:04:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-02T06:04:26+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (`claude-opus-5-5`, Research mode; Fable's weekly limit was reached), collected by collect-claude-review. Commissioned 03:10:54Z; ready on the first collect attempt (05:52Z, about 161 min; "Research complete • 329 sources"; one user message, so no clarifying stage). Subject: `voids/cross-state-void` (reused from the ChatGPT leg's pending entry).
+- **File**: [[reviews/outer-review-2026-11-02-claude-opus-5-5]]
+- **Extraction**: the main-pane artifact tile (excluding "View all") opened the panel. The body was stable at 31,834 textContent chars across a 10 s sample, walked to markdown (39,839 chars, 4,758 words), and Blob-downloaded. The file length equals the in-page string exactly, and the last section (§9 Concrete improvements) is present and was read in full.
+- **Claims verified**: 11 ✓. Broken SICI DOI in the built HTML (5 files corpus-wide, 2 of them live articles). The Read & Loewenstein figures, which the reviewer could not check, are CONFIRMED in full text (Exhibit 7). Nordgren, McDonnell & Loewenstein 2011 Study 3 prior-cold null (full text). Nordgren 2006 abstract (PubMed 16866751; L53 "as much as" goes beyond it). Francis 2014 PTES .090 for ref 8 (Crossref-verified; base rate 36/44). Sleep-void quotations and 0 reciprocal links. The impairment-void precedent. The anticipatory-valence concession already on valence, P-VS1 and miswanting. Agnosticism slips at L3 and L95. 4 unverified: Sayette's "cannot recall" (not in the abstract); the Helton & Register full-text leads (Springer login, PhilArchive 403); the reviewer's uncited field and lab figures; Noordhof details.
+- **Disputed**: 8 ✗. The changelog "last modified 2026-10-15, no entry" is false (live page newest 02:05Z, 16 mentions). Created vs published is not a defect. Inaccessible-past "demonstrates" was already fixed (dceca644ac). The Kang & Camerer decline stands (second reviewer). "Structural" does not presuppose the phenomenal reading. "re-feel" is neutral. Miswanting already links cross-state. The partial deflation was already done at L39 on 10-26.
+- **High-value findings**: 9 (5 of them overlap ChatGPT's tasks).
+- **Tasks generated**: 2 (P2 ×2), inserted above `## Completed Tasks` (active 315 → 317): (1) P2 broken SICI DOI links, FIVE FILES, length-neutral percent-encoding; (2) P2 cross-state-void agnosticism language (L3 "felt weight", L95 "omits its phenomenal character", L83 restated concession), length-neutral, to run after the P1/P2.
+- **Convergence lines**: 4, each a `Convergence` line above Notes plus a CLAUDE ADD-ON inside Notes. P1 lede/L65/disclosure: Study 3 as a second source, figures confirmed, a usable falsifier, L65 "closes", L53 "as much as", L57 binge. P2 citation currency: Study 3, an optional Francis caveat, H&R and Sayette leads marked UNVERIFIED, physicalist section declined. P2 three-kinds: the impairment-void precedent. P3 outward: sleep-consciousness-void as a fourth reciprocal host (82 headroom).
+- **Methodology**: data point added to the NEEDS-HUMAN 2026-10-15 changelog-size entry (this review and the unlogged 10-31 synthesis rejection). Replication tags, quotation tiers and inference audits recur; no new methodology task.
+- **Length context**: cross-state-void 2,983/3,000 (16 headroom). Both new tasks are length-neutral.
+
 ---
 
 ## 2026-11-02T05:35:59+00:00 - outer-review

@@ -31,9 +31,9 @@
   prompt_summary: 'Hostile referee audit of cross-state-void: citations, replication,
     framing'
   target_filename: outer-review-2026-11-02-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-02T05:53:13.782814+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair referee for one article from The
     Unfinishable Map (https://unfinishablemap.org), a philosophy site that openly
