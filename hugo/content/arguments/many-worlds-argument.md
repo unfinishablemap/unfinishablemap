@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-07 23:11:56+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-11-02 18:49:22+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -16,15 +16,15 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[introspection]]'
 created: 2026-01-15
-date: &id001 2026-08-19
+date: &id001 2026-11-02
 description: 'The Map''s cumulative case for one-world actuality: indexical identity,
   probability, and where disagreement with Everett is a boundary commitment, not a
   defeat.'
 draft: false
 human_modified: null
 last_curated: 2026-05-10
-last_deep_review: 2026-07-19 13:13:14+00:00
-lastmod: 2026-09-07 23:11:56+00:00
+last_deep_review: 2026-11-02 18:49:22+00:00
+lastmod: 2026-11-02 18:49:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +32,7 @@ related_articles:
 - '[[quantum-interpretations]]'
 - '[[probability-problem-in-many-worlds]]'
 - '[[vertiginous-question]]'
+- '[[diverging-worlds-everettianism]]'
 - '[[direct-refutation-discipline]]'
 - '[[evidential-status-discipline]]'
 - '[[reviews/outer-review-synthesis-2026-05-10]]'
@@ -56,19 +57,19 @@ The appeal is obvious: many-worlds preserves the determinism of the Schrödinger
 
 **Premise 3**: Everett's own resources for answering it—branch-relative identity, self-locating credence, decision-theoretic Born rules, examined below—presuppose the very centred subject the question asks after; they relocate it rather than dissolve it.
 
-**Conclusion**: Answering the indexical question requires the *global* uniqueness of the subject that [Tenet 4](/tenets/#no-many-worlds) commits the Map to—a framework-boundary commitment, developed below, not a claim that Everett has nothing to say. Decisive against branch-egalitarian Everettianism, that case is supplementary rather than sufficient against first-personally *centred* many-worlds (List, examined below), where a separate rejection of modal realism carries the weight.
+**Conclusion**: Answering the indexical question requires the *global* uniqueness of the subject that [Tenet 4](/tenets/#no-many-worlds) commits the Map to—a framework-boundary commitment, developed below, not a claim that Everett has nothing to say. Decisive against branch-egalitarian Everettianism read as fission, that case is supplementary rather than sufficient against first-personally *centred* many-worlds (List, examined below), where a separate rejection of modal realism carries the weight.
 
 This is the Map's central objection. When you make a measurement, many-worlds says you split—spin-up in one branch, spin-down in another—yet you experience only one outcome. Which you?
 
-The many-worlds theorist says the question is confused: both branches are equally real, both contain persons derived from you, and there is no fact about which is "really" you—you're simply in the branch you observe. But this dissolves rather than answers it. Before measurement there is one you; after, many-worlds says there are two equally real continuations, yet you find yourself in exactly one. The experience of being this one rather than that one seems to be a fact—and many-worlds says it's not.
+The many-worlds theorist says the question is confused: both branches are equally real, both contain persons derived from you, and there is no fact about which is "really" you—you're simply in the branch you observe. But this dissolves rather than answers it. The experience of being this one rather than that one seems to be a fact—and many-worlds says it's not.
 
-This connects to [personal-identity](/topics/personal-identity/), the [binding-problem](/concepts/binding-problem/), and [haecceity](/concepts/haecceity/). Many-worlds fragments the unity of consciousness across branches, then tells us the fragmentation isn't real, or doesn't matter, or is the wrong question—none of which satisfies. The problem is not epistemic (which branch am I in?) but metaphysical: if both branch-persons are equally "you," personal identity becomes radically non-unique; if neither is more "you" than the other, then what are you?
+This connects to [personal-identity](/topics/personal-identity/), the [binding-problem](/concepts/binding-problem/), and [haecceity](/concepts/haecceity/). On this fission picture the problem is not merely epistemic (which branch am I in?) but metaphysical: if both branch-persons are equally "you," personal identity becomes radically non-unique; if neither is more "you" than the other, then what are you? On the [diverging-worlds reading](/concepts/diverging-worlds-everettianism/) (Saunders 2010; Wilson 2020), though, many qualitatively identical observers already existed before the measurement, each with exactly one future, so the question becomes ordinary self-location and the Map concedes that this fission-shaped argument does not reach it. What survives is narrower, at the framework boundary: why I am *this* observer rather than a duplicate, and the posit that unchosen outcomes occur nowhere.
 
 ### The Parfit Convergence
 
 Many-worlds shares a deep structural problem with [Parfit's reductionism](/concepts/parfit-reductionism/). Parfit holds that identity consists in nothing over and above psychological continuity—no further fact about "who is really you." Many-worlds makes the analogous move: all branch-continuations are equally real, with no fact about which one "is" you.
 
-Both face the same objection: they cannot accommodate the apparent fact that you will experience exactly one future. *You* will wake up tomorrow as exactly one person—yet both tell us to abandon the question of which copy or branch that will be. If Parfit's reductionism troubles you in teletransporter cases, many-worlds should trouble you equally.
+Both face the same objection: *you* will wake up tomorrow as exactly one person, yet both tell us to abandon the question of which copy or branch that will be. If Parfit's reductionism troubles you in teletransporter cases, many-worlds should trouble you equally; if it does not, the objection loses its grip, being only as strong as the non-deflationary subject it presupposes.
 
 ### The Branch-Relative Identity Programme
 
@@ -78,9 +79,9 @@ A sophisticated literature inside the Everettian framework defuses the indexical
 
 But the framework helps itself to a move it has not earned. Branch-relative identity presupposes a centred subject *for whom* identity holds along the branch—an "I" whose perspective the branch-relative facts are facts *of*. The Everettian wave function is not centred; its branch decomposition is observer-relative, returning the preferred-basis problem at the level of the experiencing subject. The centring is supplied by the agent's perspective at the time of utterance—but that perspective is exactly what the indexical question was asking about. Wallace secures branch-local indexicality by making the global indexical question ill-formed; the move is the framework's preference, not its derivation.
 
-**Tappenden** (2008, 2017) extends the picture with a self-locating-beliefs account: pre-measurement uncertainty is uncertainty about *which* post-measurement observer I will be, even though all exist. The agent has well-defined credences over self-locating propositions ("I am the spin-up observer") that cash out the felt experience of probability. The structure matches Wallace's, and the same unsupported move appears: the centred subject grounding the credences is presupposed, not delivered by branching alone.
+**Tappenden** questions a central assumption of Saunders and Wallace's case for uncertainty before branching (2008) and turns to the uncertainty after it: a post-measurement, pre-observation subject has well-defined credences over self-locating propositions ("I am the spin-up observer"), grounded in a mind-body account favoring fission over divergence (2017). The centred subject the credences need is then supplied by that account, not by branching alone—the dependence the Map presses.
 
-**Vaidman** (1998, 2014) takes self-locating uncertainty into Born-rule derivation: rational credence in spin-up is the measure-weight of the spin-up branches, justified by a caring measure that respects amplitude. Whether that presupposition encodes the Born rule it was meant to derive is a live pressure point; Mandolesi (2018) formalises the circularity.
+**Vaidman** (1998, 2014) takes self-locating uncertainty into Born-rule derivation: rational credence in spin-up is the measure of existence of the spin-up worlds, justified by symmetry across worlds of equal measure. Whether equating that measure with squared amplitude presupposes the Born rule it was meant to derive is a live pressure point.
 
 **Sebens and Carroll** (2018) supply the most-discussed contemporary derivation: the Born rule emerges from epistemic separability and self-locating uncertainty in the gap between branching and observation, doing substantive work on the [probability problem](/topics/probability-problem-in-many-worlds/). The in-framework objection—that decoherence may not provide the temporal gap the derivation requires, and that the epistemic-separability axiom is itself amplitude-laden—is live in the technical literature.
 
@@ -110,7 +111,7 @@ Everett and subsequent proponents (DeWitt, Deutsch, Wallace) have proposed vario
 
 ### The Decision-Theoretic Response
 
-David Wallace's *The Emergent Multiverse* (2012) argues that rational agents should assign credences to branches weighted by squared amplitude, following from rational constraints on preferences across branching scenarios. But this presupposes an "I" whose interests are at stake—the subject whose identity is in question. If both post-measurement branches equally contain my continuers, the caring itself requires indexical identity that many-worlds cannot provide.
+David Wallace's *The Emergent Multiverse* (2012) argues that rational agents should assign credences to branches weighted by squared amplitude, following from rational constraints on preferences across branching scenarios. Mandolesi (2018) finds formal problems in Wallace's proof. It also presupposes an "I" whose interests are at stake: if both post-measurement branches equally contain my continuers, the caring itself requires an indexical identity that branching does not supply.
 
 ### The Core Problem
 
@@ -130,7 +131,7 @@ When does branching occur? Standard many-worlds says: when decoherence makes int
 
 The answer—that macroscopic decoherence picks out a roughly unique basis—is pragmatically adequate but philosophically unsatisfying. The theory that was supposed to eliminate observer-dependence reintroduces it at the level of basis selection. The branches we experience may be artifacts of how we decompose the wave function rather than objective features of reality.
 
-One caveat scopes this argument, and the Map must apply it to itself. The environmental *einselection* that picks out a roughly unique pointer basis is the very machinery the Map's own [post-decoherence selection programme](/apex/post-decoherence-selection-programme/) relies on to fix the *menu* of already-decohered, definite outcomes consciousness selects among—and that machinery is interpretation-neutral, equally available to Wallace's Everettian, who individuates branches by the same decoherence structure. The Map cannot claim einselection hands *it* a well-defined basis while denying the Everettian the same resource. Either einselection fixes the basis well enough for both—in which case the genuine disagreement reduces to Argument 1's demand for real collapse *in* that basis—or it fixes it for neither, in which case the Map's own post-decoherence menu is left as observer-relative as the branches charged here against MWI. Either way the load-bearing force is the collapse-realism of Argument 1, not an independent basis objection: the Map's advantage is a genuine transition to one definite pointer state where many-worlds posits none, not that MWI lacks a preferred basis the Map possesses.
+One caveat scopes this argument, and the Map must apply it to itself. The environmental *einselection* that picks out a roughly unique pointer basis is the very machinery the Map's own [post-decoherence selection programme](/apex/post-decoherence-selection-programme/) relies on to fix the *menu* of already-decohered, definite outcomes consciousness selects among—and that machinery is interpretation-neutral, equally available to Wallace's Everettian, who individuates branches by the same decoherence structure. The Map cannot claim einselection hands *it* a well-defined basis while denying the Everettian the same resource. Either einselection fixes the basis well enough for both—in which case the genuine disagreement reduces to Argument 1's demand for real collapse *in* that basis—or it fixes it for neither, in which case the Map's own post-decoherence menu is left as observer-relative as the branches charged here against MWI. Either way the argument's force is the collapse-realism of Argument 1, not an independent basis objection: the Map's advantage is a genuine transition to one definite pointer state where many-worlds posits none, not that MWI lacks a preferred basis the Map possesses.
 
 ## Argument 4: Consciousness Is Not Addressed
 
@@ -144,13 +145,13 @@ One caveat scopes this argument, and the Map must apply it to itself. The enviro
 
 Many-worlds proponents sometimes suggest the interpretation dissolves the measurement problem. But that problem had two parts—why definite outcomes? and why these statistics?—and many-worlds addresses the first by denying definite outcomes (all occur) while struggling with the second (the probability problem).
 
-Neither question was "why do we experience outcomes?" The hard problem remains untouched—indeed sharpened: if there are infinitely many versions of you having infinitely many experiences, why is your experience this one? No theory that fragments subjects across branches explains the unity of experience.
+Neither question was "why do we experience outcomes?" The hard problem remains untouched, and branching adds Premise 3's further question of unity within a branch.
 
 The Map's framework has consciousness play a role at quantum measurement—selecting among outcomes physics leaves undetermined. Many-worlds eliminates this role: nothing remains for consciousness to select because everything happens. But if consciousness has no role in physics, how does it report on physics? The [epiphenomenalism](/concepts/epiphenomenalism/) worry resurfaces.
 
 ## A Non-Decisive Cost: Ontological Extravagance
 
-The arguments above are the load-bearing case. One further consideration is often raised against many-worlds, but the Map can treat it only as a cost MWI pays—not as a decisive objection.
+One further consideration is often raised against many-worlds, but the Map can treat it only as a cost MWI pays—not as a decisive objection.
 
 Many-worlds posits that every quantum event spawns new branches, their number growing exponentially with time—more parallel realities than atoms in the observable universe, doubling with every event. Sean Carroll and other proponents embrace this: the theory is mathematically simple even if ontologically profligate.
 
@@ -160,19 +161,19 @@ The proliferating ontology is a real cost and a reason for discomfort, but not w
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) might respond that phenomenal consciousness is itself illusory, dissolving the indexical problem—if there are no genuine subjects, there's no fact about "which branch am I in?" But this faces a characteristic regress: for singular experience to be an "illusion," something must experience the illusion. The *seeming* of unified consciousness is itself phenomenal, and the indexical problem returns at the level of seemings. As Raymond Tallis argues, illusions presuppose experience. [Contemplative traditions](/concepts/witness-consciousness/) reinforce this—cross-traditional convergence in meditation reports favors genuine singularity of awareness, not confabulated impression.
+[Illusionists](/concepts/illusionism/) might respond that phenomenal consciousness is itself illusory, dissolving the indexical problem—if there are no genuine subjects, there's no fact about "which branch am I in?" But this faces a characteristic regress: for singular experience to be an "illusion," something must experience the illusion. If the *seeming* of unified consciousness is itself phenomenal, as the Map holds and illusionists deny, the indexical problem returns at the level of seemings. As Raymond Tallis (2024) argues, illusions presuppose experience. [Contemplative traditions](/concepts/witness-consciousness/) converge on the phenomenology of singular awareness, though not on its metaphysics.
 
 ## The Cumulative Case
 
 | Argument | What It Shows |
 |----------|---------------|
-| Indexical Problem | Personal identity becomes incoherent across symmetric branches—decisive against branch-egalitarian MWI, supplementary against List's centred worlds |
+| Indexical Problem | Personal identity becomes incoherent across symmetric branches—decisive against branch-egalitarian fission readings, supplementary against List's centred worlds |
 | Probability Problem | The Born rule remains unexplained or circularly assumed |
 | Preferred Basis Problem | Branch ontology depends on observer-relative decomposition—but bites MWI only once real collapse (Argument 1) is demanded; not independent of it |
 | Consciousness Unaddressed | The hard problem remains; unity of experience is unexplained |
 | Ontological Extravagance (non-decisive) | A genuine cost—but one the Map cannot press as decisive given [Tenet 5](/tenets/#occams-limits) |
 
-The indexical and consciousness arguments challenge the coherence of the many-worlds picture—the indexical one decisively for branch-egalitarian variants, and for List's centred variant only alongside the separate rejection of modal realism; the probability argument challenges its technical adequacy. The preferred-basis argument is not fully independent: once einselection is granted to both sides—as the Map's own selection programme requires—its force reduces to Argument 1's demand for genuine collapse. The honest count is therefore arguably three independent load-bearing arguments rather than four—the same convergence-discount the Map applies to [convergent cases](/topics/the-convergence-argument-for-dualism/) elsewhere, self-applied.
+The indexical and consciousness arguments challenge the coherence of the many-worlds picture—the indexical one decisively for branch-egalitarian fission readings, and for List's centred variant only alongside the separate rejection of modal realism; the probability argument challenges its technical adequacy. The preferred-basis argument is not fully independent: once einselection is granted to both sides—as the Map's own selection programme requires—its force reduces to Argument 1's demand for genuine collapse. The honest count is therefore arguably three independent arguments rather than four—the same convergence-discount the Map applies to [convergent cases](/topics/the-convergence-argument-for-dualism/) elsewhere, self-applied.
 
 ## Alternatives the Map Prefers
 
@@ -196,7 +197,7 @@ These challenges remain unmet, but their form clarifies what the anti-MWI positi
 
 ## Relation to Site Perspective
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet is not arbitrary. It follows from—and reinforces—the Map's other commitments:
+The [No Many Worlds](/tenets/#no-many-worlds) tenet follows from—and reinforces—the Map's other commitments:
 
 **[Dualism](/tenets/#dualism)**: Many-worlds treats consciousness as epiphenomenal by default—the wave function evolves unitarily regardless of observers. If consciousness makes no difference to physics, dualism becomes idle metaphysics.
 
@@ -204,7 +205,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet is not arbitrary. It follows
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Many-worlds eliminates the indeterminacy that consciousness would bias. The Schrödinger equation evolves deterministically; "randomness" is merely perspectival. The mechanism the Map proposes has no work to do.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The tenet exists because of the indexical identity problem, decisive against branch-egalitarian readings and supplementary only against first-personally centred variants ([P-I5](/positions/individuation-and-subjecthood/#p-i5)).
+**[No Many Worlds](/tenets/#no-many-worlds)**: The tenet exists because of the indexical identity problem, decisive against branch-egalitarian fission readings and supplementary only against first-personally centred variants ([P-I5](/positions/individuation-and-subjecthood/#p-i5)).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Many-worlds claims conceptual simplicity while postulating ontological profligacy. Having committed to distrusting parsimony under incomplete knowledge, the Map cannot wield ontological economy as a knockdown objection—the tenet disciplines the Map's own case as much as it indicts MWI.
 
@@ -228,18 +229,17 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 ## References
 
 - Albert, D. and Loewer, B. (1988). "Interpreting the Many Worlds Interpretation." *Synthese*, 77, 195-213.
-- Barrett, J. (1999). *The Quantum Mechanics of Minds and Worlds*. Oxford University Press.
 - Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
-- Everett, H. (1957). "Relative State Formulation of Quantum Mechanics." *Reviews of Modern Physics*, 29, 454-462.
+- Everett, H. (1957). "'Relative State' Formulation of Quantum Mechanics." *Reviews of Modern Physics*, 29(3), 454-462.
 - Kent, A. (2010). "One World Versus Many." In S. Saunders et al. (eds.), *Many Worlds?* Oxford University Press.
 - List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. https://doi.org/10.1111/nous.12408
 - Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.
 - Lockwood, M. (1996). "'Many Minds' Interpretations of Quantum Mechanics." *British Journal for the Philosophy of Science*, 47(2), 159-188.
-- Mandolesi, A. L. G. (2018). "Analysis of Wallace's Proof of the Born Rule in Everettian Quantum Mechanics." *Foundations of Physics*, 48(7), 751-782.
+- Mandolesi, A. L. G. (2018). "Analysis of Wallace's Proof of the Born Rule in Everettian Quantum Mechanics: Formal Aspects." *Foundations of Physics*, 48(7), 751-782.
 - Saunders, S. (2010). "Chance in the Everett Interpretation." In S. Saunders et al. (eds.), *Many Worlds?* Oxford University Press.
 - Saunders, S., Barrett, J., Kent, A., and Wallace, D. (eds.). (2010). *Many Worlds?* Oxford University Press.
 - Sebens, C. T. and Carroll, S. M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*, 161.
 - Tappenden, P. (2008). "Saunders and Wallace on Everett and Lewis." *British Journal for the Philosophy of Science*, 59(3), 307-314.
 - Tappenden, P. (2017). "Objective Probability and the Mind-Body Relation." *Studies in History and Philosophy of Modern Physics*, 57, 8-16.
 - Vaidman, L. (1998). "On Schizophrenic Experiences of the Neutron, or Why We Should Believe in the Many-Worlds Interpretation of Quantum Theory." *International Studies in the Philosophy of Science*, 12(3), 245-261.

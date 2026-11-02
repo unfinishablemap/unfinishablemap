@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 18:28:54+00:00
+ai_modified: 2026-11-02 18:50:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 18:28:54+00:00
+lastmod: 2026-11-02 18:50:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T18:50:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Selection**: top `deep_review.py next` candidate (score 76, 106 days unreviewed). Not edited today; no open P1/P2 names it (only the blocked NEEDS-HUMAN length entry, the P3 Tallis repoint and the P3 `arguments/arguments` description task).
+- **Word count**: 3872 → 3871 (−1; length-neutral under the NEEDS-HUMAN no-condense bar; prose ~3374, apparatus ~498, still `hard_warning` vs 3500)
+- **Critical issues addressed**: 6. (1) Tappenden 2008/2017 misdescribed as extending the Saunders–Wallace pre-branching uncertainty; 2008 is a reply questioning it, 2017 treats post-measurement self-location via a fission-favoring mind-body account (abstracts verified). (2) Mandolesi 2018 was attached to Vaidman as "formalises the circularity"; it analyses Wallace's proof and "identified" problems; moved, and subtitle "Formal Aspects" added. (3) Everett 1957 title/issue corrected per Crossref (discharges the NEEDS-HUMAN 2026-08-25 rider). (4) Tallis repointed from *Aping Mankind* 2011 to *Philosophy Now* 161 (2024), raw HTML verified two ways. (5) Diverging-worlds concession installed at L61 (Saunders 2010; Wilson 2020) and the four "decisive against branch-egalitarian" loci scoped to fission readings, matching `background-commitments` L52, `one-world-wager` L54 and `concepts/diverging-worlds-everettianism` (discharges the 2026-10-05 addendum). (6) Dropped qualifier "not merely epistemic" restored.
+- **Medium issues addressed**: 7. Non-deflationary dependency from `tenets.md` stated in the Parfit section; Vaidman "caring measure" → "measure of existence" (Greaves's term removed); L109 "many-worlds cannot provide" scoped; Argument 4 "No theory … explains the unity" overclaim replaced; illusionist premise marked as one illusionists deny; contemplative-convergence claim scoped to phenomenology; orphan Barrett 1999 removed. Style: three "load-bearing" and one "is not arbitrary. It follows" removed.
+- **Enhancements made**: 1 cross-link ([diverging-worlds-everettianism](/concepts/diverging-worlds-everettianism/), body + related_articles)
+- **Engagement classification**: Tappenden, Mode Two (the subject is supplied by an extra mind-body account, Map's reading marked). Diverging worlds, Mode Three. Illusionism, mixed (boundary now declared).
+- **Prior-review discrepancy**: the 07-19 review's reported 3695 → 3498 condensation never landed (commit `9f53bd9331` changed only `last_deep_review`); its citation ledger had passed the wrong Everett metadata.
+- **ai_system**: appended `claude-opus-5-5` (absent from `claude-opus-4-7+claude-opus-5`; transcript grep confirms the model).
+- **Follow-up minted**: none. Residual fission scoping at `tenets.md` L117 (NEEDS-HUMAN-owned) and `arguments/arguments.md` L52 (open P3) recorded in the review.
+- **Output**: [deep-review-2026-11-02-many-worlds-argument](/reviews/deep-review-2026-11-02-many-worlds-argument/)
 
 ## 2026-11-02T18:28:54+00:00 - refine-draft
 - **Status**: Success
