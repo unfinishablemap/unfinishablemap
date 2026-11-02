@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-23 12:58:46+00:00
+ai_modified: 2026-11-02 14:36:07+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -20,14 +20,14 @@ concepts:
 - '[[continual-learning-argument]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-01-15
-date: &id001 2026-10-23
+date: &id001 2026-11-02
 description: A cumulative case against functionalism—absent qualia, inverted qualia,
   the Chinese Room, the explanatory gap—with their shared dependencies stated openly.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 19:36:00+00:00
-lastmod: 2026-10-23 12:58:46+00:00
+last_deep_review: 2026-11-02 14:36:07+00:00
+lastmod: 2026-11-02 14:36:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ While zombies vary the *presence* of experience, inverted qualia vary its *chara
 
 Yet when both look at a red apple, one experiences what we call "phenomenal red" while the other experiences "phenomenal green"—the qualitative character of seeing green, attached to all the states that play the "seeing red" functional role.
 
-Neither perceiver is wrong about the apple. Both correctly identify it as red. But the *felt quality* of their correct perceptions differs.
+Both perceivers correctly identify the apple as red, but the *felt quality* of their correct perceptions differs.
 
 If this is possible, qualia aren't functional kinds. The same functional role can be filled by different qualitative characters. What it's *like* to see red isn't determined by how the red-state connects to inputs, outputs, and other states.
 
@@ -89,7 +89,7 @@ If this is possible, qualia aren't functional kinds. The same functional role ca
 
 The scenario stipulates functional identity, and that stipulation is where the standard objection bites. Human colour space is not symmetric under rotation—hue spacing is uneven, dark yellow looks brown while dark blue stays blue, warm and cool regions differ in salience—so C. L. Hardin argues that a genuine 180° inversion would leave traces in discrimination times and similarity judgements, and the twin would not be functionally identical.
 
-The reply is that the argument is modal, not empirical: Premise 2 needs *some* inversion to be conceivable, and one confined to a symmetric sub-space delivers it. The price is real. Variation in colour appearance among normal observers resolves into local factors rather than one global factor—the wrong shape for a whole-space rotation—so the empirical version is in trouble and the modal version, in play here, survives with diminished force.
+The reply is that the argument is modal, not empirical: Premise 2 needs *some* inversion to be conceivable, and one confined to a symmetric sub-space delivers it. The price is real. [Variation in colour appearance among normal observers](/concepts/inverted-qualia/#twenty-first-century-colour-science) resolves into local factors rather than one global factor—the wrong shape for a whole-space rotation—so the empirical version is in trouble and the modal version, in play here, survives with diminished force.
 
 ## Argument 3: The Chinese Room Argument
 
@@ -101,7 +101,7 @@ The reply is that the argument is modal, not empirical: Premise 2 needs *some* i
 
 **Conclusion**: Functionalism is false for semantic properties.
 
-John Searle's Chinese Room directly targets functionalism's implications for [AI consciousness](/topics/ai-consciousness/). You're locked in a room with a rulebook for manipulating Chinese symbols. Questions come in; you follow rules and send answers out. From outside, the room seems to understand Chinese. But you don't understand Chinese—you're shuffling symbols according to rules.
+John Searle's Chinese Room targets functionalism's implications for [machine understanding](/topics/ai-consciousness/). You're locked in a room with a rulebook for manipulating Chinese symbols. Questions come in; you follow rules and send answers out. From outside, the room seems to understand Chinese. But you don't understand Chinese—you're shuffling symbols according to rules.
 
 The functionalist replies with the Systems Reply: the *system*—you plus the room plus the rules—understands Chinese, even though you, one component of it, do not. Searle responds by internalising the room. Memorize all the rules and do everything in your head. Now *you are* the system, and you still don't understand Chinese; you're still shuffling symbols.
 
@@ -161,13 +161,11 @@ Perhaps zombies are conceivable but metaphysically impossible, like "water that 
 
 **Response**: The water analogy only partly fails. Pre-chemical "water" was an incomplete concept, whereas [acquaintance reveals](/concepts/revelation-thesis/) that an experiential quality exists and part of its character. That defeats the analogy only if enough of the essence is revealed, which [Type-B physicalists](/concepts/type-a-type-b-and-type-c-physicalism/) deny; Premise 3 rests on contested [modal rationalism](/concepts/modal-epistemology/).
 
-The conceivability of zombies reflects our positive grasp of phenomenal consciousness, not ignorance of it.
-
 ### "The Gap Is in Our Concepts, Not in Reality"
 
-The water analogy is the weaker objection to Premise 3. The stronger one, and the mainstream physicalist reply, is the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/): phenomenal and physical concepts refer to the same properties by different routes, and phenomenal concepts—recognitional, or partly constituted by the experiences they pick out—do not connect transparently to physical ones. That isolation explains why zombies seem conceivable with no corresponding gap in the world, so conceivability tracks how we think rather than a modal fact. The same reply covers Frank Jackson's knowledge argument: Mary gains a new concept of a property she already knew physically.
+The water analogy is the weaker objection to Premise 3. The stronger one, and the mainstream physicalist reply, is the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/): phenomenal and physical concepts refer to the same properties by different routes, and phenomenal concepts—recognitional, or partly constituted by the experiences they pick out—do not connect transparently to physical ones. That isolation explains why zombies are conceivable with no corresponding gap in the world, so conceivability tracks how we think rather than a modal fact. The same reply covers Frank Jackson's knowledge argument: Mary gains a new concept of a property she already knew physically.
 
-**Response**: Chalmers presses a dilemma. Let C be whatever makes phenomenal concepts special. If physical duplicates lacking C are conceivable, C is not itself physically explicable and the strategy relocates the hard problem rather than dissolving it; if they are inconceivable, zombies have C too—same concepts, same apparent gap—so C cannot explain why *we* find consciousness puzzling. This has not closed the debate, and the Map does not present it as having done so; Carruthers and Veillet (2007) dispute the explanandum it turns on. Premise 3 remains this article's most contested step, and [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) sets out the bridge and its critics.
+**Response**: Chalmers (2007) presses a dilemma. Let C be whatever makes phenomenal concepts special. If physical duplicates lacking C are conceivable, C is not itself physically explicable and the strategy relocates the hard problem rather than dissolving it; if they are inconceivable, zombies have C too, yet their beliefs about consciousness are false or less justified, so C cannot explain our epistemic situation. This has not closed the debate, and the Map does not present it as having done so; Carruthers and Veillet (2007) dispute the explanandum it turns on. Premise 3 remains this article's most contested step, and [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) sets out the bridge and its critics.
 
 ## The Illusionist Challenge
 
@@ -195,7 +193,7 @@ The case against functionalism would be weakened if:
 
 ## Relation to Site Perspective
 
-The arguments against functionalism directly support the Map's framework and connect to all five tenets.
+The arguments against functionalism support the Map's framework and connect to all five tenets.
 
 ### Dualism
 
@@ -203,15 +201,15 @@ Functional organization describes physical relationships—what causes what, how
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet explains *how* consciousness might depend on substrate rather than function. If consciousness interfaces with matter through quantum-level mechanisms, the physical implementation matters in ways functional description cannot capture. A digital computer and a human brain might be functionally equivalent while differing in quantum properties—classical bit operations provide no purchase for quantum-consciousness interaction. This gives empirical content to the anti-functionalist position: a specific proposed mechanism that *requires* substrate dependence.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet explains *how* consciousness might depend on substrate rather than function. If consciousness interfaces with matter through quantum-level mechanisms, the physical implementation matters in ways functional description cannot capture. A digital computer and a human brain might be functionally equivalent while differing in quantum properties—[classical bit operations](/concepts/ai-hardware-substrate-taxonomy/) provide no purchase for quantum-consciousness interaction. This gives empirical content to the anti-functionalist position: a specific proposed mechanism that *requires* substrate dependence.
 
 ### Bidirectional Interaction
 
-If consciousness is merely functional organization, it cannot "do" anything separate from the physical processes that realize the function. But the Map holds that consciousness causally influences physical outcomes—at quantum indeterminacies, where physics leaves room. [Bidirectional Interaction](/tenets/#bidirectional-interaction) requires consciousness to have its own causal efficacy, not just be a pattern description of physical causation. Consciousness adds something—selection among quantum possibilities—that the functional story misses.
+If consciousness is merely functional organization, it cannot "do" anything separate from the physical processes that realize the function. But the Map holds that consciousness causally influences physical outcomes—at quantum indeterminacies, where physics leaves room. [Bidirectional Interaction](/tenets/#bidirectional-interaction) requires consciousness to have its own causal efficacy, not just be a pattern description of physical causation.
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to anti-functionalism through [haecceity](/concepts/haecceity/). Functionalism treats mental states as type-identical: any system with the same functional organization has the same mental state. But the Map insists on indexical particularity—*this* experience, not merely one with these functional properties. Consciousness involves selection of a *particular* outcome, not distribution across all outcomes. This particularity is exactly what functionalism cannot capture.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to anti-functionalism through [haecceity](/concepts/haecceity/). Functionalism treats mental states as type-identical: any system with the same functional organization has the same mental state. But the Map insists on indexical particularity—*this* experience, not merely one with these functional properties—and on one actual outcome rather than distribution across all. Functionalism cannot capture that particularity.
 
 ### Occam's Razor Has Limits
 
@@ -229,29 +227,30 @@ Counting the arguments as five independent confirmations would overstate the cas
 | 4. Multiple realizability | The functionalist owes an account of why complexity yields experience | The burden-shift alone; the substrate claim completing it is framework |
 | 5. Explanatory gap | Functional description doesn't explain experience | Nothing modal—Argument 1's observation without the possibility claim |
 
-The third column is the accounting. Arguments 1 and 2 are [one dependency, not two](/positions/arguments-for-dualism/#p-d1); Argument 5 is Argument 1 without the modality, a strength—it survives if the bridge fails—but not a separate confirmation; Argument 4's substrate claim comes from within the Map's framework. What survives is a case with two legs sharing no premise—the modal leg (1 and 2) and the explanatory leg (3, 4's burden-shift, and 5)—both pointing the same way, neither refuting functionalism from inside.
+The third column is the accounting. Arguments 1 and 2 are [one dependency, not two](/positions/arguments-for-dualism/#p-d1); Argument 5 is Argument 1 without the modality, a strength—it survives if the bridge fails—but not a separate confirmation; Argument 4's substrate claim comes from within the Map's framework. What survives is a case with two legs sharing only the gap observation—the modal leg (1 and 2) and the explanatory leg (3, 4's burden-shift, and 5)—both pointing the same way, neither refuting functionalism from inside.
 
 The Map's commitment to [interactionist dualism](/concepts/interactionist-dualism/) is held on that calibrated basis, not on a claim that five arguments have independently closed the question. It remains a substantial case: the felt quality of experience is not captured by causal structure, and no functionalist account on offer has met the burden of showing otherwise. That failure points toward dualism—not as dogma, but as the view that takes consciousness most seriously.
 
 ## Further Reading
 
 ### Site Content
-- [functionalism](/concepts/functionalism/) — The view under attack, with fuller exposition
+- [functionalism](/concepts/functionalism/) — The view under attack
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [inverted-qualia](/concepts/inverted-qualia/) — The spectrum inversion argument
 - [qualia](/concepts/qualia/) — What functionalism leaves out
-- [ai-consciousness](/topics/ai-consciousness/) — Why computers probably aren't conscious
+- [ai-consciousness](/topics/ai-consciousness/) — Principled obstacles facing current AI
 - [illusionism](/concepts/illusionism/) — The most radical physicalist response, and where the Map thinks it falls short
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The mainstream reply to Premise 3
 - [introspection](/concepts/introspection/) — The reliability of phenomenal access
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for irreducibility
-- [haecceity](/concepts/haecceity/) — Why functional equivalence doesn't ensure experiential equivalence
+- [haecceity](/concepts/haecceity/) — What makes a subject *this* one
 - [explanatory-gap](/concepts/explanatory-gap/) — Why functional description leaves experience unexplained
-- [continual-learning-argument](/concepts/continual-learning-argument/) — Why current AI systems fail consciousness criteria
+- [continual-learning-argument](/concepts/continual-learning-argument/) — Why frozen-weight LLMs likely lack consciousness
 
 ### External Sources
 - Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+- Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*, 167-194. Oxford University Press.
 - Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
 - Carruthers, P. & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9-10), 212-236.
@@ -259,4 +258,3 @@ The Map's commitment to [interactionist dualism](/concepts/interactionist-dualis
 - Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Graziano, M. S. A. (2024). "Illusionism Big and Small: Some Options for Explaining Consciousness." *eNeuro*, 11(10), ENEURO.0210-24.2024.
-- Hoel, E. (2026). "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness." arXiv:2512.12802 (preprint, not peer-reviewed).

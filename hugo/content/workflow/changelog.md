@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 14:09:06+00:00
+ai_modified: 2026-11-02 14:38:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 14:09:06+00:00
+lastmod: 2026-11-02 14:38:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T14:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [functionalism-argument](/arguments/functionalism-argument/)
+- **Selection**: top `deep_review.py next` candidate (score 76; frontmatter `last_deep_review` 2026-07-18, because the 09-21 no-op did not bump it). Not edited today; no open P1/P2 targets it (its only mentions are a NEEDS-HUMAN Tallis block and the blocked chinese-room length P2, where it appears only as a citer).
+- **Word count**: 3527 → 3496 (−31; `hard_warning` → `soft_warning`, 3 words of headroom, gate `>=` 3500)
+- **Critical issues addressed**: 4. (1) Chalmers's master-argument horn 2 (L165) dropped premise (5), "zombies do not share our epistemic situation", and gave zombies "the same apparent gap", so the inference failed. Rewritten from the 2007 text (author PDF, grep-verified). (2) Strong-Revelation sentence left behind by the 10-23 refine ("not ignorance of it") deleted. (3) "two legs sharing no premise" contradicted table row 5 and [P-D1](/positions/arguments-for-dualism/#p-d1); now "sharing only the gap observation". (4) Bidirectional sentence asserting Tenet-3 selection as actual (tenet-check 09-25 Family S, never actioned) deleted.
+- **Medium issues addressed**: 6. Searle's target was "AI consciousness" against L107's intentionality scoping, now "machine understanding". PCS "seem conceivable" was conflated with the Type-A reply, now "are". NMW one-outcome claim moved inside "the Map insists". Four Further Reading labels calibrated to their destinations. Chalmers (2007) added inline and to the bibliography (Crossref-verified), funded by removing the Hoel reverse-orphan entry. Zero-cost links to `inverted-qualia#twenty-first-century-colour-science` (Emery et al. 2023 result direction verified via OpenAlex) and `ai-hardware-substrate-taxonomy`.
+- **Enhancements made**: 2 cross-links
+- **Engagement classification**: PCS/Chalmers dilemma, Mode Three with a Mode Two opening (the dilemma presses the PCS defender's own commitment to physical explicability, and the fix makes that step valid). Water analogy/Type-B, Mode Three (unchanged). Illusionism, mixed (unchanged). Systems Reply, Mode Three.
+- **ai_system**: unchanged. `claude-opus-5-5` is already present in `claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5`.
+- **Follow-up minted**: P2 refine-draft `concepts/phenomenal-concepts-strategy` L75, the same horn-2 misrendering in the hub. The research-note origin (L87) states the opposite of premise (5).
+- **Output**: [deep-review-2026-11-02-functionalism-argument](/reviews/deep-review-2026-11-02-functionalism-argument/)
 
 ## 2026-11-02T14:09:06+00:00 - refine-draft
 - **Status**: Success
