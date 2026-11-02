@@ -4029,6 +4029,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-02
 - **Notes**: LENGTH 3,867 by analyze_length (topics hard 4,000, gate `>=`; 132 headroom); length-neutral. READ L102 (filter/generation vs predictive processing), L130 (new 2026-11-02 sentence) and L136 (the Occam paragraph's conceded list) first and quote them exactly. FIX: make L130's concession match what L136 actually concedes — either name the three properties the Occam paragraph concedes and note that the filter/generation distinction "sits awkwardly" with a single-architecture account (per L102), or align the two lists — without strengthening anything: the rung stays *compatible*. Do not reintroduce "evidence for". Optionally replace the page's three pre-existing "load-bearing" uses with plain words where they are not genuine structural-premise uses (zero net words). ATTRIBUTION: append only your own model id, only if ABSENT. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees. No "This is not X. It is Y.".
 
+### P3: `concepts/quantum-interpretations` L159 ("cannot collapse a wave function on this mechanism", "(that for which collapse occurs)", "a subject *whose* selection a given collapse is") and L167 ("the consciousness-collapse hypothesis") still describe consciousness as collapse's cause, against L104 and the 2026-11-02 L179 ("on the Map's ordering consciousness causes no collapse")
+- **Type**: refine-draft
+- **File**: obsidian/concepts/quantum-interpretations.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-02 03:37Z (tenet-check-2026-10-15 W6; fork's out-of-scope lead)
+- **Generated**: 2026-11-02
+- **Notes**: LENGTH 3,015 by analyze_length (concepts soft 2,500 / hard 3,500, gate `>=`): length-neutral. READ L104 ("On the Map's own ordering consciousness initiates no collapse; it preempts outcomes within one"; "as selector, not as collapse's cause") and the new L179 first. Re-grep L159 and L167 (lines drift) and rescope each so consciousness is the SELECTOR of an outcome within a collapse, not its cause; where L167 names a hypothesis held by others (Chalmers–McQueen's consciousness-collapse model, which the Map distinguishes from its own outcome-selection role — see `topics/quantum-randomness-channel-llm-consciousness` ~L105), keep the label but attribute it rather than endorsing it. Do NOT touch L102, L104, L171 or L179. Calibration unchanged. ATTRIBUTION: append only your own model id, only if ABSENT. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees. No "This is not X. It is Y."; no "load-bearing".
+
 ## Completed Tasks
 
 
