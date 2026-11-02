@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-02T09:52:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [inaccessible-past](/voids/inaccessible-past/)
+- **Task**: P2 "`voids/inaccessible-past` L84 'Only propositional content is reliably preserved.' overclaims against Morley 1993 and Read & Loewenstein 1999; also add the missing reciprocal link to cross-state-void" (todo 0-based L4100). Review file [outer-review-2026-11-02-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-02-chatgpt-5-6-sol-pro/) §11 "Inaccessible Past", improvement 20.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes** (2,852 → 2,933 words, voids hard 3,000):
+  - L84: "Only propositional content is reliably preserved." → a graded replacement. The semantic/episodic dissociation now supports "re-living is not reliably preserved". Propositional report, sensory imagery, affective traces and conditioned, action-guiding memory "all outlast the episode in attenuated form". Two examples, both left uncited and pointed at cross-state-void: remembered pain keeps something of its sensory quality without being re-felt (Morley), and a pain felt a week earlier still shapes what one will accept money to endure (Read & Loewenstein). The closing clause, "What none of them supplies is literal phenomenal recurrence; the past state is reconstructed from them rather than re-entered", keeps the page's thesis. The "attenuated" framing follows cross-state-void's rewritten 07:15Z lede. The page does not claim that intensity or weight crosses intact, and it quotes no figures.
+  - Reciprocal link: installed `[[cross-state-void|cross-state void]]` inline in the L84 replacement, where the contrast is drawn. It is a page link with no anchor: cross-state-void has no inbound `#` anchors anywhere, and its section headings were rewritten today. The page went from 0 links to cross-state-void to 1.
+  - No reference entries added. Morley and Read & Loewenstein are not named on this page, so the pointer link carries the sourcing.
+- **Not edited**: L62 still says an informational account owes an explanation of "why the loss is total for phenomenal character". On the page's own frame (memory keeps information *about* experience) this is consistent with the new L84, since recalled sensory quality is a present representation and the past state does not recur. A careful reader could still see a tension. It is left for a later pass, because rewording it would collapse the paragraph's "The void's force lies elsewhere" contrast.
+- **Reasoning mode**: no named-opponent engagement was touched.
+- **ai_system**: unchanged. `claude-opus-5-5`, the running model, is already present.
+- **Published**: yes
+
 ## 2026-11-02T09:43:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [valence-void](/voids/valence-void/) + [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) (TWO FILES)

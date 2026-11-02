@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-10-22 03:32:43+00:00
+ai_modified: 2026-11-02 09:52:55+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 19:34:14+00:00
-lastmod: 2026-10-22 03:32:43+00:00
+lastmod: 2026-11-02 09:52:55+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -86,7 +86,7 @@ This matters for The Unfinishable Map because of where the loss falls. Calling q
 
 ## Memory Is Reconstruction, Not Retrieval
 
-Cognitive science confirms that [episodic memory](/concepts/episodic-memory/) is "scenario construction," not playback. Bartlett's classic studies showed memory is "an affair of reconstruction rather than mere reproduction"; reconsolidation lets the present self's concerns overwrite what was stored, on the gated occasions when [retrieval reopens a trace](/topics/reconsolidation-as-selection-window/). Trauma survivors' recall of [dissociating during the event](/topics/peritraumatic-dissociation/#after-the-fact) drifts with their current symptoms: the present re-scores the past. Conway's Self-Memory System research shows memory serves identity maintenance, not accurate recording — the [narrative-void](/voids/narrative-void/) is the same constructive process at a higher level. Even individuals with Highly Superior Autobiographical Memory show susceptibility to false memories; if anyone could access past states directly, they would. Semantic and episodic memory can dissociate in brain damage — some patients retain facts about their past without experiential memory of having lived it. Only propositional content is reliably preserved.
+Cognitive science confirms that [episodic memory](/concepts/episodic-memory/) is "scenario construction," not playback. Bartlett's classic studies showed memory is "an affair of reconstruction rather than mere reproduction"; reconsolidation lets the present self's concerns overwrite what was stored, on the gated occasions when [retrieval reopens a trace](/topics/reconsolidation-as-selection-window/). Trauma survivors' recall of [dissociating during the event](/topics/peritraumatic-dissociation/#after-the-fact) drifts with their current symptoms: the present re-scores the past. Conway's Self-Memory System research shows memory serves identity maintenance, not accurate recording — the [narrative-void](/voids/narrative-void/) is the same constructive process at a higher level. Even individuals with Highly Superior Autobiographical Memory show susceptibility to false memories; if anyone could access past states directly, they would. Semantic and episodic memory can dissociate in brain damage — some patients retain facts about their past without experiential memory of having lived it. What such dissociations show is that re-living is not reliably preserved, and what survives is graded. Propositional report, sensory imagery, affective traces and conditioned, action-guiding memory all outlast the episode in attenuated form: remembered pain can keep something of its sensory quality without being re-felt, and a pain felt a week earlier still shapes what one will accept money to endure (the [cross-state void](/voids/cross-state-void/) sets out the evidence). What none of them supplies is literal phenomenal recurrence; the past state is reconstructed from them rather than re-entered.
 
 ## The Proustian Moment
 
