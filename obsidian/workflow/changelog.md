@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 03:02:19+00:00
+ai_modified: 2026-11-02 03:23:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T03:23:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/perceptual-failure-and-the-interface]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix of `reviews/tenet-check-2026-10-15` Warning 1)
+- **Word count**: 3832 → 3867 (+35, as the review budgeted; topics hard 4,000, headroom now 132)
+- **Changes**: applied the review's two replacement strings verbatim, pulled from the review file by script, each OLD string confirmed exactly once (`grep -c -F` = 1). (1) Bidirectional Interaction paragraph (L134), last sentence: "Information about the interface's own state flows ... bidirectional causation in miniature." → "On the Map's reading this is bidirectional causation in miniature, ... so the case is compatible with the tenet, not evidence for it." (+32). This finishes the Charles Bonnet withdrawal that bb099ed5a3 began: the blurred retinal signal drives squinting on a physicalist or epiphenomenalist account as well, so the behavioural case reaches *compatible* only. (2) Dualism paragraph (L130), last two sentences: "Meanwhile, the fact that degradation patterns reveal ... suggests that consciousness and neural activity are not the same thing. The interface has its own architecture ... because there are two systems ..." → one sentence reading the properties as two systems, then conceding "one neural architecture would produce all four, so the reading is compatible with the data rather than earned by it" (+3). This removes the contradiction with the page's own Occam paragraph (L136/L138). No claim was strengthened.
+- **Pronoun check**: all antecedents intact; no repair made. L134: "this" → the behavioural response in the preceding sentence; "the same correction" → squinting / glasses / focal distance; "it" → the tenet. L130: "They" in the preceding sentence still → "these properties"; "all four" → the four listed properties; "it" → the data. The removed "its own architecture ... its failure modes" had no dependents.
+- **Residual (not fixed; review string applied as given)**: the new L130 sentence says "as the Occam paragraph below concedes, one neural architecture would produce all four". But L130's four (bandwidth limitation, priority preservation, compensatory generation, filter/generation distinction) and the Occam paragraph's four (graded loss, priority preservation, compensatory generation, anaesthesia dissociation) are not the same list. The filter/generation item is not among the conceded four, and L102 says the filter-theory cases "sit awkwardly" with predictive processing. The cross-reference therefore concedes a little more than the Occam paragraph states. The error runs toward concession, not toward strengthening. A future pass could align the two lists.
+- **Attribution**: ai_system `claude-opus-4-6+claude-fable-5` → `claude-opus-4-6+claude-fable-5+claude-opus-5-5`
+- **Published**: yes
 
 ## 2026-11-02T03:02:19+00:00 - research-topic
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-10-14 11:34:29+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-11-02 03:22:50+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/perceptual-degradation-and-the-interface/
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 23:23:34+00:00
-lastmod: 2026-10-14 11:34:29+00:00
+lastmod: 2026-11-02 03:22:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,11 +130,11 @@ The bandwidth model accommodates this directly: a finite-capacity channel produc
 
 ## Relation to Site Perspective
 
-**Dualism**: Blur exposes phenomenal properties—the specific qualitative character of haziness, softness, the texture of degraded vision—that belong to the experiencing subject, not to external physical objects. If these properties were physical, they would need to be located somewhere in the world. They cannot be: no physical object is blurry in the way experience is blurry. Meanwhile, the fact that degradation patterns reveal interface-like properties—bandwidth limitation, priority preservation, compensatory generation, and the filter/generation distinction—suggests that consciousness and neural activity are not the same thing. The interface has its own architecture, discoverable through its failure modes, because there are two systems connected by a channel rather than one system exhibiting different aspects.
+**Dualism**: Blur exposes phenomenal properties—the specific qualitative character of haziness, softness, the texture of degraded vision—that belong to the experiencing subject, not to external physical objects. If these properties were physical, they would need to be located somewhere in the world. They cannot be: no physical object is blurry in the way experience is blurry. Meanwhile, the Map reads the interface-like properties degradation patterns reveal—bandwidth limitation, priority preservation, compensatory generation, and the filter/generation distinction—as two systems connected by a channel rather than one system exhibiting different aspects; as the Occam paragraph below concedes, one neural architecture would produce all four, so the reading is compatible with the data rather than earned by it.
 
 **Minimal Quantum Interaction**: The bandwidth model raises a question it does not answer—what determines the interface's capacity? It is tempting to read finite bandwidth as a quantum-level resource, the number and coherence of available quantum events setting a ceiling that neural damage erodes. But the perceptual evidence does not reach that far. The failure modes constrain the *shape* of the channel—finite-capacity, prioritised, actively maintained—without specifying its physical substrate; reading the ceiling onto quantum events specifically is a conjecture the data here do not earn, and is named as such. The Map's quantum-interaction commitment offers a candidate mechanism elsewhere (the [statistical-level biasing of quantum indeterminacies](/concepts/causal-closure/)); this article leaves it as the open question rather than filling it in. [interface-friction](/concepts/interface-friction/)—whatever its substrate—would on the model increase as the channel degrades, consistent with the felt effortfulness of perception under impairment.
 
-**Bidirectional Interaction**: Release phenomena such as Charles Bonnet hallucinations and eigengrau do not by themselves show two-way traffic: on every reading in the literature the deafferented cortex supplies the content, so the Map no longer rests this tenet on them ([charles-bonnet-syndrome](/concepts/charles-bonnet-syndrome/)). The clearer case is behavioural: when blur triggers squinting, reaching for glasses, or adjusting focal distance, the experiencing subject responds to the interface's self-report by acting on the physical world. Information about the interface's own state flows from the phenomenal domain into physical behaviour—bidirectional causation in miniature.
+**Bidirectional Interaction**: Release phenomena such as Charles Bonnet hallucinations and eigengrau do not by themselves show two-way traffic: on every reading in the literature the deafferented cortex supplies the content, so the Map no longer rests this tenet on them ([charles-bonnet-syndrome](/concepts/charles-bonnet-syndrome/)). The clearer case is behavioural: when blur triggers squinting, reaching for glasses, or adjusting focal distance, the experiencing subject responds to the interface's self-report by acting on the physical world. On the Map's reading this is bidirectional causation in miniature, information about the interface's state flowing from the phenomenal domain into behaviour; but the blurred retinal signal drives the same correction on a physicalist or epiphenomenalist account, so the case is compatible with the tenet, not evidence for it.
 
 **Occam's Razor Has Limits**: The interface model multiplies entities—an interface, a far-side experiencer, a channel between them—where one neural system would do, and the honest response to the parsimony objection is to meet that multiplication rather than wave it away with the slogan that parsimony misleads. Its sharpest form is the [common-cause null](/project/common-cause-null/): the four failure signatures (graded loss, priority preservation, compensatory generation, the anaesthesia dissociation) are offered above as convergent evidence, but a single neural architecture implementing bandwidth-limited, model-prioritised, actively-maintained perception would produce all four. The count of four then collapses to one mechanism observed four ways, and the extra ontology buys nothing the signatures demand. The article has in effect already conceded this: predictive processing reproduces all four in physical terms the Map can largely adopt, so the signatures do not, on their own, earn the far-side experiencer.
 
