@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 A 2024 proof: if consciousness changes how a system evolves, no AI on verified chips is conscious. The Map grants two premises but not the third, that computation fixes whether an AI is conscious, and reads the result as coherent with its view, not as evidence for it.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2117167371383161004  
 **Link**: [[dynamical-relevance-and-the-verification-boundary]]
 
 ---
