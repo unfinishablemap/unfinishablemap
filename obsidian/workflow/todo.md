@@ -4062,6 +4062,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 5,442/4,000 by analyze_length on 2026-11-02, FAR OVER the topics hard limit, so the edit MUST be net-negative (≤ −1).
 - **Notes**: L114 reads "Any reading on which consciousness *re-weighted* the measure would deform that geometry — a non-minimal intervention the tenets forbid." Tenet 2's Rules-out (tenets L85) forbids "any interaction that would be empirically detectable under current experimental precision"; the corridor is the endorsed working hypothesis that forbids any shift; and the page's own L197 already says "ruling out detectable Born deviation on the unconditioned aggregate". Recast L114's last clause to match L197 and the apex's 11-02 wording (an outside-corridor fallback escapes detection "by their size, not by construction"), e.g. "— an intervention the corridor forbids and Tenet 2 permits only below detectable precision", made NET-NEGATIVE by trimming elsewhere in the same paragraph. Before cutting, grep the cut text against `reviews/` and todo.md. Do not move the P-Q2 quantifier (a blocked HUMAN DECISION). Check pronouns. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u`. Append the running model to ai_system only if ABSENT. Changelog before sync; verify both trees; no commit.
 
+### P3: `topics/hemispherectomy-and-the-resilience-of-unified-consciousness` L104 describes neurological-dissociations-as-interface-architecture as treating "the interface as a set of independently failable channels", a reading that page withdrew on 2026-11-02 (its L170 says "though not independently"; its channel count is now flagged as resting on contested assumptions)
+- **Type**: refine-draft
+- **File**: obsidian/topics/hemispherectomy-and-the-resilience-of-unified-consciousness.md
+- **Status**: pending
+- **Source**: refine-draft fork report, 2026-11-02 21:46Z (neurological-dissociations tier-calibration pass)
+- **Generated**: 2026-11-02
+- **Headroom**: 2,881/4,000 by analyze_length (topics hard limit). Make it length-neutral where possible.
+- **Notes**: Map-internal description gone stale. Re-read the CURRENT `topics/neurological-dissociations-as-interface-architecture`, especially L170 ("though not independently"), the new Occam paragraph at L202 ("the Map's count of six channels, one read off each syndrome, … rests on contested assumptions") and L128 ("can fail separately"). Then recast hemispherectomy L104's "independently failable channels" gloss to match, e.g. "a set of separately failing channels", at zero or negative word cost. Locate by the phrase (`grep -c -F` = 1 on 2026-11-02). Grep the rest of `obsidian/` (excluding reviews/ and workflow/) for other live quotations of "independently failable" and report any hits. Check pronouns. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u`. `ai_system` is currently `claude-opus-4-8+claude-opus-5`; append the running model only if ABSENT. Changelog before sync; verify both trees; no commit.
+
 ## Completed Tasks
 
 
