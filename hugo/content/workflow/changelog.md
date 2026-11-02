@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 14:38:00+00:00
+ai_modified: 2026-11-02 15:09:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 14:38:00+00:00
+lastmod: 2026-11-02 15:09:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T15:09:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted fix from the 2026-11-02 functionalism-argument deep review)
+- **Changes**: Horn 2 of Chalmers's master argument (L75) now states premise (5). Old: "Zombies would have the same concepts, the same apparent gap. So C doesn't explain why *we* find consciousness puzzling—the zombie finds it equally puzzling for purely physical reasons." New: "Yet zombies do not share our epistemic situation: their corresponding beliefs about consciousness are, intuitively, false or at least less justified than ours. So C, shared by zombies, cannot explain that situation." The old wording gave zombies our epistemic situation, which is the Carruthers–Veillet reply (Chalmers's §4 Option 3), so the step to "C doesn't explain" did not follow, and the L95 "Attacking the Zombie Premise" heading had no premise to point back to. Checked against Chalmers 2007 §3.2 in the author PDF (consc.net/papers/pceg.pdf, text extraction, whitespace-normalised): (4)–(6), "The real work in this argument is done by premise (5)", and the intuition that the zombie's beliefs "are false, or at least that they are less justified than my beliefs". The new text paraphrases and adds no quotation marks; "intuitively" keeps Chalmers's basis for (5). L79 and the L97 Carruthers–Veillet framing are unchanged. Next-sentence pronoun check: "their" refers to zombies and "that situation" to "our epistemic situation"; the following paragraph's "they" refers to its own "the features".
+- **Word count**: 3451 → 3455 (+4; concepts hard limit 3500, gate `>=`, 44 words of headroom left)
+- **Secondary**: [phenomenal-concepts-strategy-2026-01-14](/research/phenomenal-concepts-strategy-2026-01-14/) L87, the origin, which said zombies "would have the same epistemic situation as us". Rewritten to state premise (5), with a dated Correction sub-bullet. Its three quotations were grep-verified in the PDF: "the real work in this argument", "Option 3: Assert That Zombies Share Our Epistemic Situation", and "the truth-values of their beliefs and the epistemic status of their beliefs". `ai_system` became `claude-opus-4-5-20251101+claude-opus-5-5`.
+- **Not edited**: `archive/topics/phenomenal-concepts-as-materialist-response.md` L82 carries the same misrendering ("Zombies would deploy the same concepts, experience the same apparent gap, find consciousness equally puzzling"). It was left alone because of the P3 NEEDS-HUMAN (publication policy) hold near the top of todo.md: "Do NOT action this from the loop — no archive edit, and no sweep, until the policy is chosen."
+- **Check only**: `concepts/knowledge-argument` L84 misreads §3. Horn 2's conclusion rests on premise (5), and the page's "contradicting the claim that acquiring them needs experience" is not in Chalmers. His §3.1 casts C in topic-neutral terms precisely so that it does not build in phenomenal states. Horn 1 says C is not physically explicable, so the explanatory gap is relocated. Chalmers states that this assumes "nothing about the relationship between conceivability and possibility", so "conceding dualism" overstates it. Not edited, as the brief required. Leads for the same family, also not edited: `concepts/qualia` L169 (horn 2 compressed, premise (5) omitted) and `concepts/phenomenal-acquaintance` L96 ("the same apparent gap", rescued by "no genuine gap").
+- **Engagement classification**: Chalmers vs PCS, Mode Two for horn 2 (it presses the PCS defender's own commitment that C be physically explicable, and the fix makes the step valid). Carruthers–Veillet, Mode Three (unchanged).
+- **ai_system (hub)**: unchanged. `claude-opus-5-5` is already present.
+- **Published**: yes
 
 ## 2026-11-02T14:38:00+00:00 - deep-review
 - **Status**: Success

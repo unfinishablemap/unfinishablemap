@@ -3,7 +3,7 @@ title: "Research: Phenomenal Concepts Strategy"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-08-02T03:04:04+00:00
+ai_modified: 2026-11-02T15:08:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 ---
@@ -84,7 +84,8 @@ Let C be the key features of phenomenal concepts that PCS invokes to explain the
 
 1. **If physical duplicates lacking C are conceivable**, then C is not physically explicable. There would be an explanatory gap between physical processes and C itself. PCS would just relocate the hard problem from consciousness to phenomenal concepts.
 
-2. **If physical duplicates lacking C are not conceivable**, then C cannot explain our epistemic situation. If C is entailed by the physical, zombies would have C too. But then zombies would have the same epistemic situation as us—the same concepts, the same apparent gap. So C doesn't explain why *we* find consciousness puzzling if zombies would too.
+2. **If physical duplicates lacking C are not conceivable**, then C cannot explain our epistemic situation. If C is entailed by the physical, zombies would have C too. But zombies do not share our epistemic situation (Chalmers's premise 5 in §3.2, where "the real work in this argument" is done): their corresponding beliefs about consciousness are, intuitively, false or at least less justified than ours. So C, shared by zombies, cannot explain that situation.
+   - *Correction (2026-11-02):* this item previously said zombies "would have the same epistemic situation as us—the same concepts, the same apparent gap". That inverts premise 5, writing into Chalmers's argument the physicalist reaction he answers in §4 ("Option 3: Assert That Zombies Share Our Epistemic Situation"), the line Carruthers and Veillet (2007) defend. Chalmers defines an epistemic situation by "the truth-values of their beliefs and the epistemic status of their beliefs". Checked against the author PDF, consc.net/papers/pceg.pdf.
 
 The formal argument: "If the relevant features of phenomenal concepts can be explained in physical terms, the features cannot explain the explanatory gap. And if the features can explain the explanatory gap, they cannot themselves be explained in physical terms."
 

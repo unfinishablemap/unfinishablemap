@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-15 18:49:33+00:00
+ai_modified: 2026-11-02 15:08:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:11:05+00:00
-lastmod: 2026-10-15 18:49:33+00:00
+lastmod: 2026-11-02 15:08:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ Let C be whatever features make phenomenal concepts "special"—the features PCS
 
 **Horn 1:** If physical duplicates lacking C are conceivable, then C is not physically explicable. There would be an explanatory gap between physics and C itself. PCS would just relocate the [hard problem](/topics/hard-problem-of-consciousness/) from consciousness to phenomenal concepts.
 
-**Horn 2:** If physical duplicates lacking C are inconceivable, then C cannot explain our epistemic situation. If C is entailed by physics, [zombies](/concepts/philosophical-zombies/) would have C too. Zombies would have the same concepts, the same apparent gap. So C doesn't explain why *we* find consciousness puzzling—the zombie finds it equally puzzling for purely physical reasons.
+**Horn 2:** If physical duplicates lacking C are inconceivable, then C cannot explain our epistemic situation. If C is entailed by physics, [zombies](/concepts/philosophical-zombies/) would have C too. Yet zombies do not share our epistemic situation: their corresponding beliefs about consciousness are, intuitively, false or at least less justified than ours. So C, shared by zombies, cannot explain that situation.
 
 The dilemma: if the features explaining the gap are "thin" (physically explicable), they can't explain the gap's persistence. If "thick" (not physically explicable), they create a new gap.
 

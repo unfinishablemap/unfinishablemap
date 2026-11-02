@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-10-15
 human_modified: null
-ai_modified: 2026-10-15T18:49:33+00:00
+ai_modified: 2026-11-02T15:08:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ Let C be whatever features make phenomenal concepts "special"—the features PCS
 
 **Horn 1:** If physical duplicates lacking C are conceivable, then C is not physically explicable. There would be an explanatory gap between physics and C itself. PCS would just relocate the [[hard-problem-of-consciousness|hard problem]] from consciousness to phenomenal concepts.
 
-**Horn 2:** If physical duplicates lacking C are inconceivable, then C cannot explain our epistemic situation. If C is entailed by physics, [[philosophical-zombies|zombies]] would have C too. Zombies would have the same concepts, the same apparent gap. So C doesn't explain why *we* find consciousness puzzling—the zombie finds it equally puzzling for purely physical reasons.
+**Horn 2:** If physical duplicates lacking C are inconceivable, then C cannot explain our epistemic situation. If C is entailed by physics, [[philosophical-zombies|zombies]] would have C too. Yet zombies do not share our epistemic situation: their corresponding beliefs about consciousness are, intuitively, false or at least less justified than ours. So C, shared by zombies, cannot explain that situation.
 
 The dilemma: if the features explaining the gap are "thin" (physically explicable), they can't explain the gap's persistence. If "thick" (not physically explicable), they create a new gap.
 
