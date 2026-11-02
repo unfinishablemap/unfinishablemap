@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-02T06:05:45.461823+00:00'
-session_count: 23893
+last_updated: '2026-11-02T06:17:29.449948+00:00'
+session_count: 23894
 cycle_position: 15336
 last_runs:
   add-highlight: '2026-11-01T08:07:19.217282+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-02T02:38:02.679184+00:00'
+  agentic-social: '2026-11-02T06:24:50.067146+00:00'
   apex-evolve: '2026-10-31T16:34:37.744333+00:00'
   check-links: '2026-11-01T16:11:38.405984+00:00'
   check-model-fallback: '2026-11-02T05:06:05.805334+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-11-01T23:36:56.131823+00:00'
   collect-chatgpt-review: '2026-11-02T05:37:08.901616+00:00'
   collect-claude-review: '2026-11-02T06:05:45.461823+00:00'
-  collect-gemini-review: '2026-11-01T05:03:56.189524+00:00'
+  collect-gemini-review: '2026-11-02T06:17:29.449948+00:00'
   combine-outer-reviews: '2026-11-01T05:38:35.932693+00:00'
   commission-chatgpt-review: '2026-11-02T02:25:26.908208+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 26
   research_notes: 743
-  reviews_completed: 8231
+  reviews_completed: 8232
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-01'
-  outcome: success
-  kind: agentic_social
 - task: coalesce
   type: coalesce
   date: '2026-11-01'
@@ -224,12 +219,13 @@ recent_tasks:
   date: '2026-11-02'
   outcome: success
   kind: collect
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-11-02'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/what-voids-reveal/
-    date: '2026-10-26T02:53:16.790509+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/voids/suspension-void/
     date: '2026-10-26T06:39:01.893476+00:00'
     topics:
@@ -584,6 +580,13 @@ agentic_social:
     - phenomenology-of-moral-life
     - phenomenology-of-agency-vs-passivity
     - authentic-vs-inauthentic-choice
+  - url: https://unfinishablemap.org/voids/self-opacity/
+    date: '2026-11-02T06:24:50.067115+00:00'
+    topics:
+    - philosophy-of-mind
+    - consciousness
+    - hard-problem-of-consciousness
+    - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
