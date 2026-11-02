@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 18:06:36+00:00
+ai_modified: 2026-11-02 18:28:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 18:06:36+00:00
+lastmod: 2026-11-02 18:28:54+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T18:28:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/)
+- **Original score**: n/a (`scripts/curate.py` absent; single-insertion task from a research note)
+- **Word count**: 4724 → 4988 (analyze_length; net +264 against 275 headroom, 12 under the 5000 apex hard limit which gates at `>=`)
+- **Changes**: installed Edit 2 of [ketamine-dissociation-retrosplenial-rhythm-2026-10-16](/research/ketamine-dissociation-retrosplenial-rhythm-2026-10-16/) in `## The Cumulative Convergence`, as a new bolded paragraph after the "The convergence with non-pharmacological evidence" paragraph (anchor count 1). The paragraph states what the ketamine mechanism establishes — an HCN1-paced 1–3 Hz rhythm confined to layer 5 of retrosplenial cortex, gated by parvalbumin interneurons, reproduced by rhythmic optogenetic drive, abolished with the phenotype by HCN1 knockout, and not produced by memantine, LSD, propofol, diazepam or buprenorphine — and what it does not: the account is a pacemaker one in no precision or prediction-error terms, so the route is "not currently modelled as a precision-weighting pathology, and not shown irreducible to one"; the rodent phenotype is detection-without-affect (the pain-asymbolia axis, not the clinical cluster's ownership and autobiographical channels); propofol raises the same 3–4 Hz posteromedial power without dissociation (Tian et al. 2023); and the human translation is contested on dose and frequency (Grent-'t-Jong et al. 2021). Nothing is presented as evidence *for* the interface reading. Four references added alphabetically (Grent-'t-Jong 2021, Hu et al. 2025, Tian et al. 2023, Vesuna et al. 2020), list renumbered 1–14.
+- **Trim against headroom**: the note specified ~+247 (147-word paragraph + 100 words of references). Measured, the four references cost 104 words and the paragraph as drafted ran 189, which would have reached 5018. Per the task's instruction the paragraph was trimmed, not the references: 189 → 163 words, mainly by compressing the drug panel to the five verified non-elicitors, folding the Hu 2025 attribution into the mechanism clause, and shortening the precision-weighting hedge. All four calibration requirements are still carried.
+- **Verification**: metadata re-confirmed at Crossref for all four DOIs (10.3389/fpsyt.2021.790372; 10.1016/j.celrep.2024.115086; 10.1038/s41467-023-37463-3; 10.1038/s41586-020-2731-9) and at PubMed for PMIDs 34938216, 39708317, 36991011, 32939091 — journal, volume, issue, article number and year match the entries as installed. Claims grep-verified in fetched full texts: Vesuna PMC7553818 ("rhythmic optogenetic activation of retrosplenial cortex layer 5 neurons recapitulated dissociation-like behavioural effects"; "local RSP HCN1 pacemakers are required…"; layer 2/3 null at P = 0.7; memantine, saline, LSD, diazepam and buprenorphine all non-elicitors, propofol and dexmedetomidine producing waves *not* restricted to RSP); Tian PMC10060225 ("Although both ketamine and propofol-induced 3 Hz rhythms in PMC, dissociation was only detected after ketamine"); Grent-'t-Jong PMC8686110 (the <1 mg/kg human vs ≥25 mg/kg mouse dose mismatch, the alpha-not-delta human correlate, and the 50 Hz stimulation point). Hu et al. 2025 at abstract level (PV-interneuron inhibition, 1–3 Hz delta, HCN1 knockdown attenuation) — all that the installed clause attributes to it.
+- **Reference ordering**: installed Grent-'t-Jong *before* Gröpel (correct alphabetically, "Gre" < "Grö"); the note's parenthetical said "after Gröpel", which is wrong on the page's own alphabetical convention.
+- **Neighbour check**: the following paragraph opened "reads this convergence as specification work", whose "this convergence" would have re-bound to the inserted paragraph; changed to "reads the cross-route convergence" (+1 word, counted above). No other pronoun or back-reference in the neighbourhood depends on adjacency.
+- **Consistency with the sibling**: `topics/clinical-dissociation-as-systematic-evidence` L127 was edited at 18:06Z today to "add further routes not yet reduced to the precision-weighting family". The apex paragraph matches that strength ("not currently modelled as", "not shown irreducible to") and nowhere says the ketamine route does not reduce to precision-weighting. Grep for "does not reduce"/"do not reduce" in the apex: zero.
+- **ai_system**: `claude-opus-4-7+claude-opus-5+claude-opus-5-5` already contains claude-opus-5-5 component-wise; unchanged.
+- **Review**: [optimistic-2026-10-08-clinical-dissociation-wing](/reviews/optimistic-2026-10-08-clinical-dissociation-wing/)
+- **Published**: yes
 
 ## 2026-11-02T18:06:36+00:00 - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-09-25 12:18:13+00:00
+ai_modified: 2026-11-02 18:28:54+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 apex_last_synthesis: 2026-08-22 07:43:30+00:00
 apex_sources:
@@ -29,7 +29,7 @@ concepts:
 - '[[mind-matter-interface]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-05-18
-date: &id001 2026-09-25
+date: &id001 2026-11-02
 description: Three classes of pharmacological dissociation—same-target-opposite-outcome,
   different-target-convergent-outcome, same-behaviour-different-mechanism-different-phenomenology—jointly
   specify what the Map asks pharmacology to do, with anaesthesia as the worked exhibit
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-24 10:55:00+00:00
-lastmod: 2026-09-25 12:18:13+00:00
+lastmod: 2026-11-02 18:28:54+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -137,7 +137,9 @@ What the convergence raises is the *explanatory cost on absorption*. The materia
 
 The convergence with non-pharmacological evidence adds to the effect, though less than it first appears. [Neurological lesions](/topics/neurological-dissociations-as-interface-architecture/) split sensory from affective channels, [clinical dissociation](/topics/clinical-dissociation-as-systematic-evidence/) severs felt access and ownership without structural damage, and [contemplative pathology](/topics/contemplative-pathology-and-interface-malfunction/) loosens temporal binding and ownership. Each perturbation class separates *some* components, and the sets overlap only partly. What replicates across classes that share no mechanism is selective separability with partial overlap, a weaker pattern than one architecture recurring, and one any modular theory also predicts. The independence that carries weight is *between* classes, since within the functional-disconnection class one precision-weighting mechanism may be read several times (see the clinical-cluster discount above). The [epistemology of convergence arguments](/topics/epistemology-of-convergence-arguments/#compound-signatures-convergence-without-a-shared-mechanism) explains why disjointness matters—a compound signature pre-empts the common-cause objection only where no shared upstream cause exists—and where its reach stops: it earns the separability but not the architecture's dualist significance. The [altered-states synthesis](/apex/altered-states-as-interface-evidence/) supplies a complementary systems-level matrix.
 
-The [interface specification programme](/apex/interface-specification-programme/) reads this convergence as specification work: each route adds resolution to where the interface has components, how they fail, and how it reconfigures. The claim the methodology licenses is a modest one — *partially overlapping component-structures recur across routes, and the convergence raises the explanatory cost on the unified-substrate alternative* — rather than the inference from dissociations to dualism it is sometimes mistaken for.
+**The mechanism specification, and what it does not reach.** Pharmacological dissociation is the one route here with a worked cellular mechanism. In mice, dissociative doses of ketamine elicit a 1–3 Hz rhythm confined to layer 5 of retrosplenial cortex, paced by local HCN1 channels and gated by parvalbumin interneurons (Vesuna et al. 2020; Hu et al. 2025); rhythmic optogenetic drive reproduces the behavioural phenotype, HCN1 knockout abolishes rhythm and phenotype together, and memantine, LSD, propofol, diazepam and buprenorphine do not produce it. The account is a pacemaker one, stated nowhere in precision or prediction-error terms: the route is not currently modelled as a precision-weighting pathology, and not shown irreducible to one. The rodent phenotype is detection-without-affect, the pain-asymbolia axis rather than the clinical cluster's ownership and autobiographical channels, and the human link stays thin — propofol raises the same 3–4 Hz posteromedial power without producing dissociation (Tian et al. 2023), and the translation is contested on dose and frequency (Grent-'t-Jong et al. 2021).
+
+The [interface specification programme](/apex/interface-specification-programme/) reads the cross-route convergence as specification work: each route adds resolution to where the interface has components, how they fail, and how it reconfigures. The claim the methodology licenses is a modest one — *partially overlapping component-structures recur across routes, and the convergence raises the explanatory cost on the unified-substrate alternative* — rather than the inference from dissociations to dualism it is sometimes mistaken for.
 
 ## Calibration Discipline
 
@@ -226,11 +228,15 @@ This synthesis integrates:
 
 1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725.
 2. Edwards, M. J., Adams, R. A., Brown, H., Pareés, I., & Friston, K. J. (2012). A Bayesian account of 'hysteria'. *Brain*, 135(11), 3495–3512. https://doi.org/10.1093/brain/aws129
-3. Gröpel, P., & Mesagno, C. (2019). Choking interventions in sports: A systematic review. *International Review of Sport and Exercise Psychology*, 12(1), 176–201.
-4. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751–764. https://doi.org/10.1038/s41593-023-01290-y
-5. Marsh, R. J., Dorahy, M. J., Butler, C., Middleton, W., de Jong, P. J., Kemp, S., & Huntjens, R. J. C. (2021). Inter-identity amnesia for neutral episodic self-referential and autobiographical memory in Dissociative Identity Disorder: An assessment of recall and recognition. *PLoS ONE*, 16(2), e0245849. https://doi.org/10.1371/journal.pone.0245849
-6. Sarasso, S., Boly, M., Napolitani, M., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099–3105. https://doi.org/10.1016/j.cub.2015.10.014
-7. Smoulder, A. L., Marino, P. J., Oby, E. R., et al. (2024). A neural basis of choking under pressure. *Neuron*, 112(20), 3424–3433.e8.
-8. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121–133. https://doi.org/10.1016/j.bja.2025.02.036
-9. Voon, V., Brezing, C., Gallea, C., Ameli, R., Roelofs, K., LaFrance, W. C. Jr., & Hallett, M. (2010). Emotional stimuli and motor conversion disorder. *Brain*, 133(5), 1526–1536. https://doi.org/10.1093/brain/awq054
-10. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://doi.org/10.1016/j.neuron.2024.11.008
+3. Grent-'t-Jong, T., Melloni, L., & Uhlhaas, P. J. (2021). Dissociation and brain rhythms: Pitfalls and promises. *Frontiers in Psychiatry*, 12, 790372. https://doi.org/10.3389/fpsyt.2021.790372
+4. Gröpel, P., & Mesagno, C. (2019). Choking interventions in sports: A systematic review. *International Review of Sport and Exercise Psychology*, 12(1), 176–201.
+5. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751–764. https://doi.org/10.1038/s41593-023-01290-y
+6. Hu, Y., Feng, Y., Luo, H., et al. (2025). Dissociation-related behaviors in mice emerge from the inhibition of retrosplenial cortex parvalbumin interneurons. *Cell Reports*, 44(1), 115086. https://doi.org/10.1016/j.celrep.2024.115086
+7. Marsh, R. J., Dorahy, M. J., Butler, C., Middleton, W., de Jong, P. J., Kemp, S., & Huntjens, R. J. C. (2021). Inter-identity amnesia for neutral episodic self-referential and autobiographical memory in Dissociative Identity Disorder: An assessment of recall and recognition. *PLoS ONE*, 16(2), e0245849. https://doi.org/10.1371/journal.pone.0245849
+8. Sarasso, S., Boly, M., Napolitani, M., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099–3105. https://doi.org/10.1016/j.cub.2015.10.014
+9. Smoulder, A. L., Marino, P. J., Oby, E. R., et al. (2024). A neural basis of choking under pressure. *Neuron*, 112(20), 3424–3433.e8.
+10. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121–133. https://doi.org/10.1016/j.bja.2025.02.036
+11. Tian, F., Lewis, L. D., Zhou, D. W., et al. (2023). Characterizing brain dynamics during ketamine-induced dissociation and subsequent interactions with propofol using human intracranial neurophysiology. *Nature Communications*, 14, 1748. https://doi.org/10.1038/s41467-023-37463-3
+12. Vesuna, S., Kauvar, I. V., Richman, E., et al. (2020). Deep posteromedial cortical rhythm in dissociation. *Nature*, 586(7827), 87–94. https://doi.org/10.1038/s41586-020-2731-9
+13. Voon, V., Brezing, C., Gallea, C., Ameli, R., Roelofs, K., LaFrance, W. C. Jr., & Hallett, M. (2010). Emotional stimuli and motor conversion disorder. *Brain*, 133(5), 1526–1536. https://doi.org/10.1093/brain/awq054
+14. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://doi.org/10.1016/j.neuron.2024.11.008
