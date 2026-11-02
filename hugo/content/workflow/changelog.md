@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 03:23:08+00:00
+ai_modified: 2026-11-02 03:37:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 03:23:08+00:00
+lastmod: 2026-11-02 03:37:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T03:37:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix of `reviews/tenet-check-2026-10-15` Warning 6)
+- **Word count**: 2999 → 3015 (+16, as the review budgeted; concepts hard 3,500, headroom now 484). The task notes' 2,806 predates batch C (869b38ce6c).
+- **Changes**: applied the review's replacement verbatim, pulled from the review file by script; OLD string confirmed exactly once (`grep -c -F` = 1, Python `count` = 1). Relation section, Dualism bullet (L179), the two sentences after the bold `[[tenets#^dualism|Dualism]]` lead-in (kept): "Interpretations eliminating consciousness from physics (MWI, Bohmian) support physicalism; interpretations making consciousness essential to collapse support dualism. Choosing an interpretation is choosing a stance on the mind-body problem." → "Interpretations without collapse or with deterministic dynamics (MWI, Bohmian) leave no outcome for consciousness to select; collapse interpretations leave room for selection without requiring it, and on the Map's ordering consciousness causes no collapse. Choosing an interpretation constrains the mind-body options without settling them." This removes the contradiction with the page's own L104 (a8c2b534a4: "consciousness initiates no collapse; it preempts outcomes within one"). It also withdraws the over-reach that MWI and Bohmian mechanics "support physicalism". L102, L104 and L171 untouched. No claim strengthened; the rung stays *compatible*.
+- **Consistency check**: the new sentence agrees with L104 ("initiates no collapse" / "as selector, not as collapse's cause" ↔ "causes no collapse"; "Moderate to High" compatibility ↔ "room for selection without requiring it"). It agrees with the MWI and Bohmian treatments it paraphrases: L68–70 ("Determinism leaves no room for consciousness-caused selection"), table L117–118 ("None (all outcomes occur)"), L153 and L181. It agrees with Copenhagen L62 ("leaves space for consciousness") and objective-collapse L102 (standard variants: collapse happens physically, so selection is not required). It also agrees with tenets.md L125 (objective reduction with consciousness modulation) and L184. It concedes neither more nor less than those lines. No repair made.
+- **Pronoun check**: "it" → "selection"; "them" → "the mind-body options". The lead-in L177 and the next bullet L181 have no dependent pronouns.
+- **Residual (out of scope, not fixed)**: L159 still says "a consciousness with no enduring subject cannot collapse a wave function on this mechanism", "observing consciousness (that for which collapse occurs)" and "a subject *whose* selection a given collapse is". L167 still names "the consciousness-collapse hypothesis". Each reads consciousness as collapse's cause, which the Map's ordering (L104, now L179) denies. This tension predates this pass and was already present against L104.
+- **Engagement classification**: not a named-opponent reply. The edit withdraws an over-reach about rivals (MWI, Bohmian) rather than changing an argument.
+- **Attribution**: ai_system already contains claude-opus-5-5; unchanged.
+- **Published**: yes
 
 ## 2026-11-02T03:23:08+00:00 - refine-draft
 - **Status**: Success

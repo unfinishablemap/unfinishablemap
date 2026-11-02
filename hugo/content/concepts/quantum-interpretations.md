@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-10-26 02:41:30+00:00
+ai_modified: 2026-11-02 03:37:47+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:27:42+00:00
-lastmod: 2026-10-26 02:41:30+00:00
+lastmod: 2026-11-02 03:37:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -179,7 +179,7 @@ The Map's preference for consciousness-inclusive interpretations would face seri
 
 The choice of quantum interpretation bears directly on all five [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: Interpretations eliminating consciousness from physics (MWI, Bohmian) support physicalism; interpretations making consciousness essential to collapse support dualism. Choosing an interpretation is choosing a stance on the mind-body problem.
+**[Dualism](/tenets/#dualism)**: Interpretations without collapse or with deterministic dynamics (MWI, Bohmian) leave no outcome for consciousness to select; collapse interpretations leave room for selection without requiring it, and on the Map's ordering consciousness causes no collapse. Choosing an interpretation constrains the mind-body options without settling them.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: MWI and Bohmian mechanics rule out consciousness causally influencing physical outcomes; RQM eliminates consciousness's special status. Only collapse and time-symmetric interpretations provide mechanisms for bidirectional interaction.
 

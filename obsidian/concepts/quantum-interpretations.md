@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-10-15
 human_modified: null
-ai_modified: 2026-10-26T02:41:30+00:00
+ai_modified: 2026-11-02T03:37:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -176,7 +176,7 @@ The Map's preference for consciousness-inclusive interpretations would face seri
 
 The choice of quantum interpretation bears directly on all five [[tenets]]:
 
-**[[tenets#^dualism|Dualism]]**: Interpretations eliminating consciousness from physics (MWI, Bohmian) support physicalism; interpretations making consciousness essential to collapse support dualism. Choosing an interpretation is choosing a stance on the mind-body problem.
+**[[tenets#^dualism|Dualism]]**: Interpretations without collapse or with deterministic dynamics (MWI, Bohmian) leave no outcome for consciousness to select; collapse interpretations leave room for selection without requiring it, and on the Map's ordering consciousness causes no collapse. Choosing an interpretation constrains the mind-body options without settling them.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: MWI and Bohmian mechanics rule out consciousness causally influencing physical outcomes; RQM eliminates consciousness's special status. Only collapse and time-symmetric interpretations provide mechanisms for bidirectional interaction.
 
