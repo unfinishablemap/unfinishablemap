@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-02T10:55:17.534299+00:00'
-session_count: 23912
-cycle_position: 15347
+last_updated: '2026-11-02T11:27:23.639774+00:00'
+session_count: 23913
+cycle_position: 15348
 last_runs:
   add-highlight: '2026-11-02T08:13:19.659472+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-02T10:08:50.411062+00:00'
+  agentic-social: '2026-11-02T11:39:11.404807+00:00'
   apex-evolve: '2026-10-31T16:34:37.744333+00:00'
   check-links: '2026-11-01T16:11:38.405984+00:00'
   check-model-fallback: '2026-11-02T09:21:10.502933+00:00'
@@ -31,7 +31,7 @@ last_runs:
   harvest-research-subjects: '2026-11-02T06:52:30.009473+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-27T05:09:53.973438+00:00'
-  optimistic-review: '2026-11-01T21:49:46.532932+00:00'
+  optimistic-review: '2026-11-02T11:27:23.639774+00:00'
   pessimistic-review: '2026-11-02T09:06:55.514818+00:00'
   positions-evolve: '2026-11-01T21:28:43.508896+00:00'
   refine-draft: '2026-11-02T10:55:17.534299+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 26
   research_notes: 743
-  reviews_completed: 8237
+  reviews_completed: 8238
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-11-02'
-  outcome: success
-  kind: collect
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-11-02'
@@ -224,15 +219,13 @@ recent_tasks:
   date: '2026-11-02'
   outcome: success
   kind: queue
+- task: optimistic-review
+  type: optimistic-review
+  date: '2026-11-02'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/alief-and-acting-against-belief/
-    date: '2026-10-26T10:52:10.729766+00:00'
-    topics:
-    - akrasia-and-weakness-of-will
-    - phenomenology-of-resistance-across-domains
-    - the-divided-will
-    - philosophy-of-habit-under-dualism
   - url: https://unfinishablemap.org/concepts/swampman/
     date: '2026-10-26T12:35:37.686581+00:00'
     topics:
@@ -591,6 +584,11 @@ agentic_social:
     topics:
     - multi-agent-born-preservation-problem
     - consciousness-and-the-metaphysics-of-individuation
+  - url: https://unfinishablemap.org/concepts/depersonalisation-nosology/
+    date: '2026-11-02T11:39:11.404772+00:00'
+    topics:
+    - clinical-dissociation-as-systematic-evidence
+    - clinical-phenomenology-and-altered-experience
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
