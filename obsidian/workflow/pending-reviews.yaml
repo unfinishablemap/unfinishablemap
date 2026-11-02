@@ -25,3 +25,33 @@
   subject_articles:
   - voids/cross-state-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/c0b47721-6ede-4517-bcd5-1db642bbd577
+  commissioned_at: '2026-11-02T03:10:54.148580+00:00'
+  prompt_summary: 'Hostile referee audit of cross-state-void: citations, replication,
+    framing'
+  target_filename: outer-review-2026-11-02-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair referee for one article from The
+    Unfinishable Map (https://unfinishablemap.org), a philosophy site that openly
+    takes a dualist stance on consciousness. The article is "The Cross-State Void"
+    at https://unfinishablemap.org/voids/cross-state-void/ (last substantively modified
+    2026-10-26). It claims that a mind in one visceral state cannot represent the
+    felt weight of another state it has often occupied: the description crosses, the
+    motivational pull does not, and knowing about the bias does not remove it. Use
+    web search to check its citations and quotations against primary sources, and
+    assess how well the hot-cold empathy gap literature it relies on has held up under
+    replication. Test whether the void is genuinely distinct from neighbouring Map
+    articles, whether its stated agnosticism between a phenomenal and a merely motivational
+    reading holds throughout, and whether the dualist framing does unacknowledged
+    work. Search indexes lag, so check https://unfinishablemap.org/workflow/changelog/
+    for recent edits. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit cross-state-void
+  subject_articles:
+  - voids/cross-state-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-02-chatgpt-5-6-sol-pro.md
