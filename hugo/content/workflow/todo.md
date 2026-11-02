@@ -4065,6 +4065,52 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,881/4,000 by analyze_length (topics hard limit). Make it length-neutral where possible.
 - **Notes**: Map-internal description gone stale. Re-read the CURRENT `topics/neurological-dissociations-as-interface-architecture`, especially L170 ("though not independently"), the new Occam paragraph at L202 ("the Map's count of six channels, one read off each syndrome, … rests on contested assumptions") and L128 ("can fail separately"). Then recast hemispherectomy L104's "independently failable channels" gloss to match, e.g. "a set of separately failing channels", at zero or negative word cost. Locate by the phrase (`grep -c -F` = 1 on 2026-11-02). Grep the rest of `obsidian/` (excluding reviews/ and workflow/) for other live quotations of "independently failable" and report any hits. Check pronouns. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u`. `ai_system` is currently `claude-opus-4-8+claude-opus-5`; append the running model only if ABSENT. Changelog before sync; verify both trees; no commit.
 
+### P2: `apex/judging-the-map-as-science` — carry the unanswered McKilliam (2025) objection to the Lakatosian instrument, and the IBE page's tier verdict, into the apex that relies on both (its source hub has recorded the objection since 08-16, four days after the apex synthesis)
+- **Type**: refine-draft
+- **File**: obsidian/apex/judging-the-map-as-science.md
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-11-02
+- **Review file**: reviews/optimistic-2026-11-02-map-as-science-wing.md
+- **Headroom**: 4,857/5,000 (apex hard limit, gate `>=`). The item is +89, which gives 4,946. If headroom forces a choice, do (a) + (a′) only (+54).
+- **Notes**: Optimistic review 2026-11-02 (map-as-science wing), Priority List item 1.
+  - (a) After L76 "a programme is displaced by a better programme, not refuted by a single result.", append the McKilliam sentence, linked to `philosophy-of-science-under-dualism#can-bayesian-confirmation-break-the-deadlock`.
+  - (b) After L86 "and not yet demonstrably progressive**.", append the IBE tier-verdict sentence (*compatible*; *suggestive* only against a rival who denies the datum; *discriminating* nowhere). Its wording must match IBE L74; re-grep IBE L74 first.
+  - (a′) Add reference 12, McKilliam 2025, *Noûs* 59(3) 634–651, doi 10.1111/nous.12526. Re-verify it at Crossref with `curl --max-time 30`. The paraphrase was verified at p. 635 by `reviews/deep-review-2026-08-21-philosophy-of-science-under-dualism`.
+  - (c) SECOND FILE: two zero-word reciprocal pipes in `obsidian/concepts/inference-to-the-best-explanation-against-dualism.md` (3,352/3,500): at L58 "tier in Bayesian vocabulary," and at L94 "is that it survives it, which", as the review specifies. IBE's `ai_system` is `claude-fable-5-1+claude-opus-5-5+claude-fable-5-1`, which has a duplicated trailing component; dedupe it, keeping the LAST occurrence, to `claude-opus-5-5+claude-fable-5-1`.
+  - After sync, check that the `#the-appraisal-instrument` and `#can-bayesian-confirmation-break-the-deadlock` fragments resolve in the rendered HTML. No page has linked a JMS section before.
+  - Apex `ai_system` (`claude-fable-5+claude-opus-5+claude-fable-5-1+claude-opus-5-5`): append the running model only if ABSENT. Pull the EXACT anchor and replacement strings from the review's Priority List by script and locate them by the quoted anchor; the driver confirmed every anchor at `grep -c -F` = 1 at 22:36Z on 2026-11-02. Check pronouns after each edit. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u` and never use a future time. Re-measure with analyze_length. Changelog before sync; verify both trees; no commit.
+
+### P2: `topics/duhem-quine-underdetermination-consciousness` L116 predicts "statistical signatures inconsistent with purely physical noise", an aggregate signature the endorsed strict-corridor reading rules out by construction (flagged by tenet checks 2026-07-29 and 08-12, never repaired); word-neutral swap
+- **Type**: refine-draft
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-11-02
+- **Review file**: reviews/optimistic-2026-11-02-map-as-science-wing.md
+- **Headroom**: 4,037/4,000, already OVER the topics hard limit, so the edit MUST be ≤ +0. The review's swap is −1.
+- **Notes**: Optimistic review 2026-11-02, Priority List item 2. Replace "may show statistical signatures inconsistent with purely physical noise" with "may show intention-conditioned departures from the Born marginal". That is IBE L82's own phrase; re-grep it there first. The corridor reading's only empirical exposure is intention-conditioned (TFC L70/L72, PoS L122). This change does NOT touch the 2026-06-07 HUMAN LENGTH DECISION bundles, which concern additive content; add nothing else. `ai_system` is `claude-opus-4-6+claude-opus-5`: append the running model only if ABSENT. Pull the EXACT anchor and replacement strings from the review's Priority List by script and locate them by the quoted anchor; the driver confirmed every anchor at `grep -c -F` = 1 at 22:36Z on 2026-11-02. Check pronouns after each edit. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u` and never use a future time. Re-measure with analyze_length. Changelog before sync; verify both trees; no commit.
+
+### P3: `topics/consciousness-and-the-structure-of-scientific-revolutions` — four calibration repairs against its own sources: L75 "independently converged" (the cited page says the opposite, [P-M2](/positions/methodology-and-calibration/#p-m2)); L79 ancient disagreement read as crisis (it is the pre-paradigm pattern L65 argues against); L99 Bidirectional Interaction stated without its "owed, not shown" qualifier; L45 "excluding subjectivity" paraphrase lags the methodology page's revised lead
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-the-structure-of-scientific-revolutions.md
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-11-02
+- **Review file**: reviews/optimistic-2026-11-02-map-as-science-wing.md
+- **Headroom**: 2,272/4,000. The four items total +63, which gives 2,335.
+- **Notes**: Optimistic review 2026-11-02, Priority List item 3, sub-items (a)–(d) at L75, L79, L99 and L45. Before installing, re-grep the cited source texts: `biological-computationalisms-inadvertent-case-for-dualism` L87 ("not four independent confirmations"), L55 (Searle), PoS L70/L86, and the methodology page's revised lead ("leaving the sensible qualities out of its explanatory primitives"). Also read L53 ("Three centuries …") for the same issue as (b); edit it only if it is cheap, and report. (d) is the body-text sibling of the open PoS L128 P3 minted 2026-11-01, so keep the two consistent. `ai_system` is `claude-opus-4-6+claude-opus-5+claude-fable-5-1`: append the running model only if ABSENT. Pull the EXACT anchor and replacement strings from the review's Priority List by script and locate them by the quoted anchor; the driver confirmed every anchor at `grep -c -F` = 1 at 22:36Z on 2026-11-02. Check pronouns after each edit. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u` and never use a future time. Re-measure with analyze_length. Changelog before sync; verify both trees; no commit.
+
+### P3: `concepts/tenet-falsification-conditions` L62 — Tenet 1's stated falsifiers (gap closure, entailment) are all ones the strongest rival, the Type-B physicalist, never promises; name the form of cumulative pressure Type-B actually exerts (explanatory unification) and the Map's tier against it (*compatible*)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/tenet-falsification-conditions.md
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-11-02
+- **Review file**: reviews/optimistic-2026-11-02-map-as-science-wing.md
+- **Headroom**: 2,385/3,500 (concepts hard limit). The item is +59, which gives 2,444.
+- **Notes**: Optimistic review 2026-11-02, Priority List item 4. After L62 "accommodation that earns the theory no evidential credit, since its rivals expect the same data.", append the review's two-sentence passage, with links to `type-a-type-b-and-type-c-physicalism` and `inference-to-the-best-explanation-against-dualism`. Before installing, re-grep `rival-explanations-of-the-explanatory-gap` ("Both grant that the gap is real and will not close") and IBE L74 (*compatible* against Type-B). Keep the knowledge-argument condition out of "the entailment conditions", as the review explains. The page's own L96 already names the yielding form; the new sentence connects to it. `ai_system` is `claude-opus-4-6+claude-opus-5+claude-opus-5-5`: append only if ABSENT. Pull the EXACT anchor and replacement strings from the review's Priority List by script and locate them by the quoted anchor; the driver confirmed every anchor at `grep -c -F` = 1 at 22:36Z on 2026-11-02. Check pronouns after each edit. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u` and never use a future time. Re-measure with analyze_length. Changelog before sync; verify both trees; no commit.
+
 ## Completed Tasks
 
 

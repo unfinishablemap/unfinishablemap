@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-08 09:20:19+00:00
-ai_system: claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-02 23:08:41+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 22:32:21+00:00
-lastmod: 2026-10-08 09:20:19+00:00
+lastmod: 2026-11-02 23:08:41+00:00
 modified: *id001
 related_articles: []
 title: Inference to the Best Explanation Against Dualism
@@ -59,7 +59,7 @@ So the physicalist's master argument is IBE with closure among its outputs and p
 
 ## The Bayesian Deflation
 
-A documented strand of the IBE literature bears on what "both are compatible" can mean. Okasha (2000; not consulted), Lipton's seventh chapter and Henderson (2014) ask whether explanatory considerations are, or emerge from, priors and likelihoods; Henderson's abstract proposes that "IBE would emerge from the Bayesian account, rather than being used to constrain priors and likelihoods". No retrieved source applies this to the dualism debate. The Map's reconstruction, labelled as such: on the deflationary reading the residual disagreement would be about priors alone only if both hypotheses reached the evidence from their cores; that residual fits [tenets](/tenets/)' description of Tenet 1 as "a commitment the Map owns, not a result it reports"—a prior is what a commitment is in this register. The reading concedes that the evidence does not raise the dualist's credence, which is the *compatible* tier in Bayesian vocabulary, and gives the physicalist no reason to adopt the Map's priors. Henderson's abstract also suggests that "the extent to which the explanation a theory provides depends on its core elements rather than on auxiliary hypotheses" is "reflected in the Bayesian likelihood", given priors a Bayesian might adopt anyway. Dualism reaches the seven explananda only through bridge laws fitted to them, so part of the physicalist's loveliness is a likelihood advantage.
+A documented strand of the IBE literature bears on what "both are compatible" can mean. Okasha (2000; not consulted), Lipton's seventh chapter and Henderson (2014) ask whether explanatory considerations are, or emerge from, priors and likelihoods; Henderson's abstract proposes that "IBE would emerge from the Bayesian account, rather than being used to constrain priors and likelihoods". No retrieved source applies this to the dualism debate. The Map's reconstruction, labelled as such: on the deflationary reading the residual disagreement would be about priors alone only if both hypotheses reached the evidence from their cores; that residual fits [tenets](/tenets/)' description of Tenet 1 as "a commitment the Map owns, not a result it reports"—a prior is what a commitment is in this register. The reading concedes that the evidence does not raise the dualist's credence, which is the *compatible* tier in [Bayesian vocabulary](/concepts/philosophy-of-science-under-dualism/#can-bayesian-confirmation-break-the-deadlock), and gives the physicalist no reason to adopt the Map's priors. Henderson's abstract also suggests that "the extent to which the explanation a theory provides depends on its core elements rather than on auxiliary hypotheses" is "reflected in the Bayesian likelihood", given priors a Bayesian might adopt anyway. Dualism reaches the seven explananda only through bridge laws fitted to them, so part of the physicalist's loveliness is a likelihood advantage.
 
 ## Five Replies and the Tier Each Reaches
 
@@ -95,7 +95,7 @@ Among the dualist texts retrieved for this page, no explicit answer to an argume
 
 [Occam's Razor Has Limits](/tenets/#occams-limits) blunts the inference without defeating it. The tenet denies that simplicity is a reliable guide to truth under incomplete knowledge, which denies Lipton's coextension bridge for the simplicity component of loveliness in this domain and so lowers the confidence the physicalist's conclusion can claim. It is no licence to ignore loveliness: an explanation that provides more understanding still has a claim the Map must answer with an explanation of its own, and Tenet 5 supplies none. The tenet binds the Map's own abductions with the same force.
 
-[Bidirectional Interaction](/tenets/#bidirectional-interaction) is where a discriminating result would have to come from. The IBE's idleness premise is the exclusion challenge restated as an explanatory charge, and the only reply that could upgrade the Map's tier is a demonstration that the dualist posit earns predictive success the physical model does not. The Map holds that demonstration as owed. While Tenet 3 stands at available rather than actual, the Map's position against the physicalist's master argument is that it survives it, which is what *compatible* means.
+[Bidirectional Interaction](/tenets/#bidirectional-interaction) is where a discriminating result would have to come from. The IBE's idleness premise is the exclusion challenge restated as an explanatory charge, and the only reply that could upgrade the Map's tier is a demonstration that the dualist posit earns predictive success the physical model does not. The Map holds that demonstration as owed. While Tenet 3 stands at available rather than actual, the Map's position against the physicalist's master argument is that it [survives it](/apex/judging-the-map-as-science/#the-appraisal-instrument), which is what *compatible* means.
 
 ## Further Reading
 

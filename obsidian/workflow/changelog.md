@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T22:33:55+00:00
+ai_modified: 2026-11-02T23:09:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T23:09:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/judging-the-map-as-science]] (+ [[concepts/inference-to-the-best-explanation-against-dualism]])
+- **Task**: P2 "`apex/judging-the-map-as-science` — carry the unanswered McKilliam (2025) objection to the Lakatosian instrument, and the IBE page's tier verdict, into the apex" (todo.md 0-based line 4065); [[reviews/optimistic-2026-11-02-map-as-science-wing]] Priority List item 1. Anchors and replacement strings pulled from the review by script; every anchor re-grepped at `grep -c -F` = 1 before editing.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes** (analyze_length before → after): apex 4857 → 4947 (apex hard 5000, gate `>=`; full item installed, no fallback needed); IBE 3352 → 3352 (concepts hard 3500).
+  - (a) apex L76, appended after "a programme is displaced by a better programme, not refuted by a single result.": "The instrument carries a recorded limit of its own: [[philosophy-of-science-under-dualism#can-bayesian-confirmation-break-the-deadlock|McKilliam (2025)]] argues that programmes revising only progressively and updating by Bayes's rule may still diverge rather than converge, an objection the cluster's survey records as unanswered." Paraphrase only, no direct quote; it tracks p. 635 ("even if researchers only make progressive revisions ... and update their confidence assignments in accordance with Bayes Rule, different research programs may still converge on different theories") as verified in [[reviews/deep-review-2026-08-21-philosophy-of-science-under-dualism]].
+  - (b) apex L86, appended after "and not yet demonstrably progressive**.": "Against the physicalist's strongest argument the tier verdict is of a piece: under [[inference-to-the-best-explanation-against-dualism|inference to the best explanation]] the Map reaches *compatible*, *suggestive* only against a rival who denies the phenomenal datum, and *discriminating* nowhere." Re-read against IBE L74 Verdict first ("*Compatible* on the physicalist's explanandum set; *suggestive* on the widened set against a physicalist who denies the datum; against the Type-B physicalist, *compatible* ...; *discriminating* nowhere"); consistent.
+  - Pronoun repair, apex L88 (+1): "What that verdict cannot yet distinguish" → "What the Lakatosian verdict cannot yet distinguish". After (b), "that verdict" would have bound to the IBE tier verdict rather than the bold programme verdict it was written for. The 2026-09-07 task's PRESERVE-VERBATIM note on this sentence protected the verdict's substance, which is unchanged; only the antecedent is restored.
+  - (a′) apex References, new line 12: "McKilliam, A. (2025). Natural Kind Reasoning in Consciousness Science: An Alternative to Theory Testing. *Noûs*, 59(3), 634-651. https://doi.org/10.1111/nous.12526". Crossref (`curl --max-time 30`, 10.1111/nous.12526): title, Noûs, vol 59, issue 3, pp. 634-651, print 2025-09, online 2024-09-24 — all match. Crossref casing is "Mckilliam"; kept "McKilliam" for consistency with the PoS hub and its 08-21 Wiley verification.
+  - (c) IBE, two zero-word reciprocal pipes: L58 "tier in [[philosophy-of-science-under-dualism#can-bayesian-confirmation-break-the-deadlock|Bayesian vocabulary]],"; L94 "is that it [[judging-the-map-as-science#the-appraisal-instrument|survives it]], which". First page to link a JMS section.
+  - ai_system: apex unchanged (`claude-fable-5+claude-opus-5+claude-fable-5-1+claude-opus-5-5`; claude-opus-5-5 already present). IBE deduped keep-LAST: `claude-fable-5-1+claude-opus-5-5+claude-fable-5-1` → `claude-opus-5-5+claude-fable-5-1` (running model present, no append).
+- **Engagement classification**: McKilliam — Mode Three (the apex records the objection as unanswered; no in-framework rebuttal claimed). Note for a later pass: [[reviews/deep-review-2026-08-21-philosophy-of-science-under-dualism]] records Beni (2026) as a reply aimed principally at Bayne and Shea; "records as unanswered" stays literally true of the Map.
+- **Style**: no "This is not X. It is Y.", no "load-bearing", no mode labels in either file (grep of added lines = 0, control hit = 2).
+- **Published**: yes
 
 ## 2026-11-02T22:33:55+00:00 - optimistic-review
 - **Status**: Success
