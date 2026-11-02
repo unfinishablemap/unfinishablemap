@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-02T12:28:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/)
+- **Selection**: selector top pick (`deep_review.py next`, score 77; not on the driver's exclusion list). This was the fourth deep review. Diffed from the 08-21 review commit `76d7299e38`: two unreviewed secondary-host edits (the 08-22 wholeheartedness-void link, and the 10-20 Lowe rewrite with its new Griffith reference) triggered §2.4.
+- **Word count** (analyze_length; topics soft 3000 / hard 4000): 2805 → 2907 (+102); status ok.
+- **Critical issues addressed**: 2. (1) L45: Davidson "denied any psychophysical laws" → "denied strict psychophysical laws", with a zero-word pipe on "anomalous monist" to the concept page. This discharges part (a) of the open P3 Davidson task; an ADD-ON in its Notes says only (b) supervenience and (c) type-token-causation remain. (2) The frontmatter `description` said the hybrid "answers deviance", contradicting the body's "Deviance is relocated, not removed". It now says "answers the disappearing agent and relocates, without removing, deviance".
+- **Medium issues addressed**: 3. (1) L75: the unattributed "panicky metaphysics" is now Strawson's "the obscure and panicky metaphysics of libertarianism" (Strawson 1962: 211), scoped to libertarianism at large. The uncited "recent work … pluralist causal order" is now Martinez (2023), glossed from his abstract. (2) L99: "the simpler event-causal story cannot" [answer the disappearing agent] → its replies "(weighed in [event-causal-libertarianism](/topics/event-causal-libertarianism/)) remain contested". This matches that page's Kane material and its L90 concession. (3) L93/L113: "the candidate site" → "a candidate site", matching [wholeheartedness-void](/voids/wholeheartedness-void/) L86.
+- **Enhancements made**: 2 (the sourced L75 rewrite, and the first link to [event-causal-libertarianism](/topics/event-causal-libertarianism/), inline and in Further Reading).
+- **Verification**: Strawson's final sentence was read on the British Academy scan (48p187.pdf, p. 211 rendered as an image; verbatim). The volume pagination 187–211 replaces the 08-21 review's 1–25 offprint form. Martinez 2023 checked at Crossref (`10.1007/s11229-023-04216-0`, *Synthese* 202(1), art. 2), with the abstract from OpenAlex/Crossref. The NDPR Griffith HTML was curled and tag-stripped: "cannot cause their own volitions on pain of regress (7)" has 1 hit, and so do the closure and gaps passages. Lowe's 2008 abstract was rebuilt from the OpenAlex inverted index: both quoted spans have 1 hit each. Map-internal quotations: none. Anchors `agency-void#The Verification Circularity` and `#whose-action-is-a-decoded-movement` resolve. The other references are carried forward from 07-06 and 08-21, unchanged.
+- **Engagement modes** (editor-internal): Davidson, Mode Three; Pereboom, met on its own terms; Anscombe, Mode Three (disclaimed); Lowe, Mode Three (the departure is marked; the 10-29 synthesis R2 says L77 answers the regress dilemma); event-causal libertarianism at L99 moved from an implied refutation to Mode Three ("contested", linked).
+- **ai_system**: unchanged. claude-opus-5-5 was already present.
+- **Output**: [deep-review-2026-11-02-philosophy-of-action-under-dualism](/reviews/deep-review-2026-11-02-philosophy-of-action-under-dualism/)
+
+---
+
 ## 2026-11-02T12:10:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
