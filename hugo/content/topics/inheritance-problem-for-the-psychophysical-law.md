@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-11-01 15:30:39+00:00
+ai_modified: 2026-11-02 15:51:50+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[evolution-of-consciousness]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-10-13
-date: &id001 2026-11-01
+date: &id001 2026-11-02
 description: If conscious selection affects fitness, what does evolution pass on?
   A human-AI analysis separating receiver, eligibility and law, and naming the debts
   that remain open.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-14 10:38:50+00:00
-lastmod: 2026-11-01 15:30:39+00:00
+lastmod: 2026-11-02 15:51:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ The word "codebook" runs together three things:
 2. **An outbound selection law**: how a subject's selection bears on which presented option becomes actual. On this proposal it is fixed and content-neutral, governing selection among whatever is presented, as in the [selection-only-channel](/concepts/selection-only-channel/).
 3. **Menu formation**: which candidate actions the brain prepares and how they are grouped into alternatives. This is wholly physical, evolved and learned.
 
-Species-specificity and semantic richness belong to the third, which is part of R. The first two can be universal and simple. Chalmers expects the link between complex functional organisation and experience to follow from "simpler, more fundamental psychophysical laws" (1996, p. 276), though his laws run only upward. The Map extends the move to the downward law its [control-law programme](/topics/the-psychophysical-control-law/) needs. A frog's options and a human's differ because their receivers prepare different menus; the law that selects among them is the same.
+Species-specificity and semantic richness belong to the third, which is part of R. The first two can be universal and simple. Chalmers expects the link between complex functional organisation and experience to follow from "simpler, more fundamental psychophysical laws" (1996, p. 275), though his laws run only upward. The Map extends the move to the downward law its [control-law programme](/topics/the-psychophysical-control-law/) needs. A frog's options and a human's differ because their receivers prepare different menus; the law that selects among them is the same.
 
 Horn (c) then loses its force, because nothing species-specific sits in the law, and horn (d) loses part of its force, because nothing in the law needs learning. The semantic mapping problem the interface programme lists is moved, not solved: the receiver must prepare options that differ in how they feel, and the selector picks by how they feel. The granular [content-specificity](/concepts/content-specificity-of-mental-causation/) of mental causation becomes a fact about menus.
 
@@ -154,7 +154,7 @@ The proposal leaves four debts open:
 
 1. Baldwin, J. M. (1896). A new factor in evolution. *The American Naturalist*, 30(354), 441–451; 30(355), 536–553. https://doi.org/10.1086/276408
 1. Blumberg, M. S. (2015). Developing sensorimotor systems in our sleep. *Current Directions in Psychological Science*, 24(1), 32–37. https://doi.org/10.1177/0963721414551362
-1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press. (p. 276)
+1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press. (p. 275)
 1. Cutter, B., & Crummett, D. (2025). Psychophysical harmony: A new argument for theism. *Oxford Studies in Philosophy of Religion*, 33–71. https://doi.org/10.1093/9780198954712.003.0002
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. James, W. (1890). *The Principles of Psychology*, Vol. 1, ch. 5, "The Automaton-Theory". Henry Holt.

@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T15:36:46+00:00
+ai_modified: 2026-11-02T15:51:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T15:51:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/inheritance-problem-for-the-psychophysical-law]]
+- **Task**: P3 "`topics/inheritance-problem-for-the-psychophysical-law` — Chalmers (1996) “It would be odd if the universe…” quotation is cited to p. 276; it is on p. 275".
+- **Review file**: reviews/deep-review-2026-10-08-the-interface-problem.md
+- **Original score**: n/a (targeted citation-locator fix; `scripts/curate.py` absent)
+- **Changes**:
+  - Article L84: "(1996, p. 276)" → "(1996, p. 275)". The quoted fragment "simpler, more fundamental psychophysical laws" is the second sentence of the "It would be odd if the universe had fundamental laws…" passage that closes chapter 7 on p. 275 (chapter 8 begins p. 276); evidence per the task: archive.org `chalmers-the-conscious-mind` OCR (text follows the p. 275 running head) and Google Books PA275 with controls, matching the 2026-10-16 fix in `topics/the-psychophysical-control-law` L77.
+  - Article References #1: "Oxford University Press. (p. 276)" → "Oxford University Press. (p. 275)".
+  - Guard: Baldwin DOI "10.1086/276408" untouched (count 1 after).
+  - Research note `research/inheritance-problem-for-the-psychophysical-law-2026-09-24` L108: "(p. 276, already quoted in [[the-psychophysical-control-law]])" → "(p. 275, …)". Same quotation: the note points to the Chalmers passage quoted in the control-law page, which is the "It would be odd…" passage, so the fix applies.
+  - Counts after: "p. 276" = 0 in article and note; "p. 275" = 2 in article, 1 in note.
+  - Word count (analyze_length): article 3408 → 3408; note 3950 → 3950 (word-neutral).
+  - ai_modified set on both files; `modified` bumped to 2026-11-02. ai_system unchanged (claude-opus-5-5 already present in both).
+  - Not edited (historical records): `reviews/deep-review-2026-10-14-inheritance-problem-for-the-psychophysical-law.md` L32 and `reviews/deep-review-2026-07-18-the-psychophysical-control-law.md` L59 still record p. 276.
+- **Published**: yes
 
 ## 2026-11-02T15:36:46+00:00 - refine-draft
 - **Status**: Success

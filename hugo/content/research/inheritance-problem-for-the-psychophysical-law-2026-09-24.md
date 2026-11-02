@@ -1,19 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-24
-ai_modified: 2026-09-24 10:25:00+00:00
+ai_modified: 2026-11-02 15:51:50+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts: []
 created: 2026-09-24
-date: &id001 2026-09-24
+date: &id001 2026-11-02
 description: 'Research on what evolution can pass on if consciousness selects: the
   neural receiver, subject eligibility, or the psychophysical mapping itself, and
   whether learning the mapping regresses.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-24 10:25:00+00:00
+lastmod: 2026-11-02 15:51:50+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - The Inheritance Problem for the Psychophysical Law
@@ -109,7 +109,7 @@ The reviewer's four horns are not equally serious once three inheritable things 
 - **Relevance**: The clearest non-theistic interactionist story for **E-evolution**. Evolution builds brains that satisfy a fixed emergence condition, and each generation's subjects arise afresh, so no mental inheritance is needed. Hasker offers the Map a template for eligibility without dual inheritance. Its cost is a fixed emergence law with the harmony problem attached.
 
 ### Chalmers — *The Conscious Mind* (1996)
-- **Key points**: Psychophysical laws are fundamental and fixed. Organisational invariance ties experience to fine-grained functional organisation, so species-specific *richness* sits entirely on the physical input side while the law stays simple. Chalmers expects the basic laws to be simple (p. 276, already quoted in [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)).
+- **Key points**: Psychophysical laws are fundamental and fixed. Organisational invariance ties experience to fine-grained functional organisation, so species-specific *richness* sits entirely on the physical input side while the law stays simple. Chalmers expects the basic laws to be simple (p. 275, already quoted in [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)).
 - **Relevance**: Chalmers's answer to horn (c)'s "species-specific, semantically rich" objection is to put the specificity in R and keep K simple and universal. The Map can use the same move for the *outbound* (selection) law as well as the inbound one. Chalmers's own laws are inbound only.
 
 ### Sadtler et al. — "Neural constraints on learning" (2014)
