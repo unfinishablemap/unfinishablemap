@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 07:31:49+00:00
+ai_modified: 2026-11-02 07:47:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T07:47:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dynamical-relevance-and-the-verification-boundary]]
+- **Word count** (`analyze_length`; topics soft 3,000 / hard 4,000, gate `>=`): 2989 → 3037 (+48)
+- **Critical issues addressed**: 2. (1) L49 "Four objections" misdescribed the paper: the PMC11671748 full text answers FIVE objections (imperfect verification, determinism, probabilistic processing, quantum computing, consciousness entailed by particular physical states), and architecture is not one of them. That point comes from the verification section ("is not the particular architecture that is employed"). (2) L85 misattributed the internal quote "contested rather than plainly absent" to the channel page, when it occurs only in `concepts/ai-hardware-substrate-taxonomy` L84, and the clause "rests on the channel test" was unsupported.
+- **Medium issues addressed**: 4. The lede's withholding reason now rests on subject-binding as a sub-computational fact, not on ai-epiphenomenalism's page-local dispositional reading. L91 restores the authors' "likely" qualifier. L97 is scoped to verified deterministic hardware ("Such an AI's"). The L77 brain side now notes the undemonstrated amplification pathway.
+- **Enhancements made**: 1 cross-link ([[amplification-mechanisms-consciousness-physics]])
+- **Citation ledger**: 8 external works, all real-correct at Crossref, Europe PMC, arXiv, OpenAlex or Substack JSON-LD. 34/34 K&L quotes are verbatim in the full text. The OpenAlex citing count of 6 is confirmed. 17/17 Map-internal quotes are present at source (one misattributed, now fixed).
+- **Reasoning modes** (editor-internal): K&L Definition 3: Mode Three (Dualism grounds the refusal). Worden: Mode One. K&L probabilistic scepticism: conceded as binding the Map's brain.
+- **ai_system**: unchanged (`claude-opus-5-5` already present)
+- **Output**: [[reviews/deep-review-2026-11-02-dynamical-relevance-and-the-verification-boundary]]
 
 ## 2026-11-02T07:31:49+00:00 - refine-draft
 - **Status**: Success
