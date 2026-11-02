@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 02:05:36+00:00
+ai_modified: 2026-11-02 03:02:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T03:02:19+00:00 - research-topic
+- **Status**: Success
+- **Topic**: IIT 4.0, the Kleiner–Ludwig no-go theorem and the Map on physically recurrent / spiking neuromorphic hardware verified to an ISA or stochastic spec (retry of the 00:52Z attempt, which hung on a download and wrote nothing)
+- **Output**: [[research/iit-no-go-and-the-map-on-recurrent-neuromorphic-hardware-2026-10-15]]
+- **Sources consulted**: 7 (Albantakis et al. 2023 PMC XML; Kleiner & Ludwig 2024 Europe PMC XML; Tononi & Koch 2015 PMC XML; Findlay et al. arXiv 2412.04571 v2 PDF; Young et al. 2019 OpenAlex abstract; Ulhaq 2024 OpenAlex metadata, lead only; Crossref title search) plus 2 web searches
+- **Recommended action**: fold (mints nothing) into `topics/dynamical-relevance-and-the-verification-boundary`: new H2 "One Substrate, Three Verdicts" + L89 sentence + 4 refs, drafted in the note, cost 597 words (host 2,989 → ~3,586 of 4,000 hard)
+- **Key findings**: IIT 4.0's "not strongly connected" clause is a sufficient condition for phi_s = 0, not the zero condition (Findlay's strongly connected computer still has phi_s = 0); Findlay et al. judge directly wired integrated silicon "similarly conscious" and router/CPU-served versions "unconscious as a whole"; K&L 0 hits for neuromorph/analog/spik confirmed; IIT denies level-independence ("will not be phenomenally equivalent"), so on the theorem's third premise IIT stands with the Map; Map's verdict independent of IIT's, but not quantum-specific where secure (verification + Tenet 3) — outer-review charge correct for this class, for a different reason
 
 ## 2026-11-02T02:05:36+00:00 - deep-review
 - **Status**: Success
