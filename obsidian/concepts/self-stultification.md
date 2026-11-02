@@ -2,9 +2,9 @@
 title: "The Self-Stultification Argument"
 description: "A position is self-stultifying—epistemically self-defeating—when accepting it undermines the rational grounds for believing it. This structure presses epiphenomenalism hard and threatens physicalism."
 created: 2026-02-02
-modified: 2026-10-16
+modified: 2026-11-02
 human_modified:
-ai_modified: 2026-10-19T15:17:48+00:00
+ai_modified: 2026-11-02T15:24:56+00:00
 last_deep_review: 2026-09-21T07:45:00+00:00
 draft: false
 topics:
@@ -42,7 +42,7 @@ coalesced_from:
   - "/concepts/epistemic-self-defeat/"
 ---
 
-A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [[concepts/epiphenomenalism]] and certain forms of [[concepts/materialism]] holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. The position may be true, but it cannot be rationally held. The [[self-stultification-as-master-argument|master argument]] synthesises how this single structure presses hard against multiple targets and argues that consciousness must be causally efficacious.
+A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [[concepts/epiphenomenalism]] and certain forms of [[concepts/materialism]] holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. The position may be true, but it cannot be rationally held if knowing an experience requires causal traffic from it; otherwise the charge narrows: the theory is not reasoned or voiced from its evidence. The [[self-stultification-as-master-argument|master argument]] synthesises how this single structure presses hard against multiple targets and argues that consciousness must be causally efficacious.
 
 Self-stultification is an instance of a broader epistemological pattern: *epistemic self-defeat*. A belief is epistemically self-defeating when its own truth would undermine the rational grounds anyone could have for holding it. The concept has applications across epistemology wherever a position turns against its own foundations, but its most consequential deployment is in the philosophy of consciousness.
 
@@ -164,11 +164,11 @@ Some philosophers accept self-defeat and bite the bullet: yes, the position cann
 
 ### Distinguishing Self-Defeat from Refutation
 
-Self-stultification does not prove a position false; its conclusion is that the position cannot be rationally held. This is weaker than falsification but, if it goes through, still epistemically devastating: a position that undermines its own rational credentials cannot command assent.
+Self-stultification does not prove a position false; its classic conclusion is that the position cannot be rationally held. This is weaker than falsification but, if it goes through, still epistemically devastating: a position that undermines its own rational credentials cannot command assent.
 
 ### The Performative Dimension
 
-The epiphenomenalist *engages* in rational discourse about consciousness—presenting arguments, responding to objections, revising views on evidence—and that engagement presupposes that their conscious evaluation of arguments influences their beliefs. The act of defending epiphenomenalism assumes what epiphenomenalism denies.
+The epiphenomenalist *engages* in rational discourse about consciousness—presenting arguments, responding to objections, revising views on evidence—and, on the argument's reading, that engagement presupposes that their conscious evaluation of arguments influences their beliefs. The [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the engagement.
 
 ### Dualism All the Way Down
 

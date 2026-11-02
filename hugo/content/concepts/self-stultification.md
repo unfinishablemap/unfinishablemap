@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-10-19 15:17:48+00:00
+ai_modified: 2026-11-02 15:24:56+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -17,7 +17,7 @@ concepts:
 - '[[intentionality]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-02-02
-date: &id001 2026-10-16
+date: &id001 2026-11-02
 description: A position is self-stultifying—epistemically self-defeating—when accepting
   it undermines the rational grounds for believing it. This structure presses epiphenomenalism
   hard and threatens physicalism.
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 07:45:00+00:00
-lastmod: 2026-10-19 15:17:48+00:00
+lastmod: 2026-11-02 15:24:56+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -46,7 +46,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [epiphenomenalism](/concepts/epiphenomenalism/) and certain forms of [materialism](/concepts/materialism/) holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. The position may be true, but it cannot be rationally held. The [master argument](/topics/self-stultification-as-master-argument/) synthesises how this single structure presses hard against multiple targets and argues that consciousness must be causally efficacious.
+A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [epiphenomenalism](/concepts/epiphenomenalism/) and certain forms of [materialism](/concepts/materialism/) holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. The position may be true, but it cannot be rationally held if knowing an experience requires causal traffic from it; otherwise the charge narrows: the theory is not reasoned or voiced from its evidence. The [master argument](/topics/self-stultification-as-master-argument/) synthesises how this single structure presses hard against multiple targets and argues that consciousness must be causally efficacious.
 
 Self-stultification is an instance of a broader epistemological pattern: *epistemic self-defeat*. A belief is epistemically self-defeating when its own truth would undermine the rational grounds anyone could have for holding it. The concept has applications across epistemology wherever a position turns against its own foundations, but its most consequential deployment is in the philosophy of consciousness.
 
@@ -168,11 +168,11 @@ Some philosophers accept self-defeat and bite the bullet: yes, the position cann
 
 ### Distinguishing Self-Defeat from Refutation
 
-Self-stultification does not prove a position false; its conclusion is that the position cannot be rationally held. This is weaker than falsification but, if it goes through, still epistemically devastating: a position that undermines its own rational credentials cannot command assent.
+Self-stultification does not prove a position false; its classic conclusion is that the position cannot be rationally held. This is weaker than falsification but, if it goes through, still epistemically devastating: a position that undermines its own rational credentials cannot command assent.
 
 ### The Performative Dimension
 
-The epiphenomenalist *engages* in rational discourse about consciousness—presenting arguments, responding to objections, revising views on evidence—and that engagement presupposes that their conscious evaluation of arguments influences their beliefs. The act of defending epiphenomenalism assumes what epiphenomenalism denies.
+The epiphenomenalist *engages* in rational discourse about consciousness—presenting arguments, responding to objections, revising views on evidence—and, on the argument's reading, that engagement presupposes that their conscious evaluation of arguments influences their beliefs. The [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) denies the reading rather than the engagement.
 
 ### Dualism All the Way Down
 
