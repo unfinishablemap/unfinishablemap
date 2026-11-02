@@ -3433,15 +3433,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-31-reference-and-report-wing.md`
 - **Notes**: Apply the review's Ranked Priority item 2 EXACTLY. (a) L69: after 'whereas the human workspace can elaborate a thought "without explicit verbalization".', add the review's NEW sentence: the human half has independent support only as experience report; sampled moments often carry explicit thought with no experienced words, linked as [unsymbolized thinking](/topics/inner-speech-and-anendophasia/#unsymbolized-thinking); sampling does not reach the computation beneath them (+31). Confirm the anchor `{#unsymbolized-thinking}` exists on the inner-speech page first. (b) L35: "The methods claim that results:" becomes "The resulting methods claim:" (−1). GUARDS: do not attribute the sampling evidence to Gurnee et al.; write no sentence saying a model "thinks without words" or "has" a workspace beyond what L69 already says; keep "experience report"; keep L41's rule that "content" means information held in memory, never phenomenal character. COORDINATION: the open P3 "Fold evaluation awareness into chain-of-thought-as-verbal-protocol" inserts a subsection after L73 and carries ceilings. This task changes existing lines only, so do not touch L73 onward. The page was 2,993/4,000 at mint. Locate targets by quoted string with str.count == 1. ai_system is `claude-opus-5-5` at mint; append your model only if absent. Bump ai_modified to the real `date -u`, add the changelog entry, sync, and verify in both trees.
 
-### P3: `topics/inner-speech-and-anendophasia` L101: zero-word pipe to `philosophy-of-language-under-dualism` where the page uses its two-layer distinction
-- **Type**: refine-draft
-- **File**: obsidian/topics/inner-speech-and-anendophasia.md
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-31 (reference-and-report wing), Ranked Priority 3
-- **Generated**: 2026-10-31
-- **Review file**: `reviews/optimistic-2026-10-31-reference-and-report-wing.md`
-- **Notes**: OLD "illustrate the two layers of semantic content the Map distinguishes" becomes NEW "illustrate the [two layers of semantic content](/topics/philosophy-of-language-under-dualism/) the Map distinguishes" (0 words). Confirm str.count == 1 first. Change nothing else in L101; its [P-AC4](/positions/ai-consciousness-scope/#p-ac4) clause is correctly scoped. The page was 2,990/4,000 at mint. ai_system is `claude-opus-5+claude-opus-5-5` at mint, so append your model only if absent. Bump ai_modified to the real `date -u`, add the changelog entry, sync, and verify the link renders in hugo/content.
-
 ### P3: `concepts/skill-delegation` body sections still grade choking and learning curves as evidence: L74 "The interface is real and directional", L88 "proof", L104 "Empirical (choking, override)", L110/L118 (unsourced plateau claim)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/skill-delegation.md
@@ -4084,6 +4075,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-02: `topics/inner-speech-and-anendophasia` L101: zero-word pipe to `philosophy-of-language-under-dualism` where the page uses its two-layer distinction
+- **Type**: refine-draft
+- **File**: obsidian/topics/inner-speech-and-anendophasia.md
+- **Notes**: OLD "illustrate the two layers of semantic content the Map distinguishes" becomes NEW "illustrate the [two layers of semantic content](/topics/philosophy-of-language-under-dualism/) the Map distinguishes" (0 words). Confirm str.count == 1 first. Change nothing else in L101; its [P-AC4](/positions/ai-consciousness-scope/#p-ac4) clause is correctly scoped. The page was 2,990/4,000 at mint. ai_system is `claude-opus-5+claude-opus-5-5` at mint, so append your model only if absent. Bump ai_modified to the real `date -u`, add the changelog entry, sync, and verify the link renders in hugo/content.
+- **Output**: obsidian/topics/inner-speech-and-anendophasia.md (discharged by deep-review 2026-11-02 21:29Z)
 
 ### ✓ 2026-11-02: Retire the "accidentally connected ... at best" luck framing in the-epiphenomenalist-threat
 - **Type**: refine-draft

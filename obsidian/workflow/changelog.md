@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T21:30:40+00:00
+ai_modified: 2026-11-02T21:46:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T21:46:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
+- **Task**: P3 "Calibrate the residual tier-three channel phrasings in neurological-dissociations-as-interface-architecture" (todo.md 0-based line 1692): loci (a) L202 Occam's, (b) L128, (c) L172 pharmacological parallels, (d) L178 identity premise (outer review [[reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro]] §4 row 9, improvement 15). Model: [[topics/logic-of-dissociation-inference]] L102 and L42, both re-grepped verbatim.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes** (old → new; tokens by count_words):
+  - (a) L202: dropped "The interface architecture is not simple. Six independently failable channels, attentional gating, bilateral unity maintenance—this is complex machinery." (it also contradicted L170's "though not independently"). "The actual structure of mind-brain coupling is messier than parsimony would prefer, and the clinical evidence shows why parsimony misleads here" → "Mind-brain coupling is messier than parsimony would prefer. Yet the Map's count of six channels, one read off each syndrome, is itself the kind of simple reading the tenet distrusts, and rests on [[logic-of-dissociation-inference#three-tiers|contested assumptions]]". The one-channel sentence stands (tier two). 66 → 62.
+  - (b) L128: "This double dissociation within the ascending direction suggests that delivery and selection are architecturally distinct" → "This [[logic-of-dissociation-inference#bridge-assumptions|cross-literature contrast]] within the ascending direction suggests that delivery and selection can fail separately" (the model page's L42 says the pairing falls short of the double-dissociation criterion). 15 → 15.
+  - (c) L172: "shows interface components are pharmacologically separable … paralleling how blindsight and hemineglect double-dissociate within the ascending direction" → "shows reported experience and responsiveness are pharmacologically separable … paralleling the blindsight-hemineglect contrast within the ascending direction" (apex/pharmacological-dissociation-as-evidence L90 grade; 22 → 22). "channel split that neurological dissociations reveal" → "channel split read off neurological dissociations" (9 → 9). Same paragraph, same "reveal" defect, not named in the task: "the same channel-level architecture that lesions reveal through destruction" → "the same selective-disruption pattern …" (anesthesia-void L102's own term; 9 → 9). The convergence-of-three-routes sentence and its compatibility-grade bound are untouched.
+  - (d) L176–L180: heading "Against Identity Theory" → "Against Naive Identity" (no inbound anchor links; 4 → 4). L178 "identical to neural processing" → "identical to undifferentiated neural processing" (+1). "They are harder to explain if consciousness simply *is* the processing." → "Type identity, pairing each conscious state with a specific neural state, expects them too: they constrain which states it names without refuting it." (+12; what it fails to predict: nothing in this pattern). L180 opener "The target here is specifically identity theory, not physicalism in general." deleted (−11). After (d) it was false, and L180's "This pattern tells against naive identity, not functionalism" still carries the narrowing.
+- **Length**: analyze_length 3991 → 3989 (topics hard 4000, gate `>=`). No lines were added or removed (numstat 7/7), so the exemption comment's line references still hold.
+- **Guards checked** (each cut phrase grepped in reviews/ and todo.md): the 04-17 note "do NOT re-flag 'identity theory is a strawman'" is overridden by the explicit outer-review locus. The functionalism engagement (L180 S2 to end) is intact, and naive identity is still answered on its own terms. The 07-12 and 07-26 "double-dissociation spine (blindsight vs hemineglect)" keeps its pairing and complementary-profile logic; only the grade label changed, per the model page's L42. The convergence argument and its compatibility-grade bound (04-17 to 07-26) are unchanged. L170, L200, the eight 18:00Z passages, the 10-30 L198 Born gloss and L49 (optional) were not touched.
+- **Reasoning-mode (editor-internal)**: engagement with identity theory: Mode One against undifferentiated identity (its own prediction fails); Mode Three toward type identity (the pattern is conceded as expected, not refuted). Functionalist standoff unchanged (Mode Three). No label leakage.
+- **Pronoun check**: (d) "them"/"they" = the selective disconnections, "it" = type identity. L180's new opener "Sophisticated functionalism…" has no backward pronoun. (a) "Yet the Map's count" is explicit. (b) is followed by a section heading.
+- **Prose checks**: "load-bearing" 0, "This is not" 0, mode labels 0, tier labels in body 0. No hedge tokens were added for the anchoring metric, and the `anchoring_audit_exempt` line is unchanged (git diff shows it as context only).
+- **Residual flag, not edited**: topics/hemispherectomy-and-the-resilience-of-unified-consciousness L104 paraphrases the hub as treating "the interface as a set of independently failable channels". The hub's Occam phrase is now gone, and L170's "though not independently" was already in tension with it. The L172 opener "A pharmacological route reaches the same architecture" is bounded by the paragraph's closing sentence and was left as it is.
+- **Frontmatter**: ai_modified 2026-11-02T21:45:20+00:00. ai_system unchanged (claude-opus-5-5 already present). Validator: valid.
+- **Published**: yes
 
 ## 2026-11-02T21:30:40+00:00 - deep-review
 - **Status**: Success
