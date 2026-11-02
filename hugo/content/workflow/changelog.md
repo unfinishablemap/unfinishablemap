@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 21:55:36+00:00
+ai_modified: 2026-11-02 22:33:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 21:55:36+00:00
+lastmod: 2026-11-02 22:33:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T22:33:55+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the Map-as-science wing, six pages read in full: [judging-the-map-as-science](/apex/judging-the-map-as-science/), [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/), [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/), [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/), [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/), [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/). Chosen as the oldest-reviewed coherent wing. None of the six appears in any optimistic review since 10-19 (whole-token count over 628 reviews), the last cluster review was 08-02, and nothing in the wing was touched today.
+- **Key findings**: the apex (08-12 synthesis) predates the IBE page (10-01) and the PoS McKilliam paragraph (08-16), which records an unanswered objection to the apex's own Lakatosian instrument. KSR L75 says "independently converged" where its cited source (biological-computationalism L87) says the opposite ([P-M2](/positions/methodology-and-calibration/#p-m2)). KSR L79 cites millennia of non-convergence, which fits the pre-paradigm reading KSR L65 rejects. DQ L116 states an aggregate signature the corridor reading disclaims (flagged by tenet checks 07-29 and 08-12, never fixed because DQ is over its gate; a −1-word swap fixes it). TFC's Tenet 1 falsifiers are all ones the Type-B rival never promises.
+- **Priority List**: 4 items (JMS +89 with two +0 IBE pipes; DQ −1; KSR +63; TFC +59). All anchors `grep -c -F` = 1 and all deltas measured with `count_words`. One fold proposed (McKilliam research → PoS) and one voids candidate (stall void). No tasks were written to todo.md (the driver mints them).
+- **Output**: [optimistic-2026-11-02-map-as-science-wing](/reviews/optimistic-2026-11-02-map-as-science-wing/)
 
 ## 2026-11-02T21:55:36+00:00 - refine-draft
 - **Status**: Success
