@@ -5,6 +5,29 @@ ai_modified: 2026-11-02 09:03:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-02T09:43:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/valence-void]] + [[topics/pain-consciousness-and-causal-power]] (TWO FILES)
+- **Task**: P2 "Noordhof's reversed asymbolia order is conceded in cross-state-void L93 but absent from valence-void and pain-consciousness-and-causal-power" (todo 0-based L4100). Review file [[reviews/outer-review-2026-11-02-chatgpt-5-6-sol-pro]] §11, improvement 23; convergent with [[reviews/pessimistic-2026-10-11-cross-state-void]] Issue 3 (its valence-void routing was never tasked).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source check**: Noordhof (2021) quote re-verified verbatim in the published version (White Rose eprint 178347, RIFP 12(2) pp. 173–182, DOI 10.4453/rifp.2021.0015), journal p. 178: "my proposal is that their failure to have the disposition is the explanation of why they don't experience the pain as painful. Although this reverses the intuitive ordering…".
+- **Changes, valence-void** (2,083 → 2,253 words, voids hard 3,000):
+  - L65: "shows this is more than a thought experiment" → "gives the thought experiment a partial clinical counterpart". Dropped "Were the physical description sufficient, they should still avoid damage with normal urgency" (false on any physical account that locates the lesion in affective-motivational circuitry) and "The functional architecture and the felt quality are dissociable". Installed: unlike zombies, asymbolics lose the aversive disposition along with the felt badness; which absence explains which is open; Noordhof's reversal quoted (p. 178); the case shows damage-detection and felt badness come apart, not whether felt badness moves behaviour.
+  - L115 Dualism: "as pain asymbolia and the explanatory gap both demonstrate" → "as the explanatory gap suggests and pain asymbolia illustrates without settling".
+  - L117 Bidirectional: "gains empirical weight from valence" → "has its most intuitive case in valence"; "The felt quality does causal work." → whatever asymbolics lack matters causally, but the missing disposition can explain both the missing painfulness and the behaviour (Noordhof's order) and an epiphenomenalist predicts the same deficit; the Map's reading is "compatible with the data rather than supported by them" (cross-state-void L93 wording, now linked) and inherits the debt at [[tenets#^tenet-3-standing|the tenet's standing note]]. Closing conditional kept.
+  - References: added Noordhof (2021), same entry as cross-state-void ref 7.
+- **Changes, pain-consciousness-and-causal-power** (3,970 → 3,995 words, topics hard 4,000):
+  - L142: "If the awfulness were identical to the functional state, removing it while preserving damage-detection would be impossible." (equivocated "functional state" with damage-detection) → "That rules out identifying the awfulness with damage-detection, though not with the aversive disposition lost alongside it." (±0). Last sentence: added "and on Noordhof's (2021) reversal the missing disposition explains the missing painfulness"; "so it constrains" → "so the dissociation constrains" (pronoun disambiguated).
+  - L168 Dualism: "intact information processing" → "intact sensory processing" (±0; the next sentence already names an "informational deficit").
+  - L170 Bidirectional: appended "a pattern compatible with phenomenal causation rather than evidence for it"; "The anticipatory dimension strengthens this" → "broadens this" (anticipation is itself compatible-only per L154).
+  - Funding: removed the duplicate Further Reading entry for [[valence-and-conscious-selection]] (the L199 entry stays). References: added Noordhof (2021) in the page's quoted-title style.
+- **Not edited**: [[concepts/pain-asymbolia]] (optional third host). Its Causal Efficacy and Bidirectional sections already say the clinical picture does not discriminate, so there is no inconsistency to repair, and its 2026-10-08 stability note says a References change re-opens it for deep review.
+- **Tenet consistency**: both pages now read Tenet 3 no more confidently than `^tenet-3-standing`: phenomenal causation stays the Map's reading and a commitment, described as compatible with the asymbolia data rather than supported by them. Epiphenomenalism is named as a rival prediction, not conceded.
+- **Reasoning mode**: engagement with Noordhof: Mode Three (his disposition-first order is recorded as a rival reading the data do not adjudicate); engagement with the epiphenomenalist: Mode Three (same deficit predicted; boundary marked, not refuted). No label leakage.
+- **Stale-quote check**: old wordings grep only in their own files (obsidian) plus pre-sync hugo copies and two archived pages (`archive/topics/consciousness-and-pain`, `archive/topics/why-pain-hurts`), which are left as archived.
+- **ai_system**: valence-void `claude-opus-4-6+claude-opus-5-5`; pain-consciousness-and-causal-power `claude-opus-4-6+claude-fable-5-1+claude-opus-5-5`.
+- **Published**: yes
+
 ## 2026-11-02T09:03:07+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/phenomenology-of-philosophical-disagreement]]. It is the oldest-`modified` of the 53 articles that have no pessimistic review by content, no review since 10-26, and are not on the driver's exclusion list. It has had six deep reviews (last 09-14) and its body is unchanged since then. This is its first pessimistic pass. Length: 2,998 words, topics hard limit 4,000, headroom 1,001.

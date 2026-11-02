@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-10-23 07:07:15.802925+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-02 09:42:02+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[valence]]'
@@ -21,7 +21,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 02:22:00+00:00
-lastmod: 2026-10-23 07:07:15.802925+00:00
+lastmod: 2026-11-02 09:42:02+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -65,7 +65,7 @@ Neuroscience has mapped the circuits of pleasure and pain with remarkable precis
 
 None of this explains why these circuits *feel* a certain way. A complete wiring diagram of nociception — from peripheral transduction through spinal signalling to cortical processing — specifies everything pain does without saying anything about why it hurts. The [zombie argument](/concepts/philosophical-zombies/) applies with particular force here: a being functionally identical to us in its pain-processing could conceivably lack the felt badness entirely.
 
-[Pain asymbolia](/topics/pain-consciousness-and-causal-power/) shows this is more than a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. Were the physical description sufficient, they should still avoid damage with normal urgency; instead asymbolics fail to guard injured limbs or seek treatment. The functional architecture and the felt quality are dissociable.
+[Pain asymbolia](/topics/pain-consciousness-and-causal-power/) gives the thought experiment a partial clinical counterpart. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. Unlike zombies, though, they also behave differently: asymbolics fail to guard injured limbs or seek treatment, and the aversive disposition goes missing along with the felt badness. Which absence explains which is open. The natural reading runs from missing badness to missing avoidance; Noordhof (2021) reverses that order, holding that asymbolics' "failure to have the disposition is the explanation of why they don't experience the pain as painful" (p. 178). Either way, damage-detection and felt badness come apart, which is the gap at issue here; whether the felt badness is what moves behaviour, the case cannot say.
 
 ### Introspection Bottoms Out
 
@@ -115,9 +115,9 @@ Johnson's Symmetry Theory of Valence (2016) proposes that the valence of a consc
 
 The valence void connects to the Map's [foundational commitments](/tenets/) at multiple points.
 
-**[Dualism](/tenets/#dualism)** finds particularly strong support. If the felt badness of pain cannot be captured by functional or physical description — as pain asymbolia and the explanatory gap both demonstrate — then consciousness involves something beyond the material. Valence sharpens this argument because it concerns the *simplest* phenomenal property, the bare positive-negative dimension. If even this elementary feature resists reduction, the prospects for reducing richer phenomenal properties are poor.
+**[Dualism](/tenets/#dualism)** finds particularly strong support. If the felt badness of pain cannot be captured by functional or physical description — as the explanatory gap suggests and pain asymbolia illustrates without settling — then consciousness involves something beyond the material. Valence sharpens this argument because it concerns the *simplest* phenomenal property, the bare positive-negative dimension. If even this elementary feature resists reduction, the prospects for reducing richer phenomenal properties are poor.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains empirical weight from valence. Pain asymbolia shows that when the phenomenal quality of badness is absent, behaviour changes — patients do not avoid damaging stimuli with normal urgency. The felt quality does causal work. If valence is genuinely phenomenal and behaviour depends on how things *feel*, then consciousness causally influences the physical world through its evaluative dimension.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** has its most intuitive case in valence. Pain asymbolia shows that when the phenomenal quality of badness is absent, behaviour changes — patients do not avoid damaging stimuli with normal urgency. It follows that whatever asymbolics lack matters causally, but not that the felt quality is what matters: the aversive disposition goes missing too and can explain both the missing painfulness and the behaviour, as in Noordhof's reversed order (above), and an epiphenomenalist predicts the same deficit. The Map's reading, on which the felt quality does causal work, is compatible with the data rather than supported by them (the same limit the [cross-state-void](/voids/cross-state-void/) draws for its own behavioural evidence) and inherits the debt recorded at [the tenet's standing note](/tenets/#tenet-3-standing). If valence is genuinely phenomenal and behaviour depends on how things *feel*, then consciousness causally influences the physical world through its evaluative dimension.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated precisely. "Pain hurts" seems like the simplest possible statement about experience. Yet this apparent simplicity resists all deeper explanation — not because of insufficient ingenuity but because the simplicity *is* the depth. The preference for parsimonious explanation fails here: the simplest experiential fact is the most inexplicable.
 
@@ -140,5 +140,6 @@ The valence void connects to the Map's [foundational commitments](/tenets/) at m
 
 1. Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670–679.
 1. Johnson, M. E. (2016). *Principia Qualia*. Qualia Research Institute.
+1. Noordhof, P. (2021). Explaining impossible and possible imaginings of pain. *Rivista internazionale di Filosofia e Psicologia*, 12(2), 173–182. https://doi.org/10.4453/rifp.2021.0015
 1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 1. Veit, W. (2023). *A Philosophy for the Science of Animal Consciousness*. Routledge.

@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal, and the sharpest pressure 
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-10-14T21:04:47+00:00
+ai_modified: 2026-11-02T09:42:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ related_articles:
   - "[[clinical-phenomenology-and-altered-experience]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-04
 last_curated:
 last_deep_review: 2026-07-18T13:10:09+00:00
@@ -139,7 +139,7 @@ When you touch a hot stove, the nociceptive signal travels through C-fibres and 
 
 The epiphenomenalist insists the withdrawal would occur identically without conscious experience. But this conflates the initial spinal reflex (which is indeed unconscious and automatic) with the sustained behavioural response that follows. The spinal reflex yanks your hand away. Consciousness determines what happens next: whether you run cold water over the burn, avoid the stove for hours afterward, or develop a lasting wariness. These extended responses track the *felt severity* of the pain, not merely the magnitude of tissue damage.
 
-Asymbolia makes this vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. If the awfulness were identical to the functional state, removing it while preserving damage-detection would be impossible. What asymbolia suggests is that phenomenal character may be a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's [[causal-exclusion-argument|causal exclusion argument]] denies — that phenomenal properties [[constitution-vs-causal-work|contribute causally beyond the physical base]] — and pain is where that denial is most exposed. The dissociation itself is a shared explanandum, though: a valence-prior account predicts it too, so it constrains Kim's reading rather than refuting it.
+Asymbolia makes this vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. That rules out identifying the awfulness with damage-detection, though not with the aversive disposition lost alongside it. What asymbolia suggests is that phenomenal character may be a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's [[causal-exclusion-argument|causal exclusion argument]] denies — that phenomenal properties [[constitution-vs-causal-work|contribute causally beyond the physical base]] — and pain is where that denial is most exposed. The dissociation itself is a shared explanandum, though: a valence-prior account predicts it too, and on Noordhof's (2021) reversal the missing disposition explains the missing painfulness, so the dissociation constrains Kim's reading rather than refuting it.
 
 ### Quality-Action Mapping
 
@@ -165,9 +165,9 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]].** Pain provides the most intuitive support for irreducibility. The felt awfulness of suffering is the paradigm example of something that physical description leaves out. Asymbolia instantiates, in clinical reality, the gap that thought experiments illustrate in principle: intact information processing with absent phenomenal suffering. Every physicalist theory can redescribe what is missing in its preferred vocabulary; none can explain why the informational deficit produces a phenomenal one. The pain-suffering distinction compounds this — suffering suggests that consciousness generates aversive phenomenal states without sensory input, widening the explanatory gap further.
+**[[tenets#^dualism|Dualism]].** Pain provides the most intuitive support for irreducibility. The felt awfulness of suffering is the paradigm example of something that physical description leaves out. Asymbolia instantiates, in clinical reality, the gap that thought experiments illustrate in principle: intact sensory processing with absent phenomenal suffering. Every physicalist theory can redescribe what is missing in its preferred vocabulary; none can explain why the informational deficit produces a phenomenal one. The pain-suffering distinction compounds this — suffering suggests that consciousness generates aversive phenomenal states without sensory input, widening the explanatory gap further.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Pain is the Map's clearest case of consciousness influencing the physical world. When the felt awfulness is present, it drives protective behaviour; when absent (asymbolia), behaviour changes despite intact nociceptive detection. The anticipatory dimension strengthens this: imagined future pain alters present behaviour through phenomenal content alone, with no current nociceptive input. Suffering's causal efficacy extends further — grief restructures behaviour for months, existential dread motivates entire life projects, moral suffering drives confession, reparation, and self-transformation.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Pain is the Map's clearest case of consciousness influencing the physical world. When the felt awfulness is present, it drives protective behaviour; when absent (asymbolia), behaviour changes despite intact nociceptive detection, a pattern compatible with phenomenal causation rather than evidence for it. The anticipatory dimension broadens this: imagined future pain alters present behaviour through phenomenal content alone, with no current nociceptive input. Suffering's causal efficacy extends further — grief restructures behaviour for months, existential dread motivates entire life projects, moral suffering drives confession, reparation, and self-transformation.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** If consciousness biases physical outcomes through the smallest possible influence on quantum indeterminacies, pain's motivational urgency and suffering's sustained behavioural restructuring might represent two modes of that influence — acute and chronic, respectively. The mechanism remains speculative, but the phenomenology may suggest different temporal profiles of consciousness-body interaction operating through the same interface — a reading the phenomenology is compatible with rather than one it compels.
 
@@ -198,7 +198,6 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Other neurological test cases for consciousness theories
 - [[valence-and-conscious-selection]] — How asymbolia evidence bears on whether valence enters the selection mechanism
 - [[clinical-phenomenology-and-altered-experience]] — Asymbolia within the broader framework of clinical evidence for dualism
-- [[valence-and-conscious-selection|Valence and Conscious Selection]] — How valence may function as the common evaluative metric for conscious selection
 - [[supervenience]] — Why the Map accepts phenomenal-physical covariance but rejects the reductive conclusions drawn from it
 
 ## References
@@ -219,6 +218,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
 1. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29–57.
 1. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (Ed.), *Mind and Cognition*, 490–499. Blackwell.
+1. Noordhof, P. (2021). "Explaining Impossible and Possible Imaginings of Pain." *Rivista internazionale di Filosofia e Psicologia*, 12(2), 173–182. https://doi.org/10.4453/rifp.2021.0015
 1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 1. Ramachandran, V. S., & Hirstein, W. (1998). "The Perception of Phantom Limbs." *Brain*, 121(9), 1603–1630.
 1. Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
