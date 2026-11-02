@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-10-21T22:12:41+00:00
+ai_modified: 2026-11-02T13:55:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -119,7 +119,7 @@ The interface argument makes this distinction explicit. Consciousness interacts 
 
 This is a *possibility* claim, not a proof: fragmentation of behaviour is compatible with unity of consciousness. The strong physicalist inference assumes consciousness *is* the substrate's activity, which is precisely what dualism denies.
 
-Sophisticated functionalism — multiply-realisable, implemented across loosely-coupled subsystems — predicts dissociation as a matter of course, so the Map's challenge is narrower than "physicalism cannot accommodate fragmentation." It is that functionalism most naturally predicts dissociation as graded loss across many independent dimensions, whereas the actual evidence shows two more specific patterns: a single reported perspective that survives perceptual division (residual callosal integration, being physically explicable, does not count), and the component-ordered profile of consciousness loss under anaesthesia. Functionalism accommodates both; on the second, the ordered-profile section below finds that it predicts the pattern as readily as the interface reading does, so only the first still separates the views in naturalness.
+Sophisticated functionalism — multiply-realisable, implemented across loosely-coupled subsystems — predicts dissociation as a matter of course, so the Map's challenge is narrower than "physicalism cannot accommodate fragmentation." It is that functionalism most naturally predicts dissociation as graded loss across many independent dimensions, whereas the actual evidence shows two more specific patterns: a single reported perspective that survives perceptual division (residual callosal integration, being physically explicable, does not count), and the component-ordered profile of consciousness loss under anaesthesia. Both are compatible with either view: functionalism predicts the second as readily as the interface reading (below), and the first is the agency-unity a coordinated substrate would produce (above). The narrower challenge fails too.
 
 ## Connection to the Binding Problem
 
@@ -151,7 +151,7 @@ What the cases *do* compound is the [[hard-problem-of-consciousness|hard problem
 
 **The ordered profile of loss.** The interface reading's one expectation is that anaesthetic loss arrives by *components* — phenomenal presence, connectedness, access — disabled separately, in an agent-specific order, the graded profile [[anaesthesia-and-the-consciousness-interface|the anaesthesia article]] reports and [[positions/consciousness-scope|P-CS4]] records. A threshold for *global* presence is compatible with that expectation, not a second confirmation. What would count against the reading is a dose–response profile with no component ordering at all — experience dimming as a single quantity until gone. Gradation does not itself favour the interface reading, since production accounts of graded integration loss predict it too; the claim is only that integration is a *condition* for consciousness to interact with the brain rather than what constitutes it.
 
-Neither point is decisive. Physicalism explains resilience through redundant pathways and a global threshold as a critical phase transition between bistable cortical regimes (neural inertia, hysteresis — the dynamical-systems account the anaesthesia article engages); what differs is what each framework most naturally predicts.
+Neither point is decisive. Physicalism explains resilience through redundant pathways and a global threshold as a critical phase transition between bistable cortical regimes (neural inertia, hysteresis — the dynamical-systems account the anaesthesia article engages); both features are compatible with either reading.
 
 ## The Illusionist Challenge
 

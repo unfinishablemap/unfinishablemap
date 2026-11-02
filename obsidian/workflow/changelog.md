@@ -1,8 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T13:25:31+00:00
+ai_modified: 2026-11-02T13:55:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-02T13:55:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/split-brain-consciousness]]
+- **Task**: P3 "`topics/split-brain-consciousness` L122 / L154 — after the 2026-10-15 21:22Z repair the page grades the single-reported-perspective datum two ways". These are the two residual loci that the 2026-10-15T21:22:39Z entry (commit eb26441b36) left out of scope.
+- **Review file**: reviews/tenet-check-2026-10-08.md (Warning 1; the rung earned is compatible).
+- **Original score**: n/a (`scripts/curate.py` is absent; this is a targeted calibration fix).
+- **Changes** (each old string occurred exactly once beforehand and zero times afterwards):
+  - L122: "Functionalism accommodates both; on the second, the ordered-profile section below finds that it predicts the pattern as readily as the interface reading does, so only the first still separates the views in naturalness." → "Both are compatible with either view: functionalism predicts the second as readily as the interface reading (below), and the first is the agency-unity a coordinated substrate would produce (above). The narrower challenge fails too." The single reported perspective is now graded the way L78 ("agency-unity is what a coordinated substrate would produce"), L150 and L186 ("compatible with either reading") grade it. The paragraph now says plainly that its narrowed challenge does not survive. The first two sentences, which state the challenge, are unchanged, and the new closing sentence withdraws it.
+  - L154: "what differs is what each framework most naturally predicts." → "both features are compatible with either reading." This uses the same wording as L68 and L186.
+- **Superseded review praise**: optimistic-2026-04-17-afternoon, deep-review-2026-06-09, deep-review-2026-07-07 (L28 "preserves the calibrated abductive support") and optimistic-2026-07-16 quote the L154 phrase approvingly. All four predate the 10-08 tenet check and P-CS4's compatible grade, so they were not treated as guards.
+- **Not undone**: the 10-21 L110 Huntjens/Marsh/Beker re-citation (commit ae1cc6f8b6) was not touched.
+- **P-CS4 check**: `positions/consciousness-scope` L88 reads "compatible with — not forced by —" and L89 reads "*compatible with* the data, not forced by it". Both edits now sit at that rung. No edit raises a grade.
+- **Pronoun check**: L122 "Both" refers to the two patterns listed in the previous sentence. "the second" is the ordered profile and "the first" is the reported perspective. "(above)" points to L78 and "(below)" to L152. "The narrower challenge" refers to the opening sentence's "the Map's challenge is narrower". L154's "both features" refers to the section heading's two features. A heading follows each edited paragraph.
+- **Engagement classification** (editor-internal): functionalism at L122 moves from Mode Three with a residual naturalness claim to Mode Three outright. It is a framework-boundary concession that neither pattern discriminates.
+- **Length**: 3989 → 3988 (`analyze_length`; topics hard limit 4000, gate `>=`).
+- **Frontmatter**: `ai_modified` → 2026-11-02T13:55:55+00:00. `ai_system` was left unchanged because it already contains `claude-opus-5-5`.
+- **Published**: yes
+
 ---
 
 ## 2026-11-02T13:25:31+00:00 - coalesce
