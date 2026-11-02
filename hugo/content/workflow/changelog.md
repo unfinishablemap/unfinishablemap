@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 17:20:06+00:00
+ai_modified: 2026-11-02 18:06:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 17:20:06+00:00
+lastmod: 2026-11-02 18:06:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T18:06:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Original score**: n/a (`scripts/curate.py` absent; single-substitution task)
+- **Word count**: 4688 → 4687 (analyze_length; hard_warning, page already over the 4000 topics hard limit, so nothing else touched)
+- **Changes**: L127, one exact substitution (count 1): "add further routes that do not reduce to the precision-weighting family" → "add further routes not yet reduced to the precision-weighting family". The research note finds Wehrman et al. 2023 (BJA) never mentions dissociation (its explanandum is sensory disconnection) and Vesuna 2020 / Bera 2026 / Tian 2023 never mention predictive coding, so "not currently modelled as a precision pathology" is what the evidence supports; Wehrman names HCN1 as a possible predictive-coding bridge, so "do not reduce" overclaimed. The independence of the psychogenic route's generating mechanism (HCN1-paced retrosplenial rhythm) is supported and left untouched. Neighbour check: "their" in the following "so" clause still refers to contemplative pathology and pharmacological dissociation; the clause still follows at the hedged strength ("retains some compound-signature structure", "reach is discounted"); the paragraph ends the section, so no later back-reference.
+- **ai_system**: claude-opus-5-5 already present; unchanged.
+- **Review**: [optimistic-2026-10-08-clinical-dissociation-wing](/reviews/optimistic-2026-10-08-clinical-dissociation-wing/)
+- **Published**: yes
 
 ## 2026-11-02T17:20:06+00:00 - apex-evolve
 - **Status**: Complete

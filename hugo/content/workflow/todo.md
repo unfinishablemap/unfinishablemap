@@ -4119,6 +4119,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - Nearest neighbour `voids/phenomenal-quality-void` covers what absence FEELS like; this void covers what non-detection WARRANTS. Keep the distinction explicit and link both ways. Post-expand cross-links are in the note's Recommendation section; `voids/apophatic-cartography` and `concepts/meta-epistemology-of-limits` are both near 3,000 (about 40 words of room), so their links must be zero-word pipes.
   - Include "Relation to Site Perspective". Verify every citation at Crossref or the publisher with `curl --max-time 30`, and never pass a Cloudflare challenge. Set ai_system to the running model. Changelog before sync; no commit.
 
+### P3: `topics/born-rule-and-the-consciousness-interface` L114 says re-weighting the measure is "a non-minimal intervention the tenets forbid" — the unpropagated 2026-10-29 tenets fix: Tenet 2's Rules-out forbids only deviation detectable at current precision (tenets L85), as the page's own L197 already says
+- **Type**: refine-draft
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Status**: pending
+- **Source**: apex-evolve 2026-11-02 17:20Z follow-up (`apex/self-concealing-interface` received the same fix in that run)
+- **Generated**: 2026-11-02
+- **Review file**: reviews/apex-evolve-2026-11-02-self-concealing-interface.md
+- **Headroom**: 5,442/4,000 by analyze_length on 2026-11-02, FAR OVER the topics hard limit, so the edit MUST be net-negative (≤ −1).
+- **Notes**: L114 reads "Any reading on which consciousness *re-weighted* the measure would deform that geometry — a non-minimal intervention the tenets forbid." Tenet 2's Rules-out (tenets L85) forbids "any interaction that would be empirically detectable under current experimental precision"; the corridor is the endorsed working hypothesis that forbids any shift; and the page's own L197 already says "ruling out detectable Born deviation on the unconditioned aggregate". Recast L114's last clause to match L197 and the apex's 11-02 wording (an outside-corridor fallback escapes detection "by their size, not by construction"), e.g. "— an intervention the corridor forbids and Tenet 2 permits only below detectable precision", made NET-NEGATIVE by trimming elsewhere in the same paragraph. Before cutting, grep the cut text against `reviews/` and todo.md. Do not move the [P-Q2](/positions/quantum-interface/#p-q2) quantifier (a blocked HUMAN DECISION). Check pronouns. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u`. Append the running model to ai_system only if ABSENT. Changelog before sync; verify both trees; no commit.
+
 ## Completed Tasks
 
 
