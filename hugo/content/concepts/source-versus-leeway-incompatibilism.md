@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-26 00:20:39+00:00
+ai_modified: 2026-11-02 19:54:54+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[moral-responsibility]]'
 - '[[reasons-responsiveness]]'
 created: 2026-07-09
-date: &id001 2026-10-26
+date: &id001 2026-11-02
 description: Leeway incompatibilism requires alternative possibilities; source incompatibilism
   requires ultimate origination—the neutral taxonomy that organizes the incompatibilist
   debate.
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-15 12:09:16+00:00
-lastmod: 2026-10-26 00:20:39+00:00
+lastmod: 2026-11-02 19:54:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ So the concept is the hub the three topic arguments link into: one names the lee
 
 ## Narrow and Wide Source Incompatibilism {#narrow-and-wide-source-incompatibilism}
 
-The labels predate Timpe: his 2007 paper calls the leeway/source split "the widely accepted taxonomy", quotes Pereboom (2003) for the naming, and credits Michael McKenna with cementing "source incompatibilism" in papers from 2001. Kevin Timpe's *Free Will: Sourcehood and Its Alternatives* (2008) systematized the distinction and argued for a version of source incompatibilism. Timpe's own refinement splits the source family in two. **Narrow** source incompatibilism holds that sourcehood *alone* is required, with no alternative-possibilities condition: an agent could lack alternatives entirely and still be free, provided she is the ultimate origin of her action. **Wide** source incompatibilism holds that ultimate sourcehood *itself requires* morally relevant alternative possibilities—that one cannot be the genuine origin of an action without there having been more than one thing one could originate.
+The labels predate Timpe: his 2007 paper calls the leeway/source split "the widely accepted taxonomy", quotes Pereboom (2003) for the naming, and credits Michael McKenna with cementing "source incompatibilism" in papers from 2001. Kevin Timpe's *Free Will: Sourcehood and Its Alternatives* (2008) systematized the distinction and argued for a version of source incompatibilism. Timpe's own refinement, under labels he credits to Robert Kane, splits the source family in two. **Narrow** source incompatibilism holds that sourcehood *alone* is required, with no alternative-possibilities condition: an agent could lack alternatives entirely and still be free, provided she is the ultimate origin of her action. **Wide** source incompatibilism holds that ultimate sourcehood *itself requires* morally relevant alternative possibilities—that one cannot be the genuine origin of an action without there having been more than one thing one could originate.
 
 The wide view is a bridge. It concedes that sourcehood is the fundamental requirement while insisting that leeway comes along with it, so the two conditions need not be exclusive. This matters for locating the Map, which wants both a real origination and a real open alternative at the point of choice. Helen Steward argues for the same bridge by a route she distinguishes from Timpe's, holding that leeway is "part and parcel of what it is to be the agential source of an action" (Steward 2021), though her agent is a wholly physical animal ([agency incompatibilism](/topics/agency-incompatibilism/)).
 
@@ -84,9 +84,9 @@ Fischer's **semicompatibilism** then holds that moral responsibility is compatib
 
 The Map is committed to an incompatibilist, agent-causal libertarianism, and this taxonomy locates that commitment as *one position among several* rather than as a result the distinction establishes. The distinction itself is neutral; nothing about carving incompatibilism into leeway and source families favors dualism, and the Map should not present it as though it did.
 
-Where does the Map sit? Its first instinct is leeway: [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) have consciousness selecting among *genuinely open* physical outcomes, and [No Many Worlds](/tenets/#no-many-worlds) insists the rejected alternatives are genuinely excluded rather than realized elsewhere. But the Map also cares that the selection be the agent's *own*—that consciousness, not a prior physical chain, be the source of which outcome becomes actual. That is a sourcehood commitment, and it is what [agent causation](/concepts/agent-causation/) supplies. The Map wants both conditions, which places its closest mainstream neighbour at Timpe's **wide** source incompatibilism: sourcehood as fundamental, with genuine alternatives coming along with it.
+Where does the Map sit? Its first instinct is leeway: [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) have consciousness selecting among *genuinely open* physical outcomes, and [No Many Worlds](/tenets/#no-many-worlds) insists the rejected alternatives are genuinely excluded rather than realized elsewhere. But the Map also cares that the selection be the agent's *own*—that consciousness, not a prior physical chain, be the source of which outcome becomes actual. That is a sourcehood commitment, and it is what [agent causation](/concepts/agent-causation/) supplies. The Map wants both conditions, which places its closest mainstream neighbour at Timpe's **wide** source incompatibilism: sourcehood as fundamental, with genuine alternatives coming along with it. The cell is shared. Timpe (2007) counts Kane, whose self-forming actions anchor the event-causal wing, as a source incompatibilist for whom meeting the ultimacy condition entails that the agent could have done otherwise voluntarily, intentionally and rationally, a stronger form of the same wide thesis. What separates the Map from Kane lies on the [other map](/topics/event-causal-libertarianism/), of what does the causing, and even there his [mature view](/topics/event-causal-libertarianism/#a-hybrid-at-the-seam) affirms agent causation. The line falls between kinds: the Map's agent causation is substance-bearing, while Kane's is naturalised, with no agent-substance of the classical sort.
 
-Two tenets explain *why* the Map cares about both, without turning that care into evidence for either. [Bidirectional Interaction](/tenets/#bidirectional-interaction) is why the Map wants sourcehood, though it does not entail it: the tenet commits only to outcome-selection, and consciousness could make a real difference to the physical world while its own contributions were fixed by prior mental states. Ultimate origination is the further, agent-causal reading the Map adds ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)). And [Occam's Razor Has Limits](/tenets/#occams-limits) governs how the Map holds the position. Pereboom aims his luck objection at event-causal sourcehood and grants that agent causation could answer it. His case against agent-causal origination is partly that we have no positive reason to posit it, a parsimony judgement Tenet 5 lets the Map decline to treat as decisive—while conceding, symmetrically, that this buys the Map no positive support either. It is also partly his [wild-coincidences argument](/topics/the-manipulation-argument-and-hard-incompatibilism/), which is not a parsimony point and which Tenet 5 does not answer. The wide-libertarian reading is a locatable option the Map adopts on independent grounds, not a conclusion the source/leeway distinction forces.
+Two tenets explain *why* the Map cares about both conditions, without turning that care into evidence for either. [Bidirectional Interaction](/tenets/#bidirectional-interaction) is why the Map wants sourcehood, though it does not entail it: the tenet commits only to outcome-selection, and consciousness could make a real difference to the physical world while its own contributions were fixed by prior mental states. Ultimate origination is the further, agent-causal reading the Map adds ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)). And [Occam's Razor Has Limits](/tenets/#occams-limits) governs how the Map holds the position. Pereboom aims his luck objection at event-causal sourcehood and grants that agent causation could answer it. His case against agent-causal origination is partly that we have no positive reason to posit it, a parsimony judgement Tenet 5 lets the Map decline to treat as decisive—while conceding, symmetrically, that this buys the Map no positive support either. It is also partly his [wild-coincidences argument](/topics/the-manipulation-argument-and-hard-incompatibilism/), which is not a parsimony point and which Tenet 5 does not answer. The wide-libertarian reading is a locatable option the Map adopts on independent grounds, not a conclusion the source/leeway distinction forces.
 
 The honest summary is that the taxonomy tells the Map *what kind* of freedom condition it is defending and who its neighbours and opponents are. It does not tell the Map that the condition is met. That further question is settled, if at all, by the [luck and manipulation debates](/topics/the-manipulation-argument-and-hard-incompatibilism/) and the [quantum interface](/concepts/quantum-indeterminacy-free-will/)—not by the distinction drawn here.
 

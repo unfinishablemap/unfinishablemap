@@ -1,9 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T19:10:38+00:00
+ai_modified: 2026-11-02T19:54:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T19:54:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/source-versus-leeway-incompatibilism]]
+- **Task**: P3 from [[reviews/optimistic-2026-10-19-incompatibilism-repair-wing]] High 3, plus its "Ideas for Later" item on Kane's labels. The Map's wide-source cell is shared with Kane (Timpe 2007), so what separates them lies on the event/agent/non-causal map.
+- **Original score**: n/a (`scripts/curate.py` absent; specified insertion task)
+- **Word count**: 2376 → 2476 by analyze_length (+100). That is under the 2500 concepts soft threshold; the hard limit is 3500.
+  - The baseline was 2376, not the task's 2147, because of three later edits: the 10-19 Clarke paragraph (2147 → 2246), Steward (2249 → 2311) and the 10-26 00:20 Basic Argument bullet (2311 → 2376).
+  - The 10-26 work was left intact: the bullet, the "Four Arguments" heading and the Strawson 1994 reference.
+- **Changes**:
+  1. Relation to Site Perspective, after "…with genuine alternatives coming along with it.", this text was inserted: "The cell is shared. Timpe (2007) counts Kane, whose self-forming actions anchor the event-causal wing, as a source incompatibilist for whom meeting the ultimacy condition entails that the agent could have done otherwise voluntarily, intentionally and rationally, a stronger form of the same wide thesis. What separates the Map from Kane lies on the [[event-causal-libertarianism|other map]], of what does the causing, and even there his [[event-causal-libertarianism#a-hybrid-at-the-seam|mature view]] affirms agent causation. The line falls between kinds: the Map's agent causation is substance-bearing, while Kane's is naturalised, with no agent-substance of the classical sort."
+  2. The optional L61 tweak was installed in a varied form: "Timpe's own refinement, under labels he credits to Robert Kane, splits the source family in two." Kane had no earlier mention on the page, so his full name goes at this first mention and the L83 insertion uses the surname.
+  3. A pronoun fix in the next paragraph: "the Map cares about both," became "both conditions,". The insertion pushed the original referent ("The Map wants both conditions") three sentences back and put the Map and Kane in between.
+- **POINTER recast** (from the 2026-10-25 ECL refine):
+  - The draft's closing, "the event-causal versus agent-causal question of what does the settling", was replaced. ECL L60 now has Kane affirming "agent causation of a naturalised kind", so that question no longer separates him from the Map.
+  - The new closing puts the difference between substance-bearing and naturalised agent causation. It mirrors ECL L86: "on the Map's substance-bearing reading" and "agent causation of a naturalised kind and no agent-substance of the classical kind".
+  - "Of the classical sort" honours Kane p. 84 ("agents, qua substances, understood as complex dynamical systems", per the 10-25 ECL entry). By Kane's own words a bare "no agent-substance" would be false.
+  - "Mature view" limits the agent-causal claim to Kane 2024. That keeps it consistent with ECL L42 ("as his earlier work was usually classed") and with caution (a)'s "anchor the event-causal wing" (ECL L30: "Robert Kane's self-forming actions above all").
+  - ECL L38, L42 and L60 were re-read verbatim before writing.
+- **Verification**: the Timpe 2007 PDF was re-fetched from Timpe's site (13 pp., a JSTOR scan). The relevant pages were rendered to images and read on the page; pdftotext was not trusted.
+  - p. 147: "What makes them Source Incompatibilists, however, is that the ultimacy or source condition is more 'fundamental' or 'important' in some sense for moral responsibility. This is true of both Robert Kane's and Derk Pereboom's views."
+  - p. 148: the Wide definition (ultimacy or origination is most fundamental, and a PAP-like condition is also true). Note 28 is attached to the narrow/wide labels.
+  - p. 151: "Robert Kane thinks that if an agent satisfies the ultimacy condition, this entails that the agent could have done otherwise voluntarily, intentionally, and rationally" (n. 42: Kane 2004, pp. 72–73). The Wide version drops the voluntariness requirement "as Kane and Fischer think should be required". So "a stronger form of the same wide thesis" follows Timpe's own contrast and is not a Map gloss.
+  - p. 153, n. 28: "Thanks to Bob Kane for suggesting these terms."
+  - A correction to the task note: n. 24 (Kane) reads "Kane 1998", not "Kane 2003 pp. 201–202", which is n. 23 (McKenna 2003). This does not affect the article, which gives Kane no inline year.
+  - No Timpe quotation went into the article (paraphrase only), and no new reference was needed.
+- **Engagement classification (editor-internal)**: Kane, Mode Three. The insertion locates where the Map and Kane part company (the kind of agent causation) and claims no refutation, consistent with ECL L86's "the Map takes a different step without claiming to have refuted it".
+- **Fences**:
+  - The 10-15 deep review's Tenet 5 scope at old L66/L82 (now L69/L85) is untouched. The only L85 change is the "both conditions" pronoun fix in its first sentence.
+  - The Pereboom quote (now L53) still counts 1.
+  - The wide-source placement sentence itself is unchanged.
+  - No "This is not X. It is Y.", no "load-bearing", no mode labels.
+- **ai_system**: unchanged (`claude-opus-5-5` is already the final component; this run is claude-opus-5-5).
+- **Published**: yes
 
 ## 2026-11-02T19:10:38+00:00 - refine-draft
 - **Status**: Success
