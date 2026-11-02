@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 08:42:34+00:00
+ai_modified: 2026-11-02 09:03:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 08:42:34+00:00
+lastmod: 2026-11-02 09:03:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T09:03:07+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/). It is the oldest-`modified` of the 53 articles that have no pessimistic review by content, no review since 10-26, and are not on the driver's exclusion list. It has had six deep reviews (last 09-14) and its body is unchanged since then. This is its first pessimistic pass. Length: 2,998 words, topics hard limit 4,000, headroom 1,001.
+- **Output**: [pessimistic-2026-11-02-phenomenology-of-philosophical-disagreement](/reviews/pessimistic-2026-11-02-phenomenology-of-philosophical-disagreement/)
+- **Findings**: 2 High, 4 Medium, 4 Low. This was a reports-only run, so no articles were edited and no tasks were written.
+- **Priority List**:
+  - (1) The L40 lead still says the felt impossibility of occupying an opposing framework "provides evidence for the irreducibility" of experience. That is an epistemic-to-metaphysical leap, and the 02-21 body repair never reached the lead. +14.
+  - (2) The L100 cognitive-phenomenology inference never meets the conservative reply. The Map's own concept page defines conservatism as conceding emotional accompaniments, and most of the named textures are emotional. Pitt's thesis is individuative (abstract checked). +53, or +40 for the short variant.
+  - (3) L100 says "real and causally significant", but Pitt 2004 argues no causal claim and L104 disclaims it. −3.
+  - (4) L62 calls the bias hypothesis "self-undermining" for a symmetry that the article's own L64 explanation shares and its L86 concession accepts. +28.
+  - Total +92, giving 3,090 words and headroom 909. Next in line is L52 "policy … lack this phenomenal texture", which contradicts Fogelin's own abortion and affirmative-action cases (checked in the 1985 PDF). +26.
 
 ## 2026-11-02T08:42:34+00:00 - refine-draft
 - **Status**: Success
