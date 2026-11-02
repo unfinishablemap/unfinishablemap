@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 09:03:07+00:00
+ai_modified: 2026-11-02 13:25:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 09:03:07+00:00
+lastmod: 2026-11-02 13:25:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T13:25:31+00:00 - coalesce
+- **Status**: Abandoned (no candidate; expected steady state)
+- **Pressure**: `count_section_files` against `section_caps`: concepts 370/370 (full), topics 369/370 (368 real articles plus the `non-temporal-consciousness.refinement-log` sidecar), voids 115/125. Concepts was searched first.
+- **Eligibility** (driver brief rules): the sidecar and the three section index files were dropped before pairing. Excluded: 22 pages edited today (`git log --since=2026-11-02T00:00Z`), 34 created on or after 2026-10-19 (frontmatter `created` or git add date), and 73 named in one of the 20 open P1/P2 task blocks. Eligible: topics 315, concepts 312, voids 104. The 14-day creation floor admits 25 pages the 30-day floor of earlier runs kept out.
+- **Length gate** (body-only `count_words`, summed body below the target section's hard limit, `>=` fails): 319 fitting pairs (115 same-section). None involves one of the 25 newly admitted pages; all of them are too long to take a partner. Smallest eligible sums: topics 2112 + 2189 = 4301 (hard 4000); voids 1530 + 1795 = 3325 (hard 3000); concepts 1380 + 1475 = 2855.
+- **Linked fitting pairs**: 3, each re-checked against current text:
+  - `phenomenal-depth` (1475) + `phenomenal-presentation` (1572) = 3047: declined on the inline `**Versus [[phenomenal-depth]].**` carve-out at phenomenal-presentation L54.
+  - `adaptive-computational-depth` (1950) + `phenomenal-depth` = 3425: one link, at phenomenal-depth L72, which calls the other page "a physical analogue" for trained attention. No shared headings. A mechanism page and a phenomenal-structure page.
+  - `topics/purpose-and-alignment` (2616) + `concepts/mind-arena` (1380) = 3996 (4 words under topics hard): one link (purpose L91 uses the term), none back. The topic is about alignment targets and human purpose. mind-arena defines a territory ("a *territory*, not a mechanism").
+  - `causal-powers` + `mind-arena` is out of the pool this run (an open P1/P2 task names causal-powers). Its recorded decline stands.
+- **Content screen over all 319 fitting pairs** (TF-IDF cosine, terms in 2-8% of 853 docs, Further Reading, References and house-style headings stripped; plus verbatim 8-grams): the top cosine is 0.168 (the phenomenal pair). Zero pairs reach 0.30. Controls: selection-only pair 0.629 / 250 shared 8-grams, delegatory pair 0.550 / 88, self-stultification pair 0.408 / 45. The largest 8-gram count among fitting pairs (31, `timing-gap-problem` with two topics) is the YouTube-embed caption boilerplate (cosine 0.011 to 0.032).
+- **Real overlap fails on length**: 75 eligible pairs score at least 0.40. The smallest sum among them is `collapse-and-time` + `time-symmetric-physics` = 4691 (0.434), over every hard limit. Next: `frankfurt-cases-and-the-principle-of-alternate-possibilities` + `source-versus-leeway-incompatibilism` = 5171 (0.496).
+- **Finding**: unchanged. No pair passes both the length gate and an overlap test. Cap relief for concepts would have to come from `/archive`, `/condense` or a cap raise.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-11-02T12:37:28+00:00 - refine-draft
 - **Status**: Success
