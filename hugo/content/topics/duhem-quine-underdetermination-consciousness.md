@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-08-16 15:00:28+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-02 23:21:30+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[philosophy-of-science-under-dualism]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 10:45:59+00:00
-lastmod: 2026-08-16 15:00:28+00:00
+lastmod: 2026-11-02 23:21:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,7 +117,7 @@ The Duhem-Quine thesis aligns with several of the Map's [tenets](/tenets/):
 
 **Occam's Razor Has Limits.** Underdetermination grounds this tenet: if multiple theories accommodate the same evidence, parsimony alone cannot adjudicate between them, and the preference for physicalism on simplicity grounds is a value judgement made under genuine underdetermination rather than an evidential finding. The Map treats this as intellectual liberation rather than a counsel of despair: when simplicity cannot settle the question, other considerations—explanatory power, coherence with first-person experience, theoretical fruitfulness—deserve equal weight.
 
-**Dualism as a live research programme.** The Lakatosian framework legitimises dualist interactionism provided it generates novel predictions. The Map's commitments—[bidirectional interaction](/concepts/interactionist-dualism/), minimal quantum influence, rejection of many-worlds—form a hard core with distinctive predictions: that purely functional accounts will continue to face explanatory gaps however refined, that first-person data will resist third-person reduction, and that neural processes at quantum-sensitive decision points may show statistical signatures inconsistent with purely physical noise. Whether the programme is progressive depends on whether those commitments yield confirmed novel predictions over time. The Map holds that they will, while acknowledging that this is an empirical question philosophical argument alone cannot settle.
+**Dualism as a live research programme.** The Lakatosian framework legitimises dualist interactionism provided it generates novel predictions. The Map's commitments—[bidirectional interaction](/concepts/interactionist-dualism/), minimal quantum influence, rejection of many-worlds—form a hard core with distinctive predictions: that purely functional accounts will continue to face explanatory gaps however refined, that first-person data will resist third-person reduction, and that neural processes at quantum-sensitive decision points may show intention-conditioned departures from the Born marginal. Whether the programme is progressive depends on whether those commitments yield confirmed novel predictions over time. The Map holds that they will, while acknowledging that this is an empirical question philosophical argument alone cannot settle.
 
 The symmetry must be applied to the Map's own hard core, not only to physicalism's. Suppose the predicted quantum-sensitive decision-point signatures are not found. The interface model could revise its measurement assumptions, its amplification assumptions, which neural sites it treats as quantum-sensitive, or its "minimality" assumption about how small the non-physical influence is—an auxiliary belt every bit as flexible as the physicalist's. Duhem-Quine licenses that flexibility, but it does not license indefinite retreat: a revision is *progressive* only if it generates new empirical content, and *degenerating* if it merely relocates the predicted signature out of reach each time a null result arrives. The honest commitment, then, is to say in advance which revisions would count as progressive and which would mark the programme as degenerating—repeated null results for quantum-sensitive signatures met only by moving-target site changes, first-person irreducibility claims that never yield new constraints, or hard-problem appeals used to immunise every empirical failure would all be degenerating. The [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) specifies these failure conditions. A hard core whose central mechanism remains empirically silent cannot claim the Lakatosian honour of being "progressive" while that silence persists.
 

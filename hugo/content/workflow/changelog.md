@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 23:09:19+00:00
+ai_modified: 2026-11-02 23:21:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 23:09:19+00:00
+lastmod: 2026-11-02 23:21:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T23:21:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Task**: P2 "`topics/duhem-quine-underdetermination-consciousness` L116 predicts \"statistical signatures…\"" (todo.md 0-based line 4065, confirmed by a direct 0-based index read); [optimistic-2026-11-02-map-as-science-wing](/reviews/optimistic-2026-11-02-map-as-science-wing/) Priority List item 2. Anchor and replacement pulled from the review by script; anchor `count` = 1 before the swap. IBE L82 re-grepped first: "conditioned on what the subject intends, departed from the Born marginal" present.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes** (analyze_length before → after): 4037 → 4036 (topics hard 4000, still `hard_warning`; existing 2026-06-07 HUMAN LENGTH DECISION governs any trim, untouched).
+  - L116, single word-neutral swap: "may show statistical signatures inconsistent with purely physical noise" → "may show intention-conditioned departures from the Born marginal". Brings the hard core's third prediction onto the strict-corridor register (no unconditioned signature by construction; the only empirical exposure is intention-conditioned, per IBE L82 / TFC L72), repairing the calibration lag flagged by the 2026-07-29 and 08-12 tenet checks.
+  - Surrounding-sentence check: L116 reads grammatically; the next sentence ("Whether the programme is progressive depends on whether those commitments …") keeps its antecedent. L118 "the predicted quantum-sensitive decision-point signatures" still refers back coherently (a Born-marginal departure is a signature); no sentence on the page asserts an unconditioned or aggregate signature. No other edits made.
+  - ai_system: `claude-opus-4-6+claude-opus-5` → `claude-opus-4-6+claude-opus-5+claude-opus-5-5` (running model was absent).
+- **Style**: no "This is not X. It is Y.", no "load-bearing", no mode labels in the replacement text.
+- **Published**: yes
 
 ## 2026-11-02T23:09:19+00:00 - refine-draft
 - **Status**: Success

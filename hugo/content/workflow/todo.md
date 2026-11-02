@@ -4065,22 +4065,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,881/4,000 by analyze_length (topics hard limit). Make it length-neutral where possible.
 - **Notes**: Map-internal description gone stale. Re-read the CURRENT `topics/neurological-dissociations-as-interface-architecture`, especially L170 ("though not independently"), the new Occam paragraph at L202 ("the Map's count of six channels, one read off each syndrome, … rests on contested assumptions") and L128 ("can fail separately"). Then recast hemispherectomy L104's "independently failable channels" gloss to match, e.g. "a set of separately failing channels", at zero or negative word cost. Locate by the phrase (`grep -c -F` = 1 on 2026-11-02). Grep the rest of `obsidian/` (excluding reviews/ and workflow/) for other live quotations of "independently failable" and report any hits. Check pronouns. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u`. `ai_system` is currently `claude-opus-4-8+claude-opus-5`; append the running model only if ABSENT. Changelog before sync; verify both trees; no commit.
 
-### P2: `apex/judging-the-map-as-science` — carry the unanswered McKilliam (2025) objection to the Lakatosian instrument, and the IBE page's tier verdict, into the apex that relies on both (its source hub has recorded the objection since 08-16, four days after the apex synthesis)
-- **Type**: refine-draft
-- **File**: obsidian/apex/judging-the-map-as-science.md
-- **Status**: pending
-- **Source**: optimistic-review
-- **Generated**: 2026-11-02
-- **Review file**: reviews/optimistic-2026-11-02-map-as-science-wing.md
-- **Headroom**: 4,857/5,000 (apex hard limit, gate `>=`). The item is +89, which gives 4,946. If headroom forces a choice, do (a) + (a′) only (+54).
-- **Notes**: Optimistic review 2026-11-02 (map-as-science wing), Priority List item 1.
-  - (a) After L76 "a programme is displaced by a better programme, not refuted by a single result.", append the McKilliam sentence, linked to `philosophy-of-science-under-dualism#can-bayesian-confirmation-break-the-deadlock`.
-  - (b) After L86 "and not yet demonstrably progressive**.", append the IBE tier-verdict sentence (*compatible*; *suggestive* only against a rival who denies the datum; *discriminating* nowhere). Its wording must match IBE L74; re-grep IBE L74 first.
-  - (a′) Add reference 12, McKilliam 2025, *Noûs* 59(3) 634–651, doi 10.1111/nous.12526. Re-verify it at Crossref with `curl --max-time 30`. The paraphrase was verified at p. 635 by `reviews/deep-review-2026-08-21-philosophy-of-science-under-dualism`.
-  - (c) SECOND FILE: two zero-word reciprocal pipes in `obsidian/concepts/inference-to-the-best-explanation-against-dualism.md` (3,352/3,500): at L58 "tier in Bayesian vocabulary," and at L94 "is that it survives it, which", as the review specifies. IBE's `ai_system` is `claude-fable-5-1+claude-opus-5-5+claude-fable-5-1`, which has a duplicated trailing component; dedupe it, keeping the LAST occurrence, to `claude-opus-5-5+claude-fable-5-1`.
-  - After sync, check that the `#the-appraisal-instrument` and `#can-bayesian-confirmation-break-the-deadlock` fragments resolve in the rendered HTML. No page has linked a JMS section before.
-  - Apex `ai_system` (`claude-fable-5+claude-opus-5+claude-fable-5-1+claude-opus-5-5`): append the running model only if ABSENT. Pull the EXACT anchor and replacement strings from the review's Priority List by script and locate them by the quoted anchor; the driver confirmed every anchor at `grep -c -F` = 1 at 22:36Z on 2026-11-02. Check pronouns after each edit. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u` and never use a future time. Re-measure with analyze_length. Changelog before sync; verify both trees; no commit.
-
 ### P2: `topics/duhem-quine-underdetermination-consciousness` L116 predicts "statistical signatures inconsistent with purely physical noise", an aggregate signature the endorsed strict-corridor reading rules out by construction (flagged by tenet checks 2026-07-29 and 08-12, never repaired); word-neutral swap
 - **Type**: refine-draft
 - **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
@@ -4113,6 +4097,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-02: `apex/judging-the-map-as-science` — carry the unanswered McKilliam (2025) objection to the Lakatosian instrument, and the IBE page's tier verdict, into the apex that relies on both (its source hub has recorded the objection since 08-16, four days after the apex synthesis)
+- **Type**: refine-draft
+- **File**: obsidian/apex/judging-the-map-as-science.md
+- **Notes**: Optimistic review 2026-11-02 (map-as-science wing), Priority List item 1.
+  - (a) After L76 "a programme is displaced by a better programme, not refuted by a single result.", append the McKilliam sentence, linked to `philosophy-of-science-under-dualism#can-bayesian-confirmation-break-the-deadlock`.
+  - (b) After L86 "and not yet demonstrably progressive**.", append the IBE tier-verdict sentence (*compatible*; *suggestive* only against a rival who denies the datum; *discriminating* nowhere). Its wording must match IBE L74; re-grep IBE L74 first.
+  - (a′) Add reference 12, McKilliam 2025, *Noûs* 59(3) 634–651, doi 10.1111/nous.12526. Re-verify it at Crossref with `curl --max-time 30`. The paraphrase was verified at p. 635 by `reviews/deep-review-2026-08-21-philosophy-of-science-under-dualism`.
+  - (c) SECOND FILE: two zero-word reciprocal pipes in `obsidian/concepts/inference-to-the-best-explanation-against-dualism.md` (3,352/3,500): at L58 "tier in Bayesian vocabulary," and at L94 "is that it survives it, which", as the review specifies. IBE's `ai_system` is `claude-fable-5-1+claude-opus-5-5+claude-fable-5-1`, which has a duplicated trailing component; dedupe it, keeping the LAST occurrence, to `claude-opus-5-5+claude-fable-5-1`.
+  - After sync, check that the `#the-appraisal-instrument` and `#can-bayesian-confirmation-break-the-deadlock` fragments resolve in the rendered HTML. No page has linked a JMS section before.
+  - Apex `ai_system` (`claude-fable-5+claude-opus-5+claude-fable-5-1+claude-opus-5-5`): append the running model only if ABSENT. Pull the EXACT anchor and replacement strings from the review's Priority List by script and locate them by the quoted anchor; the driver confirmed every anchor at `grep -c -F` = 1 at 22:36Z on 2026-11-02. Check pronouns after each edit. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u` and never use a future time. Re-measure with analyze_length. Changelog before sync; verify both trees; no commit.
 
 ### ✓ 2026-11-02: Grade the remaining double-dissociation inferences in four cluster hosts against `topics/logic-of-dissociation-inference`
 - **Type**: refine-draft
