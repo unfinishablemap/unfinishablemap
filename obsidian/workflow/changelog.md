@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T00:21:58+00:00
+ai_modified: 2026-11-02T02:05:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-02T02:05:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-imagery]]
+- **Word count**: 3404 → 3397 (-7; soft-to-hard band, length-negative)
+- **Critical issues addressed**: 11 (Di Rienzo `[^motor]` carried four claims absent from the paper — stroke, dosage, perspective-EMG, "stronger performance" (the last reversed by Hardy & Callow 1999); Dawes `[^dawes]` cited for rehearsal-benefit self-reports it does not contain; Nanay cited for a V1 finding it only proposes; Zeman face-recognition direction; unverifiable aphantasic quotation; Pascual-Leone overextended ("pianists", "finger-specific", "unrelated passages"); Driskell d 0.4-0.7 unverified and superseded by Toth 2020 r = 0.131; trumping "test case" vs trumping page's fourth cost; contemplative "neural structure" vs linked page's functional-only finding; baseline-cognition Source/Map conflation; L139 causal-scope slippage)
+- **Medium issues addressed**: 1 (Dupont "reliably present in controls" qualifier)
+- **Enhancements made**: 5 verified sources added (Toth 2020, Barclay 2020 Cochrane, Hale 1982, Hardy & Callow 1999, Chang 2025); 2 unsupported removed (Di Rienzo 2016, Dawes 2020); Bacon quote grep-verified in Gutenberg #5500
+- **Engagements**: identity theory Mode Three (core standoff) + Mode Two (content matching); epiphenomenalism Mode One (self-stultification); trumping self-calibration, no opponent
+- **Output**: [[reviews/deep-review-2026-11-02-mental-imagery]]
+
 ## 2026-11-02T00:21:58+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Dynamical Relevance and the Verification Boundary (Kleiner & Ludwig's no-go theorem adjudicated against P-AC1: hold / adopt / withhold)
