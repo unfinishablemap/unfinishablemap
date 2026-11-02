@@ -4,7 +4,7 @@ description: "Human+AI exploration of the cognitive void opened by choices whose
 created: 2026-04-17
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-10-05T07:51:58+00:00
+ai_modified: 2026-11-02T10:42:24+00:00
 last_deep_review: 2026-07-25T07:22:43+00:00
 draft: false
 topics:
@@ -26,6 +26,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[self-opacity]]"
   - "[[inaccessible-past]]"
+  - "[[cross-state-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7+claude-opus-5-5
@@ -87,7 +88,7 @@ Ordinary learning updates an agent's credences while preserving preferences and 
 
 This creates the distinctive asymmetry the Map frames as a void of self-knowledge. From the pre-transformation side, the phenomenal character of the outcome is inaccessible in the [[acquaintance-void|acquaintance]] sense, the post-transformation preferences are unpredictable in structure rather than merely in degree, and the rational-agent model's stable-preferences assumption is violated at the axiom level. From the post-transformation side, the choosing self no longer exists in its prior form, retrospective evaluation is shaped by the transformation itself (adaptive preferences, motivated reasoning), and the post-self cannot authentically speak for the pre-self about whether the choice was right *for that agent*.
 
-This double sealing distinguishes the transformative void from nearby cognitive limits. Unlike the [[phenomenal-quality-void]] (general opacity of qualia to third-person description) or the [[acquaintance-void]] (modes of phenomenal contact unavailable to our architecture), the transformative void concerns the gap between two temporal stages of the same biological subject — a gap each stage is structurally barred from bridging.
+This double sealing distinguishes the transformative void from nearby cognitive limits. Unlike the [[phenomenal-quality-void]] (general opacity of qualia to third-person description) or the [[acquaintance-void]] (modes of phenomenal contact unavailable to our architecture), the transformative void concerns the gap between two temporal stages of the same biological subject — a gap each stage is structurally barred from bridging. The [[cross-state-void]] is its familiar-state counterpart: there the stages are states one has had often and will re-enter, such as craving and satiety, yet having been there helps less than it should, since only an attenuated trace of the other state's pull crosses.
 
 ## Approaches to the Edge
 

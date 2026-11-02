@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot witness the affec
 created: 2026-04-19
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-10-31T17:56:10+00:00
+ai_modified: 2026-11-02T10:42:24+00:00
 last_deep_review: 2026-07-17T10:01:32+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[predictive-construction-void]]"
   - "[[three-kinds-of-void]]"
   - "[[causal-interface]]"
+  - "[[cross-state-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7+claude-opus-5-5
@@ -33,7 +34,7 @@ last_curated:
 
 Consciousness is always in some mood. A pervasive affective background colours perception, memory, judgment, and salience before any specific emotion or thought arises. Yet moods resist introspection in ways ordinary emotions do not: they lack determinate objects, their origins are shielded by unconscious processes, and their effects on cognition operate below the threshold of noticing. The Mood Void is the structural limit on consciousness's ability to witness the affective atmosphere within which all its witnessing takes place.
 
-The Mood Void has a three-layer structure (explained below): **origin opacity** (we cannot access what caused the current mood), **identity opacity** (we often cannot cleanly name which mood we are in), and **constitutive opacity** (we cannot observe how the mood is shaping the cognition that attempts to observe it). It is distinct from the [[valence-void|Valence Void]] — which asks why experience has good/bad character at all — and the [[affective-void|Affective Void]] — which concerns emotions beyond human reach. The Mood Void concerns the opacity of the one affective state we are always inside of.
+The Mood Void has a three-layer structure (explained below): **origin opacity** (we cannot access what caused the current mood), **identity opacity** (we often cannot cleanly name which mood we are in), and **constitutive opacity** (we cannot observe how the mood is shaping the cognition that attempts to observe it). It is distinct from the [[valence-void|Valence Void]] — which asks why experience has good/bad character at all — and the [[affective-void|Affective Void]] — which concerns emotions beyond human reach. The Mood Void concerns the opacity of the one affective state we are always inside of. Its diachronic counterpart is the [[cross-state-void|Cross-State Void]]: the current mood is a lens invisible from inside, while familiar states one is not now in, such as hunger or rage, reach the present one only as an attenuated trace, without their full pull.
 
 ## Mood as Background, Not Object
 

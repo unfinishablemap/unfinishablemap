@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-10-19 21:36:56+00:00
+ai_modified: 2026-11-02 10:42:24+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 00:06:00+00:00
-lastmod: 2026-10-19 21:36:56+00:00
+lastmod: 2026-11-02 10:42:24+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[what-voids-reveal]]'
 - '[[inaccessible-past]]'
+- '[[cross-state-void]]'
 - '[[observation-and-measurement-void]]'
 - '[[vertiginous-question]]'
 - '[[consciousness-interface-development]]'
@@ -77,7 +78,7 @@ The three are siblings, not synonyms. Even granting that other minds exist, the 
 
 We never have the same kind of access to another's experience that we have to our own. I know my pain immediately and non-inferentially. I know yours only through inference—from your grimace, your words, the context.
 
-Brain imaging shows neural correlates of pain, but correlates are not the pain. Verbal reports describe experience, but descriptions are not experience. Even if we could read every neuron in your brain, we would know *about* your pain without ever feeling it from the inside.
+Brain imaging shows neural correlates of pain, but correlates are not the pain. Verbal reports describe experience, but descriptions are not experience. Even if we could read every neuron in your brain, we would know *about* your pain without ever [feeling it from the inside](/voids/cross-state-void/).
 
 The asymmetry also runs the other way for one class of facts. Others hear your recorded voice, read your prose style, and notice your characteristic tilt of judgment as *characteristics*; from inside they register as neutral, because a signature is a deviation from a population distribution that introspection never contains. Stylometry makes the point sharply: authors are identified most reliably by the function words they deploy least consciously. Where the [commensurability-void](/voids/commensurability-void/) finds no phenomenal ruler *between* minds, this is the complementary failure of a ruler *within* one—and here the third-person channel wins. [Self-opacity's signature face](/voids/self-opacity/#the-signature-face) develops the case.
 

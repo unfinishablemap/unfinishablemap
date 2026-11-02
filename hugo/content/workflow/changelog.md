@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-02T10:42:24+00:00 - cross-review
+- **Status**: Success
+- **File**: [cross-state-void](/voids/cross-state-void/) (outward; NOT edited, byte-unchanged, `last_deep_review` not bumped)
+- **Task**: P2 "Cross-review `voids/cross-state-void` outward" (todo 0-based L4100). From [outer-review-2026-11-02-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-02-chatgpt-5-6-sol-pro/) and [outer-review-2026-11-02-claude-opus-5-5](/reviews/outer-review-2026-11-02-claude-opus-5-5/); synthesis C10.
+- **Hosts edited** (words by `analyze_length`, before → after / hard):
+  - [mood-void](/voids/mood-void/) 2,467 → 2,509 / 3,000: one sentence at the end of the L36 neighbour-distinctions paragraph (diachronic counterpart: the familiar states one is not now in reach the present one only as an attenuated trace). Added to `related_articles`.
+  - [transformative-experience-void](/voids/transformative-experience-void/) 2,681 → 2,724 / 3,000: one sentence at the end of the L90 "nearby cognitive limits" paragraph (familiar-state counterpart: often-had states that will be re-entered). Added to `related_articles`.
+  - [voids-between-minds](/voids/voids-between-minds/) 2,993 → 2,993 / 3,000: zero-word piped link on the existing L76 words "feeling it from the inside" (interpersonal face). Added to `related_articles`.
+  - [sleep-consciousness-void](/voids/sleep-consciousness-void/) 2,917 → 2,940 / 3,000: a Further Reading entry beside "The Fatigue Void" (a state-dependent limit within waking). Added to `related_articles`. ai_system appended: `claude-opus-4-6+claude-opus-5+claude-opus-5-5`.
+  - [precommitment-and-the-diachronic-agent](/topics/precommitment-and-the-diachronic-agent/) 2,772 → 2,941 / 4,000: a Krügel & Uhl 2023 paragraph in "Identity and Authority" after Schelling's problem of authenticity. It adds the symmetric commitment devices, Elster's one-strategic-self claim as the authors report it, and an anchor link to `cross-state-void#Which Self Is Authoritative?` (heading-text dialect; the page has no `{#id}` anchors; the heading is unchanged since 09-29). New References entry 15 (renumbered 15–20 → 16–21). The Further Reading gloss now matches the live lede.
+  - [affective-forecasting-gap](/concepts/affective-forecasting-gap/) 3,447 → 3,473 / 3,500: one sentence at the end of L34 naming **projection bias** and the hot-cold gap (piped to cross-state-void) as a neighbouring error about preferences rather than affect.
+- **Citations**: Krügel & Uhl 2023 is real-correct. Crossref matched title, authors, *JBEE* 102, 101971, issued 2023-02, and the DOI redirects to PII S2214804322001410. Both quotes are verbatim in the OpenAlex abstract. The unverified Uhl 2011 working paper was not used.
+- **Declined**: the five-row terminology table on affective-forecasting-gap (52 words of headroom). The +26 alignment exceeds the 10-29 stability note ("paid for in the same paragraph") but stays within the driver's ≤ +40 allowance; the page is now 26 words under the gate. `voids/disappearance-voids` was skipped (thin seam, 11 words of headroom). `concepts/miswanting` needed nothing.
+- **Lead (unverified, not tasked)**: affective-forecasting-gap L34's "present-biased" gloss of Gilbert & Wilson 2007 is ambiguous with behavioural-economics present bias. The 10-29 ledger certified metadata only, and the full text was unreachable in this pass.
+- **ai_system**: `claude-opus-5-5` (running model) was already present on mood-void, transformative-experience-void, voids-between-minds, precommitment and affective-forecasting-gap, so those are unchanged. It was appended on sleep-consciousness-void.
+- **Reasoning mode**: no named-opponent engagement touched. Krügel & Uhl is reported as evidence, with no refutation claim.
+- **Output**: [cross-review-2026-11-02-cross-state-void-outward](/reviews/cross-review-2026-11-02-cross-state-void-outward/)
+
 ## 2026-11-02T10:31:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)

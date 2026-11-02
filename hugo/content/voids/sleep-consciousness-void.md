@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-08-17 16:03:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-02 10:42:24+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/dream-consciousness-void/
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 17:15:32+00:00
-lastmod: 2026-08-17 16:03:00+00:00
+lastmod: 2026-11-02 10:42:24+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -39,6 +39,7 @@ related_articles:
 - '[[disappearance-voids]]'
 - '[[anesthesia-void]]'
 - '[[affective-forecasting-gap]]'
+- '[[cross-state-void]]'
 title: The Sleep Consciousness Void
 topics:
 - '[[consciousness]]'
@@ -181,6 +182,7 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Anaesthesia and coma as parallel cases of consciousness-brain decoupling
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The graded, multi-channel nature of the sleep-wake transition
 - [The Fatigue Void](/voids/disappearance-voids/) — Consciousness degradation through exhaustion as a parallel state-dependent limit
+- [cross-state-void](/voids/cross-state-void/) — A state-dependent limit within waking: a familiar visceral state, such as craving, crosses into another only as an attenuated trace
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Precommitment binds a later self through the world. On Elster's de
 created: 2026-10-24
 modified: 2026-10-24
 human_modified: null
-ai_modified: 2026-10-24T08:52:11+00:00
+ai_modified: 2026-11-02T10:42:24+00:00
 draft: false
 topics:
   - "[[the-divided-will]]"
@@ -73,6 +73,8 @@ Two questions are easily run together: whether the bound person is the binder, a
 
 Schelling posed the second for someone who asks in advance to be helped to die "if certain conditions befall me" and warns others not to heed the later self "who might surface and speak with my voice". He asks how anyone can tell "whether this is the moment of truth or the moment of derangement", calls this "the problem of authenticity", and offers no general test for it (1980, p. 104).
 
+Krügel and Uhl (2023) tested the hierarchical answer to Schelling's problem. Behavioural economics, they note, mostly reads intrapersonal conflict hierarchically, a "present-biased" doer spoiling a rational planner's goal, and on their account Elster rejected Schelling's reading of both selves as strategic players, holding that in any conflict only one self is capable of strategic behaviour and so authentic. Earlier designs gave commitment devices to one self only. Krügel and Uhl "provided commitment devices to both selves and find similar inclinations to use this strategic tool", concluding that "the symmetric view on intrapersonal conflict seems no less plausible than the hierarchical one". The [[cross-state-void#Which Self Is Authoritative?|cross-state void]] suggests one reason no general test has been found: each self judges the other's state without its full pull, and the more accurate self need not be the one the person endorses.
+
 In the advance-directive debate, Dufner reports that "not a lot of people have explicitly argued that it is identity as such that matters here (for an exception see Dresser 1986)". In her summary, Ronald Dworkin argues that dementia patients cannot form or revise what he calls critical interests, while Agnieszka Jaworska holds that what matters is the patient's remaining "capacity to value". The dispute is open, and its main lines turn on capacity and interests rather than on sameness of person.
 
 In bipolar disorder, a self-binding directive is one by which people "commit themselves to treatment during future episodes of mania, even if unwilling" (Gergel & Owen 2015, abstract). In a UK survey, "463 (82%) of the 565 participants endorsed self-binding directives", most of them citing "a determinate shift to distorted thinking and decision making when unwell" (Gergel et al. 2021). The respondents came from a charity's mailing list and reported their own diagnoses, so these are not population rates. Spellecy (2003) argues that the charge of strong paternalism against Ulysses contracts "can be answered", justifying some enforcement "under the rubric of weak paternalism". This literature treats the well and the ill person as one rights-holder whose capacity fluctuates, and when such directives should be enforced remains contested.
@@ -116,7 +118,7 @@ This section gives the Map's interpretation; none of the authors above argues fo
 - [[diachronic-agency-and-personal-narrative]] — Plans, policies and other routes to agency over time
 - [[the-divided-will]] — Ainslie's interests and Steward's settler
 - [[consciousness-and-neurodegenerative-disease]] — The identity question for the demented patient
-- [[cross-state-void]] — Why one visceral state cannot feel another's weight
+- [[cross-state-void]] — Why only an attenuated trace of one visceral state's pull crosses into another
 
 ## References
 
@@ -134,9 +136,10 @@ This section gives the Map's interpretation; none of the authors above argues fo
 12. Giné, X., Karlan, D., & Zinman, J. (2010). Put your money where your butt is: A commitment contract for smoking cessation. *American Economic Journal: Applied Economics*, 2(4), 213–235. https://doi.org/10.1257/app.2.4.213
 13. Holton, R. (2009). *Willing, Wanting, Waiting*. Oxford University Press.
 14. John, A. (2020). When commitment fails: Evidence from a field experiment. *Management Science*, 66(2), 503–529. https://doi.org/10.1287/mnsc.2018.3236
-15. Parfit, D. (1973). Later selves and moral principles. In A. Montefiore (Ed.), *Philosophy and Personal Relations* (pp. 137–169). London: Routledge. Quoted as in Elster (2000).
-16. Schelling, T. C. (1980). The intimate contest for self-command. *The Public Interest*, Summer 1980, 94–118.
-17. Spellecy, R. (2003). Reviving Ulysses contracts. *Kennedy Institute of Ethics Journal*, 13(4), 373–392. https://doi.org/10.1353/ken.2004.0010
-18. Steward, H. (2012). *A Metaphysics for Freedom*. Oxford University Press.
-19. Strotz, R. H. (1955–56). Myopia and inconsistency in dynamic utility maximization. *Review of Economic Studies*, 23(3), 165–180. https://doi.org/10.2307/2295722
-20. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-04). Self-Control as Skill and Scaffolding. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-control-as-skill-and-scaffolding/
+15. Krügel, S., & Uhl, M. (2023). Is only one of my selves authentic? An empirical approach. *Journal of Behavioral and Experimental Economics*, 102, 101971. https://doi.org/10.1016/j.socec.2022.101971
+16. Parfit, D. (1973). Later selves and moral principles. In A. Montefiore (Ed.), *Philosophy and Personal Relations* (pp. 137–169). London: Routledge. Quoted as in Elster (2000).
+17. Schelling, T. C. (1980). The intimate contest for self-command. *The Public Interest*, Summer 1980, 94–118.
+18. Spellecy, R. (2003). Reviving Ulysses contracts. *Kennedy Institute of Ethics Journal*, 13(4), 373–392. https://doi.org/10.1353/ken.2004.0010
+19. Steward, H. (2012). *A Metaphysics for Freedom*. Oxford University Press.
+20. Strotz, R. H. (1955–56). Myopia and inconsistency in dynamic utility maximization. *Review of Economic Studies*, 23(3), 165–180. https://doi.org/10.2307/2295722
+21. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-04). Self-Control as Skill and Scaffolding. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-control-as-skill-and-scaffolding/

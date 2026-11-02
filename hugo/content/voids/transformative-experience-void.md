@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-10-05 07:51:58+00:00
+ai_modified: 2026-11-02 10:42:24+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 07:22:43+00:00
-lastmod: 2026-10-05 07:51:58+00:00
+lastmod: 2026-11-02 10:42:24+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -34,6 +34,7 @@ related_articles:
 - '[[epistemological-limits-occams-razor]]'
 - '[[self-opacity]]'
 - '[[inaccessible-past]]'
+- '[[cross-state-void]]'
 title: The Transformative Experience Void
 topics:
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
@@ -90,7 +91,7 @@ Ordinary learning updates an agent's credences while preserving preferences and 
 
 This creates the distinctive asymmetry the Map frames as a void of self-knowledge. From the pre-transformation side, the phenomenal character of the outcome is inaccessible in the [acquaintance](/voids/acquaintance-void/) sense, the post-transformation preferences are unpredictable in structure rather than merely in degree, and the rational-agent model's stable-preferences assumption is violated at the axiom level. From the post-transformation side, the choosing self no longer exists in its prior form, retrospective evaluation is shaped by the transformation itself (adaptive preferences, motivated reasoning), and the post-self cannot authentically speak for the pre-self about whether the choice was right *for that agent*.
 
-This double sealing distinguishes the transformative void from nearby cognitive limits. Unlike the [phenomenal-quality-void](/voids/phenomenal-quality-void/) (general opacity of qualia to third-person description) or the [acquaintance-void](/voids/acquaintance-void/) (modes of phenomenal contact unavailable to our architecture), the transformative void concerns the gap between two temporal stages of the same biological subject — a gap each stage is structurally barred from bridging.
+This double sealing distinguishes the transformative void from nearby cognitive limits. Unlike the [phenomenal-quality-void](/voids/phenomenal-quality-void/) (general opacity of qualia to third-person description) or the [acquaintance-void](/voids/acquaintance-void/) (modes of phenomenal contact unavailable to our architecture), the transformative void concerns the gap between two temporal stages of the same biological subject — a gap each stage is structurally barred from bridging. The [cross-state-void](/voids/cross-state-void/) is its familiar-state counterpart: there the stages are states one has had often and will re-enter, such as craving and satiety, yet having been there helps less than it should, since only an attenuated trace of the other state's pull crosses.
 
 ## Approaches to the Edge
 

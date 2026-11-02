@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-10-29 03:36:32+00:00
+ai_modified: 2026-11-02 10:42:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-29 03:36:32+00:00
-lastmod: 2026-10-29 03:36:32+00:00
+lastmod: 2026-11-02 10:42:24+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
@@ -35,7 +35,7 @@ This is the **affective-forecasting gap** as it bears on the [selection-criterio
 
 ## Where the Gap Is Structured
 
-What matters to a selector is where the impact bias (Wilson & Gilbert 2003) is *directional and predictable*, not scatter it could average away. Three sources give it structure: **immune neglect**—forecasters fail to anticipate the rationalisation and reframing that dampen negative affect, so overestimate how *long* bad feelings last (Gilbert et al. 1998); **focalism**—fixation on the focal event, neglecting all else that will shape mood, inflates its predicted impact (Wilson et al. 2000); and **prospection**, the mechanism: forecasting simulates the event, truncated, decontextualised and present-biased (Gilbert & Wilson 2007), distortions selection on prospected valence inherits.
+What matters to a selector is where the impact bias (Wilson & Gilbert 2003) is *directional and predictable*, not scatter it could average away. Three sources give it structure: **immune neglect**—forecasters fail to anticipate the rationalisation and reframing that dampen negative affect, so overestimate how *long* bad feelings last (Gilbert et al. 1998); **focalism**—fixation on the focal event, neglecting all else that will shape mood, inflates its predicted impact (Wilson et al. 2000); and **prospection**, the mechanism: forecasting simulates the event, truncated, decontextualised and present-biased (Gilbert & Wilson 2007), distortions selection on prospected valence inherits. A neighbouring error, **projection bias**, misjudges future *preferences* rather than future affect, projecting the current state onto them; across visceral states it is the [hot-cold gap](/voids/cross-state-void/).
 
 Levine et al. (2012) argue the *intensity* component of the impact bias is partly a procedural artifact; Patel & Urry (2024) still open with "Evidence for affective forecasting errors is mixed" and trace part of it to whether affect is measured discretely or dimensionally. No component is conceded on all sides. People report relying on forecast intensity over frequency or duration, and forecast it more accurately (Carlson et al. 2023), so choice leans on the component forecast best, not on the duration immune neglect and focalism concern. After the 2024 US election partisan losers overestimated its affective impact while winners "did not display systematic forecasting errors" (Stavrova et al. 2026); in everyday life people "could predict when a day/event would make them feel better/worse than usual" with only "small errors" in absolute level (Moeck et al. 2026). The Map's claim is conditional: for salient negative events the error runs toward overestimation—of duration through immune neglect, of intensity where the event is focal—while its size and bearing on choice depend on component, context and design.
 
