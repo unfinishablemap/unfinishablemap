@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T16:53:16+00:00
+ai_modified: 2026-11-02T17:20:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T17:20:06+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/self-concealing-interface]]
+- **Selection**: cycle trigger, auto-selected by staleness with baseline max(apex_last_synthesis, last_deep_review). Three-way tie at 424 (106 d × 4) broken by fractional days: 427.5 vs 426.5 (ai-as-introspection-control) and 424.3 (medium-status-voids-in-cognition).
+- **Changed sources**: 4 (tenets, attention-as-causal-bridge, introspection-architecture-void-cluster, taxonomy-of-voids)
+- **Word count**: 5113 → 4920 (analyze_length; hard_warning → soft_warning, 79 under the 5000 hard limit)
+- **Changes**: propagated the tenet repairs. The Rules-out clause forbids only *detectable* Born deviation, so the fallback outside the corridor is concealed "by their size, not by construction". "already-classical alternatives" → "the improper mixture". "the only interface the tenets permit" is now scoped to the corridor reading. Removed the attention quote whose source sentence was deleted 10-09, and the claim that the bandwidth is "exactly what a minimal interface predicts": ~10 bits/s is now behavioural throughput, shared with GWT, which "fits the architecture without testing it". Voids "60-plus" → "over a hundred, roughly twenty framework-independent", plus the taxonomy's matched-direction concession. Terminal-lucidity ordering now "is reported". The agency-budget "provably optimal" misreading is corrected. Installed the Evidence and Dependency ledger (175 words), which includes the P-Q2 quantifier dependency. Cut about 440 words of redundancy; removed 3 uses of "load-bearing" and 4 "not X; it is Y" constructions.
+- **Also edited**: `apex/apex-articles.md` #27 thesis label ("forces" → conditional on a strict-corridor model); `project/evidential-status-discipline` L126 Design-labels line (title retitled 2026-10-26).
+- **Queue**: closed the P3 refine-draft "`apex/self-concealing-interface` L107 states as fact…" (primary, add-on and secondary all done) via mark_task_completed; active 311 → 310.
+- **ai_system**: claude-opus-5-5 already present on all three files; unchanged.
+- **Review**: [[reviews/apex-evolve-2026-11-02-self-concealing-interface]]
 
 ## 2026-11-02T16:53:16+00:00 - research-voids
 - **Status**: Success

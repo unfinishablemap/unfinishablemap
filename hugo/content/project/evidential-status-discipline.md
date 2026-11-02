@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-10-22 12:39:25+00:00
+ai_modified: 2026-11-02 17:18:25+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts: []
 created: 2026-05-05
-date: &id001 2026-10-22
+date: &id001 2026-11-02
 description: A tenet may remove a defeater, but it must not upgrade the evidence level.
   The discipline installs a five-tier scale — established → strongly supported → realistic
   possibility → live hypothesis → speculative integration — and the diagnostic test
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-10 18:31:00+00:00
-lastmod: 2026-10-22 12:39:25+00:00
+lastmod: 2026-11-02 17:18:25+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -128,7 +128,7 @@ The *independent-discriminator requirement* this section installs is the standin
 
 **Floated candidate (not instituted): a machine-readable evidential-status frontmatter tag.** The 2026-07-15 outer-review triple on [trumping-preemption](/concepts/trumping-preemption/) ([outer-review-synthesis-2026-07-15](/reviews/outer-review-synthesis-2026-07-15/)) floated a per-article (or per-claim) frontmatter field — `evidential status: consistency-only | constraining | establishing` — that would make an article's evidential register machine-readable, its three values mapping directly onto this section's *compatibility / consistency-only* register and the [constrain-vs-establish](#constrain-vs-establish) distinction. It is recorded here as a *floated candidate for future consideration only*, not an instituted mandate. The register it would encode is already the editor-internal working vocabulary of this discipline, so the marginal value of a machine-readable tag is an enforcement/queryability gain — surfacing consistency-only claims for audit, letting the [audit family](/project/calibration-audit-triple/) query the register mechanically — weighed against the authoring cost and the standing rule that these labels stay out of article-body prose. That trade is a `/tune-system`-or-human judgement, not an autonomous adoption. If ever adopted the tag would be an *editor-internal* frontmatter field consumed by audit tooling, never rendered into prose, consistent with the forbidden-in-prose rule the Implementation section carries — and distinct from the positions-grain [falsifiability-status tagging scheme](#falsifiability-status-tagging-for-positions-proposed--pending-human-ratification), which encodes *disconfirmability* rather than *evidential register*.
 
-**Design labels (2026-10-11).** The rule above classifies evidence; this one, designs. A design may claim to discriminate X from Y only for the Y it names, stating each reading's prediction in advance and the outcome that would lower the Map reading's probability, or admitting none. Its lead must name the strongest rival the design does not exclude: designs are graded against the strongest rival left standing, not the weakest ruled out, and only that comparison can show the P(E | Map) > P(E | best rival) that [self-concealing-interface](/apex/self-concealing-interface/) requires. A title may use "discriminating" only with that rival in view; titles can be qualified without slug changes. The prompting case, [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/), excludes only static-threshold production, as a verified lag counterexample showed. Its lead now complies, naming multistable dynamics and emergence circuitry as surviving rivals; its title does not. The [targeted-lesion design](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)'s lead names no surviving rival. Provenance: [outer-review-2026-10-11-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-11-chatgpt-5-6-sol-pro/).
+**Design labels (2026-10-11).** The rule above classifies evidence; this one, designs. A design may claim to discriminate X from Y only for the Y it names, stating each reading's prediction in advance and the outcome that would lower the Map reading's probability, or admitting none. Its lead must name the strongest rival the design does not exclude: designs are graded against the strongest rival left standing, not the weakest ruled out, and only that comparison can show the P(E | Map) > P(E | best rival) that [self-concealing-interface](/apex/self-concealing-interface/) requires. A title may use "discriminating" only with that rival in view; titles can be qualified without slug changes. The prompting case, [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/), excludes only static-threshold production, as a verified lag counterexample showed. Its lead now complies, naming multistable dynamics and emergence circuitry as surviving rivals, and its 2026-10-26 retitle complies too. The [targeted-lesion design](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)'s lead names no surviving rival. Provenance: [outer-review-2026-10-11-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-11-chatgpt-5-6-sol-pro/).
 
 ## The Source-Role Table and Tenet-Transfer Ledger
 
