@@ -4,9 +4,9 @@ description: "Evolution provides significant evidence that consciousness causall
 created: 2026-02-05
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-10-14T10:38:50+00:00
+ai_modified: 2026-11-02T23:50:34+00:00
 draft: false
-last_deep_review: 2026-07-19T20:15:52+00:00
+last_deep_review: 2026-11-02T23:50:34+00:00
 topics:
   - "[[consciousness-and-cognitive-distinctiveness]]"
   - "[[hard-problem-of-consciousness]]"
@@ -29,18 +29,18 @@ related_articles:
   - "[[consciousness-and-causal-powers]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-05
 last_curated: null
 ---
 
-If consciousness was itself the target of natural selection, it must have causal effects on behaviour, because a causally inert property—one that changes nothing about how organisms interact with their environment—cannot be selected for. This argument, first articulated by William James in 1890, provides significant evidence that consciousness genuinely contributes to intelligence rather than merely accompanying it. The Unfinishable Map holds that this evolutionary argument, combined with evidence from comparative cognition, makes a strong abductive case that consciousness causally amplifies cognitive capacity. The inference from "consciousness was selected" to "consciousness is causally efficacious" is suggestive rather than demonstrative—the move is underdetermined by the evidence, since the byproduct rejoinder (the selected trait is the neural substrate, with experience riding along) remains live. The argument is accepted by physicalists and dualists alike—where they disagree is whether causal efficacy implies non-physicality, a question the evolutionary argument alone does not settle.
+If consciousness was itself the target of natural selection, it must have causal effects on behaviour, because a causally inert property—one that changes nothing about how organisms interact with their environment—cannot be selected for. This argument, which William James pressed in 1879 and restated in 1890, provides significant evidence that consciousness genuinely contributes to intelligence rather than merely accompanying it. The Unfinishable Map holds that this evolutionary argument, combined with evidence from comparative cognition, makes a strong abductive case that consciousness causally amplifies cognitive capacity. The inference from "consciousness was selected" to "consciousness is causally efficacious" is suggestive rather than demonstrative—the move is underdetermined by the evidence, since the byproduct rejoinder (the selected trait is the neural substrate, with experience riding along) remains live. The argument is accepted by physicalists and dualists alike—where they disagree is whether causal efficacy implies non-physicality, a question the evolutionary argument alone does not settle.
 
-The argument matters because it addresses consciousness's causal role directly. We can debate whether introspective reports are reliable, whether logical reasoning truly requires awareness, whether the [[consciousness-as-amplifier|amplification]] story correctly describes the mechanism. But the evolutionary argument operates at a different level: if consciousness exists because evolution preserved it, evolution must have had something to preserve it *for*.
+The argument matters because it addresses consciousness's causal role directly. We can debate whether introspective reports are reliable, whether logical reasoning requires awareness, whether the [[consciousness-as-amplifier|amplification]] story correctly describes the mechanism. But the evolutionary argument operates at a different level: if consciousness exists because evolution preserved it, evolution must have had something to preserve it *for*.
 
 ## The Argument's Structure
 
-William James stated the core reasoning in *The Principles of Psychology*: "It is very generally admitted, though the point would be hard to prove, that consciousness grows the more complex and intense the higher we rise in the animal kingdom. That of a man must exceed that of an oyster." He continued: consciousness "must do something" because "the distribution of consciousness shows it to be exactly such as we might expect in an organ added for the sake of steering a nervous system grown too complex to regulate itself."
+William James stated the core reasoning in *The Principles of Psychology*: "It is very generally admitted, though the point would be hard to prove, that consciousness grows the more complex and intense the higher we rise in the animal kingdom. That of a man must exceed that of an oyster." He later concluded that "the study a posteriori of the distribution of consciousness shows it to be exactly such as we might expect in an organ added for the sake of steering a nervous system grown too complex to regulate itself", and that "if it is useful, it must be so through its causal efficaciousness."
 
 The argument has three premises:
 
@@ -50,29 +50,29 @@ The argument has three premises:
 
 3. **Consciousness appears to have been elaborated, not merely preserved.** Human consciousness seems more complex than insect consciousness, which seems more complex than bacterial information processing (if bacteria have any experience at all). This elaboration suggests selection pressure, not neutral drift.
 
-The conclusion follows: consciousness has fitness effects. And if it has fitness effects, it causally influences behaviour—organisms with consciousness do something different than organisms without it, and that difference affects survival.
+The conclusion follows: consciousness has fitness effects. And if it has fitness effects, it causally influences behaviour.
 
 ## The Epiphenomenalist Response
 
-[[concepts/epiphenomenalism|Epiphenomenalists]] grant that consciousness exists but deny it has causal effects. On this view, neural processes cause both behaviour and conscious experience, but conscious experience itself causes nothing. We feel pain because of neural activity; we withdraw our hand because of neural activity; the painfulness of pain is an inert byproduct.
+[[concepts/epiphenomenalism|Epiphenomenalists]] grant that consciousness exists but deny it has causal effects. On this view, we feel pain because of neural activity; we withdraw our hand because of neural activity; the painfulness of pain is an inert byproduct.
 
-Thomas Huxley offered the classic analogy: consciousness is like the steam whistle on a locomotive—produced by the engine's operation but not contributing to its movement. The train runs because of the engine; the whistle just signals that the engine is running.
+Thomas Huxley offered the classic analogy: consciousness is like the steam whistle on a locomotive—produced by the engine's operation but not contributing to its movement.
 
 Sophisticated epiphenomenalists respond to the evolutionary argument by noting that [[inheritance-problem-for-the-psychophysical-law|selection acts on genes, not experiences]]. What evolves is the neural machinery that produces consciousness; whether consciousness itself does anything is beside the point. If neural complexity produces both adaptive behaviour and conscious experience, both will appear to have evolved together—even if experience is causally inert.
 
-## Why the Response Fails
-
-This epiphenomenalist response faces several difficulties.
+## Difficulties for the Response
 
 ### The Correlation Problem
 
 If consciousness is causally inert, then the correlation between conscious experience and adaptive value is coincidental. Pleasures happen to accompany behaviours that promote survival (eating, mating, social bonding). Pains happen to accompany behaviours that threaten survival (injury, illness, social rejection). This correlation holds across species and across sensory modalities.
 
-The epiphenomenalist must explain this correlation without invoking mental causation. One option: the neural mechanisms that produce adaptive behaviour also happen to produce corresponding experiences. But why? What ensures the correspondence? If experience is entirely inert—doing nothing, influencing nothing—why does it systematically track biological significance?
+The epiphenomenalist must explain this correlation without invoking mental causation. One option: the neural mechanisms that produce adaptive behaviour also happen to produce corresponding experiences. If experience is entirely inert—doing nothing, influencing nothing—why does it systematically track biological significance?
 
 The interactionist has a straightforward answer: pleasures promote the behaviours they accompany *because* the pleasures cause approach behaviour. Pains prevent the behaviours they accompany *because* the pains cause avoidance. The tracking is not coincidental; it reflects causal connection—[[valence-and-conscious-selection|valence functions as the currency]] through which consciousness selects fitness-promoting outcomes.
 
-Sophisticated epiphenomenalists might respond that neural systems optimized for adaptive behavior would tend to produce corresponding phenomenal states as a byproduct—not by coincidence but by co-optimization (the [[co-optimization-reply-to-the-correlation-problem|co-optimization reply]] develops this rejoinder in full, including why the dissociation evidence constrains but does not discriminate against it). Yet this response faces its own difficulty: it requires that the *specific character* of experiences (why pain feels bad rather than good) tracks biological significance without that character mattering. The neural system must somehow "know" to pair beneficial behaviors with pleasant experiences and harmful ones with unpleasant experiences, even though pleasantness and unpleasantness are supposedly causally inert. The alternative—that phenomenal valence is arbitrary—would predict that some organisms might experience injury as pleasant and feeding as painful, yet still avoid injury and seek food. Such cases are rare but not entirely absent: pain asymbolia patients perceive pain without finding it unpleasant, yet their avoidance behaviours are impaired. The case is consistent with the interactionist prediction that phenomenal valence drives behaviour; it is also compatible with a predictive-processing account in which a separate valence-prior drives avoidance-policy selection and damage disrupts the prior rather than the experience-doing-causal-work bridge (see [[pain-asymbolia]] for the constrain-vs-establish discipline that separates the dissociation phenomenon from any specific reading of it, and [[pain-consciousness-and-causal-power]] for the broader argument). Congenital insensitivity to pain, where pain experience is absent entirely, likewise impairs protective behaviour. These clinical cases complicate the picture and are consistent with the link between phenomenal character and adaptive function, though they do not on their own discriminate between interactionist and physicalist-with-valence-prior accounts.
+Sophisticated epiphenomenalists might respond that neural systems optimized for adaptive behavior would tend to produce corresponding phenomenal states as a byproduct—not by coincidence but by co-optimization (the [[co-optimization-reply-to-the-correlation-problem|co-optimization reply]] develops this rejoinder in full). Yet this response faces its own difficulty. It requires that the *specific character* of experiences (why pain feels bad rather than good) tracks biological significance without that character mattering: the neural system must somehow "know" to pair beneficial behaviors with pleasant experiences and harmful ones with unpleasant ones. If valence were arbitrary, some organisms might experience injury as pleasant and feeding as painful, yet still avoid injury and seek food. Robinson's reference-fixing reply holds that whatever accompanies avoidance is displeasure by the meaning of the word (Robinson 2023, §2.2), which on the Map's reading relocates the question rather than dissolving it; and the interactionist owes its own account of why these neural states present these feelings, a shared debt.
+
+The clinical record shows valence and behaviour failing together rather than any inverted pairing. Pain asymbolia patients perceive pain without finding it unpleasant, and their avoidance behaviours are impaired; congenital insensitivity to pain, where pain experience is absent entirely, likewise impairs protective behaviour. The pattern is consistent with the interactionist prediction that phenomenal valence drives behaviour. It is also compatible with co-optimization, including a constitutive-physicalist version on which felt awfulness *is* the computational role of a valence prior that drives avoidance-policy selection, so that damage disrupts function and feeling together (see [[pain-asymbolia]] for the constrain-vs-establish discipline that separates the dissociation phenomenon from any specific reading of it, and [[pain-consciousness-and-causal-power]] for the broader argument). These cases fit the link between phenomenal character and adaptive function but do not on their own discriminate between the accounts.
 
 ### The Elaboration Problem
 
@@ -90,33 +90,33 @@ Research provides suggestive (though not decisive) evidence. DeWall et al. (2008
 
 ## The Quantum Dimension
 
-Georgiev (2024) states: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory." This is a quantum-mind partisan's framing, included here as a forceful statement of the evolutionary worry rather than as a settled result—Georgiev advances it within a programme that treats sentience and free will as fundamental aspects of reality granted by quantum physical laws.
+Georgiev (2024) states: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory." This is a quantum-mind partisan's framing, included here as a forceful statement of the evolutionary worry rather than as a settled result—Georgiev advances it within a programme that treats sentience and free will as fundamental aspects of reality granted by quantum physical laws and identifies conscious experience reductively with quantum information.
 
 This observation connects the evolutionary argument to the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—but only for those who already accept that consciousness is non-physical. The physicalist has no need for a special mechanism: on their view, consciousness *is* neural processing, and neural processing is already causally integrated into the physical world. The question of mechanism arises specifically for the dualist, who must explain how a non-physical property influences physical outcomes.
 
-For the dualist, classical physics presents a problem: its deterministic causal closure leaves no room for mental causation that is not reducible to physical causation. Quantum indeterminacy provides a potential opening—consciousness might bias otherwise undetermined outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]].
+For the dualist, classical physics presents a problem: its deterministic causal closure leaves no room for mental causation that is not reducible to physical causation. Quantum indeterminacy provides a potential opening—consciousness might bias otherwise undetermined outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. The opening has an unsettled cost. Selection responds only to outcome probabilities in physically specified situations, so a bias leaving each at its Born value is invisible to evolution: the Map cannot hold exact Born preservation of that kind, outcome-selection as the selector's only channel, and an evolutionary case running through the selector together (the [[inheritance-problem-for-the-psychophysical-law#the-selectability-constraint|selectability constraint]]).
 
-The Map does not claim certainty about the mechanism. The evolutionary argument makes the case *that* consciousness is causally efficacious; the [section below](#the-physicalist-account-of-mental-causation) addresses whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] develops the complementary argument: evolution likely built the quantum substrate through which consciousness operates, just as it built the quantum compass in a bird's eye. The Map's specific hypothesised causal architecture — selection of action, sustained attention, phenomenal biasing, volitional modulation — is catalogued at [[consciousness-and-causal-powers]], where the four mechanisms are properly flagged as the framework's *hypothesised* causal role at the speculative-integration evidential tier rather than as established findings.
+The Map does not claim certainty about the mechanism. The evolutionary argument makes the case *that* consciousness is causally efficacious; the [section below](#the-physicalist-account-of-mental-causation) addresses whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] develops the complementary argument: because selection has retained quantum-exploiting variants elsewhere (enzyme catalysis, and avian magnetoreception on its leading but unsettled model), a quantum neural substrate is a realistic possibility, a claim of plausibility rather than probability. The Map's hypothesised causal architecture — selection of action, sustained attention, phenomenal biasing, volitional modulation — is catalogued at [[consciousness-and-causal-powers]], which flags the four mechanisms as hypothesised rather than empirically established.
 
 ## Functions Consciousness Enables
 
-If consciousness evolved because it provides fitness advantages, what advantages? The answer depends partly on which account of biological function is operative—a question [[consciousness-evolution-and-biology|philosophy of biology]] has struggled with, since both etiological and causal-role theories face distinctive difficulties when applied to consciousness. Research suggests several advantages:
+If consciousness evolved because it provides fitness advantages, what advantages? The answer depends partly on which account of biological function is operative, and both etiological and causal-role theories struggle when [[consciousness-evolution-and-biology|philosophy of biology]] applies them to consciousness. Research suggests several advantages:
 
 ### Flexible Response to Novelty
 
-Unconscious processing handles routine situations through established patterns—what [[global-workspace-theory]] calls modular, encapsulated processes. Consciousness enables flexible response to genuinely novel situations—situations where no learned routine applies. This flexibility has obvious survival value: environments change, predators develop new strategies, novel opportunities arise. An organism that can consciously evaluate unprecedented situations has advantages over one limited to pattern-matching against past experience.
+Unconscious processing handles routine situations through established patterns—what [[global-workspace-theory]] calls modular, encapsulated processes. Consciousness enables flexible response to genuinely novel situations, where no learned routine applies. This flexibility has obvious survival value: an organism that can consciously evaluate unprecedented situations has advantages over one limited to pattern-matching against past experience.
 
 ### Metacognitive Monitoring
 
-Consciousness enables organisms to monitor their own cognitive states—recognising uncertainty, detecting errors, adjusting strategies. This metacognitive capacity allows learning from mistakes and calibrating confidence to evidence. Dunstone and Caldwell's (2018) review assesses the hypothesis, developed by Cecilia Heyes, that explicit metacognition—representing one's knowledge as knowledge—enables cumulative culture, the ratchet effect distinguishing human technological progress from the non-accumulating traditions of other species.
+Consciousness enables organisms to monitor their own cognitive states—recognising uncertainty, detecting errors, adjusting strategies. This metacognitive capacity allows learning from mistakes and calibrating confidence to evidence. Dunstone and Caldwell's (2018) review assesses the hypothesis, developed by Cecilia Heyes and colleagues, that explicit metacognition—representing one's knowledge as knowledge—enables cumulative culture, the ratchet effect distinguishing human technological progress from the non-accumulating traditions of other species.
 
 ### Motivational Control Responsive to History
 
-Lacalli (2024) proposes that consciousness "first evolved to make motivational control more responsive[, through memory,] to the past life experiences of the individual." Preprogrammed instincts respond to current stimuli; consciousness enables responses shaped by remembered experience. An organism that can consciously recall past outcomes adjusts behaviour in ways instinct alone cannot achieve.
+Lacalli (2024) proposes that consciousness "first evolved to make motivational control more responsive[, through memory,] to the past life experiences of the individual." Preprogrammed instincts respond to current stimuli; consciousness enables responses shaped by remembered experience.
 
 ### Temporal Integration
 
-Consciousness integrates information across time, enabling coherent experience of events that unfold over seconds or longer. This temporal integration supports planning: representing future states, comparing possible outcomes, coordinating actions toward delayed goals. Without conscious temporal integration, cognition would be limited to moment-by-moment reaction.
+Consciousness integrates information across time, enabling coherent experience of events that unfold over seconds or longer. This temporal integration supports planning: representing future states, comparing possible outcomes, coordinating actions toward delayed goals.
 
 ## The Illusionist Alternative
 
@@ -124,7 +124,7 @@ Consciousness integrates information across time, enabling coherent experience o
 
 This response faces a regress problem. If our belief in consciousness's causal role is generated by unconscious mechanisms, what generates the belief's phenomenal character—the experience of seeming to consciously reason? Either that experience is itself produced by the mechanisms (making the question recurse), or the experience doesn't exist (eliminativism), or the experience is conscious and needs explanation.
 
-More directly: if illusionism is true, then the correlation between consciousness-seeming and adaptive behaviour is as puzzling as the correlation the epiphenomenalist must explain. Why would the illusion of conscious contribution track exactly those capacities that improve fitness? Why would the illusion be elaborated in precisely those lineages where cognitive sophistication increased? The illusionist inherits all the explanatory burdens of the epiphenomenalist while adding the further claim that our introspective access to phenomenal states is systematically mistaken about their nature.
+More directly, if illusionism is true, the correlation between consciousness-seeming and adaptive behaviour is as puzzling as the correlation the epiphenomenalist must explain. Why would the illusion of conscious contribution track exactly those capacities that improve fitness? Why would the illusion be elaborated in precisely those lineages where cognitive sophistication increased? The illusionist inherits all the explanatory burdens of the epiphenomenalist while adding the further claim that our introspective access to phenomenal states is systematically mistaken about their nature.
 
 ## The Physicalist Account of Mental Causation
 
@@ -132,13 +132,13 @@ The evolutionary argument makes its strongest case for the claim that consciousn
 
 Non-reductive physicalists argue that mental properties supervene on physical properties without being reducible to them—much as biological properties supervene on chemistry without being "nothing but" chemistry. Consciousness evolved, has causal effects, and is entirely physical. The selection pressures the evolutionary argument identifies are real, and they selected for physical systems that instantiate conscious states. No non-physical ingredient is required.
 
-This is not a fringe objection. It is the default position in contemporary philosophy of mind. The evolutionary argument as stated is equally compatible with non-reductive physicalism and with dualism. To move from "consciousness is causally efficacious" to "consciousness is non-physical," additional arguments are needed:
+Far from a fringe objection, non-reductive physicalism is the default position in contemporary philosophy of mind. The evolutionary argument as stated is equally compatible with non-reductive physicalism and with dualism. To move from "consciousness is causally efficacious" to "consciousness is non-physical," additional arguments are needed:
 
 **The [[explanatory-gap|explanatory gap]]**: Physical descriptions of neural processes, however complete, do not logically entail the existence of phenomenal experience. If consciousness were identical to physical processes, this gap should not exist. The non-reductive physicalist can accept the gap but insist it reflects our epistemic limitations rather than an ontological distinction—though this requires explaining why consciousness is uniquely resistant to reductive explanation when other higher-level phenomena (life, computation) are not.
 
 **The conceivability argument**: It seems conceivable that a physical duplicate of a conscious being could lack experience entirely (a [[philosophical-zombies|philosophical zombie]]). If this is genuinely conceivable, consciousness cannot be necessitated by physics alone. The physicalist must argue either that zombies are not conceivable on reflection or that conceivability does not track metaphysical possibility.
 
-**The causal closure problem**: If physics is causally closed—every physical event has a sufficient physical cause—then mental causation either reduces to physical causation or is overdetermined. The non-reductive physicalist must explain how mental properties can be genuinely causal without overdetermining their physical bases. This remains an active area of debate, with exclusion arguments (Kim, 1998) pressing the physicalist toward either reductionism or epiphenomenalism. The Map's preferred structural response is [[delegatory-causation|causal delegation]]: experiences [[delegatory-causation|preempt]] the causal contributions of their underlying physical states rather than overdetermining them.
+**The causal closure problem**: If physics is causally closed—every physical event has a sufficient physical cause—then mental causation either reduces to physical causation or is overdetermined. The non-reductive physicalist must explain how mental properties can be genuinely causal without overdetermining their physical bases. This remains an active area of debate, with exclusion arguments (Kim, 1998) pressing the physicalist toward either reductionism or epiphenomenalism. The Map's preferred structural response is Saad's [[delegatory-causation|causal delegation]]: experiences preempt the default causal profile of their underlying physical states instead of overdetermining their effects.
 
 The Unfinishable Map's position is that the evolutionary argument provides necessary but not sufficient grounds for dualism. It raises the cost of denying the causal efficacy that epiphenomenalism and eliminativism reject, without on its own refuting them. The further step to non-physicality depends on the explanatory gap, conceivability arguments, and the difficulty of reconciling genuine mental causation with causal closure—arguments developed elsewhere in the Map.
 
@@ -146,7 +146,7 @@ The Unfinishable Map's position is that the evolutionary argument provides neces
 
 The evolutionary argument could be weakened by several findings:
 
-**Consciousness without elaboration**: If consciousness were constant across species rather than elaborated—if a bacterium had the same richness of experience as a human—selection would not explain the apparent progression. But this contradicts intuitions most researchers share.
+**Consciousness without elaboration**: If consciousness were constant across species rather than elaborated—if a bacterium had the same richness of experience as a human—selection would not explain the apparent progression.
 
 **Adaptation without consciousness**: If organisms lacking consciousness achieved the same adaptive behaviours as conscious organisms, consciousness would confer no fitness advantage. But the great ape evidence suggests conscious capacities specifically distinguish human cognition.
 
@@ -156,27 +156,27 @@ The evolutionary argument could be weakened by several findings:
 
 ## Relation to Site Perspective
 
-The evolutionary argument for mental causation supports multiple Map tenets.
+The evolutionary argument bears on four Map tenets.
 
 **[[tenets#^dualism|Dualism]]**: The evolutionary argument does not directly establish dualism—non-reductive physicalists accept mental causation while denying non-physicality. The argument's contribution to the dualist case is indirect: it supports causal efficacy, which combines with the [[explanatory-gap|explanatory gap]] and conceivability arguments to build the cumulative case for non-physical consciousness. Without the evolutionary argument, dualism faces the accusation that consciousness is epiphenomenal and therefore explanatorily idle.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This tenet claims consciousness causally influences the physical world. The evolutionary argument provides abductive support for this claim. If consciousness was selected for, it must have effects; if it has effects, it is not epiphenomenal—though, as the opening section concedes, the inference from evolutionary history to selection (rather than byproduct) is itself defeasible.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The evolutionary argument provides abductive support for this tenet's claim that consciousness causally influences the physical world. If consciousness was selected for, it must have effects; if it has effects, it is not epiphenomenal—though, as the opening section concedes, the inference from evolutionary history to selection (rather than byproduct) is itself defeasible.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The evolutionary argument indicates that consciousness needs a causal mechanism. Quantum indeterminacy provides a candidate location for this mechanism—a point where consciousness can influence outcomes without violating physical laws that exclude mental causation in classical contexts.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The evolutionary argument indicates that consciousness needs a causal mechanism. Quantum indeterminacy provides a candidate location for this mechanism, though by the selectability constraint above the evolutionary argument inherits that mechanism's open debt rather than discharging it.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Epiphenomenalism appears simpler—one fewer type of causation—but creates explanatory puzzles the interactionist position resolves. The evolutionary argument suggests that apparent parsimony can hide explanatory deficits.
 
 ## Further Reading
 
-- [[mental-imagery]] — Mental imagery as a specific test case for the causal efficacy evolution predicts
+- [[mental-imagery]] — A specific test case for the causal efficacy evolution predicts
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity
 - [[baseline-cognition]] — What neural systems achieve without conscious contribution
 - [[cetacean-and-corvid-consciousness]] — Convergent amplification evidence: three independent lineages evolved consciousness-linked capacities
 - [[concepts/epiphenomenalism]] — The position the evolutionary argument challenges
 - [[interactionist-dualism]] — The framework where consciousness has causal power
 - [[evolution-of-consciousness]] — How consciousness might have emerged and developed
-- [[pain-consciousness-and-causal-power]] — Pain as the strongest evidence that phenomenal character tracks adaptive value
-- [[evolutionary-case-for-quantum-neural-effects]] — Why evolution likely built the quantum substrate for mental causation
+- [[pain-consciousness-and-causal-power]] — Pain as the paradigm test of whether phenomenal character does causal work
+- [[evolutionary-case-for-quantum-neural-effects]] — Why selection's quantum precedents make a quantum neural substrate a realistic possibility
 - [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] — The broader relationship between the two
 - [[consciousness-evolution-and-biology]] — Why biology's function concepts struggle with consciousness
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: the phenomenological profile that evolution predicts for a causally efficacious consciousness
@@ -186,8 +186,8 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 1. Georgiev, D.D. (2024). Evolution of Consciousness. *Life*, 14(1), 48.
 1. Lacalli, T. (2024). The function(s) of consciousness: an evolutionary perspective. *Frontiers in Psychology*, 15, 1493423.
 1. Dunstone, J., & Caldwell, C. A. (2018). Cumulative culture and explicit metacognition: a review of theories, evidence and key predictions. *Palgrave Communications*, 4, 145. https://doi.org/10.1057/s41599-018-0200-y
+1. James, W. (1879). Are we automata? *Mind*, 4(13), 1–22. https://doi.org/10.1093/mind/os-4.13.1
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
-1. Peper, A. (2020). A general theory of consciousness I: Consciousness and adaptation. *Communicative & Integrative Biology*, 13(1), 6-21.
 1. Robinson, W. (2023). Epiphenomenalism. *Stanford Encyclopedia of Philosophy*.

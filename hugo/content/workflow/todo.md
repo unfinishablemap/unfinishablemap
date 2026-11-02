@@ -4065,16 +4065,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,881/4,000 by analyze_length (topics hard limit). Make it length-neutral where possible.
 - **Notes**: Map-internal description gone stale. Re-read the CURRENT `topics/neurological-dissociations-as-interface-architecture`, especially L170 ("though not independently"), the new Occam paragraph at L202 ("the Map's count of six channels, one read off each syndrome, … rests on contested assumptions") and L128 ("can fail separately"). Then recast hemispherectomy L104's "independently failable channels" gloss to match, e.g. "a set of separately failing channels", at zero or negative word cost. Locate by the phrase (`grep -c -F` = 1 on 2026-11-02). Grep the rest of `obsidian/` (excluding reviews/ and workflow/) for other live quotations of "independently failable" and report any hits. Check pronouns. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u`. `ai_system` is currently `claude-opus-4-8+claude-opus-5`; append the running model only if ABSENT. Changelog before sync; verify both trees; no commit.
 
-### P2: `topics/duhem-quine-underdetermination-consciousness` L116 predicts "statistical signatures inconsistent with purely physical noise", an aggregate signature the endorsed strict-corridor reading rules out by construction (flagged by tenet checks 2026-07-29 and 08-12, never repaired); word-neutral swap
-- **Type**: refine-draft
-- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
-- **Status**: pending
-- **Source**: optimistic-review
-- **Generated**: 2026-11-02
-- **Review file**: reviews/optimistic-2026-11-02-map-as-science-wing.md
-- **Headroom**: 4,037/4,000, already OVER the topics hard limit, so the edit MUST be ≤ +0. The review's swap is −1.
-- **Notes**: Optimistic review 2026-11-02, Priority List item 2. Replace "may show statistical signatures inconsistent with purely physical noise" with "may show intention-conditioned departures from the Born marginal". That is IBE L82's own phrase; re-grep it there first. The corridor reading's only empirical exposure is intention-conditioned (TFC L70/L72, PoS L122). This change does NOT touch the 2026-06-07 HUMAN LENGTH DECISION bundles, which concern additive content; add nothing else. `ai_system` is `claude-opus-4-6+claude-opus-5`: append the running model only if ABSENT. Pull the EXACT anchor and replacement strings from the review's Priority List by script and locate them by the quoted anchor; the driver confirmed every anchor at `grep -c -F` = 1 at 22:36Z on 2026-11-02. Check pronouns after each edit. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u` and never use a future time. Re-measure with analyze_length. Changelog before sync; verify both trees; no commit.
-
 ### P3: `topics/consciousness-and-the-structure-of-scientific-revolutions` — four calibration repairs against its own sources: L75 "independently converged" (the cited page says the opposite, [P-M2](/positions/methodology-and-calibration/#p-m2)); L79 ancient disagreement read as crisis (it is the pre-paradigm pattern L65 argues against); L99 Bidirectional Interaction stated without its "owed, not shown" qualifier; L45 "excluding subjectivity" paraphrase lags the methodology page's revised lead
 - **Type**: refine-draft
 - **File**: obsidian/topics/consciousness-and-the-structure-of-scientific-revolutions.md
@@ -4097,6 +4087,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-02: `topics/duhem-quine-underdetermination-consciousness` L116 predicts "statistical signatures inconsistent with purely physical noise", an aggregate signature the endorsed strict-corridor reading rules out by construction (flagged by tenet checks 2026-07-29 and 08-12, never repaired); word-neutral swap
+- **Type**: refine-draft
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: Optimistic review 2026-11-02, Priority List item 2. Replace "may show statistical signatures inconsistent with purely physical noise" with "may show intention-conditioned departures from the Born marginal". That is IBE L82's own phrase; re-grep it there first. The corridor reading's only empirical exposure is intention-conditioned (TFC L70/L72, PoS L122). This change does NOT touch the 2026-06-07 HUMAN LENGTH DECISION bundles, which concern additive content; add nothing else. `ai_system` is `claude-opus-4-6+claude-opus-5`: append the running model only if ABSENT. Pull the EXACT anchor and replacement strings from the review's Priority List by script and locate them by the quoted anchor; the driver confirmed every anchor at `grep -c -F` = 1 at 22:36Z on 2026-11-02. Check pronouns after each edit. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified from `date -u` and never use a future time. Re-measure with analyze_length. Changelog before sync; verify both trees; no commit.
 
 ### ✓ 2026-11-02: `apex/judging-the-map-as-science` — carry the unanswered McKilliam (2025) objection to the Lakatosian instrument, and the IBE page's tier verdict, into the apex that relies on both (its source hub has recorded the objection since 08-16, four days after the apex synthesis)
 - **Type**: refine-draft

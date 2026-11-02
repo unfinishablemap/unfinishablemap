@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T23:21:30+00:00
+ai_modified: 2026-11-02T23:52:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T23:52:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/evolutionary-case-for-mental-causation]]
+- **Selection**: `scripts/deep_review.py` rank #2. Rank #1, `topics/affective-tone-divergence-across-meditative-traditions`, was skipped because it was edited today. Not named in any open P1/P2 task; one P3 names it (discharged below). 8th pass; content changed since 07-19 (09-24 refine, 10-14 inheritance link).
+- **Word count**: 3255 → 3254 (-1; length-neutral, topics soft 3000 / hard 4000)
+- **Critical issues addressed**: 8. (1) Fabricated James fragment "must do something" (0 hits in *Principles* Ch. 5; certified by the 06-02 review) replaced with James's verbatim "if it is useful, it must be so through its causal efficaciousness"; the steering quote now starts from its real subject. (2) "First articulated by William James in 1890" corrected to "pressed in 1879 and restated in 1890"; James 1879 *Mind* 4(13):1–22 (Crossref doi 10.1093/mind/os-4.13.1) added. (3) Pain asymbolia had been offered as an instance of arbitrary valence; it is now presented as valence and avoidance failing together. (4) Robinson's reference-fixing reply and the shared harmony debt added to the "why this pairing?" argument. (5) "Evolution likely built the quantum substrate… just as it built the quantum compass" recalibrated to the sibling page's "realistic possibility… plausibility rather than probability" and "leading but unsettled model"; the Further Reading label was fixed too. (6) Stale "speculative-integration evidential tier" attribution to `consciousness-and-causal-powers` (label removed there 05-19) corrected to "hypothesised rather than empirically established". (7) Selectability trilemma from `inheritance-problem-for-the-psychophysical-law` installed in §Quantum Dimension, and the MQI tenet paragraph now says the argument "inherits that mechanism's open debt rather than discharging it". (8) Orphan references: Peper 2020 removed (unused); Robinson 2023 now cited inline.
+- **Medium issues addressed**: 9. "This is not a fringe objection. It is…" construction removed; heading "Why the Response Fails" → "Difficulties for the Response" (only the subheading anchor is linked inbound, and it is unchanged); "default causal profile" qualifier restored and Saad named; Georgiev's reductive-quantum-physicalist stance recorded; "Heyes and colleagues"; unsupported temporal-integration claim and an intuition-only rebuttal removed; pain Further Reading label and Relation opener recalibrated.
+- **Enhancements made**: 3. Verbatim James inference; parent now matches its co-optimization child page; Map's open selectability debt named.
+- **Citation ledger**: 9 cites web-verified at the publisher (Crossref, PubMed, Frontiers full text, SEP live entry, psychclassics, Wikisource). 7 real-correct; 1 added (James 1879); 1 orphan removed (Peper). The Lacalli "though memory" typo was confirmed in the source.
+- **Reasoning modes (editor-internal)**: co-optimization (Robinson): Mixed; it names the unexplained pairing, answers reference-fixing on the Map's valence realism, and marks the shared debt. Constitutive-physicalist co-optimizer: Mode Three. Epiphenomenalism: Mixed One/Two. Illusionism: One/Two. Non-reductive physicalism: Mode Three.
+- **ai_system**: appended `claude-opus-5-5` (absent before).
+- **Follow-up**: the P3 todo task "`topics/evolutionary-case-for-mental-causation` L75 offers pain asymbolia as an instance of arbitrary valence…" is DISCHARGED by this pass, and the driver should close it. No new tasks minted.
+- **Output**: [[reviews/deep-review-2026-11-02-evolutionary-case-for-mental-causation]]
 
 ## 2026-11-02T23:21:30+00:00 - refine-draft
 - **Status**: Success
