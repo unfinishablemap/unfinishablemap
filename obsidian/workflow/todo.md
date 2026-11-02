@@ -4031,6 +4031,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-02
 - **Notes**: AUDIT first. The note finds that on deterministic specs the Map's non-candidacy verdict follows from the verification identities plus Tenet 3's functional-trajectory requirement, at any level an influence acts, so it does not depend on a quantum substrate; Tenet 2 bears only on stochastic specs, where it weakens the exclusion. READ P-AC1's Calibration line, "Would shift if" clause and any "falls with it" wording (re-grep); decide whether they present the verdict as more fragile than this, or conflate the deterministic and stochastic cases. If so, scope the clause (deterministic vs stochastic specs) length-NEUTRAL — the file is OVER positions hard 2,500 (~3,047 on 2026-11-01): net-negative or zero; the dated note goes to `positions/ai-consciousness-scope-calibration-history.md` (exists). If not, REPORT and change nothing. NO BAND MOVES. ATTRIBUTION: append only your own model id, only if ABSENT. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P3: `topics/perceptual-failure-and-the-interface` L130 now says "as the Occam paragraph below concedes, one neural architecture would produce all four", but its four (bandwidth limitation, priority preservation, compensatory generation, filter/generation) are not the Occam paragraph's four (graded loss, priority preservation, compensatory generation, anaesthesia dissociation); L102 says the filter cases "sit awkwardly" with predictive processing — an over-concession
+- **Type**: refine-draft
+- **File**: obsidian/topics/perceptual-failure-and-the-interface.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-02 03:23Z (tenet-check-2026-10-15 Warning 1 applied verbatim; the fork flagged the list mismatch the review's replacement string introduced)
+- **Generated**: 2026-11-02
+- **Notes**: LENGTH 3,867 by analyze_length (topics hard 4,000, gate `>=`; 132 headroom); length-neutral. READ L102 (filter/generation vs predictive processing), L130 (new 2026-11-02 sentence) and L136 (the Occam paragraph's conceded list) first and quote them exactly. FIX: make L130's concession match what L136 actually concedes — either name the three properties the Occam paragraph concedes and note that the filter/generation distinction "sits awkwardly" with a single-architecture account (per L102), or align the two lists — without strengthening anything: the rung stays *compatible*. Do not reintroduce "evidence for". Optionally replace the page's three pre-existing "load-bearing" uses with plain words where they are not genuine structural-premise uses (zero net words). ATTRIBUTION: append only your own model id, only if ABSENT. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees. No "This is not X. It is Y.".
+
 ## Completed Tasks
 
 
