@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt causal-closure calibration in dynamical-relevance-and-the-verification-boundary
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/dynamical-relevance-and-the-verification-boundary.md
-- **Notes**: From topic-concept anchoring audit 2026-11-02. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.01/kw is below 2.75/kw (target = 60% of anchor 4.58/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-11-02
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -4164,6 +4153,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-02: Adopt causal-closure calibration in dynamical-relevance-and-the-verification-boundary
+- **Type**: refine-draft
+- **File**: obsidian/topics/dynamical-relevance-and-the-verification-boundary.md
+- **Notes**: From topic-concept anchoring audit 2026-11-02. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.01/kw is below 2.75/kw (target = 60% of anchor 4.58/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-11-02: Propagate the 2026-10-26 cross-state-void reclassification — `voids/three-kinds-of-void` L97 still files it in the operation-void family as "occluded at the readout … unexplorable at the operation"; `voids/voids.md` L306 still calls it "self-concealing". TWO FILES
 - **Type**: refine-draft

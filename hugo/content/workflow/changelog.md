@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 07:57:19+00:00
+ai_modified: 2026-11-02 08:42:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 07:57:19+00:00
+lastmod: 2026-11-02 08:42:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T08:42:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [dynamical-relevance-and-the-verification-boundary](/topics/dynamical-relevance-and-the-verification-boundary/)
+- **Task**: P2 topic-concept anchoring audit 2026-11-02 against anchor [causal-closure](/concepts/causal-closure/) (todo 0-based L39). Failed checks: hedge_density, underdetermination_markers.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Decision**: (a). I made one real underdetermination fix. No exemption was needed: the flag needs at least 2 failed checks, so with check 3 passing it clears and the audit stays live for the page ahead of the P3 fold (~600 words).
+  - **The fix found** (Relation to Site Perspective, Dualism paragraph, L106). OLD: "Dualism grounds the refusal of Definition 3. If consciousness is not fixed by physical description, it is not fixed by computational description either, and whether a subject is present cannot be read off the computational trajectory." This overstated what Dualism alone decides. [organizational-invariance](/concepts/organizational-invariance/) L78 says invariance "is compatible with dualism about its *nature*" and "A reader who assumes every dualist must reject machine consciousness misreads the tenet". [substrate-independence](/concepts/substrate-independence/) L48 says "dualism says experience is non-physical, not which physical systems an experiencer can couple with". A Chalmers-style dualist can therefore accept Definition 3's level-independence. On the Map's own pages the refusal rests on Minimal Quantum Interaction (the grain dispute, organizational-invariance L80; substrate-independence L190). NEW: "Dualism permits the refusal of Definition 3 without forcing it. If consciousness is not fixed by physical description, it is not fixed by computational description either. Yet a dualist who holds with Chalmers (1996) that experience is an [organizational invariant](/concepts/organizational-invariance/) can accept Definition 3, so the tenet does not decide between it and the Map's sub-computational reading. For the Map, Minimal Quantum Interaction settles the question: with the interface at quantum indeterminacy, whether a subject is bound is a sub-computational fact and cannot be read off the computational trajectory." The phrase "does not decide between" also matches the audit regex. It now agrees with the lede ("for the Map whether a subject is bound is a sub-computational fact") and with L72 ("any exclusion comes from the Map's own tenet").
+  - **References**: added Chalmers, D. J. (1996), *The Conscious Mind*, ch. 7, OUP, which matches organizational-invariance L113. Renumbered 1–10. It is keyed (Chalmers, 1996) and is distinct from Chalmers & McQueen 2022.
+  - **hedge_density is left as a recorded false-high, not padded** (1.98 → 1.93/kw against a 2.75 floor). 3 of the 6 hedge hits are inside Kleiner and Ludwig quotations ("may determine", "might leave enough room" ×2). The page calibrates through conditionals and credence statements that the lexical list cannot see: "coherent with the tenets without being evidence for them" (lede), "which this paper does not establish" (Scope), "an unsettled reading of Tenet 3" (L72), "a candidate the Map holds at low credence" and "an address, not a discharge" (L82), "This is where the criterion is weakest" (L86), "if, as the authors expect" (L92), "the Map has not settled that" (L102), and "coherence, not independent evidence" (L110).
+  - **Anchor-side note (tooling)**: causal-closure's single underdetermination regex hit (L196) is a negation: "The position is not empirically equivalent to physicalism". The anchor's real calibration sentence (L126, "the Map's position also involves metaphysical commitments beyond empirical evidence") matches no pattern. So check 3 fires on every topic anchored on causal-closure that lacks a marker: 19 of the 51 such topics today. This was not fixed here; it is reported to the driver.
+- **Reasoning mode**: engagement with Kleiner & Ludwig's Definition 3: Mode Three, unchanged. The refusal is now grounded in Minimal Quantum Interaction plus the sub-computational reading rather than in Dualism alone, and the boundary is marked explicitly ("does not decide between"). No label leakage.
+- **Metrics** (`tools.curate.anchoring`): before: words 3037, hedges 6 (1.976/kw), strong 1 (0.329/kw), underdetermination 0, 1 flag (causal-closure: hedge_density + underdetermination_markers). After: words 3109, hedges 6 (1.930/kw), strong 1 (0.322/kw), underdetermination 1, **0 flags**. `anchoring_audit_exempt` was NOT set.
+- **Word count** (`analyze_length`; topics soft 3,000 / hard 4,000): 3037 → 3109 (+72). With the P3 fold (~600) the page lands at ~3,709, under the hard limit.
+- **Untouched**: the deep review's installs (Objections and replies, the L86 taxonomy attribution, "if, as the authors expect", "Such an AI's talk…", the amplification-pathway clause) and every Kleiner & Ludwig quotation.
+- **ai_system**: `claude-opus-5-5`, unchanged (the running model is claude-opus-5-5). ai_modified 2026-11-02T08:41:17+00:00.
+- **Published**: yes
 
 ## 2026-11-02T07:57:19+00:00 - refine-draft
 - **Status**: Success
