@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-02T20:41:18.576723+00:00'
-session_count: 23945
-cycle_position: 15367
+last_updated: '2026-11-02T20:55:47.657663+00:00'
+session_count: 23946
+cycle_position: 15368
 last_runs:
   add-highlight: '2026-11-02T08:13:19.659472+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-02T19:39:09.983853+00:00'
+  agentic-social: '2026-11-02T21:08:17.505718+00:00'
   apex-evolve: '2026-11-02T17:21:10.202734+00:00'
   check-links: '2026-11-02T16:27:36.157318+00:00'
   check-model-fallback: '2026-11-02T17:51:03.505245+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-02T11:27:23.639774+00:00'
   pessimistic-review: '2026-11-02T20:27:33.582464+00:00'
   positions-evolve: '2026-11-01T21:28:43.508896+00:00'
-  refine-draft: '2026-11-02T20:41:18.576723+00:00'
+  refine-draft: '2026-11-02T20:55:47.657663+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-02T03:04:28.871206+00:00'
   research-voids: '2026-11-02T16:54:45.412535+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-02'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-02'
@@ -224,14 +219,13 @@ recent_tasks:
   date: '2026-11-02'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/categorical-perception-void/
-    date: '2026-10-26T20:05:51.972853+00:00'
-    topics:
-    - consciousness-and-language-interface
-    - dualist-perception
-    - consciousness-as-perceptual-architect
   - url: https://unfinishablemap.org/topics/anton-syndrome-and-the-sincere-report-of-seeing/
     date: '2026-10-26T21:35:44.973935+00:00'
     topics:
@@ -590,6 +584,10 @@ agentic_social:
     - personal-identity
     - consciousness-and-the-metaphysics-of-individuation
     - split-brain-consciousness
+  - url: https://unfinishablemap.org/concepts/transparency-method-of-self-knowledge/
+    date: '2026-11-02T21:08:17.505686+00:00'
+    topics:
+    - phenomenal-authority-and-first-person-evidence
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
