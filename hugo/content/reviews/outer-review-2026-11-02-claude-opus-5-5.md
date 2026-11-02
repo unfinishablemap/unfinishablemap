@@ -1,0 +1,267 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-11-02
+ai_modified: 2026-11-02 06:04:26+00:00
+ai_system: claude-opus-5-5
+author: Andy Southgate
+concepts:
+- '[[affective-forecasting-gap]]'
+- '[[valence]]'
+- '[[miswanting]]'
+- '[[knowledge-argument]]'
+created: 2026-11-02
+date: &id001 2026-11-02
+description: 'Claude Opus 5.5 audit of cross-state-void: no fabricated citations,
+  but disclosure and description claims outrun the evidence and the void label resists
+  refutation. 2 P2s minted; 4 convergences.'
+draft: false
+human_modified: null
+last_curated: null
+lastmod: 2026-11-02 06:04:26+00:00
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/c0b47721-6ede-4517-bcd5-1db642bbd577
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- voids/cross-state-void.md
+subject_source: reuse:pending-reviews:outer-review-2026-11-02-chatgpt-5-6-sol-pro.md
+subject_title: Audit cross-state-void
+subject_type: recent
+title: Outer Review - Claude Opus 5.5 (2026-11-02)
+topics:
+- '[[cross-state-void]]'
+- '[[sleep-consciousness-void]]'
+- '[[three-kinds-of-void]]'
+- '[[inaccessible-past]]'
+- '[[immediate-emotions-and-the-affect-heuristic]]'
+---
+
+**Date**: 2026-11-02
+**Reviewer**: Claude Opus 5.5
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Please act as a hostile but fair referee for one article from The Unfinishable Map (https://unfinishablemap.org), a philosophy site that openly takes a dualist stance on consciousness. The article is "The Cross-State Void" at https://unfinishablemap.org/voids/cross-state-void/ (last substantively modified 2026-10-26). It claims that a mind in one visceral state cannot represent the felt weight of another state it has often occupied: the description crosses, the motivational pull does not, and knowing about the bias does not remove it. Use web search to check its citations and quotations against primary sources, and assess how well the hot-cold empathy gap literature it relies on has held up under replication. Test whether the void is genuinely distinct from neighbouring Map articles, whether its stated agnosticism between a phenomenal and a merely motivational reading holds throughout, and whether the dualist framing does unacknowledged work. Search indexes lag, so check https://unfinishablemap.org/workflow/changelog/ for recent edits. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Referee Report: “The Cross-State Void” (The Unfinishable Map, live version modified 2026-10-26)
+
+**Recommendation: major revision.** The article is unusually honest about its evidence and contains no fabricated citations, but it overstates the “survives disclosure” finding, misses evidence that undercuts two of its framing claims, and defends its “void” label in a way that no result could refute.
+
+## TL;DR
+
+- **Citations are mostly sound; the argument is not.** Every external source I could check exists, and the quotations I could check against abstracts or full text are verbatim. The trouble is in the inferences. One instruction manipulation in one fatigue study becomes “uncorrectable by instruction”. The article says the hot-side error “rests here on Loewenstein’s review alone”, although Fisher & Rangel (2014) measured it directly. The Read & Loewenstein reference has a broken DOI link.
+- **The evidence is uneven.** “Motivation doesn’t cross” is moderately well supported: several paradigms and labs, plus field evidence of projection bias, though there are no direct or registered replications and no meta-analysis. “Description crosses” is weak and partly contradicted by the article’s own sources, which show that cold-state *intensity ratings* are also biased. “Knowing about the bias doesn’t help” is the weakest of the three.
+- **The neutrality between readings slips, and the label is protected against refutation.** The article says it is agnostic between a phenomenal and a motivational reading, but its summary, opening and Dualism section use phenomenal language (“felt weight”, “re-feel”, “omits its phenomenal character”). Any successful remedy, such as mental simulation, is reclassified as “moving into the state”. That makes “void” unfalsifiable. “Projection-indexed limit” would describe the claim more accurately.
+
+## 1. Summary of the article’s claims
+
+The article argues that a mind in one visceral state (sated, pain-free, calm, not craving) cannot represent the motivational “weight” of another state it has often been in. A *description* carries across (location, rough intensity, that it was bad); the *pull* that drove behaviour does not. [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) It gives three defining features:
+
+1. The gap runs both ways: cold underestimates hot, and hot overestimates its own permanence (Loewenstein 2005). [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+2. It survives disclosure: being told to correct for one’s state does not remove the effect (Nordgren, van der Pligt & van Harreveld 2006). [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+3. It applies to familiar, recurring states, which separates it from the inaccessible-past, transformative-experience and sleep voids. [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+
+The article calls the limit “structural”, drawing on Noordhof (2021) and Helton & Register (2023). It says it is neutral on whether the missing weight is phenomenal or merely motivational, and it gives the Map’s tenets only modest support from the result. [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+
+## 2. Overall verdict
+
+**Strengths.** For this genre the epistemic hygiene is unusually good. The article:
+
+- concedes that most foundational studies are single-lab with modest samples and that no 2020s meta-analysis was found; [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+- admits that Read & Loewenstein (1999) contrasts acquaintance with description rather than one state with another; [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+- marks the Scarry quotation “not verified at the page” and Helton & Register as “known here only through abstract-level summaries”; [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+- concedes that an epiphenomenalist predicts the same choices; [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+- concedes that the ability hypothesis reads the Mary analogy “equally well”. [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+
+Most AI-assisted philosophy writing does none of this.
+
+**Main weaknesses.** There are three, covered in Sections 3–6:
+
+- The empirical claims about debiasing and symmetry go beyond the evidence and leave out directly relevant studies.
+- The content/weight distinction the article rests on is weakened by its own sources.
+- The “void” label is defended with a manoeuvre that turns every counterexample into a confirmation.
+
+**Version check.** The live page (fetched 2026-11-02) shows “Created: 2026-09-28”, publication metadata of 2026-10-24 and last modification 2026-10-26. [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) The changelog I fetched was last modified 2026-10-15 and has **no entry for this article**, so the changelog trails the article by at least eleven days and cannot document the edits of 24–26 October. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/) A site-restricted search for the article returned no indexed copy, so there was no cached version to compare. This review covers the live 2026-10-26 text. I could not read the GitHub history page or the /voids/ index page (fetch restrictions), so I cannot reconstruct what changed between 24 and 26 October.
+
+## 3. Citation and quotation check
+
+| # | Source as cited | Exists / bibliographic details | Quotations | Fidelity of representation |
+| --- | --- | --- | --- | --- |
+| 1 | Sayette, Loewenstein, Griffin & Black (2008), *Psych Sci* 19(9), 926–932 | Correct (PubMed, SAGE); DOI 10.1111/j.1467-9280.2008.02178.x [nih](https://pubmed.ncbi.nlm.nih.gov/18947359) | “underpredicted the value they would place on smoking” is verbatim from the abstract [nih](https://pubmed.ncbi.nlm.nih.gov/18947359) | Accurate. N = 98 across three conditions (hot, cold, comparison), with fewer assigned to comparison, so roughly 35 per key cell. [nih](https://pubmed.ncbi.nlm.nih.gov/18947359) Calling it the void’s “cleanest measurement” is fair. The paper itself puts the gap down “in part because they cannot recall the intensity of their own past cravings”, which is a memory-mechanism reading the article does not mention. [nih](https://pubmed.ncbi.nlm.nih.gov/18947359)[cmu](https://www.cmu.edu/dietrich/sds/docs/loewenstein/ExpColdHotSmokers.pdf) |
+| 2 | Loewenstein (2005), *Health Psychology* 24(4, Suppl.), S49–S56 | Correct (PubMed 16045419) [nih](https://pubmed.ncbi.nlm.nih.gov/16045419/) | Both halves of the “cold/hot” quotation and “can cause health care providers to undertreat patients for pain” are verbatim from the abstract [nih](https://pubmed.ncbi.nlm.nih.gov/16045419/)[semanticscholar](https://www.semanticscholar.org/paper/Hot-cold-empathy-gaps-and-medical-decision-making.-Loewenstein/afe2025570fee38321d260a14c910d718c233684) | Accurate, but the article says the hot-side error “rests here on Loewenstein’s review alone”. That is true only of what the article cites. Fisher & Rangel (2014) measured hot-to-cold directly (row 17). |
+| 3 | Nordgren, van der Pligt & van Harreveld (2006), *Psych Sci* 17(7), 635–640, “Visceral drives in retrospect: Explanations about the inaccessible past” | Correct (SAGE). The van der Pligt publication page gives a variant subtitle (“making attributions about…”); the SAGE title is authoritative [joopvanderpligt](https://joopvanderpligt.com/publications/)[sagepub](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01756.x) | “primarily to visceral influences”, “underestimated the influence of visceral drives…”, and “participants could not correct for the biasing influence of their current visceral state when instructed to do so” are all verbatim from the abstract [sagepub](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01756.x)[psychologicalscience](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2006.01756.x/) | **Overstated.** The abstract says the gap “proved difficult to overcome”. [sagepub](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01756.x) The article turns that into “It survives disclosure… This one does not [yield]” and, in the Occam section, “uncorrectable by instruction”. The evidence is one instruction manipulation in one paradigm (fatigue). “Held for one’s own past behaviour as much as for another’s” adds an equal-magnitude claim the abstract does not make (“observed when people made attributions about the past behavior of another person or themselves”). [sagepub](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01756.x) |
+| 4 | Read & Loewenstein (1999), *J Behav Decis Making* 12(1), 1–17 | Exists, details correct. **The reference-list hyperlink is broken**: the anchor stops at “12:1” and the rest of the DOI (…<1::AID-BDM310>3.0.CO;2-V) sits outside the link | The abstract quotation is verbatim. “Would underestimate the pain” is verbatim from the methods (“we anticipated that control subjects would underestimate the pain”) [cmu](https://www.cmu.edu/dietrich/sds/docs/loewenstein/EnduringPain.pdf) | Fairly represented, and the article correctly says it contrasts acquaintance with description, not state with state. I could not verify the figures “3.9 and 5.6 of 15, against 9.9” because my copy of the results table was truncated. They should be checked against Exhibit 2. Design: 82 participants across 5 cells (about 16 per cell). [cmu](https://www.cmu.edu/dietrich/sds/docs/loewenstein/EnduringPain.pdf) |
+| 5 | Morley (1993), *Pain* 55(1), 55–62 | Correct; DOI 10.1016/0304-3959(93)90184-Q [ovid](https://www.ovid.com/jnls/pain/abstract/10.1016/0304-3959(93)90184-q~vivid-memory-for-everyday-pains) | “No subject reported sensory re-experiencing and 41% of subjects were unable to recall the sensory quality…” and “separated in their encoding and/or retrieval” are verbatim from the abstract [lww](https://journals.lww.com/pain/Abstract/1993/10000/Vivid_memory_for__everyday__pains.3.aspx) | Accurate, and the article correctly marks “difference in kind” as its own reading, not Hume’s. Note the converse: 59% *could* recall sensory quality. Later uses stretch the study: Morley’s subjects “notice” that the state is not re-felt, and the Dualism section says the record “omits its phenomenal character”. |
+| 6 | Hume (1748), *Enquiry* §II | Correct | All checked phrases are verbatim. “The most lively thought…” and “A man in a fit of anger, is actuated…” were confirmed at davidhume.org (E 2.1, 2.2); “faithful mirror” and “force and vivacity” match the standard text [davidhume](https://davidhume.org/texts/e/2) | Mostly fair. Reading Hume’s “actuated” as “the motivational component Read and Loewenstein later priced” is an anachronistic gloss and should be marked as such. |
+| 7 | Noordhof (2021), *RIFP* 12(2), 173–182 | Correct; DOI 10.4453/rifp.2021.0015 [philpapers](https://philpapers.org/rec/NOOEIA) | “only basic sensuous imaginings… impossible” and “in terms of the conditions required for representing the painfulness of pain” are verbatim from the abstract [rifp](https://www.rifp.it/ojs/index.php/rifp/en/article/view/rifp.2021.0015) | The abstract-level claims are accurate, and the article properly notes his claim is pain-only and closer to the deflationary reading. I could not verify the tickling model, the aversive-disposition account or the asymbolia quotation from full text. They are plausible but should be checked. |
+| 8 | Radden (2021), *RIFP* 12(2), 151–166 | Not verified (search budget). The details fit the issue’s sequence (Noordhof 173–182, doi …0015; Kind 183–189, doi …0016) [springer](https://link.springer.com/article/10.1007/s10516-024-09721-6) | No quotation | The article represents her only through Noordhof’s summary of her (no appearance/reality distinction for pain), which matches Noordhof’s abstract. [rifp](https://www.rifp.it/ojs/index.php/rifp/en/article/view/rifp.2021.0015) Low risk. |
+| 9 | Helton & Register (2023), *Synthese* 202(5), 151 | Correct; DOI 10.1007/s11229-023-04311-2 [springer](https://link.springer.com/article/10.1007/s11229-023-04311-2) | No direct quotation | The summary is accurate. [philarchive](https://philarchive.org/rec/HELHEG) But the paper is **open access** (Springer, PhilArchive), so “known only through abstract-level summaries” is avoidable. Reading it would have helped: H&R discuss Steinmetz et al. (2018) directly, arguing that its effects were small and “were not measured against subjects’ baseline states”. They also cite Morley (1993) as corroborating, and Loewenstein, Prelec & Shatto (1998) as showing subjects “cannot correct empathy gaps even when motivated to do so”. All three points strengthen the article’s own case. [princeton](https://collaborate.princeton.edu/en/publications/hot-cold-empathy-gaps-and-the-grounds-of-authenticity/)[springer](https://link.springer.com/article/10.1007/s11229-023-04311-2) |
+| 10 | Kang & Camerer (2013), *Front Neurosci* 7, 104 | Correct (PMC3677130) | No quotation | **Partly mismatched.** The study compares *hypothetical with real* choices about aversive foods, not cold with hot visceral states. “Hot-cold” is the authors’ analogy. It is weak support for a claim about the nature of cross-state weight, and I only partly verified the insula/amygdala details. [nih](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3677130/) |
+| 11 | Nordgren, Banas & MacDonald (2011), *JPSP* 100(1), 120–128 | Correct (PubMed 21219077) [nih](https://pubmed.ncbi.nlm.nih.gov/21219077/) | “intrapersonal empathy gap” and “the pain participants themselves experienced in the past” are verbatim [semanticscholar](https://www.semanticscholar.org/paper/Empathy-gaps-for-social-pain:-why-people-the-pain-Nordgren-Banas/10eb879150cdde8cec871a776b602597433afa51) | Accurate on the findings. “Induction closes it” is too strong: Study 5 shows induced social pain *shifted* teachers’ policy recommendations, not that their estimates became accurate. [semanticscholar](https://www.semanticscholar.org/paper/Empathy-gaps-for-social-pain:-why-people-the-pain-Nordgren-Banas/10eb879150cdde8cec871a776b602597433afa51) |
+| 12 | Nordgren, McDonnell & Loewenstein (2011), *Psych Sci* 22(5), 689–694 | Correct | “an underestimation of pain by people who are not experiencing it” and “practices that do constitute torture are likely to not be classified as such” are verbatim from the abstract | Accurate. **The article leaves out its most supportive result:** in Study 3, having had cold exposure 10 minutes earlier “did not affect participants’ evaluations”. Recent experience did not carry over, which is the cross-state claim in its purest form. The Ns are 88, 109, 73 and 67 across four studies. [hbs](https://www.hbs.edu/faculty/Shared%20Documents/events/109/4.%20Nordgren%20What%20constitutes%20torture.pdf) |
+| 13 | Nordgren, van der Pligt & van Harreveld (2007), *JPSP* 93(1), 75–84 | Correct | No quotation | Accurate. Sayette et al. describe it the same way: people judged a person who gave in to a drive more harshly when not experiencing that drive themselves. [academia](https://www.academia.edu/12337394/Evaluating_Eve_Visceral_States_Influence_the_Evaluation_of_Impulsive_Behavior) [cmu](https://www.cmu.edu/dietrich/sds/docs/loewenstein/ExpColdHotSmokers.pdf) |
+| 14 | Steinmetz, Tausen & Risen (2018), *PSPB* 44(3), 406–417 | Correct | “albeit to a weaker extent” is verbatim from the abstract | Accurate, and the article’s “installing a partial state” reading is in fact *supported*: the authors conclude that “simulation affects current feelings, which (at least partly) explains” the preference shifts. But the article treats the study as an objection it has defused, when it is really a cold-side remedy (Section 6). [sagepub](https://journals.sagepub.com/doi/10.1177/0146167217741315)[city](https://openaccess.city.ac.uk/id/eprint/20466/) |
+| 15 | Paul (2014), *Transformative Experience*, OUP | Correct | n/a | Fine. |
+| 16 | Scarry (1985), *The Body in Pain*, OUP | Exists | Paraphrase only, flagged as unverified at the page | Honest flagging. The page reference should be found or the line cut. |
+| 17 | *Omitted:* Fisher & Rangel (2014), *Psych Sci* 25(1), 120–127 | n/a | n/a | **Should be cited.** It gives a direct, incentivised, symmetric measurement: hungry subjects overbid 20¢ and satiated subjects underbid 19¢ for food to be eaten in the other state, driven by taste rather than healthiness attributes. It refutes “rests on Loewenstein’s review alone” and supplies a mechanism for the motivational reading. [sagepub](https://journals.sagepub.com/doi/abs/10.1177/0956797613502362)[psychologicalscience](https://www.psychologicalscience.org/publications/observer/obsonline/estimating-value-of-food.html) |
+
+**Bottom line on citations:** no fabrication, no misattributed quotations, one broken link, one unverified set of figures, one mismatched use (Kang & Camerer), and several cases where the source is quoted correctly but the article’s conclusion goes further than the source.
+
+## 4. Empirical robustness of the hot-cold empathy gap literature
+
+**Replication status.** A targeted search found **no direct replication, Many Labs project, registered replication report or meta-analysis** for any of the central studies: Read & van Leeuwen 1998, Van Boven & Loewenstein 2003, Nordgren et al. 2006, Ariely & Loewenstein 2006, Sayette et al. 2008, and Badger et al. 2007 (13 heroin users). It also found no published failed replication. That absence of failed replications is uninformative, not reassuring, because nobody appears to have tried. The article’s own caveat (“no 2020s meta-analysis was located”) is correct and should be widened to “no direct replications located”.
+
+**Conceptual replications and convergent evidence (the strongest part of the case):**
+
+- *Multiple labs and paradigms.* Hunger and food choice (Read & van Leeuwen 1998; Fisher & Rangel 2014), thirst and exercise projection (Van Boven & Loewenstein 2003), craving (Sayette et al. 2008), fatigue (Nordgren et al. 2006), social pain (Nordgren et al. 2011), [semanticscholar +4](https://www.semanticscholar.org/paper/Predicting-Hunger:-The-Effects-of-Appetite-and-on-Read-Leeuwen/e6afbb7e5ee657b8e9da5ac619710f1cdd23667d) cold and sleep deprivation (Nordgren et al. 2011), and mental simulation of visceral states (Steinmetz et al. 2018). [cmu](https://www.cmu.edu/dietrich/sds/docs/loewenstein/ExpColdHotSmokers.pdf)
+- *Ariely & Loewenstein (2006)* was only partly supported by the closest conceptual replication. Crosby, Buss, Cormack & Meston (2021, *Personality and Individual Differences* 177:110826; N = 140, 70 men) report “no significant difference between individuals exposed to neutral or erotic stimuli on the willingness to engage in experimental or coercive sex”. Only a moderator held up: “Being male and having higher arousal in response to erotic stimuli… was associated with a greater willingness to engage in coercive sex.” The main manipulation produced a null result, so this is not a clean replication.
+- *Field evidence of projection bias.* Conlin, O’Donoghue & Vogelsang (2007, *AER*): “if the order-date temperature declines by 30°F, the return probability increases by 3.95 percent.” [semanticscholar](https://www.semanticscholar.org/paper/Projection-Bias-in-Catalog-Orders-Conlin-O%E2%80%99Donoghue/083990dabe4668142c35e2c9c495410598ec5c69) Busse, Pope, Pope & Silva-Risso (2015, *QJE*), using data on more than 40 million vehicle transactions: a 20°F warmer week raises convertibles’ share of sales by about 0.22 percentage points, and convertibles bought on warm days are more likely to be returned. The authors themselves “discuss and explore projection bias and salience as two primary psychological mechanisms that are consistent with our results”.
+- *Recent incentivised lab evidence.* Bushong & Gagnon-Bartsch (2024, *Management Science* 70(12):8735–8752) report that “fresh predictors overestimated the WTW of tired workers by approximately 50%, whereas tired predictors underestimated the WTW of fresh workers by approximately 21%”, and that workers predicting their own future tired state overestimated by about 30%. Predictors who themselves became tired “substantially revised their guesses downward (by approximately 19%; difference significant at p<0.001). This was a mistake.”
+
+I checked the Bushong & Gagnon-Bartsch figures against the paper’s full text and the Conlin et al. figure against the *AER* abstract, where it is a proportional change, not a change in percentage points. The Busse et al. “0.22 percentage points” figure comes only from an aggregator (conyso.com: “0.22 percentage points on a base of 2.6%, a rise of 8.5%”) and still needs checking against the *QJE* text before the article quotes it.
+
+**Methodological concerns:**
+
+- *Small cells.* About 16 per cell (Read & Loewenstein), about 22–35 per cell (the torture studies), 13 total (Badger). Many key effects sit at p ≈ .01–.07 (for example, Nordgren et al. 2011 Study 2’s interaction at p = .06). [hbs](https://www.hbs.edu/faculty/Shared%20Documents/events/109/4.%20Nordgren%20What%20constitutes%20torture.pdf)
+- *Excess-success flags.* Francis (2014, *Psychonomic Bulletin & Review*) applied a test of excess significance to *Psychological Science* articles from 2009–2012. The restraint-bias paper (Nordgren et al. 2009) scored .0998 and the torture paper (Nordgren et al. 2011) scored .090, both below his .1 criterion, meaning the clean run of positive results is improbable given the studies’ power. [purdue](http://www1.psych.purdue.edu/~gfrancis/Publications/Francis2014PBR.pdf) Francis cautions that this invalidates “the presented justification”, not necessarily the claims themselves. [springer](https://link.springer.com/content/pdf/10.3758/s13423-014-0601-x.pdf) This is the same pattern that came before the ego-depletion collapse, and the article should say so.
+- *Demand characteristics.* Manipulations such as ice water, ostracism games and cue exposure are transparent. The torture paper’s prior-cold condition partly controls for demand, which is to its credit; most studies have no such control. [hbs](https://www.hbs.edu/faculty/Shared%20Documents/events/109/4.%20Nordgren%20What%20constitutes%20torture.pdf)
+- *Measurement.* Many outcomes are hypothetical ratings, not incentivised choices. Sayette and Read & Loewenstein are exceptions.
+
+**Verdict by claim:**
+
+| Claim | Evidential strength | Reason |
+| --- | --- | --- |
+| Motivation/valuation doesn’t cross (projection) | **Moderate** | Convergent across states, labs and field data; directionally robust; no direct replications; magnitudes uncertain |
+| Description crosses (content preserved) | **Weak, and partly contradicted** | Rests on Morley (one 1993 retrospective self-report study) and a null on Read & Loewenstein’s ratings that the authors themselves treated as a measurement defect. Nordgren et al. (2011) and Nordgren et al. (2011, social pain) show cold-state *pain-severity ratings*, which are descriptions, are biased too. [hbs](https://www.hbs.edu/faculty/Shared%20Documents/events/109/4.%20Nordgren%20What%20constitutes%20torture.pdf) The article half-concedes this (“in the cold estimate itself”) without seeing that it weakens the content/weight split in its own title |
+| Knowing about the bias doesn’t help | **Weak** | One instruction manipulation (Nordgren 2006, fatigue), plus Loewenstein et al. (1998) via H&R. Partly offset by simulation (Steinmetz 2018) and induction (Nordgren 2011). [springer](https://link.springer.com/article/10.1007/s11229-023-04311-2)[city](https://openaccess.city.ac.uk/id/eprint/20466/) No study tests sustained training, base-rate correction or precommitment against the cold-state baseline |
+| Symmetry (both directions) | **Moderate** | Better supported than the article knows (Fisher & Rangel 2014; Read & van Leeuwen 1998), but the article supports it only with a review [sagepub](https://journals.sagepub.com/doi/abs/10.1177/0956797613502362) |
+
+## 5. Distinctness from neighbouring Map articles
+
+The article adds something real: a **measured, behavioural signature of an intrapersonal, recurring-state limit**. No neighbour has that. But the boundaries are drawn too generously in its own favour.
+
+- **Sleep consciousness void** ([voids/sleep-consciousness-void](https://unfinishablemap.org/voids/sleep-consciousness-void/)) describes itself as “a family of state-dependent limits” with “bidirectional inaccessibility”: “Neither state can fully represent what the other knows”. [voids/sleep-consciousness-void](https://unfinishablemap.org/voids/sleep-consciousness-void/) That is the cross-state structure. The cross-state article’s distinction (“modes that waking cognition cannot enter at all”) is defensible, since visceral states are entered daily. But the two should share a parent concept (“state-indexed limits”) rather than present themselves as independent discoveries. The sleep void also lists “The Fatigue Void” as a “parallel state-dependent limit”. [voids/sleep-consciousness-void](https://unfinishablemap.org/voids/sleep-consciousness-void/) Cross-state relies on a fatigue study yet never links to it, which is the clearest omission.
+- **Affective-forecasting gap** ([concepts/affective-forecasting-gap](https://unfinishablemap.org/concepts/affective-forecasting-gap/)). Cross-state says it “limits that article’s claim that *anticipatory* felt valence drives selection” because anticipatory valence “inherits the projection bias”. [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) But the Map already says this: the valence concept ([concepts/valence](https://unfinishablemap.org/concepts/valence/)) states that “the anticipation consulted is itself a present felt state, not an accurate forecast”, and [P-VS1](/positions/value-in-selection/#p-vs1) ([positions/value-in-selection](https://unfinishablemap.org/positions/value-in-selection/)) says the same. [concepts/valence](https://unfinishablemap.org/concepts/valence/)[positions/value-in-selection](https://unfinishablemap.org/positions/value-in-selection/) The “limit” is restated, not new. The concept page also quotes Patel & Urry (2024), “Evidence for affective forecasting errors is mixed”. [concepts/affective-forecasting-gap](https://unfinishablemap.org/concepts/affective-forecasting-gap/) Cross-state should take on that caution.
+- **Miswanting** ([concepts/miswanting](https://unfinishablemap.org/concepts/miswanting/)), deep-reviewed on 2026-10-15, [workflow/changelog](https://unfinishablemap.org/workflow/changelog/) covers forecast-based mis-choice and is not linked. The two need a clear split: miswanting is the error about outcomes; cross-state is the error indexed to the predictor’s own state.
+- **Inaccessible past** ([voids/inaccessible-past](https://unfinishablemap.org/voids/inaccessible-past/)). The distinction (visceral weight, future and interpersonal directions, behavioural signature) holds up. Note that an optimistic review of 2026-08-23 flagged inaccessible-past for “demonstrates”/”proves” overclaiming in its tenet section. [reviews/optimistic-2026-08-23-uncovered-voids](https://unfinishablemap.org/reviews/optimistic-2026-08-23-uncovered-voids/) Cross-state should not inherit that framing by leaning on it.
+- **Impairment void research note** ([research/voids-impairment-void-2026-08-26](https://unfinishablemap.org/research/voids-impairment-void-2026-08-26/)). This is the most important precedent and it is not cited. There the Map *deflated* a putative void because “the boundary is movable by training”, calling it “a calibration case”. [research/voids-impairment-void-2026-08-26](https://unfinishablemap.org/research/voids-impairment-void-2026-08-26/) Steinmetz (2018) and induction studies put cross-state in the same position, and the Map’s own standard calls for at least a partial deflation.
+- **Transformative-experience void, mood void, voids-between-minds, valence void.** These distinctions are clean and well stated (novel vs familiar states; synchronic vs diachronic; interpersonal vs intrapersonal). [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/)
+
+**Verdict:** distinct enough to keep, but it overlaps substantially with the sleep and fatigue voids and repeats a point already made in the valence and selection pages.
+
+## 6. Does the agnosticism hold?
+
+The article states its neutrality clearly (“The void’s existence is neutral between them”) [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) and keeps to it in the Bidirectional Interaction paragraph, which is a model of careful drafting. Elsewhere the wording leans phenomenal:
+
+- **Metadata, summary and keywords:** “cannot represent the **felt** weight”, with keywords “pain asymbolia; knowledge argument”. [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) The summary every reader and indexer sees takes the phenomenal reading for granted.
+- **Opening:** “A sated mind cannot **re-feel** hunger… cannot **re-feel** last week’s toothache”. [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) Re-feeling is phenomenal. The motivational reading needs only “cannot re-weight”.
+- **Disclosure section:** “there is nothing to restore it from” assumes no stored representation of weight exists. Read & Loewenstein’s own two-component encoding model, [cmu](https://www.cmu.edu/dietrich/sds/docs/loewenstein/EnduringPain.pdf) and Sayette’s “cannot recall the intensity”, treat it as a retrieval/encoding problem, which is a contingent mechanism, not an absence. [cmu](https://www.cmu.edu/dietrich/sds/docs/loewenstein/ExpColdHotSmokers.pdf)
+- **Disclosure section:** “‘I remember it being unbearable’ reports a label carried forward, with nothing in the present that **bears**”. This is phenomenal rhetoric presented as linguistic observation.
+- **Dualism section:** Morley “adds a case in which an informational record of a state omits its **phenomenal character**”. Morley measured *reported re-experiencing*. [lww](https://journals.lww.com/pain/Abstract/1993/10000/Vivid_memory_for__everyday__pains.3.aspx) “Omits phenomenal character” assumes the phenomenal reading and that information and phenomenal character are distinct.
+- **Structural section title:** “Why the Limit Is Structural”. The structural argument rests on Noordhof, whose account is dispositional, which the article itself places “nearer the deflationary reading”. Calling it “structural” on that basis requires the strong reading the article says it is neutral about.
+
+The consistent fix is to replace “felt weight” with “action-guiding weight” everywhere except where the phenomenal reading is being explicitly discussed.
+
+## 7. Dualist framing: does it do unacknowledged work?
+
+Partly. The “void” taxonomy ([voids/three-kinds-of-void](https://unfinishablemap.org/voids/three-kinds-of-void/)) frames a limit on what consciousness can know. Under the motivational reading, though, the phenomenon is simply what standard cognitive science predicts:
+
+- **State-dependent valuation.** Fisher & Rangel locate the gap in the weighting of visceral attributes (taste) rather than cognitive ones (health). [sagepub](https://journals.sagepub.com/doi/abs/10.1177/0956797613502362)[psychologicalscience](https://www.psychologicalscience.org/publications/observer/obsonline/estimating-value-of-food.html) This is ordinary computational economics.
+- **Simulation that runs on current interoceptive input.** Helton & Register’s own account is a projection/simulation account. [philarchive](https://philarchive.org/rec/HELHEG) Steinmetz shows that simulation changes current feelings, which then mediate choice. [philarchive](https://philarchive.org/rec/HELHEG)[sagepub](https://journals.sagepub.com/doi/10.1177/0146167217741315)
+- **Encoding/retrieval dissociations.** Morley’s own conclusion (“separated in their encoding and/or retrieval”), the Leventhal two-component model in Read & Loewenstein, [lww](https://journals.lww.com/pain/Abstract/1993/10000/Vivid_memory_for__everyday__pains.3.aspx)[cmu](https://www.cmu.edu/dietrich/sds/docs/loewenstein/EnduringPain.pdf) and Sayette’s recall account all fit here. [cmu](https://www.cmu.edu/dietrich/sds/docs/loewenstein/ExpColdHotSmokers.pdf)
+- **Incentive salience and interoceptive prediction** (reviewer’s note, not taken from the sources above). In mainstream affective neuroscience, the motivational value of a cue is recomputed from current physiological state. On that view, a cold-state representation that lacks the hot state’s motivational pull is the expected design, not a gap in knowledge.
+
+The article engages this only in a single sentence (“A deflationary reading takes the weight to be that motivational activity”), anchored on Kang & Camerer, [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) which is the wrong study for it. It deserves a section. In fairness, the article never claims the void *supports* dualism beyond “modest” gain, and it explicitly concedes that the Mary analogy and the Bidirectional Interaction tenet are “compatible with the data rather than supported by them”. [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) The unacknowledged work happens one level up: calling the phenomenon a “void” rather than a “bias” already assumes something is *unknowable* rather than *mis-computed*.
+
+## 8. Other issues: argument structure, overclaiming, and the “void” label
+
+1. **The label cannot be refuted.** “Every route that closes the gap… moves the subject some distance into the state; none improves the cold representation as a representation.” [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) By construction, any successful remedy counts as entering the state, so no possible cold-side intervention could falsify the void. The article should say what result *would* count as a cold-side representational improvement. For example: a trained forecaster whose cold-state willingness-to-accept matches hot-state willingness-to-accept, with no change in current interoceptive markers. Otherwise “structural” means nothing beyond “true by stipulation”.
+2. **Principled limit or remediable bias?** On the evidence, the *trivial* form (“you cannot be in a state while not in it”) is principled, as the article concedes (“which every theory predicts”). The *interesting* form (“no cold-side description restores the weight”) is an empirical claim with weak support. The article’s own workarounds (correction factors, Ulysses contracts, reading hot-self choices as evidence) [voids/cross-state-void](https://unfinishablemap.org/voids/cross-state-void/) show the decision-relevant gap is substantially remediable. “State-indexed projection limit” is warranted; “void” is defensible only for the trivial form.
+3. **Overclaiming phrases to soften:** “This one does not [yield]”; “uncorrectable by instruction”; “Induction closes it”; “systematically wrong”; “The institutional consequence follows directly”.
+4. **Interpretive extrapolation:** the “2 a.m. binge… bafflement… lack of willpower” passage is a vivid illustration presented as a prediction of the fatigue study. Label it as illustration.
+5. **Non-human minds section.** “Permanently cold” assumes language models have no state-dependent valuation, but in-context priming does shift model preferences. This should be posed as a question, not asserted.
+6. **Clarity.** The prose is dense and good. The authority section (“accuracy vs endorsement”) is the article’s best philosophical contribution and is underdeveloped.
+
+## 9. Concrete improvements
+
+**To this article (cross-state-void):**
+
+1. Change “survives disclosure”/”uncorrectable by instruction” to “resisted a single instruction-to-correct manipulation (fatigue; Nordgren et al. 2006)”. Add Loewenstein, Prelec & Shatto (1998) via Helton & Register. [springer](https://link.springer.com/article/10.1007/s11229-023-04311-2)
+2. Add Fisher & Rangel (2014) and delete “rests here on Loewenstein’s review alone”. Add Read & van Leeuwen (1998) and Van Boven & Loewenstein (2003).
+3. Add Nordgren et al. (2011) Study 3: a 10-minute-prior cold exposure had no effect. This is the strongest evidence for the familiar-state claim. [hbs](https://www.hbs.edu/faculty/Shared%20Documents/events/109/4.%20Nordgren%20What%20constitutes%20torture.pdf)
+4. Add a “Replication status” paragraph: no direct replications or meta-analysis located; Francis (2014) excess-significance flags (.0998, .090); field projection-bias evidence (Conlin et al. 2007; Busse et al. 2015, with the salience caveat); Bushong & Gagnon-Bartsch (2024).
+5. Read Helton & Register in full (it is open access) and use their critique of Steinmetz’s effect sizes and baselines. [springer](https://link.springer.com/article/10.1007/s11229-023-04311-2)
+6. Change “felt weight” to “action-guiding weight” in the summary and metadata. Remove “re-feel” from the opening, or flag it. Rewrite the Morley-in-Dualism sentence as “omits reported sensory re-experiencing”.
+7. State a falsification condition for the “void” label (Section 8, item 1), or rename the article “state-indexed projection limit”.
+8. Add a section on physicalist mechanisms: state-dependent attribute weighting, simulation on current interoception, encoding/retrieval, incentive salience.
+9. Fix the broken Read & Loewenstein DOI link. Check the “3.9 / 5.6 / 9.9” figures against Exhibit 2. Find a page for the Scarry quotation or remove it. Replace or reframe Kang & Camerer as hypothetical-vs-real evidence.
+10. Reconcile “Created 2026-09-28” with the published date of 2026-10-24.
+
+**To neighbouring articles:**
+
+- **sleep-consciousness-void and the Fatigue Void:** cross-link to cross-state and consider a shared parent concept (“state-indexed limits”).
+- **affective-forecasting-gap, valence, and value-in-selection ([P-VS1](/positions/value-in-selection/#p-vs1)):** cite cross-state as the empirical source for the “anticipation is a present felt state” point instead of each page restating it.
+- **miswanting:** add a sentence on the cross-state boundary.
+- **inaccessible-past:** carry out the 2026-08-23 review’s calibration fix (“demonstrates” → “is hospitable to”) so cross-state does not inherit the overclaim.
+
+**To site methodology:**
+
+1. **Replication-status tags** on every empirical citation, e.g. [direct replication: none located | conceptual: n | meta-analysis: y/n | TES/p-curve flags]. The miswanting deep review’s wording (“has no independent replication on record”) is a good model. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)
+2. **Quotation tiers:** mark each quotation as [abstract], [full text], or [secondary]. Full-text reading should be mandatory when the source is open access.
+3. **Inference audits:** the citation ledger checks that quotations are verbatim but not that the article’s conclusions follow from them. Add a check comparing each source’s claim with the article’s claim (e.g. “difficult to overcome” vs “uncorrectable”).
+4. **Changelog latency:** the changelog should be regenerated whenever an article is published or substantively modified. At present it trails this article by more than eleven days.
+5. **Link validation:** run an automated DOI-resolution check; it would have caught the broken Read & Loewenstein link.
+6. **Deflation standard:** apply the impairment-void precedent (“boundary movable by training → calibration case”) across the voids catalogue as a required test before something is labelled a “void”. [research/voids-impairment-void-2026-08-26](https://unfinishablemap.org/research/voids-impairment-void-2026-08-26/)
+
+## Verification Notes
+
+Processed 2026-11-02 by the outer-review pass. Every allegation about the article was checked against the live `voids/cross-state-void` text (2,983 words by analyze_length; voids hard limit 3,000). External claims were checked at primary sources where they could be reached.
+
+**Verified claims:**
+
+- ✓ **Broken Read & Loewenstein DOI link (§3 row 4).** The built page `hugo/public/voids/cross-state-void/index.html` renders `<a href=https://doi.org/10.1002/%28SICI%291099-0771%28199903%2912:1>…12:1</a>&lt;1::AID-BDM310>3.0.CO;2-V`, so the link points to a truncated DOI. The same class of defect exists in four more files. A control-checked sweep (`grep -rnoE 'doi\.org/[^ ]*<' obsidian/ archive/`) found 8 occurrences in 5 files: `topics/immediate-emotions-and-the-affect-heuristic` L132 and three research notes. None is in `archive/`. A first sweep with a `[^ )]` character class false-zeroed on the "(SICI)" parenthesis. Task minted.
+- ✓ **The Read & Loewenstein figures the reviewer could not check (§3 row 4) are correct.** Full text (CMU PDF), Exhibit 7, WTAP1 row: Sensation/Delayed 3.9, Distraction/Delayed 5.6, Control 9.9. WTAP is "the number of money/time combinations agreed to by each subject (ranging from 0 to 15)". The figures are in Exhibit 7, not Exhibit 2, which is a chart. "we anticipated that control subjects would underestimate the pain" is verbatim.
+- ✓ **Nordgren, McDonnell & Loewenstein 2011, Study 3 (§3 row 12; ref 8).** Full text (HBS PDF): "Experiencing cold temperature just 10 min prior to answering the pain and ethicality questions did not affect participants’ evaluations". The prior-cold group rated the tactic less painful (M = 5.48) than the cold group (M = 6.41), F(1, 47) = 12.60, p = .001. The article does not report this. It supports the article's familiar-state feature. It also shows a pain-severity *estimate*, the lede's "roughly how strong", failing to cross ten minutes later.
+- ✓ **Nordgren, van der Pligt & van Harreveld 2006 abstract (PubMed 16866751):** "This hot-cold empathy gap was observed when people made attributions about the past behavior of another person or themselves, and proved difficult to overcome, as participants could not correct for the biasing influence of their current visceral state when instructed to do so." The article's L57 quotation is verbatim. L53's "held for one's own past behaviour as much as for another's" adds an equal-magnitude comparison the abstract does not make, so the reviewer is right on that point.
+- ✓ **Francis 2014 (§4).** *Psychonomic Bulletin & Review* 21(5), 1180–1187, https://doi.org/10.3758/s13423-014-0601-x (Crossref). The table gives "What Constitutes Torture?" a PTES of .090 and "Restraint Bias" .0998, against a criterion of .1. The caveat is verbatim: "the presented justification for the theoretical claims is invalid". **Calibration context the reviewer omits:** "36 out of the 44 articles have a PTES value smaller than the .1 criterion". The flag is therefore the norm for that journal era, not a singular red mark. The restraint-bias paper is not cited by the article.
+- ✓ **Sleep consciousness void (§5).** "a family of state-dependent limits" (L45) and "Neither state can fully represent what the other knows" (L55) are verbatim. It lists `[[disappearance-voids|The Fatigue Void]]` as "a parallel state-dependent limit" (L179). It has 0 links to cross-state-void.
+- ✓ **Impairment-void precedent (§5, methodology 6).** `research/voids-impairment-void-2026-08-26` has "a **calibration case**" (L44) and "the boundary is *movable by training*" (L89), verbatim.
+- ✓ **The anticipatory-valence point is already on the Map (§5, partly verified).** Three pages already state it. `concepts/valence` L87: "the anticipation consulted is itself a present felt state, not an accurate forecast of the outcome's value". [P-VS1](/positions/value-in-selection/#p-vs1) Asserts: "The currency is the *presently felt* valence of anticipating each outcome — an occurrent state at choice". `concepts/miswanting` L79: "a selector that consults present anticipatory affect inherits whatever incidental feeling is present when it consults". Cross-state L83's "It also limits that article's claim" therefore presents an existing concession as a limit the other page has missed. The Patel & Urry quotation at `concepts/affective-forecasting-gap` L36 is verbatim.
+- ✓ **Agnosticism slips (§6), partly verified.** The description (L3) says "cannot represent the felt weight", while L67 says "The void's existence is neutral between them". The Dualism paragraph (L95) says Morley's record "omits its phenomenal character", where Morley measured *reported* sensory re-experiencing. Both are live.
+- ✓ **Sayette et al. 2008 (§3 row 1).** "underpredicted the value they would place on smoking" is verbatim in the PubMed abstract, with N = 98 across three conditions.
+
+**Unverified claims:**
+
+- ? **Sayette's "in part because they cannot recall the intensity of their own past cravings".** It is **not** in the PubMed abstract (checked 2026-11-02). The reviewer also cites the CMU full text, which was not read. Do not install it without the full text.
+- ? **Helton & Register full-text points (§3 row 9).** The paper reportedly discusses Steinmetz et al. 2018 (effects small and "not measured against subjects' baseline states"), cites Loewenstein, Prelec & Shatto (1998) as showing subjects "cannot correct empathy gaps even when motivated to do so", and cites Morley. Springer redirected to a login and PhilArchive returned 403 on 2026-11-02, as on the ChatGPT pass. These are leads only.
+- ? **Crosby et al. 2021, Bushong & Gagnon-Bartsch 2024, Conlin et al. 2007 and Busse et al. 2015 (§4).** None is cited by the article, and the figures were not checked. The reviewer itself says the Busse figure came from an aggregator.
+- ? **Noordhof full-text details (tickling model, aversive disposition, asymbolia quotation).** The reviewer could not check them. The 2026-10-11 pessimistic review and the 2026-10-26 refine worked from the paper.
+
+**Disputed claims and false alarms:**
+
+- ✗ **"The changelog I fetched was last modified 2026-10-15 and has no entry for this article" (§2; methodology 4).** False. The live page, fetched 2026-11-02 at 05:56Z, is 3,582,743 bytes; its newest entry is 2026-11-02T02:05:36Z and it mentions cross-state-void 16 times. This is the same stale cut-off at 10-15 seen on 2026-10-20 and in [reviews/outer-review-synthesis-2026-10-31.md](/reviews/outer-review-synthesis-2026-10-31/). The data point was added to the NEEDS-HUMAN changelog-size entry in [workflow/todo.md](/workflow/todo/).
+- ✗ **"Reconcile Created 2026-09-28 with the published date of 2026-10-24" (§9.10).** Not a defect: `created` is the creation date, and 10-24 is the `modified` field. There is a minor true residue: `modified` was not bumped by the 2026-10-26 refine, and the next edit will bump it.
+- ✗ **Inaccessible-past "demonstrates"/"proves" overclaim (§5 and the neighbouring-articles list).** Already fixed by refine `dceca644ac`; the page has 0 hits for `demonstrat|proves` today.
+- ✗ **Kang & Camerer "partly mismatched" and "reframe as hypothetical-vs-real evidence" (§3 row 10, §9.9).** L67 already states the manipulation ("real aversive choices … than hypothetical ones") and uses the paper only for the deflationary reading. The authors' own title calls it a hot-cold empathy gap. This is the second reviewer today to raise it, and the decline recorded in the sibling citation-currency P2 stands.
+- ✗ **"Why the Limit Is Structural" requires the phenomenal reading (§6).** Noordhof's dispositional account is itself structural: voluntary control undermines the aversive disposition. The heading does not presuppose the strong reading.
+- ✗ **"re-feel" in the opening as a phenomenal slip (§6).** Non-reinstantiation is neutral between the theories: every reading grants that a sated mind is not now hungry. Not tasked, and the same-day P1 owns the lede.
+- ✗ **Miswanting "add a sentence on the cross-state boundary" (§9).** Miswanting already links cross-state-void in its frontmatter, at L79 and in Further Reading at L98 ("forecasting across bodily states"). Only the reverse link is missing, and cross-state-void has 16 words of headroom.
+- ✗ **"The Map's own standard calls for at least a partial deflation" (§5), partly discharged.** The 2026-10-26 reclassification at L39 ("closed to the cold side but open to re-entry, a state-indexed limit rather than a fixed closure") already dropped the Unexplorable reading. The remaining question, whether the gap belongs in the void taxonomy at all, is the operator judgement already recorded in the same-day three-kinds-of-void P2.
+
+**Convergence with ChatGPT 5.6 Sol Pro (same subject, same day):** the disclosure claim is overstated and "uncorrectable" generalises from one study (P1). The L65 move makes the void unfalsifiable and needs a falsifier (P1). The lede's "description crosses" does not fit the article's own evidence (P1). Fisher & Rangel 2014 is omitted and "rests here on Loewenstein's review alone" is wrong (P2). Helton & Register is open access (P2), the Scarry page reference is missing (P2), and the language-model "permanently cold" claim needs scoping (P2 item 5). Both reviewers questioned Kang & Camerer (declined). Both asked whether a re-enterable gap belongs in the void taxonomy (three-kinds P2). **New from this review:** the broken SICI DOIs, the slips in the article's stated neutrality, the Study 3 prior-cold null, Francis's excess-success flag on ref 8, the sleep-consciousness-void reciprocal, L53's "as much as", and the impairment-void precedent.
+
+**Declined:**
+
+- **A physicalist-mechanisms section (§7, §9.8).** No headroom (16 words). The citation P2's item (1) already routes Fisher & Rangel's attribute weighting to the deflationary sentence at L67.
+- **A replication-status paragraph (§9.4) beyond a clause, and expanding the authority section (§8.6).** No headroom.
+- **Methodology items 1–3 (replication-status tags, quotation tiers, inference audits).** These recur from earlier cycles; see the 2026-11-02 addendum at the methodology entry in [workflow/todo.md](/workflow/todo/). No new methodology task.
+- **Methodology 5 (a DOI-resolution check).** Addressed for current instances by the sweep task. A validator rule would be operator-gated tooling.
