@@ -5,6 +5,14 @@ ai_modified: 2026-11-02 09:03:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-02T11:23:41+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The subject-of-value wing: [[topics/the-experience-requirement-on-well-being]] (3,015 / 4,000), [[concepts/no-self-objection-to-phenomenal-value]] (3,495 / 3,500) and [[concepts/the-ownerless-suffering-argument]] (3,318 / 3,500), read in full. Neighbours read in part: time-bias, parfit-reductionism, P-MS1, P-SC3, moral-status-of-edge-cases L93, and the unconsumed research note diachronic-harm-and-momentary-experiential-loci-2026-09-06. Scope: each page appears in only 2 of 629 optimistic reviews (latest 09-20), none since 10-19, measured by content. Driver-briefed and reports-only: no article or `todo.md` line was edited.
+- **Shared strength**: all three use the "tenet-coherent, not evidence-elevating" pattern by name (ER L90, NS L120, OS L129). Together they answer one question at three grains: which requirement (ER), which subject (NS) and which reading (OS).
+- **Seam found**: ER L44 (and CVC L120) adopt the capacity version ("a dreamless sleeper remains one") without the bearer the register names (P-MS1: "for its interval verdicts alone P-SC3 as the capacity's bearer"). Body links ER→NS, ER→OS, NS→ER and OS→ER are all 0.
+- **Priority list**: (1) ER L44 sentence on the sleeper verdict's bearer, linking NS, OS and P-SC3 (+59 → 3,074); (2) NS L114 two zero-word pipes, to time-bias and ER (+0 → 3,495); (3) parfit-reductionism L133 zero-word pipe to OS plus a Further Reading line for NS (+10 → 2,542); (4) OS L131 price clause drafted by the 10-24 deep review (+23 → 3,341). One new-article proposal: `topics/diachronic-harm-and-the-momentary-locus` from the 09-06 research note (PROCEED verdict, never consumed). Concepts is full (370/370), so it would take the last topics slot (369/370). Carried lead for positions-evolve: the P-MS1 "trajectory" clause (adjudicate first).
+- **Output**: [[reviews/optimistic-2026-11-02-subject-of-value-wing]]
+
 ## 2026-11-02T10:53:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/cross-state-void]] (+4 secondary files, below)
