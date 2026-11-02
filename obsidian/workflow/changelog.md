@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 03:37:47+00:00
+ai_modified: 2026-11-02 04:48:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-02T04:48:19+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 111 (every topics/concepts/voids/apex/positions file changed since 2026-10-31T00:00Z). 95 changed after check 158's last scanned commit `d91a875fe9` and were read diff-scoped, with lede and Relation section in full; the 3 new files were read in full. 16 were already in check 158's window, are unchanged since, and were not re-read. The AI cluster (13 pages) was read by the driver. Four read-only subagents read the other 82 pages, and every Warning they returned was quote-checked (`grep -c -F` = 1).
+- **Errors**: 0
+- **Warnings**: 22. 15 are tied to a window edit: wording the fix installed, or a twin it left. 7 sit on unchanged lines of window pages. One is owned (todo L3083), and one, 14 tiebreaker loci, goes to the NEEDS-HUMAN at todo L109. Lens (a), over-correction: none. AI calibration: no drift toward "open"; residual categorical wording at what-it-might-be-like L112/L122 and quantum-hardware L33. Collapse ordering: comparing L60 ("Only consciousness-mediated collapse"; page at 3,999/4,000, untasked) and channel L109 (Note). P-Q3: IIT L82/L86 calls Born-exact selection "metaphysically real" causation.
+- **Notes**: 14
+- **Tasks minted**: 6 P3 refine-draft, inserted above `## Completed Tasks` (active 303 → 309): (1) IIT L82/L86/L158, P-Q3 (+2, 3,996/4,000); (2) what-it-might-be-like L112/L122 plus quantum-hardware L33, AI calibration (+38 / +7); (3) sorkin-delta L91, Tenet 4 twin of the 11-01 sorkin-higher fix (+2); (4) attentional-economics L194 Born wording and L87 effort "supports" (+11); (5) time-consciousness-growing-block L133/L73 "evidence" (+16); (6) phenomenal-transparency L121, the Tenet 3 twin of the 11-01 L117 fix (+10). Every OLD was script-checked at count == 1; deltas are `count_words`.
+- **Check 158 Priority List**: P1, P2 and P4 (todo L3639, L3648, L3657) and P3 (folded into L3523) are all still pending; their pages are unchanged.
+- **Output**: [[reviews/tenet-check-2026-11-02]]
+
 ---
 
 ## 2026-11-02T03:37:47+00:00 - refine-draft
