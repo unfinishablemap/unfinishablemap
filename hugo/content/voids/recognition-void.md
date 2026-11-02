@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-11-01 17:17:00+00:00
+ai_modified: 2026-11-02 21:55:36+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 17:19:24+00:00
-lastmod: 2026-11-01 17:17:00+00:00
+lastmod: 2026-11-02 21:55:36+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -58,11 +58,11 @@ The strongest evidence for the Recognition Void comes from cases where recogniti
 
 ### The Capgras-Prosopagnosia Double Dissociation
 
-Two neurological conditions reveal recognition as a hidden compound of at least two components. In **prosopagnosia**, patients cannot consciously identify familiar faces — yet their skin conductance responses still discriminate familiar from unfamiliar faces (Tranel & Damasio, 1985). The brain performs recognition-relevant computation; conscious identification fails. In **Capgras delusion**, the reverse occurs: patients can name the person in front of them but the feeling of familiarity is absent (Ellis & Young, 1990). They see their spouse's face, identify it correctly, yet insist this person is an impostor.
+Two neurological conditions reveal recognition as a hidden compound of at least two contributions. In **prosopagnosia**, patients cannot consciously identify familiar faces — yet their skin conductance responses still discriminate familiar from unfamiliar faces (Tranel & Damasio, 1985). The brain performs recognition-relevant computation; conscious identification fails. In **Capgras delusion**, the reverse occurs: patients can name the person in front of them but the feeling of familiarity is absent (Ellis & Young, 1990). They see their spouse's face, identify it correctly, yet insist this person is an impostor.
 
 Neither patient can access what is missing. The prosopagnosia patient does not experience "my identification module is offline" — they experience a face that means nothing. The Capgras patient does not experience "my familiarity module is offline" — they experience a person who feels wrong. The void is visible only through its consequences, never directly.
 
-This double dissociation reveals that what seems like a single act — recognising someone — is at minimum two distinct contributions bound together invisibly: perceptual identification and affective familiarity. The binding itself is the void. The Capgras side of this pairing — the affective-route mechanism, the skin-conductance evidence, and the challenge to whether the lesioned channel is truly familiarity-specific — is developed in [Capgras delusion and the affective-recognition channel](/topics/capgras-delusion-and-the-affective-recognition-channel/). Recognition also operates downstream of an earlier filter: the [relevance void](/voids/relevance-void/) shortlists which faces or stimuli enter the recognition pipeline at all, and that shortlisting is opaque to the consciousness whose attention it shapes.
+This double dissociation reveals that what seems like a single act — recognising someone — is at minimum two separable contributions bound together invisibly: perceptual identification and affective familiarity. The binding itself is the void. The Capgras side of this pairing — the affective-route mechanism, the skin-conductance evidence, and the challenge to whether the lesioned channel is truly familiarity-specific — is developed in [Capgras delusion and the affective-recognition channel](/topics/capgras-delusion-and-the-affective-recognition-channel/). Recognition also operates downstream of an earlier filter: the [relevance void](/voids/relevance-void/) shortlists which faces or stimuli enter the recognition pipeline at all, and that shortlisting is opaque to the consciousness whose attention it shapes.
 
 The affective component — the felt familiarity that Capgras strips away — is itself one member of the family of [noetic feelings](/voids/noetic-feelings-void/) that gate cognition from inside. Recognition's two-component structure is a special case of a broader pattern: a heuristic signal (the familiarity feel) produced by machinery consciousness cannot inspect, arriving fused with its perceptual partner. When the signal fails selectively, as in Capgras, the fusion is exposed without becoming observable — you notice *something* is missing but not what was doing the work. This is the perceptual face of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) the Map catalogues across perception, cognition, agency, and memory: phenomenal access reaches the verdict but not the verdict-issuing process.
 
@@ -109,7 +109,7 @@ Strictly speaking, no fully reliable direct method exists. To directly observe h
 
 ### Indirect Methods
 
-**Pathological windows** remain the primary approach. The Capgras-prosopagnosia double dissociation, the agnosias, and experimentally induced jamais vu each reveal a different component of the normally invisible compound.
+**Pathological windows** remain the primary approach. The Capgras-prosopagnosia double dissociation, the agnosias, and experimentally induced jamais vu each reveal a different seam in the normally invisible compound.
 
 **Historical induction** offers a suggestive analogy: Stanford's pessimistic induction over unconceived scientific alternatives, transferred (with the caveats above) to the consciousness-architecture case.
 
@@ -119,7 +119,7 @@ Strictly speaking, no fully reliable direct method exists. To directly observe h
 
 The Recognition Void engages multiple [tenets](/tenets/).
 
-**[Dualism](/tenets/#dualism)** is most directly relevant, though the empirical evidence is interpretation-neutral. The Capgras-prosopagnosia double dissociation establishes that recognition [fractionates into separately damageable sub-systems](/topics/logic-of-dissociation-inference/) — perceptual identification and affective familiarity coming apart under selective lesion. Whether that fractionation also shows *phenomenal experience* parting from *physical processing*, rather than one physical sub-system parting from another, is precisely the reading the evidence underdetermines. The Bruce-Young model of face recognition (1986) and most cognitive-neuroscience treatments explain the same pattern through fully physicalist functional decomposition. The dualist reading is consistent with — though not required by — the data: what appears unified in normal experience may comprise contributions from categorically different sources, and the two separate without mutual disruption. Whether the cleanness of selective separation has metaphysical weight or is simply what selectively-damageable functional sub-systems look like is the open question, not the finding. Kant's insistence that recognition requires an "act of spontaneity" — something the understanding contributes that cannot derive from passive sensation — gives the dualist reading philosophical traction even where the dissociation evidence alone leaves the metaphysics underdetermined.
+**[Dualism](/tenets/#dualism)** is most directly relevant, though the empirical evidence is interpretation-neutral. The Capgras-prosopagnosia double dissociation shows perceptual identification and affective familiarity [failing separately](/topics/logic-of-dissociation-inference/), and is best explained by two functionally distinct contributions to recognition. Whether that separation also shows *phenomenal experience* parting from *physical processing*, rather than one physical sub-system parting from another, is precisely the reading the evidence underdetermines. The Bruce-Young model of face recognition (1986) and most cognitive-neuroscience treatments explain the same pattern through fully physicalist functional decomposition. The dualist reading is consistent with — though not required by — the data: what appears unified in normal experience may comprise contributions from categorically different sources, and the two separate without mutual disruption. Whether the cleanness of selective separation has metaphysical weight or is simply what selectively-damageable functional sub-systems look like is the open question, not the finding. Kant's insistence that recognition requires an "act of spontaneity" — something the understanding contributes that cannot derive from passive sensation — gives the dualist reading philosophical traction even where the dissociation evidence alone leaves the metaphysics underdetermined.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** receives powerful support. The Recognition Void explains *why* parsimony fails as a decisive criterion: parsimony selects among conceived alternatives, but the space of unconceived alternatives may be vast. Our sense that physicalism offers the simplest account of consciousness may itself reflect a recognition void — the concepts needed to see beyond the physical may be absent from our cognitive architecture. Inventory blindness bears on the [convergence argument](/voids/what-voids-reveal/): if absent cognitive capabilities produce no signal, the convergence of multiple void families on the consciousness-physics interface cannot be dismissed merely because some failures go undetected. That does not raise it to framework-independent evidence, though: under the common-cause null the convergence remains a coherence property of the Map's self-image rather than independent confirmation, and inventory blindness only blocks one deflationary move against it.
 

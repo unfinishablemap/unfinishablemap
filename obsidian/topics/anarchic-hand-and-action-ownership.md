@@ -4,7 +4,7 @@ description: "Anarchic hand splits authorship of action from ownership of a limb
 created: 2026-07-16
 modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-10-19T18:17:56+00:00
+ai_modified: 2026-11-02T21:55:36+00:00
 last_deep_review: 2026-09-09T07:39:52+00:00
 draft: false
 topics:
@@ -85,7 +85,7 @@ The Map does not contest any of this. The comparator model is fully adequate to 
 
 The Map's angle treats anarchic hand as a local failure of the [[control-theoretic-will|interface of volition]], not a dissolution of the subject. What comes apart is a channel—the write-access by which conscious volition reaches one motor pathway—while the unified experiencer survives the fracture intact. Unity likewise survives in [[hemispherectomy-and-the-resilience-of-unified-consciousness|hemispherectomy]], though what is lost there is bandwidth across every channel at once rather than a single channel dropping out.
 
-Two features carry this reading. First, agency and ownership *doubly dissociate*, which shows authorship is an interface signal rather than a given: the felt sense that an act is mine is something the system supplies and can withhold. That is exactly the profile of an interface, a constructed hand-off between volition and execution, rather than of a brute metaphysical fact about whose movement it is. Second, and decisively for the contrast with split-brain, the unity of the experiencer is not what breaks. There are not two subjects, not two streams of experience quarrelling over one body. There is one subject who disowns a movement, is distressed by it, narrates it, and reaches across with the other hand to stop it. The [[witness-consciousness|witnessing subject]] remains single while losing control of one output.
+Two features carry this reading. First, agency and ownership *doubly dissociate*, which is best explained if authorship is a constructed signal rather than a given: the felt sense that an act is mine is something the system supplies and can withhold. That fits the profile of an interface, a constructed hand-off between volition and execution, rather than of a brute metaphysical fact about whose movement it is. Second, and decisively for the contrast with split-brain, the unity of the experiencer is not what breaks. There are not two subjects, not two streams of experience quarrelling over one body. There is one subject who disowns a movement, is distressed by it, narrates it, and reaches across with the other hand to stop it. The [[witness-consciousness|witnessing subject]] remains single while losing control of one output.
 
 This is the pattern already developed for perception in [[split-brain-consciousness|split-brain]]—the interface fragments, not the mind—carried over to *volition*. Anarchic hand is that flagship's agency-side sibling. In split-brain the question is whether divided perceptual report means divided experience; in anarchic hand the perceptual and experiential subject is uncontroversially single, and only a motor channel has gone rogue. Different interface channels, as [[interface-heterogeneity|interface heterogeneity]] holds, can fail independently: ownership can survive the loss of agency, and the unified witness can survive the loss of a limb's obedience.
 

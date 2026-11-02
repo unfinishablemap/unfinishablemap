@@ -4,7 +4,7 @@ description: "Blindsight patients discriminate visual stimuli they cannot consci
 created: 2026-01-23
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T15:18:50+00:00
+ai_modified: 2026-11-02T21:55:36+00:00
 last_deep_review: 2026-07-10T20:57:28+00:00
 draft: false
 topics:
@@ -65,7 +65,7 @@ Key characteristics of blindsight:
 - **Emotional processing**: Some patients show above-chance discrimination of facial expressions in blind regions (de Gelder et al., 1999), suggesting unconscious affective processing pathways via the superior colliculus and amygdala.
 - **Action guidance**: Patients can reach accurately toward stimuli they claim not to see, though reaching may feel "strange" or guided by intuition rather than vision.
 
-What's missing is not processing power but phenomenal experience—the "what it's like" to see. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] demonstrates the converse: phenomenally complete multisensory experience—vision, audition, touch, proprioception—without any corresponding sensory input. This [[logic-of-dissociation-inference|double dissociation]] (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability, not an automatic consequence of information processing.
+What's missing is not processing power but phenomenal experience—the "what it's like" to see. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] demonstrates the converse: phenomenally complete multisensory experience—vision, audition, touch, proprioception—without any corresponding sensory input. This cross-literature contrast (blindsight: processing without experience; lucid dreaming: experience without input), short of a formal [[logic-of-dissociation-inference|double dissociation]], fits the view that phenomenal rendering is a capability distinct from information processing.
 
 ## Alternative Interpretations
 

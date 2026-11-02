@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-22 15:18:50+00:00
+ai_modified: 2026-11-02 21:55:36+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 20:57:28+00:00
-lastmod: 2026-10-22 15:18:50+00:00
+lastmod: 2026-11-02 21:55:36+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -68,7 +68,7 @@ Key characteristics of blindsight:
 - **Emotional processing**: Some patients show above-chance discrimination of facial expressions in blind regions (de Gelder et al., 1999), suggesting unconscious affective processing pathways via the superior colliculus and amygdala.
 - **Action guidance**: Patients can reach accurately toward stimuli they claim not to see, though reaching may feel "strange" or guided by intuition rather than vision.
 
-What's missing is not processing power but phenomenal experience—the "what it's like" to see. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) demonstrates the converse: phenomenally complete multisensory experience—vision, audition, touch, proprioception—without any corresponding sensory input. This [double dissociation](/topics/logic-of-dissociation-inference/) (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability, not an automatic consequence of information processing.
+What's missing is not processing power but phenomenal experience—the "what it's like" to see. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) demonstrates the converse: phenomenally complete multisensory experience—vision, audition, touch, proprioception—without any corresponding sensory input. This cross-literature contrast (blindsight: processing without experience; lucid dreaming: experience without input), short of a formal [double dissociation](/topics/logic-of-dissociation-inference/), fits the view that phenomenal rendering is a capability distinct from information processing.
 
 ## Alternative Interpretations
 
