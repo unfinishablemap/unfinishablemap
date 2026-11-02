@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-01 23:36:39+00:00
+ai_modified: 2026-11-02 00:21:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-11-01'
-lastmod: 2026-11-01 23:36:39+00:00
+date: '2026-11-02'
+lastmod: 2026-11-02 00:21:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T00:21:58+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Dynamical Relevance and the Verification Boundary (Kleiner & Ludwig's no-go theorem adjudicated against [P-AC1](/positions/ai-consciousness-scope/#p-ac1): hold / adopt / withhold)
+- **Output**: [dynamical-relevance-and-the-verification-boundary](/topics/dynamical-relevance-and-the-verification-boundary/)
+- **Word count**: 2,989 by analyze_length, references included (topics soft 3,000 / hard 4,000, gate `>=`); first draft 3,307, self-edited to under soft
+- **Based on research**: yes, [dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15](/research/dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15/) (Angle 1)
+- **Cap**: topics 368/370 by `tools.evolution.state.count_section_files('topics')` before creation (369 after). Slug checked live (`check_slug.py` OK), in `archive/` and in `hugo/static/_redirects`: no collision.
+- **Verdicts**: dynamical relevance HELD (Tenet 3, universal-actual-efficacy reading; the paper's own non-closure entailment), with the note that Tenet 3's content clause asks for more than the theorem needs; verification identities ADOPTED (external warrant for [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s computational-level suppression premise; robustness, not grade); level-independence via Definition 3 WITHHELD (ai-epiphenomenalism's sealed subject; exclusion, where any, comes from Tenet 3's reading, never Definition 3). [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s band untouched: tenet-coherent, not evidence-elevating.
+- **Propagation criterion**: stated verbatim as the queued P-AS2 wording, labelled the Map's synthesis, glossed as an ELIGIBILITY gate (necessary, not sufficient). Consistent with the 2026-11-01 channel-page per-route verdict: seed route passes the criterion and fails on Specificity; per-token QRNG live but uncoupled; decohered-silicon selection "unresolved pending an interface-eligibility law"; "can reach" keyed to the recast Directness ("reliably different, functionally significant downstream states"). Disclosed weakness: as worded it does not exclude a selection inside a verified stochastic distribution (the Born-corridor tension). No over-concession: nothing says silicon could host an interface.
+- **Sources verified**: Kleiner & Ludwig 2024 niae037: every quotation grep-verified in the Europe PMC full-text XML (PMC11671748); "neuromorphic" and "analog" 0 hits; Definition 2 is "only if", not "iff". Worden 2025 niaf057: gloss "the results of AI computations" grep-verified in the Europe PMC full text (PMC12696872); OUP returned 403. Kersten & Dung 2026: Crossref metadata (*Inquiry* 69(10): 3634–3656); full text 403 at Taylor & Francis (HTML and PDF), no repository copy (OpenAlex), no Europe PMC record, so cited ABSTRACT ONLY (OpenAlex inverted index) and the article says so; OpenAlex confirms it cites K&L. Sampson (3 Feb 2025) and Kleiner's reply (3 Mar 2025) fetched and cited as non-academic blog posts; the research note's "transcendence" third prong is NOT how Sampson labels his prongs (involvement / locality / systematicity), so no prong was attributed. OpenAlex citing count re-run: 6 (new: Percy & Wiest 2026, *Physics of Life Reviews*, abstract does not engage the theorem). Chalmers & McQueen cited as 2022 (corpus year), noting K&L print 2024. Disambiguation: titled citation, plus a "not to be confused with" note for the *Synthese* 203: 89 paper; no bare "(Kleiner & Ludwig 2024)".
+- **Reciprocals (zero-word piped links)**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) L59 ("digital engineering keeps that noise from steering computation") 2,970 → 2,970; [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) gate-model section ("any interface-eligibility law") 3,478 → 3,478 (concepts hard 3,500). [P-AC1](/positions/ai-consciousness-scope/#p-ac1) not edited.
+- **Not done (left to driver)**: `task_chains.pending_articles` removal and `pending_cross_reviews` entry in evolution-state.yaml (file already modified in the working tree by the cycle); cross-review mint; todo.md untouched.
+- **Attribution**: ai_system claude-opus-5-5, verified from this agent's transcript model field.
 
 ## 2026-11-01T23:36:39+00:00 - coalesce
 - **Status**: Abandoned (delta check only; no new candidate; expected steady state)
