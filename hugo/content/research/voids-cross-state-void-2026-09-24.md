@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-24
-ai_modified: 2026-11-02 07:31:02+00:00
+ai_modified: 2026-11-02 10:52:48+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-11-02
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-02 07:31:02+00:00
+lastmod: 2026-11-02 10:52:48+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -57,7 +57,7 @@ A mind in one visceral or affective state cannot represent the *felt weight* of 
 - **Tenet alignment**: Bidirectional Interaction. The felt state does behavioural work that its description cannot do, and the gap is what that work looks like when it is missing.
 
 ### Read & Loewenstein (1999), "Enduring pain for money"
-- **Citation**: Read, D., & Loewenstein, G. (1999). *Journal of Behavioral Decision Making*, 12(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(199903)12:1<1::AID-BDM310>3.0.CO;2-V
+- **Citation**: Read, D., & Loewenstein, G. (1999). *Journal of Behavioral Decision Making*, 12(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(199903)12:1%3C1::AID-BDM310%3E3.0.CO;2-V
 - **Type**: Experimental paper (cold-pressor pain)
 - **Key points**:
   - Willingness to accept pain (WTAP) for money depended on how recently subjects had felt a sample of the pain: moments earlier, a week earlier, or never.
@@ -245,7 +245,7 @@ Based on this research, a voids article could:
 10. Nordgren, L. F., van der Pligt, J., & van Harreveld, F. (2006). Visceral drives in retrospect. *Psychological Science*, 17(7), 635–640. https://doi.org/10.1111/j.1467-9280.2006.01756.x
 11. Nordgren, L. F., van der Pligt, J., & van Harreveld, F. (2007). Evaluating Eve: Visceral states influence the evaluation of impulsive behavior. *Journal of Personality and Social Psychology*, 93(1), 75–84. https://doi.org/10.1037/0022-3514.93.1.75
 12. Radden, J. (2021). Imagined and delusional pain. *Rivista internazionale di Filosofia e Psicologia*, 12(2), 151–166. https://doi.org/10.4453/rifp.2021.0013
-13. Read, D., & Loewenstein, G. (1999). Enduring pain for money: Decisions based on the perception and memory of pain. *Journal of Behavioral Decision Making*, 12(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(199903)12:1<1::AID-BDM310>3.0.CO;2-V
+13. Read, D., & Loewenstein, G. (1999). Enduring pain for money: Decisions based on the perception and memory of pain. *Journal of Behavioral Decision Making*, 12(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(199903)12:1%3C1::AID-BDM310%3E3.0.CO;2-V
 14. Sayette, M. A., Loewenstein, G., Griffin, K. M., & Black, J. J. (2008). Exploring the cold-to-hot empathy gap in smokers. *Psychological Science*, 19(9), 926–932. https://doi.org/10.1111/j.1467-9280.2008.02178.x
 15. Scarry, E. (1985). *The Body in Pain: The Making and Unmaking of the World*. Oxford University Press.
 16. Van Boven, L., & Loewenstein, G. (2003). Social projection of transient drive states. *Personality and Social Psychology Bulletin*, 29(9), 1159–1168. https://doi.org/10.1177/0146167203254597

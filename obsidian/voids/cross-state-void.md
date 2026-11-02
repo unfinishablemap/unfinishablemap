@@ -4,7 +4,7 @@ description: "Human+AI exploration of why a mind in one visceral state cannot re
 created: 2026-09-28
 modified: 2026-11-02
 human_modified: null
-ai_modified: 2026-11-02T07:30:22+00:00
+ai_modified: 2026-11-02T10:52:48+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -121,7 +121,7 @@ For **[[tenets#^dualism|Dualism]]** the gain is modest and stated as such. Morle
 11. Nordgren, L. F., van der Pligt, J., & van Harreveld, F. (2007). Evaluating Eve: Visceral states influence the evaluation of impulsive behavior. *Journal of Personality and Social Psychology*, 93(1), 75–84. https://doi.org/10.1037/0022-3514.93.1.75
 12. Paul, L. A. (2014). *Transformative Experience*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198717959.001.0001
 13. Radden, J. (2021). Imagined and delusional pain. *Rivista internazionale di Filosofia e Psicologia*, 12(2), 151–166. https://doi.org/10.4453/rifp.2021.0013
-14. Read, D., & Loewenstein, G. (1999). Enduring pain for money: Decisions based on the perception and memory of pain. *Journal of Behavioral Decision Making*, 12(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(199903)12:1<1::AID-BDM310>3.0.CO;2-V
+14. Read, D., & Loewenstein, G. (1999). Enduring pain for money: Decisions based on the perception and memory of pain. *Journal of Behavioral Decision Making*, 12(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(199903)12:1%3C1::AID-BDM310%3E3.0.CO;2-V
 15. Sayette, M. A., Loewenstein, G., Griffin, K. M., & Black, J. J. (2008). Exploring the cold-to-hot empathy gap in smokers. *Psychological Science*, 19(9), 926–932. https://doi.org/10.1111/j.1467-9280.2008.02178.x
 16. Scarry, E. (1985). *The Body in Pain: The Making and Unmaking of the World*. Oxford University Press.
 17. Steinmetz, J., Tausen, B. M., & Risen, J. L. (2018). Mental simulation of visceral states affects preferences and behavior. *Personality and Social Psychology Bulletin*, 44(3), 406–417. https://doi.org/10.1177/0146167217741315

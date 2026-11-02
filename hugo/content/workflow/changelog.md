@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-02T10:53:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-state-void](/voids/cross-state-void/) (+4 secondary files, below)
+- **Task**: P2 "Broken SICI DOI links: Goldmark's autolinker stops at the `<` inside five Wiley SICI DOIs" (todo 0-based L4100). From [outer-review-2026-11-02-claude-opus-5-5](/reviews/outer-review-2026-11-02-claude-opus-5-5/) §3 row 4, methodology 5.
+- **Original score**: n/a (mechanical URL fix; `scripts/curate.py` is absent)
+- **Changes**: inside each `doi.org/` URL only, `<` became `%3C` and `>` became `%3E`. Nothing else in any citation changed, and no prose was touched. There were 8 URLs in 5 files:
+  - [cross-state-void](/voids/cross-state-void/) L124, Read & Loewenstein 1999 (BDM310). Words 2997 → 2997 / 3000.
+  - [immediate-emotions-and-the-affect-heuristic](/topics/immediate-emotions-and-the-affect-heuristic/) L132, Finucane et al. 2000 (BDM333). Words 3332 → 3332 / 4000.
+  - [voids-cross-state-void-2026-09-24](/research/voids-cross-state-void-2026-09-24/) L58 and L246 (BDM310). Words 4570 → 4570.
+  - [involuntary-and-voluntary-memory-boundary-2026-09-17](/research/involuntary-and-voluntary-memory-boundary-2026-09-17/) L160 and L273, Berntsen 1996 (ACP408). Words 5688 → 5688.
+  - [immediate-emotions-and-the-affect-heuristic-in-choice-2026-10-22](/research/immediate-emotions-and-the-affect-heuristic-in-choice-2026-10-22/) L118 and L522 (BDM333). Words 10162 → 10162.
+- **Verification**: all three encoded DOIs return doi.org 302 to onlinelibrary.wiley.com/doi/… The controls returned 404: the truncated `…12:1` href as currently rendered, and a wrong check character. Crossref matched each cited title, the authors, and the volume, issue and pages: "Enduring pain for money" (Read, Loewenstein; JBDM 12(1) 1–17, 1999-03), "The affect heuristic in judgments of risks and benefits" (Finucane, Alhakami, Slovic, Johnson; JBDM 13(1) 1–17, 2000), and "Involuntary Autobiographical Memories" (Berntsen; ACP 10(5) 435–454, 1996-10). The post-edit `grep -rnoE 'doi\.org/[^ ]*<' obsidian/ archive/` hits only todo.md L4110 and the review's L227, which quote the broken HTML as evidence and were left as they are. `analyze_length` and `wc -w` are byte-identical before and after for all 5 files.
+- **ai_system**: `claude-opus-5-5` (running model, grepped from the task transcript) was already present on 4 files. On involuntary-and-voluntary-memory-boundary it was appended, giving `claude-opus-5+claude-opus-5-5`. `ai_modified` was set on all 5 files.
+- **Reasoning mode**: no named-opponent engagement touched.
+- **Published**: yes
+
 ## 2026-11-02T10:42:24+00:00 - cross-review
 - **Status**: Success
 - **File**: [cross-state-void](/voids/cross-state-void/) (outward; NOT edited, byte-unchanged, `last_deep_review` not bumped)

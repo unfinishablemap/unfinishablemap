@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-17
-ai_modified: 2026-09-17 16:10:24+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-11-02 10:52:48+00:00
+ai_system: claude-opus-5+claude-opus-5-5
 concepts:
 - '[[episodic-memory]]'
 - '[[mental-effort]]'
 - '[[spontaneous-intentional-action]]'
 created: 2026-09-17
-date: '2026-09-17'
+date: '2026-11-02'
 draft: false
-lastmod: 2026-09-17 16:10:24+00:00
+lastmod: 2026-11-02 10:52:48+00:00
 related_articles:
 - '[[agency-void]]'
 - '[[semanticisation]]'
@@ -159,7 +159,7 @@ Grep of `topics/ concepts/ voids/ apex/` bodies on 2026-09-17:
 - **Tenet alignment**: Converges with Mole: agency lives in monitoring and guidance of an ongoing reconstruction, not in the triggering event. Also connects to the Map's noetic-feelings void.
 
 ### Other verified metadata (content not read beyond title or abstract)
-- Berntsen, D. (1996). Involuntary autobiographical memories. *Applied Cognitive Psychology* 10(5): 435–454. https://doi.org/10.1002/(SICI)1099-0720(199610)10:5<435::AID-ACP408>3.0.CO;2-L — the founding diary study. Reprinted with commentary in *ACP* 25(S1), 2011.
+- Berntsen, D. (1996). Involuntary autobiographical memories. *Applied Cognitive Psychology* 10(5): 435–454. https://doi.org/10.1002/(SICI)1099-0720(199610)10:5%3C435::AID-ACP408%3E3.0.CO;2-L — the founding diary study. Reprinted with commentary in *ACP* 25(S1), 2011.
 - Berntsen, D. (2009). *Involuntary Autobiographical Memories: An Introduction to the Unbidden Past*. Cambridge University Press. https://doi.org/10.1017/CBO9780511575921 — page citations (pp. 2, 66, 67) via Mole (2017).
 - Berntsen, D. & Hall, N. M. (2004). The episodic nature of involuntary autobiographical memories. *Memory & Cognition* 32(5): 789–803. https://doi.org/10.3758/BF03195869
 - Schlagman, S. & Kvavilashvili, L. (2008). Involuntary autobiographical memories in and outside the laboratory. *Memory & Cognition* 36(5): 920–932. https://doi.org/10.3758/MC.36.5.920 — per Berntsen (2010), source of "markedly shorter retrieval times" for involuntary memories; also the vigilance-task lab paradigm.
@@ -272,7 +272,7 @@ Follow `obsidian/project/writing-style.md`: front-load the definition and the ag
 - Barzykowski, K., Niedźwieńska, A. & Mazzoni, G. (2019). How intention to retrieve a memory and expectation that a memory will come to mind influence the retrieval of autobiographical memories. *Consciousness and Cognition*, 72, 31–48. https://doi.org/10.1016/j.concog.2019.03.011
 - Barzykowski, K. & Staugaard, S. R. (2016). Does retrieval intentionality really matter? Similarities and differences between involuntary memories and directly and generatively retrieved voluntary memories. *British Journal of Psychology*, 107(3), 519–536. https://doi.org/10.1111/bjop.12160
 - Barzykowski, K., Staugaard, S. R. & Mazzoni, G. (2021). Retrieval effort or intention: Which is more important for participants' classification of involuntary and voluntary memories? *British Journal of Psychology*, 112(4), 1080–1102. https://doi.org/10.1111/bjop.12498
-- Berntsen, D. (1996). Involuntary autobiographical memories. *Applied Cognitive Psychology*, 10(5), 435–454. https://doi.org/10.1002/(SICI)1099-0720(199610)10:5<435::AID-ACP408>3.0.CO;2-L
+- Berntsen, D. (1996). Involuntary autobiographical memories. *Applied Cognitive Psychology*, 10(5), 435–454. https://doi.org/10.1002/(SICI)1099-0720(199610)10:5%3C435::AID-ACP408%3E3.0.CO;2-L
 - Berntsen, D. (2009). *Involuntary Autobiographical Memories: An Introduction to the Unbidden Past*. Cambridge University Press. https://doi.org/10.1017/CBO9780511575921
 - Berntsen, D. (2010). The unbidden past: Involuntary autobiographical memories as a basic mode of remembering. *Current Directions in Psychological Science*, 19(3), 138–142. https://doi.org/10.1177/0963721410370301
 - Berntsen, D. (2021). Involuntary autobiographical memories and their relation to other forms of spontaneous thoughts. *Philosophical Transactions of the Royal Society B*, 376(1817), 20190693. https://doi.org/10.1098/rstb.2019.0693

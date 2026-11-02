@@ -4,7 +4,7 @@ description: "Felt affect at choice predicts decisions, but it was measured rath
 created: 2026-10-22
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T11:48:21+00:00
+ai_modified: 2026-11-02T10:52:48+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -129,7 +129,7 @@ No confidence band moves. The misattribution condition has taken a partial hit. 
 3. Dong, Y., Dreber, A., Johannesson, M., & Kilicgedik, G. (2026). Incidental emotions and financial risk-taking. *Journal of Economic Behavior & Organization*, 246, 107556. https://doi.org/10.1016/j.jebo.2026.107556
 4. Efendić, E., Chandrashekar, S. P., Lee, C. S., Yeung, L. Y., Kim, M. J., Lee, C. Y., & Feldman, G. (2022). Risky therefore not beneficial: Replication and extension of Finucane et al.'s (2000) affect heuristic experiment. *Social Psychological and Personality Science*, 13(7), 1173–1184. https://doi.org/10.1177/19485506211056761
 5. Ferrer, R. A., & Ellis, E. M. (2021). Preliminary evidence for differential effects of integral and incidental emotions on risk perception and behavioral intentions: A meta-analysis of eight experiments. *Journal of Behavioral Decision Making*, 34(2), 275–289. https://doi.org/10.1002/bdm.2209
-6. Finucane, M. L., Alhakami, A., Slovic, P., & Johnson, S. M. (2000). The affect heuristic in judgments of risks and benefits. *Journal of Behavioral Decision Making*, 13(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(200001/03)13:1<1::AID-BDM333>3.0.CO;2-S
+6. Finucane, M. L., Alhakami, A., Slovic, P., & Johnson, S. M. (2000). The affect heuristic in judgments of risks and benefits. *Journal of Behavioral Decision Making*, 13(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(200001/03)13:1%3C1::AID-BDM333%3E3.0.CO;2-S
 7. Garg, N., Williams, L. A., & Lerner, J. S. (2018). The misery-is-not-miserly effect revisited: Replication despite opportunities for compensatory consumption. *PLOS ONE*, 13(6), e0199433. https://doi.org/10.1371/journal.pone.0199433
 8. Grimani, A., Yemiscigil, A., Wang, Q., Kirilov, G., Kudrna, L., & Vlaev, I. (2024). How do emotions respond to outcome values and influence choice? *Psychological Research*, 88(8), 2234–2250. https://doi.org/10.1007/s00426-024-02001-3
 9. Jäger, D. T., Boltzmann, M., Rollnik, J. D., & Rüsseler, J. (2020). Expected valence predicts choice in a recurrent decision task. *Frontiers in Neuroscience*, 14, 580970. https://doi.org/10.3389/fnins.2020.580970

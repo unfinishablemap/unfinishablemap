@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-22
-ai_modified: 2026-10-22 11:51:16+00:00
+ai_modified: 2026-11-02 10:52:48+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-10-22 11:51:16+00:00
+lastmod: 2026-11-02 10:52:48+00:00
 modified: *id001
 recommended_action: article
 related_articles: []
@@ -119,7 +119,7 @@ The article should carry a version of this table. It makes future absence search
 - **Tenet alignment**: neutral. The affect heuristic substitutes a fast evaluative tag for analytic weighing. Whether the tag is felt is left open by design, so it supports neither horn. That is the "reverse overreach" guard in the brief.
 
 #### Finucane, Alhakami, Slovic & Johnson (2000), "The affect heuristic in judgments of risks and benefits"
-- **Citation**: *Journal of Behavioral Decision Making*, 13(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(200001/03)13:1<1::AID-BDM333>3.0.CO;2-S **[abstract only]**.
+- **Citation**: *Journal of Behavioral Decision Making*, 13(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(200001/03)13:1%3C1::AID-BDM333%3E3.0.CO;2-S **[abstract only]**.
 - **Key points [verbatim]**:
   - "As expected, the inverse relationship was strengthened when time pressure was introduced."
   - People derive "both risk and benefit evaluations from a common source—affective reactions to the stimulus item."
@@ -523,7 +523,7 @@ The article must carry these as "no study the Map has found …" with the inclus
 7. Efendić, E., Chandrashekar, S. P., Lee, C. S., Yeung, L. Y., Kim, M. J., Lee, C. Y., & Feldman, G. (2022). Risky therefore not beneficial: Replication and extension of Finucane et al.'s (2000) affect heuristic experiment. *Social Psychological and Personality Science*, 13(7), 1173–1184. https://doi.org/10.1177/19485506211056761
 8. Ferrer, R. A., & Ellis, E. M. (2021). Preliminary evidence for differential effects of integral and incidental emotions on risk perception and behavioral intentions: A meta-analysis of eight experiments. *Journal of Behavioral Decision Making*, 34(2), 275–289. https://doi.org/10.1002/bdm.2209
 9. Ferrer, R. A., Maclay, A., Litvak, P. M., & Lerner, J. S. (2017). Revisiting the effects of anger on risk-taking: Empirical and meta-analytic evidence for differences between males and females. *Journal of Behavioral Decision Making*, 30(2), 516–526. https://doi.org/10.1002/bdm.1971
-10. Finucane, M. L., Alhakami, A., Slovic, P., & Johnson, S. M. (2000). The affect heuristic in judgments of risks and benefits. *Journal of Behavioral Decision Making*, 13(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(200001/03)13:1<1::AID-BDM333>3.0.CO;2-S
+10. Finucane, M. L., Alhakami, A., Slovic, P., & Johnson, S. M. (2000). The affect heuristic in judgments of risks and benefits. *Journal of Behavioral Decision Making*, 13(1), 1–17. https://doi.org/10.1002/(SICI)1099-0771(200001/03)13:1%3C1::AID-BDM333%3E3.0.CO;2-S
 11. Garg, N., Williams, L. A., & Lerner, J. S. (2018). The misery-is-not-miserly effect revisited: Replication despite opportunities for compensatory consumption. *PLOS ONE*, 13(6), e0199433. https://doi.org/10.1371/journal.pone.0199433
 12. Grimani, A., Yemiscigil, A., Wang, Q., Kirilov, G., Kudrna, L., & Vlaev, I. (2024). How do emotions respond to outcome values and influence choice? *Psychological Research*, 88(8), 2234–2250. https://doi.org/10.1007/s00426-024-02001-3
 13. Heilman, R. M., Crişan, L. G., Houser, D., Miclea, M., & Miu, A. C. (2010). Emotion regulation and decision making under risk and uncertainty. *Emotion*, 10(2), 257–265. https://doi.org/10.1037/a0018489
