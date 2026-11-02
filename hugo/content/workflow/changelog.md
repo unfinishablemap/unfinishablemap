@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02 15:51:50+00:00
+ai_modified: 2026-11-02 16:53:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-02'
-lastmod: 2026-11-02 15:51:50+00:00
+lastmod: 2026-11-02 16:53:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-02T16:53:16+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Noseeum Void: every absence judgement rests on a premise about the judge ("I would have found it if it were there"), supplied by a self-model that is partly hidden, miscalibrated in both directions, and for some targets uncalibratable
+- **Category**: Mixed (correctable at the perceptual/memory end; Unexplorable where no same-kind positive control exists; Occluded flavour in the hidden premise)
+- **Output**: [voids-noseeum-void-2026-11-02](/research/voids-noseeum-void-2026-11-02/)
+- **Key finding**: Wykstra's CORNEA (via Perrine, SEP 2023) and Mazor (2025) locate the same self-knowledge premise in arguments from evil and in ordinary perception and memory. Change blindness blindness (Levin et al. 2000) shows it inflated, and Sober's (2009) symmetry shows that a defence making an absence uninformative also makes the matching presence uninformative. Tenets 2 and 5 are CORNEA-shaped, and the AI apex's "explained twice over" is the spread occurring inside the Map.
+- **Novelty**: zero corpus hits for noseeum / CORNEA / Wykstra / skeptical theism / change blindness blindness / ichthyolog / epistemic switch (positive control "Farennikova" found). Nearest neighbour [phenomenal-quality-void](/voids/phenomenal-quality-void/) covers what absence feels like, not what non-detection warrants.
+- **Recommended action**: article → `voids/noseeum-void` ("The Noseeum Void"). Fold hosts apophatic-cartography (2959) and meta-epistemology-of-limits (2957) sit at the 3000 hard gate. Voids is 115/125.
+- **Citations**: 31 listed; all journal items verified at Crossref; quotes grep-verified in raw text (SEP, Mazor 2025 full text, Eddington 1949 reprint, Chalmers 2002 online text, abstracts); Sober and Strevens read in author manuscripts; Wykstra and Bergmann not read (bot challenges not passed; secondary via SEP).
+- **State**: not added to `task_chains.pending_articles` (driver hand-mints the expand; avoids a duplicate replenish mint).
 
 ## 2026-11-02T15:51:50+00:00 - refine-draft
 - **Status**: Success
