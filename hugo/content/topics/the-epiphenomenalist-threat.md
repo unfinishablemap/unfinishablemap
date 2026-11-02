@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-10-19 15:17:48+00:00
+ai_modified: 2026-11-02 20:52:27+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[observational-closure]]'
 created: 2026-02-22
-date: &id001 2026-04-30
+date: &id001 2026-11-02
 description: Epiphenomenalism isn't just one view among many—it's the default destination
   of most theories of consciousness. Understanding why this gravity well exists, why
   escape attempts fail, and what genuine escape requires.
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 14:00:49+00:00
-lastmod: 2026-10-19 15:17:48+00:00
+lastmod: 2026-11-02 20:52:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,7 +159,7 @@ The decoherence challenge is a genuine empirical obstacle, not a philosophical r
 The epiphenomenalist threat reveals the stakes of the consciousness debate. If epiphenomenalism is true:
 
 - **Free will is impossible.** If deliberation and choice cause nothing, they cannot ground freedom or responsibility. The [phenomenology of volitional control](/topics/volitional-control/)—agency, veto, selection—would be entirely illusory.
-- **Self-knowledge is unreliable.** The [self-stultification problem](/concepts/epiphenomenalism/#the-self-stultification-problem) suggests that if consciousness causes nothing, our beliefs about our own experiences are accidentally connected to those experiences at best.
+- **Self-knowledge goes idle.** The [self-stultification problem](/concepts/epiphenomenalism/#the-self-stultification-problem) suggests that if consciousness causes nothing, our introspective reports and inferences would rest on a lawful parallel rather than on our experiences, even if [knowing them](/topics/acquaintance-without-causation/) needs no causal traffic.
 - **Meaning is undermined.** The felt significance of love, grief, discovery, and moral commitment does no work—these experiences accompany but do not shape the life they seem to animate.
 - **The study of consciousness becomes paradoxical.** Researchers investigate something their investigation is causally disconnected from—theories about qualia produced by brain states, not by acquaintance with qualia.
 

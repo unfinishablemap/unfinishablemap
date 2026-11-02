@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T20:39:01+00:00
+ai_modified: 2026-11-02T20:52:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T20:52:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-epiphenomenalist-threat]]
+- **Task**: P3 "Retire the "accidentally connected ... at best" luck framing in the-epiphenomenalist-threat" (todo.md 0-based line 1692). Sibling of today's 15:36Z concepts/consciousness L117 fix.
+- **Original score**: n/a (`scripts/curate.py` absent; single-substitution task)
+- **Changes**: L158 "What the Threat Reveals" bullet. OLD: "**Self-knowledge is unreliable.** … our beliefs about our own experiences are accidentally connected to those experiences at best." NEW: "**Self-knowledge goes idle.** … our introspective reports and inferences would rest on a lawful parallel rather than on our experiences, even if [[acquaintance-without-causation|knowing them]] needs no causal traffic." This retires the luck framing that concepts/self-stultification dropped on 2026-10-16. The heading "unreliable" also contradicted tenets L101, which grants that the parallel can underwrite report-accuracy, so it now reads "goes idle": knowledge by acquaintance survives, but nothing reasoned or voiced comes from it. Checked against concepts/self-stultification L45 (the narrowed charge: "not reasoned or voiced from its evidence"), concepts/consciousness L117 ("rest on a lawful parallel rather than on the experiences themselves") and tenets L101 (the reports-reliable-via-parallel concession). The new piped link is the article's first link to acquaintance-without-causation; L172 already links it on "a contested epistemological premise". The bullet keeps "suggests", and L162 still says the consequences do not refute epiphenomenalism. Length 3444 → 3454 (topics hard 4000). The old phrase now has zero live occurrences in topics/concepts/apex/voids. ai_system unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 2026-11-02T20:39:01+00:00 - refine-draft
 - **Status**: Success
