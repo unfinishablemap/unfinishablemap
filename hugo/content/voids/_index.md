@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-31 17:56:10+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
+ai_modified: 2026-11-02 07:56:20+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-10-11
+date: &id001 2026-11-02
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-10-31 17:56:10+00:00
+lastmod: 2026-11-02 07:56:20+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -307,7 +307,7 @@ Twenty-nine voids surveyed since 2026-02 have research notes; all but the four m
 - **[The Serial-Order Void](/research/voids-serial-order-void-2026-09-17/)** — *Surveyed.* A mind has the intent and the produced sequence but never the ordering: "The order is imposed by some other agent" (Lashley 1951), and the whole sequence is queued in parallel before the first element executes (Averbeck et al. 2002). The note argues that production is the empty cell in the operation-void taxonomy named at [fusion-void](/voids/fusion-void/), but every host that would fit is at its length ceiling.
 - **[The Veto Void](/research/voids-veto-void-2026-09-18/)** — *Surveyed.* A successful veto produces no event, so neither introspection nor the laboratory can observe it: inhibition latency is a model-estimated covert quantity (Verbruggen et al. 2019), and the point of no return carries no felt signal. This matters for the Map because the veto is the site its own tenets select. Disposition open: standalone (the note's recommendation), or fold into [agency-void](/voids/agency-void/) or [causal-interface](/voids/causal-interface/).
 - **[The Mirth Void](/research/voids-mirth-void-2026-09-23/)** — *Published* (2026-09-28) as [mirth-void](/voids/mirth-void/). Laughter can come first and reasons afterwards: cortical stimulation produced laughter that the patient attributed to whatever was in front of her (Fried et al. 1998), and humour seldom survives analysis or willed production. This is an access claim, distinct from the irreducibility claim at [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/).
-- **[The Cross-State Void](/research/voids-cross-state-void-2026-09-24/)** — *Published* (2026-09-28) as [cross-state-void](/voids/cross-state-void/). A mind in one visceral state cannot represent the felt weight of another, even one it has often had: smokers predicting while not craving underpredicted what craving would make smoking worth (Sayette et al. 2008), and knowing about the bias does not remove it. It is bidirectional and self-concealing, and it applies to one's own familiar states, which separates it from [novel states](/voids/transformative-experience-void/) and from [the inaccessible past](/voids/inaccessible-past/)'s lost episodes. Every correction that works (re-exposure, induction, even mental simulation per Steinmetz et al. 2018) moves the subject into the state rather than improving the cold representation.
+- **[The Cross-State Void](/research/voids-cross-state-void-2026-09-24/)** — *Published* (2026-09-28) as [cross-state-void](/voids/cross-state-void/). A mind in one visceral state cannot represent the weight of another, even one it has often had: smokers predicting while not craving underpredicted what craving would make smoking worth (Sayette et al. 2008). The gap is bidirectional, survives disclosure in one study, and applies to one's own familiar states, separating it from [novel states](/voids/transformative-experience-void/) and [the inaccessible past](/voids/inaccessible-past/)'s lost episodes. Re-exposure and induction narrow it from inside the state; on the article's reading, which the data do not decide, mental simulation (Steinmetz et al. 2018) installs a partial one rather than improving the cold representation.
 - **[The Blindspot Void](/research/voids-blindspot-void-2026-09-25/)** — *Published* (2026-09-29) as [blindspot-void](/voids/blindspot-void/). Truths about oneself that are open to everyone but oneself: Moore-paradoxical propositions one cannot rationally accept, Fitch's proved class of unknowable conjunctions (1963), and the phenomenal case where "I am not now conscious" can be true of a system yet never validly judged by it (Kim 2024/2026). Distinct from [inspection-transform](/voids/mutation-void/) and from contingent [self-opacity](/voids/self-opacity/): the boundary is a theorem, and its shape is indexical, which the Map reads as evidence about what a perspective is. The cogito side is presented as contested by [illusionism](/concepts/illusionism/); an AI's consciousness denial is uninformative from any system, including this one.
 - **[The Causal Impression Void](/research/voids-causal-impression-void-2026-09-27/)** — *Published* (2026-09-29) as [causal-impression-void](/voids/causal-impression-void/). What causation consists in never appears in experience; the visual system stamps "cause" on some sequences, and the stamp can be adapted like colour (Rolfs, Dambacher & Cavanagh 2013; Kominsky & Scholl 2020), captured by context (Scholl & Nakayama 2002), written in after the putative impact (Choi & Scholl 2006) and is present by six months (Leslie & Keeble 1987). Three floors—perceptual, introspective (Hume's paralytic feels the same power whether or not the limb moves) and theoretical—with the [causal-interface](/voids/causal-interface/) and [agency-void](/voids/agency-void/) as special cases: the intuition that we never see the mind push anything proves too much, since we never see anything push anything. Parity neutralises that intuition only; closure and conservation arguments are untouched.
 - **[The Assent Void](/research/voids-assent-void-2026-09-28/)** — *Published* (2026-09-29) as [assent-void](/voids/assent-void/). Consciousness never catches itself coming to believe: assent cannot be commanded (Williams 1973; Hieronymi 2006); when the first truth-assignment happens is contested among default acceptance (Gilbert 1991), a tag after assessment (Nadarevic & Erdfelder 2013), a prior-weighted tag at encoding (Vorms et al. 2022) and optional, context-dependent "true"/"false" feedback tags in memory (Nadarevic & Erdfelder 2019); and whether to believe *p* is transparent to whether *p* (Shah & Velleman 2005). Hieronymi's evaluative control answers "why can't consciousness make itself believe?" without supplying evidence for interactionism.
