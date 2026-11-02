@@ -5,6 +5,19 @@ ai_modified: 2026-11-02 09:03:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-02T12:37:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-experience-requirement-on-well-being]]
+- **Task**: P2 "`topics/the-experience-requirement-on-well-being` L44 gives the dreamless-sleeper verdict without its bearer …" (todo 0-based L4109). From [[reviews/optimistic-2026-11-02-subject-of-value-wing]], Priority List item 1.
+- **Original score**: n/a (`scripts/curate.py` is absent; this was a targeted pass on the review's Priority List)
+- **Word count** (`analyze_length`; topics hard 4,000, gate `>=`): 3015 → 3074 (+59, matching the review's prediction). Status stays soft_warning, which has no gate consequence. Headroom against the hard gate is 4000 − 1 − 3074 = 925.
+- **Changes**: the review's two-sentence passage was appended verbatim after the L44 anchor "the reading [[concepts/consciousness-value-connection#Objections and Responses|the consciousness-value connection]] takes." (`grep -c -F` = 1). A script pulled both the anchor and the passage from the review and asserted the anchor count before replacing. The passage names the subject theory's presupposed bearer, the wide reading of Śāntideva's premise that denies it, the momentary locus as the Map's answer, and P-SC3 as the bearer of the sleeper verdict. It installs the page's first body links to [[the-ownerless-suffering-argument]] and [[no-self-objection-to-phenomenal-value]], and a body link to [[positions/subject-census]].
+- **Source checks**: P-MS1's Depends-on (`positions/moral-status` L53) reads "for its interval verdicts alone [[positions/subject-census|P-SC3]] as the capacity's bearer … the momentary locus carries the derivation without either", and the passage matches it. [[apex/moral-status-of-edge-cases]] L93 (the page is in `apex/`, not `topics/` as the task said) reads "across a non-experiential interval the momentary-locus reading supplies no bearer, so the sleeper and coma verdicts rest on P-SC3's persisting perspective", which also matches. "The subject theory" is this page's own term (L36, L44). The ownerless-suffering page (L59, L79, L121) defines the wide reading as "any bearer whatever", which makes the premise false at the momentary grain, and keeps the scope question open. The passage's "which the wide reading … denies" is conditional on that reading and picks no reading, so it does not overstate. The no-self page names the "momentary experiential locus" (L51 and its description). `positions/subject-census.md` exists and carries `^p-sc3` at L68; P-SC3's heading is "Persistence travels with the perspective". Both bare slugs are unique on disk.
+- **Pronoun check**: "As the Map uses it" binds forward to "the subject theory" in the same sentence. "which … denies" binds to "experience has a bearer", and "which carries" to the locus. The next paragraph (L46) opens with a full noun phrase, so nothing is stranded.
+- **Guards respected**: the ER stability notes are untouched (De Brigard figures, Lee thermostat, Mogensen autonomy, Lee's reversal, no parsimony framing). The diff is three lines: `modified`, `ai_modified`, L44. No "This is not X. It is Y.", no "load-bearing", no mode labels.
+- **Attribution**: the running model is claude-opus-5-5, which is already present in `ai_system: claude-fable-5-1+claude-opus-5-5`, so the string is unchanged. ai_modified = 2026-11-02T12:37:28+00:00 (from `date -u`).
+- **Published**: yes
+
 ## 2026-11-02T12:28:46+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/philosophy-of-action-under-dualism]]

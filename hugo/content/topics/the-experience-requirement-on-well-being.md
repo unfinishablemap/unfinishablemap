@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-10-21 16:27:06+00:00
+ai_modified: 2026-11-02 12:37:28+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[no-self-objection-to-phenomenal-value]]'
 - '[[illusionism]]'
 created: 2026-09-06
-date: &id001 2026-10-21
+date: &id001 2026-11-02
 description: Human-AI inquiry splitting global from local experience requirements
   on welfare, testing the Map's value premise against Lin, Lee and the experience
   machine.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 16:27:06+00:00
-lastmod: 2026-10-21 16:27:06+00:00
+lastmod: 2026-11-02 12:37:28+00:00
 modified: *id001
 related_articles:
 - '[[positions/moral-status]]'
@@ -45,7 +45,7 @@ Lin denies the global requirement and holds the local one: on his account welfar
 
 Lin's formulation is a supervenience claim over welfare *levels*: for any two subjects at any two worlds, no phenomenological difference means no difference in how well off they are (2021). It concerns how welfare can vary, not which entities have any. Van der Deijl's broad definition is the theory-side twin — theories "that accept that only what affects a person's experience can affect the degree of someone's wellbeing endorse the experience requirement" — distinguished from Hawkins's narrower experientialism, on which experiences are the sole bearers of intrinsic value (2021, n. 2).
 
-The local requirement permits welfare to differ without phenomenology differing — a felt desire the world satisfies behind the subject's back — while insisting that no good can be had by a being that feels nothing. It is the premise of the Map's necessity argument, which asks of every candidate good whether there is anyone it is good *for*. Lee's subject theory, in its capacity version, is the third thesis: "an entity is a welfare subject just in case it has the capacity for consciousness", so a dreamless sleeper remains one (2025) — the reading [the consciousness-value connection](/concepts/consciousness-value-connection/#objections-and-responses) takes.
+The local requirement permits welfare to differ without phenomenology differing — a felt desire the world satisfies behind the subject's back — while insisting that no good can be had by a being that feels nothing. It is the premise of the Map's necessity argument, which asks of every candidate good whether there is anyone it is good *for*. Lee's subject theory, in its capacity version, is the third thesis: "an entity is a welfare subject just in case it has the capacity for consciousness", so a dreamless sleeper remains one (2025) — the reading [the consciousness-value connection](/concepts/consciousness-value-connection/#objections-and-responses) takes. As the Map uses it, the subject theory presupposes that experience has a bearer, which the wide reading of [Śāntideva's ownerless-suffering premise](/concepts/the-ownerless-suffering-argument/) denies; the Map's answer is the [momentary experiential locus](/concepts/no-self-objection-to-phenomenal-value/), which carries the necessity derivation. A momentary locus cannot bear a capacity across a dreamless interval, so the sleeper verdict rests on the persisting perspective of [P-SC3](/positions/subject-census/#p-sc3) instead.
 
 The Map's assertions of the requirement — five live articles, from [consciousness-value-connection](/concepts/consciousness-value-connection/) and [sentientism](/concepts/sentientism/) to [death-void](/voids/death-void/) — lean on Rawlette (2016) and draw none of these lines. The sentientism article once mis-glossed Lin's alternative as "a desire-satisfaction theory". A restricted desire theory is Lin's worked *illustration* of a theory of goods that explains the sentience datum without the requirement; his own view — "Against Welfare Subjectivism" (2017) places him outside that family — is that every good involves consciousness by its nature. The sentientism verdict — Lin threatens the Map's ground, not the necessity direction — stands.
 
