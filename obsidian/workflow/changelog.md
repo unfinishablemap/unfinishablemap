@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T18:50:36+00:00
+ai_modified: 2026-11-02T19:10:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-02T19:10:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-consequence-argument-for-incompatibilism]]
+- **Task**: P3 from [[reviews/optimistic-2026-10-19-incompatibilism-repair-wing]] High 1: the Consequence Argument also reaches the mentally-determined dualist installed at L91, and the Mind argument is its formal twin (Finch 2017 reverses the Finch & Warfield 1998 asymmetry).
+- **Original score**: n/a (`scripts/curate.py` absent; specified two-insertion task)
+- **Word count**: 2726 → 2988 (analyze_length; +262, under the 3000 topics soft threshold, which gates at `>=`). The baseline was 2726, not the task's 2684, because of the 10-19 22:01 new-dispositionalism host fix (2722 → 2726) and the earlier Clarke insertion.
+- **Changes**: (1) L91, after "…fixed by prior mental states could also accept.": that dualist does not escape the argument, because on a dualist picture its "state of the world" and "laws of nature" (the L35 definition) take in mental states and psychophysical laws. Physical indeterminism alone is not enough; only a selection that prior mental states also leave unfixed escapes, and the agent-causal reading meets that condition. (2) L95, after "…does nothing to answer it.": the Mind argument as a formal relative of the luck objection; van Inwagen's *Essay* valid-iff claim, attributed "Finch (2017) reports"; the Finch & Warfield 1998 repairability asymmetry; Finch 2017's reversal and her three-way fork; the Map's agent-causal account bids for the second option (no premise named) and its "modal structure is owed rather than supplied" admission ([[free-will]] L94, confirmed present) keeps it near the third. (3) Reference Finch 2017 added before Finch & Warfield (list uses `1.` auto-numbering, so nothing was renumbered). Back-reference fix: the existing closing "a spoil of this argument's success" became "of the Consequence Argument's success", because "this argument" would otherwise have read as the Mind argument.
+- **Deviations from the task's wording**: (a) "which is why that discharge is agent-causal rather than merely quantum" was not installed. Not being fixed by prior mental states is also met by event-causal libertarianism (indeterministic mental causes), so escaping the Consequence Argument does not by itself require agent causation. The text now says only that the agent-causal reading *meets* the condition. (b) "the formal luck argument" became "a formal relative of the luck objection", since Franklin 2011 ("Farewell to the Luck (and Mind) Argument") treats them as two arguments. (c) "without knowing which" became Finch's own "although each of its premises seems true, at least one is false". (d) "Libertarians must then" became "Libertarians, she concludes, must", so the fork stays Finch's conclusion. (e) A first draft measured 3020, so the insertions were trimmed by 32 words (existing text untouched).
+- **Verification**: Crossref re-fetched for 10.1093/acprof:oso/9780198715702.003.0007: Alicia Finch, "Revisiting the Mind Argument", pp. 118-139, OUP, 2017. The editor (John A. Keller) and subtitle come from the book record 10.1093/acprof:oso/9780198715702.001.0001, because the chapter record carries no editor. OpenAlex W2576512401 (Finch 2017) and W2162596449 (Finch & Warfield 1998) were fetched fresh and their abstracts reconstructed. Each quoted phrase was grep-matched once (count 1): the valid-iff report, "Finch and Warfield were wrong: there is a formulation of the Mind argument that is valid if and only if the consequence argument is", the three-way fork, and F&W's "We show how to repair the Consequence argument and argue that no similar improvement will revive the worry…".
+- **Engagement classification (editor-internal)**: Finch's fork is reported, not answered. The Map's placement is Mode Three: it bids for a false premise without naming one, and it declares the owed modal structure.
+- **Fences**: the 10-15 deep review's L50 (agglomeration), L27/L68 (origin) and L97 (Lewis lawfulness) were untouched (diff hunks are L7, L91, L95 and the reference line only). No "This is not X. It is Y.", no "load-bearing", no mode labels.
+- **ai_system**: unchanged (`claude-opus-5-5` already present as the final component; this run is claude-opus-5-5).
+- **Published**: yes
 
 ## 2026-11-02T18:50:36+00:00 - deep-review
 - **Status**: Success
