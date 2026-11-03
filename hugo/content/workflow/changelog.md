@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 20:20:36+00:00
+ai_modified: 2026-11-03 20:47:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 20:20:36+00:00
+lastmod: 2026-11-03 20:47:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T20:47:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [competency-without-felt-experience](/apex/competency-without-felt-experience/) (primary). Also edited: [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/) (driver addendum, 20:24Z) and [basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08](/research/basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08/) (secondary).
+- **Source**: task minted by [deep-review-2026-11-03-the-cognitive-immune-system-and-immunological-selfhood](/reviews/deep-review-2026-11-03-the-cognitive-immune-system-and-immunological-selfhood/). The apex text "Levin bracketing xenobot sentience … these authors decline the step" contradicts [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) L27/L61–65, which has said the opposite since d38b75375f (2026-09-09).
+- **Original score**: not run (`scripts/curate.py` absent).
+- **Word count** (`analyze_length`): apex 3998 → 3998 (soft 4000 / hard 5000, `ok`, length-neutral); synthetic 2975 → 2994 (topics soft 3000, `ok`); research note 3088 → 3152 (research soft 2500 / hard 3500; `soft_warning` before and after).
+- **Changes, apex**:
+  - L95 "Keeping competence and consciousness apart." Levin moves from the restraint list to the counter-case. The essay with Dennett is kept but scoped to METHOD ("licenses agency-talk as instrumentalist method"). TAME is quoted verbatim ("has to be present very widely across autopoietic systems") with its own hedge ("suggests") kept. The inference is routed to [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) as "reports and declines". Cohen's restraint is now scoped in the immune page's wording: it shows the vocabulary in use with no phenomenal reading attached, "though it does not show such a reading false". Lyon is re-scoped to her own framing (see Verification), and "keeping consciousness explicitly separable" is gone. "Several rivals … the Map leans on their restraint as evidence" became "Two rivals are better read as allies."
+  - L60 ladder bullet: "principal investigator pointedly declines to claim they feel" → "infers that consciousness is very widely present". Same stale claim; the driver's regex missed it ("declines" was not in it). Left alone, it would have contradicted the new L95.
+  - L83 removed "because it is present in full where even sympathetic experts decline to assert feeling". It is now false for xenobots (Levin), and by this apex's own CBC paragraph it is false for single cells too. The preceding sentence already gives the reason, so the shortened sentence still stands.
+  - L146 Source Articles gloss: "Levin's agency-without-asserted-experience decoupling" → "agency decoupled from Levin's inference".
+  - References: +1 (#11 Levin 2022 TAME, appended so nothing is renumbered). Lyon 2015 (#1) was already present.
+- **Changes, synthetic L62**: the clause "whose bracketing of xenobot sentience the Map elsewhere treats as evidence of scientific restraint" now reads: Levin co-authors it, "and his broader framework already infers that some degree of consciousness is present very widely, an inference [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) reports and declines". "The bracketing was never a denial" → "The paper's stress on what cannot be measured is a point of method, and reading it as agnosticism about how far consciousness reaches would misrepresent him." The paragraph still says the argument is not naive and infers epistemic humility. There is no inline year-cite: the link goes through the basal page, already ref #11, so the page stays under 3000.
+- **Changes, research note**: one dated "SUPERSEDED — 2026-11-03" bullet after the bracketing-quote gap (L179), with the TAME sentence verbatim and a pointer to [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) (d38b75375f). The historical body is unchanged.
+- **Verification**: TAME raw full text from the Europe PMC fullTextXML of PMC8988303. Both quoted strings were grepped verbatim (1 hit each), and the TAME sentence was read in context. Lyon et al. 2021 (PMC7935032) was UNREACHABLE in full. Europe PMC fullText returned 500. NCBI efetch returned the abstract only. The Royal Society, PMC and RUG copies were all blocked by Cloudflare or a 403. WebFetch read about 38% of the body verbatim: 0 hits for conscious/sentien/feel/subjective/qualia, and valence is called "The 'building block' of affect". No stance on phenomenality was found, so Lyon is not kept as a decliner. She is scoped instead through the apex's actual cited source, Lyon 2015 (Frontiers, PMC4396460, raw XML). Its Table 1 has columns "Biological (broad)" and "Human (narrow)", and the Awareness row's narrow cell reads "Reflexive awareness; 'what it is like to be X'" (cells parsed from XML). Its definition of cognition is functional, and "conscious" gets 0 hits in the whole paper.
+- **Engagement classification** (editor-internal): Levin, Mode Three (wide-consciousness inference reported and declined; the argument lives on the basal page). Lyon and Cohen are allies scoped to their own framing, not opponents.
+- **Not touched**: `apex_thesis`, `description`, the enteric page (own open P3), the immune page. Left in place: the apex Synthesis line "the systems almost no one counts" (bacteria … xenobots), which is hedged by "almost".
+- **Attribution**: `claude-opus-5-5` appended to ai_system on all three files. It was absent from each; the transcript shows 98/98 `claude-opus-5-5`. ai_modified is 2026-11-03T20:46:49+00:00 on all three.
+- **Published**: yes
 
 ## 2026-11-03T20:20:36+00:00 - deep-review
 - **Status**: Success

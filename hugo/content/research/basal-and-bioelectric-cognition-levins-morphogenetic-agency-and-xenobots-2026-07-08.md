@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-09-09 17:50:01+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-03 20:46:49+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 concepts: []
 created: 2026-07-08
-date: '2026-09-09'
+date: '2026-11-03'
 draft: false
-lastmod: 2026-09-09 17:50:01+00:00
+lastmod: 2026-11-03 20:46:49+00:00
 related_articles: []
 title: 'Research Notes - Basal and Bioelectric Cognition: Levin''s Morphogenetic Agency
   and Xenobots'
@@ -182,6 +182,7 @@ This is the reason the subject was harvested, so it deserves explicit treatment 
 - **Levin & Dennett `"pressure points"` quote — VERIFIED 2026-08-03**: verbatim in the essay body. Source sentence: "this kind of teleophobia significantly holds back the ability to predict and control complex systems because it prevents discovery of their most efficient internal controls or pressure points." The downstream article states the contrapositive (attributing goal-directedness *reveals* the pressure points that a mechanical description misses); the essay states that failing to attribute *prevents* their discovery. Also confirmed in the same pass: the essay does reject the "real" vs "as if" goals dichotomy in those words ("We reject a simplistic essentialism where humans have 'real' goals, and everything else has only metaphorical 'as if' goals").
 - **2021 PNAS direct-fetch blocked**: metadata verified only via secondary indexers (PNAS page returned 403). High confidence, but the article page itself was not read.
 - **Levin's explicit sentience-bracketing quote**: the *claim* that Levin brackets phenomenal consciousness is well-attested across TAME and his interviews, but a single crisp, citable sentence to that effect was not captured here. A downstream article making the decoupling argument should pull one verbatim from TAME (2022) or his FAQ/Substack.
+- **Bracketing reading SUPERSEDED — 2026-11-03**: the "Levin brackets sentience" reading under Major Positions and Key Debates above is superseded, which is why no bracketing sentence was ever found. TAME (Levin 2022) holds that its gradualism "suggests that whatever consciousness is, some variant and degree thereof has to be present very widely across autopoietic systems" (verbatim against the PMC8988303 full text); see [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) (d38b75375f).
 - **Critics**: only lightly sampled (one Medium rebuttal surfaced). A balanced article should cite a peer-reviewed critical treatment of basal-cognition inflation, not just popular pushback.
 - **Not covered here**: the deeper Fields–Levin "collective intelligence / TAME metaphysics" papers and any panpsychist readings of Levin (which some commentators attach and which would *conflict* with the Map — worth a caution flag downstream).
 

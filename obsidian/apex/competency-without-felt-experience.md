@@ -4,7 +4,7 @@ description: "Across the tree of life—single cells to engineered cortex—cogn
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-09-23T17:46:23+00:00
+ai_modified: 2026-11-03T20:46:49+00:00
 draft: false
 topics:
   - "[[consciousness-in-simple-organisms]]"
@@ -21,7 +21,7 @@ related_articles:
 
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-07-20T01:35:37+00:00
@@ -57,7 +57,7 @@ The cases sort onto two orthogonal axes, and seeing the geometry is half the syn
 - **Plants** occupy the multicellular non-neural rung, performing whole-body electrical signalling and time-windowed counting with no neurons at all.
 - **The immune system** learns and discriminates self from non-self through clonal selection, a mechanism as Darwinian as natural selection—again with no neurons.
 - **The enteric nervous system** has neurons in abundance—about half a billion—but runs its reflex circuits semi-autonomously, outside the brain and without felt agency; whether any interface-locus nonetheless sits in the gut is the source's open *distributed-interface question*, not a settled absence of experience.
-- **Basal and bioelectric cognition**, Michael Levin's programme, supplies engineering-grade agency: rewritable body plans stored in voltage, xenobots that navigate and self-replicate—systems whose principal investigator pointedly declines to claim they feel.
+- **Basal and bioelectric cognition**, Michael Levin's programme, supplies engineering-grade agency: rewritable body plans stored in voltage, xenobots that navigate and self-replicate—systems whose principal investigator infers that consciousness is very widely present.
 
 The second axis is not about *less* substrate but *differently placed* substrate, and it holds two edge cases that keep the argument from collapsing into "no neurons, no mind."
 
@@ -80,7 +80,7 @@ A single caution runs under all of it, and the piece states it once here rather 
 
 Here is the synthesis no individual rung voices, because it is visible only when the fish case is set beside the sub-personal ones. The same decoupling does *opposite* dialectical work at different points on the ladder.
 
-At the sub-personal rungs, the decoupling blocks an **inflationary** inference. Impressive, goal-directed behaviour tempts the step "therefore probably conscious"—the engine of most over-attribution. Bacteria, sponges, plants, and xenobots break that step: they supply the behaviour without supplying any independent reason to attribute an experiencer. So behavioural richness cannot by itself be a consciousness-specific marker, because it is present in full where even sympathetic experts decline to assert feeling.
+At the sub-personal rungs, the decoupling blocks an **inflationary** inference. Impressive, goal-directed behaviour tempts the step "therefore probably conscious"—the engine of most over-attribution. Bacteria, sponges, plants, and xenobots break that step: they supply the behaviour without supplying any independent reason to attribute an experiencer. So behavioural richness cannot by itself be a consciousness-specific marker.
 
 At the fish rung, the identical discipline blocks a **deflationary** inference. The skeptics' argument runs: felt pain in humans localises to specific cortical networks; fish lack a homologue; therefore fish do not feel. The move from the first two premises to the conclusion quietly assumes that felt pain *is constituted by* the cortical architecture that correlates with it—a reductive identity, or in a subtler version a claim of functional necessity. Grant the identity and architectural absence guarantees phenomenal absence. The Map declines the identity, and with it the entailment. "Fish lack the neocortex" stops settling "fish lack felt pain." Notably, the Map here defends *openness* rather than withholding: it does not assert fish feel, but it refuses to convert missing architecture into a proof of absence, and treats the rich behavioural markers—nociceptors, opioid modulation, analgesia-reversible trade-offs—as suggestive though defeasible.
 
@@ -92,7 +92,7 @@ A cumulative argument earns its keep by meeting the strongest positions that rea
 
 **Reading experience into competence.** The sharpest is Reber and Baluška's **Cellular Basis of Consciousness**: sentience and life are coterminous, the excitable membrane of a single cell already feels, and consciousness reaches back to the origin of life. CBC makes exactly the inference the Map denies—from adaptive, membrane-based sensing to feeling. The Map answers at the framework level rather than by winning the empirical dispute about whether bacterial "decision" is proto-choice or protein-level noise—a dispute the [[single-cell-proto-agency-and-the-evidence-problem|companion evidence-problem article]] argues is plausibly not empirically tractable at the prokaryotic floor, since the same behaviour is generated in full without any residue for proto-choice to explain. It grants CBC's genuine premise—excitable membrane biology really does run continuously from bacteria to neurons—while denying that continuity of *biology* carries continuity of *phenomenality*. CBC posits feeling precisely where the Map's commitments license its absence; that is a framework-relative disagreement, honestly labelled, not a demonstration either way. William Bechtel and Leonardo Bich's argument that *eating is cognition*, grounded in chemical coordination rather than neurons, meets the same reply: the Map grants the competence freely and withholds only the experience, and the neuron-less animals are where that wedge goes in most cleanly.
 
-**Keeping competence and consciousness apart.** Several rivals are better read as allies, and the Map leans on their restraint as evidence. Pamela Lyon's **biogenic cognition** treats cognition as continuous with life while keeping consciousness explicitly separable—a claim about function, not feeling—which the Map can largely adopt, holding only the one line that functional cognition does not entail phenomenal experience. Levin and Dennett's "cognition all the way down" applies the intentional stance below the whole organism as an instrumentalist licence for agency-talk that deliberately does not smuggle in phenomenality. Irun Cohen's cognitive immune "self" is expressly computational. In each case the working scientist's own care—Levin bracketing xenobot sentience, Cohen keeping cognition functional—is the restraint the Map treats as data. Where a reader might slide from "the system cognises" to "the system experiences," these authors decline the step, and their declining is part of the cumulative case.
+**Keeping competence and consciousness apart.** Two rivals are better read as allies. Pamela Lyon's **biogenic cognition** defines cognition functionally; her own table assigns "what it is like to be X" to the narrowly human conception of awareness (Lyon 2015)—a framing the Map can largely adopt, holding only that functional cognition does not entail phenomenal experience. Irun Cohen's cognitive immune "self" is expressly computational; Cohen does not take the phenomenal step his vocabulary invites. That restraint shows the vocabulary in use with no phenomenal reading attached, though it does not show such a reading false. Levin is the counter-case. His essay with Dennett licenses agency-talk as instrumentalist method, but his 2022 framework suggests some degree of consciousness "has to be present very widely across autopoietic systems" (Levin 2022), an inference [[basal-and-bioelectric-cognition]] reports and declines.
 
 **Reading experience out on structural grounds.** The fish skeptics—James Rose, Brian Key's "structure determines function"—err in the opposite direction from CBC, and are answered by the opposite move. "Structure determines *function*" is unobjectionable engineering; "structure determines *feeling*" is a metaphysical identity claim wearing a bioengineering principle's clothes. The Map targets only the second. That Key's article drew more than forty commentaries, most rejecting the conclusion, records that the cortical-necessity premise is contested inside mainstream comparative science, not only from a dualist vantage.
 
@@ -143,7 +143,7 @@ This synthesis integrates:
 - [[plant-cognition-and-the-plant-neurobiology-debate|Plant Cognition and the Plant-Neurobiology Debate]] — processing without a nervous system
 - [[the-cognitive-immune-system-and-immunological-selfhood|The Cognitive Immune System and Immunological Selfhood]] — a functional self with no neurons
 - [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question|The Enteric Nervous System and the Gut-Brain Distributed-Interface Question]] — a "second brain" and the open question of where the interface localises
-- [[basal-and-bioelectric-cognition|Basal and Bioelectric Cognition]] — Levin's agency-without-asserted-experience decoupling
+- [[basal-and-bioelectric-cognition|Basal and Bioelectric Cognition]] — agency decoupled from Levin's inference
 - [[fish-sentience-and-the-teleost-pain-debate|Fish Sentience and the Teleost Pain Debate]] — the architecture-varying rung where the discipline runs in reverse
 - [[brain-organoids-and-the-organoid-intelligence-question|Brain Organoids and the Organoid-Intelligence Question]] — the engineered edge: substrate without world
 - [[consciousness-in-simple-organisms|Consciousness in Simple Organisms]] — the eukaryotic rungs between bacteria and the animals
@@ -161,3 +161,4 @@ This synthesis integrates:
 8. Kagan, B. J., et al. (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. *Neuron* 110(23):3952–3969. https://doi.org/10.1016/j.neuron.2022.09.001
 9. Gumuskaya, G., et al. (2024). Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Seed Cells. *Advanced Science* 11(4):2303575. https://doi.org/10.1002/advs.202303575
 10. Hutchison, C. A. III, et al. (2016). Design and synthesis of a minimal bacterial genome. *Science* 351(6280):aad6253. https://doi.org/10.1126/science.aad6253
+11. Levin, M. (2022). Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds. *Frontiers in Systems Neuroscience* 16:768201. https://doi.org/10.3389/fnsys.2022.768201

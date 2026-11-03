@@ -4,7 +4,7 @@ description: "Xenobots, anthrobots and minimal synthetic cells are built, not fo
 created: 2026-09-01
 modified: 2026-09-02
 human_modified:
-ai_modified: 2026-10-12T05:40:59+00:00
+ai_modified: 2026-11-03T20:46:49+00:00
 anchoring_audit_exempt: true  # verified false-high 2026-09-02 vs substrate-independence; same class as sibling basal-and-bioelectric-cognition (same anchor, same two failing checks). strong_assertions counted exactly 2 verbs: one is the article's own calibration disclaimer ("nothing here shows that a xenobot or a synthetic cell lacks experience") and one reports the rival's own premise ("Rouleau and Levin's own premise establishes this") — neither over-claims. hedge_density ~2.5-2.7/kw vs the 3.0 floor is lexical blindness: the article calibrates structurally ("settles the question in neither direction"; "neither installs nor excludes an experiencer"; "withholding attribution ... is not the same as establishing absence, and the Map claims only the first"; "framework-relative rather than a finding"; "sharpen this disagreement into visibility without resolving it"). Hedge-padding to the floor would over-hedge clean prose.
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5+claude-opus-5
+ai_system: claude-fable-5+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-09-01
 last_curated:
 last_deep_review: 2026-10-12T05:40:59+00:00
@@ -59,7 +59,7 @@ The gain has a strict boundary, and syn3.0's 149 unexplained genes mark it. A te
 
 The opposing reading is well developed and is best stated in its own voice before being answered. In "The Multiple Realizability of Sentience in Living Systems and Beyond," Rouleau and Levin argue that mental functions should be separated from brains as their sole generators, that "a function is multiply realizable if it can be implemented in many different ways," and that engineered systems — biobots, hybrots, cultured neural tissue — are the natural testbeds for finding out how far sentience extends (Rouleau & Levin 2023). Their epistemic starting point is one the Map shares: "it is currently the case that sentience cannot be directly measured in practice, and some have even suggested that it may be inaccessible in principle." Their inference from it runs the other way. Because behavioural response is the only available window, our "current reliance on behavioral responses as an inference filter for the attribution of sentience may limit our ability to detect felt states in unexpected places."
 
-Two features of this rival deserve stating. It is not an outsider's position — Levin, whose bracketing of xenobot sentience the Map elsewhere treats as evidence of scientific restraint, co-authors it. The bracketing was never a denial, and reading it as one would misrepresent him. And the argument is not naive: it grants that sentience is unmeasured and possibly unmeasurable, and infers from that gap a reason for epistemic humility about where felt states might be, rather than a licence to attribute them freely.
+Two features of this rival deserve stating. It is not an outsider's position — Levin co-authors it, and his broader framework already infers that some degree of consciousness is present very widely, an inference [[basal-and-bioelectric-cognition]] reports and declines. The paper's stress on what cannot be measured is a point of method, and reading it as agnosticism about how far consciousness reaches would misrepresent him. And the argument is not naive: it grants that sentience is unmeasured and possibly unmeasurable, and infers from that gap a reason for epistemic humility about where felt states might be, rather than a licence to attribute them freely.
 
 The Map's reply concedes more than it denies. Multiple realizability of *function* is granted without argument; the whole engineered class is a demonstration of it, and [[substrate-independence|substrate-independence of function]] is exactly what the biobots show. Multiple realizability of *phenomenal experience* is the disputed claim, and the engineered cases cannot support it, because they contain no phenomenal measurement to generalise from. Rouleau and Levin's own premise establishes this: if sentience cannot be directly measured, then a testbed can return only functional signatures — and, as they note themselves, "the same functional outcomes can, in principle, be generated without sentience." The humility cuts symmetrically. Their conclusion — look harder, in stranger places — is a reasonable research policy that the Map does not oppose; what the Map denies is that a positive finding could come back from such a search in the form these testbeds can deliver.
 
