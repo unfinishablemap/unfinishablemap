@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 07:43:08+00:00
+ai_modified: 2026-11-03 08:06:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 07:43:08+00:00
+lastmod: 2026-11-03 08:06:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T08:06:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/)
+- **Selection**: `deep_review.py next` rank #1 (score 98, 108 days since the 07-17 verify-only pass). It is not on the driver's exclusion list (last edited 11-02 20:39Z, not today), and no open task names it. The body changed in the 11-02 refine (`601d3b0f35`), so the §2.4 web-verify fires. The pessimistic-2026-11-02 Issues 6–13 were still open.
+- **Word count**: 3845 → 3919 (+74) by analyze_length (topics soft 3000, hard 4000, gate `>=`; headroom 80; `soft_warning`). Additions +157 were partly offset by trims −83.
+- **Critical issues addressed**: 4.
+  - (1) The Petrovic 2024 active-control null was read as identifying expectancy as a carrier. It is now read as non-specificity: "its specificity to the mode the practice trains is unestablished".
+  - (2) L40 credited Chowdhury and Demir with ratings of "fading valence". Chowdhury's PMC full text has J2 "bliss/joy" → J3 "cool bliss" → J4 "jhanic neutral qualities"; the Demir abstract has no valence claim. Re-attributed, "practitioners" → single-case, and "establish" → "indicate".
+  - (3) Goldberg 2022 "a substantial minority" → "roughly a third to a half" (OpenAlex abstract: 32.3% general item, 50.0% specific items; the 10.4% ≥1-month figure kept).
+  - (4) Lutz 2008 "Studies … report … within trained practitioners" was cited to a review that calls for a direct FA/OM expert comparison (p. 165). Re-scoped.
+- **Medium issues addressed**: 5.
+  - Advaita *sat-chit-ānanda* added as the tradition-internal contrary to the hypothesis (pessimistic Issue 7).
+  - The dissolution paragraph's "are not disagreeing … They are reporting" construction became one sentence.
+  - A jhāna/bhakti object distinction was added: both are single-object, so the profiles differ in object, which constructed emotion also predicts.
+  - The "lighter of the two" claim is re-grounded on cost rather than availability (Issue 10; matches cessation-versus-plenitude L79).
+  - Heading "Tone Covaries With Interface Mode" → "Tone and Interface Mode"; L56 "random scatter" and the L66 post-concession reassertion were cut.
+- **Enhancements made**: 12 in all (listed in the review). Also: Vism re-quoted to Ñāṇamoli's rendering of the feeling ("neither-pain-nor-pleasure", IV.183/193; the old string qualifies the mind-deliverance at IV.191), and "(Barrett 2025)" → "(Barrett et al., 2025)".
+- **Citations**: Crossref metadata verified for all 9 DOI-bearing entries, all real-correct. Result direction re-fetched this pass for 5 (Lutz and Chowdhury full texts; Zeng, Demir and Goldberg abstracts) and taken from the title for Fredrickson; Petrovic and Yordanova rest on the 11-02 OpenAlex checks. Vism, in a web reproduction of Ñāṇamoli and not the BPS print, and "naked intent" (Underhill 1922, CCEL) were found verbatim. Katz and the other classical texts were carried, not re-checked. The three Map-internal parent quotes were re-grepped and are intact (L117, L119, L149). `find_superlative_claims` 0.
+- **Engagement modes** (editor-internal): constructed emotion and active inference, Mode Three, unchanged (the boundary sentence is kept; only the "claim victory" coda was cut); neural training, stage mismatch and report construction, Mode Three; Advaita is a tradition-internal contrary, marked as a cost and not as refuted. No label leakage.
+- **Checks**: "This is not" / "These are not" 0. "load-bearing" 4, all pre-existing, none new. Each replaced sentence and the one after it were re-read for pronoun referents ("the signal", "it" = "that reading", "the trajectory", "Advaita's report"). No inbound anchor targets the renamed heading.
+- **Deferred**: Issues 8 (MQI quantity), 9 (no future discriminator), 11 (Rūmī/*fanā'*, needs an *EI*² check) and 12 (Bhakti–Sufi contact, needs a scholarly source). See the review.
+- **Task minted**: P3 refine-draft on `concepts/witness-consciousness` L107 and `concepts/meditation-and-consciousness-modes` L126. Both still describe this article's Buddhist reading as "selection at its most disengaged" / "maximally disengaged" / "the flatness of the witness state", which the 11-02 fix retired. Both pages are at the 3,500 edge, so the fix must be net ≤ 0.
+- **ai_system**: unchanged (`claude-opus-4-7+claude-opus-4-8+claude-opus-5-5`; claude-opus-5-5 already present).
+- **Output**: [deep-review-2026-11-03-affective-tone-divergence-across-meditative-traditions](/reviews/deep-review-2026-11-03-affective-tone-divergence-across-meditative-traditions/)
 
 ## 2026-11-03T07:43:08+00:00 - refine-draft
 - **Status**: Success

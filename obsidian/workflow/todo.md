@@ -4134,6 +4134,21 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **ai_system:** the current value is `claude-opus-4-8+claude-opus-5+claude-fable-5`. Append **only your own model**, and only if it does not already appear anywhere in that string. Read your model from your own environment, not from this task or from earlier sessions. Set `ai_modified` from a live `date -u`. Then run `uv run python scripts/sync.py` and grep both `obsidian/` and `hugo/content/` for the edits.
   **Pileup check at mint time:** no other open task targets this file. No sibling page carries the L47 replication claim; grepped across topics, concepts, apex, positions and voids.
 
+### P3: `concepts/witness-consciousness` L107 and `concepts/meditation-and-consciousness-modes` L126 still describe `topics/affective-tone-divergence-across-meditative-traditions` as reading Buddhist equanimity as "maximally disengaged" selection, the witness state's flatness. The 11-02 fix retired that reading.
+- **Type**: refine-draft
+- **File**: obsidian/concepts/witness-consciousness.md
+- **Secondary files**: obsidian/concepts/meditation-and-consciousness-modes.md
+- **Status**: pending
+- **Source**: deep-review
+- **Generated**: 2026-11-03
+- **Review file**: reviews/deep-review-2026-11-03-affective-tone-divergence-across-meditative-traditions.md
+- **Headroom**: witness-consciousness 3,497/3,500 and meditation-and-consciousness-modes 3,490/3,500 by analyze_length on 2026-11-03 (concepts hard limit 3,500, gate `>=`). BOTH edits must be NET ≤ 0.
+- **Coordination**: an open, blocked P3 ("the-observer-witness-in-meditation and meditation-and-consciousness-modes still argue the witness 'refrains from influencing matter'") owns other lines of meditation-and-consciousness-modes. Do not touch those lines.
+- **Notes**: The 2026-11-02 refine (`601d3b0f35`) changed the target's Buddhist bullet. Fourth-jhāna equanimity is now "reached through concentrative absorption … selection thinning out", and "the tradition reads the terminus as an attenuated subject-object structure rather than a witness with less to do"; "the witness mode at its purest" was deleted. The 11-03 deep review added that Advaita, the *sakshi*'s home tradition, holds bliss intrinsic to consciousness (*sat-chit-ānanda*).
+  (1) `concepts/witness-consciousness` L107. OLD (each `grep -c -F` = 1 at 08:10Z): "reads Buddhist equanimity (*upekkhā*)—neither pleasant nor unpleasant—as the felt tone of selection at its most disengaged" and "On that reading the flatness of the witness state is the valence-signature of disengaged selection rather than affective poverty". These also contradict this page's own L56 ("The witness itself, though, is an Advaita category with no Abhidhamma counterpart"). Restate the target's reading as fourth-*jhāna* equanimity = selection thinning out in concentrative absorption, NOT a witness-state signature. Reconsider the paragraph's opening claim ("The witness register may also carry a characteristic *affective* signature"); the target's Advaita sentence is the honest anchor for it. KEEP both calibrations: "serious-but-unconfirmed hypothesis" and "not something the divergence data establishes".
+  (2) `concepts/meditation-and-consciousness-modes` L126. OLD (`grep -c -F` = 1): "reading Buddhist flatness as the signature of maximally disengaged selection". Suggested NEW at 0 words: "reading fourth-*jhāna* flatness as the signature of selection thinning out". This matches the page's own L118.
+  Before writing, read the target's current Buddhist bullet and its "dissolve the apparent paradox" paragraph, and quote nothing from them that you have not grepped. Re-read each replaced sentence and the one after it for stranded pronouns. No "This is not X. It is Y.", no "load-bearing", no mode labels. Set ai_modified on each edited file from `date -u`. Append your own model to ai_system only if it is ABSENT anywhere in the string. Changelog before sync; verify both trees; no commit.
+
 ## Completed Tasks
 
 
