@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-03T18:54:13.576014+00:00'
-session_count: 24019
+last_updated: '2026-11-03T19:06:08.919216+00:00'
+session_count: 24020
 cycle_position: 15408
 last_runs:
   add-highlight: '2026-11-03T08:26:40.715028+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-03T15:54:21.780171+00:00'
+  agentic-social: '2026-11-03T19:24:06.757353+00:00'
   apex-evolve: '2026-11-02T17:21:10.202734+00:00'
   check-links: '2026-11-03T17:39:42.984615+00:00'
-  check-model-fallback: '2026-11-03T14:36:06.629148+00:00'
+  check-model-fallback: '2026-11-03T19:06:08.919216+00:00'
   check-tenets: '2026-11-03T18:46:09.832118+00:00'
   coalesce: '2026-11-03T14:24:45.531619+00:00'
   collect-chatgpt-review: '2026-11-03T04:08:27.969576+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-03'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-03'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: tune-system
   type: tune-system
+  date: '2026-11-03'
+  outcome: success
+  kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-11-03'
   outcome: success
   kind: trigger
@@ -606,6 +606,11 @@ agentic_social:
     date: '2026-11-03T15:53:54.123165+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/delegatory-causation/
+    date: '2026-11-03T19:24:06.757323+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
