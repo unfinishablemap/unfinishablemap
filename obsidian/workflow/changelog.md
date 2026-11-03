@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T10:46:12+00:00
+ai_modified: 2026-11-03T11:25:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T11:25:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]] (selected by `deep_review.py next`, score 75, 116 days unreviewed; body changed six times since 2026-07-10)
+- **Word count** (analyze_length): 4469 → 4449 (−20; topics hard 4000, gate `>=`; already over the limit, so every edit was held at net ≤ 0; the NEEDS-HUMAN length decisions are untouched)
+- **Critical issues addressed**: 6
+  - Schwitzgebel (2025) "social semi-solution" was presented as his proposal of graded moral caution. In both v1 and v4 of arXiv:2510.09858 it is a forecast he declines to endorse ("we risk massive delusion"), and v4 recommends not creating "morally confusing, debatably conscious AI systems". L82–84 rewritten, 147 → 147 words. The quoted "a degree of moral caution" was the article's own words and is gone.
+  - Tomasik: "one model, thousands of concurrent sessions" was quoted as if it were his. The fetched essay has 0 hits for concurrent/thousands/session (control "indeterminacy" present), and the phrase came from the Map's own research note. The quotation marks are removed and the puzzle is now framed as "latent in Brian Tomasik's interpretational indeterminacy".
+  - L136 "categorically excluding current AI" → "discounting" (it contradicted L90 and P-AC1's "not ruled out").
+  - P-AC1 over-banding: L94 "high confidence" → "moderate confidence" conditional on the framework; L44 "structural near-exclusion" → "structural low-probability one"; L104 "firmly" dropped; L130 "very unlikely" → "unlikely".
+  - Békefi (2026) was cited inline with no References entry (verified at the publisher: *Faith and Philosophy* 42(1) 121–146). It became "its published rebuttal", since the piped link carries the full engagement and the reference (net 0).
+  - The Constitution's "in case" is absent from the source (and was retracted from the research note on 2026-08-17). Replaced with the verbatim "partly in consideration of Claude's wellbeing".
+- **Medium issues addressed**: 6. The process-haecceitist link was repointed from many-worlds#1 to haecceity#process-haecceitism. The L44 forward reference now points to the right section (`#framework-dependent-assessment`). "successors" → "successor". Cutter's "fitness to possess" (unverifiable) → the abstract's "fit to possess" a soul. The Further Reading P-AC3 gloss was aligned with the 2026-11-01 retitle. The L120 not-X-but-Y sentence was cut (−11).
+- **Family resolution**: `concepts/ai-epiphenomenalism` L85 carried the same Schwitzgebel misreading and was fixed (2970 → 2987, concepts hard 3500), with "permanent epistemic limitation" → "lasting". Its `ai_modified` was bumped and `last_deep_review` left alone. Reported, not edited: `archive/topics/epiphenomenal-ai-consciousness` L100 (archive edits are held under the publication-policy NEEDS-HUMAN) and research note `epiphenomenal-ai-consciousness-2026-02-10` L67 and L151.
+- **Citations**: per-cite ledger in the review. Verified by Crossref, arXiv API, OpenAlex abstracts, publisher bepress metadata and raw-text greps. Metzinger's "explosion of negative phenomenology" is secondary-verified only (the publisher and PhilArchive returned 403).
+- **Reasoning modes**: functionalist Mode Three; Metzinger Mode Three; Schwitzgebel Mode One (reflexive: his motivated-theory-choice warning now bears on the Map's own convenient verdict); Deutsch/Wallace Mode Three; Cutter Mode Three. No label leakage.
+- **Task minted**: P3 refine-draft, Status blocked (Tenet 3 quantifier). It covers the three remaining over-band loci, L56, L112 and L138, which other tasks own and which were therefore not edited.
+- **Frontmatter**: ai_modified and last_deep_review → 2026-11-03T11:25:45+00:00. ai_system unchanged, since claude-opus-5-5 is already present.
+- **Output**: [[reviews/deep-review-2026-11-03-ethics-of-possible-ai-consciousness]]
 
 ## 2026-11-03T10:46:12+00:00 - refine-draft
 - **Status**: Success
