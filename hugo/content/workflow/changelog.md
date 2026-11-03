@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 11:25:45+00:00
+ai_modified: 2026-11-03 11:42:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 11:25:45+00:00
+lastmod: 2026-11-03 11:42:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T11:42:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [lawful-appearance-problem](/concepts/lawful-appearance-problem/) (task from [optimistic-2026-10-19-composition-and-appearance-wing](/reviews/optimistic-2026-10-19-composition-and-appearance-wing/), expansion "The plural and Zeno forms of the Map's own appearance debt")
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length): 2335 → 2425 (+90; concepts hard 3500, gate `>=`; target +60–90). All new prose is in §the-maps-own-appearance-debt, plus one word in Relation to Site Perspective.
+- **Changes**:
+  - (1) PLURAL FORM. A new paragraph after the bending sentence says the posit binds the composition rule when several subjects bear on one event. Fixed weights inherit it, and state-dependent weights owe a balancing law ([psychophysical-social-choice-problem](/concepts/psychophysical-social-choice-problem/) §born-favours-fixed-weights, read live: L80–82). The form is conditional. Whether the fixed weights may vary by context "awaits [P-Q2](/positions/quantum-interface/#p-q2)'s quantifier, worded per context but unsettled". That matches the register as it stands: [P-Q2](/positions/quantum-interface/#p-q2) is live and its Asserts reads "Born-exact in every publicly conditionable context". The P1 HUMAN DECISION on the [P-Q2](/positions/quantum-interface/#p-q2) quantifier (todo, Status blocked) is open, and this pass does not settle it. The per-context reading is not propagated as settled.
+  - (2) ZENO CONTRAST. "A Zeno hold, ranked below [post-decoherence-selection](/concepts/post-decoherence-selection/), moves unconditional statistics inside the quadratic window, and 'physical dephasing of the same strength in the same basis would do the same' … Presenting as monitoring, the hold trades the posit for a detectability exposure: one must exclude physical dephasers of that strength." The quote was grep-verified verbatim (1 hit at [zeno-dynamics-on-a-decohered-mixture](/concepts/zeno-dynamics-on-a-decohered-mixture/) L61, §unconditional). The text contrasts monitoring with Born-exact statistics only implicitly, because the Zeno page's RtSP says the hold "leaves every answer Born-distributed". The Map's ranking is kept, with post-decoherence selection ahead of Zeno as in the Zeno page's RtSP and the preference ordering. The Zeno route is not upgraded, and no cost ranking is added (the stability note and the dualism-cartography withdrawal stand).
+  - (3) RtSP L100: "wherever consciousness selects, its selections must reproduce Born statistics" → "wherever consciousness selects outcomes, …" (+1). Next to the new Zeno sentence, the unscoped form would have covered question-selection, whose unconditional statistics move inside the window, and there it is false.
+- **Guards**: anchor `{#the-maps-own-appearance-debt}` 1 (linked from q3-q4 L84); `### Lawfulness {#lawfulness}` 1; "of the same shape" 2; "narrower" 3; "posited rather than explained" 1; the closing inventory sentences of RtSP were kept verbatim. No "This is not X. It is Y." and no "load-bearing".
+- **Reasoning mode**: no named-opponent reply was touched.
+- **Frontmatter**: ai_modified → 2026-11-03T11:42:14+00:00. ai_system unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 2026-11-03T11:25:45+00:00 - deep-review
 - **Status**: Success

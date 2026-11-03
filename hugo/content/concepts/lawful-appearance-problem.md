@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-12
-ai_modified: 2026-10-14 14:55:05+00:00
+ai_modified: 2026-11-03 11:42:14+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-14 14:55:05+00:00
-lastmod: 2026-10-14 14:55:05+00:00
+lastmod: 2026-11-03 11:42:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,6 +89,8 @@ The Map cannot press the lawful-appearance problem without naming its own versio
 
 The shape matches the charge against idealism: something non-physical must present as lawful physical statistics. The scope is narrower, confined to selection events at quantum indeterminacies rather than the whole of physics. And the match is posited rather than explained: the Map adopts it to respect the empirical record, and nothing in its account of conscious selection derives it. The "bending" alternative, which the Map holds open (see [the corridor-versus-bending taxonomy](/topics/born-rule-and-the-consciousness-interface/)), drops the posit and accepts deviations that sufficiently precise aggregate tests could detect.
 
+With several subjects on one event, the posit binds their composition rule: fixed weights inherit it, state-dependent weights owe a balancing law ([social choice](/concepts/psychophysical-social-choice-problem/#born-favours-fixed-weights)), and whether fixed weights may vary by context awaits [P-Q2](/positions/quantum-interface/#p-q2)'s quantifier, worded per context but unsettled. A Zeno hold, ranked below [post-decoherence-selection](/concepts/post-decoherence-selection/), moves unconditional statistics inside the quadratic window, and "physical dephasing of the same strength in the same basis would do the same" ([Zeno](/concepts/zeno-dynamics-on-a-decohered-mixture/#unconditional)). Presenting as monitoring, the hold trades the posit for a detectability exposure: one must exclude physical dephasers of that strength.
+
 ## Rival Readings of the Decomposition {#rival-readings}
 
 Three readings of the itemisation compete. On Kastrup's, lawful appearance is a prediction rather than a debt: dissociation explains why the laws resist our will, and the archetypes explain their stability. Chalmers presses austerity and constitution against cosmic idealism, which he rates the most promising version, but his verdict is comparative: he finds every position on the mind–body problem implausible and concludes that "Idealism is not significantly less plausible than its main competitors". On a third reading, which earlier Map articles leaned toward, the appearance debt is a cost comparable in weight to the interface debt. The Map's [dualism-cartography](/apex/dualism-cartography/) apex has since withdrawn comparative cost verdicts "for want of a scale", and this article follows it.
@@ -101,7 +103,7 @@ The Map's [Dualism](/tenets/#dualism) tenet is a commitment, and this itemisatio
 
 [Occam's Razor Has Limits](/tenets/#occams-limits) applies in both directions. Idealism's one-kind economy cannot settle the matter in its favour, and the Map, which declines to let simplicity count against dualism, cannot mark idealism down for the "supra-natural structure" of its impure versions on grounds of profligacy alone.
 
-[Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) shape the Map's own item. A selection-only channel keeps small the region where mind must present as physics, but does not remove it: wherever consciousness selects, its selections must reproduce Born statistics. The resulting position: lawfulness and structural form are shared; austerity, the explanatory objection and constitution are idealism's; the selection-statistics match is the Map's. Which list is heavier the inventory cannot say.
+[Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) shape the Map's own item. A selection-only channel keeps small the region where mind must present as physics, but does not remove it: wherever consciousness selects outcomes, its selections must reproduce Born statistics. The resulting position: lawfulness and structural form are shared; austerity, the explanatory objection and constitution are idealism's; the selection-statistics match is the Map's. Which list is heavier the inventory cannot say.
 
 ## Further Reading
 
