@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-26 15:22:18+00:00
+ai_modified: 2026-11-03 17:07:36+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ concepts:
 - '[[decoherence]]'
 - '[[measurement-problem]]'
 created: 2026-01-14
-date: &id001 2026-10-20
+date: &id001 2026-11-03
 description: How do distributed neural processes combine into unified experience?
   Classical mechanisms explain coordination but not phenomenal unity—the hard aspect
   of binding. Quantum entanglement may provide genuine holism.
@@ -50,7 +50,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:49:23+00:00
-lastmod: 2026-10-26 15:22:18+00:00
+lastmod: 2026-11-03 17:07:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -166,14 +166,14 @@ The thalamus receives converging inputs from all sensory modalities and projects
 
 ## Experimental Evidence
 
-Experimental work has moved from theoretical possibility toward direct support:
+Experimental work has made quantum binding empirically distinguishable without confirming it:
 
 - **Microtubule-anesthesia link (Khan et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this, though the result also admits a classical reading and has not been independently replicated.
 - **Brain entanglement signatures (Kerskens & López Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
 - **Decoherence debate:** Tegmark's (2000) claim that microtubule quantum states decohere in 10⁻¹³ seconds (ion superpositions in 10⁻²⁰) was challenged by Hagan et al. (2002), who derived 10⁻⁵ to 10⁻⁴ seconds for microtubules—but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn, so the dispute is live rather than settled either way. Avian magnetoreception's leading but unsettled [radical-pair model](/concepts/radical-pair-magnetoreception/) is the one surviving precedent that warm biology can host functional quantum effects; photosynthesis no longer serves ([P-Q8](/positions/quantum-interface/#p-q8)).
 - **Relativistic constraint (Baum, 2024):** Baum argues that zero-lag gamma synchrony cannot arise classically without violating relativistic causality, which he reads as pointing toward quantum non-locality. The inference is contested—classical dynamical-relaying models reproduce zero-lag synchrony despite long conduction delays—so this is a live argument rather than settled evidence (see [zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)).
 
-None of this proves quantum unity generates phenomenal unity. Two lines carry weight—a pharmacological prediction met, imaging signatures reported, neither independently replicated—and together they shift the debate from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific patterns." The relativistic constraint is not a third: as the bullet above records, classical relay-hub models reproduce zero-lag synchrony despite long delays, so that line is contested at its premise. The broader [experimental landscape for consciousness-collapse](/topics/testing-consciousness-collapse/) surveys where these and related predictions stand.
+None of this proves quantum unity generates phenomenal unity. Two lines carry weight—a pharmacological prediction met, imaging signatures reported, neither independently replicated—and together they are compatible with quantum binding while leaving classical explanations of these specific patterns open. The relativistic constraint is not a third: as the bullet above records, classical relay-hub models reproduce zero-lag synchrony despite long delays, so that line is contested at its premise. The broader [experimental landscape for consciousness-collapse](/topics/testing-consciousness-collapse/) surveys where these and related predictions stand.
 
 ## Phenomenal Unity as Primitive
 

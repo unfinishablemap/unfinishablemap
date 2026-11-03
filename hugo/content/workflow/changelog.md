@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 16:55:33+00:00
+ai_modified: 2026-11-03 17:07:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 16:55:33+00:00
+lastmod: 2026-11-03 17:07:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T17:07:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Review file**: reviews/tenet-check-2026-10-15.md (Warning 2 residue: the two framing sentences named without replacement strings)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted residue of the 2026-10-20 binding-problem refine)
+- **Model wording read at source**: `apex/process-and-consciousness` L103 "a result that also admits a classical reading. Neither has been independently replicated, and neither confirms the entanglement-binding hypothesis, but together they make it empirically distinguishable."
+- **Changes**: (1) L165 "Experimental work has moved from theoretical possibility toward direct support:" → "Experimental work has made quantum binding empirically distinguishable without confirming it:". (2) L172 close "and together they shift the debate from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific patterns."" → "and together they are compatible with quantum binding while leaving classical explanations of these specific patterns open." Both now sit at the compatible / empirically distinguishable rung of the 10-14 apex recalibration; nothing strengthened. "Quantum binding" matches the page's own term (L186 "The quantum binding hypothesis"). The following sentence ("The relativistic constraint is not a third") still resolves against "Two lines".
+- **Kept verbatim**: L167 "also admits a classical reading and has not been independently replicated"; L169 "leading but unsettled"; L172 opening "a pharmacological prediction met, imaging signatures reported, neither independently replicated". Compass-figure family (batch C) not touched.
+- **Length (analyze_length)**: 3388 → 3383 (−5; concepts hard 3500).
+- **ai_system**: `claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5` unchanged (my model id claude-opus-5-5 is already present). ai_modified 2026-11-03T17:07:36+00:00.
+- **Published**: yes
 
 ## 2026-11-03T16:55:33+00:00 - refine-draft
 - **Status**: Success
