@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T03:45:01+00:00
+ai_modified: 2026-11-03T04:07:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-03T04:07:28+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (`gpt-5-6-sol-pro`), collected by collect-chatgpt-review. Commissioned 02:09:26Z; ready on the first collect attempt (03:53Z, about 104 min; the single turn was `data-talvt-turn-state="complete"`, no stop button). Subject: `topics/motor-control-quantum-zeno` (fallback:recent-aged). The Claude (03:25Z) and Gemini (04:00Z) legs review the same page.
+- **File**: [[reviews/outer-review-2026-11-03-chatgpt-5-6-sol-pro]]
+- **Extraction**: `[data-markdown-text-style]` was walked to markdown (KaTeX read from `annotation`), giving 40,143 chars and 5,210 words, ending at methodology item 35. Read out in 45 chunks of 900 chars, each hash-checked; the whole-body hash matched the page. The page carries no model-slug attribute, so the slug was taken from the pending entry. A localhost POST and a clipboard read were both tried first and both failed (page CSP; xclip timed out), so the chunks were transcribed.
+- **Claims verified**: 16 checks. ✓ Müller & Rabbitt 1989 in the PDF (the 300 ms is Müller & Findlay's optimum; M&R's central-cue peak is 400–725 ms, p. 320). ✓ Georgiev 2015 arXiv abstract (breakdown beyond the decoherence time, the entropy theorem, the DFS door). ✓ Tegmark 2000 Crossref (missing from the page's 19 references). ✓ Schurger et al. 2021 TiCS and Pech et al. 2025 at PubMed. ✓ Desmurget 2009 abstract (seven patients; the authors conclude that intention "arise[s] from increased parietal activity"). ✓ Becker, Datta & Salzmann 2021 (AHP 22, open-system QZE). ✓ Sauerbrei & Pruszynski 2025 existence; the reviewer's PubMed 39694032 is Zheng & Meister itself. Map side: `motor-selection` L48/L172 and `stapp-quantum-mind` L64/L106 contradict the target's L95/L105 outcome-selection reading.
+- **Disputed**: 4 ✗. Hagan as a generic bound (L115 already scopes it to microtubules); "acceleration is more common" too broad (Kofman & Kurizki 2000, "much more ubiquitous", quoted on the linked sign-problem page); the Libet/volitional-control pages (already calibrated); general tenet-protective bracketing (framework level, covered by NEEDS-HUMAN entries). Unverified: the 2026 prospective-probe study (link not extracted) and the Kiefer & Joos point.
+- **High-value findings**: 11 verified (2 partly).
+- **Tasks generated**: 4 (P1 ×1, P2 ×3), inserted above `## Completed Tasks` (active 304 → 308): (1) P1 mcqz Stapp outcome-selection conflation L95/L105, plus the Georgiev dilemma, Stapp's ~100 Hz (2007 p. 127), Tegmark ref and "twelve-order" arithmetic (budget +90); (2) P2 mcqz Libet/RP calibration: L52/L54, the L46 strawman (direct-refutation remit), the L97 200 ms window, Schurger 2021 (+70); (3) P2 mcqz compatibility-as-location: L38, L89, L81/L125, L83, L119 (+40); (4) P2 Müller & Rabbitt "~300ms" sweep, FIVE FILES (mcqz L68, motor-selection L92/L155 net-zero, decoherence L113, timing-gap-problem L53, attention-and-the-consciousness-interface L63 net-negative). mcqz headroom 455 (3,544/4,000), written into every task.
+- **Already queued**: improvements 22–23 (quantum-neural-timing-constraints ~1 kHz; decoherence ~1,000 events) match the open P3 from the 2026-11-01 Stapp-rate sweep. They now have independent outer-review confirmation; not duplicated.
+- **Methodology**: a 2026-11-03 addendum on the NEEDS-HUMAN propagation entry (the M&R "~300ms" was noted out of scope twice and never tasked, and the "twelve-order" residue of 10-27 likewise). No new methodology task.
+
 ---
 
 ## 2026-11-03T03:45:01+00:00 - refine-draft
