@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 15:48:33+00:00
+ai_modified: 2026-11-03 16:22:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 15:48:33+00:00
+lastmod: 2026-11-03 16:22:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T16:22:33+00:00 - condense
+- **Status**: Success
+- **File**: [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
+- **Before**: 4593 (`analyze_length`, hard_warning; prose 3918 + Further Reading 167 + References 454 by whitespace count)
+- **After**: 3955 (ok under the topics 4000 hard gate, 44 headroom; prose 3370, Further Reading 77, References 454 unchanged)
+- **Reduction**: 13.9% (prose −548, Further Reading −90)
+- **Technique**: Cut restatements, not calibrations. (1) Points stated three or more times now appear once: the connectivity-between-intact-channels point (kept in the dissociative section), the "where each framework pays the mechanism cost" locus (kept in the lead and Relation), and the on/off-production sentence the next paragraph restated. (2) Background the concept pages carry: Tulving's three modes compressed to one sentence; hemispherectomy definition; terminal-lucidity timing restated by the survey figures. (3) The light/deep-sedation sentence duplicated table rows 1–2 and said semantic comprehension "persists" where the table says "Partially impaired"; removed. (4) Further Reading glosses kept for the five closest companions, the rest grouped. The table and all 18 references are byte-identical, and all 32 wikilink targets survive (`neurological-dissociations-as-interface-architecture` folded into the closing convergence line).
+- **Calibration changes (lower or hold only)**: L122 "the Minimal Quantum Interaction tenet absorbs by specifying *how thin* the interface needs to be" removed (optional task item; it contradicted L154 "its minimality bounds detectability, not channel width"). The recovery section's "Second, the *order of channel recovery*" clause offered first-lost/last-regained as asymmetry, but that is the mirror order a static-threshold model predicts. It now says channel order roughly mirrors induction's and that the anaesthesia asymmetry lies in thresholds and timing. "None is captured by a substrate-state-at-a-time description" became "quasi-static", matching `concepts/direction-of-interface-change` L57. DID "compartmentalises" became "is reported to compartmentalise", matching the table's "Reported severed". The lead's "reads them off its core architecture" became "reads the ordering off … and accommodates the asymmetry", matching L136/L152.
+- **Map-internal quotes**: `topics/targeted-lesion-…` L42 quotes this page's test sentence verbatim; the 2026-06-16 coalesce had reworded it. The page wording is restored to match the quote (+3 words). `concepts/cross-mechanism-convergence` L61 (L92 quote and L118 sentence) and `apex/self-concealing-interface` L109 (lead quote) are still verbatim.
+- **Preserved (count 1 before and after)**: every phrase on the task list except L154's "Born-exactness, not channel narrowness", which commit 6a7dcd011c (2026-10-30) had already replaced with "bounds detectability, not channel width" (kept, 1→1). Also kept: every guard from the 08-08, 09-19 and 10-27 reviews.
+- **Conflict flagged**: the todo task's 2026-10-27 DRIVER ADDENDUM says "Do NOT condense prose". Today's driver brief directed a prose cut; that brief was followed.
+- **ai_system**: unchanged (`claude-opus-5-5` already present).
 
 ## 2026-11-03T15:48:33+00:00 - deep-review
 - **Status**: Success
