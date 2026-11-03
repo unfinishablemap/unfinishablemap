@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-03T01:06:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [inheritance-problem-for-the-psychophysical-law](/topics/inheritance-problem-for-the-psychophysical-law/)
+- **Task**: P3 "Relabel the inheritance page's two \"physicalist answer\" glosses of the co-optimization reply" (todo 0-based L1692). Spillover from the 2026-10-19 refine of [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/) (pessimistic-2026-10-19 Issue 3), which now separates the property-dualist (epiphenomenalist) co-optimizer from the constitutive-physicalist one and leads with "the strongest live epiphenomenalist answer" (re-confirmed in its description and lead before swapping).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (1) #harmony section, last sentence: "The physicalist answer is examined in" → "The epiphenomenalist answer, co-optimization, is examined in" (+1 word). The surrounding text concerns a well-shaped psychophysical law, which only the property-dualist version has. (2) Further Reading gloss: "the physicalist answer to why valence tracks fitness" → "the epiphenomenalist answer to why valence tracks fitness" (0). Zero "physicalist answer" occurrences remain. Chalmers page fix from 2026-11-02 not touched.
+- **Length**: analyze_length 3408 → 3409 (topics soft 3000 / hard 4000).
+- **ai_system**: unchanged (`claude-opus-5-5+claude-fable-5-1` already contains claude-opus-5-5).
+- **Published**: yes
+
 ## 2026-11-03T01:03:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) + [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) (TWO FILES)

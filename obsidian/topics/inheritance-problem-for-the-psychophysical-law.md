@@ -2,9 +2,9 @@
 title: "The Inheritance Problem for the Psychophysical Law"
 description: "If conscious selection affects fitness, what does evolution pass on? A human-AI analysis separating receiver, eligibility and law, and naming the debts that remain open."
 created: 2026-10-13
-modified: 2026-11-02
+modified: 2026-11-03
 human_modified:
-ai_modified: 2026-11-02T15:51:50+00:00
+ai_modified: 2026-11-03T01:06:29+00:00
 draft: false
 topics:
   - "[[evolution-under-dualism]]"
@@ -65,7 +65,7 @@ Sorted this way, the horns come apart. Horn (b) is the anomaly, since it asks se
 
 A fixed law escapes the inheritance problem and takes on another. Brian Cutter and Dustin Crummett name it **psychophysical harmony**: "phenomenal states are correlated with physical states and with one another in strikingly fortunate ways" (2025). Experiences go with the behaviour they rationalise and with the reports they make true. They argue that harmony is strong evidence for theism, or at least against atheism in its standard naturalistic form.
 
-Saad (2022) presses the same explanandum toward panpsychism. If most experiences in nature are not harmonious, as panpsychism allows, the harmonious biological ones cry out less for explanation, and he argues that "biological theorists", who hold that conscious subjects are generally biological, cannot borrow that reply. The Map appears to sit on the biological side of his division, so the argument bears against it. Both diagnoses make a point the Map should accept: a well-shaped law is itself something to explain, and evolution cannot explain it, because evolution presupposes the law. The physicalist answer is examined in [[co-optimization-reply-to-the-correlation-problem]].
+Saad (2022) presses the same explanandum toward panpsychism. If most experiences in nature are not harmonious, as panpsychism allows, the harmonious biological ones cry out less for explanation, and he argues that "biological theorists", who hold that conscious subjects are generally biological, cannot borrow that reply. The Map appears to sit on the biological side of his division, so the argument bears against it. Both diagnoses make a point the Map should accept: a well-shaped law is itself something to explain, and evolution cannot explain it, because evolution presupposes the law. The epiphenomenalist answer, co-optimization, is examined in [[co-optimization-reply-to-the-correlation-problem]].
 
 Mørch (2017) offers the most useful way out. She concludes that some criticisms of the traditional evolutionary argument against epiphenomenalism are fatal "if it is understood, as it traditionally has been, as an argument for any standard version of non-epiphenomenalism such as physicalism and interactionism". Read instead as an argument for the **phenomenal powers view**, on which phenomenal properties "produce and thereby (metaphysically) necessitate their effects in virtue of how they feel", she argues that this view explains the correlations, given natural selection, far better than any other. Her verdict is that the argument in its traditional form fails as support for standard interactionism, and her wider work argues for panpsychism (Mørch 2014).
 
@@ -143,7 +143,7 @@ The proposal leaves four debts open:
 - [[the-psychophysical-control-law]] — what a downward law would have to specify
 - [[born-preserving-causal-efficacy]] — the conditional-signature trilemma and the routes the selectability constraint maps onto
 - [[selection-only-channel]] — why Born preservation constrains the marginal, not the conditionals
-- [[co-optimization-reply-to-the-correlation-problem]] — the physicalist answer to why valence tracks fitness
+- [[co-optimization-reply-to-the-correlation-problem]] — the epiphenomenalist answer to why valence tracks fitness
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — dispositional essentialism and phenomenal powers
 
 ## References
