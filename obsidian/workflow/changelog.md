@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T00:37:41+00:00
+ai_modified: 2026-11-03T03:11:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T03:11:54+00:00 - research-topic
+- **Status**: Success
+- **Topic**: McKilliam's natural-kind reasoning versus theory testing, and whether it can run under dualism (P3 todo 0-based L39, harvested from optimistic-2026-11-02-map-as-science-wing)
+- **Output**: [[research/mckilliam-natural-kind-reasoning-versus-theory-testing-2026-11-03]]
+- **Sources consulted**: 12. McKilliam 2023 PhD thesis full text (figshare); Beni 2026 *NoC* full text (Europe PMC); Crossref abstract and 85-item deposited reference list for McKilliam 2025 *Noûs*; abstracts for McKilliam *Ergo* and *AJP*, Beni *NIP* (METU AVESİS) and *JGPS*, Chang 2017, Kob & Marvan 2026, Negro & Mudrik 2025, Overgaard et al. 2025; OpenAlex citing-works list (32). Plus 2 web searches. Wiley, Monash Pure, PhilArchive, Springer and Ergo returned bot challenges, and none was passed.
+- **Recommended action**: fold (mints nothing) into `concepts/philosophy-of-science-under-dualism`, as a new paragraph after L110 "...and the Map records it as unanswered." (anchor `grep -c -F` = 1). The fold is 293 words plus 4 refs (84 words), taking the host from 2815 to about 3192 of 3500 hard. There is an optional 44-word reciprocal for `concepts/is-conscious-being-a-natural-kind` (anchor "the **natural-kind concept** that the science needs.", = 1). The apex L76 "records as unanswered" stays true.
+- **Key findings**:
+  - The method runs under dualism only on a processing kind. In the thesis precursor, "conscious processing", not subjective experience, does the explanatory work, and lawful non-physical properties are listed as compatible. It cannot run on a phenomenally individuated kind: it finds where the kind is, not what it is. This is a cost to the Map.
+  - It answers a different question, so the objection is sharpened rather than answered. Divergence recurs inside the method (McKilliam's critique of Bayne and Shea; his own escape needs introspection to be correctable, which the observation void doubts; Chang 2017 allows local minima).
+  - Beni 2026 *NIP* targets McKilliam by name (IBE imports theory), which is new relative to the 08-21 review. Beni 2026 *NoC* says Lakatosian demarcation is itself theory-laden and that no recipe is likely to settle the underdetermination.
+  - The brief's Chang question is answered: Chang 2004 and Chang 2017 are both in the *Noûs* reference list and are cited in the thesis text.
+- **Secondary (no task)**: void L96 gives Phillips's starting-point form of the objection, which McKilliam's thesis answers; the Irvine form may serve the void better (void at 2949/3000). The 11-02 optimistic review's hope for a "dualist's best instrument" is corrected in the note.
+- **ai_system**: claude-opus-5-5
 
 ## 2026-11-03T01:43:04+00:00 - deep-review
 - **Status**: Success
