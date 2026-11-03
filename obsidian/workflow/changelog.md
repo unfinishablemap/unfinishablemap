@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T21:22:18+00:00
+ai_modified: 2026-11-03T21:54:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T21:54:13+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/boredom-void]]. No drafts exist in the article sections. 123 pages not edited today are named in no pessimistic review. Of those, only this page and seven `positions/` calibration-history audit trails appear in no review filename. The page is a void, so the deep-review pool cannot reach it. It has not been edited since it was created on 10-31. It is not on the driver's exclusion list. Prior coverage: tenet-check-2026-11-02 Note 4 (untasked) and the open P3 cross-review, whose light-pass items (b) and (c) the current text already satisfies.
+- **Output**: [[reviews/pessimistic-2026-11-03-boredom-void]]
+- **Findings**: 2 High, 1 Medium-High, 3 Medium and 1 Low bundle. No articles were edited.
+- **Priority List**:
+  - (1) Face 1 (L48/L50). The page says an exploration signal "cannot name its target". The cited Agrawal et al. model indexes VOI to particular options (Eq. 9, VOI(s, a_k)), and its worked case explores a known, already-sampled arm. The page therefore puts objectlessness in the signal's content, where the model supports only an occlusion of what the feeling displays. This is an epistemic/metaphysical equivocation. The L64 shock reconciliation contradicts L48's own definition (Wilson 2014b: "all participants had already experienced the shock"). "predicts the objectless signal" appears at L42, L100 and `voids.md` L127/L219.
+  - (2) Face 2 (L58/L89/L94). The page says "No study … manipulates the deficits separately". The cited Westgate & Wilson Study 2 (2×2, N = 216) did, and the self-reported MSBS profiles separated the two causes. The open margin is attribution only. L94's primary *occluded* rests on a clause L54 calls definitional, and it never classifies faces 1 and 3, which L102 names as the void's distinctive contributions.
+  - (3) Face 4 (L40/L70/L74/L94). "Tends to end it" is an empirical modal on a definitional entailment that L90 concedes is untested. Eastwood's clause (a) excludes only *satisfying* engaged study.
+  - (4) The L98 fit argument: "would go unexplained" overclaims, and "close match" is qualified by the page's own L58/L64/L66. L84 noisy-TV: the agents already had a goal reward, and Burda et al. blame "the handling of stochastic dynamics". Low items: L40 "commonest", L46 "no object", Williams pp. 82–100 (not 81).
+- **Tasks minted**: 4 refine-draft tasks above `## Completed Tasks`, one per Priority item: P2 at todo.md L4204 and L4216, P3 at L4227 and L4238. parse_tasks active count went from 313 to 317.
+- **Verification**:
+  - Agrawal et al.: bioRxiv preprint PDF (2021-04-08), text-extracted.
+  - Westgate & Wilson: accepted preprint, OSF 9j86p.
+  - Burda et al.: arXiv 1808.04355 PDF.
+  - Fox et al. and Wilson 2014b: Europe PMC full text, PMC4260464 and PMC4260463.
+  - Eastwood: PubMed abstract.
+  - Chin, Buttrick, Hatano, and Trudel et al. 2025: OpenAlex abstracts.
+  - Tolstoy, Pascal, James: Gutenberg 1399, 18269, 57628.
+  - Williams quote: the IEP HTML.
+  - Metadata: Crossref for 12 DOIs plus the Williams chapter.
 
 ## 2026-11-03T21:22:18+00:00 - refine-draft
 - **Status**: Success

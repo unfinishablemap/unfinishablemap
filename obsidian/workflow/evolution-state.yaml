@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-03T21:09:27.877028+00:00'
-session_count: 24027
-cycle_position: 15412
+last_updated: '2026-11-03T21:25:08.253160+00:00'
+session_count: 24028
+cycle_position: 15413
 last_runs:
   add-highlight: '2026-11-03T08:26:40.715028+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-03T12:26:59.342224+00:00'
   pessimistic-review: '2026-11-03T09:54:34.403599+00:00'
   positions-evolve: '2026-11-03T00:10:53.939137+00:00'
-  refine-draft: '2026-11-03T20:50:01.825246+00:00'
+  refine-draft: '2026-11-03T21:25:08.253160+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-03T13:13:30.785684+00:00'
   research-voids: '2026-11-03T18:12:03.491625+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-03'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-03'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-03'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-03'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/interpretive-sensory-access-theory/
