@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 17:07:36+00:00
+ai_modified: 2026-11-03 18:10:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 17:07:36+00:00
+lastmod: 2026-11-03 18:10:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T18:10:49+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Substitution Void: given a hard question, a mind often answers an easier neighbour (attribute substitution) and experiences the result as an answer to the question asked; the check would need the very access whose absence caused the swap
+- **Category**: Mixed (correctable but stubborn where a separate route to the target exists; Unexplorable where none exists; Occluded flavour in the fluent, self-concealing answer)
+- **Output**: [voids-substitution-void-2026-11-03](/research/voids-substitution-void-2026-11-03/)
+- **Key finding**: Kahneman's 2002 Nobel lecture gives the model ("respondents offer a reasonable answer to a question that they have not been asked"; "attribute substitution is a silent process"). Whether anything registers the swap is contested by measure: confidence drops (De Neys, Rossi & Houdé 2013, replicated N = 264), but CRT mouse-tracking shows no attraction to the correct option (Travers et al. 2016), and across 59 studies the intuition "often survives whatever further reflection can be induced" (Meyer & Frederick 2023). The Moses illusion survives a "can't say" option, incentives (Speckmann & Unkelbach 2021) and errors printed bolded and underlined (Cantor & Marsh 2017), and it writes back into memory (Bottoms et al. 2010). Chalmers's bait-and-switch and the conceivability-for-possibility worry put symmetric demands on both sides; Lombrozo (2007) gives Tenet 5 a defeasible mechanism-level gloss.
+- **Novelty**: zero hits in voids, voids notes, archive and live corpus for attribute substitution / Moses illusion / bat and ball / easier question / knowledge neglect / heuristic attribute / substitution sensitivity (positive control "Kahneman" 2/5/9/40). Nearest neighbours: [noetic-feelings-void](/voids/noetic-feelings-void/) (the FOR gate, not what passes it), [question-formation-void](/voids/question-formation-void/) (asking, not answering), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) (motivated substitution, not accessibility-driven).
+- **Recommended action**: article → `voids/substitution-void` ("The Substitution Void"). Fold hosts noetic-feelings-void (3727), question-formation-void (2735) and confabulation-void (2846) lack room. Voids is 115/125.
+- **Exposure flagged**: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) L73 "Detection, though, is not the bottleneck" rests on base-rate tasks; Travers et al. (2016) found no detection signal on the CRT. A scoping refine lead for the driver.
+- **Citations**: 18 listed; every DOI verified at Crossref; quotes grep-verified in raw text (Nobel lecture PDF, Speckmann & Unkelbach full text, Hagendorff et al. full text, Chalmers 1995 online text, Travers et al. author manuscript, abstracts via Europe PMC / OpenAlex / arXiv); Kahneman & Frederick (2002), Meyer & Frederick (2023) full text and De Neys et al. (2013) full text not read.
+- **State**: not added to `task_chains.pending_articles` (driver hand-mints the expand).
 
 ## 2026-11-03T17:07:36+00:00 - refine-draft
 - **Status**: Success
