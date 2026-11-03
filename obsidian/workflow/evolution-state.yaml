@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-03T18:46:09.832118+00:00'
-session_count: 24018
+last_updated: '2026-11-03T18:54:13.576014+00:00'
+session_count: 24019
 cycle_position: 15408
 last_runs:
   add-highlight: '2026-11-03T08:26:40.715028+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-11-03T13:13:30.785684+00:00'
   research-voids: '2026-11-03T18:12:03.491625+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-10-31T16:51:45.502472+00:00'
+  tune-system: '2026-11-03T18:54:13.576014+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-11-03T14:24:46.207282+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 26
   research_notes: 747
-  reviews_completed: 8258
+  reviews_completed: 8259
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-11-03'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-03'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: check-tenets
   type: check-tenets
+  date: '2026-11-03'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-11-03'
   outcome: success
   kind: trigger
@@ -1129,12 +1129,12 @@ tune_system_history:
       not 2 as CLAUDE.md and todo L128 state. See reviews/system-tune-2026-10-31.'
   - date: '2026-11-03'
     reason: 'Run 2026-11-03 - TWENTY-FIFTH consecutive zero-Tier-1 run (same four
-      keys absent, grep count 0 each); fired 3.1d after 10-31. Health: 62/62 loop posts
-      SUCCESS today, failed_tasks empty, critical 0; outer-review cycles 11-01/11-02/11-03
+      keys absent, grep count 0 each); fired 3.1d after 10-31. Health: 62/62 loop
+      posts SUCCESS today, failed_tasks empty, critical 0; outer-review cycles 11-01/11-02/11-03
       each 3/3 + synthesis. Verified: coalesce 6/6 abandoned since 10-31 (best fitting
-      cosine 0.166); agentic-social 8/8 overridden, selector pick non-deterministic between
-      runs; 2 more research-chain hand-mints; driver brief truncation overrode a 10-27
-      addendum (condense 2eea0e11) and a --skill mislabel. See reviews/system-tune-2026-11-03.'
+      cosine 0.166); agentic-social 8/8 overridden, selector pick non-deterministic
+      between runs; 2 more research-chain hand-mints; driver brief truncation overrode
+      a 10-27 addendum (condense 2eea0e11) and a --skill mislabel. See reviews/system-tune-2026-11-03.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -1143,10 +1143,10 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-11-03T18:53:38+00:00'
-  last_run_note: Run 2026-11-03 - TWENTY-FIFTH consecutive zero-Tier-1 run (four
-    keys still absent, grep-verified); 62/62 loop posts SUCCESS today; no outages;
-    coalesce 6/6 abandoned since 10-31; four Tier 2 items (coalesce precondition,
-    deterministic voids-inclusive social selector, fold/voids chain mints, full-field
-    task passing + --skill default). See reviews/system-tune-2026-11-03.
+  last_run_note: Run 2026-11-03 - TWENTY-FIFTH consecutive zero-Tier-1 run (four keys
+    still absent, grep-verified); 62/62 loop posts SUCCESS today; no outages; coalesce
+    6/6 abandoned since 10-31; four Tier 2 items (coalesce precondition, deterministic
+    voids-inclusive social selector, fold/voids chain mints, full-field task passing
+    + --skill default). See reviews/system-tune-2026-11-03.
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-11-03.md
