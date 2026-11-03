@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-02T08:09:48.003692'
+ai_modified: '2026-11-03T08:23:25.310450'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-02'
+modified: '2026-11-03'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-03: Feeling Real and Judging Real Come Apart Both Ways
+
+Charles Bonnet patients report images that feel real yet know they aren't there; in depersonalisation a world feels unreal but is judged real. So insight classifies an experience apart from how real it feels. The self-report record fits this best but doesn't force it.
+
+**Type**: new-article  
+**Link**: [[clinical-insight-presented-and-judged-unreality]]
+
+---
+
 ### 2026-11-02: If Consciousness Matters, Can a Verified Chip Have It?
 
 A 2024 proof: if consciousness changes how a system evolves, no AI on verified chips is conscious. The Map grants two premises but not the third, that computation fixes whether an AI is conscious, and reads the result as coherent with its view, not as evidence for it.
@@ -205,15 +214,6 @@ If current LLMs aren't conscious, their words refer as a book's do, via the auth
 
 **Type**: new-article  
 **Link**: [[whether-language-model-words-refer]]
-
----
-
-### 2026-10-11: Neural Activity Lasts. Why Does Lasting Feel Like Flow?
-
-Kent and Wittmann call time consciousness the missing link, and say that unlike qualia, time is instantiated in neural activity. The Map had cited them as allies; the revised page states their view and replies that activity which lasts doesn't explain why lasting feels like flow.
-
-**Type**: refinement  
-**Link**: [[temporal-consciousness-structure-and-agency]]
 
 ---
 
