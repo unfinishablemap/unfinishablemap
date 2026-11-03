@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-12 08:38:45+00:00
+ai_modified: 2026-11-03 07:42:33+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:28:50+00:00
-lastmod: 2026-10-12 08:38:45+00:00
+lastmod: 2026-11-03 07:42:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,7 +114,7 @@ Recent work is suggestive: epothilone B delayed anaesthetic-induced unconsciousn
 
 ## Neural Decision Windows
 
-Empirical neural decision timings cluster at a few hundred milliseconds, though on different clocks: motor commitment ~280ms before movement (Thura & Cisek, 2014), voluntary attention deployment ~300ms post-cue (Müller & Rabbitt, 1989), the frontal theta signature of willed attention from ~500ms post-cue (Rajan et al., 2019), and the last point at which movement onset can still be withheld, ~200ms before it (Schultze-Kraft et al., 2016)—figures of the same order rather than one shared window. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for detailed analysis.
+Empirical neural decision timings cluster at a few hundred milliseconds, though on different clocks: motor commitment ~280ms before movement (Thura & Cisek, 2014), cued-attention facilitation peaking ~100–175ms (peripheral) or ~400–725ms (central) post-cue (Müller & Rabbitt, 1989), the frontal theta signature of willed attention from ~500ms post-cue (Rajan et al., 2019), and the last point at which movement onset can still be withheld, ~200ms before it (Schultze-Kraft et al., 2016)—figures of the same order rather than one shared window. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for detailed analysis.
 
 Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. Can quantum effects bridge the gap between microsecond decoherence and hundreds-of-milliseconds decision windows?
 
@@ -198,7 +198,7 @@ The Map's position on decoherence would face serious difficulty if:
 
 The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences quantum outcomes without injecting energy. The decoherence objection has historically been treated as the principal scientific challenge to this tenet. The five responses show the objection is serious but not the conversation-stopper it is often portrayed as.
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet depends on a physical mechanism for consciousness to influence the world. The five responses preserve this space: the measurement-problem opening works regardless of decoherence timescales, while discrete-event mechanisms sidestep decoherence timing entirely. The neural decision windows (280–300ms) are precisely where [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/) would need to operate. The [argument-from-reason](/topics/argument-from-reason/) strengthens the case: if rational thought requires consciousness to influence neural activity, some mechanism for mind-brain interaction must exist. Quantum indeterminacy provides a candidate.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet depends on a physical mechanism for consciousness to influence the world. The five responses preserve this space: the measurement-problem opening works regardless of decoherence timescales, while discrete-event mechanisms sidestep decoherence timing entirely. The neural decision windows are precisely where [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/) would need to operate. The [argument-from-reason](/topics/argument-from-reason/) strengthens the case: if rational thought requires consciousness to influence neural activity, some mechanism for mind-brain interaction must exist. Quantum indeterminacy provides a candidate.
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/)—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology weakened it empirically.
 

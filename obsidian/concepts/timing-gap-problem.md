@@ -4,7 +4,7 @@ description: "The 10¹²-fold mismatch between quantum decoherence and neural de
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-11-01T13:14:58+00:00
+ai_modified: 2026-11-03T07:42:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ Two timescales must connect for quantum consciousness theories to work:
 
 **Quantum side.** Decoherence destroys superpositions through environmental interaction. In warm, wet biological tissue, thermal noise causes rapid decoherence. Tegmark modelled both regular neuron firing (involving ion channels) and microtubule polarisation excitations, finding decoherence times of 10⁻²⁰ and 10⁻¹³ seconds respectively—far shorter than any neural process.
 
-**Neural side.** Conscious decisions involve empirically established timing windows, though the figures below come from different species and are anchored to different events. Thura and Cisek (2014) found motor commitment signatures approximately 280 milliseconds before movement in monkeys choosing reaches. Voluntary attention takes approximately 300 milliseconds to deploy after a cue in humans (Müller & Rabbitt 1989), and the frontal theta signature of willed attention, also measured in humans, begins approximately 500 milliseconds post-cue (Rajan et al. 2019). The Libet readiness potential begins approximately 550 milliseconds before action. Any quantum mechanism that influences conscious decisions must remain operative long enough to interact with these neural windows.
+**Neural side.** Conscious decisions involve empirically established timing windows, though the figures below come from different species and are anchored to different events. Thura and Cisek (2014) found motor commitment signatures approximately 280 milliseconds before movement in monkeys choosing reaches. In humans, cued attentional facilitation peaks approximately 100–175 milliseconds after a peripheral cue and 400–725 milliseconds after a central one—both cue types instructed (Müller & Rabbitt 1989)—and the frontal theta signature of willed attention begins approximately 500 milliseconds post-cue (Rajan et al. 2019). The Libet readiness potential begins approximately 550 milliseconds before action. Any quantum mechanism that influences conscious decisions must remain operative long enough to interact with these neural windows.
 
 The gap is not a matter of degree. Even on Tegmark's longer microtubule figure, femtoseconds and hundreds of milliseconds differ by a factor of roughly 10¹²; the ion figure widens this to 10¹⁹. No known physical process bridges such a disparity through simple scaling.
 
@@ -60,7 +60,7 @@ The gap is not a matter of degree. Even on Tegmark's longer microtubule figure, 
 
 Hagan et al. (2002) challenged Tegmark's parameters for microtubule decoherence, arguing he used unrealistic superposition separation distances (24 nanometres versus the smaller distances Orch OR specifies), inappropriate thermal equilibrium assumptions, and incorrect charge models. Their corrected calculations yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. Bandyopadhyay's laboratory measurements found collective oscillations in isolated microtubules consistent with coherence lasting approximately 100 microseconds (reported in Hameroff & Penrose, 2014).
 
-This narrows the gap from twelve orders of magnitude to roughly three. Yet 100 microseconds remains far shorter than the 280-300 millisecond decision windows, so revised estimates alone do not resolve the problem.
+This narrows the gap from twelve orders of magnitude to roughly three. Yet 100 microseconds remains far shorter than decision windows of hundreds of milliseconds, so revised estimates alone do not resolve the problem.
 
 ### Mechanism-Specific Strategies
 

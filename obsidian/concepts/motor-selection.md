@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates; dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-10-26T21:21:43+00:00
+ai_modified: 2026-11-03T07:42:33+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-26T20:49:10+00:00
@@ -47,7 +47,7 @@ The premotor theory of attention proposes that attention and motor planning shar
 
 One caution governs everything that follows. The Zeno mechanism this page develops is a *context and probing* proposal—it controls which neural state is measured and how often, with outcomes still Born-governed. That is Stapp's Process-1 placement, not the *outcome selection* the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet adopts; they are different causal proposals. The [[positions/quantum-interface|quantum-interface register]] ranks Stapp-Zeno below [[post-decoherence-selection|post-decoherence selection]] (P-Q4 against P-Q1), and its [[positions/quantum-interface#^mechanism-debt|mechanism debt]] stands undischarged. Read every selection claim below at the confidence the register sets, not above it.
 
-The unification has empirical support: willed attention carries more frontal theta than instructed (Rajan et al. 2019) and volitional movement engages theta dynamics (Köhler et al. 2024), though the willed-versus-instructed contrast is untested for movement; voluntary action commits ~280ms before movement, the same order as voluntary attention's ~300ms deployment; neural populations encode multiple potential actions simultaneously, competing until one reaches threshold; and the Libet challenge has been substantially weakened by evidence that the readiness potential is noise rather than decision.
+The unification has empirical support: willed attention carries more frontal theta than instructed (Rajan et al. 2019) and volitional movement engages theta dynamics (Köhler et al. 2024), though the willed-versus-instructed contrast is untested for movement; voluntary action commits ~280ms before movement, on a clock no attention timing yet shares; neural populations encode multiple potential actions simultaneously, competing until one reaches threshold; and the Libet challenge has been substantially weakened by evidence that the readiness potential is noise rather than decision.
 
 ## The Premotor Theory of Attention
 
@@ -89,7 +89,7 @@ The competition dynamics do not, by themselves, need a conscious selector. Class
 
 ### The 280ms Commitment Point
 
-Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target reaches a consistent peak while the unselected target is suppressed—"volitional commitment to an action choice." This is of the same order as the ~300ms that voluntary attention takes to deploy after a cue (Müller & Rabbitt 1989), but the two figures sit on different clocks—back from movement onset in monkeys, forward from cue onset in humans—and Rajan et al.'s (2019) marker of willed attention, the frontal theta increase, begins only at ~500ms post-cue. The overlap suggests a shared mechanism without establishing one.
+Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target reaches a consistent peak while the unselected target is suppressed—"volitional commitment to an action choice." The ~300ms often paired with this commitment point is the cued-orienting optimum in studies Müller and Rabbitt (1989) summarise; the two figures also sit on different clocks—back from movement onset in monkeys, forward from cue onset in humans—and Rajan et al.'s (2019) marker of willed attention, the frontal theta increase, begins only at ~500ms post-cue. Timing therefore cannot yet support a shared mechanism.
 
 ### Basal Ganglia Brake-Release
 
@@ -152,7 +152,7 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 [[structure-of-attention|Willed attention]] shows greater frontal theta, frontoparietal coherence and two-way Granger causality than instructed attention (Rajan et al. 2019)—a relative increase, not an all-or-none marker. Whether willed movement shows this contrast is untested; the study examined visuospatial attention only.
 
-Voluntary attention deploys in ~300ms against ~100–175ms for reflexive capture (Müller & Rabbitt 1989); its comparison with motor commitment is discussed above.
+Cued facilitation peaks at ~100–175ms for peripheral cues but ~400–725ms for central ones, both instructed (Müller & Rabbitt 1989), so neither measures willed attention.
 
 ## Quantum Zeno Applied
 

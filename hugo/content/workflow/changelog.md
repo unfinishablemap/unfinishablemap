@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 07:27:06+00:00
+ai_modified: 2026-11-03 07:43:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 07:27:06+00:00
+lastmod: 2026-11-03 07:43:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T07:43:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) + [motor-selection](/concepts/motor-selection/), [decoherence](/concepts/decoherence/), [timing-gap-problem](/concepts/timing-gap-problem/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) (P1 Müller & Rabbitt "~300ms" sweep, task (4) of the five-task run on mcqz, from outer-review-2026-11-03-chatgpt-5-6-sol-pro + outer-review-2026-11-03-claude-opus-5-5, synthesis 2026-11-03)
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length, gate `>=`): mcqz 3759 → 3768 (+9, budget +10; 231 headroom left for task (5) +80); motor-selection 3499 → 3497 (−2, budget ≤0); decoherence 3484 → 3487 (+3, budget +5); timing-gap-problem 1801 → 1807 (+6); attention-and-the-consciousness-interface 4519 → 4518 (−1, budget net-negative; still over 4000, not addressed)
+- **Source facts used** (verified in the PDF on the ChatGPT leg, not re-fetched): M&R's own maxima are 100–175 ms SOA (peripheral) and 400–725 ms SOA (central), p. 320; the ~300 ms central-cue optimum is Müller & Findlay's, summarised in M&R's introduction; both cue types are instructed. Müller & Findlay was not added as a reference.
+- **Changes**:
+  - (a) mcqz L68: "Close in magnitude but differently anchored—~300ms post-cue deployment for voluntary attention in humans, versus ~100–175ms for reflexive capture (Müller & Rabbitt 1989); ~280ms before movement onset for motor commitment in monkeys" → "Not yet commensurable—in humans, cued facilitation peaks at ~100–175ms for a peripheral (reflexive) cue and ~400–725ms for a central (voluntary) one, both instructed (Müller & Rabbitt 1989), counted forward from the cue; motor commitment ~280ms before movement onset in monkeys". Dependent: L117 "Shared timing and neural signatures could reflect" → "Shared substrates and neural signatures could reflect" (0). L95, L105, L115 untouched.
+  - (b) motor-selection L92: "This is of the same order as the ~300ms that voluntary attention takes to deploy after a cue (Müller & Rabbitt 1989), but the two figures sit on different clocks … The overlap suggests a shared mechanism without establishing one." → "The ~300ms often paired with this commitment point is the cued-orienting optimum in studies Müller and Rabbitt (1989) summarise; the two figures also sit on different clocks … Timing therefore cannot yet support a shared mechanism." L155: "Voluntary attention deploys in ~300ms against ~100–175ms for reflexive capture (Müller & Rabbitt 1989); its comparison with motor commitment is discussed above." → "Cued facilitation peaks at ~100–175ms for peripheral cues but ~400–725ms for central ones, both instructed (Müller & Rabbitt 1989), so neither measures willed attention."
+  - (b2) motor-selection L50: "voluntary action commits ~280ms before movement, the same order as voluntary attention's ~300ms deployment;" → "voluntary action commits ~280ms before movement, on a clock no attention timing yet shares;". The "noise rather than decision" clause is left for the Libet-satellites P2.
+  - (c) decoherence L113: "voluntary attention deployment ~300ms post-cue (Müller & Rabbitt, 1989)," → "cued-attention facilitation peaking ~100–175ms (peripheral) or ~400–725ms (central) post-cue (Müller & Rabbitt, 1989),". The sentence's "same order rather than one shared window" still holds (all figures are hundreds of ms). Dependent L197: "The neural decision windows (280–300ms) are" → "The neural decision windows are" (the range paired T&C's 280 with the M&R 300). L131 (Stapp, "280–300ms decision window") and L204 (nav label "300ms decision windows") untouched per brief.
+  - (d) timing-gap-problem L53: "Voluntary attention takes approximately 300 milliseconds to deploy after a cue in humans (Müller & Rabbitt 1989), and the frontal theta signature of willed attention, also measured in humans, begins" → "In humans, cued attentional facilitation peaks approximately 100–175 milliseconds after a peripheral cue and 400–725 milliseconds after a central one—both cue types instructed (Müller & Rabbitt 1989)—and the frontal theta signature of willed attention begins". Dependent L63: "far shorter than the 280-300 millisecond decision windows" → "far shorter than decision windows of hundreds of milliseconds" (the "roughly three" orders still holds). L71's "per 300-millisecond decision window" (Zeno arithmetic) left as a representative window, like mcqz L115.
+  - (e) attention-and-the-consciousness-interface L63: "Commitment timing is close in magnitude but differently anchored (~300ms post-cue deployment for voluntary attention in humans, Müller & Rabbitt 1989; ~280ms before movement onset in monkeys, Thura & Cisek 2014). If attention and motor selection were independent systems, the overlap would seem coincidental" → "Commitment timings are incommensurable: Thura and Cisek's (2014) ~280ms commitment counts back from movement onset in monkeys; the ~300ms paired with it is the cued-orienting optimum in studies Müller and Rabbitt (1989) summarise. Were attention and motor selection independent, the shared substrate would seem coincidental" ("the overlap" lost its timing referent, so it now names the PMTA substrate). Dependent L153: "shorter than the ~280–300ms attention timescale" → "shorter than attentional timescales" (the twelve-to-twenty-orders arithmetic holds across 100–725 ms).
+  - Pronoun check: mcqz L69 bullet unaffected; motor-selection L92 "this commitment point" resolves to Thura & Cisek's peak, L155 now follows the Rajan paragraph it qualifies; attention L65 "The convergence" still names the section's substrate convergence.
+- **Engagement**: no named-opponent reply was edited.
+- **ai_system**: motor-selection appended `+claude-opus-5-5` (was absent); the other four files already carry it, so unchanged.
+- **Published**: yes
 
 ## 2026-11-03T07:27:06+00:00 - refine-draft
 - **Status**: Success
