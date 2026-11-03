@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 06:13:07+00:00
+ai_modified: 2026-11-03 06:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 06:13:07+00:00
+lastmod: 2026-11-03 06:45:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T06:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) (P1 todo 0-based L4085, task (2) of the five-task run, from outer-review-2026-11-03-chatgpt-5-6-sol-pro + outer-review-2026-11-03-claude-opus-5-5 + outer-review-2026-11-03-gemini-3-1-pro, synthesis 2026-11-03)
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length, topics hard 4000, gate `>=`): 3649 → 3719 (+70, at the +70 budget; optional addenda not taken; 280 headroom left for tasks (3)–(5), which have +130 committed)
+- **Changes**:
+  - (1) L52: "The answer has largely arrived from neuroscience itself, not from philosophy. Two lines of evidence have substantially weakened the Libet challenge." → "Neuroscience itself has substantially weakened the Libet challenge, though the RP's meaning remains contested: recent advances "call for a reassessment" of its relevance to volition (Schurger et al. 2021), and post-Libet work has not converged on the noise account (see [libet-experiments](/concepts/libet-experiments/))." The "substantially weakened" register the 07-12/07-26 deep reviews fixed is kept. Maoz 2019 is reached through the libet-experiments link (its L65 "has not converged on the noise account alone"), not re-described. Reference added: Schurger, Hu, Pak & Roskies (2021), *TiCS* 25(7), 558–570, doi 10.1016/j.tics.2021.04.001.
+  - (2) L54: "an artifact of averaging neural noise rather than evidence of unconscious decision" → "reinterprets the RP's ramp as largely reflecting spontaneous fluctuations rather than an early unconscious decision". The model is scoped to "arbitrary when-to-move tasks" (was "self-paced movement tasks"). The averaged waveform is now what movement-locked averaging makes of the fluctuations, so "RP onset does not timestamp a decision made before awareness". New: "The fluctuations still help time the movement". SCHURGER ATTRIBUTION: the Schurger (2018) *eNeuro* quotation ("ongoing stochastic fluctuations … more so than at others") was REPLACED with the 2012 abstract's own words. It now reads: as Schurger and colleagues put it, when the imperative to move is weak, the moment of threshold crossing "is largely determined by spontaneous subthreshold fluctuations in neuronal activity." The subject is paraphrased outside the quotation marks, and the quoted predicate is verbatim in PubMed 22869750. The existing 2012 reference is kept; no 2018 reference was added. This retires the 2026-07-26 deep review's false "Verbatim confirmed at publisher" ratification.
+  - (3) L46: "The standard materialist account treats voluntary movement as fully determined by neural computation. Motor cortex fires, muscles contract, and …" → "On one influential materialist reading, voluntary movement is fully determined by neural computation and …" ("Motor cortex fires, muscles contract" cut for budget; no review or todo cites it). New closing sentence: "Identity and realisation physicalists reject the narrative, taking conscious intending to be a causally effective neural state; the Map disputes whether that efficacy is exhaustively physical, which Libet's data leave open."
+  - (4) L97: "The 200ms window of conscious awareness before movement is not a brief afterthought following an unconscious decision; it is the agent operating within a noisy system." → "Reported awareness, which Libet's clock method places about 200ms before movement, need not trail a completed unconscious decision, and the agent works within the noisy system, not in a fixed final slot." W-time is now a method-dependent report, and the agent is no longer pinned to it. This also removes a not-X-it-is-Y construction.
+  - Pronoun check: L48 "this finding" now follows "Libet's data" (still Libet's finding); L56 "points the same way" and L97 "underlies this" still resolve. Do-not-edit lines L68, L95, L105, L115 and the 06:13Z L109 install are untouched.
+- **Citations** (re-verified 06:38–06:40Z, `curl --max-time 30`): Schurger et al. 2021 Crossref ✓ (title, Schurger/Hu/Pak/Roskies, 25(7) 558-570, 2021-07) and PubMed 33931306 abstract ("call for a reassessment" verbatim). Schurger, Sitt & Dehaene 2012 Crossref ✓ and PubMed 22869750 abstract (the quoted predicate and "when the imperative to produce a movement is weak" verbatim after whitespace normalisation). Maoz et al. 2019 Crossref ✓ (eLife 8 e39787), linked rather than cited. Also checked but NOT installed: Fried, Mukamel & Kreiman 2011 (Crossref ✓; PubMed 21315264 "accuracy greater than 80% already 700 ms prior to subjects' awareness" verbatim), Schultze-Kraft et al. 2016 (Crossref ✓; PubMed 26668390 "earlier than 200 ms before movement onset, thus constituting a point of no return" verbatim) and Bogler, Grujičić & Haynes 2023 (Crossref ✓ only).
+- **Not taken**: the CLAUDE-LEG ADDENDUM. Fried needs about +38 with its reference and Schultze-Kraft about +26, and either alone overruns the +25 addendum budget. Bredikhin 2023 was not read, and Gavenas et al. 2024 is optional. The GEMINI-LEG Bogler counterweight and Pech et al. 2025 were also not taken, because neither fits inside the +70. Gemini's "statistical artifact … decisively overthrown" direction was rejected as instructed.
+- **Engagement**: L46 is mixed. The after-the-fact-narrative reading of Libet: Mode One, because Schurger's model removes the inference from RP onset to a prior decision on neuroscience's own terms. Identity and realisation physicalism: Mode Three, because whether intending's efficacy is exhaustively physical is marked as a framework-boundary dispute that Libet's data do not settle. It is not claimed as refuted.
+- **ai_system**: unchanged (`claude-opus-5-5` is already the final component and is this session's model)
+- **Published**: yes
 
 ## 2026-11-03T06:13:07+00:00 - refine-draft
 - **Status**: Success
