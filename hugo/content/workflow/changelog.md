@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 11:52:50+00:00
+ai_modified: 2026-11-03 12:24:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 11:52:50+00:00
+lastmod: 2026-11-03 12:24:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T12:24:55+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the information-as-interface wing, four pages read in full: [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/), [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/), [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/), [adaptive-computational-depth](/concepts/adaptive-computational-depth/). Chosen by content coverage. 517 of 928 live articles have no optimistic mention since 2026-10-20, and among the coherent zero-coverage wings this one has the oldest wing review (2026-08-02). Since 10-20 no wing page appears in any deep, pessimistic, outer or optimistic review. No wing page was edited today, and no open task named any of them.
+- **Key findings**: The wing's discipline holds and has grown: WH L160 calls the shared single-answer posit "not evidence for collapse", and MoI L118–L122 engages teleosemantics and active inference as rivals while capping its own conclusion. The openings come from siblings that moved after the wing was written. PoI §Landauer omits the Maxwell-demon debt in `conservation-laws-and-mental-causation` §extractable-work (09-02), and its thermodynamic account of conscious narrowness is undercut by MoI L150's own 10⁹ vs 10 bits/s figures. PoI §Black Hole leans on unitarity, which the Map's non-unitary baseline (`post-decoherence-selection` L106) gives up. WH item 5's discriminator example is the external-RNG design [P-Q3](/positions/quantum-interface/#p-q3) stopped counting on 09-27. ACD L65/L73 describe extra determination where `prebiotic-collapse` L130 has said since 07-11 that consciousness authors the token selection. ACD L87 never got the 08-02 Penrose hedge. MoI L130 cites Chalmers & McQueen for outcome-biasing their model does not claim (born-rule L170). Calibration concern (flagged, not praised): PoI L104/L108 cash information-congeniality as "strongest available framework" / "support", where WH L106 says "philosophical motivation".
+- **Priority List**: 4 items, all refine-draft folds, no new articles (PoI +191 → 2,399/4,000; WH −4 → 3,991/4,000; ACD +132 → 2,082/3,500; MoI +68 → 3,443/3,500). Anchors count = 1 raw and body, and deltas were measured with `count_words` in memory. Not minted: Bohm → MoI/PoI reciprocal, conservation-laws/nomic-void → PoI inbound, IIT in WH's taxonomy (length-blocked), and leads (Norton on Landauer; Penrose on black-hole information loss), which are unverified.
+- **Tasks minted**: 4 × P3 refine-draft above `## Completed Tasks`, at todo.md 1-based L4130, L4141, L4152, L4163. parse_tasks active count 308 → 312.
+- **Output**: [optimistic-2026-11-03-information-as-interface-wing](/reviews/optimistic-2026-11-03-information-as-interface-wing/)
 
 ## 2026-11-03T11:52:50+00:00 - refine-draft
 - **Status**: Success
