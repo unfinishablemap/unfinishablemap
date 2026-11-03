@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-31
-ai_modified: 2026-11-03 22:10:55+00:00
+ai_modified: 2026-11-03 22:25:32+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI exploration of why boredom demands a change of engagement 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-03 22:10:55+00:00
+lastmod: 2026-11-03 22:25:32+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -54,11 +54,11 @@ The objectlessness is therefore an occlusion, a gap in what the feeling presents
 
 ## The Verdict Points Outward {#projection}
 
-Boredom arrives as a predicate of its object: this lecture, this queue, this book is boring. The models place it in a relation. Eastwood et al. write the outward attribution into the definition, on which the bored "attribute the cause of our aversive state to the environment"; that is a definitional component rather than a measured misattribution.
+Situational boredom arrives as a predicate of its object: this lecture, this queue, this book is boring. The models place it in a relation. Eastwood et al. write the outward attribution into the definition, on which the bored "attribute the cause of our aversive state to the environment"; that is a definitional component rather than a measured misattribution.
 
 Westgate and Wilson's (2018) Meaning and Attentional Components (MAC) model splits the cause into a mismatch between cognitive demands and mental resources and a mismatch between the activity and valued goals. They report support for the predictions that "Deficits in attention and meaning each produce boredom independently of the other" and that "boredom results from two types of attentional deficits, understimulation and overstimulation." One verdict covers *too easy*, *too hard* and *pointless*, even when people "become bored with their own thoughts" and no external object is there to blame. Pascal saw this: man "would weary even without any cause for weariness from the peculiar state of his disposition" (*Pensées*, fr. 139, Brunschvicg numbering, trans. Trotter, whose "weariness" renders *ennui*).
 
-The claim needs a fence. Bernard Williams held that "not being bored can be a sign of not noticing or not reflecting enough" (Williams 1973, quoted by O'Brien), so boredom is sometimes fitting and the projection is not always an error. The void claim is that the verdict does not carry on its face what would distinguish the fitting case from the projected one, or attention from meaning. Westgate and Wilson report "different profiles of boredom" for the two deficits, so the causes leave traces; whether those traces can be read from inside is open. No study the Map has located, in the research behind this article and a search of work citing the MAC model, manipulates the deficits separately and asks subjects which one they feel.
+The claim needs a fence. Bernard Williams held that "not being bored can be a sign of not noticing or not reflecting enough" (Williams 1973, quoted by O'Brien), so boredom is sometimes fitting and the projection is not always an error. The void claim is that the verdict does not carry on its face what would distinguish the fitting case from the projected one, or attention from meaning. Westgate and Wilson report "different profiles of boredom" for the two deficits, and in their Study 2, a 2×2 design (N = 216), the self-reported profiles separated them: the attention manipulation alone predicted the Inattention subscale of a state boredom scale, and the meaning manipulation alone predicted the disengagement, affect and time-perception subscales. What remains open is attribution: whether a bored person can say which deficit made her bored, a question Study 2 did not ask.
 
 ## The Mind Alone With Itself {#self-supply}
 
@@ -89,12 +89,12 @@ Artificial agents get boredom-analogues by design. In curiosity-driven reinforce
 ## Approaches to the Edge
 
 - **Experience sampling** measures boredom in the moment, sidestepping face 4 (Chin et al. 2017).
-- **Separate manipulation of the MAC components**, with subjects then asked which deficit they feel, would test face 2's unexplored margin.
+- **A 2×2 like Westgate and Wilson's Study 2**, with subjects also asked which deficit made them bored, would test face 2's unexplored margin.
 - **Contemplative practitioners** could show whether engaged examination dissolves boredom or merely redescribes it; the only evidence cited here, Buttrick et al.'s meditation correlate, is correlational.
 
 ## Relation to Site Perspective
 
-On the Map's [three-kinds taxonomy](/voids/three-kinds-of-void/) the boredom void is mixed: primarily *occluded*, since the verdict presents as a property of the object and the attentional definition builds that presentation into the state; *unexplorable* in face 4, relative to that definition; and *unexplored* in the legibility of the two MAC causes. In the [voids](/voids/) catalogue's sense it is framework-independent: a physicalist and a dualist describe the same blank.
+On the Map's [three-kinds taxonomy](/voids/three-kinds-of-void/) the boredom void is mixed: primarily *occluded*, since the feeling does not display which alternative carries exploration value (face 1) or whether the verdict is fitting or projected (face 2, whose outward presentation the attentional definition builds in); *occluded* and [self-maintained](/voids/self-maintained-cognitive-limits/) in face 3's forecast, which avoidance keeps from correction; *unexplorable* in face 4, relative to that definition; and *unexplored* in whether a person can attribute her boredom to its cause. In the [voids](/voids/) catalogue's sense it is framework-independent: a physicalist and a dualist describe the same blank.
 
 **Occam's Razor Has Limits** binds the Map's own reasoning here. The simplest reading, that the object is dull or that low stimulation feels bad, fails as a general account: thinking is always available yet unrewarding for the untrained, overstimulation also bores, and field data are "less consistent with accounts that exclusively associate boredom with low arousal or with situations lacking in meaning" (Chin et al. 2017). That is ordinary scientific complication. The collapse of a simple story lends no support to a non-physical one, and the Map's reading of the void earns no preference by seeming richer than a computational one.
 

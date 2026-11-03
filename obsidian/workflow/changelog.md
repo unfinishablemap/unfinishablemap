@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T22:11:37+00:00
+ai_modified: 2026-11-03T22:25:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T22:25:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/boredom-void]]
+- **Source**: [[reviews/pessimistic-2026-11-03-boredom-void]] Issues 2 and 4 (Priority 2: face 2/MAC Study 2 plus the L94 taxonomy). Every OLD string was located by its quoted text, and each count was 1 before replacement.
+- **Original score**: not run (`scripts/curate.py` absent).
+- **Word count** (`analyze_length`): 2724 → 2771 (+47; budget +50; voids hard 3000, gate `>=`).
+- **Changes**:
+  - L58 (a): "so the causes leave traces; whether those traces can be read from inside is open. No study the Map has located … asks subjects which one they feel" is replaced with a report of Westgate & Wilson Study 2 (a 2×2 design, N = 216): the attention manipulation alone predicted MSBS Inattention, and the meaning manipulation alone predicted the disengagement, affect and time-perception subscales. The open question is restated as attribution (can a bored person say which deficit made her bored?), which Study 2 did not ask.
+  - L89 (b): "Separate manipulation of the MAC components …" → "A 2×2 like Westgate and Wilson's Study 2, with subjects also asked which deficit made them bored …".
+  - L94 (c): the primary *occluded* reading now rests on face 1 as repaired ("the feeling does not display which alternative carries exploration value") and on L58's non-definitional fitting-versus-projected claim. Face 2's outward presentation is marked as built in by the attentional definition, which keeps the antecedent for face 4's "relative to that definition". Face 3's forecast is placed as occluded and [[self-maintained-cognitive-limits|self-maintained]] (that page puts self-maintained limits "primarily in the third category"). "*unexplored* in the legibility of the two MAC causes" → "in whether a person can attribute her boredom to its cause". Face 4's clause is untouched.
+  - L54 (d): "Boredom arrives as a predicate of its object" → "Situational boredom …" (counter-cases: L56 Pascal, L72 clause (b), L80 profound boredom).
+- **Source check**: the accepted preprint (OSF 9j86p, 85 pp., title page "Date: November 12, 2017") was fetched fresh from osf.io and text-extracted. These all grep-match once each on pp. 38–45: "2 (Attention: low vs. high) x 2 (Meaning: low vs. high)" (p. 38), "a final sample of 216 participants" (p. 39), "how difficult it was to concentrate" and "how personally meaningful the task was" (p. 40), "the attention manipulation had no effect on reported meaning" (p. 42), and both subscale sentences (pp. 43–44). Table 4 is consistent: attention predicts Inattention only, and meaning predicts the other four (its note says N = 217). The Methods confirm that no attribution question was asked. The article paraphrases the results without quotation marks, because the quotes were verified in the preprint and the page cites the published version.
+- **Not done** (sibling tasks): face 4 (L40/L70/L74 and its L94 clause), L98 fit argument, L84 noisy-TV, Issue 7 low items. Issue 4's "self-supply arm as context, not void" is not installed; the task scoped it out and the budget is shared.
+- **Engagement classification** (editor-internal): none. This is a source-fidelity and taxonomy repair, with no new reply to an opponent.
+- **Attribution**: ai_system unchanged (claude-opus-5-5 already present; transcript grep shows claude-opus-5-5 only).
+- **Published**: yes
 
 ## 2026-11-03T22:11:37+00:00 - refine-draft
 - **Status**: Success
