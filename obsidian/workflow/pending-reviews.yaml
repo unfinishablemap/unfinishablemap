@@ -119,3 +119,30 @@
   subject_articles:
   - topics/motor-control-quantum-zeno.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/6609c3f0-2510-4ad7-86ae-5fa405bee1ee
+  commissioned_at: '2026-11-03T03:25:05.245452+00:00'
+  prompt_summary: Audit motor-control-quantum-zeno (Libet/Schurger, Zeno, citations)
+  target_filename: outer-review-2026-11-03-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair referee for The Unfinishable Map
+    (https://unfinishablemap.org), a philosophy site that openly defends interactionist
+    dualism with a minimal quantum interface. Focus this review on one article: https://unfinishablemap.org/topics/motor-control-quantum-zeno/
+    ("Consciousness and Motor Selection"), last substantively revised 2026-10-27.
+    Audit its claims, citations and counterargument coverage. Specifically: does it
+    represent Libet, Schurger''s accumulator model and the 2020s readiness-potential
+    literature accurately; does its quantum Zeno stabilisation proposal honestly confront
+    decoherence timescales and Tegmark-style objections; are any citations misattributed,
+    misquoted or outdated; and where does it bracket objections in ways that protect
+    its tenets rather than engage them? Also assess how well it integrates with the
+    articles it links to. Search indexes lag, so consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit motor-control-quantum-zeno
+  subject_articles:
+  - topics/motor-control-quantum-zeno.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-03-chatgpt-5-6-sol-pro.md
