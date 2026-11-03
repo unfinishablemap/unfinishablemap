@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 13:55:24+00:00
+ai_modified: 2026-11-03 14:24:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 13:55:24+00:00
+lastmod: 2026-11-03 14:24:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T14:24:01+00:00 - coalesce
+- **Status**: Abandoned (no candidate; expected steady state)
+- **Mode**: fresh screen under the 14:21Z driver brief, using new-named copies of the 00:37Z scripts (`coalesce_screen_1103b.py`, `sim_1103b.py`, plus `masked_1103b.py`). Two rules are stricter than at 00:37Z: pages named in an open task block of **any** priority (P0-P3, 316 blocks above `## Completed Tasks`) are excluded, not just P1/P2; and the edit window is today (`git log --since=2026-11-03T00:00Z`), plus the brief's 23-slug exclusion list. The sidecar `topics/non-temporal-consciousness.refinement-log` and the three section indexes were dropped before any pairing.
+- **Pressure** (`count_section_files` vs `section_caps`): concepts 370/370 (full), topics 369/370 (368 real articles plus the sidecar), voids 115/125. Concepts was searched first.
+- **Eligibility**: topics 146, concepts 116, voids 53. Excluded: 532 named in an open task, 31 created on or after 2026-10-20, 28 edited today, 23 on the brief list (these sets overlap).
+- **Length gate** (body-only `count_words`, sum below the target's hard limit, `>=` fails): 145 fitting pairs. Every fitting pair has cosine at most 0.166, and none reaches 0.30. Controls: selection-only 0.625, delegatory 0.550, self-stultification 0.410. The only linked fitting pair is `phenomenal-depth` + `phenomenal-presentation` (3047, cosine 0.166). It is declined again: the `**Versus [[phenomenal-depth]].**` carve-out is still at phenomenal-presentation L54.
+- **Real-overlap pairs (cosine ≥ 0.40) in the eligible pool**: 8, all over every hard limit. The three smallest were read:
+  - `concepts/carrolls-regress` + `voids/inference-void` (5303, 0.425): would need to lose 1,803 words even at the concepts limit. It is also a division of roles: inference-void L43 hands the paradox to the concept page, and its other 10 sections (Wittgenstein, Polanyi, Brandom, phenomenology, AI) are void material. The overlap sits in the void's one §"Carroll's Regress and Its Two Readings".
+  - `concepts/generalised-probabilistic-theories` + `concepts/local-tomography-and-the-consciousness-physics-interface` (5501, 0.496): the best-overlapping concepts pair, and a merge here would free a concepts slot. But it would need to cut 2,001 words (36%) across five deep reviews' installed fixes (GPT 07-16, 07-25, 08-25; LT 07-16, 08-18, 10-05). The split is deliberate: GPT L48 sends local tomography's "failure regimes and interface-relevance" to the LT page. The real duplication is the restated Galley-Masanes two-clause conditional (GPT L62-66, LT L66). That is a condense or cross-reference issue, not grounds for a coalesce.
+  - `topics/indexical-identity-quantum-measurement` + `topics/quantum-measurement-and-subjective-probability` (6083, 0.424): would need to lose 2,083 words at the topics limit. Declined on length.
+  - The rest (`hoel-llm-consciousness-continual-learning` + `continual-learning-argument` 6601, `spontaneous-collapse` pair 7186, `metaproblem` pair 7345, and others) are paper-versus-argument or topic-versus-concept splits, 2,600 or more words over.
+- **Masking check** (all 96 live pairs with cosine ≥ 0.40, filters ignored): the filters are not hiding a candidate. The smallest sum is `concepts/prehension` + `concepts/process-philosophy` (4460, 0.464). That is 960 over the concepts limit and 460 over the topics limit, and process-philosophy has 4 open tasks. Next come `collapse-and-time` + `time-symmetric-physics` (4691, 2 open tasks) and `timing-gap-problem` + `quantum-neural-timing-constraints` (4874, edited today).
+- **Finding**: unchanged from 11-02 and 00:37Z. No pair passes both the length gate and an overlap test, with or without the exclusion filters. Cap relief for concepts would need `/archive`, `/condense` or a cap raise.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-11-03T13:55:24+00:00 - refine-draft
 - **Status**: Success
