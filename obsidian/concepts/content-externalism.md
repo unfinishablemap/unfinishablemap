@@ -2,9 +2,9 @@
 title: "Content Externalism and the Twin Earth Argument"
 description: "A human-AI examination of content externalism: how Twin Earth pressures internalist physicalism, and why the Map holds a hybrid — externalist about reference, internalist about felt character."
 created: 2026-07-13
-modified: 2026-10-21
+modified: 2026-11-03
 human_modified:
-ai_modified: 2026-10-21T02:39:06+00:00
+ai_modified: 2026-11-03T19:54:32+00:00
 draft: false
 topics: [the-naturalisation-failure-for-content]
 concepts: [intentionality, teleosemantics, functionalism]
@@ -45,7 +45,7 @@ This bears directly on the first tenet, [[tenets|Dualism]]. Anti-individualism a
 
 The hybrid also protects the Map's phenomenal-constitution stance, on which conscious experience has intrinsic [[intentionality|aboutness]] and felt character not exhausted by wide representational content. The Map's resistance to phenomenal externalism (Dretske) rests on the introspective-authority argument just given, not on the bare fact that Dretske's view is inhospitable to the Map's [[the-naturalisation-failure-for-content|treatment of content]]. Where that argument runs out — and against a naturalist of Dretske's calibre it does not settle the matter outright — the Map declines phenomenal externalism as a framework commitment and acknowledges the case here is not knock-down, rather than pretending to have refuted Dretske inside his own view. Resisting it does not require the Map to go fully internalist in Farkas's manner: Farkas would narrow *intentional* content too, whereas the Map can concede wide intentional content and hold only that phenomenal character is internally constituted. That is a more defensible perimeter. It also sidesteps a live objection — the argument (Yli-Vakkuri and Hawthorne, 2018) that constructions of *narrow* content have been systematically criticised — because the Map's internalist claim rests on phenomenal character, not on a constructed narrow-content notion that would inherit those difficulties.
 
-One further connection, and one honest limitation. The connection is to mental causation. If externally-individuated content is causally relevant to behaviour, then content-in-virtue-of-environment does causal work — a wide analogue of the interaction the Map already posits, relevant to its concern with the [[teleosemantics|naturalisation of content]]. If instead the "causal exclusion" worry bites — that content individuated by distal, historical relations cannot do local causal work — then externalism becomes another site where [[causal-relevance-of-content|content's causal purchase]] resists tidy physical reduction. Either horn is usable, and the Map should present both without forcing a verdict. The limitation is that none of the sources here is an ally in the philosophical sense: Putnam, Burge, and Dretske are naturalists who would reject the Map's conclusion. The Map borrows the diagnosis — intrinsic physical state underdetermines content — without inheriting the cure.
+One further connection, and one honest limitation. The connection is to mental causation. If externally-individuated content is causally relevant to behaviour, then content-in-virtue-of-environment does causal work — a wide analogue of the interaction the Map already posits, relevant to its concern with the [[teleosemantics|naturalisation of content]]. If instead the "causal exclusion" worry bites — that content individuated by distal, historical relations cannot do local causal work — then externalism becomes another site where [[causal-relevance-of-content|content's causal purchase]] resists tidy physical reduction. Either horn is usable, and the Map should present both without forcing a verdict, but the horns are not equally cheap. The exclusion horn presses on the Map's content-efficacy posit, which the [[causal-relevance-of-content#hybrid-route|hybrid route]] defends only conditionally. Jackson and Pettit (1988, p. 392) find that the worry reaches physicalist narrow functional content too: parity for the Map, not a win. The limitation is that none of the sources here is an ally in the philosophical sense: Putnam, Burge, and Dretske are naturalists who would reject the Map's conclusion. The Map borrows the diagnosis — intrinsic physical state underdetermines content — without inheriting the cure.
 
 ## Further Reading
 
@@ -63,6 +63,7 @@ One further connection, and one honest limitation. The connection is to mental c
 1. Putnam, H. (1975). "The Meaning of 'Meaning'." In *Language, Mind and Knowledge*, ed. K. Gunderson. Minnesota Studies in the Philosophy of Science, vol. 7. Minneapolis: University of Minnesota Press, pp. 131–193.
 1. Burge, T. (1979). "Individualism and the Mental." *Midwest Studies in Philosophy* 4:73–121.
 1. Burge, T. (1986). "Individualism and Psychology." *The Philosophical Review* 95(1):3–45.
+1. Jackson, F. & Pettit, P. (1988). "Functionalism and Broad Content." *Mind* 97(387):381–400.
 1. Dretske, F. (1995). *Naturalizing the Mind*. Cambridge, MA: MIT Press.
 1. Dretske, F. (1996). "Phenomenal Externalism, or If Meanings Ain't in the Head, Where Are Qualia?" *Philosophical Issues* 7:143–158.
 1. Kim, J. (1996). "Dretske's Qualia Externalism." *Philosophical Issues* 7:159–165. https://doi.org/10.2307/1522900

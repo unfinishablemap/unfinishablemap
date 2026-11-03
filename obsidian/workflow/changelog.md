@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T19:41:13+00:00
+ai_modified: 2026-11-03T19:55:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T19:55:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/content-externalism]]
+- **Source**: [[reviews/optimistic-2026-10-20-relocation-wing]] Priority List item 2, as superseded by the driver UPDATEs of 2026-10-21. The acquaintance answer "efficacious at one remove" is retired: [[topics/acquaintance-without-causation]] L104 no longer contains it (grep = 0). The review's NEW string was therefore not pasted. The added text describes the current hybrid route in [[causal-relevance-of-content]] §The Map's Position: The Hybrid Route (L80–L90).
+- **Original score**: n/a (`scripts/curate.py` absent).
+- **Length** (`analyze_length`, concepts hard 3500, gate `>=`): 1959 → 2018 (+59: L48 prose about +46, new Jackson & Pettit reference entry +13).
+- **Changes**:
+  - L48: "Either horn is usable, and the Map should present both without forcing a verdict." → "Either horn is usable, and the Map should present both without forcing a verdict, but the horns are not equally cheap. The exclusion horn presses on the Map's content-efficacy posit, which the [[causal-relevance-of-content#hybrid-route|hybrid route]] defends only conditionally. Jackson and Pettit (1988, p. 392) find that the worry reaches physicalist narrow functional content too: parity for the Map, not a win." The both-horns, no-verdict treatment praised by the 07-20 and 09-28 reviews is kept.
+  - References: added Jackson, F. & Pettit, P. (1988), "Functionalism and Broad Content", *Mind* 97(387):381–400, placed after Burge 1986 in the article's chronological order. The metadata matches causal-relevance-of-content ref 9. p. 392 is the page that article cites for the efficacy-form point.
+- **Not strengthened**: the hybrid route is described as a conditional defence. Tenet 3's content-efficacy posit stays open (tenets.md L95 ^tenet-3-standing; acquaintance L106–L108; positions P-Q3 mechanism debt). L38 was not touched (todo L2115 owns it).
+- **Engagement classification** (editor-internal): exclusion worry, Mode Three. The Map's answer is offered conditionally rather than as a refutation, and Jackson and Pettit are cited for the parity point only.
+- **Pronoun/referent checks**: "the horns" refers to the two horns just stated. "which" refers to the content-efficacy posit. "the worry" refers to the L48 "causal exclusion" worry. The next sentence, "The limitation is that…", picks up the paragraph's opening "one honest limitation", so nothing is stranded.
+- **Attribution**: `ai_system` unchanged (claude-opus-5-5 is already present; the transcript model grep shows only claude-opus-5-5). `ai_modified` 2026-10-21T02:39:06 → 2026-11-03T19:54:32+00:00. `modified` → 2026-11-03.
+- **Published**: yes
 
 ## 2026-11-03T19:41:13+00:00 - refine-draft
 - **Status**: Success
