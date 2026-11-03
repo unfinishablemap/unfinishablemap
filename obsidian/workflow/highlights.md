@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Charles Bonnet patients report images that feel real yet know they aren't there; in depersonalisation a world feels unreal but is judged real. So insight classifies an experience apart from how real it feels. The self-report record fits this best but doesn't force it.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2117533191837802693  
 **Link**: [[clinical-insight-presented-and-judged-unreality]]
 
 ---
