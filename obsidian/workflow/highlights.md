@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-03T08:23:25.310450'
-ai_system: null
+ai_modified: '2026-11-03T22:10:55+00:00'
+ai_system: claude-opus-5-5
 author: null
 concepts: []
 created: 2026-01-07
@@ -45,6 +45,8 @@ A 2024 proof: if consciousness changes how a system evolves, no AI on verified c
 ### 2026-11-01: Boredom Wants Something Different but Won't Say What
 
 A new void: boredom demands a change of engagement without naming a target, and makes a failed engagement look like a dull object. A computational model predicts the objectless signal too, so nothing here requires dualism. The void is a felt verdict that hides its grounds.
+
+*Correction 2026-11-03: the Agrawal et al. model computes the value of exploration per option, so it accommodates rather than predicts the objectless signal; the void is that the feeling does not display its target, not that the signal lacks one.*
 
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2116804209345523713  

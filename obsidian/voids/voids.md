@@ -2,9 +2,9 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-11-02
+modified: 2026-11-03
 human_modified: 2026-01-08
-ai_modified: 2026-11-02T07:56:20+00:00
+ai_modified: 2026-11-03T22:10:55+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -124,7 +124,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [[blindspot-void|The Blindspot Void]] — its doxastic and global layers are theorems of epistemic logic, neutral between dualism and physicalism.
 - [[assent-void|The Assent Void]] — believing-at-will is excluded by the concept of belief on the dominant view, and the timing question is contested within cognitive psychology, so a physicalist and a dualist describe the same blank; seam untested.
 - [[handedness-void|The Handedness Void]] — the pre-1957 limit is mathematics, the closure is experimental physics and the residual faces are cognitive psychology, so a physicalist and a dualist describe the same blank in the same place.
-- [[boredom-void|The Boredom Void]] — a computational opportunity-cost model predicts the objectless signal, so a physicalist and a dualist describe the same blank.
+- [[boredom-void|The Boredom Void]] — a computational opportunity-cost model accommodates the objectless signal, so a physicalist and a dualist describe the same blank.
 
 **Voids that are more dualism-specific** (denied or radically reframed by physicalists):
 
@@ -216,7 +216,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[preference-void|The Preference Void]] — Why a mind cannot tell found preference orderings from built ones: three faces (elicitation / retrospective / mark) conjoined at the decision point. Normatively equivalent questions return different orderings (Slovic 1995), choosing may shape what is preferred, and the constructed answer is coherent enough to pass as a read-out, so whether building the ordering is consciousness's contribution or something it receives cannot be told from inside
 - [[numbing-void|The Numbing Void]] — Why felt concern does not scale with the number of sufferers, and why no one feels the sum: a magnitude face (valuation by feeling "nearly a step function of scope", Hsee & Rottenstreich 2004), an occluded regulation face (feeling for groups damped before it arises, Cameron & Payne 2011) and a structural face (no one undergoes the sum, Lewis 1940). Felt magnitude cannot decide between deficit and tracking readings of the plateau; the Map's additive verdict rests on closed individualism and its counting rule, not on feeling. Psychic numbing toward numbers, distinct from the pharmacological [[anesthesia-void]] (created 2026-10-03)
 - [[observer-selection-void|The Observer-Selection Void]] — Why a mind cannot tell what its existence as this observer is evidence of: three faces (rule / class / instability) meeting on one question. Every self-locating updating rule has a reductio its defenders accept (SSA → Doomsday, SIA → the Presumptuous Philosopher; Bostrom 2002), the reference class is a class of conscious subjects and so presupposes the [[problem-of-other-minds|other-minds]] answer, and some cosmologies "cannot simultaneously be true and justifiably believed" (Carroll 2020). Makes a demand on Tenet 4 rather than supporting it: the indexical objection holds as identity, never as credence. Upstream of [[simulation-detection-void|simulation detection]]; near relative of [[blindspot-void|the blindspot void]] (created 2026-10-14)
-- [[boredom-void|The Boredom Void]] — Why boredom demands a change of engagement without naming a target and presents a failed engagement as a dullness in the object: four faces (objectless signal / projection / self-supply and forecast / examination, the last only under the attentional definition). An opportunity-cost model predicts the objectless face, so the void weighs little for dualism; neighbour of [[mood-void|mood]] and [[mattering-void|mattering]] at profound boredom (created 2026-10-31)
+- [[boredom-void|The Boredom Void]] — Why boredom demands a change of engagement without naming a target and presents a failed engagement as a dullness in the object: four faces (objectless signal / projection / self-supply and forecast / examination, the last only under the attentional definition). An opportunity-cost model accommodates the objectless face, so the void weighs little for dualism; neighbour of [[mood-void|mood]] and [[mattering-void|mattering]] at profound boredom (created 2026-10-31)
 
 ### Phenomenology of Limits
 

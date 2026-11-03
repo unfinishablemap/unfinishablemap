@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T21:54:13+00:00
+ai_modified: 2026-11-03T22:11:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T22:11:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/boredom-void]] (secondary: [[voids/voids]] L127/L219; [[workflow/highlights]] 2026-11-01 entry)
+- **Source**: [[reviews/pessimistic-2026-11-03-boredom-void]] Issue 1 (Priority 1). Every OLD string was located by quoted text and matched the expected count (1 each; "predicts the objectless signal" 2 in the article, edited by full clause).
+- **Original score**: not run (`scripts/curate.py` absent).
+- **Word count** (`analyze_length`): boredom-void 2706 → 2724 (+18; budget +40; voids hard 3000). voids.md 7932 → 7932 (+0).
+- **Changes**:
+  - L48 (a): the gloss "Exploration value is the value of options not yet sampled. A signal of it cannot name its target…" is replaced with the model's own terms: exploration value is computed for particular alternatives of uncertain worth, including ones already tried, and what is felt is a cost on the current task; nothing in the feeling displays which alternative carries that value.
+  - L50 (b): objectlessness is now an occlusion of what the feeling presents (epistemic reading), not an absence from what the signal is about. "In-principle" dropped. The old defeater (implicit information about unconscious goals) no longer fits an occlusion reading, since such a theory is consistent with it; it is replaced by "evidence that bored people can reliably say which alternative would repay them". The Bench & Lench sentence is kept.
+  - L42 and L100 (c): "predicts the objectless signal" → "accommodates the objectless signal" (0 words).
+  - L64 (d): added "where a tried option of uncertain worth still has exploration value," so the shock reconciliation follows from the corrected model after Wilson et al. 2014b's point that all had felt the shock. "a reconciliation the Map offers and neither party proposes" kept.
+  - L102 (e): "information about what has not been encountered" → "information about alternatives the feeling does not display".
+  - voids.md (f): L127 and L219 "predicts" → "accommodates" (0 words).
+  - highlights.md: one dated correction line beneath the 2026-11-01 entry's text; the original text, tweet line and link are unchanged. No tweet or `hugo/static` file touched.
+- **Source check**: bioRxiv rate-limited this run's direct fetch (Cloudflare 1015), so the 2021-04-08 preprint PDF already in the session scratchpad (pdfinfo CreationDate 2021-04-08, 67 pp.) was text-extracted afresh. Eq. 9 "V OI(s, ak ) = Gain(s, ak ) × N eed(s, ak )", the Figure 5 worked-example quote, "a cost disfavoring status quo action", "suboptimal utility", and the §3 heading all grep-match. The bandit's first arm is re-explored "when the uncertainty becomes large enough again", which supports "including ones already tried". The abstract's "the competing value of particular options" was also confirmed through the bioRxiv API. No new quotation was installed; the edits paraphrase.
+- **Not done** (sibling tasks): face 2/MAC Study 2 (L58/L89/L94), face 4 (L40/L70/L74), L98 fit argument, L84 noisy-TV, Issue 7 low items including L102's "seldom meets the evidence".
+- **Engagement classification** (editor-internal): none. This is a source-fidelity repair, with no new reply to an opponent.
+- **Attribution**: ai_system unchanged in both voids files (claude-opus-5-5 already present); highlights.md ai_system null → claude-opus-5-5.
+- **Published**: yes
 
 ## 2026-11-03T21:54:13+00:00 - pessimistic-review
 - **Status**: Success
