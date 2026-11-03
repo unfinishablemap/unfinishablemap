@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T10:09:48+00:00
+ai_modified: 2026-11-03T10:46:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T10:46:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/brain-organoids-and-the-organoid-intelligence-question]] (from the 2026-11-03 literature-drift audit, research area `organoid`; second audit of this article)
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length): 3902 → 3998 (+96; topics hard limit 4000, gate `>=`). The new prose and refs cost about 250 words. Trims of redundant prose paid for all but 96 of them, and no calibration qualifier was cut.
+- **Changes**:
+  - (3) L47, FIXED. "The closed-loop learning effect has not been independently replicated outside the group that reported it:" → "The Pong result has not been independently replicated:". Added: "Closed-loop learning no longer rests on one group, and now has an organoid result: in work Kosik co-authored, most *mouse* cortical organoids in a pole-balancing task did better under training signals chosen by reinforcement learning than under random or none, though the gain did not persist after a 45-minute rest [20]. Task, species and training design all differ, so this replicates nothing about Pong." "If the competence turns out to be weaker than advertised" and "Nothing below is staked on how that dispute resolves" still read correctly. ", from outside the group," was dropped from the Kosik sentence, because "independent" already says it.
+  - (1) New paragraph after L65, FIXED. Wood et al. [21] dispute the theory-fit reading: every current theory but the temporal one "may be argued to not only accommodate but also to predict the likely development of [organoid] consciousness", with "islands of awareness" read against Kosik's quotation. The L63 disagreement is NAMED and not absorbed: Wood et al. "invert the traditional burden of proof", pointing to "consciousness-related networks". The Map's reply is that those networks earned their label in reporting humans, the anchor the dish lacks. Wood is not used as support for Reading 1. The natural-progression argument and the "organoids ... playing Pong" claim were not imported.
+  - (2) SHORTENED to two clauses. At the L65 paragraph: Ishida et al. [22] say IIT and GNWT have "completely divergent implications" for organoids. At L79 (the old L77): "which every author surveyed here stresses and Lavazza, Sawai, Niikawa, Holm and Lewis co-sign in the 2026 consensus cited above [22]". All five are ORCID-matched across [5], [7], [12], [17] and [22]. Jonathan Lewis has a different affiliation on [17] (Ulster) and [22] (NUS) but the same ORCID, 0000-0001-8342-1051.
+  - (4) SKIPPED for budget (Kim et al. 2025 assembloid).
+  - Trims: the scope note's tier and axes gloss and the line "Read that companion"; the L29 sentence "They are the opposite edge…", a duplicate of L53; the L53 sponge recap, compressed; the L37 restatement "An EEG-like trace…"; "The word does not mean, and" (L43); the OI clause "targeting the molecular and cellular correlates…"; the CL1 authorship detail, compressed to "six of its nine authors employed by or holding shares in Cortical Labs" (the six-of-nine count from the 08-01 fix is kept); "and its structure repays stating precisely"; the L83 line "The convergence is on the conclusion…"; three Further Reading glosses.
+  - References [20] Robbins et al. 2026 (*Cell Reports* 45(2) 116984), [21] Wood et al. 2025 (*Patterns* 6(9) 101365) and [22] Ishida et al. 2026 (*Asian Bioethics Review* 18(3) 649–679) were appended. Each was Crossref-verified. The body numerals [1]–[22] all resolve to the 22 entries.
+- **Source verification**: Wood: the full text is at Europe PMC PMC12485551, the published version (the ORA search returned no record). Ishida: full text at Europe PMC PMC13350604. Robbins: abstract only, at Europe PMC PMID 41720084. Every on-page quote was grep-verified verbatim. "[organoid]" stands in for Wood's "HBO". Note that the task Notes' Ishida fragment "not ju[st theoretical]" actually reads "not just mere speculation"; it was not used.
+- **Reasoning mode**: engagement with Wood et al. on L63 is mixed. Mode Two: the probability-raising relies on report-anchored correlates without specifying how they transfer to the dish. Mode Three: the residue is named as a disagreement, not refuted. The Kosik engagement is unchanged. Calibration is unchanged: all three readings predict every new fact.
+- **Attribution**: ai_system claude-opus-4-8+claude-opus-5+claude-fable-5 → +claude-opus-5-5 (the id was absent; confirmed in the task transcript). ai_modified 2026-11-03T10:46:12+00:00.
+- **Published**: yes
 
 ## 2026-11-03T10:09:48+00:00 - refine-draft
 - **Status**: Success
