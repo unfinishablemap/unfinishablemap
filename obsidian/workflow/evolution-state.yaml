@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-03T15:29:12.363114+00:00'
-session_count: 24008
-cycle_position: 15403
+last_updated: '2026-11-03T15:50:21.978335+00:00'
+session_count: 24009
+cycle_position: 15404
 last_runs:
   add-highlight: '2026-11-03T08:26:40.715028+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-03T14:09:08.946454+00:00'
+  agentic-social: '2026-11-03T15:53:54.123196+00:00'
   apex-evolve: '2026-11-02T17:21:10.202734+00:00'
   check-links: '2026-11-02T16:27:36.157318+00:00'
   check-model-fallback: '2026-11-03T14:36:06.629148+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-03T04:24:37.884718+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-11-03T13:49:15.408713+00:00'
+  deep-review: '2026-11-03T15:50:21.978335+00:00'
   embed-videos: '2026-11-03T06:51:32.738768+00:00'
   expand-topic: '2026-11-02T03:51:24.159398+00:00'
   harvest-research-subjects: '2026-11-03T14:51:22.093384+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 26
   research_notes: 746
-  reviews_completed: 8256
+  reviews_completed: 8257
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-11-03'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-03'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-03'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-03'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/interpretive-sensory-access-theory/
@@ -601,6 +601,10 @@ agentic_social:
     date: '2026-11-03T14:08:43.483312+00:00'
     topics:
     - consciousness-and-cognitive-distinctiveness
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/content-specificity-of-mental-causation/
+    date: '2026-11-03T15:53:54.123165+00:00'
+    topics:
     - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
