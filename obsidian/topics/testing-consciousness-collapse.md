@@ -2,9 +2,9 @@
 title: "Testing Consciousness-Collapse: Obstacles, Experiments, and the Path Forward"
 description: "Can experiments distinguish consciousness-driven collapse from decoherence? Predictions fall into three tiers—collapse existence, consciousness-dependence, and logical constraints—with the consciousness-specific tier remaining the hardest and most important frontier."
 created: 2026-02-19
-modified: 2026-10-20
+modified: 2026-11-03
 human_modified:
-ai_modified: 2026-10-20T11:13:59+00:00
+ai_modified: 2026-11-03T19:40:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,7 +132,7 @@ Chalmers and McQueen (2022) extend the Kremnizer-Ranchin approach: collapse rate
 
 ### Consciousness-Dependent Collapse Timing
 
-If consciousness initiates collapse, as von Neumann–Wigner readings hold, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it; on the Map's ordering objective reduction fixes timing, so it predicts no such correlation. Extended Wigner's friend experiments bear on this: Proietti et al. (2019) tested observer-independent facts with photon "observers", Bong et al. (2020) derived the "[[thoughtful-local-friendliness-and-the-artificial-friend|local friendliness]]" no-go theorem, and Steane (2025) argued that the extended scenario tells against subjective-collapse interpretations without distinguishing single-world from many-world readings. The logical implications are developed in [Tier 3](#the-frauchiger-renner-argument).
+If consciousness initiates collapse, as von Neumann–Wigner readings hold, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it; on the Map's ordering objective reduction fixes timing, so it predicts no such correlation. Extended Wigner's friend work bears on this: Proietti et al. (2019) tested observer-independent facts with photon "observers", Bong et al. (2020) derived the "[[thoughtful-local-friendliness-and-the-artificial-friend|local friendliness]]" no-go theorem, and Steane (2025) argued that the extended scenario tells against subjective-collapse interpretations without distinguishing single-world from many-world readings. The logical implications are developed in [Tier 3](#the-frauchiger-renner-argument).
 
 **Current status:** Requires quantum memories maintaining coherence through macroscopic measurement chains — beyond current technology.
 
@@ -150,7 +150,7 @@ Neven et al. (2024) propose an inverse test: rather than checking whether consci
 
 ### Attention-Based Selection (Stapp)
 
-Stapp's quantum Zeno approach proposes that conscious attention holds neural assemblies in specific quantum states through repeated observation. It aligns with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet — no energy injection, only outcome selection — but makes no quantitative prediction diverging from decoherence-only neuroscience. This may be a permanent limitation: the IIT-CSL approach remains the only Tier 2 framework generating quantitative divergences from standard physics.
+Stapp's quantum Zeno approach proposes that conscious attention holds neural assemblies in specific quantum states through repeated observation. It aligns with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet — no energy injection, only outcome selection — but makes no quantitative prediction diverging from decoherence-only neuroscience. This may be a permanent limitation.
 
 ### The Decoherence Timescale Objection
 
@@ -158,7 +158,7 @@ Tegmark (2000) calculates that neural quantum coherence decoheres within roughly
 
 The objection is decisive against models requiring sustained quantum coherence in neural tissue — Penrose-Hameroff orchestrated reduction, for instance, must explain how microtubule coherence survives the warm, wet brain environment. Hagan, Hameroff, and Tuszyński (2002) contest Tegmark's estimate for that specific case, calculating microtubule decoherence times of 10⁻⁵ to 10⁻⁴ seconds once the superposition separation distance, charge distribution, and dielectric assumptions are corrected — eight to nine orders of magnitude above Tegmark's figure, though still far short of perceptual timescales. But the Map's [[post-decoherence-selection|post-decoherence selection]] concedes Tegmark's classicality, so the objection does not bite. Consciousness need not maintain or exploit quantum coherence; it acts *after* decoherence, selecting which outcome becomes actual from the improper mixture left behind — an additional actualisation postulate with no mechanism behind it. Tegmark's calculation constrains when coherence vanishes, not what then happens to the mixture.
 
-The Phi-threshold and Q-shape predictions (Kremnizer-Ranchin and Chalmers-McQueen) reinforce this separation. Integrated information (Φ) is computed over the causal structure of a system — its information-integration architecture — not over quantum coherence. A neural network's Φ value depends on how its components influence each other causally, which is a property of the classical dynamics that persist long after decoherence. The collapse operator in these models is indexed to information structure, not to fragile quantum states. The quantum computer variable-Φ tests proposed by Chalmers and McQueen (2022) make this concrete: the circuits would already be decohered systems whose differing information architectures predict differing collapse rates.
+The Phi-threshold and Q-shape predictions reinforce this separation. Integrated information (Φ) is computed over the causal structure of a system — its information-integration architecture — not over quantum coherence. A neural network's Φ value depends on how its components influence each other causally, which is a property of the classical dynamics that persist long after decoherence. The collapse operator in these models is indexed to information structure, not to fragile quantum states. The quantum computer variable-Φ tests proposed by Chalmers and McQueen (2022) make this concrete: the circuits would already be decohered systems whose differing information architectures predict differing collapse rates.
 
 What Tegmark's result *does* constrain is the timing window. If coherence vanishes within 10⁻¹³ seconds, any consciousness-dependent selection must operate on the post-decoherence state within the neural processing timescale (~10⁻³ to 10⁻¹ seconds) — comfortably slower than decoherence but fast enough for perceptual binding. This is precisely the regime post-decoherence selection inhabits.
 
@@ -172,7 +172,7 @@ Tier 3 consists of logical arguments constraining which interpretation-packages 
 
 ### The Frauchiger-Renner Argument {#the-frauchiger-renner-argument}
 
-Frauchiger and Renner's (2018) thought experiment derives contradictions from universal quantum mechanics plus agents' definite outcomes. Many-worlds resolves this parsimoniously; consciousness-collapse, more expensively, denies quantum mechanics applies universally to conscious systems. The argument narrows viable positions without selecting among them empirically. Proietti et al. (2019) instead tested Brukner's (2018) related Bell-type no-go, granting single photons observer status: given locality and free choice, observer-independent facts fail.
+Frauchiger and Renner's (2018) thought experiment derives contradictions from universal quantum mechanics plus agents' definite outcomes. Many-worlds resolves this parsimoniously; consciousness-collapse, more expensively, denies quantum mechanics applies universally to conscious systems. The argument narrows viable positions without selecting among them empirically. Proietti et al. (2019) instead tested Brukner's (2018) related Bell-type no-go, "accepting the photons’ status as observers": given locality and free choice, observer-independent facts fail. The Map denies that status, leaving [[tenets#^no-many-worlds|No Many Worlds]] untouched.
 
 ### Born Rule Derivation as a Constraint
 
@@ -273,3 +273,4 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 18. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
 19. Albantakis, L., Barbosa, L., Findlay, G., Grasso, M. & Tononi, G. (2023). "Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms." *PLOS Computational Biology*, 19(10), e1011465.
 20. Pedalino, S., Ramírez-Galindo, B.E., Ferstl, R., Hornberger, K., Arndt, M. & Gerlich, S. (2026). "Probing quantum mechanics with nanoparticle matter-wave interferometry." *Nature*, 649, 866–870.
+21. Brukner, Č. (2018). "A No-Go Theorem for Observer-Independent Facts." *Entropy*, 20(5), 350. https://doi.org/10.3390/e20050350

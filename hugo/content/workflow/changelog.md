@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 18:53:49+00:00
+ai_modified: 2026-11-03 19:41:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 18:53:49+00:00
+lastmod: 2026-11-03 19:41:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T19:41:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Source**: [outer-review-2026-10-20-claude-opus-5-5](/reviews/outer-review-2026-10-20-claude-opus-5-5/) §5 (Proietti vs global uniqueness), residue of the 2026-10-20 11:15 refine
+- **Original score**: n/a (`scripts/curate.py` absent).
+- **Length** (`analyze_length`, topics hard 4000, gate `>=`): 3991 → 3997 (L175 +11, Brukner entry +13, trims −18, L135 +0).
+- **Verification**: Proietti et al. 2019 raw full text (Europe PMC fullTextXML, PMC6754223) tag-stripped and grepped; title positive control found. "accepting the photons’ status as observers" occurs once, curly apostrophe (straight form: 0). Source context: "Modulo the potential loopholes and accepting the photons’ status as observers, the violation of inequality (2) implies that at least one of the three assumptions of free choice, locality, and observer-independent facts must fail." The same passage says a larger-scale test would rule out "alternative (collapse) models", which agrees with the Map's reply. Brukner checked at Crossref (api.crossref.org/works/10.3390/e20050350): title "A No-Go Theorem for Observer-Independent Facts", Časlav Brukner, *Entropy* vol 20, issue 5, article 350, issued 2018-05-08.
+- **Changes**:
+  - L175: "granting single photons observer status:" → "\"accepting the photons’ status as observers\":" (the verbatim quote replaces the paraphrase). Added "The Map denies that status, leaving [No Many Worlds](/tenets/#no-many-worlds) untouched." The tenet stays a commitment, and no support from the experiment is claimed.
+  - References: appended entry 21, Brukner (2018). The list is numbered in non-alphabetical order and the body cites by author-year, so no body numeral moves.
+  - L135 (optional item, +0): "Extended Wigner's friend experiments bear on this" → "Extended Wigner's friend work bears on this". Bong (theorem) and Steane (argument) are not experiments.
+- **Trims** (redundant prose only):
+  - L153 (−15): cut ": the IIT-CSL approach remains the only Tier 2 framework generating quantitative divergences from standard physics". L205 restates the same claim ("the only Tier 2 tests generating quantitative divergences"), and L131 and L232 cover it as well. The hedge "This may be a permanent limitation" is kept.
+  - L161 (−3): cut the gloss "(Kremnizer-Ranchin and Chalmers-McQueen)". The authors are named in the L115 and L125 headings and again later in the same paragraph.
+- **Engagement classification** (editor-internal): Proietti/Brukner is Mode Three. The reply rests on the Map denying the photons observer status, which is stated as a denial rather than a refutation.
+- **Pronoun/referent checks**: "that status" → the quoted photon observer status in the preceding sentence. The L153 "This" → Stapp's lack of quantitative prediction. L161 "this separation" → L159 is unchanged. A heading follows L153 and L175.
+- **Residue (not done, needs words)**: the FR summary still omits FR's consistency assumption (about +3 words, with 2 left).
+- **Attribution**: `ai_system` unchanged (claude-opus-5-5 is already the final component). `ai_modified` 2026-10-20T11:13:59 → 2026-11-03T19:40:52+00:00.
+- **Published**: yes
 
 ## 2026-11-03T18:53:49+00:00 - tune-system
 - **Status**: Success
