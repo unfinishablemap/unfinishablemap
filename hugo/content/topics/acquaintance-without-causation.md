@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-19
-ai_modified: 2026-10-21 03:08:42+00:00
+ai_modified: 2026-11-03 21:22:18+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-19 15:17:48+00:00
-lastmod: 2026-10-21 03:08:42+00:00
+lastmod: 2026-11-03 21:22:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,9 +105,9 @@ The channel analysis refines that concession. If the non-physical subject has an
 
 The relocated argument rests on a premise the Map must own: a downstream belief, inference or assertion is held or made *from* evidence only if the evidence's evidential features causally contribute to producing it. Two pressures bear on it.
 
-The first is parity with content externalism. If what a belief is about depends on factors outside the head that do not alter what its local vehicle does, the same standard would make inference among externally individuated beliefs unjustified, and few epistemologists accept that. The Map's candidate answer is its own rather than the sources': on its hybrid view a wide belief includes a narrow, phenomenally constituted component that carries the evidential features, so the efficacy question passes to that component, whereas an epiphenomenal phenomenal constituent is merely correlated with the vehicle doing the work. Causal history alone would not secure this, since content fixed by a vehicle's history need not affect what the vehicle does. The Map's [treatment of content's causal relevance](/concepts/causal-relevance-of-content/) makes the answer conditional on the content-efficacy question below, and this article does not settle it.
+The first is parity with [content externalism](/concepts/content-externalism/). If what a belief is about depends on factors outside the head that do not alter what its local vehicle does, the same standard would make inference among externally individuated beliefs unjustified, and few epistemologists accept that. The Map's candidate answer is its own rather than the sources': on its hybrid view a wide belief includes a narrow, phenomenally constituted component that carries the evidential features, so the efficacy question passes to that component, whereas an epiphenomenal phenomenal constituent is merely correlated with the vehicle doing the work. Causal history alone would not secure this, since content fixed by a vehicle's history need not affect what the vehicle does. The Map's [treatment of content's causal relevance](/concepts/causal-relevance-of-content/) makes the answer conditional on the content-efficacy question below, and this article does not settle it.
 
-The second pressure falls on interactionism. Bare interactionism, on which consciousness causes physical effects but not in virtue of what it presents, does no better than epiphenomenalism at the use and voice channels: a report caused by consciousness, but not by the experience's being the experience it is, is not voiced from that experience. Hedda Hassel Mørch (2017), discussed in the Map's [inheritance-problem article](/topics/inheritance-problem-for-the-psychophysical-law/), reaches a structurally similar verdict about the evolutionary argument. She judges it to fail as support for standard non-epiphenomenalist views, interactionism included, and to be far stronger as an argument for a phenomenal powers view, on which phenomenal properties produce their effects in virtue of their phenomenal character. Her wider work argues for panpsychism, so the parallel is structural and she is no ally of the Map's dualism.
+The second pressure falls on interactionism. Plain interactionism, on which consciousness causes physical effects but [not in virtue of what it presents](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/#the-epiphenomenalism-objection), does no better than epiphenomenalism at the use and voice channels: a report caused by consciousness, but not by the experience's being the experience it is, is not voiced from that experience. Hedda Hassel Mørch (2017), discussed in the Map's [inheritance-problem article](/topics/inheritance-problem-for-the-psychophysical-law/), reaches a structurally similar verdict about the evolutionary argument. She judges it to fail as support for standard non-epiphenomenalist views, interactionism included, and to be far stronger as an argument for a phenomenal powers view, on which phenomenal properties produce their effects in virtue of their phenomenal character. Her wider work argues for panpsychism, so the parallel is structural and she is no ally of the Map's dualism.
 
 The Map clears this bar only through its [Bidirectional Interaction](/tenets/#bidirectional-interaction) clause that consciousness biases quantum indeterminacy in the brain "toward patterns that express its content", which makes consciousness efficacious in virtue of what it presents. That clause is a posit: the tenets record that genuine, non-epiphenomenal downward causation is "a posit the interface argument leaves open, not a result it secures". The relocated argument therefore inherits the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt). It favours content-efficacious interactionism over epiphenomenalism without showing that the Map's interactionism is content-efficacious.
 

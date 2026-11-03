@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 20:47:37+00:00
+ai_modified: 2026-11-03 21:22:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 20:47:37+00:00
+lastmod: 2026-11-03 21:22:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T21:22:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [acquaintance-without-causation](/topics/acquaintance-without-causation/)
+- **Source**: [optimistic-2026-10-20-relocation-wing](/reviews/optimistic-2026-10-20-relocation-wing/) Priority List item 3. The OLD/NEW strings were pulled from the review by script, and each OLD matched exactly once in the live text.
+- **Original score**: not run (`scripts/curate.py` absent).
+- **Word count** (`analyze_length`): 3025 → 3025 (+0; topics hard 4000). The task Notes' figure of 2,978 predates the 2026-10-21 hybrid-route L104 edit.
+- **Changes**:
+  - L104 (a): "The first is parity with content externalism." now pipes [content externalism](/concepts/content-externalism/). This is the page's first body link to that concept; the count was 0 before. It sits in the unchanged opening sentence, ahead of the 10-21 hybrid-view wording, which is left as it stands.
+  - L106 (b): "Bare interactionism" → "Plain interactionism". This matches the page's own lead at L39 and avoids the no-substance-commitment sense of "bare interactionism" used at `interactionist-dualism` L181 and `where-the-substance-commitment-enters` L68. The clause "not in virtue of what it presents" now pipes to [anomalous-monism's epiphenomenalism objection](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/#the-epiphenomenalism-objection) (Honderich's "qua" structure), in slug form. This is the page's first body link to that concept.
+- **Not changed**: no claim was strengthened. The content-efficacy posit stays open (tenets.md L95; this page's L106–L108; [P-Q3](/positions/quantum-interface/#p-q3)). The L108 "posit" wording and the Mørch paragraph are untouched.
+- **Engagement classification** (editor-internal): none. The task adds links only, with no new reply to an opponent.
+- **Attribution**: `claude-opus-5-5` was already present in ai_system, so nothing was appended. ai_modified is 2026-11-03T21:22:18+00:00.
+- **Published**: yes
 
 ## 2026-11-03T20:47:37+00:00 - refine-draft
 - **Status**: Success
