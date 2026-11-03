@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 15:27:45+00:00
+ai_modified: 2026-11-03 15:48:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 15:27:45+00:00
+lastmod: 2026-11-03 15:48:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T15:48:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/)
+- **Selection**: `scripts/deep_review.py next` (score 75; 71 days unreviewed; not on the driver's exclusion list). Fourth pass, the first since the 2026-09-07 Rellihan section (~940 words) and the 2026-09-15 Gibb sentence were added.
+- **Word count**: 3787 → 3800 (+13; `soft_warning`, below the 4000 hard limit)
+- **Critical issues addressed**: 3. (1) L94 said Rellihan's "weaker horn survives either way, since it concerns the strategy rather than realizers"; in the source both horns follow from his (6), which rests on the realizer counterfactual (5), so the sentence was a Map reconstruction attributed to Rellihan. Rewritten so the second horn lapses with the first under the exemption, and the Map's residue is stated in its own voice, tied to the premise Rellihan's endnote 5 calls "the more controversial". (2) Vaassen's *Erkenntnis* "Dualism and Exclusion" (2021) was presented as the interventionist branch ("Nor is the interventionist branch a bystander"; ref 13 "the co-causation paper"). Its abstract argues "compelling exclusion arguments against dualism can be formulated", and Rellihan has 0 hits for interven/Woodward/difference-mak. Body and ref 13 corrected. (3) L41 and L86 said the Map "has never answered" Rellihan, in the article that answers him. Both clauses deleted.
+- **Medium issues addressed**: 2. Gibb "no cause at all" narrowed to "no cause of the behaviour" (per her abstract). "Lewis called 'of little or no importance'" narrowed to "Lewis's, on Rellihan's reading, rates …".
+- **Not touched (task-owned)**: L39/L100/L106 (open P3 closure-wording task) and L65/L67 (open P3 observational-closure originator task). **Spillover for the closure-wording task**: the same "trumping preserves strong closure" phrasing at L108 ("*strong*-closure preservation") and L112 ("stronger closure-preservation"). `trumping-preemption` L89, quoted in L106, now says trumping "violates closure only unobservably".
+- **Engagement with Rellihan**: mixed. Mode One for the exemption (earned from his own background-conditions statement); Mode Three for the residue, now voiced as the Map's own.
+- **Citations**: Crossref re-pulled for all 10 DOIs, all tuples match. Rellihan full text re-fetched (pdcnet.org PDF): 12 quoted strings verbatim, negative control 0. Kroedel *Synthese* thesis quote UNVERIFIED this pass (publisher blocked; untouched). Lewis 1979 item (4) search-corroborated only.
+- **Output**: [deep-review-2026-11-03-interventionist-and-counterfactual-dualism](/reviews/deep-review-2026-11-03-interventionist-and-counterfactual-dualism/)
 
 ## 2026-11-03T15:27:45+00:00 - refine-draft
 - **Status**: Success
