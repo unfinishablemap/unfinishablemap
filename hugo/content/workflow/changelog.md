@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 13:12:04+00:00
+ai_modified: 2026-11-03 13:24:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 13:12:04+00:00
+lastmod: 2026-11-03 13:24:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T13:24:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (P3 from [deep-review-2026-10-19-quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/reviews/deep-review-2026-10-19-quantum-non-equilibrium-and-the-contingency-of-the-born-rule/) Remaining Item 2: the "cannot explain why the universe began near equilibrium" clause)
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length): 5442 → 5442 (+0; over the 4000 topics limit, length-neutral brief)
+- **Verdict**: misstatement. Valentini 2020 (arXiv:1906.10761, pp. 423–477, downloaded and grepped): assuming the universe "began in a state of quantum equilibrium" is "in effect, the assumption made by Dürr, Goldstein and Zanghì (1992)"; "initial equilibrium is only one possibility among uncountably many", and "The Born rule today may then be understood to have arisen dynamically, by a process of relaxation from an earlier nonequilibrium state for which the Born rule was not valid." No critic in DGZ 1992 (quant-ph/0308039, grepped) makes the clause's claim; DGZ call convergence to equilibrium "neither necessary nor sufficient" without naming Valentini. Probable seed: [born-rule-derivation-limits-followup-2026-03-16](/research/born-rule-derivation-limits-followup-2026-03-16/) L41 ("cannot explain why the universe began in quantum equilibrium", said of Bohmian mechanics generally), not edited.
+- **Changes**:
+  - (1) L128 clause: "and Valentini's (1991) relaxation cannot explain why the universe began near equilibrium." → "and Valentini's (1991) [relaxation from non-equilibrium](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/) assumes initial states lacking fine-grained microstructure." (+0; piped link costs no words). Grounding: Valentini 2020 §3.1, "we may assume the absence of fine-grained microstructure at t = 0", which "implies the coarse-graining H-theorem (Valentini 1991a, 1992)"; and p. 11, "non-relaxing initial conditions (with fine-grained microstructure …) are ruled out empirically, not by theoretical fiat". The next sentence (transactional interpretation) has no pronoun to strand. L114 untouched.
+  - (2) [bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19](/research/bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19/): dated correction after L108. Long-wavelength residues come from expansion slowing super-Hubble relaxation (Colin & Valentini 2013, arXiv:1306.1579, quote verified verbatim). Few-mode incompleteness is a separate mechanism (Abraham, Colin & Valentini 2014, arXiv:1310.1899: residue "at all relevant wavelengths (and not only at long wavelengths owing to the suppression of relaxation …)"). The note also flags the L76 gloss "(long-wavelength cosmological modes)" as the more direct seed. ai_system claude-opus-4-8 → claude-opus-4-8+claude-opus-5-5; ai_modified added.
+  - Engagement with Valentini: Mode One. The initial-state premise is one Valentini states himself, so the presupposition point holds inside his framework; he holds that the premise is empirical rather than a defect, and the clause says only "assumes".
+- **ai_system** (topic): unchanged, `claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5` (claude-opus-5-5 already present; grepped from own transcript)
+- **Published**: yes
 
 ## 2026-11-03T13:12:04+00:00 - research-topic
 - **Status**: Success

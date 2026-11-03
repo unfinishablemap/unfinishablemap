@@ -3,7 +3,8 @@ title: Research Notes - Bohmian Quantum Equilibrium and Non-Equilibrium
 created: 2026-07-19
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5-5
+ai_modified: 2026-11-03T13:24:41+00:00
 ai_generated_date: 2026-07-19
 consumed_by: "[[quantum-non-equilibrium-and-the-contingency-of-the-born-rule]]"
 ---
@@ -106,6 +107,7 @@ In de Broglie–Bohm (pilot-wave) theory, particles have definite positions guid
 
 ### Does relaxation always complete?
 - **Sides**: Fast/near-complete relaxation (typical many-mode systems) vs surviving residues (few-mode, long-wavelength, cosmological).
+- **Correction (2026-11-03)**: long-wavelength residues arise because cosmic expansion slows relaxation for super-Hubble modes (Colin & Valentini 2013, arXiv:1306.1579: a field mode evolves on a wavelength-dependent ‘retarded time’, so "the dynamics itself generates a rapid relaxation in the sub-Hubble regime and a suppression of relaxation in the super-Hubble regime"), a mechanism separate from few-mode incomplete relaxation (Abraham, Colin & Valentini 2014); the "(long-wavelength cosmological modes)" gloss at L76 makes the same conflation.
 - **Core disagreement**: Whether observable non-equilibrium can survive to the present epoch.
 - **Current state**: Numerics support incomplete relaxation for low-mode systems; cosmology is the leading proposed observational channel.
 

@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-11-01T17:58:51+00:00
+ai_modified: 2026-11-03T13:24:41+00:00
 draft: false
 anchoring_audit_exempt: true # 2026-09-02 false-high: 0.03/kw margin is apparatus dilution (2.03/kw over argumentative body); underdetermination structural — "cannot/do not yet adjudicate" 4x, regex-invisible
 topics:
@@ -125,7 +125,7 @@ The pattern is uniform: every derivation fixes the measure's form yet presuppose
 
 ## Beyond Standard Derivations: The Interpretation-Invariant Pattern
 
-In Bohmian mechanics the Born rule is a theorem conditional on quantum equilibrium; Dürr-Goldstein-Zanghì (1992) argue from typicality, but typicality is itself measured using |ψ|², and Valentini's (1991) relaxation cannot explain why the universe began near equilibrium. The transactional interpretation (Cramer 1986; Kastner 2012) derives |ψ|² from offer-confirmation "handshakes," trivial once the confirmation wave is defined as ψ*. Categorical quantum mechanics (Abramsky-Coecke 2004; Agrawal-Wilson 2025) derives Born as the *unique* assignment consistent with framework axioms — but the framework already contains measurement and probability. GRW/CSL calibrate stochastic noise to Born statistics and Diósi-Penrose fixes *when*, not *which* outcome: design and timescale rather than derivation.
+In Bohmian mechanics the Born rule is a theorem conditional on quantum equilibrium; Dürr-Goldstein-Zanghì (1992) argue from typicality, but typicality is itself measured using |ψ|², and Valentini's (1991) [[quantum-non-equilibrium-and-the-contingency-of-the-born-rule|relaxation from non-equilibrium]] assumes initial states lacking fine-grained microstructure. The transactional interpretation (Cramer 1986; Kastner 2012) derives |ψ|² from offer-confirmation "handshakes," trivial once the confirmation wave is defined as ψ*. Categorical quantum mechanics (Abramsky-Coecke 2004; Agrawal-Wilson 2025) derives Born as the *unique* assignment consistent with framework axioms — but the framework already contains measurement and probability. GRW/CSL calibrate stochastic noise to Born statistics and Diósi-Penrose fixes *when*, not *which* outcome: design and timescale rather than derivation.
 
 | Framework | Born Rule Status | What It Assumes |
 |-----------|-----------------|-----------------|
