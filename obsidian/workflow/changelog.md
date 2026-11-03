@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T08:59:48+00:00
+ai_modified: 2026-11-03T09:24:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T09:24:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/interface-friction]] (FOUR-FILE Zeno-timing satellite sweep, also [[concepts/conscious-vs-unconscious-processing]], [[concepts/libet-experiments]], [[concepts/von-neumann-wigner-interpretation]]; from outer-review-2026-11-03-claude-opus-5-5 Q5/Q3 and Recommendations "Linked pages", P2)
+- **Canonical wording**: matched to `topics/motor-control-quantum-zeno` L115 as read live at 09:22Z, after today's four refines. Hagan's 10⁻⁵–10⁻⁴ s applies "in microtubules only" and is contested. Tegmark's ~10⁻²⁰ s "stands unrevised" at the ion-channel site. On the must-outpace branch there are ≥3,000 events per 300 ms, "a rate no concrete model accounts for". Stapp holds that the hold works on the mixture, and Georgiev disputes this. The Bourget paragraph (L117) is not quoted in any satellite. Target, `concepts/decoherence` and `topics/quantum-neural-timing-constraints` not edited.
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length, concepts gate `>=` 3500): interface-friction 2529 → 2569 (+40 = budget); conscious-vs-unconscious-processing 3477 → 3480 (+3, ≤3487); libet-experiments 3497 → 3497 (0, ≤3499); von-neumann-wigner-interpretation 2894 → 2894 (0).
+- **Changes**:
+  - (a) interface-friction L60, FIXED. Old: "extending estimated coherence times by eight or more orders of magnitude. Discrete observation mechanisms like the quantum Zeno effect require only that individual events outpace decoherence, not that coherence span the full decision window." New: "extending microtubule coherence estimates by eight or more orders of magnitude, a revision [[decoherence|itself contested]]. The quantum Zeno effect needs no coherence spanning the full decision window, but timing returns either way. Stapp argues the Zeno hold works on the [[zeno-dynamics-on-a-decohered-mixture|decohered mixture]] and need not outpace decoherence, which Georgiev disputes; if it must, even Hagan's scale demands at least 3,000 observation events per 300-millisecond window, a rate no concrete model accounts for (see [[motor-control-quantum-zeno]])." The quantum-biology sentence is unchanged, and no references were added: Reimers and McKemmish live on [[decoherence]], reached through the piped link.
+  - (b) conscious-vs-unconscious-processing L247, FIXED. "The timing works:" → "Timing remains open:". "making it compatible with established neural timing." → "too slow if each must [[motor-control-quantum-zeno|outpace decoherence]], which Stapp denies." The ~100 Hz figure and its citation (Stapp 2007, p. 127) are kept. At ~100 Hz there are about 30 events per 300 ms, two orders below 3,000.
+  - (c) libet-experiments L127, FIXED. "Zeno freezing would need observations faster than 10⁻¹³ seconds" → "Zeno freezing at the ion-channel site Stapp's model uses would need observations faster than 10⁻²⁰ seconds" (+7). The same paragraph pays for it: "in place, so the mechanism does not need superposition to be maintained." → "in place without sustained superposition." (−7). The clause was reordered so that "which nothing in neural dynamics supplies" still attaches to the observation rate and not to the site. "The proposal stays open, not vindicated." is kept.
+  - (d) von-neumann-wigner-interpretation L84, FIXED. "which examines whether competing motor plans in Cisek-style affordance populations might supply quantum candidates with longer-lived effective coherence." → "which places Stapp's Zeno hold at the competitive selection threshold and sets out the timing burden it faces." (+0). "Neither response settles the timescale question; they constrain where to look." is kept.
+  - (d-opt) von-neumann-wigner-interpretation L96, FIXED. "providing the substrate for Zeno stabilisation" → "locating where Zeno stabilisation would act" (+0). The brief's suggested wording was +4, so a +0 variant was used. The old phrase implied a quantum substrate in classical Cisek populations, which contradicts `motor-selection` L84.
+  - Pronoun check: (a) "it must" → the Zeno hold, and the next sentence ("And quantum biology…") has no pronoun. (b) "each" → the discrete observations, and the next line is a heading. (c) the next sentence has no pronoun. (d) "it faces" → the hold, and "they constrain" → the two responses.
+- **Engagement**: no named-opponent reply was added. Georgiev's objection to Stapp is reported, as in the target, and is not adjudicated on the satellites.
+- **ai_system**: interface-friction `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5-5`. von-neumann-wigner-interpretation `claude-opus-4-6+claude-opus-5` → `claude-opus-4-6+claude-opus-5+claude-opus-5-5` (`claude-opus-5` is a different id). conscious-vs-unconscious-processing and libet-experiments are unchanged because `claude-opus-5-5` was already present. This fork's model id is claude-opus-5-5. ai_modified is 2026-11-03T09:24:07+00:00 on all four.
+- **Published**: yes
 
 ## 2026-11-03T08:59:48+00:00 - refine-draft
 - **Status**: Success

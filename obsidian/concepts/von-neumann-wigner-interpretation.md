@@ -4,7 +4,7 @@ description: "The consciousness-causes-collapse interpretation of quantum mechan
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-10-05T12:20:47+00:00
+ai_modified: 2026-11-03T09:24:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-07-23T11:46:24+00:00
@@ -81,7 +81,7 @@ Several objections have shaped the interpretation's reception:
 
 **Mechanism deficit.** Saying consciousness "causes" collapse names the proposed cause without specifying how it operates. What is the coupling between a non-physical mind and a quantum system? Without a mechanism, the interpretation is more a placeholder than a theory. The [[consciousness-physics-interface-formalism|consciousness–physics interface formalism]] explores what a rigorous specification of this coupling might look like.
 
-**Decoherence pressure.** This is the most serious physics-based objection. Tegmark (2000) calculated that plausible neural quantum candidates lose coherence on timescales of roughly 10⁻¹³ seconds for microtubule superpositions and 10⁻²⁰ seconds for ion-channel superpositions, against the ~10⁻³ seconds of cognitive operations and ~10⁻¹ seconds of conscious access. These specific timescales are contested—Hagan et al. (2002) argued Tegmark's parameters inflate the decoherence rate by several orders of magnitude, and 2025–2026 work (Wiest 2025) revisits the microtubule case—but the dispute is live rather than settled, and the gap to cognitive timescales survives even on the corrected estimates (see [[decoherence]]). If [[decoherence]] in warm wet brains destroys the relevant superpositions in femtoseconds, there is no window during which consciousness could modulate the dynamics—whatever the formalism permits, the physics rules it out at neural scales. This is not a peripheral objection; until a candidate substrate, an estimated decoherence time, and a proposed mechanism within that window are specified, the interpretation does not yet engage physics. The Map treats this as an open problem rather than a solved one. Partial responses run through (a) [[brain-interface-boundary|interface locality]], which restricts the relevant quantum events to the consciousness's own brain rather than requiring environment-coupled coherence, and (b) [[motor-control-quantum-zeno]], which examines whether competing motor plans in Cisek-style affordance populations might supply quantum candidates with longer-lived effective coherence. Neither response settles the timescale question; they constrain where to look.
+**Decoherence pressure.** This is the most serious physics-based objection. Tegmark (2000) calculated that plausible neural quantum candidates lose coherence on timescales of roughly 10⁻¹³ seconds for microtubule superpositions and 10⁻²⁰ seconds for ion-channel superpositions, against the ~10⁻³ seconds of cognitive operations and ~10⁻¹ seconds of conscious access. These specific timescales are contested—Hagan et al. (2002) argued Tegmark's parameters inflate the decoherence rate by several orders of magnitude, and 2025–2026 work (Wiest 2025) revisits the microtubule case—but the dispute is live rather than settled, and the gap to cognitive timescales survives even on the corrected estimates (see [[decoherence]]). If [[decoherence]] in warm wet brains destroys the relevant superpositions in femtoseconds, there is no window during which consciousness could modulate the dynamics—whatever the formalism permits, the physics rules it out at neural scales. This is not a peripheral objection; until a candidate substrate, an estimated decoherence time, and a proposed mechanism within that window are specified, the interpretation does not yet engage physics. The Map treats this as an open problem rather than a solved one. Partial responses run through (a) [[brain-interface-boundary|interface locality]], which restricts the relevant quantum events to the consciousness's own brain rather than requiring environment-coupled coherence, and (b) [[motor-control-quantum-zeno]], which places Stapp's Zeno hold at the competitive selection threshold and sets out the timing burden it faces. Neither response settles the timescale question; they constrain where to look.
 
 ## From von Neumann–Wigner to Stapp
 
@@ -93,7 +93,7 @@ Whether this preserves [[tenets#^minimal-quantum-interaction|Minimal Quantum Int
 
 That conservativeness virtue is one the Map **acknowledges but does not adopt**. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet commits the Map to influence over *which outcome* becomes actual, not merely over which measurement the brain performs; a Process-1-only relocation is registered there as an alternative the Map could take but declines, because letting consciousness select only the *question* (context) and leaving the *answer* to nature would weaken outcome-selection to context-setting and thereby weaken the tenet. The path the Map endorses most strongly is *post-decoherence outcome selection*—selecting which outcome becomes actual from the improper reduced-state mixture left after decoherence completes, an additional actualisation postulate rather than a pick from a pre-existing classical menu of already-definite alternatives—which buys back much of Stapp's coherence-survival economy without surrendering outcome-selection to the Heisenberg choice; see [[apex/post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] for the flagship statement of that path and [[tenets#^bidirectional-interaction|the tenets' outcome-vs-context choice]] for where the commitment is fixed. The Stapp lineage is therefore preserved here as the historically sharpest successor to von Neumann–Wigner and a useful contrast pole, not as the placement the Map favours.
 
-Cisek's affordance competition model shows how multiple action plans compete in parallel within neural populations, providing the substrate for Zeno stabilisation—see [[motor-control-quantum-zeno]] for how this lineage from von Neumann through Stapp connects to concrete motor neuroscience. See [[stapp-quantum-mind]] and [[coupling-modes]] for detailed treatment of how basis and timing control differ from direct probability modification, and how the trade-offs between location-in-formalism and amount-of-influence are explored.
+Cisek's affordance competition model shows how multiple action plans compete in parallel within neural populations, locating where Zeno stabilisation would act—see [[motor-control-quantum-zeno]] for how this lineage from von Neumann through Stapp connects to concrete motor neuroscience. See [[stapp-quantum-mind]] and [[coupling-modes]] for detailed treatment of how basis and timing control differ from direct probability modification, and how the trade-offs between location-in-formalism and amount-of-influence are explored.
 
 ## Relation to Site Perspective
 

@@ -4,7 +4,7 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-10-20T07:14:07+00:00
+ai_modified: 2026-11-03T09:24:07+00:00
 last_deep_review: 2026-07-12T13:21:28+00:00
 draft: false
 topics:
@@ -124,7 +124,7 @@ Three responses:
 
 **First**, decoherence doesn't solve the measurement problem. Even granting rapid decoherence, something must select which outcome becomes actual. Decoherence explains why we don't see superpositions; it doesn't explain why we see *definite* outcomes. The role for consciousness at the point of selection remains open.
 
-**Second**, the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] may sidestep decoherence. Stapp argues that rapid repeated observation can hold a state in place, so the mechanism does not need superposition to be maintained. Whether this escapes Tegmark's figures is contested—read as a race, Zeno freezing would need observations faster than 10⁻¹³ seconds, which nothing in neural dynamics supplies. The proposal stays open, not vindicated.
+**Second**, the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] may sidestep decoherence. Stapp argues that rapid repeated observation can hold a state in place without sustained superposition. Whether this escapes Tegmark's figures is contested—read as a race, Zeno freezing at the ion-channel site Stapp's model uses would need observations faster than 10⁻²⁰ seconds, which nothing in neural dynamics supplies. The proposal stays open, not vindicated.
 
 **Third**, quantum biology research suggests some biological systems exploit quantum effects in warm conditions—candidate cases include photosynthesis, magnetoreception, and enzyme catalysis. This shows biology is not categorically closed to quantum effects, but Tegmark's argument concerns cognition-relevant neural degrees of freedom specifically, and these cases do not answer it directly.
 

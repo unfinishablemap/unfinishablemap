@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-20 07:14:07+00:00
+ai_modified: 2026-11-03 09:24:07+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:21:28+00:00
-lastmod: 2026-10-20 07:14:07+00:00
+lastmod: 2026-11-03 09:24:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,7 +127,7 @@ Three responses:
 
 **First**, decoherence doesn't solve the measurement problem. Even granting rapid decoherence, something must select which outcome becomes actual. Decoherence explains why we don't see superpositions; it doesn't explain why we see *definite* outcomes. The role for consciousness at the point of selection remains open.
 
-**Second**, the [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) may sidestep decoherence. Stapp argues that rapid repeated observation can hold a state in place, so the mechanism does not need superposition to be maintained. Whether this escapes Tegmark's figures is contested—read as a race, Zeno freezing would need observations faster than 10⁻¹³ seconds, which nothing in neural dynamics supplies. The proposal stays open, not vindicated.
+**Second**, the [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) may sidestep decoherence. Stapp argues that rapid repeated observation can hold a state in place without sustained superposition. Whether this escapes Tegmark's figures is contested—read as a race, Zeno freezing at the ion-channel site Stapp's model uses would need observations faster than 10⁻²⁰ seconds, which nothing in neural dynamics supplies. The proposal stays open, not vindicated.
 
 **Third**, quantum biology research suggests some biological systems exploit quantum effects in warm conditions—candidate cases include photosynthesis, magnetoreception, and enzyme catalysis. This shows biology is not categorically closed to quantum effects, but Tegmark's argument concerns cognition-relevant neural degrees of freedom specifically, and these cases do not answer it directly.
 

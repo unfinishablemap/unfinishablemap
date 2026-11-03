@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-10-14 12:09:02+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-03 09:24:07+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[mind-matter-interface]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:05:21+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-11-03 09:24:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ The bandwidth limitation means consciousness operates at the policy level, not t
 
 If consciousness acts at quantum indeterminacies—as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes—then [decoherence](/concepts/decoherence/) is a constant source of friction. Tegmark (2000) calculated that quantum coherence in neural tissue decays on the order of 10⁻¹³ seconds—femtoseconds—for microtubule states and 10⁻²⁰ seconds for ion superpositions, while neural decision windows span hundreds of milliseconds (~10⁻¹ s). This gap of at least twelve orders of magnitude is the strongest quantitative objection to any quantum mechanism at the mind-brain interface.
 
-The gap is severe but not necessarily fatal. Hagan et al. (2002) challenged Tegmark's model assumptions, extending estimated coherence times by eight or more orders of magnitude. Discrete observation mechanisms like the quantum Zeno effect require only that individual events outpace decoherence, not that coherence span the full decision window. And quantum biology demonstrates that warm biological systems can exploit quantum effects despite hostile thermal conditions (see [the full decoherence analysis](/concepts/decoherence/)). The interface must operate within whatever coherence windows the brain's architecture provides—whether microsecond-scale windows in microtubules, briefer openings at ion channels and synaptic vesicles, or mechanisms not yet identified.
+The gap is severe but not necessarily fatal. Hagan et al. (2002) challenged Tegmark's model assumptions, extending microtubule coherence estimates by eight or more orders of magnitude, a revision [itself contested](/concepts/decoherence/). The quantum Zeno effect needs no coherence spanning the full decision window, but timing returns either way. Stapp argues the Zeno hold works on the [decohered mixture](/concepts/zeno-dynamics-on-a-decohered-mixture/) and need not outpace decoherence, which Georgiev disputes; if it must, even Hagan's scale demands at least 3,000 observation events per 300-millisecond window, a rate no concrete model accounts for (see [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)). And quantum biology demonstrates that warm biological systems can exploit quantum effects despite hostile thermal conditions (see [the full decoherence analysis](/concepts/decoherence/)). The interface must operate within whatever coherence windows the brain's architecture provides—whether microsecond-scale windows in microtubules, briefer openings at ion channels and synaptic vesicles, or mechanisms not yet identified.
 
 Decoherence pressure means consciousness cannot hold options open indefinitely. The quantum states among which selection occurs are unstable. Hesitation has a physical cost: the options decohere, and the brain's default dynamics determine the outcome instead of conscious choice.
 
