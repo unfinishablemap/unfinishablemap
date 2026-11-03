@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 13:47:47+00:00
+ai_modified: 2026-11-03 13:55:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 13:47:47+00:00
+lastmod: 2026-11-03 13:55:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T13:55:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/), [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/), [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/), [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/) (four-file label sweep; follow-up to C1 of `reviews/deep-review-2026-11-03-single-cell-proto-agency-and-the-evidence-problem`)
+- **Original score**: n/a (`scripts/curate.py` absent; label-only sweep)
+- **Defect**: each page's Further Reading label for [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) read "Levin's agency-without-experience decoupling". The target page's lead (installed by d38b75375f) says the decoupling "is drawn against Levin rather than with him", because Levin infers graded, widely distributed consciousness (TAME 2022, PMC8988303). So the label credited Levin with the Map's move, and the bare "agency-without-experience" asserted absence where the target page claims only insufficiency. Corpus-wide the string sat in exactly these four files outside `workflow/` and `reviews/`. That is the `fix-by-file-leaves-string-siblings-live` shape: d38 fixed the target page and none of its inbound labels.
+- **Changes** (first clause only; each page's own second clause kept, with referents re-checked):
+  - bacterial-chemotaxis L101: "Levin's agency-without-experience decoupling; the framing the whole cluster shares" → "the competency/experience decoupling the Map draws from Levin's brainless agency, against his own inference, is the framing the whole cluster shares". The copula ties "the framing" to the decoupling. A bare appositive after "his own inference" would have let it read as Levin's inference. Word count 2999 → 3011 (crosses soft 3000; hard 4000).
+  - enteric L91: "Levin's agency-without-experience decoupling, the backbone of reading (c)" → "the competency/experience decoupling the Map draws from Levin's brainless agency, against his own inference, is the backbone of reading (c)". The same copula repair for the same appositive risk. Word count 2196 → 2208.
+  - neuron-less animals L86: "Levin's agency-without-experience decoupling; the neuron-less animals are its floor case with no substrate at all" → "the competency/experience decoupling the Map draws from Levin's brainless agency, against his own inference; the neuron-less animals are the decoupling's floor case with no substrate at all". Pronoun check: "its" would have bound to "his own inference", so it is now "the decoupling's". Word count 2987 → 2999.
+  - brain-organoids L96: "Levin's agency-without-experience decoupling, the backbone of the sub-personal-competence reading" → "the decoupling drawn against Levin underpins the sub-personal-competence reading". The page had 1 word of headroom, so the edit is net 0: "the backbone of" became "underpins" inside the same bullet, and "drawn against Levin" is the target page's own phrase. An appositive "Levin, backbone of…" would have made Levin the backbone. Word count 3998 → 3998.
+- **Not attributed to Levin**: no "unresolved-phenomenality" or agnosticism stance appears in any new label. The target page [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) was not touched.
+- **Out-of-scope finding (not fixed, label-only brief)**: the enteric body at L71 still says Levin's programme "deliberately sidesteps any attribution of felt experience; cells and tissues display such competency 'all the way down' without an implication that they feel anything (Chis-Ciure and Levin 2025)". That is the programme-wide agnosticism attribution the target page's L65 rejects ("measured competency plus an inference the Map rejects, not a shared silence"). The same page's L75 also keeps a bare "agency-without-experience". These need a refine-draft with a primary-source check of Chis-Ciure & Levin 2025.
+- **Attribution**: ai_system gained `claude-opus-5-5` on the enteric page only. It was already present in the other three. ai_modified 2026-11-03T13:54:59+00:00 on all four.
+- **Published**: yes
 
 ## 2026-11-03T13:47:47+00:00 - deep-review
 - **Status**: Success

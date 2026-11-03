@@ -4,7 +4,7 @@ description: "E. coli senses, remembers, and decides with zero neurons—the pro
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-10-30T12:52:56+00:00
+ai_modified: 2026-11-03T13:54:59+00:00
 last_deep_review: 2026-09-09T18:57:19+00:00
 draft: false
 topics:
@@ -98,7 +98,7 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 - [[apex/competency-without-felt-experience|Competency Without Felt Experience: A Framework-Relative Verdict]] — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [[consciousness-in-simple-organisms]] — The eukaryotic rung one step up (nematodes, *Hydra*, slime moulds); bacteria are the prokaryotic floor beneath it
 - [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — Whole-body behaviour with zero neurons; still multicellular, one rung above the single-celled bacterial floor
-- [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling; the framing the whole cluster shares
+- [[basal-and-bioelectric-cognition]] — the competency/experience decoupling the Map draws from Levin's brainless agency, against his own inference, is the framing the whole cluster shares
 - [[plant-cognition-and-the-plant-neurobiology-debate]] — The parallel "cognition without a brain" controversy
 - [[the-cognitive-immune-system-and-immunological-selfhood]] — Another sub-personal cellular competence, testing the more loaded word *self*
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-11-03 10:46:12+00:00
+ai_modified: 2026-11-03 13:54:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-07 18:23:29+00:00
-lastmod: 2026-11-03 10:46:12+00:00
+lastmod: 2026-11-03 13:54:59+00:00
 modified: *id001
 related_articles:
 - '[[ai-hardware-substrate-taxonomy]]'
@@ -97,7 +97,7 @@ That leaves a debt worth acknowledging. The argument above has ruled out, one cl
 - [Competency Without Felt Experience: A Framework-Relative Verdict](/apex/competency-without-felt-experience/) — the cross-node synthesis this engineered edge feeds
 - [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) — The substrate-physics companion
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — The opposite edge: coordinated behaviour with zero neural substrate
-- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling, the backbone of the sub-personal-competence reading
+- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — the decoupling drawn against Levin underpins the sub-personal-competence reading
 - [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/) — The other engineered edge: anthrobots, minimal synthetic cells, and self-modelling robots
 - [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/) — Another distributed-interface case in the same cluster
 - [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) — The moral-status throughline for uncertain candidate experiencers

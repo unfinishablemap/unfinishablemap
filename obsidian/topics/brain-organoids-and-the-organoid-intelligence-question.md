@@ -4,7 +4,7 @@ description: "Lab-grown neural tissue has real neurons and emergent oscillations
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-11-03T10:46:12+00:00
+ai_modified: 2026-11-03T13:54:59+00:00
 last_deep_review: 2026-09-07T18:23:29+00:00
 draft: false
 topics:
@@ -93,7 +93,7 @@ That leaves a debt worth acknowledging. The argument above has ruled out, one cl
 - [[apex/competency-without-felt-experience|Competency Without Felt Experience: A Framework-Relative Verdict]] — the cross-node synthesis this engineered edge feeds
 - [[ai-hardware-substrate-taxonomy]] — The substrate-physics companion
 - [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — The opposite edge: coordinated behaviour with zero neural substrate
-- [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling, the backbone of the sub-personal-competence reading
+- [[basal-and-bioelectric-cognition]] — the decoupling drawn against Levin underpins the sub-personal-competence reading
 - [[synthetic-minimal-agents-and-the-engineered-decoupling]] — The other engineered edge: anthrobots, minimal synthetic cells, and self-modelling robots
 - [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]] — Another distributed-interface case in the same cluster
 - [[ethics-of-possible-ai-consciousness]] — The moral-status throughline for uncertain candidate experiencers

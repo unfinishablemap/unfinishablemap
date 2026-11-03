@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-30 12:52:56+00:00
+ai_modified: 2026-11-03 13:54:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-09 18:57:19+00:00
-lastmod: 2026-10-30 12:52:56+00:00
+lastmod: 2026-11-03 13:54:59+00:00
 modified: *id001
 related_articles: []
 title: Bacterial Chemotaxis and Minimal Biogenic Cognition
@@ -102,7 +102,7 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 - [Competency Without Felt Experience: A Framework-Relative Verdict](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — The eukaryotic rung one step up (nematodes, *Hydra*, slime moulds); bacteria are the prokaryotic floor beneath it
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — Whole-body behaviour with zero neurons; still multicellular, one rung above the single-celled bacterial floor
-- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling; the framing the whole cluster shares
+- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — the competency/experience decoupling the Map draws from Levin's brainless agency, against his own inference, is the framing the whole cluster shares
 - [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/) — The parallel "cognition without a brain" controversy
 - [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/) — Another sub-personal cellular competence, testing the more loaded word *self*
 

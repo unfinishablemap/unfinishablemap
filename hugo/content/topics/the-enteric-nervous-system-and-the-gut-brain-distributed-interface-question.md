@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-20 18:47:38+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-03 13:54:59+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[somatic-interface]]'
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 18:47:38+00:00
-lastmod: 2026-09-20 18:47:38+00:00
+lastmod: 2026-11-03 13:54:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ This article bears primarily on **Tenet 3, [Bidirectional Interaction](/tenets/#
 - [somatic-interface](/concepts/somatic-interface/) — The layered channel structure of bodily feeling and how felt states divide brain-side from mind-side labour
 - [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/) — How accessible visceral channels reach consciousness while most enteric traffic does not
 - [interoceptive-void](/voids/interoceptive-void/) — The structural opacity of the body's interior to the consciousness that occupies it
-- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling, the backbone of reading (c)
+- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — the competency/experience decoupling the Map draws from Levin's brainless agency, against his own inference, is the backbone of reading (c)
 - [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/) — Information processing without a nervous system as another sub-personal-competence case
 - [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/) — Learning, memory, and self/non-self discrimination with zero neurons: the same decoupling applied to the word "self"
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — Sponges and placozoans push the distributed-interface question to its limit: coordinated behaviour with no nervous system at all

@@ -4,7 +4,7 @@ description: "The gut's ~500-million-neuron 'second brain' runs digestion withou
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-09-20T18:47:38+00:00
+ai_modified: 2026-11-03T13:54:59+00:00
 draft: false
 topics:
   - "[[basal-and-bioelectric-cognition]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[interoceptive-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-08
 last_curated:
 last_deep_review: 2026-09-20T18:47:38+00:00
@@ -88,7 +88,7 @@ This article bears primarily on **Tenet 3, [[tenets#^bidirectional-interaction|B
 - [[somatic-interface]] — The layered channel structure of bodily feeling and how felt states divide brain-side from mind-side labour
 - [[interoceptive-consciousness-and-the-interface]] — How accessible visceral channels reach consciousness while most enteric traffic does not
 - [[interoceptive-void]] — The structural opacity of the body's interior to the consciousness that occupies it
-- [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling, the backbone of reading (c)
+- [[basal-and-bioelectric-cognition]] — the competency/experience decoupling the Map draws from Levin's brainless agency, against his own inference, is the backbone of reading (c)
 - [[plant-cognition-and-the-plant-neurobiology-debate]] — Information processing without a nervous system as another sub-personal-competence case
 - [[the-cognitive-immune-system-and-immunological-selfhood]] — Learning, memory, and self/non-self discrimination with zero neurons: the same decoupling applied to the word "self"
 - [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — Sponges and placozoans push the distributed-interface question to its limit: coordinated behaviour with no nervous system at all
