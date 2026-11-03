@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-03T06:46:49.179130+00:00'
-session_count: 23978
+last_updated: '2026-11-03T06:51:32.738768+00:00'
+session_count: 23979
 cycle_position: 15384
 last_runs:
   add-highlight: '2026-11-02T08:13:19.659472+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-03T02:39:30.416747+00:00'
+  agentic-social: '2026-11-03T07:09:11.618900+00:00'
   apex-evolve: '2026-11-02T17:21:10.202734+00:00'
   check-links: '2026-11-02T16:27:36.157318+00:00'
   check-model-fallback: '2026-11-03T06:21:18.837230+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-11-03T01:44:57.875263+00:00'
-  embed-videos: '2026-11-02T16:06:39.030540+00:00'
+  embed-videos: '2026-11-03T06:51:32.738768+00:00'
   expand-topic: '2026-11-02T03:51:24.159398+00:00'
   harvest-research-subjects: '2026-11-03T01:51:28.737735+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-11-03'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-03'
@@ -224,15 +219,13 @@ recent_tasks:
   date: '2026-11-03'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-11-03'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/basic-argument-and-constitutive-luck/
-    date: '2026-10-27T06:37:33.636413+00:00'
-    topics:
-    - free-will
-    - moral-responsibility
-    - moral-implications-of-genuine-agency
-    - reactive-attitudes-and-strawsonian-responsibility
   - url: https://unfinishablemap.org/voids/acquaintance-void/
     date: '2026-10-27T07:51:37.490524+00:00'
     topics:
@@ -583,6 +576,12 @@ agentic_social:
     - structure-of-attention
     - phenomenology-of-attention-to-absence
     - emotion-and-dualism
+  - url: https://unfinishablemap.org/topics/clinical-insight-presented-and-judged-unreality/
+    date: '2026-11-03T07:09:11.618862+00:00'
+    topics:
+    - clinical-phenomenology-and-altered-experience
+    - anton-syndrome-and-the-sincere-report-of-seeing
+    - capgras-delusion-and-the-affective-recognition-channel
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
