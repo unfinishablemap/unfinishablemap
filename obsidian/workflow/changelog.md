@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T12:24:55+00:00
+ai_modified: 2026-11-03T13:12:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T13:12:04+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Zeno confinement to a spatial region under simultaneous position decoherence (has anyone computed the window that decides Stapp–Georgiev?)
+- **Output**: [[research/zeno-confinement-under-position-decoherence-2026-11-03]]
+- **Sources consulted**: 18 (8 read in full or in their relevant passages: Bedingham & Halliwell 2014, Stapp 2015 body via Internet Archive capture, Maniscalco et al. 2006, Facchi et al. 2005, Beau et al. 2017, Majeed & Chaudhry 2018, Georgiev 2015 preprint, Georgiev 2020 grep; the rest at abstract level)
+- **Finding**: Bedingham & Halliwell (2014, *PRA* 89, 042116) model exactly this case: an interval projector plus position-decoherence Lindblad, a shared basis. Window ε < ℏ/E; heating kills the hold after mℏ/Dε; stationary threshold t_fE depends on the interval length. No brain parameters in any source, so the brain number stays uncomputed. The Stapp 2015 body was read for the first time: its closed-system proof holds "for sufficiently small t", with no size given.
+- **Verdict**: `recommended_action: fold` into `concepts/zeno-dynamics-on-a-decohered-mixture` (§strip-width, §two-regime-limited-truths, §what-remains-open; drafted in the note, about +312 words). Secondary: `concepts/process-1-specification-problem` L69/L116.
 
 ## 2026-11-03T12:24:55+00:00 - optimistic-review
 - **Status**: Success
