@@ -2,9 +2,9 @@
 title: "Decoherence and Macroscopic Superposition"
 description: "The quantum-classical boundary keeps receding. Hot cat states, nanoparticle interference, and biological quantum effects challenge assumptions about where coherence ends."
 created: 2026-01-27
-modified: 2026-10-20
+modified: 2026-11-03
 human_modified:
-ai_modified: 2026-10-20T08:41:26+00:00
+ai_modified: 2026-11-03T16:54:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[decoherence]]"
   - "[[measurement-problem]]"
   - "[[quantum-biology-and-neural-mechanisms]]"
+  - "[[radical-pair-magnetoreception]]"
   - "[[spontaneous-collapse-theories]]"
 related_articles:
   - "[[tenets]]"
@@ -72,7 +73,7 @@ Innsbruck physicist Gerhard Kirchmair, a co-author on the study, stated: "If we 
 
 This doesn't mean room-temperature macroscopic superposition is around the corner. These are carefully engineered systems—cryogenic temperatures, vacuum or near-vacuum conditions, precise laser manipulation—that remain extremely distant from biological reality. The brain operates at ~310 kelvin, immersed in aqueous solution with constant thermal noise. The gap between laboratory demonstrations and neural tissue is vast.
 
-But the result challenges the intuition that temperature *alone* determines the classical boundary. More importantly, it shows that assuming boundaries is a poor guide—the boundary has moved repeatedly, always in the direction of expanded quantum domains.
+But the result challenges the intuition that temperature *alone* determines the classical boundary. More importantly, it shows that assuming boundaries is a poor guide—in physics experiments the boundary has moved repeatedly toward expanded quantum domains.
 
 ## Biological Quantum Effects
 
@@ -86,17 +87,17 @@ That reading has since been withdrawn. The long-lived oscillatory signals first 
 
 ### Avian Magnetoreception
 
-Migratory birds navigate using Earth's magnetic field, and the leading explanation is a radical-pair mechanism that exploits quantum spin coherence. On this hypothesis, light triggers electron transfer in cryptochrome proteins, creating radical pairs whose singlet-triplet dynamics depend on external magnetic fields. Spin coherence persists for *microseconds*—a million times longer than typical solution-phase decoherence.
+Migratory birds navigate using Earth's magnetic field, and the leading explanation is a radical-pair mechanism that exploits quantum spin coherence. On this hypothesis, light triggers electron transfer in cryptochrome proteins, creating radical pairs whose singlet-triplet dynamics depend on external magnetic fields. Spin coherence is inferred to persist for *microseconds*—a million times longer than typical solution-phase decoherence.
 
 A 2025 computational study (Luo et al.) provided support for this mechanism, identifying the principal electron transfer pathway and showing how reorganisation of the protein environment and surrounding solvent stabilises the well-separated radical pair for magnetic sensing.
 
-This is evolution harnessing quantum mechanics for biological function in a warm, wet system. If quantum effects work for navigation, the principle is established. The question becomes whether similar mechanisms operate elsewhere, not whether they're possible in principle.
+On the leading [[radical-pair-magnetoreception|radical-pair account]], this is evolution harnessing quantum mechanics for biological function in a warm, wet system, though the account remains unsettled in vivo. If it holds, the question becomes whether similar mechanisms operate elsewhere, not whether they're possible in principle.
 
 ### Microtubule Quantum Effects
 
 Evidence for quantum effects in neural microtubules remains contested. Direct measurements of tryptophan superradiance (Babcock et al., 2024), anaesthetic effects on microtubule quantum oscillations (Wiest, 2025), and MRI signatures potentially indicating macroscopic entanglement (Kerskens & López Pérez, 2022) suggest quantum effects may be present in neural tissue. Reimers et al. (2009) and McKemmish et al. (2009) challenge the parameter assumptions in Hagan et al.'s (2002) corrections to Tegmark, finding that the dielectric properties required either lack empirical support or specify regimes microtubules do not occupy in living tissue.
 
-The [[decoherence]] article examines this multi-sided dispute—Tegmark, Hagan, Reimers, and McKemmish—in detail. The empirical question is live rather than settled, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The categorical claim that biology *cannot* harness quantum effects is refuted by magnetoreception; whether the brain does so remains open.
+The [[decoherence]] article examines this multi-sided dispute—Tegmark, Hagan, Reimers, and McKemmish—in detail. The empirical question is live rather than settled, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. If the radical-pair account holds, magnetoreception refutes the categorical claim that biology *cannot* harness quantum effects; whether the brain does so remains open.
 
 ## What This Means for Consciousness
 
@@ -110,7 +111,7 @@ This distinction matters because it separates the Map's position from empirical 
 
 Independently of the quantum boundary question, [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity research]] shows that a purely cognitive intervention can produce measurable neural change. Jeffrey Schwartz's OCD patients achieve normalisation of caudate nucleus hyperactivity through cognitive therapy alone—conscious effort with propositional content associated with reconfigured brain activity through a causal route distinct from pharmacological treatment. Schwartz, Stapp, and Beauregard (2005) connect this self-directed neuroplasticity to the quantum Zeno mechanism discussed here. This evidence is real but underdetermined. A cognitive-intervention pathway that reshapes the brain is exactly what a physicalist expects—one brain state with a certain content reconfiguring another—so the data are consistent with mental causation without establishing the non-physical reading. That the pathway is *conscious* mental causation of the kind the Map argues for is a further, separately-argued step, not something the caudate normalisation settles on its own. The receding quantum-classical boundary matters here only for the conditional question of how, *if* the dualist reading is correct, quantum processes might implement the reshaping.
 
-The demonstrations that quantum effects can operate in warm biological systems (magnetoreception) and that macroscopic quantum superposition can be achieved at elevated temperatures (hot cat states) bear on the *first* hypothesis—the physical possibility of quantum coherence in warm biological matter. Their reach is precise and limited. They remove the categorical dismissal that the decoherence objection once seemed to provide, showing that warm-and-wet does not entail thoroughly classical. They do not support the Map's own second hypothesis, which by the separation drawn above does not depend on sustained neural coherence and cannot borrow the evidence assembled for the first. Each cited system is moreover cryogenic, in vacuum, or a specialised nanometre-scale protein, so none raises the probability of coherence in 310-kelvin aqueous neural tissue; the demonstrations move the boundary in regimes the neural decoherence estimate does not touch. That evolution *can* harness quantum effects for function (magnetoreception) is established in principle, but whether it generalises to consciousness remains open, with real disanalogies (specialised proteins versus general neural tissue).
+The hot cat states, which achieve macroscopic quantum superposition at elevated temperatures, and magnetoreception, the leading but unsettled case of quantum effects doing work in a warm organism, bear on the *first* hypothesis—the physical possibility of quantum coherence in warm biological matter. Their reach is precise and limited. The physics results suffice to remove the categorical dismissal that the decoherence objection once seemed to provide, showing that warmth and size do not entail thoroughly classical behaviour. Neither line of evidence supports the Map's own second hypothesis, which by the separation drawn above does not depend on sustained neural coherence and cannot borrow the evidence assembled for the first. Each cited system is moreover cryogenic, in vacuum, or a specialised nanometre-scale protein, so none raises the probability of coherence in 310-kelvin aqueous neural tissue; the results move the boundary in regimes the neural decoherence estimate does not touch. That evolution *can* harness quantum effects for function (magnetoreception) is the leading reading, not a settled result; whether it generalises to consciousness remains open, with real disanalogies (specialised proteins versus general neural tissue).
 
 ## The Deeper Issue: Basis vs. Outcome
 
@@ -136,7 +137,7 @@ But if collapse is real (as the Map holds), something must trigger it. [[spontan
 
 The Map's defense of [[topics/free-will|free will]] gains support from this picture. If consciousness can bias quantum outcomes at neural decision points, this provides a mechanism for agent causation—genuinely open futures that conscious choices help determine. The receding quantum-classical boundary expands the domain where such choices could operate.
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] is freed of one objection as the boundary recedes, though not positively confirmed by it. The receding boundary removes the categorical dismissal—warm systems cannot be quantum at all—that would have ruled the interface out in advance. It does not supply positive evidence for the interface, which rests on the measurement-problem argument that decoherence leaves the outcome question open rather than on any demonstration of neural coherence. That biology can harness quantum coherence for navigation (magnetoreception) and possibly for neural processing (microtubule effects) shows the door is not closed a priori—not that consciousness walks through it.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] is freed of one objection as the boundary recedes, though not positively confirmed by it. The receding boundary removes the categorical dismissal—warm systems cannot be quantum at all—that would have ruled the interface out in advance. It does not supply positive evidence for the interface, which rests on the measurement-problem argument that decoherence leaves the outcome question open rather than on any demonstration of neural coherence. A leading quantum-coherence account of the avian compass (magnetoreception) and a contested one of neural processing (microtubule effects) show the door is not closed a priori—not that consciousness walks through it.
 
 ## Further Reading
 
@@ -145,7 +146,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] is
 - [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]] — How environmental selection specifies the menu while leaving the outcome gap open
 - [[measurement-problem]] — Why decoherence doesn't solve the fundamental issue
 - [[quantum-measurement-and-consciousness]] — The measurement problem's philosophical dimensions: epistemological, ontological, and agential
-- [[quantum-biology-and-neural-mechanisms|quantum biology]] — Established quantum effects in biological systems
+- [[quantum-biology-and-neural-mechanisms|quantum biology]] — Quantum effects in biological systems
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction
 - [[neural-implementation-specifics]] — How decoherence affects specific neural quantum mechanisms
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during quantum superposition

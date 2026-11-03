@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T16:39:21+00:00
+ai_modified: 2026-11-03T16:55:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T16:55:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/decoherence-and-macroscopic-superposition]]
+- **Review file**: reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro.md (§5.3: "use magnetoreception only as a contested biological precedent")
+- **Original score**: n/a (`scripts/curate.py` absent; targeted residue of the 2026-10-20 photosynthesis sweep)
+- **Grade read at source**: `concepts/radical-pair-magnetoreception` L26 "the leading model", L78 Hore & Mouritsen 2016 "is still unclear … RPM is the leading model, not a settled fact"; positions P-Q8 Calibration "the strongest surviving warm-biology quantum case, a leading model unsettled in vivo"; precedent `topics/psychophysical-laws-bridging-mind-and-matter` L172 "On the leading radical-pair account".
+- **Changes**: (1) L93 "This is evolution harnessing … If quantum effects work for navigation, the principle is established. The question becomes …" → "On the leading [[radical-pair-magnetoreception|radical-pair account]], this is evolution harnessing … though the account remains unsettled in vivo. If it holds, the question becomes …". (2) L113 "The demonstrations that quantum effects can operate in warm biological systems (magnetoreception) and …" → hot cat states named as the demonstration, magnetoreception as "the leading but unsettled case"; the categorical dismissal is now carried by "The physics results" alone ("warmth and size do not entail thoroughly classical behaviour"); the following "They do not support" → "Neither line of evidence supports" (pronoun re-anchored); "the demonstrations move the boundary" → "the results"; "is established in principle, but" → "is the leading reading, not a settled result;". (3) L139 "That biology can harness quantum coherence for navigation (magnetoreception) and possibly for neural processing (microtubule effects) shows" → "A leading quantum-coherence account of the avian compass (magnetoreception) and a contested one of neural processing (microtubule effects) show". (4) L75 "the boundary has moved repeatedly, always in the direction of expanded quantum domains" → "in physics experiments the boundary has moved repeatedly toward expanded quantum domains" (scoped and "always" dropped; the next section's opener already records biology's revisions).
+- **Same-defect siblings (same file)**: L89 "Spin coherence persists for *microseconds*" → "is inferred to persist" (the radical-pair page says the coherence "has never been measured"; without this L89 would contradict the new L93). L99 "The categorical claim … is refuted by magnetoreception" → "If the radical-pair account holds, magnetoreception refutes the categorical claim …". Further Reading L148 gloss "Established quantum effects in biological systems" → "Quantum effects in biological systems". `concepts:` frontmatter gains `[[radical-pair-magnetoreception]]`.
+- **Kept**: the categorical anti-"warm means classical" point (lead L31, L113 via the physics results, L139 "removes the categorical dismissal"); photosynthesis not restored as demonstrated coherence; magnetoreception hedged, not removed.
+- **Not touched (flag)**: L89's "a million times longer than typical solution-phase decoherence". Femtosecond-to-microsecond is about 10⁹, and spin decoherence in solution runs much longer than the femtosecond spatial figure at L45, so the ratio depends on which comparator is meant. This is out of scope here and was not verified.
+- **Length (analyze_length)**: 3330 → 3354 (+24; topics hard 4000).
+- **ai_system**: `claude-opus-4-5-20251101+claude-opus-5-5` unchanged (my model id claude-opus-5-5 is already present). ai_modified 2026-11-03T16:54:41+00:00.
+- **Published**: yes
 
 ## 2026-11-03T16:39:21+00:00 - refine-draft
 - **Status**: Success
