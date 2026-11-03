@@ -4,7 +4,7 @@ description: "When two subjects merge into one: closed individualism fixes both 
 created: 2026-10-13
 modified: 2026-10-13
 human_modified:
-ai_modified: 2026-10-16T02:56:55+00:00
+ai_modified: 2026-11-03T11:52:50+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -91,7 +91,7 @@ Other conclusions follow only on the Map's reading. Complete fusion is two endin
 
 **[[tenets#^dualism|Dualism]].** On the Map's reading, consciousness is not built from parts, so C cannot be composed of A and B; Coleman's dilemma argues the point for subjects. Fusion of persons is therefore not combination, and the pairing premise is what makes it replacement.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Once conscious states condition physical outcomes, the subject count is part of the state description ([[positions/subject-census|P-SC1]]). At the step, [[census-change-points|the subject index in the selection law changes value]] at a point the law cannot locate.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Once conscious states condition physical outcomes, the subject count is part of the state description ([[positions/subject-census|P-SC1]]). At the step, [[census-change-points|the selection law's arity]], its subject count, changes at a point the law cannot locate.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]].** The graded picture is simpler: no jump, no unmarked threshold. The tenet only bars simplicity from deciding; the step rests on the Map's commitment to determinate subjects, not on evidence, and the Map books its cost: a sharp boundary that nothing reads.
 
@@ -104,6 +104,7 @@ Other conclusions follow only on the Map's reading. Complete fusion is two endin
 - [[apex/mereology-of-mind]] — Coleman's dilemma and the de-combination hinge
 - [[coupling-engagement-condition]] — why existence of a coupling is not graded
 - [[census-change-points]] — the fusion step as a change in how many subjects the law conditions on
+- [[psychophysical-social-choice-problem]] — what the selection law owes when several subjects bear on one event, as in tissue two substrates share
 - [[quasi-memory-and-the-circularity-objection]] — the memory relation that leaves the fused subject without an answer
 - [[voids-between-minds]] — the Hogan twins and the limits of sharing
 - [[fusion-void]] — the unrelated perceptual sense of "fusion"

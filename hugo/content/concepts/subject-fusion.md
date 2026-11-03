@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-16 02:56:55+00:00
+ai_modified: 2026-11-03 11:52:50+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-16 02:56:55+00:00
-lastmod: 2026-10-16 02:56:55+00:00
+lastmod: 2026-11-03 11:52:50+00:00
 modified: *id001
 related_articles:
 - '[[fusion-void]]'
@@ -95,7 +95,7 @@ Other conclusions follow only on the Map's reading. Complete fusion is two endin
 
 **[Dualism](/tenets/#dualism).** On the Map's reading, consciousness is not built from parts, so C cannot be composed of A and B; Coleman's dilemma argues the point for subjects. Fusion of persons is therefore not combination, and the pairing premise is what makes it replacement.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Once conscious states condition physical outcomes, the subject count is part of the state description ([P-SC1](/positions/subject-census/#p-sc1)). At the step, [the subject index in the selection law changes value](/concepts/census-change-points/) at a point the law cannot locate.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Once conscious states condition physical outcomes, the subject count is part of the state description ([P-SC1](/positions/subject-census/#p-sc1)). At the step, [the selection law's arity](/concepts/census-change-points/), its subject count, changes at a point the law cannot locate.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The graded picture is simpler: no jump, no unmarked threshold. The tenet only bars simplicity from deciding; the step rests on the Map's commitment to determinate subjects, not on evidence, and the Map books its cost: a sharp boundary that nothing reads.
 
@@ -108,6 +108,7 @@ Other conclusions follow only on the Map's reading. Complete fusion is two endin
 - [mereology-of-mind](/apex/mereology-of-mind/) — Coleman's dilemma and the de-combination hinge
 - [coupling-engagement-condition](/concepts/coupling-engagement-condition/) — why existence of a coupling is not graded
 - [census-change-points](/concepts/census-change-points/) — the fusion step as a change in how many subjects the law conditions on
+- [psychophysical-social-choice-problem](/concepts/psychophysical-social-choice-problem/) — what the selection law owes when several subjects bear on one event, as in tissue two substrates share
 - [quasi-memory-and-the-circularity-objection](/concepts/quasi-memory-and-the-circularity-objection/) — the memory relation that leaves the fused subject without an answer
 - [voids-between-minds](/voids/voids-between-minds/) — the Hogan twins and the limits of sharing
 - [fusion-void](/voids/fusion-void/) — the unrelated perceptual sense of "fusion"

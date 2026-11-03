@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 11:42:14+00:00
+ai_modified: 2026-11-03 11:52:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 11:42:14+00:00
+lastmod: 2026-11-03 11:52:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T11:52:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [subject-fusion](/concepts/subject-fusion/) (task from [optimistic-2026-10-19-composition-and-appearance-wing](/reviews/optimistic-2026-10-19-composition-and-appearance-wing/), "Subject-fusion has no link back to the social-choice page")
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length): 2707 → 2727 (+20; concepts hard 3500, gate `>=`; target +0 to +25)
+- **Changes**:
+  - (1) RECIPROCAL. Further Reading, after the census-change-points line: "[psychophysical-social-choice-problem](/concepts/psychophysical-social-choice-problem/) — what the selection law owes when several subjects bear on one event, as in tissue two substrates share" (+21). The gloss was checked against the live page: L38 (a law combining "two or more subjects when those states bear on one physical event"), L50 ("the Map's selection law ... the rule it owes") and L76 (overlapping substrates remain a boundary case; "an event resolved in tissue that belongs to both substrates has no anatomical owner"). Its argument is not restated. Links to the page: 0 → 1.
+  - (2) ARITY ALIGNMENT (deep-review-2026-10-16 low item). RtSP Bidirectional Interaction: "At the step, [the subject index in the selection law changes value](/concepts/census-change-points/) at a point …" → "At the step, [the selection law's arity](/concepts/census-change-points/), its subject count, changes at a point …" (−1). The target uses "arity" at census-change-points L40 ("A census event changes *n*, the law's **arity**"); the social-choice page does not use it. The inline gloss "its subject count" keeps the term defined on this page and removes the reading of "index" as *which* subject.
+  - No +0 piped link at the Roelofs–Sebo weighting sentence (L84). The social-choice page asks that question of *leverage*, and it keeps leverage apart from status and stakes. Piping the welfare-weighting phrase there would merge two quantities that page separates.
+  - Leads Kang (2022) and Hirstein (2008) were not read, so neither was cited.
+- **Guards**: "if sound" on Coleman 1 (L66); the complete-end verdict is still conditional on [P-SC2](/positions/subject-census/#p-sc2) (L40, L74); the step is not re-flagged. No "This is not X. It is Y." and no "load-bearing".
+- **Reasoning mode**: no named-opponent reply was touched.
+- **Frontmatter**: ai_modified → 2026-11-03T11:52:50+00:00. ai_system unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 2026-11-03T11:42:14+00:00 - refine-draft
 - **Status**: Success
