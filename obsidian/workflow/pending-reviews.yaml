@@ -124,9 +124,9 @@
   commissioned_at: '2026-11-03T03:25:05.245452+00:00'
   prompt_summary: Audit motor-control-quantum-zeno (Libet/Schurger, Zeno, citations)
   target_filename: outer-review-2026-11-03-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-03T04:38:17.179068+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair referee for The Unfinishable Map
     (https://unfinishablemap.org), a philosophy site that openly defends interactionist

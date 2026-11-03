@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T04:07:28+00:00
+ai_modified: 2026-11-03T04:55:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-03T04:55:15+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (`claude-opus-5-5`; Fable weekly-limit fallback at commission), collected by collect-claude-review. Commissioned 03:25:05Z; ready on the first collect attempt (04:37Z, about 72 min; artifact tile on poll 1, "Research complete · 281 sources").
+- **File**: [[reviews/outer-review-2026-11-03-claude-opus-5-5]]
+- **Extraction**: artifact panel's largest `.standard-markdown` walked to markdown; body stable at 33,239 rendered chars across 10 s; 40,775 UTF-16 units, 4,902 words, last section "Caveats". Blob download hash matched the in-page hash (-762533762). Pending entry marked collected.
+- **Claims verified**: 22 checks against the live article, eight satellite files and primary sources. ✓ The Schurger quotation at L54 is verbatim in Schurger 2018 *eNeuro* (PMC full text) and absent from the 2012 PNAS full text (archived PMC3479453); the 2026-07-26 deep review's "verbatim confirmed at publisher" was false. ✓ Bourget 2004 (author's archived text: "improper mixtures can be subject to the Zeno effect"; 2–5 collapses; "between 3% and 25%"; "weakness of will should be commonplace"); 0 site hits for the argument. ✓ Cai et al. has 14 authors (Crossref). ✓ L107/L131 effort contradiction. ✓ Seven satellite instances live (interface-friction L60, conscious-vs-unconscious-processing L247, libet-experiments L127, von-neumann-wigner L84, motor-selection L50/L137/L143/L176, phenomenology-of-choice-and-volition L129, phenomenology-mechanism-bridge L183) plus the volitional-control L108 stale label. ✓ Fried 2011, Schultze-Kraft 2016, Georgiev 2015 body quote, Stapp 2015 NeuroQuantology reply, Koch & Hepp 2006, Maoz 2019, Schurger 2021, Bredikhin 2023, Gavenas 2024, Sjöberg title.
+- **Disputed**: 7 ✗. Changelog "frozen at 10-15" (live page modified 2026-11-03T00:37Z, newest entry 01:43Z, 10-27 entry present); Kiefer & Joos "stronger claim" (two verified K&J statements jointly give L115's condition); Stapp 2000 EM-field "discrepancy" ("Suppose, for definiteness"); stale snippets on agent-causation, retrocausality and consciousness-selecting-neural-patterns (already fixed); Koch & Hepp (generic; not worth words); PMTA (self-flagged unverified); citation-date metadata (site-wide template choice, lead only). Partly right: the "operative Zeno condition" request (L115 states the condition and concedes no computation exists).
+- **High-value findings**: 12 verified.
+- **Tasks generated**: 3 (P2 ×3), inserted above `## Completed Tasks` (active 308 → 311): (1) mcqz Bourget weakness-of-will objection (direct-refutation remit), L131 effort contradiction, Cai author list, optional full titles (+80; runs after the P1); (2) Zeno-timing satellites: interface-friction L60, conscious-vs-unconscious-processing L247, libet-experiments L127, von-neumann-wigner L84; (3) Libet-calibration satellites: motor-selection L50/L137/L143/L176, phenomenology-of-choice-and-volition L129, phenomenology-mechanism-bridge L183, volitional-control L108.
+- **Convergence**: `Convergence` lines and Notes addenda on all four same-day ChatGPT tasks. P1: adds a successor-naming part for L109 (P-Q1/P-Q4), +15. Libet P2: corrects its "Keep the verified Schurger quotation unchanged" to a re-attribution fix; optional Schultze-Kraft/Fried/Bredikhin, up to +25. Compatibility P2: the falsifier convergence plus an optional "conscious" gloss drop. Müller & Rabbitt sweep: motor-selection L50 added as line (b2). The page's committed budgets now total up to +330 of 455.
+- **Methodology**: addenda on three NEEDS-HUMAN entries: propagation (2026-08-03; seven satellite instances), the changelog-size entry (fourth Claude leg to report the identical 10-15 cut-off), and the per-claim verification ledger (2026-07-30; a ledger false-ratified a wrong-work quotation). No new methodology task.
+
 ---
 
 ## 2026-11-03T04:07:28+00:00 - outer-review
