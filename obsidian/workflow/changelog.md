@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T05:17:00+00:00
+ai_modified: 2026-11-03T05:33:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-03T05:33:46+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (`gemini-3-1-pro`, Deep Research), collected by collect-gemini-review. Commissioned 04:24:18Z; ready on the first collect attempt (05:22Z, about 58 min).
+- **File**: [[reviews/outer-review-2026-11-03-gemini-3-1-pro]]
+- **Extraction**: the last h1-bearing `.markdown-main-panel`, walked to markdown with KaTeX converted to `$…$` from `data-math`, plus the separate `deep-research-source-lists` element (106 links). 44,658 characters; SHA-256 22065260…402f matched the in-page value chunk by chunk (50 × 900; one filter-blocked chunk re-read as two halves). Body 3,962 words (4,965 with sources); final section "Specific Weaknesses and Final Verdict". Pending entry marked collected.
+- **Claims verified**: 33 quotation strings checked (`grep -c -F` on the article, the deployed page and the corpus) and 7 source checks (Crossref; abstracts through OpenAlex). Only 4 quotations are on the article. The four-stage "unified mechanism", "trying to do", "framework commitment", "persistent advantage", "Born-governed" and "tendency to dissipate" come from `concepts/motor-selection`. "adequate to the physics as measured" and "the physics is settled, the neural application speculative" come from `concepts/quantum-zeno-effect`. The radical-pair section comes from quantum-zeno-effect L65's own MHz–GHz caveat. The page title is also wrong ("Motor Control and the Quantum Zeno Framework").
+- **Disputed**: W1 decoherence "ignored" (L115 states the 3,000–30,000 count as a burden and reports Tegmark, the contested Hagan figure and Georgiev 2015). Georgiev 2021 *Symmetry*: correct metadata, inverted content ("fast decoherence timescales could assist cognitive binding"). W2: the page is said to treat the RP as a deterministic buildup, but it adopts Schurger at L54 and L97. Bogler et al.: inverted (their 2023 *Front. Psychol.* paper finds the stochastic evidence "only indirect" and the deterministic input dominant). "Heavily replicated" Maoz: no replication cited, and Pech…Maoz 2025 cuts the other way. W4: basal-ganglia sufficiency is already conceded at L79, L99, L109 and L117; Jiang et al. is 2019/1717/214–227, not 2020/1714/11–20, and off topic. W5: closure and energy are addressed at L99 and L105; Gibb et al. 2021 OUP is unlocatable (Campbell ed. 2003 and Gibb, Lowe & Ingthorsson 2013 conflated). Sources: 2 of 5 usable (Schurger et al. 2021, Maoz et al. 2019), both already prescribed by the open Libet P2.
+- **High-value findings**: 0 new; 2 convergent.
+- **Tasks generated**: 0 (active stays 312). No new word budget (mcqz 3,544/4,000; about +330 already committed).
+- **Convergence**: `Convergence` lines on two same-day ChatGPT tasks. Libet P2: the Schurger 2021 and Maoz 2019 gap and the arbitrary-to-deliberate scope point (L97) converge; Gemini's "statistical artifact" direction is rejected. A Notes addendum gives Bogler et al. 2023 as an optional verified counterweight within the existing +70. P1: in substance only; the "Born-governed" text is motor-selection L48, the page P1's heading names. The compatibility P2 was not counted (it is reached only through motor-selection quotations).
+- **Pattern**: second consecutive Gemini leg (after 11-02) to attribute sibling-page text to the reviewed article despite an explicit prompt prohibition. Gemini's "recalculation" reading probably comes from motor-selection L176 "Hameroff (2014) calculates", already item (a) of the open satellite P2.
+
 ---
 
 ## 2026-11-03T05:17:00+00:00 - literature-drift-review
