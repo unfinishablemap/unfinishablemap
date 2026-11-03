@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-02T23:52:18+00:00
+ai_modified: 2026-11-03T00:08:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T00:08:40+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update, P-A5 (dated note only; no band moved)
+- **File**: [[positions/agency-and-will]]
+- **Task**: P3 "Add a P-A5 `Updated` note recording new dispositionalism as the named trigger for its 'Would shift if' clause" (todo.md 0-based line 1692). Before the edit the register had 0 mentions of `new-dispositionalism`; [[concepts/new-dispositionalism]] links `positions/agency-and-will#^p-a5` (1×).
+- **Source verdict relied on** ([[concepts/new-dispositionalism]] §Relation to Site Perspective): new dispositionalism "is the most direct candidate for that trigger, and the replies above explain why it has not fired without closing the question"; the lead calls the view "live and unrefuted", and the closing line says the Map's best reply "relocates the dispute to the choosing rather than winning it". The note uses that strength: a candidate trigger that has not fired. It does not say the trigger has been satisfied.
+- **Changes** (`analyze_length` 3479 → 3515, +36; already over the positions hard limit of 2500 before the edit; a dated `Updated` note is the register's accepted convention): new note at the top of P-A5's history notes, in the same `- **Updated YYYY-MM-DD**:` format: "[[new-dispositionalism]] is the most direct candidate trigger for the genuine-alternatives clause of **Would shift if**; its critics' replies explain why it has not fired, without closing the question. No credence or status change." P-A5 Last reviewed 2026-09-11 → 2026-11-03. P-A5 now has three history notes, which is the maximum. Asserts, Calibration, Depends on, Argued in and Would shift if are unchanged. No other position was touched.
+- **Credence / status**: unchanged (moderate; live). The source page gives no reason to move either. It says the trigger has not fired, and its own reading (that the dispositional defence is "no free gift to the Map's leeway wing") fits P-A5's existing conditionalisation of the alternatives-based residue.
+- **Cascade**: none. No band moved, and no position lists P-A5 under Depends on.
+- **Frontmatter**: modified and ai_modified set to the real time. ai_system unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 2026-11-02T23:52:18+00:00 - deep-review
 - **Status**: Success

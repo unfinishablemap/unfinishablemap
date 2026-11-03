@@ -2,9 +2,9 @@
 title: "Agency and Will Positions"
 description: "The Map's positions on free will and agency: the agent-causal libertarian commitment, the volition as the interface contact point, the interpretation of Libet-style timing data, and where the case is held conservatively."
 created: 2026-06-08
-modified: 2026-10-30
+modified: 2026-11-03
 human_modified: 2026-06-08
-ai_modified: 2026-10-30T18:41:00+00:00
+ai_modified: 2026-11-03T00:08:40+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -103,9 +103,10 @@ These positions cover what the Map holds about agency: whether choices are genui
 - **Depends on**: P-A1; the [[compatibilist-symmetry-challenge]]; [[project/evidential-status-discipline]]
 - **Argued in**: [[concepts/compatibilism]], [[concepts/compatibilist-symmetry-challenge]], [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]], [[topics/free-will]], [[topics/moral-implications-of-genuine-agency]], [[topics/frankfurt-cases-and-the-principle-of-alternate-possibilities]], [[topics/reactive-attitudes-and-strawsonian-responsibility]]
 - **Would shift if**: libertarian agency were shown to secure a moral phenomenon compatibilism demonstrably cannot (collapsing the symmetry); or the named residue (ultimate desert, genuine alternatives) were shown to be illusory or compatibilist-recoverable — a trigger the Frankfurt retreat moves toward without satisfying, since it conditionalises the two alternatives-based items rather than recovering them.
+- **Updated 2026-11-03**: [[new-dispositionalism]] is the most direct candidate trigger for the genuine-alternatives clause of **Would shift if**; its critics' replies explain why it has not fired, without closing the question. No credence or status change.
 - **Updated 2026-09-11**: **Argued in** extended to [[concepts/compatibilism]], the corpus's only survey of the rival this position distinguishes itself from and uncited here until now (metadata repair queued 2026-08-22; no credence, status or claim change).
 - **Updated 2026-08-21**: the two alternatives-based residue items conditionalised on the Map's leeway defence, and **Argued in** extended to the Frankfurt-cases and Strawsonian-responsibility articles — since 2026-07-29 the canonical loci for two of the three residue items, neither previously cited. No credence change: the Strawsonian instance strengthens the main claim about as much as the Frankfurt retreat narrows the residue, which is narrowed, not eliminated.
-- **Last reviewed**: 2026-09-11
+- **Last reviewed**: 2026-11-03
 
 ## P-A6: The agent's direct causal product is a volition, and the volition is where the interface makes contact
 
