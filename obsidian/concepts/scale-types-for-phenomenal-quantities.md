@@ -4,7 +4,7 @@ description: "Human-AI analysis applying measurement theory to experience: which
 created: 2026-08-21
 modified: 2026-09-24
 human_modified:
-ai_modified: 2026-10-05T23:59:45+00:00
+ai_modified: 2026-11-03T03:44:38+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
@@ -58,7 +58,7 @@ Whether the conjoint route works for psychological attributes is contested. Ho, 
 
 ## The Cross-Subject Rung: A Uniqueness-Theorem Fact
 
-The fifth rung is where the formalism localises the Map's calibration problem. Each subject's representation, where one exists, is fixed only up to that subject's own admissible transformations — monotone, affine, or similarity, per the structure their comparisons support. Nothing in any axiom on a single subject's structure constrains the alignment *between* subjects: pairing one representative mapping per subject is a degree of freedom the within-subject data leave open. The point is general to uniqueness theorems rather than special to consciousness — formally the same undetermined parameter as interpersonal utility comparison in decision theory.
+The fifth rung is where the formalism localises the Map's calibration problem. Each subject's representation, where one exists, is fixed only up to that subject's own admissible transformations — monotone, affine, or similarity, per the structure their comparisons support. Nothing in any axiom on a single subject's structure constrains the alignment *between* subjects: pairing one representative mapping per subject is a degree of freedom the within-subject data leave open. The point is general to uniqueness theorems rather than special to consciousness — formally the same undetermined parameter as [[psychophysical-social-choice-problem|interpersonal utility comparison]] in decision theory.
 
 What would close the gap is an *empirical relation spanning subjects* — some observable qualitative relation between one subject's experience and another's, from which a joint representation theorem could be proved. From RTM alone it follows only that within-subject axioms never deliver interpersonal comparability; whether a spanning relation exists is a further empirical and metaphysical question. On the Map's premise that phenomenal states are accessible only first-personally, no spanning relation is observable even in principle: the empirical relational structure whose objects are drawn from two subjects' experiences has no observable relations, so the homomorphism construction cannot begin. The measurement-standards article's missing "shared water bath" is this absent structure, restated formally. A physicalist who identifies phenomenal magnitudes with neural magnitudes gets a spanning relation for free — cross-subject calibration becomes neural measurement — at the price of assuming the identity the explanatory gap contests.
 

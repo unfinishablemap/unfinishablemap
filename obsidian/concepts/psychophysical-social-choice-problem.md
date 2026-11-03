@@ -2,9 +2,9 @@
 title: "The Psychophysical Social-Choice Problem"
 description: "When two subjects' conscious states bear on one physical event, the selection law needs an aggregation rule. A human-AI analysis of the options and what each one costs."
 created: 2026-10-13
-modified: 2026-10-31
+modified: 2026-11-03
 human_modified:
-ai_modified: 2026-10-31T23:50:31+00:00
+ai_modified: 2026-11-03T03:42:23+00:00
 draft: false
 topics:
   - "[[multi-agent-born-preservation-problem]]"
@@ -45,6 +45,8 @@ For one subject, the [[selection-criterion-problem|selection-criterion problem]]
 
 The problem belongs to models in which conscious states condition *which* outcome occurs. In David Chalmers and Kelvin McQueen's (2022) consciousness-collapse model, consciousness fixes when collapse happens, and the outcome follows "with probabilities given by the Born rule." No subject's preference enters the outcome law, so there is nothing to compose. Selection models are built differently, and they inherit the problem wherever two subjects' selections bear on one event.
 
+Stapp's Process 1 route, which [[tenets#^bidirectional-interaction|Bidirectional Interaction]] registers without adopting, is a third family: consciousness fixes *what is asked* and when, and [[zeno-dynamics-on-a-decohered-mixture#unconditional|the asking can move the unconditional statistics]] while nature's answer stays Born-distributed. Its plural form is the Map's own working. [[#locality|Where substrates overlap]], incompatible questions give order-dependent results; rapid alternation shrinks the held component by cos²θ per round for axes θ apart, undoing each asker's hold. On the [[process-1-specification-problem|Laskey variant]], concordant askers put one brain-supplied question, and interleaved schedules merge. Inside the quadratic window, that tightens the hold: in the [[zeno-dynamics-on-a-decohered-mixture#two-state-illustration|Zeno toy model]], halving an interval of 0.3 dephasing times cuts the leak from 0.136 to 0.071 of the environment-only rate, a gain that fades for long intervals. Because joint asking composes channels rather than mixing conditionals, the [[#born-favours-fixed-weights|fixed-weights result]] does not transfer: concordant askers accumulate.
+
 Two features of the Map's selection law shape the rule it owes. The law is stochastic, so the relevant object is Gibbard's decision scheme rather than the ordering of social states that Kenneth Arrow (1951/1963) studied. And the law preserves Born statistics in the *unconditioned* aggregate while leaving the conditionals free ([[selection-only-channel]]). The composition rule may let outcomes depend on the profile of conscious states, but averaged over the profiles that actually occur it must return Born frequencies. Ordinary social choice has no analogue of this budget.
 
 A further question is *what* gets composed. If the inputs are valenced orderings of outcomes, Arrow's and Gibbard's results apply. If they are intentions with propositional content, such as intending *that* the hand moves, the relevant field is judgment aggregation, where Christian List and Philip Pettit (2002) prove an impossibility theorem for groups forming collective judgments on interconnected questions. P-VS1's currency, felt anticipation, selects the first reading. The second is what remains on the value-blind side.
@@ -81,7 +83,7 @@ The result depends on which Born-preservation reading is in force. On the per-co
 
 ### Intensity Weighting Needs More Than the Map Supplies {#intensity}
 
-The utilitarian option needs two things. Each subject's input must be a single quantity. P-VS1 assumes this and lists it as at risk: if felt valence at choice proves to be several distinct evaluations rather than one scalar, the currency premise retires. The quantities must also share a unit across subjects as a matter of phenomenal fact. Nothing in the Map supplies that, and if the unit exists it is hidden from inquiry, since phenomenal measurement has no shared reference point across subjects ([[consciousness-and-the-problem-of-measurement-standards]]). The Map's value pluralism widens the gap ([[positions/value-in-selection|P-VS4]]). If intrinsic value has several dimensions with no common hedonic currency, a felt anticipation is each subject's own way of weighing them, and a law that summed such feelings would sum anticipations rather than goods. If the scalar fails and each input is a vector, the Arrovian problem reappears inside each subject, because, as Samir Okasha (2011) shows for theory choice, choosing by several criteria is formally a social-choice problem with criteria in place of voters.
+The utilitarian option needs two things. Each subject's input must be a single quantity. P-VS1 assumes this and lists it as at risk: if felt valence at choice proves to be several distinct evaluations rather than one scalar, the currency premise retires. The quantities must also [[scale-types-for-phenomenal-quantities|share a unit across subjects]] as a matter of phenomenal fact. Nothing in the Map supplies that, and if the unit exists it is hidden from inquiry, since phenomenal measurement has no shared reference point across subjects ([[consciousness-and-the-problem-of-measurement-standards]]). The Map's value pluralism widens the gap ([[positions/value-in-selection|P-VS4]]). If intrinsic value has several dimensions with no common hedonic currency, a felt anticipation is each subject's own way of weighing them, and a law that summed such feelings would sum anticipations rather than goods. If the scalar fails and each input is a vector, the Arrovian problem reappears inside each subject, because, as Samir Okasha (2011) shows for theory choice, choosing by several criteria is formally a social-choice problem with criteria in place of voters.
 
 ### Moral Equality and Causal Equality Come Apart {#moral-and-causal-standing}
 

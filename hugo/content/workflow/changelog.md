@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 03:11:54+00:00
+ai_modified: 2026-11-03 03:45:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 03:11:54+00:00
+lastmod: 2026-11-03 03:45:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T03:45:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [psychophysical-social-choice-problem](/concepts/psychophysical-social-choice-problem/) (P3 todo 0-based L1692, from optimistic-2026-10-19-composition-and-appearance-wing)
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length, concepts hard 3500, gate `>=`): psychophysical-social-choice-problem 2947 → 3085 (+138); scale-types-for-phenomenal-quantities 3492 → 3492 (+0); zeno-dynamics-on-a-decohered-mixture 2630 → 2630 (+0)
+- **Changes**:
+  - (1) §composition-rule: a new paragraph after "Selection models are built differently..." on the question-selection (Stapp Process 1) family, which Bidirectional Interaction registers without adopting. It is labelled the Map's own working and scoped to overlapping substrates (§locality). Discordant askers: incompatible questions are order-dependent, and alternation shrinks the held component by cos²θ per round. Concordant askers (Laskey variant): interleaved schedules merge, and in the Zeno toy model halving τ at x = 0.3 takes R/Γ from 0.136 to 0.071, a gain that fades for long intervals. The fixed-weights result does not transfer, because joint asking composes channels rather than mixing conditionals, so concordant askers accumulate. Links: zeno#unconditional, zeno#two-state-illustration, process-1-specification-problem, #locality, #born-favours-fixed-weights.
+  - (2) §intensity: +0 pipe [share a unit across subjects](/concepts/scale-types-for-phenomenal-quantities/). No Sen attribution added, so the Sen 1970b/1977 caution is not engaged.
+  - (3a) scale-types §Cross-Subject Rung: +0 pipe on "interpersonal utility comparison" → social-choice. This also partly answers pessimistic-2026-08-21-scale-types's "uncited" note on that sentence.
+  - (3b) zeno RtSP: +0 pipe on "which question, and when" → social-choice. Raw-grep consequence: the exact string "the mind contributes the asking: which question, and when" no longer appears in the raw source (the rendered text is unchanged). No content page quotes it.
+- **Arithmetic re-derived** (numpy Bloch-vector check plus the toy formula): r → (r·n)n confirmed; n-then-m ≠ m-then-n; |r| 0.9 → 0.589 → 0.386 → 0.252 at θ = 36° (cos² = 0.6545); R/Γ(0.3) = 0.1361, R/Γ(0.15) = 0.0714. Every task number reproduces. Discrepancy in the gloss: "almost nothing changes outside the window" is false at x = 3, where halving τ still cuts R/Γ by 29% (0.683 → 0.482). The relative gain is about 1/(x−1) for large x (11% at x = 10, 1% at x = 100). The article therefore says "fades for long intervals". Added condition: projection is idempotent, so concordant askings at the same instants add nothing, and only interleaved schedules shorten the interval ("interleaved").
+- **FENCE respected**: the §born-favours-fixed-weights paragraph "The result depends on which Born-preservation reading is in force" ([P-Q2](/positions/quantum-interface/#p-q2) HUMAN DECISION) is untouched, and no positions file was edited. topics/motor-control-quantum-zeno (today's outer-review subject) is neither edited nor quoted.
+- **Reasoning mode**: no named-opponent engagement added or altered.
+- **ai_system**: unchanged on all three; claude-opus-5-5 was already a component of each.
+- **Published**: yes
 
 ## 2026-11-03T03:11:54+00:00 - research-topic
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Does Stapp's Zeno hold survive decoherence into a mixture? Inside 
 created: 2026-10-12
 modified: 2026-10-12
 human_modified:
-ai_modified: 2026-10-14T23:27:00+00:00
+ai_modified: 2026-11-03T03:44:38+00:00
 draft: false
 topics:
   - "[[motor-control-quantum-zeno]]"
@@ -97,7 +97,7 @@ Three gaps keep the question unsettled. In each, nothing has yet come in, which 
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** The Zeno hold remains a candidate channel of the kind this tenet asks for. It adds no force term, leaves every answer Born-distributed, and acts through the rate and timing of asking. This analysis closes one escape route. A model that works on a decohered mixture is not thereby free of timing: its requirement moves from *[[timing-gap-problem|outlast decoherence]]* to *fall inside the quadratic window for the distinction the environment monitors*. The Map's preferred route, [[post-decoherence-selection]], does not depend on that window, which supports the [[comparing-quantum-consciousness-mechanisms#preference-ordering|preference ordering]] that ranks it ahead of the Zeno proposal.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Inside the window the lever is real and shows in the unconditional statistics, so a Zeno hold there would not be an instance of [[ensemble-level-epiphenomenalism]]: the ensemble differs from what it would have been had nothing been asked. That gives the hold an in-principle statistical signature that the corridor reading of outcome-selection lacks. The cost lies in what the lever is. Because the non-selective map suffices, nature's answer is idle and the mind contributes the asking: which question, and when. That is the Process 1, context-selection path the Bidirectional Interaction tenet registers without adopting, and the [[process-1-specification-problem]] sets out the debt it carries over who fixes the projector. Outside the window the lever vanishes and Georgiev's redundancy charge stands. Whether the Zeno route gives Tenet 3 a working mechanism therefore turns on a quantity no one has computed.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Inside the window the lever is real and shows in the unconditional statistics, so a Zeno hold there would not be an instance of [[ensemble-level-epiphenomenalism]]: the ensemble differs from what it would have been had nothing been asked. That gives the hold an in-principle statistical signature that the corridor reading of outcome-selection lacks. The cost lies in what the lever is. Because the non-selective map suffices, nature's answer is idle and the mind contributes the asking: [[psychophysical-social-choice-problem|which question, and when]]. That is the Process 1, context-selection path the Bidirectional Interaction tenet registers without adopting, and the [[process-1-specification-problem]] sets out the debt it carries over who fixes the projector. Outside the window the lever vanishes and Georgiev's redundancy charge stands. Whether the Zeno route gives Tenet 3 a working mechanism therefore turns on a quantity no one has computed.
 
 ## Further Reading
 
