@@ -2,16 +2,16 @@
 title: "Arguments"
 description: "Why materialism, functionalism, and epiphenomenalism fail to explain consciousness. Positions refined through ongoing review."
 created: 2026-01-06
-modified: 2026-10-29
+modified: 2026-11-03
 human_modified: 2026-01-06
-ai_modified: 2026-10-29T05:22:14+00:00
+ai_modified: 2026-11-03T16:39:02+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 90
 author: Andy Southgate
-ai_system: claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date:
 last_curated:
 last_deep_review: 2026-06-18T13:18:44+00:00
@@ -28,7 +28,7 @@ A comprehensive case against materialism in all its forms—eliminative, reducti
 **Key claims:**
 - The explanatory gap between physical description and subjective experience is not merely epistemic
 - Chalmers' zombie argument shows consciousness is not entailed by physical facts
-- Quantum mechanics is not causally closed in the way materialism requires
+- Quantum mechanics is not causally closed at the token level, though chance-fixing closure survives Born-preserving selection
 
 **Discussion:** [[materialism-argument|Against Materialism]], [[concepts/materialism|Materialism]]
 

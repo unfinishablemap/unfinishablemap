@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T16:22:33+00:00
+ai_modified: 2026-11-03T16:39:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T16:39:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/arguments]] (edited); [[arguments/materialism-argument]] (verified, unchanged)
+- **Review file**: reviews/outer-review-2026-10-20-claude-opus-5-5.md
+- **Original score**: n/a (`scripts/curate.py` absent; targeted residue task)
+- **Part (1), L68 "dissolution test"**: DISCHARGED-VERIFIED. Commit 19cc9a434d (deep-review, 2026-10-26) removed the quoted "should dissolve the seeming" sentence (`git log -S`). L68 now says contemplative evidence "cannot settle the matter": sharper discrimination is a functional gain an eliminativist also expects, a persisting seeming decides nothing (the same treatment as the L70 Frankish fix), and heterophenomenology admits the reports only as third-person data. That is the "at best neutral" reading the review (L178) asked for. L135 (Contemplative Perspectives) concedes the vedanā/anattā point and calls the reports "suggestive rather than decisive", which is consistent. The page makes no Churchland attribution, so there was nothing to verify at source. No edit.
+- **Part (3), L98 epiphenomenalism**: DISCHARGED-VERIFIED by the same commit 19cc9a434d. L98 now reads "Born-preserving selection leaves chance-fixing closure intact, so the Map's reading faces unresolved epiphenomenalist pressure (the mechanism debt)". Its antecedent is the case `concepts/causal-closure` L138 introduces with "Otherwise" (no mind-conditioned chance differs). It frames the point as pressure, not as a concession, matching `positions/quantum-interface` L79 ("a framework-boundary pressure the Map marks honestly rather than treats as dissolved"). Every way of spelling out the conditional added words (+1 to +2), and the gate leaves no room, so there was no word-neutral improvement. No edit.
+- **Part (2), arguments.md L31**: FIXED. "Quantum mechanics is not causally closed in the way materialism requires" → "Quantum mechanics is not causally closed at the token level, though chance-fixing closure survives Born-preserving selection". This matches the target heading on materialism-argument L92 ("Quantum Mechanics Is Not Causally Closed at the Token Level") and the L98 concession. The frontmatter description is untouched (it belongs to another open task).
+- **Guards**: materialism-argument L102 "coherence times of 10⁻⁷ seconds" untouched.
+- **Length (analyze_length)**: materialism-argument 3473 → 3473 (unchanged; arguments hard 3500); arguments.md 967 → 972 (+5).
+- **ai_system**: arguments.md `claude-opus-5+claude-fable-5-1` → `claude-opus-5+claude-fable-5-1+claude-opus-5-5` (my model id was absent; grepped from my own transcript). materialism-argument is unchanged, so its ai_modified was not bumped.
+- **Published**: yes
 
 ## 2026-11-03T16:22:33+00:00 - condense
 - **Status**: Success
