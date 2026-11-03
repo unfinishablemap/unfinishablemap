@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal, and the sharpest pressure 
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-11-02T09:42:32+00:00
+ai_modified: 2026-11-03T01:02:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,7 +157,7 @@ The [[empirical-phenomena-mental-causation|placebo effect]] appears to make the 
 
 The [[evolutionary-case-for-mental-causation|evolutionary argument]] against epiphenomenalism is strongest for pain. The elaborate phenomenal architecture of pain — its graded intensity tracking tissue damage, its qualitative variety matching damage type, its attention-monopolising urgency proportional to threat severity — would be a staggering accident if consciousness were causally inert.
 
-The epiphenomenalist may respond that pain experience necessarily [[supervenience|supervenes]] on the functional states natural selection actually selected. But this generates a further question: *why this particular [[supervenience]] mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The interactionist explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes. The [[co-optimization-reply-to-the-correlation-problem|co-optimization reply]] is a rival non-causal explanation of the same calibration, which the dissociation evidence constrains without yet discriminating against.
+The epiphenomenalist may respond that pain experience necessarily [[supervenience|supervenes]] on the functional states natural selection actually selected. But this generates a further question: *why this particular [[supervenience]] mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The interactionist explanation: if hurting drives avoidance *in virtue of how it feels*, evolution calibrated it to the survival stakes; the [[inheritance-problem-for-the-psychophysical-law#harmony|law itself]] is shared. The [[co-optimization-reply-to-the-correlation-problem|co-optimization reply]] is a non-causal rival, which the dissociation evidence constrains without yet discriminating against.
 
 [[philosophical-zombies|Philosophical zombies]] who respond to tissue damage exactly as humans do — wincing, crying out, seeking medical attention — but who feel nothing sharpen the point. A pain-zombie's "pain behaviour" is empty performance. If we can coherently conceive of this, then pain behaviour does not entail pain experience, and the experience itself must be something beyond the functional organisation.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-26 21:21:43+00:00
+ai_modified: 2026-11-03 01:02:37+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-08 06:11:21+00:00
-lastmod: 2026-10-26 21:21:43+00:00
+lastmod: 2026-11-03 01:02:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -182,7 +182,7 @@ The full battery—these direct tests, the wanting/liking dissociation condition
 
 If valence is the selection currency, natural selection shaped its denominations—pain with tissue damage, pleasure with survival-promoting activities, fear with genuine threats—because organisms whose valence aligned with fitness outcompeted those whose valence was miscalibrated.
 
-This addresses a puzzle epiphenomenalism cannot: if valence were inert, the tight correlation between what feels bad and what threatens survival would be a cosmic coincidence. The epiphenomenalist's best answer is the [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/)—selection co-produces aligned valence and behaviour from one optimised system—which survives the dissociation evidence but pays for its parsimony with an unexplained psychophysical necessity. If valence drives selection, evolution shapes it directly: the felt badness of burning is bad for the organism *and* motivates avoidance *because* valence enters the selection law.
+This addresses a puzzle for epiphenomenalism: if valence were inert, the tight correlation between what feels bad and what threatens survival would be a cosmic coincidence. The epiphenomenalist's best answer is the [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/)—selection co-produces aligned valence and behaviour from one optimised system—which survives the dissociation evidence but pays for its parsimony with one of three prices. If valence drives selection *in virtue of how it feels*, evolution shapes it directly, though both views need a [contingent law pairing brain states with feelings](/topics/inheritance-problem-for-the-psychophysical-law/#harmony).
 
 ## The Map's Current Lean
 

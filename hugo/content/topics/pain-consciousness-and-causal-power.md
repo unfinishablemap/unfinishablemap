@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-11-02 09:42:32+00:00
+ai_modified: 2026-11-03 01:02:37+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 13:10:09+00:00
-lastmod: 2026-11-02 09:42:32+00:00
+lastmod: 2026-11-03 01:02:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -162,7 +162,7 @@ The [placebo effect](/topics/empirical-phenomena-mental-causation/) appears to m
 
 The [evolutionary argument](/topics/evolutionary-case-for-mental-causation/) against epiphenomenalism is strongest for pain. The elaborate phenomenal architecture of pain — its graded intensity tracking tissue damage, its qualitative variety matching damage type, its attention-monopolising urgency proportional to threat severity — would be a staggering accident if consciousness were causally inert.
 
-The epiphenomenalist may respond that pain experience necessarily [supervenes](/concepts/supervenience/) on the functional states natural selection actually selected. But this generates a further question: *why this particular [supervenience](/concepts/supervenience/) mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The interactionist explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes. The [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/) is a rival non-causal explanation of the same calibration, which the dissociation evidence constrains without yet discriminating against.
+The epiphenomenalist may respond that pain experience necessarily [supervenes](/concepts/supervenience/) on the functional states natural selection actually selected. But this generates a further question: *why this particular [supervenience](/concepts/supervenience/) mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The interactionist explanation: if hurting drives avoidance *in virtue of how it feels*, evolution calibrated it to the survival stakes; the [law itself](/topics/inheritance-problem-for-the-psychophysical-law/#harmony) is shared. The [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/) is a non-causal rival, which the dissociation evidence constrains without yet discriminating against.
 
 [Philosophical zombies](/concepts/philosophical-zombies/) who respond to tissue damage exactly as humans do — wincing, crying out, seeking medical attention — but who feel nothing sharpen the point. A pain-zombie's "pain behaviour" is empty performance. If we can coherently conceive of this, then pain behaviour does not entail pain experience, and the experience itself must be something beyond the functional organisation.
 

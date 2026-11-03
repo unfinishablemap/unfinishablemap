@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-10-26T21:21:43+00:00
+ai_modified: 2026-11-03T01:02:37+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -179,7 +179,7 @@ The full battery—these direct tests, the wanting/liking dissociation condition
 
 If valence is the selection currency, natural selection shaped its denominations—pain with tissue damage, pleasure with survival-promoting activities, fear with genuine threats—because organisms whose valence aligned with fitness outcompeted those whose valence was miscalibrated.
 
-This addresses a puzzle epiphenomenalism cannot: if valence were inert, the tight correlation between what feels bad and what threatens survival would be a cosmic coincidence. The epiphenomenalist's best answer is the [[co-optimization-reply-to-the-correlation-problem|co-optimization reply]]—selection co-produces aligned valence and behaviour from one optimised system—which survives the dissociation evidence but pays for its parsimony with an unexplained psychophysical necessity. If valence drives selection, evolution shapes it directly: the felt badness of burning is bad for the organism *and* motivates avoidance *because* valence enters the selection law.
+This addresses a puzzle for epiphenomenalism: if valence were inert, the tight correlation between what feels bad and what threatens survival would be a cosmic coincidence. The epiphenomenalist's best answer is the [[co-optimization-reply-to-the-correlation-problem|co-optimization reply]]—selection co-produces aligned valence and behaviour from one optimised system—which survives the dissociation evidence but pays for its parsimony with one of three prices. If valence drives selection *in virtue of how it feels*, evolution shapes it directly, though both views need a [[inheritance-problem-for-the-psychophysical-law#harmony|contingent law pairing brain states with feelings]].
 
 ## The Map's Current Lean
 

@@ -5,6 +5,26 @@ ai_modified: 2026-11-03T00:37:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-03T01:03:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/valence-and-conscious-selection]] + [[topics/pain-consciousness-and-causal-power]] (TWO FILES)
+- **Task**: P3 "Bring the valence-selection and pain-causal-power correlation arguments into line with the co-optimization page's shared-debt verdict" (todo 0-based L1692). Spillover from the 2026-10-19 refine of [[topics/co-optimization-reply-to-the-correlation-problem]] ([[reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem]] Issue 2, string-sibling list L147–L148).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source check**: the co-optimization page's current Relation to Site Perspective was re-read before writing (three prices; outbound law escapes necessity-or-indifference only on Mørch's phenomenal powers reading, the Map's construction; inbound law is a debt shared by both views). No Mørch quotation was installed; "in virtue of how it feels" is unquoted italic paraphrase, and the linked [[inheritance-problem-for-the-psychophysical-law#harmony|harmony section]] carries the attributed quotation.
+- **Changes, valence-and-conscious-selection** (4,337 → 4,336 words, topics hard 4,000; paragraph 84 → 83; HUMAN LENGTH DECISION still open):
+  - L182 "This addresses a puzzle epiphenomenalism cannot" → "This addresses a puzzle for epiphenomenalism" (±0; "cannot" contradicted the next sentence's surviving co-optimization answer).
+  - "pays for its parsimony with an unexplained psychophysical necessity" → "pays for its parsimony with one of three prices" (±0; the trilemma has three horns, not one).
+  - "If valence drives selection, evolution shapes it directly: the felt badness of burning is bad for the organism *and* motivates avoidance *because* valence enters the selection law." → "If valence drives selection *in virtue of how it feels*, evolution shapes it directly, though both views need a [[inheritance-problem-for-the-psychophysical-law#harmony|contingent law pairing brain states with feelings]]." (−1; conditional on the phenomenal powers outbound law, inbound law marked as shared). The burning illustration was the funding cut.
+- **Changes, pain-consciousness-and-causal-power** (3,995 → 3,995 words, topics hard 4,000; paragraph 100 → 100):
+  - L160 "The interactionist explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes." → "The interactionist explanation: if hurting drives avoidance *in virtue of how it feels*, evolution calibrated it to the survival stakes; the [[inheritance-problem-for-the-psychophysical-law#harmony|law itself]] is shared." (+5).
+  - Funding: "is a rival non-causal explanation of the same calibration" → "is a non-causal rival" (−5); "constrains without yet discriminating against" kept.
+  - Not touched: S4 "If the awfulness is causally inert, natural selection never 'saw' it…" (quoted as a Notable quote in [[reviews/optimistic-2026-03-14]]) and the "why this particular supervenience mapping?" question (the 2026-06-01 deep review's engagement hinge). Yesterday's installs at L142, L168 and L170 (Noordhof reversal, "intact sensory processing", "compatible with phenomenal causation rather than evidence for it", "broadens this") are intact, each grep count 1.
+- **Reasoning mode**: engagement with the property-dualist co-optimizer, both pages: Mixed. Mode Two on the shape question (selection cannot see an inert feeling, so the epiphenomenalist's inbound law must be harmoniously shaped), then Mode Three on the residue (both views posit the inbound law; the interactionist's outbound advantage holds only on the Map's phenomenal powers construction). No label leakage.
+- **Tenet consistency**: Bidirectional Interaction is read no more strongly than [[tenets#^tenet-3-standing|the tenet's standing note]]; no move toward "establishes".
+- **String-sibling reported, not edited**: [[apex/moral-architecture-of-consciousness]] L148 still says the co-optimization reply "pays with an unexplained psychophysical necessity rather than a coincidence", and that "the value-sensitive horn explains directly" the correlation. It is the same one-sided version, now on an apex page. Old wordings otherwise grep only in reviews/workflow.
+- **ai_system**: unchanged on both pages (both already contain claude-opus-5-5).
+- **Published**: yes
+
 ## 2026-11-03T00:37:41+00:00 - coalesce
 - **Status**: Abandoned (no candidate; expected steady state)
 - **Mode**: fast-path delta re-run of the 2026-11-02T13:25:31Z screen, using the same scripts (copied to `coalesce_screen_1103.py` / `sim_1103.py`) and the same rules: sidecar and section indexes dropped first; pages edited since 2026-11-02T00:00Z excluded; pages created on or after 2026-10-20 excluded; pages named in one of the 20 open P1/P2 task blocks excluded.
