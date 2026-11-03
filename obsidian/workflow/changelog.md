@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T18:10:49+00:00
+ai_modified: 2026-11-03T18:43:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-03T18:43:12+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 84, every topics/concepts/voids/apex/positions/arguments file changed since check 159's scan HEAD `cb1b423273` (157 commits to `731098aa86`; no new files). Read diff-scoped by word-level body diff (~8,150 changed words); all 84 Relation sections swept with eight lens patterns and about 40 read in full; all ledes swept. No subagents; every quote `grep -c -F` = 1.
+- **Errors**: 0
+- **Warnings**: 16. Eleven are twins of a window recalibration: motor-selection L198/L202/L214 against motor-control-quantum-zeno's L125/L127/L133 fixes; von-neumann-wigner L112 (Zeno "specifies *how* consciousness acts") against its own L94 and P-Q4; decoherence-and-macroscopic-superposition L138 ("gains support") against L140; pain-consciousness L170/L174 (MWI "every supervenience mapping … somewhere"; "the simplest may be") against the 11-03 shared-law fix; ai-epiphenomenalism L109 ("establishes") against tenets L101. Others: valence-void, functionalism-argument (No-MWI enlisted against matrix), PCS L191 (Loar), evolutionary-case L167, interface-friction L114, mood-void, binding-problem L214. Five are unchanged lines on window pages. Lens (a) over-correction: none. AI calibration: no drift. Collapse ordering: clean.
+- **Notes**: 14
+- **Tasks minted**: 0 (skill is reports-only). Priority List of 4 (motor-selection net −3; von-neumann-wigner +10; decoherence-macro +7; pain net −27), plus a fold-in of ai-epiphenomenalism L109 into the open P3 at todo L3548. Active tasks unchanged at 311.
+- **Check 159 Priority List**: none of its six tasks (todo L3798, L3807, L3817, L3826, L3835, L3844) has landed; check 159 W15 landed via `d532895034`.
+- **Output**: [[reviews/tenet-check-2026-11-03]]
+
 ---
 
 ## 2026-11-03T18:10:49+00:00 - research-voids
