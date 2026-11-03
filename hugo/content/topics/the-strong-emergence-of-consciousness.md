@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-09-17 13:24:30+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-03 15:26:49+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/consciousness-and-strong-emergence/
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 23:08:40+00:00
-lastmod: 2026-09-17 13:24:30+00:00
+lastmod: 2026-11-03 15:26:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ The Map denies causal closure — but not wholesale. Closure holds through most 
 
 Classical British emergentists accepted strong emergence without a mechanism — Alexander accepted it with "natural piety," as a brute fact. A century later, quantum mechanics provides what they lacked: a specific location in physics where the causal structure is incomplete. Whether quantum indeterminacies in neural tissue survive [decoherence](/concepts/decoherence/) long enough remains contested — Tegmark (2000) estimated decoherence times far too short for neural relevance, though Hagan et al. (2002) challenged his assumptions. And more fundamentally, decoherence does not solve the [measurement problem](/concepts/measurement-problem/) — even after decoherence, something must select which outcome becomes actual.
 
-Timothy O'Connor and Hong Yu Wong developed a sophisticated account of strong emergence compatible with this framework. Their key innovation: emergent powers manifest only under appropriate structural triggering conditions — when components organise in specific ways, latent dispositions become active. The brain's neural architecture provides the conditions under which consciousness manifests with novel causal powers. Where their account remains abstract about mechanism, the Map's quantum framework — drawing on proposals like [Stapp's quantum Zeno model](/concepts/stapp-quantum-mind/) — supplies specificity.
+Timothy O'Connor and Hong Yu Wong developed a sophisticated account of strong emergence compatible with this framework. Their key innovation: fundamental constituents are disposed "to give rise to an emergent property under suitable circumstances" — when a system reaches a threshold of organised complexity. The brain's neural architecture provides the conditions under which consciousness manifests with novel causal powers. Where their account remains abstract about mechanism, the Map's quantum framework — drawing on proposals like [Stapp's quantum Zeno model](/concepts/stapp-quantum-mind/) — supplies specificity.
 
 ## What Each Position Determines
 

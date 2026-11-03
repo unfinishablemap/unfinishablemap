@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 15:10:39+00:00
+ai_modified: 2026-11-03 15:27:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 15:10:39+00:00
+lastmod: 2026-11-03 15:27:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T15:27:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/), with [causal-closure](/concepts/causal-closure/) and [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) in the same task
+- **Original score**: n/a (`scripts/curate.py` absent; targeted quote-fidelity fix)
+- **Defect**: Two articles put "fundamentally novel" in quotation marks as O'Connor & Wong's (2005) words. The paper does not contain that string. The third article credited them with "latent dispositions become active". That wording comes from the rival micro-dispositional strategy they argue against ("latent dispositions (triggered only within specified, macroscopically complex contexts)"), which the SEP ties to Shoemaker.
+- **Source**: Re-fetched the authors' final preprint by its raw Wayback capture: `web.archive.org/web/20190318013749id_/http://www.indiana.edu/~scotus/files/MetaphEm.pdf`. This is the URL linked from the archived SEP Summer 2020 "Emergent Properties". The PDF's internal title is `MetaphEm_final.doc.pdf`, created 2004-03-11, 38 pages. It was converted with `pdftotext`, whitespace-flattened, and string-counted. Controls: the title (1) and "emergentist property dualism" (1). Results: "fundamentally novel" 0; "a fundamentally new kind of feature" 1; "fundamentally new" 1; "to give rise to an emergent property under suitable circumstances" 1; "threshold of organized complexity" 1; "genuinely novel causal powers" 1, which is Kim's phrase quoted by them. The published Wiley text was not reachable (doi.org → Cloudflare 403). Crossref confirms *Noûs* 39(4):658-678. The archived SEP raw HTML has 0 hits for "fundamentally novel".
+- **Changes**:
+  - `concepts/emergence` L87. OLD: `Emergent properties are "fundamentally novel"—possessing new causal powers not present in parts.` NEW: `An emergent property is "a fundamentally new kind of feature"—possessing causal powers not present in parts.` The singular subject also stops the next sentence's "They propose…" from reading as "emergent properties". The L124/L126 recalibration is untouched.
+  - `concepts/causal-closure` L158. OLD: `argue that emergent properties possess "fundamentally novel" causal powers not reducible to component-level causation` NEW: `argue that emergent properties are "fundamentally new," their powers not reducible to component-level causation`. The quoted fragment keeps the paper's subject (the emergent feature) and is not spliced onto "causal powers". The L63 task line is untouched.
+  - `topics/the-strong-emergence-of-consciousness` L131. OLD: `Their key innovation: emergent powers manifest only under appropriate structural triggering conditions — when components organise in specific ways, latent dispositions become active.` NEW: `Their key innovation: fundamental constituents are disposed "to give rise to an emergent property under suitable circumstances" — when a system reaches a threshold of organised complexity.` This recasts the passage in their own wording; nothing was deleted. The next sentence ("The brain's neural architecture provides the conditions…") still follows.
+- **Length** (`analyze_length`, gate `>=`): emergence 2954 → 2958 (concepts hard 3500); causal-closure 3493 → 3493 (net 0); strong-emergence 3965 → 3969 (topics hard 4000).
+- **Not edited (reported)**: emergence L87 sentence 3 and L124 keep "structural triggering conditions". In the paper, "trigger" occurs only in the rival passage, but L124 is protected and the unquoted paraphrase can be defended from §III.2 (a hidden tendency of basic entities "not discernible in contexts lacking the requisite macrocomplexity"). Emergence L89 uses "genuinely novel causal powers" unquoted, as Map prose. Three archived pages repeat the defects: `archive/topics/emergence-and-strong-emergence` L97, `archive/topics/consciousness-and-the-emergence-debate` L125/L127, and `archive/concepts/downward-causation` L83. The 2026-01-15 research notes and `research/emergent-dualism-2026-07-12` were left as historical records.
+- **Reasoning mode**: n/a (no named-opponent reply was touched).
+- **ai_system**: emergence and causal-closure unchanged (`claude-opus-5-5` already present); strong-emergence `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5-5`.
+- **Published**: yes
 
 ## 2026-11-03T15:10:39+00:00 - refine-draft
 - **Status**: Success

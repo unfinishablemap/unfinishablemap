@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-20 00:26:04+00:00
+ai_modified: 2026-11-03 15:26:49+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:24:36+00:00
-lastmod: 2026-10-20 00:26:04+00:00
+lastmod: 2026-11-03 15:26:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ The Map resolves this by denying causal closure—not everywhere, but at the spe
 
 Strong emergence requires [downward causation](/concepts/mental-causation-and-downward-causation/)—higher-level features genuinely influencing lower-level processes. Critics argue this violates physical laws; defenders reply that consciousness exercises powers not reducible to component-level causation.
 
-Timothy O'Connor and Hong Yu Wong develop a sophisticated account of strong emergence with genuine causal powers. Emergent properties are "fundamentally novel"—possessing new causal powers not present in parts. They propose structural triggering conditions—latent powers manifesting only when components organize appropriately.
+Timothy O'Connor and Hong Yu Wong develop a sophisticated account of strong emergence with genuine causal powers. An emergent property is "a fundamentally new kind of feature"—possessing causal powers not present in parts. They propose structural triggering conditions—latent powers manifesting only when components organize appropriately.
 
 Their view requires rejecting causal closure: if consciousness possesses genuinely novel causal powers, then a person's conscious decision—say, to switch on a kettle—involves higher-level mental causation driving lower-level molecular changes. This is precisely what the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms—consciousness causally influences physical outcomes.
 

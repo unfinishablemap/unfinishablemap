@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-21T12:50:21+00:00
+ai_modified: 2026-11-03T15:26:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -155,7 +155,7 @@ This argument appears in formal premise-conclusion form in the [[interactionist-
 
 ### The Emergentist Response
 
-Strong [[emergence|emergentism]] provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties possess "fundamentally novel" causal powers not reducible to component-level causation—genuine [[mental-causation-and-downward-causation|downward causation]] where consciousness influences neural states in ways component interactions don't determine.
+Strong [[emergence|emergentism]] provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties are "fundamentally new," their powers not reducible to component-level causation—genuine [[mental-causation-and-downward-causation|downward causation]] where consciousness influences neural states in ways component interactions don't determine.
 
 Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. [[spontaneous-collapse-theories|Spontaneous collapse theories]] (GRW, CSL) further strengthen the position: they provide consciousness-independent baseline collapse, allowing consciousness to *modulate* rather than wholly cause collapse—preserving [[prebiotic-collapse|prebiotic cosmology]] while enabling mental causation. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
 
