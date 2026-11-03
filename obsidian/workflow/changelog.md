@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T19:55:15+00:00
+ai_modified: 2026-11-03T20:20:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T20:20:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-cognitive-immune-system-and-immunological-selfhood]]
+- **Why chosen**: top `scripts/deep_review.py next` candidate (score 75, 71 days unreviewed), not on the driver's exclusion list, and no open task on the file. The only own-text change since 2026-08-24 was a one-phrase propagation, so this pass checked the claims against the current text of the pages the article depends on.
+- **Word count**: 2320 → 2455 (+135; topics soft 3000 / hard 4000, `ok`)
+- **Critical issues addressed**: 4
+  - L55 stranded misattribution: "Michael Levin's parallel restraint about xenobots in [[topics/basal-and-bioelectric-cognition]]" became a contrast. Cohen's restraint "shows the vocabulary in use by its own author with no phenomenal reading attached, though it does not show such a reading false". Levin "infers from comparable non-neural competencies that some degree of consciousness is present very widely (Levin 2022), an inference [[topics/basal-and-bioelectric-cognition]] reports and declines". This follows d38b75375f. Today's 2ba1e52f7e label sweep keyed on a different string and could not see this wording.
+  - L47 calibration (P-CS1 separates ontological possibility from causal eligibility): "the cleanest possible demonstration that learning and memory can be fully realised in a substrate with no candidate for experience" → "the cleanest case of learning and memory fully realised in a substrate that offers no site for an experiential interface".
+  - L81 third flat-absence locus, missed by the 2026-08-24 review: "carries no felt interiority" → "supplies no independent ground for felt interiority" (the 24f16a877f register).
+  - L51 Cohen quote: "preformed internal images guide and restrict the process of clonal activation" is verbatim in the PubMed abstract of 1992b, but that abstract is a third-person standfirst describing the PREVIOUS month's paper. The quote was converted to paraphrase. The clonal-selection critique and the proposal of the cognitive paradigm are now attributed to Cohen 1992a ("The cognitive principle challenges clonal selection", *Immunology Today* 13(11): 441–444, doi 10.1016/0167-5699(92)90071-E; PubMed 1476598 + Crossref). The unsupported gloss "too passive to explain…" was dropped.
+- **Medium issues addressed**: 1. The [[concepts/somatic-interface]] Further Reading label "bodily self-maintenance without a phenomenal locus" became "the body's felt channels, and the silent majority of its self-regulation, immune state included, that never reaches awareness". This matches that page's L59–61.
+- **References**: +2 (Cohen 1992a; Levin 2022 TAME, *Front. Syst. Neurosci.* 16: 768201, verified at PMC8988303 with four phrases grepped verbatim, and at Crossref). Renumbered 1–10. No orphans in either direction.
+- **Uncertified, not touched**: Cohen 2000 "devoted to cognition" and Tauber 1994 "the active pursuit of identity". The raw source was unreachable (Elsevier block, Google Books 429, JS-only WorldCat). Recorded in the review.
+- **Engagement classification** (editor-internal): Levin, Mode Three (graded-consciousness inference reported and declined; the argument stays on the basal page). Tauber and the specific functionalist are unchanged (Mode Two→Three and Mode Three, per 2026-08-24). No mode labels in prose.
+- **Enhancements made**: 2 (two-paper Cohen sequence; scoped evidential force of Cohen's restraint)
+- **Task minted**: P2 refine-draft on `apex/competency-without-felt-experience` L95 ("Levin bracketing xenobot sentience … these authors decline the step"; same stranding; 3998/4000 soft, length-neutral), plus a dated correction line in the 2026-07-08 basal research note.
+- **Attribution**: ai_system unchanged (`claude-opus-5-5` already present). ai_modified and last_deep_review 2026-11-03T20:17:28+00:00.
+- **Output**: [[reviews/deep-review-2026-11-03-the-cognitive-immune-system-and-immunological-selfhood]]
 
 ## 2026-11-03T19:55:15+00:00 - refine-draft
 - **Status**: Success

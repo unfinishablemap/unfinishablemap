@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-10-30 12:52:56+00:00
+ai_modified: 2026-11-03 20:17:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -19,8 +19,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/lxgNMaA5A60
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-24 19:08:53+00:00
-lastmod: 2026-10-30 12:52:56+00:00
+last_deep_review: 2026-11-03 20:17:28+00:00
+lastmod: 2026-11-03 20:17:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,15 +47,15 @@ This article is the fourth sibling in a cluster of non-neural competency cases t
 
 The claim that the immune system *learns* is not a metaphor loosely applied. It rests on a mechanism as structurally Darwinian as natural selection itself. Frank Macfarlane Burnet's **clonal selection theory** (1957) proposed that each lymphocyte carries a unique antigen receptor generated before it ever meets its target; when a matching antigen appears, it selects that clone and drives its proliferation. Clones that would react against the body's own molecules are deleted or inactivated during development, which is how the system acquires **self-tolerance**. Selected clones leave behind long-lived memory cells, so a second exposure to the same antigen produces a faster and stronger response.
 
-This is selection-plus-memory with no nervous system: variation (a pre-generated receptor repertoire), selection (antigen-driven clonal expansion), and inheritance across the response (memory cells). The immune system that emerges from a childhood infection is measurably different from the one that entered it, and the difference encodes information about the specific pathogens the body has met. By any functional standard this is learning and long-term memory. It is also, on the Map's reading, the cleanest possible demonstration that learning and memory can be fully realised in a substrate with no candidate for experience—a point developed in [Functional Self, Not Felt Self](#functional-self-not-felt-self).
+This is selection-plus-memory with no nervous system: variation (a pre-generated receptor repertoire), selection (antigen-driven clonal expansion), and inheritance across the response (memory cells). The immune system that emerges from a childhood infection is measurably different from the one that entered it, and the difference encodes information about the specific pathogens the body has met. By any functional standard this is learning and long-term memory. It is also, on the Map's reading, the cleanest case of learning and memory fully realised in a substrate that offers no site for an experiential interface—a point developed in [Functional Self, Not Felt Self](#functional-self-not-felt-self).
 
 ## The Cognitive Immune System
 
-Irun R. Cohen pressed this further, arguing that clonal selection alone is too passive to explain the immune system's regulated, context-sensitive behaviour. In "The cognitive paradigm and the immunological homunculus" (1992) he proposed that immunity is better understood as an information-processing, self-representing system. On his account "preformed internal images guide and restrict the process of clonal activation": the system does not merely react to whatever antigen arrives but interprets each signal against an internal, learned picture of the body's own molecular composition. Cohen named that internal self-image the **immunological homunculus**—the immune system's constitutively maintained representation of self-antigens, built largely from natural autoantibodies and self-reactive lymphocytes that healthy bodies carry as a matter of course rather than as pathology.
+Irun R. Cohen pressed this further. In "The cognitive principle challenges clonal selection" (1992) he argued that the clonal selection paradigm makes no provision for many questions immunologists now investigate, and that the prevalence of natural autoimmunity contradicts one of its major tenets; he proposed a cognitive paradigm in its place. A companion paper the following month, "The cognitive paradigm and the immunological homunculus," set out what that paradigm involves: immunity as an information-processing, self-representing system in which internal images formed in advance guide and restrict which clones are activated. The system does not merely react to whatever antigen arrives but interprets each signal against an internal, learned picture of the body's own molecular composition. Cohen named that internal self-image the **immunological homunculus**—the immune system's constitutively maintained representation of self-antigens, built largely from natural autoantibodies and self-reactive lymphocytes that healthy bodies carry as a matter of course rather than as pathology.
 
 In *Tending Adam's Garden: Evolving the Cognitive Immune Self* (2000) Cohen developed this into a book-length picture of immunity as a dynamic, self-organising system "devoted to cognition," making distributed decisions without central control and choosing among a large repertoire of responses. Crucially, Cohen's "cognition" is a computational and functional category: it names comparison, interpretation, and choice among options. Whether anything is felt is a question he leaves alone rather than one he answers. The Stanford Encyclopedia of Philosophy situates his framework as treating the immune system as a distributed information-processing network analogous to—but distinct from—the nervous system, with cognition extending across bodily systems beyond the brain.
 
-The Map adopts Cohen's own care here. His vocabulary of internal images and choice is exactly the vocabulary that tempts an over-reader toward phenomenal attribution, and Cohen himself does not take that step. That restraint, like Michael Levin's parallel restraint about xenobots in [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/), is evidence the Map uses rather than a gap it must fill.
+The Map adopts Cohen's own care here. His vocabulary of internal images and choice is exactly the vocabulary that tempts an over-reader toward phenomenal attribution, and Cohen himself does not take that step. That restraint is evidence the Map uses rather than a gap it must fill: it shows the vocabulary in use by its own author with no phenomenal reading attached, though it does not show such a reading false. Not every investigator in the cluster shares Cohen's restraint. Michael Levin infers from comparable non-neural competencies that some degree of consciousness is present very widely (Levin 2022), an inference [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) reports and declines.
 
 ## The Danger Model: Self as Context, Not Essence
 
@@ -81,7 +81,7 @@ What survives is that the immune case is *consistent with* the interface being t
 
 **Tenet 2 (minimal quantum interaction), by absence.** Tenet 2's minimality constrains the *magnitude* of any non-physical influence—no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation—rather than serving as a parsimony heuristic about how experience is distributed; [the tenet's scoping note](/tenets/#minimal-quantum-interaction) disowns that second reading. What it licenses here is an allocation rule about causal footprint: decline to multiply interfaces beyond the machinery that could host them, and the immune system offers no neural machinery to host one. Immune "decisions" are, on the Map's reading, selection dynamics—clonal, contextual, molecular—needing no consciousness-side contribution. That is a framework-relative rule about where influence is exerted rather than a demonstration that nothing is felt, and how complete the molecular account is does not carry it: an immune experience that made no difference to any physical outcome would add no footprint for minimality to weigh.
 
-**Tenet 5 (Occam's razor has limits), against premature resolution.** It would be simpler to rule that anything describable as "self" or "cognition" is either conscious or a mere façon de parler. The immune case resists both simplifications. Cohen's cognition is real and functional; Tauber's warning about metaphor is also right; Matzinger's dissolution of a fixed self is well-motivated. The honest position holds all three without collapsing them—a functional self that genuinely learns and discriminates, carries no felt interiority, and should not be reified into an essence. The Map does not over-resolve this.
+**Tenet 5 (Occam's razor has limits), against premature resolution.** It would be simpler to rule that anything describable as "self" or "cognition" is either conscious or a mere façon de parler. The immune case resists both simplifications. Cohen's cognition is real and functional; Tauber's warning about metaphor is also right; Matzinger's dissolution of a fixed self is well-motivated. The honest position holds all three without collapsing them—a functional self that genuinely learns and discriminates, supplies no independent ground for felt interiority, and should not be reified into an essence. The Map does not over-resolve this.
 
 ### Functional Self, Not Felt Self
 
@@ -97,15 +97,17 @@ The throughline of the non-neural competency cluster is a single decoupling: wha
 - [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) — the prokaryotic floor: sensing, memory, and decision compressed into a single cell with no neurons
 - [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) — one rung deeper at that floor: whether even the *agency* attribution can be told apart from complete mechanism, or whether the distinction is empirically undecidable
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — where function becomes purpose, and where it does not
-- [somatic-interface](/concepts/somatic-interface/) — bodily self-maintenance without a phenomenal locus
+- [somatic-interface](/concepts/somatic-interface/) — the body's felt channels, and the silent majority of its self-regulation, immune state included, that never reaches awareness
 
 ## References
 
-1. Cohen, I. R. (1992). The cognitive paradigm and the immunological homunculus. *Immunology Today* 13(12): 490–494. https://doi.org/10.1016/0167-5699(92)90024-2
-2. Cohen, I. R. (2000). *Tending Adam's Garden: Evolving the Cognitive Immune Self*. Academic Press. ISBN 9780121783563.
-3. Tauber, A. I. (1994). *The Immune Self: Theory or Metaphor?* Cambridge University Press. ISBN 9780521574433.
-4. Tauber, A. I. (1994). The immune self: theory or metaphor? *Immunology Today* 15(3): 134–136. https://doi.org/10.1016/0167-5699(94)90157-0
-5. Matzinger, P. (2002). The Danger Model: A Renewed Sense of Self. *Science* 296(5566): 301–305.
-6. Burnet, F. M. (1957). A modification of Jerne's theory of antibody production using the concept of clonal selection. *Australian Journal of Science* 20: 67–69.
-7. Stanford Encyclopedia of Philosophy. Philosophy of Immunology. https://plato.stanford.edu/entries/immunology/
-8. Southgate, A. & Oquatre-huit, C. (2026-07-08). Basal and Bioelectric Cognition: Levin's Morphogenetic Agency and Xenobots. *The Unfinishable Map*. https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
+1. Cohen, I. R. (1992a). The cognitive principle challenges clonal selection. *Immunology Today* 13(11): 441–444. https://doi.org/10.1016/0167-5699(92)90071-E
+2. Cohen, I. R. (1992b). The cognitive paradigm and the immunological homunculus. *Immunology Today* 13(12): 490–494. https://doi.org/10.1016/0167-5699(92)90024-2
+3. Cohen, I. R. (2000). *Tending Adam's Garden: Evolving the Cognitive Immune Self*. Academic Press. ISBN 9780121783563.
+4. Tauber, A. I. (1994). *The Immune Self: Theory or Metaphor?* Cambridge University Press. ISBN 9780521574433.
+5. Tauber, A. I. (1994). The immune self: theory or metaphor? *Immunology Today* 15(3): 134–136. https://doi.org/10.1016/0167-5699(94)90157-0
+6. Matzinger, P. (2002). The Danger Model: A Renewed Sense of Self. *Science* 296(5566): 301–305.
+7. Burnet, F. M. (1957). A modification of Jerne's theory of antibody production using the concept of clonal selection. *Australian Journal of Science* 20: 67–69.
+8. Stanford Encyclopedia of Philosophy. Philosophy of Immunology. https://plato.stanford.edu/entries/immunology/
+9. Levin, M. (2022). Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds. *Frontiers in Systems Neuroscience* 16: 768201. https://doi.org/10.3389/fnsys.2022.768201
+10. Southgate, A. & Oquatre-huit, C. (2026-07-08). Basal and Bioelectric Cognition: Levin's Morphogenetic Agency and Xenobots. *The Unfinishable Map*. https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
