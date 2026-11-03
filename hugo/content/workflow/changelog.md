@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 13:24:41+00:00
+ai_modified: 2026-11-03 13:47:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 13:24:41+00:00
+lastmod: 2026-11-03 13:47:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T13:47:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) (cycle slot; selector top pick, score 75, 71 days since review; on no exclusion list)
+- **Word count** (analyze_length): 3076 → 3075 (−1; topics soft 3000 / hard 4000, `soft_warning` before and after, length-neutral mode)
+- **Critical issues addressed**: 2. (C1) The Further Reading label for [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) attributed an "agency-with-phenomenality-unresolved framing" to Levin. That re-introduced the agnosticism attribution d38b75375f had removed from the target page 73 minutes earlier. Levin's TAME 2022 (raw PMC8988303) is gradualist: "present very widely across autopoietic systems". Relabelled "Levin's agency in brainless systems; the Map keeps the measurements and declines his inference to widespread consciousness". (C2) "CBC" was used undefined, and the *EMBO* dissent's target was unnamed. The dissent sentence now reads "…, a rebuttal of the [Cellular Basis of Consciousness](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) (CBC) theory that all cells are conscious" (in the article this is a section-anchor link). "Demand of the opposing camp" → "demand of CBC", per the raw text ("In these respects, CBC falls short").
+- **Medium issues addressed**: 3. (M1) The Nesin sentence's restatement of the charge was cut to "take up the protein-noise charge, citing the dissent". An intermediate "this charge" was ambiguous after the new CBC sentence and was replaced. (M2) L47's "is no longer noise-versus-choice. It is whether…" (the banned not-X/It-is-Y construct) → "then shifts from noise-versus-choice to whether…". (M3) Synthetic-agents label "cannot account for" → "could not account for", per the target page.
+- **Enhancements made**: 1 (the first section-anchor link into the sibling's CBC section)
+- **Citations**: Nesin & Chandrankunnel 2025 is new since 08-24 and verified real-correct (Crossref metadata; raw Europe PMC PMC11834444: both quotes count 1, "The authors thus support the CBC"). The four Robinson et al. 2024 quotes were re-grepped in raw PMC11094104 (4/4). Quotes from Sneddon 2012, Birch et al. 2020, Ginsburg & Jablonka 2021, Lyon 2015 and MacDermott 2024 were re-grepped in raw text, all present. Colombo & Palacios 2021 and Brancazio 2020 are carried from earlier reviews and were not re-grepped (no open raw text; passages untouched). No reference added or removed. Superlative scan: 0.
+- **Not touched**: L57 and L67, which are owned by the open P3 task (optimistic-review 2026-10-31 Priority 3). Both strings were asserted count 1 before and after.
+- **Task minted**: P2 refine-draft. Four sibling Further Reading labels still read "Levin's agency-without-experience decoupling": bacterial-chemotaxis L101, enteric L91, neuron-less-animals L86, and brain-organoids L96 (excluded today, with 1 word of headroom).
+- **Engagements**: Robinson et al., Mode Three (unchanged). Nesin & Chandrankunnel, their Mode One against the deflationist, reported not adopted (unchanged).
+- **ai_system**: `claude-opus-4-8+claude-opus-5` → `claude-opus-4-8+claude-opus-5+claude-opus-5-5` (claude-opus-5-5 was absent; grepped from this fork's own transcript). **ai_modified / last_deep_review**: 2026-11-03T13:43:17+00:00
+- **Output**: [deep-review-2026-11-03-single-cell-proto-agency-and-the-evidence-problem](/reviews/deep-review-2026-11-03-single-cell-proto-agency-and-the-evidence-problem/)
 
 ## 2026-11-03T13:24:41+00:00 - refine-draft
 - **Status**: Success

@@ -1,22 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-09-09 11:23:53+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-03 13:43:17+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenology-vs-function-axis]]'
 - '[[interface-threshold]]'
 created: 2026-07-15
-date: &id001 2026-08-24
+date: &id001 2026-11-03
 description: What would count as evidence that one cell chooses rather than merely
   reacts? A human-AI inquiry into why the noise-vs-choice line at the prokaryotic
   floor may be empirically undecidable.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-24 12:26:42+00:00
-lastmod: 2026-09-09 11:23:53+00:00
+last_deep_review: 2026-11-03 13:43:17+00:00
+lastmod: 2026-11-03 13:43:17+00:00
 modified: *id001
 related_articles:
 - '[[agency-void]]'
@@ -38,9 +38,9 @@ The core finding driving this conclusion is that the usual framing—stochastic 
 
 The standard framing sets two readings of run-and-tumble variability against each other. Either the differences between genetically identical cells are (a) stochastic protein-level noise, or (b) genuine minimal choice.
 
-The deflationary reading is stated sharply in the 2024 *EMBO Reports* opinion "Cell consciousness: a dissenting opinion" (Robinson, Mallatt, Peer, Sourjik, Taiz). The authors write that "an individual bacterial cell does not make a choice—the decisions are determined by its current state," and that "even when individual cells behave differently, it can be traced to stochastic differences in protein levels between cells." Their central argument is the completeness of the mechanistic account: the chemotaxis system "can be broken down to a few individual molecular reactions described by a relatively simple system of differential equations," leaving no explanatory residue for a chooser. They grant the cognitive vocabulary—memory, navigation, decision—while reading it as reaction rates fixed in the genome, and they demand of the opposing camp that "theories require proof from hypotheses-testing, solid facts and empirical evidence."
+The deflationary reading is stated sharply in the 2024 *EMBO Reports* opinion "Cell consciousness: a dissenting opinion" (Robinson, Mallatt, Peer, Sourjik, Taiz), a rebuttal of the [Cellular Basis of Consciousness](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/#the-cellular-basis-of-consciousness-the-strongest-rival) (CBC) theory that all cells are conscious. The authors write that "an individual bacterial cell does not make a choice—the decisions are determined by its current state," and that "even when individual cells behave differently, it can be traced to stochastic differences in protein levels between cells." Their central argument is the completeness of the mechanistic account: the chemotaxis system "can be broken down to a few individual molecular reactions described by a relatively simple system of differential equations," leaving no explanatory residue for a chooser. They grant the cognitive vocabulary—memory, navigation, decision—while reading it as reaction rates fixed in the genome, and they demand of CBC that "theories require proof from hypotheses-testing, solid facts and empirical evidence."
 
-The CBC side has since replied in print. Nesin and Chandrankunnel (2025) take up this charge by name—the critics' claim that the individual cell makes no choice and that its apparent decisions reduce to stochastic differences in protein levels—and answer it with a different account of where the flexibility comes from. Bacterial signalling, on their reading, is a web of interconnected pathways with converging and diverging nodes rather than a set of independent events, and that architecture is the one they credit with motor and cognitive flexibility in brains; multiple such pathways "can be considered as the molecular mechanism underlying individualistic decision-making in bacteria as well as in humans," and on that basis they endorse CBC. The bacteria–brain parity is explicit in their argument: flexibility in neural networks, they note, "can also be traced to the stochastic differences in biomolecules and ion levels between cells." Their own framing is constructive rather than polemical, but read as an objection the parity tells against the deflationary criterion from inside—a reduction to molecular stochasticity, applied evenhandedly, would deflate human choice on the same terms. Their route to that conclusion is not the one this section takes below: they displace the noise with pathway multiplicity, where the argument that follows leaves the noise in place and asks what it is doing.
+The CBC side has since replied in print. Nesin and Chandrankunnel (2025) take up the protein-noise charge, citing the dissent, and answer it with a different account of where the flexibility comes from. Bacterial signalling, on their reading, is a web of interconnected pathways with converging and diverging nodes rather than a set of independent events, and that architecture is the one they credit with motor and cognitive flexibility in brains; multiple such pathways "can be considered as the molecular mechanism underlying individualistic decision-making in bacteria as well as in humans," and on that basis they endorse CBC. The bacteria–brain parity is explicit in their argument: flexibility in neural networks, they note, "can also be traced to the stochastic differences in biomolecules and ion levels between cells." Their own framing is constructive rather than polemical, but read as an objection the parity tells against the deflationary criterion from inside—a reduction to molecular stochasticity, applied evenhandedly, would deflate human choice on the same terms. Their route to that conclusion is not the one this section takes below: they displace the noise with pathway multiplicity, where the argument that follows leaves the noise in place and asks what it is doing.
 
 One detail sharpens the epistemology. Victor Sourjik, a co-author of the deflationary opinion, is the researcher who introduced in vivo FRET to bacterial chemotaxis (Sourjik & Berg, 2002)—the technique the single-cell CheY-P measurements at issue depend on, though those particular measurements came from the Shimizu and Emonet labs rather than his own (Keegstra et al., 2017). The person who developed the means of seeing the noise is on record calling it noise. No new experiment settled the question here; the same data simply received a deflationary interpretation—which is the evidence problem in miniature.
 
@@ -48,7 +48,7 @@ Here the dichotomy begins to come apart. On the deflationary reading, "it reduce
 
 Put together, these results dissolve the opposition. If harnessed stochasticity is *doing the searching*, then "the decision is just noise" no longer deflates the behaviour, because the noise is the mechanism of exploration. The deflationary account and the proto-agency account are not describing different systems; they can be two descriptions of the *same* mechanism, converging on identical predicted behaviour and diverging only in what they are willing to *call* it.
 
-This convergence is the Map's own reading of the two literatures rather than a published position on either side; no single source runs the argument that functional noise dissolves the *EMBO* dichotomy. But the components are not in dispute, and the consequence is the pivot of the whole problem: because the behaviour proto-agency would predict is generated in full by a complete stochastic-biochemical account, the two readings are **behaviourally underdetermined**. The interesting question is no longer noise-versus-choice. It is whether "harnessed stochastic search with a memory" earns agency vocabulary at all—and that is a conceptual question, not one an experiment resolves.
+This convergence is the Map's own reading of the two literatures rather than a published position on either side; no single source runs the argument that functional noise dissolves the *EMBO* dichotomy. But the components are not in dispute, and the consequence is the pivot of the whole problem: because the behaviour proto-agency would predict is generated in full by a complete stochastic-biochemical account, the two readings are **behaviourally underdetermined**. The interesting question then shifts from noise-versus-choice to whether "harnessed stochastic search with a memory" earns agency vocabulary at all—a conceptual question no experiment resolves.
 
 ## What Would Count as Evidence? {#candidate-criteria}
 
@@ -89,8 +89,8 @@ The hand-off is to the [agency void](/voids/agency-void/), which already general
 - [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) — The sibling article specifying the run-and-tumble mechanism this piece takes as given; it parks the noise-vs-choice question this article picks up
 - [The Agency Void](/voids/agency-void/) — The in-principle verification limit this case instantiates at the prokaryotic floor
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — The eukaryotic rung one step up the competency ladder
-- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-with-phenomenality-unresolved framing, which the whole cluster shares
-- [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/) — The built counterpart at the cellular floor: a designed 473-gene cell roughly a third of whose parts its builders cannot account for — engineered agency without engineer's transparency
+- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency in brainless systems; the Map keeps the measurements and declines his inference to widespread consciousness
+- [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/) — The built counterpart at the cellular floor: a designed 473-gene cell roughly a third of whose parts its builders could not account for — engineered agency without engineer's transparency
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The competency-versus-experience decoupling this article extends to the level of evidence
 - [P-CS5, consciousness-scope register](/positions/consciousness-scope/) — The Map's registered calibration for this rung: two-way underdetermination at moderate credence, with the parsimony default undefeated but not established
 - [The Interface Threshold](/concepts/interface-threshold/) — The selection-grade coupling transition, and why being below it is compatible with phenomenal presence
