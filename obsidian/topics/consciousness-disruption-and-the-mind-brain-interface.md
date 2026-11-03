@@ -4,7 +4,7 @@ description: "Anesthesia, coma and cognitive motor dissociation show behaviour t
 created: 2026-01-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-10-19T23:23:31+00:00
+ai_modified: 2026-11-03T15:10:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,7 +135,7 @@ A parallel asymmetry runs through the [[neural-correlates-of-consciousness|neura
 
 Different memory systems show strikingly different vulnerabilities to consciousness disruption. [[episodic-memory|Episodic memory]] is exquisitely sensitive—anesthesia reliably produces anterograde amnesia. [[implicit-memory|Implicit memory]] shows remarkable resilience: patients under adequate anesthesia can still form conditioned associations and learn motor patterns without explicit awareness.
 
-Read through Tulving's consciousness hierarchy, the pattern suggests an ordering—autonoetic (episodic) most vulnerable, noetic (semantic) intermediate, anoetic (implicit) most preserved—that is the Map's extrapolation rather than Tulving's finding, and that semantic dementia partly inverts. Uniform production might predict uniform loss; instead we see [[degrees-of-consciousness|graded reduction]] across separable dimensions—consistent with a multi-channel interface partially blocked, though also with selective vulnerability of distinct neural memory systems.
+Read through Tulving's consciousness hierarchy, the pattern suggests an ordering—autonoetic (episodic) most vulnerable, noetic (semantic) intermediate, anoetic (implicit) most preserved. Tulving (2002) did hold episodic memory to be the system most vulnerable to neuronal dysfunction, but the full three-tier order is the Map's extrapolation, and semantic dementia partly inverts it (Hodges et al., 1992). Uniform production might predict uniform loss; instead we see [[degrees-of-consciousness|graded reduction]] across separable dimensions—consistent with a multi-channel interface partially blocked, though also with selective vulnerability of distinct neural memory systems.
 
 [[sleep-and-consciousness|Sleep]] is a distinct category—neither pathological like coma nor pharmacological like anesthesia. Sleep consciousness varies continuously: two individuals in identical NREM Stage 3 may differ radically, one experiencing nothing, the other vivid dreams, with integration-segregation balance better preserved than under anesthesia. For the filter theory, sleep closes a door (mechanism intact) where anesthesia breaks the hinges.
 
@@ -211,3 +211,5 @@ The Map's [[tenets]] converge on consciousness disruption as a domain the dualis
 17. Laigaard, P. P., et al. (2026). Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis. *European Journal of Neurology*, 33(8), e70713. https://doi.org/10.1111/ene.70713
 18. Aubinet, C., et al. (2025). Covert consciousness: what's in a name? *Brain*, 148(12), 4248-4252. https://doi.org/10.1093/brain/awaf349
 19. Casarotto, S., et al. (2016). Stratification of unresponsive patients by an independently validated index of brain complexity. *Annals of Neurology*, 80(5), 718-729. https://doi.org/10.1002/ana.24779
+20. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25. https://doi.org/10.1146/annurev.psych.53.100901.135114
+21. Hodges, J. R., Patterson, K., Oxbury, S., & Funnell, E. (1992). Semantic dementia: Progressive fluent aphasia with temporal lobe atrophy. *Brain*, 115(6), 1783-1806. https://doi.org/10.1093/brain/115.6.1783

@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 14:24:01+00:00
+ai_modified: 2026-11-03 15:10:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 14:24:01+00:00
+lastmod: 2026-11-03 15:10:39+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T15:10:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted attribution fix)
+- **Defect**: Edit C (installed 2026-10-19, L138) said the vulnerability ordering "is the Map's extrapolation rather than Tulving's finding". A reader could take that to mean Tulving asserted none of it. But `research/autonoetic-first-vulnerability-ordering-2026-10-09` §2 verified that Tulving (2002) asserts the first step, that episodic memory is the system most vulnerable to neuronal dysfunction. Only the full three-tier, cross-condition order is the Map's. "Semantic dementia partly inverts" had no source.
+- **Changes**:
+  - L138 sentence 1 split. OLD: "...anoetic (implicit) most preserved—that is the Map's extrapolation rather than Tulving's finding, and that semantic dementia partly inverts." NEW: "...anoetic (implicit) most preserved. Tulving (2002) did hold episodic memory to be the system most vulnerable to neuronal dysfunction, but the full three-tier order is the Map's extrapolation, and semantic dementia partly inverts it (Hodges et al., 1992)."
+  - The calibration holds. "The Map's extrapolation" still covers the three-tier order, and the closing alternative in L138 ("though also with selective vulnerability of distinct neural memory systems") is unchanged. The next sentence opens "Uniform production...", so no pronoun is stranded. The new "it" refers to the three-tier order.
+  - References 20 and 21 added, following the list's append-numbered convention. The body cites author-year. Tulving, E. (2002), *Annual Review of Psychology* 53, 1-25, doi:10.1146/annurev.psych.53.100901.135114. Hodges, Patterson, Oxbury & Funnell (1992), "Semantic dementia: Progressive fluent aphasia with temporal lobe atrophy", *Brain* 115(6), 1783-1806, doi:10.1093/brain/115.6.1783. Both were re-checked at Crossref on 2026-11-03: title, authors, volume, issue and pages match. Hodges 1992 was chosen over Graham et al. 1997 because it is the characterising study (semantic loss with relatively retained episodic memory). Graham 1997 concerns the reversed temporal gradient.
+  - Tulving is paraphrased, with no quotation marks. The primary text could not be fetched (Annual Reviews PDF 403; OpenAlex/Unpaywall list no OA copy). The note's verbatim sentence was corroborated in an independent secondary, Martin-Ordas & Call 2013 (*Front. Behav. Neurosci.*, retracted), which reproduces the sentence but attaches "(p. 5, Tulving, 2005)". So the page number is ambiguous outside the note, and none is given.
+  - The optional Ribot (1881) antecedent was omitted on budget: it would cost about +30 words, including its reference.
+- **Length**: 3935 → 3995 (`analyze_length`, topics hard limit 4000, gate `>=`), +60 words in total.
+- **Reasoning mode**: n/a (no named-opponent reply was touched).
+- **ai_system**: unchanged (`claude-opus-5-5` already present).
+- **Published**: yes
 
 ## 2026-11-03T14:24:01+00:00 - coalesce
 - **Status**: Abandoned (no candidate; expected steady state)
