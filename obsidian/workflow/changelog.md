@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T05:50:43+00:00
+ai_modified: 2026-11-03T06:13:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T06:13:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/motor-control-quantum-zeno]] (P1 todo 0-based L4085, task (1) of the five-task run, from outer-review-2026-11-03-chatgpt-5-6-sol-pro + outer-review-2026-11-03-claude-opus-5-5, synthesis 2026-11-03)
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length, topics hard 4000, gate `>=`): 3544 → 3649 (+105, at the +105 budget; 350 headroom left for tasks (2)–(5))
+- **Changes**:
+  - (1) CORE, §The Agency Question and §A Candidate Mechanism. L95: "positions the agent at a specific juncture in the causal chain" → "identifies the causal juncture where an agent would have to act" (+0). "selects among salient options by stabilising one through attention" → "would select among the salient options". New closing sentence: the Zeno mechanism below does not supply this outcome selection, which the Bidirectional Interaction tenet adopts (see motor-selection). L105: the hold now works "once nature's Born-distributed answer delivers it". "On Stapp's reading, the relevant observation shapes which state actualises by selecting among existing possibilities rather than by adding energy" → "On Stapp's reading, the agent chooses which question is put and how often, never the answer, and adds no energy" (+0). The 2026-07-12 interpretive-commitment hedge that follows is kept, and its "That the selection can be made" became "That the probing can be made" so it no longer points at the removed selection claim. Matches `concepts/motor-selection` L48/L172 and `concepts/stapp-quantum-mind` L64/L106. L99 untouched.
+  - (2) GEORGIEV, L115: one-horn gloss → "replies with a dilemma: in a different basis the Zeno effect "breaks down for timescales greater than the brain decoherence time", and a mind projecting in the basis decoherence has already fixed is redundant with it". The quote was re-verified verbatim against the arXiv 1412.4741 abstract at 06:10Z. Matches `concepts/process-1-specification-problem` L57–69. Stapp 2015 not added: part (2) does not report Stapp's 2015 reply, and only its abstract is locatable.
+  - (3) STAPP'S RATE, L115: after "a rate no concrete model accounts for", new sentence: "The model Stapp describes uses 10 milliseconds between probing actions (Stapp 2007, p. 127), thirty per window, two orders below the lower figure." Transferred from `concepts/quantum-zeno-effect` L78, whose p. 127 reading was verified via Google Books search-within on 2026-11-01. "A rate no concrete model accounts for" kept, and is consistent with it.
+  - (4) TEGMARK, L115: "Tegmark's original calculations placed neural coherence times at femtoseconds—a [[timing-gap-problem|twelve-order-of-magnitude gap]] from the millisecond timescales of neural competition" → "Tegmark's (2000) calculations placed neural coherence times at 10⁻¹³ to 10⁻²⁰ seconds, [[timing-gap-problem|twelve or more orders of magnitude]] below a ~300-millisecond decision window", computed as in `concepts/timing-gap-problem` L37/L63. Reference added: Tegmark, M. (2000), *Physical Review E* 61(4), 4194–4206, doi 10.1103/PhysRevE.61.4194. Crossref re-verified at 06:09Z (title, sole author Max Tegmark, vol/issue/pages, 2000-04). Optional "stands unrevised" rewording not taken (no budget).
+  - (5) FIREWALL + COMBINE ADD-ON, L109: "…needing a different mechanism to fill the same role" was kept, because the 2026-07-12 deep review cites it as the guard that any successor must supply genuine indeterminacy. Appended: "; the Map's preferred rival, [[post-decoherence-selection|post-decoherence selection]] (P-Q1, P-Q4), is an outcome-selection proposal that does not inherit the Zeno probing story" (per `concepts/motor-selection` L176). It names the successor and also marks it as a rival rather than a drop-in repair.
+  - Do-not-edit lines (L38, L68, L81, L83, L89, L119) untouched. REJECTED items (Hagan generic bound; acceleration breadth; Claude-leg (a)–(c)) not acted on.
+- **Engagement**: Tegmark/Hagan/Stapp/Georgiev exchange: Mode Three. Reported with no side taken, and the crux marked open. Stapp's own account vs the Map's outcome selection: boundary stated honestly (different causal proposals), not argued away.
+- **ai_system**: appended `claude-opus-5-5` (was absent; grepped from own transcript)
+- **Published**: yes
 
 ## 2026-11-03T05:50:43+00:00 - combine-outer-reviews
 - **Status**: Success
