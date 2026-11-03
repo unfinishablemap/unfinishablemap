@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-10-24 15:31:37+00:00
+ai_modified: 2026-11-03 10:09:48+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 16:05:00+00:00
-lastmod: 2026-10-24 15:31:37+00:00
+lastmod: 2026-11-03 10:09:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,7 +131,7 @@ The [phenomenology of effort](/concepts/mental-effort/) provides the strongest e
 
 The strongest empirical objection comes from [Libet's experiments](/concepts/libet-experiments/) (1983): the readiness potential begins ~550ms before movement but ~350ms before subjects report awareness of intending to move — widely interpreted as proof that unconscious processes initiate action before consciousness arrives.
 
-This interpretation has substantially weakened. Schurger, Sitt, and Dehaene (2012) demonstrated that the readiness potential reflects stochastic fluctuations in neural activity, not an unconscious "decision" to act. Their accumulator model accounts for the RP's shape and the distribution of waiting times. Subsequent reviews have found the original interpretation contested and the evidence base narrower than its rhetorical reach suggests. See [volitional-control](/topics/volitional-control/) for detailed treatment.
+This interpretation has substantially weakened. Schurger, Sitt, and Dehaene (2012) modelled the readiness potential as reflecting stochastic fluctuations in neural activity, not an unconscious "decision" to act. Their accumulator model accounts for the RP's shape and the distribution of waiting times. Subsequent reviews have found the original interpretation contested and the evidence base narrower than its rhetorical reach suggests. See [volitional-control](/topics/volitional-control/) for detailed treatment.
 
 The core argument does not depend on any specific mechanism. Effort phenomenology correlates with genuine cognitive engagement whether the underlying interface is Stapp's [quantum Zeno model](/concepts/mental-effort/), some other quantum process, or a mechanism not yet conceived.
 

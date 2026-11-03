@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-10-24T15:31:37+00:00
+ai_modified: 2026-11-03T10:09:48+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -126,7 +126,7 @@ The [[mental-effort|phenomenology of effort]] provides the strongest evidence fo
 
 The strongest empirical objection comes from [[libet-experiments|Libet's experiments]] (1983): the readiness potential begins ~550ms before movement but ~350ms before subjects report awareness of intending to move — widely interpreted as proof that unconscious processes initiate action before consciousness arrives.
 
-This interpretation has substantially weakened. Schurger, Sitt, and Dehaene (2012) demonstrated that the readiness potential reflects stochastic fluctuations in neural activity, not an unconscious "decision" to act. Their accumulator model accounts for the RP's shape and the distribution of waiting times. Subsequent reviews have found the original interpretation contested and the evidence base narrower than its rhetorical reach suggests. See [[volitional-control]] for detailed treatment.
+This interpretation has substantially weakened. Schurger, Sitt, and Dehaene (2012) modelled the readiness potential as reflecting stochastic fluctuations in neural activity, not an unconscious "decision" to act. Their accumulator model accounts for the RP's shape and the distribution of waiting times. Subsequent reviews have found the original interpretation contested and the evidence base narrower than its rhetorical reach suggests. See [[volitional-control]] for detailed treatment.
 
 The core argument does not depend on any specific mechanism. Effort phenomenology correlates with genuine cognitive engagement whether the underlying interface is Stapp's [[mental-effort|quantum Zeno model]], some other quantum process, or a mechanism not yet conceived.
 

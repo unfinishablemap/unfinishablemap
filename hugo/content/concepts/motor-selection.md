@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-11-03 07:42:33+00:00
+ai_modified: 2026-11-03 10:09:48+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:49:10+00:00
-lastmod: 2026-11-03 07:42:33+00:00
+lastmod: 2026-11-03 10:09:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ The premotor theory of attention proposes that attention and motor planning shar
 
 One caution governs everything that follows. The Zeno mechanism this page develops is a *context and probing* proposal—it controls which neural state is measured and how often, with outcomes still Born-governed. That is Stapp's Process-1 placement, not the *outcome selection* the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet adopts; they are different causal proposals. The [quantum-interface register](/positions/quantum-interface/) ranks Stapp-Zeno below [post-decoherence selection](/concepts/post-decoherence-selection/) ([P-Q4](/positions/quantum-interface/#p-q4) against [P-Q1](/positions/quantum-interface/#p-q1)), and its [mechanism debt](/positions/quantum-interface/#mechanism-debt) stands undischarged. Read every selection claim below at the confidence the register sets, not above it.
 
-The unification has empirical support: willed attention carries more frontal theta than instructed (Rajan et al. 2019) and volitional movement engages theta dynamics (Köhler et al. 2024), though the willed-versus-instructed contrast is untested for movement; voluntary action commits ~280ms before movement, on a clock no attention timing yet shares; neural populations encode multiple potential actions simultaneously, competing until one reaches threshold; and the Libet challenge has been substantially weakened by evidence that the readiness potential is noise rather than decision.
+The unification has empirical support: willed attention carries more frontal theta than instructed (Rajan et al. 2019) and volitional movement engages theta dynamics (Köhler et al. 2024), though the willed-versus-instructed contrast is untested for movement; voluntary action commits ~280ms before movement, on a clock no attention timing yet shares; neural populations encode multiple potential actions simultaneously, competing until one reaches threshold; and the Libet challenge is substantially weakened by evidence that the readiness potential may reflect noise rather than decision.
 
 ## The Premotor Theory of Attention
 
@@ -137,13 +137,13 @@ Dopamine's threshold reduction is value-blind: it lowers how much evidence any o
 
 A 2024 *Brain* study found that both dopamine and deep brain stimulation shorten the latency between motor intention and execution by shifting oscillatory dynamics from antikinetic beta rhythms (13-35 Hz) to prokinetic theta rhythms (4-10 Hz). Frontal theta oscillations mark both willed attention (Rajan et al. 2019) and motor preparation. Dopamine facilitates the theta state—the same timing substrate where both attentional and motor selection events occur.
 
-## The Libet Challenge—and Its Dissolution
+## The Libet Challenge Weakened
 
 The [Libet experiments](/concepts/libet-experiments/) found that the readiness potential (RP) begins ~550ms before movement while conscious awareness occurs only ~200ms before—apparently showing the brain "decides" before we're aware.
 
 Schurger's 2012 model reframes this finding. The RP may be an artifact of averaging stochastic neural noise, not a signature of unconscious decision. Movement occurs when random fluctuations happen to reach threshold; averaging across trials produces the RP shape. On the Map's reading, consciousness would contribute by determining *when to let* threshold-crossing happen. The single-neuron data fit this accumulator picture: Fried, Mukamel & Kreiman (2011) recorded SMA neurons whose progressive firing predicts the impending decision to move before the subject reports awareness—the threshold-crossing dynamics Schurger's model averages over, seen one cell at a time.
 
-Sjöberg (2024) adds surgical evidence: patients with resection of the supplementary motor area (SMA)—the region generating the RP—retain their sense of voluntary action. The RP tracks motor preparation, not decision-making.
+Sjöberg (2024) adds surgical evidence: patients with resection of the supplementary motor area (SMA)—the region generating the RP—retain their sense of voluntary action. For Sjöberg, the RP tracks motor preparation, not willing.
 
 ## Where Intention Originates
 
@@ -176,7 +176,7 @@ On this reading the common phenomenology follows: sustaining motor intention fee
 
 ### Decoherence Considerations
 
-The [decoherence](/concepts/decoherence/) article addresses the standard challenge—rapid decoherence in warm brains—which cuts hardest against exactly this mechanism and is why the register demotes the Zeno family below [post-decoherence selection](/concepts/post-decoherence-selection/). Hameroff (2014) calculates coherence times of 10⁻⁵ to 10⁻⁴ seconds for biological conditions—far longer than Tegmark's estimates, though disputed. The preferred alternative is not a variant of the same story: post-decoherence selection is an *outcome-selection* proposal with no observation rate or probing structure, so if the Zeno candidate falls, its probing story is not inherited by the replacement. The neuroscience above survives either way: it constrains where a selection-shaped contribution would act, not which mechanism carries it.
+The [decoherence](/concepts/decoherence/) article addresses the standard challenge—rapid decoherence in warm brains—which cuts hardest against exactly this mechanism and is why the register demotes the Zeno family below [post-decoherence selection](/concepts/post-decoherence-selection/). Hagan, Hameroff and Tuszyński (2002) calculate microtubule coherence times of 10⁻⁵ to 10⁻⁴ seconds—far beyond Tegmark's estimates, though disputed. The preferred alternative is not a variant of the same story: post-decoherence selection is an *outcome-selection* proposal with no observation rate or probing structure, so if the Zeno candidate falls, its probing story is not inherited by the replacement. The neuroscience above survives either way: it constrains where a selection-shaped contribution would act, not which mechanism carries it.
 
 ## The Phenomenology of Motor Choice
 
@@ -243,7 +243,7 @@ This framework identifies *where* consciousness might influence motor selection�
 
 6. Fried, I., Mukamel, R., & Kreiman, G. (2011). Internally generated preactivation of single neurons in human medial frontal cortex predicts volition. *Neuron*, 69(3), 548-562.
 
-7. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+7. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 
 8. Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
 

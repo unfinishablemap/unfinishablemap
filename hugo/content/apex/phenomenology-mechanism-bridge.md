@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-30 17:25:06+00:00
+ai_modified: 2026-11-03 10:09:48+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-10-21 06:23:13+00:00
 apex_sources:
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:37:50+00:00
-lastmod: 2026-10-30 17:25:06+00:00
+lastmod: 2026-11-03 10:09:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -189,7 +189,7 @@ This synthesis engages all five tenets, chiefly through the connections between 
 ## Source Articles
 
 This synthesis traces a chain through:
-- [Consciousness and Motor Selection](/topics/motor-control-quantum-zeno/) — Cisek's affordance competition, the Libet reassessment, the quantum Zeno candidate, and testable predictions
+- [Consciousness and Motor Selection](/topics/motor-control-quantum-zeno/) — Cisek's affordance competition, the Libet reassessment, the quantum Zeno candidate, and a qualitative test
 - [Volitional Control](/topics/volitional-control/) — The structure of willing, clinical dissociations, intentional binding, and the "what/when/whether" model
 - [Phenomenology of Agency vs Passivity](/topics/phenomenology-of-agency-vs-passivity/) — The contrast between doing and undergoing, its dissociations, and the choking phenomenon
 - [Consciousness and Causal Powers](/topics/consciousness-and-causal-powers/) — The scope of consciousness's causal influence: selection, holding, biasing, and constraints

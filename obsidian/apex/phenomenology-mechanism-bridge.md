@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-30T17:25:06+00:00
+ai_modified: 2026-11-03T10:09:48+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -180,7 +180,7 @@ This synthesis engages all five tenets, chiefly through the connections between 
 ## Source Articles
 
 This synthesis traces a chain through:
-- [[motor-control-quantum-zeno|Consciousness and Motor Selection]] — Cisek's affordance competition, the Libet reassessment, the quantum Zeno candidate, and testable predictions
+- [[motor-control-quantum-zeno|Consciousness and Motor Selection]] — Cisek's affordance competition, the Libet reassessment, the quantum Zeno candidate, and a qualitative test
 - [[volitional-control|Volitional Control]] — The structure of willing, clinical dissociations, intentional binding, and the "what/when/whether" model
 - [[phenomenology-of-agency-vs-passivity|Phenomenology of Agency vs Passivity]] — The contrast between doing and undergoing, its dissociations, and the choking phenomenon
 - [[consciousness-and-causal-powers|Consciousness and Causal Powers]] — The scope of consciousness's causal influence: selection, holding, biasing, and constraints

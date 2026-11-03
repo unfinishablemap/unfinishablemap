@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 09:53:33+00:00
+ai_modified: 2026-11-03 10:09:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 09:53:33+00:00
+lastmod: 2026-11-03 10:09:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T10:09:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [motor-selection](/concepts/motor-selection/) (FOUR-FILE Libet/RP and mechanism-claim satellite sweep, also [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/), [volitional-control](/topics/volitional-control/); from outer-review-2026-11-03-claude-opus-5-5 Q5, Q3 table and Recommendations "Linked pages", P2; ran after the same-day Müller & Rabbitt sweep finished at 07:45Z)
+- **Canonical calibration**: matched to `topics/motor-control-quantum-zeno` as read live: heading "## The Libet Challenge Weakened" (L50), lede "substantially weakened ... though the RP's meaning remains contested", "on Sjöberg's reading" (L56), Hagan et al. 2002 coherence "in microtubules only" (L115), and the prediction "stays qualitative" until [P-Q10](/positions/quantum-interface/#p-q10) is paid (L121).
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length): motor-selection 3497 → 3497 (0; concepts gate `>=` 3500); phenomenology-of-choice-and-volition 3174 → 3174 (0); phenomenology-mechanism-bridge 4925 → 4926 (+1; apex hard 5000); volitional-control 4995 → 4992 (−3; already over the topics hard 4000, so no other change).
+- **Changes**:
+  - (a)(i) motor-selection L137, FIXED. "## The Libet Challenge—and Its Dissolution" → "## The Libet Challenge Weakened" (−1). There is no `{#...}` anchor id. The only inbound `motor-selection#` link (control-theoretic-will L106) targets "#The "Can Move / Won't Move" Distinction". The old heading text appears only in historical review and todo records.
+  - (a)(ii) motor-selection L50, FIXED. "has been substantially weakened by evidence that the readiness potential is noise rather than decision." → "is substantially weakened by evidence that the readiness potential may reflect noise rather than decision." (0: the hedge is +1, and "has been" → "is" pays it back and matches the present tense of the list). The Müller & Rabbitt clause on the same line was not touched.
+  - (a)(iii) motor-selection L143, FIXED. "The RP tracks motor preparation, not decision-making." → "For Sjöberg, the RP tracks motor preparation, not willing." (+2). This attributes the inference to Sjöberg, as the target does.
+  - (a)(iv) motor-selection L176 and ref 7, FIXED. "Hameroff (2014) calculates coherence times of 10⁻⁵ to 10⁻⁴ seconds for biological conditions—far longer than Tegmark's estimates" → "Hagan, Hameroff and Tuszyński (2002) calculate microtubule coherence times of 10⁻⁵ to 10⁻⁴ seconds—far beyond Tegmark's estimates" (0). The "microtubule" qualifier also scopes the figure the way the target's L115 does. Ref 7, Hameroff & Penrose (2014) *Physics of Life Reviews*, had no other in-text citation ("Hameroff", "Penrose", "Orch" and "2014"-with-Hameroff were each checked), so it was replaced with the target's Hagan, Hameroff & Tuszyński (2002) *Physical Review E* 65(6) 061901 entry, copied verbatim from the target's ref 1 (−1).
+  - (b) phenomenology-of-choice-and-volition L129, FIXED. "(2012) demonstrated that the readiness potential reflects stochastic fluctuations" → "(2012) modelled the readiness potential as reflecting stochastic fluctuations" (0). This makes it a model fit rather than a demonstration. "Their accumulator model" in the next sentence still refers correctly.
+  - (c) phenomenology-mechanism-bridge L183 (Source Articles), FIXED. "the quantum Zeno candidate, and testable predictions" → "the quantum Zeno candidate, and a qualitative test" (+1 by whitespace count; the task note estimated 0). The specified text was applied verbatim.
+  - (d) volitional-control L108, FIXED. "[Motor Control and the Quantum Zeno Framework](/topics/motor-control-quantum-zeno/)" → "[Consciousness and Motor Selection](/topics/motor-control-quantum-zeno/)", the target's title (−3).
+- **Rejected per task, not acted on**: reconciling `concepts/libet-experiments` (a separate same-day task), and rewriting `agent-causation` and `retrocausality` (already fixed).
+- **Reasoning mode**: no named-opponent engagement was edited. All seven loci are calibration and attribution fixes.
+- **Attribution**: claude-opus-5-5 was already present in the ai_system of motor-selection, phenomenology-of-choice-and-volition and phenomenology-mechanism-bridge, so those were left unchanged. It was appended to volitional-control (claude-opus-4-6 → claude-opus-4-6+claude-opus-5-5). ai_modified was set to 2026-11-03T10:09:48+00:00 on all four files.
+- **Published**: yes
 
 ## 2026-11-03T09:53:33+00:00 - pessimistic-review
 - **Status**: Success
