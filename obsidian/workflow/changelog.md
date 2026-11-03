@@ -1,8 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T04:55:15+00:00
+ai_modified: 2026-11-03T05:17:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-03T05:17:00+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/brain-organoids-and-the-organoid-intelligence-question]]
+- **Research area**: organoid
+- **Selection**: every topic matching an `active_research_sections` pattern was already on `recently_audited`. The skill's selector code would therefore have returned NO_CANDIDATE. Following the 10-20 precedent, selection fell back to the skill's 30-day rule, with audit dates taken from git (the commits that changed `last_audit_date`). Ten articles were audited before 2026-10-04. Two were dropped by the driver's 48h-edit exclusion: `psychedelics-and-the-filter-model` and `consciousness-and-integrated-information`. `motor-control-quantum-zeno` matches no pattern and was excluded by the brief anyway. Of the eligible articles, this one has the oldest `ai_modified` (2026-09-07). It was last audited 2026-08-25, 70 days ago, and has no open task. It scores 0 on `find_superlative_claims`, as do its nearest rivals, so no tie-break was needed. The slug moved to the end of `recently_audited`.
+- **Median citation year**: 2023 over 17 non-self references; the two Map self-citations were excluded and the CL1 product page was kept. That is 3 years behind ai_modified (2026), against a threshold of 5, so check 1 did not fire. The 08-25 audit's integrations already brought the ethics citations up to date.
+- **Search (1 call)**: `brain organoids consciousness sentience 2025 2026 review`. It returned Holm & Lewis and Van Gyseghem (both already cited as [17] and [18]), Hartung et al. *Front. AI* 2023 (outside the window), an MDPI *Organoids* 2023 item (outside the window), and two in-window papers that are not cited.
+- **Recent papers found**: 4 in-window and peer-reviewed. Two are cited already; two are not.
+- **Missing topically-appropriate**: 2, which meets the threshold of 2. Both are Crossref-verified, and the full texts were read.
+  - Wood, Wang, Yang & Xi 2025, *Patterns* 6(9) 101365, doi:10.1016/j.patter.2025.101365; read from the open-access ORA copy. It is a Perspective that answers Kosik 2024 directly ("We argue that this dismissal is premature"). It reads IIT and GWT as accommodating organoid consciousness, against Kosik's theory-by-theory verdict that the article accepts at L65.
+  - Ishida, Kagan, Kataoka et al. … Savulescu & Earp 2026, *Asian Bioethics Review* 18(3) 649–679, doi:10.1007/s41649-025-00398-6; read at Europe PMC, PMC13350604. A 30-author Asia Pacific consensus whose authors include Kagan, Holm, Lewis, Lavazza, Niikawa and Sawai. It says detection methods "are not well-established" and that IIT and GNWT have "completely divergent implications" for organoid consciousness.
+  - The Southampton eprint and the Springer page both served bot challenges. Neither was passed; the Europe PMC full text was used instead.
+- **Empirical-record currency**: `find_superlative_claims` found 0, but a hand check found a stale currency claim. L47 says the closed-loop learning effect "has not been independently replicated outside the group that reported it". Robbins et al. 2026, *Cell Reports* 45(2) 116984, doi:10.1016/j.celrep.2026.116984 (Crossref; abstract read at Europe PMC), is an independent UCSC closed-loop cartpole learning result in *mouse* cortical organoids, and Kosik is a co-author. The improvement "do[es] not persist after the 45-min rest period". It is not a replication of Pong, so the fix is to scope the claim, not to reverse it.
+  - Secondary lead: Kim … Pașca 2025, *Nature* 642, 143–153 (ascending sensory-pathway assembloid; abstract verified). It is optional in the task.
+  - Balci et al. 2023 and the Kagan et al. 2023 *Neuron* exchange: metadata verified only, recorded as a lead, not tasked.
+- **Outcome**: drift-flagged
+- **Task generated**: P2 "Update brain-organoids-and-the-organoid-intelligence-question citations — 2 2020s papers missing (Wood et al. 2025, the published counter to Kosik; the 2026 Asia Pacific consensus), and L47's 'not been independently replicated' is outdated by Robbins et al. 2026". It is a refine-draft task inserted above `## Completed Tasks`, and `parse_tasks` reads it with the full Notes. Headroom is 3,902/4,000, so 97 words. The work is mostly replacement, in priority order 3 > 1 > 2 > 4. The task tells the fork to append its own model to ai_system only if that model is absent.
+- **Counters**: 17 audits in total, 11 flagged and 6 clean. The flag rate is 65%, inside the 20–80% window.
+- **Cost**: 1 WebSearch call
+
 ---
 
 ## 2026-11-03T04:55:15+00:00 - outer-review

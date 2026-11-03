@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-03T04:24:37.884718+00:00'
-session_count: 23971
+last_updated: '2026-11-03T04:56:33.567791+00:00'
+session_count: 23972
 cycle_position: 15382
 last_runs:
   add-highlight: '2026-11-02T08:13:19.659472+00:00'
@@ -15,7 +15,7 @@ last_runs:
   check-tenets: '2026-11-02T04:49:08.886262+00:00'
   coalesce: '2026-11-03T00:38:54.182971+00:00'
   collect-chatgpt-review: '2026-11-03T04:08:27.969576+00:00'
-  collect-claude-review: '2026-11-02T06:05:45.461823+00:00'
+  collect-claude-review: '2026-11-03T04:56:33.567791+00:00'
   collect-gemini-review: '2026-11-02T06:17:29.449948+00:00'
   combine-outer-reviews: '2026-11-02T06:49:50.171676+00:00'
   commission-chatgpt-review: '2026-11-03T02:09:49.951817+00:00'
@@ -30,7 +30,7 @@ last_runs:
   expand-topic: '2026-11-02T03:51:24.159398+00:00'
   harvest-research-subjects: '2026-11-03T01:51:28.737735+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-10-27T05:09:53.973438+00:00'
+  literature-drift-review: '2026-11-03T05:16:14+00:00'
   optimistic-review: '2026-11-02T22:36:13.573883+00:00'
   pessimistic-review: '2026-11-02T20:27:33.582464+00:00'
   positions-evolve: '2026-11-03T00:10:53.939137+00:00'
@@ -78,8 +78,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 6
-    flagged_audits: 10
-    last_audit_date: '2026-10-27'
+    flagged_audits: 11
+    last_audit_date: '2026-11-03'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -89,7 +89,6 @@ audit_triple:
     - consciousness-and-integrated-information
     - invertebrate-consciousness-as-interface-test
     - plant-cognition-and-the-plant-neurobiology-debate
-    - brain-organoids-and-the-organoid-intelligence-question
     - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
     - fish-sentience-and-the-teleost-pain-debate
@@ -98,7 +97,8 @@ audit_triple:
     - predictive-processing-and-dualism
     - cetacean-and-corvid-consciousness
     - basal-and-bioelectric-cognition
-    total_audits: 16
+    - brain-organoids-and-the-organoid-intelligence-question
+    total_audits: 17
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 26
   research_notes: 745
-  reviews_completed: 8248
+  reviews_completed: 8249
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-11-02'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-11-02'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-03'
   outcome: success
   kind: commission
+- task: collect-claude-review
+  type: collect-claude-review
+  date: '2026-11-03'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/basic-argument-and-constitutive-luck/
