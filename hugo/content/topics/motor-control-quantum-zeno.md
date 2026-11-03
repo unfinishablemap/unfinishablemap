@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-11-03 06:45:00+00:00
+ai_modified: 2026-11-03 07:27:06+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 23:02:58+00:00
-lastmod: 2026-11-03 06:45:00+00:00
+lastmod: 2026-11-03 07:27:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +39,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-How does consciousness move the body? The Unfinishable Map holds that consciousness causally influences the physical world, and motor control is where this claim faces its sharpest test. On the Map's view, every voluntary movement—reaching for a glass, typing a sentence, turning your head—involves non-physical consciousness producing physical effects. Converging neuroscience evidence now reveals the architecture where this could happen: the Libet challenge to conscious will has been substantially weakened—leaving the playing field more level rather than settling the matter—attention and motor planning share neural substrates, and the brain's own motor selection system operates through competitive threshold-crossing that leaves room for a non-physical selector. The neuroscience thus removes the strongest evidence against a conscious role; whether consciousness fills it depends on a mechanism supplying real indeterminacy (see [The Agency Question](#the-agency-question)).
+How does consciousness move the body? The Unfinishable Map holds that consciousness causally influences the physical world, and motor control is where this claim faces its sharpest test. On the Map's view, every voluntary movement—reaching for a glass, typing a sentence, turning your head—involves non-physical consciousness producing physical effects. Converging neuroscience evidence now reveals the architecture where this could happen: the Libet challenge to conscious will has been substantially weakened—leaving the playing field more level rather than settling the matter—attention and motor planning share neural substrates, and the brain's own motor selection system operates through competitive threshold-crossing, where a non-physical selector would act. The neuroscience thus removes the strongest evidence against a conscious role; whether consciousness fills it depends on a mechanism supplying real indeterminacy (see [The Agency Question](#the-agency-question)).
 
 This article explores the philosophical significance of motor selection for [interactionist-dualism](/concepts/interactionist-dualism/), building on the technical details in [motor-selection](/concepts/motor-selection/) and the broader [attention-as-interface](/concepts/attention-as-interface/) hypothesis.
 
@@ -74,7 +74,7 @@ The parallel runs deeper than shared anatomy, though not every point has been me
 - **Phenomenology**: Both feel effortful when genuinely chosen, easier when merely instructed
 - **Frontoparietal coherence and Granger causality**: Willed attention shows greater reciprocal frontoparietal theta coherence than instructed—again a relative increase, which the authors read as frontal decision-making interacting with parietal attentional control (Rajan et al. 2019)
 
-If these parallels reflect a single underlying mechanism, then understanding how consciousness directs attention would simultaneously clarify how it directs motor control. Consciousness does not need separate interfaces for perceiving and acting—it operates through one unified selection system.
+If these parallels reflect a single underlying mechanism, then understanding how consciousness directs attention would simultaneously clarify how it directs motor control. Consciousness would not need separate interfaces for perceiving and acting—it would operate through one unified selection system.
 
 ## How the Brain Presents Options
 
@@ -82,15 +82,15 @@ The brain does not wait for consciousness to generate motor plans from scratch. 
 
 The basal ganglia implement a brake-release mechanism on these competing options. Tonic inhibition suppresses all motor programs by default; selection occurs when the brake is released on one program while competitors remain inhibited. The cortex generates ensembles of possible actions; the striatum selects.
 
-This architecture—option generation followed by competitive selection at threshold—is compatible with a role for consciousness as selector. Consciousness does not need to create motor programs. It biases which competing population wins the threshold race. The bandwidth constraint of conscious processing—roughly 10 bits/second of conscious behavioural throughput (Zheng & Meister 2025)—matches this role: you consciously select "reach for the glass" but do not consciously direct individual motor neurons.
+This architecture—option generation followed by competitive selection at threshold—is compatible with a role for consciousness as selector. Consciousness does not need to create motor programs. It biases which competing population wins the threshold race. The bandwidth constraint of conscious processing—roughly 10 bits/second of behavioural throughput (Zheng & Meister 2025)—is consistent with this role: you consciously select "reach for the glass" but do not consciously direct individual motor neurons.
 
-Dopamine further clarifies the architecture. A 2024 *Nature* study (Cai et al.) abolished fast, spike-evoked dopamine transients in mice through a dopamine-neuron-specific RIM knockout while leaving baseline dopamine intact: the mice still moved spontaneously, but initiated fewer trials and pursued reward with less vigour. The paper's own controls mark the limit of the result—reserpine depletion and receptor blockade *did* disrupt movement initiation, so baseline dopamine remains necessary for moving. What the fast dynamics contribute is reward-oriented drive and threshold modulation, not a determination of which option is selected. This three-layer structure—neural computation generates options, dopamine marks salience and sets thresholds, consciousness selects—would satisfy the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness would add no force, only resolve indeterminacy at the selection point, if a sub-classical source exists.
+Dopamine further clarifies the architecture. A 2024 *Nature* study (Cai et al.) abolished fast, spike-evoked dopamine transients in mice through a dopamine-neuron-specific RIM knockout while leaving baseline dopamine intact: the mice still moved spontaneously, but initiated fewer trials and pursued reward with less vigour. The paper's own controls mark the limit of the result—reserpine depletion and receptor blockade *did* disrupt movement initiation, so baseline dopamine remains necessary for moving. What the fast dynamics contribute is reward-oriented motivation and vigour, not a determination of which option is selected. Going beyond these findings, the Map proposes a three-layer structure—neural computation generates options, dopamine marks salience, consciousness selects—that would satisfy its [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness would add no force, only resolve indeterminacy at the selection point, if a sub-classical source exists.
 
 ## Where Intention Lives
 
 Desmurget's 2009 neurosurgical study reveals a striking dissociation. Stimulating parietal cortex produced conscious intention to move—and at higher intensities, false belief of having moved—without any actual muscle activity. Stimulating premotor cortex produced movement without any conscious awareness of intending to move.
 
-This double dissociation maps directly onto the framework. Conscious motor intention originates in parietal cortex—part of the posterior "hot zone" associated with conscious content. Motor execution operates in premotor and motor cortex without requiring consciousness. The interface between consciousness and movement operates where intention lives: at the selection level, not the execution level. This explains the intuitive asymmetry in motor experience—you choose *what* to do but don't choose the muscle contractions that achieve it.
+This double dissociation maps directly onto the framework. Desmurget and colleagues conclude that conscious intention arises from parietal activity preceding movement. Parietal cortex is part of the posterior "hot zone" associated with conscious content. Motor execution operates in premotor and motor cortex without requiring consciousness. The Map infers that an interface between consciousness and movement would operate where intention lives: at the selection level, not the execution level. This would explain the intuitive asymmetry in motor experience—you choose *what* to do but don't choose the muscle contractions that achieve it.
 
 ## The Agency Question
 
@@ -120,13 +120,13 @@ For the quantum Zeno candidate specifically, the [decoherence](/concepts/decoher
 
 More broadly, the parallel between attention and motor control—while striking—does not prove they share a single mechanism through which consciousness acts. Shared timing and neural signatures could reflect computational similarities without any non-physical involvement. Reinforcement learning and Bayesian optimal control theory already explain much of motor selection without appealing to consciousness or quantum mechanics. The brain's dopamine system implements a well-characterised reward prediction error signal that biases selection computationally. Identifying what, specifically, these models fail to account for remains an open challenge.
 
-What would strengthen the case? In Schurger-style self-paced movement tasks, stochastic accumulator models predict that reaction time distributions follow specific drift-diffusion statistics. If conscious selection biases threshold-crossing, voluntary actions should show systematic deviations from these distributions between passive and actively willed conditions. No such deviation has been demonstrated—and no effect size is honestly attachable to the prediction, because the coupling model that would derive one is exactly what [P-Q10](/positions/quantum-interface/#p-q10) in the [quantum-interface register](/positions/quantum-interface/) records as missing; the prediction stays qualitative until that debt is paid. What would weaken it? Demonstration that willed action timing and selection can be fully predicted from prior neural states, leaving no residual indeterminacy for consciousness to resolve—for instance, if pre-movement neural decoding achieved near-perfect accuracy for which action is selected, not merely that one is imminent.
+What would strengthen the case? Schurger-style accumulators predict reaction-time distributions, but departures from basic drift-diffusion statistics would not favour the Map: classical models with urgency signals or collapsing bounds, including the urgency-gating account Thura and Cisek (2014) support, produce them too. If conscious selection biases threshold-crossing, willed actions, unlike passive ones, should depart from the best-fitting such model toward what the agent reports intending. No such deviation has been demonstrated—and no effect size is honestly attachable to the prediction, because the coupling model that would derive one is exactly what [P-Q10](/positions/quantum-interface/#p-q10) in the [quantum-interface register](/positions/quantum-interface/) records as missing; the prediction stays qualitative until that debt is paid. What would weaken it? Demonstration that pre-movement neural decoding predicts which willed action is selected and when, not merely that one is imminent, up to the ceiling that measurement and neural noise allow, with no residual tracking what the agent reports intending.
 
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)**: The dissociation between motor intention (parietal) and motor execution (premotor) locates conscious intention and motor execution at distinct neural stages. This is neural separability, which materialism predicts equally well; on its own it is not evidence of psychophysical irreducibility. What the dissociation does is constrain *where* an interface would sit if one exists—at the intention stage, not the execution stage. It is consistent with an interface operating at the selection level; it does not, by itself, argue that one exists.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Motor selection exemplifies minimal interaction. Consciousness would bias which of the brain's competing motor programs wins the threshold race rather than generate movement. The low (~10 bits/second) bandwidth matches policy-level selection, not micromanagement of motor neurons.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Motor selection exemplifies minimal interaction. Consciousness would bias which of the brain's competing motor programs wins the threshold race rather than generate movement. The low (~10 bits/second) bandwidth is consistent with policy-level selection, not micromanagement of motor neurons.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Motor control is where consciousness most visibly affects the physical world. Words appear on pages, bodies move through space. If the attention-motor interface is unified, the same mechanism connects consciousness to both perception and action.
 
