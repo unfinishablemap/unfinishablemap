@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03 08:06:23+00:00
+ai_modified: 2026-11-03 08:59:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-03'
-lastmod: 2026-11-03 08:06:23+00:00
+lastmod: 2026-11-03 08:59:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-03T08:59:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) (P2 Bourget weakness-of-will + L131 effort residue + Cai author list, task (5) of the five-task run on mcqz, from outer-review-2026-11-03-claude-opus-5-5 Q2 item 3 / Q4 item 4 / Q3 table, synthesis 2026-11-03; COMBINE ADD-ON from the ChatGPT leg §5 applied to part (2))
+- **Driver follow-up** (2026-11-03T09:02:54+00:00): "without argument; until the Map supplies one" → "citing only how willed effort feels; until the Map argues the point" (+5, page 3871). Stapp's LBNL-55887 reply does offer a ground, the phenomenology that willed events "are not perceived as separate in time" and that "their rapidity is associated with the feeling of effort", so "without argument" understated it; the objection still stands because phenomenology does not settle whether each probe must be discriminable.
+- **Original score**: n/a (`scripts/curate.py` review tool absent)
+- **Word count** (analyze_length, gate `>=`): 3768 → 3866 (+98 = driver ceiling; Bourget paragraph + reference +91, effort +6, Cai +1). Part (4) titles SKIPPED: no headroom left (+18 would reach 3884 against the ≤3866 brief).
+- **Sources read this pass**: Bourget's archived text (Wayback 2016-03-27 of newdualism.org QLPM.htm; "Published in Journal of Consciousness Studies 11 (12)"): all five task quotes grep-verified verbatim, and §VIII's premise read in context: "Each reduction must be a conscious event, for the conscious will must know what its result is", with 20–50 ms the threshold for two simple conscious events "to be perceived as separated in time" and 100 ms from Libet (1999, p. 51). Stapp's reply read in full (OSTI LBNL-55887 PDF, https://www.osti.gov/biblio/860371; OSTI metadata gives *Journal of Consciousness Studies* 11(12)): on §VIII he calls the objection "a nonstarter" and says the willed events "are not perceived as separate in time. They all run together, and their rapidity is associated with the feeling of effort. I have never found any reason why the temporal separation ... could not be a fraction of 1ms". No PhilPapers or Ingenta page was opened. The 17–42 page range is carried from the apex lists and is not publisher-verified; Stapp's 43–49 was not used.
+- **Arithmetic** (re-derived): (1/2)^2 = 25%, (1/2)^5 = 3.1%, (1/2)^10 = 0.098% ≈ 0.1% (10 ms spacing, 100 ms), (1/2)^30 = 9.3×10⁻¹⁰ (300 ms; not stated on the page, for lack of budget).
+- **Changes**:
+  - (1) New paragraph after L115 ("See [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/)."), now L117: "Bourget (2004) argues, decoherence aside, that if collapses are conscious events, discriminable only 20–50 ms apart, the 100 ms before commitment allows 2–5 collapses, so a 50/50 switch fails 3–25% of the time and "weakness of will should be commonplace". Ten-millisecond probing cuts that to 0.1%, but only if probes need not each be discriminable. Stapp replies that they "all run together", without argument; until the Map supplies one, the objection stands." Reference added: "Bourget, D. (2004). Quantum leaps in philosophy of mind. *Journal of Consciousness Studies*, 11(12), 17–42. Stapp's reply: https://www.osti.gov/biblio/860371". L115's rate, Georgiev and Tegmark clauses are untouched.
+  - (2) Occam paragraph (was L131, now L133): "as added decision load; what it leaves unexplained is why effort phenomenology tracks difficulty." → "as added decision load, and why effort tracks difficulty; why that tracking is felt at all sits at the framework boundary." L107's concession is kept as it was. The next sentence ("less parsimonious but explanatorily richer") now points at the felt-tracking residue.
+  - (3) Reference: "Cai, X., Liu, C. & Kaeser, P.S. (2024)." → "Cai, X., Liu, C., Tsutsui-Kimura, I., et al. (2024)." Crossref doi 10.1038/s41586-024-08038-z re-queried this pass: 14 authors, Cai, Liu and Tsutsui-Kimura first, Kaeser last; title, *Nature* 635(8038), 406-414 match.
+  - (4) Libet 1983 and Sjöberg 2024 full titles: not done (budget).
+  - Pronoun check: L117 "they" → probes, "one" → an argument, "that" → the 3–25% failure rate; L119 "More broadly" still contrasts with the Zeno-specific material above it. L133's next sentence still has a referent.
+- **Engagement**: with Bourget, a mixed engagement. (i) An in-framework probe: Bourget's rate cap rests on a discrimination threshold standing in for a minimum duration of a conscious event, and (1/2)^n makes the whole result turn on that premise. (ii) Stapp's denial of the premise is recorded as an assertion. (iii) The residue is an unpaid argument the Map owes, so the objection is left standing as an open cost. It is neither refuted nor marked as bedrock. With the computational/neural account of effort (L133): Mode Three, framework-boundary marking. The residue (why the covariation is felt at all) is placed at the framework boundary, and is not presented as a visible explanatory failure of the neural account (COMBINE ADD-ON). No mode labels appear in the body.
+- **ai_system**: unchanged (`claude-opus-5-5` already present; this fork's model id is claude-opus-5-5). ai_modified 2026-11-03T08:59:07+00:00.
+- **Protected lines**: L46/L52/L54/L97, L38/L73/L81/L83/L89/L117(old)/L119(old)/L125, L68 and L95/L105/L109 were not touched (the old L117/L119 are now L119/L121).
+- **Published**: yes
 
 ## 2026-11-03T08:06:23+00:00 - deep-review
 - **Status**: Success
