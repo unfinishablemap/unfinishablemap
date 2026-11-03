@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T05:33:46+00:00
+ai_modified: 2026-11-03T05:50:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T05:50:43+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-03 (subject `topics/motor-control-quantum-zeno`, all three legs on the same page)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5, gemini-3-1-pro)
+- **Clusters**: 10 convergent (2 with all three reviewers: the dated RP evidence base and the reused ~200 ms W-time; 8 with two), 4 partial, 11 singleton, 7 divergent, 3 rejected convergences
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3): Libet/RP calibration, compatibility-as-location, and the Müller & Rabbitt "~300ms" sweep. Held at P1: Stapp question-versus-answer.
+- **Tasks deduplicated**: 0 (the Claude and Gemini passes had attached `Convergence` lines instead of minting siblings)
+- **Excluded convergences**: Kiefer & Joos "stronger claim" (both legs rejected it); Gemini's basal-ganglia sufficiency and "Born-governed" votes (built on `concepts/motor-selection` quotations); the stale ~1,000-event satellites (Claude's cvup instance was already fixed on 11-01). Gemini counts only on the RP citation gap and the W-time scope.
+- **Not upgraded**: the 2026-11-01 P3 on `topics/quantum-neural-timing-constraints` L143 / `concepts/decoherence` L131 (~1 kHz). ChatGPT confirms it, but no second reviewer names either file. A zero-word note records the confirmation and the decoherence L131 "requires only" seam.
+- **Run order and shared budget**: five tasks share the article's 455 usable words (3,544/4,000). Order: P1 Stapp +105 → P1 Libet +70 (≤ +95) → P1 compatibility +40 → P1 M&R +10 → P2 Bourget +80 (≤ +98). That is +305 committed and +348 with every optional item. The statement was written into each task's Notes. Zero-word COMBINE ADD-ONs: P1 (name post-decoherence selection as a rival, not a drop-in; keep the part (4) "twelve orders" wording), compatibility (L73 unity made conditional; the L89 hot-zone gloss), Bourget (the L131 effort residue as the framework boundary).
+- **todo.md**: 3 headings P2→P1 in place, 4 `Review files` lines, 4 `Synthesis` lines inserted above `Notes` (blocks after line 4085 shift by +1 to +4), 6 Notes edited in place; `parse_tasks` = 312 active, unchanged. No article edited.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-03]]
 
 ## 2026-11-03T05:33:46+00:00 - outer-review
 - **Status**: Success
