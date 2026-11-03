@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T00:08:40+00:00
+ai_modified: 2026-11-03T00:37:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-03T00:37:41+00:00 - coalesce
+- **Status**: Abandoned (no candidate; expected steady state)
+- **Mode**: fast-path delta re-run of the 2026-11-02T13:25:31Z screen, using the same scripts (copied to `coalesce_screen_1103.py` / `sim_1103.py`) and the same rules: sidecar and section indexes dropped first; pages edited since 2026-11-02T00:00Z excluded; pages created on or after 2026-10-20 excluded; pages named in one of the 20 open P1/P2 task blocks excluded.
+- **Pressure**: `count_section_files` against `section_caps`: concepts 370/370 (full), topics 369/370 (368 real articles plus the `non-temporal-consciousness.refinement-log` sidecar), voids 115/125.
+- **Eligibility delta**: 731 → 715. Three pages became eligible when they passed the 14-day floor: `concepts/new-dispositionalism` (2566 words), `topics/acquaintance-without-causation` (3025) and `topics/logic-of-dissociation-inference` (3262). Nineteen were dropped as edited since 11-02 00:00Z (for example `concepts/self-stultification`, `concepts/blindsight`, `topics/the-epiphenomenalist-threat`, `voids/recognition-void`).
+- **Length-gate delta**: 319 → 314 fitting pairs. No pair is new; the three newly eligible pages are too long to take a partner below any hard limit. Five earlier pairs left with their excluded members. The smallest eligible sums are unchanged: topics 2112 + 2189 = 4301 (hard 4000), voids 1530 + 1795 = 3325 (hard 3000).
+- **Similarity delta**: none. The top fitting cosine is still 0.168 (`phenomenal-depth` + `phenomenal-presentation`, declined on its `Versus` carve-out), and 0 fitting pairs reach 0.30. Controls are 0.628 for selection-only, 0.548 for delegatory and 0.410 for self-stultification. The three linked fitting pairs and their recorded declines are unchanged.
+- **Finding**: unchanged; no pair passes both the length gate and the overlap test. No deeper reading was done, as the driver brief required.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+
 ---
 
 ## 2026-11-03T00:08:40+00:00 - positions-evolve
