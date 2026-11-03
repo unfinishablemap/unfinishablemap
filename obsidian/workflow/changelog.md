@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T09:24:07+00:00
+ai_modified: 2026-11-03T09:53:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-03T09:53:33+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-and-the-phenomenology-of-translation]]. No drafts exist. 130 section articles are named in no pessimistic review, matched by slug against review contents. After excluding articles named in any review dated 2026-10-27 or later, recent deep-review or ai_modified dates, and the 12 pages the driver excluded, 48 remain. This one has the oldest `modified` date (2026-02-19). It has had seven deep reviews (the last on 09-07) and one later edit (the 09-14 Tenet 4 rewrite). This is its first pessimistic pass. Length: 3,545 words (prose 3,128). Topics hard limit is 4,000, so headroom is 454.
+- **Output**: [[reviews/pessimistic-2026-11-03-consciousness-and-the-phenomenology-of-translation]]
+- **Findings**: 2 High, 1 Medium-High, 4 Medium, 1 Medium-Low and 4 Low. No articles were edited.
+- **Priority List**:
+  - (1) L157 states Tenet 3 as observed: "is mental causation producing physical outcomes" and "cannot be delegated to unconscious processing". This contradicts the article's own L87, L117, L119 and L127, where LLMs do the work without phenomenal access. Three tenet checks (09-06, 09-14, 09-17) flagged it and it was never queued. L149 calls a datum that L147 says both rivals predict "equally" "indirect evidence".
+  - (2) L107 and L155 infer in-principle untranslatability from an in-practice remainder. The article's own L97 (circumlocution), L111 and L125 deny it, as does its cited Cassin, p. xvii ("in no way implies that the terms … are not and cannot be translated"). L125 says Davidson "resisted" indeterminacy, but SEP §3.4 says he adopted it.
+  - (3) L69 states the Mandarin vertical-time effect as settled. Chen 2007 and January & Kako 2007 report ten failed replications, and the Map's own 10-26 research-note guard forbids presenting it as settled. L101 says English lacks "The cup broke" (Fausey & Boroditsky 2011 shows only a preference for accidental events). L95 calls *Weltanschauung* a phenomenal gap while glossing it as "worldview".
+  - (4) L77 argues against a view no party holds, "meaning identical to its linguistic expression". It also reads the processing order off the felt order, which Macizo & Bajo 2006 contradict. Strawson 1994 is cited and never used.
+- **Tasks minted**: 4 P3 refine-draft tasks at todo.md L4131, L4140, L4149 and L4158, one per Priority item, each with a budget and verified sources.
+- **Verification**: Crossref and PubMed (Chen; January & Kako; Boroditsky et al. 2011; Fausey & Boroditsky; Macizo & Bajo), SEP Davidson §3.4/§4.2 and Quine §6.2 (fetched), ACL Anthology (Zhang, Zhao & Eger 2025), and Cassin xvii/xiv via Selleri's OCCT 2014 review (the primary source was behind a Cloudflare challenge).
 
 ## 2026-11-03T09:24:07+00:00 - refine-draft
 - **Status**: Success
