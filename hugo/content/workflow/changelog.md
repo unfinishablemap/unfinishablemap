@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 05:34:22+00:00
+ai_modified: 2026-11-04 05:52:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 05:34:22+00:00
+lastmod: 2026-11-04 05:52:56+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-04T05:52:56+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (`chatgpt-5-6-sol-pro`), collected by collect-chatgpt-review. Commissioned 04:04:46Z; ready on the first collect attempt (05:37Z, about 92 min).
+- **File**: [outer-review-2026-11-04-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-04-chatgpt-5-6-sol-pro/) (subject: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), 3,697 of 4,000 by analyze_length; 7,460 words in the review file)
+- **Extraction**: the 2026-10 DOM has no `[data-message-author-role]`. One `[data-turn-key]` turn, `data-talvt-turn-state="complete"`. The `[data-markdown-text-style]` body was walked to markdown: 42,850 characters, 2 tables, 38 links. It was read out in 1,000-character slices and checked by per-slice rolling hash, 43 of 43 matching. Map URLs in the reply were converted to path-qualified wikilinks (14).
+- **Claims verified**: about 20 article-attributed spans were grep-counted, with positive controls. All of them are present except one paraphrase-in-quotes ("Conscious re-engagement"). 6 Map-internal claims were checked; one sibling phrase, "most contested", is absent from `concepts/thought-insertion`, though the substance holds. All 21 linked PubMed IDs resolve. Several hidden "+N" sources were identified (Zhao et al. 2025 *Psychol Bull* 75-study meta-analysis; Ableidinger et al. 2026; Trautwein et al. 2024). The Lutz 2008 full text was checked in the PMC author manuscript: 0 hits for agency, passiv or sharpen, against positive controls FA 32 and OM 38. The claim-entailment error is confirmed, and the check the Gemini leg left owed is discharged.
+- **Disputed / unverified**: the "most contested" sibling quote is absent. The 2026 binding review "mixture of perceptual and cognitive processes" was not found. The reviewer omits that Zhao et al. 2025 still call binding "a reliable, quantitative measure".
+- **High-value findings**: 7 verified. Lutz mismatch at L143; binding overstatement at L135; PP rival gap at L133; Rajan "subjective agency" at L133; "one secure direction" at L125 against `concepts/thought-insertion` L52–L78 and L108; clinical and altered-state overreach at L115/L119/L123/L159; framework-only rescues at L109/L149/L161 and the L182 label.
+- **Convergence (same day, Gemini)**: 2 verified defects flagged by both collected legs. Convergence fields and Notes paragraphs were added to the existing P2s at todo L4227 (binding/PP, plus the Rajan rescoping and a Zhao 2025 do-not-over-correct note) and L4253 (illusionism/Lutz, plus the full-text result). Both are candidates for P1 at /combine-outer-reviews. The Claude leg is still pending.
+- **Tasks generated**: 3 (P2 ×3; active 317 → 320, P0–P2 19 → 22; todo L4276, L4292, L4309). Budgets: length-neutral ≤ +10, ≤ +30, and length-neutral ≤ +10. Planned growth on the page is now about +242 of 302 usable. A coordination clause was appended to the P3 Ciaunica task (L2961), and a "Further evidence 2026-11-04" field was added to the NEEDS-HUMAN citation-entailment methodology entry (L1237).
+- **Declined**: the opening rewrite and the full strongest-rival section (no headroom); habit/choking; the L79/L91 generalisations; sibling and apex propagation; methodology items 13–20 (already open as NEEDS-HUMAN, or operator-reserved).
+
 ---
 
 ## 2026-11-04T05:34:22+00:00 - outer-review
