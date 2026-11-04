@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T10:27:06+00:00
+ai_modified: 2026-11-04T10:55:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T10:55:59+00:00 - coalesce
+- **Status**: Abandoned (no candidate; expected steady state)
+- **Mode**: fresh screen under the 10:51Z driver brief, using new-named scripts `coalesce_screen_1104.py`, `sim_1104.py` and `coalesce_dedup_1104.py`. Rules: the sidecar `topics/non-temporal-consciousness.refinement-log` and the three section indexes were dropped first. Pages were excluded if created on or after 2026-10-05 (30-day floor, by frontmatter `created` or git add date), edited today, on the brief's 3-slug list, or named on the header, File or Secondary line of an open task. Open tasks are the 426 blocks under `## Active Tasks` and `## Blocked Tasks (Needs Human)`, leaving out ✓ and struck entries. Lengths were measured with `analyze_length(...).word_count`.
+- **Pressure** (`count_section_files` vs `section_caps`): concepts 370/370 (full), topics 369/370 (368 real articles plus the sidecar), voids 115/125. Concepts was searched first.
+- **Eligibility**: topics 215, concepts 204, voids 80. Excluded: 336 named in an open task, 53 created within 30 days, 4 edited today, 3 on the brief list (these sets overlap). The pool is larger than on 11-03 because only the header, File and Secondary lines count, not mentions in Notes.
+- **Length gate** (summed body below the target's hard limit, `>=` fails): 262 fitting pairs. The best cosine is 0.166 on the mid-band vocabulary and 0.117 on the wide one; no fitting pair reaches 0.30. Controls: selection-only 0.625, delegatory 0.549, self-stultification 0.410.
+- **Five passes, all declined**:
+  1. Linked fitting pairs. `phenomenal-depth` + `phenomenal-presentation` (3047 words, cosine 0.166) is declined on the `**Versus [[phenomenal-depth]].**` carve-out, which separates them as deliberate sibling concepts. `purpose-and-alignment` + `mind-arena` (3996 words, cosine 0.112) is 4 words under the gate and unrelated.
+  2. Real overlap, any length. There are 21 eligible pairs with cosine ≥ 0.40, and the smallest overage is 1271. That pair, `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities` + `concepts/source-versus-leeway-incompatibilism` (0.484, 5271 words), was read. It is a survey plus a taxonomy, created as a pair on 2026-07-09, with only 19 shared 8-grams. The redundant sections (Frankfurt pivot, semicompatibilism, leeway/source) total about 630 words, so a cut to 4000 would reach the guarded Relation sections (624 and 487 words). Next smallest: `concepts/carrolls-regress` + `voids/inference-void` (1803 over), a concept plus the void that applies it.
+  3. Exhaustive verbatim-dedup check. Of 5,406 eligible pairs sharing at least 15 6-grams, none has dedup coverage at or above its overage while also having real overlap. The largest coverage is 778 words, for the control pair, which is 3060 over.
+  4. Slug and title overlap. The 70 pairs with Jaccard ≥ 0.4 whose overage is under 1000 all have cosine 0.045–0.190. They are hub concepts with spin-offs, or a concept with its void (`perception`/`aspect-perception-void`, `simulation`/`simulation-detection-void`, `phenomenal-consciousness`/`phenomenal-depth`).
+- **Files changed**: none besides this entry.
 
 ## 2026-11-04T10:27:06+00:00 - refine-draft
 - **Status**: Success
