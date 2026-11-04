@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: 2026-11-04
-ai_modified: 2026-11-04 05:52:40+00:00
+ai_modified: 2026-11-04 07:02:18+00:00
 ai_system: chatgpt-5-6-sol-pro
 author: Andy Southgate
 concepts:
@@ -21,7 +21,7 @@ description: 'ChatGPT 5.6 Sol Pro audit of phenomenology-of-agency-vs-passivity:
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-04 05:52:40+00:00
+lastmod: 2026-11-04 07:02:18+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aeaaec4-34b4-83ed-9e8f-5e6813e669bf
 outer_review_extraction_method: js-dom
@@ -594,6 +594,8 @@ With those changes, the article could become a strong account of the **phenomeno
 - ✗ "the most contested reading" (see above): not on the sibling page.
 - ~ §7.3 (quantum degrees mapped onto phenomenology): L169 already reads "may correspond", inside the Relation section. The bridge objection is fair but the page does not assert it. Not tasked.
 - ~ §8 currency: fair for the binding/PP sections (tasked). The foundational references need no replacement.
+
+**Erratum (combine-outer-reviews, 2026-11-04T07:02Z).** The ✗ on "the most contested" above was wrong, and so is the matching clause in the reliability note below. `concepts/thought-insertion` L36 ends: "The Unfinishable Map's other articles use the reading *ownership preserved, agency lost*, which is one of the five and the most contested." (`grep -c -F "most contested"` = 1). The sentence has been on that page since its creation (2e296e55af, 2026-10-01), at character 731 of a 746-character line. ChatGPT quoted its sibling correctly. The thought-insertion task's Notes now carry the correction. See [outer-review-synthesis-2026-11-04](/reviews/outer-review-synthesis-2026-11-04/).
 
 ## Processing Notes
 

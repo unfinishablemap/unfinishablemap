@@ -3,7 +3,7 @@ title: "Outer Review - ChatGPT 5.6.sol Pro (2026-11-04)"
 created: 2026-11-04
 modified: 2026-11-04
 human_modified: null
-ai_modified: 2026-11-04T05:52:40+00:00
+ai_modified: 2026-11-04T07:02:18+00:00
 draft: false
 description: "ChatGPT 5.6 Sol Pro audit of phenomenology-of-agency-vs-passivity: Lutz 2008 does not support the meditative-sharpening claim (full text checked), binding is overstated, and thought insertion is called secure. 2 convergences, 3 P2 tasks."
 topics:
@@ -590,6 +590,8 @@ With those changes, the article could become a strong account of the **phenomeno
 - ✗ "the most contested reading" (see above): not on the sibling page.
 - ~ §7.3 (quantum degrees mapped onto phenomenology): L169 already reads "may correspond", inside the Relation section. The bridge objection is fair but the page does not assert it. Not tasked.
 - ~ §8 currency: fair for the binding/PP sections (tasked). The foundational references need no replacement.
+
+**Erratum (combine-outer-reviews, 2026-11-04T07:02Z).** The ✗ on "the most contested" above was wrong, and so is the matching clause in the reliability note below. `concepts/thought-insertion` L36 ends: "The Unfinishable Map's other articles use the reading *ownership preserved, agency lost*, which is one of the five and the most contested." (`grep -c -F "most contested"` = 1). The sentence has been on that page since its creation (2e296e55af, 2026-10-01), at character 731 of a 746-character line. ChatGPT quoted its sibling correctly. The thought-insertion task's Notes now carry the correction. See [[outer-review-synthesis-2026-11-04]].
 
 ## Processing Notes
 

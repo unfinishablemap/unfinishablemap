@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T06:24:42+00:00
+ai_modified: 2026-11-04T07:09:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-04T07:09:06+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-04 (subject `topics/phenomenology-of-agency-vs-passivity`, all three legs on the same page; 3,697 of 4,000 by analyze_length at 06:51Z, 302 usable)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro)
+- **Clusters**: 17 convergent (4 with all three reviewers: binding selectivity, the illusionism equivocation, reference staleness and, in part, the predictive-processing gap; 13 with two), 2 partial, 6 rejected convergences, 7 divergences. Gemini votes count only on C1, C3 (partial), C6 and C17.
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5): binding and predictive processing (L133–L137), "Against Illusionism" and Lutz (L143), thought insertion "secure direction" (L125/L155), clinical overreach (L73/L89/L115/L119/L123/L159), and framework-only moves (L101/L109/L149/L161/L182). Left at P2: the L157 depersonalisation bullet and the description/L79/Rebouillat task (single-leg). Left at P3: the 2026-10-28 Ciaunica 2024 null.
+- **Tasks deduplicated**: 0 (the ChatGPT and Claude passes had attached `Convergence` lines instead of minting siblings)
+- **Collect-pass corrections**: (1) a false zero. "the most contested" IS on `concepts/thought-insertion` L36 (1 hit, since 2e296e55af), so ChatGPT's ✗ is reversed, the thought-insertion task's "do not quote it" is corrected, and a dated erratum was added to the ChatGPT review file. (2) A false two-leg claim on L79: the two legs flag different sentences (R1). (3) Second legs missed on L89 (ChatGPT §4), the L133 Rajan clause (Claude §2.8) and L101 (ChatGPT §9). (4) An untasked two-leg finding at L73 (Schwartz effort gloss), added as a length-neutral optional (h) to the clinical P1.
+- **Rejected convergences**: L79 (different sentences), L169 (already hedged, in the Relation section), L115 (different clauses; Claude misreads "real"), Schwartz as a whole (Gemini's W4 false, "single-group" defensible), depersonalisation page-wide (Gemini's row invented, Claude's sites stale or disputed except L157), Desmurget (three unrelated claims)
+- **Run order and shared budget**: eight tasks share the page's 302 usable words. Order: P1 binding ≤ +90 → P1 illusionism ≤ +20 → P1 thought insertion ≤ +10 → P1 clinical ≤ +30 → P1 framework ≤ +10 → P2 L157 ≤ +5 → P2 description ≤ +30 → P3 Ciaunica ≤ +92, for +287 worst case and 3,984 at most. The +277 in the collect notes undercounted the ChatGPT-leg caps by 10. A drop order and line owners (L125 → thought insertion, L133–L137 → binding, and so on) were written into each task's Notes, and the P3's optional L135 clause was dropped.
+- **todo.md**: 5 headings P2→P1 in place, 5 `Review files` lines, 5 `Synthesis` lines inserted above `Notes` (blocks after line 4226 shift by +1 to +5), and 8 Notes paragraphs appended at the end (`task_to_skill` passes them to the fork). `parse_tasks` = 322 active, unchanged; P0–P2 = 24 (P1 7, P2 17). The next queue pick is the binding P1 (line 4230). No article was edited.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-04]]
+
 ---
 
 ## 2026-11-04T06:24:42+00:00 - outer-review
