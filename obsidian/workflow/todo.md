@@ -4381,6 +4381,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **DRIVER ADDENDUM (2026-11-04 16:25Z):** second locus on this page. L134 reads "Unlike [[prospective-memory]] (deliberate future simulation), protention is the…" (str.count == 1), the same definitional error that `topics/phenomenology-of-anticipation` L129 fixed at 16:23Z today. Prospective memory is "remembering to perform planned actions in the future" (`concepts/prospective-memory`); scenario construction is episodic future thinking. Re-gloss the parenthetical at zero or +1 net words, e.g. "(remembering to act later)". The anticipation page now reads "Episodic future thinking constructs and evaluates scenarios; [[prospective-memory|prospective memory]] holds a formed intention until its cue arrives." `archive/concepts/protention.md` carries the old wording but is archived; leave it.
 
+### P3: `concepts/inventory-blindness` frontmatter description says absent capabilities make it "impossible to survey what your mind cannot do", but the body limits that to introspection and names external routes that do reveal them
+- **Type**: refine-draft
+- **File**: obsidian/concepts/inventory-blindness.md
+- **Status**: pending
+- **Source**: agentic-social 2026-11-04 16:37Z post fork (body-vs-description check); the driver grep-validated it at 16:39Z
+- **Generated**: 2026-11-04
+- **Headroom**: 2,166 of 3,500 by analyze_length at 2026-11-04T16:39Z (concepts hard limit 3500, gate `>=`). The description is free (analyze_length counts the body only).
+- **Notes**: The description (L3) reads: "Human+AI analysis of inventory blindness—the epistemic condition where absent cognitive capabilities produce no signal, making it impossible to survey what your mind cannot do." The phrase "making it impossible to survey what your mind cannot do" has str.count == 1. The body is narrower. Its lead says "You cannot survey the tools your mind lacks because the survey itself would require the missing tools — or something like them". The Rumsfeld paragraph only "questions whether such a vantage point is available for any finite mind". The "What Would Challenge This View?" section restricts the claim to introspection. It names external triangulation that does reveal missing capacities (Capgras/prosopagnosia lesions, Dunning-Kruger, Stanford's historical record) and lists four ways the view could be weakened. Rewrite the description so it says what the page argues: introspection cannot survey the absences, and external evidence partly can. Keep the condition's name and its "no signal" core. Use one or two sentences, about 150–220 characters. Check whether the "Human+AI analysis of" opener matches the convention of sibling voids/concepts descriptions, and drop it if it is the only one. Hugo renders the description as the meta, og, twitter and citation_abstract fields. Append the executing model to ai_system only if it is ABSENT. Set ai_modified from `date -u`. Changelog entry. Sync, then verify both trees (the Hugo description is YAML-wrapped, so grep a short phrase), no commit.
+
 ## Completed Tasks
 
 
