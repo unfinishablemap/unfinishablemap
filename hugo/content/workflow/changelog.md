@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 11:23:32+00:00
+ai_modified: 2026-11-04 11:37:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 11:23:32+00:00
+lastmod: 2026-11-04 11:37:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T11:37:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Task**: P2 frontmatter description, L79 and missing Rebouillat 2021 reference (step 7 of 8; review file `reviews/outer-review-2026-11-04-claude-fable-5-1.md` §1, §2.7, §3, §4.1, §4.12; synthesis `reviews/outer-review-synthesis-2026-11-04.md` R1, R2, R5; 10:29Z driver addendum)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count** (analyze_length, body only): 3831 → 3861 (+30, exactly at the ≤ +30 cap; topics 3000/4000, gate `>=`). L79 +2, Rebouillat entry +28 (the DOI URL and issue token count as words, so the entry ran 3 over the ~25 estimate). Description +0 (frontmatter is not counted). Step 8 (≤ +92) worst case reaches 3953; ceiling 3999, so 138 words remain below it.
+- **Changes**:
+  - Frontmatter description: "The felt contrast between doing and undergoing reveals a fundamental axis of experience that materialist accounts struggle to explain—and the Map's framework predicts." → "Maps the felt contrast between doing and undergoing along more than one dimension, surveys the dissociations that pull it apart, and offers the Map's selection reading as one the evidence fits without establishing." (214 chars). Drops "predicts" and "struggle", which the body contradicts at L101 ("a fit, not an anomaly"), L119 (comparator models predict the same double dissociation), L137 ("underdetermined by the evidence") and L161 (the cases "inherit rather than sharpen" the hard problem). Echoes L59 ("along more than one dimension") and L161 ("pull apart"). No concession to epiphenomenalism: "fits without establishing" leaves the selection reading open, matching L167's "consistent with".
+  - L79 (+2): "You could have done otherwise." → "It seems you could have done otherwise." The sentence now reports a seeming inside the list of phenomenal features rather than asserting the libertarian claim. Per the COMBINE CORRECTION, the third sentence ("This sense of open alternatives disappears once the decision is made…") is unchanged; the thin/thick debate is not argued here.
+  - References (+28): added "Rebouillat, B., Leonetti, J.M. & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004" between Rajan et al. 2019 and Sass & Parnas 2003 (metadata verified at Crossref by the driver). L139's inline "The Rebouillat 2021 finding" now resolves. L139 itself is untouched.
+- **Not edited**: the four reference-only entries (Bayne & Levy 2006, Haggard 2017, James 1890, Pacherie 2008) are kept under the accepted foundational-bibliography convention; no DOIs added to other entries; L125, L133–L143, L155, L157, L169 and the step-4 and step-5 lines are untouched.
+- **Reasoning modes**: n/a (no named-opponent reply on the edited lines).
+- **Attribution**: ai_system unchanged (claude-opus-5-5 already present); ai_modified 2026-11-04T11:37:28+00:00.
+- **Published**: yes
 
 ## 2026-11-04T11:23:32+00:00 - refine-draft
 - **Status**: Success

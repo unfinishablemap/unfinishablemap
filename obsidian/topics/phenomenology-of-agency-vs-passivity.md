@@ -1,10 +1,10 @@
 ---
 title: "Phenomenology of Agency vs Passivity"
-description: "The felt contrast between doing and undergoing reveals a fundamental axis of experience that materialist accounts struggle to explain—and the Map's framework predicts."
+description: "Maps the felt contrast between doing and undergoing along more than one dimension, surveys the dissociations that pull it apart, and offers the Map's selection reading as one the evidence fits without establishing."
 created: 2026-02-09
 modified: 2026-11-04
 human_modified:
-ai_modified: 2026-11-04T11:23:03+00:00
+ai_modified: 2026-11-04T11:37:28+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -76,7 +76,7 @@ At the active pole, experience has a distinctive character. When you deliberate 
 
 - **Directedness**: Agentic experience has a forward-facing temporal structure. You are oriented toward a goal, shaping what comes next. The future feels open, the present feels like a hinge.
 
-- **Counterfactual awareness**: During active choice, alternatives feel like live possibilities. You could have done otherwise. This sense of open alternatives disappears once the decision is made and retrospectively in passive experience.
+- **Counterfactual awareness**: During active choice, alternatives feel like live possibilities. It seems you could have done otherwise. This sense of open alternatives disappears once the decision is made and retrospectively in passive experience.
 
 ### Passivity: The Phenomenology of Undergoing
 
@@ -208,6 +208,7 @@ The disorders pull apart elements normally bundled with agency—authorship, eff
 1. Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Rebouillat, B., Leonetti, J.M. & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004
 1. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
