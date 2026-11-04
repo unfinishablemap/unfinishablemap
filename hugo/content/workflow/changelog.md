@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 10:05:11+00:00
+ai_modified: 2026-11-04 10:27:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 10:05:11+00:00
+lastmod: 2026-11-04 10:27:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T10:27:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Task**: P1 framework-only moves, L59/L101/L109/L141/L149/L161/L165/L171/L182 (step 5 of 8; synthesis C13–C16, R2; review files: the 2026-11-04 chatgpt-5-6-sol-pro and claude-fable-5-1 outer reviews)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 3837 → 3828 by analyze_length (−9 against the ≤ +10 cap; topics 3000/4000, gate `>=`). The step-5 worst-case running total was 3857, so steps 6–8 now carry 29 words of slack. No reference entries added or removed (Beilock & Carr 2001 not cited; the linked `empirical-phenomena-mental-causation` page carries it).
+- **Changes**:
+  - (a) L109, +5: "Consciousness in flow still selects, only without resistance." folded into the Map's response, which now ends "—a postulate flow's phenomenology cannot confirm"; "then" dropped from the preceding conditional.
+  - (b) L149, +2: "The practitioner's report is of consciousness choosing not to choose rather than of unconsciousness." → "The practitioner reports awareness, not unconsciousness; *choosing not to choose* is the Map's gloss, on which the capacity … may itself be an exercise of agency at a higher level."
+  - (c) L161, −18: "Each disorder strips away a component" → "The disorders pull apart elements … though not every case subtracts, and not every loss is felt" (aligns with steps 3 and 4 at L155/L159 without restating them). The hard-problem recast ("harder for purely physical accounts to explain" + the rhetorical question) replaced by a concession that distinct modules predict distinct reports, with the residue re-aimed at the general [hard problem](/topics/hard-problem-of-consciousness/), "which these cases inherit rather than sharpen".
+  - (d) L182, 0: Further Reading label "Why effort phenomenology supports conscious causal contribution" → "The Map's causal reading of effort phenomenology".
+  - (e) L101, −1: "a regularity such an account must treat as primitive, given how finely the disruption tracks the felt mode of attending…" → "a fit, not an anomaly: explicit-monitoring theories of choking already explain why the disruption tracks the mode of attending…". L59, +2: "falls somewhere on an axis between doing and undergoing" → "falls somewhere between doing and undergoing, along more than one dimension" (matches L107).
+  - (f) L165, +2: "as vivid as the difference between colour and silence—and equally irreducible" → "as vivid as that between colour and silence—and, the Map holds, equally irreducible".
+  - L171, 0: "trained meditators achieve" → "trained meditators report".
+  - L141, −1: heading "### Against Illusionism" → "### Illusionism" (0 inbound anchors in either dialect, re-grepped 10:25Z across obsidian and hugo/content).
+- **Reasoning modes**: modular-physicalist reading of the disorders (L161): was boundary-substitution, now an in-framework concession plus framework-boundary marking at the general hard problem. Explicit-monitoring / inert-consciousness account of choking (L101): framework-boundary marking; the rival derives the regularity, so the Map claims fit only. Flow (L109), witness (L149), Dualism vividness (L165): the Map's postulate or gloss now labelled as such, no refutation claimed.
+- **Cross-page echoes (not edited)**: `concepts/skill-delegation` L84 restates "Consciousness in flow still selects—it simply selects without resistance" as fact (and links `#Flow States`); `apex/phenomenology-mechanism-bridge` L77 echoes the retired L101 clause ("supplies a regularity that reply must treat as primitive"). Neither is a verbatim quotation of this page; both now lag it.
+- **Published**: yes
 
 ## 2026-11-04T10:05:11+00:00 - deep-review
 - **Status**: Success
