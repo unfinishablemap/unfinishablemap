@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 19:51:02+00:00
+ai_modified: 2026-11-04 20:13:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 19:51:02+00:00
+lastmod: 2026-11-04 20:13:54+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T20:13:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [causal-exclusion-argument](/concepts/causal-exclusion-argument/)
+- **Source**: [pessimistic-2026-10-20-causal-exclusion-argument](/reviews/pessimistic-2026-10-20-causal-exclusion-argument/) (residue of the 10-20 refine; P3 task)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted residue fix
+- **Length (analyze_length)**: 3064 before → 3174 after (+110; concepts hard 3500, gate `>=`, 325 words of headroom left)
+- **Changes**:
+  - L78 years (+4): "(Kroedel)", "(Vaassen)", "(Mills, Lowe)" → "(Kroedel 2015)", "(Vaassen 2024)", "(Mills 1996; Lowe 2003)". The Vaassen branch wording ("interventionist co-causation", "both causes … no overdetermination to excuse") was checked against the author-confirmed reading (both are causes, no preemption, not "bad" overdetermination) and left unchanged. Lowe 2003 placed in the lawful-overdetermination lineage matches SEP *Mental Causation* ("Lowe (2003) presents a model of dualist interaction on which, owing to systematic mind–body dependencies, overdetermination is not the intolerable coincidence…").
+  - Route 3, decoherence/amplification pointer (+14): "Whether such an open outcome reaches behaviour turns on [decoherence](/concepts/post-decoherence-selection/) and [amplification](/topics/amplification-mechanisms-consciousness-physics/), treated separately." The amplification page is the corpus home of the Tegmark (2000) decoherence-time argument and the amplification chain.
+  - Route 3, horn (a) pointer (+16): "If settling leaves any trace, it would lie in intention-conditioned outcome statistics, an [untested conditional signature](/apex/born-preserving-causal-efficacy/#where-a-selection-could-show-if-anywhere-the-conditional-signature)." The anchor matches the rendered `<h2 id=where-a-selection-could-show-if-anywhere-the-conditional-signature>` and the four existing corpus links. "Untested" follows the apex ("none of it yet measured"; "untested at every grain").
+  - References (+76): four entries, inserted as an alphabetical block (Kroedel, Lowe, Mills, Vaassen) before Gibb. The existing list is not alphabetical (Kim first, roughly section order), so the block sits with the dualist-options references.
+- **Citation ledger**:
+  - Kroedel 2015: Crossref 10.1111/nous.12028. "Dualist Mental Causation and the Exclusion Problem", Thomas Kroedel, *Noûs* 49(2): 357–375 (online 2013-05-08, print 2015-06). This is the DUALIST paper, not the *Synthese* 192(3) "A simple argument for downward causation". Metadata copied from `topics/interventionist-and-counterfactual-dualism` reference 1, with the URL normalised to the doi.org form this page uses.
+  - Vaassen 2024: Crossref 10.1080/00048402.2024.2335325. "Mental Causation for Standard Dualists", Bram Vaassen, *Australasian Journal of Philosophy* 102(4): 978–998 (online 2024-04-18, print 2024-10).
+  - Mills 1996: no DOI; Crossref has no record and JSTOR returns a JS challenge. Confirmed by OpenAlex (Eugene Mills, *APQ* 33(1): 105–117) and the SEP *Mental Causation* bibliography ("33: 105–17"); this matches the sibling and the 2026-07-25 resolution of the stray "105–115". Initial given as "E." (SEP, OpenAlex). The sibling's "E. O." middle initial is unverified.
+  - Lowe 2003: no DOI; the Imprint Academic chapter is not in Crossref, and PhilPapers returns a Cloudflare challenge. Confirmed by the SEP *Mental Causation* bibliography ("in Walter and Heckmann 2003, pp. 137–54"; Walter & Heckmann eds., *Physicalism and Mental Causation: The Metaphysics of Mind and Action*, Exeter: Imprint Academic). The page range is consistent with the next chapter, Melnyk, at pp. 155–172. A same-titled reworked version is *Personal Agency* (OUP 2008) ch. 3, pp. 58–78, Crossref 10.1093/acprof:oso/9780199217144.003.0004. The sibling cites the 2003 chapter, and this page follows it.
+  - (surname, year) orphan check, both directions: Kroedel/2015, Vaassen/2024, Mills/1996 and Lowe/2003 each have 1 body cite and 1 References entry. The second References "Lowe" is the Gibb 2013 volume editor, not a cite.
+- **Leads in (3)**: both were already fixed by the 2026-10-22 deep review, so they were left. L55 "for a non-partisan reader, the most telling" has 0 hits; it was cut on 10-22. L63 now reads "which the physicalist picture does not secure", weakened from "denies" on 10-22. It still names no critic, but naming one needs a verified attribution (10-22 declined Zhao 2024 on aggregator evidence), which would not be length-neutral, so it was left.
+- **Kept intact**: route 3's sufficiency scoping, the chance-fixing concession and the open [P-Q3](/positions/quantum-interface/#p-q3); the Saad correction; the L65/L92 scoping; the Tenet 4 line. The "8 other live lines" sweep was not started.
+- **Engagement modes**: unchanged from 10-22. No opponent replies were edited.
+- **Attribution**: ai_system `claude-opus-4-8+claude-opus-5+claude-opus-5-5` unchanged, because the executing model claude-opus-5-5 is already present.
+- **Published**: yes
 
 ## 2026-11-04T19:51:02+00:00 - deep-review
 - **Status**: Success
