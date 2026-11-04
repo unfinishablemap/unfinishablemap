@@ -1,8 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-03T22:25:32+00:00
+ai_modified: 2026-11-04T05:34:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-04T05:34:22+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (`gemini-3-1-pro`, Deep Research), collected by collect-gemini-review. Commissioned 04:39:28Z; ready on the first collect attempt (05:22Z, about 43 min).
+- **File**: [[reviews/outer-review-2026-11-04-gemini-3-1-pro]] (subject: [[topics/phenomenology-of-agency-vs-passivity]], 3,697 of 4,000 by analyze_length)
+- **Extraction**: the last h1-bearing `.markdown-main-panel` was walked to markdown: 28,338 characters in 30 slices, and all 46 normalised paragraphs match the in-page body by hash. The 38-entry used-sources list came from `deep-research-source-lists .used-sources`. The subject article is not among the used sources; four sibling pages and five Map review pages are.
+- **Claims verified**: 40+ attributed strings were grep-counted on the live article, with positive controls, and 9 source checks were run (Crossref, OpenAlex abstracts, PubMed). Misattributed: "causal interface void" (title of `voids/causal-interface`, 0 hits on the article and in its history), "well-oiled hinge" (`concepts/skill-delegation` L84 and `apex/phenomenology-of-consciousness-doing-work` L127; it left the article in bade4080f2), and the DP-table "hinge/ipseity" row.
+- **Disputed**: W5 comparator "erasure" (L119 concedes the comparator model predicts the double dissociation). W4 neuroplasticity (L73 disclaims exactly that inference). Ciaunica 2022 is misapplied to W5. Norman et al. 2024 has no Crossref match. "van den Heuvel 2026" is out of window and rests on a profile page.
+- **High-value findings**: 3 verified. W1: L135 binding selectivity, contradicted by Suzuki et al. 2019 and Kong et al. 2024 and behind the article's own link target `topics/volitional-control` L128. W2: L133 "must derive" ignores predictive processing, which `volitional-control` L118 concedes. W3: the L143 illusionism equivocation, inconsistent with L137/L171.
+- **Tasks generated**: 2 (P2 ×2; active 315 → 317; todo L4226, L4249). A coordination clause was appended to the open P3 Ciaunica task (L2960). Combined planned growth on the page is about +202 of 302 usable.
+- **Pattern**: the third consecutive Gemini leg (after 11-02 and 11-03) to attribute sibling-page text to the reviewed article despite the prompt's guardrails. This time the source list shows why: Gemini never used the subject page itself.
+
 ---
 
 ## 2026-11-03T22:25:32+00:00 - refine-draft
