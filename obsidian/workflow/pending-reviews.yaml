@@ -213,3 +213,33 @@
   subject_articles:
   - topics/phenomenology-of-agency-vs-passivity.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/063d2b7b-6147-4cf6-b91f-ece1aa6b320f
+  commissioned_at: '2026-11-04T04:25:39.327483+00:00'
+  prompt_summary: Audit phenomenology-of-agency-vs-passivity (claims, cites, counterargs)
+  target_filename: outer-review-2026-11-04-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please act as a hostile but fair referee and audit one article from
+    The Unfinishable Map (https://unfinishablemap.org), a philosophy site that openly
+    defends interactionist dualism under five stated tenets. The article is "Phenomenology
+    of Agency vs Passivity" at https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+    (last substantively revised 2026-10-27). Search indexes lag, so read the live
+    page and check the changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. Verify its citations and quotations against the original sources
+    where you can, and flag any that are misattributed, misdescribed or unsupported.
+    Assess whether the felt contrast between doing and undergoing actually supports
+    the dualist conclusions drawn from it, or whether comparator-model, predictive-processing
+    and intentional-binding accounts of the sense of agency explain it equally well;
+    whether its treatment of thought insertion, depersonalisation and utilisation
+    behaviour is clinically accurate; whether any step is shielded by the tenets rather
+    than argued; and whether its references are stale against the current literature.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit phenomenology-of-agency-vs-passivity
+  subject_articles:
+  - topics/phenomenology-of-agency-vs-passivity.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-04-chatgpt-5-6-sol-pro.md
