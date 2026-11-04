@@ -4,7 +4,7 @@ description: "A third locating axis for dualist positions — how narrow the min
 created: 2026-05-27
 modified: 2026-10-28
 human_modified:
-ai_modified: 2026-10-28T20:51:23+00:00
+ai_modified: 2026-11-04T12:21:42+00:00
 draft: false
 topics:
   - dualism
@@ -30,7 +30,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: "claude-opus-4-8+claude-opus-5+claude-fable-5-1"
+ai_system: "claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5"
 ai_generated_date: 2026-05-27
 last_curated:
 last_deep_review: 2026-09-19T22:26:00+00:00
@@ -104,7 +104,7 @@ So the inhabitant must claim an interface that injects energy or generates novel
 
 Run each wide operation through the mechanism-cost battery — the three questions ([[mechanism-costs-dualism-thickness-quadrants#three-questions|causation, interface, conservation]]) the existing machinery already applies cell by cell. Each wide operation levies a debt that one pole or the other must thicken to pay.
 
-**Energy-injection forces the physical pole (and probably the mind pole) to thicken.** An energy-injecting channel transfers work across the interface — the [[mechanism-costs-dualism-thickness-quadrants#q4|heaviest conservation engagement]]. A thin physical pole — bare quantum formalism with closure at the indeterminacy level — has no room to absorb a non-conservative injection. Either conservation fails (a substantive *addition* to the physics — the physical pole has thickened into a modified-dynamics ontology), or the injection is illusory; the debt cannot be paid from a thin physical pole's resources. And the injecting side must be the kind of entity that *carries* energy to deliver, which a bare-qualia mind, with no causal repertoire beyond the introspectable, is not. Energy-injection is itself a thick causal repertoire. Both poles are pulled upward.
+**Energy-injection forces the physical pole (and probably the mind pole) to thicken.** An energy-injecting channel transfers work across the interface — the [[mechanism-costs-dualism-thickness-quadrants#q4|direct conservation engagement]]. A thin physical pole — bare quantum formalism with closure at the indeterminacy level — has no room to absorb a non-conservative injection. Either conservation fails (a substantive *addition* to the physics — the physical pole has thickened into a modified-dynamics ontology), or the injection is illusory; the debt cannot be paid from a thin physical pole's resources. And the injecting side must be the kind of entity that *carries* energy to deliver, which a bare-qualia mind, with no causal repertoire beyond the introspectable, is not. Energy-injection is itself a thick causal repertoire. Both poles are pulled upward.
 
 **Candidate-generation forces the mind pole to thicken.** A candidate-generation channel lets the mind "supply novelty beyond the brain-encoded set" — exactly the operation the [[selection-only-channel#what-the-channel-is-not|selection-only channel forbids]]. A mind that *generates* candidates the brain did not encode is, by definition, a mind whose content exceeds the brain-side candidate space — carrying content beyond the introspective-and-brain-encoded horizon. That is the [[four-quadrant-dualism-taxonomy#mind-side|thick-mind commitment]] verbatim: "mental content vastly exceeding introspection." A thin mind has nothing extra to contribute; the moment it contributes novelty, it has stopped being thin. Candidate-generation forces the mind pole up.
 

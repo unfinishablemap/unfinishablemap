@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T12:02:56+00:00
+ai_modified: 2026-11-04T12:21:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T12:21:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/dualism-channel-width-axis]]
+- **Original score**: n/a (targeted label fix; `scripts/curate.py` absent)
+- **Changes**: L107 wikilink label `[[mechanism-costs-dualism-thickness-quadrants#q4|heaviest conservation engagement]]` → `|direct conservation engagement]]` (3 words → 3, net 0). The 2026-11-04 deep review of the target applied methodology rule 2 (no unscaled comparatives): it renamed Q4 to "Charged on All Three" and withdrew the least-cost ranking, so the old superlative quoted a withdrawn verdict. The new label is the target's own Q4 wording ("Q4 appears to owe a direct conservation engagement"). No other comparative citing the target on L107. Anchor `{#q4}` still present at target L111. No other lines edited.
+- **Word count** (analyze_length): 3996 → 3996 (0; topics hard 4000, gate `>=`).
+- **Attribution**: ai_system appended `+claude-opus-5-5` (absent before); ai_modified 2026-11-04T12:21:42+00:00.
+- **Published**: yes
 
 ## 2026-11-04T12:02:56+00:00 - deep-review
 - **Status**: Success
