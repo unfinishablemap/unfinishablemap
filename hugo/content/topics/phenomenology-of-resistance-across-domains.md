@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-10-21 00:23:30+00:00
+ai_modified: 2026-11-04 22:24:24+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-04-16
-date: &id001 2026-10-21
+date: &id001 2026-11-04
 description: Resistance—felt pushback from objects, logic, morality, imagination,
   belief, and materials—shows a common phenomenological signature across domains,
   offering evidence for a unified consciousness encountering genuinely distinct constraints.
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-07 09:58:37+00:00
-lastmod: 2026-10-21 00:23:30+00:00
+lastmod: 2026-11-04 22:24:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ topics:
 
 Resistance—the felt experience of something pushing back against what consciousness is trying to do—recurs across domains that have almost nothing else in common. A heavy stone resists the arm that lifts it. A logical necessity resists the thought that would deny it. A moral obligation resists the temptation to betray it. A fictional claim ("torturing a child for fun was the right thing to do") resists being imagined from the inside. A belief resists being dropped on command. A piece of wood resists the chisel that would make it a face. These experiences have radically different objects, yet the phenomenal signature—something exerts itself, something pushes back, effort meets constraint—is strikingly similar.
 
-The Unfinishable Map proposes that this common signature is philosophically significant. If consciousness were merely a passive observer of neural processes, it could not encounter resistance; resistance requires something doing the pushing on one side and something holding firm on the other. On the Biranian thread the Map draws on, the felt duality of force-meeting-counterforce is the original datum from which our idea of causation derives—not a metaphor borrowed from physics and applied to cognition. A cross-domain phenomenology of resistance supplies evidence for Bidirectional Interaction that does not depend on any particular physical mechanism.
+The Unfinishable Map proposes that this common signature is philosophically significant. On the Biranian thread the Map draws on, the felt duality of force-meeting-counterforce is the original datum from which our idea of causation derives—not a metaphor borrowed from physics and applied to cognition. That duality is what [dualist interactionism](/concepts/interactionist-dualism/) expects, with something on the mental side doing the pushing and something holding firm. It fits [Bidirectional Interaction](/tenets/#bidirectional-interaction) without evidencing it, because dual-process and predictive accounts predict felt effort too ([effort is common ground](/concepts/consciousness-selecting-neural-patterns/#the-illusionist-challenge)).
 
 ## Six Domains of Resistance
 
@@ -118,7 +118,7 @@ The Map's own concept of [interface-friction](/concepts/interface-friction/) is,
 
 **[Dualism](/tenets/#dualism)**: The cross-domain unity of resistance phenomenology is more naturally explained on a dualist ontology than on a strict materialism. If consciousness is one thing and the domains it encounters (physical objects, logical necessities, moral demands, fictional propositions, evidential states, material affordances) are genuinely distinct kinds of "other," then a common resistance signature across these domains is exactly what we should expect: a single consciousness meeting six different kinds of not-consciousness. Materialism has to explain why a physical system generates the *same* phenomenal signature for encounters with its own internal constraints, with external objects, and with abstract or normative entities that have no obvious physical location.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The Map takes resistance as phenomenological evidence for bidirectional causation in the specific sense Biran developed. An epiphenomenal consciousness could not encounter resistance—there would be nothing on the mental side for matter to push back against. The very fact that consciousness meets counter-force in so many forms suggests it is doing something to which those forms respond. This argument does not depend on any particular mechanism of mind-matter interaction; it depends only on the phenomenological datum.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Resistance fits the tenet without establishing it. On the Map's Biranian reading, consciousness meeting counter-force in so many forms is doing something to which those forms respond. An [epiphenomenalist](/concepts/epiphenomenalism/) grants the felt encounter but gives the pushing to its neural correlate, which is what the counter-force meets. [Co-optimization](/topics/co-optimization-reply-to-the-correlation-problem/) then explains why the feeling tracks that work; the Map counts that reply's costs without claiming to refute it ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)). The fit needs no particular mechanism of mind-matter interaction, only the phenomenological datum.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map speculates—this is a genuinely speculative extension, flagged as such—that the common magnitude-like character of resistance across domains is consistent with a single interface whose operation is similar in kind wherever it operates. Biran provided the phenomenology without the physics; the minimal-interaction tenet provides one candidate physics. Neither commits the other.
 

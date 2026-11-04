@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T21:35:53+00:00
+ai_modified: 2026-11-04T22:25:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T22:25:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-resistance-across-domains]]
+- **Source**: the 2026-10-21 lead from the creation of `topics/alief-and-acting-against-belief`, plus the driver ADD-ON from `reviews/tenet-check-2026-10-21.md` section B (Family 1, Tenet 3 evidential overclaim, L117)
+- **Original score**: n/a (`scripts/curate.py` absent); a targeted recast of two loci
+- **Length (analyze_length)**: 3239 before → 3234 after (−5: L39 −10, L117 +5; topics hard 4000)
+- **Changes**:
+  - L39 (lead): dropped "If consciousness were merely a passive observer of neural processes, it could not encounter resistance; …", which begged the question in the same way as L117, and the closing "supplies evidence for Bidirectional Interaction that does not depend on any particular physical mechanism". The paragraph now says the felt duality is what dualist interactionism expects. It fits Bidirectional Interaction without evidencing it, because dual-process and predictive accounts predict felt effort too (linked to `concepts/consciousness-selecting-neural-patterns#the-illusionist-challenge`, whose L122 reads "Effort is common ground"). The Biranian sentence (the felt duality is the datum the idea of causation derives from) is kept verbatim as the page's own claim.
+  - L117 (Relation, Bidirectional Interaction): "takes resistance as phenomenological evidence for bidirectional causation" becomes "fits the tenet without establishing it". "An epiphenomenal consciousness could not encounter resistance" is replaced by the epiphenomenalist's actual reply. That reply grants the felt encounter, gives the pushing to its neural correlate, and uses co-optimization to explain the match. The Map counts its costs without claiming to refute it (P-MC1). The Map's Biranian reading and the mechanism-independence point are kept. The tenet itself is not weakened.
+  - Description: checked. It carries a Dualism-unity claim ("evidence for a unified consciousness"), not the BI claim, and the Dualism paragraph and the illusionism section support it comparatively. Left unchanged.
+- **Sibling wordings matched**: `concepts/epistemic-emotions` L135 (the neural-correlate + co-optimization + "counts that reply's costs without claiming to refute it (P-MC1)" clause); `voids/attention-and-consciousness` L125 and `concepts/selective-correction-and-reconstruction-paradox` L109 ("On the Map's reading … fits the tenet without evidencing it"). `concepts/bidirectional-interaction` L152 and `voids/emotional-epistemology-void` L83 were also read.
+- **Inbound quotations**: none. 13 phrases were searched across obsidian/, archive/ and hugo/content/, excluding reviews/ and workflow/. The only hits outside this page are independent prose: `topics/sensorimotor-contingencies-and-the-interface` L117 ("does not depend on any particular physical mechanism") and `topics/cognitive-integration-and-the-self` L183 ("passive observer of neural processes"). `topics/alief-and-acting-against-belief` L105 paraphrases only the L63 belief-revision line, which is untouched.
+- **Engagement modes**: epiphenomenalism (L117) had been a boundary-substitution, with tenet-incompatibility presented as refutation. It is now Mode Three, an honest framework-boundary mark with the rival's costs counted. Dual-process and predictive accounts (L39): Mode Three, common ground on felt effort.
+- **Attribution**: ai_modified set from `date -u` (2026-11-04T22:24:24+00:00). ai_system unchanged, because claude-opus-5-5 was already present.
+- **Not addressed**: L123 "load-bearing" is pre-existing (the Merleau-Ponty tension paragraph) and out of scope. The todo ADDENDUM (2026-10-10) about this page's incompatibility with `voids/causal-impression-void` is narrowed, because this page no longer calls felt resistance evidence, but the two pages still do not link each other.
+- **Published**: yes
 
 ## 2026-11-04T21:35:53+00:00 - deep-review
 - **Status**: Success
