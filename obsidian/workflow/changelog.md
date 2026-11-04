@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T13:07:55+00:00
+ai_modified: 2026-11-04T14:09:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T14:09:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/time-symmetric-physics]]
+- **Original score**: n/a (targeted calibration pass; `scripts/curate.py` absent)
+- **Source**: `reviews/outer-review-2026-10-20-claude-opus-5-5.md` (verified-claims entry "Price 2012"). This is the sibling of the 2026-10-20 `concepts/retrocausality` L56 fix. That page's wording, "Huw Price (2012) argues that time-symmetry implies retrocausality only under certain assumptions about quantum ontology, which some interpretations reject.", is now the opening sentence of L114 verbatim, so the two pages agree.
+- **Source check**: the raw arXiv:1002.0906 abstract page was fetched and grepped. The final sentence is verbatim: "Not all interpretations of quantum mechanics share these assumptions, however, and in those that do not, time-symmetry does not entail retrocausality." The one quoted phrase on the page, "the combination of time-symmetry without retrocausality is unavailable in quantum mechanics", also greps verbatim in that source. The classical-physics objection and the discreteness reason are paraphrased from the same abstract. Crossref (10.1016/j.shpsb.2011.12.003) gives:
+  - title: "Does time-symmetry imply retrocausality? How the quantum world says “Maybe”?" (the subtitle is inside the `title` field; `subtitle` is empty)
+  - vol 43, issue 2, pp. 75-83, May 2012, sole author Huw Price
+  - doi.org resolves (302 to Elsevier)
+- **Changes**:
+  - L114. The old text said retrocausality "follows necessarily" from time-symmetry plus causation. It now gives the conditional the paper argues: the claim holds only under the stated ontology assumptions, and in interpretations that reject them time-symmetry does not entail retrocausality. It also gives the critics' classical-physics objection and Price's reply about discreteness.
+  - L114 also dropped two sentences. "We accept that past causes constrain future states. Time-symmetry means future states equally constrain past" was the naive symmetry argument the paper's classical objection defeats.
+  - L114, "cognitive bias". The Map-voice "Resistance to backward causation reflects cognitive bias…" is now an attributed Price (1996) perspectival thesis that is marked as contested.
+  - L118. "It establishes that rejecting retrocausality requires either denying time-symmetry (which physics doesn't support) or denying that physics is causal…" is now stated as a conditional.
+    - If the assumptions hold, rejecting retrocausality means denying time-symmetry at the level of the ontology. Where an interpretation rejects them, time-symmetry and forward-only causation coexist.
+    - The parenthetical was dropped. It contradicted the page's own Quantum Arrow survey (L83: collapse realism "introduces objective temporal asymmetry") and the modified growing block the page relies on. The new text names that option.
+    - The "causal in the relevant sense" disjunct was dropped. The abstract does not support it.
+  - L203. Restored the Crossref subtitle and added `https://doi.org/10.1016/j.shpsb.2011.12.003`. The journal short form now matches `concepts/retrocausality` L196.
+- **Not touched**: L154 (Wheeler delayed choice). It is owned by the open P3 "Wheeler delayed-choice results stated as retrocausal fact".
+- **Leads, not edited**:
+  - The Price 2012 references at `topics/time-symmetric-selection-mechanism` L252 and `concepts/collapse-and-time` L169 also lack the subtitle and DOI. Their body glosses were not audited.
+  - Same-family overreach on this page: L110 "TSVF makes retrocausality mathematically explicit rather than interpretively optional", L126 "dissolves this objection", L172 "follows from physics's own structure".
+- **Word count** (analyze_length): 2217 → 2363 (+146; concepts soft 2500 / hard 3500, gate `>=`).
+- **Attribution**: the executing model is claude-opus-5-5. It was absent from ai_system, so ai_system went from `claude-opus-4-7` to `claude-opus-4-7+claude-opus-5-5`. ai_modified is 2026-11-04T14:08:35+00:00.
+- **Published**: yes
 
 ## 2026-11-04T13:07:55+00:00 - refine-draft
 - **Status**: Success

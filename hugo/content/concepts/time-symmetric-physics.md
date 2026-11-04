@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-03 16:41:50+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-11-04 14:08:35+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[retrocausality]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 08:23:30+00:00
-lastmod: 2026-08-03 16:41:50+00:00
+lastmod: 2026-11-04 14:08:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,11 +115,11 @@ TSVF makes [retrocausality](/concepts/retrocausality/) mathematically explicit r
 
 ### Price's Argument
 
-Philosopher Huw Price argues that if physics is time-symmetric and causal, retrocausality follows necessarily. We accept that past causes constrain future states. Time-symmetry means future states equally constrain past. Resistance to backward causation reflects cognitive bias—our evolved perspective as forward-moving agents—not physical principle.
+Philosopher Huw Price (2012) argues that time-symmetry implies retrocausality only under certain assumptions about quantum ontology, which some interpretations reject. Critics object that classical physics is fully time-symmetric yet shows no apparent retrocausality. Price replies that quantum mechanics differs: under those assumptions, "the combination of time-symmetry without retrocausality is unavailable in quantum mechanics", for reasons tied especially to the role of discreteness in quantum physics. In interpretations that do not share the assumptions, he notes, time-symmetry does not entail retrocausality. Price (1996) separately argues that the intuition that causes must precede their effects is perspectival, projected from our standpoint as agents deliberating toward the future rather than given by physics. That diagnosis is contested, but it bears on where the burden of proof lies.
 
 A common objection distinguishes mathematical symmetry from causal symmetry: equations may work equally well in both directions, but causation might be fundamentally forward-pointing. Price's response is that this asymmetric causation must then be justified—and physics provides no such justification. The causal arrow, if it exists, would be imposed on physics, not derived from it.
 
-Price's argument doesn't require accepting retrocausality in all contexts. It establishes that rejecting retrocausality requires either denying time-symmetry (which physics doesn't support) or denying that physics is causal in the relevant sense.
+Price's argument therefore yields a conditional rather than a verdict. If the ontological assumptions hold, rejecting retrocausality means denying time-symmetry at the level of the quantum ontology; where an interpretation rejects them, time-symmetry and forward-only causation can coexist. Denying time-symmetry at that level is also a live option within physics: collapse realism, on which the Map's modified growing block (below) relies, builds objective temporal asymmetry into measurement, as the quantum-arrow survey above records. Whether retrocausality follows thus turns on which quantum ontology one adopts, a question the dynamical equations leave open.
 
 ## Why Time-Symmetry Matters for Consciousness
 
@@ -204,7 +204,7 @@ Time-symmetric physics connects to the Map's [tenets](/tenets/) in several ways:
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
-1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
+1. Price, H. (2012). Does time-symmetry imply retrocausality? How the quantum world says "Maybe"? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83. https://doi.org/10.1016/j.shpsb.2011.12.003
 1. Wheeler, J. A., & Feynman, R. P. (1945). Interaction with the absorber as the mechanism of radiation. *Reviews of Modern Physics*, 17(2-3), 157.
 1. Stapp, H. P. (1999). Attention, intention, and will in quantum physics. *Journal of Consciousness Studies*, 6(8-9), 143-164.
 1. Vedovato, F., Agnesi, C., Schiavon, M., et al. (2017). Extending Wheeler's delayed-choice experiment to space. *Science Advances*, 3(10), e1701180.
