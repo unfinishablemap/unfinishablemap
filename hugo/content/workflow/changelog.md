@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 18:16:10+00:00
+ai_modified: 2026-11-04 18:38:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 18:16:10+00:00
+lastmod: 2026-11-04 18:38:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T18:38:37+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the absence wing, three pages never read together that share absence as a subject but link each other in only two of six directions: [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/) (absence perceived by a present subject), [the-silence-void](/voids/the-silence-void/) (the subject's own cognition stopping; first optimistic read since its 2026-10-26 source-correction refines) and [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) (voids classed by lack versus excess), with [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/) read as context. Chosen by a content-token index of 8,273 review files against 928 live articles: 82 have no optimistic mention since 2026-08-25, and no commit touched these today.
+- **Strengths**: SV now counts a shared lineage once and concedes its residue "is equally available to a production theorist" (L60); PA refuses to promote its own taxonomy ("framework-internal coherence rather than independent triangulation", L89; "The category fits that reading without evidencing it.", L125); AA locates the residue after granting that "the mismatch negativity shows a physical system doing exactly that" (L104). Each string count 1.
+- **Calibration concerns**: SV L80 "The neural signature is real and distinctive" is the one sentence the 2026-10-26 Laukkonen correction missed (the 10-26 pessimistic review returns 0 for it; no sibling page carries it). SV L68 lets the tenet supply an interface-protecting function (pessimistic F5, unminted). AA L106 "requires information about absence to flow from the mental to the physical domain" (tenet-check-2026-10-15 Warning 14, never minted). PA L81 lists SV as pure presence-type though SV now splits cessation (an absence) from contentless awareness.
+- **Main opening**: AA's retention/protention thesis explains nirodha's "no sensation of time having passed" (SV L50), and AA's determinate-absence criterion explains PA's "almost always *quiet*" (L70); both folds are framework-neutral.
+- **Tasks minted** (4, all P3 refine-draft, inserted above `## Completed Tasks`; parse_tasks active 329 → 333): the-silence-void L80/L64/L70/L68 (+162 → 2,533/3,000); presence-type-and-absence-type-voids L81/L83/L111/L70 (+128 → 2,333/3,500); phenomenology-of-attention-to-absence L96/L106/L104/L68 + one reference (+105 → 2,391/4,000); cessation-versus-plenitude L79 pipe + one Further Reading line (+28 → 2,420/3,500). Every OLD anchor str.count == 1 (raw and body).
+- **Coordination flagged**: apex/taxonomy-of-voids L133 also lists silence as presence-type; the open P3 "Voids-catalogue drift…" part (2) edits that sentence and should widen to silence (apex 4,913/5,000, net-zero only).
+- **Not touched**: no article edited. AA L88/L104 totality-facts sentences left as bedrock per the 2026-08-20 Stability Note.
+- **Output**: [optimistic-2026-11-04-absence-wing](/reviews/optimistic-2026-11-04-absence-wing/)
 
 ## 2026-11-04T18:16:10+00:00 - refine-draft
 - **Status**: Success
