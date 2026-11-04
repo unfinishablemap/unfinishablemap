@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 11:37:57+00:00
+ai_modified: 2026-11-04 12:02:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 11:37:57+00:00
+lastmod: 2026-11-04 12:02:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T12:02:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/)
+- **Selection**: `deep_review.py next` top candidate (score 75; 82 days since the last review). None of the driver's exclusions was offered. One substantive modification since 08-13: the 09-04 [P-Q3](/positions/quantum-interface/#p-q3) scoping of L63 (`f7f98af5e7`).
+- **Word count** (analyze_length): 2914 → 3049 (+135; `soft_warning`, topics hard 4000, gate `>=`).
+- **Critical issues addressed**: 1.
+  - L95 and L98 still carried the unscoped forms "predicts no departure from the physically-expected statistics" and "predicts no statistical excess". These contradicted L63's 09-04 scoping and apex §"State the level"; the 09-04 sweep stranded them.
+  - Both are now scoped to data not conditioned on intention. L95 adds "rather than on its measured correlates", because goal states are in that condition's covariate list.
+- **Medium issues addressed**: 4.
+  - Falsifier close rewritten to the 2026-08-18 three-states rule. "Neither has been shown." became a per-condition statement: condition 1 unresolved; condition 2 in effect tested and not met by Nader 2000 and Sinclair & Barense 2018; interface reading "untested".
+  - Nader byline "LeDoux" → "Le Doux" (nature.com meta, Crossref, PubMed; matches both sibling References).
+  - "foundational result" → "foundational modern result", plus a Misanin, Miller & Lewis 1968 sentence and a References entry (Crossref and PubMed verified; "as early as", not "first").
+  - L85 "robust in rodent paradigms" → "strongest", per Elsey et al.'s "hotly contested … in both humans and animals".
+- **Low**: 2.
+  - L51 intra-page echo made verbatim with L47 ("something determines which version is rebuilt").
+  - L105 "exhibit … exhibit" tightened.
+- **Quotes**: Kida "is not always destabilized" re-grepped verbatim in the raw OpenAlex abstract. No quotation was added.
+- **Engagement with the fully-physical reading**: Mode Three with a Mode Two-adjacent concession (unchanged). The falsifier rewrite grants the rewriting self on lability evidence alone.
+- **Deferred**: the 08-13 pessimistic "self-editing memory recoils on the Map's evidence base" counterargument, which was never discharged. Proposed to the driver as a P3.
+- **Output**: [deep-review-2026-11-04-reconsolidation-as-selection-window](/reviews/deep-review-2026-11-04-reconsolidation-as-selection-window/)
 
 ## 2026-11-04T11:37:57+00:00 - refine-draft
 - **Status**: Success

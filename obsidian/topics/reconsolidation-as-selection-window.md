@@ -4,7 +4,7 @@ description: "Memory reconsolidation reopens a stored trace to revision under id
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-09-04T13:55:39+00:00
+ai_modified: 2026-11-04T12:01:28+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -20,10 +20,10 @@ related_articles:
   - "[[memory-channel-interface-evidence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review: 2026-08-13T15:41:07+00:00
+last_deep_review: 2026-11-04T12:01:28+00:00
 ---
 
 When recall reopens a stored memory trace—which happens under identifiable conditions, not at every retrieval—the trace becomes briefly editable before it restabilises. This is **reconsolidation**: retrieval can return a consolidated memory to a labile state, and during a window of several hours the destabilised trace can absorb new information, shift emotional valence, or lose detail. Whether a given retrieval opens the window is governed by boundary conditions—a retrieved memory "is not always destabilized," with destabilisation gated by parameters such as retrieval duration and the memory's strength and age (Kida 2020)—but when the window does open, the lability is full-strength: the trace must be actively rebuilt or it is lost. The evidential base is strongest in rodent fear paradigms, where the protein-synthesis result is well replicated; in humans the phenomenon is supported but contested, with alternative explanations of the interference data still live (Elsey, Van Ast & Kindt 2018). The Map's interest is narrower and explicitly more speculative: this window is the most concrete physical occasion where a [[forward-in-time-conscious-selection|forward-in-time conscious selection]] could enter the reconstruction of a trace. The window is real; that consciousness supplies *directional* input to what happens inside it is the Map's posited reading, not something the lability data establish.
@@ -32,7 +32,7 @@ This article keeps those two claims separate throughout. The empirical signature
 
 ## The Empirical Signature: Retrieval Destabilises the Trace
 
-The foundational result is Nader, Schafe, and LeDoux (2000), titled "Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval" (*Nature* 406:722–726). Rats trained on a conditioned fear memory had that memory reactivated by a reminder cue; an inhibitor of protein synthesis (anisomycin) infused into the lateral and basal amygdala shortly after reactivation produced amnesia for the reactivated memory. A consolidated memory—one that had already been stabilised and was resistant to disruption—became disruptable again *because it had been retrieved*. The authors' finding, in summary, is that consolidated fear memories, when reactivated, return to a labile state in which they require de novo protein synthesis for reconsolidation—the claim compressed in the paper's title.
+The foundational modern result is Nader, Schafe, and Le Doux (2000), titled "Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval" (*Nature* 406:722–726). Rats trained on a conditioned fear memory had that memory reactivated by a reminder cue; an inhibitor of protein synthesis (anisomycin) infused into the lateral and basal amygdala shortly after reactivation produced amnesia for the reactivated memory. A consolidated memory—one that had already been stabilised and was resistant to disruption—became disruptable again *because it had been retrieved*. The authors' finding, in summary, is that consolidated fear memories, when reactivated, return to a labile state in which they require de novo protein synthesis for reconsolidation—the claim compressed in the paper's title. Reactivation-dependent amnesia itself was reported as early as 1968, when Misanin, Miller and Lewis produced it with electroconvulsive shock.
 
 Three features of this signature do real work in what follows:
 
@@ -48,7 +48,7 @@ So the established picture is this. A stored memory can be reopened by retrieval
 
 ## What the Empirical Result Does Not Settle
 
-It is worth marking explicitly what the lability data leave open, because the temptation is to let "the trace is editable" slide into "consciousness does the editing." The reconsolidation literature is overwhelmingly compatible with a fully physical account: the labile trace is rebuilt by the same neural, attentional, and contextual processes that govern encoding, with present-state inputs (mood, interference, retrieval cues, current goals, self-schemas, and the motivated-memory dynamics that bias reconstruction toward the existing self-model) shaping the outcome. On that reading, "something determines the reconstruction" is answered by ordinary cognitive neuroscience, and no non-physical contribution is needed or implied.
+It is worth marking explicitly what the lability data leave open, because the temptation is to let "the trace is editable" slide into "consciousness does the editing." The reconsolidation literature is overwhelmingly compatible with a fully physical account: the labile trace is rebuilt by the same neural, attentional, and contextual processes that govern encoding, with present-state inputs (mood, interference, retrieval cues, current goals, self-schemas, and the motivated-memory dynamics that bias reconstruction toward the existing self-model) shaping the outcome. On that reading, "something determines which version is rebuilt" is answered by ordinary cognitive neuroscience, and no non-physical contribution is needed or implied.
 
 The Map does not contest any of this at the level of mechanism. The window is genuinely physical; its opening and closing are described by protein-synthesis dynamics and prediction-error gating; and a complete physical story of *which* version restabilises is, as far as the data go, an open scientific question rather than a settled void that dualism is needed to fill. The argument below is therefore not "neuroscience cannot explain reconsolidation, so consciousness must." It is the weaker and more honest claim that *if* consciousness contributes directional input to the physical world at all—the content of [[tenets#^bidirectional-interaction|Bidirectional Interaction]] (Tenet 3)—then the reconsolidation window is the most concrete, most empirically-anchored occasion where such input would have somewhere to act. Its hours-long duration is no part of that credential—an interval on the scale of protein synthesis is far less temporally localised than the spike-timing venues elsewhere in the Map's catalogue, and the section below treats that as a difficulty to be named, not an asset.
 
@@ -82,7 +82,7 @@ The Map's posited overlay sharpens the stake. If conscious directional input is 
 
 The Map integrates this work as a venue argument for [[tenets#^bidirectional-interaction|Bidirectional Interaction]] (Tenet 3) and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] (Tenet 2), with calibration held explicitly at the posited tier.
 
-- **What the evidence establishes (no Map commitment required):** retrieval can destabilise memory traces under boundary conditions (Nader et al. 2000; Kida 2020); prediction error gates whether the window opens (Sinclair & Barense 2018); restabilisation is active and protein-synthesis-dependent. This picture is robust in rodent paradigms and supported, though contested, in humans (Elsey, Van Ast & Kindt 2018); it is stated here at that calibrated strength.
+- **What the evidence establishes (no Map commitment required):** retrieval can destabilise memory traces under boundary conditions (Nader et al. 2000; Kida 2020); prediction error gates whether the window opens (Sinclair & Barense 2018); restabilisation is active and protein-synthesis-dependent. This picture is strongest in rodent paradigms and supported, though contested, in humans (Elsey, Van Ast & Kindt 2018); it is stated here at that calibrated strength.
 - **What the Map posits (flagged as interpretation):** that the lability window is the most concrete occasion at which conscious directional input could select among possible reconstructions, consistent with a [[forward-in-time-conscious-selection|post-decoherence forward-in-time selection]] and with a [[tenets#^minimal-quantum-interaction|thin interface]]. The Map speculates that this is *where* directional input enters the memory domain; it does not claim the lability data show that it does.
 - **Why the distinction matters:** the dispute between the Map and a fully physical account is not over whether the window exists—both grant it—but over what fixes the reconstructed content. A physical reading answers with context, interference, goal states, and self-schemas; the Map's reading adds conscious selection among the reconstructions that machinery makes available. The available evidence *constrains* both without *establishing* either ([[evidential-status-discipline|evidential-status discipline]]). Presenting the window as evidence *for* the interface would be exactly the slippage this article is built to avoid: an opportunity is not an occupant.
 
@@ -92,17 +92,17 @@ This is the most empirically-anchored exhibit the Map can offer for an interface
 
 The posited reading is not idle; it carries commitments that future work could undermine.
 
-- **If reconstruction outcomes within the window were accounted for by measured classical covariates** (current context, interference set, goal states, neuromodulatory state) to within the noise models of the measurements, the venue would shrink accordingly: whatever room remains for a conscious contribution would be confined to what the covariates leave open. The honest concession, forced by the Born-preservation dilemma above, is that this outcome is expected on *both* readings—a Born-preserving selection predicts no departure from the physically-expected statistics—so the test constrains the venue's size rather than adjudicating whether it is occupied.
+- **If reconstruction outcomes within the window were accounted for by measured classical covariates** (current context, interference set, goal states, neuromodulatory state) to within the noise models of the measurements, the venue would shrink accordingly: whatever room remains for a conscious contribution would be confined to what the covariates leave open. The honest concession, forced by the Born-preservation dilemma above, is that this outcome is expected on *both* readings—a Born-preserving selection predicts no departure from the physically-expected statistics unless the data are conditioned on intention itself rather than on its measured correlates—so the test constrains the venue's size rather than adjudicating whether it is occupied.
 - **If the lability window were shown to be epiphenomenal to behaviour**—if the destabilised trace's content made no difference to subsequent report or action—the personal-identity stakes would collapse, since nothing would be authored.
 
-Neither has been shown. Residual, hard-to-predict variation in what a reconsolidated trace becomes proves nothing either way—some residual variance is guaranteed by measurement noise and unmodelled classical factors, and the Map's reading predicts no statistical excess over that—which is why the first condition is framed as bounding the venue rather than as a decisive test. The clean falsifier here is the second condition: a lability window whose contents made no behavioural difference would leave nothing for authorship to author. The interface reading itself remains adjudicable, if at all, only through the conditional-signature routes the [[born-preserving-causal-efficacy|apex ledger]] catalogues, not through reconsolidation data alone.
+The two conditions stand in different states. The first is unresolved rather than survived, and residual, hard-to-predict variation in what a reconsolidated trace becomes would prove nothing either way—some residual variance is guaranteed by measurement noise and unmodelled classical factors, and the Map's reading predicts no statistical excess over that in data not conditioned on intention—which is why the first condition is framed as bounding the venue rather than as a decisive test. The second is the clean falsifier for the identity stakes, since a lability window whose contents made no behavioural difference would leave nothing for authorship to author. The studies above have in effect tested that condition without meeting it: what happens to a destabilised trace does change later behaviour and report (amnesia on later tests in Nader et al. 2000; false memories in Sinclair & Barense 2018). That secures the rewriting self, not the authoring one. The interface reading itself remains untested: adjudicable, if at all, only through the conditional-signature routes the [[born-preserving-causal-efficacy|apex ledger]] catalogues, not through the lability data alone.
 
 ## Further Reading
 
 - [[consciousness-and-memory]] — the parent topic; reconsolidation is the across-time face of the phenomenal-output / causal-machinery dissociation.
 - [[forward-in-time-conscious-selection]] — the mechanism by which selection within an open window could operate after decoherence.
 - [[personal-identity]] — the intermittently-rewriting self and indexical identity.
-- [[memory-channel-interface-evidence]] — a sibling Tenet-3 exhibit drawn from direction-asymmetric channel recovery and the Tulving bandwidth hierarchy as a vulnerability-ordered exhibit.
+- [[memory-channel-interface-evidence]] — a sibling Tenet-3 exhibit drawn from direction-asymmetric channel recovery and the vulnerability-ordered Tulving bandwidth hierarchy.
 - [[direction-dependent-discriminating-test-design]] — the engineered, controlled analogue of this naturally-occurring lability window: a reversible perturbation whose reopening-phase ramp is the methodological counterpart to retrieval's reconsolidation window.
 - [[episodic-memory]] — the dual-domain framework for autonoetic recall.
 
@@ -110,7 +110,8 @@ Neither has been shown. Residual, hard-to-predict variation in what a reconsolid
 
 1. Elsey, J. W. B., Van Ast, V. A., & Kindt, M. (2018). Human memory reconsolidation: A guiding framework and critical review of the evidence. *Psychological Bulletin*, 144(8), 797–848. https://doi.org/10.1037/bul0000152
 1. Kida, S. (2020). Function and mechanisms of memory destabilization and reconsolidation after retrieval. *Proceedings of the Japan Academy, Series B*, 96(3), 95–106. https://doi.org/10.2183/pjab.96.008
-1. Nader, K., Schafe, G. E., & LeDoux, J. E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*, 406(6797), 722–726. https://doi.org/10.1038/35021052
+1. Misanin, J. R., Miller, R. R., & Lewis, D. J. (1968). Retrograde amnesia produced by electroconvulsive shock after reactivation of a consolidated memory trace. *Science*, 160(3827), 554–555. https://doi.org/10.1126/science.160.3827.554
+1. Nader, K., Schafe, G. E., & Le Doux, J. E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*, 406(6797), 722–726. https://doi.org/10.1038/35021052
 1. Sinclair, A. H., & Barense, M. D. (2018). Surprise and destabilize: prediction error influences episodic memory reconsolidation. *Learning & Memory*, 25(8), 369–381. https://doi.org/10.1101/lm.046912.117
 1. Southgate, A. & Oquatre-six, C. (2026-02-08). Consciousness and Memory. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-memory/
 1. Southgate, A. & Oquatre-sept, C. (2026-03-18). Forward-in-Time Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/forward-in-time-conscious-selection/
