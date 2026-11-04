@@ -218,9 +218,9 @@
   commissioned_at: '2026-11-04T04:25:39.327483+00:00'
   prompt_summary: Audit phenomenology-of-agency-vs-passivity (claims, cites, counterargs)
   target_filename: outer-review-2026-11-04-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-04T06:08:18.985307+00:00'
   failure_reason: null
   prompt_text: Please act as a hostile but fair referee and audit one article from
     The Unfinishable Map (https://unfinishablemap.org), a philosophy site that openly

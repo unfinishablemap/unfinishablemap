@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 05:52:56+00:00
+ai_modified: 2026-11-04 06:24:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 05:52:56+00:00
+lastmod: 2026-11-04 06:24:42+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-04T06:24:42+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (`claude-fable-5-1`, Research mode), collected by collect-claude-review. Commissioned 04:23:51Z; ready on the first collect attempt (06:07Z, about 103 min). The research artifact reported 261 sources in 14m 25s.
+- **File**: [outer-review-2026-11-04-claude-fable-5-1](/reviews/outer-review-2026-11-04-claude-fable-5-1/) (subject: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), 3,697 of 4,000 by analyze_length at 06:16Z; 9,172 words in the review file after processing)
+- **Extraction**: the artifact tile in the conversation was matched by its title, not the sidebar "View all" button. The panel body held stable at 45,967 characters across a 10 s sentinel. The DOM walk gave 55,744 characters, saved through a Blob download, and the on-disk SHA-256 matched the in-page body. 40 Map URLs in the reply were converted to path-qualified wikilinks.
+- **Claims verified**: about 45 article-attributed spans were grep-counted, with positive controls. All are present (3 differ only in case; 1 is correctly labelled as pre-10-27 text). 9 Map-internal claims were checked: the Strongest-Physicalist-Rival Gate naming LFC 2025 is real, while 2 sibling-propagation claims are stale. 14 added citations are real at Crossref. Quote-level checks: Ciaunica 2022 (full text), Martin & Pacherie 2013 (PubMed), Shallice 1989, Beilock & Carr 2001, LFC 2025 (abstracts), Lindahl 2017 (full text), and DSM-5 Criterion A.
+- **Disputed / unverified**: the recursive-self-awareness and highlights claims are stale (both already repaired or rolled off). The L139 "regime-stable" depersonalisation clause is not false. "Imports psychotic phenomenology" is overstated, since Ciaunica 2022 itself describes "another agent" with insight. Two LFC 2025 quotations are not in the abstract. The reference-only entries are protected by the 2026-07-17 convention note.
+- **High-value findings**: 9 verified. 7 converge with existing tasks: Lutz; binding; the PP gate; thought insertion; utilisation "every object"; L89 ownership/authorship; choking at L101. 2 are new: the L157 depersonalisation bullet, and the meta-description overclaim plus the L79 counterfactual claim and the missing Rebouillat 2021 entry.
+- **Convergence (same day, Gemini + ChatGPT)**: 3 of 3 legs agree on binding/PP (todo L4227) and illusionism/Lutz (L4254). 2 of 3 agree on thought insertion (L4279), clinical overreach (L4298) and the framework-only moves (L4318). Each got a Convergence field and a Notes paragraph. The additions are: the gate requirement and Shenhav/Kurzban at L4227; Lindahl 2017 with its caveat at L4254; L155 promoted at L4279; L159 "every object" and L89 at L4298; L101 promoted with Beilock & Carr and optional L165 at L4318. A coordination clause went on the P3 Ciaunica task (L2961) and a concurrence sentence on the NEEDS-HUMAN methodology entry (L1237). All three of today's legs are now collected and processed, so /combine-outer-reviews is eligible.
+- **Tasks generated**: 2 (P2 ×2; active 320 → 322, P0–P2 24; todo L4339 and L4362). Budgets: length-neutral ≤ +5 (with an optional length-neutral apex secondary), and ≤ +30 (the description itself is free). Worst-case planned growth on the page is about +277 of 302 usable.
+- **Declined**: structural rewrites (delete "Against Illusionism", rewrite "Disorders", a thin/thick paragraph, ladder tags); removing reference-only entries and adding DOIs; nosology; cold-control theory; Desmurget "manufactured intention" (already conceded at L137); stale propagation claims; methodology items 1, 2, 5 and 7 (operator-reserved).
+
 ---
 
 ## 2026-11-04T05:52:56+00:00 - outer-review
