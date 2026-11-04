@@ -2,9 +2,9 @@
 title: "Consciousness-Selecting Neural Patterns"
 description: "Consciousness selects which quantum possibilities become actual neural patterns. Three forward-in-time frameworks — Penrose OR, Stapp Zeno, Chalmers-McQueen CSL — show how selection operates at quantum indeterminacies where physics leaves outcomes open."
 created: 2026-01-16
-modified: 2026-10-20
+modified: 2026-11-04
 human_modified: null
-ai_modified: 2026-10-20T12:27:13+00:00
+ai_modified: 2026-11-04T14:25:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ If consciousness selects at the post-decoherence gap, specific neural "selection
 
 **Cortical microcolumn networks**: Keppler (2025) proposes that cortical microcolumns couple resonantly with the quantum electromagnetic zero-point field, forming coherence domains among which consciousness selects.
 
-**Attention networks** (Stapp): Mental effort corresponds to repeated "observations" holding neural patterns in place via the quantum Zeno effect—though the physics connecting attention-timescale events to femtosecond Zeno observations remains an open problem (see decoherence section below). The [[volitional-control|phenomenology of volitional control]] supplies first-person evidence for this mechanism.
+**Attention networks** (Stapp): Mental effort corresponds to repeated "observations" holding neural patterns in place via the quantum Zeno effect—though the physics connecting attention-timescale events to femtosecond Zeno observations remains an open problem (see decoherence section below). The [[volitional-control|phenomenology of volitional control]] fits this mechanism without singling it out.
 
 **Consciousness-collapse with CSL dynamics** (Chalmers-McQueen): Collapse rate depends on integrated information. Their key insight: if consciousness triggers collapse, the Zeno effect would prevent transitions between conscious states ("super-resistance"). Their solution uses gradual CSL collapse rather than instantaneous projection, avoiding Zeno freezing.
 
@@ -83,7 +83,7 @@ Policy-level selection respects conscious processing limits; a mechanism claimin
 
 ### The Active-Inference Rival
 
-The phrase "policy-level" is borrowed from a physicalist framework that natively models everything this section describes. Active inference—predictive processing's action-oriented extension under Friston's free energy principle—casts mental action as *policy selection over higher-level cognitive states* on a computational substrate. Sandved-Smith, Hesp, Mattout, Friston, Lutz and Ramstead (2021) build a hierarchical model in which attention is a controllable policy, mental effort is precision-weighting on that control, and the focus → distraction → meta-awareness → refocus cycle of sustained attention falls out of recursive precision dynamics. The bandwidth bottleneck, the felt cost of holding attention, and the coarse-grained allocation of detail where consciousness attends are all modelled without invoking anything non-physical—the strongest physicalist rival for this section's account, confronted here as such. The [[predictive-processing-and-dualism|Map's full engagement with active inference]] adopts its architecture while disputing its metaphysics.
+The phrase "policy-level" is borrowed from a physicalist framework that natively models everything this section describes. Active inference—predictive processing's action-oriented extension under Friston's free energy principle—casts mental action as *policy selection over higher-level cognitive states* on a computational substrate. Sandved-Smith, Hesp, Mattout, Friston, Lutz and Ramstead (2021) build a hierarchical model in which attention is a controllable policy, mental action is the deployment of precision, and the focus → distraction → meta-awareness → refocus cycle of sustained attention falls out of recursive precision dynamics. The bandwidth bottleneck and the coarse-grained allocation of detail where consciousness attends are both modelled without invoking anything non-physical—the strongest physicalist rival for this section's account, confronted here as such. The [[predictive-processing-and-dualism|Map's full engagement with active inference]] adopts its architecture while disputing its metaphysics.
 
 The disagreement is narrow. Over the control phenomena the two are nearly co-extensive: both describe attention as policy selection, mental effort as precision allocation, and predict the same focus-and-refocus dynamics. What conscious selection claims to add is not a *better* control architecture but an answer to a question active inference does not address: it specifies the control loop down to the point where precision-weighting settles competing hypotheses, but does not say which Born-rule-equiprobable micro-outcome the settling realises, because on its own terms that residual selection is brute chance. The Map proposes a conscious selector at exactly that step.
 
@@ -121,7 +121,7 @@ The Map's response: Frankish's move works for misrepresentations about external 
 
 **Effort is common ground.** Illusionists explain rather than deny the seeming of effort, which [active inference](#the-active-inference-rival) can model. Whether anything felt remains to be explained is the hard problem: a framework-boundary dispute, not a refutation.
 
-**Selection has measurable effects.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though only 18 participants, no independent same-method replication (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Calling selection "illusory" doesn't eliminate the phenomenon needing explanation.
+**Selection has measurable effects.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though only 18 participants, no independent same-method replication (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Illusionists grant functional selection, denying only its phenomenal character.
 
 **The dialectical situation is not settled.** Frankish's functional-seeming response is a serious philosophical position. What the regress establishes is that illusionism faces its own explanatory burden—the "illusion problem"—at least as demanding as the hard problem it replaces.
 

@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 14:09:43+00:00
+ai_modified: 2026-11-04 14:26:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 14:09:43+00:00
+lastmod: 2026-11-04 14:26:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T14:25:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Original score**: n/a (targeted attribution pass; `scripts/curate.py` absent)
+- **Source**: `reviews/outer-review-2026-10-20-claude-opus-5-5.md` (P3 "L86 credits Sandved-Smith et al. (2021) with modelling mental effort").
+- **Source check**: fetched the full text of PMC8396119 as raw JATS XML from Europe PMC (`/europepmc/webservices/rest/PMC8396119/fullTextXML`), stripped the tags, and grepped it.
+  - "deployment of precision" occurs 3 times, including "a formal treatment of mental action as the deployment of precision as proposed by Limanowski and Friston (2018)". The idea is Limanowski & Friston's and this paper formalises it, so the page paraphrases the phrase and does not quote it as a Sandved-Smith coinage.
+  - "effort" occurs exactly once: "Mental actions are categorized by their phenomenology of ownership, goal directedness, a subjective sense of effort, and the perceived sense of agency and mental self-control ( Metzinger and Wiese 2017 )". The paper names effort as a phenomenological marker of mental action. It does not model effort.
+  - "cost" occurs 0 times, "bandwidth" 0 times, and "precision-weighting" (hyphenated) 0 times. "precision weighting or precision control" occurs once, as the general definition.
+  - The page's italicised phrase "policy selection over higher-level cognitive states" is verbatim in the abstract: "we cast mental action as policy selection over higher-level cognitive states". This closes the review's open `?` item on that phrase.
+- **Changes**:
+  - L86 (0 words). "mental effort is precision-weighting on that control" → "mental action is the deployment of precision".
+  - L86 (−6 words). "The bandwidth bottleneck, the felt cost of holding attention, and the coarse-grained allocation … are all modelled" → "The bandwidth bottleneck and the coarse-grained allocation … are both modelled". The concession that active inference is the strongest physicalist rival is kept word for word.
+  - L124 (0 words). "Calling selection "illusory" doesn't eliminate the phenomenon needing explanation." → "Illusionists grant functional selection, denying only its phenomenal character." The old sentence had illusionists deny selection itself. They keep functional selection, which the PET effects bear on, and deny only its phenomenal character. That matches L118 (Frankish) and L122. The Schwartz 1996 sentence and the bolded heading were not touched.
+  - L62 (+1 word). "supplies first-person evidence for this mechanism" → "fits this mechanism without singling it out". The old wording conflicted with L122 ("Effort is common ground") and with the verification circularity in tenets L93 (tenet-check-2026-09-28 Family S).
+- **Engagement classification**: illusionism at L124 is Mode Three. The measurable effects do not refute illusionism within its own framework, so the sentence now marks where the disagreement lies.
+- **Leads, not edited**:
+  - L88 "both describe attention as policy selection, mental effort as precision allocation" makes the same effort-as-precision claim at framework level. Parr, Holmes, Friston & Pezzulo (2023, *Neuropsychologia* 184:108562; OpenAlex abstract checked) treat effort as covert mental action that overcomes "prior beliefs about how they would normally act". That is not precision allocation. A fix needs headroom and a parallel change on the Map side of the comparison.
+  - L122 `which [active inference](#the-active-inference-rival) can model` now draws its support from L88 alone. Parr et al. 2023 (already cited in `apex/attention-as-causal-bridge`) would be the right citation if headroom allows.
+  - The bandwidth bottleneck in L86 is a framework-level claim. It is not in Sandved-Smith (0 hits).
+  - No inbound quotations of any reworded sentence were found outside `reviews/` and `workflow/`.
+- **Word count** (analyze_length): 3498 → 3493 (−5; concepts soft 2500 / hard 3500, gate `>=`).
+- **Published**: yes
 
 ## 2026-11-04T14:09:43+00:00 - refine-draft
 - **Status**: Success
