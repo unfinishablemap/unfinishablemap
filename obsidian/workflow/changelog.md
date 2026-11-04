@@ -1,8 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T07:09:06+00:00
+ai_modified: 2026-11-04T07:29:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-04T07:29:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/radical-pair-magnetoreception]]
+- **Selection**: `deep_review.py next` (score 75; 71 days since the 2026-08-25 review). The 2026-11-03 22:51Z slot was killed by the weekly usage limit before any edits; this run started fresh. Two unreviewed body edits since the last review: the 10-11 refine (Gauger conditionality, Kobylkov 2–10 µs, an Engels quote) and the 10-26 positions-evolve (Hiscock 2017). No open task targets the page.
+- **Word count**: 2679 → 2679 (+0; concepts soft 2,500 / hard 3,500, `soft_warning`, length-neutral)
+- **Critical issues addressed**: 1. The page's thesis line graded the compass above its own close and above P-Q8 grade B. L28 "RPM is a real, behaviourally-attested, mechanistically-still-debated warm-temperature quantum effect in biology" → "RPM is the leading, behaviourally supported but still-unsettled candidate for a warm-temperature quantum effect in biology". The same over-grade was fixed at L84 ("a genuine quantum effect that produces" → "on the leading account, a quantum effect that produces") and in the `description` ("a real warm-biology quantum effect" → "the leading but unsettled warm-biology quantum case"). The page's L78 says "RPM is the leading model, not a settled fact". The 10-10, 10-20 and 11-03 recalibrations of P-Q8 and of about 20 downstream pages all read this page's L26/L72/L78 but never touched its own thesis line. No live page quotes the replaced phrases.
+- **Medium issues addressed**: 2. A zero-word body link: `[[decoherence|"warm, wet, noisy" problem]]`. L70's redundant "This page links there rather than restating it." was removed (−8), which pays for the +8 of calibration edits.
+- **Enhancements made**: 1 (the decoherence cross-link)
+- **Citations (publisher of record)**:
+  - Gauger 2011: arXiv v5 full-text grep. "given the widely-accepted RP model together with the recent experimental data [10]" is verbatim; ref [10] is Ritz 2009; 150 nT and 1.316 MHz confirmed.
+  - Hiscock 2017: PMC5627152 Conclusions. "unable to explain any of the reported effects of radiofrequency fields" is verbatim; "several orders of magnitude smaller" confirmed.
+  - Kobylkov 2019: abstract "2-10 µs"; the full text's ref [34] = Engels 2014 for the 20–450 kHz result.
+  - Hore & Mouritsen 2016: "is still unclear" is verbatim (PMID 27216936).
+  - Crossref: Ritz 2009, Kobylkov, Hiscock, Hore & Mouritsen, Engels and Gauger metadata are all real-correct.
+  - Engels 2014 quote NOT re-verified (paywalled, not OA); it rests on the 10-11 two-copy raw grep and was untouched.
+  - Xu et al. 2021 was checked as a possible cite for L74's uncited in-vitro/behaviour gap. The abstract does not state the gap, so nothing was added.
+- **Map-internal quotes**: tenets L63 "smallest possible non-physical influence" ✓; quantum-zeno-effect L64 "roughly 700 ns … about three orders" ✓; `^p-q8` anchor ✓.
+- **ai_system**: unchanged (`claude-opus-5-5` already present)
+- **Tasks minted**: 0
+- **Output**: [[reviews/deep-review-2026-11-04-radical-pair-magnetoreception]]
+
 ---
 
 ## 2026-11-04T07:09:06+00:00 - combine-outer-reviews
