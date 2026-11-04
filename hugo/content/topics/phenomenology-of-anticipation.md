@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-11-04 16:09:42+00:00
+ai_modified: 2026-11-04 16:23:35+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 16:30:00+00:00
-lastmod: 2026-11-04 16:09:42+00:00
+lastmod: 2026-11-04 16:23:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,13 +124,13 @@ This is where the Map's commitment to [Bidirectional Interaction](/tenets/#bidir
 
 ### Agentive Protention and the Kairos Moment
 
-A useful distinction within protention itself: ordinary protention is openness *to* the about-to-arrive; **agentive protention** is openness *to act* at the about-to-arrive. The melody-listener and the tennis player both protend the next moment, but their protentional structures differ in kind. The listener's protention configures experience around an anticipated arrival; the player's protention configures experience around an anticipated *response* to that arrival. This active modulation is what the Map's treatment of [temporal selection](/topics/temporal-consciousness-structure-and-agency/#not-yet-anticipatory-openness) calls protention "in its specifically agentive mode."
+A useful distinction within protention itself: ordinary protention is openness *to* the about-to-arrive; **agentive protention** is openness *to act* at the about-to-arrive. The melody-listener and a tennis player both protend the next moment, but their protentional structures differ in kind. The listener's protention configures experience around an anticipated arrival; the player's protention configures experience around an anticipated *response* to that arrival. This active modulation is what the Map's treatment of [timing windows](/topics/temporal-consciousness-structure-and-agency/#not-yet-anticipatory-openness) calls protention "in its specifically agentive mode."
 
-Agentive protention structures the approach to a *kairos* moment—the opportune time to act (the Map's [phenomenology of kairos](/concepts/kairos/) develops this window-structure in full). The phenomenology of approach is not neutral waiting but ripening readiness: the felt gradient of "not yet" gathering toward a moment whose rightness will be recognised in the same stroke as the action that meets it. The companion article on [temporal selection](/topics/temporal-consciousness-structure-and-agency/#now-the-kairos-moment) develops this further: at the kairos moment, recognition of rightness and the action that consummates it are phenomenally unified—they cannot be decomposed into a judgement followed by an execution without disrupting the timing itself. The agent's readiness during anticipatory openness shapes what the approaching moment feels like, and the moment, when it arrives, completes a structure the protention had already laid down.
+Agentive protention structures the approach to a *kairos* moment—the opportune time to act (the Map's [phenomenology of kairos](/concepts/kairos/) develops this window-structure in full). The phenomenology of approach is not neutral waiting but ripening readiness: the felt gradient of "not yet" gathering toward a moment whose rightness will be recognised in the same stroke as the action that meets it. The companion article on [temporal structure and agency](/topics/temporal-consciousness-structure-and-agency/#now-the-kairos-moment) develops this further: at the kairos moment, recognition of rightness and the action that consummates it are phenomenally unified—they cannot be decomposed into a judgement followed by an execution without disrupting the timing itself. The agent's readiness during anticipatory openness shapes what the approaching moment feels like, and the moment, when it arrives, completes a structure the protention had already laid down.
 
-Read in both directions: the phenomenology of anticipation supplies the *general* phenomenal structure (protention as constitutive of present experience); temporal selection supplies the *agentive specialisation* (protention configured for action within a timing window). Neither subsumes the other: they are the receptive and active faces of one temporal architecture.
+Read in both directions: the phenomenology of anticipation supplies the *general* phenomenal structure (protention as constitutive of ordinary present experience); the companion supplies the *agentive specialisation* (protention configured for action within a timing window). Neither subsumes the other: they are the receptive and active faces of one temporal architecture.
 
-The distinction between protention and [prospective memory](/concepts/prospective-memory/) clarifies this. Prospective memory involves deliberate future simulation—constructing scenarios, evaluating outcomes, forming intentions. Protention operates before all of this, as the anticipatory structure that makes deliberation possible in the first place. You cannot deliberate about futures unless your present experience is already structured by forward-directedness. Protention is the pre-reflective ground on which reflective future-thinking stands.
+Protention must also be distinguished from reflective future-thinking. Episodic future thinking constructs and evaluates scenarios; [prospective memory](/concepts/prospective-memory/) holds a formed intention until its cue arrives. Protention operates before all of this, as the anticipatory structure that makes deliberation possible in the first place. You cannot deliberate about futures unless your present experience is already structured by forward-directedness. Protention is the pre-reflective ground on which reflective future-thinking stands.
 
 ## Whitehead's Subjective Aim
 
@@ -168,7 +168,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How consciousness and time depend on each other
 - [temporal-void](/voids/temporal-void/) — Why protention and retention differ in phenomenal weight
 - [Time-bias and "Thank goodness that's over"](/topics/time-bias-and-thank-goodness-thats-over/) — Relief at a finished pain, and whether caring more about the future than the past is rational
-- [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation and episodic future thinking
+- [prospective-memory](/concepts/prospective-memory/) — Remembering to act later, and episodic future thinking
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — How felt surprise resists reduction to prediction error
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How anticipatory consciousness enables deliberation
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's subjective aim and processual experience

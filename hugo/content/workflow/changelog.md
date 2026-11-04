@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 16:10:10+00:00
+ai_modified: 2026-11-04 16:24:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 16:10:10+00:00
+lastmod: 2026-11-04 16:24:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T16:24:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
+- **Source**: [pessimistic-2026-11-04-phenomenology-of-anticipation](/reviews/pessimistic-2026-11-04-phenomenology-of-anticipation/) (Issue 2 / Priority 2), plus the 16:11Z driver addendum on L127. The page defined prospective memory as scenario construction, which is episodic future thinking. The linked concept page defines it as "remembering to perform planned actions in the future". Three link labels also still used the archived page's name, "temporal selection".
+- **Original score**: n/a (`scripts/curate.py` absent); targeted definitional fix
+- **Word count** (analyze_length): 3420 → 3429 (+9; topics soft 3000 / hard 4000, gate `>=`; budget ≤ +10 net-neutral). Line count unchanged at 196.
+- **Changes**:
+  - L129, old: "The distinction between protention and [prospective memory](/concepts/prospective-memory/) clarifies this. Prospective memory involves deliberate future simulation—constructing scenarios, evaluating outcomes, forming intentions." New: "Protention must also be distinguished from reflective future-thinking. Episodic future thinking constructs and evaluates scenarios; [prospective memory](/concepts/prospective-memory/) holds a formed intention until its cue arrives." (+5). The old lead's "clarifies this" pointed at the L119 deliberation paragraph. It has dangled since the 2026-05-19 kairos subsection (200cdc6382) was inserted between them, so the new lead stands on its own. "Protention operates before all of this" now refers to the EFT and PM pair.
+  - L167 Further Reading gloss, old: "Deliberate future simulation and episodic future thinking". New: "Remembering to act later, and episodic future thinking" (+1). This compresses the concept page's own description.
+  - L123: "the tennis player" → "a tennis player" on first mention (±0). The link label "temporal selection" → "timing windows" (±0). The anchor `#"Not Yet": Anticipatory Openness` is kept.
+  - L125: the link label "temporal selection" → "temporal structure and agency" (+2), matching the live title "Temporal Consciousness: Structure and Agency". The anchor `#"Now": The Kairos Moment` is kept.
+  - L127: "(protention as constitutive of present experience)" → "(protention as constitutive of ordinary present experience)" (+1), matching task 1's scoping at L51/L69/L135/L137. "temporal selection supplies" → "the companion supplies" (±0).
+- **Engagement classification**: no named-opponent engagement was edited.
+- **Kept intact**: L51 (including "[episodic future thinking](/concepts/prospective-memory/)"), L69, L113, L135 and L137 from task 1; L143/L145 and L157, which belong to the open P3.
+- **Pronoun check**: L123's "the player's protention" resolves to "a tennis player". L127's "Neither … they" resolves to the two articles. L129's "all of this" resolves to EFT and PM.
+- **Inbound quotations**: the old L129 and L167 wording appears outside this page only in `archive/concepts/protention.md` (archived, left alone). `concepts/temporal-consciousness` L134 makes the same definitional error in its own words ("Unlike [prospective-memory](/concepts/prospective-memory/) (deliberate future simulation)"). It is out of this task's scope and was flagged to the driver.
+- **Attribution**: the executing model is claude-opus-5-5. It is already in ai_system, so nothing was appended. ai_modified was set from `date -u` (2026-11-04T16:23:35+00:00).
+- **Published**: yes
 
 ## 2026-11-04T16:10:10+00:00 - refine-draft
 - **Status**: Success
