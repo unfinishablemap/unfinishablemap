@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 19:23:58+00:00
+ai_modified: 2026-11-04 19:51:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 19:23:58+00:00
+lastmod: 2026-11-04 19:51:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T19:51:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [type-token-causation](/concepts/type-token-causation/)
+- **Word count**: 3,172 → 3,274 (+102; `analyze_length` body-only; concepts hard 3,500, gate `>=`)
+- **Critical issues addressed**: 7. (C1) L60 Kim generalisation reversed: Kim 2005 ch. 2 pp. 52–69 *rejects* the generalisation and drainage arguments (Google Books in-volume: p. 56 "does not eliminate all macrocausation", p. 68 "Reduction is the stopper"); now critics (Block 2003, added) press it and Kim denies it. (C2) Deleted the false claim that `topics/consciousness-and-cognitive-distinctiveness` uses type-token at the token level (0 "token" hits in any version). (C3) Delegation pairing that `apex/interface-specification-programme` retracted on 07-27: L96, L114 and both Further Reading labels now say "alternatives rather than one mechanism". (C4) Family 2 chance-fixing concession installed (lead, L80, L90, old L134), worded as on causal-exclusion-argument L79 and causal-closure L138. (C5) Tenet 2 minimality was equated with exact Born preservation (lead, L94, RSP); now an empirical constraint, with the corridor as the endorsed default reading; "causally complete" → "still fixes every chance" (tenets L67). (C6) L126/L130: "predicts" → "is committed to"; warm-brain coherence scoped to the coherence-dependent candidates (tenets L79, falsification-roadmap L79). (C7) "branch-counting Bayesianism" → "uncertainty-based accounts of probability" (Sebens-Carroll abstract rejects equiprobable branches).
+- **Medium issues addressed**: 5. L76 "any non-Many-Worlds" → "any indeterministic, single-outcome" (removes the clash with the L78 Bohmian caveat); interface-threshold and phenomenal-output deployment descriptions made accurate; "load-bearing ways" removed; description field calibrated.
+- **Enhancements made**: 3. Body links to [causal-closure](/concepts/causal-closure/) and a second use of [interface-specification-programme](/apex/interface-specification-programme/); the internal IIT quote aligned to the source's dash spacing.
+- **Citations**: per-cite ledger in the review. Balog 2012 and Block 2003 Crossref-verified; Saad 182(3–4) confirmed; all others real-correct.
+- **Engagement modes**: Kim, Mode One; chance-fixing closure, Mode Three; Bohm, Mode Three; phenomenal-concept strategy, Mixed; MWI, Mode Three; Popperian, Mode Three.
+- **Not touched (open task)**: Further Reading L157 Davidson "lawless mental" label belongs to the open P3 Davidson-strict-laws task, item (c).
+- **ai_system**: appended `+claude-opus-5-5`.
+- **Output**: [deep-review-2026-11-04-type-token-causation](/reviews/deep-review-2026-11-04-type-token-causation/)
 
 ## 2026-11-04T19:23:58+00:00 - refine-draft
 - **Status**: Success
