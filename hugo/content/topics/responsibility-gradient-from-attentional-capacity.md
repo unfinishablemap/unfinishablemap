@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-23 12:04:42+00:00
+ai_modified: 2026-11-04 15:38:38+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[reasons-responsiveness]]'
 - '[[working-memory]]'
 created: 2026-02-19
-date: &id001 2026-10-23
+date: &id001 2026-11-04
 description: Moral responsibility is not binary but graded by attentional capacity—the
   conscious bandwidth available for deliberation, foresight, and self-regulation shapes
   how much desert an agent bears.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 15:12:26+00:00
-lastmod: 2026-10-23 12:04:42+00:00
+lastmod: 2026-11-04 15:38:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,7 +141,7 @@ The dominant alternatives to graded responsibility are both unsatisfying within 
 
 The gradient occupies the space between these extremes. Agents are genuine authors of their choices (against hard determinism), but the breadth and depth of their authorship varies with the attentional resources available for the authoring (against naive compatibilism).
 
-The moral implications extend in both directions. Where most discussions of graded responsibility focus on diminishment—reducing desert when capacity is impaired—genuine agency intensifies responsibility at the upper end. An agent operating at full attentional capacity who chose to cause harm, when they genuinely could have chosen otherwise and had the bandwidth to foresee the consequences, bears a weight of desert that deterministic frameworks cannot ground. Under physicalism, even the clearest-headed wrongdoer is ultimately the output of prior causes; under [agent-causation](/concepts/agent-causation/), they are the irreducible author of a choice they had the full resources to make differently.
+The moral implications extend in both directions. Where most discussions of graded responsibility focus on diminishment—reducing desert when capacity is impaired—genuine agency intensifies responsibility at the upper end. On the Map's interactionist model, an agent operating at full attentional capacity who chose to cause harm, when they genuinely could have chosen otherwise and had the bandwidth to foresee the consequences, bears a weight of desert that deterministic frameworks cannot ground. Under physicalism, even the clearest-headed wrongdoer is ultimately the output of prior causes; under [agent-causation](/concepts/agent-causation/), they are the irreducible author of a choice they had the full resources to make differently. That model's causal-selection thesis is so far only a [framework-internal coherence result](/positions/quantum-interface/#mechanism-debt), and the desert claim inherits that standing.
 
 ## Objections
 

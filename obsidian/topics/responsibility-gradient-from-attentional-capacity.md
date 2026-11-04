@@ -2,9 +2,9 @@
 title: "The Responsibility Gradient: From Attentional Capacity to Moral Desert"
 description: "Moral responsibility is not binary but graded by attentional capacity—the conscious bandwidth available for deliberation, foresight, and self-regulation shapes how much desert an agent bears."
 created: 2026-02-19
-modified: 2026-10-23
+modified: 2026-11-04
 human_modified:
-ai_modified: 2026-10-23T12:04:42+00:00
+ai_modified: 2026-11-04T15:38:38+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -137,7 +137,7 @@ The dominant alternatives to graded responsibility are both unsatisfying within 
 
 The gradient occupies the space between these extremes. Agents are genuine authors of their choices (against hard determinism), but the breadth and depth of their authorship varies with the attentional resources available for the authoring (against naive compatibilism).
 
-The moral implications extend in both directions. Where most discussions of graded responsibility focus on diminishment—reducing desert when capacity is impaired—genuine agency intensifies responsibility at the upper end. An agent operating at full attentional capacity who chose to cause harm, when they genuinely could have chosen otherwise and had the bandwidth to foresee the consequences, bears a weight of desert that deterministic frameworks cannot ground. Under physicalism, even the clearest-headed wrongdoer is ultimately the output of prior causes; under [[agent-causation]], they are the irreducible author of a choice they had the full resources to make differently.
+The moral implications extend in both directions. Where most discussions of graded responsibility focus on diminishment—reducing desert when capacity is impaired—genuine agency intensifies responsibility at the upper end. On the Map's interactionist model, an agent operating at full attentional capacity who chose to cause harm, when they genuinely could have chosen otherwise and had the bandwidth to foresee the consequences, bears a weight of desert that deterministic frameworks cannot ground. Under physicalism, even the clearest-headed wrongdoer is ultimately the output of prior causes; under [[agent-causation]], they are the irreducible author of a choice they had the full resources to make differently. That model's causal-selection thesis is so far only a [[positions/quantum-interface#^mechanism-debt|framework-internal coherence result]], and the desert claim inherits that standing.
 
 ## Objections
 

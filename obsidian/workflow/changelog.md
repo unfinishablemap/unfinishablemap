@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T15:07:34+00:00
+ai_modified: 2026-11-04T15:39:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T15:39:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Source**: [[reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro]] (§2.5 desert-opacity residue). Task: L140 lacked the mechanism-debt citation grade.
+- **Original score**: n/a (`scripts/curate.py` absent); targeted single-claim calibration
+- **Word count** (analyze_length): 3278 → 3302 (+24; topics soft 3000 / hard 4000, gate `>=`)
+- **Changes**:
+  - L140: the desert claim is now conditional. The sentence opens "On the Map's interactionist model, an agent operating at full attentional capacity …".
+  - L140: added a closing sentence: "That model's causal-selection thesis is so far only a [[positions/quantum-interface#^mechanism-debt|framework-internal coherence result]], and the desert claim inherits that standing." This applies the `positions/quantum-interface` L45 convention: an article that builds a normative conclusion on consciousness doing causal work inherits the debt and must not read more confident than the register. The link reuses the block-ref syntax of `arguments/arguments` L43.
+  - Engagement with physicalism/hard determinism at L140: Mode Three. The desert is now stated inside the Map's model rather than as something deterministic frameworks are refuted for lacking.
+- **Kept intact**: L148's capacity/exercise paragraph ("The desert claimed above that deterministic frameworks cannot ground rests on exercise …", count 1). Its back-reference still lands, because "deterministic frameworks cannot ground" is unchanged at L140. L61 "can exercise" is unchanged. The desert claim itself is retained.
+- **Inbound quotations**: none. Seven L140 fragments were grepped across obsidian/, hugo/content/ and archive/, excluding reviews/ and workflow/. Each hit only this article and its hugo copy.
+- **Not touched (lead)**: the Relation section's Bidirectional Interaction line ("The gradient specifies that consciousness exercises causal power through attention") is also stated without the grade. It was outside this task's L140 scope.
+- **Attribution**: ai_system already ends in claude-opus-5-5, so nothing was appended. human_modified was left alone. ai_modified was set from `date -u`.
+- **Published**: yes
 
 ## 2026-11-04T15:07:34+00:00 - refine-draft
 - **Status**: Success
