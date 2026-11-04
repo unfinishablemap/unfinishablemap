@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-11-04 09:13:16+00:00
+ai_modified: 2026-11-04 09:42:18+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -35,7 +35,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:47:40+00:00
-lastmod: 2026-11-04 09:13:16+00:00
+lastmod: 2026-11-04 09:42:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ Every moment of experience falls somewhere on an axis between doing and undergoi
 
 At the active pole, experience has a distinctive character. When you deliberate and choose, direct attention voluntarily, or initiate a physical movement, several phenomenal features present themselves:
 
-- **Effort**: Active states feel like work. Sustaining focus on a difficult text, resisting distraction, or holding a decision open all involve phenomenal cost. The [phenomenology of effort](/concepts/mental-effort/) tracks real cognitive demand. On the Map's reading, hard tasks feel hard because consciousness is doing more, though a common neural cause of demand and feeling predicts the same fit. [Volitional control research](/topics/volitional-control/) identifies effort as one of four distinguishable components of willing, alongside initiation, sustained control, and veto. Schwartz et al. (1996) reported a result consistent with that reading: OCD patients who exert sustained mental effort to reframe intrusive thoughts show measurable decreases in caudate nucleus activity on PET scans. A small single-group study, it is equally predicted by therapy-induced plasticity on a physicalist account, so it fits effort as causal engagement without establishing it.
+- **Effort**: Active states feel like work. Sustaining focus on a difficult text, resisting distraction, or holding a decision open all involve phenomenal cost. The [phenomenology of effort](/concepts/mental-effort/) tracks real cognitive demand. On the Map's reading, hard tasks feel hard because consciousness is doing more, though a common neural cause of demand and feeling predicts the same fit. [Volitional control research](/topics/volitional-control/) identifies effort as one of four distinguishable components of willing, alongside initiation, sustained control, and veto. Schwartz et al. (1996) reported a result consistent with that reading: OCD patients who responded to ten weeks of effortful exposure-and-response-prevention therapy showed reduced caudate glucose metabolism on PET scans. A small single-group study, it is equally predicted by therapy-induced plasticity on a physicalist account, so it fits effort as causal engagement without establishing it.
 
 - **Authorship**: Actions feel *mine* in a way observations do not. The [sense of agency](/concepts/phenomenology-of-choice-and-volition/) after a decision—"I chose this"—is a distinctive phenomenal quality absent from passively received outcomes.
 
@@ -90,7 +90,7 @@ At the passive pole, experience has a different character entirely:
 
 - **Givenness**: Passive experience presents itself as already determined. The world is a certain way and you register it.
 
-- **No authorship**: When a memory surfaces involuntarily or an emotion sweeps through you, the sense of ownership is diminished or absent. These happen in you, not through you.
+- **No authorship**: When a memory surfaces involuntarily or an emotion sweeps through you, the sense of authorship is diminished or absent. These happen in you, not through you.
 
 - **Temporal receptivity**: The passive pole is present-oriented rather than future-directed. You are receiving what is, not shaping what will be.
 
@@ -116,15 +116,15 @@ This creates a genuine tension for the article's core argument. If phenomenal ef
 
 Dreaming inverts normal phenomenology in instructive ways. In ordinary dreams, events happen to the dreamer—bizarre scenarios unfold without the dreamer questioning or directing them. Agency is minimal. Yet the dreamer's brain generates the entire scenario, and the dreamer is the protagonist experiencing it. Neural production is active; conscious experience is passive. This dissociation between causal production and phenomenal authorship reveals that agency phenomenology does not automatically accompany the generation of experiential content.
 
-[Lucid dreams](/topics/dream-consciousness/) restore the agency pole. The dreamer recognises they are dreaming and begins directing the dream. The transition from ordinary to lucid dreaming is phenomenologically vivid: passivity gives way to agency within the same experiential context, demonstrating that the contrast is real and not merely conceptual.
+[Lucid dreams](/topics/dream-consciousness/) can restore the agency pole, though lucidity does not guarantee control. The dreamer recognises they are dreaming and may begin directing the dream. Where that happens, the transition is phenomenologically vivid: passivity gives way to agency within the same experiential context, demonstrating that the contrast is real and not merely conceptual.
 
 ### Hypnosis and Involuntary Movement
 
-Under hypnosis, subjects report that their arm rises "by itself." The motor output is present, but the sense of agency is absent. Conversely, Desmurget et al. (2009) found that direct electrical stimulation of the parietal cortex during neurosurgery produced a vivid sense of intending to move—even a false belief of having moved—without any actual movement occurring. Premotor stimulation produced the reverse: real movement without awareness. These dissociations show that agency phenomenology can come apart from the physical movements it normally accompanies. That much does refute the simplest readout account: if the sense of agency were nothing but the brain's registration of its own executed motor commands, parietal stimulation could not produce vivid intention with no movement to register. What it leaves open is the wider question, since a comparator or higher-order model locates the sense of agency in circuitry distinct from the motor pathway and so predicts the same double dissociation. The finding constrains which physicalist architectures remain available rather than telling against physicalism as such.
+Under hypnosis, subjects report that their arm rises "by itself." The motor output is present, but the sense of agency is reduced or altered, varying with suggestion and hypnotisability. Conversely, Desmurget et al. (2009) found that direct electrical stimulation of the parietal cortex in seven neurosurgical patients produced a vivid sense of intending to move—even a false belief of having moved—without any actual movement occurring, though such stimulation may deactivate rather than activate tissue. Premotor stimulation produced the reverse: real movement without awareness. These dissociations show that agency phenomenology can come apart from the physical movements it normally accompanies. That much does refute the simplest readout account: if the sense of agency were nothing but the brain's registration of its own executed motor commands, parietal stimulation could not produce vivid intention with no movement to register. What it leaves open is the wider question, since a comparator or higher-order model locates the sense of agency in circuitry distinct from the motor pathway and so predicts the same double dissociation. The finding constrains which physicalist architectures remain available rather than telling against physicalism as such.
 
 ### Ownership Without Agency
 
-Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
+Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying authorship or control of its actions (agency). The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient intending it. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
 
 This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [mine-ness](/concepts/mine-ness/) and dissociates from agency only on the standard but most contested agency reading of [thought insertion](/concepts/thought-insertion/): agency lost, ownership preserved. [Depersonalisation](/concepts/depersonalisation/) disturbs ownership, but whether felt initiation survives depends on the reading: on the Gallagher-style reading it does, while [active-inference accounts](/concepts/depersonalisation/#the-active-inference-self-model) find felt control disturbed as well, and the clinical sketch below records actions feeling automatic. The dissociation is therefore at most one-way, and only on the agency reading. Anarchic hand still shows that the sense of agency is not simply body-ownership plus motor output, since that package can be present while agency is missing. What more is required is a framework-internal question; the Map's answer—genuine conscious selection—is a reading it defends on other grounds, not something the dissociations alone establish.
 
@@ -160,7 +160,7 @@ Pathological cases illuminate the structure (see [clinical phenomenology and alt
 
 - **Depersonalisation**: Actions feel automatic, as if performed by someone else. The entire experiential field shifts toward passivity. Patients describe watching themselves act without feeling like the actor.
 
-- **Utilisation behaviour** (Lhermitte, 1983): Patients with frontal damage act on every object they encounter—seeing scissors, they cut; seeing a pen, they write. The stimuli drive action directly, bypassing the agentic deliberation that would normally intervene. Passivity in the face of affordances replaces active selection.
+- **Utilisation behaviour** (Lhermitte, 1983): Patients with frontal damage act on objects placed before them—seeing scissors, they cut; seeing a pen, they write. With frontal inhibition suppressed, affordances capture action: to the patients, presentation "implies the order to grasp and use them". No felt passivity is reported.
 
 Each disorder strips away a component normally bundled with agency, suggesting that the phenomenology of doing involves multiple separable elements: authorship, effort, control, and ownership. A physicalist could read these dissociations as evidence that agency is constructed from separable neural modules. But the fact that each module carries a distinctive *phenomenal character*—not just a functional role—is harder for purely physical accounts to explain. Why does the loss of authorship *feel* different from the loss of control, if both are just changes in information processing?
 

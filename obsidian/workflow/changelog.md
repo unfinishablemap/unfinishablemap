@@ -1,8 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T09:14:06+00:00
+ai_modified: 2026-11-04T09:42:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-04T09:42:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Task**: P1 clinical and altered-state overreach, L73/L89/L115/L119/L123/L159 (step 4 of 8; synthesis C10–C12, X1, R3; review files: the 2026-11-04 chatgpt-5-6-sol-pro and claude-fable-5-1 outer reviews)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 3813 → 3837 by analyze_length (+24 of the ≤ +30 cap; topics 3000/4000, gate `>=`). The step-4 worst-case running total is 3847, so 10 words of slack pass to steps 5–8. No reference entries added or removed.
+- **Changes** (work order a > f > g > b > c > d > h > e):
+  - (a)+(f) L159, +2: "act on every object they encounter" → "act on objects placed before them" (Shallice et al. 1989's induced form); "The stimuli drive action directly, bypassing the agentic deliberation that would normally intervene. Passivity in the face of affordances replaces active selection." → "With frontal inhibition suppressed, affordances capture action: to the patients, presentation \"implies the order to grasp and use them\". No felt passivity is reported." Quote verbatim in the PubMed 6850269 abstract ("For the patients, the presentation of objects implies the order to grasp and use them.").
+  - (g) L89, 0: "the sense of ownership is diminished or absent" → "the sense of authorship is diminished or absent".
+  - (b) L119, +7: "the sense of agency is absent" → "the sense of agency is reduced or altered, varying with suggestion and hypnotisability". Martin & Pacherie 2019 abstract read (PubMed 30604989; OpenAlex and PubMed agree) but not cited: the in-text naming plus a reference entry costs about +30, which the cap cannot absorb.
+  - (c) L115, +6: "Lucid dreams restore the agency pole" → "can restore the agency pole, though lucidity does not guarantee control"; "begins directing" → "may begin directing"; "The transition from ordinary to lucid dreaming is" → "Where that happens, the transition is". There is no new reference: the existing [[dream-consciousness]] link carries it (sibling L133: "Control is not guaranteed"). The protected last clause is untouched.
+  - (d) L123, 0: "while denying that its actions are *theirs* (agency)" → "while denying authorship or control of its actions (agency)"; "all without the patient's sense of authorship" → "all without the patient intending it". This stays consistent with L125's "since that package can be present while agency is missing".
+  - (h) L73, −2: "OCD patients who exert sustained mental effort to reframe intrusive thoughts show measurable decreases in caudate nucleus activity" → "OCD patients who responded to ten weeks of effortful exposure-and-response-prevention therapy showed reduced caudate glucose metabolism", per the PubMed 8629886 abstract. "consistent with that reading", "single-group" and the final concession are kept.
+  - (e) L119, +11: "during neurosurgery" → "in seven neurosurgical patients" (PubMed 19423830); appended ", though such stimulation may deactivate rather than activate tissue" (Karnath, Borchers & Himmelbach 2010, PubMed 20203033, "possibly evokes deactivation"). No new reference.
+- **Engagement classification** (changelog only): L119 hypnosis is a source-calibration downgrade, not an opponent reply. The physicalist rival stays engaged by the paragraph's existing comparator / higher-order sentence, which is Mode Three boundary-marking and unchanged.
+- **Left for others**: (5) owns L161, "Each disorder strips away a component normally bundled with agency". L159 now records no felt passivity for utilisation behaviour, so if (5) touches L161 it should not count utilisation behaviour as a stripped *phenomenal* component. L139 (nobody's) still lists "the Desmurget stimulation findings" as regime-stable; it is untouched and now sits beside the L119 deactivation caveat.
+- **ai_system**: unchanged (`claude-opus-5-5`, the executing model, is already present)
+- **ai_modified**: 2026-11-04T09:42:55+00:00
+- **Published**: yes
+
 ---
 
 ## 2026-11-04T09:14:06+00:00 - refine-draft
