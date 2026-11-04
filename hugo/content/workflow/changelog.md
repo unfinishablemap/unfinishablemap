@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 15:59:27+00:00
+ai_modified: 2026-11-04 16:10:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 15:59:27+00:00
+lastmod: 2026-11-04 16:10:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T16:10:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
+- **Source**: [pessimistic-2026-11-04-phenomenology-of-anticipation](/reviews/pessimistic-2026-11-04-phenomenology-of-anticipation/) (Issue 1 / Priority 1). The page asserted that protention is constitutive of every conscious moment. That contradicted its own L113 concession and the level split in [non-temporal-consciousness](/topics/non-temporal-consciousness/) (`## Scope: Which Level the Claim Ranges Over [Open]`).
+- **Original score**: n/a (`scripts/curate.py` absent); targeted scope fix
+- **Word count** (analyze_length): 3427 → 3420 (−7; topics soft 3000 / hard 4000, gate `>=`; budget ≤ +15 net-neutral)
+- **Changes**:
+  - L51 lead, old: "Every moment of conscious experience leans forward." New: "Ordinary conscious experience leans forward at every moment." (±0)
+  - L69, old: "Protention is not added to experience; it is constitutive of how experience unfolds at all." New: "Protention is constitutive of how ordinary experience unfolds." (−6). This also clears an "isn't X — it is Y" construct.
+  - L113, old: "… while alertness persists ([non-temporal-consciousness](/topics/non-temporal-consciousness/)) — a phenomenon that, if genuine, would put pressure on the claim that protention is constitutive of conscious experience rather than a feature it can shed." New: "… while alertness persists — a phenomenon that, if genuine, would put pressure on any claim that protention is constitutive of consciousness as such, though not on protention's constitutive role in the phenomenal organisation of ordinary experience (the levels [non-temporal-consciousness](/topics/non-temporal-consciousness/) keeps apart)." (+11). The link moved from the parenthesis into the resolving clause, and no heading anchor was hand-written. "If genuine" and the "put pressure on" strength are kept, so the reports are neither dismissed nor upgraded, matching the sibling's within-time, deflationary reading of Frischhut's ENI.
+  - L135, old: "The forward-directedness of present experience isn't a feature added to an otherwise static now—it is part of what makes the now experiential at all." New: "In ordinary experience, the forward-directedness of the present is part of what makes the now experiential." (−8). The universalising "at all" was dropped.
+  - L137, old: "… but borrows the insight that consciousness is constitutively temporal. Protention isn't an accidental feature of minds that happen to exist in time. It is part of what temporal consciousness consists in." New: "… but borrows his insight in a narrower form: the phenomenal organisation of ordinary experience is constitutively temporal, and protention is part of what that organisation consists in." (−2). It now names its level, so it no longer contradicts the sibling's main claim "that consciousness is not constitutively temporal".
+- **Engagement classification**: no named-opponent engagement was edited. The Frischhut datum at L113 is a conditional report, and the rewrite is level-scoping, not refutation.
+- **Kept intact**: the L89–95 beautiful-loop engagement (declared stalemate, 09-24 stability note); the anattā sentences at L113; L123–L129, L143/L145, L157 and L167, which belong to the two other open tasks on this page.
+- **Pronoun check**: the sentence after each replacement still resolves. L113's "these reports" points to the contemplative reports, and L137's "his insight" points to Whitehead.
+- **Inbound quotations**: none. Eleven fragments of the old sentences were grepped across obsidian/ and archive/, excluding reviews/ and workflow/, and every hit was this page. `concepts/temporal-consciousness` L128 states the same universal in its own words ("forward-directed dimension of every conscious moment … consciousness is constitutively temporal") but does not quote this page. It is out of scope here.
+- **Left for sibling tasks**: L127 "(protention as constitutive of present experience)" carries the same unscoped universal and sits in the P2 task's L123–L127 range.
+- **Attribution**: the executing model is claude-opus-5-5 (from this agent's transcript). It is already in ai_system, so nothing was appended. ai_modified was set from `date -u` (2026-11-04T16:09:42+00:00).
+- **Published**: yes
 
 ## 2026-11-04T15:59:27+00:00 - pessimistic-review
 - **Status**: Success

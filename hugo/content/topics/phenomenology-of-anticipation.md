@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-10-05 12:35:41+00:00
+ai_modified: 2026-11-04 16:09:42+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 16:30:00+00:00
-lastmod: 2026-10-05 12:35:41+00:00
+lastmod: 2026-11-04 16:09:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ topics:
 - '[[temporal-consciousness-structure-and-agency]]'
 ---
 
-Every moment of conscious experience leans forward. When you hear the opening notes of a familiar melody, something in your experience already reaches toward the next note—not as a thought about what will come, but as a felt directedness woven into the present itself. Husserl called this *protention*: the forward-directed structure of temporal consciousness that makes each moment pregnant with what it anticipates. Unlike [episodic future thinking](/concepts/prospective-memory/), which deliberately constructs scenarios, protention operates pre-reflectively, shaping the texture of present experience before reflection begins. The Unfinishable Map argues that protention reveals something essential about the relationship between consciousness and time: minds don't merely register the present and then project forward—they inhabit a present already structured by anticipation.
+Ordinary conscious experience leans forward at every moment. When you hear the opening notes of a familiar melody, something in your experience already reaches toward the next note—not as a thought about what will come, but as a felt directedness woven into the present itself. Husserl called this *protention*: the forward-directed structure of temporal consciousness that makes each moment pregnant with what it anticipates. Unlike [episodic future thinking](/concepts/prospective-memory/), which deliberately constructs scenarios, protention operates pre-reflectively, shaping the texture of present experience before reflection begins. The Unfinishable Map argues that protention reveals something essential about the relationship between consciousness and time: minds don't merely register the present and then project forward—they inhabit a present already structured by anticipation.
 
 <details class="yt-embed" data-video-id="Y7ALATbUtew">
 <summary>Video introduction</summary>
@@ -70,7 +70,7 @@ Husserl's analysis of [internal time-consciousness](/concepts/temporal-conscious
 
 **Protention** is the forward-directed openness toward what comes next. Rather than prediction or expectation in the ordinary sense, protention is the structural anticipation that makes the present moment incomplete in a particular way—oriented toward a continuation that has not yet arrived.
 
-These three don't occur in sequence. They form what Husserl called a "living present"—a unified temporal field in which pastness, nowness, and anticipation interpenetrate. Protention is not added to experience; it is constitutive of how experience unfolds at all.
+These three don't occur in sequence. They form what Husserl called a "living present"—a unified temporal field in which pastness, nowness, and anticipation interpenetrate. Protention is constitutive of how ordinary experience unfolds.
 
 ## What Protention Feels Like
 
@@ -114,7 +114,7 @@ The [specious present](/concepts/temporal-consciousness/)—the experienced dura
 
 Bergson captured this in his account of [durée](/concepts/temporal-consciousness/): lived time isn't a series of nows strung together but an interpenetrating flow where each phase contains both its past and its anticipated continuation. The forward lean of experience is part of what makes time feel like *flowing* rather than *accumulating*—duration moves because protention gives each moment a futureward orientation.
 
-Varela's [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) research suggests that contemplative practices can reveal protentional structure with unusual clarity. Meditators attending closely to the arising of experience report noticing a directional quality—each moment seems to "point" toward its successor. This is protention made visible through sustained phenomenological attention. Reports from deeper contemplative states go the other direction: in the alert timelessness Frischhut (2026) interprets from published meditators' reports, protentional structure itself reportedly ceases while alertness persists ([non-temporal-consciousness](/topics/non-temporal-consciousness/)) — a phenomenon that, if genuine, would put pressure on the claim that protention is constitutive of conscious experience rather than a feature it can shed. A tension emerges here: the Buddhist contemplative traditions that generate these reports also challenge the notion of a unified subject doing the anticipating. If *anattā* (no-self) holds, protention may be a process without an agent—forward-directedness with no one reaching forward. The Map acknowledges this challenge while maintaining that the irreducibility of the protentional experience itself persists regardless of how the experiencing subject is characterised.
+Varela's [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) research suggests that contemplative practices can reveal protentional structure with unusual clarity. Meditators attending closely to the arising of experience report noticing a directional quality—each moment seems to "point" toward its successor. This is protention made visible through sustained phenomenological attention. Reports from deeper contemplative states go the other direction: in the alert timelessness Frischhut (2026) interprets from published meditators' reports, protentional structure itself reportedly ceases while alertness persists — a phenomenon that, if genuine, would put pressure on any claim that protention is constitutive of consciousness as such, though not on protention's constitutive role in the phenomenal organisation of ordinary experience (the levels [non-temporal-consciousness](/topics/non-temporal-consciousness/) keeps apart). A tension emerges here: the Buddhist contemplative traditions that generate these reports also challenge the notion of a unified subject doing the anticipating. If *anattā* (no-self) holds, protention may be a process without an agent—forward-directedness with no one reaching forward. The Map acknowledges this challenge while maintaining that the irreducibility of the protentional experience itself persists regardless of how the experiencing subject is characterised.
 
 ## Agency and Anticipatory Consciousness
 
@@ -136,9 +136,9 @@ The distinction between protention and [prospective memory](/concepts/prospectiv
 
 Whitehead's [process philosophy](/concepts/process-philosophy/) provides a metaphysical framework for protention. Each "actual occasion" in Whitehead's ontology has a **subjective aim**—an inherent directedness toward its own completion that involves selecting among possibilities. The subjective aim is not imposed from outside but is constitutive of the occasion's experience.
 
-This maps onto protention. The forward-directedness of present experience isn't a feature added to an otherwise static now—it is part of what makes the now experiential at all. Whitehead's insight is that experience is inherently processual: to experience is to be in the process of becoming, and becoming is always toward something. An occasion without subjective aim would not be an occasion of experience.
+This maps onto protention. In ordinary experience, the forward-directedness of the present is part of what makes the now experiential. Whitehead's insight is that experience is inherently processual: to experience is to be in the process of becoming, and becoming is always toward something. An occasion without subjective aim would not be an occasion of experience.
 
-The Map diverges from Whitehead's panpsychism—not every physical process has protentional character—but borrows the insight that consciousness is constitutively temporal. Protention isn't an accidental feature of minds that happen to exist in time. It is part of what temporal consciousness consists in.
+The Map diverges from Whitehead's panpsychism—not every physical process has protentional character—but borrows his insight in a narrower form: the phenomenal organisation of ordinary experience is constitutively temporal, and protention is part of what that organisation consists in.
 
 ## Protention and Surprise
 
