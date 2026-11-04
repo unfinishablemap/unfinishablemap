@@ -5,6 +5,22 @@ ai_modified: 2026-11-04T16:24:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-04T17:10:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/pragmatism]]
+- **Selection**: top `deep_review.py next` candidate (score 74, 93 days). Not on the driver's exclusion list. The 09-08 and 09-15 commits (corridor scoping and three outer-review refine-drafts, 2533 → 3489 words) had never been deep-reviewed.
+- **Word count**: 3489 → 3498 (+9; concepts hard 3500, gate `>=`). The James 1904 References entry (+15) is funded by −12 of prose cuts.
+- **Critical issues addressed**: 2. (1) L60 "a footnote in the same chapter" → "a footnote two chapters later". The *Logic* quotation is Ch. IV p. 68 and the interactionism footnote is Ch. VI p. 106, per the archive.org OCR running heads. The 09-15 refine and the ChatGPT outer review both mislocated the quotation in "The Pattern of Inquiry". (2) The inline "James's 1904 denial" had no References entry. Added James 1904, *JPPSM* 1(18), 477-491, confirmed at PDC.
+- **Medium issues addressed**: 7. The ambiguous Dewey closing clause "and one he rejected rather than overlooked" was cut. Di Paolo 2005 gloss: "autopoietic normativity" → "autopoietic and adaptive normativity". Teleosemantics: ", chiefly in evolutionary selection history" (SEP: Papineau 1984 also speaks of learning). Brandom/Price: "Both grant" → "Both can grant". Lead: "differently in each founder" → "differently for Peirce and James". Friston's Markovian monism piped to [[disguised-property-dualism]] at zero cost. Cut "These consequences matter." and "directly".
+- **Metadata**: Putnam 1994 "445 ff." → "445-517". Rorty 1965 original pages "24-54" added (PDC).
+- **Verified verbatim at primary source**: the James Lecture VI quotation (Gutenberg #5116), James 1904 phrases (Gutenberg #32547), the Dewey *Logic* quotation, footnote and "warranted assertion" (archive.org OCR), Peirce 1878's convergence sentence (Wikisource), and Putnam *RTH*'s "magical theory of reference", ant/Churchill, "internalist perspective" and "idealization of rational acceptability" (archive.org). Crossref-exact: Misak 2004, Putnam 1994, Laukkonen 2025, Weber & Varela 2002, Di Paolo 2005, Price 2013, and the Rorty 1965 Borst reprint. Not primary-verified: L66's scare-quoted "getting reality right" (secondary-attested only, untouched).
+- **Map-internal quotes**: P-Q3's "sits genuinely close to epiphenomenalism" and tenets L123's "is not a pure physics tenet" are verbatim. All anchors are live.
+- **Engagement classification** (editor-internal): Dewey Mixed; Rorty, teleosemantics, enactivism, Brandom/Price Mode Three; active inference Mode Three with a Mode Two edge.
+- **Overlap**: L44's corridor wording is on the blocked P-Q2 HUMAN DECISION cascade (todo L1622) and was left untouched.
+- **Follow-ups proposed (not minted)**: `topics/pragmatisms-path-to-dualism` L127/L131 Putnam "conscious rational agents" drift, and L139 Dewey "every stage involves phenomenal character" drift. The sibling is at 4037 words, over hard, so a fix there must be net ≤ 0.
+- **Attribution**: `ai_system` appended `+claude-opus-5-5` (it was absent). `ai_modified` and `last_deep_review` were set from `date -u` (2026-11-04T17:07:40+00:00).
+- **Output**: [[reviews/deep-review-2026-11-04-pragmatism]]
+
 ## 2026-11-04T16:24:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-anticipation]]
