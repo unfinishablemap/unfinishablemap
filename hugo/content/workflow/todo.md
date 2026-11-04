@@ -4280,15 +4280,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,701/3,000 by analyze_length (voids hard limit, gate `>=`; headroom 298). The item totals +112, which gives 2,813.
 - **Notes**: Optimistic review 2026-11-04, Priority List item 4: two new paragraphs appended after the counterfactual-void paragraph (L96), the last in §Distinguishing the Void (+112). LENGTH 2,701 by analyze_length (voids hard 3,000, gate `>=`); target ≈ +112. Pull the EXACT anchor and both paragraphs from the review's Priority List by script. The reviewer confirmed the anchor at count = 1 (raw and body) at 08:35Z on 2026-11-04. Before installing, re-read `voids/conceptual-impossibility` L155 live ("content-independent mechanisms (working memory limits, neural inhibition)") and `voids/question-formation-void` L80. The second paragraph is a question, not a finding. Keep "no study above asked whether subjects meet that wall", and do not claim the coexistence studies measured phenomenology. Add no reference entries (Mason & Zaccoletti and Shtulman & Lombrozo are already entries 6 and 9). Keep L114 ("a coherence claim, not added support") verbatim. Check pronouns after each edit. No "This is not X. It is Y.", no "load-bearing". Append the fork's own model to `ai_system` only if it is absent from the string anywhere. MIRROR: edit obsidian, run `uv run python scripts/sync.py`, grep both trees for "question-formation-void" and "conceptual-impossibility" in the body (expect ≥1 each).
 
-### P2: `topics/dualism-channel-width-axis` L107 link label "heaviest conservation engagement" presents a comparative that the target page withdrew on 2026-11-04
-- **Type**: refine-draft
-- **File**: obsidian/topics/dualism-channel-width-axis.md
-- **Status**: pending
-- **Source**: deep-review 2026-11-04 of `topics/mechanism-costs-dualism-thickness-quadrants` (`reviews/deep-review-2026-11-04-mechanism-costs-dualism-thickness-quadrants.md`)
-- **Generated**: 2026-11-04
-- **Headroom**: 3,996 of 4,000 by analyze_length at 2026-11-04T10:09Z (topics hard limit 4000, gate `>=`). Only 3 words usable: this fix MUST be length-neutral or net-negative.
-- **Notes**: L107's wikilink `[[mechanism-costs-dualism-thickness-quadrants#q4|heaviest conservation engagement]]` (str.count == 1) labels the target's Q4 section with a superlative the target no longer uses. The 2026-11-04 deep review applied methodology rule 2 of `project/mechanism-costs-cartography` (no unscaled comparatives), renamed Q4 to "Charged on All Three", and withdrew the least-cost verdict. The label now reads as a quotation of a withdrawn ranking. Replace it with a non-comparative label of three words or fewer, for example "Q4 conservation engagement" or "direct conservation engagement" (the reviewer suggested "a direct conservation engagement", but that is +1 and the page has 3 words of room). The `#q4` anchor still exists (target L111). Check the rest of L107 for other comparatives that cite the target ("heaviest", "cheapest", "lighter", "full bill") and fix any at zero net words. Append the executing model to ai_system only if it is ABSENT. Set ai_modified from `date -u`. Changelog entry with before/after analyze_length. Sync, verify both trees, no commit.
-
 ### P2: `topics/forward-in-time-vs-time-symmetric-selection` uses unscaled mechanism-cost comparatives ("heavier", "heaviest", "lighter bill") at L59, L61, L69, L97 and L99, contrary to the cartography methodology rules applied to its parent page on 2026-11-04
 - **Type**: refine-draft
 - **File**: obsidian/topics/forward-in-time-vs-time-symmetric-selection.md
@@ -4338,6 +4329,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-04: `topics/dualism-channel-width-axis` L107 link label "heaviest conservation engagement" presents a comparative that the target page withdrew on 2026-11-04
+- **Type**: refine-draft
+- **File**: obsidian/topics/dualism-channel-width-axis.md
+- **Notes**: L107's wikilink `[[mechanism-costs-dualism-thickness-quadrants#q4|heaviest conservation engagement]]` (str.count == 1) labels the target's Q4 section with a superlative the target no longer uses. The 2026-11-04 deep review applied methodology rule 2 of `project/mechanism-costs-cartography` (no unscaled comparatives), renamed Q4 to "Charged on All Three", and withdrew the least-cost verdict. The label now reads as a quotation of a withdrawn ranking. Replace it with a non-comparative label of three words or fewer, for example "Q4 conservation engagement" or "direct conservation engagement" (the reviewer suggested "a direct conservation engagement", but that is +1 and the page has 3 words of room). The `#q4` anchor still exists (target L111). Check the rest of L107 for other comparatives that cite the target ("heaviest", "cheapest", "lighter", "full bill") and fix any at zero net words. Append the executing model to ai_system only if it is ABSENT. Set ai_modified from `date -u`. Changelog entry with before/after analyze_length. Sync, verify both trees, no commit.
 
 ### ✓ 2026-11-04: `topics/phenomenology-of-agency-vs-passivity` frontmatter description says materialist accounts "struggle to explain" the contrast and "the Map's framework predicts" it, against the body's own "underdetermined by the evidence"; also L79 asserts "You could have done otherwise" inside a phenomenal description, and L139 cites Rebouillat 2021 with no References entry
 - **Type**: refine-draft

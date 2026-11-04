@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T12:21:42+00:00
+ai_modified: 2026-11-04T12:46:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T12:46:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/forward-in-time-vs-time-symmetric-selection]]
+- **Original score**: n/a (targeted methodology audit; `scripts/curate.py` absent)
+- **Scope**: audited against rules 1 (calibration parity) and 2 (metric or partition) of [[mechanism-costs-cartography]], following the 2026-11-04 repair of the parent page (`reviews/deep-review-2026-11-04-mechanism-costs-dualism-thickness-quadrants.md`). L91 deliberately untouched (owned by the open P3 on `forward-in-time-conscious-selection` L103).
+- **Rule 2 rewrites (unscaled comparative → which items each route is charged)**:
+  - L44 lede: added the once-early statement that "cost" labels an inventory, with no scale, zero point or aggregation rule (merged into the existing sentence; +12).
+  - L57 "This is where it pays least." deleted; "in exchange" now reads off the compatibility list.
+  - L59 "This is a heavier metaphysical commitment:" → "The commitment is this route's alone."
+  - L61 "it is the heavier of the two entries: … a costlier debt than an unpopular standing" → "the two entries differ in kind: minority status is a standing in the field, while the objection is a live technical argument against … internal consistency". The 08-04 contested-residue sentence that follows is unchanged, so the Maudlin booking is not reopened.
+  - L63 "buys temporal becoming cheaply but pays full price on" → "keeps temporal becoming with no retrocausal charge but owes"; "pays in" → "owes".
+  - L69 "in one sense, lighter … In another sense it may be heavier" → "It asks nothing of warm-tissue coherence times; what it is charged instead is asking …".
+  - L87 heading → "Where Each Stands: A Debt Inventory" with explicit anchor `{#where-each-stands-on-the-maps-mechanism-costs-accounting}` keeping the old Hugo id (no inbound anchor links found).
+  - L89 "Both routes pay one cost in common, and each pays one extra" (a miscount: the ledger lists amplification as a fourth item) → one shared item, one distinctive item each, amplification on both in different forms.
+  - L93 "a thicker metaphysical commitment than the forward route asks for" → "None of these falls on the forward route."
+  - L97 "heaviest for the forward route … a softer version of the same debt" → the forward act's located position means it must show the amplification path; the time-symmetric route "is charged a version of the same item".
+  - L99 "the lighter bill" question → whether retrocausal metaphysics is worth paying for a clean Libet answer, or the collapse-mechanism debt for temporal becoming; the quoted "one each pays extra" formula is replaced by "the ledger's shape".
+  - L105 "cheaper *for them*" (twice) → "worth paying *for them*". The agent-relative form was kept, but "cheaper" is on rule 2's named list, and the deployment defines no scale (the reader's priors are not one the deployment defines).
+  - L107 kept: "a lighter bill on a stipulated battery is not evidence of truth" reads as a caution against the slide. Its battery list "metaphysical thickness" → "metaphysical requirements" (matches the section heading; inherited thickness vocabulary).
+- **Rule 1 (calibration parity)**: the battery already charged the house route, but the page never named it. P-Q1's subordination scope records that, where the Map states a mechanism preference, it favours forward post-decoherence selection, with time-symmetric readings as subordinate fallbacks. L89 now says so and notes that the ledger charges that variant the collapse-mechanism item (distinctive to it) and the amplification item (+24 words).
+- **Stale dependency fixed**: L75 cited "a Born-rule-preserving rate" as a selection-only signature. `selection-only-mind-influence` withdrew that rate on 2026-08-03 ("no downstream page should treat this channel as having a known throughput"). L75 now cites only the log₂(N) per-event ceiling.
+- **Word count** (analyze_length): 3352 → 3367 (+15; topics hard 4000, gate `>=`).
+- **Inbound quotations**: none of the rewritten sentences is quoted outside `reviews/`/`workflow/` (grep -F per phrase). No inbound anchor links to this page.
+- **Reported, not fixed**: L91 "pay it more dearly" (unscaled; L91 owned by the open P3). `forward-in-time-conscious-selection` L175 still carries the withdrawn Born-rule-preserving rate. `time-symmetric-selection-mechanism` L40 says it "costs more". Tension between this page's L103/L105 ("no tie-breaker", "the tenets do not supply" one) and P-Q1's working preference plus the forward page's minimality-as-tenet-fit argument (L143).
+- **Attribution**: executing model claude-opus-5-5 is already the final component of ai_system; not appended. ai_modified 2026-11-04T12:46:02+00:00.
+- **Published**: yes
 
 ## 2026-11-04T12:21:42+00:00 - refine-draft
 - **Status**: Success
