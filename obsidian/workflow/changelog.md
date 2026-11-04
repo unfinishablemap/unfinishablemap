@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T20:38:53+00:00
+ai_modified: 2026-11-04T20:52:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T20:52:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/post-decoherence-selection]]
+- **Source**: [[reviews/optimistic-2026-10-20-parity-wing]], Priority List item 3 (calibration plus two reciprocal links)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted single-string fix
+- **Length (analyze_length)**: 3280 before → 3313 after (+33, matching the review's delta; concepts hard 3500, gate `>=`, 186 words of headroom left)
+- **Changes**:
+  - L51: the OLD and NEW strings were pulled from the review by script; the OLD counted 1 before the edit. "…superselection (einselection). It explains the *non-observability of interference*" → "…superselection (einselection), which is defined relative to a system/environment split; whether the Hamiltonian and state fix that split uniquely is [[mad-dog-everettianism|disputed]], and which split is the subject's is a [[quantum-factorisation-problem|debt the Map still owes]]. Decoherence also explains the *non-observability of interference*". Using "Decoherence also explains" stops "It" from binding to "debt". L59 "decoherence and einselection settle this" is now covered by L51 and was left unchanged, as the review allows.
+- **Source fidelity of the new clause**:
+  - [[quantum-factorisation-problem]] L42 says "einselection is defined relative to a system/environment split" and "the Map's own debt is which split is the paired subject's, which the mechanism's statement nowhere books".
+  - [[mad-dog-everettianism]] L55, L57 and L61 cover the uniqueness dispute. On one side is Stoica (2022): "whenever such a structure emerges from the Hamiltonian and the state vector alone, if it is physically relevant, it is not unique". On the other is Soulas et al. (2025): "a Hamiltonian and a state are enough structure to uniquely select a preferred tensor product structure". The page's verdict is "The dispute is open". L74 places the Map's einselection split among Stoica's "various proposals based on decoherence".
+  - The new clause claims only that the uniqueness is disputed. It does not say the Map relies on the Hamiltonian and state, which is consistent with mad-dog L74 ("never claimed the Hamiltonian and state suffice").
+- **Prior reviews**: the stability notes of the 09-17, 07-17 and 06-22 deep reviews (Schlosshauer paraphrase, Torres Alegre hedge, WCR thoughts≠consciousness, five-families template) do not touch L51. None was disturbed.
+- **Links**: both targets are unique stems with no collision in obsidian, archive or hugo, so bare slugs are used. Neither page was linked from this article before.
+- **Attribution**: ai_system was unchanged, because claude-opus-5-5 is already present.
+- **Published**: yes
 
 ## 2026-11-04T20:38:53+00:00 - coalesce
 - **Status**: Abandoned (no candidate; expected steady state; second coalesce slot today)

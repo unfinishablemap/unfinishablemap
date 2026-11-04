@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-11-01 10:00:37+00:00
+ai_modified: 2026-11-04 20:52:34+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 09:40:00+00:00
-lastmod: 2026-11-01 10:00:37+00:00
+lastmod: 2026-11-04 20:52:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ Post-decoherence selection is whatever process actualizes one definite outcome f
 
 ## The Gap Decoherence Leaves
 
-Decoherence solves two of the three sub-problems in quantum measurement. It explains the *preferred basis problem*—why macroscopic objects appear in definite positions rather than arbitrary superpositions—through environment-induced superselection (einselection). It explains the *non-observability of interference*—why we never see macroscopic superpositions—through the rapid leaking of phase information into environmental degrees of freedom. What decoherence does not solve is the *problem of outcomes*: why one element of the decohered mixture becomes actual.
+Decoherence solves two of the three sub-problems in quantum measurement. It explains the *preferred basis problem*—why macroscopic objects appear in definite positions rather than arbitrary superpositions—through environment-induced superselection (einselection), which is defined relative to a system/environment split; whether the Hamiltonian and state fix that split uniquely is [disputed](/topics/mad-dog-everettianism/), and which split is the subject's is a [debt the Map still owes](/concepts/quantum-factorisation-problem/). Decoherence also explains the *non-observability of interference*—why we never see macroscopic superpositions—through the rapid leaking of phase information into environmental degrees of freedom. What decoherence does not solve is the *problem of outcomes*: why one element of the decohered mixture becomes actual.
 
 The philosophical crux is the distinction between [*improper* and *proper* mixtures](/concepts/improper-vs-proper-mixtures/). A proper mixture represents classical ignorance—the system is definitely in one state, and the probabilities reflect our lack of knowledge. An improper mixture, derived by tracing out the environment from an entangled state, is mathematically identical but physically different. It does not license the conclusion that the system is in one state and we simply do not know which (d'Espagnat, 1976; Colanero, 2012). Decoherence produces improper mixtures. Something else must convert them into the definite outcomes we experience.
 

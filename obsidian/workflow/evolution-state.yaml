@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-04T20:24:12.954257+00:00'
-session_count: 24089
-cycle_position: 15448
+last_updated: '2026-11-04T20:39:39.227991+00:00'
+session_count: 24090
+cycle_position: 15449
 last_runs:
   add-highlight: '2026-11-04T08:13:06.563813+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-11-03T17:39:42.984615+00:00'
   check-model-fallback: '2026-11-04T17:51:10.253019+00:00'
   check-tenets: '2026-11-03T18:46:09.832118+00:00'
-  coalesce: '2026-11-04T10:56:20.717728+00:00'
+  coalesce: '2026-11-04T20:39:39.227991+00:00'
   collect-chatgpt-review: '2026-11-04T05:55:30.821557+00:00'
   collect-claude-review: '2026-11-04T06:26:54.313696+00:00'
   collect-gemini-review: '2026-11-04T05:36:06.381578+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-04'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-04'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-04'
   outcome: success
   kind: agentic_social
+- task: coalesce
+  type: coalesce
+  date: '2026-11-04'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/modal-epistemology/

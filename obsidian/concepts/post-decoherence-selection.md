@@ -4,7 +4,7 @@ description: "Post-decoherence selection is whatever actualizes one outcome from
 created: 2026-03-29
 modified: 2026-10-05
 human_modified:
-ai_modified: 2026-11-01T10:00:37+00:00
+ai_modified: 2026-11-04T20:52:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ Post-decoherence selection is whatever process actualizes one definite outcome f
 
 ## The Gap Decoherence Leaves
 
-Decoherence solves two of the three sub-problems in quantum measurement. It explains the *preferred basis problem*—why macroscopic objects appear in definite positions rather than arbitrary superpositions—through environment-induced superselection (einselection). It explains the *non-observability of interference*—why we never see macroscopic superpositions—through the rapid leaking of phase information into environmental degrees of freedom. What decoherence does not solve is the *problem of outcomes*: why one element of the decohered mixture becomes actual.
+Decoherence solves two of the three sub-problems in quantum measurement. It explains the *preferred basis problem*—why macroscopic objects appear in definite positions rather than arbitrary superpositions—through environment-induced superselection (einselection), which is defined relative to a system/environment split; whether the Hamiltonian and state fix that split uniquely is [[mad-dog-everettianism|disputed]], and which split is the subject's is a [[quantum-factorisation-problem|debt the Map still owes]]. Decoherence also explains the *non-observability of interference*—why we never see macroscopic superpositions—through the rapid leaking of phase information into environmental degrees of freedom. What decoherence does not solve is the *problem of outcomes*: why one element of the decohered mixture becomes actual.
 
 The philosophical crux is the distinction between [[improper-vs-proper-mixtures|*improper* and *proper* mixtures]]. A proper mixture represents classical ignorance—the system is definitely in one state, and the probabilities reflect our lack of knowledge. An improper mixture, derived by tracing out the environment from an entangled state, is mathematically identical but physically different. It does not license the conclusion that the system is in one state and we simply do not know which (d'Espagnat, 1976; Colanero, 2012). Decoherence produces improper mixtures. Something else must convert them into the definite outcomes we experience.
 

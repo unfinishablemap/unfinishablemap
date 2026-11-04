@@ -1,14 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 20:13:54+00:00
+ai_modified: 2026-11-04 20:52:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 20:13:54+00:00
+lastmod: 2026-11-04 20:52:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T20:52:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Source**: [optimistic-2026-10-20-parity-wing](/reviews/optimistic-2026-10-20-parity-wing/), Priority List item 3 (calibration plus two reciprocal links)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted single-string fix
+- **Length (analyze_length)**: 3280 before → 3313 after (+33, matching the review's delta; concepts hard 3500, gate `>=`, 186 words of headroom left)
+- **Changes**:
+  - L51: the OLD and NEW strings were pulled from the review by script; the OLD counted 1 before the edit. "…superselection (einselection). It explains the *non-observability of interference*" → "…superselection (einselection), which is defined relative to a system/environment split; whether the Hamiltonian and state fix that split uniquely is [disputed](/topics/mad-dog-everettianism/), and which split is the subject's is a [debt the Map still owes](/concepts/quantum-factorisation-problem/). Decoherence also explains the *non-observability of interference*". Using "Decoherence also explains" stops "It" from binding to "debt". L59 "decoherence and einselection settle this" is now covered by L51 and was left unchanged, as the review allows.
+- **Source fidelity of the new clause**:
+  - [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/) L42 says "einselection is defined relative to a system/environment split" and "the Map's own debt is which split is the paired subject's, which the mechanism's statement nowhere books".
+  - [mad-dog-everettianism](/topics/mad-dog-everettianism/) L55, L57 and L61 cover the uniqueness dispute. On one side is Stoica (2022): "whenever such a structure emerges from the Hamiltonian and the state vector alone, if it is physically relevant, it is not unique". On the other is Soulas et al. (2025): "a Hamiltonian and a state are enough structure to uniquely select a preferred tensor product structure". The page's verdict is "The dispute is open". L74 places the Map's einselection split among Stoica's "various proposals based on decoherence".
+  - The new clause claims only that the uniqueness is disputed. It does not say the Map relies on the Hamiltonian and state, which is consistent with mad-dog L74 ("never claimed the Hamiltonian and state suffice").
+- **Prior reviews**: the stability notes of the 09-17, 07-17 and 06-22 deep reviews (Schlosshauer paraphrase, Torres Alegre hedge, WCR thoughts≠consciousness, five-families template) do not touch L51. None was disturbed.
+- **Links**: both targets are unique stems with no collision in obsidian, archive or hugo, so bare slugs are used. Neither page was linked from this article before.
+- **Attribution**: ai_system was unchanged, because claude-opus-5-5 is already present.
+- **Published**: yes
+
+## 2026-11-04T20:38:53+00:00 - coalesce
+- **Status**: Abandoned (no candidate; expected steady state; second coalesce slot today)
+- **Mode**: re-run of the 10:51Z screen under the 20:36Z driver brief. The scripts `coalesce_screen_1104.py`, `sim_1104.py` and `coalesce_dedup_1104.py` were copied to `*_1104pm.py`, changing only the JSON output names so the morning results were kept for a diff. The rules are unchanged from 10:51Z: the sidecar and index files were dropped first, there is a 30-day created floor, today's edits are excluded, the 3-slug brief list is excluded, and an open task blocks a page if the page is named on its header, File or Secondary line. This run scanned 433 open blocks, against 426 at 10:51Z.
+- **Pressure** (`count_section_files` vs `section_caps`): concepts 370/370 (full), topics 369/370 (368 real articles plus the sidecar), voids 115/125.
+- **Changed since 10:51Z**:
+  - No articles were added or removed; 853 before and after.
+  - 13 pages lost eligibility: 10 to new open tasks, 3 to edits today. None gained it. The eligible pool went from 499 to 486 (topics 208, concepts 198, voids 80).
+  - Word counts changed on 16 pages. 15 grew, by +2 to +146, and one shrank, by −5.
+  - Fitting pairs went from 262 to 255: 7 dropped, 0 new.
+- **Length gate** (summed body below the target's hard limit, `>=` fails): 255 fitting pairs. The best cosine is 0.166 on the mid-band vocabulary (`phenomenal-depth` + `phenomenal-presentation`, which 10:51Z declined on the `Versus` carve-out) and 0.117 on the wide one. 0 fitting pairs reach 0.30. Controls are 0.626, 0.550 and 0.410.
+- **Eligibility-blind check**: across all 853 articles, 329 pairs fit under a hard limit, and none reaches cosine 0.20. The shortfall comes from the corpus itself, not from the exclusion filters.
+- **Real overlap**: there are 21 eligible pairs with cosine ≥ 0.40, and the smallest overage is unchanged. It is `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities` + `concepts/source-versus-leeway-incompatibilism`: 5271 words, 1271 over, cosine 0.484. Next is `concepts/carrolls-regress` + `voids/inference-void`, 1803 over.
+- **Dedup check**: 5155 eligible pairs share at least 15 6-grams. The single "feasible" row is `topics/consciousness-and-the-problem-of-other-properties` + `concepts/perception`. It already fits (217 under), has 32 shared words and cosine below 0.053, so it is not real overlap; this matches 10:51Z.
+- **Files changed**: none besides this entry.
 
 ## 2026-11-04T20:13:54+00:00 - refine-draft
 - **Status**: Success
