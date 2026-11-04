@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 07:55:46+00:00
+ai_modified: 2026-11-04 08:42:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 07:55:46+00:00
+lastmod: 2026-11-04 08:42:12+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T08:42:12+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the conceptual-reach wing, four voids on the reach of the conceptual apparatus: `voids/question-formation-void` (2735/3000), `voids/metaphor-void` (2595/3000), `voids/conceptual-impossibility` (2742/3000) and `voids/conceptual-metabolism-void` (2701/3000). Chosen by a whole-token slug index over all 8,267 review files. Of 928 live articles, 189 have no deep, pessimistic, optimistic or outer review mention since 2026-10-20. These four have no review mention of any kind in that window, last deep reviews from 06-25 to 07-19 (voids sit outside the deep-review pool), and have never been co-read. None was edited in the last 24h, and no open task named them.
+- **Findings**: QF and CM model [P-V2](/positions/voids-as-evidence/#p-v2) at the leaf (QF L64/L70/L113; CM L58/L102/L114). Calibration concerns: MV L96 "a possible signature of dualism" against its own L38/L72; CI L137 "Dualism gains indirect support", resting on an LLM phenomenal-absence premise the register holds open ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)/[P-AC4](/positions/ai-consciousness-scope/#p-ac4); the 2026-09-14 verb sweep missed it); CI L143's No Many Worlds point, which an Everettian grants. Structure: 10 of the 12 directed wing pairs have zero body links, and CM is fully isolated. Openings: CM's hindsight finding confounds QF's retrospective lift; Kuhn (1983) gives QF's indirect method a learning route; CI's asymmetry is the model for the conceivability page's confabulation objection, which links the research note and not the article.
+- **Tasks minted**: 4 P3 refine-draft (CI +129, MV +81, QF +122, CM +112; every anchor count = 1 raw/body, deltas measured with `count_words`), at todo.md L4355/L4366/L4377/L4388; `parse_tasks` active 320 → 324.
+- **Output**: [optimistic-2026-11-04-conceptual-reach-wing](/reviews/optimistic-2026-11-04-conceptual-reach-wing/)
 
 ## 2026-11-04T07:55:46+00:00 - refine-draft
 - **Status**: Success
