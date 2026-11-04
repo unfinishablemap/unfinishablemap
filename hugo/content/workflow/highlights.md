@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-04T08:09:21.384146'
+ai_modified: '2026-11-04T08:10:11+00:00'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: '2026-11-04'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-04 08:09:21.384146+00:00
+lastmod: 2026-11-04 08:10:11+00:00
 modified: '2026-11-04'
 related_articles:
 - '[[workflow]]'
@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Immunity learns, remembers and tells self from non-self with zero neurons. The Map's framework reads it as a functional self, not a felt one: consistent with mind's interface lying in particular neural machinery, though not proof that nothing is felt.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2117892035529113780  
 **Link**: [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/)
 
 ---
