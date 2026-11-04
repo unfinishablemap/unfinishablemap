@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T16:24:04+00:00
+ai_modified: 2026-11-04T17:38:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T17:38:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/bidirectional-interaction]]
+- **Source**: [[reviews/tenet-check-2026-10-20]] Warning 2 residue (todo P3 "L119 says interactionism 'offers a simpler explanation' ... unconditionally"). `topics/co-optimization-reply-to-the-correlation-problem` was re-read at source. It is unchanged since its 2026-10-20 12:48Z deep review (ai_modified and last_deep_review are both 10-20, and no later commit touches it). It still makes the economy advantage conditional on the phenomenal powers reading ("Only on that reading does the Map count the trilemma as what may be a point in interactionism's favour *on grounds of theoretical economy*"). It still holds the inbound debt shared ("One debt is shared whichever reading is taken"). It still records Zietsch (2024) ("Even this conditional advantage is contested").
+- **Original score**: n/a (`scripts/curate.py` absent); targeted calibration fix
+- **Word count** (analyze_length): 3494 → 3497 (+3; concepts hard 3500, gate `>=`). 2 words are left for the coordinated L99 P3.
+- **Changes**:
+  - L119: "The interactionist alternative offers a simpler explanation:" → "Only on the [[co-optimization-reply-to-the-correlation-problem|phenomenal-powers reading]], where felt badness necessitates avoidance, does the interactionist alternative offer a simpler explanation:" (+11). The Tenet 5 guard clause installed on 2026-09-19 ("simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof") is kept verbatim. Zietsch is carried by the link, not cited inline, because the page has no References entry for him and no budget for one.
+  - L119 cut: "Evolution favoured organisms whose consciousness provided functional advantages." (−8). It restated "consciousness evolved *because* it influences behaviour". Checks: zero hits in `obsidian/reviews/`, `workflow/todo.md` and the changelog. It is quoted on no other obsidian/archive page. `git log -S` shows only the 2026-01-23 expand-topic creation commit 6ab05ef288, so it was never installed as a guard.
+  - L152: "explains the tracking too" → "explains valence-fitness tracking too" (0). The Relation section no longer depends on an antecedent at L117.
+- **Not touched**: L99 (owned by the open P3 at todo ~L2572).
+- **Attribution**: `ai_system` is unchanged (`+claude-opus-5-5` is already the final component). `ai_modified` was set from `date -u` (2026-11-04T17:38:24+00:00).
+- **Published**: yes
 
 ## 2026-11-04T17:10:19+00:00 - deep-review
 - **Status**: Success
