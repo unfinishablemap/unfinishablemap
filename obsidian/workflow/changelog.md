@@ -1,8 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T07:46:10+00:00
+ai_modified: 2026-11-04T07:55:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-04T07:55:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Task**: P1 "Against Illusionism", L143 (step 2 of 8; synthesis C6–C7; review files: the 2026-11-04 gemini-3-1-pro, chatgpt-5-6-sol-pro and claude-fable-5-1 outer reviews)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 3786 → 3804 (+18 of the ≤ +20 cap; topics 3000/4000, gate `>=`). The running total for step 2 is 3806, so 2 words of slack pass to the later steps. No reference entries added or removed.
+- **Changes** (L143 only):
+  - Equivocation: "The deepening of the contrast under scrutiny is better explained by its tracking a real distinction than by its being an adaptive misrepresentation." → the datum "tells against deflations on which the felt difference is confabulated" but "does not decide between the Map and the illusionist, who already grants a real functional distinction". The definition now names the contested target as "conscious causal efficacy" (was "actual causal efficacy"), so the two senses of "real distinction" stay apart.
+  - Misfiring contrast: "Unlike perceptual illusions that persist because we cannot access the underlying mechanism, agency phenomenology is refined precisely *by* attending to it more carefully." → deleted. Replaced with: predictive-processing accounts expect attention to sharpen a self-model's discriminations (Claude's precision point / Gemini's "predicted on both readings"), and illusions survive scrutiny, as Müller-Lyer lines still look unequal once measured. No Frankish entry added; the robustness point is stated without attribution.
+  - Lutz rescope: "experienced meditators report that the agency-passivity distinction becomes *sharper*, not less distinct (Lutz et al., 2008)" → Lutz now supports only "Open-monitoring practice aims at reflexive awareness of normally implicit mental features"; the sharpening is the traditions' own testimony, "though not uniformly". This aligns L143 with `concepts/meditation-and-consciousness-modes` L151 and `concepts/witness-consciousness` L148. Lutz is not cited as counter-evidence. The Lutz reference entry stays, since it is still cited.
+  - Residual objection: "The illusionist owes a mechanism by which a represented motor-control mode presents itself as conscious authorship" (the demand-for-mechanism move, cf. `concepts/neural-correlates-of-consciousness` L122). It is followed by "yet an open debt is no refutation: as with the calibration argument, the disagreement sits closer to bedrock than the sharpening first suggested", which is consistent with step 1's L133 framework-boundary mark. Epiphenomenalism is not conceded.
+  - Gradations list trimmed to "resolving even micro-decisions about [[attention-as-interface|attention]]"; the link text "Buddhist samatha and vipassana practice" → "Open-monitoring practice" (same target).
+  - Not done (per Notes): Claude's delete-the-section route; Kammerer 2021; Lindahl 2017 and Trautwein 2024 (optional; no budget for an entry, and "though not uniformly" carries the variability).
+- **Engagement classification** (changelog only): illusionism reply, mixed. The in-framework attempt (sharpening tells against illusionism) fails, because the illusionist predicts it, so it is downgraded. A narrow Mode One survives against crude confabulation-deflation. Mode Two: the unspecified metarepresentational mechanism is a debt by illusionism's own standard (Frankish's illusion problem). Mode Three marks the residue as near bedrock.
+- **Sources verified**: Lutz, Slagter, Dunne & Davidson 2008, re-checked independently on the PMC2693206 HTML full text. Positive controls "FA" 37 and "OM" 41. "agency", "agent", "passiv", "sharpen", "sharper" and "intention" each 0. "A central aim of OM practice is to gain a clear reflexive awareness of the usually implicit features of one’s mental life." is verbatim (1 hit) and is paraphrased, not quoted. Citation meta: *Trends Cogn Sci* 12(4), first page 163, DOI 10.1016/j.tics.2008.01.005, which matches the entry.
+- **Left for others**: the L141 heading "Against Illusionism" now heads a paragraph that concludes at the boundary (owner unassigned). L171's "The finer discrimination trained meditators achieve" reads the testimony as fact (owner unassigned; not edited).
+- **ai_system**: unchanged (`claude-opus-5-5` already present)
+- **Published**: yes
+
 ---
 
 ## 2026-11-04T07:46:10+00:00 - refine-draft

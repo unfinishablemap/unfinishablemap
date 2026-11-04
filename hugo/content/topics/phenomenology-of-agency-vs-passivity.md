@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-11-04 07:45:16+00:00
+ai_modified: 2026-11-04 07:55:15+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -35,7 +35,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:47:40+00:00
-lastmod: 2026-11-04 07:45:16+00:00
+lastmod: 2026-11-04 07:55:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,7 +144,7 @@ A sharper bound on the phenomenal-datum's reliability emerges from the [introspe
 
 ### Against Illusionism
 
-The [illusionist](/concepts/illusionism/) holds that the phenomenal contrast between agency and passivity is a functional distinction the brain represents, not a genuine difference in conscious contribution. The contrast is "real" as a representation but does not track what it seems to track—actual causal efficacy. Yet the phenomenology resists this deflationary reading. Contemplative traditions in [Buddhist samatha and vipassana practice](/concepts/meditation-and-consciousness-modes/) refine phenomenological discrimination through sustained training, and experienced meditators report that the agency-passivity distinction becomes *sharper*, not less distinct (Lutz et al., 2008). Practitioners distinguish ever finer gradations—subtle intentions, micro-decisions about [attention](/concepts/attention-as-interface/), passive reception during open awareness. Unlike perceptual illusions that persist because we cannot access the underlying mechanism, agency phenomenology is refined precisely *by* attending to it more carefully. The deepening of the contrast under scrutiny is better explained by its tracking a real distinction than by its being an adaptive misrepresentation.
+The [illusionist](/concepts/illusionism/) holds that the felt agency-passivity contrast is a functional distinction the brain represents: "real" as a representation, but not tracking what it seems to track—conscious causal efficacy. [Open-monitoring practice](/concepts/meditation-and-consciousness-modes/) aims at reflexive awareness of normally implicit mental features (Lutz et al., 2008), and contemplative traditions report, though not uniformly, that the contrast grows *sharper*, resolving even micro-decisions about [attention](/concepts/attention-as-interface/). A contrast that stays fine-grained and stable under attention tells against deflations on which the felt difference is confabulated. The datum does not decide between the Map and the illusionist, who already grants a real functional distinction. Predictive-processing accounts expect attention to sharpen a self-model's discriminations, and illusions can survive scrutiny, as Müller-Lyer lines still look unequal once measured. The illusionist owes a mechanism by which a represented motor-control mode presents itself as conscious authorship, yet an open debt is no refutation: as with the calibration argument, the disagreement sits closer to bedrock than the sharpening first suggested.
 
 ### For the Selection Framework
 
