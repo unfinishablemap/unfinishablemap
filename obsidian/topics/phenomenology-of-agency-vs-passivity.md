@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-11-04
 human_modified:
-ai_modified: 2026-11-04T07:55:15+00:00
+ai_modified: 2026-11-04T09:13:16+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -122,7 +122,7 @@ Under hypnosis, subjects report that their arm rises "by itself." The motor outp
 
 Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
 
-This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [[mine-ness]] and dissociates from agency in one secure direction: agency is lost with ownership preserved in schizophrenic [[thought-insertion|thought insertion]]. [[depersonalisation|Depersonalisation]] disturbs ownership, but whether felt initiation survives depends on the reading: on the Gallagher-style reading it does, while [[depersonalisation#The Active-Inference Self-Model|active-inference accounts]] find felt control disturbed as well, and the clinical sketch below records actions feeling automatic. The dissociation is therefore one-way rather than double. Even so, it shows that the sense of agency is not simply body-ownership plus motor output, since the ownership-plus-output package can be present while agency is missing. What more is required is a framework-internal question; the Map's answer—genuine conscious selection—is a reading it defends on other grounds, not something the dissociation alone establishes.
+This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [[mine-ness]] and dissociates from agency only on the standard but most contested agency reading of [[thought-insertion|thought insertion]]: agency lost, ownership preserved. [[depersonalisation|Depersonalisation]] disturbs ownership, but whether felt initiation survives depends on the reading: on the Gallagher-style reading it does, while [[depersonalisation#The Active-Inference Self-Model|active-inference accounts]] find felt control disturbed as well, and the clinical sketch below records actions feeling automatic. The dissociation is therefore at most one-way, and only on the agency reading. Anarchic hand still shows that the sense of agency is not simply body-ownership plus motor output, since that package can be present while agency is missing. What more is required is a framework-internal question; the Map's answer—genuine conscious selection—is a reading it defends on other grounds, not something the dissociations alone establish.
 
 ## What the Contrast Reveals
 
@@ -152,7 +152,7 @@ The [[witness-consciousness|witness mode]] in meditation suggests that conscious
 
 Pathological cases illuminate the structure (see [[clinical-phenomenology-and-altered-experience|clinical phenomenology and altered experience]] for extended treatment):
 
-- **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology has been stripped from what should be an active process. Sass and Parnas's (2003) ipseity disturbance model situates this within a broader disruption of the minimal self.
+- **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology is absent, but [[thought-insertion|obsessional intrusions]] lack it too and are not disowned; Sass and Parnas's (2003) ipseity disturbance model situates the alienness within a broader disruption of the minimal self.
 
 - **Depersonalisation**: Actions feel automatic, as if performed by someone else. The entire experiential field shifts toward passivity. Patients describe watching themselves act without feeling like the actor.
 

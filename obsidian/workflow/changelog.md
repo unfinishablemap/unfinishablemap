@@ -1,8 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T08:42:12+00:00
+ai_modified: 2026-11-04T09:14:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-04T09:14:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Secondary file**: [[concepts/thought-insertion]] (L108 only)
+- **Task**: P1 thought insertion "secure direction", L125 and L155 (step 3 of 8; synthesis C8–C9, X2; review files: the 2026-11-04 chatgpt-5-6-sol-pro and claude-fable-5-1 outer reviews)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: topic 3804 → 3813 (+9 of the ≤ +10 cap; topics 3000/4000, gate `>=`). The step-3 worst-case running total is 3817, so 4 words of slack pass to the later steps. Sibling 3135 → 3135 (+0, length-neutral as required). No reference entries added or removed.
+- **Changes**:
+  - (a) L125: "dissociates from agency in one secure direction: agency is lost with ownership preserved in schizophrenic [[thought-insertion|thought insertion]]." → "dissociates from agency only on the standard but most contested agency reading of [[thought-insertion|thought insertion]]: agency lost, ownership preserved." "Standard" is the sibling's L52 (Guillot's "standard account"). "Most contested" is the sibling's own L36 grading (`grep -c -F "most contested"` = 1, per the combine correction), paraphrased through the existing link, which is neither a quote nor a second link. "schizophrenic" was dropped, because sibling L42 (Mullins & Spence 2003) records that the symptom is "not specific to schizophrenia".
+  - (a) L125: "The dissociation is therefore one-way rather than double." → "The dissociation is therefore at most one-way, and only on the agency reading." The subject is explicit, so the P3 Ciaunica passage A, which inserts before this sentence, strands no pronoun.
+  - (b) L125: "Even so, it shows that the sense of agency is not simply body-ownership plus motor output, since the ownership-plus-output package can be present while agency is missing." → "Anarchic hand still shows that … since that package can be present while agency is missing." The inference is re-anchored on the anarchic hand case at L123 (Della Sala et al. 1991). L123 itself was not edited; it belongs to step 4. The old "it" pointed at the thought-insertion dissociation, and passage A would also have stranded it.
+  - L125, last sentence: "not something the dissociation alone establishes" → "not something the dissociations alone establish". The sentence now covers anarchic hand and the reading-relative ones.
+  - (c)+(e)+(f) L155: "Agency phenomenology has been stripped from what should be an active process. Sass and Parnas's (2003) ipseity disturbance model situates this within …" → "Agency phenomenology is absent, but [[thought-insertion|obsessional intrusions]] lack it too and are not disowned; Sass and Parnas's (2003) ipseity disturbance model situates the alienness within …". This removes the presupposition that ordinary thinking is felt as active (Claude's extraneity point; Strawson 2003 on `concepts/doxastic-voluntarism`). It also brings Billon's (2013) objection, the same observation as ChatGPT's ordinary-intrusive-thought point, onto the page, sourced through a plain link to the sibling's L54 ("Obsessional intrusions also arrive without felt agency … yet are not disowned", positive control = 1). The existing Sass & Parnas sentence now serves as the rival reading, and no citation was added. "this" → "the alienness" avoids a stranded pronoun after the new clause. Billon had 0 hits on this page before the edit. An in-text "(Billon 2013)" would need a ~15-word reference entry, which is over budget, so the objection is carried by the link.
+  - (d) Sibling L108: "[[phenomenology-of-agency-vs-passivity]] reasons from the double dissociation toward genuine conscious selection, a premise that holds only on the agency reading." → "[[phenomenology-of-agency-vs-passivity]] claims at most a one-way dissociation, on the agency reading alone, without inferring genuine conscious selection from it." (19 → 19 words). The next sentence, "On that reading …", still resolves to the agency reading.
+  - Not done (per Notes): the Martin & Pacherie 2013 and Henriksen, Parnas & Zahavi 2019 entries (the sibling carries them), the first-rank-symptom nosology, and the depersonalisation clauses installed 2026-10-27 (left untouched). No external quote was added.
+- **Engagement classification** (changelog only): no named-opponent reply was edited. The L155 change is a source-reading calibration. It downgrades a flat statement of the agency reading to its contested status, and it is not a refutation move.
+- **Left for others**: (8) Ciaunica passage A goes before "The dissociation is therefore at most one-way, and only on the agency reading."; its drafted "Felt initiation is therefore not shown degraded" would make two consecutive sentences open on "therefore", so (8) should vary its own connective. (6) L157: L125's pointer "the clinical sketch below records actions feeling automatic" is unchanged. L155 now runs description, contrast case, then rival account, and the L157 rewrite should stay parallel. (5) L161: "Each disorder strips away a component normally bundled with agency" still reads thought insertion as a subtraction, which L155 now qualifies. L161 belongs to step 5 and was not edited.
+- **ai_system**: unchanged on both files (`claude-opus-5-5`, the executing model per this fork's task output, is already present in each)
+- **ai_modified**: 2026-11-04T09:13:16+00:00 (both files); sibling `modified` 2026-10-01 → 2026-11-04
+- **Published**: yes
+
 ---
 
 ## 2026-11-04T08:42:12+00:00 - optimistic-review

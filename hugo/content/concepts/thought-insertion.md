@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-19 18:17:56+00:00
+ai_modified: 2026-11-04 09:13:16+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[cotard-delusion]]'
 - '[[self-model-theory-of-subjectivity]]'
 created: 2026-10-01
-date: &id001 2026-10-01
+date: &id001 2026-11-04
 description: 'Thought insertion read five ways: the alien thought keeps a first-person
   perspective or is not conscious, but whether that perspective is for-me-ness is
   disputed. The Map''s kind-claim stands, unsettled.'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 20:37:04+00:00
-lastmod: 2026-10-19 18:17:56+00:00
+lastmod: 2026-11-04 09:13:16+00:00
 modified: *id001
 related_articles:
 - '[[anarchic-hand-and-action-ownership]]'
@@ -109,7 +109,7 @@ The case is also the standard proposed counterexample to [immunity to error thro
 
 **Dualism.** Compatible, with the edge, such as it is, to the rival: the self-model reading predicts the profile and the Map's interface reading only accommodates it, neither supplying a mechanism. Billon's warning against trying to "reduce the phenomenal dimension to the spatial dimension" (2013, p. 311) is congenial at the [architecture tier](/project/architecture-vs-significance-two-tier-discount/), but Billon does not argue for non-physicality, and his 2023 chapter looks to neurophysiology to explain mineness.
 
-**Bidirectional Interaction.** A caution. [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) reasons from the double dissociation toward genuine conscious selection, a premise that holds only on the agency reading. On that reading a thought the patient generated feels generated elsewhere, so felt agency is an unreliable guide to causal origin, and arguments from agency phenomenology to mental causation must allow for it.
+**Bidirectional Interaction.** A caution. [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) claims at most a one-way dissociation, on the agency reading alone, without inferring genuine conscious selection from it. On that reading a thought the patient generated feels generated elsewhere, so felt agency is an unreliable guide to causal origin, and arguments from agency phenomenology to mental causation must allow for it.
 
 **No Many Worlds.** Coherence only: "not mine" presupposes a determinate subject to whom the thought is given.
 
