@@ -2,9 +2,9 @@
 title: "Clinical Phenomenology and Altered Experience"
 description: "Psychiatric disruption as a natural experiment on experience: its selective pattern tests some theories of consciousness and fits the Map's interface model without settling interface versus production."
 created: 2026-03-03
-modified: 2026-10-22
+modified: 2026-11-04
 human_modified: null
-ai_modified: 2026-10-22T09:05:44+00:00
+ai_modified: 2026-11-04T22:59:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ Clinical cases can discriminate among rival theories of consciousness that make 
 
 If consciousness is identical to brain activity, then every experiential change should have a sufficient neural explanation: no experiential disruption without a corresponding neural disruption, and no preserved experience where the relevant neural substrate is destroyed.
 
-Clinical phenomenology challenges even sophisticated identity theory most sharply through [[clinical-dissociation-as-systematic-evidence|dissociative identity disorder]], which produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report smaller hippocampal and amygdalar volumes (Vermetten et al. 2006; the amygdalar difference did not replicate in a larger sample, Reinders et al. 2022) and identity-state-dependent patterns of brain activation (Reinders et al. 2014; Vissia et al. 2022), so DID has neural correlates; they are graded differences, nothing like the destruction of a discrete module, while the reported fragmentation reaches selfhood itself—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [[consciousness-disruption-and-the-mind-brain-interface|Cognitive motor dissociation]] presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained [below](#the-convergence-argument)). [[pain-consciousness-and-causal-power|Pain asymbolia]] dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways, but it has a well-mapped cortical substrate (below).
+Clinical phenomenology challenges even sophisticated identity theory most sharply through [[clinical-dissociation-as-systematic-evidence|dissociative identity disorder]], which produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report smaller hippocampal and amygdalar volumes (Vermetten et al. 2006; the amygdalar difference did not replicate in a larger sample, Reinders et al. 2022; all patients in both samples had current or remitted PTSD, hence the hippocampal difference is [[dissociative-subtype-of-ptsd#the-hippocampal-question|not shown to be specific to DID]]) and identity-state-dependent patterns of brain activation (Reinders et al. 2014; Vissia et al. 2022), so DID has neural correlates; they are graded differences, nothing like the destruction of a discrete module, while the reported fragmentation reaches selfhood itself—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [[consciousness-disruption-and-the-mind-brain-interface|Cognitive motor dissociation]] presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained [below](#the-convergence-argument)). [[pain-consciousness-and-causal-power|Pain asymbolia]] dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways, but it has a well-mapped cortical substrate (below).
 
 ### What Functionalism Predicts
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-10-22 09:05:44+00:00
+ai_modified: 2026-11-04 22:59:19+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[dualism]]'
 created: 2026-03-03
-date: &id001 2026-10-22
+date: &id001 2026-11-04
 description: 'Psychiatric disruption as a natural experiment on experience: its selective
   pattern tests some theories of consciousness and fits the Map''s interface model
   without settling interface versus production.'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 20:31:40+00:00
-lastmod: 2026-10-22 09:05:44+00:00
+lastmod: 2026-11-04 22:59:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,7 +126,7 @@ Clinical cases can discriminate among rival theories of consciousness that make 
 
 If consciousness is identical to brain activity, then every experiential change should have a sufficient neural explanation: no experiential disruption without a corresponding neural disruption, and no preserved experience where the relevant neural substrate is destroyed.
 
-Clinical phenomenology challenges even sophisticated identity theory most sharply through [dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/), which produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report smaller hippocampal and amygdalar volumes (Vermetten et al. 2006; the amygdalar difference did not replicate in a larger sample, Reinders et al. 2022) and identity-state-dependent patterns of brain activation (Reinders et al. 2014; Vissia et al. 2022), so DID has neural correlates; they are graded differences, nothing like the destruction of a discrete module, while the reported fragmentation reaches selfhood itself—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [Cognitive motor dissociation](/topics/consciousness-disruption-and-the-mind-brain-interface/) presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained [below](#the-convergence-argument)). [Pain asymbolia](/topics/pain-consciousness-and-causal-power/) dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways, but it has a well-mapped cortical substrate (below).
+Clinical phenomenology challenges even sophisticated identity theory most sharply through [dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/), which produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report smaller hippocampal and amygdalar volumes (Vermetten et al. 2006; the amygdalar difference did not replicate in a larger sample, Reinders et al. 2022; all patients in both samples had current or remitted PTSD, hence the hippocampal difference is [not shown to be specific to DID](/concepts/dissociative-subtype-of-ptsd/#the-hippocampal-question)) and identity-state-dependent patterns of brain activation (Reinders et al. 2014; Vissia et al. 2022), so DID has neural correlates; they are graded differences, nothing like the destruction of a discrete module, while the reported fragmentation reaches selfhood itself—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [Cognitive motor dissociation](/topics/consciousness-disruption-and-the-mind-brain-interface/) presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained [below](#the-convergence-argument)). [Pain asymbolia](/topics/pain-consciousness-and-causal-power/) dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways, but it has a well-mapped cortical substrate (below).
 
 ### What Functionalism Predicts
 

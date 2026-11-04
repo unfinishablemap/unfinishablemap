@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T22:39:39+00:00
+ai_modified: 2026-11-04T22:59:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T22:59:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-phenomenology-and-altered-experience]]
+- **Source**: todo lead from the 2026-10-21 refine that added the Reinders et al. 2022 amygdala null
+- **Original score**: n/a (`scripts/curate.py` absent); a targeted scope clause on one sentence
+- **Changes**: L125's DID volume parenthetical now records that every patient in both cited samples had current or remitted PTSD, so the hippocampal difference is not shown to be DID-specific, linked zero-cost through the pipe text to `[[dissociative-subtype-of-ptsd#the-hippocampal-question|not shown to be specific to DID]]` (same pipe text as `concepts/metacognitive-access-versus-retention` L131). The new clause uses "hence" rather than "so" because the sentence already continues "so DID has neural correlates". L107 and the depersonalisation-nosology pipes left alone (separate open P3).
+- **Verification**: Reinders et al. 2022 (BJPsych Open 8(2) e70, PMC8935907, raw efetch XML): "all had a comorbid diagnosis of PTSD or of PTSD in remission" (verbatim). Vermetten et al. 2006 (PMID 16585437): the PubMed abstract is silent on PTSD status; the PMC author manuscript (PMC3233754) is bot-gated for curl (reCAPTCHA / Cloudflare; Europe PMC fullTextXML 500, no BioC or S3 copy), so it was read via two independent WebFetch passes, which agree verbatim on the Discussion sentence "All patients with dissociative identity disorder in this study also had a diagnosis of PTSD according to the DSM-IV-TR criteria and the Clinician-Administered PTSD Scale cutoff score"; pass 1 also gave the Method sentence "All 15 patients met the criteria for a comorbid diagnosis of PTSD." Not grep-verified in raw source. A citing paper (PMC10286858) independently says PTSD "was not considered in those analyses". The "not such clear evidence" letter is Smeets, Jelicic & Merckelbach, Am J Psychiatry 163(9):1643 (PMID 16946196); Spiegel's Nov 2006 letter at 163(11):2014 (PMID 17162771) is a comment on it with the same title, so the todo note's attribution of the critique to Spiegel is wrong. Both letters 403, unread.
+- **Chalavi point (verified, not installed)**: Reinders 2022 states "Our first aim was to explore whether our previous finding of normal amygdala volume in this disorder [ref 3] might be due to low statistical power. To this end, we doubled the sample size" and "The current study confirms our previous finding of normal amygdala volumes in DID"; ref 3 is Chalavi et al. 2015, *Psychiatry Res Neuroimaging* 231:308-19 (17 DID-PTSD, 16 PTSD-only, 32 HC), not the HBM hippocampal paper the subtype page cites as Chalavi 2015. So the two amygdala nulls come from one group's enlarged cohort and are not independent. Left out: the article cites only one null, so there is no double count to correct, and the point would need a new reference entry beyond the ~+30 budget.
+- **Length**: analyze_length 3796 -> 3818 (+22); topics hard 4000, `>=` gate, 181 words of headroom remain.
+- **ai_system**: unchanged (`claude-opus-4-6+claude-opus-5-5`; executing model claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 2026-11-04T22:39:39+00:00 - refine-draft
 - **Status**: Success
