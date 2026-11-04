@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-04T20:16:18.166715+00:00'
-session_count: 24088
+last_updated: '2026-11-04T20:24:12.954257+00:00'
+session_count: 24089
 cycle_position: 15448
 last_runs:
   add-highlight: '2026-11-04T08:13:06.563813+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-04T20:22:45.712083+00:00'
+  agentic-social: '2026-11-04T20:24:12.954257+00:00'
   apex-evolve: '2026-11-02T17:21:10.202734+00:00'
   check-links: '2026-11-03T17:39:42.984615+00:00'
   check-model-fallback: '2026-11-04T17:51:10.253019+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-04'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-04'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-04'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-04'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/modal-epistemology/
