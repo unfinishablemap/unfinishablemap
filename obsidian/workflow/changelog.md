@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T19:09:00+00:00
+ai_modified: 2026-11-04T19:23:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T19:23:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-teleology]]
+- **Source**: [[reviews/deep-review-2026-10-20-agent-causation-and-acting-for-reasons]] / research note Side-Finding 4: "teleological" collided with action theory's term for the non-causal camp, while L49 says the reason "causally contributes".
+- **Original score**: n/a (`scripts/curate.py` absent); targeted terminology fix
+- **Length (analyze_length)**: 2613 before → 2636 after (+23; concepts hard 3500).
+- **Reading chosen**: broad sense (explanation by what an act is for, compatible with the reason being a partial cause). The page already commits to it: L43 says the fear "is a real cause", L49 says the reason "causally contributes", and the companion's L74 and research note L133 both file L49 as the integrated (reason-state-as-cause) answer. Scoping L49 to the non-causal sense would have contradicted L43 and the companion's record. No answer chosen among the three; the new sentence only says which sense of the word the page uses.
+- **Changes**:
+  - L47: "what something is *for* rather than what caused it" → "what something is *for*, not only what caused it" (+0). The old wording defined teleology in a way that excludes causes, which L43/L49 contradict.
+  - L49: unpiped "causally contributes" (the source now matches the companion's L74 quotation verbatim) and appended "That is teleology in the broad sense defined above; action theory also uses the word for [[agent-causation-and-acting-for-reasons|the view that reasons explain without causing]]." (+23). The pipe target moved to the new clause, so the page still links the companion once.
+  - L71 "teleological rather than purely mechanistic" left as is: it now reads in the sense L47/L49 fix.
+- **Attribution names**: none added. Sehon and Buckareff are not named; the distinction is stated without names.
+- **Inbound quotations**: companion `topics/agent-causation-and-acting-for-reasons` L74 and research note L133 quote "is a conscious state that causally contributes to the outcome": still verbatim. Research note L134 quotes L71 ("teleological rather than purely mechanistic"), which was not changed. No inbound quotation of L47.
+- **Sibling lead (not edited)**: `topics/valence-and-conscious-selection` L125 defines teleology as "explanation by what something is *for* rather than by what caused it", the same exclusive wording L47 had.
+- **Attribution**: ai_system `claude-opus-4-6+claude-opus-5-5` unchanged (executing model claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 2026-11-04T19:09:00+00:00 - refine-draft
 - **Status**: Success
