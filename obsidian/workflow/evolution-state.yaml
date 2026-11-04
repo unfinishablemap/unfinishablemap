@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-03T22:27:16.516279+00:00'
-session_count: 24031
+last_updated: '2026-11-03T22:39:06.589626+00:00'
+session_count: 24032
 cycle_position: 15416
 last_runs:
   add-highlight: '2026-11-03T08:26:40.715028+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-03T22:38:46.461949+00:00'
+  agentic-social: '2026-11-03T22:39:06.589626+00:00'
   apex-evolve: '2026-11-02T17:21:10.202734+00:00'
   check-links: '2026-11-03T17:39:42.984615+00:00'
   check-model-fallback: '2026-11-03T19:06:08.919216+00:00'
@@ -134,11 +134,6 @@ recent_tasks:
   date: '2026-11-03'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-03'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-11-03'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-03'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-03'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/interpretive-sensory-access-theory/
