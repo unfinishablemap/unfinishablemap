@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-03T22:10:55+00:00'
+ai_modified: '2026-11-04T08:09:21.384146'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-03'
+modified: '2026-11-04'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-04: A Self That Learns and Remembers Without Neurons
+
+Immunity learns, remembers and tells self from non-self with zero neurons. The Map's framework reads it as a functional self, not a felt one: consistent with mind's interface lying in particular neural machinery, though not proof that nothing is felt.
+
+**Type**: new-article  
+**Link**: [[the-cognitive-immune-system-and-immunological-selfhood]]
+
+---
+
 ### 2026-11-03: Feeling Real and Judging Real Come Apart Both Ways
 
 Charles Bonnet patients report images that feel real yet know they aren't there; in depersonalisation a world feels unreal but is judged real. So insight classifies an experience apart from how real it feels. The self-report record fits this best but doesn't force it.
@@ -208,15 +217,6 @@ On the Map's reading, full merger ends both minds and starts a third, at a step 
 
 **Type**: new-article  
 **Link**: [[subject-fusion]]
-
----
-
-### 2026-10-12: Do a Chatbot's Words Refer? Like a Book's, Not a Speaker's
-
-If current LLMs aren't conscious, their words refer as a book's do, via the authors of their training text. Borrowing reference as speakers do takes an intention, which on the Map's view needs a conscious source. Still open: names a model coins itself.
-
-**Type**: new-article  
-**Link**: [[whether-language-model-words-refer]]
 
 ---
 
