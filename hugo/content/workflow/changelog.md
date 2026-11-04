@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 12:46:02+00:00
+ai_modified: 2026-11-04 12:56:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 12:46:02+00:00
+lastmod: 2026-11-04 12:56:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T12:56:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)
+- **Original score**: n/a (targeted reconciliation; `scripts/curate.py` absent)
+- **Scope**: the L89 statement of preference (added 12:46Z for calibration parity) against the L103/L105 non-adjudication paragraphs and [P-Q1](/positions/quantum-interface/#p-q1)'s subordination scope. Non-adjudication kept as the deliverable (08-04 and 11-02 deep reviews). Reading applied: the ledger adjudicates nothing; [P-Q1](/positions/quantum-interface/#p-q1) records a provisional tenet-fit ordering whose grounds lie outside this ledger, which is why calibration parity requires the ledger to charge the forward route. L89 unchanged (already says "provisionally prefers"); L91 untouched (owned by the open P3); L57-L107 comparative rewrites and the "Where Each Stands: A Debt Inventory" heading kept. `positions/quantum-interface` read only.
+- **Changes**:
+  - L103 "Choosing between them would require evidence…" → "Settling which route is true would require evidence…", plus a new sentence: "[P-Q1](/positions/quantum-interface/#p-q1)'s provisional preference for the forward route is a [tenet-fit ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering), not a verdict this ledger delivers." (+19). The link goes to the section that separates refusing to commit on truth from preferring on fit.
+  - L105 "impose a tie-breaker of its own—to rule that one set of priors is the correct one" → "impose a tie-breaker—to rule that one set of priors, [P-Q1](/positions/quantum-interface/#p-q1)'s included, is the correct one" (−1). The Map holds its own weighting as a working stance and does not rule it correct.
+  - L113 (Tenet 2): the forward-in-time-conscious-selection L143 minimality consideration ("one intervention at one moment" against "an influence propagating backward through an entire causal history"; "smallness counts toward tenet-fit, not truth") ranks the routes, while L113 recorded only where each places its smallness. That is a real difference, so it is named in one appended sentence instead of being harmonised away: "The [forward-route survey](/topics/forward-in-time-conscious-selection/) counts the single moment as smaller, a tenet-fit reason for [P-Q1](/positions/quantum-interface/#p-q1)'s ordering that this unscaled ledger cannot weigh." (+21). "smaller" is attributed to the sibling, not asserted by the ledger. The sibling was not edited.
+- **Word count** (analyze_length): 3367 → 3406 (+39; budget ≤ +40; topics hard 4000, gate `>=`).
+- **Inbound quotations**: none of the three reworded sentences is quoted outside `reviews/`/`workflow/` (grep -F per phrase).
+- **Reported, not fixed**: (1) [P-Q1](/positions/quantum-interface/#p-q1)'s band rationale says the entry "ranks mechanisms on the *decoherence-timescale* axis", but that axis cannot separate forward post-decoherence selection from time-symmetric selection, since neither needs coherence to survive (this page L69). The subordination-scope ranking therefore rests on grounds [P-Q1](/positions/quantum-interface/#p-q1) does not name (the sibling's tenet-fit considerations at L141-L151). This is a lead for a positions-evolve pass, not a blocker for this page. (2) The sibling L143 calls the time-symmetric route "an influence propagating backward through an entire causal history", while this page (L59, L113) describes atemporal constraint-satisfaction. Lead for the sibling's open P3s; that page has 15 words of headroom.
+- **Attribution**: executing model claude-opus-5-5 is already the final component of ai_system; not appended. ai_modified 2026-11-04T12:56:32+00:00.
+- **Published**: yes
 
 ## 2026-11-04T12:46:02+00:00 - refine-draft
 - **Status**: Success

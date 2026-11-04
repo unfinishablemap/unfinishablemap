@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-11-04 12:46:02+00:00
+ai_modified: 2026-11-04 12:56:32+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-02 10:29:55+00:00
-lastmod: 2026-11-04 12:46:02+00:00
+lastmod: 2026-11-04 12:56:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,9 +105,9 @@ The cartographic posture forbids reading the ledger's shape as a verdict. Whethe
 
 ## The Map's Posture: Live Alternatives, Not Rivals
 
-The Map holds forward-in-time and time-symmetric selection as *genuine alternatives within its interactionist commitments*: both satisfy the [tenets](/tenets/), and both face open costs the Map names honestly. The comparison clarifies what each route owes—and that clarification is the deliverable. Choosing between them would require evidence the Map does not have, or a metaphysical tie-breaker the tenets do not supply at this resolution.
+The Map holds forward-in-time and time-symmetric selection as *genuine alternatives within its interactionist commitments*: both satisfy the [tenets](/tenets/), and both face open costs the Map names honestly. The comparison clarifies what each route owes—and that clarification is the deliverable. Settling which route is true would require evidence the Map does not have, or a metaphysical tie-breaker the tenets do not supply at this resolution. [P-Q1](/positions/quantum-interface/#p-q1)'s provisional preference for the forward route is a [tenet-fit ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering), not a verdict this ledger delivers.
 
-Non-adjudication is not a ban on inference, and it is worth saying plainly what a reader is *entitled* to do with the ledger. The accounting fixes the bills so that a reader's own prior commitments can do the weighing: someone who holds presentism or temporal becoming on independent grounds will find the forward route's charges worth paying *for them*; someone who weights a clean Libet answer or who already accepts retrocausal interpretations will find the time-symmetric route's worth paying *for them*. What the Map declines to do is impose a tie-breaker of its own—to rule that one set of priors is the correct one. The conclusion is licensed; it just depends on priors the article deliberately leaves unfixed.
+Non-adjudication is not a ban on inference, and it is worth saying plainly what a reader is *entitled* to do with the ledger. The accounting fixes the bills so that a reader's own prior commitments can do the weighing: someone who holds presentism or temporal becoming on independent grounds will find the forward route's charges worth paying *for them*; someone who weights a clean Libet answer or who already accepts retrocausal interpretations will find the time-symmetric route's worth paying *for them*. What the Map declines to do is impose a tie-breaker—to rule that one set of priors, [P-Q1](/positions/quantum-interface/#p-q1)'s included, is the correct one. The conclusion is licensed; it just depends on priors the article deliberately leaves unfixed.
 
 This posture is itself a calibration commitment. The temptation in any cost accounting is to let "route X pays less on the questions I chose to ask" slide into "route X is correct, full stop." The [evidential-status-discipline](/project/evidential-status-discipline/) forbids that *unconditional* slide: a lighter bill on a stipulated battery is not evidence of truth, and the battery itself (metaphysical requirements, physical demands, empirical handles, philosophical foreclosures) is one the Map selected. A reader who weights the questions differently will read the bills differently—and the Map invites exactly that reconfiguration rather than foreclosing it.
 
@@ -115,7 +115,7 @@ This posture is itself a calibration commitment. The temptation in any cost acco
 
 This comparison is most directly an exercise in three tenets.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) (Tenet 2)** is the axis along which both routes are measured. The forward route's post-decoherence variant claims minimality by asking consciousness only to effect the transition from an already-decohered improper mixture to a single definite outcome, within Born statistics. Because that mixture is improper, it holds no menu of already-localized actualities waiting for one to be picked out; the minimal ask is that one element *become* the outcome, not that one already-settled alternative be preferred over its neighbours. The time-symmetric route claims minimality by asking consciousness only to satisfy constraints physics leaves underdetermined, injecting no energy and overriding no law. Both are bids for the smallest possible non-physical influence; the cost accounting shows they locate that smallness differently—one at a moment, one across an interval.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) (Tenet 2)** is the axis along which both routes are measured. The forward route's post-decoherence variant claims minimality by asking consciousness only to effect the transition from an already-decohered improper mixture to a single definite outcome, within Born statistics. Because that mixture is improper, it holds no menu of already-localized actualities waiting for one to be picked out; the minimal ask is that one element *become* the outcome, not that one already-settled alternative be preferred over its neighbours. The time-symmetric route claims minimality by asking consciousness only to satisfy constraints physics leaves underdetermined, injecting no energy and overriding no law. Both are bids for the smallest possible non-physical influence; the cost accounting shows they locate that smallness differently—one at a moment, one across an interval. The [forward-route survey](/topics/forward-in-time-conscious-selection/) counts the single moment as smaller, a tenet-fit reason for [P-Q1](/positions/quantum-interface/#p-q1)'s ordering that this unscaled ledger cannot weigh.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction) (Tenet 3)** is enacted by both routes and is the reason both survive as live alternatives. Each delivers genuine two-way traffic—the brain presents alternatives, consciousness selects among them—and each does so without collapsing into epiphenomenalism. The routes differ only in whether the mind-to-world leg runs forward or atemporally.
 
