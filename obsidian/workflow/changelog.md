@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T15:39:10+00:00
+ai_modified: 2026-11-04T15:59:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T15:59:27+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/phenomenology-of-anticipation]] (3,427 words by analyze_length; topics soft 3000 / hard 4000). Chosen because no section page is a draft, 119 of 902 live pages appear in no pessimistic review's content, and this one has the oldest `modified` (2026-02-10) among them. It was not on today's exclusion list and has seven prior deep reviews; their stability notes were respected.
+- **Findings**: (1) High: the lead L51 "Every moment of conscious experience leans forward." and L69, L135 and L137 ("consciousness is constitutively temporal") assert a universal. The article's own L113 concedes a datum that would falsify it, and it ignores the level split in [[non-temporal-consciousness]]. (2) Medium: L129 defines prospective memory as "deliberate future simulation", which is episodic future thinking, contradicting the linked concept page; L167 repeats the gloss; L123–127 still use the archived "temporal selection" name. (3) Medium: the surprise section (L143, L145) predates the 09-02 recalibration and asserts what L93 declares a stalemate. (4) Medium-low: L157 says "*one* continuation, not a branching tree", against the article's own L103 and L117. Each quoted string has `grep -c -F` = 1. Unsourced leads not tasked: the Varela meditator reports (L113), Bergson's forward component (L111) and *Abklang* (L101).
+- **Tasks**: 3 refine-draft tasks on obsidian/topics/phenomenology-of-anticipation.md: two P2 (Issue 1; Issue 2) and one P3 (Issues 3 and 4). All were inserted above `## Completed Tasks`. parse_tasks active went 326 → 329.
+- **Output**: [[reviews/pessimistic-2026-11-04-phenomenology-of-anticipation]]
 
 ## 2026-11-04T15:39:10+00:00 - refine-draft
 - **Status**: Success
