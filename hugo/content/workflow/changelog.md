@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 22:59:56+00:00
+ai_modified: 2026-11-04 23:14:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 22:59:56+00:00
+lastmod: 2026-11-04 23:14:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T23:14:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Source**: todo lead from the 2026-10-21 ~06:10Z apex-evolve on `apex/phenomenology-mechanism-bridge`, plus the 2026-11-04 19:52Z driver addendum (L85 Kim misattribution)
+- **Original score**: n/a (`scripts/curate.py` absent); a targeted narrowing of the Map's reply to Kim at four loci, length-neutral
+- **Length (analyze_length)**: 3569 before → 3568 after (−1). Concepts hard 3,500 (`>=` gate), so the page was already over and stays over. The overage is reference apparatus: prose ~2,885, Further Reading ~277, References ~349. The prose additions were offset by Further Reading gloss trims.
+- **Changes**:
+  - (a) L111: "the quantum case—where probabilities constrain but do not determine—is precisely the opening downward causation requires." becomes "the quantum case is the opening downward causation requires, though only against closure stated as sufficiency: closure stated as chance-fixing—\"every physical effect has a physical cause that fixes its chance\"—survives indeterminism ([causal-closure](/concepts/causal-closure/))." (+17). The dropped interjection repeated the sentence before it (installed by the 2026-05-26 condense; not quoted anywhere). The wording matches `concepts/type-token-causation` L80 and `concepts/causal-exclusion-argument` L79.
+  - (a) L115: "so Kim's argument fails exactly where its causal-closure premise fails." becomes "so Kim's argument fails where closure stated as sufficiency fails, leaving open whether settling which outcome is actual counts as causing ([P-Q3](/positions/quantum-interface/#mechanism-debt))." (+12). The residue clause is the one every sibling installation carries (type-token L80, causal-exclusion L79, apex L132). It marks the open question and concedes nothing.
+  - (b) L200: "Consciousness acts where physics is incomplete—at quantum indeterminacies, through biasing probabilities—respecting …" becomes "Consciousness acts at quantum indeterminacies, selecting among outcomes physics leaves open without altering their long-run frequencies ([P-Q2](/positions/quantum-interface/#p-q2)), respecting …" (+7). The flat "where physics is incomplete" goes too, the same flat claim the 2026-08-02 lead fix replaced with "collapse-involving readings leave open". "Long-run frequencies" (the unconditioned marginal) is true under both options of the open P1 HUMAN DECISION on [P-Q2](/positions/quantum-interface/#p-q2)'s quantifier, so it takes no side. **The Family 3 "biasing probabilities" sweep (`concepts/emergence` and five secondaries) should match this wording.**
+  - (c) L85: "The argument implies … a generalisation Kim acknowledged undermines his conclusion's plausibility." becomes "The argument, critics press, implies … a generalisation Kim denied." (−2). Kim 2005 ch. 2 (pp. 56/68, verified by Google Books in-volume search on the 11-04 `type-token-causation` deep review) says the argument "does not eliminate all macrocausation" and "Reduction is the stopper". `archive/concepts/downward-causation.md` L69 carries the same error and was left alone, as briefed.
+  - (c, consistency) L81: "Kim concludes that mental properties—and all higher-level properties—are causally excluded" becomes "Kim concludes that mental properties are causally excluded" (−2). Once L85 says Kim denied the generalisation, the old L81 contradicted it. The clause came from the 2026-05-26 condense, and nothing quotes it or guards it.
+  - Further Reading gloss trims, each checked by `git log -S` and a grep of `reviews/`; none is review-installed. causal-closure-debate-historical-survey −5 (coalesce 03-30). many-worlds −5 (coalesce). decoherence −4 (coalesce; it also drops the overclaim "why it doesn't close", which body L135 hedges). selection-only-mind-influence −6 (cross-review 05-05). overdetermination-dissolution −9 (cross-review 05-15; body L89 already makes the dissolution-vs-answer point). delegatory-causation −2 (coalesce). interface-efficacy −2 (cross-review 05-05). Guards kept: consciousness-as-activity "removing one defeater" (06-02 calibration) and clinical-neuroplasticity "suggestive" (04-02 qualification).
+- **Engagement with Kim**: mixed. Against closure stated as sufficiency the reply argues within Kim's own framework: his premise 1 is sufficiency, and single-outcome indeterminism denies it. Against chance-fixing closure the reply marks the framework boundary: whether settling an outcome without shifting its chance counts as causing is the open [P-Q3](/positions/quantum-interface/#p-q3) question, which the Map records and does not concede. The reply itself stands; only its scope narrowed.
+- **Inbound quotations**: none on live pages for any reworded sentence. Searched obsidian/, archive/ and hugo/content/, excluding reviews/ and workflow/. The only hits were archived copies (`archive/concepts/downward-causation`, `archive/concepts/mental-causation`), left alone.
+- **Leads (not fixed, out of scope)**: L111 "Quantum mechanics is fundamentally indeterministic" is flat against the page's own collapse-reading hedge in the lead and the table. L222 gloss "Why conservation laws don't block mental causation" overstates body L119 ("per-trial and local accounting remains owed").
+- **ai_system**: unchanged (executing model claude-opus-5-5 is already present).
+- **Published**: yes
 
 ## 2026-11-04T22:59:56+00:00 - refine-draft
 - **Status**: Success

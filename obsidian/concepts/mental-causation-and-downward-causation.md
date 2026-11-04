@@ -2,9 +2,9 @@
 title: "Mental Causation and Downward Causation"
 description: "How mental states cause physical effects despite Kim's exclusion argument. Downward causation acts at quantum indeterminacies collapse readings leave open."
 created: 2026-01-15
-modified: 2026-10-29
+modified: 2026-11-04
 human_modified: null
-ai_modified: 2026-10-29T05:22:14+00:00
+ai_modified: 2026-11-04T23:14:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -78,11 +78,11 @@ Jaegwon Kim's exclusion argument (*Physicalism, or Something Near Enough*, 2005)
 
 These premises are jointly inconsistent. If physical causes are sufficient (premise 1), and mental causes aren't identical to physical causes (premise 4), then mental causation either overdetermines effects (violating premise 3) or doesn't occur at all (denying premise 2).
 
-Kim concludes that mental properties—and all higher-level properties—are causally excluded by their physical realisers: either consciousness causes nothing ([[concepts/epiphenomenalism]]) or it just *is* its physical realiser ([[reductionism|reductionism]]). See [[reductionism#Kim's Exclusion Challenge]] for the fuller argument, and [[causal-exclusion-argument]] for the canonical statement of the inconsistent set, the supervenience machinery, and the full responses literature (Bennett, List & Menzies, Block's drainage worry).
+Kim concludes that mental properties are causally excluded by their physical realisers: either consciousness causes nothing ([[concepts/epiphenomenalism]]) or it just *is* its physical realiser ([[reductionism|reductionism]]). See [[reductionism#Kim's Exclusion Challenge]] for the fuller argument, and [[causal-exclusion-argument]] for the canonical statement of the inconsistent set, the supervenience machinery, and the full responses literature (Bennett, List & Menzies, Block's drainage worry).
 
 ### The Drainage and Supervenience Problems
 
-The argument implies causal efficacy "drains" to fundamental physics—threatening not just mental but *all* higher-level causation, a generalisation Kim acknowledged undermines his conclusion's plausibility. The supervenience version: if physical property P suffices to cause effect E, the supervening mental property M is "screened off." The Map replaces one-way supervenience with *mutual constraint*—physical states constrain which experiences are possible, and conscious states constrain which physical outcomes become actual.
+The argument, critics press, implies causal efficacy "drains" to fundamental physics—threatening not just mental but *all* higher-level causation, a generalisation Kim denied. The supervenience version: if physical property P suffices to cause effect E, the supervening mental property M is "screened off." The Map replaces one-way supervenience with *mutual constraint*—physical states constrain which experiences are possible, and conscious states constrain which physical outcomes become actual.
 
 ### The Overdetermination Problem
 
@@ -108,11 +108,11 @@ The Map provides what classical emergentism lacks: a mechanism for downward caus
 
 ### Why Quantum Mechanics Matters
 
-Classical physics was deterministic—every physical event had sufficient physical causes, leaving no opening for higher-level causation. Quantum mechanics is fundamentally indeterministic: it specifies which outcomes *might* occur and with what probability, but not *which* actualises. Since Kim's argument depends on physical causes being *sufficient*, the quantum case—where probabilities constrain but do not determine—is precisely the opening downward causation requires.
+Classical physics was deterministic—every physical event had sufficient physical causes, leaving no opening for higher-level causation. Quantum mechanics is fundamentally indeterministic: it specifies which outcomes *might* occur and with what probability, but not *which* actualises. Since Kim's argument depends on physical causes being *sufficient*, the quantum case is the opening downward causation requires, though only against closure stated as sufficiency: closure stated as chance-fixing—"every physical effect has a physical cause that fixes its chance"—survives indeterminism ([[causal-closure]]).
 
 ### The Minimal Quantum Interaction Mechanism
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined. Because consciousness acts where physics specifies only probabilities, there is no sufficient physical cause to be excluded by—so Kim's argument fails exactly where its causal-closure premise fails. The [[mind-matter-interface|two-layer architecture]] places this as Layer 2 (Interface/Control), complementing Layer 1's filter-theory explanation of why brain-consciousness correlation doesn't entail production.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined. Because consciousness acts where physics specifies only probabilities, there is no sufficient physical cause to be excluded by—so Kim's argument fails where closure stated as sufficiency fails, leaving open whether settling which outcome is actual counts as causing ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). The [[mind-matter-interface|two-layer architecture]] places this as Layer 2 (Interface/Control), complementing Layer 1's filter-theory explanation of why brain-consciousness correlation doesn't entail production.
 
 Several mechanisms have been proposed. Henry Stapp's quantum Zeno mechanism is the most developed: sustained attention repeatedly "observes" quantum states, holding neural patterns in place through the quantum Zeno effect. Others include Eccles' intention-modulated vesicle release and frameworks coupling phenomenal valence to action selection (see [[psychophysical-laws-bridging-mind-and-matter]]). The [[evolutionary-case-for-quantum-neural-effects|evolutionary case]] argues evolution would have selected for neural architectures supporting such an interface.
 
@@ -197,7 +197,7 @@ Mental causation and downward causation are central to the Map's framework.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This tenet's affirmation that consciousness causally influences physical outcomes *just is* downward causation for mental properties (developed in [[bidirectional-interaction]]). Against [[concepts/epiphenomenalism|epiphenomenalism]]: if consciousness causes nothing, our reports and beliefs about experience are causally disconnected from actual experiences, and we lose epistemic access to our own minds.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Names the proposed locus. Consciousness acts where physics is incomplete—at quantum indeterminacies, through biasing probabilities—respecting causal closure's spirit while denying its letter.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Names the proposed locus. Consciousness acts at quantum indeterminacies, selecting among outcomes physics leaves open without altering their long-run frequencies ([[positions/quantum-interface#^p-q2|P-Q2]]), respecting causal closure's spirit while denying its letter.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Required for mental causation to be possible. If every outcome actualises in branching universes, there's no selection for consciousness to perform.
 
@@ -206,8 +206,8 @@ Mental causation and downward causation are central to the Map's framework.
 ## Further Reading
 
 - [[causal-closure]] — The principle mental causation challenges
-- [[causal-closure-debate-historical-survey]] — How the causal closure principle evolved from Elisabeth's challenge through Kim's exclusion argument
-- [[delegatory-causation]] — Mechanism by which physical states hand off causal work to experiences
+- [[causal-closure-debate-historical-survey]] — The closure principle's history, from Elisabeth through Kim
+- [[delegatory-causation]] — How physical states hand off causal work to experiences
 - [[delegatory-dualism]] — Saad's 2025 response: experiences preempt rather than overdetermine
 - [[trumping-preemption]] — Schaffer's structural template separating causal authority from counterfactual sufficiency
 - [[psychophysical-laws]] — How mental states select physical outcomes
@@ -220,13 +220,13 @@ Mental causation and downward causation are central to the Map's framework.
 - [[agent-causation]] — Agent causation as substance causation
 - [[consciousness-as-activity]] — Why an activity (unlike a property) cannot be epiphenomenal, removing one defeater for mental causation
 - [[conservation-laws-and-mental-causation]] — Why conservation laws don't block mental causation
-- [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
+- [[decoherence]] — The physics challenge to the quantum opening
 - [[mind-matter-interface]] — The unified two-layer architecture
 - [[consciousness-bandwidth-architecture]] — Whether the mind-body channel carries enough information
-- [[selection-only-mind-influence]] — Information-theoretic limits on per-event selection that the quantum mechanism must respect
-- [[overdetermination-dissolution-under-selection-only-interactionism]] — How the strictest reading of Tenet 2 dissolves Kim's overdetermination objection rather than answering it on Kim's terms
-- [[interface-efficacy-and-the-cognitive-gap]] — Comparative-evolutionary scaling of the interface mechanism across species
-- [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters here)
+- [[selection-only-mind-influence]] — Information-theoretic limits on per-event selection
+- [[overdetermination-dissolution-under-selection-only-interactionism]] — How Tenet 2's strictest reading dissolves Kim's overdetermination objection
+- [[interface-efficacy-and-the-cognitive-gap]] — How the interface scales across species
+- [[concepts/many-worlds]] — Why the Map rejects MWI
 - [[pairing-problem]] — What connects this mind to this body
 - [[concepts/epiphenomenalism]] — The view denying mental causation
 - [[tenets]] — The Map's foundational commitments
