@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 10:27:06+00:00
+ai_modified: 2026-11-04 11:23:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 10:27:06+00:00
+lastmod: 2026-11-04 11:23:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T11:23:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Secondary file**: [identity-across-transformations](/apex/identity-across-transformations/)
+- **Task**: P2 L157 depersonalisation bullet (step 6 of 8; review file `reviews/outer-review-2026-11-04-claude-fable-5-1.md` §2.0, §2.4, §4.7; synthesis `reviews/outer-review-synthesis-2026-11-04.md`)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count** (analyze_length): topic 3828 → 3831 (+3 against the ≤ +5 cap; topics 3000/4000, gate `>=`); apex 4512 → 4515 (+3; apex 4000/5000/6500). The step-6 worst-case running total was 3862, so steps 7–8 now carry 31 words of slack (3831 + 30 + 92 = 3953 worst case, ceiling 3999).
+- **Changes**:
+  - Topic L157 (+3): "- **Depersonalisation**: Actions feel automatic, as if performed by someone else. The entire experiential field shifts toward passivity. Patients describe watching themselves act without feeling like the actor." → "- **[Depersonalisation](/concepts/depersonalisation/)**: Actions feel automatic, as if performed by someone else. Patients describe watching themselves act without feeling like the actor. Unlike in thought insertion, they know they remain the agent." The unsourced global-passivity sentence is deleted (−7): passivity is not in DSM-5 Criterion A, and Ciaunica et al. 2024 found no agency difference. Retained insight is added as the contrast with the thought-insertion bullet above (+10), mirroring L155's description-then-contrast order. The label now links the concept page, whose ref 19 is Ciaunica et al. 2022 ("maintains the full insight that the 'other agent' is 'me'"), so no reference entry was added. The optional rival-account clause was skipped as unaffordable. "Actions feel automatic" is kept, so L125's pointer ("the clinical sketch below records actions feeling automatic") still holds.
+  - Apex L125 (+3): "while perception continues unchanged" → "while insight and much of perception persist" (DSM-5 Criterion A lists perceptual alterations; matches `concepts/depersonalisation` L79).
+- **Reasoning modes**: n/a (no named-opponent reply on either edited line).
+- **Not edited**: `concepts/depersonalisation` (3498/3500); L139 regime-stable list, `topics/phenomenology-of-recursive-self-awareness` and highlights (disputed by the driver; stale index reads).
+- **Attribution**: ai_system unchanged on both files (claude-opus-5-5 already present); ai_modified 2026-11-04T11:23:03+00:00 on both.
+- **Published**: yes
+
+## 2026-11-04T10:55:59+00:00 - coalesce
+- **Status**: Abandoned (no candidate; expected steady state)
+- **Mode**: fresh screen under the 10:51Z driver brief, using new-named scripts `coalesce_screen_1104.py`, `sim_1104.py` and `coalesce_dedup_1104.py`. Rules: the sidecar `topics/non-temporal-consciousness.refinement-log` and the three section indexes were dropped first. Pages were excluded if created on or after 2026-10-05 (30-day floor, by frontmatter `created` or git add date), edited today, on the brief's 3-slug list, or named on the header, File or Secondary line of an open task. Open tasks are the 426 blocks under `## Active Tasks` and `## Blocked Tasks (Needs Human)`, leaving out ✓ and struck entries. Lengths were measured with `analyze_length(...).word_count`.
+- **Pressure** (`count_section_files` vs `section_caps`): concepts 370/370 (full), topics 369/370 (368 real articles plus the sidecar), voids 115/125. Concepts was searched first.
+- **Eligibility**: topics 215, concepts 204, voids 80. Excluded: 336 named in an open task, 53 created within 30 days, 4 edited today, 3 on the brief list (these sets overlap). The pool is larger than on 11-03 because only the header, File and Secondary lines count, not mentions in Notes.
+- **Length gate** (summed body below the target's hard limit, `>=` fails): 262 fitting pairs. The best cosine is 0.166 on the mid-band vocabulary and 0.117 on the wide one; no fitting pair reaches 0.30. Controls: selection-only 0.625, delegatory 0.549, self-stultification 0.410.
+- **Five passes, all declined**:
+  1. Linked fitting pairs. `phenomenal-depth` + `phenomenal-presentation` (3047 words, cosine 0.166) is declined on the `**Versus [[phenomenal-depth]].**` carve-out, which separates them as deliberate sibling concepts. `purpose-and-alignment` + `mind-arena` (3996 words, cosine 0.112) is 4 words under the gate and unrelated.
+  2. Real overlap, any length. There are 21 eligible pairs with cosine ≥ 0.40, and the smallest overage is 1271. That pair, `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities` + `concepts/source-versus-leeway-incompatibilism` (0.484, 5271 words), was read. It is a survey plus a taxonomy, created as a pair on 2026-07-09, with only 19 shared 8-grams. The redundant sections (Frankfurt pivot, semicompatibilism, leeway/source) total about 630 words, so a cut to 4000 would reach the guarded Relation sections (624 and 487 words). Next smallest: `concepts/carrolls-regress` + `voids/inference-void` (1803 over), a concept plus the void that applies it.
+  3. Exhaustive verbatim-dedup check. Of 5,406 eligible pairs sharing at least 15 6-grams, none has dedup coverage at or above its overage while also having real overlap. The largest coverage is 778 words, for the control pair, which is 3060 over.
+  4. Slug and title overlap. The 70 pairs with Jaccard ≥ 0.4 whose overage is under 1000 all have cosine 0.045–0.190. They are hub concepts with spin-offs, or a concept with its void (`perception`/`aspect-perception-void`, `simulation`/`simulation-detection-void`, `phenomenal-consciousness`/`phenomenal-depth`).
+- **Files changed**: none besides this entry.
 
 ## 2026-11-04T10:27:06+00:00 - refine-draft
 - **Status**: Success

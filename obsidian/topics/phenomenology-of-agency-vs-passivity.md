@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-11-04
 human_modified:
-ai_modified: 2026-11-04T10:26:16+00:00
+ai_modified: 2026-11-04T11:23:03+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -154,7 +154,7 @@ Pathological cases illuminate the structure (see [[clinical-phenomenology-and-al
 
 - **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology is absent, but [[thought-insertion|obsessional intrusions]] lack it too and are not disowned; Sass and Parnas's (2003) ipseity disturbance model situates the alienness within a broader disruption of the minimal self.
 
-- **Depersonalisation**: Actions feel automatic, as if performed by someone else. The entire experiential field shifts toward passivity. Patients describe watching themselves act without feeling like the actor.
+- **[[depersonalisation|Depersonalisation]]**: Actions feel automatic, as if performed by someone else. Patients describe watching themselves act without feeling like the actor. Unlike in thought insertion, they know they remain the agent.
 
 - **Utilisation behaviour** (Lhermitte, 1983): Patients with frontal damage act on objects placed before them—seeing scissors, they cut; seeing a pen, they write. With frontal inhibition suppressed, affordances capture action: to the patients, presentation "implies the order to grasp and use them". No felt passivity is reported.
 

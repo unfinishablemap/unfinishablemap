@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-11-04 10:26:16+00:00
+ai_modified: 2026-11-04 11:23:03+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -35,7 +35,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:47:40+00:00
-lastmod: 2026-11-04 10:26:16+00:00
+lastmod: 2026-11-04 11:23:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ Pathological cases illuminate the structure (see [clinical phenomenology and alt
 
 - **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology is absent, but [obsessional intrusions](/concepts/thought-insertion/) lack it too and are not disowned; Sass and Parnas's (2003) ipseity disturbance model situates the alienness within a broader disruption of the minimal self.
 
-- **Depersonalisation**: Actions feel automatic, as if performed by someone else. The entire experiential field shifts toward passivity. Patients describe watching themselves act without feeling like the actor.
+- **[Depersonalisation](/concepts/depersonalisation/)**: Actions feel automatic, as if performed by someone else. Patients describe watching themselves act without feeling like the actor. Unlike in thought insertion, they know they remain the agent.
 
 - **Utilisation behaviour** (Lhermitte, 1983): Patients with frontal damage act on objects placed before them—seeing scissors, they cut; seeing a pen, they write. With frontal inhibition suppressed, affordances capture action: to the patients, presentation "implies the order to grasp and use them". No felt passivity is reported.
 

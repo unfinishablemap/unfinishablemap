@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T10:55:59+00:00
+ai_modified: 2026-11-04T11:23:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T11:23:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Secondary file**: [[apex/identity-across-transformations]]
+- **Task**: P2 L157 depersonalisation bullet (step 6 of 8; review file `reviews/outer-review-2026-11-04-claude-fable-5-1.md` §2.0, §2.4, §4.7; synthesis `reviews/outer-review-synthesis-2026-11-04.md`)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count** (analyze_length): topic 3828 → 3831 (+3 against the ≤ +5 cap; topics 3000/4000, gate `>=`); apex 4512 → 4515 (+3; apex 4000/5000/6500). The step-6 worst-case running total was 3862, so steps 7–8 now carry 31 words of slack (3831 + 30 + 92 = 3953 worst case, ceiling 3999).
+- **Changes**:
+  - Topic L157 (+3): "- **Depersonalisation**: Actions feel automatic, as if performed by someone else. The entire experiential field shifts toward passivity. Patients describe watching themselves act without feeling like the actor." → "- **[[depersonalisation|Depersonalisation]]**: Actions feel automatic, as if performed by someone else. Patients describe watching themselves act without feeling like the actor. Unlike in thought insertion, they know they remain the agent." The unsourced global-passivity sentence is deleted (−7): passivity is not in DSM-5 Criterion A, and Ciaunica et al. 2024 found no agency difference. Retained insight is added as the contrast with the thought-insertion bullet above (+10), mirroring L155's description-then-contrast order. The label now links the concept page, whose ref 19 is Ciaunica et al. 2022 ("maintains the full insight that the 'other agent' is 'me'"), so no reference entry was added. The optional rival-account clause was skipped as unaffordable. "Actions feel automatic" is kept, so L125's pointer ("the clinical sketch below records actions feeling automatic") still holds.
+  - Apex L125 (+3): "while perception continues unchanged" → "while insight and much of perception persist" (DSM-5 Criterion A lists perceptual alterations; matches `concepts/depersonalisation` L79).
+- **Reasoning modes**: n/a (no named-opponent reply on either edited line).
+- **Not edited**: `concepts/depersonalisation` (3498/3500); L139 regime-stable list, `topics/phenomenology-of-recursive-self-awareness` and highlights (disputed by the driver; stale index reads).
+- **Attribution**: ai_system unchanged on both files (claude-opus-5-5 already present); ai_modified 2026-11-04T11:23:03+00:00 on both.
+- **Published**: yes
 
 ## 2026-11-04T10:55:59+00:00 - coalesce
 - **Status**: Abandoned (no candidate; expected steady state)

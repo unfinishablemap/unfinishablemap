@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-11 14:14:25+00:00
+ai_modified: 2026-11-04 11:23:03+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-17 01:05:00+00:00
 apex_sources:
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:10:00+00:00
-lastmod: 2026-10-11 14:14:25+00:00
+lastmod: 2026-11-04 11:23:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ Filter theory's explanatory scope is also its vulnerability: as a bare interpret
 
 ## Altered States: Transformation Without Loss
 
-[Altered states](/concepts/altered-states-of-consciousness/) reveal that consciousness can transform dramatically while indexical identity persists. Under psychedelics, ego boundaries dissolve; ordinary sense of self fragments; entirely new modes of experience emerge. [Psychiatric conditions](/topics/clinical-phenomenology-and-altered-experience/) alter not just the *content* of experience but its very *form*—a depressed person's temporal horizon closes; a person with depersonalisation loses the sense that experiences belong to anyone while perception continues unchanged.
+[Altered states](/concepts/altered-states-of-consciousness/) reveal that consciousness can transform dramatically while indexical identity persists. Under psychedelics, ego boundaries dissolve; ordinary sense of self fragments; entirely new modes of experience emerge. [Psychiatric conditions](/topics/clinical-phenomenology-and-altered-experience/) alter not just the *content* of experience but its very *form*—a depressed person's temporal horizon closes; a person with depersonalisation loses the sense that experiences belong to anyone while insight and much of perception persist.
 
 Yet through all these transformations, something persists as the subject. The meditator who reports ego dissolution is still *that* meditator reporting—the one who entered the state and will exit it.
 
