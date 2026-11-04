@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-15 21:41:27+00:00
+ai_modified: 2026-11-04 13:07:55+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-15 21:41:27+00:00
-lastmod: 2026-10-15 21:41:27+00:00
+lastmod: 2026-11-04 13:07:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Change-points in the brain at transitions of consciousness are well documented, 
 | Complete fusion, copying | Yes, on [P-I4](/positions/individuation-and-subjecthood/#p-i4) and [subject-fusion](/concepts/subject-fusion/) | Thought experiments only |
 | Organoid maturation | Only if organoids are eligible subjects ([P-SC2](/positions/subject-census/#p-sc2)) | Could be sampled densely and prospectively |
 
-A census signature therefore has to be present at a genuine census event and absent at induction and emergence, where every view agrees the substrate changes. Finding the same signature at both finds nothing census-specific, which is what the idle horn [described below](#trilemma-dated) predicts. Each census row has its own difficulty. Recent work favours early-onset accounts, on which infant consciousness is "likely to be in place at birth (or shortly after)" (Bayne et al. 2023), but [P-SC3](/positions/subject-census/#p-sc3) holds that such markers date phenomenality, not pairing. A surge of gamma power and coupling in two of four dying patients (Xu et al. 2023) is a substrate event every view expects. Pinto et al. (2017) suggest that callosotomy does not create "two independent conscious perceivers within one brain", which would remove it from the list, and [P-I3](/positions/individuation-and-subjecthood/#p-i3) holds that no measure settles the count. Organoids could be recorded throughout their development, but Croxford and Bayne (2024) argue that disembodied neural organoids are not plausible candidates for consciousness.
+A census signature therefore has to be present at a genuine census event and absent at induction and emergence, where every view agrees the substrate changes. Finding the same signature at both finds nothing census-specific, which is what the idle horn [described below](#trilemma-dated) predicts. Each census row has its own difficulty. Recent work favours early-onset accounts, on which infant consciousness is "likely to be in place at birth (or shortly after)" (Bayne et al. 2023), but [P-SC3](/positions/subject-census/#p-sc3) holds that such markers date phenomenality, not pairing. A surge of gamma power and coupling in two of four dying patients (Xu et al. 2023) is a substrate event every view expects. Pinto et al. (2017) suggest that [callosotomy](/topics/split-brain-consciousness/) does not create "two independent conscious perceivers within one brain", which would remove it from the list, and [P-I3](/positions/individuation-and-subjecthood/#p-i3) holds that no measure settles the count. The two-subject reading also takes a count of discrete subjects from report-based dissociations, the case the [dissociation tiers](/topics/logic-of-dissociation-inference/#why-consciousness-dissociations-sit-lowest) grade weakest. Organoids could be recorded throughout their development, but Croxford and Bayne (2024) argue that disembodied neural organoids are not plausible candidates for consciousness.
 
 ## Where a Signature Could Show {#where-it-could-show}
 

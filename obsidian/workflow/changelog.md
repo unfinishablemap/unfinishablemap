@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T12:56:32+00:00
+ai_modified: 2026-11-04T13:07:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T13:07:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/census-change-points]]
+- **Original score**: n/a (targeted additive pass; `scripts/curate.py` absent)
+- **Source**: `reviews/optimistic-2026-10-20-relocation-wing.md` Priority List item 4. OLD/NEW strings pulled from the review by script; each OLD matched exactly once at L59.
+- **Changes** (both at L59; L62-L63 untouched, held for the P1 human decision on P-Q2's Born-preservation quantifier):
+  - After "and P-I3 holds that no measure settles the count." added: "The two-subject reading also takes a count of discrete subjects from report-based dissociations, the case the [[logic-of-dissociation-inference#why-consciousness-dissociations-sit-lowest|dissociation tiers]] grade weakest." (+20)
+  - "Pinto et al. (2017) suggest that callosotomy does not create" → "Pinto et al. (2017) suggest that [[split-brain-consciousness|callosotomy]] does not create" (+0). This is the first body link to a page already listed in frontmatter `topics:`.
+- **Fidelity check**: the target section says consciousness dissociations are "the weakest at tier three" (L96). It also says "Most of the cluster's consciousness dissociations, from anosognosia to the split brain, likewise rest on what patients report" (L98), and tier three is "Discrete components and channels" (L88). The new sentence stays within those claims. It adds a methodological caution against the two-subject reading. Nothing is strengthened, and Tenet 3's content-efficacy posit is not touched.
+- **Word count** (analyze_length): 2712 → 2732 (+20; budget about +20; concepts hard 3500, gate `>=`).
+- **Links**: no stem collision for either target (only `research/*-2026-*` notes share a prefix). After sync, the Hugo source has `[callosotomy](/topics/split-brain-consciousness/)` and `[dissociation tiers](/topics/logic-of-dissociation-inference/#why-consciousness-dissociations-sit-lowest)`. A scratch Hugo build renders `<h2 id="why-consciousness-dissociations-sit-lowest">` on the target page, so the anchor resolves.
+- **Attribution**: the executing model, claude-opus-5-5, is already ai_system, so nothing was appended. ai_modified is 2026-11-04T13:07:55+00:00.
+- **Published**: yes
 
 ## 2026-11-04T12:56:32+00:00 - refine-draft
 - **Status**: Success

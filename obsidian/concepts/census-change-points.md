@@ -4,7 +4,7 @@ description: "A census change-point is a moment when the psychophysical law gain
 created: 2026-10-13
 modified: 2026-10-13
 human_modified:
-ai_modified: 2026-10-15T21:41:27+00:00
+ai_modified: 2026-11-04T13:07:55+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -56,7 +56,7 @@ Change-points in the brain at transitions of consciousness are well documented, 
 | Complete fusion, copying | Yes, on P-I4 and [[subject-fusion]] | Thought experiments only |
 | Organoid maturation | Only if organoids are eligible subjects (P-SC2) | Could be sampled densely and prospectively |
 
-A census signature therefore has to be present at a genuine census event and absent at induction and emergence, where every view agrees the substrate changes. Finding the same signature at both finds nothing census-specific, which is what the idle horn [[#trilemma-dated|described below]] predicts. Each census row has its own difficulty. Recent work favours early-onset accounts, on which infant consciousness is "likely to be in place at birth (or shortly after)" (Bayne et al. 2023), but P-SC3 holds that such markers date phenomenality, not pairing. A surge of gamma power and coupling in two of four dying patients (Xu et al. 2023) is a substrate event every view expects. Pinto et al. (2017) suggest that callosotomy does not create "two independent conscious perceivers within one brain", which would remove it from the list, and P-I3 holds that no measure settles the count. Organoids could be recorded throughout their development, but Croxford and Bayne (2024) argue that disembodied neural organoids are not plausible candidates for consciousness.
+A census signature therefore has to be present at a genuine census event and absent at induction and emergence, where every view agrees the substrate changes. Finding the same signature at both finds nothing census-specific, which is what the idle horn [[#trilemma-dated|described below]] predicts. Each census row has its own difficulty. Recent work favours early-onset accounts, on which infant consciousness is "likely to be in place at birth (or shortly after)" (Bayne et al. 2023), but P-SC3 holds that such markers date phenomenality, not pairing. A surge of gamma power and coupling in two of four dying patients (Xu et al. 2023) is a substrate event every view expects. Pinto et al. (2017) suggest that [[split-brain-consciousness|callosotomy]] does not create "two independent conscious perceivers within one brain", which would remove it from the list, and P-I3 holds that no measure settles the count. The two-subject reading also takes a count of discrete subjects from report-based dissociations, the case the [[logic-of-dissociation-inference#why-consciousness-dissociations-sit-lowest|dissociation tiers]] grade weakest. Organoids could be recorded throughout their development, but Croxford and Bayne (2024) argue that disembodied neural organoids are not plausible candidates for consciousness.
 
 ## Where a Signature Could Show {#where-it-could-show}
 
