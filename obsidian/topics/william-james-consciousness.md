@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-10-12T11:34:42+00:00
+ai_modified: 2026-11-04T21:07:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[pragmatisms-path-to-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-02-01
 last_curated:
 last_deep_review: 2026-07-27T07:39:45+00:00
@@ -141,13 +141,13 @@ James didn't think we could prove either view. But he argued the stakes justify 
 James's controversial essay "The Will to Believe" (1896) argues that when evidence doesn't decide between options, and the choice is forced, living, and momentous, we may legitimately choose based on our nature and needs. This applies directly to consciousness:
 
 The choice between materialism and dualism is:
-- **Forced**: We must act on some assumption about consciousness's nature
+- **Forced** (the contested condition): We must act on some assumption about consciousness's nature
 - **Living**: Both options have genuine intellectual appeal
 - **Momentous**: The stakes (meaning, survival, dignity) are high
 
-Under these conditions, James argues, adopting the dualist hypothesis isn't irrational faith—it's legitimate exercise of intellectual freedom when evidence underdetermines belief.
+Under these conditions, James argues, adopting the dualist hypothesis is a legitimate exercise of intellectual freedom when [[doxastic-voluntarism|evidence underdetermines belief]].
 
-This doesn't mean believing whatever feels good. James requires genuine uncertainty and real stakes. But where those conditions obtain, waiting for conclusive proof means acting on one assumption (usually materialism by default) while pretending neutrality.
+This doesn't mean believing whatever feels good. James requires genuine uncertainty and real stakes. But where those conditions obtain, waiting for conclusive proof means acting on one assumption (usually materialism by default) while pretending neutrality. Forcedness is the weak condition, since suspending judgement is cheap for most purposes; a reader who denies that the choice is forced should take James to license openness to dualism rather than belief in it, as [[pragmatism#James's Expansion|the concept page]] argues.
 
 ## James and Contemporary Consciousness Studies
 

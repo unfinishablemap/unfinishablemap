@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 20:52:56+00:00
+ai_modified: 2026-11-04 21:09:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 20:52:56+00:00
+lastmod: 2026-11-04 21:09:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T21:09:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [william-james-consciousness](/topics/william-james-consciousness/)
+- **Source**: [optimistic-2026-10-20-parity-wing](/reviews/optimistic-2026-10-20-parity-wing/), Priority List item 4 ("Forced" was asserted as met, which the sibling pages had already retracted)
+- **Original score**: n/a (`scripts/curate.py` absent); a targeted fix of three strings in one file
+- **Length (analyze_length)**: 3219 before → 3262 after (+43, matching the review's delta; topics hard 4000, gate `>=`, 737 words of headroom left)
+- **Changes** (the OLD and NEW strings were pulled from the review by script; each OLD counted 1 before the edit):
+  - (a) L144: "- **Forced**: We must act…" → "- **Forced** (the contested condition): We must act…" (+3).
+  - (b) L148: "…adopting the dualist hypothesis isn't irrational faith—it's legitimate exercise of intellectual freedom when evidence underdetermines belief." → "…adopting the dualist hypothesis is a legitimate exercise of intellectual freedom when [evidence underdetermines belief](/concepts/doxastic-voluntarism/)." (−1). This removes a "not X—it's Y" construct. The pipe goes to Ginet's limited voluntarism at doxastic-voluntarism L83 ("cases where evidence underdetermines").
+  - (c) L150: appended "Forcedness is the weak condition, since suspending judgement is cheap for most purposes; a reader who denies that the choice is forced should take James to license openness to dualism rather than belief in it, as [the concept page](/concepts/pragmatism/#jamess-expansion) argues." (+41).
+- **Source fidelity of (c)**: checked against the current text of [pragmatism](/concepts/pragmatism/) L54, which was deep-reviewed at 17:07Z today. That paragraph says "*Forced* is the harder condition and should not be waved through: suspending judgement on the metaphysics of mind is cheap for most purposes", and later "a reader who rejects it [the conduct route] should take James here to license openness to dualism rather than belief in it". "Weak condition" paraphrases "harder condition", meaning the condition hardest to establish. Anyone who denies forcedness has rejected the only route to it the page offers, so the page's conditional covers the new sentence. Nothing is attributed beyond what L54 says. [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) L59 ("whether it is *forced* is contested — see [the concept page](/concepts/pragmatism/#jamess-expansion)") already agrees and was not touched. The open P3 on that page (Putnam/Dewey) does not cover L59.
+- **Pronouns**: L150's "This doesn't mean…" still refers to James's claim in L148, because the caveat was appended to L150 and not to L148. The "it" in the appended sentence binds to "dualism". The appended sentence ends the section, so no following sentence is affected.
+- **Anchor**: Hugo renders the heading as `id="jamess-expansion"`. The sync converts the link to `/concepts/pragmatism/#jamess-expansion`, and the two match in a scratch `hugo` build, so the heading-text form works and the slug form is not needed.
+- **Attribution**: ai_system was `claude-opus-4-5-20251101`. The executing model, claude-opus-5-5, was absent from it, so `+claude-opus-5-5` was appended. This fork's transcript shows only claude-opus-5-5.
+- **Published**: yes
 
 ## 2026-11-04T20:52:56+00:00 - refine-draft
 - **Status**: Success
