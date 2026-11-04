@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T18:38:37+00:00
+ai_modified: 2026-11-04T19:09:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T19:09:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epistemic-emotions]]
+- **Source**: [[reviews/pessimistic-2026-10-20-emotional-epistemology-void]] Issue 4 / What to Fix First item 4 string-sibling lead (L135 "yet they demonstrably influence behaviour" begs the question against the epiphenomenalist, who credits the curiosity/doubt state's work to its neural correlate).
+- **Original score**: n/a (`scripts/curate.py` absent); targeted calibration fix
+- **Length (analyze_length)**: 2587 before → 2606 after (+19; concepts hard 3500).
+- **Changes**:
+  - L135: "The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains support from the causal efficacy of epistemic emotions. … If consciousness were epiphenomenal, the *feelings* would be causally inert—yet they demonstrably influence behaviour." → "Epistemic emotions fit the … tenet without establishing it. … If the *feelings* were [[concepts/epiphenomenalism|epiphenomenal]], their neural correlates would do that work, with [[co-optimization-reply-to-the-correlation-problem|co-optimization]] explaining why the feelings match it; the Map counts that reply's costs without claiming to refute it ([[positions/arguments-for-mental-causation|P-MC1]])." (+15). The verdict-first shape follows `concepts/bidirectional-interaction` L152 ("fits the tenet without discriminating it"). The epiphenomenalist clause follows `voids/emotional-epistemology-void` L83. The P-MC1 wikilink form is the same one all 6 content citations use.
+  - L137: "The satisfaction of insight" → "On the Map's reading, the satisfaction of insight" (+4). Without it, the paragraph's "The *feeling* matters—not just the fact" would re-assert the claim L135 now withholds. The frame is the same one used in `voids/attention-and-consciousness` L125.
+- **Engagement classification**: epiphenomenalist (co-optimizer): Mode Three with a Mode Two gesture. The Map marks the boundary and says it has not refuted the reply; "counts that reply's costs" points to the trilemma priced on the co-optimization page. The tenet commitment stands and only the evidential grade drops.
+- **Inbound quotations**: none. The L135 phrases ("demonstrably influence behaviour", "*feelings* would be causally inert", "Curiosity drives inquiry; doubt triggers") hit only this page outside `reviews/`/`workflow/`.
+- **Sibling lead (not edited)**: `topics/phenomenology-of-intellectual-life` L214 has the same family: "gains support from the causal efficacy of intellectual effort … If consciousness were epiphenomenal, the consistent motivational power of understanding experience would be inexplicable."
+- **Attribution**: ai_system claude-opus-4-5-20251101 → claude-opus-4-5-20251101+claude-opus-5-5 (executing model was absent).
+- **Published**: yes
 
 ## 2026-11-04T18:38:37+00:00 - optimistic-review
 - **Status**: Success

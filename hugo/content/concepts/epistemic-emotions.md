@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-07-18 19:32:52+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-11-04 19:08:38+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[metacognition]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:48:57+00:00
-lastmod: 2026-07-18 19:32:52+00:00
+lastmod: 2026-11-04 19:08:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,9 +135,9 @@ The tip-of-the-tongue state exemplifies the gap. Functionally, it is a retrieval
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains support from the causal efficacy of epistemic emotions. Curiosity drives inquiry; doubt triggers re-evaluation; the discomfort of confusion motivates resolution attempts. If consciousness were epiphenomenal, the *feelings* would be causally inert—yet they demonstrably influence behaviour.
+Epistemic emotions fit the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet without establishing it. Curiosity drives inquiry; doubt triggers re-evaluation; the discomfort of confusion motivates resolution attempts. If the *feelings* were [epiphenomenal](/concepts/epiphenomenalism/), their neural correlates would do that work, with [co-optimization](/topics/co-optimization-reply-to-the-correlation-problem/) explaining why the feelings match it; the Map counts that reply's costs without claiming to refute it ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)).
 
-The satisfaction of insight does motivational work: it rewards successful cognitive strategies, shaping future inquiry. The sting of confusion punishes failures. These affective dimensions guide cognition in ways that mere information about success or failure would not. The *feeling* matters—not just the fact.
+On the Map's reading, the satisfaction of insight does motivational work: it rewards successful cognitive strategies, shaping future inquiry. The sting of confusion punishes failures. These affective dimensions guide cognition in ways that mere information about success or failure would not. The *feeling* matters—not just the fact.
 
 ### Minimal Quantum Interaction
 

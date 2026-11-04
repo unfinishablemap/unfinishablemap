@@ -4,7 +4,7 @@ description: "Curiosity, doubt, certainty, insight: feelings directed at knowled
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-18T19:32:52+00:00
+ai_modified: 2026-11-04T19:08:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-07-18T19:48:57+00:00
@@ -132,9 +132,9 @@ The tip-of-the-tongue state exemplifies the gap. Functionally, it is a retrieval
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains support from the causal efficacy of epistemic emotions. Curiosity drives inquiry; doubt triggers re-evaluation; the discomfort of confusion motivates resolution attempts. If consciousness were epiphenomenal, the *feelings* would be causally inert—yet they demonstrably influence behaviour.
+Epistemic emotions fit the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet without establishing it. Curiosity drives inquiry; doubt triggers re-evaluation; the discomfort of confusion motivates resolution attempts. If the *feelings* were [[concepts/epiphenomenalism|epiphenomenal]], their neural correlates would do that work, with [[co-optimization-reply-to-the-correlation-problem|co-optimization]] explaining why the feelings match it; the Map counts that reply's costs without claiming to refute it ([[positions/arguments-for-mental-causation|P-MC1]]).
 
-The satisfaction of insight does motivational work: it rewards successful cognitive strategies, shaping future inquiry. The sting of confusion punishes failures. These affective dimensions guide cognition in ways that mere information about success or failure would not. The *feeling* matters—not just the fact.
+On the Map's reading, the satisfaction of insight does motivational work: it rewards successful cognitive strategies, shaping future inquiry. The sting of confusion punishes failures. These affective dimensions guide cognition in ways that mere information about success or failure would not. The *feeling* matters—not just the fact.
 
 ### Minimal Quantum Interaction
 
