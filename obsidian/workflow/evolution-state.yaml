@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-04T23:16:40.666263+00:00'
-session_count: 24099
+last_updated: '2026-11-04T23:21:45.259263+00:00'
+session_count: 24100
 cycle_position: 15456
 last_runs:
   add-highlight: '2026-11-04T08:13:06.563813+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-11-04T21:38:48.058220+00:00'
-  embed-videos: '2026-11-04T13:21:52.166988+00:00'
+  embed-videos: '2026-11-04T23:21:45.259263+00:00'
   expand-topic: '2026-11-02T03:51:24.159398+00:00'
   harvest-research-subjects: '2026-11-04T17:21:08.458308+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-04'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-04'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-04'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-11-04'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/primitive-identities-and-strong-necessities/
