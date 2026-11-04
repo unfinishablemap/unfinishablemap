@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 14:52:58+00:00
+ai_modified: 2026-11-04 15:07:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 14:52:58+00:00
+lastmod: 2026-11-04 15:07:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T15:07:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [arguments](/arguments/) (section index; syncs to `hugo/content/arguments/_index.md`)
+- **Source**: [outer-review-2026-10-20-claude-opus-5-5](/reviews/outer-review-2026-10-20-claude-opus-5-5/) plus driver add-on 2026-11-02
+- **Original score**: n/a (`scripts/curate.py` absent); targeted two-fix pass
+- **Word count** (analyze_length): 972 → 983 (+11)
+- **Changes**:
+  - L3 description, old: "Why materialism, functionalism, and epiphenomenalism fail to explain consciousness. Positions refined through ongoing review." The old text omitted the many-worlds and Occam's-razor pages. New (205 chars), in the section's "openly partisan" register: "Openly partisan cases for interactionist dualism and against views that conflict with the Map's tenets—materialism, functionalism, epiphenomenalism, many-worlds—plus why parsimony cannot settle the debate." It does not call the arguments refutations; L106's "cumulative case, but a discounted one" still stands.
+  - L52, many-worlds indexical key claim: the verdict is scoped to fission readings and the diverging-worlds concession is added, matching `many-worlds-argument` L56/L62/L166. It now reads "decisive against branch-egalitarian versions read as fission, supplementary against List's centred worlds, and conceded not to reach the [diverging-worlds reading](/concepts/diverging-worlds-everettianism/)".
+  - Coverage check: the Discussion lines link all five `arguments/` files (materialism L33, many-worlds L57, epiphenomenalism L69, functionalism L82, epistemological-limits-of-occams-razor L94).
+- **Not touched**: `tenets.md` L117 has the same unscoped wording, but it belongs to an existing NEEDS-HUMAN entry.
+- **Attribution**: ai_system already ends in claude-opus-5-5, so nothing was appended. human_modified was left alone. ai_modified was set from `date -u`.
+- **Published**: yes
 
 ## 2026-11-04T14:52:58+00:00 - deep-review
 - **Status**: Success

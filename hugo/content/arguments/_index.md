@@ -1,19 +1,20 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-11-03 16:39:02+00:00
+ai_modified: 2026-11-04 15:07:34+00:00
 ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts: []
 created: 2026-01-06
-date: &id001 2026-11-03
-description: Why materialism, functionalism, and epiphenomenalism fail to explain
-  consciousness. Positions refined through ongoing review.
+date: &id001 2026-11-04
+description: Openly partisan cases for interactionist dualism and against views that
+  conflict with the Map's tenets—materialism, functionalism, epiphenomenalism, many-worlds—plus
+  why parsimony cannot settle the debate.
 draft: false
 human_modified: 2026-01-06
 last_curated: null
 last_deep_review: 2026-06-18 13:18:44+00:00
-lastmod: 2026-11-03 16:39:02+00:00
+lastmod: 2026-11-04 15:07:34+00:00
 modified: *id001
 related_articles: []
 title: Arguments
@@ -52,7 +53,7 @@ A cumulative case for interactionist dualism: consciousness is irreducible to ph
 The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page presses three arguments against branch-egalitarian versions and marks where the residual disagreement with sophisticated Everettian variants is a framework-boundary commitment rather than a demonstrated defeat.
 
 **Key claims:**
-- The indexical problem: personal identity becomes incoherent across symmetric branches—decisive against branch-egalitarian versions, supplementary against List's centred worlds
+- The indexical problem: personal identity becomes incoherent across symmetric branches—decisive against branch-egalitarian versions read as fission, supplementary against List's centred worlds, and conceded not to reach the [diverging-worlds reading](/concepts/diverging-worlds-everettianism/)
 - The probability problem: the Born rule remains unexplained
 - Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
 - Ontological extravagance is a registered cost, not a decisive objection—having disowned parsimony under [Tenet 5](/tenets/#occams-limits), the Map cannot wield ontological economy as a knockdown argument
