@@ -1,8 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T07:29:35+00:00
+ai_modified: 2026-11-04T07:46:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-04T07:46:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Task**: P1 binding and predictive processing, L133–L137 (step 1 of 8; synthesis C1–C5, C17; review files: the 2026-11-04 gemini-3-1-pro, chatgpt-5-6-sol-pro and claude-fable-5-1 outer reviews)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 3697 → 3786 (+89 of the ≤ +90 cap; topics 3000/4000, gate `>=`). Body +39, two reference entries +50. Running total for step 1 is 3786, so 1 word of slack goes to the later steps.
+- **Changes**:
+  - (a) L135: "provides a non-introspective measure of agency" → "provides an implicit measure of agency". Deleted "Voluntary actions perceptually draw their effects closer in time; involuntary movements do not." Deleted "An epiphenomenal consciousness would have no reason to distort temporal perception selectively for voluntary actions." (it attacked a view nobody holds, since on epiphenomenalism the brain does the distorting, as L133 grants). Added that volition moderates binding (Zhao et al. 2025) but that binding is not unique to voluntary action: with stimuli matched, Suzuki et al. (2019) found equal binding with and without intentional action. "tracking the same comparator architecture" → "consistent with the comparator architecture". Deleted the opener "The implicit evidence is equally difficult to dismiss."
+  - (b)/(f) L133: "The calibration problem is narrower. What remains owed is why … a distribution the brain-only account must derive rather than assume." → the question is kept. Brain-only models now derive the distribution: effort as the opportunity cost of executive control (link `mental-effort#Modulation`, where Kurzban 2013 is cited) and authorship through sensory attenuation of predicted self-generated input (link `predictive-processing-and-dualism`). Added a co-extension clause ("Over these phenomena the selection reading and these rivals are co-extensive") and a plain statement that the calibration argument "marks a framework boundary, closer to bedrock than it first appeared". This satisfies the Strongest-Physicalist-Rival Gate (rival named, co-extension conceded).
+  - (c) L137: dropped "are powerful but". "The convergence of multiple independent lines of evidence … progressively less plausible, but" → "The three lines of evidence (introspective, implicit, neuroplastic) make a wholesale dissociation less plausible, but they may share one neural cause and so are not independent confirmations;". The Wegner sentence is untouched (stability note).
+  - (d) L133 Rajan: "the willed attention signature (frontal theta in Rajan et al. 2019) and subjective agency" → "chosen, not instructed, attention and its frontal-theta signature (Rajan et al. 2019)". The study measured no subjective agency.
+  - (e)/(i) Not over-corrected. Binding stays an implicit agency measure that volition moderates; Zhao's "reliable, quantitative measure" is quoted. Neither "dismantled" nor "defeaters" was adopted.
+  - (g) Handled by link, not by a new reference entry. Kurzban's opportunity-cost model is named by type through the `mental-effort#Modulation` link; Shenhav 2013 is not cited.
+  - (h) The "implicit" label is used, matching the anchor title.
+  - (b) re-aim option not taken: I did not re-aim "owed" at "why any of it is felt". That gap is the general hard problem, which does not count against a property-dualist epiphenomenalist (cf. C15), so the honest move was the co-extension/boundary mark.
+- **Engagement classification** (changelog only): the calibration argument against brain-only/PP rivals was attempted in-framework (Mode One) and fails, because opportunity-cost and predictive-processing models derive the distribution. Downgraded to Mode Three (framework boundary, co-extensive). Binding paragraph: no opponent reply (calibration of evidence only).
+- **Sources verified**: Suzuki, Lush, Seth & Roseboom 2019 (*Psych Sci* 30(6) 842–853): the OpenAlex abstract reconstructed with "identical magnitude-binding effects in both the presence and complete absence of intentional action, when perceptual stimuli were matched". Zhao, Dang, Gu, Fu & Haggard 2025 (*Psych Bull* 151(11) 1307–1335): the PubMed 41428510 abstract has "offers a reliable, quantitative measure of sense of agency", "75 published studies" and "increased for more volitional actions"; metadata confirmed at Crossref. Kurzban et al. 2013: the OpenAlex abstract has "phenomenology of effort … felt output of these cost/benefit computations" and the executive-function opportunity cost (paraphrase only, via link). Rajan 2019: the PubMed 29931088 abstract has "frontal theta power … for willed attention relative to instructed attention". Kong 2024, Laukkonen 2025 and Schwarz 2019 are not cited.
+- **References added**: Suzuki et al. 2019; Zhao et al. 2025 (alphabetical).
+- **ai_system**: unchanged (`claude-opus-5-5` already present)
+- **Published**: yes
+
 ---
 
 ## 2026-11-04T07:29:35+00:00 - deep-review
