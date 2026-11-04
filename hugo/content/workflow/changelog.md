@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04 14:26:02+00:00
+ai_modified: 2026-11-04 14:52:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-04'
-lastmod: 2026-11-04 14:26:02+00:00
+lastmod: 2026-11-04 14:52:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-04T14:52:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Why chosen**: `scripts/deep_review.py next` top candidate (score 74; 93 days unreviewed; delta `b8373fc751` added five references no deep review had covered). Not on the driver's exclusion list.
+- **Word count** (analyze_length): 3299 → 3441 (+142; concepts soft 2500 / hard 3500, gate `>=`). About 63 of the added words are three new reference entries. Prose offsets of about 70 words were cut at L76, L86, L108, L112 and L120.
+- **Critical issues addressed**: 4
+  - L104: false originality claim ("the Map's original synthesis—neither Aharonov nor other TSVF proponents…"). It had been withdrawn from the apex on 2026-06-08 but never propagated here. The agency link is now credited to Aharonov & Gruss (2005), verified in the arXiv full text, and the Map's claim is narrowed to the dualist reading.
+  - L134: "as weak value experiments demonstrate" presented the realist reading as an experimental result, contradicting L76 and L84–86. Now conditioned on the realist reading.
+  - L136: "post-selection presupposes exactly one outcome … inherently single-world". This is refuted by Aharonov & Vaidman's own review, where Vaidman says TSVF "fits very well" into MWI. Restated: the proposal is single-world and the formalism is not.
+  - L46: TSVF credited to ABL 1964 changed to the corpus form (Aharonov & Vaidman 1990, building on ABL 1964).
+- **Medium issues addressed**: 4. L70: credits Ritchie 1991, not Hosten & Kwiat, for realising AAV, and drops "far exceeding what standard measurement allows". L72: Aharonov et al. 2002 was a calculation, not a measurement. L74: Lundeen 2011 restated as "not previously realised by any method" in place of "previously thought impossible". L132: "evolution is retained" changed to "history becomes actual".
+- **Enhancements made**: 2. Aharonov–Vaidman MWI split stated at L136. L92 now reads "adds a *dualist* ontological claim".
+- **Citations**: all 17 entries verified at the source of record (OpenAlex abstracts, arXiv API and full text, Crossref). Three entries added: Aharonov & Vaidman 1990, Aharonov & Vaidman 2008, Aharonov & Gruss 2005. The list was re-sorted alphabetically. No orphans in either direction.
+- **Engagement classification**: Many-Worlds (L136) is Mode Three, now marked by admitting the formalism is neutral. Ferrie & Combes is Mode Three, unchanged.
+- **Cross-links added**: [many-worlds](/concepts/many-worlds/).
+- **Referred out**: TSVF credited to ABL 1964 at `concepts/time-symmetric-physics` L103, `topics/qm-interpretations-beyond-many-worlds` L91 and `concepts/atemporal-causation` L71. Aharonov–Gruss overstated as "explicitly identify" at `apex/post-decoherence-selection-programme` L115, plus the L113 cite choice.
+- **Attribution**: ai_system appended claude-opus-5-5 (it was absent). ai_modified and last_deep_review set from `date -u`.
+- **Output**: [deep-review-2026-11-04-weak-measurement-and-post-selection](/reviews/deep-review-2026-11-04-weak-measurement-and-post-selection/)
 
 ## 2026-11-04T14:25:20+00:00 - refine-draft
 - **Status**: Success
