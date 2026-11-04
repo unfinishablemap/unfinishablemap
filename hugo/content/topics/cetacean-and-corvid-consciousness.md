@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-10-20 18:02:28+00:00
+ai_modified: 2026-11-04 18:15:26+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[counterfactual-reasoning]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-03-13
-date: &id001 2026-10-20
+date: &id001 2026-11-04
 description: Dolphins and corvids evolved sophisticated cognition independently from
   primates, providing convergent test cases for the consciousness-as-amplifier hypothesis
   across radically different neural architectures.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 18:07:34+00:00
-lastmod: 2026-10-20 18:02:28+00:00
+lastmod: 2026-11-04 18:15:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,21 +40,21 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The [amplification hypothesis](/concepts/consciousness-as-amplifier/)—that consciousness transforms baseline cognition into flexible, metarepresentational intelligence—draws its primary evidence from the great ape-human comparison. But primates are a single lineage. If consciousness genuinely amplifies cognition, the effect should appear wherever consciousness interfaces with sufficiently complex neural systems, regardless of evolutionary history—the [universal coupling response](/concepts/universal-coupling-response/) formalises exactly this prediction. Cetaceans (dolphins, whales) and corvids (crows, ravens, jays) provide exactly this test. Both lineages evolved sophisticated cognition independently from primates, through radically different neural architectures, yet both display capacities the amplification hypothesis links to consciousness.
+The [amplification hypothesis](/concepts/consciousness-as-amplifier/)—that consciousness transforms baseline cognition into flexible, metarepresentational intelligence—draws its primary evidence from the great ape-human comparison. But primates are a single lineage. If consciousness genuinely amplifies cognition, the effect should appear wherever consciousness interfaces with sufficiently complex neural systems, regardless of evolutionary history—the [universal coupling response](/concepts/universal-coupling-response/) formalises exactly this prediction. Cetaceans (dolphins, whales) and corvids (crows, ravens, jays) provide this test. Both lineages evolved sophisticated cognition independently from primates, through radically different neural architectures, yet both display capacities the amplification hypothesis links to consciousness.
 
 The convergent capacities are real and surprising; whether they license the inference *to* phenomenal consciousness is the contested step. The species-by-species verdicts below track the same five-tier evidential calibration used in [animal-consciousness](/topics/animal-consciousness/) and [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)—*established → strongly supported → realistic possibility → live hypothesis → speculative integration*. Cetaceans and corvids sit at **realistic possibility, contested** for phenomenal consciousness; the amplification hypothesis itself sits at **live hypothesis**, since it depends on the cognition→experience inference the [standing agnostic challenge](#the-standing-agnostic-challenge) denies the field can presently make. The Map's tenets remove a defeater (no substrate-specific barrier on consciousness); they do not, by themselves, raise evidence-grade.
 
 ## Why These Lineages Matter
 
-The human-ape comparison involves closely related species sharing recent common ancestors and similar brain architecture; the cognitive gap could reflect primate-specific neural innovations rather than consciousness per se. Cetaceans and corvids dissolve this objection.
+The human-ape comparison involves closely related species with similar brain architecture; the cognitive gap could reflect primate-specific neural innovations rather than consciousness per se. Cetaceans and corvids dissolve this objection.
 
-**Cetaceans** diverged from the primate lineage ~85 million years ago. Dolphin brains are large (bottlenose dolphins ~1500–1700g, exceeding human ~1400g) and highly encephalised, with half the human cortical-neuron count (false killer whale: near parity; Roth & Dicke 2005), but organised differently—extensive neocortical surface area in a distinct laminar pattern lacking cortical layer IV, the primary input layer in primate cortex (Marino 2002). Cortical-neuron near-parity without matched human-style cumulative culture makes cetaceans an awkward fit for purely brain-side scaling readings of cognitive grade and a natural test case for [interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) alternatives, which sit at the same *speculative integration* tier as the brain-side reading and do not elevate the cetacean evidential calibration.
+**Cetaceans** diverged from the primate lineage ~85 million years ago. Bottlenose dolphin brains are human-sized (1350g; human 1250–1450g) and highly encephalised, with half the human cortical-neuron count, below the chimpanzee's (false killer whale: near human parity; Roth & Dicke 2005), but organised differently—extensive neocortical surface area in a distinct laminar pattern lacking cortical layer IV, the primary input layer in primate cortex (Marino 2002). The false killer whale's near-parity without matched human-style cumulative culture makes cetaceans an awkward fit for purely brain-side scaling readings of cognitive grade and a natural test case for [interface-efficacy](/topics/interface-efficacy-and-the-cognitive-gap/) alternatives, which sit at the same *speculative integration* tier as the brain-side reading and do not elevate the cetacean evidential calibration.
 
 **Corvids** diverged from mammals >300 million years ago. Bird brains lack neocortex entirely; in gross anatomy their pallium comprises nuclear clusters rather than cortical layers, yet corvids achieve cognitive feats rivalling great apes with brains a fraction of the size—a jackdaw's ~5g compared to a chimpanzee's ~400g. If the amplification hypothesis were tied to primate cortical architecture, neither lineage should display consciousness-linked capacities. Both do.
 
 ## Mapping Capacities Against the Amplification Framework
 
-The [baseline cognition](/concepts/baseline-cognition/) hypothesis predicts a specific pattern: capacities achievable through modular, unconscious processing should appear widely, while capacities requiring conscious access—[metarepresentation](/concepts/metacognition/), [counterfactual thinking](/concepts/counterfactual-reasoning/), flexible cross-domain integration—should appear only in species with evidence of expanded consciousness. Cetaceans and corvids allow a detailed test.
+The [baseline cognition](/concepts/baseline-cognition/) hypothesis predicts a specific pattern: capacities achievable through modular, unconscious processing should appear widely, while capacities requiring conscious access—[metarepresentation](/concepts/metacognition/), [counterfactual thinking](/concepts/counterfactual-reasoning/), flexible cross-domain integration—should appear only in species with evidence of expanded consciousness.
 
 ### Mirror Self-Recognition
 
@@ -64,7 +64,7 @@ Self-recognition plausibly requires representing oneself *as* an object of perce
 
 ### Tool Use and Manufacture
 
-New Caledonian crows (*Corvus moneduloides*) manufacture tools from materials not naturally shaped for the purpose—bending wire into hooks, trimming pandanus leaves into stepped tools (Hunt 1996)—with regional "tool cultures" showing progressive modification across generations (Hunt & Gray 2003). [cumulative-culture](/concepts/cumulative-culture/) requires metarepresentation in the amplification framework: treating existing methods as objects of thought subject to improvement. Whether New Caledonian crow tool traditions genuinely accumulate innovations or merely persist through social learning is the contested step. Taylor and Jelbert (2020) read the designs as showing suggestive evidence of cumulative change and argue the crows are a useful test case for which conditions are necessary and sufficient for cumulative culture to emerge at all. Dolphins also show tool use—Shark Bay bottlenose dolphins carry marine sponges on their rostrums to protect against seafloor abrasion (Krützen et al. 2005), socially transmitted through maternal lines.
+New Caledonian crows (*Corvus moneduloides*) manufacture tools from materials not naturally shaped for the purpose—shaping twigs into hooks, trimming pandanus leaves into stepped tools (Hunt 1996)—with regional "tool cultures" showing progressive modification across generations (Hunt & Gray 2003). [cumulative-culture](/concepts/cumulative-culture/) requires metarepresentation in the amplification framework: treating existing methods as objects of thought subject to improvement. Whether New Caledonian crow tool traditions genuinely accumulate innovations or merely persist through social learning is the contested step. Taylor and Jelbert (2020) read the designs as showing suggestive evidence of cumulative change and argue the crows are a useful test case for which conditions are necessary and sufficient for cumulative culture to emerge at all. Dolphins also show tool use—Shark Bay bottlenose dolphins carry marine sponges on their rostrums to protect against seafloor abrasion (Krützen et al. 2005), socially transmitted through maternal lines.
 
 ### Planning and Prospection
 
@@ -74,7 +74,7 @@ The Bischof-Köhler hypothesis—that animals cannot act on drive states they do
 
 Dolphins and corvids both show evidence of understanding others' perceptual and knowledge states:
 
-**Dolphins** follow human pointing gestures, understand symbolic commands with basic syntax (Herman 2010), and adjust communication based on audience—producing more whistles when companions are present versus absent. Bottlenose dolphins use individually distinctive "signature whistles" that function as names, and they can learn and use others' signature whistles to call specific individuals (Janik et al. 2006). The cooperative hunting noted above sits inside a wider social structure: Shark Bay males form a three-tiered alliance network in which cooperative relationships *between* second-order alliances, rather than alliance size, predict access to contested females—the largest known multilevel alliance network outside humans, and on the authors' reading a plausible selection pressure for enhanced social cognition (Connor et al. 2022).
+**Dolphins** follow human pointing gestures, understand symbolic commands with basic syntax (Herman 2010), and adjust communication based on audience—producing more whistles when companions are present versus absent. Bottlenose dolphins use individually distinctive "signature whistles" that function as names, and they can learn and use others' signature whistles to call specific individuals (King & Janik 2013). The cooperative hunting noted above sits inside a wider social structure: Shark Bay males form a three-tiered alliance network in which cooperative relationships *between* second-order alliances, rather than alliance size, predict access to contested females—the largest known multilevel alliance network outside humans, and on the authors' reading a plausible selection pressure for enhanced social cognition (Connor et al. 2022).
 
 **Corvids** track what competitors have seen, adjust caching behaviour accordingly, and in some experiments appear to attribute knowledge states to others. Ravens engage in tactical deception—concealing food discoveries from dominant individuals while revealing them to allies (Bugnyar & Heinrich 2005). This requires representing what the other bird knows and anticipating their response, moving toward the recursive mindreading the amplification framework links to consciousness.
 
@@ -123,7 +123,7 @@ The [amplification void](/voids/amplification-void/)—the structural impossibil
 
 If consciousness interfaces with neural systems through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), the amplification chain must operate in bird pallium as well as mammalian cortex, in cetacean neocortex as well as primate neocortex. Microtubules are present in all neurons across all these lineages and are *one* candidate interface site; the [decoherence dispute](/concepts/decoherence/) is live rather than settled (Tegmark 2000 / Hagan et al. 2002 / Reimers et al. 2009 / McKemmish et al. 2009), and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The same architecture-independence prediction holds for any quantum-interface mechanism that survives the decoherence challenge, including those that do not rely on sustained coherence at all.
 
-This generates a prediction: the amplification void should be architecture-independent. If the void is structurally necessary (as the self-protecting void hypothesis proposes), it should appear wherever consciousness interfaces with physical systems, regardless of neural organisation. The untraceable quality of the amplification chain would characterise corvid decision-making just as much as human deliberation.
+This generates a prediction: the amplification void should be architecture-independent. If the void is structurally necessary (as the self-protecting void hypothesis proposes), it should appear wherever consciousness interfaces with physical systems.
 
 ## What Would Challenge This View?
 
@@ -178,11 +178,12 @@ The honest position: the framework supplies a falsification structure whose appl
 1. Connor, R.C., Krützen, M., Allen, S.J., Sherwin, W.B. & King, S.L. (2022). Strategic intergroup alliances increase access to a contested resource in male bottlenose dolphins. *Proceedings of the National Academy of Sciences*, 119(36), e2121723119. https://doi.org/10.1073/pnas.2121723119
 1. Correia, S.P.C., Dickinson, A. & Clayton, N.S. (2007). Western scrub-jays anticipate future needs independently of their current motivational state. *Current Biology*, 17(10), 856-861.
 1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925. https://doi.org/10.1126/science.adk3381
+1. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901. https://doi.org/10.1103/PhysRevE.65.061901
 1. Herman, L.M. (2010). What laboratory research has told us about dolphin cognition. *International Journal of Comparative Psychology*, 23(3), 310-330.
 1. Kohda, M., Hotta, T., Takeyama, T., Awata, S., Tanaka, H., Asai, J. & Jordan, A.L. (2019). If a fish can pass the mark test, what are the implications for consciousness and self-awareness testing in animals? *PLOS Biology*, 17(2), e3000021.
 1. Hunt, G.R. (1996). Manufacture and use of hook-tools by New Caledonian crows. *Nature*, 379, 249-251.
 1. Hunt, G.R. & Gray, R.D. (2003). Diversification and cumulative evolution in New Caledonian crow tool manufacture. *Proceedings of the Royal Society B*, 270(1517), 867-874.
-1. Janik, V.M., Sayigh, L.S. & Wells, R.S. (2006). Signature whistle shape conveys identity information to bottlenose dolphins. *Proceedings of the National Academy of Sciences*, 103(21), 8293-8297.
+1. King, S.L. & Janik, V.M. (2013). Bottlenose dolphins can use learned vocal labels to address each other. *Proceedings of the National Academy of Sciences*, 110(32), 13216-13221. https://doi.org/10.1073/pnas.1304459110
 1. Krützen, M., Mann, J., Heithaus, M.R., Connor, R.C., Bejder, L. & Sherwin, W.B. (2005). Cultural transmission of tool use in bottlenose dolphins. *Proceedings of the National Academy of Sciences*, 102(25), 8939-8943.
 1. Marino, L. (2002). Convergence of complex cognitive abilities in cetaceans and primates. *Brain, Behavior and Evolution*, 59(1-2), 21-32.
 1. Nieder, A., Wagener, L. & Rinnert, P. (2020). A neural correlate of sensory consciousness in a corvid bird. *Science*, 369(6511), 1626-1629. https://doi.org/10.1126/science.abb1447
@@ -192,6 +193,7 @@ The honest position: the framework supplies a falsification structure whose appl
 1. Rueda-Alaña, E., Senovilla-Ganzo, R., Grillo, M., Vázquez, E., Marco-Salas, S., Gallego-Flores, T., Ordeñana-Manso, A., Ftara, A., Escobar, L., Benguría, A., Quintas, A., Dopazo, A., Rábano, M., Vivanco, M.D., Aransay, A.M., Garrigos, D., Toval, Á., Ferrán, J.L., Nilsson, M., Encinas-Pérez, J.M., De Pittà, M. & García-Moreno, F. (2025). Evolutionary convergence of sensory circuits in the pallium of amniotes. *Science*, 387(6735), eadp3411. https://doi.org/10.1126/science.adp3411
 1. Soler, M., Colmenero, J.M., Pérez-Contreras, T. & Peralta-Sánchez, J.M. (2020). Replication of the mirror mark test experiment in the magpie (*Pica pica*) does not provide evidence of self-recognition. *Journal of Comparative Psychology*, 134(4), 363-371. https://doi.org/10.1037/com0000223
 1. Taylor, A.H. & Jelbert, S. (2020). The crow in the room: New Caledonian crows offer insight into the necessary and sufficient conditions for cumulative cultural evolution. *Behavioral and Brain Sciences*, 43, e178. https://doi.org/10.1017/S0140525X20000102
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206. https://doi.org/10.1103/PhysRevE.61.4194
 1. Vanhooland, L.-C., Szabó, A., Bugnyar, T. & Massen, J.J.M. (2023). A comparative study of mirror self-recognition in three corvid species. *Animal Cognition*, 26(1), 229-248. https://doi.org/10.1007/s10071-022-01696-4
 1. Gutfreund, Y. (2024). "Neuroscience of animal consciousness: still agnostic after all." *Frontiers in Psychology*, 15, 1456403. https://doi.org/10.3389/fpsyg.2024.1456403
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.

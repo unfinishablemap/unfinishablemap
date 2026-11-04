@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T17:38:50+00:00
+ai_modified: 2026-11-04T18:16:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T18:16:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cetacean-and-corvid-consciousness]]
+- **Source**: todo P3 residue from the 2026-10-20 literature-drift refine (dolphin brain weight vs Roth & Dicke Table 1; Tegmark 2000 / Hagan 2002 cited in text without References entries; Janik 2006 possibly cited for the wrong finding).
+- **Original score**: n/a (`scripts/curate.py` absent); targeted citation-fidelity fixes
+- **Length (analyze_length)**: 3988 before → 3999 after (topics hard 4000, gate `>=`). Additions +43 (L47 restatement +4, two References entries +39, Janik→King swap 0); trims −32.
+- **Changes**: (1) L47: the uncited "Dolphin brains are large (bottlenose dolphins ~1500–1700g, exceeding human ~1400g)" became "Bottlenose dolphin brains are human-sized (1350g; human 1250–1450g)". It now adds that the bottlenose count is "below the chimpanzee's" and that false-killer-whale parity is "near human parity". The dependent sentence "Cortical-neuron near-parity without…" became "The false killer whale's near-parity without…", so the awkward-fit argument now names its actual basis. Values were re-read from Roth & Dicke 2005 Table 1 (p.251) in the BioNumbers BNID 106135 PDF scan rendered at 250 dpi: bottlenose dolphin 1350 g, EQ 5.3, 5800 million cortical neurons; man 1250–1450 g, EQ 7.4–7.8, 11 500; chimpanzee 330–430 g, 6200; false killer whale 3650 g, 10 500. Roth & Dicke was already in the References. (2) L120: kept all four in-text cites, because the 2026-05-04 deep review (Issue 6) installed the four-cite set to frame the decoherence dispute as live, and dropping Hagan would leave only critics. Added Tegmark 2000 (*Phys Rev E* 61(4) 4194-4206) and Hagan, Hameroff & Tuszyński 2002 (*Phys Rev E* 65(6) 061901) to the References, with metadata from Crossref. (3) L73: PubMed 16698937 (Janik, Sayigh & Wells 2006) shows that whistle shape carries identity independent of voice, and states that referential use had been "hypothesized" but "experimental proof … has been lacking". PubMed 23878217 (King & Janik 2013) shows that wild dolphins call back on hearing a copy of their own whistle, which the authors read as "a learned identity signal … used as a label when addressing conspecifics". The cite was swapped to King & Janik 2013, which supports both clauses of the sentence, and the References entry was replaced (net 0). (4) Out-of-brief, at 0 words: L63 "bending wire into hooks … (Hunt 1996)" became "shaping twigs into hooks". The Hunt 1996 Nature abstract, read at the publisher, reports only hooked-twig and stepped-cut pandanus tools; wire-bending is Weir, Chappell & Kacelnik 2002 (PMID 12169726).
+- **Trims** (all original 2026-03-13 expand-topic prose; no hits in `reviews/`, no other page quotes them, and `git log -S` traces each only to 8e974480b3): L39 "provide exactly this test" lost "exactly" (−1); L45 "sharing recent common ancestors and similar" became "with similar" (−4); L53 deleted "Cetaceans and corvids allow a detailed test." (−6, it repeated L39); L122 deleted ", regardless of neural organisation" (−4, it restated "architecture-independent" in the preceding sentence) and "The untraceable quality of the amplification chain would characterise corvid decision-making just as much as human deliberation." (−17, an illustration of the same prediction). Kept intact: the five-tier calibration, Rueda-Alaña 2025, Nieder 2020, the self-citations (writing-style L516), and every review-installed guard.
+- **Attribution**: ai_system unchanged (claude-opus-5-5 is already the final component).
+- **Published**: yes
 
 ## 2026-11-04T17:38:50+00:00 - refine-draft
 - **Status**: Success
