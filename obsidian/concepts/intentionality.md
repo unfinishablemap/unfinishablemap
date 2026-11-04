@@ -2,9 +2,9 @@
 title: "Intentionality"
 description: "The aboutness of mental states: why thoughts are directed at objects. Phenomenal intentionality theory shows content requires consciousness, with implications for AI and the hard problem."
 created: 2026-01-14
-modified: 2026-10-24
+modified: 2026-11-04
 human_modified: null
-ai_modified: 2026-10-24T22:09:45+00:00
+ai_modified: 2026-11-04T22:39:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -228,7 +228,7 @@ Intentionality connects to all five foundational tenets:
 
 **[[tenets#^dualism|Dualism]]**: Brentano identified intentionality as the mark of the mental—something physical descriptions cannot capture. If intentionality requires phenomenal character (PIT), and phenomenal character is irreducible to physical processes, then intentionality is doubly irreducible.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If thoughts genuinely *mean* things, then consciousness engages with reality in a substantive way. The content of thought influences behaviour because thought has content *for the thinker*, not merely for external interpreters. Epiphenomenal consciousness couldn't have genuine intentionality; intentionality without causal efficacy would be intentionality for no one.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If thoughts genuinely *mean* things, then consciousness engages with reality in a substantive way. The content of thought influences behaviour because thought has content *for the thinker*, not merely for external interpreters. Epiphenomenal consciousness [[acquaintance-without-causation#chalmers-reply|could have phenomenal intentionality]], but its content would never cause the thinker's behaviour.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If intentional content influences action, and action requires selecting among possible neural states, then the "aboutness" of thought may be where quantum selection occurs. What we're thinking *about* may influence which outcome actualizes.
 

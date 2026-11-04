@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T22:25:14+00:00
+ai_modified: 2026-11-04T22:39:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T22:39:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-naturalisation-failure-for-content]] (primary); [[concepts/intentionality]] (secondary)
+- **Source**: the lead in `reviews/deep-review-2026-10-21-causal-relevance-of-content.md` (L106), confirmed by the 2026-10-21 cross-review of `concepts/causal-relevance-of-content`
+- **Original score**: n/a (`scripts/curate.py` absent); a targeted narrowing of one sentence per file
+- **Length (analyze_length)**: `topics/the-naturalisation-failure-for-content` 3920 before → 3925 after (+5; topics hard 4000). `concepts/intentionality` 3495 before → 3494 after (−1; concepts hard 3500).
+- **Changes**:
+  - Primary L143 (Relation, Bidirectional Interaction): "could not anchor content, because it could not figure in the causal explanation of why an organism reaches for …" becomes "might still constitute some content, as with direct phenomenal beliefs, but it could not make that content a cause of an organism's reaching for …". The old sentence ran together constitution, which Chalmers (2003) grants an epiphenomenal quality for direct phenomenal beliefs (`topics/acquaintance-without-causation` L62), and causal explanation, which the explanatory-practice standard grants the quale (`concepts/causal-relevance-of-content#standards`). The new wording claims only what epiphenomenalism itself denies, that consciousness has physical effects. Zero-word pipes go to `acquaintance-without-causation#chalmers-reply` and `causal-relevance-of-content#standards`. Chalmers is not named in prose, so the page needs no new reference entry.
+  - Secondary L231 (Relation, Bidirectional Interaction): "Epiphenomenal consciousness couldn't have genuine intentionality; intentionality without causal efficacy would be intentionality for no one" becomes "Epiphenomenal consciousness could have phenomenal intentionality, but its content would never cause the thinker's behaviour". On the PIT the page defends, phenomenal character constitutes intentionality whether or not it is efficacious, so the old claim contradicted the page's own theory. A zero-word pipe to `acquaintance-without-causation#chalmers-reply` adds the first link from this page to the acquaintance page; the reverse link already existed.
+  - Guard kept: neither page concedes epiphenomenalism, and neither claims Tenet 3's content-efficacy posit is discharged. The surrounding conditionals ("If content is genuinely conscious-mediated …") are untouched.
+- **Inbound quotations**: none on live pages. Six phrases were searched across obsidian/, archive/ and hugo/content/, excluding reviews/ and workflow/. Two kinds of hit: `research/causal-relevance-of-semantic-content-2026-10-21` L282 quotes the old L143 as the defect report (historical record, left alone), and `archive/concepts/phenomenal-intentionality` L149 (old L231 verbatim) plus `archive/concepts/intentionality` L208 (an older variant) are archived copies, left alone.
+- **Engagement modes**: epiphenomenalism (both loci): Mode Three, a framework-boundary mark that now credits the rival with what it can supply (constitution) before naming what it cannot (efficacy).
+- **Attribution**: ai_modified set from `date -u` per file (primary 2026-11-04T22:39:10+00:00; secondary 2026-11-04T22:39:17+00:00). The fork's model was confirmed from its own transcript (claude-opus-5-5). Primary ai_system gains `+claude-opus-5-5` (it was absent). Secondary ai_system is unchanged because claude-opus-5-5 was already present.
+- **Published**: yes
 
 ## 2026-11-04T22:25:14+00:00 - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-24 22:09:45+00:00
+ai_modified: 2026-11-04 22:39:17+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[symbol-grounding-problem]]'
 created: 2026-01-14
-date: &id001 2026-10-24
+date: &id001 2026-11-04
 description: 'The aboutness of mental states: why thoughts are directed at objects.
   Phenomenal intentionality theory shows content requires consciousness, with implications
   for AI and the hard problem.'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 17:17:43+00:00
-lastmod: 2026-10-24 22:09:45+00:00
+lastmod: 2026-11-04 22:39:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -232,7 +232,7 @@ Intentionality connects to all five foundational tenets:
 
 **[Dualism](/tenets/#dualism)**: Brentano identified intentionality as the mark of the mental—something physical descriptions cannot capture. If intentionality requires phenomenal character (PIT), and phenomenal character is irreducible to physical processes, then intentionality is doubly irreducible.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If thoughts genuinely *mean* things, then consciousness engages with reality in a substantive way. The content of thought influences behaviour because thought has content *for the thinker*, not merely for external interpreters. Epiphenomenal consciousness couldn't have genuine intentionality; intentionality without causal efficacy would be intentionality for no one.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If thoughts genuinely *mean* things, then consciousness engages with reality in a substantive way. The content of thought influences behaviour because thought has content *for the thinker*, not merely for external interpreters. Epiphenomenal consciousness [could have phenomenal intentionality](/topics/acquaintance-without-causation/#chalmers-reply), but its content would never cause the thinker's behaviour.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If intentional content influences action, and action requires selecting among possible neural states, then the "aboutness" of thought may be where quantum selection occurs. What we're thinking *about* may influence which outcome actualizes.
 

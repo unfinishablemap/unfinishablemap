@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-09-29 09:00:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-04 22:39:10+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/the-naturalisation-failure-for-content/
@@ -20,7 +20,7 @@ concepts:
 - '[[content-vocabulary-as-derived-feature]]'
 - '[[content-externalism]]'
 created: 2026-04-27
-date: &id001 2026-09-29
+date: &id001 2026-11-04
 description: Hutto and Myin's Hard Problem of Content argues no naturalistic theory
   delivers semantic aboutness. The Map borrows the diagnosis and declines the enactivist
   cure.
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 09:00:00+00:00
-lastmod: 2026-09-29 09:00:00+00:00
+lastmod: 2026-11-04 22:39:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,7 +144,7 @@ The naturalisation failure for content connects to three of the Map's [tenets](/
 
 **[Dualism](/tenets/#dualism).** If naturalised content theories cannot deliver truth-conditional, intensional content, and content is a real feature of conscious mental life, then the grounds for content lie outside the natural-physical order as currently described. This does not by itself establish dualism — further inquiry might yet produce a naturalising story that works — but it provides evidence congruent with the Map's commitment that mind is irreducible. The convergence with the [phenomenal hard problem](/topics/hard-problem-of-consciousness/) and the [normativity of reason](/topics/consciousness-and-the-normativity-of-reason/) strengthens the case: physicalism is not failing once but repeatedly, and at the same kind of joint each time.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Content shapes behaviour. What an organism takes the world to be, under what guise, drives what the organism does. If content is genuinely conscious-mediated, the causal pathway from content to behaviour is a pathway from consciousness to physical action — instantiating the bidirectional structure the tenet requires. A purely epiphenomenal consciousness could not anchor content, because it could not figure in the causal explanation of why an organism reaches for one thing rather than another under one description rather than another.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Content shapes behaviour. What an organism takes the world to be, under what guise, drives what the organism does. If content is genuinely conscious-mediated, the causal pathway from content to behaviour is a pathway from consciousness to physical action — instantiating the bidirectional structure the tenet requires. A purely epiphenomenal consciousness might still constitute some content, as with [direct phenomenal beliefs](/topics/acquaintance-without-causation/#chalmers-reply), but it could not make that content [a cause](/concepts/causal-relevance-of-content/#standards) of an organism's reaching for one thing rather than another under one description rather than another.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** REC is itself a parsimony move whose cost can be named precisely: to save naturalism about cognition, REC eliminates content from basic minds. The Map's [treatment of parsimony](/concepts/parsimony-epistemology/) argues that simplicity claims should be weighed against what they leave unexplained. REC trades a difficulty (where does content come from?) for a deeper one (how can a creature with no contentful states still engage the world *as* a world of meaningful objects?) — a tension Shani presses from another angle, arguing that radical enactivism is theoretically unstable, blending strong deflationism with implicit metaphysical revisionism. The trade is not obviously favourable, and it is the kind of trade Tenet 5 cautions against making too quickly.
 
