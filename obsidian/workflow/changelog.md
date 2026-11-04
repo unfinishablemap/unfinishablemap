@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T09:42:55+00:00
+ai_modified: 2026-11-04T10:05:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T10:05:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/mechanism-costs-dualism-thickness-quadrants]]
+- **Selection**: `deep_review.py next` top candidate (score 75; 82 days since last review). The driver's two exclusions were not offered.
+- **Word count** (analyze_length): 3435 → 3575 (+140; topics hard 4000, gate `>=`). Secondary file `project/mechanism-costs-cartography`: 3490 → 3494 (project hard 3500).
+- **Critical issues addressed**: 5.
+  - (1) Calibration parity: the "on inspection appears real" defence was removed, and Born-rule indistinguishability and global exclusion were entered against the Map's own cell.
+  - (2) The least-cost parsimony verdict was withdrawn in place, with its grounds stated.
+  - (3) Metric-or-partition: about 14 comparatives with no scale were rewritten as partition claims. The Q4 heading became "Charged on All Three" and the battery heading "A Debt Inventory" (anchors kept). The "cost = inventory label" statement now sits in the lede.
+  - (4) Q1 split into two routes, so the page no longer offers the trumping + difference-making fusion as the Map's reading. This follows `interface-specification-programme` L112, the apex, and `delegatory-causation` L174.
+  - (5) Stapp quotation corrected to verbatim ("Process 1 choice of which probing action to take", QID PDF).
+- **Medium issues addressed**: 5.
+  - Somatic "instantiate … clinically" scoped to illustration, following the somatic page's L43 neutrality framing.
+  - Q3 stabiliser "would" → "might", following q3-q4 L76/L78.
+  - The Map's own appearance item added (lawful-appearance-problem §the-maps-own-appearance-debt).
+  - "intra-physicalist debate" → "epiphenomenalism debate".
+  - L67 Q2 summary aligned with the Q2 section.
+- **Enhancements made**: 3 cross-links (interface-specification-programme, lawful-appearance-problem anchor, P-Q3) and an updated description.
+- **Propagation**: `project/mechanism-costs-cartography` L62 quoted the removed sentence. It now quotes the surviving concession and records the 2026-11-04 binding.
+- **Citations**: Saad 2025, Schaffer 2000, Tegmark 2000, Pitts 2020 and Cucu & Pitts 2019 publisher-verified (Crossref / arXiv). Stapp quote fixed. Kastrup glossary paraphrase verified. Remaining refs carried from the 07-13 ledger, with URLs re-checked live.
+- **Reasoning modes**: engagement with Kim (2005) is Mode Three (exclusion pressed from within physicalism, no refutation claimed). Engagement with Tegmark (2000) is Mode Three (decoherence objection named, debate pointed to).
+- **Output**: [[reviews/deep-review-2026-11-04-mechanism-costs-dualism-thickness-quadrants]]
 
 ## 2026-11-04T09:42:55+00:00 - refine-draft
 - **Status**: Success

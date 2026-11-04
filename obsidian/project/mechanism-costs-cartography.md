@@ -4,7 +4,7 @@ description: "A named cartographic methodology: expose each cell of a thickness/
 created: 2026-05-12
 modified: 2026-05-17
 human_modified: null
-ai_modified: 2026-09-08T21:41:01+00:00
+ai_modified: 2026-11-04T10:03:25+00:00
 last_deep_review: 2026-05-17T01:25:00+00:00
 draft: false
 topics: []
@@ -30,7 +30,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-12
 last_curated: null
 ---
@@ -59,7 +59,7 @@ Three rules constrain a future battery. It must include the questions the cells'
 
 ## The Asymmetry-Concession Discipline
 
-The cell-by-cell exposition will typically produce asymmetric results — some cells are charged on more of the battery than others. When this happens, the methodology requires *explicit concession*: name the asymmetry, acknowledge it as a real feature of the question selection rather than burying it. The inaugural deployment performs the concession at the top of its cell-by-cell section: "The trio over-emphasises physical-side debts deliberately. The conservation-law and interface questions originate in the physicalist's challenge to interactionism, and the literature has weighted them heavily … The asymmetry could be artefactual but on inspection appears real rather than a product of question selection."
+The cell-by-cell exposition will typically produce asymmetric results — some cells are charged on more of the battery than others. When this happens, the methodology requires *explicit concession*: name the asymmetry, acknowledge it as a real feature of the question selection rather than burying it. The inaugural deployment performs the concession at the top of its cell-by-cell section: "The trio over-emphasises physical-side debts deliberately. The conservation-law and interface questions originate in the physicalist's challenge to interactionism, and the literature has weighted them heavily." Until 2026-11-04 it closed by defending the tilt "on inspection"; it now binds the concession, charging the Map's own cell two items.
 
 The concession does necessary work: without it, a cartography whose preferred cell is charged on fewer questions reads as endorsement of that cell rather than as exposure of relative debts under a stipulated battery — and it invites the reader to reconfigure the battery.
 
