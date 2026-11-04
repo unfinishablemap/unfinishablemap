@@ -2976,6 +2976,8 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **DRIVER ADDENDUM (2026-11-04 09:16Z, after step 3 rewrote L125):** the L125 conclusion now reads "The dissociation is therefore at most one-way, and only on the agency reading." Insert passage A immediately BEFORE that sentence, and reword your drafted "Felt initiation is therefore…" so two consecutive sentences do not both open on "therefore". Re-measure first (3,813 of 4,000 after step 3) and respect the RUN ORDER budget.
 
+  **DRIVER ADDENDUM (2026-11-04 11:40Z, steps 1–7 done):** this is now the LAST open step. The page is 3,861 by analyze_length (ceiling 3,999), so your ≤ +92 cap leaves 46 spare. Line owners from the RUN ORDER still apply: insert after L125's existing sentences without rewriting them, and drop the optional L135 clause. Step 7 left the References list alphabetical: a Ciaunica 2024 entry goes after Bayne & Levy 2006 and before Della Sala et al. 1991; check whether a Ciaunica 2022 entry exists first. The description was rewritten in step 7 ("offers the Map's selection reading as one the evidence fits without establishing"), so do not touch it.
+
 ### P3: Fold "menu luck" into `concepts/basic-argument-and-constitutive-luck` as a new section between "Where the Basic Argument Meets the Rollback" and "What the Map Can Claim" (ChatGPT 2026-10-28 §2.3; research verdict FOLD), plus a one-sentence "menu adequacy" scope note on `topics/responsibility-gradient-from-attentional-capacity`
 - **Type**: refine-draft
 - **File**: obsidian/concepts/basic-argument-and-constitutive-luck.md
