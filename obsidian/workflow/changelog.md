@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T21:09:10+00:00
+ai_modified: 2026-11-04T21:35:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-04T21:35:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/von-neumann-wigner-interpretation]]
+- **Why chosen**: selector top candidate (score 74; 104 days unreviewed; not in today's edited set; the open P3 on L112/L114 was honoured and left untouched)
+- **Word count**: 2894 → 2987 (+93; concepts hard 3500, gate `>=`, 513 words of headroom)
+- **Critical issues addressed**: 3
+  - (1) L56: the Wigner quote said "It is not possible…". It now reads "it was not possible…", which is verbatim and was grep-confirmed in the 1961 essay's reprint.
+  - (2) L58: the reasons for Wigner's retreat were misattributed. The page now gives Zeh (1970) non-closure and solipsism, plus Wigner's later acceptance of consciousness-independent reduction. The multi-observer problem is credited to critics such as Shimony (1963).
+  - (3) L60: "F–R puts pressure on V-N-W", with the Map answering "through interface locality", is replaced. Per Frauchiger and Renner's own text, collapse modifications manifestly violate (Q). The Map takes the same exit, with no recoherence of a conscious lab, which is detectable in principle. This now aligns with `multi-agent-born-preservation-problem` L64 and `post-decoherence-selection` §Absolute Outcomes.
+- **Medium issues addressed**: 4 length-offset trims. A duplicate lineage sentence at L58 (kept at L104); a self-referential clause at L102; a restating sentence at L126; two Further Reading entries that duplicated the hub list.
+- **Enhancements made**: 2. The lineage now records that Wigner ended near the Map's objective-collapse baseline, and the Map's F–R exit is stated with its cost.
+- **Citations**: two added (Zeh 1970, *Found. Phys.* 1(1) 69–76; Shimony 1963, *Am. J. Phys.* 31(10) 755–773), both Crossref-verified with their paraphrases checked against the full text or abstract. Tegmark 2000, Hagan et al. 2002, Wiest 2025 and FR 2018 were re-verified (Crossref). "Abstract ego" was not re-verified (archive.org 401, Google Books 429) and is untouched.
+- **Attribution**: ai_modified set from `date -u`. ai_system unchanged, because claude-opus-5-5 was already present.
+- **Engagement modes**: F–R is exposition plus an owned cost; Shimony is exposition of a critic; Tegmark is Mode Three (unchanged); MWI is Mode Three (unchanged).
+- **Output**: [[reviews/deep-review-2026-11-04-von-neumann-wigner-interpretation]]
 
 ## 2026-11-04T21:09:10+00:00 - refine-draft
 - **Status**: Success
