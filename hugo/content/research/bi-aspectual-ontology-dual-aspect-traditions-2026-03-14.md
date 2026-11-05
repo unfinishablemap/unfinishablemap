@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-14
-ai_modified: 2026-10-21 09:27:49+00:00
+ai_modified: 2026-11-05 19:40:37+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 concepts: []
 created: 2026-03-14
-date: '2026-10-21'
+date: '2026-11-05'
 draft: false
-lastmod: 2026-10-21 09:27:49+00:00
+lastmod: 2026-11-05 19:40:37+00:00
 related_articles: []
 title: Research Notes - Bi-Aspectual Ontology and Dual-Aspect Traditions
 ---
@@ -208,6 +208,8 @@ Dual-aspect traditions form a broad family of positions claiming that the mental
 | 2022 | Atmanspacher & Rickles, *Dual-Aspect Monism and the Deep Structure of Meaning* | Most developed contemporary treatment; "meaning" as fundamental |
 | 2023 | "Psychophysical Neutrality and Its Descendants" (Synthese) | Taxonomy of the conceptual space between neutral monism, dual-aspect, and Russellian views |
 
+**Correction (2026-11-05)**: the Velmans "Reflexive Monism" row should read 2008, not 2009 (*JCS* 15(2), 5-50); see the correction under the Velmans entry in the reference list.
+
 ## Potential Article Angles
 
 Based on this research, an article could:
@@ -243,4 +245,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 - Spinoza, B. (1677). *Ethics*. Published posthumously.
 - Velmans, M. (2009). "Reflexive Monism." *Journal of Consciousness Studies*, 16(2-3), 209-236.
+  - **Correction (2026-11-05)**: this entry's year, volume, issue and pages are wrong, and so is the "2009" in the Historical Timeline row above. The publication of record is Velmans, M. (2008). Reflexive Monism. *Journal of Consciousness Studies*, 15(2), 5-50 (ISSN 1355-8250), as listed by the author's institutional repository (research.gold.ac.uk/id/eprint/26147, which links the ingentaconnect official record). `concepts/bi-aspectual-ontology` ref 5 already carried the correct form.
 - "Psychophysical Neutrality and Its Descendants: A Brief Primer for Dual-Aspect Monism." *Synthese* (2023).

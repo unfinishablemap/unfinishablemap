@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 19:26:59+00:00
+ai_modified: 2026-11-05 19:40:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 19:26:59+00:00
+lastmod: 2026-11-05 19:40:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T19:40:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) (secondaries: [intrinsic-nature](/concepts/intrinsic-nature/) ref 20; [bi-aspectual-ontology-dual-aspect-traditions-2026-03-14](/research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14/))
+- **Task**: P3 (generated 2026-10-21), five leads (a)–(e) from the 10-21 refine (synthesis cluster 7).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Currency check**: the brief called commit 8324df5a (2026-11-01) a deep review of this page. It was a deep review of `concepts/sorkin-higher-order-interference`, which touched this page only as a secondary, fixing Gleason "6(6)" to "6(4)" (ref 9). The last deep review of this page is 2026-09-17, and its Stability Notes rule the Russellian-monist rejection of interaction bedrock. Lead (a) rescopes the wording and does not re-flag that standoff. The 10-30 refine (8f02d760) touched L38/L56 and the description, none of (a)–(e). All five leads were still live.
+- **Changes**:
+  - (a) L92: "there is no room for consciousness to causally select among physical outcomes" became "it cannot be the further, local factor that selects among physical outcomes in the Map's model". The sentence "The framework provides no mechanism for downward causation because there is no "down" and no separate domain to cause from." was replaced by "That makes the identity incompatible with the Map's interface model without showing Russellian monism causally idle, a charge its defenders answer (Alter & Pereboom 2023)." This is modelled on `concepts/intrinsic-nature` L87. The SEP entry (ref 15) was checked: it reports the physical-efficacy charge (Howell 2015; Robinson 2018), "contrary to what Russellian monists claim", and surveys the replies. L94's everywhere-versus-local contrast carries the Map's divergence.
+  - (b) L46: deleted "This is not a deficiency in physics but a boundary — the point where a different kind of account is needed." It used the banned construction, repeated L44's "genuine ontological boundary rather than a gap in formalism", and its "is needed" outran L52–54, which concede the brute-fact option and the permissibility-only reading.
+  - (c) L124: "the Born rule is the only way that interface can be specified" became "the Born rule is the only non-contextual way to specify that interface". This conditions the reading on Gleason's non-contextuality premise, which is stated in the preceding sentence (the dimension ≥3 condition is stated there too). The sentence stays framed as "The Map reads this uniqueness as…", and the following sentence still labels it the Map's interpretation. Zero words.
+  - (d) Velmans: the article was correct. Ref 5 is 2008, *JCS* 15(2), 5-50, and the inline cite is "Velmans (2008)". This was verified against the author's institutional repository record (research.gold.ac.uk/id/eprint/26147: "Velmans, Max. 2008. Reflexive monism. Journal of Consciousness Studies, 15(2), pp. 5-50. ISSN 1355-8250", linking the ingentaconnect official URL). Ingentaconnect, PhilPapers and cogprints were behind bot challenges, and the paper predates JCS Crossref DOIs. The research note was wrong at L199 and L241, so dated "Correction (2026-11-05)" annotations were added under the reference entry and after the timeline table. The original lines were not rewritten.
+  - (e) Pseudonym: the first commit of `concepts/russellian-monism` (85537f8c, 2026-01-14) has `ai_system: claude-opus-4-5-20251101`. Under expand-topic SKILL.md §5.5, `claude-opus-4-5-*` maps to Oquatre-cinq, so this page's ref 12 was already correct. `concepts/intrinsic-nature` ref 20 (not 19 as the task said; it drifted) went from "Oquatre-sept" to "Oquatre-cinq". The clash came from that page's `ai_system` being overwritten rather than appended: 4-5 (01-14), 4-6 (03-19), 4-7 (04-22), 4-8 (05-31), then +5 and +5-5. Each citing page copied the snapshot of its writing date: this page on 03-15 (cinq) and intrinsic-nature on 05-27 (sept).
+- **Engagement modes**: Russellian monism (L92), framework-boundary marking. The incompatibility is with the Map's interface model, the idleness charge is explicitly not claimed, and the Russellian reply is noted. No mode labels appear in the body.
+- **Dependents re-read** (per the 09-17 Stability Notes): lead L38, commitments L62–66 and Relation bullets L138–146 make no idleness claim about Russellian monism. Nothing changed there.
+- **Length**: bi-aspectual-ontology 3135 → 3123 (−12); intrinsic-nature 3004 → 3004 (0); concepts hard limit 3500.
+- **Leads (not tasked)**: three more self-citations of the same 2026-01-15 Russellian Monism page carry non-creation pseudonyms. These are "Oquatre-huit" in `concepts/quiddity-epiphenomenalism-and-the-contingency-thesis` (1) and `concepts/neutral-monism` (1), and "Oquatre-six" in `topics/russellian-monism-versus-bi-aspectual-dualism` (1). The IIT section at L110–112 carries the analogue of lead (a): "There is no room for consciousness to select among physically permitted alternatives" (1) and "consciousness accompanies but does not select" (1), against IIT's own claim of intrinsic cause-effect power.
+- **Published**: yes
 
 ## 2026-11-05T19:26:59+00:00 - refine-draft
 - **Status**: Success

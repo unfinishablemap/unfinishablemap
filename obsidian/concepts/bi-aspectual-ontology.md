@@ -4,7 +4,7 @@ description: "Reality has two irreducible aspects — structure (physics) and ac
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-11-01T17:44:49+00:00
+ai_modified: 2026-11-05T19:40:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ The Unfinishable Map's ontology is *bi-aspectual*: reality has two irreducible a
 
 Physics describes the world's structure: spatial relationships, causal dispositions, dynamical evolution, conservation laws, symmetries. Quantum mechanics specifies which outcomes are possible and with what probabilities. This structural description is *complete for its domain*, within limits: the [[quantum-completeness#no-go-theorems|no-go theorems]] exclude local, non-contextual and ψ-epistemic extensions, not every conceivable one ([[physical-completeness]]). Non-local de Broglie–Bohm survives them, and the Map declines it on tenet grounds. Short of such an extension, the wavefunction encodes all structural facts about a system. Some approaches (decoherence-based interpretations, QBism, consistent histories) attempt to resolve the [[measurement-problem|measurement problem]] within physics alone, but none has achieved consensus, and the Map holds that the problem marks a genuine ontological boundary rather than a gap in formalism.
 
-What physics does not describe is why one particular outcome from among the permitted alternatives becomes actual. The Born rule gives probabilities; it does not explain selection. This is not a deficiency in physics but a boundary — the point where a different kind of account is needed.
+What physics does not describe is why one particular outcome from among the permitted alternatives becomes actual. The Born rule gives probabilities; it does not explain selection.
 
 ### Actuality
 
@@ -89,7 +89,7 @@ Velmans (2008) treats conscious experience and brain processes as complementary 
 
 [[russellian-monism|Russellian monism]] agrees with the Map that physics describes only structure. But it draws a different conclusion: consciousness *is* the intrinsic nature of matter — what physical entities are "from the inside." The structural/intrinsic distinction maps onto the physical/mental distinction, and there is only one kind of stuff viewed from two angles.
 
-The Map parts company at the crucial juncture. If consciousness simply *is* the intrinsic nature of physical entities, there is no room for consciousness to causally select among physical outcomes — it is already identical with the physical at the fundamental level. In its [[panpsychism|panpsychist]] variant, Russellian monism faces the additional combination problem: how do micro-experiences in fundamental particles combine into unified macro-consciousness? The framework provides no mechanism for downward causation because there is no "down" and no separate domain to cause from.
+The Map parts company at the crucial juncture. If consciousness simply *is* the intrinsic nature of physical entities, it cannot be the further, local factor that selects among physical outcomes in the Map's model — it is already identical with the physical at the fundamental level. That makes the identity incompatible with the Map's interface model without showing Russellian monism causally idle, a charge its defenders answer (Alter & Pereboom 2023). In its [[panpsychism|panpsychist]] variant, Russellian monism faces the additional combination problem: how do micro-experiences in fundamental particles combine into unified macro-consciousness?
 
 The Map holds instead that consciousness is ontologically distinct from physical structure and interacts with it at quantum indeterminacies. Physics is structurally complete but *ontologically incomplete* — it describes all structure but not all of reality. Consciousness is the missing ontology, not the missing intrinsic nature of the ontology physics already describes. So when the Map places the non-physical aspect "at the intrinsic base" ([[intrinsic-nature]]), the phrase names a level, the fundamental ontology that structural description leaves out, and not identity with the quiddities that ground every physical disposition: that base is everywhere, while the actuality consciousness supplies is local to neural interfaces. The identity the Map relies on for causal efficacy is narrower: quality with power within a [[consciousness-and-the-metaphysics-of-laws-and-dispositions|phenomenal powerful quality]].
 
@@ -121,7 +121,7 @@ QBism is instructive because it makes the *agent* central to quantum mechanics w
 
 If structure specifies what is possible and actuality determines what is real, the Born rule is where they meet. Quantum mechanics provides the probabilities; consciousness influences which outcome is selected from among them. The Born rule is not merely a calculational tool — it is the *interface specification* between the two aspects of reality.
 
-This reading explains a persistent puzzle: why the Born rule works but resists derivation from the rest of quantum mechanics. Gleason's theorem (1957) shows that the Born rule is the *unique* probability measure on the projections of a Hilbert space of dimension ≥3, provided the measure is non-contextual. The Map reads this uniqueness as reflecting a deep fact: if consciousness interfaces with quantum structure at all, the Born rule is the only way that interface can be specified. This is the Map's interpretation, not a direct consequence of Gleason's result, but the mathematical uniqueness is suggestive.
+This reading explains a persistent puzzle: why the Born rule works but resists derivation from the rest of quantum mechanics. Gleason's theorem (1957) shows that the Born rule is the *unique* probability measure on the projections of a Hilbert space of dimension ≥3, provided the measure is non-contextual. The Map reads this uniqueness as reflecting a deep fact: if consciousness interfaces with quantum structure at all, the Born rule is the only non-contextual way to specify that interface. This is the Map's interpretation, not a direct consequence of Gleason's result, but the mathematical uniqueness is suggestive.
 
 The interface is narrow. Conscious perception operates at approximately 10 bits per second (Zheng & Meister 2025), while the brain processes billions. Selection is coarse-grained — action patterns and attentional focus, not individual quantum events. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] constrains the interface to the smallest deviation from standard quantum mechanics that permits genuine mental causation.
 

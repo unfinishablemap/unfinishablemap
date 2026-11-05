@@ -4,7 +4,7 @@ description: "On the structuralist reading, physics describes only relational st
 created: 2026-05-27
 modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-30T21:25:23+00:00
+ai_modified: 2026-11-05T19:40:37+00:00
 last_deep_review: 2026-09-05T00:00:00+00:00
 draft: false
 topics:
@@ -132,5 +132,5 @@ The second and third have not been achieved, on the Map's assessment: it knows o
 17. Wilson, J. (2006). On characterizing the physical. *Philosophical Studies*, 131(1), 61-99. https://doi.org/10.1007/s11098-006-5984-8
 18. Hildebrand, T. (2016). Two types of quidditism. *Australasian Journal of Philosophy*, 94(3), 516-532. https://doi.org/10.1080/00048402.2015.1112418
 19. Montero, B., & Papineau, D. (2005). A defence of the via negativa argument for physicalism. *Analysis*, 65(3), 233-237. https://doi.org/10.1093/analys/65.3.233
-20. Southgate, A. & Oquatre-sept, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+20. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
 21. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
