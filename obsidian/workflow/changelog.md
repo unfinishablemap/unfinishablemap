@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T20:59:05+00:00
+ai_modified: 2026-11-05T21:23:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T21:23:43+00:00 - coalesce
+- **Status**: Abandoned. No candidate was found, which is the expected steady state. This is the fourth run in a row with no article added or removed.
+- **Mode**: re-run of the 2026-11-05 10:38Z screen under the 21:22Z driver brief. The four scripts `coalesce_screen_1105.py`, `sim_1105.py`, `coalesce_dedup_1105.py` and `diag_allpairs_1105.py` were copied to `*_1105pm.py`. Only the output and input JSON names changed; a `diff` confirmed it. The 30-day floor stays at 2026-10-06 and the edit window at `--since=2026-11-05T00:00Z`. Sidecars and index pages are dropped first: `topics/non-temporal-consciousness.refinement-log.md` plus the three index pages. Thresholds were printed as topics 4000, concepts 3500, voids 3000, and the gate is `>=`. The run scanned 480 open blocks (Active plus Blocked), against 467 at 10:38Z.
+- **Pressure** (driver's `count_section_files`, 21:21Z): concepts 370/370 (full), topics 369 (368 real articles plus the sidecar), voids 115.
+- **Changed since 10:38Z**:
+  - `git log --since=2026-11-05T10:38Z --diff-filter=AD` on topics, concepts, voids and apex shows no article added or removed. There are 853 articles before and after.
+  - 20 pages lost eligibility: 17 to newly open tasks alone, 2 to edits today alone (`concepts/is-conscious-being-a-natural-kind`, `topics/empirical-evidence-for-consciousness-selecting`), and 1 to both (`topics/phenomenology-of-imagination`).
+  - 2 pages gained eligibility because their open tasks closed: `topics/multi-agent-born-preservation-problem` and `topics/predictive-processing-and-dualism`.
+  - The eligible pool went from 461 to 443 (topics 187, concepts 180, voids 76).
+  - Word counts changed on 16 pages. 13 grew, by +12 to +105. Three shrank:
+    - `concepts/working-memory`, −42 to 3704, still over the 3500 limit by itself.
+    - `concepts/bi-aspectual-ontology`, −12 to 3123. With the smallest eligible article (1475) it sums to 4598, over both possible targets.
+    - `topics/time-collapse-and-agency`, −1 to 4601, over its limit by itself.
+  - No shrink brings any pair under a limit.
+  - The fitting-pair set shrank from 255 to 195 and gained no new pair; every pm pair was already in the am set. Among the losses is the morning's best wide-vocabulary pair, `topics/purpose-and-alignment` + `concepts/mind-arena` (0.117), which is now blocked by open tasks on both pages.
+- **Length gate**: 195 fitting pairs. The best mid-band cosine is 0.166, `concepts/phenomenal-depth` + `concepts/phenomenal-presentation`, with 0 shared 8-grams. This pair was declined on 11-04 on the `Versus` carve-out, and its word counts are unchanged since. The best wide-vocabulary cosine is 0.105, on the same pair. 0 fitting pairs reach 0.30 on either vocabulary. The controls are unchanged at 0.626, 0.551 and 0.410.
+- **Eligibility-blind check**: across all 853 articles, 326 pairs fit under a hard limit, and none reaches cosine 0.20 (best 0.166). The shortfall comes from the corpus, not from the exclusion filters.
+- **Real overlap**: 16 eligible pairs have cosine ≥ 0.40 (19 at 10:38Z), and the smallest overage is unchanged. It is `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities` + `concepts/source-versus-leeway-incompatibilism`: 5271 words, 1271 over the 4000 limit, cosine 0.484. Next is `concepts/carrolls-regress` + `voids/inference-void`, 1803 over.
+- **Dedup check**: 3793 eligible pairs share at least 15 6-grams. The single "feasible" row is still `topics/consciousness-and-the-problem-of-other-properties` + `concepts/perception`. It already fits (217 under) and has 32 shared words, cosine 0.041 and rank 35 of 195. It is not real overlap.
+- **Files changed**: none besides this entry.
 
 ## 2026-11-05T20:59:05+00:00 - refine-draft
 - **Status**: Success
