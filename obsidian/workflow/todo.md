@@ -4887,6 +4887,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: The 14:47Z fix scoped L121 ("On the orthodox reading, [[blindsight]] provides the clearest evidence…") and L140, and added "Phillips (2021) reads blindsight as qualitatively degraded conscious vision under a conservative report criterion; Michel & Lau (2021) dispute this". Six loci still assume the orthodox reading without a scope marker. Each `grep -c -F` = 1 at 14:51Z: (1) L48 lead "provide the clearest empirical cases of this conscious/unconscious divide"; (2) L104 "patients can respond to visual stimuli but cannot spontaneously use blind-field information to guide self-initiated action"; (3) L134 "- Subjective visual experience" (zero-cost swap to "Reported visual experience", which holds on both readings); (4) L136 "The information was available to motor systems but not to the self."; (5) L221 "2. **Blindsight achieved spontaneous action.**", the deferred FIX (c): add that if blindsight proves to be degraded conscious vision, it stops serving as a control for unconscious capacity (about 13 words, so fund it); (6) L263 Further Reading "The paradigm case of perception without consciousness". FIX: the lightest scope marker that fits ("on the orthodox reading", "as standardly read") or a word swap. Do NOT adopt Phillips. Keep the dispute open. The 2026-07-25 deep review's bedrock standoffs are untouched. The 14:47Z refine shortened the Gunasekaram (2024) reference to "et al." to fund the two new references; leave it.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
+### P3: `concepts/working-memory` residue after the 2026-11-05 ten-bit fix: L129 states fully non-conscious passive maintenance as fact against the page's own L45/L59 caveats, L147 uses an "isn't X—it's Y" construction, and L167 presupposes the asymmetry its next sentence calls unsettled
+- **Type**: refine-draft
+- **File**: obsidian/concepts/working-memory.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-05 14:56Z (commit 2342b498, from `reviews/outer-review-2026-11-05-gemini-3-1-pro.md` and the tenet-check 161 W6 fold-in), proposed follow-ups; the driver grep-validated each locus at 14:59Z
+- **Generated**: 2026-11-05
+- **Headroom**: 3,704/3,500, OVER the concepts hard limit. The edit MUST be net-negative.
+- **Notes**: Live at 14:59Z (`grep -c -F` = 1 each): (1) L129 "while passive maintenance operates without consciousness and without effort". The page's own L45/L59 caveat maintenance's relation to consciousness. Scope it ("may operate", "on the dominant reading") or cut it. (2) L147 "A few extra slots isn't like adding disk space—it's the difference": the CLAUDE.md-banned construction. Rephrase as a direct positive claim, shorter. (3) L167 "fails to explain why manipulation requires something maintenance doesn't" assumes the asymmetry, while the next sentence (installed 14:56Z) reads "That manipulation requires consciousness is the dominant reading, not a settled one". Make it conditional or cut it. Leave L127 (the Z&M invariance sentence), the L165 Many-Worlds sentence, and the Baddeley, Allen & Hitch 2010 lines as they now stand.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
 ## Completed Tasks
 
 
