@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 08:36:47+00:00
+ai_modified: 2026-11-05 09:11:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 08:36:47+00:00
+lastmod: 2026-11-05 09:11:12+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-05T09:11:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Source**: outer-review ChatGPT 5.6 Sol Pro 2026-11-05 §4.3 / item 12 ([outer-review-2026-11-05-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-05-chatgpt-5-6-sol-pro/)), P2 queue task
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (1) L79 anti-emergentism: "consciousness cannot emerge from wholly non-conscious matter" → "consciousness cannot be *reductively* explained by structural description"; "This avoids attributing experience to rocks while keeping the anti-emergentist insight." → "…without ruling out non-reductive emergence: Hasker's [emergent dualism](/concepts/emergent-dualism/), on which the brain generates the conscious self, remains a live option the Map declines only provisionally." This matches `concepts/emergent-dualism` L84 ("a coherent and well-defended horn", resolved "provisionally, in favor of coupling") and `topics/the-strong-emergence-of-consciousness` ("the Map is not committed to consciousness emerging from physics"). (2) L171 Dualism bullet: the shared point is now the rejection of the claim that experience reduces to structural description. The no-emergence claim is attributed to process thought as "process thought's further claim", "which the Map leaves open". (3) L175 Bidirectional bullet: "The Map's claim that consciousness influences physical outcomes is not exceptional but exemplary of how reality works." → "Within that ontology, which the Map does not adopt, conscious influence on physical outcomes is the norm; the Map's causal claim fits that picture without following from it." This recasts it as compatibility and drops the "not X but Y" cousin. (4) L163: one sentence installs the concession from `topics/consciousness-as-activity` L43/L114, piped to [activity framing](/topics/consciousness-as-activity/): the framing "removes some obstacles to interactionist dualism without favouring dualism over process physicalism … or over enactivism". No third steelman link was added.
+- **Left unchanged by design**: L129, L135, L177 (owned by the open P3, todo ~L3247) and L179 (parsimony-tiebreaker NEEDS-HUMAN). All four are md5-identical to HEAD. 07-25 stability notes honoured: the Bergson quote and "Category of the Ultimate" were not touched.
+- **Word count**: 4170 → 4245 (+75; analyze_length; apex hard 5000; cap for this task +80). Remaining headroom 754 (hard − 1 − count).
+- **Reasoning modes**: process thought's no-emergence thesis (L79/L171): Mode Three. It is recorded as process thought's own claim, which the Map leaves open, and is neither adopted nor refuted. Hasker: not an opponent reply; the emergent-dualism concession is carried forward. Process physicalism and enactivism (L163): Mode Three. The activity vocabulary does not settle the choice against them. Conscious causation (L175): framework-boundary compatibility, confined to process ontology.
+- **ai_system**: unchanged. The transcript model is claude-opus-5-5, which the string already contains. ai_modified 2026-11-05T09:11:12+00:00.
+- **Sync**: verified in obsidian and hugo. 8 new strings at 1/1 and 5 retired strings at 0/0 (incl. "anti-emergent"). Links render as `/concepts/emergent-dualism/` and `/topics/consciousness-as-activity/`.
+- **Follow-up (not tasked)**: (a) apex_thesis and the `apex/apex-articles` Thesis line (count 1 each): "illuminating how consciousness is irreducible, temporally structured, and causally efficacious". The body's L161 says "could be causally efficacious". (b) L115 "Process philosophy strongly supports this claim—indeed, it generalizes it." (count 1) is the body twin of the old L175. (c) L123 "…not consciousness pushing matter from outside but consciousness as the experiential dimension of reality's creative advance." (count 1) states Tenet 3 in process-monist terms. (d) The "all five tenets" framing: L49 "illuminate all five of the Map's tenets" (1), L169 "This apex article draws on all five tenets:" (1), and description "illuminate the Map's five tenets—from irreducibility to temporal agency." (1).
+- **Published**: yes
+- **Not committed**.
+
 ---
 
 ## 2026-11-05T08:36:47+00:00 - optimistic-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-29 02:50:33+00:00
+ai_modified: 2026-11-05 09:11:12+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-04-21 12:51:00+00:00
 apex_sources:
@@ -24,7 +24,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[integration-as-activity]]'
 created: 2026-01-31
-date: &id001 2026-10-29
+date: &id001 2026-11-05
 description: Reality as becoming, not being. Whitehead and Bergson's process frameworks
   illuminate the Map's five tenets—from irreducibility to temporal agency.
 draft: false
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:18:53+00:00
-lastmod: 2026-10-29 02:50:33+00:00
+lastmod: 2026-11-05 09:11:12+00:00
 modified: *id001
 related_articles:
 - '[[prehension]]'
@@ -79,7 +79,7 @@ Standard physicalism faces the [hard problem](/topics/hard-problem-of-consciousn
 
 Whitehead denied "vacuous actuality"—the idea of utterly non-experiential matter. Every actual occasion involves some form of experience, however primitive. This is [Whitehead's panpsychism](/concepts/panpsychism/): not that electrons have rich inner lives, but that experiential taking-account-of is fundamental to reality. Human consciousness is highly organized experience—a "society" of actual occasions with "personal order", forming a single serial stream.
 
-Both frameworks agree on an essential point: consciousness cannot emerge from wholly non-conscious matter. Physical description is constitutively structural; consciousness is constitutively qualitative; no amount of structural detail closes the gap. Where they differ is in the response. Process philosophy dissolves the mind-matter distinction by holding that matter is already experiential. The Map preserves the distinction, defending [interactionist dualism](/concepts/interactionist-dualism/): consciousness interfaces with matter at specific points—quantum indeterminacies in neural systems—rather than being present everywhere. This avoids attributing experience to rocks while keeping the anti-emergentist insight.
+Both frameworks agree on an essential point: consciousness cannot be *reductively* explained by structural description. Physical description is constitutively structural; consciousness is constitutively qualitative; no amount of structural detail closes the gap. Where they differ is in the response. Process philosophy dissolves the mind-matter distinction by holding that matter is already experiential. The Map preserves the distinction, defending [interactionist dualism](/concepts/interactionist-dualism/): consciousness interfaces with matter at specific points—quantum indeterminacies in neural systems—rather than being present everywhere. This avoids attributing experience to rocks without ruling out non-reductive emergence: Hasker's [emergent dualism](/concepts/emergent-dualism/), on which the brain generates the conscious self, remains a live option the Map declines only provisionally.
 
 The philosophical tradeoff is clear. Process philosophy avoids the *interaction problem* (how do distinct substances causally connect?) but faces the [combination problem](/concepts/combination-problem/) (how do micro-experiences combine into unified consciousness?). The difficulty is sharper than it first appears. [Phenomenal unity](/concepts/unity-of-consciousness/) requires *conjoint phenomenology*—a unified "what it is like" that subsumes its parts rather than merely aggregating them. Micro-experiences would need to fuse into a whole whose character is not derivable from theirs individually. As William James observed, separate feelings cannot simply be added together to produce a unified experience; the whole has properties that no part possesses. Both the combination problem and the hard problem may be instances of a general difficulty at level transitions—what emerges at the macro level resists derivation from the micro level regardless of one's starting ontology.
 
@@ -163,7 +163,7 @@ The resources run deeper than individual arguments. Process philosophy explains 
 
 This framework also illuminates creative causation. Whitehead's subjective aim and Bergson's creative duration provide models for how consciousness could be causally efficacious without violating physical law. Causation-from-the-whole-self working with inherited constraints—this is what the Map means by consciousness selecting among quantum possibilities.
 
-The Map draws on process philosophy without adopting its ontology. By maintaining a genuine mind-matter distinction, it avoids the panpsychist combination problem, though it owes the coupling account noted above; by engaging seriously with process thought, it inherits a rich vocabulary for time, causation, and experience that pure substance metaphysics lacks. Process philosophy is a fellow traveller, not a destination.
+The Map draws on process philosophy without adopting its ontology. By maintaining a genuine mind-matter distinction, it avoids the panpsychist combination problem, though it owes the coupling account noted above; by engaging seriously with process thought, it inherits a rich vocabulary for time, causation, and experience that pure substance metaphysics lacks. That vocabulary serves rivals too: the [activity framing](/topics/consciousness-as-activity/) removes some obstacles to interactionist dualism without favouring dualism over process physicalism, which treats conscious states as brain processes, or over enactivism, which identifies consciousness with embodied engagement. Process philosophy is a fellow traveller, not a destination.
 
 What process philosophy ultimately offers is a vision of reality where consciousness fits. Not as an anomaly to be explained away, not as an embarrassment to scientific naturalism, but as paradigmatic of what reality fundamentally involves: becoming, creativity, experience, time. The Map charts different territory, but it travels through a landscape that process philosophy helped to reveal.
 
@@ -171,11 +171,11 @@ What process philosophy ultimately offers is a vision of reality where conscious
 
 This apex article draws on all five tenets:
 
-**[Dualism](/tenets/#dualism)**: Process philosophy shares the Map's anti-emergentist insight—consciousness cannot arise from wholly non-conscious matter. The frameworks differ on whether matter is secretly experiential (process view) or genuinely distinct from consciousness (the Map's view), but both reject the physicalist claim that experience reduces to structural description.
+**[Dualism](/tenets/#dualism)**: Process philosophy and the Map both reject the physicalist claim that experience reduces to structural description. They differ on whether matter is secretly experiential (process view) or genuinely distinct from consciousness (the Map's view), and the Map leaves open process thought's further claim that consciousness cannot arise from wholly non-conscious matter.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Whitehead's concrescence provides a metaphysical analogue to quantum collapse—the transition from potentiality to definite actuality. The Map proposes this transition as the site where consciousness exercises causal influence, working with physics rather than against it.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Process philosophy generalizes conscious causation: all actuality involves subjective aim. The Map's claim that consciousness influences physical outcomes is not exceptional but exemplary of how reality works. Bergson's durée provides the phenomenological side—creative causation emerging from the whole self.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Process philosophy generalizes conscious causation: all actuality involves subjective aim. Within that ontology, which the Map does not adopt, conscious influence on physical outcomes is the norm; the Map's causal claim fits that picture without following from it. Bergson's durée provides the phenomenological side—creative causation emerging from the whole self.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Process philosophy's commitment to definite actualisation—occasions achieving particular form—supports rejecting many-worlds. Personal identity requires the prehensive intimacy that branching would multiply rather than preserve as one ([P-I2](/positions/individuation-and-subjecthood/#p-i2) records the conditional standing of that objection). Durée's interpenetrating flow presupposes one globally unique self, not many locally continuous successors.
 
