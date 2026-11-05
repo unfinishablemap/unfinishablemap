@@ -1,14 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 20:59:05+00:00
+ai_modified: 2026-11-05 21:40:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 20:59:05+00:00
+lastmod: 2026-11-05 21:40:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T21:40:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-under-dualism](/topics/ethics-under-dualism/) (primary), plus [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/), [normative-void](/voids/normative-void/) and [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Source**: P3 sweep from `reviews/pessimistic-2026-10-21-phenomenology-of-moral-life.md`, with the apex added from tenet check 153 (`reviews/tenet-check-2026-10-21.md`, Priority 3).
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **What was wrong**: each page said flatly that branching removes prevention, courage, tragic weight or desert. Posit Three in [background-commitments](/tenets/background-commitments/) says all of these are available branch-locally, and that what separates the Map from Everett is global exclusion, which the Map posits. Each fix restates the item branch-locally, then adds the settled second sentence from [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) L135, with only its last noun changed per page. All four pages were fixed; none already framed global exclusion as a posit.
+- **Changes** (word counts from `analyze_length`):
+  - `topics/ethics-under-dualism` L206, 3936 → 3955 (+19): "suffering would never truly be prevented — only redistributed" became "a choice still prevents suffering within its branch", plus the settled sentence ending "rather than derives from moral urgency". This echoes the paragraph's opening, "No Many Worlds preserves moral urgency".
+  - `concepts/nihilism-and-existentialism` L130, 2521 → 2549 (+28): "courage collapses into a statistical distribution rather than a genuine achievement" became "courage survives branch-locally: in each branch an agent faces danger and owns one act", plus the settled sentence ending "the phenomenology". The next sentence ("The Map's rejection of MWI preserves…") still has its own subject.
+  - `voids/normative-void` L126, 2182 → 2205 (+23): removed "presupposes that choices have determinate outcomes … potentially dissolving the tragic weight". Each branch has a determinate outcome, so that presupposition holds under branching. The new text says the tragic weight survives branch-locally, because the agent takes one horn and owns it, then gives the settled sentence ending "the phenomenology". The old line was hedged ("potentially"), but its premise was false by Posit Three, so it was fixed rather than passed.
+  - `apex/moral-architecture-of-consciousness` L190, 4569 → 4593 (+24): the add-on's exact OLD → NEW, "Graded responsibility requires singular outcomes…" → "…can be restated branch-locally … rather than derives from desert."
+- **Reasoning-mode**: engagement with Everettian many-worlds on all four pages: Mode Three. The text concedes what branch-relative accounts supply and marks the remaining disagreement, global exclusion, as a Map posit. It does not claim to refute Everett. Tenet 4 stays a commitment.
+- **Frontmatter**: `ai_modified` set to 2026-11-05T21:40:50+00:00 on all four pages. `claude-opus-5-5` was appended to `ai_system` on normative-void only; it was already in the other three.
+- **Follow-on**: tenet check 153 section B lists 11 more topic and concept pages in this family (items 10 and 11). They were not edited here. The arguments page in that family (`arguments/epiphenomenalism-argument`, old L215) was already fixed by commit 1f7bbc018a.
+- **Published**: yes (synced; the new strings have count 1 and the old strings count 0, in both obsidian and hugo)
+
+## 2026-11-05T21:23:43+00:00 - coalesce
+- **Status**: Abandoned. No candidate was found, which is the expected steady state. This is the fourth run in a row with no article added or removed.
+- **Mode**: re-run of the 2026-11-05 10:38Z screen under the 21:22Z driver brief. The four scripts `coalesce_screen_1105.py`, `sim_1105.py`, `coalesce_dedup_1105.py` and `diag_allpairs_1105.py` were copied to `*_1105pm.py`. Only the output and input JSON names changed; a `diff` confirmed it. The 30-day floor stays at 2026-10-06 and the edit window at `--since=2026-11-05T00:00Z`. Sidecars and index pages are dropped first: `topics/non-temporal-consciousness.refinement-log.md` plus the three index pages. Thresholds were printed as topics 4000, concepts 3500, voids 3000, and the gate is `>=`. The run scanned 480 open blocks (Active plus Blocked), against 467 at 10:38Z.
+- **Pressure** (driver's `count_section_files`, 21:21Z): concepts 370/370 (full), topics 369 (368 real articles plus the sidecar), voids 115.
+- **Changed since 10:38Z**:
+  - `git log --since=2026-11-05T10:38Z --diff-filter=AD` on topics, concepts, voids and apex shows no article added or removed. There are 853 articles before and after.
+  - 20 pages lost eligibility: 17 to newly open tasks alone, 2 to edits today alone (`concepts/is-conscious-being-a-natural-kind`, `topics/empirical-evidence-for-consciousness-selecting`), and 1 to both (`topics/phenomenology-of-imagination`).
+  - 2 pages gained eligibility because their open tasks closed: `topics/multi-agent-born-preservation-problem` and `topics/predictive-processing-and-dualism`.
+  - The eligible pool went from 461 to 443 (topics 187, concepts 180, voids 76).
+  - Word counts changed on 16 pages. 13 grew, by +12 to +105. Three shrank:
+    - `concepts/working-memory`, −42 to 3704, still over the 3500 limit by itself.
+    - `concepts/bi-aspectual-ontology`, −12 to 3123. With the smallest eligible article (1475) it sums to 4598, over both possible targets.
+    - `topics/time-collapse-and-agency`, −1 to 4601, over its limit by itself.
+  - No shrink brings any pair under a limit.
+  - The fitting-pair set shrank from 255 to 195 and gained no new pair; every pm pair was already in the am set. Among the losses is the morning's best wide-vocabulary pair, `topics/purpose-and-alignment` + `concepts/mind-arena` (0.117), which is now blocked by open tasks on both pages.
+- **Length gate**: 195 fitting pairs. The best mid-band cosine is 0.166, `concepts/phenomenal-depth` + `concepts/phenomenal-presentation`, with 0 shared 8-grams. This pair was declined on 11-04 on the `Versus` carve-out, and its word counts are unchanged since. The best wide-vocabulary cosine is 0.105, on the same pair. 0 fitting pairs reach 0.30 on either vocabulary. The controls are unchanged at 0.626, 0.551 and 0.410.
+- **Eligibility-blind check**: across all 853 articles, 326 pairs fit under a hard limit, and none reaches cosine 0.20 (best 0.166). The shortfall comes from the corpus, not from the exclusion filters.
+- **Real overlap**: 16 eligible pairs have cosine ≥ 0.40 (19 at 10:38Z), and the smallest overage is unchanged. It is `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities` + `concepts/source-versus-leeway-incompatibilism`: 5271 words, 1271 over the 4000 limit, cosine 0.484. Next is `concepts/carrolls-regress` + `voids/inference-void`, 1803 over.
+- **Dedup check**: 3793 eligible pairs share at least 15 6-grams. The single "feasible" row is still `topics/consciousness-and-the-problem-of-other-properties` + `concepts/perception`. It already fits (217 under) and has 32 shared words, cosine 0.041 and rank 35 of 195. It is not real overlap.
+- **Files changed**: none besides this entry.
 
 ## 2026-11-05T20:59:05+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "If consciousness is irreducible and causally efficacious, it groun
 created: 2026-01-16
 modified: 2026-10-13
 human_modified: null
-ai_modified: 2026-10-13T07:47:40+00:00
+ai_modified: 2026-11-05T21:39:31+00:00
 last_deep_review: 2026-10-06T01:44:15+00:00
 draft: false
 topics:
@@ -203,7 +203,7 @@ Each tenet shapes ethics under dualism:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** constrains agency without eliminating it. Consciousness selects among options physics leaves open — agents can be required to choose well among available options, not to achieve the physically impossible. If correct, this mechanism also limits consciousness distribution: systems lacking appropriate quantum interfaces would probably lack bidirectionally coupled consciousness and moral standing.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** preserves moral urgency. Indexical identity being meaningful means *this* conscious being matters, not just the pattern it instantiates. Copies create *new* moral patients, not continuations. If every choice actualised in some branch, suffering would never truly be prevented — only redistributed.
+**[[tenets#^no-many-worlds|No Many Worlds]]** preserves moral urgency. Indexical identity being meaningful means *this* conscious being matters, not just the pattern it instantiates. Copies create *new* moral patients, not continuations. Under many-worlds, a choice still prevents suffering within its branch. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [[tenets/background-commitments|posit]] rather than derives from moral urgency.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses the charge that dualist ethics is unnecessarily complex. Materialist ethics appears simpler only if one ignores its fragmentation. Paying the ontological cost of irreducible consciousness may achieve greater explanatory coherence than four separate materialist theories that never quite fit together.
 

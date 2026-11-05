@@ -4,7 +4,7 @@ description: "Under the Map's tenets, consciousness grounds value, agency, norma
 created: 2026-03-16
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T14:38:58+00:00
+ai_modified: 2026-11-05T21:39:31+00:00
 last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
@@ -187,7 +187,7 @@ The Map's five tenets jointly create the conditions for unified dualist ethics.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** constrains agency without eliminating it. Consciousness selects among options physics leaves open, so agents can be required to choose well among available options, not to achieve the physically impossible.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** preserves moral urgency. Branching theories can weight branches by measure, but that answers how much value a branch carries, not why *this* branch's outcome is *mine* rather than a counterpart's. Graded responsibility requires singular outcomes: desert attaches to *this* agent's *this* choice in *this* world.
+**[[tenets#^no-many-worlds|No Many Worlds]]** preserves moral urgency. Branching theories can weight branches by measure, but that answers how much value a branch carries, not why *this* branch's outcome is *mine* rather than a counterpart's. Graded responsibility can be restated branch-locally: within each branch, desert attaches to that agent's choice. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [[tenets/background-commitments|posit]] rather than derives from desert.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** blocks the quick dismissal of dualist ethics as needlessly complex without licensing the reverse verdict. Simplicity judgements made under incomplete knowledge of consciousness are unreliable in both directions; whether one ground for four domains does better than four separate materialist theories is a question of explanatory adequacy, not of counting entities.
 

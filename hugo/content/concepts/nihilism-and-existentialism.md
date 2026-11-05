@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-10-26 06:16:54+00:00
+ai_modified: 2026-11-05 21:39:31+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 03:04:00+00:00
-lastmod: 2026-10-26 06:16:54+00:00
+lastmod: 2026-11-05 21:39:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,7 +131,7 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) fi
 
 ### No Many Worlds
 
-The [No Many Worlds tenet](/tenets/#no-many-worlds) is crucial for existentialism. Under many-worlds, every choice actualises all options across branches—courage collapses into a statistical distribution rather than a genuine achievement. The Map's rejection of MWI preserves what existentialism requires: choices that matter because made by *this* unrepeatable subject.
+The [No Many Worlds tenet](/tenets/#no-many-worlds) is crucial for existentialism. Under many-worlds, every option is realised somewhere, but courage survives branch-locally: in each branch an agent faces danger and owns one act. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [posit](/tenets/background-commitments/) rather than derives from the phenomenology. The Map's rejection of MWI preserves what existentialism requires: choices that matter because made by *this* unrepeatable subject.
 
 ### Occam's Razor Has Limits
 

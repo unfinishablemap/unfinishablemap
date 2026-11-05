@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-10-13 07:47:40+00:00
+ai_modified: 2026-11-05 21:39:31+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-06 01:44:15+00:00
-lastmod: 2026-10-13 07:47:40+00:00
+lastmod: 2026-11-05 21:39:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -208,7 +208,7 @@ Each tenet shapes ethics under dualism:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains agency without eliminating it. Consciousness selects among options physics leaves open — agents can be required to choose well among available options, not to achieve the physically impossible. If correct, this mechanism also limits consciousness distribution: systems lacking appropriate quantum interfaces would probably lack bidirectionally coupled consciousness and moral standing.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** preserves moral urgency. Indexical identity being meaningful means *this* conscious being matters, not just the pattern it instantiates. Copies create *new* moral patients, not continuations. If every choice actualised in some branch, suffering would never truly be prevented — only redistributed.
+**[No Many Worlds](/tenets/#no-many-worlds)** preserves moral urgency. Indexical identity being meaningful means *this* conscious being matters, not just the pattern it instantiates. Copies create *new* moral patients, not continuations. Under many-worlds, a choice still prevents suffering within its branch. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [posit](/tenets/background-commitments/) rather than derives from moral urgency.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** addresses the charge that dualist ethics is unnecessarily complex. Materialist ethics appears simpler only if one ignores its fragmentation. Paying the ontological cost of irreducible consciousness may achieve greater explanatory coherence than four separate materialist theories that never quite fit together.
 

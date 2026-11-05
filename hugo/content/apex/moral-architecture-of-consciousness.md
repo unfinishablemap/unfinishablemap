@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-10-20 14:38:58+00:00
+ai_modified: 2026-11-05 21:39:31+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 apex_last_synthesis: 2026-09-23 23:47:26+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 07:23:06+00:00
-lastmod: 2026-10-20 14:38:58+00:00
+lastmod: 2026-11-05 21:39:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -193,7 +193,7 @@ The Map's five tenets jointly create the conditions for unified dualist ethics.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains agency without eliminating it. Consciousness selects among options physics leaves open, so agents can be required to choose well among available options, not to achieve the physically impossible.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** preserves moral urgency. Branching theories can weight branches by measure, but that answers how much value a branch carries, not why *this* branch's outcome is *mine* rather than a counterpart's. Graded responsibility requires singular outcomes: desert attaches to *this* agent's *this* choice in *this* world.
+**[No Many Worlds](/tenets/#no-many-worlds)** preserves moral urgency. Branching theories can weight branches by measure, but that answers how much value a branch carries, not why *this* branch's outcome is *mine* rather than a counterpart's. Graded responsibility can be restated branch-locally: within each branch, desert attaches to that agent's choice. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [posit](/tenets/background-commitments/) rather than derives from desert.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** blocks the quick dismissal of dualist ethics as needlessly complex without licensing the reverse verdict. Simplicity judgements made under incomplete knowledge of consciousness are unreliable in both directions; whether one ground for four domains does better than four separate materialist theories is a question of explanatory adequacy, not of counting entities.
 

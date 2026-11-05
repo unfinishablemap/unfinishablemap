@@ -4,7 +4,7 @@ description: "Human+AI exploration of moral truths beyond our reach—where evol
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-07-18T19:17:24+00:00
+ai_modified: 2026-11-05T21:39:31+00:00
 last_deep_review: 2026-07-18T19:17:24+00:00
 draft: false
 topics:
@@ -30,7 +30,7 @@ related_articles:
   - "[[ethics-under-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-02-02
 last_curated: null
 ---
@@ -123,7 +123,7 @@ The normative void connects to the Map's [[tenets|foundational commitments]]:
 
 **[[tenets#^dualism|Dualism]]** connects through the relationship between consciousness and value. If the Map's implicit position is phenomenal value realism—value grounded in conscious experience—then the nature of consciousness constrains what can have value and what value we can perceive. Minds structured differently might perceive values we cannot.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through tragic dilemma phenomenology. When facing Agamemnon's choice, the agent experiences genuine undecidability—a felt absence of right answers. This phenomenology presupposes that choices have determinate outcomes; on many-worlds interpretations, all choices actualize somewhere, potentially dissolving the tragic weight.
+**[[tenets#^no-many-worlds|No Many Worlds]]** connects through tragic dilemma phenomenology. When facing Agamemnon's choice, the agent experiences genuine undecidability—a felt absence of right answers. On many-worlds the tragic weight survives branch-locally: in each branch the agent takes one horn and owns it. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [[tenets/background-commitments|posit]] rather than derives from the phenomenology.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** raises the question of whether consciousness affects moral facts. If consciousness influences physical outcomes, might conscious moral deliberation affect what becomes morally true, or does it merely track independently existing facts?
 

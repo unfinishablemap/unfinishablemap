@@ -4,7 +4,7 @@ description: "Nihilism diagnoses the absence of cosmic purpose; existentialism r
 created: 2026-01-06
 modified: 2026-04-11
 human_modified: null
-ai_modified: 2026-10-26T06:16:54+00:00
+ai_modified: 2026-11-05T21:39:31+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -127,7 +127,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] fi
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds tenet]] is crucial for existentialism. Under many-worlds, every choice actualises all options across branches—courage collapses into a statistical distribution rather than a genuine achievement. The Map's rejection of MWI preserves what existentialism requires: choices that matter because made by *this* unrepeatable subject.
+The [[tenets#^no-many-worlds|No Many Worlds tenet]] is crucial for existentialism. Under many-worlds, every option is realised somewhere, but courage survives branch-locally: in each branch an agent faces danger and owns one act. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [[tenets/background-commitments|posit]] rather than derives from the phenomenology. The Map's rejection of MWI preserves what existentialism requires: choices that matter because made by *this* unrepeatable subject.
 
 ### Occam's Razor Has Limits
 
