@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-10-26 23:54:32+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-11-05 05:57:15+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/evolved-cognitive-limits/
@@ -14,7 +14,7 @@ concepts:
 - '[[llm-consciousness]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-01-24
-date: &id001 2026-09-28
+date: &id001 2026-11-05
 description: 'Human cognitive limits have biological origins: evolution selects for
   ignorance where it confers fitness advantage, innate architecture bounds which concepts
   can form, and developmental pruning progressively narrows what remains. Cross-cultural
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 10:33:53+00:00
-lastmod: 2026-10-26 23:54:32+00:00
+lastmod: 2026-11-05 05:57:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -137,7 +137,7 @@ Some approaches to the edge exist: enzyme injection has reopened visual critical
 
 ## Relation to Site Perspective
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** receives the strongest support. If our sense of "simpler" is an evolved heuristic tuned to fitness rather than truth, parsimony judgments reflect survival value rather than metaphysical accuracy. The bias blind spot means we cannot perceive our biases; architecturally, our conceptual vocabulary is bounded; developmentally, the brain prunes toward specialisation. Simplicity judgments become unreliable when the judging apparatus itself is constrained and narrowing.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is the tenet biological closure bears on most, as coherence rather than confirmation. If our sense of "simpler" is an evolved heuristic tuned to fitness rather than truth (contested, as noted above), parsimony judgments reflect survival value rather than metaphysical accuracy. The bias blind spot means we cannot perceive our biases; architecturally, our conceptual vocabulary is bounded; developmentally, the brain prunes toward specialisation. Simplicity judgments become unreliable when the judging apparatus itself is constrained and narrowing.
 
 **[Dualism](/tenets/#dualism)** draws on McGinn's evolutionary argument that our concept-forming apparatus, shaped by spatial-motor functions, lacks the concepts needed to bridge the consciousness explanatory gap. McGinn's own conclusion is naturalist, not dualist: he holds the mind-brain link is fully physical but cognitively closed to us. The Map borrows the epistemic claim about closure, then argues separately—on its own grounds, not McGinn's—that cross-cultural convergence on mystical ineffability may indicate encounter with aspects of reality that physical description cannot capture. The metaphysical step is the Map's; McGinn would resist it.
 

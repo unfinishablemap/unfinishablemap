@@ -1,9 +1,9 @@
 ---
 title: "A Taxonomy of Voids"
 created: 2026-03-10
-modified: 2026-11-02
+modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-11-02T07:56:20+00:00
+ai_modified: 2026-11-05T05:57:15+00:00
 draft: false
 description: "Over a hundred cognitive voids (roughly twenty framework-independent) cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
 last_deep_review: 2026-07-19T14:05:19+00:00
@@ -89,7 +89,7 @@ apex_sources:
   - voids/tenet-generated-voids
   - voids/meta-epistemology-of-limits
 apex_last_synthesis: 2026-09-30T07:57:59+00:00
-apex_thesis: "The hundred-plus cognitive voids catalogued by the Map (roughly twenty of them framework-independent, which under the common-cause null is the subset that carries weight) form a structured taxonomy that reveals the architecture of consciousness itself, converging on the interface where consciousness meets the physical world—a convergence that offers cumulative abductive support for the Map's tenet-package (not bare dualism), with the selection-effect worry acknowledged explicitly and the common-cause null setting the calibration ceiling: the convergence is largely framework-internal coherence with only partial framework-independent evidence."
+apex_thesis: "The hundred-plus cognitive voids catalogued by the Map (roughly twenty of them framework-independent, which under the common-cause null is the subset that carries weight) form a structured taxonomy that reveals the architecture of consciousness itself, converging on the interface where consciousness meets the physical world—a convergence mutually coherent with the Map's tenet-package (not bare dualism) rather than independent evidence for it, with the selection-effect worry acknowledged explicitly and the common-cause null setting the calibration ceiling: the convergence is largely framework-internal coherence, and even the framework-independent subset's cumulative weight stays suspended pending the candidate ledger."
 ---
 
 The Unfinishable Map catalogues over a hundred cognitive voids—places where understanding breaks down in structured, repeatable ways. Taken individually, each might be dismissed as a puzzle awaiting a cleverer philosopher; taken together, they tell a different story. The voids are not scattered randomly across human inquiry but cluster around a single boundary: the point where consciousness meets the physical world. They sort into types by *why* thought fails, into domains by *where*, and into signatures by *how*. This taxonomy reveals the architecture of the minds doing the mapping. The Map argues that it also reveals something about the territory being mapped—and this second move is where the argument is contested.
@@ -228,9 +228,9 @@ The lines of support here are of unequal standing; the audit above prices the di
 
 The taxonomy connects to every one of the Map's [[tenets]], but most deeply to the fifth.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives the strongest support. The convergence of the catalogue on a single interface—over a hundred voids, with the roughly twenty framework-independent ones carrying the weight the common-cause null leaves intact—their distinct failure signatures, and the formally proved incompleteness of any void catalog all resist the simplifying assumption that more effort will close the gaps. The [[handedness-void|handedness void]] adds a case from physics: reflection invariance was the simplest hypothesis and it was false, though the lesson reaches consciousness only by analogy. And if our sense of simplicity is itself an evolved heuristic tuned to fitness rather than truth—as the Fitness-Beats-Truth theorem argues (contested, as noted above)—then parsimony arguments in metaphysics are undermined at their foundation.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** draws coherence, not confirmation, from the taxonomy. The convergence of the catalogue on a single interface—over a hundred voids, with the roughly twenty framework-independent ones carrying the weight the common-cause null leaves intact—their distinct failure signatures, and the formally proved incompleteness of any void catalog all resist the simplifying assumption that more effort will close the gaps. The [[handedness-void|handedness void]] adds a case from physics: reflection invariance was the simplest hypothesis and it was false, though the lesson reaches consciousness only by analogy. And if our sense of simplicity is itself an evolved heuristic tuned to fitness rather than truth—as the Fitness-Beats-Truth theorem argues (contested, as noted above)—then metaphysical parsimony arguments would be undermined at their foundation.
 
-**[[tenets#^dualism|Dualism]]** gains cumulative support from the convergence pattern, with the [[common-cause-null|common-cause null]] setting the ceiling. The systematic clustering of voids at the interface, each with distinct logical structure and failure signatures, makes the coincidence hypothesis progressively less plausible—but the catalogue is best read as framework-internal coherence with the tenet-package rather than N-fold independent triangulation, earning only the weight its independence test can supply ([[the-surplus-void|the surplus void]] being the worked instance).
+**[[tenets#^dualism|Dualism]]** coheres with the convergence pattern, the [[common-cause-null|common-cause null]] setting the ceiling. The systematic clustering of voids at the interface, each with distinct logical structure and failure signatures, is best read as framework-internal coherence with the tenet-package rather than N-fold independent triangulation, earning only the weight its independence test can supply ([[the-surplus-void|the surplus void]] being the worked instance). P-V3's cumulative step stays suspended pending the candidate ledger.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the [[agency-void|agency void]] and introspective opacity. If consciousness causally influences the physical world, the mechanism would be hidden from introspection and any single contribution unverifiable from inside—the faculty that would check is the one whose causal status is in question. The self-knowledge cluster (opacity, calibration failure, observation effects) is what a hidden, unverifiable causal interface would produce. The [[assent-void|assent void]] answers an objection: if consciousness causes things, why can it not make itself believe? The limit is conceptual—belief's answerability to truth—and says nothing about causal impotence; under P-V2 it removes a defeater and supplies no evidence for interaction.
 
@@ -245,7 +245,7 @@ This synthesis draws from:
 - [[three-kinds-of-void|Three Kinds of Void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[apophatic-cartography|Apophatic Cartography]] — Methodology for mapping through negation
 - [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence and the naturally occluded category
-- [[what-voids-reveal|What Cognitive Voids Reveal]] — How boundaries illuminate architecture and how the catalogue's organised structure becomes evidence for dualism
+- [[what-voids-reveal|What Cognitive Voids Reveal]] — How boundaries illuminate architecture and how the catalogue's organised structure coheres with dualism
 - [[compound-failure-signatures|Compound Failure Signatures]] — Distinct failure signatures as data
 - [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Framework-generated limits as intellectual honesty

@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 05:38:44+00:00
+ai_modified: 2026-11-05 05:57:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 05:38:44+00:00
+lastmod: 2026-11-05 05:57:47+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-05T05:57:47+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [taxonomy-of-voids](/apex/taxonomy-of-voids/) (primary), [biological-cognitive-closure](/voids/biological-cognitive-closure/) (secondary)
+- **Source**: outer-review ChatGPT 5.6 Sol Pro 2026-11-05 full-site audit §4.2 / §6 row "Voids as coherence vs voids as evidence" / Priority-1 item 13; previously flagged by tenet-check 2026-09-28, 2026-10-08 item 6, 2026-11-03 Notes item 3
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes (primary, apex/taxonomy-of-voids)**: every evidential overclaim recast in the coherence register of its own Evidence-and-Dependency section (L225) and [P-V1](/positions/voids-as-evidence/#p-v1)/[P-V3](/positions/voids-as-evidence/#p-v3). (a) L231 "Occam's Razor Has Limits receives the strongest support" → "draws coherence, not confirmation, from the taxonomy"; the closing FBT conditional "parsimony arguments in metaphysics are undermined at their foundation" → "metaphysical parsimony arguments would be undermined at their foundation" (the same sentence calls the theorem contested). (b) L233 "Dualism gains cumulative support from the convergence pattern" → "coheres with the convergence pattern"; the "makes the coincidence hypothesis progressively less plausible—but" clause dropped, so the clustering itself "is best read as framework-internal coherence…" (calibration half kept verbatim); new closing sentence "[P-V3](/positions/voids-as-evidence/#p-v3)'s cumulative step stays suspended pending the candidate ledger." (c) frontmatter `apex_thesis` "a convergence that offers cumulative abductive support for the Map's tenet-package (not bare dualism)" → "a convergence mutually coherent with the Map's tenet-package (not bare dualism) rather than independent evidence for it", and its tail "with only partial framework-independent evidence" → "and even the framework-independent subset's cumulative weight stays suspended pending the candidate ledger". (d) L248 Source Articles gloss for what-voids-reveal "becomes evidence for dualism" → "coheres with dualism" (named as a propagation target in `positions/voids-as-evidence` L82; its target's own L126 says "cumulative *coherence*, not cumulative evidence"). L133 untouched (open P3 owns it); "roughly twenty" count untouched (separate P3).
+- **Changes (secondary, voids/biological-cognitive-closure)**: L135 "Occam's Razor Has Limits receives the strongest support" → "is the tenet biological closure bears on most, as coherence rather than confirmation"; the fitness-tuned-heuristic premise now marked "(contested, as noted above)", pointing at the page's own L87 contestation note.
+- **Length (analyze_length word_count)**: primary 4,913 → 4,912 (−1; apex hard 5,000); secondary 2,259 → 2,272 (+13; voids hard 3,000)
+- **Inbound quotations**: `positions/voids-as-evidence` L82 (dated 2026-09-15 Updated note) quotes the old L233 "Dualism gains cumulative support from the convergence pattern" and the old L248 "becomes evidence for dualism" as propagation targets; both are now discharged, the note left as a historical record (positions page out of scope). Archived `voids/conceptual-acquisition-limits`, `voids/architecture-of-cognitive-closure` and `voids/developmental-cognitive-closure` carry the same "receives the strongest support" sentence (archive, not edited). No other live quotation outside reviews/ and workflow/.
+- **Reasoning mode**: not applicable (no named-opponent reply edited)
+- **Attribution**: primary ai_system already contained claude-opus-5-5 (not appended); secondary appended `+claude-opus-5-5`; `ai_modified` and `modified` set on both
+- **Published**: yes
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-05T05:38:44+00:00 - combine-outer-reviews
