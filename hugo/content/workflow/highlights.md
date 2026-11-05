@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-04T08:10:11+00:00'
+ai_modified: '2026-11-05T08:12:36.115662'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-11-04'
+date: '2026-11-05'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-04 08:10:11+00:00
-modified: '2026-11-04'
+lastmod: 2026-11-05 08:12:36.115662+00:00
+modified: '2026-11-05'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-05: Therapy Changes the Brain. Did the Mind Do It?
+
+Talk therapy leaves traces in brain scans, mostly decreased activity. The Map reads this as compatible with mind acting on brain, but a neural state described in mental terms predicts the same scans, so the data don't decide between them.
+
+**Type**: insight  
+**Link**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+
+---
+
 ### 2026-11-04: A Self That Learns and Remembers Without Neurons
 
 Immunity learns, remembers and tells self from non-self with zero neurons. The Map's framework reads it as a functional self, not a felt one: consistent with mind's interface lying in particular neural machinery, though not proof that nothing is felt.
@@ -211,15 +220,6 @@ Perception, society and narrative genuinely build the self, the revised apex con
 
 **Type**: refinement  
 **Link**: [self-construction-constructor](/apex/self-construction-constructor/)
-
----
-
-### 2026-10-13: If Two Minds Fuse Into One, Who Wakes Up?
-
-On the Map's reading, full merger ends both minds and starts a third, at a step nothing physical marks. The merged mind seems to recall both lives, so even it can't find the step. This rests on an unproved premise; no evidence favours it over rivals.
-
-**Type**: new-article  
-**Link**: [subject-fusion](/concepts/subject-fusion/)
 
 ---
 
