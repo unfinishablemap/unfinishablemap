@@ -4,7 +4,7 @@ description: "Human+AI exploration of why a mind cannot tell what its existence 
 created: 2026-10-14
 modified: 2026-10-14
 human_modified: null
-ai_modified: 2026-10-14T11:04:30+00:00
+ai_modified: 2026-11-05T12:41:16+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[tenet-generated-voids]]"
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-10-14
 last_curated: null
 ---
@@ -56,7 +56,7 @@ Two witnesses from outside anthropic philosophy show the face is formal rather t
 
 Every rule above samples from a reference class, and Bostrom's own membership test is a question about subjecthood. Rocks and bacteria are excluded; a gifted chimpanzee or a Neanderthal is borderline, and the test for them is "Could you have found yourself as such a person?" (2002, p. 71). Bostrom does not think any of this requires dualism: chapter 8 offers a "physicalistic reformulation, showing that the observers' disagreement does not imply some mysterious irreducible role for the observers' consciousness" (p. 136). The Map reports that stance rather than enlisting him against it.
 
-What the face shows is a circle. Standish (2013) runs the inference from class to distribution: anthropic reasoning rests on "finding oneself a member of a particular reference class of conscious beings," and from empirical distributions over animal life he concludes that most animals are unlikely to be conscious (a low-profile venue; cited as an exhibit of the pattern, not an authority). Saad (2025) runs it the other way: the unacceptable consequences of Boltzmann-brain cosmologies "follow only given certain philosophical assumptions," and a phenomenal externalism about the physical basis of consciousness makes the proliferation benign at the price of "a psychophysical fine-tuning problem." Elga's 2024 manuscript lists, as the first line of resistance to the Boltzmann-brain argument, that "one might deny that randomly-generated entities are conscious." A theory of consciousness decides membership, membership decides the cosmology, and in Standish's direction the cosmology decides the theory of consciousness.
+What the face shows is a circle. Standish (2013) runs the inference from class to distribution: anthropic reasoning rests on "finding oneself a member of a particular reference class of conscious beings," and from empirical distributions over animal life he concludes that most animals are unlikely to be conscious (a low-profile venue; cited as an exhibit of the pattern, not an authority). Saad (2025) runs it the other way: the unacceptable consequences of Boltzmann-brain cosmologies "follow only given certain philosophical assumptions," and a phenomenal externalism about the physical basis of consciousness makes the proliferation benign at the price of "a psychophysical fine-tuning problem." Elga (2025), listing ways to resist the Boltzmann-brain argument at its first step, notes: "Some may doubt that randomly-generated entities are conscious at all." A theory of consciousness decides membership, membership decides the cosmology, and in Standish's direction the cosmology decides the theory of consciousness.
 
 The [[simulation-detection-void|simulation detection void]] sits downstream of this face at two points. Bostrom's simulation argument (2003) needs substrate independence, "that, in fact, a computer running a suitable program would be conscious," before simulated minds enter the reference class, and it needs the bland indifference principle before near-unity credence follows. Because that indifference is within-world, the argument is less exposed to the rule face than Doomsday is; it is fully exposed to the class face. The face is occluded in the territory-axis sense: the input the rule needs lies behind another void.
 
@@ -64,7 +64,7 @@ The [[simulation-detection-void|simulation detection void]] sits downstream of t
 
 Cosmology supplied the third face. Carroll's diagnosis (2020; preprint 2017) is that theories predicting a majority of Boltzmann brains are "cognitively unstable: they cannot simultaneously be true and justifiably believed," and that the problem "cannot be swept under the rug by a choice of probability distributions over observers." He then uses instability to select physics, so an epistemic requirement on believers becomes a constraint on cosmology.
 
-The epistemologists who examined the diagnosis judged it insufficient. Kotzen (2020) argues that "considerations of cognitive instability alone are not sufficient to rule out the hypothesis that I am a Boltzmann Brain." Elga's manuscript concludes, tentatively, that "instability considerations do not provide a satisfying resolution to the problem of Boltzmann Brains." The strongest current deflation is Dogramaci and Schoenfield (2025), a Bayesian argument that "even if your total empirical evidence confirms that you have zillions of duplicate Boltzmann Brains, that evidence does not confirm that you are a Boltzmann Brain." If it holds, the face narrows to a dispute about what total evidence includes.
+The epistemologists who examined the diagnosis judged it insufficient. Kotzen (2020) argues that "considerations of cognitive instability alone are not sufficient to rule out the hypothesis that I am a Boltzmann Brain." Elga (2025) goes further, arguing that the threat of instability "is an illusion": a simple Bayesian model dissolves a parallel threat in a test case, and "a corresponding model suggests that the same goes for" Boltzmann brains, whether or not a principle of indifference holds. Dogramaci and Schoenfield (2025) deflate the Boltzmann-brain problem itself, with a Bayesian argument that "even if your total empirical evidence confirms that you have zillions of duplicate Boltzmann Brains, that evidence does not confirm that you are a Boltzmann Brain." If it holds, the face narrows to a dispute about what total evidence includes.
 
 The physicists' own resolution is to make the void a parameter. Hartle and Srednicki (2007) name the "selection fallacy that we are randomly chosen from a class of objects by some physical process" and ask that any typicality prior be made explicit. That states the void rather than settling it.
 
@@ -118,7 +118,7 @@ On the [[tenet-generated-voids|tenet-generated]] question the answer is largely 
 5. Dieks, D. (1992). Doomsday—or: the dangers of statistics. *Philosophical Quarterly*, 42(166), 78ff. https://doi.org/10.2307/2220450
 6. Dogramaci, S., & Schoenfield, M. (2025). Why I am not a Boltzmann brain. *Philosophical Review*, 134(1), 1–33. https://doi.org/10.1215/00318108-11591068
 7. Elga, A. (2000). Self-locating belief and the Sleeping Beauty problem. *Analysis*, 60(2), 143–147. https://doi.org/10.1093/analys/60.2.143
-8. Elga, A. (2024). Bracketing and Boltzmann brains. Unpublished manuscript, version of 15 April 2024, Rutgers Epistemology Workshop. https://www.princeton.edu/~adame/bracketing-and-boltzmann-brains-for-rec/2024-04-15.9-bracketing-and-boltzmann-brains.pdf
+8. Elga, A. (2025). Boltzmann brains and cognitive instability. *Philosophy and Phenomenological Research*, 111(1), 127–136. https://doi.org/10.1111/phpr.70014
 9. Groisman, B. (2008). The end of Sleeping Beauty's nightmare. *British Journal for the Philosophy of Science*, 59(3), 409–416. https://doi.org/10.1093/bjps/axn015
 10. Hartle, J. B., & Srednicki, M. (2007). Are we typical? *Physical Review D*, 75, 123523. https://doi.org/10.1103/physrevd.75.123523
 11. Isaacs, Y., Hawthorne, J., & Sanford Russell, J. (2022). Multiple universes and self-locating evidence. *Philosophical Review*, 131(3), 241–294. https://doi.org/10.1215/00318108-9743809

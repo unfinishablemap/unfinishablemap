@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T12:22:52+00:00
+ai_modified: 2026-11-05T12:42:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T12:42:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/observer-selection-void]]
+- **Source**: outer review 2026-11-05 (Claude Fable 5.1, Part 2 §7 Elga row; Part 4 item 24); item (1) of the 2026-10-15 Boltzmann-brains research note's "Implications for the Map". Items (2) and (3) left to the pending article.
+- **Original score**: n/a (targeted citation fix; `scripts/curate.py` absent)
+- **Changes**: (1) Instability face (L67): the 2024-manuscript sentence («Elga's manuscript concludes, tentatively, that "instability considerations do not provide a satisfying resolution…"») replaced with the published claim: Elga (2025) "goes further", arguing the threat of instability "is an illusion", dissolved by a simple Bayesian model in a test case, with "a corresponding model suggests that the same goes for" Boltzmann brains, whether or not a principle of indifference holds. The change is stronger and different, not a reversal: both versions cut against Carroll, so the frame «The epistemologists who examined the diagnosis judged it insufficient.» stands. "Shows" is not used for the Boltzmann case. (2) Next sentence: «The strongest current deflation is Dogramaci and Schoenfield (2025)» became «Dogramaci and Schoenfield (2025) deflate the Boltzmann-brain problem itself». Elga's paper treats only the instability ("the discussion does not settle how we should react to our cosmological evidence"), so the D&S contrast is now one of scope, not of strength. "If it holds" still refers to the Bayesian argument. (3) Class face (L59): the manuscript quote ("one might deny that randomly-generated entities are conscious") moved to the published wording, «Elga (2025), listing ways to resist the Boltzmann-brain argument at its first step, notes: "Some may doubt that randomly-generated entities are conscious at all."» (4) Reference 8: the unpublished 2024 manuscript replaced by Elga, A. (2025), *PPR* 111(1), 127–136, doi 10.1111/phpr.70014. Nothing on the page quotes the manuscript now, and the numbering is unchanged.
+- **Verification**: full text from the Wayback capture of the Wiley PDF (web.archive.org/web/20250809031233id_/https://onlinelibrary.wiley.com/doi/pdf/10.1111/phpr.70014, 9 pp.; Wiley, PhilPapers and Princeton all returned 403 live), plus the OpenAlex abstract. Every quoted string has a `grep -F` count of at least 1 in the whitespace-normalised pdftotext output. The abstract carries "is an illusion" and "a corresponding model suggests that the same goes for". The indifference condition is from §5: "Rather than weighing in on whether such a principle is true, let us consider what happens either way."
+- **Finding for the pending article**: the 2026-10-15 research note (L47, L89) reads Elga as dissolving instability *without* the indifference principle. Section 5 also runs the indifference-true branch, and there too it finds no instability under each pattern of assumptions it considers. Any Tenet 4 "refusal of Center Indifference dissolves instability" clause should cite Dogramaci and Schoenfield for that dependency, not Elga.
+- **Length**: 2884 → 2909 words by analyze_length (+25; voids hard limit 3000)
+- **Published**: yes
 
 ## 2026-11-05T12:22:52+00:00 - refine-draft
 - **Status**: Success
