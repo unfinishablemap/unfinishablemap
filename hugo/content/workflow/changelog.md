@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 12:57:26+00:00
+ai_modified: 2026-11-05 13:11:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 12:57:26+00:00
+lastmod: 2026-11-05 13:11:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T13:09:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Source**: outer review 2026-11-05 (Claude Fable 5.1, Part 2 §7 Laukkonen row; Part 4 item 14). Its Verification Notes keep only the understatement on this page. The wider claim that no Map page cites the paper is false: `concepts/predictive-processing` (L128, L219) and `topics/predictive-processing-and-dualism` (L82, L191) cite it.
+- **Original score**: n/a (targeted citation fix; `scripts/curate.py` absent)
+- **Changes**: (1) L103: «though Friston himself has attempted to connect the framework to experience, the formalism operates entirely in terms of prediction error minimisation» became «though Friston co-authored an active-inference theory of consciousness (Laukkonen, Friston and Chandaria 2025), whose "epistemic depth" condition targets felt character directly (see [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)), the formalism itself operates entirely in terms of prediction error minimisation». The clause names the theory and points to the page where the Map replies to it. It claims no refutation here. "Itself" separates the free-energy formalism, which still makes no reference to consciousness, from the theory built on it. The next sentence ("The [explanatory-gap](/concepts/explanatory-gap/) persists") has a noun subject, so no pronoun is orphaned. (2) References: added «Laukkonen, R. E., Friston, K. J., & Chandaria, S. (2025). "A beautiful loop: An active inference theory of consciousness." *Neuroscience & Biobehavioral Reviews*, 176, 106296.» between Hohwy and McGinn, in this page's style (quoted article title, no DOI). In-text "and" follows this page's prose cites ("Barlev and Shtulman (2021)").
+- **Verification**: Crossref (works/10.1016/j.neubiorev.2025.106296) confirms the title, the journal, vol. 176, article number 106296, issue date 2025-09 and the authors Ruben Laukkonen, Karl Friston and Shamil Chandaria. Crossref gives no middle initials; OpenAlex supplies them (Ruben Eero Laukkonen; Karl John Friston). The (surname, year) pair matches both ways: 1 in-text cite and 1 reference entry. The Stability Notes of 2026-07-17 and 2026-08-23 do not touch L103.
+- **Engagement**: predictive-processing physicalist: Mode Three, as in the 2026-07-17 classification. The page marks the boundary. The argument (the step from epistemic depth to felt experience is assumed rather than built) stays on [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) and is not restated here as a refutation.
+- **Length**: 3774 → 3813 words by analyze_length (+39 including the 26-token reference entry; topics hard limit 4000)
+- **Published**: yes
 
 ## 2026-11-05T12:57:26+00:00 - positions-evolve
 - **Status**: Success

@@ -2,9 +2,9 @@
 title: "Cognitive Science of Dualism"
 description: "Cognitive science presupposes methodological materialism, yet its own findings—variable mind-body intuitions, introspective irreducibility, the persistent explanatory gap—resist materialist closure."
 created: 2026-02-05
-modified: 2026-08-23
+modified: 2026-11-05
 human_modified:
-ai_modified: 2026-08-27T03:37:18+00:00
+ai_modified: 2026-11-05T13:09:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[witness-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-02-05
 last_curated:
 last_deep_review: 2026-08-23T00:15:20+00:00
@@ -100,7 +100,7 @@ Embodied cognition actually sharpens the hard problem. If cognition is so thorou
 
 [[predictive-processing|Predictive processing]] frameworks (Clark 2013, Hohwy 2013) model the brain as a prediction machine that minimises surprise by generating top-down expectations and comparing them to bottom-up sensory input. This framework explains perception, attention, and action with unusual elegance. What it does not explain is why these predictions feel like anything.
 
-The prediction error that signals "unexpected red" could occur in a system with no phenomenal experience at all. Predictive processing describes the *computational architecture* of cognition, not the *phenomenal character* of experience. The mathematical formalism of Karl Friston's free energy principle describes brain function without reference to [[consciousness]] — though Friston himself has attempted to connect the framework to experience, the formalism operates entirely in terms of prediction error minimisation. The [[explanatory-gap]] persists: we can model what the brain *computes* while remaining silent on what the brain *experiences*.
+The prediction error that signals "unexpected red" could occur in a system with no phenomenal experience at all. Predictive processing describes the *computational architecture* of cognition, not the *phenomenal character* of experience. The mathematical formalism of Karl Friston's free energy principle describes brain function without reference to [[consciousness]] — though Friston co-authored an active-inference theory of consciousness (Laukkonen, Friston and Chandaria 2025), whose "epistemic depth" condition targets felt character directly (see [[predictive-processing-and-dualism]]), the formalism itself operates entirely in terms of prediction error minimisation. The [[explanatory-gap]] persists: we can model what the brain *computes* while remaining silent on what the brain *experiences*.
 
 ## The Genetic Fallacy in Both Directions
 
@@ -175,6 +175,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives perhaps th
 1. Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181-204.
 1. Fox, K. C. R., et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS One*, 7(9), e45370.
 1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
+1. Laukkonen, R. E., Friston, K. J., & Chandaria, S. (2025). "A beautiful loop: An active inference theory of consciousness." *Neuroscience & Biobehavioral Reviews*, 176, 106296.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 1. Richert, R. A., & Harris, P. L. (2008). "Dualism Revisited: Body vs. Mind vs. Soul." *Journal of Cognition and Culture*, 8(1-2), 99-115.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
