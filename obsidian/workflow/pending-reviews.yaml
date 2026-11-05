@@ -279,3 +279,30 @@
   subject_articles:
   - topics/phenomenology-of-agency-vs-passivity.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-04-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aebe884-fbd4-83eb-9dc4-befc54e0a6a3
+  commissioned_at: '2026-11-05T02:23:54.077736+00:00'
+  prompt_summary: 'Full-site audit: novel inferences, structure, tenet coherence,
+    contradictions'
+  target_filename: outer-review-2026-11-05-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a full-site outer review of The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site that builds a dualist, interactionist account of consciousness
+    from five tenets: dualism, minimal quantum interaction, bidirectional interaction,
+    rejection of many-worlds, and limits on Occam''s razor. Analyse the site as a
+    whole rather than any single page. Identify novel insights or inferences that
+    the site''s own commitments imply but it has not yet stated; structural weaknesses
+    in how its sections (topics, concepts, voids, apex syntheses, positions register)
+    fit together; places where articles drift from or overstate the tenets; and contradictions
+    between clusters of articles. Where you assess a claim, check the cited sources
+    rather than trusting the article''s paraphrase. Consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    to see recent edits that search indices may not yet reflect, and treat older crawled
+    versions with caution. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
