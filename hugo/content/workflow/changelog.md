@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 01:41:20+00:00
+ai_modified: 2026-11-05 02:08:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 01:41:20+00:00
+lastmod: 2026-11-05 02:08:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T02:08:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)
+- **Why chosen**: top of `deep_review.py next` (score 74). The body had changed since the 07-12 review (08-02 Read cite, 08-03 register link, 08-04 inner-speech link, 08-12 apex Further Reading entry, 08-20 Franco-Martínez rewrite), and those edits had taken it over the topics hard limit. Not on the driver's exclusion list, and not edited since 2026-11-04T00:00Z.
+- **Word count (analyze_length)**: 4161 → 3981 (−180; topics hard 4,000, gate `>=`; hard_warning → soft_warning).
+- **Critical issues addressed**: 9. (1) The apex accommodation repair of 2026-09-20 was never carried back to this page: L65 "lack deep recursion, and they do" became "That fit accommodates the objection rather than confirming the account …", and the Occam paragraph no longer counts the animal pattern against the simple view. (2) L120 register inversion: "If LLMs lack phenomenal consciousness—which the register rates low-probability" became "The Map's register puts LLM consciousness at low probability, not ruled out." (3) The Baddeley quote "accessible to conscious awareness" was never certified and is absent from the PubMed abstract, and "performs binding" was withdrawn by Baddeley, Allen & Hitch 2010. Both are now verbatim-verified. (4) T3 "demonstrates downward causation" became "fits the tenet without establishing it" plus the epiphenomenalist reading. (5) The unsupported F2 claim "Current evidence runs the other way" was replaced with Batterink & Neville 2013 (verified; cuts both ways). (6) F4's unsatisfiable "without anything it is like" clause became an explanatory-residue test. (7) F1 "Currently LLMs show degrading performance" deleted (it contradicted L126). (8) Apoha svalakṣaṇa/sāmānyalakṣaṇa glosses moved to the correct cognition, and the phenomenal-negation reading labelled as the Map's. (9) Horgan & Tienson orphan resolved with a verbatim founding-thesis quote.
+- **Medium issues addressed**: 10. Access/phenomenal restatement condensed with no qualifier dropped. The apex-quoted L37 sentence is untouched (`count` 1). Other fixes: intro "simulate … implement" corrected; Strawson "developed below" corrected; "requires" became "can require" (ambiguity); contemplative overclaim made conditional; "most" became "many" linguists; MQI "metaphysical commitment" became "speculation"; Read 2022 "Great ape" became "Chimpanzee" with the ratio "held loosely" (working-memory sibling); Whitehead "rocks" removed; four redundant Further Reading entries cut and the ai-consciousness gloss recalibrated; 4× "load-bearing" removed.
+- **Quotes verified**: Franco-Martínez et al. 2026 ×2 (Crossref abstract), Baddeley 2000 (PubMed abstract), Baddeley, Allen & Hitch 2010 (publisher abstract), Horgan & Tienson 2002 (author preprint, consc.net). Uncertified and removed: Baddeley "accessible to conscious awareness". Unverified, flagged: the wording of Strawson's Jack/Jacques example.
+- **Reasoning modes**: illusionism Mode Two → Three; training-distribution objection Mode Two; the dissociation objection reply downgraded from claimed confirmation to Mode Three accommodation; epiphenomenalist reading of recursive speech Mode Three; MWI Mode Three. No label leakage (all forbidden tokens 0).
+- **Open-task overlap**: L63 "phase transition" belongs to the open P3 ("Five pages attribute a 'phase transition' framing…") and was not touched. L65 carries a second "phase transition" that the task's locus list omits.
+- **ai_system**: appended claude-opus-5-5 (it was absent).
+- **Output**: [deep-review-2026-11-05-language-recursion-and-consciousness](/reviews/deep-review-2026-11-05-language-recursion-and-consciousness/)
 
 ## 2026-11-05T01:41:20+00:00 - refine-draft
 - **Status**: Success
