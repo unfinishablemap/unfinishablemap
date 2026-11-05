@@ -1,11 +1,11 @@
 ---
 title: "Phenomenal Overflow"
-description: "Ned Block's argument that phenomenal consciousness exceeds cognitive access—we experience more than we can report, suggesting phenomenology is richer than function."
+description: "Ned Block's argument that phenomenal consciousness exceeds cognitive access—we experience more than we can report—and why it bears on dualism only indirectly."
 created: 2026-01-28
-modified: 2026-09-25
+modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-09-25T00:16:18+00:00
-last_deep_review: 2026-07-12T21:33:51+00:00
+ai_modified: 2026-11-05T22:16:50+00:00
+last_deep_review: 2026-11-05T22:16:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,14 +24,14 @@ related_articles:
   - "[[phenomenal-presentation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
 Phenomenal overflow is Ned Block's argument that [[phenomenal-consciousness|phenomenal consciousness]] has richer content than [[access-consciousness]]—we experience more than we can report, think about, or use in reasoning. The overflow hypothesis challenges the identification of consciousness with cognitive access, suggesting that the "what it's like" of experience exceeds what enters the [[global-workspace-theory|global workspace]]. In effect, overflow is the claim that what is [[phenomenal-presentation|phenomenally presented]] outstrips what is accessed: the unreported letters must still be felt as a given, even when attention cannot reach them.
 
-The argument matters for [[tenets#^dualism|dualism]] because it separates phenomenology from function. Overflow is one of several features of [[dualist-perception|perceptual experience]] that resist reduction to neural processing. If experience overflows accessibility, then functional theories that explain when information becomes reportable (like Global Workspace Theory) cannot be complete theories of consciousness. Something phenomenal exists beyond what functional descriptions capture.
+The argument matters for [[tenets#^dualism|dualism]] because it separates phenomenology from access. Overflow is one of several features of [[dualist-perception|perceptual experience]] that strain access-based accounts. If experience overflows accessibility, then functional theories that explain when information becomes reportable (like Global Workspace Theory) cannot be complete theories of consciousness: something phenomenal would lie beyond what access-based descriptions capture. Overflow alone does not show that this remainder is non-physical—Block himself seeks its neural basis—so its support for dualism is indirect, as [explained below](#tenets).
 
 ## The Overflow Argument {#argument}
 
@@ -92,15 +92,15 @@ Beyond Sperling, several phenomena suggest phenomenal overflow:
 
 ### Inattentional Blindness
 
-In inattentional blindness experiments, subjects fail to notice salient stimuli (like a gorilla walking through a scene) when attention is engaged elsewhere. Yet in a large recent study, Nartker et al. (2025) found that "inattentionally blind" participants retain sensitivity to stimuli they explicitly deny noticing—when probed, they report location, colour, and shape above chance.
+In inattentional blindness experiments, subjects fail to notice salient stimuli (like a gorilla walking through a scene) when attention is engaged elsewhere. Yet in a large recent study, Nartker et al. (2025) found that "inattentionally blind" participants, as a group, retain sensitivity to stimuli they explicitly deny noticing—when probed, they report location, colour, and shape above chance.
 
-This result is double-edged for overflow. Nartker and colleagues read it not as unconscious processing but as *residual conscious vision*—inattention degrades awareness rather than abolishing it—which challenges the premise, central to Global Workspace Theory, that awareness requires attention. But because those features can be reported when cued, the finding arguably shows degraded *access* rather than the phenomenology *outside* access that Block's thesis needs. The authors, skeptical of rich unconscious perception, present it as constraining the overflow debate more than settling it.
+This result is double-edged for overflow. Nartker and colleagues tentatively read it not as unconscious processing but as *residual conscious vision*—inattention degrades awareness rather than abolishing it—which undercuts the use of inattentional blindness as evidence that awareness requires attention, a premise invoked in support of Global Workspace Theory. But because those features can be reported when cued, the finding arguably shows degraded *access* rather than the phenomenology *outside* access that Block's thesis needs. The authors do not take up overflow; on the Map's reading the study constrains that debate more than it settles it.
 
 ### The Fineness of Grain Argument
 
 Our perceptual experience discriminates shades of color, spatial positions, and temporal moments more finely than we have concepts for. You can see the difference between two nearly identical shades even if you have no names for either. The experience outstrips the conceptual capacity to categorize and report.
 
-McDowell's response—that demonstrative concepts like "that shade" can be as fine-grained as needed—faces a problem: demonstrative concepts require re-identification capacity, which we lack for precise shades. The concept dissolves when the experience ends.
+McDowell's (1994) response—that demonstrative concepts like "that shade" can be as fine-grained as needed—faces a problem Kelly (2001) presses: demonstrative concepts require re-identification capacity, which we lack for precise shades. The concept dissolves when the experience ends.
 
 ### Change Blindness and Its Limits
 
@@ -118,28 +118,28 @@ But if overflow is real, GWT explains only *part* of consciousness. The unaccess
 
 ### For Functionalism
 
-[[functionalism]] defines mental states by their causal-functional roles. A-consciousness fits functionalism perfectly—it's defined by what information *does*. But P-consciousness, especially overflowing P-consciousness, resists functional definition. If experience exceeds function, functionalism cannot capture it.
+[[functionalism]] defines mental states by their causal-functional roles. A-consciousness fits functionalism perfectly—it's defined by what information *does*. But P-consciousness, especially overflowing P-consciousness, resists definition by access. If experience exceeds access, access-functionalism cannot capture it, and a functionalist must find phenomenology some other, pre-access role.
 
-The overflow argument strengthens anti-functionalist arguments like [[inverted-qualia|inverted qualia]] and [[philosophical-zombies|zombies]]. If phenomenology can exceed function in *degree* (overflow), perhaps it can diverge from function in *character* (inversion) or exist without function entirely (zombies).
+The overflow argument strengthens anti-functionalist arguments like [[inverted-qualia|inverted qualia]] and [[philosophical-zombies|zombies]]. If phenomenology can exceed access in *degree* (overflow), perhaps it can diverge from function in *character* (inversion) or exist without function entirely (zombies).
 
 ### For Illusionism
 
 [[illusionism]] holds that phenomenal consciousness is an illusion—we represent ourselves as having irreducible experiential qualities when we don't. Illusionism aligns with deflationary readings of overflow: the *sense* of rich phenomenology is just another functional state, not evidence of genuine phenomenology beyond function.
 
-If overflow is real, illusionism must explain why we would systematically represent ourselves as having richer experience than we do. The illusion would need to be not merely about *having* phenomenology but about phenomenology *exceeding* access—a more elaborate error. On Frankish's own formulation the surcharge falls elsewhere: illusionism posits no second illusion layered over the first, since what gets redescribed in phenomenal vocabulary just is the functional state, so the added cost is borne by the [[cognitive-phenomenology|adequacy of that redescription]]—which must now cover a represented richness outrunning anything the access machinery delivers.
+If overflow is real, illusionism must explain why we would systematically represent ourselves as having richer experience than we do. The illusion would need to be not merely about *having* phenomenology but about phenomenology *exceeding* access—a more elaborate error. Frankish's formulation moves that surcharge rather than doubling it. On his illusionism, introspection misrepresents non-phenomenal, physical properties of experience as phenomenal (Frankish 2016), so an apparent excess over access would be one more content of the same misrepresentation, not a second illusion layered over the first. The added cost falls instead on the [[cognitive-phenomenology|adequacy of that functional account]], which must now explain a represented richness outrunning anything the access machinery delivers.
 
 ## Relation to Site Perspective {#tenets}
 
 ### Dualism
 
-Phenomenal overflow supports [[tenets#^dualism|dualism]] by separating phenomenology from function. If phenomenal consciousness exceeds what functional theories can explain—even theories as sophisticated as GWT—then consciousness has features that physical/functional description cannot capture.
+Phenomenal overflow bears on [[tenets#^dualism|dualism]] by separating phenomenology from *access*. If phenomenal consciousness exceeds what access-based theories can explain—even theories as sophisticated as GWT—then no account of cognitive access alone is a complete account of consciousness.
 
 The logic parallels other anti-physicalist arguments:
 - **Zombies**: Function without phenomenology is conceivable
 - **Inverted qualia**: Phenomenology can vary while function stays constant
-- **Overflow**: Phenomenology can exceed function in capacity
+- **Overflow**: Phenomenology can exceed access in capacity
 
-Each shows phenomenal properties are not identical to functional properties. If function doesn't constitute phenomenology, something beyond function does. This points toward irreducible phenomenal properties—the dualist claim.
+Each is offered to show that phenomenal properties are not identical to some class of functional properties, but overflow's version is the narrowest, and it does not reach dualism on its own. Block's own use of it is physicalist: he argues that "we can find a neural realizer of this overflow" if the neural basis of phenomenal consciousness is taken not to include that of cognitive accessibility (Block 2007), and [[recurrent-processing-theory|recurrent processing theory]] predicts overflow on similar neural grounds. Overflow fits the tenet without establishing it. The further step—that local recurrent processing leaves phenomenal character as unexplained as global broadcast does—comes from the [[hard-problem-of-consciousness|hard problem]], not from Sperling.
 
 ### Bidirectional Interaction
 
@@ -147,7 +147,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds 
 
 If phenomenology exceeds access, what role does the "extra" phenomenology play? One possibility: the overflowing phenomenal field is where consciousness operates most fundamentally. [[attention-as-interface|Attention selects]] from this field what enters access—and attention may be where consciousness exercises causal influence.
 
-On this view, the rich phenomenal field is the stage; attention is conscious selection; access is the downstream result. [[stapp-quantum-mind|Stapp's quantum Zeno model]] proposes a specific mechanism: sustained attention (rapid repeated observations) could bias quantum indeterminacies toward particular neural patterns, determining what gets selected from the phenomenal field for access and action. Whether or not this specific mechanism is correct, the structural point remains: overflow suggests phenomenology is primary, and access is the result of conscious selection from richer phenomenal material.
+On this view, the rich phenomenal field is the stage; attention is conscious selection; access is the downstream result. [[stapp-quantum-mind|Stapp's quantum Zeno model]] proposes a specific mechanism: sustained attention (rapid repeated observations) could hold a neural pattern in place once it has occurred, without weighting the quantum outcomes themselves, and so determine what gets selected from the phenomenal field for access and action. Whether or not this specific mechanism is correct, the structural point remains: overflow fits a picture on which phenomenology is primary, and access is the result of conscious selection from richer phenomenal material.
 
 ### Occam's Razor Has Limits
 
@@ -159,15 +159,15 @@ When a theory's parsimony requires dismissing the primary data (subjective repor
 
 ## The Contested Status {#contested}
 
-Phenomenal overflow remains genuinely contested. The Unfinishable Map presents it as evidence for the [[phenomenal-depth|richness of phenomenology]] beyond function, not as established fact.
+Phenomenal overflow remains genuinely contested. The Unfinishable Map presents it as evidence for the [[phenomenal-depth|richness of phenomenology]] beyond access, not as established fact.
 
 **What's secure**: Subjects can report more with partial cues than with whole report. Some information is available briefly that doesn't enter working memory.
 
 **What's contested**: Whether this available-but-unreported information is phenomenally conscious. The debate hinges on whether phenomenology can exist without access—which is precisely what's at issue between overflow proponents and deflationary critics.
 
-**The methodological bind**: If phenomenology exceeds access, we cannot directly verify it through access-dependent methods (reports, reasoning about experience). The overflow hypothesis may be unfalsifiable from a strictly third-person perspective. This unfalsifiability is generally a mark against a hypothesis—yet it's also exactly what we'd expect if phenomenology genuinely transcends function. The situation is frustrating rather than decisive: unfalsifiability doesn't confirm overflow, but neither does it refute it.
+**The methodological bind**: If phenomenology exceeds access, we cannot directly verify it through access-dependent methods (reports, reasoning about experience). The overflow hypothesis may be unfalsifiable from a strictly third-person perspective. This unfalsifiability is generally a mark against a hypothesis—yet it's also exactly what we'd expect if phenomenology genuinely transcends access. The situation is frustrating rather than decisive: unfalsifiability doesn't confirm overflow, but neither does it refute it.
 
-Why the standoff persists rather than narrowing has a diagnosis. Fürst (2017) argues that phenomenal contrast—the method designed to break exactly this kind of symmetry—is dialectically ineffective, because "introspective judgments about phenomenology are regimented by the view initially held": each side's introspection returns the verdict its theory already licenses. The [[cognitive-phenomenology|Würzburg-Titchener controversy]] is the historical precedent, fifteen years of rigorous laboratories running identical methods to opposite conclusions, abandoned rather than resolved. Disputes of this structural shape do not get settled by their introspective contestants, which is why Block and Cohen–Dennett can each read Sperling as confirming their own position.
+A diagnosis from a neighbouring debate suggests why the standoff persists rather than narrowing. Writing about cognitive phenomenology, Fürst (2017) argues that phenomenal contrast—a method designed to break this kind of symmetry—is dialectically ineffective, because "introspective judgments about phenomenology are regimented by the view initially held": each side's introspection returns the verdict its theory already licenses. She suggests the point bears on introspection-based arguments for phenomenology in general. The [[cognitive-phenomenology|Würzburg-Titchener controversy]] is the usual historical precedent: fifteen years of rigorous laboratories, all relying on trained introspection while disputing each other's protocols, reached opposite conclusions and abandoned the question rather than resolving it. Disputes of this shape have not been settled from inside introspection. The overflow debate fits the pattern at its crux—whether the uncued letters were experienced specifically or only generically turns on what subjects' introspective reports are worth—which helps explain why Block and Cohen–Dennett can each read Sperling as confirming their own position.
 
 This connects to [[acquaintance-void|the broader void of pre-conceptual knowing]]—experience that exceeds conceptualization. If phenomenal overflow is real, it exemplifies this broader limit: there may be aspects of experience that resist not just verbal report but cognitive access altogether.
 
@@ -186,10 +186,12 @@ This connects to [[acquaintance-void|the broader void of pre-conceptual knowing]
 ## References
 
 1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-247.
+1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs*, 74(11), 1-29.
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
 1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
-1. Kelly, S. D. (2001). The Non-Conceptual Content of Perceptual Experience: Situation Dependence and Fineness of Grain. *Philosophy and Phenomenological Research*, 62(3), 601-608.
+1. Kelly, S. D. (2001). Demonstrative Concepts and Experience. *The Philosophical Review*, 110(3), 397-420.
 1. Fürst, M. (2017). On the Limits of the Method of Phenomenal Contrast. *Journal of the American Philosophical Association*, 3(2), 168-188.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.

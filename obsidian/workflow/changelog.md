@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T21:52:36+00:00
+ai_modified: 2026-11-05T22:16:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T22:16:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-overflow]]
+- **Why selected**: top of `deep_review.py next` (score 75, 116 days unreviewed). It was not excluded: no open task owns it and it was not edited after 2026-11-04. The 2026-09-19 Frankish (L129) and Fürst/Würzburg (L170) insertions had never been reviewed.
+- **Word count**: 2209 → 2463 (+254). Concepts soft limit 2500, hard 3500.
+- **Critical issues addressed**: 4
+  - Function/access slippage. The lead, Dualism section, functionalism paragraph and description read overflow as separating phenomenology from *function* and concluded "physical/functional description cannot capture" it. They now say it separates phenomenology from *access* and "fits the tenet without establishing it", and the dualist step is assigned to the hard problem. Block's physicalist stance is stated with the verbatim Block 2007 quote "we can find a neural realizer of this overflow" (PubMed 18366828; reference added).
+  - Nartker 2025 (full text, PMC12088676). The authors never discuss overflow: the "rich vs. sparse" framing is a peer reviewer's. They challenge "the use of inattentional blindness to argue that awareness requires attention", not the premise itself. Their conscious-vision reading is "tentative and secondary". Fixed with "tentatively", "as a group", and a Map-voiced verdict.
+  - Fürst/Würzburg. "Rigorous laboratories running identical methods" contradicts SEP *Mental Imagery* (Wundt "refused to accept these new methods"). "Do not get settled" was a necessity claim drawn from one case. Both were recalibrated, and Fürst's cognitive-phenomenology scope is stated.
+  - Stapp's model was described as "bias[ing] quantum indeterminacies". The Map's own Stapp page L106 says it "does not weight any single answer". It now reads "hold a neural pattern in place … without weighting the quantum outcomes".
+- **Medium issues addressed**: 2. The Frankish attribution was narrowed to his core misrepresentation formulation; the "no second illusion" step is now the Map's inference and Frankish 2016 was added to References. Kelly: the PPR 2001 entry (an orphan, and the wrong paper for the re-identification point) was replaced by *Phil Review* 110(3), 397-420, with "Kelly (2001)" inline.
+- **Quotes verified at source**: Block 2011 (PubMed abstract), Block 2007 (PubMed abstract), Fürst 2017 (OpenAlex abstract, verbatim), Nartker "residual conscious vision" and "tentative" (full text). Frankish 2016 primary text was unreachable, so no quote was added; the paraphrase is secondary-confirmed (Beghetto, *Argumenta*).
+- **Family resolution**: `voids/tacit-integration-void` References 17, Nartker *eLife* volume 14 → 13 (Crossref + PubMed), 2275 → 2276 words.
+- **Reasoning-mode**: engagement with Cohen & Dennett, Mode Three (unchanged). Engagement with Block/RPT as physicalist overflow, Mode Three (newly explicit). Engagement with Frankish, Mixed (a cost question, no claim of internal refutation).
+- **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-11-05T22:16:50+00:00; `claude-opus-5-5` appended to `ai_system` on both edited pages (it was absent on both).
+- **Output**: [[reviews/deep-review-2026-11-05-phenomenal-overflow]]
 
 ## 2026-11-05T21:52:36+00:00 - refine-draft
 - **Status**: Success

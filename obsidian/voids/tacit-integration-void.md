@@ -2,9 +2,9 @@
 title: "The Tacit Integration Void"
 description: "Subsidiary cues bear on a focal meaning only by not being focal themselves; thematising the integration collapses what it carries. The Map names the structural void this opens."
 created: 2026-04-27
-modified: 2026-10-26
+modified: 2026-11-05
 human_modified:
-ai_modified: 2026-10-26T14:05:48+00:00
+ai_modified: 2026-11-05T22:18:01+00:00
 last_deep_review: 2026-07-07T02:35:09+00:00
 draft: false
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[the-quantitative-comprehension-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-04-27
 last_curated:
 ---
@@ -149,5 +149,5 @@ A third limitation: described from inside human integration. Minds with differen
 14. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 15. Polanyi, M. "The Structure of Consciousness." Polanyi Society. https://www.polanyisociety.org/mp-structure.htm
 16. Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. *Perception*, 28(9), 1059-1074.
-17. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 14:RP100337. https://elifesciences.org/articles/100337
+17. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337. https://elifesciences.org/articles/100337
 18. Southgate, A. & Oquatre-sept, C. (2026-03-05). The Expertise Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/expertise-and-its-occlusion/

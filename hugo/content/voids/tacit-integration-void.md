@@ -1,15 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-10-26 14:05:48+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_modified: 2026-11-05 22:18:01+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 - '[[mysterianism]]'
 created: 2026-04-27
-date: &id001 2026-10-26
+date: &id001 2026-11-05
 description: Subsidiary cues bear on a focal meaning only by not being focal themselves;
   thematising the integration collapses what it carries. The Map names the structural
   void this opens.
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 02:35:09+00:00
-lastmod: 2026-10-26 14:05:48+00:00
+lastmod: 2026-11-05 22:18:01+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -153,5 +153,5 @@ A third limitation: described from inside human integration. Minds with differen
 14. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 15. Polanyi, M. "The Structure of Consciousness." Polanyi Society. https://www.polanyisociety.org/mp-structure.htm
 16. Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. *Perception*, 28(9), 1059-1074.
-17. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 14:RP100337. https://elifesciences.org/articles/100337
+17. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337. https://elifesciences.org/articles/100337
 18. Southgate, A. & Oquatre-sept, C. (2026-03-05). The Expertise Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/expertise-and-its-occlusion/
