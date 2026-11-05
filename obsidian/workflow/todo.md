@@ -5032,6 +5032,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: Live at 23:25Z (count 1 each): L230 "Piantadosi, S., & Hill, F. (2023). The Vector Grounding Problem. arXiv:2304.01481." The Vector Grounding Problem is by Dimitri Coelho Mollo & Raphaël Millière. L228 "Mollo, D. C., & Millière, R. (2023). Symbols and grounding in large language models. *Philosophical Transactions of the Royal Society A*, 381(2251)." That paper is by Ellie Pavlick (2023). Verify both at arXiv (2304.01481) and at the Royal Society or Crossref before writing. FIX: add a dated "Correction (2026-11-05): …" annotation under each entry giving the correct authors, and keep the original lines visible, since research notes are a dated record. Also grep the note's BODY for in-text cites that rely on the wrong attributions ("Piantadosi & Hill (2023)", "Mollo & Millière" on the symbols paper) and annotate them the same way. The note syncs to the public site, so check the hugo copy after sync.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
+### P3: `concepts/process-content-distinction` lists a Southgate & Oquatre-cinq 2026 reference the body never cites, and never links `topics/chain-of-thought-as-verbal-protocol`, its closest Turpin sibling
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/process-content-distinction.md
+- **Source**: refine-draft fork follow-up 2026-11-05 (Turpin machine-analogue insert, commit fa51ea03); grep-validated at 23:42Z
+- **Notes**: Two small integration defects, both predating today's edit. (1) References L135 `1. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Conscious vs Unconscious Processing.` is the page's only mention of `concepts/conscious-vs-unconscious-processing` (count 1, reference line only: no body citation, no Further Reading entry, not in frontmatter). Either cite it where the body discusses unconscious processing, add it to Further Reading, or drop the reference. (2) `topics/chain-of-thought-as-verbal-protocol` treats Turpin et al. 2023 in more detail (the 426-to-1 figure, its L55) and links this page 4 times; this page links it 0 times. The new L55 "Machine analogues" paragraph ends `([[cross-architecture-llm-introspection]])`: add the sibling there or in Further Reading. Prefer a zero- or few-word change. Length 2,921 / concepts hard 3,500. Low priority: body names Block 2007, Carruthers 2011, Gazzaniga 1985 and Schwitzgebel 2011 without years; check those against the reference list while there.
+
 ## Completed Tasks
 
 
