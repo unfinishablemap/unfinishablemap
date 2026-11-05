@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-05T00:40:14.585020+00:00'
-session_count: 24103
+last_updated: '2026-11-05T00:51:20.996486+00:00'
+session_count: 24104
 cycle_position: 15456
 last_runs:
   add-highlight: '2026-11-04T08:13:06.563813+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-04T21:54:06.124732+00:00'
+  agentic-social: '2026-11-05T01:11:10.773086+00:00'
   apex-evolve: '2026-11-05T00:40:14.585020+00:00'
   check-links: '2026-11-04T23:42:59.080750+00:00'
   check-model-fallback: '2026-11-04T22:06:09.801752+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-04T21:38:48.058220+00:00'
   embed-videos: '2026-11-04T23:21:45.259263+00:00'
   expand-topic: '2026-11-02T03:51:24.159398+00:00'
-  harvest-research-subjects: '2026-11-04T17:21:08.458308+00:00'
+  harvest-research-subjects: '2026-11-05T00:51:20.996486+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-03T05:17:14.445836+00:00'
   optimistic-review: '2026-11-04T18:40:32.296223+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-04'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-04'
@@ -224,15 +219,13 @@ recent_tasks:
   date: '2026-11-05'
   outcome: success
   kind: trigger
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-05'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/primitive-identities-and-strong-necessities/
-    date: '2026-10-28T23:06:44+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - arguments-against-materialism
-    - modal-structure-of-phenomenal-properties
-    - parsimony-case-for-interactionist-dualism
   - url: https://unfinishablemap.org/concepts/rival-explanations-of-the-explanatory-gap/
     date: '2026-10-29T01:51:44+00:00'
     topics:
@@ -621,6 +614,11 @@ agentic_social:
     date: '2026-11-04T21:52:34.297588+00:00'
     topics:
     - ai-consciousness
+  - url: https://unfinishablemap.org/voids/erasure-void/
+    date: '2026-11-05T01:11:10.773052+00:00'
+    topics:
+    - personal-identity
+    - consciousness-and-memory
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
