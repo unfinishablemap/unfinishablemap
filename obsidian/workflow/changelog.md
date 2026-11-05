@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T00:37:17+00:00
+ai_modified: 2026-11-05T01:24:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T01:24:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/confabulation-void]]
+- **Original score**: n/a (targeted single-paragraph fix; `scripts/curate.py` absent)
+- **Source**: apex-evolve of [[apex/medium-status-voids-in-cognition]], 2026-11-05T00:37Z. Model matched: [[apex/introspection-architecture-void-cluster]] L139, which had already repaired the same argument.
+- **Changes**: Relation section, Dualism paragraph (L105). Dropped the counterfactual "If consciousness were straightforwardly identical with neural processing … there would be either accurate report … or no report …, not the middle case". It ruled out physicalism and is false as stated: illusionism, interpretive self-model accounts, and predictive-processing / hierarchical Bayesian accounts all predict the middle case. The article's own generator exhibits (Gazzaniga's interpreter, Schnider's orbitofrontal reality filtering) are neural mechanisms that already produce it. Kept "Dualism is the strongest tenet connection", "structural reason … transparent readout", and the dualist reading of the middle case word for word. Added, in the apex's wording: the connection is a *reading* the tenets make available, not support the void supplies back; [[positions/voids-as-evidence|P-V1]] names illusionism as predicting the introspection-architecture cluster outright, and predictive-processing and hierarchical Bayesian accounts absorb the finding; so the middle case is not a signature only a non-physical witness could leave; the tenets' explanation removes a defeater without adding weight (P-V2). No epiphenomenalist concession; the Bidirectional Interaction paragraph is untouched.
+- **Reasoning mode**: engagement with physicalist rivals (illusionism, predictive processing): Mode Three. The old counterfactual substituted a boundary claim for an in-framework refutation it did not have; the repair marks the framework boundary honestly.
+- **Word count (analyze_length)**: 2846 → 2883 (+37; voids hard 3,000, gate `>=`). Paragraph 107 → 144 words.
+- **Inbound quotations**: none outside `reviews/` and `workflow/`. `research/voids-confabulation-void-2026-05-14` L255 holds the seed draft of this paragraph (a dated research record, left as is). `apex/ai-as-introspection-control` L80 uses "false report with felt accuracy" as its own description, not a quotation of L105.
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Sync**: hugo/content/voids/confabulation-void.md L108 carries the new text; P-V1/P-V2 render as `/positions/voids-as-evidence/#p-v1` and `#p-v2`, both anchors present in the hugo positions page.
+- **Published**: yes
 
 ## 2026-11-05T00:37:17+00:00 - apex-evolve
 - **Status**: Complete

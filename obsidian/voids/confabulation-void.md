@@ -2,9 +2,9 @@
 title: "The Confabulation Void"
 description: "Human+AI exploration of why consciousness cannot detect when it fabricates explanations for its own behaviour, mistaking generated content for veridical self-knowledge."
 created: 2026-05-15
-modified: 2026-10-22
+modified: 2026-11-05
 human_modified:
-ai_modified: 2026-10-22T18:16:58+00:00
+ai_modified: 2026-11-05T01:22:38+00:00
 last_deep_review: 2026-09-29T01:37:29+00:00
 draft: false
 topics:
@@ -102,7 +102,7 @@ The [[non-human-minds-as-void-explorers|AI-as-probe]] case is double-edged. Curr
 
 ## Relation to Site Perspective
 
-**Dualism** is the strongest tenet connection. The Confabulation Void is the structural reason consciousness cannot be a transparent readout of its own substrate. If consciousness were straightforwardly identical with neural processing, the gap between actual cause and reported cause would not have the architecture it does — there would be either accurate report (full transparency) or no report (full opacity), not the middle case of false report with felt accuracy. The middle case is what dualism predicts: a non-physical witness with access to *some* features of its substrate (the conscious-side endpoint) but not others (the physical-side production), whose interface produces interpolated content where direct access is missing.
+**Dualism** is the strongest tenet connection. The Confabulation Void is the structural reason consciousness cannot be a transparent readout of its own substrate. Its middle case — false report with felt accuracy, rather than either accurate report or no report — is what dualism predicts: a non-physical witness with access to *some* features of its substrate (the conscious-side endpoint) but not others (the physical-side production), whose interface produces interpolated content where direct access is missing. The connection is a *reading* the tenets make available, not support the void supplies back to them. [[positions/voids-as-evidence|P-V1]] names illusionism as a framework that predicts the introspection-architecture cluster outright, and predictive-processing and hierarchical Bayesian accounts absorb the finding without needing the dualist gloss. So the middle case is not a signature only a non-physical witness could leave. That the tenets explain it removes a defeater without adding weight ([[positions/voids-as-evidence|P-V2]]).
 
 **Bidirectional Interaction** is the second connection. The post-hoc structure of confabulated explanation is what makes any consciousness-side causal influence on the physical world systematically unverifiable from the inside. If consciousness does any of the small-quantum-amplification work the Map's tenets envisage, the confabulation engine will retroactively label every action as caused by reasons-the-introspector-now-supplies, regardless of whether the actual cause was upstream-physical, downstream-physical, or the postulated consciousness-side influence. The verification face of [[agency-void]] inherits this directly.
 
