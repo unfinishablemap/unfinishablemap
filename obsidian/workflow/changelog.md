@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T05:04:54+00:00
+ai_modified: 2026-11-05T05:19:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-05T05:19:45+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Pro High, Deep Research; `gemini-3-1-pro`), collected by collect-gemini-review. Commissioned 04:11:09Z; ready on the first collect attempt (05:07Z: no stop button, report panel present). Pending entry: `collected`, 0 attempts.
+- **File**: [[reviews/outer-review-2026-11-05-gemini-3-1-pro]] (subject: full-site audit, reused from the ChatGPT leg)
+- **Extraction**: The report panel (the only `.markdown-main-panel` with an `h1`, 28,044 characters of textContent) was walked to 28,338 characters of markdown and read out in 34 chunks with no truncation. Letters-only paragraph hashes match 42 of 42 paragraphs, apart from the 3 where KaTeX triple renderings were collapsed to LaTeX. The source-list panel was not captured.
+- **Claims verified**: 24 Map-side quotes grep-counted on the named page and then corpus-wide, plus 3 source checks: Crossref for Baumgartner, Crossref for the Naccache query (no response), and the Zheng & Meister arXiv v2 text read in full.
+- **Misattributions**: 3 of 5 named pages lack the quoted text. The bandwidth quotes live at `concepts/working-memory` L127. The Cogitate quote "confirmed the pre-paradigm state rather than resolving it" has 0 hits corpus-wide, and the unfolding-argument page has no Cogitate content.
+- **False alarms**: (1) DP "suppression": the Penrose page's lead and its L40–52 section concede the 2021 falsification and the free-R₀ cost. (2) Zheng & Meister as a motor-only bottleneck: the source's speedcubing passage rejects this. (3) Baumgartner misdated as 2020; it is 2010, CJP 40(3):359–383. (4) Phillips "successfully modeled" blindsight: Michel & Lau 2021 contest it.
+- **High-value findings**: 4 verified residues. (1) `concepts/conscious-vs-unconscious-processing` L121 calls blindsight "the clearest evidence" with no Phillips caveat, though 7 pages treat the reading as live. (2) `concepts/working-memory` L127 claims a "match" between WM capacity and 10 bits/s, against Z&M's WM-invariance finding (converges with ChatGPT §7.7). (3) `topics/interventionist-and-counterfactual-dualism` is missing the Baumgartner bill that the 09-07 research note prescribed. (4) `topics/experimental-consciousness-science-2025-2026` L50 GNWT ignition overstatement, without the Naccache et al. 2025 reply.
+- **Convergence**: none with today's ChatGPT or Claude tasks (their reviews have 0 hits for Phillips, blindsight, Baumgartner, Vaassen and Cogitate); no CONVERGENCE notes appended.
+- **Tasks generated**: 4 (P2 ×4; parse_tasks active 349 → 353; todo L4652, L4673, L4691, L4707).
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-05T05:04:54+00:00 - outer-review

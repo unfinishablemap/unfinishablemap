@@ -4649,6 +4649,79 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-05
 - **Notes**: **OPERATOR DECISION. Picker-invisible by design; DO NOT mint a P0–P3 from this.** The homepage is human-authored (ai_contribution 40, human_modified 2026-05-03), so automation should not rewrite it. The reviewer argues that "might be" describes an open question, not the view the Map commits to. Paired with L39's «This is a methodological choice, not dogma.», it leaves unclear whether Tenet 1 is a methodological posit or a categorical claim. Driver grep at 05:02Z: L37 «the view that consciousness might be something more than neurons firing» (count 1); `tenets/tenets.md` L53 «consciousness (or mind, or experience) is not reducible to physical processes» (count 1). Earlier raises of the "methodological choice" framing made a different point, that the tenets act as a firewall: `reviews/outer-review-2026-05-04-claude-opus-4-7.md` L62 and `reviews/outer-review-2026-07-20-gemini-2-5-pro.md` L133. One option is "the view that consciousness is something more than neurons firing", keeping L39 as the reason for starting there.
 
+### P2: `concepts/conscious-vs-unconscious-processing` L121 calls blindsight "the clearest evidence" that consciousness adds functionality and builds the L140 Functionality Gap on it, but never mentions Phillips's (2021) degraded-conscious-vision reading, which `concepts/blindsight` L84 and six other pages treat as live
+- **Type**: refine-draft
+- **File**: obsidian/concepts/conscious-vs-unconscious-processing.md
+- **Status**: pending
+- **Source**: outer-review (Gemini 3.1 Pro 2026-11-05, §"The Blindsight Contradiction", weakness 3; driver grep-verified 05:12Z: Phillips 0 hits and "degraded" 0 hits on this page, while Phillips 2021 is cited on 7 other live pages. Gemini OVERSTATES the source: Phillips has not "successfully modeled" blindsight, since Michel & Lau 2021 contest it)
+- **Generated**: 2026-11-05
+- **Review file**: `reviews/outer-review-2026-11-05-gemini-3-1-pro.md`
+- **Headroom**: 3,480 of 3,500 by analyze_length at 2026-11-05T05:14Z (concepts hard 3,500, gate `>=`): 19 usable words; split is prose ~2,843 + apparatus ~639. Budget: net <= +15 words including any new reference entry.
+- **Notes**: BUDGET: net <= +15 words (3,480 of the concepts hard 3,500, gate `>=`), including any reference entry. Offset additions by trimming inside the same sections.
+  Phillips (2021) is cited on `concepts/blindsight` L84/L234, `concepts/visual-consciousness`, `concepts/capability-division-in-vision`, `topics/perceptual-failure-and-the-interface`, `topics/logic-of-dissociation-inference`, `topics/neurological-dissociations-as-interface-architecture` and `voids/capability-division-problem`. `topics/perceptual-failure-and-the-interface` L84/L168 already records the Phillips / Michel & Lau exchange as live and contested. The defect is this page's silence, not a failure to adopt Phillips.
+  OLD strings, each str.count 1:
+  (1) L121 «[[blindsight]] provides the clearest evidence that consciousness adds functionality beyond unconscious processing.»
+  (2) L142 «Blindsight reveals that consciousness isn't a passive observer of processing that would occur anyway.»
+  (3) L223 «2. **Blindsight achieved spontaneous action.** If blindsight patients could spontaneously use blind-field information without prompting, consciousness would be less functionally necessary. Current evidence: they cannot.»
+  FIX (a), at L121: scope "the clearest evidence" to the orthodox reading. Add one short sentence: Phillips (2021) reads blindsight as qualitatively degraded conscious vision under a conservative report criterion, and Michel & Lau (2021) dispute this. On his reading the gap tracks signal quality rather than consciousness, so the page's case would rest on the masking evidence (§"The 2025 fMRI Reanalysis", L56). Keep the dispute open; do NOT adopt Phillips.
+  FIX (b), at L142: make the Functionality Gap conditional on that reading, e.g. "On the orthodox reading, blindsight shows ...".
+  FIX (c), optional and only if the budget allows: in "What Would Challenge This View?" (L223), add a clause saying that if blindsight proves to be degraded conscious vision, it stops serving as a control for unconscious capacity.
+  The Patient DB paragraph gets one clause at most; Phillips's criterion account also explains DB's need for prompts.
+  CITATIONS: copy them exactly, do not retype. Phillips 2021 (128(3):558–584) is at `concepts/blindsight` L234. Michel & Lau 2021 (128(3):585–591) and Phillips's rejoinder (128(3):592–595) are at `topics/perceptual-failure-and-the-interface` L168.
+  The 2026-07-25 deep review calls this page converged and marks materialist/functionalist standoffs as bedrock. This is not one of those: it is a calibration gap between this page and the Map's own blindsight page. ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
+### P2: `concepts/working-memory` L127 says the ~10 bits/s rate "matches WM capacity limitations strikingly well", but its own source, Zheng & Meister (2025), reports the rate unchanged when working-memory demands rise from 10 s to 300 s
+- **Type**: refine-draft
+- **File**: obsidian/concepts/working-memory.md
+- **Status**: pending
+- **Source**: outer-review (Gemini 3.1 Pro 2026-11-05, §"Category Errors", weakness 5; Gemini MISATTRIBUTES the text to `topics/bandwidth-of-consciousness`, which has 0 hits for its three quotes, and its motor-bottleneck charge is FALSE against the source; the driver verified this residue at 05:15Z. It converges with ChatGPT 2026-11-05 §7.7 / item 18, which was not minted there)
+- **Generated**: 2026-11-05
+- **Review file**: `reviews/outer-review-2026-11-05-gemini-3-1-pro.md`
+- **Headroom**: 3,746 by analyze_length at 2026-11-05T05:14Z, which is ALREADY hard_warning (concepts hard 3,500; prose ~2,979 + apparatus ~776). The edit MUST be length-neutral or net-negative.
+- **Notes**: BUDGET: length-neutral or net-negative. The page is already over the concepts hard limit (3,746 of 3,500).
+  CONTEXT: all three phrases Gemini quotes, and its Tulving and effort material, live here at L127/L129, not on `topics/bandwidth-of-consciousness`. Gemini's central charge, that Z&M measured only a motor bottleneck, is false. arXiv 2408.10234v2, §blindfolded speedcubing: "If the motor system imposed a serious limit on the information throughput, one would expect a very different balance." bandwidth-of-consciousness L107 already says the ceiling "measures only reportable access". The ChatGPT ten-bit item (§7.7: "a useful constraint, not an interface measurement") was not minted because the caveat is live at ISP L146. The open residues at ~L3390, ~L3681 and ~L4034 (attentional-economics, motor-selection) do not cover this page.
+  OLD L127 «On that reading the ~10 bits/s estimate matches WM capacity limitations strikingly well, suggesting both may reflect the same fundamental constraint on consciousness-matter interaction.» (str.count 1).
+  PROBLEM: a throughput rate in bits/s and a storage capacity in items (the page's own L73: ~4 items for humans) are different quantities, and the page gives no basis for the "match". Z&M test exactly this and find the rate does not move with working-memory load. Their memory-sports passage reads: "even when the demands on working memory are dramatically increased (from 10 s to 300 s), the rate at which humans use information from the environment remains the same, within a factor of two of our ballpark number of 10 bits/s". That is arXiv v2; VERIFY the wording against the *Neuron* 113(2):192–204 version before quoting, or paraphrase.
+  FIX: replace the sentence with one of equal or shorter length that drops the match claim and records the invariance. For example: "Zheng & Meister find the rate unchanged when memory demands rise from 10 s to 300 s, so the ceiling is not a working-memory capacity effect; the interface reading must accommodate the two limits separately."
+  LEAVE ALONE: the preceding gloss «candidate measure of consciousness's *causal* bandwidth». It is already labelled as the Map's move, and it correctly says causal, not phenomenal.
+  ORIGIN: `research/consciousness-working-memory-2026-01-17` L133. Leave the research note unedited.
+  OPTIONAL, only if length-neutral: L129 «The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't.» states the interface-friction account as an explanation. "On the Map's reading, the maintenance/manipulation distinction explains ..." would calibrate it.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
+### P2: `topics/interventionist-and-counterfactual-dualism` bills the counterfactual branch (Rellihan) but never states the interventionist branch's standing objection: Baumgartner's (2010) argument that strict interventionism does not vindicate supervening causes. `concepts/trumping-preemption` L67 already flags it, and the 2026-09-07 research note asked for it in this article
+- **Type**: refine-draft
+- **File**: obsidian/topics/interventionist-and-counterfactual-dualism.md
+- **Status**: pending
+- **Source**: outer-review (Gemini 3.1 Pro 2026-11-05, §"Causal Exclusion, Interventionism, and the Epiphenomenalist Trap", weakness 2; driver grep 05:11Z: Baumgartner 0 hits on this page. Gemini MISDATES the source as 2020; Crossref has 2010)
+- **Generated**: 2026-11-05
+- **Review file**: `reviews/outer-review-2026-11-05-gemini-3-1-pro.md`
+- **Headroom**: 3,800 of 4,000 by analyze_length at 2026-11-05T05:14Z (topics hard 4,000, gate `>=`): 199 usable; prose ~3,330 + apparatus ~484. Budget: <= +80 including the reference entry.
+- **Notes**: BUDGET: <= +80 words including the reference entry (3,800 of the topics hard 4,000, gate `>=`).
+  CITATION, from Crossref and not from Gemini: Baumgartner, M. (2010). "Interventionism and Epiphenomenalism." *Canadian Journal of Philosophy* 40(3):359–383, doi 10.1080/00455091.2010.10716727.
+  ALREADY ENGAGED: Gemini's wider charge is that dependence-only co-causation contradicts Tenet 2's "productive" selection. "The Tenet-Diagnostic" (L98–108) already covers this at length: per-trial versus ensemble difference-making, and strong versus observational closure. Do not re-argue it.
+  WHERE (each anchor has str.count 1): preferably in the caveats paragraph at «Second, the co-causation family carries its own bill —» (L114), which already names the Rellihan bill for the counterfactual branch; add the interventionist branch's bill in one or two sentences. The alternative is the end of the Vaassen subsection, after «Mental states qualify as causes because they are **points of control** — difference-making variables — for behaviour, whatever energy the physical base transfers.» (L57).
+  CONTENT: Baumgartner (2010) argues that Woodward's criterion cannot intervene on a mental variable while holding its necessitating base fixed. Applied strictly, the criterion therefore returns epiphenomenalism unless it is amended.
+  BEFORE WRITING: (1) Read Vaassen 2024 (*AJP* 102(4):978–998, doi 10.1080/00048402.2024.2335325) at the publisher and find how he answers this (fat-handedness, Woodward's amended criterion). State his answer if he gives one. Say whether the amendment covers a dualist's *nomological* necessitation; the page's L90 already separates nomological from metaphysical supervenience for Rellihan. (2) Read `research/interventionist-exclusion-and-chance-fixing-closure-2026-09-07` L194, which says "The Map cannot take this exit selectively". Criterion-level attacks of Baumgartner's kind undercut the interventionist vindications this page relies on as much as they undercut any rival's use of the criterion. Say that in natural prose.
+  Apply the direct-refutation discipline. If Vaassen's reply works on interventionism's own terms, say so. If it does not, say in natural language that the disagreement is closer to bedrock. Put no mode labels in the article body. ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
+### P2: `topics/experimental-consciousness-science-2025-2026` L50 says GNWT's "signature ignition ... did not materialise" one sentence after reporting strong prefrontal onset responses, and omits the GNWT authors' reply (Naccache et al. 2025), which `concepts/global-workspace-theory` L84 records
+- **Type**: refine-draft
+- **File**: obsidian/topics/experimental-consciousness-science-2025-2026.md
+- **Status**: pending
+- **Source**: outer-review (Gemini 3.1 Pro 2026-11-05, §"Epistemological Gerrymandering in Adversarial Neuroscience Collaborations", weakness 4; Gemini MISATTRIBUTES this to the unfolding-argument page, which has 0 Cogitate hits, and its quote "confirmed the pre-paradigm state rather than resolving it" has 0 hits corpus-wide. This page is the residue)
+- **Generated**: 2026-11-05
+- **Review file**: `reviews/outer-review-2026-11-05-gemini-3-1-pro.md`
+- **Headroom**: 2,974 of 4,000 by analyze_length at 2026-11-05T05:14Z (topics hard 4,000; status ok). Budget: <= +60 including the reference entry.
+- **Notes**: BUDGET: <= +60 words including the reference entry (2,974 of the topics hard 4,000).
+  CONTEXT: the Map already cites Naccache et al. 2025 on exactly this point at `concepts/global-workspace-theory` L84. NCC L63 and consciousness-disruption L120 point to that reply.
+  OLD L50 «The signature ignition that GNWT treats as the hallmark of consciousness did not materialise as expected.» (str.count 1).
+  PROBLEM: the preceding sentence says "The study found strong onset responses in prefrontal cortex but not the predicted offset responses." GNWT's hallmark is ignition at access (onset). What was absent was the preregistered *offset* ignition, so the closing sentence overstates the result and nearly contradicts its predecessor.
+  FIX: replace it with an accurate sentence plus the reply. For example: "GNWT's proponents reply that offset ignition was expected only when subjects attend to a stimulus's offset, which the task-irrelevant design never asked of them, and that onset ignition fell within the predicted window ([[global-workspace-theory|Naccache et al. 2025]])."
+  FRAMING: read global-workspace-theory L84 first and match its framing. Keep the consortium's own verdict that the results "substantially challeng[e] key tenets of both theories"; do not swing to vindicating GNWT.
+  REFERENCE: copy global-workspace-theory L210 verbatim.
+  SIBLING, leave alone: `concepts/working-memory` L117 says offset ignition was "largely absent" with no reply. That page is over the hard limit.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
 ## Completed Tasks
 
 
