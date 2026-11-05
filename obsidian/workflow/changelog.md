@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T22:16:50+00:00
+ai_modified: 2026-11-05T22:55:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T22:55:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/causal-closure-debate-2026-03-19]]
+- **Source**: P3 lead from the 2026-10-21 ~10:09Z refine of `topics/causal-closure-debate-historical-survey` L99 (Montero misattributions in the research note).
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Verified at source**: Montero (2003), newdualism.org copy (`Varieties-of-Causal-Closure.htm`, HTTP 200, 67,946 bytes, fetched with a browser User-Agent and Accept header, cp1252-decoded, 6,246 words). "explanatory gap" 0 hits; "explanatory" 0; "gap" 0 (controls: "causal closure" 37, "Montero" 6). Her only Levine citation (fn 3, *Purple Haze*) cites him as a holder of Strong Causal Closure. Her evidential hedge, verbatim (§5): "And here I think the answer is not entirely clear, since it is not clear that lack of evidence for the fundamentally mental amounts to evidence that the fundamentally mental does not exist." Her unhedged "does not amount to evidence" occurs only inside the alley-cat conditional ("And if the physiologist ... is in a similar position, ..."). All 11 Montero strings quoted in the annotations were grep-verified at count 1 in her text. The only zero-count quoted strings are the three searched-for terms and the note's own wording. **Publisher abstract: not reached.** PhilPapers `rec/MONVOC` and `api.philpapers.org` returned 403, OpenAlex has no record of the chapter, Semantic Scholar returned 429, and no search surfaced an Imprint Academic chapter abstract. The only web page pairing Montero with the explanatory gap is this research note itself (self-contamination). Three candidate seeding sources (Diametros 164; Grygianiec, Diametros 48; Gabbani, philinq) contain neither "explanatory gap" with Montero nor "ontological physicalism", so the provenance of the phrasing is unknown.
+- **Changes** (research note; annotate-in-place, original bullets kept verbatim):
+  - L102 "Lack of evidence for fundamentally mental causes does not amount to evidence against them": nested **Correction (2026-11-05)** restoring her hedge with her wording, plus the conditional context.
+  - L103 "Once the explanatory gap is accepted, the main argument for ontological physicalism (from causation) loses force": nested correction marking it unverified and not found in her text. It gives what she actually argues: the success-of-science argument fails ("a completable physics does not imply CC", §3), and the physiological argument "falls at least somewhat short of providing us with a compelling reason to accept causal closure" (§5).
+  - L104 "Tenet alignment ... if the explanatory gap holds, causal closure loses its motivation" (a fourth locus, not named in the task, that inherits L103's claim): nested correction narrowing the alignment to what the chapter supports, with her own open door ("it may very well be other arguments for CC that are not similarly flawed").
+  - L145 "The explanatory gap undermines the motivation for accepting causal closure (Montero)": nested correction marking it unverified and pointing to the Key Sources corrections. It notes that the nearest gap-style point (first-person experience) is one she gives to "anti-physicalists might argue", not her own claim.
+- **Reasoning-mode**: n/a (an attribution fix in a research note; no opponent engagement changed).
+- **Sweep**: no live article (topics/concepts/apex/voids/positions) pairs Montero with "explanatory gap". 6 live files mention Montero and all have 0 prose "explanatory gap" hits; the 2 `[[explanatory-gap]]` slug hits in `concepts/causal-closure` (L14 frontmatter, L221 Further Reading) are unrelated to Montero. The L102 flat claim did not propagate: `topics/hempels-dilemma` L105 already carries her hedge ("not entirely clear").
+- **Frontmatter**: `ai_modified` 2026-11-05T22:55:03+00:00 (added; the note had none); `modified` 2026-11-05 (added; without it sync dated the Hugo page from file mtime, converter.py L375-381); `ai_system` claude-opus-4-6 → claude-opus-4-6+claude-opus-5-5 (`claude-opus-5-5` was absent; model confirmed from the task transcript).
+- **Published**: yes
 
 ## 2026-11-05T22:16:50+00:00 - deep-review
 - **Status**: Success

@@ -1,11 +1,13 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-05 22:55:03+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 concepts: []
 created: 2026-03-19
-date: '2026-03-19'
+date: &id001 2026-11-05
 draft: false
-lastmod: 2026-03-19 00:00:00+00:00
+lastmod: 2026-11-05 22:55:03+00:00
+modified: *id001
 related_articles: []
 title: Research Notes - The Causal Closure Debate
 ---
@@ -104,8 +106,11 @@ The causal closure of the physical — the thesis that every physical event has 
   - Unravels multiple formulations of causal closure in the physicalism literature
   - Questions whether physiology provides strong evidence for causal closure of the nonmental
   - Lack of evidence for fundamentally mental causes does not amount to evidence against them
+    - **Correction (2026-11-05)**: the bullet above states as fact what Montero only doubts. Her wording (§5, "The physiological argument for Strong Causal Closure"): "And here I think the answer is not entirely clear, since it is not clear that lack of evidence for the fundamentally mental amounts to evidence that the fundamentally mental does not exist." She first grants that absence of evidence sometimes is evidence of absence (her ghost example), and that "while we certainly do not have a complete nonmental account of what we take to be mental causes, we have a good start." Her unhedged "does not amount to evidence" appears only inside a conditional, after her alley-cat case (a cat she has no evidence of because she walks the alley only by day): "And if the physiologist, in investigating only the bodily causes of bodily movements, is in a similar position, her lack of evidence for fundamentally mental forces does not amount to evidence that such forces do not exist". Read the bullet as: it is *not clear* that the lack of evidence counts against fundamentally mental causes, and it does not count against them *if* physiology is a search that could not reveal them.
   - Once the explanatory gap is accepted, the main argument for ontological physicalism (from causation) loses force
+    - **Correction (2026-11-05)**: unverified, and not found in Montero's text. "Explanatory gap" has 0 occurrences in the newdualism.org copy of the chapter (nor do "explanatory" or "gap"), and no publisher abstract could be reached to check the published version (PhilPapers returned 403; OpenAlex has no record of the chapter). The only Levine citation in the chapter (footnote 3, *Purple Haze*) names him as a holder of Strong Causal Closure, not of a gap argument. Nor does she argue that any concession makes the causal argument lose force. What she argues about the causal argument for physicalism (her CAP, restated as CAF) is that its first premise, closure, is poorly supported. The argument for closure from the success of science fails because "a completable physics does not imply CC" once the physical is read as the fundamentally nonmental (§3). Papineau's physiological argument for SCC "falls at least somewhat short of providing us with a compelling reason to accept causal closure" (§5). Kept as a record of the original note; do not cite the bullet.
 - **Tenet alignment**: Aligns with Tenet 1 (Dualism) — if the explanatory gap holds, causal closure loses its motivation
+  - **Correction (2026-11-05)**: this conditional rests on the unverified explanatory-gap bullet above, and Montero's text gives no such argument. The alignment her chapter does support is narrower. The two arguments for closure she examines fail or fall short, so the causal argument for physicalism lacks a well-supported first premise. That leaves room for interactionist dualism (Tenets 1 and 3) without refuting physicalism, and she herself leaves open that "it may very well be other arguments for CC that are not similarly flawed".
 
 ### Henry Stapp — Quantum Interactive Dualism
 - **URL**: https://www-physics.lbl.gov/~stapp/QID.pdf
@@ -147,6 +152,7 @@ The causal closure of the physical — the thesis that every physical event has 
   - A priori arguments for causal closure are circular (Buhler)
   - Standard formulations are consistent with interactionist dualism (Lowe)
   - The explanatory gap undermines the motivation for accepting causal closure (Montero)
+    - **Correction (2026-11-05)**: unverified, and not Montero's argument; see the corrections under her entry in Key Sources above. She attacks closure's motivation through the arguments offered for it, not through the explanatory gap: "Science can be as successful as you like and CC could still be false" (§3), and the physiological argument "falls at least somewhat short" of a compelling reason to accept closure (§5). The nearest her text comes to a gap-style point is the first-person one, and she puts it in other mouths: "anti-physicalists might argue that not only would physiological investigation miss the fundamentally mental, but that another type of investigation reveals it: first person experience".
   - Conservation laws do not entail causal closure (Gibb, Lowe)
   - The principle is treated as an axiom rather than a conclusion
 - **Relation to site tenets**: Strongly aligns with all five tenets. Provides philosophical cover for the Map's rejection of causal closure.
