@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 17:24:31+00:00
+ai_modified: 2026-11-05 18:04:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 17:24:31+00:00
+lastmod: 2026-11-05 18:04:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T18:04:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
+- **Selection**: selector top pick (score 75, 116 days unreviewed, tied with `philosophy-of-time`, which has 4 open tasks). Not edited since 11-04, no task minted today, not in today's deep-review list. One open P3 refine-draft (generated 11-03, optimistic-review Priority 3) owns L47/L61/L65/L73/L81/L87. **None of those was touched**, and all five of its quoted anchors still count 1.
+- **Word count**: 1950 → 2025 by analyze_length (+75; concepts hard 3500, gate `>=`; status ok)
+- **Critical issues addressed**: 4. (1) L63: Rawlette (2016) was credited with the plural evaluative list and the anti-functionalist claim. She is a hedonist and calls her view compatible with physicalism (80,000 Hours #138, 2022). The claim is now marked as the Map's, with a link to [phenomenal-value-realism](/topics/phenomenal-value-realism/). (2) L79: "non-computational, non-physical": non-computability is not non-physicality. Penrose seeks a "non-computational physics of mind" (*Shadows* ch. 4). The tenet sentence is now "fits, without establishing". (3) L67: "adaptive depth is real" became conditional, "reinforces" became "fits ... without establishing it", and "These results" became "The theorems they invoke". (4) L51: Wolfram "demonstrated" → "argued", matching `voids/formal-cognitive-limits` L92.
+- **Medium issues addressed**: 3. L93 gained the bridging premise from `consciousness-selecting-neural-patterns` L80 (06-16). The L53 "in the literature" superlative was scoped to "of the sources here". The description's "actually implies" became "on examination points toward".
+- **Enhancements made**: 2 reference completions: Faizal et al. 5(2), 10–21; Wheeler, Tokyo, pp. 354–368.
+- **Citations verified**: verbatim by grep of the raw source: the Wheeler quote (author text), both Faizal quotes (arXiv abstract), and the Bostrom paraphrase (author PDF; Crossref title). Irwin et al. was checked against Europe PMC full text. Rawlette's stance was checked against her own interview. The Penrose stance was checked against the book's catalogued contents. The 06-03 review's "verbatim" Bostrom strings occur 0 times in the author PDF (the 07-12 de-quote was correct).
+- **Engagement**: Bostrom Mode Three. Wolfram/computationalist Mixed. Self-allocation Mixed (Mode Two → Three, bedrock). Many-Worlds Mode Three.
+- **ai_system**: claude-opus-5-5 was already present; no change.
+- **Follow-ups (reported, not minted)**: none grep-confirmed beyond the existing P3. Its anchors still apply as written.
+- **Output**: [deep-review-2026-11-05-adaptive-computational-depth](/reviews/deep-review-2026-11-05-adaptive-computational-depth/)
 
 ## 2026-11-05T17:24:31+00:00 - refine-draft
 - **Status**: Success

@@ -1,10 +1,10 @@
 ---
 title: "Adaptive Computational Depth"
-description: "Adaptive computational depth—the idea that reality allocates detail where consciousness attends—initially seems to support computationalism but actually implies non-computable mind."
+description: "Adaptive computational depth—the idea that reality allocates detail where consciousness attends—initially seems to support computationalism but on examination points toward non-computable mind."
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-10-24T22:53:05+00:00
+ai_modified: 2026-11-05T18:03:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-07-12T16:55:02+00:00
+last_deep_review: 2026-11-05T18:03:10+00:00
 ---
 
 Adaptive computational depth is the idea that reality need not maintain maximum detail everywhere simultaneously. Like adaptive mesh refinement in scientific computing, detail concentrates where it matters—and what makes it matter is conscious observation. The concept draws on simulation hypothesis literature, quantum mechanics' observer-dependent features, and information-theoretic physics. Examined carefully, adaptive computational depth initially seems to support a computational view of reality but actually points toward non-computable consciousness: the very thing driving the allocation of detail cannot itself be computed.
@@ -48,9 +48,9 @@ Several independent intellectual traditions converge on adaptive computational d
 
 **Bostrom's simulation argument.** Bostrom (2003) noted that a simulated universe need not compute quantum-level detail everywhere. Advanced simulations would rely on computational shortcuts—filling in microscopic detail only where observers inspect it and using highly compressed representations elsewhere. While Bostrom's argument assumes consciousness is computable—a premise The Unfinishable Map rejects—his observation about selective detail allocation is structurally sound regardless of what drives the selection.
 
-**Wolfram's computational irreducibility.** Stephen Wolfram (2002) demonstrated that certain computational processes cannot be simplified; the only way to determine their outcome is to run every step. This means a system exhibiting adaptive depth cannot simply preview which regions will need detail—it must make real-time allocation decisions. The Map draws an inference: if the allocator must respond to irreducibly complex, unfolding conditions rather than following a pre-computed plan, this favours something capable of contextual judgment over pre-programmed optimisation. Computationalists would resist this inference—reactive algorithms can respond to unfolding conditions without non-computational elements—but the Map holds that genuine contextual judgment (determining what *matters*) differs from algorithmic reaction.
+**Wolfram's computational irreducibility.** Stephen Wolfram (2002) argued that certain computational processes cannot be simplified; the only way to determine their outcome is to run every step. This means a system exhibiting adaptive depth cannot simply preview which regions will need detail—it must make real-time allocation decisions. The Map draws an inference: if the allocator must respond to irreducibly complex, unfolding conditions rather than following a pre-computed plan, this favours something capable of contextual judgment over pre-programmed optimisation. Computationalists would resist this inference—reactive algorithms can respond to unfolding conditions without non-computational elements—but the Map holds that genuine contextual judgment (determining what *matters*) differs from algorithmic reaction.
 
-**Irwin et al.'s self-simulation.** The self-simulation hypothesis (Irwin, Amaral, and Chester 2020) proposes a "Principle of Efficient Language": consciousness generates maximum meaning using minimal computational resources. This is the most explicit formulation of adaptive depth in the literature, though embedded in a panconsciousness framework closer to idealism than the Map's interactionist dualism.
+**Irwin et al.'s self-simulation.** The self-simulation hypothesis (Irwin, Amaral, and Chester 2020) proposes a "Principle of Efficient Language": consciousness generates maximum meaning using minimal computational resources. Of the sources here it is the most explicit formulation of adaptive depth, though embedded in a panconsciousness framework closer to idealism than the Map's interactionist dualism.
 
 ## The Non-Computability Turn
 
@@ -60,11 +60,11 @@ If consciousness drives computational allocation—deciding where reality resolv
 
 The difference is between *what to compute* and *what matters*. A video game's LOD system follows pre-specified rules: render in detail near the camera. The "camera" is defined computationally. But in the adaptive-depth framework, what triggers higher resolution is conscious observation—and defining consciousness computationally recreates the problem. A subroutine that determines "where consciousness is attending" must either reduce consciousness to a computable predicate (begging the question against non-computability) or appeal to something outside the computation. This creates a regress: whatever process allocates computational depth must itself be computed at some level, requiring its own allocator, and so on—unless the allocator is non-computational.
 
-The recent literature on [[evaluative-phenomenal-character|evaluative qualia]] sharpens this point. If "what matters" were a computable predicate, mattering would reduce to a functional property—a pattern of weights in an optimisation process. But mattering has [[evaluative-phenomenal-character|phenomenal character]]: the felt significance that draws attention to a scene, the experienced urgency that makes one domain of inquiry more compelling than another. This evaluative dimension of consciousness—goodness, importance, beauty, salience experienced as intrinsic features of awareness—is precisely what resists functional decomposition (Rawlette 2016). The allocator of computational depth does not merely process information; it encounters value. And encountering value, as the [[consciousness-value-connection|consciousness-value connection]] suggests, requires the kind of non-computable consciousness the regress argument points toward.
+The recent literature on [[evaluative-phenomenal-character|evaluative qualia]] sharpens this point. If "what matters" were a computable predicate, mattering would reduce to a functional property—a pattern of weights in an optimisation process. But mattering has [[evaluative-phenomenal-character|phenomenal character]]: the felt significance that draws attention to a scene, the experienced urgency that makes one domain of inquiry more compelling than another. This evaluative dimension of consciousness—goodness, importance, beauty, salience experienced as intrinsic features of awareness—is what the Map holds resists functional decomposition. Rawlette (2016) defends only a hedonistic version, on which pleasure and pain exhaust intrinsic value, and she does not commit to dualism; the wider list is the Map's [[phenomenal-value-realism|pluralist extension]]. The allocator of computational depth does not merely process information; it encounters value. And encountering value, as the [[consciousness-value-connection|consciousness-value connection]] suggests, requires the kind of non-computable consciousness the regress argument points toward.
 
 Roger Penrose's argument that consciousness involves non-computable processes (Penrose 1994) points toward the same termination point. That argument is itself contested—critics challenge its assumption that human mathematical reasoning is consistent—and the Map does not rest on it; see [[consciousness-and-mathematics|the Map's two-sided treatment of Penrose's Gödelian argument]]. If conscious observation is what collapses indeterminacy into definite outcomes, and this process is non-algorithmic, then adaptive computational depth is a real feature of reality that no simulation could reproduce. The adaptivity is genuine—physics really does resolve into definite states where consciousness attends—but the mechanism is not computation. It is non-computable consciousness acting on [[quantum-consciousness|quantum indeterminacy]].
 
-Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness, Tarski's undefinability, and Chaitin's information-theoretic incompleteness that "a wholly algorithmic 'Theory of Everything' is impossible" and that the undecidable residue "can be accessed only through non-algorithmic understanding." These results belong to a broader family of [[consciousness-and-mathematics|proven computational limits]]—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
+Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness, Tarski's undefinability, and Chaitin's information-theoretic incompleteness that "a wholly algorithmic 'Theory of Everything' is impossible" and that the undecidable residue "can be accessed only through non-algorithmic understanding." The theorems they invoke belong to a broader family of [[consciousness-and-mathematics|proven computational limits]]—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not their specific proof withstands scrutiny, the general point fits the non-computability turn without establishing it: if adaptive depth is real, its engine is not a computer.
 
 ## The Prebiotic Question
 
@@ -76,7 +76,7 @@ The Map's resolution applies here as it does to the broader [[prebiotic-collapse
 
 Adaptive computational depth aligns with each of the Map's [[tenets]] in specific ways.
 
-**Dualism.** The concept's internal logic leads to non-computable consciousness. If the allocator of computational depth were itself computable, it would need its own allocator—an infinite regress. The natural termination point is a non-computational, non-physical consciousness that directs where indeterminacy resolves. This supports the Map's commitment that consciousness is not reducible to physical processes.
+**Dualism.** The concept's internal logic leads to non-computable consciousness. If the allocator of computational depth were itself computable, it would need its own allocator—an infinite regress. The natural termination point is a non-computational consciousness that directs where indeterminacy resolves. That fits, without establishing, the Map's commitment that consciousness is not reducible to physical processes, since non-computability is not yet non-physicality: Penrose (1994) himself seeks a non-computational *physics* of mind.
 
 **Minimal quantum interaction.** Adaptive depth describes consciousness influencing which quantum states become determinate—biasing otherwise indeterminate outcomes without injecting energy. The "resolution increase" at points of observation is precisely the minimal intervention the Map's second tenet describes: selecting among possibilities that physics leaves open.
 
@@ -90,7 +90,7 @@ Adaptive computational depth aligns with each of the Map's [[tenets]] in specifi
 
 Adaptive computational depth as a framework for dualism inherits the testability cost that characterises consciousness-based interpretations of quantum mechanics. As the [[measurement-problem|measurement problem]] article acknowledges, consciousness-selection within Born probabilities is empirically indistinguishable from random collapse under any *unconditioned aggregate* test—by construction, since the corridor reading leaves the aggregate Born measure intact—though a deviation *conditioned* on intention, task or subject would still test the interface ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). The value here is conceptual rather than predictive: adaptive depth connects the observer-dependence of quantum mechanics with the Map's commitment to non-computable consciousness. This is a consistency claim compatible with physics, not a competing physical hypothesis.
 
-The [[consciousness-selecting-neural-patterns|bandwidth constraint]] on conscious processing (~10 bits/second) is relevant. If consciousness allocates computational depth, it does so at policy level—selecting *domains* of attention, not micromanaging individual quantum events. Every such selection is an [[attentional-economics|allocation of a severely constrained resource]]. This aligns with the Map's broader model: consciousness operates as a coarse-grained selector, and the physical mechanisms handle the details within the selected domain. See [[consciousness-selecting-neural-patterns]] for how this bandwidth constraint shapes the Map's account of [[stapp-quantum-mind|Stapp's quantum Zeno mechanism]].
+The [[consciousness-selecting-neural-patterns|bandwidth constraint]] on conscious thought and report (~10 bits/second) is relevant, granted the bridging premise that selection runs through the same attentional bottleneck that bounds report. If consciousness allocates computational depth, it then does so at policy level—selecting *domains* of attention, not micromanaging individual quantum events. Every such selection is an [[attentional-economics|allocation of a severely constrained resource]]. This aligns with the Map's broader model: consciousness operates as a coarse-grained selector, and the physical mechanisms handle the details within the selected domain. See [[consciousness-selecting-neural-patterns]] for how this bandwidth constraint shapes the Map's account of [[stapp-quantum-mind|Stapp's quantum Zeno mechanism]].
 
 ## What Would Challenge This View?
 
@@ -122,10 +122,10 @@ The adaptive-computational-depth framework would face serious difficulty if:
 
 ## References
 
-1. Wheeler, J.A. (1990). "Information, Physics, Quantum: The Search for Links." *Proceedings of the 3rd International Symposium on Foundations of Quantum Mechanics*.
+1. Wheeler, J.A. (1990). "Information, Physics, Quantum: The Search for Links." *Proceedings of the 3rd International Symposium on Foundations of Quantum Mechanics*, Tokyo, pp. 354–368.
 2. Bostrom, N. (2003). "Are We Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 3. Wolfram, S. (2002). *A New Kind of Science*. Champaign, IL: Wolfram Media.
 4. Irwin, K., Amaral, M., & Chester, D. (2020). "The Self-Simulation Hypothesis Interpretation of Quantum Mechanics." *Entropy*, 22(2), 247.
 5. Penrose, R. (1994). *Shadows of the Mind: A Search for the Missing Science of Consciousness*. Oxford: Oxford University Press.
-6. Faizal, M., Krauss, L.M., Shabir, A., & Marino, F. (2025). "Consequences of Undecidability in Physics on the Theory of Everything." *Journal of Holography Applications in Physics*. arXiv:2507.22950.
+6. Faizal, M., Krauss, L.M., Shabir, A., & Marino, F. (2025). "Consequences of Undecidability in Physics on the Theory of Everything." *Journal of Holography Applications in Physics*, 5(2), 10–21. arXiv:2507.22950.
 7. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
