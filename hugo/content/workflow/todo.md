@@ -4996,6 +4996,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   Unrelated "uncomputab" hits are CORRECT and must NOT be touched: self-reference-and-the-limits-of-physical-description, testing-consciousness-collapse, the-reverse-inference, cross-domain-void-comparison, agency-budget, voids/formal-cognitive-limits (Turing, Chaitin, 1-randomness and Q-shape senses).
   ai_system: append the executing fork's own model to EACH edited file only if it is ABSENT anywhere in that file's string.
 
+### P3: `concepts/epistemology-of-limit-knowledge` says the void catalogue's clustering "demonstrates" convergence and calls its entries "independently motivated", against [P-V1](/positions/voids-as-evidence/#p-v1) ("Void convergence is framework-internal coherence, not independent confirmation") and the 2026-11-05 taxonomy-of-voids withdrawal
+- **Type**: refine-draft
+- **File**: obsidian/concepts/epistemology-of-limit-knowledge.md
+- **Status**: pending
+- **Source**: driver, 2026-11-05 19:06Z, found during the agentic-social candidate screen (the overclaim scan flagged the page, so it was not posted). This is the same defect family as `apex/taxonomy-of-voids` L231/L233 ("receives the strongest support" / "gains cumulative support"), withdrawn today at 05:58Z after three tenet checks and the ChatGPT outer review (`reviews/outer-review-2026-11-05-chatgpt-5-6-sol-pro.md` item 13)
+- **Generated**: 2026-11-05
+- **Headroom**: 2,239/3,500 (concepts hard 3,500); keep it net ≤ +20.
+- **Notes**: Live at 19:06Z (`grep -c -F` = 1): "[The void catalogue's organisation into families](/voids/what-voids-reveal/) sharing structural logic demonstrates this: over a hundred independently motivated entries cluster around the consciousness-physics interface." The corpus-wide grep for "independently motivated entries" hits this page only. `positions/voids-as-evidence` [P-V1](/positions/voids-as-evidence/#p-v1) is headed "Void convergence is framework-internal coherence, not independent confirmation", and today's taxonomy fix grades the clustering as "framework-internal coherence under the common-cause-null discount". FIX: replace "demonstrates" with a compatibility verb ("illustrates", "is consistent with"). Drop or qualify "independently motivated": many voids are tenet-generated, which [P-V1](/positions/voids-as-evidence/#p-v1) counts as a cost, not a confirmation. Add a short pointer to [P-V1](/positions/voids-as-evidence/#p-v1) if words allow. Also check the same paragraph's "demonstrates that closure operates at specific architectural joints" (the developmental-evidence sentence). It may be fine as an empirical claim about closure; verify against the linked page's own grade before changing it.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
 ## Completed Tasks
 
 
