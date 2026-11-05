@@ -1,8 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T09:25:42+00:00
+ai_modified: 2026-11-05T09:51:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-05T09:51:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]
+- **Selection**: selector top candidate (score 74; 115 days since the 07-12 review). No open todo task on the page, and it was not edited since 11-04. The unreviewed 10-09 Szangolies rewrite (L115) and the 09-14 apex Further Reading line had landed after the last review.
+- **Word count**: 3052 → 3075 (+23; analyze_length; topics hard 4000; headroom 924)
+- **Critical issues addressed**: 5
+  - (1) L115: the 10-09 fence said reading the horizon "as a limit on outcome determination" is the Map's extension, "which Szangolies … does not draw". His full text (arXiv:1805.10668v2) derives exactly that: "there are always measurement outcomes that cannot be predicted". His own hedges were also dropped ("possible origin"; "I do not claim to have achieved a reconstruction of the full quantum formalism"). The fence now sits on the extension to consciousness, and the quantum fit is reported as he leaves it, open.
+  - (2) L93: "The Galilean precedent … supports category error — … by design" failed the "initial method ⇒ permanent limit" transition check. The sibling `concepts/galilean-exclusion` L70 states the repair ("a method built to leave quality out would fail whether or not quality is physical"). Category error now rests on the L103 recapture premise.
+  - (3) L67: Carroll's regress was cited without "on its contested inferentialist reading", the qualifier both source pages carry (`carrolls-regress` L31/L53).
+  - (4) Four orphan References: Jackson 1982, Chalmers 1996, Reppert 2003, Alter & Nagasawa 2015. Each had 0 surname hits in the body, so the 07-12 "no orphans … vice versa" was false. All four are now cited inline.
+  - (5) L89: McDowell's contrast was given as "reasons"/"causes" and is now his "space of reasons"/"realm of law". Verified through Wright 1996's verbatim quotation of *Mind and World*; Google Books search-within was captcha-blocked.
+- **Medium issues addressed**: 3
+  - (6) A Jackson stance note ("he has since rejected its conclusion"; SEP raw text: "But Jackson changed his mind").
+  - (7) L101: "deciding … would be treated as subjective projections" became "asserting that the qualities it had no use for were subjective", per the sibling L66.
+  - (8) L139: "reduces logical compulsion to neural habit cannot itself be logically justified" became "reduces logic's authority to neural habit must rely on that authority to justify itself". This removes a tension with L87's 07-11 standoff concession without softening the transcendental point.
+- **Low**: 3. A duplicate Further Reading entry (`phenomenology-of-intellectual-life`) was removed, an L95 meta sentence was cut, and L113 was tightened.
+- **Quotes verified at source**:
+  - Szangolies 2018: abstract plus 4 conclusion passages, grepped in the raw PDF text.
+  - Sellars, "logical space of reasons": EPM §36, raw transcription.
+  - McDowell, "realm of law": via Wright 1996, secondary.
+  - Jackson's change of mind: SEP qualia-knowledge.
+  - Szangolies "naturalist": the title of his "Von Neumann Minds: A Toy Model of Meaning in a Natural World", and his own forum comments.
+- **Reasoning modes**:
+  - Tracking reply (L87): Mode Three.
+  - Constructivism and adaptationism (L89): Mode Two.
+  - Occam (L139): Mode Two, transcendental; before this pass it was ambiguous with an over-claimed defeat.
+  - Functionalism (L95) and Russellian monism (L125): Mode Three.
+  - Label leakage: none.
+- **ai_system**: unchanged. claude-opus-5-5 was already present. ai_modified and last_deep_review set from `date -u`.
+- **Sync**: run. 13 new strings at 1/1 and 8 retired strings at 0/0, in both obsidian and hugo.
+- **Follow-ups (proposed to the driver, not tasked)**:
+  - `topics/self-reference-and-the-limits-of-physical-description` L48 ("generating both"), L74 ("*derive from* the same category-theoretic mechanism"; "value indeterminacy").
+  - `apex/authority-of-form` L90 ("under one mechanism").
+  - `concepts/causal-closure` L134 ("show that the assumption of complete physical explanation is formally unjustified"; 6 words of headroom).
+- **Output**: [[reviews/deep-review-2026-11-05-consciousness-and-the-authority-of-formal-systems]]
+- **Not committed**.
+
 ---
 
 ## 2026-11-05T09:25:42+00:00 - refine-draft
