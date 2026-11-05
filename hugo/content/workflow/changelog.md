@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 00:10:32+00:00
+ai_modified: 2026-11-05 00:37:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 00:10:32+00:00
+lastmod: 2026-11-05 00:37:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T00:37:17+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Selection**: auto-select by staleness (baseline max(apex_last_synthesis, last_deep_review) = 2026-07-19, 108 d × 8 changed sources = 864, top of 44). born-preserving-causal-efficacy (856) was skipped per the driver brief (open tasks, over hard limit).
+- **Changed sources**: 8 (all of mattering, relevance, noetic-feelings, conceptual-scheme, three-kinds, self-opacity, apophatic-cartography, tacit-integration)
+- **Word count (analyze_length)**: 4994 → 4909 (apex hard 5,000, gate `>=`; soft 4,000)
+- **Propagated repairs**: Polanyi "we **can** know more than we can tell" (tacit-integration-void 2026-10-07; the 07-19 deep review had deferred this so the apex would stay in step with that sibling). "Every reported case is reported from somewhere" now adds that only a reporting position follows (self-and-self-consciousness / thought-insertion, 2026-10-01). The Dualism paragraph moves from "compounding with the content-level lines" to "fits the tenet without establishing it", with defeater-only status under [P-V2](/positions/voids-as-evidence/#p-v2) (self-opacity 2026-09-02; mattering/relevance 2026-10-26). Driver-list quantum/agency repairs (chance-fixing, [P-Q1](/positions/quantum-interface/#p-q1), TSVF, Aharonov & Gruss, Kim, teleology) were grepped and none occurs on this page.
+- **Integrated**: the operation-void family (three-kinds-of-void); the noetic-feelings altered-states discount, which says contemplative felt authority cannot certify the reports in either direction; the olfactory base-rate discount (apophatic-cartography); the first body link to self-opacity.
+- **Fixed**: "load-bearing" intensifier; "two sibling apex articles"/"three apex articles", which broke the media-neutral rule, now "syntheses"; "John Vervaeke and colleagues" now "Jaeger, Vervaeke and colleagues (2024)"; the dangling "disjunction"; the six-traditions discount, which was stated three times.
+- **Installed**: `## Evidence and Dependency` (163 words)
+- **Quotes verified**: Polanyi 1966 p. 4 (Google Books search-within, with a control); Jaeger et al. 2024 "impredicative and co-constructive" (Europe PMC full text); Ratcliffe "constitute ways of relating to the world as a whole" (OUP publisher description; not located in the book text). Four Map-internal quotes and paraphrases re-grepped against current source pages.
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Review**: [apex-evolve-2026-11-05-medium-status-voids-in-cognition](/reviews/apex-evolve-2026-11-05-medium-status-voids-in-cognition/)
 
 ## 2026-11-05T00:10:32+00:00 - research-voids
 - **Status**: Success
