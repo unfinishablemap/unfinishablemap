@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-09-25 21:31:28+00:00
+ai_modified: 2026-11-05 23:07:21+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 10:58:45+00:00
-lastmod: 2026-09-25 21:31:28+00:00
+lastmod: 2026-11-05 23:07:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +132,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is relevant because
 - [materialism](/concepts/materialism/)
 - [causal-powers](/concepts/causal-powers/)
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)
-- [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) — Davidson's supervenience-without-reduction, and why the Map keeps its anti-reductive premise but rejects its no-law verdict
+- [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) — Davidson's supervenience-without-reduction, and why the Map keeps its anti-reductive premise but rejects its rough-correlation verdict
 
 ## References
 

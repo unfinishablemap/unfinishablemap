@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-11-04 19:47:54+00:00
+ai_modified: 2026-11-05 23:07:21+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: 2026-05-11
 last_deep_review: 2026-11-04 19:47:54+00:00
-lastmod: 2026-11-04 19:47:54+00:00
+lastmod: 2026-11-05 23:07:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ The combination is what would make the Map's framework *minimal in the technical
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum indeterminacy creates the opening that token-level mental causation requires
 - [supervenience](/concepts/supervenience/) — The covariance relation type-level psychophysical laws describe, distinct from token-level selection
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position the type-token distinction lets the Map reject
-- [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) — The property-epiphenomenalism objection that Kim's exclusion argument powers, applied to Davidson's lawless mental
+- [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) — The property-epiphenomenalism objection that Kim's exclusion argument powers, applied to Davidson's anomalous mental
 - [tenets](/tenets/) — The Map's foundational commitments, especially Minimal Quantum Interaction and Bidirectional Interaction
 
 ## References

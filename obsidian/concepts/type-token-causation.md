@@ -4,7 +4,7 @@ description: "Type-token causation distinguishes statistical type-level effects 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-11-04T19:47:54+00:00
+ai_modified: 2026-11-05T23:07:21+00:00
 last_deep_review: 2026-11-04T19:47:54+00:00
 draft: false
 topics:
@@ -154,7 +154,7 @@ The combination is what would make the Map's framework *minimal in the technical
 - [[quantum-indeterminacy-free-will]] — How quantum indeterminacy creates the opening that token-level mental causation requires
 - [[supervenience]] — The covariance relation type-level psychophysical laws describe, distinct from token-level selection
 - [[concepts/epiphenomenalism]] — The position the type-token distinction lets the Map reject
-- [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] — The property-epiphenomenalism objection that Kim's exclusion argument powers, applied to Davidson's lawless mental
+- [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] — The property-epiphenomenalism objection that Kim's exclusion argument powers, applied to Davidson's anomalous mental
 - [[tenets]] — The Map's foundational commitments, especially Minimal Quantum Interaction and Bidirectional Interaction
 
 ## References

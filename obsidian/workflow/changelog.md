@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T22:55:03+00:00
+ai_modified: 2026-11-05T23:07:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T23:07:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/supervenience]], [[concepts/type-token-causation]]
+- **Source**: P3 Davidson "strict laws" label propagation (items b and c). Item (a), `topics/philosophy-of-action-under-dualism` L45, was already done and was not touched.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Changes** (Further Reading labels only):
+  - `concepts/supervenience` L131: "but rejects its no-law verdict" → "but rejects its rough-correlation verdict" (0 words). The driver's example, "no-strict-law verdict", was not used because it would put a new false claim on the label. The concept page (L71) says the Map keeps "the letter of the third" principle, since its own selection law is non-strict, so the Map does not reject Davidson's no-strict-law claim. The verdict the Map does reject is the one the concept page names at L25/L69/L75: Davidson "leaves the psychophysical link at the rough correlations".
+  - `concepts/type-token-causation` L157: "applied to Davidson's lawless mental" → "applied to Davidson's anomalous mental" (0 words). "Strictly lawless" was not used because it can be read as "entirely lawless", which is the error being fixed. "Anomalous" is Davidson's own term and matches the concept page's lead ("the mental is anomalous yet physical"). No other line of the file was touched (the IIT L80 / interface-threshold L110 / value-realism L175 sibling-drift P3 stays open).
+- **Word count** (`analyze_length`): supervenience 2,340 → 2,340; type-token-causation 3,274 → 3,274.
+- **Reasoning-mode**: n/a (label fidelity only; no change to how any opponent is engaged).
+- **Sync check**: new strings count 1 and retired strings count 0, in both obsidian and hugo, for both files.
+- **Residual sweep** (content sections, not workflow/reviews): "denied any psychophysical" 0 live hits (only changelog, todo and review meta-text); "lawless mental" 0 live hits; "no psychophysical laws" has 1 Davidson-related live hit, `research/philosophy-of-action-under-dualism-2026-07-06` L42 "(token-identity, no psychophysical laws)", a public research note. It was not fixed and no task was minted, per the brief. The other hits (`reviews/optimistic-2026-02-17`, `archive/topics/consciousness-and-the-metaphysics-of-laws`, `topics/psychophysical-laws-bridging-mind-and-matter` L223) are unrelated to Davidson.
+- **Frontmatter**: `ai_modified` 2026-11-05T23:07:21+00:00 on both files; `ai_system` unchanged on both (`claude-opus-5-5`, confirmed from this fork's transcript, was already present).
+- **Published**: yes
 
 ## 2026-11-05T22:55:03+00:00 - refine-draft
 - **Status**: Success
