@@ -2,9 +2,9 @@
 title: "Quiddity Epiphenomenalism and the Contingency Thesis"
 description: "The contingency thesis, Alter and Coleman's name for Howell's argument, is Russellian monism's sharpest defeater: if a different quiddity could ground the same disposition, phenomenal character does no causal work in virtue of being phenomenal. A collaborative analysis of why quiddity-grounding fails and why the Map's delegatory causation does not inherit the defect."
 created: 2026-05-31
-modified: 2026-11-01
+modified: 2026-11-05
 human_modified:
-ai_modified: 2026-11-01T01:56:02+00:00
+ai_modified: 2026-11-05T19:25:33+00:00
 last_deep_review: 2026-09-08T21:17:14+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ ai_generated_date: 2026-05-31
 last_curated:
 ---
 
-The *contingency thesis* is the single most damaging objection to [[russellian-monism|Russellian monism's]] claim that consciousness does genuine causal work. Russellian monism was motivated partly by escaping [[concepts/epiphenomenalism|epiphenomenalism]]: if phenomenal *quiddities* — the intrinsic natures that categorically ground the dispositions physics describes — are what make charge charge and mass mass, then consciousness is woven into physical causation rather than left idle beside it. Robert Howell (2015) identifies the flaw — the name is Alter and Coleman's (2021); Howell's own paper never uses it — and Robinson (2018) presses the same epiphenomenalist verdict from a complementary angle. The grounding relation appears *contingent*: if quiddity Q1 grounds negative charge in the actual world but a distinct quiddity Q2 could have grounded the very same dispositional profile in another possible world, then phenomenal character makes no distinctive causal contribution *in virtue of being phenomenal*. The causal work is carried entirely by the structural-dispositional profile, which any suitable quiddity could realise. Epiphenomenalism returns wearing monist vocabulary.
+The *contingency thesis* is the single most damaging objection to [[russellian-monism|Russellian monism's]] claim that consciousness does genuine causal work. Russellian monism was motivated partly by escaping [[concepts/epiphenomenalism|epiphenomenalism]]: if phenomenal *quiddities* — the intrinsic natures that categorically ground the dispositions physics describes — are what make charge charge and mass mass, then consciousness is woven into physical causation rather than left idle beside it. Robert Howell (2015) identifies the flaw — the name is Alter and Coleman's (2021); Howell's own paper never uses it — and Robinson (2018) argues by another route that Russellian monism violates the causal intuition invoked against epiphenomenalism and that neither view is obviously better. The grounding relation appears *contingent*: if quiddity Q1 grounds negative charge in the actual world but a distinct quiddity Q2 could have grounded the very same dispositional profile in another possible world, then phenomenal character makes no distinctive causal contribution *in virtue of being phenomenal*. The causal work is carried entirely by the structural-dispositional profile, which any suitable quiddity could realise. Epiphenomenalism returns wearing monist vocabulary.
 
 This article develops *why* the contingency thesis bites, what would have to be true to escape it, and how the Map's [[delegatory-causation|delegatory causation]] avoids the defeater. One framing must be fixed at the outset to keep the argument honest: the Map does not *inherit* this specific defeater, because its causation is delegatory and interactionist rather than quiddity-grounded. That is a **structural** claim about which objections apply to which theories — not **evidence** that interactionism is true. Russellian monism's failure here is no point in favour of the Map; both views could be false. The contingency thesis tells us where one bridge is weak, not that any other bridge will bear weight.
 

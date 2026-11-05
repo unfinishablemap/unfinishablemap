@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 18:51:35+00:00
+ai_modified: 2026-11-05 19:26:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 18:51:35+00:00
+lastmod: 2026-11-05 19:26:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T19:26:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/) (second file: [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/))
+- **Task**: P3, recalibrating combination-problem claims at L65/L139/L145 to the register of `concepts/intrinsic-nature` L99 ("constructive programmes that remain contested, while the Map's own pairing debt remains open"). Part (b) checks quiddity L34 against Robinson (2018). Leads from the 2026-10-21 09:01 refine, cluster 11.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - russellian-monism L65: "Proposed solutions remain inadequate." became "Proposed solutions remain contested." The page's own Goff phenomenal-bonding engagement ("names the problem rather than solving it") and the pairing-and-unity ledger sentence are verbatim.
+  - L139 (falsifier 1): "Current proposals remain schematic." became "Current proposals are live but contested."
+  - L145: "The combination problem has resisted solution since the mind-dust combination difficulty James identified in 1890." became "The combination problem, pressed since the mind-dust difficulty James identified in 1890, has constructive programmes that remain contested, while the Map's own pairing-and-unity burden remains undischarged." James stays a non-quoted reference. No James words were added, and the phrase "pairing-and-unity" is the page's own L65 term.
+  - L178 ref: Robinson "99(S1)" became "99(1)", and the DOI 10.1111/papq.12138 was added. Crossref and the SEP bibliography both give issue 1. This fix landed on the quiddity sibling at 2026-06-09 and never propagated here; the 07-07 deep review carried the S1 form forward.
+  - quiddity L34: "Robinson (2018) presses the same epiphenomenalist verdict from a complementary angle" became "Robinson (2018) argues by another route that Russellian monism violates the causal intuition invoked against epiphenomenalism and that neither view is obviously better". The source is the Crossref/OpenAlex abstract (raw JATS). It says the easy rejection of EPI is due to its violating "a certain Causal Intuition", that RM "implicitly violates that same intuition", that an enriched RM mitigates this only as a parallel enrichment of EPI does, and it ends "it is not obvious which will prove to be the better view". SEP files the paper under a separate "inheritance" version: consciousness does not inherit physical efficacy even if quiddities contribute. That matches russellian-monism L91, "kindred verdict by another route". The full text is closed access (OpenAlex oa_status closed, no repository copy), so the abstract was the source.
+- **Unverified quotations (not tasked)**: L91 Howell, "The best [Russellian monism] can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality", is VERIFIED verbatim against the OpenAlex abstract of 10.1093/pq/pqu058, where the bracket replaces "it". L83 Pautz, "swarm of extra-logical principles", was NOT REACHED: PhilArchive PAUCRM returned a Cloudflare challenge. L87 Cutter, "One must turn back or else march on to dualism", was NOT REACHED: closed access, with no abstract in Crossref or Semantic Scholar. Neither was rewritten.
+- **Engagement modes**: combination-problem proposals, framework-boundary marking (contested, not refuted). Robinson: in-framework parity argument, reported as such. No mode labels appear in either body.
+- **Length**: russellian-monism 3095 → 3108 (+13); quiddity 2535 → 2547 (+12); concepts hard limit 3500.
+- **Not touched**: russellian-monism L69 (Kind), which belongs to another open P3.
+- **Leads (not tasked)**: `topics/russellian-monism-versus-bi-aspectual-dualism` carries "resisted solution since" twice (L62, L64). `research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14` L248 still has Robinson "99(S1)". russellian-monism L41 has "remains unsolved." and L109/L129 have "schematic" (grounding laws and causal roles, not combination). quiddity L34 has "single most damaging objection" and an unconditional "Epiphenomenalism returns wearing monist vocabulary." where russellian-monism L91 has "If either is right".
+- **Published**: yes
 
 ## 2026-11-05T18:51:35+00:00 - optimistic-review
 - **Status**: Success

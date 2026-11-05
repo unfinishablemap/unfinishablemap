@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-30 21:25:23+00:00
+ai_modified: 2026-11-05 19:25:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-15
-date: &id001 2026-10-21
+date: &id001 2026-11-05
 description: Russellian monism claims quiddities ground consciousness, but faces the
   combination problem, instability between physicalism and dualism, and fragmentation
   into incompatible variants.
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:47:17+00:00
-lastmod: 2026-10-30 21:25:23+00:00
+lastmod: 2026-11-05 19:25:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ David Chalmers distinguishes [*panprotopsychism*](/concepts/panprotopsychism/): 
 
 Both variants face the [combination problem](/concepts/combination-problem/): how do micro-experiences or proto-experiences combine into unified macro-consciousness? The problem spans subject combination (how many micro-subjects become one macro-subject), quality combination (how simple micro-phenomenal properties yield rich qualitative experience), and structure combination (how phenomenal structure tracks neural structure).
 
-Proposed solutions remain inadequate. Goff's "phenomenal bonding"—a primitive relation combining experiences—names the problem rather than solving it. His later move to *cosmopsychism* (the universe as a whole is conscious, individuals as aspects) merely reverses the difficulty: Miller (2018) argues the "decombination problem" is structurally equivalent to the combination problem. The Map avoids the *constitutive* form of both: individual conscious subjects are fundamental, neither composed of micro-subjects nor differentiated from a cosmic subject. What it does not thereby escape—how an already-unified subject couples to a distributed physical interface—is a pairing-and-unity burden the [combination problem](/concepts/combination-problem/) article treats as parallel to, not dissolved by, this move.
+Proposed solutions remain contested. Goff's "phenomenal bonding"—a primitive relation combining experiences—names the problem rather than solving it. His later move to *cosmopsychism* (the universe as a whole is conscious, individuals as aspects) merely reverses the difficulty: Miller (2018) argues the "decombination problem" is structurally equivalent to the combination problem. The Map avoids the *constitutive* form of both: individual conscious subjects are fundamental, neither composed of micro-subjects nor differentiated from a cosmic subject. What it does not thereby escape—how an already-unified subject couples to a distributed physical interface—is a pairing-and-unity burden the [combination problem](/concepts/combination-problem/) article treats as parallel to, not dissolved by, this move.
 
 ## A Family of Incompatible Proposals
 
@@ -140,13 +140,13 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 The Map's preference for interactionist dualism over Russellian monism would be undermined if:
 
-1. **The combination problem proves tractable.** A satisfying account of how micro-experiences constitute macro-consciousness—not merely naming the relation but explaining how it works—would resolve Russellian monism's main liability. Current proposals remain schematic.
+1. **The combination problem proves tractable.** A satisfying account of how micro-experiences constitute macro-consciousness—not merely naming the relation but explaining how it works—would resolve Russellian monism's main liability. Current proposals are live but contested.
 
 2. **Quantum interaction mechanisms face insurmountable objections.** If [decoherence](/concepts/decoherence/) arguments prove conclusive—demonstrating that quantum effects cannot survive in warm biological systems at scales relevant for consciousness—interactionism loses the empirical advantage that the [quantum mechanism](/tenets/#minimal-quantum-interaction) currently provides.
 
 3. **Russellian physicalism succeeds.** Brown's (2025) "Russellian physicalism" argues that categorical properties grounding physical dispositions are themselves physical, not protomental. If this variant answers the conceivability and knowledge arguments within a physicalist framework, the Map's anti-physicalist motivation weakens.
 
-**Why these conditions remain open:** The combination problem has resisted solution since the mind-dust combination difficulty James identified in 1890. The decoherence objection is serious but not decisive: recent results are suggestive but indirect—Kerskens & López Pérez (2022) report MRI signatures consistent with entangled proton spins, but this finding has been challenged on methodological grounds (Warren 2023) and not independently confirmed, and Khan et al. (2024) supplies circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness at consciousness-relevant scales. These results soften the objection without settling it, and do not establish that the decoherence condition is met or unmet. And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
+**Why these conditions remain open:** The combination problem, pressed since the mind-dust difficulty James identified in 1890, has constructive programmes that remain contested, while the Map's own pairing-and-unity burden remains undischarged. The decoherence objection is serious but not decisive: recent results are suggestive but indirect—Kerskens & López Pérez (2022) report MRI signatures consistent with entangled proton spins, but this finding has been challenged on methodological grounds (Warren 2023) and not independently confirmed, and Khan et al. (2024) supplies circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness at consciousness-relevant scales. These results soften the objection without settling it, and do not establish that the decoherence condition is met or unmet. And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
 
 ## Further Reading
 
@@ -179,7 +179,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 1. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 137-154.
 1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
 1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
-1. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(S1), 100-117.
+1. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(1), 100-117. https://doi.org/10.1111/papq.12138
 1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 1. Warren, W.S. (2023). Comment on: "Experimental indications of non-classical brain function." *Journal of Physics Communications*, 7(3), 038001.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
