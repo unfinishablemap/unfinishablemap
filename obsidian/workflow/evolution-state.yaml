@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-05T06:58:15.469261+00:00'
-session_count: 24124
+last_updated: '2026-11-05T07:08:17.252182+00:00'
+session_count: 24125
 cycle_position: 15465
 last_runs:
   add-highlight: '2026-11-04T08:13:06.563813+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-05T06:58:15.469261+00:00'
   embed-videos: '2026-11-04T23:21:45.259263+00:00'
   expand-topic: '2026-11-02T03:51:24.159398+00:00'
-  harvest-research-subjects: '2026-11-05T00:51:20.996486+00:00'
+  harvest-research-subjects: '2026-11-05T07:08:17.252182+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-03T05:17:14.445836+00:00'
   optimistic-review: '2026-11-04T18:40:32.296223+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-05'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-05'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-05'
   outcome: success
   kind: cycle
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-05'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/self-blindness/
