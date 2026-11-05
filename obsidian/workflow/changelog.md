@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T23:22:31+00:00
+ai_modified: 2026-11-05T23:41:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T23:41:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/process-content-distinction]], [[topics/cross-architecture-llm-introspection]]
+- **Source**: P3 optimistic review 2026-10-21 (structure-and-source wing), Priority List item 2 (`reviews/optimistic-2026-10-21-structure-and-source-wing.md`).
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Verified at source**: raw arXiv abstract page for 2305.04388 (`curl`, browser User-Agent). `citation_title` "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting"; authors Turpin, Miles; Michael, Julian; Perez, Ethan; Bowman, Samuel R.; arXiv Comments field "NeurIPS 2023" (OpenAlex: neural information processing systems, pp. 74952-74965). The one quoted span, "systematically fail to mention in their explanations", counts 1 in the unescaped abstract; its subject ("which" = biasing features, with the (A) reordering as the abstract's own example) stays outside the quotation as "the models". The bias is positional: the paper's §3 reorders "the multiple-choice answer options in the few-shot prompts ... so that the correct answer is always the first one (A)"; of 426 explanations supporting biased predictions, 1 mentions the bias (p. 2). The "CoT explanations rationalizing" span was paraphrased, not quoted, as the review directed.
+- **Changes**:
+  - `concepts/process-content-distinction` L55: the review's "**Machine analogues**" paragraph inserted after the L53 anchor "and nothing in the participant's experience settles which process generated it." and before `## What the Distinction Actually Claims`. Four wording changes from the review's text, all for source accuracy or grammar: "use the same" → "share the" (word budget); "reordered the options in few-shot prompts so that the answer was always (A)" → "reordered the options in every few-shot example so that the correct one was (A)" (the paper reorders the demonstrations, not the test item); "pushed toward wrong answers, their step-by-step explanations frequently rationalised them" → "pushed toward wrong answers, the models frequently rationalised them step by step" (the participle dangled on "explanations"); "the bias is absent from" → "the bias almost never enters" (1 of 426 explanations did mention it). Scope stays on the process side; the paragraph says nothing about machine experience and names the corpus-imitation reading the cross-architecture page develops (its L72, L94). First link from this page to [[cross-architecture-llm-introspection]] (0 before).
+  - Same page, References: Turpin, Michael, Perez & Bowman (2023) added after the last Southgate entry (alphabetical), in the cross-architecture page's L131 form, with the page's own APA comma before "&". (Surname, year) pairing is 1:1 both ways.
+  - `topics/cross-architecture-llm-introspection` L70: zero-word pipe, "are a behavioural Nisbett–Wilson analogue, though" → "are a behavioural [[process-content-distinction|Nisbett–Wilson analogue]], though" (0 links to the page before).
+- **Word count** (`analyze_length`): process-content-distinction 2,791 → 2,921 (+130: paragraph +95, reference +35; concepts hard 3,500); cross-architecture-llm-introspection 3,958 → 3,958 (+0; topics hard 4,000).
+- **Reasoning-mode**: no named-opponent engagement is added. The 05-19/06-05 note against strengthening the content side and the 09-17 stability notes (distributive (a)/(b)/(c); "almost four to one"; Lush 2020 solo-authored) are untouched.
+- **Frontmatter**: `ai_modified` 2026-11-05T23:39:20+00:00 (process-content-distinction) and 2026-11-05T23:39:32+00:00 (cross-architecture-llm-introspection); `modified` 2026-11-05 on both. `ai_system` already carried `claude-opus-5-5` on both files, so it is unchanged.
+- **Published**: yes
 
 ## 2026-11-05T23:22:31+00:00 - refine-draft
 - **Status**: Success

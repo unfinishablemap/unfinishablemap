@@ -2,9 +2,9 @@
 title: "The Process/Content Distinction"
 description: "Reports of what we experience earn more trust than reports of how it is produced. Nisbett & Wilson's 1977 asymmetry, used by the Map to calibrate introspection."
 created: 2026-05-19
-modified: 2026-10-25
+modified: 2026-11-05
 human_modified:
-ai_modified: 2026-10-25T22:02:01+00:00
+ai_modified: 2026-11-05T23:39:20+00:00
 last_deep_review: 2026-09-17T07:06:55+00:00
 draft: false
 topics:
@@ -51,6 +51,8 @@ The verbal-report study series collected cases where the experimenters had indep
 **Split-brain confabulation**, documented by Michael Gazzaniga and Joseph LeDoux through the 1970s and 1980s, demonstrates the same dissociation at neuroanatomical resolution. When stimuli are presented only to the right hemisphere of a callosotomy patient, the left-hemisphere [[interpreter-module-narrative-construction-unity|"interpreter"]] produces fluent verbal explanations for behaviours it did not initiate and does not have causal information about. The interpreter does not report "I don't know why I did that"; it produces confident causal narratives that are demonstrably wrong. The generative process is not introspectively available; what introspection delivers is a confabulated reconstruction.
 
 **Recent phenomenological-control evidence** sharpens the picture. Lush (2020) showed that standard controls for the rubber hand illusion do not match demand characteristics across conditions, so the illusion "may be, partially or entirely, a suggestion effect"; Lush et al. (2020) found that trait response to imaginative suggestion predicts reports of both mirror synaesthesia and the rubber hand illusion. On this reading the reports of *what is being experienced* may be genuine, while the assumption *that the experience was produced by the multisensory manipulation itself* is open to doubt — and nothing in the participant's experience settles which process generated it.
+
+**Machine analogues** share the ground-truth design. Turpin et al. (2023) reordered the options in every few-shot example so that the correct one was (A), a bias the models "systematically fail to mention in their explanations"; pushed toward wrong answers, the models frequently rationalised them step by step. Like the stocking position, the bias almost never enters the system's own account of its choice. The parallel is to the process half only. It concerns self-explanation as a function, says nothing about machine experience, and may reflect imitation of human-written rationales rather than self-monitoring as such ([[cross-architecture-llm-introspection]]).
 
 ## What the Distinction Actually Claims
 
@@ -131,3 +133,4 @@ The discipline is a craft of restraint. The content side carries genuine weight;
 1. Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy* (revised 25 April 2024). https://plato.stanford.edu/entries/introspection/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Conscious vs Unconscious Processing. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conscious-vs-unconscious-processing/
+1. Turpin, M., Michael, J., Perez, E., & Bowman, S. R. (2023). Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting. *Advances in Neural Information Processing Systems 36* (NeurIPS 2023). arXiv:2305.04388. https://arxiv.org/abs/2305.04388
