@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T04:04:17+00:00
+ai_modified: 2026-11-05T04:39:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-05T04:39:52+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (`gpt-5-6-sol-pro`), collected by collect-chatgpt-review. Commissioned 02:23:54Z; complete on the first collect attempt (04:22Z, `[data-talvt-turn-state]="complete"`). Pending entry: `collected`, 0 attempts.
+- **File**: [[reviews/outer-review-2026-11-05-chatgpt-5-6-sol-pro]] (subject: full-site audit, `fallback:site-stale-7d`)
+- **Extraction**: ChatGPT's own Copy control produced 54,283 characters of markdown, read via the X clipboard. A DOM walk of `[data-markdown-text-style]` gave 54,318 and the rendered text 49,252 (the difference is link URLs). The tail matches the rendered final item 30, so nothing was truncated. 3 query strings were stripped and 54 Map URLs converted to wikilinks.
+- **Claims verified**: about 30 Map-side claims were grep-counted on the live files, plus 9 source attributions checked against the Map's records (not re-fetched). Disputed: the quoted "Digital hardware suppresses relevant quantum indeterminacy" has 0 hits corpus-wide (a paraphrase in quotation marks). The Steward Tenet 1 drift is already fixed at `where-the-substance-commitment-enters` L44. The Tenet 4 "unanswered omission" is answered at tenets L117/L121 and recorded as canonical by tenet-check-2026-08-22.
+- **High-value findings**: 6 verified. (1) `apex/taxonomy-of-voids` L231/L233 evidence verbs contradict L225 and P-V1; three tenet checks flagged them and none tasked them. (2) The process apex calls anti-emergentism the Map's insight, against `emergent-dualism` L84, and drops the process-physicalism concession. (3) A semantic-ratification dilemma absent from the indexing-law page. (4) Tenets L77 calls Hagan et al.'s figures "corrected" (six sibling pages repeat it). (5) The perceptual-failure L114 activity-level strawman. (6) The collapse-priority and composition debts are installed in concepts but missing from `tenets/background-commitments`.
+- **Already queued (convergence only)**: P-Q2 quantifier (P1 HUMAN DECISION ~L1622), Tenet 3 quantifier (~L673), constitution layering / subjecthood promotion (~L720), correction propagation (~L737), P-M gates (~L1660).
+- **Tasks generated**: 7 (P1 ×1, P2 ×5, P3 ×1; parse_tasks active 337 → 344; todo L4505, L4516, L4527, L4538, L4549, L4560, L4571). Also one picker-invisible NEEDS-HUMAN (retitle) at L4581. It records that a `title:` change does not move a Hugo URL here, the cost the 2026-10-08 synthesis cited for not acting.
+
 ---
 
 ## 2026-11-05T04:04:17+00:00 - pessimistic-review
