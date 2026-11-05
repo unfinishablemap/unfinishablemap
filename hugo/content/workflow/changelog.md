@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 05:57:47+00:00
+ai_modified: 2026-11-05 06:13:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 05:57:47+00:00
+lastmod: 2026-11-05 06:13:00+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-05T06:13:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Source**: outer-review ChatGPT 5.6 Sol Pro 2026-11-05 §7.8, §7.9 and executive item 4; convergent Claude Fable 5.1 2026-11-05 Part 2 §4 / Part 4 item 12 (quoting the archived predecessor); synthesis 2026-11-05 C1 (P2→P1). Third raise: 2026-06-11 ChatGPT item 6 asked for the L114 fix, and refine fd02950c4b kept L114 (punctuation only) while rewriting the archived ancestor into L108's "should grade together".
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (a) L108 "If consciousness were simply emergent from neural complexity, these should grade together. Instead the components dissociate." (16 words) → "The components dissociate as a neural-complexity account predicts, cortical complexity tracking reported experience, not responsiveness (Sarasso et al., 2015)—a constraint on every theory, the Map's included." (26, +10). Sarasso 2015 checked at PubMed 26752078 (18 volunteers; ketamine gave a wakefulness-like complex response and "long, vivid dreams", propofol and xenon low complexity and no reported experience; the authors read complexity as "sensitive to the presence of disconnected consciousness") and at Crossref (10.1016/j.cub.2015.10.014, 25(23):3099–3105). Added as reference 11 and renumbered the later references 12–14 (the page has no numeric in-text cites). In the same paragraph, for budget: "But the same component-decomposition is available to a sophisticated production theorist reading each state as a different pattern of which generative subsystems remain active." (24) → "But a sophisticated production theorist reads the same states as different patterns of active generative subsystems." (16, −8), meaning kept. The verdict stays "consistent with"; no "evidence for" added. (b) L114 "but they create a puzzle for the standard picture: if the brain generates consciousness, less brain activity should always mean less consciousness." (22) → "and tell only against a single-dial picture (experience tracking overall brain activity) that no current production theory holds: predictive-processing and complexity accounts predict richer phenomenology under some reductions. Only experience during a genuine flatline would press those accounts, and that premise is contested above; what remains is the hard-problem disagreement, closer to bedrock." (53). Deleted the paragraph's last sentence, "But expanded-experience-under-degradation cases suggest the interface is doing something more complex than simple generation." (14): it was the other half of the same strawman contrast. L114 net +17.
+- **Length (analyze_length word_count)**: 3,867 → 3,907 (+40, at the ≤ +40 budget; topics hard 4,000, gate `>=`). Breakdown: L108 +2, L114 +17, reference +21.
+- **Reasoning mode**: engagement with production theories (predictive processing, neural-complexity accounts) is mixed. L114: the expanded-experience cases are predicted on production accounts' own terms, so no in-framework refutation is available, and the single-dial view nobody holds is withdrawn. The one case that would be an in-framework test (experience during a genuine flatline) is named together with its contested premise, and the residue is marked as the hard-problem disagreement at the framework boundary (Mode Three). L108: the dissociation is conceded as a confirmed prediction of the complexity account, and the interface reading is kept as compatible, with no adjudication claimed (Mode Three).
+- **Inbound quotations** (excluding reviews/ and workflow/): no live page quotes either sentence. The archived `archive/topics/perceptual-degradation-and-the-interface` L79 still carries "less brain activity should always mean less consciousness" (and so does its hugo/content/archive copy). It is an archived page, so it was not edited.
+- **Sibling (recorded, not edited, per Coordination)**: `topics/psychedelics-and-the-filter-model` L115, "That less brain activity yields richer experience strains production accounts but not Letheby's: predictive processing predicts richer phenomenology under prior-relaxation." It makes the same activity-level move, and it also places predictive processing outside the production accounts it says are strained. That page is under the blocked length NEEDS-HUMAN (todo ~L59).
+- **Coordination**: L102, L130 and L136 untouched (they are owned by the open P3 at todo ~L3636).
+- **Defect strings**: "less brain activity should always mean less consciousness" and "these should grade together" count 0/0 on this page in obsidian and hugo after sync.
+- **Attribution**: ai_system already contained claude-opus-5-5, so nothing was appended; ai_modified set.
+- **Published**: yes
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-05T05:57:47+00:00 - refine-draft
