@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T18:11:15+00:00
+ai_modified: 2026-11-05T18:23:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T18:23:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Task**: P2 Issue 3 of [[reviews/pessimistic-2026-11-05-phenomenology-of-imagination]]. The L120 Occam paragraph said in the Map's voice that planning "needs counterfactual representation, not counterfactual *experience*". That contradicts L86 (inhabitation is central to planning), L88 («Genuine deliberation requires more than computing outcomes») and L90 (representing non-actuality requires irreducible consciousness). A surplus doing no work is also the epiphenomenalist's picture, which L118 resists.
+- **Original score**: n/a (targeted task fix; `scripts/curate.py` absent)
+- **Word count**: 2883 → 2922 by analyze_length (+39; budget ≤ +40; status ok; topics soft 3000, hard 4000). 78 words remain before the soft 3,000 for the sibling tasks (Gendler 2000 ≤ +50, P3 residue ≤ +10).
+- **Changes**: (1) Zero-cost language fix: «vastly richer than any functional story requires» → «richer than the functional story, on its own terms, requires». (2) The planning and creativity premises are attributed to the functional story: «Planning needs counterfactual representation, not counterfactual *experience*. Creative problem-solving needs novel combinations, …» → «On that story, planning needs only counterfactual representation, not counterfactual *experience*; creative problem-solving needs only novel combinations, …». (3) One sentence added after the fifth-tenet sentence: «On the Map's reading, the experience does work the story leaves out—the inhabiting of alternatives that deliberation requires—and a surplus doing no work would support epiphenomenalism, not the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.» It sits after the fifth-tenet sentence so that sentence's «this surplus» still points at the explanatory surplus.
+- **Preserved**: the explanatory-surplus argument («is explanatory surplus from the materialist perspective»), the fifth-tenet link and sentence, and the closing «may be a clue rather than an anomaly». L118's bidirectional-interaction paragraph is untouched. The new sentence's «On the Map's reading» matches L118's framing of mental causation as «the conclusion under dispute».
+- **Link**: no second `the-epiphenomenalist-threat` link was added (count stays 1, at L80). The new link is to the Tenet 3 anchor.
+- **Engagement**: the functional story is now Mixed. It opens with Mode Two: by the story's own accounting, the phenomenal abundance is surplus it does not explain. It closes with Mode Three: the Map's claim that the experience does work is marked as a reading at the framework boundary, matching L118. Before the fix, the paragraph asserted the opponent's premise in the Map's own voice.
+- **ai_system**: claude-opus-5-5 was already present; no change.
+- **Out of scope, untouched**: the imaginative-resistance/Gendler section, the description, the L70/L116 «inherently self-aware» claims, the L116 not-X-it-is-Y sentence, and the L80 paragraph as the 18:10Z refine left it.
+- **Published**: yes
 
 ## 2026-11-05T18:11:15+00:00 - refine-draft
 - **Status**: Success

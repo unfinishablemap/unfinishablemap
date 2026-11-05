@@ -4,7 +4,7 @@ description: "Imagination's phenomenal character—voluntary, quasi-perceptual, 
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-11-05T18:10:03+00:00
+ai_modified: 2026-11-05T18:23:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,7 +117,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 
 **Imagination and bidirectional interaction.** Voluntary imagination exemplifies [[bidirectional-interaction]]. When you deliberately construct an imagined scenario—rotating mental objects, populating scenes, adjusting details—consciousness, on the Map's reading, directs neural activity rather than merely accompanying it. The [[mental-imagery|motor imagery evidence]]—imagined movements appear to improve physical performance—is *consistent with* a causal pathway from conscious imagination to bodily outcome, though the physicalist can respond that neural rehearsal does the work while consciousness merely accompanies it. The evidence does not adjudicate between these readings. The phenomenology of [[phenomenology-of-agency-vs-passivity|imaginative effort]]—the felt difference between actively constructing a scene and passively receiving one—is the datum an epiphenomenalist or identity theorist must accommodate, not stronger evidence than the motor-imagery findings. On the Map's reading it reflects genuine [[agent-causation|mental causation]]; that reading is the conclusion under dispute, not a datum, and [[agency-void|the felt effort cannot itself verify]] that it causes anything.
 
-**Imagination and Occam's Razor.** The phenomenology of imagination is vastly richer than any functional story requires. Planning needs counterfactual representation, not counterfactual *experience*. Creative problem-solving needs novel combinations, not the felt quality of inhabiting possibilities. The sheer phenomenal abundance of imagination—its quasi-perceptual vividness, its emotional reality, its structural constraints—is explanatory surplus from the materialist perspective. The Map's [[tenets#^occams-limits|fifth tenet]] warns against letting simplicity assumptions dismiss this surplus. The richness of imaginative experience may be a clue rather than an anomaly.
+**Imagination and Occam's Razor.** The phenomenology of imagination is richer than the functional story, on its own terms, requires. On that story, planning needs only counterfactual representation, not counterfactual *experience*; creative problem-solving needs only novel combinations, not the felt quality of inhabiting possibilities. The sheer phenomenal abundance of imagination—its quasi-perceptual vividness, its emotional reality, its structural constraints—is explanatory surplus from the materialist perspective. The Map's [[tenets#^occams-limits|fifth tenet]] warns against letting simplicity assumptions dismiss this surplus. On the Map's reading, the experience does work the story leaves out—the inhabiting of alternatives that deliberation requires—and a surplus doing no work would support epiphenomenalism, not the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. The richness of imaginative experience may be a clue rather than an anomaly.
 
 ## Further Reading
 
