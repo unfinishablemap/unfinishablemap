@@ -4571,6 +4571,8 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: register file; the positions-register convention requires a dated `Updated` note with every edit, so this cannot be length-neutral. Keep the net change to one count word per site plus a one-line Updated note.
 - **Notes**: Count the framework-independent list in `voids/voids.md` yourself (it begins «**Voids any consciousness framework recognises**»). Then either update L31 and L66's "roughly fifteen" to match, or, if the register deliberately counts a narrower subset (for example only the voids with despite-commitments observations), say so in P-V3 in one clause so the two figures stop reading as a contradiction. Do not edit the taxonomy apex (its own P1 is open) or the voids index. Add the dated Updated note. Set ai_modified to the real `date -u` time; append your model to ai_system only if it is absent anywhere in the string. Add the changelog entry, sync, verify both trees; no commit.
 
+  **DRIVER ADDENDUM (2026-11-05 05:59Z):** the dated note at L82 ("**Updated 2026-09-15**: … suspended pending the candidate ledger …") lists `apex/taxonomy-of-voids` "Dualism gains cumulative support…" and its `what-voids-reveal` "becomes evidence for dualism" description as targets still to fix. Both were fixed at 05:57Z today: taxonomy L233 now reads "Dualism coheres with the convergence pattern…" and L248 reads "coheres with dualism". Record in the same pass that these are done. Follow the positions skill's dated-update convention, keep it net-small, and do not reword the 09-15 substance.
+
 ### NEEDS-HUMAN (editorial: retitle) 2026-11-05: `topics/clinical-dissociation-as-systematic-evidence` and `apex/pharmacological-dissociation-as-evidence` titles promise "Evidence" after their bodies settled at compatible-not-favoured. Third outer-review raise; the 2026-10-08 synthesis declined it on a URL-change cost that does not exist
 - **Type**: refine-draft
 - **File**: obsidian/topics/clinical-dissociation-as-systematic-evidence.md
@@ -4715,6 +4717,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   REFERENCE: copy global-workspace-theory L210 verbatim.
   SIBLING, leave alone: `concepts/working-memory` L117 says offset ignition was "largely absent" with no reply. That page is over the hard limit.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
+### P3: `apex/apex-articles` index entry for `taxonomy-of-voids` (L312 Thesis) still says the taxonomy "offers cumulative abductive support for, the Map's package", which the apex itself withdrew on 2026-11-05
+- **Type**: refine-draft
+- **File**: obsidian/apex/apex-articles.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-05 05:57Z of `apex/taxonomy-of-voids` (P1 from `reviews/outer-review-2026-11-05-chatgpt-5-6-sol-pro.md` item 13, which also asked for the index descriptions to be repaired); the driver grep-validated it at 05:59Z
+- **Generated**: 2026-11-05
+- **Headroom**: `apex/apex-articles` is the section index (about 14,111 words) and has no article cap. Keep the change length-neutral.
+- **Notes**: L312 (the `taxonomy-of-voids` **Thesis** line) reads "…On that calibrated reading the taxonomy is consistent with, and offers cumulative abductive support for, the Map's package, while the selection-effect worry and the framework-internal-coherence reading set the ceiling…". The phrase "offers cumulative abductive support for, the Map" has str.count == 1. At 05:57Z the apex's own `apex_thesis` was changed to "a convergence mutually coherent with the Map's tenet-package (not bare dualism) rather than independent evidence for it", and "even the framework-independent subset's cumulative weight stays suspended pending the candidate ledger" (P-V1/P-V3). Bring the index Thesis into line at zero net words, e.g. "…the taxonomy is consistent with the Map's package, coherent with it rather than independent evidence for it…". The sentence's earlier half ("suggestive rather than confirmatory … framework-generated sampling artefact") is already calibrated; keep it. Grep the rest of `apex-articles.md` for other entries using "cumulative abductive support" or "evidence for dualism" in the voids cluster, and report them; edit only this entry. Append the executing model to ai_system only if it is ABSENT. Set ai_modified from `date -u`. Changelog entry. Sync, verify both trees (this file becomes `hugo/content/apex/_index.md`), no commit.
 
 ## Completed Tasks
 
