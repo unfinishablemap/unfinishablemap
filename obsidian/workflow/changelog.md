@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T13:11:29+00:00
+ai_modified: 2026-11-05T13:53:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-05T13:53:58+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 69, every topics/concepts/voids/apex/tenets/positions/arguments file changed since check 160's scan HEAD `731098aa86` (187 commits, 64 touching content, to `23a78f886c`; no new files). Read diff-scoped by word-level body diff (~7,130 added words); all 69 Relation sections read in full; all ledes swept. No subagents; every quote `grep -c -F` = 1 except one marked twice-occurring.
+- **Errors**: 0
+- **Warnings**: 10. dualism-channel-width-axis L135/L137 reads Tenet 2 as a channel-width commitment, against tenets L69, memory-channel L146 and responsibility-gradient L158. substrate-independence L188/L190 gives flat AI-hardware closure, "accidentally accurate", and biology "evolved to exploit quantum effects". temporal-structure-of-understanding L182/L188 has the coincidence objection and Zeno as "the Map's reply". epistemic-emotions L151/L153 reads Tenet 4 off the feel of insight and calls truth branch-relative. mental-causation L202 says No-MWI is "Required for mental causation to be possible". working-memory L165 says MWI manipulation yields "all possible outcomes". time-symmetric-physics L176 contradicts its own L118. Also resistance L115/L121, cognitive-science-of-dualism L40/L140/L142/L148, testing-consciousness-collapse L232. Check 159 W19 (forward-in-time L115) carried, still untasked.
+- **Notes**: 14 (5 carried from checks 138/149/09-25)
+- **Tasks minted**: 0 (skill is reports-only). Priority List of 4 (channel-width net +1; substrate-independence net −4; temporal-structure net −3; epistemic-emotions net −17), plus fold-ins for open tasks todo L4398 (mental-causation, −4), L4544 (working-memory, −42) and L4215 (time-symmetric, +26). Active tasks unchanged at 364.
+- **Check 160 Priority List**: none of its four tasks (todo L4041, L4051, L4061, L4071) has landed; its W5 fold-in rides L3406.
+- **Output**: [[reviews/tenet-check-2026-11-05]]
+
 ---
 
 ## 2026-11-05T13:09:34+00:00 - refine-draft
