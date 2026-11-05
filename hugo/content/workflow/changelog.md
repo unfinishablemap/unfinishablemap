@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 09:11:12+00:00
+ai_modified: 2026-11-05 09:25:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 09:11:12+00:00
+lastmod: 2026-11-05 09:25:42+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-05T09:25:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/)
+- **Source**: outer-review ChatGPT 5.6 Sol Pro 2026-11-05 §3.2 "The semantic-ratification dilemma" and §3.4 "Energetic minimality implies no nomological minimality", items 9–10 ([outer-review-2026-11-05-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-05-chatgpt-5-6-sol-pro/)), P2 queue task
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: one new paragraph (L99), inserted after the L97 anchor "This page recommends that the register consider a semantic-matching entry alongside [P-SC2](/positions/subject-census/#p-sc2), and adds no position itself." It states the reviewer's three horns on a matching relation *M(C, aᵢ)*. (1) If the brain computes M, consciousness only ratifies. That is the authority-only shape, under which accuracy "rests on the lawful match" (`trumping-preemption` L81, count 1), so given L97's content-sensitivity requirement this horn cannot be the whole account. The inference is conditional on the Map's own requirement and is not a refutation of a rival. (2) If the subject supplies M, the interface is richer than one that "acts only through the act of selection itself" (`selection-only-channel` L123, count 1). That page was not edited. (3) If M is a primitive law, it must encode a large, plastic mapping. The consequence is stated once: Tenet 2's "minimal" means empirical-constraint minimality (`tenets.md` L69), and nomological, semantic and coordination complexity is a separate cost that Tenet 5 does not waive. Links: [trumping-preemption](/concepts/trumping-preemption/), [selection-only-channel](/concepts/selection-only-channel/), [selection-criterion-problem](/concepts/selection-criterion-problem/) (piped on "primitive", zero cost), `tenets#^minimal-quantum-interaction`, and [interface-specification-programme](/apex/interface-specification-programme/) (piped on "bit-rate alone", pointing at L146 "Minimality cannot rest on bit-rate alone", count 1; that apex is 5,106/5,000 and was not edited).
+- **Calibration**: a debt statement, framework-internal. No law is claimed to exist (horn 3 is conditional) and epiphenomenalism is not conceded (L97 untouched). No position was added and no positions page was edited (the [P-SC2](/positions/subject-census/#p-sc2) P3 at todo ~L2859 stays separate). Banned constructions: 0 "load-bearing", 0 "This is not X. It is Y.". The next paragraph ("The typing conclusion restated:") has no pronoun to strand.
+- **Reasoning modes**: n/a. There is no named-opponent reply; the dilemma is a framework-internal debt statement.
+- **Stability notes honoured**: the 10-28 deep and cross reviews (indexing-law packaging, the open general-versus-haecceitous fork, the Shape-A regress as [P-SC2](/positions/subject-census/#p-sc2)'s debt). None of those passages was touched.
+- **Word count**: 3078 → 3226 (+148; analyze_length; concepts hard 3500; budget ≤ +150). Remaining headroom 273 (hard − 1 − count).
+- **ai_system**: claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5 (transcript model claude-opus-5-5, previously absent). modified 2026-11-05; ai_modified 2026-11-05T09:25:42+00:00.
+- **Sync**: 9 distinctive strings at 1/1 in obsidian and hugo. Five links render: `/concepts/trumping-preemption/`, `/concepts/selection-only-channel/`, `/concepts/selection-criterion-problem/`, `/tenets/#minimal-quantum-interaction` (the span id is present) and `/apex/interface-specification-programme/`.
+- **Follow-up (not tasked)**: (a) ISP L146 "Minimality cannot rest on bit-rate alone while the mapping that assigns willed meanings to physical options is unspecified." (count 1). Review item 9 asks for the dilemma there as well; this is blocked by length (5,106/5,000). (b) `selection-only-channel` L123 "The interface acts only through the act of selection itself." (count 1) carries no conditional for horn 2 (page at 3,133/3,500). (c) The [P-SC2](/positions/subject-census/#p-sc2) P3 at todo ~L2859 can cite the dilemma for its candidate semantic-matching entry.
+- **Published**: yes
+- **Not committed**.
+
 ---
 
 ## 2026-11-05T09:11:12+00:00 - refine-draft

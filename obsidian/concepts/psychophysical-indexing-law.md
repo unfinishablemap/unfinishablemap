@@ -2,9 +2,9 @@
 title: "The Psychophysical Indexing Law"
 description: "Before any transition law, the interface must say whose state, which subsystem, which candidate, when, and how many. Six indexing components and the debt the Map books, traced with human-AI review."
 created: 2026-10-28
-modified: 2026-10-28
+modified: 2026-11-05
 human_modified:
-ai_modified: 2026-10-28T21:11:21+00:00
+ai_modified: 2026-11-05T09:25:42+00:00
 last_deep_review: 2026-10-28T21:11:21+00:00
 draft: false
 topics:
@@ -30,7 +30,7 @@ related_articles:
   - "[[psychophysical-indexing-law-2026-10-28]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-10-28
 last_curated:
 ---
@@ -95,6 +95,8 @@ The Map holds the *requirement*: once conscious-state conditionals do causal wor
 What it has not decided is the shape of the law it owes. P-I3 amounts to a haecceitist commitment about subjects, and Shape C fits it directly. But a haecceitous pairing law makes census and eligibility unanswerable in principle, turning P-SC2 from a repayable obligation into a permanent registered cost, one of that entry's own named shift conditions. A general law of Shape A or B keeps the debt repayable and testable, but must say what the general pairing properties are — P-CS7's "architectural adequacy" — and so inherits the duplicate and the copies question. The corpus has not chosen; this page presents the fork rather than resolving it.
 
 Semantic matching is the component with no home, and where the Map's commitments are least negotiable. [[selection-only-channel]] states the requirement: reliable report "needs the experience's content to fix *which* candidate is realised", so that report varies with experience, base held fixed; [[trumping-preemption]] finds that an authority-only law cannot meet it; [[self-stultification]] is what fails otherwise. The Map therefore *requires* content-sensitivity in the channel, in the wording of Tenet 3's influence "toward patterns that express its content", and does not concede that the channel might be epiphenomenal. Its concession is narrower: no page states the law assigning contents to candidates, and no position books that one must exist. This page recommends that the register consider a semantic-matching entry alongside P-SC2, and adds no position itself.
+
+The 2026-11-05 ChatGPT outer review turns the unstated law into a *semantic-ratification dilemma*. Some relation *M(C, aᵢ)* must fix which brain-prepared candidate expresses content *C*. If the brain computes *M*, consciousness only ratifies, with token authority over a semantically ranked menu: the authority-only shape, under which accuracy "rests on the lawful match" ([[trumping-preemption]]). Given the content-sensitivity required above, this horn cannot be the whole account. If the subject supplies *M*, the interface carries a structured content-to-physical mapping, richer than one that "acts only through the act of selection itself" ([[selection-only-channel]]). If *M* is a [[selection-criterion-problem|primitive]] psychophysical law, it must encode a large, plastic mapping across learning histories, representational schemes and contexts. Whichever holds, Tenet 2's "minimal" means [[tenets#^minimal-quantum-interaction|empirical-constraint minimality]], no detectable perturbation; the law's nomological, semantic and coordination complexity is a separate cost the Map must count, which Tenet 5 does not waive and [[interface-specification-programme|bit-rate alone]] cannot measure.
 
 The typing conclusion restated: the two-subject model waits on a composition rule, and whether one can preserve the Born marginal depends on which quantifier [[positions/quantum-interface|P-Q2]] settles on, an open item this page does not decide.
 
