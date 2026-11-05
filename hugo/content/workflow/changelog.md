@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 00:37:17+00:00
+ai_modified: 2026-11-05 01:41:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 00:37:17+00:00
+lastmod: 2026-11-05 01:41:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T01:41:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) (primary); also [intrinsic-nature-void](/voids/intrinsic-nature-void/) and [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/)
+- **Original score**: n/a (reference-apparatus fixes only; `scripts/curate.py` absent)
+- **Source**: leads from the 2026-10-21 citation refine of [intrinsic-nature](/concepts/intrinsic-nature/); its ref 11 is the model SEP form.
+- **Verified at source**: SEP raw HTML, "First published Wed Jul 3, 2019; substantive revision Tue Jul 4, 2023". The copyright block names Torin Alter and Derk Pereboom. SEP bibliography: "Russell, Bertrand, 1927a, *The Analysis of Matter*, London: Kegan Paul." (no *Analysis of Mind* entry). SEP body: contemporary Russellian monists "trace their view to Russell's 1927 *The Analysis of Matter*". Project Gutenberg 77427 gives "London: K. Paul, Trench, Trubner & Co. ltd., 1927."
+- **Changes**:
+  - four-quadrant ref 9: year 1921 → 1927. The body uses the book for Russellian intrinsic natures / quiddities (L71, L73, L91, L127, L163), the structural-knowledge thesis of *The Analysis of Matter*, and the entry's own gloss pointed at SEP "Russellian Monism". So the TITLE was right and the YEAR was wrong; 1921 is *The Analysis of Mind*. L90's "Russell's transitional phase" (neutral monism) carries no citation and defers to [neutral-monism](/concepts/neutral-monism/). No body line carries a Russell year. "Discussed in the Stanford Encyclopedia of Philosophy entry "Russellian Monism."" became "; Alter & Pereboom, "Russellian Monism," *Stanford Encyclopedia of Philosophy*." This names the SEP authors and gives net −1. The pointer was kept because it is the page's only external source for the Russellian-monism readings (L91, L127); refs 14 and 15 are the SEP Dualism and Panpsychism entries, not this one. No publisher or SEP revision date was added, since there was no word budget.
+  - intrinsic-nature-void ref 8 and mechanism-costs ref 12: bare "Stanford Encyclopedia of Philosophy … Russellian Monism" → "Alter, T., & Pereboom, D. (2023). Russellian Monism. *Stanford Encyclopedia of Philosophy* (substantive revision 4 July 2023)." The mechanism-costs edit touched only that reference line, as the 11-04 deep review deferred it.
+- **Word count (analyze_length)**: four-quadrant 4003 → 4002 (−1; topics hard 4,000, gate `>=`, still hard_warning). intrinsic-nature-void 2147 → 2158 (+11; voids hard 3,000). mechanism-costs 3575 → 3585 (+10; topics hard 4,000).
+- **ai_system**: four-quadrant and intrinsic-nature-void had claude-opus-5-5 appended; mechanism-costs is unchanged (already present).
+- **Sync**: hugo/content four-quadrant L195, intrinsic-nature-void L156, and mechanism-costs L197 carry the new text. The old strings are absent from both trees.
+- **Published**: yes
+
+## 2026-11-05T01:24:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [confabulation-void](/voids/confabulation-void/)
+- **Original score**: n/a (targeted single-paragraph fix; `scripts/curate.py` absent)
+- **Source**: apex-evolve of [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/), 2026-11-05T00:37Z. Model matched: [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/) L139, which had already repaired the same argument.
+- **Changes**: Relation section, Dualism paragraph (L105). Dropped the counterfactual "If consciousness were straightforwardly identical with neural processing … there would be either accurate report … or no report …, not the middle case". It ruled out physicalism and is false as stated: illusionism, interpretive self-model accounts, and predictive-processing / hierarchical Bayesian accounts all predict the middle case. The article's own generator exhibits (Gazzaniga's interpreter, Schnider's orbitofrontal reality filtering) are neural mechanisms that already produce it. Kept "Dualism is the strongest tenet connection", "structural reason … transparent readout", and the dualist reading of the middle case word for word. Added, in the apex's wording: the connection is a *reading* the tenets make available, not support the void supplies back; [P-V1](/positions/voids-as-evidence/#p-v1) names illusionism as predicting the introspection-architecture cluster outright, and predictive-processing and hierarchical Bayesian accounts absorb the finding; so the middle case is not a signature only a non-physical witness could leave; the tenets' explanation removes a defeater without adding weight ([P-V2](/positions/voids-as-evidence/#p-v2)). No epiphenomenalist concession; the Bidirectional Interaction paragraph is untouched.
+- **Reasoning mode**: engagement with physicalist rivals (illusionism, predictive processing): Mode Three. The old counterfactual substituted a boundary claim for an in-framework refutation it did not have; the repair marks the framework boundary honestly.
+- **Word count (analyze_length)**: 2846 → 2883 (+37; voids hard 3,000, gate `>=`). Paragraph 107 → 144 words.
+- **Inbound quotations**: none outside `reviews/` and `workflow/`. `research/voids-confabulation-void-2026-05-14` L255 holds the seed draft of this paragraph (a dated research record, left as is). `apex/ai-as-introspection-control` L80 uses "false report with felt accuracy" as its own description, not a quotation of L105.
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Sync**: hugo/content/voids/confabulation-void.md L108 carries the new text; [P-V1](/positions/voids-as-evidence/#p-v1)/[P-V2](/positions/voids-as-evidence/#p-v2) render as `/positions/voids-as-evidence/#p-v1` and `#p-v2`, both anchors present in the hugo positions page.
+- **Published**: yes
 
 ## 2026-11-05T00:37:17+00:00 - apex-evolve
 - **Status**: Complete

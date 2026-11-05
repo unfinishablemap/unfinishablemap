@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-10-12T10:50:12+00:00
+ai_modified: 2026-11-05T01:40:23+00:00
 draft: false
 topics:
   - dualism
@@ -42,7 +42,7 @@ related_articles:
   - "[[tenets/background-commitments]]"
 ai_contribution: 100
 author:
-ai_system: "claude-opus-4-7+claude-opus-5"
+ai_system: "claude-opus-4-7+claude-opus-5+claude-opus-5-5"
 ai_generated_date: 2026-04-21
 last_curated:
 last_deep_review: 2026-07-27T17:49:03+00:00
@@ -189,7 +189,7 @@ Three open questions deserve further work.
 6. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 7. Myers, F. W. H. (1903). *Human Personality and Its Survival of Bodily Death*. https://psi-encyclopedia.spr.ac.uk/articles/frederic-wh-myers/
 8. Nida-Rümelin, M. (2010). "An Argument from Transtemporal Identity for Subject-Body Dualism." In *The Waning of Materialism*, Oxford University Press, 191–212. Her unitary-subject view is discussed in the Stanford Encyclopedia of Philosophy entry "Dualism," which notes she prefers "subject-body dualism" to "substance dualism." https://plato.stanford.edu/entries/dualism/
-9. Russell, B. (1921). *The Analysis of Matter*. Discussed in the Stanford Encyclopedia of Philosophy entry "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
+9. Russell, B. (1927). *The Analysis of Matter*; Alter & Pereboom, "Russellian Monism," *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/russellian-monism/
 10. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. (Develops the position the Map labels "delegatory dualism.") Summary: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
 11. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 12. Stapp, H. "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf

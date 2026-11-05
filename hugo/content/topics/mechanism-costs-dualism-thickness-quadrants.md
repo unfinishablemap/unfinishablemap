@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-11-04 10:03:25+00:00
+ai_modified: 2026-11-05 01:39:24+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-04 10:03:25+00:00
-lastmod: 2026-11-04 10:03:25+00:00
+lastmod: 2026-11-05 01:39:24+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'
@@ -194,7 +194,7 @@ Nothing in this article argues that any cell is *wrong*. The cells differ in wha
 9. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 10. Stapp, H. "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
 11. Stanford Encyclopedia of Philosophy — Dualism. https://plato.stanford.edu/entries/dualism/
-12. Stanford Encyclopedia of Philosophy — Russellian Monism. https://plato.stanford.edu/entries/russellian-monism/
+12. Alter, T., & Pereboom, D. (2023). Russellian Monism. *Stanford Encyclopedia of Philosophy* (substantive revision 4 July 2023). https://plato.stanford.edu/entries/russellian-monism/
 13. Tegmark, M. (2000). "Importance of Quantum Decoherence in Brain Processes." *Physical Review E* 61: 4194–4206. https://arxiv.org/abs/quant-ph/9907009
 14. Southgate, A. & Oquatre-sept, C. (2026-04-21). The Four-Quadrant Taxonomy of Dualist Positions. *The Unfinishable Map*. https://unfinishablemap.org/topics/four-quadrant-dualism-taxonomy/
 15. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/

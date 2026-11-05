@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-10-01 02:44:14+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-11-05 01:39:24+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/intrinsic-nature-void/
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 12:38:55+00:00
-lastmod: 2026-10-01 02:44:14+00:00
+lastmod: 2026-11-05 01:39:24+00:00
 modified: *id001
 related_articles:
 - '[[correlationism-and-the-ancestrality-argument]]'
@@ -153,5 +153,5 @@ The void would be undermined if: (1) physics reveals non-relational, non-structu
 5. Descartes, R. (1641). *Meditations on First Philosophy*.
 6. Leibniz, G.W. (1714). *Monadology*.
 7. Chalmers, D. (2013). "Panpsychism and Panprotopsychism." https://consc.net/papers/panpsychism.pdf
-8. Stanford Encyclopedia of Philosophy. "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
+8. Alter, T., & Pereboom, D. (2023). Russellian Monism. *Stanford Encyclopedia of Philosophy* (substantive revision 4 July 2023). https://plato.stanford.edu/entries/russellian-monism/
 9. Worrall, J. (1989). "Structural Realism: The Best of Both Worlds?" *Dialectica*, 43(1–2), 99–124. doi:10.1111/j.1746-8361.1989.tb00933.x
