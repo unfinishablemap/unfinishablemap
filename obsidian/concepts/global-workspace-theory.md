@@ -4,7 +4,7 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-10-15T11:34:18+00:00
+ai_modified: 2026-11-05T03:03:22+00:00
 draft: false
 last_deep_review: 2026-07-25T14:46:17+00:00
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 ---
@@ -115,7 +115,7 @@ The GNW theorists draw the opposite conclusion from the same result, in the very
 
 ## Working Memory as Workspace Content
 
-The global workspace is essentially [[working-memory|working memory]] operating at a global scale. Baddeley's episodic buffer is particularly significant—it performs the binding that GWT's ignition broadcasts globally. Baddeley himself frames this in functionalist terms, but the Map reads his language differently: his formulation that consciousness *accesses* bound representations fits naturally with a dualist interpretation where the workspace provides content and something beyond the neural workspace does the accessing. This is the Map's gloss, not Baddeley's intention—yet the explanatory gap between binding and experiencing the bound content is precisely what dualism claims to address.
+The global workspace is essentially [[working-memory|working memory]] operating at a global scale. Baddeley's episodic buffer is particularly significant—it passively stores bound representations (Baddeley et al. 2010) that GWT's ignition broadcasts globally. Baddeley himself frames this in functionalist terms, but the Map reads his language differently: his formulation that consciousness *accesses* bound representations fits naturally with a dualist interpretation where the workspace provides content and something beyond the neural workspace does the accessing. This is the Map's gloss, not Baddeley's intention—yet the explanatory gap between binding and experiencing the bound content is precisely what dualism claims to address.
 
 A telling asymmetry complicates GWT's equation of workspace presence with consciousness: **maintenance can be unconscious while manipulation requires consciousness**. On the activity-silent account of working memory, information can be held in latent synaptic traces rather than sustained firing, so maintenance need not be accompanied by awareness—though that account does not by itself establish that *using* the information requires conscious reactivation. Streicher et al.'s 2025 reanalysis of 80 fMRI conditions bears on the other half: only 10% of claimed unconscious processing effects survive rigorous methodology, suggesting consciousness is functionally necessary for novel combinations (see [[conscious-vs-unconscious-processing]]).
 
@@ -137,7 +137,7 @@ GWT maps onto Tulving's three-memory taxonomy through workspace access levels:
 | [[semantic-memory\|Semantic]] | Retrieval to workspace | Noetic—aware of knowing |
 | [[episodic-memory\|Episodic]] | Full binding + broadcast | Autonoetic—re-experiencing |
 
-Implicit memory operates through local processors without workspace ignition. Semantic retrieval makes facts globally available without full reconstructive binding. Episodic memory requires the episodic buffer's binding, integration across cortical areas, and global broadcast. The phenomenological hierarchy tracks workspace access—but correlation isn't constitution. GWT explains *when* memory types engage workspace processes, not *why* bypass feels like fluent action while broadcast feels like re-experiencing.
+Implicit memory operates through local processors without workspace ignition. Semantic retrieval makes facts globally available without full reconstructive binding. Episodic memory requires full binding, integration across cortical areas, and global broadcast. The phenomenological hierarchy tracks workspace access—but correlation isn't constitution. GWT explains *when* memory types engage workspace processes, not *why* bypass feels like fluent action while broadcast feels like re-experiencing.
 
 ### Filter Theory Integration
 
@@ -202,6 +202,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
+1. Baddeley, A.D., Allen, R.J., & Hitch, G.J. (2010). Investigating the episodic buffer. *Psychologica Belgica*, 50(3-4), 223-243. https://doi.org/10.5334/pb-50-3-4-223
 1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 1. Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.

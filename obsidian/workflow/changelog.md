@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T02:08:53+00:00
+ai_modified: 2026-11-05T03:04:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T03:04:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/working-memory]] (primary); also [[concepts/global-workspace-theory]] and [[concepts/temporal-structure-of-understanding]]
+- **Original score**: n/a (targeted empirical-currency fix; `scripts/curate.py` absent)
+- **Source**: P2 from the 2026-11-05 02:12Z deep review of [[topics/language-recursion-and-consciousness]]. Three concept pages still said the episodic buffer performs binding, a role Baddeley, Allen & Hitch (2010) withdrew.
+- **Verified at source**: Baddeley 2000, PubMed 11058819 (efetch abstract, raw text): "Conscious awareness is assumed to be the principal mode of retrieval from the buffer" is verbatim, and the abstract also has the buffer "capable of binding information ... into a unitary episodic representation". Baddeley, Allen & Hitch 2010, publisher page via doi.org/10.5334/pb-50-3-4-223 (raw HTML): "In contrast to our initial assumption, the episodic buffer appears to be a passive store, capable of storing bound features and making them available to conscious awareness, but not itself responsible for the process of binding." is verbatim. The citation meta gives vol. 50, issue 3-4, and pages 223-243, with authors Baddeley, Allen and Hitch.
+- **Changes**:
+  - working-memory: L53 "It performs binding—integrating features…" → `It holds bound representations but is "not itself responsible for the process of binding" (Baddeley et al. 2010).` The same paragraph's quote "accessed by conscious awareness" is absent from both abstracts; pessimistic-2026-08-27 flagged the identical phrase on temporal-structure, and it was fixed there on 09-01. It is now the verified 2000 quote, with its "assumed". L51 gloss "(multimodal integration)" → "(multimodal storage)", at zero words. L123 "WM binding in the episodic buffer resembles" → "WM binding resembles". 2010 reference added (model form copied from language-recursion).
+  - working-memory trims, which pay for the reference: "Some clarifications:" (−2); "The phenomenon is real; the question is what explains it." (−10); "Working memory research supports key positions:" (−6); "What makes manipulation specifically consciousness-requiring?" (−5); ", not just more of the same" (−6). Each was checked against `reviews/` and `git log -S`. All five trace to expand-topic, coalesce or 01-21 deep-review authoring, and no review guards any of them.
+  - global-workspace-theory: L118 "it performs the binding that GWT's ignition broadcasts globally" → "it passively stores bound representations (Baddeley et al. 2010) that GWT's ignition broadcasts globally". Once the buffer stopped binding, "broadcasts the binding" no longer parsed; the cite sits before "that" so 2010 is not credited with the GWT clause. L140 "requires the episodic buffer's binding" → "requires full binding", matching the table row "Full binding + broadcast". 2010 reference added.
+  - temporal-structure-of-understanding: the L109 dash clause → `a working-memory store for bound multimodal information, its binding role [[language-recursion-and-consciousness|withdrawn in 2010]]`. The page is over limit, so no reference entry was added; the piped link leads to the page that carries the verified quote and the full reference.
+- **Word count (analyze_length)**: working-memory 3747 → 3746 (−1; concepts hard 3,500, gate `>=`, still over). global-workspace-theory 3428 → 3448 (+20, at the +20 cap). temporal-structure-of-understanding 3893 → 3893 (0; still over).
+- **Inbound quotations**: no live page quotes any reworded sentence (`reviews/` and `workflow/` excluded). Only the archived pre-coalesce original carries the trimmed lines.
+- **Left alone (out of scope)**: [[research/consciousness-working-memory-2026-01-17]] L40 still quotes "accessed by conscious awareness" and is the likely seed. On temporal-structure, L109's next step ("If binding is, as a rule, conscious binding…") now rests on a buffer that stores rather than binds. The paragraph already calls the stipulation "compatible with the article's claim without establishing it", so it was not touched.
+- **ai_system**: appended claude-opus-5-5 to all three files; it was absent from each.
+- **Published**: yes
 
 ## 2026-11-05T02:08:53+00:00 - deep-review
 - **Status**: Success

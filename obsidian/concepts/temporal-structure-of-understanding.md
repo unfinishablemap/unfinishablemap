@@ -4,7 +4,7 @@ description: "The click of comprehension has temporal phenomenology: suddenness,
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-09-01T19:41:10+00:00
+ai_modified: 2026-11-05T03:03:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[noetic-feelings-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-01-22
 last_curated: null
 last_deep_review: 2026-09-01T19:41:10+00:00
@@ -106,7 +106,7 @@ Understanding is paradigmatically manipulative. Grasping how premises entail con
 
 The click of understanding may reflect successful binding—the moment when separately maintained elements achieve [[unity-of-consciousness|phenomenal unity]]. Before the click, elements are processed serially but not integrated. The click marks integration: the elements become a whole that can be grasped as such.
 
-Baddeley's (2000) episodic buffer—the working memory component that binds multimodal information into a unitary episodic representation—is introduced with the stipulation that "conscious awareness is assumed to be the principal mode of retrieval from the buffer." This is a posit about the default route of retrieval, not a finding, and it is compatible with the article's claim without establishing it. If binding is, as a rule, conscious binding, then the click is the phenomenal signature of successful integration. Understanding isn't just having bound representations; it's the experience of binding achieving completion.
+Baddeley's (2000) episodic buffer—a working-memory store for bound multimodal information, its binding role [[language-recursion-and-consciousness|withdrawn in 2010]]—is introduced with the stipulation that "conscious awareness is assumed to be the principal mode of retrieval from the buffer." This is a posit about the default route of retrieval, not a finding, and it is compatible with the article's claim without establishing it. If binding is, as a rule, conscious binding, then the click is the phenomenal signature of successful integration. Understanding isn't just having bound representations; it's the experience of binding achieving completion.
 
 ## The Temporal Structure of Recursive Processing
 
