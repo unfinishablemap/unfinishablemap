@@ -4524,27 +4524,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-05
 - **Notes**: **OPERATOR DECISION. Picker-invisible by design; DO NOT mint a P0–P3 from this.** The homepage is human-authored (ai_contribution 40, human_modified 2026-05-03), so automation should not rewrite it. The reviewer argues that "might be" describes an open question, not the view the Map commits to. Paired with L39's «This is a methodological choice, not dogma.», it leaves unclear whether Tenet 1 is a methodological posit or a categorical claim. Driver grep at 05:02Z: L37 «the view that consciousness might be something more than neurons firing» (count 1); `tenets/tenets.md` L53 «consciousness (or mind, or experience) is not reducible to physical processes» (count 1). Earlier raises of the "methodological choice" framing made a different point, that the tenets act as a firewall: `reviews/outer-review-2026-05-04-claude-opus-4-7.md` L62 and `reviews/outer-review-2026-07-20-gemini-2-5-pro.md` L133. One option is "the view that consciousness is something more than neurons firing", keeping L39 as the reason for starting there.
 
-### P2: `concepts/conscious-vs-unconscious-processing` L121 calls blindsight "the clearest evidence" that consciousness adds functionality and builds the L140 Functionality Gap on it, but never mentions Phillips's (2021) degraded-conscious-vision reading, which `concepts/blindsight` L84 and six other pages treat as live
-- **Type**: refine-draft
-- **File**: obsidian/concepts/conscious-vs-unconscious-processing.md
-- **Status**: pending
-- **Source**: outer-review (Gemini 3.1 Pro 2026-11-05, §"The Blindsight Contradiction", weakness 3; driver grep-verified 05:12Z: Phillips 0 hits and "degraded" 0 hits on this page, while Phillips 2021 is cited on 7 other live pages. Gemini OVERSTATES the source: Phillips has not "successfully modeled" blindsight, since Michel & Lau 2021 contest it)
-- **Generated**: 2026-11-05
-- **Review file**: `reviews/outer-review-2026-11-05-gemini-3-1-pro.md`
-- **Headroom**: 3,480 of 3,500 by analyze_length at 2026-11-05T05:14Z (concepts hard 3,500, gate `>=`): 19 usable words; split is prose ~2,843 + apparatus ~639. Budget: net <= +15 words including any new reference entry.
-- **Notes**: BUDGET: net <= +15 words (3,480 of the concepts hard 3,500, gate `>=`), including any reference entry. Offset additions by trimming inside the same sections.
-  Phillips (2021) is cited on `concepts/blindsight` L84/L234, `concepts/visual-consciousness`, `concepts/capability-division-in-vision`, `topics/perceptual-failure-and-the-interface`, `topics/logic-of-dissociation-inference`, `topics/neurological-dissociations-as-interface-architecture` and `voids/capability-division-problem`. `topics/perceptual-failure-and-the-interface` L84/L168 already records the Phillips / Michel & Lau exchange as live and contested. The defect is this page's silence, not a failure to adopt Phillips.
-  OLD strings, each str.count 1:
-  (1) L121 «[blindsight](/concepts/blindsight/) provides the clearest evidence that consciousness adds functionality beyond unconscious processing.»
-  (2) L142 «Blindsight reveals that consciousness isn't a passive observer of processing that would occur anyway.»
-  (3) L223 «2. **Blindsight achieved spontaneous action.** If blindsight patients could spontaneously use blind-field information without prompting, consciousness would be less functionally necessary. Current evidence: they cannot.»
-  FIX (a), at L121: scope "the clearest evidence" to the orthodox reading. Add one short sentence: Phillips (2021) reads blindsight as qualitatively degraded conscious vision under a conservative report criterion, and Michel & Lau (2021) dispute this. On his reading the gap tracks signal quality rather than consciousness, so the page's case would rest on the masking evidence (§"The 2025 fMRI Reanalysis", L56). Keep the dispute open; do NOT adopt Phillips.
-  FIX (b), at L142: make the Functionality Gap conditional on that reading, e.g. "On the orthodox reading, blindsight shows ...".
-  FIX (c), optional and only if the budget allows: in "What Would Challenge This View?" (L223), add a clause saying that if blindsight proves to be degraded conscious vision, it stops serving as a control for unconscious capacity.
-  The Patient DB paragraph gets one clause at most; Phillips's criterion account also explains DB's need for prompts.
-  CITATIONS: copy them exactly, do not retype. Phillips 2021 (128(3):558–584) is at `concepts/blindsight` L234. Michel & Lau 2021 (128(3):585–591) and Phillips's rejoinder (128(3):592–595) are at `topics/perceptual-failure-and-the-interface` L168.
-  The 2026-07-25 deep review calls this page converged and marks materialist/functionalist standoffs as bedrock. This is not one of those: it is a calibration gap between this page and the Map's own blindsight page. ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
-
 ### P2: `concepts/working-memory` L127 says the ~10 bits/s rate "matches WM capacity limitations strikingly well", but its own source, Zheng & Meister (2025), reports the rate unchanged when working-memory demands rise from 10 s to 300 s
 - **Type**: refine-draft
 - **File**: obsidian/concepts/working-memory.md
@@ -4920,8 +4899,34 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: Apply the review's EXACT OLD->NEW strings for this item (section `## Priority List`), pulling them by script and confirming each OLD at str.count 1 before replacing. Read the item's Guards in full first. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move; no "This is not X. It is Y.", no "load-bearing". Item 4: (a) L151 → "tenet bears on epistemic emotions as coherence only… an Everettian predicts the same felt determination on every branch"; (b) L153 → "…what an insight discovers, if true, is true on every branch where it occurs… The tenet rests on the indexical objection, not on the phenomenology of knowing." The model is `topics/william-james-consciousness` L190 ("a stream would appear singular from inside any branch"). Tenet 4 stays a commitment.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
+### P3: `concepts/conscious-vs-unconscious-processing` still states blindsight's orthodox reading unscoped at six loci (L48 lead, L104, L134, L136, L221, L263) after the 2026-11-05 Phillips fix scoped L121/L140
+- **Type**: refine-draft
+- **File**: obsidian/concepts/conscious-vs-unconscious-processing.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-05 14:47Z (commit 92f719bc, from `reviews/outer-review-2026-11-05-gemini-3-1-pro.md` weakness 3), proposed follow-ups; the driver grep-validated each locus at 14:51Z
+- **Generated**: 2026-11-05
+- **Headroom**: 3,495/3,500, so 4 words. The edit MUST be net ≤ 0; fund every scope marker by trimming within the same paragraph.
+- **Notes**: The 14:47Z fix scoped L121 ("On the orthodox reading, [blindsight](/concepts/blindsight/) provides the clearest evidence…") and L140, and added "Phillips (2021) reads blindsight as qualitatively degraded conscious vision under a conservative report criterion; Michel & Lau (2021) dispute this". Six loci still assume the orthodox reading without a scope marker. Each `grep -c -F` = 1 at 14:51Z: (1) L48 lead "provide the clearest empirical cases of this conscious/unconscious divide"; (2) L104 "patients can respond to visual stimuli but cannot spontaneously use blind-field information to guide self-initiated action"; (3) L134 "- Subjective visual experience" (zero-cost swap to "Reported visual experience", which holds on both readings); (4) L136 "The information was available to motor systems but not to the self."; (5) L221 "2. **Blindsight achieved spontaneous action.**", the deferred FIX (c): add that if blindsight proves to be degraded conscious vision, it stops serving as a control for unconscious capacity (about 13 words, so fund it); (6) L263 Further Reading "The paradigm case of perception without consciousness". FIX: the lightest scope marker that fits ("on the orthodox reading", "as standardly read") or a word swap. Do NOT adopt Phillips. Keep the dispute open. The 2026-07-25 deep review's bedrock standoffs are untouched. The 14:47Z refine shortened the Gunasekaram (2024) reference to "et al." to fund the two new references; leave it.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-05: `concepts/conscious-vs-unconscious-processing` L121 calls blindsight "the clearest evidence" that consciousness adds functionality and builds the L140 Functionality Gap on it, but never mentions Phillips's (2021) degraded-conscious-vision reading, which `concepts/blindsight` L84 and six other pages treat as live
+- **Type**: refine-draft
+- **File**: obsidian/concepts/conscious-vs-unconscious-processing.md
+- **Notes**: BUDGET: net <= +15 words (3,480 of the concepts hard 3,500, gate `>=`), including any reference entry. Offset additions by trimming inside the same sections.
+  Phillips (2021) is cited on `concepts/blindsight` L84/L234, `concepts/visual-consciousness`, `concepts/capability-division-in-vision`, `topics/perceptual-failure-and-the-interface`, `topics/logic-of-dissociation-inference`, `topics/neurological-dissociations-as-interface-architecture` and `voids/capability-division-problem`. `topics/perceptual-failure-and-the-interface` L84/L168 already records the Phillips / Michel & Lau exchange as live and contested. The defect is this page's silence, not a failure to adopt Phillips.
+  OLD strings, each str.count 1:
+  (1) L121 «[blindsight](/concepts/blindsight/) provides the clearest evidence that consciousness adds functionality beyond unconscious processing.»
+  (2) L142 «Blindsight reveals that consciousness isn't a passive observer of processing that would occur anyway.»
+  (3) L223 «2. **Blindsight achieved spontaneous action.** If blindsight patients could spontaneously use blind-field information without prompting, consciousness would be less functionally necessary. Current evidence: they cannot.»
+  FIX (a), at L121: scope "the clearest evidence" to the orthodox reading. Add one short sentence: Phillips (2021) reads blindsight as qualitatively degraded conscious vision under a conservative report criterion, and Michel & Lau (2021) dispute this. On his reading the gap tracks signal quality rather than consciousness, so the page's case would rest on the masking evidence (§"The 2025 fMRI Reanalysis", L56). Keep the dispute open; do NOT adopt Phillips.
+  FIX (b), at L142: make the Functionality Gap conditional on that reading, e.g. "On the orthodox reading, blindsight shows ...".
+  FIX (c), optional and only if the budget allows: in "What Would Challenge This View?" (L223), add a clause saying that if blindsight proves to be degraded conscious vision, it stops serving as a control for unconscious capacity.
+  The Patient DB paragraph gets one clause at most; Phillips's criterion account also explains DB's need for prompts.
+  CITATIONS: copy them exactly, do not retype. Phillips 2021 (128(3):558–584) is at `concepts/blindsight` L234. Michel & Lau 2021 (128(3):585–591) and Phillips's rejoinder (128(3):592–595) are at `topics/perceptual-failure-and-the-interface` L168.
+  The 2026-07-25 deep review calls this page converged and marks materialist/functionalist standoffs as bedrock. This is not one of those: it is a calibration gap between this page and the Map's own blindsight page. ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
 ### ✓ 2026-11-05: `topics/cognitive-science-of-dualism` L103 says only that Friston "has attempted to connect the framework to experience"; he co-authored a published active-inference theory of consciousness (Laukkonen, Friston & Chandaria 2025), which `topics/predictive-processing-and-dualism` already engages
 - **Type**: refine-draft

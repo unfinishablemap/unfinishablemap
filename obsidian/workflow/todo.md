@@ -4897,6 +4897,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: Apply the review's EXACT OLD->NEW strings for this item (section `## Priority List`), pulling them by script and confirming each OLD at str.count 1 before replacing. Read the item's Guards in full first. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; P-AC1 does not move; no "This is not X. It is Y.", no "load-bearing". Item 4: (a) L151 → "tenet bears on epistemic emotions as coherence only… an Everettian predicts the same felt determination on every branch"; (b) L153 → "…what an insight discovers, if true, is true on every branch where it occurs… The tenet rests on the indexical objection, not on the phenomenology of knowing." The model is `topics/william-james-consciousness` L190 ("a stream would appear singular from inside any branch"). Tenet 4 stays a commitment.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
+### P3: `concepts/conscious-vs-unconscious-processing` still states blindsight's orthodox reading unscoped at six loci (L48 lead, L104, L134, L136, L221, L263) after the 2026-11-05 Phillips fix scoped L121/L140
+- **Type**: refine-draft
+- **File**: obsidian/concepts/conscious-vs-unconscious-processing.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-05 14:47Z (commit 92f719bc, from `reviews/outer-review-2026-11-05-gemini-3-1-pro.md` weakness 3), proposed follow-ups; the driver grep-validated each locus at 14:51Z
+- **Generated**: 2026-11-05
+- **Headroom**: 3,495/3,500, so 4 words. The edit MUST be net ≤ 0; fund every scope marker by trimming within the same paragraph.
+- **Notes**: The 14:47Z fix scoped L121 ("On the orthodox reading, [[blindsight]] provides the clearest evidence…") and L140, and added "Phillips (2021) reads blindsight as qualitatively degraded conscious vision under a conservative report criterion; Michel & Lau (2021) dispute this". Six loci still assume the orthodox reading without a scope marker. Each `grep -c -F` = 1 at 14:51Z: (1) L48 lead "provide the clearest empirical cases of this conscious/unconscious divide"; (2) L104 "patients can respond to visual stimuli but cannot spontaneously use blind-field information to guide self-initiated action"; (3) L134 "- Subjective visual experience" (zero-cost swap to "Reported visual experience", which holds on both readings); (4) L136 "The information was available to motor systems but not to the self."; (5) L221 "2. **Blindsight achieved spontaneous action.**", the deferred FIX (c): add that if blindsight proves to be degraded conscious vision, it stops serving as a control for unconscious capacity (about 13 words, so fund it); (6) L263 Further Reading "The paradigm case of perception without consciousness". FIX: the lightest scope marker that fits ("on the orthodox reading", "as standardly read") or a word swap. Do NOT adopt Phillips. Keep the dispute open. The 2026-07-25 deep review's bedrock standoffs are untouched. The 14:47Z refine shortened the Gunasekaram (2024) reference to "et al." to fund the two new references; leave it.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
 ## Completed Tasks
 
 
