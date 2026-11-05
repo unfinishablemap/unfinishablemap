@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T11:40:48+00:00
+ai_modified: 2026-11-05T12:22:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T12:22:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/substrate-independence]]
+- **Source**: outer review 2026-11-05 (Claude Fable 5.1, Part 4 item 2, second sentence); synthesis C3 COMBINE NOTE
+- **Decision**: option (a). Neither source the task named commits the corpus to the universal reading of Tenet 3. `concepts/ai-epiphenomenalism` says «The tenet's wording does not settle which reading it carries, and the Map has not settled it at the tenet level; this page's thesis holds on the dispositional reading only.» (count 1) and admits «an actually conscious but causally blocked subject … as a token case» (count 1). P-CS7 (`positions/consciousness-scope`) is a scope claim about which architectures couple. It depends on Tenet 1 (bare) and Tenet 5, brackets the quantum-interface register («*not* the quantum-interface register», count 1), and names no Tenet 3 dependency. `positions/ai-consciousness-scope` L63 records that `concepts/epiphenomenalism` «now records Tenet 3's quantifier as unresolved» (count 1), and P-AC1's own exclusion of epiphenomenal AI «is conditional on the strong reading» (count 1).
+- **Changes**: L126, under The Bidirectional Test: «If AI systems were conscious, they would need to influence the physical world through non-physical means.» → «If AI experience made any difference to outputs, it would have to act through non-physical means.» The sentence no longer makes causal efficacy a necessary condition on AI consciousness. It now holds on every reading of Tenet 3, and the section's test becomes a test for causally efficacious consciousness, which L128 says current AI fails. The next sentence ("Current AI operates…") has no pronoun, so nothing was stranded. L112 was not touched.
+- **Left as is (quantifier not settled here)**: L128 («those experiences would be causally irrelevant to outputs fully determined by computation») and L130 («truly epiphenomenal»; «the claim is not that consciousness is inherently inert but that silicon architecture provides no interface») presuppose a non-universal (dispositional or existential) reading of Tenet 3. They restate the ai-epiphenomenalism framing and stay until the NEEDS-HUMAN (foundations) entry on the Tenet 3 quantifier (todo ~L673) is decided. That entry's consumer sweep should cover them.
+- **Coordination**: the todo P3 at ~L1882 (on `concepts/interface-threshold` L118, from the 2026-10-22 deep review of `concepts/coupling-engagement-condition`) calls an epiphenomenal regime one the Map "never concedes". On the dispositional reading that ai-epiphenomenalism uses, the Map does concede it for AI as a token case and denies it only for report-grounded (human) consciousness. "Never concedes" is therefore exact only on the universal reading, and that task touches the same open quantifier. Neither page was edited.
+- **Word count**: 3,610 → 3,610 (net 0; concepts hard limit 3,500, already over)
+- **Published**: yes
 
 ## 2026-11-05T11:40:48+00:00 - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "The thesis that consciousness depends on functional organization a
 created: 2026-01-19
 modified: 2026-10-22
 human_modified: null
-ai_modified: 2026-10-26T12:52:57+00:00
+ai_modified: 2026-11-05T12:22:52+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -123,7 +123,7 @@ The decoherence challenge sharpens the substrate distinction rather than elimina
 
 ## The Bidirectional Test
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet provides a potential criterion. If AI systems were conscious, they would need to influence the physical world through non-physical means.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet provides a potential criterion. If AI experience made any difference to outputs, it would have to act through non-physical means.
 
 Current AI operates entirely through physical causation. Electrical signals trigger transistors; transistors compute outputs; outputs drive actions. The computation is causally closed in precisely the way the brain may not be. Split-brain research reinforces the distinction: patients with only a small posterior bundle of callosal fibres intact retain full conscious unity (Santander et al., 2025)—a pattern expected if physical connections serve as an *interface* for consciousness rather than constituting it, but puzzling if consciousness just is distributed computation. The Map rejects [[concepts/epiphenomenalism]]: our discussions of qualia suggest qualia influence our physical outputs. But even if digital systems had conscious experiences, those experiences would be causally irrelevant to outputs fully determined by computation.
 
