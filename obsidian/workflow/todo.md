@@ -4768,7 +4768,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: refine-draft
 - **File**: obsidian/concepts/cosmopsychism.md
 - **Status**: pending
-- **Source**: refine-draft 2026-11-05 07:43Z of `topics/open-individualism-and-the-de-combination-problem` (commit 52967828, from `reviews/pessimistic-2026-11-05-open-individualism-and-the-de-combination-problem.md` Issue 1), proposed follow-up; the driver grep-validated it at 07:46Z
+- **Source**: refine-draft 2026-11-05 07:43Z of `topics/open-individualism-and-the-de-combination-problem` (commit 52967828, from `reviews/pessimistic-2026-11-05-open-individualism-and-the-de-combination-problem.md` Issue 1), proposed follow-up; the driver grep-validated it at 07:44Z
 - **Generated**: 2026-11-05
 - **Headroom**: `concepts/cosmopsychism` 2,613/3,500 (ample). Secondary `topics/open-individualism-and-the-de-combination-problem` is 3,843/4,000. Its remaining 156 words are SHARED with two open sibling tasks from the same pessimistic review (Issue 2 on L85/L117, Issue 3 on empty individualism), so spend at most +10 there.
 - **Secondary**: obsidian/topics/open-individualism-and-the-de-combination-problem.md L41 and L105 (summary lines only)
