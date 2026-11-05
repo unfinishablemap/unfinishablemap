@@ -5030,6 +5030,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: Live at 22:22Z (count 1 each): L196 "using identical methods" and "disputes of this structural shape do not get settled by their introspective contestants"; L174 'Frankish (2016) is careful that illusionism does not posit a "real illusion" alongside missing real phenomenology'. (1) Würzburg/Titchener: the SEP entry on mental imagery has the laboratories disputing each other's protocols, so "identical methods" is false. "Do not get settled" is a law-like claim drawn from one case. The overflow page now reads "relying on trained introspection while disputing each other's protocols", "have not been settled from inside introspection", and "helps explain why". Match that, and state Fürst (2017)'s cognitive-phenomenology scope if the page cites her. (2) Frankish: the deep review could not reach Frankish's own 2016 text (login wall, dead links) and found the paraphrase only in a secondary source (Beghetto, *Argumenta*). Verify "real illusion" verbatim in Frankish 2016 (*Journal of Consciousness Studies* 23(11-12)). If it cannot be verified, remove the quotation marks and attribute the point as the Map's paraphrase. The same "identical methods" phrase appears in `research/voids-cognitive-phenomenology-void-2026-05-01` L130; research notes are a dated record, so annotate that only if cheap.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
+### P3: research note `symbol-grounding-problem-2026-01-30` bibliography credits two papers to the wrong authors ("The Vector Grounding Problem" to Piantadosi & Hill; "Symbols and grounding in large language models" to Mollo & Millière); the live article was corrected 2026-05-26, the note never was
+- **Type**: refine-draft
+- **File**: obsidian/research/symbol-grounding-problem-2026-01-30.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-05 23:22Z of `topics/whether-language-model-words-refer` (commit 3aa7523e), proposed follow-up; the driver grep-validated both entries at 23:25Z
+- **Generated**: 2026-11-05
+- **Headroom**: research notes have no article cap. Keep the annotation short.
+- **Notes**: Live at 23:25Z (count 1 each): L230 "Piantadosi, S., & Hill, F. (2023). The Vector Grounding Problem. arXiv:2304.01481." The Vector Grounding Problem is by Dimitri Coelho Mollo & Raphaël Millière. L228 "Mollo, D. C., & Millière, R. (2023). Symbols and grounding in large language models. *Philosophical Transactions of the Royal Society A*, 381(2251)." That paper is by Ellie Pavlick (2023). Verify both at arXiv (2304.01481) and at the Royal Society or Crossref before writing. FIX: add a dated "Correction (2026-11-05): …" annotation under each entry giving the correct authors, and keep the original lines visible, since research notes are a dated record. Also grep the note's BODY for in-text cites that rely on the wrong attributions ("Piantadosi & Hill (2023)", "Mollo & Millière" on the symbols paper) and annotate them the same way. The note syncs to the public site, so check the hugo copy after sync.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
 ## Completed Tasks
 
 
