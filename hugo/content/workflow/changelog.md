@@ -1,14 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 11:11:01+00:00
+ai_modified: 2026-11-05 11:40:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 11:11:01+00:00
+lastmod: 2026-11-05 11:40:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T11:40:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Selection**: `deep_review.py` top candidate after the driver's exclusions (score 74, 115 days unreviewed); the selector's first offer, `quantum-biology-and-neural-consciousness`, was edited today. This is the eighth review. No open task names the page.
+- **Word count**: 3859 → 3964 (+105; topics hard limit 4000)
+- **Critical issues addressed**: 6
+  - Bohm and RQM were mislabelled "collapse-realist" (Bohm is collapse-free); the rival family is now "single-world" in the table, lead, footnote, L141 and L143.
+  - Epiphenomenalism "Fails"/"fails … outright" and "No such explanation has been offered" contradicted `evolutionary-case-for-mental-causation` L143 and `co-optimization-reply-to-the-correlation-problem`. These became "Strained", and the co-optimization reply is now named and linked.
+  - L141 "(as the fourth line suggests)" became "(which the fourth line leaves open)".
+  - Sjöberg 2024 was called a "critical review of the literature"; it is an essay on his own patients. Added: "himself no dualist", the verbatim quote "completely irrelevant to the neuroscientific discussion about free will", no case counts, transient syndrome.
+  - Thura & Cisek: "later than" an incommensurable figure became "counts back from movement onset".
+  - Hagan 2002: the "dispute remains live" framing and the unverified Reimers/McKemmish-against-Hagan attribution were rescoped to the `tenets.md` L77 grade and to the two abstracts, plus a sentence that the timescale dispute bears only on pre-decoherence mechanisms.
+- **Medium issues addressed**: 6
+  - Craddock 2017: anaesthetics *lower* the 613 THz mode and non-anaesthetics *raise* it (per the full text); method "molecular-dynamics" became "molecular-docking".
+  - Luo 2025: "computationally confirmed" became "added computational support".
+  - Denton 2024: "same mechanism Stapp proposes" became "the effect Stapp invokes …, driven by asymmetric recombination".
+  - Schleihauf 2025: added the authors' "reflective metacognition" reading, and L65 is now graded.
+  - Zheng & Meister: "conscious" became "behavioural" throughput.
+  - Li 2025: ED50 became EC50.
+- **Enhancements made**: 1 (cross-link to [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/))
+- **Citations**: all 24 references were verified at Crossref, and result direction was checked against PubMed/OpenAlex abstracts or PMC full text. The Reimers 2009 and McKemmish 2009 body texts were unreachable, so the Hagan-specific claim was rescoped rather than ratified.
+- **Reasoning modes**: epiphenomenalism is Mixed (Mode Two then Mode Three), now downgraded from implied refutation; the physicalist and illusionist column and MWI are Mode Three. No label leakage.
+- **Follow-ups (not tasked; grep-confirmed)**:
+  - P3: Craddock 2017 "but not non-anaesthetic structural analogues" / "molecular-dynamics" family at `topics/quantum-biology-and-neural-consciousness` L81, `concepts/quantum-consciousness` L71, `concepts/quantum-biology-and-neural-mechanisms` L108, `concepts/decoherence` L109 and `topics/comparing-quantum-consciousness-mechanisms` L74.
+  - P3: `topics/quantum-neural-timing-constraints` L96 "later than the ~280ms motor commitment point … closer to the readiness potential (~550ms)" and L76 "willed attention signatures at ~500ms before action" mix clocks, against the page's own L86.
+  - P3: add this page (L98) to the open `concepts/decoherence` L105 Reimers/McKemmish P3 (todo L2037) as a further locus.
+  - P3 (low): `topics/attention-and-the-consciousness-interface` L151 "Sjöberg (2024) shows …" lacks the no-dualist / single-essay caveat its siblings carry. That page has a NEEDS-HUMAN length item, so the fix must be length-neutral.
+- **Output**: [deep-review-2026-11-05-empirical-evidence-for-consciousness-selecting](/reviews/deep-review-2026-11-05-empirical-evidence-for-consciousness-selecting/)
 
 ## 2026-11-05T11:11:01+00:00 - refine-draft
 - **Status**: Success
