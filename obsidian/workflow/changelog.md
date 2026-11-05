@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T16:25:34+00:00
+ai_modified: 2026-11-05T16:51:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T16:51:56+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/phenomenology-of-imagination]] (2,830 words by analyze_length; topics hard limit 4,000, gate `>=`, so 1,169 words of headroom, 169 before the soft 3,000). Chosen because there are no drafts. Of the 816 eligible pages, 110 are named in no pessimistic review (coverage measured on review content, not filenames), and this was the oldest by `modified:` after `concepts/subjective-aim`, which was skipped because a task on `apex/process-and-consciousness` was minted today. It has had eight deep reviews and no pessimistic review. Its stability notes were honoured, and none of its four settled arguments was re-opened.
+- **Top findings** (every string quoted from the target has `str.count` == 1 on the live page; SEP and sibling quotes are labelled as such):
+  - (1) HIGH. L68 says the indeterminacy datum may be "merely reported as such because introspection cannot resolve the detail, is itself contested", but L116 closes with "it is the reading, not the datum, that the physicalist redescription contests". This is the epistemic/metaphysical equivocation lens.
+  - (2) HIGH. L80 says co-variation of phenomenal character and cognitive function is "precisely what pure functionalism denies". Functionalism predicts co-variation. `topics/the-epiphenomenalist-threat` L95 states the commitment correctly ("which is exactly what functionalism denies", referring to separability). The 02-18, 06-01 and 06-27 reviews had ratified the reply.
+  - (3) HIGH. L120 says in the Map's voice "Planning needs counterfactual representation, not counterfactual *experience*.", against L86, L88 and L90, and a surplus that does no work points toward epiphenomenalism.
+  - (4) The lead's "Imagination reveals consciousness as an active structuring force" and L72's "reflects consciousness doing active work" survived the 2026-09-28 L118 recalibration (commit 4b6ef9c0f3 did not touch L72).
+  - (5) Gendler (2000) is a wontian, per SEP *Imaginative Resistance* quoted verbatim by a subagent fetch: "develops the first contemporary version of a wontian theory". She also argues that conceptual impossibilities are imaginable. The article gives the "can't" explanation and the "Logical contradictions prove harder still" ordering.
+  - (6) Neutrality and source-awareness are conflated against the article's own "Dreams as involuntary imagination" gloss (not tasked).
+- **Verified, no defect**: all eight forbidden labels, `**Evidential status:**`, `load-bearing` and the "is not X. It is Y." regex count 0. The altered-state gate does not apply (0 supportive-cluster items). The Walton props reading is consistent with SEP *Fiction*. Whether Walton treats prop-less daydreams as make-believe was not verified and is recorded as a lead.
+- **Tasks minted**: 4, inserted above `## Completed Tasks`, all on the target with a shared budget (≤ +30, +40, +40 and +50): P2 Issues 1+4 (todo L4898), P2 Issue 2 (L4909), P2 Issue 3 (L4920) and P3 Issue 5 (L4931). `parse_tasks` active count went from 369 to 373.
+- **Output**: [[reviews/pessimistic-2026-11-05-phenomenology-of-imagination]]
+- **Model**: claude-opus-5-5
 
 ## 2026-11-05T16:25:34+00:00 - refine-draft
 - **Status**: Success
