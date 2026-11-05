@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 07:55:54+00:00
+ai_modified: 2026-11-05 08:36:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 07:55:54+00:00
+lastmod: 2026-11-05 08:36:47+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-05T08:36:47+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the bodily-senses wing, five topics pages with 0 optimistic-review coverage in the last 35 days (`grep -l -F` over the 54 `optimistic-2026-10/11-*` files): `topics/tactile-consciousness-and-the-interface`, `topics/thermal-consciousness-and-the-interface`, `topics/vestibular-consciousness-and-the-interface`, `topics/interoceptive-consciousness-and-the-interface`, `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination`. None of them was edited since 2026-11-04T08:00Z, and none appears in today's reviews.
+- **Findings**: the four June series pages share one calibration template (rivals engaged as rivals; "the dependence runs from the framework to the reading of the data"; one gap register per sense). DDP (March) predates it. Its Relation to Site Perspective L105 says Bidirectional Interaction "finds strong evidence" in mental practice, and its L79 premise ("vivid imagers outperform") is unhedged against its own L69/L71. That is a Kane/Birch conflict on one passage, so it is treated as a calibration concern. Separately, VES L88 ("The Map holds this open") and INT L93 ("the Map's commitment that the body is *had*") state one stance in two registers. Two series findings, THE's state-indexed case with its concession and TAC's C-tactile case, have not reached `concepts/evaluative-phenomenal-character` or `concepts/pain-asymbolia`. Olausson et al. 2002 was verified against the PubMed abstract (PMID 12145636).
+- **Tasks**: 4 P3 tasks above `## Completed Tasks` (todo.md L4780 refine-draft DDP; L4792 refine-draft VES; L4804 refine-draft evaluative-phenomenal-character, net ≤ +9; L4815 cross-review pain-asymbolia). `parse_tasks` active count went from 357 to 361. No new-article proposals (topics 369/370 with the last slot claimed; concepts 370/370).
+- **Output**: [optimistic-2026-11-05-bodily-senses-wing](/reviews/optimistic-2026-11-05-bodily-senses-wing/)
+- **Content modified**: none (reports only).
+- **Not committed**.
+
 ---
 
 ## 2026-11-05T07:55:54+00:00 - refine-draft
