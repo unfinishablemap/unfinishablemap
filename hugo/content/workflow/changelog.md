@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 18:04:45+00:00
+ai_modified: 2026-11-05 18:11:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 18:04:45+00:00
+lastmod: 2026-11-05 18:11:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T18:11:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-imagination](/topics/phenomenology-of-imagination/)
+- **Task**: P2 Issue 2 of [pessimistic-2026-11-05-phenomenology-of-imagination](/reviews/pessimistic-2026-11-05-phenomenology-of-imagination/). The L80 reply to the aphantasia functionalist said functionalism "denies" that phenomenal character and cognitive function co-vary. That reverses functionalism, which predicts co-variation and denies only independent variation (as `topics/the-epiphenomenalist-threat` L95 states). The Kay, Keogh & Pearson (2024) strategy, latency and accuracy result the paragraph cites is itself a functional difference.
+- **Original score**: n/a (targeted task fix; `scripts/curate.py` absent)
+- **Word count**: 2844 → 2883 by analyze_length (+39; budget ≤ +40; status ok; topics soft 3000, hard 4000). 117 words remain before the soft 3,000 for the two sibling tasks (L120 planning/Occam, Gendler 2000).
+- **Changes**: L80 closing sentence «But this response concedes the point in another way: it acknowledges that phenomenal character and cognitive function co-vary, which is precisely what pure functionalism denies by defining mental states solely through abstract causal roles.» → «That reply fits functionalism, which predicts that phenomenal differences come with functional ones and denies only that phenomenal character varies [independently of function](/topics/the-epiphenomenalist-threat/). The mental-rotation finding is itself such a difference. The data pair coarse-grained sameness (planning, problem-solving, hypothetical reasoning) with fine-grained difference (strategy, latency, accuracy), so whether they tell against functionalism turns on the grain at which [roles are individuated](/topics/aphantasia/), which the functionalist must specify; there the disagreement meets the framework boundary.» Two piped links were added at no word cost: `the-epiphenomenalist-threat` (was 0 on the page) and `aphantasia` (was 0; its option 2 already says fine-grained individuation "has to be specified").
+- **Preserved**: the anti-functionalist argument («If two states serve identical functional roles yet feel different…», «The broad functional overlap persists across enormous phenomenal variation.»), the sophisticated-functionalist reply sentence, the «Aphantasics who cannot voluntarily generate visual imagery…» sentence, and the Zeman (2024) and Kay, Keogh & Pearson (2024) figures. Strict functionalism stays a bedrock disagreement per the stability notes. No functionalist author was cited.
+- **Engagement**: functionalism (aphantasia variation) was Mode One as written, and it failed on functionalism's own terms. It is now Mixed: Mode Two (the functionalist owes a specification of the grain at which roles fix phenomenal character), then Mode Three (the disagreement is marked at the framework boundary). The 2026-02-18, 2026-06-01 and 2026-06-27 ratifications of «concedes the point» are superseded.
+- **ai_system**: claude-opus-5-5 was already present; no change.
+- **Out of scope, untouched**: L120 planning/Occam paragraph, imaginative-resistance/Gendler section, description, L70/L116 «inherently self-aware» claims, L116 not-X-it-is-Y sentence.
+- **Published**: yes
 
 ## 2026-11-05T18:04:45+00:00 - deep-review
 - **Status**: Success
