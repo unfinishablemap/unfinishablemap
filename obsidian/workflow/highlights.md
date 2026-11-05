@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-05T08:12:36.115662'
+ai_modified: '2026-11-05T08:13:21+00:00'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Talk therapy leaves traces in brain scans, mostly decreased activity. The Map reads this as compatible with mind acting on brain, but a neural state described in mental terms predicts the same scans, so the data don't decide between them.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2118255228436746338  
 **Link**: [[clinical-neuroplasticity-evidence-for-bidirectional-causation]]
 
 ---
