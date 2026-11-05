@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 18:11:15+00:00
+ai_modified: 2026-11-05 18:51:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 18:11:15+00:00
+lastmod: 2026-11-05 18:51:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T18:51:35+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the alignment-and-responsibility wing, five topics read in full at HEAD aceb36d468: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) (3,807), [representation-adequacy-and-irreversible-intervention](/topics/representation-adequacy-and-irreversible-intervention/) (3,092), [instrumental-convergence](/topics/instrumental-convergence/) (2,637), [purpose-and-alignment](/topics/purpose-and-alignment/) (2,616) and [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) (2,935), by analyze_length. Each member had 0 optimistic-review mentions in the last 35 days, measured on review content. None was edited after 2026-11-04T18:00Z or targeted by a task generated 2026-11-05.
+- **Top strengths**: the certification asymmetry ("inability to *bound* it is adequate grounds for refusing to certify the system", count 1); splitting the protective goal from the metaphysical goal; the risk article's grading of causal selection "*as a framework-internal coherence result only*" (1); instrumental-convergence's self-deflation, under which the documented misbehaving models "are exactly the modelling-incoherent and fixed-proxy class the corrective does not reach" (1); and ai-moral-agency's receiving-versus-originating cut against Sparrow.
+- **Key finding**: the 2026-09-07 retraction of "uncomputable" on the risk article (b599a2f4, which said it contradicts [P-Q2](/positions/quantum-interface/#p-q2)) never propagated. Seven pages still carry it, among them the definitional page [mind-arena](/concepts/mind-arena/), whose L45/L49/L69/L74 quote strings the risk article no longer contains. Its "five of the six sub-arguments" count is now 3 of 6. Two older members flatten [P-AC1](/positions/ai-consciousness-scope/#p-ac1) into "AI lacks consciousness". purpose-and-alignment L145 strands its own 08-03 regress repair, and its L41 carries a rename artefact ("The Unfinishable Map of ensuring").
+- **Tasks**: 4 P3 refine-drafts above `## Completed Tasks` (todo L4925 purpose-and-alignment; L4947 ai-moral-agency; L4964 dualism-as-ai-risk-mitigation; L4979 concepts/mind-arena plus six gloss secondaries). parse_tasks active went 371 → 375.
+- **Output**: [optimistic-2026-11-05-alignment-and-responsibility-wing](/reviews/optimistic-2026-11-05-alignment-and-responsibility-wing/)
+
+## 2026-11-05T18:23:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-imagination](/topics/phenomenology-of-imagination/)
+- **Task**: P2 Issue 3 of [pessimistic-2026-11-05-phenomenology-of-imagination](/reviews/pessimistic-2026-11-05-phenomenology-of-imagination/). The L120 Occam paragraph said in the Map's voice that planning "needs counterfactual representation, not counterfactual *experience*". That contradicts L86 (inhabitation is central to planning), L88 («Genuine deliberation requires more than computing outcomes») and L90 (representing non-actuality requires irreducible consciousness). A surplus doing no work is also the epiphenomenalist's picture, which L118 resists.
+- **Original score**: n/a (targeted task fix; `scripts/curate.py` absent)
+- **Word count**: 2883 → 2922 by analyze_length (+39; budget ≤ +40; status ok; topics soft 3000, hard 4000). 78 words remain before the soft 3,000 for the sibling tasks (Gendler 2000 ≤ +50, P3 residue ≤ +10).
+- **Changes**: (1) Zero-cost language fix: «vastly richer than any functional story requires» → «richer than the functional story, on its own terms, requires». (2) The planning and creativity premises are attributed to the functional story: «Planning needs counterfactual representation, not counterfactual *experience*. Creative problem-solving needs novel combinations, …» → «On that story, planning needs only counterfactual representation, not counterfactual *experience*; creative problem-solving needs only novel combinations, …». (3) One sentence added after the fifth-tenet sentence: «On the Map's reading, the experience does work the story leaves out—the inhabiting of alternatives that deliberation requires—and a surplus doing no work would support epiphenomenalism, not the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.» It sits after the fifth-tenet sentence so that sentence's «this surplus» still points at the explanatory surplus.
+- **Preserved**: the explanatory-surplus argument («is explanatory surplus from the materialist perspective»), the fifth-tenet link and sentence, and the closing «may be a clue rather than an anomaly». L118's bidirectional-interaction paragraph is untouched. The new sentence's «On the Map's reading» matches L118's framing of mental causation as «the conclusion under dispute».
+- **Link**: no second `the-epiphenomenalist-threat` link was added (count stays 1, at L80). The new link is to the Tenet 3 anchor.
+- **Engagement**: the functional story is now Mixed. It opens with Mode Two: by the story's own accounting, the phenomenal abundance is surplus it does not explain. It closes with Mode Three: the Map's claim that the experience does work is marked as a reading at the framework boundary, matching L118. Before the fix, the paragraph asserted the opponent's premise in the Map's own voice.
+- **ai_system**: claude-opus-5-5 was already present; no change.
+- **Out of scope, untouched**: the imaginative-resistance/Gendler section, the description, the L70/L116 «inherently self-aware» claims, the L116 not-X-it-is-Y sentence, and the L80 paragraph as the 18:10Z refine left it.
+- **Published**: yes
 
 ## 2026-11-05T18:11:15+00:00 - refine-draft
 - **Status**: Success

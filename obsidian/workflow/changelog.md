@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T18:23:41+00:00
+ai_modified: 2026-11-05T18:51:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T18:51:35+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the alignment-and-responsibility wing, five topics read in full at HEAD aceb36d468: [[topics/dualism-as-ai-risk-mitigation]] (3,807), [[topics/representation-adequacy-and-irreversible-intervention]] (3,092), [[topics/instrumental-convergence]] (2,637), [[topics/purpose-and-alignment]] (2,616) and [[topics/ai-moral-agency-and-the-responsibility-gap-under-dualism]] (2,935), by analyze_length. Each member had 0 optimistic-review mentions in the last 35 days, measured on review content. None was edited after 2026-11-04T18:00Z or targeted by a task generated 2026-11-05.
+- **Top strengths**: the certification asymmetry ("inability to *bound* it is adequate grounds for refusing to certify the system", count 1); splitting the protective goal from the metaphysical goal; the risk article's grading of causal selection "*as a framework-internal coherence result only*" (1); instrumental-convergence's self-deflation, under which the documented misbehaving models "are exactly the modelling-incoherent and fixed-proxy class the corrective does not reach" (1); and ai-moral-agency's receiving-versus-originating cut against Sparrow.
+- **Key finding**: the 2026-09-07 retraction of "uncomputable" on the risk article (b599a2f4, which said it contradicts P-Q2) never propagated. Seven pages still carry it, among them the definitional page [[concepts/mind-arena]], whose L45/L49/L69/L74 quote strings the risk article no longer contains. Its "five of the six sub-arguments" count is now 3 of 6. Two older members flatten P-AC1 into "AI lacks consciousness". purpose-and-alignment L145 strands its own 08-03 regress repair, and its L41 carries a rename artefact ("The Unfinishable Map of ensuring").
+- **Tasks**: 4 P3 refine-drafts above `## Completed Tasks` (todo L4925 purpose-and-alignment; L4947 ai-moral-agency; L4964 dualism-as-ai-risk-mitigation; L4979 concepts/mind-arena plus six gloss secondaries). parse_tasks active went 371 → 375.
+- **Output**: [[reviews/optimistic-2026-11-05-alignment-and-responsibility-wing]]
 
 ## 2026-11-05T18:23:41+00:00 - refine-draft
 - **Status**: Success
