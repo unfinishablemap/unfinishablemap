@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 20:04:53+00:00
+ai_modified: 2026-11-05 20:59:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 20:04:53+00:00
+lastmod: 2026-11-05 20:59:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T20:59:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Source**: P2 task from the 2026-11-05 20:02Z deep review of [philosophy-of-time](/concepts/philosophy-of-time/) (commit 917580ea), which made the same two repairs on that page.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Word count**: 4602 → 4601 (-1). The page was already over the topics hard limit of 4000, and this pass was net-negative as the task required.
+- **Changes**:
+  - L177 (nirodha-samāpatti): the page said practitioners report cessation "as awareness without temporal flow (not unconsciousness)", which inverts the reports. It now says "a total absence of consciousness, not awareness without flow". The *Interpretation* now reads: the case fits the framework but, since all experience stops, cannot isolate temporal experience. Linked to [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/), matching temporal-consciousness-structure-and-agency L220 and philosophy-of-time L193. The Madhyamaka tension sentence is unchanged.
+  - L183 (temporal microstructure): removed the quotation "fine-grained temporal dynamics" and its credit to Fox et al. 2012. The phrase does not occur in the paper. Fox 2012 is now described as cross-sectional data on introspective accuracy about bodily sensitivity, which tracks experience logarithmically, like skill learning. It bears only on trusting trained introspection. The *Interpretation* (time-quanta, conditional) is kept. The neurophenomenology wikilink is kept.
+  - L199 (falsifier 4): this sentence also credited Fox et al. 2012 with documenting "the sub-second temporal discriminations of trained introspectors", the same misattribution. That credit is gone, along with the uncited gesture "catalogued in the contemplative-science literature". The trims fund the L177 and L183 clauses. The elastic-interpretation and production-parallel hedges are unchanged.
+- **Verified at source**: Laukkonen et al. 2023 (*Prog Brain Res* 280:61–87, PMID 37714573; NCBI efetch abstract): "a total absence of consciousness during meditation" and "the absence of any time experience". The page paraphrases these without quoting. Fox et al. 2012 (PMC3458044, full text via efetch): accuracy compares reports of tactile sensitivity across 20 body regions with objective measures. The relationship is logarithmic and "strongly reminiscent of many forms of skill learning". The authors call the design cross-sectional and say it "precludes inferring a direct causal link". "fine-grained" and "temporal" each occur 0 times in the paper, against a control of "tactile" with 29 hits.
+- **Reasoning-mode**: engagement with Madhyamaka/Nagarjuna: Mode Three, unchanged (the tension is acknowledged honestly, not resolved).
+- **Untouched by coordination**: L115 and L171 belong to the open P3 on the neural-history label.
+- **Altered-state symmetry**: `evaluate_symmetry` returns None both before and after.
+- **Published**: yes
 
 ## 2026-11-05T20:04:53+00:00 - deep-review
 - **Status**: Success

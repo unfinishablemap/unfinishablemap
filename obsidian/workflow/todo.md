@@ -5014,17 +5014,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: Live at 19:43Z (`grep -c -F` = 1 each): "There is no room for consciousness to select among physically permitted alternatives"; "consciousness accompanies but does not select"; "there is no causal role for consciousness beyond what the physical structure already determines". The 19:40Z fix rescoped L92 for Russellian monism to: "it cannot be the further, local factor that selects among physical outcomes in the Map's model … without showing Russellian monism causally idle". Apply the same scope to IIT. IIT identifies consciousness with a cause-effect structure and claims that structure has intrinsic causal power, so the honest divergence is that IIT's consciousness is not a further selector in the Map's sense, not that it is causally idle. Check the Map's `concepts/integrated-information-theory` page for its own framing first and match it. Never concede epiphenomenalism for human consciousness.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
-### P2: `topics/time-collapse-and-agency` L177 repeats the nirodha-samāpatti inversion ("as awareness without temporal flow (not unconsciousness)") that the 2026-11-05 philosophy-of-time deep review corrected against Laukkonen et al. 2023, and L183 credits "fine-grained temporal dynamics" to Fox et al. 2012, where the phrase does not occur
-- **Type**: refine-draft
-- **File**: obsidian/topics/time-collapse-and-agency.md
-- **Status**: pending
-- **Source**: deep-review 2026-11-05 20:02Z of `concepts/philosophy-of-time` (commit 917580ea; `reviews/deep-review-2026-11-05-philosophy-of-time.md`), proposed follow-ups; the driver grep-validated each locus at 20:07Z
-- **Generated**: 2026-11-05
-- **Headroom**: 4,602/4,000, OVER the topics hard limit. The edit MUST be net ≤ 0; fund any clause by trimming within the same paragraph.
-- **Coordination**: the open P3 "Label the 'selected transaction includes the neural history' claim…" owns this page's L115/L171. Do not touch those lines.
-- **Notes**: Live at 20:07Z (count 1 each): L177 "as awareness without temporal flow (not unconsciousness)"; L183 "fine-grained temporal dynamics" (attributed to Fox et al. 2012). The sibling fixes are in `concepts/philosophy-of-time` (commit 917580ea). (1) Nirodha-samāpatti: per the Laukkonen et al. 2023 PubMed abstract, practitioners report "a total absence of consciousness"; because all experience stops, the case cannot isolate temporal experience. Link [[cessation-versus-plenitude]], and match `temporal-consciousness-structure-and-agency` L220, which made the same repair. (2) Fox et al. 2012 (PMC full text): introspective accuracy about bodily (tactile) sensitivity rises logarithmically with meditation experience, "a curve they liken to skill learning". The study is cross-sectional, and its bearing is on trusting trained reports, not on discrete temporal events. Remove the quotation marks and the attribution for "fine-grained temporal dynamics", and correct any claim about discrete events. Re-verify both sources before writing.
-  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
-
 ### P3: `concepts/philosophy-of-time` References: five entries are uncited inline (Zimmerman 2011, Varela 1999 (no venue), two SEP entries, IEP), and L139 "within femtoseconds" is unsourced
 - **Type**: refine-draft
 - **File**: obsidian/concepts/philosophy-of-time.md
@@ -5037,6 +5026,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-05: `topics/time-collapse-and-agency` L177 repeats the nirodha-samāpatti inversion ("as awareness without temporal flow (not unconsciousness)") that the 2026-11-05 philosophy-of-time deep review corrected against Laukkonen et al. 2023, and L183 credits "fine-grained temporal dynamics" to Fox et al. 2012, where the phrase does not occur
+- **Type**: refine-draft
+- **File**: obsidian/topics/time-collapse-and-agency.md
+- **Notes**: Live at 20:07Z (count 1 each): L177 "as awareness without temporal flow (not unconsciousness)"; L183 "fine-grained temporal dynamics" (attributed to Fox et al. 2012). The sibling fixes are in `concepts/philosophy-of-time` (commit 917580ea). (1) Nirodha-samāpatti: per the Laukkonen et al. 2023 PubMed abstract, practitioners report "a total absence of consciousness"; because all experience stops, the case cannot isolate temporal experience. Link [[cessation-versus-plenitude]], and match `temporal-consciousness-structure-and-agency` L220, which made the same repair. (2) Fox et al. 2012 (PMC full text): introspective accuracy about bodily (tactile) sensitivity rises logarithmically with meditation experience, "a curve they liken to skill learning". The study is cross-sectional, and its bearing is on trusting trained reports, not on discrete temporal events. Remove the quotation marks and the attribution for "fine-grained temporal dynamics", and correct any claim about discrete events. Re-verify both sources before writing.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
 ### ✓ 2026-11-05: `concepts/bi-aspectual-ontology` L92 says Russellian identity leaves "no room" for selection and "no mechanism for downward causation", stronger than `concepts/intrinsic-nature` L87's recalibrated "does not show identity theories causally idle"; plus a Velmans date clash and a self-citation pseudonym clash
 - **Type**: refine-draft

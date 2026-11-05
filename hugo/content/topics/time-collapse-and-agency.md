@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-25 09:32:39+00:00
+ai_modified: 2026-11-05 20:59:05+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -19,14 +19,14 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[philosophy-of-time]]'
 created: 2026-01-16
-date: &id001 2026-10-25
+date: &id001 2026-11-05
 description: Free will, quantum collapse, and time's arrow interlink. If consciousness
   selects outcomes and collapse creates irreversibility, agency and time connect.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:55:23+00:00
-lastmod: 2026-10-25 09:32:39+00:00
+lastmod: 2026-11-05 20:59:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -177,13 +177,13 @@ This metaphysics strengthens the [free will](/topics/free-will/) position, and d
 
 Meditation traditions offer phenomenological data relevant to this framework. What follows describes contemplative reports and the theoretical interpretation the framework places on them—these are distinct: the reports are first-person data; the interpretation is the framework's hypothesis about what they reveal.
 
-**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as awareness without temporal flow (not unconsciousness). *Interpretation*: if consciousness constitutes lived time through collapse involvement, withdrawing from collapse suspends its felt passage. The Madhyamaka reading runs the other way—cessation is taken as evidence *against* any substantial witness—so recruiting it for a substance-causal selecting self imports a metaphysics the source tradition denies, a tension the framework acknowledges rather than resolves.
+**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as a total absence of consciousness, not awareness without flow. *Interpretation*: the case fits the framework but, since all experience stops, cannot isolate temporal experience ([cessation-versus-plenitude](/concepts/cessation-versus-plenitude/)). The Madhyamaka reading runs the other way—cessation is taken as evidence *against* any substantial witness—so recruiting it for a substance-causal selecting self imports a metaphysics the source tradition denies, a tension the framework acknowledges rather than resolves.
 
 **Jhāna phenomenology.** Concentrative absorption shows systematic variation in temporal experience—normal flow in first jhāna, increasingly "timeless" quality in higher jhānas. *Report*: progressive dissolution of temporal markers without loss of awareness. *Interpretation*: reduced active selection is consistent with this sequence.
 
 **[Witness consciousness](/concepts/witness-consciousness/).** Vipassana and Dzogchen describe stable awareness *of* experience without participation *in* it. *Report*: observing thoughts arise and pass without choosing, with timeless-presence quality. *Interpretation*: suspended selection—consciousness present but not collapsing superpositions.
 
-**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second phenomenological distinctions—what [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) calls "fine-grained temporal dynamics" (Fox et al. 2012). *Report*: apparent temporal continuity reveals granularity under trained attention. *Interpretation*: if collapse creates experiential time-quanta, this granularity is expected.
+**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second granularity beneath apparent continuity, the grain [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) studies. *Interpretation*: if collapse creates experiential time-quanta, this granularity is expected. Fox et al.'s (2012) cross-sectional data bear only on trusting trained introspection: meditators' accuracy about bodily sensitivity tracked experience logarithmically, like skill learning.
 
 **What this cluster can and cannot establish.** Cessation, jhāna, and witness consciousness are not three independent confirmations. They instantiate a single move—suspended or reduced active selection coinciding with suspended or attenuated temporal flow—so the cluster carries the evidential weight of one pattern, not several independent confirmations. The point becomes sharp when the *disruptive* altered states are brought alongside: deep anaesthesia (propofol, xenon) and dreamless slow-wave sleep *also* abolish the felt passage of time, as do the gross temporal disruptions of advanced [dementia](/topics/consciousness-and-neurodegenerative-disease/), persistent vegetative state, and severe brain injury. A consciousness-constituted-time framework explains these by "no selection, no flow"—but so does any production or non-constitutive account, which reads the same cases as "no functioning neural process, no temporal experience." The "suspended-process → suspended-flow" inference is available to both sides; the disruptive cluster is owed exactly the symmetric accommodation the [altered-states corpus](/concepts/altered-states-of-consciousness/) and [the anaesthesia interface analysis](/topics/anaesthesia-and-the-consciousness-interface/) develop, where the Map argues interface-narrowing rather than consciousness-abolition. The contemplative reports therefore constrain the framework's *phenomenological predictions*; they do not, by convergence, lift those predictions above the production rival, because the rival makes the parallel move on the parallel cases.
 
@@ -199,7 +199,7 @@ The framework makes commitments that could be empirically challenged:
 
 **3. A fundamental arrow.** If physics found an asymmetry fundamental enough to ground the arrow, time's direction would relocate from collapse to basic law. Known physics is CPT-symmetric; its weak-interaction T violation is too small, and of the wrong kind, to ground the thermodynamic and experienced arrows, which emerge from boundary conditions or collapse.
 
-**4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't match the framework's predictions—if cessation involved normal time perception, or witness consciousness felt accelerated rather than suspended—this would undermine phenomenological support. The available reports (e.g. the altered time-perception of deep concentrative states catalogued in the contemplative-science literature, and the sub-second temporal discriminations of trained introspectors documented by Fox et al. 2012) are broadly consistent with the predictions; but the strength of this falsifier is limited because the alignment lives in the elastic interpretation layer (any reported temporal phenomenology can be re-mapped onto more or less active selection), and because the disruptive altered states make the parallel prediction available to production accounts (see Contemplative Evidence above). This remains an empirical question whose discriminating power is weaker than convergence-talk suggests.
+**4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't match the framework's predictions—if cessation involved normal time perception, or witness consciousness felt accelerated rather than suspended—this would undermine phenomenological support. The available reports (e.g. the altered time-perception of deep concentration and trained introspectors' sub-second discriminations) are broadly consistent with the predictions; but the strength of this falsifier is limited because the alignment lives in the elastic interpretation layer (any reported temporal phenomenology can be re-mapped onto more or less active selection), and because the disruptive altered states make the parallel prediction available to production accounts (see Contemplative Evidence above). This remains an empirical question whose discriminating power is weaker than convergence-talk suggests.
 
 **5. Decoherence timescales conclusively ruled out.** If experiments definitively demonstrated that no quantum effects survive in neural tissue at any relevant timescale—not in microtubules, not in nuclear spins, not through Zeno mechanisms—the physical basis would fail. Current evidence is mixed: the microtubule work cited under (1) concerns laboratory preparations and behaviour rather than coherence in the intact brain, and does not establish that functionally relevant quantum effects survive at neural timescales.
 
