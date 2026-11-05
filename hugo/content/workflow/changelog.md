@@ -1,13 +1,69 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 04:04:17+00:00
+ai_modified: 2026-11-05 05:38:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 04:04:17+00:00
+lastmod: 2026-11-05 05:38:44+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-05T05:38:44+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-05 (subject: full-site audit, the site-stale-7d fallback; Claude and Gemini reused ChatGPT's subject, each with its own prompt)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro)
+- **Clusters**: 4 convergent content clusters, all two-reviewer (C1 perceptual-failure production strawman; C2 [P-Q2](/positions/quantum-interface/#p-q2) quantifier and public conditioning; C3 Tenet 3 quantifier in AI verdicts; C4 [P-Q1](/positions/quantum-interface/#p-q1)'s credence band), 3 two-reviewer methodology recurrences (propagation, correlated review, hard ceilings), 14 singleton tasks plus 2 singleton NEEDS-HUMAN entries, 7 rejected convergences, 2 divergences. No three-reviewer cluster: Gemini joins none after relocation.
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1): `topics/perceptual-failure-and-the-interface` L108/L114 (ChatGPT §7.8–7.9 + Claude via the archived `perceptual-degradation` predecessor; both strings count 1 live; the same L114 fix was asked for on 2026-06-11 and the refine fd02950c4b kept it).
+- **Not upgraded, with reason**: C2 is already a blocked P1 HUMAN DECISION; C3's Claude-leg task (`concepts/substrate-independence` L126) depends on the Tenet 3 NEEDS-HUMAN, so it got a coordination note instead; C4 has no owning task (recorded on the [P-Q2](/positions/quantum-interface/#p-q2) entry; the driver should decide whether to mint a positions-evolve re-adjudication); R1 `concepts/working-memory` L127 is a topical agreement only, because ChatGPT names no page and calls the ten-bit caveat correct.
+- **Tasks deduplicated**: 0 (all 16 cycle tasks target distinct files; no open duplicate elsewhere)
+- **todo.md**: 1 heading P2→P1 in place, with `Review files`, a `Synthesis` line, a convergent preamble and a COMBINE ADD-ON. COMBINE NOTEs went on the substrate-independence and working-memory P2s. Convergence notes went on the [P-Q2](/positions/quantum-interface/#p-q2) P1 HUMAN DECISION (in-line), the Tenet 3 NEEDS-HUMAN (+2 lines) and the methodology-ratification NEEDS-HUMAN (+1 line). `parse_tasks` active 353 → 353; P1 3 → 4, P2 31 → 30. No article edited.
+- **Reviewer reliability**: ChatGPT read live and verifies best but names pages, not lines. Claude fetched only the changelog and homepage live: 7 already-fixed claims, 3 archived pages, 3 false absence claims. Gemini quotes verbatim but misattributes 3 of 5 pages, and 2 of its 5 weaknesses fail against the page or source.
+- **Output**: [outer-review-synthesis-2026-11-05](/reviews/outer-review-synthesis-2026-11-05/)
+- **Model**: claude-opus-5-5
+
+---
+
+## 2026-11-05T05:19:45+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Pro High, Deep Research; `gemini-3-1-pro`), collected by collect-gemini-review. Commissioned 04:11:09Z; ready on the first collect attempt (05:07Z: no stop button, report panel present). Pending entry: `collected`, 0 attempts.
+- **File**: [outer-review-2026-11-05-gemini-3-1-pro](/reviews/outer-review-2026-11-05-gemini-3-1-pro/) (subject: full-site audit, reused from the ChatGPT leg)
+- **Extraction**: The report panel (the only `.markdown-main-panel` with an `h1`, 28,044 characters of textContent) was walked to 28,338 characters of markdown and read out in 34 chunks with no truncation. Letters-only paragraph hashes match 42 of 42 paragraphs, apart from the 3 where KaTeX triple renderings were collapsed to LaTeX. The source-list panel was not captured.
+- **Claims verified**: 24 Map-side quotes grep-counted on the named page and then corpus-wide, plus 3 source checks: Crossref for Baumgartner, Crossref for the Naccache query (no response), and the Zheng & Meister arXiv v2 text read in full.
+- **Misattributions**: 3 of 5 named pages lack the quoted text. The bandwidth quotes live at `concepts/working-memory` L127. The Cogitate quote "confirmed the pre-paradigm state rather than resolving it" has 0 hits corpus-wide, and the unfolding-argument page has no Cogitate content.
+- **False alarms**: (1) DP "suppression": the Penrose page's lead and its L40–52 section concede the 2021 falsification and the free-R₀ cost. (2) Zheng & Meister as a motor-only bottleneck: the source's speedcubing passage rejects this. (3) Baumgartner misdated as 2020; it is 2010, CJP 40(3):359–383. (4) Phillips "successfully modeled" blindsight: Michel & Lau 2021 contest it.
+- **High-value findings**: 4 verified residues. (1) `concepts/conscious-vs-unconscious-processing` L121 calls blindsight "the clearest evidence" with no Phillips caveat, though 7 pages treat the reading as live. (2) `concepts/working-memory` L127 claims a "match" between WM capacity and 10 bits/s, against Z&M's WM-invariance finding (converges with ChatGPT §7.7). (3) `topics/interventionist-and-counterfactual-dualism` is missing the Baumgartner bill that the 09-07 research note prescribed. (4) `topics/experimental-consciousness-science-2025-2026` L50 GNWT ignition overstatement, without the Naccache et al. 2025 reply.
+- **Convergence**: none with today's ChatGPT or Claude tasks (their reviews have 0 hits for Phillips, blindsight, Baumgartner, Vaassen and Cogitate); no CONVERGENCE notes appended.
+- **Tasks generated**: 4 (P2 ×4; parse_tasks active 349 → 353; todo L4652, L4673, L4691, L4707).
+- **Model**: claude-opus-5-5
+
+---
+
+## 2026-11-05T05:04:54+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (`claude-fable-5-1`, Research), collected by collect-claude-review. Commissioned 03:09:01Z; research complete (284 sources, 11m 6s); ready on poll 1 of the first collect attempt (04:52Z). The artifact tile matched in the conversation pane; the sidebar "View all" was excluded.
+- **File**: [outer-review-2026-11-05-claude-fable-5-1](/reviews/outer-review-2026-11-05-claude-fable-5-1/) (subject: full-site audit, reused from the ChatGPT leg)
+- **Extraction**: DOM walk of the artifact panel's largest `.standard-markdown` gave 58,046 characters of markdown, from a `textContent` of 46,690 (link URLs and markup account for the difference). The body was stable at 46,690 across the 10 s sentinel and was saved by Blob download. It ends on the Caveats list; no truncation. Screenshot scale this run: 0.665 (1246-px frame / 1873-px viewport).
+- **Claims verified**: about 45 Map-side quotations grep-counted on the live tree. One source was re-checked at OpenAlex: the Elga 2025 abstract, doi 10.1111/phpr.70014. The reviewer fetched only the changelog and homepage live, and most of its page quotations came from stale index renderings.
+- **High-value findings**: 5 verified and tasked. (1) `topics/machine-consciousness` L229 says the tenets "Each independently" give reason to doubt uploading, then concedes Tenet 5 "cuts both ways". (2) `concepts/substrate-independence` L126 makes Tenet 3 necessary for AI consciousness against its own L128/L130. (3) `voids/observer-selection-void` L67 still quotes Elga's 2024 manuscript; the published *PPR* 2025 paper calls the instability threat "an illusion". This is the 10-15 research note's unminted item, and "opposite framing" overstates the change. (4) [P-CS7](/positions/consciousness-scope/#p-cs7)'s Boltzmann-brain commitment is absent from the register (0 hits in positions/), another unminted 10-15 item. (5) `topics/cognitive-science-of-dualism` L103 understates Laukkonen, Friston & Chandaria 2025.
+- **False alarms**: the selection-vs-biasing "contradiction" (the Tenet 2 definition and [P-Q2](/positions/quantum-interface/#p-q2) both say "bias which outcome"); "No Tenet 4 apex" (`apex/one-world-wager` exists); Laukkonen 2025 "uncited" (two PP pages cite it); Georgiev "unremarked" (10+ pages). Already fixed: Stapp "biases … via the Zeno effect" (55a1895127), the many-worlds "Ontological Extravagance" row, the haecceity "doom" gloss, [P-SC1](/positions/subject-census/#p-sc1) invisibility, the altered-states register thesis, and the moral-apex externality. QMCI and protention were archived in March.
+- **Convergence**: CONVERGENCE note appended to ChatGPT's P2 `topics/perceptual-failure-and-the-interface` (todo L4549). Claude quoted the archived predecessor's version of the same strawman.
+- **Tasks generated**: 5 (P2 ×5; parse_tasks active 344 → 349; todo L4591, L4601, L4612, L4622 [positions-evolve], L4632). Also one picker-invisible NEEDS-HUMAN (homepage "might be" vs Tenet 1) at L4642.
+- **Model**: claude-opus-5-5
+
+---
+
+## 2026-11-05T04:39:52+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (`gpt-5-6-sol-pro`), collected by collect-chatgpt-review. Commissioned 02:23:54Z; complete on the first collect attempt (04:22Z, `[data-talvt-turn-state]="complete"`). Pending entry: `collected`, 0 attempts.
+- **File**: [outer-review-2026-11-05-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-05-chatgpt-5-6-sol-pro/) (subject: full-site audit, `fallback:site-stale-7d`)
+- **Extraction**: ChatGPT's own Copy control produced 54,283 characters of markdown, read via the X clipboard. A DOM walk of `[data-markdown-text-style]` gave 54,318 and the rendered text 49,252 (the difference is link URLs). The tail matches the rendered final item 30, so nothing was truncated. 3 query strings were stripped and 54 Map URLs converted to wikilinks.
+- **Claims verified**: about 30 Map-side claims were grep-counted on the live files, plus 9 source attributions checked against the Map's records (not re-fetched). Disputed: the quoted "Digital hardware suppresses relevant quantum indeterminacy" has 0 hits corpus-wide (a paraphrase in quotation marks). The Steward Tenet 1 drift is already fixed at `where-the-substance-commitment-enters` L44. The Tenet 4 "unanswered omission" is answered at tenets L117/L121 and recorded as canonical by tenet-check-2026-08-22.
+- **High-value findings**: 6 verified. (1) `apex/taxonomy-of-voids` L231/L233 evidence verbs contradict L225 and [P-V1](/positions/voids-as-evidence/#p-v1); three tenet checks flagged them and none tasked them. (2) The process apex calls anti-emergentism the Map's insight, against `emergent-dualism` L84, and drops the process-physicalism concession. (3) A semantic-ratification dilemma absent from the indexing-law page. (4) Tenets L77 calls Hagan et al.'s figures "corrected" (six sibling pages repeat it). (5) The perceptual-failure L114 activity-level strawman. (6) The collapse-priority and composition debts are installed in concepts but missing from `tenets/background-commitments`.
+- **Already queued (convergence only)**: [P-Q2](/positions/quantum-interface/#p-q2) quantifier (P1 HUMAN DECISION ~L1622), Tenet 3 quantifier (~L673), constitution layering / subjecthood promotion (~L720), correction propagation (~L737), P-M gates (~L1660).
+- **Tasks generated**: 7 (P1 ×1, P2 ×5, P3 ×1; parse_tasks active 337 → 344; todo L4505, L4516, L4527, L4538, L4549, L4560, L4571). Also one picker-invisible NEEDS-HUMAN (retitle) at L4581. It records that a `title:` change does not move a Hugo URL here, the cost the 2026-10-08 synthesis cited for not acting.
+
 ---
 
 ## 2026-11-05T04:04:17+00:00 - pessimistic-review

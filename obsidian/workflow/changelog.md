@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T05:19:45+00:00
+ai_modified: 2026-11-05T05:38:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-05T05:38:44+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-05 (subject: full-site audit, the site-stale-7d fallback; Claude and Gemini reused ChatGPT's subject, each with its own prompt)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro)
+- **Clusters**: 4 convergent content clusters, all two-reviewer (C1 perceptual-failure production strawman; C2 P-Q2 quantifier and public conditioning; C3 Tenet 3 quantifier in AI verdicts; C4 P-Q1's credence band), 3 two-reviewer methodology recurrences (propagation, correlated review, hard ceilings), 14 singleton tasks plus 2 singleton NEEDS-HUMAN entries, 7 rejected convergences, 2 divergences. No three-reviewer cluster: Gemini joins none after relocation.
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1): `topics/perceptual-failure-and-the-interface` L108/L114 (ChatGPT §7.8–7.9 + Claude via the archived `perceptual-degradation` predecessor; both strings count 1 live; the same L114 fix was asked for on 2026-06-11 and the refine fd02950c4b kept it).
+- **Not upgraded, with reason**: C2 is already a blocked P1 HUMAN DECISION; C3's Claude-leg task (`concepts/substrate-independence` L126) depends on the Tenet 3 NEEDS-HUMAN, so it got a coordination note instead; C4 has no owning task (recorded on the P-Q2 entry; the driver should decide whether to mint a positions-evolve re-adjudication); R1 `concepts/working-memory` L127 is a topical agreement only, because ChatGPT names no page and calls the ten-bit caveat correct.
+- **Tasks deduplicated**: 0 (all 16 cycle tasks target distinct files; no open duplicate elsewhere)
+- **todo.md**: 1 heading P2→P1 in place, with `Review files`, a `Synthesis` line, a convergent preamble and a COMBINE ADD-ON. COMBINE NOTEs went on the substrate-independence and working-memory P2s. Convergence notes went on the P-Q2 P1 HUMAN DECISION (in-line), the Tenet 3 NEEDS-HUMAN (+2 lines) and the methodology-ratification NEEDS-HUMAN (+1 line). `parse_tasks` active 353 → 353; P1 3 → 4, P2 31 → 30. No article edited.
+- **Reviewer reliability**: ChatGPT read live and verifies best but names pages, not lines. Claude fetched only the changelog and homepage live: 7 already-fixed claims, 3 archived pages, 3 false absence claims. Gemini quotes verbatim but misattributes 3 of 5 pages, and 2 of its 5 weaknesses fail against the page or source.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-05]]
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-05T05:19:45+00:00 - outer-review
