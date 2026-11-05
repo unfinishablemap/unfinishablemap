@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T03:44:26+00:00
+ai_modified: 2026-11-05T04:04:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T04:04:17+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/open-individualism-and-the-de-combination-problem]] (3,798 words by analyze_length; topics hard limit 4,000, gate `>=`, so 201 words of headroom). Chosen because there are no drafts, and 121 live pages are named in no pessimistic review (coverage measured on review content, not filenames). The first six of those by `ai_modified` were skipped because their clusters (language, temporal phenomenology, memory, quantum foundations, voids, Lowe substance) were touched in the last two days. This page has zero outbound links to pages edited since 2026-11-04. All seven stability notes from the 2026-09-08 deep review were read and respected; the Chalmers year is under a blocked NEEDS-HUMAN task and was not re-flagged.
+- **Top findings** (every quoted string has `str.count` == 1 on the live page):
+  - (1) HIGH. L111 says the Map "denies" a single cosmic conscious field and credits the de-combination avoidance to the Dualism tenet. But `concepts/mind-matter-interface` L70 is "intentionally agnostic about consciousness's ultimate nature—whether Mind at Large (Huxley)…". `concepts/altered-states-of-consciousness` L129 says "The psychedelic loosens filtering to allow more of Mind at Large through". Shani & Keppler's filtering model, verified in the open-access JAPA PDF, has the same Huxleyan structure. No prior review has connected the two topics: 19 review files mention Mind at Large, 102 mention de-combination or cosmopsychism, and none mention both.
+  - (2) L117's "conceptual problems about whether subject-subject parthood is even intelligible" and L85's "This dissolves rather than solves the problem." were never brought into line with the L87 concession and verdict.
+  - (3) The Map's closed individualism is defined synchronically at L107, against L55's diachronic definition. Empty individualism is never engaged, although tenets.md L123 and L184, P-I1 L54 and buddhism-and-dualism L163 all bear on it.
+  - (4) Sibling `topics/consciousness-and-the-metaphysics-of-individuation` L67 still carries the "boundaries conventional / useful fiction" gloss that d277aee5b5 removed from the target on 2026-07-30 as a Parfit misdescription.
+- **Verified, no defect**: Shani & Keppler's "fractured from" (L84) is verbatim in the PDF ("fractur" occurs 5 times). The SEP supplement's decombination sentence was re-fetched and matches. All eight forbidden labels, `load-bearing` and `This is not` count 0. The altered-state gate does not apply (0 supportive-cluster items).
+- **Tasks minted**: 4, inserted above `## Completed Tasks`. Two P2 and one P3 are on the target (Issues 1, 2, 3; each carries a share of the shared 201-word headroom). One P3 is on the sibling individuation page, with the apex mereology-of-mind as secondary. `parse_tasks` active count went from 333 to 337.
+- **Output**: [[reviews/pessimistic-2026-11-05-open-individualism-and-the-de-combination-problem]]
+- **Model**: claude-opus-5-5
 
 ## 2026-11-05T03:44:26+00:00 - refine-draft
 - **Status**: Success
