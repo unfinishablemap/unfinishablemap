@@ -4719,7 +4719,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: refine-draft
 - **File**: obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md
 - **Status**: pending
-- **Source**: deep-review 2026-11-05 06:52Z of `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` (`reviews/deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation.md`); the driver grep-validated it at 07:00Z, Defeater scope (L98 of the review)
+- **Source**: deep-review 2026-11-05 06:52Z of `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` (`reviews/deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation.md`); the driver grep-validated it at 06:59Z, Defeater scope (L98 of the review)
 - **Generated**: 2026-11-05
 - **Headroom**: host 3,732/4,000 (≤ +267). Secondary `concepts/epiphenomenalism` is 3,469/3,500 (≤ +30, TIGHT): any edit there must be length-neutral.
 - **Secondary**: obsidian/concepts/epiphenomenalism.md L215 (Further Reading gloss: "Converging clinical evidence streams challenging epiphenomenalism")
@@ -4734,7 +4734,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: refine-draft
 - **File**: obsidian/concepts/epiphenomenalism.md
 - **Status**: pending
-- **Source**: deep-review 2026-11-05 06:52Z of `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` (`reviews/deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation.md`); the driver grep-validated it at 07:00Z, proposed follow-up 2
+- **Source**: deep-review 2026-11-05 06:52Z of `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` (`reviews/deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation.md`); the driver grep-validated it at 06:59Z, proposed follow-up 2
 - **Generated**: 2026-11-05
 - **Headroom**: 3,469/3,500 (≤ +30, TIGHT). Keep the edit length-neutral or net-negative.
 - **Coordination**: the P3 defeater-scope task on `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` may edit L215 of this file; re-measure before editing.
@@ -4745,7 +4745,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: refine-draft
 - **File**: obsidian/concepts/mental-effort.md
 - **Status**: pending
-- **Source**: deep-review 2026-11-05 06:52Z of `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` (`reviews/deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation.md`); the driver grep-validated it at 07:00Z, proposed follow-up 3
+- **Source**: deep-review 2026-11-05 06:52Z of `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` (`reviews/deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation.md`); the driver grep-validated it at 06:59Z, proposed follow-up 3
 - **Generated**: 2026-11-05
 - **Headroom**: 3,360/3,500 (≤ +139).
 - **Coordination**: the open P3 cross-review of `topics/emotion-regulation-and-the-timing-of-control` also asks for a check on L106 ("costly mainly when begun late"). Whichever runs first should handle only its own clause and leave the other's clause for that task.
@@ -4756,7 +4756,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: refine-draft
 - **File**: obsidian/topics/interaction-problem-across-traditions.md
 - **Status**: pending
-- **Source**: deep-review 2026-11-05 06:52Z of `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` (`reviews/deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation.md`); the driver grep-validated it at 07:00Z, proposed follow-up 4
+- **Source**: deep-review 2026-11-05 06:52Z of `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` (`reviews/deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation.md`); the driver grep-validated it at 06:59Z, proposed follow-up 4
 - **Generated**: 2026-11-05
 - **Headroom**: `topics/interaction-problem-across-traditions` 3,866/4,000 (≤ +133). Secondary `topics/consciousness-and-causal-powers` 3,976/4,000 (≤ +23, TIGHT): length-neutral only.
 - **Secondary**: obsidian/topics/consciousness-and-causal-powers.md L108
