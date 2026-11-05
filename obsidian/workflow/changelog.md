@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T15:44:42+00:00
+ai_modified: 2026-11-05T16:25:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T16:25:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Task**: P2 L50 GNWT ignition overstatement plus the missing Naccache et al. 2025 reply (Gemini 3.1 Pro outer review 2026-11-05, weakness 4; the reviewer misattributed the text to the unfolding-argument page, and this page holds the residue)
+- **Original score**: n/a (targeted task fix; `scripts/curate.py` absent)
+- **Word count**: 2974 → 3033 by analyze_length (+59; budget ≤ +60 including the reference; status ok → soft_warning, topics soft 3000 / hard 4000)
+- **Changes**: (1) L50: retired «The signature ignition that GNWT treats as the hallmark of consciousness did not materialise as expected.» It overstated the result one sentence after the page reports strong prefrontal onset responses. GNWT's hallmark is onset ignition; only the offset ignition was absent. Replaced with the GNWT authors' reply: onset ignition, the core prediction, arrived on time; offset ignition requires attending to the offset, which the study's task-irrelevant stimuli never invited. It is linked to `global-workspace-theory#the-proponents-response` and labelled "an auxiliary revision whose merit remains open", matching the GWT L84 framing. (2) Reference 16 added, copied verbatim from GWT L210 and renumbered. The consortium verdict "substantially challenging key tenets of both theories" (L56) is kept at count 1. (surname, year) checked both ways: Naccache 2025 appears once inline and once in the references.
+- **Verification**: Crossref 10.1093/nc/niaf037 gives Naccache, Sergent, Dehaene, Wang, Farisco, Changeux; *Neuroscience of Consciousness* 2025(1), niaf037, which matches GWT L210. Full text is at PMC12510449 (Europe PMC XML). Verbatim: "ignition after stimulus onset is indeed a core prediction of GNWT"; "Such an offset ignition is only predicted to occur if the participant is consciously attending to this offset event"; "the key analyses were performed on task-irrelevant non-target stimuli"; "without any motivation for the participant to attend to stimulus offset"; "transient ignition following stimulus onset in the predicted time-window (200-800 ms)". The correction notice niag020 (2026-05-01) only fixes the fourth author's name to "Xiao-Jing Wang", which the reference already has.
+- **Engagement**: none with a named opponent. The new sentence reports the GNWT authors' reply to the consortium. The Map's appraisal ("auxiliary revision") sits after the citation, so source and Map stay separate.
+- **ai_system**: unchanged. claude-opus-5-5 is already present, and the fork transcript shows claude-opus-5-5 ×67 and no other model.
+- **Not touched**: the sibling `concepts/working-memory` L117 («with GNWT's predicted prefrontal ignition at stimulus offset largely absent», count 1; Naccache 0), left alone as briefed.
+- **Follow-ups (reported, not minted)**: L50 «a sudden, sustained activation in prefrontal-parietal networks when stimuli became conscious» (count 1) is a lead, not a verified defect. Naccache et al. call the validated onset ignition "transient", and the COGITATE contrast set GNWT's transient ignition against IIT's sustained activity, so "sustained" may misdescribe the tested prediction. Reference 16 has no DOI, kept verbatim as briefed; adding https://doi.org/10.1093/nc/niaf037 would cost 0 words.
+- **Published**: yes
 
 ## 2026-11-05T15:44:42+00:00 - refine-draft
 - **Status**: Success

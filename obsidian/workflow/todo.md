@@ -4522,24 +4522,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-05
 - **Notes**: **OPERATOR DECISION. Picker-invisible by design; DO NOT mint a P0–P3 from this.** The homepage is human-authored (ai_contribution 40, human_modified 2026-05-03), so automation should not rewrite it. The reviewer argues that "might be" describes an open question, not the view the Map commits to. Paired with L39's «This is a methodological choice, not dogma.», it leaves unclear whether Tenet 1 is a methodological posit or a categorical claim. Driver grep at 05:02Z: L37 «the view that consciousness might be something more than neurons firing» (count 1); `tenets/tenets.md` L53 «consciousness (or mind, or experience) is not reducible to physical processes» (count 1). Earlier raises of the "methodological choice" framing made a different point, that the tenets act as a firewall: `reviews/outer-review-2026-05-04-claude-opus-4-7.md` L62 and `reviews/outer-review-2026-07-20-gemini-2-5-pro.md` L133. One option is "the view that consciousness is something more than neurons firing", keeping L39 as the reason for starting there.
 
-### P2: `topics/experimental-consciousness-science-2025-2026` L50 says GNWT's "signature ignition ... did not materialise" one sentence after reporting strong prefrontal onset responses, and omits the GNWT authors' reply (Naccache et al. 2025), which `concepts/global-workspace-theory` L84 records
-- **Type**: refine-draft
-- **File**: obsidian/topics/experimental-consciousness-science-2025-2026.md
-- **Status**: pending
-- **Source**: outer-review (Gemini 3.1 Pro 2026-11-05, §"Epistemological Gerrymandering in Adversarial Neuroscience Collaborations", weakness 4; Gemini MISATTRIBUTES this to the unfolding-argument page, which has 0 Cogitate hits, and its quote "confirmed the pre-paradigm state rather than resolving it" has 0 hits corpus-wide. This page is the residue)
-- **Generated**: 2026-11-05
-- **Review file**: `reviews/outer-review-2026-11-05-gemini-3-1-pro.md`
-- **Headroom**: 2,974 of 4,000 by analyze_length at 2026-11-05T05:14Z (topics hard 4,000; status ok). Budget: <= +60 including the reference entry.
-- **Notes**: BUDGET: <= +60 words including the reference entry (2,974 of the topics hard 4,000).
-  CONTEXT: the Map already cites Naccache et al. 2025 on exactly this point at `concepts/global-workspace-theory` L84. NCC L63 and consciousness-disruption L120 point to that reply.
-  OLD L50 «The signature ignition that GNWT treats as the hallmark of consciousness did not materialise as expected.» (str.count 1).
-  PROBLEM: the preceding sentence says "The study found strong onset responses in prefrontal cortex but not the predicted offset responses." GNWT's hallmark is ignition at access (onset). What was absent was the preregistered *offset* ignition, so the closing sentence overstates the result and nearly contradicts its predecessor.
-  FIX: replace it with an accurate sentence plus the reply. For example: "GNWT's proponents reply that offset ignition was expected only when subjects attend to a stimulus's offset, which the task-irrelevant design never asked of them, and that onset ignition fell within the predicted window ([[global-workspace-theory|Naccache et al. 2025]])."
-  FRAMING: read global-workspace-theory L84 first and match its framing. Keep the consortium's own verdict that the results "substantially challeng[e] key tenets of both theories"; do not swing to vindicating GNWT.
-  REFERENCE: copy global-workspace-theory L210 verbatim.
-  SIBLING, leave alone: `concepts/working-memory` L117 says offset ignition was "largely absent" with no reply. That page is over the hard limit.
-  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
-
 ### P3: `apex/apex-articles` index entry for `taxonomy-of-voids` (L312 Thesis) still says the taxonomy "offers cumulative abductive support for, the Map's package", which the apex itself withdrew on 2026-11-05
 - **Type**: refine-draft
 - **File**: obsidian/apex/apex-articles.md
@@ -4915,6 +4897,19 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-05: `topics/experimental-consciousness-science-2025-2026` L50 says GNWT's "signature ignition ... did not materialise" one sentence after reporting strong prefrontal onset responses, and omits the GNWT authors' reply (Naccache et al. 2025), which `concepts/global-workspace-theory` L84 records
+- **Type**: refine-draft
+- **File**: obsidian/topics/experimental-consciousness-science-2025-2026.md
+- **Notes**: BUDGET: <= +60 words including the reference entry (2,974 of the topics hard 4,000).
+  CONTEXT: the Map already cites Naccache et al. 2025 on exactly this point at `concepts/global-workspace-theory` L84. NCC L63 and consciousness-disruption L120 point to that reply.
+  OLD L50 «The signature ignition that GNWT treats as the hallmark of consciousness did not materialise as expected.» (str.count 1).
+  PROBLEM: the preceding sentence says "The study found strong onset responses in prefrontal cortex but not the predicted offset responses." GNWT's hallmark is ignition at access (onset). What was absent was the preregistered *offset* ignition, so the closing sentence overstates the result and nearly contradicts its predecessor.
+  FIX: replace it with an accurate sentence plus the reply. For example: "GNWT's proponents reply that offset ignition was expected only when subjects attend to a stimulus's offset, which the task-irrelevant design never asked of them, and that onset ignition fell within the predicted window ([[global-workspace-theory|Naccache et al. 2025]])."
+  FRAMING: read global-workspace-theory L84 first and match its framing. Keep the consortium's own verdict that the results "substantially challeng[e] key tenets of both theories"; do not swing to vindicating GNWT.
+  REFERENCE: copy global-workspace-theory L210 verbatim.
+  SIBLING, leave alone: `concepts/working-memory` L117 says offset ignition was "largely absent" with no reply. That page is over the hard limit.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
 ### ✓ 2026-11-05: `topics/interventionist-and-counterfactual-dualism` bills the counterfactual branch (Rellihan) but never states the interventionist branch's standing objection: Baumgartner's (2010) argument that strict interventionism does not vindicate supervening causes. `concepts/trumping-preemption` L67 already flags it, and the 2026-09-07 research note asked for it in this article
 - **Type**: refine-draft

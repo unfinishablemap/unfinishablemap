@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-10-26 12:52:57+00:00
+ai_modified: 2026-11-05 16:25:34+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -24,7 +24,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 10:10:01+00:00
-lastmod: 2026-10-26 12:52:57+00:00
+lastmod: 2026-11-05 16:25:34+00:00
 modified: *id001
 related_articles:
 - '[[biological-computationalisms-inadvertent-case-for-dualism]]'
@@ -51,7 +51,7 @@ The Unfinishable Map treats consciousness as irreducible to physical processes. 
 
 The most significant consciousness experiment of 2025 was the COGITATE study, published in *Nature* in April 2025. Funded by the Templeton World Charity Foundation as part of a $20 million research programme launched in 2019, the study tested IIT and GNWT with 256 participants using fMRI, magnetoencephalography (MEG), and intracranial EEG.
 
-The results challenged both theories' key predictions. IIT predicted that content-specific neural activity would localise in a posterior cortical complex with high integrated information. The localisation was partially confirmed—information about conscious content appeared in visual, ventrotemporal, and inferior frontal cortex—but the predicted maximum of integrated information was not found. GNWT predicted a distinctive "ignition" pattern: a sudden, sustained activation in prefrontal-parietal networks when stimuli became conscious. The study found strong onset responses in prefrontal cortex but not the predicted offset responses. The signature ignition that GNWT treats as the hallmark of consciousness did not materialise as expected.
+The results challenged both theories' key predictions. IIT predicted that content-specific neural activity would localise in a posterior cortical complex with high integrated information. The localisation was partially confirmed—information about conscious content appeared in visual, ventrotemporal, and inferior frontal cortex—but the predicted maximum of integrated information was not found. GNWT predicted a distinctive "ignition" pattern: a sudden, sustained activation in prefrontal-parietal networks when stimuli became conscious. The study found strong onset responses in prefrontal cortex but not the predicted offset responses. GNWT's proponents reply that onset ignition, the theory's core prediction, arrived on time, while offset ignition requires attending to the offset, which the study's task-irrelevant stimuli never invited ([Naccache et al. 2025](/concepts/global-workspace-theory/#the-proponents-response))—an auxiliary revision whose merit remains open.
 
 As Anil Seth, a member of the collaboration, put it: "It was clear that no single experiment would decisively refute either theory. The theories are just too different in their assumptions and explanatory goals." Further adversarial collaborations are underway, including tests of Higher-Order Theories, Recurrent Processing Theory, and Attention Schema Theory.
 
@@ -146,3 +146,4 @@ The Map interprets these findings not as proof of dualism—no single experiment
 13. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598-608. https://doi.org/10.1056/NEJMoa2400645
 14. Salari, V., Seshan, V., Rishabh, R., Oblak, D., & Simon, C. (2026). Revisiting claims of extracranial biophoton detection from the human brain. Preprint, *bioRxiv* (31 March 2026) / arXiv:2603.26630. https://arxiv.org/abs/2603.26630
 15. Seth, A. K., & Bayne, T. (2022). Theories of consciousness. *Nature Reviews Neuroscience*, 23(7), 439-452. https://doi.org/10.1038/s41583-022-00587-4
+16. Naccache, L., Sergent, C., Dehaene, S., Wang, X.-J., Farisco, M., & Changeux, J.-P. (2025). GNW theoretical framework and the "adversarial testing of global neuronal workspace and integrated information theories of consciousness". *Neuroscience of Consciousness*, 2025(1), niaf037.
