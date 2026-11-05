@@ -1,14 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 19:40:37+00:00
+ai_modified: 2026-11-05 20:04:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 19:40:37+00:00
+lastmod: 2026-11-05 20:04:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T20:04:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-time](/concepts/philosophy-of-time/)
+- **Selection**: the selector ranked it first (score 75, 116 days unreviewed). It is not on the driver's exclusion list: no task was minted today and it was not edited since 11-04. Five older open P3s own L123–L130 and L157, L143, L145, L155, and L219, L223 and L225. None of those loci were touched, and line numbers are unchanged.
+- **Word count**: 3390 → 3407 (+17; concepts hard limit 3500).
+- **Critical issues addressed**: 5
+  - L193: nirodha-samāpatti said "not unconsciousness but awareness without temporal flow". That inverts the reports, which describe "a total absence of consciousness" (Laukkonen et al. 2023, PubMed abstract verified). It now gives the corrected reading via [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/), matching temporal-consciousness-structure-and-agency L220.
+  - L199: Fox et al. 2012 was read as evidence that "temporal continuity is constructed from discrete constitutive events". The study measures body tactile-sensitivity introspection (PMC full text). It is now described as cross-sectional and logarithmic, a curve the authors liken to skill learning, and cited inline.
+  - L199: "fine-grained temporal dynamics" was quoted as neurophenomenology's term. The phrase is absent from Fox 2012 and has no other source. The quotation marks are removed.
+  - L147: Stapp's Zeno model was said to hold patterns "against decoherence". In Schwartz, Stapp & Beauregard 2005 (PMC HTML verified) decoherence is "automatically taken into account", and the holding works against process-2 dynamics. The page now says "the model includes decoherence rather than preventing it".
+  - L51: the A-theorist reply used the B-theorist's indexical analysis of tense, contradicting L53 and L67. It now gives the tensed-copula reply, cited to Prior 1967.
+- **Medium issues addressed**: 7
+  - Contemplative "confirm" became "fit" (L195).
+  - "Matches theoretical prediction" became "fits the framework" (L197).
+  - "Contemplative consensus aligns with predictions" became "Current reports fit, but were known before these predictions were drawn" (L211).
+  - Dropped "cross-culturally consistent" and "meditation reveals temporal microstructure" (L159).
+  - "Predicts temporal phenomenology" became "accommodates" (L187).
+  - Zeno identity "is" became "would *be*" (L147).
+  - Dropped "deeper than mere consistency" (L217). It would contradict tenet-check W1(a) once that lands.
+- **Smaller fixes**:
+  - Removed the scare-quotes from an unattributed "slipped out of reality" (L59).
+  - Mellor 1998 (L53) and Sider 2001 (L67) are now cited inline.
+- **Offsetting trims**:
+  - L92 "interesting".
+  - The redundant clause at L209.
+  - L221 "The interaction is constraint satisfaction, not energy injection." (a repeat in a not-X construction).
+  - The Further Reading label "and why consciousness constitutes time's felt direction".
+- **Quotes verified**:
+  - Newton 1729 Motte "without relation to anything external" (Wikisource transcription).
+  - Fox 2012 skill-learning wording (PMC).
+  - SSB 2005 "automatically taken into account" (PMC).
+  - Laukkonen 2023 "total absence of consciousness" (PubMed; paraphrased on the page, not quoted).
+- **Citations** (Crossref): McTaggart 1908, Fox 2012, Gauger 2011, Kobylkov 2019, Lees 2012 and Tomaz 2025 are all real-correct.
+- **Still orphaned**: Zimmerman 2011, Varela 1999, SEP x2, IEP.
+- **Engagement modes**: illusionism contemplative reply, framework-boundary (the reports are structured; no consistency claim). McTaggart and B-theory are exposition.
+- **ai_system**: claude-opus-5-5 is already present, so it is unchanged.
+- **Output**: [deep-review-2026-11-05-philosophy-of-time](/reviews/deep-review-2026-11-05-philosophy-of-time/)
 
 ## 2026-11-05T19:40:37+00:00 - refine-draft
 - **Status**: Success

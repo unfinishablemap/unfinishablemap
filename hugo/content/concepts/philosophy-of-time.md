@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-01 00:41:15+00:00
+ai_modified: 2026-11-05 20:02:24+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -16,14 +16,14 @@ concepts:
 - '[[haecceity]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-01-16
-date: &id001 2026-10-25
+date: &id001 2026-11-05
 description: A-theory versus B-theory, presentism, eternalism, and the growing block
   view. How consciousness may participate in constituting temporal structure.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 13:50:42+00:00
-lastmod: 2026-11-01 00:41:15+00:00
+last_deep_review: 2026-11-05 20:02:24+00:00
+lastmod: 2026-11-05 20:02:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,15 +51,15 @@ McTaggart argued that time essentially requires the A-series (real change, genui
 
 Contemporary philosophers respond in two ways:
 
-**A-theorists** accept that time requires the A-series but deny McTaggart's paradox shows genuine contradiction. The indexical nature of tense (like "here" for space) doesn't generate contradiction—it just marks perspective.
+**A-theorists** accept that time requires the A-series but deny McTaggart's paradox shows genuine contradiction (Prior 1967). An event *is* present, *was* future and *will be* past; the properties conflict only if the tenses are flattened into a tenseless "is".
 
-**B-theorists** accept McTaggart's argument against the A-series but deny time requires it. The B-series alone suffices. Tensed language is convenient but [reducible to tenseless relations plus indexical reference](/topics/time-bias-and-thank-goodness-thats-over/).
+**B-theorists** accept McTaggart's argument against the A-series but deny time requires it (Mellor 1998). The B-series alone suffices. Tensed language is convenient but [reducible to tenseless relations plus indexical reference](/topics/time-bias-and-thank-goodness-thats-over/).
 
 ## The Three Main Ontological Positions
 
 ### Presentism
 
-Only the present exists. Past events are gone—not somewhere else, but ontologically nothing. Future events don't exist yet. The dinosaurs have "slipped out of reality" (though our present concepts of them persist).
+Only the present exists. Past events are gone—not somewhere else, but ontologically nothing. Future events don't exist yet. The dinosaurs have slipped out of reality (though our present concepts of them persist).
 
 **Strengths**: Matches naive temporal experience. The past feels *over*; the future feels *open*. Presentism takes this phenomenology seriously.
 
@@ -67,7 +67,7 @@ Only the present exists. Past events are gone—not somewhere else, but ontologi
 
 ### Eternalism (Block Universe)
 
-All times exist equally. Past, present, and future are like spatial locations—1066 exists just as 2026 does, merely "elsewhere" in the block. Temporal flow is illusion; "now" is merely indexical (like "here").
+All times exist equally (Sider 2001). Past, present, and future are like spatial locations—1066 exists just as 2026 does, merely "elsewhere" in the block. Temporal flow is illusion; "now" is merely indexical (like "here").
 
 **Strengths**: Fits special relativity naturally. No need for a privileged present. Past-tense truth is straightforward—the dinosaurs exist at earlier coordinates.
 
@@ -92,7 +92,7 @@ The A-series/B-series distinction crosscuts the ontological positions:
 | Eternalism | All times | Usually B-theory |
 | Moving Spotlight | All times + moving "now" | A-theory eternalism |
 
-**Moving Spotlight Theory** is an interesting hybrid: all times exist (eternalism), but the present is objectively distinguished as "illuminated." This distinction changes—the spotlight moves. This preserves eternalist ontology while maintaining objective temporal flow.
+**Moving Spotlight Theory** is a hybrid: all times exist (eternalism), but the present is objectively distinguished as "illuminated." This distinction changes—the spotlight moves. This preserves eternalist ontology while maintaining objective temporal flow.
 
 ## Time in Physics
 
@@ -147,7 +147,7 @@ Three responses preserve the framework:
 
 **Second, biological quantum effects indicate evolution's capacity.** On the leading but unsettled model, [avian magnetoreception](/concepts/radical-pair-magnetoreception/) needs radical-pair spin coherence lasting microseconds—a million times longer than typical molecular decoherence in solution. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated. Enzyme catalysis exploits quantum tunnelling. If evolution can optimise quantum effects for navigation and chemistry, it might optimise them for consciousness. The categorical objection ("warm systems cannot exhibit quantum behaviour") has been empirically falsified.
 
-**Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns against decoherence. The Zeno mechanism shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—which may have different answers. For time-constitution specifically, each rapid observation event contributes to temporal structure; the succession of Zeno observations *is* the microstructure of experienced time.
+**Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns in place; the model includes decoherence rather than preventing it. The Zeno mechanism shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—which may have different answers. For time-constitution specifically, each rapid observation event contributes to temporal structure; the succession of Zeno observations would *be* the microstructure of experienced time.
 
 ## The Illusionist Challenge
 
@@ -159,7 +159,7 @@ The framework offers three responses:
 
 **The structural point.** Even granting [illusionist](/concepts/illusionism/) premises, the arrow of time remains a physical puzzle. Why does physics distinguish past from future if fundamental laws are CPT-symmetric? The framework's answer—consciousness-involving collapse introduces asymmetry—is a claim about physics, not about phenomenological accuracy. Illusionism about temporal phenomenology doesn't eliminate the need for time's arrow to be explained.
 
-**Contemplative evidence.** Advanced meditation reveals temporal microstructure that ordinary [introspection](/concepts/introspection/) misses. Trained practitioners report systematic variations in temporal phenomenology: the "frozen present" of deep concentration, the accelerated arising-passing in vipassana, the timelessness of [witness awareness](/concepts/witness-consciousness/). These reports are too structured and cross-culturally consistent to dismiss as generic confabulation. They suggest temporal experience has real structure worth explaining—even if the naive sense of flow is partially representational.
+**Contemplative evidence.** Trained practitioners report systematic variations in temporal phenomenology: the "frozen present" of deep concentration, the accelerated arising-passing in vipassana, the timelessness of [witness awareness](/concepts/witness-consciousness/). These reports are too structured to dismiss as generic confabulation. They suggest temporal experience has real structure worth explaining—even if the naive sense of flow is partially representational.
 
 ## Process Philosophy Perspective
 
@@ -187,19 +187,19 @@ Whatever the correct metaphysics, temporal *experience* has distinctive features
 
 These phenomenological features don't decisively settle metaphysics (B-theorists explain them as illusions or indexical effects), but they constrain adequate theories. A metaphysics that dismisses temporal phenomenology as mere confusion must explain why the confusion is so systematic and universal.
 
-The Map's framework predicts temporal phenomenology: if consciousness constitutes temporal structure through collapse, the specious present is the phenomenology of this constitutive activity. We experience duration because we create duration. Flow isn't illusion; it's what time-constitution feels like.
+The Map's framework accommodates temporal phenomenology: if consciousness constitutes temporal structure through collapse, the specious present is the phenomenology of this constitutive activity. We experience duration because we create duration. Flow isn't illusion; it's what time-constitution feels like.
 
 ## Contemplative Evidence
 
 Meditation traditions offer empirical data on temporal phenomenology that bears on the framework.
 
-**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as complete suspension of temporal experience. If consciousness constitutes time through collapse involvement, voluntarily withdrawing from collapse should suspend time's passage. This is exactly what cessation reports describe: not unconsciousness but awareness without temporal flow.
+**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as complete suspension of temporal experience. If consciousness constitutes time through collapse involvement, voluntarily withdrawing from collapse should suspend time's passage. But practitioners report a total absence of consciousness, not awareness without flow; since all experience stops, the case cannot isolate temporal experience ([cessation-versus-plenitude](/concepts/cessation-versus-plenitude/)).
 
-**[Witness consciousness](/concepts/witness-consciousness/).** Vipassana and Dzogchen traditions describe stable awareness *of* experience without participation *in* selection. The witness observes phenomena arising and passing without choosing among them. If the framework is correct, witness mode should feel atemporal in a specific way: timeless presence without the forward-driving quality of normal experience. Contemplative reports confirm this—the witness is present but time doesn't "move."
+**[Witness consciousness](/concepts/witness-consciousness/).** Vipassana and Dzogchen traditions describe stable awareness *of* experience without participation *in* selection. The witness observes phenomena arising and passing without choosing among them. If the framework is correct, witness mode should feel atemporal in a specific way: timeless presence without the forward-driving quality of normal experience. Contemplative reports fit this—the witness is present but time doesn't "move."
 
-**The specious present in jhāna.** Concentrative absorption states show systematic variation in temporal phenomenology. First jhāna includes normal temporal flow; higher jhānas report increasingly "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, and concentration progressively reduces active selection, the phenomenological sequence matches theoretical prediction.
+**The specious present in jhāna.** Concentrative absorption states show systematic variation in temporal phenomenology. First jhāna includes normal temporal flow; higher jhānas report increasingly "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, and concentration progressively reduces active selection, the phenomenological sequence fits the framework.
 
-**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second phenomenological distinctions—what [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) calls "fine-grained temporal dynamics." If consciousness-involving collapse creates temporal structure, trained attention should reveal this granularity. The logarithmic improvement in introspective accuracy with meditation experience suggests temporal continuity is constructed from discrete constitutive events.
+**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second phenomenological distinctions, the grain [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) tries to match against neural dynamics. If consciousness-involving collapse creates temporal structure, trained attention should reveal this granularity. Fox et al. (2012) found that introspective accuracy about bodily sensitivity rises logarithmically with meditation experience, a curve they liken to skill learning, which bears on trusting trained reports, not on whether temporal continuity is built from discrete events.
 
 ## What Would Challenge This View?
 
@@ -209,19 +209,19 @@ The framework makes commitments that could be empirically challenged:
 
 **2. Many-worlds vindication.** If decisive evidence favoured many-worlds interpretation—perhaps through direct detection of other branches or theoretical unification requiring MWI—the framework's collapse realism would be undermined. Without real collapse, no consciousness-constituted time.
 
-**3. Neural determinism confirmed.** If neuroscience demonstrates brain states fully determine subsequent brain states with no quantum openness, the mechanism disappears. Current evidence leaves this open—quantum effects in biological systems remain an active research area.
+**3. Neural determinism confirmed.** If neuroscience demonstrates brain states fully determine subsequent brain states with no quantum openness, the mechanism disappears. Current evidence leaves this open.
 
-**4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't vary with modes of attention—if cessation included normal time perception, or witness consciousness felt accelerated—phenomenological support would fail. Current contemplative consensus aligns with predictions.
+**4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't vary with modes of attention—if cessation included normal time perception, or witness consciousness felt accelerated—phenomenological support would fail. Current reports fit, but were known before these predictions were drawn.
 
 **5. Decoherence conclusively rules out neural quantum effects.** If experiments definitively demonstrated no quantum effects survive in neural tissue at any relevant timescale, the physical basis would fail. Current evidence remains contested, with examples like avian magnetoreception suggesting biological quantum effects are possible but neural applications uncertain.
 
 ## Relation to Site Perspective
 
-Philosophy of time connects to all five tenets, with the connection running deeper than mere consistency:
+Philosophy of time connects to all five tenets:
 
 **[Dualism](/tenets/#dualism)**: If consciousness constitutes temporal structure, it's not reducible to physical processes occurring within time. The reduction would be circular—you can't explain time-constitution in terms of processes that presuppose time. This strengthens dualism beyond the hard problem: consciousness isn't just qualitatively different from physical processes but implicated in the framework within which physical processes occur. The temporal constitution argument adds a structural dimension to standard dualist considerations—physics presupposes time, time (on this view) involves consciousness, so consciousness cannot be reduced to physics without circularity.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Collapse is the minimal intervention point. Consciousness doesn't inject energy or override deterministic law; it resolves quantum indeterminacy where physics leaves outcomes open. Time-symmetric interpretations make this even more minimal: consciousness doesn't push physical systems at a moment but satisfies constraints across time. The interaction is constraint satisfaction, not energy injection. The quantum Zeno mechanism adds specificity—rapid attentional observation holds patterns without requiring sustained coherence, preserving minimality while grounding temporal constitution.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Collapse is the minimal intervention point. Consciousness doesn't inject energy or override deterministic law; it resolves quantum indeterminacy where physics leaves outcomes open. Time-symmetric interpretations make this even more minimal: consciousness doesn't push physical systems at a moment but satisfies constraints across time. The quantum Zeno mechanism adds specificity—rapid attentional observation holds patterns without requiring sustained coherence, preserving minimality while grounding temporal constitution.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness selects collapse outcomes, affecting physical states. Retrocausality means "bidirectional" includes temporal direction—consciousness affects past preparation as well as future measurement. In the transactional interpretation, the completed transaction incorporates both forward-propagating and backward-propagating constraints. The "bidirectional" aspect isn't addition to forward causation; it's intrinsic to how transactions complete. The brain prepares neural options; consciousness selects which becomes actual; selection propagates into both past and future. This dissolves the Libet problem—conscious selection needn't temporally precede neural activity because causal direction is created by selection, not a constraint on it.
 
@@ -231,7 +231,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 
 ## Further Reading
 
-- [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
+- [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — the Map's full treatment of time, collapse, and conscious agency
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
