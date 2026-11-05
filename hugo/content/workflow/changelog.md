@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 13:53:58+00:00
+ai_modified: 2026-11-05 14:50:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 13:53:58+00:00
+lastmod: 2026-11-05 14:50:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T14:50:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- **Source**: outer review 2026-11-05 (Gemini 3.1 Pro, weakness 3), from the ✓ Verification Note that this is a cross-page calibration gap. The ✗ (overstatement) note is honoured: Phillips is not adopted, and Michel & Lau (2021) is named as contesting him.
+- **Original score**: n/a (targeted calibration fix; `scripts/curate.py` absent)
+- **Changes**: (1) L121, FIX (a). «[blindsight](/concepts/blindsight/) provides the clearest evidence…» is now scoped with «On the orthodox reading,». Added: «Phillips (2021) reads blindsight as qualitatively degraded conscious vision under a conservative report criterion; Michel & Lau (2021) dispute this. If he is right, the limitations below track signal quality, not consciousness, and the [masking evidence](#the-2025-fmri-reanalysis) carries the case.» The [visual-consciousness](/concepts/visual-consciousness/) pointer is folded into the scoped sentence («traces its access-versus-phenomenal divide through colour qualia, binding, and posterior-cortex correlates»). (2) Old L123–L128. The above-chance narrative is folded into the first "preserves" bullet («Forced-choice discrimination of orientation, motion, and emotional expression (above chance, well below normal)»). Two sentences are removed: «Visual information can guide behavior without conscious perception.», which stated the contested reading as fact with no scope, and «But the limitations are equally telling:». (3) Old L142, now L140, FIX (b). «Blindsight reveals that consciousness isn't a passive observer of processing that would occur anyway. It enables…» became «On the orthodox reading, blindsight shows that consciousness, far from passively observing processing that would occur anyway, enables…». This also retires a not-X/it-Y construction. (4) References. Michel & Lau (2021) is copied from `topics/perceptual-failure-and-the-interface` L168, without the rejoinder parenthetical, which this page does not cite. Phillips (2021) is copied from `concepts/blindsight` L234. To fund the entries, Gunasekaram (2024) is shortened from 12 authors to «Gunasekaram, C., et al.», which matches its in-text «Gunasekaram et al. (2024)». FIX (c) (L223) is not applied: no budget remained.
+- **Verification**: Crossref matches all three items of the exchange: 10.1037/rev0000254 (Phillips, 128(3):558–584), 10.1037/rev0000266 (Michel & Lau, 128(3):585–591) and 10.1037/rev0000277 (Phillips's reply, 592–595). The (surname, year) pairs match both ways for the new cites: 2 in-text and 2 references. The pre-existing bibliography-only entries are unchanged: Dehaene ×3, Derrien, Koch, Kouider, Lamme, Montemayor and Tomasello. Synced; every new string has count 1 and every retired string count 0, in both obsidian and hugo.
+- **Engagement**: Phillips (2021): Mode Three. This is an open empirical dispute. The page records it, names the counter-reply and scopes its claim conditionally; it claims no refutation. Epiphenomenalism is not conceded: «far from passively observing» is kept.
+- **Length**: 3480 → 3495 by analyze_length (+15, the budget cap; concepts hard limit 3500, gate `>=`)
+- **Published**: yes
 
 ## 2026-11-05T13:53:58+00:00 - check-tenets
 - **Status**: Warnings

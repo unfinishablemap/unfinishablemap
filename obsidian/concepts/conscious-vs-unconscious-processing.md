@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-11-03T09:24:07+00:00
+ai_modified: 2026-11-05T14:47:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,14 +118,12 @@ For the Map's argument here, the functional evidence for [[tenets#^bidirectional
 
 ## Blindsight: The Paradigm Case
 
-[[blindsight]] provides the clearest evidence that consciousness adds functionality beyond unconscious processing. [[visual-consciousness]] works this paradigm case out as the maximally-detailed sensory instance, where the same access-versus-phenomenal divide is traced through colour qualia, binding, and the posterior-cortex correlates.
+On the orthodox reading, [[blindsight]] provides the clearest evidence that consciousness adds functionality beyond unconscious processing; [[visual-consciousness]] traces its access-versus-phenomenal divide through colour qualia, binding, and posterior-cortex correlates. Phillips (2021) reads blindsight as qualitatively degraded conscious vision under a conservative report criterion; Michel & Lau (2021) dispute this. If he is right, the limitations below track signal quality, not consciousness, and the [masking evidence](#the-2025-fmri-reanalysis) carries the case.
 
-Patients with V1 damage report being completely blind in portions of their visual field. Yet when forced to guess about stimuli in their blind field, they perform above chance for orientation, motion, and emotional expression.
-
-Visual information can guide behavior without conscious perception. But the limitations are equally telling:
+Patients with V1 damage report being completely blind in portions of their visual field.
 
 **What blindsight preserves**:
-- Forced-choice discrimination (above chance, well below normal)
+- Forced-choice discrimination of orientation, motion, and emotional expression (above chance, well below normal)
 - Simple stimulus-response mappings
 - Automatic emotional responses
 
@@ -139,7 +137,7 @@ Patient DB could correctly point to targets in his blind field but never spontan
 
 ### The Functionality Gap
 
-Blindsight reveals that consciousness isn't a passive observer of processing that would occur anyway. It enables qualitatively different engagement with information:
+On the orthodox reading, blindsight shows that consciousness, far from passively observing processing that would occur anyway, enables qualitatively different engagement with information:
 
 - **With consciousness**: Information available for reasoning, planning, flexible combination with other knowledge, spontaneous action
 - **Without consciousness**: Information guides automatic responses through fixed pathways but cannot be deployed voluntarily
@@ -281,15 +279,17 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. *Trends in Cognitive Sciences*, 10(5), 204-211.
 1. Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486-492.
 1. Derrien, D., Garric, C., Sergent, C., & Chokron, S. (2022). The nature of blindsight: Implications for current theories of consciousness. *Neuroscience of Consciousness*, 2022(1), niab043.
-1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
+1. Gunasekaram, C., et al. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Kouider, S., & Dehaene, S. (2007). Levels of processing during non-conscious perception. *Philosophical Transactions of the Royal Society B*, 362(1481), 857-875.
 1. Silverstein, B. H., Snodgrass, M., Shevrin, H., & Kushwaha, R. (2015). P3b, consciousness, and complex unconscious processing. *Cortex*, 73, 216-227.
 1. Lamme, V. A. F. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences*, 10(11), 494-501.
 1. Lieberman, M. D. (2007). Social cognitive neuroscience: A review of core processes. *Annual Review of Psychology*, 58, 259-289.
+1. Michel, M. & Lau, H. (2021). Is blindsight possible under signal detection theory? Comment on Phillips (2021). *Psychological Review*, 128(3), 585–591.
 1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Naccache, L., & Marti, S. (2016). Why the P3b is still a plausible correlate of conscious access? A commentary on Silverstein et al., 2015. *Cortex*, 85, 126-128.
 1. Montemayor, C., & Haladjian, H. H. (2019). Recurrent processing theory versus global neuronal workspace theory: A comment on Pitts et al. *Philosophical Transactions of the Royal Society B*, 374(1770), 20180517.
+1. Phillips, I. (2021). Blindsight is qualitatively degraded conscious vision. *Psychological Review*, 128(3), 558-584.
 1. Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526. https://doi.org/10.1126/science.adq5229
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
