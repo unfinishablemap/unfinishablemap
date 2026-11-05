@@ -1,7 +1,7 @@
 ---
 ai_contribution: 15
 ai_generated_date: null
-ai_modified: 2026-10-30 18:41:00+00:00
+ai_modified: 2026-11-05 10:08:21+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -13,13 +13,13 @@ concepts:
 - '[[substance-property-dualism]]'
 - '[[dualism]]'
 created: 2026-01-02
-date: &id001 2026-10-30
+date: &id001 2026-11-05
 description: Five commitments that bound every article on The Unfinishable Map—chosen
   starting points, not proofs, exploring consciousness and the limits of knowability.
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
-lastmod: 2026-10-30 18:41:00+00:00
+lastmod: 2026-11-05 10:08:21+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
@@ -78,7 +78,7 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 
 **Empirical risk and indistinguishability from chance:** Escaping the timing objection has a cost worth naming plainly. Selecting between Born-equiprobable alternatives while the ensemble average stays |⟨φ|ψ⟩|² leaves no statistical signature in long runs: under any *unconditioned aggregate* test the mechanism is *empirically indistinguishable from chance*—by construction, not by any sensitivity limit. The bias acts on which single outcome is realised, not on the aggregate measure—the structure [the Born-rule article](/topics/born-rule-and-the-consciousness-interface/) develops, where the Born measure (and so the Hilbert-space geometry Gleason's theorem fixes) is left intact. Preservation binds only that unconditioned marginal, however: a deviation *conditioned* on intention, task or subject would test the corridor itself ([P-Q3](/positions/quantum-interface/#mechanism-debt); horn (a) of [Born-preserving causal efficacy](/apex/born-preserving-causal-efficacy/)), and no such test of the brain-internal corridor has yet run—the intention-to-RNG nulls of Maier et al. (2018) concern an external RNG, outside [brain-locality](/concepts/brain-interface-boundary/). Until some conditioned test returns a positive, the tenet remains an interpretive proposal rather than a tested commitment, and the page registers that here rather than letting the post-decoherence move appear to dissolve the empirical question.
 
-**The decoherence-timescale dispute:** Critics argue that quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times: 10⁻²⁰ seconds for neuron firing, 10⁻¹³ for microtubules. Hameroff's group (Hagan et al., 2002) disputed Tegmark's parameter choices and obtained corrected estimates of 10⁻⁵ to 10⁻⁴ seconds. The calculation is contested rather than settled, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters; the literature has not converged. This dispute matters only for candidate mechanisms that require *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). Post-decoherence-selection proposals do not depend on it.
+**The decoherence-timescale dispute:** Critics argue that quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times: 10⁻²⁰ seconds for neuron firing, 10⁻¹³ for microtubules. Hameroff's group (Hagan et al., 2002), defending Orch OR's specific microtubule state, obtained longer estimates of 10⁻⁵ to 10⁻⁴ seconds. Each figure depends on the superposition and environment assumed, and no measurement has observed the required neural coherent state. This dispute matters only for candidate mechanisms that require *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). Post-decoherence-selection proposals do not depend on it.
 
 **Biological precedent for quantum effects in warm systems.** [Avian magnetoreception's](/concepts/radical-pair-magnetoreception/) leading but unsettled model needs few-microsecond spin coherence in cryptochrome; Luo, Hungerland, Solov'yov, Subotnik & Hammes-Schiffer (2025, *Journal of the American Chemical Society* 147(47):43934–43945, [10.1021/jacs.5c15726](https://doi.org/10.1021/jacs.5c15726)) added computational support for the radical-pair mechanism, modelling how protein and solvent reorganisation stabilises the charge-transfer states it requires (Princeton's news release announcing the work followed in January 2026). This establishes a biological *precedent* rather than a licence for neural coherence: cryptochrome radical pairs are an extremely specific molecular architecture, and their existence does not by itself entail that microtubules or other neural structures sustain coherence at the scales consciousness would require. The narrower claim the Map leans on is that warm biological environments do not categorically rule out quantum-functional mechanisms—not the stronger claim that neural consciousness must use them. As a plausibility supplement this matters only for the mechanism candidates that need pre-decoherence coherence; the post-decoherence-selection path does not turn on it.
 

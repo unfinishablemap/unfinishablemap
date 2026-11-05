@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-11-04 21:35:02+00:00
+ai_modified: 2026-11-05 10:08:42+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[consciousness-physics-interface-formalism]]'
 - '[[brain-interface-boundary]]'
 created: 2026-03-20
-date: &id001 2026-03-20
+date: &id001 2026-11-05
 description: The consciousness-causes-collapse interpretation of quantum mechanics.
   How von Neumann's movable cut and Wigner's consciousness thesis shaped the Map's
   framework.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-04 21:35:02+00:00
-lastmod: 2026-11-04 21:35:02+00:00
+lastmod: 2026-11-05 10:08:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ Several objections have shaped the interpretation's reception:
 
 **Mechanism deficit.** Saying consciousness "causes" collapse names the proposed cause without specifying how it operates. What is the coupling between a non-physical mind and a quantum system? Without a mechanism, the interpretation is more a placeholder than a theory. The [consciousness–physics interface formalism](/concepts/consciousness-physics-interface-formalism/) explores what a rigorous specification of this coupling might look like.
 
-**Decoherence pressure.** This is the most serious physics-based objection. Tegmark (2000) calculated that plausible neural quantum candidates lose coherence on timescales of roughly 10⁻¹³ seconds for microtubule superpositions and 10⁻²⁰ seconds for ion-channel superpositions, against the ~10⁻³ seconds of cognitive operations and ~10⁻¹ seconds of conscious access. These specific timescales are contested—Hagan et al. (2002) argued Tegmark's parameters inflate the decoherence rate by several orders of magnitude, and 2025–2026 work (Wiest 2025) revisits the microtubule case—but the dispute is live rather than settled, and the gap to cognitive timescales survives even on the corrected estimates (see [decoherence](/concepts/decoherence/)). If [decoherence](/concepts/decoherence/) in warm wet brains destroys the relevant superpositions in femtoseconds, there is no window during which consciousness could modulate the dynamics—whatever the formalism permits, the physics rules it out at neural scales. This is not a peripheral objection; until a candidate substrate, an estimated decoherence time, and a proposed mechanism within that window are specified, the interpretation does not yet engage physics. The Map treats this as an open problem rather than a solved one. Partial responses run through (a) [interface locality](/concepts/brain-interface-boundary/), which restricts the relevant quantum events to the consciousness's own brain rather than requiring environment-coupled coherence, and (b) [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/), which places Stapp's Zeno hold at the competitive selection threshold and sets out the timing burden it faces. Neither response settles the timescale question; they constrain where to look.
+**Decoherence pressure.** This is the most serious physics-based objection. Tegmark (2000) calculated that plausible neural quantum candidates lose coherence on timescales of roughly 10⁻¹³ seconds for microtubule superpositions and 10⁻²⁰ seconds for ion-channel superpositions, against the ~10⁻³ seconds of cognitive operations and ~10⁻¹ seconds of conscious access. These specific timescales are contested—Hagan et al. (2002) argued Tegmark's parameters inflate the decoherence rate by several orders of magnitude, and 2025–2026 work (Wiest 2025) revisits the microtubule case—but the dispute is live rather than settled, and the gap to cognitive timescales survives even on the revised estimates (see [decoherence](/concepts/decoherence/)). If [decoherence](/concepts/decoherence/) in warm wet brains destroys the relevant superpositions in femtoseconds, there is no window during which consciousness could modulate the dynamics—whatever the formalism permits, the physics rules it out at neural scales. This is not a peripheral objection; until a candidate substrate, an estimated decoherence time, and a proposed mechanism within that window are specified, the interpretation does not yet engage physics. The Map treats this as an open problem rather than a solved one. Partial responses run through (a) [interface locality](/concepts/brain-interface-boundary/), which restricts the relevant quantum events to the consciousness's own brain rather than requiring environment-coupled coherence, and (b) [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/), which places Stapp's Zeno hold at the competitive selection threshold and sets out the timing burden it faces. Neither response settles the timescale question; they constrain where to look.
 
 ## From von Neumann–Wigner to Stapp
 

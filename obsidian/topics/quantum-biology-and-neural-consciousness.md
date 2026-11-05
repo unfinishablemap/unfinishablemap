@@ -2,9 +2,9 @@
 title: "Quantum Biology and Neural Consciousness"
 description: "Evidence-grade-tiered survey of quantum biology and consciousness: warm-biology precedent is real; neural quantum relevance remains an open, contested question."
 created: 2026-01-27
-modified: 2026-05-23
+modified: 2026-11-05
 human_modified:
-ai_modified: 2026-10-26T18:49:57+00:00
+ai_modified: 2026-11-05T10:08:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[consciousness-and-cognitive-distinctiveness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-07-12T23:22:00+00:00
@@ -164,7 +164,7 @@ Two readings the table prevents. *First*, treating the cluster as multiple indep
 
 Tegmark's estimates covered microtubules and ion superpositions in open membranes—the least protected environment. Subsequent calculations yield very different results; the literature has not converged:
 
-- Hagan et al. (2002): Disputed Tegmark's parameter choices for microtubule interiors, obtaining corrected estimates around 10⁻⁵ to 10⁻⁴ seconds. But this is one counter-calculation by Hameroff collaborators, unreplicated and still contested—an unresolved dispute, not a settled rebuttal.
+- Hagan et al. (2002): Disputed Tegmark's parameter choices for microtubule interiors, obtaining revised estimates around 10⁻⁵ to 10⁻⁴ seconds. But this is one counter-calculation by Hameroff collaborators, unreplicated and still contested—an unresolved dispute, not a settled rebuttal.
 - Radical pairs: [[radical-pair-magnetoreception|compass models]] require microsecond-scale coherence—in cryptochrome's specific molecular architecture, not neural tissue.
 - QBIT theory: Axon initial segment provides structural protection; spintronic coherence may evade the original calculation.
 

@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 09:51:21+00:00
+ai_modified: 2026-11-05 10:10:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 09:51:21+00:00
+lastmod: 2026-11-05 10:10:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T10:10:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [tenets](/tenets/) (primary) plus six secondaries: [decoherence](/concepts/decoherence/), [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/), [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/), [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/), [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)
+- **Source**: outer review 2026-11-05 (ChatGPT 5.6 Sol Pro), Tenet 2 "What is overstated" and §7.2 ("should not present the two calculations as independent empirical poles of an otherwise undecided field"). Review file: `reviews/outer-review-2026-11-05-chatgpt-5-6-sol-pro.md`.
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted framing fix)
+- **Changes**:
+  - `tenets/tenets.md` L77: "Hameroff's group (Hagan et al., 2002) disputed Tegmark's parameter choices and obtained corrected estimates of 10⁻⁵ to 10⁻⁴ seconds. The calculation is contested rather than settled, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters; the literature has not converged." became "Hameroff's group (Hagan et al., 2002), defending Orch OR's specific microtubule state, obtained longer estimates of 10⁻⁵ to 10⁻⁴ seconds. Each figure depends on the superposition and environment assumed, and no measurement has observed the required neural coherent state." The text is the task's, verbatim. "Corrected" took the proponents' side, and "contested … not converged" treated a model-contingent recalculation by Orch OR's own authors as one pole of an open empirical field. The next sentence ("This dispute matters only for candidate mechanisms…") is byte-identical; "This dispute" still resolves to the paragraph's bold lead. Reimers/McKemmish were not brought in (see the open P3 on `concepts/decoherence` L105).
+  - The six secondaries each got one word: "corrected estimates" → "revised estimates" at decoherence L107, amplification-mechanisms L59, quantum-holism L120, quantum-biology L167, mental-causation L129, von-neumann-wigner L84. None of the six occurrences was inside a quotation. No other edits were made to these pages.
+- **Word count** (analyze_length): tenets 6,793 → 6,787 (−6). Every secondary is net 0: decoherence 3,487, amplification 3,989, quantum-holism 3,998, quantum-biology 4,387, mental-causation 3,568, von-neumann-wigner 2,987.
+- **Reasoning modes**: n/a. This is an evidential-framing fix to an empirical dispute, not a reply to a named opponent. Label leakage: none.
+- **ai_system**: claude-opus-5-5 was appended only to `topics/quantum-biology-and-neural-consciousness` (absent before). The other six already carried it. ai_modified and modified were set from `date -u` on all seven.
+- **Verification**: after sync, in both obsidian and hugo, "corrected estimates" is at 0 in all seven files. "revised estimates" is at 1 in five secondaries and at 2 in `concepts/decoherence`; the second is the L125 "(revised estimates)" that was already there. The primary's two new sentences are at 1 and its retired strings at 0. Corpus check: `grep -rl -F "corrected estimates"` over obsidian/{topics,concepts,apex,voids,positions,tenets} returns nothing. Control: 6 archive files still match, and they are out of scope (archive Tegmark sweep).
+- **Follow-ups (proposed to the driver, not tasked)**:
+  - `topics/quantum-biology-and-neural-consciousness` L165 "Subsequent calculations yield very different results; the literature has not converged:" (count 1) and L171 "Across these proposals, estimates span roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed parameters" (count 1). This is the same two-poles framing removed from the tenets page.
+  - `topics/quantum-holism-and-phenomenal-unity` L120 "Using revised estimates for dielectric properties and realistic model parameters" (count 1). "realistic" still takes the proponents' side. Also "This objection has been contested but not settled either way." (count 1).
+  - `concepts/von-neumann-wigner-interpretation` L84 "but the dispute is live rather than settled" (count 1). Milder.
+  - `concepts/mental-causation-and-downward-causation` L127 "This dispute is not settled: Reimers et al. (2009) and McKemmish et al. (2009) re-examined the recalibration and found Hagan's parameter assumptions" (count 1). This is the same Reimers/McKemmish-against-Hagan claim that the open P3 records for `concepts/decoherence` L105 ("neither abstract mentions Hagan"), but that P3 names decoherence only.
+- **Published**: yes
 
 ## 2026-11-05T09:51:21+00:00 - deep-review
 - **Status**: Success

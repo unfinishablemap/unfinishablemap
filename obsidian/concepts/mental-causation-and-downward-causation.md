@@ -2,9 +2,9 @@
 title: "Mental Causation and Downward Causation"
 description: "How mental states cause physical effects despite Kim's exclusion argument. Downward causation acts at quantum indeterminacies collapse readings leave open."
 created: 2026-01-15
-modified: 2026-11-04
+modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-11-04T23:14:05+00:00
+ai_modified: 2026-11-05T10:08:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,7 +126,7 @@ Several responses are available, though none fully resolves the gap:
 
 **Revised coherence estimates**: Biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) may extend coherence by many orders of magnitude. Hagan, Hameroff, and Tuszyński (2002) disputed Tegmark's model parameters and derived estimates roughly eight to nine orders longer, reaching 10^-5 to 10^-4 seconds. This dispute is not settled: Reimers et al. (2009) and McKemmish et al. (2009) re-examined the recalibration and found Hagan's parameter assumptions either rest on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue (see [[decoherence]] for the full status). Even at face value, 10^-4 seconds is still three orders of magnitude short of neural decision timescales (~300ms). Longer coherence narrows the gap; it does not close it.
 
-**The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep sustained coherence. If consciousness operates through discrete observation cycles that each reset the quantum state, the requirement is no longer that a superposition survive ~300ms but that observation cycles recur faster than decoherence destroys each freshly reset state—every 10^-4 seconds or less if the corrected estimates hold, every 10^-20 seconds if Tegmark's ion figure does. This relocates the three-order-of-magnitude gap rather than closing it: "can coherence persist long enough?" becomes "can the observation cycles fire fast enough?", and the rate, number, and physical implementation of those cycles remain unspecified. No specified mechanism bridges the timing gap; the Zeno proposal is a research direction, not a mechanistic solution.
+**The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep sustained coherence. If consciousness operates through discrete observation cycles that each reset the quantum state, the requirement is no longer that a superposition survive ~300ms but that observation cycles recur faster than decoherence destroys each freshly reset state—every 10^-4 seconds or less if the revised estimates hold, every 10^-20 seconds if Tegmark's ion figure does. This relocates the three-order-of-magnitude gap rather than closing it: "can coherence persist long enough?" becomes "can the observation cycles fire fast enough?", and the rate, number, and physical implementation of those cycles remain unspecified. No specified mechanism bridges the timing gap; the Zeno proposal is a research direction, not a mechanistic solution.
 
 **Outcome selection persists**: [[decoherence]] explains why interference effects wash out, but outcomes still require determination—something must select which possibility becomes actual.
 
