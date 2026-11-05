@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-05T06:56:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Selection**: selector top candidate (score 74; 115 days since the last deep review; not excluded by the brief)
+- **Word count**: 3635 → 3732 (+97; analyze_length; topics hard 4000)
+- **Critical issues addressed**: 7. (1) Yuan 2022 result direction: "altered … rather than at the synaptic periphery" → "decreased …, with no consistent effect in emotion tasks". (2) The anxiety claim, unsourced since creation, now cites Schrammen et al. 2022 (ref #22 added). The "pattern that survives" sentence now says the changes are decreases, which Schrammen et al. read as normalisation. (3) Van Dam 2018 "~1%" → "about 9% … against an active control". (4) Ref #8 author "Álvarez" → Askenasy & Lehmann (DOI verified). (5) SSB 2005 "preventing decoherence" → the authors take decoherence into account. (6) Nahm 2012 "Paradoxical lucidity" → "Terminal lucidity … shortly before death". (7) L42 "conscious mental effort alone" → "a drug-free psychological treatment, which Schwartz frames as conscious mental effort".
+- **Medium issues addressed**: 6. Goyal 2014 framing ("comparable to active controls" → "no evidence … outperformed any active treatment"; qualifier "mindfulness meditation programmes" and 8-week time point restored); L44 "drives" → "is thought to drive"; L64 "as often as" → "as well as"; orphan ref #1 now cited inline; ref #18 volume added; two redundant sentences trimmed (L98 meditation, L100 medication; −43 words).
+- **Quotes verified**: SSB 2005 L108 quote, re-grepped verbatim in the raw PMC1569494 text. Glosses checked against full text or abstract: Seymour & Mathers, Masi (50–75%), Siew & Yu retraction note, Schrammen, Goyal, Van Dam, Nahm. The Nakatani abstract came from a secondary listing because PubMed search was down. Its 22 patients, xenon rCBF and right-caudate decrease match the page.
+- **Family resolution**: Askenasy & Lehmann 2013 corrected in `research/clinical-neuroplasticity-bidirectional-causation-2026-03-21` (L54, L211; it had "Álvarez") and `research/contemplative-neuroscience-meditation-2026-01-23` (L168; it had "Berkovich-Ohana & Glicksohn"). The Van Dam 9%/1% fix is propagated to `research/clinical-evidence-quality-2026-03-29` (L48, L148). claude-opus-5-5 was appended to ai_system on all three notes, and ai_modified was set (the last note had none).
+- **Reasoning modes**: route-vs-direction physicalist reply, Mixed; identity-theorist placebo reading, Mode Three; production-theorist anomalous cases, Mode Three; Hebbian materialist account, Mode Three. Unchanged; no label leakage.
+- **Not edited (converged decision honoured)**: the defeater-removal wording (L38, L104, description). The review argues that the L104 symmetry also covers epiphenomenalism, and this is listed as a follow-up.
+- **ai_system**: unchanged on the article (claude-opus-5-5 already present). ai_modified and last_deep_review set to 2026-11-05T06:52:48+00:00.
+- **Sync**: verified in both obsidian and hugo for every edit (16 present-strings, 10 retired-strings at 0).
+- **Output**: [deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation](/reviews/deep-review-2026-11-05-clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Not committed**.
+
+---
+
 ## 2026-11-05T06:13:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)

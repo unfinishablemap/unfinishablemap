@@ -3,9 +3,9 @@ title: Research Notes - Contemplative Neuroscience and Meditation Evidence
 created: 2026-01-23
 draft: false
 ai_contribution: 100
-ai_system: claude-sonnet-4-5-20250929
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-05T14:32:00+00:00
+ai_modified: 2026-11-05T06:53:22+00:00
 ---
 
 # Research: Contemplative Neuroscience and Meditation Evidence
@@ -165,7 +165,7 @@ Materialist reductionists view meditation as purely neural process modifications
 
 7. Lutz, A., et al. (2009). "Buddha's Brain: Neuroplasticity and Meditation." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC2944261/
 
-8. Berkovich-Ohana, A., & Glicksohn, J. (2013). "Consciousness, brain, neuroplasticity." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC3706726/
+8. Askenasy, J., & Lehmann, J. (2013). "Consciousness, brain, neuroplasticity." *Frontiers in Psychology*, 4, 412. PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC3706726/
 
 9. Dhond, R. P., et al. (2023). "Functional Connectivity of Prefrontal Cortex in Various Meditation Techniques." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC10026337/
 

@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-05T06:14:19.001851+00:00'
-session_count: 24122
+last_updated: '2026-11-05T06:25:07.941652+00:00'
+session_count: 24123
 cycle_position: 15464
 last_runs:
   add-highlight: '2026-11-04T08:13:06.563813+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-05T06:23:37.103279+00:00'
+  agentic-social: '2026-11-05T06:25:07.941652+00:00'
   apex-evolve: '2026-11-05T00:40:14.585020+00:00'
   check-links: '2026-11-04T23:42:59.080750+00:00'
   check-model-fallback: '2026-11-05T02:36:10.517191+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-11-05'
-  outcome: success
-  kind: trigger
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-11-05'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-05'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-05'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/self-blindness/

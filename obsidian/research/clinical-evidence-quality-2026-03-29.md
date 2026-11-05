@@ -3,7 +3,8 @@ title: Research Notes - Clinical Evidence Quality (Schwartz OCD, Meditation Effi
 created: 2026-03-29
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-11-05T06:53:22+00:00
 ---
 
 # Research: Clinical Evidence Quality — Schwartz OCD, Meditation Efficacy, Neuroplasticity Claims
@@ -45,7 +46,7 @@ The clinical evidence cited on The Unfinishable Map for bidirectional mental cau
 - **Key points**:
   - No universally accepted definition of "mindfulness" — a 5-minute phone app exercise gets treated the same as a 3-month retreat
   - Self-report mindfulness scales sometimes fail to correlate with actual meditation practice; in one case, experienced meditators scored as "less mindful" than binge-drinkers
-  - Only ~1% of mindfulness studies have moved beyond comparison to waitlist controls
+  - Only ~9% of mindfulness-intervention research had tested efficacy against an active control (an estimate Van Dam et al. report from Dimidjian & Segal 2015); the ~1% figure is research conducted outside research settings
   - Neuroimaging studies plagued by confounds: meditators have lower heart rates and different breathing patterns, creating spurious activation differences
   - Over 20 published cases of meditation-induced psychosis, mania, depersonalization, anxiety
   - Less than 25% of meditation trials actively assess adverse events (vs. 100% in pharmacology)
@@ -145,7 +146,7 @@ The clinical evidence cited on The Unfinishable Map for bidirectional mental cau
 - **Key arguments**:
   - Kral et al. (2022): 218 participants, active controls → no structural brain changes from MBSR
   - Van Dam et al. (2018): definitional confusion, measurement problems, adverse effects underreported
-  - Only ~1% of mindfulness studies compare against active treatments
+  - Only ~9% of mindfulness-intervention research had tested efficacy against an active control (not ~1%, which is the share conducted outside research settings)
   - Effect sizes shrink substantially when active controls replace waitlist controls
 - **Relation to site tenets**: Does not directly conflict with tenets, but undermines the empirical base that Map articles cite as supporting Tenet 3.
 

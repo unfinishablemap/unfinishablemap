@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-20 07:59:10+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-05 06:53:22+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 concepts: []
 created: 2026-03-21
-date: '2026-06-20'
+date: '2026-11-05'
 draft: false
-lastmod: 2026-06-20 07:59:10+00:00
+lastmod: 2026-11-05 06:53:22+00:00
 related_articles: []
 title: Research Notes - Clinical Neuroplasticity Evidence for Bidirectional Mental
   Causation
@@ -56,7 +56,7 @@ Clinical neuroplasticity research provides substantial empirical support for bid
   - Research shows meditation and contemplative practice produce structural brain changes directed by intentional mental states
 - **Tenet alignment**: Supports Tenets 1 and 3. The filter/transmitter model aligns with dualist frameworks.
 
-### Frontiers in Psychology — "Consciousness, Brain, Neuroplasticity" (Álvarez, 2013)
+### Frontiers in Psychology — "Consciousness, Brain, Neuroplasticity" (Askenasy & Lehmann, 2013)
 - **URL**: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00412/full
 - **Type**: Peer-reviewed article
 - **Key points**:
@@ -213,7 +213,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 - Schwartz, J. M., & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks/HarperCollins.
 - Beauregard, M., & O'Leary, D. (2007). *The Spiritual Brain: A Neuroscientist's Case for the Existence of the Soul*. HarperOne.
-- Álvarez, F. J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412.
+- Askenasy, J., & Lehmann, J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412. doi:10.3389/fpsyg.2013.00412
 - Masi, M. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
 - Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 - Ren, Y., et al. (2025). Activation likelihood estimation meta-analysis of the effects of cognitive behavioral therapy on brain activation in the treatment of depression and anxiety disorders. *Depression and Anxiety*, 3557367.
