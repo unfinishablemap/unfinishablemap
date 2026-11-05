@@ -2,9 +2,9 @@
 title: "Agent Causation"
 description: "Agent causation holds that persons originate actions directly as substances exercising causal powers. Central to libertarian free will and interactionist dualism."
 created: 2026-01-15
-modified: 2026-10-30
+modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-10-30T10:54:23+00:00
+ai_modified: 2026-11-05T03:42:24+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -80,7 +80,7 @@ This matters for [[mental-causation-and-downward-causation|mental causation]]. I
 
 ### Lowe's Framework
 
-Lowe's *Personal Agency* (2008) locates causation primarily at the substance level. Substances have *powers* (capacities to produce effects) and *liabilities* (susceptibilities to be affected). Free agents are "unmoved movers, or initiators of new causal chains", yet Lowe holds their volitions wholly uncaused: agents cause by acting, so an agent-caused volition would start a regress (Lowe 2008: 7). The Map's [[philosophy-of-action-under-dualism|philosophy of action under dualism]] borrows this framework but makes the agent's basic act an agent-caused *volition* (a trying) that biases quantum outcome-selection—the point at which the disappearing-agent objection to the event-causal "standard story" pushes toward the agent-causal base.
+Lowe's *Personal Agency* (2008) locates causation primarily at the substance level. Substances have *powers* (capacities to produce effects) and *liabilities* (susceptibilities to be affected). Free agents are "unmoved movers, or initiators of new causal chains" (Lowe 2008: 12), yet Lowe holds their volitions wholly uncaused: agents cause by acting, so an agent-caused volition would not be their most basic action (Lowe 2008: 7). The Map's [[philosophy-of-action-under-dualism|philosophy of action under dualism]] borrows this framework but makes the agent's basic act an agent-caused *volition* (a trying) that biases quantum outcome-selection—the point at which the disappearing-agent objection to the event-causal "standard story" pushes toward the agent-causal base.
 
 ### Why This Matters for Consciousness
 

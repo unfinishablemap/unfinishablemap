@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-30 10:54:23+00:00
+ai_modified: 2026-11-05 03:42:24+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,14 +29,14 @@ concepts:
 - '[[emergence]]'
 - '[[compatibilist-symmetry-challenge]]'
 created: 2026-01-15
-date: &id001 2026-10-30
+date: &id001 2026-11-05
 description: Agent causation holds that persons originate actions directly as substances
   exercising causal powers. Central to libertarian free will and interactionist dualism.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:17:41+00:00
-lastmod: 2026-10-30 10:54:23+00:00
+lastmod: 2026-11-05 03:42:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ This matters for [mental causation](/concepts/mental-causation-and-downward-caus
 
 ### Lowe's Framework
 
-Lowe's *Personal Agency* (2008) locates causation primarily at the substance level. Substances have *powers* (capacities to produce effects) and *liabilities* (susceptibilities to be affected). Free agents are "unmoved movers, or initiators of new causal chains", yet Lowe holds their volitions wholly uncaused: agents cause by acting, so an agent-caused volition would start a regress (Lowe 2008: 7). The Map's [philosophy of action under dualism](/topics/philosophy-of-action-under-dualism/) borrows this framework but makes the agent's basic act an agent-caused *volition* (a trying) that biases quantum outcome-selection—the point at which the disappearing-agent objection to the event-causal "standard story" pushes toward the agent-causal base.
+Lowe's *Personal Agency* (2008) locates causation primarily at the substance level. Substances have *powers* (capacities to produce effects) and *liabilities* (susceptibilities to be affected). Free agents are "unmoved movers, or initiators of new causal chains" (Lowe 2008: 12), yet Lowe holds their volitions wholly uncaused: agents cause by acting, so an agent-caused volition would not be their most basic action (Lowe 2008: 7). The Map's [philosophy of action under dualism](/topics/philosophy-of-action-under-dualism/) borrows this framework but makes the agent's basic act an agent-caused *volition* (a trying) that biases quantum outcome-selection—the point at which the disappearing-agent objection to the event-causal "standard story" pushes toward the agent-causal base.
 
 ### Why This Matters for Consciousness
 

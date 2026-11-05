@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 03:04:02+00:00
+ai_modified: 2026-11-05 03:44:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 03:04:02+00:00
+lastmod: 2026-11-05 03:44:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T03:44:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/) (primary); also [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) and [substance-causation-and-lowes-four-category-ontology-2026-07-06](/research/substance-causation-and-lowes-four-category-ontology-2026-07-06/)
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Source**: P3 from the 2026-10-21 deep review of [four-category-ontology](/concepts/four-category-ontology/), with the claude-fable-5-1 2026-10-29 extension (outer-review §2.5 row 2).
+- **Premise overturned at source**: the task said "unmoved movers, or initiators of new causal chains" was confirmed only in the *Personal Agency* publisher description. Google Books search-within on the OUP edition (`h50UDAAAQBAJ`, `jscmd=SearchWithinVolume2`, books.google.co.uk) places it in Lowe's own text at **p. 12**, in the Introduction. The snippet continues past the description's wording ("This is not to say that their actings, rather than they, are the causes…"), so it is book text, not a reproduced blurb. Controls: `volition` 8 hits, `own volitions` 6 hits, so the index is live. This agrees with the 2026-09-20 review of where-the-substance. The description reuses Lowe's p. 11–12 sentence verbatim. Under the brief's own exception, the phrase was given the page locator instead of being re-credited to the description.
+- **p. 7 verified, with a gloss correction**: p. 7 reads volitions are "completely uncaused, or entirely spontaneous … Nor, however, are they caused by the agents whose volitions they are. They could not be, given that they are our most basic actions and given, too, that an agent always causes an event by acting in some manner: for if they were so caused, then the actions by performing which agents caused their volitions would instead be our most basic actions." The word "regress" is not on p. 7: the book has it only at p. 156 and in the index ("regress, infinite 184"). "On pain of regress (7)" is Griffith's gloss (NDPR 2009.06.15, raw page fetched: "Because all agents cause by acting, they cannot cause their own volitions on pain of regress (7)"). Both pages had attached Griffith's word to Lowe's page, and both now state Lowe's p. 7 reason.
+- **Changes**:
+  - agent-causation L83: `"…causal chains", yet` → `"…causal chains" (Lowe 2008: 12), yet`; `an agent-caused volition would start a regress (Lowe 2008: 7)` → `an agent-caused volition would not be their most basic action (Lowe 2008: 7)`. The optional "middle path" fence was not added because it would not fit (+6 used of +7). The phrase is at p. 11 and p. vi.
+  - where-the-substance L40: `(*Personal Agency*, 12)` → `(Lowe 2008: 12)`, which puts both in-text citations in author–year form. `would start a regress (Lowe 2008: 7)` → `would not be their most basic action (Lowe 2008: 7), a consequence Griffith reads as a regress (Griffith 2009)`. The regress clause was kept, attributed to Griffith, because L42's "the regress an agent-caused volition invites" depends on it. `departs from him here` → `departs from Lowe here`, so the pronoun cannot pick up Griffith. Griffith 2009 was added to the References.
+  - research note, six in-place `**Correction (2026-11-05…)**` sub-bullets, with no history deleted. L47: wrong word order; p. 6 reads "there is strictly speaking no such thing as event causation - only causation by agents". L49 (not in the task; same lens): both quotes were clipped. p. 11 has "free and spontaneous exercises of the two-way power of the will"; p. 12 has "unmoved movers, or initiators of new causal chains". L78: Kistler "energy" attribution fails (0 hits for "energ"); recorded his real weak-dualism verdict and the 2022 metadata. L99: "necessarily embodied" versus Lowe 2012 "not necessary separable". L114: the Kistler/Gibb "relabeling" attribution failed. The Kistler citation line now notes that the full text was read on 10-21. Carruth & Gibb are not named; the note points to the 10-21 review's Remaining Items.
+  - ai_system: claude-opus-5-5 was already present on both articles and was not appended. It was appended to the research note (`claude-opus-4-8+claude-opus-5-5`), which also gained an `ai_modified` field.
+- **Word count (analyze_length)**: agent-causation 3491 → 3497 (+6; concepts hard 3,500, gate `>=`, still under). where-the-substance 2410 → 2444 (+34, of which about +12 is body and the rest the reference entry; under soft 2,500).
+- **Left alone (report only)**: [four-category-ontology](/concepts/four-category-ontology/) L57 still says "in the book's abstract" for a phrase now verified at p. 12, and it carries the same "would start a regress (Lowe 2008: 7)" gloss. [agent-causation-and-acting-for-reasons](/topics/agent-causation-and-acting-for-reasons/) L66 says "(book abstract)". Neither is false, because the abstract does contain the phrase, but both are less precise. `archive/concepts/substance-causation.md` L63 carries the phrase with no locator (archive-edit policy undecided). Carruth & Gibb 2018 remains unread.
+- **Sync**: `scripts/sync.py` run. Strings were checked with `grep -cF` in obsidian and hugo, and every count matched. Old forms `(*Personal Agency*, 12)` and `would start a regress` are 0/0 in both articles; new strings are 1/1; research `Correction (2026-11-05` is 6/6. `validate.py` reports all three hugo files valid.
+- **Published**: yes
 
 ## 2026-11-05T03:04:02+00:00 - refine-draft
 - **Status**: Success

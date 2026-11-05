@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_modified: 2026-11-05 03:43:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 concepts: []
 created: 2026-07-06
-date: '2026-07-06'
+date: '2026-11-05'
 draft: false
-lastmod: 2026-07-06 00:00:00+00:00
+lastmod: 2026-11-05 03:43:00+00:00
 related_articles: []
 title: Research Notes - Substance Causation and Lowe's Four-Category Ontology
 ---
@@ -49,8 +50,10 @@ E. J. Lowe (1950–2014) built a systematic Aristotelian-inflected metaphysics �
 - **Type**: Book (Oxford University Press, hardcover 2008, ISBN 9780199217144; paperback 2010, ISBN 9780199592500)
 - **Key points**:
   - The most systematic contemporary defence of **substance causation**; "strictly speaking there is no such thing as event causation" — only agents (animate and inanimate) cause.
+    - **Correction (2026-11-05)**: the quoted word order is wrong. Lowe's text reads "there is strictly speaking no such thing as event causation - only causation by agents" (*Personal Agency*, p. 6; Google Books search-within on volume `h50UDAAAQBAJ`, live index confirmed by a control query). The 2026-10-21 deep review of `concepts/four-category-ontology` could not verify the string above, and that article (L53) now paraphrases it without quotation marks.
   - **Agent causation is a species of substance causation**, not a sui generis add-on; human agency is distinctive only in its rational features.
   - **Volitions** are basic mental actions — "spontaneous exercises of the will," a **two-way power** rational agents freely exercise in light of reason. Free agents are "unmoved movers, initiators of new causal chains."
+    - **Correction (2026-11-05)**: both quotations above are clipped. Lowe's text reads "free and spontaneous exercises of the two-way power of the will, performed in the light of reason" (p. 11) and "unmoved movers, or initiators of new causal chains" (p. 12), both in the Introduction (Google Books search-within, `h50UDAAAQBAJ`). The OUP book description reuses the second phrase verbatim, so it is Lowe's own text as well as the publisher's.
   - Contains the **fact-causation vs event-causation** model of mental causation (a decision is causally responsible for the *fact that a movement of a certain kind* occurs; neural events cause the specific movement).
   - Includes the **Unity Argument** for NCSD: mental states require a unified subject the body (a mereological sum of replaceable parts) cannot provide.
 - **Tenet alignment**: Strongly supportive of Tenets 1 & 3; the two-way power is a direct metaphysical model of libertarian agency.
@@ -80,6 +83,7 @@ E. J. Lowe (1950–2014) built a systematic Aristotelian-inflected metaphysics �
 - **Type**: Paper / critical commentary
 - **Key points** (from search abstract; full PDF was access-blocked at fetch time — treat as secondary):
   - Reconstructs Lowe's model: the mental **does not affect the brain by adding or redistributing energy** — this is how the no-physics-gap claim is cashed out.
+    - **Correction (2026-11-05, recording the 2026-10-21 fix)**: this attribution fails. The phrase is not in Kistler's text: the full HAL copy, read for the 2026-10-21 deep review of `concepts/four-category-ontology`, has 0 hits for "energ". Kistler's actual verdict is that Lowe's arguments establish only a weak property dualism compatible with physicalism, though he grants that the decision is a cause specific to the movement while the neural cause is not (Kistler 2022, "Lowe's Dualist Construal of Mental Causation", in Szatkowski ed., *E. J. Lowe and Ontology*, Routledge, pp. 239–259). `concepts/four-category-ontology` L70 now presents the no-energy point as an implication of Lowe's own claim that mental causes exploit no gaps in physical causation (Lowe 2008: 117; Google Books search-within places a passage on "'gaps' in chains of physical causation" on that page).
   - Presents Kistler's **critical** angle on whether the fact-causation model genuinely secures causal efficacy.
 - **Tenet alignment**: Critical secondary source — useful for the objections section.
 - **Note**: Full text not retrieved (Anubis bot-wall on the fetch); cite only the abstract-level claims until the PDF is read directly.
@@ -101,6 +105,7 @@ E. J. Lowe (1950–2014) built a systematic Aristotelian-inflected metaphysics �
 ### Non-Cartesian Substance Dualism (NCSD)
 - **Proponents**: Lowe; related: Hoffman, some hylomorphists.
 - **Core claim**: The person/self is a distinct substance from the organic body (not identical to it or any part), yet is **necessarily embodied** — no Cartesian disembodied res cogitans. The self bears both mental and physical properties.
+  - **Correction (2026-11-05, recording the 2026-10-21 fix)**: "necessarily embodied" overstates Lowe. His 2012 NCSD chapter (newdualism.org PDF, read for the 2026-10-21 deep review) calls self and body "two distinct, but not necessary separable, individual substances" and says "we are not required to think of the two as separable". Lowe denies that the two must be separable; he does not assert that they cannot be. `concepts/four-category-ontology` L72 now reads "not necessarily separable from it".
 - **Key arguments**: Unity Argument (a subject of experience must be simple/unified in a way the body's replaceable-part mereology is not); the entanglement argument for mental/neural non-identity.
 - **Relation to site tenets**: Supports **Tenet 1 (Dualism)** with a *substance* reading while dodging Cartesian interaction embarrassments. Note: the Map's Dualism tenet is officially neutral between substance and property dualism (`substance-property-dualism`, `where-the-substance-commitment-enters`), so a Lowe article must present NCSD as *a* congenial option, not the Map's mandatory commitment.
 
@@ -116,6 +121,7 @@ E. J. Lowe (1950–2014) built a systematic Aristotelian-inflected metaphysics �
 - **Sides**: Kim (physicalist, closure + exclusion → no irreducible mental cause) vs Lowe (dualist).
 - **Core disagreement**: Whether a distinct mental cause is "excluded" by the sufficient physical cause. Lowe denies the shared premise that mental and physical causes target *the same* effect under *the same* causal relation.
 - **Current state**: Ongoing. Lowe's non-competition reply is influential but contested (Kistler; Gibb's own refinements). Critics ask whether "causing the fact that a kind of movement occurs" is doing real work or relabeling.
+- **Correction (2026-11-05, recording the 2026-10-21 fix)**: the Kistler/Gibb attribution failed. Kistler's full text has 0 hits for "relabel" or "genuine"; his critique is the weak-dualism verdict recorded under his entry above. Gibb's stance on fact-causation could not be verified. `concepts/four-category-ontology` L82 now states Kistler's actual critique and drops Gibb. The relabeling worry may be a live one, but no verified proponent is named here; see the Remaining Items of `reviews/deep-review-2026-10-21-four-category-ontology` for an unread lead.
 
 ### Does Substance Causation Reduce to or Replace Event Causation?
 - **Sides**: Lowe (substance causation primary; event-causation eliminable/derivative) vs mainstream event-causal orthodoxy (Davidson-descended).
@@ -162,5 +168,6 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the substan
 - Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford: Oxford University Press. [VERIFIED — OUP + NDPR]
 - Lowe, E. J. (2013). "Substance Causation, Powers, and Human Agency." In S. C. Gibb, E. J. Lowe & R. D. Ingthorsson (eds.), *Mental Causation and Ontology*, ch. 6, pp. 153–172. Oxford: Oxford University Press. [VERIFIED — Oxford Academic + OUP]
 - Kistler, M. "Lowe's Dualist Construal of Mental Causation." HAL hal-03953767. [SECONDARY — abstract only, full text not retrieved]
+  - **Correction (2026-11-05)**: full text read for the 2026-10-21 deep review of `concepts/four-category-ontology`. Published as Kistler (2022), in Szatkowski (ed.), *E. J. Lowe and Ontology*, Routledge, pp. 239–259, DOI 10.4324/9781003196341-16. See the corrections under the Kistler entry and the Exclusion Problem debate above.
 - "Mental Causation." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mental-causation/ [BACKGROUND — not read in full]
 - "Edward Jonathan Lowe." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/lowe-ej/ [SECONDARY — used for synthesis of positions/dates]
