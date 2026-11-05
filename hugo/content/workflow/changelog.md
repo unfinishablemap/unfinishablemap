@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 12:42:55+00:00
+ai_modified: 2026-11-05 12:57:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 12:42:55+00:00
+lastmod: 2026-11-05 12:57:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T12:57:26+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update, [P-CS7](/positions/consciousness-scope/#p-cs7) (one Asserts clause plus a dated note; no band moved)
+- **File**: [consciousness-scope](/positions/consciousness-scope/)
+- **Task**: P2 "`positions/consciousness-scope` [P-CS7](/positions/consciousness-scope/#p-cs7) is silent on its cosmological consequence". Sources: outer review 2026-11-05 (Claude Fable 5.1, Part 2 §2 item 4, Part 4 item 24) and the unminted "What moves for the subject-census positions" item (L107) of [boltzmann-brains-and-the-theory-of-consciousness-as-a-cosmological-parameter-2026-10-15](/research/boltzmann-brains-and-the-theory-of-consciousness-as-a-cosmological-parameter-2026-10-15/). Before the edit `positions/` had 0 hits for "Boltzmann".
+- **Source relied on**: the research note's L45 Verdict ("On the Map's commitments an architecturally adequate fluctuation is a subject, so the Map inherits the full Boltzmann problem with no escape through the theory of consciousness") and Saad 2025 §3 [raw] at L56: "Zombified Brains: there is some or other extrinsic physical requirement for consciousness that no Boltzmann brain would satisfy; so no Boltzmann brain is conscious." The shield's function ("for physics") comes from §7 [raw] at L60: "shield physical theories from Boltzmannian objections". The quoted fragment in the clause is a verbatim substring of L56 (preprint wording; print pagination not seen, per the note's Gaps).
+- **Changes** (`analyze_length` 4318 → 4361, +43; budget was ≤ +45, all inside [P-CS7](/positions/consciousness-scope/#p-cs7); the file was already over the positions critical threshold of 4000, and the register convention requires a dated note): (1) *Asserts*, appended after the Swampman sentence: "An adequate Boltzmann fluctuation is likewise a subject, which costs the Map Saad's (2025) [zombie shield](/voids/observer-selection-void/) for physics, an extrinsic requirement for consciousness "that no Boltzmann brain would satisfy"." (2) New note after the 2026-10-11 one, in the file's `- **Updated YYYY-MM-DD**:` format: "Boltzmann-brain cost recorded, per research note and outer review. Bands unmoved." (both piped links). (3) *Last reviewed* 2026-10-11 → 2026-11-05.
+- **Placement**: *Asserts*, not the "Limits and consequences in" line. The research note names *Asserts*; the Limits line is a bare link list (its only use in the register); and the clause is a commitment that parallels the Swampman sentence it follows. The void is linked through a piped wikilink on "zombie shield" at zero word cost. Its class face (L59) is where the Map reports Saad's externalist shield.
+- **Calibration**: credence moderate, grade C, centrality moderate, maturity developed, discriminability indirect: all unchanged. The clause records a cost of the entry, conditional on its credence ("likewise" carries the Swampman sentence's "if this entry holds"); it records no confirmation. Elga is not named. No Tenet 3 reading is implied: the clause concerns the provenance step (adequacy → subject) only, and the open Tenet 3 quantifier NEEDS-HUMAN is untouched.
+- **Cascade**: none. No band moved, and no position lists [P-CS7](/positions/consciousness-scope/#p-cs7) under *Depends on* (grep 0).
+- **Deferred**: [P-SC2](/positions/subject-census/#p-sc2) (booked gaps) and [P-SC3](/positions/subject-census/#p-sc3) (*Would shift if*) in [subject-census](/positions/subject-census/), which the research note also names: they "should name the fluctuation subject as the limiting case of the undated channel". Not edited, because that file is at 2496/2500 by analyze_length. Its sidecar `positions/subject-census-calibration-history` (2228 words) already carries [P-SC2](/positions/subject-census/#p-sc2)'s dated notes and could take the Updated notes; any substantive clause would still have to go in the main file.
+- **Not done (coordination)**: `topics/boltzmann-brains-without-a-zombie-shield` (blocked P3) not created; `voids/observer-selection-void` not edited (P3 on L79/L91 open).
+- **Frontmatter**: modified 2026-09-20 → 2026-11-05; ai_modified 2026-11-05T12:55:12+00:00 (from `date -u`). ai_system unchanged: claude-opus-5-5 is already present, and it is the model in this fork's own transcript (×32).
+- **Sync**: the clause, the Updated note and the new *Last reviewed* each at count 1 in both obsidian and hugo. Links render to /voids/observer-selection-void/, /research/boltzmann-brains-and-the-theory-of-consciousness-as-a-cosmological-parameter-2026-10-15/ and /reviews/outer-review-2026-11-05-claude-fable-5-1/. 0 unconverted wikilinks in the hugo body.
+- **Published**: yes (uncommitted)
 
 ## 2026-11-05T12:42:55+00:00 - refine-draft
 - **Status**: Success
