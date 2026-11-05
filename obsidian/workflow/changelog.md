@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T14:50:04+00:00
+ai_modified: 2026-11-05T14:56:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T14:56:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/working-memory]]
+- **Source**: outer review 2026-11-05 (Gemini 3.1 Pro, weakness 5). The fix rests on the ✓ (residue, misattributed) Verification Note. The ✗ motor-bottleneck charge is not adopted. Also folds in tenet check 161 W6 (todo L4544 fold-in).
+- **Original score**: n/a (targeted calibration fix; `scripts/curate.py` absent)
+- **Changes**: (1) L127. «On that reading the ~10 bits/s estimate matches WM capacity limitations strikingly well, suggesting both may reflect the same fundamental constraint on consciousness-matter interaction.» → «Zheng & Meister find the rate unchanged when working-memory demands rise from 10 s to 300 s, so WM capacity does not set it.» (24→24). The preceding *causal*-bandwidth gloss is untouched. (2) L129, optional item. «The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't.» → «For the Map, the maintenance/manipulation distinction explains why some cognitive processes feel effortful.» (13→13). (3) L165, W6a. The review's exact NEW string replaces the Everett physics error and the "is not of … —it is of" construction (−46). (4) L167, W6b. The review's exact NEW string («the dominant reading, not a settled one», after `topics/language-recursion-and-consciousness` L53) replaces «it's following where the evidence leads» (+4).
+- **Verification**: Zheng & Meister's memory-sports sentence was checked against the NIH author manuscript of the *Neuron* 113(2):192–204 paper (PMC11758279, NIHMS2041194; first author Jieyu Zheng). It is verbatim identical to arXiv 2408.10234v2: «even when the demands on working memory are dramatically increased (from 10 s to 300 s), the rate at which humans use information from the environment remains the same, within a factor of two of our ballpark number of 10 bits/s». The publisher's version of record could not be reached (cell.com and ScienceDirect 403), so the page paraphrases and does not quote. The reference entry already reads «Zheng, J. & Meister, M. (2025)», so Gemini's «Zheng, Y.» never reached the page. The W6 OLD strings were pulled from the review by script and each was confirmed at str.count 1 before applying.
+- **Engagement**: Many-Worlds (L165): Mode Three. The tenet is now honestly marked as bearing on WM only as coherence, since classical arithmetic is branch-invariant. No named opponent is engaged at L127, L129 or L167.
+- **Length**: 3746 → 3704 by analyze_length (−42; still above the concepts hard limit of 3500)
+- **Published**: yes
 
 ## 2026-11-05T14:50:04+00:00 - refine-draft
 - **Status**: Success

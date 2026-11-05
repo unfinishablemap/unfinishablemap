@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-11-05 03:03:22+00:00
+ai_modified: 2026-11-05 14:56:34+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 23:50:00+00:00
-lastmod: 2026-11-05 03:03:22+00:00
+lastmod: 2026-11-05 14:56:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,9 +128,9 @@ WM binding resembles perceptual binding: both integrate multimodal information, 
 
 The [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes that consciousness influences neural systems through attention. Working memory may be where this interface operates most intensively. The relationship is bidirectional: attention determines what enters working memory, and held contents direct subsequent attention—creating a feedback loop between consciousness and cognition.
 
-**Bandwidth constraint**: Zheng & Meister (2025) argue, by aggregating information-rate estimates across many human behaviours, that overall cognitive throughput sits near ~10 bits/second despite sensory input arriving orders of magnitude faster. The Map glosses this slow inner rate as a candidate measure of consciousness's *causal* bandwidth—an interpretive move belonging to the Map's [coupling law research](/concepts/psychophysical-laws/), not to Zheng & Meister's paper—and explores it further in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/). On that reading the ~10 bits/s estimate matches WM capacity limitations strikingly well, suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [attentional-economics](/concepts/attentional-economics/) framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
+**Bandwidth constraint**: Zheng & Meister (2025) argue, by aggregating information-rate estimates across many human behaviours, that overall cognitive throughput sits near ~10 bits/second despite sensory input arriving orders of magnitude faster. The Map glosses this slow inner rate as a candidate measure of consciousness's *causal* bandwidth—an interpretive move belonging to the Map's [coupling law research](/concepts/psychophysical-laws/), not to Zheng & Meister's paper—and explores it further in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/). Zheng & Meister find the rate unchanged when working-memory demands rise from 10 s to 300 s, so WM capacity does not set it. The [attentional-economics](/concepts/attentional-economics/) framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
 
-**Effort asymmetry**: The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't. Mental effort corresponds to conscious manipulation through the interface—what the Map calls [interface-friction](/concepts/interface-friction/)—while passive maintenance operates without consciousness and without effort.
+**Effort asymmetry**: For the Map, the maintenance/manipulation distinction explains why some cognitive processes feel effortful. Mental effort corresponds to conscious manipulation through the interface—what the Map calls [interface-friction](/concepts/interface-friction/)—while passive maintenance operates without consciousness and without effort.
 
 **Executive functions**: If WM manipulation requires consciousness while maintenance doesn't, then executive functions (shifting, updating, inhibiting) may be where consciousness participates in cognition. The prefrontal executive isn't consciousness itself, but it may be where consciousness engages neural content.
 
@@ -166,9 +166,9 @@ The obvious reply is a regress: if manipulation merely *seems* to require consci
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: WM manipulation is *consistent with* downward causation. Conscious intent to manipulate WM content is accompanied by measurable neural changes; on the Map's reading, information flows from consciousness to brain when we actively work with WM contents. The epiphenomenalist reads the same correlation the other way—the neural changes produce both the manipulation and the felt intent—so the pattern corroborates the tenet rather than establishing it. The [phenomenology of choosing](/concepts/phenomenology-of-choice-and-volition/) maps directly onto WM manipulation: both involve effortful engagement rather than passive observation, both have the qualitative character of *doing* rather than *undergoing*.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: WM manipulation presupposes determinate content. When you hold "5 + 3" in working memory and manipulate it to get "8," the answer is determinate—not superposed across branches. In Many-Worlds, every manipulation would produce all possible outcomes in different branches; the sense that *this* manipulation produced *this* result would be branch-relative illusion. But the phenomenology of successful manipulation is not of accessing one among many equally real outcomes—it is of determining what the answer *is*. This indexical determinacy fits collapse interpretations where manipulation genuinely selects outcomes. This represents a philosophical standoff rather than decisive refutation; Many-Worlds proponents will analyse the phenomenology differently.
+**[No Many Worlds](/tenets/#no-many-worlds)**: WM manipulation presupposes determinate content. When you hold "5 + 3" in working memory and manipulate it to get "8," the answer is determinate—not superposed across branches. Many-Worlds leaves that determinacy intact, since a classical computation of 5 + 3 yields 8 on every branch, so the tenet bears on working memory as coherence only.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simple picture—WM is just neural storage—fails to explain why manipulation requires something maintenance doesn't. Postulating that manipulation requires consciousness isn't unnecessary complexity—it's following where the evidence leads.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simple picture—WM is just neural storage—fails to explain why manipulation requires something maintenance doesn't. That manipulation requires consciousness is the dominant reading, not a settled one, and simplicity cannot decide it.
 
 ## What Would Challenge This View?
 
