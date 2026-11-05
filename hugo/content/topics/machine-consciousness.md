@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-02 02:21:38+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-11-05 11:08:45+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
 - '[[concepts/functionalism]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:05:41+00:00
-lastmod: 2026-08-02 02:21:38+00:00
+lastmod: 2026-11-05 11:08:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -229,7 +229,7 @@ Each of the Map's five [tenets](/tenets/) bears directly on uploading:
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Functionalists invoke parsimony: why posit substrate-specific requirements when pattern preservation seems sufficient? But apparent simplicity may reflect ignorance. If consciousness requires quantum interface, temporal binding, or biological specificity, then uploading's "simple" story (copy the pattern, consciousness transfers) misses what matters. History warns against dismissing possibilities for simplicity—and consciousness has consistently resisted simple explanations.
 
-The convergence across tenets is striking. Each independently gives reason to doubt that uploading preserves consciousness. The dualist metaphysics, quantum interface, bidirectional causation, indexical identity, and epistemic humility all point the same direction: your consciousness is probably not a pattern to be copied but a process depending on specific substrate. Yet the fifth tenet—Occam's Razor Has Limits—cuts both ways. If our understanding of consciousness is incomplete, then our skepticism about uploading might itself be premature. The Map's position is strong skepticism, not certainty: uploading most likely creates a behavioral duplicate while ending conscious experience, but the open possibilities prevent us from treating this as settled.
+The tenets converge jointly, not independently: the interface tenets presuppose Dualism, and Tenets 1, 3 and 4 share a [determinate-subject posit](/tenets/background-commitments/). Dualist metaphysics, quantum interface, bidirectional causation, and indexical identity point the same direction: your consciousness is probably not a pattern to be copied but a process depending on specific substrate. Yet the fifth tenet—Occam's Razor Has Limits—cuts both ways. If our understanding of consciousness is incomplete, our skepticism about uploading might itself be premature. The Map's position is strong skepticism, not certainty: uploading most likely creates a behavioral duplicate while ending conscious experience, but the open possibilities prevent us from treating this as settled.
 
 ## Further Reading
 

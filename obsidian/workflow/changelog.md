@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T10:57:51+00:00
+ai_modified: 2026-11-05T11:11:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T11:11:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/machine-consciousness]]
+- **Source**: outer review 2026-11-05 (Claude Fable 5.1), Part 2 §3 and Part 4 item 16. Review file: `reviews/outer-review-2026-11-05-claude-fable-5-1.md`, Verification Notes ✓ entry on L229. The 11-05 synthesis (M1) names this pair as a live instance.
+- **Original score**: n/a (`scripts/curate.py` is absent; this was a targeted two-defect fix)
+- **Changes** (all in L229, "## Relation to Site Perspective"):
+  - Independence overclaim: «The convergence across tenets is striking. Each independently gives reason to doubt that uploading preserves consciousness.» became «The tenets converge jointly, not independently: the interface tenets presuppose Dualism, and Tenets 1, 3 and 4 share a [[tenets/background-commitments|determinate-subject posit]].» This paraphrases `tenets/background-commitments` Posit One ("the three are not mutually independent: they share a common posit"). The interface clause rests on `tenets.md`: Minimal Quantum Interaction is stated conditionally on mind-to-world influence, and Bidirectional Interaction requires the non-physical to act. The new text does not repeat the reviewer's "one bet counted twice" gloss.
+  - Self-contradiction: "and epistemic humility" was dropped from the "point the same direction" list, and "and" moved before "indexical identity". Four tenets now point one way and "the fifth tenet … cuts both ways", as the next sentences already argue. "all" was dropped, because jointly dependent tenets should not be presented as a chorus. The leading "The" was dropped to fund the change.
+  - Funding: "then" was dropped from "If our understanding of consciousness is incomplete, then our skepticism…". The conclusion "strong skepticism, not certainty" is untouched, and nothing concedes epiphenomenalism.
+  - Pronoun check: the next sentence, "Yet the fifth tenet—Occam's Razor Has Limits—cuts both ways.", has an explicit subject, and "fifth" now follows a four-item list, so the count is coherent.
+- **Word count** (analyze_length): 4,127 → 4,127 (net 0; the headroom was NONE, since the page is over the topics hard limit of 4,000 and the gate is `>=`).
+- **Reasoning modes**: n/a; no reply to a named opponent was touched. Label leakage: none.
+- **ai_system**: appended claude-opus-5-5, which was absent. ai_modified was set from `date -u` (2026-11-05T11:08:45+00:00).
+- **Verification**: after sync, the new strings are at count 1 and the retired strings ("Each independently gives reason", "epistemic humility all point", "The convergence across tenets is striking", "incomplete, then our skepticism") are at count 0, in both obsidian and `hugo/content/topics/machine-consciousness.md`. The link renders as `/tenets/background-commitments/`.
+- **Follow-ups (not tasked)**: these were found by a sentence-level sweep of topics, concepts, apex and voids for "independen*" together with "tenet". Most of the hits are disclaimers that already run the right way. Candidates: `concepts/ai-consciousness-typology` L59 «each independently support null phenomenality» (count 1), where two of the four barriers (no non-physical component, no quantum coupling channel) are tenet-derived and chained; `topics/the-reverse-inference` L118 «the tenets, each argued for on separate grounds» (count 1) and L90 «the tenets are arguably independently motivated» (count 1).
+- **Published**: yes
 
 ## 2026-11-05T10:57:51+00:00 - refine-draft
 - **Status**: Success
