@@ -4764,6 +4764,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: TARGET SLUG `topics/boltzmann-brains-without-a-zombie-shield`, about 2,500–3,200 words (topics hard limit 4,000, gate `>=`). Read the research note IN FULL first, including its Verdict, "Potential Article Angles" and every source line. Re-verify each quotation at the publisher or in raw full text before quoting, especially Saad 2025 and Elga 2025 *PPR* 111(1):127–136 (doi 10.1111/phpr.70014). The Elga framing is "stronger and different, not reversed" (`reviews/outer-review-2026-11-05-claude-fable-5-1.md` Verification Notes); do not call it an inversion. Front-load the P-CS7 consequence as a COST the Map pays, not a confirmation. Mark the Bayesian/instability reply as the Map's reading, with a named anchor.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
+### P3: `concepts/cosmopsychism` L83 says interactionist dualism "structurally avoids the de-combination problem — with no cosmic subject", the unconditional form the open-individualism article withdrew on 2026-11-05
+- **Type**: refine-draft
+- **File**: obsidian/concepts/cosmopsychism.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-05 07:43Z of `topics/open-individualism-and-the-de-combination-problem` (commit 52967828, from `reviews/pessimistic-2026-11-05-open-individualism-and-the-de-combination-problem.md` Issue 1), proposed follow-up; the driver grep-validated it at 07:46Z
+- **Generated**: 2026-11-05
+- **Headroom**: `concepts/cosmopsychism` 2,613/3,500 (ample). Secondary `topics/open-individualism-and-the-de-combination-problem` is 3,843/4,000. Its remaining 156 words are SHARED with two open sibling tasks from the same pessimistic review (Issue 2 on L85/L117, Issue 3 on empty individualism), so spend at most +10 there.
+- **Secondary**: obsidian/topics/open-individualism-and-the-de-combination-problem.md L41 and L105 (summary lines only)
+- **Coordination**: the Issue 2 and Issue 3 siblings own L85, L117 and the closed/empty-individualism question on the secondary. Do not touch those.
+- **Notes**: L83 of cosmopsychism: "The Map's [[interactionist-dualism|interactionist dualism]] structurally avoids the de-combination problem — with no cosmic subject, there is nothing to divide." (`grep -c -F "structurally avoids the de-combination problem"` = 1, and it is the only live hit corpus-wide). Commit 52967828 changed the host article's L111 to read "the Map avoids on its individual-subject reading". Its reason: the Map's own `concepts/mind-matter-interface` L70 is "intentionally agnostic" about Huxley's Mind at Large, and on that option the Map holds the filtering view and inherits the de-combination cost. mind-matter-interface L70 now says so ("its Mind-at-Large option carries the de-combination problem"). FIX: make L83 conditional on the individual-subject reading in about the same number of words, e.g. "on its individual-subject reading, with no cosmic subject". Keep the "cost-swap, not a free lunch" framing and the rest of the paragraph. Secondary, optional: the host's summary lines still read unconditionally, although the body now qualifies them: L41 "cost the Map's rivals pay and the Map structurally avoids" (1) and L105 "The Map declines open individualism and avoids the de-combination problem" (1). Add the same short hedge to each only if it fits the +10 cap. Re-grep each string first.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
 ## Completed Tasks
 
 
