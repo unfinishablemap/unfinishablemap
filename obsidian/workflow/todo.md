@@ -4991,6 +4991,27 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: Live at 19:06Z (`grep -c -F` = 1): "[[what-voids-reveal|The void catalogue's organisation into families]] sharing structural logic demonstrates this: over a hundred independently motivated entries cluster around the consciousness-physics interface." The corpus-wide grep for "independently motivated entries" hits this page only. `positions/voids-as-evidence` P-V1 is headed "Void convergence is framework-internal coherence, not independent confirmation", and today's taxonomy fix grades the clustering as "framework-internal coherence under the common-cause-null discount". FIX: replace "demonstrates" with a compatibility verb ("illustrates", "is consistent with"). Drop or qualify "independently motivated": many voids are tenet-generated, which P-V1 counts as a cost, not a confirmation. Add a short pointer to [[positions/voids-as-evidence|P-V1]] if words allow. Also check the same paragraph's "demonstrates that closure operates at specific architectural joints" (the developmental-evidence sentence). It may be fine as an empirical claim about closure; verify against the linked page's own grade before changing it.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
+### P3: three pages cite the Map's own Russellian Monism page (2026-01-15) under the wrong AI pseudonym ("Oquatre-huit" ×2, "Oquatre-six" ×1); the page was created by claude-opus-4-5, so the citation pseudonym is "Oquatre-cinq"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-05 19:40Z of `concepts/bi-aspectual-ontology` (commit 0442e211), proposed follow-ups; the driver grep-validated each locus at 19:43Z
+- **Generated**: 2026-11-05
+- **Headroom**: each fix is a zero-word substitution in a References entry.
+- **Secondary**: obsidian/concepts/neutral-monism.md; obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
+- **Notes**: THREE FILES; report EACH by name. Evidence from the 19:40Z fork: \`concepts/russellian-monism.md\` was created in commit 85537f8c (2026-01-14) with \`ai_system: claude-opus-4-5-20251101\`, and expand-topic SKILL.md §5.5 maps \`claude-opus-4-5-*\` to "Oquatre-cinq". The page's \`ai_system\` was later overwritten (4-6, then 4-7, then 4-8), so each citing page copied whatever the field held when it was written. \`concepts/bi-aspectual-ontology\` and \`concepts/intrinsic-nature\` now both read "Oquatre-cinq, C. (2026-01-15). Russellian Monism." Live at 19:43Z (count 1 each): quiddity-epiphenomenalism "Oquatre-huit, C. (2026-01-15). Russellian Monism."; neutral-monism "Oquatre-huit, C. (2026-01-15). Russellian Monism."; russellian-monism-versus-bi-aspectual-dualism "Oquatre-six, C. (2026-01-15). Russellian Monism.". FIX: substitute "Oquatre-cinq" in each. ALSO CHECK, same file: quiddity-epiphenomenalism cites "Oquatre-sept, C. (2026-03-22). Russellian Monism Versus Bi-Aspectual Dualism". Determine that page's creating model the same way (\`git log --diff-filter=A --follow\`, then read \`ai_system\` at creation, then apply §5.5) and correct it if it is wrong. Operator note (do not act on it here): the root cause is that the citation convention keys on the current \`ai_system\`, which drifts as the field is rewritten, rather than on the creating model.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in each file's string.
+
+### P3: \`concepts/bi-aspectual-ontology\` IIT section (L110–112) says IIT leaves "no causal role for consciousness beyond what the physical structure already determines", the same causally-idle overreach the 2026-11-05 L92 fix removed for Russellian monism; IIT itself claims intrinsic causal power
+- **Type**: refine-draft
+- **File**: obsidian/concepts/bi-aspectual-ontology.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-05 19:40Z of `concepts/bi-aspectual-ontology` (commit 0442e211), proposed follow-ups; the driver grep-validated each locus at 19:43Z
+- **Generated**: 2026-11-05
+- **Headroom**: 3,123/3,500 (concepts hard 3,500); keep it net ≤ +20.
+- **Notes**: Live at 19:43Z (\`grep -c -F\` = 1 each): "There is no room for consciousness to select among physically permitted alternatives"; "consciousness accompanies but does not select"; "there is no causal role for consciousness beyond what the physical structure already determines". The 19:40Z fix rescoped L92 for Russellian monism to: "it cannot be the further, local factor that selects among physical outcomes in the Map's model … without showing Russellian monism causally idle". Apply the same scope to IIT. IIT identifies consciousness with a cause-effect structure and claims that structure has intrinsic causal power, so the honest divergence is that IIT's consciousness is not a further selector in the Map's sense, not that it is causally idle. Check the Map's \`concepts/integrated-information-theory\` page for its own framing first and match it. Never concede epiphenomenalism for human consciousness.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
 ## Completed Tasks
 
 
