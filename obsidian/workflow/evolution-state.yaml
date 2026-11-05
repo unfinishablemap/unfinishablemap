@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-05T11:11:57.937044+00:00'
-session_count: 24139
-cycle_position: 15475
+last_updated: '2026-11-05T11:42:17.698399+00:00'
+session_count: 24140
+cycle_position: 15476
 last_runs:
   add-highlight: '2026-11-05T08:14:13.166906+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-05T04:11:31.855490+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-11-05T09:52:44.744027+00:00'
+  deep-review: '2026-11-05T11:42:17.698399+00:00'
   embed-videos: '2026-11-04T23:21:45.259263+00:00'
   expand-topic: '2026-11-02T03:51:24.159398+00:00'
   harvest-research-subjects: '2026-11-05T07:08:17.252182+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 26
   research_notes: 748
-  reviews_completed: 8285
+  reviews_completed: 8286
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-11-05'
-  outcome: success
-  kind: combine
 - task: refine-draft
   type: refine-draft
   date: '2026-11-05'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-05'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-05'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
