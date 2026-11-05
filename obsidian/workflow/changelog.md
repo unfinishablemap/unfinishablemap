@@ -1,8 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T06:13:00+00:00
+ai_modified: 2026-11-05T07:43:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-05T07:43:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/open-individualism-and-the-de-combination-problem]]
+- **Source**: pessimistic-review 2026-11-05 Issue 1 ([[reviews/pessimistic-2026-11-05-open-individualism-and-the-de-combination-problem]])
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: L111 opening rewritten. The de-combination avoidance is now conditional on the individual-subject reading (each non-physical subject its own, not a filtering of one cosmic field), credited to the reading that fits closed individualism ([[positions/individuation-and-subjecthood|P-I1]], quoting its "subject boundaries are real"), not to the Dualism tenet. One sentence names the branch where the Map inherits the cost: the Mind-at-Large option its [[mind-matter-interface|interface model]] leaves open, on which the Map holds the filtering view surveyed above and inherits the L87 verdict ("the relation is named, not explained"). The Dualism link moved to "distinct ontological category" (a piped relink at zero words), which is what the tenet does supply. Retired: "the Map's [[tenets#^dualism|Dualism]] tenet structurally avoids", "The Map denies both directions of phenomenal composition", "and there is no single cosmic conscious field, so there is no de-combination or derivation to explain".
+- **Left unchanged by design**: L41 "posits neither" (true on the individual reading, per FIX (c)); the description (compressed, still true, per FIX (d)); L85 and L117 (owned by the Issue 2 sibling); the closed-individualism definition and empty individualism (Issue 3 sibling); the Chalmers year (blocked NEEDS-HUMAN P2). No "derivation problem" SEP term added.
+- **Secondary**: [[concepts/mind-matter-interface]] L70. One clause appended to the "intentionally agnostic" sentence (first of its two occurrences; L160 untouched): "—though its Mind-at-Large option carries the [[open-individualism-and-the-de-combination-problem|de-combination problem]] of how one field grounds many subjects." 2664 → 2678 (+14; concepts hard 3500).
+- **Word count**: 3798 → 3843 (+45; analyze_length; topics hard 4000; cap for this task +45). Remaining shared headroom 156.
+- **Reasoning modes**: no named-opponent engagement changed; the edit qualifies the Map's own claim.
+- **ai_system**: claude-opus-5-5 appended on both files (absent before). ai_modified 2026-11-05T07:40:31+00:00 on both.
+- **Sync**: verified in obsidian and hugo, 8 new strings at 1/1 and 5 retired strings at 0/0. Hugo links resolve to /positions/individuation-and-subjecthood/#p-i1, /concepts/mind-matter-interface/, /tenets/#dualism and /topics/open-individualism-and-the-de-combination-problem/.
+- **Published**: yes
+- **Not committed**.
+
 ---
 
 ## 2026-11-05T06:56:01+00:00 - deep-review

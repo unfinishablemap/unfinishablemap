@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-29 05:22:14+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_modified: 2026-11-05 07:40:31+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 09:04:20+00:00
-lastmod: 2026-10-29 05:22:14+00:00
+lastmod: 2026-11-05 07:40:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ Consciousness exists independently of any particular brain. The brain does not g
 
 James's prism analogy captures it: white light exists prior to and independent of the prism. The prism doesn't create colors—it reveals them by separating what was already there. Similarly, consciousness doesn't originate in neural tissue. Neural structure *shapes* and *constrains* how consciousness manifests at this location, through this body.
 
-The model is intentionally agnostic about consciousness's ultimate nature—whether Mind at Large (Huxley), a fundamental aspect of reality, or something else. The functional claim is what matters: consciousness doesn't require this brain for its existence, even if it requires this brain for its current manifestation.
+The model is intentionally agnostic about consciousness's ultimate nature—whether Mind at Large (Huxley), a fundamental aspect of reality, or something else—though its Mind-at-Large option carries the [de-combination problem](/topics/open-individualism-and-the-de-combination-problem/) of how one field grounds many subjects. The functional claim is what matters: consciousness doesn't require this brain for its existence, even if it requires this brain for its current manifestation.
 
 ### Layer 2: Interface/Control
 
