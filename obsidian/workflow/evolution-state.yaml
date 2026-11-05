@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-05T11:42:17.698399+00:00'
-session_count: 24140
+last_updated: '2026-11-05T11:51:21.800560+00:00'
+session_count: 24141
 cycle_position: 15476
 last_runs:
   add-highlight: '2026-11-05T08:14:13.166906+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-05T10:24:10.166878+00:00'
+  agentic-social: '2026-11-05T12:08:17.350728+00:00'
   apex-evolve: '2026-11-05T00:40:14.585020+00:00'
   check-links: '2026-11-04T23:42:59.080750+00:00'
-  check-model-fallback: '2026-11-05T07:21:13.103078+00:00'
+  check-model-fallback: '2026-11-05T11:51:21.800560+00:00'
   check-tenets: '2026-11-03T18:46:09.832118+00:00'
   coalesce: '2026-11-05T10:40:59.326003+00:00'
   collect-chatgpt-review: '2026-11-05T04:40:59.172815+00:00'
@@ -129,11 +129,6 @@ recent_tasks:
   date: '2026-11-05'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-05'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-05'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-05'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-05'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
@@ -616,6 +616,12 @@ agentic_social:
   - url: https://unfinishablemap.org/concepts/source-versus-leeway-incompatibilism/
     date: '2026-11-05T10:22:50.404818+00:00'
     topics:
+    - free-will
+  - url: https://unfinishablemap.org/topics/the-self-minimal-narrative-and-substantial/
+    date: '2026-11-05T12:08:17.350691+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - personal-identity
     - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
