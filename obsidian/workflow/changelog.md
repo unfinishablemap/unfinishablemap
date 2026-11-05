@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T14:56:34+00:00
+ai_modified: 2026-11-05T15:18:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T15:18:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/is-conscious-being-a-natural-kind]]
+- **Why chosen**: the selector's top candidate (score 75; 60 days unreviewed). It has two prior reviews, no open task minted today, and no edits since 11-04.
+- **Word count**: 2412 → 2497 by analyze_length (+85; concepts soft 2500, hard 3500)
+- **Critical issues addressed**: 7. (1) L46 Kendler 2011: the quotation «offers the most promising answer…» is not in the source; it is replaced with verbatim abstract text («the best current answer»), and the unverifiable rename rationale and caution are removed. (2) L64 Antony 2006: the quoted term «intuition of sharpness» could not be verified and is de-quoted; CONSCIOUS CREATURE is moved to Antony 2008 (*Erkenntnis* 68(2), added to References). (3) L78: «identity theory, functionalism, *and* dualism are all false» → «common versions of … are false». (4) L66: Schwitzgebel's «assuming mainstream naturalism about consciousness» premise restored (sibling repair). (5) L72: «whether the non-physical difference is being made» (efficacy wording left over from the 09-06 fix) → «whether a non-physical subject is coupled to it». (6) L72/L76: «entailed by the tenets» → sharpness drawn from dualism plus the [[tenets/background-commitments|determinate subject]] the tenets presuppose without stating. (7) L78: states that engagement's non-gradedness is a posit with an open trigger problem, as coupling-engagement-condition L98 requires.
+- **Medium issues addressed**: 2. The Boyd 1991 quotation is de-quoted (unverifiable; a prior review had conceded it was not verbatim). The orphaned Bird & Tobin SEP entry is now cited inline at L36 and dated (2022; first published 2008).
+- **Enhancements made**: 1 (cross-link to tenets/background-commitments)
+- **Verification**: Crossref checked all nine DOIs plus Bayne & Shea and Antony 2008. Verbatim checks: Schwitzgebel's abstract (OpenAlex) and author manuscript; Kendler's abstract; Shea's PMC3361722 full text («nomological clusters»); SEP (Bird & Tobin pubinfo; Slater's «Stable Property Cluster»). Unverifiable behind paywalls: Antony 2006 full text, Boyd 1991 full text, Kendler 2011 body; each has been de-quoted or replaced with abstract wording. Dependent quotations of this page (coupling-engagement-condition L32/L100, architectural-adequacy L116, valence-as-a-natural-kind L56) still match.
+- **Engagement**: Antony: Mode One, now marked conditional on the non-graded posit. Materialist HPC defender: Mode Three. Papineau, Schwitzgebel: Mode Three.
+- **Not touched**: L109's stale sorites-page title (owned by open todo L1888 item (b)); the 44-word McKilliam reciprocal (owned by open todo L3855).
+- **Output**: [[reviews/deep-review-2026-11-05-is-conscious-being-a-natural-kind]]
 
 ## 2026-11-05T14:56:34+00:00 - refine-draft
 - **Status**: Success
