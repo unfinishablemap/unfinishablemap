@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-11-03 15:47:00+00:00
+ai_modified: 2026-11-05 15:44:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-03 15:47:00+00:00
-lastmod: 2026-11-03 15:47:00+00:00
+lastmod: 2026-11-05 15:44:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,7 +115,7 @@ Here the article turns from source exposition to Map integration. The question t
 
 The interventionist/counterfactual co-causation family is the route most continuous with the Map's own difference-making commitments — Tenet 3 read literally, and Tenet 2's per-trial selection channel structurally (on the strong-closure axis; its strict selection-only reading is Born-preserving in the *unconditioned* marginal, leaving the conditionals free). It is not a weaker cousin of trumping to be dispatched in a clause. The Map still prefers trumping, for its stronger closure-preservation and cleaner invisibility, and it may reasonably do so. But the preference is a choice under underdetermination, and stating the rival fairly is what makes that choice visible and defensible rather than assumed.
 
-Two honest caveats bound the diagnostic. First, "leans toward" is not "entails": all three positions are tenet-coherent, and nothing here forces the Map off trumping. Second, the co-causation family carries its own bill — the two-cause structure must still argue that lawful overlap is benign against critics who reply that overdetermination is overdetermination however systematic, and [Rellihan's charge](#the-equivocation-charge) is the sharper half of that bill, since it disputes not the benignity of the overlap but whether the counterfactual establishing the second cause is true at all. The diagnostic's value is not that it settles the question but that it names where the real decision lies: not in the tenets, but in a methodological preference the Map should own explicitly.
+Two honest caveats bound the diagnostic. First, "leans toward" is not "entails": all three positions are tenet-coherent, and nothing here forces the Map off trumping. Second, the co-causation family carries its own bill — the two-cause structure must still argue that lawful overlap is benign against critics who reply that overdetermination is overdetermination however systematic, and [Rellihan's charge](#the-equivocation-charge) is the sharper half of that bill, since it disputes not the benignity of the overlap but whether the counterfactual establishing the second cause is true at all. For the interventionist branch, Baumgartner (2010) argues that Woodward's original criterion makes supervening causes inert, and that exempting their bases from being held fixed excludes the epiphenomenal alternative by fiat. Vaassen extends that exemption from metaphysical to nomic bases, answering the first charge on interventionism's own terms but not the second, which falls on physicalist and dualist mental causes alike; the Map cannot invoke it selectively. The diagnostic's value is not that it settles the question but that it names where the real decision lies: not in the tenets, but in a methodological preference the Map should own explicitly.
 
 ## Further Reading
 
@@ -146,3 +146,4 @@ Two honest caveats bound the diagnostic. First, "leans toward" is not "entails":
 12. Kroedel, T. (2020). *Mental Causation: A Counterfactual Theory*. Cambridge University Press. https://doi.org/10.1017/9781108762717 — the Simple Argument's canonical presentation (pp. 62–65), reference 10's actual target. Crossref records print publication 19 December 2019; the literature, Rellihan included, cites it as 2020.
 13. Vaassen, B. (2021). "Dualism and Exclusion." *Erkenntnis* 86(3): 543–552. https://link.springer.com/article/10.1007/s10670-019-00118-1 — distinct from entry 3, which shares its year; another exclusion-tightening paper, whose core/total co-causation claim reference 10 rebuts.
 14. Gibb, S. C. (2013). "Mental Causation and Double Prevention." In S. C. Gibb, E. J. Lowe & R. D. Ingthorsson (eds.), *Mental Causation and Ontology*. Oxford University Press, pp. 193–214. https://doi.org/10.1093/acprof:oso/9780199603770.003.0009 — the powers/double-prevention branch adjacent to this family, not a member of it.
+15. Baumgartner, M. (2010). "Interventionism and Epiphenomenalism." *Canadian Journal of Philosophy* 40(3): 359–383. https://doi.org/10.1080/00455091.2010.10716727

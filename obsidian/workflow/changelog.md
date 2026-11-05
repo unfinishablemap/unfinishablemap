@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T15:18:50+00:00
+ai_modified: 2026-11-05T15:44:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T15:44:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/interventionist-and-counterfactual-dualism]]
+- **Task**: P2 interventionist branch's Baumgartner bill (Gemini 3.1 Pro outer review 2026-11-05, weakness 2; the reviewer's "2020" is a misdate, Crossref gives 2010)
+- **Original score**: n/a (targeted task fix; `scripts/curate.py` absent)
+- **Word count**: 3800 → 3879 by analyze_length (+79; budget ≤ +80 including the reference; topics hard 4000)
+- **Changes**: (1) Caveats paragraph (L114, after the Rellihan clause) now carries the interventionist branch's bill: Baumgartner (2010) on Woodward's original criterion (supervening causes come out inert) and on the base-exemption repair (it excludes the epiphenomenal alternative by fiat); Vaassen's reply (he extends the exemption from metaphysical to nomic bases); and the selectivity point from `research/interventionist-exclusion-and-chance-fixing-closure-2026-09-07` L194. (2) Reference 15 added (Baumgartner 2010). (surname, year) checked both ways: 1 inline, 1 reference.
+- **Verification**: Crossref: Baumgartner, *CJP* 40(3):359–383, 2010-09, doi 10.1080/00455091.2010.10716727. Vaassen, *AJP* 102(4):978–998, 2024-10. Baumgartner's full text came from the author copy at m-baum.github.io/docs/inter_epi.pdf; Cambridge Core serves only the extract. Verbatim (NFKC, 1× each): "Woodward’s interventionism and non-reductive physicalism are incompatible"; "yields the master argument and, thus, universal macro-to-micro epiphenomenalism"; on the (M∗∗)/(IV∗) exemption, "simply begs the question against the epiphenomenalist" and "simply excluded or disregarded by fiat". He does not endorse epiphenomenalism ("not my aim here"), and the paper has 0 hits for nomolog/nomic/dualis. Vaassen 2024 is the published version (T&F cover, pp. 978–998) from the DiVA open-access copy; the T&F PDF link returned HTML. Verbatim, 1× each: "The holding fixed-requirement still applies to nomic bases and still stands in the way of dualist mental causation"; Interventionism IV exempts "a metaphysical necessitation relation or a synchronic nomic necessitation relation"; "if dependence theories fail, both physicalists and dualists are in trouble". His one body citation of Baumgartner (§3.1) is for the holding-fixed charge only. His body has 0 hits for epiphenomen, fiat and "begs the question", so the second charge goes unaddressed. Negative controls returned 0.
+- **Engagement**: Baumgartner vs Vaassen. First charge: Mode One (Vaassen's parity reasoning is internal to interventionism). Second charge: an in-framework objection Vaassen leaves open, shared by physicalist and dualist users of the exemption; recorded as shared, not as bedrock. No labels in the body.
+- **ai_system**: unchanged. claude-opus-5-5 is already present, and the fork transcript shows claude-opus-5-5 ×59 and no other model.
+- **Not touched**: the L39/L100/L106/L108/L112 closure wording (open P3, "Closure-preserving" said of Saad's route) and the L65/L67 Lowe originator (open P3, observational-closure originators).
+- **Follow-ups (reported, not minted)**: `concepts/causal-exclusion-argument` L78 presents Vaassen 2024 "on its own terms" with 0 Baumgartner hits. `concepts/trumping-preemption` L67 names Baumgartner with no year and no reference entry. `research/brain-specialness-boundary-2026-01-15` L69 attributes a "Local Causation Thesis" quote to Vaassen 2024 that has 0 hits in his text.
+- **Published**: yes
 
 ## 2026-11-05T15:18:50+00:00 - deep-review
 - **Status**: Success
