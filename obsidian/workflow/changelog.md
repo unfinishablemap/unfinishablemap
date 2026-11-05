@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T10:40:13+00:00
+ai_modified: 2026-11-05T10:57:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T10:57:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/background-commitments]]
+- **Source**: outer review 2026-11-05 (ChatGPT 5.6 Sol Pro) §3.1 (global-history coherence), §3.3 (event jurisdiction), the §6 rows "Physical collapse vs conscious selection" and "Local selection vs global exclusion", and Priority-0 items 5–6. Review file: `reviews/outer-review-2026-11-05-chatgpt-5-6-sol-pro.md`. Its Verification Notes ✓ "§3.1 / §3.3 / items 5–6" found the inferences already in the corpus and missing only from this canonical posits page, so this pass links them.
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted link-and-state task)
+- **Changes**:
+  - L60 (Collapse redundancy), after "…doing no explanatory work the physics did not already do.": one debt sentence, "The narrowing also leaves two transition processes, physical reduction and conscious selection, in an interface-grade brain, and a worked model must say which acts first and how that ordering is fixed for spacelike-separated events; no combined law has been supplied, so this [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]] stays open." It paraphrases `concepts/prebiotic-collapse` L126 ("a worked model needs two transition processes—physical reduction and conscious selection—and must say which acts first … and how the ordering is fixed for spacelike-separated events. No combined law has been supplied; the debt is open.", count 1). The link form is the one `concepts/post-decoherence-selection` L116 uses (count 2 there).
+  - L60, next sentence: "This is consistent with the falsifiability status" became "The idle-posit risk is consistent with the falsifiability status", so its subject still refers to the idle-posit sentence rather than to the new debt sentence. Nothing else on L60 changed, and the P-Q2-guarded sentence "Preservation binds only that unconditioned marginal" is untouched.
+  - L54 (end of Posit Three), after "…should show it doing so.": one debt sentence, "Wherever more than one subject selects, global exclusion and Posit Two's single-outcome actualization require the subjects' selections to compose into one consistent world-history, so the [[multi-agent-born-preservation-problem|multi-agent composition question]] is a debt the Map owes rather than an optional refinement." It paraphrases `topics/multi-agent-born-preservation-problem` L66 (the guarantee that N corridors "compose into one globally Born-consistent history" is "inherited from an unproven mechanism, not derived within the corridor formalism", count 1).
+  - Scope: I left out the task note's parenthetical "(global harmonisation versus joint-level idleness)". The page lists four options, (a) to (d), and a two-way gloss would drop (c) relational dissolution and (d) a single global experiencer, which would amount to choosing among them. The sentence says "one consistent world-history" rather than the page's "globally Born-consistent history", and the link label leaves out "Born", so nothing is implied about P-Q2's quantifier (P1 HUMAN DECISION, todo ~L1625). Neither sentence claims either law exists. Both are open debts, conditional on posits the page already holds, so the foundations NEEDS-HUMAN entries (~L722) are untouched. No jurisdiction treatment was written; that stays with the blocked expand `concepts/collapse-priority-problem`.
+- **Word count** (analyze_length): 1,804 → 1,891 (+87; the budget was +90 or less; tenets hard limit 3,000).
+- **Reasoning modes**: n/a, since no reply to a named opponent was added. Label leakage: none.
+- **ai_system**: appended claude-opus-5-5, which was absent before. ai_modified and modified were set from `date -u` (2026-11-05T10:55:49+00:00).
+- **Verification**: after sync, both new sentences are at count 1 in obsidian and in `hugo/content/tenets/background-commitments.md`. The hugo links are `/concepts/prebiotic-collapse/#the-completeness-tension` and `/topics/multi-agent-born-preservation-problem/`. A scratch Hugo build rendered both hrefs, and the prebiotic-collapse page carries `id=the-completeness-tension` (count 1). The reciprocal links already exist: multi-agent L94 and prebiotic-collapse L126 each link this page (count 1 each).
+- **Follow-ups**: none tasked. `tenets/tenets.md` §"Three Background Posits the Tenets Rest On" (L182) has 0 "collapse-priority" and 0 links to the multi-agent page, but it links here by design rather than re-deriving the posits, and the page is 6,787/3,000.
+- **Published**: yes
 
 ## 2026-11-05T10:40:13+00:00 - coalesce
 - **Status**: Abandoned (no candidate; expected steady state; the third run in a row with no article added or removed)
