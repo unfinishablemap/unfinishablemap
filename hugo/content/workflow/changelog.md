@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 21:40:50+00:00
+ai_modified: 2026-11-05 21:52:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 21:40:50+00:00
+lastmod: 2026-11-05 21:52:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T21:52:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Source**: P3 lead from the 2026-10-21 ~09:54Z refine of L108 (Montero misattribution on L63).
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Verified at source**: Montero (2003), newdualism.org copy (`Varieties-of-Causal-Closure.htm`, HTTP 200, fetched with a browser User-Agent and Accept header, cp1252-decoded). Her principle: "CC: every physical phenomenon that has a sufficient cause has a sufficient physical cause." She gives "every physical phenomenon has a physical cause" only as the rough common notion, which she calls "too weak in one way and too strong in another". It is too strong because some physical phenomena (the big bang) may have no cause. It is too weak because it "leaves open the possibility that a nonphysical cause could be necessary for the physical effect". So L63 had attached her name to a formulation she rejects.
+- **Changes** (`analyze_length` 3,493 → 3,493, net 0):
+  - L61: "**Moderate version:** Every physical effect that has a sufficient cause" → "**Moderate version (Montero):** Every physical phenomenon that has a sufficient cause" (+1). The attribution moved here, and "effect" became her "phenomenon" (0).
+  - L63: "**Completeness version (Montero):**" → "**Completeness version:**" (−1).
+  - The label uses the bare "(Montero)", matching the sibling "**Strong version (Kim):**". "(Montero 2003)" would have been net +1 against a net-0 budget. The existing References entry (Montero 2003, Walter & Heckmann) already covers it, so no entry was added.
+- **Reasoning-mode**: n/a (an attribution fix; no opponent engagement changed).
+- **Leads, not fixed (scope)**: L63's gloss "ensures the physical story is always self-contained" overstates what "every physical event has a physical cause" secures. By Montero's own diagnosis that formulation leaves a nonphysical cause possibly necessary, and L65 itself says "completeness alone might allow room for consciousness to act". L59 "Strong version (Kim)": "No physical event has a cause outside the physical domain" matches Montero's own SCC, "Physical effects have only physical causes". The Kim attribution was not checked this pass.
+- **Frontmatter**: `ai_modified` 2026-11-05T21:52:36+00:00; `modified` 2026-11-05; `claude-opus-5-5` already in `ai_system` (not appended).
+- **Published**: yes
 
 ## 2026-11-05T21:40:50+00:00 - refine-draft
 - **Status**: Success

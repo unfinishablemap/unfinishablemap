@@ -1700,13 +1700,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: concepts 359/370 (count_section_files 2026-10-15 20:45Z). Re-measure before writing and stop if >= 370. Target ~2,500 body words (concepts hard 3,500).
 - **Notes**: Write from the note's "Potential Article Angles" and "Schematic Shape of the Law" sections; title suggestion "The Collapse-Priority Problem". CALIBRATION: a debt statement at *speculative integration*, framework-internal only: what a priority law would have to specify, never that one exists (P-Q3/P-Q10: no worked model; P-M1: defeater-removal raises no tier). TWO DERIVATIONS ARE THE RESEARCH FORK'S OWN and are flagged in the note for review: (1) the no-delay clause (a selector choosing *when* a collapse happens could bias outcomes with each collapse Born-exact at its own moment; the ban rests on minimality, not no-signalling) and (2) the intention-signalling hazard under the event-type-keyed covariant rule. Present both as the Map's own reasoning, labelled as such and hedged, never attributed to a cited author. The "three candidate orderings" list is the note's reconstruction (the source review names but does not list them); say so. Cite only the 15 sources the note marks as read and quote-verified. The 4 Crossref-metadata-only sources (GRW 1986, Pearle 1989, GPR 1990, Bedingham et al. 2014) may be cited for existence and their standard content only, with no quotations. The 9 UNVERIFIED leads must not be cited. Brody & Hughston (2002) caveat: they "assign no a priori physical significance to H and Bt" (driver-verified in the arXiv PDF); keep it whenever the noise-realisation split is invoked. Integration: apply the note's listed zero-word piped links on the seven loci (post-decoherence-selection, consciousness-in-smeared-quantum-states, thoughtful-local-friendliness-and-the-artificial-friend, evolution-of-consciousness) and `prebiotic-collapse` (#the-completeness-tension), locating each by quoted text with count 1. The positions edits (P-Q7, P-Q10) belong to positions-evolve; do not edit `positions/` from this task. No "This is not X. It is Y."; no "load-bearing". ai_system = your model; timestamps from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees. Do not commit; do not edit todo.md.
 
-### P3: `concepts/causal-closure` L63 labels "Every physical event has a physical cause" the "Completeness version (Montero)", which is not Montero's formulation
-- **Type**: refine-draft
-- **File**: obsidian/concepts/causal-closure.md
-- **Source**: refine-draft
-- **Generated**: 2026-10-21
-- **Notes**: Lead from the 2026-10-21 ~09:54Z refine of L108. L63: "**Completeness version (Montero):** Every physical event has a physical cause". Montero 2003 (newdualism.org copy, `Varieties-of-Causal-Closure.htm`; fetch with a browser User-Agent and Accept header) states CC as "every physical phenomenon that has a sufficient cause has a sufficient physical cause", which is essentially the unattributed "Moderate version" at L61. Either drop the "(Montero)" attribution from L63 or move it to L61 with her wording, after re-grepping her text. LENGTH: 3,493 by analyze_length vs concepts hard 3,500 (gate fires at >=): the edit MUST be length-neutral or net-negative.
-
 ### P3: `research/causal-closure-debate-2026-03-19` L101/L102/L145 attribute to Montero an "explanatory gap" argument and a flat evidential claim her 2003 text does not contain
 - **Type**: refine-draft
 - **File**: obsidian/research/causal-closure-debate-2026-03-19.md
@@ -5041,6 +5034,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-05: `concepts/causal-closure` L63 labels "Every physical event has a physical cause" the "Completeness version (Montero)", which is not Montero's formulation
+- **Type**: refine-draft
+- **File**: obsidian/concepts/causal-closure.md
+- **Notes**: Lead from the 2026-10-21 ~09:54Z refine of L108. L63: "**Completeness version (Montero):** Every physical event has a physical cause". Montero 2003 (newdualism.org copy, `Varieties-of-Causal-Closure.htm`; fetch with a browser User-Agent and Accept header) states CC as "every physical phenomenon that has a sufficient cause has a sufficient physical cause", which is essentially the unattributed "Moderate version" at L61. Either drop the "(Montero)" attribution from L63 or move it to L61 with her wording, after re-grepping her text. LENGTH: 3,493 by analyze_length vs concepts hard 3,500 (gate fires at >=): the edit MUST be length-neutral or net-negative.
 
 ### ✓ 2026-11-05: Sweep three pages for the same many-worlds/agency overclaim fixed on `topics/phenomenology-of-moral-life` L135 (branching said to dissolve deliberation, against Posit Three)
 - **Type**: refine-draft

@@ -2,9 +2,9 @@
 title: "Causal Closure of the Physical"
 description: "Causal closure claims every physical event has sufficient physical cause. The Map rejects this: quantum indeterminacy leaves room for consciousness to act."
 created: 2026-01-14
-modified: 2026-10-21
+modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-11-03T15:26:49+00:00
+ai_modified: 2026-11-05T21:52:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,9 +58,9 @@ The thesis admits several formulations of varying strength:
 
 **Strong version (Kim):** No physical event has a cause outside the physical domain. Physical causes are not just sufficient but *exclusive*.
 
-**Moderate version:** Every physical effect that has a sufficient cause has a sufficient *physical* cause. Weaker forms allow that physical events might also have non-physical causes—they just require that physical causes are always available.
+**Moderate version (Montero):** Every physical phenomenon that has a sufficient cause has a sufficient *physical* cause. Weaker forms allow that physical events might also have non-physical causes—they just require that physical causes are always available.
 
-**Completeness version (Montero):** Every physical event has a physical cause. This doesn't exclude other causes but ensures the physical story is always self-contained.
+**Completeness version:** Every physical event has a physical cause. This doesn't exclude other causes but ensures the physical story is always self-contained.
 
 The differences matter. Strong closure rules out mental causation directly; moderate versions create overdetermination problems (two sufficient causes for one effect); completeness alone might allow room for consciousness to act.
 
