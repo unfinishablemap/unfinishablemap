@@ -4448,6 +4448,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 3,981 of 4,000 by analyze_length at 2026-11-05T02:13Z (topics hard limit 4,000, gate `>=`). Only 18 words usable: length-neutral.
 - **Notes**: L102 frames Strawson's case as "a fluent bilingual". `concepts/phenomenal-constitution-thesis` L62 gives the case as two monoglots, Jack (English) and Jacques (French), hearing the same French sentence. Verify against Strawson, *Mental Reality* (1994), pp. 5–6 (Google Books search-within with a control phrase; the API quota was 0 on 11-05, so retry or use another primary route) before changing anything. If confirmed, restate at zero net words. Also, L43 names Everett (Pirahã) with no References entry: add one only if a trim pays for it, otherwise link an existing Map page that cites Everett. Append the executing model to ai_system only if it is ABSENT. Set ai_modified from `date -u`. Changelog entry. Sync, verify both trees, no commit.
 
+### P3: `concepts/epistemic-emotions` frontmatter description states "Their irreducible phenomenal character challenges functionalism" as settled; the body argues irreducibility only conditionally
+- **Type**: refine-draft
+- **File**: obsidian/concepts/epistemic-emotions.md
+- **Status**: pending
+- **Source**: agentic-social 2026-11-05 03:23Z post fork (body-vs-description check); the driver grep-validated it at 03:25Z
+- **Generated**: 2026-11-05
+- **Headroom**: The description is free; analyze_length counts the body only. The page is about 2,606 words against the concepts hard limit of 3,500.
+- **Notes**: The description (L3) reads: "Curiosity, doubt, certainty, insight: feelings directed at knowledge itself. Their irreducible phenomenal character challenges functionalism." The second sentence has str.count == 1. The body is conditional throughout. L35 says the feelings "*appear* to have qualitative character… the argument has to be earned". L61 says reaching non-functional character "is a further step". L97 opens "If these states have irreducible phenomenal character…". L129 calls irreducibility "the conclusion the appearance presses toward, not a premise the functionalist grants". "Challenges functionalism" is supported (L35 "presents a challenge to functionalist accounts", and L91). Rewrite the second sentence in the body's register, e.g. "Their apparent phenomenal character presses a challenge to functionalism," at about 150–220 characters for the whole description. Do not drop the challenge to functionalism. Keep the 2026-11-04 19:08Z L135 repair ("fit the Bidirectional Interaction tenet without establishing it") untouched. Hugo renders the description as the meta, og, twitter and citation_abstract fields. Append the executing model to ai_system only if it is ABSENT. Set ai_modified from `date -u`. Changelog entry. Sync, then verify both trees; the Hugo description is YAML-wrapped, so grep a short phrase. No commit.
+
 ## Completed Tasks
 
 
