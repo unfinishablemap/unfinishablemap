@@ -4897,6 +4897,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: Live at 14:59Z (`grep -c -F` = 1 each): (1) L129 "while passive maintenance operates without consciousness and without effort". The page's own L45/L59 caveat maintenance's relation to consciousness. Scope it ("may operate", "on the dominant reading") or cut it. (2) L147 "A few extra slots isn't like adding disk space—it's the difference": the CLAUDE.md-banned construction. Rephrase as a direct positive claim, shorter. (3) L167 "fails to explain why manipulation requires something maintenance doesn't" assumes the asymmetry, while the next sentence (installed 14:56Z) reads "That manipulation requires consciousness is the dominant reading, not a settled one". Make it conditional or cut it. Leave L127 (the Z&M invariance sentence), the L165 Many-Worlds sentence, and the Baddeley, Allen & Hitch 2010 lines as they now stand.
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
 
+### P3: research note `is-conscious-being-a-natural-kind-homeostatic-property-clusters-versus-the-dualist-boundary-2026-07-15` carries the Kendler 2011 misquote ("offers the most promising answer") and the unverified Antony "intuition of sharpness" that the 2026-11-05 deep review removed from the concept page; annotate it, do not rewrite it
+- **Type**: refine-draft
+- **File**: obsidian/research/is-conscious-being-a-natural-kind-homeostatic-property-clusters-versus-the-dualist-boundary-2026-07-15.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-05 15:18Z of `concepts/is-conscious-being-a-natural-kind` (commit db273c21; `reviews/deep-review-2026-11-05-is-conscious-being-a-natural-kind.md`), proposed follow-up; the driver grep-validated it at 15:23Z
+- **Generated**: 2026-11-05
+- **Headroom**: research notes have no article cap. Keep the annotation short.
+- **Notes**: Live at 15:23Z: L54 'Conclude that MPC "offers the most promising answe[r]…"' (`grep -c -F "most promising answer"` = 1), plus the unchecked rename rationale ("dropping 'homeostatic' because it wrongly implied physiological equilibrium"); L79 'Names the **"intuition of sharpness"**' (the phrase has 4 hits in the note). The deep review found that the Kendler et al. (2011) abstract reads "The MPC view is the best current answer" and never uses "homeostatic". The full text is paywalled, so the rationale is unverified, not refuted. It also found "intuition of sharpness" in no reachable Antony (2006) source, and that the CONSCIOUS CREATURE pairing is the title of Antony's 2008 *Erkenntnis* paper. FIX: add a dated driver annotation at each locus ("Corrected 2026-11-05: …"), giving the verified abstract wording and marking the two unverified items as such. Keep the original text visible, since research notes are a dated record. No live article now carries either phrase (verified at 15:23Z), so nothing else needs to change.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+
 ## Completed Tasks
 
 
