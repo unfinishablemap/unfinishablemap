@@ -1191,8 +1191,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: length_analysis
 - **Generated**: 2026-05-29
 
-  **DRIVER ADDENDUM (2026-11-05 00:40Z):** while condensing, fix L145's Polanyi quote. It reads ""We know more than we can tell"" (str.count == 1), but Polanyi 1966 p. 4 reads "We *can* know more than we can tell". The 11-05 apex-evolve verified that by Google Books search-within, with a p. 19 control, and fixed it on `apex/medium-status-voids-in-cognition`; `voids/tacit-integration-void` was fixed on 10-07. Make it verbatim (+1 word, paid for by the condense).
-
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
 - **Status**: superseded
@@ -4445,6 +4443,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Secondary files**: obsidian/voids/relevance-void.md
 - **Headroom**: mattering-void 2,388 and relevance-void 2,221 of 3,000 by analyze_length at 2026-11-05T00:40Z (voids hard limit 3,000). Small additions are fine.
 - **Notes**: TWO FILES; report each by name. (1) `voids/mattering-void` L80 "**Vervaeke.** John Vervaeke and colleagues argue that *relevance realization*…" and `voids/relevance-void` L65 "**Vervaeke.** John Vervaeke and colleagues thematise *relevance realization* as a process "present in all organisms, from bacteria to humans"…". Both quote Jaeger et al. (2024), whose first author is Johannes Jaeger, with Vervaeke a co-author. The 11-05 apex-evolve verified the paper's wording verbatim in the full text (PMC11231436) and changed the apex to "Jaeger, Vervaeke and colleagues (2024)". Make the same attribution fix on both pages. Check that each page's References entry lists Jaeger as first author with the right year; add or correct it if needed (verify at Crossref or PMC). Keep the bold "**Vervaeke.**" lead-in only if it still fits, e.g. "**Jaeger, Vervaeke and colleagues.**". (2) `voids/mattering-void` L78 quotes Matthew Ratcliffe's existential feelings as bodily feelings that "constitute ways of relating to the world as a whole". The apex-evolve found this verbatim only in the OUP publisher's description of *Feelings of Being* (2008), not in the book text. Try to verify it in the book (Google Books search-within, with a control phrase). If you cannot, either attribute it to the publisher's description or paraphrase without quotation marks. The same quote appears in `apex/medium-status-voids-in-cognition` (~L114); report it, but do not edit the apex. Append the executing model to each file's ai_system only if it is ABSENT. Set ai_modified from `date -u` on each file touched. Changelog entry with before/after analyze_length per file. Sync, verify both trees, no commit.
+
+### P3: `apex/phenomenal-output-causal-machinery-dissociation` L145 misquotes Polanyi (1966) as "We know more than we can tell"; the text reads "We *can* know more than we can tell"
+- **Type**: refine-draft
+- **File**: obsidian/apex/phenomenal-output-causal-machinery-dissociation.md
+- **Status**: pending
+- **Source**: apex-evolve 2026-11-05 00:36Z of `apex/medium-status-voids-in-cognition` (`reviews/apex-evolve-2026-11-05-medium-status-voids-in-cognition.md`), proposed follow-up; the driver grep-validated it at 00:40Z
+- **Generated**: 2026-11-05
+- **Headroom**: 6,897 by analyze_length at 2026-11-05T00:40Z, far OVER the apex hard limit of 5,000. This is a ONE-WORD defect fix that MUST be net-zero: add "can" and trim one word elsewhere in the same paragraph. Do NOT condense or restructure the page. A VETOED P2 condense (todo ~L1188) is blocked pending a HUMAN structural-split decision, and this task must not pre-empt it.
+- **Notes**: L145 reads "**Polanyi (1966) on tacit integration.** "We know more than we can tell" names the dissociation in the integrative-knowledge face…" (str.count == 1). Polanyi, *The Tacit Dimension* (1966), p. 4 reads "We can know more than we can tell". The 11-05 apex-evolve verified this by Google Books search-within with a p. 19 control, and fixed the same quote on `apex/medium-status-voids-in-cognition`; `voids/tacit-integration-void` was fixed on 10-07. Make the quote verbatim and trim one word in the same sentence or paragraph so the net change is zero. Append the executing model to ai_system only if it is ABSENT. Set ai_modified from `date -u`. Changelog entry with before/after analyze_length. Sync, verify both trees, no commit.
 
 ## Completed Tasks
 
