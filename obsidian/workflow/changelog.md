@@ -1,8 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T07:43:10+00:00
+ai_modified: 2026-11-05T07:55:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-05T07:55:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/open-individualism-and-the-de-combination-problem]]
+- **Source**: pessimistic-review 2026-11-05 Issue 2 ([[reviews/pessimistic-2026-11-05-open-individualism-and-the-de-combination-problem]])
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (1) L85: "This dissolves rather than solves the problem." → "On her account the problem is dissolved rather than solved." The referent was checked: Albahari is the only person named in the bullet. The verdict is now hers, not the Map's, so it no longer contradicts L87's "none clearly succeeds". (2) L117: the whereas-clause is scoped with "as Miller poses them", which is Miller's parthood framing at L73. One sentence was added after it: "Grant Shani's point and both sides owe an unexplained relation, so the remaining asymmetry is locatability." This carries L87's concession into the comparison. It also agrees with the new L111 on both branches: interface unity on the individual reading, and on the Mind-at-Large option a filtering relation that is named, not explained. (3) The optional swap was taken: "at least *empirically locatable*" → "*locatable in principle*", net −1. It continues the 07-30 weakening from "approachable" to "locatable", and follows the review's Language table and its Quantum Skeptic.
+- **Left unchanged by design**: the sentence beginning "Locatable is weaker than approachable, deliberately" is byte-identical through the end of L117 (md5 match; it was the subject of the 09-08 sweep cc77b347af). Also untouched: L41, L105, L111, the empty-individualism material, and the Chalmers year at L139/L142.
+- **Stability**: both edits weaken the Map's claims toward L87, so this is not oscillation under 09-08 stability note 7. It is the same class as C1 in the 09-08 review: a disclaimer landed and its dependents stayed live.
+- **Word count**: 3843 → 3865 (+22; analyze_length; topics hard 4000; cap for this task +25). Remaining shared headroom 134.
+- **Reasoning modes**: Shani (the L117 dependent): no mode change, because the point L87 already grants is carried forward, not argued anew. Albahari (L85): her exposition is now separate from the Map's verdict (Source/Map separation check).
+- **ai_system**: unchanged. The transcript model is claude-opus-5-5, which the string already contains. ai_modified 2026-11-05T07:55:54+00:00.
+- **Sync**: verified in obsidian and hugo. 4 new strings at 1/1 and 4 retired strings at 0/0. The L87 constraint strings and L111's "structurally comparable to the panpsychist's primitive bonding" are at 1/1; "derivation problem" is at 0/0.
+- **Follow-up (not tasked)**: (a) The L117 opener "In place of the combination and de-combination problems, the Map pays the *interaction problem*" (count 1) is unconditional, which sits badly with L111's Mind-at-Large branch. (b) `topics/panpsychisms-combination-problem` L125, "a framework that faces an *empirically locatable* mystery (interaction) is preferable to one facing a *purely conceptual* mystery (combination)" (count 1), has the same Quantum Skeptic exposure.
+- **Published**: yes
+- **Not committed**.
+
 ---
 
 ## 2026-11-05T07:43:10+00:00 - refine-draft
