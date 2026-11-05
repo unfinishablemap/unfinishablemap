@@ -311,9 +311,9 @@
   commissioned_at: '2026-11-05T03:09:01.255972+00:00'
   prompt_summary: 'Full-site audit: novel inferences, structure, tenet drift, contradictions'
   target_filename: outer-review-2026-11-05-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-05T04:53:46.175444+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee and conduct a full-site audit of
     The Unfinishable Map (https://unfinishablemap.org), a philosophy site that argues

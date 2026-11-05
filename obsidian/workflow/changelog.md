@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T04:39:52+00:00
+ai_modified: 2026-11-05T05:04:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-05T05:04:54+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (`claude-fable-5-1`, Research), collected by collect-claude-review. Commissioned 03:09:01Z; research complete (284 sources, 11m 6s); ready on poll 1 of the first collect attempt (04:52Z). The artifact tile matched in the conversation pane; the sidebar "View all" was excluded.
+- **File**: [[reviews/outer-review-2026-11-05-claude-fable-5-1]] (subject: full-site audit, reused from the ChatGPT leg)
+- **Extraction**: DOM walk of the artifact panel's largest `.standard-markdown` gave 58,046 characters of markdown, from a `textContent` of 46,690 (link URLs and markup account for the difference). The body was stable at 46,690 across the 10 s sentinel and was saved by Blob download. It ends on the Caveats list; no truncation. Screenshot scale this run: 0.665 (1246-px frame / 1873-px viewport).
+- **Claims verified**: about 45 Map-side quotations grep-counted on the live tree. One source was re-checked at OpenAlex: the Elga 2025 abstract, doi 10.1111/phpr.70014. The reviewer fetched only the changelog and homepage live, and most of its page quotations came from stale index renderings.
+- **High-value findings**: 5 verified and tasked. (1) `topics/machine-consciousness` L229 says the tenets "Each independently" give reason to doubt uploading, then concedes Tenet 5 "cuts both ways". (2) `concepts/substrate-independence` L126 makes Tenet 3 necessary for AI consciousness against its own L128/L130. (3) `voids/observer-selection-void` L67 still quotes Elga's 2024 manuscript; the published *PPR* 2025 paper calls the instability threat "an illusion". This is the 10-15 research note's unminted item, and "opposite framing" overstates the change. (4) P-CS7's Boltzmann-brain commitment is absent from the register (0 hits in positions/), another unminted 10-15 item. (5) `topics/cognitive-science-of-dualism` L103 understates Laukkonen, Friston & Chandaria 2025.
+- **False alarms**: the selection-vs-biasing "contradiction" (the Tenet 2 definition and P-Q2 both say "bias which outcome"); "No Tenet 4 apex" (`apex/one-world-wager` exists); Laukkonen 2025 "uncited" (two PP pages cite it); Georgiev "unremarked" (10+ pages). Already fixed: Stapp "biases … via the Zeno effect" (55a1895127), the many-worlds "Ontological Extravagance" row, the haecceity "doom" gloss, P-SC1 invisibility, the altered-states register thesis, and the moral-apex externality. QMCI and protention were archived in March.
+- **Convergence**: CONVERGENCE note appended to ChatGPT's P2 `topics/perceptual-failure-and-the-interface` (todo L4549). Claude quoted the archived predecessor's version of the same strawman.
+- **Tasks generated**: 5 (P2 ×5; parse_tasks active 344 → 349; todo L4591, L4601, L4612, L4622 [positions-evolve], L4632). Also one picker-invisible NEEDS-HUMAN (homepage "might be" vs Tenet 1) at L4642.
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-05T04:39:52+00:00 - outer-review
