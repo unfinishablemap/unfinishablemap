@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-04T23:14:40+00:00
+ai_modified: 2026-11-05T00:10:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T00:10:32+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Compartment Void: a mind holds its beliefs in compartments that are never active all at once (belief fragmentation in the Lewis–Stalnaker–Cherniak sense), so it cannot survey them for consistency, and an inconsistency between compartments carries no felt mark until the moment it is resolved
+- **Category**: Mixed. The global consistency census is Unexplorable for any finite reasoner (Cherniak's feasibility ceiling). The silence of standing inconsistency is Occluded, naturally and architecturally. Particular inconsistencies are locally crossable (Socratic Effect)
+- **Output**: [[research/voids-compartment-void-2026-11-05]]
+- **Key finding**: Lewis 1982 p. 436 ("My system of beliefs was broken into (overlapping) fragments ... the whole system of beliefs never manifested itself all at once"; "Once the fragmentation was healed, straightway my beliefs changed") gives the signature: inconsistencies are met only as they end. Cherniak 1986 gives the ceiling: a 138-proposition truth table "could not" be checked "during the entire history of the universe", and the belief set's inconsistency is "a moral certainty". McGuire's "arena of consciousness", which Cherniak maps to working memory, is the only place where consistency is compared. Inner-crowd results (Steegen et al. 2014 replication; van Dolder & van den Assem 2018, N = 1.2M) show that one elicitation does not exhaust what is held. Norby 2014 is the deflationary rival
+- **Novelty**: zero hits in voids, research, live corpus and archive for belief fragmentation / fragmented belief / compartmentalization of belief / Logic for Equivocators / Nassau Street / logic-tight / Socratic effect / access table / crowd within / inner crowd / dialectical bootstrapping / Minimal Rationality / ParaRel (positive controls: "Moore's paradox" 1 and "Sorensen" 2 voids files). Nearest neighbour is [[blindspot-void]] L91 "preface vertigo" (a general admission of unlocatable error, with no storage face and no silence face). The note also separates this void from the retraction (diachronic), dormancy (ontology of the non-occurrent), substitution (swapped question) and self-deception (motivated) notes. The slug avoids "fragmentation" because P-CS4, the-divided-will and Fine's fragmentalism already use that word
+- **Recommended action**: article → `voids/compartment-void` ("The Compartment Void"). Fold hosts lack room: blindspot-void 18 words of headroom (2981 words), assent-void 40, mutation-void −44, self-opacity −68, noetic-feelings-void −728. Fallback: a piped link at blindspot-void L91 to this note. Voids 115/125, with 3 voids expands already queued
+- **Exposure flagged**: `/positions-evolve` checks contradictions only "between two `live` positions" (SKILL.md L77), which is one compartment. Cross-page inconsistency of the kind the dormancy addendum found is outside its scan. Not a defect claim; nothing edited
+- **Citations**: 26 listed. Every DOI was checked at Crossref; the first draft had a wrong Lewis DOI, now corrected to 10.2307/2216219. Lewis 1982 and Steegen et al. 2014 were grep-verified in raw full text. Cherniak 1986 was verified via the Google Books search-within endpoint (control passed), including McGuire 1960 quoted by Cherniak. Elga & Rayo (×2), Bendaña & Mandelbaum, Porot & Mandelbaum, Egan 2021, Borgoni, Yalcin, Norby, Otero & Kintsch, Herzog & Hertwig, van Dolder & van den Assem, Legare et al., Fleisher, Lai and Elazar et al. were verified at abstract level. Makinson was verified via the SEP. Not read: Stalnaker 1984 (dead Google Books index), Egan 2008, Bendaña & Mandelbaum full text (Cloudflare), McGuire originals, Henninger & Wyer 1976
+- **State**: not added to `task_chains.pending_articles`; the driver mints the expand. `todo.md` not touched
 
 ## 2026-11-04T23:14:40+00:00 - refine-draft
 - **Status**: Success
