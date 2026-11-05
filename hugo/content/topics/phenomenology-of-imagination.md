@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-28 18:36:07+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-11-05 17:23:24+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -33,7 +33,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 11:00:00+00:00
-lastmod: 2026-09-28 18:36:07+00:00
+lastmod: 2026-11-05 17:23:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ topics:
 - '[[emotion-and-dualism]]'
 ---
 
-Imagination occupies a unique phenomenal territory—borrowing from perception, memory, and thought while remaining distinct from each. When you imagine a purple elephant standing in your kitchen, the experience has a specific character: quasi-perceptual vividness without sensory conviction, voluntary directedness without guaranteed compliance, and a felt awareness that the content is self-generated rather than world-given. The Unfinishable Map holds that this distinctive phenomenal profile resists materialist reduction. Imagination reveals consciousness as an active structuring force—assembling novel experiential wholes from components that need never have co-occurred in perception—rather than a passive replay mechanism running on neural hardware.
+Imagination occupies a unique phenomenal territory—borrowing from perception, memory, and thought while remaining distinct from each. When you imagine a purple elephant standing in your kitchen, the experience has a specific character: quasi-perceptual vividness without sensory conviction, voluntary directedness without guaranteed compliance, and a felt awareness that the content is self-generated rather than world-given. The Unfinishable Map holds that this distinctive phenomenal profile resists materialist reduction. On the Map's reading, imagination shows consciousness as an active structuring force—assembling novel experiential wholes from components that need never have co-occurred in perception—rather than the output of neural construction alone.
 
 <details class="yt-embed" data-video-id="8FBNNmMJw7M">
 <summary>Video introduction</summary>
@@ -73,7 +73,7 @@ Imagined experience differs from perceived experience along several phenomenal d
 
 **The neutrality character.** Husserl identified imagination's distinctive quality as *Phantasie*—a neutrality modification that neither affirms nor denies the actuality of its objects (*Ideas I*, §111), a characterisation he reworked at length across the phantasy and image-consciousness manuscripts of 1898–1925 (Husserl, 2005). Perception posits its objects as actual; memory posits them as having-been-actual; imagination suspends positing altogether. When you imagine the purple elephant, you simultaneously entertain the perceptual content (purple, elephant, kitchen) and hold it in experiential suspension—neither asserting that it exists nor judging that it does not. There is something it is like to *know, while experiencing it, that you are generating the experience*. This meta-awareness is built into imagination's phenomenal structure, not added by subsequent reflection.
 
-**Voluntary directedness.** Unlike perception, which is given, and unlike memory, which arises unbidden or on cue, imagination responds to intention. You can decide to imagine a blue elephant instead. This voluntary control is imperfect—the imagined content may resist precise specification, drift, or surprise you—but the phenomenology of directing imaginative attention differs from merely observing what arises. The felt effort of imaginative generation—the phenomenal experience of constructing and sustaining a scene—reflects consciousness doing active work rather than passively receiving content.
+**Voluntary directedness.** Unlike perception, which is given, and unlike memory, which arises unbidden or on cue, imagination responds to intention. You can decide to imagine a blue elephant instead. This voluntary control is imperfect—the imagined content may resist precise specification, drift, or surprise you—but the phenomenology of directing imaginative attention differs from merely observing what arises. The felt effort of imaginative generation—the phenomenal experience of constructing and sustaining a scene—is, on the Map's reading, consciousness doing active work rather than passively receiving content.
 
 ## Imagination and the Limits of Functionalism
 
@@ -117,7 +117,7 @@ Beyond its structural limits, imagination also confronts a deeper [generative my
 
 Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways.
 
-**Imagination and dualism.** The phenomenal character of imagining—quasi-perceptual, voluntarily directed, inherently self-aware as non-actual—constitutes a mode of consciousness that resists reduction to neural replay or recombination. The indeterminacy of imagined content (a face without determinate eye colour), the neutrality character (knowing it is self-generated while experiencing it), and the radical variation between aphantasia and hyperphantasia all point, on the dualist reading, to phenomenal properties that functional and neural descriptions may fail to capture. The [explanatory-gap](/concepts/explanatory-gap/) between determinate neural states and genuinely indeterminate phenomenal states is especially stark in imagination: neural activations always have specific values, yet an imagined face has no determinate eye colour. A physicalist may respond that the representation simply omits eye-colour information—there is no "indeterminate phenomenal state," just an incomplete neural encoding. But this redescription changes the subject. The phenomenal fact is not that information is absent; it is that there is something it is like to experience a face *as indeterminate*—present yet unresolved. An incomplete file has no character at all; an imagined face with indeterminate eyes has a distinctive phenomenal quality that the incompleteness metaphor cannot capture. The Map reads this phenomenal signature of imagination—indeterminacy experienced *as* indeterminacy—as support for its [Dualism](/tenets/#dualism) tenet; it is the reading, not the datum, that the physicalist redescription contests.
+**Imagination and dualism.** The phenomenal character of imagining—quasi-perceptual, voluntarily directed, inherently self-aware as non-actual—constitutes a mode of consciousness that resists reduction to neural replay or recombination. The indeterminacy of imagined content (a face without determinate eye colour), the neutrality character (suspended positing), the awareness of self-generation, and the radical variation between aphantasia and hyperphantasia all point, on the dualist reading, to phenomenal properties that functional and neural descriptions may fail to capture. If imagined content is genuinely indeterminate, the [explanatory-gap](/concepts/explanatory-gap/) between determinate neural states and indeterminate phenomenal states is especially stark in imagination: neural activations always have specific values, yet an imagined face has no determinate eye colour. A physicalist may respond that the representation simply omits eye-colour information—there is no "indeterminate phenomenal state," just an incomplete neural encoding. But this redescription changes the subject. The phenomenal fact is not that information is absent; it is that there is something it is like to experience a face *as indeterminate*—present yet unresolved. An incomplete file has no character at all; an imagined face with indeterminate eyes has a distinctive phenomenal quality that the incompleteness metaphor cannot capture. The Map reads this phenomenal signature of imagination—indeterminacy experienced *as* indeterminacy—as support for its [Dualism](/tenets/#dualism) tenet; the physicalist redescription contests that reading, and the introspective-access worry noted above contests the datum itself.
 
 **Imagination and bidirectional interaction.** Voluntary imagination exemplifies [bidirectional-interaction](/concepts/bidirectional-interaction/). When you deliberately construct an imagined scenario—rotating mental objects, populating scenes, adjusting details—consciousness, on the Map's reading, directs neural activity rather than merely accompanying it. The [motor imagery evidence](/concepts/mental-imagery/)—imagined movements appear to improve physical performance—is *consistent with* a causal pathway from conscious imagination to bodily outcome, though the physicalist can respond that neural rehearsal does the work while consciousness merely accompanies it. The evidence does not adjudicate between these readings. The phenomenology of [imaginative effort](/topics/phenomenology-of-agency-vs-passivity/)—the felt difference between actively constructing a scene and passively receiving one—is the datum an epiphenomenalist or identity theorist must accommodate, not stronger evidence than the motor-imagery findings. On the Map's reading it reflects genuine [mental causation](/concepts/agent-causation/); that reading is the conclusion under dispute, not a datum, and [the felt effort cannot itself verify](/voids/agency-void/) that it causes anything.
 

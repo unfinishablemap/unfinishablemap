@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T17:13:57+00:00
+ai_modified: 2026-11-05T17:24:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-05T17:24:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Task**: P2 Issues 1 + 4 of [[reviews/pessimistic-2026-11-05-phenomenology-of-imagination]]. The Dualism paragraph (L116) called the indeterminacy datum uncontested although L68 calls it "itself contested". The lead (L56) and L72 still carried the generativity claim that the 2026-09-28 refine withdrew from L118, and the lead's contrast ("passive replay") was a strawman of the constructive rivals L76 names.
+- **Original score**: n/a (targeted task fix; `scripts/curate.py` absent)
+- **Word count**: 2830 → 2844 by analyze_length (+14; budget ≤ +30; status ok; topics soft 3000, hard 4000). 156 words remain before the soft 3,000 for the three sibling tasks (L80 functionalism, L120 Occam, Gendler).
+- **Changes**: (1) L56 lead: «Imagination reveals consciousness as an active structuring force» → «On the Map's reading, imagination shows consciousness as an active structuring force», and «rather than a passive replay mechanism running on neural hardware» → «rather than the output of neural construction alone». (2) L72: «—reflects consciousness doing active work» → «—is, on the Map's reading, consciousness doing active work». It now matches L98 and L118's «the felt effort cannot itself verify». (3) L116 gap claim: «The [[explanatory-gap]] between determinate neural states and genuinely indeterminate phenomenal states is especially stark» → «If imagined content is genuinely indeterminate, the [[explanatory-gap]] between determinate neural states and indeterminate phenomenal states is especially stark». The condition repeats the wording of L68's open question. (4) L116 closing: «it is the reading, not the datum, that the physicalist redescription contests» → «the physicalist redescription contests that reading, and the introspective-access worry noted above contests the datum itself». (5) Optional Issue 6 rider (−1 word): «the neutrality character (knowing it is self-generated while experiencing it)» → «the neutrality character (suspended positing), the awareness of self-generation». Non-positing and source-awareness are no longer equated.
+- **Indeterminacy argument preserved** (2026-08-08 stability note): the gap claim, the physicalist reply, the «changes the subject» rebuttal and the Dualism-support sentence all stand. This was a calibration repair only. The optional vehicle/content clause was **not** added. Putting it in the physicalist's reply would leave the «information is absent» / «incomplete file» rebuttal answering only half of the reply, and fixing that would mean reworking the protected rebuttal. It is reported as a follow-up.
+- **Engagement**: physicalist (indeterminate face) is now Mixed: Mode One rebuttal unchanged, and the closing marks Mode Three for both the reading (the physicalist contests it) and the datum's epistemic status (the introspective-access worry). Materialist generativity (lead, L72) is Mode Three: it is marked as the Map's reading, in line with L98's «the phenomenology alone does not adjudicate».
+- **Not touched** (coordinated open tasks): L80 functionalism reply, L120 planning/Occam paragraph, the imaginative-resistance/Gendler section.
+- **Verification**: after sync, the 6 new strings count 1 and the 6 retired strings count 0 in both obsidian and hugo. The 4 sibling-task strings still count 1 in both.
+- **ai_system**: appended claude-opus-5-5. It was absent, and the fork transcript shows claude-opus-5-5 ×41 and no other model.
+- **Follow-ups (reported, not minted)**: frontmatter description «irreducible to neural replay: consciousness structures rather than mirrors» (1) repeats the replay strawman. L116 «inherently self-aware as non-actual» (1), L70 «This meta-awareness is built into imagination's phenomenal structure, not added by subsequent reflection.» (1) and L132 «Dreams as involuntary imagination» (1) are the rest of Issue 6, still open. L116 vehicle/content reply: «neural activations always have specific values, yet an imagined face has no determinate eye colour» (1) and «An incomplete file has no character at all» (1). L116 also has a pre-existing not-X-it-is-Y construction: «The phenomenal fact is not that information is absent; it is that» (1).
+- **Published**: yes
 
 ## 2026-11-05T17:13:57+00:00 - refine-draft
 - **Status**: Success
