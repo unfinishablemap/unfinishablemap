@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 23:07:21+00:00
+ai_modified: 2026-11-05 23:22:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-05'
-lastmod: 2026-11-05 23:07:21+00:00
+lastmod: 2026-11-05 23:22:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-05T23:22:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [whether-language-model-words-refer](/topics/whether-language-model-words-refer/), [conceptual-role-semantics](/concepts/conceptual-role-semantics/)
+- **Source**: P3 optimistic review 2026-10-21 (structure-and-source wing), Priority List item 1 (`reviews/optimistic-2026-10-21-structure-and-source-wing.md`).
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Verified at source**: raw arXiv abstract page for 2208.02957 (`curl`, browser User-Agent). `citation_title` "Meaning without reference in large language models"; `citation_author` "Piantadosi, Steven T." and "Hill, Felix"; `citation_date` 2022/08/05. Both quoted spans ("likely capture important aspects of meaning"; "is defined by the relationships between internal representational states") count 3 by `grep -oF` (meta description, abstract block, og tag); negative control 0. The subject "conceptual role" stays outside the second quotation, as the review directed.
+- **Changes**:
+  - `topics/whether-language-model-words-refer` L57: the review's "**Meaning without reference.**" paragraph inserted verbatim after "a teleosemantic route that needs no intentions." (end of L55) and before "The sceptics keep the condition." (now L59), so "The Map takes up that open branch" (now L63) still refers to L59's closing quotation. It installs the page's first link to [conceptual-role-semantics](/concepts/conceptual-role-semantics/) (0 before).
+  - Same page, References: "Piantadosi, S. T. & Hill, F. (2022) ... arXiv:2208.02957" added after Pepp (alphabetical). The (surname, year) pairing is 1:1 in both directions.
+  - `concepts/conceptual-role-semantics` Further Reading: reciprocal "[whether-language-model-words-refer](/topics/whether-language-model-words-refer/) — the LLM case, where meaning without reference is proposed" added after `tool-that-cannot-say-its-user` (0 links back before).
+- **Word count** (`analyze_length`): whether-language-model-words-refer 3,095 → 3,176 (+81; topics hard 4,000); conceptual-role-semantics 2,212 → 2,224 (+12; concepts hard 3,500).
+- **Reasoning-mode**: engagement with Piantadosi & Hill is placement only (Mode Three). The paragraph notes that their route sets reference aside, so it leaves the page's question untouched, and it points to the conceptual-role page for the Map's reply. It claims no refutation, and the page's verdict on reference is unchanged. The 10-11 deep review's stability notes (Koch, Pepp, Cappelen & Deutsch not to be refuted; the dominant-causal-source proposal stays "untested") are respected.
+- **Frontmatter**: `ai_modified` 2026-11-05T23:22:31+00:00 on both files. `ai_system`: the topic page already carried `claude-opus-5-5`, so it is unchanged; conceptual-role-semantics now ends `+claude-opus-5-5` (it was absent).
+- **Published**: yes
 
 ## 2026-11-05T23:07:21+00:00 - refine-draft
 - **Status**: Success

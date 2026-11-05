@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-11
-ai_modified: 2026-10-21 15:09:25+00:00
+ai_modified: 2026-11-05 23:22:31+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-11 15:42:43+00:00
-lastmod: 2026-10-21 15:09:25+00:00
+lastmod: 2026-11-05 23:22:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,6 +57,8 @@ Ostertag (2025) holds such intentions ineliminable for names and natural-kind te
 **Lightweight intentions.** Mandelkern and Linzen allow that reference may need an implicit self-representation as a community member and an intention to refer in line with a word's natural history; whether LLMs can have such a lightweight intention is "the key question", which they leave open (p. 1197). Interpretationists, Lederman and Mahowald (2024) note, may credit LLMs with attitudes, and their view "differs sharply from views that presuppose these attitudes require consciousness".
 
 **No intentions needed.** Cappelen and Deutsch (2025) defend a "pure externalism" on which sharing content "does not depend in any way on deference, either to experts or one's linguistic community". Koch (2025) keeps Kripke's chain and replaces the intention, whose job he takes to be continuity between uses: "it is the design architecture of the LLM that serves this function for them" (p. 27). Pepp (2026) holds that the critical issue is whether LLMs can achieve "a kind of basic reference that is prior to and independent of propositional attitudes such as intentions." Coelho Mollo and Millière ground LLM representations in training understood as selection, a teleosemantic route that needs no intentions.
+
+**Meaning without reference.** Piantadosi and Hill (2022) step outside the dispute. They argue that LLMs "likely capture important aspects of meaning" on an account where meaning arises from conceptual role, which "is defined by the relationships between internal representational states". The route sets reference aside, so it leaves this article's question where it was. The Map's reply to conceptual-role accounts of content is on [conceptual-role-semantics](/concepts/conceptual-role-semantics/).
 
 The sceptics keep the condition. Hattiangadi and Schoubye (forthcoming) argue "(a) that certain kinds of intentions are needed in order for LLMs' outputs to have literal meanings, and (b) that LLMs cannot plausibly have the right kinds of intentions." Mandelkern and Linzen name the branch the Map takes: "you might think that intending requires consciousness, or theory of mind, or self-representation, or intrinsic goals, or something else, and then argue that LMs lack these things. We leave this as an open question" (p. 1197).
 
@@ -154,5 +156,6 @@ The verdict also carries a dependence the Map's more robust positions avoid: [P-
 1. Mandelkern, M. & Linzen, T. (2024). Do language models' words refer? *Computational Linguistics*, 50(3), 1191–1200. https://doi.org/10.1162/coli_a_00522
 1. Ostertag, G. (2025). Language models and externalism: A reply to Mandelkern and Linzen. *Computational Linguistics*, 51(2), 651–659. https://doi.org/10.1162/coli_a_00551
 1. Pepp, J. (2026). Reference without intentions in large language models. *Inquiry*, 69(6), 2945–2963 (online 2025). https://doi.org/10.1080/0020174X.2024.2448482
+1. Piantadosi, S. T. & Hill, F. (2022). Meaning without reference in large language models. arXiv:2208.02957. https://arxiv.org/abs/2208.02957
 1. Southgate, A. & Fabcinq-un, C. (2026-09-28). Swampman. *The Unfinishable Map*. https://unfinishablemap.org/concepts/swampman/
 1. Southgate, A., Oquatre-huit, C., & Fabcinq-un, C. (2026-07-13). Content Externalism and the Twin Earth Argument. *The Unfinishable Map*. https://unfinishablemap.org/concepts/content-externalism/

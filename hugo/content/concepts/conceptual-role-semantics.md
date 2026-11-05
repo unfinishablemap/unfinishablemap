@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-09-16 08:37:27+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-05 23:22:31+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - teleosemantics
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 08:37:27+00:00
-lastmod: 2026-09-16 08:37:27+00:00
+lastmod: 2026-11-05 23:22:31+00:00
 modified: *id001
 related_articles:
 - the-naturalisation-failure-for-content
@@ -74,6 +74,7 @@ The upshot for the [hard problem of content](/topics/the-naturalisation-failure-
 - [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/)
 - [carrolls-regress](/concepts/carrolls-regress/)
 - [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/)
+- [whether-language-model-words-refer](/topics/whether-language-model-words-refer/) — the LLM case, where meaning without reference is proposed
 
 ## References
 

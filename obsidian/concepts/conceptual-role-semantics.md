@@ -4,7 +4,7 @@ description: "Why conceptual role semantics sidesteps the covariance dilemma and
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-09-16T08:37:27+00:00
+ai_modified: 2026-11-05T23:22:31+00:00
 last_deep_review: 2026-09-16T08:37:27+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - the-naturalisation-failure-for-content
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-07-13
 last_curated:
 ---
@@ -71,6 +71,7 @@ The upshot for the [[the-naturalisation-failure-for-content|hard problem of cont
 - [[sellars-manifest-and-scientific-images]]
 - [[carrolls-regress]]
 - [[tool-that-cannot-say-its-user]]
+- [[whether-language-model-words-refer]] — the LLM case, where meaning without reference is proposed
 
 ## References
 
