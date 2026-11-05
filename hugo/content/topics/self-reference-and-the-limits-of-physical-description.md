@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-06 22:20:23+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-11-05 17:12:10+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/self-reference-and-the-limits-of-physical-description/
@@ -31,7 +31,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-06 16:12:00+00:00
-lastmod: 2026-10-06 22:20:23+00:00
+lastmod: 2026-11-05 17:12:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +49,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-Gödel's incompleteness theorems and the quantum measurement problem are often treated as unrelated — one a result in mathematical logic, the other a puzzle in physics. The Unfinishable Map argues that for the *formal* limits at issue their connection is deeper than metaphor. Category-theoretic work by Szangolies (2018), building on Lawvere's fixed-point theorem, identifies a single mathematical mechanism — self-referential obstruction in Cartesian closed categories — generating both Gödelian incompleteness and quantum epistemic limitations. Rigorous results by Cubitt et al. (2015) and Landsman (2020) demonstrate genuine undecidability *within* physics itself. These convergent findings appear to undermine the assumption that physical theory can provide complete causal explanations — and may keep the [measurement problem](/concepts/measurement-problem/) open for consciousness-based resolution.
+Gödel's incompleteness theorems and the quantum measurement problem are often treated as unrelated — one a result in mathematical logic, the other a puzzle in physics. The Unfinishable Map argues that for the *formal* limits at issue their connection is deeper than metaphor. Category-theoretic work by Szangolies (2018), building on Lawvere's fixed-point theorem, identifies a single mathematical mechanism — self-referential obstruction in Cartesian closed categories — underlying Gödelian incompleteness, and proposes it as a possible origin of quantum epistemic limitations. Rigorous results by Cubitt et al. (2015) and Landsman (2020) demonstrate genuine undecidability *within* physics itself. These convergent findings appear to undermine the assumption that physical theory can provide complete causal explanations — and may keep the [measurement problem](/concepts/measurement-problem/) open for consciousness-based resolution.
 
 <details class="yt-embed" data-video-id="rqEIFYeAT_k">
 <summary>Video introduction</summary>
@@ -73,11 +73,11 @@ The Frauchiger-Renner paradox (2018) sharpens this structural parallel. In an ex
 
 ### Formal Unification
 
-Szangolies (2018) provides the most rigorous bridge. Rather than drawing parallels, he identifies a *single mathematical structure* — Lawvere's fixed-point theorem in Cartesian closed categories — that generates both domains of incompleteness. Lawvere's theorem is a category-theoretic generalisation that unifies Gödel's incompleteness, Turing's halting problem, Cantor's diagonal argument, and Tarski's undefinability of truth as instances of the same fixed-point obstruction. A surjective morphism in a Cartesian closed category that admits a fixed point produces, in every case, a proposition the system cannot consistently evaluate.
+Szangolies (2018) provides the most rigorous bridge. Rather than drawing parallels, he identifies a *single mathematical structure* — Lawvere's fixed-point theorem in Cartesian closed categories — that he proposes underlies both domains of incompleteness. Lawvere's theorem is a category-theoretic generalisation that unifies Gödel's incompleteness, Turing's halting problem, Cantor's diagonal argument, and Tarski's undefinability of truth as instances of the same fixed-point obstruction. A surjective morphism in a Cartesian closed category that admits a fixed point produces, in every case, a proposition the system cannot consistently evaluate.
 
-Szangolies argues that this same structure generates quintessentially quantum phenomena: value indeterminacy, complementarity, and the uncertainty principle all emerge as "epistemic horizons" — in-principle restrictions on information available about a system — whose origin is paradoxical self-reference. His published claim, for these *formal* limits, is that quantum mechanics does not merely *resemble* Gödel's result: incompleteness and quantum epistemic limitation *derive from* the same category-theoretic mechanism.
+Szangolies argues that this structure yields measurement outcomes unpredictable from a system's state, and phenomena "closely paralleling the quantum phenomena of superposition, complementarity, and the uncertainty principle". He offers paradoxical self-reference as "a possible origin" of quantum theory's "epistemic horizons" — in-principle restrictions on information available about a system — and disclaims anything stronger: "it is not proposed that quantum indeterminacy is due, in any direct sense, to Gödel's theorem", nor does he "claim to have achieved a reconstruction of the full quantum formalism".
 
-This is the level at which the Map operates. For the formal voids — Gödelian incompleteness, the halting problem, the quantum epistemic horizons — incompleteness and quantum limitation are bound by a genuine mathematical unification rather than a mere analogy, and that result is Szangolies'. Szangolies, though, is a naturalist, not a substance dualist: his wider programme (epistemic horizons; "Von Neumann Minds"; qualia treated as the non-computable model–world link) takes the phenomenal and intentional to *arise from* the same fixed-point machinery, not to stand outside it. The Map's extension of his apparatus to consciousness — the reading developed below, on which the phenomenal core stands apart from the self-reference structure — is the Map's own inference and one Szangolies does not draw.
+Formal unification is the level at which the Map operates. For the formal voids — Gödelian incompleteness, the halting problem, the quantum epistemic horizons — incompleteness and quantum limitation are bound by a genuine mathematical unification rather than a mere analogy. Treating Szangolies' possible origin as that unification is the Map's step, not a settled external result. Szangolies, moreover, is a naturalist, not a substance dualist: his wider programme (epistemic horizons; "Von Neumann Minds"; qualia treated as the non-computable model–world link) takes the phenomenal and intentional to *arise from* the same fixed-point machinery, not to stand outside it. The Map's extension of his apparatus to consciousness — the reading developed below, on which the phenomenal core stands apart from the self-reference structure — is the Map's own inference and one Szangolies does not draw.
 
 ## Genuine Undecidability Within Physics
 
