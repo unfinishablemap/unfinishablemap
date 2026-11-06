@@ -403,9 +403,9 @@
   prompt_summary: 'Audit substance-property-dualism: claims, citations, objections,
     coherence'
   target_filename: outer-review-2026-11-06-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-06T05:23:44.301189+00:00'
   failure_reason: null
   prompt_text: 'Please write an independent critical audit of the article "Substance
     Dualism vs Property Dualism" on The Unfinishable Map: https://unfinishablemap.org/concepts/substance-property-dualism/

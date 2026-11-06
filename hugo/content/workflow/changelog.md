@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06 04:53:12+00:00
+ai_modified: 2026-11-06 05:35:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-06'
-lastmod: 2026-11-06 04:53:12+00:00
+lastmod: 2026-11-06 05:35:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-06T05:35:56+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 with Research (289 sources, 13m 39s), collected by collect-claude-review. Commissioned 03:09:02Z. Ready on the first poll of the first collect attempt at 05:22Z: the in-thread artifact tile was present (the "View all" sidebar button was filtered out) and "Research complete" was shown. The composer read "Fable 5.1", with no Opus, "unavailable" or limit markers, so the filename slug `claude-fable-5-1` is correct.
+- **File**: [outer-review-2026-11-06-claude-fable-5-1](/reviews/outer-review-2026-11-06-claude-fable-5-1/) (subject: `concepts/substance-property-dualism`, reusing the ChatGPT leg's subject)
+- **Extraction**: js-dom walk of the largest `.standard-markdown` into 49,447 characters (50,688 bytes). The body was stable at 39,884 characters across a 10s sentinel. It was retrieved by Blob download, not chunked readout. The local SHA-256 matched the in-page `crypto.subtle` hash `d7b4533a…be69e68` exactly, and the prompt hash matched the pending entry's prompt_text. `collect_review.py` changed only Map-link labels. 70 Map URLs in the Reply were converted to path-qualified wikilinks.
+- **Claims verified**: 10 confirmed (4 raw-text: the 1643 Descartes letters, the Frankish 2016 eprint, the Pautz Dec 2015 draft via Wayback, and the SEP Dualism and Mental Causation entries; plus Crossref for Laukkonen et al. 2025, and on-disk deep-review history). 5 partly supported, 5 unverified, 6 disputed (stale search copies, omitted disclaimers, and sibling pages that already carry the fix).
+- **Key adjudication**: the Pautz quotation is SPLICED. The source reads "I am calling it a physicalist view, but it seems to have many of the vices of dualism"; the article's "Though called" has 0 hits. This overrides the ChatGPT leg's "the quotation is real" and that task's "stays verbatim either way". The reviewer's "DELETE the either-view headline" was rejected, because `tenets/background-commitments` L58 continues "This is not a contradiction", which the reviewer omitted.
+- **High-value findings**: 9 (Pautz splice; pineal gland; Zimmerman; bare regress; L111 debunking misdescribed; contemplative inference versus the beautiful-loop rival; no exclusion argument; stale Chalmers and Jackson; undefined "substance").
+- **Tasks generated**: 1 new P2 (`concepts/substance-property-dualism` currency and exclusion: L175, L71, L87, L133, L91, plus a zero-word bi-aspectual link; budget +75). Claude-corroborated addenda were added to all 5 ChatGPT-leg tasks on the article (the P1 gains locus (e) L111; the lead P2 gains L169 and a mandatory L3 edit; the subject-unity P2 gains an item-5 offset; the history P2's Pautz gate is satisfied and overridden). Methodology addenda went to 3 NEEDS-HUMAN entries (verification ledger, propagation, foundations). Methodology item 5 (the rival gate) is already installed in `project/evidential-status-discipline`, so no task was minted.
+- **Length note**: the article is 3,002 words (concepts hard 3,500, gate >=). The ChatGPT tasks reserve about +400 and the new P2 +75, so all six together fit at about 3,477 if every optional item is skipped.
+- **Pending entry**: `outer-review-2026-11-06-claude-fable-5-1.md` marked `collected` (attempts 0). Gemini leg still pending.
 
 ## 2026-11-06T04:53:12+00:00 - outer-review
 - **Status**: Success
