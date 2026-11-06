@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06T03:39:42+00:00
+ai_modified: 2026-11-06T04:08:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-06T04:08:37+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/blindspot-void]] (2,981 words by `analyze_length`: prose 2,617 + Further Reading 114 + References 250; voids hard 3,000, headroom 18). Chosen as one of only three live content articles with no review file of any kind; `observer-selection-void` was excluded by the 48h rule, and this page has the older last edit than `handedness-void`. Voids are outside the deep-review pool.
+- **Findings**: 3 High, 3 Medium, 5 Low. (1) L55 says the negative phenomenal blindspot "survives illusionism" in "whatever sense", false on the paragraph's own antecedent and on `concepts/illusionism` L139. (2) L97's "No physical fact about a system is verified by a report that is an instance of it" is refuted by its own thermostat and by Dretske's draft n. 15 ("can't be false"; "is not self-verifying"), and it misdescribes Ramm, whose premise quoted at L53 denies that instantiation suffices. (3) L53 inverts Dretske: "stamping our feet" rejects the view the page gives as his conclusion. (4) The Fitch layer is universal, not positional (L45 vs L69/L37/L95/L67; sibling `voids/voids.md` L307). (5) L65/L57/L106 call self-opacity contingent, against `voids/self-opacity` L74 "constitutive" and `concepts/self-blindness` L53/L57. (6) L75 attributes an AI self-report policy to a page with 0 `AI` hits (the policy is at `apex/assessing-ai-consciousness-under-the-map` L131 and concerns positive reports), and "such a system" asserts that the author is conscious. Low: Sorensen 2025 contagion presented as the Map's own (the research note's Sorensen 2015 *APQ* is unverifiable); "As Sorensen puts it" quotes his report of "the common explanation"; "blindspot accessed from inside"; Edgington overstatement at L45; self-citation lag (Ocinq-cinq).
+- **Priority List**: 4 items with exact replacement text and costs: +3 (with L101 offset), −1, −5 (with L45 offset), +12; all together +9 → 2,990. No tasks minted (the driver mints).
+- **Sources fetched**: SEP Epistemic Paradoxes and Fitch's Paradox (raw HTML), Dretske consc.net draft, arXiv 2501.05454v2 abstract, OpenAlex (Ramm, Kind, Sorensen 1984, Sorensen 2025), Crossref (six DOIs + Sorensen 2015 search), one web search.
+- **Output**: [[reviews/pessimistic-2026-11-06-blindspot-void]]
 
 ## 2026-11-06T03:39:42+00:00 - refine-draft
 - **Status**: Success
