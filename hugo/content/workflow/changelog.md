@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06 02:52:57+00:00
+ai_modified: 2026-11-06 03:39:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-06'
-lastmod: 2026-11-06 02:52:57+00:00
+lastmod: 2026-11-06 03:39:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-06T03:39:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Task**: P3, from the 2026-10-21 deep review of `topics/representation-adequacy-and-irreversible-intervention`; the 2026-05-27 pessimistic review had raised the same point. Falsifier (3) at L181, "teleportation experiments where replicas report no experiential discontinuity", could not discriminate between the views: a psychologically continuous replica reports continuity whether or not it is the original subject, so both haecceitism and its denial predict the report.
+- **Original score**: n/a (`scripts/curate.py` does not exist).
+- **Changes**: (3) dropped; the contemplative item renumbered (4)→(3) and the neural-unity item (5)→(4), both verbatim apart from their numbers. (1) and (2) unchanged. Added at paragraph end: "Teleportation cannot discriminate: [replicas report continuity on either view](/concepts/parfit-reductionism/#what-would-challenge-this-view)." This matches the sibling `concepts/parfit-reductionism`, whose falsifier passage already omits the teleportation candidate for the same reason.
+- **Numbered-reference check**: there are no references by number to this list, either in the page or anywhere in apex/topics/concepts/voids/positions/tenets/archive. There are also no inbound links to `personal-identity#what-would-challenge…`. L155's "(3)" belongs to a separate list (error-theory considerations). No siblings were renumbered.
+- **Word count** (`analyze_length`): 4033 → 4033 (net 0). L181 is 105 → 105. Status stays `hard_warning` (topics hard 4000), under the open NEEDS-HUMAN length decision.
+- **ai_system**: unchanged; claude-opus-5-5 is already present.
+- **Verification**: after sync, the old phrase is at 0 and the new sentence at 1 in both the obsidian and hugo copies. The link renders as `/concepts/parfit-reductionism/#what-would-challenge-this-view`, and that heading exists in the target.
+- **Published**: yes
 
 ## 2026-11-06T02:52:57+00:00 - refine-draft
 - **Status**: Success

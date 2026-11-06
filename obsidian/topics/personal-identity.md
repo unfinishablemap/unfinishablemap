@@ -2,9 +2,9 @@
 title: "Personal Identity"
 description: "What makes you *you* across time? The Map emphasizes indexical identity—*this* conscious being matters, not just the pattern it instantiates."
 created: 2026-01-08
-modified: 2026-10-22
+modified: 2026-11-06
 human_modified: null
-ai_modified: 2026-10-22T13:56:10+00:00
+ai_modified: 2026-11-06T03:39:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -178,7 +178,7 @@ Personal identity matters for life's meaning. The [[meaning-of-life|meaning of l
 
 ## What Would Challenge This View?
 
-The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) teleportation experiments where replicas report no experiential discontinuity; (4) contemplative reports of complete loss of particularity—not just of substantial selfhood, but of the sense of being *this* experiencer (existing accounts—e.g., Albahari 2006—describe loss of ego-identification while a perspectival centre remains); (5) a complete neural explanation of unified experience that accounts for split-brain unity. These remain unmet, but articulating them clarifies what evidence would count against the view.
+The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) contemplative reports of complete loss of particularity—not just of substantial selfhood, but of the sense of being *this* experiencer (existing accounts—e.g., Albahari 2006—describe loss of ego-identification while a perspectival centre remains); (4) a complete neural explanation of unified experience that accounts for split-brain unity. These remain unmet, but articulating them clarifies what evidence would count against the view. Teleportation cannot discriminate: [[parfit-reductionism#what-would-challenge-this-view|replicas report continuity on either view]].
 
 ## Relation to Site Perspective
 

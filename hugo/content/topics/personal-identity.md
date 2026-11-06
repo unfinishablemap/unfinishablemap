@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-22 13:56:10+00:00
+ai_modified: 2026-11-06 03:39:42+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ concepts:
 - '[[buddhism-and-dualism]]'
 - '[[measurement-problem]]'
 created: 2026-01-08
-date: &id001 2026-10-22
+date: &id001 2026-11-06
 description: What makes you *you* across time? The Map emphasizes indexical identity—*this*
   conscious being matters, not just the pattern it instantiates.
 draft: false
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-10-22 13:56:10+00:00
+lastmod: 2026-11-06 03:39:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -181,7 +181,7 @@ Personal identity matters for life's meaning. The [meaning of life](/topics/mean
 
 ## What Would Challenge This View?
 
-The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) teleportation experiments where replicas report no experiential discontinuity; (4) contemplative reports of complete loss of particularity—not just of substantial selfhood, but of the sense of being *this* experiencer (existing accounts—e.g., Albahari 2006—describe loss of ego-identification while a perspectival centre remains); (5) a complete neural explanation of unified experience that accounts for split-brain unity. These remain unmet, but articulating them clarifies what evidence would count against the view.
+The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) contemplative reports of complete loss of particularity—not just of substantial selfhood, but of the sense of being *this* experiencer (existing accounts—e.g., Albahari 2006—describe loss of ego-identification while a perspectival centre remains); (4) a complete neural explanation of unified experience that accounts for split-brain unity. These remain unmet, but articulating them clarifies what evidence would count against the view. Teleportation cannot discriminate: [replicas report continuity on either view](/concepts/parfit-reductionism/#what-would-challenge-this-view).
 
 ## Relation to Site Perspective
 
