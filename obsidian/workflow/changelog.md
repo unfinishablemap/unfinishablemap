@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06T04:08:37+00:00
+ai_modified: 2026-11-06T04:53:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-06T04:53:12+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (backend `model_slug` gpt-5-6-pro, filed as `gpt-5-6-sol-pro`), collected by collect-chatgpt-review. Commissioned 02:23:56Z. It was ready on the first collect attempt at 04:38Z: `data-talvt-turn-state="complete"`, no Stop button, 0 streaming nodes, and the backend reported `finished_successfully` with `end_turn` true.
+- **File**: [[reviews/outer-review-2026-11-06-chatgpt-5-6-sol-pro]] (subject: `concepts/substance-property-dualism`, the recent-aged fallback)
+- **Extraction**: js-dom walk of `[data-markdown-text-style]` (KaTeX taken from its `annotation`; buttons, svg and img skipped) into 48,943 characters of markdown. It was read out in 55 chunks of 900 characters, each checked against an in-page SHA-256 prefix. The full-body SHA-256 matched the in-page hash `d09149bb…2abd` (49,375 bytes). `collect_review.py` changed only Map-link labels, and 21 Map URLs were converted to path-qualified wikilinks.
+- **Claims verified**: 28 strings were grepped on the live article (3,002 words by analyze_length), and every edit anchor has count 1. Sibling pages were checked: pairing-problem, illusionism, witness-consciousness, where-the-substance-commitment-enters, four-category-ontology, history-of-the-interaction-problem, radical-pair-magnetoreception and interactionist-dualism. The Zimmerman 2010 OUP abstract was fetched verbatim. Pautz's PDF returned 403 at philpapers.org and philarchive.org, so it remains unverified.
+- **High-value findings**: 9 confirmed. (1) Zimmerman L159: "panpsychism" and "epiphenomenalism" are absent from the abstract, whose route is qualia bearers and speculative materialism. (2) Bailey–Rasmussen–Van Horn L95 haecceity attribution, which contradicts pairing-problem L81/L89/L93; this is the last live page carrying it. (3) The bare regress at L109, which contradicts illusionism L91 and witness-consciousness L146; the 07-30 stability note predates the move. (4) The L113 contemplative inference, which goes beyond its siblings. (5) Lead L41, L163, L177 and L67 against scoping L28/L44/L50. (6) "Avoids the combination problem entirely" against P-SC2/P-SC3. (7) The Descartes pineal reply and the Leibniz energy argument at L51. (8) Lowe NCSD omissions and a missing Hasker reference. (9) Three sourcing gaps at L129.
+- **False alarms**: Chalmers "miscontextualised" (the article never calls him an interactionist; L87 already flags the epiphenomenalist temptation), neural dependence at L79 (already scoped to separable souls), and the item 19 scoping table (already present in substance). Declined: the taxonomy matrix (~120+ words) and the "point beyond physics" wording.
+- **Already queued**: the Luo clause at L129 (P3 Luo sweep). Methodology items 20, 21 and 25 became addenda on the 2026-08-03 propagation NEEDS-HUMAN and the 2026-07-30 per-claim-ledger NEEDS-HUMAN. Item 22 is the evidential-status discipline; item 24 is literature-drift-review.
+- **Tasks generated**: 5 (P1 ×1, P2 ×4, all refine-draft on `concepts/substance-property-dualism`, with budgets of +90/+70/+70/+75/+95 against 497 words of headroom). parse_tasks active went from 380 to 385; todo L5068, L5090, L5110, L5131, L5153.
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-06T04:08:37+00:00 - pessimistic-review

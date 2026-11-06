@@ -372,9 +372,9 @@
   prompt_summary: 'Audit substance-property-dualism: claims, citations, objections,
     coherence'
   target_filename: outer-review-2026-11-06-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-06T04:41:50.640647+00:00'
   failure_reason: null
   prompt_text: 'Please write an independent critical audit of the article "Substance
     Dualism vs Property Dualism" on The Unfinishable Map: https://unfinishablemap.org/concepts/substance-property-dualism/
