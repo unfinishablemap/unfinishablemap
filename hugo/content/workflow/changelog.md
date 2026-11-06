@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06 06:58:55+00:00
+ai_modified: 2026-11-06 07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-06'
-lastmod: 2026-11-06 06:58:55+00:00
+lastmod: 2026-11-06 07:25:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-06T07:25:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [mind-arena](/concepts/mind-arena/)
+- **Selection**: `deep_review.py next` top candidate (score 116, 93 days). Neither excluded page was picked.
+- **Overlap**: the open P3 "`concepts/mind-arena` still defines the term by the "uncomputable" claim…" (Generated 2026-11-05) owns the description and L45/L47/L49/L57/L69/L75/L79. Those loci were re-verified live and left untouched. The P3's "L74" is L75 on disk.
+- **Word count**: 1,382 → 1,431 (+49) by analyze_length (concepts soft 2,500, hard 3,500)
+- **Critical issues addressed**: 2. L55 "makes intractable" contradicted L49's "uncomputable rather than just hard" and now reads "leaves unmodellable from physical state". L73's physicalist contrast "every outcome is in principle physical-state-computable" now reads "a complete physical-state model omits no variable an outcome depends on" (risk L133).
+- **Medium issues addressed**: 2. L75 gains the mechanism-debt inheritance (link `positions/quantum-interface#^mechanism-debt`, coherence-only citation grade, no tier). L55's "is not that…—it is that…" construct was rewritten.
+- **Enhancements made**: 1 (the L75 "load-bearing" intensifier was dropped).
+- **Engagement classification (editor-internal)**: physicalist, L73: Mode Three (framework-boundary marking); no named-opponent replies.
+- **Quote ledger**: 13 Map-internal spans grep-checked. 7 are live, 6 return 0 (all P3-owned). No external citations; the single reference is real-correct.
+- **Follow-ups (not minted)**: P3-family loci the P3 does not list: L37 "events whose full consequence-distribution depends on the contribution of a conscious system", L43 "whose consequence-distributions are shaped by that loop", L69 "even a vanishingly narrow channel that does genuine work suffices", and L45 "the load-bearing claim concerns".
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Output**: [deep-review-2026-11-06-mind-arena](/reviews/deep-review-2026-11-06-mind-arena/)
+- **Model**: claude-opus-5-5
 
 ## 2026-11-06T06:58:55+00:00 - refine-draft
 - **Status**: Success

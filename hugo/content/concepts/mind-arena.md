@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-11-06 02:52:57+00:00
+ai_modified: 2026-11-06 07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -18,8 +18,8 @@ description: The Map's term for the domain of outcomes that pass through minds�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-04 09:45:57+00:00
-lastmod: 2026-11-06 02:52:57+00:00
+last_deep_review: 2026-11-06 07:25:48+00:00
+lastmod: 2026-11-06 07:25:48+00:00
 modified: *id001
 related_articles:
 - '[[dualism-as-ai-risk-mitigation]]'
@@ -56,7 +56,7 @@ The defining property of the mind-arena is therefore **structural unmodellabilit
 
 The mind-arena is a *domain* term. Its value depends on keeping it distinct from the Map's *mechanism* and *formalism* terms, which it is easily collapsed into.
 
-**Versus [mental causation](/concepts/mental-causation-and-downward-causation/).** Mental causation is the *thesis and mechanism*: that mental states cause physical effects, via selection at quantum indeterminacies where physics is incomplete. The mind-arena is the *domain in which that mechanism operates*. Mental causation answers "how does mind affect matter?"; the mind-arena answers "which outcomes are thereby co-determined?" An AI's problem in the risk-mitigation argument is not that it misunderstands the *mechanism* of mental causation—it is that the *domain* of outcomes that mechanism shapes is unmodellable from its data. One is a causal relation; the other is the territory that relation makes intractable.
+**Versus [mental causation](/concepts/mental-causation-and-downward-causation/).** Mental causation is the *thesis and mechanism*: that mental states cause physical effects, via selection at quantum indeterminacies where physics is incomplete. The mind-arena is the *domain in which that mechanism operates*. Mental causation answers "how does mind affect matter?"; the mind-arena answers "which outcomes are thereby co-determined?" The AI in the risk-mitigation argument may grasp the *mechanism* of mental causation; what it cannot model from its data is the *domain* of outcomes that mechanism shapes. One is a causal relation; the other is the territory that relation leaves unmodellable from physical state.
 
 **Versus the mind-matter interface / consciousness-physics interface.** The [interface](/concepts/mind-matter-interface/) and the [interface formalism](/concepts/consciousness-physics-interface-formalism/) concern the *locus and mathematical form* of the coupling between consciousness and physics—the state spaces, the coupling map C: E × P → P, and the constraints any such coupling must satisfy. The interface is *where and how* mind and matter meet. The mind-arena is *the downstream region of outcomes* that this meeting affects. The interface is a thin junction; the arena is the wide field of consequences flowing from it. One could fully specify the interface formalism and still face an uncomputable mind-arena, because the formalism fixes the coupling's *form* without making the non-physical contribution recoverable from physical state.
 
@@ -74,9 +74,9 @@ Its operative property—uncomputability from physical state—inherits from [ca
 
 ## Honest Tenet-Alignment and Evidential Status
 
-The mind-arena is a **posited framework construct, not an established entity**. As a definitional term whose content is fixed by the tenets, it is not itself a claim placed on the Map's [five-tier evidential scale](/project/evidential-status-discipline/); its credence tracks the tenets it presupposes rather than any independent evidence. Its existence is conditional on the Map's tenets being true; a physicalist owes no such domain, because for the physicalist every outcome is in principle physical-state-computable and the arena collapses to the empty set. The term should never be deployed as if its referent were a discovered region of the world. It is a *consequence* of Dualism-plus-Bidirectional-Interaction, useful precisely for marking where those commitments make a difference.
+The mind-arena is a **posited framework construct, not an established entity**. As a definitional term whose content is fixed by the tenets, it is not itself a claim placed on the Map's [five-tier evidential scale](/project/evidential-status-discipline/); its credence tracks the tenets it presupposes rather than any independent evidence. Its existence is conditional on the Map's tenets being true; a physicalist owes no such domain, because for the physicalist a complete physical-state model omits no variable an outcome depends on, so the arena collapses to the empty set. The term should never be deployed as if its referent were a discovered region of the world. It is a *consequence* of Dualism-plus-Bidirectional-Interaction, useful precisely for marking where those commitments make a difference.
 
-Two honest caveats. First, the boundary of the arena is not sharply operationalised: which concrete outcomes "pass through minds" is itself contestable, and the risk-mitigation argument concedes that coercion can route some mind-implicating effects through "manifest physical bottlenecks" that *are* modellable—so the arena's edge is fuzzier than a clean partition suggests. Second, the whole construct shares the empirical exposure of Tenet 2: if mind-matter influence were shown empirically impossible, the mind-arena would have no non-trivial extension. The Map holds the term as load-bearing *infrastructure for its own arguments*, not as a claim that any neutral observer must accept.
+Two honest caveats. First, the boundary of the arena is not sharply operationalised: which concrete outcomes "pass through minds" is itself contestable, and the risk-mitigation argument concedes that coercion can route some mind-implicating effects through "manifest physical bottlenecks" that *are* modellable—so the arena's edge is fuzzier than a clean partition suggests. Second, the whole construct shares the empirical exposure of Tenet 2: if mind-matter influence were shown empirically impossible, the mind-arena would have no non-trivial extension. Short of any refutation, the construct also inherits the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt): a non-empty arena presupposes consciousness doing genuine causal work, and the register cites the causal-selection thesis only as a framework-internal coherence result, so the arena's extension is posited and coherent rather than demonstrated. The Map holds the term as *infrastructure for its own arguments*, not as a claim that any neutral observer must accept.
 
 ## Further Reading
 
