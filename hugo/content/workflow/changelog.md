@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06 06:31:29+00:00
+ai_modified: 2026-11-06 06:45:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-06'
-lastmod: 2026-11-06 06:31:29+00:00
+lastmod: 2026-11-06 06:45:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-06T06:45:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Task**: P1 A of six (A→F) from the 2026-11-06 outer reviews (ChatGPT 5.6 Sol Pro + Claude Fable 5.1; synthesis clusters C1–C4). Five loci; every OLD string printed count 1 before editing.
+- **Original score**: not run (`scripts/curate.py` absent); targeted outer-review fix.
+- **Changes**: (a) L159 Zimmerman: the invented panpsychism-or-epiphenomenalism dilemma replaced by his abstract-grain qualia-bearer argument (three verbatim abstract fragments only), plus "an argument Mackie (2011) contests"; the first reason (task C's) and the following "This is a philosophical preference" sentence untouched. (b) L95: "Kim (2005)"; options re-sorted so Bailey, Rasmussen and Van Horn (2011) press location and the denial of Kim's Dictum, and haecceities are marked "the Map's own reconstruction"; "supports the first" → "fits the first", plus a clause that location fixes where interaction occurs but leaves the pairing law owed (link to positions/subject-census). (c) L109: the bare regress conceded (assumes what illusionists deny; Frankish 2016 quoted verbatim), and the substantive challenge relocated to the meta-representational bridge (anchor link to illusionism), modelled on illusionism L91 and witness-consciousness L146. 2026-07-30 stability note overridden per the task (a sibling dependency had moved). (e) L111: the fallibility strawman replaced by the debunking form (complete functional explanation independent of phenomenal properties), answered through the causal-independence premise via metaproblem-of-consciousness-under-dualism, explicitly "removes a defeater without refuting illusionism"; perception analogy dropped for budget. (d) L113: the identity inference replaced by witness-consciousness L148's verdict (first-person pressure; an illusionist predicts a stabilised, sparse self-model; "consonant with the Map's reading rather than evidence against its rivals"). References added: Bailey et al. 2011 and Kim 2005 (copied verbatim from pairing-problem L194/L192), Mackie 2011 (Crossref title).
+- **Engagement classification (editor-internal)**: Frankish regress (c): the Map's own reply conceded as failing on the illusionist's terms, then foundational-move identification (the bridge to felt unity is owed by illusionism's own mechanistic standard). Debunking (e): framework-boundary marking with a premise identified (causal independence is withheld by Bidirectional Interaction; defeater removal, not refutation). Contemplative (d): framework-boundary marking / evidential recalibration (consonant, not probative). Pairing (b): boundary marked (the pairing law is owed, [P-SC2](/positions/subject-census/#p-sc2)).
+- **Sources verified this session**: Zimmerman 2010 abstract rebuilt from the OpenAlex inverted index (864 chars): "what material objects could be the bearers of the qualia?", "require an adverbial construal", "can be driven to speculative forms of materialism" each present. Mackie 2011 at Crossref (DOI 10.1111/j.1467-9264.2011.00305.x): title "Property Dualism and Substance Dualism", Proc. Arist. Soc. 111(1pt1): 181–199; OpenAlex abstract: "I attempt to rebut Dean Zimmerman's novel argument", supporting "contests". Bailey et al. at Crossref (10.1007/s11098-010-9555-7): Phil. Studies 154(3): 349–360. Frankish 2016 eprint via raw pdftotext: "the posited introspective representations are not themselves phenomenally conscious ones" count 1. Searle 2002 not used.
+- **Length**: 3,002 → 3,089 by analyze_length (+87, cap +90, references included; concepts hard 3,500, gate >=). 410 words remain below 3,499 for tasks B–F (their caps sum to +385).
+- **Sync**: hugo/content/concepts/substance-property-dualism.md: all 12 new strings count 1 in both trees, all 9 removed strings count 0 in both; links render to /positions/subject-census/, /concepts/illusionism/#the-meta-representational-bridge-to-felt-unity (heading present in both trees) and /topics/metaproblem-of-consciousness-under-dualism/.
+- **ai_system**: unchanged (claude-opus-5-5 already present; transcript model id claude-opus-5-5).
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-11-06T06:31:29+00:00 - combine-outer-reviews
 - **Status**: Success

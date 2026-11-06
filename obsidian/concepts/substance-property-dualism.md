@@ -2,9 +2,9 @@
 title: "Substance Dualism vs Property Dualism"
 description: "Two forms of dualism: separate mental substances versus irreducible phenomenal properties. The Map accepts either; what matters is consciousness's irreducibility."
 created: 2026-01-14
-modified: 2026-10-29
+modified: 2026-11-06
 human_modified: null
-ai_modified: 2026-10-29T06:36:03+00:00
+ai_modified: 2026-11-06T06:45:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -92,7 +92,7 @@ Both share the central insight that [[concepts/materialism]] fails to account fo
 
 **On survival**: substance dualism makes personal survival after bodily death conceivable in principle—a separate mental substance might persist when the body doesn't. Property dualism makes this harder: if mental properties depend on physical systems, they presumably cease when those systems do.
 
-**On the [[pairing-problem]]**: Kim asks in virtue of what *this* mind is paired with *this* body. For physical causation, spatial relations answer—ball A strikes ball B because they are adjacent. But if minds lack spatial location, nothing grounds the pairing: why does M1's intention move B1's hand rather than B2's? Property dualism sidesteps this—mental properties are properties *of* brains, paired by definition. Substance dualists respond by (1) locating minds spatially in the brain where they interact (Hasker, Zimmerman), (2) invoking haecceities to ground pairing without spatial relations (Bailey, Rasmussen, Van Horn), or (3) denying causation requires spatial relations at all. The Map's quantum framework supports the first: consciousness is located where it interfaces with neural quantum processes.
+**On the [[pairing-problem]]**: Kim (2005) asks in virtue of what *this* mind is paired with *this* body. For physical causation, spatial relations answer—ball A strikes ball B because they are adjacent. But if minds lack spatial location, nothing grounds the pairing: why does M1's intention move B1's hand rather than B2's? Property dualism sidesteps this—mental properties are properties *of* brains, paired by definition. Substance dualists respond by (1) locating minds spatially in the brain where they interact (Hasker, Zimmerman), (2) denying causation requires spatial relations at all—Bailey, Rasmussen and Van Horn (2011) press both—or (3) invoking haecceities to ground pairing without spatial relations, the Map's own reconstruction. The Map's quantum framework fits the first: consciousness is located where it interfaces with neural quantum processes, which fixes where interaction occurs but leaves the [[positions/subject-census|pairing law]] owed.
 
 **On the combination problem**: property dualism (especially Russellian monism) faces pressure toward [[panpsychism]]—if phenomenal properties are fundamental, they might be everywhere. But panpsychism then faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start. (On parsimony, the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns against treating property dualism's apparent economy as decisive.)
 
@@ -106,11 +106,11 @@ Illusionists like Keith Frankish argue that [[introspection]] generates false be
 
 ### Three Responses
 
-**The regress problem:** illusionism explains away qualia by appealing to "introspective representations" that make qualia *seem* to exist. But seemings are themselves phenomenal states—what is it like to have the illusion of redness? If that "seeming" is also illusory, what makes it seem real? The regress either terminates in genuine phenomenal states or renders the account vacuous.
+**The regress problem:** the familiar reply that seemings are themselves phenomenal assumes what illusionists deny, so proves nothing: Frankish (2016) stresses that the posited introspective representations "are not themselves phenomenally conscious ones". The substantive challenge is whether [[illusionism#The Meta-Representational Bridge to Felt Unity|the meta-representational bridge]] can generate the impression of a unified, felt field where the represented and the representing coincide.
 
-**Introspection survives debunking:** granting that introspection is imperfect doesn't establish that its referent is illusory. Visual perception is constructed and fallible, yet we don't conclude external objects are illusions. The question is whether phenomenal states exist, not whether our access is infallible.
+**Introspection survives debunking:** the illusionist argues that a complete functional explanation of our problem intuitions, independent of phenomenal properties, would undercut them. If phenomenal states help cause those intuitions, as [[metaproblem-of-consciousness-under-dualism|interactionism]] holds, the argument's causal-independence premise fails, which removes a defeater without refuting illusionism.
 
-**The contemplative challenge:** [[witness-consciousness]]—pure awareness stripped of intentional content—presents a problem for illusionism. Practitioners report consciousness persisting even as representational content falls away. If consciousness were *identical* with representation, eliminating representation should eliminate consciousness; that it doesn't suggests consciousness is something over and above its contents.
+**The contemplative challenge:** [[witness-consciousness]]—pure awareness stripped of intentional content—presents a problem for illusionism. Practitioners report consciousness persisting even as representational content falls away. The pressure is first-person, though: an illusionist can predict such reports from a stabilised, sparse self-model, so they are consonant with the Map's reading rather than evidence against its rivals.
 
 ### Implications for the Distinction
 
@@ -156,7 +156,7 @@ Several findings would create difficulties for the distinction as the Map unders
 
 The tenets require consciousness to be irreducible, causally efficacious (so property dualism must avoid the epiphenomenalist temptation), and interfaced at quantum indeterminacies. The choice between the frameworks affects personal identity, survival, and the metaphysics of mind, but these are downstream of the central commitment.
 
-The Map leans toward substance dualism for two reasons. First, it avoids the combination problem entirely. Second, as Zimmerman (2010) argues, property dualism faces persistent pressure toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects)—though interactionist property dualism remains a stable position that resists both. This is a philosophical preference, not a doctrinal requirement. Both are general reasons for the heavier ontology, different in kind from the operational dependencies—the agency cluster (explained below) and the indexical objection in the No Many Worlds tenet—where a persisting subject is required, both drawn from [[tenets/background-commitments|Posit One]]. [[where-the-substance-commitment-enters|Where the Substance Commitment Enters]] is the diagnostic for which articles inherit that dependency.
+The Map leans toward substance dualism for two reasons. First, it avoids the combination problem entirely. Second, Zimmerman (2010) asks "what material objects could be the bearers of the qualia?" If some qualia "require an adverbial construal", a property dualist "can be driven to speculative forms of materialism" that look, at this point, no likelier than emergent substance dualism—an argument Mackie (2011) contests. This is a philosophical preference, not a doctrinal requirement. Both are general reasons for the heavier ontology, different in kind from the operational dependencies—the agency cluster (explained below) and the indexical objection in the No Many Worlds tenet—where a persisting subject is required, both drawn from [[tenets/background-commitments|Posit One]]. [[where-the-substance-commitment-enters|Where the Substance Commitment Enters]] is the diagnostic for which articles inherit that dependency.
 
 ### Where the Substance-Leaning Becomes Load-Bearing
 
@@ -193,15 +193,18 @@ The distinction matters less than it might seem for the Map's core commitments, 
 
 ## References
 
+1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies* 154: 349-360.
 1. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
 1. Descartes, R. (1641). *Meditations on First Philosophy*.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Kobylkov, D., Wynn, J., Winklhofer, M., Chetverikova, R., Xu, J., Hiscock, H., Hore, P. J., & Mouritsen, H. (2019). Electromagnetic 0.1–100 kHz noise does not disrupt orientation in a night-migrating songbird implying a spin coherence lifetime of less than 10 µs. *Journal of the Royal Society Interface*, 16(161), 20190716. https://doi.org/10.1098/rsif.2019.0716
 1. Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
+1. Mackie, P. (2011). Property dualism and substance dualism. *Proceedings of the Aristotelian Society*, 111(1), 181-199. https://doi.org/10.1111/j.1467-9264.2011.00305.x
 1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
 1. Robinson, H., & Weir, R. (2025). Dualism. *Stanford Encyclopedia of Philosophy*, rev. 17 October 2025.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
