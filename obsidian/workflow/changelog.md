@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06T05:35:56+00:00
+ai_modified: 2026-11-06T06:31:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-06T06:31:29+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-06 (subject: `concepts/substance-property-dualism`, fallback recent-aged; Claude reused ChatGPT's subject with its own prompt)
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1). The Gemini 3.1 Pro leg was abandoned at 06:09Z after Deep Research stalled at "Starting research..." for more than 100 minutes. That is a pipeline failure, not a verdict.
+- **Clusters**: 9 convergent two-reviewer content clusters: C1 Zimmerman; C2 pairing; C3 illusionism regress and debunking; C4 contemplative inference; C5 lead "preference"; C6 primitive unity; C7 Cartesian history and apparatus; C8 post-decoherence mitigation; C9 exclusion absent. Also 3 methodology recurrences (propagation, ledgers, currency), 7 non-counting agreements (Whitehead, item 4, L87, Lowe, Hagan, quantum opening, L177) and 3 divergences (Pautz, "either view", direction of the substance dependency).
+- **Key adjudication**: the Pautz quotation is SPLICED, so Claude is right and ChatGPT's "The Pautz quotation is real" is wrong on the subject clause. Combine re-fetched Wayback 20260424035143 of PhilPapers PAUCRM.pdf independently: 'Though called' has 0 hits, and 'I am calling it a physicalist view, but it seems to have many of the vices of dualism' has 1. ChatGPT's primitivist scope is right, and it also covers L73's grounding-laws clause. Also re-verified raw: Zimmerman abstract via OpenAlex (panpsych 0, epiphenomen 0), Frankish 2016 §1.1, and the 1643 letters ('pineal' 0).
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5). These are the lead/Posit One task (C5), primitive unity (C6), history and apparatus (C7), L129 decoherence (C8) and currency/exclusion (C9, convergent at locus (c) only). The Zimmerman/pairing/regress P1 (C1–C4) was already P1, so its fields were rewritten with no tier change.
+- **Tasks deduplicated**: 0 (the Claude leg had added addenda instead of duplicates; no merges)
+- **todo.md**: per task, `Review file` became `Review files` (both reviews), a `Synthesis` line went above Notes, and the Notes gained a convergent preamble with a RUN ORDER line (A → F, file order; the caps sum to 3,477 of 3,499). All addenda are untouched. `parse_tasks` active 386 → 386; P1 3 → 8, P2 21 → 16, P3 362 → 362; diff 23 insertions, 17 deletions.
+- **Length note**: the article is 3,002 words (concepts hard 3,500, gate >=). The six caps sum to +475 → 3,477, which leaves 22 words of slack, and the P3 Born-wording (+2) and Luo sweeps share the headroom. Each fork must re-measure; F runs last under its own fallback.
+- **Sync**: `hugo/content/reviews/outer-review-synthesis-2026-11-06.md` present and validates; `hugo/content/workflow/todo.md` carries all 6 Synthesis lines.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-06]]
+- **Model**: claude-opus-5-5
 
 ## 2026-11-06T05:35:56+00:00 - outer-review
 - **Status**: Success
