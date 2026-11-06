@@ -433,10 +433,11 @@
   commissioned_at: '2026-11-06T04:24:13.603880+00:00'
   prompt_summary: Hostile-referee audit of substance-property-dualism (Gemini)
   target_filename: outer-review-2026-11-06-gemini-3-1-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 1
-  last_attempt_at: '2026-11-06T05:52:53.504748+00:00'
-  failure_reason: null
+  last_attempt_at: '2026-11-06T06:09:48.434951+00:00'
+  failure_reason: Deep Research stalled at 'Starting research...' >100 min, no site
+    count; abandoned so combine can run on chatgpt+claude
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
     submission. Your remit is to identify weaknesses that would justify rejection
