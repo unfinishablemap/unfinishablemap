@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06T01:42:44+00:00
+ai_modified: 2026-11-06T02:08:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-06T02:08:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Selected by**: `deep_review.py next` (score 75). The page was last reviewed 116 days ago, and 15 refine commits have landed since.
+- **Word count**: 4387 → 4386 (−1). Topics hard limit is 4000 (`hard_warning`). Not condensed, because a NEEDS-HUMAN length decision is open.
+- **Critical issues addressed**: 8.
+  - **Duch.** Two claims cited to Duch 2005 and 2019 are not in the 2005 text. They are now credited to his popular and online writing, matching the 2026-07-27 sibling fix.
+  - **Wiest 2025.** His macroscopic-entanglement claim rests on the Kerskens & Pérez MRI work, not on Hagan et al.
+  - **Mavromatos 2025.** The paper sets consciousness aside, so it is no longer counted among the consciousness programmes.
+  - **Kerskens 2022.** The page said the signal "disappeared … correlated with working memory". The paper reports a decline, and the memory result is a separate study.
+  - **Warren 2023.** The page said he gave "no classical account". He in fact cited resting-state fMRI work on awake/asleep differences.
+  - **Strict corridor.** "Foreclosed" and the dropped "unconditioned" contradicted `brain-internal-born-rule-testing`.
+  - **Trend claim.** The claim that evidence "strengthened rather than weakened" contradicted the page's own record.
+  - **Tegmark.** "Twelve orders" against milliseconds should be ten, and he modelled kinks, not conformational states.
+- **Medium issues addressed**: 3, in 4 edits:
+  - two mechanism proposals that were stated as fact;
+  - Beshkar's stability claim, now attributed to him;
+  - a redundant sentence, tightened.
+- **Metadata**:
+  - Warren title;
+  - Keppler volume 19;
+  - Beshkar 18(1):2576334.
+- **Quotes verified**:
+  - Esmaeilpour, in the v1 PDF Discussion (the singular form, kept);
+  - Wiest's title;
+  - Duch's 2019 title.
+- **Reasoning mode**: the Duch engagement is mixed, Mode One plus Mode Three. The convergence against macroscopic coherence works inside his own commitments, and the stage-calibration bet marks the boundary.
+- **Left to queued tasks**: the "two poles" P3 owns L165/L171, and the Craddock P3 owns L81.
+- **Output**: [[reviews/deep-review-2026-11-06-quantum-biology-and-neural-consciousness]]
 
 ## 2026-11-06T01:42:44+00:00 - refine-draft
 - **Status**: Success
