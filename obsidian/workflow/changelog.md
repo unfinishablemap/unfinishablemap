@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06T06:45:37+00:00
+ai_modified: 2026-11-06T06:58:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-06T06:58:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/substance-property-dualism]]
+- **Task**: P1 B of six (A→F) from the 2026-11-06 outer reviews (ChatGPT 5.6 Sol Pro §4, §7, items 1, 18; Claude Fable 5.1 §2.5, fix 18; synthesis cluster C5, divergences D2 and D3). Six loci (a)–(f); every OLD string printed count 1 before editing. Task A's L95/L109/L111/L113/L159 work is untouched, and so are L159's first reason (task C) and history/Pautz/L51/L61 (task D).
+- **Original score**: not run (`scripts/curate.py` absent); targeted outer-review fix.
+- **Changes**: (a) L41 lead: "What matters philosophically" became "What the tenet requires". The closing clause "but treats the choice as a philosophical preference rather than a doctrinal requirement." was replaced: the agency questions and the indexical objection both "depend on a persisting subject" (piped link to `where-the-substance-commitment-enters`) drawn from Posit One, "a background commitment the tenet does not entail; only the general reasons for the heavier ontology are a preference". (b) L163: added the scoping-L44 guard at the paragraph end, after "which remains neutral.", so that "This leaning" keeps its antecedent: "Nor need the persisting subject be non-physical, since an organism persists and acts; the step to a non-physical bearer rests on the case for irreducibility." No author names were added. (c) L177: "has an advantage" became "fits more naturally". "Substance dualism answers naturally—I am this particular mental substance…" became what substance dualism offers ("houses Posit One's primitive identity in a particular mental substance, located in one world"). Haecceity is now marked as a further commitment a physical subject could also carry, and the indexical objection now "declares the non-deflationary "I" rather than deriving it" (scoping L50). The page no longer presents a mental substance with haecceity as the Map's own view (haecceity L187). (d) L67: "posits no" became "requires no", and "There are just physical objects" became "In its common version there are just physical objects", so substance-bearing property dualism (scoping L44) is no longer excluded. (e) L169: the sentence now says the distinction "matters little for the Dualism tenet and the irreducibility arguments but bears on agency and the indexical objection to many-worlds" (length-neutral). (f) L3 description: "The Map accepts either" became "The Dualism tenet accepts either". Claude's DELETE-the-headline call stays rejected (background-commitments L58: "the neutrality is honest *at the tenet level*"). Both D3 halves are kept: the operational dependency is stated, and nothing slides from persisting to non-physical. L159's "This is a philosophical preference, not a doctrinal requirement." still reads correctly against the new lead.
+- **Engagement classification (editor-internal)**: Everettian reply at L177: framework-boundary marking. The indexical objection is flagged as presupposing its non-deflationary "I" and is not presented as refuting branch-relative indexicality. L163 is scoping, not engagement with an opponent.
+- **Length**: 3,089 → 3,158 by analyze_length (+69, cap +70; concepts hard 3,500, gate >=). 341 words remain below 3,499 for tasks C–F (about 315 needed).
+- **Sync**: hugo/content/concepts/substance-property-dualism.md: all 11 new strings count 1 in both trees, all 10 removed strings count 0 in both, and the 4 kept Task A/L159 strings count 1 in both. The links render to /concepts/where-the-substance-commitment-enters/, /tenets/background-commitments/ and /concepts/haecceity/. The hugo description reads "The Dualism tenet accepts either". validate.py: ✓ Valid.
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-11-06T06:45:37+00:00 - refine-draft
 - **Status**: Success

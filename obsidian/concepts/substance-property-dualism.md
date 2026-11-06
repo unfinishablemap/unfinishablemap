@@ -1,10 +1,10 @@
 ---
 title: "Substance Dualism vs Property Dualism"
-description: "Two forms of dualism: separate mental substances versus irreducible phenomenal properties. The Map accepts either; what matters is consciousness's irreducibility."
+description: "Two forms of dualism: separate mental substances versus irreducible phenomenal properties. The Dualism tenet accepts either; what matters is consciousness's irreducibility."
 created: 2026-01-14
 modified: 2026-11-06
 human_modified: null
-ai_modified: 2026-11-06T06:45:37+00:00
+ai_modified: 2026-11-06T06:56:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ last_deep_review: 2026-07-30T21:59:29+00:00
 
 Dualism comes in two main varieties. Substance dualism holds that mind and body are different *kinds of thing*—distinct substances. Property dualism holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[concepts/materialism|materialism's]] claim that everything is ultimately physical, but disagree about the underlying metaphysical structure.
 
-The Unfinishable Map's [[tenets#^dualism|Dualism]] tenet is compatible with either. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility. The Map leans toward substance dualism on agency-related questions and the indexical objection to many-worlds (explained below), but treats the choice as a philosophical preference rather than a doctrinal requirement.
+The Unfinishable Map's [[tenets#^dualism|Dualism]] tenet is compatible with either. What the tenet requires is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility. The Map leans toward substance dualism on agency-related questions and the indexical objection to many-worlds (explained below). Both [[where-the-substance-commitment-enters|depend on a persisting subject]] drawn from [[tenets/background-commitments|Posit One]], a background commitment the tenet does not entail; only the general reasons for the heavier ontology are a preference.
 
 ## Substance Dualism
 
@@ -64,7 +64,7 @@ Modern substance dualists have resources unavailable to Descartes:
 
 ### The Core Claim
 
-Property dualism holds that mental properties—the painfulness of pain, the redness of red, the what-it-is-like of experience—are not reducible to physical properties. A complete physical description of the brain leaves out something real: how it *feels*. Unlike substance dualism, it posits no separate mental substance. There are just physical objects, but these have two fundamentally different kinds of properties: physical (mass, charge, location) and phenomenal ([[qualia]]).
+Property dualism holds that mental properties—the painfulness of pain, the redness of red, the what-it-is-like of experience—are not reducible to physical properties. A complete physical description of the brain leaves out something real: how it *feels*. Unlike substance dualism, it requires no separate mental substance. In its common version there are just physical objects, but these have two fundamentally different kinds of properties: physical (mass, charge, location) and phenomenal ([[qualia]]).
 
 ### Varieties of Property Dualism
 
@@ -160,13 +160,13 @@ The Map leans toward substance dualism for two reasons. First, it avoids the com
 
 ### Where the Substance-Leaning Becomes Load-Bearing
 
-The lean is not uniform across the Map's downstream positions. The agency cluster—[[topics/free-will]], [[agent-causation]], [[topics/moral-implications-of-genuine-agency]], and the agent-causal portions of [[interactionist-dualism]]—deploys a substance-leaning sub-reading because [[agent-causation|agent causation]] needs a persisting subject exercising causal powers in its own right, which a property-only reading struggles to ground. This leaning is drawn from Posit One through the agent-causal commitment, not inherited from the Dualism tenet, which remains neutral.
+The lean is not uniform across the Map's downstream positions. The agency cluster—[[topics/free-will]], [[agent-causation]], [[topics/moral-implications-of-genuine-agency]], and the agent-causal portions of [[interactionist-dualism]]—deploys a substance-leaning sub-reading because [[agent-causation|agent causation]] needs a persisting subject exercising causal powers in its own right, which a property-only reading struggles to ground. This leaning is drawn from Posit One through the agent-causal commitment, not inherited from the Dualism tenet, which remains neutral. Nor need the persisting subject be non-physical, since an organism persists and acts; the step to a non-physical bearer rests on the case for irreducibility.
 
 Articles outside that cluster—the [[the-binding-problem|binding problem]], the [[knowledge-argument|qualia and explanatory-gap arguments]], much of the [[apex/taxonomy-of-voids|voids catalogue]]—neither require nor exclude the substance-bearing reading; they run on irreducibility alone, and interactionist property dualism reaches the same conclusions. The diagnostic: claims about the agent as ontological source need the substance-leaning reading; claims about irreducibility, the explanatory gap, or the failure of materialism do not.
 
 ## Relation to Site Perspective
 
-The distinction matters less than it might seem for the Map's core commitments, though the tenets illuminate the choice in important ways.
+The distinction matters little for the Dualism tenet and the irreducibility arguments but bears on agency and the indexical objection to many-worlds.
 
 **[[tenets#^dualism|Dualism]]**: Both versions satisfy this foundational tenet—consciousness is not reducible to physical processes, whether as a separate substance or an irreducible property type.
 
@@ -174,7 +174,7 @@ The distinction matters less than it might seem for the Map's core commitments, 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This tenet rules out epiphenomenalist property dualism. But epiphenomenalism is not a natural implication of property dualism; it requires an additional commitment to [[causal-closure|causal closure of the physical]] that the Map rejects. Both interactionist property dualism and substance dualism satisfy the tenet—the question is not whether consciousness is causally efficacious but whether its causal role requires substancehood.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Here substance dualism has an advantage. The tenet rejects many-worlds partly because it renders indexical identity mysterious: why am I *this* observer in *this* branch? Substance dualism answers naturally—I am this particular mental substance with its [[haecceity]] (primitive thisness), located in one world. Property dualism must explain why *this* brain's phenomenal properties are *mine*, a grounding harder to articulate without something like a substantial self.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Here substance dualism fits more naturally. The tenet rejects many-worlds partly because it renders indexical identity mysterious: why am I *this* observer in *this* branch? Substance dualism houses Posit One's primitive identity in a particular mental substance, located in one world. [[haecceity|Haecceity]] (primitive thisness) is a further commitment a physical subject could also carry, and the indexical objection declares the non-deflationary "I" rather than deriving it. Property dualism must explain why *this* brain's phenomenal properties are *mine*, a grounding harder to articulate without something like a substantial self.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: This tenet cuts against using parsimony to prefer property dualism. Its apparent simplicity may reflect inadequate concepts rather than genuine economy—is it really simpler to have irreducible properties mysteriously attached to physical substrates than distinct substances in principled interaction? Both frameworks face conceptual puzzles; neither is obviously simpler once we recognise how incomplete our understanding is.
 
