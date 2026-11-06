@@ -1,9 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06T01:23:46+00:00
+ai_modified: 2026-11-06T01:42:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-06T01:42:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/hempels-dilemma-and-the-definition-of-the-physical-2026-10-21]]
+- **Source**: P3 lead from the 2026-10-21 deep review of `topics/hempels-dilemma` (`reviews/deep-review-2026-10-21-hempels-dilemma.md`).
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Verified at source**:
+  - Re-fetched the PDF from Zenodo record 849905 (https://zenodo.org/records/849905/files/article.pdf). The API endpoint returned 403; the record page and the file link returned 200. The file is the publisher's 5-page 2005 PDF, about 1,750 words by pdftotext, and it shows the journal pagination (running heads 233–237; footer "Analysis 65.3, July 2005, pp. 233–37").
+  - Crossref (doi:10.1093/analys/65.3.233) confirms *Analysis* 65(3): 233–237, July 2005.
+  - The three task spans each count 1 in the raw text after normalising quotes and whitespace and removing the running heads. "CP is likely to be false" and "CP is irredeemably vague" are both on p. 233. "not to vindicate this inductive argument, which would be a substantial" is on p. 236 and "empirical task" on p. 237. The disclaimer is therefore pp. 236–237, not p. 237 alone.
+  - All 31 distinct quoted strings in the added lines were script-checked. Every one is present, except "not entirely clear" (0 hits, as expected), which the note credits to Montero 2003.
+- **L292 paraphrase**: confirmed, including the page (p. 235), and annotated with three qualifiers. (i) It is offered as a *reading* of Spurrett & Papineau, and the text says "certain kinds of empirical research". (ii) The induction is ascribed to Spurrett & Papineau. (iii) The paper widens the evidence to "no type of empirical investigation" (p. 236) and declines to vindicate the induction.
+- **Changes**: all annotations are dated 2026-11-06. Strikethrough is used where an old claim is withdrawn; nothing was erased.
+  - Sources list: added the Zenodo text. L64 search queries: added a pointer to it.
+  - L150: Montero & Papineau credit the non-mental move to Spurrett & Papineau and put the label in quotation marks; coinage stays unsettled.
+  - Via negativa sources entry:
+    - English-text-open line under the citation.
+    - Gillett & Witmer's PT horns, credited to them.
+    - The L292 verdict.
+    - The do-not-quote line struck and withdrawn.
+    - A new **Verified quotations** block (pp. 233, 234 n. 1, 236, 236–237).
+    - The **both closure horns** statement: the second horn is vagueness; the first horn's reason is historical. With it, the record that `concepts/intrinsic-nature` L65 now cites the paper for the closure extension.
+    - An author-stance line.
+  - Positions L324: the defence holds against the dilemma only.
+  - Closure debate: a "come closest" note under Sides. The L393 claim is qualified: it holds for Spurrett & Papineau 1999, but the 2005 paper does not vindicate the induction.
+  - Second-horn debate: Montero & Papineau added to the vagueness side.
+  - Timeline L420: the cell is struck and qualified.
+  - Author-stance guard: "not entirely clear" is 2003, not 2005.
+  - Do-not-quote L480: struck and withdrawn, with pages.
+  - Citations: added the Zenodo URL.
+- **Citing pages** (by DOI, title and author form; the brief's `Montero, B., & Papineau` grep finds only intrinsic-nature):
+  - `concepts/intrinsic-nature` (L65 body, ref. 19);
+  - `topics/hempels-dilemma` (L105, ref. 16);
+  - `topics/causal-closure-debate-historical-survey` (L99, ref. 11).
+  - Every span these pages quote from the paper is found in the raw text: "likely to be false" and "irredeemably vague" (intrinsic-nature), and "a substantial empirical task" (hempels-dilemma, across the page break). The survey quotes none. None of the three pages was edited.
+- **Frontmatter**: `ai_modified` 2026-11-06T01:41:31+00:00; `modified` 2026-11-06. `ai_system` already carries `claude-opus-5-5`, so it is unchanged.
+- **Published**: yes
 
 ## 2026-11-06T01:23:46+00:00 - refine-draft
 - **Status**: Success

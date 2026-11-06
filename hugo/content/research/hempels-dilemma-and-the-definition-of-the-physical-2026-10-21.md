@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-21
-ai_modified: 2026-10-21 12:00:40+00:00
+ai_modified: 2026-11-06 01:41:31+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[ontic-structural-realism]]'
 - '[[psychophysical-laws]]'
 created: 2026-10-21
-date: &id001 2026-10-21
+date: &id001 2026-11-06
 description: 'Hempel''s dilemma read at source and in its later literature: the horns,
   the six standard responses, whether it binds dualists, and what it requires of Tenet
   1. A theory-relative problem, not evidence for dualism.'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-10-21 12:00:40+00:00
+lastmod: 2026-11-06 01:41:31+00:00
 modified: *id001
 recommended_action: article
 related_articles:
@@ -52,6 +52,7 @@ topics:
 - The Routledge catalogue page for Stoljar, *Physicalism* (2010).
 - OpenAlex and Semantic Scholar abstracts or first-page text for Crane & Mellor 1990, Stoljar 2001, Ney 2008b, Tiehen 2016, Msimang 2015, Crook & Gillett 2001, Firt, Hemmo & Shenker 2021 and Gyenis 2025.
 - Crossref metadata for every paper cited.
+- *Added 2026-11-06*: Montero & Papineau (2005), the English text. The source is the open PDF at Zenodo record 849905 (https://zenodo.org/records/849905/files/article.pdf). The file is the publisher's 5-page 2005 PDF, about 1,750 words by pdftotext, and it shows the journal pagination: running heads 233–237 and the footer "Analysis 65.3, July 2005, pp. 233–37". Crossref (doi:10.1093/analys/65.3.233) confirms *Analysis* 65(3): 233–237. The quotations in [Via negativa sources](#sources) were grepped in the extracted text. Quote marks and whitespace were normalised first, and the running heads were removed.
 
 **Search queries used**:
 - Wilson "On Characterizing the Physical" "no fundamental mentality".
@@ -66,6 +67,7 @@ topics:
 - Buzaglo "Two construals of Hempel's dilemma".
 - Brown 2022 NFM; Alter 2024 NFM.
 - Montero & Papineau 2005 via negativa; Montero "Post-Physicalism".
+  - *2026-11-06*: the English text of Montero & Papineau 2005 has since been read at Zenodo record 849905 (see the sources list above).
 
 **Not usable**:
 - PhilPapers and PhilArchive returned Cloudflare challenges or HTTP 403 to every request.
@@ -152,6 +154,7 @@ Why a standalone page:
   - Spurrett & Papineau (1999) offered the move: define "physical" as "non-mental" in answer to Hempel (Cea Jacques 2019, p. 113, verified, in Spanish).
   - The earliest appearance of the *label* found is the title of Gillett & Witmer 2001, "A 'Physical' Need: Physicalism and the Via Negativa". That paper is a critique.
   - The SEP calls it "the so-called Via Negativa (see e.g. Montero and Papineau 2005, Wilson 2006, Fiorese 2016)".
+  - *2026-11-06, from the English text*: Montero & Papineau 2005 credit the move to Spurrett & Papineau, who "have suggested that physicalists can respond by equating 'physical' with 'non-mental'" (p. 233). When they report Gillett & Witmer's objection, they put the label in quotation marks: "Hempel's Dilemma bites just as strongly against the 'via negativa' reading" (p. 233). That fits the finding above that Gillett & Witmer 2001 is the earliest print use found. It does not settle who coined the label.
   - Credit the *idea* to Spurrett & Papineau (1999) and Montero (1999, 2001). Credit no one with coining the label.
 - **"No fundamental mentality" (NFM) is Wilson's label.** The SEP: "what Wilson 2006 calls the 'no fundamental mentality' constraint".
   - Her 2005 draft says she had endorsed the account in prior work: "Wilson forthcoming", which is "Supervenience-based Formulations of Physicalism", *Noûs*.
@@ -291,10 +294,25 @@ Why a standalone page:
 - **Spurrett & Papineau (1999)**, "A note on the completeness of 'physics'", *Analysis* 59(1): 25–29, doi:10.1093/analys/59.1.25.
 - **Gillett & Witmer (2001)**, "A 'physical' need: physicalism and the via negativa", *Analysis* 61(4): 302–309, doi:10.1093/analys/61.4.302.
 - **Montero & Papineau (2005)**, "A defence of the via negativa argument for physicalism", *Analysis* 65(3): 233–237, doi:10.1093/analys/65.3.233.
+  - **English text open (2026-11-06)**: Zenodo record 849905 (https://zenodo.org/records/849905) holds the publisher's 2005 PDF with the journal pagination. It was read in full; see the sources list at the top of this note.
 - **Content**:
   - The via negativa recasts closure as closure of the non-mental. Gillett & Witmer object that the appeal to a completed physiology falls back into the dilemma.
+    - *2026-11-06, more exactly*: Gillett & Witmer run both horns on a "Physiological Thesis" (PT). Stated over present physiological theory, PT "is likely to be false". Stated over a future or ideal theory, it "is unacceptably vague and indeterminate". Montero & Papineau quote these words at p. 235 from Gillett & Witmer 2001: 306. Credit them to Gillett & Witmer.
   - Montero & Papineau reply (p. 235, quoted in Spanish by Cea Jacques 2019) that the appeal to physiology only directs attention to the failure of empirical research to find sui generis mental causes. From that failure an inductive inference concludes they probably do not exist.
-  - **Do-not-quote**: the English wording of Montero & Papineau. Paraphrase.
+    - *Checked against the English text, 2026-11-06*: **confirmed**, including the page (p. 235), with three qualifiers.
+      - (i) It is offered as a *reading* of Spurrett & Papineau, and it is narrower than "empirical research": the appeal "can be read as simply serving to direct attention to the fact that certain kinds of empirical research have so far failed to uncover evidence of sui generis mental causes" (p. 235).
+      - (ii) The induction is ascribed to Spurrett & Papineau: "On the basis of this failure, Spurrett and Papineau then infer, via scientific induction, that most likely there are no such sui generis mental causes" (p. 235).
+      - (iii) The paper widens the evidence beyond physiology, "The essential point is not so much that physiology has failed to find mental causes, but that no type of empirical investigation has" (p. 236), and it declines to vindicate the induction (quoted below).
+  - ~~**Do-not-quote**: the English wording of Montero & Papineau. Paraphrase.~~ *Withdrawn 2026-11-06*: the English text is open at Zenodo record 849905. The quotations below were verified there and may be quoted with their pages.
+- **Verified quotations (2026-11-06; Zenodo 849905, journal pagination)**:
+  - p. 233: CP is "the Completeness of Physics (CP)": "Every physical event is determined, in so far as it is determined at all, by preceding physical conditions and laws."
+  - p. 233, the dilemma put to CP: "if 'physical' means what is recognized by current physics, then CP is likely to be false, for historical form suggests that future research will substantially correct the ontology of current physics; on the other hand, if 'physical' is understood to refer to some future, ideal physics, then CP is irredeemably vague, since we cannot predict what future physics will bring (Hempel 1980)."
+  - p. 233, the via negativa move: Spurrett & Papineau convert CP into "the Completeness of the Non-Mental (CNM)", with physicalism as the thesis that "everything that has a non-mental effect must itself be non-mental".
+  - p. 234 n. 1: "we need to understand 'non-mental' as not-sui-generis-mental, and not as not-mental-at-all".
+  - pp. 236–237, the scope disclaimer: "The point of this note was not to vindicate this inductive argument, which would be a substantial empirical task, but merely to establish the far more modest point that Hempel's Dilemma does not undermine the via negativa and the associated appeal to physiological evidence." The page break falls after "substantial", so "a substantial empirical task" straddles the two pages. Cite it as pp. 236–37, not p. 237 alone.
+  - p. 236: the doubt about inferring absence from lack of evidence is put with the same kind of analogy as Montero 2003's alley cat: "the fact that I've never seen bats in my cellar is not good evidence that there are none, if I've only been in my cellar during the day". Their answer is the "no type of empirical investigation" widening.
+- **The paper states both closure horns itself** (p. 233). It puts Hempel's Dilemma directly to CP: over current physics CP "is likely to be false", over a future, ideal physics it "is irredeemably vague". Its second-horn charge is vagueness, not triviality. Its first-horn reason is historical, that future research will correct current physics' ontology, and has nothing to do with mind. The authors use the dilemma to motivate CNM and argue that it does not reach CNM. So `concepts/intrinsic-nature` L65 now cites Montero and Papineau (2005) for the closure extension and no longer marks it as the Map's own; the 2026-10-21 deep review made that change.
+- **Author stance (2026-11-06)**: both write here as defenders of the via negativa argument *for* physicalism, against the dilemma only. Do not cite the paper as endorsing the induction, and do not recruit Montero from it.
 - **Critics and refiners**:
   - Worley 2006, *Phil. Studies* 131(1): 101–126.
   - Judisch 2008, "Why 'non-mental' won't work", *Phil. Studies* 140(3): 299–318.
@@ -326,6 +344,7 @@ Why a standalone page:
 ### Via negativa / no fundamental mentality
 - **Proponents**:
   - Spurrett & Papineau 1999; Montero 1999, 2001, 2003; Montero & Papineau 2005.
+    - *2026-11-06*: Montero & Papineau 2005 defend the via negativa *against Hempel's Dilemma only* and decline to vindicate the induction (pp. 236–237). They gloss "non-mental" as "not-sui-generis-mental" (p. 234 n. 1).
   - Wilson 2006 (physics-based NFM).
   - Tiehen 2016 (non-mental-and-not-realised-by-the-mental).
   - Fiorese 2016; Alter 2024 (defence).
@@ -393,8 +412,10 @@ Why a standalone page:
 
 ### Does the dilemma tell against causal closure? {#closure}
 - **Sides**: no author found argues that it does.
+  - *2026-11-06*: Montero & Papineau 2005 come closest. They put the dilemma to CP itself (p. 233; quoted in [Via negativa sources](#sources)), but as a reason to restate closure as the Completeness of the Non-Mental, and they argue that the dilemma does not reach that restatement. This supports the calibration below: the dilemma bears on closure stated over "physical", not on closure of the non-mental.
 - Montero argues something narrower. Closure has many formulations, and the version stated over the "fundamentally nonmental" is the one that matters. Whether physiology supports it is "not entirely clear".
 - Papineau (Spurrett & Papineau 1999; Montero & Papineau 2005) holds that a century of physiology supports it inductively.
+  - *Qualified 2026-11-06 against the English text*: this holds for Spurrett & Papineau 1999, whom the 2005 paper quotes at p. 234 ("especially in the form of nineteenth- and twentieth-century physiological research, now weighs strongly against such irreducible mental causes"). The 2005 paper itself sets the inductive argument out and defends it against the dilemma. It widens the evidence to "no type of empirical investigation" (p. 236), and it declines "to vindicate this inductive argument, which would be a substantial empirical task" (pp. 236–237). Cite 2005 for the defence against the dilemma, not for the induction's success.
 - **Current state**: open, and empirical in character.
 - **Calibration**:
   - Closure stated over current physics is probably false, for reasons that have nothing to do with mind: current physics is incomplete about gravity and dark matter.
@@ -403,6 +424,7 @@ Why a standalone page:
 
 ### Is the second horn vagueness, triviality or something else?
 - **Sides**: Hellman 1985 and Melnyk 1997 (content undeterminable now); the SEP and Crook & Gillett 2001, crediting Chomsky (trivial); Crane & Mellor (no non-vacuous true interpretation); Wilson (admits fundamental mentality); Montero ("impossibly vague").
+  - *2026-11-06*: add Montero & Papineau 2005 to the vagueness side. Over a future, ideal physics, CP "is irredeemably vague, since we cannot predict what future physics will bring" (p. 233).
 - **Current state**: unresolved. Any article must pick a charge and attribute it. It must not run two together, as `intrinsic-nature` once did ("unfalsifiable" at L59 and "vacuous" at L61), per Claude Opus 5.5's review, M4.
 
 ## Historical Timeline
@@ -421,7 +443,7 @@ Why a standalone page:
 | 2001 | Stoljar, *PPR* 62; Montero, "Post-Physicalism", *JCS* 8(2): 61–80; Gillett & Witmer, *Analysis* 61; Crook & Gillett, *CJP* 31 | Theory/object distinction; mental/non-mental reframing; first critiques |
 | 2002 | van Fraassen, *The Empirical Stance* | Materialism as stance |
 | 2003 | Montero, "Varieties of Causal Closure"; Melnyk, *A Physicalist Manifesto* | Dilemma applied to closure; "not fatal" |
-| 2005 | Montero & Papineau, *Analysis* 65 | Defence of the inductive via negativa argument |
+| 2005 | Montero & Papineau, *Analysis* 65 | ~~Defence of the inductive via negativa argument~~ *(qualified 2026-11-06)* Defence of the via negativa against Hempel's Dilemma only. States both horns against CP (p. 233) and declines to vindicate the induction (pp. 236–237) |
 | 2006 | *Phil. Studies* 131(1): Dowell ×2, Wilson, Worley, Melnyk | NFM; the integrated-theory account |
 | 2008 | Ney ×2; Judisch | Attitude view; survey; anti-via-negativa |
 | 2010 | Stoljar, *Physicalism* (Routledge), ch. 5 | Deflation; modal variant ("Stoljar's dilemma") |
@@ -462,6 +484,7 @@ When writing the article, follow `obsidian/project/writing-style.md`: named-anch
 
 **Author stances.**
 - Montero: not a dualist. Her "post-physicalism" reframes the question, and she judges the physiological evidence "not entirely clear". Do not recruit her.
+  - *2026-11-06*: the "not entirely clear" is from Montero 2003 (0 hits in the 2005 text). In 2005 she co-defended the via negativa argument *for* physicalism against the dilemma, while declining to vindicate its induction (pp. 236–237).
 - Do not attribute to her an "explanatory gap" argument. That phrase has 0 hits in the 2003 text, and a P3 todo task (L2786) is open on exactly this misattribution.
 - Wilson, Papineau, Melnyk, Ney, Stoljar, Tiehen, Gyenis: none is a dualist. Papineau, Melnyk, Stoljar (the [ignorance-hypothesis](/concepts/ignorance-hypothesis/)) and Tiehen defend physicalism outright.
 - Crane & Mellor: critics of physicalism's *formulation*, not dualists.
@@ -481,7 +504,7 @@ When writing the article, follow `obsidian/project/writing-style.md`: named-anch
 - Melnyk's wording (via Wilson's draft).
 - Hellman 1985, Loewer 2001 and Papineau 2001 (all via Wilson's draft).
 - Ney's wording, except "as quoted in the SEP".
-- Montero & Papineau 2005 (known only in Spanish translation).
+- ~~Montero & Papineau 2005 (known only in Spanish translation).~~ *Withdrawn 2026-11-06*: the English text is open at Zenodo record 849905, with the journal pagination, and was read in full. The verified quotations in [Via negativa sources](#sources) may be quoted with their pages: p. 233 for both horns ("CP is likely to be false"; "CP is irredeemably vague"), and pp. 236–237 for "a substantial empirical task". Words they quote from Gillett & Witmer 2001 or Spurrett & Papineau 1999 stay credited to those authors.
 - Buzaglo 2024 (abstract seen only via a summariser).
 - Alter 2024 and Brown 2022 (unread).
 - "Either parochialism or triviality" is Rorty's phrase, not van Fraassen's.
@@ -553,7 +576,7 @@ Lengths below were measured 2026-10-21 11:45Z by `analyze_length`. Headroom is h
 - Montero, B. (1999). The body problem. *Noûs* 33(2): 183–200. doi:10.1111/0029-4624.00149
 - Montero, B. (2001). Post-physicalism. *Journal of Consciousness Studies* 8(2): 61–80.
 - Montero, B. (2003). Varieties of causal closure. In S. Walter & H.-D. Heckmann (eds), *Physicalism and Mental Causation*. Imprint Academic. https://www.newdualism.org/papers/B.Montero/Varieties-of-Causal-Closure.htm
-- Montero, B. & Papineau, D. (2005). A defence of the via negativa argument for physicalism. *Analysis* 65(3): 233–237. doi:10.1093/analys/65.3.233
+- Montero, B. & Papineau, D. (2005). A defence of the via negativa argument for physicalism. *Analysis* 65(3): 233–237. doi:10.1093/analys/65.3.233. Open English text: https://zenodo.org/records/849905 (read 2026-11-06).
 - Msimang, P. M. (2015). Problems with the 'physical' in physicalism. *South African Journal of Philosophy* 34(3): 336–345. doi:10.1080/02580136.2015.1069662
 - Ney, A. (2008a). Physicalism as an attitude. *Philosophical Studies* 138(1): 1–15. doi:10.1007/s11098-006-0006-4
 - Ney, A. (2008b). Defining physicalism. *Philosophy Compass* 3(5): 1033–1048. doi:10.1111/j.1747-9991.2008.00163.x
