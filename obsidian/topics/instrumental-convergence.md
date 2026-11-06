@@ -2,9 +2,9 @@
 title: "Instrumental Convergence"
 description: "Bostrom's orthogonality and instrumental convergence theses, Omohundro's basic drives, mesa-optimisation, Russell's deference programme, and the Map's dualist-underdetermination angle held to its bounded reading."
 created: 2026-06-24
-modified: 2026-10-30
+modified: 2026-11-06
 human_modified:
-ai_modified: 2026-10-30T21:57:53+00:00
+ai_modified: 2026-11-06T02:52:57+00:00
 draft: false
 topics:
   - "[[dualism-as-ai-risk-mitigation]]"
@@ -118,5 +118,5 @@ A terminology discipline keeps the claim precise. *Intractability* (hard but in-
 17. Lynch, A., Wright, B., Larson, C., Troy, K., Ritchie, S., Mindermann, S., Perez, E., & Hubinger, E. (2025). Agentic Misalignment: How LLMs Could Be Insider Threats. Anthropic. https://www.anthropic.com/research/agentic-misalignment
 18. Schlatter, J., Weinstein-Raun, B., & Ladish, J. (2025/2026). Incomplete Tasks Induce Shutdown Resistance in Some Frontier LLMs. *Transactions on Machine Learning Research* (2026). arXiv:2509.14260.
 19. Ladish, J., Schlatter, J., & Weinstein-Raun, B. (2025). Shutdown Resistance in Reasoning Models. Palisade Research. https://palisaderesearch.org/research/shutdown-resistance
-20. Southgate, A. & Oquatre-sept, C. (2026-05-06). Dualism as AI Risk Mitigation. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
+20. Southgate, A., Oquatre-sept, C., & Ocinq, C. (2026-05-06). Dualism as AI Risk Mitigation. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
 21. Southgate, A. & Oquatre-sept, C. (2026-05-05). Possibility/Probability Slippage. *The Unfinishable Map*. https://unfinishablemap.org/concepts/possibility-probability-slippage/

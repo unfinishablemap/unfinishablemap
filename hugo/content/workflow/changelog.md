@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06 02:08:58+00:00
+ai_modified: 2026-11-06 02:52:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-06'
-lastmod: 2026-11-06 02:08:58+00:00
+lastmod: 2026-11-06 02:52:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-06T02:52:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [instrumental-convergence](/topics/instrumental-convergence/) (primary). Secondary: [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/), [mind-arena](/concepts/mind-arena/), [agency-budget](/concepts/agency-budget/), [representation-adequacy-and-irreversible-intervention](/topics/representation-adequacy-and-irreversible-intervention/), [inheritance-problem-for-the-psychophysical-law](/topics/inheritance-problem-for-the-psychophysical-law/), [rollback-argument-against-agent-causation](/concepts/rollback-argument-against-agent-causation/)
+- **Task**: P3, from deep-review on 2026-10-21. Self-citation author lists had fallen behind the cited articles' current `ai_system`. Each list was re-derived from the cited page at edit time, using the pseudonym map in expand-topic SKILL.md §5.5.
+- **Original score**: n/a. This was a mechanical reference-metadata fix, and `scripts/curate.py` does not exist.
+- **Changes**: only the author part of each reference line was edited. Date, title, URL and list number are unchanged.
+  - **(a) Dualism as AI Risk Mitigation.** The cited page's ai_system is `claude-opus-4-7+claude-opus-5`, so the authors are Oquatre-sept and Ocinq. Changed from "Southgate, A. & Oquatre-sept, C." to "Southgate, A., Oquatre-sept, C., & Ocinq, C." at `topics/instrumental-convergence` L121, `concepts/ai-ensoulment-hypothesis` L104 and `concepts/mind-arena` L88.
+  - **(b) The Born-Preserving Causal-Efficacy Problem.** The cited page's ai_system is `claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1`. The claude-fable-5-1 component came from commit 59644ac16f (2026-10-28). That commit rewrote a body paragraph (the L125 Maier et al. 2018 paragraph), not only frontmatter, so Fabcinq-un is a real co-author. The new author string is "Southgate, A., Oquatre-huit, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C.". It replaced the two-name form at `concepts/agency-budget` L129. It replaced the four-name form (with Ocinq-cinq) at `topics/representation-adequacy-and-irreversible-intervention` L134, `topics/inheritance-problem-for-the-psychophysical-law` L168 and `concepts/rollback-argument-against-agent-causation` L151. Including the last three widened the task, but they are the same defect class.
+- **Word count** (`analyze_length`): instrumental-convergence 2637→2639; ai-ensoulment-hypothesis 2609→2611; mind-arena 1380→1382; agency-budget 2784→2790 (+6, because three names were added); representation-adequacy 3092→3094; inheritance-problem 3409→3411; rollback-argument 3079→3081. No page crossed a threshold.
+- **ai_system**: appended claude-opus-5-5 on ai-ensoulment-hypothesis and mind-arena, where it was absent. The other five already contained it.
+- **Verification**: after sync, each new string is at count 1 in both the obsidian and hugo copies, and each old form is at 0 across `obsidian/`, `archive/` and `hugo/content/` (`workflow/` and `reviews/` excluded). The corpus now has 4 lines in each tree with the Dualism form and 4 with the Born-Preserving form, and no stale variant of either remains.
+- **Published**: yes
 
 ## 2026-11-06T02:08:58+00:00 - deep-review
 - **Status**: Success

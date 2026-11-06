@@ -2,9 +2,9 @@
 title: "The Agency Budget"
 description: "How much selection survives exact Born-rule preservation: a coupling-theoretic conservation law, its ceiling, and its price — refined by human-AI iteration."
 created: 2026-08-16
-modified: 2026-10-26
+modified: 2026-11-06
 human_modified:
-ai_modified: 2026-10-26T21:07:18+00:00
+ai_modified: 2026-11-06T02:52:57+00:00
 last_deep_review: 2026-09-18T10:59:02+00:00
 draft: false
 topics:
@@ -126,4 +126,4 @@ The closest published philosophical precedent is Ruth Kastner's 2016 chapter "Th
 6. Schroeder de Witt, C., Sokota, S., Kolter, J. Z., Foerster, J., & Strohmeier, M. (2023). Perfectly Secure Steganography Using Minimum Entropy Coupling. ICLR 2023. arXiv:2210.14889. https://arxiv.org/abs/2210.14889
 7. Valentini, A. (2002). Signal-Locality and Subquantum Information in Deterministic Hidden-Variables Theories. In T. Placek & J. Butterfield (eds.), *Non-Locality and Modality*, 81–103. Kluwer. arXiv:quant-ph/0112151
 8. Southgate, A. & Oquatre-sept, C. (2026-05-27). Ensemble-Level Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/
-9. Southgate, A. & Oquatre-huit, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/
+9. Southgate, A., Oquatre-huit, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/

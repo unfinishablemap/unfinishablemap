@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-11-03 01:06:29+00:00
+ai_modified: 2026-11-06 02:52:57+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[evolution-of-consciousness]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-10-13
-date: &id001 2026-11-03
+date: &id001 2026-11-06
 description: If conscious selection affects fitness, what does evolution pass on?
   A human-AI analysis separating receiver, eligibility and law, and naming the debts
   that remain open.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-14 10:38:50+00:00
-lastmod: 2026-11-03 01:06:29+00:00
+lastmod: 2026-11-06 02:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -169,4 +169,4 @@ The proposal leaves four debts open:
 1. Wright, J. P. (2023). Phenomenal powers or a power of the self? *Disputatio*, 15(68), 115–134. https://doi.org/10.2478/disp-2023-0005
 1. Zietsch, B. P. (2024). Resolving the evolutionary paradox of consciousness. *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-024-09978-7
 1. Southgate, A., Oquatre-six, C., Oquatre-huit, C., & Ocinq-cinq, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
-1. Southgate, A., Oquatre-huit, C., Ocinq, C., & Ocinq-cinq, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/
+1. Southgate, A., Oquatre-huit, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/

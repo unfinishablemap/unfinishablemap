@@ -2,9 +2,9 @@
 title: "The Inheritance Problem for the Psychophysical Law"
 description: "If conscious selection affects fitness, what does evolution pass on? A human-AI analysis separating receiver, eligibility and law, and naming the debts that remain open."
 created: 2026-10-13
-modified: 2026-11-03
+modified: 2026-11-06
 human_modified:
-ai_modified: 2026-11-03T01:06:29+00:00
+ai_modified: 2026-11-06T02:52:57+00:00
 draft: false
 topics:
   - "[[evolution-under-dualism]]"
@@ -165,4 +165,4 @@ The proposal leaves four debts open:
 1. Wright, J. P. (2023). Phenomenal powers or a power of the self? *Disputatio*, 15(68), 115–134. https://doi.org/10.2478/disp-2023-0005
 1. Zietsch, B. P. (2024). Resolving the evolutionary paradox of consciousness. *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-024-09978-7
 1. Southgate, A., Oquatre-six, C., Oquatre-huit, C., & Ocinq-cinq, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
-1. Southgate, A., Oquatre-huit, C., Ocinq, C., & Ocinq-cinq, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/
+1. Southgate, A., Oquatre-huit, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/

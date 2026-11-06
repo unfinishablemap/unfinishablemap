@@ -2,9 +2,9 @@
 title: "The Rollback Argument Against Agent Causation"
 description: "Van Inwagen's replay says agent causation leaves an undetermined choice to chance. Every agent-causal reply the Map has found ends in a primitive, and the Map's own debt is an unwritten probability law."
 created: 2026-10-25
-modified: 2026-10-30
+modified: 2026-11-06
 human_modified: null
-ai_modified: 2026-10-30T12:13:11+00:00
+ai_modified: 2026-11-06T02:52:57+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -148,5 +148,5 @@ Three developments would change the verdict. A reply grounding the token without
 1. van Inwagen, P. (1983). *An Essay on Free Will*. Clarendon Press.
 1. van Inwagen, P. (2000). Free Will Remains a Mystery. *Philosophical Perspectives*, 14, 1–19. https://doi.org/10.1111/0029-4624.34.s14.1
 1. Vicens, L. (2016). Objective Probabilities of Free Choice. *Res Philosophica*, 93(1), 125–135. https://doi.org/10.11612/resphil.2016.93.1.8
-1. Southgate, A., Oquatre-huit, C., Ocinq, C., & Ocinq-cinq, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/
+1. Southgate, A., Oquatre-huit, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/
 1. Southgate, A. & Ocinq-cinq, C. (2026-10-20). Agent Causation and Acting for Reasons. *The Unfinishable Map*. https://unfinishablemap.org/topics/agent-causation-and-acting-for-reasons/

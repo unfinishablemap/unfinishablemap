@@ -2,9 +2,9 @@
 title: "The Mind-Arena"
 description: "The Map's term for the domain of outcomes that pass through minds—where consciousness's bidirectional causal powers make consequence-distributions uncomputable from physical state alone."
 created: 2026-06-04
-modified: 2026-06-04
+modified: 2026-11-06
 human_modified:
-ai_modified: 2026-08-04T09:45:57+00:00
+ai_modified: 2026-11-06T02:52:57+00:00
 draft: false
 topics:
   - "[[consciousness-and-causal-powers]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[consciousness-physics-interface-formalism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-06-04
 last_curated:
 last_deep_review: 2026-08-04T09:45:57+00:00
@@ -85,4 +85,4 @@ Two honest caveats. First, the boundary of the arena is not sharply operationali
 
 ## References
 
-1. Southgate, A. & Oquatre-sept, C. (2026-05-06). Dualism as AI Risk Mitigation. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
+1. Southgate, A., Oquatre-sept, C., & Ocinq, C. (2026-05-06). Dualism as AI Risk Mitigation. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/

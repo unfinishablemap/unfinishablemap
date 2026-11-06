@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-10-21 13:45:49+00:00
+ai_modified: 2026-11-06 02:52:57+00:00
 ai_system: claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -9,14 +9,14 @@ concepts:
 - '[[possibility-probability-slippage]]'
 - '[[substrate-independence]]'
 created: 2026-09-06
-date: &id001 2026-09-06
+date: &id001 2026-11-06
 description: 'The AI-facing case for restraint that survives an agent rejecting dualism:
   a representation good enough to predict a person may be inadequate to preserve them.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 13:45:49+00:00
-lastmod: 2026-10-21 13:45:49+00:00
+lastmod: 2026-11-06 02:52:57+00:00
 modified: *id001
 related_articles:
 - '[[dualism-as-ai-risk-mitigation]]'
@@ -134,4 +134,4 @@ The article's core is less exposed to that debt than its diagnosis is. Represent
 1. Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
 1. Benatar, D. (2006). *Better Never to Have Been: The Harm of Coming into Existence*. Oxford University Press.
 1. Southgate, A., Oquatre-sept, C., & Ocinq, C. (2026-05-06). Dualism as AI Risk Mitigation. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
-1. Southgate, A., Oquatre-huit, C., Ocinq, C., & Ocinq-cinq, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/
+1. Southgate, A., Oquatre-huit, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/

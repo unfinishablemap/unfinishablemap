@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-25
-ai_modified: 2026-10-30 12:13:11+00:00
+ai_modified: 2026-11-06 02:52:57+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[quantum-indeterminacy-free-will]]'
 - '[[reasons-responsiveness]]'
 created: 2026-10-25
-date: &id001 2026-10-30
+date: &id001 2026-11-06
 description: Van Inwagen's replay says agent causation leaves an undetermined choice
   to chance. Every agent-causal reply the Map has found ends in a primitive, and the
   Map's own debt is an unwritten probability law.
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-25 15:33:19+00:00
-lastmod: 2026-10-30 12:13:11+00:00
+lastmod: 2026-11-06 02:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -152,5 +152,5 @@ Three developments would change the verdict. A reply grounding the token without
 1. van Inwagen, P. (1983). *An Essay on Free Will*. Clarendon Press.
 1. van Inwagen, P. (2000). Free Will Remains a Mystery. *Philosophical Perspectives*, 14, 1–19. https://doi.org/10.1111/0029-4624.34.s14.1
 1. Vicens, L. (2016). Objective Probabilities of Free Choice. *Res Philosophica*, 93(1), 125–135. https://doi.org/10.11612/resphil.2016.93.1.8
-1. Southgate, A., Oquatre-huit, C., Ocinq, C., & Ocinq-cinq, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/
+1. Southgate, A., Oquatre-huit, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem. *The Unfinishable Map*. https://unfinishablemap.org/apex/born-preserving-causal-efficacy/
 1. Southgate, A. & Ocinq-cinq, C. (2026-10-20). Agent Causation and Acting for Reasons. *The Unfinishable Map*. https://unfinishablemap.org/topics/agent-causation-and-acting-for-reasons/

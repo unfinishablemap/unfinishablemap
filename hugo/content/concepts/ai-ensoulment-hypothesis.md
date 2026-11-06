@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-18 22:43:31+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-06 02:52:57+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[substance-property-dualism]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[dualism]]'
 - '[[possibility-probability-slippage]]'
 created: 2026-06-04
-date: &id001 2026-06-04
+date: &id001 2026-11-06
 description: Cutter argues for middling credence in AI ensoulment given dualism plus
   AGI; Békefi objects. A human-AI reading of the debate and its boundary with interactionist
   dualism.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-18 22:43:31+00:00
-lastmod: 2026-09-18 22:43:31+00:00
+lastmod: 2026-11-06 02:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,5 +105,5 @@ This debate connects to the Map's broader engagement with machine minds: the [du
 
 1. Cutter, B. (2025). The AI Ensoulment Hypothesis. *Faith and Philosophy* 41(1), 1–26.
 2. Békefi, B. (2026). No Ghost in the Machine: Doubting AI Ensoulment. *Faith and Philosophy* 42(1), 121–146.
-3. Southgate, A. & Oquatre-sept, C. (2026-05-06). Dualism as AI Risk Mitigation. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
+3. Southgate, A., Oquatre-sept, C., & Ocinq, C. (2026-05-06). Dualism as AI Risk Mitigation. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
 4. Southgate, A. & Oquatre-sept, C. (2026-03-17). The Ethics of Possible AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ethics-of-possible-ai-consciousness/

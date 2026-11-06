@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-04 09:45:57+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-11-06 02:52:57+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[mind-matter-interface]]'
 created: 2026-06-04
-date: &id001 2026-06-04
+date: &id001 2026-11-06
 description: The Map's term for the domain of outcomes that pass through minds—where
   consciousness's bidirectional causal powers make consequence-distributions uncomputable
   from physical state alone.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-04 09:45:57+00:00
-lastmod: 2026-08-04 09:45:57+00:00
+lastmod: 2026-11-06 02:52:57+00:00
 modified: *id001
 related_articles:
 - '[[dualism-as-ai-risk-mitigation]]'
@@ -89,4 +89,4 @@ Two honest caveats. First, the boundary of the arena is not sharply operationali
 
 ## References
 
-1. Southgate, A. & Oquatre-sept, C. (2026-05-06). Dualism as AI Risk Mitigation. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
+1. Southgate, A., Oquatre-sept, C., & Ocinq, C. (2026-05-06). Dualism as AI Risk Mitigation. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
