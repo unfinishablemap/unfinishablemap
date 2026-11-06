@@ -2,9 +2,9 @@
 title: "The Relocation Objection"
 description: "The Map's recurring anti-reductive move: an identity claim that fixes function but leaves feel open re-sites the hard problem. Worked across six theories, with its boundary cases and limits stated."
 created: 2026-09-23
-modified: 2026-10-28
+modified: 2026-11-06
 human_modified:
-ai_modified: 2026-10-28T10:25:17+00:00
+ai_modified: 2026-11-06T01:23:46+00:00
 last_deep_review: 2026-10-28T10:25:17+00:00
 draft: false
 topics:
@@ -52,7 +52,7 @@ Two nearby uses of "relocation" in the Map's vocabulary should be kept apart fro
 
 [[first-order-representationalism]] states the Map's version in canonical form: "fixing the functional or representational facts leaves the phenomenal fact untouched." On the Map's reading, the objection works because phenomenal concepts pick out their referent directly, not through a causal or functional role. "Heat" is plausibly exhausted by a role (whatever causes these sensations and expands mercury), so once molecular motion is shown to fill the role, nothing is left over to explain. "Pain as felt" is not obviously exhausted by any role, so filling the role leaves a remainder. [[tenets#^dualism|Tenet 1]] is the Map's commitment that the remainder is real.
 
-The Map adds a diagnostic of its own. Several of the most sophisticated reductive replies, pressed on hard cases, end up specifying their base in terms of the feel it was meant to explain. The first-order representationalism page finds this in the replies to inverted qualia: each "buys its answer by individuating the represented property in terms of the phenomenal character it produces." When that happens the relocation becomes visible in the theory's own text, because a base specified by reference to feel cannot be what feel reduces to.
+The Map adds a diagnostic of its own. Several of the most sophisticated reductive replies, pressed on hard cases, end up specifying their base in terms of the feel it was meant to explain. The first-order representationalism page finds this in the replies to inverted qualia: each "buys its answer by individuating the represented property in terms of the phenomenal character it produces." When that happens the relocation becomes visible in the theory's own text, because a base specified by reference to feel cannot be what feel reduces to. The diagnostic also works outside phenomenal consciousness: [[conceptual-role-semantics]] finds Peacocke's theory of concepts selecting semantic values so that the inferences individuating a concept come out truth-preserving, which reads correctness off the inferences it was meant to underwrite.
 
 ## Worked Cases {#worked-cases}
 

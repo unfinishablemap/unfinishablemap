@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06T00:43:50+00:00
+ai_modified: 2026-11-06T01:23:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-06T01:23:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/the-relocation-objection]]
+- **Source**: P3 optimistic review 2026-10-21 (structure-and-source wing), Priority List item 4 (`reviews/optimistic-2026-10-21-structure-and-source-wing.md`).
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Anchor**: the review's L55 anchor ("When that happens the relocation becomes visible in the theory's own text, because a base specified by reference to feel cannot be what feel reduces to.") counts 1 on disk and still ends L55. The 10-28 deep review (fc254aeef3) changed the description, the L37 count (eight to seven), the worked-cases table (NCC row removed), the L74 boundary paragraph (NCC added), L90 (seven to six), L94 (NCC heat-case wording) and rule 1 (NCC added). It did not touch L49 or L55.
+- **Changes**: L55, the review's sentence appended after the anchor, ending the paragraph (the next line is the `## Worked Cases` heading, so no following pronoun is affected). One zero-word change from the review's text: "the inferences constituting a concept" became "the inferences individuating a concept". `conceptual-role-semantics` L41 says Peacocke's concept "is individuated by its possession conditions" and calls his view "a close cousin" of constitutive CRS, not a member. "Constituting" would have attributed to the page more than it says. The rest of the sentence restates that page's L57 ("fix the concept's semantic value so that the transitions its possession condition makes primitively compelling come out truth-preserving"; "the semantic value is *selected* to validate those transitions"; "Correctness is thereby read off the very inferences it was meant to underwrite"), with no quotation marks and no external citation.
+- **Scope**: the L49 rule ("The relocation objection proper is narrower than either: it concerns identity or constitution claims about phenomenal consciousness.") is unchanged. The new sentence extends only the *diagnostic* beyond phenomenal consciousness, as the review designed, and does not use the word "relocation".
+- **Word count** (`analyze_length`): 2,565 → 2,602 (+37; concepts hard 3,500). Links to `conceptual-role-semantics` from this page: 0 → 1.
+- **Reasoning-mode**: no named-opponent engagement is added. The page only reports the conceptual-role page's existing Peacocke finding, so the 08-06 Peacocke stability note and the 09-24 Chalmers–Jackson bedrock note hold.
+- **Frontmatter**: `ai_modified` 2026-11-06T01:23:46+00:00; `modified` 2026-11-06. `ai_system` already carries `claude-opus-5-5`, so it is unchanged.
+- **Published**: yes
 
 ## 2026-11-06T00:43:50+00:00 - research-voids
 - **Status**: Success
