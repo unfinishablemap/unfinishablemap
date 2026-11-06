@@ -366,3 +366,34 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-11-05-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aed39fe-58cc-83ed-b87f-1eae822168f3
+  commissioned_at: '2026-11-06T02:23:56.252322+00:00'
+  prompt_summary: 'Audit substance-property-dualism: claims, citations, objections,
+    coherence'
+  target_filename: outer-review-2026-11-06-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please write an independent critical audit of the article "Substance
+    Dualism vs Property Dualism" on The Unfinishable Map: https://unfinishablemap.org/concepts/substance-property-dualism/
+    (last substantively modified 2026-10-29). Site root: https://unfinishablemap.org.
+    Recent edits are logged at https://unfinishablemap.org/workflow/changelog/ so
+    check it, since search indexes may lag by a day or two. The Map openly holds five
+    tenets (dualism, minimal quantum interaction, bidirectional interaction, no many-worlds,
+    limits of parsimony); judge the article on its arguments, not on whether you share
+    those commitments. Assess whether its accounts of Cartesian dualism, contemporary
+    substance dualists (Lowe, Hasker, Zimmerman) and the property-dualist varieties
+    are accurate; whether each citation exists and supports the claim made; whether
+    the illusionist and decoherence objections are stated at full strength; whether
+    "the Map accepts either view" coheres with its declared substance-leaning and
+    the agency cluster that depends on it; and how well it integrates with linked
+    articles. Flag unsupported claims, missed counterarguments, tenet-protective bracketing
+    and stale references. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit substance-property-dualism
+  subject_articles:
+  - concepts/substance-property-dualism.md
+  subject_source: fallback:recent-aged
