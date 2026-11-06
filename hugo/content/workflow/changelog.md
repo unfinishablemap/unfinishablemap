@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05 23:22:31+00:00
+ai_modified: 2026-11-06 00:43:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-11-05'
-lastmod: 2026-11-05 23:22:31+00:00
+date: '2026-11-06'
+lastmod: 2026-11-06 00:43:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-06T00:43:50+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The geometry void. Sighted subjects live in visual space but cannot read its geometry from inside. A century of measurement finds it curved, dependent on context and instructions, and perhaps not a single space; the subject notices none of this. Four faces: access, unity, readout, conventionality.
+- **Category**: Mixed. Access is Unexplored presenting as Unexplorable. Unity may have no single answer. Conventionality is Unexplorable, or has no factual content (Helmholtz/Poincaré).
+- **Output**: [voids-geometry-void-2026-11-06](/research/voids-geometry-void-2026-11-06/) (~8,850 body words)
+- **Key finding**: Visual space is measurably non-Euclidean, and no subject experiences that as distortion. Examples: angle sums of apparent squares fall below 360° (Wagner et al. 2018), angular excess reaches 30° (Koenderink et al. 2000), and parallelity errors reach 40° (Cuijpers et al. 2000). The record does not converge on one geometry: Norman et al. (2025) found observers spread across elliptic, Euclidean and hyperbolic results, and Chambers et al. (2026, VR) found no far-space hyperbolicity. Reid derived a non-Euclidean "geometry of visibles" in 1764. Helmholtz's convex-mirror world and Poincaré's "more convenient" make simplicity the arbiter where the data cannot decide, a clean exhibit for Tenet 5. The void is framework-independent and gives no evidence for dualism. It weakens the introspective case for the non-spatiality of experience (McGinn 1995).
+- **Recommended action**: article, slug `geometry-void`. No fold host has room: plenitude 3,062, mapping-mind-space 2,995, predictive-construction 2,991 against the hard limit of 3,000.
+- **Dedupe**: zero across voids, research, archive, topics and concepts for `Luneburg`, `geometry of visibles`, `Blumenfeld`, `Koenderink`, `convex mirror`, `perceived distance`, `Consciousness and Space`. Controls `Molyneux` and `boredom` hit. Nearest live neighbour: `topics/three-dimensional-world-representation-problem`, which has no geometry discussion.
+- **Verification**: 141 quoted strings script-checked against saved full texts and OpenAlex abstracts; every quotation matched verbatim. Metadata checked through Crossref. No commit, and todo.md not edited (the driver mints the chain task).
+
+## 2026-11-05T23:41:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [process-content-distinction](/concepts/process-content-distinction/), [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/)
+- **Source**: P3 optimistic review 2026-10-21 (structure-and-source wing), Priority List item 2 (`reviews/optimistic-2026-10-21-structure-and-source-wing.md`).
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Verified at source**: raw arXiv abstract page for 2305.04388 (`curl`, browser User-Agent). `citation_title` "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting"; authors Turpin, Miles; Michael, Julian; Perez, Ethan; Bowman, Samuel R.; arXiv Comments field "NeurIPS 2023" (OpenAlex: neural information processing systems, pp. 74952-74965). The one quoted span, "systematically fail to mention in their explanations", counts 1 in the unescaped abstract; its subject ("which" = biasing features, with the (A) reordering as the abstract's own example) stays outside the quotation as "the models". The bias is positional: the paper's §3 reorders "the multiple-choice answer options in the few-shot prompts ... so that the correct answer is always the first one (A)"; of 426 explanations supporting biased predictions, 1 mentions the bias (p. 2). The "CoT explanations rationalizing" span was paraphrased, not quoted, as the review directed.
+- **Changes**:
+  - `concepts/process-content-distinction` L55: the review's "**Machine analogues**" paragraph inserted after the L53 anchor "and nothing in the participant's experience settles which process generated it." and before `## What the Distinction Actually Claims`. Four wording changes from the review's text, all for source accuracy or grammar: "use the same" → "share the" (word budget); "reordered the options in few-shot prompts so that the answer was always (A)" → "reordered the options in every few-shot example so that the correct one was (A)" (the paper reorders the demonstrations, not the test item); "pushed toward wrong answers, their step-by-step explanations frequently rationalised them" → "pushed toward wrong answers, the models frequently rationalised them step by step" (the participle dangled on "explanations"); "the bias is absent from" → "the bias almost never enters" (1 of 426 explanations did mention it). Scope stays on the process side; the paragraph says nothing about machine experience and names the corpus-imitation reading the cross-architecture page develops (its L72, L94). First link from this page to [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/) (0 before).
+  - Same page, References: Turpin, Michael, Perez & Bowman (2023) added after the last Southgate entry (alphabetical), in the cross-architecture page's L131 form, with the page's own APA comma before "&". (Surname, year) pairing is 1:1 both ways.
+  - `topics/cross-architecture-llm-introspection` L70: zero-word pipe, "are a behavioural Nisbett–Wilson analogue, though" → "are a behavioural [Nisbett–Wilson analogue](/concepts/process-content-distinction/), though" (0 links to the page before).
+- **Word count** (`analyze_length`): process-content-distinction 2,791 → 2,921 (+130: paragraph +95, reference +35; concepts hard 3,500); cross-architecture-llm-introspection 3,958 → 3,958 (+0; topics hard 4,000).
+- **Reasoning-mode**: no named-opponent engagement is added. The 05-19/06-05 note against strengthening the content side and the 09-17 stability notes (distributive (a)/(b)/(c); "almost four to one"; Lush 2020 solo-authored) are untouched.
+- **Frontmatter**: `ai_modified` 2026-11-05T23:39:20+00:00 (process-content-distinction) and 2026-11-05T23:39:32+00:00 (cross-architecture-llm-introspection); `modified` 2026-11-05 on both. `ai_system` already carried `claude-opus-5-5` on both files, so it is unchanged.
+- **Published**: yes
 
 ## 2026-11-05T23:22:31+00:00 - refine-draft
 - **Status**: Success

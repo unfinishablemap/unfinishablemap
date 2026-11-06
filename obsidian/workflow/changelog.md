@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-05T23:41:18+00:00
+ai_modified: 2026-11-06T00:43:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-06T00:43:50+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The geometry void. Sighted subjects live in visual space but cannot read its geometry from inside. A century of measurement finds it curved, dependent on context and instructions, and perhaps not a single space; the subject notices none of this. Four faces: access, unity, readout, conventionality.
+- **Category**: Mixed. Access is Unexplored presenting as Unexplorable. Unity may have no single answer. Conventionality is Unexplorable, or has no factual content (Helmholtz/Poincaré).
+- **Output**: [[research/voids-geometry-void-2026-11-06]] (~8,850 body words)
+- **Key finding**: Visual space is measurably non-Euclidean, and no subject experiences that as distortion. Examples: angle sums of apparent squares fall below 360° (Wagner et al. 2018), angular excess reaches 30° (Koenderink et al. 2000), and parallelity errors reach 40° (Cuijpers et al. 2000). The record does not converge on one geometry: Norman et al. (2025) found observers spread across elliptic, Euclidean and hyperbolic results, and Chambers et al. (2026, VR) found no far-space hyperbolicity. Reid derived a non-Euclidean "geometry of visibles" in 1764. Helmholtz's convex-mirror world and Poincaré's "more convenient" make simplicity the arbiter where the data cannot decide, a clean exhibit for Tenet 5. The void is framework-independent and gives no evidence for dualism. It weakens the introspective case for the non-spatiality of experience (McGinn 1995).
+- **Recommended action**: article, slug `geometry-void`. No fold host has room: plenitude 3,062, mapping-mind-space 2,995, predictive-construction 2,991 against the hard limit of 3,000.
+- **Dedupe**: zero across voids, research, archive, topics and concepts for `Luneburg`, `geometry of visibles`, `Blumenfeld`, `Koenderink`, `convex mirror`, `perceived distance`, `Consciousness and Space`. Controls `Molyneux` and `boredom` hit. Nearest live neighbour: `topics/three-dimensional-world-representation-problem`, which has no geometry discussion.
+- **Verification**: 141 quoted strings script-checked against saved full texts and OpenAlex abstracts; every quotation matched verbatim. Metadata checked through Crossref. No commit, and todo.md not edited (the driver mints the chain task).
 
 ## 2026-11-05T23:41:18+00:00 - refine-draft
 - **Status**: Success
