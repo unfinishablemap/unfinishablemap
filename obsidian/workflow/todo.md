@@ -5196,6 +5196,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   AFTER: re-run analyze_length and report the before and after figures. Sync and verify the change in hugo. Set ai_system by appending the model you are actually running ONLY if it is absent from the existing string anywhere, keeping the last occurrence when deduplicating. Do not copy a model name from this note.
 
+### P3: `concepts/substance-property-dualism` L113 still opens "presents a problem for illusionism" and L117 says "If illusionism fails (as the Map holds)" after task A recalibrated the three replies to remove defeaters rather than refute
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/substance-property-dualism.md
+- **Source**: refine-draft fork follow-ups 1-2 after task A (2026-11-06 06:45Z, outer-review synthesis 2026-11-06); grep-validated at 06:48Z
+- **Notes**: Task A rewrote L109 (the bare regress conceded per Frankish 2016), L111 (the debunking argument's causal-independence premise; "removes a defeater without refuting illusionism") and L113's close ("consonant with the Map's reading rather than evidence against its rivals"). Two surrounding phrases now overstate what those replies deliver: L113 opens `presents a problem for illusionism` (count 1) and L117 reads `If illusionism fails (as the Map holds)` (count 1). Recalibrate both LENGTH-NEUTRALLY (e.g. "presses on illusionism" / "If illusionism is false, as the Map holds"), keeping the Map's stated position but not implying the replies refute illusionism. RUN AFTER the six P1 tasks A-F on this page: they share the last ~410 words of headroom (3,089 after task A; concepts hard 3,500, gate >=), so this task must be net <= 0. Re-measure with analyze_length first.
+
 ## Completed Tasks
 
 
