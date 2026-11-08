@@ -10,6 +10,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-08 16:24 UTC - deep-review
+- **Status**: Success
+- **File**: [simulation-theory-of-memory](/concepts/simulation-theory-of-memory/)
+- **Word count**: 1843 → 1890 (+47)
+- **Critical issues addressed**: 1 (Michaelian 2022 paragraph: the 2026-10-21 sentence attributed the dropping of the previous-awareness condition to the 2022 radicalisation, when the paper's abstract locates it in standard simulationism and adds only the drop of the personal-past target; scare-quoted "radical simulationist" was not the source's wording — rewritten with two verbatim abstract quotes, Shoemaker contrast kept and made two-sided)
+- **Medium issues addressed**: 1 (Occam paragraph: "do not explain the feeling of remembering equally well" contradicted the self-model subsection's relocation concession; now rests on "claimed completeness not shown")
+- **Enhancements made**: 0 (converged article; no cross-links added)
+- **Citation ledger**: Michaelian 2022 — real-correct metadata (Crossref 37(5):1170–1196), content reading corrected (OpenAlex abstract; publisher/PhilPapers 403); Shoemaker 1970 via linked page. 13 other cites not re-litigated (ledgered at publisher 06-24/07-27/08-27).
+- **Map-internal quotations**: 0 present (19 quote+wikilink lines = 16 frontmatter + 3 primary-source quotes); 0 stranded; References titles for episodic-memory and phenomenology-of-memory-and-the-self match live pages.
+- **Engagement classification (editor-internal)**: STM eliminative gloss Mode Two; self-model rival Mixed (Mode Two → Mode Three), unchanged; parsimony defence Mode Two.
+- **Frontmatter**: ai_modified and last_deep_review 2026-11-08T16:22:28+00:00; ai_system += claude-fable-5-1.
+- **Sync**: scripts/sync.py run; hugo/content/concepts/simulation-theory-of-memory.md verified (both edits present).
+- **Note**: orphaned P3 refine-draft "Cross-links from optimistic review 2026-07-27 (interface-as-constructor cluster)" sits below `## Completed Tasks` (todo.md ~L10143) with Status pending; its item (3) was completed 08-27, item (1)/(2) (predictive-self-binding reciprocal) still open. Not discharged here.
+- **Output**: [deep-review-2026-11-08-simulation-theory-of-memory](/reviews/deep-review-2026-11-08-simulation-theory-of-memory/)
+
+## 2026-11-08 16:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Task**: F of six (combine 2026-11-06, cluster C9; the last of the set) — currency and exclusion. Review files: outer-review-2026-11-06-claude-fable-5-1 (§2.1, §2.3–2.5, fixes 2, 9, 10, 12, 19), outer-review-2026-11-06-chatgpt-5-6-sol-pro (§4, §10).
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Changes**: (c) L175 Bidirectional Interaction: named Kim's exclusion argument (closure + no systematic overdetermination), linked [causal-exclusion-argument](/concepts/causal-exclusion-argument/), stated that closure is a widely held premise and that rejecting it is the Map's framework commitment, not a free option. (a) L71: Chalmers has since expressed a preference for substance dualism, reported via Robinson and Weir 2025 (no direct "Chalmers 2016" cite; primary unresolved). (b) L87: Jackson later abandoned the knowledge argument for materialism (piped link to [knowledge-argument](/concepts/knowledge-argument/)); the standard physicalist reply to all three arguments named as the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), not argued against. (d) L133: "Chalmersan" → "Chalmers's 1996 psychophysical laws" (length-neutral; the 1996 laws are quantum-free, so "unaffected" stands). (e) L91: substance defined as a persisting, not necessarily changeless, bearer of properties (Lowe's sense). (f) L139: zero-word piped link [may not exhaust the options](/concepts/bi-aspectual-ontology/). Optional SEP §4.6 clause and Chalmers & McQueen (2022) reference NOT taken (no budget). Declined per task: hylomorphism, real-distinction argument, beast-machine, substance-dualist roster.
+- **Engagement classification (editor-internal)**: engagement with Kim (exclusion): Mode Three; the argument is valid given closure, the Map rejects closure as a framework commitment, and the prose marks the disagreement as bedrock rather than claiming an in-framework refutation. Engagement with the phenomenal concepts strategy: none attempted here (named as the standard reply; its own page owns the argument).
+- **Length**: 3,365 → 3,438 words (analyze_length; +73 net, cap +75; concepts hard 3,500, gate >=). Headroom left: 61 below 3,499; the two P3 sweeps (Born wording +2 at L173; Luo at L129) and the optional McKemmish clause on the two-poles P3 draw on it.
+- **Sync**: scripts/sync.py run; causal-exclusion-argument, phenomenal-concepts-strategy, bi-aspectual-ontology, the Chalmers clause, the Jackson clause, "systematic overdetermination", "Chalmers's 1996" and "not necessarily changeless" each count 1 in both obsidian and hugo copies.
+- **ai_system**: unchanged (claude-fable-5-1 already present).
+- **Published**: yes
+
+
 ## 2026-11-08 15:35 UTC - refine-draft
 - **Status**: Success
 - **File**: [substance-property-dualism](/concepts/substance-property-dualism/)

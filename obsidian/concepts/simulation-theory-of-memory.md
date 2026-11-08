@@ -4,8 +4,8 @@ description: "Remembering as imagining the past: the constructive-simulation acc
 created: 2026-06-24
 modified: 2026-06-24
 human_modified: null
-ai_modified: 2026-10-21T23:23:18+00:00
-last_deep_review: 2026-08-27T03:22:41+00:00
+ai_modified: 2026-11-08T16:22:28+00:00
+last_deep_review: 2026-11-08T16:22:28+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-06-24
 last_curated: null
 ---
@@ -53,7 +53,7 @@ The supporting clinical evidence comes from scene construction. Hassabis, Kumara
 
 In philosophy, Michaelian's *Mental Time Travel* (2016) radicalises the neuroscientific picture. Memory is a form of mental time travel, continuous with future-oriented imagination; remembering *is* imagining the past. Crucially, Michaelian drops the trace requirement: a present representation can be a genuine memory without any retained causal connection to the original experience, provided it is produced by the right kind of reliable, internally generated construction. Reliability is secured not by trace-preservation but by the *adaptivity* of constructive processes plus metacognitive monitoring.
 
-This is a deliberately deflationary, naturalistic programme. Michaelian (2022) pushes it further still—on a "radical simulationist" reading, remembering need not even target one's *personal* past, since the imaginative process is the same regardless of what it is aimed at. That gives up the previous-awareness condition too, which Shoemaker's [[quasi-memory-and-the-circularity-objection|quasi-memory]] only weakened while keeping a causal link to someone's past experience.
+This is a deliberately deflationary, naturalistic programme, and it already gives up the previous-awareness condition: Michaelian (2022) concedes that simulationism implies "the rememberer need not even have experienced" the remembered event. He then pushes further still, toward a *radicalized simulationism* on which "to remember is simply to imagine an event from the past, regardless of whether that event belongs to the personal past." Shoemaker's [[quasi-memory-and-the-circularity-objection|quasi-memory]] had only weakened the previous-awareness condition while keeping a causal link to someone's past experience; radical simulationism keeps neither the link nor the personal-past target.
 
 ## The Causal Theory and the Confabulation Objection
 
@@ -79,7 +79,7 @@ The Map's engagement with STM is a case of adopting a mechanism while refusing i
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: STM's reliability question—if remembering is constructing, why trust it?—invites the Map's interface answer. Construction is not neutral assembly; it is goal-directed selection among candidate reconstructions, and the *setting* of that goal is where consciousness contributes directional input rather than passively reading out the strongest trace. The empirical opening the Map points to is the reconsolidation window, when a reactivated trace destabilises and the physical system is briefly underdetermined; the interface reading is developed, held separate from the empirical signature, in [[reconsolidation-as-selection-window]].
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: STM is the "simpler" theory—one constructive system, no further metaphysical machinery—and its parsimony is much of its appeal. The Map's [[epistemological-limits-of-occams-razor|limits-of-parsimony]] argument applies directly: parsimony favours the simpler theory only where the rivals have equal explanatory power, and STM's unresolved discrimination problem shows that precondition is unmet. The simulationist mechanism and the dual-domain reading do not explain the feeling of remembering equally well, so the appeal to simplicity cannot settle the case.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: STM is the "simpler" theory—one constructive system, no further metaphysical machinery—and its parsimony is much of its appeal. The Map's [[epistemological-limits-of-occams-razor|limits-of-parsimony]] argument applies directly: parsimony favours the simpler theory only where the rivals have equal explanatory power, and the open question of why the discrimination is felt leaves that precondition unestablished. STM's economy is bought by claiming a completeness it has not shown; the dual-domain reading claims no such completeness and treats the felt character as the residue construction cannot supply—so the appeal to simplicity cannot settle the case.
 
 The honest framing: STM is right about *how* memories are assembled and right to abandon the storage metaphor. What it cannot deliver from construction alone is the autonoetic phenomenology that marks an assembly as a *memory*—and the gap it leaves open is the Map's entry point, not a defect the Map manufactures.
 

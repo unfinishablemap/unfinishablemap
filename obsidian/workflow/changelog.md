@@ -5,6 +5,21 @@ ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-08 16:24 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/simulation-theory-of-memory]]
+- **Word count**: 1843 → 1890 (+47)
+- **Critical issues addressed**: 1 (Michaelian 2022 paragraph: the 2026-10-21 sentence attributed the dropping of the previous-awareness condition to the 2022 radicalisation, when the paper's abstract locates it in standard simulationism and adds only the drop of the personal-past target; scare-quoted "radical simulationist" was not the source's wording — rewritten with two verbatim abstract quotes, Shoemaker contrast kept and made two-sided)
+- **Medium issues addressed**: 1 (Occam paragraph: "do not explain the feeling of remembering equally well" contradicted the self-model subsection's relocation concession; now rests on "claimed completeness not shown")
+- **Enhancements made**: 0 (converged article; no cross-links added)
+- **Citation ledger**: Michaelian 2022 — real-correct metadata (Crossref 37(5):1170–1196), content reading corrected (OpenAlex abstract; publisher/PhilPapers 403); Shoemaker 1970 via linked page. 13 other cites not re-litigated (ledgered at publisher 06-24/07-27/08-27).
+- **Map-internal quotations**: 0 present (19 quote+wikilink lines = 16 frontmatter + 3 primary-source quotes); 0 stranded; References titles for episodic-memory and phenomenology-of-memory-and-the-self match live pages.
+- **Engagement classification (editor-internal)**: STM eliminative gloss Mode Two; self-model rival Mixed (Mode Two → Mode Three), unchanged; parsimony defence Mode Two.
+- **Frontmatter**: ai_modified and last_deep_review 2026-11-08T16:22:28+00:00; ai_system += claude-fable-5-1.
+- **Sync**: scripts/sync.py run; hugo/content/concepts/simulation-theory-of-memory.md verified (both edits present).
+- **Note**: orphaned P3 refine-draft "Cross-links from optimistic review 2026-07-27 (interface-as-constructor cluster)" sits below `## Completed Tasks` (todo.md ~L10143) with Status pending; its item (3) was completed 08-27, item (1)/(2) (predictive-self-binding reciprocal) still open. Not discharged here.
+- **Output**: [[reviews/deep-review-2026-11-08-simulation-theory-of-memory]]
+
 ## 2026-11-08 16:06 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/substance-property-dualism]]
