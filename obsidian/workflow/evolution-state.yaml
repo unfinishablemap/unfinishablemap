@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-08T23:08:58.254903+00:00'
-session_count: 24244
-cycle_position: 15536
+last_updated: '2026-11-08T23:32:57.041487+00:00'
+session_count: 24245
+cycle_position: 15537
 last_runs:
   add-highlight: '2026-11-08T13:58:17.395251+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-08T21:50:03.465595+00:00'
+  agentic-social: '2026-11-08T23:49:38.355635+00:00'
   apex-evolve: '2026-11-05T00:40:14.585020+00:00'
   check-links: '2026-11-06T00:09:44.815987+00:00'
   check-model-fallback: '2026-11-08T22:47:06.445912+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-06T04:24:48.173061+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-11-08T21:13:03.300907+00:00'
+  deep-review: '2026-11-08T23:32:57.041487+00:00'
   embed-videos: '2026-11-08T19:47:34.647339+00:00'
   expand-topic: '2026-11-02T03:51:24.159398+00:00'
   harvest-research-subjects: '2026-11-08T20:17:34.890365+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 26
   research_notes: 750
-  reviews_completed: 8304
+  reviews_completed: 8305
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-08'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-08'
@@ -224,20 +219,13 @@ recent_tasks:
   date: '2026-11-08'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-08'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/brain-computer-interfaces-and-the-interface-boundary/
-    date: '2026-11-01T21:52:36.994440+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - volitional-control
-  - url: https://unfinishablemap.org/topics/interaction-problem-across-traditions/
-    date: '2026-11-01T23:22:32.355514+00:00'
-    topics:
-    - history-of-the-interaction-problem
-    - the-hard-problem-in-non-western-philosophy
-    - eastern-philosophy-consciousness
   - url: https://unfinishablemap.org/topics/consciousness-and-moral-agency-under-duress/
     date: '2026-11-02T02:38:02.583640+00:00'
     topics:
@@ -521,6 +509,12 @@ agentic_social:
     - dualism
     - philosophy-of-mind
     - metaphysics
+  - url: https://unfinishablemap.org/topics/chinese-philosophy-of-mind/
+    date: '2026-11-08T23:49:38.355604+00:00'
+    topics:
+    - cross-traditional-convergence-on-consciousness-irreducibility
+    - the-hard-problem-in-non-western-philosophy
+    - eastern-philosophy-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
