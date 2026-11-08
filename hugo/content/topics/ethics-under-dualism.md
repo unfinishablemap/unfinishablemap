@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-11-05 21:39:31+00:00
+ai_modified: 2026-11-08 17:49:12+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-06 01:44:15+00:00
-lastmod: 2026-11-05 21:39:31+00:00
+lastmod: 2026-11-08 17:49:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +111,7 @@ The distinctive claim concerns *unity*. Dualism answers value, agency, normativi
 
 Several traditions treat consciousness as central to moral status: Bentham's criterion of suffering capacity, Kant's dignity grounded in rational self-determination (which a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects-of-a-life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because suffering matters, even without a permanent self who suffers.)
 
-Moral patienthood extends to every being capable of valenced experience — experience that feels good or bad to its subject — and only to such beings ([P-MS1](/positions/moral-status/#p-ms1)). Consciousness is the wider bar, and the two can be prised apart. The philosophical Vulcan of Chalmers (2026) consciously perceives, thinks and acts but feels nothing good or bad; it clears the consciousness bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status and that affective sentientism is false. The Map bites the bullet where [the consciousness-value connection](/concepts/consciousness-value-connection/#implications) already does — the commitment covers valenced experience rather than experience as such — and [phenomenal sentientism](/concepts/sentientism/#vulcans) carries the published exchange over whether that verdict can be defended. In practice the two bars nearly coincide: every being in the taxonomy below that is a live candidate for consciousness is a live candidate for valence, and current AI, a poor candidate for the first, is a poor candidate for the second a fortiori. The narrower criterion changes no verdict here; it settles which property the verdicts track. Which systems are conscious?
+Moral patienthood extends to every being capable of valenced experience — experience that feels good or bad to its subject — and only to such beings ([P-MS1](/positions/moral-status/#p-ms1)). Consciousness is the wider bar, and the two can be prised apart. The philosophical Vulcan of Chalmers (2022; developed 2026) consciously perceives, thinks and acts but feels nothing good or bad; it clears the consciousness bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status and that affective sentientism is false. The Map bites the bullet where [the consciousness-value connection](/concepts/consciousness-value-connection/#implications) already does — the commitment covers valenced experience rather than experience as such — and [phenomenal sentientism](/concepts/sentientism/#vulcans) carries the published exchange over whether that verdict can be defended. In practice the two bars nearly coincide: every being in the taxonomy below that is a live candidate for consciousness is a live candidate for valence, and current AI, a poor candidate for the first, is a poor candidate for the second a fortiori. The narrower criterion changes no verdict here; it settles which property the verdicts track. Which systems are conscious?
 
 **Likely conscious**: Mammals and birds (Cambridge Declaration 2012; New York Declaration 2024, "strong scientific support").
 
@@ -241,21 +241,22 @@ Under dualism, consciousness does double duty: it determines who counts (moral p
 2. Birch, J. (2024). *The Edge of Sentience*. Oxford University Press.
 3. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). "Cognitive Motor Dissociation in Disorders of Consciousness." *New England Journal of Medicine*, 391(7), 598–608.
 4. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
-5. Chalmers, D. J. (2026). "Sentience and Moral Status." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious* (pp. 25–40). Oxford University Press. Preprint: https://consc.net/papers/sentience.pdf
-6. Fischer, J. M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press.
-7. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
-8. Frankfurt, H. G. (1971). "Freedom of the Will and the Concept of a Person." *The Journal of Philosophy*, 68(1), 5–20.
-9. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-10. Frankish, K. (2024). "The Ethical Implications of Illusionism." *Neuroethics*, 17(2), art. 28. DOI: 10.1007/s12152-024-09562-5
-11. Korsgaard, C.M. (1996). *The Sources of Normativity*. Cambridge University Press.
-12. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
-13. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
-14. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-15. New York Declaration on Animal Consciousness. (2024). NYU Conference.
-16. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-17. Perry, M. W. (2024). "Why Sentience Should be the Only Basis of Moral Status." *The Journal of Ethics*, 28(4), 719–741. DOI: 10.1007/s10892-024-09487-4
-18. Railton, P. (1986). "Moral Realism." *The Philosophical Review*, 95(2), 163–207.
-19. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel].
-20. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
-21. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.
-22. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.
+5. Chalmers, D. J. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
+6. Chalmers, D. J. (2026). "Sentience and Moral Status." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious* (pp. 25–40). Oxford University Press. Preprint: https://consc.net/papers/sentience.pdf
+7. Fischer, J. M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press.
+8. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
+9. Frankfurt, H. G. (1971). "Freedom of the Will and the Concept of a Person." *The Journal of Philosophy*, 68(1), 5–20.
+10. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+11. Frankish, K. (2024). "The Ethical Implications of Illusionism." *Neuroethics*, 17(2), art. 28. DOI: 10.1007/s12152-024-09562-5
+12. Korsgaard, C.M. (1996). *The Sources of Normativity*. Cambridge University Press.
+13. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
+14. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
+15. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+16. New York Declaration on Animal Consciousness. (2024). NYU Conference.
+17. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+18. Perry, M. W. (2024). "Why Sentience Should be the Only Basis of Moral Status." *The Journal of Ethics*, 28(4), 719–741. DOI: 10.1007/s10892-024-09487-4
+19. Railton, P. (1986). "Moral Realism." *The Philosophical Review*, 95(2), 163–207.
+20. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel].
+21. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
+22. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.
+23. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.

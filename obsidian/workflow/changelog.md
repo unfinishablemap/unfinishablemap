@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-08T17:50:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-under-dualism]]
+- **Original score**: n/a (targeted citation-dating fix; `scripts/curate.py` absent)
+- **Changes**: L109 "The philosophical Vulcan of Chalmers (2026)" -> "Chalmers (2022; developed 2026)" (Option A from the P3 positions-evolve lead: the case originates in *Reality+* 2022 pp. 343-345; the 2026 Lee & Pautz chapter says "In Reality+, I analyzed affective sentientism using a thought-experiment involving philosophical Vulcans"). "Chalmers concludes..." left as is (verdict appears in both works). Added References entry "Chalmers, D. J. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton." copied from `concepts/simulation` (initials harmonised to the page's "D. J."), placed alphabetically as #5; entries 5-22 renumbered 6-23 (body has no numeric cites). L192 unchanged (does not date the case). Length 3,955 -> 3,972 words (topics hard 4,000). Synced to Hugo. No ai_system change (claude-fable-5-1 already present).
+- **Published**: yes
+
 ## 2026-11-08T17:32:05+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The argument from property dualism to substance dualism (Francescotti 2001; Searle 2002; Zimmerman 2010 / Mackie 2011; Schneider 2012; Lycan 2013; Robinson 2016; Weir 2023, 2024). P3 research-topic harvested 2026-11-08 from the 11-06 Claude outer review of `concepts/substance-property-dualism`.
