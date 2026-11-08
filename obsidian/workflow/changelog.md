@@ -5,6 +5,12 @@ ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-08 15:30 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: sleep-and-dreaming wing (5 pages): concepts/sleep-and-consciousness, topics/dream-consciousness, topics/lucid-dreaming-and-dualist-rendering, topics/incubation-effect-and-unconscious-processing, topics/contentless-awareness-evidence. Prior wing review (09-08) rechecked: description concern closed 09-09; hypnagogia->sleep-consciousness-void reciprocal still open. Laukkonen 2023 nirodha inversion: absent from all five (nirodha/temporal flow/cessation 0 hits each). Demirel 2025 abstract fetched from Europe PMC: the sleep page's "insula / default-mode-salience coherence / beta-gamma resonance" description and its "bear out" claim do not match the abstract; the dream page's wording does.
+- **Tasks**: 3 P3 refine-draft minted (sleep-and-consciousness Demirel; dream-consciousness L137/L177/L217 length-neutral; incubation L146/L148). parse_tasks active 385 -> 388.
+- **Output**: [[reviews/optimistic-2026-11-08-sleep-and-dreaming-wing]]
+
 ## 2026-11-08T15:06:15+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/substance-property-dualism]]

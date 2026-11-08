@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-08 15:30 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: sleep-and-dreaming wing (5 pages): concepts/sleep-and-consciousness, topics/dream-consciousness, topics/lucid-dreaming-and-dualist-rendering, topics/incubation-effect-and-unconscious-processing, topics/contentless-awareness-evidence. Prior wing review (09-08) rechecked: description concern closed 09-09; hypnagogia->sleep-consciousness-void reciprocal still open. Laukkonen 2023 nirodha inversion: absent from all five (nirodha/temporal flow/cessation 0 hits each). Demirel 2025 abstract fetched from Europe PMC: the sleep page's "insula / default-mode-salience coherence / beta-gamma resonance" description and its "bear out" claim do not match the abstract; the dream page's wording does.
+- **Tasks**: 3 P3 refine-draft minted (sleep-and-consciousness Demirel; dream-consciousness L137/L177/L217 length-neutral; incubation L146/L148). parse_tasks active 385 -> 388.
+- **Output**: [optimistic-2026-11-08-sleep-and-dreaming-wing](/reviews/optimistic-2026-11-08-sleep-and-dreaming-wing/)
+
+## 2026-11-08T15:06:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Task**: D of six (2026-11-06 combine, cluster C7): history and attribution apparatus (ChatGPT §2–§4 items 3–6, 10; Claude §2.1–2.3 fixes 1, 4, 6–8)
+- **Changes**: (a) L51 Descartes: "Elizabeth" → "Elisabeth"; dated the exchange 1643; the reply to Elisabeth now reads as the primitive-notion-known-through-sensation move, with the pineal gland (*Passions of the Soul*) as a locus that "located interaction without explaining it" (raw letters: "pineal" 0 hits, verified by the driver 11-06). Shapiro 2007 NOT cited: the entry (18 words) did not fit the +75 budget. (b) L51 Leibniz: energy argument removed; now "directional quantity (momentum), not just quantity of motion, is conserved, so even a soul redirecting animal spirits breaches it; energy conservation is a later reconstruction" (consistent with history-of-the-interaction-problem L91 "add momentum"). Pitts 2019 not cited (unverified). (c) L61 Lowe NCSD: generic gloss ("avoiding the Cartesian separation …") replaced with the four-category-ontology L72 doctrine (self distinct from the organic body yet not necessarily separable from it, bearing both mental and physical properties) plus the SEP Mental Causation non-quantum clause (moves the body without adding or redistributing energy), so the L59 quantum route reads as the Map's own. (d) References: Hasker (1999) *The Emergent Self* added verbatim from emergent-dualism L101, in alphabetical slot between Hagan and Kim. (e) L73 Pautz: splice repaired—"Though called a physicalist view" moved outside the quotation marks as paraphrase ("though he calls it a physicalist view"); only the verbatim predicate "it seems to have many of the vices of dualism" remains quoted; primitivist scope installed on the "contends … requires" clause ("contends primitivist Russellian monism requires"), which also scopes the quotation's "it". Optional items (Pautz draft date in References, Pautz's own-aim clause, family reframe) NOT taken: no budget.
+- **Length**: 3,221 → 3,293 words (analyze_length; net +72, budget +75, ceiling 3,296; concepts hard 3,500, gate >=). E and F retain ~206 of headroom.
+- **Out of scope, recorded only**: the same spliced Pautz quote sits in `research/russellian-monism-2026-01-15` L97; `concepts/russellian-monism` L83 "swarm of extra-logical principles" gets 0 hits in the 2015 draft ("a swarm of brute, special psychophysical laws") but that page also cites Pautz 2017—verify before touching.
+- **Model**: claude-fable-5-1 (already present in ai_system; nothing appended)
+- **Published**: yes (synced to Hugo; five new phrases verified in both trees)
+
 ## 2026-11-08T14:50:37+00:00 - refine-draft
 - **Status**: Success
 - **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
