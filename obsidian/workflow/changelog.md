@@ -5,6 +5,16 @@ ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-08T14:50:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/substance-property-dualism]]
+- **Task**: C of six (2026-11-06 combine, cluster C6): primitive subject unity treated as cost-free (ChatGPT §4/§10 items 9, 17, 23; Claude §2.2/§2.4 fixes 7, 17)
+- **Changes**: (a) L159 opener made a lean on general grounds ("Two general considerations incline the Map toward substance dualism", consistent with task B's L41 and where-the-substance-commitment-enters L81); first reason now "sidesteps constitutive subject-combination by taking subject unity as primitive", relocating the question to subject emergence, individuation and fission, booked as debts in P-SC2 (pairing law owed) and P-SC3 (onset/cessation undated); primitive unity entered as a posit in the same ledger as property dualism's brute psychophysical or grounding laws (item 23). Zimmerman/Mackie second reason (task A) untouched. (b) L97 panpsychism pressure narrowed to constitutive panpsychist and some Russellian views, Chalmers-style macro-level laws noted as not beginning with micro-subjects; "avoids … from the start" → "sidesteps … by treating subject unity as primitive". (c) L61 "from the start" → "treating subject unity as primitive rather than composed" (fits Hasker's emergent subject at L75); "panpsychist property dualism" → "panpsychist views" (Goff/Strawson reject the dualist label). (d) Challenge item 3 now says the FIRST consideration would lapse; item 5 (contemplative consensus, non-discriminating per both reviewers) replaced by an individuation challenge condition (fission/duplication handled by a physical organism but not a primitive subject, or a physical-substance account of agent causation). Item 4 kept (reviewer charge a false alarm). List stays at five.
+- **Length**: 3,158 → 3,221 words (analyze_length; net +63, budget +70; concepts hard 3,500, gate >=). D, E, F retain ~278 of headroom.
+- **Loci left for siblings**: D (L51, Pautz splice, Leibniz, Lowe, Hasker), E (L129), F (L175, L71, L87, L133, L91, bi-aspectual link) untouched.
+- **Model**: claude-fable-5-1 (already present in ai_system; nothing appended)
+- **Published**: yes (synced to Hugo; four new phrases verified in both trees)
+
 ## 2026-11-06T07:25:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/mind-arena]]

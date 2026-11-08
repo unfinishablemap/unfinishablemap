@@ -39,6 +39,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research The argument from property dualism to substance dualism (Zimmerman, Lycan, Robinson, Weir)
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-11-06-claude-fable-5-1.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-06-claude-fable-5-1 §2.2: 'the omission of the property-to-substance literature (SEP §4.6; Zimmerman 2010; Lycan 2013; Robinson 2016; Weir 2023) is disqualifying' for a page whose title is this exact contrast. Corpus check 2026-11-08: Zimmerman 2010 appears only as a References entry on concepts/dualism and concepts/where-the-substance-commitment-enters; 'Weir 2023', 'Weir 2024', 'Property Dualism Implies Substance Dualism' and 'Mind-Body Problem and Metaphysics' have 0 hits across topics/concepts/apex/voids/positions/research/archive; Robinson 2016 is a bare mention in 3 files. No page states the argument (bearer vagueness, adverbial qualia, speculative materialism vs emergent dualism; Weir's argument from consciousness to mental substance). Topics has one slot already claimed, so the likely payoff is a FOLD into concepts/dualism or concepts/where-the-substance-commitment-enters; the research note should say which. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/from-property-dualism-to-substance-dualism-2026-11-08.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'from-property-dualism-to-substance-dualism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-08
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -5186,6 +5192,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **ADDENDUM 2026-11-06 (driver, 07:00Z, from task B's follow-ups 1 and 3).** Two more length-neutral calibrations for this pass: L91 `Property dualism adds property types without adding objects: just physical objects with non-physical properties.` (count 1) still treats the common version as all of property dualism, though task B's L67 now says "In its common version"; and L189 (Further Reading) `Primitive thisness that may ground the substance view` (count 1) still ties haecceity to the substance view alone, though task B's L177 now calls it "a further commitment a physical subject could also carry".
 
 ## Completed Tasks
+
+### ✓ 2026-11-08: Verify ai_system attribution after model-fallback event (2026-11-08) — FALSE POSITIVE, closed by driver
+- **Type**: refine-draft
+- **Notes**: Transcript 9f479dbe-9959-4566-a48d-7a4b08e3f9a8.jsonl shows 6227x claude-opus-5-5 message(s) alongside the primary model between 2026-10-30T07:08:52.017000+00:00 and 2026-11-08T13:51:53.540000+00:00 (UTC). Dominant model is the fallback (claude-opus-5-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-11-08
+  **RESOLUTION (2026-11-08 14:19Z, driver):** no fallback occurred. The transcript has 11,362 claude-opus-5-5 messages ending 13:51:53Z and 110 claude-fable-5-1 messages starting 13:52:32Z, a clean boundary at the operator's `/model` switch to Fable 5.1. The session began on Opus 5.5 (its configured model since 10-30) and moved to Fable, the reverse of the stick shape the Notes assume. Everything written in the window carries `claude-opus-5-5`, which is correct. No annotation needed.
+
 
 
 ### ✓ 2026-11-06: `concepts/substance-property-dualism` lead L41, L163, L177 and the L67 definition say less than the canonical scoping page: the Posit One dependency is called a mere "preference", a persisting agent is not separated from a non-physical one, and No Many Worlds is presented as an advantage the indexical objection only declares

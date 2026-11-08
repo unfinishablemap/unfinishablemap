@@ -2,9 +2,9 @@
 title: "Substance Dualism vs Property Dualism"
 description: "Two forms of dualism: separate mental substances versus irreducible phenomenal properties. The Dualism tenet accepts either; what matters is consciousness's irreducibility."
 created: 2026-01-14
-modified: 2026-11-06
+modified: 2026-11-08
 human_modified: null
-ai_modified: 2026-11-06T06:56:35+00:00
+ai_modified: 2026-11-08T14:50:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ Modern substance dualists have resources unavailable to Descartes:
 
 **Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes; consciousness could select among possibilities without injecting energy (see [[conservation-laws-and-mental-causation]]), aligning with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet.
 
-**Naturalistic substance dualism** ([[four-category-ontology|E.J. Lowe]], Dean Zimmerman) accepts that mental substances are part of the natural world, just not the physical world as physics describes it—avoiding the Cartesian separation between nature and mind while preserving ontological distinctness. By positing unified mental substances from the start, it also sidesteps the combination problem that pressures panpsychist property dualism.
+**Naturalistic substance dualism** ([[four-category-ontology|E.J. Lowe]], Dean Zimmerman) accepts that mental substances are part of the natural world, just not the physical world as physics describes it—avoiding the Cartesian separation between nature and mind while preserving ontological distinctness. By treating subject unity as primitive rather than composed, it also sidesteps the combination problem that pressures panpsychist views.
 
 ## Property Dualism
 
@@ -94,7 +94,7 @@ Both share the central insight that [[concepts/materialism]] fails to account fo
 
 **On the [[pairing-problem]]**: Kim (2005) asks in virtue of what *this* mind is paired with *this* body. For physical causation, spatial relations answer—ball A strikes ball B because they are adjacent. But if minds lack spatial location, nothing grounds the pairing: why does M1's intention move B1's hand rather than B2's? Property dualism sidesteps this—mental properties are properties *of* brains, paired by definition. Substance dualists respond by (1) locating minds spatially in the brain where they interact (Hasker, Zimmerman), (2) denying causation requires spatial relations at all—Bailey, Rasmussen and Van Horn (2011) press both—or (3) invoking haecceities to ground pairing without spatial relations, the Map's own reconstruction. The Map's quantum framework fits the first: consciousness is located where it interfaces with neural quantum processes, which fixes where interaction occurs but leaves the [[positions/subject-census|pairing law]] owed.
 
-**On the combination problem**: property dualism (especially Russellian monism) faces pressure toward [[panpsychism]]—if phenomenal properties are fundamental, they might be everywhere. But panpsychism then faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start. (On parsimony, the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns against treating property dualism's apparent economy as decisive.)
+**On the combination problem**: constitutive [[panpsychism|panpsychist]] and some Russellian views take phenomenal properties to be fundamental and everywhere, and then face the combination problem: how do micro-experiences combine into unified consciousness? (Chalmers-style macro-level psychophysical laws need not begin with micro-subjects.) Substance dualism sidesteps the problem by treating subject unity as primitive. (On parsimony, the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns against treating property dualism's apparent economy as decisive.)
 
 ## The Illusionist Challenge
 
@@ -146,17 +146,17 @@ Several findings would create difficulties for the distinction as the Map unders
 
 2. **Unified quantum-consciousness theory with clear ontology:** a successful scientific theory might force commitment to one framework by specifying the nature of the conscious element.
 
-3. **Combination problem solved for property dualism:** if panpsychists could explain how micro-experiences combine into unified macro-subjects, the consideration favouring substance dualism would disappear.
+3. **Combination problem solved for property dualism:** if panpsychists could explain how micro-experiences combine into unified macro-subjects, the first consideration favouring substance dualism (explained below) would lapse.
 
 4. **Neural identity without correlation:** discovery that specific conscious states can occur without their neural correlates (or vice versa) would adjudicate between stronger and weaker forms of dualism.
 
-5. **Contemplative consensus on substancehood:** convergence among contemplative traditions on affirming or denying a substantial self would provide phenomenological evidence for one framework.
+5. **Individuation handled physically:** a principled treatment of fission or duplication cases available to a physical organism but not to a primitive subject, or a physical-substance account of agent causation, would weaken the substance lean.
 
 ## Which Does the Map Hold?
 
 The tenets require consciousness to be irreducible, causally efficacious (so property dualism must avoid the epiphenomenalist temptation), and interfaced at quantum indeterminacies. The choice between the frameworks affects personal identity, survival, and the metaphysics of mind, but these are downstream of the central commitment.
 
-The Map leans toward substance dualism for two reasons. First, it avoids the combination problem entirely. Second, Zimmerman (2010) asks "what material objects could be the bearers of the qualia?" If some qualia "require an adverbial construal", a property dualist "can be driven to speculative forms of materialism" that look, at this point, no likelier than emergent substance dualism—an argument Mackie (2011) contests. This is a philosophical preference, not a doctrinal requirement. Both are general reasons for the heavier ontology, different in kind from the operational dependencies—the agency cluster (explained below) and the indexical objection in the No Many Worlds tenet—where a persisting subject is required, both drawn from [[tenets/background-commitments|Posit One]]. [[where-the-substance-commitment-enters|Where the Substance Commitment Enters]] is the diagnostic for which articles inherit that dependency.
+Two general considerations incline the Map toward substance dualism. First, it sidesteps constitutive subject-combination by taking subject unity as primitive, relocating the question to subject emergence, individuation and fission—debts booked in [[positions/subject-census|P-SC2]] (a pairing law owed) and P-SC3 (onset and cessation undated). Primitive unity is itself a posit, in the same ledger as property dualism's brute psychophysical or grounding laws. Second, Zimmerman (2010) asks "what material objects could be the bearers of the qualia?" If some qualia "require an adverbial construal", a property dualist "can be driven to speculative forms of materialism" that look, at this point, no likelier than emergent substance dualism—an argument Mackie (2011) contests. This is a philosophical preference, not a doctrinal requirement. Both are general reasons for the heavier ontology, different in kind from the operational dependencies—the agency cluster (explained below) and the indexical objection in the No Many Worlds tenet—where a persisting subject is required, both drawn from [[tenets/background-commitments|Posit One]]. [[where-the-substance-commitment-enters|Where the Substance Commitment Enters]] is the diagnostic for which articles inherit that dependency.
 
 ### Where the Substance-Leaning Becomes Load-Bearing
 
