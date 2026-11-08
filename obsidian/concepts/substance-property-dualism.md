@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-11-08
 human_modified: null
-ai_modified: 2026-11-08T14:50:37+00:00
+ai_modified: 2026-11-08T15:06:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ René Descartes argued that mind (res cogitans) and body (res extensa) are entir
 
 ### Historical Challenges
 
-Princess Elizabeth of Bohemia pressed the central difficulty: how can something unextended causally interact with something extended? Descartes answered unsatisfactorily, pointing to the pineal gland. Leibniz sharpened the objection via conservation of momentum—if mind could push matter, it would inject energy, but physics says energy is conserved. The interaction seems to require abandoning either conservation laws or causal efficacy.
+Princess Elisabeth of Bohemia pressed the central difficulty in 1643: how can something unextended causally interact with something extended? Descartes replied that soul–body union is a primitive notion known through sensation; the pineal gland (*Passions of the Soul*) located interaction without explaining it. Leibniz sharpened the objection: directional quantity (momentum), not just quantity of motion, is conserved, so even a soul redirecting animal spirits breaches it; energy conservation is a later reconstruction. The interaction seems to require abandoning either conservation laws or causal efficacy.
 
 These objections pushed many philosophers toward parallelism, [[concepts/epiphenomenalism]], or materialism. See [[history-of-the-interaction-problem]] for how quantum mechanics later reopened possibilities that Leibniz thought closed.
 
@@ -58,7 +58,7 @@ Modern substance dualists have resources unavailable to Descartes:
 
 **Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes; consciousness could select among possibilities without injecting energy (see [[conservation-laws-and-mental-causation]]), aligning with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet.
 
-**Naturalistic substance dualism** ([[four-category-ontology|E.J. Lowe]], Dean Zimmerman) accepts that mental substances are part of the natural world, just not the physical world as physics describes it—avoiding the Cartesian separation between nature and mind while preserving ontological distinctness. By treating subject unity as primitive rather than composed, it also sidesteps the combination problem that pressures panpsychist views.
+**Naturalistic substance dualism** ([[four-category-ontology|E.J. Lowe]], Dean Zimmerman) accepts that mental substances are part of the natural world, just not the physical world as physics describes it—for Lowe a self distinct from the organic body yet not necessarily separable from it, bearing both mental and physical properties, and moving it without adding or redistributing energy, so the quantum route above is the Map's own. By treating subject unity as primitive rather than composed, it also sidesteps the combination problem that pressures panpsychist views.
 
 ## Property Dualism
 
@@ -70,7 +70,7 @@ Property dualism holds that mental properties—the painfulness of pain, the red
 
 **Naturalistic dualism** (Chalmers's early position) holds that phenomenal properties are fundamental features of nature, like mass or charge—lawfully tied to physical organisation but not derivable from physical properties. The laws connecting physical and phenomenal are brute psychophysical regularities that don't reduce to physics.
 
-**[[russellian-monism|Russellian monism]]** holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or ground) the intrinsic nature physics doesn't capture. Critics argue it inherits dualism's difficulties: Pautz (2015) contends it requires brute "grounding laws" connecting quiddities to consciousness, structurally parallel to dualism's psychophysical laws—"Though called a physicalist view, it seems to have many of the vices of dualism." The Map names this pattern [[disguised-property-dualism]]—a theory doing property-dualist work without paying its conceptual rent—and accepts the structural commitment openly instead.
+**[[russellian-monism|Russellian monism]]** holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or ground) the intrinsic nature physics doesn't capture. Critics argue it inherits dualism's difficulties: Pautz (2015) contends primitivist Russellian monism requires brute "grounding laws" connecting quiddities to consciousness, structurally parallel to dualism's psychophysical laws—though he calls it a physicalist view, "it seems to have many of the vices of dualism." The Map names this pattern [[disguised-property-dualism]]—a theory doing property-dualist work without paying its conceptual rent—and accepts the structural commitment openly instead.
 
 **Emergent dualism** holds that mental properties [[emergence|emerge]] from physical complexity in ways unpredictable from physical theory alone—ontological, not merely epistemic, emergence. The label spans two positions, though: this property-emergence variant, and [[emergent-dualism|Hasker's canonical substance-emergence view]], on which the brain generates a genuinely new mental *subject* with novel causal powers, not merely new properties.
 
@@ -200,6 +200,7 @@ The distinction matters little for the Dualism tenet and the irreducibility argu
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press (Cornell Studies in the Philosophy of Religion).
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Kobylkov, D., Wynn, J., Winklhofer, M., Chetverikova, R., Xu, J., Hiscock, H., Hore, P. J., & Mouritsen, H. (2019). Electromagnetic 0.1–100 kHz noise does not disrupt orientation in a night-migrating songbird implying a spin coherence lifetime of less than 10 µs. *Journal of the Royal Society Interface*, 16(161), 20190716. https://doi.org/10.1098/rsif.2019.0716
 1. Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
