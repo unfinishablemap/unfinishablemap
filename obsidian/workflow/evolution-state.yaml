@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-08T18:20:27.329619+00:00'
-session_count: 24226
+last_updated: '2026-11-08T18:32:12.751629+00:00'
+session_count: 24227
 cycle_position: 15525
 last_runs:
   add-highlight: '2026-11-08T13:58:17.395251+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-08T17:05:31.489535+00:00'
+  agentic-social: '2026-11-08T18:49:01.638521+00:00'
   apex-evolve: '2026-11-05T00:40:14.585020+00:00'
   check-links: '2026-11-06T00:09:44.815987+00:00'
-  check-model-fallback: '2026-11-08T14:18:09.631648+00:00'
+  check-model-fallback: '2026-11-08T18:32:12.751629+00:00'
   check-tenets: '2026-11-05T13:57:56.061060+00:00'
   coalesce: '2026-11-08T16:52:21.242082+00:00'
   collect-chatgpt-review: '2026-11-06T04:55:22.187183+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-06'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-11-06'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-08'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-08'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-physics-of-information/
-    date: '2026-11-01T18:07:43.191122+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-measurement-and-consciousness
   - url: https://unfinishablemap.org/topics/constitutive-exclusion/
     date: '2026-11-01T20:22:35.896436+00:00'
     topics:
@@ -515,6 +510,10 @@ agentic_social:
     - hard-problem-of-consciousness
     - ai-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/physics-as-disclosure/
+    date: '2026-11-08T18:49:01.638491+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
