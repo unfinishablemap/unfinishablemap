@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just kind. Gra
 created: 2026-03-20
 modified: 2026-10-06
 human_modified:
-ai_modified: 2026-10-06T10:12:34+00:00
+ai_modified: 2026-11-08T19:33:47+00:00
 last_deep_review: 2026-10-06T10:12:34+00:00
 draft: false
 topics:
@@ -119,7 +119,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: If consciousness participates in quantum collapse — selecting among superposed outcomes — then the degree of consciousness may determine the scope of that participation. Under many-worlds, all outcomes occur and no selection happens; gradation would be irrelevant to physics. Under collapse interpretations, the degree of conscious engagement could modulate which collapse events consciousness influences, making gradation physically consequential rather than merely phenomenological.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The temptation to treat consciousness as binary — present or absent, on or off — reflects a preference for simplicity over accuracy. Consciousness may be irreducibly graded in ways that resist neat categorisation. The multiple dimensions of gradation (intensity, richness, complexity, access) compound this: a single scalar measure of "how conscious" a system is may not exist.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Treating what consciousness *contains* as binary — full or empty, rich or blank — is the simpler description, and this tenet keeps the Map from letting that simplicity settle the matter. Consciousness may be irreducibly graded in ways that resist neat categorisation, and the multiple dimensions of gradation (intensity, richness, complexity, access) compound the resistance: a single scalar measure of "how conscious" a system is may not exist. Whether a subject is present at all is a separate question, left open above.
 
 ## Further Reading
 

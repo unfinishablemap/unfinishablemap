@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-08T19:33:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/degrees-of-consciousness]]
+- **Original score**: n/a (targeted fix from `reviews/deep-review-2026-10-21-moral-status-threshold-or-degrees` L128 note)
+- **Changes**: Recast the Tenet 5 paragraph (L122) so Occam's Razor Has Limits targets a binary treatment of what consciousness *contains* (full or empty, rich or blank) rather than of whether a subject is present at all, which L36 deliberately leaves open and on which `topics/moral-status-threshold-or-degrees#presence` rests. Per the Tenet 5 calibration (`tenets/tenets.md` "Application to the Map's own arguments"), the sentence now withholds the Map's assent to the simpler binary description instead of declaring the binary view a mere preference. Kept the irreducibly-graded and no-single-scalar sentences (both concern degree); replaced the stranded "compound this" with "compound the resistance"; added a closing clause deferring presence to L36 without duplicating its wikilink. Length 2,528 → 2,553 words (concepts hard 3,500). Synced to Hugo; `tenets#^occams-limits` anchor renders as `/tenets/#occams-limits`.
+- **Published**: yes
+
 
 ## 2026-11-08T19:18:57+00:00 - refine-draft
 - **Status**: Success

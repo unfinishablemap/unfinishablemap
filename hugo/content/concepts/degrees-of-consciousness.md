@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-06 10:12:34+00:00
+ai_modified: 2026-11-08 19:33:47+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-06 10:12:34+00:00
-lastmod: 2026-10-06 10:12:34+00:00
+lastmod: 2026-11-08 19:33:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,7 +122,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If consciousness participates in quantum collapse — selecting among superposed outcomes — then the degree of consciousness may determine the scope of that participation. Under many-worlds, all outcomes occur and no selection happens; gradation would be irrelevant to physics. Under collapse interpretations, the degree of conscious engagement could modulate which collapse events consciousness influences, making gradation physically consequential rather than merely phenomenological.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The temptation to treat consciousness as binary — present or absent, on or off — reflects a preference for simplicity over accuracy. Consciousness may be irreducibly graded in ways that resist neat categorisation. The multiple dimensions of gradation (intensity, richness, complexity, access) compound this: a single scalar measure of "how conscious" a system is may not exist.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Treating what consciousness *contains* as binary — full or empty, rich or blank — is the simpler description, and this tenet keeps the Map from letting that simplicity settle the matter. Consciousness may be irreducibly graded in ways that resist neat categorisation, and the multiple dimensions of gradation (intensity, richness, complexity, access) compound the resistance: a single scalar measure of "how conscious" a system is may not exist. Whether a subject is present at all is a separate question, left open above.
 
 ## Further Reading
 
