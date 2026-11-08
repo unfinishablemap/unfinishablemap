@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-23 01:06:17+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-08 18:18:49+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 11:35:46+00:00
-lastmod: 2026-10-23 01:06:17+00:00
+lastmod: 2026-11-08 18:18:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ Eric Schwitzgebel catalogued further failures: people cannot reliably report whe
 
 ## The Crucial Distinction: Process vs. Content
 
-The critique's target matters. Nisbett and Wilson explicitly distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (current phenomenal states). Their argument concerns process access: we lack insight into *why* we choose as we do. They make no claim about whether we accurately perceive our present experience. The Map names this asymmetry the [process/content distinction](/concepts/process-content-distinction/) and treats it as calibration craft — content reports earn higher evidential weight than process reports, neither side exempt from error. The [causal interface void](/voids/causal-interface/) is the extreme case: we access intention and movement but not *how* one becomes the other — and [Carroll's regress](/concepts/carrolls-regress/) extends the same opacity to inference.
+The critique's target matters. Nisbett and Wilson distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (what one currently attends to, feels and intends). Their argument concerns process access rather than how accurately we perceive present experience: we lack insight into *why* we choose as we do. The Map names this asymmetry the [process/content distinction](/concepts/process-content-distinction/) and treats it as calibration craft — content reports earn higher evidential weight than process reports, neither side exempt from error. The [causal interface void](/voids/causal-interface/) is the extreme case: we access intention and movement but not *how* one becomes the other — and [Carroll's regress](/concepts/carrolls-regress/) extends the same opacity to inference.
 
 The [recognition-void](/voids/recognition-void/) demonstrates this concretely: Capgras delusion and prosopagnosia reveal that recognition comprises at least two hidden processes — perceptual identification and affective familiarity — whose binding is invisible to introspection.
 

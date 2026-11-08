@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-08 18:19 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/introspection]]
+- **Original score**: n/a (targeted fix; P3 from 2026-10-21 protocol-analysis research note)
+- **Changes**: L71 Nisbett & Wilson gloss: mental *contents* "(current phenomenal states)" → "(what one currently attends to, feels and intends)", tracking N&W 1977's own list (attention, sensations, emotions, evaluations, plans) rather than importing phenomenal character; merged the following two sentences into "Their argument concerns process access rather than how accurately we perceive present experience: we lack insight into *why* we choose as we do" (drops the "They make no claim about…" framing, which presupposed a phenomenal content category; Tenet 1 reading via process-content-distinction untouched). Dropped "explicitly" to pay for the longer gloss. Net 0 words: 3,491 → 3,491 (concepts hard 3,500). L63 and L181 checked — no "phenomenal" import, left alone. References untouched. `ai_system` appended `+claude-fable-5-1`. Synced to Hugo; `current phenomenal states` = 0 in both trees.
+- **Published**: yes
+
 ## 18:08 - deep-review
 - **Status**: Success
 - **File**: [[concepts/symbol-grounding-problem]]
