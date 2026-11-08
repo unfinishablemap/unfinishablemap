@@ -5067,13 +5067,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: deep review of `topics/quantum-biology-and-neural-consciousness` 2026-11-06 (commit 89b074a5), follow-up 2; grep-validated at 02:13Z
 - **Notes**: L182 reads `Why the strict corridor predicts no Born-statistical signature by construction` (count 1). The same review restored "unconditioned" on the hub (L143) because `topics/brain-internal-born-rule-testing` states the claim for the unconditioned strict corridor. Read that page's wording and make L182 match it: +1 word (apex 4,920 / hard 5,000). Check the corridor is described as not foreclosed, matching that page's "is not foreclosed".
 
-### P2: `voids/blindspot-void` L55 says the blindspot "survives illusionism" though on the phenomenal reading the illusionist rightly judges "I am not conscious"; L97 misstates Ramm's self-luminosity thesis and L53 inverts Dretske's sceptical conclusion
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/blindspot-void.md
-- **Source**: pessimistic review 2026-11-06 (`reviews/pessimistic-2026-11-06-blindspot-void.md`), Priority List items 1 and 2 (both High); driver grep-validated every anchor at count 1 and re-grepped the Dretske draft (consc.net/event/neh/papers/dretske2.htm, tags stripped) at 04:10Z: "stamping our feet", "not very helpful", "can't be false", "is not self-verifying", "Skeptical suspicions are, I think, rightly aroused" each 1
-- **Notes**: LENGTH: 2,981 / voids hard 3,000 (gate `>=`), headroom 18, shared with the sibling task for items 3-4; this task's net is +2 (item 1 net +3 WITH its L101 offset of -19; item 2 net -1). Re-measure with `analyze_length` before and after; the page must end <= 2,999. Pull the exact anchors and replacement text for items 1 and 2 from the review's Priority List by script; if an anchor no longer matches, report it and do not improvise. Item 1 touches L55, L39, L47, the frontmatter description, and the L101 offset (the title-only Sorensen caveat stays at L43). Item 2 touches L97 (Dretske 2003 draft n. 15; Ramm's further claim that awareness has its own phenomenal character) and L53 (Dretske's conclusion is sceptical). Verify every quoted fragment against the raw Dretske draft and Ramm's abstract before keeping it. Keep the 09-29 optimistic review's praise of L97 in view: the rewrite must keep the passage's argument, now correctly attributed. Do not touch L91 (the pending compartment-void expand cites it).
-
 ### P3: `voids/blindspot-void` L69 says every blindspot is available to some other perspective, but the Fitch conjunctions are universal blindspots; L65/L57/L75 misdescribe `voids/self-opacity` and the Map's AI self-report policy
 - **Type**: refine-draft
 - **Status**: pending
@@ -5139,9 +5132,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-07-27
   **RE-HOMED 2026-11-08 (16:26ZZ, driver).** This task sat below `## Completed Tasks` since 2026-07-27 with Status pending and was never picked (orphan pattern). State at 16:26ZZ: item (3) is DONE (`concepts/simulation-theory-of-memory` links `[[predictive-processing-and-dualism]]`, count 1). Items (1) and (2) are still OPEN: `[[predictive-self-binding-and-the-naturalist-challenge` has 0 hits on simulation-theory-of-memory and `[[simulation-theory-of-memory` has 0 hits on predictive-self-binding-and-the-naturalist-challenge. Headroom now: simulation-theory-of-memory 1,890/3,500 (concepts, gate >=; deep-reviewed 2026-11-08); predictive-self-binding-and-the-naturalist-challenge 2,998/4,000 (topics). Prefer piped links on existing words or a Further Reading line each way; frontmatter `related_articles` alone is not a link.
 
-
 ## Completed Tasks
 
+
+### ✓ 2026-11-08: `voids/blindspot-void` L55 says the blindspot "survives illusionism" though on the phenomenal reading the illusionist rightly judges "I am not conscious"; L97 misstates Ramm's self-luminosity thesis and L53 inverts Dretske's sceptical conclusion
+- **Type**: refine-draft
+- **File**: obsidian/voids/blindspot-void.md
+- **Notes**: LENGTH: 2,981 / voids hard 3,000 (gate `>=`), headroom 18, shared with the sibling task for items 3-4; this task's net is +2 (item 1 net +3 WITH its L101 offset of -19; item 2 net -1). Re-measure with `analyze_length` before and after; the page must end <= 2,999. Pull the exact anchors and replacement text for items 1 and 2 from the review's Priority List by script; if an anchor no longer matches, report it and do not improvise. Item 1 touches L55, L39, L47, the frontmatter description, and the L101 offset (the title-only Sorensen caveat stays at L43). Item 2 touches L97 (Dretske 2003 draft n. 15; Ramm's further claim that awareness has its own phenomenal character) and L53 (Dretske's conclusion is sceptical). Verify every quoted fragment against the raw Dretske draft and Ramm's abstract before keeping it. Keep the 09-29 optimistic review's praise of L97 in view: the rewrite must keep the passage's argument, now correctly attributed. Do not touch L91 (the pending compartment-void expand cites it).
 
 ### ✓ 2026-11-08: `concepts/substance-property-dualism` is stale on Chalmers and Jackson, never names Kim's exclusion argument, and never says what "substance" means (L175, L71, L87, L133, L91, plus a zero-word bi-aspectual link)
 - **Type**: refine-draft
