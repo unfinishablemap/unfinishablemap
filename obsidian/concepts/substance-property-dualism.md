@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-11-08
 human_modified: null
-ai_modified: 2026-11-08T15:06:15+00:00
+ai_modified: 2026-11-08T15:34:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,9 +124,9 @@ Both forms of dualism that accept quantum interaction face a scientific objectio
 
 Tegmark (2000) calculated decoherence times of 10⁻¹³ seconds for microtubule excitations and 10⁻²⁰ seconds for neuron firing—far too short for neural processes operating at millisecond timescales. If superpositions collapse before consciousness can act on them, the quantum interface proposed by [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] seems impossible.
 
-### Three Mitigating Considerations
+### Three Considerations
 
-**Disputed timescales:** Hagan et al. (2002) challenged Tegmark's parameters, yielding estimates eight to nine orders of magnitude longer (10⁻⁵ to 10⁻⁴ seconds); faster microtubule dynamics may relax the requirement further. **Biological quantum effects indicate feasibility:** on the leading but unsettled model, [[radical-pair-magnetoreception|avian magnetoreception]] needs spin coherence in cryptochrome, with Luo et al. (2025) providing computational support for the radical-pair mechanism. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated. If evolution can optimise quantum effects for navigation, it might for consciousness, though cryptochrome's specific architecture does not by itself license neural-scale coherence. **Decoherence doesn't solve collapse:** it suppresses superpositions and selects preferred bases, but leaves the system in a mixture without determining which outcome is measured; consciousness could bias outcomes at measurement even after decoherence has done its work. See [[decoherence]] for the full treatment.
+**Disputed timescales:** Hagan et al. (2002) challenged Tegmark's parameters, yielding estimates eight to nine orders of magnitude longer (10⁻⁵ to 10⁻⁴ seconds). **Biological quantum effects indicate feasibility:** on the leading but unsettled model, [[radical-pair-magnetoreception|avian magnetoreception]] needs spin coherence in cryptochrome, with Luo et al. (2025) providing computational support for the radical-pair mechanism. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated (Schwarze et al. 2016). If evolution can optimise quantum effects for navigation, it might for consciousness, though cryptochrome's specific architecture does not by itself license neural-scale coherence. **Decoherence doesn't solve collapse:** it suppresses superpositions and selects preferred bases, but leaves the system in a mixture without determining which outcome is measured; a consciousness-sensitive selection among the remaining outcomes therefore stays formulable, constrained by Born-rule preservation ([[positions/quantum-interface|P-Q2]]) and developed at [[post-decoherence-selection]]. That is a framework possibility rather than mitigating evidence: an open measurement problem is not itself evidence that the interface is feasible. See [[decoherence]] for the full treatment.
 
 ### Implications for the Distinction
 
@@ -208,6 +208,7 @@ The distinction matters little for the Dualism tenet and the irreducibility argu
 1. Mackie, P. (2011). Property dualism and substance dualism. *Proceedings of the Aristotelian Society*, 111(1), 181-199. https://doi.org/10.1111/j.1467-9264.2011.00305.x
 1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
 1. Robinson, H., & Weir, R. (2025). Dualism. *Stanford Encyclopedia of Philosophy*, rev. 17 October 2025.
+1. Schwarze, S., Schneider, N.-L., Reichl, T., Dreyer, D., Lefeldt, N., Engels, S., Baker, N., Hore, P. J., & Mouritsen, H. (2016). Weak broadband electromagnetic fields are more disruptive to magnetic compass orientation in a night-migratory songbird (*Erithacus rubecula*) than strong narrow-band fields. *Frontiers in Behavioral Neuroscience*, 10, 55. https://doi.org/10.3389/fnbeh.2016.00055
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Zimmerman, D. (2010). From property dualism to substance dualism. *Aristotelian Society Supplementary Volume*, 84(1), 119-150.
