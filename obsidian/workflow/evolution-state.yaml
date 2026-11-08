@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-08T21:21:50.645224+00:00'
-session_count: 24238
-cycle_position: 15532
+last_updated: '2026-11-08T21:36:30.170156+00:00'
+session_count: 24239
+cycle_position: 15533
 last_runs:
   add-highlight: '2026-11-08T13:58:17.395251+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-08T20:34:35.548576+00:00'
+  agentic-social: '2026-11-08T21:49:21.136414+00:00'
   apex-evolve: '2026-11-05T00:40:14.585020+00:00'
   check-links: '2026-11-06T00:09:44.815987+00:00'
   check-model-fallback: '2026-11-08T18:32:12.751629+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-08T15:31:47.186914+00:00'
   pessimistic-review: '2026-11-06T04:09:51.510025+00:00'
   positions-evolve: '2026-11-08T20:07:36.104572+00:00'
-  refine-draft: '2026-11-08T21:21:50.645224+00:00'
+  refine-draft: '2026-11-08T21:36:30.170156+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-08T17:33:45.190147+00:00'
   research-voids: '2026-11-06T00:45:35.477981+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-08'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-08'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-11-08'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-08'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-08'
@@ -515,6 +515,12 @@ agentic_social:
     - born-rule-and-the-consciousness-interface
     - consciousness-and-causal-powers
     - mathematical-structure-of-the-consciousness-physics-interface
+  - url: https://unfinishablemap.org/topics/mechanism-costs-dualism-thickness-quadrants/
+    date: '2026-11-08T21:49:21.136384+00:00'
+    topics:
+    - dualism
+    - philosophy-of-mind
+    - metaphysics
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
