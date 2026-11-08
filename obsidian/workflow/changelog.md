@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-08T16:35:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/blindspot-void]]
+- **Original score**: n/a (targeted pass; pessimistic review 2026-11-06 items 1 and 2)
+- **Changes**: Item 1 (illusionism): L55 now says the blindspot survives illusionism only on a functional reading of "conscious" and that the negative half of the phenomenal layer, like the asymmetry inference, needs the phenomenal reading; L39 marks both halves as contested; L47 conditions the structural failure on every judgment being conscious; description reworded to "a contested phenomenal case"; L101 offset replaces the title-only Sorensen sentence with a direct [[decision-void]] reference (the L43 title-only caveat stays). Item 2 (Dretske/Ramm): L53 now gives Dretske's sceptical conclusion ("despite there being no identifiable way we know it" is "not very helpful", "We can't do epistemology by stamping our feet"); L97 drops the misstated self-luminosity gloss and the thermostat-fact sentence, attributes the "can't be false" point to Dretske 2003 draft n. 15 and states Ramm's further claim (awareness has its own phenomenal character) as what the Map's reading needs. All quoted fragments grep-verified in the tag-stripped consc.net draft (count 1 each; endnote _edn15 confirmed) and Ramm's OpenAlex abstract. Word count 2,981 -> 2,983 (voids hard 3,000, gate >=). Items 3 and 4 left for the sibling P3.
+- **Published**: yes
+
 
 ## 2026-11-08 16:24 UTC - deep-review
 - **Status**: Success
