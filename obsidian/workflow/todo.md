@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research The argument from property dualism to substance dualism (Zimmerman, Lycan, Robinson, Weir)
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-11-06-claude-fable-5-1.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-06-claude-fable-5-1 §2.2: 'the omission of the property-to-substance literature (SEP §4.6; Zimmerman 2010; Lycan 2013; Robinson 2016; Weir 2023) is disqualifying' for a page whose title is this exact contrast. Corpus check 2026-11-08: Zimmerman 2010 appears only as a References entry on concepts/dualism and concepts/where-the-substance-commitment-enters; 'Weir 2023', 'Weir 2024', 'Property Dualism Implies Substance Dualism' and 'Mind-Body Problem and Metaphysics' have 0 hits across topics/concepts/apex/voids/positions/research/archive; Robinson 2016 is a bare mention in 3 files. No page states the argument (bearer vagueness, adverbial qualia, speculative materialism vs emergent dualism; Weir's argument from consciousness to mental substance). Topics has one slot already claimed, so the likely payoff is a FOLD into concepts/dualism or concepts/where-the-substance-commitment-enters; the research note should say which. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/from-property-dualism-to-substance-dualism-2026-11-08.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'from-property-dualism-to-substance-dualism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-08
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
