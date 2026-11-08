@@ -4,7 +4,7 @@ description: "Human+AI analysis of how an agent-caused choice is made for a reas
 created: 2026-10-20
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-25T17:57:57+00:00
+ai_modified: 2026-11-08T21:21:32+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[research/agent-causation-and-acting-for-reasons-2026-10-20]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-20
 last_curated:
 last_deep_review: 2026-10-20T20:04:27+00:00
@@ -72,7 +72,7 @@ Lowe's reply to Davidson is that "the reason for which the agent acted is the re
 The Map has adopted none of the three answers, and its pages use pieces of each.
 
 - [[agent-teleology]] says the gazelle's reason "is a conscious state that causally contributes to the outcome": the integrated answer, with the reason-state as a partial cause.
-- [[trilemma-of-selection]], [[reasons-responsiveness]] and [[agent-causation]] answer the luck objection by saying that selection on reasons makes the choice intelligible, and leave [[rollback-argument-against-agent-causation|why one option rather than another]] to the agent's settling. Clarke's contrastive reason-explanation of undetermined choice is causal: he argues that "even contrastive rational explanations are available for some nondeterministically caused actions" (2003, ch. 3), while the abstract of O'Connor's chapter calls his link "non-contrastive". The Map's reply is of the non-contrastive kind.
+- [[trilemma-of-selection]], [[reasons-responsiveness]] and [[agent-causation]] answer the luck objection by saying that selection on reasons makes the choice intelligible, and leave [[rollback-argument-against-agent-causation|why one option rather than another]] to the agent's settling. Clarke's contrastive reason-explanation of undetermined choice is causal: he argues that "even contrastive rational explanations are available for some nondeterministically caused actions" (2003, ch. 3), while the abstract of O'Connor's chapter calls his link "non-contrastive". [[the-divided-will#luck-objection|The divided-will article]] finds that the intelligibility reply fails for akrasia, where the agent selects against her own all-things-considered ranking. The Map's reply is of the non-contrastive kind.
 - The [[positions/agency-and-will#^p-a2|agency register]] (P-A2) grounds authorship in immanent causation "in Chisholm's sense" and takes only substance causation from Lowe, who denies that the agent causes her volitions at all. On the free-will entry's classification Chisholm denies reasons a direct causal role.
 - [[philosophy-of-action-under-dualism]] borrows Davidson's causal skeleton and Lowe's volitionist structure but makes the volition agent-caused, which Lowe denies. Lowe accepts the skeleton's downstream half, from willing to movement, and rejects its upstream half, from reasons to choice.
 

@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-08T21:20:31+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/agent-causation-and-acting-for-reasons]], [[topics/the-divided-will]]
+- **Source**: optimistic-2026-10-21-scorekeeping-wing, Priority List item 2 (seam; TWO FILES)
+- **Original score**: n/a (targeted seam fix; exact OLD/NEW pulled from the review by script, each OLD grep-counted 1)
+- **Changes**: (a) agent-causation L75: appended one sentence after the O'Connor "non-contrastive" clause linking `[[the-divided-will#luck-objection]]` — the divided-will article finds the reply fails for akrasia, where the agent selects against her own all-things-considered ranking (3,052 → 3,072, +20; topics hard 4,000). (b) the-divided-will L109 reply (a): "the direction Steward's argument points" now continues "and the shape of `[[agent-causation-and-acting-for-reasons#uncaused-volition|Lowe's answer]]`, on which choosing fixes the operative reason" (3,104 → 3,117, +13). "Choosing fixes the operative reason" is the agent-causation page's own L68 sentence, verified verbatim. Guards held: Lowe's volitions remain uncaused (not agent-caused) and he is not said to reject closure; (b) names a shape only — the divided-will page still ends L109 with "The objection stands unanswered here". No new quotations. Pronoun check: (a) next sentence has explicit subject "The Map's reply"; (b) next sentence "(b) It can confine…" still resolves to "the Map".
+- **Attribution**: ai_modified set from `date -u` on both; `ai_system` claude-opus-5-5 → claude-opus-5-5+claude-fable-5-1 on both (was absent on both).
+- **Sync**: scripts/sync.py all rows ok; both anchors render in the Hugo twins in both dialects (`#luck-objection` and `/topics/the-divided-will/#luck-objection` in agent-causation twin; `#uncaused-volition` and `/topics/agent-causation-and-acting-for-reasons/#uncaused-volition` in the-divided-will twin); target `{#…}` anchors present in both twins.
+- **Flag (editor-internal, no action taken)**: the review's NEW for (a) calls the Map's standard luck reply "the contrastive reply"; divided-will L103 says that reply "fails for exactly that contrast" and the agent-causation bullet calls the Map's reply "of the non-contrastive kind". The wording was applied as the review and driver specified; a future pass may prefer "finds that the reply fails for akrasia at exactly that contrast".
+- **Published**: yes
+
 ## 2026-11-08T21:08:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]

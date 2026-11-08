@@ -4,7 +4,7 @@ description: "Davidson's partition, Ainslie's bargaining interests and multiple-
 created: 2026-10-04
 modified: 2026-10-04
 human_modified:
-ai_modified: 2026-10-25T17:57:57+00:00
+ai_modified: 2026-11-08T21:18:54+00:00
 last_deep_review: 2026-10-04T14:46:46+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[valence-and-conscious-selection]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-04
 last_curated:
 ---
@@ -106,7 +106,7 @@ Neil Levy presses the general form of the objection. He argues that "agent-causa
 
 The nearest published move from the other side whose text was checked here is Helen Steward's. In *A Metaphysics for Freedom* (2012) she observes that "my best reasons do not simply set my body into inexorable motion" (p. 147). Steward argues that weakness of will, whatever its value to an agent, "might nevertheless be essential to the very existence of such an agent" (p. 161), because a settler of matters at the time of action must be able not to act on an intention already formed. Steward is an [[agency-incompatibilism|agency incompatibilist]] whose settlers are animals, human and many non-human, and she distinguishes her view sharply from Cartesian dualism (p. 16). On the Map's reading her move explains why a settler must be *capable* of akrasia. It does not explain why this agent acted akratically on this occasion, which is what the luck objection asks. Franklin's reply to Levy on agent causation and akrasia (2015) was located by title only, and nothing here depends on it.
 
-Two replies are open to the Map, and each has a cost. (a) It can accept the surd as the price of sourcehood, treating the agent's exercise of power as an explanatory terminus, the direction Steward's argument points. (b) It can confine agent-causal selection to choices with no settled ranking, which concedes that akratic acts are not agent-caused against the ranking and so withdraws the selection reading of akrasia. Neither reply is argued in full here. The objection stands unanswered here, as it does in [[akrasia-and-weakness-of-will|the akrasia article]].
+Two replies are open to the Map, and each has a cost. (a) It can accept the surd as the price of sourcehood, treating the agent's exercise of power as an explanatory terminus, the direction Steward's argument points and the shape of [[agent-causation-and-acting-for-reasons#uncaused-volition|Lowe's answer]], on which choosing fixes the operative reason. (b) It can confine agent-causal selection to choices with no settled ranking, which concedes that akratic acts are not agent-caused against the ranking and so withdraws the selection reading of akrasia. Neither reply is argued in full here. The objection stands unanswered here, as it does in [[akrasia-and-weakness-of-will|the akrasia article]].
 
 ## Felt Unity and Korsgaard's Practical Unity {#practical-unity}
 
