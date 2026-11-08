@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-08 15:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Task**: E of six (combine 2026-11-06, cluster C8) — L129 decoherence paragraph. Review files: outer-review-2026-11-06-chatgpt-5-6-sol-pro §6 items 14–16; outer-review-2026-11-06-claude-fable-5-1 §2.4, rows 5/6/12, fixes 16/20.
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Changes**: (a) deleted unsourced "; faster microtubule dynamics may relax the requirement further". (b) non-replication clause now cites Schwarze et al. (2016); References entry copied verbatim from radical-pair-magnetoreception L103, alphabetical between Robinson & Weir and Tegmark. (c) post-decoherence clause reframed as a framework possibility, not mitigation: selection stays formulable, constrained by Born-rule preservation ([P-Q2](/positions/quantum-interface/#p-q2)) and developed at [post-decoherence-selection](/concepts/post-decoherence-selection/); "an open measurement problem is not itself evidence that the interface is feasible" (modelled on tenets/background-commitments L42). H3 renamed "Three Mitigating Considerations" → "Three Considerations" (corpus grep: zero inbound anchors in either dialect). (d) McKemmish 2009 balance clause NOT taken: would have landed ~3,410, over the +95 budget ceiling of 3,388. Luo clause (P3 sweep) and L133 "Chalmersan" (task F) untouched. Tegmark/Hagan/Kobylkov figures unchanged.
+- **Length**: 3,293 → 3,365 words (+72, analyze_length; concepts hard 3,500). Task F headroom remains (+75 → 3,440).
+- **Sync**: hugo/content/concepts/substance-property-dualism.md verified (Schwarze 2, new wording 1, [P-Q2](/positions/quantum-interface/#p-q2) anchor /positions/quantum-interface/#p-q2).
+- **Published**: yes
+
 ## 2026-11-08 15:30 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: sleep-and-dreaming wing (5 pages): concepts/sleep-and-consciousness, topics/dream-consciousness, topics/lucid-dreaming-and-dualist-rendering, topics/incubation-effect-and-unconscious-processing, topics/contentless-awareness-evidence. Prior wing review (09-08) rechecked: description concern closed 09-09; hypnagogia->sleep-consciousness-void reciprocal still open. Laukkonen 2023 nirodha inversion: absent from all five (nirodha/temporal flow/cessation 0 hits each). Demirel 2025 abstract fetched from Europe PMC: the sleep page's "insula / default-mode-salience coherence / beta-gamma resonance" description and its "bear out" claim do not match the abstract; the dream page's wording does.
