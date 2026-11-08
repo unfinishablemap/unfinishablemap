@@ -4,6 +4,20 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-08T21:08:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+- **Word count**: 3842 → 3849 (+7; topics hard 4000, headroom 150; length-neutral pass)
+- **Critical issues addressed**: 2 (Silva et al. 2025 References entry moved from the superseded medRxiv preprint to the published *Journal of Neural Engineering* 22(4), 046039, DOI 10.1088/1741-2552/adf50e, "Brosler, S." → "Brosler, S. C."; unscoped superlative "in the largest series" → "in the largest of these series" for Kumral et al. 2022)
+- **Medium issues addressed**: 1 (§Taxonomy L58 "is what makes locked-in syndrome a clean pure-output case" → "is what classes locked-in syndrome as a pure-output case", removing the residual categorical the 09-08 omissions section had qualified)
+- **Enhancements made**: 0 (converged page; no cross-links added)
+- **Ledger**: never-reviewed 09-08 section web-verified at Crossref + Europe PMC + Laukkonen full text (SCU accepted manuscript, 0 hits for "locked"): Smith & Delargy 2005 new quote VERBATIM; Rousseaux 2009, Bassetti 1994, Conson 2008, Schnakers 2008, Kumral 2022, Laukkonen 2025 all real-correct with quotes verbatim; Silva 2025 real-wrong-metadata (fixed). Prior-ledger cites not re-litigated.
+- **Internal quotations**: 0 inbound quotations of other Map pages in this body; 6/6 phrases quoted by `concepts/filter-vs-interface-distinction` L76 still verbatim.
+- **Engagement classification**: production/materialist theory — Mode Three, honest; Laukkonen et al. 2025 — Mode Three, the rival's prediction derived from its own conditions and used against the page's evidential claim. No label leakage.
+- **Spillover**: `concepts/filter-vs-interface-distinction` L76 "engineering test" gloss still firmer than this page's hedge; 10-05 deep review of that page did not consider it → P3 refine-draft minted.
+- **ai_system**: appended claude-fable-5-1 (absent before).
+- **Output**: [[reviews/deep-review-2026-11-08-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+
 ## 2026-11-08T20:50:11+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/history-of-the-interaction-problem]] (primary), [[research/interaction-problem-non-western-philosophy-2026-02-17]] (secondary)

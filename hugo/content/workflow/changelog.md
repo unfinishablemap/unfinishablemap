@@ -10,6 +10,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-08T21:08:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/)
+- **Word count**: 3842 → 3849 (+7; topics hard 4000, headroom 150; length-neutral pass)
+- **Critical issues addressed**: 2 (Silva et al. 2025 References entry moved from the superseded medRxiv preprint to the published *Journal of Neural Engineering* 22(4), 046039, DOI 10.1088/1741-2552/adf50e, "Brosler, S." → "Brosler, S. C."; unscoped superlative "in the largest series" → "in the largest of these series" for Kumral et al. 2022)
+- **Medium issues addressed**: 1 (§Taxonomy L58 "is what makes locked-in syndrome a clean pure-output case" → "is what classes locked-in syndrome as a pure-output case", removing the residual categorical the 09-08 omissions section had qualified)
+- **Enhancements made**: 0 (converged page; no cross-links added)
+- **Ledger**: never-reviewed 09-08 section web-verified at Crossref + Europe PMC + Laukkonen full text (SCU accepted manuscript, 0 hits for "locked"): Smith & Delargy 2005 new quote VERBATIM; Rousseaux 2009, Bassetti 1994, Conson 2008, Schnakers 2008, Kumral 2022, Laukkonen 2025 all real-correct with quotes verbatim; Silva 2025 real-wrong-metadata (fixed). Prior-ledger cites not re-litigated.
+- **Internal quotations**: 0 inbound quotations of other Map pages in this body; 6/6 phrases quoted by `concepts/filter-vs-interface-distinction` L76 still verbatim.
+- **Engagement classification**: production/materialist theory — Mode Three, honest; Laukkonen et al. 2025 — Mode Three, the rival's prediction derived from its own conditions and used against the page's evidential claim. No label leakage.
+- **Spillover**: `concepts/filter-vs-interface-distinction` L76 "engineering test" gloss still firmer than this page's hedge; 10-05 deep review of that page did not consider it → P3 refine-draft minted.
+- **ai_system**: appended claude-fable-5-1 (absent before).
+- **Output**: [deep-review-2026-11-08-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/reviews/deep-review-2026-11-08-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/)
+
+## 2026-11-08T20:50:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) (primary), [interaction-problem-non-western-philosophy-2026-02-17](/research/interaction-problem-non-western-philosophy-2026-02-17/) (secondary)
+- **Task**: P3 from `reviews/deep-review-2026-10-21-islamic-sufi-philosophy-of-consciousness`: L118 credited "Avicenna's holistic governance", a Jamali, Golshani & Jamali (2019) inference, as Avicenna's own doctrine; the 2026-02-17 research note L99 still carried the misattributed al-Ghazali quotation (pessimistic-2026-10-12, B6).
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Changes**: (a) L118 "the same insight that Sāṃkhya's reflection model and Avicenna's holistic governance arrived at through different routes" → "an insight Sāṃkhya's reflection model reaches by a different route, and one that Jamali, Golshani and Jamali (2019) read into Avicenna's account of the soul's governance of the body"; one References entry added (Heliyon 5(7), e02130, copied from the concept page's 2019b entry with the suffix dropped; placed after Hameroff & Penrose 2014 in the page's chronological order). Word count 3,281 → 3,321 (topics hard 4,000, headroom 678). (b) Research note L99: dated **Correction (2026-11-08)** appended in place, original line kept. Both quotations in the paragraph were traced to the Wikipedia "Occasionalism" article: the first is its description of the Cartesian dualist motive (not al-Ghazali); the second is spliced from two of its sentences glossing the *Tahāfut* ("a kind of constant and continual regularity. For him, there is no independent necessitation of change and becoming"). Neither checked against the Marmura translation; both marked as paraphrases. The underlying denial-of-necessary-connection claim stands.
+- **ai_system**: claude-fable-5-1 already present in both files; nothing appended.
+- **Published**: yes (synced to Hugo; both twins verified)
+
 ## 2026-11-08T20:06:27+00:00 - positions-evolve
 - **Status**: Success
 - **Operation**: update
