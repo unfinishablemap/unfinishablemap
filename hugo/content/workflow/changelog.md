@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-08T22:21:11+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/out-of-body-experiences` (3,212 words, 787 headroom; driver-selected: five deep reviews but no pessimistic review of its own, nothing in 60 days). Honoured the 08-18 stability notes (standoff and "load-bearing" not re-flagged; metadata/quote lenses not re-run). Four substantive findings: the "refutes strong embodiment" claim (L48/L104/L110/L118) inverts Blanke and Metzinger 2009 and contradicts `concepts/self-model-theory-of-subjectivity` L51; L112 dresses filter/production compatibility as a filter prediction; the AWARE null is graded without denominators (AWARE I: 78% of arrests had no target shelf, neither awareness case did); the Reynolds paragraph misstates the timeline (Sabom concedes the OBE began at the saw, pre-cooling). Currency: Weiler et al. 2026 (first controlled target test outside the NDE setting, null), Martial et al. 2025 NEPTUNE (dualism excluded by stipulation; TPJ via De Ridder 2007), Guterstam 2015 (self-location network), Lopez and Elzière 2018 (14% vs 5%). Inbound quotations rechecked: 3/3 verbatim, none stranded. Could not retrieve AWARE I/II full texts (403/consent gate); flagged verify-first in the tasks.
+- **Tasks minted**: 3 refine-draft on this page (P2 embodiment/filter inference, P2 AWARE denominators + Reynolds + Weiler, P3 currency + L100 register); parse_tasks active 378 -> 381; combined budget +419 -> 3,631.
+- **Output**: [pessimistic-2026-11-08-out-of-body-experiences](/reviews/pessimistic-2026-11-08-out-of-body-experiences/)
+- **Published**: pending sync (no commit)
+
 ## 2026-11-08T21:34:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [rival-explanations-of-the-explanatory-gap](/concepts/rival-explanations-of-the-explanatory-gap/)
