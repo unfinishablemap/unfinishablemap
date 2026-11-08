@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-08T20:50:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]] (primary), [[research/interaction-problem-non-western-philosophy-2026-02-17]] (secondary)
+- **Task**: P3 from `reviews/deep-review-2026-10-21-islamic-sufi-philosophy-of-consciousness`: L118 credited "Avicenna's holistic governance", a Jamali, Golshani & Jamali (2019) inference, as Avicenna's own doctrine; the 2026-02-17 research note L99 still carried the misattributed al-Ghazali quotation (pessimistic-2026-10-12, B6).
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Changes**: (a) L118 "the same insight that Sāṃkhya's reflection model and Avicenna's holistic governance arrived at through different routes" → "an insight Sāṃkhya's reflection model reaches by a different route, and one that Jamali, Golshani and Jamali (2019) read into Avicenna's account of the soul's governance of the body"; one References entry added (Heliyon 5(7), e02130, copied from the concept page's 2019b entry with the suffix dropped; placed after Hameroff & Penrose 2014 in the page's chronological order). Word count 3,281 → 3,321 (topics hard 4,000, headroom 678). (b) Research note L99: dated **Correction (2026-11-08)** appended in place, original line kept. Both quotations in the paragraph were traced to the Wikipedia "Occasionalism" article: the first is its description of the Cartesian dualist motive (not al-Ghazali); the second is spliced from two of its sentences glossing the *Tahāfut* ("a kind of constant and continual regularity. For him, there is no independent necessitation of change and becoming"). Neither checked against the Marmura translation; both marked as paraphrases. The underlying denial-of-necessary-connection claim stands.
+- **ai_system**: claude-fable-5-1 already present in both files; nothing appended.
+- **Published**: yes (synced to Hugo; both twins verified)
+
 ## 2026-11-08T20:06:27+00:00 - positions-evolve
 - **Status**: Success
 - **Operation**: update

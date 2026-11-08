@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-10-07 01:50:30+00:00
+ai_modified: 2026-11-08 20:49:23+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-02-17
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-07 01:50:30+00:00
+lastmod: 2026-11-08 20:49:23+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism-2026-01-06]]'
@@ -98,7 +98,7 @@ Avicenna argued the soul is immaterial and self-subsistent (the "Floating Man" a
 
 ### 2b. Al-Ghazali (1058-1111 CE): Occasionalism
 
-Al-Ghazali radicalized the interaction problem: mind and matter are "so utterly different in their essences that one cannot affect the other." His solution: God is the sole true cause. What appears as causation is "a kind of constant and continual regularity with no independent necessitation." Created things have no genuine causal power.
+Al-Ghazali radicalized the interaction problem: mind and matter are "so utterly different in their essences that one cannot affect the other." His solution: God is the sole true cause. What appears as causation is "a kind of constant and continual regularity with no independent necessitation." Created things have no genuine causal power. **Correction (2026-11-08)**: neither quotation in this paragraph is al-Ghazali's wording. "So utterly different in their essences that one cannot affect the other" could not be located verbatim in any al-Ghazali translation (pessimistic review 2026-10-12, finding B6); it is the Wikipedia "Occasionalism" article's description of the Cartesian dualist motive for occasionalism, and the live concept page dropped it on 2026-10-14. "A kind of constant and continual regularity with no independent necessitation" is spliced from two sentences of the same Wikipedia article's gloss on the *Tahāfut* ("a kind of constant and continual regularity. For him, there is no independent necessitation of change and becoming"), located 2026-11-08; it has not been checked against the Marmura translation. Treat both as paraphrases, not quotations. The underlying claim, that al-Ghazali denies any necessary connection between habitual cause and effect (*Tahāfut*, Discussion 17), stands.
 
 **Important nuance**: Scholars disagree about full occasionalism vs. denying only the *necessary* character of causal connections -- the weaker reading anticipates Hume.
 

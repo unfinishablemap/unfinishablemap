@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-10-13T03:44:03+00:00
+ai_modified: 2026-11-08T20:49:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ Quantum mechanics disrupted the assumptions underlying Leibniz's objection. The 
 
 **Von Neumann** (1932) gave the observer a special role, with his formalism distinguishing continuous evolution from discontinuous collapse upon measurement—but leaving "measurement" undefined. **Wigner** (1961) suggested consciousness itself might cause collapse. **Stapp** developed this into a detailed theory: mental attention acts like rapid quantum observation, holding desired neural patterns through the [[stapp-quantum-mind|quantum Zeno effect]] without adding energy. **Penrose and Hameroff** proposed an alternative: consciousness in quantum computations within neural microtubules, with gravitational self-collapse producing moments of experience.
 
-These proposals differ in structure as well as ancestry. Wigner claimed only that consciousness causes collapse; in Orch OR the conscious moment *is* the gravitational self-collapse, with no mind choosing the outcome. The feature the Map inherits belongs to Stapp's proposal and, by a separate neurophysiological route, to Beck and Eccles': consciousness *selects* among possibilities rather than *injecting* force—the same insight that Sāṃkhya's reflection model and Avicenna's holistic governance arrived at through different routes (see [[interaction-problem-across-traditions]]).
+These proposals differ in structure as well as ancestry. Wigner claimed only that consciousness causes collapse; in Orch OR the conscious moment *is* the gravitational self-collapse, with no mind choosing the outcome. The feature the Map inherits belongs to Stapp's proposal and, by a separate neurophysiological route, to Beck and Eccles': consciousness *selects* among possibilities rather than *injecting* force—an insight Sāṃkhya's reflection model reaches by a different route, and one that Jamali, Golshani and Jamali (2019) read into Avicenna's account of the soul's governance of the body (see [[interaction-problem-across-traditions]]).
 
 ### The Conservation Objection Reconsidered
 
@@ -197,6 +197,7 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1): 39–78.
+1. Jamali, M., Golshani, M., and Jamali, Y. (2019). "A proposed mechanism for mind-brain interaction using extended Bohmian quantum mechanics in Avicenna's monotheistic perspective." *Heliyon*, 5(7), e02130. https://doi.org/10.1016/j.heliyon.2019.e02130
 1. Cucu, A. C. & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter* 17(1): 95–121.
 1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia* 48(2): 673–707.
 1. Ebbersmeyer, S. & Hutton, S. (eds.) (2021). *Elisabeth of Bohemia (1618–1680): A Philosopher in her Historical Context*. Springer.
