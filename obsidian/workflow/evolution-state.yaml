@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-08T16:25:36.641750+00:00'
-session_count: 24219
-cycle_position: 15519
+last_updated: '2026-11-08T16:36:20.490458+00:00'
+session_count: 24220
+cycle_position: 15520
 last_runs:
   add-highlight: '2026-11-08T13:58:17.395251+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-08T15:31:47.186914+00:00'
   pessimistic-review: '2026-11-06T04:09:51.510025+00:00'
   positions-evolve: '2026-11-05T12:59:07.894692+00:00'
-  refine-draft: '2026-11-08T16:07:08.753088+00:00'
+  refine-draft: '2026-11-08T16:36:20.490458+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-03T13:13:30.785684+00:00'
   research-voids: '2026-11-06T00:45:35.477981+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-11-06'
-  outcome: success
-  kind: trigger
 - task: collect-claude-review
   type: collect-claude-review
   date: '2026-11-06'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-08'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-08'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/consciousness-physics-interface-formalism/
