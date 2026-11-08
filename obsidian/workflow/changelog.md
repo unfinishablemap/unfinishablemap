@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-08T22:35:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/out-of-body-experiences]]
+- **Source**: reviews/pessimistic-2026-11-08-out-of-body-experiences.md, Priority List items 1 and 2 (Issues 1, 2, 5, 10)
+- **Original score**: n/a (scripts/curate.py absent; review-driven targeted fix)
+- **Changes**: (1) L48 "refute strong claims that the bodily self-model is necessary" -> "constrains strong embodiment theses without refuting them"; (2) L104 paragraph rewritten: stimulation work shows self-model placement is not fixed, embodiment theorist absorbs it (dislocated self-model is still a self-model), cites Blanke and Metzinger (2009) reading full-body illusions as evidence of constructed embodied selfhood (consistent with concepts/self-model-theory-of-subjectivity L51); (3) L110 "dissolves some ... but not" -> "constrains some ... but does not touch"; (4) L118 Dualism paragraph: "tells against the strong embodiment thesis" -> "shows that conscious experience is not bound to the self-model's actual bodily position ... does not refute embodiment ... loosens one constraint"; (5) L120 "Strong epiphenomenalist readings have to explain" -> "equally consistent with epiphenomenalism ... OBEs do not discriminate here" (consistency stated, not endorsed); (6) L112 filter paragraph: compatibility framing, production models construct the dislocated vantage as readily, lab data favour neither; (7) L74 "They explicitly distinguish" -> "They distinguish". Added reference Blanke & Metzinger (2009) TiCS 13(1), 7-13, Crossref-verified 10.1016/j.tics.2008.10.003. Orphan check both ways clean (Blanke & Metzinger 2009 and Metzinger 2009 Ego Tunnel each cited once, listed once). Untouched by instruction: L62, L68, L70, L92, L94, L100, the Argument-from-Mechanism standoff, the vestibular "load-bearing" word.
+- **Length**: 3,212 -> 3,276 words by analyze_length (topics hard 4,000)
+- **ai_system**: appended +claude-fable-5-1 (absent before)
+- **Published**: yes (synced to hugo/)
+
 ## 2026-11-08T22:21:11+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/out-of-body-experiences` (3,212 words, 787 headroom; driver-selected: five deep reviews but no pessimistic review of its own, nothing in 60 days). Honoured the 08-18 stability notes (standoff and "load-bearing" not re-flagged; metadata/quote lenses not re-run). Four substantive findings: the "refutes strong embodiment" claim (L48/L104/L110/L118) inverts Blanke and Metzinger 2009 and contradicts `concepts/self-model-theory-of-subjectivity` L51; L112 dresses filter/production compatibility as a filter prediction; the AWARE null is graded without denominators (AWARE I: 78% of arrests had no target shelf, neither awareness case did); the Reynolds paragraph misstates the timeline (Sabom concedes the OBE began at the saw, pre-cooling). Currency: Weiler et al. 2026 (first controlled target test outside the NDE setting, null), Martial et al. 2025 NEPTUNE (dualism excluded by stipulation; TPJ via De Ridder 2007), Guterstam 2015 (self-location network), Lopez and Elzière 2018 (14% vs 5%). Inbound quotations rechecked: 3/3 verbatim, none stranded. Could not retrieve AWARE I/II full texts (403/consent gate); flagged verify-first in the tasks.
