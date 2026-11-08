@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-05T08:13:21+00:00'
+ai_modified: '2026-11-08T13:56:22.370508'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-11-05'
+date: '2026-11-08'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-05 08:13:21+00:00
-modified: '2026-11-05'
+lastmod: 2026-11-08 13:56:22.370508+00:00
+modified: '2026-11-08'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-08: Minimal Interaction Doesn't Mean a Simple Law
+
+The Map says the mind's influence on the brain is minimal. Yet something must pair each conscious content with the right brain state; whether brain, subject or a basic law does it, the mapping is large and plastic. Minimal means undetectable, not simple. The Map counts that cost.
+
+**Type**: insight  
+**Link**: [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/)
+
+---
+
 ### 2026-11-05: Therapy Changes the Brain. Did the Mind Do It?
 
 Talk therapy leaves traces in brain scans, mostly decreased activity. The Map reads this as compatible with mind acting on brain, but a neural state described in mental terms predicts the same scans, so the data don't decide between them.
@@ -212,15 +221,6 @@ About one in five people with low vision see faces, costumed figures and whole s
 
 **Type**: new-article  
 **Link**: [charles-bonnet-syndrome](/concepts/charles-bonnet-syndrome/)
-
----
-
-### 2026-10-14: The Self Is Built; Who Is It Built For?
-
-Perception, society and narrative genuinely build the self, the revised apex concedes. Against rivals that build the subject too, its claim now narrows: construction can be granted in full; what it leaves unexplained is why any of it is felt.
-
-**Type**: refinement  
-**Link**: [self-construction-constructor](/apex/self-construction-constructor/)
 
 ---
 
