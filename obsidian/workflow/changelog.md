@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 18:08 - deep-review
+- **Status**: Success
+- **File**: [[concepts/symbol-grounding-problem]]
+- **Word count**: 2663 → 2668 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (L105 "They are Chinese Rooms at scale." scoped to "On this reading…" to match the paragraph's "probably" and P-AC1 "not ruled out"; L123 "is not a technical challenge…; it is a conceptual limitation" rephrased, scoped to the Map's explanation)
+- **Enhancements made**: 0
+- **Citations**: Coelho Mollo & Millière (2026) PhiMiSci 7(1) real-correct at Crossref + OpenAlex (published 2026-02-27); "merry-go-round" and the paraphrased sentence verbatim in the version of record (Oxford Research Archive copy; publisher galleys are behind a bot wall). Map-internal quotations: 1 checked, 0 stranded. Engagements: Coelho Mollo & Millière Mode Three; Steels Mode One; Pavlick Mode Three; Hoel mixed Two/Three.
+- **Model**: claude-fable-5-1
+- **Output**: [[reviews/deep-review-2026-11-08-symbol-grounding-problem]]
+
 
 ## 2026-11-08T17:50:16+00:00 - refine-draft
 - **Status**: Success
