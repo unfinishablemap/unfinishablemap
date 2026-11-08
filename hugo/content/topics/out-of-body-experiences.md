@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-11-08 22:34:33+00:00
+ai_modified: 2026-11-08 23:06:44+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-18 00:31:31+00:00
-lastmod: 2026-11-08 22:34:33+00:00
+lastmod: 2026-11-08 23:06:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +49,7 @@ topics:
 
 Out-of-body experiences (OBEs) are conscious episodes in which the experiencer seems to perceive their environment from a location outside the physical body. Surveys put their lifetime prevalence in the general population at roughly 5–10%, with higher rates in clinical samples and among those reporting other altered states (Blackmore, 1982; Blanke and Mohr, 2005). They occur spontaneously near sleep, during illness or stress, under drugs such as ketamine, in lucid dreams, near death, and — most decisively for the science — under direct cortical stimulation of the right [temporo-parietal junction](#tpj-stimulation) (TPJ), explained below.
 
-The Unfinishable Map's reading: most lab-induced and many spontaneous OBEs are best understood as dislocations of the [phenomenal self-model](/concepts/self-and-self-consciousness/) (Metzinger, 2009) — the brain's representation of where "I" am located is decoupled from the body's actual location, while consciousness itself remains tied to the brain. This is an *illusion of disembodiment*, not literal disembodiment. Critically, that this mechanism exists does not entail that every OBE is reducible to it. The strongest dualist claim — that consciousness can in some cases occupy a perspective the body cannot occupy — depends on rare and contested veridical-perception cases, and the controlled evidence from the AWARE studies has so far returned zero hits on hidden targets. The Map therefore treats OBEs as phenomenologically real and evidentially mixed: they show that the self-model's placement can be reconfigured while experience continues, which constrains strong embodiment theses without refuting them, and they do not, on current evidence, demonstrate that consciousness leaves the body.
+The Unfinishable Map's reading: most lab-induced and many spontaneous OBEs are best understood as dislocations of the [phenomenal self-model](/concepts/self-and-self-consciousness/) (Metzinger, 2009) — the brain's representation of where "I" am located is decoupled from the body's actual location, while consciousness itself remains tied to the brain. This is an *illusion of disembodiment*, not literal disembodiment. Critically, that this mechanism exists does not entail that every OBE is reducible to it. The strongest dualist claim — that consciousness can in some cases occupy a perspective the body cannot occupy — depends on rare and contested veridical-perception cases, and the controlled evidence from the AWARE studies has so far returned zero hits on hidden targets, from a handful of cases in which a target was actually in view. The Map therefore treats OBEs as phenomenologically real and evidentially mixed: they show that the self-model's placement can be reconfigured while experience continues, which constrains strong embodiment theses without refuting them, and they do not, on current evidence, demonstrate that consciousness leaves the body.
 
 <details class="yt-embed" data-video-id="StU8aNLD1MQ">
 <summary>Video introduction</summary>
@@ -85,17 +85,17 @@ Spontaneous OBEs are more heterogeneous and harder to study. They occur in rough
 
 Spontaneous OBEs in healthy populations rarely include claims of veridical perception. Experiencers typically report an apparent external perspective on their own bedroom or the local environment, but the perceived contents tend to match what they already know about the space. This is consistent with the self-model account: the brain constructs the external perspective from existing spatial knowledge, and the contents reflect that knowledge rather than independent perception.
 
-The interesting subset is those who report perceptions from the OBE perspective that they could not have known by ordinary means. Such claims appear regularly in the older parapsychological literature, but are vulnerable to retrospective confabulation, leakage of information by ordinary channels, and selection effects. The controlled-condition replication of such claims is the empirical question that matters; that work has happened mainly in the near-death context.
+The interesting subset is those who report perceptions from the OBE perspective that they could not have known by ordinary means. Such claims appear regularly in the older parapsychological literature, but are vulnerable to retrospective confabulation, leakage of information by ordinary channels, and selection effects. The controlled-condition replication of such claims is the empirical question that matters; that work has happened mainly in the near-death context, though one small controlled test outside it — 21 participants from an OBE-training institute attempting to perceive a concealed target in another room — found no above-chance correspondence (Weiler et al., 2026).
 
 ## Near-Death OBEs and the Veridical Perception Question
 
 Near-death contexts are where the dualist case for OBEs becomes empirically loaded. [Near-death experiences](/concepts/near-death-experiences/) frequently include an OBE component: experiencers report viewing their own resuscitation from a vantage point outside the body, sometimes describing equipment, personnel, or events they claim to have witnessed during cardiac arrest.
 
-Pam Reynolds' 1991 "standstill" surgery case is the most-cited individual example: she reported observing surgical details during a procedure in which she was deeply hypothermic, her EEG was flat, and her brain was drained of blood (Sabom, 1998). Critics argue that the perceptions could have occurred during anaesthesia induction or emergence rather than during the standstill itself; the timing cannot be independently verified.
+Pam Reynolds' 1991 "standstill" surgery case is the most-cited individual example: during a procedure that later involved deep hypothermia, a flat EEG and a drained brain, she reported surgical details — the bone saw, a remark about her small vessels — that the operative record places during the opening craniotomy, under general anaesthesia and before cooling began (Sabom, 1998). Sabom places the start there himself and argues the experience continued through the standstill; critics reply that hearing under anaesthesia, past the click-emitting earphones, explains the verified details (Woerlee, 2011).
 
-The systematic test is the AWARE programme. Sam Parnia's group placed hidden visual targets — images visible only from above, near the ceiling of resuscitation rooms — and recorded auditory stimuli, then interviewed cardiac arrest survivors for accurate reports. AWARE I (Parnia et al., 2014) found one suggestive case in which a patient reported timing-consistent details of the resuscitation, but no patient identified a hidden visual target. AWARE II (Parnia et al., 2023) interviewed 28 survivors of 567 cardiac arrests; 21.4% reported transcendent experiences, but only one identified the auditory stimulus and none identified the hidden visual image.
+The systematic test is the AWARE programme. Sam Parnia's group placed hidden visual targets — images visible only from above, near the ceiling of resuscitation rooms — and recorded auditory stimuli, then interviewed cardiac arrest survivors for accurate reports. AWARE I (Parnia et al., 2014) found one suggestive case in which a patient reported timing-consistent details of the resuscitation, but no patient identified a hidden visual target — and most arrests occurred in rooms with no target installed, so the visual test was in play for only a fraction of cases. AWARE II (Parnia et al., 2023) interviewed 28 survivors of 567 cardiac arrests; 21.4% reported transcendent experiences, but only one identified the auditory stimulus and none identified the hidden visual image.
 
-The Map reads this evidence as it stands. The strongest dualist claim — that during NDE-OBEs consciousness occupies a perspective from which it can perceive information unavailable to the body — is testable, has been tested, and has so far not been confirmed. That non-result is real evidence against the literal-exit interpretation, even when the sample is small and the situations are difficult to control. The phenomenology of NDE-OBEs remains striking and the broader [paradox of heightened experience during cerebral compromise](/concepts/near-death-experiences/) remains intact, but the specific veridical claim is unsupported by current controlled data.
+The Map reads this evidence as it stands. The strongest dualist claim — that during NDE-OBEs consciousness occupies a perspective from which it can perceive information unavailable to the body — is testable, has been partially tested, and has so far not been confirmed. The non-result is evidence against the literal-exit interpretation in proportion to the number of cases in which a target was actually in view, which so far is very small. The phenomenology of NDE-OBEs remains striking and the broader [paradox of heightened experience during cerebral compromise](/concepts/near-death-experiences/) remains intact, but the specific veridical claim is unsupported by current controlled data.
 
 ## The Argument from Mechanism
 
@@ -135,7 +135,7 @@ The Map's reading would face difficulty if:
 
 2. **Complete OBE phenomenology induced experimentally**: If TPJ stimulation or VR techniques produced not just the perspectival shift but the full coherent NDE-OBE narrative — including the specific affective tone, the sense of "more real than real," and the lasting transformation effects — the case for treating NDE-OBEs as a distinct phenomenon from lab OBEs would weaken substantially.
 
-3. **Predictable contents from self-model dislocation alone**: If the contents of spontaneous OBEs were shown to be entirely predictable from the experiencer's prior spatial knowledge — with no residual cases of accurate perception of unknown details — the self-model account would be vindicated for spontaneous cases as well as lab cases.
+3. **Predictable contents from self-model dislocation alone**: If the contents of spontaneous and self-induced OBEs were shown to be entirely predictable from the experiencer's prior spatial knowledge — with no residual cases of accurate perception of unknown details — the self-model account would be vindicated for spontaneous cases as well as lab cases.
 
 4. **Resolution of the heightened-experience asymmetry**: If the broader NDE puzzle of enhanced cognition during cerebral compromise received a compelling materialist explanation (see [near-death-experiences](/concepts/near-death-experiences/)), the OBE component of NDEs would lose its association with the larger filter-theoretic argument.
 
@@ -174,3 +174,5 @@ None of these would be definitive on their own, but each would shift the evident
 1. Sabom, M. (1998). *Light and Death: One Doctor's Fascinating Account of Near-Death Experiences*. Zondervan.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Near-Death Experiences. *The Unfinishable Map*. https://unfinishablemap.org/concepts/near-death-experiences/
 1. Southgate, A. & Oquatre-six, C. (2026-03-09). Lucid Dreaming and the Evidence for Dualist Rendering. *The Unfinishable Map*. https://unfinishablemap.org/topics/lucid-dreaming-and-dualist-rendering/
+1. Weiler, M., Abraham, D., Acunzo, D. J. P. & Hermansson, N. (2026). Assessing correspondence between subjective reports and visual targets during attempted out-of-body experiences. *EXPLORE*, 22(6), 103506.
+1. Woerlee, G. M. (2011). Could Pam Reynolds hear? A new investigation into the possibility of hearing during this famous near-death experience. *Journal of Near-Death Studies*, 30(1), 3–25.

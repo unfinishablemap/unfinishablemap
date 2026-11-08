@@ -5,6 +5,21 @@ ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-08T23:07:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/out-of-body-experiences]]
+- **Source**: reviews/pessimistic-2026-11-08-out-of-body-experiences.md, Priority List items 3 and 4 (Issues 3, 4, 6)
+- **Original score**: n/a (scripts/curate.py absent; review-driven targeted fix)
+- **Length**: analyze_length 3,276 → 3,437 words (topics hard 4,000, gate >=; headroom 563; sibling P3 task needs +191 → 3,628)
+- **Verify-first outcome (item 3)**: Parnia et al. (2014) FULL TEXT NOT OBTAINED — Europe PMC (not in PMC, subscription only), Semantic Scholar (openAccessPdf CLOSED), Unpaywall (is_oa false), CORE API (403), Horizon Research Foundation (DNS failure), UHRA uhra.herts.ac.uk/handle/2299/19689 (connection refused). The 78% / "both awareness patients in unequipped rooms" figure rests only on the Psi Encyclopedia's AWARE article and was NOT installed. Took the fallback path: L92 phrased as "most arrests occurred in rooms with no target installed, so the visual test was in play for only a fraction of cases" (no percentage, no claim about which rooms the two awareness patients were in). The "most" clause itself still rests on the Psi Encyclopedia's report of the 2014 paper, not on the primary text; flag for a future primary-text confirmation.
+- **Changes**: L48 appended ", from a handful of cases in which a target was actually in view."; L84 appended the Weiler et al. (2026) controlled-target null (21 participants from an OBE-training institute, concealed target in another room, "no evidence of above-chance performance" — wording taken from the Europe PMC abstract, PMID 42617381; "trained practitioners" in the review softened to "participants from an OBE-training institute" to match the abstract); L90 Reynolds rewritten: standstill separated from the timed perceptions (saw and small-vessels remark placed by the operative record during the opening craniotomy, under general anaesthesia and before cooling; Sabom, 1998), Sabom's own placement of the start plus his continuation argument, critics' hearing-past-the-earphones reply (Woerlee, 2011) — replaces the unsourced "induction or emergence" timing objection; L92 fallback clause above; L94 "has been tested" → "has been partially tested" and the non-result re-graded in proportion to cases with a target in view; L134 falsifier 3 "spontaneous OBEs" → "spontaneous and self-induced OBEs". No Sabom 2007 citation added (budget); the concession is phrased as Sabom's own placement of the start, which Light and Death (1998) supports. Items 1–2 (22:34Z) untouched; P3 sibling lines (L68, L70, L100) untouched; sibling page concepts/near-death-experiences L106 (origin of the "induction or emergence" phrase) deliberately NOT edited — reported for that page's next review.
+- **References added**: Weiler, M., Abraham, D., Acunzo, D. J. P. & Hermansson, N. (2026). *EXPLORE*, 22(6), 103506 — VERIFIED at Crossref 10.1016/j.explore.2026.103506 and Europe PMC PMID 42617381 (author list and venue copied from Crossref; Crossref issue date 2026-11, Europe PMC print date 2026-08 — year only is cited). Woerlee, G. M. (2011). *Journal of Near-Death Studies*, 30(1), 3–25 — VERIFIED at UNT Digital Library ark:/67531/metadc461684 (DOI 10.17514/JNDS-2011-30-1-p3-25) and Crossref.
+- **Orphan check (surname, year), both ways**: in-text Sabom 1998, Woerlee 2011, Weiler et al. 2026, Parnia et al. 2014, Parnia et al. 2023 all have reference entries; new reference entries Weiler 2026 and Woerlee 2011 each anchored once in the body. No Sabom 2007 mention.
+- **Pronoun check**: rewritten L90 still opens "Pam Reynolds' 1991 \"standstill\" surgery case is the most-cited individual example: during a procedure…"; "she" resolves to Reynolds; L94 "The non-result" has a full subject.
+- **Sync**: scripts/sync.py run; "has been partially tested" 1, "Woerlee" 2, "Weiler" 2 in both obsidian/ and hugo/content/ copies.
+- **Attribution**: ai_system already carries claude-fable-5-1 (this session's model); nothing appended. ai_modified set from `date -u`.
+- **Published**: yes
+
 ## 2026-11-08T22:35:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/out-of-body-experiences]]
