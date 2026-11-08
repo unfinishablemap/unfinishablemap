@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-08T21:34:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/rival-explanations-of-the-explanatory-gap]]
+- **Task**: P3 (optimistic-2026-10-21-scorekeeping-wing, Priority List item 3): L101 omits the content-efficacy condition on C3
+- **Verify-first**: `topics/acquaintance-without-causation` §content-efficacy (L100-L110) was re-read on disk; the 2026-11-03 edit renamed "Bare interactionism" to "Plain interactionism" but the premise stands (L106: plain interactionism "does no better than epiphenomenalism at the use and voice channels"; a report not caused by the experience's being the experience it is "is not voiced from that experience"). No quotation inserted; the condition is attributed to the Map's acquaintance article, not to Chalmers (L69).
+- **Changes**: Applied the review's exact OLD→NEW at L101 (Relation to Site Perspective, Bidirectional Interaction): appended "The [[acquaintance-without-causation#content-efficacy|acquaintance article]] adds a condition: those judgments are held or voiced from experience only if consciousness produces them in virtue of what it presents." Review placement kept (before "The Map holds that role as available rather than actual"); "that role" now refers to consciousness producing the judgments in virtue of what it presents, the role the acquaintance page itself books as a posit. Following sentences unchanged. First link from this page to the acquaintance article.
+- **Length**: 3,046 → 3,071 (analyze_length; concepts hard 3,500, headroom 428)
+- **Attribution**: `ai_system` deduplicated from `claude-fable-5-1+claude-fable-5-1` to `claude-fable-5-1` (this session is claude-fable-5-1; keep-last rule, no append)
+- **Render check**: Hugo output carries `/topics/acquaintance-without-causation/#content-efficacy`; `{#content-efficacy}` anchor present in `hugo/content/topics/acquaintance-without-causation.md`
+- **Published**: yes (synced, uncommitted)
+
 ## 2026-11-08T21:20:31+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/agent-causation-and-acting-for-reasons]], [[topics/the-divided-will]]

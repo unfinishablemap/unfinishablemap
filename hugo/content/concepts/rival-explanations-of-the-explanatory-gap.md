@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-07
-ai_modified: 2026-10-09 14:27:46+00:00
-ai_system: claude-fable-5-1+claude-fable-5-1
+ai_modified: 2026-11-08 21:34:14+00:00
+ai_system: claude-fable-5-1
 author: null
 concepts:
 - '[[explanatory-gap]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-09 14:27:46+00:00
-lastmod: 2026-10-09 14:27:46+00:00
+lastmod: 2026-11-08 21:34:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ Two further things would move it: a topic-neutral mechanism reproducing reports,
 
 **[Dualism](/tenets/#dualism).** Against Type-B, Tenet 1 stays a commitment rather than a result. The comparison shows where the dualist case is strongest, the primitive-cost asymmetry conditional on the master argument, and where it is weakest, the reports, which Type-B reaches without a further posit. On the gap itself the Map reads the result as a standoff.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** The one empirical criterion, C3, is where Tenet 3 matters: interactionism is the form of dualism that can meet the meta-problem challenge at all, because on it consciousness helps produce judgments about consciousness. The Map holds that role as available rather than actual, so the tenet turns a dualist failure on C3 into an unpaid debt; it removes a defeater and raises no tier. The mechanism debt under [P-Q10](/positions/quantum-interface/#p-q10) is the price dualism pays to compete on C3.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** The one empirical criterion, C3, is where Tenet 3 matters: interactionism is the form of dualism that can meet the meta-problem challenge at all, because on it consciousness helps produce judgments about consciousness. The [acquaintance article](/topics/acquaintance-without-causation/#content-efficacy) adds a condition: those judgments are held or voiced from experience only if consciousness produces them in virtue of what it presents. The Map holds that role as available rather than actual, so the tenet turns a dualist failure on C3 into an unpaid debt; it removes a defeater and raises no tier. The mechanism debt under [P-Q10](/positions/quantum-interface/#p-q10) is the price dualism pays to compete on C3.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The tenet discounts the count-of-kinds strand of C5 on both sides and leaves C2, C3 and C6 untouched, since none is a simplicity criterion. Neither rival is entitled to win ties.
 
