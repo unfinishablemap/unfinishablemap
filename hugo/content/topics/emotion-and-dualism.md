@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-23 20:51:11+00:00
+ai_modified: 2026-11-08 19:18:57+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 19:20:41+00:00
-lastmod: 2026-10-23 20:51:11+00:00
+lastmod: 2026-11-08 19:18:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,9 +86,9 @@ Pain asymbolia cases reveal which account is correct. Patients with damage to sp
 
 Pain asymbolia does more than settle the hedonic-evaluativist debate. On the Map's reading it provides the strongest empirical case for dualism, by bearing on the causal standing of phenomenal properties and not only on their reducibility.
 
-The dissociation presses hard against functionalism. The representation exists—patients accurately represent tissue damage. The functional machinery operates—nociceptive signals reach the brain, defensive circuits are intact. The felt quality is absent—despite intact representation and intact functionality, the intrinsic badness is gone. And motivation collapses—without the felt quality, patients do not care enough to act.
+The dissociation presses hard against functionalism. The representation exists—patients accurately represent tissue damage. The sensory-discriminative machinery operates—nociceptive signals reach the brain and the stimulus is localised. The felt quality is absent—despite intact representation and intact discrimination, the intrinsic badness is gone, and with it the affective-motivational drive. And motivation collapses—without the felt quality, patients do not care enough to act.
 
-Standard arguments for dualism—the conceivability argument, the knowledge argument, the explanatory gap—establish that phenomenal properties are not *reducible* to physical properties. A common materialist response accepts irreducibility while denying causal relevance: perhaps phenomenal properties are [epiphenomenal](/concepts/epiphenomenalism/), riding atop physical processes without influencing them. Emotion blocks that retreat in its bare-correlation form. When the felt badness is present, avoidance is robust. When absent—despite identical functional pain processing—motivation deteriorates, and an epiphenomenalism on which felt quality merely accompanies the functional story owes an account of why the accompaniment tracks behaviour this closely.
+Standard arguments for dualism—the conceivability argument, the knowledge argument, the explanatory gap—establish that phenomenal properties are not *reducible* to physical properties. A common materialist response accepts irreducibility while denying causal relevance: perhaps phenomenal properties are [epiphenomenal](/concepts/epiphenomenalism/), riding atop physical processes without influencing them. Emotion blocks that retreat in its bare-correlation form. When the felt badness is present, avoidance is robust. When absent—despite intact sensory-discriminative processing—motivation deteriorates, and an epiphenomenalism on which felt quality merely accompanies the functional story owes an account of why the accompaniment tracks behaviour this closely.
 
 The block reaches that far and no further. The [phenomenal-concept](/concepts/phenomenal-concepts-strategy/) version of epiphenomenalism survives the same pressure, and the Map concedes it: [P-MC1](/positions/arguments-for-mental-causation/#p-mc1) records that the Map's strongest anti-epiphenomenalism argument binds bare correlation and relocates the dispute rather than ending it. Emotion inherits that scope. Asymbolia shows where the difference appears; it does not show that the phenomenal property is what makes it.
 

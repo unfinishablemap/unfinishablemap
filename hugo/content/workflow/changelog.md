@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-08T19:18:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [emotion-and-dualism](/topics/emotion-and-dualism/)
+- **Original score**: n/a (targeted P3 fix; `scripts/curate.py` absent)
+- **Changes**: L85 "The functional machinery operates—nociceptive signals reach the brain, defensive circuits are intact. The felt quality is absent—despite intact representation and intact functionality, the intrinsic badness is gone." → "The sensory-discriminative machinery operates—nociceptive signals reach the brain and the stimulus is localised. The felt quality is absent—despite intact representation and intact discrimination, the intrinsic badness is gone, and with it the affective-motivational drive."; L87 "despite identical functional pain processing" → "despite intact sensory-discriminative processing". Both now match L57's 2026-10-21 narrowing and `concepts/pain-asymbolia` / `co-optimization-reply-to-the-correlation-problem` (affective-motivational substrate lost, protective behaviour degrades). Pressure argument against bare-correlation epiphenomenalism preserved, resting on the component that is actually intact. `apex/minds-without-words` L111 carries the sensory/affective split conceptually but not the "sensory-discriminative" phrase, so L57 was the wording model. Length 3,398 → 3,404 by analyze_length (topics hard 4,000). L107 and L212 untouched (separate open P3s).
+- **Published**: yes
+
 ## 2026-11-08T19:06:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [emergence](/concepts/emergence/) (primary) + 8 secondary files
