@@ -10,6 +10,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-08T20:06:27+00:00 - positions-evolve
+- **Status**: Success
+- **Operation**: update
+- **Position**: [P-MS2](/positions/moral-status/#p-ms2) ([moral-status](/positions/moral-status/))
+- **Task**: P3 from `reviews/deep-review-2026-10-21-moral-status-threshold-or-degrees` L80–81 ledger: L63 registered "DeGrazia's sliding scale (2008)" as a gradualist rival of record, though DeGrazia 2008 says of degrees of status "an issue I leave open" (p. 195) and DeGrazia 2012 would tentatively "drop the idea of levels of moral status".
+- **Changes**: [P-MS2](/positions/moral-status/#p-ms2) *Asserts* "The rivals of record are the gradualists: Kagan's *limited hierarchy* (*How to Count Animals, more or less*, 2019) and DeGrazia's sliding scale (2008), joined on the second-threshold question by McMahan's two tiers (2008)" → "The gradualist rival of record is Kagan's *limited hierarchy* (*How to Count Animals, more or less*, 2019), joined on the second-threshold question by McMahan's two tiers (2008)" (−6 words; DeGrazia dropped rather than recharacterised, the topic page L45 and L75 already carrying his open verdict and the Rossi-sense terminology). Sebo clause kept. [P-MS2](/positions/moral-status/#p-ms2) *Last reviewed* 2026-09-16 → 2026-11-08. Register 2,821 → 2,815 words (positions hard 2,500; still over). Hedging unchanged — the rival list moves, the entry's wording does not.
+- **Dated note withheld**: no "Updated" note written in the register or the sidecar `positions/moral-status-calibration-history` (3,682 words), following the 2026-10-31 [P-MS1](/positions/moral-status/#p-ms1) precedent under the open NEEDS-HUMAN on the moral-status split (todo L3209): neither file can carry one. Sidecar not edited.
+- **Bands**: [P-MS2](/positions/moral-status/#p-ms2) credence held at *low*, [P-MS1](/positions/moral-status/#p-ms1) at *moderate*. Removing a mis-registered rival changes who the Map argues against, not the standing of the equality argument or the fixed-stakes case; Kagan's limited hierarchy and McMahan's second threshold remain the live pressure, and nothing in DeGrazia's open verdict supports or weakens the threshold reading.
+- **[P-MS1](/positions/moral-status/#p-ms1) check**: its fourth shift-limb ("overinclusiveness and marginal-cases pressure … force grading status itself rather than only stakes") names no proponent, and [P-MS1](/positions/moral-status/#p-ms1) never cites DeGrazia (register grep: L63 only); left untouched.
+- **Cascade**: no `Depends on` line in the register names [P-MS2](/positions/moral-status/#p-ms2) (the only hits are history notes in the sidecar); nothing downstream to re-audit.
+- **Topic page**: [moral-status-threshold-or-degrees](/topics/moral-status-threshold-or-degrees/) lead (L37) echoed the register's list verbatim — "The register's gradualist rivals of record are Kagan's limited hierarchy and DeGrazia's sliding scale; this article adds McMahan's two tiers" → "The register's gradualist rival of record is Kagan's limited hierarchy; this article adds McMahan's two tiers" (−4 words, 3,014 → 3,010; topics hard 4,000). L43–45 already agree (L45 reads DeGrazia's Unequal Interests Model as the same view, degrees-of-status terminological in Rossi's sense). ai_system unchanged on both files (claude-fable-5-1 already present).
+- **Published**: yes (synced; "DeGrazia's sliding scale" 0 and the new clauses 1 in both obsidian and hugo twins; commit left to orchestrator)
+
+## 2026-11-08T19:33:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Original score**: n/a (targeted fix from `reviews/deep-review-2026-10-21-moral-status-threshold-or-degrees` L128 note)
+- **Changes**: Recast the Tenet 5 paragraph (L122) so Occam's Razor Has Limits targets a binary treatment of what consciousness *contains* (full or empty, rich or blank) rather than of whether a subject is present at all, which L36 deliberately leaves open and on which `topics/moral-status-threshold-or-degrees#presence` rests. Per the Tenet 5 calibration (`tenets/tenets.md` "Application to the Map's own arguments"), the sentence now withholds the Map's assent to the simpler binary description instead of declaring the binary view a mere preference. Kept the irreducibly-graded and no-single-scalar sentences (both concern degree); replaced the stranded "compound this" with "compound the resistance"; added a closing clause deferring presence to L36 without duplicating its wikilink. Length 2,528 → 2,553 words (concepts hard 3,500). Synced to Hugo; `tenets#^occams-limits` anchor renders as `/tenets/#occams-limits`.
+- **Published**: yes
+
+
 ## 2026-11-08T19:18:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [emotion-and-dualism](/topics/emotion-and-dualism/)

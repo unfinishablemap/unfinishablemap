@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-10-21 20:35:56+00:00
+ai_modified: 2026-11-08 20:05:28+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[illusionism]]'
 - '[[integrated-information-theory]]'
 created: 2026-09-06
-date: &id001 2026-10-21
+date: &id001 2026-11-08
 description: 'Human-AI inquiry into whether moral status is a threshold or a magnitude:
   one threshold at valenced experience, everything else graded as stakes, tested against
   Kagan, McMahan and Buchanan.'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 20:35:56+00:00
-lastmod: 2026-10-21 20:35:56+00:00
+lastmod: 2026-11-08 20:05:28+00:00
 modified: *id001
 related_articles:
 - '[[positions/moral-status]]'
@@ -38,7 +38,7 @@ topics:
 - '[[phenomenal-value-realism]]'
 ---
 
-Moral status, on the Map's account, has one threshold and no degrees. Whatever has the capacity for valenced experience — experience that feels good or bad to its subject — has moral status equally with every other bearer; everything that varies between bearers (welfare range, the intensity and richness of experience, what death would take) is graded as *stakes*, which carry all the differential treatment hierarchists put into status. The register holds this as [P-MS2](/positions/moral-status/#p-ms2). In the field's vocabularies it is Kagan's *unitarianism* (2019), DeGrazia's *Unequal Interests Model* (2008), and Wendler's thesis that there are no *status-enhancing* properties (2023); its published defenders reach it without any view about what minds are, and the Map holds it on their grounds too. The register's gradualist rivals of record are Kagan's limited hierarchy and DeGrazia's sliding scale; this article adds McMahan's two tiers — equal consideration below a line, respect above it.
+Moral status, on the Map's account, has one threshold and no degrees. Whatever has the capacity for valenced experience — experience that feels good or bad to its subject — has moral status equally with every other bearer; everything that varies between bearers (welfare range, the intensity and richness of experience, what death would take) is graded as *stakes*, which carry all the differential treatment hierarchists put into status. The register holds this as [P-MS2](/positions/moral-status/#p-ms2). In the field's vocabularies it is Kagan's *unitarianism* (2019), DeGrazia's *Unequal Interests Model* (2008), and Wendler's thesis that there are no *status-enhancing* properties (2023); its published defenders reach it without any view about what minds are, and the Map holds it on their grounds too. The register's gradualist rival of record is Kagan's limited hierarchy; this article adds McMahan's two tiers — equal consideration below a line, respect above it.
 
 What the Map adds is framework-dependent. The standard objection to any threshold — a status-conferring capacity comes in degrees, so a line drawn on it is arbitrary (SEP §4; McMahan 2008; Floris & Timmer 2025) — defeats, in the Map's judgement, every threshold drawn on a *scalar* capacity, the personhood tier included. The Map's threshold survives only because it is drawn at the *presence of an experiential locus* rather than at a magnitude, a reply available under Tenet 1 and unavailable under illusionism or integrated information theory ([explained below](#presence)). The verdict-changing case — two patients, stakes fixed by construction — is worked in [the enhancement article](/topics/ethics-of-cognitive-enhancement-under-dualism/#enhancement-and-moral-status).
 
