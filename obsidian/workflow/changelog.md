@@ -5,6 +5,17 @@ ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-08T23:28:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/sentientism]]
+- **Word count**: 3498 → 3498 (net 0; concepts hard ceiling 3500, headroom 1)
+- **Critical issues addressed**: 3 (SEP "Grounds of Moral Status" mischaracterised as using "consciousness" and "sentience" interchangeably — live entry lists them as alternative grounds, 0 hits for "interchangeab"/"phenomenal"; lead's "explicitly declines to make it" overstated silence as refusal; Basl 2019 reductio examples aligned to the publisher's "can openers ... computers")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (strict length-neutral; no cross-links added)
+- **Verified**: Bentham footnote (econlib, ch. XVII §1 ¶IV n. 122, verbatim); Chalmers preprint quotes ×3 verbatim, "consciousness sentientism" his term, chapter 1 of Lee & Pautz 2026 (TOC); Perry/Lin/Smithies/Rossi/Wendler/Frankish metadata at Crossref; SEP Environmental Ethics HIV/Williams–O'Neill and Taylor wording verbatim. Unverified: Rolston "adaptive value" (text lending-restricted), Perry argument gloss (paywalled), Chalmers pp. 25–40 (OUP page empty; carried from 10-06 ledger). Internal quotations: 2 checked, 0 stranded; 17 anchors resolve. No DeGrazia/Vulcan-dating alignment needed.
+- **Engagements**: Lin Mode Two→Three (declared); Chalmers continuity Mode Three (declared); Basl ally-on-conclusion marked; prior classifications unchanged
+- **Output**: [[reviews/deep-review-2026-11-08-sentientism]]
+
 ## 2026-11-08T23:07:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/out-of-body-experiences]]

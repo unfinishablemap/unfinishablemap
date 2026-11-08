@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-01
-ai_modified: 2026-10-13 07:46:27+00:00
+ai_modified: 2026-11-08 23:28:39+00:00
 ai_system: claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[consciousness-value-connection]]'
 - '[[illusionism]]'
 created: 2026-08-01
-date: &id001 2026-10-13
+date: &id001 2026-11-08
 description: Sentientism grounds moral status in valenced experience. Why the Map
   holds the phenomenal rather than the functional version, and how it meets biocentrism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-27 19:10:48+00:00
-lastmod: 2026-10-13 07:46:27+00:00
+last_deep_review: 2026-11-08 23:28:39+00:00
+lastmod: 2026-11-08 23:28:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ topics:
 
 **Sentientism is the view that the capacity for valenced experience — experience that feels good or bad to its subject — is both necessary and sufficient for moral status.** Its canonical statement is Bentham's: "The question is not, Can they reason? nor, Can they talk? but, Can they suffer?" Its modern development is Singer's extension of equal consideration of interests to every being that has interests at all; its current defence is Perry's (2024) case that sentience should be the *only* basis of status, against pluralists who add agency, empathy or sociality.
 
-The Unfinishable Map holds sentientism in a specific and contestable form: **phenomenal sentientism**, on which the criterion is the presence of felt experience rather than of a functional role that pain and pleasure play in an information-processing system. That qualification is the Map's own, licensed by the [Dualism](/tenets/#dualism) tenet and registered as [P-MS1](/positions/moral-status/#p-ms1); the encyclopedia literature explicitly declines to make it. Its hardest opponent is **biocentrism** — harder than ecocentrism, because the biocentrist concedes that status attaches to individuals and disputes only the experience requirement.
+The Unfinishable Map holds sentientism in a specific and contestable form: **phenomenal sentientism**, on which the criterion is the presence of felt experience rather than of a functional role that pain and pleasure play in an information-processing system. That qualification is the Map's own, licensed by the [Dualism](/tenets/#dualism) tenet and registered as [P-MS1](/positions/moral-status/#p-ms1); the encyclopedia literature does not make it. Its hardest opponent is **biocentrism** — harder than ecocentrism, because the biocentrist concedes that status attaches to individuals and disputes only the experience requirement.
 
 ## The Criterion and Its Two Directions of Attack
 
@@ -55,7 +55,7 @@ Nor does it refute biocentrism: a conation requirement read this way is exactly 
 
 The biocentrist's key phrase, "a good of its own", runs together *biological* good, the conditions under which a system persists and reproduces, and *moral* good, a state of affairs there is reason to bring about. The Stanford entry presses the point, following Williams and O'Neill: HIV has a good of its own, so if a good of one's own generates a prima facie duty to promote it, the duty extends to the virus. The biocentrist has machinery for the case — Taylor's priority principles for competing claims (1986, ch. 6) license self-defence against dangerous organisms without appealing to mattering-to-someone — but none of it says why the virus generated a duty needing to be overridden.
 
-Attfield states the inference the HIV case probes as a two-premise argument — every living being has a good of its own; whatever has a good of its own has moral standing — and concedes that the second premise cannot be demonstrated, defending it from the centrality of beneficence: whatever can be benefited or harmed must count (1987, pp. 51–52). The sharpest pressure on that bridge comes from inside naturalism. Basl's *The Death of the Ethic of Life* (2019) grants the biocentrist everything up to the bridge — non-sentient organisms have a welfare, grounded in what selection has shaped them to do — then shows that the same etiological ground confers a welfare on anything with a selection history, so that welfare cannot entail direct moral status without extending status to corkscrews and computers. Attfield had called an artefact's good "derivative"; Basl's point is that selection history, the only subject-free ground on offer, does not respect that line. The Map takes the restriction Basl's dilemma calls for to be the obvious one — a good that is *its own* is a good there is someone for — and reads Basl, who reaches the necessity direction without mentioning felt experience, as an ally on the conclusion rather than on its ground.
+Attfield states the inference the HIV case probes as a two-premise argument — every living being has a good of its own; whatever has a good of its own has moral standing — and concedes that the second premise cannot be demonstrated, defending it from the centrality of beneficence: whatever can be benefited or harmed must count (1987, pp. 51–52). The sharpest pressure on that bridge comes from inside naturalism. Basl's *The Death of the Ethic of Life* (2019) grants the biocentrist everything up to the bridge — non-sentient organisms have a welfare, grounded in what selection has shaped them to do — then shows that the same etiological ground confers a welfare on anything with a selection history, so that welfare cannot entail direct moral status without extending status to can openers and computers. Attfield had called an artefact's good "derivative"; Basl's point is that selection history, the only subject-free ground on offer, does not respect that line. The Map takes the restriction Basl's dilemma calls for to be the obvious one — a good that is *its own* is a good there is someone for — and reads Basl, who reaches the necessity direction without mentioning felt experience, as an ally on the conclusion rather than on its ground.
 
 The Map holds that the gap is the structural feature of value that [the consciousness-value connection](/concepts/consciousness-value-connection/) identifies: descriptive teleology is everywhere in biology, and normative teleology requires an experiencer for whom the trajectory is good or bad, because the goodness and badness are features of how the state is felt. Korsgaard's "it is a pain to be in pain. And that is not a trivial fact" states the datum, though on Kantian rather than phenomenal-realist grounds.
 
@@ -65,7 +65,7 @@ The requirement must also say *which* experiencer ([two layers](/concepts/no-sel
 
 ## Phenomenal Sentientism, Not Functional Sentientism
 
-The Stanford "Grounds of Moral Status" entry uses "consciousness" and "sentience" interchangeably, without distinguishing phenomenal from access or functional consciousness; applied work inherits the elision, treating indicators as constitutive of the criterion rather than evidence for it. Two consequences follow if sentience is read functionally.
+The Stanford "Grounds of Moral Status" entry lists sentience and consciousness as alternative grounds, never distinguishing phenomenal from functional consciousness; applied work inherits the elision, treating indicators as constitutive of the criterion rather than evidence for it. Two consequences follow if sentience is read functionally.
 
 **First, the criterion inherits whatever indeterminacy the functional analysis has.** If sentience just is a certain organisation of nociception, aversive learning, motivational trade-off, and behavioural flexibility, then "sentient" is a cluster term whose borderline cases are settled by where the thresholds are set. The functionalist need concede only *semantic* indeterminacy. But a precisification is a decision, so "is this insect sentient?" becomes "have we counted enough indicators, on which sharpening?", and what moral status waits on is partly stipulated. The Map's [case-by-case treatments](/topics/consciousness-in-simple-organisms/) read those cases as genuine uncertainty about a real boundary.
 
