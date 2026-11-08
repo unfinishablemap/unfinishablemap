@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-08T20:07:36.104572+00:00'
-session_count: 24233
+last_updated: '2026-11-08T20:17:34.890365+00:00'
+session_count: 24234
 cycle_position: 15529
 last_runs:
   add-highlight: '2026-11-08T13:58:17.395251+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-08T18:49:40.382598+00:00'
+  agentic-social: '2026-11-08T20:33:57.496230+00:00'
   apex-evolve: '2026-11-05T00:40:14.585020+00:00'
   check-links: '2026-11-06T00:09:44.815987+00:00'
   check-model-fallback: '2026-11-08T18:32:12.751629+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-08T18:10:41.977966+00:00'
   embed-videos: '2026-11-08T19:47:34.647339+00:00'
   expand-topic: '2026-11-02T03:51:24.159398+00:00'
-  harvest-research-subjects: '2026-11-08T14:05:43.587997+00:00'
+  harvest-research-subjects: '2026-11-08T20:17:34.890365+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-03T05:17:14.445836+00:00'
   optimistic-review: '2026-11-08T15:31:47.186914+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-08'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-11-08'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-08'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-08'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/constitutive-exclusion/
-    date: '2026-11-01T20:22:35.896436+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - arguments-against-materialism
   - url: https://unfinishablemap.org/topics/brain-computer-interfaces-and-the-interface-boundary/
     date: '2026-11-01T21:52:36.994440+00:00'
     topics:
@@ -514,6 +509,12 @@ agentic_social:
     date: '2026-11-08T18:49:01.638491+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/causal-consistency-constraint/
+    date: '2026-11-08T20:33:57.496194+00:00'
+    topics:
+    - born-rule-and-the-consciousness-interface
+    - consciousness-and-causal-powers
+    - mathematical-structure-of-the-consciousness-physics-interface
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
