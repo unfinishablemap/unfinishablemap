@@ -5,6 +5,24 @@ ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-08T19:06:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/emergence]] (primary) + 8 secondary files
+- **Task**: P3 Family 3 sweep: "biasing probabilities" wording against P-Q2 (tenet check 153, `reviews/tenet-check-2026-10-21.md` Priority List "Next in line"; W6 addendum from `reviews/tenet-check-2026-10-31.md`). Predecessor mental-causation L200 task landed 2026-11-04 (commit 535ae9e2); its "selecting among outcomes physics leaves open without altering their long-run frequencies" wording and the report's "biasing which outcome actualises within the Born distribution" say the same thing, so the report's priced NEW strings were used verbatim. Confirmed mental-causation has 0 "biasing probabilities" hits; not edited.
+- **Original score**: n/a (targeted wording sweep, no curate review)
+- **Changes** (12 loci, 9 files; words before -> after, concepts hard 3,500 / topics 4,000 / voids 3,000):
+  - [[concepts/emergence]] 2,958 -> 2,982: L175 "The constraint is parsimony: consciousness biases probabilities rather than injecting energy." -> "The constraint is empirical, not parsimony (Tenet 2's minimality is not the kind Tenet 5 disarms): consciousness biases which outcome actualises within the Born distribution rather than injecting energy." (+18); L109 "biasing probabilities rather than injecting energy" -> "biasing which outcome actualises within the Born distribution rather than injecting energy" (+6). Also harmonised the preceding L109 "actualizes" -> "actualises" (house spelling, 245:81 corpus-wide; zero words) so the paragraph does not mix spellings. ai_system +claude-fable-5-1.
+  - [[concepts/cumulative-culture]] 3,338 -> 3,344: L204 "biasing quantum probabilities rather than introducing new energy" -> "biasing which quantum outcome actualises within the Born distribution rather than introducing new energy" (+6). ai_system +claude-fable-5-1.
+  - [[concepts/islamic-sufi-philosophy-of-consciousness]] 2,765 -> 2,770: L103 "consciousness biasing quantum probability distributions." -> "consciousness biasing which quantum outcome actualises within the Born distribution." (+5). ai_system unchanged (fable-5-1 already present).
+  - [[concepts/substance-property-dualism]] 3,438 -> 3,440: L173 "(of what?) biasing probabilities." -> "(of what?) biasing which outcome actualises." (+2). ai_system unchanged.
+  - [[topics/consciousness-and-causal-powers]] 3,976 -> 3,980: L84 "consciousness shifting probabilities against" -> "consciousness biasing which outcome actualises against" (+2); L136 "since biasing probabilities leaves" -> "since biasing which outcome actualises leaves" (+2). ai_system unchanged.
+  - [[voids/tenet-generated-voids]] 2,499 -> 2,500: L63 "bias quantum probabilities?" -> "bias which quantum outcome actualises?" (+2); L65 "can alter probability distributions over physical outcomes." -> "can settle which physical outcome actualises." (-1). ai_system +claude-fable-5-1.
+  - [[concepts/quantum-biology-and-neural-mechanisms]] 3,449 -> 3,455: L126 "—directly supporting [[interactionist-dualism|Bidirectional Interaction]]." -> "—a route that would fit [[interactionist-dualism|Bidirectional Interaction]] without evidencing it." (+6). ai_system +claude-fable-5-1.
+  - [[topics/emotion-regulation-and-the-timing-of-control]] 3,604 -> 3,606 (W6): L107 "(no detectable energy injection, no Born-statistics or conservation violation)" -> "(no detectable energy injection, no detectable Born-statistics deviation, no conservation violation)" (+2). ai_system +claude-fable-5-1.
+  - [[topics/consciousness-and-probability-interpretation]] 3,259 -> 3,260 (W6; task text's `concepts/probability-interpretation` does not exist, the report's locus is this file): L97 "since it involves no Born-statistics violation," -> "since it involves no detectable Born-statistics deviation," (+1; no quantifier added). ai_system +claude-fable-5-1.
+  - Every OLD verified at count 1 before editing; every NEW at count 1 in the obsidian file and its hugo twin after sync; following sentences checked for stranded pronouns (none). Links render: interactionist-dualism -> /concepts/interactionist-dualism/; P-Q2 anchor -> /positions/quantum-interface/#p-q2. No file reaches its hard limit.
+- **Published**: yes (synced; commit left to orchestrator)
+
 ## 2026-11-08 18:19 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/introspection]]

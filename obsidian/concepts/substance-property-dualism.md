@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-11-08
 human_modified: null
-ai_modified: 2026-11-08T16:05:39+00:00
+ai_modified: 2026-11-08T19:04:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -170,7 +170,7 @@ The distinction matters little for the Dualism tenet and the irreducibility argu
 
 **[[tenets#^dualism|Dualism]]**: Both versions satisfy this foundational tenet—consciousness is not reducible to physical processes, whether as a separate substance or an irreducible property type.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Equally compatible with both; the interface mechanics and the [[decoherence]] challenge apply identically. Substance dualism may make the interface more intuitive—a distinct mental substance selecting among quantum outcomes is conceptually clearer than an irreducible property (of what?) biasing probabilities.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Equally compatible with both; the interface mechanics and the [[decoherence]] challenge apply identically. Substance dualism may make the interface more intuitive—a distinct mental substance selecting among quantum outcomes is conceptually clearer than an irreducible property (of what?) biasing which outcome actualises.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This tenet rules out epiphenomenalist property dualism. But epiphenomenalism is not a natural implication of property dualism; the standard route to it is Kim's [[causal-exclusion-argument|exclusion argument]], which adds [[causal-closure|causal closure of the physical]] and a ban on systematic overdetermination. Closure is a widely held premise; rejecting it is the Map's framework commitment, not a free option, and the disagreement there is bedrock. Both interactionist property dualism and substance dualism satisfy the tenet—the question is not whether consciousness is causally efficacious but whether its causal role requires substancehood.
 

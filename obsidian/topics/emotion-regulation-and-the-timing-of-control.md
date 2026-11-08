@@ -4,7 +4,7 @@ description: "Gross's process model types emotion regulation by when it acts. Sh
 created: 2026-10-23
 modified: 2026-10-31
 human_modified: null
-ai_modified: 2026-10-31T10:13:22+00:00
+ai_modified: 2026-11-08T19:04:58+00:00
 draft: false
 topics:
   - "[[alief-and-acting-against-belief]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[research/emotion-regulation-and-the-timing-of-control-2026-10-23]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-23
 last_curated: null
 last_deep_review: 2026-10-24T02:04:03+00:00
@@ -104,7 +104,7 @@ Three calibrations apply. First, the Zeno account is [[zeno-dynamics-on-a-decohe
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is the tenet engaged, and the article gives it a location rather than support. Whether a selector acts at all remains "a posit the interface argument leaves open, not a result it secures" ([[tenets#^tenet-3-standing|Tenet 3's standing]]). Process-model findings are substrate-neutral: at every temporal resolution reached so far, each stage is modelled without an experiential term. The Map gains a precise location and loses any claim that the location is evidentially special, which cuts against citing emotion regulation as support and equally against reading implicit regulation as a refutation.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** gains nothing from earlier regulation needing less effort, an economy a physical controller enjoys equally. The tenet's minimality is fixed by the empirical record the interaction must respect (no detectable energy injection, no Born-statistics or conservation violation), not by how few or how small the interventions are.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** gains nothing from earlier regulation needing less effort, an economy a physical controller enjoys equally. The tenet's minimality is fixed by the empirical record the interaction must respect (no detectable energy injection, no detectable Born-statistics deviation, no conservation violation), not by how few or how small the interventions are.
 
 **[[tenets#^dualism|Dualism]]** neither gains nor loses from the timing record. **[[tenets#^no-many-worlds|No Many Worlds]]** is not engaged.
 

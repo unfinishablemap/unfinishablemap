@@ -4,7 +4,7 @@ description: "From Avicenna's Flying Man to Sufi phenomenology of fana, Islamic 
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-10-21T22:48:24+00:00
+ai_modified: 2026-11-08T19:04:58+00:00
 draft: false
 topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
@@ -100,7 +100,7 @@ This section is the Map's own interpretation and should not be read back into th
 
 **[[tenets#^dualism|Dualism]]**: Avicenna's Flying Man, al-Ghazālī's distinction between rational and experiential knowledge, and the entire Sufi nafs psychology presuppose that consciousness is irreducible to physical processes. The tradition's closest point of contact with the Map's dualism is its contemplative epistemology: the insistence that direct experience reveals features of consciousness inaccessible to third-person analysis aligns with the Map's argument that the [[explanatory-gap|explanatory gap]] reflects a genuine ontological distinction, not merely incomplete science. The alignment is coherence rather than independent corroboration: the introspective strand shares the Neoplatonist channel weighed above, a physicalist can read the same reports as facts about the limits of introspective access, and the tradition itself divides between Avicenna's dualism and Ibn 'Arabī's unity of being.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The nearest contact is modern rather than Avicennan. Jamali, Golshani and Jamali's reading of the incorporeal soul as acting on "the whole of space-time" of a system rather than at a point resonates with the Map's model of consciousness biasing quantum probability distributions. Neither Avicenna nor any Islamic thinker discussed quantum mechanics, the holism is the interpreters' inference, and their mechanism modifies a Bohmian pilot wave, which carries the [[bohm-implicate-order-and-active-information|determinism-versus-selection tension]] the Map records for Bohm's framework. The parallel is suggestive at most.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The nearest contact is modern rather than Avicennan. Jamali, Golshani and Jamali's reading of the incorporeal soul as acting on "the whole of space-time" of a system rather than at a point resonates with the Map's model of consciousness biasing which quantum outcome actualises within the Born distribution. Neither Avicenna nor any Islamic thinker discussed quantum mechanics, the holism is the interpreters' inference, and their mechanism modifies a Bohmian pilot wave, which carries the [[bohm-implicate-order-and-active-information|determinism-versus-selection tension]] the Map records for Bohm's framework. The parallel is suggestive at most.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Avicenna's dual-aspect soul is the tradition's clearest statement of bidirectional causation—the practical intellect governing bodily action (downward causation) while bodily states prepare the soul for intellectual reception (upward causation). The Sufi tradition adds a physiological record: contemplative practices produce measurable changes (altered breathing, heart rate, neurological states). That record fits the tenet without evidencing it, since a physicalist reads the same data as brain states changing brain states.
 

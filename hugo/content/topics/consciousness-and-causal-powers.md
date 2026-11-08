@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-10-27 01:42:02+00:00
+ai_modified: 2026-11-08 19:04:58+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:37:02+00:00
-lastmod: 2026-10-27 01:42:02+00:00
+lastmod: 2026-11-08 19:04:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ Even at the interface, consciousness doesn't violate physics. The [Minimal Quant
 
 ### The Probabilistic Constraint
 
-[Quantum mechanics provides probabilities, not certainties](/concepts/quantum-probability-consciousness/), so an extremely unlikely outcome cannot be guaranteed by wanting it strongly enough. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) argues those bounds are structurally fixed: under purification, no-signalling forces the Born form. This may explain why voluntary action feels effortful—consciousness shifting probabilities against statistical noise from countless quantum events.
+[Quantum mechanics provides probabilities, not certainties](/concepts/quantum-probability-consciousness/), so an extremely unlikely outcome cannot be guaranteed by wanting it strongly enough. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) argues those bounds are structurally fixed: under purification, no-signalling forces the Born form. This may explain why voluntary action feels effortful—consciousness biasing which outcome actualises against statistical noise from countless quantum events.
 
 ### The Temporal Constraint
 
@@ -137,7 +137,7 @@ A deeper objection sits one register lower than the noradrenergic rival. [Elimin
 
 ## What Consciousness Does Not Do
 
-Equally important are the limits if the Map's framework is correct. Three restate the constraints above as prohibitions: no influence outside the neural systems consciousness is coupled to (no mentally moving objects, reading minds, or affecting distant quantum systems); no guaranteed outcomes, since biasing probabilities leaves voluntary action able to fail; and no retroactive influence, the causal arrow pointing forward. Two require more care.
+Equally important are the limits if the Map's framework is correct. Three restate the constraints above as prohibitions: no influence outside the neural systems consciousness is coupled to (no mentally moving objects, reading minds, or affecting distant quantum systems); no guaranteed outcomes, since biasing which outcome actualises leaves voluntary action able to fail; and no retroactive influence, the causal arrow pointing forward. Two require more care.
 
 **No net energy gain**: Selection redistributes which trials yield which outcome without shifting the ensemble energy expectation, answering the conservation objection in its energy-accounting form. Its thermodynamic form is unanswered. Preserving the ensemble mean does not establish that a Born-exact selector with a context-sensitive policy could not raise expected *extractable work*—favouring higher-energy outcomes where a work reservoir is coupled and compensating where it is not, every marginal untouched and the demon readmitted. No theorem settles this either way, and [the conservation dependency](/concepts/conservation-laws-and-mental-causation/) carries it as open debt at the [mechanism-debt](/positions/quantum-interface/#mechanism-debt) grade.
 

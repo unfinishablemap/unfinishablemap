@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-08 16:05:39+00:00
+ai_modified: 2026-11-08 19:04:58+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 21:59:29+00:00
-lastmod: 2026-11-08 16:05:39+00:00
+lastmod: 2026-11-08 19:04:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -174,7 +174,7 @@ The distinction matters little for the Dualism tenet and the irreducibility argu
 
 **[Dualism](/tenets/#dualism)**: Both versions satisfy this foundational tenet—consciousness is not reducible to physical processes, whether as a separate substance or an irreducible property type.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Equally compatible with both; the interface mechanics and the [decoherence](/concepts/decoherence/) challenge apply identically. Substance dualism may make the interface more intuitive—a distinct mental substance selecting among quantum outcomes is conceptually clearer than an irreducible property (of what?) biasing probabilities.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Equally compatible with both; the interface mechanics and the [decoherence](/concepts/decoherence/) challenge apply identically. Substance dualism may make the interface more intuitive—a distinct mental substance selecting among quantum outcomes is conceptually clearer than an irreducible property (of what?) biasing which outcome actualises.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet rules out epiphenomenalist property dualism. But epiphenomenalism is not a natural implication of property dualism; the standard route to it is Kim's [exclusion argument](/concepts/causal-exclusion-argument/), which adds [causal closure of the physical](/concepts/causal-closure/) and a ban on systematic overdetermination. Closure is a widely held premise; rejecting it is the Map's framework commitment, not a free option, and the disagreement there is bedrock. Both interactionist property dualism and substance dualism satisfy the tenet—the question is not whether consciousness is causally efficacious but whether its causal role requires substancehood.
 

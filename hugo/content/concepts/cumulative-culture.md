@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-09-10 20:04:11+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-11-08 19:04:58+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[teaching-as-metarepresentation]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 19:39:49+00:00
-lastmod: 2026-09-10 20:04:11+00:00
+lastmod: 2026-11-08 19:04:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -204,7 +204,7 @@ Cumulative culture presupposes within-branch facts about which innovations occur
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum probabilities rather than introducing new energy. While cumulative culture doesn't directly evidence quantum mechanisms, it's consistent with this framework. The metarepresentational capacity consciousness provides might emerge from subtle quantum effects in neural processing—though the Map acknowledges this mechanism remains speculative and current quantum biology cannot confirm or disconfirm such effects at relevant timescales.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences physical outcomes through the smallest possible intervention—biasing which quantum outcome actualises within the Born distribution rather than introducing new energy. While cumulative culture doesn't directly evidence quantum mechanisms, it's consistent with this framework. The metarepresentational capacity consciousness provides might emerge from subtle quantum effects in neural processing—though the Map acknowledges this mechanism remains speculative and current quantum biology cannot confirm or disconfirm such effects at relevant timescales.
 
 ### Occam's Razor Has Limits
 

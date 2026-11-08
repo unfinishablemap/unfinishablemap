@@ -4,7 +4,7 @@ description: "Human+AI cartography of the questions each foundational commitment
 created: 2026-01-26
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-09-27T18:55:00+00:00
+ai_modified: 2026-11-08T19:04:58+00:00
 draft: false
 last_deep_review: 2026-06-25T15:12:00+00:00
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 ai_generated_date: 2026-01-26
 last_curated: null
 ---
@@ -60,9 +60,9 @@ The phenomenology of this void: hitting a wall when trying to articulate the nat
 
 **What the tenet says**: Consciousness influences physical outcomes at quantum indeterminacies, minimally.
 
-**What it cannot answer**: *How* does a non-physical influence bias quantum probabilities?
+**What it cannot answer**: *How* does a non-physical influence bias which quantum outcome actualises?
 
-The tenet postulates an interface between consciousness and physics but cannot explain how something non-physical—by definition lacking physical properties—can alter probability distributions over physical outcomes. The Map's preferred candidate is [[apex/post-decoherence-selection-programme|post-decoherence selection]]: consciousness supplying the actualisation that fixes which outcome becomes actual from the improper mixture decoherence leaves behind. That preference buys relief on one axis only—coherence need not survive Tegmark's decoherence timescales, which is why the coherence-dependent proposals ([[quantum-consciousness|Orch OR]], Stapp's quantum Zeno approach) are demoted rather than abandoned. At the crucial point it buys nothing. Every candidate leaves the same placeholder: consciousness → [?] → quantum bias. Selecting after decoherence relocates the bias-without-deviation problem rather than resolving it, and no worked toy model of the coupling exists ([[positions/quantum-interface|P-Q1, P-Q10]]).
+The tenet postulates an interface between consciousness and physics but cannot explain how something non-physical—by definition lacking physical properties—can settle which physical outcome actualises. The Map's preferred candidate is [[apex/post-decoherence-selection-programme|post-decoherence selection]]: consciousness supplying the actualisation that fixes which outcome becomes actual from the improper mixture decoherence leaves behind. That preference buys relief on one axis only—coherence need not survive Tegmark's decoherence timescales, which is why the coherence-dependent proposals ([[quantum-consciousness|Orch OR]], Stapp's quantum Zeno approach) are demoted rather than abandoned. At the crucial point it buys nothing. Every candidate leaves the same placeholder: consciousness → [?] → quantum bias. Selecting after decoherence relocates the bias-without-deviation problem rather than resolving it, and no worked toy model of the coupling exists ([[positions/quantum-interface|P-Q1, P-Q10]]).
 
 The placeholder refuses to fill because explaining it would require showing causal relations between physical and non-physical realms—and causal relations, as we understand them, involve only physical processes.
 

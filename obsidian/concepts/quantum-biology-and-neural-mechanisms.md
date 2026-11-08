@@ -4,7 +4,7 @@ description: "Quantum effects in living systems—magnetoreception and enzyme tu
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-10-12T08:38:45+00:00
+ai_modified: 2026-11-08T19:04:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[integrated-information-theory]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-03-26
 last_curated: null
 last_deep_review: 2026-07-25T08:47:51+00:00
@@ -123,7 +123,7 @@ These five mechanisms need not operate independently—their combination could e
 
 **3. Microtubule quantum coherence (Orch OR and QBIT)**: In [[quantum-consciousness|Orch OR]], tubulin superpositions undergo gravity-induced collapse producing conscious moments — a contested proposal, not a settled one. The newer QBIT theory proposes spintronic coherence at the axon initial segment. Recent developments: Kalra et al. (2023) found the anaesthetics etomidate and isoflurane reduce exciton diffusion along microtubules; Khan et al. (2024) showed microtubule-stabiliser epothilone B delays anaesthesia in rats (Cohen's d = 1.9), though this also admits a classical reading (microtubules traffic GABA_A receptors, isoflurane's primary target); Wiest (2025) is a partisan Orch-OR advocacy review whose central macroscopic-entanglement claim is contested and parameter-dependent, so its "experimentally supported" is the author's verdict rather than the field's (see [[quantum-biology-and-neural-consciousness]] for the graded treatment).
 
-**4. Synaptic vesicle release (Beck-Eccles/Georgiev)**: Georgiev & Glazebrook (2018) proposed Davydov solitons twist SNARE protein α-helices, triggering vesicle release via quantum tunneling. Consciousness could bias tunneling probabilities, influencing which synapses fire—directly supporting [[interactionist-dualism|Bidirectional Interaction]].
+**4. Synaptic vesicle release (Beck-Eccles/Georgiev)**: Georgiev & Glazebrook (2018) proposed Davydov solitons twist SNARE protein α-helices, triggering vesicle release via quantum tunneling. Consciousness could bias tunneling probabilities, influencing which synapses fire—a route that would fit [[interactionist-dualism|Bidirectional Interaction]] without evidencing it.
 
 **5. Posner molecule entanglement (Fisher)**: Uses nuclear spin isolation (see above). Coherence time estimates remain disputed. The QuBrain project at UCSB is pursuing experimental validation.
 

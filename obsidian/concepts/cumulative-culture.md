@@ -4,7 +4,7 @@ description: "Cumulative culture may require metarepresentation—representing k
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-09-10T20:04:11+00:00
+ai_modified: 2026-11-08T19:04:58+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-07-29T19:39:49+00:00
@@ -201,7 +201,7 @@ Cumulative culture presupposes within-branch facts about which innovations occur
 
 ### Minimal Quantum Interaction
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum probabilities rather than introducing new energy. While cumulative culture doesn't directly evidence quantum mechanisms, it's consistent with this framework. The metarepresentational capacity consciousness provides might emerge from subtle quantum effects in neural processing—though the Map acknowledges this mechanism remains speculative and current quantum biology cannot confirm or disconfirm such effects at relevant timescales.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness influences physical outcomes through the smallest possible intervention—biasing which quantum outcome actualises within the Born distribution rather than introducing new energy. While cumulative culture doesn't directly evidence quantum mechanisms, it's consistent with this framework. The metarepresentational capacity consciousness provides might emerge from subtle quantum effects in neural processing—though the Map acknowledges this mechanism remains speculative and current quantum biology cannot confirm or disconfirm such effects at relevant timescales.
 
 ### Occam's Razor Has Limits
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-10-31 10:13:22+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-11-08 19:04:58+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[self-control-as-skill-and-scaffolding]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 02:04:03+00:00
-lastmod: 2026-10-31 10:13:22+00:00
+lastmod: 2026-11-08 19:04:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ Three calibrations apply. First, the Zeno account is [a posit](/concepts/zeno-dy
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is the tenet engaged, and the article gives it a location rather than support. Whether a selector acts at all remains "a posit the interface argument leaves open, not a result it secures" ([Tenet 3's standing](/tenets/#tenet-3-standing)). Process-model findings are substrate-neutral: at every temporal resolution reached so far, each stage is modelled without an experiential term. The Map gains a precise location and loses any claim that the location is evidentially special, which cuts against citing emotion regulation as support and equally against reading implicit regulation as a refutation.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** gains nothing from earlier regulation needing less effort, an economy a physical controller enjoys equally. The tenet's minimality is fixed by the empirical record the interaction must respect (no detectable energy injection, no Born-statistics or conservation violation), not by how few or how small the interventions are.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** gains nothing from earlier regulation needing less effort, an economy a physical controller enjoys equally. The tenet's minimality is fixed by the empirical record the interaction must respect (no detectable energy injection, no detectable Born-statistics deviation, no conservation violation), not by how few or how small the interventions are.
 
 **[Dualism](/tenets/#dualism)** neither gains nor loses from the timing record. **[No Many Worlds](/tenets/#no-many-worlds)** is not engaged.
 

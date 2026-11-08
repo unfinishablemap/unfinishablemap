@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-11-03 15:26:49+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-11-08 19:04:58+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[bi-aspectual-ontology]]'
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:24:36+00:00
-lastmod: 2026-11-03 15:26:49+00:00
+lastmod: 2026-11-08 19:04:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ Each of these features—unity, qualitative character, agency—is what the stro
 
 Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained. The [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) traces how this emergentist tradition developed in response to the materialist eclipse of the early twentieth century.
 
-The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) departs from strong emergentism's "from-below" picture: consciousness does not arise from physical organisation but is a co-fundamental aspect of reality that engages with physical structure at quantum indeterminacies. Strong emergentism's commitments to irreducibility and downward causation survive the reframing; what changes is the directionality. The Map advances beyond British emergentism—but honestly, not as far as one might wish. The [quantum framework](/concepts/interactionist-dualism/) identifies *where* non-physical causation operates without violating conservation laws: at quantum indeterminacies, where physics specifies probabilities but not which outcome actualizes. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing probabilities rather than injecting energy.
+The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) departs from strong emergentism's "from-below" picture: consciousness does not arise from physical organisation but is a co-fundamental aspect of reality that engages with physical structure at quantum indeterminacies. Strong emergentism's commitments to irreducibility and downward causation survive the reframing; what changes is the directionality. The Map advances beyond British emergentism—but honestly, not as far as one might wish. The [quantum framework](/concepts/interactionist-dualism/) identifies *where* non-physical causation operates without violating conservation laws: at quantum indeterminacies, where physics specifies probabilities but not which outcome actualises. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing which outcome actualises within the Born distribution rather than injecting energy.
 
 This identifies a *locus* (quantum indeterminacy) and a *mode* (probability bias), not a fully specified mechanism. The choice of locus is not arbitrary—the [measurement problem as philosophical problem](/topics/quantum-measurement-and-consciousness/) reveals that measurement is where consciousness and physics have always been entangled, where the observer's role becomes formally unavoidable. A complete mechanism would specify which physical variable consciousness couples to, how coupling strength is determined, and what testable predictions follow. The [psychophysical laws](/concepts/psychophysical-laws/) article surveys several candidate coupling mechanisms—the developed ones being attention as observation rate (Stapp) and intention as probability weighting (Eccles), while noting that no quantum-level mechanism has been proposed for valence, qualia, or unity—but the Map does not yet endorse one. The coupling problem remains open.
 
@@ -176,7 +176,7 @@ This vocabulary serves comparison rather than canonical self-description: the Ma
 
 **Bidirectional Interaction:** Strong emergence requires downward causation. The Map identifies where this occurs: consciousness selects among quantum-undetermined outcomes. The specific [coupling mechanism](/concepts/psychophysical-laws/) remains an open research question.
 
-**Minimal Quantum Interaction:** This tenet identifies where strong emergence operates—at the level physics leaves genuinely open. The constraint is parsimony: consciousness biases probabilities rather than injecting energy.
+**Minimal Quantum Interaction:** This tenet identifies where strong emergence operates—at the level physics leaves genuinely open. The constraint is empirical, not parsimony (Tenet 2's minimality is not the kind Tenet 5 disarms): consciousness biases which outcome actualises within the Born distribution rather than injecting energy.
 
 **Occam's Razor Has Limits:** Both weak and strong emergence proposals face deep challenges. The Map argues that consciousness's irreducibility reflects a genuine ontological fact, not merely our current ignorance.
 
