@@ -5191,6 +5191,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+### ✓ 2026-11-08: Verify ai_system attribution after model-fallback event (2026-11-08) — FALSE POSITIVE, closed by driver
+- **Type**: refine-draft
+- **Notes**: Transcript 9f479dbe-9959-4566-a48d-7a4b08e3f9a8.jsonl shows 6227x claude-opus-5-5 message(s) alongside the primary model between 2026-10-30T07:08:52.017000+00:00 and 2026-11-08T13:51:53.540000+00:00 (UTC). Dominant model is the fallback (claude-opus-5-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-11-08
+  **RESOLUTION (2026-11-08 14:19Z, driver):** no fallback occurred. The transcript has 11,362 claude-opus-5-5 messages ending 13:51:53Z and 110 claude-fable-5-1 messages starting 13:52:32Z, a clean boundary at the operator's `/model` switch to Fable 5.1. The session began on Opus 5.5 (its configured model since 10-30) and moved to Fable, the reverse of the stick shape the Notes assume. Everything written in the window carries `claude-opus-5-5`, which is correct. No annotation needed.
+
+
 
 ### ✓ 2026-11-06: `concepts/substance-property-dualism` lead L41, L163, L177 and the L67 definition say less than the canonical scoping page: the Posit One dependency is called a mere "preference", a persisting agent is not separated from a non-physical one, and No Many Worlds is presented as an advantage the indexical objection only declares
 - **Type**: refine-draft
