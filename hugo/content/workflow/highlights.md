@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-08T13:56:22.370508'
+ai_modified: 2026-11-08 13:57:19+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: '2026-11-08'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-08 13:56:22.370508+00:00
+lastmod: 2026-11-08 13:57:19+00:00
 modified: '2026-11-08'
 related_articles:
 - '[[workflow]]'
@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 The Map says the mind's influence on the brain is minimal. Yet something must pair each conscious content with the right brain state; whether brain, subject or a basic law does it, the mapping is large and plastic. Minimal means undetectable, not simple. The Map counts that cost.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2119428923444338981  
 **Link**: [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/)
 
 ---
