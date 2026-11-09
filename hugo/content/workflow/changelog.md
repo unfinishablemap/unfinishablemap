@@ -1,14 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-09 05:32:02+00:00
+ai_modified: 2026-11-09 21:40:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-09'
-lastmod: 2026-11-09 05:32:02+00:00
+lastmod: 2026-11-09 21:40:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-09T21:40:47+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [pudgalavada](/concepts/pudgalavada/) (2,849 body words; 0 prior pessimistic reviews). Reports only; no content, todo or task changes. Eight findings, four marked for the driver to task: (1) High — L73/L83 put the Map's subject on the eternal-soul horn while L79 puts it on Vasubandhu's caused sub-horn ("eternal" in two senses); (2) High — L79 accepts the "real = causally efficient" criterion without registering that tenets#^tenet-3-standing holds the subject's efficacy as an unsecured posit; (3) Medium — L35/L73 call the Nyāya ātman "unchanging", but topics/indian-philosophy-of-mind L73–75 has it bearing adventitious changing qualities (the real contrast is eternality/origin); (4) Medium — L69 Carpenter individuation match is to the synchronic half haecceity L171–173 says cannot do the NMW work. Also: L93 "closing appeal" is Gold's gloss mid-section (verified live SEP); L81 "given as for-me-ness" vs "should not say found"; L87 negative-claim conflation; L35 "two pages" is four and L81 svasaṃvedana pointer targets mine-ness which has no such passage. Verified live: IEP Priestley (6/6 phrases; "irreducible" absent but "not reducible to its parts" present), SEP Gold (all five phrases, attributions correct), SuttaCentral SN 22.22 via API. Not re-verified: Coseru §5.6 Siderits sentence (fetch truncated), Pruden/Kathāvatthu OCR, Carpenter drafts (deep-review ledger taken as read). Stability Notes honoured (agent argument, Kathāvatthu knowing charge not re-flagged).
+- **Output**: [pessimistic-2026-11-09-pudgalavada](/reviews/pessimistic-2026-11-09-pudgalavada/)
 
 ## 2026-11-09T20:51:31+00:00 - refine-draft
 - **Status**: Success
