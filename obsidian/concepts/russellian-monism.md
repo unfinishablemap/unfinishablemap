@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-11-05T19:25:33+00:00
+ai_modified: 2026-11-09T23:17:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,13 +32,13 @@ related_articles:
   - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T01:47:17+00:00
 ---
 
-Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their [[intrinsic-nature|intrinsic nature]] unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And the middle path itself is increasingly contested: Pautz (2017) and Cutter (2019) argue it is illusory, Kind (2015) argues it collapses into physicalism or dualism, and the programme has fragmented into incompatible variants—panpsychist, panprotopsychist, cosmopsychist (Goff 2017), physicalist (Brown 2025), and dual-aspect (Hashemi 2024)—that share its core theses but disagree about how quiddities bear on consciousness.
+Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their [[intrinsic-nature|intrinsic nature]] unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And the middle path itself is increasingly contested: Pautz (2017) and Cutter (2019) argue it is illusory, Kind (2015) inclines to see it dividing into nontraditional physicalism and dualism, and the programme has fragmented into incompatible variants—panpsychist, panprotopsychist, cosmopsychist (Goff 2017), physicalist (Brown 2025), and dual-aspect (Hashemi 2024)—that share its core theses but disagree about how quiddities bear on consciousness.
 
 The Unfinishable Map shares Russellian monism's insight that physics is silent on intrinsic nature. But the Map's explicit [[tenets#^dualism|dualist]] framework—particularly its [[bi-aspectual-ontology|bi-aspectual ontology]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] mechanism—provides cleaner solutions than monism's attempt to dissolve the mind-body distinction. Because Russellian monism does not require consciousness to do causal work at quantum measurement, it stays neutral across quantum interpretations—including many-worlds. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet makes that neutrality a point of divergence: the Map requires consciousness to act at measurement, so on its own commitments it cannot remain agnostic where Russellian monism can.
 
@@ -66,7 +66,7 @@ Proposed solutions remain contested. Goff's "phenomenal bonding"—a primitive r
 
 ## A Family of Incompatible Proposals
 
-Russellian monism is often presented as a unified research programme, but it has fragmented into variants that disagree on fundamental questions. Kind (2015) develops a "collapse thesis": the four possible positions within Russellian monism—physicalist panpsychism, physicalist panprotopsychism, non-physicalist panpsychism, and non-physicalist panprotopsychism—reduce to only two genuine positions. Non-physicalist variants collapse into dualism; physicalist variants collapse into standard physicalism. Russellian monism does not break free of the physicalism/dualism divide.
+Russellian monism is often presented as a unified research programme, but it has fragmented into variants that disagree on fundamental questions. Kind (2015) develops a "collapse thesis": the four positions (physicalist or non-physicalist panpsychism and panprotopsychism) reduce to two. She is inclined to see the view as "dividing into a version of dualism and a version of physicalism, both of which would be nontraditional in important respects." Russellian monism does not break free of the physicalism/dualism divide.
 
 This fragmentation has accelerated. Brown (2025) defends a *physicalist* version where categorical properties that ground dispositions are genuinely physical, not protomental—"Russellian physicalism." Hashemi (2024) argues that Russellian panpsychism is best understood as *dual-aspect monism*, with mental and physical as "two authentic facets of a singular entity." And Goff's cosmopsychism has evolved into a "value-responding universe" thesis that bears little resemblance to Strawson's original panpsychism. These variants share the "three core theses" Alter and Pereboom (2023) identify: structuralism about physics, realism about quiddities, and quidditism about consciousness. They disagree about how quiddities bear on consciousness—constituting it, alone or with structure, or giving rise to it—so they are rival completions of one programme.
 

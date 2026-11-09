@@ -4,6 +4,11 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09T23:06:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T23:17:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/russellian-monism]]
+- **Task**: todo L1733 — L69 overstated Kind (2015): "physicalist variants collapse into standard physicalism". Replaced with her verified sentence (grep-checked against the cmc.edu `Monism-final.pdf` on 2026-10-23 and held at `topics/russellian-monism-versus-bi-aspectual-dualism` L68): Russellian monism "dividing into a version of dualism and a version of physicalism, both of which would be nontraditional in important respects"; the four-position list was compressed to keep the edit length-neutral. L41 gloss aligned ("inclines to see it dividing into nontraditional physicalism and dualism"). "Collapse thesis" retained. 3108 → 3120 words. `ai_system` +claude-fable-5-1 (was absent). Driver-applied inline (two-sentence edit).
+
 ## 2026-11-09T23:06:15+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/delegatory-dualism]]
