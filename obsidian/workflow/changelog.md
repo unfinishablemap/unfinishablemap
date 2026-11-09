@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-09 04:46:12+00:00
+ai_modified: 2026-11-09 05:15:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T05:15:02+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (High thinking) Deep Research (collected via collect-gemini-review; ready on poll 1 — `stopBtn` false, one `h1` report panel of 33,861 chars, no "Starting research…" stall; commissioned 04:21Z, collected 05:05Z; 34,348-char / 4,471-word markdown via in-page DOM walk, transcribed in 1,000-char chunks with an exact word-count match; subject `concepts/ai-hardware-substrate-taxonomy`, reuse of the ChatGPT leg's subject)
+- **File**: [[reviews/outer-review-2026-11-09-gemini-3-1-pro]]
+- **Claims verified**: 14 page-attributed strings grepped against the live article — 4 present ("channel test", "fed forward"/"averaged out", "mere-physical indeterminacy", cryptochrome), 4 verbatim on sibling pages and so off-target (`architectural-adequacy-at-the-built-edge` ×2, `dynamical-relevance-and-the-verification-boundary`, the `quantum-randomness-channel-llm-consciousness` title), 6 absent from every content page (fabricated); seven sources the reviewer says the page "relies on" (Kerskens & Pérez, Kosik, Posner molecules, Stapp, Loihi 2, IIT, photosynthetic complexes) score 0 hits each. External citations at Crossref: Christensen 2022 roadmap, Naskar & Joarder 2024 (QIP 23:404), Warren 2023 comment, Kosik 2024, Albantakis 2023 all real; "Ma and Wang (2026)" and the unnamed 2026 *Frontiers in Psychology* review unverifiable. False: the 10⁻²¹ s microtubule figure (Naskar & Joarder's τ_d = 1.6×10⁻²¹ × C₀ with C₀ explicitly undetermined — the Map's own PDF-sourced research note has the quote); the page "defends" microtubule coherence (L61/L90/L112 disprefer Orch OR); Kerskens/Kosik/Posner reliance; the reviewer's own table row misstating L70 ("Mixed to continuous").
+- **High-value findings**: 3 — two converge with same-day tasks and received addenda (Loihi 2 / Christensen 2022 roadmap on the P2 neuromorphic task's L70 Axis 1 cell; the discrete-approximation rejoinder on the P1 Maley / Axis 1 task, answered by L49's demotion of Axis 1); one is new (IIT 4.0 absent from §"Why This Sharpens", which names Thagard and Milinkovic & Aru as physicalist allies). Declined as position disagreement: Born-rule bracketing / "wiggle room" dilemma (P-Q3 mechanism debt linked at L110; worked on the Born apex), "IIT renders the taxonomy superfluous", REJECT verdict.
+- **Tasks generated**: 1 (P2: 1) — IIT 4.0 as a third convergent-verdict / rival-explanation sentence at L102 with a piped link, sequenced after the P1 scoping task on the same paragraph; Headroom 3,478/3,500, net ≤ 0. Plus 2 addenda on existing tasks. No duplicates of the nine same-day tasks.
+- **Telegram**: see collect report.
+
 ## 2026-11-09T04:46:12+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Fable 5.1 with Research (collected via collect-claude-review; ready on poll 1 — "Research complete • 304 sources • 12m 34s", artifact "Referee Report: AI Hardware Substrate Taxonomy for the Consciousness Interface", body 48,077 chars stable across the 10 s window, 6,654-word markdown via Blob download; subject `concepts/ai-hardware-substrate-taxonomy`, reuse of the ChatGPT leg's subject)
