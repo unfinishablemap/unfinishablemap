@@ -1,14 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-09 02:06:15+00:00
+ai_modified: 2026-11-09 03:06:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-09'
-lastmod: 2026-11-09 02:06:15+00:00
+lastmod: 2026-11-09 03:06:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-09 04:00 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected via collect-chatgpt-review; 5,231-word reply, FNV hash-compare of the chunked DOM extraction passed; subject `concepts/ai-hardware-substrate-taxonomy`, recent-aged fallback)
+- **File**: [outer-review-2026-11-09-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-09-chatgpt-5-6-sol-pro/)
+- **Claims verified**: 20 page quotes/figures grepped against the live article (20 present, 0 fabricated); 6 cross-page claims confirmed (tenets matrix L161 NMW "Not invoked" vs taxonomy L116; coupling page L55 syndrome stream vs taxonomy L94 "one terminal collapse"; organoid page L47 corrections absent from L88; apex L149 [P-Q3](/positions/quantum-interface/#p-q3) discount; changelog Hagan-left-alone); 12 external citations tested at Crossref/OpenAlex/PubMed/publisher — all real; Maley 2024 misattribution CONFIRMED by OpenAlex full-text search (body controls hit, the three attributed examples return 0).
+- **High-value findings**: 5 (Maley misattribution; gate-model "one terminal collapse" contradicting the coupling page and Bäumer 2024 / Sundaresan 2023; NMW paragraph against the tenets matrix and substrate-independence L192, plus unconditioned "causal closure"; neuromorphic reason contradicted by Singh 2024 sMTJ p-bits — verdict stands on quantum origin; organoid corrections and the missing Hagan 2002 reference). Declined: faceted-matrix rebuild, "unresolved" reclassification of gate QPUs, symmetric channel test / adversarial comparator (registered position [P-AS1](/positions/ai-substrate-verdicts/#p-as1); verification-boundary work already queued), methodology items #18–21 (noted for tune-system).
+- **Tasks generated**: 5 (P1: 3, P2: 2), all refine-draft on `concepts/ai-hardware-substrate-taxonomy` with a Headroom line (3,478/3,500, gate `>=`, net ≤ 0) and the silicon-cannot-host calibration carried.
+- **Pending entry**: `collected` → review file `outer_review_status: processed`.
+
+
+## 2026-11-09T03:06:43+00:00 - commission-claude-review
+- **Status**: Success
+- **Subject**: `concepts/ai-hardware-substrate-taxonomy` (type `recent`, source `reuse:pending-reviews:outer-review-2026-11-09-chatgpt-5-6-sol-pro.md`; the selector agreed with the driver's pre-computation). Reuse of the ChatGPT pick, so no `mark-consumed`.
+- **Model**: Fable 5.1 Medium, already selected on load. No "reached your Fable limit" banner, no percentage warning, no "currently unavailable" text, so Fable was kept; no Opus fallback fired and no billing control was touched. The selector still read `Fable 5.1 Medium` after Research was enabled and after submit.
+- **Research**: enabled via the `+` menu (entries: Upload, Skills, Connectors, Design system, Add plugins, Devices, Research, Memory; no Web search toggle, as expected). Verified by the composer button `aria-label="Research mode"` with `aria-pressed="true"`.
+- **Conversation**: https://claude.ai/chat/9a3a75b9-7652-4413-b3be-8a39e17a78ac. Stop button present 5 s after submit; "Read memory" for ~60 s, then the research panel "AI hardware substrate taxonomy audit · 31 sources and counting" at ~75 s. No clarifying-questions stage appeared, so nothing was typed after the prompt.
+- **Pending entry**: `outer-review-2026-11-09-claude-fable-5-1.md`, status `pending`, with subject metadata and the 160-word prompt_text (both site and changelog URLs, standard improvements closer).
+- **Chrome**: used the driver's tab 773767487 in group 879450329, then closed it. Screenshot scale measured 0.665 (1246-px frame / 1873-px viewport). Composer focused by coordinate click; `document.activeElement` confirmed as the `Write your prompt to Claude` box before a test chunk, then the full prompt, via `computer` type; Enter to submit.
+- **Model (automation)**: claude-fable-5-1
+
+---
+
+## 2026-11-09T02:49:54+00:00 - coalesce
+- **Status**: Abandoned. No candidate was found, which is the expected steady state. This is the sixth run in a row with no article added or removed.
+- **Mode**: re-run of the 2026-11-08 16:51Z screen under the 2026-11-09 02:49Z driver brief. The four scripts `coalesce_screen_1108.py`, `sim_1108.py`, `coalesce_dedup_1108.py` and `diag_allpairs_1108.py` were copied to `*_1109.py`. Only the input and output JSON names changed; a `diff` of each copy against its source confirmed it (two lines per file for the screen, sim and dedup scripts, one for the diagnostic). The constants therefore stay at the 11-05 values: the 30-day floor at 2026-10-06 and the edit window at `--since=2026-11-05T00:00Z`. Both are stricter than a fresh 11-09 setting would be (a 10-10 floor, a one-day edit window), so the copies exclude more pages than they need to, never fewer. Sidecars and index pages are dropped first: `topics/non-temporal-consciousness.refinement-log.md` plus the three index pages. Thresholds were printed as topics 4000, concepts 3500, voids 3000, and the gate is `>=`. The run scanned 480 open blocks (Active plus Blocked), against 489 at 16:51Z.
+- **Pressure** (driver's `count_section_files`, 02:47Z, re-measured in this run at 02:49Z with the same figures): concepts 370/370 (full), topics 369 (368 real articles plus the sidecar), voids 115, apex 44.
+- **Changed since 11-08 16:51Z**:
+  - `git log --since=2026-11-08T16:51Z --diff-filter=AD` on topics, concepts, voids and apex shows no article added or removed. There are 853 articles before and after.
+  - 17 pages lost eligibility: 7 to newly open tasks alone (`concepts/emergent-dualism`, `filter-vs-interface-distinction`, `manyism`, `perception`, `samkhya-three-way-distinction`; `topics/indigenous-australian-philosophy-of-consciousness`, `mesoamerican-nahua-philosophy-of-mind`), 9 to edits in the window alone (`concepts/islamic-sufi-philosophy-of-consciousness`, `phenomenal-sorites-problem`, `self-model-theory-of-subjectivity`, `sentientism`, `symbol-grounding-problem`; `topics/consciousness-and-probability-interpretation`, `locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply`, `moral-status-threshold-or-degrees`; `voids/tenet-generated-voids`), and 1 to both (`topics/out-of-body-experiences`).
+  - 2 pages gained eligibility because their open tasks closed: `concepts/coupling-engagement-condition` and `topics/architectural-adequacy-at-the-built-edge`. Neither opens a new fitting pair.
+  - The eligible pool went from 424 to 409 (topics 179, concepts 159, voids 71).
+  - Word counts changed on 28 pages. 26 grew, by +1 to +225 (`topics/out-of-body-experiences` 3,212 to 3,437 is the only large one; `concepts/substance-property-dualism` 3,438 to 3,440; both excluded anyway). Two shrank: `topics/moral-status-threshold-or-degrees` −4 to 3,010 and `topics/phenomenal-authority-and-first-person-evidence` −1 to 4,511, still over its limit by itself. No shrink brings any pair under a limit.
+  - The fitting-pair set shrank from 183 to 154 and gained no new pair; every 11-09 pair was already in the 11-08 set. All 29 losses are eligibility losses, none a length crossing: 13 pairs through `concepts/perception` (new open task), 7 through `concepts/self-model-theory-of-subjectivity` (edited), 5 through `topics/mesoamerican-nahua-philosophy-of-mind`, 3 through `concepts/samkhya-three-way-distinction` and 2 through `concepts/manyism` (new open tasks; one pair ran through two of these pages).
+- **Length gate**: 154 fitting pairs (topics-target 70, concepts-target 84, voids-target 0). The best mid-band cosine is unchanged at 0.166, `concepts/phenomenal-depth` (1,475) + `concepts/phenomenal-presentation` (1,572), with 0 shared 8-grams, 3,047 words combined. Both word counts are unchanged since 11-04, when the pair was declined on the `Versus` carve-out: `phenomenal-presentation` L54 still opens `**Versus [[phenomenal-depth]].**` and defines the two as structure versus mode of givenness, so the tag overlap is the role split, not redundancy. The pair also stays declined on the gates: 0.166 is at the noise ceiling, not clearly above it. The next fitting pairs are 0.101 (`concepts/philosophy-of-mind` + `concepts/status-of-content`) and 0.100 (`concepts/multiple-drafts-model` + `concepts/status-of-content`), both unchanged. The best wide-vocabulary cosine is 0.105, on the depth/presentation pair. 0 fitting pairs reach 0.30 on either vocabulary. The controls are unchanged at 0.617, 0.551 and 0.410 (mid; the self-stultification control read 0.412 at 16:51Z and moves with the vocabulary) and the vectoriser prints 853 docs, 3,828 mid-band words, 23,314 wide words.
+- **Eligibility-blind check**: across all 853 articles, 314 pairs fit under a hard limit (unchanged from 16:51Z), and none reaches cosine 0.20 (best 0.166, the same pair). The shortfall comes from the corpus, not from the exclusion filters.
+- **Real overlap**: 15 eligible pairs have cosine ≥ 0.40, the same 15 as at 16:51Z (none dropped, none new). The smallest overage is unchanged: `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities` + `concepts/source-versus-leeway-incompatibilism`, 5,271 words, 1,271 over the 4,000 limit, cosine 0.484. Next is `concepts/carrolls-regress` + `voids/inference-void`, 1,803 over, then `topics/comparative-consciousness-and-interface-differences` + `concepts/interface-heterogeneity`, 1,916 over. The 6-gram dedup bound covers at most 442 words of the Carroll pair and 547 of the largest, so de-duplication alone cannot close any of these gaps.
+- **Dedup check**: 3,216 eligible pairs share at least 15 6-grams (3,355 at 16:51Z). The "feasible" row count fell from 1 to 0: the 16:51Z row, `topics/consciousness-and-the-problem-of-other-properties` + `concepts/perception`, left because `perception` is now under an open task. The top row by margin is now `topics/the-subject-object-distinction-as-philosophical-discovery` + `concepts/phenomenal-depth` (margin 141, under the 150 seam allowance): it already fits (116 under) and has 25 covered words and cosine well below 0.05. It is not real overlap.
+- **Files changed**: none besides this entry.
 
 ## 2026-11-09T02:22:05+00:00 - refine-draft
 - **Status**: Success

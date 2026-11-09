@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09 03:06:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09 04:00 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected via collect-chatgpt-review; 5,231-word reply, FNV hash-compare of the chunked DOM extraction passed; subject `concepts/ai-hardware-substrate-taxonomy`, recent-aged fallback)
+- **File**: [[reviews/outer-review-2026-11-09-chatgpt-5-6-sol-pro]]
+- **Claims verified**: 20 page quotes/figures grepped against the live article (20 present, 0 fabricated); 6 cross-page claims confirmed (tenets matrix L161 NMW "Not invoked" vs taxonomy L116; coupling page L55 syndrome stream vs taxonomy L94 "one terminal collapse"; organoid page L47 corrections absent from L88; apex L149 P-Q3 discount; changelog Hagan-left-alone); 12 external citations tested at Crossref/OpenAlex/PubMed/publisher — all real; Maley 2024 misattribution CONFIRMED by OpenAlex full-text search (body controls hit, the three attributed examples return 0).
+- **High-value findings**: 5 (Maley misattribution; gate-model "one terminal collapse" contradicting the coupling page and Bäumer 2024 / Sundaresan 2023; NMW paragraph against the tenets matrix and substrate-independence L192, plus unconditioned "causal closure"; neuromorphic reason contradicted by Singh 2024 sMTJ p-bits — verdict stands on quantum origin; organoid corrections and the missing Hagan 2002 reference). Declined: faceted-matrix rebuild, "unresolved" reclassification of gate QPUs, symmetric channel test / adversarial comparator (registered position P-AS1; verification-boundary work already queued), methodology items #18–21 (noted for tune-system).
+- **Tasks generated**: 5 (P1: 3, P2: 2), all refine-draft on `concepts/ai-hardware-substrate-taxonomy` with a Headroom line (3,478/3,500, gate `>=`, net ≤ 0) and the silicon-cannot-host calibration carried.
+- **Pending entry**: `collected` → review file `outer_review_status: processed`.
+
 
 ## 2026-11-09T03:06:43+00:00 - commission-claude-review
 - **Status**: Success
