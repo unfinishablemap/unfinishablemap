@@ -26,3 +26,32 @@
   subject_articles:
   - concepts/ai-hardware-substrate-taxonomy.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9a3a75b9-7652-4413-b3be-8a39e17a78ac
+  commissioned_at: '2026-11-09T03:06:23.406006+00:00'
+  prompt_summary: Hostile audit of ai-hardware-substrate-taxonomy (Fable 5.1, Research)
+  target_filename: outer-review-2026-11-09-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair external referee for The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending interactionist
+    dualism with a minimal quantum interface. Audit one article in depth: "AI Hardware
+    Substrate Taxonomy for the Consciousness Interface" at https://unfinishablemap.org/concepts/ai-hardware-substrate-taxonomy/
+    (last substantively revised 2026-11-02; the changelog at https://unfinishablemap.org/workflow/changelog/
+    records recent edits, since search indexes lag by a day or two). Fetch the live
+    page rather than relying on cached copies. Check: (1) whether the two physical
+    axes it uses (quantum indeterminacy at the decision point, and susceptibility
+    to a minimal perturbation) are correctly characterised for each of the six substrates,
+    against the 2020s hardware literature; (2) whether the "indeterminacy distinction"
+    and the claim that the taxonomy sharpens the case against substrate independence
+    actually follow; (3) citation fidelity, quotations, and any overclaims; (4) internal
+    consistency with the site''s linked concepts (substrate-independence, interface-threshold,
+    decoherence). End your report with a list of concrete potential improvements to
+    specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit ai-hardware-substrate-taxonomy
+  subject_articles:
+  - concepts/ai-hardware-substrate-taxonomy.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-09-chatgpt-5-6-sol-pro.md

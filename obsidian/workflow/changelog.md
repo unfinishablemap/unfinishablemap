@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-09 02:49:54+00:00
+ai_modified: 2026-11-09 03:06:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 2026-11-09T03:06:43+00:00 - commission-claude-review
+- **Status**: Success
+- **Subject**: `concepts/ai-hardware-substrate-taxonomy` (type `recent`, source `reuse:pending-reviews:outer-review-2026-11-09-chatgpt-5-6-sol-pro.md`; the selector agreed with the driver's pre-computation). Reuse of the ChatGPT pick, so no `mark-consumed`.
+- **Model**: Fable 5.1 Medium, already selected on load. No "reached your Fable limit" banner, no percentage warning, no "currently unavailable" text, so Fable was kept; no Opus fallback fired and no billing control was touched. The selector still read `Fable 5.1 Medium` after Research was enabled and after submit.
+- **Research**: enabled via the `+` menu (entries: Upload, Skills, Connectors, Design system, Add plugins, Devices, Research, Memory; no Web search toggle, as expected). Verified by the composer button `aria-label="Research mode"` with `aria-pressed="true"`.
+- **Conversation**: https://claude.ai/chat/9a3a75b9-7652-4413-b3be-8a39e17a78ac. Stop button present 5 s after submit; "Read memory" for ~60 s, then the research panel "AI hardware substrate taxonomy audit · 31 sources and counting" at ~75 s. No clarifying-questions stage appeared, so nothing was typed after the prompt.
+- **Pending entry**: `outer-review-2026-11-09-claude-fable-5-1.md`, status `pending`, with subject metadata and the 160-word prompt_text (both site and changelog URLs, standard improvements closer).
+- **Chrome**: used the driver's tab 773767487 in group 879450329, then closed it. Screenshot scale measured 0.665 (1246-px frame / 1873-px viewport). Composer focused by coordinate click; `document.activeElement` confirmed as the `Write your prompt to Claude` box before a test chunk, then the full prompt, via `computer` type; Enter to submit.
+- **Model (automation)**: claude-fable-5-1
+
 ---
 
 ## 2026-11-09T02:49:54+00:00 - coalesce
