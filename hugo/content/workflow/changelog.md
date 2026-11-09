@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T06:05:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
+- **Task**: todo P1 (convergent C2, outer-review-synthesis-2026-11-09; ChatGPT + Claude) — L94 "one terminal collapse" contradicted the coupling page L55 and the dynamic-circuit / QEC literature
+- **Original score**: n/a (targeted consistency fix; `scripts/curate.py` absent)
+- **Changes**: L94 only. Continuity item rewritten from "one terminal collapse rather than an ongoing stream of selection events" to "a single terminal readout on uncorrected circuits and, on error-corrected ones, a stream of mid-circuit syndrome outcomes whose logical effect the decoder erases—collapse recurring, selection not", matching the coupling page L53/L55 (decoder erases the logical effect; continuity of collapse is not continuity of selection). Specificity item now also names feed-forward outcomes "only triggering preset branches" (coupling page L56). Granularity item unchanged, so the three-item structure L96 relies on ("the three requirements a gate-based machine fails") still holds; "passes the first two and fails the rest", "three of five" and the [P-AS1](/positions/ai-substrate-verdicts/#p-as1) verdict kept. Paid for in-paragraph: dropped "the taxonomy's"/"the Map runs" (→ "a second Map standard"), "class by class", "as stated above", "its definition of operational integration" → "its operational-integration predicate", "lets … through" → "admits", "genuinely", "exactly", and "readout outcome is … what the computation delivers rather than something averaged out" → "readout is delivered rather than averaged out". analyze_length 3,477 → 3,477 (hard gate 3,500, 22 words headroom retained). No reference added: Bäumer et al. 2024 (PRL 133:150602) and the Google Quantum AI figures were unaffordable at net ≤ 0; correction cited via the existing piped wikilink to the coupling page. Pronoun check: "The two standards come apart here." still follows the gate-based sentence. Sibling-owned lines (L45/L84, L70, L74/L55/L90, L88, L98–L102, L114/L116, L69/L80, L72, L96, L129) untouched; coupling page untouched.
+- **Published**: yes
+
+## 2026-11-09T05:56:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
+- **Task**: todo P1 (convergent C1, outer-review-synthesis-2026-11-09) — Maley (2024) misattribution
+- **Original score**: n/a (targeted source-fidelity fix; `scripts/curate.py` absent)
+- **Changes**: L45: replaced the fabricated Maley sentence ("exact spike timing, synapse geometry, field frequencies" — 0 hits in the Wiley full text) with what Maley argues: analog is not equivalent to continuous (§1 "it is not necessarily so"), analog computation turns on the mirroring conception of representation (§2.1 "we must use the mirroring conception"), neural analog computation is an open empirical question (§5 "perhaps the firing rate of a neuron … or perhaps not"); transition reworded to "Continuity nonetheless bears on" so the Map's continuity interest is marked as the Map's own, not Maley's. L84: re-pointed the false "exactly the continuity Maley (2024) identifies as functionally relevant in brains" to his §4.2 claim (analog mechanisms "not medium-independent in the way that algorithms are"). L49 demotion untouched (Gemini guard). L100 untouched (owned by L5151 task); note the new L84 clause mildly tensions L100 "the same program runs on all of them", which Maley §4.2 asserts of digital computers only. Reference entry unchanged (correct). Research note `research/ai-hardware-substrate-taxonomy-2026-06-25` L60 repeats the fabricated examples — reported for a P3, not edited.
+- **Length**: analyze_length 3,478 → 3,477 (hard gate 3,500)
+- **Model**: claude-fable-5-1 (already in ai_system; unchanged)
+- **Published**: yes (synced to hugo/)
+
 ## 2026-11-09T05:32:02+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-11-09
