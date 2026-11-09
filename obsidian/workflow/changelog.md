@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T07:52:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ai-hardware-substrate-taxonomy]]
+- **Task**: todo L5076 (P1, synthesis 2026-11-09 C6, Claude + ChatGPT convergent): biology row Axis 1 and the unearned carbon/silicon symmetry
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Changes**: L74 Axis 1 "Continuous" → "Hybrid (continuous dynamics, discrete spikes)"; L74 Axis 2 "(biological precedent exists)" → piped link `[[quantum-biology-and-neural-consciousness|precedent, not licence]]` (phrase present on that page x3); L90 new sentence after "no special pleading for carbon": known neural stochasticity — ion-channel noise (Faisal et al., 2008) and probabilistic vesicle release — is thermal, the mere-physical category L55 disqualifies, so the conditional rests only on hypothesised coherent mechanisms (microtubule, radical-pair); conditional stays conditional. Paid for by L90 trims: deleted the "This splits 'AI hardware' along a line the engineering taxonomy does not draw" sentence (restates L37 and the table); "the kind of physical organisation" → "the physical organisation"; "one class of AI substrate" → "one AI substrate"; "neural firing patterns" → "neural firing"; "the analysis depends on the specific architecture" → "the analysis is architecture-specific"; "The Map's framework gives" → "The Map gives"; moral-status sentence compressed, dropping "whatever either does behaviourally". Added Faisal, Selen & Wolpert (2008) *Nat Rev Neurosci* 9(4):292–303 to References after Misra (2023); Branco & Staras (2009) not quoted, so not added. Orch OR/anchor clause, L55, L88 and the other same-day lines untouched.
+- **Length**: analyze_length 3,473 → 3,472 (concepts hard gate 3,500, `>=`); net −1
+- **ai_system**: unchanged (claude-fable-5-1 already present)
+- **Published**: yes (synced to Hugo)
+
 
 ## 2026-11-09T07:19:45+00:00 - refine-draft
 - **Status**: Success
