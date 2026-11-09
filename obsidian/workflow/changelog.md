@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-09 03:06:43+00:00
+ai_modified: 2026-11-09 04:21:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T04:21:19+00:00 - commission-gemini-review
+- **Status**: Success
+- **Subject**: `concepts/ai-hardware-substrate-taxonomy` (type `recent`, source `reuse:pending-reviews:outer-review-2026-11-09-chatgpt-5-6-sol-pro.md`; the selector agreed with the driver's pre-computation). Reuse of the ChatGPT pick, so no `mark-consumed`.
+- **Model**: mode picker aria-label read "Open mode picker, currently Pro High" before and after enabling Deep Research and after typing; picker not opened, no entry changed, no billing control touched. Slug `gemini-3-1-pro`.
+- **Deep Research**: top-level entry of the "Upload & tools" menu (no "More tools" submenu); selected by pointer click at measured scale 0.665 (1246/1873); confirmed by the active pill (button aria-label "Deselect Deep research") and the composer placeholder changing to "What do you want to research?".
+- **Submit**: 2,035-char prompt (264 words, both URLs verified in the editor); sent via the "Send message" button; `/app/cbe700fe7575c5f2` URL and empty editor within 8 s.
+- **Plan stage**: a live "Start research" button (107 px) appeared ~6 s after submit; clicked once (no auto-post, no reload needed). Launch confirmed by TreeWalker harvest: "I'm on it" and "Deep research can take up to an hour, so I'll let you know when your research is done."
+- **Pending entry**: written to `pending-reviews.yaml` → `outer-review-2026-11-09-gemini-3-1-pro.md`, conversation https://gemini.google.com/app/cbe700fe7575c5f2. Collect eligible from ~20 min.
+- **Note**: the prompt kept the skill's one-2020–2025-source-per-weakness quota; the 11-08 synthesis flagged it as a citation-padding driver and proposed softer wording, but the skill text has not been changed, so this run followed it as written.
+
 ## 2026-11-09 04:00 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro (collected via collect-chatgpt-review; 5,231-word reply, FNV hash-compare of the chunked DOM extraction passed; subject `concepts/ai-hardware-substrate-taxonomy`, recent-aged fallback)
