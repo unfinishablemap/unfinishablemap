@@ -4,7 +4,7 @@ description: "Observational closure distinguishes empirical from metaphysical ca
 created: 2026-03-13
 modified: 2026-10-15
 human_modified:
-ai_modified: 2026-10-25T17:42:09+00:00
+ai_modified: 2026-11-09T18:38:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,13 +23,13 @@ related_articles:
   - "[[conservation-laws-and-mental-causation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-03-13
 last_curated:
 last_deep_review: 2026-07-31T04:20:24+00:00
 ---
 
-Observational closure is the thesis that no *observable* violations of physical causal patterns exist—that physics appears causally complete in every domain accessible to experiment. Bradford Saad (2025) introduced this distinction to separate what the evidence actually shows from the stronger metaphysical claim that [[causal-closure|causal closure]] defenders typically assert. The distinction matters because the standard argument against [[mental-causation-and-downward-causation|mental causation]] requires *universal* closure (no exceptions anywhere), while the scientific evidence supports only observational closure (no *detectable* exceptions). Dualists who accept observational closure while denying universal closure can maintain that consciousness genuinely causes physical effects without contradicting any empirical finding.
+Observational closure is the thesis that no *observable* violations of physical causal patterns exist—that physics appears causally complete in every domain accessible to experiment. Bradford Saad (2025) named this distinction, citing E. J. Lowe's (2003) model of invisible mental causation, to separate what the evidence actually shows from the stronger metaphysical claim that [[causal-closure|causal closure]] defenders typically assert. The distinction matters because the standard argument against [[mental-causation-and-downward-causation|mental causation]] requires *universal* closure (no exceptions anywhere), while the scientific evidence supports only observational closure (no *detectable* exceptions). Dualists who accept observational closure while denying universal closure can maintain that consciousness genuinely causes physical effects without contradicting any empirical finding.
 
 ## The Distinction
 
@@ -130,6 +130,7 @@ The distinction also bears on testability. Observational closure sets a floor, n
 ## References
 
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Lowe, E. J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In S. Walter & H.-D. Heckmann (eds.), *Physicalism and Mental Causation: The Metaphysics of Mind and Action*, Imprint Academic, pp. 137–154. https://philpapers.org/rec/LOWPCC
 1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(2), 223-236. doi:10.1515/mp-2019-0026
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.

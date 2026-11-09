@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-10-30 10:54:23+00:00
+ai_modified: 2026-11-09 18:38:51+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-10-16 10:28:34+00:00
 apex_sources:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:17:36+00:00
-lastmod: 2026-10-30 10:54:23+00:00
+lastmod: 2026-11-09 18:38:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ The companion worry—that any such influence must inject energy and violate con
 
 The first response carries the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt). If selection shifts outcome frequencies, it predicts a Born-rule deviation not yet observed; if it does not, what selection adds beyond chance is unexplained, and Born-preserving selection leaves probabilistic closure intact. The second horn is Pereboom's wild-coincidences charge in physical dress, and the Map's Born-preserving design sits on it. Until a worked model shows token-level selection to be the agent's settling rather than a correlate of it, the selector model counts as a framework-internal coherence result, not established mental causation.
 
-The second response draws on Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025): experiences *[preempt](/concepts/delegatory-causation/)* rather than overdetermine the default causal profile of brain states, and Saad's distinction between *universal* and *[observational closure](/concepts/observational-closure/)* parallels the quantum framework—mental causation can be genuine without producing detectable anomalies. Preemption can run either way, though: which side preempts is a framework commitment.
+The second response draws on Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025): experiences *[preempt](/concepts/delegatory-causation/)* rather than overdetermine the default causal profile of brain states, and the distinction Saad names between *universal* and *[observational closure](/concepts/observational-closure/)* parallels the quantum framework—mental causation can be genuine without producing detectable anomalies. Preemption can run either way, though: which side preempts is a framework commitment.
 
 [Clinical neuroplasticity](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) adds third-personal data. Meta-analyses find CBT and medication achieving comparable outcomes through *preferentially* different neural pathways—top-down cortical-to-limbic versus bottom-up neurochemical—though the routes also converge on shared nodes such as the amygdala and caudate. That different inputs take different routes does not by itself fix the direction of propagation, but a detailed enough physical account can absorb even a robust directional tendency. The clinical article's own grade is that the findings are compatible with both readings: they remove the epiphenomenalist's defeater—that consciousness makes no measurable difference—without discriminating mental from neural causation. Schwartz's foundational OCD study was also small, lacks same-method replication outside the UCLA group, and its protocol overlaps with standard exposure therapy.
 

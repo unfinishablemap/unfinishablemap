@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-10-21 13:33:29+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
+ai_modified: 2026-11-09 18:38:51+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[causal-closure]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 07:33:33+00:00
-lastmod: 2026-10-21 13:33:29+00:00
+lastmod: 2026-11-09 18:38:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,7 +117,7 @@ The response that "decoherence restores effective classicality" does not address
 
 A separate decoherence worry targets the Map's positive proposal rather than the closure gap. If superpositions in warm neural tissue collapse too fast for consciousness to select among them (Tegmark's objection), Stapp's mechanism has no indeterminacy left to exploit. The Map takes this as a bounded, testable commitment: as [observational-closure](/concepts/observational-closure/) concedes, the mechanism is falsifiable and would fail if neural quantum coherence proves physically impossible. The closure argument itself does not rest on it — it turns on the interpretation-dependence of collapse, whether or not Stapp's specific proposal survives.
 
-Sophie Gibb (2010) reinforces the physics-based challenge from within the philosophy of physics. Conservation laws, she argues, do not establish causal completeness of the physical domain. The derivation of conservation from spatial symmetries (Noether's theorem) does not entail that no non-physical influences exist — it entails only that physics is invariant under certain transformations. Bradford Saad's distinction between [observational and universal closure](/concepts/observational-closure/) provides the framework: physics supports observational closure (no *detectable* violations) but not universal closure (no violations *anywhere*). The empirical evidence underdetermines the metaphysics. This carries an acknowledged cost: the general claim that *some* mental causation occurs leaves no detectable trace in aggregate and is, to that extent, unfalsifiable — while *specific* mechanisms (neural coherence timescales, Born-rule compliance) remain testable. The interaction hides in the statistics; the mechanisms that would implement it do not.
+Sophie Gibb (2010) reinforces the physics-based challenge from within the philosophy of physics. Conservation laws, she argues, do not establish causal completeness of the physical domain. The derivation of conservation from spatial symmetries (Noether's theorem) does not entail that no non-physical influences exist — it entails only that physics is invariant under certain transformations. The distinction Saad (2025) names, after Lowe (2003), between [observational and universal closure](/concepts/observational-closure/) provides the framework: physics supports observational closure (no *detectable* violations) but not universal closure (no violations *anywhere*). The empirical evidence underdetermines the metaphysics. This carries an acknowledged cost: the general claim that *some* mental causation occurs leaves no detectable trace in aggregate and is, to that extent, unfalsifiable — while *specific* mechanisms (neural coherence timescales, Born-rule compliance) remain testable. The interaction hides in the statistics; the mechanisms that would implement it do not.
 
 ## An Empirical Claim Hardened into an Axiom
 
@@ -160,14 +160,15 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 7. List, C. & Menzies, P. (2009). "Nonreductive Physicalism and the Limits of the Exclusion Principle." *Journal of Philosophy*, 106(9), 475–502.
 8. Loewer, B. (2007). "Mental Causation, or Something Near Enough." In B.P. McLaughlin & J.D. Cohen (Eds.), *Contemporary Debates in Philosophy of Mind* (pp. 243–265). Blackwell.
 9. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
-10. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
-11. Montero, B.G. & Papineau, D. (2005). "A Defence of the Via Negativa Argument for Physicalism." *Analysis*, 65(3), 233–237. doi:10.1093/analys/65.3.233
-12. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-13. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
-14. Pitts, J.B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673–707. doi:10.1007/s11406-019-00102-7
-15. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
-16. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3–4), 939–967. doi:10.1007/s11098-025-02290-3
-17. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-18. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
-19. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-20. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
+10. Lowe, E.J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic, pp. 137–154.
+11. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
+12. Montero, B.G. & Papineau, D. (2005). "A Defence of the Via Negativa Argument for Physicalism." *Analysis*, 65(3), 233–237. doi:10.1093/analys/65.3.233
+13. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+14. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
+15. Pitts, J.B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673–707. doi:10.1007/s11406-019-00102-7
+16. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
+17. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3–4), 939–967. doi:10.1007/s11098-025-02290-3
+18. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+19. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
+20. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
+21. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/

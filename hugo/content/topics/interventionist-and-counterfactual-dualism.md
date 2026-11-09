@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-11-05 15:44:42+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-09 18:38:51+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-03 15:47:00+00:00
-lastmod: 2026-11-05 15:44:42+00:00
+lastmod: 2026-11-09 18:38:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ The crucial structural claim is that difference-making is not energy transfer, s
 
 Both Kroedel and Vaassen descend from an older invisible-causation lineage. Eugene Mills's "Interactionism and Overdetermination" (1996) argues the causal-closure argument against dualism fails because overdetermination is not ruled out, and defends **overdeterministic interactionism**: an arm's rising is overdetermined by both a non-physical mental cause and a physical cause. The structural insight the Map already borrows is that overdetermination is objectionable only when *coincidental* — when two independent processes happen to converge. A systematic mind–body law makes the convergence non-coincidental, stripping the overdetermination of its "bad" flavour.
 
-E. J. Lowe's "Physical Causal Closure and the Invisibility of Mental Causation" (2003) adds the other half. Lowe develops models on which, *if* mental causation is real, it would nonetheless appear to physical scientists that all the causation in human behaviour is purely physical. He distinguishes what the physicalist is entitled to — *observational* closure, meaning no *detectable* trajectory violation — from closure full-stop. If lawful co-causation preserves observational closure, the dualist has not taken on the bad kind of overdetermination.
+E. J. Lowe's "Physical Causal Closure and the Invisibility of Mental Causation" (2003) adds the other half. Lowe develops models on which, *if* mental causation is real, it would nonetheless appear to physical scientists that all the causation in human behaviour is purely physical. He distinguishes what the physicalist is entitled to — no *detectable* trajectory violation, what Saad (2025) later labels *observational closure* — from closure full-stop. If lawful co-causation preserves observational closure, the dualist has not taken on the bad kind of overdetermination.
 
 Lowe's route matters to the diagnostic below because it prizes exactly what the Map's trumping route prizes — observational invisibility — yet reaches it by *co-causation* rather than by authority-selection. The Map's own [observational-closure](/concepts/observational-closure/) concept leans on Lowe; the family that supplies it does not, on its own terms, need trumping.
 
@@ -147,3 +147,4 @@ Two honest caveats bound the diagnostic. First, "leans toward" is not "entails":
 13. Vaassen, B. (2021). "Dualism and Exclusion." *Erkenntnis* 86(3): 543–552. https://link.springer.com/article/10.1007/s10670-019-00118-1 — distinct from entry 3, which shares its year; another exclusion-tightening paper, whose core/total co-causation claim reference 10 rebuts.
 14. Gibb, S. C. (2013). "Mental Causation and Double Prevention." In S. C. Gibb, E. J. Lowe & R. D. Ingthorsson (eds.), *Mental Causation and Ontology*. Oxford University Press, pp. 193–214. https://doi.org/10.1093/acprof:oso/9780199603770.003.0009 — the powers/double-prevention branch adjacent to this family, not a member of it.
 15. Baumgartner, M. (2010). "Interventionism and Epiphenomenalism." *Canadian Journal of Philosophy* 40(3): 359–383. https://doi.org/10.1080/00455091.2010.10716727
+16. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3

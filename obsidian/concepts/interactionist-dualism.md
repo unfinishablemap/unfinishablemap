@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-10-30T21:25:23+00:00
+ai_modified: 2026-11-09T18:38:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,7 +118,7 @@ Two responses address the exclusion argument:
 
 **Quantum response**: The Map rejects premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds physics is *not* causally closed at quantum indeterminacies—physics specifies probabilities but not outcomes. Mechanisms are [[#quantum-interactionism|compared below]].
 
-**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Through [[delegatory-causation|causal delegation]], physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles; when pain causes wincing, the physical state's role is [[trumping-preemption|preempted]]—instantiating Schaffer's trumping structure, where a higher-order law selects one of two sufficient processes as authoritative. Saad's distinction between universal closure and [[observational-closure|observational closure]] shows dualists need only respect empirical constraints, not the stronger metaphysical claim. The [[delegation-meets-quantum-selection|delegation-selection bridge]] integrates both responses: Saad's default causal profile maps onto the Born-rule distribution, making delegation the causal structure and quantum selection a candidate physical mechanism of a single event.
+**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Through [[delegatory-causation|causal delegation]], physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles; when pain causes wincing, the physical state's role is [[trumping-preemption|preempted]]—instantiating Schaffer's trumping structure, where a higher-order law selects one of two sufficient processes as authoritative. The distinction Saad names between universal closure and [[observational-closure|observational closure]] shows dualists need only respect empirical constraints, not the stronger metaphysical claim. The [[delegation-meets-quantum-selection|delegation-selection bridge]] integrates both responses: Saad's default causal profile maps onto the Born-rule distribution, making delegation the causal structure and quantum selection a candidate physical mechanism of a single event.
 
 ## The Multi-Mind Collapse Problem
 

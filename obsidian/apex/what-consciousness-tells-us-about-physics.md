@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-09-19
 human_modified: null
-ai_modified: 2026-11-01T00:41:15+00:00
+ai_modified: 2026-11-09T18:38:51+00:00
 last_deep_review: 2026-07-20T01:22:52+00:00
 draft: false
 topics:
@@ -109,7 +109,7 @@ From [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: the Bo
 
 This rules out: Bohmian mechanics, superdeterminism, and any interpretation where outcomes are predetermined by physical facts we happen not to know.
 
-Bradford Saad's [[observational-closure|distinction between universal and observational closure]] sharpens the point: empirical evidence supports only *observational* closure—that no observable violation of physical law has been detected—not the metaphysical claim that every event has a sufficient physical cause. That gap is where consciousness could operate. Buhler's (2020) survey reinforces it: every extant argument for universal closure either begs the question against dualism or generalises from observed regularities to metaphysical exhaustiveness. Saad's own [[delegatory-dualism|delegatory account]] (2025) occupies the opening without inflating either side ontologically.
+[[observational-closure|Observational closure]], as Saad (2025) names it, sharpens the point: empirical evidence supports only *observational* closure—that no observable violation of physical law has been detected—not the metaphysical claim that every event has a sufficient physical cause. That gap is where consciousness could operate. Buhler's (2020) survey reinforces it: every extant argument for universal closure either begs the question against dualism or generalises from observed regularities to metaphysical exhaustiveness. Saad's own [[delegatory-dualism|delegatory account]] (2025) occupies the opening without inflating either side ontologically.
 
 ### 3. Something Non-Physical Modulates Outcome Selection
 

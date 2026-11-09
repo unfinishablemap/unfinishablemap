@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-11-01 00:41:15+00:00
+ai_modified: 2026-11-09 18:38:51+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-17 01:05:00+00:00
 apex_sources:
@@ -53,7 +53,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:22:52+00:00
-lastmod: 2026-11-01 00:41:15+00:00
+lastmod: 2026-11-09 18:38:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,7 +115,7 @@ From [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): the Bo
 
 This rules out: Bohmian mechanics, superdeterminism, and any interpretation where outcomes are predetermined by physical facts we happen not to know.
 
-Bradford Saad's [distinction between universal and observational closure](/concepts/observational-closure/) sharpens the point: empirical evidence supports only *observational* closure—that no observable violation of physical law has been detected—not the metaphysical claim that every event has a sufficient physical cause. That gap is where consciousness could operate. Buhler's (2020) survey reinforces it: every extant argument for universal closure either begs the question against dualism or generalises from observed regularities to metaphysical exhaustiveness. Saad's own [delegatory account](/topics/delegatory-dualism/) (2025) occupies the opening without inflating either side ontologically.
+[Observational closure](/concepts/observational-closure/), as Saad (2025) names it, sharpens the point: empirical evidence supports only *observational* closure—that no observable violation of physical law has been detected—not the metaphysical claim that every event has a sufficient physical cause. That gap is where consciousness could operate. Buhler's (2020) survey reinforces it: every extant argument for universal closure either begs the question against dualism or generalises from observed regularities to metaphysical exhaustiveness. Saad's own [delegatory account](/topics/delegatory-dualism/) (2025) occupies the opening without inflating either side ontologically.
 
 ### 3. Something Non-Physical Modulates Outcome Selection
 
