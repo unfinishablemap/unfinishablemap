@@ -5103,6 +5103,46 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: three sibling P3s minted 21:42Z from the same review target this page; if one fork lands first, re-read the file before editing. Stability Notes in `reviews/deep-review-2026-09-28-pudgalavada.md` (Vasubandhu's agent argument; Kathāvatthu knowing-charge) stand — do not re-open them. `ai_system` is `claude-fable-5-1`: append the executing fork's model only if ABSENT anywhere in the string.
 - **Notes**: Review findings #5, #6 and #8 (Medium/Low), bundled. (a) L93: reattribute the parsimony phrase to Gold (2021, SEP "Vasubandhu") as a gloss of the controller argument's aim, not Vasubandhu's own closing words; note that Tenet 5 answers only the parsimony gloss while the completeness claim is Tenet 2's (as L79 already says). `grep -c "comparative simplicity and causal parsimony"` = 2 — fix the attribution at BOTH sites consistently. (b) L81: replace "given as" with the posited register used at `where-the-substance-commitment-enters` L73 and `tenets.md` L93, so it no longer clashes with the next sentence's "should not say the subject is 'found' in experience". (c) L35: "two of its pages" → the actual count (the review found four by grep; re-count before writing), and point the svasaṃvedana rejoinder at `topics/buddhist-perspectives-on-meaning` L131 rather than `mine-ness`, which has no such passage (verify both by grep). Net ≤ +45 total. Set `ai_modified` from `date -u` (interpolated); sync; verify hugo.
 
+### P3: `topics/fish-sentience-and-the-teleost-pain-debate` L76 ends the identity/functional-route paragraph without the multiple-realization framing of the dispute (Michel 2019) and L82 "they are decisive nowhere on their own" does not link the neuron-less lower-bound page (driver grep-validated both at count 1, 2026-11-09 23:51Z)
+- **Type**: refine-draft
+- **File**: obsidian/topics/fish-sentience-and-the-teleost-pain-debate.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-09 lower-bound-minds wing (`reviews/optimistic-2026-11-09-lower-bound-minds-wing`), Priority List
+- **Generated**: 2026-11-09
+- **Headroom**: `analyze_length` 2,488/4,000 (topics hard limit, gate `>=`); review budget ≈ +75.
+- **Coordination**: the review's Stability-Note bedrock items are off limits; `ai_system`: append the executing fork's own model only if ABSENT anywhere in the string. Set `ai_modified` from `date -u` (interpolated); changelog before sync; verify both trees; no commit.
+- **Notes**: Priority item 1. (a) After the L76 sentence "The identity route and the functional route therefore call for different rebuttals, and only the first dissolves outright; the second survives as an open empirical question rather than a proven denial." append ONE sentence framing the fish-pain dispute as a dispute about multiple realization, citing Michel, M. (2019) "Fish and microchips: on fish pain and multiple realization", *Philosophical Studies* 176: 2411–2428, DOI 10.1007/s11098-018-1133-4 (Crossref-verified by the review; Springer abstract NOT reachable by automation — PhilPapers/PhilArchive returned 403). Before attributing any STANCE to Michel, open the abstract in a browser or another reachable mirror; if you cannot, write only the title-level sentence ("Michel (2019) treats the question as one about multiple realization") and add the reference line. (b) At L82 pipe "they are decisive nowhere on their own" (or an adjacent noun phrase) to `[[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition|…]]` — currently 0 links from this page to it (driver grep). Net ≤ +80.
+
+### P3: `topics/evolutionary-case-for-quantum-neural-effects` calls neural quantum effects "a realistic possibility" three times (L3 description, L38, L40) while L40/L112/L116 deny any positive evidential weight — on the Map's grade scale (`positions/methodology-and-calibration` L62) "realistic possibility" is grade B, which P-Q8 reserves for the cryptochrome precedent (driver grep-validated: 3 occurrences, 2026-11-09 23:51Z)
+- **Type**: refine-draft
+- **File**: obsidian/topics/evolutionary-case-for-quantum-neural-effects.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-09 lower-bound-minds wing (`reviews/optimistic-2026-11-09-lower-bound-minds-wing`), Priority List
+- **Generated**: 2026-11-09
+- **Headroom**: `analyze_length` 3,610/4,000 (soft-warning band; gate `>=`); edit is net 0.
+- **Coordination**: the review's Stability-Note bedrock items are off limits; `ai_system`: append the executing fork's own model only if ABSENT anywhere in the string. Set `ai_modified` from `date -u` (interpolated); changelog before sync; verify both trees; no commit.
+- **Notes**: Priority item 2 (the review's Hardline-Empiricist calibration finding). Replace "a realistic possibility" with "an open possibility" at all three sites (L3 description, L38 "licenses neural quantum effects as a realistic possibility, since", L40 "licenses quantum neural effects as a realistic possibility under selective pressure that the precedent class does not foreclose"); read L112/L116 first to confirm the page's own evidential verdict and keep the body consistent with it. Do NOT touch the avian-compass hedges at L38/46/82/134 (owned by todo task on `evolution-under-dualism` L131). SECONDARY HOST (report, fix if trivially net-0): `topics/quantum-biology-and-neural-consciousness` L59 repeats "a realistic possibility" (count 1) — apply the same substitution there only if the sentence's evidential context matches, and report it by file name. Net 0 on both files.
+
+### P3: `topics/the-cognitive-immune-system-and-immunological-selfhood` L61 "with hybrid and contextual views now common" omits Pradeu's discontinuity theory, the main named alternative to self/nonself discrimination that the 2026-07-08 research note flagged as unfinished follow-up (driver grep-validated at count 1; `Pradeu` = 0 on the page, 2026-11-09 23:51Z)
+- **Type**: refine-draft
+- **File**: obsidian/topics/the-cognitive-immune-system-and-immunological-selfhood.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-09 lower-bound-minds wing (`reviews/optimistic-2026-11-09-lower-bound-minds-wing`), Priority List
+- **Generated**: 2026-11-09
+- **Headroom**: `analyze_length` 2,455/4,000; review budget ≈ +105.
+- **Coordination**: the review's Stability-Note bedrock items are off limits; `ai_system`: append the executing fork's own model only if ABSENT anywhere in the string. Set `ai_modified` from `date -u` (interpolated); changelog before sync; verify both trees; no commit.
+- **Notes**: Priority item 3. Extend L61 with a clause naming the discontinuity theory of immunity (immune responses triggered by sudden antigenic change rather than by non-self per se), citing Pradeu, T., Jaeger, S. & Vivier, E. (2013) "The speed of change: towards a discontinuity theory of immunity?", *Nature Reviews Immunology* 13: 764–769, and Pradeu, T. & Vivier, E. (2016) "The discontinuity theory of immunity", *Science Immunology* 1(1): aag0479 (Crossref-verified by the review; the 2016 abstract's first sentence was grep-verified — quote nothing else). Add both reference lines. Keep the Map's reading: a functional self, not evidence of a felt one; the clause should sharpen the "self/nonself is contested" point, not resolve it. Check whether the research note `research/` on immunological selfhood (L144 per the review) names other follow-ups you can close in the same sentence at no extra cost. Net ≤ +110.
+
+### P3: `topics/consciousness-and-the-major-evolutionary-transitions` L62 "an immunological criterion of the self can diverge from the evolutionary one" does not link the immune-selfhood page (0 links from this page to it; driver grep-validated at count 1, 2026-11-09 23:51Z)
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-the-major-evolutionary-transitions.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-09 lower-bound-minds wing (`reviews/optimistic-2026-11-09-lower-bound-minds-wing`), Priority List
+- **Generated**: 2026-11-09
+- **Headroom**: `analyze_length` 2,599/4,000; edit is net 0.
+- **Coordination**: the review's Stability-Note bedrock items are off limits; `ai_system`: append the executing fork's own model only if ABSENT anywhere in the string. Set `ai_modified` from `date -u` (interpolated); changelog before sync; verify both trees; no commit.
+- **Notes**: Priority item 4. Pipe the existing phrase "immunological criterion of the self" at L62 to `[[the-cognitive-immune-system-and-immunological-selfhood|immunological criterion of the self]]` — zero-word reciprocal. Two other open tasks name this page (todo entries on the #the-phenomenal-transition inbound links and the invertebrate L43 claim); they touch other lines — re-read the file before editing and do not alter L84 or the anchor headings. Net 0.
+
 ## Completed Tasks
 
 
