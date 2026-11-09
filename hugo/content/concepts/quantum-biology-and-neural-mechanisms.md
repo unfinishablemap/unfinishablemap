@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-11-08 19:04:58+00:00
+ai_modified: 2026-11-09 17:37:06+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -39,8 +39,8 @@ description: Quantum effects in living systems—magnetoreception and enzyme tun
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-25 08:47:51+00:00
-lastmod: 2026-11-08 19:04:58+00:00
+last_deep_review: 2026-11-09 17:37:06+00:00
+lastmod: 2026-11-09 17:37:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,11 +88,11 @@ Turin proposed that smell detection involves inelastic electron tunneling spectr
 
 ## The Decoherence Challenge
 
-[Tegmark (2000)](/concepts/decoherence/) estimated microtubule conformational superpositions—the structures Penrose-Hameroff orchestrated-objective-reduction requires—would decay in ~10⁻¹³ seconds; ten billion times shorter than millisecond neural processes. Tegmark's calculation was specifically aimed at this proposal class and does not directly address discrete-event mechanisms (ion-channel tunnelling, SNARE tunnelling, Posner-molecule nuclear spins). Hagan, Hameroff & Tuszynski (2002) presented a counter-calculation: they argued Tegmark assumed thermal equilibrium (dead tissue), oversized superposition separations, and charge-charge rather than dipole interactions, yielding estimates around 10⁻⁵ to 10⁻⁴ seconds (~10-100 microseconds). Hagan et al. are Hameroff collaborators with vested interest in defending Orch OR; their counter-calculation has not been independently replicated in the 24 years since publication, and the underlying assumptions remain contested by decoherence theorists. The dispute is unresolved, not a settled correction.
+[Tegmark (2000)](/concepts/decoherence/) estimated that superposed kink-like excitations in microtubules—his stand-in for the conformational superpositions Penrose-Hameroff orchestrated-objective-reduction requires—would decay in ~10⁻¹³ seconds; ten billion times shorter than millisecond neural processes. Tegmark's calculation was specifically aimed at this proposal class and does not directly address discrete-event mechanisms (ion-channel tunnelling, SNARE tunnelling, Posner-molecule nuclear spins). Hagan, Hameroff & Tuszynski (2002) presented a counter-calculation: they argued Tegmark had modelled a soliton hybrid rather than Orch OR's conformational superposition, assumed thermal equilibrium (dead tissue), oversized superposition separations, and charge-charge rather than dipole interactions, yielding estimates around 10⁻⁵ to 10⁻⁴ seconds (~10-100 microseconds). Hagan et al. are Hameroff collaborators with vested interest in defending Orch OR; their counter-calculation has not been independently replicated, and the underlying assumptions remain contested by decoherence theorists. The dispute is unresolved, not a settled correction.
 
 | Source | Coherence Time | Status |
 |--------|---------------|--------|
-| Tegmark (2000) | 10⁻¹³ s | Aimed at Orch-OR-style microtubule conformational superpositions; thermal-equilibrium assumption disputed |
+| Tegmark (2000) | 10⁻¹³ s | Aimed at Orch-OR-style microtubule superpositions, modelled as kinks; thermal-equilibrium assumption disputed |
 | Hagan et al. (2002) | 10⁻⁵ to 10⁻⁴ s | Counter-calculation by Hameroff collaborators; not independently replicated |
 | Fisher (2015) | ~10⁵ s | Nuclear spin mechanism (different scale and substrate; estimates remain disputed) |
 
@@ -104,19 +104,19 @@ More fundamentally, decoherence doesn't solve the [measurement-problem](/concept
 
 ## Five Coherence Protection Mechanisms
 
-Five mechanisms have been proposed for protecting quantum coherence in biological systems. None is confirmed in living neurons, but each has theoretical and experimental support.
+Five mechanisms have been proposed for protecting quantum coherence in biological systems. None is confirmed in living neurons, but each has at least theoretical support.
 
 **Hydrophobic microtubule interior**: Microtubule interiors lack water—the primary biological decoherence agent. Aromatic amino acids form π-electron clouds creating a hydrophobic quantum channel. Babcock et al. (2024) predicted ultraviolet superradiance across tryptophan mega-networks in microtubule architectures and confirmed its fluorescence-yield signature experimentally; persistence under ambient conditions remains their projection rather than a measurement.
 
 **Metabolic energy pumping (Fröhlich coherence)**: Continuous metabolic energy input maintains coherent oscillations analogous to laser coherence. Craddock et al. (2017), *Scientific Reports* 7:9877, used molecular-docking and quantum-chemistry simulations to predict that anaesthetics — but not non-anaesthetic structural analogues — disrupt a (613 ± 8) THz collective tubulin oscillation peak, with disruption magnitude tracking clinical potency. This matches Fröhlich predictions; Wiest (2025) reviews the prediction and develops its implications. The 613 THz peak is a computational prediction awaiting direct experimental observation rather than an observation awaiting replication.
 
-**Nuclear spin isolation (Fisher/Posner)**: Phosphorus-31 nuclear spins in Posner molecules (Ca₉(PO₄)₆) have coherence times of **~10⁵ seconds** (over a day) because nuclear spins couple weakly to the electromagnetic environment. In 2025, multi-electrode array experiments showed lithium-6 and lithium-7 have "large and opposite effects on synaptic transmission"—consistent with Fisher's predictions.
+**Nuclear spin isolation (Fisher/Posner)**: Phosphorus-31 nuclear spins in Posner molecules (Ca₉(PO₄)₆) are estimated (Fisher 2015) to keep coherence for **~10⁵ seconds** (over a day) because nuclear spins couple weakly to the electromagnetic environment. Esmaeilpour et al. (2025), a bioRxiv preprint, showed with multi-electrode arrays that lithium-6 and lithium-7 have "large and opposite effects on synaptic transmission"—consistent with Fisher's predictions.
 
 **QED cavity structure**: Mavromatos et al. (2025) proposed that microtubules may function as quantum electrodynamic cavities sustaining high-Q quantum states, shielding them from thermal decoherence. The proposal remains theoretical.
 
 **Ordered water and cytoskeletal gel**: Actin filaments, ordered water layers, and counterion Debye layers screen thermal fluctuations, potentially working synergistically with other mechanisms.
 
-These five mechanisms need not operate independently—their combination could extend coherence far beyond any single mechanism.
+These five mechanisms need not operate independently—their combination could extend coherence beyond any single mechanism.
 
 ## Five Neural Quantum Mechanisms
 
@@ -126,7 +126,7 @@ These five mechanisms need not operate independently—their combination could e
 
 **3. Microtubule quantum coherence (Orch OR and QBIT)**: In [Orch OR](/concepts/quantum-consciousness/), tubulin superpositions undergo gravity-induced collapse producing conscious moments — a contested proposal, not a settled one. The newer QBIT theory proposes spintronic coherence at the axon initial segment. Recent developments: Kalra et al. (2023) found the anaesthetics etomidate and isoflurane reduce exciton diffusion along microtubules; Khan et al. (2024) showed microtubule-stabiliser epothilone B delays anaesthesia in rats (Cohen's d = 1.9), though this also admits a classical reading (microtubules traffic GABA_A receptors, isoflurane's primary target); Wiest (2025) is a partisan Orch-OR advocacy review whose central macroscopic-entanglement claim is contested and parameter-dependent, so its "experimentally supported" is the author's verdict rather than the field's (see [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) for the graded treatment).
 
-**4. Synaptic vesicle release (Beck-Eccles/Georgiev)**: Georgiev & Glazebrook (2018) proposed Davydov solitons twist SNARE protein α-helices, triggering vesicle release via quantum tunneling. Consciousness could bias tunneling probabilities, influencing which synapses fire—a route that would fit [Bidirectional Interaction](/concepts/interactionist-dualism/) without evidencing it.
+**4. Synaptic vesicle release (Beck-Eccles/Georgiev)**: Georgiev & Glazebrook (2018) proposed Davydov solitons twist SNARE protein α-helices, triggering vesicle release via quantum tunneling. Consciousness could select which tunnelling outcome actualises, influencing which synapses fire—a route that would fit [Bidirectional Interaction](/concepts/interactionist-dualism/) without evidencing it.
 
 **5. Posner molecule entanglement (Fisher)**: Uses nuclear spin isolation (see above). Coherence time estimates remain disputed. The QuBrain project at UCSB is pursuing experimental validation.
 
@@ -233,5 +233,5 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Turin, L. (1996). A spectroscopic mechanism for primary olfactory reception. *Chemical Senses*, 21(6), 773-791.
 1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. https://doi.org/10.1073/pnas.0809353105
-1. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7(3), 038001.
+1. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain function". *Journal of Physics Communications*, 7(3), 038001.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.

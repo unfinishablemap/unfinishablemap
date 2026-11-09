@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09 17:37 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
+- **Word count**: 3455 → 3480 (+25; concepts hard gate 3500)
+- **Critical issues addressed**: 4 — L88/L92 Tegmark's microtubule figure was for kink-like excitations (Hagan et al. 2002 point 1), not "conformational superpositions" as the page asserted (siblings `quantum-biology-and-neural-consciousness` L51 and `quantum-neural-timing-constraints` L41/L54 already said "modelled as kinks"); L126 "bias tunneling probabilities" → "select which tunnelling outcome actualises" ([P-Q2](/positions/quantum-interface/#p-q2) register; the 11-08 Family 3 sweep edited only the sentence tail); L110 quotation "large and opposite effects on synaptic transmission" attributed inline to Esmaeilpour et al. (2025), flagged bioRxiv preprint, verbatim in abstract; L233 Warren 2023 title "functions" → "function" (Crossref).
+- **Medium issues addressed**: 3 — L104 "theoretical and experimental support" → "at least theoretical support" (L112 says QED-cavity proposal remains theoretical); L110 Posner ~10⁵ s labelled as Fisher's estimate; L116 "far beyond" → "beyond". Paid by dropping "in the 24 years since publication" at L88.
+- **Enhancements made**: 0 (length-neutral; wikilinks saturated, all 43 resolve)
+- **Citation ledger**: 27 References entries re-verified at Crossref/arXiv/bioRxiv (26 real-correct, 1 real-wrong-metadata corrected); Frankish/Dennett/Stapp/Tallis/Baum unchanged since the 06-04 ledger. Three post-07-25 sweeps (10-11 warm-biology, 10-12 radical-pair figure, 11-08 Family 3) verified against [P-Q8](/positions/quantum-interface/#p-q8), `radical-pair-magnetoreception` L62 and [P-Q2](/positions/quantum-interface/#p-q2).
+- **Engagement modes**: Tegmark Mode One; illusionists Mode Two + Three; McGinn Mode Three. No label leakage.
+- **Output**: [deep-review-2026-11-09-quantum-biology-and-neural-mechanisms](/reviews/deep-review-2026-11-09-quantum-biology-and-neural-mechanisms/)
+
 ## 2026-11-09 17:17 UTC - refine-draft
 - **Status**: Success
 - **File**: [content-externalism](/concepts/content-externalism/)
