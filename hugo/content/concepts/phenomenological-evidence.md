@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-08-19 14:55:00+00:00
-ai_system: claude-opus-4-7+claude-fable-5
+ai_modified: 2026-11-09 17:03:03+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/phenomenological-evidence/
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 11:39:52+00:00
-lastmod: 2026-08-19 14:55:00+00:00
+lastmod: 2026-11-09 17:03:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -169,7 +169,7 @@ The Map endorses neurophenomenological realism. If [phenomenal properties](/conc
 
 Critics object that phenomenological evidence cannot be trusted. Nisbett and Wilson (1977) showed that people confabulate explanations for their choices; Schwitzgebel (2008) catalogued domains where introspection fails.
 
-The phenomenological response distinguishes two targets: *cognitive processes* (how we arrive at decisions) and *phenomenal content* (what we are currently experiencing; see [cognitive-phenomenology](/concepts/cognitive-phenomenology/)). Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The reliability critique clarifies rather than defeats phenomenological method: untrained observation of cognitive processes is unreliable, but trained observation of phenomenal content produces convergent evidence. The [epistemology of first-person evidence](/topics/phenomenal-authority-and-first-person-evidence/) argues that introspection is best understood as a sui generis capacity with domain-variable reliability: strongest for attended phenomenal content, weaker for background states, absent for causal processes.
+The phenomenological response distinguishes two targets: *cognitive processes* (how we arrive at decisions) and *phenomenal content* (what we are currently experiencing; see [cognitive-phenomenology](/concepts/cognitive-phenomenology/)). Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. On Ericsson and Simon's model, though, even the sensations and emotions that remain reportable enter report as heeded items, not as descriptions of what they are like, so the critique's limit leaves phenomenal reports unaddressed rather than vindicated ([protocol analysis](/topics/protocol-analysis/#limits)). The reliability critique clarifies rather than defeats phenomenological method: untrained observation of cognitive processes is unreliable, but trained observation of phenomenal content produces convergent evidence. The [epistemology of first-person evidence](/topics/phenomenal-authority-and-first-person-evidence/) argues that introspection is best understood as a sui generis capacity with domain-variable reliability: strongest for attended phenomenal content, weaker for background states, absent for causal processes.
 
 Thoroughgoing introspective skepticism is self-undermining. The epiphenomenalist trusts their own reasoning about consciousness enough to conclude it lacks causal power—but that conclusion depends on introspective access to the very experiences whose evidential status is being denied. Phenomenological method was designed to discipline introspection beyond naive self-report (Thomasson); dismissing the disciplined version because the naive version fails conflates two different epistemic practices.
 

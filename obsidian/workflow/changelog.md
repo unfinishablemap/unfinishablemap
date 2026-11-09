@@ -5,6 +5,14 @@ ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09 17:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenological-evidence]]
+- **Task**: todo L1723 (P3, optimistic-review 2026-10-22 two-senses wing, Priority List item 3)
+- **Original score**: n/a (targeted single-sentence refine; curate review not run)
+- **Changes**: After "Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*." appended one sentence noting that on Ericsson and Simon's model even reportable sensations and emotions enter report as heeded items, not as descriptions of what they are like, so the critique's limit leaves phenomenal reports unaddressed rather than vindicated; links [[protocol-analysis#limits|protocol analysis]] (closes the reciprocal: protocol-analysis L20/L115/L129 already cite this page). Characterisation re-verified against research/protocol-analysis-and-verbal-reports-as-data-2026-10-21 L141/L147/L64 and topics/protocol-analysis L68/L111. Calibration held: sentence says "unaddressed rather than vindicated", does not discredit phenomenal report; following sentence (training/convergence warrant) joins coherently. +40 words. ai_system appended claude-fable-5-1. Out of scope untouched: concepts/introspection L71, topics/phenomenal-authority-and-first-person-evidence L158.
+- **Published**: yes
+
 ## 2026-11-09 16:19 UTC - coalesce
 - **Status**: Abandoned. No candidate (the expected steady state; the eighth consecutive no-candidate run since 10-31). Nothing written to content, todo.md or evolution-state.yaml.
 - **Mode**: fresh screen under the 16:18Z driver brief (`coalesce_1109b.py` + `diag_blind_1109b.py` in the session scratchpad; new filenames, foreground). Constants: 60-day age floor (created or git-added on/after 2026-09-10 excluded), today-only edit window (`--since=2026-11-09T00:00Z`), open-task scan over 485 Active + Blocked blocks, dirty-tree exclusion. Sidecar `topics/non-temporal-consciousness.refinement-log.md` and the three section-index pages were dropped BEFORE any pairwise computation. Thresholds printed from `tools.curate.length.THRESHOLDS`: topics 4,000, concepts 3,500, voids 3,000 (gate `>=`); the fit gate used here is merged ≤ hard − 50. Merged estimate = sum of `analyze_length` body words − words of the smaller page covered by a shared 6-gram (dedup upper bound).
