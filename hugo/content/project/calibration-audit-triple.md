@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-11-01 13:27:50+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_modified: 2026-11-09 11:35:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts: []
 created: 2026-05-14
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-19 16:00:00+00:00
-lastmod: 2026-11-01 13:27:50+00:00
+lastmod: 2026-11-09 11:35:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -436,6 +436,14 @@ This is a third staleness signal, not a restatement of the two already recorded.
 **"Awaiting replication" is a concrete, greppable trigger phrase**, and that is what makes this implementable on the existing budget rather than a new one. A local phrase scan — *awaiting replication*, *not yet replicated*, *single-study*, *awaiting verification*, *as of [year]* — nominates candidates at cycle frequency with no external call, and Audit One's weekly WebSearch resolves one per run. The scan must discriminate rather than flatten: a corpus grep on the day this was written found the phrase doing correct work in [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) and [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), both of which distinguish a *computational prediction awaiting experimental verification* from an *observation awaiting replication*. A flag is a nomination for the weekly pass, never a defect.
 
 **Operator disposition.** Clause (i)(b) and the phrase-scan discrimination are review-pass habits available immediately and recorded as such. The two enforcement questions stay with the operator and are already reserved elsewhere: the `last_substantive_revision` field at the 2026-07-28 section above, and wiring the phrase scan into `/literature-drift-review` as a candidate-nomination step, which is skill work in the same reserved class as the other pending items in this document. Inheriting the count the 2026-08-08 section opened: this is the ninth dated capture, and counting the undated proposed-members section the document now carries eight sections recorded as proposed, none marked ratified, enacted or adopted; the proposed-members section has now been pending 87 days, the earliest dated header 57, and the document stands at roughly 5.7× its 3500-word hard threshold. Recorded as a fact about where these proposals accumulate, not as an argument for ratifying this one.
+
+## Proposed: Symmetric-Substitution Lint, Citation Year-Order Check (pending human ratification — 2026-11-09 outer-review)
+
+*Status: proposed, not enacted. Source: the 2026-11-09 Claude review of [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) ([outer-review-2026-11-09-claude-fable-5-1](/reviews/outer-review-2026-11-09-claude-fable-5-1/) items 2 and 6); the synthesis ([outer-review-synthesis-2026-11-09](/reviews/outer-review-synthesis-2026-11-09/)) files both as methodology recurrences M1 and M2 ("Same concern, different objects"); both defects were repaired the same day.*
+
+**(a) Symmetric-substitution lint (deep-review and outer-review processing).** Where a page classifies a physical noise category (thermal, shot, random-telegraph) for one substrate, the reviewer swaps the substrate nouns ("neuron" ↔ "transistor") and re-reads the verdict; a flip is a calibration asymmetry. The taxonomy's L55 disqualified transistor thermal and shot noise as mere-physical while L74/L90 never applied the category to ion-channel noise and vesicle release; two reviewers converged (C6); fixed 2026-11-09 07:52Z (L74 "Hybrid (continuous dynamics, discrete spikes)"; L90 citing Faisal et al. 2008). A review-time lens, not a column in the [per-claim evidence ledger](#proposed-per-revision-recency-gate-per-claim-evidence-ledger-post-correction-citation-role-audit-pending-human-ratification--2026-06-26-outer-review).
+
+**(b) Citation year-order check (citation-verification passes).** A paper cited as answering, rebutting or recalculating another must not predate it: flag any "X (year₁) against Y (year₂)" with year₁ < year₂ in an answer role. The taxonomy credited Hameroff (1998) with the 10⁻⁵–10⁻⁴ s recalculation that Hagan, Hameroff & Tuszyński (2002) produced against Tegmark (2000) — "A 1998 paper cannot rebut a 2000 paper" — fixed 2026-11-09 07:19Z (Hagan et al. 2002 added at L112; C5). A zero-lookup pre-filter for the [citation-integrity sweep](#proposed-members-citation-integrity-sweep-taxonomy-consistency-check-co-optation-gate)'s check (b).
 
 ## A Tension Worth Naming: Bedrock Disagreements and Methodological Freshness
 

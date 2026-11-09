@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T11:36:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Task**: todo L5078 (P2, outer review 2026-11-09 Claude Fable 5.1 Part 5 items 2 and 6; synthesis M1/M2)
+- **Original score**: n/a (operator-facing project document; targeted addition; `scripts/curate.py` absent)
+- **Changes**: appended one new H2 `## Proposed: Symmetric-Substitution Lint, Citation Year-Order Check (pending human ratification — 2026-11-09 outer-review)` after the 2026-08-21 proposal section and before "A Tension Worth Naming" (L435–L441). (a) Symmetric-substitution lint for deep-review/outer-review processing (swap "neuron" ↔ "transistor", re-read the verdict); motivating case recorded as RESOLVED (taxonomy L55 vs L74/L90; C6; fixed 07:52Z). (b) Citation year-order check for citation-verification passes (answer-role cite must not predate its target); motivating case recorded as RESOLVED (Hameroff 1998 vs Hagan et al. 2002 against Tegmark 2000; C5; fixed 07:19Z; reviewer quote "A 1998 paper cannot rebut a 2000 paper" grep count 1). Cross-referenced the existing Citation-Integrity Sweep (year-order = zero-lookup pre-filter for check (b)) and Per-Claim Evidence Ledger (lint = review-time lens, not a ledger column) via heading anchors; synthesis M1 quote "Same concern, different objects" grep count 1. Nothing ratified; Audits One–Three untouched.
+- **Length**: analyze_length 21,600 → 21850 (+250; task cap ≤ 250; project pages carry no section hard gate)
+- **ai_system**: appended +claude-fable-5-1 (absent from the string before; `claude-fable-5` ≠ `claude-fable-5-1`)
+- **Published**: yes (synced to Hugo)
+
 ## 2026-11-09 11:25:46 UTC - deep-review
 - **Status**: Success
 - **File**: [universal-coupling-response](/concepts/universal-coupling-response/)
