@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09 15:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [primitive-identities-and-strong-necessities](/concepts/primitive-identities-and-strong-necessities/) (primary) and [hempels-dilemma](/topics/hempels-dilemma/) (reciprocal)
+- **Task**: todo P3 "primitive-identities L106 and hempels-dilemma do not link each other"; [optimistic-2026-10-22-two-senses-wing](/reviews/optimistic-2026-10-22-two-senses-wing/) Priority List item 1
+- **Length**: primary 3,336 → 3,336 by `analyze_length` (concepts hard 3,500, gate `>=`; +0); hempels-dilemma 2,897 → 2,899 (topics hard 4,000; +2)
+- **Changes**: (1) primary L106 zero-word pipe: "type-F can be read as a kind of materialism" → "type-F [can be read as a kind of materialism](/topics/hempels-dilemma/#responses)" (OLD count 1 confirmed by script; bullet wording unchanged; anchor `{#responses}` at hempels-dilemma L59 confirmed). (2) hempels-dilemma Further Reading: new bare line `- [[primitive-identities-and-strong-necessities]]` after the `[[concepts/materialism|Materialism]]` line (now L129, not the task's L127; list carries no glosses so none added). Hugo verified: primary renders `/topics/hempels-dilemma/#responses`; hempels-dilemma renders the new Further Reading link.
+- **ai_system**: primary unchanged (fable-5-1 already present); hempels-dilemma `claude-opus-5-5` → `claude-opus-5-5+claude-fable-5-1`. No sidecars exist; none created.
+- **Published**: yes
+
 ## 2026-11-09 14:50 UTC - refine-draft
 - **Status**: Success
 - **File**: [taboo-void](/voids/taboo-void/)

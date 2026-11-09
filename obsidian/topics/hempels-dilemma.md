@@ -4,7 +4,7 @@ description: "Hempel's dilemma challenges defining 'physical' by physics on eith
 created: 2026-10-21
 modified: 2026-10-31
 human_modified:
-ai_modified: 2026-10-31T08:47:45+00:00
+ai_modified: 2026-11-09T15:17:51+00:00
 draft: false
 topics:
   - "[[causal-closure-debate-historical-survey]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[hempels-dilemma-and-the-definition-of-the-physical-2026-10-21]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-21
 last_curated:
 last_deep_review: 2026-10-21T13:33:29+00:00
@@ -127,6 +127,7 @@ The reading has costs. It classifies panpsychism and emergentism as non-physical
 - [[russellian-monism]]
 - [[logical-behaviourism]]
 - [[concepts/materialism|Materialism]]
+- [[primitive-identities-and-strong-necessities]]
 
 ## References
 

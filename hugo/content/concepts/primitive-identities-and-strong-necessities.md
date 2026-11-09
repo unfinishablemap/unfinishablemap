@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-22 21:00:43+00:00
+ai_modified: 2026-11-09 15:17:51+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-03 12:12:15+00:00
-lastmod: 2026-10-22 21:00:43+00:00
+lastmod: 2026-11-09 15:17:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +107,7 @@ None of this lifts the Map's case to *suggestive*. Tenet 5 disables the parsimon
 The cost does not show:
 
 - **That the identity is false.** Chalmers grants that the position "remains at least formally open".
-- **Dualism rather than type-F.** Ruling out primitive identities and strong necessities yields "a disjunction" (Chalmers 2003) of type-D dualism, type-E epiphenomenalism and type-F [russellian-monism](/concepts/russellian-monism/), and type-F can be read as a kind of materialism.
+- **Dualism rather than type-F.** Ruling out primitive identities and strong necessities yields "a disjunction" (Chalmers 2003) of type-D dualism, type-E epiphenomenalism and type-F [russellian-monism](/concepts/russellian-monism/), and type-F [can be read as a kind of materialism](/topics/hempels-dilemma/#responses).
 - **Anything specific to interactionism.** The interactionist's [psychophysical law](/concepts/psychophysical-laws/) is just as epistemically primitive, and [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) concedes it as "a genuine explanatory cost". Interactionism also needs selection laws running from experience to physical outcome, a second primitive bridge that Type-B and type-E do without, so on the cost argument's own ledger it carries more than either. The cost argument favours D, E and F alike.
 - **Independent support for dualism.** Because denying strong necessities is equivalent to CP-, this half of the cost belongs to the conceivability cluster that [P-D1](/positions/arguments-for-dualism/#p-d1) treats as premise-sharing. The identity half reaches the same dispute through the law-mark premise, a second route to one disputed point that adds no second piece of evidence.
 - **That identities need explaining in the ontological sense.** Chalmers and Jackson grant that they do not.

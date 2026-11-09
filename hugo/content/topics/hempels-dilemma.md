@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-21
-ai_modified: 2026-10-31 08:47:45+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-11-09 15:17:51+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[causal-closure]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 13:33:29+00:00
-lastmod: 2026-10-31 08:47:45+00:00
+lastmod: 2026-11-09 15:17:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,6 +131,7 @@ The reading has costs. It classifies panpsychism and emergentism as non-physical
 - [russellian-monism](/concepts/russellian-monism/)
 - [logical-behaviourism](/concepts/logical-behaviourism/)
 - [Materialism](/concepts/materialism/)
+- [primitive-identities-and-strong-necessities](/concepts/primitive-identities-and-strong-necessities/)
 
 ## References
 

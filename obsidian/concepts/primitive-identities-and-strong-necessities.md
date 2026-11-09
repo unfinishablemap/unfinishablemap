@@ -4,7 +4,7 @@ description: "Chalmers's charge that Type-B physicalism needs primitive identiti
 created: 2026-10-03
 modified: 2026-10-07
 human_modified:
-ai_modified: 2026-10-22T21:00:43+00:00
+ai_modified: 2026-11-09T15:17:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,7 +103,7 @@ None of this lifts the Map's case to *suggestive*. Tenet 5 disables the parsimon
 The cost does not show:
 
 - **That the identity is false.** Chalmers grants that the position "remains at least formally open".
-- **Dualism rather than type-F.** Ruling out primitive identities and strong necessities yields "a disjunction" (Chalmers 2003) of type-D dualism, type-E epiphenomenalism and type-F [[russellian-monism]], and type-F can be read as a kind of materialism.
+- **Dualism rather than type-F.** Ruling out primitive identities and strong necessities yields "a disjunction" (Chalmers 2003) of type-D dualism, type-E epiphenomenalism and type-F [[russellian-monism]], and type-F [[hempels-dilemma#responses|can be read as a kind of materialism]].
 - **Anything specific to interactionism.** The interactionist's [[psychophysical-laws|psychophysical law]] is just as epistemically primitive, and [[parsimony-case-for-interactionist-dualism]] concedes it as "a genuine explanatory cost". Interactionism also needs selection laws running from experience to physical outcome, a second primitive bridge that Type-B and type-E do without, so on the cost argument's own ledger it carries more than either. The cost argument favours D, E and F alike.
 - **Independent support for dualism.** Because denying strong necessities is equivalent to CP-, this half of the cost belongs to the conceivability cluster that [[positions/arguments-for-dualism#^p-d1|P-D1]] treats as premise-sharing. The identity half reaches the same dispute through the law-mark premise, a second route to one disputed point that adds no second piece of evidence.
 - **That identities need explaining in the ontological sense.** Chalmers and Jackson grant that they do not.
