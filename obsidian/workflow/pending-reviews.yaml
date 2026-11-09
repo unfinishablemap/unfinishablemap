@@ -464,3 +464,31 @@
   subject_articles:
   - concepts/substance-property-dualism.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-06-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6af12a34-7a40-83eb-9c1a-f5577d5a58ea
+  commissioned_at: '2026-11-09T02:05:30.702633+00:00'
+  prompt_summary: Audit ai-hardware-substrate-taxonomy (recent-aged fallback)
+  target_filename: outer-review-2026-11-09-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit the article https://unfinishablemap.org/concepts/ai-hardware-substrate-taxonomy/
+    on The Unfinishable Map (site root: https://unfinishablemap.org), a philosophy
+    site committed to interactionist dualism with minimal quantum interaction. The
+    article was last substantively modified on 2026-11-02, so search engines have
+    had time to re-index it; consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent activity, since web indexes lag by a day or two. Examine the taxonomy
+    of AI hardware substrates it proposes: do its claims about GPUs, neuromorphic
+    chips, analog, photonic and quantum hardware match the current technical literature?
+    Check its citations for accuracy and currency, test whether its counterargument
+    coverage is adequate, look for tenet-protective bracketing where evidence is set
+    aside to shield the site''s dualist commitments, and assess how well it integrates
+    with the surrounding articles it links. Flag insufficient evidence and stale references.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit ai-hardware-substrate-taxonomy
+  subject_articles:
+  - concepts/ai-hardware-substrate-taxonomy.md
+  subject_source: fallback:recent-aged

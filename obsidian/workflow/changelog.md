@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-06T07:25:48+00:00
+ai_modified: 2026-11-09T02:06:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T02:06:15+00:00 - commission-chatgpt-review
+- **Status**: Success
+- **Subject**: `concepts/ai-hardware-substrate-taxonomy` (type `recent`, source `fallback:recent-aged`; selector agreed with the driver's pre-computation). Outer-todo queue had no open task outside its fenced template; no `mark-consumed` needed.
+- **Model**: GPT-5.6 Sol, Pro effort. The composer pill read `5.6 Pro` before and after typing (sticky from prior sessions; nothing changed, GPT-6 not touched). Backend `/backend-api/conversation/<id>` (Bearer from `/api/auth/session`) reports `requested_model_slug`/`resolved_model_slug` = `gpt-5-6-pro` on the sent turn; the post-submit composer pill resetting to `Medium` is cosmetic. Filed slug `gpt-5-6-sol-pro`.
+- **Conversation**: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6af12a34-7a40-83eb-9c1a-f5577d5a58ea (`[data-turn-key]` 0 → 1; reply streaming "Searching the web" at exit, no limit banner)
+- **Pending entry**: `outer-review-2026-11-09-chatgpt-5-6-sol-pro.md`, status `pending`, with subject metadata and the 149-word prompt_text (both site and changelog URLs, standard improvements closer).
+- **Chrome**: used the driver's tab 773753341 in group 1830737085, then closed it. Screenshot scale measured 0.665 (1246-px frame / 1873-px viewport). Composer `[role=textbox][contenteditable=true]`; `#prompt-textarea` absent as expected. Test chunk, then full prompt, via `computer` type; Enter to submit.
+- **Model (automation)**: claude-fable-5-1
+
 ## 2026-11-09T01:50:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-evolution-and-biology]]
