@@ -5,6 +5,17 @@ ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09 11:25:46 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/universal-coupling-response]]
+- **Word count**: 1857 → 1879 (+22)
+- **Critical issues addressed**: 1 — L68 quoted Feinberg & Mallatt (2016) as "complex, fast, hierarchical, systemwide, internal neural interactions"; string absent from the MIT Press book (Google Books search-within, live control 9 hits, target 0; "systemwide" 1 hit = p. 197 "system-wide embodied neural state that is required for consciousness"), from the 2016 *Conscious Cogn* full text (0), from Mallatt's OpenAlex abstracts (0) and the web (0); origin is the Map's 2026-04-06 research note. De-quoted to attributed paraphrase, words unchanged (no third variant; cite kept), as the pending 2026-10-28 refine-draft task specifies — primary host discharged, secondary host `topics/invertebrate-consciousness-as-interface-test` L81 left for that task.
+- **Medium issues addressed**: 2 — L82 heterogeneity defined by provenance ("independently evolved mechanisms") → "different mechanisms in different systems … independent evolution is one route to the latter, not what defines it" (discharges item (4) of the open P3 spillover task; its other four files untouched); L90 "universal coupling follows naturally from the Map's second tenet" → "leaves no basis for a species-dependent threshold, which is what universal coupling expects" (P-CS7 brackets the quantum-interface register).
+- **Enhancements made**: 0 (no expansion; 16/16 wikilinks resolve; NY Declaration "a realistic possibility" verified verbatim)
+- **Engagement modes (editor-internal)**: IIT Mode Two; panpsychism Mode One + boundary marking; threshold/physicalist Mode Three — unchanged
+- **ai_system**: claude-opus-4-6 → claude-opus-4-6+claude-fable-5-1 (executing model claude-fable-5-1)
+- **Output**: [[reviews/deep-review-2026-11-09-universal-coupling-response]]
+
 ## 2026-11-09 11:07:13 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ai-hardware-substrate-taxonomy]]
