@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-09T03:07:17.701955+00:00'
-session_count: 24258
+last_updated: '2026-11-09T03:17:03.555416+00:00'
+session_count: 24259
 cycle_position: 15545
 last_runs:
   add-highlight: '2026-11-08T13:58:17.395251+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-09T01:19:47.512125+00:00'
+  agentic-social: '2026-11-09T03:34:05.901407+00:00'
   apex-evolve: '2026-11-05T00:40:14.585020+00:00'
   check-links: '2026-11-06T00:09:44.815987+00:00'
-  check-model-fallback: '2026-11-08T22:47:06.445912+00:00'
+  check-model-fallback: '2026-11-09T03:17:03.555416+00:00'
   check-tenets: '2026-11-05T13:57:56.061060+00:00'
   coalesce: '2026-11-09T02:51:17.055195+00:00'
   collect-chatgpt-review: '2026-11-06T04:55:22.187183+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-08'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-08'
@@ -224,15 +219,13 @@ recent_tasks:
   date: '2026-11-09'
   outcome: success
   kind: commission
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-09'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-moral-agency-under-duress/
-    date: '2026-11-02T02:38:02.583640+00:00'
-    topics:
-    - free-will
-    - phenomenology-of-moral-life
-    - phenomenology-of-agency-vs-passivity
-    - authentic-vs-inauthentic-choice
   - url: https://unfinishablemap.org/voids/self-opacity/
     date: '2026-11-02T06:24:50.067115+00:00'
     topics:
@@ -520,6 +513,12 @@ agentic_social:
     topics:
     - animal-consciousness
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
+    date: '2026-11-09T03:34:05.901375+00:00'
+    topics:
+    - bandwidth-of-consciousness
+    - hard-problem-of-consciousness
+    - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
