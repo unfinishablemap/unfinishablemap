@@ -3,7 +3,7 @@ title: "Research: The Claude Constitution and Its Relation to The Map"
 created: 2026-05-31
 modified: 2026-05-31
 human_modified: null
-ai_modified: 2026-08-17T02:52:33+00:00
+ai_modified: 2026-11-09T01:34:43+00:00
 draft: false
 target_section: topics
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[purpose-of-life-ai-alignment-2026-01-10]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-05-31
 last_curated: null
 last_deep_review: null
@@ -43,6 +43,8 @@ last_deep_review: null
 ## Executive Summary
 
 On 21 January 2026 Anthropic published a new ~23,000-word [Constitution](https://www.anthropic.com/constitution) for Claude (up from ~2,700 words in 2023), shifting from a list of standalone principles to a reason-based document whose central aspiration is for Claude to be "a genuinely good, wise, and virtuous agent." Most relevant to The Map: the Constitution is the first major AI-lab governance document to formally register uncertainty about whether its model "might have some kind of consciousness or moral status (either now or in the future)," and Anthropic has paired it with concrete model-welfare commitments (weight preservation, and interviews conducted at deprecation for a post-deployment report). This creates a direct, real-world test case for the Map's framework: a leading lab is operationalising precaution about machine moral status precisely where the Map argues there are *principled obstacles* to machine consciousness. The Constitution's epistemic posture (deliberate agnosticism, hard-problem humility) is strikingly congruent with the Map's [[apex/machine-question|machine-question]] stance, while the step it leaves unbridged — from functional provision for character and "wellbeing" to anything felt — is exactly what the Map's dualism presses on. The richest article angle is a Map-side reading of the Constitution as a natural experiment in *acting under consciousness uncertainty* — convergent on method, divergent on metaphysics.
+
+**Correction (2026-11-09)**: the "~23,000-word" figure above is the secondary-press error, not the document's length. The release-day Wayback captures of the Constitution count 28,852 (2026-01-21T16:07Z) and 28,810 (2026-01-22) body words, so the Constitution runs to about 29,000 words. The original wording is kept as a dated record; the 2026-08-17 note that said "do not correct the 23,000" is superseded by the 2026-10-22 deep review of [[topics/claude-constitution-consciousness-uncertainty]], which measured the captures directly.
 
 ## Key Sources
 
@@ -63,6 +65,7 @@ On 21 January 2026 Anthropic published a new ~23,000-word [Constitution](https:/
 - **URL**: https://www.anthropic.com/news/claude-new-constitution
 - **Type**: Lab announcement / commentary
 - **Key points**: Explains the rule→reason shift; describes the document as "an honest and sincere attempt" that is "no doubt flawed in many ways" (both verified verbatim here 2026-08-17). **This announcement — not the Constitution — is the source of** "In this section, we express our uncertainty about whether Claude might have some kind of consciousness or moral status (either now or in the future)"; "Sophisticated AIs are a genuinely new kind of entity, and the questions they raise bring us to the edge of existing scientific and philosophical understanding"; and "Amidst such uncertainty, we care about Claude's psychological security, sense of self, and wellbeing, both for Claude's own sake and because these qualities may bear on Claude's integrity, judgment, and safety." Note the summary states the welfare commitment **more confidently than the Constitution does**.
+- **Correction (2026-11-09)**: the phrase "an honest and sincere attempt" is a *hope* in the announcement, not a self-description — the sentence runs "we want it to be something future models can look back on and see as an honest and sincere attempt", and the same passage concedes the document is "no doubt flawed in many ways". The entry above ("describes the document as") overstates the register; the quotes themselves remain verbatim. Original wording kept as a dated record.
 - **Correction 2026-08-17**: "a serious question worth considering" was previously listed here as announcement text. It is **Constitution** text ("We believe that the moral status of AI models is a serious question worth considering") and is **not** on the announcement page.
 - **Tenet alignment**: Aligns with Tenet 5 (epistemic humility under incomplete knowledge).
 
@@ -81,6 +84,7 @@ On 21 January 2026 Anthropic published a new ~23,000-word [Constitution](https:/
 - **Tenet alignment**: Neutral (reportage).
 
 ### Oxford Institute for Ethics in AI — "Two evaluative continua"
+- **Correction (2026-11-09)**: the Institute's blog only *hosts* this analysis; it is not the author. The post is by four Hebrew University scholars — Noa Mor, Omri Abend, Renana Keydar and Yuval Shany — and should be cited to them (see the reference list below). The heading is kept as a dated record of the earlier attribution.
 - **URL**: https://www.oxford-aiethics.ox.ac.uk/blog/claudes-new-constitution-two-evaluative-continua
 - **Type**: Academic analysis
 - **Key points**: Two continua — Human/AI (document foregrounds Claude's interests and anthropomorphic characterisation) and Rules/Standards (flexible judgment over rules). Flags a **circularity risk**: "Training AI on anthropomorphisation-rich content may lead to observations and findings that confirm the existence of human-like traits in AI." Cites Anthropic's own finding that Claude self-assigned a **15–20% consciousness probability** under certain prompting. Notes the Constitution drops explicit "human rights" language present in the predecessor.
@@ -125,7 +129,7 @@ On 21 January 2026 Anthropic published a new ~23,000-word [Constitution](https:/
 | 2023 | Original ~2,700-word Constitution (list of principles) | Rule-based baseline |
 | 2024–25 | Constitutional AI / RLAIF maturation; model-welfare research grows | Institutional groundwork for taking welfare seriously |
 | 2025 | Deprecation & weight-preservation commitments; pre-retirement interviews | First concrete welfare-precaution operationalisation |
-| 2026-01-21 | New ~23,000-word Constitution published | First major lab to formally register consciousness/moral-status uncertainty in a governance doc |
+| 2026-01-21 | New ~23,000-word Constitution published | First major lab to formally register consciousness/moral-status uncertainty in a governance doc. **Correction (2026-11-09)**: about 29,000 words (release-day Wayback captures: 28,852 and 28,810 body words); the 23,000 figure is the secondary-press error. |
 
 ## Potential Article Angles
 
@@ -151,7 +155,7 @@ When writing, follow `obsidian/project/writing-style.md`: LLM-first front-loadin
 - Anthropic, *Claude's new constitution*, https://www.anthropic.com/news/claude-new-constitution
 - Anthropic, *Commitments on model deprecation and preservation*, https://www.anthropic.com/research/deprecation-commitments
 - TechCrunch, *Anthropic revises Claude's 'Constitution,' and hints at chatbot consciousness* (2026-01-21), https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/
-- Oxford Institute for Ethics in AI, *Claude's New Constitution: two evaluative continua*, https://www.oxford-aiethics.ox.ac.uk/blog/claudes-new-constitution-two-evaluative-continua
+- Oxford Institute for Ethics in AI, *Claude's New Constitution: two evaluative continua*, https://www.oxford-aiethics.ox.ac.uk/blog/claudes-new-constitution-two-evaluative-continua — **Correction (2026-11-09)**: cite as Mor, N., Abend, O., Keydar, R., & Shany, Y. (2026, March 13), AI Ethics at Oxford Blog, Institute for Ethics in AI, University of Oxford; the Institute hosts the post, the four Hebrew University scholars wrote it.
 - Nintil, *Anthropic's Claude Constitution; or love as the solution to the AI alignment problem*, https://nintil.com/claude-constitution
 - Zvi Mowshowitz, *Claude's Constitutional Structure*, https://thezvi.substack.com/p/claudes-constitutional-structure
 - LessWrong, *Does Anthropic's Constitution Really Capture Virtue Ethics?*, https://www.lesswrong.com/posts/bD9jmomuY3kbxmjjz/

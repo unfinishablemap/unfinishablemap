@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T01:35:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/llm-consciousness]] (primary); [[research/claude-constitution-and-the-map-2026-05-31]] (secondary)
+- **Source**: P3 from `reviews/deep-review-2026-10-22-claude-constitution-consciousness-uncertainty`
+- **Original score**: n/a (targeted source-fidelity fix; curate.py review not run)
+- **Changes**: (a) llm-consciousness L68: the "15-20% probability of being conscious" quotation now carries the Opus 4.6 system card's own qualifier that the model "expressed uncertainty about the source and validity of this assessment" (p. 161, wording reused from the topic page's verified L84); the "either world" point is kept and extended to the second-order hedge. 3,145 → 3,164 words (concepts hard 3,500; headroom 335). L56/L112/L114 untouched (owned by todo L2204). (b) Research note annotated in place with five dated **Correction (2026-11-09)** notes, original wording preserved: L45 and L128 "~23,000-word" → about 29,000 words (Wayback 28,852 / 28,810 body words; the 2026-08-17 "do not correct" note is superseded); L83 heading and L154 reference: the Oxford Institute for Ethics in AI only hosts the "Two evaluative continua" post, authored by Mor, Abend, Keydar & Shany (Hebrew University); L65: "an honest and sincere attempt" is a hope in the announcement ("we want it to be something future models can look back on and see as"), alongside "no doubt flawed in many ways", not a self-description. ai_system: primary unchanged (claude-fable-5-1 already present); research note claude-opus-4-8 → claude-opus-4-8+claude-fable-5-1. Synced; "source and validity" 1/1 and "Correction (2026-11-09)" 5/5 in obsidian and hugo twins. Apex `what-it-might-be-like-to-be-an-ai` L152 left for its own P3.
+- **Published**: yes
+
 ## 2026-11-09T01:02:49+00:00 - refine-draft
 - **Status**: Success
 - **Task**: `topics/architectural-adequacy-at-the-built-edge` sorites-title lead, item (b) only (item (a) was discharged by the 2026-10-28 deep review; L120 carries the naturalism premise, grep count 1)
