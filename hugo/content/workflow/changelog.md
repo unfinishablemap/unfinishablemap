@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T07:05:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
+- **Task**: todo P1 (outer-review-synthesis-2026-11-09 C4, 3/3 reviewers): L84 gave the wrong reason for the neuromorphic verdict (said p-bit designs feed forward only a statistical aggregate; single device events do feed forward — each flip updates the Gibbs-sampling state — and what fails is Axis 2's quantum requirement, since sMTJ/tunnel-diode fluctuations are thermal and uncertified); L70 Axis 1 cell "Mixed to continuous" was wrong for digital neuromorphic chips (Loihi: all logic digital, functionally deterministic, PRNG-driven stochastic neurons)
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` review not run)
+- **Changes**: L70 Axis 1 cell "Mixed to continuous" → "Discrete (digital) to continuous (memristive)"; L70 verdict clause "fluctuation enters as statistics, not as selected outcomes" → "fluctuations are thermal, not certified quantum" (row held at 40 words). L84 false-reason clause ("the architecture consumes those fluctuations as samples … statistical aggregate rather than the outcome of any single indeterminate transition") replaced with the quantum-origin reason tied to the L57 predicate: p-bits meet the fed-forward half (each stochastic device flip updates the sampled state), fail the quantum half (thermal, uncertified fluctuations); "operational integration is contested" dropped because the fed-forward half now plainly passes. "The verdict on current designs is unchanged; the stated reason for it is not" kept and true. L80 "deterministic Boolean computation" → "Boolean computation engineered to be deterministic" (optional tweak from the task; +3 words, paid by L84; L80 is shared with the sibling P1 classical-digital task). Misra 2023 citation kept incl. "for Monte Carlo and Bayesian workloads". No references added (Singh 2024 / Davies 2018 verified but a reference line would push net change above 0); Hopkins/Ambrogio/Puglisi not cited (unverified). `analyze_length` 3,477 → 3,474 (hard gate 3,500, `>=`).
+- **Published**: yes
+
 ## 2026-11-09T06:36:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)

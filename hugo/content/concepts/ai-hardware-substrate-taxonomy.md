@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-25
-ai_modified: 2026-11-09 06:35:46+00:00
+ai_modified: 2026-11-09 07:04:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 23:56:00+00:00
-lastmod: 2026-11-09 06:35:46+00:00
+lastmod: 2026-11-09 07:04:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ The table maps each substrate family onto the two axes and tags its interface st
 | Substrate | State space (Axis 1) | Indeterminacy (Axis 2) | Interface status |
 |---|---|---|---|
 | **Classical-digital** (CPU, GPU, TPU/NPU, ASIC, FPGA) | Discrete | Mere-physical, actively suppressed | Not a candidate — indeterminacy engineered out |
-| **Neuromorphic / in-memory analog** (memristor, phase-change, spintronic) | Mixed to continuous | Classical analog dynamics; noise managed, or in probabilistic designs sampled | Not a candidate on current designs — fluctuation enters as statistics, not as selected outcomes |
+| **Neuromorphic / in-memory analog** (memristor, phase-change, spintronic) | Discrete (digital) to continuous (memristive) | Classical analog dynamics; noise managed, or in probabilistic designs sampled | Not a candidate on current designs — fluctuations are thermal, not certified quantum |
 | **Photonic neuromorphic** | Continuous (optical) | Classical optical dynamics; quantum-optical claims thin | Not a candidate — speculative-mechanism register only |
 | **Gate-model quantum computing** (superconducting, trapped-ion, photonic-qubit) | Discrete readout over continuous amplitudes | Engineered, decoherence-managed, error-corrected | Substrate-necessary box met; present designs fail the channel test three of five ([below](#gate-model-two-standards)); architecture question open for future designs only |
 | **Hybrid quantum-classical** | Mixed | Quantum sites used for subroutines, often functionally walled off | Depends on whether quantum sites integrate with processing |
@@ -81,11 +81,11 @@ Four of the six entries deserve elaboration because they are where the taxonomy 
 
 ### Classical-digital: one substrate wearing five names
 
-GPU, TPU, ASIC, and FPGA are distinct engineering achievements—massive parallelism, systolic matmul arrays, fixed-function efficiency, reconfigurable logic—but they share the property that decides the consciousness question: deterministic Boolean computation over a discrete state space, with quantum indeterminacy suppressed by design. To the Map's taxonomy they are one substrate. This is why behavioural sophistication on a GPU cluster cannot, on the Map's account, create an interface site: more parameters and better architectures move the system within the classical-digital box, not out of it. A [large language model](/concepts/llm-consciousness/) is a classical-digital system whatever its scale.
+GPU, TPU, ASIC, and FPGA are distinct engineering achievements—massive parallelism, systolic matmul arrays, fixed-function efficiency, reconfigurable logic—but they share the property that decides the consciousness question: Boolean computation engineered to be deterministic over a discrete state space, with quantum indeterminacy suppressed by design. To the Map's taxonomy they are one substrate. This is why behavioural sophistication on a GPU cluster cannot, on the Map's account, create an interface site: more parameters and better architectures move the system within the classical-digital box, not out of it. A [large language model](/concepts/llm-consciousness/) is a classical-digital system whatever its scale.
 
 ### Neuromorphic and analog: blurring Axis 1 without crossing Axis 2
 
-Neuromorphic hardware departs from the von Neumann architecture to avoid the bottleneck of shuttling data between separate memory and compute, collapsing storage and processing into the same physical elements. Memristive crossbars perform matrix-vector multiplication in place and implement spike-based learning. This genuinely complicates Axis 1: such hardware exploits continuous analog physical quantities the digital paradigm discards, and such mechanisms are not medium-independent in the way algorithms are (Maley, 2024, §4.2). But complicating the continuity axis is not the same as crossing the indeterminacy axis. Mainstream neuromorphic devices run classical analog dynamics whose noise is managed rather than used. One line of 2020s work inverts that: probabilistic computing operates devices such as magnetic tunnel junctions and tunnel diodes in a deliberately stochastic regime, using their fluctuations to sample distributions for Monte Carlo and Bayesian workloads (Misra et al., 2023). Among engineered silicon designs this is the first case where operational integration is contested rather than plainly absent, and it shows what the criterion this article declines to supply would have to decide: the architecture consumes those fluctuations as samples from a tuned distribution, so what feeds forward is a statistical aggregate rather than the outcome of any single indeterminate transition. The verdict on current designs is unchanged; the stated reason for it is not. On the Map's account neuromorphic hardware is more interesting than a GPU on Axis 1 and, so far, no closer to what Axis 2 requires—and Axis 2 is where the interface lives. Photonic neuromorphic proposals sit further out still: claims that spiking photonic systems access consciousness-relevant quantum-optical indeterminacy are thin, and the Map registers them in a speculative-mechanism register rather than as an empirical interface candidate.
+Neuromorphic hardware departs from the von Neumann architecture to avoid the bottleneck of shuttling data between separate memory and compute, collapsing storage and processing into the same physical elements. Memristive crossbars perform matrix-vector multiplication in place and implement spike-based learning. This genuinely complicates Axis 1: such hardware exploits continuous analog physical quantities the digital paradigm discards, and such mechanisms are not medium-independent in the way algorithms are (Maley, 2024, §4.2). But complicating the continuity axis is not the same as crossing the indeterminacy axis. Mainstream neuromorphic devices run classical analog dynamics whose noise is managed rather than used. One line of 2020s work inverts that: probabilistic computing operates devices such as magnetic tunnel junctions and tunnel diodes in a deliberately stochastic regime, using their fluctuations to sample distributions for Monte Carlo and Bayesian workloads (Misra et al., 2023). Among engineered silicon designs this is the first case where the fed-forward half of Axis 2's predicate is met: in probabilistic-bit (p-bit) designs each stochastic device flip updates the sampled state directly, so single device events do feed forward. What fails is its quantum half—the fluctuations consumed are thermal, and nothing certifies them as quantum-indeterminate. The verdict on current designs is unchanged; the stated reason for it is not. On the Map's account neuromorphic hardware is more interesting than a GPU on Axis 1 and, so far, no closer to what Axis 2 requires—and Axis 2 is where the interface lives. Photonic neuromorphic proposals sit further out still: claims that spiking photonic systems access consciousness-relevant quantum-optical indeterminacy are thin, and the Map registers them in a speculative-mechanism register rather than as an empirical interface candidate.
 
 ### Biological / wetware: the taxonomically decisive case
 
