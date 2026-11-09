@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-11-08T13:57:19+00:00
+ai_modified: '2026-11-09T10:03:33.821492'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-08'
+modified: '2026-11-09'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-09: Does the Feeling at the Moment of Choice Do Anything?
+
+Felt affect reported just before choosing predicts the choice. But it was measured, never manipulated; the affect heuristic works 'with or without consciousness'; and induced emotions left risk-taking unmoved in 7,000 people. The Map keeps felt valence a low-credence candidate.
+
+**Type**: insight  
+**Link**: [[immediate-emotions-and-the-affect-heuristic]]
+
+---
+
 ### 2026-11-08: Minimal Interaction Doesn't Mean a Simple Law
 
 The Map says the mind's influence on the brain is minimal. Yet something must pair each conscious content with the right brain state; whether brain, subject or a basic law does it, the mapping is large and plastic. Minimal means undetectable, not simple. The Map counts that cost.
@@ -211,15 +220,6 @@ Offered $500 million to believe the US is still a British colony, you couldn't. 
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2111005976895562007  
 **Link**: [[doxastic-voluntarism]]
-
----
-
-### 2026-10-15: When Sight Goes, the Brain Doesn't Fill the Gap
-
-About one in five people with low vision see faces, costumed figures and whole scenes they know are unreal. The content tracks cortical wiring, not the lost scene—so the Map retires its own 'compensation' reading of Charles Bonnet syndrome and calls the evidence neutral.
-
-**Type**: new-article  
-**Link**: [[charles-bonnet-syndrome]]
 
 ---
 
