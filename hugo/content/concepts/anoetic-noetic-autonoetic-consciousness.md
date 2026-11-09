@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-10-12 13:20:17+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_modified: 2026-11-09 18:48:23+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/autonoetic-consciousness/
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-17 12:11:17+00:00
-lastmod: 2026-10-12 13:20:17+00:00
+lastmod: 2026-11-09 18:48:23+00:00
 modified: *id001
 related_articles:
 - '[[personal-identity]]'
@@ -74,7 +74,7 @@ The orthodox position, defended by Tulving and developed by Klein (2016), holds 
 
 De Brigard (2024) mounted a significant challenge, arguing that autonoetic consciousness lacks construct validity and is not necessary for episodic memory. He proposes characterising episodic memory functionally, treating phenomenology as a contingent feature—present in typical cases but dispensable in principle.
 
-The Map treats this deflationary move as structurally parallel to illusionism about [qualia](/concepts/qualia/). Just as illusionists dissolve the hard problem by denying that phenomenal consciousness is what it seems, the contingentist reclassifies re-experiencing as non-essential—deflating the explanatory target rather than explaining it.
+The Map, [like its parent page](/topics/phenomenology-of-memory-and-the-self/), grants the necessity limb: autonoesis need not accompany functionally characterised episodic memory. It resists only the further step that re-experiencing, where it occurs, carries no character functional description leaves out. That step parallels illusionism about [qualia](/concepts/qualia/): just as illusionists dissolve the hard problem by denying that phenomenal consciousness is what it seems, the contingentist reclassifies re-experiencing as non-essential—deflating the explanatory target rather than explaining it.
 
 ## Three Philosophical Frameworks
 

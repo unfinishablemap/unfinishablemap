@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09 18:48:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/anoetic-noetic-autonoetic-consciousness]]
+- **Original score**: n/a (targeted reconciliation; todo P3 from reviews/pessimistic-2026-10-22-memory-and-autonoesis, follow-up to the P-MA1 review)
+- **Changes**: L72 rewritten to absorb the parent page's grant of De Brigard's necessity limb. Old: "The Map treats this deflationary move as structurally parallel to illusionism about [[qualia]]. Just as illusionists dissolve the hard problem …" (read contingentism wholesale as a deflationary threat). New: the Map, like `topics/phenomenology-of-memory-and-the-self` L123, grants the necessity limb (autonoesis need not accompany functionally characterised episodic memory) and resists only the further step that re-experiencing, where it occurs, carries no character functional description leaves out; the illusionism parallel now attaches to that further step only, with a piped link to the parent. Parent wording mirrored ("where re-experiencing occurs, it carries a character functional description leaves out"). De Brigard 2024 abstract re-verified via Crossref/OpenAlex (DOI 10.1098/rstb.2023.0410): "lacks validity … would still not be necessary for episodic memory … contingent feature of the retrieval process" — L70 summary accurate, unchanged. L62 (10-11 stability note) and L138 (construct-validity limb) untouched; the construct-validity concession was not added to L72 (L138 already carries it). Pronoun check: "It resists" = the Map; "where it occurs" = re-experiencing; "what it seems" = phenomenal consciousness; "explaining it" = the explanatory target. Engagement with De Brigard: framework-boundary marking scoped to the contingent-accompaniment step, with the necessity limb conceded inside his framework. Length 3,195 → 3,224/3,500 (+29, within the ≤30 budget). ai_system `+claude-fable-5-1` appended (absent before); ai_modified set. Parent and positions/memory-and-autonoesis not edited; the open P3 on P-MA1 that re-points its dependency line to this page's reading should note the reading is now scoped, not removed.
+- **Published**: yes
+---
 ## 2026-11-09 18:39:23 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/observational-closure]] (secondary: [[topics/interventionist-and-counterfactual-dualism]], [[topics/causal-closure-debate-historical-survey]], [[concepts/trumping-preemption]], [[concepts/interactionist-dualism]], [[apex/what-consciousness-tells-us-about-physics]], [[apex/consciousness-and-agency]])
