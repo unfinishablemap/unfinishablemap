@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09 17:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [blindsight](/concepts/blindsight/)
+- **Task**: todo P3 (2026-10-22) — L181 "The collicular pathway bypasses this attentional interface" contradicted Kentridge, Heywood & Weiskrantz (1999), who found spatial attention operating in a blindsight subject's blind field without awareness
+- **Original score**: n/a (targeted fix; curate.py review not run)
+- **Changes**: L181 scoped the bypass to conscious access, not attention ("bypasses conscious access through this interface, though not attention itself: in one blindsight subject, spatial cueing aided blind-field processing without awareness (Kentridge, Heywood, & Weiskrantz, 1999)"); "when that mechanism is circumvented" → "when attention's route into awareness is circumvented" so the paragraph no longer implies attention is absent. Added Kentridge et al. (1999) to References (alphabetical, between Hartmann and Lau; page style with DOI). Source verified by driver via Crossref + OpenAlex abstract (PMID 10518327); single-subject (GY) caveat preserved as "in one blindsight subject". No concession on epiphenomenalism; Stapp attention-mechanism framing unchanged.
+- **Word count**: 2944 → 2991 (+47; concepts hard gate 3500, headroom 508)
+- **Published**: yes
+
 ## 2026-11-09 17:37 UTC - deep-review
 - **Status**: Success
 - **File**: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)

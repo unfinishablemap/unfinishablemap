@@ -4,7 +4,7 @@ description: "Blindsight patients discriminate visual stimuli they cannot consci
 created: 2026-01-23
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-11-02T21:55:36+00:00
+ai_modified: 2026-11-09T17:48:16+00:00
 last_deep_review: 2026-07-10T20:57:28+00:00
 draft: false
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[perception]]"
 ai_contribution: 100
 author:
-ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-23
 last_curated:
 embedded_videos:
@@ -178,7 +178,7 @@ Blindsight shows that visual processing can run without [[consciousness|visual c
 
 The phenomenon is also compatible with [[bidirectional-interaction|Bidirectional Interaction]]. The baseline cognition pattern shows what unconscious processing achieves: reliable, procedural, but inflexible. Conscious processing enables detection, metacognition, verbal report, and integration across cognitive domains. An epiphenomenalist can attribute these functional differences to the physical differences between the geniculostriate and collicular pathways rather than to consciousness itself. The capacities that track consciousness here—flexible reasoning, novel integration, metacognitive access—are access functions, and the dualist reads their alignment with phenomenal presence as [[bidirectional-interaction|consciousness causally contributing to cognition]]. The epiphenomenalist's lawful-correlation reply, on which phenomenal presence tracks those pathways without driving them, stays standing; the dissociation does not decide between the two readings.
 
-Blindsight also illuminates the difference between attended and unattended processing. The V1 pathway normally supports [[attention-as-interface|voluntary attention]]—top-down selection of what enters awareness. The collicular pathway bypasses this attentional interface. If attention is the mechanism through which consciousness influences neural processing (as [[stapp-quantum-mind|Stapp's model]] proposes), blindsight shows what happens when that mechanism is circumvented: visual information reaches motor systems but doesn't enter the attended, globally broadcast workspace.
+Blindsight also illuminates the difference between attended and unattended processing. The V1 pathway normally supports [[attention-as-interface|voluntary attention]]—top-down selection of what enters awareness. The collicular pathway bypasses conscious access through this interface, though not attention itself: in one blindsight subject, spatial cueing aided blind-field processing without awareness (Kentridge, Heywood, & Weiskrantz, 1999). If attention is the mechanism through which consciousness influences neural processing (as [[stapp-quantum-mind|Stapp's model]] proposes), blindsight shows what happens when attention's route into awareness is circumvented: visual information reaches motor systems but doesn't enter the attended, globally broadcast workspace.
 
 Blindsight also connects to [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. If consciousness is not reducible to neural processing patterns, it may involve non-physical properties. The quantum selection hypothesis proposes that conscious states influence which quantum outcomes become actual, biasing neural activity toward flexible reasoning and global integration. Unconscious processing would proceed via classical pathways. This remains highly speculative—there is no direct evidence that quantum effects play a role in the blindsight dissociation—but it illustrates how the framework might accommodate the findings. [[tenets#^no-many-worlds|No Many Worlds]] adds only coherence here: phenomenal presence or absence is determinate within any branch, so an Everettian restates the dissociation as readily.
 
@@ -226,6 +226,8 @@ de Gelder, B., Vroomen, J., Pourtois, G., & Weiskrantz, L. (1999). Non-conscious
 Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: Basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
 
 Hartmann, J. A., Wolz, W. A., Roeltgen, D. P., & Loverso, F. L. (1991). Denial of visual perception. *Brain and Cognition*, 16(1), 29-40. https://doi.org/10.1016/0278-2626(91)90083-k
+
+Kentridge, R. W., Heywood, C. A., & Weiskrantz, L. (1999). Attention without awareness in blindsight. *Proceedings of the Royal Society B*, 266(1430), 1805-1811. https://doi.org/10.1098/rspb.1999.0850
 
 Lau, H. C., & Passingham, R. E. (2006). Relative blindsight in normal observers and the neural correlate of visual consciousness. *Proceedings of the National Academy of Sciences*, 103(49), 18763-18768.
 
