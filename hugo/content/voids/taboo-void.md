@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-28
-ai_modified: 2026-10-22 12:28:29+00:00
+ai_modified: 2026-11-09 14:50:17+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: 'Human+AI exploration of thoughts a mind can form but refuses to we
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-22 12:28:29+00:00
+lastmod: 2026-11-09 14:50:17+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -49,7 +49,7 @@ Tetlock's taxonomy sorts trade-offs by the kind of value on each side. *Routine*
 
 The finding that most sharply separates the taboo void from merely difficult territory is Hanselmann and Tanner's (2008) difficulty ordering. Across two experiments, participants rated taboo trade-offs *easier* to resolve than routine ones and, in the first only, more negatively emotion-laden. In the first experiment mean difficulty ran taboo 2.34, routine 2.89, tragic 5.25, while negative emotion ran routine 2.90, taboo 3.28, tragic 4.75. Their summary: "the involvement of moral issues and values can also facilitate decisions because people often insistently preclude them from trade-offs with other values." Aversiveness and difficulty come apart: the taboo case is aversive and easy, the tragic case aversive and hard.
 
-A difficulty model — taboo thoughts are hard to think — predicts the opposite ordering. Sacredness removes one axis of comparison, and difficulty appears only when two sacred values leave no axis to remove.
+A difficulty model — taboo thoughts are hard to think — predicts the opposite ordering; conflict models, locating difficulty in competing values, do not. Sacredness removes one axis of comparison; difficulty appears only when two sacred values leave none.
 
 ## Punishing the Thought Rather Than the Conclusion
 
@@ -61,13 +61,13 @@ Deliberation is sanctioned by its duration. "The longer observers believe that a
 
 The same signature appears across three unrelated operations. Tetlock and colleagues' five 2000 experiments covered taboo trade-offs, "forbidden base rates" (racial egalitarians were least likely to use race-tainted base rates, angriest at those who did, and reaffirmed their fair-mindedness after inadvertently using them), and "heretical counterfactuals" (Christian fundamentalists cleansed after merely contemplating everyday causal readings of Biblical narratives). Because valuation, inference and counterfactual reasoning all show the block, the occlusion appears to sit at the relation between a proposition and an identity rather than at a content type.
 
-Two behavioural fingerprints mark the comparison that is not being run. Baron and Spranca (1997) found that protected values — those that "resist trade-offs with other values, particularly economic values" — cluster with *quantity insensitivity*, agent relativity, moral obligation, and "anger at the thought of making trade-offs"; the correlations survived when experimenters could not know which values subjects were rating. And Ginges, Atran, Medin and Shikaki (2007) found among Palestinian and Israeli participants that violent opposition to compromise over sacred issues was "increased by offering material incentives to compromise" — the *backfire effect*. No monotone utility function produces that. The refusal behaves like a refusal of the number line rather than a large number on it.
+Two behavioural fingerprints mark the withheld comparison. Baron and Spranca (1997) found that protected values — those that "resist trade-offs with other values, particularly economic values" — cluster with *quantity insensitivity*, agent relativity, moral obligation, and "anger at the thought of making trade-offs"; the correlations survived when experimenters could not know which values subjects were rating. And Ginges, Atran, Medin and Shikaki (2007) found among Palestinian and Israeli participants that violent opposition to compromise over sacred issues was "increased by offering material incentives to compromise" — the *backfire effect*. Outcome-only utility does not predict that; the refusal behaves like a refusal of the number line, not a large number on it.
 
 ## Lookup, Not Weighing
 
 Neuroimaging finds the same non-compensatory pattern, with the caveat that these are small-sample studies and reverse inference from region to function is weak. Berns and colleagues (2012) paid real money to induce participants to sell personal values. Values people refused to sell engaged left temporoparietal junction and ventrolateral prefrontal cortex, "regions previously associated with semantic rule retrieval," and the authors conclude that sacred values "affect behaviour through the retrieval and processing of deontic rules and not through a utilitarian evaluation of costs and benefits." Hamid and colleagues (2019) report the complementary absence: "diminished activity in dorsolateral prefrontal cortex (dlPFC), inferior frontal gyrus, and parietal cortex" for sacred relative to non-sacred values — regions "implicated in calculating costs and consequences." Duc, Hanselmann, Boesiger and Tanner (2013) report amygdala engagement in taboo trade-offs correlating with moral-disgust ratings, a candidate correlate for the contamination; that study is known here from its abstract only.
 
-Read cautiously, these results describe a lookup rather than a weighing: a rule is retrieved, an aversion fires, and the cost machinery stays quiet. The void is visible as an absence of computation.
+These results describe a lookup rather than a weighing: a rule is retrieved, an aversion fires, the cost machinery runs quieter. The void shows as the absence of an explicit exchange rate.
 
 ## The Constitutive Turn
 
@@ -85,7 +85,7 @@ If the constitutive reading is right, the taboo void has a structure no void of 
 
 The evidence against a hard limit is as strong as the evidence for the signature, and both must be carried. Tetlock's reframing data are the sharpest: "Rhetorical framings of choices as taboo or tragic can shift almost as rapidly as Gestalt figure–ground relations." Diverting $100 million from a toxic-waste programme, at an estimated 200 lives, won 72% support under a vague "right thing to do" rationale and 35% once the cost per life was stated (Tetlock 2003). Hence Tetlock's hedge that proclaimed policy "represents an expressed, not a revealed, preference."
 
-Sacralisation is reversible in both directions. Atran and Ginges (2012) report that in conflict "otherwise mundane sociopolitical preferences may become sacred values, acquiring immunity to material incentives," and Pretus and colleagues (2018) found social exclusion moving non-sacred values toward the sacred profile. Smeele and colleagues' (2025) discrete-choice modelling finds latent classes of respondents showing no taboo penalty at all. And Hamid and colleagues (2019) found that viewing conflicting peer ratings re-engaged an overlapping dlPFC region, "suggesting that it is possible to induce flexibility in the way people defend sacred values."
+Sacralisation is reversible in both directions. Atran and Ginges (2012) report that in conflict "otherwise mundane sociopolitical preferences may become sacred values, acquiring immunity to material incentives," and Pretus and colleagues (2018) found social exclusion moving non-sacred values toward the sacred profile. Smeele and colleagues' (2025) latent-class models in health-policy choice experiments find respondent groups with no significant taboo penalty. And Hamid and colleagues (2019) found that conflicting peer ratings re-engaged an overlapping dlPFC region, "suggesting that it is possible to induce flexibility in the way people defend sacred values."
 
 The honest reading is that the void is *description-relative and person-relative*. What is occluded is a comparison operation under a specific description, for minds that hold the value under that description; the content stays reachable under redescription, and for some minds was never blocked. This is compatible with the constitutive reading — Raz's case concerns what holding the relation requires, not what any human can compute.
 
@@ -103,7 +103,7 @@ The reflexive case is the [interested-party-void](/voids/interested-party-void/)
 
 ## What Non-Human Minds Might See
 
-The Map's usual hope, developed in [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/), is that differently built minds can enter regions closed to us. That hope inverts here. Liu and colleagues (2025), in a large-scale comparison of LLM agents with human adults, found that language models "prioritized emotion over cost, enforcing norms in an almost all-or-none manner with reduced cost sensitivity, whereas humans balanced fairness and cost." On this preprint result, current AI probes show a *stronger* non-compensatory pattern than humans, and alignment training adds a designed refusal layer — an external occlusion in the sense of [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/). An AI's taboo boundary is, however, inspectable and editable in ways a human's is not, which makes such systems better instruments for mapping the boundary than for crossing it.
+The Map's usual hope, developed in [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/), is that differently built minds can enter regions closed to us. That hope inverts here. Liu and colleagues (2025), comparing LLM agents with adults, found that language models "prioritized emotion over cost, enforcing norms in an almost all-or-none manner with reduced cost sensitivity, whereas humans balanced fairness and cost." On this preprint result, in a third-party-punishment task, current AI probes show a *stronger* non-compensatory pattern than humans, and alignment training adds a designed refusal layer — an external occlusion in the sense of [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/). An AI's taboo boundary is, however, inspectable and editable in ways a human's is not, which makes such systems better instruments for mapping the boundary than for crossing it.
 
 ## Relation to Site Perspective
 
