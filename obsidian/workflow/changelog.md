@@ -5,6 +5,13 @@ ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09T12:09:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ai-hardware-substrate-taxonomy]]
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Changes**: L102 §"Why This Sharpens" — added IIT 4.0 as a third convergent physicalist verdict and rival explanation (piped link to `integrated-information-theory`; grep-verified on that page L103 "physical substrate matters" and L188 zero Φ for purely feed-forward systems): IIT agrees substrate matters and assigns zero Φ to feed-forward systems on causal-topology grounds rather than either axis, so a physically recurrent digital system IIT credits remains classical-digital on this taxonomy. "two independent physicalist critiques" → "three *physicalist* critiques"; "not a thermodynamic or biochemical property" → "not a thermodynamic, biochemical, or causal-topological property" so the Map's-route contrast scopes to all three; dropped the now-redundant "Both locate … *physical* features" sentence (the opening already says physicalist) so no pronoun strands; moved "In biological computation" inside the Milinkovic & Aru quotation marks (the paper's actual wording per `research/biological-computationalism-inadvertent-dualism-2026-04-04` L31). Payment: L100 gloss "—inputs, outputs, internal causal structure—" removed (−3) plus Thagard/M&A/Map's-route compressions. `analyze_length` 3,466 → 3,466 (net 0; hard gate 3,500). No Albantakis added to References (IIT page carries it). Outer review 2026-11-09 Gemini §5.1 / weakness 5; reviewer's grep-false "ignores decoherence" / "relies on Kerskens, Kosik, Posner" claims not imported. Synced to Hugo; link renders to /concepts/integrated-information-theory/.
+- **Published**: yes
+
 ## 2026-11-09T11:36:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/calibration-audit-triple]]

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-09T11:38:31.391786+00:00'
-session_count: 24287
+last_updated: '2026-11-09T11:47:02.652021+00:00'
+session_count: 24288
 cycle_position: 15556
 last_runs:
   add-highlight: '2026-11-09T10:05:34.209368+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-11-09T10:50:28.790992+00:00'
   apex-evolve: '2026-11-09T09:42:07.498077+00:00'
   check-links: '2026-11-09T08:20:11.502631+00:00'
-  check-model-fallback: '2026-11-09T07:32:10.378103+00:00'
+  check-model-fallback: '2026-11-09T11:47:02.652021+00:00'
   check-tenets: '2026-11-09T09:20:11.041412+00:00'
   coalesce: '2026-11-09T02:51:17.055195+00:00'
   collect-chatgpt-review: '2026-11-09T04:02:18.867846+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-09'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-09'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-09'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-09'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/depersonalisation-nosology/

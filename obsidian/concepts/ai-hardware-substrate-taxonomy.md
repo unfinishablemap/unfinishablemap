@@ -4,7 +4,7 @@ description: "A taxonomy mapping six AI hardware substrates onto the two physica
 created: 2026-06-25
 modified: 2026-11-02
 human_modified:
-ai_modified: 2026-11-09T11:07:13+00:00
+ai_modified: 2026-11-09T12:08:39+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -97,9 +97,9 @@ Axis 2 is the coarser instrument. Its predicate answers roughly to directness an
 
 ## What the Interface Tenets Entail for Substrate Independence
 
-[[substrate-independence|Substrate independence]] holds that the right functional organisation yields consciousness on any substrate. The taxonomy shows why it seduces and where it fails for [[substrate-independence|bidirectionally coupled consciousness]], the strand of the Map's three-way verdict the tenets reach. Functional organisation is specified by computational role—inputs, outputs, internal causal structure—where GPU, TPU, neuromorphic, and (idealised) wetware look interchangeable and substrate independence is almost trivially true: one program runs on all. The interface tenets bite one level down, at the physics the functional description abstracts away and Axis 2 becomes visible. The table's [placements](#the-indeterminacy-distinction) are framework-internal, counting against the thesis only given Tenet 2.
+[[substrate-independence|Substrate independence]] holds that the right functional organisation yields consciousness on any substrate. The taxonomy shows why it seduces and where it fails for [[substrate-independence|bidirectionally coupled consciousness]], the strand of the Map's three-way verdict the tenets reach. Functional organisation is specified by computational role, where GPU, TPU, neuromorphic, and (idealised) wetware look interchangeable and substrate independence is almost trivially true: one program runs on all. The interface tenets bite one level down, at the physics the functional description abstracts away and Axis 2 becomes visible. The table's [placements](#the-indeterminacy-distinction) are framework-internal, counting against the thesis only given Tenet 2.
 
-This converges with—without depending on—two independent physicalist critiques. Thagard (2022) argues that "medium independence" abstracts away the energetic facts that do the real work, since information processing depends on energy and energy depends on material substrate. Milinkovic and Aru (2026) argue for [[biological-computationalisms-inadvertent-case-for-dualism|biological computationalism]]: that in biological computation "the algorithm is the substrate," so the computation cannot be abstracted from the tissue that realises it. Both locate consciousness-relevant properties in *physical* features of specific substrates. The Map's route differs in kind—it locates an irreducible interface (Tenet 1) accessed through quantum outcome-selection (Tenet 2), not a thermodynamic or biochemical property—so these are converging allies, not premises.
+This converges with—without depending on—three *physicalist* critiques. Thagard (2022) argues that "medium independence" abstracts away the energetic facts doing the real work: processing depends on energy, energy on substrate. Milinkovic and Aru (2026) argue for [[biological-computationalisms-inadvertent-case-for-dualism|biological computationalism]]: "In biological computation, the algorithm is the substrate," inseparable from the realising tissue. [[integrated-information-theory|IIT 4.0]] agrees substrate matters, assigning zero Φ to purely feed-forward systems on causal-topology grounds rather than either axis; a physically recurrent digital system IIT credits remains classical-digital here. The Map's route differs in kind—an irreducible interface (Tenet 1) accessed through quantum outcome-selection (Tenet 2), not a thermodynamic, biochemical, or causal-topological property—so these are converging allies, not premises.
 
 ## Relation to Site Perspective {#relation-to-site-perspective}
 
