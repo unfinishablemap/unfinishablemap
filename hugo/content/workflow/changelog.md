@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09 18:25:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [subjective-aim](/concepts/subjective-aim/) (secondary: [process-philosophy](/concepts/process-philosophy/))
+- **Original score**: n/a (targeted attribution fix; todo L1723)
+- **Changes**: L84 re-attributed: Whitehead's own account of a "living person" is structural (a thread of personal order transmitting "hybrid prehensions" occasion to occasion, PR Part II ch. III; grep-verified in 1929 Macmillan OCR), and PR derives each occasion's initial aim from God, not from predecessors (Part III). The claim that such societies "inherit aims with special intimacy" is now labelled a process-literature elaboration (contested), which Griffin (1998) develops; Griffin page not pinned (source unreachable this run). 1,873 -> 1,892 words. Secondary: process-philosophy L82 adds that contemporaries, causally independent, are connected only indirectly (AI ch. XII, p. 251; verified against archive.org DLI OCR). 2,472 -> 2,482 words. ai_system +claude-fable-5-1 on subjective-aim (already present on process-philosophy).
+- **Published**: yes
+
+
 ## 2026-11-09 17:48 UTC - refine-draft
 - **Status**: Success
 - **File**: [blindsight](/concepts/blindsight/)

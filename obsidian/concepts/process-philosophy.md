@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-10-26T22:35:33+00:00
+ai_modified: 2026-11-09T18:25:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ Whitehead's answer involves a society with "personal order" (1929/1978, Part I, 
 
 Process philosophers offer several responses:
 
-**The inheritance asymmetry**: Occasions prehend their immediate predecessors with a directness unlike bodily inheritances that "break in upon the dominant line" (Whitehead 1933, ch. XI). This asymmetric intimacy constitutes personal identity.
+**The inheritance asymmetry**: Occasions prehend their immediate predecessors with a directness unlike bodily inheritances that "break in upon the dominant line" (Whitehead 1933, ch. XI), while contemporaries, causally independent, are connected only indirectly (ch. XII). This asymmetric intimacy constitutes personal identity.
 
 **[[unity-of-consciousness|Phenomenal unity]] as achievement**: Unity isn't assumed but achieved—each occasion must successfully synthesise its inheritance. The combination problem asks how micro-experiences combine; process philosophy answers: through the creative synthesis each occasion performs.
 
