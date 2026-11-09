@@ -4,7 +4,7 @@ description: "How Kripke's modal argument turns rigid designation and a-posterio
 created: 2026-07-12
 modified: 2026-10-07
 human_modified:
-ai_modified: 2026-10-22T22:44:51+00:00
+ai_modified: 2026-11-09T19:20:29+00:00
 draft: false
 topics:
   - "[[arguments-against-materialism]]"
@@ -14,7 +14,7 @@ concepts: ["type-identity-theory", "phenomenal-concepts-strategy", "conceivabili
 related_articles: ["knowledge-argument", "philosophical-zombies", "explanatory-gap", "the-convergence-argument-for-dualism"]
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-07-12
 last_curated:
 last_deep_review: 2026-09-16T06:35:32+00:00
@@ -40,7 +40,7 @@ The identity theorist has a well-known escape route, and Kripke's argument turns
 
 **The heat manoeuvre.** "Heat is molecular motion" faces the same apparent contingency: we seem able to imagine heat without molecular motion. Kripke grants the appearance and explains it away. "Heat" is rigid, but we *fixed its reference* through a contingent mode of presentation — the sensation heat produces in us. When we think we are imagining heat without molecular motion, what we are really imagining is a world in which that *sensation* occurs without molecular motion, or in which molecular motion occurs with no creature configured to feel it as warmth. We could have been differently affected. The rigidly designated property (heat = molecular motion) is untouched; only the contingent reference-fixer is being varied. So the identity remains necessary despite seeming contingent, and the intuition of contingency is reassigned to something genuinely contingent — the link between the property and the sensation by which we happen to detect it.
 
-**Why the manoeuvre fails for pain.** The escape depends on prising apart the property from the sensation used to pick it out — an appearance/reality gap. Pain, Kripke argues, has no such gap. Pain is not something detected *by* a sensation that could have accompanied a different property; the sensation *is* the pain. To be in the epistemic situation that would obtain if one had a pain is already to have a pain, because there is nothing to pain over and above how it feels. The phenomenal quality is its essence, not a contingent mode by which some hidden underlying property announces itself. So there is no distinct "sensation of pain, as opposed to pain itself" to which the contingency intuition could be reassigned. Kripke's own words at the hinge: "To be in the same epistemic situation that would obtain if one had a pain *is* to have a pain; to be in the same epistemic situation that would obtain in the absence of a pain *is* not to have a pain" (1980, p. 152). Pain "is not picked out by one of its accidental properties; rather it is picked out by the property of being pain itself, by its immediate phenomenological quality" (p. 152).
+**Why the manoeuvre fails for pain.** The escape depends on prising apart the property from the sensation used to pick it out — an appearance/reality gap. Pain, Kripke argues, has no such gap. Pain is not something detected *by* a sensation that could have accompanied a different property; the sensation *is* the pain. To be in the epistemic situation that would obtain if one had a pain is already to have a pain, because, on Kripke's argument, there is nothing to pain over and above how it feels: the phenomenal quality is, for him, its essence, not a contingent mode by which a hidden property announces itself. So no distinct sensation of pain, as opposed to pain itself, remains for the contingency intuition to attach to. The Map needs only [[revelation-thesis|weak Revelation]]: acquaintance grasps how pain presents, with no contingent mode of presentation — enough to block the water-style explaining-away, not to secure that nothing in pain's unrevealed nature binds it to C-fibres ([[modal-epistemology]]). Kripke's own words at the hinge: "To be in the same epistemic situation that would obtain if one had a pain *is* to have a pain; to be in the same epistemic situation that would obtain in the absence of a pain *is* not to have a pain" (1980, p. 152). Pain "is not picked out by one of its accidental properties; rather it is picked out by the property of being pain itself, by its immediate phenomenological quality" (p. 152).
 
 The conclusion follows. Because the reassignment move is unavailable, the apparent contingency of "pain is C-fibre firing" is not an illusion but genuine possibility: worlds with pain and no C-fibres, or C-fibres and no pain, are real possibilities. By the necessity of identity, a genuinely contingent "identity" between rigid designators is no identity at all. Therefore "pain is C-fibre firing" is false, and type-identity materialism with it.
 

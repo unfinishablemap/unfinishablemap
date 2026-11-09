@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T19:20:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)
+- **Task**: todo P3 — L43 asserted strong Revelation in the Map's voice ("nothing to pain over and above how it feels. The phenomenal quality is its essence"); Map holds only weak Revelation (`concepts/revelation-thesis` L36/L78)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: L43 — the two strong sentences now explicitly attributed to Kripke ("on Kripke's argument … the phenomenal quality is, for him, its essence"), attribution licensed by his own gloss "the reference of the designator is determined by an essential property of the referent" (pp. 152–153, OCR-verified; not inserted into prose, for length); added one Map-voice sentence restating the weak form (acquaintance grasps how pain presents, no contingent mode of presentation; blocks the water-style explaining-away without securing that nothing in pain's unrevealed nature binds it to C-fibres) linking [weak Revelation](/concepts/revelation-thesis/) and [modal-epistemology](/concepts/modal-epistemology/), mirroring `topics/modal-structure-of-phenomenal-properties` L62; de-quoted "sensation of pain, as opposed to pain itself" (not a verbatim Kripke phrase — OCR hits only 'sensation of pain' in a p.-footnote term list and 'pain itself' in the p. 152 passage). Both existing L43 quotations (p. 152; pp. 152–153) grep-verified verbatim against the 1980 text; italic *is* in the first is editorial emphasis, kept. Length 2,351 → 2391 (+40). `ai_system` deduped: `claude-fable-5-1` appeared twice; kept last occurrence.
+- **Engagement classification**: Kripke vs the identity theorist — Mode One (in-framework: the identity theorist's own heat/water model of explaining away contingency cannot be run for pain); the Map's residual debt (unrevealed nature) is boundary-marked honestly, not claimed as refutation.
+- **Published**: yes
+
 ## 2026-11-09 18:48:53 UTC - refine-draft
 - **Status**: Success
 - **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
