@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T09:17:37+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 71 (delta since check 161 HEAD 23a78f886c: concepts 38, topics 26, voids 5, apex 1, positions 1)
+- **Errors**: 0
+- **Warnings**: 6 (4 Priority List items: philosophy-of-time L221, methodology-of-consciousness-research L62/L152, types-of-consciousness L80, cumulative-culture L192/L208; 2 next-in-line: introspection L169, emotion-and-dualism L87/L89)
+- **Notes**: 7
+- **Previously queued**: 23 window loci tabled, not re-flagged; check 161 W6 fold-in landed (working-memory L165/L167), W1-W4 queued and still live
+- **Output**: [tenet-check-2026-11-09](/reviews/tenet-check-2026-11-09/)
 ## 2026-11-09T08:49:05+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The vitality-form void — the dynamic shape (the *how*) of every action and felt moment, perceived and neurally distinct yet without a category in psychology until Stern 2010 / Di Cesare 2013
