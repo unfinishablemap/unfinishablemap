@@ -5,6 +5,24 @@ ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09 16:19 UTC - coalesce
+- **Status**: Abandoned. No candidate (the expected steady state; the eighth consecutive no-candidate run since 10-31). Nothing written to content, todo.md or evolution-state.yaml.
+- **Mode**: fresh screen under the 16:18Z driver brief (`coalesce_1109b.py` + `diag_blind_1109b.py` in the session scratchpad; new filenames, foreground). Constants: 60-day age floor (created or git-added on/after 2026-09-10 excluded), today-only edit window (`--since=2026-11-09T00:00Z`), open-task scan over 485 Active + Blocked blocks, dirty-tree exclusion. Sidecar `topics/non-temporal-consciousness.refinement-log.md` and the three section-index pages were dropped BEFORE any pairwise computation. Thresholds printed from `tools.curate.length.THRESHOLDS`: topics 4,000, concepts 3,500, voids 3,000 (gate `>=`); the fit gate used here is merged ≤ hard − 50. Merged estimate = sum of `analyze_length` body words − words of the smaller page covered by a shared 6-gram (dedup upper bound).
+- **Pressure** (`count_section_files`, 16:18Z): topics 369/370 (368 real + the sidecar), concepts 370/370 (full), voids 116/125, apex 44. Delta since 02:49Z: one addition, `voids/vitality-form-void` (inside the floor, excluded); no removals or renames.
+- **Pool**: 854 articles; 401 eligible (topics 178, concepts 152, voids 71). Exclusions: open-task 390, created<60d 100, edited-today 29, dirty 0. 80,200 eligible pairs; 102 fit the raw-sum gate (topics-target 42, concepts-target 60, voids-target 0). Vectoriser: 854 docs, 3,829 mid-band words; controls 0.616 / 0.410 / 0.551 (unchanged).
+- **Top 5 fitting pairs by mid cosine** (cosine · words A + words B · merged estimate · reason rejected):
+  1. 0.166 · `concepts/phenomenal-depth` 1,475 + `concepts/phenomenal-presentation` 1,572 · ~3,032 (cov6 15; fits concepts) · REJECT: recorded `Versus` carve-out — `phenomenal-presentation` L54 opens `**Versus [[phenomenal-depth]].**` and defines structure vs mode of givenness; the overlap is the role split, and 0.166 is at the noise ceiling (0 shared 8-grams).
+  2. 0.101 · `concepts/philosophy-of-mind` 1,937 + `concepts/status-of-content` 1,497 · ~3,424 (cov6 10) · REJECT: cosine is noise-level; no link either way; a survey page and a narrow content-status page share no claim.
+  3. 0.090 · `topics/the-subject-object-distinction-as-philosophical-discovery` 2,409 + `concepts/status-of-content` 1,497 · ~3,906 (cov6 0) · REJECT: noise-level cosine, zero shared 6-grams, no link either way; cross-section.
+  4. 0.089 · `concepts/apophatic-approaches` 1,877 + `voids/simulation-detection-void` 1,530 · ~3,407 (cov6 0) · REJECT: noise-level, no link either way; and `apophatic-approaches` already exists as an archive slug with a `_redirects` line (the known ambiguous-slug case), so a merge there would collide.
+  5. 0.062 · `concepts/the-agent-shaped-hole` 1,609 + `voids/interested-party-void` 1,795 · ~3,386 (cov6 18) · REJECT: noise-level, no link either way.
+  No fitting pair reaches 0.30 on either vocabulary (0 of 102).
+- **Real overlap (cosine ≥ 0.30, 60 eligible pairs; 14 ≥ 0.40)**: every one exceeds its best target hard limit after dedup credit. Smallest post-dedup overage vs hard−50: `topics/the-manipulation-argument-and-hard-incompatibilism` 2,557 + `concepts/source-versus-leeway-incompatibilism` 2,476 (0.368, cov6 75, merged ~4,958, +1,008 over 4,000); then `concepts/interpreter-module-narrative-construction-unity` + `voids/narrative-void` (0.328, ~4,567, +1,117 over 3,500); `topics/quantum-measurement-and-subjective-probability` + `concepts/qbism` (0.384, ~5,079, +1,129); `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities` + `source-versus-leeway-incompatibilism` (0.484, cov6 163, ~5,108, +1,158); `topics/biological-teleology-and-the-interface-framework` + `concepts/agent-teleology` (0.320, ~5,140, +1,190). The largest dedup bound anywhere is 442 words (`carrolls-regress` + `inference-void`, +1,411 over), so de-duplication cannot close any gap.
+- **Eligibility-blind check** (all 854 articles, filters ignored, same 50-word margin): 232 fitting pairs, 0 at cosine ≥ 0.20 (best 0.166, the same pair). The shortfall is in the corpus, not the exclusion filters.
+- **Files written**: this entry only. No sync, no commit, no todo edits.
+
+---
+
 ## 2026-11-09 15:48 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/logical-behaviourism]]
