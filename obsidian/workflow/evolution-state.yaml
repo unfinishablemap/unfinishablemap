@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-09T01:19:47.512125+00:00'
-session_count: 24251
-cycle_position: 15541
+last_updated: '2026-11-09T01:36:15.584103+00:00'
+session_count: 24252
+cycle_position: 15542
 last_runs:
   add-highlight: '2026-11-08T13:58:17.395251+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-09T00:47:10.937885+00:00'
   pessimistic-review: '2026-11-08T22:22:30.299242+00:00'
   positions-evolve: '2026-11-08T20:07:36.104572+00:00'
-  refine-draft: '2026-11-09T01:03:07.478990+00:00'
+  refine-draft: '2026-11-09T01:36:15.584103+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-08T17:33:45.190147+00:00'
   research-voids: '2026-11-06T00:45:35.477981+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-11-08'
-  outcome: success
-  kind: trigger
 - task: positions-evolve
   type: positions-evolve
   date: '2026-11-08'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-09'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-09'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-and-moral-agency-under-duress/

@@ -4,6 +4,18 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T01:50:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Word count**: 2950 → 2957 (+7)
+- **Critical issues addressed**: 2 (Map-internal source conflation on the relinked `biological-computationalisms-inadvertent-case-for-dualism` gloss at L69/L172, incl. "computational biology" → "biological computationalism"; unlabelled method-necessity claim in the lead marked as Map reconstruction)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Post-review changes verified**: 52d78a23 illusionism restricted form coherent; fb2967ec relink target exists; 368eac37 both anchors resolve, calibrated sentences intact. 45 wikilink targets / 9 anchors resolve. References unchanged since 07-26 (14 entries not re-litigated).
+- **Internal-quotation recheck**: 16 checked / 2 stranded / 2 fixed
+- **Engagement modes** (editor-internal): materialist Mixed (Two+Three); illusionism Two; enactivism Three; Everettian Three; biological computationalism Three (was overstated toward a concession the target page declines)
+- **Output**: [[reviews/deep-review-2026-11-09-consciousness-evolution-and-biology]]
+
 ## 2026-11-09T01:35:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/llm-consciousness]] (primary); [[research/claude-constitution-and-the-map-2026-05-31]] (secondary)
