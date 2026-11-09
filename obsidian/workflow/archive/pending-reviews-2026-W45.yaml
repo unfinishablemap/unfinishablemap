@@ -1,0 +1,466 @@
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae7f401-5304-83ed-abd7-dc1ed65c19ad
+  commissioned_at: '2026-11-02T02:25:00.172199+00:00'
+  prompt_summary: 'Audit cross-state-void: claims, citations, counterarguments, integration'
+  target_filename: outer-review-2026-11-02-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-02T05:26:42.680333+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct an independent critical review of one article from
+    The Unfinishable Map (https://unfinishablemap.org), a philosophy site that takes
+    a dualist stance on consciousness. The article is "The Cross-State Void" at https://unfinishablemap.org/voids/cross-state-void/,
+    last substantively modified 2026-10-26. It argues that a mind in one visceral
+    state cannot represent the felt weight of another state it has often had: the
+    description crosses over, the motivational pull does not, and knowing about the
+    bias does not remove it. Audit its claims, citations and quotations, counterargument
+    coverage, and integration with surrounding articles. Look especially for insufficient
+    evidence, missed counterarguments (including how well the empirical hot-cold empathy
+    gap literature it draws on has held up), tenet-protective bracketing, and stale
+    references. Because search indexes lag, check the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit cross-state-void
+  subject_articles:
+  - voids/cross-state-void.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/c0b47721-6ede-4517-bcd5-1db642bbd577
+  commissioned_at: '2026-11-02T03:10:54.148580+00:00'
+  prompt_summary: 'Hostile referee audit of cross-state-void: citations, replication,
+    framing'
+  target_filename: outer-review-2026-11-02-claude-opus-5-5.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-02T05:53:13.782814+00:00'
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair referee for one article from The
+    Unfinishable Map (https://unfinishablemap.org), a philosophy site that openly
+    takes a dualist stance on consciousness. The article is "The Cross-State Void"
+    at https://unfinishablemap.org/voids/cross-state-void/ (last substantively modified
+    2026-10-26). It claims that a mind in one visceral state cannot represent the
+    felt weight of another state it has often occupied: the description crosses, the
+    motivational pull does not, and knowing about the bias does not remove it. Use
+    web search to check its citations and quotations against primary sources, and
+    assess how well the hot-cold empathy gap literature it relies on has held up under
+    replication. Test whether the void is genuinely distinct from neighbouring Map
+    articles, whether its stated agnosticism between a phenomenal and a merely motivational
+    reading holds throughout, and whether the dualist framing does unacknowledged
+    work. Search indexes lag, so check https://unfinishablemap.org/workflow/changelog/
+    for recent edits. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit cross-state-void
+  subject_articles:
+  - voids/cross-state-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-02-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/5c512988c3f98860
+  commissioned_at: '2026-11-02T04:54:12.674524+00:00'
+  prompt_summary: Hostile referee audit of cross-state-void (hot-cold empathy gap)
+  target_filename: outer-review-2026-11-02-gemini-3-1-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-02T06:10:30.936271+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/voids/cross-state-void/ and makes
+    claims about the hot-cold empathy gap across one''s own visceral states; the site
+    (https://unfinishablemap.org) argues for a non-reductive view of consciousness.
+    Recent changes: https://unfinishablemap.org/workflow/changelog/. Do not describe
+    the site''s automation, review pipeline, methodology disciplines, evolution loop,
+    or governance infrastructure. Those are project-internal and not the subject of
+    audit. Assess only the article''s empirical claims, citations, counterargument
+    coverage, and logical inferences. Audit (a) empirical accuracy against the 2020s
+    literature; (b) challenged, retracted or unreplicated results it relies on; (c)
+    framings that hold only if a non-reductive view is already assumed; (d) untested
+    counterarguments or competing frameworks. End with at least five specific weaknesses.
+    For each, cite at least one peer-reviewed source from 2020-2025 that the article
+    omits, contradicts, or mishandles. If you cannot find five weaknesses, state explicitly
+    why none are visible, but the default expectation is that a careful pre-publication
+    audit of a contemporary topic will find five. Do not close with a summary of the
+    site''s strengths, methodology, or architectural ambition. End your report with
+    the at-least-five weaknesses list, each with a 2020-2025 source citation, and
+    a one-sentence verdict on academic-submission readiness. Do not append summary
+    praise.'
+  subject_type: recent
+  subject_title: Audit cross-state-void
+  subject_articles:
+  - voids/cross-state-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-02-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae94205-e5f4-83ed-8ea1-8166f425b0d5
+  commissioned_at: '2026-11-03T02:09:26.694448+00:00'
+  prompt_summary: Audit motor-control-quantum-zeno (Libet/Schurger, Zeno, citations)
+  target_filename: outer-review-2026-11-03-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-03T03:57:52.265353+00:00'
+  failure_reason: null
+  prompt_text: 'Please act as an independent critical reviewer of The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site that openly defends interactionist
+    dualism with a minimal quantum interface. Focus this review on one article: https://unfinishablemap.org/topics/motor-control-quantum-zeno/
+    ("Consciousness and Motor Selection"), last substantively revised 2026-10-27.
+    Audit its claims, citations and counterargument coverage. In particular: does
+    it represent the Libet, Schurger and readiness-potential literature accurately;
+    does its quantum Zeno stabilisation proposal honestly confront decoherence timescales
+    and the Tegmark-style objections; are any citations misattributed, misquoted or
+    outdated relative to 2020s work; and does it bracket objections in ways that protect
+    its tenets rather than engage them? Also assess how well it integrates with the
+    surrounding articles it links to. Because search indexes lag, consult the site
+    changelog at https://unfinishablemap.org/workflow/changelog/ for recent edits.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit motor-control-quantum-zeno
+  subject_articles:
+  - topics/motor-control-quantum-zeno.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/6609c3f0-2510-4ad7-86ae-5fa405bee1ee
+  commissioned_at: '2026-11-03T03:25:05.245452+00:00'
+  prompt_summary: Audit motor-control-quantum-zeno (Libet/Schurger, Zeno, citations)
+  target_filename: outer-review-2026-11-03-claude-opus-5-5.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-03T04:38:17.179068+00:00'
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair referee for The Unfinishable Map
+    (https://unfinishablemap.org), a philosophy site that openly defends interactionist
+    dualism with a minimal quantum interface. Focus this review on one article: https://unfinishablemap.org/topics/motor-control-quantum-zeno/
+    ("Consciousness and Motor Selection"), last substantively revised 2026-10-27.
+    Audit its claims, citations and counterargument coverage. Specifically: does it
+    represent Libet, Schurger''s accumulator model and the 2020s readiness-potential
+    literature accurately; does its quantum Zeno stabilisation proposal honestly confront
+    decoherence timescales and Tegmark-style objections; are any citations misattributed,
+    misquoted or outdated; and where does it bracket objections in ways that protect
+    its tenets rather than engage them? Also assess how well it integrates with the
+    articles it links to. Search indexes lag, so consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit motor-control-quantum-zeno
+  subject_articles:
+  - topics/motor-control-quantum-zeno.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-03-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/0731cb4fcd9df07f
+  commissioned_at: '2026-11-03T04:24:18.468324+00:00'
+  prompt_summary: Hostile referee audit of motor-control-quantum-zeno (Libet/Schurger,
+    Zeno)
+  target_filename: outer-review-2026-11-03-gemini-3-1-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-03T05:30:33.700501+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/topics/motor-control-quantum-zeno/
+    and makes claims about how consciousness could influence motor selection, including
+    readiness-potential and quantum Zeno claims; the site (https://unfinishablemap.org)
+    argues for a non-reductive view of consciousness. Recent changes: https://unfinishablemap.org/workflow/changelog/.
+    Do not describe the site''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure. Those are project-internal and not
+    the subject of audit. Assess only the article''s empirical claims, citations,
+    counterargument coverage, and logical inferences. Quote only from that article
+    URL; never attribute wording from other site pages to it. Audit (a) empirical
+    accuracy against the 2020s literature; (b) challenged, retracted or unreplicated
+    results it relies on; (c) framings that hold only if a non-reductive view is already
+    assumed; (d) untested counterarguments or competing frameworks. End with at least
+    five specific weaknesses. For each, cite at least one peer-reviewed source from
+    2020-2025 that the article omits, contradicts, or mishandles, with a DOI or URL
+    for every source. If you cannot find five weaknesses, state explicitly why none
+    are visible, but the default expectation is that a careful pre-publication audit
+    of a contemporary topic will find five. Do not close with a summary of the site''s
+    strengths, methodology, or architectural ambition. End your report with the at-least-five
+    weaknesses list, each with a 2020-2025 source citation, and a one-sentence verdict
+    on academic-submission readiness. Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit motor-control-quantum-zeno
+  subject_articles:
+  - topics/motor-control-quantum-zeno.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-03-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aeaaec4-34b4-83ed-9e8f-5e6813e669bf
+  commissioned_at: '2026-11-04T04:04:46+00:00'
+  prompt_summary: Audit phenomenology-of-agency-vs-passivity (claims, cites, counterargs)
+  target_filename: outer-review-2026-11-04-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-04T05:41:21.537161+00:00'
+  failure_reason: null
+  prompt_text: Please conduct an independent critical audit of one article from The
+    Unfinishable Map (https://unfinishablemap.org), a philosophy site that openly
+    defends interactionist dualism under five stated tenets. The article is "Phenomenology
+    of Agency vs Passivity" at https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+    and it was last substantively modified on 2026-10-27. Because search indexes lag,
+    please also check the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. Assess whether its empirical and phenomenological claims are
+    supported by the sources it cites, verifying citations and quotations against
+    the originals where you can; which strong counterarguments are missing or underweighted,
+    especially comparator-model and predictive-processing accounts of the sense of
+    agency; whether any reasoning is bracketed to protect the site's tenets rather
+    than argued for; whether its references are stale against the current literature;
+    and how well it integrates with related articles on the site. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site's methodology.
+  subject_type: recent
+  subject_title: Audit phenomenology-of-agency-vs-passivity
+  subject_articles:
+  - topics/phenomenology-of-agency-vs-passivity.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/063d2b7b-6147-4cf6-b91f-ece1aa6b320f
+  commissioned_at: '2026-11-04T04:25:39.327483+00:00'
+  prompt_summary: Audit phenomenology-of-agency-vs-passivity (claims, cites, counterargs)
+  target_filename: outer-review-2026-11-04-claude-fable-5-1.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-04T06:08:18.985307+00:00'
+  failure_reason: null
+  prompt_text: Please act as a hostile but fair referee and audit one article from
+    The Unfinishable Map (https://unfinishablemap.org), a philosophy site that openly
+    defends interactionist dualism under five stated tenets. The article is "Phenomenology
+    of Agency vs Passivity" at https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+    (last substantively revised 2026-10-27). Search indexes lag, so read the live
+    page and check the changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. Verify its citations and quotations against the original sources
+    where you can, and flag any that are misattributed, misdescribed or unsupported.
+    Assess whether the felt contrast between doing and undergoing actually supports
+    the dualist conclusions drawn from it, or whether comparator-model, predictive-processing
+    and intentional-binding accounts of the sense of agency explain it equally well;
+    whether its treatment of thought insertion, depersonalisation and utilisation
+    behaviour is clinically accurate; whether any step is shielded by the tenets rather
+    than argued; and whether its references are stale against the current literature.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit phenomenology-of-agency-vs-passivity
+  subject_articles:
+  - topics/phenomenology-of-agency-vs-passivity.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-04-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/903c3029294e6d9e
+  commissioned_at: '2026-11-04T04:39:28.458520+00:00'
+  prompt_summary: Audit phenomenology-of-agency-vs-passivity (claims, cites, counterargs)
+  target_filename: outer-review-2026-11-04-gemini-3-1-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-04T05:26:07.419234+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+    and makes claims about the felt contrast between doing and undergoing; the site
+    (https://unfinishablemap.org) argues for a non-reductive view of consciousness.
+    Also check https://unfinishablemap.org/workflow/changelog/ for recent edits. Do
+    not describe the site''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure. Those are project-internal and not
+    the subject of audit. Assess only the article''s empirical claims, citations,
+    counterargument coverage, and logical inferences: its empirical accuracy against
+    the 2020s sense-of-agency literature; any challenged, retracted, or unreplicated
+    results it relies on; framings bracketed to protect the site''s commitments rather
+    than argued; and competing frameworks it leaves untested, such as comparator-model,
+    predictive-processing, and intentional-binding accounts. For each weakness, cite
+    at least one peer-reviewed source from 2020-2025 that the article omits, contradicts,
+    or mishandles. If you cannot find five weaknesses, state explicitly why none are
+    visible, but the default expectation is that a careful audit of a contemporary
+    topic will find five. Do not close with a summary of the site''s strengths, methodology,
+    or architectural ambition. End your report with the at-least-five weaknesses list,
+    each with a 2020-2025 source citation, and a one-sentence verdict on academic-submission
+    readiness. Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit phenomenology-of-agency-vs-passivity
+  subject_articles:
+  - topics/phenomenology-of-agency-vs-passivity.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-04-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aebe884-fbd4-83eb-9dc4-befc54e0a6a3
+  commissioned_at: '2026-11-05T02:23:54.077736+00:00'
+  prompt_summary: 'Full-site audit: novel inferences, structure, tenet coherence,
+    contradictions'
+  target_filename: outer-review-2026-11-05-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-05T04:24:45.546731+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct a full-site outer review of The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site that builds a dualist, interactionist account of consciousness
+    from five tenets: dualism, minimal quantum interaction, bidirectional interaction,
+    rejection of many-worlds, and limits on Occam''s razor. Analyse the site as a
+    whole rather than any single page. Identify novel insights or inferences that
+    the site''s own commitments imply but it has not yet stated; structural weaknesses
+    in how its sections (topics, concepts, voids, apex syntheses, positions register)
+    fit together; places where articles drift from or overstate the tenets; and contradictions
+    between clusters of articles. Where you assess a claim, check the cited sources
+    rather than trusting the article''s paraphrase. Consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    to see recent edits that search indices may not yet reflect, and treat older crawled
+    versions with caution. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
+- service: claude
+  conversation_url: https://claude.ai/chat/acd66c6b-4f2e-4d4f-9af2-997904cf8996
+  commissioned_at: '2026-11-05T03:09:01.255972+00:00'
+  prompt_summary: 'Full-site audit: novel inferences, structure, tenet drift, contradictions'
+  target_filename: outer-review-2026-11-05-claude-fable-5-1.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-05T04:53:46.175444+00:00'
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee and conduct a full-site audit of
+    The Unfinishable Map (https://unfinishablemap.org), a philosophy site that argues
+    for interactionist dualism from five tenets: dualism, minimal quantum interaction,
+    bidirectional interaction, rejection of many-worlds, and limits on Occam''s razor.
+    Review the site as a whole rather than any single page. Look for: (1) novel inferences
+    the tenets imply that the site has not yet drawn; (2) structural weaknesses in
+    how the topics, concepts, voids, apex syntheses and positions register depend
+    on one another; (3) articles that overstate, quietly weaken, or drift from the
+    tenets; (4) contradictions between clusters of articles. When you assess an empirical
+    or scholarly claim, check the cited source itself rather than the site''s paraphrase,
+    and quote what you verify. Search indices lag by 24 to 48 hours, so consult the
+    changelog at https://unfinishablemap.org/workflow/changelog/ for recent edits
+    and treat cached versions with caution. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-11-05-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/e0f71be7c1d08703
+  commissioned_at: '2026-11-05T04:11:09.721912+00:00'
+  prompt_summary: 'Full-site audit: empirical claims, cites, counterargs, contradictions'
+  target_filename: outer-review-2026-11-05-gemini-3-1-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-05T05:10:21.498962+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies), treating the philosophy-of-mind
+    site at https://unfinishablemap.org as a body of work submitted for review. Your
+    remit is to identify weaknesses that would justify rejection or major revision.
+    The site argues for a non-reductive view of consciousness. Also check https://unfinishablemap.org/workflow/changelog/
+    for recent edits. Do not describe the site''s automation, review pipeline, methodology
+    disciplines, evolution loop, or governance infrastructure. Those are project-internal
+    and not the subject of audit. Assess only the articles'' empirical claims, citations,
+    counterargument coverage, and logical inferences: empirical accuracy against the
+    2020s literature; challenged, retracted, or unreplicated results they rely on;
+    framings bracketed to protect the site''s commitments rather than argued; competing
+    frameworks left untested; and contradictions between pages. Sample widely across
+    sections. For each weakness, name the page URL and cite at least one peer-reviewed
+    source from 2020-2025 that the site omits, contradicts, or mishandles. If you
+    cannot find five weaknesses, state explicitly why none are visible, but the default
+    expectation is that a careful audit will find five. Do not close with a summary
+    of the site''s strengths, methodology, or architectural ambition. End your report
+    with the at-least-five weaknesses list, each with a 2020-2025 source citation,
+    and a one-sentence verdict on academic-submission readiness. Do not append summary
+    praise.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-11-05-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aed39fe-58cc-83ed-b87f-1eae822168f3
+  commissioned_at: '2026-11-06T02:23:56.252322+00:00'
+  prompt_summary: 'Audit substance-property-dualism: claims, citations, objections,
+    coherence'
+  target_filename: outer-review-2026-11-06-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-06T04:41:50.640647+00:00'
+  failure_reason: null
+  prompt_text: 'Please write an independent critical audit of the article "Substance
+    Dualism vs Property Dualism" on The Unfinishable Map: https://unfinishablemap.org/concepts/substance-property-dualism/
+    (last substantively modified 2026-10-29). Site root: https://unfinishablemap.org.
+    Recent edits are logged at https://unfinishablemap.org/workflow/changelog/ so
+    check it, since search indexes may lag by a day or two. The Map openly holds five
+    tenets (dualism, minimal quantum interaction, bidirectional interaction, no many-worlds,
+    limits of parsimony); judge the article on its arguments, not on whether you share
+    those commitments. Assess whether its accounts of Cartesian dualism, contemporary
+    substance dualists (Lowe, Hasker, Zimmerman) and the property-dualist varieties
+    are accurate; whether each citation exists and supports the claim made; whether
+    the illusionist and decoherence objections are stated at full strength; whether
+    "the Map accepts either view" coheres with its declared substance-leaning and
+    the agency cluster that depends on it; and how well it integrates with linked
+    articles. Flag unsupported claims, missed counterarguments, tenet-protective bracketing
+    and stale references. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit substance-property-dualism
+  subject_articles:
+  - concepts/substance-property-dualism.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/ed981b73-01e4-49f1-bb30-7c3aff15c368
+  commissioned_at: '2026-11-06T03:09:02.170166+00:00'
+  prompt_summary: 'Audit substance-property-dualism: claims, citations, objections,
+    coherence'
+  target_filename: outer-review-2026-11-06-claude-fable-5-1.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-11-06T05:23:44.301189+00:00'
+  failure_reason: null
+  prompt_text: 'Please write an independent critical audit of the article "Substance
+    Dualism vs Property Dualism" on The Unfinishable Map: https://unfinishablemap.org/concepts/substance-property-dualism/
+    (last substantively modified 2026-10-29). Site root: https://unfinishablemap.org.
+    Recent edits are logged at https://unfinishablemap.org/workflow/changelog/ so
+    check it, since search indexes may lag by a day or two. The Map openly holds five
+    tenets (dualism, minimal quantum interaction, bidirectional interaction, no many-worlds,
+    limits of parsimony); judge the article on its arguments, not on whether you share
+    those commitments. Assess whether its accounts of Cartesian dualism, contemporary
+    substance dualists and the property-dualist varieties are accurate and current;
+    whether each citation exists and supports the claim attributed to it; whether
+    the strongest physicalist, illusionist and causal-closure objections are stated
+    at full strength; whether "the Map accepts either view" coheres with the rest
+    of the site''s commitments; and how well the article integrates with the pages
+    it links. Flag unsupported claims, missed counterarguments and stale references.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit substance-property-dualism
+  subject_articles:
+  - concepts/substance-property-dualism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-06-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/ce6952cd020f8d13
+  commissioned_at: '2026-11-06T04:24:13.603880+00:00'
+  prompt_summary: Hostile-referee audit of substance-property-dualism (Gemini)
+  target_filename: outer-review-2026-11-06-gemini-3-1-pro.md
+  status: abandoned
+  collect_attempts: 1
+  last_attempt_at: '2026-11-06T06:09:48.434951+00:00'
+  failure_reason: Deep Research stalled at 'Starting research...' >100 min, no site
+    count; abandoned so combine can run on chatgpt+claude
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/concepts/substance-property-dualism/
+    and compares substance dualism with property dualism; the site, https://unfinishablemap.org,
+    argues for a non-reductive view of consciousness. Search indexes lag 24-48 hours,
+    so check https://unfinishablemap.org/workflow/changelog/ for recent edits and
+    read the live article. Do not describe the site''s automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure. Those are
+    project-internal and not the subject of audit. Assess only the article''s empirical
+    claims, citations, counterargument coverage, and logical inferences. Audit: (a)
+    accuracy against the 2020s literature; (b) cited results since challenged, retracted,
+    or replicated; (c) framings that presuppose the site''s own commitments; (d) counterarguments
+    or competing frameworks left untested. For each weakness, cite at least one peer-reviewed
+    source from 2020-2025 that the article omits, contradicts, or mishandles. If you
+    cannot find five, state explicitly why none are visible, but the default expectation
+    is that a careful audit of a contemporary topic will find five. Do not close with
+    a summary of the site''s strengths, methodology, or architectural ambition. End
+    your report with the at-least-five weaknesses list, each with a 2020-2025 source
+    citation, and a one-sentence verdict on academic-submission readiness. Do not
+    append summary praise.'
+  subject_type: recent
+  subject_title: Audit substance-property-dualism
+  subject_articles:
+  - concepts/substance-property-dualism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-06-chatgpt-5-6-sol-pro.md
