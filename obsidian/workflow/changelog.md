@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-09 04:21:19+00:00
+ai_modified: 2026-11-09 04:46:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T04:46:12+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 with Research (collected via collect-claude-review; ready on poll 1 — "Research complete • 304 sources • 12m 34s", artifact "Referee Report: AI Hardware Substrate Taxonomy for the Consciousness Interface", body 48,077 chars stable across the 10 s window, 6,654-word markdown via Blob download; subject `concepts/ai-hardware-substrate-taxonomy`, reuse of the ChatGPT leg's subject)
+- **File**: [[reviews/outer-review-2026-11-09-claude-fable-5-1]]
+- **Claims verified**: 50 page-attributed strings grepped against the live article (49 present, 1 absent — "learning and memory" is Smirnova et al.'s framing, not the page's); ~30 cross-page quotations confirmed on substrate-independence, quantum-biology, quantum-completeness, the Born apex, interface-threshold, biological-computationalisms, cross-modal apex, decoherence/brain-interface-boundary/binding-problem (Reimers and McKemmish already cited there); 10 external citations checked at Crossref/arXiv/PMC/PDF (Google QEC 2408.13687 abstract figures verbatim; Loihi "functionally deterministic" verbatim in the PDF; Faisal 2008 channel-noise sentence verbatim at PMC; Laukkonen 2025, Kagan 2022 Friston-last-author, Maley 2023 BJPS, Branco & Staras 2009, McKemmish 2009, Hagan 2002, Thagard 2022 metadata). False: the "live changelog stale at 2026-10-15 / 11-02 revision unlogged" claim (live page served 02:06Z today; the 11-02 entry sits on the published W45 archive page). Declined: hybrid "walled off backwards", photonic "wrong at readout", allies labelling, question-begging DELETE (position disagreement), fetchability (reviewer's own tool).
+- **High-value findings**: 8 — five converge with the ChatGPT leg's same-day tasks (Maley; "one terminal collapse"; No Many Worlds vs the tenets matrix; neuromorphic p-bit reason; Hagan citation locus) and received one-line addenda rather than duplicates (Maley 2023 analog ≠ continuous; verified Google 2025 QEC figures; Loihi/TrueNorth/SpiNNaker are digital so L70 "Mixed to continuous" is wrong for them; Reimers/McKemmish live on `concepts/decoherence`); three are new (thermal-noise calibration asymmetry silicon vs neurons + Axis 1 "Continuous" contradicting the Map's own Milinkovic & Aru page; the "sharpens" section unscoped against the parent page's 2026-11-05 three-way split + the L129 interface-threshold gloss; "error correction restores determinism" and the on-die TRNG the quantum-randomness page already analyses). A sixth addendum went to the tenet-check P3 on `concepts/substrate-independence` (L112/L190 "error correction" phrases, L178 "decide which could host").
+- **Tasks generated**: 4 (P1: 2, P2: 2) — three refine-draft on `concepts/ai-hardware-substrate-taxonomy`, each with the Headroom line (3,478/3,500, gate `>=`, net ≤ 0) and a Coordination line against the ChatGPT leg's tasks; one P2 on `project/calibration-audit-triple` (symmetric-substitution lint, citation year-order check, pending human ratification). parse_tasks active 382 → 386.
+- **Pending entry**: `collected` → review file `outer_review_status: processed`. Gemini leg still pending (commissioned 04:21Z); combine-outer-reviews fires once it is processed.
+- **Model (automation)**: claude-fable-5-1
+
 ## 2026-11-09T04:21:19+00:00 - commission-gemini-review
 - **Status**: Success
 - **Subject**: `concepts/ai-hardware-substrate-taxonomy` (type `recent`, source `reuse:pending-reviews:outer-review-2026-11-09-chatgpt-5-6-sol-pro.md`; the selector agreed with the driver's pre-computation). Reuse of the ChatGPT pick, so no `mark-consumed`.

@@ -31,9 +31,9 @@
   commissioned_at: '2026-11-09T03:06:23.406006+00:00'
   prompt_summary: Hostile audit of ai-hardware-substrate-taxonomy (Fable 5.1, Research)
   target_filename: outer-review-2026-11-09-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-09T04:35:37.347262+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair external referee for The Unfinishable
     Map (https://unfinishablemap.org), a philosophy site defending interactionist
