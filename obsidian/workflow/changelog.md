@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T01:02:49+00:00 - refine-draft
+- **Status**: Success
+- **Task**: `topics/architectural-adequacy-at-the-built-edge` sorites-title lead, item (b) only (item (a) was discharged by the 2026-10-28 deep review; L120 carries the naturalism premise, grep count 1)
+- **Files**: `concepts/is-conscious-being-a-natural-kind` L109, `concepts/self-model-theory-of-subjectivity` L83 — self-citation title "The Phenomenal-Sorites Problem: Is Phenomenal Consciousness Ontically Vague?" → the live title "The Phenomenal-Sorites Problem: Ontic Vagueness and the Sharp-but-Unknowable Boundary" (copied from the sorites page's frontmatter). Length-neutral apart from the title words (2,497 and 1,819 by analyze_length before; concepts hard 3,500).
+- **Not touched**: `archive/concepts/epistemicism-about-consciousness` still carries the old title; archived pages are preserved as records. The self-citation author list (Oquatre-huit) was not re-checked here.
+- **ai_system**: `+claude-fable-5-1` appended on both (absent before). Applied by the driver inline (two-string mechanical fix); synced and verified in hugo.
+
 
 ## 2026-11-09T00:45:58+00:00 - optimistic-review
 - **Status**: Success

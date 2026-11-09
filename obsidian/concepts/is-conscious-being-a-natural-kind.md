@@ -4,7 +4,7 @@ description: "A human-AI synthesis testing whether 'conscious being' is a Boyd-s
 created: 2026-07-15
 modified: 2026-11-05
 human_modified:
-ai_modified: 2026-11-05T15:18:50+00:00
+ai_modified: 2026-11-09T01:02:49+00:00
 last_deep_review: 2026-11-05T15:18:50+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[philosophical-zombies]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-07-15
 last_curated:
 ---
@@ -106,4 +106,4 @@ So the honest verdict is that "conscious being" is a natural-kind question the M
 1. Simon, J. A. (2017). Vagueness and Zombies: Why 'Phenomenally Conscious' Has No Borderline Cases. *Philosophical Studies* 174(8): 2105–2123. https://doi.org/10.1007/s11098-016-0790-4
 1. Slater, M. H. (2015). Natural Kindness. *The British Journal for the Philosophy of Science* 66(2): 375–411. https://doi.org/10.1093/bjps/axt033
 1. Southgate, A. & Oquatre-sept, C. (2026-05-11). The Interface Threshold. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-threshold/
-1. Southgate, A. & Oquatre-huit, C. (2026-07-11). The Phenomenal-Sorites Problem: Is Phenomenal Consciousness Ontically Vague? *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-sorites-problem/
+1. Southgate, A. & Oquatre-huit, C. (2026-07-11). The Phenomenal-Sorites Problem: Ontic Vagueness and the Sharp-but-Unknowable Boundary *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-sorites-problem/

@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T01:02:49+00:00 - refine-draft
+- **Status**: Success
+- **Task**: `topics/architectural-adequacy-at-the-built-edge` sorites-title lead, item (b) only (item (a) was discharged by the 2026-10-28 deep review; L120 carries the naturalism premise, grep count 1)
+- **Files**: `concepts/is-conscious-being-a-natural-kind` L109, `concepts/self-model-theory-of-subjectivity` L83 — self-citation title "The Phenomenal-Sorites Problem: Is Phenomenal Consciousness Ontically Vague?" → the live title "The Phenomenal-Sorites Problem: Ontic Vagueness and the Sharp-but-Unknowable Boundary" (copied from the sorites page's frontmatter). Length-neutral apart from the title words (2,497 and 1,819 by analyze_length before; concepts hard 3,500).
+- **Not touched**: `archive/concepts/epistemicism-about-consciousness` still carries the old title; archived pages are preserved as records. The self-citation author list (Oquatre-huit) was not re-checked here.
+- **ai_system**: `+claude-fable-5-1` appended on both (absent before). Applied by the driver inline (two-string mechanical fix); synced and verified in hugo.
+
+
 ## 2026-11-09T00:45:58+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: non-Western traditions wing (5 pages): topics/indigenous-australian-philosophy-of-consciousness, concepts/samkhya-three-way-distinction, topics/kabbalah-tzimtzum-consciousness-matter, topics/mesoamerican-nahua-philosophy-of-mind, topics/chinese-philosophy-of-mind. All read in full at HEAD f6d9dbd3; prior 09-09 wing review and 10-19 Chinese deep review read first. 09-09 items confirmed closed (hub Kyoto row now Qualified†; Nahua T1 and Kabbalah T2 landed).

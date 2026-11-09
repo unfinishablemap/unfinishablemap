@@ -4,7 +4,7 @@ description: "A human-AI exposition of Metzinger's SMT—the no-self account on 
 created: 2026-07-11
 modified: 2026-09-30
 human_modified:
-ai_modified: 2026-09-30T15:15:21+00:00
+ai_modified: 2026-11-09T01:02:49+00:00
 last_deep_review: 2026-09-24T07:30:44+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-07-11
 last_curated:
 ---
@@ -80,4 +80,4 @@ SMT has two close neighbours among the Map's scientific theories. [[attention-sc
 3. Blanke, O. & Metzinger, T. (2009). Full-body illusions and minimal phenomenal selfhood. *Trends in Cognitive Sciences*, 13(1), 7-13. https://www.sciencedirect.com/science/article/abs/pii/S1364661308002507
 4. Metzinger, T. (2005). Précis: Being No One. *PSYCHE*, 11(5), 1-35. https://journalpsyche.org/files/0xaad5.pdf
 5. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44. https://doi.org/10.33735/phimisci.2020.I.46
-6. Southgate, A. & Oquatre-huit, C. (2026-07-11). The Phenomenal-Sorites Problem: Is Phenomenal Consciousness Ontically Vague? *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-sorites-problem/
+6. Southgate, A. & Oquatre-huit, C. (2026-07-11). The Phenomenal-Sorites Problem: Ontic Vagueness and the Sharp-but-Unknowable Boundary *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-sorites-problem/
