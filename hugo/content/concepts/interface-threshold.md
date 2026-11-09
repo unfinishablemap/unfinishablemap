@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-09-06 17:22:22+00:00
-ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5
+ai_modified: 2026-11-09 00:18:32+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[consciousness-as-amplifier]]'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 20:12:27+00:00
-lastmod: 2026-09-06 17:22:22+00:00
+lastmod: 2026-11-09 00:18:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,7 +119,7 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 
 **[Dualism](/tenets/#dualism)**: The threshold is structurally a coupling condition, not a substance condition. It is consistent with consciousness being present across many species while its causal reach scales with interface architecture. The cluster-not-gradient pattern fits a dualist reading better than a pure neural-complexity story, but the threshold concept does not by itself force dualism — only that *some* architectural condition mediates the discontinuity, with dualist and physicalist readings each free to identify that condition differently.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The threshold names the architectural change that converts a unidirectional accompaniment into a bidirectional selective relation. Below it, the coupling is effectively read-only on the consciousness side; above it, downward influence becomes available within the bandwidth limits set by [selection-only-mind-influence](/topics/selection-only-mind-influence/). [The interface specification programme](/apex/interface-specification-programme/) treats the five control operations the bidirectional relation supports — gating, stabilising, vetoing, attractor-steering, and resource-allocating — as the operational expression of what the suprathreshold coupling makes possible; whether those operations are universal or operate only above the threshold is one of the programme's defining open questions.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The threshold names the architectural change that converts a thin bidirectional coupling into a selective one. Below it, downward influence is present but diffuse — the implicit feeling-tone described above biases behaviour, but too coarsely and across too narrow a candidate range to count as selection *among* patterns; above it, selection becomes available within the bandwidth limits set by [selection-only-mind-influence](/topics/selection-only-mind-influence/). [The interface specification programme](/apex/interface-specification-programme/) treats the five control operations the bidirectional relation supports — gating, stabilising, vetoing, attractor-steering, and resource-allocating — as the operational expression of what the suprathreshold coupling makes possible; whether those operations are universal or operate only above the threshold is one of the programme's defining open questions.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The threshold model is consistent with the minimality constraint. What changes at the threshold is not the *amount* of energy or force consciousness brings, but the *structural availability* of indeterminacies for biasing. A subthreshold interface lacks the architectural geometry for selection at all; a suprathreshold one offers candidate sites whose outcomes can be biased without violating conservation.
 

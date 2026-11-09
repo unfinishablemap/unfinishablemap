@@ -4,11 +4,28 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-06 07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-11-08'
-lastmod: 2026-11-08 00:00:00+00:00
+date: '2026-11-09'
+lastmod: 2026-11-09 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-09T00:19:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interface-threshold](/concepts/interface-threshold/)
+- **Original score**: n/a (targeted fix; curate.py review absent)
+- **Changes**: Route A reconciliation of L118 (Relation to Site Perspective, Bidirectional Interaction) with L72. Removed "unidirectional accompaniment" and "effectively read-only on the consciousness side" (an epiphenomenal sub-threshold regime the Map does not concede); now: sub-threshold coupling is thin bidirectional, downward influence present but diffuse (the L72 feeling-tone biases behaviour, too coarsely and across too narrow a candidate range to count as selection among patterns); above threshold selection becomes available within selection-only-mind-influence limits. Route B rejected: L70 says phenomenal consciousness "may well be present" below threshold and L72 credits sub-threshold influence, so "no conscious state is coupled" would contradict the page. Tenet 3 quantifier doctrine left to the open NEEDS-HUMAN item. Interface-specification-programme sentence unchanged. 2,733 -> 2,753 words (concepts hard 3,500). ai_system appended +claude-fable-5-1.
+- **Published**: yes
+
+## 2026-11-09T00:04:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interoceptive-void](/voids/interoceptive-void/)
+- **Source**: optimistic-2026-10-21-scorekeeping-wing, Priority List item 4 (P3 seam fix)
+- **Word count**: 2690 → 2723 (+33; voids hard 3000, headroom 276)
+- **Changes**: L63 "Pathologies of dissociation": after the anxiety/depersonalisation/anorexia/alexithymia sentence, added one paraphrase sentence giving trauma-related depersonalisation a specified brain-only predictive-processing route (over-inhibited emotion, underactive anterior insula, weakened priors and interoceptive signalling, exteroceptive dominance), linked via `[[dissociative-subtype-of-ptsd|the dissociative subtype of PTSD]]`. No Laurin reference added (cited via the sibling page only). No other prose touched.
+- **Verification**: Laurin et al. (2026) confirmed at Crossref (DOI 10.1016/j.neubiorev.2026.106546; *Neuroscience & Biobehavioral Reviews* 182, 106546; six authors as listed on the sibling page). Abstract retrieved from Europe PMC (PMID 41485717) supports every paraphrase element: "novel theoretical framework" (keeps "theoretical"); "emotional over-inhibition and anterior insula hypoactivity weaken priors and interoception, while exteroceptive inputs dominate". Crossref and OpenAlex carry no abstract for this DOI. Attribution: the trauma point stays with the rival production account per the sibling page's L37 verdict; the new sentence claims nothing for the Map. No named-opponent reply added, so no reasoning-mode classification applies.
+- **Hugo**: synced; rendered link `/concepts/dissociative-subtype-of-ptsd/` present; target file exists.
+- **Published**: yes
 
 ## 2026-11-08T23:28:39+00:00 - deep-review
 - **Status**: Success
