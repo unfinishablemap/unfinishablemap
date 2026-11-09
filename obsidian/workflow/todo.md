@@ -5132,6 +5132,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Synthesis**: reviews/outer-review-synthesis-2026-11-09.md (C1 origin; the article fix at `concepts/ai-hardware-substrate-taxonomy` L45/L84 landed 2026-11-09 05:54Z)
 - **Notes**: The research note is the origin of the C1 misattribution that propagated to the article. Driver grep of the full text (Wiley OA HTML, 3,862 words, read 2026-11-09): "functionally relevant" 0, "ignore" 0, "spike timing"/"synapse geometry"/"field frequencies" 0 each, "multi-bit"/"1-bit" 0, "phenomenolog" 0 — every bullet in the L59–L62 Key points and the quotation at L61 are unsupported. What Maley argues: analog computation is distinct from digital by magnitude-mirroring representation, not by continuity (§1, §2.1: "Although analog computation is quite often continuous, it is not necessarily so"); analog mechanisms are "not medium-independent in the way that algorithms are typically taken to be" (§4.2); the one neural example is hedged ("perhaps the firing rate of a neuron is better thought of as representing the magnitude of a stimulus … or perhaps not", §5). FIX: rewrite the L59–L62 Key points to those three verified claims with section numbers, delete the fabricated quotation, and re-label Maley at L120/L145/L167/L179 — he is an analog-computation theorist who rejects analog = continuous, not an "analog dependence" / "continuity-dependence" theorist. Drop the "digital encodes via many 1-bit channels; analog uses one multi-bit channel … phenomenologically distinct" bullet (closest textual basis is §3.1's seven-circuit-elements-vs-one efficiency remark; "phenomenologically" is not in the paper). Re-verify each kept claim by grep against the full text (Wiley 403s curl; use a browser or re-read the OA HTML). Research notes have no hard length gate but keep it length-neutral. Set `ai_modified` from `date -u`; append the executing model to ai_system only if ABSENT anywhere in the string. Sync after.
 
+### P2: Write `voids/vitality-form-void` — Voids: The Vitality-Form Void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-vitality-form-void-2026-11-09.md
+- **Target section**: voids
+- **Section**: voids
+- **Status**: pending
+- **Source**: research-chain (auto-minted by cycle_post after research-topic)
+- **Generated**: 2026-11-09
+- **Headroom**: voids 115/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
 ## Completed Tasks
 
 

@@ -10,6 +10,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T08:49:05+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The vitality-form void — the dynamic shape (the *how*) of every action and felt moment, perceived and neurally distinct yet without a category in psychology until Stern 2010 / Di Cesare 2013
+- **Category**: Mixed (Unexplored primary; Occluded by content categories; Unexplorable question open)
+- **Output**: [voids-vitality-form-void-2026-11-09](/research/voids-vitality-form-void-2026-11-09/)
+- **Key finding**: A third dimension of action beside goal and intention (how it is done) has its own insular stream, dissociates from goal recognition in autism, and the only concept built for it is judged "not precisely defined" and prone to "disintegration" when extended (Køppe et al. 2008) — a dimension lived in every moment and thought almost never. Dedupe: vitality/Stern/Di Cesare/Sheets-Johnstone/Køppe all 0 hits; hypocognition, Bollas, akinetopsia declined as covered under other names.
 ## 2026-11-09T07:52:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
