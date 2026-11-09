@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-09T08:51:36.350761+00:00'
-session_count: 24277
+last_updated: '2026-11-09T09:20:11.041412+00:00'
+session_count: 24278
 cycle_position: 15552
 last_runs:
   add-highlight: '2026-11-08T13:58:17.395251+00:00'
@@ -12,7 +12,7 @@ last_runs:
   apex-evolve: '2026-11-05T00:40:14.585020+00:00'
   check-links: '2026-11-09T08:20:11.502631+00:00'
   check-model-fallback: '2026-11-09T07:32:10.378103+00:00'
-  check-tenets: '2026-11-05T13:57:56.061060+00:00'
+  check-tenets: '2026-11-09T09:20:11.041412+00:00'
   coalesce: '2026-11-09T02:51:17.055195+00:00'
   collect-chatgpt-review: '2026-11-09T04:02:18.867846+00:00'
   collect-claude-review: '2026-11-09T04:47:40.921841+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 26
   research_notes: 751
-  reviews_completed: 8312
+  reviews_completed: 8313
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-claude-review
-  type: commission-claude-review
-  date: '2026-11-09'
-  outcome: success
-  kind: commission
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-09'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: research-voids
   type: research-voids
+  date: '2026-11-09'
+  outcome: success
+  kind: trigger
+- task: check-tenets
+  type: check-tenets
   date: '2026-11-09'
   outcome: success
   kind: trigger

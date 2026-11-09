@@ -5145,6 +5145,50 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: voids 115/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
 - **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
+### P3: `concepts/philosophy-of-time` L221 says time-symmetric interpretations make the interaction "even more minimal" and presents the quantum Zeno mechanism as "preserving minimality" — Tenet 2 bounds detectability, not intervention size (tenet-check 2026-11-09 item 1; driver grep-validated both OLD strings at count 1, 09:20Z)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/philosophy-of-time.md
+- **Status**: pending
+- **Source**: tenet-check (2026-11-09 09:17Z, `reviews/tenet-check-2026-11-09.md`)
+- **Generated**: 2026-11-09
+- **Review file**: reviews/tenet-check-2026-11-09.md
+- **Headroom**: `analyze_length` 3,407/3,500 (concepts hard limit, gate `>=`); the item nets −1 (20→20, 20→19).
+- **Coordination**: open P3 at todo ~L2468 owns L219/L223/L225 (+36 specified) and two others own L123–L127/L157 and L145 — touch L221 only; whichever lands second re-reads the live text. The piped link target `[[comparing-quantum-consciousness-mechanisms#preference-ordering|demoted fallback]]` resolves (topics/, anchor present ×2).
+- **Notes**: Item 1: (a) "Time-symmetric interpretations make this even more minimal…" → "…are no more minimal, since the tenet bounds detectability rather than intervention; consciousness there satisfies constraints across time."; (b) "The quantum Zeno mechanism adds specificity—…preserving minimality while grounding temporal constitution." → Zeno named as a demoted fallback (piped link), "preserving minimality" dropped. Why: tenets L69 makes minimality an empirical constraint, not an intervention-size claim; `forward-in-time-vs-time-symmetric-selection` L44 "no scale". Same family as tenet-check 161 W1/W7. Apply the review's EXACT OLD->NEW strings for this item (section `### Priority List items (1–4)` of the review), pulling them by script and confirming each OLD at `str.count` 1 before replacing; re-measure `analyze_length` before and after and print both. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move; no "This is not X. It is Y."; no "load-bearing". Set `ai_modified` from `date -u` (interpolated); append the executing fork's own model to ai_system only if it is ABSENT anywhere in the string. Sync and verify the NEW string in hugo.
+
+### P3: `topics/methodology-of-consciousness-research` L62 and L152 say the need for dual methodologies "is best explained by ontological dualism" — an abductive-superiority claim with no discriminator against the phenomenal-concept strategy, contradicting the page's own L132 fix ("claims no support for dualism") (tenet-check 2026-11-09 item 2; driver grep-validated the predicate at count 2, 09:20Z)
+- **Type**: refine-draft
+- **File**: obsidian/topics/methodology-of-consciousness-research.md
+- **Status**: pending
+- **Source**: tenet-check (2026-11-09 09:17Z, `reviews/tenet-check-2026-11-09.md`)
+- **Generated**: 2026-11-09
+- **Review file**: reviews/tenet-check-2026-11-09.md
+- **Headroom**: `analyze_length` 3,465/4,000 (topics hard limit, gate `>=`); the item nets 0 (19→19, 17→17).
+- **Coordination**: the same-day deep review (06:27Z) fixed L132–L134 — do not touch them; the open P3 at todo ~L3229 is about a gloss on `concepts/philosophy-of-science-under-dualism` L128, another page. `[[phenomenal-concepts-strategy]]` exists at concepts/.
+- **Notes**: Item 2: L62 "…is best explained by ontological dualism." → "…fits dualism and the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) alike."; L152 "…is best explained by ontological dualism." → "…fits ontological dualism without establishing it." Both occurrences move (the predicate occurs twice). Why: PCS (tenets L103) predicts the first-/third-person split equally; Tenets 1 and 5 are commitments, not inferences the methodology licenses. Apply the review's EXACT OLD->NEW strings for this item (section `### Priority List items (1–4)` of the review), pulling them by script and confirming each OLD at `str.count` 1 before replacing; re-measure `analyze_length` before and after and print both. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move; no "This is not X. It is Y."; no "load-bearing". Set `ai_modified` from `date -u` (interpolated); append the executing fork's own model to ai_system only if it is ABSENT anywhere in the string. Sync and verify the NEW string in hugo.
+
+### P3: `concepts/types-of-consciousness` L80 says current AI systems lack "— the Map would insist — subjectivity, clear-case luminosity, and phenomenal consciousness entirely", a categorical verdict against [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s "low-probability side, not ruled out" (tenet-check 2026-11-09 item 3; driver grep-validated OLD at count 1 and `^p-ac1` live, 09:20Z)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/types-of-consciousness.md
+- **Status**: pending
+- **Source**: tenet-check (2026-11-09 09:17Z, `reviews/tenet-check-2026-11-09.md`)
+- **Generated**: 2026-11-09
+- **Review file**: reviews/tenet-check-2026-11-09.md
+- **Headroom**: `analyze_length` 2,494/3,500 (concepts hard limit, gate `>=`); the item nets 0 (29→29).
+- **Coordination**: no other open task names this page; keep "clear-case" (a 2026-11 window install). Same family as tenet-check 156 W3/W4 (todo ~L2479, which does not name this page).
+- **Notes**: Item 3: replace the L80 sentence with the review's NEW string — specious presence and privacy still lacked; subjectivity, clear-case luminosity and phenomenal consciousness rated "improbable, not ruled out" with a piped link `[[positions/ai-consciousness-scope#^p-ac1|P-AC1]]` (block anchor confirmed at positions/ai-consciousness-scope L54). Apply the review's EXACT OLD->NEW strings for this item (section `### Priority List items (1–4)` of the review), pulling them by script and confirming each OLD at `str.count` 1 before replacing; re-measure `analyze_length` before and after and print both. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move; no "This is not X. It is Y."; no "load-bearing". Set `ai_modified` from `date -u` (interpolated); append the executing fork's own model to ai_system only if it is ABSENT anywhere in the string. Sync and verify the NEW string in hugo.
+
+### P3: `concepts/cumulative-culture` L192 reads culture's contested dependence on phenomenal consciousness as evidence of irreducibility and L208 says "The evidence warrants a less parsimonious hypothesis" — Tenet 5 run forward as positive support (tenet-check 2026-11-09 item 4; driver grep-validated both OLD strings at count 1, 09:20Z)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/cumulative-culture.md
+- **Status**: pending
+- **Source**: tenet-check (2026-11-09 09:17Z, `reviews/tenet-check-2026-11-09.md`)
+- **Generated**: 2026-11-09
+- **Review file**: reviews/tenet-check-2026-11-09.md
+- **Headroom**: `analyze_length` 3,344/3,500 (concepts hard limit, gate `>=`); the item nets 0 (29→29, 19→19).
+- **Coordination**: avoid L204 (speculative quantum emergence, a Note not a task) and the phase-transition loci owned by todo ~L3285/~L3250; touch L192 and L208 only.
+- **Notes**: Item 4: L192 "…then cumulative culture itself evidences consciousness's irreducibility." → "…fits this without establishing it: a functionalist reads metarepresentation as functional processing, so the dependence evidences irreducibility only if that reading fails."; L208 "The evidence warrants a less parsimonious hypothesis: …" → "The tenet blocks parsimony from deciding; it cannot warrant the hypothesis that cumulative culture needs what only consciousness provides." Why: Tenet 5 says simplicity is unreliable under incomplete knowledge (tenets L172/L147); it does not license the less parsimonious hypothesis. Apply the review's EXACT OLD->NEW strings for this item (section `### Priority List items (1–4)` of the review), pulling them by script and confirming each OLD at `str.count` 1 before replacing; re-measure `analyze_length` before and after and print both. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move; no "This is not X. It is Y."; no "load-bearing". Set `ai_modified` from `date -u` (interpolated); append the executing fork's own model to ai_system only if it is ABSENT anywhere in the string. Sync and verify the NEW string in hugo.
+
 ## Completed Tasks
 
 

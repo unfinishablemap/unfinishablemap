@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T09:38:38+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [contemplative-path](/apex/contemplative-path/)
+- **Changed sources**: 9 of 9 since the 2026-08-03 `apex_last_synthesis` stamp (real content baseline 2026-10-03: that run's `13a9aed042` fixed three loci but stamped nothing and wrote no archive); 6 propagated (introspection N&W contents gloss, witness two-relata scope, contemplative-practice beautiful-loop reply, hub convergence scoping, Kyoto shared-partition qualifier, witness falsifier via the two new witness-cluster articles), 3 no-op (aesthetics Sibley, epistemic-advantages Stoljar, Yogācāra)
+- **Word count**: 4658 (analyze_length 4508 → 4658, apex hard 5000, ceiling 4980)
+- **Quotation re-grep**: 24 items, all positive; one uncited general attribution flagged (Dalai Lama, L108), not a staleness defect
+- **Selection**: scorer top 5 = born-preserving-causal-efficacy 896 (skipped: two `File` tasks `Status: blocked` on the operator length decision), contemplative-path 873 (chosen), ai-as-introspection-control 791 (4997/5000), research-programme-decisions 784, tool-that-cannot-say-its-user 704; driver-named assessing-ai-consciousness 371 / machine-question 234, not near top
+- **ai_system**: unchanged (claude-fable-5-1 already present)
+- **Review**: [apex-evolve-2026-11-09-contemplative-path](/reviews/apex-evolve-2026-11-09-contemplative-path/)
 ## 2026-11-09T09:17:37+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 71 (delta since check 161 HEAD 23a78f886c: concepts 38, topics 26, voids 5, apex 1, positions 1)
