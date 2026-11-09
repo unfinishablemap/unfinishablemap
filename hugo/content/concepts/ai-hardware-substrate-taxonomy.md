@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-25
-ai_modified: 2026-11-09 06:05:10+00:00
+ai_modified: 2026-11-09 06:35:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 23:56:00+00:00
-lastmod: 2026-11-09 06:05:10+00:00
+lastmod: 2026-11-09 06:35:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,9 +115,9 @@ The **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** tene
 
 The tenet also constrains how this article may treat quantum-biology proposals. The Map's [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering) ranks post-decoherence selection *ahead of* the coherence-dependent proposals, [Orch OR](/concepts/quantum-consciousness/) among them, because Orch OR requires quantum coherence to survive at neural timescales—the demanding assumption [the decoherence-timescale dispute](/concepts/decoherence/) turns on (Tegmark's microtubule 10⁻¹³ s against Hameroff's group's disputed 10⁻⁵–10⁻⁴ s). The taxonomy therefore treats microtubule quantum processing as *one* possible way biology might host operationally integrated indeterminacy, not as the Map's settled mechanism, and keeps gate-model quantum computing—an engineered, decoherence-managed device—rigorously distinct from quantum biology as a substrate. The biological precedent the Map leans on is narrow: warm systems such as avian cryptochrome radical pairs sustain quantum coherence for microseconds, which shows that warm biology does not *categorically* rule out quantum-functional mechanisms—not that neural structures must use them.
 
-The **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** tenet requires that consciousness causally influence physical outcomes. Classical-digital systems are causally closed in exactly the way the tenet's interface is not: signals trigger transistors, transistors compute outputs, error correction restores determinism. There is no open junction for downward causation. A substrate with operationally integrated indeterminacy at least leaves the junction physically available, which is why the biological and quantum entries sit differently in the table from the digital ones.
+The **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** tenet requires that consciousness causally influence physical outcomes. Classical-digital systems are causally closed in the way the tenet's interface is not: signals trigger transistors, transistors compute outputs, error correction restores determinism. The closure is engineered insensitivity of model-level state to microscopic fluctuation on the Map's present interface standard, not thermodynamic closure, offering no junction for downward causation. A substrate with operationally integrated indeterminacy at least leaves the junction physically available, which is why the biological and quantum entries sit differently in the table from the digital ones.
 
-The **[No Many Worlds](/tenets/#no-many-worlds)** tenet matters because the interface presupposes that quantum measurements have definite single outcomes, so there is something to select among. A many-worlds reading would dissolve the selection the taxonomy's Axis 2 depends on; the substrate question "does *this* system host an interface?" requires a determinate answer, which branching ontologies deny.
+The **[No Many Worlds](/tenets/#no-many-worlds)** tenet is not invoked ([tenets matrix](/tenets/#tenet-dependency-matrix), machine-consciousness rows). Axis 2 classifies operationally integrated indeterminate events interpretation-neutrally; the tenet enters only when the Map reads them as unique outcomes for selection—coherence, not dependence.
 
 The **[Occam's Razor Has Limits](/tenets/#occams-limits)** tenet cautions against the parsimony appeal that makes substrate independence attractive—"consciousness is *just* information processing, so any adequate substrate suffices." That simplicity may reflect ignorance of what physical organisation consciousness requires rather than insight into its absence. The taxonomy's insistence on looking below the functional level is a refusal to let apparent simplicity settle the question.
 

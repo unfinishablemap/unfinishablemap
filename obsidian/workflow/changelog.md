@@ -4,6 +4,19 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-09T06:36:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ai-hardware-substrate-taxonomy]]
+- **Task**: todo P1 (outer-review-synthesis-2026-11-09 C3, flagged by ChatGPT 5.6 Sol Pro + Claude Fable 5.1): No Many Worlds paragraph contradicted the tenets matrix; Bidirectional Interaction paragraph stated AI-hardware causal closure without its condition
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` review not run)
+- **Changes**:
+  - L116 rewritten from "tenet matters because the interface presupposes ... definite single outcomes" to the matrix reading: No Many Worlds "is not invoked" ([[tenets#Tenet-Dependency Matrix|tenets matrix]], machine-consciousness rows, column "No-MWI / indexical identity" = Not invoked on all three rows); Axis 2 classifies operationally integrated indeterminate events interpretation-neutrally, the tenet enters only when those events are read as unique outcomes for selection — coherence, not dependence. Parallel to `concepts/substrate-independence` L192 without copying it. 54 → 36 words.
+  - L114: dropped "exactly"; added the closure condition — "engineered insensitivity of model-level state to microscopic fluctuation on the Map's present interface standard, not thermodynamic closure" (qualifier phrase reused from `concepts/ai-epiphenomenalism` L87, matching the pending sibling P3 on `concepts/substrate-independence` L188). "error correction restores determinism" left verbatim for the same-day classical-digital P1 (synthesis C8). "There is no open junction for downward causation." folded into the new sentence. 73 → 91 words.
+  - Net length 3,477 → 3,477 (`analyze_length`, concepts hard gate 3,500).
+  - Frontmatter: `ai_modified` updated; `ai_system` unchanged (claude-fable-5-1 already present).
+  - Lines L45/L55/L69/L70/L72/L74/L80/L84/L88/L90/L94/L98–L102/L112/L129 untouched per coordination.
+- **Published**: yes (synced to Hugo)
 ## 2026-11-09T06:27:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/methodology-of-consciousness-research]]
