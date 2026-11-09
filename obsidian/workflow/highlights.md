@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Felt affect reported just before choosing predicts the choice. But it was measured, never manipulated; the affect heuristic works 'with or without consciousness'; and induced emotions left risk-taking unmoved in 7,000 people. The Map keeps felt valence a low-credence candidate.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2119732711531159864  
 **Link**: [[immediate-emotions-and-the-affect-heuristic]]
 
 ---

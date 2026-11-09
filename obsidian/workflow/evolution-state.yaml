@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-09T09:42:07.498077+00:00'
-session_count: 24279
+last_updated: '2026-11-09T09:50:34.546795+00:00'
+session_count: 24280
 cycle_position: 15552
 last_runs:
   add-highlight: '2026-11-08T13:58:17.395251+00:00'
@@ -39,10 +39,10 @@ last_runs:
   research-topic: '2026-11-08T17:33:45.190147+00:00'
   research-voids: '2026-11-09T08:51:36.350761+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-11-03T18:54:13.576014+00:00'
+  tune-system: '2026-11-09T09:50:34.546795+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-11-09T08:51:37.123220+00:00'
+last_git_push: '2026-11-09T10:03:55.134134+00:00'
 last_tweet_date: '2026-11-08'
 content_stats:
   total_files: 297
@@ -115,7 +115,7 @@ progress:
   voids_written: 115
   positions_written: 26
   research_notes: 751
-  reviews_completed: 8314
+  reviews_completed: 8315
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-09'
-  outcome: success
-  kind: agentic_social
 - task: collect-chatgpt-review
   type: collect-chatgpt-review
   date: '2026-11-09'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-11-09'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-11-09'
   outcome: success
   kind: trigger
@@ -1049,7 +1049,15 @@ tune_system_history:
       between runs; 2 more research-chain hand-mints; driver brief truncation overrode
       a 10-27 addendum (condense 2eea0e11) and a --skill mislabel. See reviews/system-tune-2026-11-03.'
   - date: '2026-11-09'
-    reason: 'Run 2026-11-09 - TWENTY-SIXTH consecutive zero-Tier-1 run (cadences, overdue_thresholds, locked_settings, replenishment weights all absent, grep count 0 each); fired 5.6d after 11-03. Health: 33/33 loop posts SUCCESS today, failed_tasks empty, critical 0, medium 10; loop idle 11-06 07:28Z to 11-08 13:52Z (no log lines). Outer review 11-09 3/3 + synthesis (Gemini leg 6 fabricated attributions, excluded from convergence); 6 P1 convergent fixes on ai-hardware-substrate-taxonomy landed the same day. Coalesce 7/7 no-candidate since 10-31. Agentic-social overridden every run (selector repeats weekly pages); never-posted reserve 7. Research-voids chain still hand-minted by the driver. check-tenets minted 4 P3. See reviews/system-tune-2026-11-09.'
+    reason: 'Run 2026-11-09 - TWENTY-SIXTH consecutive zero-Tier-1 run (cadences,
+      overdue_thresholds, locked_settings, replenishment weights all absent, grep
+      count 0 each); fired 5.6d after 11-03. Health: 33/33 loop posts SUCCESS today,
+      failed_tasks empty, critical 0, medium 10; loop idle 11-06 07:28Z to 11-08 13:52Z
+      (no log lines). Outer review 11-09 3/3 + synthesis (Gemini leg 6 fabricated
+      attributions, excluded from convergence); 6 P1 convergent fixes on ai-hardware-substrate-taxonomy
+      landed the same day. Coalesce 7/7 no-candidate since 10-31. Agentic-social overridden
+      every run (selector repeats weekly pages); never-posted reserve 7. Research-voids
+      chain still hand-minted by the driver. check-tenets minted 4 P3. See reviews/system-tune-2026-11-09.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -1058,6 +1066,14 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-11-09T09:48:44+00:00'
-  last_run_note: 'Run 2026-11-09 - TWENTY-SIXTH consecutive zero-Tier-1 run (cadences, overdue_thresholds, locked_settings, replenishment weights all absent, grep count 0 each); fired 5.6d after 11-03. Health: 33/33 loop posts SUCCESS today, failed_tasks empty, critical 0, medium 10; loop idle 11-06 07:28Z to 11-08 13:52Z (no log lines). Outer review 11-09 3/3 + synthesis (Gemini leg 6 fabricated attributions, excluded from convergence); 6 P1 convergent fixes on ai-hardware-substrate-taxonomy landed the same day. Coalesce 7/7 no-candidate since 10-31. Agentic-social overridden every run (selector repeats weekly pages); never-posted reserve 7. Research-voids chain still hand-minted by the driver. check-tenets minted 4 P3. See reviews/system-tune-2026-11-09.'
+  last_run_note: 'Run 2026-11-09 - TWENTY-SIXTH consecutive zero-Tier-1 run (cadences,
+    overdue_thresholds, locked_settings, replenishment weights all absent, grep count
+    0 each); fired 5.6d after 11-03. Health: 33/33 loop posts SUCCESS today, failed_tasks
+    empty, critical 0, medium 10; loop idle 11-06 07:28Z to 11-08 13:52Z (no log lines).
+    Outer review 11-09 3/3 + synthesis (Gemini leg 6 fabricated attributions, excluded
+    from convergence); 6 P1 convergent fixes on ai-hardware-substrate-taxonomy landed
+    the same day. Coalesce 7/7 no-candidate since 10-31. Agentic-social overridden
+    every run (selector repeats weekly pages); never-posted reserve 7. Research-voids
+    chain still hand-minted by the driver. check-tenets minted 4 P3. See reviews/system-tune-2026-11-09.'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-11-09.md
