@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T10:36:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
+- **Task**: todo P1 (synthesis 2026-11-09 C7, Claude + ChatGPT convergent on the register): §"Why This Sharpens…" and lede claimed more than `concepts/substrate-independence` licenses; `interface-threshold` gloss misdescribed that page
+- **Original score**: n/a (targeted outer-review fix; curate review not run)
+- **Changes**: H2 retitled word-neutrally to "What the Interface Tenets Entail for Substrate Independence" (no inbound `why-this-sharpens` anchors on content pages). L100 scoped the verdict to bidirectionally coupled consciousness via piped link to `substrate-independence` (its L48 split has no heading anchor, so plain pipe), stated the register in one clause ("framework-internal, counting against the thesis only given Tenet 2") with a back-reference to the L57 placements (`#the-indeterminacy-distinction`), and paid for it by merging the "At that level…" sentence and the redundant closing sentence. L124 gloss now "The thesis, scoped here to bidirectionally coupled consciousness". L129 gloss rewritten in `interface-threshold`'s own terms (coupling-architecture transition; selects among vs accompanies neural patterns). L37 lede scoped "for coupled consciousness" word-neutrally. "sharpens the case" now 0 hits in obsidian + hugo copies. L45/L55/L69/L70/L72/L74/L80/L84/L88/L90/L94/L102/L112/L114/L116 untouched.
+- **Length**: analyze_length 3,472 → 3,471 (concepts hard gate 3,500, `>=`); net −1
+- **Engagement classification**: no named-opponent reply edited (Thagard / Milinkovic & Aru paragraph untouched)
+- **ai_system**: unchanged (claude-fable-5-1 already present)
+- **Published**: yes (synced)
+
 ## 2026-11-09T09:49:45+00:00 - tune-system
 - **Status**: Success (no Tier 1 change; twenty-sixth consecutive)
 - **Sessions analyzed**: 261 (24,018 → 24,279; 6 cycles)
