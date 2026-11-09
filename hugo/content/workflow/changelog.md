@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T19:50:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [alief-and-acting-against-belief](/topics/alief-and-acting-against-belief/) and [control-theoretic-will](/concepts/control-theoretic-will/)
+- **Original score**: n/a (targeted fix; optimistic review 2026-10-22 location wing, Priority List item 3)
+- **Changes**: (a) alief page L107: scoped the absence claim "Nor has the effort been measured" to "None of the sources cited here measures the effort" and "not on any study" to "not on a study" (+3 words, 3,353 -> 3,356 of 4,000; L69's parallel fence untouched; 10-21 deep review stability notes not reopened). (b) control-theoretic-will L78: zero-word reciprocal pipe `[[alief-and-acting-against-belief|overrides the plant's trajectory]]` (2,907 unchanged; no prose added to the Veto section). ai_system appended claude-fable-5-1 on the alief page (absent); unchanged on control-theoretic-will (already present).
+- **Published**: yes
+
+
 ## 2026-11-09T19:20:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)

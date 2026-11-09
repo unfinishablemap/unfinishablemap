@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-09 20:06:37+00:00
+ai_modified: 2026-11-09 19:49:59+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:45:23+00:00
-lastmod: 2026-10-09 20:06:37+00:00
+lastmod: 2026-11-09 19:49:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ The specific physical mechanism remains open—the quantum Zeno effect is one ca
 
 ### Veto
 
-The [policy-level selection](/concepts/consciousness-selecting-neural-patterns/#the-bandwidth-constraint) framework includes veto—blocking an action the brain has prepared. Benjamin Libet's experiments showed that a readiness potential (a buildup of electrical activity in motor cortex) begins ~550ms before action, well before conscious awareness of the intention at ~200ms. Libet (1985) proposed that consciousness can still veto the action in the remaining window before execution. Brass and Haggard's (2007) "whether" model identified distinct neural circuitry for this operation—see [Phenomenology of Volitional Control](/topics/volitional-control/) for the phenomenological structure of conscious veto. In control terms, veto is an **emergency stop**—a safety controller that overrides the plant's trajectory when it conflicts with the setpoint.
+The [policy-level selection](/concepts/consciousness-selecting-neural-patterns/#the-bandwidth-constraint) framework includes veto—blocking an action the brain has prepared. Benjamin Libet's experiments showed that a readiness potential (a buildup of electrical activity in motor cortex) begins ~550ms before action, well before conscious awareness of the intention at ~200ms. Libet (1985) proposed that consciousness can still veto the action in the remaining window before execution. Brass and Haggard's (2007) "whether" model identified distinct neural circuitry for this operation—see [Phenomenology of Volitional Control](/topics/volitional-control/) for the phenomenological structure of conscious veto. In control terms, veto is an **emergency stop**—a safety controller that [overrides the plant's trajectory](/topics/alief-and-acting-against-belief/) when it conflicts with the setpoint.
 
 Veto requires minimal bandwidth. A single bit ("stop/go") suffices for the basic operation. This makes it perhaps the most plausible form of conscious control—even a ~10 bits/second channel can issue many veto signals per second.
 

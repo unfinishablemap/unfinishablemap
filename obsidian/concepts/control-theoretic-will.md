@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-10-09T20:06:37+00:00
+ai_modified: 2026-11-09T19:49:59+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -75,7 +75,7 @@ The specific physical mechanism remains open—the quantum Zeno effect is one ca
 
 ### Veto
 
-The [[concepts/consciousness-selecting-neural-patterns#The Bandwidth Constraint|policy-level selection]] framework includes veto—blocking an action the brain has prepared. Benjamin Libet's experiments showed that a readiness potential (a buildup of electrical activity in motor cortex) begins ~550ms before action, well before conscious awareness of the intention at ~200ms. Libet (1985) proposed that consciousness can still veto the action in the remaining window before execution. Brass and Haggard's (2007) "whether" model identified distinct neural circuitry for this operation—see [[volitional-control|Phenomenology of Volitional Control]] for the phenomenological structure of conscious veto. In control terms, veto is an **emergency stop**—a safety controller that overrides the plant's trajectory when it conflicts with the setpoint.
+The [[concepts/consciousness-selecting-neural-patterns#The Bandwidth Constraint|policy-level selection]] framework includes veto—blocking an action the brain has prepared. Benjamin Libet's experiments showed that a readiness potential (a buildup of electrical activity in motor cortex) begins ~550ms before action, well before conscious awareness of the intention at ~200ms. Libet (1985) proposed that consciousness can still veto the action in the remaining window before execution. Brass and Haggard's (2007) "whether" model identified distinct neural circuitry for this operation—see [[volitional-control|Phenomenology of Volitional Control]] for the phenomenological structure of conscious veto. In control terms, veto is an **emergency stop**—a safety controller that [[alief-and-acting-against-belief|overrides the plant's trajectory]] when it conflicts with the setpoint.
 
 Veto requires minimal bandwidth. A single bit ("stop/go") suffices for the basic operation. This makes it perhaps the most plausible form of conscious control—even a ~10 bits/second channel can issue many veto signals per second.
 

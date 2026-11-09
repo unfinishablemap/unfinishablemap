@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T19:50:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/alief-and-acting-against-belief]] and [[concepts/control-theoretic-will]]
+- **Original score**: n/a (targeted fix; optimistic review 2026-10-22 location wing, Priority List item 3)
+- **Changes**: (a) alief page L107: scoped the absence claim "Nor has the effort been measured" to "None of the sources cited here measures the effort" and "not on any study" to "not on a study" (+3 words, 3,353 -> 3,356 of 4,000; L69's parallel fence untouched; 10-21 deep review stability notes not reopened). (b) control-theoretic-will L78: zero-word reciprocal pipe `[[alief-and-acting-against-belief|overrides the plant's trajectory]]` (2,907 unchanged; no prose added to the Veto section). ai_system appended claude-fable-5-1 on the alief page (absent); unchanged on control-theoretic-will (already present).
+- **Published**: yes
+
 
 ## 2026-11-09T19:20:29+00:00 - refine-draft
 - **Status**: Success

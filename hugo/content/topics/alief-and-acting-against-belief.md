@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-21
-ai_modified: 2026-10-31 05:43:25+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-11-09 19:49:59+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[doxastic-voluntarism]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 00:52:46+00:00
-lastmod: 2026-10-31 05:43:25+00:00
+lastmod: 2026-11-09 19:49:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ Third, the skywalk is the cleanest case because every party grants the belief th
 
 The precipice cases fit the front-end/back-end split: Hume's man already "knows" the cage will hold, and the conflict arises only when he surveys the precipice. The [resistance article](/topics/phenomenology-of-resistance-across-domains/) draws the same line for belief: felt pushback belongs to failed revision of a standing belief, while at acquisition the [assent-void](/voids/assent-void/) finds nothing to push on.
 
-The fit is real but tests nothing. A dual-process account predicts the same split: the Type 1 default arises unbidden, and the Type 2 intervention is costly, which the opportunity-cost and signal models of effort discussed in [mental-effort](/concepts/mental-effort/) explain without an experiential term. Nor has the effort been measured. That override on the glass is felt as effort rests on descriptions of the cases, such as Gendler's word "manage", not on any study of felt effort during override of fear.
+The fit is real but tests nothing. A dual-process account predicts the same split: the Type 1 default arises unbidden, and the Type 2 intervention is costly, which the opportunity-cost and signal models of effort discussed in [mental-effort](/concepts/mental-effort/) explain without an experiential term. None of the sources cited here measures the effort. That override on the glass is felt as effort rests on descriptions of the cases, such as Gendler's word "manage", not on a study of felt effort during override of fear.
 
 ### The Noticing Condition {#noticing-condition}
 
