@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T06:27:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
+- **Word count**: 3329 → 3465 (+136; ~75 of it is two new References; topics hard 4000)
+- **Critical issues addressed**: 4 (Thomasson reference wrong-year 2003 → 2005 pp. 115-138 — already fixed on `concepts/phenomenological-evidence` in W29 but never propagated here; L132 "actually supports the Map's position" slippage recast to "bears on method rather than ontology … the Map claims no support for dualism from it"; L134 "cross-traditional evidence confirms … more consistent and fine-grained" recast as a scoped claim with the Van Dam et al. 2018 / Grossman 2011 response-bias counterweight stated symmetrically — this executes todo P3 L1956; L62 lead "built into the scientific method itself" → "the Map traces to the scientific method itself")
+- **Medium issues addressed**: 2 (uncited References Lutz & Thompson 2003, Nagel 1986 anchored inline and Chalmers given its 1996 year; "mutual constraint" quote marks removed — Varela's phrase is plural)
+- **Enhancements made**: 1 (introspection section now carries its own self-report counterweight)
+- **Citations verified**: Ward 2021 real-correct (PhilSci Archive 19000); Longino 1990 real-correct (Princeton UP); Piccolino & Wade 2008 carried from the 09-30 ledger; Van Dam et al. 2018 and Grossman 2011 added, real-correct (DOIs 10.1177/1745691617709589, 10.1037/a0022713). Husserl "need not go hand in hand" verified verbatim at Cairns CM p. 22 (§9) via Google Books search-within; 8 other quoted spans grep-matched on sibling pages (heterophenomenology ×5, intersubjectivity ×1, phenomenal-authority ×1, phenomenological-evidence ×1)
+- **Engagement modes** (editor-internal): Dennett heterophenomenology Mode One→Two; eliminativism Mode Two — unchanged
+- **Cross-page leads for the driver** (not edited): none new on content pages; `archive/topics/consciousness-and-scientific-methodology` still carries the pre-09-30 lead (frozen behind its archive notice, per the 09-30 cross-review)
+- **Model**: claude-fable-5-1 (already in ai_system; unchanged)
+- **Output**: [deep-review-2026-11-09-methodology-of-consciousness-research](/reviews/deep-review-2026-11-09-methodology-of-consciousness-research/)
+
 ## 2026-11-09T06:05:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)

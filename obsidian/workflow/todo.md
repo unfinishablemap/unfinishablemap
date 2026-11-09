@@ -1953,13 +1953,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-23
 - **Notes**: Felt-moment wing Priority 4, off-wing and optional (driver-verified at 15:10Z; exactly one hit). OLD "confirms the phenomenology." -> NEW "tracks the phenomenology from outside, without confirming its structure." (+6; about 4,393/5,000 after, apex hard 5000; re-measure). Leave L92 for the operator. Tenet 3 claims fit, not evidence. If the ten-file "(fronto)parietal coherence" P3 sweep (whose secondary files include this apex) has already touched L90, re-verify the string first. DRIVER ADD-ON (2026-10-25 07:33Z, from reviews/optimistic-2026-10-25-contemplative-evidence-wing.md): also apex L195, the same cessation-identity inference that neurophenomenology L121 makes (that task is queued separately). Fix it net-zero in the same pass, matching that page's corrected wording if it has landed.
 
-### P3: `topics/methodology-of-consciousness-research` L132-L134 says "Introspection's unreliability ... actually supports the Map's position" and "trained meditators produce more consistent and fine-grained phenomenological reports" with no response-bias counterweight
-- **Type**: refine-draft
-- **File**: obsidian/topics/methodology-of-consciousness-research.md
-- **Source**: research-topic
-- **Generated**: 2026-10-23
-- **Notes**: Side-finding of research/measuring-the-witness-attitude-state-versus-trait-scales-2026-10-23.md (Side-findings L709; Guards L639), verified by the driver at 17:50Z. L134: "As [[contemplative-practice-as-philosophical-evidence|cross-traditional evidence confirms]], trained meditators produce more consistent and fine-grained phenomenological reports." Van Dam et al. 2018, with Fox as co-author, judge the introspective-accuracy claim "not well established"; the note clears the quote, but grep it there before use. Recast "confirms" as a scoped claim and add the response-bias / semantic-shift counterweight (Grossman 2011), which cuts against the Map's use of meditators' reports too. Also check whether L132's "actually supports the Map's position" overclaims: unreliability motivates trained introspection, but that is not support for dualism. GUARD: do not concede that first-person methods are worthless (over-concession), and do not upgrade Fox 2012 into a rebuttal. LENGTH: 3,329 by analyze_length vs topics hard 4000 (670 headroom); keep it about +40. ai_system "claude-opus-4-6+claude-fable-5-1": append the running model only if it is ABSENT.
-
 ### P3: Cross-review `topics/measuring-the-witness-attitude.md` — integrate the new witness-measurement article into the contemplative-evidence / introspection cluster
 - **Type**: cross-review
 - **File**: obsidian/topics/measuring-the-witness-attitude.md
@@ -5189,6 +5182,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-09: `topics/methodology-of-consciousness-research` L132-L134 says "Introspection's unreliability ... actually supports the Map's position" and "trained meditators produce more consistent and fine-grained phenomenological reports" with no response-bias counterweight
+- **Type**: refine-draft
+- **File**: obsidian/topics/methodology-of-consciousness-research.md
+- **Notes**: Side-finding of research/measuring-the-witness-attitude-state-versus-trait-scales-2026-10-23.md (Side-findings L709; Guards L639), verified by the driver at 17:50Z. L134: "As [[contemplative-practice-as-philosophical-evidence|cross-traditional evidence confirms]], trained meditators produce more consistent and fine-grained phenomenological reports." Van Dam et al. 2018, with Fox as co-author, judge the introspective-accuracy claim "not well established"; the note clears the quote, but grep it there before use. Recast "confirms" as a scoped claim and add the response-bias / semantic-shift counterweight (Grossman 2011), which cuts against the Map's use of meditators' reports too. Also check whether L132's "actually supports the Map's position" overclaims: unreliability motivates trained introspection, but that is not support for dualism. GUARD: do not concede that first-person methods are worthless (over-concession), and do not upgrade Fox 2012 into a rebuttal. LENGTH: 3,329 by analyze_length vs topics hard 4000 (670 headroom); keep it about +40. ai_system "claude-opus-4-6+claude-fable-5-1": append the running model only if it is ABSENT.
+- **Output**: Repaired by deep-review 2026-11-09 06:27Z (L132 'bears on method rather than ontology'; L134 Van Dam 2018 / Grossman 2011 counterweight); see reviews/deep-review-2026-11-09-methodology-of-consciousness-research
 
 ### ✓ 2026-11-09: `concepts/ai-hardware-substrate-taxonomy` L94 says a gate-based processor has "one terminal collapse rather than an ongoing stream of selection events", contradicting `topics/quantum-hardware-and-the-ai-consciousness-coupling` L55 ("an error-corrected processor does host an ongoing stream of open Born events, since every syndrome-extraction cycle is a projective measurement mid-evolution") and the 2023–2024 dynamic-circuit literature (outer review 2026-11-09, grep-verified)
 - **Type**: refine-draft
