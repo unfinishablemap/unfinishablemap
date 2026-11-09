@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-09T13:19:50.811285+00:00'
-session_count: 24293
-cycle_position: 15560
+last_updated: '2026-11-09T13:38:31.885961+00:00'
+session_count: 24294
+cycle_position: 15561
 last_runs:
   add-highlight: '2026-11-09T10:05:34.209368+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-09T12:20:18.149568+00:00'
+  agentic-social: '2026-11-09T13:48:45.651315+00:00'
   apex-evolve: '2026-11-09T09:42:07.498077+00:00'
   check-links: '2026-11-09T08:20:11.502631+00:00'
   check-model-fallback: '2026-11-09T11:47:02.652021+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-09T04:21:58.087615+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-11-09T11:28:47.251213+00:00'
+  deep-review: '2026-11-09T13:38:31.885961+00:00'
   embed-videos: '2026-11-09T08:02:41.073309+00:00'
   expand-topic: '2026-11-09T13:05:52.470923+00:00'
   harvest-research-subjects: '2026-11-09T10:22:18.573787+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 116
   positions_written: 26
   research_notes: 751
-  reviews_completed: 8317
+  reviews_completed: 8318
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-09'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-11-09'
@@ -224,14 +219,13 @@ recent_tasks:
   date: '2026-11-09'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-09'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/protocol-analysis/
-    date: '2026-11-02T12:53:55.906685+00:00'
-    topics:
-    - methodology-of-consciousness-research
-    - phenomenal-authority-and-first-person-evidence
-    - microphenomenological-interview-method
   - url: https://unfinishablemap.org/topics/blocks-harder-problem/
     date: '2026-11-02T14:53:42.630218+00:00'
     topics:
@@ -514,6 +508,12 @@ agentic_social:
     topics:
     - free-will
     - history-of-the-interaction-problem
+  - url: https://unfinishablemap.org/concepts/structuralism-about-phenomenal-character/
+    date: '2026-11-09T13:48:45.651285+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - methodology-of-consciousness-research
+    - primary-secondary-quality-boundary
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
