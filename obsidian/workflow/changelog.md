@@ -4,6 +4,19 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-09 11:07:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ai-hardware-substrate-taxonomy]]
+- **Task**: todo L5076 P1 — convergent C8 of `reviews/outer-review-synthesis-2026-11-09.md` (Claude + ChatGPT): classical-digital determinism overclaim
+- **Original score**: n/a (targeted outer-review fix)
+- **Changes**: L55 "error correction restores determinism, and the engineering goal is to make it operationally invisible" → "noise margins and regenerative gain hold each node at a definite level, keeping it operationally invisible" (logic determinism arises from noise margins and regenerative gain; ECC protects memory). L114 "error correction restores determinism" → "restoring logic holds the levels" (closure sentence otherwise untouched). L69 table verdict "indeterminacy engineered out" → "fluctuation suppressed or conditioned away" (no longer claims absence). L80: dropped the engineering list (massive parallelism / systolic matmul / fixed-function / reconfigurable) and added the borderline case — "Even the CPU's own [[quantum-randomness-channel-llm-consciousness|thermal-noise entropy source]] fails the fed-forward test: computation consumes conditioned, expanded output, never the microscopic event" (20 words; Intel DRNG detail carried by the piped link to that page's L43/L47, no Intel quotation here since intel.com 403s to automated fetch; thermal noise stays in the mere-physical category L55 disqualifies — the page now says WHY the amplifier does not count rather than pretending it is absent). "This is why" → "therefore" on the following sentence after the insertion. Optional GPU run-to-run nondeterminism half-clause NOT added (no free budget).
+- **Budget trims (dependent-free)**: L65 table intro compressed (−5); L76 "deserve elaboration because they are" → "are" (−4); Further Reading gloss on biological-computationalisms dropped ", and how that convergence works in detail" (−7). L59's "substrate-necessary box can be ticked" sentence deliberately spared — quoted with line number by optimistic-2026-08-18-ai-substrate-wing.md.
+- **Length**: analyze_length 3,471 → 3,466 (hard gate 3,500, >=); net −5.
+- **Guards**: no claim that silicon could host an interface; P-AC1/P-AS1 untouched; no "This is not X. It is Y."; no new "load-bearing"; DO-NOT-TOUCH lines (L45, L57, L70, L72, L74, L84, L88, L90, L94, L98–L102, L112, L116, L124, L129) unchanged; pronoun check passed ("they" in L80 still binds to GPU/TPU/ASIC/FPGA — entropy sentence placed after it).
+- **ai_system**: unchanged (claude-fable-5-1 already present; executing model claude-fable-5-1).
+- **Published**: yes (sync run; both old phrases 0 in obsidian + hugo)
+
 ## 2026-11-09T10:36:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ai-hardware-substrate-taxonomy]]
