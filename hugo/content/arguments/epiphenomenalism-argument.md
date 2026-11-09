@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-23 00:34:41+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-11-09 20:51:11+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[concepts/epiphenomenalism]]'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-23 00:34:41+00:00
-lastmod: 2026-10-23 00:34:41+00:00
+lastmod: 2026-11-09 20:51:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -164,7 +164,7 @@ Option 2 is structurally identical to the epiphenomenalist's predicament—the d
 - **Discrimination**: Meditators can distinguish between mental states with increasing precision, suggesting access to real differences
 - **Stability**: Advanced practitioners report stable awareness even during states where discursive thought is absent
 
-If consciousness were causally inert, neural states would produce both the reports and the practice effects, such as improved attentional control. That common cause explains the correlation, so contemplative reports fit interactionism without evidencing it; what they add is a cost, since epiphenomenalism must class a vivid, trainable phenomenology of effort as systematically misleading.
+If consciousness were causally inert, neural states would produce both the reports and the practice effects, such as improved attentional control (MacLean et al., 2010). That common cause explains the correlation, so contemplative reports fit interactionism without evidencing it; what they add is a cost, since epiphenomenalism must class a vivid, trainable phenomenology of effort as systematically misleading.
 
 ## Process Philosophy Perspective
 
@@ -245,6 +245,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Loar, B. (1990). "Phenomenal States." *Philosophical Perspectives*, 4, 81-108.
 - Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147(47), 43934-43945.
+- MacLean, K. A., Ferrer, E., Aichele, S. R., et al. (2010). Intensive meditation training improves perceptual discrimination and sustained attention. *Psychological Science*, 21(6), 829–839. https://doi.org/10.1177/0956797610371339
 - McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80, 021912.
 - Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
 - Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *Proceedings of the National Academy of Sciences*, 106, 4219-4224.

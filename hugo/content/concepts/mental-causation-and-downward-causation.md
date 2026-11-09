@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-11-05 10:08:42+00:00
+ai_modified: 2026-11-09 20:51:11+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:37:29+00:00
-lastmod: 2026-11-05 10:08:42+00:00
+lastmod: 2026-11-09 20:51:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,7 +127,7 @@ The main physics-based objection: warm neural tissue decoheres microtubule super
 
 Several responses are available, though none fully resolves the gap:
 
-**Revised coherence estimates**: Biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) may extend coherence by many orders of magnitude. Hagan, Hameroff, and Tuszyński (2002) disputed Tegmark's model parameters and derived estimates roughly eight to nine orders longer, reaching 10^-5 to 10^-4 seconds. This dispute is not settled: Reimers et al. (2009) and McKemmish et al. (2009) re-examined the recalibration and found Hagan's parameter assumptions either rest on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue (see [decoherence](/concepts/decoherence/) for the full status). Even at face value, 10^-4 seconds is still three orders of magnitude short of neural decision timescales (~300ms). Longer coherence narrows the gap; it does not close it.
+**Revised coherence estimates**: Biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) may extend coherence by many orders of magnitude. Hagan, Hameroff, and Tuszyński (2002) disputed Tegmark's model parameters and derived estimates roughly eight to nine orders longer, reaching 10^-5 to 10^-4 seconds. This dispute is not settled: Reimers et al. (2009) and McKemmish et al. (2009) argue that coherent Fröhlich condensation is inaccessible in biological environments and that tubulins lack the conformational switching the Penrose–Hameroff model requires (see [decoherence](/concepts/decoherence/) for the full status). Even at face value, 10^-4 seconds is still three orders of magnitude short of neural decision timescales (~300ms). Longer coherence narrows the gap; it does not close it.
 
 **The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep sustained coherence. If consciousness operates through discrete observation cycles that each reset the quantum state, the requirement is no longer that a superposition survive ~300ms but that observation cycles recur faster than decoherence destroys each freshly reset state—every 10^-4 seconds or less if the revised estimates hold, every 10^-20 seconds if Tegmark's ion figure does. This relocates the three-order-of-magnitude gap rather than closing it: "can coherence persist long enough?" becomes "can the observation cycles fire fast enough?", and the rate, number, and physical implementation of those cycles remain unspecified. No specified mechanism bridges the timing gap; the Zeno proposal is a research direction, not a mechanistic solution.
 

@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-11-05T10:08:42+00:00
+ai_modified: 2026-11-09T20:51:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[topics/animal-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-25T20:28:50+00:00
@@ -102,7 +102,7 @@ The unconceded half: the essay's conclusion covers more than its argument. Rapid
 
 In 2000, Tegmark calculated that quantum coherence in brain microtubules would decay in ~10⁻¹³ seconds—the [[timing-gap-problem|timing gap problem]] that became the standard objection to Penrose-Hameroff [[quantum-consciousness|Orch OR theory]].
 
-Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark addressed a hybrid model rather than actual Orch OR, assumed incorrect superposition separations, and made questionable assumptions about charge interactions. After corrections, decoherence times increased to **10⁻⁵ to 10⁻⁴ seconds**—**eight or more orders of magnitude longer**. Reimers et al. (2009) and McKemmish et al. (2009) then re-derived the recalibration and found Hagan's parameter assumptions either rely on dielectric properties of microtubules that are not empirically established, or specify regimes microtubules do not occupy in living tissue. The dispute is live rather than settled; citing Hagan as a closed rebuttal of Tegmark would be selective citation, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The [[quantum-biology-and-neural-mechanisms|four proposed protection mechanisms]] may extend coherence further but do not, on their own, resolve the parameter dispute.
+Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark addressed a hybrid model rather than actual Orch OR, assumed incorrect superposition separations, and made questionable assumptions about charge interactions. After corrections, decoherence times increased to **10⁻⁵ to 10⁻⁴ seconds**—**eight or more orders of magnitude longer**. Reimers et al. (2009) then argued that the coherent Fröhlich condensation Orch OR needs is inaccessible in biological environments, and McKemmish et al. (2009) that tubulins lack the rapid conformational switching it requires. The dispute is live rather than settled; citing Hagan as a closed rebuttal of Tegmark would be selective citation, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The [[quantum-biology-and-neural-mechanisms|four proposed protection mechanisms]] may extend coherence further but do not, on their own, resolve the parameter dispute.
 
 The original Orch OR model required 25 milliseconds of coherence—still far longer than even Hagan's revised estimates. But Sahu et al. (2013) found microtubule oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds), bringing theory into contact with experimentally observed timescales.
 
