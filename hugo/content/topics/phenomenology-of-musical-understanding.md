@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-10-14 15:51:35+00:00
+ai_modified: 2026-11-09 13:36:30+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
@@ -31,8 +31,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/ZZqApxnx7JE
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-25 12:32:09+00:00
-lastmod: 2026-10-14 15:51:35+00:00
+last_deep_review: 2026-11-09 13:36:30+00:00
+lastmod: 2026-11-09 13:36:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ When a cello plays a slow, descending phrase in a low register, most listeners e
 
 This poses a problem for evaluativist accounts of emotion that define emotional experience as nonconceptual representation of value. If musical sadness represents something as bad, what is the "something"? The tones themselves? Their physical properties? The representationalist must either identify an implausible representational object or concede that some emotional experience has no representational content—it simply *feels* a particular way.
 
-The philosophy of music offers a naturalistic answer. On the resemblance or contour theory (Kivy 1989; Davies 1994: 221–67), the music's sadness is a heard likeness between its dynamic shape and the voice, gait and bearing of sad people; the listener's own sadness, where it occurs, is caught by contagion, the way a mood spreads through a room, and moods take no object (Davies 1994: 279–307). That ends the search for a representational object without positing one, but leaves open why the caught mood feels as it does: the gap stated above, relocated rather than closed. Why listeners seek such music out at all is the musical variant of the [paradox of tragedy](/topics/the-sublime-and-negative-aesthetics/#the-paradox-of-tragedy).
+The philosophy of music offers a naturalistic answer. On the resemblance or contour theory (Kivy 1989; Davies 1994: 221–67), the music's sadness is a heard likeness between its [dynamic shape](/voids/vitality-form-void/) and the voice, gait and bearing of sad people; the listener's own sadness, where it occurs, is caught by contagion, the way a mood spreads through a room, and moods take no object (Davies 1994: 279–307). That ends the search for a representational object without positing one, but leaves open why the caught mood feels as it does: the gap stated above, relocated rather than closed. Why listeners seek such music out at all is the musical variant of the [paradox of tragedy](/topics/the-sublime-and-negative-aesthetics/#the-paradox-of-tragedy).
 
 The hedonic account handles this naturally: musical emotion has intrinsic valence and qualitative character that is not *about* anything external. The sadness of a minor passage is a phenomenal property of the experience itself, as immediate and non-representational as the painfulness of pain.
 
