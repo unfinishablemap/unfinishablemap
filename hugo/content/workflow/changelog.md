@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T07:19:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Task**: todo P1 (convergent C5, `reviews/outer-review-synthesis-2026-11-09.md`; ChatGPT 5.6 Sol Pro + Claude Fable 5.1 on the Hagan locus; ChatGPT singleton on the L88 organoid locus)
+- **Changes**: (1) L112: attached "(Hagan et al., 2002)" to Hameroff's group's 10⁻⁵–10⁻⁴ s figure and added Hagan, Hameroff & Tuszyński (2002), *Phys Rev E* 65(6) 061901, to References after Tegmark (2000) — Crossref-verified by the driver; Reimers/McKemmish deliberately not restated (the existing `[[decoherence]]` link is the pointer). Consistency check against `tenets.md` L77 (2026-11-05 rewording) and todo L4523 P3: L112 names the two figures and calls the Hagan one "disputed" without the retired "unconverged literature / not settled" framing, so left as is. (2) L88: after "(Kagan et al., 2022)" added "a result [not independently replicated](/topics/brain-organoids-and-the-organoid-intelligence-question/), from a planar culture rather than an organoid" (organoid page L47, 2026-11-03 corrections); paid for by cutting the CL1 price / "Wetware as a Service" marketing detail and "commercially"; Robbins 2026 and Kosik not added to this page's References (organoid page owns them). (3) L90: merged the duplicated conditional — "The wetware verdict in the table … not that the route is travelled" shortened to "The table's wetware verdict is therefore conditional, not an endorsement."; the Orch OR disprefers clause and the Relation-to-Site-Perspective anchor kept; "the conditional" in the next sentence still has its antecedent. Three word-neutral trims ("whole", "exactly", "are already taking" → "already take"). Thermal-noise wording in L90 untouched (owned by the open L74 P1).
+- **Length**: analyze_length 3,474 → 3,473 (concepts hard gate 3,500, `>=`); net −1.
+- **Housekeeping**: ai_modified set; ai_system unchanged (claude-fable-5-1 already present).
+- **Published**: yes
+
 ## 2026-11-09T07:05:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
