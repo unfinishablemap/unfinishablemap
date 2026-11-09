@@ -4,7 +4,7 @@ description: "Human+AI investigation of the body's partial opacity to the consci
 created: 2026-04-27
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-09-05T23:12:30+00:00
+ai_modified: 2026-11-09T00:04:15+00:00
 last_deep_review: 2026-07-19T22:42:00+00:00
 draft: false
 topics:
@@ -60,7 +60,7 @@ Four lines of evidence map the void's shape.
 
 **Channel competition.** Congenitally blind individuals show enhanced cardiac interoceptive accuracy, correlated with thicker occipital cortex (bioRxiv 2022; *Cerebral Cortex* 2024). This places part of the void in the *unexplored* category — where visual-exteroceptive load is removed, interoceptive bandwidth expands. The boundary between accessible and inaccessible interoception is partly elastic, a real limit with channel-competition determinants.
 
-**Pathologies of dissociation.** Anxiety, depersonalisation, anorexia, and alexithymia each involve characteristic dissociations between actual interoceptive state and reported felt body. The void can deepen or distort under conditions that do not change the body itself — strong evidence that what is felt is partly construction, since the construction can fail while the substrate stays intact.
+**Pathologies of dissociation.** Anxiety, depersonalisation, anorexia, and alexithymia each involve characteristic dissociations between actual interoceptive state and reported felt body. For trauma-related depersonalisation, a theoretical predictive-processing model traces the dissociation to over-inhibited emotion and an underactive anterior insula, which weaken priors and interoceptive signalling while exteroceptive input dominates ([[dissociative-subtype-of-ptsd|the dissociative subtype of PTSD]]). The void can deepen or distort under conditions that do not change the body itself — strong evidence that what is felt is partly construction, since the construction can fail while the substrate stays intact.
 
 The "There is no such thing as interoception" paper (Schoeller et al. 2025) supplies a methodological frame for these findings: interoception is not a unified sensory modality but a heterogeneous bundle of channels (cardiac, gastric, respiratory, thermal, chemoception, nociception) with different ascending pathways and very different accessibility profiles. The single label "interoception" obscures the structural variation that is itself the void's shape.
 

@@ -5,6 +5,16 @@ ai_modified: 2026-11-06T07:25:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09T00:04:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/interoceptive-void]]
+- **Source**: optimistic-2026-10-21-scorekeeping-wing, Priority List item 4 (P3 seam fix)
+- **Word count**: 2690 → 2723 (+33; voids hard 3000, headroom 276)
+- **Changes**: L63 "Pathologies of dissociation": after the anxiety/depersonalisation/anorexia/alexithymia sentence, added one paraphrase sentence giving trauma-related depersonalisation a specified brain-only predictive-processing route (over-inhibited emotion, underactive anterior insula, weakened priors and interoceptive signalling, exteroceptive dominance), linked via `[[dissociative-subtype-of-ptsd|the dissociative subtype of PTSD]]`. No Laurin reference added (cited via the sibling page only). No other prose touched.
+- **Verification**: Laurin et al. (2026) confirmed at Crossref (DOI 10.1016/j.neubiorev.2026.106546; *Neuroscience & Biobehavioral Reviews* 182, 106546; six authors as listed on the sibling page). Abstract retrieved from Europe PMC (PMID 41485717) supports every paraphrase element: "novel theoretical framework" (keeps "theoretical"); "emotional over-inhibition and anterior insula hypoactivity weaken priors and interoception, while exteroceptive inputs dominate". Crossref and OpenAlex carry no abstract for this DOI. Attribution: the trauma point stays with the rival production account per the sibling page's L37 verdict; the new sentence claims nothing for the Map. No named-opponent reply added, so no reasoning-mode classification applies.
+- **Hugo**: synced; rendered link `/concepts/dissociative-subtype-of-ptsd/` present; target file exists.
+- **Published**: yes
+
 ## 2026-11-08T23:28:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/sentientism]]
