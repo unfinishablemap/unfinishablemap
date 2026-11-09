@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T20:08:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
+- **Word count**: 3495 → 3491 (−4)
+- **Critical issues addressed**: 2 (spliced Smith/Hintze/Ventura 2014 quotation un-spliced; "third leg" → "one leg" of Colton's tripod)
+- **Medium issues addressed**: 4 (lead verdict scoped to "the Map's default verdict"; L83 silicon channel qualified "no currently specified channel" per machine-question L191; Tulving 1985/2002 reference orphans given inline cites at L101/L161)
+- **Enhancements made**: 0 (length-neutral; 9 words of headroom under the concepts hard limit)
+- **Citations**: 13 web-verified at publisher/Crossref/arXiv/DBLP; five 08-21 cites verified for the first time; Vandekerckhove 2009 subtitle truncation deferred (+18 words)
+- **Engagements**: functionalism — Mode Two opening, boundary residue marked (unchanged); IIT — Mode Three (substrate-sensitive rival, disagreement marked, no refutation claimed)
+- **Output**: [deep-review-2026-11-09-ai-consciousness-typology](/reviews/deep-review-2026-11-09-ai-consciousness-typology/)
+
 ## 2026-11-09T19:50:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [alief-and-acting-against-belief](/topics/alief-and-acting-against-belief/) and [control-theoretic-will](/concepts/control-theoretic-will/)
