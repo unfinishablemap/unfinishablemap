@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09 15:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [logical-behaviourism](/concepts/logical-behaviourism/)
+- **Original score**: n/a (targeted seam fix; todo L1723, optimistic review 2026-10-22 two-senses wing, Priority List item 2)
+- **Word count**: 2,568 → 2,607 (+39; `analyze_length`, concepts hard 3,500)
+- **Changes**: Appended two sentences at L52 (end of the Hempel/Carnap calibration paragraph): Hempel later asked which theory of physics the programme's physical language meant, and on one recent reading that question, not a metaphysical thesis, was the original target of what is now called Hempel's dilemma. Links `[[hempels-dilemma#origin|Hempel's dilemma]]`, completing the reciprocal for `topics/hempels-dilemma` L45 ("[logical-behaviourism](/concepts/logical-behaviourism/) covers that programme"). Per the review's guards: Gyenis and the years 1969/1980 are NOT named in the body (the link carries the attribution; no References entry added). Source re-verified in Gyenis 2025 arXiv 2507.19834v1 text L48–L54 ("Hempel's original dilemma was directed against the 'physicalistic claim that the language of physics can serve as a unitary language of science' Hempel (1980, 194–195)… Hempel asked which theory of physics is meant by the thesis of linguistic physicalism"). Existing calibration prose unchanged word for word. `ai_system` += `+claude-fable-5-1`.
+- **Published**: yes
+
 ## 2026-11-09 15:37 UTC - deep-review
 - **Status**: Success
 - **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-09-18 20:28:00+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-09 15:48:21+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[type-identity-theory]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-18 20:28:00+00:00
-lastmod: 2026-09-18 20:28:00+00:00
+lastmod: 2026-11-09 15:48:21+00:00
 modified: *id001
 related_articles:
 - '[[type-identity-theory]]'
@@ -53,7 +53,7 @@ Ryle's positive account replaces the inner theatre with dispositions, capacities
 
 Behind Ryle stands the logical-positivist programme that supplied the semantic backdrop. Rudolf Carnap's "Psychology in Physical Language" (originally "Psychologie in physikalischer Sprache," *Erkenntnis* 3, 1932/33) argued that every meaningful sentence is translatable into the intersubjective "physical language"; against that demand, behavioural translation of the mental looked mandatory. Carl Hempel's "The Logical Analysis of Psychology" (originally "Analyse logique de la psychologie," *Revue de Synthèse* 10, 1935, pp. 27–42) drew the conclusion for psychology: a psychological statement is meaningful only insofar as it is testable, and its tests are describable in behavioural terms, so—as the SEP paraphrases the view—"all psychological statements that are meaningful … are translatable into statements that do not involve psychological concepts."
 
-A calibration point is owed here, because the textbook history oversimplifies. The received picture files Hempel and Carnap as strict analytic behaviourists alongside Ryle. Later scholarship contests this: both, on a closer reading, allowed reference to internal physiological states and treated the psychology-to-physical links as *synthetic and a posteriori* rather than as analytic definitions. Hempel himself later disowned the reductive reading of his 1935 paper. Ryle is the securest exemplar of the strong analytic-translation thesis; the positivists are better described as the *verificationist route in*, and ascribing the full translation programme to them wholesale is a retrospective simplification the honest account flags rather than repeats.
+A calibration point is owed here, because the textbook history oversimplifies. The received picture files Hempel and Carnap as strict analytic behaviourists alongside Ryle. Later scholarship contests this: both, on a closer reading, allowed reference to internal physiological states and treated the psychology-to-physical links as *synthetic and a posteriori* rather than as analytic definitions. Hempel himself later disowned the reductive reading of his 1935 paper. Ryle is the securest exemplar of the strong analytic-translation thesis; the positivists are better described as the *verificationist route in*, and ascribing the full translation programme to them wholesale is a retrospective simplification the honest account flags rather than repeats. Hempel later pressed a question on the programme's own physical language, asking which theory of physics it meant. On one recent reading that question, not any metaphysical thesis, was the original target of what is now called [Hempel's dilemma](/topics/hempels-dilemma/#origin).
 
 ## The Defeat: Three Objections From Within Materialism
 
