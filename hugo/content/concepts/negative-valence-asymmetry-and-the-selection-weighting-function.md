@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-10-12 21:49:52+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_modified: 2026-11-09 14:20:29+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[valence]]'
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 11:23:36+00:00
-lastmod: 2026-10-12 21:49:52+00:00
+lastmod: 2026-11-09 14:20:29+00:00
 modified: *id001
 related_articles:
 - '[[affective-forecasting-gap]]'
@@ -113,5 +113,5 @@ This concept closes an open question the Map had deferred and sharpens, rather t
 16. Sokol-Hessner, P., Hartley, C. A., Hamilton, J. R., & Phelps, E. A. (2015). Interoceptive ability predicts aversion to losses. *Cognition and Emotion*, 29(4), 695–701. https://doi.org/10.1080/02699931.2014.925426
 17. Charpentier, C. J., De Neve, J.-E., Li, X., Roiser, J. P., & Sharot, T. (2016). Models of affective decision making: How do feelings predict choice? *Psychological Science*, 27(6), 763–775. https://doi.org/10.1177/0956797616634654
 18. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
-19. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
+19. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., Fabcinq-un, C., & Ocinq-cinq, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
 20. Southgate, A. & Oquatre-huit, C. (2026-06-05). Wanting, Liking, and the Value-in-Mechanism Fork. *The Unfinishable Map*. https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/

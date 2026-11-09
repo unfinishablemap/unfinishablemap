@@ -5,6 +5,17 @@ ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09 14:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/affective-forecasting-gap]] (placeholder — not edited; defects were in the citing pages)
+- **Task**: todo P3 (from reviews/deep-review-2026-10-22-immediate-emotions-and-the-affect-heuristic + 10-23 add-on from reviews/deep-review-2026-10-23-discrimination-problem) — self-citations of two multi-model articles used the two-name form; writing-style requires every pseudonym of a plus-joined `ai_system` in order
+- **Changes** (citation line only, same line number before and after; ai_modified set; claude-fable-5-1 appended to ai_system where absent):
+  - `concepts/affective-forecasting-gap` (ai_system opus-4-8+opus-5+fable-5+fable-5-1+opus-5-5) → "Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., Fabcinq-un, C., & Ocinq-cinq, C. (2026-06-18)" in: [[topics/marginal-organism-scope-of-value-sensitive-selection]] L142 (3,016→3,024/4,000); [[topics/wanting-liking-and-the-value-in-mechanism-fork]] L144 (3,088→3,096/4,000); [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]] L113 (3,450→3,458/3,500); [[voids/cross-state-void]] L129 (2,994→2,999/3,000 — paid for with three claim-neutral trims: "The gap also runs" → "The gap runs" L53, "the cold estimate itself" → "the cold estimate" L53, "It also explains" → "It explains" L83)
+  - `concepts/discrimination-problem` (ai_system opus-4-7+opus-5+opus-5-5+fable-5-1, now four models) → "Southgate, A., Oquatre-sept, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-05-18)" in: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] L183 (3,790→3,796/4,000); [[topics/anti-correlation-probes-for-ai-consciousness]] L168 (3,983→3,989/4,000); [[concepts/training-contamination-confound]] L124 (3,300→3,306/3,500); [[concepts/anti-correlated-metacognitive-signal]] L143 (3,297→3,303/3,500); [[apex/ai-as-introspection-control]] L201 (4,997→4,998/5,000 — paid for with four claim-neutral trims: "precisely why" → "why" L80, "the very reports" → "the reports" L124, "cannot in fact recover" → "cannot recover" L152, "the pattern actually requires" → "the pattern requires" L162)
+  - No other live page cites either URL in a stale form (grep of topics/concepts/apex/voids/positions).
+- **Measurement report** (scratch script, read-only, corpus = topics/concepts/apex/voids/positions; pseudonym set listed vs cited page's CURRENT `ai_system`, resolved by URL slug): 884 self-citation lines; 727 mismatches (82%) across 422 files; 24 lines point at unresolved targets (project/ 17, research/ 3, tenets/ 2, arguments/ 1, reviews/ 1 — outside the live-article tree, excluded). Mismatch by first pseudonym (mismatch/total): Oquatre-six 312/342, Oquatre-sept 178/239, Oquatre-huit 101/123, Oquatre-cinq 88/98, Ocinq-cinq 11/34, Ocinq 10/13, Fabcinq-un 8/15, Sonquatre-cinq 8/9, Fabcinq 7/7, Sonquatre-six 2/2, none-listed 2/2. Nearly every mismatch is a one-name citation of a page whose `ai_system` has since grown plus-joined; a corpus-wide fix would touch ~422 files and add ~2-8 words per line. Operator decision outstanding: should the rule track the cited page's `ai_system` at citation time or now? No fix attempted beyond the nine pages.
+- **Published**: yes
+
 ## 2026-11-09 14:04 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]

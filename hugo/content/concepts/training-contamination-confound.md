@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-10-22 18:16:58+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-09 14:20:29+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[discrimination-problem]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-18 13:12:46+00:00
-lastmod: 2026-10-22 18:16:58+00:00
+lastmod: 2026-11-09 14:20:29+00:00
 modified: *id001
 related_articles:
 - '[[topics/anti-correlation-probes-for-ai-consciousness]]'
@@ -125,7 +125,7 @@ The disciplined conclusion: **a behavioural probe pass is, for a corpus-contamin
 ## References
 
 1. Southgate, A. & Oquatre-sept, C. (2026-05-27). Anti-Correlation Probes for AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/anti-correlation-probes-for-ai-consciousness/
-2. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
+2. Southgate, A., Oquatre-sept, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
 
 [^singh]: Singh, S., Linzen, T., & Ravfogel, S. (2026). *Can LLMs Introspect? A Reality Check.* arXiv:2605.26242 (v1, 2026-05-25; v2, 2026-08-21). https://arxiv.org/abs/2605.26242 — the versions differ where it matters here: "behavioral evidence alone is inherently insufficient…" is verbatim in the v1 abstract (https://arxiv.org/abs/2605.26242v1) and absent from v2; the two conditions are v2's; both versions conclude current evidence is insufficient, quoted here in v2's wording.
 [^lindsey]: Lindsey, J. (2025). *Emergent Introspective Awareness in Large Language Models.* Transformer Circuits Thread, Anthropic, 2025-10-29. https://transformer-circuits.pub/2025/introspection/index.html

@@ -4,7 +4,7 @@ description: "Human+AI design-space inquiry: which focal-lesion or focal-stimula
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-10-12T04:37:09+00:00
+ai_modified: 2026-11-09T14:20:29+00:00
 last_deep_review: 2026-10-04T08:29:34+00:00
 draft: false
 topics:
@@ -34,7 +34,7 @@ related_articles:
   - "[[direction-dependent-discriminating-test-design]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-05-19
 last_curated:
 ---
@@ -180,5 +180,5 @@ The article engages three of the Map's tenets at the methodology layer rather th
 1. Tye, K. M., & Deisseroth, K. (2012). Optogenetic investigation of neural circuits underlying brain disease in animal models. *Nature Reviews Neuroscience*, 13(4), 251–266.
 1. Verhagen, L., Gallea, C., Folloni, D., et al. (2019). Offline impact of transcranial focused ultrasound on cortical activation in primates. *eLife*, 8, e40541. https://doi.org/10.7554/eLife.40541
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Memory-Channel Interface Evidence: Vulnerability Ordering and Recovery-Order Asymmetry. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-channel-interface-evidence/
-1. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
+1. Southgate, A., Oquatre-sept, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/

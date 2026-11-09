@@ -4,7 +4,7 @@ description: "Human+AI exploration of why a mind in one visceral state cannot re
 created: 2026-09-28
 modified: 2026-11-02
 human_modified: null
-ai_modified: 2026-11-02T11:56:39+00:00
+ai_modified: 2026-11-09T14:20:29+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -50,7 +50,7 @@ Hume described this shape before anyone measured it. Recalling or anticipating a
 
 The gap is usually introduced as the cold self's blindness to the hot. Loewenstein's (2005) review states both halves: in a cold state people "fail to fully appreciate how 'hot' states will affect their own preferences and behavior", and in a hot state they "underestimate the influence of those states and, as a result, overestimate the stability of their current preferences". Sayette's smokers (above) supply the cold-to-hot case.
 
-The gap also runs backward in time. Nordgren, van der Pligt and van Harreveld (2006) found that fatigued subjects attributed behaviour "primarily to visceral influences", while non-fatigued subjects "underestimated the influence of visceral drives and instead attributed behavior primarily to other, nonvisceral factors", and that this held for one's own past behaviour as well as for another's. Nordgren, Banas and MacDonald (2011) extended the pattern from physical to social pain: non-excluded participants underestimated the severity of ostracism and shame relative to excluded ones, in an "intrapersonal empathy gap" covering "the pain participants themselves experienced in the past" as well as an interpersonal one. These studies locate the error on the cold side, and in the cold estimate itself rather than in weight left behind by a correct one. The hot-side error is a different one, present weight projected forward, and Fisher and Rangel (2014) found it symmetric with the cold-side error in food bids (20¢ against 19¢).
+The gap runs backward in time. Nordgren, van der Pligt and van Harreveld (2006) found that fatigued subjects attributed behaviour "primarily to visceral influences", while non-fatigued subjects "underestimated the influence of visceral drives and instead attributed behavior primarily to other, nonvisceral factors", and that this held for one's own past behaviour as well as for another's. Nordgren, Banas and MacDonald (2011) extended the pattern from physical to social pain: non-excluded participants underestimated the severity of ostracism and shame relative to excluded ones, in an "intrapersonal empathy gap" covering "the pain participants themselves experienced in the past" as well as an interpersonal one. These studies locate the error on the cold side, and in the cold estimate rather than in weight left behind by a correct one. The hot-side error is a different one, present weight projected forward, and Fisher and Rangel (2014) found it symmetric with the cold-side error in food bids (20¢ against 19¢).
 
 ## The Gap Survives Disclosure
 
@@ -80,7 +80,7 @@ The [[inaccessible-past]] holds that past conscious states generally are reconst
 
 The [[transformative-experience-void]] concerns states one has never had, where Paul's problem arises in full. This void concerns states one has had often, where having been there helps less than it should: smokers who have craved many times still underpredict what craving will make smoking worth.
 
-The [[affective-forecasting-gap]] concept catalogues divergences between forecast and experienced valence. The cross-state void supplies one mechanism, projection from the current state, and adds the retrospective and interpersonal directions and the instruction-resistance finding. It also explains a cost that article concedes: *anticipatory* valence, [[positions/value-in-selection|the Map's candidate driver of selection]], is felt from within the current state and so inherits the projection bias by construction.
+The [[affective-forecasting-gap]] concept catalogues divergences between forecast and experienced valence. The cross-state void supplies one mechanism, projection from the current state, and adds the retrospective and interpersonal directions and the instruction-resistance finding. It explains a cost that article concedes: *anticipatory* valence, [[positions/value-in-selection|the Map's candidate driver of selection]], is felt from within the current state and so inherits the projection bias by construction.
 
 The [[mood-void]] is synchronic, a lens that is invisible now. The cross-state void is diachronic: the other lens cannot be borrowed. The [[voids-between-minds]] cover the interpersonal face; the intrapersonal case is the new one here. And the pain-specific material, asymbolia, the suffering–sensation distinction and Scarry, lives at [[pain-consciousness-and-causal-power]], which this void takes as given.
 
@@ -126,4 +126,4 @@ For **[[tenets#^dualism|Dualism]]** the gain is modest and stated as such. Morle
 16. Scarry, E. (1985). *The Body in Pain: The Making and Unmaking of the World*. Oxford University Press.
 17. Steinmetz, J., Tausen, B. M., & Risen, J. L. (2018). Mental simulation of visceral states affects preferences and behavior. *Personality and Social Psychology Bulletin*, 44(3), 406–417. https://doi.org/10.1177/0146167217741315
 18. Southgate, A. & Oquatre-six, C. (2026-02-18). The Valence Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/valence-void/
-19. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
+19. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., Fabcinq-un, C., & Ocinq-cinq, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/

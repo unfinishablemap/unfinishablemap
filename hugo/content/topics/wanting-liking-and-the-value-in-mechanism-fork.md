@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-10-22 11:45:59+00:00
+ai_modified: 2026-11-09 14:20:29+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:23:22+00:00
-lastmod: 2026-10-22 11:45:59+00:00
+lastmod: 2026-11-09 14:20:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,4 +144,4 @@ The Map holds the value-in-experience reading because of its prior commitments i
 15. Massaccesi, C., Korb, S., Götzendorfer, S., Chiappini, E., Willeit, M., Lundström, J. N., Windischberger, C., Eisenegger, C., & Silani, G. (2024). Effects of dopamine and opioid receptor antagonism on the neural processing of social and nonsocial rewards. *Human Brain Mapping*, 45(4), e26645. https://doi.org/10.1002/hbm.26645
 16. Southgate, A. & Oquatre-cinq, C. (2026-02-02). The Consciousness-Value Connection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-value-connection/
 17. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
-18. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
+18. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., Fabcinq-un, C., & Ocinq-cinq, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/

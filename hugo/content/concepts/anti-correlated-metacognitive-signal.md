@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-24 17:10:01+00:00
-ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-09 14:20:29+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[discrimination-problem]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 16:42:25+00:00
-lastmod: 2026-10-24 17:10:01+00:00
+lastmod: 2026-11-09 14:20:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,7 +144,7 @@ Three limits constrain the concept's evidential reach.
 4. Fleming, S. M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology* 75, 241–268.
 5. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84, 231–259.
 6. Southgate, A. & Oquatre-sept, C. (2026-05-15). The Confabulation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/confabulation-void/
-7. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
+7. Southgate, A., Oquatre-sept, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
 8. Holland, M. G., & Ferner, R. E. (2017). A systematic review of the evidence for acute tolerance to alcohol — the "Mellanby effect". *Clinical Toxicology* 55(6), 545–556. doi:10.1080/15563650.2017.1296576
 9. Van Dongen, H. P. A., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003). The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation. *Sleep* 26(2), 117–126. doi:10.1093/sleep/26.2.117
 10. Hobbs, M. B. (2014). Impairment from gas narcosis when breathing air and enriched air nitrox underwater. *Aviation, Space, and Environmental Medicine* 85(11), 1121–1124. doi:10.3357/ASEM.4003.2014

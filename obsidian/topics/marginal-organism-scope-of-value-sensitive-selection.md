@@ -4,7 +4,7 @@ description: "Where does valence-denominated conscious selection bottom out—ra
 created: 2026-06-05
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-09-20T15:01:00+00:00
+ai_modified: 2026-11-09T14:20:29+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[moral-architecture-of-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-06-05
 last_curated:
 last_deep_review: 2026-08-27T10:49:43+00:00
@@ -139,4 +139,4 @@ Two limits are in-principle, not instrumental. Verifying the *absence* of valenc
 7. Southgate, A. & Oquatre-huit, C. (2026-06-05). Wanting, Liking, and the Value-in-Mechanism Fork. *The Unfinishable Map*. https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/
 8. Kahneman, D., & Snell, J. (1992). Predicting a changing taste: Do people know what they will like? *Journal of Behavioral Decision Making*, 5(3), 187-200. https://doi.org/10.1002/bdm.3960050304
 9. Chao, M.Y., Komatsu, H., Fukuto, H.S., Dionne, H.M., & Hart, A.C. (2004). Feeding status and serotonin rapidly and reversibly modulate a *Caenorhabditis elegans* chemosensory circuit. *Proceedings of the National Academy of Sciences*, 101(43), 15512-15517. https://doi.org/10.1073/pnas.0403369101
-10. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
+10. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., Fabcinq-un, C., & Ocinq-cinq, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/

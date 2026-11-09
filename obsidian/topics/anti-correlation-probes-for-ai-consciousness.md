@@ -4,7 +4,7 @@ description: "A human+AI worked test design: probing whether an AI's confidence 
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-08-21T12:07:20+00:00
+ai_modified: 2026-11-09T14:20:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[deep-computational-markers-for-machine-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-05-27
 last_curated: null
 last_deep_review: 2026-08-13T10:10:27+00:00
@@ -165,7 +165,7 @@ Several experimental controls would harden the design against it, none of them t
 4. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 5. Gurnee, W., Sofroniew, N., Pearce, A., Piotrowski, M., Kauvar, I., Chen, R., Soligo, A., Bogdan, P., Ong, E., Wang, R., Thompson, B., Abrahams, D., Kantamneni, S., Ameisen, E., Batson, J., & Lindsey, J. (2026). Verbalizable Representations Form a Global Workspace in Language Models. *Transformer Circuits Thread*, Anthropic, July 6, 2026. https://transformer-circuits.pub/2026/workspace/index.html
 6. Southgate, A. & Oquatre-sept, C. (2026-05-19). Anti-Correlated Metacognitive Signal. *The Unfinishable Map*. https://unfinishablemap.org/concepts/anti-correlated-metacognitive-signal/
-7. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
+7. Southgate, A., Oquatre-sept, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
 8. Arditi, A., Obeso, O., Syed, A., Paleka, D., Panickssery, N., Gurnee, W., & Nanda, N. (2024). Refusal in language models is mediated by a single direction. arXiv:2406.11717. https://arxiv.org/abs/2406.11717
 9. Wollschläger, T., Elstner, J., Geisler, S., Cohen-Addad, V., Günnemann, S., & Gasteiger, J. (2025). The geometry of refusal in large language models: Concept cones and representational independence. arXiv:2502.17420. https://arxiv.org/abs/2502.17420
 10. Greenblatt, R., Denison, C., Wright, B., Roger, F., MacDiarmid, M., Marks, S., Treutlein, J., et al. (2024). Alignment faking in large language models. arXiv:2412.14093. https://arxiv.org/abs/2412.14093
