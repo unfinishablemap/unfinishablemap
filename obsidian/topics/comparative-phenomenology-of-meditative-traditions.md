@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-07-11T10:37:00+00:00
+ai_modified: 2026-11-09T14:03:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[ineffable-encounter-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-03-07
 last_curated:
 last_deep_review: 2026-07-11T10:37:00+00:00
@@ -64,7 +64,7 @@ A second convergence zone: states where awareness persists while ordinary mental
 
 **Buddhist jhana** produces progressively refined states. By the fourth jhana, equanimity with minimal content. The formless jhanas push further—"infinite space," "infinite consciousness," "nothingness," "neither perception nor non-perception"—as objects become increasingly subtle. The culminating *nirodha samapatti* is reported as perception and feeling shutting down entirely, yet something restarts it, raising the question of whether residual awareness persists.
 
-**Yogic samadhi** in the [[samkhya-three-way-distinction|Patanjali/Samkhya]] tradition describes *nirvikalpa samadhi*—absorption without conceptual modification. The *Yoga Sutras* (1.2) define yoga as "the cessation of the modifications of the mind." What remains is pure awareness (*purusha*) without mental activity (*prakriti*).
+**Yogic samadhi** in the [[samkhya-three-way-distinction|Patanjali/Samkhya]] tradition culminates in seedless (*nirbija*) samadhi (1.51): the seer abiding in its own form (1.3). The *Yoga Sutras* (1.2) define yoga as "the cessation of the modifications of the mind." What remains is pure awareness (*purusha*) without mental activity (*prakriti*).
 
 **Christian kenotic prayer** describes a "cloud of unknowing" where conceptual content is deliberately released. *The Cloud of Unknowing* (c. 1375) instructs the contemplative to reach toward God through "a naked intent"—awareness stripped of discursive content, though directed toward a divine object.
 

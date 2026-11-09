@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09 14:04 UTC - refine-draft
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Task**: todo P3 (from reviews/deep-review-2026-10-22-cessation-versus-plenitude) — L67 attributed *nirvikalpa samadhi* to the Patanjali/Samkhya tradition; the term is Vedantic, not the *Yoga Sutras'* own
+- **Verification**: GRETIL Sanskrit text re-grepped independently: YS 1.2 `yogaś cittavṛttinirodhaḥ`, 1.3 `tadā draṣṭuḥ svarūpe 'vasthānam`, 1.51 `tasyāpi nirodhe sarvanirodhān nirbījaḥ samādhiḥ`; `nirvikalpa` 0 occurrences (the Sutras' own term is *vikalpa*, 1.6/1.9/1.42)
+- **Changes**: L67 "describes *nirvikalpa samadhi*—absorption without conceptual modification" → "culminates in seedless (*nirbija*) samadhi (1.51): the seer abiding in its own form (1.3)"; 1.2 quote and purusha/prakriti sentence kept verbatim. *nirbija* written without macron to match the page's diacritic-free Sanskrit convention (purusha, prakriti, sakshi, upekkha). Ref L207 left unchanged (GRETIL note would exceed the ±10 budget). `topics/indian-philosophy-of-mind` L89 and `voids/acquaintance-void` L126 (*nirvikalpa pratyaksha*, Nyaya) correct and untouched
+- **Length**: 3,231 → 3,239 words by analyze_length (topics hard 4,000)
+- **Model**: claude-fable-5-1 (ai_system → claude-opus-4-6+claude-opus-4-8+claude-fable-5-1)
+- **Published**: yes
+
 ## 2026-11-09T13:36:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
