@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T22:27:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
+- **Word count**: 3105 → 3106 (+1)
+- **Critical issues addressed**: 1 (L55 attribution-strength drift: "Siderits's illusionism about qualia" → "the illusionism about qualia Siderits explores"; the article's own L122 records that Siderits withholds endorsement)
+- **Medium issues addressed**: 1 (L63 tenets quotation punctuation restored to the source's em-dash; net 0)
+- **Enhancements made**: 0 (length-neutral; 124% of concepts soft threshold)
+- **Citation ledger**: 16 references; 10 publisher/page-verified this pass (Siderits 2025 book + ch. 8 abstract + p. 5 and p. 199 via Google Books search-within with a 0-hit control; Tricycle review page opened; Westerhoff, Zahavi 2024, Gallagher 2023, Garfield 2022, Baird 2014 at Crossref; SN 22.59 and SEP Mind pages opened; Fox 2012 abstract re-checked), 6 carried forward from 07-14. Zero fabricated, zero wrong-metadata; one year-convention note (Gallagher 2023 online / 15(4) 2024 print). Full texts of Siderits ch. 8, Westerhoff, Zahavi 2024, Gallagher 2023 not opened — abstract-level only.
+- **Engagement modes**: Siderits 2025 — Mode Three (honest marking of a route the source explores and declines); Westerhoff 2020 — Mode Three ("available rather than established"); Tenet 4 — Mode Three, bedrock conceded by the tenets page. No label leakage.
+- **Cross-review**: pudgalavada pessimistic Issue 7 pointer to L157 confirmed correct; open-individualism pessimistic L84 quotation of L163 still verbatim.
+- **Output**: [deep-review-2026-11-09-buddhism-and-dualism](/reviews/deep-review-2026-11-09-buddhism-and-dualism/)
+
 ## 2026-11-09T21:51:21+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)

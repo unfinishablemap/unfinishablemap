@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-28 13:05:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-09 22:25:02+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[self-and-self-consciousness]]'
@@ -22,8 +22,8 @@ description: Buddhism denies any owning self; its Abhidharma realism treats cons
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 15:51:19+00:00
-lastmod: 2026-09-28 13:05:00+00:00
+last_deep_review: 2026-11-09 22:25:02+00:00
+lastmod: 2026-11-09 22:25:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ Buddhist no-self targets three specific claims:
 
 **Ownership and control**: The sense that experiences happen *to* an owner in charge of them—"my" thoughts, "my" feelings—is a construct that meditation reveals to be empty. Experience happens; ownership is imputed.
 
-Classical Buddhism accepts that consciousness (*vijñāna*) is real—it is one of the five aggregates. What is illusory is any self *owning* it, permanent or not. No classical school was eliminativist, though Siderits's illusionism about qualia ([below](#emptiness-challenge)) opens a Buddhist route there.
+Classical Buddhism accepts that consciousness (*vijñāna*) is real—it is one of the five aggregates. What is illusory is any self *owning* it, permanent or not. No classical school was eliminativist, though the illusionism about qualia Siderits explores ([below](#emptiness-challenge)) opens a Buddhist route there.
 
 Buddhist contemplative practice constitutes millennia of first-person investigation—systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is [phenomenological method](/concepts/phenomenology/) in practice, predating Husserl by two millennia. Research supports its rigor on tested tasks: experienced meditators give more accurate introspective reports of tactile sensitivity during body-scanning meditation, measured against normative tactile-discrimination and cortical-magnification data, than novices (Fox et al. 2012). That is narrower than more accurate introspection of consciousness as such, but counts against introspective skill being untrainable. The enhancement also looks domain-specific: Baird et al. (2014), a randomised training study with an active control, found improved introspective accuracy in a memory but not a perception domain—and perception is the domain Fox's cross-sectional comparison sits in. No direct replication of Fox et al. was located, so this is a neighbouring result, not a failed replication. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) maps how Buddhist reports converge with Hindu, Christian, Sufi, and Daoist ones on self-dissolution and contentless awareness despite incompatible metaphysics.
 
@@ -64,7 +64,7 @@ Buddhist contemplative practice constitutes millennia of first-person investigat
 
 The Dualism tenet states: "Consciousness is not reducible to physical processes." That is distinct from several claims it might be confused with:
 
-**The Map does not require substance dualism**: The tenet doesn't say consciousness is a *substance* separate from matter, only that it cannot be *reduced to* physical processes—"something beyond the material, whether substance, property, or aspect."
+**The Map does not require substance dualism**: The tenet doesn't say consciousness is a *substance* separate from matter, only that it cannot be *reduced to* physical processes—"something beyond the material—whether substance, property, or aspect."
 
 **The Map does not require a permanent soul**: The tenet doesn't specify whether consciousness persists eternally, changes moment to moment, or ceases at death. It concerns the relation between consciousness and physics, not duration.
 

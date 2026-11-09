@@ -4,7 +4,7 @@ description: "Buddhism denies any owning self; its Abhidharma realism treats con
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-09-28T13:05:00+00:00
+ai_modified: 2026-11-09T22:25:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,10 +30,10 @@ related_articles:
   - "[[eliminative-materialism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-07-14T15:51:19+00:00
+last_deep_review: 2026-11-09T22:25:02+00:00
 ---
 
 Buddhism rejects any owning self while taking consciousness seriously. The Unfinishable Map commits to irreducible consciousness interacting with matter. Are these positions compatible? The answer depends on distinguishing what each actually claims and denies.
@@ -52,7 +52,7 @@ Buddhist no-self targets three specific claims:
 
 **Ownership and control**: The sense that experiences happen *to* an owner in charge of them—"my" thoughts, "my" feelings—is a construct that meditation reveals to be empty. Experience happens; ownership is imputed.
 
-Classical Buddhism accepts that consciousness (*vijñāna*) is real—it is one of the five aggregates. What is illusory is any self *owning* it, permanent or not. No classical school was eliminativist, though Siderits's illusionism about qualia ([[#emptiness-challenge|below]]) opens a Buddhist route there.
+Classical Buddhism accepts that consciousness (*vijñāna*) is real—it is one of the five aggregates. What is illusory is any self *owning* it, permanent or not. No classical school was eliminativist, though the illusionism about qualia Siderits explores ([[#emptiness-challenge|below]]) opens a Buddhist route there.
 
 Buddhist contemplative practice constitutes millennia of first-person investigation—systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is [[phenomenology|phenomenological method]] in practice, predating Husserl by two millennia. Research supports its rigor on tested tasks: experienced meditators give more accurate introspective reports of tactile sensitivity during body-scanning meditation, measured against normative tactile-discrimination and cortical-magnification data, than novices (Fox et al. 2012). That is narrower than more accurate introspection of consciousness as such, but counts against introspective skill being untrainable. The enhancement also looks domain-specific: Baird et al. (2014), a randomised training study with an active control, found improved introspective accuracy in a memory but not a perception domain—and perception is the domain Fox's cross-sectional comparison sits in. No direct replication of Fox et al. was located, so this is a neighbouring result, not a failed replication. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] maps how Buddhist reports converge with Hindu, Christian, Sufi, and Daoist ones on self-dissolution and contentless awareness despite incompatible metaphysics.
 
@@ -60,7 +60,7 @@ Buddhist contemplative practice constitutes millennia of first-person investigat
 
 The Dualism tenet states: "Consciousness is not reducible to physical processes." That is distinct from several claims it might be confused with:
 
-**The Map does not require substance dualism**: The tenet doesn't say consciousness is a *substance* separate from matter, only that it cannot be *reduced to* physical processes—"something beyond the material, whether substance, property, or aspect."
+**The Map does not require substance dualism**: The tenet doesn't say consciousness is a *substance* separate from matter, only that it cannot be *reduced to* physical processes—"something beyond the material—whether substance, property, or aspect."
 
 **The Map does not require a permanent soul**: The tenet doesn't specify whether consciousness persists eternally, changes moment to moment, or ceases at death. It concerns the relation between consciousness and physics, not duration.
 
