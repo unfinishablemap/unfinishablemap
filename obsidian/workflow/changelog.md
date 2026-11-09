@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09T21:40:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T21:51:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenal-acquaintance]]
+- **Original score**: n/a (targeted fix; todo L1733, optimistic-2026-10-16 Opportunity B, untasked half)
+- **Changes**: Relation to Site Perspective only. (1) Bidirectional Interaction paragraph: retired the "struggles to explain *why* reports track qualitative character so precisely" coincidence framing; the rival's answer is now Jackson's (1982) common-cause structure (lawful, not coincidental), the Map's concession that knowing one's own present experience needs no causal link is stated and linked to `acquaintance-without-causation` (replacing the stale gloss "reliably produces accurate reports", which misdescribed that page), the pressure is relocated to the report channel (asserting is an outbound physical act, per Tenet 3's Definition), and the residue is stated as explanatory cost, not refutation. First link from this page to `[[self-stultification#The Coincidence Response]]`. (2) Occam's Razor Has Limits paragraph: dropped "explaining away the relation rather than explaining it" and "reflect oversimplification rather than insight"; Tenet 5 now applied symmetrically (neither the rival's apparent simplicity nor economy claimed for the Map's own view settles it), mirroring `arguments/epiphenomenalism-argument` L215. Engagement with the physicalist/epiphenomenalist common-cause reply: Mode Two (the reply has a lawful parallel but has not yet accounted, by its own standards, for how a report voices what acquaintance knows); the Tenet 5 paragraph is Mode Three (framework-boundary disagreement stated as explanatory cost). Body words (analyze_length) 3,063 -> 3,102, net +39. L96 / knowledge-argument material untouched (open todo L3447).
+- **Published**: yes
+
 
 ## 2026-11-09T21:40:47+00:00 - pessimistic-review
 - **Status**: Success

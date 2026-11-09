@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-10-21 15:09:44+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-09 21:50:47+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/acquaintance-knowledge/
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 03:26:19+00:00
-lastmod: 2026-10-21 15:09:44+00:00
+lastmod: 2026-11-09 21:50:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -147,9 +147,9 @@ Representationalists raise a different challenge. If introspection is *transpare
 
 **[Dualism](/tenets/#dualism)**: Phenomenal acquaintance is part of the evidential foundation for the Map's dualism—but the argument requires care, because non-reductive physicalists also accept acquaintance's reality. The Map's case proceeds in two steps. *First*, acquaintance secures the data: qualitative character is real, not eliminable or reducible to functional role. *Second*, the nature of the acquaintance relation itself resists physical characterisation. A complete physical description of a brain state specifies its structural, dynamic, and relational properties—yet none of these constitute the *presentation* of a quality to a subject. Non-reductive physicalists treat this as an epistemic limitation: two modes of accessing the same physical reality. The Map holds the limitation is ontological: what acquaintance reveals is not among the properties physical description can in principle specify, because physical description is exhausted by structure and dynamics while qualitative character is intrinsic and non-structural. Acquaintance provides the starting datum; the philosophical arguments establish that the datum points beyond the physical.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If acquaintance were [epiphenomenal](/concepts/epiphenomenalism/), reports about qualitative character would be causally disconnected from the relation itself. Mary's exclamation upon seeing red would bear no causal relation to her acquaintance with redness. That acquaintance [reliably produces accurate reports](/topics/acquaintance-without-causation/) suggests the relation is causally efficacious. A physicalist can reply that brain states cause both experience and report without acquaintance doing independent work—but this struggles to explain *why* reports track qualitative character so precisely without granting that the relation itself plays a role in shaping the output.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If acquaintance were [epiphenomenal](/concepts/epiphenomenalism/), reports about qualitative character would be causally disconnected from the relation itself. Mary's exclamation upon seeing red would bear no causal relation to her acquaintance with redness. The Map grants that [knowing one's own present experience needs no causal link](/topics/acquaintance-without-causation/); the pressure falls on the report channel, since asserting what acquaintance reveals is an outbound physical act. The physicalist's answer is a common cause rather than a coincidence: on Jackson's (1982) structure the brain state produces both experience and report, so the tracking is lawful ([the coincidence response](/concepts/self-stultification/#the-coincidence-response)). What that answer still owes is an account of how a lawful parallel lets a report voice what acquaintance knows—a gap the Map presses as explanatory cost, not refutation.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalist strategies that reduce acquaintance to recognitional capacity or conceptual competence achieve apparent parsimony by explaining away the relation rather than explaining it. If the immediacy and subject-dependence are real features—not artefacts of how we think about experience—then parsimony-driven reductions that cannot explain why Mary's encounter *feels* novel reflect oversimplification rather than insight.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing acquaintance to recognitional capacity or conceptual competence can seem simpler than positing a primitive relation. The Map lets neither that apparent simplicity nor any economy claimed for its own view settle the question; what separates the accounts is explanatory, and the reductions still owe an account of why Mary's encounter *feels* novel.
 
 ## Further Reading
 
