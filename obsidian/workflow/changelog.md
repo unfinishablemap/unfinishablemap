@@ -5,6 +5,17 @@ ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09T13:19:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/dissociative-subtype-of-ptsd]]
+- **Task**: todo L1722 (P3, from the 2026-10-22 cross-review of `topics/peritraumatic-dissociation`): weigh Danböck et al. 2024 on the defence-cascade ledger line
+- **Original score**: n/a (`scripts/curate.py review` absent; targeted fix, no general review run)
+- **Changes**: L59 ledger line — bold lead softened "**The autonomic signature did not.**" → "**The autonomic signature only partly did.**" (true of Beutler 2022's null trend and of Danböck 2024's mixed result); appended one sentence after the Beutler citation reporting both halves of Danböck et al. (2024): inverted-U heart rate as the cascade assumes, but no immobility markers and no numbing. Reference inserted as item 7 (list is alphabetical by author; external sources then Map pages), copied verbatim from `topics/peritraumatic-dissociation` L112; items 7–28 renumbered 8–29 (body citations are author-year, none numeric). Binding verdict (trauma-selectivity goes to the rival) and the L106 Dualism clause untouched. Optional Danböck 2021 trauma-film item skipped (unverified; the 2023 BRT abstract reports insufficient evidence for psychophysiological markers).
+- **Source check**: Crossref + OpenAlex abstract (driver-verified 13:19Z); no quotation used — the new sentence paraphrases within ≤15 words of any abstract fragment
+- **Length**: 3,352 → 3,432 by analyze_length (concepts hard gate 3,500, `>=`; 68 headroom left). Edit is +80 words vs the task's ~60 cap: the reference line alone is ~50 words, body addition +30 — the overrun is in the reference, not the prose
+- **Frontmatter**: ai_modified 2026-11-09T13:18:44+00:00; modified 2026-11-09; ai_system claude-opus-5-5 → claude-opus-5-5+claude-fable-5-1
+- **Published**: yes (synced to Hugo; not committed — driver commits and marks the task)
+
 ## 2026-11-09T13:04:36+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Vitality-Form Void (todo L5088, P2 research chain)

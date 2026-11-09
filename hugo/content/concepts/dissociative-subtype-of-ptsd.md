@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-20
-ai_modified: 2026-10-23 19:35:52+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-11-09 13:18:44+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[depersonalisation]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[metacognitive-access-versus-retention]]'
 - '[[predictive-processing]]'
 created: 2026-10-20
-date: &id001 2026-10-23
+date: &id001 2026-11-09
 description: 'The DSM-5 dissociative subtype of PTSD and Lanius''s overmodulation
   model: the best-specified brain-only account of trauma-provoked depersonalisation,
   what held and what failed, and why it moves the trauma-selectivity point against
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-20 10:33:02+00:00
-lastmod: 2026-10-23 19:35:52+00:00
+lastmod: 2026-11-09 13:18:44+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -61,7 +61,7 @@ The model then acquired a reason. A narrative review from the model's own labora
 
 **The prefrontal signal held.** Raised medial prefrontal activity or top-down coupling recurs from the 2002 study to the AURORA cohort.
 
-**The autonomic signature did not.** Passive defence predicts hypoarousal, but a systematic review of 28 studies found that "No clear trend exists across all measured physiological markers in trauma-related dissociation", "questioning the validity of distinct psychophysiological profiles in PTSD" (Beutler et al. 2022).
+**The autonomic signature only partly did.** Passive defence predicts hypoarousal, but a systematic review of 28 studies found that "No clear trend exists across all measured physiological markers in trauma-related dissociation", "questioning the validity of distinct psychophysiological profiles in PTSD" (Beutler et al. 2022). In a preregistered test on 71 PTSD patients, heart rate followed the inverted U the cascade assumes, but immobility and numbing did not appear (Danböck et al. 2024).
 
 **Specific circuitry did not.** Brewin et al. (2025) report that "the implicated brain regions and the nature of these alterations have varied greatly across studies". Because most studies measure trait dissociation, the alterations "may reflect a vulnerability or proclivity to dissociative experiences rather than the neurobiology of an active dissociative experience". A whole-brain resting-state study of 197 participants, from the model's home laboratory, found in the subtype "widespread small-scale and large-scale functional hyperconnectivity, compared to controls" (Shaw et al. 2023; preprint wording).
 
@@ -136,25 +136,26 @@ Three readings would co-opt the literature for the Map, and each fails:
 4. Burton, M. S., Feeny, N. C., Connell, A. M., & Zoellner, L. A. (2018). Exploring evidence of a dissociative subtype in PTSD: Baseline symptom structure, etiology, and treatment efficacy for those who dissociate. *Journal of Consulting and Clinical Psychology*, 86(5), 439–451. https://doi.org/10.1037/ccp0000297
 5. Chalavi, S., Vissia, E. M., Giesen, M. E., Nijenhuis, E. R. S., Draijer, N., Cole, J. H., et al. (2015). Abnormal hippocampal morphology in dissociative identity disorder and post-traumatic stress disorder correlates with childhood trauma and dissociative symptoms. *Human Brain Mapping*, 36(5), 1692–1704. https://doi.org/10.1002/hbm.22730
 6. Chiba, T., Ide, K., Taylor, J. E., Boku, S., Toda, H., Kanazawa, T., et al. (2021). A reciprocal inhibition model of alternations between under-/overemotional modulatory states in patients with PTSD. *Molecular Psychiatry*, 26(9), 5023–5039. https://doi.org/10.1038/s41380-020-0827-0
-7. Dimitrova, L. I., Dean, S. L., Schlumpf, Y. R., Vissia, E. M., Nijenhuis, E. R. S., Chatzi, V., et al. (2023). A neurostructural biomarker of dissociative amnesia: A hippocampal study in dissociative identity disorder. *Psychological Medicine*, 53(3), 805–813. https://doi.org/10.1017/S0033291721002154
-8. Felmingham, K., Kemp, A. H., Williams, L., Falconer, E., Olivieri, G., Peduto, A., & Bryant, R. (2008). Dissociative responses to conscious and non-conscious fear impact underlying brain function in post-traumatic stress disorder. *Psychological Medicine*, 38(12), 1771–1780. https://doi.org/10.1017/S0033291708002742
-9. Frewen, P. A., Brown, M. F. D., Steuwe, C., & Lanius, R. A. (2015). Latent profile analysis and principal axis factoring of the DSM-5 dissociative subtype. *European Journal of Psychotraumatology*, 6, 26406. https://doi.org/10.3402/ejpt.v6.26406
-10. Hoeboer, C. M., De Kleine, R. A., Molendijk, M. L., Schoorl, M., Oprel, D. A. C., Mouthaan, J., et al. (2020). Impact of dissociation on the effectiveness of psychotherapy for post-traumatic stress disorder: Meta-analysis. *BJPsych Open*, 6(3), e53. https://doi.org/10.1192/bjo.2020.30
-11. Huntjens, R. J. C., Otgaar, H., Pijnenborg, G. H. M., & Wessel, I. (2022). The elusive search for a biomarker of dissociative amnesia: A reaction to Dimitrova et al. (2021). *Psychological Medicine*, 52(13), 2835–2836. https://doi.org/10.1017/S0033291722001118
-12. Knappik, F. (2025, online 2022). No need for mineness: Depersonalization/Derealization Disorder and mental state types. *Phenomenology and the Cognitive Sciences*, 24(2), 411–435. https://doi.org/10.1007/s11097-022-09872-0
-13. Kozlowska, K., Walker, P., McLean, L., & Carrive, P. (2015). Fear and the defense cascade: Clinical implications and management. *Harvard Review of Psychiatry*, 23(4), 263–287. https://doi.org/10.1097/HRP.0000000000000065
-14. Lanius, R. A., Williamson, P. C., Boksman, K., Densmore, M., Gupta, M., Neufeld, R. W. J., et al. (2002). Brain activation during script-driven imagery induced dissociative responses in PTSD: A functional magnetic resonance imaging investigation. *Biological Psychiatry*, 52(4), 305–311. https://doi.org/10.1016/s0006-3223(02)01367-7
-15. Lanius, R. A., Vermetten, E., Loewenstein, R. J., Brand, B., Schmahl, C., Bremner, J. D., & Spiegel, D. (2010). Emotion modulation in PTSD: Clinical and neurobiological evidence for a dissociative subtype. *American Journal of Psychiatry*, 167(6), 640–647. https://doi.org/10.1176/appi.ajp.2009.09081168
-16. Laurin, A., Bottemanne, H., Bulteau, S., El Haj, M., Sauvaget, A., & Deschamps, T. (2026). Toward dimensional body consciousness impairments in post-traumatic stress disorder and its dissociative subtype: A predictive processing approach. *Neuroscience & Biobehavioral Reviews*, 182, 106546. https://doi.org/10.1016/j.neubiorev.2026.106546
-17. Lebois, L. A. M., Harnett, N. G., van Rooij, S. J. H., Ely, T. D., Jovanovic, T., Bruce, S. E., et al. (2022). Persistent dissociation and its neural correlates in predicting outcomes after trauma exposure. *American Journal of Psychiatry*, 179(9), 661–672. https://doi.org/10.1176/appi.ajp.21090911
-18. Lotfinia, S., Soorgi, Z., Mertens, Y., & Daniels, J. (2020). Structural and functional brain alterations in psychiatric patients with dissociative experiences: A systematic review of magnetic resonance imaging studies. *Journal of Psychiatric Research*, 128, 5–15. https://doi.org/10.1016/j.jpsychires.2020.05.006
-19. Nicholson, A. A., Friston, K. J., Zeidman, P., Harricharan, S., McKinnon, M. C., Densmore, M., et al. (2017). Dynamic causal modeling in PTSD and its dissociative subtype: Bottom-up versus top-down processing within fear and emotion regulation circuitry. *Human Brain Mapping*, 38(11), 5551–5561. https://doi.org/10.1002/hbm.23748
-20. Reinders, A. A. T. S., Dimitrova, L. I., Schlumpf, Y. R., Vissia, E. M., Dean, S. L., Jäncke, L., et al. (2022). The elusive search for a biomarker of dissociative amnesia: An overstated response to understated findings? *Psychological Medicine*, 52(13), 2837–2845. https://doi.org/10.1017/S0033291722001660
-21. Shaw, S. B., Terpou, B. A., Densmore, M., Théberge, J., Frewen, P., McKinnon, M. C., & Lanius, R. A. (2023). Large-scale functional hyperconnectivity patterns in trauma-related dissociation: An rs-fMRI study of PTSD and its dissociative subtype. *Nature Mental Health*, 1(10), 711–721. https://doi.org/10.1038/s44220-023-00115-y (Quoted from the preprint abstract: https://doi.org/10.31234/osf.io/b6kdm.)
-22. Sierra, M., & Berrios, G. E. (1998). Depersonalization: Neurobiological perspectives. *Biological Psychiatry*, 44(9), 898–908. https://doi.org/10.1016/s0006-3223(98)00015-8
-23. Stein, D. J., Koenen, K. C., Friedman, M. J., Hill, E., McLaughlin, K. A., Petukhova, M., et al. (2013). Dissociation in posttraumatic stress disorder: Evidence from the World Mental Health Surveys. *Biological Psychiatry*, 73(4), 302–312. https://doi.org/10.1016/j.biopsych.2012.08.022
-24. Terpou, B. A., Harricharan, S., McKinnon, M. C., Frewen, P., Jetly, R., & Lanius, R. A. (2019). The effects of trauma on brain and body: A unifying role for the midbrain periaqueductal gray. *Journal of Neuroscience Research*, 97(9), 1110–1140. https://doi.org/10.1002/jnr.24447
-25. Weniger, G., Lange, C., Sachsse, U., & Irle, E. (2008). Amygdala and hippocampal volumes and cognition in adult survivors of childhood abuse with dissociative disorders. *Acta Psychiatrica Scandinavica*, 118(4), 281–290. https://doi.org/10.1111/j.1600-0447.2008.01246.x
-26. White, W. F., Burgess, A., Dalgleish, T., Halligan, S., Hiller, R., Oxley, A., et al. (2022). Prevalence of the dissociative subtype of post-traumatic stress disorder: A systematic review and meta-analysis. *Psychological Medicine*, 52(9), 1629–1644. https://doi.org/10.1017/S0033291722001647
-27. Southgate, A., Oquatre-huit, C., Fabcinq, C., Fabcinq-un, C., & Ocinq-cinq, C. (2026-03-17). Clinical Dissociation as Systematic Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/
-28. Southgate, A., Fabcinq-un, C., & Ocinq-cinq, C. (2026-10-01). Depersonalisation and the Separability of For-Me-Ness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/depersonalisation/
+7. Danböck, S. K., Liedlgruber, M., Franke, L. K., Miedl, S. F., Hettegger, S. E., Weber, R. C., & Wilhelm, F. H. (2024). Acute dissociation as part of the defense cascade: Associations with behavioral, autonomic, and experiential threat responses in posttraumatic stress disorder. *Journal of Psychopathology and Clinical Science*, 133(1), 76–89. https://doi.org/10.1037/abn0000873
+8. Dimitrova, L. I., Dean, S. L., Schlumpf, Y. R., Vissia, E. M., Nijenhuis, E. R. S., Chatzi, V., et al. (2023). A neurostructural biomarker of dissociative amnesia: A hippocampal study in dissociative identity disorder. *Psychological Medicine*, 53(3), 805–813. https://doi.org/10.1017/S0033291721002154
+9. Felmingham, K., Kemp, A. H., Williams, L., Falconer, E., Olivieri, G., Peduto, A., & Bryant, R. (2008). Dissociative responses to conscious and non-conscious fear impact underlying brain function in post-traumatic stress disorder. *Psychological Medicine*, 38(12), 1771–1780. https://doi.org/10.1017/S0033291708002742
+10. Frewen, P. A., Brown, M. F. D., Steuwe, C., & Lanius, R. A. (2015). Latent profile analysis and principal axis factoring of the DSM-5 dissociative subtype. *European Journal of Psychotraumatology*, 6, 26406. https://doi.org/10.3402/ejpt.v6.26406
+11. Hoeboer, C. M., De Kleine, R. A., Molendijk, M. L., Schoorl, M., Oprel, D. A. C., Mouthaan, J., et al. (2020). Impact of dissociation on the effectiveness of psychotherapy for post-traumatic stress disorder: Meta-analysis. *BJPsych Open*, 6(3), e53. https://doi.org/10.1192/bjo.2020.30
+12. Huntjens, R. J. C., Otgaar, H., Pijnenborg, G. H. M., & Wessel, I. (2022). The elusive search for a biomarker of dissociative amnesia: A reaction to Dimitrova et al. (2021). *Psychological Medicine*, 52(13), 2835–2836. https://doi.org/10.1017/S0033291722001118
+13. Knappik, F. (2025, online 2022). No need for mineness: Depersonalization/Derealization Disorder and mental state types. *Phenomenology and the Cognitive Sciences*, 24(2), 411–435. https://doi.org/10.1007/s11097-022-09872-0
+14. Kozlowska, K., Walker, P., McLean, L., & Carrive, P. (2015). Fear and the defense cascade: Clinical implications and management. *Harvard Review of Psychiatry*, 23(4), 263–287. https://doi.org/10.1097/HRP.0000000000000065
+15. Lanius, R. A., Williamson, P. C., Boksman, K., Densmore, M., Gupta, M., Neufeld, R. W. J., et al. (2002). Brain activation during script-driven imagery induced dissociative responses in PTSD: A functional magnetic resonance imaging investigation. *Biological Psychiatry*, 52(4), 305–311. https://doi.org/10.1016/s0006-3223(02)01367-7
+16. Lanius, R. A., Vermetten, E., Loewenstein, R. J., Brand, B., Schmahl, C., Bremner, J. D., & Spiegel, D. (2010). Emotion modulation in PTSD: Clinical and neurobiological evidence for a dissociative subtype. *American Journal of Psychiatry*, 167(6), 640–647. https://doi.org/10.1176/appi.ajp.2009.09081168
+17. Laurin, A., Bottemanne, H., Bulteau, S., El Haj, M., Sauvaget, A., & Deschamps, T. (2026). Toward dimensional body consciousness impairments in post-traumatic stress disorder and its dissociative subtype: A predictive processing approach. *Neuroscience & Biobehavioral Reviews*, 182, 106546. https://doi.org/10.1016/j.neubiorev.2026.106546
+18. Lebois, L. A. M., Harnett, N. G., van Rooij, S. J. H., Ely, T. D., Jovanovic, T., Bruce, S. E., et al. (2022). Persistent dissociation and its neural correlates in predicting outcomes after trauma exposure. *American Journal of Psychiatry*, 179(9), 661–672. https://doi.org/10.1176/appi.ajp.21090911
+19. Lotfinia, S., Soorgi, Z., Mertens, Y., & Daniels, J. (2020). Structural and functional brain alterations in psychiatric patients with dissociative experiences: A systematic review of magnetic resonance imaging studies. *Journal of Psychiatric Research*, 128, 5–15. https://doi.org/10.1016/j.jpsychires.2020.05.006
+20. Nicholson, A. A., Friston, K. J., Zeidman, P., Harricharan, S., McKinnon, M. C., Densmore, M., et al. (2017). Dynamic causal modeling in PTSD and its dissociative subtype: Bottom-up versus top-down processing within fear and emotion regulation circuitry. *Human Brain Mapping*, 38(11), 5551–5561. https://doi.org/10.1002/hbm.23748
+21. Reinders, A. A. T. S., Dimitrova, L. I., Schlumpf, Y. R., Vissia, E. M., Dean, S. L., Jäncke, L., et al. (2022). The elusive search for a biomarker of dissociative amnesia: An overstated response to understated findings? *Psychological Medicine*, 52(13), 2837–2845. https://doi.org/10.1017/S0033291722001660
+22. Shaw, S. B., Terpou, B. A., Densmore, M., Théberge, J., Frewen, P., McKinnon, M. C., & Lanius, R. A. (2023). Large-scale functional hyperconnectivity patterns in trauma-related dissociation: An rs-fMRI study of PTSD and its dissociative subtype. *Nature Mental Health*, 1(10), 711–721. https://doi.org/10.1038/s44220-023-00115-y (Quoted from the preprint abstract: https://doi.org/10.31234/osf.io/b6kdm.)
+23. Sierra, M., & Berrios, G. E. (1998). Depersonalization: Neurobiological perspectives. *Biological Psychiatry*, 44(9), 898–908. https://doi.org/10.1016/s0006-3223(98)00015-8
+24. Stein, D. J., Koenen, K. C., Friedman, M. J., Hill, E., McLaughlin, K. A., Petukhova, M., et al. (2013). Dissociation in posttraumatic stress disorder: Evidence from the World Mental Health Surveys. *Biological Psychiatry*, 73(4), 302–312. https://doi.org/10.1016/j.biopsych.2012.08.022
+25. Terpou, B. A., Harricharan, S., McKinnon, M. C., Frewen, P., Jetly, R., & Lanius, R. A. (2019). The effects of trauma on brain and body: A unifying role for the midbrain periaqueductal gray. *Journal of Neuroscience Research*, 97(9), 1110–1140. https://doi.org/10.1002/jnr.24447
+26. Weniger, G., Lange, C., Sachsse, U., & Irle, E. (2008). Amygdala and hippocampal volumes and cognition in adult survivors of childhood abuse with dissociative disorders. *Acta Psychiatrica Scandinavica*, 118(4), 281–290. https://doi.org/10.1111/j.1600-0447.2008.01246.x
+27. White, W. F., Burgess, A., Dalgleish, T., Halligan, S., Hiller, R., Oxley, A., et al. (2022). Prevalence of the dissociative subtype of post-traumatic stress disorder: A systematic review and meta-analysis. *Psychological Medicine*, 52(9), 1629–1644. https://doi.org/10.1017/S0033291722001647
+28. Southgate, A., Oquatre-huit, C., Fabcinq, C., Fabcinq-un, C., & Ocinq-cinq, C. (2026-03-17). Clinical Dissociation as Systematic Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/
+29. Southgate, A., Fabcinq-un, C., & Ocinq-cinq, C. (2026-10-01). Depersonalisation and the Separability of For-Me-Ness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/depersonalisation/
