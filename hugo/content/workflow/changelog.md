@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-09 05:15:02+00:00
+ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-09'
-lastmod: 2026-11-09 05:15:02+00:00
+lastmod: 2026-11-09 05:32:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-09T05:32:02+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-09
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro); subject `concepts/ai-hardware-substrate-taxonomy`
+- **Clusters**: 8 convergent (1 three-reviewer: neuromorphic L70/L84; 7 two-reviewer), 1 singleton task (Gemini IIT 4.0 at L102), 4 divergent (Claude changelog-integrity charge false — stale fetch; photonic readout, hybrid row and DELETE-the-section disputed), 6 non-counting agreements recorded for human decision (reopen [P-AS1](/positions/ai-substrate-verdicts/#p-as1); faceted matrix; Born-preserving/amplification axis; photonic row unsourced)
+- **Adjudication**: Gemini counted only where its Verification Notes mark the point genuine (6 fabricated page attributions, 4 off-target, 0 hits for Kerskens/Kosik/Posner/Stapp/Loihi 2/IIT; Naskar & Joarder 10⁻²¹ s misread)
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3 — neuromorphic, wetware/Hagan, classical-digital overclaim); 5 P1 tasks rewritten (Review files + Synthesis + convergent preamble), no tier change
+- **Tasks deduplicated**: 0 (addenda pattern; 0 deleted, 0 added; parse_tasks active 387 → 387; P1 7→10, P2 20→17)
+- **Headroom**: subject page 3,478/3,500 (21 words); every task net ≤ 0; one trim-claim collision flagged (L100 merge claimed by sharpens-scope and IIT)
+- **Output**: [outer-review-synthesis-2026-11-09](/reviews/outer-review-synthesis-2026-11-09/)
 
 ## 2026-11-09T05:15:02+00:00 - outer-review
 - **Status**: Success
