@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-09T12:42:24+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument` (2,001 words; first adversarial pass after two deep reviews). Four critical issues, all length-neutral or shorter: L73 "has not addressed" / "the field is silent" denies IIT, which the sibling `unity-of-consciousness` page engages; L71 installs premise (a) (unity as datum) unexamined while `positions/consciousness-scope` marks it contested; L35 "first showed" misattributes priority (Eckhorn et al. 1988 precedes Gray et al. 1989); L45 "lagging the hub" not stated by Vicente 2008 (PMC full text). Viriyopase 2012 body claims verified against full text. No open todo task targets the page. Reports only; no content edited.
+- **Output**: [pessimistic-2026-11-09-zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/reviews/pessimistic-2026-11-09-zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)
+
+## 2026-11-09T12:09:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Changes**: L102 §"Why This Sharpens" — added IIT 4.0 as a third convergent physicalist verdict and rival explanation (piped link to `integrated-information-theory`; grep-verified on that page L103 "physical substrate matters" and L188 zero Φ for purely feed-forward systems): IIT agrees substrate matters and assigns zero Φ to feed-forward systems on causal-topology grounds rather than either axis, so a physically recurrent digital system IIT credits remains classical-digital on this taxonomy. "two independent physicalist critiques" → "three *physicalist* critiques"; "not a thermodynamic or biochemical property" → "not a thermodynamic, biochemical, or causal-topological property" so the Map's-route contrast scopes to all three; dropped the now-redundant "Both locate … *physical* features" sentence (the opening already says physicalist) so no pronoun strands; moved "In biological computation" inside the Milinkovic & Aru quotation marks (the paper's actual wording per `research/biological-computationalism-inadvertent-dualism-2026-04-04` L31). Payment: L100 gloss "—inputs, outputs, internal causal structure—" removed (−3) plus Thagard/M&A/Map's-route compressions. `analyze_length` 3,466 → 3,466 (net 0; hard gate 3,500). No Albantakis added to References (IIT page carries it). Outer review 2026-11-09 Gemini §5.1 / weakness 5; reviewer's grep-false "ignores decoherence" / "relies on Kerskens, Kosik, Posner" claims not imported. Synced to Hugo; link renders to /concepts/integrated-information-theory/.
+- **Published**: yes
+
 ## 2026-11-09T11:36:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
