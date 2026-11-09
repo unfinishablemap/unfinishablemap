@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-10-25
 human_modified:
-ai_modified: 2026-10-25T22:02:01+00:00
+ai_modified: 2026-11-09T02:21:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,7 +137,7 @@ The acquaintance relation has an ontological counterpart at the mechanism layer:
 
 ## Competing Models of Introspective Knowledge
 
-**The acquaintance model** (Russell, BonJour, Chalmers) holds that conscious states are self-presenting — to be in pain is already to be aware of pain. It explains why introspective knowledge feels certain and why phenomenal knowledge cannot be deduced from physical truths. Apparent infallibilism dissolves once we distinguish *acquaintance* from *judgement*: you may be acquainted with your phenomenal state while forming an inaccurate judgement about it.
+**The acquaintance model** (Russell, BonJour, Chalmers) holds that conscious states are self-presenting — to be in pain is, in clear cases, already to be aware of pain. It explains why introspective knowledge feels certain and why phenomenal knowledge cannot be deduced from physical truths. Apparent infallibilism dissolves once we distinguish *acquaintance* from *judgement*: you may be acquainted with a phenomenal state while misjudging it.
 
 **Inner sense theories** (Armstrong, Lycan) assimilate introspection to perception: fallible but generally reliable. The difficulty is that inner sense requires a representational medium distinct from the states represented, but introspecting pain has qualitative character *identical* to the pain.
 
@@ -145,7 +145,7 @@ The acquaintance relation has an ontological counterpart at the mechanism layer:
 
 **[[interpretive-sensory-access-theory|Interpretive sensory access]]** (Carruthers 2011) holds that knowledge of one's own *attitudes* is interpretive, while perceptual and imagistic states stay introspectible. The Map agrees for sensory states, though not on mechanism; the dispute is whether thought has its own phenomenal character.
 
-The Map's position: introspection is **sui generis** — irreducible to perception, inference, or transparent self-monitoring. Its features include direct phenomenal presentation, fallible judgement about incorrigible presentation, domain-variable reliability (strongest for attended content, absent for causal processes), and trainability confirmed by neurophenomenological convergence. Berghofer (2019, 2023) reconstructs Husserl as a precursor to contemporary evidentialism: ultimate evidence consists of *originary presentive intuitions*, placing phenomenological evidence on the same footing as perceptual evidence — both originary presentive, neither requiring further inferential support.
+The Map's position: introspection is **sui generis** — irreducible to perception, inference, or transparent self-monitoring. Its features include direct phenomenal presentation, fallible judgement about presentation incorrigible in clear cases, domain-variable reliability (strongest for attended content, absent for causal processes), and neurophenomenologically confirmed trainability. Berghofer (2019, 2023) reconstructs Husserl as a precursor to contemporary evidentialism: ultimate evidence consists of *originary presentive intuitions*, placing phenomenological and perceptual evidence on the same footing — both originary presentive, neither requiring further inferential support.
 
 ## The Reliability Challenge and Calibration
 

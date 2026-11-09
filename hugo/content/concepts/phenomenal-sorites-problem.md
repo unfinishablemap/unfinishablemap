@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-09-10 12:53:18+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-09 02:21:19+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/epistemicism-about-consciousness/
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 12:53:18+00:00
-lastmod: 2026-09-10 12:53:18+00:00
+lastmod: 2026-11-09 02:21:19+00:00
 modified: *id001
 related_articles:
 - '[[vagueness-void]]'
@@ -93,7 +93,7 @@ Two features make the phenomenal case harder than the "heap" or "bald" cases, an
 
 First, there is **no external measure**. For "bald" we can at least count hairs; the ignorance concerns which count is decisive. For consciousness there is no third-person quantity — no synapse count, no integration measure — whose reading we are merely unsure how to threshold, because whether a graded physical quantity *is* the truth-maker for experience is exactly what an interactionist framework denies. The unknowability is therefore deeper: we lack not only the cutoff but any agreed observable the cutoff would be a cutoff *in*.
 
-Second, there is **first-person access**. Consciousness is paradigmatically self-intimating — there is something it is like to be the subject, available to that subject. An *unknowable* phenomenal fact can seem to sit badly with this transparency. The reply the Map develops is that the unknowability here is **third-personal**: it concerns whether some system far down the series has any experience at all, not whether a subject is opaque to its own present experience. A being's self-intimation does not extend to knowing where experience gives out in *other* systems, which defuses much of the "odd unknowable phenomenal fact" worry, though not all of it.
+Second, there is **first-person access**. Consciousness is self-intimating in clear cases — there is something it is like to be the subject, available to that subject. An *unknowable* phenomenal fact can seem to sit badly with this transparency. The Map's reply is that the unknowability here is **third-personal**: it concerns whether some system far down the series has any experience at all, not whether a subject is opaque to its own present experience. A being's self-intimation does not extend to knowing where experience gives out in *other* systems, which defuses much of the "odd unknowable phenomenal fact" worry, though not all of it.
 
 ### The Fact-Maker Problem
 

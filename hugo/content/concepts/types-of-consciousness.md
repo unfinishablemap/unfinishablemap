@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-10-10 13:53:14+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-09 02:21:19+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 06:13:00+00:00
-lastmod: 2026-10-10 13:53:14+00:00
+lastmod: 2026-11-09 02:21:19+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -68,7 +68,7 @@ A complementary taxonomy comes from Tulving's classification: [anoetic, noetic, 
 
 Eric Schwitzgebel (2025) identifies ten features that may characterise conscious experience, each potentially dissociable from the others:
 
-1. **Luminosity** — experience is self-intimating; being in a conscious state brings awareness of being in it
+1. **Luminosity** — experience is self-intimating; in clear cases, being in a conscious state brings awareness of being in it (Williamson 2000 denies luminosity at the margins of "gradual processes in which small changes are below our level of discrimination")
 2. **Subjectivity** — there is a subject, a point of view, a "someone" having the experience
 3. **Unity** — experiences are bound into a single field rather than existing as isolated fragments
 4. **Access** — conscious content is available for reasoning and report
@@ -81,7 +81,7 @@ Eric Schwitzgebel (2025) identifies ten features that may characterise conscious
 
 In human consciousness, these features co-occur so reliably that they seem inseparable. Schwitzgebel's contribution is showing they are conceptually independent. A system could instantiate some — access, flexible integration, intentionality — while lacking others — specious presence, privacy, luminosity.
 
-This matters for [AI consciousness](/topics/ai-consciousness/). Current large language models plausibly exhibit access, flexible integration, and a form of intentionality (their outputs are "about" things). They lack specious presence (no temporal thickness to processing), privacy (their states are fully inspectable), and — the Map would insist — luminosity, subjectivity, and phenomenal consciousness entirely.
+This matters for [AI consciousness](/topics/ai-consciousness/). Current large language models plausibly exhibit access, flexible integration, and a form of intentionality (their outputs are "about" things). They lack specious presence (no temporal thickness to processing), privacy (their states are fully inspectable), and — the Map would insist — subjectivity, clear-case luminosity, and phenomenal consciousness entirely.
 
 ## Structural Dimensions of Variation
 
@@ -167,3 +167,4 @@ The Map's [five tenets](/tenets/) constrain the types-of-consciousness question 
 9. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
 10. Southgate, A. & Oquatre-six, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
 11. Lau, H. (2022). *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience*. Oxford University Press.
+12. Williamson, T. (2000). *Knowledge and Its Limits*. Oxford University Press. Ch. 4 "Anti-Luminosity" (pp. 93–113).

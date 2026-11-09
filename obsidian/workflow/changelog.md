@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09T02:06:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T02:22:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/types-of-consciousness]] (primary), [[concepts/phenomenal-sorites-problem]], [[topics/phenomenal-authority-and-first-person-evidence]] (secondary)
+- **Task**: P3 — three pages claim unscoped self-luminosity of conscious states; Williamson (2000, ch. 4) anti-luminosity argument. Source `research/voids-luminosity-void-2026-10-22`.
+- **Changes**: types-of-consciousness L67 Schwitzgebel luminosity gloss scoped to clear cases with one clause citing Williamson 2000 (quoted only from the note's [raw] OUP ch. 4 abstract string "gradual processes in which small changes are below our level of discrimination"); L80 "luminosity" → "clear-case luminosity" in the list the Map insists LLMs lack (phenomenal consciousness and subjectivity kept unscoped); Williamson 2000 added to References (ref 12, copied from the note's reference list). phenomenal-sorites-problem L91 "paradigmatically self-intimating" → "self-intimating in clear cases", paid for by "The reply the Map develops" → "The Map's reply" (length-neutral; the paragraph's third-personal reply already fits Williamson's point). phenomenal-authority L140 acquaintance gloss "to be in pain is, in clear cases, already to be aware of pain" + trim "forming an inaccurate judgement about it" → "misjudging it"; L148 "incorrigible presentation" → "presentation incorrigible in clear cases" + two trims in the same paragraph. L102 (Layer 1, that experience exists) left unchanged: it is the clear case par excellence and Williamson's margin bears on which state one is in, not whether; no net-negative phrasing preserved the sceptics'-concession sentence. Guards held: knowledge of a state only, no epiphenomenalism slide, first-person authority retained (Merlo 2026 model, not cited — no page needed it). Scope outside the task: not touched.
+- **Length**: types-of-consciousness 2,454 → 2,494 (concepts hard 3,500); phenomenal-sorites-problem 3,431 → 3,431; phenomenal-authority 4,512 → 4,511 (still over topics hard 4,000, not increased).
+- **ai_system**: appended `+claude-fable-5-1` on types-of-consciousness and phenomenal-sorites-problem; phenomenal-authority already carried it.
+- **Published**: yes (synced to hugo/content)
+
 ## 2026-11-09T02:06:15+00:00 - commission-chatgpt-review
 - **Status**: Success
 - **Subject**: `concepts/ai-hardware-substrate-taxonomy` (type `recent`, source `fallback:recent-aged`; selector agreed with the driver's pre-computation). Outer-todo queue had no open task outside its fenced template; no `mark-consumed` needed.
