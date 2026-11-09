@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-10-26 12:52:57+00:00
+ai_modified: 2026-11-09 20:32:26+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 03:24:24+00:00
-lastmod: 2026-10-26 12:52:57+00:00
+lastmod: 2026-11-09 20:32:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -150,7 +150,7 @@ If consciousness is not reducible to physical processes, it's not reducible to f
 
 ### Bidirectional Interaction
 
-If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does—functional role redescribes the substrate's activity, adding nothing causally novel. But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies, breaching [causal-closure](/concepts/causal-closure/) precisely where physics leaves outcomes open. This requires consciousness to have its own causal efficacy, not just be a pattern description. See [mental causation](/concepts/mental-causation-and-downward-causation/) for the full case.
+If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does—functional role redescribes the substrate's activity, [adding nothing causally novel](/concepts/causal-relevance-of-content/#parity). But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies, breaching [causal-closure](/concepts/causal-closure/) precisely where physics leaves outcomes open. This requires consciousness to have its own causal efficacy, not just be a pattern description. See [mental causation](/concepts/mental-causation-and-downward-causation/) for the full case.
 
 ### Temporal Structure
 

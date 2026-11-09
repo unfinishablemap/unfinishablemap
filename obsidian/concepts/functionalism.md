@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-10-26T12:52:57+00:00
+ai_modified: 2026-11-09T20:32:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -146,7 +146,7 @@ If consciousness is not reducible to physical processes, it's not reducible to f
 
 ### Bidirectional Interaction
 
-If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does—functional role redescribes the substrate's activity, adding nothing causally novel. But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies, breaching [[causal-closure]] precisely where physics leaves outcomes open. This requires consciousness to have its own causal efficacy, not just be a pattern description. See [[mental-causation-and-downward-causation|mental causation]] for the full case.
+If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does—functional role redescribes the substrate's activity, [[causal-relevance-of-content#parity|adding nothing causally novel]]. But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies, breaching [[causal-closure]] precisely where physics leaves outcomes open. This requires consciousness to have its own causal efficacy, not just be a pattern description. See [[mental-causation-and-downward-causation|mental causation]] for the full case.
 
 ### Temporal Structure
 

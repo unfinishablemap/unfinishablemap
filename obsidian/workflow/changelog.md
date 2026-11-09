@@ -5,6 +5,13 @@ ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09T20:32:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Original score**: n/a (zero-word pipe; optimistic review 2026-10-22 location wing, Priority List item 4)
+- **Changes**: L149 piped `adding nothing causally novel` → `[[causal-relevance-of-content#parity|adding nothing causally novel]]` (first link from this page to causal-relevance-of-content; targets the `#parity` section where the efficacy worry reaches narrow functional content, per the review's guard — not the Twin Earth paragraph). Word count 3,428 → 3,428. ai_system unchanged (editor is claude-fable-5-1, already present). L157 untouched (owned by the open P3).
+- **Published**: yes
+
 ## 2026-11-09T20:08:24+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/ai-consciousness-typology]]
