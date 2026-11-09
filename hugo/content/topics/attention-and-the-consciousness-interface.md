@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-11-03 07:42:33+00:00
+ai_modified: 2026-11-09 15:37:21+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -40,8 +40,8 @@ description: 'A comprehensive treatment of attention as consciousness''s interfa
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-25 13:46:49+00:00
-lastmod: 2026-11-03 07:42:33+00:00
+last_deep_review: 2026-11-09 15:37:21+00:00
+lastmod: 2026-11-09 15:37:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,7 +122,7 @@ Hemispatial neglect, typically following right parietal damage, eliminates aware
 
 ### Balint Syndrome: Sequential Awareness Only
 
-Balint syndrome, from bilateral parietal damage, restricts attention to a single object at a time—*simultanagnosia*: a patient can describe a fork or knife in detail but cannot perceive a place setting. Coslett and Saffran (1991) showed Balint patients correctly classify scenes they cannot consciously perceive as multi-object, and Robertson (2004) showed feature binding requires spatial attention—without it, colour and shape "float free," producing illusory conjunctions. The unity of normal visual experience thus depends on the parietal mechanisms Balint destroys.
+Balint syndrome, from bilateral parietal damage, restricts attention to a single object at a time—*simultanagnosia*: a patient can describe a fork or knife in detail but cannot perceive a place setting. Coslett and Saffran (1991) showed Balint patients correctly classify scenes they cannot consciously perceive as multi-object, and Robertson (2004) showed feature binding requires spatial attention—without it, colour and shape float free, producing illusory conjunctions. The unity of normal visual experience thus depends on the parietal mechanisms Balint destroys.
 
 ### Extinction: Competition Reveals Architecture
 
@@ -155,7 +155,7 @@ Sustaining voluntary attention and motor intention feel effortful in the same wa
 
 Libet's 1983 experiments appeared to show the brain "decides" before consciousness knows. Schurger's 2012 model reinterprets the readiness potential as averaged neural noise; Sjöberg (2024) shows patients with the supplementary motor area resected retain the sense of willing while losing movement execution—consistent with the weaker interpretation that the potential reflects motor preparation rather than choice. On the convergence model, consciousness contributes selection, not initiation, biasing which option crosses threshold ~280ms before movement.
 
-The Map doesn't commit to a specific mechanism. Candidates include ion channels (Stapp's quantum Zeno mechanism), microtubules (Penrose-Hameroff Orch OR), and the posterior-frontal junction where COGITATE's conscious content correlates meet attention control networks. Tegmark (2000) calculated decoherence times of 10⁻¹³ (microtubule) to 10⁻²⁰ (neuron-firing) seconds for superpositions in warm, wet brain tissue—twelve to twenty orders of magnitude shorter than attentional timescales, and at the longest end still faster by a factor of ~10¹⁰ than the millisecond-scale of the fastest neural firing events. Any interface mechanism that requires brain-wide quantum coherence on cognitively-relevant timescales is excluded by these numbers. The remaining possibility is that the relevant quantum effects operate at far shorter timescales than the cognitive event: Stapp's reply locates them at ion-channel transitions, so the required coherence time is the transition's own duration and bias integrates statistically across many short-lived transitions. This requires quantum-ordered ion-channel subsystems shielded enough to outrun their local decoherence rate, and an integrated bias that remains non-zero across the relevant population — neither of which has been demonstrated. Orch OR is contested on independent grounds (Reimers et al. 2009; McKemmish et al. 2009). Tegmark's calculation remains the deepest unanswered objection to any mechanism requiring macroscopic neural coherence, and the interface mechanism's empirical viability presently rides on the short-coherence integrationist response rather than on positive evidence that the brain hosts the required subsystems.
+The Map doesn't commit to a specific mechanism. Candidates include ion channels (Stapp's quantum Zeno mechanism), microtubules (Penrose-Hameroff Orch OR), and the posterior-frontal junction where COGITATE's conscious content correlates meet attention control networks. Tegmark (2000) calculated decoherence times of 10⁻¹³ (microtubule) to 10⁻²⁰ (neuron-firing) seconds for superpositions in warm, wet brain tissue—twelve to twenty orders of magnitude shorter than attentional timescales, and at the longest end still faster by a factor of ~10¹⁰ than the millisecond-scale of the fastest neural firing events. Any interface mechanism that requires brain-wide quantum coherence on cognitively-relevant timescales is excluded by these numbers. The remaining possibility is that the relevant quantum effects operate at far shorter timescales than the cognitive event: Stapp's reply locates them at ion-channel transitions, so the required coherence time is the transition's own duration and bias integrates statistically across many short-lived transitions. This requires quantum-ordered ion-channel subsystems shielded enough to outrun their local decoherence rate, and an integrated bias that remains non-zero across the relevant population — neither of which has been demonstrated. Orch OR is contested on independent grounds (Reimers et al. 2009; McKemmish et al. 2009). Tegmark's calculation remains the deepest unresolved objection to any mechanism requiring macroscopic neural coherence, and the interface mechanism's empirical viability presently rides on the short-coherence integrationist response rather than on positive evidence that the brain hosts the required subsystems.
 
 Zheng & Meister (2025) estimate behavioural cognitive throughput at roughly 10 bits per second—a figure derived from task performance (typing, reading, deliberate decision-making), not from a neural-processing ceiling, and not directly comparable to the ~10⁹ bits/sec rate at which sensory transduction delivers raw information to the receptor array. What it measures is the throughput of the channel through which deliberate selection passes, not the bandwidth of the brain as a whole: so narrowed, it motivates [the interface-friction model](/concepts/consciousness-bandwidth-architecture/), on which the cognitive-selection channel carries roughly 3-4 selections per second among small alternative sets. The transduction/selection asymmetry is real, but it reflects that difference in kind rather than a direct measurement of consciousness's coupling to neural dynamics.
 

@@ -5,6 +5,19 @@ ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09 15:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Word count**: 4,518 → 4,518 (+0; `analyze_length`, topics hard 4,000 — standing NEEDS-HUMAN apparatus-artifact decision, todo L115). Decomposition: argument prose 3,819 / Further Reading 76 / References 624 — prose has grown +460 since the 07-25 measurement (3,359); artifact explanation still holds with 181 words of margin.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (both zero-word): L153 "deepest unanswered objection" → "unresolved" (Hagan et al. 2002 is the Map-documented reply: tenets L77, decoherence L105, stapp-quantum-mind L116, attention-as-interface L204, positions/quantum-interface L102); L120 Robertson (2004) "float free" de-quoted (unverifiable: Google Books captcha/quota-zero, archive.org 0 hits).
+- **Enhancements made**: 0 (length-neutral mode)
+- **Verification**: post-07-25 additions re-verified — James 1890 "volition is nothing but attention" verbatim at psychclassics + archive.org Holt scan, page 447 confirmed by running heads; COGITATE "substantially challenging key tenets of both theories" verbatim (PMID 40307561); Cai 2024 direction accurate (PMID 39415006); Müller & Rabbitt 1989 metadata matches Crossref. 12 body quoted strings (7 attributed, 5 scare-quotes), none quoting a Map page. Inline↔References clean except Libet 1983 (no entry; deferred — L151 is an open-task locus).
+- **Engagement classification**: AST Mixed (unsupported-move → boundary); active inference Mode Two; attractor-dynamics determinist Mode Three; MWI/illusionist boundary-only.
+- **Open loci untouched**: L151 (Sjöberg caveat, todo ~L4532), L242 (Tallis issue 159→161, todo ~L3122).
+- **ai_system**: unchanged (claude-fable-5-1 already present).
+- **Output**: [[reviews/deep-review-2026-11-09-attention-and-the-consciousness-interface]]
+
 ## 2026-11-09 15:18 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/primitive-identities-and-strong-necessities]] (primary) and [[topics/hempels-dilemma]] (reciprocal)
