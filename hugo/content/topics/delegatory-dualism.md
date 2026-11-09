@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-09-25 22:16:18+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-11-09 23:06:15+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 01:06:51+00:00
-lastmod: 2026-09-25 22:16:18+00:00
+lastmod: 2026-11-09 23:06:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,31 +86,11 @@ Saad observes that existing dualist theories satisfy only some constraints. Epip
 
 ## Saad's Two Laws
 
-Delegatory dualism works through two laws that together define [causal delegation](/concepts/delegatory-causation/):
-
-### The Subset Law*
-
-A psychophysical law assigns experiences to physical states based on *causal profile matching*:
-
-> **Subset Law***: "If the causal profile of an experiential property E is a subset of the **default causal profile** of a physical property P, then whatever has P also has E." (Saad 2025)
-
-The "default" qualifier is crucial. A physical state's *default* causal profile is the pattern of effects it would produce in the absence of any experience taking over—what the state would cause if delegation didn't occur. This baseline is inherently counterfactual: wherever experience is present, delegation is already occurring, so the default profile is never directly observed. Saad's Organizational Invariance constraint offers indirect access—a functional duplicate without experience (a philosophical zombie) would exhibit the default profile—though this presupposes that such zombies are metaphysically possible, itself a contested claim. Despite this counterfactual character, the default baseline enables the delegation mechanism: experiences can preempt the default contributions without creating overdetermination, because the physical state's default role is displaced rather than duplicated.
+Delegatory dualism works through two laws; Saad's verbatim formulations are given in [the full statement](/concepts/delegatory-causation/#saads-two-laws) on the [causal delegation](/concepts/delegatory-causation/) page. The **Subset Law*** is a psychophysical law of causal-profile matching: when an experiential property's causal profile is a subset of a physical property's *default* causal profile, whatever has the physical property also has the experience. The **Delegatory Law** then says the instantiated experience's profile preempts the matching subset of the physical state's default profile, so the state delegates that causal work rather than duplicating it (Saad 2025). A state's default profile is what it would cause absent any experience taking over; since delegation is already occurring wherever experience is present, that baseline is never directly observed, and Saad's Organizational Invariance constraint offers only indirect access through a functional duplicate without experience—a zombie the constraint bars nomologically, leaving its metaphysical possibility a contested claim.
 
 This has a candour cost worth stating plainly. The default causal profile is the load-bearing primitive of the whole theory, yet its only access route—the zombie functional-duplicate—depends on a contested metaphysical possibility, and the profile is in principle never directly observed wherever the theory applies. The Subset Law* is therefore best read as a *postulate* of the framework rather than an independently-motivated law: the assumption that does the explanatory work, not a generalisation read off antecedently-available evidence. It earns its keep by the coherence it buys, not by independent observation of the entity it quantifies over.
 
-Causal profiles are defined functionally. A physical brain state has a default causal profile: it *would* cause wincing, withdrawal, and attention-shifting. Pain has a causal profile too—it causes wincing, withdrawal, attention-shifting. When pain's profile is a subset of the physical state's default profile, pain is instantiated and takes over those causal responsibilities.
-
 One standing gap deserves flagging here rather than resolution. The "subset" relation presupposes that the experiential profile and the physical profile are individuated at a shared grain, and that the folk relatum—"pain"—is determinate enough to bear a single causal profile. An eliminativist (after Churchland) would object that "pain" decomposes into a dozen dissociable nociceptive-affective-motor processes with no clean folk counterpart, so it is left open *which* experiential property is the subset-bearer. The formalism inherits the determinacy of its folk relata, and that determinacy is contested. The Map does not resolve this here; it is recorded as an open question the framework owes work on.
-
-### The Delegatory Law
-
-The central mechanism: when an experience is instantiated via profile-matching, the experience *[preempts](/concepts/delegatory-causation/)* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
-
-> **Delegatory Law**: "Whenever a subject instantiates an experiential property E and a physical property P such that E's causal profile is a subset of P's default causal profile, E's causal profile preempts the corresponding subset of P's default causal profile." (Saad 2025)
-
-Saad's analogy, a version of [Schaffer's trumping case](/concepts/trumping-preemption/): a major and a sergeant both shout "Charge!" at one corporal. The major's order preempts the sergeant's—the corporal charges because the major commanded, not because two commands overdetermine the same outcome. The sergeant's order is rendered causally idle, not duplicated.
-
-Similarly: when you experience pain, your brain state delegates its "cause wincing" responsibility to the pain itself. Pain causes the wince. The physical state could have caused it but didn't—its causal role was taken over by the experience it enabled.
 
 ## Why Delegation Avoids Overdetermination
 
@@ -120,7 +100,7 @@ Delegation is different. The physical state is not a *concurrent* cause—it's a
 
 This parallels preemption in ordinary causation. If assassin A shoots the target a moment before assassin B's bullet arrives, A causes the death even though B's bullet would have sufficed. B's shot is preempted, not overdetermining.
 
-However, both analogies—the major/sergeant and the two assassins—involve causes of the *same ontological type*: two physical events within a single causal order. Delegatory dualism claims something stronger: that a non-physical experience preempts a physical state across ontological boundaries. The analogies illustrate the *structure* of preemption (one cause displaces another), but the *mechanism* of cross-ontological preemption is a distinctive claim that the analogies do not themselves justify. Saad acknowledges this: the general interaction problem (how non-physical causes affect physical systems) is shared by all interactionist views, not solved by delegation. Delegation addresses whether mental causation entails overdetermination; the metaphysics of cross-type causation remains an open question for dualism generally.
+However, such analogies—the two assassins, or [Schaffer's trumping case](/concepts/trumping-preemption/) of a major's "Charge!" overriding a sergeant's—involve causes of the *same ontological type*: two physical events within a single causal order. Delegatory dualism claims something stronger: that a non-physical experience preempts a physical state across ontological boundaries. The analogies illustrate the *structure* of preemption (one cause displaces another), but the *mechanism* of cross-ontological preemption is a distinctive claim that the analogies do not themselves justify. Saad acknowledges this: the general interaction problem (how non-physical causes affect physical systems) is shared by all interactionist views, not solved by delegation. Delegation addresses whether mental causation entails overdetermination; the metaphysics of cross-type causation remains an open question for dualism generally.
 
 ## Observational Closure Without Universal Closure
 

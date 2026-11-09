@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-09 21:40:47+00:00
+ai_modified: 2026-11-09 23:06:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-09'
-lastmod: 2026-11-09 21:40:47+00:00
+lastmod: 2026-11-09 23:06:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-09T23:06:15+00:00 - condense
+- **Status**: Success
+- **File**: [delegatory-dualism](/topics/delegatory-dualism/)
+- **Before**: 3976 words (prose 3689 / Further Reading 208 / References 80)
+- **After**: 3734 words (prose 3447 / Further Reading 208 / References 80)
+- **Reduction**: 6%
+- **Technique**: Deduplicated the `## Saad's Two Laws` exposition by cross-reference (todo L1733). The section (599 → 349 words) now carries a one-paragraph prose statement of the Subset Law* and the Delegatory Law attributed to Saad (2025) and links `[[delegatory-causation#Saad's Two Laws|the full statement]]` (anchor `saads-two-laws`), where both law quotations remain verbatim (count 1 each). Cut: the section intro, the Subset/Delegatory subheadings (no inbound anchors target them), both block quotations, the functional-profile illustration, the "Charge!" analogy paragraph and the pain-delegation illustration. Kept verbatim: the two topic-only calibration paragraphs from the 2026-05-26 pass (the "postulate" candour-cost paragraph and the Churchland determinacy gap); RULE (1) carry to the concept page not attempted (4 words of headroom there; concept-page exposition untouched). In passing, the compressed default-profile sentence now uses the concept page's corrected zombie wording (barred nomologically; metaphysical possibility contested), and the stranded "both analogies—the major/sergeant and the two assassins" sentence in Why Delegation Avoids Overdetermination now credits the major/sergeant case to Schaffer's trumping case rather than to Saad (discharges loci (1) and (2) of todo L2107; locus (3) untouched).
 
 ## 2026-11-09T22:27:01+00:00 - deep-review
 - **Status**: Success
