@@ -4,7 +4,7 @@ description: "A human-AI examination of content externalism: how Twin Earth pres
 created: 2026-07-13
 modified: 2026-11-03
 human_modified:
-ai_modified: 2026-11-03T19:54:32+00:00
+ai_modified: 2026-11-09T17:17:38+00:00
 draft: false
 topics: [the-naturalisation-failure-for-content]
 concepts: [intentionality, teleosemantics, functionalism]
@@ -35,7 +35,7 @@ Dretske (1995) presses externalism as far as it will go. His Representational Th
 
 The transfer is exactly what many resist. Kim's reply to Dretske (Kim 1996), and the broader internalist tradition, hold that extending externalism to phenomenal character is far more demanding than extending it to reference: "what a state represents" need not exhaust "what it is like" to be in that state. Farkas (2008) defends an uncompromising internalism grounded in first-person access — the defining features of a mental state are phenomenally available to the subject, and a theory of intentionality needs only intrinsic, narrow, phenomenally-constituted directedness ("phenomenal intentionality"). Farkas charges externalism with making mental states opaque to introspection and violating first-person authority. Related work in the phenomenal-intentionality tradition (Loar; Horgan and Tienson; Kriegel) treats phenomenal intentionality as basic and narrow, with wide content derivative.
 
-So there are three positions worth separating. Externalism about intentional content (Putnam, Burge): well-supported, materialist in provenance. Phenomenal externalism (Dretske, and representationalists such as Lycan and Tye): the bolder extension of the same argument to qualia. Internalism about the phenomenal (Kim's worry, Farkas): the resistance to that extension. The Map sits at a specific point among these, described next.
+So there are three positions worth separating. Externalism about intentional content (Putnam, Burge): well-supported, materialist in provenance. Phenomenal externalism (Dretske, and representationalists such as Lycan and Tye): the bolder extension of the same argument to qualia. Internalism about the phenomenal (Kim's worry, Farkas): the resistance to that extension. Relationalism (naive realism) stands outside this triad: it makes the objects of a veridical experience partly constitute its phenomenal character, by relation rather than representation. The Map answers it separately, as a rival ([[naturalist-relationalism]]); one defender, John Campbell, also holds that conscious attention gives knowledge of demonstrative reference ([[singular-thought-and-acquaintance#demonstratives|singular thought]]). The Map sits at a specific point among these, described next.
 
 ## Relation to Site Perspective
 

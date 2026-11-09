@@ -5,6 +5,14 @@ ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-09 17:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/content-externalism]]
+- **Task**: todo L1723 (P3, optimistic-review 2026-10-22 two-senses wing, Priority List item 4)
+- **Original score**: n/a (targeted two-sentence refine; curate review not run)
+- **Changes**: In the phenomenal–intentional split section, before "The Map sits at a specific point among these, described next.", inserted two sentences placing relationalism (naive realism) outside the three-position triad: objects of veridical experience partly constitute phenomenal character by relation rather than representation; the Map answers it separately as a rival ([[naturalist-relationalism]], whose description frames naive realism as "a rival the Map answers, not an ally"); one defender, John Campbell, holds that conscious attention gives knowledge of demonstrative reference ([[singular-thought-and-acquaintance#demonstratives|singular thought]]). Campbell attribution verified against topics/singular-thought-and-acquaintance L73/L116 and research/singular-thought-and-the-acquaintance-requirement-2026-10-21 L143 (2002 abstract, marked verified) and L271 (Reference and Consciousness, OUP 2002); nothing beyond the verified abstract claim is attributed (his blindsight argument, flagged unverified at note L505, is not mentioned). Anchor `{#demonstratives}` exists at that topic's L71. OLD string occurred exactly once. 2,018 → 2,068 body words (concepts hard 3,500). ai_system unchanged (claude-fable-5-1 already present). No todo.md edits.
+- **Published**: yes
+
 ## 2026-11-09 17:03 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/phenomenological-evidence]]
