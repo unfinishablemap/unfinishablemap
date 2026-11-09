@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09 05:32:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-09T05:56:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ai-hardware-substrate-taxonomy]]
+- **Task**: todo P1 (convergent C1, outer-review-synthesis-2026-11-09) — Maley (2024) misattribution
+- **Original score**: n/a (targeted source-fidelity fix; `scripts/curate.py` absent)
+- **Changes**: L45: replaced the fabricated Maley sentence ("exact spike timing, synapse geometry, field frequencies" — 0 hits in the Wiley full text) with what Maley argues: analog is not equivalent to continuous (§1 "it is not necessarily so"), analog computation turns on the mirroring conception of representation (§2.1 "we must use the mirroring conception"), neural analog computation is an open empirical question (§5 "perhaps the firing rate of a neuron … or perhaps not"); transition reworded to "Continuity nonetheless bears on" so the Map's continuity interest is marked as the Map's own, not Maley's. L84: re-pointed the false "exactly the continuity Maley (2024) identifies as functionally relevant in brains" to his §4.2 claim (analog mechanisms "not medium-independent in the way that algorithms are"). L49 demotion untouched (Gemini guard). L100 untouched (owned by L5151 task); note the new L84 clause mildly tensions L100 "the same program runs on all of them", which Maley §4.2 asserts of digital computers only. Reference entry unchanged (correct). Research note `research/ai-hardware-substrate-taxonomy-2026-06-25` L60 repeats the fabricated examples — reported for a P3, not edited.
+- **Length**: analyze_length 3,478 → 3,477 (hard gate 3,500)
+- **Model**: claude-fable-5-1 (already in ai_system; unchanged)
+- **Published**: yes (synced to hugo/)
+
 ## 2026-11-09T05:32:02+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-11-09
