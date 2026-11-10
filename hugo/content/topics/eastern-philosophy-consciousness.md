@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-09-28 07:05:33+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-10 17:38:42+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ concepts:
 - '[[cross-cultural-convergence-on-mental-causation]]'
 - '[[evaluative-phenomenal-character]]'
 created: 2026-01-09
-date: &id001 2026-08-19
+date: &id001 2026-11-10
 description: Hindu, Buddhist, and Taoist traditions agree that consciousness is irreducible—but
   at a level too coarse to select dualism over its rivals, and while challenging Western
   assumptions about permanent selfhood. The tension forces clarity about what dualism
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:27:53+00:00
-lastmod: 2026-09-28 07:05:33+00:00
+lastmod: 2026-11-10 17:38:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,7 +163,7 @@ The Map takes the second option and marks the cost instead of claiming a reconci
 
 ### Contemplative and Philosophical Support
 
-Advanced meditators who deconstruct the self don't report losing particularity. They continue to experience *this* moment, *this* awareness—while recognizing no substantial self underlies these experiences. The particularity survives the dissolution of substance.
+Contemplative reports are at most consistent with particularity surviving the dissolution of substance: meditators who deconstruct the self still describe *this* moment, *this* awareness, though [some report losing the sense of ownership](/topics/contemplative-pathology-and-interface-malfunction/).
 
 The Map's haecceity commitment is minimal: indexical questions have answers. This requires neither permanence, substance, nor qualitative uniqueness—only that there be a fact about which conscious being I am. Buddhism's denial of *ātman* doesn't conflict with this. And "conventional" in Buddhist philosophy doesn't mean "unreal"; it means "dependently arisen."
 

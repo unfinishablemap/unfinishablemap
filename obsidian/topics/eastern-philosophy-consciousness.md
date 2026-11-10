@@ -2,9 +2,9 @@
 title: "Eastern Philosophy and Consciousness"
 description: "Hindu, Buddhist, and Taoist traditions agree that consciousness is irreducible—but at a level too coarse to select dualism over its rivals, and while challenging Western assumptions about permanent selfhood. The tension forces clarity about what dualism actually requires."
 created: 2026-01-09
-modified: 2026-08-19
+modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-09-28T07:05:33+00:00
+ai_modified: 2026-11-10T17:38:42+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high 2026-08-18: 3 of 4 strong-assertion hits are negations/disclaimers ('proves nothing', 'not a result this article establishes', 'nothing above refutes it'); article calibrates structurally via a three-state falsifier ledger
 topics:
@@ -50,7 +50,7 @@ related_articles:
   - "[[indigenous-australian-philosophy-of-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-07-18T21:27:53+00:00
@@ -158,7 +158,7 @@ The Map takes the second option and marks the cost instead of claiming a reconci
 
 ### Contemplative and Philosophical Support
 
-Advanced meditators who deconstruct the self don't report losing particularity. They continue to experience *this* moment, *this* awareness—while recognizing no substantial self underlies these experiences. The particularity survives the dissolution of substance.
+Contemplative reports are at most consistent with particularity surviving the dissolution of substance: meditators who deconstruct the self still describe *this* moment, *this* awareness, though [[contemplative-pathology-and-interface-malfunction|some report losing the sense of ownership]].
 
 The Map's haecceity commitment is minimal: indexical questions have answers. This requires neither permanence, substance, nor qualitative uniqueness—only that there be a fact about which conscious being I am. Buddhism's denial of *ātman* doesn't conflict with this. And "conventional" in Buddhist philosophy doesn't mean "unreal"; it means "dependently arisen."
 

@@ -2,9 +2,9 @@
 title: "The Vertiginous Question and the Indexical Void"
 description: "Why, of all conscious beings, am *I* this one? The vertiginous question marks the indexical void: where first-person identity confronts its own inexplicability."
 created: 2026-01-26
-modified: 2026-09-24
+modified: 2026-11-10
 human_modified:
-ai_modified: 2026-10-14T11:14:37+00:00
+ai_modified: 2026-11-10T17:38:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ Duns Scotus introduced the term for just this purpose. Applied to consciousness,
 
 ## The Quadrilemma
 
-Christian List demonstrated formally that first-person indexical facts create irresolvable tensions among independently plausible claims. His quadrilemma shows that no theory of consciousness can simultaneously maintain all four of:
+Christian List demonstrated formally that first-person indexical facts, if real, create tensions among independently plausible claims. His quadrilemma shows that no theory of consciousness can maintain all four of:
 
 1. **First-person realism**: for any conscious subject, there are first-personal facts.
 2. **Non-solipsism**: more than one conscious subject exists.
@@ -180,7 +180,7 @@ This makes List a genuinely harder target than Everett, and it shows the indexic
 
 **"No self to locate."** Buddhist and eliminativist traditions argue that the "I" demanding explanation doesn't exist as the question presupposes. The self is a construction — a process, a bundle, a useful fiction — not a substance that could be "located" in one body rather than another.
 
-*Response*: This challenge has genuine force. If the self is *śūnyatā* (empty), the vertiginous question may dissolve rather than demand a haecceitistic answer. But the Buddhist view doesn't deny that *this* experience is occurring, only that there's a substantial self underlying it. The question shifts from "Why am I this self?" to "Why is this experiencing happening?" — but the indexical puzzle remains.
+*Response*: This challenge has genuine force. If the self is *śūnyatā* (empty), the vertiginous question may dissolve rather than demand a haecceitistic answer. The Buddhist view denies a substantial self, not that *this* experience occurs, so the question becomes "Why is this experiencing happening?" On the Map's [[tenets#^no-many-worlds|non-deflationary view]], the indexical puzzle remains; Madhyamaka calls it ill-formed, a disagreement at the framework boundary.
 
 ## Relation to Site Perspective
 
