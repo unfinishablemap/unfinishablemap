@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-11-08 19:18:57+00:00
+ai_modified: 2026-11-10 14:35:57+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ concepts:
 - '[[introspection]]'
 - '[[phenomenology]]'
 created: 2026-01-19
-date: &id001 2026-10-23
+date: &id001 2026-11-10
 description: Emotional consciousness provides the strongest empirical case for dualism.
   Valence—the felt quality of good and bad—is irreducible and presses on epiphenomenalism,
   though it binds bare correlation, not the phenomenal-concept version.
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 19:20:41+00:00
-lastmod: 2026-11-08 19:18:57+00:00
+lastmod: 2026-11-10 14:35:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,11 +80,11 @@ The [explanatory-gap](/concepts/explanatory-gap/) for valence is particularly st
 
 **The evaluativist account** (Carruthers 2018) argues valence is a nonconceptual representation of value. When afraid, attention is directed outward at the threat—the bear's claws seem dangerous, not an inner feeling of badness. Valence represents goodness or badness in the world, not an intrinsic property of the experience.
 
-Pain asymbolia cases reveal which account is correct. Patients with damage to specific brain regions can represent tissue damage (they know their hand is burned) without feeling the badness. They report the pain exists but doesn't bother them. If valence were merely representation of value, asymbolics should still experience the negative quality—they retain the capacity to represent tissue damage as harmful. An evaluativist might respond that asymbolia disrupts the representational mechanism itself, but this concedes the point: whatever is disrupted is the felt badness, not the informational content about harm. Valence is an intrinsic property separate from representational content.
+Pain asymbolia narrows the dispute without settling it. Patients with damage to specific brain regions can represent tissue damage (they know their hand is burned) without feeling the badness. They report the pain exists but doesn't bother them. The dissociation rules out identifying the badness with damage detection. Evaluativists predict the same case: on their view asymbolics no longer represent the damage as bad for them, and Bain (2014) locates the missing component of their pain in evaluative content. The hedonic account's case rests on other ground, set out in [valence](/concepts/valence/).
 
 ## The Pain Asymbolia Argument
 
-Pain asymbolia does more than settle the hedonic-evaluativist debate. On the Map's reading it provides the strongest empirical case for dualism, by bearing on the causal standing of phenomenal properties and not only on their reducibility.
+Pain asymbolia matters beyond the hedonic-evaluativist debate. On the Map's reading it provides the strongest empirical case for dualism, by bearing on the causal standing of phenomenal properties and not only on their reducibility.
 
 The dissociation presses hard against functionalism. The representation exists—patients accurately represent tissue damage. The sensory-discriminative machinery operates—nociceptive signals reach the brain and the stimulus is localised. The felt quality is absent—despite intact representation and intact discrimination, the intrinsic badness is gone, and with it the affective-motivational drive. And motivation collapses—without the felt quality, patients do not care enough to act.
 
@@ -205,6 +205,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 
 ## References
 
+1. Bain, D. (2014). Pains that don't hurt. *Australasian Journal of Philosophy*, 92(2), 305–320. https://doi.org/10.1080/00048402.2013.822399
 1. Barrett, L. F. (2017). *How Emotions Are Made: The Secret Life of the Brain*. Houghton Mifflin Harcourt.
 1. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*, ch. XVII, §1, footnote to ¶IV.
 1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.

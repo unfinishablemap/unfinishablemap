@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T14:16:11+00:00
+ai_modified: 2026-11-10T14:36:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T14:36:54+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/emotion-and-dualism]] AND [[apex/minds-without-words]]
+- **Task**: todo P2 (queue line 5249) — withdraw the claim that pain asymbolia "settles" the hedonic-evaluativist dispute / is "decisive against the evaluativist reduction". Evaluativists predict the same dissociation (Bain 2014), so the cases narrow the dispute without settling it. Replacement text from [[research/imperativism-and-evaluativism-about-pain-2026-11-10]] §Downstream items 1–2 (items 3–4 not touched); [[valence]] pointers checked against `concepts/valence` §Three Competing Accounts / "Where the Hedonic Account's Case Lies" (L55), which says both representational rivals predict the dissociation and puts the hedonic account's case with reasons and objectless moods
+- **Original score**: n/a (`scripts/curate.py` absent; targeted correction)
+- **Changes — topics/emotion-and-dualism**:
+  - L79 OLD "Pain asymbolia cases reveal which account is correct. … If valence were merely representation of value, asymbolics should still experience the negative quality—they retain the capacity to represent tissue damage as harmful. An evaluativist might respond … but this concedes the point: whatever is disrupted is the felt badness, not the informational content about harm. Valence is an intrinsic property separate from representational content." → NEW "Pain asymbolia narrows the dispute without settling it. Patients with damage to specific brain regions can represent tissue damage (they know their hand is burned) without feeling the badness. They report the pain exists but doesn't bother them. The dissociation rules out identifying the badness with damage detection. Evaluativists predict the same case: on their view asymbolics no longer represent the damage as bad for them, and Bain (2014) locates the missing component of their pain in evaluative content. The hedonic account's case rests on other ground, set out in [[valence]]." This is the research note's drafted NEW with two descriptive OLD sentences kept verbatim (the lesion clause and the "doesn't bother them" report), because the note's NEW alone was −25 words against a ±10 budget and neither sentence makes the withdrawn claim. Removed: the "retain the capacity to represent tissue damage as harmful" premise (Klein 2015 p. 498 contradicts it), the question-begging "concedes the point" reply, and the "intrinsic property separate from representational content" conclusion. No citation was dropped; the old paragraph had none. 99→91 words
+  - L83 OLD "Pain asymbolia does more than settle the hedonic-evaluativist debate." → NEW "Pain asymbolia matters beyond the hedonic-evaluativist debate."
+  - L85 checked, left standing: "The representation exists—patients accurately represent tissue damage … despite intact representation" names the damage representation only and does not assert that evaluative representation survives
+  - L107 / L212 not touched (owned by the open P3)
+- **Changes — apex/minds-without-words**:
+  - L111 OLD "**Pain asymbolia settles this specific dispute**" → NEW "**Pain asymbolia narrows this specific dispute**"
+  - L111 OLD "which is why asymbolia is decisive against the evaluativist reduction. It does *not* settle the separate Panksepp-LeDoux question" → NEW "which rules out identifying valence with damage detection, though evaluativists predict the same dissociation ([[valence]]). Asymbolia does *not* settle the separate Panksepp-LeDoux question". Pronoun fix: once "asymbolia" left the preceding sentence, "It" bound to "the dissociation", so "It" became "Asymbolia" (0 words); "separate" still reads correctly
+  - L137 OLD "Pain asymbolia constrains identity readings of valence by settling the hedonic-evaluativist dispute." → NEW "Pain asymbolia constrains identity readings of valence by ruling out valence's identity with damage detection."
+- **Sweep** (case-insensitive settl/decisiv/decides, both pages): no other sentence makes the withdrawn claim. Remaining apex hits L51 (convergent evidence generally), L83 (bee markers) and L141 (Gutfreund) concern other questions. The topic page's L157 "Is asymbolia conclusive?" concerns the functional-vs-phenomenal reading of the dissociation, not the hedonic-evaluativist question, and stands
+- **References added**: topics/emotion-and-dualism — Bain, D. (2014). Pains that don't hurt. *Australasian Journal of Philosophy*, 92(2), 305–320. https://doi.org/10.1080/00048402.2013.822399 (verbatim from concepts/valence L121; page previously cited no Bain; body cite ↔ reference paired). Apex: none (it cites [[valence]], not Bain)
+- **Length**: emotion-and-dualism 3,404 → 3,408 (topics hard 4,000); minds-without-words 4,141 → 4,149 (apex hard 5,000)
+- **Reasoning mode**: engagement with the evaluativist (Bain, Carruthers): Mode Three; the old L79 "concedes the point" reply passed off boundary-marking as an in-framework refutation by assuming the hedonic reading, and the new text says the case is predicted by both sides and points to [[valence]] for the hedonic account's actual support
+- **ai_system**: unchanged on both (claude-opus-5-5 already present)
+- **Published**: yes
 
 ## 2026-11-10T14:16:11+00:00 - expand-topic
 - **Status**: Success

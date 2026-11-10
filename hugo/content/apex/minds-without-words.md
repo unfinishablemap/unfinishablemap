@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-21 20:10:34+00:00
+ai_modified: 2026-11-10 14:36:07+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 apex_last_synthesis: 2026-05-19 21:00:00+00:00
 apex_sources:
@@ -23,7 +23,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[interface-threshold]]'
 created: 2026-01-31
-date: &id001 2026-01-31
+date: &id001 2026-11-10
 description: Non-linguistic consciousness from animals to simple organisms. The marker
   method, standing agnostic challenge, and constrain-vs-establish discipline structure
   the catalogue's evidential claims.
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:13:24+00:00
-lastmod: 2026-10-21 20:10:34+00:00
+lastmod: 2026-11-10 14:36:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,7 +112,7 @@ The Map's preference for the amplification reading is tenet-driven rather than f
 
 Perhaps nowhere is consciousness more vivid than in emotional experience. The badness of pain and the pleasure of joy possess an intrinsic felt quality that no functional description captures. Barrett and Russell's [core affect](/topics/emotion-and-dualism/) framework suggests this is not intermittent: consciousness carries valence at all times, blending pleasure-displeasure with arousal-deactivation. We are never affectively neutral.
 
-Why does pain feel *bad* rather than merely different? The hedonic account treats valence as an intrinsic qualitative property of experience — the badness is not *about* anything external but a property of the pain itself. The evaluativist account (Carruthers 2018) argues valence represents value in the world. **Pain asymbolia settles this specific dispute**: patients with damage to specific brain regions can represent tissue damage without feeling the badness. They report the pain exists but does not bother them; motivation collapses. The dissociation is between sensory and affective dimensions *within* cortical processing, which is why asymbolia is decisive against the evaluativist reduction. It does *not* settle the separate Panksepp-LeDoux question about subcortical phenomenal consciousness, where asymbolics' intact cortical higher-order representations make the case consistent with LeDoux rather than against him.
+Why does pain feel *bad* rather than merely different? The hedonic account treats valence as an intrinsic qualitative property of experience — the badness is not *about* anything external but a property of the pain itself. The evaluativist account (Carruthers 2018) argues valence represents value in the world. **Pain asymbolia narrows this specific dispute**: patients with damage to specific brain regions can represent tissue damage without feeling the badness. They report the pain exists but does not bother them; motivation collapses. The dissociation is between sensory and affective dimensions *within* cortical processing, which rules out identifying valence with damage detection, though evaluativists predict the same dissociation ([valence](/concepts/valence/)). Asymbolia does *not* settle the separate Panksepp-LeDoux question about subcortical phenomenal consciousness, where asymbolics' intact cortical higher-order representations make the case consistent with LeDoux rather than against him.
 
 Panksepp's affective neuroscience identifies seven primary emotional systems in ancient subcortical structures. His key evidence — decorticate rats still play and show distress, anencephalic infants show comparable facial-expression responses — Panksepp reads as "an evolutionary birthright" of subcortical phenomenal consciousness. Birch (2024) is careful here: he reads the same evidence as confirming *behavioural markers of pain-like states* without confirming *valenced experience*. LeDoux's rejoinder is that the responses are reflexive — neither rat nor anencephalic infant has the cortical higher-order representation he argues conscious feelings require. The honest verdict: subcortical valenced experience sits at *realistic possibility, contested*, with the anencephalic-infant evidence raising the prior against pure reflex but not refuting LeDoux's claim. *Some* form of phenomenal valence almost certainly extends well beyond humans; *how deep* into the phylogenetic tree remains genuinely open.
 
@@ -138,7 +138,7 @@ Whitehead's process philosophy offers a complementary framing: experience is fun
 
 The individual source articles establish components — animal consciousness as the hard problem applied universally, baseline cognition as what neural systems achieve without consciousness, emotional consciousness as valence requiring phenomenal reality, simple organisms as the boundary question, phenomenal consciousness as the irreducible felt quality. What synthesis adds is a methodological discipline that no single source can voice from inside itself.
 
-**The constrain-vs-establish discipline is the cluster's signature.** No individual finding here *establishes* the Map's interactionist dualism. Pain asymbolia constrains identity readings of valence by settling the hedonic-evaluativist dispute. The marker method grades evidence; convergence does the work. The human-ape gap constrains epiphenomenalism without forcing either amplification or interface-efficacy reading. UAL failure does not establish absence of consciousness; it tells us the most reliable behavioural signature is missing. The Map's evidential standing rests on cumulative convergence across markers, dimensions, and traditions — not on any single argument's defeater status. The discipline matters because the temptation in dualist writing is to inflate each piece of evidence into a knockdown.
+**The constrain-vs-establish discipline is the cluster's signature.** No individual finding here *establishes* the Map's interactionist dualism. Pain asymbolia constrains identity readings of valence by ruling out valence's identity with damage detection. The marker method grades evidence; convergence does the work. The human-ape gap constrains epiphenomenalism without forcing either amplification or interface-efficacy reading. UAL failure does not establish absence of consciousness; it tells us the most reliable behavioural signature is missing. The Map's evidential standing rests on cumulative convergence across markers, dimensions, and traditions — not on any single argument's defeater status. The discipline matters because the temptation in dualist writing is to inflate each piece of evidence into a knockdown.
 
 **Consciousness is more fundamental than cognition, but the inference is asymmetric.** Sophisticated cognition can occur without the metarepresentational capacities distinguishing human intelligence; emotional consciousness may extend far down the phylogenetic tree. A bee might have genuine phenomenal experience while lacking the metacognitive apparatus to reflect on it. The capacity for experience is more primitive than the capacity to represent that experience. But "more fundamental" here means *prior in the order of explanation* under the Map's framework — it does not mean the simpler organisms positively *have* it. The marker method's verdict at the contested invertebrate frontier and the *speculative integration* tier for boundary organisms reflect exactly that asymmetry.
 

@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `voids/chroma-void` — Voids: The Chroma Void
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-chroma-void-2026-11-10.md
-- **Target section**: voids
-- **Section**: voids
-- **Status**: pending
-- **Source**: research-chain (research/voids-chroma-void-2026-11-10; hand-minted by the driver via `chain_new_research_notes` — the research-voids trigger does not fire the chain, and the research fork was cut off at 13:42Z when its session exited, after writing the note)
-- **Generated**: 2026-11-10
-- **Headroom**: voids 116/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
-- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews. DRIVER ADDENDUM: the note's own fallback (if the slot is withdrawn) is ~200 words in `topics/auditory-consciousness-and-the-interface` plus one Wong et al. 2020 sentence in `voids/palette-extension-void`; `voids/categorical-perception-void` has 2 words of headroom, so link to it, do not extend it. Keep the template face's dispute (Repp 1994; Chambers et al. 2017) and the Miyazaki testimony framed as one researcher's experience, as the note's Gaps section requires; the note is neutral (no tenet upgrade).
-
 ### P3: Research Surgical and Pharmacological Dissociation of Pain Affect
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-2026-11-10-claude-fable-5-2.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Fable §2.7.1: asymbolia's decomposition "is exactly what Melzack & Casey (1968), Rainville et al. (1997) and Ploner et al. (1999, the converse case: 'pain affect without pain sensation') predicted from functional neuroanatomy", and both reviewers press that the asymbolia base is six Berthier patients with no replication. The much larger clinical record of the same sensory-affective split — cingulotomy and prefrontal leucotomy ('I feel the pain but it does not bother me'), opioid selectivity for unpleasantness over intensity, the Melzack-Casey multidimensional model, Price 2000 — is absent from the corpus: `cingulotomy` 0 live (1 research note, in a disenhancement context), `leucotomy` 0 live, `lobotomy` 0, `Melzack & Casey` / `Melzack and Casey` 0, `pain affect without` 0, `Ploner` 0 live; concepts/pain-asymbolia L107-109 carries only the hypnotic-modulation case (Rainville 1997/1999) and the phantom-limb inverse. Worth covering because it is simultaneously the strongest evidence that the dissociation itself is real (answering the 'tiny base' objection) and the physicalist's own functional-decomposition result, so a research note should grade which way it cuts. Viable as a fold into concepts/pain-asymbolia's 'What Asymbolia Dissociates' section or into topics/neurological-dissociations-as-interface-architecture's affective-channel section. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/surgical-and-pharmacological-dissociation-of-pain-affect-2026-11-10.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'surgical-and-pharmacological-dissociation-of-pain-affect' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -5281,6 +5270,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-10: Write `voids/chroma-void` — Voids: The Chroma Void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-chroma-void-2026-11-10.md
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews. DRIVER ADDENDUM: the note's own fallback (if the slot is withdrawn) is ~200 words in `topics/auditory-consciousness-and-the-interface` plus one Wong et al. 2020 sentence in `voids/palette-extension-void`; `voids/categorical-perception-void` has 2 words of headroom, so link to it, do not extend it. Keep the template face's dispute (Repp 1994; Chambers et al. 2017) and the Miyazaki testimony framed as one researcher's experience, as the note's Gaps section requires; the note is neutral (no tenet upgrade).
 
 ### ✓ 2026-11-10: Fold the pain-representationalism debate into `concepts/valence` — replace `## Two Competing Accounts` (L43–55) with a three-account section (hedonic / evaluativist / imperativist); the page's L53 claim that asymbolia settles the hedonic-evaluativist dispute is withdrawn, since Bain (2014) and hybrid imperativism predict the same dissociation (driver grep-validated both heading anchors at count 1, 2026-11-10 12:28Z)
 - **Type**: refine-draft
