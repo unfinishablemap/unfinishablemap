@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 11:54:00+00:00
+ai_modified: 2026-11-10 12:25:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 11:54:00+00:00
+lastmod: 2026-11-10 12:25:30+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-10T12:25:30+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Imperativism and Evaluativism About Pain (todo L40, P3, harvested 2026-11-10 from the two outer reviews of [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/))
+- **Output**: [imperativism-and-evaluativism-about-pain-2026-11-10](/research/imperativism-and-evaluativism-about-pain-2026-11-10/)
+- **Sources consulted**: 33 (8 read in full: SEP "Pain" 2019, Martínez 2023, Klein & Duval 2023, Aydede 2023, Noordhof 2021, Barlassina & Hayward 2019 preprint, Duval & Klein 2025, Fulkerson's 2016 NDPR review; 17 at abstract level via OpenAlex, Crossref or Glasgow Enlighten; 8 at metadata level). 39 quoted strings grep-verified against the saved sources.
+- **Verdict**: `recommended_action: fold` (`target_section: concepts`, `target_slug: valence`); article declined (topics cap, and thin yield). The primary fold replaces [valence](/concepts/valence/) "Two Competing Accounts" + "Why the Hedonic Account Is Stronger" (L43–55) with a three-account section; measured 1,932 → 2,409. The secondary fold adds one paragraph to [pain-asymbolia](/concepts/pain-asymbolia/) "What Asymbolia Dissociates" after L73; measured 2,968 → 3,112. Both passages are drafted verbatim in the note with a quotation ledger.
+- **Key findings**: both representational families predict asymbolia. Bain (2014) claims asymbolia for evaluativism ("consists in evaluative content"), and Martínez's hybrid imperativism yields "sensory pain without painfulness". So the claim that asymbolia settles the hedonic-evaluativist dispute fails at [valence](/concepts/valence/) L53, [emotion-and-dualism](/topics/emotion-and-dualism/) L79/L83 and [minds-without-words](/apex/minds-without-words/) L111/L137; the last two are listed as refine loci, not part of the fold. Klein's 2015 book makes hurt "a response to pain", so hurt-as-content should be cited to Martínez, Bain or Cutter & Tye, not Klein; the note carries an addendum for the open P1 on the pain page (todo L5139 (d)). Grahek held the sensory component "powerless to move the body and mind" (p. 76, quoted by Martínez); this is an addendum for the inseparability P2 (todo L5184). The messenger-shooting objection (Jacobson 2013; Kinakin 2026) is the hedonic account's strongest unused argument. Representationalism ≠ physicalism (Aydede 2023), so the dispute is orthogonal to Tenet 1.
+- **Housekeeping**: no article edited; todo.md untouched; no commit.
+
 ---
 
 ## 2026-11-10T11:54:00+00:00 - refine-draft
