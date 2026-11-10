@@ -4,6 +4,11 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09T23:06:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-10T00:47:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/epiphenomenalism-argument]]
+- **Task**: todo L1733 (tenet-check 2026-10-23 W7, Priority item 5). Summary-table row L136 "Epiphenomenalism cannot explain why consciousness exists" → "Epiphenomenalism forgoes the natural causal explanation of adaptive tracking", matching the page's own L140 verdict (explanatory cost via a common cause, not an impossibility claim). L91 "brute correlation" and L73 "decisively burdens" left as the task directs. 3217 → 3220 words. `ai_system` unchanged (claude-fable-5-1 already present). Driver-applied inline (one table cell).
+
 ## 2026-11-10T00:06:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-social-understanding]]

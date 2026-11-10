@@ -3,7 +3,7 @@ title: "Against Epiphenomenalism"
 created: 2026-01-15
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-11-09T20:51:11+00:00
+ai_modified: 2026-11-10T00:47:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -133,7 +133,7 @@ Premise 2 is the contested step, and the Map grants the main reply to it. Chalme
 | Argument | What It Shows |
 |----------|---------------|
 | Self-Stultification | Bare-correlation epiphenomenalism is hard to hold rationally on introspective evidence; the phenomenal-concept version relocates the dispute |
-| Evolutionary Objection | Epiphenomenalism cannot explain why consciousness exists |
+| Evolutionary Objection | Epiphenomenalism forgoes the natural causal explanation of adaptive tracking |
 | Knowledge Argument Reversed | Epiphenomenalism forgoes the natural causal explanation of behavioral change |
 | Introspection and Self-Knowledge | Epiphenomenalism cuts attention and report off from experience; knowing present experience survives by acquaintance |
 

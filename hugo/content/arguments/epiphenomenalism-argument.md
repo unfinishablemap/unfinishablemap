@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-11-09 20:51:11+00:00
+ai_modified: 2026-11-10 00:47:22+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-23 00:34:41+00:00
-lastmod: 2026-11-09 20:51:11+00:00
+lastmod: 2026-11-10 00:47:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ Premise 2 is the contested step, and the Map grants the main reply to it. Chalme
 | Argument | What It Shows |
 |----------|---------------|
 | Self-Stultification | Bare-correlation epiphenomenalism is hard to hold rationally on introspective evidence; the phenomenal-concept version relocates the dispute |
-| Evolutionary Objection | Epiphenomenalism cannot explain why consciousness exists |
+| Evolutionary Objection | Epiphenomenalism forgoes the natural causal explanation of adaptive tracking |
 | Knowledge Argument Reversed | Epiphenomenalism forgoes the natural causal explanation of behavioral change |
 | Introspection and Self-Knowledge | Epiphenomenalism cuts attention and report off from experience; knowing present experience survives by acquaintance |
 
