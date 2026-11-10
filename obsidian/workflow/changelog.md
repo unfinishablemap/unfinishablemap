@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-10T01:23:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-10 01:33 UTC - coalesce
+- **Status**: Abandoned. No candidate (the expected steady state; the ninth consecutive no-candidate run since 10-31). Nothing written to content, todo.md or evolution-state.yaml.
+- **Mode**: driver-run fresh screen (`coalesce_1110.py` in the session scratchpad, a dated copy of the 11-09 script with today's constants, foreground). Constants: 60-day age floor (created or git-added on/after 2026-09-11 excluded), today-only edit window (`--since=2026-11-10T00:00Z`), open-task scan over Active + Blocked blocks, dirty-tree exclusion. Sidecar `topics/non-temporal-consciousness.refinement-log.md` and the three section-index pages dropped BEFORE any pairwise computation.
+- **Pressure** (`count_section_files`, 01:31Z): topics 369/370 (368 real + the sidecar), concepts 370/370 (full), voids 116/125. No additions or removals since the 11-09 16:19Z run.
+- **Pool**: 854 articles; 412 eligible (topics 179, concepts 162, voids 71). Exclusions: open-task 388, created<60d 100, edited-today 4, dirty 0. 84,666 eligible pairs; 107 fit the raw-sum gate (topics-target 42, concepts-target 65, voids-target 0). Controls 0.616 / 0.410 / 0.536 (the delegatory pair fell from 0.551 after the 11-09 23:06Z dedup condense, as expected).
+- **Top fitting pairs by mid cosine**: identical to 11-09 — 0.166 `concepts/phenomenal-depth` + `concepts/phenomenal-presentation` (recorded `Versus` carve-out, noise-ceiling cosine, 0 shared 8-grams) → REJECT; then 0.101 / 0.090 / 0.089 / 0.062 pairs with no link either way and noise-level cosine → REJECT (the 0.089 pair would also collide with the archived `apophatic-approaches` redirect).
+- **High-cosine pairs**: all 14 pairs at cosine ≥ 0.40 and all 63 at ≥ 0.30 exceed their merged limit by ≥ 1,008 words after 6-gram dedup (smallest: `topics/the-manipulation-argument-and-hard-incompatibilism` + `concepts/source-versus-leeway-incompatibilism`, 0.368, over +1,008). Real overlap in this corpus lives in role-split pairs that are each too long to merge; the dedup-by-cross-reference route (as applied to the delegatory pair on 11-09) remains the only viable treatment and is a condense, not a coalesce.
+
 ## 2026-11-10T01:23:26+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/consciousness-only-territories]] (plus five further files, below)
