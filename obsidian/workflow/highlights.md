@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 A reach has a what (the cup), a why (thirst) and a how: its shape in time. Stern called these vitality forms; the insula lights up only when people are asked how, not what. New void: psychology sorts by content, so form goes unseen. The Map grants it earns dualism no upgrade.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2120106158287462770  
 **Link**: [[vitality-form-void]]
 
 ---
