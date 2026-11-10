@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 18:49:34+00:00
+ai_modified: 2026-11-10 19:20:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 18:49:34+00:00
+lastmod: 2026-11-10 19:20:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T19:20:40+00:00 - optimistic-review
+- **Status**: Success
+- **Wing**: perceptual-category voids (driver brief 19:06Z): the catalogue's newest perceptual voids, each a dimension or category the information carries but report does not deliver or cannot certify
+- **Pages**: [chroma-void](/voids/chroma-void/), [vitality-form-void](/voids/vitality-form-void/), [palette-extension-void](/voids/palette-extension-void/), [categorical-perception-void](/voids/categorical-perception-void/), [molyneux-void](/voids/molyneux-void/), [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/), [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) (all read in full at HEAD `219349afcb`; no content file modified)
+- **Content reviewed**: Shape verdict: the chroma note's three-part shape is a family resemblance: a shared core in all five (rich measurement, thin report), a loaned report in 4/5 and a crossing that certifies performance but not quality in 4/5. Clause (ii), "disputed by those said to have it", is the note's framing only. Headline calibration concern, checked at source (Wong et al. 2020 bioRxiv preprint): CHR L42/L78 cite a concession about how pitch is represented as one about heard quality. VIT L94 says human report "forces" a category, against its own L82 and CAT L48/L64.
+- **Tasks added**: 4 (parse_tasks active 387 → 391): P2 refine-draft `voids/chroma-void` (Wong concession, 4 edits); P3 refine-draft `voids/vitality-form-void` (L94/L58/L80); P3 refine-draft `voids/palette-extension-void` (3 true links: categorical-perception, transformative-experience, molyneux); P3 research-topic `research/first-person-reports-across-trained-perceptual-boundaries-2026-11-10`. The open P3 cross-reviews of `voids/chroma-void` and `voids/vitality-form-void` each gained one SEE ALSO sentence at the end of their Notes; nothing else changed in them.
+- **Output**: [optimistic-2026-11-10-perceptual-category-voids-wing](/reviews/optimistic-2026-11-10-perceptual-category-voids-wing/)
 
 ## 2026-11-10T18:49:34+00:00 - refine-draft
 - **Status**: Success
