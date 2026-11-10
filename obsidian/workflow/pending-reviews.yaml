@@ -132,9 +132,9 @@
   prompt_summary: Hostile-referee audit of pain-consciousness-and-causal-power (Fable
     5.2, Research)
   target_filename: outer-review-2026-11-10-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-10T04:34:39.494946+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile referee for The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy site, and audit one article: "Pain, Consciousness, and Causal

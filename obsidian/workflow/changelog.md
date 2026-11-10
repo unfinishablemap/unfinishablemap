@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T04:02:02+00:00
+ai_modified: 2026-11-10T04:44:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10 04:44 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (subject: recent-aged reuse of the ChatGPT pick, `topics/pain-consciousness-and-causal-power`; commissioned 03:05Z, collected 04:34Z, 6,170 words, 251 sources, js-dom)
+- **File**: [[reviews/outer-review-2026-11-10-claude-fable-5-2]]
+- **Claims verified**: 9 external (Griffith & Kind 2024 full text — "three (out of six)" thresholds and Schilder & Stengel 1928 priority; Klein 2015 *Mind* abstract; Noordhof 2021 pp. 177–178 verbatim; Chalmers 2003 "it is constitution" verbatim; Kragel & LaBar 2015, Jensen 2012, Berns 2006, Laukkonen 2025 metadata) + 11 Map-internal phrases (each `grep -c -F` = 1); 3 disputed (live changelog byline is 2026-11-09, not 10-15; "P-MC1 coinage / category error" is half right — the Chalmers constitution reply is on the Map at `acquaintance-without-causation#chalmers-reply`; "the concept page explains the deficit" over-reads L97's shared-explanandum verdict)
+- **High-value findings**: 5 not owned by any open task — L168 Dualism over-claim vs L132; L172 Minimal-Quantum paragraph's uncited Born-preservation debt; the Claim-C dilemma (Grahek/Klein counter-reading vs near-analytic) and its tension with L162; the description-only scope clause; `pain-asymbolia` L50 priority error + L85–87 vs L97 contradiction. Convergent with the ChatGPT leg on L64, L76, L80, L92, L114, L116, L126, L128, L152, L160, L170, L174.
+- **Tasks generated**: 3 (P2: 3) — topic page Site-Perspective/Claim-C pass (self-funding, runs last of five on that file); `concepts/pain-asymbolia` priority + L85–87 recalibration; `concepts/valence` L85 vs L69. Addenda on 4 convergent open tasks (Berthier/Grahek P1, calibration P2, L170/L174 P1, empirical-phenomena P2) instead of twin tasks; methodology §5 logged as an addendum on the standing NEEDS-HUMAN (methodology ratification) entry.
+- **Not tasked**: improvement 14 (twelve new References on a 3,995/4,000 page); Mørch passed as a lead only; improvement 24-style position changes none this leg.
+- **Pending entry**: `status: collected` in `pending-reviews.yaml`; `outer_review_status: processed` in the review frontmatter.
 
 ## 2026-11-10 04:01 - outer-review
 - **Status**: Success
