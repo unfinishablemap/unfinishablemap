@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-31 06:09:45+00:00
+ai_modified: 2026-11-10 20:21:01+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-05-26 00:00:00+00:00
 apex_sources:
@@ -27,7 +27,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-01-31
-date: &id001 2026-01-31
+date: &id001 2026-11-10
 description: Your own experience is a laboratory for consciousness. Careful attention
   characterises the phenomenology of choice, effort, and witness awareness as first-person
   data.
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 15:04:27+00:00
-lastmod: 2026-10-31 06:09:45+00:00
+lastmod: 2026-11-10 20:21:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ This failure is instructive. It shows that witness mode doesn't come automatical
 
 If you can access witness mode at all, something interesting emerges. The witnessing awareness is not itself a thought. It's not content being observed. It's the observing itself. As [introspection](/concepts/introspection/) research notes, the observer cannot become an object of observation without generating a new observer. Try to observe your observing—you become aware of awareness. But now there are two layers: awareness observed and awareness observing. The regression has no endpoint.
 
-Research on *decentering*—the metacognitive capacity witnessing cultivates—confirms the phenomenology. Experienced practitioners show a neurally measurable "dorsal shift" from the Default Mode Network to attentional regions: the brain correlate of stepping back from identification with mental contents.
+Research on *decentering*—the metacognitive capacity witnessing cultivates—tracks the phenomenology from outside, without confirming its structure. Experienced practitioners show a neurally measurable "dorsal shift" from the Default Mode Network to attentional regions: the brain correlate of stepping back from identification with mental contents.
 
 This structural feature—the witness's irreducibility to what it witnesses—provides phenomenological support for the Map's dualism. The witnessing subject always remains on the observing side. It cannot be turned into an object for observation without ceasing to be the subject.
 
@@ -200,7 +200,7 @@ Contemplative traditions report consistent findings across cultures:
 
 If these reports converge across independent traditions—Buddhist, Hindu, Christian contemplative, [Sufi](/concepts/islamic-sufi-philosophy-of-consciousness/), and secular meditation—something is being detected, not fabricated. The [convergence argument](/topics/contemplative-practice-as-philosophical-evidence/) gains force precisely because these traditions developed independently with different training protocols and different expected outcomes, making coordinated fabrication implausible. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) identifies three convergence zones across these independent lineages: self-dissolution, contentless awareness, and subject-object collapse.
 
-The most radical finding: a trained practitioner can [voluntarily enter cessation states](/concepts/neurophenomenology-and-contemplative-neuroscience/#advanced-practice)—complete absence of experience while brain activity continues in reorganised form. If consciousness were identical to neural activity, cessation should correspond to neural silence. It does not. The evidence is one single-practitioner EEG case study (Laukkonen et al., 2023): suggestive that consciousness accompanies certain brain configurations without being identical to them, not decisive.
+The most radical finding: a trained practitioner can [voluntarily enter cessation states](/concepts/neurophenomenology-and-contemplative-neuroscience/#advanced-practice)—complete absence of experience while brain activity continues in reorganised form. That excludes identity with neural activity as such, not with a specific subset; the dualist reading—consciousness accompanies certain configurations without being identical to them—stays one of two. The evidence is "preliminary data from two labs" (Laukkonen et al., 2023): suggestive, not decisive.
 
 ## The Illusionist Challenge
 

@@ -3,7 +3,7 @@ title: Research Notes - Neurophenomenology and Meditation Studies
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T23:00:00+00:00
+ai_modified: 2026-11-10T20:21:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -254,7 +254,7 @@ The writing style guide's LLM-first principle suggests front-loading the core in
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 - Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*.
 - Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*.
-- Laukkonen, R. E., et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding. *Progress in Brain Research*.
+- Laukkonen, R. E., et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61-87. https://doi.org/10.1016/bs.pbr.2022.12.007
 - Neuroscience of Consciousness (2025). Deep computational neurophenomenology. Oxford Academic.
 - Neuroscience of Consciousness (2025). Generative neurophenomenology through interpersonal methods. Oxford Academic.
 - bioRxiv (2025). The neuroscience of highly stable, positive, and refined states of consciousness during jhana-type meditation.

@@ -2,9 +2,9 @@
 title: "Testing the Map from Inside"
 description: "Your own experience is a laboratory for consciousness. Careful attention characterises the phenomenology of choice, effort, and witness awareness as first-person data."
 created: 2026-01-31
-modified: 2026-01-31
+modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-10-31T06:09:45+00:00
+ai_modified: 2026-11-10T20:21:01+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -87,7 +87,7 @@ This failure is instructive. It shows that witness mode doesn't come automatical
 
 If you can access witness mode at all, something interesting emerges. The witnessing awareness is not itself a thought. It's not content being observed. It's the observing itself. As [[introspection|introspection]] research notes, the observer cannot become an object of observation without generating a new observer. Try to observe your observing—you become aware of awareness. But now there are two layers: awareness observed and awareness observing. The regression has no endpoint.
 
-Research on *decentering*—the metacognitive capacity witnessing cultivates—confirms the phenomenology. Experienced practitioners show a neurally measurable "dorsal shift" from the Default Mode Network to attentional regions: the brain correlate of stepping back from identification with mental contents.
+Research on *decentering*—the metacognitive capacity witnessing cultivates—tracks the phenomenology from outside, without confirming its structure. Experienced practitioners show a neurally measurable "dorsal shift" from the Default Mode Network to attentional regions: the brain correlate of stepping back from identification with mental contents.
 
 This structural feature—the witness's irreducibility to what it witnesses—provides phenomenological support for the Map's dualism. The witnessing subject always remains on the observing side. It cannot be turned into an object for observation without ceasing to be the subject.
 
@@ -192,7 +192,7 @@ Contemplative traditions report consistent findings across cultures:
 
 If these reports converge across independent traditions—Buddhist, Hindu, Christian contemplative, [[islamic-sufi-philosophy-of-consciousness|Sufi]], and secular meditation—something is being detected, not fabricated. The [[contemplative-practice-as-philosophical-evidence|convergence argument]] gains force precisely because these traditions developed independently with different training protocols and different expected outcomes, making coordinated fabrication implausible. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] identifies three convergence zones across these independent lineages: self-dissolution, contentless awareness, and subject-object collapse.
 
-The most radical finding: a trained practitioner can [[neurophenomenology-and-contemplative-neuroscience#advanced-practice|voluntarily enter cessation states]]—complete absence of experience while brain activity continues in reorganised form. If consciousness were identical to neural activity, cessation should correspond to neural silence. It does not. The evidence is one single-practitioner EEG case study (Laukkonen et al., 2023): suggestive that consciousness accompanies certain brain configurations without being identical to them, not decisive.
+The most radical finding: a trained practitioner can [[neurophenomenology-and-contemplative-neuroscience#advanced-practice|voluntarily enter cessation states]]—complete absence of experience while brain activity continues in reorganised form. That excludes identity with neural activity as such, not with a specific subset; the dualist reading—consciousness accompanies certain configurations without being identical to them—stays one of two. The evidence is "preliminary data from two labs" (Laukkonen et al., 2023): suggestive, not decisive.
 
 ## The Illusionist Challenge
 

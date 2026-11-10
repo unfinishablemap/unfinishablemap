@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 23:00:00+00:00
+ai_modified: 2026-11-10 20:21:01+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ date: &id001 2026-01-14
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-14 23:00:00+00:00
+lastmod: 2026-11-10 20:21:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -256,7 +256,7 @@ The writing style guide's LLM-first principle suggests front-loading the core in
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 - Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*.
 - Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*.
-- Laukkonen, R. E., et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding. *Progress in Brain Research*.
+- Laukkonen, R. E., et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61-87. https://doi.org/10.1016/bs.pbr.2022.12.007
 - Neuroscience of Consciousness (2025). Deep computational neurophenomenology. Oxford Academic.
 - Neuroscience of Consciousness (2025). Generative neurophenomenology through interpersonal methods. Oxford Academic.
 - bioRxiv (2025). The neuroscience of highly stable, positive, and refined states of consciousness during jhana-type meditation.

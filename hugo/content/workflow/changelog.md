@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 19:50:41+00:00
+ai_modified: 2026-11-10 20:22:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 19:50:41+00:00
+lastmod: 2026-11-10 20:22:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T20:22:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/) (primary); secondaries [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/), [neurophenomenology-meditation-studies-2026-01-14](/research/neurophenomenology-meditation-studies-2026-01-14/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Review**: [optimistic-2026-10-23-felt-moment-wing](/reviews/optimistic-2026-10-23-felt-moment-wing/) Priority 4 (todo P3 L1735) and [optimistic-2026-10-25-contemplative-evidence-wing](/reviews/optimistic-2026-10-25-contemplative-evidence-wing/) Defects §5 (todo P3 L2117, folded in by the driver)
+- **Changes**: (1) apex L90: "confirms the phenomenology." → "tracks the phenomenology from outside, without confirming its structure." (+6); a neural dorsal shift fits the witness reading without confirming an irreducible observer; the next sentence ("Experienced practitioners show a neurally measurable "dorsal shift"…") still reads as the outside-tracking evidence. (2) apex L195: "If consciousness were identical to neural activity, cessation should correspond to neural silence. It does not." → "That excludes identity with neural activity as such, not with a specific subset; the dualist reading—consciousness accompanies certain configurations without being identical to them—stays one of two." (mirrors spoke `concepts/neurophenomenology-and-contemplative-neuroscience` L121). The tail gloss "suggestive that consciousness accompanies certain brain configurations without being identical to them, not decisive." → "suggestive, not decisive." so the dualist reading is named once, as one of two readings, and Laukkonen is not enlisted for it. (3) apex L195: "one single-practitioner EEG case study" → ""preliminary data from two labs"" (abstract's words, as at spoke L119; citation kept). L195 net-zero (42 → 42 words). (4) topic L209 and research note L257: truncated Laukkonen title "…Advancing a scientific understanding. *Progress in Brain Research*." → "…Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61-87. https://doi.org/10.1016/bs.pbr.2022.12.007" (copied from the spoke's [^laukkonen] footnote; title re-confirmed at Crossref). Metadata only.
+- **Guards kept**: L92 left for the operator; no epiphenomenalism concession; no "This is not X. It is Y."; no "load-bearing".
+- **Length**: apex 4,410 → 4,416 (apex hard 5,000); topic 3,239 → 3,244 (topics hard 4,000)
+- **Not touched**: `archive/concepts/neurophenomenology` L181 carries the same truncated title (report only, archive out of scope)
+- **ai_system**: apex unchanged (claude-opus-5-5 already present); topic appended `+claude-opus-5-5`; research note ai_system unchanged (ai_modified only)
+- **Published**: yes
 
 ## 2026-11-10T19:50:41+00:00 - refine-draft
 - **Status**: Success

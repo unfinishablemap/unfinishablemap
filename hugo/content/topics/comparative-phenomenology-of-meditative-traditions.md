@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-11-09 14:03:55+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1
+ai_modified: 2026-11-10 20:21:01+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[witness-consciousness]]'
@@ -15,7 +15,7 @@ concepts:
 - '[[altered-states-of-consciousness]]'
 - '[[self-and-self-consciousness]]'
 created: 2026-03-07
-date: &id001 2026-03-07
+date: &id001 2026-11-10
 description: Cross-traditional meditation reports converge on structural features
   of consciousness despite incompatible metaphysics, suggesting these features are
   discovered rather than constructed.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 10:37:00+00:00
-lastmod: 2026-11-09 14:03:55+00:00
+lastmod: 2026-11-10 20:21:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -210,7 +210,7 @@ The divergence zones illustrate [Occam's Razor Has Limits](/tenets/#occams-limit
 3. Anonymous (c. 1375). *The Cloud of Unknowing*. Various editions.
 4. Patanjali. *Yoga Sutras*. Various editions.
 5. Buddhaghosa (5th century CE). *Visuddhimagga* (The Path of Purification). Various editions.
-6. Laukkonen, R. E., et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding. *Progress in Brain Research*.
+6. Laukkonen, R. E., et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61-87. https://doi.org/10.1016/bs.pbr.2022.12.007
 7. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 8. Lutz, A., et al. (2007). Meditation and the neuroscience of consciousness. In P. Zelazo, M. Moscovitch, & E. Thompson (Eds.), *Cambridge Handbook of Consciousness*. Cambridge University Press.
 9. Katz, S. T. (Ed.) (1978). *Mysticism and Philosophical Analysis*. Oxford University Press.
