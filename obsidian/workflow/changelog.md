@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T17:39:13+00:00
+ai_modified: 2026-11-10T18:03:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T18:03:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/causal-closure-debate-historical-survey]]
+- **Trigger**: cycle slot (score 76, 107 days; seventh deep review). Not converged: six post-07-26 commits were unreviewed in context, and the historical lenses had never been run against primary texts.
+- **Word count**: 3,613 → 3,648 (+35; soft_warning, 352 under the 4,000 hard gate)
+- **Critical issues addressed**: 7
+  - L89 Papineau physiological strand dated to the nineteenth century; his text (SAS-Space copy, grep) says "The relevant research dates mostly from the twentienth century" and that nineteenth-century work "failed to provide compelling evidence against vital or mental forces". Re-ordered (fundamental forces first, from Helmholtz; physiology second, 1900–1950s, his examples); "two centuries" → "over a century" (his phrase).
+  - L52 the 07-26 "later, Newtonian refinement, standardly if anachronistically traced back" was wrong and contradicted L121: *Monadology* §80 (Bennett, grep) and Papineau 2001 ("Leibniz upheld both the conservation of linear momentum and the conservation of kinetic energy") → "From the 1690s he added the point that closes the loophole … (*Monadology* §80)".
+  - L52 "Descartes' directional manoeuvre" → "the directional manoeuvre, which he credited to Descartes on little evidence, as Papineau (2001) notes".
+  - L79 "But Kim himself acknowledged a formulation dilemma." → "But Lowe (2000) pressed a formulation dilemma." (Lowe 2000 abstract: "neither too strong nor too weak"; Kim: closure "does not beg the question against dualism as such").
+  - L44 Elisabeth quote matched no translation → Bennett's verbatim rendering, translator named.
+  - L66 "derived from spatial symmetries via Noether's theorem" → "spacetime" (energy ↔ time translation; matches conservation-laws L65 and Pitts 2020).
+  - L62 Huxley "explicitly materialist" → "mechanist" (Huxley 1868: "I, individually, am no materialist").
+- **Medium issues addressed**: 2. L117 Gibb: Noether gloss sat under "she argues" but is absent from her abstract; replaced with her actual argument against Papineau (two further causal premises, "exceedingly difficult to defend"). L56 influx: Knutzen's argument (law does not reach the soul) had been folded into Gottsched's *vis viva* point → "turning Leibniz's own physics against the conservation objection" (matches influx page L67).
+- **Low**: Montero 2003 reference gains pp. 173–187.
+- **Post-07-26 edits**: 9d7c7ae4 Pitts sound; dc10b8ee Montero sound (five strings grep 1 hit each); 0e118afe originator fix sound (volume introduction supports "after Lowe"; Lowe 2003 pp. 137–154); 116d877fb4 Papineau section defective in part (fixed); 35c5b3f0d3 influx medium (fixed); d63adb3824 IBE link sound.
+- **Observational-closure agreement**: all live originator statements agree (Lowe 2003 distinction, Saad 2025 name). Soft spot: `topics/delegatory-dualism` L104 "Saad's separation".
+- **Engagements**: Kim, Mode Three; Papineau answered by Buhler, Mode One; by Gibb, Mode One; Montero, Mode One/Two; Pitts 2022, Mode Three.
+- **Follow-ups (not edited)**: `concepts/causal-closure` L100 repeats "Kim himself acknowledged … neither too strong nor too weak" (Lowe 2000's wording); `topics/delegatory-dualism` L104 possessive; Stapp "Process 0" in *Mindful Universe* still secondary-verified only; sibling pages telling the Descartes directional story are unaudited.
+- **Enhancements made**: 2 (Gibb tied to Papineau; Papineau's own examples)
+- **Output**: [[reviews/deep-review-2026-11-10-causal-closure-debate-historical-survey]]
 
 ## 2026-11-10T17:39:13+00:00 - refine-draft
 - **Status**: Success

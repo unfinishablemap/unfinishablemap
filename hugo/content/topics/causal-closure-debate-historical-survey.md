@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-11-09 18:38:51+00:00
+ai_modified: 2026-11-10 18:00:36+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,14 +17,14 @@ concepts:
 - '[[delegatory-dualism]]'
 - '[[reductionism]]'
 created: 2026-03-19
-date: &id001 2026-03-19
+date: &id001 2026-11-10
 description: How causal closure evolved from a physics claim into a metaphysical axiom,
   and why the arguments for it are weaker than commonly assumed.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-26 07:33:33+00:00
-lastmod: 2026-11-09 18:38:51+00:00
+last_deep_review: 2026-11-10 18:00:36+00:00
+lastmod: 2026-11-10 18:00:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ The causal closure of the physical — the thesis that every physical event has 
 
 ## Princess Elisabeth's Challenge and Descartes' Evasion
 
-The debate begins in 1643, when Princess Elisabeth of Bohemia asked Descartes a question that still has no consensus answer: how can an unextended mind move an extended body? Descartes had defined mind and matter as having nothing in common — mind thinks, matter extends. Elisabeth pressed the obvious difficulty: "How can the soul of a man determine the spirits of the body so as to produce voluntary actions?" If mind and matter share no properties, what could interaction even look like?
+The debate begins in 1643, when Princess Elisabeth of Bohemia asked Descartes a question that still has no consensus answer: how can an unextended mind move an extended body? Descartes had defined mind and matter as having nothing in common — mind thinks, matter extends. Elisabeth pressed the obvious difficulty, in Jonathan Bennett's translation: "Given that the soul of a human being is only a thinking substance, how can it affect the bodily spirits, in order to bring about voluntary actions?" If mind and matter share no properties, what could interaction even look like?
 
 Descartes never answered satisfactorily. His *Principles of Philosophy* (1644) formulated a conservation principle — the total quantity of motion in the universe is constant — but left a loophole. Mind might change the *direction* of bodily spirits without changing their *speed*, thereby conserving motion while still influencing behaviour.
 
@@ -52,21 +52,21 @@ The philosophical significance lies less in Descartes' answer than in Elisabeth'
 
 ## Leibniz and the Closure of the Loophole
 
-Leibniz saw a vulnerability in Descartes' directional manoeuvre. In his *Discourse on Metaphysics* (1686) and the *Brief Demonstration* (1686), he argued that Descartes had misidentified the conserved quantity: what nature conserves is *vis viva* (mv², the ancestor of kinetic energy), not the scalar quantity of motion, and Descartes had wrongly treated that quantity as indifferent to direction. The vector-momentum principle that fully closes the directional loophole — total momentum conserved in magnitude *and* direction, so mind cannot redirect bodily motion without violating conservation — is a later, Newtonian refinement, standardly if anachronistically traced back to this critique.
+Leibniz saw a vulnerability in the directional manoeuvre, which he credited to Descartes on little evidence, as Papineau (2001) notes. In his *Discourse on Metaphysics* (1686) and the *Brief Demonstration* (1686), he argued that Descartes had misidentified the conserved quantity: what nature conserves is *vis viva* (mv², the ancestor of kinetic energy), not the scalar quantity of motion. From the 1690s he added the point that closes the loophole: the total direction of motion in matter (momentum, in later terms) is conserved too, so mind cannot redirect bodily motion without violating conservation (*Monadology* §80).
 
 The response elevated a physics claim — conservation of a particular quantity — into a constraint on the metaphysics of mind, and the inference pattern would recur for centuries: identify a conserved quantity, then argue that non-physical causation would violate it.
 
-Leibniz himself drew a radical conclusion: pre-established harmony, where mind and body never interact at all but run in parallel like synchronised clocks. The cost of accepting the conservation argument at face value was giving up on interaction entirely — a result most dualists, and the Map, regard as too high. The loophole did not stay closed: in eighteenth-century Germany physical influx reopened it, Gottsched and Knutzen arguing that Leibniz's own *vis viva* correction disarmed the Cartesian form of the conservation objection — a reversal traced in [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/).
+Leibniz himself drew a radical conclusion: pre-established harmony, where mind and body never interact at all but run in parallel like synchronised clocks. The cost of accepting the conservation argument at face value was giving up on interaction entirely — a result most dualists, and the Map, regard as too high. The loophole did not stay closed: in eighteenth-century Germany physical influx reopened it, Gottsched and Knutzen turning Leibniz's own physics against the conservation objection — a reversal traced in [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/).
 
 ## The Nineteenth Century: Energy Conservation as Metaphysical Foundation
 
 Helmholtz's *On the Conservation of Force* (1847) established energy conservation as a universal physical principle. The impact on philosophy of mind was profound, if indirect. If energy is conserved in all physical processes, then any non-physical influence on the brain would seem to require injecting energy from outside the physical domain — violating conservation.
 
-By the 1870s, figures like Tyndall and Huxley were drawing explicitly materialist conclusions. Huxley's famous "conscious automaton" thesis (1874) treated consciousness as [epiphenomenal](/concepts/epiphenomenalism/) — a by-product of brain processes with no causal power. The argument relied implicitly on causal closure: if physics accounts for everything the brain does, consciousness has nothing left to do.
+By the 1870s, figures like Tyndall and Huxley were drawing explicitly mechanist conclusions. Huxley's famous "conscious automaton" thesis (1874) treated consciousness as [epiphenomenal](/concepts/epiphenomenalism/) — a by-product of brain processes with no causal power. The argument relied implicitly on causal closure: if physics accounts for everything the brain does, consciousness has nothing left to do.
 
 C.D. Broad, in *The Mind and Its Place in Nature* (1925), stated the conservation objection in its sharpest form: if energy conservation holds universally, and mental causation would require energy transfer, then mental causation is impossible. Broad set the argument out in order to *assess* it, not to endorse it. An emergentist who defended two-way mind-body interaction, he resisted the objection — arguing that a mental influence acting perpendicular to a particle's motion could redirect it without transferring energy. The hardening of this objection into a systematic completeness thesis belongs to the physicalist tradition Papineau (2001) documents, not to Broad, whose careful statement of the argument was later mistaken for its endorsement.
 
-Yet as [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) argues, the argument from energy conservation to causal closure appears to contain a gap. Conservation is *local and conditional* — derived from spatial symmetries via Noether's theorem — so presupposing its universal application to brain processes arguably assumes what the argument needs to establish. A cause that *selects among* energetically equivalent outcomes need not inject energy at all.
+Yet as [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) argues, the argument from energy conservation to causal closure appears to contain a gap. Conservation is *local and conditional* — derived from spacetime symmetries via Noether's theorem — so presupposing its universal application to brain processes arguably assumes what the argument needs to establish. A cause that *selects among* energetically equivalent outcomes need not inject energy at all.
 
 ## The Twentieth Century: Kim's Exclusion Argument
 
@@ -79,7 +79,7 @@ The contemporary debate crystallised with Jaegwon Kim's work, particularly *Supe
 
 Kim's achievement was clarity. He showed exactly where the argument's weight falls: on premise (1), causal closure. If physics is causally complete, then non-physical mental causation is either reducible to physical causation or eliminated altogether.
 
-But Kim himself acknowledged a formulation dilemma. The principle must be strong enough to exclude mental causation but not so strong as to simply presuppose physicalism. Finding this middle ground turns out to be remarkably difficult. Strong closure (no physical event has any non-physical cause) begs the question. Weak closure (physical events always have physical causes, but may have other causes too) fails to exclude mental causation. The principle's plausibility may depend on this very ambiguity.
+But Lowe (2000) pressed a formulation dilemma. The principle must be strong enough to exclude mental causation but not so strong as to simply presuppose physicalism. Finding this middle ground turns out to be remarkably difficult. Strong closure (no physical event has any non-physical cause) begs the question. Weak closure (physical events always have physical causes, but may have other causes too) fails to exclude mental causation. The principle's plausibility may depend on this very ambiguity.
 
 A further difficulty is the *generalisation problem*: Kim's exclusion reasoning appears to apply to all higher-level causation, not just mental causation. If physical micro-causes are always sufficient, then chemical, biological, and geological causes would seem equally "excluded." Critics argue the reasoning threatens to prove too much — extending to all macro-level causation alongside the mental.
 
@@ -87,9 +87,9 @@ Several philosophers have proposed frameworks that preserve higher-level causati
 
 ## The Positive Case: Papineau's Argument from the Empirical Record
 
-Surveying the critics without stating the argument they answer would misrepresent the debate. Closure's leading contemporary defender, David Papineau (2001, 2002), does not rest the principle on conservation laws alone. He treats it as an inductive conclusion drawn from two centuries of empirical work, and the argument has two strands.
+Surveying the critics without stating the argument they answer would misrepresent the debate. Closure's leading contemporary defender, David Papineau (2001, 2002), does not rest the principle on conservation laws alone. He treats it as an inductive conclusion drawn from over a century of empirical work, and the argument has two strands.
 
-The first is physiological. Nineteenth-century physiology set out to determine whether living bodies are driven by anything beyond ordinary physico-chemical forces, and it kept failing to find one. Muscle contraction, nerve conduction, metabolism, and heat production each yielded to physical and chemical explanation; the special vital forces earlier physiology had posited were not detected but retired. The search that closed the vital-force question closed it without turning up a residue for mind to occupy. The second strand comes from physics: over the same period the catalogue of fundamental interactions narrowed to a small and well-characterised set, none of which acts selectively inside brains and nowhere else. A special mental force would have to have shown up somewhere in one record or the other, and it has not.
+The first comes from physics and was available from Helmholtz onward: apparently special forces kept turning out to be composed of a few fundamental forces operating throughout nature, none of which acts selectively inside brains and nowhere else. The second is physiological, and Papineau dates its force to the twentieth century. Nineteenth-century physiology, he notes, showed bodies obeying conservation principles without reaching the forces acting inside them. In the first half of the twentieth century biochemistry (enzymes, metabolic cycles, protein structure) and neurophysiology (the electrical mechanisms of neurons) did reach them, and found only ordinary physical forces; the special vital forces earlier physiology had posited were not detected but retired, and no residue turned up for mind to occupy. A special mental force would have to have shown up somewhere in one record or the other, and it has not.
 
 Papineau presents the conclusion as inductive rather than demonstrative: given how systematically the looking has been done and how consistently it has come up empty, [the best explanation](/concepts/inference-to-the-best-explanation-against-dualism/) is that there is nothing further to find. He is explicit that conservation of energy alone does not block a mental force acting deterministically on matter; the weight falls on the empirical record instead. This is the strongest form of the case for closure, and the form the criticisms below take as their target.
 
@@ -117,7 +117,7 @@ The response that "decoherence restores effective classicality" does not address
 
 A separate decoherence worry targets the Map's positive proposal rather than the closure gap. If superpositions in warm neural tissue collapse too fast for consciousness to select among them (Tegmark's objection), Stapp's mechanism has no indeterminacy left to exploit. The Map takes this as a bounded, testable commitment: as [observational-closure](/concepts/observational-closure/) concedes, the mechanism is falsifiable and would fail if neural quantum coherence proves physically impossible. The closure argument itself does not rest on it — it turns on the interpretation-dependence of collapse, whether or not Stapp's specific proposal survives.
 
-Sophie Gibb (2010) reinforces the physics-based challenge from within the philosophy of physics. Conservation laws, she argues, do not establish causal completeness of the physical domain. The derivation of conservation from spatial symmetries (Noether's theorem) does not entail that no non-physical influences exist — it entails only that physics is invariant under certain transformations. The distinction Saad (2025) names, after Lowe (2003), between [observational and universal closure](/concepts/observational-closure/) provides the framework: physics supports observational closure (no *detectable* violations) but not universal closure (no violations *anywhere*). The empirical evidence underdetermines the metaphysics. This carries an acknowledged cost: the general claim that *some* mental causation occurs leaves no detectable trace in aggregate and is, to that extent, unfalsifiable — while *specific* mechanisms (neural coherence timescales, Born-rule compliance) remain testable. The interaction hides in the statistics; the mechanisms that would implement it do not.
+Sophie Gibb (2010) reinforces the physics-based challenge, against Papineau by name. Conservation laws, she argues, do not establish causal completeness of the physical domain even if there is no non-physical energy: the inference also needs the claims that a non-physical cause could act only by changing the amount of energy or momentum in a system or by redistributing it, and that redistribution requires supplying energy or momentum, both hard to defend. The distinction Saad (2025) names, after Lowe (2003), between [observational and universal closure](/concepts/observational-closure/) provides the framework: physics supports observational closure (no *detectable* violations) but not universal closure (no violations *anywhere*). The empirical evidence underdetermines the metaphysics. This carries an acknowledged cost: the general claim that *some* mental causation occurs leaves no detectable trace in aggregate and is, to that extent, unfalsifiable — while *specific* mechanisms (neural coherence timescales, Born-rule compliance) remain testable. The interaction hides in the statistics; the mechanisms that would implement it do not.
 
 ## An Empirical Claim Hardened into an Axiom
 
@@ -161,7 +161,7 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 8. Loewer, B. (2007). "Mental Causation, or Something Near Enough." In B.P. McLaughlin & J.D. Cohen (Eds.), *Contemporary Debates in Philosophy of Mind* (pp. 243–265). Blackwell.
 9. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
 10. Lowe, E.J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic, pp. 137–154.
-11. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
+11. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic, pp. 173–187.
 12. Montero, B.G. & Papineau, D. (2005). "A Defence of the Via Negativa Argument for Physicalism." *Analysis*, 65(3), 233–237. doi:10.1093/analys/65.3.233
 13. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
 14. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
