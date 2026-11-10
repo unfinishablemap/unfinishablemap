@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T18:03:26+00:00
+ai_modified: 2026-11-10T18:34:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T18:34:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-closure]]
+- **Original score**: 8/10 (one attribution defect; `scripts/curate.py` is absent, so no tool score)
+- **Changes**: Corrected the misattribution of the formulation dilemma ("neither too strong nor too weak") from Kim to Lowe (2000), matching the 2026-11-10 fix on `topics/causal-closure-debate-historical-survey` L79. (1) Heading "### Kim's Formulation Dilemma" → "### The Formulation Dilemma". No live page links the anchor; only research notes and reviews name it, and they were left untouched. (2) "Kim himself acknowledged a critical challenge in formulating causal closure." → "Lowe (2000) pressed a formulation dilemma for causal closure." This follows the sibling page's wording. Lowe (2000) was already in the references and cited in the text at L138, so the (surname, year) check stays clean in both directions. Kim's exclusion argument (L71, L80, L160), the "Strong version (Kim)" formulation (L59), the historical arc to Kim (L124) and the Kim 1998 reference were all left unchanged. L102–106 credits the dilemma to no one. Kim's own reported view was not quoted, because it is known only secondhand.
+- **Attribution**: engagement with Kim: Mode Three (unchanged). The page no longer tells Kim he conceded a dilemma he denied.
+- **Word count**: 3,493 → 3,492 (−1; concepts hard gate 3,500)
+- **Review file**: [[reviews/deep-review-2026-11-10-causal-closure-debate-historical-survey]] (Critical 4; Out-of-scope L160)
+- **Published**: yes
 
 ## 2026-11-10T18:03:26+00:00 - deep-review
 - **Status**: Success

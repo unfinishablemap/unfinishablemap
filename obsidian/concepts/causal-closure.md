@@ -2,9 +2,9 @@
 title: "Causal Closure of the Physical"
 description: "Causal closure claims every physical event has sufficient physical cause. The Map rejects this: quantum indeterminacy leaves room for consciousness to act."
 created: 2026-01-14
-modified: 2026-11-05
+modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-11-05T21:52:36+00:00
+ai_modified: 2026-11-10T18:33:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,9 +95,9 @@ These considerations are powerful but not decisive.
 
 ## Problems with the Principle
 
-### Kim's Formulation Dilemma
+### The Formulation Dilemma
 
-Kim himself acknowledged a critical challenge in formulating causal closure. The principle must be neither too strong nor too weak:
+Lowe (2000) pressed a formulation dilemma for causal closure. The principle must be neither too strong nor too weak:
 
 **If too strong** (no physical event has any non-physical cause), the principle simply presupposes physicalism. The argument against mental causation becomes circular—assuming what it's meant to prove.
 
