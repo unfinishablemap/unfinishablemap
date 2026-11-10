@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-03 22:10:55+00:00
+ai_modified: 2026-11-10 14:13:47+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-11-03
+date: &id001 2026-11-10
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-11-03 22:10:55+00:00
+lastmod: 2026-11-10 14:13:47+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -129,6 +129,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [The Assent Void](/voids/assent-void/) — believing-at-will is excluded by the concept of belief on the dominant view, and the timing question is contested within cognitive psychology, so a physicalist and a dualist describe the same blank; seam untested.
 - [The Handedness Void](/voids/handedness-void/) — the pre-1957 limit is mathematics, the closure is experimental physics and the residual faces are cognitive psychology, so a physicalist and a dualist describe the same blank in the same place.
 - [The Boredom Void](/voids/boredom-void/) — a computational opportunity-cost model accommodates the objectless signal, so a physicalist and a dualist describe the same blank.
+- [The Chroma Void](/voids/chroma-void/) — the two-component account (pitch memory plus labelling) predicts the "weak qualia" report, so a physicalist and a dualist describe the same blank.
 
 **Voids that are more dualism-specific** (denied or radically reframed by physicalists):
 
@@ -221,6 +222,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Numbing Void](/voids/numbing-void/) — Why felt concern does not scale with the number of sufferers, and why no one feels the sum: a magnitude face (valuation by feeling "nearly a step function of scope", Hsee & Rottenstreich 2004), an occluded regulation face (feeling for groups damped before it arises, Cameron & Payne 2011) and a structural face (no one undergoes the sum, Lewis 1940). Felt magnitude cannot decide between deficit and tracking readings of the plateau; the Map's additive verdict rests on closed individualism and its counting rule, not on feeling. Psychic numbing toward numbers, distinct from the pharmacological [anesthesia-void](/voids/anesthesia-void/) (created 2026-10-03)
 - [The Observer-Selection Void](/voids/observer-selection-void/) — Why a mind cannot tell what its existence as this observer is evidence of: three faces (rule / class / instability) meeting on one question. Every self-locating updating rule has a reductio its defenders accept (SSA → Doomsday, SIA → the Presumptuous Philosopher; Bostrom 2002), the reference class is a class of conscious subjects and so presupposes the [other-minds](/concepts/problem-of-other-minds/) answer, and some cosmologies "cannot simultaneously be true and justifiably believed" (Carroll 2020). Makes a demand on Tenet 4 rather than supporting it: the indexical objection holds as identity, never as credence. Upstream of [simulation detection](/voids/simulation-detection-void/); near relative of [the blindspot void](/voids/blindspot-void/) (created 2026-10-14)
 - [The Boredom Void](/voids/boredom-void/) — Why boredom demands a change of engagement without naming a target and presents a failed engagement as a dullness in the object: four faces (objectless signal / projection / self-supply and forecast / examination, the last only under the attentional definition). An opportunity-cost model accommodates the objectless face, so the void weighs little for dualism; neighbour of [mood](/voids/mood-void/) and [mattering](/voids/mattering-void/) at profound boredom (created 2026-10-31)
+- [The Chroma Void](/voids/chroma-void/) — Why most listeners hold absolute-pitch information they cannot recognise as a note, and why no agreed test tells a heard chroma from a fast label: four faces (latent / template, contested / report / calibration)
 
 ### Phenomenology of Limits
 
@@ -315,6 +317,7 @@ Twenty-nine voids surveyed since 2026-02 have research notes; all but the four m
 - **[The Preference Void](/research/voids-preference-void-2026-09-30/)** — *Published* (2026-10-03) as [preference-void](/voids/preference-void/). No ordering is there to consult before the asking: choosing and pricing return different orderings of the same options (Lichtenstein & Slovic 1971; Slovic 1995), the free-choice evidence that choosing shapes preference is contested at the level of measurement (Chen & Risen 2010), and anchored valuations are coherent enough to create "an illusion of order" (Ariely, Loewenstein & Prelec 2003). The article adds the discovered-preference rival the note omitted, with a repeated-auction result in which reversals largely disappeared (Cox & Grether 1996).
 - **[The Numbing Void](/research/voids-numbing-void-2026-10-02/)** — *Published* (2026-10-03) as [numbing-void](/voids/numbing-void/). Felt concern registers that someone suffers and loses resolution about how many (Fetherstonhaugh et al. 1997; Hsee & Rottenstreich 2004); part of the plateau is motivated, proactive regulation (Cameron & Payne 2011); and no subject undergoes the sum (Lewis 1940). The article calibrates the note's empirical record (no significant group-size effect on empathetic concern, Butts et al. 2019; a modest identifiable-victim effect that failed a hypothetical-donation replication, Maier et al. 2024) and replaces the note's Tenet 4 line with a symmetric caution, aligning the void with the Map's registered additive aggregation.
 - **[The Observer-Selection Void](/research/voids-observer-selection-void-2026-10-11/)** — *Published* (2026-10-14) as [observer-selection-void](/voids/observer-selection-void/). What my being this observer is evidence of has no agreed updating rule: SSA yields Doomsday and SIA the Presumptuous Philosopher (Bostrom 2002), Sleeping Beauty is unresolved since Elga (2000) and Lewis (2001), and the rules converge only in idealised fine-tuning settings (Isaacs, Hawthorne & Russell 2022). The reference class is a class of conscious subjects (Standish 2013; Saad 2025; Elga 2024 MS), and Boltzmann-brain cosmologies are cognitively unstable (Carroll 2020) in a way Kotzen (2020) and Dogramaci & Schoenfield (2025) deflate. The article states the void's demand on Tenet 4 in its lead: the Map's indexical objection is safe as identity and forbidden as credence.
+- **[The Chroma Void](/research/voids-chroma-void-2026-11-10/)** — *Published* (2026-11-10) as [chroma-void](/voids/chroma-void/). Ordinary listeners retain absolute-pitch information without recognising or naming a note (Schellenberg & Trehub 2003; a six-lab replication shrank Levitin's 44% to 25%, Frieler et al. 2013). In Deutsch's tritone paradox a hidden absolute may decide whether a tone pair rises or falls, an account contested by Repp (1994) and by context effects (Chambers et al. 2017). On one researcher's account, possessors give "no informative answers" beyond sol-fa syllables (Miyazaki 2019), and adults trained to AP-level naming cannot be certified, since genuine AP "remains an untestable hypothesis" (Wong et al. 2020).
 
 ---
 

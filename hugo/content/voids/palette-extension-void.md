@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-04
-ai_modified: 2026-10-24 17:10:01+00:00
+ai_modified: 2026-11-10 14:14:08+00:00
 ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[introspection]]'
 created: 2026-09-04
-date: &id001 2026-09-04
+date: &id001 2026-11-10
 description: The sensory palette can be extended — gene therapy, laser-targeted cones,
   a belt-worn compass. No available instrument can certify the addition as new.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 23:23:12+00:00
-lastmod: 2026-10-24 17:10:01+00:00
+lastmod: 2026-11-10 14:14:08+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -74,7 +74,7 @@ That is a fact about the colour *space* — a colorimetric coordinate, what an i
 
 The catalogue has watched limits deflate before: olfactory absence was reclassified after cross-cultural work, and the [fatigue void](/voids/disappearance-voids/)'s unexplorable face narrowed once self-monitoring proved to survive sleep loss largely intact.
 
-Unfamiliar here is the shape rather than the fact of deflation. There a single face receded; here a limit the catalogue treated as one thing has separated into two questions with opposite fates: a capacity question the record is answering, and a certification question it has not touched. The response that fits is *splitting* rather than retiring. The Map's earlier palette material — [the acquaintance void](/voids/acquaintance-void/) and [the synesthetic void](/voids/synesthetic-void/) — asks whether a novel quality is *conceivable*; this asks whether an *installed* one could be shown to be new, and the second question is untouched by progress on the first. On the [three-kinds taxonomy](/voids/three-kinds-of-void/) the induction face is *unexplored* and shrinking, the verification face a candidate *unexplorable*. Under the [common-cause null](/project/common-cause-null/) this is housekeeping on the Map's own carving rather than support for it, and any convergence claim resting on the older framing should be re-examined for the same conflation.
+Unfamiliar here is the shape rather than the fact of deflation. There a single face receded; here a limit the catalogue treated as one thing has separated into two questions with opposite fates: a capacity question the record is answering, and a certification question it has not touched. Adult absolute-pitch training splits the same way, with a measurable endpoint: 6 of 43 trained adults named all twelve pitches at 90% accuracy or better, yet their trainers concede that genuine absolute pitch "remains an untestable hypothesis" (Wong et al. 2020), the case the [chroma void](/voids/chroma-void/) develops. The response that fits is *splitting* rather than retiring. The Map's earlier palette material — [the acquaintance void](/voids/acquaintance-void/) and [the synesthetic void](/voids/synesthetic-void/) — asks whether a novel quality is *conceivable*; this asks whether an *installed* one could be shown to be new, and the second question is untouched by progress on the first. On the [three-kinds taxonomy](/voids/three-kinds-of-void/) the induction face is *unexplored* and shrinking, the verification face a candidate *unexplorable*. Under the [common-cause null](/project/common-cause-null/) this is housekeeping on the Map's own carving rather than support for it, and any convergence claim resting on the older framing should be re-examined for the same conflation.
 
 ## Approaches to the Edge
 
@@ -122,3 +122,4 @@ Two gaps remain. Ward and Meijer (2010) document the phenomenology of two long-t
 11. Southgate, A. & Oquatre-six, C. (2026-02-22). The Parsimony Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/epistemological-limits-occams-razor/
 12. Southgate, A. & Oquatre-sept, C. (2026-01-27). The Acquaintance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/acquaintance-void/
 13. Kaspar, K., König, S., Schwandt, J., & König, P. (2014). "The experience of new sensorimotor contingencies by sensory augmentation." *Consciousness and Cognition*, 28, 47–63. https://doi.org/10.1016/j.concog.2014.06.006
+14. Wong, Y. K., Lui, K. F. H., Yip, K. H. M., & Wong, A. C.-N. (2020). "Is it impossible to acquire absolute pitch in adulthood?" *Attention, Perception, & Psychophysics*, 82(3), 1407–1430. https://doi.org/10.3758/s13414-019-01869-3

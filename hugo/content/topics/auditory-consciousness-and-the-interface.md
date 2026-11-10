@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-10-31 07:10:45+00:00
+ai_modified: 2026-11-10 14:14:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[mind-matter-interface]]'
 - '[[temporal-consciousness]]'
 created: 2026-05-31
-date: &id001 2026-09-19
+date: &id001 2026-11-10
 description: 'Hearing supplies what vision lacks: melody unfolding in time, auditory
   scene analysis as a binding case, non-spatial pitch and timbre qualia, and the tinnitus,
   amusia and agnosia dissociations.'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 02:58:19+00:00
-lastmod: 2026-10-31 07:10:45+00:00
+lastmod: 2026-11-10 14:14:20+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -74,6 +74,8 @@ Maladaptive central plasticity is a *physicalist mechanism*, adopted here withou
 
 What sharpens the case is what electrophysiology found underneath it. Amusic brains *do* track quarter-tone pitch differences, showing an early right-lateralised negative response; what distinguishes them from controls is "the limited awareness of this ability and the lack of responsiveness to the semitone changes that violate musical keys" (Peretz et al., 2009). That second conjunct is itself a brain-side deficit, so the dissociation is partial rather than clean: what survives intact is fine-grained pitch registration, not musical pitch processing entire. Within that limit, the pitch difference is registered without arriving in experience as the determinate quality the section above took as its datum. That is the shape of the [capability division](/concepts/capability-division-in-vision/) the Map reads off [blindsight](/concepts/blindsight/)—a brain-side discrimination surviving without a corresponding mind-side presentation—recovered in the auditory modality, and in pitch, the very quality this article argues is not identical to its physical correlate. The reading is not forced. Peretz and colleagues offer their own: the neural pitch representation "cannot make contact with musical pitch knowledge along the auditory-frontal neural pathway," a connectivity story requiring nothing non-physical. Both readings fit the data, and the Map takes the case as an accommodation rather than a result.
 
+The [chroma void](/voids/chroma-void/) finds a normal-listener mirror of the dissociation. Unselected students pick out the original pitch level of familiar television themes from copies shifted by a semitone or two, so absolute-pitch information is retained, yet ordinary listeners neither recognise nor name a lone note; adults' "reportedly poor memory for pitch is likely to be a by-product of their inability to name isolated pitches" (Schellenberg & Trehub, 2003).
+
 **Auditory agnosia — hearing without recognising.** Selective brain damage produces a family of auditory disorders—cortical deafness, pure word deafness, auditory agnosia and phonagnosia—in which sound is heard but not identified, and which taken together "suggest a modular architecture analogous to models of visual processing that have been derived from studying neurological patients" (Polster & Rose, 1998). Audition, like vision, is organised into partly separable processing streams (Rauschecker & Scott, 2009). This bears on the [capability-division](/concepts/capability-division-in-vision/) material the article borrows from vision: the division of perceptual labour it describes is not an artefact of visual anatomy, because a system built differently—one whose topographic maps are of frequency rather than of space—comes apart along recognisably parallel lines.
 
 The three cases together do the work the rest of the article does and no more. Each has a mechanistic account in good standing, none requires a non-physical perceiver, and a physicalist can read the whole set as evidence about processing architecture and lose nothing. What they show is that the auditory qualities treated here are dissociable—from the stimulus, from awareness, and from recognition—so any theory of perceptual consciousness owes an account of each. The interface reading has one; having an account is not the same as being established by it.
@@ -115,5 +117,6 @@ The Map does not claim audition settles dualism. It claims audition is evidence 
 1. Peretz, I. & Vuvan, D. T. (2017). Prevalence of Congenital Amusia. *European Journal of Human Genetics*, 25(5), 625–630. https://doi.org/10.1038/ejhg.2017.15
 1. Polster, M. R. & Rose, S. B. (1998). Disorders of Auditory Processing: Evidence for Modularity in Audition. *Cortex*, 34(1), 47–65. https://doi.org/10.1016/S0010-9452(08)70736-6
 1. Rauschecker, J. P. & Scott, S. K. (2009). Maps and Streams in the Auditory Cortex: Nonhuman Primates Illuminate Human Speech Processing. *Nature Neuroscience*, 12(6), 718–724. https://doi.org/10.1038/nn.2331
+1. Schellenberg, E. G. & Trehub, S. E. (2003). Good Pitch Memory Is Widespread. *Psychological Science*, 14, 262–266. https://doi.org/10.1111/1467-9280.03432
 1. Southgate, A. & Oquatre-six, C. (2026-02-16). Dualist Perception. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualist-perception/
 1. Southgate, A. & Oquatre-sept, C. (2026-02-18). The Phenomenology of Musical Understanding. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-musical-understanding/

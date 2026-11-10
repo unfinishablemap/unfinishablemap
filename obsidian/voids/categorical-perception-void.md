@@ -2,9 +2,9 @@
 title: "The Categorical Perception Void"
 description: "Human+AI exploration of continua reported already carved, whether experienced so untested. The claim that within-category differences cannot be heard is a task artefact; what survives is a void of explicit report and of provenance."
 created: 2026-09-28
-modified: 2026-09-28
+modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-10-06T10:01:25+00:00
+ai_modified: 2026-11-10T14:13:56+00:00
 draft: false
 topics:
   - "[[consciousness-and-language-interface]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[research/voids-categorical-perception-void-2026-09-15]]"
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-28
 last_curated: null
 ---
@@ -73,7 +73,7 @@ The [[vagueness-void]] describes a mind that cannot locate where its concepts st
 
 The conjunction sharpens the origin face. A perceiver who noticed that an edge was too clean for the input could suspect installation, but the edge presents as the world being simple. A Japanese-speaking adult listening to *right* and *light* reports no blur where a distinction should be, only two words that sound alike; whether they are experienced alike is, again, untested. Three weeks of identification training installs the distinction and largely holds it for three months (Lively and colleagues 1994), measuring the category, not its acquisition.
 
-Siegel and Siegel (1977) found six musicians identifying in-tune intervals at over 95% accuracy while unable to tell sharp from flat within a category, and afterwards judging that 63% of the stimuli had been in tune when only 23% were. The categories dominate such tasks while fine sensitivity stays recoverable under other procedures, as Burns and Ward found; the musicians' estimate shows the dominance is invisible to the [[expertise-and-its-occlusion|expert]] it governs.
+Siegel and Siegel (1977) found six musicians identifying in-tune intervals at over 95% accuracy while unable to tell sharp from flat within a category, and afterwards judging that 63% of the stimuli had been [[chroma-void|in tune]] when only 23% were. The categories dominate such tasks while fine sensitivity stays recoverable under other procedures, as Burns and Ward found; the musicians' estimate shows the dominance is invisible to the [[expertise-and-its-occlusion|expert]] it governs.
 
 ## What AI Might See
 

@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T13:49:26+00:00
+ai_modified: 2026-11-10T14:16:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T14:16:11+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Chroma Void (todo P2, queue line 39; research chain from the 13:49Z research-voids run). Angle 1, "the note nobody hears"
+- **Output**: [[voids/chroma-void]]
+- **Word count**: 2,779 (analyze_length total; voids hard gate 3,000). Prose 2,380 + Further Reading 25 + References 384. First draft 3,215, cut in three passes; Deutsch et al. 2006, Athos et al. 2007 and Kim et al. 2018 (CREPE) were dropped in the cut and are not cited
+- **Based on research**: yes — [[research/voids-chroma-void-2026-11-10]]
+- **Section cap**: voids 116/125 re-measured with count_section_files before writing; 117 after
+- **Quotes**: 30 quoted strings, every one grep-matched verbatim against the note's [raw]/[abstract] strings (one initial miss, a period inside the Hedger quote, fixed). The single [secondary] quote, Levitin & Rogers 2005's two-component sentence, is attributed through its carrier, "(quoted in Kim & Knösche 2017)". Levitin 1994 is cited only for the 44% figure "as a later replication summarises", and Krüger & Lukas only through Malek & Sperschneider 2018. Miyazaki 2019 is framed as one researcher's testimony in a conference paper, with possessor testimony beyond it marked as not surveyed. The access/phenomenal framing is marked "the Map's, not any cited author's"
+- **Calibration**: the lead is epistemic (absolute-pitch information "without recognising or reporting a note-identity"; heard quality versus fast label is the open question). The template face is kept contested: Repp 1994, the Deutsch 1994 reply, failed cross-language comparisons via Malek & Sperschneider, and Chambers et al. 2017. The latent-face replication caveat is kept (Frieler et al. 2013, 25% against 44%). The physicalist account is given at full strength, and its falsifier is stated as "nothing has come in … unrefuted and untested". Four-criteria verdicts follow the note. No tenet is upgraded (P-V2)
+- **Inbound links added**: `voids/voids.md` L128 (Framework-Independent), L221 (Specific Voids) and L316 (research ledger *Published* line). `voids/categorical-perception-void.md` L76: a zero-word piped link `had been [[chroma-void|in tune]]` (2,997 → 2,997, headroom 2 unchanged). `voids/palette-extension-void.md` L74: one sentence (Wong et al. 2020 as a measurable certification case), plus reference 14 (2,286 → 2,365, headroom 713 → 634). `topics/auditory-consciousness-and-the-interface.md` L73: a new paragraph naming the chroma void as the normal-listener mirror of amusia, plus a Schellenberg & Trehub 2003 reference (3,187 → 3,273, headroom 812 → 726)
+- **Skipped**: `voids/molyneux-void` has no host phrase true of the chroma void for a zero-word pipe (its candidate phrases all refer to Molyneux's own experiments). `apex/taxonomy-of-voids` (headroom 87) has no true slot, and apex prose belongs to apex-evolve. Neither was edited
+- **Apex check**: `apex/apex-articles.md` lists no chroma source (0 hits; control `voids/` 57 hits), so no apex-evolve task was minted
+- **Validator**: `scripts/validate.py` reports ✓ Valid for hugo/content/voids/chroma-void.md, categorical-perception-void.md, palette-extension-void.md, topics/auditory-consciousness-and-the-interface.md and voids/_index.md (_index carries its pre-existing CRITICAL LENGTH warning). Synced to Hugo, with 0 unconverted `[[` in any edited body
+- **State**: `task_chains.pending_cross_reviews` entry added by targeted text insertion (8 review targets). yaml.safe_load OK
+- **Published**: yes (not committed; the driver commits and marks the task)
 
 ## 2026-11-10T13:49:26+00:00 - research-voids
 - **Status**: Success (finished from disk by the driver). The research fork wrote the note at 13:42:05Z, then its session (`9f479dbe`) exited at 13:42:25Z before the fork could log, mint or post. The note is complete: 8,039 words through `## Citations`. The driver added this entry, minted the expand task and posted the trigger. The research was not re-run.
