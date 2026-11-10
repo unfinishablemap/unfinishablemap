@@ -12,7 +12,7 @@ description: 'Iterative comparison of Birch''s two-tier precautionary framework 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-06 02:34:00+00:00
+last_deep_review: 2026-11-10 02:51:47+00:00
 lastmod: 2026-08-24 13:51:46+00:00
 modified: *id001
 related_articles:

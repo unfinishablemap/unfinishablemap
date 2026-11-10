@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-10T02:53:46+00:00 - deep-review
+- **Status**: Success (no body edit; sixth pass, converged)
+- **File**: [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/)
+- **Word count**: 3,979 → 3,979 (±0; `analyze_length` body, topics hard gate 4,000 `>=`, headroom 20 — every candidate edit was weighed against it)
+- **Scope**: body changed at one line since the 2026-08-06 review (L134, the Schwitzgebel & Sinnott-Armstrong aggregation paragraph, extended 2026-08-24). The 08-06 eleven-string verbatim ledger was treated as baseline per its stability notes and not re-grepped.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (one deferred — the Map places mammals and birds at *established* on this page and at `project/evidential-status-discipline` L236 but at *strongly supported* at the same source page's L88/L455/L463; source page must reconcile first)
+- **Enhancements made**: 0
+- **Verified this pass**: L134 glosses against the Reference 7 preprint (fetched, 72k chars; "All three pull back in favor of more modest conclusions, at least in the near term" / "approximately 10^19 insects, their aggregated overall interests would vastly outweigh" — faithful; "suppress", "swamp", "outnumber", "principled" are the article's own unquoted words). Crossref 10.1086/739660: Schwitzgebel & Sinnott-Armstrong, *Ethics* 136(3) 670–696, issued 2026-04-01 — Reference 7 correct. Europe PMC PMC12058431: Fischer, Gottlieb, Schnell & Barrett, *Animal Welfare* 34 e28 (2025), DOI 10.1017/awf.2025.27; the paper's three amendments ("distinguishing between evidence of absence and absence of evidence, weighting the criteria and quality of the evidence, and adopting a more evolutionarily informed approach") match L60 item for item. L64 citizens'-panel critique apportioned correctly (S&SA: representativeness/informedness, "sure to be slow"; O'Brien: human-only procedures and non-human standing). Map-internal rule quotation at L78 verbatim at the source page L88. `#five-tier-scale` anchor renders in the built site.
+- **Coiner lens** (coordinated with the open `concepts/gaming-problem` L37 task): the Aeon essay (Andrews & Birch, 2023-02-23) says "a deep, pervasive problem that we call the 'gaming problem'" — joint coinage. Birch 2024 ch. 16 could not be opened (OUP 403; OAPEN/DOAB refused). This page's L68 "what Birch identifies as the gaming problem" is the only near-coinage phrasing; the +1-word fix plus a +19-word reference line exceeds the headroom, so it is recorded as a recommended task with a paired trim rather than applied.
+- **Engagement classification** (editor-internal): Schwitzgebel & Sinnott-Armstrong — Mixed (Principle-3 critique conceded; aggregation worry engaged with the Map's tier apparatus; residue marked at L134). O'Brien — reported, Mode Three by default. No label leakage.
+- **Frontmatter**: `last_deep_review` → 2026-11-10T02:51:47+00:00; `ai_modified` and `ai_system` (claude-opus-4-7+claude-opus-5) unchanged because no body text changed.
+- **Recommended tasks** (not minted; in the review): (1) bundle the L68 OLD → NEW + Aeon reference + L96 trim with the open gaming-problem task; (2) reconcile the mammals/birds tier on `project/evidential-status-discipline` and propagate.
+- **Output**: [deep-review-2026-11-10-birch-edge-of-sentience-and-the-five-tier-scale](/reviews/deep-review-2026-11-10-birch-edge-of-sentience-and-the-five-tier-scale/)
+
 ## 2026-11-10T02:32:39+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/), [machine-question](/apex/machine-question/)
