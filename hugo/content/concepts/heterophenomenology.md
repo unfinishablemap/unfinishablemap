@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-21 17:48:22+00:00
+ai_modified: 2026-11-10 20:41:12+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
@@ -12,14 +12,14 @@ concepts:
 - '[[illusionism]]'
 - '[[dualism]]'
 created: 2026-01-23
-date: &id001 2026-01-23
+date: &id001 2026-11-10
 description: Dennett's third-person method for studying consciousness. Its official
   neutrality about phenomenology functions as methodological eliminativism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 20:06:29+00:00
-lastmod: 2026-10-21 17:48:22+00:00
+last_deep_review: 2026-11-10 20:41:12+00:00
+lastmod: 2026-11-10 20:41:12+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -46,7 +46,7 @@ The Unfinishable Map rejects heterophenomenology's eliminativist trajectory whil
 
 ## The Heterophenomenological Method
 
-Dennett introduced heterophenomenology in *Consciousness Explained* (1991) and developed it further in "Who's on First? Heterophenomenology Explained" (2003). The term combines "hetero-" (other) with "phenomenology"—studying others' phenomenology from the outside, without assuming phenomenal consciousness exists.
+Dennett set out heterophenomenology in a 1982 *Synthese* paper and in *Consciousness Explained* (1991), and developed it further in "Who's on First? Heterophenomenology Explained" (2003). The term combines "hetero-" (other) with "phenomenology"—studying others' phenomenology from the outside, without assuming phenomenal consciousness exists.
 
 The method has three steps:
 
@@ -88,7 +88,7 @@ Heterophenomenology rejects mutual constraint. There is no genuine first-person 
 
 As Varela put it, there is "no 'theoretical fix' or 'extra ingredient' in nature that can possibly bridge this gap"—the remedy he proposed was a disciplined method for investigating experience, not a theory that dispenses with it. Heterophenomenology proposes precisely such a theoretical fix: eliminate first-person phenomenology in favor of third-person reports about phenomenology.
 
-The contrast reveals heterophenomenology's eliminativist tendency. [Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/#advanced-practice) studies meditators' first-person reports of jhana states, finding they correlate with distinct neural signatures. Heterophenomenology would study only what meditators *say* about jhanas, treating the phenomenology itself as potentially non-existent. The same contrast is treated more briefly in the epistemological register at [phenomenal authority's "Methodological Implications" section](/topics/phenomenal-authority-and-first-person-evidence/#methodological-implications), which routes the Varela / Dennett disagreement through the layered-authority framework rather than developing the meditator case.
+The contrast reveals heterophenomenology's eliminativist tendency. [Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/#advanced-practice) studies meditators' first-person reports of jhana states, with single-adept evidence that deeper states reorganise brain connectivity. Heterophenomenology would study only what meditators *say* about jhanas, treating the phenomenology itself as potentially non-existent. The same contrast is treated more briefly in the epistemological register at [phenomenal authority's "Methodological Implications" section](/topics/phenomenal-authority-and-first-person-evidence/#methodological-implications), which routes the Varela / Dennett disagreement through the layered-authority framework rather than developing the meditator case.
 
 ## The Neutrality Claim
 
@@ -170,6 +170,8 @@ The Map endorses methodological pluralism: consciousness requires multiple inves
 - [process-content-distinction](/concepts/process-content-distinction/) — The asymmetric-reliability finding where the Map and Dennett localise their methodological-discipline agreement (content reports as data) while parting company on what the data support
 
 ## References
+
+Dennett, D. (1982). "How to Study Human Consciousness Empirically or Nothing Comes to Mind." *Synthese*, 53(2), 159-180.
 
 Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
 

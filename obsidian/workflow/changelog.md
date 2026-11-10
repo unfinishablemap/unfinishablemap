@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T20:22:24+00:00
+ai_modified: 2026-11-10T20:42:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T20:42:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/heterophenomenology]]
+- **Word count**: 2,957 → 2,983 (+26; concepts hard 3,500)
+- **Critical issues addressed**: 2. (1) L46 origin date: "Dennett introduced heterophenomenology in *Consciousness Explained* (1991)" → "Dennett set out heterophenomenology in a 1982 *Synthese* paper and in *Consciousness Explained* (1991)", per Dennett's own "(Dennett, 1982; 1991)" in JCS 2003 p. 19; References entry Dennett 1982 *Synthese* 53(2):159–180 added (Crossref). (2) L88 stale jhana gloss: "finding they correlate with distinct neural signatures" → "with single-adept evidence that deeper states reorganise brain connectivity"; the target was recalibrated to an n = 1 case study by `98c8f3b6bc` (07-30) and the fix had not reached this host.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **10-21 protocol-analysis insertion**: accurate. The quote is verbatim from the E&S 1980 abstract; the scope is "reports of attended information", not introspection in general; the gloss is true of `topics/protocol-analysis` as it stands now; the citation and reference match both ways; Crossref confirms *Psychological Review* 87(3):215–251, DOI 10.1037/0033-295X.87.3.215. No change.
+- **Anchors**: 10 fragment links / 8 targets all resolve (source heading or `{#id}` + built `id=`)
+- **Engagements**: unchanged from 07-14 (Dennett: Mixed, Mode One opening → Mode Three residue; illusionists: Mode Three)
+- **Follow-ups (not queued)**: `concepts/methodological-pluralism` L69 has the same stale jhana "distinct neural signatures" claim; `concepts/contemplative-epistemology` L91 (Hagerty et al. 2013, also n = 1)
+- **Output**: [[reviews/deep-review-2026-11-10-heterophenomenology]]
 
 ## 2026-11-10T20:22:24+00:00 - refine-draft
 - **Status**: Success
