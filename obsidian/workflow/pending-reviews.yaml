@@ -126,3 +126,34 @@
   subject_articles:
   - topics/pain-consciousness-and-causal-power.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/89f7f695-047a-4fb8-94ab-fcbf02462f4c
+  commissioned_at: '2026-11-10T03:05:38.731449+00:00'
+  prompt_summary: Hostile-referee audit of pain-consciousness-and-causal-power (Fable
+    5.2, Research)
+  target_filename: outer-review-2026-11-10-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile referee for The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy site, and audit one article: "Pain, Consciousness, and Causal
+    Power" at https://unfinishablemap.org/topics/pain-consciousness-and-causal-power/
+    (last substantively revised 2026-11-03; consult https://unfinishablemap.org/workflow/changelog/
+    to confirm you are reading the current version, since search indexes lag). Use
+    Research and read the live page rather than cached snippets. Test the article''s
+    central claims: that pain is the sharpest pressure on epiphenomenalism yet binds
+    only the bare-correlation version, not the phenomenal-concept version; that pain
+    asymbolia (Grahek, Klein, Berthier et al.) separates sensory character from suffering
+    in the way the article says; that phenomenal character and causal power are inseparable;
+    and that anticipated or dreaded pain motivating behaviour before any nociceptive
+    signal exists counts as evidence of phenomenal causation. Check each citation
+    against its primary source, flag misreadings and missing counterarguments, and
+    identify where an epiphenomenalist or functionalist would push back hardest. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit pain-consciousness-and-causal-power
+  subject_articles:
+  - topics/pain-consciousness-and-causal-power.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-10-chatgpt-5-6-sol-pro.md
