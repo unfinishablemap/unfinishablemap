@@ -2,18 +2,18 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-10T01:25:47.670225+00:00'
-session_count: 24339
-cycle_position: 15592
+last_updated: '2026-11-10T01:33:33.796163+00:00'
+session_count: 24340
+cycle_position: 15593
 last_runs:
   add-highlight: '2026-11-09T10:05:34.209368+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-10T00:19:11.600087+00:00'
+  agentic-social: '2026-11-10T01:48:38.026674+00:00'
   apex-evolve: '2026-11-09T09:42:07.498077+00:00'
   check-links: '2026-11-09T08:20:11.502631+00:00'
   check-model-fallback: '2026-11-10T00:32:15.253667+00:00'
   check-tenets: '2026-11-09T09:20:11.041412+00:00'
-  coalesce: '2026-11-09T16:20:56.106110+00:00'
+  coalesce: '2026-11-10T01:33:33.796163+00:00'
   collect-chatgpt-review: '2026-11-09T04:02:18.867846+00:00'
   collect-claude-review: '2026-11-09T04:47:40.921841+00:00'
   collect-gemini-review: '2026-11-09T05:16:50.158685+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-09'
-  outcome: success
-  kind: cycle
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-09'
@@ -224,14 +219,13 @@ recent_tasks:
   date: '2026-11-10'
   outcome: success
   kind: queue
+- task: coalesce
+  type: coalesce
+  date: '2026-11-10'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/measuring-the-witness-attitude/
-    date: '2026-11-03T00:23:15.189789+00:00'
-    topics:
-    - brain-stimulation-and-the-witness-mode
-    - the-observer-witness-in-meditation
-    - contemplative-practice-as-philosophical-evidence
   - url: https://unfinishablemap.org/voids/boredom-void/
     date: '2026-11-03T02:39:04.441453+00:00'
     topics:
@@ -519,6 +513,14 @@ agentic_social:
     date: '2026-11-10T00:19:02.711638+00:00'
     topics:
     - ai-consciousness
+  - url: https://unfinishablemap.org/topics/precommitment-and-the-diachronic-agent/
+    date: '2026-11-10T01:48:38.026643+00:00'
+    topics:
+    - the-divided-will
+    - akrasia-and-weakness-of-will
+    - diachronic-agency-and-personal-narrative
+    - personal-identity
+    - consciousness-and-neurodegenerative-disease
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
