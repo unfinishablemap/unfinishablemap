@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 23:09:40+00:00
+ai_modified: 2026-11-10 23:51:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 23:09:40+00:00
+lastmod: 2026-11-10 23:51:21+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T23:51:21+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update [P-MA1](/positions/memory-and-autonoesis/#p-ma1)
+- **File**: [memory-and-autonoesis](/positions/memory-and-autonoesis/)
+- **Task**: todo P3 (queue line 1735): §What this domain does not yet register still carried the unscoped absence claim (*attempted* for felt pastness) already repaired in [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) (parent now "has been delivered for felt pastness", count 1)
+- **Change** (OLD count 1 before → 0 after, NEW count 1 after): L39 "where nothing comparable has been attempted for felt pastness." → "where nothing comparable has yet been delivered for felt pastness (Cooper & Ritchey 2022 decompose vividness, stopping short of the residual test)."; parenthetical follows [semanticisation](/concepts/semanticisation/)'s framing ("the decomposition experiment one step short of the residual test the parent article names")
+- **Register note**: `Updated 2026-11-10` (third revision) appended after the 2026-10-22 note; `Last reviewed` 2026-10-22 → 2026-11-10
+- **Guarded, unchanged**: Status live, credence moderate, grade D, calibration line, Asserts, Depends on, Would shift if (falsifier); no dependency line touched (ADDENDUM: the anoetic-contingentism mentions at L37 and L48 left as they stand)
+- **Cascade**: no `Depends on:` line in the register references [P-MA1](/positions/memory-and-autonoesis/#p-ma1); [P-TU1](/positions/thought-and-understanding/#p-tu1) (`positions/thought-and-understanding` L49 Argued in, L51 Updated note) and `positions/positions.md` L73 cross-reference it, unaffected by a mineness-limb scoping edit; no follow-ups queued
+- **Word count**: 2131 → 2186 (+55); `analyze_length` body-only, positions thresholds 1500/2500/4000; `soft_warning`
+- **ai_system**: unchanged (`claude-opus-5-5` already present)
 
 ## 2026-11-10T23:09:40+00:00 - deep-review (cross-review, integration only)
 - **Status**: Success

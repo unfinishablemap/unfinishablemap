@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-20
-ai_modified: 2026-10-22 22:54:44+00:00
+ai_modified: 2026-11-10 23:50:56+00:00
 ai_system: claude-opus-5+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[semanticisation]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 created: 2026-09-20
-date: &id001 2026-09-20
+date: &id001 2026-11-10
 description: 'Register of the Map''s positions on memory phenomenology: the constitutive
   reading of autonoetic re-experiencing, held at moderate credence on a decisive test
   that exists in design and, as far as the Map''s searches reach, has never been run.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-22 22:54:44+00:00
+lastmod: 2026-11-10 23:50:56+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -39,7 +39,7 @@ The domain is kept separate from [Arguments for dualism](/positions/arguments-fo
 
 **The foundational-dependency test.** [P-MA1](/positions/memory-and-autonoesis/#p-ma1) passes in the forward direction and is freely retireable. [Tenet 1](/tenets/#dualism)'s stated rationale is the explanatory gap for subjective experience, the judgement that materialism has not closed it, and the positive argument catalogue; none of those rests on remembering having a phenomenal character that individuates memory kinds. Retiring [P-MA1](/positions/memory-and-autonoesis/#p-ma1) narrows the gap's claimed domain back from the temporal case and leaves the tenet's rationale intact. What retirement would cost is downstream: the dual-domain reading of memory, the autonoetic half of the capability division, and [the anoetic page's](/concepts/anoetic-noetic-autonoetic-consciousness/) reading of contingentism as deflationary are conditional on it, and the articles that use them say so; that reading has yet to absorb [the parent page's](/topics/phenomenology-of-memory-and-the-self/) grant of contingentism's necessity limb.
 
-**What this domain does not yet register.** The *mineness* limb — felt ownership as a separable phenomenal feature, and the step from synchronic for-me-ness to a diachronic identity-ground — is deliberately not booked here. The parent article holds it *below* the pastness limb, on the stated ground that the self-model programme has already delivered a decomposition for bodily self-location and self-identification (Blanke & Metzinger 2009) where nothing comparable has been attempted for felt pastness. Its identity-grounding payload is separately carried by the haecceity commitment registered at [P-I1](/positions/individuation-and-subjecthood/#p-i1) and [P-I2](/positions/individuation-and-subjecthood/#p-i2) in [individuation-and-subjecthood](/positions/individuation-and-subjecthood/), so a second band here risks two entries on one claim. It is recorded as a candidate P-MA2, for its own deliberation rather than folding into this one.
+**What this domain does not yet register.** The *mineness* limb — felt ownership as a separable phenomenal feature, and the step from synchronic for-me-ness to a diachronic identity-ground — is deliberately not booked here. The parent article holds it *below* the pastness limb, on the stated ground that the self-model programme has already delivered a decomposition for bodily self-location and self-identification (Blanke & Metzinger 2009) where nothing comparable has yet been delivered for felt pastness (Cooper & Ritchey 2022 decompose vividness, stopping short of the residual test). Its identity-grounding payload is separately carried by the haecceity commitment registered at [P-I1](/positions/individuation-and-subjecthood/#p-i1) and [P-I2](/positions/individuation-and-subjecthood/#p-i2) in [individuation-and-subjecthood](/positions/individuation-and-subjecthood/), so a second band here risks two entries on one claim. It is recorded as a candidate P-MA2, for its own deliberation rather than folding into this one.
 
 Calibration follows the [multi-axis schema](/positions/methodology-and-calibration/#calibration-schema) (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only).
 
@@ -56,4 +56,5 @@ Calibration follows the [multi-axis schema](/positions/methodology-and-calibrati
 - **Updated 2026-09-20**: entry created. The three articles that carry this commitment had held it in prose since the wing was built, with [semanticisation](/concepts/semanticisation/) added expressly to report where the falsifier stands, and the register recorded none of it. Registered now rather than deferred because what the sources state is a *standing* — unrefuted, untested, weakest of the falsifier states, against a live countermodel on an adjacent limb — and a standing that includes "untested" is precisely what a register books. The mineness limb is held below this one and deliberately left unregistered; see §What this domain does not yet register.
 - **Updated 2026-10-11**: first revision. *Depends on* now says how this entry composes with [P-TU1](/positions/thought-and-understanding/#p-tu1), which it had called the same structure without saying where the two differ ([optimistic review 2026-10-11](/reviews/optimistic-2026-10-11-constitutive-twins-wing/)): different relata and different kind-claims, hence a zero falsifier there and a gradient here, composing only on the attitude-type reading of felt pastness that the Klein manner/content dependency already commits this entry to. The SDAM clause is scoped to that separation, since [semanticisation](/concepts/semanticisation/) records that De Brigard reads the same case as episodic memory functioning without autonoesis. No calibration axis moved: credence moderate, grade D and discriminability direct are unchanged, because the note removes an apparent contradiction between the two entries and adds no evidence.
 - **Updated 2026-10-22**: second revision ([pessimistic review 2026-10-22](/reviews/pessimistic-2026-10-22-memory-and-autonoesis/)). The kind is now stated as remembering-as against knowing-that, with the parent page's grant of De Brigard's necessity limb booked. The ledger was corrected to the 2026-10-12 [semanticisation](/concepts/semanticisation/) repairs: Talarico & Rubin's report-level fading is entered, and Willander & Larsson's memories are described by what the study measured. The access condition is dated, the falsifier's probe set closed to the design's three, and the never-run claim scoped to the Map's searches. No calibration axis moved: the standing is unchanged in kind, because the edits correct the record and add no measurement.
-- **Last reviewed**: 2026-10-22
+- **Updated 2026-11-10**: third revision. The mineness note's absence claim is rescoped from *attempted* to *delivered* to match the repaired [parent page](/topics/phenomenology-of-memory-and-the-self/), and Cooper & Ritchey (2022) are entered as [semanticisation](/concepts/semanticisation/) frames them. No calibration axis moved; band and falsifier are unchanged.
+- **Last reviewed**: 2026-11-10
