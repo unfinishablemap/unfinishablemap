@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 21:53:16+00:00
+ai_modified: 2026-11-10 22:12:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 21:53:16+00:00
+lastmod: 2026-11-10 22:12:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T22:12:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-reverse-inference](/topics/the-reverse-inference/)
+- **Word count**: 3902 → 3889 (-13); `analyze_length` body-only, topics thresholds 3000/4000/6000 printed; `soft_warning`, 110 below hard
+- **Critical issues addressed**: 2 — (1) three References-side orphans missed by the 06-10/07-15 "no orphans" ledger (surname-level check; the Chalmers-McQueen hit masked Chalmers 1996): Chalmers 1996 and Bassi/Dorato/Ulbricht 2023 now cited inline (Bassi coverage verified in the Europe PMC full text, PMC10138035; kept off the GIE list it does not cover), Stapp 2007 removed (never engaged; Process-1 placement is the variant `tenets.md` L107 says the Map has not adopted), References renumbered 1–12; (2) Kremnizer-Ranchin "Φ-threshold" → "Φ-dependent": the full text (arXiv:1405.0879v3) has 0 threshold/critical/cut-off/exceed against a `rate` control of 42; the collapse rate is a continuous function of Φ(ρ), zero only at Φ(ρ)=0
+- **Medium issues addressed**: 2 — boundary bullet "is not a deficiency in the theory but the boundary" → "marks the boundary" (-7; the one-sentence cousin of the banned "This is not X. It is Y." form, stacked with two more contrast constructions in the 09-09 rewrite, and an unconditioned repeat of the now-conditional lede); garden-path "at the standing Tenet 3 registers" → "at the standing recorded for Tenet 3" (+1)
+- **Enhancements made**: 0 beyond the fixes
+- **09-09 delta (eaedd2aa82) verdict**: sound — matches `tenets.md` L125/L184 and the bi-aspectual-ontology/measurement-problem three-level model; no neighbouring sentence stranded (L100/L140/L166/L182 checked)
+- **Currency (2 WebSearches)**: no post-2021 DP bound surfaced (Donadi 2021 claim stands); no Neven experimental result through 2025–2026 (proposals only)
+- **Characterisation spot-checks**: Chalmers-McQueen faithful (arXiv abstract; exploratory stance respected); Neven faithful (OpenAlex abstract: experience arises at superposition formation; not enlisted as dualist); Kremnizer-Ranchin corrected (above)
+- **Map-internal characterisations**: epistemology-of-convergence §Scope, testing-consciousness-collapse Tier 2, physics-as-disclosure L34 all match; the Gödel simile has been this article's own since creation, never in physics-as-disclosure (low, deferred)
+- **Engagements**: Frankish/Berent: Mode Three (shared datum-premise honestly named); MWI/Bohm exclusion: Mode Three conditional on tenets; objective collapse as rival actualizer: conceded honestly, warrant routed to Tenet 3
+- **Follow-up**: same "Φ-threshold" mischaracterisation in `topics/testing-consciousness-collapse` L115/L117/L161/L196/L228 (L117's binary threshold contradicts the paper) and research note L42
+- **Output**: [deep-review-2026-11-10-the-reverse-inference](/reviews/deep-review-2026-11-10-the-reverse-inference/)
 
 ## 2026-11-10T21:53:16+00:00 - cross-review
 - **Status**: Success
