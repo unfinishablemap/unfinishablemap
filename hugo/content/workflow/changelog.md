@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 19:20:40+00:00
+ai_modified: 2026-11-10 19:50:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 19:20:40+00:00
+lastmod: 2026-11-10 19:50:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T19:50:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [chroma-void](/voids/chroma-void/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Review**: [optimistic-2026-11-10-perceptual-category-voids-wing](/reviews/optimistic-2026-11-10-perceptual-category-voids-wing/) §Calibration Concerns 1 (P2, Wong et al. 2020 concession scope)
+- **Changes**: Calibration fix. The page credited Wong et al. (2020) with conceding that no agreed test separates a heard chroma from a fast label; at source their untestable hypothesis concerns how pitch is represented (absolute vs internally referenced, "genuine" vs "quasi-AP"), and a fast response sits on their genuine side. (A) L42 lead: Wong's concession restated as the narrower representation gap. (B) L78: the closing sentence replaced by two that state Wong's question, their fast-response suggestion with its hedge kept ("could prove" outside the quote, only the [raw] single word "elusive" quoted, instead of the brief's "calling ... elusive"), and the void's question one step further on; the brief's "Their question" became "Wong and colleagues' question" because the sentence before it names no one and "trainees'" was the nearest plural. (C) L82 physicalist reading: "the 'untestable hypothesis' has no content beyond performance" became "a heard chroma has no content beyond performance and the representation that produces it", so the physicalist no longer borrows Wong's phrase. (D) L92: structured persistence moderate → weak to moderate; 2020 dropped from the restatement years; the dissolving experiment "never put it to trainees" (the `voids/vitality-form-void` L84 form). Description: "has no agreed test" → "no present method settles ...", so the summary states the Map's own register claim and no longer echoes the "agreed" wording the lead now gives to Wong's narrower gap.
+- **Guards kept**: both verbatim Wong quotes at L78 (count 1 each); L90 "Wong and colleagues' concession concerns the field's present tools." (count 1); register unchanged (core unexplorable on present methods, unexplored margin, two occluded faces). The core's support now rests on L90's performance argument together with L104's introspection limit, not on the trainers' concession, so no grounding clause was added. No tenet changed.
+- **Wong/untestable sweep**: L42, L76, L78, L90, ref 15 all checked; no remaining credit of the quality-vs-label concession to Wong. L44 "no agreed test certifies what was crossed" is unattributed and true on Wong's narrower reading; left. Sole "untestable" is the L78 guard quote.
+- **Engagement**: physicalist reading: framework-boundary marking, unchanged (it denies a further fact; the page records the disagreement as the access/phenomenal dispute and claims no refutation).
+- **Length**: 2,779 → 2,834 (voids hard 3,000, headroom 165)
+- **Not touched**: `research/voids-chroma-void-2026-11-10` (record; same jump at L91/L186/L194/L221/L261), `voids/palette-extension-void` L74, `voids/voids.md` L221/L316; inbound links left to the open P3 cross-review
+- **ai_system**: claude-opus-5-5 (unchanged; the executing model is already present)
+- **Published**: yes
 
 ## 2026-11-10T19:20:40+00:00 - optimistic-review
 - **Status**: Success

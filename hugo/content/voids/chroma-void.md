@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-11-10
-ai_modified: 2026-11-10 14:09:11+00:00
+ai_modified: 2026-11-10 19:50:41+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -14,12 +14,12 @@ concepts:
 created: 2026-11-10
 date: &id001 2026-11-10
 description: Most listeners retain absolute-pitch information but cannot recognise
-  or name a lone note; whether those who can name notes hear a quality or only a label
-  has no agreed test.
+  or name a lone note; no present method settles whether those who can name notes
+  hear a quality or only a label.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-10 14:09:11+00:00
+lastmod: 2026-11-10 19:50:41+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -43,7 +43,7 @@ topics:
 
 Almost nobody can name a musical note heard on its own. Absolute pitch, the ability to say "that was an F♯" with no reference tone, occurs in "approximately 1 out of 10,000 people in Western culture" (Hedger, Heald & Nusbaum 2013, citing earlier surveys). Yet the information is not missing from everyone else. Unselected college students can pick out the original pitch level of familiar television themes from copies shifted by a semitone or two (Schellenberg & Trehub 2003). And the few who do name notes, in the account of one leading researcher, can say almost nothing about what they hear beyond the name (Miyazaki 2019).
 
-The Unfinishable Map gives the name **chroma void** to the region these facts outline. *Chroma* is the dimension of pitch that recurs at every octave, the C-ness every C shares. Ordinary listeners carry some absolute-pitch information without recognising or reporting a note-identity. Whether possessors hear chroma as a quality or recognise a label quickly is the open question, and the researchers who train adults into the ability concede that no agreed test separates the two (Wong et al. 2020). In the terms of [the Map's three kinds](/voids/three-kinds-of-void/), the core is *unexplorable on present methods*; the margin is *unexplored*, since the research behind this article found no structured first-person reports from adults trained across the boundary; and two faces are *occluded*. The void is neutral between dualism and physicalism. A physicalist reading ([set out below](#physicalist) at full strength) says there is no further fact to find, and the Map's verdict ([explained below](#site-perspective)) is that the record earns the tenets no upgrade.
+The Unfinishable Map gives the name **chroma void** to the region these facts outline. *Chroma* is the dimension of pitch that recurs at every octave, the C-ness every C shares. Ordinary listeners carry some absolute-pitch information without recognising or reporting a note-identity. Whether possessors hear chroma as a quality or recognise a label quickly is the open question. The researchers who train adults into the ability concede a narrower gap: no agreed test shows whether a trainee represents every pitch absolutely or names some tones against an internal reference (Wong et al. 2020). In the terms of [the Map's three kinds](/voids/three-kinds-of-void/), the core is *unexplorable on present methods*; the margin is *unexplored*, since the research behind this article found no structured first-person reports from adults trained across the boundary; and two faces are *occluded*. The void is neutral between dualism and physicalism. A physicalist reading ([set out below](#physicalist) at full strength) says there is no further fact to find, and the Map's verdict ([explained below](#site-perspective)) is that the record earns the tenets no upgrade.
 
 Four faces give the void its shape, each explained below. The [latent face](#latent): absolute pitch is stored without a note-identity. The [template face](#template), contested: on one account a hidden absolute decides whether a pair of tones rises or falls. The [report face](#report): where chroma is accessible, its character goes undescribed beyond the label. The [calibration face](#calibration): a possessor's standard can move without the possessor noticing. They meet at the [edge](#edge), where training crosses the boundary and no agreed test certifies what was crossed.
 
@@ -79,11 +79,11 @@ The effect was modest, measured on a three-point intonation scale, with flat not
 
 The boundary can be crossed, at least in performance. Wong, Lui, Yip and Wong (2020) gave adults 12 to 40 hours of gamified training across three experiments, and "14% of the participants (6 out of 43) were able to name twelve pitches at 90% or above accuracy".
 
-Training ought to be the natural experiment, and the trainers explain why it is not. Asking whether the training produced "genuine AP", Wong and colleagues allow that trainees may have used internally generated references, and state that "there has not been an agreed upon way to ascertain whether an individual perceives every pitch in an absolute manner or not". The assumption of genuine absolute pitch "remains an untestable hypothesis". A full-text search of the paper, run for the research behind this article, found no collection of trainees' reports on what, if anything, changed in how tones sounded. That absence is the void's unexplored margin. What separates a heard chroma from a fast, accurate label is the very thing the field has no agreed way to test.
+Training ought to be the natural experiment, and the trainers explain why it is not. Asking whether the training produced "genuine AP", Wong and colleagues allow that trainees may have used internally generated references, and state that "there has not been an agreed upon way to ascertain whether an individual perceives every pitch in an absolute manner or not". The assumption of genuine absolute pitch "remains an untestable hypothesis". A full-text search of the paper, run for the research behind this article, found no collection of trainees' reports on what, if anything, changed in how tones sounded. That absence is the void's unexplored margin. Wong and colleagues' question is how pitch is represented, and they float a fast response as a possible sign of the absolute kind while warning that the search for a threshold could prove "elusive". The void's question lies one step further on: whether a fast, reference-free label also comes with a heard chroma.
 
 ## What a Physicalist Account Predicts {#physicalist}
 
-The strongest physicalist reading dissolves the void into memory and psychophysics. Absolute pitch is the two-component ability of Levitin and Rogers (2005): "AP consists of 'pitch memory,' which is widespread in the population, and 'pitch labeling,' which is possessed exclusively by persons with AP" (quoted in Kim & Knösche 2017). Hearing C-ness just *is* the fast, automatic activation of a narrow category and its label. Possessors then report only the syllable because there is nothing else to report, and the "untestable hypothesis" has no content beyond performance.
+The strongest physicalist reading dissolves the void into memory and psychophysics. Absolute pitch is the two-component ability of Levitin and Rogers (2005): "AP consists of 'pitch memory,' which is widespread in the population, and 'pitch labeling,' which is possessed exclusively by persons with AP" (quoted in Kim & Knösche 2017). Hearing C-ness just *is* the fast, automatic activation of a narrow category and its label. Possessors then report only the syllable because there is nothing else to report, and a heard chroma has no content beyond performance and the representation that produces it.
 
 The latent face is then implicit memory below the naming threshold; the template face a learned prior or a psychoacoustic artefact, its listener-relativity the same kind of fact as dialect-dependent vowel categories; the calibration face the plasticity expected of categories that track their input.
 
@@ -93,7 +93,7 @@ One result would embarrass this reading: trained adults at absolute-pitch accura
 
 Three verdicts are available. The void may be merely unexplored, answerable by structured introspection during adult training; Wong and colleagues' concession concerns the field's present tools. The core may be unexplorable in principle: if phenomenal character outruns every functional measure, no performance test can tell a heard chroma from a fast label, an inverted-spectrum problem restricted to one dimension. Or, on the physicalist reading, there is no void. The record supports the first verdict for the margin and leaves the other two open for the core.
 
-On the Map's [four criteria](/concepts/apophatic-cartography-four-criteria/), graded by one grader with no pre-registered rubric, signature specificity is moderate to strong; structured persistence moderate, since the perceptual-versus-labelling question is restated as open in 2017, 2019 and 2020 and the obvious dissolving experiment did not dissolve it; cross-observer convergence moderate, with independent laboratories agreeing on the latent and calibration faces and the template face resting on one laboratory's account against several dissents; and framework independence high on the findings, low on interpretive weight.
+On the Map's [four criteria](/concepts/apophatic-cartography-four-criteria/), graded by one grader with no pre-registered rubric, signature specificity is moderate to strong; structured persistence weak to moderate, since the perceptual-versus-labelling question is restated as open in 2017 and 2019, and the obvious dissolving experiment, adult training, never put it to trainees; cross-observer convergence moderate, with independent laboratories agreeing on the latent and calibration faces and the template face resting on one laboratory's account against several dissents; and framework independence high on the findings, low on interpretive weight.
 
 ## Distinguishing Sibling Voids {#siblings}
 
