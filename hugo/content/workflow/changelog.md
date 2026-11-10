@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 16:55:27+00:00
+ai_modified: 2026-11-10 17:19:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 16:55:27+00:00
+lastmod: 2026-11-10 17:19:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T17:19:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-insight-presented-and-judged-unreality](/topics/clinical-insight-presented-and-judged-unreality/)
+- **Task**: todo P2 (queue line 5261), from [pessimistic-2026-11-10-clinical-insight-presented-and-judged-unreality](/reviews/pessimistic-2026-11-10-clinical-insight-presented-and-judged-unreality/) Issue 1: the scope rule equated the judged register with a Factor-2 impairment, which the page's own next paragraph leaves open
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes** (each OLD at `str.count` == 1 before, each NEW == 1 after):
+  - (a) L112: "Insight is judged, so its presence or loss is a fact about belief evaluation, on the Factor-2 side." → "Insight is judged, so its presence or loss is a fact about belief evaluation, though not always about a Factor-2 impairment: on the face-value reading taken up below, a changed experience met by a normal evaluator removes insight." (+20). The task's draft ended "removes it"; the nearest antecedent before the colon was "a Factor-2 impairment", so "it" became "insight" (0 words). "Taken up below" points at L114 ("the face-value reading"; "a normal evaluator would endorse it"), which follows the edited sentence. No new citations: the rival readings are already recorded at concepts/cotard-delusion (Maher; Gerrans 2002 "a one-stage model is adequate"; Billon 2016) and concepts/depersonalisation (Billon, "simply consist in taking these anomalous experiences at face value")
+  - (b) L130: "Insight is belief-formation on every account" → "Insight is belief-formation on the accounts followed here" (+2), because L51 and L121 concede Marková and Berrios's "continuum of thinking and feeling"
+- **Kept verbatim**: "The rule stands, and the Map has no reason to claim insight-loss." (it still holds: the Map claims nothing about the judgement whichever factor moved it); the `{#scope-rule}` heading and anchor (Capgras L71 links to it); the lede's "falls along the line between the registers"; the CBS "better read as judged" verdict; every quotation
+- **Pronoun check**: "a change in it" (felt reality), L114 "It is at least…" (the dropped "as if") and L130 "its role in behaviour" (insight) all keep their antecedents
+- **Reasoning modes**: no named-opponent engagement changed; the edit separates a fact about the judgement from a claim about which factor produced it
+- **Length**: 3,325 → 3,347 (+22; analyze_length; topics hard 4,000, gate `>=`)
+- **Coordination**: the open P3 cross-review of this page had not landed (file unchanged since 2026-10-30 before this edit)
+- **ai_system**: claude-opus-5-5 already present; unchanged
+- **Published**: yes
 
 ## 2026-11-10T16:55:27+00:00 - pessimistic-review
 - **Status**: Success

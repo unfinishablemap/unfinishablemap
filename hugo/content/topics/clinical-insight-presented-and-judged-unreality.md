@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-30
-ai_modified: 2026-10-30 17:17:17+00:00
+ai_modified: 2026-11-10 17:19:24+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[cotard-delusion]]'
 - '[[metacognition]]'
 created: 2026-10-30
-date: &id001 2026-10-30
+date: &id001 2026-11-10
 description: Clinical insight is a judgement about an experience whose felt reality
   is presented. CBS, phantom limbs and lucid dreams feel real and are judged unreal;
   depersonalisation runs the other way.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-30 17:17:17+00:00
-lastmod: 2026-10-30 17:17:17+00:00
+lastmod: 2026-11-10 17:19:24+00:00
 modified: *id001
 related_articles:
 - '[[perceptual-reality-monitoring-void]]'
@@ -113,7 +113,7 @@ One patient separates the second object from the third. Swartz and Brust (1984) 
 
 The Map's [Capgras article](/topics/capgras-delusion-and-the-affective-recognition-channel/) limits its claims under the two-factor model of delusion to Factor 1, the anomalous datum (experienced, on most accounts). Factor 2, the impairment of belief evaluation that turns an anomaly into a fixed delusion, is a reasoning pathology on which the Map takes no position. [Cotard delusion](/concepts/cotard-delusion/) inherits the rule. The two registers show where it falls.
 
-Insight is judged, so its presence or loss is a fact about belief evaluation, on the Factor-2 side. The rule stands, and the Map has no reason to claim insight-loss. Felt reality is presented, so a change in it is an experiential fact on the Factor-1 side, inside the Map's territory; derealisation is the clean case.
+Insight is judged, so its presence or loss is a fact about belief evaluation, though not always about a Factor-2 impairment: on the face-value reading taken up below, a changed experience met by a normal evaluator removes insight. The rule stands, and the Map has no reason to claim insight-loss. Felt reality is presented, so a change in it is an experiential fact on the Factor-1 side, inside the Map's territory; derealisation is the clean case.
 
 Cotard's dropped "as if" is the hard case. It is at least a change in the report-level judgement, since the "as if" was the judgement's mark. Whether it is also a change in what is presented (an experience so global that a normal evaluator would endorse it) is the dispute the Cotard article sets out between the face-value reading and the revised two-factor account. Nothing in the insight literature closes it, and the Map leaves it open.
 
@@ -131,7 +131,7 @@ The two-register reading is the best fit to this record. The record does not for
 
 **Dualism.** The distinction leaves the [Dualism tenet](/tenets/#dualism) where it was. A presented felt-reality variable has physicalist models: working in active inference, which Friston develops as a physicalist framework, Limanowski and Friston (2018) propose "a relationship of phenomenal opacity to expected uncertainty or precision", modelling a presented feature close to felt reality. A judged reality-status is ordinary cognition on any metaphysics. The [hard problem](/topics/hard-problem-of-consciousness/) applies to the felt-real signal as to any phenomenal quality, and this subject adds nothing to it either way. None of the authors cited here draws a conclusion about dualism, and the Map enlists none of them for one. The Map's own phenomenal claims about clinical cases belong in the presented register.
 
-**Bidirectional Interaction.** Nothing here bears on the [tenet](/tenets/#bidirectional-interaction). Insight is belief-formation on every account, and its role in behaviour (a CBS patient touching hallucinated "grass" to check it; Fisher et al. 2026) is available to any metaphysics. That is no concession that experience is causally idle; the tenet's case rests elsewhere.
+**Bidirectional Interaction.** Nothing here bears on the [tenet](/tenets/#bidirectional-interaction). Insight is belief-formation on the accounts followed here, and its role in behaviour (a CBS patient touching hallucinated "grass" to check it; Fisher et al. 2026) is available to any metaphysics. That is no concession that experience is causally idle; the tenet's case rests elsewhere.
 
 **Occam's Razor Has Limits.** The [fifth tenet](/tenets/#occams-limits) binds the Map's own tidiness in both directions. The Map's first write-up of CBS chose the presented register for that syndrome without a source, settling by assertion a question the evidence answers the other way. Equally, a single-register judgement account should not be adopted for its economy when depersonalisation shows a presented variable. Two registers is the less economical picture, and the record supports it.
 
