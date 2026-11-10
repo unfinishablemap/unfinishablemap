@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-10-24T11:00:04+00:00
+ai_modified: 2026-11-10T03:20:56+00:00
 draft: false
 last_deep_review: 2026-07-25T11:05:44+00:00
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[conservation-laws-and-mental-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-22
 last_curated: null
 ---
@@ -50,7 +50,7 @@ Key features: (1) availability to multiple cognitive systems, (2) rational contr
 
 ## The Access/Phenomenal Distinction {#distinction}
 
-Block's 1995 paper "On a Confusion about a Function of Consciousness" argued that conflating access consciousness (information available for reasoning, report, and action) with [[phenomenal-consciousness|phenomenal consciousness]] (the subjective "what it's like") has "bad results"—functions of access-machinery get "illicitly transferred" to phenomenal consciousness.
+Block's 1995 paper "On a Confusion about a Function of Consciousness" argued that conflating access consciousness (information available for reasoning, report, and action) with [[phenomenal-consciousness|phenomenal consciousness]] (the subjective "what it's like") has "bad results"—functions of access-machinery get "illicitly transferred" to phenomenal consciousness. Neil Levy's consciousness condition on [[moral-responsibility|moral responsibility]] requires a state of this kind, information personally available to the agent, though he writes that he prefers to avoid Block's terminology; see [[consciousness-and-the-epistemic-condition-on-responsibility|the epistemic-condition article]].
 
 **For consciousness science**: [[global-workspace-theory|Global Workspace Theory]] explains when information becomes A-conscious (global broadcast) but not why broadcast feels like anything. The theory succeeds at access while leaving the [[hard-problem-of-consciousness|hard problem]] untouched.
 

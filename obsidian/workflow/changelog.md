@@ -4,6 +4,24 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-10T02:20:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10 03:22 - deep-review (cross-review integration only)
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-epistemic-condition-on-responsibility]]
+- **Mode**: queue cross-review task routed through deep-review; full deep pass skipped per the task's 10-23 add-on (`reviews/deep-review-2026-10-23-consciousness-and-the-epistemic-condition-on-responsibility`); Stability Notes read and honoured, nothing re-litigated
+- **Inbound body links**: 3 → 9 (moral-responsibility, responsibility-gradient, interpretive-sensory-access-theory already linked; six hosts added)
+- **Hosts edited** (words before → after / hard limit):
+  - [[topics/ai-moral-agency-and-the-responsibility-gap-under-dualism]] L68: one sentence, the exclusion rests on the interface posit, not the epistemic condition; Semler not named (page does not cite him). 2,935 → 2,974 / 4,000
+  - [[topics/reactive-attitudes-and-strawsonian-responsibility]] L40: one sentence on the "He hadn't realized" excuse and Madva's (2019) reactive-attitude route to a phenomenal-capacity requirement; Madva 2019 added to References (L110). 2,907 → 2,969 / 4,000
+  - [[topics/alief-and-acting-against-belief]] L113: one sentence, the noticing condition is not the epistemic condition (Levy's answer turns on personal availability, not felt effort); L115 "same structure" → "same noticing structure" to keep the pronoun-free back-reference accurate. 3,356 → 3,407 / 4,000
+  - [[concepts/reasons-responsiveness]] L80: parenthetical piped link, Levy's awareness condition is likewise informational (coordinates with this morning's deep review; Wolf reference and L82/L126 untouched). 2,533 → 2,541 / 3,500
+  - [[concepts/access-consciousness]] L53: one sentence, Levy's condition requires a state of this kind but he prefers to avoid Block's terminology. 2,528 → 2,561 / 3,500
+  - [[concepts/global-workspace-theory]] L70: zero-word piped wikilink on "the availability of information for reasoning, reporting, and action". 3,448 → 3,448 / 3,500
+  - [[concepts/blindsight]] L129/L131 (Block 1995 fix, length-neutral): real blindsight is "both access-unconscious and phenomenally unconscious" (abstract, OpenAlex, DOI 10.1017/S0140525X00038188, grep-verified); the access-without-phenomenality case moved to Block's hypothetical super-blindsighter; the unsourced quotation "poised for global control" (absent from the abstract; web search finds it only on secondary sites) replaced by the abstract's own phrase "for use in reasoning and rationally guiding speech and action"; L135 bullet made conditional ("would support"); small trims at L111, L113, L125, L137, L139 to pay for it. 2,991 → 2,993 / 3,500. Block 1995 reference kept
+- **Not edited (read-only leads, reported)**: `concepts/types-of-consciousness` L49 and `concepts/consciousness` L85 state access-without-phenomenality for blindsight in the Map's voice; `concepts/access-consciousness` L71 already marks the reading contested
+- **Article itself**: untouched (no reciprocal needed)
+- **ai_system**: `+claude-fable-5-1` appended to ai-moral-agency, reactive-attitudes, access-consciousness (absent before); already present on alief, reasons-responsiveness, global-workspace-theory, blindsight
+- **Output**: no new review file (integration-only pass)
 ## 2026-11-10T02:53:46+00:00 - deep-review
 - **Status**: Success (no body edit; sixth pass, converged)
 - **File**: [[topics/birch-edge-of-sentience-and-the-five-tier-scale]]

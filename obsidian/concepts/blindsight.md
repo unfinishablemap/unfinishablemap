@@ -4,7 +4,7 @@ description: "Blindsight patients discriminate visual stimuli they cannot consci
 created: 2026-01-23
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-11-09T17:48:16+00:00
+ai_modified: 2026-11-10T03:20:56+00:00
 last_deep_review: 2026-07-10T20:57:28+00:00
 draft: false
 topics:
@@ -109,34 +109,34 @@ The [[baseline-cognition|baseline cognition]] hypothesis proposes that unconscio
 - Verbal report or explicit knowledge ("describe what's there")
 - Integration into episodic memory (patients don't remember "seeing" stimuli later)
 
-The blindsight patient's visual system can answer "which one?" but not "what is it?" or "am I correct?" The information influences behavior but doesn't enter the workspace for reasoning, planning, or explicit memory formation. See [[conscious-vs-unconscious-processing]] for the three consciousness-requiring functions that blindsight lacks: durable maintenance, novel combinations, and spontaneous intentional action.
+The blindsight patient's visual system can answer "which one?" but not "what is it?" or "am I correct?" The information influences behavior without entering the workspace for reasoning, planning, or explicit memory. See [[conscious-vs-unconscious-processing]] for the three consciousness-requiring functions that blindsight lacks: durable maintenance, novel combinations, and spontaneous intentional action.
 
-[[global-workspace-theory|Global Workspace Theory]]—one influential framework among several—formalizes this distinction. Unconscious processing operates in specialized modules (V2, V3, V5 for motion, ventral stream for object recognition) that can influence motor systems directly. Conscious processing broadcasts information globally, making it available to working memory, verbal report systems, and metacognitive monitoring. [[higher-order-theories|Higher-order theories]] offer an alternative explanation: blindsight patients lack the higher-order representations that constitute consciousness, while retaining first-order visual representations that support discrimination. Blindsight preserves modular processing while losing global broadcast or higher-order access.
+[[global-workspace-theory|Global Workspace Theory]]—one influential framework among several—formalizes this distinction. Unconscious processing operates in specialized modules (V2, V3, V5 for motion, ventral stream for object recognition) that influence motor systems directly. Conscious processing broadcasts information globally, to working memory, verbal report, and metacognitive monitoring. [[higher-order-theories|Higher-order theories]] offer an alternative explanation: blindsight patients lack the higher-order representations that constitute consciousness, while retaining first-order visual representations that support discrimination. Blindsight preserves modular processing while losing global broadcast or higher-order access.
 
 ## Double Dissociation: Blind Insight
 
 The inverse dissociation strengthens the case. In "blind insight" paradigms, subjects show metacognitive sensitivity—confidence tracks accuracy—even when first-order performance is at chance (Scott et al., 2014). In the original demonstration, participants judging artificial grammar strings performed at chance on grammaticality but showed above-chance confidence calibration. Though this involves learning rather than perception, the conceptual mirror to blindsight is striking: metacognitive access without first-order success.
 
-The double dissociation (blindsight: discrimination without confidence; blind insight: confidence without discrimination) spans different domains and populations, which limits the inferential force somewhat. Still, it suggests three separable systems:
+The double dissociation (blindsight: discrimination without confidence; blind insight: confidence without discrimination) spans different domains and populations, which somewhat limits its inferential force. Still, it suggests three separable systems:
 1. **Unconscious processing** (feature extraction, object recognition)
 2. **Phenomenal consciousness** (qualia, "what it's like")
 3. **Metacognitive access** (monitoring, confidence judgments)
 
-Blindsight shows system 1 without 2 or 3. Blind insight shows system 3 without clear 1 or 2. Normal vision integrates all three. The separability implies consciousness is not reducible to either processing or metacognition.
+Blindsight shows system 1 without 2 or 3. Blind insight shows system 3 without clear 1 or 2. Normal vision integrates all three. Separability implies consciousness is not reducible to either processing or metacognition.
 
 ## Block's Access/Phenomenal Distinction
 
-Blindsight is central to Ned Block's influential distinction between [[access-consciousness]] and [[phenomenal-consciousness]]. Block argues that the two can dissociate—blindsight being the paradigm case of information reaching cognitive systems (partial access) without phenomenal awareness.
+Blindsight is central to Ned Block's distinction between [[access-consciousness]] and [[phenomenal-consciousness]]. Block argues the two can dissociate, but his access-without-phenomenality case is a hypothetical super-blindsighter who guesses unprompted; actual blind-field stimuli, he holds, are "both access-unconscious and phenomenally unconscious" (1995).
 
-On Block's analysis, blindsight patients retain information "poised for global control"—it influences forced-choice responses and guides reaching—but lacks the "something it is like" quality of normal vision.
+On his analysis the information behind forced-choice "guesses" is unavailable "for use in reasoning and rationally guiding speech and action", his mark of access, and lacks the "something it is like" of normal vision.
 
 What the case shows depends on which dissociation is present:
 
-- **Access without phenomenology** supports Block's claim that the two are distinct properties
+- **Access without phenomenology** would support Block's claim that the two are distinct
 - **Degraded phenomenology with metacognitive failure** makes the dissociation less clean—both degrade together
-- **Neither access nor phenomenology** (residual V1 explains performance) weakens the dissociation claim entirely
+- **Neither access nor phenomenology** (residual V1 explains performance) undercuts the dissociation claim
 
-The stakes are whether blindsight demonstrates processing in the complete absence of phenomenal character, or merely that processing and phenomenology degrade together when V1 is damaged.
+The stakes are whether blindsight shows processing without any phenomenal character, or only that processing and phenomenology degrade together when V1 is damaged.
 
 ## Implications for Dualism
 

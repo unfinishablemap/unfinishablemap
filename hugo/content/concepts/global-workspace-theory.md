@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-05 03:03:22+00:00
+ai_modified: 2026-11-10 03:20:56+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:46:17+00:00
-lastmod: 2026-11-05 03:03:22+00:00
+lastmod: 2026-11-10 03:20:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ GNW distinguishes three states:
 
 ## The Access/Phenomenal Distinction
 
-GWT explicitly addresses only *access consciousness*—the availability of information for reasoning, reporting, and action. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace. The [full taxonomy of consciousness types](/concepts/types-of-consciousness/) shows these are structurally independent dimensions that can dissociate.
+GWT explicitly addresses only *access consciousness*—[the availability of information for reasoning, reporting, and action](/topics/consciousness-and-the-epistemic-condition-on-responsibility/). It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace. The [full taxonomy of consciousness types](/concepts/types-of-consciousness/) shows these are structurally independent dimensions that can dissociate.
 
 Ned Block's "overflow" argument holds that we experience more than we can report—the Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If right, GWT captures accessibility while missing richer phenomenal experience. Dennett counters that apparent overflow is retrospective construction—we *believe* we saw all twelve letters, but this belief is generated after the fact, so there is no experience beyond what the workspace makes accessible.
 

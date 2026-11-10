@@ -4,7 +4,7 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-11-05T03:03:22+00:00
+ai_modified: 2026-11-10T03:20:56+00:00
 draft: false
 last_deep_review: 2026-07-25T14:46:17+00:00
 topics:
@@ -67,7 +67,7 @@ GNW distinguishes three states:
 
 ## The Access/Phenomenal Distinction
 
-GWT explicitly addresses only *access consciousness*—the availability of information for reasoning, reporting, and action. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace. The [[types-of-consciousness|full taxonomy of consciousness types]] shows these are structurally independent dimensions that can dissociate.
+GWT explicitly addresses only *access consciousness*—[[consciousness-and-the-epistemic-condition-on-responsibility|the availability of information for reasoning, reporting, and action]]. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace. The [[types-of-consciousness|full taxonomy of consciousness types]] shows these are structurally independent dimensions that can dissociate.
 
 Ned Block's "overflow" argument holds that we experience more than we can report—the Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If right, GWT captures accessibility while missing richer phenomenal experience. Dennett counters that apparent overflow is retrospective construction—we *believe* we saw all twelve letters, but this belief is generated after the fact, so there is no experience beyond what the workspace makes accessible.
 

@@ -4,7 +4,7 @@ description: "P.F. Strawson's 1962 dissolution of the free-will problem, present
 created: 2026-07-09
 modified: 2026-10-26
 human_modified:
-ai_modified: 2026-10-26T02:30:06+00:00
+ai_modified: 2026-11-10T03:20:56+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[compatibilist-symmetry-challenge]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-10-26T02:30:06+00:00
@@ -37,7 +37,7 @@ The reactive attitudes track **quality of will**—whether an action expresses g
 
 Strawson then examines the two families of consideration that **modify or suspend** the reactive attitudes, because they reveal the structure of the practice from the inside:
 
-- **Excuses** (Strawson's examples: "He didn't mean to," "He hadn't realized," "He was pushed") show that the act did not, after all, express ill will. The reactive attitude becomes inapt in this instance, but the agent remains a full member of the moral community—someone with whom we go on engaging as a participant.
+- **Excuses** (Strawson's examples: "He didn't mean to," "He hadn't realized," "He was pushed") show that the act did not, after all, express ill will. The reactive attitude becomes inapt in this instance, but the agent remains a full member of the moral community—someone with whom we go on engaging as a participant. The "He hadn't realized" excuse is where the [[consciousness-and-the-epistemic-condition-on-responsibility|epistemic condition on responsibility]] enters Strawson's account; Madva (2019) later runs the reactive attitudes the other way, arguing, with their qualitative character in view, that the capacity for phenomenal consciousness is necessary for moral responsibility.
 - **Exemptions** (Strawson's examples: "He wasn't himself," "He has been under very great strain recently," "He's only a child," "He's a hopeless schizophrenic") lead us to suspend the reactive attitudes toward the person rather than merely re-describe the act—"either at the time of his action or all the time," as Strawson puts it, the first sub-group being episodic and the second standing. Here we adopt what Strawson calls the **objective attitude**: we view the individual as someone to be managed, treated, handled, or avoided, rather than reasoned with as a participant in ordinary adult relationship.
 
 The excuse/exemption distinction does real work later, because critics press on exactly what determines when an exemption is warranted.
@@ -107,6 +107,7 @@ It is worth noting that Strawson is pressed from the *opposite* flank too. Free-
 1. Fischer, J. M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge: Cambridge University Press.
 1. McKenna, M., & Russell, P. (eds.) (2008). *Free Will and Reactive Attitudes: Perspectives on P. F. Strawson's "Freedom and Resentment"*. Farnham: Ashgate.
 1. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford: Oxford University Press.
+1. Madva, A. (2019). Equal rights for zombies?: Phenomenal consciousness and responsible agency. *Journal of Consciousness Studies*, 26(5–6), 117–140.
 1. Strawson, G. (1994). "The Impossibility of Moral Responsibility." *Philosophical Studies*, 75(1–2), 5–24. [Galen Strawson, included for disambiguation only.]
 1. Stanford Encyclopedia of Philosophy. "Compatibilism." https://plato.stanford.edu/entries/compatibilism/
 1. Stanford Encyclopedia of Philosophy. "Peter Frederick Strawson." https://plato.stanford.edu/entries/strawson/

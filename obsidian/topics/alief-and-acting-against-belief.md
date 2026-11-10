@@ -4,7 +4,7 @@ description: "Human+AI study of Gendler's alief and its rivals: acting on belief
 created: 2026-10-21
 modified: 2026-10-31
 human_modified:
-ai_modified: 2026-11-09T19:49:59+00:00
+ai_modified: 2026-11-10T03:20:56+00:00
 draft: false
 topics:
   - "[[akrasia-and-weakness-of-will]]"
@@ -110,9 +110,9 @@ The fit is real but tests nothing. A dual-process account predicts the same spli
 
 Felt effort needs the conflict to be noticed. Gendler (2014, abstract) says associative and heuristic processes "produce challenges to reason's rule that are phenomenologically invisible". Greenwald and Banaji (1995, abstract) define implicit cognition by influence "not introspectively known by the actor", and note that "implicit cognitive effects are often reduced by focusing judges' attention on their judgment task". Juliet's striving is intermittent because "it's impossible to constantly maintain such self-conscious vigilance" (Schwitzgebel 2010, p. 532).
 
-So the back-end speculation has to be conditional. Effort can appear where the rival guide is noticed and checked; where interference goes unseen there is nothing to feel. The skywalk visitor notices her vertigo. Implicit bias carries no such guarantee, and nothing here claims that felt effort accompanies implicit bias as such.
+So the back-end speculation has to be conditional. Effort can appear where the rival guide is noticed and checked; where interference goes unseen there is nothing to feel. The skywalk visitor notices her vertigo. Implicit bias carries no such guarantee, and nothing here claims that felt effort accompanies implicit bias as such. Nor is the noticing condition the epistemic condition on responsibility: whether an agent who fails to notice a bias's influence is thereby excused is a separate question, surveyed in [[consciousness-and-the-epistemic-condition-on-responsibility|the Map's epistemic-condition article]], where Levy's answer turns on what is personally available to the agent rather than on felt effort.
 
-Emotion regulation shows the same structure: the extended process model begins explicit regulation with identification, registering that an emotion calls for regulating, while implicit regulation can proceed without awareness of regulating ([[emotion-regulation-and-the-timing-of-control|the timing of emotion regulation]]).
+Emotion regulation shows the same noticing structure: the extended process model begins explicit regulation with identification, registering that an emotion calls for regulating, while implicit regulation can proceed without awareness of regulating ([[emotion-regulation-and-the-timing-of-control|the timing of emotion regulation]]).
 
 ## A Parity With Doxastic Involuntarism {#parity}
 

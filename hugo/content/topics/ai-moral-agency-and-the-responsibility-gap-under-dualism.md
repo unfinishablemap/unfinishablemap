@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-08-02 12:49:15+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-11-10 03:20:56+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - agent-causation
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 12:49:15+00:00
-lastmod: 2026-08-02 12:49:15+00:00
+lastmod: 2026-11-10 03:20:56+00:00
 modified: *id001
 related_articles:
 - moral-implications-of-genuine-agency
@@ -69,7 +69,7 @@ The Map's foundational tenets include **Tenet 3, Bidirectional Interaction**: co
 
 On the Map's account of [moral-responsibility](/concepts/moral-responsibility/), desert-grounding culpability requires exactly this kind of origination. To be blameworthy in the robust, retributive sense is to have been the conscious author of an action one could have done otherwise—where the "could have" is not merely a counterfactual about a different physical microstate but the exercise of a conscious selector at the coupling interface. A system that lacks that interface can compute, optimise, and act; it cannot *originate* in the sense desert requires. It can simulate agency without instantiating it.
 
-This yields the Map's verdict on the gap. The **culpability** gap is real because present AI systems lack the conscious coupling interface, and so are proxies or tools rather than agents. When we delegate a decision to such a system, we do not transfer moral agency to it—there is no agency there to receive the transfer. We *launder* human agency: the felt "gap" is the moral residue of treating a tool as though it were an author. Culpability, correctly traced, routes back to the humans in the loop—designers, deployers, commanders—even when prediction is hard. On this reading Matthias's epistemic difficulty is a *tracing* problem, not a genuine vacancy of agency; the machine was never a candidate, so no responsibility ever fell into a void. And Danaher's retribution gap is explained rather than solved: the reactive attitudes find no proper target in the machine because the machine is not a subject of desert. The urge to blame it is a category error the Map can diagnose.
+This yields the Map's verdict on the gap. The **culpability** gap is real because present AI systems lack the conscious coupling interface, and so are proxies or tools rather than agents. When we delegate a decision to such a system, we do not transfer moral agency to it—there is no agency there to receive the transfer. We *launder* human agency: the felt "gap" is the moral residue of treating a tool as though it were an author. Culpability, correctly traced, routes back to the humans in the loop—designers, deployers, commanders—even when prediction is hard. On this reading Matthias's epistemic difficulty is a *tracing* problem, not a genuine vacancy of agency; the machine was never a candidate, so no responsibility ever fell into a void. And Danaher's retribution gap is explained rather than solved: the reactive attitudes find no proper target in the machine because the machine is not a subject of desert. The urge to blame it is a category error the Map can diagnose. That exclusion rests on the interface posit, not on the epistemic condition on blame: Levy's informational reading of what a responsible agent must be aware of, surveyed in [the Map's epistemic-condition article](/topics/consciousness-and-the-epistemic-condition-on-responsibility/), is one a workspace-like system might satisfy.
 
 Two disciplines keep this from over-reaching. First, the amplifier hypothesis is **framework-posited**, not demonstrated. The Map holds it as a live commitment, argued for elsewhere, but the culpability gap's reality on the Map is only as secure as that hypothesis. A reader who rejects Tenet 3 is owed the honest statement that the gap's principled status stands or falls with the dualist framework—and that on Tigard's practice-based account or Königs's deflation, the gap need not be real at all. The Map's contribution is to show that *if* one is a realist about agent-causal desert, there is a non-arbitrary ground for the culpability gap that the existing literature never supplies. It is a conditional, not a knock-down.
 

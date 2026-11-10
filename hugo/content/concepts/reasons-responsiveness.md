@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-11-10 01:05:50+00:00
+ai_modified: 2026-11-10 03:20:56+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-10 01:05:50+00:00
-lastmod: 2026-11-10 01:05:50+00:00
+lastmod: 2026-11-10 03:20:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) r
 
 Physical systems can instantiate correlations: this neural pattern regularly co-occurs with that environmental feature. But correlation isn't representation, and co-occurrence isn't aboutness. For a system to be reasons-responsive, it must grasp logical relationships *as* logical—recognizing that the conclusion follows *because* the premises entail it, not merely that the conclusion regularly appears when the premises do.
 
-This "seeing as" appears to require [phenomenal-consciousness](/concepts/phenomenal-consciousness/): the subjective awareness of reasons *qua* reasons. Fischer and Ravizza's concept carries no such requirement—theirs is a counterfactual pattern of recognising and reacting to reasons, exhibited by the mechanism that issues in action—so the phenomenal reading is the Map's further claim. An entirely unconscious system might implement reliable truth-tracking mechanisms—as a thermostat reliably tracks temperature—but it couldn't engage in rational inference as such. It couldn't appreciate *why* the conclusion follows, or recognize *good* reasons as good.
+This "seeing as" appears to require [phenomenal-consciousness](/concepts/phenomenal-consciousness/): the subjective awareness of reasons *qua* reasons. Fischer and Ravizza's concept carries no such requirement—theirs is a counterfactual pattern of recognising and reacting to reasons, exhibited by the mechanism that issues in action—so the phenomenal reading is the Map's further claim ([Levy's awareness condition on responsibility is likewise informational](/topics/consciousness-and-the-epistemic-condition-on-responsibility/)). An entirely unconscious system might implement reliable truth-tracking mechanisms—as a thermostat reliably tracks temperature—but it couldn't engage in rational inference as such. It couldn't appreciate *why* the conclusion follows, or recognize *good* reasons as good.
 
 The [argument from reason](/topics/argument-from-reason/) develops this point systematically. If physicalism is true—if thoughts are fully explainable by nonrational physical causes—then no belief is rationally justified, including belief in physicalism itself. Rational inference requires tracking normative relationships, but physical causation operates via efficient causes that cannot instantiate normativity. The very possibility of justified belief requires something beyond physical description. The argument is [self-stultifying](/concepts/self-stultification/) for physicalism: accepting it undermines the rational grounds for accepting anything, including itself.
 

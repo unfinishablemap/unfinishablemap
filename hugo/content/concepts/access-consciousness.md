@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-10-24 11:00:04+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-11-10 03:20:56+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 11:05:44+00:00
-lastmod: 2026-10-24 11:00:04+00:00
+lastmod: 2026-11-10 03:20:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ Key features: (1) availability to multiple cognitive systems, (2) rational contr
 
 ## The Access/Phenomenal Distinction {#distinction}
 
-Block's 1995 paper "On a Confusion about a Function of Consciousness" argued that conflating access consciousness (information available for reasoning, report, and action) with [phenomenal consciousness](/concepts/phenomenal-consciousness/) (the subjective "what it's like") has "bad results"—functions of access-machinery get "illicitly transferred" to phenomenal consciousness.
+Block's 1995 paper "On a Confusion about a Function of Consciousness" argued that conflating access consciousness (information available for reasoning, report, and action) with [phenomenal consciousness](/concepts/phenomenal-consciousness/) (the subjective "what it's like") has "bad results"—functions of access-machinery get "illicitly transferred" to phenomenal consciousness. Neil Levy's consciousness condition on [moral responsibility](/concepts/moral-responsibility/) requires a state of this kind, information personally available to the agent, though he writes that he prefers to avoid Block's terminology; see [the epistemic-condition article](/topics/consciousness-and-the-epistemic-condition-on-responsibility/).
 
 **For consciousness science**: [Global Workspace Theory](/concepts/global-workspace-theory/) explains when information becomes A-conscious (global broadcast) but not why broadcast feels like anything. The theory succeeds at access while leaving the [hard problem](/topics/hard-problem-of-consciousness/) untouched.
 
