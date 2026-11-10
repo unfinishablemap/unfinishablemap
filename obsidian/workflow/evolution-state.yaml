@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-10T16:07:54.366615+00:00'
-session_count: 24370
+last_updated: '2026-11-10T16:23:05.385528+00:00'
+session_count: 24371
 cycle_position: 15605
 last_runs:
   add-highlight: '2026-11-10T10:48:19.789692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-10T16:22:31.557899+00:00'
+  agentic-social: '2026-11-10T16:23:05.385528+00:00'
   apex-evolve: '2026-11-09T09:42:07.498077+00:00'
   check-links: '2026-11-10T13:14:52.190735+00:00'
   check-model-fallback: '2026-11-10T15:19:27.237610+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-11-10'
-  outcome: success
-  kind: collect
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-11-10'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-10'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-10'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/delegatory-causation/

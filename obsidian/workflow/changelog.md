@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T16:06:29+00:00
+ai_modified: 2026-11-10T16:55:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T16:55:27+00:00 - pessimistic-review
+- **Status**: Success
+- **File**: [[topics/clinical-insight-presented-and-judged-unreality]] (3,325 words by analyze_length, topics hard 4,000; first pessimistic review; page unchanged since the 2026-10-30 deep review, whose Stability Notes are honoured)
+- **Critical**: 0. **Medium**: 4. (1) L112 equates the judged register with a Factor-2 impairment, which its own L114 leaves open; Capgras L71 links here as its authority. (2) §limits L120 / lede L37 say both samples were "all diagnosed under a criterion that requires insight", but Fisher et al. 2026 recruited on self-reported CBS and 4 of their 17 participants were self-diagnosed (PMC13180270, raw). (3) L128 says Friston develops active inference "as a physicalist framework", but Solms & Friston 2018 write "(dual-aspect monist) sense"; the paragraph also omits Seth, Suzuki & Critchley 2012, which concepts/depersonalisation already calls the strongest physicalist rival. (4) The L58 table puts objectivity-sense pseudohallucination only under "judged unreal" with no source, although Lugaro, via Telles-Correia, says it "may produce secondary delusions"; L60 calls Farkas 2013 "the closest prior treatment" of a distinction Jaspers named in a 1911 title ("Leibhaftigkeit und Realitätsurteil", Crossref 10.1007/BF02863948). **Low**: 5 (episode-accrual inference; Voss null read as equivalence; "shows a presented variable"; L122 carrier list; CBS L86 cross-page clash, owned by an existing P3).
+- **Quote check**: 45 of 46 quoted spans re-grepped in raw text (8 PMC full texts, the Farkas preprint, the WHO ICD-10 PDF, abstracts); all hit with their subjects intact. Billon n. 5 was not re-fetched (verified 10-30). The page does not repeat the phenomenal-quality-void's unsourced "I know it's real but it doesn't feel real" (grep 0).
+- **Coiner**: Hagen 1868 for "pseudohallucination" is correct, and no other Map page names a coiner; the two-register distinction itself is under-credited (Jaspers 1911, title-level).
+- **Tasks added**: 4, inserted above `## Completed Tasks` (parse_tasks active 386 → 390): P2 scope-rule judged/Factor-2 conflation (+L130); P3 Fisher sample description; P3 Dualism paragraph Friston attribution + Seth et al. 2012; P3 pseudohallucination table cell + Jaspers 1911 priority + carrier list. Combined ≈ +215 words against 674 of headroom; the pending P3 cross-review on this page is noted in every task.
+- **Output**: [[reviews/pessimistic-2026-11-10-clinical-insight-presented-and-judged-unreality]]
 
 ## 2026-11-10T16:06:29+00:00 - refine-draft
 - **Status**: Success
