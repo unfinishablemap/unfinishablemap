@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 22:12:35+00:00
+ai_modified: 2026-11-10 22:20:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 22:12:35+00:00
+lastmod: 2026-11-10 22:20:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T22:20:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Task**: todo P2 (queue line 5289), follow-up from [deep-review-2026-11-10-the-reverse-inference](/reviews/deep-review-2026-11-10-the-reverse-inference/) Issue 2
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Source re-verified**: arXiv:1405.0879v3 full-text PDF (pdftotext, 4,459 words): threshold / critical / cut-off / exceed all 0, `rate` 42. Eq. (15): "hn,m are continuous functions of the QII of ρ (which are all zero when Φ(ρ) = 0)". Direction is stated as an expectation only ("physical systems which have a high QII should naturally collapse faster"); no functional form or monotonicity is derived ("Further details will require more fine tuning and input from experiments"). The paper gives Φ = 0 ⇒ rate 0, not the converse, so "zero *only* at Φ = 0" (sibling review/changelog wording) is not supported and was not used
+- **Changes** (each OLD count 1 before → 0 after, NEW 1 after): L115 heading "Phi-Threshold" → "Phi-Dependent"; L117 "collapse operator depends on … (Φ). Systems exceeding a Φ threshold undergo spontaneous localisation; systems below it remain in superposition." → "collapse rate varies continuously with … (Φ), vanishing at Φ = 0. The authors expect high-Φ systems to collapse faster."; L161 "Phi-threshold and Q-shape" → "Phi-dependent and Q-shape"; L196 table row; L228 "Phi-threshold model" → "Phi-dependent model"; L232 "Phi-threshold test" → "Phi-dependent test"
+- **Downstream check**: L119 Chalmers-McQueen "should lose coherence faster" now rests on the stated authors' expectation; L121/L123 need no change; no `#phi-threshold` self-link or inbound anchor link exists. L113 "mass thresholds" (generic objective-collapse framing, not K-R) left as is
+- **Word count**: 3997 → 3996 (-1); `analyze_length` body-only, topics thresholds 3000/4000/6000; `soft_warning`
+- **ai_system**: unchanged (`claude-opus-5-5` already present)
+- **Not edited (records/archive)**: [testable-predictions-consciousness-collapse-decoherence-2026-03-29](/research/testable-predictions-consciousness-collapse-decoherence-2026-03-29/) L42; archived `testable-predictions-consciousness-collapse-decoherence` L75 heading
+- **Published**: yes
 
 ## 2026-11-10T22:12:35+00:00 - deep-review
 - **Status**: Success

@@ -2,9 +2,9 @@
 title: "Testing Consciousness-Collapse: Obstacles, Experiments, and the Path Forward"
 description: "Can experiments distinguish consciousness-driven collapse from decoherence? Predictions fall into three tiers—collapse existence, consciousness-dependence, and logical constraints—with the consciousness-specific tier remaining the hardest and most important frontier."
 created: 2026-02-19
-modified: 2026-11-03
+modified: 2026-11-10
 human_modified:
-ai_modified: 2026-11-03T19:40:52+00:00
+ai_modified: 2026-11-10T22:20:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,9 +112,9 @@ Collapse models predict anomalous momentum diffusion in isolated particles — a
 
 Tier 2 distinguishes consciousness-collapse from objective collapse models that invoke mass thresholds or stochastic noise without reference to consciousness. This is where the Map's framework faces its most direct tests.
 
-### Phi-Threshold Collapse (Kremnizer-Ranchin)
+### Phi-Dependent Collapse (Kremnizer-Ranchin)
 
-Kremnizer and Ranchin (2015) constructed the first formal CSL variant where the collapse operator depends on [[integrated-information-theory|integrated information]] (Φ). Systems exceeding a Φ threshold undergo spontaneous localisation; systems below it remain in superposition.
+Kremnizer and Ranchin (2015) constructed the first formal CSL variant whose collapse rate varies continuously with [[integrated-information-theory|integrated information]] (Φ), vanishing at Φ = 0. The authors expect high-Φ systems to collapse faster.
 
 **Testable prediction:** Chalmers and McQueen (2022) identify quantum computer experiments as the most promising platform: a circuit with high integrated feedback should lose coherence faster than a physically identical circuit with modular, feedforward architecture. The circuits share mass, temperature, and environmental coupling — differing only in information architecture. Any divergence in collapse rates would implicate information integration specifically.
 
@@ -158,7 +158,7 @@ Tegmark (2000) calculates that neural quantum coherence decoheres within roughly
 
 The objection is decisive against models requiring sustained quantum coherence in neural tissue — Penrose-Hameroff orchestrated reduction, for instance, must explain how microtubule coherence survives the warm, wet brain environment. Hagan, Hameroff, and Tuszyński (2002) contest Tegmark's estimate for that specific case, calculating microtubule decoherence times of 10⁻⁵ to 10⁻⁴ seconds once the superposition separation distance, charge distribution, and dielectric assumptions are corrected — eight to nine orders of magnitude above Tegmark's figure, though still far short of perceptual timescales. But the Map's [[post-decoherence-selection|post-decoherence selection]] concedes Tegmark's classicality, so the objection does not bite. Consciousness need not maintain or exploit quantum coherence; it acts *after* decoherence, selecting which outcome becomes actual from the improper mixture left behind — an additional actualisation postulate with no mechanism behind it. Tegmark's calculation constrains when coherence vanishes, not what then happens to the mixture.
 
-The Phi-threshold and Q-shape predictions reinforce this separation. Integrated information (Φ) is computed over the causal structure of a system — its information-integration architecture — not over quantum coherence. A neural network's Φ value depends on how its components influence each other causally, which is a property of the classical dynamics that persist long after decoherence. The collapse operator in these models is indexed to information structure, not to fragile quantum states. The quantum computer variable-Φ tests proposed by Chalmers and McQueen (2022) make this concrete: the circuits would already be decohered systems whose differing information architectures predict differing collapse rates.
+The Phi-dependent and Q-shape predictions reinforce this separation. Integrated information (Φ) is computed over the causal structure of a system — its information-integration architecture — not over quantum coherence. A neural network's Φ value depends on how its components influence each other causally, which is a property of the classical dynamics that persist long after decoherence. The collapse operator in these models is indexed to information structure, not to fragile quantum states. The quantum computer variable-Φ tests proposed by Chalmers and McQueen (2022) make this concrete: the circuits would already be decohered systems whose differing information architectures predict differing collapse rates.
 
 What Tegmark's result *does* constrain is the timing window. If coherence vanishes within 10⁻¹³ seconds, any consciousness-dependent selection must operate on the post-decoherence state within the neural processing timescale (~10⁻³ to 10⁻¹ seconds) — comfortably slower than decoherence but fast enough for perceptual binding. This is precisely the regime post-decoherence selection inhabits.
 
@@ -193,7 +193,7 @@ The most promising strategy uses *shielded systems* — cases where collapse mod
 | Anomalous Brownian heating (GRW/CSL) | 1 | Bounds tightening | Constrains collapse rate parameters |
 | Proper vs improper mixture test | 1 | Conceptual | Would confirm or deny real collapse |
 | MAQRO space mission | 1 | Concept study | Would probe CSL at decisive mass scales |
-| Phi-threshold collapse test (K-R) | 2 | Theoretical | Would test consciousness-specific collapse rates |
+| Phi-dependent collapse test (K-R) | 2 | Theoretical | Would test consciousness-specific collapse rates |
 | Q-shape collapse test (C-M) | 2 | Theoretical | Would test consciousness-structure-specific predictions |
 | Consciousness-dependent timing test | 2 | Conceptual | Would test consciousness-specific collapse timing |
 | Anaesthesia-modulated collapse test | 2 | Conceptual | Would test consciousness-specific participation |
@@ -225,11 +225,11 @@ The persistent failure to design a clean consciousness-collapse experiment refle
 
 The three-tier prediction hierarchy maps directly onto the Map's [[tenets]].
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Tier 1 tests the precondition — if collapse is not real, consciousness has nothing to interact with. The Kremnizer-Ranchin Phi-threshold model instantiates one minimum-outside-corridor reading of this tenet — a branch the Map registers as a live fall-back but does not endorse ([[positions/quantum-interface]] P-Q2), rather than the corridor reading itself. The quantum computer variable-Φ tests would probe that branch: circuits differing only in information architecture, not physical properties.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Tier 1 tests the precondition — if collapse is not real, consciousness has nothing to interact with. The Kremnizer-Ranchin Phi-dependent model instantiates one minimum-outside-corridor reading of this tenet — a branch the Map registers as a live fall-back but does not endorse ([[positions/quantum-interface]] P-Q2), rather than the corridor reading itself. The quantum computer variable-Φ tests would probe that branch: circuits differing only in information architecture, not physical properties.
 
 The minimality commitment is double-edged, and its two edges differ in kind. On the corridor reading the Map endorses, the *unconditioned aggregate* register carries no differential prediction: per-trial selection leaves the aggregate Born measure intact, so nothing there separates it from the chance baseline it is built to match — by construction, not by any sensitivity limit. Preservation binds only that marginal, leaving the consciousness-conditioned distributions free, so a deviation conditioned on intention, task or subject would test the endorsed corridor itself ([[positions/quantum-interface#^mechanism-debt|P-Q3]]) — conditionally testable rather than untestable. The minimum-outside-corridor branch predicts a difference in the unconditioned register instead, where minimality does make the effect faint. Minimality also constrains which positive results the Map can claim — a large, dramatic consciousness-dependent effect would conflict with it as much as a null result would conflict with bidirectional interaction.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Tier 2 tests this directly. Five pathways bear on it: levitated nanoparticle experiments, the MAQRO mission, the Kremnizer-Ranchin Phi-threshold test, the Chalmers-McQueen Q-shape test, and Neven et al.'s (2024) quantum-substrate perturbation — the only proposed test probing the reverse direction (quantum → consciousness). The IIT-CSL programme provides the most direct consciousness-to-physics path because it predicts Φ-correlated collapse rates that no purely physical mechanism would produce.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Tier 2 tests this directly. Five pathways bear on it: levitated nanoparticle experiments, the MAQRO mission, the Kremnizer-Ranchin Phi-dependent test, the Chalmers-McQueen Q-shape test, and Neven et al.'s (2024) quantum-substrate perturbation — the only proposed test probing the reverse direction (quantum → consciousness). The IIT-CSL programme provides the most direct consciousness-to-physics path because it predicts Φ-correlated collapse rates that no purely physical mechanism would produce.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Load-bearing for this entire analysis — many-worlds dissolves the distinction by denying collapse occurs at all. Every prediction here presupposes collapse is real. Tier 3 shows no-collapse interpretations carry their own costs around indexical identity and probability, but the case against many-worlds rests on the [[indexical-identity-quantum-measurement|indexical arguments]], not parsimony.
 
