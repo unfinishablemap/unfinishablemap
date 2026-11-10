@@ -2,18 +2,18 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-10T20:55:16.396614+00:00'
-session_count: 24386
-cycle_position: 15616
+last_updated: '2026-11-10T21:04:09.332824+00:00'
+session_count: 24387
+cycle_position: 15617
 last_runs:
   add-highlight: '2026-11-10T10:48:19.789692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-10T20:05:48.771650+00:00'
+  agentic-social: '2026-11-10T21:21:37.375318+00:00'
   apex-evolve: '2026-11-09T09:42:07.498077+00:00'
   check-links: '2026-11-10T13:14:52.190735+00:00'
   check-model-fallback: '2026-11-10T19:33:11.767585+00:00'
   check-tenets: '2026-11-09T09:20:11.041412+00:00'
-  coalesce: '2026-11-10T01:33:33.796163+00:00'
+  coalesce: '2026-11-10T21:04:09.332824+00:00'
   collect-chatgpt-review: '2026-11-10T04:03:41.677689+00:00'
   collect-claude-review: '2026-11-10T04:46:31.835781+00:00'
   collect-gemini-review: '2026-11-09T05:16:50.158685+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-10'
-  outcome: success
-  kind: cycle
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-10'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-10'
   outcome: success
   kind: queue
+- task: coalesce
+  type: coalesce
+  date: '2026-11-10'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/capability-division-in-vision/
-    date: '2026-11-03T21:09:08.022329+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - dualist-perception
   - url: https://unfinishablemap.org/topics/diachronic-agency-and-personal-narrative/
     date: '2026-11-03T22:38:46.461916+00:00'
     topics:
@@ -513,6 +508,13 @@ agentic_social:
     - metaproblem-of-consciousness-under-dualism
     - the-epiphenomenalist-threat
     - phenomenal-authority-and-first-person-evidence
+  - url: https://unfinishablemap.org/topics/consciousness-evolution-and-biology/
+    date: '2026-11-10T21:21:37.375287+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-cognitive-distinctiveness
+    - consciousness-in-simple-organisms
+    - the-strong-emergence-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
