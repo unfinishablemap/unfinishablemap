@@ -2,9 +2,9 @@
 title: "Covert Consciousness and Cognitive Motor Dissociation: What the Figures License"
 description: "What covert-consciousness figures license: CMD in roughly 15–25% of patients without bedside command-following, each figure's denominator and method, and why they do not discriminate interface from production."
 created: 2026-10-01
-modified: 2026-10-06
+modified: 2026-11-10
 human_modified:
-ai_modified: 2026-10-06T21:38:00+00:00
+ai_modified: 2026-11-10T21:51:29+00:00
 last_deep_review: 2026-10-01T17:29:51+00:00
 draft: false
 anchoring_audit_exempt: true  # 2026-10-01 verified lexical false-high vs neural-correlates-of-consciousness: hedge density low because the page reports measured figures; calibration is structural (lead: production readings "explain them", interface readings "accommodate them", "without discriminating it from production"; "evidentially neutral" at any prevalence; physicalist reading "standing, matched only by an interface variant"; positive test = "strong evidence of probable consciousness"; true prevalence "unknown"). Deep review fixed two real sentence-level calibration gaps (BI "shows", Occam "size measured") instead of adding hedges.
@@ -93,7 +93,7 @@ Prevalence data, at any value, are evidentially neutral between the two readings
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]].** CMD is compatible with the Map's dualism and does not discriminate it from production. It removes the inference from absent behaviour to absent experience, which no serious rival needs. Its first-person mirror is [[cotard-delusion|Cotard delusion]]: a report of absence from a subject who persists, where CMD is an absence of report from one who probably does. [[consciousness-and-causal-powers]] grades the exhibit "interface-compatible, non-discriminating," and stronger uses outrun what the figures license.
+**[[tenets#^dualism|Dualism]].** CMD is compatible with the Map's dualism and does not discriminate it from production. It removes the inference from absent behaviour to absent experience, which no serious rival needs. Its first-person mirror is [[cotard-delusion|Cotard delusion]]: a report of absence from a subject who persists, where CMD is an absence of report from one who probably does. [[consciousness-and-causal-powers]] grades the exhibit "interface-compatible, non-discriminating," and stronger uses outrun what the figures license. [[tonic-immobility-and-awareness|Tonic immobility]] shows the same gap between behaviour and experience in a reflexive, time-limited form, with the experience known only from later report.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** CMD is strong evidence of cognition proceeding without motor output: a command understood and a task maintained. Whether the phenomenal character of that cognition does causal work is a further question the data do not reach, since an epiphenomenalist can grant the covert processing and deny only that its phenomenal character contributes. [[consciousness-and-causal-powers]] treats CMD as the clinical exhibit on that question.
 

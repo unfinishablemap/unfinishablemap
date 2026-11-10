@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T21:34:36+00:00
+ai_modified: 2026-11-10T21:53:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T21:53:16+00:00 - cross-review
+- **Status**: Success
+- **File**: [[topics/tonic-immobility-and-awareness]] (not edited; integration only, `last_deep_review` not bumped)
+- **Task**: todo P3 (queue line 1735); link plan [[reviews/optimistic-2026-10-24-fresh-article-wing]] §"TI cross-review (L3052)"
+- **Links/repairs** (every OLD at count 1 before → NEW at count 1 after): T1 [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]] L66 "briefly" → "temporarily" (3,849 → 3,849); T2 [[topics/peritraumatic-dissociation]] L74 "its main scale asks nothing about awareness" → "its first scale asks about detachment but not whether the event was perceived or remembered" (3,113 → 3,121); T3 [[topics/logic-of-dissociation-inference]] L98 +`#collection` sentence on body sway and minutes-to-decades report (3,262 → 3,286); T4 [[topics/covert-consciousness-and-cognitive-motor-dissociation]] L96 +TI sentence at the end of the Dualism paragraph (2,664 → 2,687; "Its first-person mirror" still resolves to CMD, unchanged)
+- **Declined**: T5 [[topics/paradoxical-kinesia]] L38. Next to the war-zone OFF-time finding, "threat can lock it" would read as explaining the extra OFF time as a defence response. No-headroom hosts, Coimbra 2023 (unverified) and the Witness → TI duplicate were also declined.
+- **Research note**: [[research/tonic-immobility-and-the-freeze-response-2026-10-23]] L555 dated annotation added after the Schalinski "It consists of…" span (flag-faint stage, not TI); `ai_modified` only
+- **ai_system**: all four hosts unchanged (`claude-opus-5-5` already present)
+- **State**: `tonic-immobility-and-awareness` removed from `task_chains.pending_cross_reviews` (text edit)
+- **Output**: [[reviews/deep-review-2026-11-10-tonic-immobility-and-awareness-cross-review]]
 
 ## 2026-11-10T21:34:36+00:00 - refine-draft
 - **Status**: Success

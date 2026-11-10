@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-22
-ai_modified: 2026-10-23 19:35:52+00:00
+ai_modified: 2026-11-10 21:51:29+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[introspection]]'
 - '[[metacognitive-access-versus-retention]]'
 created: 2026-10-22
-date: &id001 2026-10-23
+date: &id001 2026-11-10
 description: Dissociation during trauma predicts worse PTSD, and the tests of momentary
   relief found so far show none. Why 'protective' needs a timescale, for the Map's
   interface reading and its rival alike.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-22 09:04:41+00:00
-lastmod: 2026-10-23 19:35:52+00:00
+lastmod: 2026-11-10 21:51:29+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'
@@ -75,7 +75,7 @@ Every sense of momentary protection needs a fact about what the trauma felt like
 
 Yet the same meta-analysis found that "longitudinal studies reported a stronger positive relation between peritraumatic dissociation and PTS than the retrospective studies", which tells against a pure recall artefact, although its longitudinal category includes designs whose first measurement was itself retrospective. Measurement during an ongoing threat is possible, as the two rocket-campaign studies show (Greene 2018; Dokkedahl & Lahav 2024). Part of the difficulty may be principled: "The subjective experience of PD may not be accessible in the moment and may only be understood or recognized after the immediate danger has passed" (van der Hart et al. 2008, crediting the point to Ozer et al.).
 
-This is a clinical instance of the [inaccessible-past](/voids/inaccessible-past/), where reconstruction lets present concerns overwrite what was stored, and of the [confabulation-void](/voids/confabulation-void/), where error is detected, if at all, only retrospectively. The same limit is sharper for [tonic immobility](/topics/tonic-immobility-and-awareness/): its main scale asks nothing about awareness, and a laboratory paradigm that re-elicits it scores only motor items.
+This is a clinical instance of the [inaccessible-past](/voids/inaccessible-past/), where reconstruction lets present concerns overwrite what was stored, and of the [confabulation-void](/voids/confabulation-void/), where error is detected, if at all, only retrospectively. The same limit is sharper for [tonic immobility](/topics/tonic-immobility-and-awareness/): its first scale asks about detachment but not whether the event was perceived or remembered, and a laboratory paradigm that re-elicits it scores only motor items.
 
 ## What This Does to the Two Readings {#two-readings}
 

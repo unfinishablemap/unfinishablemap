@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-10-23 19:11:44+00:00
+ai_modified: 2026-11-10 21:51:59+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: 'Research notes on what is known about awareness during tonic immob
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-23 19:11:44+00:00
+lastmod: 2026-11-10 21:51:59+00:00
 modified: *id001
 recommended_action: article
 related_articles:
@@ -557,7 +557,7 @@ When writing, follow `obsidian/project/writing-style.md` for the named-anchor fo
 - **Roelofs 2017** [V-full]: every passage quoted above. CC BY; journal article number 20160206, no page numbers in the PMC XML.
 - **Kozlowska et al. 2015** [V-full]: every passage quoted above **except the vignettes** (amalgams; do not quote them as reports).
 - **Lloyd et al. 2019** [V-full]: the definition sentence, the item quotations (b1, b9, b17, b34), "The final stages ...", the protective sentence (as theirs), the limitations phrase, the heart-rate sentence, the "freezing" note and the item-development sentence.
-- **Schalinski et al. 2015** [V-full]: "It consists of functional sensory deafferentation ...", the Table 1 phrases ("Freeze During attentive immobility (orienting response)", "Fright During unresponsive immobility", "shutdown of physiological arousal and memory functions"), the time-frame sentence, and item 6. **Attribute model content as "Schauer and Elbert's model, as summarised by Schalinski et al."**
+- **Schalinski et al. 2015** [V-full]: "It consists of functional sensory deafferentation ..." [2026-11-10 note: this sentence describes the flag-faint stage, not tonic immobility; see the 10-24 deep review.], the Table 1 phrases ("Freeze During attentive immobility (orienting response)", "Fright During unresponsive immobility", "shutdown of physiological arousal and memory functions"), the time-frame sentence, and item 6. **Attribute model content as "Schauer and Elbert's model, as summarised by Schalinski et al."**
 - **Gbahabo & Duma 2021** [V-full]: the four participant quotations above, the theme names, "they felt pain, legs felt heavy and numb", and the inclusion window. Quote participants sparingly and without graphic detail.
 - **Norte et al. 2019** [V-full]: the four-item list and the administration sentence.
 - **Fragkaki et al. 2016** [V-full]: the abstract result and the "However, the evidence on TI in humans ..." sentence (with the U+2010 hyphen).

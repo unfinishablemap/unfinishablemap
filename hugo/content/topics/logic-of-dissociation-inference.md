@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-19
-ai_modified: 2026-10-19 18:17:56+00:00
+ai_modified: 2026-11-10 21:51:29+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[parsimony-epistemology]]'
 - '[[filter-theory]]'
 created: 2026-10-19
-date: &id001 2026-10-19
+date: &id001 2026-11-10
 description: 'What lesion dissociations license about mental architecture: separate
   failure is robust, functional distinction is abductive, and discrete channels need
   contested bridge assumptions.'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-19 18:17:56+00:00
-lastmod: 2026-10-19 18:17:56+00:00
+lastmod: 2026-11-10 21:51:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ None of this makes dissociations uninformative. Tier one is untouched, and it is
 
 The measures that matter most to the Map are the weakest at tier three. Summarising the last five chapters of his book, on knowledge, visual attention, supervisory operations, memory and consciousness, Shallice (1991) writes: "On the whole, the methodological scruples of the earlier sections are abandoned, and a dissociation is assumed to represent the operation of a damaged subsystem." He then offers "a functionalist account" of findings such as blindsight, aspects of prosopagnosia and the split-brain syndrome. A leading defender of the method thus marks these higher-level domains, consciousness among them, as where it runs without its safeguards.
 
-Awareness is measured by report, and report brings decision criteria and confidence into the measurement. Phillips (2021) argues that blindsight is degraded conscious vision left unacknowledged "due to conservative response biases", so that it "does not reveal any dissociation between performance and awareness". Michel and Lau (2021) reply that in some cases awareness is "clearly impaired relative to the corresponding visual sensitivity". Whichever side is right, the dispute shows how a criterion shift can create or remove an apparent dissociation of awareness; the [blindsight](/concepts/blindsight/) article weighs the case. Most of the cluster's consciousness dissociations, from anosognosia to the split brain, likewise rest on what patients report.
+Awareness is measured by report, and report brings decision criteria and confidence into the measurement. Phillips (2021) argues that blindsight is degraded conscious vision left unacknowledged "due to conservative response biases", so that it "does not reveal any dissociation between performance and awareness". Michel and Lau (2021) reply that in some cases awareness is "clearly impaired relative to the corresponding visual sensitivity". Whichever side is right, the dispute shows how a criterion shift can create or remove an apparent dissociation of awareness; the [blindsight](/concepts/blindsight/) article weighs the case. Most of the cluster's consciousness dissociations, from anosognosia to the split brain, likewise rest on what patients report. In [tonic immobility](/topics/tonic-immobility-and-awareness/#collection) the motor side is checked against body sway, while the awareness beside it rests on report given minutes to decades later.
 
 ## Relation to Site Perspective
 
