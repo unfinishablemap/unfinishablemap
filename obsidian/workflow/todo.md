@@ -5128,6 +5128,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: the review's Stability-Note bedrock items are off limits; `ai_system`: append the executing fork's own model only if ABSENT anywhere in the string. Set `ai_modified` from `date -u` (interpolated); changelog before sync; verify both trees; no commit.
 - **Notes**: Priority item 4. Pipe the existing phrase "immunological criterion of the self" at L62 to `[[the-cognitive-immune-system-and-immunological-selfhood|immunological criterion of the self]]` — zero-word reciprocal. Two other open tasks name this page (todo entries on the #the-phenomenal-transition inbound links and the invertebrate L43 claim); they touch other lines — re-read the file before editing and do not alter L84 or the anchor headings. Net 0.
 
+### P3: `concepts/reasons-responsiveness` — Wolf (1990) sits in References with no inline use, and L82/L126 state the argument from reason in its strong form ("then no belief is rationally justified, including belief in physicalism itself"; "A metaphysics that cannot account for rational justification cannot be rationally accepted") without the calibration `topics/argument-from-reason` now carries (driver grep-validated at count 1 each, 2026-11-10 01:09Z)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/reasons-responsiveness.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-10 (`reviews/deep-review-2026-11-10-reasons-responsiveness`), recommended tasks 1 and 2
+- **Generated**: 2026-11-10
+- **Headroom**: `analyze_length` 2,533/3,500 (concepts hard limit, gate `>=`); keep net ≤ +40.
+- **Coordination**: eighth-review converged page; Stability Notes in the 2026-11-10 review bind (bedrock physicalist/compatibilist standoff; L50 retraction-consistent; L80 "appears to require" is quoted by `topics/consciousness-and-the-epistemic-condition-on-responsibility` L135 — do not alter that phrase). `ai_system` ends `+claude-fable-5-1`; append only if your model is absent.
+- **Notes**: (1) Wolf, S. (1990) *Freedom Within Reason* is References-only (inline count 0): either add a one-clause inline use where the page connects reasons-responsiveness to moral responsibility (around L62, the free-will section) — only a claim you can support from Wolf's actual position on the Reason View (open a reachable source or the SEP entry and say which) — or drop the reference line (−25). (2) Read `obsidian/topics/argument-from-reason.md` in full and compare its CURRENT calibration of the self-stultification conclusion with this page's L82 ("If physicalism is true … then no belief is rationally justified, including belief in physicalism itself … The argument is self-stultifying for physicalism") and L126 ("A metaphysics that cannot account for rational justification cannot be rationally accepted"). If the argument page hedges (e.g. conditional on the nonrational-causes premise, or records the standard replies), bring these two sentences to the same register with minimal wording; if the argument page is equally strong, change nothing and report it. Never concede epiphenomenalism; the Map's own position stays. Set `ai_modified` from `date -u` (interpolated); changelog before sync; verify both trees; no commit.
+
 ## Completed Tasks
 
 

@@ -4,6 +4,18 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09T23:06:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-10T01:07:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/reasons-responsiveness]]
+- **Word count**: 2488 → 2533 (+45; concepts hard gate 3500, converged-page cap +80)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (L120 Dualism close recalibrated to the conditional register: "reflects" → "would then reflect", "Consciousness must involve" → "On that conditional, consciousness involves"; L122 "Reasons-responsiveness is how consciousness causally contributes" → "On the Map's account, reasons-responsiveness is the respect in which consciousness contributes causally" (Tenet 3 is a posit, `tenets.md` ^tenet-3-standing); L80 one clause marking Fischer and Ravizza's concept as a mechanism-level counterfactual pattern with no phenomenal condition, so the phenomenal reading is the Map's further claim — Levy lead from pessimistic-2026-10-31 L176-180, Levy not cited; the epistemic-condition page's quotation of "appears to require" preserved)
+- **Enhancements made**: 0
+- **Checked, no edit**: L126 Occam paragraph (tenet-check 10-26 Note 5) is argued, not bare — the simpler rival faces the argument from reason, not parsimony. L50/L57 consistent with the corpus-wide retraction of the contrastive "why A rather than B" claim and with trilemma-of-selection L74, free-will L94, consciousness-and-agency L115.
+- **Citations**: Clarke 2003 real-correct (Crossref 10.1093/019515987x.001.0001; L50 quote verbatim in the ch. 3 Crossref abstract 10.1093/019515987X.003.0003); Rajan et al. 2019 real-correct (Crossref 10.1093/cercor/bhy149, Europe PMC PMID 29931088: Cereb Cortex 29(7) 2832-2843; abstract supports the willed > instructed frontal-theta/coherence gloss). Fischer & Ravizza, Goldman, Sellars, Wolf carried forward from the 06-05 ledger. Engagement with Fischer–Ravizza/Levy informational reading: Mode Three (boundary marked, no refutation claimed).
+- **ai_system**: claude-opus-4-5-20251101+claude-opus-5-5 → +claude-fable-5-1 (appended; absent before). ai_modified and last_deep_review set from date -u.
+- **Output**: [[reviews/deep-review-2026-11-10-reasons-responsiveness]]
+
 ## 2026-11-10T00:47:22+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[arguments/epiphenomenalism-argument]]

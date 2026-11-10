@@ -4,8 +4,8 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-25T15:41:37+00:00
-last_deep_review: 2026-07-14T20:49:58+00:00
+ai_modified: 2026-11-10T01:05:50+00:00
+last_deep_review: 2026-11-10T01:05:50+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[consciousness-and-the-normativity-of-reason]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-02-01
 last_curated: null
 ---
@@ -77,7 +77,7 @@ The [[phenomenology-of-choice-and-volition|phenomenology of choice]] reveals the
 
 Physical systems can instantiate correlations: this neural pattern regularly co-occurs with that environmental feature. But correlation isn't representation, and co-occurrence isn't aboutness. For a system to be reasons-responsive, it must grasp logical relationships *as* logical—recognizing that the conclusion follows *because* the premises entail it, not merely that the conclusion regularly appears when the premises do.
 
-This "seeing as" appears to require [[phenomenal-consciousness]]: the subjective awareness of reasons *qua* reasons. An entirely unconscious system might implement reliable truth-tracking mechanisms—as a thermostat reliably tracks temperature—but it couldn't engage in rational inference as such. It couldn't appreciate *why* the conclusion follows, or recognize *good* reasons as good.
+This "seeing as" appears to require [[phenomenal-consciousness]]: the subjective awareness of reasons *qua* reasons. Fischer and Ravizza's concept carries no such requirement—theirs is a counterfactual pattern of recognising and reacting to reasons, exhibited by the mechanism that issues in action—so the phenomenal reading is the Map's further claim. An entirely unconscious system might implement reliable truth-tracking mechanisms—as a thermostat reliably tracks temperature—but it couldn't engage in rational inference as such. It couldn't appreciate *why* the conclusion follows, or recognize *good* reasons as good.
 
 The [[argument-from-reason|argument from reason]] develops this point systematically. If physicalism is true—if thoughts are fully explainable by nonrational physical causes—then no belief is rationally justified, including belief in physicalism itself. Rational inference requires tracking normative relationships, but physical causation operates via efficient causes that cannot instantiate normativity. The very possibility of justified belief requires something beyond physical description. The argument is [[self-stultification|self-stultifying]] for physicalism: accepting it undermines the rational grounds for accepting anything, including itself.
 
@@ -117,9 +117,9 @@ The [[agent-causation|agent-causal]] framework situates reasons-responsiveness a
 
 Reasons-responsiveness connects to multiple [[tenets]]:
 
-**[[tenets#^dualism|Dualism]]**: If reasons-responsiveness requires grasping normative relationships as such, and normative properties are irreducible to physical properties, then reasons-responsiveness requires something beyond physical processes. The conceptual irreducibility of the space of reasons reflects ontological irreducibility. Consciousness must involve properties that physical description cannot capture.
+**[[tenets#^dualism|Dualism]]**: If reasons-responsiveness requires grasping normative relationships as such, and normative properties are irreducible to physical properties, then reasons-responsiveness requires something beyond physical processes. The conceptual irreducibility of the space of reasons would then reflect ontological irreducibility. On that conditional, consciousness involves properties that physical description cannot capture.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Reasons-responsiveness is how consciousness causally contributes to outcomes. Selection guided by reasons influences which neural patterns become actual. Without reasons-responsiveness, consciousness could observe deliberation but not participate in it—[[concepts/epiphenomenalism|epiphenomenalism]] rather than genuine agency.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: On the Map's account, reasons-responsiveness is the respect in which consciousness contributes causally to outcomes. Selection guided by reasons influences which neural patterns become actual. Without reasons-responsiveness, consciousness could observe deliberation but not participate in it—[[concepts/epiphenomenalism|epiphenomenalism]] rather than genuine agency.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes that consciousness operates where physics leaves outcomes undetermined. Reasons-responsiveness specifies *what* guides selection at these junctures: not random fluctuation but sensitivity to normative considerations. The [[quantum-consciousness|quantum framework]] provides the *how*; reasons-responsiveness provides the *what*.
 
