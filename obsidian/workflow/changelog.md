@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T18:34:15+00:00
+ai_modified: 2026-11-10T18:49:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T18:49:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/immediate-emotions-and-the-affect-heuristic]]
+- **Original score**: 8/10 (one scope overstatement; `scripts/curate.py` is absent, so no tool score)
+- **Changes**: L85 "Fear and anger, both negative, push risk in opposite directions." → "push risk judgements in opposite directions." The bare "risk" read as covering risk preference and risk-taking, while the page's own L32 ("replicated for judgement but not for preference"), L71 (Lerner & Keltner's "risk estimates"; Lu et al. "but not for risk preference") and L101 ("replicated for judgement, not preference") confine the replicated contrast to judgement. The noun matches L32/L101's "judgement" (British spelling, as at L75 "well-being judgements") and Lu et al.'s title ("risk judgments"). Follow-on sentences checked (rest of the paragraph): the Lerner & Keltner appraisal quote, Lerner et al. 2004 choice prices, Bartholomeyczik et al. 2022 and Pfister & Böhm 2008 assert no fear/anger risk-preference effect, so nothing else was scoped. Lu et al. untouched in the trait record (L71).
+- **Word count**: 3,332 → 3,333 (+1; topics hard gate 4,000)
+- **Review file**: [[reviews/optimistic-2026-10-23-felt-moment-wing]] (Priority 3)
+- **Published**: yes
 
 ## 2026-11-10T18:34:15+00:00 - refine-draft
 - **Status**: Success

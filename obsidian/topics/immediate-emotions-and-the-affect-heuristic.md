@@ -2,9 +2,9 @@
 title: "Immediate Emotions and the Affect Heuristic: Felt Affect as an Input to Choice"
 description: "Felt affect at choice predicts decisions, but it was measured rather than manipulated, the affect heuristic is consciousness-neutral, and induced emotions left risk-taking unmoved at n = 7,000."
 created: 2026-10-22
-modified: 2026-10-22
+modified: 2026-11-10
 human_modified:
-ai_modified: 2026-11-02T10:52:48+00:00
+ai_modified: 2026-11-10T18:49:22+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -82,7 +82,7 @@ The surviving support compares domains. Pachur, Hertwig and Wolkewitz (2014) fou
 
 ## Valence or Appraisal? {#valence-or-appraisal}
 
-Where incidental affect moves judgement or choice, the operative variable is often appraisal content rather than valence. Fear and anger, both negative, push risk in opposite directions. Appraisals "of certainty and control moderated and (in the case of control) mediated the emotion effects" (Lerner & Keltner 2001). Disgust and sadness part company on choice prices (Lerner et al. 2004), and a meta-analysis of 28 experiments finds effects depending "on appraisals other than valence" (Bartholomeyczik, Gusenbauer & Treffers 2022). Pfister and Böhm (2008) doubt "that the totality of experiences, including complex cognitions, can be collapsed onto one hedonic scale of simple affect", and see in ambivalence and hard trade-offs "different currencies with frequently unknown exchange rates".
+Where incidental affect moves judgement or choice, the operative variable is often appraisal content rather than valence. Fear and anger, both negative, push risk judgements in opposite directions. Appraisals "of certainty and control moderated and (in the case of control) mediated the emotion effects" (Lerner & Keltner 2001). Disgust and sadness part company on choice prices (Lerner et al. 2004), and a meta-analysis of 28 experiments finds effects depending "on appraisals other than valence" (Bartholomeyczik, Gusenbauer & Treffers 2022). Pfister and Böhm (2008) doubt "that the totality of experiences, including complex cognitions, can be collapsed onto one hedonic scale of simple affect", and see in ambivalence and hard trade-offs "different currencies with frequently unknown exchange rates".
 
 ## Bearing on P-VS1 and the Test Battery {#battery}
 
