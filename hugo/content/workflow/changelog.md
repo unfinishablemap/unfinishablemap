@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-09 23:06:15+00:00
+ai_modified: 2026-11-10 01:23:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 00:00:00+00:00
+lastmod: 2026-11-10 01:23:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T01:23:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-only-territories](/voids/consciousness-only-territories/) (plus five further files, below)
+- **Task**: todo L1733, items (1), (3), (4); item (2) Churchland already done 2026-11-03, `arguments/epistemological-limits-of-occams-razor` untouched
+- **Word count**: voids page 2995 → 2998 (voids hard gate 3000, `>=`; dropped the "continued development of responses and counter-responses" aside to pay for the reference line); hub `concepts/dualism` 3189 → 3232 (hard 3500)
+- **Jackson quote-span fix (item 1)**: the corpus carried "should be addressed really seriously if you are a physicalist"; verified wording (*Mind Chat* S03E03, Frankish & Goff, Jan 2023, ~18:01; YouTube captions + Whisper) is "It's got to be addressed really seriously if you're a physicalist, as I now am". Each site now quotes only "addressed really seriously" and paraphrases the rest, with the Jackson 2023 reference added in each page's style: `voids/consciousness-only-territories` L140 + new ref 8; `archive/concepts/arguments-for-dualism` L82 + bulleted ref after Jackson 1982; `archive/concepts/the-case-for-dualism` L79 + numbered ref after Jackson 1982; `research/arguments-for-dualism-positive-case-2026-01-14` L58 and L190 (the unverified "I no longer accept the argument" splice dropped from quote marks and paraphrased; source named inline); `research/knowledge-argument-marys-room-2026-01-14` L110 (source named inline). Corpus sweep for the misquote outside `reviews/`+`workflow/` now returns 0 in obsidian, archive and hugo/content.
+- **Hub Chalmers 2007 (item 3)**: L144 "Chalmers's master argument" → "(2007)" added; reference `Chalmers, D. J. (2007). Phenomenal Concepts and the Explanatory Gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press.` inserted after Chalmers 1996. Crossref match: DOI 10.1093/acprof:oso/9780195171655.003.0009, book-chapter, pp. 167-194, issued 2007, OUP.
+- **Hub Bourget & Chalmers 2023 (item 4)**: publisher page (journals.publishing.umich.edu/phimp/article/id/2109) gives Volume 23 (2023), Article Number 11, Pages 1–53, DOI 10.3998/phimp.2109 — "23(11)" misread the article number as an issue; L222 now reads `*Philosophers' Imprint*, 23, art. 11, 1–53. https://doi.org/10.3998/phimp.2109`. Survey figures at L72 re-checked at the paper: Table 2 rows Dualism 224 / 22.0%, Functionalism 337 / 33.0%; both ratios give n=1,020 for the respondents answering that question (the survey had 1,785 respondents in total), so "22% of target faculty (n=1,020)" misdescribed the denominator → "22% of the 1,020 respondents who answered the consciousness question". Figures unchanged.
+- **Attribution**: `ai_system` appended with claude-fable-5-1 where absent (both archive pages, both research notes); voids page and hub already carried it. `ai_modified` set on all six files.
+- **Published**: yes
 
 ## 2026-11-10T01:07:36+00:00 - deep-review
 - **Status**: Success

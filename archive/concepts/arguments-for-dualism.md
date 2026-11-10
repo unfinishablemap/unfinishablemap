@@ -4,7 +4,7 @@ description: "Positive arguments for dualism span metaphysics, epistemology, and
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-08-12T22:47:00+00:00
+ai_modified: 2026-11-10T01:22:46+00:00
 draft: false
 archived: true
 archived_date: 2026-02-16T05:40:00+00:00
@@ -41,7 +41,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-02-06T14:07:00+00:00
@@ -79,7 +79,7 @@ The argument:
 3. What she learns cannot be deduced from physical facts
 4. Therefore, there are non-physical facts about consciousness
 
-Jackson himself later abandoned dualism, but even he acknowledges the argument "should be addressed really seriously if you are a physicalist." The intuition that Mary learns something genuine—not just acquires a new ability or recognizes something she already knew under a new mode—remains powerful. The phenomenal character of experience seems to be a fact beyond physical facts.
+Jackson himself later abandoned dualism, but even he acknowledges the argument must be "addressed really seriously" by physicalists (Jackson 2023). The intuition that Mary learns something genuine—not just acquires a new ability or recognizes something she already knew under a new mode—remains powerful. The phenomenal character of experience seems to be a fact beyond physical facts.
 
 ## Arguments from Qualia
 
@@ -308,6 +308,7 @@ The Map does not commit to substance over property dualism. Both support irreduc
 - Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 - Huemer, M. (2009). When is parsimony a virtue? *The Philosophical Quarterly*, 59(235), 216-236.
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
+- Jackson, F. (2023). Interview, *Mind Chat*, S03E03 (YouTube, January 2023), at 18:01.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 - Lowe, E.J. (1996). *Subjects of Experience*. Cambridge University Press.
 - Rickabaugh, B. & Moreland, J.P. (2023). *The Substance of Consciousness*. Wiley-Blackwell.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-23 11:26:43+00:00
+ai_modified: 2026-11-10 01:22:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:03:13+00:00
-lastmod: 2026-10-23 11:26:43+00:00
+lastmod: 2026-11-10 01:22:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ topics:
 
 Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. As a position within [philosophy of mind](/concepts/philosophy-of-mind/), dualism is the first of The Unfinishable Map's [five foundational commitments](/tenets/#dualism). Eight arguments support the position: the [explanatory-gap](/concepts/explanatory-gap/) between physical description and subjective experience, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) (Mary's Room), the intrinsic character of [qualia](/concepts/qualia/), [Kripke's modal argument](/concepts/kripke-a-posteriori-necessity-argument/), Nagel's subjectivity argument, the [unity of consciousness](/concepts/binding-problem/), and [intentionality](/concepts/intentionality/); the [argument-from-reason](/topics/argument-from-reason/) adds a self-defeat charge. Their convergence from different starting points strengthens the case beyond what any single argument achieves—though they are not all evidentially independent, and [the convergence argument](/topics/the-convergence-argument-for-dualism/) finds the real force comes from across argument clusters rather than from the count.
 
-In the 2020 PhilPapers survey, 22% of target faculty (n=1,020) accepted or leaned toward dualism on the consciousness question; functionalism, the plurality view, drew 33%.
+In the 2020 PhilPapers survey, 22% of the 1,020 respondents who answered the consciousness question accepted or leaned toward dualism on the consciousness question; functionalism, the plurality view, drew 33%.
 
 ## What Dualism Claims
 
@@ -145,7 +145,7 @@ No single argument establishes dualism conclusively, and the eight are not evide
 
 **[Illusionism](/concepts/illusionism/)** claims [qualia](/concepts/qualia/) don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. Raymond Tallis's objection that illusions presuppose experience assumes the seeming is phenomenal, which illusionists deny. The Map presses instead that models such as [attention-schema-theory](/concepts/attention-schema-theory/) have yet to explain why introspective representations have exactly the immediacy and qualitative structure they do.
 
-The **[Phenomenal Concept Strategy](/concepts/phenomenal-concepts-strategy/)** attempts to explain Mary's new knowledge as new concepts for old physical properties, but must explain why phenomenal concepts are special. Physical accounts of their isolation are the strongest live rejoinder to Chalmers's master argument, leaving the strategy's failure [contested rather than established](/topics/the-convergence-argument-for-dualism/).
+The **[Phenomenal Concept Strategy](/concepts/phenomenal-concepts-strategy/)** attempts to explain Mary's new knowledge as new concepts for old physical properties, but must explain why phenomenal concepts are special. Physical accounts of their isolation are the strongest live rejoinder to Chalmers's master argument (2007), leaving the strategy's failure [contested rather than established](/topics/the-convergence-argument-for-dualism/).
 
 On the Map's assessment no response has discharged its explanatory burden, though none is refuted; with Type-B the disagreement lies close to bedrock.
 
@@ -223,9 +223,10 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 
 1. Barrett, H. C., Bolyanatz, A., Broesch, T., et al. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12992.
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
-1. Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy: The 2020 PhilPapers survey. *Philosophers' Imprint*, 23(11).
+1. Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy: The 2020 PhilPapers survey. *Philosophers' Imprint*, 23, art. 11, 1–53. https://doi.org/10.3998/phimp.2109
 1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge (1995 reprint).
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Chalmers, D. J. (2007). Phenomenal Concepts and the Explanatory Gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press.
 1. Churchland, P. M. (1988). *Matter and Consciousness* (rev. ed.). MIT Press.
 1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 1. Descartes, R. (1641). *Meditations on First Philosophy*.

@@ -3,7 +3,7 @@ title: Research Notes - The Knowledge Argument (Mary's Room)
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-08-19T08:44:00+00:00
+ai_modified: 2026-11-10T01:22:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 ai_generated_date: 2026-01-14
 last_curated: null
 ---
@@ -107,7 +107,7 @@ The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the 
   - Epiphenomenalism (which his original argument implied) makes knowledge of qualia impossible
   - Strong representationalism explains phenomenal character in physical terms
   - No suitable referent exists for "like this" in phenomenal reports
-- **Relation to site tenets**: Jackson's rejection conflicts with Dualism, but the Map notes his self-refutation doesn't undermine the argument's force—others (Chalmers, Nida-Rümelin) continue to defend it. In 2023 Jackson still acknowledged "the argument should be addressed really seriously if you are a physicalist."
+- **Relation to site tenets**: Jackson's rejection conflicts with Dualism, but the Map notes his self-refutation doesn't undermine the argument's force—others (Chalmers, Nida-Rümelin) continue to defend it. In 2023 Jackson, now a physicalist himself, still acknowledged that the argument must be "addressed really seriously" by physicalists (*Mind Chat* interview, S03E03, at 18:01).
 
 ## Key Debates
 

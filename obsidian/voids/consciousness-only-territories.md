@@ -3,7 +3,7 @@ title: "Consciousness-Only Territories"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-10-08T12:52:21+00:00
+ai_modified: 2026-11-10T01:22:46+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -137,7 +137,7 @@ If genuine consciousness-only territories exist, several implications follow.
 
 **The knowledge argument assumes its conclusion.** A critic might argue that treating Mary's case as evidence for consciousness-only territories presupposes that acquaintance knowledge is real and distinct from physical knowledge—the very point at issue.
 
-*Response:* This is correct: the argument is not a proof but a contested thought experiment. The Map's position treats it as *evidence*, not demonstration. The persistence of the debate since Jackson's 1982 paper—and the continued development of responses and counter-responses—suggests the intuition captures something genuine that resists easy dissolution. Jackson himself, though now a physicalist, maintains the argument "should be addressed really seriously if you are a physicalist." The Map interprets the knowledge argument through its dualist tenets: if consciousness is irreducible, then acquaintance knowledge points toward territories physical description cannot reach. But this interpretation depends on prior commitments, not neutral observation.
+*Response:* This is correct: the argument is not a proof but a contested thought experiment. The Map's position treats it as *evidence*, not demonstration. The persistence of the debate since Jackson's 1982 paper suggests the intuition captures something genuine that resists easy dissolution. Jackson himself, now a physicalist, still holds the argument must be "addressed really seriously" by physicalists (2023). The Map interprets the knowledge argument through its dualist tenets: if consciousness is irreducible, then acquaintance knowledge points toward territories physical description cannot reach. But this interpretation depends on prior commitments, not neutral observation.
 
 ## Relation to Site Perspective
 
@@ -171,3 +171,4 @@ If genuine consciousness-only territories exist, several implications follow.
 5. Barrett, L. & Stout, D. "Minds in movement: embodied cognition in the age of artificial intelligence." *Philosophical Transactions of the Royal Society B* 379(1911): 20230144 (2024). https://doi.org/10.1098/rstb.2023.0144
 6. Pallagrosi, J. "The Acquaintance Trilemma." *PhilArchive*.
 7. Harnad, S. "The Symbol Grounding Problem." *Physica D* 42: 335–346 (1990).
+8. Jackson, F. Interview. *Mind Chat* S03E03, YouTube, at 18:01 (2023).

@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on the irreducibility of c
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-08-02T02:41:53+00:00
+ai_modified: 2026-11-10T01:22:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[analytic-idealism-and-mind-centric-metaphysics]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-16
 last_curated: null
 last_deep_review: 2026-03-01T09:07:00+00:00
@@ -76,7 +76,7 @@ Joseph Levine (1983) identified the conceptual chasm between physical descriptio
 
 Frank Jackson's (1982) thought experiment: Mary, a brilliant scientist, knows every physical fact about color vision while confined to a black-and-white room—wavelengths, cone cell responses, neural pathways, cortical processing. Then she sees red for the first time.
 
-Does she learn something new? Intuitively, yes: she learns *what it's like* to see red. But she already knew all the physical facts. So what she learns is something beyond the physical—the phenomenal character of experience. Jackson himself later abandoned dualism but acknowledges the argument "should be addressed really seriously if you are a physicalist." See [[knowledge-argument]] for the full argument and physicalist responses.
+Does she learn something new? Intuitively, yes: she learns *what it's like* to see red. But she already knew all the physical facts. So what she learns is something beyond the physical—the phenomenal character of experience. Jackson himself later abandoned dualism but acknowledges the argument must be "addressed really seriously" by physicalists (2023). See [[knowledge-argument]] for the full argument and physicalist responses.
 
 ## The Conceivability Argument
 
@@ -202,6 +202,7 @@ The Map does not commit to substance over property dualism—both support irredu
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Huemer, M. (2009). When is parsimony a virtue? *The Philosophical Quarterly*, 59(235), 216-236.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
+1. Jackson, F. (2023). Interview, *Mind Chat*, S03E03 (YouTube, January 2023), at 18:01.
 1. Kastrup, B. (2019). *The Idea of the World*. iff Books.
 1. Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
