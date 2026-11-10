@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-09-26T02:20:53+00:00
+ai_modified: 2026-11-10T00:05:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ related_articles:
   - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-07-17T20:05:28+00:00
@@ -74,7 +74,7 @@ Three features distinguish phenomenal understanding of another person from mere 
 
 **Texture.** Phenomenal understanding has qualitative specificity. You do not just know that someone is grieving; you grasp the particular flavour of their grief — whether it is sharp and raw or dull and exhausted, whether it carries anger or only hollowness. This texture depends on your own phenomenal repertoire. The wider and deeper your experience, the more textures you can recognise in others.
 
-**Limits awareness.** Genuine understanding of another person includes awareness of where your understanding fails. You recognise that their experience exceeds what you can grasp. This meta-awareness — knowing what you do not know about another's inner life — is itself phenomenally mediated. It feels like reaching and not quite touching. Where phenomenal histories diverge radically — across cultures, across neurological types, across forms of [[embodied-cognition|embodiment]] — understanding becomes harder and more approximate. [[consciousness-only-territories|Some regions of another person's experience may be permanently beyond reach]].
+**Limits awareness.** Genuine understanding of another person includes knowing what you do not know about their inner life. This meta-awareness is itself phenomenally mediated, and in some encounters it is vivid: it feels like reaching and not quite touching. But felt opacity is only one mode of misfit. Where phenomenal histories diverge radically — across cultures, across neurological types, across forms of [[embodied-cognition|embodiment]] — the more common readout is a completed reading that feels like success: perspective-takers stop adjusting "once a plausible estimate is reached" (Epley et al., 2004), and consensus bias persists "despite the availability of other statistical information", with participants attributing bias to the other person (Krueger & Clement, 1994). Limits awareness is therefore an achievement, won under conditions such as accuracy incentives, rather than the default. [[consciousness-only-territories|Some regions of another person's experience may be permanently beyond reach]], and the reader will not always feel which.
 
 ## The Social Gap Between Humans and Other Animals
 
@@ -196,7 +196,9 @@ These conditions are offered in good faith, but what counts as "institutional co
 ## References
 
 1. de Waal, F. B. M. (2008). "Putting the Altruism Back into Altruism: The Evolution of Empathy." *Annual Review of Psychology*, 59, 279-300.
+1. Epley, N., Keysar, B., Van Boven, L., & Gilovich, T. (2004). "Perspective Taking as Egocentric Anchoring and Adjustment." *Journal of Personality and Social Psychology*, 87(3), 327-339.
 1. Husserl, E. (1931/1960). *Cartesian Meditations: An Introduction to Phenomenology* (D. Cairns, Trans.). The Hague: Martinus Nijhoff. (First published 1931 as *Méditations cartésiennes*, Paris: Armand Colin.)
+1. Krueger, J., & Clement, R. W. (1994). "The Truly False Consensus Effect: An Ineradicable and Egocentric Bias in Social Perception." *Journal of Personality and Social Psychology*, 67(4), 596-610.
 1. Mead, G. H. (1934). *Mind, Self, and Society*. University of Chicago Press.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Searle, J. R. (1995). *The Construction of Social Reality*. Free Press.

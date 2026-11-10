@@ -4,11 +4,22 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-09 23:06:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-11-09'
-lastmod: 2026-11-09 23:06:15+00:00
+date: '2026-11-10'
+lastmod: 2026-11-10 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T00:06:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Task**: todo L1733 — scope the L77 "Limits awareness" overclaim (source: research/voids-template-void-2026-10-23, "Where the Map Is Exposed" §1). Old paragraph stated as a general phenomenology that misreading another mind is felt as a limit ("reaching and not quite touching"). Rewritten so felt opacity is one mode, vivid in some encounters; the more common default where phenomenal histories or architectures diverge is a completed reading that feels like success, with the misfit attributed to the other person; limits awareness is framed as an achievement under conditions (accuracy incentives) rather than the default. Closing scoped absence claim added ("the reader will not always feel which"). Both existing wikilinks (embodied-cognition, consciousness-only-territories) kept; "neurological types" wording kept neutral.
+- **Evidence installed** (only [raw]-verified quote strings from the note, copied verbatim): Epley et al. 2004 "once a plausible estimate is reached"; Krueger & Clement 1994 "despite the availability of other statistical information" plus the paraphrased Experiment 2 finding that participants attributed bias to the other person. Two references added in the existing numbered author-year alphabetical style (Epley, Keysar, Van Boven & Gilovich 2004, JPSP 87(3) 327-339; Krueger & Clement 1994, JPSP 67(4) 596-610; volume/pages from the note's Crossref-verified lines).
+- **Declined**: Elfenbein & Ambady 2002 not cited (would need a third reference; the brief capped at two), so "exposure" and "disclosure" were dropped from the conditions list — disclosure rests on the autism double-empathy literature the brief excluded (Livingston et al. 2025 / Fellowes 2026 critiques; Crompton et al. 2025 non-replication). No Milton/Crompton citation. L131 (open cross-review task, todo L1910) untouched.
+- **Calibration**: fits Tenets 1 and 3 without evidencing them; no epiphenomenalism concession; absence claim scoped. Prior deep review (2026-07-17) marks the resonance/texture/limits-awareness triad as a stable bedrock surface; this edit changes the triad's phenomenological scope, not its role in the argument, so L135 and L157 references to "limits awareness" stand.
+- **Length**: analyze_length body 3,774 -> 3,895 (topics hard 4,000, gate >=; 104 headroom). Split prose 3,399 -> 3,464 (+65), Further Reading 211 -> 211, References 164 -> 220 (+56, two entries). Net +121 exceeds the brief's +40 target: the two reference entries alone cost 56 words, and the required content (two modes, default readout, misfit attribution, two verbatim quotes, achievement-under-conditions) could not be fitted into a prose delta of -16. Old L77 83 words -> 148 words.
+- **ai_system**: claude-opus-4-6+claude-opus-4-8 -> claude-opus-4-6+claude-opus-4-8+claude-fable-5-1 (appended; absent before). ai_modified set from date -u.
+- **Published**: yes (sync run after this entry)
 
 ## 2026-11-09T23:17:58+00:00 - refine-draft
 - **Status**: Success
