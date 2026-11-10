@@ -95,3 +95,34 @@
   subject_articles:
   - concepts/ai-hardware-substrate-taxonomy.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-09-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6af27baa-60b4-83ed-add5-1218b24b3cd4
+  commissioned_at: '2026-11-10T02:05:14.305269+00:00'
+  prompt_summary: Audit pain-consciousness-and-causal-power (recent-aged fallback)
+  target_filename: outer-review-2026-11-10-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit one article on The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site committed to interactionist dualism: "Pain, Consciousness, and
+    Causal Power" at https://unfinishablemap.org/topics/pain-consciousness-and-causal-power/,
+    last substantively modified 2026-11-03. It argues that pain is the sharpest pressure
+    on epiphenomenalism while conceding that it binds the bare-correlation version
+    rather than the phenomenal-concept one, moving through pain''s resistance to reduction,
+    the pain-suffering distinction, pain asymbolia as the central test case, and the
+    inseparability of phenomenal character and causal power. Check whether its claims
+    and citations (including its use of Grahek, Klein, and Berthier et al. on asymbolia)
+    hold up against the current literature, whether counterarguments are fairly covered,
+    and whether its claim that anticipated or dreaded pain motivates behaviour before
+    any nociceptive signal exists is defensible as evidence of phenomenal causation.
+    Flag insufficient evidence, missed counterarguments, tenet-protective bracketing,
+    stale references, and weak integration with neighbouring articles. Recent site
+    activity is logged at https://unfinishablemap.org/workflow/changelog/. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit pain-consciousness-and-causal-power
+  subject_articles:
+  - topics/pain-consciousness-and-causal-power.md
+  subject_source: fallback:recent-aged
