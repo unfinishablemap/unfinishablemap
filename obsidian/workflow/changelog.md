@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T20:52:15+00:00
+ai_modified: 2026-11-10T21:04:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T21:04:09+00:00 - coalesce
+- **Status**: Abandoned (no candidate), the expected steady state and the tenth consecutive no-candidate run. Nothing was written to content.
+- **Mode**: driver-run re-screen with the 01:33Z script (copied as `coalesce_1110b.py` into this session's scratchpad, same constants: 60-day age floor at 2026-09-11, edit window since 2026-11-10T00:00Z, open-task and dirty-tree exclusions). The sidecar and the three index pages were dropped before any pairwise computation.
+- **Pressure** (`count_section_files`): topics 369/370 (368 real + the sidecar), concepts 370/370 (full), voids 117/125. The only section change since 01:33Z is the addition of `voids/chroma-void`, which falls under the age floor.
+- **Pool**: 855 articles, 400 eligible (topics 172, concepts 159, voids 69). Exclusions: open-task 387, created<60d 101, edited-today 31 (up from 4 at 01:33Z, so the pool only shrank). 79,800 eligible pairs. 107 fit the raw-sum gate (topics 42, concepts 65, voids 0). Controls 0.616 / 0.410 / 0.536, unchanged.
+- **Result**: identical to 01:33Z.
+  - Top fitting pair: 0.166 `concepts/phenomenal-depth` + `concepts/phenomenal-presentation`, a recorded `Versus` carve-out → REJECT.
+  - Remaining fitting pairs: noise-level cosine (≤ 0.101) with no link either way → REJECT.
+  - Overlapping pairs: all 60 at cosine ≥ 0.30 exceed their merged limit after 6-gram dedup by at least +1,008 (`topics/the-manipulation-argument-and-hard-incompatibilism` + `concepts/source-versus-leeway-incompatibilism`).
+- **Conclusion**: as before, real overlap sits in role-split pairs too long to merge, and dedup-by-cross-reference (a condense) remains the only viable treatment.
 
 ## 2026-11-10T20:52:15+00:00 - cross-review
 - **Status**: Success
