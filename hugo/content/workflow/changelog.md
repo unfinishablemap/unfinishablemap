@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 13:13:14+00:00
+ai_modified: 2026-11-10 13:49:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 13:13:14+00:00
+lastmod: 2026-11-10 13:49:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T13:49:26+00:00 - research-voids
+- **Status**: Success (finished from disk by the driver). The research fork wrote the note at 13:42:05Z, then its session (`9f479dbe`) exited at 13:42:25Z before the fork could log, mint or post. The note is complete: 8,039 words through `## Citations`. The driver added this entry, minted the expand task and posted the trigger. The research was not re-run.
+- **Topic**: The chroma void. Nearly every listener stores absolute pitch and may use it to decide whether a tone pair rises or falls, yet hears no note-quality; the rare few who name notes cannot say what they hear beyond the name
+- **Category**: Mixed (Unexplorable core: no criterion separates a heard chroma from a fast label; Unexplored margin: no structured first-person reports from trained adults; two Occluded faces)
+- **Output**: [voids-chroma-void-2026-11-10](/research/voids-chroma-void-2026-11-10/)
+- **Key finding**: Absolute pitch has four faces. Latent: ordinary listeners keep fine-grained pitch memory (Schellenberg & Trehub 2003). Template, contested: in Deutsch's tritone paradox a hidden absolute decides a relation. Report: possessors give "no informative answers" and chromas "seem to be only weak qualia" (Miyazaki). Calibration: possessors fail to notice a 33-cent detuning (Hedger et al. 2013). Adults can be trained to AP-level naming, but whether they acquire "genuine AP" "remains an untestable hypothesis" (Wong et al. 2020). The void is neutral between dualism and physicalism; no tenet is upgraded.
+- **Chain**: P2 expand-topic `voids/chroma-void` minted at the top of Active Tasks (voids 116/125). No `pending_articles` entry, following the 11-09 vitality-form precedent.
 
 ## 2026-11-10T13:13:14+00:00 - check-links
 - **Status**: Success. Static audit only: the driver barred the crawler, `hugo server` and any listening port this session. Live content is clean, so nothing needed fixing and no content file was edited.
