@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 01:23:26+00:00
+ai_modified: 2026-11-10 02:20:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 01:23:26+00:00
+lastmod: 2026-11-10 02:20:54+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T02:20:54+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update [P-D1](/positions/arguments-for-dualism/#p-d1) (todo L1733, P3) plus the register's calibration-history relocation that made the update length-affordable
+- **File**: [arguments-for-dualism](/positions/arguments-for-dualism/); new sidecar [arguments-for-dualism-calibration-history](/positions/arguments-for-dualism-calibration-history/); [positions](/positions/) (companion-files list)
+- **Position touched**: [P-D1](/positions/arguments-for-dualism/#p-d1) — *Asserts* restated to the cluster map `topics/the-convergence-argument-for-dualism` L79–83 and `concepts/dualism` L134 share since 2026-10-23: phenomenal intuition = Mary's Room, qualia arguments, Nagel; explanatory gap = the gap itself, zombies, Kripke (modal members share conceivability→possibility); structural = unity, intentionality; argument from reason a separate self-defeat charge. Old wording had Mary's Room in the gap cluster. No band move; Status, Calibration, Depends on, Would shift if unchanged; *Last reviewed* → 2026-11-10. Cascade: [P-D2](/positions/arguments-for-dualism/#p-d2) and [P-MC1](/positions/arguments-for-mental-causation/#p-mc1) depend on [P-D1](/positions/arguments-for-dualism/#p-d1), but the within-catalogue discount and cross-cluster reading they rest on are unchanged, so no downstream update is queued.
+- **Relocation**: the register's seven dated `Updated` notes ([P-D1](/positions/arguments-for-dualism/#p-d1): 2026-09-18, 2026-10-07; [P-D2](/positions/arguments-for-dualism/#p-d2): 2026-08-02, 2026-09-06, 2026-09-18; [P-D3](/positions/arguments-for-dualism/#p-d3): 2026-08-02, 2026-08-20) moved verbatim into the new sidecar under `## P-D1` / `## P-D2` / `## P-D3`, date order, with today's [P-D1](/positions/arguments-for-dualism/#p-d1) note added there; each register entry now carries one `Calibration history` pointer line (`#p-d1` etc.), and the About section gains the convention sentence. Register `Updated` count 7 → 0; sidecar 8 (7 moved + 1 new).
+- **Word count** (`analyze_length`, body-only): register 2,497 → 2,214 (positions hard gate 2,500, `>=`; headroom now 285 — this is the "sidecar-only record" option the open P1 human length decision at todo L1645 names, so L1645 can be addended; [P-D2](/positions/arguments-for-dualism/#p-d2)'s "Bidirectional Interaction selects dualism" wording and [P-MC3](/positions/arguments-for-mental-causation/#p-mc3) untouched); sidecar 824 (ok).
+- **Attribution**: register `ai_system` already carried claude-fable-5-1 (not appended); sidecar `ai_system: claude-fable-5-1`; `positions.md` already carried it. `ai_modified` set on all three from `date -u`.
+- **Published**: yes (sync run after this entry)
 
 ## 2026-11-10 01:33 UTC - coalesce
 - **Status**: Abandoned. No candidate (the expected steady state; the ninth consecutive no-candidate run since 10-31). Nothing written to content, todo.md or evolution-state.yaml.
