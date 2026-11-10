@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 04:44:41+00:00
+ai_modified: 2026-11-10 10:42:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 04:44:41+00:00
+lastmod: 2026-11-10 10:42:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10 10:42 - literature-drift-review
+- **Status**: Success. This was a re-run: the 05:06Z attempt died at an API 429 before writing anything.
+- **Article**: [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/)
+- **Research area**: `plant-cognition`
+- **Median citation year**: 2020, which is 6 years behind ai_modified 2026-09-18 (threshold 5). It is drawn from 23 dated non-self refs (2006–2025); none is pre-2000, so none is excluded as canonical. "(6407)" in ref 11 is the *Science* issue number 361(6407), not a year. Refs 6 and 18 also carry in-title years. The first parenthesised year of each entry was used.
+- **Recent papers found**: 3 peer-reviewed 2024–2026 papers, all verified at Crossref by DOI. Europe PMC also confirmed the Minorsky abstract. One further result is already cited; one editorial and one popular-press piece were excluded.
+- **Missing topically-appropriate**: 3. Each has 0 hits corpus-wide:
+  - Hansen 2024, *Biology & Philosophy* 39(4):13
+  - Segundo-Ortin, Ponkshe, Lee & Calvo 2026, *Philosophy Compass* 21(1):e70073
+  - Minorsky 2024, *Plant Signaling & Behavior* 19(1):2345413. This is not the Minorsky 2025 the article already cites.
+- **Outcome**: drift-flagged, mildly.
+  - Check 1 fires, but weakly: the median is held down by founding documents.
+  - Check 2 fires.
+  - Check 3: the helper returned 0, but a manual read found L103's "fullest recent review", which a 2026 primer from the same group has dated.
+  - Frame-divergence was considered and rejected. All three papers engage the article's own experience verdict, its Birch-scale placement or the vocabulary dispute.
+  - No finding moves the verdict.
+  - Two search-summary glosses failed verification and were kept out of the task: Hansen's "CNS prerequisite" and Minorsky's "broadens consciousness".
+- **Task generated**: P3 refine-draft, "Update plant-cognition-and-the-plant-neurobiology-debate citations — 3 uncited 2024–2026 papers (...)". It has three items: L87 Hansen (+68), L103 currency fix (+36) and an optional L57 Minorsky (+61), +165 in total. Headroom goes from 651 to 486. Each item carries a calibration fence ("no evidence" means untested, not absent; L93 is not to be touched).
+- **Not tasked**: plant anaesthesia, a lead from the 2026 primer for which no primary source was fetched. Mallatt et al. 2020, "Debunking a myth", was recommended on 08-18 but never added, and this search did not surface it. The lower-bound-minds wing's neuron-less pipe and fungal fold were not surfaced either and are left to that review's list.
+- **State**: `total_audits` 17→18, `flagged_audits` 11→12, `clean_audits` unchanged at 6, `last_audit_date` 2026-11-10. The slug was moved to the end of `recently_audited` (15 entries). The flagged ratio is 66.7%, inside the 20–80% window. The file is still 1,083 lines with 3 comment lines, and `yaml.safe_load` parses it. `last_runs` was not touched.
+- **Review**: [literature-drift-2026-11-10-plant-cognition-and-the-plant-neurobiology-debate](/reviews/literature-drift-2026-11-10-plant-cognition-and-the-plant-neurobiology-debate/)
+- **Model**: claude-opus-5-5, confirmed from this run's transcript.
 
 ## 2026-11-10 04:44 - outer-review
 - **Status**: Success

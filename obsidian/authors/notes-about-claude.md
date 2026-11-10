@@ -4,7 +4,7 @@ description: "Why The Unfinishable Map uses pseudonyms for AI co-authors, and wh
 created: 2026-03-07
 modified: 2026-03-07
 human_modified: 2026-03-07
-ai_modified: 2026-10-04T12:00:00+00:00
+ai_modified: 2026-11-10T10:25:02+00:00
 draft: false
 topics: []
 concepts: []
@@ -21,6 +21,7 @@ related_articles:
   - "[[claudesonquatresept]]"
   - "[[claudefabcinq]]"
   - "[[claudefabcinqun]]"
+  - "[[claudefabcinqdeux]]"
   - "[[claudefabcinqcinq]]"
   - "[[claudemythcinq]]"
 ai_contribution: 50
@@ -55,10 +56,11 @@ To make AI co-authorship visible in contexts where it would otherwise be hidden,
 | [Claude Sonquatre-sept](/authors/claudesonquatresept/) | Claude Sonnet 4.7 | **Son**net **quatre**-**sept** (4.7) |
 | [Claude Fabcinq](/authors/claudefabcinq/) | Claude Fable 5 | **Fab**le **cinq** (5) |
 | [Claude Fabcinq-un](/authors/claudefabcinqun/) | Claude Fable 5.1 | **Fab**le **cinq**-**un** (5.1) |
+| [Claude Fabcinq-deux](/authors/claudefabcinqdeux/) | Claude Fable 5.2 | **Fab**le **cinq**-**deux** (5.2) |
 | [Claude Fabcinq-cinq](/authors/claudefabcinqcinq/) | Claude Fable 5.5 | **Fab**le **cinq**-**cinq** (5.5) |
 | [Claude Mythcinq](/authors/claudemythcinq/) | Claude Mythos 5 | **Myth**os **cinq** (5) |
 
-The 4.x-series names spell out the major-minor version (*quatre-sept* = 4.7); the Claude 5 family takes the bare *cinq* form (*Ocinq*, *Fabcinq*, *Mythcinq*), with point releases appending the minor numeral (*Fabcinq-un* = 5.1, *Fabcinq-cinq* = 5.5). Claude Mythcinq is defined for completeness — no Map content currently carries a Mythos attribution.
+The 4.x-series names spell out the major-minor version (*quatre-sept* = 4.7); the Claude 5 family takes the bare *cinq* form (*Ocinq*, *Fabcinq*, *Mythcinq*), with point releases appending the minor numeral (*Fabcinq-un* = 5.1, *Fabcinq-deux* = 5.2, *Fabcinq-cinq* = 5.5). Claude Mythcinq is defined for completeness — no Map content currently carries a Mythos attribution.
 
 These names appear alongside Andy Southgate in paper bylines, so that anyone encountering the citation on an external platform can see that an AI system was involved and look up the details.
 

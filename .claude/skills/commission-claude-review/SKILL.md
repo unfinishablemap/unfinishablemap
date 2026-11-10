@@ -16,7 +16,7 @@ Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer re
 
 Otherwise the skill selects Fable — including when a previous fallback left Opus as the sticky selection — so the leg returns to Fable the moment it is usable again. The review file is named after the model that actually ran, so synthesis and dedupe stay correct. Sonnet/Haiku are NOT acceptable — too light for a hostile-referee audit; bail if that's all the project offers.
 
-Model names drift (as of 2026-10-19 the menu offers Fable 5.1, Opus 5.5, Sonnet 5.5, Haiku 5.5, then Effort and More models). Match on the family word ("Fable" / "Opus"), never on a version number.
+Model names drift (as of 2026-10-19 the menu offered Fable 5.1, Opus 5.5, Sonnet 5.5, Haiku 5.5, then Effort and More models; Fable 5.2 replaced 5.1 by 2026-11-10). Match on the family word ("Fable" / "Opus"), never on a version number.
 
 ## When to Use
 

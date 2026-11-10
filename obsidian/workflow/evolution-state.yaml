@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-10T04:46:31.835781+00:00'
-session_count: 24351
+last_updated: '2026-11-10T04:54:46.550006+00:00'
+session_count: 24352
 cycle_position: 15597
 last_runs:
   add-highlight: '2026-11-09T10:05:34.209368+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-10T03:24:28.416740+00:00'
   embed-videos: '2026-11-09T19:02:17.152677+00:00'
   expand-topic: '2026-11-09T13:05:52.470923+00:00'
-  harvest-research-subjects: '2026-11-09T22:47:06.746178+00:00'
+  harvest-research-subjects: '2026-11-10T04:54:46.550006+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-03T05:17:14.445836+00:00'
   optimistic-review: '2026-11-09T23:51:32.597464+00:00'
@@ -78,8 +78,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 6
-    flagged_audits: 11
-    last_audit_date: '2026-11-03'
+    flagged_audits: 12
+    last_audit_date: '2026-11-10'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -88,7 +88,6 @@ audit_triple:
     - quantum-biology-and-neural-consciousness
     - consciousness-and-integrated-information
     - invertebrate-consciousness-as-interface-test
-    - plant-cognition-and-the-plant-neurobiology-debate
     - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
     - fish-sentience-and-the-teleost-pain-debate
@@ -98,7 +97,8 @@ audit_triple:
     - cetacean-and-corvid-consciousness
     - basal-and-bioelectric-cognition
     - brain-organoids-and-the-organoid-intelligence-question
-    total_audits: 17
+    - plant-cognition-and-the-plant-neurobiology-debate
+    total_audits: 18
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-09'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-11-09'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-10'
   outcome: success
   kind: collect
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-10'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/clinical-insight-presented-and-judged-unreality/
