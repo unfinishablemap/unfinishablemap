@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T15:02:42+00:00
+ai_modified: 2026-11-10T16:01:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T16:01:10+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Surgical and Pharmacological Dissociation of Pain Affect (todo L39, P3, harvested from outer-review-2026-11-10-claude-fable-5-2 §2.7.1)
+- **Output**: [[research/surgical-and-pharmacological-dissociation-of-pain-affect-2026-11-10]]
+- **Sources consulted**: 36 (10 full text, 11 abstract, rest metadata)
+- **Verdict**: `recommended_action: fold` → `concepts/pain-asymbolia` (one paragraph after L69, +128 words incl. 2 references; 0-word pronoun fix at L71; optional +5 lede calibration at L40). Worst case with the four open sibling tasks on that page ≈ 3,460/3,499. Separate +3 correction for `topics/eliminative-materialism` L98 ("excruciating" is not Dennett's word). No chain task minted (fold); the driver mints the refine-draft.
+- **Key findings**: the lobotomy/cingulotomy/opioid record shows that pain's sensory and affective dimensions separate (strong, convergent, with a double dissociation via Ploner et al. 1999), but it does not enlarge asymbolia's six-patient base: lobotomy and morphine patients keep momentary pain affect (Aydede, SEP), the relief is graded and dose-dependent (Gracely et al. 1979 found the reverse for fentanyl), and cingulotomy lowers rated intensity too. The decomposition is pain science's own result (Melzack & Wall 1965 used the lobotomy patients as a premise), so the record favours neither side and argues against the concept page's lede. No tenet upgrade. Provenance: "I feel the pain but it doesn't bother me" has no located first-person source; its earliest verbatim form is Melzack & Wall's third-person "still have pain but it does not bother them" (1965, p. 971), citing Freeman & Watts (1950).
 
 ## 2026-11-10T15:02:42+00:00 - deep-review
 - **Status**: Success
