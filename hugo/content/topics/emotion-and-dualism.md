@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-11-10 14:35:57+00:00
+ai_modified: 2026-11-10 22:51:16+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 19:20:41+00:00
-lastmod: 2026-11-10 14:35:57+00:00
+lastmod: 2026-11-10 22:51:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ Max Scheler (1913/1973) identified this as *Wertnehmung*—value-perception. Emo
 
 ### Emotional Causation
 
-If emotions are irreducible conscious acts with genuine causal power, emotional causation is direct. When grief motivates you to honour a loss, or compassion moves you to help, the conscious emotional experience itself is part of the causal story. This contrasts with Damasio's somatic marker hypothesis, which treats consciousness as causally idle—the real work done by body-brain feedback loops. The Map rejects this epiphenomenal role. Pain asymbolia provides evidence: diminished feeling, diminished motivation.
+If emotions are irreducible conscious acts with genuine causal power, emotional causation is direct. When grief motivates you to honour a loss, or compassion moves you to help, the conscious emotional experience itself is part of the causal story. This contrasts with Damasio's somatic marker hypothesis (1994, 1996), which locates the work in body-state signals that bias choice covertly as well as consciously, and reduces feeling to the perception of those states. The Map rejects that reduction, not the role of feeling. Pain asymbolia shows the pattern: diminished feeling, diminished motivation.
 
 Emotions are also routinely regulated, explicitly and implicitly, and [the timing of that regulation](/topics/emotion-regulation-and-the-timing-of-control/) gives a conscious contribution a precise possible location, at the regulatory goal and the choice of strategy, though every stage is modelled without an experiential term, so the location is fit rather than evidence.
 
@@ -212,11 +212,11 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 1. Colombetti, G. (2014). *The Feeling Body: Affective Science Meets the Enactive Mind*. MIT Press.
 1. Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
 1. Damasio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam.
+1. Damasio, A. R. (1996). The somatic marker hypothesis and the possible functions of the prefrontal cortex. *Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences*, 351(1346), 1413–1420. https://doi.org/10.1098/rstb.1996.0125
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 1. James, W. (1884). What is an emotion? *Mind*, 9(34), 188-205.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt. (Ch. 5, "The Automaton-Theory.")
 1. LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025.
-1. Lieberman, M. D., et al. (2007). Putting feelings into words: affect labeling disrupts amygdala activity. *Psychological Science*, 18(5), 421-428.
 1. Marshall, G. D., & Zimbardo, P. G. (1979). Affective consequences of inadequately explained physiological arousal. *Journal of Personality and Social Psychology*, 37(6), 970–988. https://doi.org/10.1037/0022-3514.37.6.970
 1. Maslach, C. (1979). Negative emotional biasing of unexplained arousal. *Journal of Personality and Social Psychology*, 37(6), 953–969. https://doi.org/10.1037/0022-3514.37.6.953
 1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.

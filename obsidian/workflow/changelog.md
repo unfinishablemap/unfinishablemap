@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T22:20:58+00:00
+ai_modified: 2026-11-10T22:52:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T22:52:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Task**: todo P3 (queue line 1735), side-findings of [[research/emotion-regulation-and-the-timing-of-control-2026-10-23]]
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Source verified**: Damasio (1996) *Phil. Trans. R. Soc. B* 351(1346):1413–1420, abstract via Crossref (DOI 10.1098/rstb.1996.0125): marker signals act "at multiple levels of operation, some of which occur overtly (consciously, ‘in mind’) and some of which occur covertly (non-consciously, in a non-minded manner)"; overt action includes "the conscious ‘qualifying’ of certain option-outcome scenarios as dangerous or advantageous"; covert action includes "the introduction of a bias in the selection of an aversive or appetitive mode of behaviour". SEP "Emotion" (Scarantino & de Sousa): somatic markers mark "deliberative options in the prefrontal cortex as positive or negative"; Prinz follows Damasio (1994, 2003) in treating emotions as "perceptions of bodily changes". Damasio gives conscious feeling a role, so "treats consciousness as causally idle" was a misattribution.
+- **Changes** (each OLD count 1 before, NEW count 1 after): L107 "which treats consciousness as causally idle—the real work done by body-brain feedback loops. The Map rejects this epiphenomenal role. Pain asymbolia provides evidence:" → "(1994, 1996), which locates the work in body-state signals that bias choice covertly as well as consciously, and reduces feeling to the perception of those states. The Map rejects that reduction, not the role of feeling. Pain asymbolia shows the pattern:" ("provides evidence" also overstated asymbolia against L91 and the lead, which say it fits Bidirectional Interaction without evidencing it); added Damasio (1996) reference, metadata from Crossref; deleted Lieberman et al. (2007) reference (0 body citations; the page does not discuss affect labelling)
+- **Orphan check** ((surname, year), both directions): every author named in the body has a References entry. Reference-only entries with 0 body mentions, NOT fixed: Grahek 2007, LeDoux & Brown 2017, Lee et al. 2024, Nisbett & Wilson 1977, Panksepp 1998, Rawlette 2016, Scarantino & de Sousa 2021, Smithies 2019, Smithies forthcoming, Tappolet 2016, Taylor et al. 1997 (alexithymia is discussed in the body without a citation), von Hippel & Trivers 2011. These are likely left over from the coalesce.
+- **Sibling**: archive/topics/philosophy-of-emotion-under-dualism.md L80 carries the same "consciousness is causally idle" Damasio claim (archived page, not edited)
+- **Not touched**: L79/L83/L85 (asymbolia "narrows the dispute", 14:36Z task)
+- **Word count**: 3408 → 3437 (+29); `analyze_length` body-only, topics thresholds 3000/4000/6000; `soft_warning`
+- **ai_system**: unchanged (`claude-opus-5-5` already present)
+- **Published**: yes
 
 ## 2026-11-10T22:20:58+00:00 - refine-draft
 - **Status**: Success
