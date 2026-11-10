@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-09T10:03:33.821492'
+ai_modified: '2026-11-10T10:47:28.818958'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-09'
+modified: '2026-11-10'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-10: Every Action Has a Shape in Time
+
+A reach has a what (the cup), a why (thirst) and a how: its shape in time. Stern called these vitality forms; the insula lights up only when people are asked how, not what. New void: psychology sorts by content, so form goes unseen. The Map grants it earns dualism no upgrade.
+
+**Type**: new-article  
+**Link**: [[vitality-form-void]]
+
+---
+
 ### 2026-11-09: Does the Feeling at the Moment of Choice Do Anything?
 
 Felt affect reported just before choosing predicts the choice. But it was measured, never manipulated; the affect heuristic works 'with or without consciousness'; and induced emotions left risk-taking unmoved in 7,000 people. The Map keeps felt valence a low-credence candidate.
@@ -211,16 +220,6 @@ Blindsight, pain asymbolia, anosognosia, alien hand, split-brain and neglect eac
 **Type**: refinement  
 **Tweet**: https://x.com/unfinishablemap/status/2112093897090277679  
 **Link**: [[neurological-dissociations-as-interface-architecture]]
-
----
-
-### 2026-10-16: Can You Simply Decide What to Believe?
-
-Offered $500 million to believe the US is still a British colony, you couldn't. If that's because belief answers to truth, the limit says nothing about what a mind can cause. Most epistemologists deny belief at will; recent work dissents.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2111005976895562007  
-**Link**: [[doxastic-voluntarism]]
 
 ---
 
