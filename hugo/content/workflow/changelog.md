@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 14:36:54+00:00
+ai_modified: 2026-11-10 15:02:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 14:36:54+00:00
+lastmod: 2026-11-10 15:02:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T15:02:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/)
+- **Word count**: 2,974 → 3,030 (+56; analyze_length; topics hard 4,000)
+- **Critical issues addressed**: 3 — (1) Matthias 2004 quote altered inside the quotation marks: raw PDF reads "to be able to assume the responsibility for them" (the words "to be able" were dropped), restored; (2) Königs 2022 overstated ("become unclear or vanish", "dissolves it … until they stop being met") → "it becomes unclear when they occur", "Königs questions it by tightening the gap-conditions" (Crossref abstract: situations "are unclear"); (3) present-AI premise stated as fact → L68 rescoped to [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s conditional with one link to [P-AC1](/positions/ai-consciousness-scope/#p-ac1), and L32 rescoped
+- **Medium issues addressed**: 1 fixed, 1 considered and kept — the addressability sentence avoids "reasons-responsive" because of the seam with concepts/reasons-responsiveness L80/L102–L104; "falsifiable" (L32/L72) considered and kept
+- **Enhancements made**: 3 — addressability-without-desert sentence linking [the AI-facing case for restraint](/topics/representation-adequacy-and-irreversible-intervention/#which-agents), funded by trimming L80's restatement of L68's "moral residue" clause; zero-word `{#blame-laundering}` anchor; *someone must pay* changed from quotation marks to an italic mention at L40/L86 (not verifiable as Danaher's words)
+- **Cross-review insertion e0b69d91** (Levy / epistemic-condition gloss): verified true of the target (L35, L133); unchanged
+- **Folds in**: todo P3 "`topics/ai-moral-agency-and-the-responsibility-gap-under-dualism` L68 says flatly…" (optimistic-review 2026-11-05 Task 2), both items applied; the driver closes it
+- **Reasoning modes**: Tigard and Königs Mode Three; French and List & Pettit Mode Three, preceded by an in-framework observation; Sparrow a distinction drawn; Matthias and Danaher Map-marked reinterpretations; no boundary-substitution, no label leakage
+- **ai_system**: appended claude-opus-5-5
+- **Output**: [deep-review-2026-11-10-ai-moral-agency-and-the-responsibility-gap-under-dualism](/reviews/deep-review-2026-11-10-ai-moral-agency-and-the-responsibility-gap-under-dualism/)
 
 ## 2026-11-10T14:36:54+00:00 - refine-draft
 - **Status**: Success

@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-10T14:23:36.839916+00:00'
-session_count: 24365
-cycle_position: 15601
+last_updated: '2026-11-10T14:39:10.044352+00:00'
+session_count: 24366
+cycle_position: 15602
 last_runs:
   add-highlight: '2026-11-10T10:48:19.789692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-09T23:51:32.597464+00:00'
   pessimistic-review: '2026-11-09T21:42:33.681098+00:00'
   positions-evolve: '2026-11-10T02:23:14.245639+00:00'
-  refine-draft: '2026-11-10T12:38:18.975242+00:00'
+  refine-draft: '2026-11-10T14:39:10.044352+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-10T12:28:05.103688+00:00'
   research-voids: '2026-11-10T13:50:27.706046+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-claude-review
-  type: commission-claude-review
-  date: '2026-11-10'
-  outcome: success
-  kind: commission
 - task: deep-review
   type: deep-review
   date: '2026-11-10'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-10'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-10'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/content-specificity-of-mental-causation/

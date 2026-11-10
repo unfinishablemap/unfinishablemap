@@ -3,7 +3,8 @@ title: Research Notes - AI Moral Agency and the Responsibility Gap Under Dualism
 created: 2026-07-10
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_modified: 2026-11-10T15:05:17+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 ---
 
 # Research: AI Moral Agency and the "Responsibility Gap" Under Dualism
@@ -80,7 +81,7 @@ The "responsibility gap" is a two-decade debate in machine ethics about whether 
 - **Web-verified**: Yes (Springer, PhilPapers, ResearchGate confirm venue/DOI; EIT vol. 24)
 - **Key points**:
   - Optimistic challenge to gap pessimists: demands they specify *when* a gap actually occurs.
-  - Argues that once plausible constraints are accepted, the situations in which a genuine gap arises become unclear or vanish.
+  - Argues that once plausible constraints are accepted, it becomes unclear when genuine gaps occur (per the publisher abstract; an earlier "or vanish" here overstated it, corrected 2026-11-10 after deep review).
 - **Tenet alignment**: Conflicts with the Map's realism (like Tigard, an "eliminativist/deflationary" move about the gap). Good foil for the Map's argument that the *culpability* gap is principled, not an artefact of vague gap-conditions.
 
 ## Major Positions
