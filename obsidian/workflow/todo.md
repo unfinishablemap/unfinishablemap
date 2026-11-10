@@ -5241,6 +5241,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 ## Completed Tasks
 
 
+### ✓ 2026-11-10: Verify ai_system attribution after model-fallback event (2026-11-10)
+- **Type**: refine-draft
+- **Notes**: Transcript 9f479dbe-9959-4566-a48d-7a4b08e3f9a8.jsonl shows 6275x claude-opus-5-5 message(s) alongside the primary model between 2026-10-30T07:08:52.017000+00:00 and 2026-11-10T11:16:55.328000+00:00 (UTC). Dominant model is the fallback (claude-opus-5-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Output**: FALSE POSITIVE, closed by the driver (2026-11-10). The transcript 9f479dbe shows two clean operator `/model` boundaries and no interleaving: claude-opus-5-5 from 2026-10-30 until `Set model to Fable 5.1` at 2026-11-08T13:52:23Z (first fable message 13:52:39Z); claude-fable-5-1 until the Fable weekly-limit 429 at 2026-11-10T05:06Z; only <synthetic> error messages 05:06-10:31Z; then `Set model to Opus 5.5` at 10:20:28Z and claude-opus-5-5 from 10:31:55Z. No safety-classifier stick. Attribution is correct: fable-era work was stamped claude-fable-5-1 and the only content written since 10:31Z (reviews/literature-drift-2026-11-10-plant-cognition-...) carries ai_system claude-opus-5-5. The authors/ and project/writing-style edits at 10:25Z came from a different session (41044e52), not this transcript. See memory operator-model-switch-triggers-false-fallback-task.
+
 ### ✓ 2026-11-10: Cross-review `topics/consciousness-and-the-epistemic-condition-on-responsibility.md` — integrate the new epistemic-condition article into the responsibility / access-consciousness cluster
 - **Type**: cross-review
 - **File**: obsidian/topics/consciousness-and-the-epistemic-condition-on-responsibility.md
