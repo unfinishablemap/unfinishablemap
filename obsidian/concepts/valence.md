@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T11:30:43+00:00
+ai_modified: 2026-11-10T12:34:49+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-08-01T15:29:00+00:00
@@ -40,19 +40,23 @@ Valence is not the same as the specific character of an experience. The painfuln
 
 Whether valence is itself a *natural kind* is a further question the core-affect literature leaves open. Barrett's constructionism denies natural-kind status to discrete emotion categories while treating valence and arousal as basic features of consciousness; Scarantino (2009) presses the natural-kind question against core affect itself; and Labukt (2012) argues that the heterogeneity of pleasure yields several hedonic tones rather than one or none. [[topics/valence-as-a-natural-kind|Valence as a natural kind]] works through what survives those challenges, and finds the Map's exposure falling on the claim that felt valence is a single scalar currency rather than on its reality.
 
-## Two Competing Accounts
+## Three Competing Accounts
 
-Two main philosophical accounts compete to explain what valence is.
+Three philosophical accounts compete to explain what valence is.
 
-**The hedonic account** treats valence as an intrinsic qualitative property of experience. The badness of pain is not *about* anything—it is a feature the pain has in virtue of being the experience it is. Just as redness is an intrinsic quality of visual experience, badness is an intrinsic quality of painful experience.
+**The hedonic account** treats valence as an intrinsic qualitative property of experience. The badness of pain is a feature the pain has in virtue of being the experience it is, not something the pain is *about*. Just as redness is an intrinsic quality of visual experience, badness is an intrinsic quality of painful experience.
 
-**The evaluativist account** (Carruthers 2018) treats valence as a nonconceptual representation of value. When afraid, attention is directed outward—the bear's claws seem dangerous. Valence represents goodness or badness in the world rather than being a property of the experience itself.
+**The evaluativist account** treats valence as a nonconceptual representation of value. David Bain, who gave the view its name, states it for pain: an unpleasant pain represents a bodily disturbance and also represents that disturbance as bad for its subject (Bain 2013). Cutter and Tye (2011) give a tracking version on which the represented badness is an objective property of the damage, and Carruthers (2018) extends the view to valence generally: when afraid, attention is directed outward—the bear's claws seem dangerous.
 
-### Why the Hedonic Account Is Stronger
+**The imperativist account** treats valence as a command rather than a description. Klein (2007) gave the first explicit imperative theory of pain, on which a pain's content is a command against using the injured part; Martínez (2011) extended imperative content to pain's unpleasantness, pairing a description of the disturbance with a command to see that it ends; Barlassina and Hayward (2019) generalise the view to all affect, on which an unpleasant experience commands "Get less of me!" On both representational accounts of unpleasantness, whether an experience hurts is a difference in what it represents or commands, so they deny that two experiences could share their content and differ only in felt badness.
 
-[[pain-asymbolia|Pain asymbolia]] provides the strongest evidence. Patients with specific brain damage can represent tissue damage—they know their hand is burned—without feeling any badness. They have the representational content (evaluativist account) without the felt quality (hedonic property). If valence were merely a representation of value, these patients should still feel motivated to avoid damage. They don't.
+### Where the Hedonic Account's Case Lies
 
-The dissociation runs in only one direction. You can have representation without valence (asymbolia), but valence without representation is harder to identify—suggesting that valence is the more fundamental phenomenon. Objectless moods are the obvious candidate for the missing direction: free-floating anxiety and undirected elation feel bad or good without representing any particular thing as dangerous or fine. An evaluativist can answer that such moods represent the world at large under an evaluative aspect, which keeps the case contested rather than settling it. What survives the exchange is the asymmetry itself, and the hedonic account explains it naturally: representation and valence are distinct properties that normally co-occur but can dissociate.
+[[pain-asymbolia|Pain asymbolia]] can look like decisive evidence: patients represent tissue damage—they know their hand is burned—without feeling any badness. That rules out identifying felt badness with the detection of damage. It does not favour the hedonic account over its representational rivals, because both predict the dissociation. Evaluativists deny that asymbolics represent the damage as bad for them, and Bain (2014) argues that the missing component of their pain "consists in evaluative content"; hybrid imperativism keeps the description and loses the command, which yields what Martínez (2023) calls "the familiar asymbolic pattern of sensory pain without painfulness."
+
+The hedonic account's advantage lies with reasons. A pain gives its subject a reason to be rid of the experience itself, which is why taking a painkiller that leaves the injury untouched is rational. If the unpleasantness were only a representation of the damage, removing the experience while the damage remains would be "shooting the messenger" (Jacobson 2013). Representationalists have replies (Cutter and Tye 2014), and the dispute is open, but on the hedonic account the reason needs no further machinery: the badness is in the experience, so ending the experience ends it. Objectless moods offer a second consideration. Free-floating anxiety and undirected elation feel bad or good without representing any particular thing as dangerous or fine. An evaluativist can answer that such moods represent the world at large under an evaluative aspect, which keeps that case contested rather than settling it.
+
+Two limits bound the result. Representationalism and physicalism come apart: tracking versions are explicitly reductive, but the non-reductive versions Aydede (2023) distinguishes hold that the represented content resists naturalistic explanation, so the choice among these three accounts is orthogonal to the [[tenets#^dualism|Dualism]] tenet, and the Map's dualism would survive the hedonic account's defeat. Nor does any of the three make valence idle: the representational accounts build motivational force into the content itself, so the question is what the felt badness is, not whether it does any work.
 
 ## Valence and the Hard Problem
 
@@ -112,3 +116,13 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 1. Hesp, C., Smith, R., Parr, T., Allen, M., Friston, K. J., & Ramstead, M. J. D. (2021). Deeply felt affect: the emergence of valence in deep active inference. *Neural Computation*, 33(2), 398–446. https://doi.org/10.1162/neco_a_01341
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 1. Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind* (Vol. 5). Oxford University Press.
+1. Aydede, M. (2023). Is pain representational? *Belgrade Philosophical Annual*, 36(2), 25–39. https://doi.org/10.5937/bpa2302025a
+1. Bain, D. (2013). What makes pains unpleasant? *Philosophical Studies*, 166(S1), 69–89. https://doi.org/10.1007/s11098-012-0049-7
+1. Bain, D. (2014). Pains that don't hurt. *Australasian Journal of Philosophy*, 92(2), 305–320. https://doi.org/10.1080/00048402.2013.822399
+1. Barlassina, L., & Hayward, M. K. (2019). More of me! Less of me!: Reflexive imperativism about affective phenomenal character. *Mind*, 128(512), 1013–1044. https://doi.org/10.1093/mind/fzz035
+1. Cutter, B., & Tye, M. (2011). Tracking representationalism and the painfulness of pain. *Philosophical Issues*, 21(1), 90–109. https://doi.org/10.1111/j.1533-6077.2011.00199.x
+1. Cutter, B., & Tye, M. (2014). Pains and reasons: Why it is rational to kill the messenger. *The Philosophical Quarterly*, 64(256), 423–433. https://doi.org/10.1093/pq/pqu025
+1. Jacobson, H. (2013). Killing the messenger: Representationalism and the painfulness of pain. *The Philosophical Quarterly*, 63(252), 509–519. https://doi.org/10.1111/1467-9213.12029
+1. Klein, C. (2007). An imperative theory of pain. *The Journal of Philosophy*, 104(10), 517–532. https://doi.org/10.5840/jphil2007104104
+1. Martínez, M. (2011). Imperative content and the painfulness of pain. *Phenomenology and the Cognitive Sciences*, 10(1), 67–90. https://doi.org/10.1007/s11097-010-9172-0
+1. Martínez, M. (2023). Grahek-style imperativism. *Belgrade Philosophical Annual*, 36(2), 59–70. https://doi.org/10.5937/bpa2302059m

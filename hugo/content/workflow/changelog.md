@@ -1,13 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 12:25:30+00:00
+ai_modified: 2026-11-10 12:36:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 12:25:30+00:00
+lastmod: 2026-11-10 12:36:26+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-10T12:36:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Task**: todo L5239 (P2; hand-minted by the driver from [imperativism-and-evaluativism-about-pain-2026-11-10](/research/imperativism-and-evaluativism-about-pain-2026-11-10/) §Recommended Fold › Host 1). Scope: old L43–55 only (`## Two Competing Accounts` up to, not including, `## Valence and the Hard Problem`), plus References and frontmatter. The lede (L33), L65–69 and L85 (owned by todo L5206) are untouched; `git diff -U0` shows hunks at L7, L27, L43–55 and the ten appended References lines only.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - Replaced `## Two Competing Accounts` + `### Why the Hedonic Account Is Stronger` with `## Three Competing Accounts` (hedonic / evaluativist / imperativist) + `### Where the Hedonic Account's Case Lies`, verbatim from the note's drafted passage. Withdrawn: "Pain asymbolia provides the strongest evidence" and "If valence were merely a representation of value, these patients should still feel motivated to avoid damage. They don't." Both representational families predict the dissociation (Bain 2014; Martínez 2023), so asymbolia now "rules out identifying felt badness with the detection of damage" and nothing more. The hedonic case rests on painkiller rationality (Jacobson 2013, "shooting the messenger"; reply Cutter and Tye 2014; "the dispute is open") and objectless moods ("keeps that case contested"). Closing paragraph: representationalism and physicalism come apart (Aydede 2023), so the Dualism tenet is untouched; none of the three accounts makes valence idle (closing guard sentence kept).
+  - One departure from the drafted text: the hedonic-account sentence carried over from the old section, "The badness of pain is not *about* anything—it is a feature the pain has in virtue of being the experience it is", used the not-X-it-is-Y construct. It now reads "The badness of pain is a feature the pain has in virtue of being the experience it is, not something the pain is *about*." Δ +2.
+  - Quotation discipline: only the four ledger fragments are quoted ("Get less of me!"; "consists in evaluative content"; "the familiar asymbolic pattern of sensory pain without painfulness."; "shooting the messenger"). Bain 2013 p. S82 is paraphrased; Grahek and Klein's 2015 book are not cited; Klein is cited only for the 2007 priority (proscription content); hurt-as-content is attached to "both representational accounts of unpleasantness", not to Klein.
+  - References: ten entries appended verbatim from the note (Aydede 2023; Bain 2013; Bain 2014; Barlassina & Hayward 2019; Cutter & Tye 2011; Cutter & Tye 2014; Jacobson 2013; Klein 2007; Martínez 2011; Martínez 2023), in the page's `1.` style, alphabetical as a block at the end because the existing list is unsorted. Carruthers 2018 is not duplicated.
+  - Not added: Kinakin 2026 (named in the task Notes). The drafted passage and the ten-entry spec omit it. It is available as an optional citation for "the dispute is open" (metadata in the note's Citations, entry 21).
+- **Orphan check** (surname, year), both ways: body → References 18/18 matched; References → body: all ten new entries cited. Two older orphans, both from before this pass and left untouched: Smithies (forthcoming) appears in References only, and Russell & Barrett (1999) is cited by name without a year.
+- **Engagement classification** (editor-internal): asymbolia paragraph vs evaluativism and imperativism: Mode Three (shared prediction honestly marked, no refutation claimed). Reasons paragraph (messenger-shooting): Mode One attempted inside representationalism's own account of reasons, and marked contested (Cutter and Tye 2014). Objectless moods: Mode Three (contested). Two limits: Mode Three (Tenet 1 orthogonal; no epiphenomenalism conceded).
+- **Anchors**: no inbound links to `valence#two-competing-accounts` or `#why-the-hedonic-account-is-stronger` (the only hits are the research note's own statement). Heading-text dialect: 0.
+- **Coordination for todo L5206**: its line references shift by +4 (L69 → L73, L85 → L89). Its OLD strings are unchanged and match once each. The new section agrees with L73 ("the dissociation does not settle it"). L89's "binds the bare-correlation epiphenomenalist" and the lede's (L33) "Asymbolia binds only the simplest denial of valence's causal relevance" are now the page's only decisive verdicts on asymbolia. If L5206 withdraws "binds" at L89, the lede would need the same calibration, and L5206 does not list it.
+- **Word count** (`analyze_length`): 1,932 → **2,411** (concepts soft 2,500, hard 3,500, gate `>=`; the note's scratch measurement was 2,409, and the +2 is the rephrase above).
+- **Attribution**: `ai_system` appended `+claude-opus-5-5` (absent before; this fork's transcript shows only `claude-opus-5-5`); `ai_modified` set from `date -u`.
+- **Published**: yes
+
 ---
 
 ## 2026-11-10T12:25:30+00:00 - research-topic
