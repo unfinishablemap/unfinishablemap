@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T21:04:09+00:00
+ai_modified: 2026-11-10T21:34:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T21:34:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/anesthesia-void]]
+- **Original score**: n/a (targeted single-sentence fix; `scripts/curate.py` is absent)
+- **Source**: side-finding of [[research/tonic-immobility-and-the-freeze-response-2026-10-23]], driver-verified at 19:20Z (todo P3).
+- **Changes**: Relation to Site Perspective, Bidirectional Interaction bullet (L138). "The asymmetry is diagnostic — it suggests the interface operates on multiple channels that can fail independently." became "Motor end-plate blockade predicts the asymmetry, which fits, without evidencing, an interface whose channels can fail independently." A paralytic acts at the motor end-plate and leaves sensory pathways running, so the pharmacology alone predicts input-coupled, output-blocked consciousness with no interface term. The sentence now joins the corpus's "fits without evidencing" family for Tenet 3. Epiphenomenalism is not conceded: the block sits downstream of whatever consciousness does, and the bullet still sets the case up as a limit case for bidirectionality. OLD count 1→0, NEW 0→1.
+- **L96 checked, left unchanged**: "These dissociations are diagnostic." follows the propofol/GABA sentence and introduces receptor-site decoupling ending in "the compound signature of several distinct disruptions". Here "diagnostic" is the clinical sense, diagnostic of distinct pharmacological mechanisms, and L98 already says the dissociability is "theory-neutral between sophisticated physicalism and interface dualism".
+- **Length**: analyze_length 2,995 → 2,995 (voids hard 3,000); the new sentence has the same 17 whitespace tokens as the old.
+- **ai_system**: appended `claude-opus-5-5` → `claude-opus-4-8+claude-opus-5+claude-opus-5-5`.
+- **Published**: yes
 
 ## 2026-11-10T21:04:09+00:00 - coalesce
 - **Status**: Abandoned (no candidate), the expected steady state and the tenth consecutive no-candidate run. Nothing was written to content.

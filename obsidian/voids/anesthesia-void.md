@@ -4,7 +4,7 @@ description: "Human+AI exploration of the pharmacologically imposed gap in consc
 created: 2026-04-17
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-10-14T08:04:00.602691+00:00
+ai_modified: 2026-11-10T21:34:19+00:00
 last_deep_review: 2026-06-26T10:08:00+00:00
 draft: false
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[affective-forecasting-gap]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-04-17
 last_curated: null
 embedded_videos:
@@ -135,7 +135,7 @@ The Map favours the interface-disruption reading. On this view, anesthesia does 
 
 Three further tenets are relevant:
 
-- **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Connected consciousness during anesthesia with neuromuscular blockade is a limit case: input may remain coupled while output is blocked. The asymmetry is diagnostic — it suggests the interface operates on multiple channels that can fail independently.
+- **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Connected consciousness during anesthesia with neuromuscular blockade is a limit case: input may remain coupled while output is blocked. Motor end-plate blockade predicts the asymmetry, which fits, without evidencing, an interface whose channels can fail independently.
 - **[[tenets#^occams-limits|Occam's Razor Has Limits]].** The temptation to treat anesthetic unconsciousness as identical to phenomenal cessation is a parsimony move that outruns the evidence. Dissociable components, disconnected consciousness, and intraoperative awareness all complicate the clean "switch off" story. Simpler is not safer when the evidence is this layered.
 - **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** The Map does not need any specific quantum mechanism to engage this void. The anesthesia evidence constrains interface models without requiring a particular implementation of the coupling.
 
