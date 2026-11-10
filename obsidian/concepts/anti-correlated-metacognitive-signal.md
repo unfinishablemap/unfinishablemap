@@ -4,7 +4,7 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-11-09T14:20:29+00:00
+ai_modified: 2026-11-10T02:32:39+00:00
 last_deep_review: 2026-09-05T16:42:25+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ ai_generated_date: 2026-05-19
 last_curated: null
 ---
 
-An **anti-correlated metacognitive signal** is a metacognitive indicator — a feeling of confidence, certainty, rightness, or knowing — whose strength varies *inversely* with the accuracy it purports to track, in a specific regime where reliability would matter most. Rebouillat, Leonetti, and Kouider (2021) supplied the cleanest empirical demonstration in healthy adults: when first-order decision evidence is weak, confidence in self-reports does not merely fail to track accuracy; it rises *as* internal evidence weakens, producing the most confident outputs precisely where the underlying process is least reliable. The signal is anti-correlated with the criterion it would need to track to be useful as a self-monitoring instrument.
+An **anti-correlated metacognitive signal** is a metacognitive indicator — a feeling of confidence, certainty, rightness, or knowing — whose strength varies *inversely* with the accuracy it purports to track, in a specific regime where reliability would matter most. Rebouillat, Leonetti, and Kouider (2021) supplied the cleanest empirical demonstration in healthy adults: when deceptive external cues meet weak first-order decision evidence, confidence in self-reports does not merely fail to track accuracy; it rises *as* internal evidence weakens, producing the most confident outputs precisely where the underlying process is least reliable. The signal is anti-correlated with the criterion it would need to track to be useful as a self-monitoring instrument.
 
 The concept names a structural pattern rather than a single experimental finding. Anti-correlation is conceptually distinct from noise, from miscalibration, and from ordinary metacognitive unreliability. A noisy signal can be averaged. A miscalibrated signal can be re-scaled. An anti-correlated signal — in the regime where it matters — supplies *less* information than no signal at all, because acting on it systematically increases error. The concept earns its own page because this distinction recurs across the Map's introspection-architecture cluster as a load-bearing structural claim, and because it supplies one of the few asymmetry-breaking moves available to the [[discrimination-problem]] (explained [below](#discrimination)).
 

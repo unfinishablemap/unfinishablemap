@@ -4,6 +4,11 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-11-10T02:20:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-11-10T02:32:39+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/anti-correlated-metacognitive-signal]], [[apex/machine-question]]
+- **Task**: todo L1734 (from the 2026-10-23 deep review of `concepts/discrimination-problem`). Rebouillat, Leonetti & Kouider (2021, *Neurosci. Conscious.* niab004) abstract re-verified via OpenAlex: "deceptive cues overturn the classical relationship between confidence and accuracy … prominence when internal decision evidence is weak and variable" — the regime needs BOTH halves. Concept lead L44 now reads "when deceptive external cues meet weak first-order decision evidence" (3303 → 3306 words); apex L123 now names "the weak-internal-evidence-plus-deceptive-cue regime", matching the hub's L110 wording (5942 → 5940 words, net-negative; page remains over the apex hard gate, pre-existing). Apex L177/L195 (open Tenet 3 quantifier P2) untouched. `ai_system` unchanged on both (claude-fable-5-1 already present). Driver-applied inline.
+
 ## 2026-11-10T02:20:54+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: update P-D1 (todo L1733, P3) plus the register's calibration-history relocation that made the update length-affordable
