@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 16:01:10+00:00
+ai_modified: 2026-11-10 16:06:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 16:01:10+00:00
+lastmod: 2026-11-10 16:06:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T16:06:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Task**: todo P2 (queue line 5244) — fold the surgical and pharmacological record into `## What Asymbolia Dissociates` and calibrate the L40 lede, per [the note's Recommended Fold](/research/surgical-and-pharmacological-dissociation-of-pain-affect-2026-11-10/#recommended-fold)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes** (every OLD at `str.count` == 1 before, every NEW == 1 after):
+  - INSERT, new paragraph between L69 ("…intrinsic property of nociceptive processing itself.") and the "How cleanly…" paragraph: the 94-word passage verbatim from the note (Melzack & Wall 1965 lobotomy quote, [raw] p. 971; cingulotomy/morphine via Aydede 2019, paraphrased; "does not enlarge asymbolia's own base"; the decomposition is pain science's own result)
+  - COMPANION: "How cleanly it separates is itself contested" → "How cleanly asymbolia separates is itself contested"
+  - PRONOUN (0 words, same paragraph): "what these patients retain" → "what asymbolia patients retain". After the insertion the nearest-mentioned patients were the lobotomy/morphine patients
+  - LEDE L40: "exposing a phenomenal layer that physicalist accounts struggle to accommodate." → "straining any account on which the unpleasantness is intrinsic to nociceptive processing." The driver adopted "which strains…", but "which" fell directly after "its affective-motivational dimension" (a nearest-noun garden path). The participle attaches to the clause subject, as the original "exposing" did, and matches the description field. The description already makes the calibrated claim (no "struggle to accommodate")
+  - Ploner et al. (1999) (+43) NOT added: it is reserved for the Hagiwara P2 (L5134) as its converse-case companion, keeping room for the four open sibling tasks
+- **References added**: Aydede, M. (2019) SEP "Pain" (before Berthier); Melzack, R., & Wall, P. D. (1965) *Science* 150(3699) (after Klein 2015; the imperativism fold has not landed, 0 Martínez hits)
+- **Orphan check** (surname, year), both directions: 14/14 references cited; every in-text cite has a reference
+- **Guards**: the only new quotation is the Melzack & Wall string; "don't mind it" is unquoted; no Melzack & Casey; no "selective"; no "replicates"; no "I feel the pain…"; no "This is not X. It is Y."; no "load-bearing"
+- **Reasoning modes**: no named-opponent engagement changed; the passage is a calibration that concedes the decomposition is shared with physicalist pain science
+- **Length**: 2,968 → 3,098 (+130; analyze_length; concepts hard 3,500, gate `>=`); with all four siblings at their maxima ≈ 3,462
+- **ai_system**: appended claude-opus-5-5
+- **Published**: yes
 
 ## 2026-11-10T16:01:10+00:00 - research-topic
 - **Status**: Success

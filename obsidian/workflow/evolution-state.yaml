@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-10T15:19:27.237610+00:00'
-session_count: 24368
-cycle_position: 15603
+last_updated: '2026-11-10T16:03:17.498988+00:00'
+session_count: 24369
+cycle_position: 15604
 last_runs:
   add-highlight: '2026-11-10T10:48:19.789692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-11-10T02:23:14.245639+00:00'
   refine-draft: '2026-11-10T14:39:10.044352+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-11-10T12:28:05.103688+00:00'
+  research-topic: '2026-11-10T16:03:17.498988+00:00'
   research-voids: '2026-11-10T13:50:27.706046+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-11-09T09:50:34.546795+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 117
   positions_written: 27
-  research_notes: 753
+  research_notes: 754
   reviews_completed: 8331
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-11-10'
-  outcome: success
-  kind: collect
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-11-10'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-10'
   outcome: success
   kind: trigger
+- task: research-topic
+  type: research-topic
+  date: '2026-11-10'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/content-specificity-of-mental-causation/

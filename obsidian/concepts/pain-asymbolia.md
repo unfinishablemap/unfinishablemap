@@ -2,9 +2,9 @@
 title: "Pain Asymbolia"
 description: "Pain asymbolia dissociates nociceptive sensation from affective suffering, straining accounts that make unpleasantness intrinsic to nociceptive processing."
 created: 2026-02-15
-modified: 2026-10-08
+modified: 2026-11-10
 human_modified:
-ai_modified: 2026-10-08T01:40:28+00:00
+ai_modified: 2026-11-10T16:06:04+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[cross-modal-capability-division]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-10-08T01:40:28+00:00
@@ -37,7 +37,7 @@ embedded_videos:
     source: notebooklm/0091-01-pain-asymbolia
 ---
 
-Pain asymbolia is a neurological condition in which patients detect nociceptive stimuli—they can report that something is "painful"—but lack the felt awfulness that normally accompanies pain. They do not withdraw, guard injured limbs, or show distress. The Unfinishable Map holds that pain asymbolia is among the most philosophically significant clinical conditions in the study of consciousness, because it dissociates the sensory-discriminative dimension of pain from its affective-motivational dimension, exposing a phenomenal layer that physicalist accounts struggle to accommodate.
+Pain asymbolia is a neurological condition in which patients detect nociceptive stimuli—they can report that something is "painful"—but lack the felt awfulness that normally accompanies pain. They do not withdraw, guard injured limbs, or show distress. The Unfinishable Map holds that pain asymbolia is among the most philosophically significant clinical conditions in the study of consciousness, because it dissociates the sensory-discriminative dimension of pain from its affective-motivational dimension, straining any account on which the unpleasantness is intrinsic to nociceptive processing.
 
 <details class="yt-embed" data-video-id="S_adBVpON7g">
 <summary>Video introduction</summary>
@@ -68,7 +68,9 @@ The condition reveals that what ordinary language calls "pain" is not a single p
 
 The dissociation is not a graded reduction of the kind analgesia produces: asymbolia patients do not report mild discomfort where they should feel agony. Berthier et al. record emotional responses to painful stimuli that were "absent or inadequate", with no affective dimension at all in the clearest cases. The sensory information arrives; the suffering does not. This separation—however it is ultimately classified—argues against accounts that treat pain's unpleasantness as an intrinsic property of nociceptive processing itself.
 
-How cleanly it separates is itself contested, and the Map should not lean on a pristine one-variable reading. Griffith and Kind (2024) argue that pain asymbolia is *not pain*: what these patients retain, on their analysis, is not a genuine pain sensation stripped of its unpleasantness but a residual sensory-discriminative capacity that no longer qualifies as pain at all. If they are right, the condition does not exhibit an intact pain minus its affective layer—it exhibits the collapse of the composite into a non-pain remnant, and the "intact sensation, missing suffering" description overstates what is retained. Duval and Klein (2025) reply that asymbolia is probably still pain, so the classificatory question is live rather than settled. Either way, the disciplined claim is narrower than a surgical dissociation: asymbolia shows that pain's sensory-discriminative and affective-motivational dimensions can come apart far enough to strain any account that makes the unpleasantness intrinsic to nociceptive processing—not that it delivers a clean single-variable experiment isolating felt awfulness with everything else held fixed.
+A far larger clinical record shows a related split. Melzack and Wall (1965) wrote that lobotomized patients "still have pain but it does not bother them", and cingulotomy and morphine yield similar reports (Aydede 2019). That record does not enlarge asymbolia's own base: lobotomy and morphine patients still react to momentary pains and, on Aydede's reading, probably feel the negative affect without minding it. What it secures is that sensation and affect come apart, a decomposition that is pain science's own result, so it supports the split without favouring the Map's reading of it.
+
+How cleanly asymbolia separates is itself contested, and the Map should not lean on a pristine one-variable reading. Griffith and Kind (2024) argue that pain asymbolia is *not pain*: what asymbolia patients retain, on their analysis, is not a genuine pain sensation stripped of its unpleasantness but a residual sensory-discriminative capacity that no longer qualifies as pain at all. If they are right, the condition does not exhibit an intact pain minus its affective layer—it exhibits the collapse of the composite into a non-pain remnant, and the "intact sensation, missing suffering" description overstates what is retained. Duval and Klein (2025) reply that asymbolia is probably still pain, so the classificatory question is live rather than settled. Either way, the disciplined claim is narrower than a surgical dissociation: asymbolia shows that pain's sensory-discriminative and affective-motivational dimensions can come apart far enough to strain any account that makes the unpleasantness intrinsic to nociceptive processing—not that it delivers a clean single-variable experiment isolating felt awfulness with everything else held fixed.
 
 A second line of dissent targets the subtraction picture itself rather than the classification. Klein (2015) argues that Grahek mischaracterised the syndrome: "Properly understood, asymbolics have lost a general capacity to care about their bodily integrity," so their indifference reveals a breakdown in the relation between pains and subjects rather than a fact about pain's intrinsic nature—a reading that predicts the broad threat-indifference the Berthier series records and ties asymbolia to depersonalisation. Gerrans (2020) develops that tie within interoceptive active inference: asymbolia becomes, in a phrase he takes from Klein, a "depersonalization for pain"—a failure of the anterior-insular self-modelling that normally marks affective experience as [[mine-ness|mine]], so the pain happens to the body without being experienced as one's own. His allostatic extension adds that "dissociations at either the level of neurocircuitry or phenomenology are not as clean as predicted by a 'strictly' modular componential processing architecture for pain" (Gerrans 2024). On these accounts what goes missing is not a detachable affective quale but the self-attribution that makes a nociceptive signal one's own to care about. The Map records the reading without adopting the verdict sometimes drawn from it—that a self-model account dissolves the phenomenal question. Whether hierarchical self-modelling constitutes felt mattering or only locates where it is added is the bridge question the [[#Causal Efficacy of Phenomenal Quality|causal-efficacy section]] routes to [[constitution-vs-causal-work]].
 
@@ -137,6 +139,7 @@ Together, these dissociations show that pain's dimensions can be modulated separ
 
 ## References
 
+1. Aydede, M. (2019). "Pain." In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2019 Edition). https://plato.stanford.edu/archives/spr2019/entries/pain/
 1. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
 1. Duval, A. & Klein, C. (2025 online first; 2026 issue). "Pain Asymbolia Is Probably Still Pain." *Philosophy of Science*, 93(1), 221–229 (discussion note). Published online 4 July 2025; the volume, issue and pagination are those of the January 2026 issue. https://doi.org/10.1017/psa.2025.10098
 1. Feinstein, J. S., Khalsa, S. S., Salomons, T. V., Prkachin, K. M., Frey-Law, L. A., Lee, J. E., Tranel, D., & Rudrauf, D. (2016; online first 2015). "Preserved Emotional Awareness of Pain in a Patient with Extensive Bilateral Damage to the Insula, Anterior Cingulate, and Amygdala." *Brain Structure and Function*, 221(3), 1499–1511. https://doi.org/10.1007/s00429-014-0986-3
@@ -145,6 +148,7 @@ Together, these dissociations show that pain's dimensions can be modulated separ
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 1. Griffith, T. & Kind, A. (2024). "Pain Asymbolia is Not Pain." *Philosophy of Science*, 91(3), 561–578. https://doi.org/10.1017/psa.2023.167
 1. Klein, C. (2015). "What Pain Asymbolia Really Shows." *Mind*, 124(494), 493–516. https://doi.org/10.1093/mind/fzu185
+1. Melzack, R., & Wall, P. D. (1965). "Pain Mechanisms: A New Theory." *Science*, 150(3699), 971–979. https://doi.org/10.1126/science.150.3699.971
 1. Rainville, P., Duncan, G. H., Price, D. D., Carrier, B., & Bushnell, M. C. (1997). "Pain Affect Encoded in Human Anterior Cingulate But Not Somatosensory Cortex." *Science*, 277(5328), 968–971. https://doi.org/10.1126/science.277.5328.968
 1. Rainville, P., Carrier, B., Hofbauer, R. K., Bushnell, M. C., & Duncan, G. H. (1999). "Dissociation of Sensory and Affective Dimensions of Pain Using Hypnotic Modulation." *Pain*, 82(2), 159–171.
 1. Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
