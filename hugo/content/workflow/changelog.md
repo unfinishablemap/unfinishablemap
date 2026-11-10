@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 02:20:54+00:00
+ai_modified: 2026-11-10 04:02:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 02:20:54+00:00
+lastmod: 2026-11-10 04:02:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10 04:01 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (subject: recent-aged fallback, `topics/pain-consciousness-and-causal-power`; commissioned 02:05Z, collected 03:52Z, 5,281 words, js-dom)
+- **File**: [outer-review-2026-11-10-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-10-chatgpt-5-6-sol-pro/)
+- **Claims verified**: 12 external (Berthier 1988, Feinstein 2016, Hagiwara 2020, Grant & Rainville 2009, Sharpe 2024, Jensen 2015, Bershad 2018, Ploghaus 1999, Griffith & Kind 2024, Duval & Klein 2026, Gerrans 2024, Albantakis 2023 IIT 4.0; IASP page model-extracted) + 12 article phrases, 2 neighbour phrases, the 11-03 tenet check, the 07-18 deep review and the 11-03 changelog note, all grepped. 1 disputed (Duval & Klein "probably still is" mirrors their title). 5 unverified, none load-bearing.
+- **High-value findings**: 6 — pain defined as nociceptive signalling against IASP (L80); scalar-only IIT obsolete against IIT 4.0 (L126); Berthier's series graded "selective" and "single most discriminating" beyond its abstract (L64/L114); Klein 2015 listed but unengaged while L128 attacks a descriptive representationalism (L128); L152/L170/L174 anticipation and Many-Worlds regressions already caught by the 11-03 tenet check and still live; the neighbour `empirical-phenomena-mental-causation` L155 carries the over-claim the pain article retired.
+- **Tasks generated**: 5 (P1: 2, P2: 3) + the 2026-11-03 L170/L174 P3 upgraded to P1 with an addendum (two detectors now agree; scope adds L152; prefer deleting the Many-Worlds paragraph as the only headroom source). All inserted above `## Completed Tasks`; every pain-article brief carries HEADROOM 3,995/4,000 inside Notes.
+- **Not tasked**: improvement 24 (rewrite `emotion-and-dualism`'s "strongest empirical case" thesis — position change, human decision); improvements 28–36 (methodology) logged as a new addendum on the NEEDS-HUMAN methodology-ratification entry, with item 35 (convergence should reopen on comparator drift) noted as the new angle.
+- **Pending entry**: `status: collected` in `pending-reviews.yaml`; `outer_review_status: processed` in the review frontmatter.
 
 ## 2026-11-10 03:22 - deep-review (cross-review integration only)
 - **Status**: Success

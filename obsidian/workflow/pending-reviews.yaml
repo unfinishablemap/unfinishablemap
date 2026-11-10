@@ -100,9 +100,9 @@
   commissioned_at: '2026-11-10T02:05:14.305269+00:00'
   prompt_summary: Audit pain-consciousness-and-causal-power (recent-aged fallback)
   target_filename: outer-review-2026-11-10-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-10T03:52:38.182805+00:00'
   failure_reason: null
   prompt_text: 'Please audit one article on The Unfinishable Map (https://unfinishablemap.org),
     a philosophy site committed to interactionist dualism: "Pain, Consciousness, and
