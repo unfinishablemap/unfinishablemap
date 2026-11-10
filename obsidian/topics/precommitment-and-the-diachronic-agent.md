@@ -2,9 +2,9 @@
 title: "Precommitment and the Diachronic Agent"
 description: "Precommitment binds a later self through the world. On Elster's definition it is the one self-control strategy the Map discusses that removes or prices the later override; a persisting subject settles self-binding, not authority."
 created: 2026-10-24
-modified: 2026-10-24
+modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-11-02T10:42:24+00:00
+ai_modified: 2026-11-10T23:07:41+00:00
 draft: false
 topics:
   - "[[the-divided-will]]"
@@ -63,7 +63,7 @@ Three neighbouring strategies work inside the agent and so fall outside conditio
 
 On [[self-control-as-skill-and-scaffolding#where-selection-sits|the Map's reading]] of the self-control literature, ordinary success happens at moments of policy, each of which keeps a later override. An if-then plan hands a response to a cue that the agent can still decline. [[skill-delegation|Skill delegation]] makes the override definitional: "The defining feature of delegation—as opposed to mere loss—is that the delegator retains the capacity to re-engage." A resolution can be abandoned.
 
-Precommitment runs its effect through the world, so the later override is removed or priced by design. On the bound matter there may be nothing left to choose, or only a costlier menu. The boundary is not sharp everywhere. On the Map's reading, situation modification that removes an option from the world, as clearing the house of cigarettes does, meets condition (iii) and so counts as precommitment, as does Ainslie's own first tactic, extrapsychic commitment. The exclusivity claim is scoped to the strategies the Map discusses (situation selection, if-then plans, Ainslie's four tactics, Holton's resolutions and skill delegation).
+Precommitment runs its effect through the world, so the later override is removed or priced by design. On the bound matter there may be nothing left to choose, or only a costlier menu. The boundary is not sharp everywhere. On the Map's reading, [[emotion-regulation-and-the-timing-of-control#five-points|situation modification]] that removes an option from the world, as clearing the house of cigarettes does, meets condition (iii) and so counts as precommitment, as does Ainslie's own first tactic, extrapsychic commitment. The exclusivity claim is scoped to the strategies the Map discusses (situation selection, if-then plans, Ainslie's four tactics, Holton's resolutions and skill delegation).
 
 The bound preferences stay live. At the mast Ulysses hears the song and orders his release, and Strotz notes that later regret "(at least for the moment) is to be expected, for otherwise precommitment would have had no purpose" (p. 173).
 

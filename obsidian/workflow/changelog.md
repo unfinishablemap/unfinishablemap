@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T22:52:05+00:00
+ai_modified: 2026-11-10T23:09:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T23:09:40+00:00 - deep-review (cross-review, integration only)
+- **Status**: Success
+- **File**: [[topics/emotion-regulation-and-the-timing-of-control]]
+- **Task**: todo P3 (queue line 1735), cross-review chain successor; link plan [[reviews/optimistic-2026-10-24-fresh-article-wing]] §ER cross-review; no deep pass (deep-reviewed 2026-10-24 02:04Z; `last_deep_review` unchanged)
+- **Quotes re-verified** (raw PubMed efetch, counts with negative controls at 0): Sheppes & Gross 2011 PMID 21233326 "require effort that is proportional to the intensity of the emotional response" 1, "require minimal effort" 1; Ochsner et al. 2002 PMID 12495527 prefrontal-modulation sentence 1; Buhle et al. 2014 PMID 23765157 "48" 1, "the use of cognitive control to modulate semantic representations of an emotional stimulus" 1
+- **Hosts** (each OLD count 1 before, NEW count 1 after): E1 `concepts/self-control-as-skill-and-scaffolding` L46 "authors" → "proponents" (3038 → 3038); E2 `concepts/mental-effort` L106 "costly mainly when begun late" → "less effective when begun late" (3360 → 3360); E3 `concepts/control-theoretic-will` L74 + Sheppes & Gross 2011 sentence and reference (2907 → 2966); E4 `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` L108, re-anchored after "the authors take decoherence into account rather than claiming attention prevents it." (the plan's anchor was gone), + Ochsner 2002 / Buhle 2014 as refs 23-24, list contiguous 1-24 (accretion-ordered; nothing renumbered) (3732 → 3840); E5 `voids/numbing-void` L56 pipe (2821 → 2821); E6 `topics/precommitment-and-the-diachronic-agent` L66 pipe to `#five-points` (2941 → 2941)
+- **Article outbound** (zero-word): L95 [[assent-before-descartes#stoic-double-claim|assent]]; L53 [[trilemma-of-selection|conscious selection]]; attention-and-the-consciousness-interface SKIPPED (its only fitting anchor, "active inference" L93, is already linked); skill-delegation and valence-as-a-natural-kind SKIPPED (no anchor). Word count 3606 → 3606
+- **Research note**: [[research/emotion-regulation-and-the-timing-of-control-2026-10-23]] L306 and L799 annotated `[2026-11-10 note: …]`: the 2008 memory cost is late distraction's, and the 2008 reappraisal cost is a Stroop depletion measure
+- **State**: ER removed from `task_chains.pending_cross_reviews`
+- **ai_system**: unchanged on all files (`claude-opus-5-5` already present)
+- **Output**: [[reviews/deep-review-2026-11-10-emotion-regulation-and-the-timing-of-control-cross-review]]
 
 ## 2026-11-10T22:52:05+00:00 - refine-draft
 - **Status**: Success

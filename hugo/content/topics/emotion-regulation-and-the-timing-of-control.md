@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-11-08 19:04:58+00:00
+ai_modified: 2026-11-10 23:07:41+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[epiphenomenalism]]'
 created: 2026-10-23
-date: &id001 2026-10-31
+date: &id001 2026-11-10
 description: Gross's process model types emotion regulation by when it acts. Sheppes
   and Gross narrowed 'earlier is easier', regulation can run without a conscious goal
   or supervision, and where the Map would place a selector is fit, not evidence.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 02:04:03+00:00
-lastmod: 2026-11-08 19:04:58+00:00
+lastmod: 2026-11-10 23:07:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ Gross (1998a) proposes that emotion "may be regulated at five points in the emot
 
 The coarser cut, proposed in Gross (1998b), is defined by timing. Antecedent-focused strategies act "before the emotion response tendencies have become fully activated", response-focused ones "once an emotion is already underway" (Gross & John 2003). "Suppression" here means *expressive* suppression, hiding a feeling's outward signs. In Gross's (1998b) disgust-film experiment, reappraisal and suppression both reduced expressive behaviour, but "reappraisal decreased disgust experience, whereas suppression increased sympathetic activation". Gross and John's trait studies, by their own statement, do not test the model's temporal ordering, so timing claims must rest on experiments.
 
-The extended process model gives the regulatory act its own time course, treating regulation as "one type of valuation" with "three emotion regulation stages (identification, selection, implementation)" (Gross 2015); a later statement adds a fourth, in which "monitoring occurs to track success" (McRae & Gross 2020). Two clocks must then be kept apart: *when in the emotion* a strategy acts, and *which stage of the regulatory decision* is in play. "Selection" on the second clock means choosing a strategy. It is distinct from *situation* selection, and from the conscious selection the Map discusses elsewhere.
+The extended process model gives the regulatory act its own time course, treating regulation as "one type of valuation" with "three emotion regulation stages (identification, selection, implementation)" (Gross 2015); a later statement adds a fourth, in which "monitoring occurs to track success" (McRae & Gross 2020). Two clocks must then be kept apart: *when in the emotion* a strategy acts, and *which stage of the regulatory decision* is in play. "Selection" on the second clock means choosing a strategy. It is distinct from *situation* selection, and from the [conscious selection](/topics/trilemma-of-selection/) the Map discusses elsewhere.
 
 ## What the Timing Studies Measure {#timing}
 
@@ -96,7 +96,7 @@ The literature itself puts explicit control at three points: the goal, at the co
 
 The placement is fit, not evidence. Regulation is modelled as valuation (Gross 2015), each stage has an implicit form, and two physical architectures, valuation (Etkin et al. 2015) and [active inference](/concepts/consciousness-selecting-neural-patterns/#the-active-inference-rival), predict the same timing record, including late reappraisal's weaker effect. So does a physicalist account on which conscious access is physically realised and causally active; even a demonstrated conscious contribution would not by itself favour the Map's reading. Nor can the record disconfirm the placement, since a contribution found absent at one stage can be relocated earlier; the disagreement is one of framework. As the self-control article says, "The fit discriminates nothing."
 
-Seneca offers a precedent. *De Ira* 2.4.1 divides anger's onset into three *motus* ("movements"; Aubrey Stewart's 1900 translation has "emotion"): the first "is involuntary" (*non uoluntarius*), the second "is combined with a wish, though not an obstinate one", the third "is already beyond our control, because it overrides reason". The voluntary moment falls between an involuntary onset and a point of no return. Seneca was a Stoic corporealist writing about assent, his movements do not map onto Gross's stages, and the parallel is no evidence.
+Seneca offers a precedent. *De Ira* 2.4.1 divides anger's onset into three *motus* ("movements"; Aubrey Stewart's 1900 translation has "emotion"): the first "is involuntary" (*non uoluntarius*), the second "is combined with a wish, though not an obstinate one", the third "is already beyond our control, because it overrides reason". The voluntary moment falls between an involuntary onset and a point of no return. Seneca was a Stoic corporealist writing about [assent](/topics/assent-before-descartes/#stoic-double-claim), his movements do not map onto Gross's stages, and the parallel is no evidence.
 
 ### The Stapp Example {#stapp-example}
 

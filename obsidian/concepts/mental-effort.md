@@ -2,9 +2,9 @@
 title: "Mental Effort"
 description: "Why controlling attention feels like work—and what this widely-shared phenomenology reveals about consciousness influencing matter."
 created: 2026-01-14
-modified: 2026-10-23
+modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-10-26T21:21:43+00:00
+ai_modified: 2026-11-10T23:07:41+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -103,7 +103,7 @@ The Inzlicht and Kurzban process models provide the serious non-epiphenomenalist
 
 [[neuroplasticity|Neuroplasticity research]] across psychotherapy, contemplative practice, and clinical case studies fits an interactionist reading of effort but fits a materialist one equally well.
 
-CBT produces measurable neural changes following purely psychological treatment. An activation-likelihood-estimation meta-analysis found consistent fronto-limbic activation changes after CBT across psychiatric disorders (Yuan et al., 2022). The broader treatment-mechanism literature characterises this as a dual-process asymmetry — psychological therapies acting primarily top-down on prefrontal regulatory circuits, antidepressants more directly bottom-up on limbic targets — though this divergence remains a working hypothesis rather than a settled finding. [[emotion-regulation-and-the-timing-of-control|Cognitive reappraisal]], costly mainly when begun late, engages prefrontal regulatory circuits that modulate subcortical processing — see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] for the full pathway-divergence argument.
+CBT produces measurable neural changes following purely psychological treatment. An activation-likelihood-estimation meta-analysis found consistent fronto-limbic activation changes after CBT across psychiatric disorders (Yuan et al., 2022). The broader treatment-mechanism literature characterises this as a dual-process asymmetry — psychological therapies acting primarily top-down on prefrontal regulatory circuits, antidepressants more directly bottom-up on limbic targets — though this divergence remains a working hypothesis rather than a settled finding. [[emotion-regulation-and-the-timing-of-control|Cognitive reappraisal]], less effective when begun late, engages prefrontal regulatory circuits that modulate subcortical processing — see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] for the full pathway-divergence argument.
 
 Contemplative neuroscience extends the pattern: long-term meditators show functional brain differences (altered activation, gamma synchrony) tracking practice. Earlier structural claims (cortical thickness) have been weakened by Kral et al. (2022) — a well-powered replication (N=218) with active controls found no structural changes from MBSR. Lutz et al. (2008) document how expertise reshapes the phenomenology: novices require active redirection, while experts maintain stability with diminished effort and finer-grained awareness of effortful/effortless transitions.
 

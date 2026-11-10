@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-24 15:38:51+00:00
+ai_modified: 2026-11-10 23:07:41+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -11,13 +11,13 @@ concepts:
 - '[[the-ownerless-suffering-argument]]'
 - '[[combination-problem]]'
 created: 2026-10-03
-date: &id001 2026-10-03
+date: &id001 2026-11-10
 description: 'Human+AI exploration of psychic numbing toward the number of sufferers:
   felt concern does not scale with how many suffer, and no subject undergoes the sum.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-24 15:38:51+00:00
+lastmod: 2026-11-10 23:07:41+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -56,7 +56,7 @@ The limit may also resist knowledge. As Maier et al. report the original, Small 
 
 ## The Regulation Face
 
-Part of the plateau is made by the subject. Cameron and Payne (2011) found the drop in compassion for groups only when participants "expected to be asked to donate money to the victims", only among people skilled at emotion regulation, and only under instructions to down-regulate; instructions to experience the emotion removed it. Their time-course data suggested that people regulate "proactively, by preventing themselves from ever experiencing as much emotion toward groups as toward individuals".
+Part of the plateau is made by the subject. Cameron and Payne (2011) found the drop in compassion for groups only when participants "expected to be asked to donate money to the victims", only among people skilled at [emotion regulation](/topics/emotion-regulation-and-the-timing-of-control/), and only under instructions to down-regulate; instructions to experience the emotion removed it. Their time-course data suggested that people regulate "proactively, by preventing themselves from ever experiencing as much emotion toward groups as toward individuals".
 
 That is why this face is occluded. A feeling suppressed after arising could be caught in the suppressing; a feeling prevented from arising leaves only a smaller response, which presents itself as the natural size of one's concern. The mind's stake in not feeling the full weight shapes what is available to feel, the pattern [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) and the [interested-party-void](/voids/interested-party-void/) trace elsewhere. Whether the effect extends beyond paradigms ending in a request for money is open.
 

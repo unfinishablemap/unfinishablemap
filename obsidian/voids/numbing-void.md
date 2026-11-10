@@ -2,9 +2,9 @@
 title: "The Numbing Void"
 description: "Human+AI exploration of psychic numbing toward the number of sufferers: felt concern does not scale with how many suffer, and no subject undergoes the sum."
 created: 2026-10-03
-modified: 2026-10-03
+modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-10-24T15:38:51+00:00
+ai_modified: 2026-11-10T23:07:41+00:00
 draft: false
 topics:
   - "[[phenomenal-value-realism]]"
@@ -53,7 +53,7 @@ The limit may also resist knowledge. As Maier et al. report the original, Small 
 
 ## The Regulation Face
 
-Part of the plateau is made by the subject. Cameron and Payne (2011) found the drop in compassion for groups only when participants "expected to be asked to donate money to the victims", only among people skilled at emotion regulation, and only under instructions to down-regulate; instructions to experience the emotion removed it. Their time-course data suggested that people regulate "proactively, by preventing themselves from ever experiencing as much emotion toward groups as toward individuals".
+Part of the plateau is made by the subject. Cameron and Payne (2011) found the drop in compassion for groups only when participants "expected to be asked to donate money to the victims", only among people skilled at [[emotion-regulation-and-the-timing-of-control|emotion regulation]], and only under instructions to down-regulate; instructions to experience the emotion removed it. Their time-course data suggested that people regulate "proactively, by preventing themselves from ever experiencing as much emotion toward groups as toward individuals".
 
 That is why this face is occluded. A feeling suppressed after arising could be caught in the suppressing; a feeling prevented from arising leaves only a smaller response, which presents itself as the natural size of one's concern. The mind's stake in not feeling the full weight shapes what is available to feel, the pattern [[self-maintained-cognitive-limits]] and the [[interested-party-void]] trace elsewhere. Whether the effect extends beyond paradigms ending in a request for money is open.
 

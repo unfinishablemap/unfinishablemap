@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-11-09 19:49:59+00:00
+ai_modified: 2026-11-10 23:07:41+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[the-psychophysical-control-law]]'
 created: 2026-02-19
-date: &id001 2026-02-19
+date: &id001 2026-11-10
 description: Will as a low-bandwidth control signal—gating, stabilizing, and steering
   neural dynamics—rather than a computational planner. Connects the Map's selector
   model to formal control theory.
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:45:23+00:00
-lastmod: 2026-11-09 19:49:59+00:00
+lastmod: 2026-11-10 23:07:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ Gating explains why dopamine-deficient systems retain motor capacity but lose in
 
 Consciousness holds selected neural patterns stable against competing alternatives. In control terms, this is **regulation**—maintaining a desired state against disturbances. [Mental effort](/concepts/mental-effort/) phenomenology tracks this operation: sustaining attention on a difficult task *feels* like holding something in place against forces pulling it away.
 
-The specific physical mechanism remains open—the quantum Zeno effect is one candidate (Stapp, 2007)—but whatever the mechanism, it functions as a stabilising feedback loop: observe the desired pattern, detect drift, reapply the selection. The effort required scales with the disturbance magnitude—more distracting environments require more stabilisation effort.
+The specific physical mechanism remains open—the quantum Zeno effect is one candidate (Stapp, 2007)—but whatever the mechanism, it functions as a stabilising feedback loop: observe the desired pattern, detect drift, reapply the selection. The effort required scales with the disturbance magnitude—more distracting environments require more stabilisation effort. For emotion, Sheppes and Gross (2011) hypothesise that strategies targeting later processing stages "require effort that is proportional to the intensity of the emotional response", while early-stage strategies "require minimal effort" ([the timing of emotion regulation](/topics/emotion-regulation-and-the-timing-of-control/#not-uniform)).
 
 ### Veto
 
@@ -181,6 +181,7 @@ Conflating the model with the ontology would be a category error—treating a us
 1. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-539.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+1. Sheppes, G. & Gross, J. J. (2011). Is timing everything? Temporal considerations in emotion regulation. *Personality and Social Psychology Review*, 15(4), 319-331. https://doi.org/10.1177/1088868310395778
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

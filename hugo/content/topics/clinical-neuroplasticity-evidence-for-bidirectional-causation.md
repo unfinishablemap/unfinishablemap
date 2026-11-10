@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-11-05 06:52:48+00:00
+ai_modified: 2026-11-10 23:07:41+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[content-specificity-of-mental-causation]]'
 - '[[consciousness-selecting-neural-patterns]]'
 created: 2026-03-21
-date: &id001 2026-03-21
+date: &id001 2026-11-10
 description: OCD neuroplasticity, psychotherapy neuroimaging and placebo effects fit
   genuine mental causation and remove the epiphenomenalist's defeater, but do not
   decide between dualism and physicalism.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-05 06:52:48+00:00
-lastmod: 2026-11-05 06:52:48+00:00
+lastmod: 2026-11-10 23:07:41+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'
@@ -109,7 +109,7 @@ This down-counting of three superficially independent streams to one preferentia
 
 ## Proposed Mechanisms
 
-The clinical evidence documents that psychological intervention produces lasting changes in neural function—whether this reflects genuine mental causation or standard Hebbian learning remains the open question. The mechanism is equally open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [consciousness-selecting](/concepts/consciousness-selecting-neural-patterns/). As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human agents about how they will act." On this model, closely spaced acts of attention hold a neural template for action in place against the brain's ordinary dynamics; the authors take decoherence into account rather than claiming attention prevents it.
+The clinical evidence documents that psychological intervention produces lasting changes in neural function—whether this reflects genuine mental causation or standard Hebbian learning remains the open question. The mechanism is equally open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [consciousness-selecting](/concepts/consciousness-selecting-neural-patterns/). As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human agents about how they will act." On this model, closely spaced acts of attention hold a neural template for action in place against the brain's ordinary dynamics; the authors take decoherence into account rather than claiming attention prevents it. Their worked example is Ochsner et al.'s (2002) reappraisal experiment, whose own abstract attributes the modulation to prefrontal cortex, and a 48-study meta-analysis describes reappraisal's route in cognitive-control terms (Buhle et al., 2014), so the example adds no stream to the convergence above ([the Stapp example](/topics/emotion-regulation-and-the-timing-of-control/#stapp-example)).
 
 This proposal is speculative and faces challenges regarding decoherence timescales in warm biological tissue. Other possible mechanisms include [non-local quantum effects](/concepts/quantum-consciousness/), classical top-down modulation through emergent causal powers, or interaction models not yet formulated. The Map's commitment is to the reality of mental causation (Tenet 3: [Bidirectional Interaction](/concepts/bidirectional-interaction/)), not to any specific mechanism. The *phenomenon* documented here—that intentional mental activity is associated with lasting neural change—stands regardless of which mechanism turns out to be correct; which metaphysical reading that phenomenon supports remains undetermined, as the convergence argument above makes plain.
 
@@ -166,3 +166,5 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 20. Baxter, L. R. Jr., Schwartz, J. M., Bergman, K. S., Szuba, M. P., Guze, B. H., et al. (1992). Caudate glucose metabolic rate changes with both drug and behavior therapy for obsessive-compulsive disorder. *Archives of General Psychiatry*, 49(9), 681-689. doi:10.1001/archpsyc.1992.01820090009002
 21. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120. doi:10.1016/s0925-4927(03)00069-6
 22. Schrammen, E., Roesmann, K., Rosenbaum, D., Redlich, R., Harenbrock, J., Dannlowski, U., & Leehr, E. J. (2022). Functional neural changes associated with psychotherapy in anxiety disorders – A meta-analysis of longitudinal fMRI studies. *Neuroscience & Biobehavioral Reviews*, 142, 104895. doi:10.1016/j.neubiorev.2022.104895
+23. Ochsner, K. N., Bunge, S. A., Gross, J. J., & Gabrieli, J. D. E. (2002). Rethinking feelings: An fMRI study of the cognitive regulation of emotion. *Journal of Cognitive Neuroscience*, 14(8), 1215-1229. doi:10.1162/089892902760807212
+24. Buhle, J. T., Silvers, J. A., Wager, T. D., et al. (2014). Cognitive reappraisal of emotion: A meta-analysis of human neuroimaging studies. *Cerebral Cortex*, 24(11), 2981-2990. doi:10.1093/cercor/bht154

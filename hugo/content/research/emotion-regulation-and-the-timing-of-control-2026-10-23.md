@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-10-23 20:23:40+00:00
+ai_modified: 2026-11-10 23:07:41+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'Research notes on where in an emotion''s time course regulation ac
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-23 20:23:40+00:00
+lastmod: 2026-11-10 23:07:41+00:00
 modified: *id001
 recommended_action: article
 related_articles:
@@ -307,7 +307,7 @@ So the search reaches the self-control, effort and affective-neuroscience corpus
 
 #### Sheppes, G., & Meiran, N. (2008). "Divergent cognitive costs for online forms of reappraisal and distraction." *Emotion* 8(6): 870–874. DOI 10.1037/a0013711 [V-abs]
 - Late initiation revealed "for the first time a cognitive cost for reappraisal": "late reappraisal, relative to distraction, resulted in an expenditure of self control resources".
-- **Flag:** "self control resources" is the ego-depletion construct ([Evidence not to lean on](#not-to-lean-on)). Its memory-encoding result ("Late distraction but not reappraisal impaired memory encoding") is the safer half.
+- **Flag:** "self control resources" is the ego-depletion construct ([Evidence not to lean on](#not-to-lean-on)). Its memory-encoding result ("Late distraction but not reappraisal impaired memory encoding") is the safer half. [2026-11-10 note: the memory-encoding impairment is a cost of late *distraction*, not of reappraisal, so it cannot stand in for a late-reappraisal cost. The 2008 reappraisal cost is the "self control resources" measure, a subsequent-Stroop ego-depletion paradigm (per `reviews/deep-review-2026-10-24-emotion-regulation-and-the-timing-of-control.md`). For late reappraisal, rest on the 2007 efficacy result ("less effective when initiated late").]
 
 #### Levy-Gigi, E., & Shamay-Tsoory, S. (2022). "Affect labeling: The role of timing and intensity." *PLOS ONE* 17(12): e0279303. DOI 10.1371/journal.pone.0279303 [V-abs, OpenAlex]
 - Experiment 1 (n = 63): "We found that affect labeling efficiently down-regulated distress independent of the labeling timing" (simultaneous, immediately after, or 10 s after).
@@ -800,7 +800,7 @@ When writing, follow `obsidian/project/writing-style.md` for the named-anchor fo
 - **Ego depletion.**
   - Do not explain suppression's costs, or late reappraisal's costs, as resource depletion.
   - Baumeister et al. 1998 used emotion suppression as a depleting task. The multi-lab replication found d = 0.04 [−0.07, 0.15] (Hagger et al. 2016), though with a different task.
-  - Sheppes & Meiran's (2008) "self control resources" is the depletion construct. Use its memory result instead.
+  - Sheppes & Meiran's (2008) "self control resources" is the depletion construct. Use its memory result instead. [2026-11-10 note: that memory result is a cost of late *distraction* ("Late distraction but not reappraisal impaired memory encoding"), so it is no substitute for a reappraisal cost; the 2008 reappraisal cost itself is a subsequent-Stroop ego-depletion measure. For late reappraisal, use Sheppes & Meiran 2007's efficacy result instead.]
   - If depletion comes up at all, flag it in one clause and link [mental-effort](/concepts/mental-effort/)'s depletion discussion.
 - **Goal priming as evidence for or against conscious contribution.** Williams et al. 2009 (Experiment 1, n = 39 across three cells, scrambled-sentence prime) and Mauss, Cook & Gross 2007 belong to a priming literature with replication problems, and Braunstein et al. (2017) note that no imaging study had examined primed regulation. At most one hedged sentence.
 - **Goldin et al. 2008 alone.** n = 17, women only, disgust only, experience rated after each clip. Pair it with Thiruchselvam and Paul, and with Buhle and Morawetz for the neural claims (citation-aging rule).
