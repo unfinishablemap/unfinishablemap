@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-10-21 17:48:22+00:00
+ai_modified: 2026-11-10 20:50:51+00:00
 ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[methodological-pluralism]]'
 created: 2026-08-16
-date: &id001 2026-08-16
+date: &id001 2026-11-10
 description: 'Human-AI collaboration refines the Map''s reference account of Hurlburt''s
   beeper method: what it establishes, what it cannot, and how fidelity grades first-person
   evidence.'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 17:58:00+00:00
-lastmod: 2026-10-21 17:48:22+00:00
+lastmod: 2026-11-10 20:50:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ Hurlburt and Heavey (2015) make the methodological case: non-DES sampling method
 
 The empirical case came later. Hurlburt and colleagues (2022) ran three head-to-head comparisons of questionnaire-based experiential frequencies against DES frequencies and found them, in their words, irreconcilably discrepant: questionnaire-based methods produced frequencies from two to four times as high as DES did. The direction matters. Asked to generalise, people report far *more* inner speech and imagery than moment-sampling finds.
 
-What the discrepancy indicts is contested. Hurlburt reads it as generalisation error corrected by sampling. A sceptic can read it as showing that two channels disagree without establishing which is closer to the truth. The Map cites the discrepancy for the weaker claim both readings support: self-characterisation and moment-report are not interchangeable evidence, and an argument that needs one cannot be fed the other.
+What the discrepancy indicts is contested. Hurlburt reads it as generalisation error corrected by sampling. A sceptic can read it as showing that two channels disagree without establishing which is closer to the truth. The Map cites the discrepancy for the weaker claim both readings support: self-characterisation and moment-report are not interchangeable evidence, and an argument that needs one cannot be fed the other. Contemplative science meets the same split in [trait and state mindfulness scales](/topics/measuring-the-witness-attitude/#trait-state).
 
 ## What Sampling Can and Cannot Establish {#limits}
 

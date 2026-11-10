@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-11-10 20:21:01+00:00
+ai_modified: 2026-11-10 20:50:51+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-05-26 00:00:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 15:04:27+00:00
-lastmod: 2026-11-10 20:21:01+00:00
+lastmod: 2026-11-10 20:50:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ This failure is instructive. It shows that witness mode doesn't come automatical
 
 If you can access witness mode at all, something interesting emerges. The witnessing awareness is not itself a thought. It's not content being observed. It's the observing itself. As [introspection](/concepts/introspection/) research notes, the observer cannot become an object of observation without generating a new observer. Try to observe your observing—you become aware of awareness. But now there are two layers: awareness observed and awareness observing. The regression has no endpoint.
 
-Research on *decentering*—the metacognitive capacity witnessing cultivates—tracks the phenomenology from outside, without confirming its structure. Experienced practitioners show a neurally measurable "dorsal shift" from the Default Mode Network to attentional regions: the brain correlate of stepping back from identification with mental contents.
+Research on *[decentering](/topics/measuring-the-witness-attitude/)*—the metacognitive capacity witnessing cultivates—tracks the phenomenology from outside, without confirming its structure. Experienced practitioners show a neurally measurable "dorsal shift" from the Default Mode Network to attentional regions: the brain correlate of stepping back from identification with mental contents.
 
 This structural feature—the witness's irreducibility to what it witnesses—provides phenomenological support for the Map's dualism. The witnessing subject always remains on the observing side. It cannot be turned into an object for observation without ceasing to be the subject.
 

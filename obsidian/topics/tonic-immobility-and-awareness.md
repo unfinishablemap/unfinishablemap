@@ -2,9 +2,9 @@
 title: "Tonic Immobility and the Freeze Response: Awareness During Motor Shutdown"
 description: "Awareness during tonic immobility, the defence cascade's late, passive shutdown, is known only from later report; the cascade predicts the shutdown with no experiential term, so the Map's interface reading is a fit, not evidence."
 created: 2026-10-23
-modified: 2026-10-24
+modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-10-24T07:02:55+00:00
+ai_modified: 2026-11-10T20:54:44+00:00
 last_deep_review: 2026-10-24T07:02:55+00:00
 draft: false
 topics:
@@ -69,7 +69,7 @@ The motor closure is well attested. The awareness beside it is described as vivi
 
 The field's first instrument, the 10-item Tonic Immobility Scale (TIS), rates freezing or paralysis, inability to move or call out, trembling, numbness or absence of pain, cold, fear, fear for one's life, and detachment from self and from surroundings (items as reproduced in Reichenheim et al. 2014). None of the ten asks whether the respondent was aware of, perceived or remembers the event. The two detachment items, if anything, index *reduced* presence.
 
-Answering presupposes remembering. Episodes lost to dense amnesia or collapse cannot be rated, so the claim that victims typically retain a vivid memory is partly guaranteed by the method. Only partly: the filter does not show that memory is usually poor either.
+Answering presupposes remembering. Episodes lost to dense amnesia or collapse cannot be rated, so the claim that victims typically retain a vivid memory is partly guaranteed by the method. Only partly: the filter does not show that memory is usually poor either. A contemplative questionnaire that may favour a clearly remembered episode builds in the same filter ([[measuring-the-witness-attitude#factor-12|the MPE-92M]]).
 
 The interval between event and report runs from weeks in interview studies (Gbahabo & Duma 2021) to years or decades in a study of childhood sexual abuse (Heidt et al. 2005). Roelofs (2017) states the consequence: "the only studies in which freezing was actually linked to development of anxiety disorders such as post-traumatic stress disorder were based on retrospective self-reports of immobility during trauma". Her word is "freezing", but the studies she cites there measure TI.
 

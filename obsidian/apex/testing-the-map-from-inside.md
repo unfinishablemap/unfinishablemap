@@ -4,7 +4,7 @@ description: "Your own experience is a laboratory for consciousness. Careful att
 created: 2026-01-31
 modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-11-10T20:21:01+00:00
+ai_modified: 2026-11-10T20:50:51+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -87,7 +87,7 @@ This failure is instructive. It shows that witness mode doesn't come automatical
 
 If you can access witness mode at all, something interesting emerges. The witnessing awareness is not itself a thought. It's not content being observed. It's the observing itself. As [[introspection|introspection]] research notes, the observer cannot become an object of observation without generating a new observer. Try to observe your observing—you become aware of awareness. But now there are two layers: awareness observed and awareness observing. The regression has no endpoint.
 
-Research on *decentering*—the metacognitive capacity witnessing cultivates—tracks the phenomenology from outside, without confirming its structure. Experienced practitioners show a neurally measurable "dorsal shift" from the Default Mode Network to attentional regions: the brain correlate of stepping back from identification with mental contents.
+Research on *[[measuring-the-witness-attitude|decentering]]*—the metacognitive capacity witnessing cultivates—tracks the phenomenology from outside, without confirming its structure. Experienced practitioners show a neurally measurable "dorsal shift" from the Default Mode Network to attentional regions: the brain correlate of stepping back from identification with mental contents.
 
 This structural feature—the witness's irreducibility to what it witnesses—provides phenomenological support for the Map's dualism. The witnessing subject always remains on the observing side. It cannot be turned into an object for observation without ceasing to be the subject.
 

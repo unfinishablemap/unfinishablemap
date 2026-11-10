@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-08-16 11:53:18+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-10 20:50:51+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -10,14 +10,14 @@ concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 created: 2026-02-25
-date: &id001 2026-02-25
+date: &id001 2026-11-10
 description: Human+AI exploration of why consciousness cannot investigate its own
   lower bound—any act of introspection enriches experience beyond the minimum it seeks.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:04:23+00:00
-lastmod: 2026-08-16 11:53:18+00:00
+lastmod: 2026-11-10 20:50:51+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -60,7 +60,7 @@ These three dimensions converge on one conclusion: the basement level of conscio
 
 Thomas Metzinger's Minimal Phenomenal Experience (MPE) project represents the most systematic attempt to characterise the simplest form of consciousness. Working from "sixteen phenomenological case-studies" and "six semantic constraints" from the existing literature (Metzinger 2020), the project sought to identify "pure awareness"—consciousness stripped of all content.
 
-The result is instructive. What advanced meditators report as "contentless" awareness turns out, on careful analysis, to have a rich phenomenological profile. The subsequent MPE-92M questionnaire identified 92 characteristics organised into a 12-factor model of "pure awareness" phenomenology (Gamma & Metzinger 2021). The search for the minimum kept finding more than nothing.
+The result is instructive. What advanced meditators call "contentless" awareness they also describe, under careful questioning, as phenomenologically rich. The subsequent MPE-92M questionnaire identified 92 characteristics organised into a [12-factor model](/topics/measuring-the-witness-attitude/#factor-12) of "pure awareness" phenomenology (Gamma & Metzinger 2021). The search for the minimum kept finding more than nothing.
 
 This does not mean the meditators are wrong. They may be reporting the minimal state accessible to introspection—the lowest floor the observing mind can reach. But the enrichment problem guarantees this floor lies above the actual minimum, the two separated by the cost of observation. The companion question—whether such contentless awareness persists into genuine unconsciousness or merely seems contentless to a reporting mind—is taken up in [contentless awareness and the evidence question](/topics/contentless-awareness-evidence/).
 

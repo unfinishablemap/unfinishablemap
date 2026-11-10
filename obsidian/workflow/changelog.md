@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T20:42:24+00:00
+ai_modified: 2026-11-10T20:52:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-10T20:52:15+00:00 - cross-review
+- **Status**: Success
+- **File**: [[topics/measuring-the-witness-attitude]] (not edited; integration only, `last_deep_review` not bumped)
+- **Task**: todo P3 (queue line 1735); link plan [[reviews/optimistic-2026-10-24-fresh-article-wing]] §"Witness cross-review (L3038)"
+- **Links added** (every OLD at count 1 before → NEW at count 1 after): W1 [[concepts/descriptive-experience-sampling]] L78 "Contemplative science meets the same split in … trait and state mindfulness scales" → `#trait-state` (2,955 → 2,967); W3 [[apex/testing-the-map-from-inside]] L90 0-word italic pipe on *decentering*; today's "tracks the phenomenology from outside, without confirming its structure." left intact; L92 untouched (4,416 → 4,416); W4 [[voids/minimal-consciousness-void]] L60 "report as … turns out, on careful analysis, to have a rich phenomenological profile" → "call … they also describe, under careful questioning, as phenomenologically rich" + 0-word pipe "12-factor model" → `#factor-12` (3,057 → 3,054, net-negative; still over voids hard 3,000); W5 [[topics/tonic-immobility-and-awareness]] L72 MPE-92M memory-filter sentence → `#factor-12` (2,787 → 2,805). W5 was applied because `#factor-12` quotes the episode-choice instruction "…and/or one which you can remember particularly clearly".
+- **Declines honoured**: W2 witnessing-void (done; separate P3); brain-stimulation L100 Blanke & Brose note; contemplative-practice-as-philosophical-evidence (no 0-word anchor)
+- **Residual**: `topics/methodology-of-consciousness-research` was in pending_cross_reviews but is absent from the plan (0 links; not added)
+- **ai_system**: MCV appended `+claude-opus-5-5`; DES, apex and TI unchanged (already present)
+- **State**: `measuring-the-witness-attitude` removed from `task_chains.pending_cross_reviews` (text edit)
+- **Output**: [[reviews/deep-review-2026-11-10-measuring-the-witness-attitude-cross-review]]
 
 ## 2026-11-10T20:42:24+00:00 - deep-review
 - **Status**: Success
