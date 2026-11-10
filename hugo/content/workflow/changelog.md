@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10 10:42:24+00:00
+ai_modified: 2026-11-10 11:54:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-10'
-lastmod: 2026-11-10 10:42:24+00:00
+lastmod: 2026-11-10 11:54:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-10T11:54:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- **Task**: todo L3698 (P1; check-tenets 2026-11-03 Priority List item 4, upgraded from P3 by the 2026-11-10 ChatGPT 5.6 Sol Pro leg (§6, §9, improvements 16/17/22) and Claude Fable 5.2 leg (§2.5, §3 Claim D, §4 items 11–12)). Scope: L152, L154, L170, L174 only. Sibling-owned lines (L64, L76, L80, L92, L98, L114, L116, L122, L126, L128, L160, L168, L172, description) untouched; `git diff -U0` shows hunks at L7, L152, L154, L170, L174 and one added References line only.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - L174 (No Many Worlds): the 80-word paragraph claiming many-worlds realises "every supervenience mapping ... somewhere", and leaning on "the simplest" explanation, is replaced by one sentence under the same tenet label: "The tenet adds coherence here, not force: Everettian branches share one dynamics and one [supervenience](/concepts/supervenience/) mapping, so the single-history reading inherits the shared harmony debt rather than discharging it" (linked to `inheritance-problem-for-the-psychophysical-law#harmony`, anchor verified at its L64). Token Δ −48. No Everett citation added. Tenet 4 remains a commitment.
+  - L170 (Bidirectional Interaction): "through phenomenal content alone" removed; it now reads "imagined future pain alters present behaviour with no current injury-evoked nociceptive input, which neural simulation explains as readily. Suffering's reach is wider still —". This is the task NEW plus "injury-evoked", to match L152 and ChatGPT §6. First sentence, ending "rather than evidence for it", kept. Δ +4.
+  - L152 (anticipation): "before any nociceptive signal exists" changed to "in the absence of current injury-evoked nociceptive input" (ChatGPT improvement 16). "No tissue damage has occurred." (now redundant) and "No C-fibres are firing. What drives the avoidance is a phenomenal state — the imagined awfulness of future pain." are replaced by "The imagined awfulness is a candidate driver, not a demonstrated one, since masked cues can trigger conditioned nocebo responses (Jensen et al., 2012)." Dread stays fit, not evidence. Δ +2.
+  - L154 (placebo): the uncited "measurable opioid release and genuine analgesia" changed to "measurable analgesia with an opioid-dependent component". Δ 0. Eippert 2009 not added.
+  - References: added Jensen, K. B., Kaptchuk, T. J., Kirsch, I., et al. (2012), *PNAS* 109(39), 15959–15964. Δ +29. Verified: Crossref DOI 10.1073/pnas.1202056109 (nine authors, vol/issue/pages match); doi.org resolves to pnas.org; PubMed 23019380 abstract: "conditioned placebo and nocebo responses could be triggered in response to nonconscious (masked) exposures to the same cues". That is ACTIVATION after visible-cue conditioning, so the prose says "trigger", not "acquire" (acquisition from subliminal cues is the 2015 paper, not cited).
+- **Engagement classification** (editor-internal): Everettian rival at L174: Mode Three (framework boundary; the tenet adds coherence, not argumentative force). Access-level/epiphenomenalist reading of dread at L152/L170: Mode Three (shared explanandum, no refutation claimed).
+- **Word count** (`analyze_length`, body incl. references): 3,995 → **3,982** (topics hard gate 4,000, `>=`; 17 usable for the four sibling tasks, todo L5140, L5150, L5161, L5193). Citing nothing would have given 3,949; the citation was kept so the masked-cue claim is not left uncited.
+- **Attribution**: `ai_system` already carried claude-opus-5-5 (not appended); `ai_modified` set from `date -u`.
+- **Published**: yes
 
 ## 2026-11-10 10:42 - literature-drift-review
 - **Status**: Success. This was a re-run: the 05:06Z attempt died at an API 429 before writing anything.

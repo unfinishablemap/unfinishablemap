@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal, and the sharpest pressure 
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-11-03T01:02:37+00:00
+ai_modified: 2026-11-10T11:53:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,9 +149,9 @@ If the causal work is done entirely by neural patterns and phenomenal quality is
 
 ### Pain Anticipation and the Placebo Effect
 
-The *anticipation* of pain — conscious dread of a future painful event — motivates behaviour before any nociceptive signal exists. A patient dreading a dental procedure changes behaviour for days: cancelling appointments, losing sleep, altering plans. No tissue damage has occurred. No C-fibres are firing. What drives the avoidance is a phenomenal state — the imagined awfulness of future pain.
+The *anticipation* of pain — conscious dread of a future painful event — motivates behaviour in the absence of current injury-evoked nociceptive input. A patient dreading a dental procedure changes behaviour for days: cancelling appointments, losing sleep, altering plans. The imagined awfulness is a candidate driver, not a demonstrated one, since masked cues can trigger conditioned nocebo responses (Jensen et al., 2012).
 
-The [[empirical-phenomena-mental-causation|placebo effect]] appears to make the complementary point. Expecting pain relief — a conscious belief about future phenomenal states — can produce measurable opioid release and genuine analgesia. The *expectation of how things will feel* causally influences physiology. This closed loop between phenomenal expectation and phenomenal outcome is what interactionist dualism predicts, though an access-level reading, on which the expectation's functional role does the work, predicts it equally; the loop is compatible with rather than compels the interactionist reading.
+The [[empirical-phenomena-mental-causation|placebo effect]] appears to make the complementary point. Expecting pain relief — a conscious belief about future phenomenal states — can produce measurable analgesia with an opioid-dependent component. The *expectation of how things will feel* causally influences physiology. This closed loop between phenomenal expectation and phenomenal outcome is what interactionist dualism predicts, though an access-level reading, on which the expectation's functional role does the work, predicts it equally; the loop is compatible with rather than compels the interactionist reading.
 
 ## Why Pain Is the Hardest Case for Epiphenomenalism
 
@@ -167,11 +167,11 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 
 **[[tenets#^dualism|Dualism]].** Pain provides the most intuitive support for irreducibility. The felt awfulness of suffering is the paradigm example of something that physical description leaves out. Asymbolia instantiates, in clinical reality, the gap that thought experiments illustrate in principle: intact sensory processing with absent phenomenal suffering. Every physicalist theory can redescribe what is missing in its preferred vocabulary; none can explain why the informational deficit produces a phenomenal one. The pain-suffering distinction compounds this — suffering suggests that consciousness generates aversive phenomenal states without sensory input, widening the explanatory gap further.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Pain is the Map's clearest case of consciousness influencing the physical world. When the felt awfulness is present, it drives protective behaviour; when absent (asymbolia), behaviour changes despite intact nociceptive detection, a pattern compatible with phenomenal causation rather than evidence for it. The anticipatory dimension broadens this: imagined future pain alters present behaviour through phenomenal content alone, with no current nociceptive input. Suffering's causal efficacy extends further — grief restructures behaviour for months, existential dread motivates entire life projects, moral suffering drives confession, reparation, and self-transformation.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Pain is the Map's clearest case of consciousness influencing the physical world. When the felt awfulness is present, it drives protective behaviour; when absent (asymbolia), behaviour changes despite intact nociceptive detection, a pattern compatible with phenomenal causation rather than evidence for it. The anticipatory dimension broadens the pattern: imagined future pain alters present behaviour with no current injury-evoked nociceptive input, which neural simulation explains as readily. Suffering's reach is wider still — grief restructures behaviour for months, existential dread motivates entire life projects, moral suffering drives confession, reparation, and self-transformation.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** If consciousness biases physical outcomes through the smallest possible influence on quantum indeterminacies, pain's motivational urgency and suffering's sustained behavioural restructuring might represent two modes of that influence — acute and chronic, respectively. The mechanism remains speculative, but the phenomenology may suggest different temporal profiles of consciousness-body interaction operating through the same interface — a reading the phenomenology is compatible with rather than one it compels.
 
-**[[tenets#^no-many-worlds|No Many Worlds]].** The evolutionary argument against epiphenomenalism gains force from the Map's rejection of MWI. Under many-worlds, one might argue that every [[supervenience]] mapping is realised somewhere, weakening the demand to explain *why this particular mapping* — why tissue damage of type X produces suffering of character Y. In a single-history universe, the systematic alignment of suffering-type with damage-type is a contingent fact that demands causal explanation, and the simplest may be that the suffering itself was selected for.
+**[[tenets#^no-many-worlds|No Many Worlds]].** The tenet adds coherence here, not force: Everettian branches share one dynamics and one [[supervenience]] mapping, so the single-history reading inherits the [[inheritance-problem-for-the-psychophysical-law#harmony|shared harmony debt]] rather than discharging it.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]].** Reducing pain to C-fibre firing and suffering to neural activity achieves simplicity by changing the subject. The phenomenon to be explained is why anything *suffers at all*, and no degree of neural detail addresses this. Each physicalist theory offers a parsimonious redescription of asymbolia. The Map adds an explanatory layer: irreducible phenomenal properties with genuine causal efficacy. This is less parsimonious, but the parsimony of physicalist accounts is achieved by declining to explain the central datum.
 
@@ -212,6 +212,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 1. Grant, J. A., & Rainville, P. (2009). "Pain Sensitivity and Analgesic Effects of Mindful States in Zen Meditators." *Psychosomatic Medicine*, 71(1), 106–114.
 1. Griffith, T. & Kind, A. (2024). "Pain Asymbolia is Not Pain." *Philosophy of Science*, 91(3), 561–578. https://doi.org/10.1017/psa.2023.167
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
+1. Jensen, K. B., Kaptchuk, T. J., Kirsch, I., et al. (2012). "Nonconscious Activation of Placebo and Nocebo Pain Responses." *Proceedings of the National Academy of Sciences*, 109(39), 15959–15964.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Klein, C. (2015). *What the Body Commands: The Imperative Theory of Pain*. MIT Press.
 1. Kragel, P. A., & LaBar, K. S. (2015). "Multivariate Neural Biomarkers of Emotional States Are Categorically Distinct." *Social Cognitive and Affective Neuroscience*, 10(11), 1437–1448.
