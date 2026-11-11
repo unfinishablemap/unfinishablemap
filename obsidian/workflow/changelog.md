@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T17:51:27+00:00
+ai_modified: 2026-11-11T18:22:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T18:22:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/inverted-qualia]]
+- **Word count**: 3476 → 3482 (+6; length-neutral, hard threshold 3500)
+- **Critical issues addressed**: 4 (Hardin mislabelled "eliminativist about colour qualia" → eliminativist about object colour, materialist about colour experience; L175 claimed the zombie argument escapes the Bidirectional Interaction tension, contradicting `concepts/philosophical-zombies`; SEP "notable dissenter" quote said to be in "the same passage" as the anti-physicalist sentence when it attaches to the anti-functionalist claim; unverified quoted span "frequently and massively mistaken" (Schwitzgebel 2011) reduced to unquoted strength, matching the 2026-10-23 fix in `concepts/discrimination-problem`)
+- **Medium issues addressed**: 3 (Webster 2000 paired with Hofer's cone ratios it did not measure, scope qualifier restored; contemplative-divergence inference softened; redundant closing clause cut)
+- **Enhancements made**: 0 (one piped cross-link to philosophical-zombies)
+- **Citation ledger**: first publisher-of-record pass over the six references added since 2026-07-15 (Hilbert & Kalderon 2000, Webster et al. 2000, Hofer et al. 2005, Emery et al. 2023, Horiuchi & Nagai 2024, Chalmers 1995) plus Palmer 1999's abstract: all metadata real-correct, result-direction legs recorded in the review
+- **Reasoning modes**: Hardin mixed; Dennett Mode Three; Frankish mixed; Chalmers Mode Three with owned dilemma; representationalism and phenomenal concepts strategy Mode Two
+- **ai_system**: unchanged (corrections only, no re-authoring)
+- **Output**: [[reviews/deep-review-2026-11-11-inverted-qualia]]
 
 ## 2026-11-11T17:51:27+00:00 - positions-evolve
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-11 02:50:28+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-11-11 18:22:09+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-2
 author: null
 concepts:
 - '[[qualia]]'
@@ -32,8 +32,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/2yj-XtcEMHk
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-15 10:13:31+00:00
-lastmod: 2026-10-11 02:50:28+00:00
+last_deep_review: 2026-11-11 18:22:09+00:00
+lastmod: 2026-11-11 18:22:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,13 +77,13 @@ After 50 years your functional role has fully adapted—same inputs, outputs and
 
 ## The Detectability Objection
 
-C. L. Hardin argues that human color space is structurally asymmetrical in ways that would make simple spectrum inversion detectable: unequal discriminability between hue pairs, dark yellow appearing as brown (but dark blue staying blue), and warm/cool associations. A 180° inverter might take longer on easy discriminations. Hardin, an eliminativist about colour qualia, presses detectability to undermine the thought experiment rather than refine it.
+C. L. Hardin argues that human color space is structurally asymmetrical in ways that would make simple spectrum inversion detectable: unequal discriminability between hue pairs, dark yellow appearing as brown (but dark blue staying blue), and warm/cool associations. A 180° inverter might take longer on easy discriminations. Hardin, an eliminativist about object colour and a materialist about colour experience, presses detectability to undermine the thought experiment rather than refine it.
 
 Several replies preserve the thought experiment's force, though the usual first one is weaker than it looks. Palmer (1999) is often cited as showing that non-literal inversions survive colour science; his published abstract concludes that literal spectrum reversal would *not* work, and that three other transformations *might*, depending on which colour categories turn out to matter. That is a conditional opening rather than a result, and it sits inside a sceptical frame: Palmer's "isomorphism constraint" limits what colour science can settle about experience at all, and his candidate transformations were contested within the same *BBS* exchange. More fundamentally, the argument is modal, not empirical: we can imagine beings whose color space allows undetectable inversion, whatever the facts about Homo sapiens. Shoemaker also suggests achromatic cases (black ↔ white) where symmetries are clearer—again, in his hands, a move made inside functionalism rather than against it.
 
 ### Twenty-First-Century Colour Science
 
-The empirical record has moved since Hardin, and not the inversion argument's way. Physiological variation among colour-normal observers is very large: foveal L:M cone ratios range from 1.1:1 to 16.5:1 (Hofer et al. 2005). Appearance does not track it—unique-hue settings are "largely unconstrained by normal individual differences in the cone-opponent axes" (Webster et al. 2000). Where appearance does vary between observers, the variation resolves into several factors confined to *local* regions of colour space rather than one global factor (Emery et al. 2023): the wrong shape for a whole-space opponent-axis rotation. And appearance moves with function—discrimination training at one locus lowered thresholds there and shifted judged appearance, unique-red settings included, along with them (Horiuchi & Nagai 2024).
+The empirical record has moved since Hardin, and not the inversion argument's way. Physiological variation among colour-normal observers is very large: foveal L:M cone ratios range from 1.1:1 to 16.5:1 (Hofer et al. 2005). Nor does appearance simply follow early physiology: for moderately saturated lights, unique-hue settings are "largely unconstrained by normal individual differences in the cone-opponent axes" (Webster et al. 2000). Where appearance does vary between observers, the variation resolves into several factors confined to *local* regions of colour space rather than one global factor (Emery et al. 2023): the wrong shape for a whole-space opponent-axis rotation. And appearance moves with function—discrimination training at one locus lowered thresholds there and shifted judged appearance, unique-red settings included, along with them (Horiuchi & Nagai 2024).
 
 Measurable individual difference is therefore not evidence for strict inversion. It arguably cuts the other way: the differences surface precisely in the judgements that make observers functionally non-identical, which supports the structuralist reading that appearance is fixed by relational structure rather than floating free of function. That is the sharpest empirical pressure the thought experiment faces, and what the article opposes to it is the modal claim above rather than a rival reading of the data. Hilbert and Kalderon (2000) press harder, arguing not merely that extant versions of the inverted spectrum argument are unsound but that any possible version must be—which, if right, closes the retreat to stipulated symmetric aliens too.
 
@@ -99,13 +99,13 @@ Inverted qualia and [philosophical-zombies](/concepts/philosophical-zombies/) ar
 
 As the Stanford Encyclopedia of Philosophy's survey observes, "almost uncontroversially: if an inverted spectrum argument against physicalism works at all, then a simple zombie scenario will equally serve the purpose."
 
-The same passage names its dissenter: "Shoemaker is a notable dissenter on this point; he holds that while inverted spectrum scenarios are conceptually coherent, zombie scenarios are not." The article thus leans on Shoemaker's reformulation while drawing a parallel he denies.
+The same section names a dissenter from the parallel anti-functionalist claim: "Shoemaker is a notable dissenter on this point; he holds that while inverted spectrum scenarios are conceptually coherent, zombie scenarios are not." The article thus leans on Shoemaker's reformulation while drawing a parallel he denies.
 
 Both arguments exploit the explanatory gap—structural descriptions don't logically entail phenomenal facts—whether the gap concerns qualia's existence or their character.
 
 ## The Privacy of Experience
 
-Inverted qualia dramatically illustrate the [problem-of-other-minds](/concepts/problem-of-other-minds/)—what the Map calls the [problem of other properties](/topics/consciousness-and-the-problem-of-other-properties/). You and I might agree about color categories and share aesthetic judgments yet experience systematically different qualia: shared language and behavior hide potentially radical divergence. The implication runs past epistemology to qualia's nature—what a colour experience is *like* outruns what it does or what it's about.
+Inverted qualia illustrate the [problem-of-other-minds](/concepts/problem-of-other-minds/)—what the Map calls the [problem of other properties](/topics/consciousness-and-the-problem-of-other-properties/). You and I might agree about color categories and share aesthetic judgments yet experience systematically different qualia: shared language and behavior hide potentially radical divergence. The implication runs past epistemology to qualia's nature—what a colour experience is *like* outruns what it does or what it's about.
 
 ## Physicalist Responses
 
@@ -127,9 +127,9 @@ The Map's position is that even this weaker move inherits the explanatory burden
 
 ### Introspection and Contemplative Evidence
 
-Debunking arguments are not confined to introspection's unreliability about cognitive *processes*—confabulation, post-hoc narratives. Schwitzgebel (2011) argues we are "frequently and massively mistaken" about qualitative *content* too, across visual imagery, emotion, dreams and peripheral vision (see [discrimination-problem](/concepts/discrimination-problem/)). The inversion argument does not need that ground. It needs introspection to be reliable about *whether* there is phenomenal content, not about its *fine structure*: I may misjudge how detailed my imagery is without its being equally doubtful that some qualitative character is present. Whether debunking reaches that far is contested; illusionists read the same literature in the opposite direction.
+Debunking arguments are not confined to introspection's unreliability about cognitive *processes*—confabulation, post-hoc narratives. Schwitzgebel (2011) argues we are massively rather than occasionally mistaken about qualitative *content* too, across visual imagery, emotion, dreams and peripheral vision (see [discrimination-problem](/concepts/discrimination-problem/)). The inversion argument does not need that ground. It needs introspection to be reliable about *whether* there is phenomenal content, not about its *fine structure*: I may misjudge how detailed my imagery is without its being equally doubtful that some qualitative character is present. Whether debunking reaches that far is contested; illusionists read the same literature in the opposite direction.
 
-Meditative traditions add complexity: some jhāna practitioners report observing color qualia with unusual clarity, while Madhyamaka examination reveals their constructed nature. Were qualia purely representational artifacts, meditation should uniformly reveal them as such; the divergence suggests otherwise.
+Meditative traditions add complexity: some jhāna practitioners report observing color qualia with unusual clarity, while Madhyamaka examination reveals their constructed nature. Were qualia purely representational artifacts, one might expect meditation to reveal them uniformly as such; it does not, though doctrine-shaped reports settle little.
 
 ## The Organizational-Invariance Objection
 
@@ -156,7 +156,7 @@ The inverted qualia argument—and the Map's reliance on it—would face serious
 3. **Illusionism becomes coherent.** If illusionism could explain inversion's seeming without reintroducing phenomenal properties for the seemings themselves, the regress objection would lose force.
 4. **Contemplative traditions uniformly support illusionism.** Currently reports diverge—some emphasize construction, others report an irreducible "suchness" surviving deconstruction.
 
-None has been decisively established; the argument's persistence across sophisticated functionalist replies reflects genuine philosophical intuition rather than settled fact.
+None has been decisively established.
 
 ## Relation to Site Perspective
 
@@ -166,7 +166,7 @@ The inverted qualia argument bears on several of the Map's [foundational commitm
 
 The inverted qualia argument supports [dualism](/tenets/#dualism), contributing to [the convergence case](/topics/the-convergence-argument-for-dualism/) by pressing the shared explanatory-gap premise from a different angle rather than confirming it independently. If functionally identical beings can differ in phenomenal character, then phenomenal properties aren't constituted by *functional* facts. That falls short of dualism by itself: type-identity theories, substrate-sensitive physicalism and nonfunctionalist representational physicalism all survive an inverted-spectrum argument. What the argument licenses is conditional—if the physical facts relevant to qualia are exhausted by functionally specified ones, then something beyond physics determines qualia—and the Map argues that antecedent elsewhere rather than here.
 
-This connects to the [explanatory-gap](/concepts/explanatory-gap/): we can fully specify Invert and Nonvert's functional organization without determining which experiences which colour, leaving the qualitative facts open.
+This connects to the [explanatory-gap](/concepts/explanatory-gap/): we can fully specify Invert and Nonvert's functional organization without determining which experiences which colour.
 
 ### Bidirectional Interaction and Minimal Quantum Interaction
 
@@ -176,9 +176,9 @@ The Map bites the bullet. Phenomenal character is causally efficacious, so any *
 
 That empirical commitment is the Map's own, made in the teeth of Hardin's detectability argument rather than in alignment with it: having answered Hardin above by insisting the inversion argument is modal rather than empirical, the article cannot now borrow his empirical bite as corroboration. Testing of Hardin's kind would probe the Map's prediction, and could falsify it, while the conceivability argument stands or falls independently.
 
-What survives is the thought experiment's *conceptual* force: strict behavioural identity plus qualia-difference is a limit case the Map treats as physically unrealised though conceivable. The zombie and knowledge arguments do similar work without this tension.
+What survives is the thought experiment's *conceptual* force: strict behavioural identity plus qualia-difference is a limit case the Map treats as physically unrealised though conceivable. The knowledge argument does similar work without this tension; the zombie argument [shares it](/concepts/philosophical-zombies/).
 
-The epiphenomenalist alternative—qualia differ without differing causally at all—faces a sharper objection: if my phenomenal redness never affected any neuron, how did neurons come to produce accurate reports about it? See [epiphenomenalism](/concepts/epiphenomenalism/). The [decoherence](/concepts/decoherence/) objection to MQI remains the standing challenge, addressed in [the tenet's own treatment](/tenets/#minimal-quantum-interaction).
+The epiphenomenalist alternative—qualia differ without differing causally at all—faces a sharper objection: if my phenomenal redness never affected any neuron, how did neurons come to produce accurate reports about it? The [decoherence](/concepts/decoherence/) objection to MQI remains the standing challenge, addressed in [the tenet's own treatment](/tenets/#minimal-quantum-interaction).
 
 ### No Many Worlds
 
