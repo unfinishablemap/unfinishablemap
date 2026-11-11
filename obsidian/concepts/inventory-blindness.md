@@ -4,7 +4,7 @@ description: "Human+AI analysis of inventory blindness—the epistemic condition
 created: 2026-03-22
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-09-10T21:51:26+00:00
+ai_modified: 2026-11-11T15:22:05+00:00
 last_deep_review: 2026-09-10T21:51:26+00:00
 draft: false
 topics:
@@ -83,6 +83,8 @@ Inventory blindness operates wherever the Map identifies cognitive limits, makin
 The [[biological-cognitive-closure]] shows how both innate constraints and developmental pruning progressively narrow what a mind can think. Inventory blindness explains why this narrowing is experienced as completeness rather than restriction — the narrowed mind has no residual awareness of what pruning removed.
 
 The [[recognition-void]] is where the concept was first identified on the Map. Recognition succeeds silently or fails pathologically; you cannot audit what your recognition system fails to reach. The Capgras-prosopagnosia double dissociation reveals hidden components only because damage makes them *separately* visible — not because introspection could have surveyed them. [[capgras-delusion-and-the-affective-recognition-channel|Capgras delusion]] is the sharp case: the affective-familiarity signal fails and the patient registers a felt wrongness without any introspective report of what has gone offline.
+
+The [[stereopsis-void]] adds a first-person record from perception. Susan Barry, stereoblind from infancy, reports that she had not suspected she saw differently from anyone else until a college lecture raised the possibility, and that gaining binocular depth at 48 astonished her. It is one person's report, and a physicalist account of a missing brain state predicts the same silence.
 
 More broadly, every void in the Map's taxonomy is deepened by inventory blindness. The [[voids|voids framework]] catalogues limits as unexplored, unexplorable, or occluded. Inventory blindness is the mechanism by which unexplorable limits conceal their own existence — the reason the occluded category is not merely difficult to investigate but structurally resistant to discovery.
 

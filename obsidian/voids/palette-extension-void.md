@@ -4,7 +4,7 @@ description: "The sensory palette can be extended — gene therapy, laser-target
 created: 2026-09-04
 modified: 2026-11-10
 human_modified:
-ai_modified: 2026-11-10T14:14:08+00:00
+ai_modified: 2026-11-11T15:22:05+00:00
 draft: false
 topics:
   - "[[sensorimotor-contingencies-and-the-interface]]"
@@ -97,6 +97,7 @@ Two gaps remain. Ward and Meijer (2010) document the phenomenology of two long-t
 
 - [[voids]] — The catalogue's framework
 - [[acquaintance-void]] — Whether a novel quality is conceivable: the sibling face
+- [[stereopsis-void]] — An acquired quality whose new owners are sure of it; the doubt sits with those who never lacked it
 - [[modality-void]] — Which sense an installed channel joins, a question that fails independently of certifying it as new
 - [[synesthetic-void]] — Olo's uninstalled analogue: a colour-blind synesthete's "Martian colours," reported by negation
 - [[commensurability-void]] — Experiences with no common measure; cDa29 as a within-species case

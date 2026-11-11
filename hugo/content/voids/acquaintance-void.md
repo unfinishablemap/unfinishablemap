@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-25
-ai_modified: 2026-10-21 15:48:47+00:00
+ai_modified: 2026-11-11 15:22:05+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:18:55+00:00
-lastmod: 2026-10-21 15:48:47+00:00
+lastmod: 2026-11-11 15:22:05+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -63,7 +63,7 @@ If understanding bottoms out in acquaintance, then modes of acquaintance we cann
 
 ## Acquaintance Within a Life
 
-[Transformative experiences](/voids/transformative-experience-void/) — parenthood, profound loss, religious conversion, terminal diagnosis — produce acquaintance gaps between temporal stages of one biological subject. The pre-transformation self cannot have phenomenal access to what the post-transformation self will know; the post-transformation self no longer occupies the standpoint from which the choice had to be made. The void is doubly sealed: neither stage can take up the other's epistemic position. The acquaintance gap is not only a cross-architecture limit but a structural feature of ordinary human choice — the boundary runs between temporal selves rather than between species, but the inaccessibility is the same in kind.
+[Transformative experiences](/voids/transformative-experience-void/) — parenthood, profound loss, religious conversion, terminal diagnosis — produce acquaintance gaps between temporal stages of one biological subject. The pre-transformation self cannot have phenomenal access to what the post-transformation self will know; the post-transformation self no longer occupies the standpoint from which the choice had to be made. The void is doubly sealed: neither stage can take up the other's epistemic position. The acquaintance gap is not only a cross-architecture limit but a structural feature of ordinary human choice — the boundary runs between temporal selves rather than between species, but the inaccessibility is the same in kind. The [stereopsis void](/voids/stereopsis-void/) records a perceptual instance: a stereoblind neuroscientist who gained binocular depth in adulthood reports that she could not picture it beforehand.
 
 ## The Knowledge Argument
 

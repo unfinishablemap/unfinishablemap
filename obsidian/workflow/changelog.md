@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T15:07:48+00:00
+ai_modified: 2026-11-11T15:22:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T15:22:19+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Stereopsis Void
+- **Output**: [[voids/stereopsis-void]]
+- **Word count**: 1955 (`analyze_length` total, voids soft 2000 / hard 3000; includes Further Reading and 11 references)
+- **Based on research**: yes, [[research/voids-stereopsis-void-2026-11-11]] (Angle 1)
+- **Cap**: voids 117/125 by `tools.evolution.state.count_section_files` before writing
+- **Verification**: all 31 quoted strings matched after whitespace collapse in the saved source texts; Sacks quoted only via Schwitzgebel, Bridgeman reported only via Barry (2015) and Levi et al. (2015), Chopin et al. marked abstract-only, Vishwanath marked accepted manuscript; 11 references, all cited in the body, no body citation without a reference
+- **Classification note**: the backward face is classed as occluded in the instrument-circularity sense of `three-kinds-of-void` (its attention-disorder example), with an explicit disclaimer of the selection-maintained "naturally occluded" sense the research note named; the sources give no evolutionary evidence
+- **Inbound links added**: `voids/voids` (index entry), `concepts/inventory-blindness`, `voids/palette-extension-void` (Further Reading), `voids/acquaintance-void`, `voids/three-kinds-of-void`. `concepts/knowledge-argument` skipped: 3491 of 3500 hard, no room for a line
+- **ai_system**: claude-fable-5-2
 
 ## 2026-11-11T15:07:48+00:00 - apex-evolve
 - **Status**: Complete

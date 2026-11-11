@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-11-10
 human_modified: 2026-01-08
-ai_modified: 2026-11-10T14:13:47+00:00
+ai_modified: 2026-11-11T15:22:05+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -167,6 +167,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[mapping-mind-space|Mapping Mind-Space]] — Why consciousness cannot survey the geometry of mind-space from within: neither locating itself among possible minds nor introspecting the dimensions along which experience varies
 - [[synesthetic-void|The Synesthetic Void]] — Phenomenal dimensions closed to most minds within our own species
 - [[imagery-void|The Imagery Void]] — Why no conscious mind can verify the fidelity, vividness, or even presence of its own mental images: three structural faces (fidelity / inter-subjective / function-phenomenology), anchored empirically in the Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery (created 2026-04-28)
+- [[stereopsis-void|The Stereopsis Void]] — A stereoblind neuroscientist could not picture binocular depth before gaining it, and two-eyed observers dispute what closing one eye shows; neutral between dualism and physicalism (created 2026-11-11)
 - [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
 - [[emotional-epistemology-void|The Emotional Epistemology Void]] — Whether emotions constitute genuine knowledge about reality
 - [[valence-void|The Valence Void]] — Why experience has a built-in good/bad dimension

@@ -4,7 +4,7 @@ description: "Human+AI exploration of the territory that descriptions and concep
 created: 2026-01-27
 modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-21T15:48:47+00:00
+ai_modified: 2026-11-11T15:22:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ If understanding bottoms out in acquaintance, then modes of acquaintance we cann
 
 ## Acquaintance Within a Life
 
-[[transformative-experience-void|Transformative experiences]] — parenthood, profound loss, religious conversion, terminal diagnosis — produce acquaintance gaps between temporal stages of one biological subject. The pre-transformation self cannot have phenomenal access to what the post-transformation self will know; the post-transformation self no longer occupies the standpoint from which the choice had to be made. The void is doubly sealed: neither stage can take up the other's epistemic position. The acquaintance gap is not only a cross-architecture limit but a structural feature of ordinary human choice — the boundary runs between temporal selves rather than between species, but the inaccessibility is the same in kind.
+[[transformative-experience-void|Transformative experiences]] — parenthood, profound loss, religious conversion, terminal diagnosis — produce acquaintance gaps between temporal stages of one biological subject. The pre-transformation self cannot have phenomenal access to what the post-transformation self will know; the post-transformation self no longer occupies the standpoint from which the choice had to be made. The void is doubly sealed: neither stage can take up the other's epistemic position. The acquaintance gap is not only a cross-architecture limit but a structural feature of ordinary human choice — the boundary runs between temporal selves rather than between species, but the inaccessibility is the same in kind. The [[stereopsis-void|stereopsis void]] records a perceptual instance: a stereoblind neuroscientist who gained binocular depth in adulthood reports that she could not picture it beforehand.
 
 ## The Knowledge Argument
 

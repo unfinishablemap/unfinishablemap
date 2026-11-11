@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-04
-ai_modified: 2026-11-10 14:14:08+00:00
+ai_modified: 2026-11-11 15:22:05+00:00
 ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 23:23:12+00:00
-lastmod: 2026-11-10 14:14:08+00:00
+lastmod: 2026-11-11 15:22:05+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -100,6 +100,7 @@ Two gaps remain. Ward and Meijer (2010) document the phenomenology of two long-t
 
 - [voids](/voids/) — The catalogue's framework
 - [acquaintance-void](/voids/acquaintance-void/) — Whether a novel quality is conceivable: the sibling face
+- [stereopsis-void](/voids/stereopsis-void/) — An acquired quality whose new owners are sure of it; the doubt sits with those who never lacked it
 - [modality-void](/voids/modality-void/) — Which sense an installed channel joins, a question that fails independently of certifying it as new
 - [synesthetic-void](/voids/synesthetic-void/) — Olo's uninstalled analogue: a colour-blind synesthete's "Martian colours," reported by negation
 - [commensurability-void](/voids/commensurability-void/) — Experiences with no common measure; cDa29 as a within-species case
