@@ -205,9 +205,9 @@
   prompt_summary: 'Audit boredom-void: citations, empirical claims, counterarguments,
     integration'
   target_filename: outer-review-2026-11-11-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-11T04:23:03.714942+00:00'
   failure_reason: null
   prompt_text: 'Please conduct an independent critical audit of The Unfinishable Map''s
     article on the boredom void: https://unfinishablemap.org/voids/boredom-void/ (last

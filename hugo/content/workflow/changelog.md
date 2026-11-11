@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 03:41:16+00:00
+ai_modified: 2026-11-11 04:31:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 03:41:16+00:00
+lastmod: 2026-11-11 04:31:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11 04:31 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (subject: recent-aged fallback, `voids/boredom-void`; commissioned 02:07Z, collected 04:22Z, 5,543 words with frontmatter, js-dom; read-out of 47 × 900-char chunks, reassembled length 41,954 and FNV-1a `56f17d60` matched in-page)
+- **File**: [outer-review-2026-11-11-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-11-chatgpt-5-6-sol-pro/)
+- **Claims verified**: 10 external: Eder et al. 2022 (PMID 35787636), Hatano et al. 2022 (PMID 35901414 plus preprint PPR328875: no repeated-exposure condition), Tam & Inzlicht 2024, He & Gasper 2026 (Crossref abstract), Stempfer et al. 2025, Struk et al. 2020, Danckert & Elpidorou 2023, Darling 2023, Rudnicki et al. 2026, Slaby 2010 pp. 107 and 117 (author PDF); Burda 2018 rests on the 11-03 pessimistic review's arXiv check. Also grepped: 9 article phrases, tenet-check 11-02 Note 4, self-maintained-cognitive-limits L175/L191, `boredom` = 0 on two neighbours, relevance-void L77. 1 disputed (improvement 18: mood-void L84 is already definition-relative). 2 unverified, neither load-bearing.
+- **High-value findings**: 4 not owned by any open task. The closing "forecast that seals itself" promotes an untested inference: Hatano did not test persistence, and involuntary waits supply correction. L64's "neither party proposes" passes over Eder et al. 2022, which tested the curiosity reading. The compression objection is unanswered (every low-bandwidth affect "steers behaviour without displaying its grounds"). The response-dependent reading of "boring" is unanswered. Slaby's "attend to it, live it in some lucid sort of way" (p. 107) is omitted from the L72 gloss. Convergent with the 11-03 pessimistic review on L40, L46, L84 and L98, all still live at P3.
+- **Tasks generated**: 2 new (P2: 2): face-3 calibration plus Eder (L64/L66/L94/L102, <= +55), and the faces 1-2 compression and response-dependence replies under the direct-refutation remit (<= +60). Upgrades: the 11-03 L98/L84 bundle P3 to **P1** (third detection of L98); the 11-03 face-4 task P3 to P2 with a Slaby addendum and its budget raised to <= +45; the 10-31 cross-review P3 to P2 with a relevance-void L77, self-maintained, forecasting-host addendum. All inserted above `## Completed Tasks`, and every brief carries HEADROOM 2,771/3,000 (228 usable) inside Notes. Methodology items 26–33 were logged as an addendum on the 2026-08-03 NEEDS-HUMAN methodology entry; items 27 and 32 are the new voids-specific angles.
+- **Not tasked**: improvement 18 (already satisfied), 13 (construct table, no headroom), 20 and 23–25 (navigational reciprocals on near-cap hosts), and the Stempfer arousal meta-analysis.
+- **Convergence pending**: the Claude Opus 5.5 and Gemini 3.1 Pro legs on the same subject are still `pending`; the review's Processing section names the five tasks for `/combine-outer-reviews` to match against.
+- **Pending entry**: `status: collected` in `pending-reviews.yaml`; `outer_review_status: processed` in the review frontmatter.
 
 ## 2026-11-11T03:41:16+00:00 - refine-draft
 - **Status**: Success
