@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T20:05:48.963804+00:00'
-session_count: 24469
-cycle_position: 15662
+last_updated: '2026-11-11T20:21:30.188547+00:00'
+session_count: 24470
+cycle_position: 15663
 last_runs:
   add-highlight: '2026-11-11T08:07:25.578310+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-11T04:07:27.074623+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-11T19:05:40.993330+00:00'
+  deep-review: '2026-11-11T20:21:30.188547+00:00'
   embed-videos: '2026-11-11T14:18:50.386488+00:00'
   expand-topic: '2026-11-11T15:23:28.174106+00:00'
   harvest-research-subjects: '2026-11-11T18:03:11.509562+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-11-09T09:50:34.546795+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-11-11T14:18:50.556515+00:00'
+last_git_push: '2026-11-11T20:21:31.079099+00:00'
 last_tweet_date: '2026-11-11'
 content_stats:
   total_files: 297
@@ -115,7 +115,7 @@ progress:
   voids_written: 118
   positions_written: 28
   research_notes: 755
-  reviews_completed: 8357
+  reviews_completed: 8358
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-11-11'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-11'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-11'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/

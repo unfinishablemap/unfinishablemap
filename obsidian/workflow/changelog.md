@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T20:20:49+00:00
+ai_modified: 2026-11-11T20:35:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T20:35:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conservation-laws-and-mental-causation]] (live), plus archived `archive/concepts/conservation-laws-mind-brain-causation`, `archive/topics/conservation-laws-and-mind`, `archive/topics/history-of-interactionist-dualism`
+- **Original score**: n/a (citation-fidelity pass; `scripts/curate.py` absent)
+- **Sources obtained**: full text of Pitts (2020), *Philosophia* 48(2), 673-707 (Europe PMC JATS XML, PMC9038821, 16.3k words; title, volume, issue and pages confirmed in the XML) and Cucu & Pitts (2019) (arXiv:1909.13643 PDF, whose first page carries "Mind & Matter Vol. 17(1), pp. 95–121"; arXiv journal_ref agrees). Whitespace collapsed before grepping.
+- **Changes**:
+  - (a) "not primarily for the whole universe, but in every place separately" is VERBATIM in Pitts 2020, section "Locality" ("energy conservation holds not primarily for the whole universe, but in every place separately"); absent from Cucu & Pitts 2019. Quote kept in all four files; the history-of-interactionist-dualism archive gained the missing "(Pitts 2020)" cite on it.
+  - (b) "expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question." is verbatim in Pitts 2020's abstract and absent from Cucu & Pitts 2019. Both conservation archives re-attributed from Cucu and Pitts to Pitts (2020), with the mid-sentence "expecting" lower-cased to match the source ("But expecting…"). Cucu and Pitts (2019) retained as the cite for the preceding symmetry-breaking sentence, which that paper supports ("the failure of that symmetry implies non-conservation").
+  - (c) Cucu & Pitts reference on the three archives upgraded from arXiv-only to *Mind and Matter*, 17(1), 95-121 plus the arXiv id, mirroring the live entry; journal metadata confirmed.
+  - (d) conservation-laws-and-mind archive: "The real objection should come from empirical neuroscience, not a priori physics arguments" is in NEITHER paper. De-quoted and replaced with a paraphrase of Pitts 2020's actual close (the "two more serious difficulties" are empirical neuroscience and a General Relativity conservation objection, "not the traditional but unsuccessful Leibnizian objection").
+  - (e) live article: Pitts 2020 contains zero occurrences of "statistic", "ensemble" or "probabilit". The sentence "Conservation, on the article's own reading, is a statistical and local law (Pitts 2020)…" rescoped so that locality is cited to Pitts and the ensemble-level reading is stated as the Map's own; word-neutral.
+  - Left alone: history-of-interactionist-dualism's Pitts 2020 reference omits the subtitle (adding it would exceed the archive word budget); its unquoted "The argument begs the question" under the joint Pitts-and-Cucu attribution (Cucu & Pitts 2019 never uses "begs the question"; the phrasing is Pitts 2020's).
+- **Word counts (analyze_length)**: live 3806 → 3806; conservation-laws-mind-brain-causation 1538 → 1546; conservation-laws-and-mind 2570 → 2580; history-of-interactionist-dualism 2323 → 2330
+- **Published**: yes
 
 ## 2026-11-11T20:20:49+00:00 - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Conservation laws don't block mental causation. Noether's theorem 
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-10-24T02:41:10+00:00
+ai_modified: 2026-11-11T20:35:17+00:00
 last_deep_review: 2026-02-25T21:55:00+00:00
 draft: false
 archived: true
@@ -29,7 +29,7 @@ related_articles:
   - "[[conservation-laws-mind-brain-causation-2026-01-23]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-02-25
 last_curated:
 ---
@@ -40,7 +40,7 @@ Conservation of energy is the most frequently cited physics objection to [[inter
 
 Conservation laws are derived, not axiomatic. Emmy Noether's theorem (1918) establishes that each conservation law corresponds to a continuous symmetry of the system's Lagrangian. Energy conservation follows from time-translation symmetry; momentum conservation from spatial-translation symmetry. Break the symmetry, and the corresponding conservation law fails.
 
-This has a direct consequence for the mind-body problem. If an immaterial mind acts on a physical system, it constitutes an *external influence* not represented in the system's Lagrangian. External influences break the time-translation symmetry from which energy conservation is derived. As Cucu and Pitts (2019) argue: "Expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
+This has a direct consequence for the mind-body problem. If an immaterial mind acts on a physical system, it constitutes an *external influence* not represented in the system's Lagrangian. External influences break the time-translation symmetry from which energy conservation is derived (Cucu and Pitts 2019). As Pitts (2020) puts it: "expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
 
 The objection assumes from the outset that no non-physical influences exist — precisely what it is supposed to demonstrate.
 
@@ -118,7 +118,7 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 
 1. Beck, F., & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361.
 1. Collins, R. "Modern Physics and the Energy Conservation Objection to Mind-Body Dualism." Unpublished manuscript, New Dualism Archive.
-1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter*, 17(1), 95-121. arXiv:1909.13643.
 1. Georgiev, D. D. (2018). "Quantum interactive dualism: From Beck and Eccles tunneling model to molecular biology of SNARE zipping." *Biomedical Reviews*.
 1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.

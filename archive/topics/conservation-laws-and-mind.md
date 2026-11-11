@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No—conservati
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-10-24T02:41:10+00:00
+ai_modified: 2026-11-11T20:35:17+00:00
 draft: false
 archived: true
 archived_date: 2026-03-07T23:41:00+00:00
@@ -34,7 +34,7 @@ related_articles:
   - "[[mental-causation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-02-05T18:40:00+00:00
@@ -70,7 +70,7 @@ More fundamentally, conservation is *conditional*. Noether's theorem—the mathe
 
 The converse also holds: if conservation fails, the corresponding symmetry must be broken.
 
-Now consider what happens if an immaterial mind acts on matter. Such action constitutes an *external influence*—something outside the physical system affecting it. External influences break the conditions under which conservation was derived. As Alin Cucu and Pitts argue: "Expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
+Now consider what happens if an immaterial mind acts on matter. Such action constitutes an *external influence*—something outside the physical system affecting it. External influences break the conditions under which conservation was derived (Cucu and Pitts 2019). As Pitts (2020) puts it: "expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
 
 The dialectical situation is symmetric. The conservation objection assumes from the start that no external influences exist—precisely what it's supposed to prove. But equally, the dualist who invokes "external influence" assumes that consciousness *is* non-physical and causally efficacious—precisely what the physicalist disputes. Neither side can settle the matter by appeal to conservation alone. The correct conclusion is not that the physicalist is wrong, but that conservation arguments cannot resolve the debate: they presuppose an answer to the question they purport to address.
 
@@ -121,7 +121,7 @@ Conservation laws support (1) only for closed systems—systems with no external
 
 This matters because the debate over mental causation isn't really about conservation. The deep question is whether physics is *causally closed*—whether physical causes are not just sufficient but exclusive. As [[causal-closure]] explains, this is a philosophical thesis that cannot be established by physics alone.
 
-Pitts concludes: "The real objection should come from empirical neuroscience, not a priori physics arguments." If someone wants to refute dualist interaction, they should look for evidence that neural systems are causally closed—not appeal to conservation laws that presuppose what they need to prove.
+Pitts concludes that the serious difficulties are empirical neuroscience and General Relativity, not the traditional Leibnizian objection. If someone wants to refute dualist interaction, they should look for evidence that neural systems are causally closed—not appeal to conservation laws that presuppose what they need to prove.
 
 ## Objections and Responses
 
@@ -193,7 +193,7 @@ The selection framework also has implications for [[topics/free-will]]. If consc
 
 ## References
 
-1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter*, 17(1), 95-121. arXiv:1909.13643.
 1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
 1. Collins, R. "Modern Physics and the Energy Conservation Objection to Mind-Body Dualism." Unpublished manuscript, available at New Dualism Archive.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.

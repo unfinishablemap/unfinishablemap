@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-27 01:42:02+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 20:35:17+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/conservation-laws-and-mind/
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 07:40:05+00:00
-lastmod: 2026-10-27 01:42:02+00:00
+lastmod: 2026-11-11 20:35:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ The "selection not injection" framework proposes: consciousness selects among qu
 
 Consider three superposed neural states A, B, and C, each with probability 1/3 and identical energy. If consciousness biases the outcome toward A, total energy is unchanged — only the identity of the actual outcome differs from what pure chance would produce. No new term in the Dirac equation is required because no new energy or force is introduced. This is precisely why mental causation satisfies [observational-closure](/concepts/observational-closure/): the influence is real but produces no empirically detectable deviation from quantum predictions *in the unconditioned aggregate*. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) codifies this as the fifth of five mathematical constraints any coupling map must respect: conservation law compatibility. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) supplies the structural reason the Born-statistical bound binds in the first place — under purification, no-signalling forces the Born form for any participant in measurement outcomes, so selection-only coupling preserves both Born statistics and ensemble-level energy conservation by the same derivational move. The [selection-only-channel](/concepts/selection-only-channel/) formalises this restriction information-theoretically: a pure selector among brain-prepared alternatives carries at most log₂(N) bits per event, and Born-rule preservation holds of the unconditioned long-run marginal, leaving the mind-conditioned distributions unconstrained ([born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)). The information-theoretic constraint and the energy constraint are distinct, not one requirement wearing two faces: what balances the energy ledger is the absence of injection, not any limit on the channel's throughput.
 
-The identical-energy case is the simplest illustration, not the general one. In realistic neural systems the superposed states need not share an energy eigenvalue: outcomes A, B, and C may carry *different* energies, and on a single realised trial the actual outcome may differ in energy from the counterfactual chance outcome. This per-trial difference should be stated plainly rather than dissolved by stipulation. What the selection framework preserves is the *ensemble* energy expectation Σ pᵢEᵢ: consciousness redistributes which individual trials yield which outcome without shifting any outcome's long-run frequency from its Born weight (the Torres Alegre no-signalling move above), so the per-trial energy differences cancel across the ensemble rather than accumulating into a net gain. Conservation, on the article's own reading, is a statistical and local law (Pitts 2020), tested at the ensemble level rather than the single trial, and a non-degenerate single-trial difference leaves that law intact. What preservation of the ensemble mean does *not* by itself establish is thermodynamic innocence — the stronger conditions an innocent selector must meet are stated in [the extractable-work condition](#extractable-work) below.
+The identical-energy case is the simplest illustration, not the general one. In realistic neural systems the superposed states need not share an energy eigenvalue: outcomes A, B, and C may carry *different* energies, and on a single realised trial the actual outcome may differ in energy from the counterfactual chance outcome. This per-trial difference should be stated plainly rather than dissolved by stipulation. What the selection framework preserves is the *ensemble* energy expectation Σ pᵢEᵢ: consciousness redistributes which individual trials yield which outcome without shifting any outcome's long-run frequency from its Born weight (the Torres Alegre no-signalling move above), so the per-trial energy differences cancel across the ensemble rather than accumulating into a net gain. Conservation is local (Pitts 2020); that it is statistical, tested at the ensemble level rather than the single trial, is the Map's own reading, on which a non-degenerate single-trial difference leaves conservation intact. What preservation of the ensemble mean does *not* by itself establish is thermodynamic innocence — the stronger conditions an innocent selector must meet are stated in [the extractable-work condition](#extractable-work) below.
 
 This framework presupposes that only one quantum outcome becomes actual — a position the Map defends through its [rejection of Many-Worlds](/tenets/#no-many-worlds) (Tenet 4). Under the Many-Worlds interpretation, every outcome occurs in a parallel branch and there is nothing to select.
 

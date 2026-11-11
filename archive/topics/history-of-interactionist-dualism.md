@@ -4,7 +4,7 @@ description: "From Descartes through Princess Elizabeth to quantum mechanics: ho
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-10-24T02:41:10+00:00
+ai_modified: 2026-11-11T20:35:17+00:00
 last_deep_review: 2026-03-06T13:38:00+00:00
 draft: false
 archived: true
@@ -31,7 +31,7 @@ related_articles:
   - "[[substance-property-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-02-02
 last_curated:
 ---
@@ -103,7 +103,7 @@ Roger Penrose and Stuart Hameroff proposed an alternative quantum approach: Orch
 
 Recent philosophical work has challenged whether the conservation argument ever had the force attributed to it. J. Brian Pitts and Alin Cucu demonstrate that conservation laws are *local* and *conditional*:
 
-**Locality**: Conservation holds "not primarily for the whole universe, but in every place separately." Energy flowing from one region enters adjacent regions. This is compatible with conservation not applying at specific neural locations where minds act while holding everywhere else.
+**Locality**: Conservation holds "not primarily for the whole universe, but in every place separately" (Pitts 2020). Energy flowing from one region enters adjacent regions. This is compatible with conservation not applying at specific neural locations where minds act while holding everywhere else.
 
 **Conditionality**: Noether's theorem derives conservation from symmetries—energy conservation from time-translation symmetry. External influences break these symmetries. If consciousness constitutes an external influence on physical systems, expecting conservation to hold in the brain simply assumes interactionism is false. The argument begs the question.
 
@@ -177,5 +177,5 @@ The history shows that interactionism's fortunes track developments in physics m
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Stapp, H.P. (2007). *Mindful Universe*. Springer.
 1. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1): 39–78.
-1. Cucu, A.C. & Pitts, J.B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Cucu, A.C. & Pitts, J.B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter*, 17(1), 95-121. arXiv:1909.13643.
 1. Pitts, J.B. (2020). "Conservation Laws and the Philosophy of Mind." *Philosophia* 48(2): 673–707.
