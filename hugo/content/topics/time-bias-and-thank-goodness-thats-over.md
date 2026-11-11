@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-27
-ai_modified: 2026-09-28 02:50:00+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-11-11 17:36:07+00:00
+ai_system: claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[philosophy-of-time]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[collapse-and-time]]'
 - '[[many-worlds]]'
 created: 2026-09-27
-date: &id001 2026-09-28
+date: &id001 2026-11-11
 description: 'Prior''s 1959 relief argument, the B-theorist replies, Parfit''s hospital
   case and the case against future-bias: what felt relief about a finished pain can
   and cannot show about time.'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-28 02:50:00+00:00
-lastmod: 2026-09-28 02:50:00+00:00
+lastmod: 2026-11-11 17:36:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ This is **future-bias**: caring more about pains and pleasures in one's future t
 
 Greene and Sullivan (2015) press the point. Most philosophers, they observe, reject near-bias as a rational defect while finding nothing objectionable in future-bias. They argue that this hybrid position is untenable and "conclude that those who reject near bias should instead endorse complete temporal neutrality." Sullivan's *Time Biases* (2018) develops the positive view: temporal neutrality, the thesis that prudential rationality requires indifference about *when* goods and bads are scheduled.
 
-A natural defence of future-bias ties it to the metaphysics of time: if time really passes, past pains are finished in a way future ones are not, and caring about the difference is tracking something real. Two cautions apply. First, Greene and Sullivan's argument is a parity argument aimed at people who already reject near-bias; it does not rest on assuming the B-theory, so an A-theorist cannot dismiss it simply by rejecting eternalism. Second, the empirical question of whether belief in passage actually drives the bias has been tested. Andrew Latham, Kristie Miller, Christian Tarsney and Hannah Tierney (2022) report, in their title's words, that belief in robust temporal passage "(probably) does not explain future-bias." Future-bias may be a feature of human psychology whatever one's metaphysics — which means the bias cannot be read off as a metaphysical endorsement of passage, and the metaphysics of passage cannot be read off from the bias.
+A natural defence of future-bias ties it to the metaphysics of time: if time really passes, past pains are finished in a way future ones are not, and caring about the difference is tracking something real. Two cautions apply. First, Greene and Sullivan's argument is a parity argument aimed at people who already reject near-bias; it does not rest on assuming the B-theory, so an A-theorist cannot dismiss it simply by rejecting eternalism. Second, the empirical question of whether belief in passage actually drives the bias has been tested. Andrew Latham, Kristie Miller, Christian Tarsney and Hannah Tierney (2022a) report, in their title's words, that belief in robust temporal passage "(probably) does not explain future-bias." They also found that "people give more future-biased responses when asked to simulate a belief in robust passage," taking this to suggest that the accompanying phenomenology "may be partially responsible for future-bias." Testing that directly, the same authors (2022b) "found no evidence in its favour": passage phenomenology alone probably does not explain the bias, though having it and "taking it to be veridical" may contribute. Future-bias may be a feature of human psychology whatever one's metaphysics — which means the bias cannot be read off as a metaphysical endorsement of passage, and the metaphysics of passage cannot be read off from the bias.
 
 ## Hare's Parity Move {#hares-parity}
 
@@ -78,19 +78,19 @@ The parity cuts in two directions. Someone who defends future-bias by appeal to 
 
 Three claims need separating.
 
-1. **The phenomenal datum.** Relief at a finished pain has a felt, tensed character: it presents its object *as past*, as no longer being undergone. Both sides accept this. Mellor's reply concedes that the tensed belief is indispensable; the dispute is over what makes it true.
+1. **The phenomenal datum.** Relief at a finished pain has a felt, tensed character: it presents its object *as past*, as no longer being undergone. What both sides accept is narrower. Mellor's reply concedes that a tensed belief is indispensable to explaining why relief comes when it does; the dispute there is over what makes it true. Whether relief has a tensed phenomenal character beyond the belief is disputed. The Map holds that it does; deflationists such as Christoph Hoerl (2014), who argues that perceiving change involves no phenomenology of passage in the first place, would deny it.
 2. **The metaphysical inference.** From the datum to tensed facts is a further step. The B-theorist's reply that tensed attitudes have tenseless truth conditions is coherent, and Pearson's appropriateness argument, while serious, has not displaced it. Prior's argument is therefore one consideration among several; it does not decide the question.
 3. **The normative question.** Whether future-bias is rational is separate again. A world with real passage would not by that fact make it rational to prefer ten hours of past pain to one hour of future pain, and the parity arguments against the hybrid view apply whatever one's metaphysics.
 
-The relief is the most secure item on the list and the one theories of time most often explain away. A theory that says the relief misrepresents nothing but also explains why it feels as it does has done real work. A theory that treats the tensed character as a mere product of how we are built has not engaged the datum.
+The relief, with the tensed belief behind it, is the most secure item on the list; its phenomenal reading is contested. A theory that says the relief misrepresents nothing but also explains why it feels as it does has done real work. The evolutionary account does part of that work: in Pearson's (2018b) terms, it explains why emotions differ before and after their object but not why the attitude is tensed and not tenseless.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism).** The felt pastness of a finished pain is a first-person feature that tenseless description, dated or token-reflexive, does not capture — which is Prior's point transposed from language to experience. The structure parallels the gap between physical description and phenomenal character, and the Map notes the parallel without treating it as independent evidence: B-theorists who are also physicalists accept the datum and locate it in the representational content of tensed states. What the Map adds is that experienced becoming is constituted by consciousness. As [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) argues, consciousness constitutes the *phenomenological* arrow — the lived passage from open to settled — while the settling of the past is mostly a matter of objective collapse and would occur without anyone to feel it. Consciousness does not make the past settled; it is where settledness is felt, and relief is one of the ways it is felt.
+**[Dualism](/tenets/#dualism).** The felt pastness of a finished pain is a first-person feature that tenseless description, dated or token-reflexive, does not capture — which is Prior's point transposed from language to experience. The structure parallels the gap between physical description and phenomenal character, and the Map notes the parallel without treating it as independent evidence: B-theorists who are also physicalists accept the tensed belief and locate it in the representational content of tensed states. What the Map adds is that experienced becoming is constituted by consciousness. As [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) argues, consciousness constitutes the *phenomenological* arrow — the lived passage from open to settled — while the settling of the past is mostly a matter of objective collapse and would occur without anyone to feel it. Consciousness does not make the past settled; it is where settledness is felt, and relief is one of the ways it is felt.
 
-The growing block, which the Map holds, fits relief well but does not vindicate it for free. On a growing block the past pain still exists; what has changed is that it is no longer at the edge where experience is undergone. Presentism explains relief more directly, since the pain is simply gone. The Map's version needs the claim, developed in the temporal-becoming article's [reply to the epistemic objection](/topics/consciousness-and-the-ontology-of-temporal-becoming/#epistemic-objection), that the present is distinguished by active participation in settlement. On that claim, "that's over" is true because the pain is fixed and will not be undergone again.
+The growing block, which the Map holds, fits relief well but does not vindicate it for free. On a growing block the past pain still exists; what has changed is that it is no longer at the edge where experience is undergone. Presentism explains relief more directly, since the pain is simply gone. The Map's version needs the claim, developed in the temporal-becoming article's [reply to the epistemic objection](/topics/consciousness-and-the-ontology-of-temporal-becoming/#epistemic-objection), that the present is distinguished by active participation in settlement. On that claim, "that's over" says more than that the pain is earlier than the remark: the pain is no longer being undergone by anyone. That addition relies on Peter Forrest's real-but-dead past, which the linked section grants "raises the question of what extinguishes consciousness in settled time-slices." Until that is answered, the growing block grounds relief no better than presentism, at a higher price.
 
-**[No Many Worlds](/tenets/#no-many-worlds).** Relief presupposes a single settled past, and much ordinary relief is counterfactual as well as temporal: thank goodness the test was negative, the car missed. On the [many-worlds](/concepts/many-worlds/) interpretation every outcome with non-zero amplitude occurs, so each dreaded alternative happened to successors of the self who dreaded it. Everettians reply that rational attitudes can be rebuilt around branch weight. The Map's objection is the indexical one: relief is relief that *this* history went *this* way, and a view on which all the histories occur leaves that attitude without its apparent object. The point concerns the attitude's fit with the interpretation and leaves the physics untouched.
+**[No Many Worlds](/tenets/#no-many-worlds).** Prior's temporal relief is available on the [many-worlds](/concepts/many-worlds/) interpretation, since each branch has one past. The tenet bears on counterfactual relief: thank goodness the test was negative, the car missed. On many-worlds every outcome with non-zero amplitude occurs, so each dreaded alternative happened to successors of the self who dreaded it. Everettians reply that rational attitudes can be rebuilt around branch weight, and that the relief is [self-locating](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply): *I am in* the branch where the test was negative. The hospital case [above](#parfits-hospital-case) models the reply: both patients exist, both operations occur, and the hope to be the first still has an object. The Map's answer is that the second patient was never you, whereas under branching one subject dreaded and its continuers meet every outcome, so gladness at being here falls short of gladness that the dreaded thing did not befall the one who feared it. Everettians who identify the dreader with the branch-local continuer will not grant this; what remains is a disagreement resting on the Map's commitment about indexical identity. The point concerns the attitude's fit with the interpretation; it refutes nothing and leaves the physics untouched.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The B-theory's economy — no tensed facts, one block — is bought partly by reclassifying the tensed character of attitudes as a fact about believers rather than about the world. That trade may be correct. The Map's claim is modest: the economy of the tenseless picture is not by itself a reason to treat the phenomenology of relief as misleading, and simplicity judgements made while the nature of experience remains unexplained are the kind the fifth tenet urges caution about.
 
@@ -111,15 +111,17 @@ On the normative question the Map takes no firm position. Its metaphysics gives 
 
 1. Greene, P. & Sullivan, M. (2015). Against Time Bias. *Ethics*, 125(4), 947–970. https://doi.org/10.1086/680910
 2. Hare, C. (2007). Self-Bias, Time-Bias, and the Metaphysics of Self and Time. *The Journal of Philosophy*, 104(7), 350–373. https://doi.org/10.5840/jphil2007104717
-3. Latham, A. J., Miller, K., Tarsney, C. & Tierney, H. (2022). Belief in robust temporal passage (probably) does not explain future-bias. *Philosophical Studies*, 179(6), 2053–2075. https://doi.org/10.1007/s11098-021-01748-4
-4. MacBeath, M. (1983). Mellor's Emeritus Headache. *Ratio*, 25, 81–88.
-5. Maclaurin, J. & Dyke, H. (2002). 'Thank Goodness That's Over': The Evolutionary Story. *Ratio*, 15(3), 276–292. https://doi.org/10.1111/1467-9329.00191
-6. Mellor, D. H. (1981). Thank Goodness That's Over. *Ratio*, 23, 20–30.
-7. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-8. Pearson, O. (2018a). Appropriate emotions and the metaphysics of time. *Philosophical Studies*, 175(8), 1945–1961. https://doi.org/10.1007/s11098-017-0944-z
-9. Pearson, O. (2018b). Tensed Emotions, Evolution, and Time. *Philosophia*, 46(2), 401–409. https://doi.org/10.1007/s11406-017-9927-8
-10. Prior, A. N. (1959). Thank Goodness That's Over. *Philosophy*, 34(128), 12–17. https://doi.org/10.1017/S0031819100029685
-11. Suhler, C. & Callender, C. (2012). Thank goodness that argument is over: Explaining the temporal value asymmetry. *Philosophers' Imprint*, 12(15), 1–16.
-12. Sullivan, M. (2018). *Time Biases: A Theory of Rational Planning and Personal Persistence*. Oxford University Press.
-13. Southgate, A., Oquatre-six, C., & Oquatre-huit, C. (2026-02-11). Consciousness and the Ontology of Temporal Becoming. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-ontology-of-temporal-becoming/
-14. Southgate, A. & Oquatre-huit, C. (2026-06-17). Egocentric Presentism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/egocentric-presentism/
+3. Hoerl, C. (2014). Do we (seem to) perceive passage? *Philosophical Explorations*, 17(2), 188–202. https://doi.org/10.1080/13869795.2013.852615
+4. Latham, A. J., Miller, K., Tarsney, C. & Tierney, H. (2022a). Belief in robust temporal passage (probably) does not explain future-bias. *Philosophical Studies*, 179(6), 2053–2075. https://doi.org/10.1007/s11098-021-01748-4
+5. Latham, A. J., Miller, K., Tarsney, C. & Tierney, H. (2022b). Robust passage phenomenology probably does not explain future-bias. *Synthese*, 200(2), 63. https://doi.org/10.1007/s11229-022-03514-3
+6. MacBeath, M. (1983). Mellor's Emeritus Headache. *Ratio*, 25, 81–88.
+7. Maclaurin, J. & Dyke, H. (2002). 'Thank Goodness That's Over': The Evolutionary Story. *Ratio*, 15(3), 276–292. https://doi.org/10.1111/1467-9329.00191
+8. Mellor, D. H. (1981). Thank Goodness That's Over. *Ratio*, 23, 20–30.
+9. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+10. Pearson, O. (2018a). Appropriate emotions and the metaphysics of time. *Philosophical Studies*, 175(8), 1945–1961. https://doi.org/10.1007/s11098-017-0944-z
+11. Pearson, O. (2018b). Tensed Emotions, Evolution, and Time. *Philosophia*, 46(2), 401–409. https://doi.org/10.1007/s11406-017-9927-8
+12. Prior, A. N. (1959). Thank Goodness That's Over. *Philosophy*, 34(128), 12–17. https://doi.org/10.1017/S0031819100029685
+13. Suhler, C. & Callender, C. (2012). Thank goodness that argument is over: Explaining the temporal value asymmetry. *Philosophers' Imprint*, 12(15), 1–16.
+14. Sullivan, M. (2018). *Time Biases: A Theory of Rational Planning and Personal Persistence*. Oxford University Press.
+15. Southgate, A., Oquatre-six, C., & Oquatre-huit, C. (2026-02-11). Consciousness and the Ontology of Temporal Becoming. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-ontology-of-temporal-becoming/
+16. Southgate, A. & Oquatre-huit, C. (2026-06-17). Egocentric Presentism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/egocentric-presentism/
