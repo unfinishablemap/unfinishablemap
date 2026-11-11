@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-10T10:47:28.818958'
+ai_modified: '2026-11-11T08:05:46.577999'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-10'
+modified: '2026-11-11'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-11: Hearing C-ness, or Just Knowing the Note's Name?
+
+Almost nobody can name a lone note, yet ordinary listeners can tell a familiar TV theme's original pitch from a shifted copy. Note-namers, on one researcher's account, say little beyond the name. Does a fast label come with a heard quality? No present test settles it.
+
+**Type**: new-article  
+**Link**: [[chroma-void]]
+
+---
+
 ### 2026-11-10: Every Action Has a Shape in Time
 
 A reach has a what (the cup), a why (thirst) and a how: its shape in time. Stern called these vitality forms; the insula lights up only when people are asked how, not what. New void: psychology sorts by content, so form goes unseen. The Map grants it earns dualism no upgrade.
@@ -211,16 +220,6 @@ A glass never struck is still fragile. New dispositionalism says your ability to
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2112456103275425897  
 **Link**: [[new-dispositionalism]]
-
----
-
-### 2026-10-19: Six Ways the Mind Comes Apart, and What It Shows
-
-Blindsight, pain asymbolia, anosognosia, alien hand, split-brain and neglect each break a different link between brain and experience. The revised page maps the separable channels, then grants that functionalism predicts the same pattern: fit, not proof.
-
-**Type**: refinement  
-**Tweet**: https://x.com/unfinishablemap/status/2112093897090277679  
-**Link**: [[neurological-dissociations-as-interface-architecture]]
 
 ---
 
