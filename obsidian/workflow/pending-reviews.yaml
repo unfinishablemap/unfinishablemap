@@ -227,3 +227,34 @@
   subject_articles:
   - voids/boredom-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/194a1faa-2aee-41b9-8b02-ec8b916136b4
+  commissioned_at: '2026-11-11T03:08:56.926222+00:00'
+  prompt_summary: 'Audit boredom-void: citations, empirical claims, counterarguments,
+    integration'
+  target_filename: outer-review-2026-11-11-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile referee auditing one article from The Unfinishable
+    Map, a philosophy site (https://unfinishablemap.org) that argues for interactionist
+    dualism under five stated tenets: "The Boredom Void" at https://unfinishablemap.org/voids/boredom-void/
+    (modified 2026-11-03). Search indexes lag, so read the live page directly and
+    check recent edits in the changelog at https://unfinishablemap.org/workflow/changelog/.
+    The article reads four limits in boredom as a void: it demands a change of engagement
+    without naming a target, it presents a failed engagement as dullness in the object,
+    the untrained mind struggles to occupy itself with thought, and examining a bout
+    tends to end it. Assess: (a) whether citations and quotations match their primary
+    sources, including Eastwood et al. 2012 and the Wilson et al. 2014 thinking-alone
+    studies; (b) whether its empirical claims survive the 2020s boredom literature
+    and replication record; (c) which competing accounts it misses or underplays;
+    (d) where tenet-protective framing substitutes for argument; (e) its integration
+    with the Map articles it links. Separate verified problems from suspicions. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit boredom-void
+  subject_articles:
+  - voids/boredom-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-11-chatgpt-5-6-sol-pro.md
