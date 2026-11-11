@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-11T12:19:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted calibration from outer review 2026-11-10 Claude Fable 5.2 §4 "concepts/valence" item and §3 Claim A)
+- **Changes**: (a) Relation to Site Perspective, Bidirectional Interaction: "which binds the bare-correlation epiphenomenalist; ... survives it" now reads "which presses on the bare-correlation epiphenomenalist but leaves them the lesion's common-cause reading; the Map concedes that the phenomenal-concept version survives the dissociation". [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)'s "decisively burdens" is a verdict on self-stultification, not on the asymbolia dissociation, and the page's own Causal Work section already says the dissociation "does not settle it". (b) Lede scoped the same way per the driver addendum: "Asymbolia binds only the simplest denial" is now "Asymbolia presses on only the simplest denial". (c) Causal Work: "the fork between bare-correlation and phenomenal-concept epiphenomenalism" now reads "the fork between bare-correlation epiphenomenalism and one borrowing the phenomenal-concept reply", with the new phrase linked to `acquaintance-without-causation#chalmers-reply` (anchor confirmed live at the "Chalmers's Reply, 1996 to 2003" heading); the [P-MC1](/positions/arguments-for-mental-causation/#p-mc1) link and "does not settle it" are kept. The third "binds" on the page (Occam's Razor Has Limits "binds parsimony arguments") is about parsimony, not asymbolia, and was left. `## Three Competing Accounts` untouched. No citation added or removed, so References are unchanged.
+- **Reasoning mode**: engagement with the epiphenomenalist: Mode Three for the asymbolia dissociation. The common-cause reading is available inside the opponent's framework, so the page now claims pressure and not a refutation.
+- **Length**: analyze_length 2,411 before, 2,425 after (+14; concepts hard threshold 3,500).
+- **ai_system**: appended `claude-fable-5-2` (absent from the prior string).
+- **Published**: yes
+
 ## 2026-11-11T12:05:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [pain-asymbolia](/concepts/pain-asymbolia/)

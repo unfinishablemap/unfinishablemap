@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-11-10T12:34:49+00:00
+ai_modified: 2026-11-11T12:19:07+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -24,13 +24,13 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-08-01T15:29:00+00:00
 ---
 
-Valence is the positive-negative dimension of conscious experience—the felt goodness of pleasure and the felt badness of pain. The Unfinishable Map argues that valence is an intrinsic phenomenal property rather than a judgment, a representation, or a functional state: the badness of pain is a feature of the experience itself, not something the experience is *about*. The claim's strongest rival reads valence as a precision-weighted signal of expected value ([[#Valence and Causal Work|engaged below]]). Asymbolia binds only the simplest denial of valence's causal relevance ([[positions/arguments-for-mental-causation|P-MC1]]); on the Map's reading, valence grounds the moral significance of conscious beings.
+Valence is the positive-negative dimension of conscious experience—the felt goodness of pleasure and the felt badness of pain. The Unfinishable Map argues that valence is an intrinsic phenomenal property rather than a judgment, a representation, or a functional state: the badness of pain is a feature of the experience itself, not something the experience is *about*. The claim's strongest rival reads valence as a precision-weighted signal of expected value ([[#Valence and Causal Work|engaged below]]). Asymbolia presses on only the simplest denial of valence's causal relevance ([[positions/arguments-for-mental-causation|P-MC1]]); on the Map's reading, valence grounds the moral significance of conscious beings.
 
 ## What Valence Is
 
@@ -70,7 +70,7 @@ The explanatory gap for valence is particularly stark because the property seems
 
 A [[concepts/functionalism|functionalist]] might object that asymbolia simply shows which functional subsystem is damaged—that the missing motivation *is* the missing function, redescribed in phenomenal language. In its generic form the objection specifies no role: the deficit is picked out by what the state stopped *feeling like*. But the objection has a framework-strength form. On the active-inference reading engaged in [[predictive-processing-and-dualism]]—Joffily and Coricelli (2013) formalise valence as the negative rate of change of free energy; Hesp et al. (2021) as a state inferred from fluctuations in the precision of the agent's own generative model—valence is a precision-weighted signal of expected value: a prior over the nociceptive stream that drives avoidance-policy selection, on which asymbolia is disrupted valence-prior assignment with sensory processing intact, predicting exactly this dissociation. That supplies the missing role, and the Map concedes it: the dissociation no longer separates the views. What the specification has not delivered, by its own mechanistic standard, is why the signal is *felt* as badness rather than merely run. [[evaluative-phenomenal-character|Evaluative phenomenal character]] carries the Map's fuller reply, and [[the-steelman-for-value-blind-selection|the steelman for value-blind selection]] assembles the deflationary reading at full strength—noting that the programme's own practitioners split over whether the formalism explains felt value away or naturalises it. The disagreement sits at the [[constitution-vs-causal-work|constitution-versus-causal-work seam]], and [[the-experience-requirement-on-well-being#unconscious-subjects|neither side refutes the other]] from inside its own commitments. The Map takes the phenomenal horn on the strength of that undelivered step, not on grounds of simplicity: [[tenets#^occams-limits|Occam's Razor Has Limits]] binds parsimony arguments made *for* the framework exactly as it binds those aimed against it.
 
-This bears on the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, but not as directly as it looks. Asymbolia shows that the felt badness is what the intact nociception lacks and what the behavior tracks; whether it *causes* the avoidance or is co-present with the state that does is the fork between bare-correlation and phenomenal-concept epiphenomenalism, and the dissociation does not settle it ([[positions/arguments-for-mental-causation|P-MC1]]).
+This bears on the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, but not as directly as it looks. Asymbolia shows that the felt badness is what the intact nociception lacks and what the behavior tracks; whether it *causes* the avoidance or is co-present with the state that does is the fork between bare-correlation epiphenomenalism and one [[acquaintance-without-causation#chalmers-reply|borrowing the phenomenal-concept reply]], and the dissociation does not settle it ([[positions/arguments-for-mental-causation|P-MC1]]).
 
 ## Valence and Moral Status
 
@@ -86,7 +86,7 @@ Valence supports the Map's framework at multiple points.
 
 The [[tenets#^dualism|Dualism]] tenet draws support scoped to what the arguments above earn: the explanatory gap stands open exactly where the identification of felt badness with a precision signal claims to close it—an unclosed seam, not a demonstration that no reductive account could ever succeed.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains a constraint from asymbolia cases. When the phenomenal property is absent, behavior changes, which binds the bare-correlation epiphenomenalist; the Map concedes that the phenomenal-concept version survives it ([[positions/arguments-for-mental-causation|P-MC1]]).
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains a constraint from asymbolia cases. When the phenomenal property is absent, behavior changes, which presses on the bare-correlation epiphenomenalist but leaves them the lesion's common-cause reading; the Map concedes that the phenomenal-concept version survives the dissociation ([[positions/arguments-for-mental-causation|P-MC1]]).
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. *If* selection is value-sensitive, consciousness would not influence quantum indeterminacies at random but choose among neural possibilities by how they would feel—where the anticipation consulted is itself a present felt state, not an accurate forecast of the outcome's value ([[affective-forecasting-gap]]). Whether valence enters the selection mechanism directly or operates only through modulating attention is an [[valence-and-conscious-selection|unresolved fork]] with distinct consequences for teleology and testability. The value-sensitive position holds that valence serves as the common evaluative dimension—the currency—that makes selection among qualitatively different outcomes commensurable; the Map holds it at low credence, framework-internal only ([[positions/value-in-selection|P-VS1]]), inheriting the quantum interface's undischarged [[positions/quantum-interface#^mechanism-debt|mechanism debt]] rather than settling it.
 
