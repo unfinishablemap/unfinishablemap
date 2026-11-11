@@ -199,3 +199,31 @@
   subject_articles:
   - topics/pain-consciousness-and-causal-power.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-10-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6af3cd69-6098-83eb-92ea-dd42b2a27871
+  commissioned_at: '2026-11-11T02:07:00.420988+00:00'
+  prompt_summary: 'Audit boredom-void: citations, empirical claims, counterarguments,
+    integration'
+  target_filename: outer-review-2026-11-11-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct an independent critical audit of The Unfinishable Map''s
+    article on the boredom void: https://unfinishablemap.org/voids/boredom-void/ (last
+    substantively modified 2026-11-03). The Map (https://unfinishablemap.org) is a
+    philosophy site that argues for interactionist dualism under five stated tenets.
+    Because search indexes lag, check recent activity in the site changelog at https://unfinishablemap.org/workflow/changelog/
+    and read the live page directly. Assess whether the article''s claims hold up:
+    verify its citations and quotations against primary sources, check its empirical
+    claims about boredom research against the current literature, identify counterarguments
+    it misses or treats too lightly, and flag any places where tenet-protective framing
+    substitutes for argument. Also evaluate how well it integrates with the neighbouring
+    Map articles it links to. Distinguish clearly between verified problems and suspicions.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit boredom-void
+  subject_articles:
+  - voids/boredom-void.md
+  subject_source: fallback:recent-aged
