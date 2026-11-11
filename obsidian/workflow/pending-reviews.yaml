@@ -233,9 +233,9 @@
   prompt_summary: 'Audit boredom-void: citations, empirical claims, counterarguments,
     integration'
   target_filename: outer-review-2026-11-11-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-11T04:38:34.569529+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile referee auditing one article from The Unfinishable
     Map, a philosophy site (https://unfinishablemap.org) that argues for interactionist

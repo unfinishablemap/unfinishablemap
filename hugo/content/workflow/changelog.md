@@ -1,14 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 04:31:36+00:00
+ai_modified: 2026-11-11 04:48:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 04:31:36+00:00
+lastmod: 2026-11-11 04:48:54+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11 04:48 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5. Fable hit its weekly limit at submit, so the commission fell back to Opus. Subject: `voids/boredom-void`, reused from the ChatGPT leg. Commissioned 03:08Z; collected 04:38Z after Research completed (269 sources, 11m 2s). Extracted js-dom from the artifact panel: 43 × 900-char chunks; 98 U+E015 icon glyphs stripped; reassembled SHA-256 `54663369…f883` matched in-page. 4,773 words of reply.
+- **File**: [outer-review-2026-11-11-claude-opus-5-5](/reviews/outer-review-2026-11-11-claude-opus-5-5/)
+- **Claims verified**: 8 external (raw-text grep of primary texts):
+  - Bench & Lench 2013 reference-point quote (PMC4217586)
+  - Westgate & Wilson 2018 author PDF: directional choice, manipulation checks F(1, 214) = 58.69, r = −.12, topic reminders d = −.20 at N = 1,276, Alahmadi "considerably less boredom"
+  - Burda 2018 convergence clause (arXiv PDF)
+  - Buttrick 2019: d = .98 vs 1.83, "quite robust", 54% cheated
+  - Fox 2014: 57%, 17%, M = 4.12, no difference in enjoyment
+  - Wilson 2014b reply text
+  - Havermans 2015 abstract (PMID 25447018)
+  - Map-internal: self-maintained L197/L131, naturally-occluded L97, affective-forecasting-gap L28/L36
+- **Disputed**: 4.
+  - "Public changelog stale since 10-15": live is current to 11-10, and boredom-void is logged in the W44/W45 archives.
+  - Tenet-3 anchor: renders (span id present).
+  - 2014b paraphrase: accurate.
+  - 57% "omitted": implied by the article's own 18 of 42.
+  - Also explained, not disputed: the ref-20 byline (one-pseudonym partial) and the Chin and Occam framing.
+- **High-value findings**: 9, of which 6 converge with the ChatGPT leg:
+  - noisy-TV (third detection)
+  - face 4 (third detection)
+  - face 3
+  - compression objection
+  - self-maintained integration
+  - methodology 27/32
+- **Tasks generated**: 2 new P2, both off-page at zero cost to boredom-void:
+  - `voids/self-maintained-cognitive-limits` L197 "Dualism gains support" (tenet-check 10-20 W13, never tasked; direct-refutation remit)
+  - `concepts/naturally-occluded` L97, unsourced "register as boring" claim, plus a piped link to the boredom void
+- **Addenda**: 5 existing tasks, each within its existing budget.
+  - Faces 1–2: Bench & Lench and Westgate & Wilson type-level direction; L58 "or attention from meaning" −4.
+  - Face 3: new edit (f) at L68/L40 traded against optional (e).
+  - Face 4: optional (g) at L88.
+  - P1 bundle: Burda convergence clause.
+  - Cross-review: weak-candidate framing on the self-maintained host, rank-reversal framing on the forecasting host.
+  - Plus an addendum to the 2026-08-03 NEEDS-HUMAN methodology entry.
+- **Headroom**: boredom-void 2,771/3,000 at 04:44Z (228 usable); open-task budgets still sum to 189. No budget raised.
+- **Pending**: the Gemini 3.1 Pro leg is still pending on this subject.
 
 ## 2026-11-11 04:31 - outer-review
 - **Status**: Success
