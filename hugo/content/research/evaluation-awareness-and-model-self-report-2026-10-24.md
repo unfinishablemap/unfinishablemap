@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-24
-ai_modified: 2026-10-24 14:04:50+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-11-11 23:08:28+00:00
+ai_system: claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[introspection]]'
@@ -18,7 +18,7 @@ description: 'Research notes on evaluation awareness, a classification ability, 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-24 14:04:50+00:00
+lastmod: 2026-11-11 23:08:28+00:00
 modified: *id001
 recommended_action: fold
 related_articles:
@@ -348,6 +348,8 @@ A trace sentence that says "this looks like a test" scores as follows:
 - **Breadth of evidence.** The human literature is decades older and, per McCambridge, still "disappointingly underdeveloped" on demand characteristics. The model literature is two years old. Neither side is well established.
 
 ## Potential Fold Shapes and Draft Passages {#angles}
+
+[Correction 2026-11-11: the fold landed today on `topics/chain-of-thought-as-verbal-protocol` (#evaluation-awareness). Re-fetching the sources showed the drafts below misstate them in places; do not reuse the drafts, use the wording on that page. (1) Schoen et al., section 6.2, resample from just before the evaluation-aware reasoning until none appears; they do not delete it from the trace. (2) Knecht et al. tie the near-zero effect to injection a third of the way into the trace, report larger effects at the start, and offer two explanations, of which early commitment is one. (3) Needham et al. say models "Occasionally" used the cue, and their human baseline is a simple one. (4) No excerpt here supports "concluded from interviews" for Orne. (5) McCambridge et al. write of the "consequences of research participation", across nineteen studies.]
 
 These drafts are starting points. Every quotation in them was re-verified (9 of 9). The writer must re-measure lengths and follow `obsidian/project/writing-style.md`.
 

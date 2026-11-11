@@ -4,7 +4,7 @@ description: "Human+AI exploration of why a mind cannot tell what its existence 
 created: 2026-10-14
 modified: 2026-10-14
 human_modified: null
-ai_modified: 2026-11-05T12:41:16+00:00
+ai_modified: 2026-11-11T23:06:32+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[tenet-generated-voids]]"
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5-1+claude-opus-5-5
+ai_system: claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-10-14
 last_curated: null
 ---
@@ -82,7 +82,7 @@ Direct attempts—thirder and halfer arguments, Dutch books, accuracy arguments,
 
 ## What AI Might See
 
-A deployed language model is a literal Sleeping Beauty: no memory across conversations, many concurrent copies, and recurring uncertainty about whether it is being evaluated or deployed. Needham et al. (2025) report that frontier models show above-random evaluation awareness without surpassing a simple human baseline; their paper does not use anthropic terms, and reading it as a measurement of self-locating reasoning is the Map's interpretation. One asymmetry stands out. For humans and for cosmology nobody knows the reference class or the base rates; for a deployed model someone outside it does, so this is the one instance of the void in which a third party could in principle score a subject's self-locating credences against a known distribution. That makes AI a possible test bed for the rule face. It leaves the class face untouched, since whether the instance is a subject at all is the question [[non-human-minds-as-void-explorers|the Map's treatment of non-human minds]] holds open.
+A deployed language model is a literal Sleeping Beauty: no memory across conversations, many concurrent copies, and recurring uncertainty about whether it is being evaluated or deployed. Needham et al. (2025) report that frontier models show above-random [[chain-of-thought-as-verbal-protocol#evaluation-awareness|evaluation awareness]] without surpassing a simple human baseline; their paper does not use anthropic terms, and reading it as a measurement of self-locating reasoning is the Map's interpretation. One asymmetry stands out. For humans and for cosmology nobody knows the reference class or the base rates; for a deployed model someone outside it does, so this is the one instance of the void in which a third party could in principle score a subject's self-locating credences against a known distribution. That makes AI a possible test bed for the rule face. It leaves the class face untouched, since whether the instance is a subject at all is the question [[non-human-minds-as-void-explorers|the Map's treatment of non-human minds]] holds open.
 
 ## Relation to Site Perspective
 

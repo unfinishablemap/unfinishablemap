@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T22:52:05+00:00
+ai_modified: 2026-11-11T23:07:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T23:07:37+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/chain-of-thought-as-verbal-protocol]] (host), [[voids/observer-selection-void]] (zero-word pipe)
+- **Task**: fold evaluation awareness from `research/evaluation-awareness-and-model-self-report-2026-10-24` as a new `#evaluation-awareness` subsection closing "Reactivity Inverts"; fold, not a new article
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count (analyze_length)**: host 2993 → 3697 (ceiling 3,700 with F1+F2; hard 4,000); observer-selection-void 2909 → 2909
+- **Changes**: host: subsection "Observed, Not Only Verbalising" (F1 three paragraphs + a trimmed F2 paragraph) inserted before "Unfaithful Is Not Incomplete"; the Reactivity section's closing paragraph is untouched; 8 references added and the list renumbered (36 entries); the research note added to `related_articles` (path-qualified, frontmatter only). Void: the existing words "evaluation awareness" piped to the host's new anchor, sentence otherwise unchanged (its use is the classification reading: "above-random ... without surpassing a simple human baseline").
+- **Departures from the note's drafts (fidelity pass against re-fetched sources)**: (1) Schoen: the draft said "deleting it from o3's traces and resampling"; §6.2 says trajectories were resampled from just before the evaluation-aware reasoning, iteratively until none appeared, so the host says that. (2) Knecht: the draft gave "near-zero effects" unqualified and the early-commitment account as *the* suggestion; the Discussion ties near-zero to the 1/3 position, reports larger effects for start-of-trace injection, and offers a second explanation (regenerating equivalent reasoning); the host states the position result, says "one of two explanations", and keeps their latent-channel caveat. (3) Needham: the draft's "Some models used" becomes "Models occasionally used" (source: "Occasionally, models exhibit meta reasoning"); "simple" restored to the human baseline. (4) Orne: "concluded from interviews" dropped (no excerpt supports it) for "held". (5) McCambridge: the quotation's subject is now the source's own ("consequences of research participation"), with the review's size (nineteen studies). (6) Heidari and Anwar: model counts added (six; three); the quoted "EA" glossed, its latent measure named as a probe. (7) "unmentioned suspicion" replaced by classification wording. (8) F2 trimmed for budget: the Li et al. sentence and reference were dropped, and the access asymmetry now points at `#analyst`.
+- **References verified**: arXiv abs pages (full records: authors and order, title, date, version, comments): Needham 2505.23836 v3; Schoen 2509.15541; Devbunova 2603.19426 (ICLR 2026 workshop per arXiv comments); Knecht 2605.05835; Heidari 2608.21766; Anwar 2609.36316. Crossref: McCambridge, Witton & Elbourne 2014 (*J Clin Epidemiol* 67(3), 267–277); Orne 1962 (*Am Psychol* 17(11), 776–783). Quotations re-grepped (normalised) in arXiv PDFs or abstracts and Europe PMC PMC3969247: all eight used strings found. NOT re-verified this session: Orne's "is not merely conscious compliance" (taken from the note's V-raw tag; the scan was not re-fetched).
+- **Not used**: Heidari's ≥93.9% figure, Needham's AUCs, the Sonnet 4.5 system card, Greenblatt, van der Weij, the label "Hawthorne effect" (it appears only in McCambridge's title), any coiner of "evaluation awareness".
+- **Engagement modes**: no named opponent; the subsection reports a disputed empirical record and marks the Map's own readings as such.
+- **ai_system**: `claude-fable-5-2` appended on both files (absent from each string)
+- **Published**: yes
 
 ## 2026-11-11T22:52:05+00:00 - refine-draft
 - **Status**: Success
