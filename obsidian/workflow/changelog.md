@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T05:14:22+00:00
+ai_modified: 2026-11-11T06:02:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T06:02:03+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-11 (subject: Audit boredom-void, `voids/boredom-void`, fallback:recent-aged; Claude and Gemini reused ChatGPT's subject)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5, gemini-3-1-pro). The Claude leg ran on Opus 5.5 because Fable's weekly limit fired at submit. Gemini had 5/5 weaknesses disputed as stated.
+- **Clusters**: 11 convergent (3 at 3/3: C2, C4, C7; 8 at 2/3), adjudicated against the live page at 05:48Z (2,771/3,000, every anchor count 1): 7 TRUE (C1 noisy-TV, C3 compression objection, C4 omitted regulatory/predictive-processing rivals, C6 face 4 filed *unexplorable*, C8 "forecast that seals itself", C9 self-maintained/affective-forecasting integration, C11 Williams via IEP) and 4 PARTLY (C2 face-1 objectlessness, C5 face-2 self-report, C7 profound-boredom border, C10 attention-interface gloss). Also 1 methodology cluster (M1) and 7 divergences: D1–D4 Gemini FALSE (dualist-advantage charge, Heidegger contradiction, Meteier inverted, depression demarcation) and D5–D7 Claude FALSE vs ChatGPT (changelog, Chin et al., Wilson 2014b reply).
+- **New verification**: C11. Williams 1973, fetched as a re-typed teaching reproduction and grepped, reads "not being bored can be a sign of not noticing, or not reflecting, enough". The page's L58 has IEP's version, without the commas.
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4): faces 1–2 (L5319), face 4 (L3622), face 3 (L5309), cross-review (L2809; type cross-review → refine-draft so its Notes reach the fork)
+- **Tasks rewritten at P1 (no change)**: 1 (L98/L84 bundle L3632, which gains edit (f): Williams primary wording, drop ", quoted by O'Brien" and reference 11, net about −12)
+- **Other todo edits**: spend-and-drop orders added to the three over-subscribed tasks (no budget raised; caps sum to 189 of 228 usable). Headroom and Coordination fields on face 4 and the bundle moved into Notes (face 4's held the only mood-void guard). Coordination addendum on the P2 self-maintained L197 task (left at P2: Claude singleton). Combine addendum on the 2026-08-03 methodology NEEDS-HUMAN (void-admission test 2/3; claim-family literature sweep 2/3; `/literature-drift-review` cannot reach voids)
+- **Tasks deduplicated**: 0 (no twins; the later legs appended addenda). **Tasks minted**: 0
+- **parse_tasks**: active 394 → 394 (P1 5 → 9, P2 26 → 22, P3 363 → 363). Next pick: the boredom-void cross-review (P1 refine-draft, todo L2809)
+- **Output**: [[reviews/outer-review-synthesis-2026-11-11]]
 
 ## 2026-11-11 05:14 - outer-review
 - **Status**: Success
