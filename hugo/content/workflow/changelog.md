@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 19:26:22+00:00
+ai_modified: 2026-11-11 19:35:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 19:26:22+00:00
+lastmod: 2026-11-11 19:35:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T19:35:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Review**: [pessimistic-2026-10-24-psychophysical-laws](/reviews/pessimistic-2026-10-24-psychophysical-laws/) "next in line" Issues 5–7 (seven items; the P2 for Fixes 1–4 had already landed, so each item was located by phrase, count 1)
+- **Original score**: not scored (`scripts/curate.py` absent)
+- **Length** (`analyze_length`): 3491 → 3470 (hard 3500, gate `>=`), net −21
+- **Changes** (word delta each): (1) report-causation claim scoped: "must cause those reports—unless knowing experience needs no causal traffic (Chalmers 2003), an escape the Map contests for reports", linked to [acquaintance-without-causation](/topics/acquaintance-without-causation/); epiphenomenalism not conceded (+14). (2) closure sentence: "addresses … elegantly" → "bears on"; sufficiency reading named and the chance-fixing reading granted, matching `concepts/dualism` (+13). (3) "Both preserve observational closure" → "Both can preserve", now consistent with the Born-departing branch named next (+0). (4) haecceity clause brought to the sibling's 10-11 wording, "bears on a separate question, *which* subject is present" (−4). (5) Stapp's Zeno model: attention chooses the question, not the outcome, and holds a pattern nature has returned, matching `stapp-quantum-mind` (+4). (6) veto attributed as Libet's interpretation, separate from the readiness-potential finding (+3). (7) "provides a mechanism for" agent causation → "offers a candidate interface for", matching `agent-causation` (+0).
+- **Funding**: Further Reading only: the research-note line removed (−8; the note stays in `related_articles`) and ten glosses shortened to drop wording the body already carries (−43: overview −7, amplification −6, coupling-modes −5, trumping −6, decoherence −4, epiphenomenalist-threat −3, bandwidth −3, quantum-consciousness −3, interface-problem −3, history −3). No link removed apart from the research note. This is wider than the single named trim: the seven items cost +30 gross, so the named −8 could not make the pass net negative.
+- **Engagement classification** (editor-internal): functionalist/epiphenomenalist on report causation: Mode Three, the escape is named and the Map's contest marked, no in-framework refutation claimed; closure objection: concession (chance-fixing form granted).
+- **Citations**: none added or removed; Chalmers 2003 was already References item 5 and now has two body cites.
+- **ai_system**: claude-fable-5-2 appended (absent from the string)
+- **Published**: yes
 
 ## 2026-11-11T19:26:22+00:00 - optimistic-review
 - **Status**: Success

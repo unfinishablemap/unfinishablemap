@@ -2,9 +2,9 @@
 title: "Psychophysical Laws and Coupling"
 description: "Fundamental principles connecting conscious experience to physical processes. Chalmers' framework, the coupling that bridges mind and matter, constraints on any adequate coupling, and candidate mechanisms."
 created: 2026-01-16
-modified: 2026-10-24
+modified: 2026-11-11
 human_modified: null
-ai_modified: 2026-10-24T01:09:56+00:00
+ai_modified: 2026-11-11T19:35:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-17T12:34:29+00:00
@@ -79,7 +79,7 @@ A crucial distinction: psychophysical laws can be *[[supervenience]] laws* or *c
 
 **Causal laws** (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires causal laws—consciousness selects among physically underdetermined alternatives.
 
-Functionalists respond that reports track mental states through functional organization alone. But if phenomenal properties are distinct from functional properties (as the Map holds) and our reports accurately reflect them, phenomenal properties must causally influence reports. Denying the distinctness returns us to the hard problem.
+Functionalists respond that reports track mental states through functional organization alone. But if phenomenal properties are distinct from functional ones (as the Map holds) and our reports accurately reflect them, they must cause those reports—unless [[acquaintance-without-causation|knowing experience needs no causal traffic]] (Chalmers 2003), an escape the Map contests for reports. Denying the distinctness returns us to the hard problem.
 
 | Feature | Supervenience Laws | Selection Laws |
 |---------|-------------------|----------------|
@@ -89,7 +89,7 @@ Functionalists respond that reports track mental states through functional organ
 | Compatible with epiphenomenalism? | Yes | No |
 | Developed by | Chalmers (extensively) | Stapp, Eccles (partially) |
 
-Causal laws themselves admit two structural modes. *Trajectory-altering* laws specify which physically underdetermined outcome consciousness makes actual—the Eccles-style reading where selection biases a quantum branching (Stapp's own mechanism located influence in which question is posed, not which outcome occurs). *Authority-selecting* laws, modelled on Schaffer's (2000) [[trumping-preemption|trumping preemption]] and developed in [[delegatory-causation]], assign causal authority to the experience while the physical correlate retains counterfactual sufficiency—the physical trajectory is unchanged. Both preserve observational closure; they differ in whether coupling reads at the quantum interface or as an attribution-level rule. The trajectory-altering mode itself subdivides by Born-compliance, giving the [[mathematical-structure-of-the-consciousness-physics-interface#Corridor Dualism and the Conditionality of the Bound|three-option MQI-sanctioned branch]] — *corridor dualism* (trajectory-altering, Born-compliant), *minimum-outside-the-corridor dualism* (trajectory-altering, Born-departing), and *trumping dualism* (authority-selecting) — of which the Map adopts corridor dualism as its default working hypothesis.
+Causal laws themselves admit two structural modes. *Trajectory-altering* laws specify which physically underdetermined outcome consciousness makes actual—the Eccles-style reading where selection biases a quantum branching (Stapp's own mechanism located influence in which question is posed, not which outcome occurs). *Authority-selecting* laws, modelled on Schaffer's (2000) [[trumping-preemption|trumping preemption]] and developed in [[delegatory-causation]], assign causal authority to the experience while the physical correlate retains counterfactual sufficiency—the physical trajectory is unchanged. Both can preserve observational closure, differing in whether coupling reads at the quantum interface or as an attribution-level rule. The trajectory-altering mode itself subdivides by Born-compliance, giving the [[mathematical-structure-of-the-consciousness-physics-interface#Corridor Dualism and the Conditionality of the Bound|three-option MQI-sanctioned branch]] — *corridor dualism* (trajectory-altering, Born-compliant), *minimum-outside-the-corridor dualism* (trajectory-altering, Born-departing), and *trumping dualism* (authority-selecting) — of which the Map adopts corridor dualism as its default working hypothesis.
 
 ## Chalmers' Three Principles
 
@@ -97,7 +97,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 1. **Structural Coherence**: The structure of conscious experience corresponds to cognitive awareness structure. Limitation: inverted spectrum scenarios show structure alone doesn't determine phenomenal quality.
 
-2. **[[organizational-invariance|Organizational Invariance]]**: Systems with identical functional organization have identical experiences, defended by the fading- and dancing-qualia arguments. The Map rejects the conclusion via a grain dispute over what "fine enough" organization includes; the [[haecceity]] of the subject may matter beyond abstract patterns.
+2. **[[organizational-invariance|Organizational Invariance]]**: Systems with identical functional organization have identical experiences, defended by the fading- and dancing-qualia arguments. The Map rejects the conclusion, disputing what "fine enough" organization includes; [[haecceity]] bears on a separate question, *which* subject is present.
 
 3. **Double-Aspect Theory of Information**: Information has both physical and phenomenal aspects, anticipating [[integrated-information-theory|IIT]]. The Map is skeptical of IIT's specific measures but the general information-experience connection remains relevant.
 
@@ -105,7 +105,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 Chalmers and McQueen (2022) develop quantum psychophysical laws combining IIT with collapse theory. Their key innovation—the *super-resistance principle*—holds that consciousness resists superposition: systems with high integrated information don't remain in superpositions of distinct conscious states.
 
-Bradford Saad (2025) identifies five constraints any dualist law must satisfy: (1) experiences must cause physical effects, (2) no observable violations of causal closure, (3) avoid overdetermination, (4) specify how physical states yield experiences, (5) functional duplication preserves phenomenology. Saad's own answer is delegatory dualism ([[delegatory-causation]]); pairing his constraints with the collapse proposal is the Map's evaluation, not a claim either party makes. The quantum framework addresses (1) and (2) elegantly: consciousness causes collapse without violating closure, since collapse is physically underdetermined.
+Bradford Saad (2025) identifies five constraints any dualist law must satisfy: (1) experiences must cause physical effects, (2) no observable violations of causal closure, (3) avoid overdetermination, (4) specify how physical states yield experiences, (5) functional duplication preserves phenomenology. Saad's own answer is delegatory dualism ([[delegatory-causation]]); pairing his constraints with the collapse proposal is the Map's evaluation, not a claim either party makes. The quantum framework bears on (1) and (2): collapse is physically underdetermined, so consciousness causing it violates no sufficiency closure; closure as chance-fixing (physics fixes outcomes' chances) stands, which the Map grants.
 
 ## Where the Map Diverges
 
@@ -164,11 +164,11 @@ Four families of coupling laws emerge, operating through different [[coupling-mo
 
 **Attention selects what it attends to.** Directed attention determines which neural representation becomes actual among quantum-superposed alternatives. Bandwidth: ~10 bits/second. Scope: only neural systems in the subject's attention loop. [[attention-and-the-consciousness-interface|Empirical evidence]] that attention and consciousness dissociate means coupling operates through *directed* attention specifically (the [[attention-as-interface|interface]] through which consciousness engages matter).
 
-Stapp's quantum Zeno model provides the most developed mechanism: attending to a neural pattern increases observation rate, "freezing" the pattern via the Zeno effect. OCD responders to exposure-and-response-prevention therapy, which Schwartz frames as mindful attention, showed decreased caudate glucose metabolism (Schwartz et al., 1996), though this fits physicalist neuroplasticity. **Main objection**: Georgiev (2015) showed the Zeno effect breaks down for timescales exceeding brain decoherence time.
+Stapp's quantum Zeno model is the most developed mechanism, though there attention chooses the question, not the outcome: attending raises observation rate, "freezing" a pattern nature has returned. OCD responders to exposure-and-response-prevention therapy, which Schwartz frames as mindful attention, showed decreased caudate glucose metabolism (Schwartz et al., 1996), though this fits physicalist neuroplasticity. **Main objection**: Georgiev (2015) showed the Zeno effect breaks down for timescales exceeding brain decoherence time.
 
 ### Law Family 2: Policy-Level Selection {#intention}
 
-**Consciousness selects among prepared action policies.** The brain generates options; consciousness chooses. This aligns with Libet's findings: readiness potential precedes conscious intention, but consciousness retains "veto power."
+**Consciousness selects among prepared action policies.** The brain generates options; consciousness chooses. This fits Libet's finding that readiness potential precedes conscious intention, and his interpretation that consciousness retains "veto power."
 
 Beck and Eccles (1992) give a specific mechanism: mental intention modulates quantum tunneling probability in neurotransmitter vesicle release at synaptic boutons. **Main objection**: the [[pairing-problem|pairing problem]]—how do immaterial psychons locate specific dendrons?
 
@@ -242,36 +242,35 @@ Psychophysical laws are where the Map's tenets become theoretically precise.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** blocks the parsimony objection to the ontological expansion psychophysical laws require, and by its own symmetry bars calling the expansion simpler. If consciousness exists and isn't physical, psychophysical laws are not optional additions but necessary completions of our picture of nature.
 
-Selection laws also bear on [[free-will]]. If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [[agent-causation]]—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
+Selection laws also bear on [[free-will]]. If consciousness selects among physically underdetermined alternatives, this offers a candidate interface for [[agent-causation]]—authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
 
 The Map cannot resolve which coupling law is correct—this remains open. What the Map can do is articulate the problem clearly, specify what any adequate coupling law must accomplish, and evaluate proposals against those requirements.
 
 ## Further Reading
 
-- [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview: Chalmers' framework, upward-downward asymmetry, and coupling mechanisms
-- [[coupling-modes]] — Taxonomy of coupling: basis, timing, or probability control
+- [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview
+- [[coupling-modes]] — Taxonomy of coupling
 - [[bidirectional-interaction]] — Why coupling must run in both directions
 - [[attention-as-interface]] — The primary candidate for coupling's mental variable
 - [[stapp-quantum-mind]] — Detailed treatment of attention-observation mechanism
 - [[attention-as-causal-bridge]] — Apex synthesis: the three-layer architecture instantiating attention-bounded and policy-level coupling
 - [[mental-causation-and-downward-causation|mental causation]] — How consciousness causes physical effects
-- [[quantum-consciousness]] — Major theories of quantum-consciousness interface
-- [[decoherence]] — The decoherence challenge and biological quantum effects
+- [[quantum-consciousness]] — Major theories
+- [[decoherence]] — The decoherence challenge
 - [[epiphenomenalism]] — One of Chalmers' three live options; the Map rejects it
-- [[the-epiphenomenalist-threat]] — Why most theories default to epiphenomenalism without explicit coupling
-- [[history-of-the-interaction-problem]] — The historical form of the coupling problem
-- [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms bridging quantum selection to macroscopic neural effects
-- [[consciousness-bandwidth-architecture]] — The bandwidth constraint on conscious selection
-- [[trumping-preemption]] — Schaffer's fourth species of redundant causation, the structural template for authority-selecting coupling
+- [[the-epiphenomenalist-threat]] — Why most theories default to epiphenomenalism
+- [[history-of-the-interaction-problem]] — The coupling problem's history
+- [[amplification-mechanisms-consciousness-physics]] — Six proposed amplification mechanisms
+- [[consciousness-bandwidth-architecture]] — The bandwidth constraint
+- [[trumping-preemption]] — Schaffer's structural template for authority-selecting coupling
 - [[delegatory-causation]] — Saad's Subset Law* and Delegatory Law: the developed authority-selecting psychophysical law
 - [[delegation-meets-quantum-selection]] — The Born-rule distribution as the physical grounding of Saad's default causal profile
-- [[the-interface-problem]] — The location question: where consciousness meets the brain
+- [[the-interface-problem]] — Where consciousness meets the brain
 - [[born-rule-and-the-consciousness-interface]] — Which coupling proposals require Born-rule violation, and what negative results would foreclose
 - [[contextual-selection-in-quantum-foundations]] — Kochen-Specker and preparation contextuality constrain the attention/intention/effort coupling families
 - [[functionalism]] — The view the Map rejects
 - [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws|anomalous monism]] — Davidson's physicalist verdict that no strict psychophysical law exists, which the law programme must out-argue
 - [[haecceity]] — Organization leaves *which* subject open
-- [[chalmers-psychophysical-laws-2026-01-17]] — Research notes on Chalmers' framework
 - [[tenets]] — The Map's foundational commitments
 
 ## References
