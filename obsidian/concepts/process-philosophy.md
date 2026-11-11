@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-11-09T18:25:11+00:00
+ai_modified: 2026-11-11T22:51:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[hylomorphic-dualism-and-the-interaction-problem]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-27
 last_curated: null
 last_deep_review: 2026-07-17T09:32:48+00:00
@@ -84,6 +84,8 @@ Process philosophers offer several responses:
 **[[unity-of-consciousness|Phenomenal unity]] as achievement**: Unity isn't assumed but achieved—each occasion must successfully synthesise its inheritance. The combination problem asks how micro-experiences combine; process philosophy answers: through the creative synthesis each occasion performs.
 
 **Societies and emergence**: Complex organisms are hierarchically organised societies where "[[nondualistic-interactionism|dominant occasions]]" integrate lower-level processes. The brain doesn't experience; the dominant occasion presiding over the brain does, inheriting from neural processes as its data.
+
+The dominant occasion is itself contested inside process thought. Whitehead hedged: the presiding occasion, "if there be one", is "the final node, or intersection, of a complex structure of many enduring objects", and its route "probably wanders from part to part of the brain, dissociated from the physical material atoms" (1929/1978, Part II, ch. III, sect. XI). John Cobb objected that, on Donald Sherburne's reading of that route, no single experience could see and hear at once, and proposed a soul whose region includes other regions; Sherburne called regional inclusion "an incoherent concept" (Cobb & Sherburne 1973). William Gallagher (1974) proposed that the soul contains subordinate nonconscious "living persons", since "The dominant occasion would have too burdensome a job if it alone were responsible for the integration of bodily experience." Joseph Bracken (1989) suggested that a structured society's unity "might lie in the society itself rather than in its regnant constituent occasion". Moses (2024) surveys the debate, Lewis Ford's inclusive occasions included, as what process circles call "the problem of compound individuals". The proposals differ over where the unifier sits and how much it does; none of them bears on the difference in kind that divides the Map from process thought.
 
 Whether these responses succeed is debated. The combination problem remains process philosophy's central challenge.
 
@@ -192,8 +194,12 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 
 1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
 1. Bergson, H. (1907/1998). *Creative Evolution*. Dover.
+1. Bracken, J. A. (1989). Energy-events and fields. *Process Studies*, 18(3), 153–165.
 1. Cobb, J. B. & Griffin, D. R. (1976). *Process Theology: An Introductory Exposition*. Westminster Press.
+1. Cobb, J. B., Jr., & Sherburne, D. W. (1973). Regional inclusion and psychological physiology. *Process Studies*, 3(1), 27–40.
+1. Gallagher, W. (1974). Whitehead's psychological physiology: A third view. *Process Studies*, 4(4), 263–274.
 1. Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
+1. Moses, G. (2024). Big things from little things? The problem of the compound individual. *Cosmos and History*, 20(2), 248–262.
 1. Rescher, N. (1996). *Process Metaphysics: An Introduction to Process Philosophy*. SUNY Press.
 1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Whitehead, A. N. (1920). *The Concept of Nature*. Cambridge University Press.

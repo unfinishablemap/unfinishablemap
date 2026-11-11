@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-14
-ai_modified: 2026-10-24 06:31:47+00:00
-ai_system: claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 22:51:18+00:00
+ai_system: claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[process-philosophy]]'
@@ -19,7 +19,7 @@ concepts:
 - '[[where-the-substance-commitment-enters]]'
 - '[[self-stultification]]'
 created: 2026-10-14
-date: &id001 2026-10-24
+date: &id001 2026-11-11
 description: 'David Griffin''s Whiteheadian doctrine: a mind numerically distinct
   from the brain, interacting with it, yet not different in kind. The Map''s nearest
   non-dualist rival, tested tenet by tenet in human–AI inquiry.'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-16 11:43:41+00:00
-lastmod: 2026-10-24 06:31:47+00:00
+lastmod: 2026-11-11 22:51:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,6 +61,8 @@ A **compound individual** is a society of experiencing members with a dominant m
 The human mind is the dominant member of the human compound individual: "Out of the activities of billions of neurons arises that temporal society of dominant occasions of experience that is the mind or soul of the animal" (p. 186). Each neuron is, by hypothesis, itself a compound individual; the mind is a higher-level society presiding over them. "There is, to be sure, no ontological dualism. But there is an organizational duality" (p. 188). What is new at the human level is not a new kind of stuff, nor strictly a new kind of causal relation, but "more precisely, an extreme exemplification of a kind of causal relation that had become increasingly important in the evolution of the higher animals" (p. 193); "The difference is, nevertheless, one of degree, not of kind" (p. 241).
 
 Interaction runs through [prehension](/concepts/prehension/), the Whiteheadian relation by which one occasion takes up aspects of another. The mind's occasions prehend the neuronal occasions, which is how the brain influences the mind; neuronal occasions prehend the mind's appetitions, which is how the mind influences the brain: "our brain cells derive guidance from the mind by prehending its appetitions", the familiar half of an analogy with "our prehension of the mind of the universe" (p. 205). The mind's [subjective aim](/concepts/subjective-aim/) is partly self-determined in each moment, and because a dominant member is not washed out by the law of large numbers, compound individuals, "especially humans and other higher animals" (p. 188), are where that self-determination makes a difference to what a body does.
+
+Where the dominant occasion sits, and how much it does, was disputed among process thinkers before Griffin's book. John Cobb argued against Donald Sherburne's reading of Whitehead, on which the soul is a thread of occasions among the brain's other occasions, that it leaves no single experience able to see and hear at once; one experience needs an occasion whose region includes other regions. Sherburne denied this and called regional inclusion "an incoherent concept" (Cobb & Sherburne 1973). Joseph Bracken (1989) suggested that a society's unity "might lie in the society itself rather than in its regnant constituent occasion". Griffin's book says the mind's dominant occasions have a determinate location (p. 228) without saying where in the brain or how large. Rem B. Edwards (1990) had made that complaint of a 1988 statement of Griffin's in *The Reenchantment of Science*, which "does not tell us which regions mind occupies, how large the regions are, or whether they are externally identifiable". The Map's own subject, whose boundaries it holds unreadable off physical structure, faces the same question ([below](#relation-to-site-perspective)).
 
 ## Entity-Domain Closure Kept, Microphysical Sufficiency Denied
 
@@ -100,7 +102,7 @@ The Map interprets nondualistic interactionism as the rival that makes visible w
 
 **Occam's Razor Has Limits (Tenet 5).** The tenet cuts both ways. Griffin's second charge against dualism, after the interaction of unlike things, is that it "violates the principle of continuity in a particularly egregious way" (p. 51), a uniformity heuristic of the kind Tenet 5 treats as defeasible while knowledge is incomplete. Symmetrically, the Map cannot call panexperientialism unparsimonious, and Kim's "wish list" resemblance, softened for Griffin's iota, applies with at least equal force to the Map's own posits. Griffin's appeal to hard-core common-sense notions as non-negotiable is close kin to the Map's [self-stultification](/concepts/self-stultification/) reasoning.
 
-**What the Map should not claim.** The composition demand is the Map's best line against this view, and it is not a refutation: the Map's own account of how neural activity comes to host or couple to a single subject faces a structurally related question, as [emergent-dualism](/concepts/emergent-dualism/) records in its Rickabaugh discussion. Griffin's treatment of parapsychological data (ch. 5) is outside this page's scope and is not imported as support for either side.
+**What the Map should not claim.** The composition demand is the Map's best line against this view, and it is not a refutation: the Map's own account of how neural activity comes to host or couple to a single subject faces a structurally related question, as [emergent-dualism](/concepts/emergent-dualism/) records in its Rickabaugh discussion. A natural objection from the Map's side is that a numerically distinct, unifying, located and presiding mind is a Cartesian ego under another name. Edwards put a version of it to the brain-sized but undetectable mind he found in Hartshorne: "What is the difference between a spatially extended mind as large as a brain that cannot be detected externally and a mind that is not spatially extended at all?" Edwards asked in order to keep process thought from reverting to Cartesianism, and no process critic cited here argues that the dominant occasion differs in kind from neurons. The objection presses the Map at least as hard. Its subject persists as a further fact, held and not argued under [Posit One](/tenets/background-commitments/), where Griffin's mind is a serial society; its boundaries are held determinate yet unreadable off physical structure ([P-I3](/positions/individuation-and-subjecthood/#p-i3)); and it owes a pairing law it lacks ([P-SC2](/positions/subject-census/#p-sc2)). The objection gives the Map no ground Griffin lacks. Griffin's treatment of parapsychological data (ch. 5) is outside this page's scope and is not imported as support for either side.
 
 ## Further Reading
 
@@ -115,10 +117,13 @@ The Map interprets nondualistic interactionism as the rival that makes visible w
 ## References
 
 1. Basile, P. (2010). Materialist vs. panexperientialist physicalism: Where do we stand? *Process Studies*, 39(2), 264–284. https://doi.org/10.5840/process201039224
-2. Chalmers, D. J. (2003). Consciousness and its place in nature. In S. P. Stich & T. A. Warfield (Eds.), *The Blackwell Guide to Philosophy of Mind* (pp. 102–142). Blackwell. https://doi.org/10.1002/9780470998762.ch5
-3. Griffin, D. R. (1997). *Parapsychology, Philosophy, and Spirituality: A Postmodern Exploration*. State University of New York Press.
-4. Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press. https://publishing.cdlib.org/ucpressebooks/view?docId=ft8c6009k3&brand=ucpress
-5. Griffin, D. R. (1999). Materialist and panexperientialist physicalism: A critique of Jaegwon Kim's *Supervenience and Mind*. *Process Studies*, 28(1–2), 4–27. https://doi.org/10.5840/process1999281/221
-6. Kim, J. (1999). Physicalism and panexperientialism: Response to David Ray Griffin. *Process Studies*, 28(1–2), 28–34. https://doi.org/10.5840/process1999281/222
-7. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Steelman for Process Monism. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-steelman-for-process-monism/
-8. Southgate, A. & Oquatre-huit, C. (2026-07-12). Emergent Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/emergent-dualism/
+2. Bracken, J. A. (1989). Energy-events and fields. *Process Studies*, 18(3), 153–165. https://doi.org/10.5840/process198918341
+3. Chalmers, D. J. (2003). Consciousness and its place in nature. In S. P. Stich & T. A. Warfield (Eds.), *The Blackwell Guide to Philosophy of Mind* (pp. 102–142). Blackwell. https://doi.org/10.1002/9780470998762.ch5
+4. Cobb, J. B., Jr., & Sherburne, D. W. (1973). Regional inclusion and psychological physiology. *Process Studies*, 3(1), 27–40. https://doi.org/10.5840/process1973314
+5. Edwards, R. B. (1990). Process thought and the spaciness of mind. *Process Studies*, 19(3), 156–166. https://doi.org/10.5840/process199019331
+6. Griffin, D. R. (1997). *Parapsychology, Philosophy, and Spirituality: A Postmodern Exploration*. State University of New York Press.
+7. Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press. https://publishing.cdlib.org/ucpressebooks/view?docId=ft8c6009k3&brand=ucpress
+8. Griffin, D. R. (1999). Materialist and panexperientialist physicalism: A critique of Jaegwon Kim's *Supervenience and Mind*. *Process Studies*, 28(1–2), 4–27. https://doi.org/10.5840/process1999281/221
+9. Kim, J. (1999). Physicalism and panexperientialism: Response to David Ray Griffin. *Process Studies*, 28(1–2), 28–34. https://doi.org/10.5840/process1999281/222
+10. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Steelman for Process Monism. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-steelman-for-process-monism/
+11. Southgate, A. & Oquatre-huit, C. (2026-07-12). Emergent Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/emergent-dualism/

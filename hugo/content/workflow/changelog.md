@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 22:20:18+00:00
+ai_modified: 2026-11-11 22:52:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 22:20:18+00:00
+lastmod: 2026-11-11 22:52:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T22:52:05+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [nondualistic-interactionism](/concepts/nondualistic-interactionism/) (primary), [process-philosophy](/concepts/process-philosophy/) (secondary), [pairing-problem](/concepts/pairing-problem/) (optional)
+- **Task**: fold the regnant-occasion objection (process-internal critiques of Griffin's dominant occasion) from `research/regnant-occasion-objection-2026-10-24`; fold, not a new article
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count (analyze_length)**: nondualistic-interactionism 2999 → 3379 (+380); process-philosophy 2482 → 2748 (+266); pairing-problem 3295 → 3361 (+66)
+- **Changes**: primary: A1 closes "Compound Individuals and Dominant Occasions" (Cobb against Sherburne's reading, Bracken's alternative, the unspecified locus, Edwards on Griffin's 1988 statement, one symmetric sentence on the Map's subject); A2 inserted in "What the Map should not claim" after the Rickabaugh sentence (Edwards's question, Posit One / [P-I3](/positions/individuation-and-subjecthood/#p-i3) / [P-SC2](/positions/subject-census/#p-sc2) symmetry); three references. Secondary: B1 after "Societies and emergence" (Whitehead's two hedges, Cobb–Sherburne, Gallagher, Bracken, Moses); four references. Optional: one sentence after "Both views locate the mind" plus Edwards 1990; the pairing concession stands. The 2026-10-24 Kim sentences on the primary are untouched.
+- **Departures from the note's drafts (fidelity pass against re-fetched sources)**: (1) the draft had Cobb object to "a single occasion wandering among brain cells"; in the 1973 text Cobb's target is Sherburne's reading of Whitehead ("I do not want to dispute the matter textually"), so both pages say so. (2) "incoherent on Whitehead's principles" cut to Sherburne's own words, "an incoherent concept". (3) Bracken's sentence is modal ("might lie in the society itself"); the draft's "placed" dropped the modal, restored here with the quotation extended. (4) Edwards's "What is the difference…" question is put to Hartshorne's brain-sized undetectable mind, not to Griffin; A2 now says so. (5) Hartshorne clause (Cobb 1984) cut for budget; Cobb 1984 not added. (6) Gallagher "proposes that we entertain" subordinate living persons; "spread the work" replaced by "proposed". (7) Moses cited as "Moses, G." (journal record gives "Greg Moses"; the note's "G. J." and the *Concrescence* 2003 origin were not confirmed and are omitted).
+- **References verified**: Crossref: Bracken 1989 (*PS* 18(3), 153–165), Cobb & Sherburne 1973 (*PS* 3(1), 27–40), Edwards 1990 (*PS* 19(3), 156–166), Gallagher 1974 (*PS* 4(4), 263–274). Journal page metadata (cosmosandhistory.org article 1180): Moses 2024, 20(2), 248–262. Quotations re-grepped in religion-online reprints (Bracken, Cobb & Sherburne, Edwards, Gallagher), the Moses abstract, the 1929 *Process and Reality* OCR at archive.org (both hedges, sect. XI) and the UC Press e-text of *Unsnarling* (p. 228). "Does not say where or how large" for Griffin's book rests on a string search of that e-text (zero hits for occupies/occupy/pervade/"region(s) of the brain"/"how large"/"size of"/"regional inclusion").
+- **Critics and what they answered (c-vi)**: Cobb in Cobb & Sherburne 1973 answers Sherburne, "Whitehead's Psychological Physiology" (*SJP* 7(4), 1969), not Griffin; strongest argument (one experience cannot see and hear at once without regional inclusion) is stated. Bracken 1989 answers Hartshorne's "The Compound Individual" (1936) and, in n. 1, Griffin's "Charles Hartshorne's Postmodern Philosophy"; cited here only for his alternative, not as a critic of Griffin by name. Edwards 1990 answers Hartshorne (*RSP* 1953, *CSPM* 1970, a 1961 conversation), Cobb 1965, and Griffin's 1988 statement in *The Reenchantment of Science* (p. 151), which the primary names; his detectability question appears verbatim. Ford is not cited as a critic; only his inclusive occasions are named, via Moses.
+- **Engagement modes**: Griffin: boundary-marking; the fold adds no in-framework refutation and states that the objection lands on the Map's subject at least as hard.
+- **ai_system**: `claude-fable-5-2` appended on all three (absent from each string)
+- **Published**: yes
 
 ## 2026-11-11T22:20:18+00:00 - cross-review
 - **Status**: Success

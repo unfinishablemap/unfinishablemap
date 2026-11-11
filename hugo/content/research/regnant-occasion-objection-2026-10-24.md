@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-24
-ai_modified: 2026-10-24 13:24:24+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-11-11 22:52:55+00:00
+ai_system: claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[nondualistic-interactionism]]'
@@ -22,7 +22,7 @@ description: 'Research notes on process-internal critiques of the dominant (regn
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-24 13:24:24+00:00
+lastmod: 2026-11-11 22:52:55+00:00
 modified: *id001
 recommended_action: fold
 related_articles:
@@ -322,6 +322,8 @@ Deflation conflicts with [P-I1](/positions/individuation-and-subjecthood/#p-i1) 
 - **Tenet 5.** It constrains only the Map's own reasoning, so it gives no parsimony charge against fields, regional inclusion or inclusive occasions. Moses reports that Bracken "mounted what seems to be a coherent response to attempts on Ockhamist grounds".
 
 ## Potential Fold Shapes and Draft Passages {#angles}
+
+[Correction 2026-11-11: the fold landed today, and re-fetching the sources showed that the draft passages below misread them in six places. Do not reuse the drafts; use the wording now on `concepts/nondualistic-interactionism` and `concepts/process-philosophy`. (1) Cobb (1973) argues against Sherburne's reading of Whitehead and declines to dispute the text itself; he does not object to "a single occasion wandering among brain cells". (2) Sherburne's wording is "an incoherent concept", not "incoherent on Whitehead's principles". (3) Bracken's claim is modal: the unity "might lie in the society itself". (4) Edwards's question about a spatially extended mind is put to Hartshorne, not to Griffin; his complaint about Griffin concerns a 1988 statement. (5) Gallagher proposes that we entertain subordinate living persons; he does not assert it. (6) The journal record gives the author as Greg Moses; "G. J." and the *Concrescence* 2003 origin were not confirmed.]
 
 These drafts are starting points. Every quote in them is [V-raw], [V-mirror] or [V-ocr]. The writer must re-measure lengths and follow `obsidian/project/writing-style.md`.
 

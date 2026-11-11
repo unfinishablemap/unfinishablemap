@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-31 21:27:56+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 22:51:18+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:01:13+00:00
-lastmod: 2026-10-31 21:27:56+00:00
+lastmod: 2026-11-11 22:51:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ Location promises to dissolve the pairing problem while maintaining dualism's co
 
 **The developmental refinement**: A further response appeals to [interface locality](/concepts/brain-interface-boundary/): the coupling's specificity to one brain is *built* through neural development rather than stipulated. The mechanism is progressive mutual adaptation. As the nervous system develops, it incrementally meets the [five criteria](/concepts/brain-interface-boundary/#five-criteria-for-an-interface) for a consciousness interface—quantum sensitivity in maturing neural structures, representational capacity as cortical maps form, attention mechanisms as frontoparietal networks wire up, and feedback loops as sensory-motor circuits close. At each stage, the developing interface constrains what consciousness can select among, and what consciousness selects shapes subsequent neural wiring through activity-dependent plasticity. The result is a coupling tuned to *this* brain through billions of iterative interactions. That history is the route to an adequate, paired interface and the evidence for one, not what constitutes the pairing ([P-CS7](/positions/consciousness-scope/#p-cs7)). Taken as the pairing's ground, it would explain mind-brain interaction by mind-brain interaction, since the first iteration already needs *this* consciousness interacting with *this* nervous system—the circle Bailey, Rasmussen and Van Horn avoid by splitting the question (Response 2). Co-construction bears only on the diachronic half, why the coupling stays specific; the pairing law and the pairing's onset stay owed ([P-SC2, P-SC3](/positions/subject-census/)).
 
-**A same-kind answer**: David Ray Griffin's [nondualistic-interactionism](/concepts/nondualistic-interactionism/) answers pairing by location and co-membership. The mind's dominant occasions have "a determinate spatiotemporal location relative to all others" (1998, p. 228), and the mind arises "out of the activities of billions of neurons" (p. 186) within one compound individual. Both views locate the mind. Griffin's needs no interface story, since like acts on like, but gives up the difference in kind; the Map's keeps it and so needs the interface.
+**A same-kind answer**: David Ray Griffin's [nondualistic-interactionism](/concepts/nondualistic-interactionism/) answers pairing by location and co-membership. The mind's dominant occasions have "a determinate spatiotemporal location relative to all others" (1998, p. 228), and the mind arises "out of the activities of billions of neurons" (p. 186) within one compound individual. Both views locate the mind. Griffin's book does not say where in the brain those occasions are or how large, a gap Rem B. Edwards (1990) pressed on an earlier statement of his; the pairing answer needs a determinate location and co-membership, not a size, and the Map's own pairing law is still owed. Griffin's view needs no interface story, since like acts on like, but gives up the difference in kind; the Map's keeps it and so needs the interface.
 
 ## Response 2: Bailey, Rasmussen and Van Horn's Two-Premise Reply
 
@@ -202,5 +202,6 @@ The [objections-to-interactionism](/concepts/objections-to-interactionism/) arti
 1. Swinburne, R. (2015). "The Argument from Souls to God." *Religious Studies* 51(3): 293-305.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Zimmerman, D. (2010). "From Property Dualism to Substance Dualism." *Aristotelian Society Supplementary Volume* 84(1): 119-150.
+1. Edwards, R. B. (1990). "Process Thought and the Spaciness of Mind." *Process Studies* 19(3): 156-166.
 1. Griffin, D.R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
 1. Jahn, R.G., & Dunne, B.J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration* 19(2): 195-245.
