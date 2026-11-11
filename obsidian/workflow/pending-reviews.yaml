@@ -163,10 +163,14 @@
   prompt_summary: 'Hostile referee audit: pain-consciousness-and-causal-power (premise
     attack + source check)'
   target_filename: outer-review-2026-11-10-gemini-3-1-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 0
-  last_attempt_at: null
-  failure_reason: null
+  last_attempt_at: '2026-11-11T00:50:50.745561+00:00'
+  failure_reason: 'report never generated: at 00:51Z 2026-11-11 (~20.5h after commission)
+    Deep Research had browsed 123 sites and its thinking log ended ''Finalizing comprehensive
+    evaluation report'', but the tile still read ''Creating your report...'' with
+    the Stop button live and zero h1 report panels, after two full page loads. Same
+    hang as the 2026-10-28 leg.'
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies) assessing "Pain, Consciousness,
     and Causal Power" at https://unfinishablemap.org/topics/pain-consciousness-and-causal-power/
