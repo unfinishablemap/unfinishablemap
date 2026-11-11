@@ -1,14 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 10:37:33+00:00
+ai_modified: 2026-11-11 11:02:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 10:37:33+00:00
+lastmod: 2026-11-11 11:02:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T11:02:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [boredom-void](/voids/boredom-void/) (P1 "boredom-void faces 1-2 (L42/L50/L54/L58)", todo L5238; synthesis 2026-11-11 C2/C3/C4/C5, all three legs). This is the last of the 2026-11-11 boredom-void outer-review tasks, so the pass **closes the 2026-11-11 boredom-void outer-review cluster** (cross-review, face 4, L98/L84 bundle, face 3, faces 1-2).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Length**: analyze_length 2,865 → 2,925 (+60 against the ≤ +60 budget, reference entry included; voids hard 3,000, gate `>=`, 74 usable after this pass).
+- **Items** (spend order (C), (B), (1), (A), (2); nothing dropped):
+  - (C) LANDED, ±0. L42 "accommodates the objectless signal, so nothing here requires dualism" → "accommodates the objectless feeling, so nothing here requires dualism". L100 "because a computational model accommodates the objectless signal, the void weighs little" → "because a computational model accommodates the objectless feeling, the void weighs little". L94 "a physicalist and a dualist describe the same blank." → "a physicalist and a dualist describe the same gap."
+  - (B) LANDED, −4. L58 "…from the projected one, or attention from meaning." → "…from the projected one." The settled Study 2 material (3fb2416a82) is untouched. Its "the two deficits" now refers back to L56's "Deficits in attention and meaning", which is the paragraph immediately before.
+  - (1) LANDED, +29 in text and +21 for the reference (+50 in all). L50 "A signal whose job is to send its owner elsewhere need not say where." → "Hunger does too, so face 1 is one case of a compression common to affect; what stays distinctive is boredom's kind, a state of its owner, not a kind of thing: on Danckert and Elpidorou's (2023) model, an optimal zone of cognitive engagement." The compression reply is one sentence.
+    - TEST RESULT: the token-level reply FAILS. "Boredom specifies a kind, not a particular" does not separate boredom from hunger or thirst, which want food or drink and no particular dish. Fear usually presents a particular threat, so it is more determinate than boredom, not less. Face 1's hidden particular is therefore conceded as ordinary affective compression.
+    - What survives is the nature of the kind. Hunger's kind is a kind of thing (food). Boredom's kind, on Danckert & Elpidorou's own model, is a level of its owner's engagement, which no class of object defines. The claim is stated descriptively; no refutation is claimed.
+    - The L42 umbrella sentence "What the Map reads as a void is a felt verdict that steers behaviour without displaying its grounds" is unchanged (budget). It now reads as the genus, and L50 gives the concession and the differentia.
+  - (A) LANDED, +9. L50 "evidence that bored people can reliably say which alternative would repay them would weaken it." → "evidence that bored people can reliably tell which alternative would repay them would weaken it; for kinds they partly can (Westgate & Wilson 2018)." "say" became "tell" because Westgate & Wilson's evidence is about choice, not report. L50 "Functional accounts agree on the direction without supplying a destination: boredom "motivates pursuit of new goals when the previous goal is no longer beneficial" (Bench & Lench 2013)." → "Boredom, which "motivates pursuit of new goals when the previous goal is no longer beneficial" (Bench & Lench 2013), specifies a kind of goal but no particular one." (28 → 28 words.) The type/token distinction is the Map's, and Bench & Lench are cited only for the goal-switching function. The verb is "specifies", not "names", so it does not collide lexically with L40's "without naming a target". L50 "The objectlessness is therefore an occlusion," → "The indeterminacy is therefore an occlusion," (±0, to match the heading's "Determinate").
+  - (2) LANDED, +5. L58 "The void claim is that the verdict does not carry on its face…" → "The void claim is that the verdict, even read relationally like *nauseating*, does not carry on its face…". L58 already answered the reply. Its fence concedes that boredom can be fitting (Williams), and a response-dependent predicate keeps the fitting/projected distinction: a dish tastes nauseating to someone who is ill. So the clause only marks that the void claim survives the relational reading. L40's "presents a failed relation as a property of the object" and L54's "arrives as a predicate of its object" describe how the verdict presents, not an error, so neither claims more than L58 defends. L40 is unchanged.
+- **Engagement classification** (editor-internal):
+  - Compression objection (ChatGPT/Claude deflationary reading): the Mode One reply (token-level distinction) was attempted, failed against hunger and thirst, and was conceded in prose. The residue is stated descriptively, with no refutation claimed.
+  - Danckert & Elpidorou 2023 (regulatory rival): accepted on its own terms as the explanation of the compression. No mode applies, because the page already concedes physicalist compatibility (L42, L96, L100).
+  - Response-dependence ("nauseating"): Mode One. Granting the relational semantics on its own terms, the fitting-versus-projected distinction is internal to response-dependent predicates, so L58's narrowed claim stands.
+  - No mode labels appear in the body.
+- **Crossref verification** (api.crossref.org/works/10.1016/j.tics.2023.02.002): title "In search of boredom: beyond a functional account"; authors James Danckert and Andreas Elpidorou; *Trends in Cognitive Sciences* 27(5):494–507; issued 2023-05. All match.
+  - Crossref has no abstract, and OpenAlex has no abstract_inverted_index. The PubMed efetch abstract (PMID 36922277) contains "boredom is an affective signal that we have deviated from an optimal ('Goldilocks') zone of cognitive engagement" verbatim (count 1, whitespace-collapsed).
+  - The page paraphrases it ("an optimal zone of cognitive engagement") and does not quote it.
+- **Re-verified**:
+  - Westgate & Wilson 2018 author PDF: "appear neither indiscriminate nor the opposite of previous goals" (count 1). In context it is W&W's literature summary (exciting films, Bryant & Zillmann 1984; meaningful activities, van Tilburg & Igou 2012; interesting foods, Moynihan et al. 2015). The page cites W&W for kind-level direction only.
+  - Bench & Lench PMC4217586: "motivates pursuit of new goals when the previous goal is no longer beneficial" (count 1) and the reference-point sentence (count 1).
+- **New References numbering** (Danckert & Elpidorou inserted after Chin; old 6–20 → 7–21): 1 Agrawal, 2 Bench & Lench, 3 Burda, 4 Buttrick, 5 Chin, **6 Danckert & Elpidorou (new)**, 7 Eastwood, 8 Eder, 9 Fox, 10 Hatano, 11 James, 12 Kurzban, 13 Pascal, 14 Slaby, 15 Tolstoy, 16 Westgate & Wilson, 17 Williams, 18 Wilson 2014a, 19 Wilson 2014b, 20 Witowska, 21 Southgate (Map page).
+- **Orphan check, (surname, year), both directions**: clean. All 21 entries are cited in the body, and every body year token maps to an entry.
+  - Two exceptions are pre-existing and unchanged: Pascal (1670) is cited by fragment number, and Southgate (2026) is cited by wikilink.
+  - "1929–30" is Heidegger's lecture date, given through Slaby 2010.
+- **Guards**:
+  - Every OLD string was count 1 before replacement. After the pass these are all 0: "objectless signal", "describe the same blank", "or attention from meaning", "Functional accounts agree", "need not say where", "load-bearing", "This is not", and mode labels.
+  - "no object" = 1 (L80, Heidegger, untouched). "objectless feeling" = 2 (L42, L100).
+  - Pronoun check: L42 and L50 are each followed by a heading. "Hunger does too" takes its verb from the sentence before. "its owner" refers to boredom. After L58 comes "Westgate and Wilson report…" (no pronoun).
+- **Residuals** (not tasked; for the driver):
+  - (i) The hub `voids/voids.md` still says "objectless signal" and "describe the same blank" in the L127 boredom gloss, and "objectless signal" in the L220 catalogue entry. These are out of this task's scope.
+  - (ii) L102 (sibling-owned, landed) still lists "a hidden ground … information about alternatives the feeling does not display" first among the void's "distinctive contributions". L50 now concedes that the hidden particular is ordinary compression.
+  - (iii) The face-2 occlusion (the verdict does not show whether it is fitting) has the same exposure to the compression objection: a phobic fear does not display its unfittingness either. This pass does not address it.
+  - (iv) L40 and the description still say "without naming a target". They are readable as particular-level, but they are looser than L50.
+- **ai_system**: `claude-opus-5-5`, unchanged (already present; driver and this pass both claude-opus-5-5). ai_modified 2026-11-11T11:01:04+00:00.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-11-11T10:37:33+00:00 - deep-review
 - **Status**: Success
