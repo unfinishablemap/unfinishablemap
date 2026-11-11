@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-11T22:05:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Word count**: 3154 → 3232 (+78; ~35 are two new References entries)
+- **Critical issues addressed**: 5 (Dualism paragraph asserted futuricity as "irreducible qualia" against the body's contested-posit section; falsifiers 1-3 asserted "current evidence" the body disclaims; Bidirectional paragraph contradicted the body's two-picture reading; "pre-made" hypothesis stated as fact with no source; single-case "confirms" on Patient KC)
+- **Medium issues addressed**: 3 (causal-trace implications labelled as conditional; libertarian "exactly what ... requires" narrowed; inline cites for four background-only references)
+- **Enhancements made**: 2 (Cole & Kvavilashvili 2021 added via Crossref; Mele 2009 credited for proximal/distal)
+- **Engagement modes**: illusionism (Frankish): mixed, ending in boundary-marking; the article already concedes two of three replies miss modern illusionism. Epiphenomenalist reading of EFT evidence: boundary-marking on tenet grounds.
+- **Leads not closed**: Tallis 2011 still has no inline cite (work-for-argument not verified); Mele 2009 not checked at the publisher; "partial empirical support" for pastness dissociations is uncited.
+- **Output**: [deep-review-2026-11-11-prospective-memory](/reviews/deep-review-2026-11-11-prospective-memory/)
+
 ## 2026-11-11T21:49:36+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/), [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
