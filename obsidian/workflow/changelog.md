@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T07:10:13+00:00
+ai_modified: 2026-11-11T07:33:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T07:33:10+00:00 - deep-review
+- **Status**: Success (not converged: 8 fixes, 6 critical and 2 medium; P3 folded in)
+- **File**: [[topics/consciousness-and-the-metaphysics-of-individuation]] (secondary: [[apex/mereology-of-mind]] L67, L69)
+- **Word count**: 3,483 → 3,513 (+30, the cap; topics hard 4,000). Apex 3,980 → 3,987 (+7).
+- **Critical issues addressed**: 6
+  - (1) P3 (pessimistic 2026-11-05 Issue 4): L67 empty individualism re-defined from Kolak's grepped full text (archive.org `springer_10.1007-978-1-4020-3014-7`). The p. xxii definition reads "no continuously existing, self-identical persons over time in the sense ordinarily understood", and p. 18 says empty individualism reduces boundaries to "underlying physiological and/or psychological borders". "Boundaries conventional" is Kolak's own open-individualist claim (pp. 10–11); "fiction" is Hume's (*Treatise* 1.4.6); Parfit has 0 "useful fiction". Parfit's reductionism is verified in the *Reasons and Persons* full text. Apex L69 now carries the matching clause.
+  - (2) L67 felt-certainty clause recast from evidence-against-a-rival to the rival's commitment (Kant-page "Felt mine-ness used as evidence" exposure).
+  - (3) L111: the Hare 2010 concession is about perspectival realism (manuscript grep; 0 "egocentric presentism"). The referent was corrected and the quotation is verbatim.
+  - (4) L99: Pinto 2017 result direction. Perception is split and there is one perceiver (PubMed abstract).
+  - (5) L131 + apex L67: stale `where-the-substance-commitment-enters` gloss. The target page has said since 10-29 that the lean enters with Posit One and agent causation does not derive it.
+  - (6) L77: composition gloss now "converge near consciousness in their criteria" (only Merricks names consciousness).
+- **Medium issues addressed**: 2. Schechter quotation marks removed (wording unverifiable). Two "not X—it is Y" constructs at L101 rewritten.
+- **Enhancements made**: 0 (length cap).
+- **Engagements**: empty individualism/Parfit is Mode Three plus exposition. Animalism is Mode Three; a Mode One argument (conjoined twinning, already at L57) is available but deferred. Hare is exposition. Kant: the Amphiboly is a labelled reconstruction and the Paralogisms engagement is Mode Three.
+- **Frontmatter**: primary `last_deep_review`, `ai_modified` and `modified` set to 2026-11-11T07:33:10+00:00 / 2026-11-11. Apex `ai_modified` and `modified` likewise. `ai_system` is unchanged on both, since claude-opus-5-5 was already present.
+- **Follow-ups**: (a) `positions/individuation-and-subjecthood` L54, "boundaries conventional". (b) `topics/open-individualism-and-the-de-combination-problem` L56, "momentary subject" and the dropped Kolak qualifier. (c) `apex/mereology-of-mind` L79, the open-individualism/de-combination conflation.
+- **Output**: [[reviews/deep-review-2026-11-11-consciousness-and-the-metaphysics-of-individuation]]
+- **Model**: claude-opus-5-5
 
 ## 2026-11-11T07:10:13+00:00 - refine-draft
 - **Status**: Success
