@@ -1,10 +1,10 @@
 ---
 title: "The Boredom Void"
-description: "Human+AI exploration of why boredom demands a change of engagement without naming a target, and presents a failed engagement as a dullness in the object."
+description: "Human+AI exploration of why boredom demands a change of engagement without naming a particular target, and presents a failed engagement as a dullness in the object."
 created: 2026-10-31
 modified: 2026-11-11
 human_modified:
-ai_modified: 2026-11-11T11:01:04+00:00
+ai_modified: 2026-11-11T16:34:00+00:00
 draft: false
 topics:
   - "[[structure-of-attention]]"
@@ -32,12 +32,12 @@ related_articles:
   - "[[research/voids-boredom-void-2026-10-31]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-10-31
 last_curated:
 ---
 
-Boredom is a common occasion on which consciousness reports on its own engagement, and the report is hard for its owner to read. A widely cited synthesis defines it as "the aversive experience of wanting, but being unable, to engage in satisfying activity" (Eastwood et al. 2012). The Unfinishable Map reads four limits in that experience as a void, each explained below: boredom [[#objectless|demands a change of engagement without naming a target]]; it [[#projection|presents a failed relation as a property of the object]]; the untrained mind [[#self-supply|struggles to occupy itself with thought and underpredicts how much it will enjoy trying]]; and, by the attention-based definition alone, [[#examination|satisfying engaged study of a bout ends it]].
+Boredom is a common occasion on which consciousness reports on its own engagement, and the report is hard for its owner to read. A widely cited synthesis defines it as "the aversive experience of wanting, but being unable, to engage in satisfying activity" (Eastwood et al. 2012). The Unfinishable Map reads four limits in that experience as a void, each explained below: boredom [[#objectless|demands a change of engagement without naming a particular target]]; it [[#projection|presents a failed relation as a property of the object]]; the untrained mind [[#self-supply|struggles to occupy itself with thought and underpredicts how much it will enjoy trying]]; and, by the attention-based definition alone, [[#examination|satisfying engaged study of a bout ends it]].
 
 The faces differ in standing. Faces 2 and 3 rest on experiments with their own limits. In the best-known, 12 of 18 men and 6 of 24 women gave themselves an electric shock they had said they would pay to avoid, during fifteen minutes alone with their thoughts (Wilson et al. 2014a); the sample is small and its interpretation disputed (Fox et al. 2014). Face 1 holds on one model and face 4 on one definition. A computational model with no dualist commitments accommodates the objectless feeling, so nothing here requires dualism. What the Map reads as a void is a felt verdict that steers behaviour without displaying its grounds.
 
@@ -55,7 +55,7 @@ Situational boredom arrives as a predicate of its object: this lecture, this que
 
 Westgate and Wilson's (2018) Meaning and Attentional Components (MAC) model splits the cause into a mismatch between cognitive demands and mental resources and a mismatch between the activity and valued goals. They report support for the predictions that "Deficits in attention and meaning each produce boredom independently of the other" and that "boredom results from two types of attentional deficits, understimulation and overstimulation." One verdict covers *too easy*, *too hard* and *pointless*, even when people "become bored with their own thoughts" and no external object is there to blame. Pascal saw this: man "would weary even without any cause for weariness from the peculiar state of his disposition" (*Pensées*, fr. 139, Brunschvicg numbering, trans. Trotter, whose "weariness" renders *ennui*).
 
-The claim needs a fence. Bernard Williams held that "not being bored can be a sign of not noticing, or not reflecting, enough" (Williams 1973), so boredom is sometimes fitting and the projection is not always an error. The void claim is that the verdict, even read relationally like *nauseating*, does not carry on its face what would distinguish the fitting case from the projected one. Westgate and Wilson report "different profiles of boredom" for the two deficits, and in their Study 2, a 2×2 design (N = 216), the self-reported profiles separated them: the attention manipulation alone predicted the Inattention subscale of a state boredom scale, and the meaning manipulation alone predicted the disengagement, affect and time-perception subscales. What remains open is attribution: whether a bored person can say which deficit made her bored, a question Study 2 did not ask.
+The claim needs a fence. Bernard Williams held that "not being bored can be a sign of not noticing, or not reflecting, enough" (Williams 1973), so boredom is sometimes fitting and the projection is not always an error. The void claim is that the verdict, even read relationally like *nauseating*, does not carry on its face what would distinguish the fitting case from the projected one. Fear shares that limit; boredom's addition is one verdict over unlike causes. Westgate and Wilson report "different profiles of boredom" for the two deficits, and in their Study 2, a 2×2 design (N = 216), the self-reported profiles separated them: the attention manipulation alone predicted the Inattention subscale of a state boredom scale, and the meaning manipulation alone predicted the disengagement, affect and time-perception subscales. What remains open is attribution: whether a bored person can say which deficit made her bored, a question Study 2 did not ask.
 
 ## The Mind Alone With Itself {#self-supply}
 
@@ -99,7 +99,7 @@ On the Map's [[three-kinds-of-void|three-kinds taxonomy]] the boredom void is mi
 
 **Dualism** is compatible, without a discriminator. Boredom's phenomenal character is no harder for physicalism than any other affect's, and because a computational model accommodates the objectless feeling, the void weighs little for dualism. None of the psychologists cited is enlisted for it. **Minimal Quantum Interaction** and **No Many Worlds** have no bearing on this void.
 
-The void's distinctive contributions are a hidden ground that is, on the opportunity-cost model, information about alternatives the feeling does not display, and a forecast error that avoidance may shield from correction, a candidate mechanism that involuntary waiting could test: a forecast that survives queues points to a memory or forecasting bias instead.
+The void's distinctive contributions are a wanting whose kind is a state of its owner (its hidden alternative is ordinary affective compression), and a forecast error that avoidance may shield from correction, a candidate mechanism that involuntary waiting could test: a forecast that survives queues points to a memory or forecasting bias instead.
 
 ## Further Reading
 

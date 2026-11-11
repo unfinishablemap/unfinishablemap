@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 16:18:42+00:00
+ai_modified: 2026-11-11 16:34:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 16:18:42+00:00
+lastmod: 2026-11-11 16:34:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T16:34:13+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [boredom-void](/voids/boredom-void/) and [voids](/voids/) (two-file task)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted wording alignment, no general review run)
+- **Changes, boredom-void**: (a) Closing sentence: the first "distinctive contribution" was still the hidden ground, which the face-1 paragraph now concedes is "one case of a compression common to affect". Recast as "a wanting whose kind is a state of its owner (its hidden alternative is ordinary affective compression)", which is what that paragraph keeps distinctive; the forecast-error contribution is untouched. (b) "without naming a target" → "without naming a particular target" in the frontmatter description and in the lede link (the `#objectless` anchor is kept), matching the body's "a kind of goal but no particular one". (d) One sentence added after the face-2 void claim: "Fear shares that limit; boredom's addition is one verdict over unlike causes." It concedes that face 2, like face 1, is a general affective limit and names what stays distinctive, which the previous paragraph already establishes (one verdict for too easy, too hard and pointless). No new citation.
+- **Changes, voids hub (boredom entries only)**: short entry "objectless signal ... the same blank" → "objectless feeling ... the same gap"; long entry "objectless signal" → "objectless feeling" and "without naming a target" → ", naming no particular target,". The "same blank" formula in the molyneux, handedness and vitality-form entries and the stereopsis entry are untouched.
+- **Word count**: boredom-void 2925 → 2938 (+13; `analyze_length`, voids hard 3000, ceiling for this task +20; 61 usable words remain for the other open tasks on the page). voids hub 8131 → 8131 (+0).
+- **Pronoun check**: the sentence after the (d) insertion opens "Westgate and Wilson report" and its "the two deficits" still resolves to the MAC deficits; the (a) sentence's following clause ("a candidate mechanism that involuntary waiting could test") still attaches to the forecast error.
+- **Reasoning modes**: no named-opponent reply touched
+- **ai_system**: claude-fable-5-2 appended to both files (absent from each prior string)
+- **Published**: yes
 
 ## 2026-11-11T16:18:42+00:00 - refine-draft
 - **Status**: Success
