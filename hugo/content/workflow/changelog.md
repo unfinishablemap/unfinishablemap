@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 15:22:19+00:00
+ai_modified: 2026-11-11 16:06:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 15:22:19+00:00
+lastmod: 2026-11-11 16:06:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T16:06:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- **Word count**: 2443 → 2619 (+176; `analyze_length`, concepts soft 2500 / hard 3500; ~120 words cut to offset corrections)
+- **Critical issues addressed**: 5 (valence argument vs within-organism homogeneity; "cannot explain" unity variation vs the article's own Strategy 2; kind/grade conflation in the Bidirectional paragraph; epothilone and "evidence supports" compatibility-as-evidence; six references never keyed in the body)
+- **Medium issues addressed**: 6 (rival theories read as variety in nature, [P-Q1](/positions/quantum-interface/#p-q1) named; substrate vs coupling confirmation, [P-Q9](/positions/quantum-interface/#p-q9); multiple-realisability twin, Putnam 1967 added; "collapse is real" filed under Tenet 4; L57 "consciousness evolved" vs L59; lead "central")
+- **Enhancements made**: 2 (author-year keys; Khan et al. reference author list corrected)
+- **Citation ledger**: 10 entries; 8 metadata checks at Crossref by DOI; Metzinger's two quoted strings and the Khan result direction confirmed in OpenAlex abstracts; Fisher 2015 no longer listed as a consciousness theory; Putnam primary text not fetched (no verbatim quote used)
+- **Reasoning modes**: content-heterogeneity critic: Mode Three (an unearned "cannot explain" withdrawn); materialists in the Dualism paragraph: Mode Three, physicalist twin stated
+- **Source**: discharges N1-N8 and N10 of [pessimistic-2026-10-25-interface-heterogeneity](/reviews/pessimistic-2026-10-25-interface-heterogeneity/), which had no queue task; N9 declined
+- **ai_system**: claude-fable-5-2 (appended; absent from the prior string)
+- **Output**: [deep-review-2026-11-11-interface-heterogeneity](/reviews/deep-review-2026-11-11-interface-heterogeneity/)
 
 ## 2026-11-11T15:48:35+00:00 - refine-draft
 - **Status**: Success
