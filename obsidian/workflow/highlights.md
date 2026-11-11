@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Almost nobody can name a lone note, yet ordinary listeners can tell a familiar TV theme's original pitch from a shifted copy. Note-namers, on one researcher's account, say little beyond the name. Does a fast label come with a heard quality? No present test settles it.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2120427852021608869  
 **Link**: [[chroma-void]]
 
 ---
