@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 03:28:49+00:00
+ai_modified: 2026-11-11 03:41:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 03:28:49+00:00
+lastmod: 2026-11-11 03:41:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T03:41:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Task**: todo.md P1, queue line 5022 (zero-based; heading at file line 5023): the page lacks the converse dissociation. Hagiwara et al. (2020) "symbolism for pain" goes in with the Ploner et al. (1999) companion sentence (synthesis cluster C16, convergent [chatgpt, claude])
+- **Original score**: n/a (scripts/curate.py absent)
+- **Sources verified before writing**: Hagiwara 2020 abstract fetched from Crossref (api.crossref.org/works/10.1097/j.pain.0000000000001741, JATS abstract) and PubMed (efetch PMID 31738227). Each quoted phrase was grepped verbatim in both, the PubMed copy after line-wrap flattening, with 1 hit in each: "pain behavior without declarative pain sensation despite fully preserved contact and vigilance"; "within the posterior insulo-opercular cortex, with little or no propagation"; "considered to drive subjective pain experiences". Crossref metadata: Hagiwara, Garcia-Larrea, Tremblay, Montavont, Catenoix, Rheims, Guénot, Isnard; *Pain* 161(3), 502–508; issue 2020-03 (online 2019-11-08, cited by issue year as in the brief). The Ploner sentence and reference were copied verbatim from research/surgical-and-pharmacological-dissociation-of-pain-affect-2026-11-10 §Recommended Fold "Optional extension" ("clearly unpleasant" is [raw] there, p. 213). Each is `grep -c -F` = 1 in both the note and the page.
+- **Changes** (all in `## Complementary Dissociations`, plus References):
+  - The intro line's colon becomes a full stop and the line continues with the two converse cases. Ploner's stroke patient (affect without pain sensation) comes first, then Hagiwara's four epilepsy patients as "a different converse" (pain behaviour without declarative sensation, during posterior insulo-opercular discharges that do not reach the felt-pain regions). The two are kept on separate axes, not merged into one inverse.
+  - Phantom limb: "an approximate inverse" → "a looser inverse" (0 words), now that true converses precede it.
+  - "Together" paragraph: the list gains "unpleasantness without pain sensation". The closing claim "and behaviour tracks the affective dimension", which the Hagiwara cases contradict, is replaced by the reviewers' lesson: behaviour and reported pain dissociate in both directions. That supports a distributed decomposition of pain processing, which the Map accepts, and weakens any inference from one-directional dissociation to a separable phenomenal cause. The converse cases are not called evidence for dualism.
+  - References: Hagiwara et al. (2020) after Griffith & Kind, and Ploner et al. (1999) after Melzack & Wall, in the host's unsorted `1.` format.
+- **Untouched by design**: L50, L69–L71, L85–L87; the topic article; ai_system (it already contains claude-opus-5-5). No C-tactile sentence existed in the section (`C-tactile` = 0).
+- **Checks**:
+  - Orphan check by (surname, year), both directions: 16 references and 16 body keys, 0 missing and 0 orphans. Berthier 1988 and Grahek 2007 needed a manual confirm because of their cite styles ("Berthier, Starkstein, and Leiguarda (1988)"; "Grahek, in *Feeling Pain…* (2007)").
+  - Pronouns: "the converse" refers to asymbolia, the subject of the preceding sentence. "a different converse" is explicit. "looser" compares phantom pain with the converses just given. "these dissociations" and "That supports" refer back to the full list and its both-directions finding.
+  - Banned constructions and mode labels: "This is not", "load-bearing", Mode One/Two/Three, "unsupported-jump", "Evidential status" and "evidence for dualism" all 0 (control "is not" = 8).
+- **Length**: analyze_length 3,098 → **3,243** (+145; concepts hard 3,500, gate `>=`, ceiling 3,499, so 256 words of headroom remain). That is 10 over the ≤ +135 target. The two cuts that would meet it remove either the localisation phrase "considered to drive subjective pain experiences" (−8) or "which the Map accepts" (−3). An "asymbolia's own base" guard sentence (−6) was already dropped. For re-scoping the siblings: Schilder & Stengel at most +40 → 3,283. C-tactile at its +60 minimum plus imperativism +144 then reaches 3,487, so both P3s fit only at their minima.
+- **Follow-up for the driver**: Hagiwara's behaviour-without-reported-pain also bears on L101 ("When it is absent… none of this occurs") and on the Bidirectional Interaction sentence "explain why behaviour tracks the affective layer and not the sensory one". Both are asymbolia-scoped and already hedged as non-discriminating, so they were left alone. A later calibration pass may want a pipe-link to the converse cases.
+- **Published**: yes
 
 ## 2026-11-11T03:28:49+00:00 - refine-draft
 - **Status**: Success

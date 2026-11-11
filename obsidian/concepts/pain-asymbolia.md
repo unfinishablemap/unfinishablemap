@@ -2,9 +2,9 @@
 title: "Pain Asymbolia"
 description: "Pain asymbolia dissociates nociceptive sensation from affective suffering, straining accounts that make unpleasantness intrinsic to nociceptive processing."
 created: 2026-02-15
-modified: 2026-11-10
+modified: 2026-11-11
 human_modified:
-ai_modified: 2026-11-10T16:06:04+00:00
+ai_modified: 2026-11-11T03:40:07+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -104,13 +104,13 @@ This response has considerable force. The Berthier patients' deficits extended w
 
 ## Complementary Dissociations
 
-Asymbolia gains additional significance when paired with complementary conditions:
+Asymbolia gains additional significance when paired with complementary conditions. One stroke patient showed the converse, a "clearly unpleasant" feeling with no identifiable pain sensation (Ploner et al. 1999). Hagiwara et al. (2020) describe a different converse: four epilepsy patients showing "pain behavior without declarative pain sensation despite fully preserved contact and vigilance", during seizure discharges "within the posterior insulo-opercular cortex, with little or no propagation" to regions "considered to drive subjective pain experiences".
 
-**[[phantom-limb-phenomena|Phantom limb pain]]** presents an approximate inverse dissociation: affective suffering without peripheral tissue damage at the felt location. Patients experience burning, crushing, or stabbing sensations in limbs that no longer exist. The affective-motivational dimension is fully present—phantom pain hurts terribly—even though the nociceptive signalling originates from reorganised central and stump neural activity rather than from the phantom site itself. The dissociation is between felt location and actual tissue state, not between suffering and all physical causation.
+**[[phantom-limb-phenomena|Phantom limb pain]]** presents a looser inverse dissociation: affective suffering without peripheral tissue damage at the felt location. Patients experience burning, crushing, or stabbing sensations in limbs that no longer exist. The affective-motivational dimension is fully present—phantom pain hurts terribly—even though the nociceptive signalling originates from reorganised central and stump neural activity rather than from the phantom site itself. The dissociation is between felt location and actual tissue state, not between suffering and all physical causation.
 
 **Hypnotic analgesia** indicates that top-down conscious processes can preferentially suppress pain's affective dimension while preserving sensory detection. Rainville et al. (1997) used PET to show that hypnotic suggestions altering unpleasantness without changing perceived intensity modulate anterior cingulate activity while leaving primary somatosensory activation unaltered, and Rainville et al. (1999) showed psychophysically that unpleasantness ratings can be shifted largely independently of intensity ratings—a pattern resembling asymbolia, though the reduction is typically partial, so the parallel is a graded approximation.
 
-Together, these dissociations show that pain's dimensions can be modulated separately—sensation without suffering, suffering without local tissue damage, affect suppressed while sensation persists. The phenomenal architecture of pain is not monolithic, and behaviour tracks the affective dimension.
+Together, these dissociations show that pain's dimensions can be modulated separately—sensation without suffering, unpleasantness without pain sensation, suffering without local tissue damage, affect suppressed while sensation persists—and that behaviour and reported pain dissociate in both directions. That supports a distributed decomposition of pain processing, which the Map accepts, and weakens any inference from one-directional dissociation to a separable phenomenal cause.
 
 ## Relation to Site Perspective
 
@@ -147,8 +147,10 @@ Together, these dissociations show that pain's dimensions can be modulated separ
 1. Gerrans, P. (2024). "Pain Suffering and the Self. An Active Allostatic Inference Explanation." *Neuroscience of Consciousness*, 2024(1), niae002. https://doi.org/10.1093/nc/niae002
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 1. Griffith, T. & Kind, A. (2024). "Pain Asymbolia is Not Pain." *Philosophy of Science*, 91(3), 561–578. https://doi.org/10.1017/psa.2023.167
+1. Hagiwara, K., Garcia-Larrea, L., Tremblay, L., Montavont, A., Catenoix, H., Rheims, S., Guénot, M., & Isnard, J. (2020). "Pain Behavior Without Pain Sensation: An Epileptic Syndrome of 'Symbolism for Pain'?" *Pain*, 161(3), 502–508. https://doi.org/10.1097/j.pain.0000000000001741
 1. Klein, C. (2015). "What Pain Asymbolia Really Shows." *Mind*, 124(494), 493–516. https://doi.org/10.1093/mind/fzu185
 1. Melzack, R., & Wall, P. D. (1965). "Pain Mechanisms: A New Theory." *Science*, 150(3699), 971–979. https://doi.org/10.1126/science.150.3699.971
+1. Ploner, M., Freund, H.-J., & Schnitzler, A. (1999). "Pain Affect Without Pain Sensation in a Patient with a Postcentral Lesion." *Pain*, 81(1–2), 211–214. https://doi.org/10.1016/S0304-3959(99)00012-3
 1. Rainville, P., Duncan, G. H., Price, D. D., Carrier, B., & Bushnell, M. C. (1997). "Pain Affect Encoded in Human Anterior Cingulate But Not Somatosensory Cortex." *Science*, 277(5328), 968–971. https://doi.org/10.1126/science.277.5328.968
 1. Rainville, P., Carrier, B., Hofbauer, R. K., Bushnell, M. C., & Duncan, G. H. (1999). "Dissociation of Sensory and Affective Dimensions of Pain Using Hypnotic Modulation." *Pain*, 82(2), 159–171.
 1. Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
