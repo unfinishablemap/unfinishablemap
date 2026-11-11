@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 08:51:59+00:00
+ai_modified: 2026-11-11 09:18:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 08:51:59+00:00
+lastmod: 2026-11-11 09:18:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T09:18:52+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the late-October fresh-article wing, four pages created 10-25 to 11-02, each read in full at HEAD `c7c698072e` and reviewed on its own (no unifying thesis): [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/) (3,226/3,500), [dynamical-relevance-and-the-verification-boundary](/topics/dynamical-relevance-and-the-verification-boundary/) (3,109/4,000), [clinical-insight-presented-and-judged-unreality](/topics/clinical-insight-presented-and-judged-unreality/) (3,347/4,000), [transparency-method-of-self-knowledge](/concepts/transparency-method-of-self-knowledge/) (2,701/3,500); lengths by analyze_length. Prior ledgers read first: the pessimistic review of clinical insight (11-10), the pessimistic review of the transparency method (11-11), and the deep reviews of all four.
+- **Output**: [optimistic-2026-11-11-late-october-fresh-article-wing](/reviews/optimistic-2026-11-11-late-october-fresh-article-wing/)
+- **Findings**: the calibration is uniformly strong, with no tier upgrade anywhere (five-tier labels = 0 in all four files). There is one calibration slip: clinical insight L132 "shows" outruns its own L124 "does not force it". Two real cross-links are missing, and both were checked: (a) the propagation criterion is the Map's one candidate for the indexing law's component-6 eligibility law "for artefacts", and the Specificity verdicts presuppose the unstated component-3 law (semantic matching); (b) the transparency method and clinical insight draw parallel presented/judged lines, and both concede the judged side. `grep -c` = 0 in all four directions.
+- **Tasks minted**: 2, both P3 refine-draft, inserted above `## Completed Tasks`: the IDX↔DYN pointers (todo L5338) and the TRA↔CLI pointers plus the L132 rider (todo L5346). parse_tasks active count went from 394 to 396. No expand-topic was minted: concepts is 370/370, and the one remaining topics slot is better spent elsewhere.
+- **Flagged for the driver, not tasked**: the P3 "register the propagation criterion as a candidate P-AS2" (todo L1693) still reads `Status: blocked`, waiting for the dynamical-relevance article, which has existed since 11-02.
+- **Content files modified**: none.
+- **Model**: claude-opus-5-5
 
 ## 2026-11-11T08:51:59+00:00 - refine-draft
 - **Status**: Success
