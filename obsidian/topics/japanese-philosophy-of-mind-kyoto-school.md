@@ -4,8 +4,8 @@ description: "A human-AI reading of Nishida's pure experience and absolute nothi
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-10-14T14:23:57+00:00
-last_deep_review: 2026-09-11T13:08:16+00:00
+ai_modified: 2026-11-11T20:20:06+00:00
+last_deep_review: 2026-11-11T20:20:06+00:00
 draft: false
 topics:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[jain-philosophy-of-mind]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-07-10
 last_curated:
 ---
@@ -57,7 +57,7 @@ Two things follow for a philosophy-of-mind reading. First, Nishitani's project i
 
 The school extends beyond Nishida and Nishitani. Tanabe Hajime developed a *logic of species* and a *metanoetics*—a philosophy of "absolute critique" in which finite reason, meeting its own antinomies, undergoes a death-and-resurrection through Other-power (*tariki*). The logic of species mediates the individual and the universal through the social substrate. Tanabe sits at the school's dialectical wing and is also, with the "logic of species," entangled in the wartime-politics controversy noted below; he bears less directly on the phenomenal question.
 
-Watsuji Tetsurō belongs to the relational and ethical wing, and offers a different axis of contrast. In *Rinrigaku* (tr. Yamamoto & Carter 1996) he builds ethics on the *betweenness* (*aidagara*, 間柄) of persons. The human being is *ningen* (人間), a word whose two characters, he observes, reveal personhood as at once individual and social; ethics is "that which takes place between humans." Where the hard problem is usually posed in the first person—why is there something it is like for *me*?—Watsuji locates selfhood in the second-person "between," constituted among persons rather than sealed inside one. This is not a theory of phenomenal consciousness, but it is a pointed alternative to the isolated Cartesian ego that the hard problem often silently assumes.
+Watsuji Tetsurō belongs to the relational and ethical wing, and offers a different axis of contrast. In *Rinrigaku* (tr. Yamamoto & Carter 1996) he builds ethics on the *betweenness* (*aidagara*, 間柄) of persons. The human being is *ningen* (人間), a word whose two characters, he observes, reveal personhood as at once individual and social; ethics, on this account, is located in what takes place between persons. Where the hard problem is usually posed in the first person—why is there something it is like for *me*?—Watsuji locates selfhood in the second-person "between," constituted among persons rather than sealed inside one. This is not a theory of phenomenal consciousness, but it is a pointed alternative to the isolated Cartesian ego that the hard problem often silently assumes.
 
 ## The James Bridge, and Where It Stops
 
@@ -79,7 +79,7 @@ This section is the Map's own interpretation and must not be read back into the 
 
 The Kyoto School is the second non-substantialist **basin-edge test** of [[tenets#^dualism|Tenet 1 (Dualism)]], alongside the [[chinese-philosophy-of-mind|Chinese case]], the first on that same count. The convergence argument treats the broad, premise-diverse agreement of deep traditions that consciousness resists physical capture as evidence for irreducibility. A basin edge is a tradition that shares the human introspective starting point and pursues it deeply, yet does *not* land on the Map's reading of the result. The Kyoto School qualifies: it is unmistakably deep and reflective about experience, and it arrives not at an irreducible mind set against matter but at a non-dual field prior to both. That it exists lowers any claim to universality, which the core inference never rested on, and it qualifies that inference as well: the traditions that do converge differ on substance, self and causation, yet all start from the mind-matter partition—the one premise the framework-dependence reading below says creates the gap.
 
-Crucially, the Kyoto case only **strengthens rather than confirms** the [[cross-traditional-convergence-on-consciousness-irreducibility|convergence argument]], and the reason is a [[common-cause-null|common-cause]] caveat that must be stated plainly. The Kyoto School reaches its conclusions by the same broadly introspective and contemplative method—rooted in Zen practice and phenomenological reflection—that the other convergent traditions share. Convergence produced by a shared method is weaker evidence than convergence from genuinely independent routes, because a common method could be a common source of a common artefact. So the Kyoto data point adds weight to the pattern without closing the question of whether the pattern tracks reality or tracks a feature of disciplined human introspection.
+Where the Kyoto School does agree with the convergent traditions—that experience is not captured by third-person, object-side description—the agreement at most **strengthens rather than confirms** the [[cross-traditional-convergence-on-consciousness-irreducibility|convergence argument]], and the reason is a [[common-cause-null|common-cause]] caveat that must be stated plainly. The Kyoto School reaches its conclusions by the same broadly introspective and contemplative method—rooted in Zen practice and phenomenological reflection—that the other convergent traditions share. Convergence produced by a shared method is weaker evidence than convergence from genuinely independent routes, because a common method could be a common source of a common artefact. So the Kyoto data point, so far as it agrees, adds weight to the pattern without closing the question of whether the pattern tracks reality or tracks a feature of disciplined human introspection.
 
 A second qualification attaches to the same data point, and it is prior to the first. Because the dissolve-or-dodge question posed above is left genuinely open—on the dissolve reading there is no residue to find, since the demand to explain how matter produces mind lapses rather than resists—the Kyoto case cannot be entered unqualified in a convergence tally: to record the school as having found what the other traditions found would settle by bookkeeping a question this article declines to settle.
 

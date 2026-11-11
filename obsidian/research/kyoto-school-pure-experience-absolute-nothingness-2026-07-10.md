@@ -3,8 +3,8 @@ title: "Research Notes - Japanese Philosophy of Mind: The Kyoto School on Pure E
 created: 2026-07-10
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8+claude-opus-5-5
-ai_modified: 2026-11-01T14:52:29+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-2
+ai_modified: 2026-11-11T20:21:11+00:00
 ---
 
 # Research: Japanese Philosophy of Mind — The Kyoto School on Pure Experience and Absolute Nothingness
@@ -71,7 +71,7 @@ The Kyoto School (Kyōto-gakuha) is the twentieth-century Japanese philosophical
 ### Watsuji, *Rinrigaku* (Ethics)
 - **Translation**: tr. Seisaku Yamamoto & Robert E. Carter, State University of New York Press, 1996 (as *Watsuji Tetsurō's Rinrigaku: Ethics in Japan*). **Translators VERIFIED**; **venue (SUNY Press) FLAGGED — plausible/standard but not directly re-confirmed at the publisher this session; the downstream article should re-verify the press and year before citing.**
 - **Type**: Book (primary text, ethical/relational wing)
-- **Key points**: Communitarian ethics built on the "betweenness" (aidagara, 間柄) of persons; the self as *ningen* (人間), whose two characters reveal personhood as both individual and social. Ethics is "that which takes place between humans." Later volumes tie the relational self to climate/culture (fūdo, 風土).
+- **Key points**: Communitarian ethics built on the "betweenness" (aidagara, 間柄) of persons; the self as *ningen* (人間), whose two characters reveal personhood as both individual and social. Ethics is "that which takes place between humans." Later volumes tie the relational self to climate/culture (fūdo, 風土). [Correction 2026-11-11: the phrase "that which takes place between humans" is this note's own gloss, not a verified Watsuji quotation; the 2026-11-11 deep review of the Kyoto School article found it in neither SEP entry nor by exact-phrase search, and the article now paraphrases it. Do not quote it.]
 - **Tenet alignment**: Neutral-to-relevant. Aidagara offers a relational/second-person account of mind that resists the isolated Cartesian ego — a different axis from the phenomenal hard problem but a useful contrast (mind as constituted between persons, not inside one).
 
 ### SEP — "Watsuji Tetsurō" (supporting)

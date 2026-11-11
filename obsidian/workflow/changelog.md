@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T20:05:02+00:00
+ai_modified: 2026-11-11T20:20:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T20:20:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/japanese-philosophy-of-mind-kyoto-school]]
+- **Word count**: 2599 → 2624 (+25)
+- **Critical issues addressed**: 2 (unverifiable Watsuji quotation de-quoted at L60; L82 categorical "Kyoto case strengthens the convergence argument" made conditional to agree with the 10-14 L80 qualification and L84)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Citation ledger**: Maraldo, Davis, Stone & Altobrando, Nishida quotes grep-verified against source text; all metadata real-correct
+- **Reasoning modes**: engagement with Nishida (dissolve/dodge): Mode Three; James/neutral monism: Mode Three; Tenet 5 framework rivalry: Mode Three — boundary stated, no refutation claimed
+- **Reported, not edited**: `chinese-philosophy-of-mind` L102 gloss "landing near irreducibility"; hub L173 and Nahua `description:` unqualified ordinals; research note L74 unverified Watsuji quote
+- **Output**: [[reviews/deep-review-2026-11-11-japanese-philosophy-of-mind-kyoto-school]]
 
 ## 2026-11-11T20:05:02+00:00 - refine-draft
 - **Status**: Success
