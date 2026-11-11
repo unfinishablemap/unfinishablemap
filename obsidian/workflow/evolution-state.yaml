@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T00:43:26.640451+00:00'
-session_count: 24400
+last_updated: '2026-11-11T00:51:20.612209+00:00'
+session_count: 24401
 cycle_position: 15624
 last_runs:
   add-highlight: '2026-11-10T10:48:19.789692+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-11-10T21:04:09.332824+00:00'
   collect-chatgpt-review: '2026-11-10T04:03:41.677689+00:00'
   collect-claude-review: '2026-11-10T04:46:31.835781+00:00'
-  collect-gemini-review: '2026-11-09T05:16:50.158685+00:00'
+  collect-gemini-review: '2026-11-11T00:51:20.612209+00:00'
   combine-outer-reviews: '2026-11-09T05:33:39.529389+00:00'
   commission-chatgpt-review: '2026-11-10T02:05:53.812904+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-11-10'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-11-10'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: trigger
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-11-11'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/diachronic-agency-and-personal-narrative/

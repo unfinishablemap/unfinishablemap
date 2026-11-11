@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T00:40:56+00:00
+ai_modified: 2026-11-11T01:18:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T01:18:29+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-10 (subject: Audit pain-consciousness-and-causal-power, hostile referee plus source check)
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2); gemini-3-1-pro abandoned 00:51Z 2026-11-11 (Deep Research hung at "Creating your report…" ~20.5h; failure_reason in pending-reviews.yaml)
+- **Clusters**: 17 convergent (15 TRUE, 2 PARTLY; ChatGPT's L176 half of C12 FALSE), ~20 singleton, 4 divergences (Duval & Klein: Fable right; Grant & Rainville: ChatGPT's verified reading governs; L176 false convergence; "binds the bare-correlation" apparent only)
+- **Adjudication**: every open anchor re-grepped live at 01:05Z (count 1 each); topic page 3,982/4,000 by analyze_length. Landed since processing, not re-minted: C13 anticipation/placebo and C14 Many-Worlds (a76853e1f4, ✓ L5450); C4 sibling pages (f0a460146c, 0aee4be0b3, 9e391235f7); C2 concept page (d07226be6c, 1b8c99778d)
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4): calibration pass L5052 (+ new item (6) L120 functionalism, a convergent TRUE item untasked by the Fable leg's dedupe); Site-Perspective/inseparability L5094 (+ L140 scope, + zero-cost L142 pipe); Hagiwara/Ploner converse dissociation L5067; empirical-phenomena-mental-causation L155 L5080 (type cross-review → refine-draft, so its Notes reach the fork)
+- **Tasks rewritten at P1 (no change)**: 2 (IASP/IIT L5022; Berthier/Grahek/representationalism L5036, with a Duval & Klein guard and optional L112 item)
+- **Tasks minted**: 1 (P2 L5131, orphan References purge on the pain page, 11 body-uncited entries, cluster C15)
+- **Tasks deduplicated**: 0 (the Fable leg had appended addenda, not twins). The above-Notes `Addendum`/`Coordination` fields on L5036, L5052, L5080 and L5094 were moved verbatim into Notes, since task_to_skill passes only File, Notes and Review file
+- **parse_tasks**: active 389 → 390 (P1 4 → 8, P2 21 → 18, P3 364 → 364)
+- **Output**: [[reviews/outer-review-synthesis-2026-11-10]]
 
 ## 2026-11-11T00:40:56+00:00 - check-tenets
 - **Status**: Warnings
