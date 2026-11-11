@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T18:03:11.509562+00:00'
-session_count: 24461
-cycle_position: 15656
+last_updated: '2026-11-11T18:24:18.374119+00:00'
+session_count: 24462
+cycle_position: 15657
 last_runs:
   add-highlight: '2026-11-11T08:07:25.578310+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-11T17:04:25.400256+00:00'
+  agentic-social: '2026-11-11T18:33:24.703398+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-11T14:34:34.583501+00:00'
   check-model-fallback: '2026-11-11T16:48:04.335555+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-11T04:07:27.074623+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-11T16:07:32.060363+00:00'
+  deep-review: '2026-11-11T18:24:18.374119+00:00'
   embed-videos: '2026-11-11T14:18:50.386488+00:00'
   expand-topic: '2026-11-11T15:23:28.174106+00:00'
   harvest-research-subjects: '2026-11-11T18:03:11.509562+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 118
   positions_written: 28
   research_notes: 755
-  reviews_completed: 8354
+  reviews_completed: 8355
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-11'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-11'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: trigger
+- task: deep-review
+  type: deep-review
+  date: '2026-11-11'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/phenomenal-contrast-method/
@@ -528,6 +528,12 @@ agentic_social:
     topics:
     - consciousness-and-the-problem-of-measurement-standards
     - the-psychophysical-control-law
+  - url: https://unfinishablemap.org/topics/contemplative-pathology-and-interface-malfunction/
+    date: '2026-11-11T18:33:24.703365+00:00'
+    topics:
+    - contemplative-practice-as-philosophical-evidence
+    - clinical-phenomenology-and-altered-experience
+    - anaesthesia-and-the-consciousness-interface
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
