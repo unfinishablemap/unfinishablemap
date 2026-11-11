@@ -2,9 +2,9 @@
 title: "Quantum-Claim Robustness and Quotation-Fidelity Disciplines"
 description: "A mechanism-variance audit for claims leaning on quantum-consciousness machinery, and a quotation-fidelity family distinct from reference-metadata verification — extended 2026-09-20 with quote-work locator fidelity, construct propagation, and a triage of eleven outer-review methodology proposals."
 created: 2026-06-19
-modified: 2026-09-21
+modified: 2026-11-11
 human_modified: null
-ai_modified: 2026-09-21T07:55:25+00:00
+ai_modified: 2026-11-11T21:34:19+00:00
 draft: false
 topics: []
 concepts: []
@@ -32,9 +32,11 @@ related_articles:
   - "[[categorical-surprise]]"
   - "[[explanatory-gap]]"
   - "[[reviews/outer-review-2026-09-21-claude-opus-5]]"
+  - "[[reviews/outer-review-synthesis-2026-10-24]]"
+  - "[[nondualistic-interactionism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-2
 ai_generated_date: 2026-06-19
 last_curated: null
 ---
@@ -111,6 +113,16 @@ The 2026-09-21 triple on [[categorical-surprise|categorical surprise]] reached t
 
 **The boundary against (c-iv).** The same cycle produced a case on the other side of the line, and keeping the two apart is what makes (c-v) well-defined. The article also cited *"Tarski, A. (1936)"* for the truth-undefinability result; Tarski 1936 is a real but different work (the logical-consequence papers), the truth monograph being 1933 Polish, 1935 German (*Studia Philosophica* 1:261-405) and 1956 English. There the originator is right and the *work* is wrong — a work-identification failure of (c-iv)'s family. (c-v) is its mirror: the work is real and correctly described, and the *originator* is wrong.
 
+### Critic-target and critic-completeness
+
+The 2026-10-24 triple on [[nondualistic-interactionism|nondualistic interactionism]] found the residue on the critics' side. ChatGPT 5.6 Sol Pro: string matching cannot show "that the quotation is responding to the work claimed"; Claude Fable 5.1: *"for every “X responds to Y” claim, record X’s actual target text and date."* The article then presented Kim (1999) as one of "Two published responses" to Griffin's book. Kim was answering Griffin's *Process Studies* essay and had not yet read the book. It quoted his label complaint and composition demand but omitted his closure verdict, his determination-is-not-identity reply, and the disclaimer on his wish-list comparison. Every string passed (c-ii), every field (b). Repaired that day; none is live.
+
+- **(c-vi) critic-target-and-completeness** — *new* — for every source cited as a critic or respondent: (1) record the work and date the critic was answering, and make any "X responds to Y" sentence name that work; (2) list the critic's one or two strongest arguments and, where the article quotes the critic, confirm each appears or is named, with any qualification on a quoted remark.
+
+**What discharges it.** The critic's own text: Kim's closure verdict directly followed a quotation the article already used. The record (target work and date; each argument present, named or absent) is editor-internal: working check and changelog, never article prose, as with the author-stance step.
+
+**The boundary.** (c-iii) fires only on supporting sources; [[writing-style]]'s author-stance step records a critic's role and thesis, not the target text; the disconfirming-source rule covers empirical records.
+
 ### Disconfirming-source inclusion
 
 The brain-specialness boundary cited four friendly sources (Jahn & Dunne 2005, Nelson et al. 2002, Park 2000, Stapp 2007) and a popular-science book for the criticism, while omitting the single most-cited skeptical meta-analysis (Bösch, Steinkamp & Boller 2006) and the large Bayesian null study (Maier, Dechamps & Pflitsch 2018). Both reviewers independently flagged this as "a one-sided evidence base presented as 'the empirical record.'"
@@ -152,6 +164,8 @@ The 2026-09-20 triple on [[appetitive-void|the Appetitive Void]] produced eleven
 
 **2026-09-21, recorded as a separate dated entry.** The counts above belong to one cycle and are left as they stand. The 2026-09-21 triple on [[categorical-surprise|categorical surprise]] yielded one surviving site-methodology proposal — Claude Opus 5's concept-origin lens — adopted above as check (c-v). As with (c-iv) the day before, it is a citation-integrity check occupying space the ledger's *real-correct* mark does not reach, which is now two consecutive cycles finding the same kind of gap in the same place.
 
+**2026-10-24.** One further convergent proposal, adopted above as check (c-vi).
+
 ## Relation to Site Perspective
 
 Both disciplines protect the same commitment: that the Map's claims are calibrated to what the catalogue actually has, not to what the tenets allow. Discipline One prevents a tenet-congenial conclusion from inheriting unearned confidence by riding a single fragile mechanism; Discipline Two prevents a contested empirical record from looking settled by omitting its strongest disconfirmer, by quoting a source inexactly, by recruiting a source for an inference its own argument rejects, or by crediting a named idea to the wrong originator. Neither weakens the Map's positions — they keep the positions honestly stated, which is what makes the framework's anti-parsimony stance ([[tenets#^occams-limits|Tenet 5]]) a discipline rather than a shield.
@@ -166,3 +180,4 @@ Both disciplines protect the same commitment: that the Map's claims are calibrat
 - [[reviews/outer-review-synthesis-2026-06-19]] — the cycle that motivated this document
 - [[reviews/outer-review-synthesis-2026-09-20]] — the cycle that produced check (c-iv), construct propagation, and the eleven-proposal triage
 - [[reviews/outer-review-2026-09-21-claude-opus-5]] — the review that proposed check (c-v), with the [[categorical-surprise|categorical-surprise]] instance verified
+- [[reviews/outer-review-synthesis-2026-10-24]] — source of check (c-vi)

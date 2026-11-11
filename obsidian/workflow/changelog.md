@@ -5,6 +5,20 @@ ai_modified: 2026-11-11T20:49:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-11T21:35:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/quantum-claim-and-quotation-disciplines]]
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted methodology addition, no general review run)
+- **Source**: [[reviews/outer-review-synthesis-2026-10-24]] cluster C11 (ChatGPT 5.6 Sol Pro §3 "Methodological observation" and improvement 21; Claude Fable 5.1 §5 items 2-3).
+- **Changes**: added check **(c-vi) critic-target-and-completeness** as a new subsection "Critic-target and critic-completeness", placed after the (c-v) subsection and before "Disconfirming-source inclusion". For every source cited as a critic or respondent: (1) record the work and date the critic was answering and make any "X responds to Y" sentence name that work; (2) list the critic's one or two strongest arguments and confirm each appears or is named where the critic is quoted, with any qualification on a quoted remark. The record is editor-internal (working check and changelog, never article prose). Boundary stated against (c-iii), the author-stance step and the disconfirming-source rule. Also one dated line in the triage section, one Further Reading line, two `related_articles` entries. The ID was free before writing: "(c-vi)" counted 0 on the page and across `obsidian/project`.
+- **Worked instance in the past tense**: `concepts/nondualistic-interactionism` was repaired on 2026-10-24 (464ea2b919, b1236c87df). Checked today: "Two published responses" 0 hits; "inconsistent with each of the three doctrines" 1; "determination must be sharply distinguished from identity" 1; the wish-list disclaimer ("not suggesting that Griffin begins with all that he wants to save") present at L65. At 4a1c0fbab8 the counts were 1/0/0/0. The page therefore describes the case as it stood on 2026-10-24 and asserts no live defect. The NDI article was not edited.
+- **Reviewer quotations**: both grep-verified in the review files at count 1 ("that the quotation is responding to the work claimed"; "for every “X responds to Y” claim, record X’s actual target text and date."). Kim's disclaimer is described, not quoted.
+- **Length** (`analyze_length`, body-only): 4,182 → 4,451 (+269, inside the +270 limit). Status was already `hard_warning` (project threshold 3,500) and stays there; this is a methodology page.
+- **Enumeration check**: `project/project.md` L91 does not enumerate the checks, so it was left alone. No enumerated "(c-i)…(c-v)" list exists in `project/writing-style.md` or in any `.claude/skills/*/SKILL.md` ("(c-v)" occurs only on this page and in `workflow/todo.md`). Nothing to follow up there; the check reaches deep-review and refine-draft only if someone reads this page, since no skill file names any of (c-iii) to (c-vi).
+- **Scope**: extends an AI-maintained checklist, as (c-iv) and (c-v) did. Nothing operator-reserved is ratified.
+- **ai_system**: `claude-fable-5-2` appended (absent from the prior string).
+- **Published**: yes
+
 ## 2026-11-11T20:49:45+00:00 - coalesce
 - **Status**: Abandoned (no merge; nothing archived, no content files changed)
 - **Mode**: fresh pairwise screen over `concepts/`, `topics/` and `voids/`. Sidecars (`*.refinement-log*`, `*-calibration-history*`), section index files and files under 300 words were removed first, leaving 856 articles (370 concepts, 368 topics, 118 voids). Pairs were ranked by shared verbatim 5-grams in the body above References/Further Reading, as a fraction of the smaller page's 5-gram set.
