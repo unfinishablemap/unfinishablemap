@@ -4,7 +4,7 @@ description: "Placebo effects and the choking phenomenon together form a two-sid
 created: 2026-02-02
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-07-18T13:42:46+00:00
+ai_modified: 2026-11-11T08:51:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-05-08
 last_curated:
 last_deep_review: 2026-07-25T08:22:39+00:00
@@ -152,7 +152,7 @@ The pressure the joint case applies is more subtle, and easy to overstate. If ph
 
 This is a framework-boundary disagreement rather than an in-framework refutation. The Map reads the systematic two-register tracking as suggestive that the felt phenomenology does causal work the represented description alone does not; the epiphenomenalist or illusionist absorbs the same data through a single brute law or a richer representational story. The phenomena are compatible with both: the conjunction makes the regularity that brute law treats as primitive harder to dismiss as scattered coincidence, but settles nothing about the truth of either reading.
 
-[[pain-asymbolia]] reinforces the conclusion from a third angle: patients perceive pain but lack its unpleasant phenomenal character, and fail to exhibit normal avoidance behaviour. The phenomenal quality, not merely the information, drives the response.
+[[pain-asymbolia]] echoes the conclusion from a third angle: patients perceive pain but lack its unpleasant phenomenal character, and fail to exhibit normal avoidance behaviour. Phenomenal causation predicts [[pain-consciousness-and-causal-power#what-asymbolia-discriminates|this dissociation]]; so does a valence-prior account.
 
 ## Agent Causation
 

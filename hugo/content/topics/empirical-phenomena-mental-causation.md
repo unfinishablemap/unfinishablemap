@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-07-18 13:42:46+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-11-11 08:51:59+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/placebo-effect-and-mental-causation/
@@ -39,7 +39,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 08:22:39+00:00
-lastmod: 2026-07-18 13:42:46+00:00
+lastmod: 2026-11-11 08:51:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,7 +157,7 @@ The pressure the joint case applies is more subtle, and easy to overstate. If ph
 
 This is a framework-boundary disagreement rather than an in-framework refutation. The Map reads the systematic two-register tracking as suggestive that the felt phenomenology does causal work the represented description alone does not; the epiphenomenalist or illusionist absorbs the same data through a single brute law or a richer representational story. The phenomena are compatible with both: the conjunction makes the regularity that brute law treats as primitive harder to dismiss as scattered coincidence, but settles nothing about the truth of either reading.
 
-[pain-asymbolia](/concepts/pain-asymbolia/) reinforces the conclusion from a third angle: patients perceive pain but lack its unpleasant phenomenal character, and fail to exhibit normal avoidance behaviour. The phenomenal quality, not merely the information, drives the response.
+[pain-asymbolia](/concepts/pain-asymbolia/) echoes the conclusion from a third angle: patients perceive pain but lack its unpleasant phenomenal character, and fail to exhibit normal avoidance behaviour. Phenomenal causation predicts [this dissociation](/topics/pain-consciousness-and-causal-power/#what-asymbolia-discriminates); so does a valence-prior account.
 
 ## Agent Causation
 

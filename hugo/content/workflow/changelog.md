@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 08:36:05+00:00
+ai_modified: 2026-11-11 08:51:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 08:36:05+00:00
+lastmod: 2026-11-11 08:51:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T08:51:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (P1 L155 asymbolia sentence; synthesis 2026-11-10 C17 TRUE; ChatGPT §12, Claude Fable 5.2 §4)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Length**: analyze_length 3,999 → 3,999 (net 0; topics hard limit 4,000, gate `>=`).
+- **Pattern**: this is another case of "a correction lands in one place and never binds anywhere else" (see the NEEDS-HUMAN methodology entry). The asymbolia calibration already exists at its source, `topics/pain-consciousness-and-causal-power`, in three places: `### What Asymbolia Discriminates`, the line "a valence-prior account predicts it too" (added 4bd8598cca, 09-24), and the Bidirectional Interaction line "a pattern compatible with phenomenal causation rather than evidence for it" (75f598a14a, 11-02). It also exists in `concepts/pain-asymbolia` L99/L119 as a "shared explanandum". This page's L155 still stated the uncalibrated causal reading. The task Notes and the brief point to a76853e1f4 (11-10); that commit added the pain article's Jensen/anticipation correction, not the asymbolia grading, which is older. Also, "What Is Established and What Is Not" does not mention asymbolia (count 0 in L163–L176). The swap applies that section's general rule.
+- **Changes**:
+  - L155, second sentence, 10 → 10 words: "The phenomenal quality, not merely the information, drives the response." → "Phenomenal causation predicts [this dissociation](/topics/pain-consciousness-and-causal-power/#what-asymbolia-discriminates); so does a valence-prior account." This applies the page's own rule at L167: "a phenomenon predicted equally well by a leading physicalist rival is *compatible with* the dualist reading, not *support for* it". "Valence-prior account" is what the source calls the rival (pain article L142). `concepts/pain-asymbolia` L99 also uses the term and defines it, and the first sentence already links that page.
+  - Pipe link on existing words, in the slug dialect `#what-asymbolia-discriminates`, which equals `heading_anchor_slug("What Asymbolia Discriminates")`. The heading-text dialect would cost +2 because analyze_length splits on whitespace and the anchor has two spaces. The heading occurs once in the pain article, which was not edited.
+  - L155, first-sentence verb, 1 → 1 word: "reinforces the conclusion" → "echoes the conclusion". Once the second sentence says only "compatible", "reinforces" implied that asymbolia adds evidential weight for the phenomenal reading. That was the sense the old second sentence gave it, and it echoes the lead's "mutually reinforcing evidence". "Echoes" ties the sentence to the previous paragraph's verdict ("compatible with both … settles nothing about the truth of either reading") without implying added weight. The suggested "bears on the conclusion" is +1 word, and the budget is 0. The rest of the first sentence is verbatim.
+- **Jensen**: not added (`Jensen` = 0 before and after). The placebo passages have no conscious-expectation citation that Jensen could replace without misattributing a claim. Benedetti et al. 2003 is the page's own conscious-vs-unconscious discriminator. Colloca & Miller 2011 carries the warned-side-effect nocebo claim. Kaptchuk 2010 is the open-label trial. Montgomery & Kirsch 1997 supports expectation-in-conditioning. Büchel 2014 is the predictive-coding rival. POINTER for the next length-neutral pass: Jensen et al. (2012), *PNAS* 109(39):15959–15964, masked cues trigger conditioned placebo/nocebo responses. It would fit best next to Benedetti's unconscious-conditioning hormonal finding (L85/L101), or as the human masked-cue case in the L103 deflationary paragraph. Cost is about +12 body words plus a References entry.
+- **Guards**: no citation changed, so no (surname, year) orphan check was needed; References are untouched. The old second sentence now counts 0 and the new sentence counts 1. L156 is blank and L157 is "## Agent Causation", so no pronoun is left dangling, and "so does" resolves inside its own sentence. The edit adds no "This is not X. It is Y.", no "load-bearing", and no mode labels; the page's existing L59/L127/L167/L187 "load-bearing" uses were left alone. `ai_system` claude-opus-4-7 → claude-opus-4-7+claude-opus-5-5 (opus-5-5 count was 0 before). `ai_modified` is 2026-11-11T08:51:59+00:00, from `date -u`.
+- **Not touched**: `topics/pain-consciousness-and-causal-power` (four P1s and a P2 own it).
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-11-11T08:36:05+00:00 - refine-draft
 - **Status**: Success
