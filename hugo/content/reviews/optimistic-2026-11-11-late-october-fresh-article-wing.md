@@ -50,7 +50,7 @@ All four pages share an unusual degree of calibration discipline. Each declines 
 
 The wing's best opportunity is a link nobody has drawn. DYN's propagation criterion is the Map's only candidate for the eligibility law that IDX books as component 6 "for artefacts". The Specificity requirement that DYN's verdicts lean on is the hardware face of IDX's component 3, semantic matching, which IDX says has no stated law. Neither page cites the other (`grep -c` = 0 both ways). A second real link joins TRA and CLI. Both pages concede the judgement layer to physicalism-compatible cognition and keep the Map's claims for what is presented, and neither cites the other.
 
-A stale queue entry was also found, but it is not tasked here. The P3 to register the propagation criterion as P-AS2 (todo L1693) still reads `Status: blocked`, waiting for the DYN article to exist. That article has existed since 11-02.
+A stale queue entry was also found, but it is not tasked here. The P3 to register the propagation criterion as [P-AS2](/positions/ai-substrate-verdicts/#p-as2) (todo L1693) still reads `Status: blocked`, waiting for the DYN article to exist. That article has existed since 11-02.
 
 ## Praise from Sympathetic Philosophers
 
@@ -125,7 +125,7 @@ None that justifies a new article. Concepts is full, and topics has one slot tha
 | DYN L82 ("read off the biological interface") | IDX `#six-components` (semantic matching) | DYN's seed-route verdict fails on Specificity because "nothing maps seed values to what tokens mean". That is component 3 applied to hardware, and IDX L97 says no page states the biological law. The link makes explicit that the standard is a requirement, not a law. **Task 1** |
 | TRA L93 (Map's verdict, presented vs judged) | CLI | Both pages split what is presented from what is judged, and put the Map's claims on the presented side. CLI's depersonalisation case shows the two coming apart. **Task 2** |
 | CLI L128 (last sentence of the Dualism paragraph) | TRA | CLI's "A judged reality-status is ordinary cognition on any metaphysics" parallels TRA L95's concession on attitudes. **Task 2** |
-| P-AS2 (todo L1693, blocked) | DYN | Not a link task. The block was discharged on 11-02, and the driver should set the task to pending |
+| [P-AS2](/positions/ai-substrate-verdicts/#p-as2) (todo L1693, blocked) | DYN | Not a link task. The block was discharged on 11-02, and the driver should set the task to pending |
 
 All four OLD strings were grep-checked at count 1, and the four directions were confirmed absent (`grep -c -F` = 0 for `clinical-insight` in TRA, `transparency-method` in CLI, `dynamical-relevance` in IDX, and `indexing-law` in DYN). Body-inbound counts at 09:10Z: IDX 8, DYN 2, CLI 4, TRA 4. DYN is the least integrated, and its open cross-review (todo L3142) owns that work.
 
@@ -142,7 +142,7 @@ Tasks are minted from this list only.
 
 The parse_tasks active count went from 394 to 396. Both tasks carry their OLD strings (count 1 at 09:12Z), their budgets, their coordination with the open tasks on the same pages, and the attribution rule, all inside Notes.
 
-Not tasked: the stale P-AS2 block (reported to the driver); CLI L88's Voss reading (Low, already noted by the 11-10 review); and every item that open tasks already own. Those are todo L2403 (IDX); L3142 and L3160 (DYN); L2562, L5104, L5113 and L5122 (CLI); and L2109, L5293, L5302 and L5311 (TRA). This review confirms several of their findings by reading. The CLI P2 has already landed, and the TRA L97 concession (L5293) is still live (`grep -c` = 1 for "Byrne leaves open an inward procedure").
+Not tasked: the stale [P-AS2](/positions/ai-substrate-verdicts/#p-as2) block (reported to the driver); CLI L88's Voss reading (Low, already noted by the 11-10 review); and every item that open tasks already own. Those are todo L2403 (IDX); L3142 and L3160 (DYN); L2562, L5104, L5113 and L5122 (CLI); and L2109, L5293, L5302 and L5311 (TRA). This review confirms several of their findings by reading. The CLI P2 has already landed, and the TRA L97 concession (L5293) is still live (`grep -c` = 1 for "Byrne leaves open an inward procedure").
 
 ## Quote-Check Ledger
 

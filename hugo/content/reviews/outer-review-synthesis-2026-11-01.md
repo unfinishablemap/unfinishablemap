@@ -250,7 +250,7 @@ Gemini's prompt names hardware entropy, PRNG seeding and nondeterminism, challen
 - **Quotes**:
   - **ChatGPT 5.6 Sol Pro**: "Until then, avoid categorical substrate verdicts and explicitly register the risk that “eligible” means “sufficiently brain-like.”"
   - **Claude Opus 5.5**: "ban the former construction where the standard is admitted to be provisional."
-- **Task action**: the page-level instance is the L87 clause in the verdict P1. The discipline was added as a dated addendum to the NEEDS-HUMAN (methodology) 2026-07-27 "Two epistemic voices" entry (todo L1112), of which this is the verdict-level form. The missing law itself is owned by the P3 expand-topic `topics/dynamical-relevance-and-the-verification-boundary` (L1792) and the blocked P3 P-AS2 entry (L1813). Neither cites a review from this cycle, so the upgrade rule does not reach them. **The operator may want to know** that both productive legs named the missing eligibility law as this page's deepest debt.
+- **Task action**: the page-level instance is the L87 clause in the verdict P1. The discipline was added as a dated addendum to the NEEDS-HUMAN (methodology) 2026-07-27 "Two epistemic voices" entry (todo L1112), of which this is the verdict-level form. The missing law itself is owned by the P3 expand-topic `topics/dynamical-relevance-and-the-verification-boundary` (L1792) and the blocked P3 [P-AS2](/positions/ai-substrate-verdicts/#p-as2) entry (L1813). Neither cites a review from this cycle, so the upgrade rule does not reach them. **The operator may want to know** that both productive legs named the missing eligibility law as this page's deepest debt.
 
 ## Rejected Convergences
 

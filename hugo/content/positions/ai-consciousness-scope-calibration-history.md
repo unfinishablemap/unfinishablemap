@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-11-01
-ai_modified: 2026-11-01 21:24:12+00:00
-ai_system: claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 17:50:30+00:00
+ai_system: claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -14,7 +14,7 @@ description: 'Calibration audit trail for the AI-consciousness-scope positions r
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-01 21:24:12+00:00
+lastmod: 2026-11-11 17:50:30+00:00
 modified: *id001
 related_articles:
 - '[[positions/ai-consciousness-scope]]'
@@ -28,7 +28,16 @@ topics: []
 
 This is the calibration audit trail for the [AI consciousness scope positions register](/positions/ai-consciousness-scope/). **It contains no positions.** Every claim, calibration, dependency and shift condition lives in the register file; only the dated notes recording *why a band moved, or why it did not*, live here, following the convention set out in [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/).
 
-The file was opened on 2026-11-01, when the register stood at 3,126 words against the section's 2,500-word hard advisory, and an audit of [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s grade could not carry its dated note inline. [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s one earlier note is reproduced below verbatim, newest first, and the entry now indexes both from a **Calibration history** line. No **Band rationale** line was installed: the judgement the notes carry, B held and A withheld, is stated in the entry's live calibration line. [P-AC3](/positions/ai-consciousness-scope/#p-ac3)'s two notes followed later the same day, at its retitle, again without a **Band rationale** line, since its calibration line and Asserts state the low-edge pin. [P-AC1](/positions/ai-consciousness-scope/#p-ac1) and [P-AC2](/positions/ai-consciousness-scope/#p-ac2) keep their notes inline until their next `/positions-evolve` touch, on the quantum-interface convention.
+The file was opened on 2026-11-01, when the register stood at 3,126 words against the section's 2,500-word hard advisory, and an audit of [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s grade could not carry its dated note inline. [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s one earlier note is reproduced below verbatim, newest first, and the entry now indexes both from a **Calibration history** line. No **Band rationale** line was installed: the judgement the notes carry, B held and A withheld, is stated in the entry's live calibration line. [P-AC3](/positions/ai-consciousness-scope/#p-ac3)'s two notes followed later the same day, at its retitle, again without a **Band rationale** line, since its calibration line and Asserts state the low-edge pin. [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s three inline notes followed on 2026-11-11, at its next `/positions-evolve` touch, reproduced verbatim beneath that day's note; its calibration line states the low-edge pin, so again no **Band rationale** line was installed. [P-AC2](/positions/ai-consciousness-scope/#p-ac2) keeps its notes inline until its next touch, on the quantum-interface convention.
+
+## [P-AC1](/positions/ai-consciousness-scope/#p-ac1)
+
+Current conventional digital AI sits on the low-probability side of the substrate analysis.
+
+- **Updated 2026-11-11**: the layer-(iv) dependency, "an interface-eligibility law — *not yet possessed by the Map*", now links to [P-AS2](/positions/ai-substrate-verdicts/#p-as2), which registers the propagation criterion of [dynamical-relevance-and-the-verification-boundary](/topics/dynamical-relevance-and-the-verification-boundary/) as a candidate law at low credence. The dependency's wording is unchanged and still true: a candidate is not a possessed law, and the channel test remains the nearest approximation. The debt gets an address, not a discharge. **No band moved**; *Last reviewed* not bumped (pointer only). The three notes below moved here from the entry the same day.
+- **Updated 2026-10-15**: **credence moderate → moderate (low edge; conditional)** (ChatGPT §1; Claude §(c) read low): the Asserts always stated the conditional. A same-day two-valued rendering was restated as one schema value (the discount prices the derivation) and Kleiner & Ludwig refiled twin → stronger-premise cousin (pessimistic review 2026-10-15 Issues 1–2; research note `dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15`). F. Koch 2026, Birch ch. 16 cited; Birch relabelled; organizational-invariance dependency added; trigger sharpened (2026-08-13 grade inherited, not fired). [P-AC2](/positions/ai-consciousness-scope/#p-ac2) softened, not retired.
+- **Updated 2026-10-03**: [epiphenomenalism](/concepts/epiphenomenalism/), which argues [P-MC2](/positions/arguments-for-mental-causation/#p-mc2), now records Tenet 3's quantifier as unresolved, citing this register for the actual reading; [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) reads it dispositionally on that page alone. An operator referral is pending. Adopting the dispositional reading fires the Tenet-3-weakening trigger here and in [P-MC2](/positions/arguments-for-mental-causation/#p-mc2). No calibration change.
+- **Updated 2026-07-28 to 2026-08-20** (four pointer-only passes; no calibration change): absorbed the [machine-question](/apex/machine-question/) rewrite; added [P-MC2](/positions/arguments-for-mental-causation/#p-mc2), the channel-test annotation, two Argued-in entries and the [P-AS1](/positions/ai-substrate-verdicts/#p-as1) pointer.
 
 ## [P-AC3](/positions/ai-consciousness-scope/#p-ac3)
 

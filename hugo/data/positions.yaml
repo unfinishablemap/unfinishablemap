@@ -138,6 +138,21 @@ p-as1:
     requirements — the analog class more securely than the gate class — confidence: moderate · some independent
     evidence · peripheral to the framework'
   weak: 'no'
+p-as2:
+  bands: 'confidence: low · no independent evidence · moderately central'
+  claim: The propagation criterion is the Map's candidate interface-eligibility law — an indeterminate
+    event is interface-relevant iff a selection at it can reach the system's functional trajectory without
+    being verified or corrected away
+  credence: low
+  grade: D
+  id: P-AS2
+  slug: ai-substrate-verdicts
+  status: live
+  structural_centrality: moderate
+  summary: 'P-AS2: The propagation criterion is the Map''s candidate interface-eligibility law — an indeterminate
+    event is interface-relevant iff a selection at it can reach the system''s functional trajectory without
+    being verified or corrected away — confidence: low · no independent evidence · moderately central'
+  weak: 'yes'
 p-cs1:
   bands: 'confidence: moderate · no independent evidence · framework-critical'
   claim: Basic phenomenality is substrate-permissive — dualism imposes no anthropocentric barrier

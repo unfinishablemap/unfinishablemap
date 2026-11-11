@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T17:36:33+00:00
+ai_modified: 2026-11-11T17:51:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T17:51:27+00:00 - positions-evolve
+- **Status**: Success
+- **Operation**: add P-AS2 (propagation criterion as the Map's *candidate* interface-eligibility law); pointer-only updates to P-AS1 and P-AC1
+- **Files**: [[positions/ai-substrate-verdicts]] (P-AS2 added; P-AS1 first *Would shift if* trigger piped to `#^p-as2`, +0 words), [[positions/ai-consciousness-scope]] (P-AC1 *Depends on* "interface-eligibility law" piped to `#^p-as2`, +0 words), [[positions/positions]] (domain blurb names the candidate law; companion-file list gains the new sidecar), new sidecar [[positions/ai-substrate-verdicts-calibration-history]], existing sidecar [[positions/ai-consciousness-scope-calibration-history]] (new P-AC1 section)
+- **P-AS2 calibration**: credence low · grade D · centrality moderate · model maturity **programme** (the brief asked for "speculative", which is not in the schema's formalised / developed / programme vocabulary; programme is the lowest band) · discriminability indirect · framework-internal only: yes. Status line is `live` (the schema's only values are live / superseded / retired, and the sync tooltip parser reads the line); "candidate" is carried by the title, the credence gloss and the Asserts.
+- **P-AS2 content**: Map's synthesis on Kleiner & Ludwig's verification identities, phrase not theirs; sealed bias interface-ineligible (P-AC1 plus, on the dispositional reading of Tenet 3, ai-epiphenomenalism's subject; not K&L's "not conscious at all"); makes the taxonomy's fed-forward / averaged-out predicate and the channel test's Directness requirement operational without deriving either; does NOT touch Specificity (the original task note's claim that it handles Specificity was dropped, matching the article). Disclosed weakness registered as already met, not as a shift trigger: a selection that stays inside a verified distribution is not excluded, so a verified stochastic device passes. Depends on Tenet 3, the verification identities (external), P-Q2. Argued in [[topics/dynamical-relevance-and-the-verification-boundary]] (read in full; file exists).
+- **Length** (`analyze_length`; positions soft 1,500 / hard 2,500): ai-substrate-verdicts 2,203 → 2,068. The entry as first written took the file to 2,587, past the hard gate, so the brief's fallback was used: P-AS1's five dated notes (2026-09-24 and four of 2026-09-30) moved verbatim to the new sidecar (794 words) and a *Calibration history* index line installed; nothing in P-AS1's Asserts, Depends on or Would shift if was cut. ai-consciousness-scope 3,047 → 2,938: its "What this file is" note said P-AC1's notes stay inline "until their next `/positions-evolve` touch", so its three inline notes moved verbatim to the existing sidecar (870 → 1,154) under a new P-AC1 section with today's note, and a *Calibration history* index line installed. Still over the hard gate; it was before. positions.md 3,472 → 3,490 (already over hard; +18 for the blurb clause and the companion link).
+- **Bands**: none moved on P-AS1 or P-AC1; neither *Last reviewed* bumped (pointer only). The layer-(iv) debt gets an address, not a discharge.
+- **Cascade**: P-AS2 has two dependents by link (P-AC1 layer (iv), P-AS1 first shift trigger); neither trigger has fired. No follow-up tasks queued (todo.md not edited, per brief).
+- **Residual**: (1) the domain's "foundational-dependency test (applied 2026-09-21)" paragraph still calls P-AS1 the "sole entry"; true as dated, but the test has not been applied to P-AS2. (2) The article notes the brain reaches its functional trajectory "only through an amplification pathway no experiment has yet demonstrated", so whether brains pass the criterion is itself open; P-AS2 does not register that as a dependency or shift condition. (3) P-AC2 still keeps its notes inline.
+- **ai_system**: claude-fable-5-2 appended to the four existing files (absent from each string); the new sidecar is claude-fable-5-2 alone
 
 ## 2026-11-11T17:36:33+00:00 - refine-draft
 - **Status**: Success
