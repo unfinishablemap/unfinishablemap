@@ -5,6 +5,18 @@ ai_modified: 2026-11-11T11:19:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-11T12:05:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/pain-asymbolia]]
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted fix from outer review 2026-11-10 Claude Fable 5.2 §2.4 row 20, §2.7 item 1, §4)
+- **Changes**: (a) Priority. "first systematically described by Rubins and Friedman (1948)" now reads "first described by Schilder and Stengel (1928; in English, 1931), with Rubins and Friedman (1948) providing a later systematic study". Added Schilder & Stengel (1931), *Archives of Neurology and Psychiatry* 25(3), 598–600 to References; Rubins & Friedman kept. Verification: Crossref DOI 10.1001/archneurpsyc.1931.02230030156007 gives volume 25, issue 3, first page 598, March 1931, and lists Schilder alone as author with no last page. The Stengel co-authorship and the 598–600 range come from the reference list of Jahn & Steinberg (2020, *Der Schmerz*, PMC8626377, entry 41, same DOI). The JAMA Network page returned 403, so the range is confirmed at one secondary source, not at the publisher. "Larger series" was not written. (b) Calibration of "Against Functionalist Reduction". Removed "Asymbolia challenges this directly", "But this concedes the central point" and "which is what the dualist claims". The two paragraphs now name both functionalist replies (deny that what remains is pain; decompose the role), say the decomposition reply costs functionalism nothing by its own lights with Klein (2015) as the fitting reading, and place the Map's residual at the [[constitution-vs-causal-work|bridge]] from role to felt awfulness, matching the page's two "shared explanandum" passages. Melzack & Casey (1968) not cited; no new Ploner citation.
+- **Reasoning mode**: engagement with functionalism: Mode Three. The in-framework dilemma the section used to run fails, because the decomposition horn is a result functionalists embrace, so the disagreement is marked at the role-to-felt-awfulness identification and not claimed as a refutation.
+- **Other hosts of the Rubins & Friedman priority wording**: none. `grep -rn -i -E "Rubins (and|&) Friedman"` over `obsidian/` and `archive/` hits only this page, the review file, `workflow/todo.md` and one research note (`research/surgical-and-pharmacological-dissociation-of-pain-affect-2026-11-10`), which already credits Schilder & Stengel.
+- **Orphan check** (surname, year), both directions: Schilder and Stengel 1931 is cited in the body and in References. 1928 is cited in the body as the German original with no References entry (the German papers were not checked at source). Klein 2015 was already in References, not duplicated.
+- **Length**: analyze_length 3,243 → **3,282** (+39, References included; concepts hard 3,500, 217 words of headroom under the `>=` gate).
+- **ai_system**: appended `claude-fable-5-2` (absent from the string before).
+- **Published**: yes
+
 ## 2026-11-11T11:19:11+00:00 - coalesce
 - **Status**: Abandoned (no candidate). This is the expected steady state and the eleventh consecutive no-candidate run. Nothing was written to content.
 - **Mode**: driver-run re-screen with the 2026-11-10 21:03Z script, copied as `coalesce_1111.py` into the session scratchpad. Two constants changed: the age floor is now 2026-09-12 and the edit window is since 2026-11-11T00:00Z. The open-task and dirty-tree exclusions are unchanged.

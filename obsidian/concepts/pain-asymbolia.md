@@ -4,7 +4,7 @@ description: "Pain asymbolia dissociates nociceptive sensation from affective su
 created: 2026-02-15
 modified: 2026-11-11
 human_modified:
-ai_modified: 2026-11-11T03:40:07+00:00
+ai_modified: 2026-11-11T12:05:06+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[cross-modal-capability-division]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-10-08T01:40:28+00:00
@@ -47,7 +47,7 @@ Pain asymbolia is a neurological condition in which patients detect nociceptive 
 
 ## Clinical Presentation
 
-The condition was first systematically described by Rubins and Friedman (1948), and Geschwind (1965) placed it within a broader framework of disconnection syndromes—conditions where intact processing modules lose communication with each other. Berthier, Starkstein, and Leiguarda (1988) refined the characterisation, describing it as a "sensory-limbic disconnection syndrome": the somatosensory pathways that detect tissue damage remain intact, but their connection to the affective evaluation systems is severed. Those six patients also presented with hemiparesis, cortical sensory loss, neglect, body-schema disorders and a broad failure to react to threatening gestures, on anatomically extensive lesions—not a surgical subtraction of one component from an otherwise intact brain.
+The condition was first described by Schilder and Stengel (1928; in English, 1931), with Rubins and Friedman (1948) providing a later systematic study, and Geschwind (1965) placed it within a broader framework of disconnection syndromes—conditions where intact processing modules lose communication with each other. Berthier, Starkstein, and Leiguarda (1988) refined the characterisation, describing it as a "sensory-limbic disconnection syndrome": the somatosensory pathways that detect tissue damage remain intact, but their connection to the affective evaluation systems is severed. Those six patients also presented with hemiparesis, cortical sensory loss, neglect, body-schema disorders and a broad failure to react to threatening gestures, on anatomically extensive lesions—not a surgical subtraction of one component from an otherwise intact brain.
 
 The lesion sites usually named are the insular cortex, the anterior cingulate cortex and the white matter connecting them, but that localisation rests on a thinner record than textbook summaries suggest. Feinstein et al. (2016) state that "No studies have replicated the original finding of pain asymbolia following insula damage," note that Berthier et al.'s lesions often extended into the parietal operculum, secondary somatosensory cortex and supramarginal gyrus—leaving it unclear whether the insula damage was the primary cause of the deficit—and report a patient with extensive bilateral damage to the insula, anterior cingulate and amygdala whose emotional awareness of pain was preserved. Insular and cingulate involvement is the best-supported reading rather than an established necessity claim; the argument below turns on the dissociation, not on where it is housed.
 
@@ -84,9 +84,9 @@ The gain is resolution rather than confirmation, and two disciplines hold it the
 
 ### Against Functionalist Reduction
 
-[[concepts/functionalism|Functionalism]] holds that mental states are defined by their causal roles—pain *is* whatever state plays the functional role of detecting damage, motivating withdrawal, and producing avoidance learning. Asymbolia challenges this directly. The sensory detection persists. What vanishes is the phenomenal quality—the felt awfulness—and with it, the entire motivational structure.
+[[concepts/functionalism|Functionalism]] holds that mental states are defined by their causal roles—pain *is* whatever state plays the functional role of detecting damage, motivating withdrawal, and producing avoidance learning. Asymbolia presses on that definition: sensory detection persists while the felt awfulness and the motivational structure vanish together. Functionalists have two replies.
 
-A sophisticated functionalist can respond that asymbolia patients are simply *not in pain*: the functional role has been disrupted, so the state no longer counts as pain. But this concedes the central point. Patients still identify, localise and describe the stimulus: something pain-like persists that they recognise and label. If the functionalist must deny this is pain because the affective-motivational component is missing, then functionalism acknowledges that the [[qualia|quale]] of pain is not exhausted by nociceptive detection. The felt awfulness is doing explanatory work that functional role alone cannot replace—which is what the dualist claims.
+One denies that the patients are *in pain*, setting aside their own identification, localisation and description of the stimulus. The other decomposes the role: the affective component just *is* the motivational role, so its loss with the behaviour is what the theory predicts. Klein (2015) reads it as a lost capacity to care about bodily integrity, not a detached quale. Decomposition costs functionalism nothing by its own lights. What the clinical record cannot supply is the identification itself—that occupying the motivational role is all there is to felt awfulness. That disagreement sits at the [[constitution-vs-causal-work|bridge]] from role to felt awfulness, and asymbolia leaves it open.
 
 ### The Affective Layer as Phenomenal Contribution
 
@@ -153,5 +153,6 @@ Together, these dissociations show that pain's dimensions can be modulated separ
 1. Ploner, M., Freund, H.-J., & Schnitzler, A. (1999). "Pain Affect Without Pain Sensation in a Patient with a Postcentral Lesion." *Pain*, 81(1–2), 211–214. https://doi.org/10.1016/S0304-3959(99)00012-3
 1. Rainville, P., Duncan, G. H., Price, D. D., Carrier, B., & Bushnell, M. C. (1997). "Pain Affect Encoded in Human Anterior Cingulate But Not Somatosensory Cortex." *Science*, 277(5328), 968–971. https://doi.org/10.1126/science.277.5328.968
 1. Rainville, P., Carrier, B., Hofbauer, R. K., Bushnell, M. C., & Duncan, G. H. (1999). "Dissociation of Sensory and Affective Dimensions of Pain Using Hypnotic Modulation." *Pain*, 82(2), 159–171.
+1. Schilder, P. & Stengel, E. (1931). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 25(3), 598–600. https://doi.org/10.1001/archneurpsyc.1931.02230030156007
 1. Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
 1. Geschwind, N. (1965). "Disconnexion Syndromes in Animals and Man." *Brain*, 88(2), 237–294.

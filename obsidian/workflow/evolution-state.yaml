@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T11:33:56.948383+00:00'
-session_count: 24435
+last_updated: '2026-11-11T11:48:16.267768+00:00'
+session_count: 24436
 cycle_position: 15641
 last_runs:
   add-highlight: '2026-11-11T08:07:25.578310+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-11T10:41:53.074017+00:00'
   embed-videos: '2026-11-11T00:04:12.439687+00:00'
   expand-topic: '2026-11-10T14:19:22.299642+00:00'
-  harvest-research-subjects: '2026-11-11T05:33:23.325516+00:00'
+  harvest-research-subjects: '2026-11-11T11:48:16.267768+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-10T10:44:11.127860+00:00'
   optimistic-review: '2026-11-11T09:20:40.298365+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-11'
-  outcome: success
-  kind: agentic_social
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-11-11'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: agentic_social
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-11'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/surprise-prediction-error-and-consciousness/
