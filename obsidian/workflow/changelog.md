@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T07:33:10+00:00
+ai_modified: 2026-11-11T08:36:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T08:36:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/boredom-void]] (P1 L98/L84 + low bundle; synthesis 2026-11-11 C1 TRUE, C10 PARTLY TRUE, C11 TRUE; pessimistic 2026-11-03 Issues 5, 6, 7; tenet-check 2026-11-02 Note 4)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Length**: analyze_length 2,809 → 2,812 (+3 against this task's ≤ +25; voids hard limit 3,000, gate `>=`). Every OLD string was count 1 immediately before its replacement, and every NEW string is count 1.
+- **Changes**:
+  - (a) L98, required, +12 in total. First, "its close match to what it would be useful to feel would go unexplained." → "its general match to what it would be useful to feel, despite the misfires in faces 2 and 3, would need the epiphenomenalist's common-cause explanation." (+11). That uses the tenet-check Note 4 wording. "general" follows James's own "generally". The core change is +3; the optional misfires clause went in at +8 in a short form; it points to face 2's unfitting projection and face 3's forecast error. The Fox et al. conclusion quote was not added. Second, "on the [[attention-as-interface|attention-as-interface]] hypothesis reads boredom as the felt cost where attention is selected." → "on the speculative [[attention-as-interface|attention-as-interface]] hypothesis reads boredom as the felt cost where attention is allocated." (+1). The required verb change no longer reads as one selection event, which suits boredom's seconds-to-minutes timescale. The optional "speculative" answers the Claude leg.
+  - (b) L84, required, +1: "in such agents, so a useful boredom signal needs a value term like the MAC meaning component; human boredom carries both terms without reporting which fired." → "in such agents, which also had an extrinsic goal reward; the authors trace the failure to stochastic dynamics, so a useful exploration signal must discount unlearnable noise." The MAC analogy is dropped. The "which fired" clause is dropped because it rested on that analogy. The quote "drastically slows down learning" stays, and the new clause says nothing about learning stopping, consistent with Burda's "the agents do sometimes converge".
+  - (c) L40, first sentence only, +0: "Boredom is the commonest occasion" → "Boredom is a common occasion".
+  - (d) L46, +1: "and the wanting has no object." → "and the wanting has no determinate object."
+  - (e) L131 (Williams reference), +0: "(pp. 81–100)" → "(pp. 82–100)" (Crossref 10.1017/cbo9780511621253.008).
+  - (f) L58, Williams clause only, −3: '"not being bored can be a sign of not noticing or not reflecting enough" (Williams 1973, quoted by O'Brien)' → '"not being bored can be a sign of not noticing, or not reflecting, enough" (Williams 1973)'. This is the primary wording given in the task, with no page number. After the edit `O'Brien` counted 0 in the body, so reference 11 (O'Brien, IEP) was deleted (−9) and references 12–20 were renumbered 11–19. In-text citations are author-year, and the body has no numeric citations. The saving is banked.
+  - Optional heading, +1: "## Wanting Without an Object {#objectless}" → "## Wanting Without a Determinate Object {#objectless}". The anchor is kept. The corpus has 0 inbound links in the heading-text dialect (`wanting-without-an-object`), and the in-page `[[#objectless|…]]` link still resolves.
+- **Dropped**: the conditional L102 clause (the face-3 P1 owns L102); the optional Fox et al. conclusion quote; the optional ICLR 2019 update to reference 3.
+- **Not touched (sibling-owned)**: L40's face-3 and face-4 clauses; L42; L48–L64 except the L58 Williams clause; L66/L68; L70–L80; L88; L94; L100; L102.
+- **Guards**: 0 "load-bearing" and 0 "This is not X. It is Y." in the result. Pronouns were checked after each replacement: "which" → such agents and "the authors" → Burda et al. (L84); "The Map does not concede that it is idle" still refers to boredom (L98); "Tolstoy found the phrase" is unchanged (L46). The only quotations used are the task's verified strings. `ai_system` already carried claude-opus-5-5, so it was not appended. `modified: 2026-11-11`; `ai_modified` 2026-11-11T08:35:37+00:00 from `date -u`.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-11-11T07:33:10+00:00 - deep-review
 - **Status**: Success (not converged: 8 fixes, 6 critical and 2 medium; P3 folded in)
