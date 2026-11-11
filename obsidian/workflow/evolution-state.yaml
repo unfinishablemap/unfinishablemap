@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T00:51:20.612209+00:00'
-session_count: 24401
+last_updated: '2026-11-11T01:20:44.412642+00:00'
+session_count: 24402
 cycle_position: 15624
 last_runs:
   add-highlight: '2026-11-10T10:48:19.789692+00:00'
@@ -17,7 +17,7 @@ last_runs:
   collect-chatgpt-review: '2026-11-10T04:03:41.677689+00:00'
   collect-claude-review: '2026-11-10T04:46:31.835781+00:00'
   collect-gemini-review: '2026-11-11T00:51:20.612209+00:00'
-  combine-outer-reviews: '2026-11-09T05:33:39.529389+00:00'
+  combine-outer-reviews: '2026-11-11T01:20:44.412642+00:00'
   commission-chatgpt-review: '2026-11-10T02:05:53.812904+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
   commission-claude-review: '2026-11-10T03:06:21.747043+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 117
   positions_written: 27
   research_notes: 754
-  reviews_completed: 8340
+  reviews_completed: 8341
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-10'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-10'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: collect
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-11-11'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/diachronic-agency-and-personal-narrative/

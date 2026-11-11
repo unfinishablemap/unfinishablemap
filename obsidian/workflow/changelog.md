@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T01:18:29+00:00
+ai_modified: 2026-11-11T01:38:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T01:38:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pain-consciousness-and-causal-power]]
+- **Task**: todo.md P1 L5022 (outer-review synthesis 2026-11-10 cluster C6, TRUE): IASP pain/nociception vocabulary (L80) and IIT 4.0 quality/quantity (L126)
+- **Original score**: n/a (scripts/curate.py absent)
+- **Sources verified before writing**: IASP terminology page (raw HTML, Wayback snapshot 20251231203413; live site returns Cloudflare 403 to curl, WebFetch agrees): pain = "An unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage"; note "Pain and nociception are different phenomena. Pain cannot be inferred solely from activity in sensory neurons."; nociception = "The neural process of encoding noxious stimuli." Albantakis et al. 2023, PLOS Comput Biol 19(10):e1011465 (JATS full text): "The Φ-structure they compose corresponds to the quality of the experience specified by the substrate; the sum of their φd/r values corresponds to its quantity (Φ)." (the task Notes' "φ values" is "φd/r values" in the source). Both paraphrased in the body, neither quoted or cited, so References unchanged
+- **Changes**: (a) L80: the two sentences that made pain "a sensory event — nociceptive signals" replaced, same sentence count, by the standard three-way split (nociception = neural encoding of noxious stimuli; pain = the unpleasant sensory-emotional experience associated with tissue damage; wider suffering = grief, dread, moral anguish), relocating the section thesis to the pain/suffering boundary; "Their separability … either phenomenon" now resolves to pain and suffering. (b) L126: "predicts that any loss of integration reduces consciousness … phi is a single scalar measure" replaced by IIT 4.0's separation of quantity (Φ) from quality (the Φ-structure); "Yet" dropped (no contrast left); the redundant "global dimming / targeted excision" sentence replaced by "a Φ-structure change the theory must model, not a falsification". L132's explanatory-gap point untouched. (c) L84 zero-cost: "fibres carry … pain" → "fibres mediate … pain" (x2), so the fibres no longer carry the experience the new L80 distinguishes from nociception. L120 re-read, still reads as nociception vs pain, not edited (owned by the calibration P1 item 6). L152/L154/L170/L174 not touched. Plain [[integrated-information-theory]] link kept; no anchor pipe (the concept page has no Φ-structure/quality section)
+- **Engagement classification**: IIT: the old reply was an invalid in-framework refutation (it attacked a scalar-only IIT that 4.0 is not); now an honest accommodation (the deficit is a modelling task for IIT), with the residue left to L132's framework-boundary explanatory-gap point
+- **Length**: analyze_length 3,982 → 3,981 (net −1; topics hard 4,000)
+- **Checks**: pronouns checked after each replaced sentence; (surname, year) orphans: body→refs 0, no citation added or removed; no "load-bearing", no new "This is not X. It is Y." (pre-existing L86 "suffering is not a sensory event. It is …" left, out of scope)
+- **Published**: yes
 
 ## 2026-11-11T01:18:29+00:00 - combine-outer-reviews
 - **Status**: Success

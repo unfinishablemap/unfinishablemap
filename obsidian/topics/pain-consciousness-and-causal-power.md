@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal, and the sharpest pressure 
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-11-10T11:53:31+00:00
+ai_modified: 2026-11-11T01:38:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,11 +77,11 @@ The physicalist may reply, following Lewis and Nemirow, that the neuroscientist 
 
 ## The Pain-Suffering Distinction
 
-Pain and suffering are not the same thing. Pain is a sensory event — nociceptive signals carrying information about tissue damage. Suffering is what consciousness does with that information, and much else besides. Their separability exposes the limits of physicalist explanation more sharply than either phenomenon considered in isolation.
+Pain and suffering are not the same thing. Nociception is the neural encoding of noxious stimuli; pain, the unpleasant sensory-emotional experience associated with tissue damage. The boundary at issue lies between pain and wider suffering: grief, dread, moral anguish. Their separability exposes the limits of physicalist explanation more sharply than either phenomenon considered in isolation.
 
 ### The Phenomenological Gap Between Them
 
-Pain has a relatively tractable phenomenology. It is localised (the left knee, the lower back), qualitatively specific (sharp, burning, throbbing), and intensity-graded. These features map onto identifiable neural pathways: A-delta fibres carry sharp, fast pain; C-fibres carry slow, burning pain. The sensory-discriminative dimension of pain — where it is, what type, how intense — has clear physical correlates.
+Pain has a relatively tractable phenomenology. It is localised (the left knee, the lower back), qualitatively specific (sharp, burning, throbbing), and intensity-graded. These features map onto identifiable neural pathways: A-delta fibres mediate sharp, fast pain; C-fibres mediate slow, burning pain. The sensory-discriminative dimension of pain — where it is, what type, how intense — has clear physical correlates.
 
 Suffering resists this mapping. Consider watching a loved one deteriorate from a terminal illness. The experience is agonising, but where is it located? What is its quality — sharp or dull? These questions misfire because suffering is not a sensory event. It is an evaluative, meaning-laden state that involves the whole person: memory, anticipation, self-concept, values, attachment. Suffering has phenomenal character — there is decidedly something it is like to suffer — but that character does not decompose into sensory dimensions.
 
@@ -123,7 +123,7 @@ Where thought experiments like [[philosophical-zombies]] remain debatable in the
 
 **[[global-workspace-theory|Global workspace theory]]** can model asymbolia as a partial broadcasting failure: sensory pain reaches the global workspace while affective pain does not. This is descriptively adequate but reveals a limitation. Two pieces of information might be equally available to the global workspace while differing radically in phenomenal quality. The theory predicts that asymbolia patients lose access to affective information, but it cannot explain why affective information, when accessed, *hurts*.
 
-**[[integrated-information-theory|Integrated Information Theory]]** predicts that *any* loss of integration reduces consciousness in a general, undifferentiated way — phi is a single scalar measure. Yet asymbolia is domain-specific: patients lose affective pain experience while retaining full sensory awareness, visual consciousness, and general cognitive function. The deficit is not a global dimming but a targeted excision of one phenomenal quality.
+**[[integrated-information-theory|Integrated Information Theory]]** 4.0 separates the quantity of experience (Φ) from its quality, which corresponds to the Φ-structure. Asymbolia is domain-specific: patients lose affective pain experience while retaining full sensory awareness, visual consciousness, and general cognitive function. The deficit is therefore a Φ-structure change the theory must model, not a falsification.
 
 **Representationalism** identifies phenomenal character with representational content. But perceiving a red square and perceiving tissue-damage-as-threat are both representations, yet only one produces felt awfulness. If phenomenal character just *is* representational content, the two should differ in what they are about but not in whether they hurt. The fact that one content is constitutively aversive while another is affectively neutral suggests that phenomenal character may not be fully captured by representational content alone.
 
