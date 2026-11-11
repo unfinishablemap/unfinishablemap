@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T13:35:48.835002+00:00'
-session_count: 24443
-cycle_position: 15646
+last_updated: '2026-11-11T13:50:12.286109+00:00'
+session_count: 24444
+cycle_position: 15647
 last_runs:
   add-highlight: '2026-11-11T08:07:25.578310+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-11T09:20:40.298365+00:00'
   pessimistic-review: '2026-11-11T06:44:00.890068+00:00'
   positions-evolve: '2026-11-10T23:52:42.346632+00:00'
-  refine-draft: '2026-11-11T13:35:48.835002+00:00'
+  refine-draft: '2026-11-11T13:50:12.286109+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-10T16:03:17.498988+00:00'
   research-voids: '2026-11-10T13:50:27.706046+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-11-11'
-  outcome: success
-  kind: trigger
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-11'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-11'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-11'

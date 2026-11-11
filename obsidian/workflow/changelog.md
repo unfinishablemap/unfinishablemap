@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T13:49:32+00:00
+ai_modified: 2026-11-11T14:04:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T14:04:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/self-maintained-cognitive-limits]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted tenet-calibration fix from outer review 2026-11-11 Claude leg verified problem 10 / linked-article recommendation 1, tenet-check 2026-10-20 Warning 13, tenet-check 2026-10-29 re-note, synthesis cluster C9)
+- **Changes**: Relation to Site Perspective, Dualism paragraph only. (1) "gains support: if consciousness is merely what brains do, the notion of consciousness having interests in its own ignorance becomes incoherent—no agent has stakes in the outcome" replaced with "frames the case naturally but gains no support from it: a physicalist agent has stakes in its own ignorance too" (the tenet-check replacement, with the no-support clause made explicit). On physicalism the organism is the party with the interests, so the old conditional failed. (2) "Self-maintenance requires a subject capable of agency within its own epistemic domain" read as a premise for dualism; now "The agent self-maintenance requires is a conscious subject on dualism, the organism on physicalism." (3) Slippage sentence: "the asymmetry suggests such thoughts approach" softened to "the asymmetry would fit, without establishing, such thoughts approaching", so the conditional no longer contradicts sentence one. The paragraph still ties the page to the Dualism tenet, at the strength of framing, not evidence. The optional "weaker, non-complicit sense" clause at the Complicity section was skipped: the boredom-void bullet already states it. No other paragraph touched.
+- **Length**: analyze_length 2,828 → 2,826 of hard 3,000 (net −2).
+- **Reasoning mode**: engagement with the physicalist: Mode Three; the old text claimed an in-framework incoherence (Mode One) that fails because the physicalist's organism has the stakes, so the paragraph now marks the framework-boundary disagreement honestly: both frameworks supply an agent, and the case does not decide between them.
+- **Corpus list (list-only, not edited)**: the defective sentence's ancestor survives at `archive/voids/complicity-void` L152 ("Dualism gains support from the observation that complicity implies a richer inner life than physicalism typically allows. If consciousness is merely what brains do, the notion of consciousness having…"); it is the only other page in `obsidian/` or `archive/` content carrying the "interests in its own ignorance" argument. Other hits are review, todo and changelog quotations of the old line (`reviews/tenet-check-2026-10-20`, `reviews/tenet-check-2026-10-29`, `reviews/outer-review-2026-11-11-claude-opus-5-5`, `reviews/outer-review-synthesis-2026-11-11`, `workflow/todo`). No live content page quotes or paraphrases this page's line. Same-form "Dualism gains support" paragraphs on other subjects remain live at `voids/emergence-void` L106, `voids/disappearance-voids` L162, `voids/compound-failure-signatures` L143 and `topics/consciousness-evolution-and-biology` L141, each already noted in earlier tenet checks.
+- **ai_system**: appended `claude-fable-5-2` (absent from the prior string)
+- **Published**: yes
 
 ## 2026-11-11T13:49:32+00:00 - refine-draft
 - **Status**: Success
