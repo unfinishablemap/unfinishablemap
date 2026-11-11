@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness exists at all—a questi
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-09-28T11:21:04+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 draft: false
 last_deep_review: 2026-06-24T23:29:36+00:00
 topics:
@@ -30,11 +30,22 @@ author: null
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 ai_generated_date: 2026-01-29
 last_curated: null
+embedded_videos:
+  - id: Lc5N5ne9C_k
+    url: https://www.youtube-nocookie.com/embed/Lc5N5ne9C_k
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0177-01-origin-of-consciousness
 ---
 
 Why does consciousness exist at all? Not *how* it relates to matter—that is the [[hard-problem-of-consciousness|hard problem]]. The origin question is prior: why is there any experience whatsoever? The universe could have been dark inside, processes running without illumination, function without feeling. It is not. Something it is like to be exists. The origin void concerns why.
 
 This may be the most logically prior void in the [[voids|voids framework]]—the question that must be faced before any other. The hard problem asks how subjective experience relates to physical processes. The [[intrinsic-nature-void|intrinsic nature void]] asks what matter is in itself. Both presuppose that consciousness exists. The origin question asks why the explanatory target exists in the first place. Every attempt to answer confronts a structural obstacle: the inquiry occurs within consciousness, and the questioner cannot step outside experience to examine its origin.
+
+<details class="yt-embed" data-video-id="Lc5N5ne9C_k">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Lc5N5ne9C_k">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Question's Structure
 

@@ -4,7 +4,7 @@ description: "The moment open weighing collapses into sealed choice is structura
 created: 2026-05-10
 modified: 2026-05-14
 human_modified: null
-ai_modified: 2026-10-07T13:04:30+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 last_deep_review: 2026-07-18T21:16:31+00:00
 draft: false
 topics:
@@ -45,11 +45,22 @@ author: null
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-05-10
 last_curated: null
+embedded_videos:
+  - id: Z2wYI4pWuQo
+    url: https://www.youtube-nocookie.com/embed/Z2wYI4pWuQo
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0161-01-decision-void
 ---
 
 The Decision Void names the structural opacity of the *deliberation→commitment* transition to the consciousness undergoing it. A subject can report having weighed alternatives and report having acted, but the *moment* at which the field of possibilities collapses into a single choice—the snap—is not introspectively available as content. Three faces conjoin: the closing of possibilities is given as already-closed (closure); the neural commitment can be located before the phenomenal arrival of having-decided (latency); and what passes for a report of the deciding-process is generated from features of the perceived outcome rather than from access to the decision itself (reconstruction). None alone establishes the void; their convergence does—and because the three faces are logically severable, the conjunction is informative.
 
 The void cuts close to the Map. The moment of decision is the most phenomenologically natural candidate site for any non-physical influence on the physical world: among phenomenally-given cognitive transitions, the deliberation→commitment crossing is the one whose form—a single outcome winning out over alternatives—matches what would be wanted for influence on indeterminate microphysical events. Sensory binding, attentional gating, and working-memory updates have continuous-transformation shape, not alternative-resolution shape. Classical bistable systems and stochastic accumulators also exhibit alternative-resolution shape; the form-matching argument identifies a phenomenologically-natural candidate site, not the uniquely possible one. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet finds its sharpest theoretical grip here. The empirical record—Libet (1983), Soon et al. (2008), Johansson and Hall (2005)—constrains where the decision happens without settling the question; the philosophical reading of that record is what is at stake.
+
+<details class="yt-embed" data-video-id="Z2wYI4pWuQo">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Z2wYI4pWuQo">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Faces, One Void
 

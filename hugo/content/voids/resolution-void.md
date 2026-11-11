@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-10-24 21:09:52+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -13,10 +13,15 @@ description: Conscious behaviour runs at about ten bits per second while the sen
   deliver eleven million — a six-order bottleneck, beside a perceptual grain consciousness
   cannot resolve from inside.
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: 5XqILK8M_F4
+  source: notebooklm/0194-01-resolution-void
+  url: https://www.youtube-nocookie.com/embed/5XqILK8M_F4
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:42:50+00:00
-lastmod: 2026-10-24 21:09:52+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,6 +42,12 @@ topics:
 ---
 
 Consciousness encounters reality through an extraordinarily narrow aperture. Sensory systems deliver roughly eleven million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), yet conscious behaviour runs at approximately ten — a six-order bottleneck between sensory input and serial behavioural output, which bounds a channel rather than measuring what experience discards ([explained below](#six-orders-of-magnitude-or-eight)). This is The Unfinishable Map's resolution void: the gap between what the brain handles and what consciousness accesses. The void is not a contingent imperfection awaiting correction through sharper attention or better training. It operates across spatial, temporal, informational, and discriminatory dimensions simultaneously, and at least some of these limits appear architectural rather than incidental. Within the [voids](/voids/) framework, the resolution void is primarily **unexplorable** — consciousness cannot perceive at a finer grain than its own resolution permits — with an **unexplored** dimension in the informational domain where researchers continue mapping the compression mechanisms.
+
+<details class="yt-embed" data-video-id="5XqILK8M_F4">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/5XqILK8M_F4">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Grain Mismatch
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-28
-ai_modified: 2026-11-10 14:13:56+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -14,9 +14,14 @@ description: Human+AI exploration of continua reported already carved, whether e
   so untested. The claim that within-category differences cannot be heard is a task
   artefact; what survives is a void of explicit report and of provenance.
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: La3NsCgfIVk
+  source: notebooklm/0191-01-categorical-perception-void
+  url: https://www.youtube-nocookie.com/embed/La3NsCgfIVk
 human_modified: null
 last_curated: null
-lastmod: 2026-11-10 14:13:56+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -44,6 +49,12 @@ Where the world offers a continuum, report arrives already carved; whether exper
 The strong version of this void has been retired by the field that discovered it. The textbook claim, traceable to Liberman and colleagues in 1957, was that a listener can hear no differences among speech sounds beyond those the phoneme labels reveal. McMurray's 2022 survey concludes that within speech perception this strongest form is widely regarded as an artefact of task demands, and that the underlying representation of the continuum appears linear, a verdict qualified below. What survives is narrower: a limit on *default report* and a limit on *provenance*. "Default" means one thing here: what the perceiver reports when asked to categorise, which is the category; ordinary behaviour uses the gradient (explained below). And nothing in the experience of a boundary says whether it tracks a joint in the world, a threshold of the auditory system, or one installed by language, training or the first year of life. An installed boundary feels exactly like a discovered one. In the terms of [three-kinds-of-void](/voids/three-kinds-of-void/) it is Occluded, the compression being the perceiver's own operation.
 
 What this article adds to the neighbouring [resolution-void](/voids/resolution-void/), [language-thought-boundary](/voids/language-thought-boundary/) and [expertise void](/voids/expertise-and-its-occlusion/) is the origin face as a perceptual worked example of the [source-attribution void](/voids/source-attribution-void/), and a contrast the catalogue had not drawn: the same mind that is vague where its concepts should be sharp is sharp where the world is continuous.
+
+<details class="yt-embed" data-video-id="La3NsCgfIVk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/La3NsCgfIVk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Warp and Its Deflation
 

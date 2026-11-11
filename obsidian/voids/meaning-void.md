@@ -4,7 +4,7 @@ description: "How thoughts achieve aboutness, and what understanding feels like 
 created: 2026-02-05
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-27T20:20:38+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 last_deep_review: 2026-07-17T15:31:28+00:00
 draft: false
 topics:
@@ -46,9 +46,20 @@ last_curated: null
 coalesced_from:
   - "/voids/intentionality-void/"
   - "/voids/semantic-void/"
+embedded_videos:
+  - id: 0fxWkvAIf14
+    url: https://www.youtube-nocookie.com/embed/0fxWkvAIf14
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0195-01-meaning-void
 ---
 
 Meaning has two faces, and both resist physical reduction. Thoughts are *about* things—you think about Paris, tomorrow's meeting, the number seven—and there is something it is like to grasp a sentence, recognise a concept, get a joke. The mechanism by which a thought achieves its specific reference operates entirely below introspective awareness. The felt character of understanding, once reference has arrived, exceeds every formal model aimed at it. The meaning void marks this double inaccessibility at the heart of mental life: we cannot catch reference in formation, and we cannot capture felt comprehension in any third-person scheme. It operates at the intersection of the [[three-kinds-of-void|unexplorable and the occluded]].
+
+<details class="yt-embed" data-video-id="0fxWkvAIf14">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/0fxWkvAIf14">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Faces of the Same Void
 

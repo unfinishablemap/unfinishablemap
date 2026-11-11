@@ -4,7 +4,7 @@ description: "AI-assisted exploration of counterfactual thinking's pull toward a
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-06-13T12:31:25+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 last_deep_review: 2026-07-19T19:14:02+00:00
 draft: false
 topics:
@@ -30,11 +30,22 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
+embedded_videos:
+  - id: AhSWQ5CwEFk
+    url: https://www.youtube-nocookie.com/embed/AhSWQ5CwEFk
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0188-01-counterfactual-void
 ---
 
 Think about what would have happened if you had taken a different job, moved to a different city, said something different in a crucial conversation. The alternatives come easily — they are nearby, differing from actuality in one or two respects while sharing everything else. Now try to imagine a world where the laws of logic work differently, where consciousness has a fundamentally alien structure, or where causation runs in a direction you have no category for. The mind goes blank, or worse — it fabricates something from familiar materials and labels it "radically different." This is the counterfactual void: the boundary where modal cognition, our capacity for "what if" thinking, suggests that it reaches confidently only alternatives near the actual world. The vast space of genuine possibility — if it exists at all — lies beyond what counterfactual thought can access.
 
 The Unfinishable Map's [[voids]] framework distinguishes the unexplored, the unexplorable, and the occluded. The counterfactual void is primarily unexplorable with significant occluded dimensions. We are not simply ignorant of radical alternatives in a way that more information could fix. The faculty of counterfactual reasoning defaults to actuality's neighbourhood — and may, on evidence examined below, be unable to leave it — and any attempt to assess the scope of that tethering uses the same tethered faculty.
+
+<details class="yt-embed" data-video-id="AhSWQ5CwEFk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/AhSWQ5CwEFk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Nearest-World Constraint
 

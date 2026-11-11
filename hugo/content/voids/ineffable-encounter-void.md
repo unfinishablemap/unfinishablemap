@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-08-25 06:19:37+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -19,10 +19,15 @@ description: Human+AI exploration of why consciousness encounters meaning and sa
   significance whose generating mechanism it cannot inspect and whose veridicality
   it cannot evaluate from within.
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: 8-HOq827hvE
+  source: notebooklm/0176-01-ineffable-encounter-void
+  url: https://www.youtube-nocookie.com/embed/8-HOq827hvE
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 01:04:37+00:00
-lastmod: 2026-08-25 06:19:37+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -66,6 +71,12 @@ The ineffable encounter void marks this twin opacity. It is the paradigm [presen
 Both register as conscious knowing, come unbidden, and transform the experiencer without delivering articulable content. Both implicate the same structural limits: [introspective opacity](/voids/self-opacity/), the [mutation pattern](/voids/mutation-void/) (inspection alters what is inspected), and—at the limit—[cognitive closure](/concepts/mysterianism/) over the experience's own veridicality.
 
 In the Map's [tripartite scheme](/voids/three-kinds-of-void/) (unexplored, unexplorable, occluded), this void spans the latter two: unexplorable through the invisibility of the generating mechanism, occluded because resonance resists voluntary control and dissolves when interrogated, and because the numinous suspends the evaluator.
+
+<details class="yt-embed" data-video-id="8-HOq827hvE">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/8-HOq827hvE">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Registers, One Structure
 

@@ -4,7 +4,7 @@ description: "Human+AI investigation of whether emotions constitute genuine know
 created: 2026-03-02
 modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-20T18:26:23+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -32,9 +32,20 @@ ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-03-02
 last_curated:
 last_deep_review: 2026-06-26T09:35:23+00:00
+embedded_videos:
+  - id: zs77jaVpYJs
+    url: https://www.youtube-nocookie.com/embed/zs77jaVpYJs
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0190-01-emotional-epistemology-void
 ---
 
 Emotions often carry a powerful sense of disclosure—a feeling that awe, grief, love, or moral outrage *reveal* something about reality rather than merely reacting to it. The Unfinishable Map identifies this as a void because the question of whether emotions constitute genuine knowledge cannot be settled without using the very epistemic faculties whose status is in dispute. If emotions do provide irreplaceable access to truths that reasoning alone cannot reach, then entire domains of reality are structurally closed to any mind not in the right affective state. If they are only fallible evidence about features other faculties can also check, no domain is closed and the question is one of ordinary reliability. If the conviction that feelings disclose something real is an illusion, nothing in the feeling exposes the illusion. The void is that, for whatever emotions seem to disclose beyond any non-affective check, these possibilities cannot be told apart without relying on the faculty in question ([[#the-verification-paradox|the verification paradox]], explained below).
+
+<details class="yt-embed" data-video-id="zs77jaVpYJs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/zs77jaVpYJs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Case for Affective Knowledge
 

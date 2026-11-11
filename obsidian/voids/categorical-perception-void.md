@@ -4,7 +4,7 @@ description: "Human+AI exploration of continua reported already carved, whether 
 created: 2026-09-28
 modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-11-10T14:13:56+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 draft: false
 topics:
   - "[[consciousness-and-language-interface]]"
@@ -33,6 +33,11 @@ author: null
 ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-28
 last_curated: null
+embedded_videos:
+  - id: La3NsCgfIVk
+    url: https://www.youtube-nocookie.com/embed/La3NsCgfIVk
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0191-01-categorical-perception-void
 ---
 
 Where the world offers a continuum, report arrives already carved; whether experience does is untested. Voice-onset time runs smoothly from 0 to 60 milliseconds, but a listener reports /b/ and then, abruptly, /p/; hue, facial expression and musical interval behave the same way. The perceiver discriminates two stimuli that straddle a boundary more easily than two equally different stimuli inside one, and reports the verdict rather than the gradient. This is categorical perception, and the Map's categorical perception void is the region it hides: the interior of each category, reported at reduced resolution by an operation the perceiver did not choose and cannot watch.
@@ -40,6 +45,12 @@ Where the world offers a continuum, report arrives already carved; whether exper
 The strong version of this void has been retired by the field that discovered it. The textbook claim, traceable to Liberman and colleagues in 1957, was that a listener can hear no differences among speech sounds beyond those the phoneme labels reveal. McMurray's 2022 survey concludes that within speech perception this strongest form is widely regarded as an artefact of task demands, and that the underlying representation of the continuum appears linear, a verdict qualified below. What survives is narrower: a limit on *default report* and a limit on *provenance*. "Default" means one thing here: what the perceiver reports when asked to categorise, which is the category; ordinary behaviour uses the gradient (explained below). And nothing in the experience of a boundary says whether it tracks a joint in the world, a threshold of the auditory system, or one installed by language, training or the first year of life. An installed boundary feels exactly like a discovered one. In the terms of [[three-kinds-of-void]] it is Occluded, the compression being the perceiver's own operation.
 
 What this article adds to the neighbouring [[resolution-void]], [[language-thought-boundary]] and [[expertise-and-its-occlusion|expertise void]] is the origin face as a perceptual worked example of the [[source-attribution-void|source-attribution void]], and a contrast the catalogue had not drawn: the same mind that is vague where its concepts should be sharp is sharp where the world is continuous.
+
+<details class="yt-embed" data-video-id="La3NsCgfIVk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/La3NsCgfIVk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Warp and Its Deflation
 

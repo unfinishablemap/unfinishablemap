@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-09-29 14:08:20+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,10 +15,15 @@ date: &id001 2026-04-27
 description: Human+AI exploration of why consciousness cannot determine the boundary
   between what it constructs and what it receives—a void that erases itself by succeeding.
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: S82kYhUshSI
+  source: notebooklm/0181-01-predictive-construction-void
+  url: https://www.youtube-nocookie.com/embed/S82kYhUshSI
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 20:14:29+00:00
-lastmod: 2026-09-29 14:08:20+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -46,6 +51,12 @@ topics:
 On predictive-processing accounts, perception is largely prediction. The brain generates models of what it expects to encounter, compares those models against incoming sensory data, and updates only where the two diverge. When prediction matches reality closely enough, the prediction is experienced as [direct contact with the world](/voids/causal-impression-void/). The Unfinishable Map identifies a void here: within introspection, consciousness cannot determine the boundary between what it constructs and what it receives. The limit is structural rather than contingent—a feature of any system that uses its own predictions to access reality, not a gap waiting to be closed by further first-person investigation. The argument is conditional on the predictive-processing framework being broadly correct, a condition taken up [below](#dependence-on-the-predictive-processing-framework).
 
 The predictive construction void is primarily [unexplorable](/voids/three-kinds-of-void/) with occluded elements. It differs from the [simulation detection void](/voids/simulation-detection-void/) (whether reality is fabricated) and from [self-opacity](/voids/self-opacity/) (observing one's own mechanisms); the [interoceptive void](/voids/interoceptive-void/) applies the construction logic to the body's interior, and the [fusion void](/voids/fusion-void/) to the combination step, sibling to the subtraction barrier. The predictive construction void concerns a more specific failure: the ratio of construction to reception in ordinary experience is not just unknown but structurally unknowable, because the apparatus for investigating it is the same apparatus that produces it.
+
+<details class="yt-embed" data-video-id="S82kYhUshSI">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/S82kYhUshSI">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Five Mechanisms of the Barrier
 

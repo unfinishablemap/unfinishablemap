@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-09-20 14:38:00+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,10 +12,15 @@ date: &id001 2026-04-28
 description: Human+AI exploration of how having a body shapes and constrains what
   we can think. Does meaning require embodiment? Can disembodied minds exist?
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: CJ1XtuG6qQI
+  source: notebooklm/0192-01-embodiment-cognitive-limits
+  url: https://www.youtube-nocookie.com/embed/CJ1XtuG6qQI
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 01:38:00+00:00
-lastmod: 2026-09-20 14:38:00+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -36,6 +41,12 @@ topics:
 Does being embodied create cognitive limits—or does it enable cognition in the first place? The embodied cognition research program argues that cognition is not merely implemented in bodies but *constituted* by bodily processes—sensorimotor systems, interoceptive signals, spatial metaphors derived from our upright bipedal form. If correct, disembodied minds (if possible) would face radically different cognitive landscapes. The grounding problem suggests meaning itself may require embodiment. A being with different embodiment (or none) would think differently about *everything*.
 
 A critical distinction runs through this territory: embodied *cognition* (the physical processes of thinking) is not the same question as embodied *consciousness* (whether phenomenal experience requires a body). The constitutive embodiment thesis is a physicalist achievement—it shows that cognitive processing depends on bodily structures. But this leaves open whether *consciousness itself* is similarly constituted by embodiment or whether it merely *interfaces with* the body to produce cognition. The [voids](/voids/) framework asks: which limits belong to the cognitive machinery, and which (if any) constrain consciousness as such?
+
+<details class="yt-embed" data-video-id="CJ1XtuG6qQI">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/CJ1XtuG6qQI">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Constitutive Role of the Body
 

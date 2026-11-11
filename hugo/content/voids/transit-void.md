@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-06
-ai_modified: 2026-07-20 01:47:17+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -29,10 +29,15 @@ date: &id001 2026-07-06
 description: Consciousness cannot witness its own crossings—state transitions, act
   onsets, or thoughts arriving and slipping away. Before and after, never in-flight.
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: VpGsNf1qM_Y
+  source: notebooklm/0193-01-transit-void
+  url: https://www.youtube-nocookie.com/embed/VpGsNf1qM_Y
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:47:17+00:00
-lastmod: 2026-07-20 01:47:17+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -74,6 +79,12 @@ topics:
 Consciousness cannot witness its own crossings. We never catch ourselves falling asleep, shifting moods, losing focus, or deciding — nor a thought arriving unbidden or slipping away as we reach for it. Every mental act is already underway when awareness arrives; every spontaneous thought is simply *there*, its assembly unwitnessed and gone before its departure can be observed. The transit void names the structural impossibility common to these cases: the cognitive stance required for observation is incompatible with the stance in which the crossing occurs. Consciousness has before-and-after access to its mental events but never in-flight access. Watching prevents crossing; crossing prevents watching.
 
 This void is primarily **occluded** within the Map's [voids](/voids/) framework, with elements of the **unexplorable**. The hiddenness appears functional rather than accidental — a structural requirement of how consciousness operates.
+
+<details class="yt-embed" data-video-id="VpGsNf1qM_Y">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/VpGsNf1qM_Y">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Faces of the Same Void
 

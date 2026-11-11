@@ -4,7 +4,7 @@ description: "Perception combines its estimates by hidden weights and a hidden c
 created: 2026-09-04
 modified: 2026-10-15
 human_modified:
-ai_modified: 2026-10-24T17:10:01+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 draft: false
 topics:
   - "[[the-binding-problem]]"
@@ -33,11 +33,22 @@ author:
 ai_system: claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-09-04
 last_curated:
+embedded_videos:
+  - id: wQEoYqAm_Wo
+    url: https://www.youtube-nocookie.com/embed/wQEoYqAm_Wo
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0196-01-fusion-void
 ---
 
 Every percept of a single world is the output of a combination step consciousness never witnesses. When binocular disparity and texture both estimate a surface's slant, the visual system weights each estimate by its reliability and delivers only the weighted result. The Unfinishable Map calls the resulting structural opacity the **fusion void**: the component estimates, the weights applied to them, and the prior verdict that the signals shared a cause at all are consumed in producing the percept, and none is recoverable from inside it. The claim concerns an *operation* whose workings are not introspectable, not an absence or thinness in experience — the fused percept is fully present; its manufacture is what does not appear.
 
 Two qualifications belong with that claim rather than after it. First, the void's boundary is itself a measured quantity, which is rare: fusion is mandatory within a single sense and, with at least one exception noted below, negotiable between senses, and the line between them has psychophysical coordinates (Hillis, Ernst, Banks & Landy, 2002). Second, the combination machinery sits on the brain side of the Map's [[capability-division-problem|capability division problem]] — cue weighting and perceptual causal inference are among the best-modelled operations in perception science. The void *locates* an explanatory residue; it supplies no evidence for any account of one.
+
+<details class="yt-embed" data-video-id="wQEoYqAm_Wo">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/wQEoYqAm_Wo">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Common-Cause Gate
 

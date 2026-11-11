@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness encounters meaning and s
 created: 2026-03-24
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-08-25T06:19:37+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 draft: false
 last_deep_review: 2026-06-27T01:04:37+00:00
 topics:
@@ -50,6 +50,11 @@ last_curated:
 coalesced_from:
   - "/voids/resonance-void/"
   - "/voids/numinous-void/"
+embedded_videos:
+  - id: 8-HOq827hvE
+    url: https://www.youtube-nocookie.com/embed/8-HOq827hvE
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0176-01-ineffable-encounter-void
 ---
 
 
@@ -63,6 +68,12 @@ The ineffable encounter void marks this twin opacity. It is the paradigm [[prese
 Both register as conscious knowing, come unbidden, and transform the experiencer without delivering articulable content. Both implicate the same structural limits: [[self-opacity|introspective opacity]], the [[mutation-void|mutation pattern]] (inspection alters what is inspected), and—at the limit—[[mysterianism|cognitive closure]] over the experience's own veridicality.
 
 In the Map's [[three-kinds-of-void|tripartite scheme]] (unexplored, unexplorable, occluded), this void spans the latter two: unexplorable through the invisibility of the generating mechanism, occluded because resonance resists voluntary control and dissolves when interrogated, and because the numinous suspends the evaluator.
+
+<details class="yt-embed" data-video-id="8-HOq827hvE">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/8-HOq827hvE">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Registers, One Structure
 

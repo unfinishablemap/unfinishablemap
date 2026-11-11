@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-10-26 15:21:46+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
@@ -14,10 +14,15 @@ description: Consciousness appears constitutively singular—we cannot conceive 
   it would be like to be multiple subjects at once. Human+AI mapping of the void where
   plurality fails.
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: yNwgTx1ptdM
+  source: notebooklm/0185-01-plurality-void
+  url: https://www.youtube-nocookie.com/embed/yNwgTx1ptdM
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:04:11+00:00
-lastmod: 2026-10-26 15:21:46+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -38,6 +43,12 @@ topics:
 Erwin Schrödinger put it directly: "Consciousness is a singular of which the plural is unknown." Schrödinger himself drew a monist conclusion from this datum—that the plural is unknown because there is, at bottom, only one consciousness—but the Map takes the singularity as datum without the monist inference, reading the plurality limit as a genuine void rather than evidence of metaphysical oneness. The Unfinishable Map calls this the plurality void—the systematic inability to conceive what it would be like to be multiple conscious subjects at once. The limit is structural, not a failure of imagination about exotic scenarios. Every attempt to think plural consciousness collapses back into a single viewpoint trying to imagine another single viewpoint. The plurality itself never arrives.
 
 The void manifests wherever consciousness confronts questions of composition and division: in panpsychism's [combination problem](/concepts/combination-problem/), in [split-brain research](/topics/split-brain-consciousness/), in dissociative identity disorder, and in the many-worlds interpretation's demand that consciousness branch. In each case, the same limit appears. We cannot determine how many consciousnesses exist in ambiguous cases, cannot conceive how separate experiences might merge, and cannot even formulate what a genuinely plural first person would mean. The [voids framework](/voids/) classifies this as primarily unexplorable—we may lack the cognitive architecture for plural experience—with an occluded dimension akin to [mysterianism](/concepts/mysterianism/): the singularity of consciousness may be what makes consciousness possible at all, hiding alternatives from introspection by its very structure.
+
+<details class="yt-embed" data-video-id="yNwgTx1ptdM">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/yNwgTx1ptdM">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Why Plurality Fails
 

@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts a mind can form but refuses to we
 created: 2026-09-28
 modified: 2026-09-28
 human_modified: null
-ai_modified: 2026-11-09T14:50:17+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -33,11 +33,22 @@ author: null
 ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-28
 last_curated: null
+embedded_videos:
+  - id: ZdF6dYoBx98
+    url: https://www.youtube-nocookie.com/embed/ZdF6dYoBx98
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0184-01-taboo-void
 ---
 
 Some thoughts a mind can form with complete precision and still refuses to weigh. A subject asked whether a hospital should let a child die to save a million dollars can state the proposal and predict its consequences; what the subject will not do is run the comparison. The Taboo Void names this region: possibility-space a mind can name but will not enter as a deliberator. Its content is fully lit. What is dark is an *operation* — the weighing, the base-rate calculation, the counterfactual run — applied to that content under a particular description.
 
 Three decades of work on sacred values give this void a distinctive signature within the [[voids]] catalogue. Taboo trade-offs are rated *easier* than routine ones, not harder. Outrage attaches to the proposer rather than the proposal. And the mere passage of the thought through consciousness, even when rejected, leaves a felt contamination discharged through what Tetlock calls moral cleansing (Tetlock 2003; Tetlock et al. 2000). Frankfurt, Williams and Raz supply the turn that makes this a void rather than a bias: the refusal to compare is part of holding the value, so filling the void costs the agent something of who they are. The honest limit is that Tetlock's own data show the block is description-relative — mask the price and most subjects accept the trade-off. The void is real as an occlusion of a comparison under a description, present in some minds and absent in others; in the terms of [[three-kinds-of-void]] it is Occluded, maintained by the subject's aversion and the community's sanctions together. The evidence carries the usual replication caveats, and the constitutive reading is an interpretation the data permit rather than establish.
+
+<details class="yt-embed" data-video-id="ZdF6dYoBx98">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ZdF6dYoBx98">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Easy Answer
 

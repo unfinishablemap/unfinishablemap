@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-10-06
 human_modified:
-ai_modified: 2026-10-07T07:40:51+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 last_deep_review: 2026-07-15T22:58:25+00:00
 draft: false
 topics:
@@ -49,11 +49,22 @@ author:
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-04-21
 last_curated:
+embedded_videos:
+  - id: Cs80-360xnY
+    url: https://www.youtube-nocookie.com/embed/Cs80-360xnY
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0179-01-source-attribution-void
 ---
 
 Consciousness encounters its own contents already detached from their origin. A thought arrives and feels like *mine*; a belief feels reasoned-into; an intuition feels evident—yet nothing in the content itself specifies where it came from. The Unfinishable Map names the source-attribution void for the structural limit on the ability of consciousness to determine, from inside, whether a given mental content was self-generated, implanted by suggestion, primed by recent context, retrieved from forgotten exposure, or confabulated post-hoc to rationalise an outcome. Mental content lacks native origin tags. What introspection delivers is reconstruction, not readout.
 
 This void is distinct from neighbouring limits. [[self-opacity]] concerns mechanism-blindness; [[transit-void]] concerns the arising and vanishing of mental content; [[narrative-void]] concerns the construction of coherent self-stories. The source-attribution void sits at a sharper point: even when machinery and arising are granted, the *origin tag* for any given thought is not the kind of thing introspection delivers. Origin is inferred from surface features—vividness, fluency, narrative fit with self-image—and the inference fails systematically in characteristic conditions. This article gives the abstract apophatic treatment; [[source-attribution-divergence]] gives the topic-tier subject explainer—within-species spread in source-monitoring accuracy as the third leg of the *within-species phenomenal-divergence* cluster anchored at [[aphantasia]] and [[synaesthesia]]. [[topics/introspection-architecture-independence-scoring|The independence-scoring exhibit]] scores this void within the four-void introspection-architecture sub-cluster against the [[apophatic-cartography-four-criteria|catalogue's four criteria]].
+
+<details class="yt-embed" data-video-id="Cs80-360xnY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Cs80-360xnY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Unmarked Arrival
 

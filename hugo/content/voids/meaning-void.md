@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-09-27 20:20:38+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 coalesced_from:
@@ -21,10 +21,15 @@ description: How thoughts achieve aboutness, and what understanding feels like o
   they have. Both faces of meaning—the mechanism of reference and the felt character
   of comprehension—resist physical reduction.
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: 0fxWkvAIf14
+  source: notebooklm/0195-01-meaning-void
+  url: https://www.youtube-nocookie.com/embed/0fxWkvAIf14
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 15:31:28+00:00
-lastmod: 2026-09-27 20:20:38+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -53,6 +58,12 @@ topics:
 ---
 
 Meaning has two faces, and both resist physical reduction. Thoughts are *about* things—you think about Paris, tomorrow's meeting, the number seven—and there is something it is like to grasp a sentence, recognise a concept, get a joke. The mechanism by which a thought achieves its specific reference operates entirely below introspective awareness. The felt character of understanding, once reference has arrived, exceeds every formal model aimed at it. The meaning void marks this double inaccessibility at the heart of mental life: we cannot catch reference in formation, and we cannot capture felt comprehension in any third-person scheme. It operates at the intersection of the [unexplorable and the occluded](/voids/three-kinds-of-void/).
+
+<details class="yt-embed" data-video-id="0fxWkvAIf14">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/0fxWkvAIf14">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Faces of the Same Void
 

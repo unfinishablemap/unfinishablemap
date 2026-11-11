@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts that transform upon inspection—
 created: 2026-03-20
 modified: 2026-09-04
 human_modified:
-ai_modified: 2026-09-29T14:08:20+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 last_deep_review: 2026-07-26T18:35:43+00:00
 draft: false
 topics:
@@ -31,12 +31,22 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-20
 last_curated:
+embedded_videos:
+  - id: kzp4JPuQYDQ
+    url: https://www.youtube-nocookie.com/embed/kzp4JPuQYDQ
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0186-01-mutation-void
 ---
 
 Some thoughts cannot be held still—not because they vanish into the [[transit-void|opacity of the thought stream]], or because we [[self-maintained-cognitive-limits|flinch from them]], or because their [[self-opacity|mechanisms are hidden]], but because they mutate. The act of thinking them transforms their content, so what arrives is never quite what was there before attention reached. The Map calls this the mutation void—terrain that reshapes itself under the cartographer's gaze.
 
 The established evidence supports a weaker observer-effect claim: introspective access *often modifies* the experience accessed. The mutation void advances a stronger reading as its organising hypothesis—that for certain thought-contents the modification is *constitutive*, the act of attending transforming the content rather than merely disturbing or misreporting it. This is the Map's interpretive proposal, not an established result, and the article marks where the evidence reaches and where the hypothesis takes over. (How this organising claim separates the void from its near neighbours is drawn out under [Distinct From the Sibling Voids](#distinct-from-the-sibling-voids) below.) Whether one thought-bearer transforms in the reaching or two distinct thoughts succeed each other is a comparison introspection cannot settle, since the pre-attended state is by hypothesis never available for inspection.
 
+<details class="yt-embed" data-video-id="kzp4JPuQYDQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/kzp4JPuQYDQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## A Taxonomy of Mutating Thoughts
 

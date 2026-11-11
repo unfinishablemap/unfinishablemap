@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-10-26 12:05:31+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
@@ -15,10 +15,15 @@ date: &id001 2026-02-17
 description: Human+AI exploration of why cognitive silence—the cessation of thought—may
   access truths that mapping, reasoning, and language structurally cannot reach.
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: HvQKYrS4Rok
+  source: notebooklm/0180-01-the-silence-void
+  url: https://www.youtube-nocookie.com/embed/HvQKYrS4Rok
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 13:33:51+00:00
-lastmod: 2026-10-26 12:05:31+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -45,6 +50,12 @@ topics:
 The Unfinishable Map cannot map silence. Mapping is a cognitive activity—it requires categories, distinctions, language—and the silence void is the territory that opens only when cognition stops. Several contemplative traditions advance a claim that should trouble any cartographic project: some truths are accessible only through the deliberate cessation of thought, and any attempt to articulate them destroys the conditions under which they are known. Rather than a mere absence, the silence void is a territory whose entry condition is the suspension of the very faculties that make mapping possible.
 
 The silence void is distinct from related voids on the Map. The [sleep-consciousness-void](/voids/sleep-consciousness-void/) concerns involuntary absence—consciousness interrupted without the subject's participation. [Apophatic approaches](/concepts/apophatic-approaches/) use negation, which is still active reasoning. The silence void concerns what happens when even negation ceases—when the thinker releases not just particular thoughts but the activity of thinking itself.
+
+<details class="yt-embed" data-video-id="HvQKYrS4Rok">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/HvQKYrS4Rok">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Convergent Testimony
 

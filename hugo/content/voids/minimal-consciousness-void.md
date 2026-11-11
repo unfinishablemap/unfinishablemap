@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-11-10 20:50:51+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -14,10 +14,15 @@ date: &id001 2026-11-10
 description: Human+AI exploration of why consciousness cannot investigate its own
   lower bound—any act of introspection enriches experience beyond the minimum it seeks.
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: i44Qe10KTHk
+  source: notebooklm/0178-01-minimal-consciousness-void
+  url: https://www.youtube-nocookie.com/embed/i44Qe10KTHk
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:04:23+00:00
-lastmod: 2026-11-10 20:50:51+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -43,6 +48,12 @@ topics:
 Consciousness cannot reach its own lower bound by looking. The simplest possible conscious experience—if it exists—lies beyond *concurrent first-person examination*, because any act of introspection, attention, or memory necessarily adds structure that enriches the experience beyond minimality. The instrument of introspection is made of the very thing it seeks to measure at its minimum, and using it guarantees the measurement is too high. Indirect routes—no-report neuroscience, third-person cessation-EEG, retrospective sampling—constrain the minimum without reaching it, which is why the void is best classified as partially probe-able and contested rather than flatly unexplorable.
 
 In the Map's [voids](/voids/) taxonomy this makes the void **partially probe-able / contested**: the direct concurrent limit is real (the [Direct vs Indirect Access](#direct-vs-indirect-access) section makes it precise), while the indirect routes constrain the floor without establishing it. An **occluded** reading is also available—the absence of a discoverable lower bound may reflect what consciousness is rather than a limit of method—but it is the *least*-earned label, resting on the conditional "if consciousness is fundamental," a [tenet](/tenets/#dualism) the Map holds rather than a finding the evidence delivers.
+
+<details class="yt-embed" data-video-id="i44Qe10KTHk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/i44Qe10KTHk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Enrichment Problem
 

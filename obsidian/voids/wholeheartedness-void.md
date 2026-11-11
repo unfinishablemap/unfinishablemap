@@ -4,7 +4,7 @@ description: "From inside, consciousness cannot verify that a present identifica
 created: 2026-05-11
 modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-10-03T22:43:41+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 last_deep_review: 2026-08-02T18:41:00+00:00
 draft: false
 topics:
@@ -39,11 +39,22 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-11
 last_curated: null
+embedded_videos:
+  - id: FCIxQR89Po4
+    url: https://www.youtube-nocookie.com/embed/FCIxQR89Po4
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0182-01-wholeheartedness-void
 ---
 
 Consciousness cannot verify, from inside, that a present identification with a desire, belief, or value is genuine rather than self-deceived, settled rather than merely foreclosed, or stable rather than poised to be retroactively disowned. The Wholeheartedness Void names this structural opacity at the standing condition of being self-identified. Three faces conjoin: no first-person test distinguishes wholehearted endorsement from a regress halted by stipulation (regress); any motive that causes action can in principle be later disavowed, and consciousness has no within-action marker for survival across reflection (disownability); the felt unity of unreserved commitment is consistent with — and can be produced by — the suppression of a dissenting pole (ambivalence-detection). Each face alone is a recognised problem; the analytical claim is that the *seams between them* are load-bearing — each face closes a route the others leave open.
 
 The void sits adjacent to the [[decision-void]] in the agency family. Where the decision-void concerns the *crossing* from deliberation to commitment, the wholeheartedness-void concerns the *standing condition* of being identified-with — and both share architecture with the [[suspension-void]] and the [[agency-void]]: the faculty under investigation is the only available investigator. The void engages [[tenets#^bidirectional-interaction|Bidirectional Interaction]] obliquely (the standing-identification state as a candidate site for the persistent shape of any non-physical influence on action) and [[tenets#^occams-limits|Occam's Razor Has Limits]] directly: decision-theoretic parsimony absorbs identification into "stable preferences that move action," and Watson (on the regress), Velleman (on disownability), and Bratman (on planning-theoretic identification) each press, in distinct argumentative registers, that what the operationalisation captures is not what the original theory was reaching for.
+
+<details class="yt-embed" data-video-id="FCIxQR89Po4">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/FCIxQR89Po4">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Faces, One Void
 

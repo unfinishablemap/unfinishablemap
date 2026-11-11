@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-28
-ai_modified: 2026-10-11 01:20:41+00:00
+ai_modified: 2026-11-11 00:03:17.720588+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -13,9 +13,14 @@ description: 'Human+AI exploration of why the cause of our own amusement is hidd
   stimulated laughter gets a made-up cause, analysis kills the joke, and the will
   directly reaches only the imitation pathway.'
 draft: false
+embedded_videos:
+- embedded: 2026-11-11 00:03:17.720588+00:00
+  id: qt0y4IUpRV8
+  source: notebooklm/0175-01-mirth-void
+  url: https://www.youtube-nocookie.com/embed/qt0y4IUpRV8
 human_modified: null
 last_curated: null
-lastmod: 2026-10-11 01:20:41+00:00
+lastmod: 2026-11-11 00:03:17.720588+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -40,6 +45,12 @@ topics:
 Sometimes we laugh first and find reasons afterwards. The clearest case is a 1998 report in *Nature*: during cortical mapping before epilepsy surgery, stimulation of a small patch of a sixteen-year-old patient's left superior frontal gyrus reliably produced laughter, and each time she laughed she reported that something was funny, attributing the amusement to whatever happened to be in front of her, with a different explanation on different trials although the stimulus was the same (Fried et al. 1998). The electrode was the cause; the reason was supplied afterwards. The Unfinishable Map treats this as the entry point to a void about *access*: the laugher cannot see what causes their amusement, cannot produce the real thing on demand, cannot examine it without spoiling it, and cannot fully spring it on themselves.
 
 This article is deliberately narrow. Whether mirth is an irreducible felt quality or an evolved reward exhausted by its functional role is argued at [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/), and the access claim made here is compatible with either answer; indeed the strongest naturalist theory of humour, on the Map's reading, *predicts* the access failures below, so the Map presents the void as framework-independent rather than as a point for dualism. The evidence is a few stimulation cases, one cross-cultural perception study and one observational corpus, plus folk testimony and a structural inference; where a claim rests on the weaker of these, the text says so.
+
+<details class="yt-embed" data-video-id="qt0y4IUpRV8">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/qt0y4IUpRV8">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Laughter First, Reason Second
 

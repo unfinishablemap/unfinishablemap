@@ -4,7 +4,7 @@ description: "Conscious behaviour runs at about ten bits per second while the se
 created: 2026-02-28
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-10-24T21:09:52+00:00
+ai_modified: 2026-11-11T00:03:17.720588+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,9 +30,20 @@ ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-28
 last_curated:
 last_deep_review: 2026-07-07T09:42:50+00:00
+embedded_videos:
+  - id: 5XqILK8M_F4
+    url: https://www.youtube-nocookie.com/embed/5XqILK8M_F4
+    embedded: 2026-11-11T00:03:17.720588+00:00
+    source: notebooklm/0194-01-resolution-void
 ---
 
 Consciousness encounters reality through an extraordinarily narrow aperture. Sensory systems deliver roughly eleven million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), yet conscious behaviour runs at approximately ten — a six-order bottleneck between sensory input and serial behavioural output, which bounds a channel rather than measuring what experience discards ([[#six-orders-of-magnitude-or-eight|explained below]]). This is The Unfinishable Map's resolution void: the gap between what the brain handles and what consciousness accesses. The void is not a contingent imperfection awaiting correction through sharper attention or better training. It operates across spatial, temporal, informational, and discriminatory dimensions simultaneously, and at least some of these limits appear architectural rather than incidental. Within the [[voids]] framework, the resolution void is primarily **unexplorable** — consciousness cannot perceive at a finer grain than its own resolution permits — with an **unexplored** dimension in the informational domain where researchers continue mapping the compression mechanisms.
+
+<details class="yt-embed" data-video-id="5XqILK8M_F4">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/5XqILK8M_F4">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Grain Mismatch
 
