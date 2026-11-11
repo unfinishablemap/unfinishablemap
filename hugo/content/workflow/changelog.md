@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 06:56:00+00:00
+ai_modified: 2026-11-11 07:10:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 06:56:00+00:00
+lastmod: 2026-11-11 07:10:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T07:10:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [boredom-void](/voids/boredom-void/) (P1 face 4: the definitional limit and the profound-boredom border; synthesis 2026-11-11 C6 TRUE and C7 PARTLY TRUE)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Length**: analyze_length 2,771 → 2,809 (+38 of this task's ≤ +45; voids hard 3,000, gate `>=`). Every OLD string was count 1 when replaced, and every NEW string is count 1.
+- **Changes** (spend order (a), (b), (d), (c), (e), (f), (g), (h); nothing dropped):
+  - (a) L40, face-4 clause only, −1: "and, under the attention-based definition only, [engaged study of a bout tends to end it](#examination)." → "and, by the attention-based definition alone, [satisfying engaged study of a bout ends it](#examination)." The empirical modal is gone, and the lead now says the limit follows from the definition. The `[[#examination|…]]` link is kept. "commonest" and the face-3 clause were not touched.
+  - (b) L70 heading, +0: "## Examining Boredom Tends to End It {#examination}" → "## Absorbed Examination Ends Boredom, by Definition {#examination}". The anchor is kept. "Absorbed" matches L72's "absorbed inquiry", and the new heading does not claim that every examination ends a bout.
+  - (d) L94, face-4 clause only, +8: "*unexplorable* in face 4, relative to that definition;" → "*unexplorable* in face 4 only in that the attentional definition rules out a satisfying engaged reading;". Vocabulary: I kept the conditional *unexplorable* wording and rejected "definitional (Eastwood)". `voids/three-kinds-of-void` defines only unexplored, unexplorable and occluded (plus the naturally occluded fourth), so "definitional" would add a label the taxonomy does not have. The page's own L74 ("The face is unexplorable for attention-deficit boredom") would also have contradicted it. That taxonomy also maps inspection that transforms what it measures onto *unexplorable*. The new wording keeps that label and states that the limit comes from a stipulation.
+  - (c) L74, one parenthetical clause, +9: "What the definition excludes is a long, engaged first-person reading of one bout, a shape shared with" → "What the definition excludes is a long, engaged and *satisfying* first-person reading of one bout (unabsorbed, unsatisfying meditative noting is not excluded), a shape shared with". This follows Eastwood et al. 2012 (verified, PMID 26168505): the failure is to engage attention "required for participating in satisfying activity". "engaged and *satisfying*" was used rather than "a reading … that is itself satisfying", because the latter could attach to "bout".
+  - (e) L72, +13: 'profound boredom, rather than by inspecting it.' → 'profound boredom, rather than by "amassing factual knowledge" (p. 107). That method concerns profound boredom, not face 4's attention-deficit kind.' "rather than by inspecting it" was the Map's gloss. It put Heidegger's method behind face 4's limit. Slaby's contrast (p. 107, verified) is with amassing factual knowledge. The quoted phrase is a verbatim substring of "No amount of amassing factual knowledge can replace this event of waking up". The new sentence scopes the method to profound boredom.
+  - (f) L80, required, +6 in two parts. First, "At the far edge lies Heidegger's profound boredom," → "Distinct from face 2's situational boredom is Heidegger's profound boredom,". The single scale from laboratory boredom to profound boredom is gone, and profound boredom is kept apart from face 2's situational boredom. Second, "as media that cannot be inspected while they work." → "as media that disclose a world but cannot be inspected while they work.". Profound boredom is no longer read as hidden, since attunement is disclosive for Heidegger and Slaby. The new wording matches `voids/mood-void` L43 ("The mood has already disclosed…") and `voids/mattering-void` L74. Slaby's p. 117 "rarely if ever" quote did not fit within (f)'s +0 to +8. `voids/mood-void` L84 was not touched.
+  - (g) L88, +0: "measures boredom in the moment" → "measures boredom within half-hour windows". This matches the page's own L74 figure, "30-min sampling periods" (Chin et al. 2017).
+  - (h) L78, +3: "Boredom stretches felt time:" → "Boredom slows the felt passage of time:". Witowska's finding concerns a judgment about the passage of time, not a duration estimate. Meteier et al. 2025 was not added: its reference entry would need about 25 words, and only 7 of the budget were left.
+- **Darling 2023**: not added. Edits (a) to (h) came to +38, above the +20 at which the condition allowed it.
+- **Not touched (sibling-owned)**: L40 "commonest" and the face-3 clause; L42/L46/L50/L54/L58/L100 (faces 1–2); L64/L66/L68/L102 (face 3); L84/L98 and Williams/O'Brien (bundle); the other faces' clauses in L94.
+- **Anchor check**: `{#examination}` is kept. The corpus (obsidian, hugo/content, archive) has 0 inbound `boredom-void#examination` or `boredom-void/#examination` links; the only fragment links into the page are 4 to `#self-supply`, on affective-forecasting-gap. The in-page `[[#examination|…]]` link at L40 still resolves. The old heading text appears only in reviews and changelogs.
+- **Guards**: 0 "load-bearing" and 0 "This is not X. It is Y." in the result. After each replacement I checked that the pronouns still refer correctly ("It has no object at all" → profound boredom; "they" → media; "That method" → working by awakening). Every quotation comes from the task's verified strings. `ai_system` already carried claude-opus-5-5, so it was not appended. `modified: 2026-11-11` and `ai_modified` come from `date -u`.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-11-11T06:56:00+00:00 - refine-draft
 - **Status**: Success

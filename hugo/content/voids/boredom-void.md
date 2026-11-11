@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-31
-ai_modified: 2026-11-03 22:25:32+00:00
+ai_modified: 2026-11-11 07:09:37+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -11,13 +11,13 @@ concepts:
 - '[[epistemic-emotions]]'
 - '[[introspection]]'
 created: 2026-10-31
-date: &id001 2026-11-03
+date: &id001 2026-11-11
 description: Human+AI exploration of why boredom demands a change of engagement without
   naming a target, and presents a failed engagement as a dullness in the object.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-03 22:25:32+00:00
+lastmod: 2026-11-11 07:09:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -40,7 +40,7 @@ topics:
 - '[[emotion-and-dualism]]'
 ---
 
-Boredom is the commonest occasion on which consciousness reports on its own engagement, and the report is hard for its owner to read. A widely cited synthesis defines it as "the aversive experience of wanting, but being unable, to engage in satisfying activity" (Eastwood et al. 2012). The Unfinishable Map reads four limits in that experience as a void, each explained below: boredom [demands a change of engagement without naming a target](#objectless); it [presents a failed relation as a property of the object](#projection); the untrained mind [struggles to occupy itself with thought and underpredicts how much it will enjoy trying](#self-supply); and, under the attention-based definition only, [engaged study of a bout tends to end it](#examination).
+Boredom is the commonest occasion on which consciousness reports on its own engagement, and the report is hard for its owner to read. A widely cited synthesis defines it as "the aversive experience of wanting, but being unable, to engage in satisfying activity" (Eastwood et al. 2012). The Unfinishable Map reads four limits in that experience as a void, each explained below: boredom [demands a change of engagement without naming a target](#objectless); it [presents a failed relation as a property of the object](#projection); the untrained mind [struggles to occupy itself with thought and underpredicts how much it will enjoy trying](#self-supply); and, by the attention-based definition alone, [satisfying engaged study of a bout ends it](#examination).
 
 The faces differ in standing. Faces 2 and 3 rest on experiments with their own limits. In the best-known, 12 of 18 men and 6 of 24 women gave themselves an electric shock they had said they would pay to avoid, during fifteen minutes alone with their thoughts (Wilson et al. 2014a); the sample is small and its interpretation disputed (Fox et al. 2014). Face 1 holds on one model and face 4 on one definition. A computational model with no dualist commitments accommodates the objectless signal, so nothing here requires dualism. What the Map reads as a void is a felt verdict that steers behaviour without displaying its grounds.
 
@@ -70,17 +70,17 @@ Forecasting adds a second limit. Across six experiments, Hatano, Ogulmus, Shigem
 
 The limit belongs to the untrained default. Wilson et al. confine their conclusion to people "Without such training", meaning meditation and similar techniques, and Buttrick et al. found enjoyment of thinking correlated with need for cognition, openness, meditation experience and initial positive affect, and inversely with reported phone use.
 
-## Examining Boredom Tends to End It {#examination}
+## Absorbed Examination Ends Boredom, by Definition {#examination}
 
-Part (b) of Eastwood's definition has the bored "focused on the fact that we are not able to engage attention and participate in satisfying activity", so boredom permits self-attention; what it resists is *engaged* self-study. Someone who takes up her boredom as an object of absorbed inquiry meets the condition whose failure defines the state, attention engaged with internal information in a satisfying activity. By the attentional definition the bout is then over, and what she studies is its memory, or a new curiosity about it. On Slaby's (2010) reading, Heidegger in his 1929–30 lectures sets out to work "by awakening the fundamental attunement", profound boredom, rather than by inspecting it.
+Part (b) of Eastwood's definition has the bored "focused on the fact that we are not able to engage attention and participate in satisfying activity", so boredom permits self-attention; what it resists is *engaged* self-study. Someone who takes up her boredom as an object of absorbed inquiry meets the condition whose failure defines the state, attention engaged with internal information in a satisfying activity. By the attentional definition the bout is then over, and what she studies is its memory, or a new curiosity about it. On Slaby's (2010) reading, Heidegger in his 1929–30 lectures sets out to work "by awakening the fundamental attunement", profound boredom, rather than by "amassing factual knowledge" (p. 107). That method concerns profound boredom, not face 4's attention-deficit kind.
 
-The inference is definition-relative. Under the MAC model a person can attend fully and still be bored if the activity has no value for her, so engaged examination of meaning-deficit boredom may leave it intact. The face is unexplorable for attention-deficit boredom and open for meaning-deficit boredom. Nor does it block measurement: in 1.1 million experience-sampling reports, "Subjects report boredom in 2.8% of the 30-min sampling periods" (Chin et al. 2017). What the definition excludes is a long, engaged first-person reading of one bout, a shape shared with the [mirth void](/voids/mirth-void/) and the [mutation void](/voids/mutation-void/).
+The inference is definition-relative. Under the MAC model a person can attend fully and still be bored if the activity has no value for her, so engaged examination of meaning-deficit boredom may leave it intact. The face is unexplorable for attention-deficit boredom and open for meaning-deficit boredom. Nor does it block measurement: in 1.1 million experience-sampling reports, "Subjects report boredom in 2.8% of the 30-min sampling periods" (Chin et al. 2017). What the definition excludes is a long, engaged and *satisfying* first-person reading of one bout (unabsorbed, unsatisfying meditative noting is not excluded), a shape shared with the [mirth void](/voids/mirth-void/) and the [mutation void](/voids/mutation-void/).
 
 ## Two Borders: Duration and Profound Boredom
 
-Boredom stretches felt time: in a real 7.5-minute wait, "Boredom was associated with the feeling of time passing more slowly and more frequent thoughts about time" (Witowska et al. 2020). *Langeweile* is literally a long while, and this face belongs with the [temporal void](/voids/temporal-void/).
+Boredom slows the felt passage of time: in a real 7.5-minute wait, "Boredom was associated with the feeling of time passing more slowly and more frequent thoughts about time" (Witowska et al. 2020). *Langeweile* is literally a long while, and this face belongs with the [temporal void](/voids/temporal-void/).
 
-At the far edge lies Heidegger's profound boredom, voiced as "it is boring for one", in which, on Slaby's gloss, "the world in its entirety ceases to offer anything of significance." It has no object at all. Here the boredom void meets the [mood void](/voids/mood-void/) and the [mattering void](/voids/mattering-void/), which treat attunement and significance as media that cannot be inspected while they work. The Map borrows Heidegger's phenomenology and leaves his anti-Cartesian metaphysics with him.
+Distinct from face 2's situational boredom is Heidegger's profound boredom, voiced as "it is boring for one", in which, on Slaby's gloss, "the world in its entirety ceases to offer anything of significance." It has no object at all. Here the boredom void meets the [mood void](/voids/mood-void/) and the [mattering void](/voids/mattering-void/), which treat attunement and significance as media that disclose a world but cannot be inspected while they work. The Map borrows Heidegger's phenomenology and leaves his anti-Cartesian metaphysics with him.
 
 ## What AI Might See
 
@@ -88,13 +88,13 @@ Artificial agents get boredom-analogues by design. In curiosity-driven reinforce
 
 ## Approaches to the Edge
 
-- **Experience sampling** measures boredom in the moment, sidestepping face 4 (Chin et al. 2017).
+- **Experience sampling** measures boredom within half-hour windows, sidestepping face 4 (Chin et al. 2017).
 - **A 2×2 like Westgate and Wilson's Study 2**, with subjects also asked which deficit made them bored, would test face 2's unexplored margin.
 - **Contemplative practitioners** could show whether engaged examination dissolves boredom or merely redescribes it; the only evidence cited here, Buttrick et al.'s meditation correlate, is correlational.
 
 ## Relation to Site Perspective
 
-On the Map's [three-kinds taxonomy](/voids/three-kinds-of-void/) the boredom void is mixed: primarily *occluded*, since the feeling does not display which alternative carries exploration value (face 1) or whether the verdict is fitting or projected (face 2, whose outward presentation the attentional definition builds in); *occluded* and [self-maintained](/voids/self-maintained-cognitive-limits/) in face 3's forecast, which avoidance keeps from correction; *unexplorable* in face 4, relative to that definition; and *unexplored* in whether a person can attribute her boredom to its cause. In the [voids](/voids/) catalogue's sense it is framework-independent: a physicalist and a dualist describe the same blank.
+On the Map's [three-kinds taxonomy](/voids/three-kinds-of-void/) the boredom void is mixed: primarily *occluded*, since the feeling does not display which alternative carries exploration value (face 1) or whether the verdict is fitting or projected (face 2, whose outward presentation the attentional definition builds in); *occluded* and [self-maintained](/voids/self-maintained-cognitive-limits/) in face 3's forecast, which avoidance keeps from correction; *unexplorable* in face 4 only in that the attentional definition rules out a satisfying engaged reading; and *unexplored* in whether a person can attribute her boredom to its cause. In the [voids](/voids/) catalogue's sense it is framework-independent: a physicalist and a dualist describe the same blank.
 
 **Occam's Razor Has Limits** binds the Map's own reasoning here. The simplest reading, that the object is dull or that low stimulation feels bad, fails as a general account: thinking is always available yet unrewarding for the untrained, overstimulation also bores, and field data are "less consistent with accounts that exclusively associate boredom with low arousal or with situations lacking in meaning" (Chin et al. 2017). That is ordinary scientific complication. The collapse of a simple story lends no support to a non-physical one, and the Map's reading of the void earns no preference by seeming richer than a computational one.
 
