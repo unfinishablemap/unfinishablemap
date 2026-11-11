@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T02:27:19+00:00
+ai_modified: 2026-11-11T02:51:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T02:51:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/microphenomenological-interview-method]]
+- **Word count**: 3,899 → 3,913 (+14; analyze_length, topics hard 4,000)
+- **Critical issues addressed**: 6 finding-level defects: prodrome neural co-variation was only hypothesised in 2006/2007; Froese, Gould & Seth propose a stimulus-based DBI test, not neural co-variation; Petitmengin & Bitbol (2009) reject correspondence rather than concede it; the uncited "DES parallel comparison" claim deleted (the one published comparison reports convergence); the Di Paolo & De Jaegher gloss was contradicted by its own abstract; prodromes "largely unknown" / "invisible to casual introspection" against the 2006 paper and P&B 2011's "We agree"
+- **Medium issues addressed**: 7. DES insertion: "shortly afterward" → "within about a day", "associated with" → "developed by", "entered the literature together" genealogy dropped, Petitmengin as "principal" DES critic downgraded. Protocol-analysis pipe re-anchored. Stale Bitbol 2017 pointer and stale confabulation-void label fixed. Petitmengin 2006 difficulty list corrected. 4 reference orphans cited. PCS 5(3) → 5(3–4) ×2.
+- **Engagement classification**: heterophenomenologist: Mode Three, unchanged. Introspection sceptic, via Petitmengin & Bitbol: their Mode-Two-style move is reported, not adopted.
+- **Enhancements made**: 3 (protocol-analysis link carries its claim; outside-check ledger in §Confabulation-Resistance; P&B position stated in full)
+- **Sources**: author PDFs from clairepetitmengin.fr (E&B 2006, C&C 2007, PCS 2006, JCS 2009, JCS 2011, JCS 2011 reply to Froese, C&C 2013), Hurlburt's 2011 reply to Froese et al. (author PDF), PubMed/OpenAlex/Crossref/constructivist.info abstracts
+- **Follow-ups**: sibling "principals concede" family (6 files); "did not spontaneously report" in concepts/introspection L99 and apex/contemplative-path L126; research-note origins need ⚠️ annotations
+- **Output**: [[reviews/deep-review-2026-11-11-microphenomenological-interview-method]]
 
 ## 2026-11-11T02:27:19+00:00 - refine-draft
 - **Status**: Success
