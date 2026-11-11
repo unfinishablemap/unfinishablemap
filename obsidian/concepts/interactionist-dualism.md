@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-11-09T18:38:51+00:00
+ai_modified: 2026-11-11T20:04:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ related_articles:
   - "[[hylomorphic-dualism-and-the-interaction-problem]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-26T00:47:57+00:00
@@ -82,7 +82,7 @@ If consciousness is ontologically distinct from physics, their relationship requ
 
 Crucially, [[supervenience]] laws alone yield epiphenomenalism—consciousness merely accompanies physical states without causing anything. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *causal* laws: consciousness selects among physically underdetermined alternatives, not just accompanies determined outcomes.
 
-Chalmers tends toward epiphenomenalism; the Map diverges via the self-stultification argument (see Argument 6 below), with [[psychophysical-laws]] detailing the departure.
+Chalmers leaves epiphenomenalism open; the Map diverges via the self-stultification argument (see Argument 6 below), with [[psychophysical-laws]] detailing the departure.
 
 ## The Historical Problem
 

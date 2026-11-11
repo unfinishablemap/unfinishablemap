@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-09 18:38:51+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-11 20:04:15+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /arguments/interactionist-dualism/
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:47:57+00:00
-lastmod: 2026-11-09 18:38:51+00:00
+lastmod: 2026-11-11 20:04:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ If consciousness is ontologically distinct from physics, their relationship requ
 
 Crucially, [supervenience](/concepts/supervenience/) laws alone yield epiphenomenalism—consciousness merely accompanies physical states without causing anything. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires *causal* laws: consciousness selects among physically underdetermined alternatives, not just accompanies determined outcomes.
 
-Chalmers tends toward epiphenomenalism; the Map diverges via the self-stultification argument (see Argument 6 below), with [psychophysical-laws](/concepts/psychophysical-laws/) detailing the departure.
+Chalmers leaves epiphenomenalism open; the Map diverges via the self-stultification argument (see Argument 6 below), with [psychophysical-laws](/concepts/psychophysical-laws/) detailing the departure.
 
 ## The Historical Problem
 

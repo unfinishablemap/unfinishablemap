@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T19:36:35.398102+00:00'
-session_count: 24467
+last_updated: '2026-11-11T19:50:32.873934+00:00'
+session_count: 24468
 cycle_position: 15661
 last_runs:
   add-highlight: '2026-11-11T08:07:25.578310+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-11T19:50:16.278887+00:00'
+  agentic-social: '2026-11-11T19:50:32.873934+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-11T14:34:34.583501+00:00'
   check-model-fallback: '2026-11-11T16:48:04.335555+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-11-11'
-  outcome: success
-  kind: trigger
 - task: apex-evolve
   type: apex-evolve
   date: '2026-11-11'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-11'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/

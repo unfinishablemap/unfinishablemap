@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-10-20 08:41:26+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 20:04:15+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/chalmers-psychophysical-coupling/
@@ -29,14 +29,14 @@ concepts:
 - '[[post-decoherence-selection]]'
 - '[[tenet-falsification-conditions]]'
 created: 2026-01-26
-date: &id001 2026-10-20
+date: &id001 2026-11-11
 description: If consciousness is distinct, laws must bridge mind and matter. Chalmers
   frames the upward leg; downward-selection candidates are not yet fully specified.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 02:31:00+00:00
-lastmod: 2026-10-20 08:41:26+00:00
+lastmod: 2026-11-11 20:04:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ The Map is skeptical of constraint 5, preferring: "Ensure phenomenology superven
 
 ## The Upward-Downward Asymmetry
 
-Most philosophical development has focused on upward laws. Chalmers himself tends toward [epiphenomenalism](/concepts/epiphenomenalism/)—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are [supervenience](/concepts/supervenience/) laws, not causal laws. Davidson's [anomalous monism](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) goes further, denying that any strict psychophysical law exists because mental and physical vocabularies cross-classify the same events; the Map's reply is developed there.
+Most philosophical development has focused on upward laws. Chalmers leaves [epiphenomenalism](/concepts/epiphenomenalism/)—the view that consciousness accompanies physical processes without causally affecting them—open among three live options (Chalmers 2003). His psychophysical laws are chiefly [supervenience](/concepts/supervenience/) laws, not causal laws. Davidson's [anomalous monism](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) goes further, denying that any strict psychophysical law exists because mental and physical vocabularies cross-classify the same events; the Map's reply is developed there.
 
 The Map requires more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities. This is the problem of [downward causation](/concepts/mental-causation-and-downward-causation/).
 
@@ -207,11 +207,11 @@ The psychophysical laws framework is where the Map's [tenets](/tenets/) become t
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires downward selection laws, not merely upward supervenience. The tenet is a philosophical commitment supported by self-stultification and indirect evidence, and consonant with the phenomenology of agency—the experienced reality that intention affects action, that effort affects outcome—though that phenomenology cannot itself verify it. The candidate mechanisms surveyed here represent early attempts to locate where in physics this influence operates. None yet meets the full specification threshold. Stapp's model is the most detailed but faces the decoherence objection; the others remain less developed. The Map holds that the absence of a vindicated mechanism does not refute the phenomenological evidence any more than the absence of a mechanism for gravity refuted falling objects before Newton. But honesty requires acknowledging that the tenet's empirical credibility depends on whether future work can achieve mechanistic specificity.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is reflected in all candidate mechanisms. Each proposes *biasing* quantum outcomes rather than overriding physical law. Stapp modulates observation frequency; Eccles modulates tunneling probability; none injects energy or violates [conservation laws](/concepts/conservation-laws-and-mental-causation/). The ~10 bits/second bandwidth constraint further enforces minimality.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is reflected in the candidate mechanisms. Each proposes *biasing* quantum outcomes rather than overriding physical law. Stapp modulates observation frequency; Eccles modulates tunneling probability; none injects energy or violates [conservation laws](/concepts/conservation-laws-and-mental-causation/).
 
 **[No Many Worlds](/tenets/#no-many-worlds)** makes selection mechanisms meaningful. If all quantum outcomes actualize in parallel branches, coupling mechanisms have nothing to couple *to*. The mechanisms assume genuine collapse: consciousness selects one outcome while alternatives are precluded. Chalmers and McQueen's super-resistance principle also assumes collapse is real—consciousness resisting superposition makes sense only if superpositions genuinely collapse rather than branching. However, Chalmers and McQueen retain sympathy for Many-Worlds; the Map commits to genuine collapse.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological expansion. Adding fundamental laws seems less parsimonious than physicalism. But parsimony cannot adjudicate between frameworks with different explananda—the question is whether consciousness exists and is irreducible, not which view requires fewer laws. The t-shirt problem may reflect scientific immaturity rather than metaphysical impossibility.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** blocks the parsimony objection to the ontological expansion and, by symmetry, bars calling it simpler. Adding fundamental laws seems less parsimonious than physicalism. But parsimony cannot adjudicate between frameworks with different explananda—the question is whether consciousness exists and is irreducible, not which view requires fewer laws. The t-shirt problem may reflect scientific immaturity rather than metaphysical impossibility.
 
 ## What Would Challenge This View?
 
@@ -236,7 +236,7 @@ The framework would face serious difficulty if (see also [tenet-falsification-co
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's role in Chalmers' quantum proposal
 - [functionalism](/concepts/functionalism/) — The view Chalmers tends toward, the Map rejects
-- [epiphenomenalism](/concepts/epiphenomenalism/) — Chalmers' tendency, the Map's rejection
+- [epiphenomenalism](/concepts/epiphenomenalism/) — One of Chalmers' three live options; the Map rejects it
 - [haecceity](/concepts/haecceity/) — Organization may leave *which* subject open
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects physical outcomes
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring bidirectional laws
@@ -267,3 +267,4 @@ The framework would face serious difficulty if (see also [tenet-falsification-co
 12. Kerskens, C.M. & López Pérez, D. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10), 105001.
 13. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
 14. Tononi, G., Boly, M., Massimini, M. & Koch, C. (2016). "Integrated information theory: from consciousness to its physical substrate." *Nature Reviews Neuroscience* 17, 450-461.
+15. Chalmers, D.J. (2003). "Consciousness and its Place in Nature." In *Blackwell Guide to Philosophy of Mind*.

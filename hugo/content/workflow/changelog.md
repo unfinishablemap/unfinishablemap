@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 19:35:42+00:00
+ai_modified: 2026-11-11 20:05:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 19:35:42+00:00
+lastmod: 2026-11-11 20:05:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T20:05:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/); also `concepts/interactionist-dualism` and `archive/topics/chalmers-psychophysical-coupling` (three-file task)
+- **Review**: [pessimistic-2026-10-24-psychophysical-laws](/reviews/pessimistic-2026-10-24-psychophysical-laws/) Fix 2 and Fix 4 "string siblings"
+- **Original score**: not scored (`scripts/curate.py` absent)
+- **Source check**: Chalmers 2003 fetched raw from consc.net/papers/nature.html and grepped: "As I see things, the best options for a nonreductionist are type-D dualism, type-E dualism, or type-F monism: that is, interactionism, epiphenomenalism, or panprotopsychism. ... For my part, I give some credence to each of them." No new verbatim quotation was put into any article.
+- **Changes (topic, analyze_length 3,496 → 3,526, net +30)**: (a) "Chalmers himself tends toward epiphenomenalism" → "leaves epiphenomenalism … open among three live options (Chalmers 2003)"; next sentence "His psychophysical laws are supervenience laws" → "are chiefly supervenience laws" (he also leaves interactionism open). (b) Further Reading gloss → the hub's "One of Chalmers' three live options; the Map rejects it". (c) Tenet 2 paragraph: deleted "The ~10 bits/second bandwidth constraint further enforces minimality." (a throughput figure is not the empirical-constraint minimality the tenet names); "all candidate mechanisms" → "the candidate mechanisms". (d) Tenet 5 paragraph: "justifies the ontological expansion" → "blocks the parsimony objection to the ontological expansion and, by symmetry, bars calling it simpler". Added Reference 15 (Chalmers 2003) because the body now cites it.
+- **Changes (interactionist-dualism, 3,494 → 3,494, net 0)**: one sentence, "Chalmers tends toward epiphenomenalism" → "Chalmers leaves epiphenomenalism open". Nothing else touched.
+- **Changes (archive/topics/chalmers-psychophysical-coupling, 2,502 → 2,505, net +3)**: the tasked sentence "Chalmers tends toward epiphenomenalism—…" → "Chalmers leaves epiphenomenalism open—…". Two further instances of the same misreport on the same page, not named in the task, were also fixed: "Chalmers himself tends toward this position." → "leaves this position open." and the Further Reading gloss "Chalmers' tendency, the Map's rejection" → "Left open by Chalmers, rejected by the Map".
+- **Engagement classification**: none; no reply to a named opponent was altered, only the report of Chalmers' position.
+- **Still live elsewhere (listed, not edited)**: `archive/topics/psychophysical-laws-framework.md` — "Chalmers himself tends toward this position" (Upward laws paragraph) and "The Map parts company with Chalmers' epiphenomenalist tendency here" (Bidirectional Interaction paragraph). No other hit in the `obsidian/` or `archive/` content sections. Not swept: "The view Chalmers tends toward, the Map rejects" glosses on `concepts/functionalism` (a different claim) in the topic and the archive page.
+- **Published**: yes
 
 ## 2026-11-11T19:35:42+00:00 - refine-draft
 - **Status**: Success

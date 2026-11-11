@@ -4,7 +4,7 @@ description: "David Chalmers' framework for bridging consciousness and physics t
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-01-28T21:15:00+00:00
+ai_modified: 2026-11-11T20:04:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[psychophysical-laws-framework]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-2
 ai_generated_date: 2026-01-27
 last_curated:
 last_deep_review: 2026-01-27T17:00:00+00:00
@@ -81,7 +81,7 @@ Chalmers explicitly treats the scope as an open question: does *all* information
 
 A critical feature of Chalmers' framework: his laws run primarily *upward*. They specify which physical states produce which experiences—given the physics, the phenomenology follows. The physical is input; the phenomenal is output.
 
-This is compatible with [[concepts/epiphenomenalism|epiphenomenalism]]—the view that mental states are caused by physical states but don't cause physical states in return. Chalmers himself tends toward this position. In his framework, consciousness *accompanies* physical processes without necessarily *affecting* them. Psychophysical laws are supervenience laws, not causal laws.
+This is compatible with [[concepts/epiphenomenalism|epiphenomenalism]]—the view that mental states are caused by physical states but don't cause physical states in return. Chalmers himself leaves this position open. In his framework, consciousness *accompanies* physical processes without necessarily *affecting* them. Psychophysical laws are supervenience laws, not causal laws.
 
 **The Map's requirement**: The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet demands more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities.
 
@@ -155,7 +155,7 @@ Chalmers writes: "It would be odd if the universe had fundamental laws connectin
 
 Chalmers' framework aligns with the Map's [[tenets#^dualism|Dualism]] tenet: consciousness is ontologically distinct from physics, requiring new fundamental laws to specify their relationship. Where Chalmers provides philosophical foundation, the Map develops operational specification.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is where the Map most clearly diverges from Chalmers. Chalmers tends toward epiphenomenalism—consciousness may accompany physics without causally affecting it. The Map insists on downward causation: consciousness selects among physically underdetermined alternatives. The super-resistance principle represents one version of downward causation that Chalmers can accommodate; the Map additionally embraces attention-based selection following Stapp.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is where the Map most clearly diverges from Chalmers. Chalmers leaves epiphenomenalism open—consciousness may accompany physics without causally affecting it. The Map insists on downward causation: consciousness selects among physically underdetermined alternatives. The super-resistance principle represents one version of downward causation that Chalmers can accommodate; the Map additionally embraces attention-based selection following Stapp.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** finds support in Chalmers' quantum development. If consciousness couples to collapse, it does so without violating conservation or injecting energy—biasing probability distributions, not overriding physical law. This is the minimal intervention physics permits.
 
@@ -173,7 +173,7 @@ Chalmers provides the philosophical framework the Map requires. His naturalistic
 - [[psychophysical-laws-framework]] — Integrated overview of the full framework
 - [[integrated-information-theory]] — IIT's role in Chalmers' quantum proposal
 - [[concepts/functionalism]] — The view Chalmers tends toward, the Map rejects
-- [[concepts/epiphenomenalism]] — Chalmers' tendency, the Map's rejection
+- [[concepts/epiphenomenalism]] — Left open by Chalmers, rejected by the Map
 - [[haecceity]] — Why organisational invariance may fail
 - [[mental-causation]] — The downward direction Chalmers underspecifies
 - [[tenets]] — The Map's foundational commitments
