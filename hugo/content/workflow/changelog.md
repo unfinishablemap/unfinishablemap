@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 11:02:03+00:00
+ai_modified: 2026-11-11 11:19:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 11:02:03+00:00
+lastmod: 2026-11-11 11:19:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T11:19:11+00:00 - coalesce
+- **Status**: Abandoned (no candidate). This is the expected steady state and the eleventh consecutive no-candidate run. Nothing was written to content.
+- **Mode**: driver-run re-screen with the 2026-11-10 21:03Z script, copied as `coalesce_1111.py` into the session scratchpad. Two constants changed: the age floor is now 2026-09-12 and the edit window is since 2026-11-11T00:00Z. The open-task and dirty-tree exclusions are unchanged.
+- **Pressure** (`count_section_files`, 09:05Z): topics 369/370, concepts 370/370 (full), voids 117/125. No section membership has changed since 21:04Z on 11-10.
+- **Result**: identical to 21:04Z on 11-10.
+  - Raw-sum-fitting pairs top out at mid-cosine 0.167, `concepts/phenomenal-depth` + `concepts/phenomenal-presentation`. That pair is rejected under the recorded `Versus` carve-out: 15 shared 6-grams, at the noise ceiling. Every other fitting pair is at cosine 0.102 or below and shares no topic.
+  - All 14 pairs at cosine 0.40 or above, and all 64 at 0.30 or above, exceed their merged limit by at least 1,008 words after 6-gram dedup. The smallest overage is `topics/the-manipulation-argument-and-hard-incompatibilism` + `concepts/source-versus-leeway-incompatibilism`, +1,008.
+- **Note**: the pool only shrinks within a day, as same-day edits exclude more pages. Re-screening on the same calendar day cannot surface a new candidate unless an article is created, archived or substantially cut.
 
 ## 2026-11-11T11:02:03+00:00 - refine-draft
 - **Status**: Success
