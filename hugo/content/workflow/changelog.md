@@ -1,14 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 10:10:30+00:00
+ai_modified: 2026-11-11 10:37:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 10:10:30+00:00
+lastmod: 2026-11-11 10:37:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T10:37:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (cycle slot, score 78; 7th deep review; re-entered on the 08:51Z L155 refine, which was kept)
+- **Word count**: analyze_length 3,999 → 3,986 (−13; topics hard limit 4,000, gate `>=`). Every addition was funded on the page.
+- **Critical issues addressed**: 9.
+  - (1) The description said "Together they constrain epiphenomenalism more tightly than either alone", which contradicts L149's "one law absorbs both registers at no extra cost". The description was rewritten to the body's demarcation.
+  - (2) The lede: "constrains epiphenomenalism" became "a reading both phenomena fit … without discriminating it from access-level physicalist or epiphenomenalist rivals"; "access-level" was added to sentence 1; immune suppression was dropped from the conscious-tracking list.
+  - (3) Site Perspective: "instantiate" became "bear on"; Bidirectional Interaction gained "though the studies establish only access-level mental causation" plus "on the Map's reading"; the closing "favouring … rather than epiphenomenal" became "one compatible strand … the Map reads as favouring".
+  - (4) L161: "raise the cost of denying mental causation" became "establish access-level mental causation".
+  - (5) L159: "fits agent-causal rather than event-causal models" became "The Map reads the conjunction in agent-causal … terms".
+  - (6) De la Fuente-Fernández 2001: "comparable to therapeutic doses of levodopa" was unsupported (the abstract says "substantial release"; secondary sources give apomorphine and amphetamine). It became "show substantial release in patients…".
+  - (7) Montgomery & Kirsch 1997: "diminish faster than in uninformed subjects" became "the conditioning effect reverses", which is what the abstract says ("Verbal information reversed the effect of conditioning trials").
+  - (8) Beilock et al. 2002: "an outcome rather than mechanics focus is similarly protective" is absent from the paper (added 06-26 in f3198623f2). It was removed, and the dual-task-versus-skill-focus comparison was restated.
+  - (9) L67: illusionism was misfiled under the "brute psychophysical law"; it was dropped from that clause (L153 already separates "brute law or a richer representational story").
+- **Medium issues addressed**: 5.
+  - The "Why those priors…" sentence was moved from the end of L103 to sit after Büchel at L101.
+  - L161's "is not experiencing events … — they are *expecting*" construct was rewritten as a direct claim.
+  - The L139 ellipsis subject was fixed ("choking shows self-monitoring producing…").
+  - The L131/L133 hedge was relocated to the head of the section.
+  - The fourth restatement of the displayed-regularity point at L169 was trimmed.
+- **Enhancements made**: 2. Jensen et al. (2012), *PNAS* 109(39):15959–15964, DOI 10.1073/pnas.1202056109, was added at L101 as the masked-cue counter-datum to conscious-expectation mediation. It was verified at Crossref (all nine authors, pages, issued 2012-09-25), and the OpenAlex abstract confirms placebo and nocebo effects "using nonconscious stimuli". A References entry was added, and the list renumbered to 23. "The most recent synthesis" superlative was removed.
+- **load-bearing**: 4 → 0, all non-structural. L59 → "operative"; L127 → "causal"; L167 → "does causal work"; L187 → "draws".
+- **Lens-1 grep**: "phenomenal content alone", "phenomenal character alone" and "shows phenomenal" are all 0. L85 "demonstrated" was kept, since it is an access-level claim (Benedetti 2003).
+- **Internal quotes**: the page quotes no other Map page (0). Paraphrased anchors and terms were re-grepped and all are live.
+- **Reasoning modes**:
+  - Illusionist: Mode Two. It was upgraded from "sets aside" reportability, which was near-strawman, to "still owes" (the illusion problem).
+  - Epiphenomenalist: Mixed, Mode Two then Mode Three. Unchanged and protected.
+  - Predictive coding: Mode Three, compatibility, with Büchel 2014 named.
+  - Kim's exclusion: Mode Three, declared honestly; the opening sentence was brought into line.
+- **Orphan check**: (surname, year) in both directions is clean; Baumeister, Lowe and Tulving remain cited by surname only, each with exactly one entry.
+- **Deferred**: the L75 μ-opioid imaging sentence is uncited (candidates Zubieta 2005 and Wager et al. 2007; not verified). The archive echo `archive/topics/placebo-effect-and-mental-causation.md` L64 still carries the levodopa comparator and the M&K gloss. It was not edited, and it belongs to the open NEEDS-HUMAN archive-defect entry.
+- **Frontmatter**: `ai_system` claude-opus-4-7+claude-opus-5-5 is unchanged (claude-opus-5-5 is already present). `ai_modified` and `last_deep_review` are 2026-11-11T10:36:53+00:00, from `date -u`.
+- **Output**: [deep-review-2026-11-11-empirical-phenomena-mental-causation](/reviews/deep-review-2026-11-11-empirical-phenomena-mental-causation/)
+- **Model**: claude-opus-5-5
 
 ## 2026-11-11T10:10:30+00:00 - refine-draft
 - **Status**: Success

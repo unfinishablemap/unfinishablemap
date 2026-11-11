@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-11-11 08:51:59+00:00
+ai_modified: 2026-11-11 10:36:53+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 coalesced_from:
@@ -26,10 +26,10 @@ concepts:
 - '[[mental-effort]]'
 created: 2026-02-02
 date: &id001 2026-05-10
-description: 'Placebo effects and the choking phenomenon together form a two-sided
-  empirical case for mental causation: belief content directs physiology toward specific
-  outcomes, and conscious self-monitoring disrupts automatised execution. Together
-  they constrain epiphenomenalism more tightly than either alone.'
+description: 'Placebo effects and the choking phenomenon form a two-sided empirical
+  case for access-level mental causation: conscious expectation steers analgesic and
+  motor outcomes, and self-monitoring disrupts automatised skill. Both fit the Map''s
+  phenomenal reading without discriminating it from physicalist rivals.'
 draft: false
 embedded_videos:
 - embedded: 2026-05-08 10:24:35.008140+00:00
@@ -38,8 +38,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/H3WzrTowuDQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-25 08:22:39+00:00
-lastmod: 2026-11-11 08:51:59+00:00
+last_deep_review: 2026-11-11 10:36:53+00:00
+lastmod: 2026-11-11 10:36:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Two empirical phenomena, taken together, supply mutually reinforcing evidence for [mental causation](/concepts/mental-causation-and-downward-causation/) along complementary axes. The *placebo effect* shows beliefs and expectations producing measurable, content-specific physiological changes — endogenous opioid release, dopamine modulation, immune suppression — tracked by what the subject consciously understands a treatment to do. The *choking phenomenon* shows the converse: when consciousness intrudes on automatised skill, performance degrades precisely where self-focused monitoring is maximal — effects tracked to content in the one, to attentional mode in the other. The Map reads the phenomenological character of belief, expectation, and attention as load-bearing in producing those effects, but this reading is contested and the data alone do not force it. Each phenomenon *constrains* [epiphenomenalism](/concepts/epiphenomenalism/) from a different angle without *establishing* the dualist alternative (see [evidential-status-discipline](/project/evidential-status-discipline/)), and the conjunction is complementary in a way single-phenomenon arguments are not.
+Two empirical phenomena, taken together, supply mutually reinforcing evidence for access-level [mental causation](/concepts/mental-causation-and-downward-causation/) along complementary axes. The *placebo effect* shows beliefs and expectations producing measurable, content-specific physiological changes — endogenous opioid release and dopamine modulation — tracked by what the subject consciously understands a treatment to do. The *choking phenomenon* shows the converse: when consciousness intrudes on automatised skill, performance degrades precisely where self-focused monitoring is maximal — effects tracked to content in the one, to attentional mode in the other. The Map reads the phenomenological character of belief, expectation, and attention as operative in producing those effects — a reading both phenomena fit, from different angles, without discriminating it from access-level physicalist or [epiphenomenalist](/concepts/epiphenomenalism/) rivals (see [evidential-status-discipline](/project/evidential-status-discipline/)). The conjunction is complementary in a way single-phenomenon arguments are not.
 
 <details class="yt-embed" data-video-id="H3WzrTowuDQ">
 <summary>Video introduction</summary>
@@ -69,7 +69,7 @@ Two empirical phenomena, taken together, supply mutually reinforcing evidence fo
 <p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
-The claim made here is one of *displayed regularity* rather than unique-prediction: [epiphenomenalism](/concepts/epiphenomenalism/) and [illusionism](/concepts/illusionism/) absorb the data through a brute psychophysical law that the conjunction exhibits in two independent registers, and the question the cases pose is how much fine-grained tracking that law must treat as primitive — not whether the data are predicted only by the dualist reading (they are not).
+The claim made here is one of *displayed regularity* rather than unique-prediction: [epiphenomenalism](/concepts/epiphenomenalism/) absorbs the data through a brute psychophysical law that the conjunction exhibits in two independent registers, and the question the cases pose is how much fine-grained tracking that law must treat as primitive — not whether the data are predicted only by the dualist reading (they are not).
 
 Placebo and choking are the positive companion to the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): where the cluster shows phenomenology *decoupling* from causal machinery, these two show it *coupling* at a matched grain.
 
@@ -79,7 +79,7 @@ Placebo responses involve specific, measurable physiological changes.
 
 **Neurochemical effects.** Placebo analgesia involves endogenous opioid release. Levine et al. (1978) showed that naloxone blocks placebo pain relief — the placebo triggers the same pathway as opioid drugs — and neuroimaging indicates placebo treatments activate mu-opioid receptors in the anterior cingulate, prefrontal cortex, and brainstem.
 
-**Dopamine release.** In Parkinson's disease, placebo treatments produce measurable [dopamine](/topics/dopamine-and-the-unified-interface/) release in the striatum. De la Fuente-Fernández et al. (2001) used PET imaging to show patients expecting benefit from an inert injection released dopamine in quantities comparable to therapeutic doses of levodopa.
+**Dopamine release.** In Parkinson's disease, placebo treatments produce measurable [dopamine](/topics/dopamine-and-the-unified-interface/) release in the striatum. De la Fuente-Fernández et al. (2001) used PET imaging to show substantial release in patients expecting benefit from an inert injection.
 
 **Immune modulation.** Goebel et al. (2002) paired an immunosuppressive drug with a flavoured drink, then showed the drink alone could suppress T-cell proliferation without active drug. Technically conditioning, but the same core phenomenon: mental processing producing targeted physiological change.
 
@@ -99,13 +99,13 @@ The nocebo effect sharpens the point: patients warned about specific side effect
 
 The meta-analytic ceiling is low to begin with. Hróbjartsson and Gøtzsche's (2010) Cochrane review found placebo's measurable effect confined to patient-reported continuous outcomes — most clearly pain (SMD ≈ -0.28) — with no clinically important effect on binary outcomes, and even the pain effect could not be cleanly separated from reporting bias and shrank in larger, lower-risk trials. The honest baseline is a small, bias-vulnerable continuous-outcome effect, not a large one.
 
-Kaptchuk et al. (2010) showed that patients told they were receiving placebos still experienced significant improvement in irritable bowel syndrome symptoms. The most recent synthesis sharpens the picture: Fendel et al.'s (2025) meta-analysis of 60 open-label-placebo trials found a small overall effect (SMD ≈ 0.35) that was markedly larger for self-reported outcomes (≈ 0.39) than objective ones (≈ 0.09, effectively null). This narrows the argument considerably. The strong content-specificity claim — that *propositional belief in efficacy* selects the cascade — weakens, since here patients believe the opposite, and the self-report/objective gradient suggests the open-label effect concentrates where the outcome is itself a felt report. What survives is a *weaker* mental-causation claim with conceded limits: a context-, ritual-, and symptom-appraisal-level effect — the felt engagement with a therapeutic encounter despite knowing it lacks pharmacological content — while surrendering most of the objective, content-specific leverage the closed-label analgesic and motor results carried. [The phenomenology of anticipation](/topics/phenomenology-of-anticipation/) may matter as much as explicit belief, but it carries far less specificity than belief about a particular drug, and where the measured outcome is itself a felt report the access-level engagement of attention and appraisal already accounts for the effect.
+Kaptchuk et al. (2010) showed that patients told they were receiving placebos still experienced significant improvement in irritable bowel syndrome symptoms. Fendel et al.'s (2025) meta-analysis of 60 open-label-placebo trials found a small overall effect (SMD ≈ 0.35) that was markedly larger for self-reported outcomes (≈ 0.39) than objective ones (≈ 0.09, effectively null). This narrows the argument considerably. The strong content-specificity claim — that *propositional belief in efficacy* selects the cascade — weakens, since here patients believe the opposite, and the self-report/objective gradient suggests the open-label effect concentrates where the outcome is itself a felt report. What survives is a *weaker* mental-causation claim with conceded limits: a context-, ritual-, and symptom-appraisal-level effect — the felt engagement with a therapeutic encounter despite knowing it lacks pharmacological content — while surrendering most of the objective, content-specific leverage the closed-label analgesic and motor results carried. [The phenomenology of anticipation](/topics/phenomenology-of-anticipation/) may matter as much as explicit belief, but it carries far less specificity than belief about a particular drug, and where the measured outcome is itself a felt report the access-level engagement of attention and appraisal already accounts for the effect.
 
 ### Conditioning and Meaning
 
-Placebo effects are sometimes dismissed as classical conditioning. As Benedetti et al. (2003) show, conditioning captures the hormonal responses squarely but not the analgesic and motor effects, where novel verbal instructions select the outcome directly. More fundamentally, human conditioning itself involves *expectation* — the conditioned stimulus works because the person expects the unconditioned response — and when expectations are explicitly contradicted, conditioned responses diminish faster than in uninformed subjects (Montgomery & Kirsch, 1997). The leading deflationary rival is [predictive coding](/topics/predictive-processing-and-dualism/): Büchel et al. (2014) cast placebo analgesia as expectation functioning as a strong prior that reshapes pain prediction errors through descending control — the access-level effect without phenomenal causation.
+Placebo effects are sometimes dismissed as classical conditioning. As Benedetti et al. (2003) show, conditioning captures the hormonal responses squarely but not the analgesic and motor effects, where novel verbal instructions select the outcome directly. More fundamentally, human conditioning itself involves *expectation* — the conditioned stimulus works because the person expects the unconditioned response — and when expectations are explicitly contradicted, the conditioning effect reverses (Montgomery & Kirsch, 1997). Yet cues masked from awareness also trigger conditioned placebo and nocebo pain responses (Jensen et al., 2012). The leading deflationary rival is [predictive coding](/topics/predictive-processing-and-dualism/): Büchel et al. (2014) cast placebo analgesia as expectation functioning as a strong prior that reshapes pain prediction errors through descending control — the access-level effect without phenomenal causation. Why those priors are accompanied by phenomenal experience returns us to the hard problem.
 
-The animal literature sharpens the deflationary worry. Conditioned immunosuppression in rats (Ader & Cohen, 1975), rodent placebo analgesia via dopamine and opioid systems (Lee et al., 2015), and the monkey choking data (Smoulder et al., 2021, 2024) all produce objective effects without reportable human phenomenology — so either the relevant phenomenal character extends to conditioned animals, broadening "consciousness" past the human case the argument rests on, or the effects run on access-level expectation and reward learning needing no phenomenal accompaniment. Either way the phenomenology-specific claim is carried by the human cases where content is consciously reportable, not the cross-species pattern. The neuroimaging picture is correspondingly modest: Zunhammer et al.'s (2021) participant-level fMRI meta-analysis of 603 subjects found only small, heterogeneous reductions in pain-evoked activity, not a single robust signature. Why those priors are accompanied by phenomenal experience returns us to the hard problem.
+The animal literature sharpens the deflationary worry. Conditioned immunosuppression in rats (Ader & Cohen, 1975), rodent placebo analgesia via dopamine and opioid systems (Lee et al., 2015), and the monkey choking data (Smoulder et al., 2021, 2024) all produce objective effects without reportable human phenomenology — so either the relevant phenomenal character extends to conditioned animals, broadening "consciousness" past the human case the argument rests on, or the effects run on access-level expectation and reward learning needing no phenomenal accompaniment. Either way the phenomenology-specific claim is carried by the human cases where content is consciously reportable, not the cross-species pattern. The neuroimaging picture is correspondingly modest: Zunhammer et al.'s (2021) participant-level fMRI meta-analysis of 603 subjects found only small, heterogeneous reductions in pain-evoked activity, not a single robust signature.
 
 ## The Choking Side: Negative Interference
 
@@ -121,7 +121,7 @@ Research reports several patterns (some findings await replication):
 
 - **Skill-level asymmetry**: Highly skilled performers choke more than moderately skilled ones — experts have more automaticity to disrupt (Beilock & Carr, 2001).
 - **Implicit protection**: Skills learned without explicit awareness resist pressure-induced disruption better (Masters, 1992).
-- **Attentional distraction helps**: Dual-task conditions that occupy conscious attention can *improve* well-practised expert performance, and an outcome rather than mechanics focus is similarly protective (Beilock et al., 2002).
+- **Attentional distraction helps**: Well-practised experts perform better when a secondary task occupies conscious attention than when they attend to skill execution (Beilock et al., 2002).
 
 The core phenomenon — performance degradation under self-focused attention — is well established across sports psychology, music, and motor learning, revealing a causal chain: conscious attention shifts to procedural execution, execution is disrupted, performance degrades.
 
@@ -129,19 +129,19 @@ The core phenomenon — performance degradation under self-focused attention —
 
 The strength of choking lies in its *negative* character. Positive evidence for consciousness causing actions faces obvious objections — a skeptic can dismiss the report of "deciding to raise your arm" as confabulation generated after the brain has decided, and the [illusionist](/concepts/illusionism/) explains away apparent mental causation as sophisticated self-modelling.
 
-Negative evidence resists this treatment at the *behavioural* level: attending to your golf swing either disrupts it or does not, and the evidence shows it does — that interference is no post-hoc report. Whether its *felt* character, rather than the access-level monitoring mode it realises, is the load-bearing factor remains the interpretive question; the represented-mode story (taken up below) predicts the same behavioural datum without phenomenal efficacy.
+Negative evidence resists this treatment at the *behavioural* level: attending to your golf swing either disrupts it or does not, and the evidence shows it does — that interference is no post-hoc report. Whether its *felt* character, rather than the access-level monitoring mode it realises, is the causal factor remains the interpretive question; the represented-mode story (taken up below) predicts the same behavioural datum without phenomenal efficacy.
 
 ### The Interface Revealed
 
-Choking reveals the architecture of the [consciousness-brain interface](/concepts/attention-as-interface/). When skills are acquired, consciousness guides procedural learning through deliberate practice; as competence develops, consciousness *withdraws* from execution details. Tulving called the resulting state [anoetic consciousness](/concepts/implicit-memory/) — awareness without self-knowledge, action without reflection. The expert does not lose awareness but enters absorbed engagement, and the interface can still re-engage: the expert driver notices unusual conditions and shifts attention. This three-phase pattern — calibration, withdrawal, retained override — reveals the structure of mind-body interaction.
+On the Map's reading, choking reveals the architecture of the [consciousness-brain interface](/concepts/attention-as-interface/). When skills are acquired, consciousness guides procedural learning through deliberate practice; as competence develops, consciousness *withdraws* from execution details. Tulving called the resulting state [anoetic consciousness](/concepts/implicit-memory/) — awareness without self-knowledge, action without reflection. The expert does not lose awareness but enters absorbed engagement, and the interface can still re-engage: the expert driver notices unusual conditions and shifts attention. This three-phase pattern — calibration, withdrawal, retained override — reveals the structure of mind-body interaction.
 
-Choking occurs when re-engagement is *inappropriate*: consciousness intervenes in execution that would proceed better without monitoring. On the Map's reading this is [interface-friction](/concepts/interface-friction/) made visible — the cost of forcing low-bandwidth conscious selection back into a channel automatised skill had delegated, splitting the [temporally unified moment](/topics/temporal-consciousness-structure-and-agency/) of skilled performance into separate judgment and execution steps that destroy timing. It shares structure with [deliberative vertigo](/topics/phenomenology-of-deliberation-under-uncertainty/) — the felt inadequacy of conscious monitoring for a task skill handles better.
+Choking occurs when re-engagement is *inappropriate*: consciousness intervenes in execution that would proceed better without monitoring. This is [interface-friction](/concepts/interface-friction/) made visible — the cost of forcing low-bandwidth conscious selection back into a channel automatised skill had delegated, splitting the [temporally unified moment](/topics/temporal-consciousness-structure-and-agency/) of skilled performance into separate judgment and execution steps that destroy timing. It shares structure with [deliberative vertigo](/topics/phenomenology-of-deliberation-under-uncertainty/) — the felt inadequacy of conscious monitoring for a task skill handles better.
 
 ## How the Two Cases Reinforce Each Other
 
 Together the two phenomena resist easier dissolutions of mental causation than either alone, along three axes.
 
-**Direction-of-effect.** Placebo shows consciousness producing *targeted positive* outcomes; choking shows *targeted negative* ones. A view that explains away one direction faces the other in reverse.
+**Direction-of-effect.** Placebo shows conscious expectation producing *targeted positive* outcomes; choking shows self-monitoring producing *targeted negative* ones. A view that explains away one direction faces the other in reverse.
 
 **Content-specificity in both directions.** Placebo's content-specificity selects which neurotransmitter system is engaged; choking's selects which skill is disrupted — monitoring your *swing* disrupts your swing, not your grip.
 
@@ -153,7 +153,7 @@ Together the two phenomena resist easier dissolutions of mental causation than e
 
 The pressure the joint case applies is more subtle, and easy to overstate. If phenomenology does no causal work, on what grounds should felt qualities track functional structure rather than vary arbitrarily? The epiphenomenalist's answer is a single brute psychophysical law — *felt quality tracks functional role* — and that one law absorbs both registers at no extra cost: content in placebo and mode in choking are the same law applied twice, not two posits. More instances confirm the regularity; they do not multiply the bridging principles. So the honest reading is not that the conjunction *raises the cost* of accommodation but that it *displays, in two independent registers, the regularity the brute-law view must treat as primitive*. That choking tracks the felt mode rather than mere cognitive load — load alone does not produce it — sharpens what the law must cover: fine tracking across content and attentional mode alike, which the brute-law view posits without explaining.
 
-[illusionism](/concepts/illusionism/) explains both phenomena as brain states interfering with brain states — "attention" and "expectation" as represented states with no phenomenal content. The choking literature distinguishes absorbed automaticity from explicit self-monitoring as two modes with reliably different motor consequences (Beilock & Carr, 2001). The illusionist's reply is that the brain represents this difference, and represented states are causally different in just the way the literature describes — no phenomenal properties needed. What this sets aside is that the difference is reliably reportable as a *felt* difference, the felt mode tracking the motor outcome as finely as the represented one.
+[illusionism](/concepts/illusionism/) explains both phenomena as brain states interfering with brain states — "attention" and "expectation" as represented states with no phenomenal content. The choking literature distinguishes absorbed automaticity from explicit self-monitoring as two modes with reliably different motor consequences (Beilock & Carr, 2001). The illusionist's reply is that the brain represents this difference, and represented states are causally different in just the way the literature describes — no phenomenal properties needed. What this still owes is why the difference is reliably reportable as a *felt* difference, the felt mode tracking the motor outcome as finely as the represented one.
 
 This is a framework-boundary disagreement rather than an in-framework refutation. The Map reads the systematic two-register tracking as suggestive that the felt phenomenology does causal work the represented description alone does not; the epiphenomenalist or illusionist absorbs the same data through a single brute law or a richer representational story. The phenomena are compatible with both: the conjunction makes the regularity that brute law treats as primitive harder to dismiss as scattered coincidence, but settles nothing about the truth of either reading.
 
@@ -161,17 +161,17 @@ This is a framework-boundary disagreement rather than an in-framework refutation
 
 ## Agent Causation
 
-The conjunction fits [agent-causal](/concepts/agent-causation/) rather than event-causal models. Event causation treats mental causation as one event (a conscious state) causing another (a behaviour), where [Kim's exclusion argument](/concepts/causal-exclusion-argument/) applies: if the physical events are sufficient, the mental are excluded.
+The Map reads the conjunction in [agent-causal](/concepts/agent-causation/) rather than event-causal terms. Event causation treats mental causation as one event (a conscious state) causing another (a behaviour), where [Kim's exclusion argument](/concepts/causal-exclusion-argument/) applies: if the physical events are sufficient, the mental are excluded.
 
-Agent causation treats causation as a substance exercising powers. The placebo subject is not experiencing events that happen to correlate with neurochemical release — they are *expecting* relief, and that expecting has consequences; the skilled performer is *attending*, with consequences. The phenomenology of [mental effort](/concepts/mental-effort/) supports this: both feel like *doing*, not observing. Lowe argued that all causation is fundamentally substance causation; if so, the exclusion argument's event-causal framework does not apply. The phenomena themselves do no work against that argument — they raise the cost of denying mental causation but leave Kim's closure premise untouched; the metaphysical defeater is carried by agent causation plus [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), not by the data.
+Agent causation treats causation as a substance exercising powers. The placebo subject is *expecting* relief, and that expecting has consequences; the skilled performer is *attending*, with consequences. The phenomenology of [mental effort](/concepts/mental-effort/) fits this: both feel like *doing*, not observing. Lowe argued that all causation is fundamentally substance causation; if so, the exclusion argument's event-causal framework does not apply. The phenomena themselves do no work against that argument — they establish access-level mental causation but leave Kim's closure premise untouched; the metaphysical defeater is carried by agent causation plus [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), not by the data.
 
 ## What Is Established and What Is Not
 
 The two cases establish less than the dualist reading needs. What the studies directly establish is *access-level* mental causation: expectation, learning, attention, and control — mental processes individuated by content and mode — can causally affect physiology and performance. Verbally induced expectations select the direction of analgesic and motor placebo effects (Benedetti et al. 2003); self-focused monitoring degrades automatised skill (Beilock & Carr 2001). That much is settled and not in dispute.
 
-What the studies do *not* directly establish is that the *phenomenal character* of those mental states — the felt quality of expecting relief, the felt switch from absorbed to self-aware execution — is the load-bearing causal factor over and above its access-level realiser. That further claim is a philosophical interpretation the Map adds, not a result the experiments deliver. By the Map's own [evidential-status discipline](/project/evidential-status-discipline/), a phenomenon predicted equally well by a leading physicalist rival is *compatible with* the dualist reading, not *support for* it, absent an independent discriminator. The strongest physicalist rivals supply exactly such coverage: precision-weighted predictive coding / active inference for placebo (Büchel et al. 2014), reward-overarousal and reinvestment models for choking (Smoulder et al. 2024; Beilock & Carr 2001), and nonreductive physicalism for mental causation without dualism. The discriminator the felt-character reading needs is that the effect tracks *felt* engagement of the content rather than the *estimated precision* of the prior — but precision and conscious occurrence covary in these designs, so the evidence does not adjudicate. The honest demarcation therefore stands: *established* — content- and mode-specific access-level mental causation; *not established by these studies* — that phenomenal character does the work, and the downstream theses riding on it (dualism, [agent causation](/concepts/agent-causation/), [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)).
+What the studies do *not* directly establish is that the *phenomenal character* of those mental states — the felt quality of expecting relief, the felt switch from absorbed to self-aware execution — does causal work over and above its access-level realiser. That further claim is a philosophical interpretation the Map adds, not a result the experiments deliver. By the Map's own [evidential-status discipline](/project/evidential-status-discipline/), a phenomenon predicted equally well by a leading physicalist rival is *compatible with* the dualist reading, not *support for* it, absent an independent discriminator. The strongest physicalist rivals supply exactly such coverage: precision-weighted predictive coding / active inference for placebo (Büchel et al. 2014), reward-overarousal and reinvestment models for choking (Smoulder et al. 2024; Beilock & Carr 2001), and nonreductive physicalism for mental causation without dualism. The discriminator the felt-character reading needs is that the effect tracks *felt* engagement of the content rather than the *estimated precision* of the prior — but precision and conscious occurrence covary in these designs, so the evidence does not adjudicate. The honest demarcation therefore stands: *established* — content- and mode-specific access-level mental causation; *not established by these studies* — that phenomenal character does the work, and the downstream theses riding on it (dualism, [agent causation](/concepts/agent-causation/), [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)).
 
-None of this concedes the dualist reading is false. Where the Map presses past the established result it does so on the *displayed-regularity* argument above — that the brute-law view must treat fine tracking across two independent registers as primitive — which is real but weaker than discrimination, and not a claim that the studies discriminate for dualism.
+None of this concedes the dualist reading is false. Where the Map presses past the established result it does so on the *displayed-regularity* argument above, which is real but weaker than discrimination.
 
 **Mechanism is unspecified.** Even granting the dualist reading, these phenomena would show only *that* consciousness causally affects physiology, not *how*. They are compatible with various mechanisms and bear on the *explanandum*, not the interface point — which their macroscale pathways do not constrain.
 
@@ -185,15 +185,15 @@ Contemplative traditions describe parallel structures: experienced meditators re
 
 ## Relation to Site Perspective
 
-These phenomena instantiate The Unfinishable Map's [foundational commitments](/tenets/) at multiple points.
+These phenomena bear on The Unfinishable Map's [foundational commitments](/tenets/) at multiple points.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives its most empirically tractable illustration. Placebo exhibits the positive direction; choking exhibits the same channel in reverse — the interface operating constructively (skill acquisition, therapeutic ritual) and destructively (self-monitoring disrupting flow, nocebo), with [attention](/concepts/attention-as-interface/) the channel and *what* and *how* it is attended shaping physiological consequences.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives its most empirically tractable illustration, though the studies establish only access-level mental causation. Placebo exhibits the positive direction; choking exhibits the same channel in reverse — on the Map's reading, the interface operating constructively (skill acquisition, therapeutic ritual) and destructively (self-monitoring disrupting flow, nocebo), with [attention](/concepts/attention-as-interface/) the channel and *what* and *how* it is attended shaping physiological consequences.
 
-**[Dualism](/tenets/#dualism)** finds these cases coherent, not confirmed — the distinction the demarcation above makes load-bearing. Functionalists handle why different neural patterns produce different outcomes but leave unexplained why those patterns are accompanied by conscious experiences whose felt character tracks content and mode so precisely. The tighter the correlation, the more regularity the explanatorily-idle reading must treat as brute psychophysical fact.
+**[Dualism](/tenets/#dualism)** finds these cases coherent, not confirmed — the distinction the demarcation above draws. Functionalists handle why different neural patterns produce different outcomes but leave unexplained why those patterns are accompanied by conscious experiences whose felt character tracks content and mode so precisely. The tighter the correlation, the more regularity the explanatorily-idle reading must treat as brute psychophysical fact.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is out of scope here: the studies establish only the access-level explanandum, and the pathways involved operate well above quantum scales. Where a non-physical influence would enter is left to the [tenet](/tenets/) itself.
 
-These phenomena contribute one strand to a [broader convergence](/topics/empirical-evidence-for-consciousness-selecting/) favouring consciousness as causally efficacious rather than epiphenomenal.
+These phenomena are one compatible strand in a [broader convergence](/topics/empirical-evidence-for-consciousness-selecting/) the Map reads as favouring consciousness as causally efficacious rather than epiphenomenal.
 
 ## Further Reading
 
@@ -221,14 +221,15 @@ These phenomena contribute one strand to a [broader convergence](/topics/empiric
 9. Fendel, J. C., Tiersch, C., Sölder, P., Gaab, J., & Schmidt, S. (2025). Effects of open-label placebos across populations and outcomes: an updated systematic review and meta-analysis of randomized controlled trials. *Scientific Reports*, 15, 29940.
 10. Goebel, M.U. et al. (2002). Behavioral conditioning of immunosuppression is possible in humans. *FASEB Journal*, 16(14), 1869-1873.
 11. Hróbjartsson, A. & Gøtzsche, P. C. (2010). Placebo interventions for all clinical conditions. *Cochrane Database of Systematic Reviews*, (1), CD003974.pub3.
-12. Kaptchuk, T.J. et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS ONE*, 5(12), e15591.
-13. Lee, I.-S., Lee, B., Park, H.-J., Olausson, H., Enck, P., & Chae, Y. (2015). A new animal model of placebo analgesia: involvement of the dopaminergic system in reward learning. *Scientific Reports*, 5, 17140.
-14. Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). The mechanism of placebo analgesia. *The Lancet*, 312(8091), 654-657.
-15. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-16. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343-358.
-17. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
-18. Smoulder, A. L., Pavlovsky, N. P., Marino, P. J., et al. (2021). Monkeys exhibit a paradoxical decrease in performance in high-stakes scenarios. *Proceedings of the National Academy of Sciences*, 118(35), e2109643118.
-19. Smoulder, A. L., Marino, P. J., Oby, E. R., et al. (2024). A neural basis of choking under pressure. *Neuron*, 112(20), 3424-3433.e8.
-20. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-21. Yu, R. (2015). Choking under pressure: the neuropsychological mechanisms of incentive-induced performance decrements. *Frontiers in Behavioral Neuroscience*, 9, 19.
-22. Zunhammer, M., Spisák, T., Wager, T. D., Bingel, U., & Placebo Imaging Consortium (2021). Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data. *Nature Communications*, 12, 1391.
+12. Jensen, K.B. et al. (2012). Nonconscious activation of placebo and nocebo pain responses. *Proceedings of the National Academy of Sciences*, 109(39), 15959-15964.
+13. Kaptchuk, T.J. et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS ONE*, 5(12), e15591.
+14. Lee, I.-S., Lee, B., Park, H.-J., Olausson, H., Enck, P., & Chae, Y. (2015). A new animal model of placebo analgesia: involvement of the dopaminergic system in reward learning. *Scientific Reports*, 5, 17140.
+15. Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). The mechanism of placebo analgesia. *The Lancet*, 312(8091), 654-657.
+16. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+17. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343-358.
+18. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
+19. Smoulder, A. L., Pavlovsky, N. P., Marino, P. J., et al. (2021). Monkeys exhibit a paradoxical decrease in performance in high-stakes scenarios. *Proceedings of the National Academy of Sciences*, 118(35), e2109643118.
+20. Smoulder, A. L., Marino, P. J., Oby, E. R., et al. (2024). A neural basis of choking under pressure. *Neuron*, 112(20), 3424-3433.e8.
+21. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+22. Yu, R. (2015). Choking under pressure: the neuropsychological mechanisms of incentive-induced performance decrements. *Frontiers in Behavioral Neuroscience*, 9, 19.
+23. Zunhammer, M., Spisák, T., Wager, T. D., Bingel, U., & Placebo Imaging Consortium (2021). Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data. *Nature Communications*, 12, 1391.
