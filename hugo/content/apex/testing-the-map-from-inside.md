@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-11-10 20:50:51+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 23:19:02+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-05-26 00:00:00+00:00
 apex_sources:
 - concepts/introspection
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 15:04:27+00:00
-lastmod: 2026-11-10 20:50:51+00:00
+lastmod: 2026-11-11 23:19:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -175,7 +175,7 @@ Active inhibition—catching yourself before acting—reveals a capacity distinc
 
 **Try this**: Generate an impulse to act—start reaching for your phone, or begin to stand up. Now stop yourself mid-motion. Notice what happens at the moment of inhibition.
 
-The veto feels different from inaction. Inaction involves no suppression; veto involves pushing *against* something already in motion. Libet himself considered this "free won't" the strongest evidence in his own data for conscious causal efficacy. Neuroimaging confirms distinct circuitry: dorsal fronto-median cortex exerts top-down suppression of premotor areas during intentional inhibition. You can feel the effort of stopping, and that effort has a different quality from the effort of initiating—it is oppositional, directed against a process you yourself set in motion.
+The veto feels different from inaction. Inaction involves no suppression; veto involves pushing *against* something already in motion. Libet proposed the veto, often called "free won't", as a role conscious will could still play: controlling whether a prepared act is performed. Dorsal fronto-median cortex is more active when a prepared action is intentionally cancelled, a candidate correlate of the veto rather than its demonstrated source. You can feel the effort of stopping, and that effort has a different quality from the effort of initiating—it is oppositional, directed against a process you yourself set in motion.
 
 ## Training Effects and Reliability
 

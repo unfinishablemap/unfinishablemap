@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T23:07:37+00:00
+ai_modified: 2026-11-11T23:20:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T23:20:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/testing-the-map-from-inside]] and [[topics/volitional-control]] (two-file task)
+- **Review file**: `reviews/pessimistic-2026-10-24-phenomenology-of-choice-and-volition.md` (Item 1 and its spillover list)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted calibration fix from the review)
+- **Changes**:
+  - `apex/testing-the-map-from-inside`, paragraph "The veto feels different from inaction.": replaced the claim that Libet "considered this 'free won't' the strongest evidence in his own data for conscious causal efficacy" with what he proposed, in his modality (a role conscious will "could still play"), with the label demoted to "often called". Replaced "Neuroimaging confirms distinct circuitry: dorsal fronto-median cortex exerts top-down suppression of premotor areas" with the fMRI contrast actually reported (more active when a prepared action is intentionally cancelled; a candidate correlate of the veto, not its demonstrated source). Wording follows the corrected hub paragraph on `concepts/phenomenology-of-choice-and-volition`. No quotation and no new citation added (the apex has no References section). The separate open P3 locus ("confirms the phenomenology.") was not touched. `apex_last_synthesis` unchanged. analyze_length 4,416 -> 4,430 (+14; hard 5,000).
+  - `topics/volitional-control`, one sentence: "He proposed 'free won't' ... consciousness retains the power to veto prepared movements" -> "He proposed a veto, often called 'free won't': the brain may initiate action unconsciously; conscious will could block it." analyze_length 4,992 -> 4,992 (net 0; page was already over hard 4,000). Nothing else on the page changed.
+  - Reasoning-mode classification: not applicable (no named-opponent reply edited; both edits are source-fidelity corrections to Libet 1999 and Brass & Haggard 2007).
+- **Listed, not edited** (same wording elsewhere): `archive/concepts/phenomenology-of-volition` L76 (both defects), `archive/topics/phenomenology-of-volitional-control` L73 and L81 (both defects), `archive/voids/volitional-opacity` L92 ("it can veto them", indicative), `research/motor-control-quantum-zeno-2026-01-18` L40, `research/phenomenology-volitional-control-2026-03-20` L17, L69, L156, L193, `research/episodic-memory-consciousness-2026-01-16` L92.
+- **Published**: yes
 
 ## 2026-11-11T23:07:37+00:00 - refine-draft
 - **Status**: Success

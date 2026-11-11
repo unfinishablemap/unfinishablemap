@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-11-03 10:09:48+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-11-11 23:19:02+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/phenomenology-of-volitional-control/
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 01:08:52+00:00
-lastmod: 2026-11-03 10:09:48+00:00
+lastmod: 2026-11-11 23:19:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,7 +100,7 @@ What this refutes is the narrow view that the feeling of willing is nothing but 
 
 ## Conscious Veto: The "Whether" Component
 
-Libet himself recognized that his experiments did not eliminate conscious causal power. He proposed "free won't": the brain may initiate action unconsciously, but consciousness retains the power to veto prepared movements. Marcel Brass and Patrick Haggard (2007, 2008) provided neural evidence through their "what, when, whether" model of intentional action:
+Libet himself recognized that his experiments did not eliminate conscious causal power. He proposed a veto, often called "free won't": the brain may initiate action unconsciously; conscious will could block it. Marcel Brass and Patrick Haggard (2007, 2008) provided neural evidence through their "what, when, whether" model of intentional action:
 
 - **What** (which action to perform) — lateral prefrontal and premotor areas
 - **When** (the timing of action) — supplementary motor area
