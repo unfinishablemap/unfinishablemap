@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T04:48:54+00:00
+ai_modified: 2026-11-11T05:14:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11 05:14 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Deep Research). Subject: `voids/boredom-void`, reused from the ChatGPT leg. Commissioned 04:07Z; collected at 05:06Z on the first attempt (report complete, no Stop button). Extracted js-dom from the only h1-bearing panel in 31 × 900-char chunks. Length (27,642 characters), total hash and all 31 chunk hashes matched in-page.
+- **File**: [[reviews/outer-review-2026-11-11-gemini-3-1-pro]]
+- **Claims verified**: 5 external (Crossref/OpenAlex abstracts) and 3 Map-internal:
+  - Darling 2023 *Synthese* ("boredom tracks our grip on the world")
+  - Trudel et al. 2025 *Commun Psychol* (homeostatic set point)
+  - Elpidorou 2025 "Boredom as Cognitive Allostasis" (OUP)
+  - Yeung et al. 2024 *Sci Rep* (depressive symptoms, not clinical depression)
+  - Meteier et al. 2025 *Sci Rep* (7 min 30 s wait; waiters felt time pass more slowly, yet underestimated the duration)
+  - Map-internal: L78 quote, L54 "Situational" revision (3fb2416a82), L42/L100 "objectless signal" against L48/L50
+- **Disputed**: all 5 weaknesses as stated, plus 5 failed source uses:
+  - Weaknesses 1, 3 and 5 rest on claims the page does not make (it says "nothing here requires dualism").
+  - Weakness 2 conflates the wanting's missing target with the blamed current object.
+  - Weakness 4 inverts Meteier 2025, which corroborates L78.
+  - Metadata and attribution: Wojtowicz et al. is a 2019 SSRN paper, not *TiCS* 2020; "Boredom at the border of philosophy" is by Levine, not Freeman & Elpidorou; the insula "*Communications Psychology* 2024 study" is Wolff et al.'s 2025 *Neurosci Biobehav Rev* proposal.
+  - Content: Trudel 2025 is cited for insula/time claims it does not make.
+  - Phrases attributed to the page that are not on it: "simulation architects" (voids index), "the exact same blank".
+- **High-value findings**: 2, both residuals from adjudication:
+  - the objectless-signal/blank wording (L42/L94/L100) that produced the lead misreading
+  - the L78 duration-vs-passage wording
+  - Convergence: Darling 2023 and the L80 profound-boredom border are now 3 of 3; the regulatory rival is 3 of 3.
+- **Tasks generated**: 0 new.
+- **Addenda**: 2 existing tasks, each within its existing budget.
+  - P2 faces 1–2: edit (C), +0, "objectless signal" becomes "objectless feeling" ×2 and "same blank" becomes "same gap"; ownership of L100 and L94's last sentence; Trudel/Elpidorou noted; Wojtowicz barred.
+  - P2 face 4: (f) at L80 made required; Darling conditional on ≥25 words of the +45 left unspent; new optional (h) at L78 (+0 to +3).
+- **Headroom**: boredom-void 2,771/3,000 (228 usable); open-task budgets still sum to 189. No budget raised.
+- **Convergence**: third and last leg; `/combine-outer-reviews` is now unblocked for 2026-11-11.
 
 ## 2026-11-11 04:48 - outer-review
 - **Status**: Success

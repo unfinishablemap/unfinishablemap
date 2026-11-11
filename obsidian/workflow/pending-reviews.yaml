@@ -264,9 +264,9 @@
   prompt_summary: 'Audit boredom-void: citations, empirical claims, counterarguments,
     integration'
   target_filename: outer-review-2026-11-11-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-11T05:06:42.174516+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing "The Boredom Void"
