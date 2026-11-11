@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal, and the sharpest pressure 
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-11-11T01:38:07+00:00
+ai_modified: 2026-11-11T02:26:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ coalesced_from:
   - "/topics/why-pain-hurts/"
 ---
 
-Pain is the hard problem made personal. Abstract debates about [[qualia]] and the [[explanatory-gap]] can feel remote, but pain forces the question with brute immediacy: why does tissue damage *hurt*? The Unfinishable Map holds that no physical account — no neural firing pattern, no functional role, no information-processing story — captures what makes pain painful. More than this: pain is where the debate about [[mental-causation-and-downward-causation|mental causation]] stops being abstract. The felt awfulness of pain is not a side effect of its motivational force — it is partially constitutive of that force. When pain hurts, the hurting *is* what drives avoidance. And the clinical condition of [[pain-asymbolia]] — where patients detect nociceptive stimuli but lack the felt awfulness — provides the single most discriminating empirical test case in philosophy of mind, forcing every major theory to reveal its commitments and its gaps.
+Pain is the hard problem made personal. Abstract debates about [[qualia]] and the [[explanatory-gap]] can feel remote, but pain forces the question with brute immediacy: why does tissue damage *hurt*? The Unfinishable Map holds that no physical account — no neural firing pattern, no functional role, no information-processing story — captures what makes pain painful. More than this: pain is where the debate about [[mental-causation-and-downward-causation|mental causation]] stops being abstract. The felt awfulness of pain is not a side effect of its motivational force — it is partially constitutive of that force. When pain hurts, the hurting *is* what drives avoidance. And the clinical condition of [[pain-asymbolia]] — where patients detect nociceptive stimuli but lack the felt awfulness — provides an unusually revealing dissociation whose metaphysical reading is underdetermined, though it exposes every major theory's commitments and gaps.
 
 Three threads converge below: pain's resistance to reduction, the pain-suffering distinction's challenge to physicalism, and asymbolia as the central test case.
 
@@ -109,11 +109,11 @@ Where thought experiments like [[philosophical-zombies]] remain debatable in the
 
 ### What Makes Asymbolia Instructive
 
-**It targets the hardest feature of consciousness.** The "hard" in the [[hard-problem-of-consciousness|hard problem]] is phenomenal character — why there is something it is like to be in a given mental state. Asymbolia removes the most salient aspect of phenomenal character (the awfulness) while leaving informational content intact, isolating the hard problem's target.
+**It targets the hardest feature of consciousness.** The "hard" in the [[hard-problem-of-consciousness|hard problem]] is phenomenal character — why there is something it is like to be in a given mental state. Asymbolia removes the most salient aspect of phenomenal character (the awfulness) while leaving informational content intact, foregrounding the hard problem's target.
 
-**The dissociation is real but contested.** Patients report nociceptive stimuli accurately — localisation, modality, intensity in sensory terms. What vanishes is the affective-motivational dimension: the awfulness, the urgency, the compulsion to withdraw. Griffith and Kind (2024) argue that what remains is no longer pain; Duval and Klein (2025) reply that it probably still is; the [[pain-asymbolia#What Asymbolia Dissociates|concept page]] therefore declines any pristine one-variable reading. The deficit can extend to threat evaluation more broadly — Berthier et al. (1988) report reduced reactivity to threatening gestures — but the core pattern remains a selective loss of affective-bodily concern while sensory cognition continues.
+**The dissociation is real but contested.** In the six patients of Berthier et al. (1988), primary sensation was spared, and pain thresholds, tested in three, roughly matched controls' (Griffith & Kind, 2024). What vanishes is the affective-motivational dimension: the awfulness, the urgency, the compulsion to withdraw. Griffith and Kind (2024) argue that what remains is no longer pain; Duval and Klein (2025) reply that it probably still is; the [[pain-asymbolia#What Asymbolia Dissociates|concept page]] therefore declines any pristine one-variable reading. The deficit was also wider than pain, reaching threatening gestures, in a mixed sample: lesions differed in extent, and neglect and body-schema disorders were common.
 
-**The behavioural consequences are dramatic.** Asymbolia patients fail to guard injuries, seek treatment, or develop avoidance patterns. As Nikola Grahek frames it, the distinction is between *feeling pain* (sensory detection, preserved) and *being in pain* (the full affective state that commands attention and drives behaviour, abolished).
+**The behavioural consequences are dramatic.** Asymbolia patients fail to guard injuries, seek treatment, or develop avoidance patterns. Grahek (2007) offered asymbolia as a counterexample to motivationalism: *feeling pain* (sensory detection, preserved) without *being in pain* (the full affective state that commands attention and drives behaviour, abolished).
 
 ### Theory by Theory
 
@@ -125,7 +125,7 @@ Where thought experiments like [[philosophical-zombies]] remain debatable in the
 
 **[[integrated-information-theory|Integrated Information Theory]]** 4.0 separates the quantity of experience (Φ) from its quality, which corresponds to the Φ-structure. Asymbolia is domain-specific: patients lose affective pain experience while retaining full sensory awareness, visual consciousness, and general cognitive function. The deficit is therefore a Φ-structure change the theory must model, not a falsification.
 
-**Representationalism** identifies phenomenal character with representational content. But perceiving a red square and perceiving tissue-damage-as-threat are both representations, yet only one produces felt awfulness. If phenomenal character just *is* representational content, the two should differ in what they are about but not in whether they hurt. The fact that one content is constitutively aversive while another is affectively neutral suggests that phenomenal character may not be fully captured by representational content alone.
+**Representationalism** identifies phenomenal character with representational content, and its accounts of unpleasantness put the hurt in the content: [[valence#three-competing-accounts|evaluativists]] say a pain represents damage as bad for its subject, hybrid imperativists that it commands that the damage end, and Noordhof (2021) makes the aversive disposition itself representational. Asymbolia is then predicted rather than anomalous; what survives of the Map's objection is the general explanatory gap, which redness poses as much as pain.
 
 ### What Asymbolia Discriminates
 
