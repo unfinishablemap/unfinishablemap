@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-28 22:54:28+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-11 19:04:25+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[neural-correlates-of-consciousness]]'
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-28 22:54:28+00:00
-lastmod: 2026-10-28 22:54:28+00:00
+lastmod: 2026-11-11 19:04:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,7 +136,7 @@ Each of the Map's [tenets](/tenets/) bears on neurodegenerative disease, though 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Neurodegeneration may constrain where consciousness-brain interaction occurs. If the quantum interface requires specific neural structures—perhaps in posterior cortical regions or subcortical nuclei—then diseases that spare those structures would preserve conscious experience while destroying higher cognitive functions. The pattern of late-surviving phenomenal awareness might map onto the preservation of quantum-level interaction sites. Whether such quantum-level interaction is real remains an open empirical question—the [experimental landscape for testing consciousness-collapse](/topics/testing-consciousness-collapse/) is narrowing which collapse models remain viable.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Whether the severely demented patient *is* the person she was—the same indexical subject with fewer tools—has, the Map holds, a fact of the matter, but it comes from the [determinate-subject posit](/tenets/background-commitments/): rejecting many-worlds secures only indexical identity—a single bearer of *this* experience—and branch-relative accounts deliver determinate continuity facts too. That *something it is like to be her* persists is suggestive of continuity of the conscious subject through radical cognitive change, though it does not settle the identity question alone.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Whether the severely demented patient *is* the person she was—the same indexical subject with fewer tools—has, the Map holds, a fact of the matter, but it comes from the [determinate-subject posit](/tenets/background-commitments/): rejecting many-worlds secures only indexical identity—a single bearer of *this* experience—and branch-relative accounts deliver determinate continuity facts too. That *something it is like to be her* persists is suggestive of continuity of the conscious subject through radical cognitive change, though it does not settle the identity question alone. Advance directives make the question practical, though, as [the precommitment article](/topics/precommitment-and-the-diachronic-agent/#identity-authority) reports from one recent survey, the debate over their authority turns mainly on capacity and interests rather than on sameness of person.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simplest" explanation—neurons die, therefore consciousness fades proportionally—fits the evidence poorly. Emotional persistence, musical responsiveness, and terminal lucidity all complicate the proportional-reduction story. Parsimony should not override observation, but these observations rule out only the naive proportional story, not production models that locate phenomenal presence in late-affected structures.
 

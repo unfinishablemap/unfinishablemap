@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-11-10 23:07:41+00:00
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-11 19:04:25+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[self-control-as-skill-and-scaffolding]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 02:04:03+00:00
-lastmod: 2026-11-10 23:07:41+00:00
+lastmod: 2026-11-11 19:04:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,6 +122,7 @@ Three calibrations apply. First, the Zeno account is [a posit](/concepts/zeno-dy
 - [mental-effort](/concepts/mental-effort/) — felt effort as a cost signal, and depletion
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — emotion in the Map's case for dualism
 - [numbing-void](/voids/numbing-void/) — proactive down-regulation as a field instance
+- [precommitment-and-the-diachronic-agent](/topics/precommitment-and-the-diachronic-agent/) — the policy moment that removes or prices the later override
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Gross's process model types emotion regulation by when it acts. Sh
 created: 2026-10-23
 modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-11-10T23:07:41+00:00
+ai_modified: 2026-11-11T19:04:25+00:00
 draft: false
 topics:
   - "[[alief-and-acting-against-belief]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[research/emotion-regulation-and-the-timing-of-control-2026-10-23]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-10-23
 last_curated: null
 last_deep_review: 2026-10-24T02:04:03+00:00
@@ -118,6 +118,7 @@ Three calibrations apply. First, the Zeno account is [[zeno-dynamics-on-a-decohe
 - [[mental-effort]] — felt effort as a cost signal, and depletion
 - [[emotion-and-dualism]] — emotion in the Map's case for dualism
 - [[numbing-void]] — proactive down-regulation as a field instance
+- [[precommitment-and-the-diachronic-agent]] — the policy moment that removes or prices the later override
 
 ## References
 

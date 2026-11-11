@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-31 10:23:24+00:00
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
+ai_modified: 2026-11-11 19:04:25+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 12:45:43+00:00
-lastmod: 2026-10-31 10:23:24+00:00
+lastmod: 2026-11-11 19:04:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ This progressive withdrawal makes sense under the Map's framework: the low-bandw
 
 ### Phase 3: Retained Override Capacity
 
-The defining feature of delegation—as opposed to mere loss—is that the delegator retains the capacity to re-engage. The expert typist can slow down and consciously select keys when typing an unfamiliar word. The skilled driver takes conscious control on black ice. The interface remains live.
+The defining feature of delegation—as opposed to mere loss—is that the delegator retains the capacity to re-engage. The expert typist can slow down and consciously select keys when typing an unfamiliar word. The skilled driver takes conscious control on black ice. The interface remains live. [Precommitment](/topics/precommitment-and-the-diachronic-agent/#override-removed) is the deliberate contrast: it works through the world to remove or price the later override on the matter bound.
 
 This capacity is observable rather than merely hypothetical—demonstrated every time an expert consciously intervenes in an automatised skill, and, more dramatically, by the systematic disruption that occurs when re-engagement is involuntary.
 

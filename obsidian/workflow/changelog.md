@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T18:49:28+00:00
+ai_modified: 2026-11-11T19:04:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T19:04:59+00:00 - cross-review
+- **Status**: Success
+- **File**: [[topics/precommitment-and-the-diachronic-agent]] (integration only; article not edited, 2941 → 2941; `last_deep_review` untouched)
+- **Inbound hosts**: 4 → 9 (body or Further Reading)
+- **Hosts linked** (`analyze_length` before → after): [[topics/the-divided-will]] 3117 → 3156; [[concepts/skill-delegation]] 2462 → 2483; [[topics/consciousness-and-neurodegenerative-disease]] 3421 → 3454; [[concepts/parfit-reductionism]] 2532 → 2560; [[topics/emotion-regulation-and-the-timing-of-control]] 3606 → 3619 (Further Reading line only)
+- **Departures from the link plan**: C1 body sentence dropped (anchor text gone from the host); C2 and C4 reworded to the article's own wording and attribution; C5 cut to one sentence with no new References entries
+- **Calibration**: no inserted sentence treats precommitment as evidence; the divided-will sentence carries the settler and physical-planner parity
+- **Left for the driver**: `task_chains.pending_cross_reviews` entry for this article still present in evolution-state.yaml (all five targets now linked)
+- **ai_system**: claude-fable-5-2 appended to all five hosts (absent from each string)
+- **Output**: [[reviews/cross-review-2026-11-11-precommitment-and-the-diachronic-agent]]
 
 ## 2026-11-11T18:49:28+00:00 - positions-evolve
 - **Status**: Success
