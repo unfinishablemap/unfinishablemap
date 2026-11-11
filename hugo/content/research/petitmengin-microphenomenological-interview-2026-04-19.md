@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-08-07 00:52:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-11-11 13:34:16+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2
 concepts: []
 created: 2026-04-19
-date: '2026-08-07'
+date: '2026-11-11'
 draft: false
-lastmod: 2026-08-07 00:52:00+00:00
+lastmod: 2026-11-11 13:34:16+00:00
 related_articles: []
 title: Research Notes - Petitmengin's Microphenomenological Interview Method
 topics: []
@@ -92,7 +92,7 @@ Microphenomenology is a disciplined second-person interview method developed by 
   - Conducted with the Pitié-Salpêtrière epilepsy unit, in the neurophenomenological programme Varela had founded there (the 2006 paper is dedicated to his memory; he died 2001)
   - Nine patients with auras studied; six also experienced prodromes
   - Interviews revealed *prodromes* (continuous, hour-scale preictal symptoms) distinct from *auras* (sudden, intermittent)
-  - Prodromes were invisible to casual introspection; third-person measures could locate a preictal state without characterising its experiential nature
+  - Prodromes were invisible to casual introspection; third-person measures could locate a preictal state without characterising its experiential nature [Correction 2026-11-11: "invisible to casual introspection" overstates. The 2006 paper calls prodromes "less studied or acknowledged" symptoms, not unknown ones, and its patients were selected for being able to sense a high-risk state spontaneously, even without awareness of precise warning symptoms. What the interviews added was articulation and fine structure. See [deep-review-2026-11-11-microphenomenological-interview-method](/reviews/deep-review-2026-11-11-microphenomenological-interview-method/), defect 8.]
   - Counter-measures documented (neutralising/avoiding a facilitating factor, physical activity, regular breathing, focused attention, conversation) were **developed spontaneously by patients**, not taught by the interview
   - ⚠️ **No clinical follow-up and no seizure-frequency outcome is reported.** The authors state they "cannot give a precise evaluation of the success of these countermeasures," offer patient testimony about *believed* effectiveness, and endorse Spatt et al.'s warning that self-reported seizure abortion does not demonstrate efficacy (auras often stop unaided). Their verdict: prodromes "are not specific enough for clinical use," though they may refine behavioural treatment strategies. Verified at primary text 2026-08-07.
 - **Relevance**: Strongest extant demonstration that the method yields *novel* first-person data otherwise unavailable — a methodological result, not a demonstrated clinical benefit
@@ -125,7 +125,7 @@ Microphenomenology is a disciplined second-person interview method developed by 
 - **URL**: https://constructivist.info/14/2/185.dipaolo
 - **Type**: Peer-reviewed commentary
 - **Key points**:
-  - Enactivist critics: method works well for individual experiential moments but struggles with intrinsically relational experiences (interpersonal encounters)
+  - Enactivist critics: method works well for individual experiential moments but struggles with intrinsically relational experiences (interpersonal encounters) [Correction 2026-11-11: this gloss is contradicted by the commentary's own abstract, which opens "Microphenomenological methods provide important sources of experiential data for the investigation of intersubjectivity". The commentary responds to a microphenomenological study of a relational experience. Its critique is that interpretive bracketing suits the interviews but not the analysis of the gathered data, "which should rely on more explicit theoretical perspectives". The limit it names is theory-light analysis, not relational experience. Checked against the publisher abstract only (full text needs a login); see [deep-review-2026-11-11-microphenomenological-interview-method](/reviews/deep-review-2026-11-11-microphenomenological-interview-method/), defect 7. The same correction applies wherever this note repeats the relational-experience reading below.]
   - Some experiences resist elicitation because "there is just too much going on"
 
 ### Sparby, Leass, Weger & Edelhäuser (2023) — Training naive subjects in micro-phenomenological self-inquiry for headache
@@ -160,7 +160,7 @@ Microphenomenology is a disciplined second-person interview method developed by 
 
 ### Sympathetic-critical: method works but in a restricted domain
 - **Proponents**: Di Paolo & De Jaegher; enactivist community partly
-- **Core claim**: The method is genuinely informative for self-enclosed experiential episodes (sensation, attention shifts, insights in solitude) but systematically under-resolves intrinsically relational, temporally extended, and socially distributed experiences.
+- **Core claim**: The method is genuinely informative for self-enclosed experiential episodes (sensation, attention shifts, insights in solitude) but systematically under-resolves intrinsically relational, temporally extended, and socially distributed experiences. [Correction 2026-11-11: not Di Paolo & De Jaegher's claim; see the correction at their source entry above.]
 - **Key arguments**:
   - "First encounters" study: dyadic experience cannot be decomposed into two independent first-person reports without distortion
   - Method presupposes a subject-centred unit of analysis that may not fit all experiential phenomena

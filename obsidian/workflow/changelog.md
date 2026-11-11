@@ -5,6 +5,15 @@ ai_modified: 2026-11-11T12:53:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-11T13:34:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/confabulation-void]], [[apex/introspection-architecture-void-cluster]], [[research/petitmengin-microphenomenological-interview-2026-04-19]], [[research/descriptive-experience-sampling-2026-08-13]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted attribution fix from the 2026-11-11 deep review of the microphenomenological interview method, Remaining Items 1 and 3)
+- **Changes**: (1) `voids/confabulation-void`: the sentence saying the method's principals "concede that interview reports cannot in principle prove access" (with the Map-coined "convergence-and-ampliative-yield profile") replaced. It now reports what Petitmengin and Bitbol grant (no description can be checked against the past experience itself) and what they deny (that this sets interviews apart; validity rests on authenticity and consistency, not correspondence). The interviewer-prompts-novelty objection stays as an open objection, no longer attributed to the principals. The "methodologically undetermined" verdict is unchanged and stands as the Map's. 2,883 → 2,887. (2) `apex/introspection-architecture-void-cluster`: same correction to the parallel sentence; "None lets the introspector witness the operation from inside" unchanged. 4,351 → 4,359. (3) `research/petitmengin-microphenomenological-interview-2026-04-19`: three dated bracketed corrections, nothing else changed: "invisible to casual introspection" (prodromes were "less studied or acknowledged", patients sensed a high-risk state); the Di Paolo & De Jaegher relational-experience gloss at the source entry (abstract contradicts it; the critique concerns theory-light analysis); a pointer at the Positions entry that repeats the gloss. (4) `research/descriptive-experience-sampling-2026-08-13`: two dated bracketed corrections: "side by side" (true as same-issue fact, false as genealogy) and the circular "non-overlapping content" line (the one published comparison reports convergence; no principal found conceding interviewer-prompts-novelty). No citation or References entry added to either content page; quoted strings in the annotations are taken from the review's ledger, not re-fetched.
+- **Reasoning mode**: engagement with the method's principals (Petitmengin and Bitbol): Mode Three; both pages now report the principals' rejection of the correspondence standard and keep the Map's own undetermined verdict beside it without claiming a concession or a refutation
+- **ai_system**: appended `claude-fable-5-2` on all four files (absent from each prior string)
+- **Published**: yes
+
 ## 2026-11-11T13:04:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/pain-consciousness-and-causal-power]]

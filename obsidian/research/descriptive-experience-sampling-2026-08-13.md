@@ -3,7 +3,7 @@ title: "Research Notes - Descriptive Experience Sampling"
 created: 2026-08-13
 modified: 2026-08-13
 human_modified: null
-ai_modified: 2026-08-13T19:30:49+00:00
+ai_modified: 2026-11-11T13:34:16+00:00
 draft: false
 target_section: concepts
 description: "Research notes on Hurlburt's Descriptive Experience Sampling: the method, the fidelity-vs-validity distinction, the Schwitzgebel exchange, and its limits."
@@ -22,7 +22,7 @@ related_articles:
   - "[[minimal-consciousness-void]]"
   - "[[voids-between-minds]]"
 ai_contribution: 100
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-fable-5-2
 ai_generated_date: 2026-08-13
 last_curated: null
 last_deep_review: null
@@ -60,7 +60,7 @@ Headline empirical results, all already cited in live Map articles: five phenome
 ### Hurlburt & Akhter (2006), "The Descriptive Experience Sampling method"
 - **URL**: https://link.springer.com/article/10.1007/s11097-006-9024-0 (author PDF: https://hurlburt.faculty.unlv.edu/hurlburt-akhter-2006.pdf)
 - **Type**: Paper — *Phenomenology and the Cognitive Sciences*, 5(3), 271–301
-- **Key points**: The canonical method statement. Notable adjacency: it appears in the same PCS 5(3) first-person-methods special issue as Petitmengin (2006, pp. 229–269) — the two methods entered the methodological literature side by side, which the downstream article can use to frame the division of labour.
+- **Key points**: The canonical method statement. Notable adjacency: it appears in the same PCS 5(3) first-person-methods special issue as Petitmengin (2006, pp. 229–269) — the two methods entered the methodological literature side by side, which the downstream article can use to frame the division of labour. [Correction 2026-11-11: the same-issue fact holds (the issue is PCS 5(3–4)), but "entered the literature side by side" is false as genealogy: DES dates from Hurlburt's work of the 1970s–90s and the explicitation interview from Vermersch (1994). See [[deep-review-2026-11-11-microphenomenological-interview-method]], insertion 1.]
 - **Tenet alignment**: Neutral. Method paper, no metaphysics.
 
 ### Hurlburt & Schwitzgebel (2007), *Describing Inner Experience? Proponent Meets Skeptic*
@@ -162,7 +162,7 @@ Required statement of relationship with [[microphenomenological-interview-method
 | Output | Idiographic moment descriptions → frequency profiles | Generic experiential structures across interviews |
 | Unit of credibility | Fidelity built by iterative training/bracketing | Performative consistency (iteration, partition, triangulation, inter-analyst) |
 
-Shared discipline: both bracket presuppositions, use open non-leading prompts, and require trained interviewers. Shared vulnerability: both concede the interviewer-prompts-novelty worry — the procedure may generate content reported with the same felt-veridicality as genuine recovery. Mutual position: Hurlburt is a principal published critic of the micro-phenomenological approach (as the Map's MPI article already records), and the two traditions surface partially non-overlapping content with no clean adjudication of the residue. For the Map: DES grounds *frequency* premises (the language-consciousness cluster's quarter-of-moments argument); MPI grounds *structure* premises (binding, agency phenomenology). The concept page should state this division explicitly and link both ways.
+Shared discipline: both bracket presuppositions, use open non-leading prompts, and require trained interviewers. Shared vulnerability: both concede the interviewer-prompts-novelty worry — the procedure may generate content reported with the same felt-veridicality as genuine recovery. Mutual position: Hurlburt is a principal published critic of the micro-phenomenological approach (as the Map's MPI article already records), and the two traditions surface partially non-overlapping content with no clean adjudication of the residue. [Correction 2026-11-11: this line is circular and unsupported. It restated an uncited sentence in the Map's MPI article, which the 2026-11-11 deep review deleted. The one published cross-tradition comparison that review found, Petitmengin & Bitbol (2011), reports convergence between the two teams' descriptions. The same review found no principal conceding the interviewer-prompts-novelty worry named in the previous sentence. See [[deep-review-2026-11-11-microphenomenological-interview-method]], defect 6.] For the Map: DES grounds *frequency* premises (the language-consciousness cluster's quarter-of-moments argument); MPI grounds *structure* premises (binding, agency phenomenology). The concept page should state this division explicitly and link both ways.
 
 ## The Limitation Register (what DES can and cannot establish)
 

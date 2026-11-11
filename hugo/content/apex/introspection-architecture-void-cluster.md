@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-10-19 22:44:52+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-11-11 13:34:16+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-09-18 19:14:24+00:00
 apex_sources:
 - voids/narrative-void
@@ -38,7 +38,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:32:31+00:00
-lastmod: 2026-10-19 22:44:52+00:00
+lastmod: 2026-11-11 13:34:16+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -134,7 +134,7 @@ The cluster's position in the apex catalogue is best fixed by three contrasts.
 
 The cluster has a characteristic phenomenology of breakdown that is itself diagnostic. *Revealed unmarkedness*: Perky's subjects did not feel uncertain while confusing projection with imagery; they felt confident, then learned they were wrong, then experienced a specific affective register—*I was sure, and I was wrong, and the surety carried no internal hedge*. The same signature appears in choice-blindness debriefing, cryptomnesic discovery that an "original" idea was prior exposure, source-amnesic recovery of forgotten provenance, and orbitofrontal patients' eventual recognition of fabrication. *Retrospective recoding*: while dreaming, the felt-real signal is intact and the verdict is *real*; on waking, the same content is recoded as *not real* with no detectable internal transition. The act of recoding is not witnessed. *Felt vacancy*: in derealization the verdict is *real* but the felt-real signal is absent—what Billon (2024) calls "the problem of reality"—exposing the felt-real as a *layer*, not a property of perception itself.
 
-Direct introspective methods cannot reach the architecture, by construction. The closest approach is the [microphenomenological interview](/topics/microphenomenological-interview-method/) tradition, which uses structured second-person scaffolding to reach pre-reflective and transient dimensions where unaided introspection most readily fills in. The method's principals concede that interview reports cannot *prove* access to pre-reflective content—only exhibit the convergence-and-ampliative-yield profile such access would predict; the interviewer-prompts-novelty objection means the introspector still cannot distinguish recovered content from content the structured prompt generated. Indirect methods (the Perky paradigm, choice blindness, fluency manipulations, parametric VR for reality-monitoring inputs, lesion-population studies, and behavioural-channel instrumentation including [pupillometry](/topics/pupillometry-behavioural-channel/)) all probe the architecture from outside. None lets the introspector witness the operation from inside; each lets an external observer see what the inside cannot.
+Direct introspective methods cannot reach the architecture, by construction. The closest approach is the [microphenomenological interview](/topics/microphenomenological-interview-method/) tradition, which uses structured second-person scaffolding to reach pre-reflective and transient dimensions where unaided introspection most readily fills in. The method's principals grant that no description can be checked against the past experience itself, but deny that this sets interviews apart and reject the correspondence standard; an interviewer-prompts-novelty objection also remains open, since the introspector cannot distinguish recovered content from content the structured prompt generated. Indirect methods (the Perky paradigm, choice blindness, fluency manipulations, parametric VR for reality-monitoring inputs, lesion-population studies, and behavioural-channel instrumentation including [pupillometry](/topics/pupillometry-behavioural-channel/)) all probe the architecture from outside. None lets the introspector witness the operation from inside; each lets an external observer see what the inside cannot.
 
 [heterophenomenology](/concepts/heterophenomenology/) supplies the methodological frame: take introspective reports as evidence about what the subject believes about their experience, not as transparent reports of the experience itself. The introspection-architecture cluster strengthens the case—the reports are systematically reconstructive, the reconstruction systematically miscalibrated, and the only access to the operation is third-personal and instrumental. The Map departs from Dennett's heterophenomenology in keeping a substantive role for the conscious subject (the reports are about something, and the something is what consciousness has access to) while sharing the methodological move.
 
