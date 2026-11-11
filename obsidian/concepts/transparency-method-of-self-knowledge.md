@@ -2,9 +2,9 @@
 title: "The Transparency Method of Self-Knowledge"
 description: "Evans's outward-looking route to knowing one's own beliefs, its successors from Moran to Byrne, and where the Map holds the method stops: at phenomenal character, against Byrne's own extension."
 created: 2026-10-25
-modified: 2026-10-25
+modified: 2026-11-11
 human_modified:
-ai_modified: 2026-10-26T18:30:38+00:00
+ai_modified: 2026-11-11T16:18:42+00:00
 last_deep_review: 2026-10-26T18:30:38+00:00
 draft: false
 topics:
@@ -22,7 +22,7 @@ related_articles:
   - "[[contemplative-epistemology]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-10-25
 last_curated:
 ---
@@ -94,7 +94,7 @@ Others stop earlier. Fernández confines the bypass model to beliefs and desires
 
 Two consequences follow. First, self-knowledge of attitudes carries no evidential weight for dualism: our authority about what we believe has a physicalist-compatible explanation, so the Map's case cannot rest on it. Second, the phenomenal case stays where the [[phenomenal-authority-and-first-person-evidence#three-layers-of-phenomenal-authority|layered account of phenomenal authority]] puts it, with weak Revelation only: experience presents the existence and some of the character of a quality, not its full essence ([[revelation-thesis]]).
 
-Nor does the method rule out what [[contemplative-epistemology|contemplatives]] report, attending to awareness itself, since Byrne leaves open an inward procedure that is merely "not necessary". Such reports bear on the Moore–Harman–Tye negative thesis instead.
+Nor does the method rule out what [[contemplative-epistemology|contemplatives]] report, attending to awareness itself, since the outward route is separable from the denial of an inward one (Schwitzgebel 2024, §2.3.4), though Byrne's own account uses no inward procedure. Such reports bear on the Moore–Harman–Tye negative thesis instead.
 
 ## Relation to Site Perspective
 

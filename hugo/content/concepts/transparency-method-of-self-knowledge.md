@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-25
-ai_modified: 2026-10-26 18:30:38+00:00
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-11 16:18:42+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[self-blindness]]'
@@ -13,7 +13,7 @@ concepts:
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[alexithymia]]'
 created: 2026-10-25
-date: &id001 2026-10-25
+date: &id001 2026-11-11
 description: 'Evans''s outward-looking route to knowing one''s own beliefs, its successors
   from Moran to Byrne, and where the Map holds the method stops: at phenomenal character,
   against Byrne''s own extension.'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-26 18:30:38+00:00
-lastmod: 2026-10-26 18:30:38+00:00
+lastmod: 2026-11-11 16:18:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ Others stop earlier. Fernández confines the bypass model to beliefs and desires
 
 Two consequences follow. First, self-knowledge of attitudes carries no evidential weight for dualism: our authority about what we believe has a physicalist-compatible explanation, so the Map's case cannot rest on it. Second, the phenomenal case stays where the [layered account of phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/#three-layers-of-phenomenal-authority) puts it, with weak Revelation only: experience presents the existence and some of the character of a quality, not its full essence ([revelation-thesis](/concepts/revelation-thesis/)).
 
-Nor does the method rule out what [contemplatives](/concepts/contemplative-epistemology/) report, attending to awareness itself, since Byrne leaves open an inward procedure that is merely "not necessary". Such reports bear on the Moore–Harman–Tye negative thesis instead.
+Nor does the method rule out what [contemplatives](/concepts/contemplative-epistemology/) report, attending to awareness itself, since the outward route is separable from the denial of an inward one (Schwitzgebel 2024, §2.3.4), though Byrne's own account uses no inward procedure. Such reports bear on the Moore–Harman–Tye negative thesis instead.
 
 ## Relation to Site Perspective
 

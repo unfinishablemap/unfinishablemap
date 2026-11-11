@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T16:06:48+00:00
+ai_modified: 2026-11-11T16:18:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T16:18:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/transparency-method-of-self-knowledge]]
+- **Original score**: n/a (`scripts/curate.py` is absent; one-sentence targeted fix, no general review run)
+- **Changes**: One clause replaced in the contemplatives sentence. The old clause, "since Byrne leaves open an inward procedure that is merely "not necessary"", turned what Byrne (2011, §2) reports Moore's remarks as suggesting into Byrne's own allowance and enlisted it for contemplative reports; Byrne's own sentence denies turning attention inward. The new clause rests the point on the separability of the positive and negative theses (Schwitzgebel 2024, §2.3.4) and states that Byrne's own account uses no inward procedure. The earlier sentence on Byrne's reading of Moore and the following sentence ("Such reports bear on the Moore–Harman–Tye negative thesis instead.") are unchanged; "Such reports" still resolves to what contemplatives report.
+- **Source check**: SEP "Introspection" fetched raw; the sentence "The positive and negative theses are separable: A pluralist might accept the positive thesis without the negative one" is present verbatim, once, inside §2.3.4. The article paraphrases and adds no quotation. No new reference (Schwitzgebel 2024 is entry 21).
+- **Word count**: 2701 → 2713 (+12; `analyze_length`, concepts soft 2500 / hard 3500; budget +15)
+- **Reasoning modes**: no named-opponent reply touched
+- **ai_system**: claude-fable-5-2 (appended; absent from the prior string)
+- **Source**: [[reviews/pessimistic-2026-11-11-transparency-method-of-self-knowledge]]
+- **Published**: yes
 
 ## 2026-11-11T16:06:48+00:00 - deep-review
 - **Status**: Success
