@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-09-10 03:22:27+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-11 21:49:36+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
 author: null
 concepts:
 - '[[types-of-consciousness]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-07 20:22:37+00:00
-lastmod: 2026-09-10 03:22:27+00:00
+lastmod: 2026-11-11 21:49:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,7 +126,7 @@ The Map holds that it yields genuine insight—not because the specific predicti
 
 The Map's own preferred mechanism complicates this, and the complication runs against the Map's interest. [Post-decoherence selection](/apex/post-decoherence-selection-programme/) is timing-agnostic by design: it makes no claim about when in neural processing the interaction occurs, which is exactly what lets it sidestep the decoherence-timescale objection that presses on Orch OR and the Zeno model. A mechanism that specifies no timing predicts no temporal signature. The mechanisms with the most vivid phenomenal profiles are therefore the ones the Map holds least firmly, and the one it holds most firmly yields a profile only once further structure is supplied—which transitions count as interface-grade, and at what grain. That structure is the interface-eligibility law the register still records as owed.
 
-The philosophical value lies in showing that mechanism is not interchangeable. Functionalism treats the mechanism as irrelevant—any system with the right computational structure is conscious regardless. Biological naturalism treats the substrate as decisive—only biological matter supports consciousness regardless of mechanism, a live position in the current debate (Block 2025). The Map's position occupies distinct ground: mechanism matters for the *type* of consciousness, not just for whether consciousness is present. The commitment stands even though the mechanism-to-experience mappings remain speculative and untestable: the coupling mechanism is unconfirmed even in biological systems, let alone comparable across mechanisms or extrapolable to artificial ones.
+The philosophical value lies in showing that mechanism is not interchangeable. Functionalism treats the mechanism as irrelevant—any system with the right computational structure is conscious regardless. Biological naturalism treats the substrate as decisive—only biological matter supports consciousness. Block (2026) presses a nearby alternative: subcomputational biological "realizing mechanisms, not just material composition" may be necessary for consciousness. The Map's position occupies distinct ground: mechanism matters for the *type* of consciousness, not just for whether consciousness is present. The commitment stands even though the mechanism-to-experience mappings remain speculative and untestable: the coupling mechanism is unconfirmed even in biological systems, let alone comparable across mechanisms or extrapolable to artificial ones.
 
 ## Relation to Site Perspective
 
@@ -161,7 +161,7 @@ The structural dimensions approach connects to each of the Map's tenets.
 
 1. Birch, J. (2026). AI Consciousness: A Centrist Manifesto. PhilPapers/PhilArchive.
 1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
-1. Block, N. (2025). Can Only Meat Machines Be Conscious? *Trends in Cognitive Sciences*.
+1. Block, N. (2026). Can Only Meat Machines Be Conscious? *Trends in Cognitive Sciences*, 30(4), 298-308. https://doi.org/10.1016/j.tics.2025.08.009 (online 2025)
 1. Chalmers, D. & McQueen, K. (2021). Consciousness and the Collapse of the Wave Function. arXiv:2105.02314.
 1. Metzinger, T. (2021). Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
 1. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.

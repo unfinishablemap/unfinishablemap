@@ -5,6 +5,20 @@ ai_modified: 2026-11-11T20:49:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-11T21:49:36+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/structural-varieties-of-consciousness-and-ai-phenomenology]], [[concepts/ai-epiphenomenalism]]
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted two-file citation-fidelity fix)
+- **Source**: side-findings 2 and 3 of [[research/blocks-harder-problem-2026-10-24]].
+- **Metadata (Crossref, DOI 10.1016/j.tics.2025.08.009, whole record read)**: title, author Ned Block, *Trends in Cognitive Sciences*, volume 30, issue 4, pages 298-308, `published-print`/`issued` 2026-04; `published-online` is null in Crossref. The 2025-10-07 online date comes from Europe PMC (PMID 41062360), not Crossref. Citation year set to 2026 on both files, with "(online 2025)" per the existing corpus convention.
+- **Full text obtained**: Block's own copy of the published TiCS article, linked from nedblock.us/publications (11 pp.; text layer extracted, de-hyphenated, whitespace collapsed, then grepped). Unpaywall's PhilPapers copy returned 403.
+- **structural-varieties (topics)**: the page said biological naturalism holds "only biological matter supports consciousness regardless of mechanism ... (Block 2025)". Block's text reads "When I speak of a realizer, I am talking about realizing mechanisms, not just material composition, not just realizing stuff" (1 hit), so the gloss inverted him; "biological naturalism" has 0 hits in his text. Recast: biological naturalism stated without a citation (Searle is not in this page's References) and with "regardless of mechanism" removed; Block (2026) cited separately for his own hedged claim, quoting "realizing mechanisms, not just material composition" verbatim. References entry completed (30(4), 298-308, DOI). analyze_length 2,999 -> 3,010 (+11, of which the reference apparatus is about +5).
+- **ai-epiphenomenalism (concepts)**: "biologically grounded consciousness" is verbatim in Block (1 hit) but belongs to a different claim ("it is biologically grounded consciousness that is in part responsible for the information processing roles", said from the point of view of the meat hypothesis). De-quoted; the sentence now reports what Block does argue (subcomputational biological mechanisms may be necessary for consciousness), marked as a physicalist angle. Year and References entry fixed. Guards held: no concession of epiphenomenalism about consciousness in general, Tenet 3 quantifier untouched, Block not enlisted for dualism. analyze_length 2,987 -> 2,992 (+5).
+- **Orphan check (surname, year), both directions**: structural-varieties body Block 1995, Block 2026 = References Block 1995, 2026; ai-epiphenomenalism body Block (2002), Block (2026) = References 2002, 2026. No "Block (2025)"/"Block 2025" remains in either file.
+- **Engagement with Block**: boundary-marking only (he is reported, not rebutted); no mode labels in article prose.
+- **Not edited, same stale year (leads)**: `archive/topics/epiphenomenal-ai-consciousness` (body + reference "Block (2025)", no volume/pages); `research/epiphenomenal-ai-consciousness-2026-02-10` and `research/types-of-consciousness-ai-experience-2026-03-07` (dated research notes; both list Block as a proponent of biological naturalism beside Searle, a label his paper does not use).
+- **Published**: yes
+
 ## 2026-11-11T21:35:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/quantum-claim-and-quotation-disciplines]]
