@@ -5271,6 +5271,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-11
 - **Notes**: The 2026-11-11 deep review narrowed "Bowden et al. (2005) identified several experiential markers" (suddenness, certainty, positive affect, altered agency) to suddenness and immediate confidence, on an UNCONFIRMED lead, because the *TiCS* 9(7) 322–328 full text is paywalled and only the abstract was read. Fetch the full text (DOI 10.1016/j.tics.2005.05.012; try an author-hosted copy) and grep it for affect and agency. If all four are there, restore the fuller attribution; if not, apply the same narrowing to `archive/concepts/phenomenology-of-creative-insight.md` L101, which still credits all four to Bowden et al. and was left untouched. Secondary check while there: Hausman, *A Discourse on Novelty and Creation* is cited as SUNY Press 1984 across the corpus, and the SUNY catalogue lists a June 1985 release; confirm from the copyright page before changing anything. See [[deep-review-2026-11-11-creative-consciousness]].
 
+### P3: `archive/voids/complicity-void` L152 still carries the "Dualism gains support" argument that its live successor `voids/self-maintained-cognitive-limits` withdrew on 2026-11-11
+- **Type**: refine-draft
+- **File**: archive/voids/complicity-void.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-11 of `voids/self-maintained-cognitive-limits` (corpus grep, list-only); driver-minted 14:10Z
+- **Generated**: 2026-11-11
+- **Notes**: The archived page is still served at its old URL. Its Dualism paragraph (locate by the string "gains support from the observation that complicity implies a richer inner life", confirm count == 1) argues that if consciousness is merely what brains do, consciousness having interests in its own ignorance is incoherent. On physicalism the organism is the agent with the stakes, so the conditional fails (tenet-check 2026-10-20 Warning 13). Match the successor's calibrated wording, landed in commit e816e741: "frames the case naturally but gains no support from it: a physicalist agent has stakes in its own ignorance too. The agent self-maintenance requires is a conscious subject on dualism, the organism on physicalism." Edit that paragraph only; archive pages take minimal fixes. Net <= 0 words. Do not touch the archive notice or frontmatter other than ai_modified (from `date -u`) and ai_system (append your own model id only if ABSENT anywhere in the string). Changelog entry before sync; `uv run python scripts/sync.py`; verify the copy under `hugo/content/archive/voids/`. UNCONFIRMED LEAD, report only: `voids/emergence-void` has a paragraph opening "Dualism gains support, but only through a difference in kind"; it is conditional and qualified, and no earlier review was confirmed to flag it. Read it and say in the changelog whether it needs its own task; do not edit it here. No "This is not X. It is Y."; no "load-bearing".
+
 ## Completed Tasks
 
 
