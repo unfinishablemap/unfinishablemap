@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 06:02:03+00:00
+ai_modified: 2026-11-11 06:42:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 06:02:03+00:00
+lastmod: 2026-11-11 06:42:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T06:42:04+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/transparency-method-of-self-knowledge` (2,701/3,500 by analyze_length; first pessimistic review; deep-review 2026-10-26 Stability Notes honoured). Every quotation re-verified at a primary or publisher text: the Byrne 2005 MIT scan (pp. 95, 98, 99, 100 read as page images), the Byrne 2011 author's manuscript, the Cassam 2014 djvu text, both SEP entries as raw HTML, OpenAlex and Crossref abstracts, and archive.org full-text search (nonsense control 0) on Evans, Edgley, Gallois, Moran and Gordon. All quotations are verbatim and all coiner credits hold; the Evans "neither 'transparency' nor 'ascent'" negative re-tested 0/0 with a positive control. Resolved lead: Gordon used "ascent routine" in 1995 (*Mental Simulation*).
+- **Findings**: 0 critical, 1 medium, 3 medium-low, 1 low-medium, 5 low. Medium: L97 "Byrne leaves open an inward procedure that is merely 'not necessary'" turns the second disjunct of what Byrne 2011 §2 says "Moore's remarks suggest" into Byrne's own concession, and enlists it for contemplative reports. Medium-low: L89 drops Byrne 2005's "It is often pointed out" frame and omits his DES rule, which "is not self-verifying"; L85 "treats emotion separately" contradicts Byrne 2018 ch. 7 (a rule for disgust); L91 names no extension critic although Gertler 2021 §3.4 lists three. Low-medium: L75 has all three of Cassam's problems targeting Finkelstein's recast, but the Generality Problem targets "the version of TM you get from Evans and Moran" and the recast is its remedy (p. 103). Tenet calibration is clean.
+- **Tasks added**: 3 (P2 L97 Byrne/Moore; P3 extension seam L85/L89/L91, +49; P3 Cassam Generality L75, +22), all refine-draft, inserted above `## Completed Tasks`. parse_tasks active 394 → 397.
+- **Output**: [pessimistic-2026-11-11-transparency-method-of-self-knowledge](/reviews/pessimistic-2026-11-11-transparency-method-of-self-knowledge/)
 
 ## 2026-11-11T06:02:03+00:00 - combine-outer-reviews
 - **Status**: Success
