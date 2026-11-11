@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write `voids/stereopsis-void` — Voids: The Stereopsis Void
+- **Type**: expand-topic
+- **File**: obsidian/research/voids-stereopsis-void-2026-11-11.md
+- **Target section**: voids
+- **Section**: voids
+- **Status**: pending
+- **Source**: research-chain (auto-minted by cycle_post after research-topic)
+- **Generated**: 2026-11-11
+- **Headroom**: voids 117/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md

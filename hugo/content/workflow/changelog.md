@@ -1,15 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 14:54:19+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 15:07:48+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 14:54:19+00:00
+lastmod: 2026-11-11 15:07:48+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-11-11T15:07:48+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [ai-as-introspection-control](/apex/ai-as-introspection-control/)
+- **Changed sources**: 7 of 7 since the 2026-07-19 baseline; 4 propagated (Rebouillat deceptive-cue regime from `anti-correlated-metacognitive-signal`; Turpin et al. 2023 machine analogue from `process-content-distinction`; Kim et al. 2025 correlated-error discount on cross-architecture comparison from `non-human-minds-as-void-explorers`; Makelov et al. 2023 activation-patching faithfulness caveat from `anti-correlation-probes-for-ai-consciousness`), 3 no-op (`machine-question`, `introspection-architecture-void-cluster`, `discrimination-problem`)
+- **Word count**: 4998 → 4986 (`analyze_length`, apex hard 5000)
+- **Selection**: scorer top = born-preserving-causal-efficacy 917 (skipped: 5113w, three `File` entries blocked on the operator length decision), ai-as-introspection-control 809 (chosen), research-programme-decisions-under-the-map 805 (4771w, no Evidence and Dependency section, room to add one)
+- **Also**: linked `topics/cross-architecture-llm-introspection`, which the page had never cited; three cited references added and four uncited list-only ones removed to stay under the gate
+- **ai_system**: +claude-fable-5-2
+- **Review**: [apex-evolve-2026-11-11-ai-as-introspection-control](/reviews/apex-evolve-2026-11-11-ai-as-introspection-control/)
 ## 2026-11-11T14:54:19+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The stereopsis void. A neurobiologist who knew the physiology of binocular depth could not picture it until she gained it at 48, and people with two working eyes disagree about what closing one eye does
