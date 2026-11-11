@@ -4,7 +4,7 @@ description: "Chalmers's three physicalist replies to the explanatory gap, route
 created: 2026-10-02
 modified: 2026-10-09
 human_modified:
-ai_modified: 2026-10-21T12:50:21+00:00
+ai_modified: 2026-11-11T22:19:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[type-a-type-b-and-type-c-physicalism-2026-10-02]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-10-02
 last_curated:
 last_deep_review: 2026-10-02T12:15:57+00:00
@@ -142,6 +142,7 @@ The ladder is the one in [[inference-to-the-best-explanation-against-dualism]]: 
 - [[russellian-monism]] — type-F, the two-dimensional argument's exit
 - [[ignorance-hypothesis]] — Stoljar's type-C view and what the Map grants it
 - [[concepts/materialism]] — materialism's varieties and responses
+- [[blocks-harder-problem]] — the epistemic predicament Block, whom Chalmers classes type-B, finds for a phenomenal-realist physicalist facing a physically different isomorph
 
 ## References
 

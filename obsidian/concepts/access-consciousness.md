@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-11-10T03:20:56+00:00
+ai_modified: 2026-11-11T22:19:41+00:00
 draft: false
 last_deep_review: 2026-07-25T11:05:44+00:00
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[conservation-laws-and-mental-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-22
 last_curated: null
 ---
@@ -144,6 +144,7 @@ This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physical
 - [[working-memory|Working memory]]—the capacity limit on what can be A-conscious simultaneously
 - [[degrees-of-consciousness]]—how consciousness varies along multiple dimensions, with access as one separable axis
 - [[metacognition]]—awareness of one's own cognitive states, requiring A-consciousness
+- [[blocks-harder-problem|Block's harder problem]]—why access-level likeness leaves a physically different system's phenomenal status without a ground
 
 ## References
 

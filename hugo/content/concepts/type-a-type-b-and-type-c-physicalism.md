@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-02
-ai_modified: 2026-10-21 12:50:21+00:00
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-11 22:19:41+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[concepts/materialism]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 12:15:57+00:00
-lastmod: 2026-10-21 12:50:21+00:00
+lastmod: 2026-11-11 22:19:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,6 +146,7 @@ The ladder is the one in [inference-to-the-best-explanation-against-dualism](/co
 - [russellian-monism](/concepts/russellian-monism/) — type-F, the two-dimensional argument's exit
 - [ignorance-hypothesis](/concepts/ignorance-hypothesis/) — Stoljar's type-C view and what the Map grants it
 - [materialism](/concepts/materialism/) — materialism's varieties and responses
+- [blocks-harder-problem](/topics/blocks-harder-problem/) — the epistemic predicament Block, whom Chalmers classes type-B, finds for a phenomenal-realist physicalist facing a physically different isomorph
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Ned Block's harder problem: a physicalist who takes consciousness 
 created: 2026-10-24
 modified: 2026-10-24
 human_modified:
-ai_modified: 2026-10-24T13:45:43+00:00
+ai_modified: 2026-11-11T22:19:41+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[apex/open-question-ai-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-10-24
 last_curated:
 last_deep_review: 2026-10-24T13:45:43+00:00
@@ -126,7 +126,7 @@ Simple animals share the kind of biological substrate the Map's interface candid
 
 **[[tenets#^dualism|Dualism]].** The harder problem fits the tenet without evidencing it. Block thinks "the standard arguments against physicalism do not work" (p. 420) and declines to choose a way out (p. 425), so nothing here enlists him for dualism. Data's conceivable blankness argues for dualism only through the contested modal-rationalist premise that conceivability guides possibility ([[conceivability-possibility-inference]]).
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** The tenet enters only where the predicament relocates: which indeterminacy is interface-relevant. Its minimality is an empirical constraint, so it cannot settle that question by counting how little the interface needs.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** The tenet enters only where the predicament relocates: [[dynamical-relevance-and-the-verification-boundary|which indeterminacy is interface-relevant]]. Its minimality is an empirical constraint, so it cannot settle that question by counting how little the interface needs.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** As [[#tenet-3|Behaviour, Causes and Tenet 3]] argues, the tenet licenses no inference from behaviour to consciousness across realizers and concedes nothing to epiphenomenalism about our own experience. Its quantifier remains unresolved.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-24
-ai_modified: 2026-10-24 13:45:43+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-11-11 22:19:41+00:00
+ai_system: claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[problem-of-other-minds]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 13:45:43+00:00
-lastmod: 2026-10-24 13:45:43+00:00
+lastmod: 2026-11-11 22:19:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ Simple animals share the kind of biological substrate the Map's interface candid
 
 **[Dualism](/tenets/#dualism).** The harder problem fits the tenet without evidencing it. Block thinks "the standard arguments against physicalism do not work" (p. 420) and declines to choose a way out (p. 425), so nothing here enlists him for dualism. Data's conceivable blankness argues for dualism only through the contested modal-rationalist premise that conceivability guides possibility ([conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)).
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** The tenet enters only where the predicament relocates: which indeterminacy is interface-relevant. Its minimality is an empirical constraint, so it cannot settle that question by counting how little the interface needs.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** The tenet enters only where the predicament relocates: [which indeterminacy is interface-relevant](/topics/dynamical-relevance-and-the-verification-boundary/). Its minimality is an empirical constraint, so it cannot settle that question by counting how little the interface needs.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** As [Behaviour, Causes and Tenet 3](#tenet-3) argues, the tenet licenses no inference from behaviour to consciousness across realizers and concedes nothing to epiphenomenalism about our own experience. Its quantifier remains unresolved.
 

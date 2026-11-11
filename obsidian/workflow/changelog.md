@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T20:49:45+00:00
+ai_modified: 2026-11-11T22:20:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T22:20:18+00:00 - cross-review
+- **Status**: Success
+- **File**: [[topics/blocks-harder-problem]]
+- **Scope**: integration only; no deep pass, `last_deep_review` unchanged
+- **Hosts edited**: [[topics/ai-consciousness]] (3997 → 3997; "dualism intensifies" scoped "against functionalism", "any" → "direct" physical evidence, "distinguished" → "weighed"), [[concepts/ai-consciousness-typology]] (3491 → 3491; "be informative" → "supply reasons"), [[topics/dynamical-relevance-and-the-verification-boundary]] (3109 → 3148; first link to the article, one sentence), [[concepts/type-a-type-b-and-type-c-physicalism]] (2913 → 2934; Further Reading), [[concepts/access-consciousness]] (2561 → 2577; Further Reading), [[topics/blocks-harder-problem]] (2756 → 2756; zero-word link back)
+- **Hosts skipped**: problem-of-other-minds and consciousness-and-social-understanding (link-plan declines honoured: their sentences concern a shared realization); apex/machine-question (941 over hard; unscoped L181 quoted in the review for a separate task)
+- **Audit**: Block 2002 / Searle framing clean on all nine citing pages; no biographical present tense for Searle
+- **Output**: [[reviews/cross-review-2026-11-11-blocks-harder-problem]]
 
 ## 2026-11-11T22:05:01+00:00 - deep-review
 - **Status**: Success
