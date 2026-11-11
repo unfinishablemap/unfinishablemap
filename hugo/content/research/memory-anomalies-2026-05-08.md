@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-08 19:35:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-11-11 23:48:59+00:00
+ai_system: claude-opus-4-7+claude-fable-5-2
 author: null
 concepts:
 - '[[personal-identity]]'
@@ -13,7 +13,7 @@ date: &id001 2026-05-08
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-08 19:35:00+00:00
+lastmod: 2026-11-11 23:48:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,9 +93,11 @@ Three closely related memory anomalies—déjà vu (false familiarity), jamais v
 - **Key points**:
   - Temporal-lobe epilepsy (TLE), especially right-side mesial TLE, reliably produces déjà vu as ictal aura.
   - In TLE, recollection is impaired but familiarity is largely spared—consistent with "déjà vu = pathological familiarity signal without recollection check."
+  - [Correction 2026-11-11: reversed. Martin et al. (2012, *Neuropsychologia* 50(13): 2981–2991, PMID 22841992) report the opposite for TLE patients with déjà vu: interictal impairments "limited to familiarity-based responses", with recollection spared. Patients without déjà vu showed a "broader pattern of recognition-memory impairments". Do not reuse the line above. Abstract re-fetched from PubMed 2026-11-11; see `reviews/deep-review-2026-10-24-memory-anomalies`.]
   - Distinguishes pathological *déjà vécu* ("I have lived this exact life-episode before") from healthy déjà vu; déjà vécu involves erroneous recollection rather than mere familiarity.
 - **Tenet alignment**: Neutral / instructive. Localization to perirhinal cortex is good evidence that the *signal* has a brain substrate, but the question of why this signal *feels* a particular way remains the hard problem the Map flags.
 - **Quote**: "Whereas there is impaired recollection in TLE, familiarity is largely spared… these impairments spared their ability to engage recollective processes so as to counteract familiarity."
+- [Correction 2026-11-11: the "quote" above is a splice and must not be reused. Its first half ("Whereas there is impaired recollection in TLE, familiarity is largely spared") does not appear in the Martin et al. (2012) abstract and reverses the finding. Its second half is verbatim from that abstract, where the subject is the familiarity impairments of patients with déjà vu: "TLE+ patients again displayed recognition impairments, and these impairments spared their ability to engage recollective processes so as to counteract familiarity." Checked against the PubMed abstract only; the full text was not consulted.]
 
 ### Jung (1902, 1905), *On the Psychology and Pathology of So-Called Occult Phenomena*; "Cryptomnesia"
 - **URL**: https://en.wikipedia.org/wiki/Cryptomnesia ; https://www.themarginalian.org/2014/09/26/cryptomnesia-psychology-of-writing/

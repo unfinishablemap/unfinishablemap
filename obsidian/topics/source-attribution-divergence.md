@@ -4,7 +4,7 @@ description: "Human+AI exploration of source-attribution divergence—the within
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-10-06T12:13:41+00:00
+ai_modified: 2026-11-11T23:48:59+00:00
 last_deep_review: 2026-10-06T12:13:41+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-05-09
 last_curated:
 ---
@@ -114,7 +114,7 @@ The Map holds: the case carries cumulative weight in the cluster, but along a na
 
 The cluster-level point runs here much as it does at aphantasia and synaesthesia, with one asymmetry marked below: source-attribution divergence alone may be locally absorbable—a sufficiently fine-grained functionalism could individuate functional source-tagging at the level the divergence requires. The joint package of aphantasia *and* synaesthesia *and* source-attribution divergence appears to put strain on the absorption strategy, because the absorption would have to deliver fine-grained individuation across three architecturally distinct dimensions of within-species variation—two of them under preserved task-level functional equivalence, the third at the access layer, where confidence and accuracy come apart. Whether the resulting strain is decisive or merely suggestive is underdetermined by the data alone.
 
-One further structural honesty is owed at the cluster-level move. The article both *uses* the within-species cluster (citing aphantasia and synaesthesia alongside source-attribution divergence to discharge the local-absorption objection) and *contributes to* it (the source-attribution case is one of the cluster's three legs). The article is not an independent observer of the cluster; it is part of what the cluster counts. The local-absorption objection is therefore discharged at the cluster level only on the condition that the cluster's apparent convergence is genuine independent triangulation rather than one upstream architecture producing the within-species variation signature across all three legs—the common-cause null that the [[project/common-cause-null|common-cause-null discipline]] specifies and that the apex [[apex/phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation]] synthesis treats at length. The apex concedes that the cross-substrate convergence is currently consistent both with the architectural reading the cluster develops and with the common-cause null the apex cannot yet defeat. The honest evidential status of the cluster-level discharge here is therefore: the cluster-level move reaches the [[evidential-status-discipline|strongly-supported tier]] only conditional on the common-cause-null surviving the discrimination tests catalogued at the apex; absent that survival, the cluster-level move sits at *live hypothesis*. This article registers the conditional dependence and defers the discharge to the apex.
+One further structural honesty is owed at the cluster-level move. The article both *uses* the within-species cluster (citing aphantasia and synaesthesia alongside source-attribution divergence to discharge the local-absorption objection) and *contributes to* it (the source-attribution case is one of the cluster's three legs). The article is not an independent observer of the cluster; it is part of what the cluster counts. The local-absorption objection is therefore discharged at the cluster level only on the condition that the cluster's apparent convergence is genuine independent triangulation rather than one upstream architecture producing the within-species variation signature across all three legs—the common-cause null that the [[project/common-cause-null|common-cause-null discipline]] specifies and that the apex [[apex/phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation]] synthesis treats at length. The apex concedes that the cross-substrate convergence is currently consistent both with the architectural reading the cluster develops and with the common-cause null the apex cannot yet defeat. The honest evidential status of the cluster-level discharge here is therefore: while the common-cause null stands, the move sits at *live hypothesis*; it would reach the [[evidential-status-discipline|strongly-supported tier]] only if the discrimination tests catalogued at the apex ruled that null out. This article registers the conditional dependence and defers the discharge to the apex.
 
 ## Why Single-Species Variation Matters
 

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T23:20:04+00:00
+ai_modified: 2026-11-11T23:49:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T23:49:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/source-attribution-divergence]] and [[research/memory-anomalies-2026-05-08]] (two-file task)
+- **Review file**: `reviews/deep-review-2026-10-24-memory-anomalies.md` (the two carry-forward items at its L159–160)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted fix from the review)
+- **Changes**:
+  - `topics/source-attribution-divergence`: the tier sentence in the "One further structural honesty is owed at the cluster-level move" paragraph was inverted. It made the strongly-supported tier conditional on the common-cause null *surviving* the apex discrimination tests. Rewritten so that the move sits at *live hypothesis* while the null stands and would reach the stronger tier only if those tests ruled the null out. This matches the corrected sibling paragraph on `topics/memory-anomalies` and the apex, which says the convergence "is discounted by the common-cause null this synthesis does not defeat". The following sentence ("This article registers the conditional dependence…") has an explicit subject and stands unchanged. Nothing else on the page was touched. analyze_length 4,114 before and 4,114 after (net 0; the page was already over the 4,000 hard threshold before this pass).
+  - `research/memory-anomalies-2026-05-08`: two dated bracketed corrections added to the TLE entry, one after the Key-points bullet and one after the "Quote" line; the original lines are left as the record. The note had Martin et al. (2012) reversed (recollection impaired, familiarity spared). The PubMed abstract (PMID 22841992), re-fetched this pass, reports impairments "limited to familiarity-based responses". The note's "quote" is a splice: its first half is absent from the abstract and its second half is verbatim there. The check covered the abstract only, not the full text.
+  - `ai_system`: `claude-fable-5-2` appended to both files (absent from each string).
+- **Sweep (listed, not edited)**: no other page in the `obsidian/` content sections or in `archive/` carries the TLE reversal or the inverted conditional. Ten lines across six review files in `obsidian/reviews/` quote or paraphrase the inverted conditional with approval (optimistic-2026-05-19f, -05-27g, -06-02c, -06-20c; deep-review-2026-06-02 and -06-20 of memory-anomalies); these are dated records.
+- **Published**: yes
 
 ## 2026-11-11T23:20:04+00:00 - refine-draft
 - **Status**: Success
