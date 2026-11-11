@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-10T23:51:21+00:00
+ai_modified: 2026-11-11T00:40:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T00:40:56+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 93 (delta since check 162 HEAD e17d2c4297 to HEAD 593f95433d: concepts 38, topics 33, voids 11, apex 7, positions 4); 20 embed-only voids pages excluded (113 changed in all)
+- **Errors**: 0
+- **Warnings**: 9 (4 Priority List items: blindsight L78/L143; ai-consciousness-typology L177 with carried universal-coupling-response L94; phenomenological-evidence L192–L196 with contemplative-path L188; causal-closure L152 and quantum-biology-and-neural-mechanisms L98 as a fold-in to todo L4101. 4 next-in-line: subjective-aim L98 with carried control-theoretic-will L138, pain-asymbolia L121, interactionist-dualism L137, comparative-phenomenology-of-meditative-traditions L169)
+- **Notes**: 11
+- **Carried, not counted**: 6 loci raised by checks 137–157 and never minted (universal-coupling-response L94, control-theoretic-will L138, testing-the-map-from-inside L92, targeted-lesion L140, the-reverse-inference L194, eastern-philosophy-consciousness L127)
+- **Previously queued**: check 162 Priority 1–4 queued at L4794/L4806/L4817/L4828, all still live; check 161 Priority 1–4 queued, still live; no over-correction in the window
+- **Output**: [[reviews/tenet-check-2026-11-11]]
 
 ## 2026-11-10T23:51:21+00:00 - positions-evolve
 - **Status**: Success

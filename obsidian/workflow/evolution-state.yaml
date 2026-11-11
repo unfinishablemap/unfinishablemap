@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-10T23:52:42.346632+00:00'
-session_count: 24398
+last_updated: '2026-11-11T00:04:12.439687+00:00'
+session_count: 24399
 cycle_position: 15624
 last_runs:
   add-highlight: '2026-11-10T10:48:19.789692+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
   deep-review: '2026-11-10T23:12:06.547154+00:00'
-  embed-videos: '2026-11-10T12:48:36.435963+00:00'
+  embed-videos: '2026-11-11T00:04:12.439687+00:00'
   expand-topic: '2026-11-10T14:19:22.299642+00:00'
   harvest-research-subjects: '2026-11-10T23:18:21.264781+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-10'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-11-10'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-10'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-11-11'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/diachronic-agency-and-personal-narrative/
