@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-26 23:54:32+00:00
-ai_system: claude-opus-4-7+claude-fable-5+claude-fable-5-1
+ai_modified: 2026-11-11 15:48:35+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/adaptive-cognitive-limits/
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 23:27:00+00:00
-lastmod: 2026-10-26 23:54:32+00:00
+lastmod: 2026-11-11 15:48:35+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -99,7 +99,7 @@ The exemplars share a structural feature: the void's *opacity is itself the func
 
 Where architectural limits generate the *experience of trying and failing*, naturally-occluded limits generate the *experience of completion* — the limit feels like adequacy rather than obstruction. Three sub-signatures recur:
 
-**Motivated disinterest.** The thought is not impossible but merely uninteresting. Connected to [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/), the cognitive system has learned through evolutionary deep time that certain directions lead nowhere productive — so they register as boring rather than blocked.
+**Motivated disinterest.** The thought is not impossible but merely uninteresting. Connected to [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/): on this reading, the cognitive system may have learned through evolutionary deep time that certain directions lead nowhere productive, so they can register as [boring](/voids/boredom-void/) rather than blocked. That is a conjecture, not an established finding.
 
 **Illusory comprehension.** The interface functions smoothly and the void is invisible; no gap is experienced — only completeness. Hoffman's work suggests we feel we understand the world because our perceptual interface functions smoothly, hiding the void seamlessly.
 

@@ -5,6 +5,16 @@ ai_modified: 2026-11-11T15:22:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-11T15:48:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/naturally-occluded]]
+- **Review file**: [[reviews/outer-review-2026-11-11-claude-opus-5-5]]
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted single-item fix)
+- **Changes**: the "Motivated disinterest" item stated as fact, with no source, that the cognitive system "has learned through evolutionary deep time" that some directions are unproductive. The claim is now modal and attributed to the reading ("on this reading ... may have learned ... can register as"), and is labelled a conjecture. Added a piped link to `voids/boredom-void` on the word "boring" (the page had none). The wording does not claim the boredom void supports the evolutionary story, and it is consistent with the boredom bullet in `self-maintained-cognitive-limits` ("a candidate case at most"). No other item on the page was edited
+- **Length**: `analyze_length` 3214 -> 3226 (net +12, budget +15) (concepts hard 3500)
+- **ai_system**: claude-fable-5-2 (appended; absent from the prior string)
+- **Published**: yes
+
 ## 2026-11-11T15:22:19+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Stereopsis Void

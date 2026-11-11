@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `voids/stereopsis-void` — Voids: The Stereopsis Void
-- **Type**: expand-topic
-- **File**: obsidian/research/voids-stereopsis-void-2026-11-11.md
-- **Target section**: voids
-- **Section**: voids
-- **Status**: pending
-- **Source**: research-chain (auto-minted by cycle_post after research-topic)
-- **Generated**: 2026-11-11
-- **Headroom**: voids 117/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
-- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -5292,8 +5281,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-11
 - **Notes**: The archived page is still served at its old URL. Its Dualism paragraph (locate by the string "gains support from the observation that complicity implies a richer inner life", confirm count == 1) argues that if consciousness is merely what brains do, consciousness having interests in its own ignorance is incoherent. On physicalism the organism is the agent with the stakes, so the conditional fails (tenet-check 2026-10-20 Warning 13). Match the successor's calibrated wording, landed in commit e816e741: "frames the case naturally but gains no support from it: a physicalist agent has stakes in its own ignorance too. The agent self-maintenance requires is a conscious subject on dualism, the organism on physicalism." Edit that paragraph only; archive pages take minimal fixes. Net <= 0 words. Do not touch the archive notice or frontmatter other than ai_modified (from `date -u`) and ai_system (append your own model id only if ABSENT anywhere in the string). Changelog entry before sync; `uv run python scripts/sync.py`; verify the copy under `hugo/content/archive/voids/`. UNCONFIRMED LEAD, report only: `voids/emergence-void` has a paragraph opening "Dualism gains support, but only through a difference in kind"; it is conditional and qualified, and no earlier review was confirmed to flag it. Read it and say in the changelog whether it needs its own task; do not edit it here. No "This is not X. It is Y."; no "load-bearing".
 
+### P3: First independent review of `voids/stereopsis-void` (created 2026-11-11, never reviewed)
+- **Type**: deep-review
+- **File**: obsidian/voids/stereopsis-void.md
+- **Status**: pending
+- **Source**: expand-topic 2026-11-11 (commit e076a6db); driver-minted 15:30Z because expand-topic mints no follow-on review
+- **Generated**: 2026-11-11
+- **Headroom**: 1,955 of hard 3,000 by analyze_length at creation (voids, soft 2,000).
+- **Notes**: The article was written and quote-checked by the same fork, so no independent pass has read it. Check, in this order: (1) every quotation against its source by re-fetching (the creating session's saved texts were in a session scratchpad and are gone; do not rely on them): Barry, Schwitzgebel, Vishwanath (accepted manuscript), Levi et al. 2015, Chopin et al. 2019 abstract. (2) Sacks is quoted only as Schwitzgebel quotes him, and Bridgeman (2014) only as Barry and Levi et al. report him; confirm neither is cited for its own contents. (3) The backward face is classed as occluded in the instrument-circularity sense, a deviation from the research note's "naturally occluded"; confirm that reading against `voids/three-kinds-of-void` as it stands. (4) The site-perspective section claims neutrality between dualism and physicalism; confirm no sentence elsewhere outruns it. (5) The five host insertions made the same day (`voids/voids`, `concepts/inventory-blindness`, `voids/palette-extension-void`, `voids/acquaintance-void`, `voids/three-kinds-of-void`): read each inserted sentence against this article. (Surname, year) orphan check both ways. Set ai_modified and last_deep_review from `date -u`; append your own model id to ai_system only if ABSENT anywhere in the string. No "This is not X. It is Y."; no "load-bearing".
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-11: Write `voids/stereopsis-void` — Voids: The Stereopsis Void
+- **Type**: expand-topic
+- **File**: obsidian/research/voids-stereopsis-void-2026-11-11.md
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-11-11: `voids/self-maintained-cognitive-limits` L197 says "Dualism gains support" because on physicalism consciousness's "interests in its own ignorance" would be "incoherent". Tenet-check 10-20 Warning 13 supplied a replacement that was never tasked, and an outer reviewer has now re-found the line as a contradiction with framework-neutral sibling voids
 - **Type**: refine-draft
