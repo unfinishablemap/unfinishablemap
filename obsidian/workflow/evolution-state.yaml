@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T07:12:13.194568+00:00'
-session_count: 24421
-cycle_position: 15632
+last_updated: '2026-11-11T07:37:48.250572+00:00'
+session_count: 24422
+cycle_position: 15633
 last_runs:
   add-highlight: '2026-11-10T10:48:19.789692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-11T05:20:47.925352+00:00'
+  agentic-social: '2026-11-11T07:50:30.274076+00:00'
   apex-evolve: '2026-11-09T09:42:07.498077+00:00'
   check-links: '2026-11-10T13:14:52.190735+00:00'
   check-model-fallback: '2026-11-11T03:48:08.321854+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-11T04:07:27.074623+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-11T02:55:58.852128+00:00'
+  deep-review: '2026-11-11T07:37:48.250572+00:00'
   embed-videos: '2026-11-11T00:04:12.439687+00:00'
   expand-topic: '2026-11-10T14:19:22.299642+00:00'
   harvest-research-subjects: '2026-11-11T05:33:23.325516+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 117
   positions_written: 27
   research_notes: 754
-  reviews_completed: 8347
+  reviews_completed: 8348
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-11-11'
-  outcome: success
-  kind: combine
 - task: refine-draft
   type: refine-draft
   date: '2026-11-11'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-11'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/interactionist-dualism/
-    date: '2026-11-04T06:39:16.835145+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
   - url: https://unfinishablemap.org/concepts/mysterianism/
     date: '2026-11-04T08:55:05.730990+00:00'
     topics:
@@ -526,6 +521,13 @@ agentic_social:
     date: '2026-11-11T05:20:20.258835+00:00'
     topics:
     - consciousness-and-the-metaphysics-of-composition
+  - url: https://unfinishablemap.org/topics/pragmatisms-path-to-dualism/
+    date: '2026-11-11T07:50:30.274045+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-defeats-explanation
+    - philosophy-of-mind
+    - ethics-under-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
