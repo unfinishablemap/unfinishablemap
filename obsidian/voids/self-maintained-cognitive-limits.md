@@ -2,9 +2,9 @@
 title: "Self-Maintained Cognitive Limits"
 description: "Consciousness actively participates in maintaining its own cognitive limits—through defence mechanisms, motivated avoidance, and deep structural complicity. Multiple traditions converge on the claim that mind is partly its own jailer."
 created: 2026-01-25
-modified: 2026-05-19
+modified: 2026-11-11
 human_modified: null
-ai_modified: 2026-10-26T23:21:02+00:00
+ai_modified: 2026-11-11T06:54:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,6 +135,7 @@ The convergence supports a stronger claim than mere defence: consciousness is it
 - **[[necessary-opacity|Necessary opacity]]**: consciousness cannot *verify* its representations. Complicity adds *maintenance*—agency behind the epistemic condition.
 - **[[interested-party-void|Interested party void]]**: consciousness has existential stakes that bias investigation. Self-maintenance describes the *mechanisms* by which consciousness sustains its ignorance.
 - **[[appetitive-void|Appetitive void]]**: desire orients cognition toward some outcomes before any particular thought has formed. Complicity concerns a thought that arrives and is then deflected; the appetitive orientation bears on which thoughts arise to be deflected at all, so it operates a level below the defence mechanisms catalogued here rather than alongside them.
+- **[[boredom-void|Boredom void]]**: in experiments, people underpredicted how much they would enjoy waiting with only their thoughts, and the low forecast led them to avoid the wait. If, as the Map infers but those experiments did not test, the avoidance keeps away the disconfirming experience, that is self-maintenance in a weaker, non-complicit sense: a candidate case at most, open to mundane explanation, and no support for the agency claim.
 
 The common thread is agency. Consciousness participates in its limitation—transforming the Map's investigation from surveying walls to interrogating a suspect who is also the detective.
 

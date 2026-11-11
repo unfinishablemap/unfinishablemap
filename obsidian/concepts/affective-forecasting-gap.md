@@ -2,9 +2,9 @@
 title: "The Affective-Forecasting Gap and the Selection Currency"
 description: "One candidate resolution of the Map's open anticipated-vs-experienced valence question: the felt quality of anticipating selects, and forecasts conditionally."
 created: 2026-06-18
-modified: 2026-10-29
+modified: 2026-11-11
 human_modified:
-ai_modified: 2026-11-02T10:42:24+00:00
+ai_modified: 2026-11-11T06:54:35+00:00
 last_deep_review: 2026-10-29T03:36:32+00:00
 draft: false
 topics:
@@ -75,7 +75,7 @@ The reframing softens the dilemma without cancelling the cost, and must not trad
 
 The second sense also assumes the standard stays put. In the bias literature it does; in Paul's transformative choices and Pettigrew's weighting of selves whose values differ ([[transformative-experience-void]]) it does not—the divergence is a change of evaluator, not a mis-forecast, and aligning the forecast to a later self the choice partly produced is not obviously correct. Which self's valence the currency is calibrated against, the Map marks open; the table below still discriminates wherever the standard is fixed, testing which input selection tracks, not whose valence it should.
 
-Because selection needs only a correct *ranking* of live options, a bias every option shares leaves the ordering intact. The evidence above is almost all absolute; Moeck et al.'s relative accuracy runs the other way, and intensity, the component people report ranking on, being the best forecast shrinks the reversal-prone subset. A reversal needs a salient event, a differential bias—focalism inflating the focal option, immune neglect [[negative-valence-asymmetry-and-the-selection-weighting-function|whichever carries the loss]]—and a margin smaller than the differential. What the argument needs is a *demonstrated* reversal, a forecast error shown to change the option chosen, which few designs show ([[miswanting]]); short of that, absolute inaccuracy is no exhibit against a currency that still ranks correctly.
+Because selection needs only a correct *ranking* of live options, a bias every option shares leaves the ordering intact. The evidence above is almost all absolute; Moeck et al.'s relative accuracy runs the other way, and intensity, the component people report ranking on, being the best forecast shrinks the reversal-prone subset. A reversal needs a salient event, a differential bias—focalism inflating the focal option, immune neglect [[negative-valence-asymmetry-and-the-selection-weighting-function|whichever carries the loss]]—and a margin smaller than the differential. What the argument needs is a *demonstrated* reversal, [[boredom-void#self-supply|a forecast error shown to change the option chosen]], which few designs show ([[miswanting]]); short of that, absolute inaccuracy is no exhibit against a currency that still ranks correctly.
 
 The distinction remains testable, though not by correcting the forecast and watching whether selection changes: a mechanism-only model whose input *is* the forecast predicts changed choice too. Correction can move choice: a randomised forecast-correcting message made forecasts less negative (p = .028) and shifted a real political choice (a shift a replication repeated) but also made reported experience less negative, and the authors concede demand may partly explain the result (Dorison, Minson & Rogers 2019)—the top row at work, discriminating nothing. It can also fail: a randomised defocusing instruction (N = 670) "did not improve affective forecasting accuracy" (Sobel Misieczko & Barber 2026). What discriminates is dissociating the inputs, in [[positions/value-in-selection|P-VS2]]'s battery framing:
 

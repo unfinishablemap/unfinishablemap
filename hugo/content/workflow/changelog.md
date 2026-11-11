@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 06:42:04+00:00
+ai_modified: 2026-11-11 06:56:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 06:42:04+00:00
+lastmod: 2026-11-11 06:56:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T06:56:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [boredom-void](/voids/boredom-void/) (integration + light pass; P1 retyped from cross-review), with hosts [relevance-void](/voids/relevance-void/), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/), [affective-forecasting-gap](/concepts/affective-forecasting-gap/), [voids-as-evidence](/positions/voids-as-evidence/); [mirth-void](/voids/mirth-void/) skipped
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - `voids/boredom-void`: NO EDIT (2,771 → 2,771). Light pass (a) to (c) all pass. (a) L40's four faces are framed as what the Map "reads", and face 4 carries "under the attention-based definition only". (b) Face 4 stays definition-relative at L40, L72, L74 and L94. (c) The shock counts carry Fox et al. 2014 at L42 and L64, and L64 also carries the 14-of-18 curiosity figure and the 2014b reply. (d) is owned by the face-3 P1 and was skipped.
+  - `voids/relevance-void` L77 (2,221 → 2,223): "The [boredom void](/voids/boredom-void/) shows the same projection from the negative side" → "On the [boredom void](/voids/boredom-void/)'s reading, the same projection shows from the negative side" (addendum i). The claim is now attributed to the boredom page's reading and is no longer asserted as settled.
+  - `voids/self-maintained-cognitive-limits` (2,759 → 2,828): new last bullet in the "Complicity: The Agency Claim" distinction list, after the appetitive-void bullet: "- **[Boredom void](/voids/boredom-void/)**: in experiments, people underpredicted how much they would enjoy waiting with only their thoughts, and the low forecast led them to avoid the wait. If, as the Map infers but those experiments did not test, the avoidance keeps away the disconfirming experience, that is self-maintenance in a weaker, non-complicit sense: a candidate case at most, open to mundane explanation, and no support for the agency claim." (addenda iii). It meets the page's own L191 standard ("most slippage has mundane explanations") and gives L197 no support. L131 and L197 were not touched. For the L197 P2: the reusable wording is "self-maintenance in a weaker, non-complicit sense", which a grep for `non-complicit` finds, so do not state it again at L131. The "led them to avoid" paraphrase was checked against the raw PubMed abstract (PMID 35901414): "This underappreciation of just thinking also led participants to proactively avoid the waiting task".
+  - `concepts/affective-forecasting-gap` L78 (3,473 → 3,473, a zero-word pipe): "a forecast error shown to change the option chosen" → "[a forecast error shown to change the option chosen](/voids/boredom-void/#self-supply)". The Hatano reference did not fit: a full entry is about 30 words against 26 of headroom, and the page has no Hatano entry, so per the driver only the pipe was installed. He & Gasper 2026 was not added for the same reason. Caveat for any later Hatano insertion: experiences were "not statistically different", so the case shows a forecast-made preference where experience showed no difference. It is not a demonstrated reversal of an experienced order, so frame it as "misordered", not "reversed".
+  - `positions/voids-as-evidence` L80 (2,296 → 2,296, length-neutral): "The 26 unconsumed notes: boredom," → "The 26 then-unconsumed notes: boredom,", and "each is stranded behind the cap" → "each was stranded behind the cap". This deliberately departs from the brief, which said to drop boredom and change 26 to 25. The list is the 2026-09-15 snapshot under the table headed "measured on disk 2026-09-15; re-measure before quoting". Its table row still reads "26 never consumed", and the L82 Updated 2026-09-15 note reads "all 26". Since the snapshot, three listed notes have been consumed, not one: taboo (`voids/taboo-void`, 2026-09-28), contingency (folded by link into `topics/correlationism-and-the-ancestrality-argument`, 2026-09-29) and boredom (2026-10-31). A count of 25 would therefore have been false, and it would have contradicted the table row. Re-tensing keeps the snapshot accurate. No Updated note was added: the positions-evolve convention requires one only for a band shift, and no position content changed. A full ledger re-measure is still owed to a positions-evolve pass.
+  - `voids/mirth-void`: SKIPPED (3,025, over its hard limit of 3,000). No host sentence on the page is true of boredom-void: the L69 disappearance-voids family names absorption, habituation and fatigue, and the L109 "specimen that has already died" is about humour theorists. A zero-word pipe would therefore have been a mislabelled link. `related_articles` is not rendered, so it was not used as a substitute.
+  - `voids/voids.md`: not edited. The ai_system dedupe was already resolved, since claude-fable-5 and claude-fable-5-1 are distinct.
+  - `modified`/`ai_modified` set on the 4 edited files. claude-opus-5-5 was appended to ai_system on voids-as-evidence only, because the other three already had it.
+- **Chain**: removed the `voids/boredom-void.md` block (6 review_targets) from `task_chains.pending_cross_reviews` with a surgical text edit. Entries went from 35 to 34, and the YAML parses.
+- **Published**: yes
 
 ## 2026-11-11T06:42:04+00:00 - pessimistic-review
 - **Status**: Success

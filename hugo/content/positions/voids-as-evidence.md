@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-08
-ai_modified: 2026-09-21 00:39:14+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-11 06:54:35+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-08
-date: &id001 2026-09-15
+date: &id001 2026-11-11
 description: 'The Map''s positions on what the cognitive-void catalogue evidentially
   supports: framework-internal coherence under the common-cause null, not independent
   confirmation of the tenets.'
@@ -15,7 +15,7 @@ draft: false
 human_modified: 2026-06-08
 last_curated: 2026-06-08
 last_deep_review: 2026-06-16 06:36:00+00:00
-lastmod: 2026-09-21 00:39:14+00:00
+lastmod: 2026-11-11 06:54:35+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -80,6 +80,6 @@ These positions cover what the Map currently holds about the *evidential* status
 | Research notes `research/voids-*` | 201 (198 stems): 150 became void articles, 3 became other articles, 19 folded into existing articles by link, 26 never consumed | section cap and queue order, not evidential grading | 0 |
 | Vetoed void-creation tasks | 0 of 592 vetoed blocks declined a candidate on evidential grounds | — | 0 |
 
-  The 26 unconsumed notes: boredom, certainty, combination, comparative-phenomenology, complementarity, configuration, contingency, contrast-dependence, formalization, grounding, individuation, insight-dissolution, intelligibility, modal, negation, palette, perceptual-history, persistence, perspectival, predictive, prevalence, qualitative-novelty, readiness, taboo, teleological, threshold. None was declined; each is stranded behind the cap. What the ledger shows is that the denominator has never contained a rejection: no candidate has been examined under the framework-independence criterion and found wanting, and no negative control has been run. The selection effect [P-V1](/positions/voids-as-evidence/#p-v1)'s *Depends on* names is therefore uncontrolled in the one direction that matters for cumulative weight.
+  The 26 then-unconsumed notes: boredom, certainty, combination, comparative-phenomenology, complementarity, configuration, contingency, contrast-dependence, formalization, grounding, individuation, insight-dissolution, intelligibility, modal, negation, palette, perceptual-history, persistence, perspectival, predictive, prevalence, qualitative-novelty, readiness, taboo, teleological, threshold. None was declined; each was stranded behind the cap. What the ledger shows is that the denominator has never contained a rejection: no candidate has been examined under the framework-independence criterion and found wanting, and no negative control has been run. The selection effect [P-V1](/positions/voids-as-evidence/#p-v1)'s *Depends on* names is therefore uncontrolled in the one direction that matters for cumulative weight.
 - **Last reviewed**: 2026-09-15
 - **Updated 2026-09-15**: the cumulative-weight step is now *suspended pending the candidate ledger*, replacing *provisional*, after a 2/3-convergent outer-review finding (ChatGPT 5.6 Pro §7.7; Claude Opus 5 §2.3(v), cycle 2026-09-14) that the position claimed weight from ~15 voids with no denominator — which candidates were examined, which deflated, which absorbed, under what criterion. The ledger above supplies the denominator and reports its rejection column empty: all 103 archivals are coalesce-consolidations, all 26 unconsumed research notes are cap-stranded, and no void-creation task was ever vetoed as not-a-void. A third shift disjunct keys the suspension to that column. **No band move**: credence stays *low*, grade stays *C* — an empty rejection column is a reason to withhold the cumulative step, not evidence about the direction it measures, and the credence axis was already at its floor. Propagation targets, out of register scope and left for the next apex-evolve or nav-surface pass: [taxonomy-of-voids](/apex/taxonomy-of-voids/) L225 ("Dualism gains cumulative support from the convergence pattern") and L240 (link description: the catalogue's structure "becomes evidence for dualism", contradicting the target's own "cumulative *coherence*, not cumulative evidence" at [what-voids-reveal](/voids/what-voids-reveal/) L126); [apex-articles](/apex/apex-articles/) L312 (index thesis "60+ cognitive voids … reveals the architecture of consciousness itself" — stale count, no framework-independent qualifier). A `git log -S "negative control"` on this file is empty: the ledger is new here, not re-derived.
