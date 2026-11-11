@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 14:04:00+00:00
+ai_modified: 2026-11-11 14:54:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 14:04:00+00:00
+lastmod: 2026-11-11 14:54:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T14:54:19+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The stereopsis void. A neurobiologist who knew the physiology of binocular depth could not picture it until she gained it at 48, and people with two working eyes disagree about what closing one eye does
+- **Category**: Mixed (Unexplorable before acquisition; naturally Occluded from the binocular side; a small Unexplored margin, since the test that would settle the report disagreement has been proposed and no run of it was found)
+- **Output**: [voids-stereopsis-void-2026-11-11](/research/voids-stereopsis-void-2026-11-11/)
+- **Key finding**: Susan Barry's own words on first hearing of stereopsis are "I couldn't imagine what he was talking about", and afterwards "I had no idea what I had been missing"; Bruce Bridgeman, also a vision scientist, was likewise surprised. In the other direction, Schwitzgebel finds binocular observers split over whether one-eyed vision is flat, and asks whether that is a difference in experience or only in report. Vishwanath (2014) separates the quality from binocular disparity, since it can be induced with one eye and a picture. The note records that the case illustrates the knowledge-argument intuition but is neutral between dualism and physicalism; no tenet is upgraded.
+- **Dedup**: `stereopsis`, `stereoblind`, `Susan Barry`, `Bridgeman`, `Julesz` all 0 files across `obsidian/` (control: `binocular` 55). `archive/` not searched.
+- **Verification**: 40-odd quoted strings matched in saved full texts or Crossref abstracts; Sacks is quoted only via Schwitzgebel and flagged as such; the New Yorker "Stereo Sue" text, Barry's books beyond one excerpt, and Bridgeman's paper were not read.
+- **Chain**: not minted by this fork. Frontmatter carries `recommended_action: article`, `target_slug: stereopsis-void`; voids measured 117/125 at 14:48Z. No `pending_articles` entry and no todo task written; left to the driver.
 
 ## 2026-11-11T14:04:00+00:00 - refine-draft
 - **Status**: Success
