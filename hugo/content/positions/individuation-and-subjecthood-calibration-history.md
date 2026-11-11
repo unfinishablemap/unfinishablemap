@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-14
-ai_modified: 2026-10-31 20:26:33+00:00
-ai_system: claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 18:49:28+00:00
+ai_system: claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -14,7 +14,7 @@ description: 'Calibration audit trail for the individuation-and-subjecthood posi
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-31 20:26:33+00:00
+lastmod: 2026-11-11 18:49:28+00:00
 modified: *id001
 related_articles:
 - '[[positions/individuation-and-subjecthood]]'
@@ -29,6 +29,12 @@ topics: []
 This is the calibration audit trail for the [individuation and subjecthood positions register](/positions/individuation-and-subjecthood/). **It contains no positions.** Every claim, calibration, dependency and shift condition lives in the register file; only the dated notes recording *why a band moved, or why it did not*, live here, following the convention set out in [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/).
 
 The file was opened on 2026-10-14, when the register stood at 3,997 words against the section's 4,000-word critical ceiling and could no longer absorb a dated note inside an entry. The notes already inside the register's entries (the 2026-08-24, 2026-09-16 and 2026-10-08 notes on [P-I3](/positions/individuation-and-subjecthood/#p-i3) and the 2026-09-16 note on [P-I4](/positions/individuation-and-subjecthood/#p-i4), among others) were left in place; relocating them is a separate restructure. New notes from this date forward go here.
+
+## [P-I2](/positions/individuation-and-subjecthood/#p-i2)
+
+Tenet 4 is stated unconditionally but argued conditionally — its indexical objection depends on this register.
+
+- **Updated 2026-11-11**: a second route to the conditional registered. The Asserts named only retirement of [P-I1](/positions/individuation-and-subjecthood/#p-i1) (a deflationary, fragmented or process-only subject) as what removes the objection's foothold. [Subjective Facts and the Metaphysical Problem of Other Minds](/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds/#what-moves) (2026-10-14) prices a case that list does not cover: under Lipman's standpoint pluralism subjects stay numerically distinct with real boundaries, so [P-I1](/positions/individuation-and-subjecthood/#p-i1) stands, while the fact about which subject is this one obtains only relative to each standpoint. The dissolution that would then answer "why am I this subject?" serves the Everettian for "why am I this branch?" in the same words, so the objection would weaken without [P-I1](/positions/individuation-and-subjecthood/#p-i1) being retired. The Asserts now carries that as one clause linked to the article. It is a conditional: the Map has not taken the egalitarian exit, and the article offers no argument that the egalitarian is wrong, only that Tenet 4's argument needs the fact held. Nothing here supports the tenet, and neither Lipman nor List is enlisted for the Map. The clause was funded inside the entry by removing "Two consequences are booked rather than hidden." and four single words ("here", "already", "own" twice), for a net of zero words (3,988 → 3,988). Not done: [P-I1](/positions/individuation-and-subjecthood/#p-i1)'s own shift condition lists the same three subject-accounts and could name relativisation as a fourth route that leaves it standing; that is a separate edit. **No calibration change on any axis**: credence high, grade n/a, framework-internal; the entry discloses one more way its conditional can fail, not a change in how firmly the disclosure is held.
 
 ## [P-I4](/positions/individuation-and-subjecthood/#p-i4)
 

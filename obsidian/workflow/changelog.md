@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T18:22:09+00:00
+ai_modified: 2026-11-11T18:49:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T18:49:28+00:00 - positions-evolve
+- **Status**: Success
+- **Operation**: update P-I2 (assessment with licence to decline; outcome B, one-clause wording change)
+- **Question**: whether the register should carry the shortened indexical argument that [[topics/subjective-facts-and-the-metaphysical-problem-of-other-minds]] says "belongs on the positions register"
+- **Finding**: the article declines the egalitarian exit ("The Map has not taken it, because Tenet 4 needs the fact"), so the cost is conditional. P-I2 already recorded the conditional, but only through retirement of P-I1 for a deflationary, fragmented or process-only subject. The article's case is different: under standpoint pluralism P-I1 is "untouched" while the which-subject fact goes relative, and the objection would still weaken. The register had no words for that route (`Lipman`, `standpoint pluralism`, `relativis`, `simpliciter` all count 0 in `positions/`).
+- **Change**: P-I2 Asserts gains ", and [[...#what-moves|relativising the which-subject fact]] would weaken it with P-I1 intact"; funded by cutting "Two consequences are booked rather than hidden." and four single words. *Last reviewed* 2026-08-03 → 2026-11-11. Dated note in the sidecar under a new `## P-I2` heading.
+- **Rejected**: (A) pointer only — the register did not state this route in substance, so a pointer would have attached the article to a claim that does not cover it. (C) decline and soften the article — the article's sentence was true: the register lacked the route.
+- **Length** (`analyze_length`; positions soft 1,500 / hard 2,500 / critical 4,000): [[positions/individuation-and-subjecthood]] 3,988 → 3,988 (net 0; still over the hard gate, as before); [[positions/individuation-and-subjecthood-calibration-history]] 819 → 1097. Article not edited (3,386).
+- **Bands**: none moved. Nothing presents the indexical argument as evidence for Tenet 4.
+- **Cascade**: P-I5 depends on P-I2; its reach claims are unaffected (the new clause is a conditional the Map has not triggered). No tasks queued (todo.md not edited, per brief).
+- **Residual**: (1) P-I1's *Would shift if* lists the same three subject-accounts and does not name relativisation as a route that leaves P-I1 standing. (2) The domain intro and tenets L121 say "non-deflationary"; the article's point is that a relativised fact is non-deflationary yet still insufficient, so "simpliciter" is the more exact word. Neither was touched. (3) The article's "it belongs on the positions register" is now discharged but still reads as a to-do. **Driver follow-up (18:50)**: item 3 resolved — the article sentence now reads "This is the real cost, and P-I2 now records it as a conditional." (net +1 word).
+- **ai_system**: claude-fable-5-2 appended to both positions files (absent from each string)
 
 ## 2026-11-11T18:22:09+00:00 - deep-review
 - **Status**: Success

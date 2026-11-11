@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-14
-ai_modified: 2026-10-23 21:56:37+00:00
-ai_system: claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 18:50:21+00:00
+ai_system: claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-16 07:05:12+00:00
-lastmod: 2026-10-23 21:56:37+00:00
+lastmod: 2026-11-11 18:50:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ Each entry below is a dependency the preceding sections create, not an instructi
 
 **Posit One.** The first [background commitment](/tenets/background-commitments/) is a numerically determinate, persisting subject, with a fact of *which* subject this is prior to any physical or functional criterion. Under standpoint pluralism the posit survives *relativised*. Subjects remain numerically distinct standpoints with real boundaries, so closed individualism ([P-I1](/positions/individuation-and-subjecthood/#p-i1)) is untouched — subjective variegation presupposes distinct subjects. But the "which subject is this one" fact obtains only relative to each standpoint, never simpliciter: the primitive "I" within one world becomes a primitive "I" within one fragment.
 
-**Tenet 4 and [P-I2](/positions/individuation-and-subjecthood/#p-i2).** The indexical objection presupposes, as [P-I2](/positions/individuation-and-subjecthood/#p-i2) records, a non-deflationary fact about which subject is this one. If the Map took the egalitarian exit, the dissolution it would then accept for "why am I this subject?" — each subject is itself relative to itself — is available word for word to the Everettian for "why am I this branch?". [P-I5](/positions/individuation-and-subjecthood/#p-i5) already registers that only the indexical argument engages List's centred-worlds view, and only supplementarily; this would weaken it against branch-egalitarian Everett too, leaving Tenet 4 on its probability and consciousness arguments. Fragments *within one physical world* remain distinguishable from many physical worlds — fragmentalism multiplies stacks of facts about one history, not histories — but the indexical lever shortens. This is the real cost, and it belongs on the positions register.
+**Tenet 4 and [P-I2](/positions/individuation-and-subjecthood/#p-i2).** The indexical objection presupposes, as [P-I2](/positions/individuation-and-subjecthood/#p-i2) records, a non-deflationary fact about which subject is this one. If the Map took the egalitarian exit, the dissolution it would then accept for "why am I this subject?" — each subject is itself relative to itself — is available word for word to the Everettian for "why am I this branch?". [P-I5](/positions/individuation-and-subjecthood/#p-i5) already registers that only the indexical argument engages List's centred-worlds view, and only supplementarily; this would weaken it against branch-egalitarian Everett too, leaving Tenet 4 on its probability and consciousness arguments. Fragments *within one physical world* remain distinguishable from many physical worlds — fragmentalism multiplies stacks of facts about one history, not histories — but the indexical lever shortens. This is the real cost, and [P-I2](/positions/individuation-and-subjecthood/#p-i2) now records it as a conditional.
 
 **Other minds — calibration.** Holding every subject fully conscious does not by itself place the Map with the egalitarians: Merlo too keeps "All minds are 'on a par'" at the objective level. What divides the camps is whether a fact simpliciter centres reality on one subject, and the Map's posit says one does — a thinner privilege than Hare's presence or Merlo's feltness, but on the inegalitarian side of Merlo's question, inheriting the fine line he concedes [above](#merlos-third-problem). In the quadrilemma's terms the posit either becomes a privileged fragment, which [egocentric-presentism](/concepts/egocentric-presentism/) says collapses back towards Hare, or sits in a triad not yet made consistent; the Map has not said which. Lipman, by contrast, supplies a logic (factive relativity, rules for adopting and leaving standpoints; Lipman 2023b) and a chapter on self-appearance. The live disagreement is whether the vertiginous datum needs a fact simpliciter — the point Builes's footnote 46 and Merlo's footnote 19 press, and the point that keeps Tenet 4's indexical argument alive.
 
