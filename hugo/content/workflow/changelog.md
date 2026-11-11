@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 12:53:10+00:00
+ai_modified: 2026-11-11 13:49:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 12:53:10+00:00
+lastmod: 2026-11-11 13:49:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T13:49:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/), [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted attribution fix from the 2026-11-11 deep review of the microphenomenological interview method, Remaining Item 1)
+- **Changes**: Both pages said the method's principals "concede the interviewer-prompts-novelty objection"; the deep review found no principal conceding it. (1) `concepts/phenomenological-evidence`: the sentence now reports what Petitmengin and Bitbol grant (no description can be checked against the past experience) and what they deny (that this sets interviews apart; validity rests on authenticity and consistency, not correspondence), and keeps interviewer-prompts-novelty as an objection that stays open, no longer attributed to the principals. The Map's "methodologically undetermined" verdict sentence is unchanged; its subject ("The discipline") is explicit, so no pronoun is stranded. The passage around the open tenet-check-163 P3 was not touched. 2,837 → 2,852 (+15; prose 2,488 → 2,503, apparatus 349). (2) `topics/phenomenal-authority-and-first-person-evidence`: same correction, with same-paragraph tightening to keep the edit net negative on an over-length page: the parenthetical list of scaffolding techniques and "The catalogue's home for" dropped (the linked section carries both), "rather than dissolving it" → "without dissolving it", "regime-conditional rather than universal" → "regime-conditional, not universal", "in the disciplined register that … requires" → "as … requires". No qualifier, hedge, citation or refutation removed. 4,511 → 4,509 (−2; prose before Further Reading 3,827 → 3,825, Further Reading + References apparatus 684, so prose alone is under the 4,000 hard threshold and the total is what trips it). No citation added on either page (the linked method page carries the Petitmengin and Bitbol 2009 entry); no quoted source strings introduced.
+- **Reasoning mode**: engagement with the method's principals (Petitmengin and Bitbol): Mode Three; each page reports their rejection of the correspondence standard and sets the Map's open objection and undetermined verdict beside it without claiming a concession or a refutation
+- **ai_system**: appended `claude-fable-5-2` on both files (absent from each prior string)
+- **Published**: yes
 
 ## 2026-11-11T13:34:28+00:00 - refine-draft
 - **Status**: Success
