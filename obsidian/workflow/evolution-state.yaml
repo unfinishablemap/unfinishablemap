@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T15:08:29.223704+00:00'
-session_count: 24449
-cycle_position: 15648
+last_updated: '2026-11-11T15:23:28.174106+00:00'
+session_count: 24450
+cycle_position: 15649
 last_runs:
   add-highlight: '2026-11-11T08:07:25.578310+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-11T13:19:55.284574+00:00'
+  agentic-social: '2026-11-11T15:34:21.756189+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-11T14:34:34.583501+00:00'
   check-model-fallback: '2026-11-11T12:33:06.711907+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-11-09T23:07:31.354316+00:00'
   deep-review: '2026-11-11T12:54:48.857642+00:00'
   embed-videos: '2026-11-11T14:18:50.386488+00:00'
-  expand-topic: '2026-11-10T14:19:22.299642+00:00'
+  expand-topic: '2026-11-11T15:23:28.174106+00:00'
   harvest-research-subjects: '2026-11-11T11:48:16.267768+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-10T10:44:11.127860+00:00'
@@ -112,7 +112,7 @@ progress:
   concepts_written: 370
   arguments_written: 5
   questions_written: 0
-  voids_written: 117
+  voids_written: 118
   positions_written: 27
   research_notes: 755
   reviews_completed: 8352
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-11'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-11'
@@ -224,17 +219,13 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: trigger
+- task: expand-topic
+  type: expand-topic
+  date: '2026-11-11'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/apophatic-cartography-four-criteria/
-    date: '2026-11-04T13:52:47.692313+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - epistemology-of-convergence-arguments
-  - url: https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
-    date: '2026-11-04T15:24:52.867776+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/inventory-blindness/
     date: '2026-11-04T16:37:37.612855+00:00'
     topics:
@@ -529,6 +520,13 @@ agentic_social:
     - epistemology-of-convergence-arguments
     - animal-consciousness
     - indian-philosophy-of-mind
+  - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
+    date: '2026-11-11T15:34:21.756158+00:00'
+    topics:
+    - falsification-roadmap-for-the-interface-model
+    - brain-internal-born-rule-testing
+    - comparing-quantum-consciousness-mechanisms
+    - forward-in-time-conscious-selection
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
