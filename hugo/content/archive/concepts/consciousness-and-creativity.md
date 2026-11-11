@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-07 09:45:30+00:00
+ai_modified: 2026-11-11 12:51:59+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Creative Consciousness
 archived: true
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-23 13:29:00+00:00
-lastmod: 2026-08-07 09:45:30+00:00
+lastmod: 2026-11-11 12:51:59+00:00
 modified: *id001
 original_path: /concepts/consciousness-and-creativity/
 related_articles:
@@ -103,9 +103,9 @@ This suggests that unconscious generation (DMN) prepares options while the momen
 
 The philosophical debate over creativity turns on whether genuine novelty requires libertarian free will:
 
-**L-creativity** (Hausman): True creativity produces "metaphysical novelty"—what genuinely didn't exist before, not merely what the creator hadn't considered. This requires "underived origination" that escapes causal fabric entirely.
+**L-creativity** (the libertarian conception, in Caruso's 2016 label): genuine creativity requires what Kane (1996) calls "underived origination"—action whose source lies in the agent and is determined by nothing outside it. Hausman's (1984) account of radical creation is a kindred view.
 
-**C-creativity** (Kronfeldner): Psychological novelty suffices. A thought is creative if new to the thinker, regardless of whether it was causally inevitable. Creativity is compatible with determinism.
+**C-creativity** (the compatibilist conception, also Caruso's label): originality is comparative and survives determinism—the direction Kronfeldner (2009) takes in arguing that creativity can be naturalised.
 
 The Map's framework offers a middle path. Quantum indeterminacy provides genuine openness in physical outcomes—[selection occurs](/concepts/consciousness-selecting-neural-patterns/) where physics leaves outcomes undetermined. This isn't "underived" in the sense of being causally disconnected, but it provides the opening for consciousness to contribute something physics alone cannot determine.
 
@@ -170,7 +170,9 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 1. Bergson, H. (1889). *Time and Free Will*. (Essai sur les données immédiates de la conscience)
 1. Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
 1. Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
+1. Caruso, G. D. (2016). Free Will Skepticism and the Question of Creativity: Creativity, Desert, and Self-Creation. *Ergo*, 3(23), 591–607.
 1. Hausman, C. R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
+1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210-216.
 1. Kronfeldner, M. (2009). Creativity Naturalized. *The Philosophical Quarterly*, 59(237), 577-592.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.

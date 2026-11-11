@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-11-05T03:42:24+00:00
+ai_modified: 2026-11-11T12:54:18+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -48,7 +48,7 @@ related_articles:
   - "[[cross-cultural-convergence-on-mental-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-25T23:17:41+00:00
@@ -134,7 +134,7 @@ The Libet challenge has weakened substantially. Schurger reinterprets the readin
 
 ## Creative Generation: Beyond Pure Selection
 
-Agent causation traditionally focuses on selection, but in [[creative-consciousness|creative consciousness]] agents also *shape* options through imaginative exploration. This strengthens the view against the critic: if agents shape later options through imagination, they explain the outcome partly because they curated the options available. Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood; Bergson's [[temporal-consciousness]] develops this through memory's integration with the present. Whitehead's [[process-philosophy|process philosophy]] offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally (developed in the [[process-and-consciousness|Process and Consciousness]] apex).
+Agent causation traditionally focuses on selection, but in [[creative-consciousness|creative consciousness]] agents also *shape* options through imaginative exploration. This strengthens the view against the critic: if agents shape later options through imagination, they explain the outcome partly because they curated the options available. The libertarian conception of creativity requires what Kane (1996) calls "underived origination"—mapping directly onto sourcehood; Bergson's [[temporal-consciousness]] develops this through memory's integration with the present. Whitehead's [[process-philosophy|process philosophy]] offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally (developed in the [[process-and-consciousness|Process and Consciousness]] apex).
 
 ## The Verification Limit and the Convergent Case
 
@@ -198,7 +198,6 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
-1. Hausman, C.R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
 1. Jacobs, J.D. & O'Connor, T. (2013). "Agent Causation in a Neo-Aristotelian Metaphysics." In S. Gibb, E.J. Lowe, & R.D. Ingthorsson (Eds.), *Mental Causation and Ontology*. Oxford University Press.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.

@@ -3,7 +3,7 @@ title: "Research Notes - Consciousness and Creativity"
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-08-07T09:45:30+00:00
+ai_modified: 2026-11-11T12:51:59+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -117,6 +117,7 @@ This research investigates whether consciousness merely selects among pre-existi
   - Carl Hausman: creativity escapes causal fabric, produces "metaphysical novelty"
   - Kronfeldner: psychological novelty sufficient; creativity compatible with causation
   - Explanation paradox: either creativity is unexplainable or what's explained isn't genuine creativity
+- **Correction (2026-11-11, full text checked)**: this source is Caruso, G. D. (2016), *Ergo* 3(23), 591–607. The L-/C-creativity labels are Caruso's own; "underived origination" is Kane's (1996: 79) term as Caruso quotes it; Caruso defends a third, sceptical conception (S-creativity). The paper names neither Hausman nor Kronfeldner — the two bullets above come from elsewhere and must not be cited to it, and the labels must not be attributed to them. The quote below is William Barrett, as quoted by Caruso.
 - **Tenet alignment**: Site's framework aligns with L-creativity—selection at quantum indeterminacy provides the "underived origination"
 - **Quote**: "The desire for freshness, novelty, genuine creation—in short, an open rather than a closed universe"
 

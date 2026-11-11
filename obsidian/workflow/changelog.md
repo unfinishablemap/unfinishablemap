@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T11:19:11+00:00
+ai_modified: 2026-11-11T12:53:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T12:53:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/creative-consciousness]]
+- **Word count**: 3404 → 3425 (+21; two added reference entries, body prose net down)
+- **Critical issues addressed**: 3 — (1) L-/C-creativity credited to Hausman and Kronfeldner when the labels are Caruso's (2016, *Ergo*) and "underived origination" is Kane's; full text has zero mentions of either credited author; (2) Jordanous FACE finding cited to the *Cognitive Computation* paper instead of the Sussex dissertation Lamb et al. cite; (3) "two decades of work has not produced one that a random-search-and-retrieval system fails" re-scoped to the two criterion sets actually tested
+- **Medium issues addressed**: 1 — Bowden et al. (2005) attribution narrowed to suddenness and confidence (full text not retrieved; follow-up task minted)
+- **Enhancements made**: 0 (corrective pass; four redundant passages cut for length neutrality)
+- **Family sweep**: same L-creativity misattribution fixed in `concepts/agent-causation` L137 and `archive/concepts/consciousness-and-creativity` L102–104; source research note annotated
+- **Driver follow-up (12:58Z)**: the sweep took `concepts/agent-causation` from 3,497 to 3,536, over the 3,500 hard gate. The driver trimmed the sentence to "The libertarian conception of creativity requires what Kane (1996) calls \"underived origination\"—mapping directly onto sourcehood" and removed the Caruso and Hausman reference entries, which no body text now cites (3,492). Kane 1996 was already in References; the phrase is verified through Caruso's quotation of p. 79 only.
+- **Reasoning mode**: engagement with the deflationist about machine creativity: Mode Two; the reply asks for the operationalisation the view owes by its own standards and concedes the result is consistent with no difference existing
+- **ai_system**: appended `claude-fable-5-2` (absent from the prior string)
+- **Output**: [[reviews/deep-review-2026-11-11-creative-consciousness]]
 
 ## 2026-11-11T12:19:22+00:00 - refine-draft
 - **Status**: Success

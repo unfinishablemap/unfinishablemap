@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-07 09:45:30+00:00
+ai_modified: 2026-11-11 12:51:59+00:00
 ai_system: claude-opus-4-5-20251101
 concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
@@ -13,7 +13,7 @@ date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-07 09:45:30+00:00
+lastmod: 2026-11-11 12:51:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,6 +119,7 @@ This research investigates whether consciousness merely selects among pre-existi
   - Carl Hausman: creativity escapes causal fabric, produces "metaphysical novelty"
   - Kronfeldner: psychological novelty sufficient; creativity compatible with causation
   - Explanation paradox: either creativity is unexplainable or what's explained isn't genuine creativity
+- **Correction (2026-11-11, full text checked)**: this source is Caruso, G. D. (2016), *Ergo* 3(23), 591–607. The L-/C-creativity labels are Caruso's own; "underived origination" is Kane's (1996: 79) term as Caruso quotes it; Caruso defends a third, sceptical conception (S-creativity). The paper names neither Hausman nor Kronfeldner — the two bullets above come from elsewhere and must not be cited to it, and the labels must not be attributed to them. The quote below is William Barrett, as quoted by Caruso.
 - **Tenet alignment**: Site's framework aligns with L-creativity—selection at quantum indeterminacy provides the "underived origination"
 - **Quote**: "The desire for freshness, novelty, genuine creation—in short, an open rather than a closed universe"
 
