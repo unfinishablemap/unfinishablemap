@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T19:27:09.161207+00:00'
-session_count: 24466
-cycle_position: 15660
+last_updated: '2026-11-11T19:36:35.398102+00:00'
+session_count: 24467
+cycle_position: 15661
 last_runs:
   add-highlight: '2026-11-11T08:07:25.578310+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-11T18:33:46.178800+00:00'
+  agentic-social: '2026-11-11T19:50:16.278887+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-11T14:34:34.583501+00:00'
   check-model-fallback: '2026-11-11T16:48:04.335555+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-11T19:27:09.161207+00:00'
   pessimistic-review: '2026-11-11T17:29:15.725583+00:00'
   positions-evolve: '2026-11-11T18:51:05.787232+00:00'
-  refine-draft: '2026-11-11T17:37:41.146651+00:00'
+  refine-draft: '2026-11-11T19:36:35.398102+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-10T16:03:17.498988+00:00'
   research-voids: '2026-11-11T14:54:56.908294+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-11-11'
-  outcome: success
-  kind: trigger
 - task: research-voids
   type: research-voids
   date: '2026-11-11'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-11'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/phenomenal-contrast-method/
-    date: '2026-11-04T18:52:41.318685+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
   - url: https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
     date: '2026-11-04T20:22:45.712054+00:00'
     topics:
@@ -534,6 +529,12 @@ agentic_social:
     - contemplative-practice-as-philosophical-evidence
     - clinical-phenomenology-and-altered-experience
     - anaesthesia-and-the-consciousness-interface
+  - url: https://unfinishablemap.org/topics/clinical-evidence-quality-standards-consciousness-research/
+    date: '2026-11-11T19:50:16.278855+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - methodology-of-consciousness-research
+    - consciousness-and-scientific-explanation
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
