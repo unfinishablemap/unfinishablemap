@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T20:35:45+00:00
+ai_modified: 2026-11-11T20:49:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-11T20:49:45+00:00 - coalesce
+- **Status**: Abandoned (no merge; nothing archived, no content files changed)
+- **Mode**: fresh pairwise screen over `concepts/`, `topics/` and `voids/`. Sidecars (`*.refinement-log*`, `*-calibration-history*`), section index files and files under 300 words were removed first, leaving 856 articles (370 concepts, 368 topics, 118 voids). Pairs were ranked by shared verbatim 5-grams in the body above References/Further Reading, as a fraction of the smaller page's 5-gram set.
+- **Thresholds** (printed from `tools.curate.length.THRESHOLDS`, soft/hard/critical): concepts 2500/3500/5000, topics 3000/4000/6000, voids 2000/3000/4000. Word counts are `analyze_length` totals.
+- **Result**: the two filters do not intersect. Every pair with real verbatim overlap sums far above the hard threshold, and the pairs that fit under it share only boilerplate. The highest overlap in the corpus is 16% of the smaller page.
+- **Pair 1**: `concepts/selection-only-channel` (3133) + `topics/selection-only-mind-influence` (3927). 450 shared 5-grams (16.0%), the three limits stated in both. 7060 - 450 = 6610 against a topics hard threshold of 4000, so about 2600 words of non-duplicated material would have to go. The pages are also declared companions: the topic calls the concept its "companion concept page" that distils the limits as channel invariants, and the concept defers "the fuller" treatment to the topic. Role-distinct hub and spoke.
+- **Pair 2**: `concepts/delegatory-causation` (3496) + `concepts/observational-closure` (2627). 303 shared 5-grams (12.9%), the Saad default-causal-profile passage. 6123 - 303 = 5820 against a concepts hard threshold of 3500. One page is Saad's mechanism, the other the general empirical-versus-metaphysical closure distinction, which cites delegation as one route among several.
+- **Pair 3**: `concepts/philosophy-of-time` (3407) + `topics/time-collapse-and-agency` (4601). 394 shared 5-grams (12.5%), the presentism/eternalism/growing-block survey. 8008 - 394 = 7614 against 4000. Survey page and Map-specific application; each links the other for the part it omits.
+- **Also checked**: `voids/mattering-void` + `voids/relevance-void`, the closest same-section voids pair (132 shared 5-grams, 6.5%): 4611 - 132 = 4479 against a voids hard threshold of 3000, and the mattering page treats relevance as a distinct face.
+- **Affordable side**: 305 pairs have a raw sum under the best-case hard threshold. The best of them by overlap is `concepts/timing-gap-problem` + `topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question` at 54 shared 5-grams (3.5%), and that shared run is the Minimal Quantum Interaction tenet cross-reference sentence plus video-embed markup. Every other affordable pair shares 13 or fewer 5-grams. No argument overlap.
+- **Not reached**: the age-floor, open-task and prior-review checks were not run, because no pair passed the affordability and overlap gates.
+- **Section counts**: unchanged (no slot freed).
+- **References to review**: none
 
 ## 2026-11-11T20:35:45+00:00 - refine-draft
 - **Status**: Success
