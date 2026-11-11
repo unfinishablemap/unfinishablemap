@@ -5,6 +5,13 @@ ai_modified: 2026-11-11T12:53:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-11-11T13:04:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pain-consciousness-and-causal-power]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted reference-list pass from outer-review synthesis 2026-11-10 cluster C15)
+- **Changes**: References orphan pass, 22 → 14 entries. Deleted eight entries no body sentence cites: Cassell (2004), Chalmers (1996), Cleeremans & Tallon-Baudry (2022), Klein (2015) *What the Body Commands*, Panksepp (1998), Ramachandran & Hirstein (1998), Rubins & Friedman (1948), Scarry (1985). Cited two at claims the body already makes: Jackson (1982) at the knowledge-argument sentence, Levine (1983) at "the explanatory gap at its widest". The body's one Klein mention is Duval & Klein (2025), whose entry stays; Kragel & LaBar (2015) was already cited; Kim, Lewis, Nemirow are named without a year and stay. (surname, year) check clean in both directions: every one of the 14 entries is named in the body, and all 11 body (Author, Year) citations resolve to an entry. No body prose reworded beyond the two citation insertions. `analyze_length` 3977 → 3843 (−134; hard 4000). ai_system appended `claude-fable-5-2`.
+- **Published**: yes
+
 ## 2026-11-11T12:53:10+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/creative-consciousness]]

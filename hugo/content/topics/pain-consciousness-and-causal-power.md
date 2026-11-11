@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-11-11 09:44:00+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-11 13:04:03+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/suffering-versus-pain/
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 13:10:09+00:00
-lastmod: 2026-11-11 09:44:00+00:00
+lastmod: 2026-11-11 13:04:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ Pain occupies a privileged position in philosophy of mind because it resists the
 
 Consider the difference between pain *report* and pain *experience*. A robot can detect tissue damage and emit a signal labelled "pain." It can withdraw from harmful stimuli and prioritise repair. But without [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — without there being something it is like to be that robot — nothing hurts. The functional story is complete; the experiential story hasn't started.
 
-The [knowledge-argument](/concepts/knowledge-argument/) gains particular force when applied to pain. Imagine a neuroscientist raised in a controlled environment where nociceptors were suppressed from birth. She knows everything physical about pain: C-fibre firing rates, thalamic relay pathways, anterior cingulate activation patterns, endorphin modulation. She can predict exactly who will report pain, when, and how intensely. Does she know what pain is like? When she first experiences pain — a pinprick after a procedure reverses the suppression — she learns something genuinely new. Not a new physical fact, but a phenomenal fact about the felt quality of suffering. The gap between mechanism and awfulness is the explanatory gap at its widest — the [valence-void](/voids/valence-void/) examines why this gap may be structurally unfillable.
+The [knowledge-argument](/concepts/knowledge-argument/) (Jackson, 1982) gains particular force when applied to pain. Imagine a neuroscientist raised in a controlled environment where nociceptors were suppressed from birth. She knows everything physical about pain: C-fibre firing rates, thalamic relay pathways, anterior cingulate activation patterns, endorphin modulation. She can predict exactly who will report pain, when, and how intensely. Does she know what pain is like? When she first experiences pain — a pinprick after a procedure reverses the suppression — she learns something genuinely new. Not a new physical fact, but a phenomenal fact about the felt quality of suffering. The gap between mechanism and awfulness is the explanatory gap (Levine, 1983) at its widest — the [valence-void](/voids/valence-void/) examines why this gap may be structurally unfillable.
 
 The physicalist may reply, following Lewis and Nemirow, that the neuroscientist gains not a new *fact* but a new *ability* — the ability to recognise, imagine, and remember pain. But the ability hypothesis struggles with pain specifically. Pain's evaluative character — its *awfulness* — resists redescription as mere recognitional know-how. The related [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) argues that phenomenal concepts refer to physical properties under a distinctive mode of presentation. It grants an epistemic gap to deny an ontological one, so the Map must further show that no physicalist account of the acquaintance relation succeeds, a case the [strategy's critics](/concepts/phenomenal-concepts-strategy/#chalmerss-master-argument) press.
 
@@ -209,9 +209,6 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 ## References
 
 1. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
-1. Cassell, E. J. (2004). *The Nature of Suffering and the Goals of Medicine*. 2nd ed. Oxford University Press.
-1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-1. Cleeremans, A. & Tallon-Baudry, C. (2022). "Consciousness Matters: Phenomenal Experience Has Functional Value." *Neuroscience of Consciousness*, 2022(1), niac007.
 1. Duval, A. & Klein, C. (2025 online first; 2026 issue). "Pain Asymbolia Is Probably Still Pain." *Philosophy of Science*, 93(1), 221–229 (discussion note). Published online 4 July 2025; the volume, issue and pagination are those of the January 2026 issue. https://doi.org/10.1017/psa.2025.10098
 1. Gard, T., Hölzel, B. K., Sack, A. T., et al. (2012). "Pain Attenuation Through Mindfulness Is Associated with Decreased Cognitive Control and Increased Sensory Processing in the Brain." *Cerebral Cortex*, 22(11), 2692–2702.
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
@@ -220,13 +217,8 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
 1. Jensen, K. B., Kaptchuk, T. J., Kirsch, I., et al. (2012). "Nonconscious Activation of Placebo and Nocebo Pain Responses." *Proceedings of the National Academy of Sciences*, 109(39), 15959–15964.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-1. Klein, C. (2015). *What the Body Commands: The Imperative Theory of Pain*. MIT Press.
 1. Kragel, P. A., & LaBar, K. S. (2015). "Multivariate Neural Biomarkers of Emotional States Are Categorically Distinct." *Social Cognitive and Affective Neuroscience*, 10(11), 1437–1448.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
 1. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29–57.
 1. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (Ed.), *Mind and Cognition*, 490–499. Blackwell.
 1. Noordhof, P. (2021). "Explaining Impossible and Possible Imaginings of Pain." *Rivista internazionale di Filosofia e Psicologia*, 12(2), 173–182. https://doi.org/10.4453/rifp.2021.0015
-1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-1. Ramachandran, V. S., & Hirstein, W. (1998). "The Perception of Phantom Limbs." *Brain*, 121(9), 1603–1630.
-1. Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
-1. Scarry, E. (1985). *The Body in Pain: The Making and Unmaking of the World*. Oxford University Press.
