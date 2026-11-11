@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11 16:34:13+00:00
+ai_modified: 2026-11-11 17:28:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-11'
-lastmod: 2026-11-11 16:34:13+00:00
+lastmod: 2026-11-11 17:28:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-11T17:28:36+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [time-bias-and-thank-goodness-thats-over](/topics/time-bias-and-thank-goodness-thats-over/) (first pessimistic review; zero slug hits across 656 pessimistic review files by content; unchanged since its 2026-09-28 deep review; 2,542 words, headroom 1,457 to topics hard 4,000)
+- **Findings**: 2 high, 2 medium. (1) L63 reports Latham et al. 2022 by its title alone, omitting the paper's simulation finding and the same authors' Synthese 2022 test of the phenomenology hypothesis (verified at source). (2) L77 "Both sides accept this" turns Mellor's tensed-belief concession into an agreed phenomenal datum. (3) L89 No Many Worlds paragraph overstates "Relief presupposes a single settled past" and omits the self-locating reply the hospital case models. (4) L87 growing-block account relies on the dead-past premise whose cost the linked article states.
+- **Tasks**: 1 minted (P2 refine-draft, all four items); parse_tasks active 388 → 389
+- **Output**: [pessimistic-2026-11-11-time-bias-and-thank-goodness-thats-over](/reviews/pessimistic-2026-11-11-time-bias-and-thank-goodness-thats-over/)
 
 ## 2026-11-11T16:34:13+00:00 - refine-draft
 - **Status**: Success
