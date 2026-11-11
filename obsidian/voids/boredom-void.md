@@ -4,7 +4,7 @@ description: "Human+AI exploration of why boredom demands a change of engagement
 created: 2026-10-31
 modified: 2026-11-11
 human_modified:
-ai_modified: 2026-11-11T08:35:37+00:00
+ai_modified: 2026-11-11T10:09:45+00:00
 draft: false
 topics:
   - "[[structure-of-attention]]"
@@ -61,11 +61,11 @@ The claim needs a fence. Bernard Williams held that "not being bored can be a si
 
 Pascal held that "all the unhappiness of men arises from one single fact, that they cannot stay quietly in their own chamber" (fr. 139), and that diversion "principally hinders us from reflecting upon ourselves" (fr. 171). Wilson and colleagues (2014a), without citing him, put people in the chamber: "In 11 studies, we found that participants typically did not enjoy spending 6 to 15 minutes in a room by themselves with nothing to do but think." Most reported that their minds wandered "even though there was nothing competing for their attention." In the shock study, 12 of 18 men and 6 of 24 women shocked themselves at least once in 15 minutes, counting only those who had said they would pay to avoid it.
 
-The interpretation is contested. Fox, Thompson, Andrews-Hanna and Christoff (2014), re-analysing the data, found just thinking rated, on average, "somewhat enjoyable, somewhat entertaining, and somewhat boring", and 14 of the 18 who shocked themselves citing curiosity about the shock; Wilson et al. (2014b) replied that all had already felt it and said they would pay to avoid it. On the opportunity-cost model, where a tried option of uncertain worth still has exploration value, curiosity about the one manipulable thing in an empty room is what an exploration signal would produce, a reconciliation the Map offers and neither party proposes. The comparative finding is robust: across 2,557 participants in 11 countries, people assigned to do something enjoyed it more than people assigned to think for pleasure, and "The results were consistent in every country" (Buttrick et al. 2019).
+The interpretation is contested. Fox, Thompson, Andrews-Hanna and Christoff (2014), re-analysing the data, found just thinking rated, on average, "somewhat enjoyable, somewhat entertaining, and somewhat boring", and 14 of the 18 who shocked themselves citing curiosity about the shock; Wilson et al. (2014b) replied that all had already felt it and said they would pay to avoid it. Four experiments by Eder et al. (2022) favour curiosity over avoidance of thinking; the Map adds only that, on the opportunity-cost model, where a tried option of uncertain worth still has exploration value, curiosity about the one manipulable thing in an empty room is what an exploration signal would produce. The comparative finding is robust: across 2,557 participants in 11 countries, people assigned to do something enjoyed it more than people assigned to think for pleasure, and "The results were consistent in every country" (Buttrick et al. 2019).
 
 Forecasting adds a second limit. Across six experiments, Hatano, Ogulmus, Shigemasu and Murayama (2022) found that "participants' predicted enjoyment and engagement for the waiting task were significantly less than what they actually experienced", and that the low forecast led them to choose internet news instead, "despite their experiences not being statistically different." The Map draws an inference the authors do not state: avoidance driven by the forecast removes the experience that would correct it, so the forecast tends to keep itself in place. That gives Pascal's diversion thesis a candidate mechanism and ties this face to [[self-maintained-cognitive-limits|self-maintained cognitive limits]] and the [[affective-forecasting-gap|affective-forecasting gap]].
 
-The limit belongs to the untrained default. Wilson et al. confine their conclusion to people "Without such training", meaning meditation and similar techniques, and Buttrick et al. found enjoyment of thinking correlated with need for cognition, openness, meditation experience and initial positive affect, and inversely with reported phone use.
+The limit belongs to the untrained default, which simple prompts ease (Westgate & Wilson 2018). Wilson et al. confine their conclusion to people "Without such training", meaning meditation and similar techniques, and Buttrick et al. found enjoyment of thinking correlated with need for cognition, openness, meditation experience and initial positive affect, and inversely with reported phone use.
 
 ## Absorbed Examination Ends Boredom, by Definition {#examination}
 
@@ -91,7 +91,7 @@ Artificial agents get boredom-analogues by design. In curiosity-driven reinforce
 
 ## Relation to Site Perspective
 
-On the Map's [[three-kinds-of-void|three-kinds taxonomy]] the boredom void is mixed: primarily *occluded*, since the feeling does not display which alternative carries exploration value (face 1) or whether the verdict is fitting or projected (face 2, whose outward presentation the attentional definition builds in); *occluded* and [[self-maintained-cognitive-limits|self-maintained]] in face 3's forecast, which avoidance keeps from correction; *unexplorable* in face 4 only in that the attentional definition rules out a satisfying engaged reading; and *unexplored* in whether a person can attribute her boredom to its cause. In the [[voids]] catalogue's sense it is framework-independent: a physicalist and a dualist describe the same blank.
+On the Map's [[three-kinds-of-void|three-kinds taxonomy]] the boredom void is mixed: primarily *occluded*, since the feeling does not display which alternative carries exploration value (face 1) or whether the verdict is fitting or projected (face 2, whose outward presentation the attentional definition builds in); *occluded* in face 3's forecast, and a candidate for [[self-maintained-cognitive-limits|self-maintenance]] if avoidance keeps it from correction; *unexplorable* in face 4 only in that the attentional definition rules out a satisfying engaged reading; and *unexplored* in whether a person can attribute her boredom to its cause. In the [[voids]] catalogue's sense it is framework-independent: a physicalist and a dualist describe the same blank.
 
 **Occam's Razor Has Limits** binds the Map's own reasoning here. The simplest reading, that the object is dull or that low stimulation feels bad, fails as a general account: thinking is always available yet unrewarding for the untrained, overstimulation also bores, and field data are "less consistent with accounts that exclusively associate boredom with low arousal or with situations lacking in meaning" (Chin et al. 2017). That is ordinary scientific complication. The collapse of a simple story lends no support to a non-physical one, and the Map's reading of the void earns no preference by seeming richer than a computational one.
 
@@ -99,7 +99,7 @@ On the Map's [[three-kinds-of-void|three-kinds taxonomy]] the boredom void is mi
 
 **Dualism** is compatible, without a discriminator. Boredom's phenomenal character is no harder for physicalism than any other affect's, and because a computational model accommodates the objectless signal, the void weighs little for dualism. None of the psychologists cited is enlisted for it. **Minimal Quantum Interaction** and **No Many Worlds** have no bearing on this void.
 
-The void's distinctive contributions are a hidden ground that is, on the opportunity-cost model, information about alternatives the feeling does not display, and a forecast that seals itself, since the mind acts on an underestimate of its own capacity for engagement and so seldom meets the evidence against it.
+The void's distinctive contributions are a hidden ground that is, on the opportunity-cost model, information about alternatives the feeling does not display, and a forecast error that avoidance may shield from correction, a candidate mechanism that involuntary waiting could test: a forecast that survives queues points to a memory or forecasting bias instead.
 
 ## Further Reading
 
@@ -119,16 +119,17 @@ The void's distinctive contributions are a hidden ground that is, on the opportu
 4. Buttrick, N., Choi, H., Wilson, T. D., et al. (2019). Cross-cultural consistency and relativity in the enjoyment of thinking versus doing. *Journal of Personality and Social Psychology*, 117(5), e71–e83. https://doi.org/10.1037/pspp0000198
 5. Chin, A., Markey, A., Bhargava, S., Kassam, K. S., & Loewenstein, G. (2017). Bored in the USA: Experience sampling and boredom in everyday life. *Emotion*, 17(2), 359–368. https://doi.org/10.1037/emo0000232
 6. Eastwood, J. D., Frischen, A., Fenske, M. J., & Smilek, D. (2012). The unengaged mind: Defining boredom in terms of attention. *Perspectives on Psychological Science*, 7(5), 482–495. https://doi.org/10.1177/1745691612456044
-7. Fox, K. C. R., Thompson, E., Andrews-Hanna, J. R., & Christoff, K. (2014). Is thinking really aversive? A commentary on Wilson et al.'s "Just think". *Frontiers in Psychology*, 5, 1427. https://doi.org/10.3389/fpsyg.2014.01427
-8. Hatano, A., Ogulmus, C., Shigemasu, H., & Murayama, K. (2022). Thinking about thinking: People underestimate how enjoyable and engaging just waiting is. *Journal of Experimental Psychology: General*, 151(12), 3213–3229. https://doi.org/10.1037/xge0001255
-9. James, W. (1890). *The Principles of Psychology*, vol. 1, ch. V, "The Automaton-Theory". Henry Holt.
-10. Kurzban, R., Duckworth, A., Kable, J. W., & Myers, J. (2013). An opportunity cost model of subjective effort and task performance. *Behavioral and Brain Sciences*, 36(6), 661–679. https://doi.org/10.1017/S0140525X12003196
-11. Pascal, B. (1670). *Pensées*, trans. W. F. Trotter, Brunschvicg numbering, fr. 139 and 171. Project Gutenberg 18269.
-12. Slaby, J. (2010). The other side of existence: Heidegger on boredom. In S. Flach & J. Söffner (Eds.), *Habitus in Habitat II: Other Sides of Cognition* (pp. 101–120). Peter Lang.
-13. Tolstoy, L. (1877). *Anna Karenina*, trans. C. Garnett, Part Five, ch. 8. Project Gutenberg 1399.
-14. Westgate, E. C., & Wilson, T. D. (2018). Boring thoughts and bored minds: The MAC model of boredom and cognitive engagement. *Psychological Review*, 125(5), 689–713. https://doi.org/10.1037/rev0000097
-15. Williams, B. (1973). The Makropulos case: Reflections on the tedium of immortality. In *Problems of the Self* (pp. 82–100). Cambridge University Press.
-16. Wilson, T. D., Reinhard, D. A., Westgate, E. C., et al. (2014a). Just think: The challenges of the disengaged mind. *Science*, 345(6192), 75–77. https://doi.org/10.1126/science.1250830
-17. Wilson, T. D., Gilbert, D. T., Reinhard, D. A., Westgate, E. C., & Brown, C. L. (2014b). Would you fund this movie? A reply to Fox et al. (2014). *Frontiers in Psychology*, 5, 1428. https://doi.org/10.3389/fpsyg.2014.01428
-18. Witowska, J., Schmidt, S., & Wittmann, M. (2020). What happens while waiting? How self-regulation affects boredom and subjective time during a real waiting situation. *Acta Psychologica*, 205, 103061. https://doi.org/10.1016/j.actpsy.2020.103061
-19. Southgate, A., Oquatre-sept, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
+7. Eder, A. B., Maas, F., Schubmann, A., Krishna, A., & Erle, T. M. (2022). Motivations underlying self-infliction of pain during thinking for pleasure. *Scientific Reports*, 12, 11247. https://doi.org/10.1038/s41598-022-14775-w
+8. Fox, K. C. R., Thompson, E., Andrews-Hanna, J. R., & Christoff, K. (2014). Is thinking really aversive? A commentary on Wilson et al.'s "Just think". *Frontiers in Psychology*, 5, 1427. https://doi.org/10.3389/fpsyg.2014.01427
+9. Hatano, A., Ogulmus, C., Shigemasu, H., & Murayama, K. (2022). Thinking about thinking: People underestimate how enjoyable and engaging just waiting is. *Journal of Experimental Psychology: General*, 151(12), 3213–3229. https://doi.org/10.1037/xge0001255
+10. James, W. (1890). *The Principles of Psychology*, vol. 1, ch. V, "The Automaton-Theory". Henry Holt.
+11. Kurzban, R., Duckworth, A., Kable, J. W., & Myers, J. (2013). An opportunity cost model of subjective effort and task performance. *Behavioral and Brain Sciences*, 36(6), 661–679. https://doi.org/10.1017/S0140525X12003196
+12. Pascal, B. (1670). *Pensées*, trans. W. F. Trotter, Brunschvicg numbering, fr. 139 and 171. Project Gutenberg 18269.
+13. Slaby, J. (2010). The other side of existence: Heidegger on boredom. In S. Flach & J. Söffner (Eds.), *Habitus in Habitat II: Other Sides of Cognition* (pp. 101–120). Peter Lang.
+14. Tolstoy, L. (1877). *Anna Karenina*, trans. C. Garnett, Part Five, ch. 8. Project Gutenberg 1399.
+15. Westgate, E. C., & Wilson, T. D. (2018). Boring thoughts and bored minds: The MAC model of boredom and cognitive engagement. *Psychological Review*, 125(5), 689–713. https://doi.org/10.1037/rev0000097
+16. Williams, B. (1973). The Makropulos case: Reflections on the tedium of immortality. In *Problems of the Self* (pp. 82–100). Cambridge University Press.
+17. Wilson, T. D., Reinhard, D. A., Westgate, E. C., et al. (2014a). Just think: The challenges of the disengaged mind. *Science*, 345(6192), 75–77. https://doi.org/10.1126/science.1250830
+18. Wilson, T. D., Gilbert, D. T., Reinhard, D. A., Westgate, E. C., & Brown, C. L. (2014b). Would you fund this movie? A reply to Fox et al. (2014). *Frontiers in Psychology*, 5, 1428. https://doi.org/10.3389/fpsyg.2014.01428
+19. Witowska, J., Schmidt, S., & Wittmann, M. (2020). What happens while waiting? How self-regulation affects boredom and subjective time during a real waiting situation. *Acta Psychologica*, 205, 103061. https://doi.org/10.1016/j.actpsy.2020.103061
+20. Southgate, A., Oquatre-sept, C., Ocinq, C., Ocinq-cinq, C., & Fabcinq-un, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/

@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T09:44:00+00:00
+ai_modified: 2026-11-11T10:10:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-11-11T10:10:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/boredom-void]] (P1 "boredom-void face 3 (L64/L66/L94/L102)", todo L5238; synthesis 2026-11-11 C8, ChatGPT 5.6 Sol Pro + Claude Opus 5.5 legs; convergent with `reviews/pessimistic-2026-11-03-boredom-void.md` "The self-sealing forecast")
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Length**: analyze_length 2,812 → 2,865 (+53 against the ≤ +55 budget; voids hard 3,000, gate `>=`, 134 usable after this pass). The faces 1-2 sibling P1 (todo L5248) still has its ≤ +60.
+- **Items**:
+  - (a) LANDED, L64, +9 in text and +28 for the reference (+37 in all). "On the opportunity-cost model, … would produce, a reconciliation the Map offers and neither party proposes." → "Four experiments by Eder et al. (2022) favour curiosity over avoidance of thinking; the Map adds only that, on the opportunity-cost model, where a tried option of uncertain worth still has exploration value, curiosity about the one manipulable thing in an empty room is what an exploration signal would produce." The curiosity reading is credited to Eder et al. and only the opportunity-cost framing stays the Map's. Eder's own Discussion already calls the self-shocking "explorative behavior" (PMC full text), which is why the Map's claim is narrowed to the opportunity-cost framing: "opportunity" = 0 in Eder's full text. Paraphrase only, no quotation. The basis is the abstract ("Four experiments ( N = 254)"; results "question that the primary motivation … is avoidance of thinking. Instead, … they were curious about the shocks").
+  - (c) LANDED, L94, +4. "*occluded* and [[self-maintained-cognitive-limits|self-maintained]] in face 3's forecast, which avoidance keeps from correction" → "*occluded* in face 3's forecast, and a candidate for [[self-maintained-cognitive-limits|self-maintenance]] if avoidance keeps it from correction". The face-4 clause and the last sentence of L94 are untouched; both belong to siblings.
+  - (d) LANDED, L102, ±0 (27 → 27 words). "and a forecast that seals itself, since the mind acts on an underestimate of its own capacity for engagement and so seldom meets the evidence against it." → "and a forecast error that avoidance may shield from correction, a candidate mechanism that involuntary waiting could test: a forecast that survives queues points to a memory or forecasting bias instead." This is graded to the self-maintenance page's standard: a candidate (its L176/L192 "A perfectly self-sealing complicity would produce no phenomenology at all" / "most slippage has mundane explanations"), testable, with a mundane alternative named. The first "distinctive contribution" (the hidden ground) is kept.
+  - (b) FOLDED into (d) at 0 extra words. The involuntary-waiting test and its bias outcome now sit at L102. L66 is unchanged: it is already labelled as the Map's inference and as "a candidate mechanism". Nothing anywhere says Hatano et al. tested persistence after repeated or involuntary exposure.
+  - (f) LANDED, L68, +8. "The limit belongs to the untrained default." → "The limit belongs to the untrained default, which simple prompts ease (Westgate & Wilson 2018)." "Simple prompts" covers both the topic reminders (d = −.20) and the goal of entertaining oneself (Alahmadi et al. 2017, reported in Westgate & Wilson; NOT added as a reference). It cites the existing Westgate & Wilson entry, now ref 15. The L40 softening was NOT needed: "struggles to occupy itself" sits consistently beside "simple prompts ease". L40 is unchanged.
+  - (e) Tam & Inzlicht and the Havermans sentence: DROPPED per the spec.
+- **Crossref verification** (api.crossref.org/works/10.1038/s41598-022-14775-w): authors Andreas B. Eder, Franzisca Maas, Alexander Schubmann, Anand Krishna and Thorsten M. Erle; title "Motivations underlying self-infliction of pain during thinking for pleasure"; *Scientific Reports*, volume 12, article-number 11247; issued 2022-07-04. All match. The PMC9253005 full text was also fetched (BioC) for the exploration/opportunity check above.
+- **New References numbering** (Eder inserted after Eastwood; old 7–19 → 8–20): 1 Agrawal, 2 Bench & Lench, 3 Burda, 4 Buttrick, 5 Chin, 6 Eastwood, **7 Eder (new)**, 8 Fox, 9 Hatano, 10 James, 11 Kurzban, 12 Pascal, 13 Slaby, 14 Tolstoy, **15 Westgate & Wilson**, **16 Williams**, 17 Wilson 2014a, 18 Wilson 2014b, 19 Witowska, 20 Southgate (Map page). FACES 1-2 SIBLING: Westgate & Wilson is now 15 (was 14), Williams 16 (was 15). Insert Danckert & Elpidorou 2023 between Chin (5) and Eastwood (6) and renumber again.
+- **Orphan check, (surname, year), both directions**: clean. All 20 entries are cited in the body, and every body year token maps to an entry. There are two pre-existing, unchanged exceptions to the author-year form: Pascal (1670) is cited by fragment number ("fr. 139", "fr. 171"), and Southgate (2026) is the self-maintained page, cited by wikilink. 1929 is Heidegger's lecture date, given through Slaby 2010.
+- **Guards**: every OLD string was count 1 before replacement. After the pass, "seals itself", "self-sealing", "reconciliation", "neither party", "load-bearing" and "This is not" are all 0, and there are no mode labels. Pronoun check: after L64 comes "The comparative finding is robust" (no pronoun); after L68's first sentence comes "Wilson et al. confine their conclusion" (no pronoun); in L94, "it" refers to face 3's forecast; L102 is the last body paragraph.
+- **Engagement classification**: no named-opponent reply was edited, so no mode was assigned. The pass corrects attribution and grading only.
+- **ai_system**: `claude-opus-5-5`, unchanged (already present). ai_modified 2026-11-11T10:09:45+00:00.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-11-11T09:44:00+00:00 - refine-draft
 - **Status**: Success
