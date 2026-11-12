@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T19:34:33+00:00
+ai_modified: 2026-11-12T19:55:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T19:55:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/neuroplasticity]]
+- **Selection**: selector's next candidate after the driver-excluded top pick (score 77, 119 days since review; body changed by three passes since); eighth review of the slug
+- **Word count**: 2666 → 2943 (+277; concepts hard 3,500, gate >=; ~75 of the added words are two new reference entries and a restored subtitle)
+- **Critical issues addressed**: 7
+  - Kral et al. 2022 was presented as overturning Lazar et al. 2005. Kral tests eight-week MBSR in naïve participants and neither cites nor tests Lazar's cross-sectional long-term-practitioner finding (checked in the Europe PMC full text). The two designs are now separated and the limitations attributed to Kral, scoped to MBSR studies. The 2026-07-16 review had ratified the conflation.
+  - Schwartz et al. 1996 result: the body said metabolism fell in orbitofrontal cortex and caudate; the abstract reports bilateral caudate decreases and weakened orbital–caudate–thalamic correlations. Corrected.
+  - "self-directed neuroplasticity" was credited to the Schwartz–Stapp collaboration; Schwartz, Stapp & Beauregard 2005 (PMC full text) say the term was coined in Schwartz & Begley 2002. Corrected.
+  - Tenet 4 paragraph said Stapp's mechanism has consciousness select one outcome; `tenets.md` and the 2005 paper put the mental choice in Process 1 and leave the outcome to nature. Corrected, and the MWI rejection is now stated as resting on the indexical objection.
+  - Decoherence objection (L119) now carries the authors' reply that decoherence is taken into account in their von Neumann formulation (check c-vi).
+  - Calibration: lead ("demonstrates", "creates problems for epiphenomenalism"), tenet-section opener ("provides empirical support") and the Dualism entry ("becomes coincidental") brought to the grade of the page's own L138 symmetry paragraph.
+  - Stale gloss: L97 and L138 cited `mental-effort` for a phenomenology-tracking argument the live page no longer makes (it documents the felt sense detaching). Reworded at both loci.
+- **Medium issues addressed**: 3 (unsupported "cannot fully substitute" removed; "the general principle stands" → working hypothesis; Further Reading label drops "converging")
+- **Enhancements made**: 4 (four reference orphans given inline cites; Baxter et al. 1992 and Rajan et al. 2019 added after PubMed verification; Goyal 2014 wording and venue tightened to the abstract; SSB 2005 subtitle restored)
+- **Citation ledger**: 11 PubMed abstracts and two full texts fetched; Schwartz & Begley 2002 not obtained. Per-cite states in the review file.
+- **Reasoning modes** (editor-internal): epiphenomenalist: Mode Two with residue, Dualism entry corrected from boundary-substitution to parity; identity theorist/functionalist: Mode Two; materialist: Mode Three; decoherence objection: objection plus reply, no claim the reply succeeds.
+- **Follow-ups listed, not edited**: Lazar/Kral conflation on three other pages; "same right-caudate decrease" wording on the clinical page; tracking phrase on the sham-neurofeedback page; low items on this page (L150 energy/conservation attribution, uncited gamma synchrony).
+- **Output**: [[reviews/deep-review-2026-11-12-neuroplasticity]]
 
 ## 2026-11-12T19:34:33+00:00 - refine-draft
 - **Status**: Success
