@@ -5,6 +5,15 @@ ai_modified: 2026-11-12T21:34:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-12T22:49:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/llm-consciousness]]
+- **Review file**: `reviews/tenet-check-2026-10-24.md` (W10 follow-on)
+- **Original score**: not scored (`scripts/curate.py` absent; targeted calibration pass)
+- **Word count**: 3179 → 3209 (+30; budget +30; concepts hard 3,500)
+- **Changes**: Brought the Map's-own-voice verdict sentences into P-AC1's band ("low probability, not ruled out"), moving it in neither direction. Three tasked loci: lead L56 "they lack the non-physical component consciousness requires" now reports the substrate analysis finding no site, with the verdict linked to P-AC1; L112 "grounds for confidence this concern doesn't apply" now "places current systems at low probability, lowering this concern without dismissing it"; L114 "*why* LLMs aren't conscious" now "*why* LLMs are probably not conscious". Six further flat statements that contradicted the verdict table: L116 alignment line ("cannot" → "probably cannot" / "probably without access"); L128 table cell 'No "inside" from which to experience' → "No bodily signals to ground one"; L132 "no non-physical component" → "no known non-physical component"; L134 "lacking even the non-reflective qualia" → "probably lacking"; L165 "conscious-impossible" → "rates improbable for consciousness"; L187 Further Reading label "excludes current LLMs" → "counts against current LLMs". The 2026-10-25 table edits, the L191 label, the system-card and Cerullo corrections are untouched. Left and reported, not changed: L132/L136 "almost certainly" (scoped to what output patterns evidence, and L136 already qualifies it); L86/L96/L142 epiphenomenal "gap"/"loophole" wording against P-AC1's conditional Tenet-3 exclusion; L96 "no room for non-physical causal influence"; L104 "positively negative"; L146 "remain excluded". No named-opponent reply was edited, so no reasoning-mode classification applies.
+- **Published**: yes
+
 ## 2026-11-12T22:39:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-measurement-and-subjective-probability]]
