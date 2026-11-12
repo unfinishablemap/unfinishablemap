@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 13:21:41+00:00
+ai_modified: 2026-11-12 13:39:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 13:21:41+00:00
+lastmod: 2026-11-12 13:39:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T13:39:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/)
+- **Selection**: selector's first pick (topics/self-observation-and-the-moments-of-selection) was created today and is the File of an open task; this was the next candidate (score 76, last reviewed 2026-07-28, biocentrism section added 2026-09-05 and never deep-reviewed here).
+- **Word count**: 3831 → 3853 (+22; hard 4000)
+- **Critical issues addressed**: 3 (cross-cultural paragraph claimed "no common textual lineage" against [P-D3](/positions/arguments-for-dualism/#p-d3) near-independence; Tenet 2 stated as "smallest possible scale"; Tenet 4 rationale stated as "moral stakes require a single actualised outcome")
+- **Medium issues addressed**: 3 (beneficence bridge credited to Goodpaster as Attfield himself credits it; Lee 2025 independence claim narrowed to what he argues; "exclusively" residue of the de-quoted rasa sentence removed)
+- **Enhancements made**: 0
+- **Quotations**: 13 Taylor 1981 strings and the Leopold sentence verified verbatim against fetched full text; Attfield 1987 and Lee 2025 paraphrases verified against publisher full text. Not re-fetched: Varner 1998/2012 stance, Taylor 1986 ch. 6, the two declarations (verified at source 2026-07-28), Rolston, Næss.
+- **Engagement classification**: Taylor: Mixed (boundary-marking on the ultimate attitude, unsupported-move identification on benefit); Attfield: Mode Two on his own concession; Rolston and Næss unchanged.
+- **Output**: [deep-review-2026-11-12-phenomenal-normativity-environmental-ethics](/reviews/deep-review-2026-11-12-phenomenal-normativity-environmental-ethics/)
 
 ## 2026-11-12T13:21:41+00:00 - refine-draft
 - **Status**: Success
