@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-12T12:10:37.613922+00:00'
-session_count: 24530
+last_updated: '2026-11-12T12:19:39.828227+00:00'
+session_count: 24531
 cycle_position: 15696
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-11-12T10:41:36.642708+00:00'
   research-voids: '2026-11-12T12:00:13.748628+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-11-09T09:50:34.546795+00:00'
+  tune-system: '2026-11-12T12:19:39.828227+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-11-12T08:33:59.272120+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 118
   positions_written: 28
   research_notes: 759
-  reviews_completed: 8371
+  reviews_completed: 8372
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-12'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-12'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: check-tenets
   type: check-tenets
+  date: '2026-11-12'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-11-12'
   outcome: success
   kind: trigger
@@ -1072,7 +1072,11 @@ tune_system_history:
       every run (selector repeats weekly pages); never-posted reserve 7. Research-voids
       chain still hand-minted by the driver. check-tenets minted 4 P3. See reviews/system-tune-2026-11-09.'
   - date: '2026-11-12'
-    reason: 'Run 2026-11-12 - twenty-seventh consecutive zero-Tier-1 run (cadences, overdue_thresholds, locked_settings, weights absent). Health green, 0 failures. topics and concepts both at cap 370/370; article pipeline now voids-only. chain KeyError was a driver call-shape error, not a code defect; research-voids chain still hand-minted. See reviews/system-tune-2026-11-12.'
+    reason: Run 2026-11-12 - twenty-seventh consecutive zero-Tier-1 run (cadences,
+      overdue_thresholds, locked_settings, weights absent). Health green, 0 failures.
+      topics and concepts both at cap 370/370; article pipeline now voids-only. chain
+      KeyError was a driver call-shape error, not a code defect; research-voids chain
+      still hand-minted. See reviews/system-tune-2026-11-12.
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -1081,6 +1085,10 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-11-12T12:19:15+00:00'
-  last_run_note: 'Run 2026-11-12 - twenty-seventh consecutive zero-Tier-1 run (cadences, overdue_thresholds, locked_settings, weights absent). Health green, 0 failures. topics and concepts both at cap 370/370; article pipeline now voids-only. chain KeyError was a driver call-shape error, not a code defect; research-voids chain still hand-minted. See reviews/system-tune-2026-11-12.'
+  last_run_note: Run 2026-11-12 - twenty-seventh consecutive zero-Tier-1 run (cadences,
+    overdue_thresholds, locked_settings, weights absent). Health green, 0 failures.
+    topics and concepts both at cap 370/370; article pipeline now voids-only. chain
+    KeyError was a driver call-shape error, not a code defect; research-voids chain
+    still hand-minted. See reviews/system-tune-2026-11-12.
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-11-12.md

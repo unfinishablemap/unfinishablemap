@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-12T12:34:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [correlationism-and-the-ancestrality-argument](/topics/correlationism-and-the-ancestrality-argument/)
+- **Original score**: not scored (`scripts/curate.py` is absent; assessment by full read)
+- **Task**: Adopt idealism calibration (topic-concept anchoring audit 2026-11-12; failed checks hedge_density, underdetermination_markers)
+- **Assessment**: audit flag is a false-high. The anchor's single "underdetermination" match is the regex `empirically equivalent` hitting `concepts/idealism` "Idealism and dualism may seem empirically equivalent" — a sentence the anchor goes on to argue against ("But several considerations suggest possible distinguishing evidence"), so the anchor declares no underdetermination to inherit. The hedge shortfall (2.52 vs 2.61/kw) is under one hedge word; none added. The topic does not adjudicate dualism against idealism; it classifies the Map on Meillassoux's ladder and already states the status of its own posits: Tenet 1 is "a chosen starting point held fallibly", the Map accepts "postulative, hypothetical, and without any foundation in necessity" in place of *speculative*, the placement "rests on Meillassoux's own definitions (2008; 2012), applied by the Map to itself", and locality is "held as a commitment". No underdetermination sentence added.
+- **Changes**: one word in the lead. "The argument lands instead on the views it was built against" became "bears instead on": "lands" read as the Map endorsing the arche-fossil argument's success against transcendental and analytic idealism, which the body does not argue (it reports the reply literature as "largely unpersuaded" and calls the dispute moot for the Map). Net 0 words; `analyze_length` 3571 before and after. No quotation, page locator or 2026-11-12 pessimistic-review repair touched.
+- **Strong assertions read**: "refute it" (lead) and "the first premise falls" are attributed to Meillassoux and Wiltsche; "cannot buy immunity", "It does not, and must not", "It never names" are claims about the Map's own commitments and its sibling article, and stand.
+- **Engagement classification**: unchanged from the 2026-11-12 pessimistic review; no opponent reply edited.
+- **Recommendation**: set `anchoring_audit_exempt: true` on this topic (operator decision) or the audit will re-flag it; the `empirically equivalent` pattern also matches a denial in the anchor.
+- **Published**: yes
+
 ## 2026-11-12T12:19:15+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 20 recent tasks, changelog since 2026-11-09

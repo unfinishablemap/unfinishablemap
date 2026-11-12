@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-11-12 02:39:37+00:00
+ai_modified: 2026-11-12 12:34:01+00:00
 ai_system: claude-fable-5-1+claude-fable-5-2
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[concepts/prebiotic-collapse]]'
@@ -18,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 11:41:48+00:00
-lastmod: 2026-11-12 02:39:37+00:00
+lastmod: 2026-11-12 12:34:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +38,7 @@ topics:
 - '[[the-subject-object-distinction-as-philosophical-discovery]]'
 ---
 
-Quentin Meillassoux's *After Finitude* (2006; English 2008) gives the name *correlationism* to the post-Kantian thesis that thought only ever has access to the correlation between thinking and being, never to either term on its own, and argues that science's statements about a universe older than any consciousness refute it. The Map's minimal-quantum-interaction dualism is not a correlationism in this sense, and the ancestrality argument passes it by. The Map affirms both terms apart: a physical world whose quantum outcomes were fixed by objective mechanisms for billions of years before any mind existed ([prebiotic collapse](/concepts/prebiotic-collapse/)), and a non-physical consciousness that *interacts* with that world at neural indeterminacies rather than *constituting* it. Ancestrality is a premise the Map shares. The argument lands instead on the views it was built against — Kantian and phenomenological transcendental idealism, participatory readings of quantum mechanics, and the consciousness-constitutes-reality idealisms for which the Map's [constitutive exclusion](/topics/constitutive-exclusion/) is sometimes mistaken.
+Quentin Meillassoux's *After Finitude* (2006; English 2008) gives the name *correlationism* to the post-Kantian thesis that thought only ever has access to the correlation between thinking and being, never to either term on its own, and argues that science's statements about a universe older than any consciousness refute it. The Map's minimal-quantum-interaction dualism is not a correlationism in this sense, and the ancestrality argument passes it by. The Map affirms both terms apart: a physical world whose quantum outcomes were fixed by objective mechanisms for billions of years before any mind existed ([prebiotic collapse](/concepts/prebiotic-collapse/)), and a non-physical consciousness that *interacts* with that world at neural indeterminacies rather than *constituting* it. Ancestrality is a premise the Map shares. The argument bears instead on the views it was built against — Kantian and phenomenological transcendental idealism, participatory readings of quantum mechanics, and the consciousness-constitutes-reality idealisms for which the Map's [constitutive exclusion](/topics/constitutive-exclusion/) is sometimes mistaken.
 
 Two qualifications belong in the opening. The placement rests on Meillassoux's own definitions (2008; 2012), applied by the Map to itself; no author in the literature surveyed here classifies an interactionist dualism of this kind, and none connects the ancestrality argument to the quantum measurement problem. And two pressures survive the placement: Brassier's warning that treating the ancestral past as the *only* mind-independent realm makes the emergence of consciousness an "ontological rupture" ([explained below](#brassier)), and Meillassoux's second argument, from facticity, which bears on the constitutive exclusion's second rung wherever that rung is stated as unsurpassable rather than as fallible ([explained below](#second-rung)).
 
