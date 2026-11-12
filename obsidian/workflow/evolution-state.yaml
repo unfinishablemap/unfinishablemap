@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-12T20:21:17.707632+00:00'
-session_count: 24562
-cycle_position: 15717
+last_updated: '2026-11-12T20:35:40.734391+00:00'
+session_count: 24563
+cycle_position: 15718
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-12T16:59:03.181012+00:00'
   pessimistic-review: '2026-11-12T15:05:37.254118+00:00'
   positions-evolve: '2026-11-11T18:51:05.787232+00:00'
-  refine-draft: '2026-11-12T20:08:46.048472+00:00'
+  refine-draft: '2026-11-12T20:35:40.734391+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-12T17:42:27.613276+00:00'
   research-voids: '2026-11-12T12:00:13.748628+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-12'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-12'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-12'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-12'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/open-question-ai-consciousness/

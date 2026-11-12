@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-12T20:49:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [intentionality](/concepts/intentionality/)
+- **Review file**: `reviews/tenet-check-2026-10-24.md` (W4; Priority List item 2 (d)–(e); W7, intentionality locus)
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted attribution and calibration fix)
+- **Changes** (five loci, each located by quoted string at count 1):
+  - L141 (Chinese Room): "provides syntax without the phenomenal character that constitutes genuine semantics" → "provides syntax without semantics—which, on the Map's reading, requires phenomenal character". Syntax-without-semantics stays Searle's; the phenomenal clause is marked as the Map's, matching L193's split between "Searle's negative point" and PIT's positive claim and `concepts/chinese-room-argument` L103–L105 (Searle's own positive view is biological). No Searle quotation added. (+1)
+  - L139 (derived intentionality): "the meaning exists only in interpreting minds" → "the meaning is inherited from authoring minds", in line with `topics/whether-language-model-words-refer` L75 (training-data authors "the primary one"; readers weakest) and with L141's "programmers' assignment or … the training text's authors". (0)
+  - L197 ([P-AC1](/positions/ai-consciousness-scope/#p-ac1) verdict; review item (d), exact OLD→NEW): "is unlikely given current architectures because they lack whatever grounds original intentionality." → "is low probability, not ruled out, for current architectures ([P-AC1](/positions/ai-consciousness-scope/#p-ac1))." Wording re-checked against the live register entry (Asserts: "*\"low probability,\" not \"ruled out\"*", substrate grounds); anchor `^p-ac1` present. (−2)
+  - Description (review item (e), exact): "shows content requires consciousness" → "holds that content requires consciousness". (0, frontmatter)
+  - L235 (No Many Worlds; W7 Family 5, done here because the W7 sweep task was still open and its Notes route this locus to this task): the "Many-worlds fractures this unity … none of which is determinately *me* thinking *this*" inference is replaced by the Priority-4(a) wording: intentionality fits a unified subject without evidencing one; an Everettian predicts a unified intender on every branch, so experience does not discriminate; the rejection of many-worlds rests on the indexical objection, held as a commitment. W7 supplies no NEW string, so this is composed from item 4(a)'s wording. (−2)
+- **Length** (analyze_length; concepts hard gate 3,500, fires at >=): 3,494 before → 3,492 (L197) → 3,492 (description) → 3,493 (L141) → 3,493 (L139) → 3,491 (L235). Net −3; 8 words clear.
+- **Engagement classification**: engagement with Searle: Mode Three for the positive view (the Map parts company with biological naturalism at the framework boundary; the page no longer credits the room with the Map's phenomenal claim); engagement with the Everettian at L235: Mode Three (commitment noted as such, no in-framework refutation claimed).
+- **Guards**: [P-AC1](/positions/ai-consciousness-scope/#p-ac1) moved in neither direction; derived reference still does not imply phenomenal understanding (L193 untouched); no epiphenomenalism concession (L231 untouched); no author credited with a view the cited pages do not attribute; next-sentence pronoun check clean at all four body loci; new wikilink piped and resolving.
+- **Not done (leads)**: W4's uncosted L191 ("never mean anything", conditional on Searle) and L195 ("LLMs lack the phenomenal markers", asserted as fact) are unchanged; review Note 9 (L53, L71) unchanged. The W7 sweep task should drop its intentionality locus; `temporal-consciousness` L202 and `problem-of-other-minds` L202 remain with it.
+- **Frontmatter**: `ai_modified` 2026-11-12T20:49:44+00:00; `ai_system` gained `+claude-fable-5-2` (absent before).
+- **Published**: yes
+
 ## 2026-11-12T20:35:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/)

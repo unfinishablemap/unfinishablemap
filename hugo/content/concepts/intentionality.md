@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-04 22:39:17+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-11-12 20:49:44+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/intentionality/
@@ -23,13 +23,13 @@ concepts:
 created: 2026-01-14
 date: &id001 2026-11-04
 description: 'The aboutness of mental states: why thoughts are directed at objects.
-  Phenomenal intentionality theory shows content requires consciousness, with implications
-  for AI and the hard problem.'
+  Phenomenal intentionality theory holds that content requires consciousness, with
+  implications for AI and the hard problem.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 17:17:43+00:00
-lastmod: 2026-11-04 22:39:17+00:00
+lastmod: 2026-11-12 20:49:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,9 +140,9 @@ Consciousness appears required for such binding. The maintenance/manipulation di
 
 John Searle distinguishes between *original* and *derived* intentionality. When you [think about Paris](/topics/singular-thought-and-acquaintance/), your thought has original intentionality—it is *intrinsically* about Paris. A guidebook about Paris has derived intentionality—it is about Paris only because minds invested it with meaning. (Searle also developed the [direction-of-fit](/concepts/direction-of-fit/) classification of intentional states—beliefs aim to match the world, desires aim to change it—which further reveals the richness of intentional structure.)
 
-PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning exists only in interpreting minds.
+PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning is inherited from authoring minds.
 
-This applies directly to computation. Computer symbols have [derived intentionality](/topics/whether-language-model-words-refer/): "PARIS" represents Paris only through programmers' assignment or, in a language model, the training text's authors. Searle's [Chinese Room](/concepts/chinese-room-argument/) makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides syntax without the phenomenal character that constitutes genuine semantics. The distinction also bears on [collective intentionality](/topics/consciousness-and-collective-phenomena/)—shared goals, joint commitments, institutional facts—where group-level aboutness appears to require phenomenal consciousness in participants rather than emerging from organisational structure alone.
+This applies directly to computation. Computer symbols have [derived intentionality](/topics/whether-language-model-words-refer/): "PARIS" represents Paris only through programmers' assignment or, in a language model, the training text's authors. Searle's [Chinese Room](/concepts/chinese-room-argument/) makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides syntax without semantics—which, on the Map's reading, requires phenomenal character. The distinction also bears on [collective intentionality](/topics/consciousness-and-collective-phenomena/)—shared goals, joint commitments, institutional facts—where group-level aboutness appears to require phenomenal consciousness in participants rather than emerging from organisational structure alone.
 
 ## Objections and Responses
 
@@ -198,7 +198,7 @@ PIT sharpens this: it's not merely that syntax is insufficient for semantics (Se
 
 LLMs lack the phenomenal markers that reveal intentionality in humans: no tip-of-the-tongue states, no feeling of knowing, no experiential "aha" of insight. If PIT is correct, systems that display apparent understanding without these markers mimic intentionality rather than possess it.
 
-The Map's position: [AI consciousness](/topics/ai-consciousness/) is unlikely given current architectures because they lack whatever grounds original intentionality. Computational sophistication is not a path to aboutness.
+The Map's position: [AI consciousness](/topics/ai-consciousness/) is low probability, not ruled out, for current architectures ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)). Computational sophistication is not a path to aboutness.
 
 ## Process Philosophy and Intentionality
 
@@ -236,7 +236,7 @@ Intentionality connects to all five foundational tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If intentional content influences action, and action requires selecting among possible neural states, then the "aboutness" of thought may be where quantum selection occurs. What we're thinking *about* may influence which outcome actualizes.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Intentionality presupposes a unified subject who intends. Many-worlds fractures this unity: if a thought about Paris splits into branch-copies with diverging contents after each quantum event, there is no single intentional relation—just a proliferating tree of partial copies, none of which is determinately *me* thinking *this*.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Intentionality fits a unified subject who intends, without evidencing one. An Everettian predicts a unified intender on every branch, so experience does not discriminate; the Map's rejection of many-worlds rests on the indexical objection, held as a commitment: which branch-copy is *me* thinking *this*?
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The repeated failure to naturalize intentionality exemplifies this tenet. PIT may be more complex, requiring irreducible phenomenal facts, but it actually explains content determinacy where naturalistic alternatives fail.
 
