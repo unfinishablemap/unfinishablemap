@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-31 06:09:45+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-12 15:20:13+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -17,7 +17,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[post-decoherence-selection]]'
 created: 2026-03-10
-date: &id001 2026-10-31
+date: &id001 2026-11-12
 description: At a decision point of genuine indeterminacy the trilemma foregrounds
   three horns—determinism, randomness, mental causation. Human-AI analysis of why
   only directed selection preserves authorship, treated as a heuristic not a complete
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 06:13:05+00:00
-lastmod: 2026-10-31 06:09:45+00:00
+lastmod: 2026-11-12 15:20:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -150,7 +150,7 @@ The trilemma connects to each of the five [tenets](/tenets/):
 - [mental-effort](/concepts/mental-effort/) — Why the felt cost of attention supports genuine causal engagement
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The broader case for consciousness doing causal work
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — How valence provides the common metric for evaluating options
-- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Given Horn 3 (mental causation), delegation provides its causal structure and quantum selection its physical implementation
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — A withdrawn proposal for Horn 3 (mental causation): delegation as causal structure, quantum selection as physical implementation
 - [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — The trilemma secures *that* selection occurs; this worry asks whether ensemble-invisible conscious selection constitutes a channel a physicalist would recognise
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — How consciousness could select among already-decohered outcomes
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — The retrocausal/atemporal Horn-3 route developed: selection as transaction completion outside temporal sequence

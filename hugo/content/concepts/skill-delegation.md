@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-11-11 19:04:25+00:00
+ai_modified: 2026-11-12 15:20:13+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[emergence]]'
 created: 2026-03-20
-date: &id001 2026-03-20
+date: &id001 2026-11-12
 description: Skill delegation is how consciousness trains procedural systems, withdraws
   active control, and retains override capacity—a pattern the Map reads as the structure
   of mind-body interaction.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 12:45:43+00:00
-lastmod: 2026-11-11 19:04:25+00:00
+lastmod: 2026-11-12 15:20:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,7 +146,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness and the phenomenology of automatised skill
 - [agent-causation](/concepts/agent-causation/) — Why skill delegation presupposes a genuine agent as delegator
 - [delegatory-causation](/concepts/delegatory-causation/) — The metaphysical parallel: physical states delegating to consciousness
-- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The unified framework situating skill-delegation as the inverse of causal delegation within quantum selection
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The earlier, since-withdrawn fusion that situated skill-delegation as the inverse of causal delegation within quantum selection
 - [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — Extended analysis of choking as evidence for mental causation
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The calibration discipline these concessions satisfy: the strongest-rival gate on the choking data, and the access/phenomenal distinction on re-engagement
 - [interface-friction](/concepts/interface-friction/) — Where the Map records the concession this article inherits: the choking data redescribe an established motor-control result under a dualist ontology rather than discriminating for it

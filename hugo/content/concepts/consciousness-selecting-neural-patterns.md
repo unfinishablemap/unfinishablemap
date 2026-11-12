@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-04 14:25:20+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-11-12 15:20:13+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/non-retrocausal-conscious-selection/
@@ -24,7 +24,7 @@ concepts:
 - '[[haecceity]]'
 - '[[witness-consciousness]]'
 created: 2026-01-16
-date: &id001 2026-11-04
+date: &id001 2026-11-12
 description: Consciousness selects which quantum possibilities become actual neural
   patterns. Three forward-in-time frameworks — Penrose OR, Stapp Zeno, Chalmers-McQueen
   CSL — show how selection operates at quantum indeterminacies where physics leaves
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:13:22+00:00
-lastmod: 2026-11-04 14:25:20+00:00
+lastmod: 2026-11-12 15:20:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -190,7 +190,7 @@ The Map should not claim selection within Born probabilities constitutes a testa
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — Atemporal selection via transactional interpretation
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — Convergent evidence lines for the selection framework
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — How noise-assisted dynamics scale quantum-level bias to neural effects
-- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — How Saad's causal delegation and quantum selection are mutually completing frameworks
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — A withdrawn fusion of Saad's causal delegation with quantum selection
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — Selection after decoherence removes the coherence requirement
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework selection implements
 

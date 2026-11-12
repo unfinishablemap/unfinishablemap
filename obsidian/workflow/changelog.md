@@ -5,6 +5,17 @@ ai_modified: 2026-11-12T15:04:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-12T15:21:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]] (primary), with [[concepts/mental-causation-and-downward-causation]], [[concepts/consciousness-selecting-neural-patterns]], [[topics/trilemma-of-selection]], [[topics/delegatory-dualism]], [[topics/interventionist-and-counterfactual-dualism]], [[concepts/skill-delegation]]
+- **Original score**: n/a (targeted echo sweep; `scripts/curate.py` absent)
+- **Changes**: Seven pages summarised the withdrawn delegation-quantum fusion as the Map's current view; each now marks it as an earlier proposal withdrawn by the specification programme, with the default-profile-to-Born identification kept as the Map's own candidate reading. Words by analyze_length, before → after: overdetermination-dissolution 3,073 → 3,088 (three loci: the "deeper unity" clause, the "two approaches are compatible / just *is*" paragraph, the Further Reading label; adds a link to the apex); mental-causation-and-downward-causation 3,560 → 3,560 (net 0; already over the 3,500 hard gate before this pass); consciousness-selecting-neural-patterns 3,493 → 3,492; trilemma-of-selection 3,402 → 3,403; delegatory-dualism 3,740 → 3,751 (fusion sentence only); interventionist-and-counterfactual-dualism 3,902 → 3,917; skill-delegation 2,483 → 2,485. No description carried the fusion claim.
+- **interventionist-and-counterfactual-dualism**: "The Map still prefers trumping" could not be rescoped honestly; the page means a full preference, and the apex adopts the difference-making route of quantum selection with trumping logged as a distinct alternative. The sentence now dates the trumping preference as the earlier stance and points at the apex. RESIDUAL, not fixed here: the same preference is the page's premise elsewhere (lead L39 and L41, taxonomy bullet L79 "the Map's preference", L100 "currently prefers", L108, L114 "nothing here forces the Map off trumping", Further Reading L118, and the description's "the Map's trumping route"). That needs its own pass; the 11:07Z Vaassen edits were left untouched.
+- **Saad quotation**: "explaining the possibility of phenomenal-physical causal relations" on `topics/delegation-meets-quantum-selection` VERIFIED verbatim, count 1, in the PMC full text of Saad 2025 (PMC12062107), in the Upward Systematicity passage; the page's gloss of it matches. Page not edited.
+- **Listed only, milder labels still live**: concepts/post-decoherence-selection L126, concepts/entanglement-binding-hypothesis L123, concepts/observational-closure L117, archive/concepts/causal-delegation L111, archive/concepts/preemption L117.
+- **Reasoning modes**: no named-opponent reply was edited; Saad exposition untouched.
+- **Published**: yes
+
 ## 2026-11-12T15:04:21+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/self-observation-and-the-moments-of-selection]] (created today, first review by any lens), with its research note; driver-directed target, reports only

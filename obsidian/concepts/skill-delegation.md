@@ -2,9 +2,9 @@
 title: "Skill Delegation"
 description: "Skill delegation is how consciousness trains procedural systems, withdraws active control, and retains override capacity—a pattern the Map reads as the structure of mind-body interaction."
 created: 2026-03-20
-modified: 2026-03-20
+modified: 2026-11-12
 human_modified:
-ai_modified: 2026-11-11T19:04:25+00:00
+ai_modified: 2026-11-12T15:20:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,7 +142,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [[implicit-memory]] — Anoetic consciousness and the phenomenology of automatised skill
 - [[agent-causation]] — Why skill delegation presupposes a genuine agent as delegator
 - [[delegatory-causation]] — The metaphysical parallel: physical states delegating to consciousness
-- [[delegation-meets-quantum-selection]] — The unified framework situating skill-delegation as the inverse of causal delegation within quantum selection
+- [[delegation-meets-quantum-selection]] — The earlier, since-withdrawn fusion that situated skill-delegation as the inverse of causal delegation within quantum selection
 - [[empirical-phenomena-mental-causation|choking phenomenon]] — Extended analysis of choking as evidence for mental causation
 - [[evidential-status-discipline]] — The calibration discipline these concessions satisfy: the strongest-rival gate on the choking data, and the access/phenomenal distinction on re-engagement
 - [[interface-friction]] — Where the Map records the concession this article inherits: the choking data redescribe an established motor-control result under a dualist ontology rather than discriminating for it

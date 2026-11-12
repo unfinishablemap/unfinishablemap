@@ -2,9 +2,9 @@
 title: "Consciousness-Selecting Neural Patterns"
 description: "Consciousness selects which quantum possibilities become actual neural patterns. Three forward-in-time frameworks — Penrose OR, Stapp Zeno, Chalmers-McQueen CSL — show how selection operates at quantum indeterminacies where physics leaves outcomes open."
 created: 2026-01-16
-modified: 2026-11-04
+modified: 2026-11-12
 human_modified: null
-ai_modified: 2026-11-04T14:25:20+00:00
+ai_modified: 2026-11-12T15:20:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ coalesced_from:
   - "/concepts/non-retrocausal-conscious-selection/"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-15T09:13:22+00:00
@@ -185,7 +185,7 @@ The Map should not claim selection within Born probabilities constitutes a testa
 - [[time-symmetric-selection-mechanism]] — Atemporal selection via transactional interpretation
 - [[empirical-evidence-for-consciousness-selecting]] — Convergent evidence lines for the selection framework
 - [[amplification-mechanisms-consciousness-physics]] — How noise-assisted dynamics scale quantum-level bias to neural effects
-- [[delegation-meets-quantum-selection]] — How Saad's causal delegation and quantum selection are mutually completing frameworks
+- [[delegation-meets-quantum-selection]] — A withdrawn fusion of Saad's causal delegation with quantum selection
 - [[post-decoherence-selection]] — Selection after decoherence removes the coherence requirement
 - [[interactionist-dualism]] — The philosophical framework selection implements
 

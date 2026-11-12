@@ -2,9 +2,9 @@
 title: "Overdetermination Dissolution Under Selection-Only Interactionism"
 description: "How the Map's strictest reading of Tenet 2 dissolves Kim's overdetermination objection — human–AI exploration of selection at a genuine physical gap as non-competition."
 created: 2026-05-14
-modified: 2026-05-14
+modified: 2026-11-12
 human_modified:
-ai_modified: 2026-10-30T12:52:56+00:00
+ai_modified: 2026-11-12T15:20:13+00:00
 last_deep_review: 2026-08-27T06:42:00+00:00
 draft: false
 topics:
@@ -34,7 +34,7 @@ related_articles:
   - "[[born-preserving-causal-efficacy]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-05-14
 last_curated:
 ---
@@ -82,7 +82,7 @@ Under this architecture, asking "did the physical cause or the mental cause prod
 
 ## Distinguishing from Trumping and Delegatory Approaches
 
-The selection-only dissolution should not be conflated with the family of responses associated with Jonathan Schaffer's [[trumping-preemption|trumping preemption]] and Bradford Saad's [[delegatory-dualism|delegatory dualism]], even though both bear surface resemblances and the Map has affirmed a [[delegation-meets-quantum-selection|deeper unity]] between delegation as structure and selection as mechanism.
+The selection-only dissolution should not be conflated with the family of responses associated with Jonathan Schaffer's [[trumping-preemption|trumping preemption]] and Bradford Saad's [[delegatory-dualism|delegatory dualism]], even though both bear surface resemblances and the Map once proposed, and has withdrawn, a [[delegation-meets-quantum-selection|fusion]] of delegation as structure with selection as mechanism.
 
 Trumping preemption decouples *causal authority* from *counterfactual sufficiency*: both candidate causes remain sufficient for the effect, but a higher-order law designates one as authoritative. Schaffer's original example has a sergeant and a major both shouting "Charge!" at one corporal; the corporal charges, and the major's order trumps the sergeant's by military protocol. Both orders were sufficient; only one is authoritative.
 
@@ -90,7 +90,7 @@ Saad's delegatory dualism applies this template to mental causation. Physical br
 
 Selection-only interactionism makes a structurally different move. It does not accept that the physical-side cause is independently sufficient and then designate the mental cause as authoritative. It says the physical-side cause is *not* sufficient at the relevant grain — physics provides probabilities, not outcomes — and the mental cause supplies what physics does not. There is nothing to trump, because there is no competing sufficient cause. The delegatory framework operates by *reassigning authority over what would otherwise be redundancy*; the selection-only framework operates by *denying that the redundancy exists*.
 
-The two approaches are compatible. The [[delegation-meets-quantum-selection|bridge article]] argues that the default causal profile in delegatory dualism just *is* the Born-rule distribution, making delegation the structural description and selection the mechanism of a single causal event. But the overdetermination dissolution itself does not need delegation. It needs only the indeterminacy gap and the architecture that fills it.
+The two cannot be one mechanism, for the reason just given. An earlier [[delegation-meets-quantum-selection|bridge proposal]] fused them as structure and mechanism of a single causal event; the [[interface-specification-programme|specification programme]] withdrew it, adopting difference-making and logging trumping as an alternative. The Map's own candidate reading survives, never Saad's: the default causal profile may correspond to the Born-rule distribution. The overdetermination dissolution needs only the indeterminacy gap and the architecture that fills it.
 
 ## What the Dissolution Costs
 
@@ -132,7 +132,7 @@ That escape operates at the token level — a genuine per-trial role, fixing whi
 - [[philosophy-of-action-under-dualism]] — Selection-only interactionism applied to the theory of action: the trying selects, it does not shove
 - [[mental-causation-and-downward-causation]] — Kim's exclusion argument and the broader response landscape
 - [[delegatory-dualism]] — The trumping/preemption alternative response to overdetermination
-- [[delegation-meets-quantum-selection]] — How delegation and selection-only fit together as structure and mechanism
+- [[delegation-meets-quantum-selection]] — The withdrawn delegation–selection fusion and the surviving Born-rule reading
 - [[trumping-preemption]] — The Schaffer template the delegatory approach builds on
 - [[causal-closure]] — The principle the selection-only dissolution denies locally
 - [[concepts/epiphenomenalism]] — The default destination Kim's argument pushes most frameworks toward

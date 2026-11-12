@@ -2,9 +2,9 @@
 title: "Mental Causation and Downward Causation"
 description: "How mental states cause physical effects despite Kim's exclusion argument. Downward causation acts at quantum indeterminacies collapse readings leave open."
 created: 2026-01-15
-modified: 2026-11-05
+modified: 2026-11-12
 human_modified: null
-ai_modified: 2026-11-09T20:51:11+00:00
+ai_modified: 2026-11-12T15:20:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ related_articles:
   - "[[consciousness-as-activity]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-03-30
 last_curated: null
 last_deep_review: 2026-07-25T16:37:29+00:00
@@ -100,7 +100,7 @@ James Woodward's interventionist theory vindicates mental causation by replacing
 
 ### Delegatory Dualism
 
-Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025) holds that experiences *[[delegatory-causation|preempt]]* physical causes rather than overdetermining alongside them. A physical brain state has a "default causal profile"—the effects it *would* produce absent any experience—and when an experience arises whose profile matches that default, the experience takes over. The structural template is Jonathan Schaffer's [[trumping-preemption|trumping preemption]] (2000), which decouples *causal authority* from *counterfactual sufficiency*: both processes remain sufficient, but a higher-order law selects one as authoritative while the other is *sidelined*. Saad's distinction between *universal* and *[[observational-closure|observational]]* closure parallels the Map's framework: mental causation can be genuine without producing detectable anomalies. The [[delegation-meets-quantum-selection|delegation-selection bridge]] argues the default causal profile just *is* the Born-rule distribution, making delegation the structure and quantum selection the mechanism of a single causal event. See [[delegatory-causation]] for the full mechanism.
+Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025) holds that experiences *[[delegatory-causation|preempt]]* physical causes rather than overdetermining alongside them. A physical brain state has a "default causal profile"—the effects it *would* produce absent any experience—and when an experience arises whose profile matches that default, the experience takes over. The structural template is Jonathan Schaffer's [[trumping-preemption|trumping preemption]] (2000), which decouples *causal authority* from *counterfactual sufficiency*: both processes remain sufficient, but a higher-order law selects one as authoritative while the other is *sidelined*. Saad's distinction between *universal* and *[[observational-closure|observational]]* closure parallels the Map's framework: mental causation can be genuine without producing detectable anomalies. The [[delegation-meets-quantum-selection|delegation-selection bridge]] once fused delegation with quantum selection; the Map withdrew that fusion, keeping its own candidate reading of the default profile as the Born-rule distribution. See [[delegatory-causation]] for the full mechanism.
 
 ## The Quantum Opening
 

@@ -2,9 +2,9 @@
 title: "The Trilemma of Selection"
 description: "At a decision point of genuine indeterminacy the trilemma foregrounds three horns—determinism, randomness, mental causation. Human-AI analysis of why only directed selection preserves authorship, treated as a heuristic not a complete partition."
 created: 2026-03-10
-modified: 2026-10-31
+modified: 2026-11-12
 human_modified:
-ai_modified: 2026-10-31T06:09:45+00:00
+ai_modified: 2026-11-12T15:20:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[comparing-quantum-consciousness-mechanisms]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-10
 last_curated:
 last_deep_review: 2026-07-15T06:13:05+00:00
@@ -145,7 +145,7 @@ The trilemma connects to each of the five [[tenets]]:
 - [[mental-effort]] — Why the felt cost of attention supports genuine causal engagement
 - [[consciousness-and-causal-powers]] — The broader case for consciousness doing causal work
 - [[valence-and-conscious-selection]] — How valence provides the common metric for evaluating options
-- [[delegation-meets-quantum-selection]] — Given Horn 3 (mental causation), delegation provides its causal structure and quantum selection its physical implementation
+- [[delegation-meets-quantum-selection]] — A withdrawn proposal for Horn 3 (mental causation): delegation as causal structure, quantum selection as physical implementation
 - [[ensemble-level-epiphenomenalism]] — The trilemma secures *that* selection occurs; this worry asks whether ensemble-invisible conscious selection constitutes a channel a physicalist would recognise
 - [[forward-in-time-conscious-selection]] — How consciousness could select among already-decohered outcomes
 - [[time-symmetric-selection-mechanism]] — The retrocausal/atemporal Horn-3 route developed: selection as transaction completion outside temporal sequence

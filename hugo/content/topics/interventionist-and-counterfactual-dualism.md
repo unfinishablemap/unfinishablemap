@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-11-12 11:07:12+00:00
+ai_modified: 2026-11-12 15:20:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 anchoring_audit_exempt: true
 author: null
@@ -20,7 +20,7 @@ concepts:
 - '[[supervenience]]'
 - '[[psychophysical-laws]]'
 created: 2026-07-15
-date: &id001 2026-07-15
+date: &id001 2026-11-12
 description: 'The lawful co-causation rival to the Map''s trumping route: two-cause
   dualism (Kroedel, Vaassen, Mills, Lowe), and why Tenet 2 leans toward it — a human+AI
   diagnosis of a choice under underdetermination.'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-03 15:47:00+00:00
-lastmod: 2026-11-12 11:07:12+00:00
+lastmod: 2026-11-12 15:20:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ Here the article turns from source exposition to Map integration. The question t
 
 ## Relation to Site Perspective
 
-The interventionist/counterfactual co-causation family is the route most continuous with the Map's own difference-making commitments — Tenet 3 read literally, and Tenet 2's per-trial selection channel structurally (on the strong-closure axis; its strict selection-only reading is Born-preserving in the *unconditioned* marginal, leaving the conditionals free). It is not a weaker cousin of trumping to be dispatched in a clause. The Map still prefers trumping, for its stronger closure-preservation and cleaner invisibility, and it may reasonably do so. But the preference is a choice under underdetermination, and stating the rival fairly is what makes that choice visible and defensible rather than assumed.
+The interventionist/counterfactual co-causation family is the route most continuous with the Map's own difference-making commitments — Tenet 3 read literally, and Tenet 2's per-trial selection channel structurally (on the strong-closure axis; its strict selection-only reading is Born-preserving in the *unconditioned* marginal, leaving the conditionals free). It is not a weaker cousin of trumping to be dispatched in a clause. The preference for trumping examined here, for its stronger closure-preservation and cleaner invisibility, is the Map's earlier stance: its [specification programme](/apex/interface-specification-programme/) adopts the difference-making route of quantum selection and logs trumping as a distinct alternative. That adoption remains a choice under underdetermination, and stating the rivals fairly is what makes it visible and defensible rather than assumed.
 
 Two honest caveats bound the diagnostic. First, "leans toward" is not "entails": all three positions are tenet-coherent, and nothing here forces the Map off trumping. Second, the co-causation family carries its own bill — the two-cause structure must still argue that lawful overlap is benign against critics who reply that overdetermination is overdetermination however systematic, and [Rellihan's charge](#the-equivocation-charge) is the sharper half of that bill, since it disputes not the benignity of the overlap but whether the counterfactual establishing the second cause is true at all. For the interventionist branch, Baumgartner (2010) argues that Woodward's original criterion makes supervening causes inert, and that exempting their bases from being held fixed excludes the epiphenomenal alternative by fiat. Vaassen extends that exemption from metaphysical to nomic bases, answering the first charge on interventionism's own terms but not the second, which falls on physicalist and dualist mental causes alike; the Map cannot invoke it selectively. The diagnostic's value is not that it settles the question but that it names where the real decision lies: not in the tenets, but in a methodological preference the Map should own explicitly.
 
@@ -127,7 +127,7 @@ Two honest caveats bound the diagnostic. First, "leans toward" is not "entails":
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Survey of the responses dualism can make to exclusion
 - [observational-closure](/concepts/observational-closure/) — The invisibility both routes preserve, by different means
 - [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — Whether trumping's difference-free efficacy is a genuine channel
-- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The Map's proposed unification of delegation (structure) with quantum selection (mechanism) as a "single event"; the difference-making analysis here is the structural seam that candidate identity spans
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The Map's earlier unification of delegation (structure) with quantum selection (mechanism) as a "single event", withdrawn; the difference-making analysis here marks the seam on which it failed
 - [tenets](/tenets/) — The Map's five foundational commitments
 
 ## References
