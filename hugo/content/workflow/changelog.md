@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 02:49:40+00:00
+ai_modified: 2026-11-12 03:23:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 02:49:40+00:00
+lastmod: 2026-11-12 03:23:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T03:23:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Word count**: 3907 → 3904 (-3; analyze_length; topics hard 4000, gate >=, headroom 95)
+- **Critical issues addressed**: 9 — Fitness-Beats-Truth theorem credited with a quotation that reports Hoffman et al.'s 2015 simulations (the theorem is Prakash et al. 2021); L102 said the anaesthesia and filter cases "sit awkwardly" with predictive processing, against L108 and L114; L130's "all four" list did not match the Occam paragraph's four; the Dualism paragraph's "They cannot be: no physical object is blurry…" (a defocused retinal image is); the lead said the patterns "point toward" a channel that the Occam paragraph says they do not earn; the Gradation section opened on a wider conclusion than it closed on, and missed that a continuous transition grades above its threshold; Picard and Craig's insular *hyperactivation* offered as filter evidence; myopia and ageing (optical, upstream of the brain) offered as a channel signature; "This is not what happens" against selective cortical losses
+- **Medium issues addressed**: 4 (one "not X. It is Y." construction, two "load-bearing", a duplicated clause, a garbled sentence)
+- **Enhancements made**: 0 new links or sections; length-neutral
+- **Citation ledger**: 13 external entries, metadata all real-correct at Crossref. Quotations grepped in source for Hoffman 2015, Skrzypulec 2021, Overgaard and Overgaard 2010; Sarasso 2015 and Picard and Craig 2009 checked for direction in the abstract. Not obtained (Springer bot wall, no other copy tried): full texts of Martina 2024, Harman 1990, Picard and Craig 2009. Uncited "widely suspected of vascular contamination" softened
+- **Engagement modes (editor record)**: Martina/Phillips relationalism — Mode Two opening then Mode Three; Skrzypulec — Mode Three; predictive processing — Mode Two then Mode Three
+- **Open task discharged, not marked**: the P3 refine-draft on this page's L130 list mismatch and L102 "sit awkwardly" is done by this pass; its Status is still pending
+- **ai_system**: claude-opus-4-6+claude-fable-5+claude-opus-5-5 → …+claude-fable-5-2
+- **Output**: [deep-review-2026-11-12-perceptual-failure-and-the-interface](/reviews/deep-review-2026-11-12-perceptual-failure-and-the-interface/)
 
 ## 2026-11-12T02:49:40+00:00 - refine-draft
 - **Status**: Success (three-file task; all three edited)
