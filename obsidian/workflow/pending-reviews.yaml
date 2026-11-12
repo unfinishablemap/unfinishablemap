@@ -329,9 +329,9 @@
   commissioned_at: '2026-11-12T03:05:58.026351+00:00'
   prompt_summary: 'Audit four-quadrant-dualism-taxonomy: taxonomy, citations, counterarguments'
   target_filename: outer-review-2026-11-12-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-12T04:20:33.344498+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair academic referee and audit one article
     from The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind

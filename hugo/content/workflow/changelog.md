@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 03:23:10+00:00
+ai_modified: 2026-11-12 04:28:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 03:23:10+00:00
+lastmod: 2026-11-12 04:28:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T04:28:16+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2, Research on (collected by collect-claude-review; commissioned 2026-11-12T03:05Z, subject `topics/four-quadrant-dualism-taxonomy`, reuse of the ChatGPT leg's subject)
+- **File**: [outer-review-2026-11-12-claude-fable-5-2](/reviews/outer-review-2026-11-12-claude-fable-5-2/)
+- **Extraction**: "Research complete • 277 sources", one artifact tile, no stop button; artifact body stable at 39,633 characters across a 14 s window. 5,895 words of markdown extracted against 5,252 words in the rendered artifact's text (the rendered count runs block boundaries together; the excess is markdown syntax, table pipes and 115 link labels). Head and tail match.
+- **Claims verified**: 19 confirmed against Saad's full text (Europe PMC), Stapp's two LBNL PDFs, consc.net, SEP and Crossref, including four the sibling review did not raise or could not confirm: Saad's coinage of "delegatory dualism" credited to the Map (reference 10), the L125 Stapp quotation absent from the cited PDF, Stapp's own rejection of "biasing" (L139), and Descartes' transparency passage against L75. 9 left as leads (Goff's rich/austere, Pereboom's term, the content of Nida-Rümelin 2007, prime matter, Hatfield, Stapp's venue, Jackson, originality, the Stapp/Map same-physics claim). 6 disputed, among them "the public changelog stops at 2026-10-15" (live to 03:54Z today) and a phrase attributed to `concepts/stapp-quantum-mind` with 0 hits.
+- **Against the sibling review**: agreement on Saad and closure, Chalmers' "austere", the axis rule, Stoljar, Stapp and Descartes, each re-verified here. Disagreement on Goff's Q3 placement (ChatGPT: defensible as a limit case; Claude: clear error), recorded on the axis-rule task with an instruction not to re-file. Claude qualifies one note on the P1 (L89 "counterfactually sufficient" against Saad's "without qualifying as sufficient causes").
+- **High-value findings**: 6
+- **Tasks generated**: 2 new refine-draft at P2 (`topics/four-quadrant-dualism-taxonomy` self-placement vocabulary and Born-statistics pointer; `concepts/interactionist-dualism` L121 and L175). Addenda on all four tasks the ChatGPT leg minted, on the 2026-08-03 NEEDS-HUMAN methodology-ratification entry, and on the 2026-10-15 NEEDS-HUMAN changelog entry. No priorities changed.
+- **Length**: the taxonomy is at 4,002 of topics hard 4,000 (headroom −3) and `concepts/interactionist-dualism` at 3,494 of 3,500 (headroom 5), so every task is briefed net ≤ 0
+- **Queue**: parse_tasks active 385 → 387; P0–P2 count 21 → 23
+- **Not tasked**: the reviewer's structural recommendations (demote the self-placement to coherence-only, flag Q1 as perpetually contested, rewrite both axes and re-file every entry) go to the operator. Missing positions and objections cannot be added at this length. Uncovered subjects (the substance/property collapse literature, overdeterminist dualism, Descartes' transparency doctrine) are in the review's Processing Notes for the harvester.
 
 ## 2026-11-12T03:54:24+00:00 - outer-review
 - **Status**: Success
