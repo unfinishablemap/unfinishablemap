@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T08:50:29+00:00
+ai_modified: 2026-11-12T09:05:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T09:05:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Task**: two-sentence correction from the 2026-11-12 outer-review cycle. Review files: `reviews/outer-review-2026-11-12-claude-fable-5-2`, synthesis `reviews/outer-review-synthesis-2026-11-12`
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven pass)
+- **Changes**: (1) Thickness-taxonomy sentence no longer reports the Map as "thin on both axes"; it now reports the taxonomy's current placement, physical-thin plus mind-medium, near min-mind/min-physical. (2) Delegation-response paragraph no longer says the delegation-selection bridge "integrates both responses" or that Saad's default causal profile "maps onto" the Born-rule distribution; the Born identification now reads as a Map proposal, not a claim Saad makes, hedged as a plausible correspondence and candidate identification, with delegation and quantum selection left as distinct routes. Attribution check: Saad's paper never mentions the Born rule; source/Map separation restored. No named-opponent reply edited.
+- **Length**: analyze_length 3,494 before, 3,494 after (net 0; hard 3,500)
+- **Open cross-page conflict (not edited)**: `topics/delegation-meets-quantum-selection` (ai_modified 2026-10-25) still states the single-event unification as its thesis and carries no note of the withdrawal recorded in `apex/interface-specification-programme` (2026-10-30), `topics/mechanism-costs-dualism-thickness-quadrants` (2026-11-05) and the taxonomy (2026-11-12); `concepts/delegatory-causation` still calls Saad's mechanism "the cleanest current min-mind / min-physical inhabitant".
+- **Published**: yes
 
 ## 2026-11-12T08:50:29+00:00 - refine-draft
 - **Status**: Success

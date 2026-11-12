@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-11-11T20:04:15+00:00
+ai_modified: 2026-11-12T09:05:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,7 +118,7 @@ Two responses address the exclusion argument:
 
 **Quantum response**: The Map rejects premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds physics is *not* causally closed at quantum indeterminacies—physics specifies probabilities but not outcomes. Mechanisms are [[#quantum-interactionism|compared below]].
 
-**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Through [[delegatory-causation|causal delegation]], physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles; when pain causes wincing, the physical state's role is [[trumping-preemption|preempted]]—instantiating Schaffer's trumping structure, where a higher-order law selects one of two sufficient processes as authoritative. The distinction Saad names between universal closure and [[observational-closure|observational closure]] shows dualists need only respect empirical constraints, not the stronger metaphysical claim. The [[delegation-meets-quantum-selection|delegation-selection bridge]] integrates both responses: Saad's default causal profile maps onto the Born-rule distribution, making delegation the causal structure and quantum selection a candidate physical mechanism of a single event.
+**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Through [[delegatory-causation|causal delegation]], physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles; when pain causes wincing, the physical state's role is [[trumping-preemption|preempted]]—instantiating Schaffer's trumping structure, where a higher-order law selects one of two sufficient processes as authoritative. The distinction Saad names between universal closure and [[observational-closure|observational closure]] shows dualists need only respect empirical constraints, not the stronger metaphysical claim. The [[delegation-meets-quantum-selection|delegation-selection bridge]] is a Map proposal, not a claim Saad makes: his default causal profile *plausibly* corresponds to the Born-rule distribution—a candidate identification, leaving delegation and quantum selection distinct routes.
 
 ## The Multi-Mind Collapse Problem
 
@@ -172,7 +172,7 @@ Interactionism is compatible with different dualist ontologies (see [[substance-
 
 **Property dualism**: Mental properties are distinct from physical properties but don't require separate substances. Property dualism risks sliding toward [[concepts/epiphenomenalism]] if mental properties seem causally redundant.
 
-A second axis cross-cuts this distinction: how much ontological weight each side carries. The [[four-quadrant-dualism-taxonomy|thickness taxonomy]] places the Map near min-mind/min-physical—thin on both axes—while the Occam's-Razor-Has-Limits tenet keeps thicker quadrants live rather than ruled out by parsimony alone. If thicker-mind evidence ever pushed the Map toward a max-mind/thin-physical position, the interactionist commitments above would keep that expansion *dualist* rather than idealist: [[q3-q4-sliding-boundary-and-transparency-problem|the Q3–Q4 sliding boundary article]] identifies the conditions—a selection-only channel (physics still supplies the menu of permitted outcomes) plus genuine bidirectional symmetry—that prevent the thin physical pole from collapsing into a mere appearance of mind.
+A second axis cross-cuts this distinction: how much ontological weight each side carries. The [[four-quadrant-dualism-taxonomy|thickness taxonomy]] places the Map at physical-thin plus mind-medium—near min-mind/min-physical—while the Occam's-Razor-Has-Limits tenet keeps thicker quadrants live rather than ruled out by parsimony alone. If thicker-mind evidence ever pushed the Map toward a max-mind/thin-physical position, the interactionist commitments above would keep that expansion *dualist* rather than idealist: [[q3-q4-sliding-boundary-and-transparency-problem|the Q3–Q4 sliding boundary article]] identifies the conditions—a selection-only channel (physics still supplies the menu of permitted outcomes) plus genuine bidirectional symmetry—that prevent the thin physical pole from collapsing into a mere appearance of mind.
 
 The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] sits within this space: reality has two irreducible aspects—structure (what physics describes) and actuality (supplied by consciousness at neural interfaces)—that interact at quantum indeterminacies. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet).
 
