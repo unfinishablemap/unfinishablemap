@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Philosophical approaches to 
 created: 2026-01-14
 modified: 2026-06-13
 human_modified: null
-ai_modified: 2026-10-24T12:37:52+00:00
+ai_modified: 2026-11-12T22:19:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-25T15:58:33+00:00
@@ -199,7 +199,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** acknowledges that some domains remain beyond direct access. The problem of other minds exemplifies this: consciousness is knowable through inference rather than direct apprehension, but this doesn't make it unreal. Parsimony cannot settle the question because we lack the conceptual framework to judge what is truly "simpler" where subjectivity is the subject matter.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** preserves the coherence of the other-minds question. MWI would fragment "your" consciousness into branch-descendents with radically different experiences—the question "are you conscious?" becomes "which branch-descendent are we discussing?" Rejecting MWI means there's a determinate fact about whether you have phenomenal experience, grounding the practical certainty the article defends. The [[haecceity]]—the irreducible "thisness"—of your consciousness is real, not an indexical artifact.
+**[[tenets#^no-many-worlds|No Many Worlds]]** bears on *whom* the other-minds question addresses. An Everettian predicts a determinate phenomenal fact for each branch-descendent, so experience does not discriminate and the article's practical certainty does not hang on this tenet. The Map's rejection of many-worlds rests on the indexical objection, held as a commitment; given it, "are you conscious?" addresses one determinate subject, and the [[haecceity]]—the irreducible "thisness"—of your consciousness is real, not an indexical artifact.
 
 ## Further Reading
 

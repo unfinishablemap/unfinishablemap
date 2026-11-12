@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-24 21:09:52+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-11-12 22:19:28+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/temporal-consciousness/
@@ -63,7 +63,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:08:52+00:00
-lastmod: 2026-10-24 21:09:52+00:00
+lastmod: 2026-11-12 22:19:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -164,9 +164,9 @@ The Map's framework proposes consciousness participates in [quantum collapse](/c
 
 ### Temporal Phenomenology as Selection Signature
 
-If consciousness selects among quantum outcomes, Husserl's retention-protention structure maps onto collapse with striking specificity. **Retention** reflects outcomes already collapsed—the felt fixedness of the just-past. **Primal impression** is where selection is active, the leading edge where superposition has not yet resolved. **Protention** tracks genuine indeterminacy, meaningful only if collapse is real rather than perspectival.
+If consciousness selects among quantum outcomes, Husserl's retention-protention structure maps onto collapse phase by phase. **Retention** reflects outcomes already collapsed—the felt fixedness of the just-past. **Primal impression** is where selection is active, the leading edge where superposition has not yet resolved. **Protention** tracks genuine indeterminacy rather than merely epistemic uncertainty.
 
-What distinguishes this mapping from mere structural analogy is the qualitative texture each phase exhibits: if collapse is real, the felt difference between a fixed past and an open future finds a natural counterpart in the difference between collapsed, collapsing, and uncollapsed states.
+The qualitative texture of each phase fits this mapping without evidencing it: if collapse is real, the felt difference between a fixed past and an open future finds a natural counterpart in the difference between collapsed, collapsing, and uncollapsed states. Felt openness cannot discriminate, since [a determined agent would find its future open too](/topics/trilemma-of-selection/#compatibilist-objections) and every Everettian branch-self reports an open future.
 
 ### The Specious Present as Selection Window
 
@@ -204,7 +204,7 @@ Temporal consciousness connects to all five tenets:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal consciousness provides the substrate for [choosing](/concepts/phenomenology-of-choice-and-volition/). Selection requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Protention's directional orientation toward one possible future over another participates in selecting which neural patterns become actual. Durée's creative causation is what Bergson means by freedom—and what the Map means by consciousness influencing physical outcomes.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: If MWI branching occurred constantly, there would be no unified temporal experience but fragmentation across branches. The coherence of temporal experience—retention genuinely inheriting from a definite past—suggests collapse creates a single temporal thread. Bergson's interpenetrating duration presupposes temporal identity—[haecceity](/concepts/haecceity/)—that many-worlds dissolves.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Temporal experience fits a single temporal thread—retention inheriting from one definite past—without evidencing one. An Everettian predicts a coherent retention-protention stream within every branch, so experience does not discriminate; the Map's rejection of many-worlds rests on the indexical objection, held as a commitment: which branch-stream is *mine*? Given that commitment, the temporal identity—[haecceity](/concepts/haecceity/)—of interpenetrating duration is that of one determinate subject.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Spatialized time seems simpler—measurable, quantifiable. But this simplicity ignores qualitative duration. The "simpler" materialist account isn't simpler—it's incomplete.
 

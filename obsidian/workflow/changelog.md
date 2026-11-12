@@ -5,6 +5,15 @@ ai_modified: 2026-11-12T21:34:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-12T22:19:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/temporal-consciousness]], [[concepts/problem-of-other-minds]] (tenet-check 155 W7; `concepts/intentionality` already done at 20:49Z and not touched)
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted fix from `reviews/tenet-check-2026-10-24.md` W7, which scripts no OLD→NEW strings, so all wording is composed to the strength of the intentionality and phenomenology-of-choice entries)
+- **Changes**: temporal-consciousness: (1) the No Many Worlds tenet entry no longer infers collapse or a single thread from coherent temporal experience; it now says the experience fits a single thread without evidencing one, an Everettian predicts a coherent retention-protention stream in every branch, and the rejection rests on the indexical objection held as a commitment; the Bergson sentence no longer enlists him against many-worlds. (2) 2026-10-31 addendum: the retention/primal-impression/protention mapping is regraded as fitting the Map's reading without evidencing it ("striking specificity" and "meaningful only if collapse is real rather than perspectival" removed; the "distinguishes this mapping from mere structural analogy" sentence regraded; felt openness stated as non-discriminating with a piped link to `topics/trilemma-of-selection#compatibilist-objections`; Planck and MacKay not named). The protention sentence in "Protention and Anticipatory Structure" was left: it claims evidence of constitutive temporality, not of collapse. problem-of-other-minds: the No Many Worlds entry no longer says rejecting MWI is what yields a determinate phenomenal fact or grounds the practical certainty; an Everettian predicts a determinate fact per branch-descendent; the determinate addressee and haecceity are stated as consequences of the commitment.
+- **Reasoning mode**: engagement with the Everettian: Mode Three on both pages; the experience is conceded as non-discriminating and the disagreement is marked as resting on the indexical commitment.
+- **Length**: temporal-consciousness 3,006 → 3,041; problem-of-other-minds 3,460 → 3,469 by `analyze_length` (concepts hard 3,500)
+- **Published**: yes
+
 ## 2026-11-12T21:34:10+00:00 - refine-draft
 - **Status**: Success (assessment; no body change)
 - **File**: [[topics/self-observation-and-the-moments-of-selection]]
