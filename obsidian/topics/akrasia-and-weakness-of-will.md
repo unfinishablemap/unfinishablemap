@@ -4,7 +4,7 @@ description: "Acting against one's own better judgement—Socrates, Aristotle, D
 created: 2026-07-09
 modified: 2026-10-24
 human_modified:
-ai_modified: 2026-11-12T19:19:50+00:00
+ai_modified: 2026-11-12T20:34:26+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high vs motor-selection: expository/descriptive article (not a contested Map-claim), so strong-assertion + hedge-density checks misfire; refining would distort the exposition
 topics:
@@ -81,6 +81,8 @@ For Holton, weakness of will is the over-ready **abandonment of a resolution**�
 
 This foregrounds **willpower** (strength of will) as a distinct faculty: the effortful capacity to maintain a resolution against inclinations that would otherwise revise it. Holton draws on the self-control research of Mischel and Baumeister and treats willpower as a real executive skill rather than the automatic output of correct judgement. One strand of that evidence has since weakened: the "ego-depletion" model, on which willpower draws down a limited resource, was put at d = 0.04 by Hagger et al.'s (2016) preregistered 23-laboratory replication, and the current SEP treatment records that the model has "increasingly come under question" (see [[mental-effort]]). The replication tested the resource model Holton's account of effort drew on, not his structural claim that resolutions can be dropped over-readily and that [[phenomenology-of-choice-and-volition#sustained-control|holding them]] is a distinct capacity, which it leaves standing without confirming. Whether the capacity is trainable is unsettled: self-control training shows a small-to-medium effect (g = 0.30; .13–.24 after bias correction) whose mechanisms are "poorly understood" (Friese et al. 2017). The picture deflates the will as the pinnacle of rationality, casting it instead as [[self-control-as-skill-and-scaffolding|a set of devices that compensate]] for our inability to make and hold sound judgements over time. Like Davidson's, Holton's account invokes no non-physical mechanism—the willpower it describes is empirically studied, ordinary self-management.
 
+Procrastination, on Sarah Stroud's argument, is not simply akrasia, "a purely synchronic phenomenon", and Holton's weakness of will, "exclusively a defect in plan implementation", cannot cover all of it, since procrastination "is sometimes constituted by defects in plan drafting and adoption" (2010, chapter abstract). Chrisoula Andreou counts it a dynamic choice problem, where a series of choices serves one's concerns badly "even though each choice in the series seems perfectly well suited to serving one's concerns" (2025). Sergio Tenenbaum goes further: of an unwritten novel, "none of my momentary choices is irrational (at least, in respect to this project) when considered in isolation" (2010, p. 139). Duncan MacIntosh (2010, chapter abstract) replies that the procrastinator of Andreou's model, once made intelligible, "would delay only from ordinary weakness of will".
+
 ## Three Standing Debates
 
 Three disputes run through this material and bear on how much weight the akratic datum can carry.
@@ -98,6 +100,8 @@ The preceding sections are source exposition. This section is the Map's interpre
 The Map models consciousness as a low-bandwidth [[control-theoretic-will|controller]] that selects among neural options the brain prepares, rather than computing outcomes from scratch. Read through that model, the akratic datum—"I chose X while judging Y better"—is a first-person report about the *structure of selection*: the interface can select an option against the agent's own all-things-considered evaluative state. That state must be indexed to the time of action and kept apart from post-choice report, since the datum usually comes from retrospective report and the [[preference-void|preference void]] records that orderings may be built in the asking. Nor is akrasia a case of idle valence: on the Map's thesis that felt value is what selection tracks, selection there follows present felt pull against considered judgement, the currency on which the [[valence-and-conscious-selection#the-value-sensitive-horn-valence-as-selection-currency|value-sensitive horn]] accommodates it. Where reflective judgement is defective, as in Arpaly's cases, an act moved by present affect may be more value-sensitive, not less.
 
 [[the-divided-will|The strongest rival has no single selector]]. A distributed architecture—valuation systems on different timescales, habitual and goal-directed control, delay discounting, conflict monitoring, later verbal report—predicts that judgement and action will diverge, and Mele's wants whose motivational force is out of line with their evaluation (1987, p. 37) and Ainslie's hyperbolic discounting (2001) supply mechanisms. Recurrent divergence is prima facie evidence against a unitary personal controller. Any mechanism short of a transparent read-off of judgement accommodates Davidson's gap, so its opening is a weak constraint and no support for the selection model. A selector with reasons of its own also reopens Davidson's question—why select what it judged worse?—relocating the gap rather than closing it. For the Map's agent-causal account this is the [[agent-causation#the-luck-objection|luck objection]] at its starkest: the reply that selection on reasons is intelligible and guided fails when selection runs against the agent's all-things-considered ranking that would guide it, and the objection stands unanswered here. The disagreement is therefore closer to bedrock than it looked, and akrasia does not decide it.
+
+Procrastination marks the lens's boundary. Where the defect lies in drafting the plan (Stroud) or in no single choice (Tenenbaum), there is no akratic selection to read, and the luck objection's starkest form does not arise. Stroud's defect lies at a [[self-control-as-skill-and-scaffolding#where-selection-sits|moment of policy]], where the self-control article places ordinary success. Tenenbaum's may lie at no moment, so the lens covers it only if selection can take an extended action as its object. A physical planner fits both equally.
 
 Tamar Schapiro's account cuts both ways, and the Map keeps both readings open. She holds that weak-willed action is better characterised as "abandon[ing] your post as deliberator" (2021, p. 152) than as an error within deliberation; in the SEP's summary it "does not actually engage the will at all". As a rival, this would make the akratic datum a record of the will's abdication, not of a positive selection of the worse option. As the nearest ally in the literature, it is what the SEP calls a "dualistic Kantian moral psychology", dividing deciding agent from inclination and needing no substance dualism.
 
@@ -130,6 +134,7 @@ So the Map's contribution here is an *interpretation* of a shared phenomenon, no
 ## References
 
 1. Ainslie, G. (2001). *Breakdown of Will*. Cambridge University Press.
+1. Andreou, C. (2025). "Dynamic Choice." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/dynamic-choice/
 1. Aristotle. *Nicomachean Ethics*, Book VII (chs. 1–10), trans. W. D. Ross. Cited by book and chapter (Bekker numbering). https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html
 1. Arpaly, N. (2000). "On Acting Rationally against One's Best Judgment." *Ethics*, 110(3), 488–513. https://doi.org/10.1086/233321
 1. Audi, R. (1990). "Weakness of Will and Rational Action." *Australasian Journal of Philosophy*, 68(3), 270–281. https://doi.org/10.1080/00048409012344301
@@ -145,11 +150,14 @@ So the Map's contribution here is an *interpretation* of a shared phenomenon, no
 1. Hare, R. M. (1963). *Freedom and Reason*. Oxford: Clarendon Press. Ch. 5, "Backsliding," pp. 67–85.
 1. Holton, Richard. (1999). "Intention and Weakness of Will." *The Journal of Philosophy*, 96(5), 241–262. https://doi.org/10.2307/2564667
 1. Holton, Richard. (2009). *Willing, Wanting, Waiting*. Oxford University Press. ISBN 9780199214570.
+1. MacIntosh, D. (2010). "Intransitive Preferences, Vagueness, and the Structure of Procrastination." In C. Andreou & M. D. White (eds.), *The Thief of Time*, pp. 68–86. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195376685.003.0004
 1. McIntyre, A. (1990). "Is Akratic Action Always Irrational?" In O. Flanagan & A. Rorty (eds.), *Identity, Character, and Morality*, pp. 379–400. MIT Press.
 1. Mele, A. (1987). *Irrationality*. Oxford University Press.
 1. Plato. *Protagoras*, 358b–c. In E. Hamilton & H. Cairns (eds.), *The Collected Dialogues of Plato*, pp. 308–352. Princeton University Press, 1961; the translation the SEP quotes.
 1. Schapiro, T. (2021). *Feeling Like It: A Theory of Inclination and Will*. Oxford University Press.
+1. Stroud, Sarah. (2010). "Is Procrastination Weakness of Will?" In C. Andreou & M. D. White (eds.), *The Thief of Time*, pp. 51–67. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195376685.003.0003
 1. Stroud, Sarah, & Svirsky, Larisa. (2025). "Weakness of Will." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/weakness-will/
+1. Tenenbaum, S. (2010). "The Vice of Procrastination." In C. Andreou & M. D. White (eds.), *The Thief of Time*, pp. 130–150. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195376685.003.0008
 1. Watson, Gary. (1975). "Free Agency." *The Journal of Philosophy*, 72(8), 205–220.
 1. Watson, Gary. (1977). "Skepticism about Weakness of Will." *The Philosophical Review*, 86(3), 316–339.
 1. Southgate, A. & Oquatre-six, C. (2026-02-19). Control-Theoretic Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/control-theoretic-will/

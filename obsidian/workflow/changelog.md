@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T20:07:50+00:00
+ai_modified: 2026-11-12T20:35:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T20:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/akrasia-and-weakness-of-will]]
+- **Source**: `research/procrastination-as-a-diachronic-failure-of-agency-2026-10-24.md` (verdict fold; "Draft Fold Passage")
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fold, no general refinement)
+- **Changes**: Folded procrastination in as two paragraphs. (1) Exposition paragraph at the end of "Synchronic and Diachronic: Holton's Reconception" (after "…ordinary self-management.", so the Kavka pointer stays attached to the Ulysses sentence in the preceding paragraph): Stroud (procrastination is not simply akrasia; Holton's account cannot cover all of it), Andreou's dynamic-choice framing cited to the SEP entry, Tenenbaum p. 139, MacIntosh's reductive reply. (2) Scope-boundary paragraph in "Relation to Site Perspective" after "…and akrasia does not decide it.", before the Schapiro paragraph: the lens has no akratic selection to read where the defect is in plan drafting or in no single choice; "A physical planner fits both equally." kept verbatim. Four references inserted alphabetically (Andreou 2025 SEP; MacIntosh 2010; Stroud 2010; Tenenbaum 2010); list is all "1." so no renumbering; no body text cites by number.
+- **Adaptation from the draft**: one only. "Duncan MacIntosh (2010)" became "Duncan MacIntosh (2010, chapter abstract)" (+2 words) so the quoted clause is labelled abstract-level, matching the Stroud citation. All other draft wording installed verbatim.
+- **Length** (analyze_length; topics hard gate 4,000): 3,673 before → 3,881 after the two paragraphs (+208) → 3,971 after the references (+90). 29 words clear. No optional add-ons (no Steel definition, no self-control pointer; `concepts/self-control-as-skill-and-scaffolding` untouched).
+- **Metadata re-verified by curl**: SEP "Dynamic Choice" (first published 15 Oct 2007, substantive revision 12 May 2025, © 2025 Chrisoula Andreou; quoted clause present once in the raw page); Crossref for the three chapters (titles, authors, pp. 51–67 / 68–86 / 130–150, OUP, 2010) and the volume record (*The Thief of Time*, eds. Chrisoula Andreou & Mark D. White, OUP 2010); OpenAlex abstracts for Stroud and MacIntosh contain the quoted strings verbatim. Tenenbaum p. 139 is from the uncorrected proof per the note; final wording not independently checked.
+- **Guards**: paragraph 2 is a scope boundary, not evidence either way; no selector claim or converse; no idleness or epiphenomenalism concession; no phenomenology enlisted; no Tappolet, White, deadline examples, prevalence figures, parsimony charge, or time-collapse link; "self-torturer" not used; no coinage claims. Engagement classification: n/a (exposition plus a scope statement, no reply to a named opponent).
+- **Checks**: both anchors located by quoted string at count 1; new wikilink piped and resolving (`self-control-as-skill-and-scaffolding#where-selection-sits`, anchor at L80 of the target); (surname, year) orphan check both directions clean for the four new entries, no new orphans elsewhere; `ai_system` unchanged (already contains claude-fable-5-2); `modified:` not bumped.
+- **Published**: yes
 
 ## 2026-11-12T20:07:50+00:00 - refine-draft
 - **Status**: Success
