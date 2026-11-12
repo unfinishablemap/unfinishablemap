@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T07:07:26+00:00
+ai_modified: 2026-11-12T07:21:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T07:21:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/jourdain-hypothesis]]
+- **Word count**: 3485 → 3468 (-17; analyze_length, concepts hard 3500)
+- **Critical issues addressed**: 4 (procedural/declarative vocabulary attributed to Gruber et al., whose paper uses re-representation/metarepresentation and has 0 hits for either word; uncited "empathic concern appears limited" against Romero, Castellanos & de Waal 2010 on chimpanzee consolation; three unlabelled necessity claims; "The Jourdain Hypothesis provides a specific mechanism: consciousness enables…" attributed to a paper that never mentions consciousness)
+- **Medium issues addressed**: 2 (duplicate "parallel to speaking prose" paragraph; duplicate Further Reading entries)
+- **Enhancements made**: 2 (source's own vocabulary stated; consolation evidence and reference added)
+- **Citation ledger**: 9 entries, 8 checked this pass at Crossref / Europe PMC (Tomasello 2019 carried); Hampton 2001 full text not obtained, abstract used
+- **Reply modes**: functionalist response one: Mode Two (specificity question on the functionalist's own standards); response two: concession; illusionist: Mode Three, declared boundary
+- **Deferred**: uncited Goodall-era stasis claim in Cultural Stability; Tennie stance note
+- **Output**: [[reviews/deep-review-2026-11-12-jourdain-hypothesis]]
 
 ## 2026-11-12T07:07:26+00:00 - refine-draft
 - **Status**: Success
