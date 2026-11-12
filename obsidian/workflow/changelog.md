@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T10:58:05+00:00
+ai_modified: 2026-11-12T11:07:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T11:07:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/interventionist-and-counterfactual-dualism]] (primary); [[concepts/trumping-preemption]], [[concepts/causal-exclusion-argument]], [[topics/delegatory-dualism]], [[topics/four-quadrant-dualism-taxonomy]]
+- **Source**: `research/type-o-and-overdeterminist-dualism-2026-11-12`, "Corrections for Existing Pages" (7) and "Binding Guards for Any Writer"
+- **Original score**: n/a (`scripts/curate.py` absent; corrections-only pass)
+- **Changes**:
+  - `interventionist-and-counterfactual-dualism` (3,896 to 3,902): Vaassen section no longer attributes "points of control" or an energy-transfer claim to Vaassen 2024 (neither occurs in his paper). It now gives his stated ground (higher-level phenomena earn causal status by "exhibiting sufficiently robust patterns of correlation with target effects"), his closure principle (Physical Completeness, paraphrased), his denial that overdetermination results, and that he writes as a physicalist. The two later energy glosses (family bullet, "Closure alone does not decide it") reworded to completeness/invisibility. The coincidental-versus-systematic point is re-attributed to Kroedel (2020, p. 169, quoted); Mills 1996 is marked as known only through his later summary and citers, and the unverified arm-rising description is dropped. "Descend from an older lineage" softened to "were preceded by".
+  - `trumping-preemption` (3,381 to 3,390): Vaassen introduced as a physicalist arguing dualists have the reply, not under "dualist defence"; "points of control ... whatever energy" replaced by his own ground (quoted); his overdetermination denial now quoted without the added "objectionable sense" qualifier; Vaassen 2026 sentence cut back to what its abstract says (read in abstract only); the Mills coincidental-overdetermination reading marked unverified at source.
+  - `causal-exclusion-argument` (3,174 to 3,189): "lawful-overdetermination lineage (Mills 1996; Lowe 2003)" split into two older lines; Lowe (2000) added as calling Mills's strategy "suspiciously ad hoc", with his own qualification, and building mediation and fact-causation models; the supervenience-lawful argument is no longer put in Mills's mouth; Vaassen's "energy competition" clause replaced by his claim that mental causes fail Bennett's test; "Some dualists hold" became "A dualist can hold"; Lowe 2000 added to References.
+  - `delegatory-dualism` (3,734 to 3,740): "accept systematic overdetermination as the price of mental causation" replaced with Saad's broad sense of the word.
+  - `four-quadrant-dualism-taxonomy` (3,996 to 3,996): dropped "rather than by difference-making" and "fully"; Saad is type-O's neighbour "by his own stricter Closure". No other sentence touched.
+- **Engagement classification**: Lowe 2000 on Mills 1996: reported critic remark with its qualification (c-vi), no Map verdict. Type-O / two-cause family: framework-boundary (Mode Three); the Map's disagreement is a tenet commitment and nothing here claims a refutation.
+- **Left as found, awaiting sources**: "lawful co-causation" and "Mills/Lowe" groupings resting on Lowe 2003 (not read) on the interventionist page (heading, family bullet, equivocation-charge and Tenet 2 paragraphs) and on trumping-preemption. Archive sweep for "points of control" and Vaassen energy wording: 0 hits.
+- **Published**: yes
 
 ## 2026-11-12T10:58:05+00:00 - expand-topic
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-11-12T08:50:02+00:00
+ai_modified: 2026-11-12T11:07:12+00:00
 draft: false
 topics:
   - dualism
@@ -130,7 +130,7 @@ Q4 is under-discussed in contemporary analytic philosophy. The first and weighti
 
 ## A Family the Grid Under-Represents: Closure-Compatible Causal Dualism {#closure-compatible}
 
-One family falls between Q1 and Q2, poorly served by both: phenomenal properties ontologically distinct from physical ones, microphysical closure left fully intact, and mental causal relevance secured by overdetermination or mediation rather than by difference-making. Chalmers (2003) named this type-O dualism. Saad's delegatory dualism is its neighbour, not an instance: he posits unobservable violations of Closure and keeps only [[observational-closure|Observational Closure]]; physical states nomically suffice for effects without being sufficient causes, and preemption spares him overdetermination. He leaves quantum interactionism, which he classes as violating Observational Closure, to another project (see [[interface-specification-programme|the interface-specification programme]]). The grid files such positions at Q1, since neither side inflates; what the filing hides is that they obtain mental causation without needing an observable physical gap to put it in, which separates them from Q2 epiphenomenalism. Closure-compatibility is a third question the two thickness axes do not ask, and a position's answer to it is not recoverable from its cell.
+One family falls between Q1 and Q2, poorly served by both: phenomenal properties ontologically distinct from physical ones, microphysical closure left intact, and mental causal relevance secured by overdetermination or mediation. Chalmers (2003) named this type-O dualism. By his own stricter Closure, Saad's delegatory dualism is its neighbour, not an instance: he posits unobservable violations of Closure and keeps only [[observational-closure|Observational Closure]]; physical states nomically suffice for effects without being sufficient causes, and preemption spares him overdetermination. He leaves quantum interactionism, which he classes as violating Observational Closure, to another project (see [[interface-specification-programme|the interface-specification programme]]). The grid files such positions at Q1, since neither side inflates; what the filing hides is that they obtain mental causation without needing an observable physical gap to put it in, which separates them from Q2 epiphenomenalism. Closure-compatibility is a third question the two thickness axes do not ask, and a position's answer to it is not recoverable from its cell.
 
 ## Why the Thickness Axis Matters
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-11-09 23:06:15+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-12 11:07:12+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 01:06:51+00:00
-lastmod: 2026-11-09 23:06:15+00:00
+lastmod: 2026-11-12 11:07:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ This article first presents Saad's theory on its own terms, then explores how th
 
 Previous responses accepted one horn or the other:
 - **Epiphenomenalists** accept that experiences don't cause physical effects—they're merely along for the ride
-- **Overdeterminists** accept systematic overdetermination as the price of mental causation
+- **Overdeterminists**, in Saad's broad sense, hold that experiences and physical states both cause the same effects
 
 Saad rejects both. He argues that epiphenomenalism is self-undermining (if consciousness causes nothing, our reports about consciousness lack the causal connection to their subject matter that would make them reliable). Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
 

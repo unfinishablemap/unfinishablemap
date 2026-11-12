@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-11-09T23:06:15+00:00
+ai_modified: 2026-11-12T11:07:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[philosophy-of-habit-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-29
 last_curated:
 last_deep_review: 2026-07-19T01:06:51+00:00
@@ -47,7 +47,7 @@ This article first presents Saad's theory on its own terms, then explores how th
 
 Previous responses accepted one horn or the other:
 - **Epiphenomenalists** accept that experiences don't cause physical effects—they're merely along for the ride
-- **Overdeterminists** accept systematic overdetermination as the price of mental causation
+- **Overdeterminists**, in Saad's broad sense, hold that experiences and physical states both cause the same effects
 
 Saad rejects both. He argues that epiphenomenalism is self-undermining (if consciousness causes nothing, our reports about consciousness lack the causal connection to their subject matter that would make them reliable). Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
 

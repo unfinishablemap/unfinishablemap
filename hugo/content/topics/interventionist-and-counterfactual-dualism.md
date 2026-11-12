@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-11-09 18:38:51+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-12 11:07:12+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-03 15:47:00+00:00
-lastmod: 2026-11-09 18:38:51+00:00
+lastmod: 2026-11-12 11:07:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,13 +58,13 @@ This is the nearest dualist competitor to the trumping route, and the [trumping-
 
 ### Interventionist Co-Causation (Vaassen 2024)
 
-Bram Vaassen's "Mental Causation for Standard Dualists" (2024) targets the "standard objection" to dualism: that dualism seemingly cannot account for mental phenomena causing behaviour, given that behaviour is physically necessitated by entirely physical phenomena. Vaassen argues that an interventionist account, in the Woodward difference-making tradition, provides mental causation *within* a standard dualist ontology. Mental states qualify as causes because they are **points of control** — difference-making variables — for behaviour, whatever energy the physical base transfers.
+Bram Vaassen's "Mental Causation for Standard Dualists" (2024) targets the "standard objection" to dualism: that dualism seemingly cannot account for mental phenomena causing behaviour, given that behaviour is physically necessitated by entirely physical phenomena. Vaassen, a physicalist, argues that an interventionist account, in the Woodward difference-making tradition, provides mental causation *within* a standard dualist ontology. Higher-level phenomena earn causal status by "exhibiting sufficiently robust patterns of correlation with target effects", and dualist mental phenomena could do the same.
 
-The crucial structural claim is that difference-making is not energy transfer, so causal closure read as a claim about energy or forces is simply untouched. Both the experience and its physical base come out as genuine causes; this is co-causation, and there is no preemption competition to resolve. As [trumping-preemption](/concepts/trumping-preemption/) records (following the author's own correction of an earlier Map framing), Vaassen's is a *both-are-causes interventionist* view, not a preemption view — which is precisely what makes it a rival to trumping rather than an instance of it.
+His closure principle, Physical Completeness, stays in place: every physical phenomenon is at every time physically necessitated by a purely physical one. He denies that overdetermination results. Both the experience and its physical base come out as genuine causes; this is co-causation, and there is no preemption competition to resolve. As [trumping-preemption](/concepts/trumping-preemption/) records (following the author's own correction of an earlier Map framing), Vaassen's is a *both-are-causes interventionist* view, not a preemption view — which is precisely what makes it a rival to trumping rather than an instance of it.
 
 ### Lawful Co-Causation: the Older Lineage (Mills 1996; Lowe 2003)
 
-Both Kroedel and Vaassen descend from an older invisible-causation lineage. Eugene Mills's "Interactionism and Overdetermination" (1996) argues the causal-closure argument against dualism fails because overdetermination is not ruled out, and defends **overdeterministic interactionism**: an arm's rising is overdetermined by both a non-physical mental cause and a physical cause. The structural insight the Map already borrows is that overdetermination is objectionable only when *coincidental* — when two independent processes happen to converge. A systematic mind–body law makes the convergence non-coincidental, stripping the overdetermination of its "bad" flavour.
+Kroedel and Vaassen were preceded by an older invisible-causation literature. Eugene Mills's "Interactionism and Overdetermination" (1996), known to the Map only through its author's later summary and its citers, defends **overdeterministic interactionism**: interactionists need not deny the causal closure of the physical. The point the Map already borrows is that overdetermination is objectionable only when *coincidental* — when two independent processes happen to converge. Kroedel (2020, p. 169) makes it in print: the two causes are lawfully tied, so "it is no coincidence that the effect is overdetermined".
 
 E. J. Lowe's "Physical Causal Closure and the Invisibility of Mental Causation" (2003) adds the other half. Lowe develops models on which, *if* mental causation is real, it would nonetheless appear to physical scientists that all the causation in human behaviour is purely physical. He distinguishes what the physicalist is entitled to — no *detectable* trajectory violation, what Saad (2025) later labels *observational closure* — from closure full-stop. If lawful co-causation preserves observational closure, the dualist has not taken on the bad kind of overdetermination.
 
@@ -81,7 +81,7 @@ Lei Zhong's "A causal argument for physicalism" (2023) is the physicalist mirror
 The clean way to locate every position is the number of genuine causes it posits for a single behaviour.
 
 - **Trumping / delegation** ([the Map's preference](/concepts/delegatory-causation/)): *one* authoritative cause. Both the experience and its physical base remain counterfactually sufficient, but a higher-order psychophysical law selects the experience as *the* cause. The base is not cut off and not epiphenomenal; it is simply not authoritative when a matching experience is present. Efficacy is relocated onto an authority axis with no trajectory signature.
-- **Co-causation** (this family): *two* genuine causes. The experience makes a difference (Vaassen), or the effect depends on it (Kroedel), or the law makes their joint production non-coincidental (Mills/Lowe). No selection is needed because there is no competition to adjudicate — closure, read as an energy claim, was never in tension with a non-energetic difference-maker. Adjacent to the family rather than in it is Sophie Gibb's powers-based double-prevention account, on which the experience is no cause of the behaviour but permits the neural cause to operate by preventing a would-be preventer — closure kept by subtraction rather than by counting two causes; the [exclusion page](/concepts/causal-exclusion-argument/) carries it as a fourth dualist option.
+- **Co-causation** (this family): *two* genuine causes. The experience makes a difference (Vaassen), or the effect depends on it (Kroedel), or the law makes their joint production non-coincidental (Mills/Lowe). No selection is needed because there is no competition to adjudicate: Kroedel and Vaassen each keep physical completeness and count the experience a cause besides. Adjacent to the family rather than in it is Sophie Gibb's powers-based double-prevention account, on which the experience is no cause of the behaviour but permits the neural cause to operate by preventing a would-be preventer — closure kept by subtraction rather than by counting two causes; the [exclusion page](/concepts/causal-exclusion-argument/) carries it as a fourth dualist option.
 
 The [exclusion argument](/concepts/causal-exclusion-argument/) in its canonical Kimian form pushes the dualist toward epiphenomenalism or systematic overdetermination. Both routes claim a third option, but they take opposite exits. Trumping keeps *one* cause and pays for it with an authority law whose non-stipulative ground is an open problem. Co-causation accepts *two* causes and pays for it by arguing the overlap is benign. A dualist who accepts Kroedel's or Vaassen's dissolution on its own terms could drop trumping entirely — which is exactly why trumping may be "answering a question already closed," as the [trumping-preemption](/concepts/trumping-preemption/) article concedes.
 
@@ -103,7 +103,7 @@ Refusing the exemption still leaves no rout. Kroedel's branch would lose its cla
 
 Here the article turns from source exposition to Map integration. The question the taxonomy poses for the Map is whether its tenets favour the closure-preserving trumping route it currently prefers, or the difference-making co-causation route. Framed relative to the Map's own commitments, the landing is that the tenets are jointly *satisfiable* by both routes but do not pull symmetrically — and, non-obviously, the discriminating tenet leans toward the rival.
 
-**Closure alone does not decide it.** Both routes preserve *observable* closure. Trumping does so by being difference-making-free: both processes complete, a law picks the authoritative one, and no trajectory changes. Vaassen/Lowe co-causation does so because difference-making is not energy transfer, so closure as an energy claim is untouched. The Map cannot appeal to observational-closure-preservation to break the tie, because both rivals deliver it.
+**Closure alone does not decide it.** Both routes preserve *observable* closure. Trumping does so by being difference-making-free: both processes complete, a law picks the authoritative one, and no trajectory changes. Vaassen's co-causation does so by keeping Physical Completeness outright, Lowe's by making the mental cause invisible to physical science. The Map cannot appeal to observational-closure-preservation to break the tie, because both rivals deliver it.
 
 **Tenet 3, read literally, favours co-causation.** [Bidirectional Interaction](/tenets/#bidirectional-interaction) says consciousness *causally influences* the physical world. Co-causation makes the experience a genuine difference-maker, which is the most natural reading of "influence." Trumping's authority-without-any-difference is the very structure the Map itself flags as uncomfortably close to [ensemble-level epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/): efficacy relocated onto an authority axis with no trajectory signature. A difference-making reading of Tenet 3 is more securely satisfied by the rival.
 
