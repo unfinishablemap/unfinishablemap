@@ -4,8 +4,8 @@ description: "QBism's probabilities are structurally dependent on consciousness�
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-10-14T12:09:02+00:00
-last_deep_review: 2026-07-17T19:20:38+00:00
+ai_modified: 2026-11-12T22:38:30+00:00
+last_deep_review: 2026-11-12T22:38:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[the-agent-shaped-hole]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-2
 ai_generated_date: 2026-01-27
 last_curated:
 ---
@@ -42,9 +42,9 @@ If quantum states describe beliefs, and collapse is merely belief updating, then
 
 Traditional quantum mechanics treated probabilities as objective: a radioactive atom has a 50% probability of decaying in one half-life whether or not anyone observes it. The Born rule describes real physical propensities.
 
-[[qbism|QBism]] (Quantum Bayesianism), developed by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, reverses this picture. Quantum states don't describe the world—they describe an agent's knowledge. Measurement doesn't reveal pre-existing values; it "creates" outcomes in the measurement act. Collapse isn't a physical process but an epistemic one: the agent updates beliefs based on new information.
+[[qbism|QBism]], which grew out of the Quantum Bayesianism of Carlton Caves, Christopher Fuchs, and Rüdiger Schack (Caves no longer counts himself a QBist; Healey, SEP), reverses this picture. Quantum states don't describe the world—they describe an agent's degrees of belief about future experience. Measurement doesn't reveal pre-existing values; it "creates" outcomes in the measurement act. Collapse isn't a physical process but an epistemic one: the agent updates beliefs based on new information.
 
-In Fuchs's view, the wave function does not describe the world—it describes an agent's expectations about future experience.
+In Gefter's (2015) summary of Fuchs's argument, the wave function "does not describe the world — it describes the observer."
 
 The epistemic turn has genuine explanatory advantages. It dissolves the measurement problem by denying there was ever a physical superposition to collapse. It explains why different observers can consistently assign different quantum states to the same system. It avoids the ontological extravagance of Many-Worlds while preserving single-world definiteness.
 
@@ -71,7 +71,7 @@ This is internal to QBism's own explanatory structure, not an external demand th
 
 John [[wheelers-participatory-universe-and-it-from-bit|Wheeler's "participatory universe"]] and Fuchs's "participatory realism" attempt to capture something important: observation is active, not passive. The user of quantum mechanics participates in constituting facts.
 
-Fuchs writes that participatory realism represents "attempts to make a deep statement about the nature of reality"—far from instrumentalism.
+Fuchs (2016) writes that participatory realism represents "attempts to make a deep statement about the nature of reality"—far from instrumentalism.
 
 But "participation" is systematically ambiguous between two very different claims:
 
@@ -85,11 +85,11 @@ This ambiguity may be deliberate philosophical modesty. But it leaves the hard p
 
 ## The Consciousness-Collapse Alternative
 
-Von Neumann (1932) and Wigner (1961) proposed that consciousness does cause collapse—not just belief updating, but real physical change. London and Bauer (1939) argued consciousness provides the "outside" perspective needed to complete measurement.
+Von Neumann (1932) showed that the formalism lets the boundary between observed system and observer be placed anywhere along the measurement chain, and was cautious about what that implied. London and Bauer (1939) went further, proposing that the observer's consciousness is what completes the measurement, understood as an update of the observer's knowledge. Wigner (1961) took the step to real physical change: consciousness acting on the state of the measured system (the sequence follows Atmanspacher's SEP entry).
 
 Where QBism makes consciousness structurally necessary but only epistemically active, consciousness-collapse makes it causally active as well. This avoids the structural-dependence problem: if consciousness causes collapse, the theory at least acknowledges consciousness as a real causal factor rather than silently relying on it.
 
-But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's work on decoherence, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but mechanistic challenges remain. Tegmark's original estimate placed neural decoherence at ~10⁻¹³ seconds (microtubules) to ~10⁻²⁰ seconds (ion superpositions)—far too fast for consciousness to intervene through ordinary neural processes. However, [[quantum-biology-and-neural-consciousness|developments in quantum biology]] have weakened the categorical version of this objection. The quantum Zeno effect—the same mechanism Stapp proposes for mental causation—has a modelled biological precedent: Denton et al. (2024) showed computationally, in a spin-dynamics model, that it can enable magnetosensitivity in tightly bound cryptochrome radical pairs. The precedent is for the *mechanism category* in a specialised photoactivated sensor, not for any neural deployment of it. Theoretical proposals (e.g. microtubule interiors modelled as quantum-electrodynamic cavities sustaining coherence of order a microsecond) remain unconfirmed, but the blanket "warm, wet brains forbid all quantum function" objection no longer holds. A timing gap between any such coherence and millisecond neural decisions still persists (see [[quantum-neural-timing-constraints]]).
+But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's (1970) argument that macroscopic systems are never isolated, a precursor of decoherence theory, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but mechanistic challenges remain. Tegmark's (2000) estimate placed neural decoherence at ~10⁻¹³ seconds (microtubules) to ~10⁻²⁰ seconds (ion superpositions)—far too fast for consciousness to intervene through ordinary neural processes. However, [[quantum-biology-and-neural-consciousness|developments in quantum biology]] have weakened the categorical version of this objection. The quantum Zeno effect—the same mechanism Stapp proposes for mental causation—has a modelled biological precedent: Denton et al. (2024) showed computationally, in a spin-dynamics model, that it can enable magnetosensitivity in tightly bound cryptochrome radical pairs. The precedent is for the *mechanism category* in a specialised photoactivated sensor, not for any neural deployment of it. Theoretical proposals (e.g. microtubule interiors modelled as quantum-electrodynamic cavities sustaining coherence of order a microsecond) remain unconfirmed, but the blanket "warm, wet brains forbid all quantum function" objection no longer holds. A timing gap between any such coherence and millisecond neural decisions still persists (see [[quantum-neural-timing-constraints]]).
 
 The deeper problem is the [[indexical-identity-quantum-measurement|indexical gap]]—consciousness-collapse explains *how* collapse happens but not why *this* consciousness exists to trigger it. That argument is developed fully in the companion article.
 
@@ -101,13 +101,13 @@ The disagreement between objective and subjective interpretations reflects a dee
 
 **Subjective reading (QBism)**: Probabilities are rational constraints on belief. The Born rule tells agents how to set credences coherently, like Dutch-book arguments in standard Bayesianism. Probabilities describe minds, not matter—and inherit the structural dependence critiqued throughout this article.
 
-**Indexical reading**: Probabilities describe the relationship between *this* consciousness and possible outcomes—not "probability that spin-up occurs" but "probability that *I* experience spin-up." The first-person perspective is constitutive. This reading draws on [[indexical-knowledge-and-identity|indexical knowledge]]—knowledge expressible only through context-dependent terms like "I" and "this"—which Perry and Lewis showed cannot be reduced to impersonal description.
+**Indexical reading**: Probabilities describe the relationship between *this* consciousness and possible outcomes—not "probability that spin-up occurs" but "probability that *I* experience spin-up." The first-person perspective is constitutive. This reading draws on [[indexical-knowledge-and-identity|indexical knowledge]]—knowledge expressible only through context-dependent terms like "I" and "this"—which Perry (1979) and Lewis (1979) argued cannot be reduced to impersonal description.
 
 The indexical reading makes explicit what the structural-dependence critique reveals: QBism's probabilities are already about what agents will experience—they just don't acknowledge that "experience" requires explanation. The indexical reading accepts the dependence on consciousness openly and builds it into the foundations, connecting the [[measurement-problem]] directly to the hard problem of consciousness.
 
 ## Relational Quantum Mechanics: The Opposite Strategy
 
-Carlo Rovelli's relational interpretation takes the opposite approach from QBism. Quantum states are relational—a system has properties only relative to another system—but "observer" means any physical system, not necessarily a conscious one. A photon detector "observes" as much as a physicist does.
+Carlo Rovelli's relational interpretation (Rovelli, SEP) takes the opposite approach from QBism. Quantum states are relational—a system has properties only relative to another system—but "observer" means any physical system, not necessarily a conscious one. A photon detector "observes" as much as a physicist does.
 
 Where QBism makes consciousness structurally central and then stays silent about it, relational QM avoids the structural-dependence problem by denying consciousness any formal role. This is a genuine advantage regarding the critique developed here: relational QM's probabilities describe physical relations, not mental states, so they carry no hidden dependence on phenomenal experience.
 
@@ -123,7 +123,7 @@ The Map's [[tenets]] commit to positions that bear on this debate:
 
 **Bidirectional Interaction**: Consciousness causally influences the physical world. Our reports about experience must involve real causal flow from mind to matter—not just from belief to belief.
 
-**No Many Worlds**: There is one actual world with definite outcomes. Many-Worlds Interpretation (MWI) has sophisticated accounts of probability and identity—proponents like Deutsch and Wallace argue that "why am I in this branch?" has a trivial answer: that's what "I" means in a branching universe. But this treats the indexical question as purely semantic rather than metaphysically substantive, and MWI's [[probability-problem-in-many-worlds|probability derivations remain circular]]. The Map maintains that personal identity and the first-person perspective resist such dissolution. See [[topics/free-will]] for related discussion of how indexical identity matters for agency.
+**No Many Worlds**: There is one actual world with definite outcomes. Many-Worlds Interpretation (MWI) has sophisticated accounts of probability and identity—Everettians in the Deutsch–Wallace tradition reply that "why am I in this branch?" has a trivial answer: that's what "I" means in a branching universe. But this treats the indexical question as purely semantic rather than metaphysically substantive, and MWI's [[probability-problem-in-many-worlds|probability derivations face a standing circularity objection]]. The Map holds, as a commitment rather than a demonstrated result, that personal identity and the first-person perspective resist such dissolution. See [[topics/free-will]] for related discussion of how indexical identity matters for agency.
 
 These commitments suggest an account where consciousness neither causes collapse globally nor is merely epistemic. Instead, consciousness grounds the indexical fact—making it the case that *this* subject experiences *this* outcome—at points where physics leaves outcomes undetermined.
 
@@ -147,7 +147,7 @@ The phenomenological test, then, is not "does consciousness exist?" (every inter
 
 This article connects to multiple tenets:
 
-**Dualism**: The phenomenological gap in subjective interpretations supports dualism. If consciousness cannot be reduced to belief states or information processing, there is something non-physical about experience that QBism leaves unexplained.
+**Dualism**: The phenomenological gap in subjective interpretations fits dualism without establishing it. If consciousness cannot be reduced to belief states or information processing, there is something non-physical about experience that QBism leaves unexplained.
 
 **Minimal Quantum Interaction**: The Map rejects both extremes—consciousness as merely epistemic (QBism) and consciousness as causing global physical changes (strong consciousness-collapse). The minimal interaction view holds that consciousness influences outcomes at quantum indeterminacies without being reducible to belief updating.
 
@@ -167,7 +167,7 @@ This article connects to multiple tenets:
 - [[quantum-probability-consciousness]] — The Map's positive reading of Born probabilities as the statistical structure of the consciousness–quantum interface, scoped to neural-site alternatives
 - [[born-rule-and-the-consciousness-interface]] — Why the Born rule cannot be derived from physics alone — the observer-dependence QBism makes explicit
 - [[consciousness-and-probability-interpretation]] — How the objective/subjective/indexical readings of probability bear on consciousness more broadly
-- [[quantum-biology-and-neural-consciousness]] — Converging evidence that quantum effects operate in neural systems
+- [[quantum-biology-and-neural-consciousness]] — Evidence-graded survey: warm-biology precedent is real, while neural quantum relevance remains open and contested
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from decoherence to neural decisions
 - [[contextual-selection-in-quantum-foundations]] — Why the indexical reading's "*I* experience *this* outcome" selection is contextuality-bound: no outcome can be assigned independently of the measurement context
 
@@ -177,7 +177,7 @@ This article connects to multiple tenets:
 
 2. Healey, R. "Quantum-Bayesian and Pragmatist Views of Quantum Theory." Stanford Encyclopedia of Philosophy.
 
-3. "Quantum Approaches to Consciousness." Stanford Encyclopedia of Philosophy.
+3. Atmanspacher, H. "Quantum Approaches to Consciousness." Stanford Encyclopedia of Philosophy.
 
 4. Rovelli, C. "Relational Quantum Mechanics." Stanford Encyclopedia of Philosophy.
 
@@ -188,3 +188,13 @@ This article connects to multiple tenets:
 7. Wigner, E. P. (1961). "Remarks on the Mind-Body Question." In The Scientist Speculates.
 
 8. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). "Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect." *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
+
+9. London, F., & Bauer, E. (1939). *La théorie de l'observation en mécanique quantique*. Paris: Hermann.
+
+10. Zeh, H. D. (1970). "On the interpretation of measurement in quantum theory." *Foundations of Physics*, 1(1), 69–76.
+
+11. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194–4206.
+
+12. Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3–21.
+
+13. Lewis, D. (1979). "Attitudes De Dicto and De Se." *The Philosophical Review*, 88(4), 513–543.

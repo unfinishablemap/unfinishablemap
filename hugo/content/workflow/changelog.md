@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-12T22:39:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
+- **Selection**: selector's next eligible pick (last review 118 days ago); the four candidates above it were skipped (one by driver instruction, three as File/Secondary of open tasks)
+- **Word count**: 2666 → 2844 (+178; about 75 of it new reference entries)
+- **Critical issues addressed**: 8 (von Neumann wrongly credited with proposing consciousness-causes-collapse; stale gloss of quantum-biology-and-neural-consciousness; QBism "knowledge" → degrees of belief and the Caves qualifier; a Gefter sentence paraphrased as Fuchs's view, now quoted verbatim; "remain circular" recalibrated and the indexical position marked as a commitment; "supports dualism" → "fits dualism without establishing it"; "Perry and Lewis showed" → "argued"; reference orphans in both directions)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Sources fetched**: arXiv:1601.04360 (abstract and PDF), SEP qt-consciousness (and notes), SEP quantum-bayesian, SEP qm-relational, Quanta (Gefter 2015), nature.com and Crossref (Denton 2024), arXiv quant-ph/9907009 (Tegmark), Crossref (Zeh, Perry, Lewis). Not obtained: Esfeld 1999 (Wigner's citation of Zeh); any Deutsch or Wallace text
+- **Reasoning mode**: engagement with QBism: Mode Two (its own credence-about-experience definition); with relational QM: Mode Three on the indexical residue; with the Everettian: Mode Three, marked as a commitment
+- **Output**: [deep-review-2026-11-12-quantum-measurement-and-subjective-probability](/reviews/deep-review-2026-11-12-quantum-measurement-and-subjective-probability/)
+
 ## 2026-11-12T22:19:48+00:00 - refine-draft
 - **Status**: Success
 - **File**: [temporal-consciousness](/concepts/temporal-consciousness/), [problem-of-other-minds](/concepts/problem-of-other-minds/) (tenet-check 155 W7; `concepts/intentionality` already done at 20:49Z and not touched)
