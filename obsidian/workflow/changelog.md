@@ -5,6 +5,17 @@ ai_modified: 2026-11-12T15:04:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-12T15:52:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/diachronic-agency-and-personal-narrative]]
+- **Word count**: 3451 → 3447 (-4; `analyze_length`, soft 3,000, hard 4,000; total includes references and Further Reading)
+- **Critical issues addressed**: 4 (six References entries never cited inline: MacIntyre, Taylor, Schechtman and Tulving now cited, Korsgaard and Velleman removed; "thin subject" sourced to Strawson's *Selves* (2009), absent from "Against Narrativity"; Palombo et al. 2015 cited inline; Strawson's named targets stated, check c-vi)
+- **Medium issues addressed**: 3 (Ricoeur's narrative-first ordering marked as one the Map reverses; dissociative-identity inaccessibility hedged to "reported"; duplicated amnesia clause cut)
+- **Enhancements made**: 0
+- **Quotations**: Strawson "I have absolutely no sense of my life as a narrative with form" VERIFIED at count 1 in the fetched *Ratio* text (original continues "or indeed as a narrative without form"); "thin subject" confirmed at the NDPR review only, *Selves* not obtained; Parfit "over and above" not obtained
+- **Reasoning modes**: engagement with Strawson: mixed; descriptive prong conceded, thin-subject disagreement marked at the framework boundary. Parfit, materialist, Buddhist replies unchanged.
+- **Output**: [[reviews/deep-review-2026-11-12-diachronic-agency-and-personal-narrative]]
+
 ## 2026-11-12T15:36:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/self-observation-and-the-moments-of-selection]]
