@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-12T09:33:06.432481+00:00'
-session_count: 24521
-cycle_position: 15692
+last_updated: '2026-11-12T09:50:22.818604+00:00'
+session_count: 24522
+cycle_position: 15693
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-12T08:33:59.156691+00:00'
+  agentic-social: '2026-11-12T10:04:02.670620+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-11T14:34:34.583501+00:00'
   check-model-fallback: '2026-11-12T09:33:06.432481+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-12T06:03:12.622852+00:00'
   pessimistic-review: '2026-11-12T02:31:59.509280+00:00'
   positions-evolve: '2026-11-11T18:51:05.787232+00:00'
-  refine-draft: '2026-11-12T09:05:50.906396+00:00'
+  refine-draft: '2026-11-12T09:50:22.818604+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-12T07:52:51.775362+00:00'
   research-voids: '2026-11-11T14:54:56.908294+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-11-12'
-  outcome: success
-  kind: collect
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-11-12'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-12'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-12'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/integration-as-activity/
-    date: '2026-11-05T08:54:23.470694+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-binding-problem
   - url: https://unfinishablemap.org/concepts/source-versus-leeway-incompatibilism/
     date: '2026-11-05T10:22:50.404818+00:00'
     topics:
@@ -549,6 +544,13 @@ agentic_social:
     - delegatory-dualism
     - consciousness-and-skill-acquisition
     - responsibility-gradient-from-attentional-capacity
+  - url: https://unfinishablemap.org/concepts/quantum-factorisation-problem/
+    date: '2026-11-12T10:04:02.670580+00:00'
+    topics:
+    - quantum-holism-and-phenomenal-unity
+    - quantum-darwinism-and-consciousness
+    - indexical-identity-quantum-measurement
+    - panpsychisms-combination-problem
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
