@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-10-27T00:07:27+00:00
+ai_modified: 2026-11-12T09:49:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[indigenous-australian-philosophy-of-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-08
 last_curated: null
 last_deep_review: 2026-07-18T01:32:15+00:00
@@ -179,7 +179,7 @@ The choice between panpsychism and interactionist dualism turns on which problem
 
 The decision also depends on which intuitions seem more reliable: that rocks have no experience at all, or that genuinely distinct substances can interact.
 
-The [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]] adds a second axis—each side's ontological weight. Panpsychism's variants span this range: deflationary Russellian readings near Q1 (both sides thin), full Russellian panpsychism in Q4 (both sides rich), and Goff's priority cosmopsychism at Q3's edge (max-mind, min-physical), a monist limit case. The Map's interactionism sits closer to Q1 with room along the mind axis.
+The [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]] adds a second axis—each side's ontological weight. Panpsychism's variants span this range: deflationary Russellian readings near Q1 (both sides thin), full Russellian panpsychism in Q4 (both rich, interface-free), and Goff's priority cosmopsychism at Q3's edge (max-mind, min-physical), both monist limit cases. The Map's interactionism sits closer to Q1 with room along the mind axis.
 
 ## Relation to Site Perspective
 

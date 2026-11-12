@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-11-05 01:39:24+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-11-12 09:49:23+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - substance-property-dualism
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-04 10:03:25+00:00
-lastmod: 2026-11-05 01:39:24+00:00
+lastmod: 2026-11-12 09:49:23+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'
@@ -126,7 +126,7 @@ Q4 appears under-discussed in contemporary analytic philosophy, perhaps because 
 
 ## The Map's Cell and Its Neighbours {#map-position}
 
-The Map's [five tenets](/tenets/) locate its commitments near Q1, with room along the mind-axis. The cell is *physical-thin* (MQI pushes physics toward leanness at the indeterminacy level) and *mind-medium* (a unified subject with minimal causal intervention, not yet committed to thick subliminal layering). Reading off the mechanism implications:
+The Map's [five tenets](/tenets/) locate its commitments near Q1, with room along the mind-axis. The cell is *physical-thin* (the default reading; MQI constrains the channel, not either side's thickness) and *mind-medium* (a unified subject with minimal causal intervention, not yet committed to thick subliminal layering). Reading off the mechanism implications:
 
 - **Causation account.** Selection / biasing of quantum-permitted outcomes on Q1's difference-making route, with room to expand toward thicker Stappian or Myersian accounts if evidence warrants; Saad's [delegatory-dualism](/topics/delegatory-dualism/) lends route-level results, not mechanism. The route carries a charge that falls on the Map's cell: with the ensemble average held at the Born weights, the bias is empirically indistinguishable from chance under any unconditioned aggregate test, though a deviation conditioned on intention, task or subject would still test it ([P-Q3](/positions/quantum-interface/#mechanism-debt)). That held average is also the Map's own appearance item, of Q3's shape but confined to selection events, and posited rather than explained ([the lawful-appearance page](/concepts/lawful-appearance-problem/#the-maps-own-appearance-debt)).
 - **Interface specification.** Narrow probabilistic channel at neural indeterminacy sites; consciousness biases the wavefunction's actualisation without injecting energy. The [interface problem](/topics/the-interface-problem/) remains the cell's open methodological burden.

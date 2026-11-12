@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-11-04 12:21:42+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-12 09:49:23+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/channel-width-third-axis/
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 22:26:00+00:00
-lastmod: 2026-11-04 12:21:42+00:00
+lastmod: 2026-11-12 09:49:23+00:00
 modified: *id001
 related_articles:
 - '[[four-quadrant-dualism-taxonomy]]'
@@ -69,7 +69,7 @@ The same canonical positions the two-axis grid populates can be ordered along ch
 
 **Saad's delegatory dualism — narrow (selection-only).** [Delegatory causation](/concepts/delegatory-causation/) has experience preempt the *default causal profile* of a physical brain state by [trumping](/concepts/trumping-preemption/) rather than competing — and, crucially, the experience causes exactly what the physical state would have caused by default. The Map's integration identifies that default profile with the Born-rule distribution over neural quantum outcomes, so consciousness "selects *within* Born-rule probabilities rather than deviating from them." Selection within a fixed, Born-preserving candidate set is precisely the selection-only channel. Saad's bare mechanism sits at the channel-width floor. (The "default" qualifier is load-bearing: drop it and the Subset Law becomes circular. The narrowness is a property of *what crosses* the interface, not of either pole.)
 
-**Stapp's quantum-Zeno dualism — narrow channel, thick endpoints.** This is the position that forces the third axis. The parent taxonomy reads Stapp as max-mind / max-physical — a thick observer with full selection power on one side, a thick quantum ontology of full state-vector realism on the other, and a narrow selection channel between them. His intervention is "quantum-Zeno biasing only," holding neural patterns against decay by observation rate; consciousness "*selects* among patterns the brain presents" rather than generating them — what the mechanism-costs reading calls a probabilistic channel "structurally Q1-like even when sitting in a Q4 ontology." So Stapp's *channel* is near the floor — narrow, selection-flavoured, energy-injecting nothing — while both *poles* are thick. (A qualifier the corpus preserves: Stapp's basis-choice layer, the *Process 1* choice of which observable to probe, is wider than strict outcome-level selection-only, so his channel is narrow but not at the absolute floor.)
+**Stapp's quantum-Zeno dualism — narrow channel, thick endpoints.** This is the position that forces the third axis. The parent taxonomy reads Stapp as max-mind / max-physical — a thick observer with full selection power on one side, a thick quantum ontology of full state-vector realism on the other, and a narrow selection channel between them. His intervention is "question-choice and quantum-Zeno holding": observation rate holds neural patterns against decay; consciousness "*selects* among patterns the brain presents" rather than generating them — what the mechanism-costs reading calls a probabilistic channel "structurally Q1-like even when sitting in a Q4 ontology." So Stapp's *channel* is near the floor — narrow, selection-flavoured, energy-injecting nothing — while both *poles* are thick. (A qualifier the corpus preserves: Stapp's basis-choice layer, the *Process 1* choice of which observable to probe, is wider than strict outcome-level selection-only, so his channel is narrow but not at the absolute floor.)
 
 **Cartesian substance dualism — wide (energy-transfer).** The classical formulation routes mental influence through what the mechanism-costs article calls "Cartesian energy-transfer," the move that puts the conservation objection in its most pointed form. The interface carries a quantity physics tracks as work. The channel is wide: it admits energy injection, the widest operation in the ordering. Descartes sits at the channel-width ceiling regardless of where his poles sit.
 

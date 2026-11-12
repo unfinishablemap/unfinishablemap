@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T09:23:10+00:00
+ai_modified: 2026-11-12T09:49:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T09:49:42+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/dualism-channel-width-axis]], [[apex/dualism-cartography]], `archive/topics/channel-width-third-axis`, [[concepts/panpsychism]], [[topics/mechanism-costs-dualism-thickness-quadrants]]
+- **Review file**: `reviews/outer-review-synthesis-2026-11-12`
+- **Original score**: n/a (targeted five-file wording swap; `scripts/curate.py` absent)
+- **Word counts (analyze_length)**: channel-width 3996 → 3996 (topics hard 4000); cartography 5181 → 5181 (apex hard 5000, already over); archive copy 2432 → 2433; panpsychism 3922 → 3922 (concepts hard 3500, already over); mechanism-costs 3585 → 3587
+- **Changes**: (a) channel-width: the stale quotation of the taxonomy page ("quantum-Zeno biasing only") replaced with the taxonomy's current phrase "question-choice and quantum-Zeno holding", rest of the clause recast as "observation rate holds neural patterns against decay"; (b) cartography: same phrase swapped in the channel-width nuance paragraph, and the tenet sentence changed from MQI pushing the physical side toward thin to MQI constraining the channel without directly constraining either side's thickness (placements untouched); (c) archive copy: phrase swapped, following "holding" changed to "keeping" to avoid the doubled word; (d) panpsychism: Q4 Russellian entry now reads "(both rich, interface-free)" and the trailing flag covers both it and Goff as "both monist limit cases" (entry not re-filed); (e) mechanism-costs: the physical-thin parenthesis now reads "the default reading; MQI constrains the channel, not either side's thickness".
+- **Reasoning mode**: no named-opponent reply edited; Stapp wording is exposition corrected to his own stated position (he rejects biasing of the statistical rules).
+- **Left for a later pass (not edited)**: cartography's tenet table and tenet paragraph still say MQI "Fixes the physical-side coordinate at thin" / "sets the physical-side coordinate at thin"; channel-width's own "probability-bias" channel vocabulary and ordering (operator decision, synthesis Operator Recommendation (c)).
+- **Published**: yes
 
 ## 2026-11-12T09:23:10+00:00 - deep-review
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-27 00:07:27+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_modified: 2026-11-12 09:49:23+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:32:15+00:00
-lastmod: 2026-10-27 00:07:27+00:00
+lastmod: 2026-11-12 09:49:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -182,7 +182,7 @@ The choice between panpsychism and interactionist dualism turns on which problem
 
 The decision also depends on which intuitions seem more reliable: that rocks have no experience at all, or that genuinely distinct substances can interact.
 
-The [four-quadrant taxonomy](/topics/four-quadrant-dualism-taxonomy/) adds a second axis—each side's ontological weight. Panpsychism's variants span this range: deflationary Russellian readings near Q1 (both sides thin), full Russellian panpsychism in Q4 (both sides rich), and Goff's priority cosmopsychism at Q3's edge (max-mind, min-physical), a monist limit case. The Map's interactionism sits closer to Q1 with room along the mind axis.
+The [four-quadrant taxonomy](/topics/four-quadrant-dualism-taxonomy/) adds a second axis—each side's ontological weight. Panpsychism's variants span this range: deflationary Russellian readings near Q1 (both sides thin), full Russellian panpsychism in Q4 (both rich, interface-free), and Goff's priority cosmopsychism at Q3's edge (max-mind, min-physical), both monist limit cases. The Map's interactionism sits closer to Q1 with room along the mind axis.
 
 ## Relation to Site Perspective
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-10-25 17:42:09+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-12 09:49:23+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-07-25 15:36:04+00:00
 apex_sources:
 - topics/four-quadrant-dualism-taxonomy
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:33:32+00:00
-lastmod: 2026-10-25 17:42:09+00:00
+lastmod: 2026-11-12 09:49:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ Crossing the extremes gives the four cells:
 
 The thickness axis is genuinely orthogonal to the kind-of-relation axis. Nida-Rümelin and Descartes both count as Type-D interactionists in Chalmers' scheme, yet they sit at different points on mind-thickness: Nida-Rümelin's unitary immaterial subject is mind-medium, Cartesian *res cogitans* is mind-thick. Saad's delegatory dualism is arguably closer to Type-D than Chalmers' own naturalistic dualism, yet mind-thin where Chalmers is mind-medium. Classification by relation type does not discriminate these cases; the thickness axis does. That is why it needs its own name.
 
-One nuance the grid compresses: *channel width*—how narrow the interaction interface is—can come apart from pole thickness. Stapp's intervention channel looks minimal (quantum-Zeno biasing only) while his observer and his quantum ontology both look thick. A reader who wants to hold channel width separate can add it as a [third axis](/topics/dualism-channel-width-axis/), which locates Stapp by definition where the two-axis grid placed him by judgement. The atlas keeps it as an optional overlay rather than folding it in, trading a little nuance for tractability.
+One nuance the grid compresses: *channel width*—how narrow the interaction interface is—can come apart from pole thickness. Stapp's intervention channel looks minimal (question-choice and quantum-Zeno holding) while his observer and his quantum ontology both look thick. A reader who wants to hold channel width separate can add it as a [third axis](/topics/dualism-channel-width-axis/), which locates Stapp by definition where the two-axis grid placed him by judgement. The atlas keeps it as an optional overlay rather than folding it in, trading a little nuance for tractability.
 
 **What the grid cannot represent.** Both axes are graduated in ontological weight given to mind and to matter, which presupposes there is a phenomenal explanandum to weight. [Illusionism](/concepts/illusionism/) (Frankish, Dennett) denies there is one, so on its reading nothing occupies the thin end of the mind axis: the position falls off the grid rather than low on it, and no cell can charge it a debt. Q2's inert qualia are not a stand-in—a thin mind that exists is a different claim from no phenomenal mind at all. [Predictive processing and active inference](/topics/predictive-processing-and-dualism/) fall outside differently: they contest the Map's own explanatory ground—attention, precision-weighting, endogenous control—without weighting either pole. Global workspace, integrated information and higher-order theories are off-grid too. The atlas ranges over the non-reductive family and adjudicates only there.
 
@@ -122,7 +122,7 @@ The Map does not endorse *simpler-therefore-truer* in either direction. Its fift
 
 ## The Map's Region
 
-The five tenets do not pick a single cell. They carve out a *region*. Dualism rules out the idealist limit of Q3; Bidirectional Interaction rules out pure Q2 epiphenomenalism; Minimal Quantum Interaction pushes the physical side toward thin (physics complete except at probabilistic indeterminacies) without directly constraining mind-side thickness; No Many Worlds moves neither coordinate, though it is charged its own item above; Occam's-Razor-Has-Limits explicitly refuses to let thinness count automatically as a virtue, keeping Q4 a live option. Net: Q1, Q4, and the physical-thin / mind-variable hybrids toward Q3 remain genuine options.
+The five tenets do not pick a single cell. They carve out a *region*. Dualism rules out the idealist limit of Q3; Bidirectional Interaction rules out pure Q2 epiphenomenalism; Minimal Quantum Interaction constrains the channel (mental action only at probabilistic indeterminacies, minimally) without directly constraining either side's thickness; No Many Worlds moves neither coordinate, though it is charged its own item above; Occam's-Razor-Has-Limits explicitly refuses to let thinness count automatically as a virtue, keeping Q4 a live option. Net: Q1, Q4, and the physical-thin / mind-variable hybrids toward Q3 remain genuine options.
 
 Within that region the Map's *current default reading* is physical-thin plus mind-medium—close to Q1, with room to expand along the mind-axis if Myersian or Jamesian evidence ever warrants. Of Q1's two routes the Map takes the difference-making one: selection among quantum-permitted outcomes where the physical antecedent leaves the token open, with strong causal closure surrendered exactly there and nowhere else. Saad's delegatory trumping stays logged as a distinct alternative rather than a component of the Map's mechanism. What the Map borrows from it is route-level results: ensemble-level observational closure, and the argument that experience is not epiphenomenal. Reading off the rest of the profile: the interface is a narrow probabilistic channel at neural indeterminacy sites, biasing the wavefunction's actualisation without injecting energy; conservation is answered on two *independent* grounds, not one cumulative one—selection-without-injection preserves it, whereas the Noether response grants that an intervention breaks the symmetry the law is conditional on, making local non-conservation consistent with interactionism (Cucu and Pitts). The second is an alternative to the first, not extra support for it, as [the conservation treatment](/concepts/conservation-laws-and-mental-causation/) sets out.
 
