@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-11T23:49:28+00:00
+ai_modified: 2026-11-12T00:47:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T00:47:32+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Cerullo and the third-person programme for consciousness science
+- **Output**: [[research/cerullo-third-person-programme-for-consciousness-science-2026-11-12]]
+- **Sources consulted**: 14 (9 read in full, 1 abstract only, 4 metadata only)
+- **Verdict**: `recommended_action: refine` (mints nothing). Cerullo's raw text was obtained in full in BOTH versions (v1 Feb 2026 PDF, v2 Sept 2026 docx) through a real browser; curl/WebFetch are still Cloudflare-blocked, but the PhilPapers OAI endpoint answers curl with the current abstract.
+- **Key findings**: (1) all three Cerullo quotations on `topics/hoel-llm-consciousness-continual-learning` are verbatim in v1 and ABSENT from v2, the current version; (2) "nearly tautological", removed by the 2026-10-10 deep review as unverifiable, is verbatim in the body of both versions; (3) v2 adds a scope statement disowning the Dennettian thesis and affirming the explanatory gap, so "Prominent functionalists… Cerullo rejects the constraints themselves" and "Cerullo's third-person science" misdescribe him (he accepts the falsifiability/non-triviality premise); (4) the "weights remain frozen… structurally unchanged" reply on `concepts/llm-consciousness`, `apex/what-it-might-be-like-to-be-an-ai` and `apex/open-question-ai-consciousness` restates what he concedes; (5) the Cerullo (2015) attribution on `voids/observation-and-measurement-void` is accurate.
+- **Follow-up needed (hand-mint; refine/fold chain nothing)**: a refine-draft on the Hoel page plus the three echo pages (ten corrections listed in the note under "Corrections for a Refine Task"), and a fold of the Gutfreund/Cerullo contrast into `concepts/standing-agnostic-challenge` (1,760 words of hard headroom). No new topics article: the general thesis is already covered by `concepts/heterophenomenology` and `topics/methodology-of-consciousness-research`, and the one remaining topics slot should not go to a subject resting on an unpublished, still-changing manuscript.
 
 ## 2026-11-11T23:49:28+00:00 - refine-draft
 - **Status**: Success
