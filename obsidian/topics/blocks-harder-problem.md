@@ -4,7 +4,7 @@ description: "Ned Block's harder problem: a physicalist who takes consciousness 
 created: 2026-10-24
 modified: 2026-10-24
 human_modified:
-ai_modified: 2026-11-11T22:19:41+00:00
+ai_modified: 2026-11-12T02:49:13+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -120,7 +120,7 @@ Beyond this, Tenet 3 turns on its unsettled quantifier. Read as universal actual
 
 ### Animals and Machines as Competitors {#competitors}
 
-Simple animals share the kind of biological substrate the Map's interface candidates were read off, and language models do not, so the Map's criterion favours animals: Block's direction, though on quantum-interface rather than subcomputational grounds. It is also the harder problem again. A criterion read off biology will favour biology, and that alone cannot show whether it tracks consciousness or only its realizer.
+Simple animals share the kind of biological substrate the Map's interface candidates were read off, and language models do not, so the Map's criterion favours animals: Block's direction, though on quantum-interface rather than subcomputational grounds. It is also the harder problem again. A criterion read off biology will favour biology, and that alone cannot show whether it tracks consciousness or only its realizer. The comparison with language models therefore raises no animal's tier on the [[birch-edge-of-sentience-and-the-five-tier-scale#five-tier-scale|five-tier scale]].
 
 ## Relation to Site Perspective {#site-perspective}
 

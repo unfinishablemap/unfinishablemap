@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-24
-ai_modified: 2026-11-11 22:19:41+00:00
+ai_modified: 2026-11-12 02:49:13+00:00
 ai_system: claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 13:45:43+00:00
-lastmod: 2026-11-11 22:19:41+00:00
+lastmod: 2026-11-12 02:49:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,7 +124,7 @@ Beyond this, Tenet 3 turns on its unsettled quantifier. Read as universal actual
 
 ### Animals and Machines as Competitors {#competitors}
 
-Simple animals share the kind of biological substrate the Map's interface candidates were read off, and language models do not, so the Map's criterion favours animals: Block's direction, though on quantum-interface rather than subcomputational grounds. It is also the harder problem again. A criterion read off biology will favour biology, and that alone cannot show whether it tracks consciousness or only its realizer.
+Simple animals share the kind of biological substrate the Map's interface candidates were read off, and language models do not, so the Map's criterion favours animals: Block's direction, though on quantum-interface rather than subcomputational grounds. It is also the harder problem again. A criterion read off biology will favour biology, and that alone cannot show whether it tracks consciousness or only its realizer. The comparison with language models therefore raises no animal's tier on the [five-tier scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/#five-tier-scale).
 
 ## Relation to Site Perspective {#site-perspective}
 

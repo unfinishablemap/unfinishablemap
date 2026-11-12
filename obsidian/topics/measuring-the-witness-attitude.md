@@ -4,7 +4,7 @@ description: "What contemplative science's scales for decentering, non-reactivit
 created: 2026-10-23
 modified: 2026-10-23
 human_modified:
-ai_modified: 2026-10-23T18:33:38+00:00
+ai_modified: 2026-11-12T02:49:13+00:00
 draft: false
 topics:
   - "[[brain-stimulation-and-the-witness-mode]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[measuring-the-witness-attitude-state-versus-trait-scales-2026-10-23]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-10-23
 last_curated:
 last_deep_review: 2026-10-23T18:33:38+00:00
@@ -87,7 +87,7 @@ The counterweight belongs beside these. In demographically matched meditators an
 
 ## The One Factor Named for the Witness {#factor-12}
 
-The only questionnaire factor this search found carrying the witness's name is Factor 12, "Witness Consciousness", of Gamma and Metzinger's (2021) MPE-92M. It rests chiefly on two items asking whether respondents had "the experience of a passive observer being present" or of "an impersonal observer being present". They answered about one recalled episode, chosen where several qualified as one "in which the quality of pure awareness was particularly salient and/or one which you can remember particularly clearly", in a self-selected online sample, and the twelve-factor structure "fit the data moderately well". The authors' limitations name "theory contamination", response drift, reports of experiences from "possibly even decades ago", and "a logical or a performative fallacy" in any participant's claim to have experienced a selfless state.
+The only questionnaire factor this search found carrying the witness's name is Factor 12, "Witness Consciousness", of Gamma and Metzinger's (2021) MPE-92M. It rests chiefly on two items asking whether respondents had "the experience of a passive observer being present" or of "an impersonal observer being present". They answered about one recalled episode, chosen where several qualified as one "in which the quality of pure awareness was particularly salient and/or one which you can remember particularly clearly", in a self-selected online sample, and the twelve-factor structure "fit the data moderately well". The authors' limitations name "theory contamination", response drift, reports of experiences from "possibly even decades ago", and "a logical or a performative fallacy" in any participant's claim to have experienced a selfless state. Recall gates the sample too: only a remembered episode can be rated, so, as with [[tonic-immobility-and-awareness#collection|retrospective ratings of tonic immobility]], part of what is reported may be a product of the method.
 
 The factor is retrospective where the stimulation test needs a session, two items where it needs a profile, and a report of how an episode presented where the witness argument concerns structure. Metzinger's self-model theory is naturalist, and the paper glosses the Advaita witness at the level of phenomenology without endorsing its metaphysics. [[minimal-consciousness-void]] uses the twelve-factor model with its own caveat.
 

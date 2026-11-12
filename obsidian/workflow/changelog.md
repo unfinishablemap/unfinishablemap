@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T02:40:21+00:00
+ai_modified: 2026-11-12T02:49:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T02:49:40+00:00 - refine-draft
+- **Status**: Success (three-file task; all three edited)
+- **Review file**: [[reviews/optimistic-2026-10-24-fresh-article-wing]] Priority List items 1, 2 and 4, applied with the review's text. Every anchor was re-counted in the live file (count 1 each) before editing
+- **Original score**: not scored (scripts/curate.py absent); targeted insertions from the review
+- **File 1**: [[topics/emotion-regulation-and-the-timing-of-control]] — item 1: decisive-design paragraph added after "The fit discriminates nothing." (primed versus explicit reappraisal goals, early or late, tracked by the late positive potential; closes "Either result fits the Map's reading and a physical one alike"). The Gyurak et al. (2011) open-question string was re-fetched (NCBI BioC JSON for PMC3280343; the Europe PMC full-text endpoint returned HTTP 500) and grepped, count 1, in the Conclusions paragraph; the source's preceding clause about conscious deployment is not quoted. Two cleanups: "monitoring" added to the lede's list of placement points; the clause "which is why the placement there is fit, not evidence" removed from the choice-study sentence because the next paragraph opens with the same words. Length 3619 → 3680 (+61; ceiling +75; hard 4000)
+- **File 2**: [[topics/measuring-the-witness-attitude]] — item 2: one sentence after the MPE-92M limitations naming the recall gate, with a piped link to the tonic-immobility page's collection section. That section was read first: it says episodes lost to amnesia cannot be rated and that the vivid-memory claim is "partly guaranteed by the method", and it already links back to this page's Factor 12. The new sentence claims only the base filter and a "may"; it does not say the MPE-92M selected for memorability. Length 2896 → 2928 (+32; ceiling +45)
+- **File 3**: [[topics/blocks-harder-problem]] — item 4: one sentence at the end of the Animals and Machines paragraph saying the comparison with language models raises no animal's tier, piped to the five-tier scale section (anchor exists). No earlier form of the sentence was on the page ("tier" counted 0). The 2026-10-24 deep-review wording and yesterday's cross-review link are untouched. Length 2756 → 2770 (+14; ceiling +30)
+- **Checks**: no new references; the Gyurak 2011 entry is intact. Sentences following each insertion keep their subjects ("Seneca offers a precedent."; "The factor is retrospective"; the Relation to Site Perspective heading). Both new wikilinks are piped. No "load-bearing" on any of the three pages
+- **ai_system**: file 2 claude-opus-5-5 → claude-opus-5-5+claude-fable-5-2; files 1 and 3 already carried claude-fable-5-2 and are unchanged
+- **Published**: yes
 
 ## 2026-11-12T02:40:21+00:00 - refine-draft
 - **Status**: Success
