@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T16:40:52+00:00
+ai_modified: 2026-11-12T16:57:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T16:57:53+00:00 - optimistic-review
+- **Status**: Success (reports only; no article, todo or state edits)
+- **Content reviewed**: the moral phenomenology and normativity wing, six pages read in full: `topics/ethics-of-cognitive-enhancement-under-dualism`, `voids/normative-void`, `topics/consciousness-and-moral-agency-under-duress`, `topics/phenomenology-of-moral-life`, `topics/consciousness-and-normative-force`, `topics/ethics-under-dualism`. Chosen by coverage measured on review content: the oldest coherent cluster, none with an optimistic mention in the last 50 days
+- **Output**: [[reviews/optimistic-2026-11-12-moral-phenomenology-and-normativity-wing]]
+- **Finding**: five of the six pages state what their cases do and do not show in matching terms; `normative-void` is the outlier. It links to none of its five siblings, quotes as a research finding a phrase that the IEP entry uses to set up Väyrynen's objection (Väyrynen is absent from the corpus), carries a Further Reading label for `recognition-void` that the target does not support (0 occurrences of "moral"), and never engages moral progress, its own first falsifier
+- **Priority list (4)**: (1) NV source-framing pass on three quotations at L58–L68 and the L151 label; (2) CNF L55, L131 and L143 brought into line with PML's 10-22 calibration and P-VS3's band; (3) NV debunking scope sentence, the stale "implicit position" at L124, and reciprocal links; (4) NV fold of the inductive argument from past moral catastrophe (E. G. Williams 2015; metadata confirmed at Crossref, content unread)
+- **Sources fetched**: IEP "Moral Perception", SEP "Moral Dilemmas", the New York Declaration, Crossref records for Palazzo et al. and E. G. Williams. Not obtained: Palazzo full text (publisher page blocked), OpenAlex (daily keyless budget exhausted)
+- **Operator decision raised**: whether the register should reconcile NV's debunking claim with P-VS3 explicitly
+- **Tasks minted**: none (driver brief: reports only)
 
 ## 2026-11-12T16:40:52+00:00 - research-topic
 - **Status**: Success (delta note; subject already researched on 2026-11-08)
