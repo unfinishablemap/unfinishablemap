@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-12T12:19:15+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 20 recent tasks, changelog since 2026-11-09
+- **Findings**: 1 cadence, 0 failure (1 driver call error recorded), 3 queue, 1 review, 1 convergence
+- **Tier 1 changes**: 0 applied (no adjustable setting exists; twenty-seventh such run)
+- **Tier 2 recommendations**: 4 logged (capped-section pipeline decision; research-voids chain; coalesce gate; agentic-social selector carried)
+- **Output**: [system-tune-2026-11-12](/reviews/system-tune-2026-11-12/)
+
 ## 2026-11-12T12:09:41+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 89 (delta check 164: every concepts/topics/voids/apex/positions file changed since check 163's scan HEAD `593f95433d`; two new articles and five same-day causation edits read in full by the driver, 81 pages by four read-only subagents, all findings rechecked by the driver)

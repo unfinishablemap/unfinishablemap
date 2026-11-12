@@ -5352,6 +5352,35 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: voids 118/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
 - **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
+### P2: `concepts/coupling-modes` grounds Tenet 2's minimality in parsimony, which the tenets page and the page's own later text deny
+- **Type**: refine-draft
+- **File**: obsidian/concepts/coupling-modes.md
+- **Status**: pending
+- **Source**: check-tenets 2026-11-12 (check 164), driver-minted
+- **Generated**: 2026-11-12
+- **Review file**: obsidian/reviews/tenet-check-2026-11-12.md
+- **Notes**: Priority item 1 (W1). L82 "A dualist framework that posits massive mental intervention in physics loses parsimony advantages" (count 1 at mint) is offered as a reason the minimality tenet exists; the tenets page says Tenet 2's minimality is empirical-constraint minimality, and this page's own L126 agrees. L162 ("isn't simpler") rides with it. Re-ground both sentences in the empirical constraint. Use the scripted OLD/NEW and length pricing in the review file's Priority List; locate each OLD string at count 1 and print the live line first; stay inside the stated headroom (measure with analyze_length, gate is >=); check the following sentence's pronouns after each replacement. Do not weaken a tenet commitment: the fix calibrates the supporting sentence, not the tenet. No browser tools. ai_modified from `date -u`; append the running model id to ai_system only if absent anywhere in the string. Changelog before `uv run python scripts/sync.py`; verify hugo copies. No "This is not X. It is Y."; no "load-bearing".
+
+### P3: Tenet 3 over-reach sentences on two pages, and Whitehead cited as support on `concepts/agent-causation` without his stance
+- **Type**: refine-draft
+- **File**: obsidian/concepts/agent-causation.md
+- **Status**: pending
+- **Source**: check-tenets 2026-11-12 (check 164), driver-minted
+- **Generated**: 2026-11-12
+- **Review file**: obsidian/reviews/tenet-check-2026-11-12.md
+- **Secondary files**: obsidian/apex/what-it-might-be-like-to-be-an-ai.md, obsidian/concepts/prospective-memory.md
+- **Notes**: THREE FILES, report each by name. Priority items 2 and 3 (W2, W3, W4). (a) agent-causation L137 "offers complementary support" (count 1): state Whitehead's own stance in the sentence; headroom was 7 words at mint, the review's fix is +5. (b) apex/what-it-might-be-like-to-be-an-ai L148 "reveals a telling asymmetry" (count 1) asserts the baseline-cognition asymmetry as fact where the tenets page rates it "suggestive but contested"; calibrate. (c) prospective-memory L172 "is what the Map's downward causation predicts" (count 1): reword to compatibility unless a discriminating prediction is stated. Use the scripted OLD/NEW and length pricing in the review file's Priority List; locate each OLD string at count 1 and print the live line first; stay inside the stated headroom (measure with analyze_length, gate is >=); check the following sentence's pronouns after each replacement. Do not weaken a tenet commitment: the fix calibrates the supporting sentence, not the tenet. No browser tools. ai_modified from `date -u`; append the running model id to ai_system only if absent anywhere in the string. Changelog before `uv run python scripts/sync.py`; verify hugo copies. No "This is not X. It is Y."; no "load-bearing".
+
+### P3: Three smaller Tenet 3 calibration loci (inverted-qualia, pain-consciousness-and-causal-power, pain-asymbolia)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/inverted-qualia.md
+- **Status**: pending
+- **Source**: check-tenets 2026-11-12 (check 164), driver-minted
+- **Generated**: 2026-11-12
+- **Review file**: obsidian/reviews/tenet-check-2026-11-12.md
+- **Secondary files**: obsidian/topics/pain-consciousness-and-causal-power.md, obsidian/concepts/pain-asymbolia.md
+- **Notes**: THREE FILES, report each by name. Priority item 4 (W5, W6, and W7 carried from check 163). (a) inverted-qualia L177 (with L171): an earlier edit removed the epiphenomenalism pointer and left the rhetorical objection standing as if unanswered; restore a short answer or pointer. (b) pain-consciousness-and-causal-power L172 "Pain is the Map's clearest case of consciousness influencing the physical world" (count 1): calibrate to what the page's evidence supports. (c) pain-asymbolia L121: see check 163's W7 in obsidian/reviews/ (the prior tenet-check file) and apply it. Use the scripted OLD/NEW and length pricing in the review file's Priority List; locate each OLD string at count 1 and print the live line first; stay inside the stated headroom (measure with analyze_length, gate is >=); check the following sentence's pronouns after each replacement. Do not weaken a tenet commitment: the fix calibrates the supporting sentence, not the tenet. No browser tools. ai_modified from `date -u`; append the running model id to ai_system only if absent anywhere in the string. Changelog before `uv run python scripts/sync.py`; verify hugo copies. No "This is not X. It is Y."; no "load-bearing".
+
 ## Completed Tasks
 
 
