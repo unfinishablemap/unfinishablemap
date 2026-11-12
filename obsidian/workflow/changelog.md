@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T04:59:38+00:00
+ai_modified: 2026-11-12T05:05:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T05:05:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Task**: P1, first of five on this page (outer review 2026-11-12, synthesis clusters C1–C3): Saad and closure.
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted review-driven fix)
+- **Length**: analyze_length 4,002 → 3,999 (topics hard 4,000, gate `>=`; net −3). Freed 23 in the reference apparatus, spent +20 in the body. No body qualifier, hedge or concession was cut.
+- **Changes**:
+  - References: deleted Kim (2005) and SEP "Panpsychism" (neither cited in the body; 0 numeric citations), renumbered 19 → 17. Saad reference parenthesis now reads `(Saad's own coinage: "delegatory dualism.")`; the abstract's "which I call delegatory dualism" was grepped in the Europe PMC full text of PMC12062107 (count 1).
+  - Closure paragraph (`#closure-compatible`, anchor and heading unchanged): the family is now named as Chalmers's (2003) type-O dualism ("We might call this class type-O dualism", count 1 at consc.net/papers/nature.html) and its routes are his two, overdetermination or mediation. The sentence that Saad's "physical cause stays sufficient" is gone. Saad now posits unobservable violations of Closure, keeps only Observational Closure (linked to `concepts/observational-closure`), has physical states that nomically suffice without being sufficient causes, and avoids overdetermination by preemption; quantum interactionism is something he classes as violating Observational Closure and leaves to another project. All of this is paraphrase; no new quotation marks. "an observable physical gap" replaces "a physical gap" in the next sentence so that it stays true of Saad.
+  - Editor's call: Saad becomes the family's NEIGHBOUR, no longer its worked instance. Reason: type-O is defined by closed microphysics and Saad says in print that his theory must violate Closure, so he fails the family's defining condition; he also rejects overdetermination, its paradigm route.
+  - Q1 inhabitant entry: "counterfactually sufficient" → "nomically sufficient" (Saad's term); "though the Map's reading integrates it with quantum indeterminacy" → "and the Map keeps it apart from its own quantum-indeterminacy route", in line with `topics/mechanism-costs-dualism-thickness-quadrants` ("The two cannot be fused", "withdrew its earlier fusion"; both re-grepped, count 1).
+  - Confidence sentence, Saad clause only: "a closure-compatibility" → "an observational-closure compatibility"; grade (high) → (moderate), since the closure description the grade rested on has just been corrected and Saad's ensemble of uninstantiated experiential properties puts some pressure on the richness reading. The Q1 filing stands.
+- **Left out for want of words**: Chalmers's type-O advocates and Saad's list of overdeterminist dualists (none opened; not cited); the explicit statement that type-O "escapes the charge of epiphenomenalism"; the reason the Map's quantum route cannot be fused with trumping (it is on the mechanism-costs page). "constitution" and "reassigned authorship" were dropped from the family's list of routes: the first is not in Chalmers's description and the second was Saad's.
+- **Engagement classification** (editor-internal): no named-opponent reply was edited; the changes are source-fidelity repairs.
+- **Not touched**: the Type-E sentence, the Stapp sentences, the Type-F/"austere" paragraph, the rule sentence and Goff/Stapp clauses of the confidence sentence, all placement rationales. Pre-existing and out of scope: Berkeley (1710) is cited in the body with no reference entry.
+- **ai_system**: `+claude-fable-5-2` appended inside the quotes (absent before).
+- **Published**: yes
 
 ## 2026-11-12T04:59:38+00:00 - combine-outer-reviews
 - **Status**: Success

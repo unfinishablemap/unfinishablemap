@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-11-05T01:40:23+00:00
+ai_modified: 2026-11-12T05:04:38+00:00
 draft: false
 topics:
   - dualism
@@ -42,7 +42,7 @@ related_articles:
   - "[[tenets/background-commitments]]"
 ai_contribution: 100
 author:
-ai_system: "claude-opus-4-7+claude-opus-5+claude-opus-5-5"
+ai_system: "claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-2"
 ai_generated_date: 2026-04-21
 last_curated:
 last_deep_review: 2026-07-27T17:49:03+00:00
@@ -76,7 +76,7 @@ The thickness axis is orthogonal to the substance/property distinction and to Ch
 
 ### Limits of the Thickness Metaphor {#limits-thickness}
 
-"Thickness" is a family of related but distinguishable measures: *structural richness* (how many layers the side posits beyond the minimum), *causal work* (how much the side contributes to producing effects), *counterfactual role* (which features the effect depends on), and *channel width* (how narrow the interaction interface is). The taxonomy tracks structural richness above the minimum each side's proponents are forced to concede; it does not track causal work or channel width separately. The Stapp illustration in §"Why the Thickness Axis Matters" suggests these dimensions can come apart: Stapp's intervention channel seems minimal, his observer ontology thick, and his quantum ontology also thick — three values across what may be only a two-axis taxonomy. The four-quadrant reading compresses channel and richness into a single max-mind / max-physical classification for him, at the cost of placing some positions (Stapp chief among them) by judgement rather than definition. A reader who wants to hold channel width separate should add a third axis; the taxonomy trades that nuance for tractability. Where placement turns on which measure is in play, the alternatives are recorded rather than one categorical cell: Stapp's split reading is high-confidence in each half and low-confidence that one cell is the right output; Goff is mind-thick but monist, so Q3 is a limit-case reading rather than a quadrant assignment (moderate); Saad is Q1 on richness, with a closure-compatibility neither axis records (high). [[dualism-channel-width-axis|That deferred third axis is developed separately]]: it orders the canonical positions by interface narrowness (Saad selection-only, Stapp narrow-channel/thick-endpoints, Cartesian energy-transfer wide, Kastrup off-axis with no channel) and indicates that the added coordinate locates Stapp by definition where this grid alone needed judgement.
+"Thickness" is a family of related but distinguishable measures: *structural richness* (how many layers the side posits beyond the minimum), *causal work* (how much the side contributes to producing effects), *counterfactual role* (which features the effect depends on), and *channel width* (how narrow the interaction interface is). The taxonomy tracks structural richness above the minimum each side's proponents are forced to concede; it does not track causal work or channel width separately. The Stapp illustration in §"Why the Thickness Axis Matters" suggests these dimensions can come apart: Stapp's intervention channel seems minimal, his observer ontology thick, and his quantum ontology also thick — three values across what may be only a two-axis taxonomy. The four-quadrant reading compresses channel and richness into a single max-mind / max-physical classification for him, at the cost of placing some positions (Stapp chief among them) by judgement rather than definition. A reader who wants to hold channel width separate should add a third axis; the taxonomy trades that nuance for tractability. Where placement turns on which measure is in play, the alternatives are recorded rather than one categorical cell: Stapp's split reading is high-confidence in each half and low-confidence that one cell is the right output; Goff is mind-thick but monist, so Q3 is a limit-case reading rather than a quadrant assignment (moderate); Saad is Q1 on richness, with an observational-closure compatibility neither axis records (moderate). [[dualism-channel-width-axis|That deferred third axis is developed separately]]: it orders the canonical positions by interface narrowness (Saad selection-only, Stapp narrow-channel/thick-endpoints, Cartesian energy-transfer wide, Kastrup off-axis with no channel) and indicates that the added coordinate locates Stapp by definition where this grid alone needed judgement.
 
 ## The Four Quadrants
 
@@ -86,7 +86,7 @@ A scope note before the quadrants: the taxonomy ranges over non-reductive positi
 
 *"Only what we need, on both sides, and no more."*
 
-- **Bradford Saad's delegatory dualism** (2025): experiences preempt physical states whose *default causal profiles* match them, so neither side inflates beyond what preemption requires. The underlying structural template is [[trumping-preemption]] — Schaffer's (2000) category of redundant causation in which a higher-order rule selects one of two sufficient processes as authoritative — which lets the physical base remain counterfactually sufficient (no max-physical move into hidden variables) while the experience adds only causal authority, not subliminal content (no max-mind move into thick mental layering). Saad's framework does not itself commit to a quantum interpretation, though the Map's reading integrates it with quantum indeterminacy (see [[delegatory-dualism]] and [[delegatory-causation]]). The most worked-out recent Q1 candidate in the literature known to us.
+- **Bradford Saad's delegatory dualism** (2025): experiences preempt physical states whose *default causal profiles* match them, so neither side inflates beyond what preemption requires. The underlying structural template is [[trumping-preemption]] — Schaffer's (2000) category of redundant causation in which a higher-order rule selects one of two sufficient processes as authoritative — which lets the physical base remain nomically sufficient (no max-physical move into hidden variables) while the experience adds only causal authority, not subliminal content (no max-mind move into thick mental layering). Saad's framework does not itself commit to a quantum interpretation, and the Map keeps it apart from its own quantum-indeterminacy route (see [[delegatory-dualism]] and [[delegatory-causation]]). The most worked-out recent Q1 candidate in the literature known to us.
 - **[[neutral-monism|Neutral monism]]** (Mach; late James; Russell's transitional phase): both mind and matter supervene on a neutral base, neither side ontologically primary. Technically monist but behaves like deflationary dualism along both axes — the dedicated page develops why the Map reads that behaviour as instability rather than economy.
 - **Deflationary readings of Russellian monism**: some readings treat quiddities as ontologically lean placeholders rather than full phenomenal stuff.
 - **Minimal interactionism**: [[interactionist-dualism|interactionist dualism]] read as "biasing agent at indeterminacy" without further subliminal structure drifts toward Q1.
@@ -130,7 +130,7 @@ Q4 is under-discussed in contemporary analytic philosophy. The first and weighti
 
 ## A Family the Grid Under-Represents: Closure-Compatible Causal Dualism {#closure-compatible}
 
-One family falls between Q1 and Q2, poorly served by both: phenomenal properties ontologically distinct from physical ones, microphysical closure left fully intact, and mental causal relevance secured by overdetermination, constitution, or reassigned authorship rather than by difference-making. Saad's delegatory dualism is the worked instance the Map already holds — the physical cause stays sufficient and the experience preempts its authority, which is why Saad treats closure-violating quantum interactionism as a *different* theory from his own (see [[interface-specification-programme|the interface-specification programme]]). The grid files such positions at Q1, since neither side inflates; what the filing hides is that they obtain mental causation without needing a physical gap to put it in, which separates them from Q2 epiphenomenalism. Closure-compatibility is a third question the two thickness axes do not ask, and a position's answer to it is not recoverable from its cell.
+One family falls between Q1 and Q2, poorly served by both: phenomenal properties ontologically distinct from physical ones, microphysical closure left fully intact, and mental causal relevance secured by overdetermination or mediation rather than by difference-making. Chalmers (2003) named this type-O dualism. Saad's delegatory dualism is its neighbour, not an instance: he posits unobservable violations of Closure and keeps only [[observational-closure|Observational Closure]]; physical states nomically suffice for effects without being sufficient causes, and preemption spares him overdetermination. He leaves quantum interactionism, which he classes as violating Observational Closure, to another project (see [[interface-specification-programme|the interface-specification programme]]). The grid files such positions at Q1, since neither side inflates; what the filing hides is that they obtain mental causation without needing an observable physical gap to put it in, which separates them from Q2 epiphenomenalism. Closure-compatibility is a third question the two thickness axes do not ask, and a position's answer to it is not recoverable from its cell.
 
 ## Why the Thickness Axis Matters
 
@@ -186,17 +186,15 @@ Three open questions deserve further work.
 3. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly* 32, 127–136.
 4. Jaworski, W. (2016). *Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem*. Oxford University Press. https://academic.oup.com/book/7169
 5. Kastrup, B. *Analytic Idealism Glossary*. https://analyticidealism.com/glossary.html
-6. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-7. Myers, F. W. H. (1903). *Human Personality and Its Survival of Bodily Death*. https://psi-encyclopedia.spr.ac.uk/articles/frederic-wh-myers/
-8. Nida-Rümelin, M. (2010). "An Argument from Transtemporal Identity for Subject-Body Dualism." In *The Waning of Materialism*, Oxford University Press, 191–212. Her unitary-subject view is discussed in the Stanford Encyclopedia of Philosophy entry "Dualism," which notes she prefers "subject-body dualism" to "substance dualism." https://plato.stanford.edu/entries/dualism/
-9. Russell, B. (1927). *The Analysis of Matter*; Alter & Pereboom, "Russellian Monism," *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/russellian-monism/
-10. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. (Develops the position the Map labels "delegatory dualism.") Summary: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
-11. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
-12. Stapp, H. "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
-13. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press.
-14. Stanford Encyclopedia of Philosophy — Dualism. https://plato.stanford.edu/entries/dualism/
-15. Stanford Encyclopedia of Philosophy — Panpsychism. https://plato.stanford.edu/entries/panpsychism/
-16. Tegmark, M. (2000). "Importance of Quantum Decoherence in Brain Processes." *Physical Review E* 61: 4194–4206. https://arxiv.org/abs/quant-ph/9907009
-17. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
-18. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Bradford Saad: Delegatory Dualism (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
-19. Southgate, A., Oquatre-sept, C., Fabcinq, C., & Ocinq, C. (2026-04-23). Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface? (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/
+6. Myers, F. W. H. (1903). *Human Personality and Its Survival of Bodily Death*. https://psi-encyclopedia.spr.ac.uk/articles/frederic-wh-myers/
+7. Nida-Rümelin, M. (2010). "An Argument from Transtemporal Identity for Subject-Body Dualism." In *The Waning of Materialism*, Oxford University Press, 191–212. Her unitary-subject view is discussed in the Stanford Encyclopedia of Philosophy entry "Dualism," which notes she prefers "subject-body dualism" to "substance dualism." https://plato.stanford.edu/entries/dualism/
+8. Russell, B. (1927). *The Analysis of Matter*; Alter & Pereboom, "Russellian Monism," *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/russellian-monism/
+9. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. (Saad's own coinage: "delegatory dualism.") Summary: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
+10. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
+11. Stapp, H. "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
+12. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press.
+13. Stanford Encyclopedia of Philosophy — Dualism. https://plato.stanford.edu/entries/dualism/
+14. Tegmark, M. (2000). "Importance of Quantum Decoherence in Brain Processes." *Physical Review E* 61: 4194–4206. https://arxiv.org/abs/quant-ph/9907009
+15. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
+16. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Bradford Saad: Delegatory Dualism (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
+17. Southgate, A., Oquatre-sept, C., Fabcinq, C., & Ocinq, C. (2026-04-23). Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface? (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/
