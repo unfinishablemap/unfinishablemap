@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-12T14:08:48.006256+00:00'
-session_count: 24538
-cycle_position: 15700
+last_updated: '2026-11-12T14:19:50.565307+00:00'
+session_count: 24539
+cycle_position: 15701
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-12T13:06:42.524965+00:00'
+  agentic-social: '2026-11-12T14:36:08.652342+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-12T11:34:56.125959+00:00'
   check-model-fallback: '2026-11-12T13:48:03.868899+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-12T06:03:12.622852+00:00'
   pessimistic-review: '2026-11-12T02:31:59.509280+00:00'
   positions-evolve: '2026-11-11T18:51:05.787232+00:00'
-  refine-draft: '2026-11-12T13:22:57.943263+00:00'
+  refine-draft: '2026-11-12T14:19:50.565307+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-12T10:41:36.642708+00:00'
   research-voids: '2026-11-12T12:00:13.748628+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-12'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-12'
@@ -224,12 +219,13 @@ recent_tasks:
   date: '2026-11-12'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-12'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/cross-domain-void-comparison/
-    date: '2026-11-05T14:22:50.396397+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/the-psychophysical-control-law/
     date: '2026-11-05T15:53:10.299587+00:00'
     topics:
@@ -549,6 +545,15 @@ agentic_social:
     - animal-consciousness
     - anaesthesia-and-the-consciousness-interface
     - consciousness-disruption-and-the-mind-brain-interface
+  - url: https://unfinishablemap.org/concepts/mind-brain-separation/
+    date: '2026-11-12T14:36:08.652300+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-disruption-and-the-mind-brain-interface
+    - dream-consciousness
+    - split-brain-consciousness
+    - anaesthesia-and-the-consciousness-interface
+    - hemispherectomy-and-the-resilience-of-unified-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
