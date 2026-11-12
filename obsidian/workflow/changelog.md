@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T01:34:10+00:00
+ai_modified: 2026-11-12T02:31:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T02:31:11+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/correlationism-and-the-ancestrality-argument]] (first pessimistic pass; a content grep of reviews/ for the slug found nine files and no pessimistic or outer review)
+- **Findings**: four priority items, each with its exact sentence (grep -c -F = 1). (1) The page classifies the Map with Meillassoux's 2012 vocabulary but misses his "hyperphysics" category and his coordination objection to dualism, both in the lecture it already cites (pp. 12-15, grepped in the transcript). (2) Positing two terms is called "the exact denial" of a thesis the page defines as being about access. (3) P-Q2 and P-Q9 are said to commit the Map to a mind-independence claim they do not entail; locality comes from Tenet 2 and prebiotic-collapse. (4) Hallward is quoted without Nathan Brown's published rejoinder (The Speculative Turn, 2011, grepped) or his other three charges
+- **Leads, not verified in the primary**: Bitbol's Maintenant la finitude (2019) against the unscoped claim that no paper connects ancestrality to quantum measurement; Brassier's intellectual-intuition difficulty
+- **Not obtained**: After Finitude and Nihil Unbound primary texts (archive.org lending-only); García-Fernández 2026 abstract
+- **Headroom**: analyze_length 3294 / 4000, 705 words
+- **Tasks minted**: 1 (P2 refine-draft); parse_tasks active 382 → 383
+- **Output**: [[reviews/pessimistic-2026-11-12-correlationism-and-the-ancestrality-argument]]
 
 ## 2026-11-12T01:34:10+00:00 - refine-draft
 - **Status**: Success
