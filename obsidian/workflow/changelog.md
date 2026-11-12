@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T08:19:31+00:00
+ai_modified: 2026-11-12T08:50:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T08:50:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Task**: last of five same-file tasks from the 2026-11-12 outer-review cycle (biasing vocabulary, pointer to the Born-preserving apex, Stapp's physical-side placement). Review files: `reviews/outer-review-2026-11-12-claude-fable-5-2`, synthesis `reviews/outer-review-synthesis-2026-11-12`
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven pass)
+- **Length**: `analyze_length` 3997 before, 3996 after (topics hard 4000, gate `>=`). Per-item deltas: pointer +0, wording +0, tenet sentence -1, Stapp entry -2, confidence clause +2
+- **Changes**:
+  - Pointer: "a biasing mechanism" in the articulation-pressure sentence now carries a piped link to `born-preserving-causal-efficacy` (bare slug, unique across sections), so the word that names the Q1 pressure reaches the page stating the Born-statistics form of it
+  - Wording: the Q1 "Minimal interactionism" label "biasing agent at indeterminacy" now reads "single-outcome biasing at indeterminacy", following the tenets' "The bias acts on which single outcome is realised, not on the aggregate measure". The tenet's own word "biasing" is kept
+  - Tenet sentence: Minimal Quantum Interaction is now said to constrain the channel (the mental acts only at probabilistic indeterminacies, minimally) and not directly to constrain either side's thickness; the old wording read an opening in closure as physical thinness, which the stripped definitions no longer allow. Agrees with `topics/dualism-channel-width-axis` ("a commitment about *channel width* specifically ... independent of where the thickness axes place it")
+  - Stapp: no separating criterion follows from the definitions (thin = what physics says and nothing more; whether real potentialities add to that is itself the open judgement), so the confidence was lowered and no criterion invented. The Q4 entry says quantum physics is "arguably rich"; the confidence sentence reads "high-confidence except on his physics (moderate)"
+  - Not added: a Born-dilemma paragraph, Eccles, any reference change
+- **Engagement classification**: none; no reply to a named opponent was edited (honest marking of the Map's own placement only)
+- **Reported, not settled** (synthesis Operator Recommendation (c)): "bias" is per-outcome in `tenets/tenets`, `positions/quantum-interface` P-Q2 and `apex/born-preserving-causal-efficacy`, and distribution-shifting ("probability-bias ... no longer preserves Born statistics") in `topics/dualism-channel-width-axis`
+- **Carry-forward**: `topics/mechanism-costs-dualism-thickness-quadrants` ("MQI pushes physics toward leanness at the indeterminacy level") and `apex/dualism-cartography` ("Minimal Quantum Interaction pushes the physical side toward thin (physics complete except at probabilistic indeterminacies)") still carry the reading this pass removed here
+- **Published**: yes
 
 ## 2026-11-12T08:19:31+00:00 - coalesce
 - **Status**: Abandoned (no merge; nothing archived, no content files changed)
