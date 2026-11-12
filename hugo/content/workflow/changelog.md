@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-12T05:35:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Original score**: n/a (targeted attribution repair from the 2026-11-12 outer reviews, cluster C4; `scripts/curate.py` is absent)
+- **Changes**: Attributions task, second of five on this page. Length 3,999 before, 3,999 after (hard gate 4,000). (a) The closing sentence of the Type-F "pattern in the literature" paragraph no longer credits Chalmers 2003 with a rich/austere distinction: it now names his phenomenal and protophenomenal Type-F variants and marks rich/austere as the Map's gloss (consc.net/papers/nature.html re-grepped: "austere" 0 hits; the "protophenomenal or phenomenal properties" sentence present). (d) Goff's name dropped from that sentence: rich/austere not found as his terms in the OpenAlex book abstract, the ten chapter abstracts, the NDPR review, or the SEP panpsychism entry; Goff 2017 stays cited for priority cosmopsychism. (e) The Pereboom clause dropped: his term is "qualitative inaccuracy" (Crossref chapter titles), a thesis about introspection that is no classification adjacent to thickness, and the page carries no Pereboom monograph reference. Items a+d+e: -6 words. (c) "A second axis is rarely named" now carries the exception "C. D. Broad's status matrix aside" (+6; Broad's matrix confirmed in the opening of Chalmers 2003; no reference entry added, reachable through reference 1). (f) skipped, no words left. No named-opponent reply edited, so no reasoning-mode classification applies.
+- **Published**: yes
+
 ## 2026-11-12T05:05:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)

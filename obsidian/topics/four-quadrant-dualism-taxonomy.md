@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-11-12T05:04:38+00:00
+ai_modified: 2026-11-12T05:35:31+00:00
 draft: false
 topics:
   - dualism
@@ -48,7 +48,7 @@ last_curated:
 last_deep_review: 2026-07-27T17:49:03+00:00
 ---
 
-Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F — the last of which Chalmers classes as *monism*, retained here because the D/E/F scheme is doing comparative work throughout). A second axis is rarely named: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are extensively discussed in the literature and one of which appears to be largely avoided by contemporary philosophers, partly because maximum commitments on both sides carry real explanatory costs and partly because the discipline tends to read parsimony as a virtue.
+Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F — the last of which Chalmers classes as *monism*, retained here because the D/E/F scheme is doing comparative work throughout). A second axis is rarely named, C. D. Broad's status matrix aside: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are extensively discussed in the literature and one of which appears to be largely avoided by contemporary philosophers, partly because maximum commitments on both sides carry real explanatory costs and partly because the discipline tends to read parsimony as a virtue.
 
 This article names the two axes, populates the quadrants with concrete positions, and uses The Unfinishable Map's [[tenets]] as a worked example of how commitments narrow the taxonomic space. The Map's first three tenets rule out the min-mind/max-physical quadrant (they reject [[epiphenomenalism|epiphenomenalism]] and full physical closure) but *under-determine* choice among the remaining three. Naming the thickness axis makes visible a question the dominant taxonomies hide: not only *what kind* of dualism but *how much* of each side.
 
@@ -138,7 +138,7 @@ The dominant taxonomies (substance vs property; Type-D / Type-E / Type-F) organi
 
 Stapp is perhaps the cleanest illustration. His view is interactionist (Type-D by relation), but the thickness axis seems to separate two features of his account that are usually conflated: the *intervention channel* is minimal (quantum-Zeno biasing only), while the *observer itself* appears ontologically thick. "Minimal intervention" and "rich mind" are not the same dimension, and reading Stapp as minimal on both axes misses half the structure. The quadrants' inhabitants instantiate structural types that recur across traditions: the [[interaction-problem-across-traditions|five structural types of interaction solution]] supply the interface logic these positions adopt — Stapp's narrow-channel/thick-endpoints account sits in the quantum-openings (Type-4) family at Q4, while process positions sit in the dissolution-through-process (Type-3) family at the monist edge.
 
-The axis also explains a pattern in the literature. Q1 promises minimal commitments on both sides but faces articulation pressure — a biasing mechanism seems to require either more mind than Q1 concedes or more physics than standard quantum mechanics allows. Q2 is the default reflex for contemporary philosophers who treat physical ontology as fixed by science and mental ontology as the contested addition. Q3 tends to slide toward idealism once the mental carries all the ontological work. Q4 is under-discussed for the parsimony reasons given above. The thickness axis makes explicit what adjacent classifications — Chalmers' distinction between rich and austere Type-F positions (2003), Goff's 'rich' vs 'austere' panpsychism (2017), Pereboom-style worries about qualitative inertness — only partially track.
+The axis also explains a pattern in the literature. Q1 promises minimal commitments on both sides but faces articulation pressure — a biasing mechanism seems to require either more mind than Q1 concedes or more physics than standard quantum mechanics allows. Q2 is the default reflex for contemporary philosophers who treat physical ontology as fixed by science and mental ontology as the contested addition. Q3 tends to slide toward idealism once the mental carries all the ontological work. Q4 is under-discussed for the parsimony reasons given above. The thickness axis makes explicit what an adjacent classification — Chalmers' phenomenal and protophenomenal Type-F variants (2003), glossed here as rich and austere — only partially tracks.
 
 What each cell *costs* to inhabit — its causation account, interface specification, and conservation engagement — is worked out cell by cell in [[mechanism-costs-dualism-thickness-quadrants]].
 
