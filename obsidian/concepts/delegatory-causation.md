@@ -2,9 +2,9 @@
 title: "Delegatory Causation"
 description: "Bradford Saad's mechanism for mental causation: experiences preempt the default causal profile of brain states by trumping rather than competing—a proposed answer to the exclusion problem, free of overdetermination but empirically silent."
 created: 2026-02-15
-modified: 2026-10-25
+modified: 2026-11-12
 human_modified: null
-ai_modified: 2026-10-25T08:55:24+00:00
+ai_modified: 2026-11-12T13:20:47+00:00
 last_deep_review: 2026-10-25T08:55:24+00:00
 draft: false
 topics:
@@ -37,7 +37,7 @@ related_articles:
   - "[[constitution-vs-causal-work]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-04-18
 last_curated: null
 coalesced_from:
@@ -171,7 +171,7 @@ Delegatory causation supports multiple tenets of the Map's framework.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Delegation provides the causal structure for the Map's third tenet. Consciousness causally influences the physical world—not by adding a competing cause alongside physical states, but by taking over causal work those states would otherwise perform. Reports about consciousness are genuinely caused by conscious experiences, avoiding the self-undermining charge against epiphenomenalism.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. These operate at different levels—mechanism and structure—but their integration is a Map-specific proposal, not an automatic fit, and the two sit in real tension. Biasing an indeterminate quantum outcome is difference-making, whereas delegatory trumping is difference-making-free and violates closure only unobservably; Saad himself classes quantum interactionism, a different theory from delegatory dualism, as violating even *observational* closure. The quantum-selection channel and the trumping route are therefore best read as distinct and potentially competing mechanisms ([[bidirectional-interaction]]), not two descriptions of one process. Where the Map does join them—the [[delegation-meets-quantum-selection|delegation-selection bridge]]—consciousness biases outcomes (mechanism) and this biasing is offered as what delegation amounts to (structure). The [[invertebrate-consciousness-as-interface-test|invertebrate test case]] sharpens this: if delegation occurs wherever architecturally adequate systems couple with consciousness, a bee's brain delegates through the same preemption structure as a human cortex—the mechanism must be scale-independent.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. These operate at different levels—mechanism and structure—and the two sit in real tension. Biasing an indeterminate quantum outcome is difference-making, whereas delegatory trumping is difference-making-free and violates closure only unobservably; Saad himself classes quantum interactionism, a different theory from delegatory dualism, as violating even *observational* closure. The quantum-selection channel and the trumping route are therefore best read as distinct and potentially competing mechanisms ([[bidirectional-interaction]]), not two descriptions of one process. Where the Map once joined them—the since-withdrawn [[delegation-meets-quantum-selection|delegation-selection bridge]]—consciousness biased outcomes (mechanism) and this biasing was offered as what delegation amounts to (structure). The [[invertebrate-consciousness-as-interface-test|invertebrate test case]] sharpens this: if delegation occurs wherever architecturally adequate systems couple with consciousness, a bee's brain delegates through the same preemption structure as a human cortex—the mechanism must be scale-independent.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The Born-rule identification makes the Map's rejection of MWI essential to integrating delegation with quantum mechanics. If all quantum outcomes occur in parallel branches, there is no selection among them—and therefore no preemption of the Born-rule profile by experience. On the Map's reading, delegation requires that one outcome becomes actual while others are excluded; this requirement attaches to the quantum bridge specifically, not to Saad's determinism-compatible mechanism in the abstract.
 
@@ -183,14 +183,14 @@ Delegatory causation is not proven superior to its rivals. Its narrower claim—
 
 The mechanism specifies *where* and *how* mental causation could operate without contradicting empirical findings. It does not establish *that* mental causation in fact operates this way. The case for that further claim rests on the broader Map framework—the [[hard-problem-of-consciousness|hard problem]], conceivability arguments, the [[trilemma-of-selection]] at points of genuine indeterminacy—not on the causal structure alone.
 
-Within the [[four-quadrant-dualism-taxonomy|thickness taxonomy of dualist positions]], Saad's bare mechanism is the cleanest current min-mind / min-physical inhabitant—neither side inflates beyond what preemption requires. Whether any workable interaction specification can remain purely in that quadrant, or whether some thickening on one side is ultimately unavoidable, is the live stability question for this family of positions.
+Within the [[four-quadrant-dualism-taxonomy|thickness taxonomy of dualist positions]], Saad's bare mechanism is the most worked-out recent min-mind / min-physical candidate in the literature known to us (moderate confidence)—neither side inflates beyond what preemption requires. Whether any workable interaction specification can stay in that quadrant, or must thicken on one side, is the live stability question for this family.
 
 Saad's full theory—his five constraints and the Map integration—is developed in [[delegatory-dualism]]. This article specifies the unified mechanism—default profile, preemption, delegation—that makes the broader theory work.
 
 ## Further Reading
 
 - [[delegatory-dualism]] — Saad's full theory including five constraints and Map integration
-- [[delegation-meets-quantum-selection]] — The bridge between delegation and quantum selection
+- [[delegation-meets-quantum-selection]] — The withdrawn delegation-selection bridge and the surviving Born-rule identification
 - [[trumping-preemption]] — Schaffer's fourth species of redundant causation and the broader philosophical debate around it
 - [[mental-causation-and-downward-causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[causal-closure]] — The principle delegation selectively violates

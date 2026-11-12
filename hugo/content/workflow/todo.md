@@ -39,18 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt idealism calibration in correlationism-and-the-ancestrality-argument
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/correlationism-and-the-ancestrality-argument.md
-- **Notes**: From topic-concept anchoring audit 2026-11-12. The topic article over-claims relative to its anchor concept [idealism](/concepts/idealism/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.52/kw is below 2.61/kw (target = 60% of anchor 4.36/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-11-12
-
-
 ### P3: Research The collapse of the substance-property dualism distinction
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-12.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-11-12 (raised by Claude and Gemini, one subject): Francescotti 2001, Zimmerman 2010, Schneider 2012, Lycan 2013 and Weir 2023, as collected in SEP Dualism section 2, argue that the case for property dualism supports substance dualism if it supports anything. The Map cites Weir only as co-author of the SEP entry, and its four-quadrant taxonomy treats the substance/property line as secondary without engaging this literature. Verify each work at a source; the reviewers did not open them. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/collapse-of-the-substance-property-dualism-distinction-2026-11-12.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'collapse-of-the-substance-property-dualism-distinction' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -5383,6 +5371,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-12: Adopt idealism calibration in correlationism-and-the-ancestrality-argument
+- **Type**: refine-draft
+- **File**: obsidian/topics/correlationism-and-the-ancestrality-argument.md
+- **Notes**: From topic-concept anchoring audit 2026-11-12. The topic article over-claims relative to its anchor concept [idealism](/concepts/idealism/); failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.52/kw is below 2.61/kw (target = 60% of anchor 4.36/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-11-12: Vaassen (2024) is misdescribed on two pages (an energy-transfer claim and the phrase "points of control" that his paper does not contain; a physicalist introduced as a dualist), and four more pages carry type-O / overdeterminism wording the sources do not support
 - **Type**: refine-draft

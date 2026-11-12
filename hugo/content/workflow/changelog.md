@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 12:09:41+00:00
+ai_modified: 2026-11-12 13:21:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 12:09:41+00:00
+lastmod: 2026-11-12 13:21:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T13:21:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Secondary file**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Original score**: not scored (`scripts/curate.py` is absent; assessment by full read)
+- **Task**: bring both pages into line with the specification programme's withdrawal of the delegation/quantum-selection fusion (consistency report from the 2026-11-12 refine of `concepts/interactionist-dualism`; review file `reviews/outer-review-synthesis-2026-11-12`)
+- **What was withdrawn, as established from the live pages**: `apex/interface-specification-programme` withdraws the presentation of delegatory trumping and quantum difference-making as one mechanism (trumping needs a sufficient physical cause, difference-making an insufficient one). It adopts the difference-making route, borrows only delegatory dualism's route-level results, logs trumping as a distinct alternative, and keeps the default-profile-to-Born identification as the Map's own physical reading. `topics/mechanism-costs-dualism-thickness-quadrants` states the same.
+- **Changes, delegation-meets-quantum-selection**: description and lead no longer state the fusion as current; the lead says what was proposed, that the programme withdrew it, why (mechanism-costs sentence quoted verbatim), and that the Born identification survives as a Map candidate that Saad does not make. "Two Frameworks", "Preemption at the Quantum Level" and "What the Bridge Does Not Resolve" now mark the bridge as the earlier proposal; the structural non-identity paragraph carries the sufficiency argument in the apex's words (two verbatim quotations) and no longer says the identity is held open "on grounds of tenet-coherence". Relation to Site Perspective intro, Dualism, Minimal Quantum Interaction and Bidirectional Interaction entries reworded so the two routes are separate; the Tenet 3 standing sentence is unchanged. Two related_articles added. The "10 bits per second" sentences are untouched.
+- **Changes, delegatory-causation**: "the cleanest current min-mind / min-physical inhabitant" became "the most worked-out recent min-mind / min-physical candidate in the literature known to us (moderate confidence)", matching the taxonomy; the Minimal Quantum Interaction entry and the Further Reading label now describe the bridge as withdrawn.
+- **Length (analyze_length)**: delegation-meets-quantum-selection 3,099 to 3,211 (hard 4,000); delegatory-causation 3,496 to 3,490 (hard 3,500).
+- **Engagement classification**: no opponent reply edited; the register is marking of the Map's own earlier claim.
+- **Checks**: every Map-internal quotation on the topic page at count 1 on its live source; (surname, year) orphan check clean both directions on both files; four strings other pages quote from the topic page still present.
+- **Not fixed, other pages still summarising the topic page as holding the fusion**: `concepts/consciousness-selecting-neural-patterns` L188, `topics/trilemma-of-selection` L148, `topics/delegatory-dualism` L186, `topics/overdetermination-dissolution-under-selection-only-interactionism` L85, L93, L135, `concepts/mental-causation-and-downward-causation` L103, `topics/interventionist-and-counterfactual-dualism` L126 (and L112 "The Map still prefers trumping"), `concepts/skill-delegation` L145, `archive/concepts/causal-delegation` L111.
+- **Unverified, pre-existing**: the Saad quotation "explaining the possibility of phenomenal-physical causal relations" on the topic page has 0 hits in the Map's Saad research note; not checked against the paper in this pass.
+- **Published**: yes
 
 ## 2026-11-12T12:34:01+00:00 - refine-draft
 - **Status**: Success
