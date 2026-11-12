@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T10:40:45+00:00
+ai_modified: 2026-11-12T10:58:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T10:58:05+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Self-Observation and the Moments of Selection (operator-requested P1)
+- **Output**: [[topics/self-observation-and-the-moments-of-selection]]
+- **Word count**: 3274 by `analyze_length` total (prose 2663; Further Reading 118; References 488; topics soft 3000 / hard 4000, headroom 725)
+- **Based on research**: yes, [[research/self-observation-and-the-moments-of-selection-2026-11-12]]
+- **Framing**: built on the note's Assess-First Verdict. The opening paragraph states that the strong premise fails (self-observation cannot locate, time or confirm a selection; three independent blocks: the 10–19 order timescale gap, inferred decision time, the P-A4 verification limit) and that the weak premise survives as a programme (decision kinds as candidate conditioning variables for the conditionals P-Q2 leaves free), raising exposure to a null. Source exposition (five sections) is separated from the Map's reading (one section with five subsections, then the five-tenet section).
+- **Reasoning mode (Planck / MacKay / Breuer)**: conceded on felt openness on the rival's own terms, with no in-framework rebuttal attempted; effort is conceded as non-evidential too (cost-signal accounts). The one move made inside the rival's framework uses MacKay's own p. 40 statement that it is unknown whether anything physically odd accompanies a free action, which leaves a statistical question; the article says in plain language that if no statistical difference is ever found the disagreement sits at bedrock. The Breuer–Planck link is labelled as the Map's reading.
+- **Open fork stated as open**: selections at something like the decoherence rate, or one per coarse-grained alternative; P-Q10 quoted; both horns labelled speculative. Added from the live concept page: on the Map's own ordering "objective reduction fixes when, where and in which basis every collapse occurs", so the occasion is physics' to set.
+- **Refinement beyond the note**: a recorded decision kind is a public label, and the P-Q2 calibration note of 2026-10-14 treats a deviation conditioned on a public label as the minimum-outside-the-corridor fallback, so the article says a positive result would revise P-Q2 as well as support selection. The register itself carries this tension between P-Q2 and P-Q9; the article reports it and does not resolve it.
+- **Quotations**: 37 source strings and 15 Map strings. Re-checked this run at source: James (York full text), Tegmark (arXiv PDF), Maoz (PMC XML), Palmer (NDPR page), Breuer, Banks & Isham, Matsuhashi & Hallett, Khalighinejad, Schultze-Kraft, Libet 1985, Herzog, Fekete (OpenAlex abstracts), Pöppel and Petitmengin (PubMed abstracts), Schurger (abstract; the full-text sentence confirmed by a Europe PMC phrase search with a negative control); London & Bauer, von Neumann, Wigner and Kane by archive.org full-text search, cited without pages. Planck p. 163 and MacKay pp. 37, 40 are taken from the raw-verified 2026-10-29 note and were not re-fetched. Map strings each matched once on the live page.
+- **Citations**: 21 external works, all cited in the body; Crossref checked for the 14 with DOIs. Kane 2024, Albert, Peres, French, Stroud and the Abhidhamma material are not cited.
+- **Integration**: Further Reading entries added to [[concepts/post-decoherence-selection]] (headroom 186 → 160) and [[concepts/phenomenology-of-choice-and-volition]] (325 → 293); a three-word "See also" line added under Source Articles of [[apex/post-decoherence-selection-programme]] (headroom 6 → 3; `apex_sources` and `apex_last_synthesis` unchanged, no synthesis rewrite).
+- **Section counts**: topics 369 → 370 of 370 (the count includes one refinement-log sidecar); concepts 370; voids 118.
+- **Published**: yes
 
 ## 2026-11-12T10:40:45+00:00 - research-topic
 - **Status**: Success

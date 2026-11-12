@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-11-04 20:52:34+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-12 10:57:46+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 09:40:00+00:00
-lastmod: 2026-11-04 20:52:34+00:00
+lastmod: 2026-11-12 10:57:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -123,6 +123,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 
 - [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Apex synthesis integrating this concept with quantum Darwinism, contextuality, weak measurement, and stochastic amplification
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — Topic-level mechanism catalogue placing post-decoherence selection alongside pre-decoherence candidates (Penrose-Hameroff, Stapp) and the Chalmers-McQueen collapse model
+- [Self-Observation and the Moments of Selection](/topics/self-observation-and-the-moments-of-selection/) — The *when* question: how many selections a decision would contain, and why introspection cannot time or confirm them
 - [Decoherence](/concepts/decoherence/)
 - [The Measurement Problem](/concepts/measurement-problem/)
 - [The Timing Gap Problem](/concepts/timing-gap-problem/)

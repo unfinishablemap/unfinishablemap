@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-09-30
 human_modified: null
-ai_modified: 2026-10-11T02:34:41+00:00
+ai_modified: 2026-11-12T10:57:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-03-29
 last_curated: null
 last_deep_review: 2026-07-18T21:02:00+00:00
@@ -187,6 +187,8 @@ This synthesis draws on:
 - [[contextual-selection-in-quantum-foundations|Contextual Selection in Quantum Foundations]] — Why selection cannot be context-independent
 - [[weak-measurement-and-post-selection|Weak Measurement and Post-Selection]] — The boundary-condition alternative to collapse-based selection
 - [[amplification-mechanisms-consciousness-physics|Amplification Mechanisms for Consciousness-Physics Interaction]] — The causal bridge from quantum bias to neural behaviour
+
+See also [[self-observation-and-the-moments-of-selection|self-observation]].
 
 ## References
 

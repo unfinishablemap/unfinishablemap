@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-11-03T10:09:48+00:00
+ai_modified: 2026-11-12T10:57:46+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[phenomenology-of-intellectual-life]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-22
 last_curated:
 last_deep_review: 2026-09-21T16:05:00+00:00
@@ -174,6 +174,7 @@ The framework would face serious difficulty if: (1) trained introspectors report
 - [[motor-selection]] — Motor choice as parallel to attentional choice
 - [[causal-interface]] — Why the mechanism connecting intention to action is invisible
 - [[volitional-control]] — Libet, Schurger, and the evidence for conscious causation
+- [[self-observation-and-the-moments-of-selection|Self-Observation and the Moments of Selection]] — Treats this arc as a classification of decision kinds only, with the evidence that the introspected time of deciding is inferred after the act
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Phenomenological experiments testing the structure of choice
 - [[witness-consciousness]] — The contrast case of choiceless awareness
 - [[illusionism]] — The eliminativist challenge to phenomenal choice

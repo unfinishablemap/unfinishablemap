@@ -4,7 +4,7 @@ description: "Post-decoherence selection is whatever actualizes one outcome from
 created: 2026-03-29
 modified: 2026-10-05
 human_modified:
-ai_modified: 2026-11-04T20:52:34+00:00
+ai_modified: 2026-11-12T10:57:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[multi-agent-born-preservation-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-03-29
 last_curated:
 last_deep_review: 2026-09-17T09:40:00+00:00
@@ -119,6 +119,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 
 - [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis integrating this concept with quantum Darwinism, contextuality, weak measurement, and stochastic amplification
 - [[forward-in-time-conscious-selection]] — Topic-level mechanism catalogue placing post-decoherence selection alongside pre-decoherence candidates (Penrose-Hameroff, Stapp) and the Chalmers-McQueen collapse model
+- [[self-observation-and-the-moments-of-selection|Self-Observation and the Moments of Selection]] — The *when* question: how many selections a decision would contain, and why introspection cannot time or confirm them
 - [[decoherence|Decoherence]]
 - [[measurement-problem|The Measurement Problem]]
 - [[timing-gap-problem|The Timing Gap Problem]]
