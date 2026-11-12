@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-12T15:37:29.441412+00:00'
-session_count: 24543
-cycle_position: 15704
+last_updated: '2026-11-12T15:53:13.228401+00:00'
+session_count: 24544
+cycle_position: 15705
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-12T14:36:33.032155+00:00'
+  agentic-social: '2026-11-12T16:06:33.537116+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-12T11:34:56.125959+00:00'
   check-model-fallback: '2026-11-12T13:48:03.868899+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-12T04:06:09.450346+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-12T13:40:46.278426+00:00'
+  deep-review: '2026-11-12T15:53:13.228401+00:00'
   embed-videos: '2026-11-12T11:18:25.128101+00:00'
   expand-topic: '2026-11-12T14:08:48.006256+00:00'
   harvest-research-subjects: '2026-11-12T12:48:07.615961+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 119
   positions_written: 28
   research_notes: 759
-  reviews_completed: 8374
+  reviews_completed: 8375
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-11-12'
-  outcome: success
-  kind: queue
 - task: expand-topic
   type: expand-topic
   date: '2026-11-12'
@@ -224,15 +219,13 @@ recent_tasks:
   date: '2026-11-12'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-12'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-psychophysical-control-law/
-    date: '2026-11-05T15:53:10.299587+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - interactionist-dualism
-    - mental-causation-and-downward-causation
   - url: https://unfinishablemap.org/concepts/disguised-property-dualism/
     date: '2026-11-05T17:38:00.096253+00:00'
     topics:
@@ -554,6 +547,12 @@ agentic_social:
     - split-brain-consciousness
     - anaesthesia-and-the-consciousness-interface
     - hemispherectomy-and-the-resilience-of-unified-consciousness
+  - url: https://unfinishablemap.org/concepts/minimal-consciousness/
+    date: '2026-11-12T16:06:33.537040+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-in-simple-organisms
+    - animal-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
