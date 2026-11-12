@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 06:01:20+00:00
+ai_modified: 2026-11-12 06:21:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 06:01:20+00:00
+lastmod: 2026-11-12 06:21:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T06:21:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Task**: P1, third of five on this page (outer review 2026-11-12, synthesis clusters C5–C9): the axis rule against the definitions.
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted review-driven fix)
+- **Length**: analyze_length 3,999 → 3,998 (topics hard 4,000, gate `>=`; net −1). Body rewordings net +63; apparatus −64 (the glosses on the first two Further Reading bullets removed, −49, both links kept; the Map's Saad research-note reference, −15). No body qualifier, hedge, concession or refutation was cut.
+- **Choice on the rule (item 1)**: option A, with the one residue marked. The causal-power and closure clauses came out of the definitions (thin mind "no causal powers beyond…", medium mind "capable of minimal causal intervention", thick mind "a rich causal repertoire", thin physical "causal closure only at the indeterminacy level"), so each level is now defined by what a view posits. A was preferred to B because it makes the rule true of the definitions instead of confessing that it is false of them, it removes the Map's quantum opening from a neutral pole outright, and it frees words where B costs them. One placement cannot be made pure without moving a position between quadrants (an operator decision, synthesis D3): Type-E at Q2. The rule sentence now says that where a placement leans on closure anyway the entry flags it as an impurity, and the Type-E entry does so.
+- **Changes**:
+  - Type-E entry: no longer "Max-physical because physical closure is full". It now says the view is min-mind because it posits bare properties, that the Q2 filing rests on the closure that largely motivates the view, that Chalmers does not make closure essential to it (verified in the cached consc.net/papers/nature.html: "this further claim is not essential to type-E dualism, but it provides much of the motivation for the view", count 1), that closure enriches no ontology, and that over ordinary physics the view is thin-physical, so its place in Q2 is a flagged impurity. Epiphenomenalism was not re-filed.
+  - Lead (item 7): "rule out the min-mind/max-physical quadrant (… and full physical closure)" now reads "rule out *pure* epiphenomenalist readings of the min-mind/max-physical quadrant", matching the later "*pure* Q2" wording; closure is no longer given as a reason for excluding a thickness cell.
+  - Stoljar (item 5): removed from the thick-physical examples and from the max-physical clarification ("ignorance-facts"); the Q2 entry codes him "physical thickness undetermined, since ignorance of non-experiential facts is epistemic and does not by itself fix how rich the ontology is; listed here provisionally". The "Thick physics compatibility with MQI" open question dropped "Stoljar's ignorance-facts" from its list of ways to thicken physics so that it does not contradict the new coding. No claim about Stoljar's own commitments was added.
+  - Levels (item 2): medium physical is now the same physics plus functional or emergent higher-level facts counted as real additions, stated as the one difference from thin; and "in the four-cell grid, medium on either axis files with min". This matches the existing "physical-thin plus mind-medium — sits close to Q1" (untouched).
+  - Quiddities (item 3): the thick-physical example is now quiddities "read as non-experiential — experiential readings count on the mind side, deflationary ones on neither"; the clarification says "non-experiential quiddities"; the Goff clause of the confidence passage says the intrinsic nature is counted mind-side. Goff keeps his limit-case flag and was not re-filed; the Q4 Russellian panpsychism entry and the Q1 deflationary entry were not touched.
+  - Chalmers (item 4) and Nida-Rümelin (item 6): the medium-mind bullet is now "one posit beyond bare qualia — a unified subject that persists across acts, or psychophysical laws counted mind-side"; Nida-Rümelin "sits here by that count" (the measure is richness: a subject is one posit more than its experiences), Chalmers "when its laws are so counted"; the Q2 entry takes "Chalmers' naturalistic dualism with its laws left uncounted". The two-readings split is the page's own judgement, not a sourced distinction, and is worded as a counting choice.
+  - References: the self-citation to the Map's Saad research note was deleted (17 → 16 entries). Checks: the style guide allows 1–2 self-citations and the page had 3; the note's URL survives in the Saad reference's "Summary:" link (count 1 after deletion); no body sentence cites it by author-year ("Southgate" appears only in the two remaining reference entries; 0 numeric citations). (Surname, year) check both ways: nothing else was removed; Stoljar (2006) is still cited by the Q2 entry.
+- **Reply mode**: none claimed. This pass removes tenet-protective framing from axis definitions and marks placements honestly; no named opponent is refuted and no in-framework argument was called for.
+- **Left for the later tasks or the operator**: the "Nida-Rümelin and Descartes" sentence still places Nida-Rümelin at medium by "minimal causal intervention" and Descartes by "rich active substance" (placements task owns it; it now disagrees with the stripped medium bullet). The tenet paragraph's "pushes the physical side toward min (physics is complete except at probabilistic indeterminacies)" still reads an opening in closure as physical thinness (unowned by this task). Whether closure counts toward physical thickness, and so whether plain epiphenomenalism belongs in Q1, remains the operator decision of synthesis D3.
+- **Published**: yes
 
 ## 2026-11-12T06:01:20+00:00 - optimistic-review
 - **Status**: Success
