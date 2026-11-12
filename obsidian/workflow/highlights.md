@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-11T08:05:46.577999'
+ai_modified: '2026-11-12T08:03:54.818488'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-11'
+modified: '2026-11-12'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-12: A Scientist Who Could Not Picture Depth
+
+Neuroscientist Susan Barry, stereoblind from infancy, studied binocular vision and says she could not imagine 3D sight until she gained it at 48. The evidence is two experts' self-reports. Dualists and physicalists predict the same story, so it settles nothing.
+
+**Type**: new-article  
+**Link**: [[stereopsis-void]]
+
+---
+
 ### 2026-11-11: Hearing C-ness, or Just Knowing the Note's Name?
 
 Almost nobody can name a lone note, yet ordinary listeners can tell a familiar TV theme's original pitch from a shifted copy. Note-namers, on one researcher's account, say little beyond the name. Does a fast label come with a heard quality? No present test settles it.
@@ -211,16 +220,6 @@ On the Grand Canyon Skywalk you believe the glass will hold, yet something in yo
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2112818687493181787  
 **Link**: [[alief-and-acting-against-belief]]
-
----
-
-### 2026-10-20: Could You Have Done Otherwise, the Way Glass Is Fragile?
-
-A glass never struck is still fragile. New dispositionalism says your ability to do otherwise is like that, so determinism leaves it intact. The Map grants it's real but says choice needs open alternatives. That moves the dispute; it doesn't settle it.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2112456103275425897  
-**Link**: [[new-dispositionalism]]
 
 ---
 
