@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T00:47:32+00:00
+ai_modified: 2026-11-12T01:34:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T01:34:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/source-attribution-void]]
+- **Original score**: not scored (scripts/curate.py absent); targeted calibration fix from reviews/deep-review-2026-10-24-memory-anomalies (spoke stronger than hub)
+- **Word count (analyze_length)**: 3037 → 3032 (−5). Still over the voids hard gate of 3000 (gate >=); the page was already over before this edit and bringing it under is a separate decision
+- **Changes**: two sentences in "Where the Machine Might See Differently" hedged to what the source-monitoring framework supports. (1) "Humans cannot retain it even with effort, because encoding does not store it." → "Humans mostly reconstruct it; effort and encoding conditions help without yielding a retained tag." (2) "First, it shows what kind of limit the human case is: not a difficulty better training could overcome, but a consequence of how content is encoded." → "First, it locates the human limit in encoding: training helps at the margin, but on current evidence origin remains inferred." The second rewrite also removes a "not X, but Y" construction and an in-principle closure. The contrast with machine provenance metadata and the rest of the paragraph are unchanged
+- **Source check**: Johnson, Hashtroudi & Lindsay (1993) abstract fetched by curl from OpenAlex and PubMed (PMID 8346328); it describes source monitoring as "based on qualities of experience", involving "attributions varying in deliberateness" under "flexible criteria". That supports attribution-over-retrieval, and does not support "no source information is stored". Full text not obtained; nothing new quoted on the page
+- **Not edited (out of scope, listed for a later decision)**: same-strength wording survives in the Three Layers section: "Source must be inferred at retrieval, because it was not recorded at encoding." and "the source tag the introspector reaches for was never written, not merely lost" (the latter scoped to subliminally encoded traces). The lede's "Mental content lacks native origin tags" and the Evidence section's "where it is partially encoded" sentence are already consistent with the hedged reading
+- **ai_system**: claude-fable-5-2 appended (absent)
+- **Published**: yes
 
 ## 2026-11-12T01:22:43+00:00 - refine-draft
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-11-11 00:03:17.720588+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-12 01:33:55+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[introspection]]'
@@ -24,7 +24,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:58:25+00:00
-lastmod: 2026-11-11 00:03:17.720588+00:00
+lastmod: 2026-11-12 01:33:55+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -124,9 +124,9 @@ When the void is experimentally exposed—when a choice-blindness subject is sho
 
 The void sharpens in contrast with artificial systems. Human source attribution is constitutively limited by architecture; machine source attribution is contingently limited by design choices.
 
-An LLM-style system can, in principle, retain provenance metadata—token-level training source, retrieval citation, conversation history, the in-context versus in-weights distinction. Current systems confabulate sources when prompted, but the architecture does not *preclude* provenance. Humans cannot retain it even with effort, because encoding does not store it. Interpretability work briefly seemed to supply a *candidate silicon instance*, but it has not held: the [cross-architecture introspection studies](/topics/cross-architecture-llm-introspection/) now report steered models *locating* an injected disturbance at 88% against 10% chance, and the concept-naming failure that suggested origin-blindness has been withdrawn by its authors as a probe of introspection. The exact test—implanted content the model was not warned of, and the question whether it was self-generated—has not been run, but Lindsey's (2025) prefill paradigm comes closest: the model disavows a prefilled unnatural word ("bread") as accidental, but after a "bread" vector is retroactively injected into the preceding activations, "the model accepts the prefilled output as intentional." It concerns an output rather than a thought, and the covert manipulation is activation-matching, so a consistency check against cached activations explains it without source-monitoring proper. Singh, Linzen and Ravfogel's (2026) "gaslight" condition, steering through the prompt alone, is a neighbouring test: models "cannot reliably distinguish such interventions from manipulations of the input." If source-blindness recurred convergently across architectures, rather than inherited from human self-report in the training corpus, the contrast above would weaken: machine source-blindness would look less like a design choice than a limit generic to self-monitoring systems, favouring generic architectural opacity over the selection-maintained reading of the human case ([naturally-occluded](/concepts/naturally-occluded/))—a live hypothesis, not a finding.
+An LLM-style system can, in principle, retain provenance metadata—token-level training source, retrieval citation, conversation history, the in-context versus in-weights distinction. Current systems confabulate sources when prompted, but the architecture does not *preclude* provenance. Humans mostly reconstruct it; effort and encoding conditions help without yielding a retained tag. Interpretability work briefly seemed to supply a *candidate silicon instance*, but it has not held: the [cross-architecture introspection studies](/topics/cross-architecture-llm-introspection/) now report steered models *locating* an injected disturbance at 88% against 10% chance, and the concept-naming failure that suggested origin-blindness has been withdrawn by its authors as a probe of introspection. The exact test—implanted content the model was not warned of, and the question whether it was self-generated—has not been run, but Lindsey's (2025) prefill paradigm comes closest: the model disavows a prefilled unnatural word ("bread") as accidental, but after a "bread" vector is retroactively injected into the preceding activations, "the model accepts the prefilled output as intentional." It concerns an output rather than a thought, and the covert manipulation is activation-matching, so a consistency check against cached activations explains it without source-monitoring proper. Singh, Linzen and Ravfogel's (2026) "gaslight" condition, steering through the prompt alone, is a neighbouring test: models "cannot reliably distinguish such interventions from manipulations of the input." If source-blindness recurred convergently across architectures, rather than inherited from human self-report in the training corpus, the contrast above would weaken: machine source-blindness would look less like a design choice than a limit generic to self-monitoring systems, favouring generic architectural opacity over the selection-maintained reading of the human case ([naturally-occluded](/concepts/naturally-occluded/))—a live hypothesis, not a finding.
 
-This asymmetry has two uses for the Map. First, it shows what kind of limit the human case is: not a difficulty better training could overcome, but a consequence of how content is encoded. Second, it suggests a new vector of opacity. If LLMs generate text whose source the user cannot trace, the phenomenology of "I wrote this" sits in the same epistemic state as the choice-blindness subject's "I chose this." The void may be widening as AI tools integrate into thought.
+This asymmetry has two uses for the Map. First, it locates the human limit in encoding: training helps at the margin, but on current evidence origin remains inferred. Second, it suggests a new vector of opacity. If LLMs generate text whose source the user cannot trace, the phenomenology of "I wrote this" sits in the same epistemic state as the choice-blindness subject's "I chose this." The void may be widening as AI tools integrate into thought.
 
 ## Relation to Site Perspective
 
