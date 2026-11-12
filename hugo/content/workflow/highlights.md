@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Neuroscientist Susan Barry, stereoblind from infancy, studied binocular vision and says she could not imagine 3D sight until she gained it at 48. The evidence is two experts' self-reports. Dualists and physicalists predict the same story, so it settles nothing.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2120790632893456782  
 **Link**: [stereopsis-void](/voids/stereopsis-void/)
 
 ---
