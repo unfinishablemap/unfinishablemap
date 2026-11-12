@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-11-12 10:57:46+00:00
+ai_modified: 2026-11-12 21:04:29+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 16:05:00+00:00
-lastmod: 2026-11-12 10:57:46+00:00
+lastmod: 2026-11-12 21:04:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ Choosing feels like something. Willing feels like something. And the two feel di
 
 ## Deliberation: Options as Felt Possibilities
 
-Before choosing, options present themselves as genuinely open possibilities. This openness has phenomenal character. Both alternatives feel like live possibilities you could actualise — contrasting sharply with the past, experienced as fixed and closed.
+Before choosing, options present themselves as genuinely open possibilities. This openness has phenomenal character. Both alternatives feel like live possibilities you could actualise — contrasting sharply with the past, experienced as fixed and closed. The openness may be veridical, but it is predicted under determinism as firmly as under selection, so it does not discriminate between them ([the trilemma's concession](/topics/trilemma-of-selection/#compatibilist-objections)).
 
 Deliberation also involves the *weight* of options — some feel heavier, demanding more consideration, others almost dismissible. This felt weight doesn't reduce to probability estimates or preference rankings; it's an experiential quality guiding attention during choice.
 
@@ -70,9 +70,9 @@ Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminat
 
 ## The Moment of Decision
 
-The transition from deliberation to decision has its own phenomenology. There is a characteristic *settling* when alternatives collapse to actuality. One moment the options are open; the next, one has become real while others fade to mere counterfactuals.
+The transition from deliberation to decision has its own phenomenology. There is a characteristic *settling* when alternatives collapse to actuality. One moment the options feel open; the next, one has become real while others fade to mere counterfactuals.
 
-This settling can be gradual (the preferred option gaining felt momentum) or sudden (alternatives equipoised until a discrete moment of actualisation). Both share the same structure: genuine openness followed by determinate actualisation. The [phenomenology of temporal selection](/topics/temporal-consciousness-structure-and-agency/) develops this further: deliberation maps onto "not yet," the kairos moment of "now," and the irreversible closure of "too late." Yet in neither case can we observe *how* intention becomes action — the mechanism is phenomenologically invisible. This is the [causal interface void](/voids/causal-interface/): we experience ourselves as causes but cannot access the interface that makes causation possible.
+This settling can be gradual (the preferred option gaining felt momentum) or sudden (alternatives equipoised until a discrete moment of actualisation). Both share the same felt structure: openness followed by determinate actualisation. The [phenomenology of temporal selection](/topics/temporal-consciousness-structure-and-agency/) develops this further: deliberation maps onto "not yet," the kairos moment of "now," and the irreversible closure of "too late." Yet in neither case can we observe *how* intention becomes action — the mechanism is phenomenologically invisible. This is the [causal interface void](/voids/causal-interface/): we experience ourselves as causes but cannot access the interface that makes causation possible.
 
 ## Authorship: The Sense of Agency
 
@@ -92,7 +92,7 @@ Starting an action has a characteristic quality of *authorship from the outset* 
 
 Initiation is momentary; sustained control unfolds over time. Holding attention on a difficult text, maintaining posture against fatigue, or staying with an uncomfortable emotion all involve ongoing volitional engagement — a phenomenology of *continuing to will* that distinguishes volition from mere triggering.
 
-Attention does not lock on smoothly — introspective reports and contemplative traditions consistently describe it as a series of renewed commitments. James observed that "sustained voluntary attention is a repetition of successive efforts." This iterative character matches what the Map's framework predicts: consciousness repeatedly selecting among competing neural patterns rather than setting a process in motion and passively observing it unfold. See [mental-effort](/concepts/mental-effort/) for the neural signatures of this sustained engagement.
+Attention does not lock on smoothly — introspective reports and contemplative traditions consistently describe it as a series of renewed commitments. James observed that "sustained voluntary attention is a repetition of successive efforts." This iterative character fits, without discriminating, what the Map's framework expects: consciousness repeatedly selecting among competing neural patterns rather than setting a process in motion and passively observing it unfold. See [mental-effort](/concepts/mental-effort/) for the neural signatures of this sustained engagement.
 
 ### Effort
 
@@ -165,9 +165,9 @@ The framework would face serious difficulty if: (1) trained introspectors report
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Effort phenomenology suggests consciousness *does* something. The correlation between felt effort and cognitive load, the selective distribution of the sense of agency, and distinct neural substrates for veto are all consistent with volitional phenomenology tracking genuine causal engagement, though each is also compatible with a common neural cause, and a cost-signal account fits the distribution of felt effort too, so the phenomenology fits the tenet without evidencing it. The primary objection — that the readiness potential proves unconscious initiation — has been weakened by Schurger's stochastic noise reinterpretation and Mele's ecological validity critique. Brass and Haggard's "whether" component supplies a candidate neural correlate of intentional inhibition, the site at which the Map locates conscious veto.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Choosing feels like biasing outcomes, not injecting energy. The iterative character of sustained voluntary attention — James's "successive efforts" — matches consciousness repeatedly selecting among competing neural patterns at points of quantum indeterminacy.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The tenet's minimality is an empirical constraint that no feeling can test: a bias and a small energy injection would feel alike. The iterative character of sustained voluntary attention — James's "successive efforts" — is consistent with repeated selection at points of quantum indeterminacy, as it is with any iterative control process.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Choice phenomenology presupposes singular actualisation. You experience A as *the* outcome, not one branch among equals. The felt openness before decision and closure after matches collapse rather than branching.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Choice phenomenology fits singular actualisation: you experience A as *the* outcome. An Everettian predicts the same experience on every branch, felt openness and closure included, so the phenomenology does not discriminate; the Map's rejection of many-worlds rests on the indexical objection, held as a commitment.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: A deflationary reading, on which felt effort and authorship are how the brain's own control monitoring presents itself, is simpler. The Map does not let that simplicity decide while the reading leaves unexplained why the monitoring is felt at all.
 

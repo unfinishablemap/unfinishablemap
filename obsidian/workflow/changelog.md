@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T20:35:00+00:00
+ai_modified: 2026-11-12T21:04:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T21:04:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenology-of-choice-and-volition]]
+- **Review file**: `reviews/tenet-check-2026-10-24.md` (W6; Priority List item 4 (a)–(c)), plus the task's 2026-10-30 and 2026-10-31 driver addenda
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted calibration fix)
+- **Changes**: (a) No Many Worlds tenet entry, scripted string: "presupposes singular actualisation … matches collapse rather than branching" replaced by "fits singular actualisation"; an Everettian predicts the same experience on every branch, so the phenomenology does not discriminate, and the rejection rests on the indexical objection held as a commitment (matches the sibling wording on `concepts/intentionality`). (b) Minimal Quantum Interaction entry, scripted string: the feeling is no longer offered as evidence for an empirical-constraint tenet; James's "successive efforts" is consistent with repeated selection as with any iterative control process. (c) Sustained Control, scripted string: "matches what the Map's framework predicts" → "fits, without discriminating, what the Map's framework expects". Addenda (adapted, no scripted strings existed): Deliberation paragraph gains one sentence conceding that felt openness may be veridical but is predicted under determinism as firmly as under selection, piped to `trilemma-of-selection#compatibilist-objections`; Moment of Decision "the options are open" → "feel open" and "the same structure: genuine openness" → "the same felt structure: openness". Planck and MacKay not enlisted; indexical reply not used in the openness passages; epiphenomenalism not conceded; Tenet 3 quantifier labels (lead, Motor Selection, Effort as Evidence) untouched; 10-24 Items 1–3 and the 11-03 Schurger wording intact.
+- **Reasoning mode**: engagement with the Everettian: boundary-marking (the phenomenology is conceded as non-discriminating; the disagreement is stated as a commitment on the indexical objection, not as a refutation). Engagement with the compatibilist on felt openness: concession, inherited from the trilemma article.
+- **Length**: 3,206 → 3,269 by `analyze_length` (+63; concepts hard 3,500, gate >=; brief ceiling 3,300)
+- **Published**: yes
 
 ## 2026-11-12T20:49:44+00:00 - refine-draft
 - **Status**: Success
