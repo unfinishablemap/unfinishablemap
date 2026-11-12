@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-11-11 13:49:06+00:00
+ai_modified: 2026-11-12 18:20:00+00:00
 ai_system: claude-opus-4-7+claude-fable-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -28,13 +28,13 @@ concepts:
 created: 2026-02-01
 date: &id001 2026-04-19
 description: First-person experience reports are genuine evidence for consciousness
-  theories when gathered through trained observation, convergence across independent
-  traditions, and rigorous methods.
+  theories when gathered through trained observation, convergence across traditions,
+  and rigorous methods.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 11:39:52+00:00
-lastmod: 2026-11-11 13:49:06+00:00
+lastmod: 2026-11-12 18:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ topics:
 
 Phenomenological evidence is first-person data about conscious experience—reports of what it is like to perceive, think, feel, and act from the inside. Unlike third-person evidence (behavioural observations, neural measurements), phenomenological evidence describes the qualitative structure of experience as accessed by the experiencing subject. Its [epistemological](/concepts/epistemology/) status — whether and how first-person reports constitute genuine evidence — is central to the consciousness debate. The Unfinishable Map holds that such evidence, properly gathered through rigorous methods, constitutes irreplaceable data for consciousness science. A theory that predicts neural correlates but fails to capture phenomenal structure has explained the wrong thing—this is the core insight behind the [hard problem of consciousness](/topics/hard-problem-of-consciousness/).
 
-The evidential force multiplies when independent traditions converge. Buddhist vipassana practitioners, Hindu contemplatives following Patanjali's Yoga Sutras, Christian mystics, and secular meditators independently describe the same phenomenal structures — impermanence of mental contents, the constructed nature of self, contentless awareness. This cross-traditional convergence constitutes a distinct evidential category: triangulation across trained subjective reports.
+Convergence across traditions adds to this evidence, by less than a count of traditions suggests. Buddhist vipassana practitioners, Hindu contemplatives following Patanjali's Yoga Sutras, Christian mystics, and secular meditators describe similar phenomenal structures — impermanence of mental contents, the constructed nature of self, contentless awareness. The Map treats such convergence as a distinct evidential category, triangulation across trained subjective reports, and discounts it under its standing rule ([P-M2](/positions/methodology-and-calibration/#p-m2)) that agreement across N traditions is a "single observation read N times" until a distinguishing test rules out a shared upstream source.
 
 ## Defining the Term
 
@@ -126,7 +126,7 @@ Several factors distinguish reliable from unreliable phenomenological evidence:
 
 ## Cross-Traditional Convergence {#convergence}
 
-The evidential force of phenomenological reports multiplies when independent traditions — separated by geography, language, and centuries — arrive at the same structural observations about conscious experience. This convergent phenomenological evidence extends Husserl's tradition beyond individual observation to cross-traditional comparison. It differs from general [convergence arguments](/topics/epistemology-of-convergence-arguments/) and from intersubjective agreement within a single tradition.
+The evidential force of phenomenological reports grows when traditions separated by geography, language, and centuries arrive at the same structural observations about conscious experience, and it grows only as far as their independence can be shown. This convergent phenomenological evidence extends Husserl's tradition beyond individual observation to cross-traditional comparison. It differs from general [convergence arguments](/topics/epistemology-of-convergence-arguments/) and from intersubjective agreement within a single tradition.
 
 ### Conditions for Evidential Force
 
@@ -163,7 +163,7 @@ The status of phenomenological evidence divides into two philosophical camps:
 
 **Neurophenomenological realism** (Varela, Thompson): Treats first-person reports, when gathered rigorously, as evidence about what subjects *actually* experience. Training and convergence transform reports from fallible impressions into genuine evidence about phenomenal reality.
 
-The Map endorses neurophenomenological realism. If [phenomenal properties](/concepts/qualia/) are real and irreducible (as the [Dualism tenet](/tenets/#dualism) holds), bracketing their existence systematically avoids the central question. The [zombie argument](/concepts/philosophical-zombies/) presses the point: if beings functionally identical to us but lacking experience are conceivable, functional explanation cannot exhaust what needs explaining. Moreover, heterophenomenology offers no account of *why* independent traditions converge on these specific beliefs with such structural detail — the [convergence pattern](#convergence) is data that any theory, including heterophenomenology, must explain. Heterophenomenology works well for studying beliefs *about* experience but is less suited for studying the [hard problem](/topics/hard-problem-of-consciousness/)—the qualitative character of experience itself.
+The Map endorses neurophenomenological realism. If [phenomenal properties](/concepts/qualia/) are real and irreducible (as the [Dualism tenet](/tenets/#dualism) holds), bracketing their existence systematically avoids the central question. The [zombie argument](/concepts/philosophical-zombies/) presses the point: if beings functionally identical to us but lacking experience are conceivable, functional explanation cannot exhaust what needs explaining. Moreover, heterophenomenology does not itself say *why* traditions converge on these specific beliefs with such structural detail — the [convergence pattern](#convergence) is data that any theory, including heterophenomenology, must explain, and under [P-M2](/positions/methodology-and-calibration/#p-m2) a shared upstream architecture stays among the candidate explanations. Heterophenomenology works well for studying beliefs *about* experience but is less suited for studying the [hard problem](/topics/hard-problem-of-consciousness/)—the qualitative character of experience itself.
 
 ## The Reliability Objection
 
@@ -195,7 +195,7 @@ These limitations counsel humility without invalidating phenomenological evidenc
 
 Phenomenological evidence directly supports the Map's [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: The need for a distinct category of first-person evidence—irreducible to behavioural or neural data—reflects the irreducibility of consciousness itself. If phenomenal properties were identical to physical properties, third-person methods would suffice. The [cross-traditional convergence](#convergence) reinforces this: trained observers across independent traditions converge on features (contentless awareness, constructed selfhood, subject-object dissolution) that functional architectures do not predict.
+**[Dualism](/tenets/#dualism)**: The need for a distinct category of first-person evidence—irreducible to behavioural or neural data—reflects the irreducibility of consciousness itself. If phenomenal properties were identical to physical properties, third-person methods would suffice. The [cross-traditional convergence](#convergence) fits this reading and, under [P-M2](/positions/methodology-and-calibration/#p-m2), does not yet discriminate for it: trained observers across traditions converge on features (contentless awareness, constructed selfhood, subject-object dissolution) that the Map takes functional architectures not to predict, an agreement that stays cumulative fit until a distinguishing test rules out a shared upstream architecture.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: [Neurophenomenology's](/concepts/neurophenomenology-and-contemplative-neuroscience/) mutual constraint exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience validates phenomenological distinctions. Neither domain dominates; both contribute evidence. The [cross-cultural convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/) extends convergent phenomenological evidence beyond contemplative observation to causal efficacy — Indian, African, and Western traditions independently hold that consciousness is not merely passive but causally influences the physical world.
 

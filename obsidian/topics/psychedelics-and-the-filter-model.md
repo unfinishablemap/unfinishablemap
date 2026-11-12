@@ -4,7 +4,7 @@ description: "Psilocybin's cortex-wide desynchronization suits filter theory and
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-11-01T23:12:00+00:00
+ai_modified: 2026-11-12T18:20:00+00:00
 draft: false
 anchoring_audit_exempt: true
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[out-of-body-experiences]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-08
 last_curated:
 last_deep_review: 2026-08-27T15:27:38+00:00
@@ -134,7 +134,7 @@ Two corollaries follow. First, the convergence-of-altered-states pattern cannot 
 
 Do psychedelic experiences provide genuine knowledge, or do they merely feel profound? Gładziejewski (2025) distinguishes the "third eye" model (psychedelics permit direct perception of metaphysical truth) from the "dispelling the illusion" model (psychedelics remove cognitive structures that block accurate perception). Both are compatible with filter theory; the second aligns more closely, and is where Letheby's own account of psychedelic insight falls.
 
-Several lines of evidence support genuine epistemic value over confabulation. **Therapeutic outcomes**: lasting clinical improvements correlate with mystical-type intensity (Griffiths et al., 2016). **Selective access**: users report specific suppressed material—childhood memories, repressed patterns, relational dynamics—rather than arbitrary hallucination. **Cross-cultural convergence**: Stace documented common features across independent mystical traditions (ego dissolution, unity, ineffability, noetic quality). Stace's typology faces a constructivist objection (Katz 1978) that apparent convergence reflects a Western frame imposed on heterogeneous traditions; but the *psychedelic* cross-cultural reliability is harder to dismiss as projection, appearing in subjects without contemplative training and across cultures with no shared mystical vocabulary.
+Several lines of evidence support genuine epistemic value over confabulation. **Therapeutic outcomes**: lasting clinical improvements correlate with mystical-type intensity (Griffiths et al., 2016). **Selective access**: users report specific suppressed material—childhood memories, repressed patterns, relational dynamics—rather than arbitrary hallucination. **Cross-cultural convergence**: Stace documented common features across mystical traditions (ego dissolution, unity, ineffability, noetic quality). Stace's typology faces a constructivist objection (Katz 1978) that apparent convergence reflects a Western frame imposed on heterogeneous traditions; but the *psychedelic* cross-cultural reliability is harder to dismiss as projection, appearing in subjects without contemplative training and across cultures with no shared mystical vocabulary.
 
 A materialist objection deserves serious engagement: psychedelics disrupt the very neural processes required for accurate introspection. Substantial 5-HT2A receptor occupancy is a pharmacological overhaul of the systems that issue introspective reports—qualitatively different from the narrowed focus of scientific observation. The reply cannot be that distrust of psychedelic reports generalises to every altered state; it must be that the disruption, though severe, appears *structured* rather than *random*. The three patterns just listed are not what systematic unreliability produces. The evidence favours treating psychedelic reports as degraded-but-informative rather than as noise.
 

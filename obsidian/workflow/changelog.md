@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T17:52:53+00:00
+ai_modified: 2026-11-12T18:20:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T18:20:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/witnessing-void]] (plus [[voids/sleep-consciousness-void]], [[concepts/phenomenological-evidence]], [[topics/psychedelics-and-the-filter-model]]; FOUR FILES)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted fixes from the queue task Notes and both driver add-ons)
+- **Word counts** (`analyze_length`, hard gate is >=): witnessing-void 2,367 → 2,491 (+124; hard 3,000); sleep-consciousness-void 2,940 → 2,946 (+6; hard 3,000); phenomenological-evidence 2,852 → 2,937 (+85; hard 3,500); psychedelics-and-the-filter-model 3,998 → 3,997 (−1; hard 4,000)
+- **Changes**:
+  - witnessing-void: the Occam paragraph no longer claims "the empirical robustness of minimal phenomenal experience markers"; it now says wakefulness and low complexity recur in recalled reports that a physicalist can read as reports like any others. The three markers (diaphaneity, tonelessness, receding) are scoped as the article's own synthesis, since no source the page uses supports them as a cross-tradition finding. The AI paragraph's dilemma against Tenet 3 is replaced with Block's reply to the same-causes objection as `topics/blocks-harder-problem#same-causes` states it today (reported, not quoted), stated in both directions; Block 2002 added to References. Description and lead conditioned ("on the Map's reading", with a pointer to the challenge section); the page remains a void.
+  - sleep-consciousness-void: Gamma & Metzinger 2021 no longer "establishing" that contentless consciousness is possible; one recalled episode per respondent shows it is reported.
+  - phenomenological-evidence: the "multiplies when independent traditions converge" premise hedged to P-M2 at the lead (piped link, verbatim "single observation read N times"), the heterophenomenology paragraph and the Dualism paragraph. Also hedged the same sentence at the head of the Cross-Traditional Convergence section and dropped "independent" from the description; neither was in the Notes, both carry the identical premise. Nisbett & Wilson sentence untouched.
+  - psychedelics-and-the-filter-model: deleted "independent" from "independent mystical traditions".
+- **Engagement classification**: engagement with the same-causes objector (witnessing-void): Mode One; Block's two-machine reply shows the inference fails on the objector's own functional terms, in both directions. Engagement with heterophenomenology (phenomenological-evidence): unchanged in mode, language downgraded from "offers no account" to "does not itself say".
+- **Left alone, for a later pass**: witnessing-void's heading "Why the Structure Is Load-Bearing"; phenomenological-evidence "Traditions independently report" (Contentless awareness bullet) and "independently hold" (Bidirectional Interaction paragraph, a different convergence claim).
+- **Published**: yes
 
 ## 2026-11-12T17:52:53+00:00 - deep-review
 - **Status**: Success
