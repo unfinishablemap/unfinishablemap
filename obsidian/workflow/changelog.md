@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T05:05:16+00:00
+ai_modified: 2026-11-12T06:01:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T06:01:20+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the self-modelling theories wing, four concept pages read in full: `higher-order-theories`, `self-representational-theory-of-consciousness`, `attention-schema-theory`, `self-model-theory-of-subjectivity`. None had an optimistic mention inside 30 days (content-tokenised over 641 optimistic reviews) and none was edited in the last 36 hours. Section counts: topics 369/370, concepts 370/370, voids 118/125, positions 28/90; no expand-topic or research-topic task minted.
+- **Findings**: (1) AST's lead still asserts the infinite-regress objection that its own L103 concedes "is not decisive". (2) Check (c-vi): HOT L81 quotes the title of Block 2011 beside the access/phenomenal argument; the paper's "fatal" objection is the empty-higher-order-thought incoherence (abstracts of Block's paper, Block's response and Rosenthal's reply fetched from OpenAlex; article bodies not read), which HOT L69 credits to "Critics", with Rosenthal's reply uncited. (3) Check (c-vi): SMT names no critic; Zahavi's "Being Someone" (PSYCHE 11(5), 2005) fetched as PDF and three quotations grep-verified. (4) Eight of twelve directed links among the four pages are absent; SRT is the one wing theory missing from the relocation-objection table.
+- **Tasks**: 4 P3 `refine-draft` tasks minted above `## Completed Tasks`; `parse_tasks` active count 385 before, 389 after.
+- **Output**: [[reviews/optimistic-2026-11-12-self-modelling-theories-wing]]
 
 ## 2026-11-12T05:35:31+00:00 - refine-draft
 - **Status**: Success
