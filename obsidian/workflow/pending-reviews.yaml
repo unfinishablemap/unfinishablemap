@@ -295,3 +295,32 @@
   subject_articles:
   - voids/boredom-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-11-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6af51eb7-c518-83eb-96a6-5e3d05edbebd
+  commissioned_at: '2026-11-12T02:05:36.921998+00:00'
+  prompt_summary: 'Audit four-quadrant-dualism-taxonomy: taxonomy, citations, counterarguments'
+  target_filename: outer-review-2026-11-12-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as an independent, critical outer reviewer for The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy-of-mind site built on five dualist
+    tenets. Audit the article https://unfinishablemap.org/topics/four-quadrant-dualism-taxonomy/,
+    last substantively modified 2026-11-05. Use web search to read the live page and
+    check the site changelog at https://unfinishablemap.org/workflow/changelog/ for
+    recent activity, since search indexes lag. Assess: (1) whether the four-quadrant
+    taxonomy is exhaustive and its axes independent, and whether named positions and
+    philosophers are placed in the correct quadrant; (2) citation accuracy, verifying
+    that quotations and attributions match the primary sources and flagging stale
+    or missing literature; (3) counterarguments the article omits or treats too lightly;
+    (4) tenet-protective bracketing, where the site''s commitments are shielded from
+    objections rather than tested; (5) consistency with the surrounding articles it
+    links to. Distinguish clearly between verified errors and matters of judgement,
+    and cite sources for each correction. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit four-quadrant-dualism-taxonomy
+  subject_articles:
+  - topics/four-quadrant-dualism-taxonomy.md
+  subject_source: fallback:recent-aged
