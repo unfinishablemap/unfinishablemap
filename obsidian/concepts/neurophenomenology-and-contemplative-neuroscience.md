@@ -4,7 +4,7 @@ description: "Varela's method joins first-person phenomenology to neuroscience. 
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-10-25T16:55:57+00:00
+ai_modified: 2026-11-12T20:06:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[contemplative-neuroscience-meditation-2026-01-23]]"
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-08-08T20:14:38+00:00
@@ -46,7 +46,7 @@ coalesced_from:
   - "/concepts/contemplative-neuroscience/"
 ---
 
-The Unfinishable Map treats neurophenomenology and contemplative neuroscience as a single research programme: the systematic integration of first-person phenomenological reports with third-person neuroscience. Francisco Varela proposed the framework; meditation research has put it to empirical work. Contemplative training produces measurable functional changes—altered network connectivity, modulated default mode activity, improved attentional performance—through a causal pathway running from conscious intention through deliberate practice to neural reorganisation. Earlier claims of structural changes (cortical thickening, grey matter density increases) have been challenged by Kral et al. (2022), whose two combined randomised controlled trials (218 participants, active controls) found no structural brain changes from mindfulness-based stress reduction. The functional effects fit [[bidirectional-interaction]] without forcing it: a physicalist credits the neural states that encode the intention, so the case against [[phenomenal-consciousness|phenomenal]] inertness rests on self-stultification, [[#top-down-causation-and-the-epiphenomenalism-challenge|explained below]].
+The Unfinishable Map treats neurophenomenology and contemplative neuroscience as a single research programme: the systematic integration of first-person phenomenological reports with third-person neuroscience. Francisco Varela proposed the framework; meditation research has put it to empirical work. Contemplative training produces measurable functional changes—altered network connectivity, modulated default mode activity, improved attentional performance—through a causal pathway running from conscious intention through deliberate practice to neural reorganisation. Earlier claims that eight-week courses change brain structure have been challenged by Kral et al. (2022), whose two combined randomised controlled trials (218 participants, active controls) found no structural brain changes from mindfulness-based stress reduction. The functional effects fit [[bidirectional-interaction]] without forcing it: a physicalist credits the neural states that encode the intention, so the case against [[phenomenal-consciousness|phenomenal]] inertness rests on self-stultification, [[#top-down-causation-and-the-epiphenomenalism-challenge|explained below]].
 
 The programme also reveals consciousness structures invisible to ordinary introspection. Trained meditators distinguish experiential states with precision unavailable to naive subjects, and those distinctions correspond to measurable neural differences. If advanced meditators can access phenomenal states with no third-person equivalent, and trained introspection reveals complexity neuroscience cannot predict, then materialism faces a fundamental limitation: the data itself requires methods physics cannot supply.
 
@@ -70,9 +70,9 @@ Applications span epilepsy anticipation, pain, creative insight, and mathematica
 
 ### Neuroplastic Changes from Practice
 
-Long-term meditators show altered brain function; the structural claims have not replicated:
+Long-term meditators show altered brain function; the structural claims are less secure:
 
-**Structural changes (under scrutiny)**: Earlier studies reported greater cortical thickness in frontal and temporal areas[^lazar], particularly right anterior ventral insula (systematic review of 25 MRI studies; activation-likelihood meta-analysis of 16, Cohen's d ~ 0.8).[^pernet] However, Kral et al. (2022), testing 218 participants with both waitlist and active controls in *Science Advances*, found no structural brain changes from 8-week MBSR—no changes in grey matter volume, density, or cortical thickness. The earlier positive findings may reflect small samples, lack of active controls, and circular analysis—biases the grey-matter review itself flagged. Cross-sectional differences in long-term practitioners may reflect pre-existing traits rather than practice-induced changes.
+**Structural changes (under scrutiny)**: Earlier studies reported greater cortical thickness in frontal and temporal areas[^lazar], particularly right anterior ventral insula (systematic review of 25 MRI studies; activation-likelihood meta-analysis of 16, Cohen's d ~ 0.8).[^pernet] However, Kral et al. (2022), testing 218 participants with both waitlist and active controls, found no change in grey matter volume, density, or cortical thickness from 8-week MBSR. The earlier MBSR findings may reflect small samples, lack of active controls, and circular analysis—biases the grey-matter review itself flagged. Kral's trials do not test the cross-sectional differences found in long-term practitioners, which may reflect pre-existing traits rather than practice-induced changes.
 
 **Functional connectivity**: Increased connectivity between [[default-mode-network|DMN]], salience network, and central executive network.[^bremer2022] Changes persist at baseline resting state, not just during meditation.[^brewer][^muller]
 

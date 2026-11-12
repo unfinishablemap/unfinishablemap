@@ -4,7 +4,7 @@ description: "OCD neuroplasticity, psychotherapy neuroimaging and placebo effect
 created: 2026-03-21
 modified: 2026-11-10
 human_modified:
-ai_modified: 2026-11-10T23:07:41+00:00
+ai_modified: 2026-11-12T20:06:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[phantom-limb-phenomena]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-21
 last_curated:
 last_deep_review: 2026-11-05T06:52:48+00:00
@@ -43,7 +43,7 @@ Jeffrey Schwartz's clinical research programme at UCLA produced some of the earl
 
 PET imaging revealed that treatment responders showed normalisation of hyperactive caudate nucleus metabolism (Schwartz et al., 1996; Schwartz, 1998). The caudate nucleus is a key node in the cortico-striato-thalamic loop implicated in OCD; its hyperactivity is thought to drive the repetitive thought patterns characteristic of the disorder.
 
-Important limitations qualify this evidence. The original PET study scanned only nine new OCD patients before and after treatment, pooling them with nine similar subjects from a prior study for an 18-participant analysis. Its glucose-metabolism finding has not been replicated with the same method outside the UCLA group; the nearest independent convergence is Nakatani et al. (2003), who found the same right-caudate decrease after behaviour therapy in 22 improved patients, measured by xenon-enhanced regional cerebral blood flow—a different modality, corroborating the direction of caudate change without replicating the metabolic finding itself. The study also included no head-to-head comparison with standard exposure-response prevention (ERP) therapy—the gold-standard OCD treatment that shares core behavioural elements with Schwartz's four-step method. The four-step protocol can reasonably be characterised as a modified CBT incorporating standard ERP techniques with an added cognitive framing. No comparative trial has demonstrated that Schwartz's method achieves its results through a mechanism distinct from standard ERP.
+Important limitations qualify this evidence. The original PET study scanned only nine new OCD patients before and after treatment, pooling them with nine similar subjects from a prior study for an 18-participant analysis. Its glucose-metabolism finding has not been replicated with the same method outside the UCLA group; the nearest independent convergence is Nakatani et al. (2003), who found a right-caudate decrease after behaviour therapy in 22 improved patients, measured by xenon-enhanced regional cerebral blood flow—a different modality, corroborating the direction of caudate change without replicating the metabolic finding itself. The study also included no head-to-head comparison with standard exposure-response prevention (ERP) therapy—the gold-standard OCD treatment that shares core behavioural elements with Schwartz's four-step method. The four-step protocol can reasonably be characterised as a modified CBT incorporating standard ERP techniques with an added cognitive framing. No comparative trial has demonstrated that Schwartz's method achieves its results through a mechanism distinct from standard ERP.
 
 Schwartz coined the term "self-directed neuroplasticity" for this phenomenon and argues that conscious mental effort drives the observed neural changes (Schwartz & Begley, 2002). The mainstream materialist explanation is more parsimonious: changed behaviour patterns alter neural activation through Hebbian learning ("neurons that fire together wire together") and standard synaptic plasticity, without requiring non-physical mental causation. The fact that medication produces similar caudate metabolic changes supports this view—both interventions may converge on common neural pathways through different physical routes.
 
@@ -69,11 +69,11 @@ Earlier versions of this article cited meditation-driven structural brain remode
 
 ### What the Earlier Studies Claimed
 
-Early neuroimaging studies reported structural brain changes from meditation: increased cortical thickness (Lazar et al., 2005), grey matter density changes (Hölzel et al., 2011), and reduced amygdala volume. A 2024 systematic review summarised these findings across multiple studies (Calderone et al., 2024). These claims were widely cited—including by this article—as evidence for consciousness reshaping neural architecture.
+Early neuroimaging studies reported structural findings of two kinds: thicker cortex in long-term practitioners than matched controls (Lazar et al., 2005), a cross-sectional difference that cannot show change, and, after eight-week MBSR, grey matter density increases (Hölzel et al., 2011) and amygdala reductions. A 2024 systematic review summarised such findings (Calderone et al., 2024). These claims were widely cited—including by this article—as evidence for consciousness reshaping neural architecture.
 
 ### The Replication Challenge
 
-Kral et al. (2022), published in *Science Advances*, conducted the most rigorous test to date: two three-arm randomised controlled trials with 218 meditation-naïve participants, MRI scans before and after 8-week interventions, and both waitlist and well-matched active control groups. They found no evidence of structural brain changes from Mindfulness-Based Stress Reduction—no changes in grey matter volume, density, or cortical thickness at whole-brain level or in previously claimed regions of interest. The earlier positive findings likely reflected methodological limitations: small samples, lack of active controls, and circular analysis.
+Kral et al. (2022) conducted the most rigorous test to date: two three-arm randomised controlled trials with 218 meditation-naïve participants, MRI scans before and after 8-week interventions, and both waitlist and well-matched active control groups. They found no evidence of structural brain changes from Mindfulness-Based Stress Reduction—no changes in grey matter volume, density, or cortical thickness at whole-brain level or in previously claimed regions of interest. The earlier MBSR studies, they note, had small samples, no active controls or randomisation, and circular analysis; the long-term-practitioner comparison is not tested.
 
 The meta-analytic literature has proved no more secure. A 2023 anatomical-likelihood meta-analysis reporting that mindfulness-based randomised trials produce structural brain changes was retracted by *Scientific Reports* after it emerged that four null-finding studies—roughly 40% of the participants—had been omitted, leaving the dataset unable to support its positive conclusion (Siew & Yu, 2023, retracted 2025; the authors disagreed with the retraction). Selective inclusion of exactly this kind is the mechanism that inflates apparent structural effects, and it counsels treating any single positive meta-analysis in this literature as provisional until its inclusion criteria are independently checked.
 

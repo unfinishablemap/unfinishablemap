@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-10-07 20:50:23+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-12 20:06:58+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/contemplative-evidence-for-consciousness/
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 13:20:00+00:00
-lastmod: 2026-10-07 20:50:23+00:00
+lastmod: 2026-11-12 20:06:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ Traditions diverge sharply on what the self ultimately *is*, yet converge on the
 
 ### 3. Attentional Trainability
 
-All traditions share the discovery that attention can be systematically trained. The Shamatha Project (MacLean et al. 2010) confirmed this: intensive training measurably improves sustained attention, perceptual discrimination, and response inhibition. Earlier studies reported increased cortical thickness in long-term practitioners (Lazar et al. 2005), though structural claims from meditation have been challenged by Kral et al. (2022), whose well-powered randomised trials found no structural brain changes from MBSR. The functional improvements in attentional capacity remain well-supported. Convergence across traditions makes artefacts of any single methodology an unlikely explanation.
+All traditions share the discovery that attention can be systematically trained. The Shamatha Project (MacLean et al. 2010) confirmed this: intensive training measurably improves sustained attention, perceptual discrimination, and response inhibition. Lazar et al. (2005) found thicker cortex in long-term practitioners than controls, a cross-sectional difference that cannot show practice produced it; for eight-week MBSR, the well-powered randomised trials of Kral et al. (2022) found no structural changes. The functional improvements in attentional capacity remain well-supported. Convergence across traditions makes artefacts of any single methodology an unlikely explanation.
 
 ### 4. Non-Ordinary States with Shared Structure
 

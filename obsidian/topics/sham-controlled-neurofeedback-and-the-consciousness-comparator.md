@@ -4,7 +4,7 @@ description: "Double-blind trials find real neurofeedback no better than sham. D
 created: 2026-09-25
 modified: 2026-10-28
 human_modified:
-ai_modified: 2026-10-28T12:28:27+00:00
+ai_modified: 2026-11-12T20:06:58+00:00
 last_deep_review: 2026-10-28T12:28:27+00:00
 draft: false
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[consciousness-scope]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-09-25
 last_curated:
 ---
@@ -64,7 +64,7 @@ Neural self-regulation is achievable. Clinical benefit is real in the loose sens
 
 **What each reading owes.** Both readings must absorb the Schabus finding that the trained band did not change even in the real arm. That limits the intention reading more than it first seems to. Whatever the patients' effort did, it did not leave a lasting change in the targeted neural pattern, since that pattern showed no measurable change after training in either arm. If intention helped, it helped by some other route: through the regulation of arousal, through changed attention to sleep, or through something unmeasured. So the intention reading cannot claim these trials as a demonstration of the neuroplasticity article's selection mechanism, only as a case where mental effort, with contingent feedback subtracted, went along with clinical improvement. The expectancy reading owes an account of why expectation and effort should be treated as separate ingredients at all. Expectation of benefit is itself a conscious state, and a patient who expects nothing tends to try less.
 
-A third point applies to both. The physicalist can accept the intention reading completely and describe the effort as one neural process affecting another. Deciding between the two readings would settle whether *contingent feedback* or *patient effort* carries the benefit. It would not by itself settle whether effort is anything over and above its neural realisation. That further question is the one [[mental-effort]] addresses through the phenomenology-tracking argument, and sham neurofeedback does not answer it.
+A third point applies to both. The physicalist can accept the intention reading completely and describe the effort as one neural process affecting another. Deciding between the two readings would settle whether *contingent feedback* or *patient effort* carries the benefit. It would not by itself settle whether effort is anything over and above its neural realisation. That further question belongs to [[mental-effort]], which finds felt effort detaching from the operation it seems to report and presses a localised hard problem instead; sham neurofeedback does not answer it.
 
 ## What Would Separate the Readings {#separating-design}
 
@@ -97,7 +97,7 @@ The trials also correct a tempting overstatement. Articles that cite neurofeedba
 - [[clinical-evidence-quality-standards-consciousness-research]] — control adequacy and the placebo-group / placebo-control distinction
 - [[neuroplasticity]] — attention as the claimed mechanism of self-directed brain change
 - [[brain-computer-interfaces-and-the-interface-boundary]] — neurofeedback as a closed-loop BCI
-- [[mental-effort]] — the phenomenology-tracking argument the intention reading would still need
+- [[mental-effort]] — the further question the intention reading would still face
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]]
 - [[empirical-phenomena-mental-causation]]
 - [[evidential-status-discipline]]

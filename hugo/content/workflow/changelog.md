@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 19:55:49+00:00
+ai_modified: 2026-11-12 20:07:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 19:55:49+00:00
+lastmod: 2026-11-12 20:07:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T20:07:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/)
+- **Also edited (FIVE FILES in all)**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/), [sham-controlled-neurofeedback-and-the-consciousness-comparator](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/)
+- **Review file**: `reviews/deep-review-2026-11-12-neuroplasticity.md` (follow-up items 1, 2, 4)
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted source-fidelity fix)
+- **Sources re-fetched before editing**: PubMed abstracts for Schwartz 1996 (PMID 8629886), Baxter 1992 (1514872), Lazar 2005 (16272874), Hölzel 2011 (21071182), Kral 2022 (35594344); Kral 2022 full text (Europe PMC XML, PMC9122316). Confirmed: Kral is two three-arm RCTs of eight-week MBSR in 218 meditation-naïve participants with waitlist and active controls; its 61-entry reference list contains Hölzel 2011 (ref 17) and Hölzel 2010 (ref 36, amygdala) and does not contain Lazar 2005; its text separates "cross-sectional research of long-term meditation practitioners" (possible "preexisting differences") from MBSR and says prior MBSR research "lacked measures of cortical thickness". Lazar 2005 is cross-sectional (20 experienced Insight meditators against matched controls). Hölzel 2011 is pre-post eight-week MBSR, 16 naïve participants against a 17-person waiting list. Schwartz 1996 reports "bilateral decreases in caudate glucose metabolic rates"; the right-caudate finding is Baxter 1992. No contradiction with the task's stated facts. Full texts of the other four papers not obtained (abstract level).
+- **Changes**:
+  - clinical-evidence-quality-standards: L62 the Kral failure to replicate is now scoped to "structural brain changes after eight-week MBSR" (journal name dropped, it is in the reference list; the "This is not unique to..." sentence recast); L102 "meditation structural claims" → "MBSR structural claims"; L126 Selective-citation example now says Hölzel 2011 is still cited without Kral 2022, which failed to replicate it, and that Lazar 2005 is a cross-sectional comparison Kral does not test and that cannot itself show change.
+  - contemplative-practice-as-philosophical-evidence: L101 Lazar stated as a cross-sectional difference that cannot show practice produced it; Kral's null scoped to eight-week MBSR.
+  - clinical-neuroplasticity-evidence: L46 "the same right-caudate decrease" → "a right-caudate decrease"; L72 the two designs separated (Lazar cross-sectional; Hölzel and the amygdala finding after eight-week MBSR); L76 limitations attributed to Kral and scoped to the earlier MBSR studies, with the statement that the long-term-practitioner comparison is not tested.
+  - neurophenomenology-and-contemplative-neuroscience: made the same conflation at three loci. L49 lead scoped to eight-week courses; L73 "have not replicated" → "are less secure"; L75 "earlier positive findings" → "earlier MBSR findings", and the closing sentence now says Kral's trials do not test the cross-sectional long-term-practitioner differences.
+  - sham-controlled-neurofeedback: L67 and the L100 Further Reading label no longer cite `mental-effort` for a "phenomenology-tracking argument"; L67 now says that page finds felt effort detaching from the operation it seems to report and presses a localised hard problem instead.
+- **Word counts (analyze_length, gate >=)**: clinical-evidence 3972 → 3983 of 4000 (+11); contemplative-practice 3900 → 3900 (0); clinical-neuroplasticity 3840 → 3853 (+13); neurophenomenology 3469 → 3468 of 3500 (−1); sham-neurofeedback 3412 → 3424 (+12). A candidate offset on the clinical-evidence page (L120 "The evidence does not adjudicate between them.") was left because `git log -S` shows it was installed by a deliberate calibration pass.
+- **Not done / listed**: "the same right-caudate decrease" remains on five pages outside this task: `concepts/mental-effort` L110, `concepts/attentional-economics` L87, `concepts/bidirectional-interaction` L97, `concepts/meditation-and-consciousness-modes` L46, `concepts/attention-as-interface` L232. `concepts/mental-effort` L108 still says cortical-thickness claims "have been weakened by Kral et al. (2022)" (same conflation). `topics/contemplative-practice-as-philosophical-evidence` L161 "meditation reshapes neural architecture" is a structural claim the L101 fix now sits beside. No Hölzel or Baxter reference entries were needed (none newly cited where absent).
+- **Orphan check (surname, year), both directions**: no inline cite of Lazar, Hölzel, Kral, Baxter, Schwartz, Nakatani or Calderone lacks an entry on any of the five files. Pre-existing entries with no dated inline cite, untouched: contemplative-practice (Husserl 1983, Varela 1996), clinical-neuroplasticity (Askenasy 2013), neurophenomenology (nine, several cited by footnote or name only).
+- **Reasoning mode**: no named-opponent reply was edited. No correction was turned into support for a tenet; tenet sections untouched.
+- **Published**: yes
 
 ## 2026-11-12T19:55:49+00:00 - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "When does clinical and neurological evidence bear on metaphysical 
 created: 2026-04-06
 modified: 2026-10-19
 human_modified:
-ai_modified: 2026-10-19T17:05:42+00:00
+ai_modified: 2026-11-12T20:06:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[psychedelics-and-the-filter-model]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-04-06
 last_curated:
 last_deep_review: 2026-10-13T00:02:15+00:00
@@ -59,7 +59,7 @@ Consciousness research inherits this hierarchy but encounters four problems spec
 
 ### The Replication Problem
 
-Replication is the gold standard for reliability, but consciousness research faces distinctive replication challenges. The Kral et al. (2022) failure to replicate meditation-induced structural brain changes — 218 participants, active controls, published in *Science Advances* — illustrates the pattern: early small studies produce striking findings that larger, better-controlled studies fail to confirm. This is not unique to consciousness research (psychology's replication crisis is domain-general), but it is especially damaging here because consciousness researchers often build philosophical conclusions on empirical foundations that have not been stress-tested.
+Replication is the gold standard for reliability, but consciousness research faces distinctive replication challenges. The Kral et al. (2022) failure to replicate structural brain changes after eight-week MBSR — 218 participants, active controls — illustrates the pattern: early small studies produce striking findings that larger, better-controlled studies fail to confirm. Psychology's replication crisis is domain-general, but the pattern is especially damaging here because consciousness researchers often build philosophical conclusions on empirical foundations that have not been stress-tested.
 
 The corrective is straightforward: calibrate philosophical weight to replication status. Findings from single small studies (Schwartz 1996, n=18 with 9 new participants) should be described as "suggestive" or "compatible with." Only findings confirmed across independent laboratories with adequate controls warrant stronger epistemic weight. The Map's [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity article]] applies this standard — and the present article argues it should be generalised across all clinical evidence cited for metaphysical purposes.
 
@@ -99,7 +99,7 @@ Given these challenges, the Map proposes five standards for evaluating when clin
 
 ### 1. Replication Status
 
-Has the finding been independently replicated with adequate power? Single-lab findings with small samples (even when published in reputable journals) warrant only "suggestive" or "compatible with" language. This standard downgrades Schwartz's OCD PET findings (never replicated with the same method outside the UCLA group; the lone out-of-group convergence, Nakatani et al. 2003, used a different imaging modality) and meditation structural claims (failed replication in Kral et al., 2022), while preserving the pathway divergence pattern across psychotherapy neuroimaging (confirmed across multiple independent meta-analyses).
+Has the finding been independently replicated with adequate power? Single-lab findings with small samples (even when published in reputable journals) warrant only "suggestive" or "compatible with" language. This standard downgrades Schwartz's OCD PET findings (never replicated with the same method outside the UCLA group; the lone out-of-group convergence, Nakatani et al. 2003, used a different imaging modality) and MBSR structural claims (failed replication in Kral et al., 2022), while preserving the pathway divergence pattern across psychotherapy neuroimaging (confirmed across multiple independent meta-analyses).
 
 ### 2. Control Adequacy
 
@@ -123,7 +123,7 @@ A standard worth stating explicitly governs all five: even methodologically high
 
 Several recurring patterns of evidence misuse deserve explicit identification, because they appear across consciousness research from all philosophical perspectives.
 
-**Selective citation.** Citing early positive studies while omitting later replication failures. The meditation structural neuroplasticity literature exemplifies this: Lazar et al. (2005) and Hölzel et al. (2011) continue to be cited without mentioning Kral et al. (2022). The meta-analytic layer is not self-cleaning either: Shafiee et al. (2024), a meta-analysis of psychedelic effects on brain-derived neurotrophic factor, was retracted in 2025, and a retracted synthesis keeps circulating through whatever cited it beforehand. The obligation is periodic re-checking rather than one-time verification.
+**Selective citation.** Citing early positive studies while omitting later replication failures. The MBSR structural literature exemplifies this: Hölzel et al. (2011) is still cited without Kral et al. (2022), which failed to replicate it. Lazar et al. (2005) is a cross-sectional comparison of long-term practitioners that Kral does not test and that cannot itself show change. The meta-analytic layer is not self-cleaning either: Shafiee et al. (2024), a meta-analysis of psychedelic effects on brain-derived neurotrophic factor, was retracted in 2025, and a retracted synthesis keeps circulating through whatever cited it beforehand. The obligation is periodic re-checking rather than one-time verification.
 
 **Strength inflation.** Upgrading "explored" to "argued," "suggestive" to "demonstrated," "compatible with" to "evidence for." This is especially tempting when the evidence supports one's preferred framework.
 
