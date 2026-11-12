@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T14:18:45+00:00
+ai_modified: 2026-11-12T15:04:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T15:04:21+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/self-observation-and-the-moments-of-selection]] (created today, first review by any lens), with its research note; driver-directed target, reports only
+- **Output**: [[reviews/pessimistic-2026-11-12-self-observation-and-the-moments-of-selection]]
+- **Main findings**: (1) the surviving "kinds as conditioning variables" premise has empirical bite only on P-Q9's reading of Born preservation; on P-Q2's 2026-10-14 reading a recorded kind is a public label and the null is the corridor's prediction. The P-Q2/P-Q9 conflict is real and is the already-blocked P1 HUMAN DECISION of 2026-10-14; the article reports it as two stacked cautions. (2) The test is stated without P-Q9's "conditional on the measured physical state" clause, which the research note had; its lead example (Maoz, arbitrary against deliberate) is a task label, not a first-person kind. (3) Petitmengin et al. (swapped-outcome detection under guided interview) is made the sole ground for the reliability of kind classification. (4) Tegmark's ten-order floor rests on the microtubule figure Hagan et al. contest; the reply is not cited and the lead applies the range to "any decision".
+- **Source checks**: verified at source this run: Wigner's friend sentence in full (eight archive.org scans), Planck p. 163 (1932 Norton OCR), both MacKay strings (*Mind* 69(273) scan; the p. 40 quotation straddles pp. 39–40; p. 37 not confirmed as a page number), five Tegmark strings and Table 1 (arXiv PDF), Hagan abstract, three London and Bauer strings, Kane chapter title; fourteen register and tenet quotations at count 1. Not obtained: French 2023, Breuer beyond the abstract, a library record for the Wigner imprint (archive.org catalogues the Heinemann scan as 1962).
+- **Priority list**: four fixes with exact OLD/NEW strings, about +204 words against 725 headroom (analyze_length 3,274 of 4,000). Five operator decisions listed separately.
+- **Tasks queued**: none (reports only; `todo.md` not edited)
 
 ## 2026-11-12T14:18:45+00:00 - refine-draft
 - **Status**: Success
