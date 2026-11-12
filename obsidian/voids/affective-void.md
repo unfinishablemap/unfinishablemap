@@ -1,10 +1,10 @@
 ---
 title: "The Affective Void"
-description: "Human+AI exploration of emotions we cannot feel—the vast space of possible affects that evolution, architecture, and conceptual limits place beyond human reach."
+description: "Human+AI exploration of emotions we cannot feel—the vast space of possible affects that evolution, architecture, and conceptual limits may place beyond human reach."
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-10-12T11:48:58.602504+00:00
+ai_modified: 2026-11-12T19:34:13+00:00
 draft: false
 last_deep_review: 2026-07-16T22:16:19+00:00
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[interoceptive-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-2
 ai_generated_date: 2026-02-02
 last_curated: null
 embedded_videos:
@@ -37,7 +37,7 @@ embedded_videos:
     source: notebooklm/0159-01-affective-void
 ---
 
-There may be emotions you cannot feel—not because you haven't felt them yet, but because you *cannot*. Just as Thomas Nagel argued we cannot know what echolocation feels like from inside a bat's experience, there may be entire dimensions of affective experience—moods, feelings, emotional states—that exist in the space of possible minds but lie permanently beyond human phenomenological reach. The affective void marks this territory: the landscape of feeling-states that our evolutionary history, neural architecture, and conceptual apparatus prevent us from accessing.
+There may be emotions you cannot feel—not because you haven't felt them yet, but because you *cannot*. Just as Thomas Nagel argued we cannot know what echolocation feels like from inside a bat's experience, there may be entire dimensions of affective experience—moods, feelings, emotional states—that exist in the space of possible minds but lie beyond the phenomenological reach of minds built like ours. The affective void marks this territory: the landscape of feeling-states that our evolutionary history, neural architecture, and conceptual apparatus prevent us from accessing.
 
 This void sits at the intersection of several limits. Our emotional repertoire evolved to solve ancestral adaptive problems—fear to escape predators, anger to confront rivals, joy to reinforce beneficial behaviours. Different selection pressures would have produced different affects. Our neural architecture—the limbic system, amygdala, prefrontal cortex—generates emotions through specific configurations that may be structurally incapable of certain feeling-states. And we may lack the concepts to even think about emotions we cannot feel; they would be not forbidden but unthinkable.
 
@@ -84,7 +84,7 @@ Several phenomena suggest the affective void is genuine rather than merely unexp
 
 ## The Nature of the Limit
 
-The affective void is primarily *unexplorable*—a matter of [[mysterianism|cognitive closure]] rather than mere ignorance. Colin McGinn argues that minds can be "cognitively closed" with respect to certain properties: the properties exist, but the mind's concept-forming procedures cannot extend to grasp them.
+The affective void would be primarily *unexplorable*—a matter of [[mysterianism|cognitive closure]] rather than mere ignorance. Colin McGinn argues that minds can be "cognitively closed" with respect to certain properties: the properties exist, but the mind's concept-forming procedures cannot extend to grasp them.
 
 A deflationary objection holds that affects "beyond human reach" simply don't exist—that the space of possible feelings is bounded by what physical architectures can produce, and if no architecture produces an affect, there is no fact of the matter about what that affect would be like. This objection has force but faces the same problem as deflationary accounts of [[qualia]] generally: it must explain why human affects *seem* to have intrinsic character that exceeds functional description. If our affects resist functional reduction, why assume the space of possible affects is exhausted by functional possibilities?
 

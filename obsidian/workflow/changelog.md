@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T19:20:06+00:00
+ai_modified: 2026-11-12T19:34:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T19:34:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]] (plus [[voids/affective-void]]; TWO FILES edited. `voids/the-silence-void` checked, not edited)
+- **Original score**: n/a (`scripts/curate.py` is absent; edits installed from the queue task Notes, its 2026-11-04 driver addendum and the 2026-11-12 driver brief)
+- **Review files**: `reviews/deep-review-2026-10-24-presence-type-and-absence-type-voids.md`, `reviews/optimistic-2026-11-04-absence-wing.md`
+- **Word counts** (`analyze_length`, hard gate is >=): apex/taxonomy-of-voids 4,912 → 4,911 (−1; hard 5,000); voids/affective-void 2,158 → 2,163 (+5; hard 3,000); voids/the-silence-void 2,411 unchanged
+- **Changes**:
+  - Part (1), `voids/the-silence-void`: already discharged, no edit. "multiple independent traditions discovered" has count 0; the L71 paragraph cites `positions/methodology-and-calibration#^p-m2` ("a lineage counts once") and keeps only "a modest structural claim". The sentence "The Map does not require perennialism to be correct." that the task Notes asked to keep is no longer on the page (count 0; the 10-26 rewrite replaced the paragraph).
+  - Part (2), `apex/taxonomy-of-voids` L133 (net 0): the presence/absence axis sentence now lists only the aesthetic and surplus voids as presence-type and says the silence and affective voids are hybrids. The affective void matches the concepts page's hybrids section (L111). The silence void follows that page's own L113 test (it manifests as both, since the silence void now separates cessation from contentless awareness); the concepts page's L81 bullet still lists silence as presence-type, so the two pages agree fully once the open P3 on that page lands. Concepts page not edited.
+  - `apex/taxonomy-of-voids` L153 (−1): "Six primary signatures recur" → "Six signatures recur". There is no secondary tier and "Two more complete the inventory" follows, so "primary" did no work and could readmit the old "seventh primary" error.
+  - Part (3), `voids/affective-void` lead L40 (+5): "lie permanently beyond human phenomenological reach" → "lie beyond the phenomenological reach of minds built like ours", still under the sentence's opening "there may be". L87 (0): "is primarily *unexplorable*" → "would be primarily *unexplorable*", keeping the void's kind conditional. Frontmatter description: "place beyond human reach" → "may place beyond human reach".
+  - Left as is: affective-void L71 "might be permanently inaccessible to human understanding" is already hedged and attributed to Nagel.
+  - Frontmatter: `ai_modified` bumped and `claude-fable-5-2` plus-joined into `ai_system` on both edited files; `apex_sources`, `apex_last_synthesis` and `modified` untouched.
+- **Reasoning modes** (editor-internal): no named-opponent reply was edited.
+- **Published**: yes
 
 ## 2026-11-12T19:20:06+00:00 - refine-draft
 - **Status**: Success
