@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research The 2005 PSYCHE symposium on Metzinger's Being No One
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-12-self-modelling-theories-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-12-self-modelling-theories-wing (Expansion Opportunities, high): concepts/self-model-theory-of-subjectivity cites Metzinger's Precis from PSYCHE 11(5) and none of the replies printed with it (Zahavi, Weisberg, Gallagher, Legrand, Himma, Ghin, Livet, Hobson). Only Zahavi's paper was read; the others are titles on a listing and their arguments are unverified leads. The review suggests a medium article, or a section of the self-model page if no slot opens. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/psyche-symposium-on-being-no-one-2026-11-12.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'psyche-symposium-on-being-no-one' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-12
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -5397,6 +5391,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-12: Research The 2005 PSYCHE symposium on Metzinger's Being No One
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-12-self-modelling-theories-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-12-self-modelling-theories-wing (Expansion Opportunities, high): concepts/self-model-theory-of-subjectivity cites Metzinger's Precis from PSYCHE 11(5) and none of the replies printed with it (Zahavi, Weisberg, Gallagher, Legrand, Himma, Ghin, Livet, Hobson). Only Zahavi's paper was read; the others are titles on a listing and their arguments are unverified leads. The review suggests a medium article, or a section of the self-model page if no slot opens. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/psyche-symposium-on-being-no-one-2026-11-12.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'psyche-symposium-on-being-no-one' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-12: `voids/normative-void` presents a rival-hypothesis setup as a research finding, carries two doubtful quotations, and links to none of its five sibling pages
 - **Type**: refine-draft

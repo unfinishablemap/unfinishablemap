@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T17:09:01+00:00
+ai_modified: 2026-11-12T17:41:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T17:41:22+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The 2005 PSYCHE symposium on Metzinger's *Being No One*
+- **Output**: [[research/psyche-symposium-on-being-no-one-2026-11-12]]
+- **Sources consulted**: 17 primary documents read from fetched PDFs (Précis, 8 commentaries in PSYCHE 11(5), 8 replies in PSYCHE 12), plus the archived symposium contents page and two volume listings
+- **Verdict**: `recommended_action: fold` into `concepts/self-model-theory-of-subjectivity` (1,820 of hard 3,500 by analyze_length; topics and concepts at cap). Fold Plan drafts a 404-word section and a 78-word addition to Relation to Site Perspective, coordinated with the pending Zahavi refine-draft on the same file
+- **Findings**: the eight-name lead is the complete list; Metzinger replied to each commentator separately; the reply to Gallagher is missing from the journalpsyche.org listing and was read from a Wayback Machine copy; the reply to Zahavi carries inconsistent issue numbers (header 12(2), footers 12(4)). Himma's twin-earth argument puts the indexical question to SMT and Metzinger answers that which self-model is mine "is not a fact at all". Five critics reject elimination and none defends a substantial self
+- **Corrections**: none on the live SMT page; the 2026-07-11 research note dates the Précis 2004 (header says June 2005); two leads on other pages recorded in the note
+- **Not obtained**: PhilArchive records (HTTP 403, not retried); Being No One itself not opened
 
 ## 2026-11-12T17:09:01+00:00 - refine-draft
 - **Status**: Success
