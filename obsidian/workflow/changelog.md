@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T23:06:10+00:00
+ai_modified: 2026-11-12T23:39:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T23:39:57+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/wakefulness-void]] (created today; first review by any lens), against its research note and the fetched abstracts/full texts (11 PubMed abstracts, Harvey & Tang and Hermans et al. full text, SEP "Dreams and Dreaming")
+- **Output**: [[reviews/pessimistic-2026-11-12-wakefulness-void]]
+- **Findings**: All quotations verbatim. Lead asserts a judgement "produced during recorded sleep" while every cited report is retrospective (conceded at L64); "no third party" / "the only arbiters" contradicted by the article's own hd-EEG section and by Bonnet & Moore's auditory-threshold result, so "possibly unexplorable" does not survive; Hermans et al. (2020) cited while its headline time-estimation result, which qualifies L62, is omitted; L82 "wrong at a measurable rate" contradicts the lead. Four ranked fixes (+58 words, est. 1,990 of soft 2,000) and four operator decisions in the review. Reports only: no content, todo or state edits.
 
 ## 2026-11-12T23:06:10+00:00 - refine-draft
 - **Status**: Success
