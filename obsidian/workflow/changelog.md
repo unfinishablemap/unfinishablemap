@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T16:19:07+00:00
+ai_modified: 2026-11-12T16:40:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T16:40:52+00:00 - research-topic
+- **Status**: Success (delta note; subject already researched on 2026-11-08)
+- **Topic**: The collapse of the substance-property dualism distinction
+- **Output**: [[research/collapse-of-the-substance-property-dualism-distinction-2026-11-12]]
+- **Sources consulted**: 20 (4 full texts fetched and grepped: Lycan 2013, Weir 2024, Schneider 2009 draft, Cucu's NDPR review; SEP full text; the rest Crossref metadata and abstracts)
+- **Verdict**: `fold` into `concepts/where-the-substance-commitment-enters` (2,444 words, headroom 1,055), merged with the pending 11-08 fold task; topics and concepts are both at cap
+- **Finding**: the harvest dedup missed `research/from-property-dualism-to-substance-dualism-2026-11-08`, which covers the same literature and whose fold has not yet run. New here: Yang 2015 (published reply to Schneider), Zimmerman 2022 against Robinson, Hershenov 2023 against Zimmerman, Giberman and Kovacs 2026 (newest challenger), Francescotti 2000 as a possible precursor
+- **Corrections recorded**: the pending fold text quotes "at least one substance per individual" as Weir's words (they are Cucu's); `topics/four-quadrant-dualism-taxonomy` says the substance/property line "sorts by independence" against SEP's two-sense account; the 11-08 note's "coiner" label for Francescotti 2001; the fold's use of Zimmerman's vagueness route conflicts with `concepts/manyism`
+- **Not obtained**: Francescotti 2001, Yang 2015, Giberman and Kovacs 2026, Zimmerman 2010/2022, Mackie 2011, Weir 2023 (bot checks and paywalls; not bypassed)
 
 ## 2026-11-12T16:19:07+00:00 - refine-draft
 - **Status**: Stopped at the STEP 1 gate (no content edit); operator decision needed
