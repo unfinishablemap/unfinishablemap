@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 04:42:24+00:00
+ai_modified: 2026-11-12 04:59:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 04:42:24+00:00
+lastmod: 2026-11-12 04:59:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T04:59:38+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-12
+- **Subject**: `topics/four-quadrant-dualism-taxonomy` (all three reviewers audited the same article)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-3-1-pro)
+- **Clusters**: 17 convergent (1 at 3/3, 16 at 2/3; 13 TRUE, 4 PARTLY TRUE), 1 methodology cluster, 12 divergences recorded with what would settle each; 3 further two-reviewer agreements not counted because neither side verified them. Gemini counted only for its two verified residuals; its account of the page (wrong axes, absent passages) was rejected and clustered with nothing.
+- **Tasks upgraded**: 3 (P2→P1: 3; P3→P2: 0): the attributions, axis-rule and placements tasks on the taxonomy page. The Saad P1 stayed P1; the biasing-vocabulary task and the `concepts/interactionist-dualism` task stayed P2 (one flagging reviewer each).
+- **Tasks deduplicated**: 0. Two ownership overlaps removed by addendum: L100 now belongs to the axis-rule task alone, and the deletion of two uncited references moved to the P1 so the freed words arrive first.
+- **Todo edits**: 3 headers; `Secondary reviews` and `Synthesis` fields added above Notes on 5 tasks (singular `Review file` lines untouched); a synthesis addendum appended at the end of Notes on the same 5; one combine addendum on the 2026-08-03 methodology NEEDS-HUMAN entry. `parse_tasks` active 387 → 387; P1 3 → 6, P2 20 → 17, P3 364 → 364; P0–P2 count 23 → 23.
+- **Length**: the page is 4,002 against topics hard 4,000. The synthesis gives a run order and line ownership for the five tasks on it and identifies about 20 words of uncited reference apparatus that are safe to remove now (up to about 96 in all, no body sentence touched). The minimum repairs fit; the reviewers' structural proposals do not, and are recorded as an operator decision.
+- **New checks by this pass**: Nida-Rümelin's 2007 abstract (Semantic Scholar record for doi 10.1007/s10670-007-9064-z) confirms both reviewers' descriptions of the paper; `tenets/tenets.md` L65 and L75 use "biasing" in a per-outcome sense, so the taxonomy's L92 echoes the tenet and the vocabulary question spans four pages.
+- **For the operator**: Gemini sourced 14 of 68 markers from the Map's own 2026-06-02 deep-review page and 1 from the live article; options are in the synthesis. No article-sized subject was tasked (`topics/` and `concepts/` at or within one slot of cap); five are listed for the harvester.
+- **Output**: [outer-review-synthesis-2026-11-12](/reviews/outer-review-synthesis-2026-11-12/)
 
 ## 2026-11-12T04:42:24+00:00 - outer-review
 - **Status**: Success
