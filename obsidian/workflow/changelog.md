@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T17:41:22+00:00
+ai_modified: 2026-11-12T17:52:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T17:52:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-moral-agency-under-duress]]
+- **Word count**: 3099 → 3099 (+0; `analyze_length`, soft 3,000, hard 4,000; total includes references and Further Reading)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (Stockdale's "could not account for" susceptibility corrected to "called uncharted… though he sketched one"; "eight years in Hoa Lo" → "in North Vietnamese prisons"; Morgan 2006 "same elite training differed sharply" softened to what the abstract supports, References annotation matched; frontmatter description brought into line with the body's fit-without-evidencing grade; falsifier link anchored to P-A3)
+- **Enhancements made**: 1 (lead two-sentence contrast merged)
+- **Quotations**: Aristotle NE III.1 (Ross), four quoted strings VERIFIED in fetched classics.mit.edu HTML; Stockdale "The World of Epictetus", six paraphrases VERIFIED against a Wayback copy of the 1978 Atlantic text, including "body and mind are inseparable" against Descartes (open since the 2026-10-25 adversarial review); Morgan 2006 and both Feder abstracts fetched from PubMed; Morgan full text not obtained
+- **Reasoning modes**: engagement with the physicalist/compatibilist: mixed, ending at the dualism-tenet boundary; engagement with the Everettian: boundary-marking. Unchanged.
+- **Output**: [[reviews/deep-review-2026-11-12-consciousness-and-moral-agency-under-duress]]
 
 ## 2026-11-12T17:41:22+00:00 - research-topic
 - **Status**: Success
