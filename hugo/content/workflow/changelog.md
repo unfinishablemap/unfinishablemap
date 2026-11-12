@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 15:04:21+00:00
+ai_modified: 2026-11-12 16:19:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 15:04:21+00:00
+lastmod: 2026-11-12 16:19:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T16:19:07+00:00 - refine-draft
+- **Status**: Stopped at the STEP 1 gate (no content edit); operator decision needed
+- **File**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) (secondary: `archive/concepts/causal-delegation.md`); neither file was changed
+- **Original score**: n/a (`scripts/curate.py` absent; the pass never reached editing)
+- **Review file**: `reviews/outer-review-synthesis-2026-11-12.md`
+- **Finding**: the four standard pages do not agree on the Map's current stance on trumping, so the eight loci were left as they are. Three pages say the Map adopts one route: `apex/interface-specification-programme` ("the programme *adopts* the difference-making route, and *borrows* from delegatory dualism only its route-level results", with trumping logged "not as a component of the adopted mechanism"); `topics/mechanism-costs-dualism-thickness-quadrants` ("withdrew its earlier fusion, takes this difference-making route, and logs trumping as a distinct alternative"); `topics/delegation-meets-quantum-selection` ("The Map takes the difference-making route of quantum selection and logs delegatory trumping as a distinct alternative."). The fourth, `concepts/trumping-preemption`, never mentions the adoption or the specification programme and states a different stance in three places: a current preference ("making the Map's trumping preference a methodological choice under underdetermination rather than a tenet-entailed one"); both routes open with neither adopted ("the Map holds the two channels open as rival options rather than a settled synthesis"); and trumping as tenet-warranted ("The Map treats the second channel — experience as authoritative cause — as a genuine addition the Map's tenet framework warrants"). All seven strings are at count 1 on the live pages.
+- **Register**: `positions/quantum-interface` has no entry adopting either route. [P-Q1](/positions/quantum-interface/#p-q1) keeps both ("The moderate band is therefore held partly *because* the Map keeps Route 2 open.") and its demotion trigger fires only on *exclusive* commitment to Route 1 (trumping); the calibration history's 2026-07-27 note still calls trumping the flagship's "*preferred* Route 1". The register reads nearer to "both open" than to "adopted".
+- **Decision for the operator**: (a) the apex wording is the standard, in which case `concepts/trumping-preemption` needs the same repair as this page (three sentences above, plus its description) and the two should be fixed together; or (b) "rival options, neither adopted" is the standard, in which case the apex, the quadrants page, the bridge lead and the sentence installed here at 15:20Z ("is the Map's earlier stance: its [specification programme](/apex/interface-specification-programme/) adopts the difference-making route") overstate. Rewriting the eight loci to (a) now would make this page contradict the `trumping-preemption` sentence it quotes and links to five times.
+- **Not done**: the eight loci (description, lead x3, taxonomy bullet, "currently prefers", "What actually drives the trumping preference", "nothing here forces the Map off trumping", Further Reading label and its "single event" quotation); the archive withdrawn-status marking; the open P3 closure-wording loci. No length change (3,917 at mint).
+- **Published**: no change to publish
 
 ## 2026-11-12T15:52:10+00:00 - deep-review
 - **Status**: Success
