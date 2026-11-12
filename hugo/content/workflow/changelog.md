@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 09:05:10+00:00
+ai_modified: 2026-11-12 09:23:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 09:05:10+00:00
+lastmod: 2026-11-12 09:23:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T09:23:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [coupling-modes](/concepts/coupling-modes/)
+- **Word count**: 3017 → 3259 (+242; concepts hard 3500; ~110 of it is five new References entries)
+- **Critical issues addressed**: 9 (Reimers/McKemmish 2009 misdescribed as contesting Hagan's parameters; Orch OR decoherence exchange presented as the challenge to Stapp with Stapp's own answer omitted; Georgiev 2015 understated and its target unnamed; "Stapp's 2012 reply to Georgiev" had no matching reference and now names Georgiev 2012; unsupported "intensity of intention" sentence removed from the Eccles description; Tegmark and Stapp 2012 cited with no References entry, Zurek listed but uncited; table "High" mechanism clarity against a body that concedes the basis is unspecified; "No Many Worlds implies collapse is real"; "Stapp's Process 1" and "biases outcomes" vocabulary)
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (Stapp's decoherence answer placed beside the critique; RNG sentence sourced to Bösch et al. 2006)
+- **Engagement classification**: Georgiev: Mode One reported at full strength, no refutation claimed; Tegmark and the Orch OR critics: scope-marked as aimed at the microtubule model; Chalmers and McQueen: stance clause added
+- **Not obtained**: Beck and Eccles 1992 full text (abstract only); page ranges for the two NeuroQuantology papers rest on `concepts/process-1-specification-problem`
+- **Selector note**: first pick `topics/structure-of-attention` skipped for a pending queued correction
+- **Output**: [deep-review-2026-11-12-coupling-modes](/reviews/deep-review-2026-11-12-coupling-modes/)
 
 ## 2026-11-12T09:05:10+00:00 - refine-draft
 - **Status**: Success
