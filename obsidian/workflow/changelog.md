@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T18:33:52+00:00
+ai_modified: 2026-11-12T19:20:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T19:20:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/precommitment-and-the-diachronic-agent]] (plus [[topics/akrasia-and-weakness-of-will]]; TWO FILES)
+- **Original score**: n/a (`scripts/curate.py` is absent; fold installed from the queue task Notes, the research note's drafted passage and guards, and the 2026-11-12 driver brief)
+- **Source**: `research/kavkas-toxin-puzzle-and-resolute-choice-2026-10-24` (verdict fold)
+- **Word counts** (`analyze_length`, hard gate is >=): precommitment 2,941 → 3,508 (+567; hard 4,000, headroom 491; crosses soft 3,000, which carries no consequence); akrasia 3,656 → 3,673 (+17; hard 4,000)
+- **Changes**:
+  - New section "The Toxin: Binding Ruled Out" (`#toxin`) between "The Override Removed" and "Identity and Authority", installed from the note's draft. One adaptation: the Steele & Stefánsson citation now reads "whose survey itself assumes the sophisticated approach" (+6), so the dilemma is not presented as neutral reportage (author-stance guard; the SEP sentence was re-grepped in raw HTML).
+  - Optional add-on 1 (lead pointer to `#toxin`) installed, but at the end of the first lead paragraph, not after the `#placement` sentence: there it would have separated "sit at the act of binding" from "so the placement is fit, not evidence". "Gregory" added on first mention.
+  - Optional add-on 2 (McClennen idiom guard) skipped: the persisting-subject sentence sits under "which none of these authors argues for" and does not enlist him.
+  - Optional add-on 3: akrasia Holton paragraph takes a 17-word pointer after the Ulysses' ropes sentence, piped to `precommitment-and-the-diachronic-agent#toxin`. Reworded from the note's version to "whether an intention alone can bind", so the page does not assert that Kavka's case is about Holton-type resolutions.
+  - References: Bratman 1998, Kavka 1983, McClennen 1990 and Steele & Stefánsson 2025 inserted alphabetically; list renumbered 21 → 25 (Kavka sorts before Krügel & Uhl, which the 11-11 cross-review added after the note was written). No body text cites by number.
+  - Frontmatter: research note added to `related_articles` (path-qualified, the host's convention); `ai_system` plus-joined on both files.
+- **Verification**: Crossref re-checked for 10.1093/analys/43.1.33 (Analysis 43(1), 33–36), 10.1017/cbo9780511527364.006 (pp. 59–83) and 10.1017/cbo9780511983979; SEP "Decision Theory" raw HTML re-grepped for both quoted strings and the 20 Aug 2025 revision. Kavka, Bratman and McClennen quotations copied from the note's verified strings and not re-fetched; Bratman 1998 and McClennen 1990 are cited by year only, no page.
+- **Host drift check**: no overlap or conflict with the 11-11 Krügel & Uhl paragraph; "sophisticated choice" is glossed on first use and stays distinct from the "partial sophisticates" of the field-record section; closing line kept verbatim.
+- **Reasoning modes** (editor-internal): engagement with resolute choice (McClennen, Gauthier via Bratman): Mode Three with a Mode One component, since the dilemma is drawn from the standard interpretation of sequential choice and from Kavka's own doubt, and the Map claims fit only. No tenet is claimed to gain support.
+- **Published**: yes
 
 ## 2026-11-12T18:33:52+00:00 - coalesce
 - **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.

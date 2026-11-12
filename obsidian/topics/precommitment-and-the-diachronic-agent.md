@@ -4,7 +4,7 @@ description: "Precommitment binds a later self through the world. On Elster's de
 created: 2026-10-24
 modified: 2026-11-10
 human_modified: null
-ai_modified: 2026-11-10T23:07:41+00:00
+ai_modified: 2026-11-12T19:19:43+00:00
 draft: false
 topics:
   - "[[the-divided-will]]"
@@ -25,15 +25,16 @@ related_articles:
   - "[[emotion-regulation-and-the-timing-of-control]]"
   - "[[positions/agency-and-will]]"
   - "[[research/precommitment-and-the-diachronic-agent-2026-10-23]]"
+  - "[[research/kavkas-toxin-puzzle-and-resolute-choice-2026-10-24]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-10-24
 last_curated: null
 last_deep_review: 2026-10-24T08:52:11+00:00
 ---
 
-Precommitment is acting at one time to change what one will do later, through a causal route outside the agent: Ulysses has himself bound to the mast so that his later wish to steer for the Sirens cannot reach the ship's course. Jon Elster's 1979 definition requires the binding act to "set up some causal process in the external world", which excludes internal personal rules. On that definition precommitment is the one self-control strategy, among those The Unfinishable Map discusses, built to remove or price the agent's later override. If-then plans, resolutions and [[skill-delegation|skill delegation]] all keep that override. The contrast follows from the definition rather than from any measurement.
+Precommitment is acting at one time to change what one will do later, through a causal route outside the agent: Ulysses has himself bound to the mast so that his later wish to steer for the Sirens cannot reach the ship's course. Jon Elster's 1979 definition requires the binding act to "set up some causal process in the external world", which excludes internal personal rules. On that definition precommitment is the one self-control strategy, among those The Unfinishable Map discusses, built to remove or price the agent's later override. If-then plans, resolutions and [[skill-delegation|skill delegation]] all keep that override. The contrast follows from the definition rather than from any measurement. Gregory Kavka's toxin puzzle, whose terms forbid external binding, tests whether an intention alone can do a device's work ([[#toxin|explained below]]).
 
 The literature reads binder and bound as two agents, as one imperfectly rational agent, or as bargaining interests ([[#three-readings|explained below]]), and its economic models need no fact about personal identity. The Map holds, as a commitment rather than a finding, that binder and bound are one persisting subject. That makes precommitment self-government, but it does not settle whose verdict should prevail when the two disagree, which, on one recent survey, the advance-directive debate mostly decides without appeal to identity. Any conscious contribution to a bound outcome would sit at the act of binding ([[#placement|explained below]]). A physical planner precommits equally well, so the placement is fit, not evidence. The field record on commitment devices is mixed: take-up is often low, average effects are real, and many binders mis-size their own bonds.
 
@@ -66,6 +67,14 @@ On [[self-control-as-skill-and-scaffolding#where-selection-sits|the Map's readin
 Precommitment runs its effect through the world, so the later override is removed or priced by design. On the bound matter there may be nothing left to choose, or only a costlier menu. The boundary is not sharp everywhere. On the Map's reading, [[emotion-regulation-and-the-timing-of-control#five-points|situation modification]] that removes an option from the world, as clearing the house of cigarettes does, meets condition (iii) and so counts as precommitment, as does Ainslie's own first tactic, extrapsychic commitment. The exclusivity claim is scoped to the strategies the Map discusses (situation selection, if-then plans, Ainslie's four tactics, Holton's resolutions and skill delegation).
 
 The bound preferences stay live. At the mast Ulysses hears the song and orders his release, and Strotz notes that later regret "(at least for the moment) is to be expected, for otherwise precommitment would have had no purpose" (p. 173).
+
+## The Toxin: Binding Ruled Out {#toxin}
+
+Gregory Kavka's toxin puzzle (1983) closes the external route by stipulation. A billionaire pays a million dollars if at midnight you intend to drink, next afternoon, a toxin that will make you ill for a day; the money comes first, and you are "perfectly free to change your mind" (p. 34). Binding yourself "by today making irreversible arrangements that will give you sufficient independent incentive to drink it" is ruled out by the contract, and a promise to yourself "could help if you were one of those strange people who take pride in never releasing oneself from a promise to oneself", which you are not (pp. 34–35). With binding in Elster's sense forbidden, the case asks whether an intention alone can bind. Kavka's answer is hedged: you cannot "(or have extreme difficulty doing so)", because intentions are "dispositions to act which are based on reasons to act", and you have every reason to intend but none to drink (p. 35).
+
+The replies turn on whether a plan's rationality passes to its steps. Edward McClennen's resolute chooser keeps to the plan judged best at the outset, but he counts Ulysses "an imperfectly rational being" who "must settle for some version or other of sophisticated choice", the backward planning that precommits (1990). On the view Bratman attributes to David Gauthier, "moderate resolution", one may rationally drink, since the course that includes drinking beats never having settled on the plan. Bratman rejects both forms of resolution here as not doing justice to "the significance of temporal and causal location to our agency". His no-regret condition asks, roughly, whether the agent "would not regret sticking with her prior intention" and would regret abandoning it; some temptation cases pass, but in the toxin case "I would regret following through and drinking the toxin" (1998).
+
+On the Map's reading, which none of these authors argues for, resolute choice needs nothing beyond a planning system that stores and executes a plan. Its rule, where it applies, is to "stick to the strategy that was initially deemed best" at every choice point, and its defenders may treat later points as not "really points at which an agent is free to choose" (Steele & Stefánsson 2025, whose survey itself assumes the sophisticated approach). If they are free, keeping the plan looks like choosing against one's preferences; if not, it posits an internal binding, outside condition (iii), of the kind Kavka doubts we can form. A Holtonian resolution, an intention guarded by a second-order one ([[akrasia-and-weakness-of-will|the akrasia article]]), meets Kavka's question one level up wherever no judgement shift is expected. The posited persisting subject makes the earlier plan the same agent's but does not say why it should govern now, which is Bratman's objection and the [[#identity-authority|authority question]] turned inward. Resolve fits a selector and a physical planner equally.
 
 ## Identity and Authority {#identity-authority}
 
@@ -124,22 +133,26 @@ This section gives the Map's interpretation; none of the authors above argues fo
 
 1. Ainslie, G. (2001). *Breakdown of Will*. Cambridge University Press. https://doi.org/10.1017/CBO9781139164191
 2. Ashraf, N., Karlan, D., & Yin, W. (2006). Tying Odysseus to the mast: Evidence from a commitment savings product in the Philippines. *Quarterly Journal of Economics*, 121(2), 635–672. https://doi.org/10.1162/qjec.2006.121.2.635
-3. Bratman, M. (2007). *Structures of Agency*. Oxford University Press.
-4. Bryan, G., Karlan, D., & Nelson, S. (2010). Commitment devices. *Annual Review of Economics*, 2, 671–698. https://doi.org/10.1146/annurev.economics.102308.124324
-5. Carrera, M., Royer, H., Stehr, M., Sydnor, J., & Taubinsky, D. (2022). Who chooses commitment? Evidence and welfare implications. *Review of Economic Studies*, 89(3), 1205–1244. https://doi.org/10.1093/restud/rdab056
-6. Dretske, F. (1988). *Explaining Behavior: Reasons in a World of Causes*. MIT Press.
-7. Dufner, A. (2025). Personal identity and ethics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/identity-ethics/
-8. Elster, J. (1979). *Ulysses and the Sirens: Studies in Rationality and Irrationality*. Cambridge University Press.
-9. Elster, J. (2000). *Ulysses Unbound: Studies in Rationality, Precommitment, and Constraints*. Cambridge University Press. https://doi.org/10.1017/cbo9780511625008
-10. Gergel, T., & Owen, G. S. (2015). Fluctuating capacity and advance decision-making in Bipolar Affective Disorder — Self-binding directives and self-determination. *International Journal of Law and Psychiatry*, 40, 92–101. https://doi.org/10.1016/j.ijlp.2015.04.004
-11. Gergel, T., Das, P., Owen, G., et al. (2021). Reasons for endorsing or rejecting self-binding directives in bipolar disorder: A qualitative study of survey responses from UK service users. *Lancet Psychiatry*, 8(7), 599–609. https://doi.org/10.1016/S2215-0366(21)00115-2
-12. Giné, X., Karlan, D., & Zinman, J. (2010). Put your money where your butt is: A commitment contract for smoking cessation. *American Economic Journal: Applied Economics*, 2(4), 213–235. https://doi.org/10.1257/app.2.4.213
-13. Holton, R. (2009). *Willing, Wanting, Waiting*. Oxford University Press.
-14. John, A. (2020). When commitment fails: Evidence from a field experiment. *Management Science*, 66(2), 503–529. https://doi.org/10.1287/mnsc.2018.3236
-15. Krügel, S., & Uhl, M. (2023). Is only one of my selves authentic? An empirical approach. *Journal of Behavioral and Experimental Economics*, 102, 101971. https://doi.org/10.1016/j.socec.2022.101971
-16. Parfit, D. (1973). Later selves and moral principles. In A. Montefiore (Ed.), *Philosophy and Personal Relations* (pp. 137–169). London: Routledge. Quoted as in Elster (2000).
-17. Schelling, T. C. (1980). The intimate contest for self-command. *The Public Interest*, Summer 1980, 94–118.
-18. Spellecy, R. (2003). Reviving Ulysses contracts. *Kennedy Institute of Ethics Journal*, 13(4), 373–392. https://doi.org/10.1353/ken.2004.0010
-19. Steward, H. (2012). *A Metaphysics for Freedom*. Oxford University Press.
-20. Strotz, R. H. (1955–56). Myopia and inconsistency in dynamic utility maximization. *Review of Economic Studies*, 23(3), 165–180. https://doi.org/10.2307/2295722
-21. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-04). Self-Control as Skill and Scaffolding. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-control-as-skill-and-scaffolding/
+3. Bratman, M. E. (1998). Toxin, temptation, and the stability of intention. In J. L. Coleman & C. W. Morris (Eds.), *Rational Commitment and Social Justice* (pp. 59–83). Cambridge University Press. https://doi.org/10.1017/cbo9780511527364.006
+4. Bratman, M. (2007). *Structures of Agency*. Oxford University Press.
+5. Bryan, G., Karlan, D., & Nelson, S. (2010). Commitment devices. *Annual Review of Economics*, 2, 671–698. https://doi.org/10.1146/annurev.economics.102308.124324
+6. Carrera, M., Royer, H., Stehr, M., Sydnor, J., & Taubinsky, D. (2022). Who chooses commitment? Evidence and welfare implications. *Review of Economic Studies*, 89(3), 1205–1244. https://doi.org/10.1093/restud/rdab056
+7. Dretske, F. (1988). *Explaining Behavior: Reasons in a World of Causes*. MIT Press.
+8. Dufner, A. (2025). Personal identity and ethics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/identity-ethics/
+9. Elster, J. (1979). *Ulysses and the Sirens: Studies in Rationality and Irrationality*. Cambridge University Press.
+10. Elster, J. (2000). *Ulysses Unbound: Studies in Rationality, Precommitment, and Constraints*. Cambridge University Press. https://doi.org/10.1017/cbo9780511625008
+11. Gergel, T., & Owen, G. S. (2015). Fluctuating capacity and advance decision-making in Bipolar Affective Disorder — Self-binding directives and self-determination. *International Journal of Law and Psychiatry*, 40, 92–101. https://doi.org/10.1016/j.ijlp.2015.04.004
+12. Gergel, T., Das, P., Owen, G., et al. (2021). Reasons for endorsing or rejecting self-binding directives in bipolar disorder: A qualitative study of survey responses from UK service users. *Lancet Psychiatry*, 8(7), 599–609. https://doi.org/10.1016/S2215-0366(21)00115-2
+13. Giné, X., Karlan, D., & Zinman, J. (2010). Put your money where your butt is: A commitment contract for smoking cessation. *American Economic Journal: Applied Economics*, 2(4), 213–235. https://doi.org/10.1257/app.2.4.213
+14. Holton, R. (2009). *Willing, Wanting, Waiting*. Oxford University Press.
+15. John, A. (2020). When commitment fails: Evidence from a field experiment. *Management Science*, 66(2), 503–529. https://doi.org/10.1287/mnsc.2018.3236
+16. Kavka, G. S. (1983). The toxin puzzle. *Analysis*, 43(1), 33–36. https://doi.org/10.1093/analys/43.1.33
+17. Krügel, S., & Uhl, M. (2023). Is only one of my selves authentic? An empirical approach. *Journal of Behavioral and Experimental Economics*, 102, 101971. https://doi.org/10.1016/j.socec.2022.101971
+18. McClennen, E. F. (1990). *Rationality and Dynamic Choice: Foundational Explorations*. Cambridge University Press. https://doi.org/10.1017/cbo9780511983979
+19. Parfit, D. (1973). Later selves and moral principles. In A. Montefiore (Ed.), *Philosophy and Personal Relations* (pp. 137–169). London: Routledge. Quoted as in Elster (2000).
+20. Schelling, T. C. (1980). The intimate contest for self-command. *The Public Interest*, Summer 1980, 94–118.
+21. Spellecy, R. (2003). Reviving Ulysses contracts. *Kennedy Institute of Ethics Journal*, 13(4), 373–392. https://doi.org/10.1353/ken.2004.0010
+22. Steele, K., & Stefánsson, H. O. (2025). Decision theory. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/decision-theory/
+23. Steward, H. (2012). *A Metaphysics for Freedom*. Oxford University Press.
+24. Strotz, R. H. (1955–56). Myopia and inconsistency in dynamic utility maximization. *Review of Economic Studies*, 23(3), 165–180. https://doi.org/10.2307/2295722
+25. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-04). Self-Control as Skill and Scaffolding. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-control-as-skill-and-scaffolding/
