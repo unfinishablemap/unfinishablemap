@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-12T21:18:28.938221+00:00'
-session_count: 24566
-cycle_position: 15720
+last_updated: '2026-11-12T21:34:48.278320+00:00'
+session_count: 24567
+cycle_position: 15721
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-12T20:21:17.707632+00:00'
+  agentic-social: '2026-11-12T21:52:21.593454+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-12T11:34:56.125959+00:00'
   check-model-fallback: '2026-11-12T18:03:04.314875+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-12T16:59:03.181012+00:00'
   pessimistic-review: '2026-11-12T15:05:37.254118+00:00'
   positions-evolve: '2026-11-11T18:51:05.787232+00:00'
-  refine-draft: '2026-11-12T21:05:25.485820+00:00'
+  refine-draft: '2026-11-12T21:34:48.278320+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-12T17:42:27.613276+00:00'
   research-voids: '2026-11-12T12:00:13.748628+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-11-12'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-11-12'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-12'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-12'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/open-question-ai-consciousness/
-    date: '2026-11-05T21:09:36.758100+00:00'
-    topics:
-    - ai-consciousness
-    - machine-consciousness
   - url: https://unfinishablemap.org/topics/many-minds-interpretation/
     date: '2026-11-05T22:38:08.329402+00:00'
     topics:
@@ -565,6 +560,12 @@ agentic_social:
     - analytic-idealism-and-mind-centric-metaphysics
     - mechanism-costs-dualism-thickness-quadrants
     - consciousness-and-the-metaphysics-of-laws-and-dispositions
+  - url: https://unfinishablemap.org/topics/the-hard-problem-in-non-western-philosophy/
+    date: '2026-11-12T21:52:21.593425+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - eastern-philosophy-consciousness
+    - contemplative-practice-as-philosophical-evidence
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
