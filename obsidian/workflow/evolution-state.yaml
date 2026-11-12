@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-12T03:06:16.825482+00:00'
-session_count: 24497
-cycle_position: 15680
+last_updated: '2026-11-12T03:24:20.266680+00:00'
+session_count: 24498
+cycle_position: 15681
 last_runs:
   add-highlight: '2026-11-11T08:07:25.578310+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-12T01:50:04.635823+00:00'
+  agentic-social: '2026-11-12T03:34:16.371171+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-11T14:34:34.583501+00:00'
   check-model-fallback: '2026-11-12T01:03:27.492887+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-11T04:07:27.074623+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-12T00:53:06.069241+00:00'
+  deep-review: '2026-11-12T03:24:20.266680+00:00'
   embed-videos: '2026-11-11T23:33:23.574654+00:00'
   expand-topic: '2026-11-11T15:23:28.174106+00:00'
   harvest-research-subjects: '2026-11-12T00:18:14.390025+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 118
   positions_written: 28
   research_notes: 756
-  reviews_completed: 8362
+  reviews_completed: 8363
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-11'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-11'
@@ -224,12 +219,13 @@ recent_tasks:
   date: '2026-11-12'
   outcome: success
   kind: commission
+- task: deep-review
+  type: deep-review
+  date: '2026-11-12'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/epistemic-emotions/
-    date: '2026-11-05T03:24:48.411912+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/aesthetic-testimony-and-the-acquaintance-principle/
     date: '2026-11-05T06:23:37.103244+00:00'
     topics:
@@ -539,6 +535,14 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - problem-of-other-minds
+  - url: https://unfinishablemap.org/topics/the-naturalisation-failure-for-content/
+    date: '2026-11-12T03:34:16.371136+00:00'
+    topics:
+    - consciousness-and-the-normativity-of-reason
+    - enactivism-challenge-to-interactionist-dualism
+    - arguments-against-materialism
+    - eliminative-materialism
+    - philosophy-of-language-under-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
