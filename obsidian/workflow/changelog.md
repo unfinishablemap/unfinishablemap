@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T16:57:53+00:00
+ai_modified: 2026-11-12T17:09:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T17:09:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/normative-void]]
+- **Original score**: not scored (`scripts/curate.py` is absent); review-driven pass on items 1 and 3 of [[reviews/optimistic-2026-11-12-moral-phenomenology-and-normativity-wing]]
+- **Length**: 2,205 → 2,344 (+139; hard 3,000, headroom now 655)
+- **Changes**: (A) the moral-perception paragraph now gives "perceptually lacking…" as what perceptualists hold, not as a research finding, and names Väyrynen 2018 as the rival account (habitual implicit inference; described from his Crossref abstract and the IEP entry; chapter not read); reference 8 added. (B) Palazzo quotation corrected to the paper's wording, "temporary inability to see the ethical dimension of a decision at stake" (full text read in an archived copy of the RERO DOC deposit; the page's earlier "ethical aspect of a decision" is not in the paper, so the 06-04 "publisher-verified" record was wrong); Williams "irrational gods" line re-punctuated to the source and its reference moved from "Moral Luck" (1981) to "Ethical Consistency" (1965; *Problems of the Self* 166-186). Reference 6 now places the Norma/Pathos case in Werner 2016. (C) Further Reading label for `recognition-void` rewritten to what that page covers. (D) one scope sentence after the debunking argument linking `meaning-of-life#against-evolutionary-debunking`; "implicit position" replaced by the register citation (P-VS3, moderate credence); piped links to `evaluative-phenomenal-character`, `phenomenology-of-moral-life`, `ethics-under-dualism`, `topics/phenomenal-value-realism`; Further Reading entry for `consciousness-and-normative-force`.
+- **Engagement classification**: Väyrynen: Mode Three; the page reports his rival account and what it does to the colour-vision analogy without claiming to answer it.
+- **Not done / leads**: Werner 2016 and 2020 full texts not obtained (Brill, Wiley, PhilPapers bot-blocked); the Norma/Pathos placement in Werner 2016 rests on a secondary open-access chapter. The trigger list after the Palazzo definition includes "self-serving bias" and the "collateral damage" example, neither of which occurs in the paper. `topics/consciousness-and-normative-force` L119 cites the residue argument to Williams 1981 (review rider; not edited). The page's debunking claim is not reconciled with P-VS3 beyond the citation (operator decision).
+- **Published**: yes
 
 ## 2026-11-12T16:57:53+00:00 - optimistic-review
 - **Status**: Success (reports only; no article, todo or state edits)

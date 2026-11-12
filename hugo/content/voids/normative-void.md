@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-11-05 21:39:31+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-11-12 17:08:39+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:17:24+00:00
-lastmod: 2026-11-05 21:39:31+00:00
+lastmod: 2026-11-12 17:08:39+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -55,23 +55,25 @@ Critics argue that organisms could evolve truth-tracking capabilities. But how w
 
 The evolutionary argument doesn't prove moral facts are inaccessible—it suggests our intuitive access to them is systematically unreliable. This distinction matters: unreliability concerns *accuracy*, not *accessibility*. The void here is not certain but probabilistic: even if moral truths exist, we have strong reason to doubt that evolution equipped us to find them reliably.
 
+The argument targets evolved intuitions about conduct. For value given in experience itself the Map claims an exemption, in a [reply](/topics/meaning-of-life/#against-evolutionary-debunking) that concedes it answers Street's tracking horn but not the adaptive-link horn.
+
 ## Ethical Blindness
 
 Beyond evolutionary distortion lies a more immediate phenomenon: ethical blindness. Research in business ethics and moral psychology reveals that people routinely fail to perceive the ethical dimensions of situations they're engaged in—not from lack of information but from features of cognitive architecture.
 
-Ethical blindness is described as "temporary inability to see the ethical aspect of a decision." It results from "complex interplay between individual sensemaking activities and context factors." The triggers are illuminating: euphemistic language ("collateral damage" for civilian deaths), computational limits of the human mind (inability to track all stakeholders), reliance on heuristics (deferring to authority or precedent), and self-serving bias (viewing oneself as more ethical than one's actions warrant).
+Palazzo and colleagues define ethical blindness as the "temporary inability to see the ethical dimension of a decision at stake." It results from a "complex interplay between individual sensemaking activities and context factors." The triggers are illuminating: euphemistic language ("collateral damage" for civilian deaths), computational limits of the human mind (inability to track all stakeholders), reliance on heuristics (deferring to authority or precedent), and self-serving bias (viewing oneself as more ethical than one's actions warrant).
 
-The philosophical import is significant. Ethical blindness is not ignorance (lacking relevant information) or akrasia (knowing the right but doing wrong). It is a failure of *moral perception*—the ethical dimension simply doesn't register in phenomenal experience. The person behaves unethically without awareness that ethics is relevant.
+The philosophical import is significant. Ethical blindness is not ignorance (lacking relevant information) or akrasia (knowing the right but doing wrong). It is a failure of *[moral perception](/concepts/evaluative-phenomenal-character/)*—the ethical dimension simply doesn't register in phenomenal experience. The person behaves unethically without awareness that ethics is relevant.
 
-Research on moral perception deepens the point. Some individuals appear to literally perceive moral properties while others are "perceptually lacking such that they cannot pick up on moral properties." Preston Werner's contrast between Norma (who sees cruelty as *bad* when witnessing it) and Pathos (who perceives only physical facts) suggests moral perception can be present or absent, like colour vision.
+The debate over moral perception sharpens the point. Perceptualists hold that some individuals literally perceive moral properties while others are "perceptually lacking such that they cannot pick up on moral properties." Preston Werner's contrast between Norma (who sees cruelty as *bad* when witnessing it) and Pathos (who perceives only physical facts) is meant to show that moral perception can be present or absent, like colour vision. Pekka Väyrynen (2018) argues instead that such cases are better explained by habitual implicit inference from non-moral features. On that account Pathos fails to draw inferences Norma is trained to make, and the colour-vision analogy lapses.
 
 If ethical perception varies within humanity, it may be that entire categories of moral property are imperceptible to all humans. We might be collectively blind to ethical dimensions that more sophisticated moral perceivers would recognise immediately.
 
 ## Tragic Dilemmas and Moral Residue
 
-Bernard Williams's analysis of tragic dilemmas reveals a different kind of normative limit: situations where no choice is right. Agamemnon at Aulis must sacrifice his daughter Iphigeneia or doom his army. Both options are morally catastrophic. Williams writes: "There is no need of irrational gods to give rise to tragic situations."
+Bernard Williams's analysis of tragic dilemmas reveals a different kind of normative limit: situations where no choice is right. Agamemnon at Aulis must sacrifice his daughter Iphigeneia or doom his army. Both options are morally catastrophic. Williams writes that "there is no need of irrational gods, to give rise to tragic situations."
 
-What makes these dilemmas philosophically significant is "moral residue" or "moral remainder"—the appropriateness of guilt regardless of what one chooses. In ordinary dilemmas, choosing the right option discharges moral obligation. In tragic dilemmas, guilt persists after any choice. The agent remains torn, guilty, and tainted whatever path they take.
+What makes these dilemmas philosophically significant is "moral residue" or "[moral remainder](/topics/phenomenology-of-moral-life/)"—the appropriateness of guilt regardless of what one chooses. In ordinary dilemmas, choosing the right option discharges moral obligation. In tragic dilemmas, guilt persists after any choice. The agent remains torn, guilty, and tainted whatever path they take.
 
 This isn't ignorance of the right answer. It's the *absence* of a right answer. If moral knowledge requires determinate moral truths, tragic dilemmas mark where knowledge becomes impossible—not because we lack evidence but because there is no fact of the matter.
 
@@ -125,7 +127,7 @@ The normative void connects to the Map's [foundational commitments](/tenets/):
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly relevant. The normative void challenges the assumption that moral truth should be simple or cognitively accessible. If evolution shaped our moral intuitions for survival rather than truth, parsimony in moral theory may be a vice—favouring theories that match our intuitions precisely because those intuitions are unreliable guides. The "simplest" moral theory might align with evolutionary adaptations rather than moral facts. Complexity in ethical theory might indicate territory where human cognitive shortcuts fail.
 
-**[Dualism](/tenets/#dualism)** connects through the relationship between consciousness and value. If the Map's implicit position is phenomenal value realism—value grounded in conscious experience—then the nature of consciousness constrains what can have value and what value we can perceive. Minds structured differently might perceive values we cannot.
+**[Dualism](/tenets/#dualism)** connects through the [relationship between consciousness and value](/topics/ethics-under-dualism/). The Map holds [phenomenal value realism](/topics/phenomenal-value-realism/)—value grounded in conscious experience—at moderate credence ([P-VS3](/positions/value-in-selection/#p-vs3)). If that is right, the nature of consciousness constrains what can have value and what value we can perceive. Minds structured differently might perceive values we cannot.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** connects through tragic dilemma phenomenology. When facing Agamemnon's choice, the agent experiences genuine undecidability—a felt absence of right answers. On many-worlds the tragic weight survives branch-locally: in each branch the agent takes one horn and owns it. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [posit](/tenets/background-commitments/) rather than derives from the phenomenology.
 
@@ -151,8 +153,9 @@ The normative void hypothesis would face pressure if:
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [mattering-void](/voids/mattering-void/) — Upstream condition for moral force
+- [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — What gives normative demands their force
 - [affective-void](/voids/affective-void/) — The vast space of emotions we cannot feel
-- [recognition-void](/voids/recognition-void/) — Moral perception (Norma vs. Pathos) as a recognition phenomenon
+- [recognition-void](/voids/recognition-void/) — The unobservable step between perceiving and knowing-as
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether different cognitive architectures face different closures
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
@@ -164,7 +167,8 @@ The normative void hypothesis would face pressure if:
 1. Street, Sharon. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109-166.
 2. McGinn, Colin. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 3. McGinn, Colin. "Mysterianism Revisited." https://colinmcginn.net/mysterianism-revisited/
-4. Williams, Bernard. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973-1980*. Cambridge University Press.
+4. Williams, Bernard. (1965). "Ethical Consistency." *Aristotelian Society Supplementary Volume*, 39, 103-138. Reprinted in *Problems of the Self* (Cambridge University Press, 1973), 166-186.
 5. Palazzo, Guido et al. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.
-6. Werner, Preston J. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640. The Norma/Pathos contrast case is Werner's. The "perceptually lacking such that they cannot pick up on moral properties" formulation follows the *Internet Encyclopedia of Philosophy* entry on Moral Perception (iep.utm.edu/moral-perception/).
+6. Werner, Preston J. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640. The Norma/Pathos contrast case is Werner's, from "Moral Perception and the Contents of Experience," *Journal of Moral Philosophy*, 13(3), 294-317 (2016). The "perceptually lacking such that they cannot pick up on moral properties" formulation is the *Internet Encyclopedia of Philosophy* entry's statement of the perceptualist view (iep.utm.edu/moral-perception/).
 7. Caputo, John D. & Scanlon, Michael J. (2007). *Transcendence and Beyond*. Indiana University Press.
+8. Väyrynen, Pekka. (2018). "Doubts about Moral Perception." In A. Bergqvist & R. Cowan (eds.), *Evaluative Perception*, 109-128. Oxford University Press.
