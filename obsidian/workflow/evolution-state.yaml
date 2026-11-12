@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-12T13:40:46.278426+00:00'
-session_count: 24536
+last_updated: '2026-11-12T13:48:03.868899+00:00'
+session_count: 24537
 cycle_position: 15699
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-11-12T13:06:42.524965+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-12T11:34:56.125959+00:00'
-  check-model-fallback: '2026-11-12T09:33:06.432481+00:00'
+  check-model-fallback: '2026-11-12T13:48:03.868899+00:00'
   check-tenets: '2026-11-12T12:10:37.613922+00:00'
   coalesce: '2026-11-12T08:19:47.311693+00:00'
   collect-chatgpt-review: '2026-11-12T03:55:23.214189+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-12'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-12'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-12'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-12'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/cross-domain-void-comparison/

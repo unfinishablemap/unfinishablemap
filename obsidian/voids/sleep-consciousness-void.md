@@ -4,7 +4,7 @@ description: "State-dependent cognitive limits across the sleep spectrum—what 
 created: 2026-02-02
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-11-02T10:42:24+00:00
+ai_modified: 2026-11-12T14:07:35+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[dream-consciousness]]"
   - "[[contentless-awareness-evidence]]"
   - "[[transit-void]]"
+  - "[[wakefulness-void]]"
   - "[[death-void]]"
   - "[[consciousness-only-territories]]"
   - "[[the-silence-void]]"
@@ -34,7 +35,7 @@ related_articles:
   - "[[cross-state-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-19
 last_curated: null
 last_deep_review: 2026-07-14T17:15:32+00:00
@@ -109,7 +110,7 @@ Yoga nidra practitioners aim to maintain awareness through the sleep transition�
 
 The case for genuine state-dependent inaccessibility draws on multiple lines of evidence. Neurologically, selective deactivation of the dorsolateral prefrontal cortex during REM is not contingent but systematic—part of the state's architecture. Phenomenologically, dream memories fade within minutes and feel translated rather than transcribed; what Merleau-Ponty called the "depersonalization" of dream experience cannot be recreated while awake. Paller (2025) confirms that "most sleep-based memory processing is below the surface of what we can experience"—dreams access only fragments of memory, pieced together in ways waking cannot reproduce.
 
-Dennett's challenge—whether we can verify that dreams are experiences during sleep rather than memory insertions upon waking—reveals how difficult it is to access what dream consciousness actually is. False awakenings demonstrate the depth of the problem: Russell reported experiencing "about a hundred" false awakenings in succession, each indistinguishable from genuine waking.
+Dennett's challenge—whether we can verify that dreams are experiences during sleep rather than memory insertions upon waking—reveals how difficult it is to access what dream consciousness actually is. False awakenings demonstrate the depth of the problem: Russell reported experiencing "about a hundred" false awakenings in succession, each [[wakefulness-void|indistinguishable from genuine waking]].
 
 ## Three Kinds Within One Void
 

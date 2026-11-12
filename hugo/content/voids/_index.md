@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-11 16:34:00+00:00
+ai_modified: 2026-11-12 14:07:35+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-11-11 16:34:00+00:00
+lastmod: 2026-11-12 14:07:35+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -54,6 +54,7 @@ related_articles:
 - '[[modality-void]]'
 - '[[research/voids-modality-void-2026-09-05]]'
 - '[[perceptual-reality-monitoring-void]]'
+- '[[wakefulness-void]]'
 - '[[cross-state-void]]'
 - '[[blindspot-void]]'
 - '[[research/voids-blindspot-void-2026-09-25]]'
@@ -183,6 +184,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Erasure Void](/voids/erasure-void/) — Why consciousness cannot inventory its own deletions: lost capacities take their detection mechanisms with them
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
+- [The Wakefulness Void](/voids/wakefulness-void/) — Why "I was awake" is said sincerely after recorded sleep, and why sleep science cannot yet say whether the sleeper or the recording is wrong
 - [The Meaning Void](/voids/meaning-void/) — How thoughts achieve their aboutness, and what understanding feels like once they have. Both faces resist physical reduction (coalesced from intentionality-void and semantic-void 2026-04-26)
 - [The Creative-Aesthetic Void](/voids/creative-aesthetic-void/) — Three failures—generating novel phenomenal content, articulating received aesthetic content, observing the generative process—whose pattern reveals the architecture of mind (coalesced from imagination-and-creativity-void + aesthetic-void)
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time

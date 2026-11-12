@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-11-10
 human_modified: 2026-01-08
-ai_modified: 2026-11-11T16:34:00+00:00
+ai_modified: 2026-11-12T14:07:35+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -47,6 +47,7 @@ related_articles:
   - "[[modality-void]]"
   - "[[research/voids-modality-void-2026-09-05]]"
   - "[[perceptual-reality-monitoring-void]]"
+  - "[[wakefulness-void]]"
   - "[[cross-state-void]]"
   - "[[blindspot-void]]"
   - "[[research/voids-blindspot-void-2026-09-25]]"
@@ -179,6 +180,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[erasure-void|The Erasure Void]] — Why consciousness cannot inventory its own deletions: lost capacities take their detection mechanisms with them
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[sleep-consciousness-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
+- [[wakefulness-void|The Wakefulness Void]] — Why "I was awake" is said sincerely after recorded sleep, and why sleep science cannot yet say whether the sleeper or the recording is wrong
 - [[meaning-void|The Meaning Void]] — How thoughts achieve their aboutness, and what understanding feels like once they have. Both faces resist physical reduction (coalesced from intentionality-void and semantic-void 2026-04-26)
 - [[creative-aesthetic-void|The Creative-Aesthetic Void]] — Three failures—generating novel phenomenal content, articulating received aesthetic content, observing the generative process—whose pattern reveals the architecture of mind (coalesced from imagination-and-creativity-void + aesthetic-void)
 - [[temporal-void|The Temporal Void]] — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T13:39:35+00:00
+ai_modified: 2026-11-12T14:07:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T14:07:51+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Wakefulness Void (sleep-state misperception: who is wrong when sleeper and recording disagree)
+- **Output**: [[voids/wakefulness-void]]
+- **Word count**: 1932 (voids soft 2000, hard 3000; status ok)
+- **Based on research**: yes, [[research/voids-wakefulness-void-2026-11-12]]
+- **Section count**: voids 118 → 119 of 125
+- **Quotations**: 26 source strings re-verified by grep against Europe PMC abstracts (10 sources, quoted as abstracts), Harvey and Tang 2012 and Hermans et al. 2020 full text, and the SEP entry (Descartes, quoted via Windt); no page numbers given
+- **Metadata**: 12 references re-checked at Crossref and Europe PMC; Mercer et al. 2002 page range omitted (Crossref and OpenAlex 559–566 against PubMed 564–571; publisher page bot-blocked, not obtained); Rechtschaffen and Monroe 1969 cited as reported by Harvey and Tang
+- **Hosts**: [[sleep-consciousness-void]] (piped existing text, +0 words, 2940); [[voids]] index line (+30, 8161); [[transit-void]] skipped (over hard gate, no fitting existing text)
 
 ## 2026-11-12T13:39:35+00:00 - deep-review
 - **Status**: Success
