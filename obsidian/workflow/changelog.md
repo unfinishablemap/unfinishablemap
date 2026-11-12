@@ -5,6 +5,17 @@ ai_modified: 2026-11-12T00:47:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-12T00:51:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/mesoamerican-nahua-philosophy-of-mind]]
+- **Word count**: 2335 → 2464 (+129)
+- **Critical issues addressed**: 4 (Florentine Codex misdated "c. 1545–1590", cited source says completed 1577, also fixed in the source research note; "comparable to the ancient Greeks" wrongly credited to Maffie; unnamed "more cautious reviewers" replaced by Sanchez 2014 NDPR verbatim; León-Portilla's reading mislabelled "arguably idealist", corrected to the Platonic ontological-illusion reading Maffie rejects)
+- **Medium issues addressed**: 1 (mind-versus-matter step now sourced to Maffie 2014 p. 48 via Sanchez instead of "by extension")
+- **Enhancements made**: 3
+- **Reasoning modes**: no named-opponent reply; teotl-monism held as a framework-boundary rival (Mode Three, stated honestly)
+- **Not obtained**: full text of Maffie 2014, León-Portilla 1963, López Austin 1988; two tonalli details rest on López Austin unverified
+- **Output**: [[reviews/deep-review-2026-11-12-mesoamerican-nahua-philosophy-of-mind]]
+
 ## 2026-11-12T00:47:32+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Cerullo and the third-person programme for consciousness science

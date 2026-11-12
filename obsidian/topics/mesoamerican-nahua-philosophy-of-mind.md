@@ -4,8 +4,8 @@ description: "Nahua thought made mind and matter guises of one power-in-motion, 
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-10-14T14:23:57+00:00
-last_deep_review: 2026-09-11T11:22:51+00:00
+ai_modified: 2026-11-12T00:51:30+00:00
+last_deep_review: 2026-11-12T00:51:30+00:00
 draft: false
 topics:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[common-cause-null]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-07-10
 last_curated:
 ---
@@ -36,7 +36,7 @@ The organizing category of Nahua metaphysics, on Maffie's reconstruction, is teo
 
 This is a process metaphysics rather than a substance metaphysics. Teotl, on Maffie's account, is more like a thunderstorm or a flowing river than a static, perduring thing: Nahua thought embraces a metaphysics of becoming rather than of being. A thing *is* what it *does*. The many gods of the Mexica pantheon are, on this reading, aspects or guises of the one self-unfolding process—a pantheism rather than a polytheism, in which teotl is "both metaphysically immanent and transcendent" (Maffie, IEP): immanent in penetrating every detail of the cosmos, transcendent in never being exhausted by any single existing thing.
 
-Crucially for philosophy of mind, teotl transcends the dichotomies that other traditions treat as fundamental—personal versus impersonal, animate versus inanimate, and, by extension, mind versus matter—existing instead as a "seamless totality" (Maffie, IEP). The Western hard problem needs two relata held apart: the physical, characterized structurally, and the phenomenal, characterized by what it is like. Nahua metaphysics, as reconstructed, supplies no such pair. Awareness and stone are teotl in different guises, and the question of how one produces the other has nowhere to lodge.
+Crucially for philosophy of mind, teotl transcends the dichotomies that other traditions treat as fundamental—personal versus impersonal, animate versus inanimate—existing instead as a "seamless totality" (Maffie, IEP). The book-length treatment makes the mind-matter case explicit: teotl is "a tertium quid, a third kind of stuff that is neither mind nor matter (as customarily conceived by dualists)" (Maffie 2014, p. 48, quoted in Sanchez 2014). The Western hard problem needs two relata held apart: the physical, characterized structurally, and the phenomenal, characterized by what it is like. Nahua metaphysics, as reconstructed, supplies no such pair. Awareness and stone are teotl in different guises, and the question of how one produces the other has nowhere to lodge.
 
 ## Olin, Malinalli, Nepantla: The Patterns of Process
 
@@ -54,11 +54,11 @@ The philosophical interest here is that the self is plural and distributed—a s
 
 ## Reconstruction Across a Colonial Filter
 
-Everything above must carry a methodological caution. The documentary bedrock is the Florentine Codex, the twelve-book bilingual encyclopedia compiled c. 1545–1590 by the Franciscan friar Bernardino de Sahagún together with Nahua elders and trilingual former students. It is widely regarded as the single most reliable source on Mexica culture, but it is a *colonial* source—mediated by a Christian friar, gathered from post-conquest informants, and shaped by the categories of both. Every modern reconstruction of "Aztec philosophy," including Maffie's teotl-monism and López Austin's three souls, is therefore an interpretation across that filter, not a transparent window onto a pre-contact system.
+Everything above must carry a methodological caution. The documentary bedrock is the Florentine Codex, the twelve-book bilingual encyclopedia that the Franciscan friar Bernardino de Sahagún compiled over decades with Nahua elders and trilingual former students, completed as a manuscript in 1577. It is widely regarded as the most reliable source on Mexica culture, but it is a *colonial* source—mediated by a Christian friar, gathered from post-conquest informants, and shaped by the categories of both. Every modern reconstruction of "Aztec philosophy," including Maffie's teotl-monism and López Austin's three souls, is therefore an interpretation across that filter, not a transparent window onto a pre-contact system.
 
 That caution is not uniform, however: the two bodies of material above carry contamination profiles running in opposite directions. A Franciscan compiler had a ready doctrinal template for a soul that survives death and travels to an afterlife, and every incentive to find one—so teyolia, and the tripartite scheme it anchors, is the stretch of the record most plausibly shaped by Sahagún's own categories, and should be held more loosely still. Teotl-monism runs the other way: Christian doctrine supplied no template for a single self-generating power in which awareness and stone are one thing in different guises, and gave positive reason to impose a soul/body division on the material instead, yet the record preserves the absence of that division anyway—[[common-cause-null|despite-commitments]] observation rather than because-prediction, in that the compiling framework's own model did not predict the pattern it recorded. The asymmetry costs the Map rather than helping it: the basin-edge reading below rests on the teotl half, so the half of this article that tells *against* the convergence argument is the half the colonial filter is least likely to have manufactured.
 
-The degree of systematization is itself contested. León-Portilla and Maffie read the Nahua *tlamatinime* ("knowers of things") as genuine philosophers with a refined metaphysics comparable to the ancient Greeks; more cautious reviewers warn against imposing a single coherent "system" on fragmentary, mediated evidence. Interpreters also diverge internally: León-Portilla's earlier reading leans toward an evanescent, arguably idealist picture in which earthly things are dream-like and "flower and song" (*in xochitl in cuicatl*) is the only earthly truth, whereas Maffie defends a robustly immanent monism in which earthly things fully *are* teotl. The Map takes teotl-monism as the influential contemporary reconstruction, not as a settled fact about pre-Columbian belief.
+The degree of systematization is itself contested. León-Portilla and Maffie read the Nahua *tlamatinime* ("knowers of things") as genuine philosophers with a sophisticated, coherent metaphysics. Reviewing Maffie's book, Robert Eli Sanchez Jr. grants that such a worldview "can be found in the Náhuatl language and other products of Aztec culture" yet finds it "difficult to tell whether it is a 'reconstruction' of Aztec philosophy, as it was meant to be, or a construction" (Sanchez 2014). Interpreters also diverge internally. León-Portilla's earlier reading takes the dream-likeness of earthly things ontologically, on a Platonic model in which appearance is a lower grade of reality and "flower and song" (*in xochitl in cuicatl*) the only earthly truth. Maffie reads the same dream-likeness as epistemological—humans ordinarily misperceive teotl—and defends a robustly immanent monism in which earthly things fully *are* teotl. The two-level picture Maffie rejects divides appearance from reality, not mind from body, so it would not by itself make the Nahua a mind-body dualist tradition. The Map takes teotl-monism as the influential contemporary reconstruction, not as a settled fact about pre-Columbian belief.
 
 ## The Second Organicist Basin Edge
 
@@ -93,6 +93,7 @@ This section is the Map's own interpretation and should not be read back into th
 1. Maffie, James. "Aztec Philosophy." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/aztec-philosophy/
 1. León-Portilla, Miguel (1963). *Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind*. Trans. Jack Emory Davis. Norman: University of Oklahoma Press.
 1. López Austin, Alfredo (1988). *The Human Body and Ideology: Concepts of the Ancient Nahuas*. 2 vols. Trans. Thelma Ortiz de Montellano and Bernard Ortiz de Montellano. Salt Lake City: University of Utah Press. ISBN 0-87480-260-1.
-1. Sahagún, Bernardino de, and Nahua collaborators (c. 1545–1590). *Florentine Codex: General History of the Things of New Spain*. Digital Florentine Codex, Getty. https://florentinecodex.getty.edu/
+1. Sanchez, Robert Eli, Jr. (2014). Review of James Maffie, *Aztec Philosophy: Understanding a World in Motion*. *Notre Dame Philosophical Reviews*, 2014.10.11. https://ndpr.nd.edu/reviews/aztec-philosophy-understanding-a-world-in-motion/
+1. Sahagún, Bernardino de, and Nahua collaborators (completed 1577). *Florentine Codex: General History of the Things of New Spain*. Digital Florentine Codex, Getty. https://florentinecodex.getty.edu/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-07). Chinese Philosophy of Mind. *The Unfinishable Map*. https://unfinishablemap.org/topics/chinese-philosophy-of-mind/
 1. Southgate, A. & Oquatre-sept, C. (2026-03-20). Cross-Traditional Convergence on Consciousness Irreducibility. *The Unfinishable Map*. https://unfinishablemap.org/topics/cross-traditional-convergence-on-consciousness-irreducibility/

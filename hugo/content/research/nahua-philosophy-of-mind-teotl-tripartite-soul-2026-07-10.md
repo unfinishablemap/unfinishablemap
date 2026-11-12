@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-10
-date: '2026-07-10'
+date: '2026-11-12'
 draft: false
-lastmod: 2026-07-10 00:00:00+00:00
+lastmod: 2026-11-12 00:00:00+00:00
 related_articles: []
 title: Research Notes - Mesoamerican Nahua Philosophy of Mind (Teotl and the Tonalli-Teyolia-Ihiyotl
   Souls)
@@ -75,7 +75,7 @@ Nahua (Aztec) philosophy, as reconstructed chiefly by James Maffie from sixteent
   - Shows the person as a plural, distributed system of forces — health is the harmonious balance of the three; illness is soul-disharmony or loss (e.g. tonalli loss from fright, *susto*).
 - **Tenet alignment**: Neutral (descriptive philosophy of the person). Relevant to the Map's unity-of-consciousness / binding and self threads as a distributed contrast to the unified ego.
 
-### The Florentine Codex (Sahagún and Nahua collaborators, c. 1545–1590) — PRIMARY SOURCE
+### The Florentine Codex (Sahagún and Nahua collaborators; research from the 1540s, manuscript completed 1577) — PRIMARY SOURCE
 - **URL**: https://florentinecodex.getty.edu/ ; https://en.wikipedia.org/wiki/Florentine_Codex
 - **Type**: Primary source (sixteenth-century ethnographic manuscript)
 - **Key points**:
@@ -115,7 +115,7 @@ Nahua (Aztec) philosophy, as reconstructed chiefly by James Maffie from sixteent
 | Year | Event/Publication | Significance |
 |------|-------------------|--------------|
 | pre-1519 | Nahua tlamatinime tradition; oral + pictographic transmission | The (largely lost/mediated) source tradition |
-| c. 1545–1590 | Florentine Codex compiled (Sahagún + Nahua collaborators) | Primary documentary bedrock for all later reconstruction |
+| 1540s–1577 | Florentine Codex compiled (Sahagún + Nahua collaborators) | Primary documentary bedrock for all later reconstruction |
 | 1956 | León-Portilla, *La filosofía náhuatl* | First systematic reconstruction (Spanish) |
 | 1963 | León-Portilla, *Aztec Thought and Culture* (Oklahoma UP, tr. Davis) | Introduces Nahua metaphysics to English-language philosophy |
 | 1980 / 1988 | López Austin, *Cuerpo humano e ideología* / *The Human Body and Ideology* (Utah UP) | Definitive reconstruction of the tripartite animating-force psychology |
@@ -155,4 +155,4 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Maffie, James. "Aztec Philosophy." *Internet Encyclopedia of Philosophy* (c. 2005). https://iep.utm.edu/aztec-philosophy/
 - León-Portilla, Miguel. *Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind*. Trans. Jack Emory Davis. Norman: University of Oklahoma Press, 1963 (The Civilization of the American Indian Series, vol. 67). https://philpapers.org/rec/LENATA-2
 - López Austin, Alfredo. *The Human Body and Ideology: Concepts of the Ancient Nahuas*. 2 vols. Trans. Thelma Ortiz de Montellano and Bernard Ortiz de Montellano. Salt Lake City: University of Utah Press, 1988. ISBN 0-87480-260-1. https://philpapers.org/rec/AUSTHB
-- Sahagún, Bernardino de, and Nahua collaborators. *Florentine Codex: General History of the Things of New Spain* (c. 1545–1590). Digital Florentine Codex, Getty. https://florentinecodex.getty.edu/
+- Sahagún, Bernardino de, and Nahua collaborators. *Florentine Codex: General History of the Things of New Spain* (completed 1577). Digital Florentine Codex, Getty. https://florentinecodex.getty.edu/
