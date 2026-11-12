@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-11-12
 human_modified:
-ai_modified: 2026-11-12T09:22:08+00:00
+ai_modified: 2026-11-12T14:18:45+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
@@ -79,7 +79,7 @@ John Eccles' psychon-dendron theory, given its quantum form with the physicist F
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet exists for both philosophical and empirical reasons:
 
-**Philosophical:** A dualist framework that posits massive mental intervention in physics loses parsimony advantages and faces the question of why physics works so well without positing mind. Minimality preserves most of physics while carving out a narrow interface.
+**Philosophical:** A dualist framework that posits massive mental intervention in physics faces the question of why physics works so well without positing mind. Minimality preserves most of physics while carving out a narrow interface.
 
 **Empirical:** If consciousness significantly altered Born statistics, precision experiments should detect it. Quantum mechanics is extraordinarily well-tested. No systematic deviations have been found. Either consciousness doesn't affect quantum outcomes, or it does so in ways that evade detection.
 
@@ -159,7 +159,7 @@ The coupling modes taxonomy connects directly to the Map's foundational commitme
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Rejecting MWI means one outcome becomes actual and others don't. Chalmers and McQueen (2022) develop a rigorous framework for consciousness-collapse theories that bears on this, concluding only that there is "a research program here worth exploring" and not that such interpretations are correct: if consciousness triggers collapse, the coupling mode specifies how it participates in actualisation—not whether it does (that's a tenet) but through what mechanism.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Critics might invoke parsimony against any coupling mode. But parsimony applies within comparable explanatory scope. A theory that ignores consciousness's causal efficacy isn't simpler—it's incomplete. The question is which mode best balances explanatory power with physical minimality.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Critics might invoke parsimony against any coupling mode. But parsimony applies within comparable explanatory scope. A theory that leaves out the causal efficacy the Map posits is narrower in scope, which is a different thing from simpler. The question is which mode best balances explanatory power with physical minimality.
 
 ## Further Reading
 

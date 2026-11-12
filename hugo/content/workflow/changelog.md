@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 14:07:51+00:00
+ai_modified: 2026-11-12 14:18:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 14:07:51+00:00
+lastmod: 2026-11-12 14:18:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T14:18:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [coupling-modes](/concepts/coupling-modes/)
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted fix from [tenet-check-2026-11-12](/reviews/tenet-check-2026-11-12/) W1)
+- **Changes**: Two scripted replacements. (a) "Why Minimality Matters", Philosophical item: dropped "loses parsimony advantages and", so the sentence no longer offers parsimony as a reason the Minimal Quantum Interaction tenet exists; what remains is the fit-with-the-physical-record point, which agrees with the tenets page ("*empirical-constraint* minimality") and with this page's own corridor paragraph. (b) Occam's Razor Has Limits line: "A theory that ignores consciousness's causal efficacy isn't simpler—it's incomplete" became "A theory that leaves out the causal efficacy the Map posits is narrower in scope, which is a different thing from simpler". That sentence was a Tenet 5 scope point about a rival, never a grounding of Tenet 2; the change stops treating causal efficacy as an established datum the rival "ignores" and removes the "isn't X—it's Y" construct. No tenet commitment weakened. Nothing installed by today's deep review was touched (L86, L126, L160 left as they are). No named opponent is engaged in either sentence, so no reasoning-mode classification applies.
+- **Length**: analyze_length 3,259 before, 3,267 after (+8; concepts hard 3,500).
+- **Published**: yes
 
 ## 2026-11-12T14:07:51+00:00 - expand-topic
 - **Status**: Success

@@ -5317,17 +5317,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-12
 - **Notes**: New article landed 2026-11-12 (3,274 words; hard gate 4,000). Its verdict: self-observation cannot locate, time or confirm a selection (decoherence timescale gap, reconstructed decision time, no self-certified efficacy); what survives is decision KINDS as candidate conditioning variables. Cross-review tasks: (1) check `topics/free-will`, `concepts/libet-experiments`, `concepts/timing-gap-problem`, `concepts/process-1-specification-problem`, `topics/forward-in-time-conscious-selection` and `topics/phenomenology-of-deliberation-under-uncertainty` for sentences implying that felt choice marks or times a selection, and hedge or link where length-safe (measure headroom first; use piped wikilinks on existing text where possible); (2) the article reports an unresolved tension between [P-Q2](/positions/quantum-interface/#p-q2) (calibration note 2026-10-14: a deviation conditioned on a public label is the minimum-outside-the-corridor fallback) and [P-Q9](/positions/quantum-interface/#p-q9) (such a deviation "would test the corridor itself") — confirm both readings against the live positions pages and, if real, queue a positions-evolve task rather than editing positions here; (3) the operator's "also read" pages (kairos, witness-consciousness, contemplative practice, the observer voids) were read at lead level only and are not linked — add links only where a real connection exists; (4) London & Bauer's non-causal (French) reading is stated without citation because French 2023 was not obtained — obtain and cite, or leave as is and say so; (5) Planck p. 163 and MacKay pp. 37, 40 were carried from the 2026-10-29 note without re-fetch, and Wigner's imprint (Heinemann 1961 vs OpenLibrary 1962) is not database-confirmed — re-verify. Hosts already linked: concepts/post-decoherence-selection, concepts/phenomenology-of-choice-and-volition, apex/post-decoherence-selection-programme (apex at 4,996/5,000 — do not add words there). No browser tools. ai_system: append the running model only if absent anywhere in the string.
 
-### P2: Write `voids/wakefulness-void` — Voids: The Wakefulness Void
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-wakefulness-void-2026-11-12.md
-- **Target section**: voids
-- **Section**: voids
-- **Status**: pending
-- **Source**: research-chain (auto-minted by cycle_post after research-topic)
-- **Generated**: 2026-11-12
-- **Headroom**: voids 118/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
-- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P2: `concepts/coupling-modes` grounds Tenet 2's minimality in parsimony, which the tenets page and the page's own later text deny
 - **Type**: refine-draft
 - **File**: obsidian/concepts/coupling-modes.md
@@ -5380,8 +5369,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: NOT measured for sentientism at mint: measure with analyze_length first (gate is >=). phenomenal-normativity-environmental-ethics 3,853 of 4,000: net <= +40 there.
 - **Notes**: TWO FILES, report each by name. Read the review file first; do not undo its six corrections. (1) sentientism around L55 states the beneficence bridge as Attfield's; the deep review found Attfield (1987) himself credits the case to Kenneth Goodpaster. Read how the topic page now words the credit, verify against Attfield's text if obtainable by curl/WebFetch (else rely on the review file's fetched evidence and say so), and match it. (2) On the topic page: add reference entries for Goodpaster and for the Abhinavagupta alaukika claim, or reword so no reference is owed; "The deep ecology tradition responds" names no source work: cite one after checking it makes that charge (Naess 1973 was not checked), or mark it as the Map's summary; Singer 1975, Regan 1983 and Rawlette 2016 are in References but uncited in the body: cite where they are used or remove; "Factory farming is the largest source of preventable conscious suffering on Earth" is uncited: source or soften; Varner "left biocentrism by 2012" was checked at abstract level only: check the primary text or mark the level of support; the Dualism tenet paragraph's "more firmly than functionalist approaches" sits against the page's own humility section: calibrate. Quote only strings grep-verified in fetched source text. No browser tools. Locate each edit by quoted string at count 1 and print the live line first; pronoun check after each replacement. ai_modified from `date -u`; append the running model id to ai_system only if ABSENT anywhere in the string. Changelog before `uv run python scripts/sync.py`; verify hugo copies. No "This is not X. It is Y."; no "load-bearing".
 
+### P3: First deep review of the new `voids/wakefulness-void`
+- **Type**: deep-review
+- **File**: obsidian/voids/wakefulness-void.md
+- **Status**: pending
+- **Source**: chain (expand-topic 2026-11-12, commit 3df642b0); driver-minted
+- **Generated**: 2026-11-12
+- **Review file**: obsidian/research/voids-wakefulness-void-2026-11-12.md
+- **Notes**: New article (1,932 words; voids soft 2,000, hard 3,000). Ten of its thirteen sources were read as ABSTRACTS only and the article says so; check that no sentence claims more than an abstract can carry. Re-verify the 26 quoted strings against fetched text (Europe PMC / NCBI efetch by curl; no browser tools). Guards from the research note still bind: no Williams 1978 asymmetry, no microsleep-unawareness claim, no named coiner of "sleep state misperception", Weigand's 20.6% reported only together with Stephan and Siclari's "almost never", Rechtschaffen and Monroe 1969 only "as Harvey and Tang report it". Mercer et al. 2002 page range is in conflict (Crossref/OpenAlex 559-566; PubMed/Europe PMC 564-571) and was omitted: resolve at the publisher if reachable. The Descartes passage is quoted via Windt's SEP entry: confirm the attribution wording. `voids/transit-void` carries no reciprocal link (it is over its hard gate): add one only by piping existing text at +0. Check the three-kinds classification ("mixed") against `voids/three-kinds-of-void`.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-12: Write `voids/wakefulness-void` — Voids: The Wakefulness Void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-wakefulness-void-2026-11-12.md
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-11-12: `topics/delegation-meets-quantum-selection` still states as its thesis the delegation-quantum fusion that the specification programme withdrew; `concepts/delegatory-causation` still calls Saad's mechanism "the cleanest current min-mind / min-physical inhabitant"
 - **Type**: refine-draft
