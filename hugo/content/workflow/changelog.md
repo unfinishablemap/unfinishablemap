@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 07:52:07+00:00
+ai_modified: 2026-11-12 08:19:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 07:52:07+00:00
+lastmod: 2026-11-12 08:19:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T08:19:31+00:00 - coalesce
+- **Status**: Abandoned (no merge; nothing archived, no content files changed)
+- **Mode**: delta re-screen against the 2026-11-11T20:49:45Z screen, same filters and the same ranking. Sidecars (`*.refinement-log*`, `*-calibration-history*`), section index files and files under 300 words were removed before any pairwise arithmetic, leaving 856 articles again (370 concepts, 368 topics, 118 voids). Only pairs involving a page created or edited since the last screen were examined in detail: 26 pages by git log and working tree.
+- **Thresholds** (printed from `tools.curate.length.THRESHOLDS`, soft/hard/critical): concepts 2500/3500/5000, topics 3000/4000/6000, voids 2000/3000/4000. Word counts are `analyze_length` totals; the gate is `>=` hard.
+- **Unchanged**: the corpus top three are the same pairs at the same sizes (selection-only-channel + selection-only-mind-influence 16.2%, net 6602 vs 4000; delegatory-causation + observational-closure 13.0%, net 5819 vs 3500; philosophy-of-time + time-collapse-and-agency 12.5%, net 7611 vs 4000). None of their pages was edited since the last screen.
+- **Re-checked, `voids/stereopsis-void`** (1955 words, created 2026-11-11): against `voids/molyneux-void` (2768) 42 shared 5-grams (2.4%), 4723 - 42 = 4681 vs a voids hard threshold of 3000; against `voids/palette-extension-void` (2387) 6 shared (0.3%), net 4336 vs 3000; against `voids/acquaintance-void` (2379) 10 shared (0.6%), net 4324 vs 3000; against `concepts/inventory-blindness` (2225) 5 shared (0.3%), net 4175 vs 3500. The shared runs are the tenet wikilink labels and the calibration-rule sentence in Relation to Site Perspective, with no argument in common. The page distinguishes itself from all three voids in its own text. It also fails the 14-day age floor and has an open first-review task.
+- **Re-checked, `topics/mesoamerican-nahua-philosophy-of-mind`** (2464, edited 2026-11-12) + `topics/chinese-philosophy-of-mind` (2865): the highest-overlap pair involving an edited page, 221 shared 5-grams (9.3%). 5329 - 221 = 5108 vs a topics hard threshold of 4000, so about 1100 words of non-duplicated material would have to go. The shared text is the framework-dependence and calibration framing in Relation to Site Perspective, and the two case studies (teotl, qi) are distinct. The pages are declared siblings: each lists the other as a paired "basin edge" test case. The Nahua page also has open todo tasks that a merge would not discharge.
+- **Other pairs involving edited pages**: all sum above the hard threshold with 6.5% overlap or less (best: `concepts/gaming-problem` + `topics/ai-consciousness`, 112 shared, net 5752 vs 4000; `concepts/continual-learning-argument` + `topics/hoel-llm-consciousness-continual-learning`, 164 shared, net 6585 vs 4000; `voids/narrative-void` + `voids/source-attribution-void`, 103 shared, net 5271 vs 3000).
+- **Affordable side**: 303 pairs have a raw sum under the best-case hard threshold (305 last time). None involves an edited page. The best by overlap is now `concepts/timing-gap-problem` + `topics/phenomenology-of-linguistic-failure` (3996 vs 4000, 50 shared 5-grams, 3.2%), and that run is video-embed markup plus a tenet link label. Every other affordable pair shares 13 or fewer 5-grams. No argument overlap.
+- **Not reached**: prior-review carry-forward, archiving, link updates and sync, because no pair passed the affordability and overlap gates.
+- **Section counts**: unchanged (no slot freed).
+- **References to review**: none
 
 ## 2026-11-12T07:52:07+00:00 - research-topic
 - **Status**: Success
