@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 06:21:44+00:00
+ai_modified: 2026-11-12 07:07:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 06:21:44+00:00
+lastmod: 2026-11-12 07:07:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T07:07:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Task**: P1, fourth of five on this page (outer review 2026-11-12, synthesis clusters C10–C15, divergence D2): placement rationales and sourcing.
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted review-driven fix)
+- **Length**: analyze_length 3,998 → 3,997 (topics hard 4,000, gate `>=`; net −1, two words of headroom left for the last task). Per item: Stapp Q4 sentence +1; Stapp channel parenthesis +1; Nida-Rümelin/Descartes sentence −1; Russellian flag +3; Thomistic entry −2; hybrid label +1; "classically inhabited" +1; Myers URL 0; Nida-Rümelin reference −22; SEP "Dualism" reference +4; Stapp reference +7; Myers "metetherial" aside +6. Body net +10; reference apparatus −11. No body qualifier, hedge, concession or refutation was cut.
+- **Changes**:
+  - Stapp (C10): the non-verbatim quotation was dropped, not repaired. His paper reads "The Process 1 choice of which probing action to take can be represented in the stream of consciousness of the agent" (grepped in the author's PDF; the old string counts 0). The Q4 entry now says Stapp makes the agent's Process 1 choices (which probing action, how rapidly repeated) the sole interaction channel; the paper supports both halves (a "rapid sequence of very similar Process 1 actions" yields the Zeno holding effect, and "the rapidity of the succession of essentially identical Process 1 actions can be increased by mental effort"). The later sentence's "(quantum-Zeno biasing only)" is now "(question-choice and quantum-Zeno holding)": Stapp rejects biasing by name (LBNL-55887, re-grepped: "I am thoroughly committed to strict adherence to the orthodox statistical rules, in contrast to Eccles's suggestion that these laws are biased by mental effort"). The two sentences now describe one channel and match the layered account in `topics/dualism-channel-width-axis`.
+  - Descartes and Nida-Rümelin (C11, C13): Descartes is no longer placed by "substantial extra-introspective cognitive content" (the Fourth Replies passage quoted in SEP "Descartes' Epistemology" was re-fetched: "there can be nothing in the mind, in so far as it is a thinking thing, of which it is not aware"). He is placed by what *res cogitans* adds to a unitary subject: independent existence and faculties of intellect and will. Nida-Rümelin is "counted by one posit, a unitary subject", matching the medium bullet; "minimal causal intervention" is gone. Her 2007 *Erkenntnis* paper was checked at abstract level (Semantic Scholar record: subject causation; "does not touch the autonomy of neurophysiology"; "a weak version of subject-body dualism") and is not cited, so no reference was added.
+  - Russellian panpsychism in Q4 (D2): flagged "a monist limit case with no interface"; not re-filed.
+  - Thomistic entry (C15): "rich form and rich matter" removed. The entry now reads: a subsistent rational soul informs matter, one substance from two ontologically substantial principles, composed rather than interacting. No doctrine of prime matter is asserted (none was sourced).
+  - Myers–Bohm hybrid (C14): labelled "The Map's own construction, not an attributed position"; "coherent and inhabited" became "coherent and classically inhabited", which points at the Descartes and Aquinas named earlier in the paragraph and no longer counts the construction.
+  - Myers Q3 entry (item 6): "physics remains thin" became "physics is kept thin (Myers's spiritual "metetherial" environment aside)". Checked in the 1903 text: the glossary defines the metetherial environment as "the spiritual or transcendental world in which the soul exists" (20 occurrences of the word in vol. 1).
+  - References: Myers 1903 now links the book itself (archive.org record b21911836_0001: London, Longmans, Green, 1903, vol. 1), not the Psi Encyclopedia biography. The SEP remark was detached from the Nida-Rümelin 2010 chapter (SEP "Dualism", substantive revision 2025-10-17, attributes the unitary-subject view to "Nida-Rümelin (2012)") and the SEP "Dualism" entry is marked as the source for her terminology. Stapp's reference has its year and venue from the Crossref record opened in this run (doi 10.1111/j.1467-9744.2005.00762.x: *Zygon* 41(3), issued 2006; title with subtitle "An Alternative to Materialism", matching the PDF). Still 16 entries, no renumbering, 0 numeric citations in the body; (surname, year) check both ways unchanged.
+- **Reply mode**: none claimed; no named opponent is refuted in this pass.
+- **Left for the last task or the operator**: `topics/dualism-channel-width-axis` L67 still quotes this page as saying "quantum-Zeno biasing only" (stale quotation; that page has 3 words of headroom), and `apex/dualism-cartography` L75 and `archive/topics/channel-width-third-axis` L67 carry the same phrase. `concepts/panpsychism` L182 still says "full Russellian panpsychism in Q4 (both sides rich)" with no limit-case flag. The thick-mind bullet (not owned) defines thickness by content exceeding introspection, which Descartes's transparency doctrine does not meet; his placement now rests on a count of posits the bullet does not mention. The opening of the same sentence still files Nida-Rümelin under Type-D, though her abstract calls the account supervenience-compatible. The Stapp entry's "a full agent with selection power" was not owned by this task. The Myers reference links volume 1 only.
+- **Published**: yes
 
 ## 2026-11-12T06:21:44+00:00 - refine-draft
 - **Status**: Success
