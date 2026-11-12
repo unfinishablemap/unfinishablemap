@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 11:07:53+00:00
+ai_modified: 2026-11-12 11:59:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 11:07:53+00:00
+lastmod: 2026-11-12 11:59:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T11:59:04+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The wakefulness void (sleep-state misperception: people woken from recorded sleep who say they were awake)
+- **Category**: Mixed (Occluded for the sleeper; Unexplored, possibly Unexplorable, for the question of who is right)
+- **Output**: [voids-wakefulness-void-2026-11-12](/research/voids-wakefulness-void-2026-11-12/)
+- **Verdict**: `recommended_action: article`, `target_slug: wakefulness-void` (fold declined: sleep-consciousness-void has 59 words of headroom, transit-void is past hard)
+- **Key finding**: In good sleepers a single first-night awakening from consolidated sleep was judged "awake" in 29.4% of cases (Weigand et al. 2007), and Stephan and Siclari (2023) say it is unknown whether such reports are a misperception by the sleeper or a mismeasurement by the recording.
 
 ## 2026-11-12T11:07:53+00:00 - refine-draft
 - **Status**: Success
