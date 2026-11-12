@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 11:59:04+00:00
+ai_modified: 2026-11-12 12:09:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 11:59:04+00:00
+lastmod: 2026-11-12 12:09:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T12:09:41+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 89 (delta check 164: every concepts/topics/voids/apex/positions file changed since check 163's scan HEAD `593f95433d`; two new articles and five same-day causation edits read in full by the driver, 81 pages by four read-only subagents, all findings rechecked by the driver)
+- **Errors**: 0
+- **Warnings**: 6
+- **Notes**: 9
+- **Lead findings**: `concepts/coupling-modes` L82 gives lost parsimony as a reason for the minimality tenet, against the tenets page and the page's own L126; `concepts/agent-causation` L137 cites Whitehead as "complementary support" with no statement of his stance; `apex/what-it-might-be-like-to-be-an-ai` L148 asserts the baseline-cognition asymmetry as fact; `concepts/prospective-memory` L172 keeps "predicts" in a line the window repaired.
+- **New pages**: `topics/self-observation-and-the-moments-of-selection` and `voids/stereopsis-void` pass; one Note on the latter's Occam paragraph.
+- **Cleared**: one subagent false alarm (Cerullo's "not reducible" is his own v2 wording).
+- **Tasks minted**: 0 (reports only; Priority List carries four scripted OLD/NEW items)
+- **Output**: [tenet-check-2026-11-12](/reviews/tenet-check-2026-11-12/)
 
 ## 2026-11-12T11:59:04+00:00 - research-voids
 - **Status**: Success

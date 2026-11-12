@@ -5341,6 +5341,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-12
 - **Notes**: New article landed 2026-11-12 (3,274 words; hard gate 4,000). Its verdict: self-observation cannot locate, time or confirm a selection (decoherence timescale gap, reconstructed decision time, no self-certified efficacy); what survives is decision KINDS as candidate conditioning variables. Cross-review tasks: (1) check `topics/free-will`, `concepts/libet-experiments`, `concepts/timing-gap-problem`, `concepts/process-1-specification-problem`, `topics/forward-in-time-conscious-selection` and `topics/phenomenology-of-deliberation-under-uncertainty` for sentences implying that felt choice marks or times a selection, and hedge or link where length-safe (measure headroom first; use piped wikilinks on existing text where possible); (2) the article reports an unresolved tension between [P-Q2](/positions/quantum-interface/#p-q2) (calibration note 2026-10-14: a deviation conditioned on a public label is the minimum-outside-the-corridor fallback) and [P-Q9](/positions/quantum-interface/#p-q9) (such a deviation "would test the corridor itself") — confirm both readings against the live positions pages and, if real, queue a positions-evolve task rather than editing positions here; (3) the operator's "also read" pages (kairos, witness-consciousness, contemplative practice, the observer voids) were read at lead level only and are not linked — add links only where a real connection exists; (4) London & Bauer's non-causal (French) reading is stated without citation because French 2023 was not obtained — obtain and cite, or leave as is and say so; (5) Planck p. 163 and MacKay pp. 37, 40 were carried from the 2026-10-29 note without re-fetch, and Wigner's imprint (Heinemann 1961 vs OpenLibrary 1962) is not database-confirmed — re-verify. Hosts already linked: concepts/post-decoherence-selection, concepts/phenomenology-of-choice-and-volition, apex/post-decoherence-selection-programme (apex at 4,996/5,000 — do not add words there). No browser tools. ai_system: append the running model only if absent anywhere in the string.
 
+### P2: Write `voids/wakefulness-void` — Voids: The Wakefulness Void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-wakefulness-void-2026-11-12.md
+- **Target section**: voids
+- **Section**: voids
+- **Status**: pending
+- **Source**: research-chain (auto-minted by cycle_post after research-topic)
+- **Generated**: 2026-11-12
+- **Headroom**: voids 118/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
 ## Completed Tasks
 
 
