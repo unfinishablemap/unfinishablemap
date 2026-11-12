@@ -324,3 +324,32 @@
   subject_articles:
   - topics/four-quadrant-dualism-taxonomy.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/d3149a95-5092-46ec-b08c-4f7ae1953827
+  commissioned_at: '2026-11-12T03:05:58.026351+00:00'
+  prompt_summary: 'Audit four-quadrant-dualism-taxonomy: taxonomy, citations, counterarguments'
+  target_filename: outer-review-2026-11-12-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair academic referee and audit one article
+    from The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind
+    site arguing for interactionist dualism: https://unfinishablemap.org/topics/four-quadrant-dualism-taxonomy/
+    . Read the live page directly rather than relying on search snippets, and consult
+    the changelog at https://unfinishablemap.org/workflow/changelog/ for recent edits,
+    since search indexes lag by a day or two. Assess three things. (1) Taxonomy: are
+    the two axes well defined, exhaustive and mutually exclusive; are named philosophers
+    and positions placed in the right quadrant; does the scheme match or distort standard
+    classifications in the literature? (2) Citations: verify every reference, quotation,
+    date and attribution against primary sources, flagging misattributions, misquotes
+    and works that do not say what is claimed. (3) Counterarguments: which strong
+    objections to the taxonomy, or to the Map''s own placement within it, are missing
+    or handled weakly? Distinguish clear errors from judgment calls. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit four-quadrant-dualism-taxonomy
+  subject_articles:
+  - topics/four-quadrant-dualism-taxonomy.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-12-chatgpt-5-6-sol-pro.md
