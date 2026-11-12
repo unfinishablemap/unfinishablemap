@@ -5,6 +5,18 @@ ai_modified: 2026-11-12T03:23:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-12T03:54:24+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review; commissioned 2026-11-12T02:05Z, subject `topics/four-quadrant-dualism-taxonomy`, fallback:recent-aged)
+- **File**: [[reviews/outer-review-2026-11-12-chatgpt-5-6-sol-pro]]
+- **Extraction**: turn state complete, no stop button. 6,397 words of markdown extracted against 6,124 rendered words in the response body (6,293 for the whole turn); the excess is markdown syntax and link labels. 57 links kept.
+- **Claims verified**: 12 confirmed (Saad closure wording, withdrawn Saad–quantum fusion still asserted at L89, Chalmers' type-O, type-E closure "not essential", no "austere" in Chalmers 2003, Broad's seventeen-view taxonomy, the L79 rule against the page's own definitions, Stapp L125 against L139, Russellian panpsychism under the Q4 epigraph, Myers reference URL, Vaassen 2026 and SEP revision date, Pereboom's term); 6 left as leads (Descartes, Nida-Rümelin 2007 content, Goff, Pereboom intent, Stoljar, Myers' ether); 4 disputed (author named "J.P. Saad"; panpsychism page's Goff placement already corrected; hylomorphism "direct inconsistency" conflates two axes; one misquoted phrase)
+- **High-value findings**: 4
+- **Tasks generated**: 4 refine-draft on the one article (P1: 1, P2: 3). Addendum on the open 2026-10-25 P3 Saad closure task, whose taxonomy locus moves to the new P1. Addendum on the 2026-08-03 NEEDS-HUMAN methodology-ratification entry (correction propagation), no new task.
+- **Length**: the article is at 4,002 of topics hard 4,000 (headroom −3; prose 3,629), so every task is briefed net ≤ 0
+- **Queue**: parse_tasks active 381 → 385; P0–P2 count 17 → 21
+- **Not tasked**: the reviewer's structural proposals (retitle, 3×3 or thresholded plane, annotation fields, neutral labels, two coders) go to the operator. Uncovered subjects (type-O dualism, Broad 1925) are listed in the review's Processing Notes for the harvester.
+
 ## 2026-11-12T03:23:10+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/perceptual-failure-and-the-interface]]

@@ -300,9 +300,9 @@
   commissioned_at: '2026-11-12T02:05:36.921998+00:00'
   prompt_summary: 'Audit four-quadrant-dualism-taxonomy: taxonomy, citations, counterarguments'
   target_filename: outer-review-2026-11-12-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-12T03:50:24.239773+00:00'
   failure_reason: null
   prompt_text: 'Please act as an independent, critical outer reviewer for The Unfinishable
     Map (https://unfinishablemap.org), a philosophy-of-mind site built on five dualist
