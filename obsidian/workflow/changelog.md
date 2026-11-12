@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T23:39:57+00:00
+ai_modified: 2026-11-12T23:51:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T23:51:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/wakefulness-void]]
+- **Review file**: `reviews/pessimistic-2026-11-12-wakefulness-void.md`
+- **Original score**: not scored (`scripts/curate.py` absent; targeted pass on the review's ranked list)
+- **Word count**: 1932 → 2022 (+90; voids soft 2,000 / hard 3,000; 22 over soft, at the pass ceiling)
+- **Changes**: (1) Lead restated as a claim about retrospective reports: the report of having been awake "does not certify the interval it is about"; "no third party" replaced by "the field has not settled which is wrong" (review NEW string, verbatim). (2) Classification paragraph: "unexplorable" and "the only arbiters" dropped; the page now calls itself a modest void, unexplored for the science with finer recording deciding, and weakly occluded for a reporter who is awake and reporting on a state that has ended; base rate marked as a whole-night finding and paired with Weigand's "generally concur". Departs from the review's NEW string in order ("unexplored" first), in grading ("modest", "weakly"), and in "for an interval scored as sleep" in place of "intervals of either kind". (3) Time estimation: "fared badly" replaced by "had no support in 2012", Hermans et al. (2020) "time estimation is associated with sleep onset misperception" added (with sleep fragmentation modelled), and Harvey and Tang's "brief awakenings" account added. (4) First-person-evidence sentence: "wrong at a measurable rate" replaced by "disagrees at a measurable rate with the standard recording" (review NEW string, verbatim). Smaller: Bonnet and Moore's auditory-threshold result added as siding with the recording; "reviewing serial-awakening work" → "in a systematic review" and "The designs differ" removed; "no mark" → "no validated mark"; face label "The missing arbiter" → "The disputed arbiter"; "Sleep is also regional" scoped to rats kept awake; Reyner and Horne restated as measuring only awareness of prior sleepiness, with the converse case "not found tested"; heading "The Old Question, Inverted" → "The Old Question, by Another Route" (no inbound anchors) with the same-direction/different-timing point stated and "where little may be happening" replaced; Occam connection graded as an illustration with "No source read says the picture was held for its simplicity"; "cannot show" → "read here does not show". To hold the ceiling, one sentence made redundant by the new classification paragraph was removed ("Even an answer given seconds after waking judges a state that has ended") and the SEP search-report sentence was shortened.
+- **Sources re-fetched**: eleven PubMed abstracts by E-utilities efetch and Harvey and Tang full text by NCBI efetch (PMC3277880), all HTTP 200; every new quoted string located at count 1 in the fetched text. Hermans full text was not re-fetched (the new quotation is in its abstract). No browser tools.
+- **Reasoning mode**: no named-opponent reply edited
+- **Not done**: Weigand's 41.7% second-half REM figure (verified in the abstract, omitted for length); the asymmetry reply, Malcolm, and false awakenings (need sources or are operator decisions); the d-prime ground-truth caveat on Mercer beyond one softened verb; title, slug, section, description unchanged
+- **Published**: yes
 
 ## 2026-11-12T23:39:57+00:00 - pessimistic-review
 - **Status**: Success
