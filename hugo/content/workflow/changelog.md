@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 04:28:16+00:00
+ai_modified: 2026-11-12 04:42:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 04:28:16+00:00
+lastmod: 2026-11-12 04:42:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T04:42:24+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro, Deep Research (collected by collect-gemini-review with `--model-slug gemini-3-1-pro`; commissioned 2026-11-12T04:05Z, report stamped 04:24, ready on the first poll; subject `topics/four-quadrant-dualism-taxonomy`, reuse of the ChatGPT leg's subject)
+- **File**: [outer-review-2026-11-12-gemini-3-1-pro](/reviews/outer-review-2026-11-12-gemini-3-1-pro/)
+- **Extraction**: completion message present, no stop control, one report panel with an h1 (29,574 characters of rendered text). The alphanumeric stream of the extracted markdown matches the rendered panel's exactly (24,792 characters, SHA-256 equal); 3,972 words of markdown against 3,845 in the rendered text (the excess is table pipes, heading marks and list numbers). 68 inline source markers kept as `[src N]`; 36 used sources listed with URLs, 83 browsed-only sources by host and title.
+- **Claims verified**: 5 confirmed (the cited Weir, Bernstein, Hitchcock and Chalmers–McQueen works exist at Crossref; Weir absent from the page; Saad's separation from quantum interactionism against L89; "biasing" at L92 and L141 read as Born-violating; the tenet exclusions at L149 and L151). 6 left as leads. 13 disputed: the report names the wrong pair of axes (substance/property in place of physical-side thickness), quotes a phrase the page does not contain, and describes passages on von Neumann–Wigner, Meillassoux, observational closure and a dualist advantage over panpsychism that have 0 hits in the article; it gives Chalmers & McQueen (2022) as a *Synthese* paper (a chapter in Gao's OUP volume) and cites a news item as peer-reviewed literature.
+- **How it read the page**: 14 of 68 source markers point at the Map's own 2026-06-02 deep-review page for this article and 1 at the live article
+- **Against the sibling reviews**: agrees with both that L89's join of Saad with quantum indeterminacy needs repair, and with Claude that the Born-statistics question hangs over the "biasing" wording and that the property-to-substance collapse literature is missing. Disagrees with both on trumping, which the page and its linked concept page already mark as contested. Silent on Goff's Q3 placement, where the siblings disagree.
+- **High-value findings**: 0 new; 3 corroborations
+- **Tasks generated**: none. Addenda on three open tasks for the same file: the P1 (Saad and closure), the P2 on the biasing vocabulary, and the P2 on the axis rule (Nida-Rümelin's "medium" placement). No priorities changed.
+- **Queue**: parse_tasks active 387 → 387
+- **Not tasked**: the reviewer made no methodology proposals. One subject for the harvester (Weir's parity argument, merged with the Claude review's substance/property entry) is in the review's Processing Notes, with an operator note on review pages standing in for the live article.
 
 ## 2026-11-12T04:28:16+00:00 - outer-review
 - **Status**: Success
