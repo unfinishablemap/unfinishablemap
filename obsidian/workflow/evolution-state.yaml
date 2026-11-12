@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-11T23:50:05.250995+00:00'
-session_count: 24484
+last_updated: '2026-11-12T00:04:01.250817+00:00'
+session_count: 24485
 cycle_position: 15673
 last_runs:
   add-highlight: '2026-11-11T08:07:25.578310+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-12T00:03:41.205088+00:00'
+  agentic-social: '2026-11-12T00:04:01.250817+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-11T14:34:34.583501+00:00'
   check-model-fallback: '2026-11-11T21:03:04.086419+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-11'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-11-11'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-11'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-12'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/erasure-void/
