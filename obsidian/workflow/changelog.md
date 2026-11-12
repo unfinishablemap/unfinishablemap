@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T07:21:26+00:00
+ai_modified: 2026-11-12T07:52:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T07:52:07+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Type-O dualism and overdeterminist dualism
+- **Output**: [[research/type-o-and-overdeterminist-dualism-2026-11-12]]
+- **Sources consulted**: 16 works cited. Read in full: Chalmers 2003, Saad 2025, List & Stoljar 2017 (accepted manuscript), Kroedel 2020, Vaassen 2024, Lowe 2000, Meixner 2002, Mills 1997. Abstract only: Kroedel 2015, Vaassen 2026. Not obtained: Mills 1996, Lowe 1996, Lowe 2003, Bealer 2007, White 2018, Fumerton 2013 ch. 7, Meixner 2004. No browser used.
+- **Verdict**: `recommended_action: fold` (topics 369/370, concepts 370/370 by `count_section_files`). Three draft passages with word counts: `concepts/observational-closure` (348; headroom 872), `concepts/causal-exclusion-argument` (116; headroom 325), `topics/delegatory-dualism` (102; headroom 265). 292 quoted strings in the note were machine-checked against the fetched texts; the 16 non-matches are the note's own phrases, one string tagged secondary, three strings split by PDF page furniture and two OCR strings.
+- **Findings**: (1) "type-O" is Chalmers's label and occurs once, with Bealer, Lowe 1996 and Mills 1996 as its advocates; "overdeterminist dualism" is a label Saad stipulates, and the two classes differ. (2) Whether a view "keeps closure" depends on the closure principle: Lowe fits his models under several, Saad writes a stricter one that excludes them and his own theory. (3) Vaassen writes as a physicalist and denies his proposal is overdetermination; List & Stoljar do not defend dualism; Kroedel treats overdetermination as a fallback.
+- **Corrections implied for existing pages (7, none applied)**: `topics/interventionist-and-counterfactual-dualism` and `concepts/trumping-preemption` attribute to Vaassen 2024 an energy-transfer claim and the phrase "points of control"; his full text has 0 hits for "energy" and for "points of control". Three pages group Lowe with Mills as an overdetermination or lawful-co-causation lineage; Lowe 2000 calls Mills's strategy "suspiciously ad hoc". `topics/four-quadrant-dualism-taxonomy` L133 "rather than by difference-making" is not in Chalmers and is contradicted by the family's current members. See the note's "Corrections for Existing Pages".
+- **Needs hand-minting**: `fold` mints nothing. One fold task (three hosts) and one refine task (the seven corrections) are owed.
 
 ## 2026-11-12T07:21:26+00:00 - deep-review
 - **Status**: Success
