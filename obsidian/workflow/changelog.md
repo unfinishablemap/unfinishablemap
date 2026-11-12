@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T09:49:42+00:00
+ai_modified: 2026-11-12T10:40:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T10:40:45+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Self-observation and the moments of post-decoherence selection (operator-requested P1)
+- **Output**: [[research/self-observation-and-the-moments-of-selection-2026-11-12]]
+- **Sources consulted**: 43 cited; each is tagged in the note as read in full, abstract only, archive.org search snippets, or not obtained (Albert 1983, Peres 1984, Kane 2024 and French 2023 were not read)
+- **Verdict**: `recommended_action: article` → `topics/self-observation-and-the-moments-of-selection`, as the operator fixed. The Assess-First Verdict finds the strong premise unsupported (self-observation cannot time or confirm a selection) and a weaker one sound (self-observation classifies decision episodes, which is what a test conditioning on conscious state needs). The article should be framed around that.
+- **Main findings**: Tegmark's decoherence times are 10 to 19 orders of magnitude shorter than decision timescales, and his own snap-decision example ends in a decohered mixture; introspected decision time is largely inferred after the act (Banks & Isham 2009, Lau et al. 2007, Matsuhashi & Hallett 2008, none previously cited on the Map); noise-driven timing is evidenced for arbitrary movements (Schurger 2012) while deliberate choices show no readiness potential (Maoz 2019); James states the verification limit in 1890; Breuer (1995) gives the deflationary rival a theorem indifferent to determinism.
+- **Leads corrected or dropped**: London & Bauer's verb is "cut the chain", and "from moment to moment" is the translation of "de manière immédiate"; cetanā is a universal factor and is not "generated in" javana; no dedicated micro-phenomenological study of the moment of decision was found; Stroud's "psychological moment" not matched at source; Albert 1983 and Peres 1984 not obtained; no scholarly source for witness reports of a choice arising.
+- **Not done (by brief)**: no article written, no content page edited, no task minted, `todo.md` untouched (the driver unblocks the companion expand-topic task).
 
 ## 2026-11-12T09:49:42+00:00 - refine-draft
 - **Status**: Success
