@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T21:04:44+00:00
+ai_modified: 2026-11-12T21:34:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-12T21:34:10+00:00 - refine-draft
+- **Status**: Success (assessment; no body change)
+- **File**: [[topics/self-observation-and-the-moments-of-selection]]
+- **Original score**: not scored (`scripts/curate.py` is absent; anchoring-audit assessment vs `concepts/libet-experiments`)
+- **Assessment**: the audit failed hedge_density (2.85/kw vs the 3.00/kw cap; 10 hedges in 3,504 words, about half a word short) and strong_assertions (2 hits, 0.57/kw vs 1.5× the anchor's 0.29/kw). Both hits are "shows that", and neither asserts in the Map's favour. Lead: "nothing shows that selections coincide with felt choice" is negated, in the Map's voice, and is the firm negative verdict on the Map's own strong reading. Answering Planck and MacKay: "MacKay's analysis shows that felt freedom does not *need* physical indeterminacy" reports a rival's result and concedes it; the limit that follows ("it does not show there is none") rests on MacKay's own quoted words (pp. 39–40). The topic claims less than its anchor, whose own hit credits the luck-objection literature and which states "selection is genuine" where the topic says P-A3 "gains no positive support" from the timing data. Verified false-high.
+- **Changes**: frontmatter only: `anchoring_audit_exempt: true` with a dated comment; `ai_modified` updated. No hedge words added; body untouched.
+- **Reasoning mode**: engagement with Planck and MacKay: unchanged (concession on felt openness; boundary-marking on whether a selection occurs).
+- **Length**: 3,504 → 3,504 by `analyze_length` (topics hard 4,000)
+- **Published**: yes
 
 ## 2026-11-12T21:04:44+00:00 - refine-draft
 - **Status**: Success

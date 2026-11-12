@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt libet-experiments calibration in self-observation-and-the-moments-of-selection
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/self-observation-and-the-moments-of-selection.md
-- **Notes**: From topic-concept anchoring audit 2026-11-12. The topic article over-claims relative to its anchor concept [[libet-experiments]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.85/kw is below 3.00/kw (target = 60% of anchor 6.58/kw, capped at 3.0/kw)
-  - strong-assertion density 0.57/kw exceeds 1.5× anchor (0.29/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-11-12
-
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -5380,6 +5368,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-12: Adopt libet-experiments calibration in self-observation-and-the-moments-of-selection
+- **Type**: refine-draft
+- **File**: obsidian/topics/self-observation-and-the-moments-of-selection.md
+- **Notes**: From topic-concept anchoring audit 2026-11-12. The topic article over-claims relative to its anchor concept [[libet-experiments]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.85/kw is below 3.00/kw (target = 60% of anchor 6.58/kw, capped at 3.0/kw)
+  - strong-assertion density 0.57/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-11-12: `concepts/phenomenology-of-choice-and-volition` L165 reads No Many Worlds off the phenomenology ("presupposes singular actualisation"), L163 offers a feeling as evidence for Tenet 2, plus L90 (tenet-check 155 W6; +37)
 - **Type**: refine-draft

@@ -4,8 +4,9 @@ description: "Can introspection find when post-decoherence selection happens, an
 created: 2026-11-12
 modified: 2026-11-12
 human_modified:
-ai_modified: 2026-11-12T15:36:12+00:00
+ai_modified: 2026-11-12T21:33:57+00:00
 draft: false
+anchoring_audit_exempt: true  # 2026-11-12 verified false-high vs libet-experiments: both strong hits are "shows that" and neither asserts for the Map — the lead's negated "nothing shows that selections coincide with felt choice" (the firm negative verdict) and "MacKay's analysis shows that felt freedom does not need physical indeterminacy" (a concession to the rival, limited by MacKay's own quoted words). Hedge shortfall is half a word; calibrates structurally ("the strong answer fails", "gains no positive support from them", "conceded as non-discriminating") and claims less than the anchor.
 topics:
   - "[[free-will]]"
   - "[[trilemma-of-selection]]"
