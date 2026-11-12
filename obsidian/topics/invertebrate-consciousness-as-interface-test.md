@@ -4,7 +4,7 @@ description: "Insects, cephalopods, and crustaceans provide the sharpest test fo
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-09-24T14:17:06+00:00
+ai_modified: 2026-11-12T23:05:18+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[ethics-of-consciousness-invertebrate-question]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-04-09
 last_curated:
 last_deep_review: 2026-09-24T14:17:06+00:00
@@ -116,7 +116,7 @@ Taken together, the three architecture types impose specific constraints on the 
 
 **Architectural flexibility.** The mechanism must accommodate centralised processing (vertebrate cortex, crustacean brain), distributed processing (octopus arms), and miniaturised processing (insect central complex). This rules out mechanisms tied to specific anatomical structures like cortical layers.
 
-**Evolutionary independence.** The mechanism must either be universal (operating wherever architectural conditions are met) or have evolved independently at least twice. If universal, the mechanism is constrained by what vertebrate and arthropod neural systems share despite 500 million years of divergence—a constraint that bears directly on [[evolution-of-consciousness]]. If independently evolved, [[interface-heterogeneity]] is confirmed empirically.
+**Evolutionary independence.** The mechanism is either shared (universal wherever architectural conditions are met, or inherited from a common ancestor) or differs between lineages. If shared, it is constrained by what vertebrate and arthropod neural systems share despite 500 million years of divergence—a constraint that bears directly on [[evolution-of-consciousness]]. If it differs, that is [[interface-heterogeneity|interface heterogeneity]]; either way coupling is fixed by each system's present physical character, of which lineage is only evidence.
 
 **Anaesthetic convergence.** The mechanism should account for why anaesthetics disrupt consciousness in both vertebrates and insects, suggesting shared vulnerability even across divergent architectures.
 
@@ -128,7 +128,7 @@ The constraints also bear on how cross-architecture variation should be read. [[
 
 ## Relation to Site Perspective
 
-**Dualism**: Invertebrate consciousness poses an interface question rather than a generation puzzle. Where materialism searches for the neural complexity that "generates" consciousness, the Map asks which physical architectures the interface can couple with, and how. The diversity of invertebrate neural organisation tests whether that interface is universal or heterogeneous—a question that arises only under dualism, since materialism identifies consciousness with neural processing directly.
+**Dualism**: Invertebrate consciousness poses an interface question rather than a generation puzzle. Where materialism searches for the neural complexity that "generates" consciousness, the Map asks which physical architectures the interface can couple with, and how. The diversity of invertebrate neural organisation tests whether that interface is universal or heterogeneous—a question that takes this form only under dualism; materialism, identifying consciousness with neural processing directly, asks its twin as multiple realisability.
 
 **Minimal Quantum Interaction**: If coupling operates at quantum indeterminacies in neural tissue, the mechanism should work in any neuron-bearing system. Invertebrates provide the test: proposed coupling sites such as microtubules are conserved across phyla. However, the thermal and electromagnetic environment of a bee's million-neuron brain differs substantially from a human cortex, raising the question of whether decoherence constrains coupling differently across architectures—a challenge any quantum-level mechanism must address.
 

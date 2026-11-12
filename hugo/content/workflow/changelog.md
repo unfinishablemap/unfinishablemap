@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 21:34:10+00:00
+ai_modified: 2026-11-12 23:06:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-12'
-lastmod: 2026-11-12 21:34:10+00:00
+lastmod: 2026-11-12 23:06:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-12T23:06:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) (plus [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/), [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/))
+- **Review file**: `reviews/pessimistic-2026-10-25-interface-heterogeneity.md` (Out-of-Scope Spillover)
+- **Original score**: not scored (`scripts/curate.py` absent; targeted spillover pass)
+- **Word count**: anarchic-hand 2651 → 2663 (+12); comparative-consciousness 3473 → 3473 (0); invertebrate-consciousness-as-interface-test 3074 → 3099 (+25); comparing-quantum-consciousness-mechanisms 3999 → 3997 (−2; topics hard 4,000)
+- **Changes**: (1) anarchic-hand L90 and Further Reading L124 credited `interface-heterogeneity` with "channels can fail independently"; that concept is between-organisms (it assigns within-organism variation to coupling modes) and never uses "channel". Both loci repointed to `neurological-dissociations-as-interface-architecture`, which states that each direction's channel can fail independently, following the 2026-09-09 hemispherectomy fix; frontmatter concept entry dropped and the new target added to `topics:`. (2) comparative-consciousness L120 "Passive witnessing … without biasing outcomes" → "with reduced selection", the wording interface-heterogeneity L81 uses, so no causally idle mode is conceded. (3) invertebrate page L119: the universal-or-independently-evolved dichotomy now includes a shared inherited mechanism, heterogeneity is no longer "confirmed empirically" by provenance, and coupling is fixed by present physical character with lineage as evidence ([P-CS7](/positions/consciousness-scope/#p-cs7)); L131 "arises only under dualism" now names multiple realisability as the materialist twin question. L133 conservation sentence untouched. (4) comparing-quantum L46: "Each claims to solve the same puzzle — how a non-physical mind influences physical outcomes" was false for Fisher (arXiv:1508.05929 abstract and PDF fetched: quantum processing with nuclear spins; "conscious" appears only in two reference titles) and doubtful for Orch OR; now "The Map reads each against one puzzle", "compete to explain how consciousness interfaces" → "bear on how consciousness might interface", and the closing sentence says Fisher proposes only neural quantum processing. Item (4) of the task, universal-coupling-response, was already discharged on 2026-11-09 and was not edited.
+- **Reasoning mode**: no named-opponent reply edited
+- **Residual (not edited)**: invertebrate page L43 and L81 still pose "same mechanism vs independently evolved coupling" as a two-way choice; comparing-quantum L98 "what quantum consciousness theories most urgently need to explain" mildly classes Fisher's proposal with them
+- **Published**: yes
 
 ## 2026-11-12T22:49:59+00:00 - refine-draft
 - **Status**: Success

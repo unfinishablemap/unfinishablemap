@@ -1,13 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-11-02 21:55:36+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-12 23:05:18+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[control-theoretic-will]]'
-- '[[interface-heterogeneity]]'
 - '[[witness-consciousness]]'
 created: 2026-07-16
 date: &id001 2026-07-16
@@ -23,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-09 07:39:52+00:00
-lastmod: 2026-11-02 21:55:36+00:00
+lastmod: 2026-11-12 23:05:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,6 +32,7 @@ title: Anarchic Hand and the Fragmentation of Action-Ownership
 topics:
 - '[[split-brain-consciousness]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
+- '[[neurological-dissociations-as-interface-architecture]]'
 ---
 
 In anarchic hand, one hand performs complex, well-coordinated, goal-directed acts that the patient did not intend, disowns, and cannot voluntarily inhibit: it reaches for objects, unbuttons a shirt the other hand has just buttoned, or raises a cup of tea the patient knows to be too hot to drink. Crucially, the patient still recognises the limb as their own—body *ownership* is intact—while denying authorship of its movements. The sense of *agency* is what fractures. This makes anarchic hand the agency-side complement to split-brain's perception-side dissociation: the interface between conscious volition and motor execution comes apart while the subject remains a single experiencer who narrates, resents, and physically restrains the wayward hand.
@@ -82,7 +82,7 @@ The Map's angle treats anarchic hand as a local failure of the [interface of vol
 
 Two features carry this reading. First, agency and ownership *doubly dissociate*, which is best explained if authorship is a constructed signal rather than a given: the felt sense that an act is mine is something the system supplies and can withhold. That fits the profile of an interface, a constructed hand-off between volition and execution, rather than of a brute metaphysical fact about whose movement it is. Second, and decisively for the contrast with split-brain, the unity of the experiencer is not what breaks. There are not two subjects, not two streams of experience quarrelling over one body. There is one subject who disowns a movement, is distressed by it, narrates it, and reaches across with the other hand to stop it. The [witnessing subject](/concepts/witness-consciousness/) remains single while losing control of one output.
 
-This is the pattern already developed for perception in [split-brain](/topics/split-brain-consciousness/)—the interface fragments, not the mind—carried over to *volition*. Anarchic hand is that flagship's agency-side sibling. In split-brain the question is whether divided perceptual report means divided experience; in anarchic hand the perceptual and experiential subject is uncontroversially single, and only a motor channel has gone rogue. Different interface channels, as [interface heterogeneity](/concepts/interface-heterogeneity/) holds, can fail independently: ownership can survive the loss of agency, and the unified witness can survive the loss of a limb's obedience.
+This is the pattern already developed for perception in [split-brain](/topics/split-brain-consciousness/)—the interface fragments, not the mind—carried over to *volition*. Anarchic hand is that flagship's agency-side sibling. In split-brain the question is whether divided perceptual report means divided experience; in anarchic hand the perceptual and experiential subject is uncontroversially single, and only a motor channel has gone rogue. Different interface channels, on the Map's [channel map of the dissociations](/topics/neurological-dissociations-as-interface-architecture/), can fail independently: ownership can survive the loss of agency, and the unified witness can survive the loss of a limb's obedience.
 
 A caution the Map takes on its own terms: that a hand can execute competent, goal-directed acts with no felt authorship does not license a bald claim that "action happens without any experience." Within the comparator framework the movement is precisely one that lacks the agency signal; the framework-relative reading is that a specific channel of felt control is absent, not that competent behaviour proves the general dispensability of experience. Anarchic hand shows control-competence and felt authorship are *separable in this case*, which is a narrower and more defensible claim.
 
@@ -116,7 +116,7 @@ The Map does not claim anarchic hand as support for its metaphysics. It claims s
 - [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/) — the complementary failure of the same signal: authorship fabricated rather than withheld.
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — the felt axis of agency and passivity that anarchic hand disrupts.
 - [control-theoretic-will](/concepts/control-theoretic-will/) — the comparator/forward-model treatment of will this article engages.
-- [interface-heterogeneity](/concepts/interface-heterogeneity/) — why distinct interface channels fail independently.
+- [Neurological dissociations as interface architecture](/topics/neurological-dissociations-as-interface-architecture/) — the channel map on which distinct interface channels fail independently.
 - [witness-consciousness](/concepts/witness-consciousness/) — the single experiencer that disowns the movement.
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — the unified witnessing subject explored from a different route.
 

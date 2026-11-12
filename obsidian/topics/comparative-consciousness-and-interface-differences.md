@@ -4,7 +4,7 @@ description: "Does consciousness vary in nature, in coupling mechanism, or both?
 created: 2026-02-01
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-08-02T10:16:00+00:00
+ai_modified: 2026-11-12T23:05:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[evolution-under-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-2
 ai_generated_date: 2026-02-01
 last_curated: null
 last_deep_review: 2026-08-02T10:16:00+00:00
@@ -117,7 +117,7 @@ Contemplative traditions report states where cognitive content diminishes while 
 
 This suggests coupling can operate in different modes:
 - **Active selection**: Consciousness continuously biases among competing neural patterns (ordinary waking)
-- **Passive witnessing**: Consciousness maintains awareness without biasing outcomes (meditative absorption)
+- **Passive witnessing**: Consciousness maintains awareness with reduced selection (meditative absorption)
 - **Minimal presence**: Consciousness present but with minimal content or selection (dreamless sleep with residual awareness?)
 
 These are coupling variations, not nature variations—the same conscious entity engaging differently with the same physical system, with modal flexibility in how the coupling operates.

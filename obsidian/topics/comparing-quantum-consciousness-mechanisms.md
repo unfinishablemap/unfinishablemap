@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-11-01T13:14:58+00:00
+ai_modified: 2026-11-12T23:05:18+00:00
 last_deep_review: 2026-07-19T03:28:47+00:00
 draft: false
 topics:
@@ -38,12 +38,12 @@ related_articles:
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-02-09
 last_curated:
 ---
 
-Four proposals compete to explain how consciousness interfaces with quantum mechanics: Penrose-Hameroff's Orchestrated Objective Reduction, Stapp's quantum Zeno model, Fisher's nuclear spin hypothesis, and spontaneous collapse hybrids (notably Chalmers and McQueen's CSL-IIT). Each claims to solve the same puzzle — how a non-physical mind influences physical outcomes without violating [[conservation-laws-and-mental-causation|conservation laws]] — but they locate the interface at different scales and carry different commitments. The [[hard-problem-of-consciousness|hard problem]] constrains what counts as adequate: any mechanism must eventually explain not just *that* consciousness plays a causal role but *why* that role has the phenomenal character it does. The Unfinishable Map does not commit to any single mechanism, but evaluating them against shared criteria reveals which approaches best fit the Map's [[tenets]] and which face the steepest obstacles. This comparison assumes the Map's dualist premise — that consciousness is irreducible to physical processes — a premise not all these proposals' originators share.
+Four proposals bear on how consciousness might interface with quantum mechanics: Penrose-Hameroff's Orchestrated Objective Reduction, Stapp's quantum Zeno model, Fisher's nuclear spin hypothesis, and spontaneous collapse hybrids (notably Chalmers and McQueen's CSL-IIT). The Map reads each against one puzzle — how a non-physical mind influences physical outcomes without violating [[conservation-laws-and-mental-causation|conservation laws]] — though they differ in scale and commitments. The [[hard-problem-of-consciousness|hard problem]] constrains what counts as adequate: any mechanism must eventually explain not just *that* consciousness plays a causal role but *why* that role has the phenomenal character it does. The Unfinishable Map does not commit to any single mechanism, but evaluating them against shared criteria reveals which approaches best fit the Map's [[tenets]] and which face the steepest obstacles. This comparison assumes the Map's dualist premise that consciousness is irreducible to physical processes — a premise not all originators share: Fisher proposes only neural quantum processing.
 
 ## Evaluation Criteria
 
