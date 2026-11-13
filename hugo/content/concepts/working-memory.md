@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-11-05 14:56:34+00:00
+ai_modified: 2026-11-13 20:37:34+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 23:50:00+00:00
-lastmod: 2026-11-05 14:56:34+00:00
+lastmod: 2026-11-13 20:37:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ topics:
 - '[[consciousness-and-cognitive-distinctiveness]]'
 ---
 
-Working memory (WM) is the cognitive system that holds and manipulates information over brief periods—typically seconds. Research reveals a crucial asymmetry: manipulation is far more tightly bound to conscious access than maintenance. (Whether maintenance can be *fully* unconscious is contested; recent bias-corrected meta-analyses and a 19-laboratory replication, discussed below, leave it open.) This distinction matters because if manipulation requires consciousness and WM capacity has expanded dramatically in humans, then consciousness participates constitutively in the cognitive operations that distinguish human minds.
+Working memory (WM) is the cognitive system that holds and manipulates information over brief periods—typically seconds. Research reveals a crucial asymmetry: manipulation is far more tightly bound to conscious access than maintenance. (Whether maintenance can be *fully* unconscious is contested; unseen cues are weakly maintained, as discussed below.) This distinction matters because if manipulation requires consciousness and WM capacity has expanded dramatically in humans, then consciousness participates constitutively in the cognitive operations that distinguish human minds.
 
 The Unfinishable Map proposes that [attention functions as the interface](/concepts/attention-as-interface/) between consciousness and neural systems. Working memory may be the neural workspace where this interface operates—the "holding space" where consciousness engages with cognitive content.
 
@@ -60,11 +60,11 @@ The episodic buffer is significant for consciousness research—and connects to 
 
 Research from 2011-2025 reveals a fundamental asymmetry in WM processing:
 
-**Maintenance can be unconscious—though how cleanly is contested.** Studies by Soto, Mäntylä, and Silvanto (2011) showed that observers could encode and maintain subliminal orientation cues—holding them "online" even with visible distractors—and perform above chance in subsequent tasks, suggesting information was in WM but never reached awareness. The strength of this evidence has since been questioned. Gambarota et al. (2022) meta-analysed the unconscious-WM literature and found a medium effect, but Franco-Martínez et al. (2026), re-analysing that same dataset for publication bias, recovered a bias-corrected estimate (≈0.16, its credible interval spanning zero) that "only provides inconclusive evidence for the existence of such an effect," and their own 19-laboratory Registered Report replication found unconscious WM "positively associated with perceptual sensitivity"—that is, entangled with residual conscious processing rather than a clean unconscious channel. The maintenance/manipulation asymmetry is best read as a robust *gradient* (manipulation is far more tightly bound to awareness than maintenance) rather than proof of fully non-conscious maintenance.
+**Maintenance can be unconscious—though how cleanly is contested.** Studies by Soto, Mäntylä, and Silvanto (2011) showed that observers could encode and maintain subliminal orientation cues—holding them "online" even with visible distractors—and perform above chance in subsequent tasks, suggesting information was in WM but never reached awareness. The strength of this evidence has since been questioned. Gambarota et al. (2022) meta-analysed the unconscious-WM literature and found a medium effect, but Franco-Martínez et al. (2026), re-analysing that dataset for publication bias, recovered a bias-corrected estimate (≈0.16, credible interval spanning zero) that "only provides inconclusive evidence for the existence of such an effect." Their 19-laboratory replication of Soto's task found .55 accuracy on trials reported as unseen, correlating positively with detection sensitivity (r = .228), and a regression intercept above chance (β₀ = .521): even zero sensitivity predicts above-chance performance. WM, the authors suggest, "can operate on unconscious representations, although it remains positively associated with perceptual sensitivity." The maintenance/manipulation asymmetry is best read as a robust *gradient*; this study tested maintenance alone.
 
 This is supported by "activity-silent" WM research. Traditional theory assumed WM maintenance requires sustained neural firing. New evidence shows information can be maintained through short-term synaptic plasticity—residual calcium at synaptic terminals, rapid changes in synaptic weights—without sustained activity. These traces persist for roughly one second, spanning typical WM delays.
 
-**Manipulation requires consciousness.** The activity-silent framework (Stokes 2015) is actively developed and the manipulation-needs-awareness side of the asymmetry is well supported; the contested part is specifically the *non-conscious* extension. Trübutschek et al. (2019) argued that "non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary." The reactivation-for-use claim is the durable part; whether genuinely *non-conscious* maintenance occurs at all is what the bias-corrected meta-analytic and multisite-replication evidence above leaves open. With that caveat, the asymmetry aligns with the broader evidence in [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) showing that consciousness enables specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
+**Manipulation requires consciousness.** The activity-silent framework (Stokes 2015) is actively developed and the manipulation-needs-awareness side of the asymmetry is well supported; the contested part is specifically the *non-conscious* extension. Trübutschek et al. (2019) argued that "non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary." The reactivation-for-use claim is the durable part; the evidence above suggests weak non-conscious maintenance. With that caveat, the asymmetry aligns with the broader evidence in [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) showing that consciousness enables specific functions—robust maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot match.
 
 This maps onto the Map's framework:
 - **Storage** might be purely neural—synaptic traces maintaining patterns without consciousness

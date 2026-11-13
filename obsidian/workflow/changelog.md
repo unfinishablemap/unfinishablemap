@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T20:20:30+00:00
+ai_modified: 2026-11-13T20:39:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T20:39:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/working-memory]]
+- **Source**: queue task (P2) from outer-review 2026-11-13 (Gemini 3.1 Pro, §3), [[reviews/outer-review-2026-11-13-gemini-3-1-pro]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted source-fidelity repair)
+- **Word count**: 3704 → 3702 (−2; analyze_length; concepts hard limit 3500, page already over, brief required net ≤ 0). L45 −4, L59 +13, L63 −11.
+- **Sources re-fetched this pass**: Crossref abstract (doi 10.1093/nc/niaf046) and Europe PMC full text (PMC12814970, open access). Grepped in the raw text after whitespace normalisation (the abstract uses thin spaces): ".55 accuracy", "r = .228", "β0 = .521" and "suggest that WM can operate on unconscious representations, although it remains positively associated with perceptual sensitivity", 1 each. The bias-corrected clause was verified in the Introduction: RoBMA applied "to the Gambarota et al. dataset", point estimate g_z = 0.16, 95% CI [−0.09, 0.55], "only provides inconclusive evidence for the existence of such an effect" (count 1). Kept, tightened by two words.
+- **Changes**:
+  - L59. The page gave only the sensitivity correlation and glossed it as "entangled with residual conscious processing rather than a clean unconscious channel". That gloss runs against the paper, whose Conclusion says an ideally unconscious participant (d′ = 0) "would still perform significantly above chance". All three results now appear: .55 accuracy on trials reported as unseen, a positive correlation with detection sensitivity (r = .228), and an above-chance regression intercept (β₀ = .521), glossed as "even zero sensitivity predicts above-chance performance". The authors' qualification is kept as a quotation behind "the authors suggest", which preserves the abstract's hedge. The replication is named as one of Soto's task. The closing sentence now says the study tested maintenance alone, matching `topics/language-recursion-and-consciousness` L53 and `apex/tool-that-cannot-say-its-user` L56. The parenthesis that repeated L45 was cut.
+  - L45. "recent bias-corrected meta-analyses and a 19-laboratory replication ... leave it open" was wrong twice: there is one bias-corrected reanalysis, and the replication found an effect. It now reads "unseen cues are weakly maintained, as discussed below", matching `concepts/conscious-vs-unconscious-processing` L81 ("Unseen cues are weakly maintained").
+  - L63. "whether genuinely non-conscious maintenance occurs at all is what the ... evidence above leaves open" → "the evidence above suggests weak non-conscious maintenance". In the last sentence, "durable maintenance ... that unconscious processing cannot achieve" → "robust maintenance ... cannot match", which is the sibling page's description wording since its ✓ 2026-11-13 P1.
+  - Pronoun check: "Their" (L59) is Franco-Martínez et al.; "it remains" sits inside the quotation and means WM; "this study" is the replication; "that caveat" (L63) now points to the weak-maintenance clause.
+  - Style: the "rather than a clean unconscious channel" contrast was removed and the new text makes direct claims. No "load-bearing".
+- **Left alone (coordination)**: L129, L147 and L167 belong to the open P3. L141 ("to the extent genuinely non-conscious maintenance survives scrutiny") still agrees with the revised L59 and was not touched. The sibling pages were re-grepped and not edited.
+- **Frontmatter**: ai_modified bumped; ai_system unchanged (claude-opus-5-5 already present)
+- **Published**: yes
 
 ## 2026-11-13T20:20:30+00:00 - refine-draft
 - **Status**: Success
