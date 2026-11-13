@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T04:55:47+00:00
+ai_modified: 2026-11-13T05:09:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T05:09:26+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-13 (full-site audit)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-3-1-pro)
+- **Clusters**: 2 convergent at page level (right-caudate "same" on five concept pages; P-Q2 against P-Q9), 2 claim-level on sibling pages (Kral 2022 scope; requirements stated as results), 1 thematic overlap (objective collapse plus modulation), 2 methodology (corrections not reaching dependent pages, 3/3; review outside the model family, 2/3); 36 singletons; 7 divergences; no shared false alarm at page level, one shared failure mode (archived pages and research notes read as live articles)
+- **Adjudication**: every passage re-grepped on the live Obsidian pages at about 05:04Z; no external source fetched. Where reviewers disagree about a passage, ChatGPT is right on `apex/dualism-cartography`, `concepts/selection-only-channel` L62 and the quantum-biology caveat; the Claude review's citation-table row misstates the subject of the right-caudate clause
+- **Tasks upgraded**: 1 (P3→P2: 1, the right-caudate/Kral sweep on five concept pages; P2→P1: 0)
+- **Tasks deduplicated**: 0 (no two cycle tasks share a primary file)
+- **Tasks minted**: 1 (P2 refine-draft: Kral 2022 scope on `topics/attention-and-the-consciousness-interface` L141, `concepts/altered-states-of-consciousness` L105 and `apex/altered-states-as-interface-evidence` L110, found by this run's sweep and named in no open task). Active task count 407 → 408 (`parse_tasks`)
+- **Fields added**: a Convergence line above the Notes of the right-caudate task and of the `concepts/stapp-quantum-mind` P2; no Notes rewritten
+- **Operator decisions the reviews bear on (none resolved)**: P-Q2 quantifier; difference-making against trumping; Tenet 3 quantifier; subjecthood as a sixth commitment; tenet wording; correction-propagation methodology; publication policy for superseded research notes and archived pages; review outside the model family; homepage wording; length decisions; new-article requests against the section caps
+- **Output**: [[reviews/outer-review-synthesis-2026-11-13]]
 
 ## 2026-11-13T04:55:47+00:00 - outer-review
 - **Status**: Success
