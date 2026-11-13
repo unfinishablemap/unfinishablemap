@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-13 15:58:54+00:00
+ai_modified: 2026-11-13 23:23:38+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-11-13 15:58:54+00:00
+lastmod: 2026-11-13 23:23:38+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -125,7 +125,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [The Categorical Perception Void](/voids/categorical-perception-void/) — physicalist and dualist alike owe an account of why the readout is the category when the gradient is kept.
 - [The Taboo Void](/voids/taboo-void/) — thoughts a mind can form but refuses to weigh are a psychological finding physicalists and dualists alike owe an account of.
 - [The Mirth Void](/voids/mirth-void/) — the laugher's bounded access to the trigger holds whether mirth is a quale or a reward.
-- [The Weeping Void](/voids/weeping-void/) — the crier's bounded view of what her tears are for, what they are about and whether they helped rests on clinical and laboratory findings that hold on any view of what tears express.
+- [The Weeping Void](/voids/weeping-void/) — the crier's bounded view of what her tears are for, what produced them and whether they helped rests on clinical and laboratory findings that hold on any view of what tears express.
 - [The Cross-State Void](/voids/cross-state-void/) — that representing a state and being in it come apart is a finding every theory must accommodate.
 - [The Blindspot Void](/voids/blindspot-void/) — its doxastic and global layers are theorems of epistemic logic, neutral between dualism and physicalism.
 - [The Assent Void](/voids/assent-void/) — believing-at-will is excluded by the concept of belief on the dominant view, and the timing question is contested within cognitive psychology, so a physicalist and a dualist describe the same blank; seam untested.
@@ -227,7 +227,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Observer-Selection Void](/voids/observer-selection-void/) — Why a mind cannot tell what its existence as this observer is evidence of: three faces (rule / class / instability) meeting on one question. Every self-locating updating rule has a reductio its defenders accept (SSA → Doomsday, SIA → the Presumptuous Philosopher; Bostrom 2002), the reference class is a class of conscious subjects and so presupposes the [other-minds](/concepts/problem-of-other-minds/) answer, and some cosmologies "cannot simultaneously be true and justifiably believed" (Carroll 2020). Makes a demand on Tenet 4 rather than supporting it: the indexical objection holds as identity, never as credence. Upstream of [simulation detection](/voids/simulation-detection-void/); near relative of [the blindspot void](/voids/blindspot-void/) (created 2026-10-14)
 - [The Boredom Void](/voids/boredom-void/) — Why boredom demands a change of engagement, naming no particular target, and presents a failed engagement as a dullness in the object: four faces (objectless feeling / projection / self-supply and forecast / examination, the last only under the attentional definition). An opportunity-cost model accommodates the objectless face, so the void weighs little for dualism; neighbour of [mood](/voids/mood-void/) and [mattering](/voids/mattering-void/) at profound boredom (created 2026-10-31)
 - [The Chroma Void](/voids/chroma-void/) — Why most listeners hold absolute-pitch information they cannot recognise as a note, and why no agreed test tells a heard chroma from a fast label: four faces (latent / template, contested / report / calibration)
-- [The Weeping Void](/voids/weeping-void/) — Why science has no settled account of what emotional tears are for, and why the crier has no privileged view of what hers are about or whether crying helped: four faces (function / occasion / relief / will), two of them shared with the mirth void
+- [The Weeping Void](/voids/weeping-void/) — Why science has no settled account of what emotional tears are for, and why the crier has no privileged view of what produced hers or whether crying helped: four faces (function / occasion / relief / will), two of them shared with the mirth void
 
 ### Phenomenology of Limits
 

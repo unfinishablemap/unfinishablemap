@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-11-10
 human_modified: 2026-01-08
-ai_modified: 2026-11-13T15:58:54+00:00
+ai_modified: 2026-11-13T23:23:38+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -121,7 +121,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [[categorical-perception-void|The Categorical Perception Void]] — physicalist and dualist alike owe an account of why the readout is the category when the gradient is kept.
 - [[taboo-void|The Taboo Void]] — thoughts a mind can form but refuses to weigh are a psychological finding physicalists and dualists alike owe an account of.
 - [[mirth-void|The Mirth Void]] — the laugher's bounded access to the trigger holds whether mirth is a quale or a reward.
-- [[weeping-void|The Weeping Void]] — the crier's bounded view of what her tears are for, what they are about and whether they helped rests on clinical and laboratory findings that hold on any view of what tears express.
+- [[weeping-void|The Weeping Void]] — the crier's bounded view of what her tears are for, what produced them and whether they helped rests on clinical and laboratory findings that hold on any view of what tears express.
 - [[cross-state-void|The Cross-State Void]] — that representing a state and being in it come apart is a finding every theory must accommodate.
 - [[blindspot-void|The Blindspot Void]] — its doxastic and global layers are theorems of epistemic logic, neutral between dualism and physicalism.
 - [[assent-void|The Assent Void]] — believing-at-will is excluded by the concept of belief on the dominant view, and the timing question is contested within cognitive psychology, so a physicalist and a dualist describe the same blank; seam untested.
@@ -223,7 +223,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[observer-selection-void|The Observer-Selection Void]] — Why a mind cannot tell what its existence as this observer is evidence of: three faces (rule / class / instability) meeting on one question. Every self-locating updating rule has a reductio its defenders accept (SSA → Doomsday, SIA → the Presumptuous Philosopher; Bostrom 2002), the reference class is a class of conscious subjects and so presupposes the [[problem-of-other-minds|other-minds]] answer, and some cosmologies "cannot simultaneously be true and justifiably believed" (Carroll 2020). Makes a demand on Tenet 4 rather than supporting it: the indexical objection holds as identity, never as credence. Upstream of [[simulation-detection-void|simulation detection]]; near relative of [[blindspot-void|the blindspot void]] (created 2026-10-14)
 - [[boredom-void|The Boredom Void]] — Why boredom demands a change of engagement, naming no particular target, and presents a failed engagement as a dullness in the object: four faces (objectless feeling / projection / self-supply and forecast / examination, the last only under the attentional definition). An opportunity-cost model accommodates the objectless face, so the void weighs little for dualism; neighbour of [[mood-void|mood]] and [[mattering-void|mattering]] at profound boredom (created 2026-10-31)
 - [[chroma-void|The Chroma Void]] — Why most listeners hold absolute-pitch information they cannot recognise as a note, and why no agreed test tells a heard chroma from a fast label: four faces (latent / template, contested / report / calibration)
-- [[weeping-void|The Weeping Void]] — Why science has no settled account of what emotional tears are for, and why the crier has no privileged view of what hers are about or whether crying helped: four faces (function / occasion / relief / will), two of them shared with the mirth void
+- [[weeping-void|The Weeping Void]] — Why science has no settled account of what emotional tears are for, and why the crier has no privileged view of what produced hers or whether crying helped: four faces (function / occasion / relief / will), two of them shared with the mirth void
 
 ### Phenomenology of Limits
 
