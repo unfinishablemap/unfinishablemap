@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 06:50:04+00:00
+ai_modified: 2026-11-13 07:20:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 06:50:04+00:00
+lastmod: 2026-11-13 07:20:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T07:20:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [dualism-channel-width-axis](/topics/dualism-channel-width-axis/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from outer-review 2026-11-13 ChatGPT 5.6 Sol Pro sections 3.5 and 3.6)
+- **Word count**: 3996 → 3995 (-1; topics hard 4,000, every addition offset inside the touched paragraphs)
+- **Changes**: (A) The class paragraph no longer ranks basis-choice above probability-bias: "relax these constraints in order" → "differently"; basis-choice "wider still" → "also wider"; "Channel width is thus an ordering" → "a partial ordering"; the closing clause now says the two middle classes, "relaxing different constraints, are unranked siblings", matching `concepts/channel-class-taxonomy` ("siblings, not ancestors"). Same claim brought into line in the ordering summary (now "a partial ordering", Stapp and probability-bias interactionism as "the unranked middle") and in the vacant-cell section ("gives the ordering precisely" → "the operations"). (B) The Saad entry now places the Map's Born-profile reading of delegation at the channel-width floor, not Saad's bare determinism-compatible mechanism: lead label gains "on the Map's Born reading"; "The Map's integration identifies" → "The Map's candidate reading, not a claim Saad makes, identifies"; the ordering summary and the Further Reading gloss follow. Offsets: dropped "crucially", "precisely", and the parenthetical sentence repeating that narrowness belongs to the interface (already stated in the section above). No new claim attributed to Saad.
+- **Engagement classification**: none (no named-opponent reply edited; attribution repair only)
+- **Not touched**: the Site Perspective lines owned by the open P3 (Tenet 2 minimality as channel width); difference-making vs trumping; the "bias" vocabulary
+- **Published**: yes
 
 ## 2026-11-13T06:50:04+00:00 - refine-draft
 - **Status**: Success

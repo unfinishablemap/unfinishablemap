@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-11-12 09:49:23+00:00
+ai_modified: 2026-11-13 07:20:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 22:26:00+00:00
-lastmod: 2026-11-12 09:49:23+00:00
+lastmod: 2026-11-13 07:20:25+00:00
 modified: *id001
 related_articles:
 - '[[four-quadrant-dualism-taxonomy]]'
@@ -61,13 +61,13 @@ To keep channel width distinct from its three sibling sub-measures:
 
 The [selection-only-channel](/concepts/selection-only-channel/) supplies the sharpest formalisation of "narrow." A selection-only channel lets the mind act solely as a selector among physically-prepared alternatives, "contributing nothing to the alternative set itself." Its per-event capacity is bounded above by log₂(N) bits for N brain-generated candidates; Born-rule preservation constrains the per-context marginal, not the mind-conditioned throughput; and the reportable phenomenal content is bounded by the brain-side candidate space (content-confinement). These three constraints are what *minimum* channel width looks like, made precise. Channel width at its lower limit just *is* the selection-only channel.
 
-Wider channels relax these constraints in order. A *probability-bias* channel still acts within a fixed candidate set but shifts the distribution {p_i} away from its physical-side values — wider than selection-only because it no longer preserves Born statistics. A *basis-choice* channel (Stapp's *Process 1*) lets the mind choose which observable the brain measures, modifying the candidate set itself — wider still. A *candidate-generation* channel lets the mind contribute novelty to the alternative set. And an *energy-injection* channel transfers a quantity physics tracks as work across the interface — the widest aperture, and the classical Cartesian one. Channel width is thus an ordering, from selection-only at the floor to energy-transfer at the ceiling, by what operations the interface admits — the five classes the [channel-class taxonomy](/concepts/channel-class-taxonomy/) specifies in Shannon terms, where probability-bias and basis-choice are siblings rather than strictly ordered.
+Wider channels relax these constraints differently. A *probability-bias* channel still acts within a fixed candidate set but shifts the distribution {p_i} away from its physical-side values — wider than selection-only because it no longer preserves Born statistics. A *basis-choice* channel (Stapp's *Process 1*) lets the mind choose which observable the brain measures, modifying the candidate set itself — also wider. A *candidate-generation* channel lets the mind contribute novelty to the alternative set. An *energy-injection* channel transfers a quantity physics tracks as work across the interface — the widest aperture, the classical Cartesian one. Channel width is a partial ordering, from selection-only at the floor to energy-transfer at the ceiling, by what operations the interface admits — the five classes the [channel-class taxonomy](/concepts/channel-class-taxonomy/) specifies in Shannon terms, where probability-bias and basis-choice, relaxing different constraints, are unranked siblings.
 
 ## A Channel-Width Ordering Across Canonical Positions {#ordering}
 
 The same canonical positions the two-axis grid populates can be ordered along channel width. The characterisations below match how the existing corpus already describes each position; this article relocates them onto a new coordinate rather than re-characterising them.
 
-**Saad's delegatory dualism — narrow (selection-only).** [Delegatory causation](/concepts/delegatory-causation/) has experience preempt the *default causal profile* of a physical brain state by [trumping](/concepts/trumping-preemption/) rather than competing — and, crucially, the experience causes exactly what the physical state would have caused by default. The Map's integration identifies that default profile with the Born-rule distribution over neural quantum outcomes, so consciousness "selects *within* Born-rule probabilities rather than deviating from them." Selection within a fixed, Born-preserving candidate set is precisely the selection-only channel. Saad's bare mechanism sits at the channel-width floor. (The "default" qualifier is load-bearing: drop it and the Subset Law becomes circular. The narrowness is a property of *what crosses* the interface, not of either pole.)
+**Saad's delegatory dualism, on the Map's Born reading — narrow (selection-only).** [Delegatory causation](/concepts/delegatory-causation/) has experience preempt the *default causal profile* of a physical brain state by [trumping](/concepts/trumping-preemption/) rather than competing — and the experience causes exactly what the physical state would have caused by default. The Map's candidate reading, not a claim Saad makes, identifies that default profile with the Born-rule distribution over neural quantum outcomes, so consciousness "selects *within* Born-rule probabilities rather than deviating from them." Selection within a fixed, Born-preserving candidate set is the selection-only channel. That reading, not Saad's bare determinism-compatible mechanism, sits at the channel-width floor. (The "default" qualifier is load-bearing: drop it and the Subset Law becomes circular.)
 
 **Stapp's quantum-Zeno dualism — narrow channel, thick endpoints.** This is the position that forces the third axis. The parent taxonomy reads Stapp as max-mind / max-physical — a thick observer with full selection power on one side, a thick quantum ontology of full state-vector realism on the other, and a narrow selection channel between them. His intervention is "question-choice and quantum-Zeno holding": observation rate holds neural patterns against decay; consciousness "*selects* among patterns the brain presents" rather than generating them — what the mechanism-costs reading calls a probabilistic channel "structurally Q1-like even when sitting in a Q4 ontology." So Stapp's *channel* is near the floor — narrow, selection-flavoured, energy-injecting nothing — while both *poles* are thick. (A qualifier the corpus preserves: Stapp's basis-choice layer, the *Process 1* choice of which observable to probe, is wider than strict outcome-level selection-only, so his channel is narrow but not at the absolute floor.)
 
@@ -75,7 +75,7 @@ The same canonical positions the two-axis grid populates can be ordered along ch
 
 **Kastrup's analytic idealism — no channel.** Kastrup is, by the parent's scope note, a monist included for contrast. Analytic idealism replaces interaction with an *intrinsic/extrinsic* distinction: matter is the extrinsic appearance of mental processes, perceived from the outside. There are not two things in contact, so there is no interface for anything to cross. The relevant question becomes the [transparency problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) — why the intrinsic mental reality looks, from outside, like impersonal physical structure. On the channel-width axis Kastrup does not score *zero width*; he scores *not applicable*. A channel-free position is off the axis, not at its bottom. This matters for the separation test below.
 
-This yields a rough ordering — Saad (floor) → Stapp (near floor, plus a basis-choice layer above) → probability-bias interactionism → Cartesian energy-transfer (ceiling) — with Kastrup standing outside it entirely.
+This yields a partial ordering — Born-read delegation (floor) → Stapp (near floor, plus a basis-choice layer) and probability-bias interactionism (the unranked middle) → Cartesian energy-transfer (ceiling) — with Kastrup outside it.
 
 ## Does the Third Axis Separate What the Grid Conflates? {#separation-test}
 
@@ -99,7 +99,7 @@ Plotting the canonical positions against pole thickness leaves one region of the
 
 A wide-channel/thin-pole position must conjoin two commitments that, on inspection, pull against each other.
 
-**The wide-channel commitment.** "Wide" means the interface admits operations richer than selection among physically-prepared alternatives. The selection-only channel's taxonomy of what-it-is-not gives the ordering precisely: a wide channel *shifts the candidate distribution away from Born values* (probability-bias), *modifies the candidate set itself* (basis-choice or candidate-generation), or *transfers a quantity physics tracks as work* (energy-injection). The two widest operations — candidate-generation and energy-injection — are the ones that make a channel unambiguously wide rather than merely intermediate, so they are the test cases.
+**The wide-channel commitment.** "Wide" means the interface admits operations richer than selection among physically-prepared alternatives. The selection-only channel's taxonomy of what-it-is-not gives the operations precisely: a wide channel *shifts the candidate distribution away from Born values* (probability-bias), *modifies the candidate set itself* (basis-choice or candidate-generation), or *transfers a quantity physics tracks as work* (energy-injection). The two widest operations — candidate-generation and energy-injection — are the ones that make a channel unambiguously wide rather than merely intermediate, so they are the test cases.
 
 **The thin-pole commitment.** "Thin mind" means, per the [mind-side thickness scale](/topics/four-quadrant-dualism-taxonomy/#mind-side), only what is phenomenally introspectable — bare qualia, no unconscious mental substance, no unperceived qualia-spaces, no causal repertoire beyond what property-dualism admits. "Thin physical" means physics' own ontology with nothing added — no hidden variables, no quiddities, no ignorance-facts, with closure holding except at probabilistic indeterminacy.
 
@@ -164,7 +164,7 @@ Several open questions follow from holding channel width separate.
 - [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) — why a no-channel idealism (Kastrup) faces the transparency problem rather than an interface problem
 - [selection-only-channel](/concepts/selection-only-channel/) — the formalisation of the channel-width floor and the channel-operation taxonomy (selection-only, probability-bias, basis-choice, candidate-generation, energy-injection) the forcing argument runs on
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — the quantum-Zeno mechanism whose narrow channel and thick endpoints force the third axis
-- [delegatory-causation](/concepts/delegatory-causation/) — Saad's selection-within-the-default-profile mechanism, the floor inhabitant
+- [delegatory-causation](/concepts/delegatory-causation/) — Saad's mechanism, whose Born reading inhabits the floor
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — how the Map pays its conservation bill at the floor rather than denying it at the ceiling
 - [evidential-status-discipline](/project/evidential-status-discipline/) — why locating a tenet on an axis, or ruling out a cell, charts the map without moving the territory
 
