@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-10-26 02:41:30+00:00
+ai_modified: 2026-11-13 18:46:34+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -16,15 +16,15 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[stapp-quantum-mind]]'
 created: 2026-02-01
-date: &id001 2026-09-27
+date: &id001 2026-11-13
 description: Attention divides into willed, instructed, and exogenous modes with distinct
   neural signatures. This architecture identifies where consciousness might do genuine
   causal work.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-17 08:57:03+00:00
-lastmod: 2026-10-26 02:41:30+00:00
+last_deep_review: 2026-11-13 18:46:34+00:00
+lastmod: 2026-11-13 18:46:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ topics:
 
 Attention is not a single phenomenon. It divides into three architecturally distinct modes—exogenous (captured), instructed (cued), and willed (self-generated)—each with different triggers, timescales, and neural signatures. This structure matters philosophically because it identifies precisely where consciousness might do genuine causal work. When you freely choose where to direct focus, neural mechanisms engage that don't engage when you follow instructions or when attention is captured by salience. The additional frontal theta oscillations, reciprocal frontoparietal interaction, and extra frontal recruitment during willed attention mark what The Unfinishable Map claims consciousness contributes: internal decision-making about what to select.
 
-This article maps that architecture—how the three modes differ, the specific neural machinery that implements willed control, where that machinery sits in the brain, and what the phenomenology of each mode reveals about the mind-matter interface. The mechanistic detail earns its place because it names candidate sites: if willed attention engages distinct pathways with unique temporal and spectral signatures, those pathways mark where the [bidirectional interaction](/tenets/#bidirectional-interaction) between mind and matter could operate.
+This article maps that architecture—the three modes, the machinery of willed control, its anatomy, and what each mode's phenomenology reveals about the mind-matter interface. The mechanistic detail earns its place because it names candidate sites: if willed attention engages distinct pathways with unique temporal and spectral signatures, those pathways mark where the [bidirectional interaction](/tenets/#bidirectional-interaction) between mind and matter could operate.
 
 ## The Three Modes
 
@@ -97,7 +97,7 @@ The willed/instructed distinction is critical. Research (Rajan et al. 2019; Nadr
 
 Each mode feels different from the inside, and these differences track the neural distinctions.
 
-When a loud sound seizes your attention, the phenomenology is passive. Something happens *to* you; there is no sense of agency because there isn't any. Following a cue sits in between—more active engagement than capture, but you are implementing someone else's decision. Choosing where to attend includes a distinctive sense of *work*: sustained willed attention is metabolically expensive and feels that way. William James held that the [free-will](/topics/free-will/) question "relates solely to the amount of effort of attention or consent which we can at any time put forth" (*Principles of Psychology*, 1890, vol. 2, ch. XXVI, p. 571).
+When a loud sound seizes your attention, the phenomenology is passive. Something happens *to* you; there is no sense of agency because there isn't any. Following a cue sits in between—more active engagement than capture, but you are implementing someone else's decision. Choosing where to attend includes a distinctive sense of *work*: sustained willed attention is metabolically expensive and feels that way. William James held that the question of fact in the [free-will](/topics/free-will/) controversy "relates solely to the amount of effort of attention or consent which we can at any time put forth" (*Principles of Psychology*, 1890, vol. 2, ch. XXVI, p. 571).
 
 This phenomenological difference—why willing feels effortful while capture doesn't—demands explanation. If all attention were just neural computation, why would some modes feel like work? The [mental-effort](/concepts/mental-effort/) article develops this: effort may feel real because it *is* real work—consciousness actively holding neural patterns through repeated observation.
 
@@ -111,13 +111,13 @@ The three modes deploy on different timescales. Reflexive capture is fastest: fa
 | Instructed deployment | ~300–700ms (post-cue) | Behavioural facilitation from a central cue |
 | Willed deployment | Hundreds of ms later than instructed | Allocation delayed by the decision stage |
 | Sustained voluntary attention | Seconds to minutes | Enables cumulative effects and neuroplasticity |
-| Pre-decision bias | ~1000ms before choice | Prior neural states constrain but may not determine choices |
+| Pre-decision bias | ~1000ms before choice | Prior neural states bias but need not determine choices |
 
-Motor selection has its own decision timescale, on a different clock. Thura & Cisek (2014) identified volitional commitment ~280ms before movement onset in monkeys choosing reaches, when premotor activity for the selected target peaks and motor-cortex activity for the alternative is suppressed. That figure counts back from movement, where attentional latencies count forward from a cue in humans, so the two do not form a shared timeline. Giacomo Rizzolatti's premotor theory of attention proposes that attention shifts *are* motor plans—the brain's preparation for orienting movements.
+Motor selection has its own decision timescale, on a different clock. In monkeys choosing reaches, Thura & Cisek (2014) found premotor activity for the selected target peaking ~280ms before movement onset while motor-cortex activity for the alternative was suppressed, which they propose constitutes volitional commitment. That figure counts back from movement, where attentional latencies count forward from a cue in humans, so the two do not form a shared timeline. Giacomo Rizzolatti's premotor theory of attention proposes that attention shifts *are* motor plans—the brain's preparation for orienting movements.
 
 If willed attention and willed action share a common mechanism, the decision stage that delays willed deployment—indexed by frontal theta from ~500ms post-cue—is where consciousness would engage the selection interface. That latency fits deliberate choice, but a purely physical decision process would take the same time, so the timing locates the candidate contribution without favouring the Map's reading of it.
 
-For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—the [quantum consciousness](/concepts/quantum-consciousness/) mechanism of rapid observation holding desired patterns stable—it would require time for sustained engagement. Willed attention, once deployed, can be held for seconds or longer, which might provide that time. This remains speculative: exogenous attention's brief duration (~100ms) would be insufficient for sustained influence, while willed attention's sustained character fits what such a mechanism would require.
+For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—the [quantum consciousness](/concepts/quantum-consciousness/) mechanism of rapid observation holding desired patterns stable—it would require time for sustained engagement. Willed attention, once deployed, can be held for seconds or longer, which might provide that time; exogenous capture (~100ms) could not. This remains speculative.
 
 A significant open question remains: the Zeno effect requires observation intervals faster than the system's natural evolution (potentially femtoseconds), while attention operates on millisecond timescales. Bridging this gap—perhaps through intermediate mechanisms between conscious attention acts and quantum-level observations—is an active area of investigation. Theoretical modeling of [quantum-Zeno-like effects](/concepts/quantum-zeno-effect/) in a tightly bound cryptochrome radical pair that needs roughly 700 ns of coherence (Denton et al. 2024, extending a quantum-Zeno account of radical-pair magnetoreception that dates to the late 2000s) offers a biological precedent, though this is a computational result rather than an experimental one and remains far from the neural circuit scale. See [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) for how the Zeno mechanism applies specifically to motor selection.
 
@@ -141,10 +141,7 @@ This suggests a division: attention networks (frontoparietal) control the spotli
 
 The thalamus sits at the junction where ascending sensory signals meet descending voluntary signals. Frontal cortex modulates thalamic gating, determining which sensory information gains cortical access and which is suppressed. This makes the thalamus a candidate selection site—where consciousness might influence which information propagates.
 
-Dynamic causal modelling identifies two pathways:
-
-- **Ascending** (thalamic→PFC, thalamic→ACC, thalamic→basal ganglia): sensory information pushing upward toward cortical processing
-- **Descending** (frontal→thalamic): voluntary modulation based on goals, rewards, and intentions
+Dynamic causal modelling of fMRI during a sustained-attention task found attention modulating both the ascending pathway (thalamus→dorsal prefrontal cortex) and the descending one (dorsal prefrontal→thalamus), with descending gain rising as attentional demand increased (Jagtap & Diwadkar 2016)—a demand manipulation, not a willed–instructed contrast.
 
 The two-way traffic suggests the thalamus does not merely relay information but participates in active selection. This is suggestive for the Map's framework. If [consciousness selects among neural patterns](/concepts/consciousness-selecting-neural-patterns/), the thalamic gate—where top-down goals meet bottom-up sensory competition—provides a natural locus. The thalamus does not require consciousness to generate signals *de novo*; it requires only that ongoing competition between ascending and descending influences be biased, which matches the [minimal interaction](/tenets/#minimal-quantum-interaction) the Map proposes.
 
@@ -159,7 +156,7 @@ The anterior insula and anterior cingulate cortex form the salience network, whi
 3. Modulating autonomic reactivity
 4. Facilitating rapid access to motor systems
 
-When you *choose* to redirect attention from an absorbing task, the salience network mediates that switch. The ACC component is particularly relevant—it activates more strongly during willed than instructed attention, suggesting it contributes specifically to self-generated reorienting. This connects to [agent-causation](/concepts/agent-causation/): the salience network is a candidate mechanism through which consciousness interrupts automatic processing and imposes voluntary control over what the brain attends to.
+Menon and Uddin tie the switch to detected salient events; that it also serves a *chosen* redirection from an absorbing task is the Map's extrapolation. The ACC component makes the extrapolation plausible—it activates more strongly during willed than instructed attention (Rajan et al. 2019), suggesting a role in self-generated reorienting. This connects to [agent-causation](/concepts/agent-causation/): the salience network is a candidate mechanism through which consciousness interrupts automatic processing and imposes voluntary control over what the brain attends to.
 
 ### Spectral Signatures
 
@@ -177,13 +174,13 @@ The theta signature of willed decision comes from a different paradigm again—a
 
 ## The Stochastic Challenge
 
-EEG alpha power over parieto-occipital cortex, measured approximately 1000ms before a free choice, predicts whether participants will attend left or right. This seems to threaten the willed/instructed distinction: if brain states predict choices, is willing illusory?
+EEG alpha power over parieto-occipital cortex in the ~1,000ms before a choice prompt, but not earlier, predicts whether participants will attend left or right (Bengson et al. 2014). This seems to threaten the willed/instructed distinction: if brain states predict choices, is willing illusory?
 
 Two interpretations compete:
 
-**Neural noise interpretation**: Stochastic fluctuations in cortical excitability bias decisions. The "cause" of free decisions may be merely background noise (Filevich et al. 2013).
+**Neural noise interpretation**: Stochastic fluctuations in cortical excitability bias decisions and may be at least part of their "cause" (Filevich et al. 2013, on decisions to inhibit action).
 
-**Attentional set interpretation**: Pre-stimulus alpha reflects prior intentions—task-specific attentional sets like "attend left vs. attend right." The brain tracks consequences of *previous* choices, not evidence against present ones.
+**Attentional set interpretation**: Pre-prompt alpha may instead reflect varying task-specific attentional sets ("attend left" vs. "attend right"). Nadra and Mangun (2023) leave the question open but argue against an advance decision: choice prompts appeared on only a third of trials, at unpredictable 2–8 s intervals.
 
 The Map's response parallels its response to the [Libet experiments](/concepts/libet-experiments/):
 
@@ -191,9 +188,9 @@ The Map's response parallels its response to the [Libet experiments](/concepts/l
 
 2. **Resolution mismatch**: EEG operates at millimetre spatial resolution and millisecond temporal resolution. Quantum-level selection at ion channels or microtubules would be invisible. Finding macro-level correlates doesn't preclude micro-level selection.
 
-3. **Distal intentions**: What appears as prediction may track prior conscious choices. The pre-stimulus brain state reflects how you've previously organized your attentional resources.
+3. **Distal intentions**: What appears as prediction may track how earlier conscious choices organised attentional resources—though the design above makes a trial-specific advance decision unlikely, so this reply is weaker here than against Libet.
 
-Finding that brain activity correlates with upcoming choices establishes that conscious choices are implemented through neural mechanisms—which the Map's framework accepts. It doesn't establish that neural mechanisms are *all* that's involved.
+Finding that brain activity predicts upcoming choices establishes that choices are biased by prior neural states—which the Map's framework accepts. It doesn't establish that neural mechanisms are *all* that's involved.
 
 ## Structure and the Interface
 
@@ -211,7 +208,7 @@ Meditation traditions provide phenomenological data on attention's structure. Tw
 
 **Open monitoring (OM) meditation** cultivates something else: receiving all contents without preference or intervention. Neither capture nor willing. The practitioner observes attention itself.
 
-Neural signatures differ: FA increases frontal theta and ACC activation (the willed-attention signature); OM reduces them and increases alpha. Advanced practitioners report increasingly fine-grained awareness of the willed/captured distinction—consistent with [introspective](/concepts/introspection/) access to genuine differences.
+The neural evidence does not split the same way. Across 56 EEG studies of mindfulness, enhanced alpha *and* theta power were the commonest findings (Lomas, Ivtzan & Fu 2015), which does not support a theta-for-focus, alpha-for-monitoring division; [the meditation-modes article](/concepts/meditation-and-consciousness-modes/) reviews the evidence. Advanced practitioners report increasingly fine-grained awareness of the willed/captured distinction—consistent with [introspective](/concepts/introspection/) access to genuine differences.
 
 Buddhist traditions raise a challenge: if there is no stable self, who does the willing? The no-self (*anatta*) doctrine suggests the "willer" is itself a construction. The Map's response is that the phenomenology of willing exists even if no permanent self does. The experience of effort, the sense of internal origination—these are data regardless of whether they emanate from a substantial self or from moment-to-moment processes. What matters for the mind-matter interface is that willing *happens* and shows distinctive neural signatures, not that a Cartesian ego performs it.
 
@@ -219,7 +216,7 @@ Buddhist traditions raise a challenge: if there is no stable self, who does the 
 
 ### Dualism
 
-If consciousness were identical to neural processing, willed and instructed attention should show identical signatures—both are "attention" achieving the same result. The neural distinction (frontal theta, reciprocal frontoparietal exchange, extra frontal recruitment) supports the claim that consciousness adds something when it decides. The additional machinery marks what's different about genuine willing.
+Willed and instructed attention show different neural signatures (frontal theta, reciprocal frontoparietal exchange, extra frontal recruitment), and the Map reads the difference as consciousness adding something when it decides. The data fit that reading without evidencing it: a physicalist expects internally and externally sourced goals to recruit different circuits too, and the positions register grades the willed-versus-instructed data as consistent with rather than establishing conscious engagement ([P-A1](/positions/agency-and-will/#p-a1)).
 
 ### Bidirectional Interaction
 
@@ -231,11 +228,11 @@ Jeffrey Schwartz's OCD research provides suggestive evidence: patients who learn
 
 The sustained character of willed attention fits the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. If consciousness operates through quantum Zeno effects, holding desired patterns through rapid observation, it requires sustained engagement—which willed attention provides and exogenous capture doesn't.
 
-The mechanisms surveyed above sharpen the point. Thalamic gating, salience-network switching, and competitive selection among neural populations all involve junctures where outcomes are not fully fixed by prior physical states. These underdetermined points are the candidate sites for minimal influence: consciousness need not generate new signals, only bias which competing signals win at gates the brain already operates.
+The mechanisms surveyed above sharpen the point. Thalamic gating, salience-network switching, and competitive selection among neural populations are junctures where competing signals are resolved. If any resolution is not fully fixed by prior physical states—which the data neither show nor exclude—those junctures are the candidate sites for minimal influence: consciousness need not generate new signals, only bias which competing signals win at gates the brain already operates.
 
 ### Occam's Razor Has Limits
 
-The simplest account would eliminate the willed/instructed distinction: all attention is just neural processing, with "willing" as post-hoc narrative. But this ignores the neural evidence. The frontal theta, the reciprocal frontoparietal exchange, the extra frontal recruitment—these mark *something*. If that something were "more neural processing," we'd need to explain why this particular kind of processing feels like willing rather than like anything else. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies: simplicity is unreliable when it dismisses the phenomenon to be explained.
+The simplest account would eliminate the willed/instructed distinction: all attention is just neural processing, with "willing" as post-hoc narrative. But this ignores the neural evidence: the three willed-mode signatures mark *something*. If that something were "more neural processing," we'd need to explain why this particular kind of processing feels like willing rather than like anything else. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies: simplicity is unreliable when it dismisses the phenomenon to be explained.
 
 ## What Would Challenge This View?
 
@@ -270,15 +267,16 @@ Attention divides into three architecturally distinct modes—exogenous, instruc
 ## References
 
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Bengson, J.J., Kelley, T.A., Zhang, X., Wang, J.L., & Mangun, G.R. (2014). Spontaneous neural fluctuations predict decisions to attend. *Journal of Cognitive Neuroscience*, 26(11), 2578-2584.
 1. COGITATE Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Filevich, E., Kühn, S., & Haggard, P. (2013). There is no free won't: Antecedent brain activity predicts decisions to inhibit. *PLoS ONE*, 8(2), e53053.
-1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
+1. Jagtap, P. & Diwadkar, V.A. (2016). Effective connectivity of ascending and descending frontalthalamic pathways during sustained attention: Complex brain network interactions in adolescence. *Human Brain Mapping*, 37(7), 2557-2570.
+1. Lomas, T., Ivtzan, I., & Fu, C.H.Y. (2015). A systematic review of the neurophysiology of mindfulness on EEG oscillations. *Neuroscience & Biobehavioral Reviews*, 57, 401-410.
 1. Menon, V. & Uddin, L.Q. (2010). Saliency, switching, attention and control: A network model of insula function. *Brain Structure and Function*, 214(5-6), 655-667.
 1. Müller, H.J. & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
 1. Rizzolatti, G. et al. (1987). Reorienting attention across the horizontal and vertical meridians: Evidence in favor of a premotor theory of attention. *Neuropsychologia*, 25(1A), 31-40.
 1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R. Jr., Martin, K.M., & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
-1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Wyart, V. & Tallon-Baudry, C. (2008). Neural dissociation between visual awareness and spatial attention. *The Journal of Neuroscience*, 28(10), 2667-2679. https://doi.org/10.1523/JNEUROSCI.4748-07.2008

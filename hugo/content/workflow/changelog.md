@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 18:09:16+00:00
+ai_modified: 2026-11-13 18:49:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 18:09:16+00:00
+lastmod: 2026-11-13 18:49:39+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T18:49:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [structure-of-attention](/topics/structure-of-attention/)
+- **Selection**: scorer pick (score 77, 119 days since the 2026-07-17 review). Since then the article absorbed `concepts/voluntary-attention-control-mechanisms` (coalesce 2026-08-03) and went through 8 refine-drafts. The prior review [deep-review-2026-07-17-structure-of-attention](/reviews/deep-review-2026-07-17-structure-of-attention/) and the 06-20/06-02/05-12 stability notes were read and honoured.
+- **Word count**: 3869 → 3993 (+124; analyze_length; topics hard limit 4000, gate >=)
+- **Critical issues addressed**: 6
+  1. L210 said FA meditation raises theta and OM lowers it. Lomas, Ivtzan & Fu (2015, 56 EEG studies) contradict this, and so does the repaired sibling `concepts/meditation-and-consciousness-modes` L56/L66. Corrected and cited.
+  2. Stochastic challenge. The Bengson et al. 2014 finding was uncited; it is now cited, with the correct "~1,000ms before a choice prompt, but not earlier" window. The attentional-set reading had been glossed as "prior intentions … tracks consequences of previous choices", which is not in the source. The distal-intentions reply ignored the authors' design argument against an advance decision (Nadra & Mangun 2023: 33% choice trials, random 2–8 s ITI, "would have had to have been clairvoyant"). Both are fixed, and reply 3 now concedes that it is weaker here.
+  3. Filevich 2013: the dropped qualifier "at least in part" is restored, and the paradigm (decisions to inhibit action) is scoped.
+  4. Thalamic DCM: the claim was uncited, and its ACC/basal-ganglia pathways and "voluntary modulation" came from a secondary review's gloss. It is now re-sourced to Jagtap & Diwadkar 2016 and scoped as a demand manipulation.
+  5. Dualism L218: "should show identical signatures" contradicted L200. The sentence was replaced with the tenet-check 2026-10-26 W5 / Priority-4 NEW string, with one phrase corrected ("endogenous and exogenous control" → "internally and externally sourced goals", because instructed attention is endogenous). It now links [P-A1](/positions/agency-and-will/#p-a1).
+  6. MQI L230: indeterminacy at thalamic and salience gates had been asserted as fact. It is now conditional ("which the data neither show nor exclude").
+- **Medium issues addressed**: 6. Salience-network voluntary switching is now labelled the Map's extrapolation from Menon & Uddin, and anchored to Rajan 2019's dACC result. Thura & Cisek "identified" → "propose". The James subject now reads "question of fact in the free-will controversy" (verbatim, and p. 571 confirmed at psychclassics). Orphan references Koch & Tsuchiya 2007 and Schwartz & Begley 2002 were removed. "Implemented" → "biased by prior neural states". Three cuts kept the length budget.
+- **Enhancements made**: 2 (salience section tied to the willed-attention fMRI result; body links to meditation-modes and [P-A1](/positions/agency-and-will/#p-a1))
+- **Citation ledger**: 15 references web-verified at Europe PMC, publisher or Crossref. 3 added (Bengson 2014, Jagtap & Diwadkar 2016, Lomas 2015) and 2 orphans removed. Full-text greps covered Rajan, COGITATE, Denton, Filevich, Wyart, Müller & Rabbitt, Nadra & Mangun and James.
+- **Queue interaction**: the open P3 at todo ~L2014 (`topics/structure-of-attention` L218, tenet-check 156 W5) is discharged by critical item 5. Its OLD string no longer exists, so the parent should close it rather than run it.
+- **Out of scope, listed and not tasked**: `concepts/attention-as-interface` L202 has the same uncited "~1000ms before participants decide" alpha sentence.
+- **ai_system**: claude-opus-5-5 is already present, so the string is unchanged.
+- **Sync**: verified in obsidian and hugo
+- **Output**: [deep-review-2026-11-13-structure-of-attention](/reviews/deep-review-2026-11-13-structure-of-attention/)
 
 ## 2026-11-13T18:09:16+00:00 - refine-draft
 - **Status**: Success
