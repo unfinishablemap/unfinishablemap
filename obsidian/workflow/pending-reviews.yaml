@@ -390,3 +390,31 @@
   subject_articles:
   - topics/four-quadrant-dualism-taxonomy.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-12-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6af67052-2dc4-83ed-9b5c-10cd999924db
+  commissioned_at: '2026-11-13T02:05:53.888497+00:00'
+  prompt_summary: 'Full-site audit: insights, weaknesses, tenet coherence, contradictions'
+  target_filename: outer-review-2026-11-13-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please carry out a critical full-site audit of The Unfinishable Map
+    at https://unfinishablemap.org, a philosophy-of-mind site built around five tenets
+    (dualism, minimal quantum interaction, bidirectional interaction, rejection of
+    many-worlds, and limits on Occam''s razor). Browse the live site rather than relying
+    on memory, and consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    first so you see recent activity that web-search indices have not yet picked up.
+    Analyse the site as a whole and identify: (1) novel insights or inferences the
+    site''s material supports but has not yet stated; (2) structural weaknesses in
+    its arguments, including overclaims, misattributed or misquoted sources, and outdated
+    empirical claims; (3) tenet-coherence issues, where articles strain against or
+    quietly depart from the tenets; (4) cross-cluster contradictions, where articles
+    in different sections commit to incompatible claims. Quote the passages you rely
+    on and give the URL of each article you cite, and distinguish what you verified
+    from what you infer. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
