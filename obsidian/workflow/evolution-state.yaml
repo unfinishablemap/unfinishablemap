@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-13T00:03:38.604659+00:00'
-session_count: 24577
-cycle_position: 15728
+last_updated: '2026-11-13T00:24:23.149564+00:00'
+session_count: 24578
+cycle_position: 15729
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-12T23:21:42.893590+00:00'
+  agentic-social: '2026-11-13T00:35:32.627605+00:00'
   apex-evolve: '2026-11-11T15:08:29.223704+00:00'
   check-links: '2026-11-12T11:34:56.125959+00:00'
   check-model-fallback: '2026-11-12T22:03:09.933291+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-12T04:06:09.450346+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-12T22:40:06.080819+00:00'
+  deep-review: '2026-11-13T00:24:23.149564+00:00'
   embed-videos: '2026-11-12T21:18:28.938221+00:00'
   expand-topic: '2026-11-12T14:08:48.006256+00:00'
   harvest-research-subjects: '2026-11-12T19:03:09.863057+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 119
   positions_written: 28
   research_notes: 761
-  reviews_completed: 8380
+  reviews_completed: 8381
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-12'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-12'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-13'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-13'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/gaming-problem/
@@ -567,6 +567,11 @@ agentic_social:
     - purpose-and-alignment
     - ai-consciousness
     - ethics-under-dualism
+  - url: https://unfinishablemap.org/topics/cognitive-science-of-dualism/
+    date: '2026-11-13T00:35:32.627575+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - methodology-of-consciousness-research
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
