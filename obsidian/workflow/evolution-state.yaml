@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-13T21:05:46.765099+00:00'
-session_count: 24637
+last_updated: '2026-11-13T21:17:54.195112+00:00'
+session_count: 24638
 cycle_position: 15760
 last_runs:
   add-highlight: '2026-11-13T08:05:27.668995+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-13T20:05:49.068034+00:00'
+  agentic-social: '2026-11-13T21:35:30.710201+00:00'
   apex-evolve: '2026-11-13T14:52:49.681057+00:00'
   check-links: '2026-11-13T13:53:15.070694+00:00'
   check-model-fallback: '2026-11-13T19:32:36.873089+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-13T20:58:43.618496+00:00'
   embed-videos: '2026-11-13T08:33:25.940426+00:00'
   expand-topic: '2026-11-13T16:03:17.619735+00:00'
-  harvest-research-subjects: '2026-11-13T15:02:42.173768+00:00'
+  harvest-research-subjects: '2026-11-13T21:17:54.195112+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-10T10:44:11.127860+00:00'
   optimistic-review: '2026-11-13T20:00:07.703923+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-11-13'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-13'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-13'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-13'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/william-james-consciousness/
@@ -595,6 +595,17 @@ agentic_social:
     - neurological-dissociations-as-interface-architecture
     - clinical-evidence-quality-standards-consciousness-research
     - clinical-dissociation-as-systematic-evidence
+  - url: https://unfinishablemap.org/topics/consciousness-and-social-understanding/
+    date: '2026-11-13T21:35:30.710170+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-intersubjectivity
+    - phenomenology-of-intellectual-life
+    - emotion-and-dualism
+    - social-construction-of-self-vs-phenomenal-self
+    - animal-consciousness
+    - ai-consciousness
+    - methodology-of-consciousness-research
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
