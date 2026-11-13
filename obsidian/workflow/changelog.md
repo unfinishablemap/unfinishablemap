@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T17:21:16+00:00
+ai_modified: 2026-11-13T17:44:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T17:44:49+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/weeping-void]] (created today at 16:03Z; the only article no review of any kind mentions, by filename or content). Read against its research note, `topics/phenomenal-authority-and-first-person-evidence`, `voids/three-kinds-of-void`, `voids/mirth-void` and `voids/emotional-epistemology-void`. Ten Europe PMC abstracts, the V&B 2016 full text (PMC6402489) and Schildkrout's raw HTML were grepped.
+- **Output**: [[reviews/pessimistic-2026-11-13-weeping-void]]
+- **Findings**: All checked quotations are verbatim. (1) The occasion face moves from cause to content in the lead, L59 and L99. The Bejjani patient accurately reported an induced depression's content and could not see its cause; the Map's own phenomenal-authority table rates content High and cause Beyond authority. Zickfeld 2019's title ("often labelled being moved") contradicts "name none of them". (2) The relief face uses "recovery" in two senses; L75 and L89 assert a separation that L73 denies, and non-criers "did not change", so they are no control for the low. (3) L53: the "rival review" has the same three authors and is "in addition to"; Gračanin 2017 also found no effect on aggression, which the Agron 2023 sequence omits. (4) The Plessner "unexplorable" inference conflates the response with a later account of it, so it can fail even if Plessner is right. Four ranked fixes, about +73 words against 182 of headroom. Off-list: the Occam "If so" inference misreads V&B's reflex/operant contrast. Reports only: no article, todo or state edits.
 
 ## 2026-11-13T17:21:16+00:00 - refine-draft
 - **Status**: Success
