@@ -5,6 +5,12 @@ ai_modified: 2026-11-12T23:51:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-13T00:03:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/active-reboot]]
+- **Change**: Further Reading label for `direction-of-interface-change` said the dedicated reopening pathway "underlies" the hysteresis and recovery-order members; the page's own neural-inertia paragraph treats hysteresis as passive resistance that the reopening machinery overcomes, and the linked page glosses the mechanism as bearing on those members. Reworded to "the reopening mechanism bears on" (length-neutral). Done inline by the cycle driver: a one-phrase swap scripted in the task notes.
+- **Length**: 3,308 before and after (concepts hard 3,500)
+
 ## 2026-11-12T23:51:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/wakefulness-void]]

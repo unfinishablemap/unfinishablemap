@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-10-01 23:40:30+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-13 00:03:18+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 02:04:33+00:00
-lastmod: 2026-10-01 23:40:30+00:00
+lastmod: 2026-11-13 00:03:18+00:00
 modified: *id001
 related_articles:
 - '[[altered-states-as-interface-evidence]]'
@@ -118,7 +118,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the calibration discipline that governs how strongly the finding is read
 - [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/) — the discipline that cites active reboot as its non-introspection worked exhibit: the *closing-reopening asymmetry* inherits the smaller framework-dependence discount, the *interface-resumption significance* the larger one
 - [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/) — evidence-pattern type the four-agent KCC2 convergence instantiates; names the structural-feature inference active reboot relies on
-- [direction-of-interface-change](/concepts/direction-of-interface-change/) — the signature family whose hysteresis and recovery-order members the dedicated reopening pathway underlies
+- [direction-of-interface-change](/concepts/direction-of-interface-change/) — the signature family whose hysteresis and recovery-order members the reopening mechanism bears on
 - [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — the timing-variability finding active reboot is held distinct from, examined for whether it discriminates classical noise from interface indeterminacy
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — design space for a focal-perturbation discriminating test at the memory-hierarchy tier; the active-reboot finding is one of the cross-mechanism convergence anchors that motivates the test's structure while leaving the substrate-vs-channel question empirically open
 - [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/) — the psychogenic route of the same three-route motor-channel convergence; active reboot is the pharmacological route, conversion disorder the no-lesion-no-drug route
