@@ -4,7 +4,7 @@ description: "Counterfactual reasoning imagines what could have been or might be
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-07-29T12:08:00+00:00
+ai_modified: 2026-11-13T17:20:14+00:00
 last_deep_review: 2026-07-29T12:08:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[topics/consciousness-and-counterfactual-reasoning]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-28
 last_curated: null
 ---
@@ -164,7 +164,7 @@ Counterfactual reasoning connects to multiple [[tenets]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes consciousness interacts with the physical world through the smallest possible influence on quantum outcomes. Counterfactual reasoning illustrates why this minimal interface suffices: consciousness need not generate neural activity *de novo* but merely bias which of the brain's already-generated possibilities actualises. The cognitive work of generating candidate scenarios remains physical; consciousness contributes evaluation and selection.
 
-**No Many Worlds**: Counterfactual reasoning presupposes that alternatives are genuinely alternatives—things that *could* happen but *don't* unless selected. If [[concepts/many-worlds|many-worlds]] were true, all alternatives actualise in some branch. Many-worlds proponents respond with decision-theoretic accounts: rational agents can weight branches and act as if choosing, even if all outcomes occur somewhere. But this treats selection as subjective self-location rather than objective determination. The phenomenology of counterfactual reasoning—comparing possibilities that might or might not become real—fits collapse interpretations more naturally than branching: we experience *determining* which alternative becomes actual, not merely *discovering* which branch we occupy.
+**No Many Worlds**: Counterfactual reasoning presupposes that alternatives are genuinely alternatives—things that *could* happen but *don't* unless selected. If [[concepts/many-worlds|many-worlds]] were true, all alternatives actualise in some branch. Many-worlds proponents respond with decision-theoretic accounts: rational agents can weight branches and act as if choosing, even if all outcomes occur somewhere. But this treats selection as subjective self-location rather than objective determination. The phenomenology of counterfactual reasoning—comparing possibilities that might or might not become real, then *determining* which one becomes actual—does not discriminate between collapse and branching, because an Everettian predicts the same experience in every branch; objective determination rests on the tenet, held as a commitment.
 
 **Occam's Razor Has Limits**: The simplest hypothesis—counterfactual reasoning is just neural pattern matching—struggles with the evidence. The systematic correlation with consciousness-dependent capacities, the working memory demands, the apparent great ape gap all suggest something more than parsimony would predict. Yet epistemic humility is warranted: LLMs demonstrate that some form of counterfactual scenario generation can emerge from sophisticated pattern matching, even if questions remain about whether this constitutes genuine counterfactual *reasoning*.
 

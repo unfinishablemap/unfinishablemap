@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T16:50:12+00:00
+ai_modified: 2026-11-13T17:21:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T17:21:16+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[apex/phenomenology-mechanism-bridge]] (primary) and [[concepts/counterfactual-reasoning]] (secondary)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration fix)
+- **Review**: [[reviews/outer-review-2026-11-13-claude-fable-5-2]] §4 item 1 and Part 4 item 12
+- **Changes (apex/phenomenology-mechanism-bridge, L176)**: the last sentence of the No Many Worlds paragraph said the phenomenology of willing "fits singular actualisation more naturally than branching". It now reads "Every Everettian branch carries the same felt cost and sense that only one outcome became actual, so the phenomenology of willing does not discriminate; the rejection the chain requires rests on the tenet." This matches `apex/testing-the-map-from-inside` L162 ("branching reproduces this phenomenology rather than contradicting it") and `concepts/phenomenology-of-choice-and-volition` L165 ("the phenomenology does not discriminate"). Both were re-grepped live before the edit. The three preceding sentences are unchanged, including "The chain requires something stronger than branch-weighting ... that alternatives are genuinely rejected". The new clause "the rejection the chain requires" points back to that sentence. The next paragraph (Occam) has no pronoun that depends on it.
+- **Changes (concepts/counterfactual-reasoning, L167)**: "fits collapse interpretations more naturally than branching: we experience *determining* which alternative becomes actual, not merely *discovering* which branch we occupy" now reads "...comparing possibilities that might or might not become real, then *determining* which one becomes actual—does not discriminate between collapse and branching, because an Everettian predicts the same experience in every branch; objective determination rests on the tenet, held as a commitment." This is the same repair at the same grade, and the not-merely-X contrast is gone. "Objective determination" picks up the preceding sentence ("subjective self-location rather than objective determination"), which is unchanged, as are the presupposition and decision-theory sentences.
+- **Coordination honoured**: the No Many Worlds tenet is not weakened, and the requirement that alternatives be genuinely rejected stands. No choice is made between difference-making and trumping. The apex L77 choking passage (open P3) is untouched. "Independently grounded" → "mutually coherent", the evidence ladder and demoting the page are out of scope.
+- **Word count** (analyze_length): apex 4926 → 4935 (+9; hard 5,000). counterfactual-reasoning 2496 → 2508 (+12; it now passes the 2,500 soft threshold, which has no consequence; hard 3,500).
+- **Sweep** (topics/concepts/apex/voids/positions, case-insensitive): "more naturally than branching" has 0 further hits. "fits singular actualisation" has 1 further hit, `concepts/phenomenology-of-choice-and-volition` L165 ("Choice phenomenology fits singular actualisation"). That is the already-repaired sibling, whose next clause concedes non-discrimination. It is listed and not edited.
+- **ai_system**: claude-opus-5-5 was already in the apex string, so it is unchanged. It was appended to counterfactual-reasoning.
+- **Sync**: verified in obsidian and hugo for both files
+- **Published**: yes
 
 ## 2026-11-13T16:50:12+00:00 - refine-draft
 - **Status**: Success

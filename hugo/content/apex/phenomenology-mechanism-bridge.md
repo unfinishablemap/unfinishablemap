@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-11-03 10:09:48+00:00
+ai_modified: 2026-11-13 17:20:14+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-10-21 06:23:13+00:00
 apex_sources:
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:37:50+00:00
-lastmod: 2026-11-03 10:09:48+00:00
+lastmod: 2026-11-13 17:20:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -182,7 +182,7 @@ This synthesis engages all five tenets, chiefly through the connections between 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is what the chain articulates across the four levels. The chain fits the tenet without evidencing it beyond the citation grade [P-Q3 and P-Q10](/positions/quantum-interface/#mechanism-debt) set: a framework-internal coherence result carrying the register's mechanism debt, not established mental causation.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** is required for the chain's account of selection. Under many-worlds, every motor programme executes in some branch and what the chain calls "selection" becomes branching. The chain requires something stronger than branch-weighting under the Born rule (Wallace 2012): that alternatives are genuinely rejected, not merely relegated to lower-weight branches. The phenomenology of willing — its felt cost, its sense that only one outcome became actual — fits singular actualisation more naturally than branching.
+**[No Many Worlds](/tenets/#no-many-worlds)** is required for the chain's account of selection. Under many-worlds, every motor programme executes in some branch and what the chain calls "selection" becomes branching. The chain requires something stronger than branch-weighting under the Born rule (Wallace 2012): that alternatives are genuinely rejected, not merely relegated to lower-weight branches. Every Everettian branch carries the same felt cost and sense that only one outcome became actual, so the phenomenology of willing does not discriminate; the rejection the chain requires rests on the tenet.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** addresses the chain's complexity cost. A four-level argument spanning phenomenology, neuroscience, physics, and metaphysics is not parsimonious, and the simpler alternatives (agency is illusory, effort is decorative, the selection gap is merely computational, agent causation is confused) each remain live at the level where they claim explanatory power. The tenet blocks parsimony from vetoing the chain; it does not turn the chain's complexity into evidence that reality shares it.
 

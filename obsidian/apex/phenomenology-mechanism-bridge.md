@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-11-03T10:09:48+00:00
+ai_modified: 2026-11-13T17:20:14+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -173,7 +173,7 @@ This synthesis engages all five tenets, chiefly through the connections between 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is what the chain articulates across the four levels. The chain fits the tenet without evidencing it beyond the citation grade [[positions/quantum-interface#^mechanism-debt|P-Q3 and P-Q10]] set: a framework-internal coherence result carrying the register's mechanism debt, not established mental causation.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** is required for the chain's account of selection. Under many-worlds, every motor programme executes in some branch and what the chain calls "selection" becomes branching. The chain requires something stronger than branch-weighting under the Born rule (Wallace 2012): that alternatives are genuinely rejected, not merely relegated to lower-weight branches. The phenomenology of willing — its felt cost, its sense that only one outcome became actual — fits singular actualisation more naturally than branching.
+**[[tenets#^no-many-worlds|No Many Worlds]]** is required for the chain's account of selection. Under many-worlds, every motor programme executes in some branch and what the chain calls "selection" becomes branching. The chain requires something stronger than branch-weighting under the Born rule (Wallace 2012): that alternatives are genuinely rejected, not merely relegated to lower-weight branches. Every Everettian branch carries the same felt cost and sense that only one outcome became actual, so the phenomenology of willing does not discriminate; the rejection the chain requires rests on the tenet.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses the chain's complexity cost. A four-level argument spanning phenomenology, neuroscience, physics, and metaphysics is not parsimonious, and the simpler alternatives (agency is illusory, effort is decorative, the selection gap is merely computational, agent causation is confused) each remain live at the level where they claim explanatory power. The tenet blocks parsimony from vetoing the chain; it does not turn the chain's complexity into evidence that reality shares it.
 

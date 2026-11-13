@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 16:45:20+00:00
+ai_modified: 2026-11-13 17:21:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 16:45:20+00:00
+lastmod: 2026-11-13 17:21:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T17:21:16+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/) (primary) and [counterfactual-reasoning](/concepts/counterfactual-reasoning/) (secondary)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration fix)
+- **Review**: [outer-review-2026-11-13-claude-fable-5-2](/reviews/outer-review-2026-11-13-claude-fable-5-2/) §4 item 1 and Part 4 item 12
+- **Changes (apex/phenomenology-mechanism-bridge, L176)**: the last sentence of the No Many Worlds paragraph said the phenomenology of willing "fits singular actualisation more naturally than branching". It now reads "Every Everettian branch carries the same felt cost and sense that only one outcome became actual, so the phenomenology of willing does not discriminate; the rejection the chain requires rests on the tenet." This matches `apex/testing-the-map-from-inside` L162 ("branching reproduces this phenomenology rather than contradicting it") and `concepts/phenomenology-of-choice-and-volition` L165 ("the phenomenology does not discriminate"). Both were re-grepped live before the edit. The three preceding sentences are unchanged, including "The chain requires something stronger than branch-weighting ... that alternatives are genuinely rejected". The new clause "the rejection the chain requires" points back to that sentence. The next paragraph (Occam) has no pronoun that depends on it.
+- **Changes (concepts/counterfactual-reasoning, L167)**: "fits collapse interpretations more naturally than branching: we experience *determining* which alternative becomes actual, not merely *discovering* which branch we occupy" now reads "...comparing possibilities that might or might not become real, then *determining* which one becomes actual—does not discriminate between collapse and branching, because an Everettian predicts the same experience in every branch; objective determination rests on the tenet, held as a commitment." This is the same repair at the same grade, and the not-merely-X contrast is gone. "Objective determination" picks up the preceding sentence ("subjective self-location rather than objective determination"), which is unchanged, as are the presupposition and decision-theory sentences.
+- **Coordination honoured**: the No Many Worlds tenet is not weakened, and the requirement that alternatives be genuinely rejected stands. No choice is made between difference-making and trumping. The apex L77 choking passage (open P3) is untouched. "Independently grounded" → "mutually coherent", the evidence ladder and demoting the page are out of scope.
+- **Word count** (analyze_length): apex 4926 → 4935 (+9; hard 5,000). counterfactual-reasoning 2496 → 2508 (+12; it now passes the 2,500 soft threshold, which has no consequence; hard 3,500).
+- **Sweep** (topics/concepts/apex/voids/positions, case-insensitive): "more naturally than branching" has 0 further hits. "fits singular actualisation" has 1 further hit, `concepts/phenomenology-of-choice-and-volition` L165 ("Choice phenomenology fits singular actualisation"). That is the already-repaired sibling, whose next clause concedes non-discrimination. It is listed and not edited.
+- **ai_system**: claude-opus-5-5 was already in the apex string, so it is unchanged. It was appended to counterfactual-reasoning.
+- **Sync**: verified in obsidian and hugo for both files
+- **Published**: yes
+
+## 2026-11-13T16:50:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted lead-calibration fix)
+- **Review**: [outer-review-2026-11-13-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-13-chatgpt-5-6-sol-pro/) §3.8 (item 6 of its Processing Notes)
+- **Changes**: the lead (L95) no longer says the voids "tell a different story" and are "not scattered randomly ... but cluster". It now reads "taken together, they cluster around a single boundary: the point where consciousness meets the physical world—a pattern the Map's [positions register](/positions/voids-as-evidence/) reads as largely framework-internal coherence, its cumulative evidential weight suspended." That is one appositive clause in [P-V1](/positions/voids-as-evidence/#p-v1)'s own reading ("best read as framework-internal coherence") and [P-V3](/positions/voids-as-evidence/#p-v3)'s suspension (cumulative-weight step suspended pending the candidate ledger). It matches what the body says at L233 and in the frontmatter thesis at L92. It also removes the not-X-but-Y construct and the "not randomly" implication, which implied a chance null had been beaten even though the [P-V3](/positions/voids-as-evidence/#p-v3) ledger records the selection effect as uncontrolled. Pronoun check: the following "They sort into types" still resolves to the voids.
+- **Re-grepped live before editing** (count 1 each): apex L95 lead, L92 thesis "largely framework-internal coherence", L233 "[P-V3](/positions/voids-as-evidence/#p-v3)'s cumulative step stays suspended pending the candidate ledger"; `positions/voids-as-evidence` L31 "the misleading figure", L66 "cumulative-weight step *suspended*", [P-V1](/positions/voids-as-evidence/#p-v1) Asserts L43.
+- **Word count** (analyze_length): 4911 → 4912 (+1; apex hard 5,000)
+- **Not touched**: every void count (the open P3 on "roughly fifteen" versus the index count owns that; the apex's "roughly twenty" in the description, thesis, L179 and L231 is left for it), the candidate ledger (out of scope), the rest of the lead and the second paragraph.
+- **Sync**: verified in obsidian and hugo; the hugo link renders as `/positions/voids-as-evidence/`
+- **Published**: yes
 
 ## 2026-11-13T16:45:20+00:00 - deep-review
 - **Status**: Success
