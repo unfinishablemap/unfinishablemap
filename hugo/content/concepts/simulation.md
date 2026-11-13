@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-10-24 22:53:05+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-11-13 00:21:38+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[locality]]'
@@ -24,8 +24,8 @@ description: If reality were computed, familiar objections to mind-matter intera
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 00:00:00+00:00
-lastmod: 2026-10-24 22:53:05+00:00
+last_deep_review: 2026-11-13 00:21:38+00:00
+lastmod: 2026-11-13 00:21:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This speculative idea, popularised by Nick Bostrom's probability argument and science fiction, cannot be empirically tested—but it has philosophical relevance for mind-matter interaction. If we take the hypothesis seriously as a thought experiment, certain objections to consciousness influencing physics turn out to rest on contingent assumptions rather than necessary truths.
+The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This speculative idea, popularised by Nick Bostrom's probability argument and science fiction, has no empirical test at present—but it has philosophical relevance for mind-matter interaction. If we take the hypothesis seriously as a thought experiment, certain objections to consciousness influencing physics turn out to rest on contingent assumptions rather than necessary truths.
 
 This page examines the simulation hypothesis and its implications for The Unfinishable Map's [tenets](/tenets/)—particularly bidirectional interaction and the [locality](/concepts/locality/) problem. As Chalmers argues in *Reality+* (2022), virtual worlds raise genuine philosophical questions about the nature of reality and mind; the Map draws on the hypothesis as a diagnostic tool for revealing hidden assumptions in our metaphysics, not as an empirical theory or a positive account of reality.
 
@@ -71,23 +71,23 @@ The fine-tuned constants of physics, the form of quantum mechanics, the apparent
 
 ### Dualism
 
-The simulation hypothesis is compatible with dualism and may even support it. If physical reality is computed, then:
+The simulation hypothesis fits dualism without establishing it: Bostrom's argument itself assumes substrate-independence, that a suitably programmed computer would be conscious, a premise the Map withholds. If physical reality is computed, then:
 - Physical processes are information processing
 - Consciousness might be something *about* that processing—or something beyond it
 - The substrate running the simulation adds an extra layer of reality beyond the simulated physics
 
-Simulated physics isn't "really" physical in the fundamental sense. This creates logical space for consciousness to be something different from the simulated matter we observe.
+Simulated physics would not be fundamental, though on Chalmers's account its objects stay real, made of digital processes. That leaves logical space for consciousness to be something other than the simulated matter we observe.
 
 ### Minimal Quantum Interaction
 
 Quantum mechanics might be the point where the simulation handles indeterminacy. If the simulator doesn't pre-calculate every quantum outcome (perhaps for efficiency)—a form of [adaptive computational depth](/concepts/adaptive-computational-depth/) where detail crystallises only where consciousness attends—consciousness influencing these outcomes would be:
 - Computationally minimal (operating only at undetermined points)
-- Physically undetectable (indistinguishable from "real" randomness)
+- Undetectable in aggregate statistics (indistinguishable from "real" randomness)
 - Consistent with the simulated physical laws
 
 The "minimal quantum interaction" tenet is consistent with—though not established by—what a well-designed mind-matter interface would look like in a simulation. The [probability-interpretation paradox](/topics/consciousness-and-probability-interpretation/)—that consciousness is probability's prerequisite yet architecturally poor at probabilistic reasoning—fits naturally: a designed interface might operate through pattern and meaning rather than requiring consciousness to compute Born-rule weights.
 
-**Timescale caveat**: The standard [decoherence](/concepts/decoherence/) objection—that quantum coherence decays rapidly in warm biological systems—applies within the simulation regardless. The Map takes decoherence seriously as an open challenge with specific responses (the measurement problem gap, biological quantum effects, the Zeno mechanism—see the [decoherence article](/concepts/decoherence/)). In the simulation context, the hypothesis adds only that such an interface might have been *designed*—not that physics magically cooperates.
+**Timescale caveat**: The standard [decoherence](/concepts/decoherence/) objection—that quantum coherence decays rapidly in warm biological systems—applies within the simulation regardless. The Map takes decoherence seriously as an open challenge with specific responses (the measurement problem gap, biological quantum effects, the Zeno mechanism—see the [decoherence article](/concepts/decoherence/)). The hypothesis adds only that such an interface might have been *designed*—not that physics magically cooperates.
 
 ### Bidirectional Interaction
 
@@ -99,11 +99,11 @@ The honest verdict here is that simulation is **neutral** between single-outcome
 
 Choosing the single-outcome architecture because it "avoids the [indexical identity problem](/concepts/haecceity/) that MWI faces" would be circular: it selects the implementation that delivers the conclusion and presents the delivery as evidence. The two architectures are also phenomenologically indistinguishable from inside—decoherence-masked branching feels exactly like a genuine single outcome—so no observation available to an embedded mind, the phenomenology of choice included, breaks the tie.
 
-What the simulation framing does, then, is establish *compatibility* rather than support. Objective collapse at the substrate level keeps intact the consciousness-physics interface that the [probability-interpretation analysis](/topics/consciousness-and-probability-interpretation/) describes—if the Born rule encodes how consciousness's meaning-driven selections aggregate statistically, single-outcome implementation preserves the subject whose selections the rule describes, whereas branching dissolves it. So a simulation *can* be built to match the Map's [No Many Worlds tenet](/tenets/). But the Map's reason for rejecting MWI is argued elsewhere—on indexical-identity and choice-phenomenology grounds developed in [the cumulative case against many-worlds](/arguments/many-worlds-argument/)—and stands or falls there, not here. This is a disagreement at the framework boundary: simulation neither establishes nor refutes branching, and the section claims no more than that.
+What the simulation framing does, then, is establish *compatibility* rather than support. Objective collapse at the substrate level keeps intact the consciousness-physics interface that the [probability-interpretation analysis](/topics/consciousness-and-probability-interpretation/) describes—if the Born rule encodes how consciousness's meaning-driven selections aggregate statistically, single-outcome implementation preserves the subject whose selections the rule describes, whereas branching, on the Map's reading, dissolves it. So a simulation *can* be built to match the Map's [No Many Worlds tenet](/tenets/). But the Map's reason for rejecting MWI lies elsewhere—the indexical objection, held as a commitment and developed in [the cumulative case against many-worlds](/arguments/many-worlds-argument/)—and stands or falls there, not here. This is a disagreement at the framework boundary: simulation neither establishes nor refutes branching, and the section claims no more than that.
 
 ## The Meta-Problem: Where Is Consciousness?
 
-A simulation running on physical substrate is still physical—the computer exists in base reality even if its simulated world doesn't. This raises a crucial question: where does consciousness reside?
+A simulation running on physical substrate is still physical—the computer exists in base reality even if its simulated world doesn't. Where, then, does consciousness reside?
 
 ### Three Possibilities
 
@@ -119,7 +119,7 @@ The Map's framework suggests the third option. If consciousness operates through
 
 If we are simulated, we inherit all [formal cognitive limits](/voids/formal-cognitive-limits/): Gödel's incompleteness, the halting problem, Rice's theorem. This creates a tension with Penrose-style arguments: if consciousness genuinely grasps Gödel sentences that formal systems cannot prove, it transcends computation—yet simulated computations *can't* genuinely grasp these truths. Either the simulation hypothesis is false, Lucas-Penrose arguments fail, or consciousness operates non-computationally even within the simulation. The Map's commitment to bidirectional interaction suggests the third option.
 
-A further question: are these limits [natural features of finite cognition, or designed constraints](/voids/meta-epistemology-of-limits/)? A simulator could impose limits beyond those inherent to computation itself. The [evolved cognitive limits](/voids/biological-cognitive-closure/) framework adds another dimension: limits that appear species-wide might reflect either architectural constraints of any mind or fitness-shaped blind spots—and in a simulation, the distinction between "evolved" and "designed" blurs.
+Are these limits [natural features of finite cognition, or designed constraints](/voids/meta-epistemology-of-limits/)? A simulator could impose limits beyond those inherent to computation itself. The [evolved cognitive limits](/voids/biological-cognitive-closure/) framework adds another dimension: limits that appear species-wide might reflect either architectural constraints of any mind or fitness-shaped blind spots—and in a simulation, the distinction between "evolved" and "designed" blurs.
 
 This has implications for [ai-consciousness](/topics/ai-consciousness/): if we're simulated and conscious, digital systems might also achieve consciousness under the right conditions—the barrier would be architectural, not substrate-based.
 
@@ -135,13 +135,13 @@ This regress must bottom out somewhere in non-simulated reality—unless reality
 
 "Surely we'd notice if we were in a simulation?"
 
-We have no experience of non-simulated reality to compare against. A sufficiently sophisticated simulation might be indistinguishable from reality in practice, though whether this holds in principle depends on questions about computational resources and whether consciousness is computable. If indistinguishable, we could only detect flaws—and perhaps physics already contains candidates (quantum mechanics, the measurement problem, consciousness). The [simulation-detection-void](/voids/simulation-detection-void/) maps this epistemic situation systematically: all [three-kinds-of-void](/voids/three-kinds-of-void/)—unexplored, unexplorable, and occluded—converge at the point where embedded observers try to determine their substrate.
+We have no experience of non-simulated reality to compare against. A sufficiently sophisticated simulation might be indistinguishable from reality in practice, though whether this holds in principle depends on questions about computational resources and whether consciousness is computable. If indistinguishable, we could only detect flaws—and perhaps physics already contains candidates (quantum mechanics, the measurement problem, consciousness). The [simulation-detection-void](/voids/simulation-detection-void/) maps this situation: all [three-kinds-of-void](/voids/three-kinds-of-void/)—unexplored, unexplorable, and occluded—converge at the point where embedded observers try to determine their substrate.
 
 ### The Triviality Objection
 
 "Everything is compatible with the simulation hypothesis, so it explains nothing."
 
-The simulation hypothesis is speculative metaphysics, not empirical science. It cannot be falsified with current methods. If all you want is empirical purchase on the mind-body problem, this hypothesis provides none.
+The simulation hypothesis is speculative metaphysics, not empirical science. It cannot be falsified with current methods.
 
 But triviality requires sameness, not just compatibility. The simulation hypothesis does specific diagnostic work that generic "everything might be different" claims do not:
 
@@ -151,9 +151,9 @@ What it cannot do: it doesn't explain consciousness (relocating the mystery is n
 
 ### Distinguishing From Cartesian Skepticism
 
-A natural objection: doesn't the simulation hypothesis merely repackage Descartes' evil demon? Both scenarios suggest our metaphysical assumptions might be wrong—so what does simulation add?
+A natural objection: doesn't the simulation hypothesis merely repackage Descartes' evil demon?
 
-The difference is structural specificity, and it yields a conclusion generic skepticism cannot reach: a *sorting* of assumptions into contingent and robust. Cartesian skepticism and brain-in-a-vat scenarios are purely destructive—they say "everything might be wrong" without specifying *how* it could be otherwise. A Cartesian demon could deceive us about anything, including logic and mathematics, which is precisely why demon scenarios lack diagnostic power. Every belief becomes equally suspect and no internal differentiation is possible.
+The difference is structural specificity, and it yields a conclusion generic skepticism cannot reach: a *sorting* of assumptions into contingent and robust. Cartesian demon skepticism is purely destructive—it says "everything might be wrong" without specifying *how* it could be otherwise. Descartes' deceiver could mislead him about anything short of his own existence, the simplest arithmetic included, which is why demon scenarios lack diagnostic power. Every belief about the world becomes equally suspect and no internal differentiation is possible.
 
 A concrete case shows what the simulation move adds. The [locality](/concepts/locality/) objection to mind-matter interaction presupposes that spatial distance is a fundamental barrier information must cross. Under simulation, spatial relationships are represented data and locality becomes an implementation choice; under Cartesian skepticism, locality might be wrong but so might logic, so the reasoning used to deploy the objection is also undermined and no conclusion survives. The simulation hypothesis lets us say that *this* feature (locality, causal closure, single quantum outcomes) is the kind of thing a substrate could vary, while *that* feature (logical structure, mathematical truths, the inferential structure of the argument itself) would persist regardless of substrate. The Cartesian demon, having no constraints, cannot draw this line at all.
 
@@ -163,7 +163,7 @@ A concrete case shows what the simulation move adds. The [locality](/concepts/lo
 
 From the Map's perspective, this challenge faces a regress. If simulated beings have quasi-phenomenal states, then either: (1) the quasi-phenomenal is itself simulated, but misrepresentation requires something to be misrepresented *to*—the [zombie reformulation](/concepts/philosophical-zombies/) applies; or (2) the quasi-phenomenal operates at the substrate level, but then the delusion is a real phenomenal state and illusionism hasn't eliminated phenomenality, only relocated it.
 
-From the Map's dualist standpoint, the simulation hypothesis poses a question for illusionism: simulating an illusion that depends on *seeming* requires implementing whatever makes seeming possible. An illusionist would respond that "seeming" is a functional state that computation straightforwardly implements—so the force of this challenge depends on whether functional replication of seeming exhausts what needs explaining.
+The simulation hypothesis also poses a question for illusionism: simulating an illusion that depends on *seeming* requires implementing whatever makes seeming possible. An illusionist would respond that "seeming" is a functional state that computation straightforwardly implements—so the force of this challenge depends on whether functional replication of seeming exhausts what needs explaining.
 
 ## What Would Challenge This View?
 
@@ -179,23 +179,23 @@ The simulation hypothesis would be undermined or significantly constrained if:
 
 The hypothesis functions as a diagnostic tool for examining assumptions. Many objections to interactionist dualism presuppose a metaphysical picture that the simulation framework reveals as contingent. "Revealing assumptions as contingent" is more modest than "answering objections"—the objections may still hold within our experienced reality—but showing they are not logically necessary is specific philosophical work.
 
-Whether or not we are simulated, the *possibility* of simulation illuminates what's truly necessary versus merely assumed in our metaphysics. That illumination—modest but genuine—is the hypothesis's contribution to the Map.
+Whether or not we are simulated, the *possibility* of simulation illuminates what's truly necessary versus merely assumed in our metaphysics.
 
 ## Further Reading
 
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge to consciousness and how simulation tests it
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments and what they reveal about simulation
-- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How choice phenomenology aligns with simulation over many-worlds
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — What choosing is like, and why it does not discriminate between single outcomes and branching
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The interface between consciousness and neural processing
 - [locality](/concepts/locality/) — How simulation reframes spatial coordination concerns
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The broader question of quantum selection
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interaction
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Why the Map favours single-outcome interpretations
-- [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why probability requires consciousness yet consciousness fails at probability
+- [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why assigning probabilities requires a subject who reasons poorly about them
 - [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) — The formal cumulative case against MWI
 - [measurement-problem](/concepts/measurement-problem/) — Where quantum indeterminacy meets observation
 - [ai-consciousness](/topics/ai-consciousness/) — Implications for digital consciousness
-- [haecceity](/concepts/haecceity/) — The indexical identity problem that simulation resolves
+- [haecceity](/concepts/haecceity/) — The indexical identity question behind the Map's rejection of many-worlds, which simulation leaves open
 - [decoherence](/concepts/decoherence/) — The timescale objection and its application within simulations
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Formal limits that constrain simulated minds
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are natural or engineered

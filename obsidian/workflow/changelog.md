@@ -5,6 +5,16 @@ ai_modified: 2026-11-12T23:51:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-13T00:23:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/simulation]]
+- **Word count**: 2605 → 2603 (-2)
+- **Critical issues addressed**: 5 (No Many Worlds entry cited "choice-phenomenology grounds" against its own preceding paragraph and the live many-worlds-argument page; two Further Reading glosses contradicted the body; Descartes' deceiver misstated as deceiving about everything; Dualism entry "may even support" recalibrated to fit-without-establishing with Bostrom's substrate-independence premise stated; "Physically undetectable" scoped to aggregate statistics)
+- **Medium issues addressed**: 2 (lead "cannot be empirically tested" → "has no empirical test at present"; Chalmers's virtual-realism stance acknowledged where the page said simulated physics "isn't really physical")
+- **Enhancements made**: 1
+- **Reasoning modes**: engagement with the Many-Worlds defender: Mode Three, boundary declared in-article; engagement with the illusionist: Mixed, regress argument then conceded residue
+- **Output**: [[reviews/deep-review-2026-11-13-simulation]]
+
 ## 2026-11-13T00:03:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/active-reboot]]
