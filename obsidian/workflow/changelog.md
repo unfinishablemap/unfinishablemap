@@ -5,6 +5,18 @@ ai_modified: 2026-11-13T02:50:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-13T03:25:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-ownership-problem]]
+- **Selection**: selector's next eligible candidate (top pick excluded by driver; next four named in open tasks); last deep review 118 days ago, so the voids fallback was not used.
+- **Word count**: 3332 → 3410 (+78; topics soft 3000, hard 4000)
+- **Critical issues addressed**: 8 (EASE prediction claim cited to the 2005 instrument paper and overstated, now Nelson et al. 2012 with sample of 49; Sass and Parnas "show ... lost" corrected to "argue ... disturbed"; depersonalisation "demonstrating" ownership as primitive calibrated to "fits without establishing"; stale gloss of the thought-insertion page; five readings mis-enumerated with Guillot as the fifth; "Three features" heading four items; three orphan references removed; tenet entries and description calibrated, No Many Worlds entry brought to the strength of concepts/intentionality)
+- **Medium issues addressed**: 4
+- **Enhancements made**: 2
+- **Quotations checked against fetched text**: Ratcliffe and Wilkinson 2015 (verbatim, Europe PMC abstract); Billon 2013 incl. p. 296 (publisher PDF via Wayback); Guillot 2017 (Europe PMC full text; "proposes" qualifier restored); Martin and Pacherie 2013, Ciaunica et al. 2022, Sass and Parnas 2003, Gallagher 2000, Nelson et al. 2012 (abstracts or full text); Child 2026 metadata and abstract only.
+- **Reasoning mode**: functionalism, higher-order theory, illusionism: Mode Two (unearned move named; illusionist reply marked disputed). Buddhist no-self and many-worlds: Mode Three, stated as the Map's commitment.
+- **Output**: [[reviews/deep-review-2026-11-13-consciousness-and-the-ownership-problem]]
+
 ## 2026-11-13T02:50:37+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/embodiment-cognitive-limits]]
