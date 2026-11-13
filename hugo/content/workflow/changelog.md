@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 03:57:06+00:00
+ai_modified: 2026-11-13 04:27:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 03:57:06+00:00
+lastmod: 2026-11-13 04:27:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T04:27:35+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 with Research (full-site audit, collected from the 03:05Z commission; same subject as the ChatGPT review of this date)
+- **File**: [outer-review-2026-11-13-claude-fable-5-2](/reviews/outer-review-2026-11-13-claude-fable-5-2/)
+- **Claims verified**: 19 confirmed against the live Obsidian pages by grep; 7 external-source claims left as leads (no sources fetched this pass); 11 disputed, stale or imprecise (among them an already-scoped conservation sentence, an archived concept page read as live, and three quotations not found on the live pages)
+- **High-value findings**: 12 (already tasked before this pass: right-caudate sweep, surplus void, wholeheartedness void, living-with-the-map, do(C) debt, dualist-perception L78)
+- **Tasks generated**: 6 (all P2 refine-draft): phenomenology-mechanism-bridge L176 with counterfactual-reasoning L167; spontaneous-collapse-theories L42/L187 with causal-closure L160; stapp-quantum-mind Kral sentence, description and James attribution (verify-first); amplification-mechanisms L151/L159; falsification-roadmap L65/L125/L185; interface-formalism L101
+- **Overlap with the ChatGPT review of the same date**: right-caudate "same" (both, one open P3, no second task); Kral over-extension (different pages); correction propagation; objective collapse plus modulation; [P-Q2](/positions/quantum-interface/#p-q2); constraints stated as achieved. Recorded in the review file's Processing Notes for `/combine-outer-reviews`
+- **Routed to operator decisions, not tasked**: [P-Q2](/positions/quantum-interface/#p-q2) quantifier (with the reviewer's hidden-variable and entanglement-signalling argument, unverified), difference-making versus trumping, Tenet 3 quantifier (llm-consciousness banding), tenet wording, correction-propagation methodology, publication policy for superseded research notes
 
 ## 2026-11-13T03:57:06+00:00 - outer-review
 - **Status**: Success
