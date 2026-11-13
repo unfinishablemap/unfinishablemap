@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 20:56:11+00:00
+ai_modified: 2026-11-13 21:05:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 20:56:11+00:00
+lastmod: 2026-11-13 21:05:04+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-13T21:05:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [types-of-consciousness](/concepts/types-of-consciousness/) (secondary: [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/))
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Review file**: [outer-review-2026-11-13-gemini-3-1-pro](/reviews/outer-review-2026-11-13-gemini-3-1-pro/) (section 4, conclusion item 3)
+- **Word count**: types-of-consciousness 2494 → 2516 (+22; concepts soft 2500 / hard 3500; now soft_warning). structural-varieties 3010 → 3019 (+9; topics soft 3000 / hard 4000; soft_warning).
+- **Changes**: (1) types-of-consciousness L101: "split-brain cases demonstrate that unity can fracture" now reads that the cases "raise the possibility that unity can fracture, but the evidence leaves open what divides: only perception and inter-hemispheric access, or experience itself". This matches `topics/split-brain-consciousness` L68 (findings underdetermined), L74 (Pinto et al. 2017, "divided perception but undivided consciousness"), L78 (Schechter and Bayne 2021: unity of agency, not of experience) and L150 ("whether experience divides stays open"), and `concepts/unity-of-consciousness` L91. The split-brain link now points at `split-brain-consciousness`, where the evidence is discussed, and the `unity-of-consciousness` link moved to "unified" as a piped link at no word cost. L103's *Fragmented* bullet is tagged "(one reading of the split-brain evidence)", so it stays a possible variation, not an observed one. (2) structural-varieties L67 made the same claim in stronger form ("severing the corpus callosum produces two semi-independent streams of consciousness"). It now reads "divides perception, though whether it yields two streams of consciousness or one whose inter-hemispheric access is disrupted remains [contested]" and links `split-brain-consciousness`. The conditional "If unity can fracture in biological systems…" that follows still holds.
+- **Not imported**: the reviewer's claims that the Map ignores Pinto and de Haan, and that unified consciousness was "unequivocally proved" (the review's Verification Notes rate both as false or overstated). Pinto et al. 2023 (*Front. Hum. Neurosci.* 17, 1278025) is not cited because its text was not read. The open P3 on types-of-consciousness L80 was not touched.
+- **Published**: yes
+
 ---
 
 ## 2026-11-13T20:56:11+00:00 - deep-review

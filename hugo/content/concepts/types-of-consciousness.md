@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-11-09 02:21:19+00:00
+ai_modified: 2026-11-13 21:03:58+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 06:13:00+00:00
-lastmod: 2026-11-09 02:21:19+00:00
+lastmod: 2026-11-13 21:03:58+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -102,9 +102,9 @@ Beyond listing features, consciousness types can vary along structural dimension
 - *Wide and shallow* — diffuse awareness of many items simultaneously
 - *Variable* — bandwidth that shifts dynamically
 
-**Unity.** Human consciousness is normally unified — a single field of experience. But [split-brain cases](/concepts/unity-of-consciousness/) demonstrate that unity can fracture. Possible variations include:
+**Unity.** Human consciousness is normally [unified](/concepts/unity-of-consciousness/) — a single field of experience. [Split-brain cases](/topics/split-brain-consciousness/) raise the possibility that unity can fracture, but the evidence leaves open what divides: only perception and inter-hemispheric access, or experience itself. Possible variations include:
 - *Unified* — single experiential field (human default)
-- *Fragmented* — multiple independent experiential streams
+- *Fragmented* — multiple independent experiential streams (one reading of the split-brain evidence)
 - *Distributed* — awareness spread across a system without a centre (Birch's "Shoggoth Hypothesis")
 
 ## AI Consciousness: Speculative Phenomenology
