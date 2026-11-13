@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the cause of our own amusement is hidd
 created: 2026-09-28
 modified: 2026-10-11
 human_modified: null
-ai_modified: 2026-11-11T00:03:17.720588+00:00
+ai_modified: 2026-11-13T15:59:09+00:00
 draft: false
 topics:
   - "[[the-comic-and-humor-as-an-aesthetic-category]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[research/voids-mirth-void-2026-09-23]]"
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-28
 last_curated: null
 embedded_videos:
@@ -52,7 +52,7 @@ This article is deliberately narrow. Whether mirth is an irreducible felt qualit
 
 Three findings fix the shape of the void. The first is the stimulation case above; its primary text was not available for this article, so the Map follows secondary descriptions, does not quote the patient's words, and relies only on the modest claim that a physically caused laugh received a context-bound, trial-varying explanation. Chudler's account, cited below, treats the order as abnormal ("Most people first know what is funny, then they laugh"), so the case shows that a reason *can* come afterwards, not that it usually does.
 
-The second is that laughter and mirth come apart under direct stimulation. Caruana and colleagues (2015) report ten patients in whom stimulation of the pregenual anterior cingulate cortex elicited laughter; "in half of the patients ES elicited a clear burst of laughter with mirth, while in the other half mirth was not evident." The motor act can be produced without evident feeling. No theory disputes that the behaviour is not the feeling, but it follows that laughter seen from outside is an unreliable sign of mirth within. Gelastic seizures, in which laughter can occur without amusement, are a likely further dissociation case the Map has not yet examined.
+The second is that laughter and mirth come apart under direct stimulation. Caruana and colleagues (2015) report ten patients in whom stimulation of the pregenual anterior cingulate cortex elicited laughter; "in half of the patients ES elicited a clear burst of laughter with mirth, while in the other half mirth was not evident." The motor act can be produced without evident feeling. No theory disputes that [[weeping-void|the behaviour is not the feeling]], but it follows that laughter seen from outside is an unreliable sign of mirth within. Gelastic seizures, in which laughter can occur without amusement, are a likely further dissociation case the Map has not yet examined.
 
 The third is that much ordinary laughter is not a response to anything funny. Provine (1993) logged about 1,200 laugh episodes in everyday conversation and found that over 99% fell at pauses at the end of phrases or sentences, a "punctuation effect", and that laughter followed material that did not seem humorous outside its conversational context. People laugh on a timing schedule they do not notice, often to social rather than comic cues. Much of this is plausibly the non-Duchenne kind that Gervais and Wilson (2005) distinguish from emotional Duchenne laughter; if so, it is laughter without mirth, not mirth with an invented reason. Provine did not ask laughers for reasons.
 

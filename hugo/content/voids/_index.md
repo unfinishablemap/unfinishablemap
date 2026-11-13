@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-12 14:07:35+00:00
+ai_modified: 2026-11-13 15:58:54+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-11-12 14:07:35+00:00
+lastmod: 2026-11-13 15:58:54+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -125,6 +125,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [The Categorical Perception Void](/voids/categorical-perception-void/) — physicalist and dualist alike owe an account of why the readout is the category when the gradient is kept.
 - [The Taboo Void](/voids/taboo-void/) — thoughts a mind can form but refuses to weigh are a psychological finding physicalists and dualists alike owe an account of.
 - [The Mirth Void](/voids/mirth-void/) — the laugher's bounded access to the trigger holds whether mirth is a quale or a reward.
+- [The Weeping Void](/voids/weeping-void/) — the crier's bounded view of what her tears are for, what they are about and whether they helped rests on clinical and laboratory findings that hold on any view of what tears express.
 - [The Cross-State Void](/voids/cross-state-void/) — that representing a state and being in it come apart is a finding every theory must accommodate.
 - [The Blindspot Void](/voids/blindspot-void/) — its doxastic and global layers are theorems of epistemic logic, neutral between dualism and physicalism.
 - [The Assent Void](/voids/assent-void/) — believing-at-will is excluded by the concept of belief on the dominant view, and the timing question is contested within cognitive psychology, so a physicalist and a dualist describe the same blank; seam untested.
@@ -226,6 +227,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Observer-Selection Void](/voids/observer-selection-void/) — Why a mind cannot tell what its existence as this observer is evidence of: three faces (rule / class / instability) meeting on one question. Every self-locating updating rule has a reductio its defenders accept (SSA → Doomsday, SIA → the Presumptuous Philosopher; Bostrom 2002), the reference class is a class of conscious subjects and so presupposes the [other-minds](/concepts/problem-of-other-minds/) answer, and some cosmologies "cannot simultaneously be true and justifiably believed" (Carroll 2020). Makes a demand on Tenet 4 rather than supporting it: the indexical objection holds as identity, never as credence. Upstream of [simulation detection](/voids/simulation-detection-void/); near relative of [the blindspot void](/voids/blindspot-void/) (created 2026-10-14)
 - [The Boredom Void](/voids/boredom-void/) — Why boredom demands a change of engagement, naming no particular target, and presents a failed engagement as a dullness in the object: four faces (objectless feeling / projection / self-supply and forecast / examination, the last only under the attentional definition). An opportunity-cost model accommodates the objectless face, so the void weighs little for dualism; neighbour of [mood](/voids/mood-void/) and [mattering](/voids/mattering-void/) at profound boredom (created 2026-10-31)
 - [The Chroma Void](/voids/chroma-void/) — Why most listeners hold absolute-pitch information they cannot recognise as a note, and why no agreed test tells a heard chroma from a fast label: four faces (latent / template, contested / report / calibration)
+- [The Weeping Void](/voids/weeping-void/) — Why science has no settled account of what emotional tears are for, and why the crier has no privileged view of what hers are about or whether crying helped: four faces (function / occasion / relief / will), two of them shared with the mirth void
 
 ### Phenomenology of Limits
 
@@ -321,6 +323,7 @@ Twenty-nine voids surveyed since 2026-02 have research notes; all but the four m
 - **[The Numbing Void](/research/voids-numbing-void-2026-10-02/)** — *Published* (2026-10-03) as [numbing-void](/voids/numbing-void/). Felt concern registers that someone suffers and loses resolution about how many (Fetherstonhaugh et al. 1997; Hsee & Rottenstreich 2004); part of the plateau is motivated, proactive regulation (Cameron & Payne 2011); and no subject undergoes the sum (Lewis 1940). The article calibrates the note's empirical record (no significant group-size effect on empathetic concern, Butts et al. 2019; a modest identifiable-victim effect that failed a hypothetical-donation replication, Maier et al. 2024) and replaces the note's Tenet 4 line with a symmetric caution, aligning the void with the Map's registered additive aggregation.
 - **[The Observer-Selection Void](/research/voids-observer-selection-void-2026-10-11/)** — *Published* (2026-10-14) as [observer-selection-void](/voids/observer-selection-void/). What my being this observer is evidence of has no agreed updating rule: SSA yields Doomsday and SIA the Presumptuous Philosopher (Bostrom 2002), Sleeping Beauty is unresolved since Elga (2000) and Lewis (2001), and the rules converge only in idealised fine-tuning settings (Isaacs, Hawthorne & Russell 2022). The reference class is a class of conscious subjects (Standish 2013; Saad 2025; Elga 2024 MS), and Boltzmann-brain cosmologies are cognitively unstable (Carroll 2020) in a way Kotzen (2020) and Dogramaci & Schoenfield (2025) deflate. The article states the void's demand on Tenet 4 in its lead: the Map's indexical objection is safe as identity and forbidden as credence.
 - **[The Chroma Void](/research/voids-chroma-void-2026-11-10/)** — *Published* (2026-11-10) as [chroma-void](/voids/chroma-void/). Ordinary listeners retain absolute-pitch information without recognising or naming a note (Schellenberg & Trehub 2003; a six-lab replication shrank Levitin's 44% to 25%, Frieler et al. 2013). In Deutsch's tritone paradox a hidden absolute may decide whether a tone pair rises or falls, an account contested by Repp (1994) and by context effects (Chambers et al. 2017). On one researcher's account, possessors give "no informative answers" beyond sol-fa syllables (Miyazaki 2019), and adults trained to AP-level naming cannot be certified, since genuine AP "remains an untestable hypothesis" (Wong et al. 2020).
+- **[The Weeping Void](/research/voids-weeping-void-2026-11-13/)** — *Published* (2026-11-13) as [weeping-void](/voids/weeping-void/). High-frequency stimulation through one deep-brain electrode contact produced tears with sincere reasons ("I'm crying over myself, of course"; Bejjani et al. 1999, as quoted by Schildkrout), and pathological crying is "a disorder of emotional expression rather than a primary disturbance of feelings" (Parvizi et al. 2001). Laboratory criers feel worse at once and return to baseline by 20 minutes (Gračanin et al. 2015), a recovery that "may be misperceived as a real mood improvement" (Gračanin et al. 2014), and the function of emotional tears is still debated (Zickfeld & Wróbel 2023). Plessner's account of crying as the answer given at the limit of conduct, read through Rasini (2013), supplies a possibly unexplorable core.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-11-13 01:04:38+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2
+ai_modified: 2026-11-13 15:59:09+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/resonance-void/
@@ -27,7 +27,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 01:04:37+00:00
-lastmod: 2026-11-13 01:04:38+00:00
+lastmod: 2026-11-13 15:59:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -128,7 +128,7 @@ Approaching the ineffable encounter has a distinctive signature, sharpening as t
 
 - **Arrival without approach.** The experience appears suddenly, without a gradient of "getting closer."
 - **Excess of meaning.** A surplus persists after analysis. Understanding something enormous seems to have occurred, but articulating *what* proves impossible.
-- **Bodily knowledge.** The body responds with its own vocabulary—frisson, tears, expansion in the chest—read as meaningful without knowing why. [Musical understanding](/topics/phenomenology-of-musical-understanding/) is the paradigm: listeners grasp non-propositional meaning, and the body participates before cognition can articulate.
+- **Bodily knowledge.** The body responds with its own vocabulary—frisson, [tears](/voids/weeping-void/), expansion in the chest—read as meaningful without knowing why. [Musical understanding](/topics/phenomenology-of-musical-understanding/) is the paradigm: listeners grasp non-propositional meaning, and the body participates before cognition can articulate.
 - **Self-undermining attention.** Analysing the experience while having it tends to dissolve it—the [mutation pattern](/voids/mutation-void/) applied, catalogued as [dissolution under attention](/voids/compound-failure-signatures/) and producing the phenomenology of *having-had-and-lost* rather than of reaching and not finding.
 - **Transformation without instruction.** Encounters change the experiencer without providing explicit content.
 - **Evaluator dissolution** (numinous only). The subject–object distinction collapses; the self that would judge veridicality is what the experience overwhelms.

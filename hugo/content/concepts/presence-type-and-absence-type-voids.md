@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-10-24 19:32:40+00:00
+ai_modified: 2026-11-13 15:59:09+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 19:32:40+00:00
-lastmod: 2026-10-24 19:32:40+00:00
+lastmod: 2026-11-13 15:59:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -86,7 +86,7 @@ Paradigm cases:
 
 The affective and phenomenal quality voids show these features too, paired with an absence; they are [hybrids](#hybrid-and-marginal-cases).
 
-The phenomenology is the opposite of quiet. It is characteristically *saturated*: the body registers what the intellect cannot yet process—frisson, tears, a sense of weight or rightness—while the analytical faculty searches for a handle the experience does not afford.
+The phenomenology is the opposite of quiet. It is characteristically *saturated*: the body registers what the intellect cannot yet process—frisson, [tears](/voids/weeping-void/), a sense of weight or rightness—while the analytical faculty searches for a handle the experience does not afford.
 
 ## Dissolution Under Attention
 

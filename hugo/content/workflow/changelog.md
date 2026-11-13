@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 14:50:06+00:00
+ai_modified: 2026-11-13 16:01:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 14:50:06+00:00
+lastmod: 2026-11-13 16:01:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T16:01:40+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Weeping Void (what a crier can know of her own tears: function / occasion / relief / will)
+- **Output**: [weeping-void](/voids/weeping-void/)
+- **Word count**: 2817 total by analyze_length (prose to Further Reading 2295; Further Reading + references 522); voids hard 3,000, headroom 182
+- **Based on research**: yes, [voids-weeping-void-2026-11-13](/research/voids-weeping-void-2026-11-13/) (angle 1: lead with the Bejjani deep-brain-stimulation case via Schildkrout, widen to four faces; two faces shared with [mirth-void](/voids/mirth-void/) stated in one sentence each)
+- **Section count**: voids 119/125 by `count_section_files` before writing
+- **Guards applied**: Darwin's "yet" kept with "purposeless"; chemosignal given as Gelstein 2011 + failed Gračanin 2017 replication + Agron 2023, called an open dispute; relief stated as the crier's inability to tell help from recovery, with the 2014 review's "converging evidence for the direct, self-soothing effects of crying" kept; tears said not to carry their valence (no claim criers confuse joy and grief); Bejjani quotations attributed to Schildkrout; Plessner paraphrased "as Rasini (2013) presents him", no English sentence printed as his; Plessner declared non-metaphysical and not enlisted for Dualism; "unique to humans" only as Zickfeld & Wróbel's "most likely"; cultivated voluntary mourning tears (Darwin) given against "tears cannot be willed"; "I don't know why I'm crying" labelled folk testimony; tenet connection limited to Occam's Razor Has Limits (case) and the two-way caution under Bidirectional Interaction. All 48 quoted strings grep-verified in the research note; no work on the note's "Not read" list cited for a finding
+- **Inbound links**: [voids](/voids/) (framework-independent list after mirth, Specific Voids list after chroma, research-stage list Published entry); [emotional-epistemology-void](/voids/emotional-epistemology-void/) (one sentence in Phenomenology of the Edge, 2034→2073); [confabulation-void](/voids/confabulation-void/) (one clause in The Phenomenology, 2887→2902); [mirth-void](/voids/mirth-void/) (zero-cost piped link on "the behaviour is not the feeling", 3025 unchanged); [ineffable-encounter-void](/voids/ineffable-encounter-void/) and [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) (zero-cost piped link on "tears")
+- **Declined**: Aragón et al. 2015 regulation account and the Bejjani "Ms P" label (cut for length); Mori & Iwanaga 2017 (lead only); Rottenberg et al. 2008 reframing quotation (secondary, untagged in the note)
 
 ## 2026-11-13T14:50:06+00:00 - apex-evolve
 - **Status**: Complete

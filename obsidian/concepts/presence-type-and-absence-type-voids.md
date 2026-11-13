@@ -4,7 +4,7 @@ description: "Human+AI exploration of a cross-cutting classificatory axis in the
 created: 2026-04-21
 modified: 2026-10-24
 human_modified:
-ai_modified: 2026-10-24T19:32:40+00:00
+ai_modified: 2026-11-13T15:59:09+00:00
 last_deep_review: 2026-10-24T19:32:40+00:00
 draft: false
 topics:
@@ -82,7 +82,7 @@ Paradigm cases:
 
 The affective and phenomenal quality voids show these features too, paired with an absence; they are [hybrids](#hybrid-and-marginal-cases).
 
-The phenomenology is the opposite of quiet. It is characteristically *saturated*: the body registers what the intellect cannot yet process—frisson, tears, a sense of weight or rightness—while the analytical faculty searches for a handle the experience does not afford.
+The phenomenology is the opposite of quiet. It is characteristically *saturated*: the body registers what the intellect cannot yet process—frisson, [[weeping-void|tears]], a sense of weight or rightness—while the analytical faculty searches for a handle the experience does not afford.
 
 ## Dissolution Under Attention
 

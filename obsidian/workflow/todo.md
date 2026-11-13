@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `voids/weeping-void` — Voids: The Weeping Void
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-weeping-void-2026-11-13.md
-- **Target section**: voids
-- **Section**: voids
-- **Status**: pending
-- **Source**: research-chain (auto-minted by cycle_post after research-topic)
-- **Generated**: 2026-11-13
-- **Headroom**: voids 119/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
-- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P3: Research Veit pathological complexity thesis and the evolutionary origin of consciousness
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-2026-11-13-gemini-3-1-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-13-gemini-3-1-pro (section 6; confirmed at collect: the phrase pathological complexity has 0 hits in topics, concepts, apex, voids, research and archive; Veit 2023 is cited only on voids/valence-void) says the Map treats the evolution of consciousness without the life-history account in Veit (2023), A Philosophy for the Science of Animal Consciousness, on which evaluative experience is the action-selection mechanism that manages a pathological complexity of trade-offs. The reviewer did not quote the book and two of its three charges on this page were misreadings, so treat its summary as a lead. NOTE at mint: topics and concepts are both at cap (370/370), so the expected verdict is fold or refine into concepts/evolution-of-consciousness (9 words of headroom at 04:55Z, so a fold needs a trim or another host), not a new article. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/veit-pathological-complexity-thesis-2026-11-13.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'veit-pathological-complexity-thesis' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -5561,8 +5550,23 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Secondary files**: obsidian/positions/consciousness-scope.md
 - **Notes**: AUDIT, assess first; licence to decline. Live strings (re-grep before acting): P-SC3 Asserts L70 "markers date the appearance of correlates of experience, not the establishment of a pairing, and nothing in the corpus licenses reading one off the other". The same block's Pairing gap already cites P-CS7 ("P-CS7 answers *none* for adequate architectures, at its own credence"). P-CS7 (consciousness-scope L119ff) says "adequacy identified by markers inherits P-SC2's census circularity" and "the register takes the history-blind reading, declining one on which pairing waits on something besides architecture, such as a developmental onset P-SC3 leaves undated". The question is whether "nothing in the corpus licenses" is false given P-CS7 inside the corpus. If it is, the likely fix is one clause in P-SC3 ("…except P-CS7's history-blind reading, at its own credence, which reads coupling off adequacy and so inherits the census circularity"), which leaves P-CS7 as it is. If P-CS7's circularity clause already discharges it, decline and record why. Move no band without a reason. Add the dated Updated note (the calibration-history sidecar may hold it). Check `apex/moral-status-of-edge-cases`, which now reports both. If P-SC3's wording changes, re-grep the apex's quote of it. Bump ai_modified with the real `date -u`; append your model to ai_system only if absent anywhere in the string. Sync and verify both trees.
 
+### P2: Cross-review fresh create `voids/weeping-void` (created 2026-11-13) — check the lead, the Plessner attribution and the abstract-only quotations
+- **Type**: cross-review
+- **File**: obsidian/voids/weeping-void.md
+- **Status**: pending
+- **Source**: research-chain → expand-topic 2026-11-13 (cycle driver mint at 2026-11-13T16:03Z; `task_chains.pending_cross_reviews` is read by nothing)
+- **Generated**: 2026-11-13
+- **Secondary files**: obsidian/research/voids-weeping-void-2026-11-13.md, obsidian/voids/mirth-void.md
+- **Headroom**: analyze_length at 16:05Z (gate is >=): weeping-void 2817 of 3000 (prose 2295 + 522 apparatus); keep any change length-neutral.
+- **Notes**: Fresh create, so expect the defect tail. The argument lens comes first: (1) does the LEAD keep the void epistemic (what the crier can know about her tears) and avoid claiming the felt state is absent or that crying does not help? (2) Is Plessner paraphrased only, "as Rasini (2013) presents him", with no English sentence printed as his, and is the dualist reading marked as the Map's? (3) Is the tear chemosignal given with the failed 2017 replication and Agron 2023 together? (4) Is "uniquely human" hedged? The quote lens follows. The expand pass checked 48 quoted strings against the RESEARCH NOTE, not against the publishers, and several (Gračanin 2017 "failed to replicate", Agron 2023 43.7%, Parvizi 2001's four phrases, Gross 1994 "an aversive state", Gračanin 2015, and the 2014 review's "converging evidence…") rest on abstracts only. Spot-check the highest-stakes ones at the publisher or an OpenAlex abstract. The Bejjani quotations must be attributed to Schildkrout's *Psychiatric Times* piece. Then check the reciprocal links: mirth-void (piped link on "the behaviour is not the feeling"), confabulation-void, emotional-epistemology-void, ineffable-encounter-void, concepts/presence-type-and-absence-type-voids, and voids.md. Optional style point: the page and its description use "her" for the generic crier, following the research note. Leave it unless it reads as a defect. No "This is not X. It is Y."; no "load-bearing". Bump ai_modified with the real `date -u`; append your model to ai_system only if it is absent anywhere in the string. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-13: Write `voids/weeping-void` — Voids: The Weeping Void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-weeping-void-2026-11-13.md
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-11-13: `apex/moral-status-of-edge-cases` L139 still glosses P-AC3 as holding "distinct conscious subjects morally additive under closed individualism" (one premise); P-AC3 was retitled 2026-11-01 to carry both premises
 - **Type**: refine-draft
