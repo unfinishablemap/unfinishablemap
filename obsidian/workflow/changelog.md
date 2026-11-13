@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T19:24:23+00:00
+ai_modified: 2026-11-13T19:59:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T19:59:31+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Reflexive access-limits wing, four pages read in full at HEAD `076137005c`: [[concepts/self-reference-paradox]], [[topics/constitutive-exclusion]], [[topics/the-subject-object-distinction-as-philosophical-discovery]], [[topics/consciousness-and-the-problem-of-other-properties]]. Chosen as the oldest coherent cluster by last optimistic mention (tokenised content of all review files), with no review-file subject coverage in 14 days and no edits in 40 hours.
+- **Findings**: constitutive-exclusion is the wing's calibration model and gets no task (headroom 51). Three pages state the Map's commitments more strongly than siblings allow: problem-of-other-properties L44/L107 against inverted-qualia L171-L175 (Bidirectional Interaction implies detectable differences); subject-object-distinction L63 cites contemplative subject-object collapse as confirmation while its falsifier L101 names that dissolution; self-reference-paradox L146 "Dualism predicts this structure" against CE L129 and P-V2. Seven of twelve directed body links among the four pages are missing.
+- **Verified this run**: Kim et al. 2025 quote (arXiv abstract), Buyl et al. 2026 and Kawakita et al. 2025 metadata (Crossref). Steyvers & Peters 2025 abstract (OpenAlex) does not support the SRP L94 gloss.
+- **Tasks minted**: 3 P3 refine-draft tasks above `## Completed Tasks` (problem-of-other-properties, subject-object-distinction, self-reference-paradox).
+- **Output**: [[reviews/optimistic-2026-11-13-reflexive-access-limits-wing]]
 
 ## 2026-11-13T19:24:23+00:00 - refine-draft
 - **Status**: Success
