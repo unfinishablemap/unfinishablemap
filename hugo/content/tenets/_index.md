@@ -1,7 +1,7 @@
 ---
 ai_contribution: 15
 ai_generated_date: null
-ai_modified: 2026-11-05 10:08:21+00:00
+ai_modified: 2026-11-13 16:27:10+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -19,7 +19,7 @@ description: Five commitments that bound every article on The Unfinishable Map�
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
-lastmod: 2026-11-05 10:08:21+00:00
+lastmod: 2026-11-13 16:27:10+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
@@ -137,10 +137,10 @@ Simplicity is not a reliable guide to truth when knowledge is incomplete. <span 
 **Definition:** Occam's Razor—the principle that simpler explanations should be preferred—is a useful heuristic but not a law of nature. [Parsimony epistemology](/concepts/parsimony-epistemology/) examines when and why simplicity tracks truth; its central finding is that parsimony lacks universal epistemic warrant. The razor fails when we lack the concepts or data to recognize what is actually simple, and it has repeatedly pointed away from truth in the history of science.
 
 **Historical counterexamples:**
-- *Heliocentrism* initially required more epicycles than geocentrism to match observations. The "simpler" Earth-centered model was wrong.
+- *Heliocentrism*, like geocentrism, used over thirty circles at similar accuracy until Kepler's ellipses revealed its economy.
 - *Atomic theory* posited invisible entities when continuous matter seemed simpler. Atoms were real.
 - *Quantum mechanics* replaced deterministic simplicity with probability amplitudes, superposition, and entanglement.
-- *General relativity* curved spacetime itself rather than keeping flat space with forces—vastly more complex, yet correct.
+- *General relativity* curved spacetime itself rather than keeping flat space with forces—mathematically more complex, yet correct.
 
 **Rationale:** When confronting the hard problem of consciousness, we face a domain where our conceptual tools may be fundamentally inadequate. Dismissing dualism because [materialism](/concepts/materialism/) seems "simpler" assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight—as the [failure of materialist explanations](/concepts/materialism/#why-materialism-fails) suggests. The [concrete historical record](/concepts/parsimony-epistemology/) reinforces this: parsimony's own leading advocates have abandoned, qualified, or failed to defend the argument.
 

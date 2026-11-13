@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-10-24 11:00:04+00:00
+ai_modified: 2026-11-13 16:27:10+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:58:00+00:00
-lastmod: 2026-10-24 11:00:04+00:00
+lastmod: 2026-11-13 16:27:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -134,7 +134,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 **What would falsify it**: A rigorous proof that parsimony reliably tracks truth across domains—that simpler theories are more likely correct not merely as a methodological heuristic but as a metaphysical fact. This would require establishing a deep connection between simplicity and reality that no philosopher has demonstrated. See [parsimony-epistemology](/concepts/parsimony-epistemology/) for the Map's detailed treatment of why this connection fails.
 
-**Honest assessment**: Tenet 5 is an epistemological position about scientific methodology rather than a scientific claim, supported by cumulative historical evidence (heliocentrism initially required more epicycles; atomic theory posited invisible entities; quantum mechanics replaced deterministic simplicity). The tenet removes a common objection to the other four tenets rather than making a testable prediction. The Map should present it as what it is: a well-evidenced philosophical thesis that parsimony lacks universal epistemic warrant, not a hypothesis awaiting experimental confirmation.
+**Honest assessment**: Tenet 5 is an epistemological position about scientific methodology rather than a scientific claim, supported by cumulative historical evidence (heliocentrism's economy awaited Kepler; atomic theory posited invisible entities; quantum mechanics replaced deterministic simplicity). The tenet removes a common objection to the other four tenets rather than making a testable prediction. The Map should present it as what it is: a well-evidenced philosophical thesis that parsimony lacks universal epistemic warrant, not a hypothesis awaiting experimental confirmation.
 
 ## The Falsification Asymmetry
 

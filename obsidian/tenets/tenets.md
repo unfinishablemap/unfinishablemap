@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-11-05
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-11-05T10:08:21+00:00
+ai_modified: 2026-11-13T16:27:10+00:00
 draft: false
 description: "Five commitments that bound every article on The Unfinishable Map—chosen starting points, not proofs, exploring consciousness and the limits of knowability."
 topics: []
@@ -133,10 +133,10 @@ Simplicity is not a reliable guide to truth when knowledge is incomplete. ^occam
 **Definition:** Occam's Razor—the principle that simpler explanations should be preferred—is a useful heuristic but not a law of nature. [[parsimony-epistemology|Parsimony epistemology]] examines when and why simplicity tracks truth; its central finding is that parsimony lacks universal epistemic warrant. The razor fails when we lack the concepts or data to recognize what is actually simple, and it has repeatedly pointed away from truth in the history of science.
 
 **Historical counterexamples:**
-- *Heliocentrism* initially required more epicycles than geocentrism to match observations. The "simpler" Earth-centered model was wrong.
+- *Heliocentrism*, like geocentrism, used over thirty circles at similar accuracy until Kepler's ellipses revealed its economy.
 - *Atomic theory* posited invisible entities when continuous matter seemed simpler. Atoms were real.
 - *Quantum mechanics* replaced deterministic simplicity with probability amplitudes, superposition, and entanglement.
-- *General relativity* curved spacetime itself rather than keeping flat space with forces—vastly more complex, yet correct.
+- *General relativity* curved spacetime itself rather than keeping flat space with forces—mathematically more complex, yet correct.
 
 **Rationale:** When confronting the hard problem of consciousness, we face a domain where our conceptual tools may be fundamentally inadequate. Dismissing dualism because [[concepts/materialism]] seems "simpler" assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight—as the [[concepts/materialism#Why Materialism Fails|failure of materialist explanations]] suggests. The [[parsimony-epistemology|concrete historical record]] reinforces this: parsimony's own leading advocates have abandoned, qualified, or failed to defend the argument.
 

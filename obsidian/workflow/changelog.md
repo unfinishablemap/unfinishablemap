@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T16:01:40+00:00
+ai_modified: 2026-11-13T16:27:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T16:27:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted historical-illustration fix)
+- **Review**: [[reviews/outer-review-2026-11-13-chatgpt-5-6-sol-pro]] §4 Tenet 5 (item 5 of its Processing Notes)
+- **Verified at source** (curl, raw text grepped, two sources): Kuhn, *The Copernican Revolution* (1957), p. 169 (archive.org djvu text): "Both employed over thirty circles; there was little to choose between them in economy. Nor could the two systems be distinguished by their accuracy." Same page: Copernicus's seven-circle qualitative system "must seem the more economical", but "this apparent economy ... is largely an illusion". pp. 212–213: "Kepler's system of six ellipses made sun-centered astronomy work, displaying simultaneously the economy and the fruitfulness implicit in Copernicus' innovation." Singham, "The Copernican myths", *Physics Today* 60(12), 2007, doi:10.1063/1.2825071, quotes the same Kuhn sentences, so the reviewer's "Physics Today" figure is Kuhn's. Neither source supports "more epicycles than geocentrism" or a "simpler" Earth-centred model.
+- **Changes**: L136 heliocentrism bullet rewritten to "like geocentrism, used over thirty circles at similar accuracy until Kepler's ellipses revealed its economy" (now agrees with `arguments/epistemological-limits-of-occams-razor` L72); L139 "vastly more complex" → "mathematically more complex" (dimension named). Secondary loci aligned to "heliocentrism's economy awaited Kepler": [[the-steelman-for-process-monism]] L87 (tail "a record of the simpler theory being wrong" → "a record of simplicity failing as a guide", since the heliocentrism case no longer shows a simpler theory being wrong), [[tenet-falsification-conditions]] L90, [[falsification-roadmap-for-the-interface-model]] L133 (only that sentence).
+- **Word count** (analyze_length): tenets 6787 → 6787; steelman 2793 → 2792; tenet-falsification-conditions 2385 → 2384; falsification-roadmap 3998 → 3997
+- **Not touched**: Tenet 5 headline, Definition, Rules-out clause, the other tenets; the blocked 2026-09-19 NEEDS-HUMAN parsimony-tiebreaker entry
+- **Operator note**: the Definition still says the razor "has repeatedly pointed away from truth". The corrected heliocentrism bullet now illustrates its first clause (lacking the concepts to recognise what is simple), not misdirection. Live pages outside this task still say geocentrism was the simpler theory: `concepts/parsimony-epistemology` L80, `concepts/philosophy-of-science-under-dualism` L66, `apex/dualism-cartography` L115 (`topics/causal-closure-debate-historical-survey` L131 says "seem simpler", which is easier to defend). Archive: `archive/concepts/parsimony-failure-consciousness` L88 and `archive/concepts/epistemological-limits-parsimony` L75 (both qualified "by the standards of its time").
+- **"more epicycles" sweep** (case-insensitive, obsidian/ + archive/): 0 live pages (was 4), 0 archive, 2 research notes left as dated records (not quoted live); the rest are reviews and todo.md
+- **Published**: yes
 
 ## 2026-11-13T16:01:40+00:00 - expand-topic
 - **Status**: Success

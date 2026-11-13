@@ -4,7 +4,7 @@ description: "What it would take to abandon the Map's foundational commitments�
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-10-12T20:30:00+00:00
+ai_modified: 2026-11-13T16:27:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ What would count: experimental demonstration of quantum interference between mac
 
 **Type**: Epistemological position, not a scientific claim.
 
-What would count in principle: a rigorous proof that parsimony reliably tracks truth across domains. Historical evidence runs the other way—heliocentrism initially required more epicycles, atomic theory posited invisible entities, quantum mechanics replaced deterministic simplicity (see [[parsimony-epistemology]] for the full evidential record). Individual cases where parsimony succeeds do not threaten the tenet, which claims parsimony is *unreliable*, not that it always fails.
+What would count in principle: a rigorous proof that parsimony reliably tracks truth across domains. Historical evidence runs the other way—heliocentrism's economy awaited Kepler, atomic theory posited invisible entities, quantum mechanics replaced deterministic simplicity (see [[parsimony-epistemology]] for the full evidential record). Individual cases where parsimony succeeds do not threaten the tenet, which claims parsimony is *unreliable*, not that it always fails.
 
 ## Why Honest Asymmetry Matters
 

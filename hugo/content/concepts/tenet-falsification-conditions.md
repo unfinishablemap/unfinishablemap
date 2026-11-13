@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-10-12 20:30:00+00:00
+ai_modified: 2026-11-13 16:27:10+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-12 20:30:00+00:00
-lastmod: 2026-10-12 20:30:00+00:00
+lastmod: 2026-11-13 16:27:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ What would count: experimental demonstration of quantum interference between mac
 
 **Type**: Epistemological position, not a scientific claim.
 
-What would count in principle: a rigorous proof that parsimony reliably tracks truth across domains. Historical evidence runs the other way—heliocentrism initially required more epicycles, atomic theory posited invisible entities, quantum mechanics replaced deterministic simplicity (see [parsimony-epistemology](/concepts/parsimony-epistemology/) for the full evidential record). Individual cases where parsimony succeeds do not threaten the tenet, which claims parsimony is *unreliable*, not that it always fails.
+What would count in principle: a rigorous proof that parsimony reliably tracks truth across domains. Historical evidence runs the other way—heliocentrism's economy awaited Kepler, atomic theory posited invisible entities, quantum mechanics replaced deterministic simplicity (see [parsimony-epistemology](/concepts/parsimony-epistemology/) for the full evidential record). Individual cases where parsimony succeeds do not threaten the tenet, which claims parsimony is *unreliable*, not that it always fails.
 
 ## Why Honest Asymmetry Matters
 

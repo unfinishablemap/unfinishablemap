@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-10-24T11:00:04+00:00
+ai_modified: 2026-11-13T16:27:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,7 +130,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 **What would falsify it**: A rigorous proof that parsimony reliably tracks truth across domains—that simpler theories are more likely correct not merely as a methodological heuristic but as a metaphysical fact. This would require establishing a deep connection between simplicity and reality that no philosopher has demonstrated. See [[parsimony-epistemology]] for the Map's detailed treatment of why this connection fails.
 
-**Honest assessment**: Tenet 5 is an epistemological position about scientific methodology rather than a scientific claim, supported by cumulative historical evidence (heliocentrism initially required more epicycles; atomic theory posited invisible entities; quantum mechanics replaced deterministic simplicity). The tenet removes a common objection to the other four tenets rather than making a testable prediction. The Map should present it as what it is: a well-evidenced philosophical thesis that parsimony lacks universal epistemic warrant, not a hypothesis awaiting experimental confirmation.
+**Honest assessment**: Tenet 5 is an epistemological position about scientific methodology rather than a scientific claim, supported by cumulative historical evidence (heliocentrism's economy awaited Kepler; atomic theory posited invisible entities; quantum mechanics replaced deterministic simplicity). The tenet removes a common objection to the other four tenets rather than making a testable prediction. The Map should present it as what it is: a well-evidenced philosophical thesis that parsimony lacks universal epistemic warrant, not a hypothesis awaiting experimental confirmation.
 
 ## The Falsification Asymmetry
 
