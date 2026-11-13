@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T16:45:20+00:00
+ai_modified: 2026-11-13T16:50:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T16:50:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted lead-calibration fix)
+- **Review**: [[reviews/outer-review-2026-11-13-chatgpt-5-6-sol-pro]] §3.8 (item 6 of its Processing Notes)
+- **Changes**: the lead (L95) no longer says the voids "tell a different story" and are "not scattered randomly ... but cluster". It now reads "taken together, they cluster around a single boundary: the point where consciousness meets the physical world—a pattern the Map's [[positions/voids-as-evidence|positions register]] reads as largely framework-internal coherence, its cumulative evidential weight suspended." That is one appositive clause in P-V1's own reading ("best read as framework-internal coherence") and P-V3's suspension (cumulative-weight step suspended pending the candidate ledger). It matches what the body says at L233 and in the frontmatter thesis at L92. It also removes the not-X-but-Y construct and the "not randomly" implication, which implied a chance null had been beaten even though the P-V3 ledger records the selection effect as uncontrolled. Pronoun check: the following "They sort into types" still resolves to the voids.
+- **Re-grepped live before editing** (count 1 each): apex L95 lead, L92 thesis "largely framework-internal coherence", L233 "P-V3's cumulative step stays suspended pending the candidate ledger"; `positions/voids-as-evidence` L31 "the misleading figure", L66 "cumulative-weight step *suspended*", P-V1 Asserts L43.
+- **Word count** (analyze_length): 4911 → 4912 (+1; apex hard 5,000)
+- **Not touched**: every void count (the open P3 on "roughly fifteen" versus the index count owns that; the apex's "roughly twenty" in the description, thesis, L179 and L231 is left for it), the candidate ledger (out of scope), the rest of the lead and the second paragraph.
+- **Sync**: verified in obsidian and hugo; the hugo link renders as `/positions/voids-as-evidence/`
+- **Published**: yes
 
 ## 2026-11-13T16:45:20+00:00 - deep-review
 - **Status**: Success

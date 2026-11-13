@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-11-12 19:34:33+00:00
+ai_modified: 2026-11-13 16:49:27+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-09-30 07:57:59+00:00
 apex_sources:
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:05:19+00:00
-lastmod: 2026-11-12 19:34:33+00:00
+lastmod: 2026-11-13 16:49:27+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -103,7 +103,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map catalogues over a hundred cognitive voids—places where understanding breaks down in structured, repeatable ways. Taken individually, each might be dismissed as a puzzle awaiting a cleverer philosopher; taken together, they tell a different story. The voids are not scattered randomly across human inquiry but cluster around a single boundary: the point where consciousness meets the physical world. They sort into types by *why* thought fails, into domains by *where*, and into signatures by *how*. This taxonomy reveals the architecture of the minds doing the mapping. The Map argues that it also reveals something about the territory being mapped—and this second move is where the argument is contested.
+The Unfinishable Map catalogues over a hundred cognitive voids—places where understanding breaks down in structured, repeatable ways. Taken individually, each might be dismissed as a puzzle awaiting a cleverer philosopher; taken together, they cluster around a single boundary: the point where consciousness meets the physical world—a pattern the Map's [positions register](/positions/voids-as-evidence/) reads as largely framework-internal coherence, its cumulative evidential weight suspended. They sort into types by *why* thought fails, into domains by *where*, and into signatures by *how*. This taxonomy reveals the architecture of the minds doing the mapping. The Map argues that it also reveals something about the territory being mapped—and this second move is where the argument is contested.
 
 The thesis is qualified rather than triumphant. Physicalism has no uniform prediction here: many physicalists already expect concentrated difficulty around consciousness for reasons that do not require dualism—lossy introspection, the brain's complexity, the coincidence of subject and object, third-person methods uncalibrated for first-person phenomena. What distinguishes the Map's claim is narrower: that the difficulty takes specific, *structured* failure signatures persisting across frameworks and converging on one interface. Under the Map's tenet-package—dualism *combined with* minimal quantum interaction and a naturally occluded interface—this is the expected pattern, and the taxonomy is consistent with it. Bare dualism predicts nothing of the kind; the predictive work is done by the full package.
 
