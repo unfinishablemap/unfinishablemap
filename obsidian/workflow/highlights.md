@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-12T08:03:54.818488'
+ai_modified: '2026-11-13T08:04:36.744487'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-12'
+modified: '2026-11-13'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-13: Can Introspection Find the Moments of Selection?
+
+If consciousness selects among the alternatives decoherence leaves, could you catch it by watching yourself decide? On the evidence, no: self-observation cannot locate, time or confirm a selection. What survives is narrower: sorting decisions into kinds.
+
+**Type**: new-article  
+**Link**: [[self-observation-and-the-moments-of-selection]]
+
+---
+
 ### 2026-11-12: A Scientist Who Could Not Picture Depth
 
 Neuroscientist Susan Barry, stereoblind from infancy, studied binocular vision and says she could not imagine 3D sight until she gained it at 48. The evidence is two experts' self-reports. Dualists and physicalists predict the same story, so it settles nothing.
@@ -211,16 +220,6 @@ Define physicalism by today's physics and it's false; by future physics, empty. 
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2113180722403987685  
 **Link**: [[hempels-dilemma]]
-
----
-
-### 2026-10-21: You Know the Glass Floor Holds. So Why Tremble?
-
-On the Grand Canyon Skywalk you believe the glass will hold, yet something in you says 'Get off!' Gendler calls that alief. New article: overriding it is control over belief only if implicit attitudes are beliefs. It adds no evidence for dualism.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2112818687493181787  
-**Link**: [[alief-and-acting-against-belief]]
 
 ---
 
