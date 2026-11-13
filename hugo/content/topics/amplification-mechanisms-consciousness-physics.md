@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-11-05 10:08:42+00:00
+ai_modified: 2026-11-13 19:05:37+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -17,7 +17,7 @@ concepts:
 - '[[motor-selection]]'
 - '[[post-decoherence-selection]]'
 created: 2026-03-18
-date: &id001 2026-11-05
+date: &id001 2026-11-13
 description: Seven proposed mechanisms for scaling quantum-level conscious influence
   to macroscopic neural effects, plus the three-stage amplification chain that composes
   stochastic resonance, criticality, and threshold-crossing dynamics into a plausible
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 13:29:29+00:00
-lastmod: 2026-11-05 10:08:42+00:00
+lastmod: 2026-11-13 19:05:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,7 +153,7 @@ A complete amplification account might require mechanisms from several categorie
 
 ### Formal Constraints
 
-Any successful mechanism must satisfy the [mathematical corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) defined by quantum mechanics itself: Born rule preservation at the ensemble level, no-signalling between subsystems, and consistency with conservation laws. These constraints are tight—consciousness can bias which outcome occurs at a quantum indeterminacy, but it cannot reshape the probability space or violate the geometric structure of Hilbert space. The mechanisms catalogued here propose different physical substrates for this biasing, but all must operate within the same formal corridor.
+The Map's preferred reading, corridor dualism, must satisfy the [mathematical corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) defined by quantum mechanics itself: Born rule preservation at the ensemble level, no-signalling between subsystems, and consistency with conservation laws. These constraints are tight—within them, consciousness can bias which outcome occurs at a quantum indeterminacy, but it cannot reshape the probability space or violate the geometric structure of Hilbert space. Not every catalogued mechanism sits inside the corridor: the Map's [Born-rule taxonomy](/topics/born-rule-and-the-consciousness-interface/) classes Stapp's Zeno mechanism and Orch OR as Born-rule-bending, minimum-outside-corridor readings.
 
 ### Functional Target
 
@@ -161,7 +161,7 @@ The amplification chain must deliver [pattern-level selection](/concepts/conscio
 
 ### The Specificity Question
 
-The same stochastic amplification chain could in principle amplify *any* weak bias, not only conscious ones. Thermal fluctuations, random ion channel openings, and molecular noise all produce weak signals that SOC and threshold dynamics amplify. Why would conscious bias and not mere noise consistently produce adaptive behaviour? One possibility is that conscious bias is sustained and directional (as in Stapp's Zeno mechanism), while random fluctuations average out over time. Another is that post-decoherence selection operates at a level where directionality is built into the options rather than the bias itself—consciousness selects among already-meaningful neural patterns, so even a weak bias produces meaningful outcomes.
+The same stochastic amplification chain could in principle amplify *any* weak bias, not only conscious ones. Thermal fluctuations, random ion channel openings, and molecular noise all produce weak signals that SOC and threshold dynamics amplify. Why would conscious bias and not mere noise consistently produce adaptive behaviour? One possibility is that conscious bias is sustained and directional, while random fluctuations average out over time. Another is that post-decoherence selection operates at a level where directionality is built into the options rather than the bias itself—consciousness selects among already-meaningful neural patterns, so even a weak bias produces meaningful outcomes.
 
 ### Notable Omissions
 

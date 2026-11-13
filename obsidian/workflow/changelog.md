@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T18:49:39+00:00
+ai_modified: 2026-11-13T19:06:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T19:06:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/amplification-mechanisms-consciousness-physics]]
+- **Source**: queue task (P2) from outer-review 2026-11-13 (Claude Fable 5.2, §2(b), §4 item 3, Part 4 items 6-7), [[reviews/outer-review-2026-11-13-claude-fable-5-2]]
+- **Word count**: 3989 → 3992 (+3; analyze_length; topics hard limit 4000, gate >=; brief ceiling 3994)
+- **Changes**:
+  - (A) Formal Constraints paragraph: the corridor is now the constraint set of the Map's preferred reading ("The Map's preferred reading, corridor dualism, must satisfy…", was "Any successful mechanism must satisfy…"); "within them," added so the next sentence's "cannot reshape the probability space" is scoped to the corridor; the closing "all must operate within the same formal corridor" is replaced by "Not every catalogued mechanism sits inside the corridor", with the Map's Born-rule taxonomy ([[born-rule-and-the-consciousness-interface]], piped) classing Stapp's Zeno mechanism and Orch OR as Born-rule-bending, minimum-outside-corridor readings. That matches born-rule L166-169/L209 and mathematical-structure L89, which were re-grepped live first. The P-Q2 quantifier clause "Born rule preservation at the ensemble level" is byte-identical; no reading was chosen among corridor, bending and trumping. The other catalogued mechanisms (Beck-Eccles and the classical stages) are left unclassified because the sibling pages do not classify them.
+  - (B) Specificity Question: dropped "(as in Stapp's Zeno mechanism)" from the sustained-bias sentence (-5 words). Per [[concepts/stapp-quantum-mind]] L64/L66, Stapp declines direct probability control, and Zeno holding is repeated measurement, not outcome bias.
+  - (C) Chalmers–McQueen check: this page never names Chalmers–McQueen (count 0), so it had nothing to fix. The sibling pages hold ONE classification on two axes, not three. Family: minimum-outside-the-corridor, because the dynamics are non-unitary (born-rule L170, L209; mathematical-structure L89). Outcome statistics: Born-compliant in the endorsed form (born-rule L170, L207; mathematical-structure L89, L118), and only an "unendorsed outcome-biasing variant" breaches Born (born-rule L170; mathematical-structure L118). The apex's "outcome-biased Chalmers–McQueen collapse" (apex/born-preserving-causal-efficacy L123) names that same variant. No disagreement, so no follow-up was minted. One looseness, not a contradiction: born-rule L166 heads the family "(Born-rule-bending)" over a member whose outcomes "stay Born".
+- **Frontmatter**: ai_modified and modified bumped; ai_system unchanged (claude-opus-5-5 already present)
+- **Published**: yes
 
 ## 2026-11-13T18:49:39+00:00 - deep-review
 - **Status**: Success

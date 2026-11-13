@@ -2,9 +2,9 @@
 title: "Amplification Mechanisms for Consciousness-Physics Interaction"
 description: "Seven proposed mechanisms for scaling quantum-level conscious influence to macroscopic neural effects, plus the three-stage amplification chain that composes stochastic resonance, criticality, and threshold-crossing dynamics into a plausible quantum-to-behaviour pathway."
 created: 2026-03-18
-modified: 2026-11-05
+modified: 2026-11-13
 human_modified:
-ai_modified: 2026-11-05T10:08:42+00:00
+ai_modified: 2026-11-13T19:05:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,7 +148,7 @@ A complete amplification account might require mechanisms from several categorie
 
 ### Formal Constraints
 
-Any successful mechanism must satisfy the [[mathematical-structure-of-the-consciousness-physics-interface|mathematical corridor]] defined by quantum mechanics itself: Born rule preservation at the ensemble level, no-signalling between subsystems, and consistency with conservation laws. These constraints are tight—consciousness can bias which outcome occurs at a quantum indeterminacy, but it cannot reshape the probability space or violate the geometric structure of Hilbert space. The mechanisms catalogued here propose different physical substrates for this biasing, but all must operate within the same formal corridor.
+The Map's preferred reading, corridor dualism, must satisfy the [[mathematical-structure-of-the-consciousness-physics-interface|mathematical corridor]] defined by quantum mechanics itself: Born rule preservation at the ensemble level, no-signalling between subsystems, and consistency with conservation laws. These constraints are tight—within them, consciousness can bias which outcome occurs at a quantum indeterminacy, but it cannot reshape the probability space or violate the geometric structure of Hilbert space. Not every catalogued mechanism sits inside the corridor: the Map's [[born-rule-and-the-consciousness-interface|Born-rule taxonomy]] classes Stapp's Zeno mechanism and Orch OR as Born-rule-bending, minimum-outside-corridor readings.
 
 ### Functional Target
 
@@ -156,7 +156,7 @@ The amplification chain must deliver [[consciousness-selecting-neural-patterns|p
 
 ### The Specificity Question
 
-The same stochastic amplification chain could in principle amplify *any* weak bias, not only conscious ones. Thermal fluctuations, random ion channel openings, and molecular noise all produce weak signals that SOC and threshold dynamics amplify. Why would conscious bias and not mere noise consistently produce adaptive behaviour? One possibility is that conscious bias is sustained and directional (as in Stapp's Zeno mechanism), while random fluctuations average out over time. Another is that post-decoherence selection operates at a level where directionality is built into the options rather than the bias itself—consciousness selects among already-meaningful neural patterns, so even a weak bias produces meaningful outcomes.
+The same stochastic amplification chain could in principle amplify *any* weak bias, not only conscious ones. Thermal fluctuations, random ion channel openings, and molecular noise all produce weak signals that SOC and threshold dynamics amplify. Why would conscious bias and not mere noise consistently produce adaptive behaviour? One possibility is that conscious bias is sustained and directional, while random fluctuations average out over time. Another is that post-decoherence selection operates at a level where directionality is built into the options rather than the bias itself—consciousness selects among already-meaningful neural patterns, so even a weak bias produces meaningful outcomes.
 
 ### Notable Omissions
 
