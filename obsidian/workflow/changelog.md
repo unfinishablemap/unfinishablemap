@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T07:49:53+00:00
+ai_modified: 2026-11-13T08:21:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T08:21:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/selection-only-channel]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from outer-review 2026-11-13 ChatGPT 5.6 Sol Pro sections 5.3 and 5.4)
+- **Word count**: 3133 → 3234 (+101, over the +60 aim; concepts hard 3,500)
+- **Changes**: (A) The log₂(N) bound is restated as an expectation per selection event. "the maximum information transferable by realising one specific candidate" → the average information the realised candidate X carries about the selecting mind-state S, bounded by the outcome entropy; formula "I_max(event) ≤ log₂(N) bits" → "I(S;X) ≤ H(X) ≤ log₂(N) bits per selection event"; one added sentence says the ceiling does not cap each outcome, since a candidate of probability p_i has surprisal −log₂(p_i), above log₂(N) whenever p_i < 1/N. Consistency touches in the lead ("on average at most", "average per-event ceiling"), the post-withdrawal paragraph ("the binding bound on the average information per selection event") and the Relation section ("average per-event log₂(N) ceiling"). No figure on the page depended on the per-outcome reading: the ~10 bits/second alignment is a rate, which an average bound supports as it stands. Heading "Per-Event Capacity" kept (capacity is already a per-use expectation). (B) Han and Choi (2016) fetched from nature.com and confirmed at Crossref (Sci. Rep. 6, 22986; Yeong Deok Han, Taeseung Choi). The reviewer's reading holds: the paper says the no-signalling condition "is not enough to determine the specific form of probability assignment on local measurements", names a separate "space-like causality" condition (joint probabilities of spacelike-separated measurements independent of time ordering), and derives the Born rule for a generalised assignment rule on local measurements of a pair of entangled qubits with the other postulates unchanged. The page's sentence is scoped to that, the clause "so the assignment rule is a consequence of causality rather than a convention causality tolerates in aggregate" is dropped, and carrying the theorem to a mind-conditioned selection at a local neural site is now labelled the Map's extension, not the paper's claim.
+- **Engagement classification**: none (no named-opponent reply edited; formal restatement and source-scope repair)
+- **Not touched**: the P-Q2 quantifier sentences ("every publicly conditionable context", count unchanged at 4 for "publicly conditionable context"); the "smallest deviation" sentence owned by the open P3; Valentini (2002)
+- **Not edited, listed (same per-event wording)**: 31 lines on 19 other pages state log₂(N) as a per-event maximum, chiefly `topics/selection-only-mind-influence` L39, L59 to L67 (carries the same "I_max(event) ≤ log₂(N) bits" formula at L63), L73, L149; `concepts/channel-class-taxonomy` L64, L74, L118; `concepts/selection-criterion-problem` L62; both programme apexes (`interface-specification-programme` L88, `post-decoherence-selection-programme` L87)
+- **Not edited, listed (Han and Choi)**: `topics/selection-only-mind-influence` L125 (source of the per-trial claim; unscoped); `concepts/channel-class-taxonomy` L80 ("generically permit superluminal signalling", which the paper does not say: it holds no-signalling too weak to single out the Born rule) and L70, L90 (cited for points the paper does not address); `topics/parapsychology-firewall` L55 ("relativistic-causality / no-signalling considerations"); `topics/brain-internal-born-rule-testing` L66 (names the strengthened condition but then says deviations "would enable superluminal signalling"); `topics/overdetermination-dissolution-under-selection-only-interactionism` L99
+- **Published**: yes
 
 ## 2026-11-13T07:49:53+00:00 - refine-draft
 - **Status**: Success
