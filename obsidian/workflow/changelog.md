@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T07:20:41+00:00
+ai_modified: 2026-11-13T07:49:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T07:49:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/arguments]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from outer-review 2026-11-13 ChatGPT 5.6 Sol Pro section 3.7)
+- **Word count**: 983 → 1025 (+42; arguments hard 3,500)
+- **Changes**: Re-graded eight "shows"/"showing" verbs on the section hub to what the positions register and each linked page support. Zombie bullets (Against Materialism, For Interactionist Dualism) now state the conclusion conditionally on the conceivability-to-possibility step, matching `arguments/materialism-argument` ("These three replies do not refute the zombie argument; they relocate the dispute") and `concepts/interactionist-dualism` Argument 2; the second carries a P-D1 link and says the zombie and gap bullets are one line, not two. Explanatory-gap bullet: "is read as evidence that" (the gap page: "Levine's gap is epistemic; that consciousness cannot then be *just* physical is the Map's inference"). Self-stultification bullet: "threatens views that make consciousness causally idle in its own reports", with a P-MC1 link; the Tenet 3 universal/existential quantifier is left unchosen. Functionalism intro: "assembles five arguments—not five independent confirmations"; absent-qualia and inverted-qualia bullets conditioned on the same bridge the target's dependency table names. Parsimony bullet matched to the Occam page's "repeated cases where the simpler theory was wrong". The "openly partisan" stance, the many-worlds block, the quantum-locus bullet, the description and every commitment statement are unchanged. No named-opponent reply on this page, so no reasoning-mode classification applies.
+- **Not edited, listed**: "Seven arguments converge on this conclusion" (the target says "bear on the interactionist conclusion, though not as seven independent lines"); Relation section "remove the most common objection to dualism" and "show why the Map requires collapse to be real". No heliocentrism/epicycles claim on this page.
+- **Published**: yes
 
 ## 2026-11-13T07:20:41+00:00 - refine-draft
 - **Status**: Success

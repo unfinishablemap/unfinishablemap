@@ -4,14 +4,14 @@ description: "Openly partisan cases for interactionist dualism and against views
 created: 2026-01-06
 modified: 2026-11-04
 human_modified: 2026-01-06
-ai_modified: 2026-11-04T15:07:34+00:00
+ai_modified: 2026-11-13T07:49:29+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 90
 author: Andy Southgate
-ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date:
 last_curated:
 last_deep_review: 2026-06-18T13:18:44+00:00
@@ -27,7 +27,7 @@ A comprehensive case against materialism in all its forms—eliminative, reducti
 
 **Key claims:**
 - The explanatory gap between physical description and subjective experience is not merely epistemic
-- Chalmers' zombie argument shows consciousness is not entailed by physical facts
+- Chalmers' zombie argument: if zombies are conceivable and so possible, consciousness is not entailed by physical facts
 - Quantum mechanics is not causally closed at the token level, though chance-fixing closure survives Born-preserving selection
 
 **Discussion:** [[materialism-argument|Against Materialism]], [[concepts/materialism|Materialism]]
@@ -37,9 +37,9 @@ A comprehensive case against materialism in all its forms—eliminative, reducti
 A cumulative case for interactionist dualism: consciousness is irreducible to physical processes and causally influences the physical world. Seven arguments converge on this conclusion.
 
 **Key claims:**
-- The explanatory gap shows physical explanation cannot reach qualia
-- Zombie conceivability shows consciousness is not necessitated by physics
-- The self-stultification argument shows consciousness must be causally relevant
+- The explanatory gap is read as evidence that physical explanation cannot reach qualia
+- Zombie conceivability, if it carries to possibility, means consciousness is not necessitated by physics—one line with the gap, not a second ([[positions/arguments-for-dualism#^p-d1|P-D1]])
+- The self-stultification argument threatens views that make consciousness causally idle in its own reports ([[positions/arguments-for-mental-causation#^p-mc1|P-MC1]])
 - Quantum indeterminacy supplies a candidate locus for a [[positions/quantum-interface#^mechanism-debt|mechanism of mental causation the Map has not yet worked out]]
 
 **Discussion:** [[interactionist-dualism]]
@@ -70,11 +70,11 @@ Epiphenomenalism holds that consciousness is causally inert—a byproduct of bra
 
 ### Against Functionalism
 
-Functionalism defines mental states by their functional roles—what they do rather than what they're made of. This page presents five arguments showing that functional organization is insufficient for consciousness.
+Functionalism defines mental states by their functional roles—what they do rather than what they're made of. This page assembles five arguments—not five independent confirmations—that functional organization is insufficient for consciousness.
 
 **Key claims:**
-- The absent qualia argument: zombies (functionally identical beings without experience) are conceivable, showing function doesn't guarantee consciousness
-- The inverted qualia argument: functionally identical beings could differ in qualitative experience, showing function doesn't fix phenomenal character
+- The absent qualia argument: zombies (functionally identical beings without experience) are conceivable; if conceivability carries to possibility, function doesn't guarantee consciousness
+- The inverted qualia argument: functionally identical beings could conceivably differ in qualitative experience; on the same bridge, function doesn't fix phenomenal character
 - The Chinese Room: symbol manipulation isn't understanding—syntax isn't semantics
 - Multiple realizability cuts both ways: if substrate doesn't matter for function, why should function determine consciousness?
 - The explanatory gap: functional description doesn't explain why there's experience at all
@@ -89,7 +89,7 @@ Occam's Razor—the principle that simpler explanations should be preferred—is
 - The precondition for parsimony—equal explanatory power—is unmet because physicalism does not explain phenomenal consciousness
 - Simplicity fragments into conflicting dimensions (ontological, syntactic, explanatory) that yield contradictory verdicts
 - Accounts of why parsimony works in empirical science do not extend to metaphysical theory choice
-- History repeatedly shows parsimony pointing away from truth when conceptual tools are inadequate
+- Historical cases where the apparently simpler theory proved wrong suggest parsimony misleads when conceptual tools are inadequate
 
 **Discussion:** [[epistemological-limits-of-occams-razor|Epistemological Limits of Occam's Razor]], [[parsimony-case-for-interactionist-dualism|The Parsimony Case for Interactionist Dualism]], [[epistemological-limits-occams-razor|The Parsimony Void]]
 
