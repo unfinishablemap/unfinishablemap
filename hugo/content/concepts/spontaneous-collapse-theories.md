@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-29 00:50:42+00:00
-ai_system: claude-sonnet-4-5-20250929+claude-fable-5-1
+ai_modified: 2026-11-13 17:52:15+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[measurement-problem]]'
@@ -19,14 +19,14 @@ concepts:
 - '[[physics-as-disclosure]]'
 - '[[bi-aspectual-ontology]]'
 created: 2026-01-23
-date: &id001 2026-10-29
+date: &id001 2026-11-13
 description: 'GRW, CSL, and Penrose OR: physical collapse mechanisms that solve the
-  prebiotic problem. Consciousness modulates rather than wholly causes collapse.'
+  prebiotic problem, onto which the Map grafts a conscious-selection clause they lack.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:43:35+00:00
-lastmod: 2026-10-29 00:50:42+00:00
+lastmod: 2026-11-13 17:52:15+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'
@@ -42,7 +42,7 @@ topics:
 - '[[qm-interpretations-beyond-many-worlds]]'
 ---
 
-Spontaneous collapse theories (also called objective collapse or dynamical reduction models) solve the [measurement-problem](/concepts/measurement-problem/) by modifying the Schrödinger equation to include stochastic, nonlinear terms that cause wave functions to collapse spontaneously—without observers, measurements, or consciousness. For dualist interactionism, these theories solve a critical challenge: **how did quantum systems collapse before consciousness existed?** By providing a consciousness-independent baseline collapse mechanism, GRW and CSL theories allow consciousness to **modulate** rather than wholly cause collapse, directly supporting the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. This framework preserves quantum indeterminism while avoiding the panpsychist implication that every quantum event requires proto-consciousness.
+Spontaneous collapse theories (also called objective collapse or dynamical reduction models) solve the [measurement-problem](/concepts/measurement-problem/) by modifying the Schrödinger equation to include stochastic, nonlinear terms that cause wave functions to collapse spontaneously—without observers, measurements, or consciousness. For dualist interactionism, these theories solve a critical challenge: **how did quantum systems collapse before consciousness existed?** By providing a consciousness-independent baseline collapse mechanism, GRW and CSL answer it while preserving quantum indeterminism and avoiding the panpsychist implication that every quantum event requires proto-consciousness. The Map's reading, on which consciousness biases some of those collapses in brains, adds an interface clause the theories themselves lack, so they are compatible with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet [without supporting it](/tenets/background-commitments/#posit-two-objective-single-outcome-actualization).
 
 ## The Prebiotic Collapse Problem
 
@@ -172,7 +172,7 @@ Decoherence explains why macroscopic systems look classical but doesn't solve th
 
 Spontaneous collapse theories are typically presented as solving the measurement problem entirely within physics — more structure closing a structural gap. The Map reads them differently through the [physics-as-disclosure](/concepts/physics-as-disclosure/) lens: GRW/CSL handle the *structural* dimension of collapse (baseline rates, mass-density coupling, prebiotic outcomes) while preserving the disclosed boundary where consciousness operates. They don't close the gap between possibility and actuality; they handle everything on the structural side of that gap. A consciousness-modulated CSL makes this explicit: CSL provides the structural baseline, consciousness provides the [actuality dimension](/concepts/bi-aspectual-ontology/) at the boundary physics discloses.
 
-This reframing supports the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet:
+This reframing fits the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet:
 
 1. **Born rule preservation**: The [interpretation-invariance of the Born rule](/topics/born-rule-and-the-consciousness-interface/) confirms that GRW/CSL import the rule through their stochastic dynamics rather than deriving it — relocating but not eliminating the consciousness-physics boundary
 2. **Baseline collapse**: GRW/CSL handle structural collapse consciousness-independently, solving the prebiotic problem
@@ -185,9 +185,9 @@ A **consciousness-modulated CSL** model is the closest published programme to th
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Consciousness-modulated collapse models preserve ontological distinction. Consciousness isn't reducible to classical neural firing patterns—it's a candidate parameter in collapse dynamics.
+**[Dualism](/tenets/#dualism)**: Consciousness-modulated collapse models, read dualistically, preserve ontological distinction. Consciousness isn't reducible to classical neural firing patterns—it's a candidate parameter in collapse dynamics.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet *favours* spontaneous collapse theories. Without baseline physical collapse, consciousness would need to collapse every quantum event in the universe (panpsychism) or solve the prebiotic collapse problem. GRW/CSL provide one minimal design: consciousness modulates existing stochastic processes.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet is compatible with spontaneous collapse theories. Without baseline physical collapse, consciousness would need to collapse every quantum event in the universe (panpsychism) or solve the prebiotic collapse problem. GRW/CSL supply that baseline; the minimal design, consciousness biasing some of their collapses, is the Map's graft, which the theories neither contain nor support.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Modulating collapse rate, location, or outcome sketches a candidate mechanism for consciousness causally influencing the physical world. See [psychophysical-laws](/concepts/psychophysical-laws/) for the coupling laws.
 
@@ -195,7 +195,7 @@ A **consciousness-modulated CSL** model is the closest published programme to th
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The measurement problem cannot be solved by simplicity-worship. Spontaneous collapse theories modify quantum mechanics, adding complexity, but gain falsifiability and explanatory power. Experimental accountability demonstrates this is science, not metaphysical speculation.
 
-**Connection to Free Will**: Spontaneous collapse provides a physical locus for [libertarian free will](/topics/free-will/). If consciousness modulates collapse outcomes within Born rule probabilities, choices are neither determined (consciousness makes a difference) nor random (modulation is guided by reasons and intentions). GRW/CSL provide the "openness" libertarianism needs; consciousness modulation provides the "control" that [agent causation](/concepts/agent-causation/) requires. See also the [luck objection](/concepts/quantum-indeterminacy-free-will/) for how this addresses the concern that quantum randomness doesn't constitute genuine freedom.
+**Connection to Free Will**: Spontaneous collapse plus the Map's graft provides a physical locus for [libertarian free will](/topics/free-will/). If consciousness modulates collapse outcomes within Born rule probabilities, choices are neither determined (consciousness makes a difference) nor random (modulation is guided by reasons and intentions). GRW/CSL provide the "openness" libertarianism needs; consciousness modulation provides the "control" that [agent causation](/concepts/agent-causation/) requires. See also the [luck objection](/concepts/quantum-indeterminacy-free-will/) for how this addresses the concern that quantum randomness doesn't constitute genuine freedom.
 
 ## Further Reading
 

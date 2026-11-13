@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-10 18:33:59+00:00
+ai_modified: 2026-11-13 17:52:15+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -25,14 +25,14 @@ concepts:
 - '[[physical-completeness]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-01-14
-date: &id001 2026-11-10
+date: &id001 2026-11-13
 description: 'Causal closure claims every physical event has sufficient physical cause.
   The Map rejects this: quantum indeterminacy leaves room for consciousness to act.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 03:24:48+00:00
-lastmod: 2026-11-10 18:33:59+00:00
+lastmod: 2026-11-13 17:52:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -160,7 +160,7 @@ This argument appears in formal premise-conclusion form in the [argument for int
 
 Strong [emergentism](/concepts/emergence/) provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties are "fundamentally new," their powers not reducible to component-level causation—genuine [downward causation](/concepts/mental-causation-and-downward-causation/) where consciousness influences neural states in ways component interactions don't determine.
 
-Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL) further strengthen the position: they provide consciousness-independent baseline collapse, allowing consciousness to *modulate* rather than wholly cause collapse—preserving [prebiotic cosmology](/concepts/prebiotic-collapse/) while enabling mental causation. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
+Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL) make room for the position: their consciousness-independent baseline collapse preserves [prebiotic cosmology](/concepts/prebiotic-collapse/), and consciousness biases some outcomes through an interface clause the Map adds. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
 
 ### Arguments from Reason
 

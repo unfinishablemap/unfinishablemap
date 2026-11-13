@@ -2,9 +2,9 @@
 title: "Causal Closure of the Physical"
 description: "Causal closure claims every physical event has sufficient physical cause. The Map rejects this: quantum indeterminacy leaves room for consciousness to act."
 created: 2026-01-14
-modified: 2026-11-10
+modified: 2026-11-13
 human_modified: null
-ai_modified: 2026-11-10T18:33:59+00:00
+ai_modified: 2026-11-13T17:52:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,7 +157,7 @@ This argument appears in formal premise-conclusion form in the [[interactionist-
 
 Strong [[emergence|emergentism]] provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties are "fundamentally new," their powers not reducible to component-level causation—genuine [[mental-causation-and-downward-causation|downward causation]] where consciousness influences neural states in ways component interactions don't determine.
 
-Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. [[spontaneous-collapse-theories|Spontaneous collapse theories]] (GRW, CSL) further strengthen the position: they provide consciousness-independent baseline collapse, allowing consciousness to *modulate* rather than wholly cause collapse—preserving [[prebiotic-collapse|prebiotic cosmology]] while enabling mental causation. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
+Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. [[spontaneous-collapse-theories|Spontaneous collapse theories]] (GRW, CSL) make room for the position: their consciousness-independent baseline collapse preserves [[prebiotic-collapse|prebiotic cosmology]], and consciousness biases some outcomes through an interface clause the Map adds. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
 
 ### Arguments from Reason
 

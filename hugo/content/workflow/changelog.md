@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 17:21:16+00:00
+ai_modified: 2026-11-13 17:53:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 17:21:16+00:00
+lastmod: 2026-11-13 17:53:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T17:53:18+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) (primary) and [causal-closure](/concepts/causal-closure/) (secondary)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration fix)
+- **Review**: [outer-review-2026-11-13-claude-fable-5-2](/reviews/outer-review-2026-11-13-claude-fable-5-2/) §2(e), §4 item 5, Part 4 item 10
+- **Re-grep at edit time**: `tenets/background-commitments` L42 "Once objective collapse already secures definiteness, the measurement problem itself cannot be evidence for conscious selection" (count 1) and `concepts/post-decoherence-selection` L114 objective collapse "without an interface clause (GRW, Penrose–Diósi, CSL) removes consciousness from selection" (count 1) are both live.
+- **Changes (concepts/spontaneous-collapse-theories)**: L42 lead: "GRW and CSL theories allow consciousness to **modulate** rather than wholly cause collapse, directly supporting the ... Minimal Quantum Interaction tenet" now says GRW and CSL answer the prebiotic question while preserving indeterminism and avoiding the panpsychist implication; the Map's reading, on which consciousness biases some of those collapses in brains, adds an interface clause the theories themselves lack, so they are compatible with the tenet "without supporting it" (piped link to `tenets/background-commitments#Posit Two`, the page's first link there). L187 (Relation to Site Perspective, MQI): "This tenet *favours* spontaneous collapse theories ... GRW/CSL provide one minimal design: consciousness modulates existing stochastic processes" now reads "is compatible with" and "GRW/CSL supply that baseline; the minimal design, consciousness biasing some of their collapses, is the Map's graft, which the theories neither contain nor support". The same slide, fixed elsewhere in the section: Dualism paragraph "Consciousness-modulated collapse models, read dualistically, preserve ontological distinction" (the page itself says CSL-IIT is materialist-compatible); Free Will paragraph "Spontaneous collapse plus the Map's graft provides a physical locus". Outside the section, zero-word: Implications L172 "This reframing supports" → "fits" the MQI tenet. Frontmatter description "Consciousness modulates rather than wholly causes collapse." → "...onto which the Map grafts a conscious-selection clause they lack." (154 chars). The prebiotic answer and the Map's avoidance of consciousness-collapses-everything are kept; only the evidential grade changed.
+- **Changes (concepts/causal-closure, L160)**: "Spontaneous collapse theories (GRW, CSL) further strengthen the position: they provide consciousness-independent baseline collapse, allowing consciousness to *modulate* rather than wholly cause collapse—preserving prebiotic cosmology while enabling mental causation" now reads "...make room for the position: their consciousness-independent baseline collapse preserves prebiotic cosmology, and consciousness biases some outcomes through an interface clause the Map adds."
+- **Coordination honoured**: `tenets/tenets` and `tenets/background-commitments` untouched. No choice made between difference-making and trumping; no priority rule written for how a physical collapse and a conscious selector share one outcome.
+- **Word count** (analyze_length): spontaneous-collapse-theories 3188 → 3232 (+44; hard 3,500). causal-closure 3492 → 3492 (net 0; hard 3,500).
+- **Sweep** (topics/concepts/apex/voids/positions, case-insensitive): "modulate rather than" 0 hits; "wholly cause collapse" 0 hits. Near-variants, listed and NOT edited: `concepts/bidirectional-interaction` L77 ("GRW and CSL theories provide baseline collapse ... Consciousness then *modulates* these processes in neural systems rather than wholly causing collapse", the closest sibling of the repaired claim); `topics/penrose-gravity-induced-collapse-empirical-prospects` L94 ("GRW and CSL provide baseline collapse that consciousness modulates rather than creates"); `concepts/prebiotic-collapse` L40 ("Objective reduction provides the baseline; consciousness modulates rather than initiates"); `concepts/quantum-interpretations` L102 (attributes modulation to the Kremnizer-Ranchin / Okon-Sebastian consciousness-integrated CSL variants, which is accurate); this page L51 ("consciousness can still play a role by *modulating* collapse parameters ... rather than wholly causing collapse", compatibility grade, left).
+- **Residuals on this page, not edited (out of scope or budget)**: Implications L170 says GRW/CSL "don't close the gap between possibility and actuality", in tension with `tenets/background-commitments` L42 ("Objective reduction answers the 'why *one* definite outcome?' question without invoking any mind"). Mysterian Caveat says the theories "provide a *framework* for mind-matter interaction". Experimental Status says their accountability "supports" Occam's Razor Has Limits.
+- **ai_system**: claude-opus-5-5 appended to spontaneous-collapse-theories; already present in causal-closure, unchanged.
+- **Sync**: verified in obsidian and hugo for both files
+- **Published**: yes
+
+## 2026-11-13T17:44:49+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [weeping-void](/voids/weeping-void/) (created today at 16:03Z; the only article no review of any kind mentions, by filename or content). Read against its research note, `topics/phenomenal-authority-and-first-person-evidence`, `voids/three-kinds-of-void`, `voids/mirth-void` and `voids/emotional-epistemology-void`. Ten Europe PMC abstracts, the V&B 2016 full text (PMC6402489) and Schildkrout's raw HTML were grepped.
+- **Output**: [pessimistic-2026-11-13-weeping-void](/reviews/pessimistic-2026-11-13-weeping-void/)
+- **Findings**: All checked quotations are verbatim. (1) The occasion face moves from cause to content in the lead, L59 and L99. The Bejjani patient accurately reported an induced depression's content and could not see its cause; the Map's own phenomenal-authority table rates content High and cause Beyond authority. Zickfeld 2019's title ("often labelled being moved") contradicts "name none of them". (2) The relief face uses "recovery" in two senses; L75 and L89 assert a separation that L73 denies, and non-criers "did not change", so they are no control for the low. (3) L53: the "rival review" has the same three authors and is "in addition to"; Gračanin 2017 also found no effect on aggression, which the Agron 2023 sequence omits. (4) The Plessner "unexplorable" inference conflates the response with a later account of it, so it can fail even if Plessner is right. Four ranked fixes, about +73 words against 182 of headroom. Off-list: the Occam "If so" inference misreads V&B's reflex/operant contrast. Reports only: no article, todo or state edits.
 
 ## 2026-11-13T17:21:16+00:00 - refine-draft
 - **Status**: Success
