@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-13T00:49:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted refine from `reviews/optimistic-2026-10-25-contemplative-evidence-wing` Priority item 3 plus routed defects 2 and 3)
+- **Word count**: 3482 → 3481 (-1; concepts hard gate 3,500)
+- **Changes**: (3a) "received but not perceived" re-attributed to Anthony Hudetz as quoted in Mashour 2024, the state corrected from "light sedation" to anesthesia, and Mashour's network-level reading named as the rival the datum equally fits. Re-verified this run in the PMC full text (PMC11098701): the quote sentence, the sedation/anesthesia separation, and the "network-level approaches beyond sensory cortex" reading with its "Communication Breakdown" section. (3b) "appear independently across traditions" became "recur across traditions", with a pipe to cessation-versus-plenitude on "contentless awareness". (3c) the convergence is counted once under [P-M2](/positions/methodology-and-calibration/#p-m2) and "earns" became "fits". (3d) cessation events "fit filter theory without favouring it". (3e) the claim that consciousness operated unconstrained during cessation is withdrawn, since the page itself describes cessation as full loss of consciousness and a report on return cannot show otherwise. Lead: "rather than being a simple on/off producer" replaced by parity with a graded producer. Psychedelic paragraph: "genuinely" dropped from "genuinely suppressed information". Zero-word pipes A1 (near-death-experiences) and A2 (depersonalisation) installed.
+- **Reasoning-mode record**: engagement with the production theorist: boundary-marking with parity (Mode Three); each edit removes a claim of advantage the evidence does not carry and states that both readings fit.
+- **Not changed**: the No Many Worlds tenet entry already reads as a commitment the reports do not discriminate for; no reference entry added for Hudetz (cited as quoted in Mashour 2024, which is in References). No archive hits.
+- **Published**: yes
+
 ## 2026-11-13T00:23:11+00:00 - deep-review
 - **Status**: Success
 - **File**: [simulation](/concepts/simulation/)
