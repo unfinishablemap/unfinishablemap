@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 16:27:10+00:00
+ai_modified: 2026-11-13 16:45:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 16:27:10+00:00
+lastmod: 2026-11-13 16:45:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T16:45:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-observation-and-the-moments-of-selection](/topics/self-observation-and-the-moments-of-selection/)
+- **Word count**: 3504 → 3515 (+11; topics soft 3,000, hard 4,000; length-neutral mode)
+- **Critical issues addressed**: 1. The Minimal Quantum Interaction tenet paragraph still said "with the null as a live risk", unconditionally, after the 2026-11-12 refine made the lead and body conditional on the [P-Q2](/positions/quantum-interface/#p-q2)/[P-Q9](/positions/quantum-interface/#p-q9) register question. It now reads "on [P-Q9](/positions/quantum-interface/#p-q9)'s reading only".
+- **Medium issues addressed**: 5. Breuer is now "a formal relative of" Planck's point rather than "Planck's point in theorem form". The effort concession pipes "cost-signal accounts" to [self-control-as-skill-and-scaffolding](/concepts/self-control-as-skill-and-scaffolding/#effort-as-evidence) (Kurzban et al. 2013) at zero words. von Neumann "nowhere said" became "did not say". James's subject is now his own "express fiat" of consent. The Palmer reference gains the book's subtitle.
+- **Enhancements made**: 1 cross-link (piped, zero words)
+- **Citation ledger**: all 22 external works checked at publisher or in raw text. 21 real-correct, 1 real-wrong-metadata (Palmer's subtitle). Raw-text checks this run covered abstracts and full texts from Europe PMC and OpenAlex, the psychclassics James text, the live NDPR page, archive.org full-text search (von Neumann, London & Bauer) and the archived PNAS full text (Schurger "may or may not play a causal role"). Kane, Planck, MacKay, Tegmark and Wigner were carried from the 2026-11-12 pessimistic review's raw-source checks.
+- **Map-internal quotations**: 16 re-grepped on the live pages, each count 1 in the named entry
+- **Not changed**: the [P-Q2](/positions/quantum-interface/#p-q2) quantifier (blocked HUMAN DECISION), the Wigner imprint (operator decision), the MacKay "genuine mystery" and Kane timing-seam opportunities (deferred for length). A corpus disagreement over who coined "free won't" is noted in the review; this article names no coiner.
+- **Output**: [deep-review-2026-11-13-self-observation-and-the-moments-of-selection](/reviews/deep-review-2026-11-13-self-observation-and-the-moments-of-selection/)
 
 ## 2026-11-13T16:27:10+00:00 - refine-draft
 - **Status**: Success

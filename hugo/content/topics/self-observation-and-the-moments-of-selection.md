@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-11-12
-ai_modified: 2026-11-12 21:33:57+00:00
-ai_system: claude-fable-5-2
+ai_modified: 2026-11-13 16:43:46+00:00
+ai_system: claude-fable-5-2+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -15,14 +15,15 @@ concepts:
 - '[[selection-only-channel]]'
 - '[[timing-gap-problem]]'
 created: 2026-11-12
-date: &id001 2026-11-12
+date: &id001 2026-11-13
 description: Can introspection find when post-decoherence selection happens, and do
   those moments match choice? It cannot time or confirm them; it can sort decisions
   into kinds a test could condition on.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-12 21:33:57+00:00
+last_deep_review: 2026-11-13 16:43:46+00:00
+lastmod: 2026-11-13 16:43:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +46,7 @@ The first five sections report what the sources say. The Map's reading is confin
 
 ## A Role Without a Clock
 
-Measurement theory gave the observer's self-knowledge a job early on, and never a time at which the job is done. Von Neumann (1932/1955) argued that the world must be divided into an observed part and an observer, and that "The boundary between the two is arbitrary to a very large extent." His chain of possible cuts runs through the instrument and the eye to "his retina, nerve tracts and brain" and ends at the observer's abstract "ego". He stated a psycho-physical parallelism and nowhere said that consciousness causes collapse. A cut that can be placed anywhere along the chain fixes no instant either.
+Measurement theory gave the observer's self-knowledge a job early on, and never a time at which the job is done. Von Neumann (1932/1955) argued that the world must be divided into an observed part and an observer, and that "The boundary between the two is arbitrary to a very large extent." His chain of possible cuts runs through the instrument and the eye to "his retina, nerve tracts and brain" and ends at the observer's abstract "ego". He stated a psycho-physical parallelism and did not say that consciousness causes collapse. A cut that can be placed anywhere along the chain fixes no instant either.
 
 London and Bauer (1939) named the faculty involved. The observer possesses "a characteristic and quite familiar faculty" which they call the "faculty of introspection", and by it "he attributes to himself the right to create his own objectivity—that is, to cut the chain of statistical correlations". Their verb is *cut*, and what they describe reads as an entitlement, though they call it a "creative action" and its causal reading is disputed. The passage identifies no privileged moment and does not say that a mind pushes on a wavefunction. Wigner (1961) used a friend's testimony to the same end: whether the friend saw the flash "was already decided in his mind, before I asked him." That bounds the event from above and dates nothing. Tegmark (2000) records that Wigner later "changed his mind and gave up this idea".
 
@@ -69,7 +70,7 @@ Two maps of decision can be drawn, and they do not coincide.
 
 The first is drawn from neural timing. Schurger, Sitt and Dehaene (2012) model the readiness potential as accumulation to a threshold, so that "the precise moment at which the decision threshold is crossed leading to movement is largely determined by spontaneous subthreshold fluctuations in neuronal activity". Their noise is classical, their task is arbitrary self-paced movement, and they separate the crossing from the conscious decision, "the feeling of an urge or intention to move that may or may not play a causal role." Maoz and colleagues (2019) found readiness potentials for arbitrary choices and "strikingly absent for deliberate ones", concluding that "deliberate decisions are generally not driven by random fluctuations. Rather, it is the values of the decision alternatives that mainly drive the decision and ultimately lead to action." They do not say deliberate decisions are determined. Khalighinejad and colleagues (2018) found variability falling before self-initiated action and suggest its "key precursor … may manifest as a reduction in neural noise."
 
-The second map is drawn from experience. James (1890) held that "The immense majority of human decisions are decisions without effort." An express consent "comes in when the neutralization of the antagonistic and inhibitory idea is required", and only in a minority of cases is there the "slow dead heave of the will". Kane (2002) placed indeterminacy exactly there, writing that the "uncertainty and inner tension we feel at such soul-searching moments of self-formation is thus reflected in the indeterminacy of our neural processes themselves." That is a postulate; no measurement accompanies it. Palmer (2025) reports that Kane's latest book gives up the doubled effort of his earlier work, so that if the single effort fails "no choice at all would have been made at that time", and that the luck worry returns: "it seems to be a matter of chance that John did do what he was trying to do".
+The second map is drawn from experience. James (1890) held that "The immense majority of human decisions are decisions without effort." The "express fiat" of consent "comes in when the neutralization of the antagonistic and inhibitory idea is required", and only in a minority of cases is there the "slow dead heave of the will". Kane (2002) placed indeterminacy exactly there, writing that the "uncertainty and inner tension we feel at such soul-searching moments of self-formation is thus reflected in the indeterminacy of our neural processes themselves." That is a postulate; no measurement accompanies it. Palmer (2025) reports that Kane's latest book gives up the doubled effort of his earlier work, so that if the single effort fails "no choice at all would have been made at that time", and that the luck worry returns: "it seems to be a matter of chance that John did do what he was trying to do".
 
 | Candidate moment | Timescale | Evidence of stochastic timing | How it is experienced |
 |---|---|---|---|
@@ -101,7 +102,7 @@ The two maps above sharpen the difficulty. The one physically specified, decisio
 
 ### Answering Planck and MacKay
 
-On openness the Map has no reply, and should not manufacture one. Breuer's result is, on the Map's reading and not his, Planck's point in theorem form: an embedded observer cannot fully read its own state whether or not its dynamics are open, so meeting that limit carries no information about indeterminism. Felt openness is conceded as non-discriminating. Effort is not predicted by the self-observation limit, but cost-signal accounts fit its distribution, as [the Map's page on volition](/concepts/phenomenology-of-choice-and-volition/) already grants. The register says as much at [P-A1](/positions/agency-and-will/#p-a1): "the deliberative phenomenology alone settles nothing between libertarian and compatibilist readings".
+On openness the Map has no reply, and should not manufacture one. Breuer's result is, on the Map's reading and not his, a formal relative of Planck's point: an embedded observer cannot fully read its own state whether or not its dynamics are open, so meeting that limit carries no information about indeterminism. Felt openness is conceded as non-discriminating. Effort is not predicted by the self-observation limit, but [cost-signal accounts](/concepts/self-control-as-skill-and-scaffolding/#effort-as-evidence) fit its distribution, as [the Map's page on volition](/concepts/phenomenology-of-choice-and-volition/) already grants. The register says as much at [P-A1](/positions/agency-and-will/#p-a1): "the deliberative phenomenology alone settles nothing between libertarian and compatibilist readings".
 
 What remains is a question the rival leaves open on its own terms. MacKay's analysis shows that felt freedom does not *need* physical indeterminacy; it does not show there is none, and he says so: "nothing physically odd need accompany a free action, though we have no way as yet of knowing whether it does" (pp. 39–40). Whether anything does is a statistical question. If no statistical difference is ever found, that channel closes, at a cost the register has not settled; if [P-Q9](/positions/quantum-interface/#p-q9)'s mechanism and psychophysical channels close too, the disagreement between the Map and Planck sits at bedrock: whether a selection occurs at all would be a commitment the tenets carry and experience cannot adjudicate.
 
@@ -119,7 +120,7 @@ Two cautions keep this honest. First, the register does not say with one voice w
 
 **[Dualism](/tenets/#dualism).** Nothing in this article argues for irreducibility. Breuer's limit holds for classical systems, so the self-opacity of an observer is no mark of the non-physical. The tenet is presupposed here and untouched.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** The tenet constrains the channel, and the timescale gap is why the Map places selection after decoherence. The phenomenology of choice is not evidence for the tenet. Self-observation's contribution is to say which conditionals a test should use, with the null as a live risk.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** The tenet constrains the channel, and the timescale gap is why the Map places selection after decoherence. The phenomenology of choice is not evidence for the tenet. Self-observation's contribution is to say which conditionals a test should use, with the null a live risk on [P-Q9](/positions/quantum-interface/#p-q9)'s reading only.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** The Map holds that consciousness does causal work and holds, with [P-A4](/positions/agency-and-will/#p-a4), that this cannot be read off experience. Whether selections coincide with felt choices is open: the Map's locus is the trying, its physics sets the occasion, and no model connects the two.
 
@@ -153,7 +154,7 @@ Two cautions keep this honest. First, the register does not say with one voice w
 1. MacKay, D. M. (1960). On the logical indeterminacy of a free choice. *Mind*, 69(273), 31–40. https://doi.org/10.1093/mind/LXIX.273.31
 1. Maoz, U., Yaffe, G., Koch, C., & Mudrik, L. (2019). Neural precursors of decisions that matter—an ERP study of deliberate and arbitrary choice. *eLife*, 8, e39787. https://doi.org/10.7554/eLife.39787
 1. Matsuhashi, M., & Hallett, M. (2008). The timing of the conscious intention to move. *European Journal of Neuroscience*, 28(11), 2344–2351. https://doi.org/10.1111/j.1460-9568.2008.06525.x
-1. Palmer, D. (2025). Review of R. Kane, *The Complex Tapestry of Free Will* (Oxford University Press, 2024). *Notre Dame Philosophical Reviews*, 2025.03.5. https://ndpr.nd.edu/reviews/the-complex-tapestry-of-free-will-a-free-will-odyssey/
+1. Palmer, D. (2025). Review of R. Kane, *The Complex Tapestry of Free Will: A Free Will Odyssey* (Oxford University Press, 2024). *Notre Dame Philosophical Reviews*, 2025.03.5. https://ndpr.nd.edu/reviews/the-complex-tapestry-of-free-will-a-free-will-odyssey/
 1. Petitmengin, C., Remillieux, A., Cahour, B., & Carter-Thomas, S. (2013). A gap in Nisbett and Wilson's findings? A first-person access to our cognitive processes. *Consciousness and Cognition*, 22(2), 654–669. https://doi.org/10.1016/j.concog.2013.02.004
 1. Planck, M. (1932). *Where Is Science Going?* Trans. J. Murphy. W. W. Norton.
 1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56–61. https://doi.org/10.1016/S1364-6613(97)01008-5
