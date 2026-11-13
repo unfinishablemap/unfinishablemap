@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-11-11 00:03:17.720588+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-13 02:50:37+00:00
+ai_system: claude-opus-4-6+claude-fable-5-2
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -20,7 +20,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 01:38:00+00:00
-lastmod: 2026-11-11 00:03:17.720588+00:00
+lastmod: 2026-11-13 02:50:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -54,7 +54,7 @@ According to the "4E" cognition framework, cognition is *embodied* (dependent on
 
 Phenomenologists anticipated the importance of embodiment. Merleau-Ponty distinguished the *lived body* (Leib) from the objectified body (Körper). We experience our bodies as capacities we are—encountering the world as "I can" before representing it as "I know." The body schema operates below conscious awareness yet shapes every encounter with reality.
 
-Motor intentionality differs from cognitive intentionality. When you reach for a glass, your hand doesn't calculate trajectories—it *knows* how to reach. Neuropsychological cases demonstrate the dissociation: patients with ideomotor apraxia can describe actions but not perform them, while those with optic ataxia can identify objects but not reach for them accurately (Merleau-Ponty 1945, ch. 3; Milner & Goodale 1995). The body has its own intelligence.
+Motor intentionality differs from cognitive intentionality. When you reach for a glass, your hand doesn't calculate trajectories—it *knows* how to reach. Neuropsychological cases illustrate this. Gelb and Goldstein's patient Schneider could not point on command to a part of his body, yet reached a mosquito bite at once (Merleau-Ponty 1945, ch. 3). Milner and Goodale (1995) pair DF, a patient with visual form agnosia who grasped accurately objects whose shape she could not perceive, with optic ataxia patients who misreach for targets they report seeing—though the cleanness of this double dissociation is disputed (Pisella et al. 2006). The body has its own intelligence.
 
 ## Conceptual Metaphor and Embodied Abstract Thought
 
@@ -100,7 +100,7 @@ The challenge is distinguishing which limits belong to cognition, which to consc
 
 **Interoception correlates with self-processing.** Theoretical models suggest interoception contributes to the cognitive construction of the first-person perspective (Craig 2009; Seth 2013). Whether this means interoception *constitutes* subjective experience or merely shapes the self-model that consciousness accesses remains contested.
 
-**Motor intentionality cannot be reduced to cognitive intentionality.** Phenomenological analysis, supported by double dissociations in neuropsychology (Milner & Goodale 1995), shows motor knowledge operates through distinct channels. This is a form of [pre-conceptual knowing](/voids/acquaintance-void/)—the body knows before the mind represents. Disembodied minds lack this layer of cognitive processing.
+**Motor intentionality cannot be reduced to cognitive intentionality.** Phenomenological analysis, consistent with neuropsychological dissociations (Milner & Goodale 1995), suggests motor knowledge operates through distinct channels. This is a form of [pre-conceptual knowing](/voids/acquaintance-void/)—the body knows before the mind represents. Disembodied minds lack this layer of cognitive processing.
 
 **AI approaches embodiment limits.** AI systems have made significant progress on tasks once thought to require embodiment, but continue to face challenges with real-time physical interaction and the kind of common-sense reasoning that bodily experience may ground. The boundary between what disembodied processing can and cannot achieve remains actively contested.
 
@@ -184,4 +184,5 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 10. Nature Humanities and Social Sciences Communications. "There is no such thing as conscious artificial intelligence." https://www.nature.com/articles/s41599-025-05868-8
 11. Milner, A. D., & Goodale, M. A. (1995). *The Visual Brain in Action*. Oxford University Press.
 12. Craig, A. D. (2009). "How Do You Feel — Now? The Anterior Insula and Human Awareness." *Nature Reviews Neuroscience*, 10(1), 59-70.
-13. Seth, A. K. (2013). "Interoceptive Inference, Emotion, and the Embodied Self." *Trends in Cognitive Sciences*, 17(11), 565-573.
+13. Pisella, L., Binkofski, F., Lasek, K., Toni, I., & Rossetti, Y. (2006). "No Double-Dissociation Between Optic Ataxia and Visual Agnosia." *Neuropsychologia*, 44(13), 2734-2748.
+14. Seth, A. K. (2013). "Interoceptive Inference, Emotion, and the Embodied Self." *Trends in Cognitive Sciences*, 17(11), 565-573.

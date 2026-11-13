@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 01:50:02+00:00
+ai_modified: 2026-11-13 02:50:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 01:50:02+00:00
+lastmod: 2026-11-13 02:50:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T02:50:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/)
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted source-fidelity fix from the queued P3 task, parts a, b, c)
+- **Changes**: (a) The sentence "Neuropsychological cases demonstrate the dissociation: patients with ideomotor apraxia can describe actions but not perform them, while those with optic ataxia can identify objects but not reach for them accurately" gave two cases running the same way. It now reads "illustrate", and presents a two-way pairing: patient DF (visual form agnosia, accurate grasping of objects whose shape she could not perceive) against optic ataxia (misreaching for targets the patient reports seeing), with the dispute over the double dissociation stated and cited (Pisella et al. 2006, Neuropsychologia 44(13):2734-2748, Crossref and PubMed 16753188). Wording checked against the PubMed abstract of Goodale, Milner, Jakobson and Carey 1991 (Nature 349:154-156): "unable to reach accurately towards visual targets that they unequivocally report seeing"; "strikingly accurate guidance of hand and finger movements directed at the very objects whose qualities she fails to perceive". (b) The ideomotor apraxia clause is removed: the fetched reviews (Wheaton and Hallett 2007; Sunderland and Shinner 2007) characterise it by pantomime and gesture deficits to command or imitation, which "can describe actions but not perform them" does not match. The Merleau-Ponty citation now sits on the Schneider case, from the archive.org full text of the 1962 Smith translation, Part One ch. 3: "the same subject who is unable to point to order to a part of his body, quickly moves his hand to the point where a mosquito is stinging him". The chapter does also discuss apraxia (Liepmann's case), so the old citation was loose, not baseless. (c) The "Evidence for Genuine Limits" entry on motor intentionality: "supported by double dissociations in neuropsychology ... shows" is now "consistent with neuropsychological dissociations ... suggests". Reference 13 (Pisella et al. 2006) added; Seth renumbered 14.
+- **Not obtained**: the text of Milner and Goodale's book (metadata only: Crossref DOI 10.1093/acprof:oso/9780198524724.001.0001 for the 2006 edition, Open Library for the 1995 first edition); the pairing is attributed to them on the strength of their 1991 and 1992 abstracts and of Pisella et al. 2006 and Rossetti, Pisella and McIntosh 2017, which describe it as theirs.
+- **Listed, not edited**: Occam entry "The simplest computational model ... fails. Cognition requires the complexity of embodiment" is stated flatly; Bidirectional Interaction entry "is illuminated" infers a consciousness-body channel from motor intentionality without argument; "Disembodied minds lack this layer of cognitive processing" and "removing embodiment doesn't produce pure thought but cognitive dysfunction" are uncited; references 1, 2, 5, 7, 8, 9, 10 are not cited in the body. The No Many Worlds entry already concedes the branch-relative reply and does not infer the tenet from experience. No quotation marks around source text elsewhere on the page.
+- **Length**: 2,275 before, 2,335 after (net +60; voids soft 2,000, hard 3,000). Video-embed block and `embedded_videos` untouched.
+- **Reasoning mode**: no named-opponent reply in the edited passage; the neuropsychology is presented as fit with the phenomenological claim, not as evidence for embodied consciousness or dualism.
+- **Published**: yes
 
 ## 2026-11-13T01:50:02+00:00 - refine-draft
 - **Status**: Success
