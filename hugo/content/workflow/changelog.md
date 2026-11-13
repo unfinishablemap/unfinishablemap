@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 03:35:18+00:00
+ai_modified: 2026-11-13 03:57:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 03:35:18+00:00
+lastmod: 2026-11-13 03:57:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T03:57:06+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (full-site audit, collected from the 02:05Z commission)
+- **File**: [outer-review-2026-11-13-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-13-chatgpt-5-6-sol-pro/)
+- **Claims verified**: 17 confirmed against the live Obsidian pages by grep; 5 external-source claims left as leads (no sources fetched this pass); 3 imprecise
+- **High-value findings**: 9 (two already tasked: the cartography "thin" coordinate and the right-caudate/Kral sweep)
+- **Tasks generated**: 6 (all P2 refine-draft): interface-specification apex lead and synthesis; channel-width L59/L65; arguments hub "shows"; selection-only-channel bound and Han and Choi (verify-first); tenets epicycles bullet with three dependents (verify-first); taxonomy-of-voids lead
+- **Routed to operator decisions, not tasked**: [P-Q2](/positions/quantum-interface/#p-q2) quantifier (with the reviewer's reportability–concealment constraint), difference-making versus trumping, Tenet 3 quantifier, subjecthood as a foundation, correction-propagation methodology
 
 ## 2026-11-13T03:35:18+00:00 - refine-draft
 - **Status**: Success

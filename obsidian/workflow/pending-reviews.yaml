@@ -395,9 +395,9 @@
   commissioned_at: '2026-11-13T02:05:53.888497+00:00'
   prompt_summary: 'Full-site audit: insights, weaknesses, tenet coherence, contradictions'
   target_filename: outer-review-2026-11-13-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-13T03:52:39.134002+00:00'
   failure_reason: null
   prompt_text: 'Please carry out a critical full-site audit of The Unfinishable Map
     at https://unfinishablemap.org, a philosophy-of-mind site built around five tenets
