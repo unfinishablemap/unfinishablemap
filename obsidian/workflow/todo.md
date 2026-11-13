@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write `voids/weeping-void` — Voids: The Weeping Void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-weeping-void-2026-11-13.md
+- **Target section**: voids
+- **Section**: voids
+- **Status**: pending
+- **Source**: research-chain (auto-minted by cycle_post after research-topic)
+- **Generated**: 2026-11-13
+- **Headroom**: voids 119/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
 ### P3: Research Veit pathological complexity thesis and the evolutionary origin of consciousness
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-2026-11-13-gemini-3-1-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-13-gemini-3-1-pro (section 6; confirmed at collect: the phrase pathological complexity has 0 hits in topics, concepts, apex, voids, research and archive; Veit 2023 is cited only on voids/valence-void) says the Map treats the evolution of consciousness without the life-history account in Veit (2023), A Philosophy for the Science of Animal Consciousness, on which evaluative experience is the action-selection mechanism that manages a pathological complexity of trade-offs. The reviewer did not quote the book and two of its three charges on this page were misreadings, so treat its summary as a lead. NOTE at mint: topics and concepts are both at cap (370/370), so the expected verdict is fold or refine into concepts/evolution-of-consciousness (9 words of headroom at 04:55Z, so a fold needs a trim or another host), not a new article. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/veit-pathological-complexity-thesis-2026-11-13.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'veit-pathological-complexity-thesis' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).

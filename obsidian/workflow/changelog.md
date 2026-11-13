@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T08:21:00+00:00
+ai_modified: 2026-11-13T14:24:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T14:24:30+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The weeping void (emotional crying: what tears are for, what a given episode is about, and whether it helped)
+- **Category**: Mixed (Unexplored for the function of emotional tears; Occluded for the crier's access to the occasion and the relief; a possibly Unexplorable core on Plessner's reading, flagged as inference)
+- **Output**: [[research/voids-weeping-void-2026-11-13]]
+- **Verdict**: `recommended_action: article`, `target_slug: weeping-void` (fold declined: sibling mirth-void is past hard at 3,025 and agency-void at 3,295; the voids with room, valence-void 746 and emotional-epistemology-void 965, are about other subjects)
+- **Key finding**: Crying was a corpus-wide zero (Vingerhoets, Plessner, Gračanin, kama muta, tears of joy all 0 files). An electrode produced weeping with sincere reasons ("I'm crying over myself, of course"; Bejjani et al. 1999 via Schildkrout), and over 70% of survey respondents say crying generally helps while only 50% of the same people report improvement after their most recent cry (Vingerhoets & Bylsma 2016, reporting Vingerhoets 2013).
 
 ## 2026-11-13T08:21:00+00:00 - refine-draft
 - **Status**: Success
