@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-09-27 22:35:12+00:00
+ai_modified: 2026-11-13 20:20:04+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 22:35:12+00:00
-lastmod: 2026-09-27 22:35:12+00:00
+lastmod: 2026-11-13 20:20:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,13 +102,13 @@ The interface formalism concept connects directly to the Map's foundational comm
 
 **[Dualism](/tenets/#dualism)** is expressed formally by the requirement that E and P are independent mathematical spaces — E is not a subspace of P, not derivable from P, and not reducible to physical description. The need for two distinct state spaces is what dualism predicts; the formalism makes this prediction precise.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is substantiated by the five constraints. The mathematical bounds from quantum foundations ensure that any consciousness-mediated effect is minimal in a formally precise sense: it preserves ensemble statistics, geometric structure, locality, interference order, and conservation laws. The coupling map adds information without energy — the smallest conceivable intervention.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is given formal content by the five constraints, which specify what minimality would require without showing that any coupling meets them. If some coupling map meets all five, any consciousness-mediated effect it carries is minimal in a formally precise sense: it preserves ensemble statistics, geometric structure, locality, interference order, and conservation laws, adding information without energy. Whether such a coupling exists is open: the Map has no worked toy model of the mechanism ([P-Q10](/positions/quantum-interface/#p-q10), part of the [mechanism debt](/positions/quantum-interface/#mechanism-debt)), and no theorem yet shows that selection-only coupling meets the [thermodynamic conditions](/concepts/conservation-laws-and-mental-causation/) beyond energy accounting.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is formalised by the requirement for a non-trivial coupling map C. If consciousness were epiphenomenal — correlated with physical states but causally inert — then C would be the identity function and the three-component apparatus would be unnecessary. The Map's insistence on genuine causal influence demands that C be a non-degenerate map: given the same physical state p, different conscious states e₁ and e₂ can yield different physical outcomes. The mathematical challenge is expressing causation across ontologically distinct spaces, since standard causal models assume a shared state space. Chalmers and McQueen's Φ-dependent collapse rate is the most developed attempt, though one that lies outside the corridor (it replaces unitary evolution with Φ-dependent collapse dynamics, while its outcome probabilities stay Born-rule): consciousness (measured by integrated information Φ) directly modifies a dynamical equation governing physical evolution.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** is presupposed. The coupling map C requires genuine collapse — a transition from superposition to definite outcome. Under many-worlds, all outcomes occur and there is nothing for C to select; the coupling-map formalism has no role to play *given the Map's rejection of MWI*. This is a framework-boundary marking rather than a claim that the mathematics defeats Everett: the Born-rule reconstructions these constraints rest on belong to the same derivational lineage as the Everettian decision-theoretic Born derivation, so MWI is a rival claimant to the theorems, not an interpretation they render empty. The Map declines MWI on the fourth tenet and states the boundary plainly.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies to the specification gap. The temptation is to eliminate E from the formalism — reducing to a single state space P with no coupling map needed. This is simpler, but it purchases parsimony by ignoring the explanandum. If consciousness is irreducible and causally efficacious, the three-component formalism is not optional complexity but necessary structure. The five constraints show that even granting the full apparatus, the resulting interaction is minimal — parsimony is preserved where it matters (empirical predictions) while honesty is maintained about what the theory requires (two domains, lawfully related).
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies to the specification gap. The temptation is to eliminate E from the formalism — reducing to a single state space P with no coupling map needed. This is simpler, but it purchases parsimony by ignoring the explanandum. If consciousness is irreducible and causally efficacious, the three-component formalism is not optional complexity but necessary structure. The five constraints mean that even granting the full apparatus, a coupling meeting them would be minimal — parsimony would be preserved where it matters (empirical predictions) while honesty is maintained about what the theory requires (two domains, lawfully related).
 
 ## Further Reading
 

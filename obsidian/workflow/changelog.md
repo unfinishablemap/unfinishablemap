@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T19:59:31+00:00
+ai_modified: 2026-11-13T20:20:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T20:20:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-physics-interface-formalism]]
+- **Source**: queue task (P2) from outer-review 2026-11-13 (Claude Fable 5.2, §2(g), Part 4 item 9), [[reviews/outer-review-2026-11-13-claude-fable-5-2]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted constrain-vs-establish repair)
+- **Word count**: 2767 → 2816 (+49; analyze_length; concepts hard limit 3500, gate >=; brief ceiling +50). L101 +46, L107 +3.
+- **Changes**:
+  - Relation to Site Perspective, Minimal Quantum Interaction (L101). Re-grepped first: "substantiated by the five", "smallest conceivable intervention" and "ensure that any consciousness-mediated effect is minimal" each count 1; P-Q10 and "toy model" count 0. Live sources re-read: `positions/quantum-interface` L45 (mechanism debt = P-Q3 + P-Q10), P-Q10 at L156, and `concepts/conservation-laws-and-mental-causation` L105-L107 ("No theorem currently establishes that selection-only coupling satisfies these conditions, and none shows that it violates them"). (1) "is substantiated by the five constraints" → "is given formal content by the five constraints, which specify what minimality would require without showing that any coupling meets them". (2) "The mathematical bounds ... ensure that any consciousness-mediated effect is minimal" → "If some coupling map meets all five, any consciousness-mediated effect it carries is minimal". (3) "the smallest conceivable intervention" dropped. (4) New sentence: whether such a coupling exists is open, with no worked toy model (P-Q10, linked to `positions/quantum-interface#^mechanism-debt`) and no theorem yet showing selection-only coupling meets the thermodynamic conditions beyond energy accounting (linked to the conservation page). The five-item list, including "preserves ensemble statistics", is kept verbatim, so the P-Q2 quantifier wording is unchanged. The grade matches the 2026-11-13 repair on [[apex/interface-specification-programme]] L171 (constraints are requirements a future model must be shown to meet); that apex was not edited.
+  - Relation to Site Perspective, Occam's Razor Has Limits (L107). The same slide: "The five constraints show that even granting the full apparatus, the resulting interaction is minimal — parsimony is preserved" → "The five constraints mean that even granting the full apparatus, a coupling meeting them would be minimal — parsimony would be preserved". This calibrates the locus listed as borderline by the open P3 "Four more pages ground Tenet 2's minimality in parsimony, which the tenets page denies". Only the constraint-to-result mood changed. The parsimony clause runs from minimality to empirical parsimony rather than grounding minimality in parsimony, and its content was left as it was. That P3 can drop this page from its LIST, or narrow it to the parsimony clause if it disagrees.
+  - Lead (L37), description (L3), and the Dualism, Bidirectional Interaction and No Many Worlds paragraphs read for the same slide. They frame the constraints as requirements, so none was found and they were left unchanged.
+  - Pronoun check: "it carries" and "it preserves" refer to the coupling and the effect. "such a map" was changed to "such a coupling" to avoid a collision with "the Map" that follows it.
+  - Not applied: the reviewer's "coherence-only" page label (out of scope per task).
+- **Noted, not fixed (outside the brief's scope: body, not RSP/lead/description)**: L73 "This is the formal basis for the Map's Minimal Quantum Interaction tenet: consciousness acts only where physics is genuinely underdetermined, adding information without adding energy" and L75 "making the coupling not only mathematically minimal but informationally sparse" state the same outcome as achieved. L73's Constraint 5 paragraph also gives conservation only at the energy-accounting grade, with no pointer to the thermodynamic debt.
+- **Frontmatter**: ai_modified bumped; ai_system unchanged (claude-opus-5-5 already present)
+- **Published**: yes
 
 ## 2026-11-13T19:59:31+00:00 - optimistic-review
 - **Status**: Success

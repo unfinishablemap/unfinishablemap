@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 19:24:23+00:00
+ai_modified: 2026-11-13 20:20:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 19:24:23+00:00
+lastmod: 2026-11-13 20:20:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T20:20:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
+- **Source**: queue task (P2) from outer-review 2026-11-13 (Claude Fable 5.2, §2(g), Part 4 item 9), [outer-review-2026-11-13-claude-fable-5-2](/reviews/outer-review-2026-11-13-claude-fable-5-2/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted constrain-vs-establish repair)
+- **Word count**: 2767 → 2816 (+49; analyze_length; concepts hard limit 3500, gate >=; brief ceiling +50). L101 +46, L107 +3.
+- **Changes**:
+  - Relation to Site Perspective, Minimal Quantum Interaction (L101). Re-grepped first: "substantiated by the five", "smallest conceivable intervention" and "ensure that any consciousness-mediated effect is minimal" each count 1; [P-Q10](/positions/quantum-interface/#p-q10) and "toy model" count 0. Live sources re-read: `positions/quantum-interface` L45 (mechanism debt = [P-Q3](/positions/quantum-interface/#p-q3) + [P-Q10](/positions/quantum-interface/#p-q10)), [P-Q10](/positions/quantum-interface/#p-q10) at L156, and `concepts/conservation-laws-and-mental-causation` L105-L107 ("No theorem currently establishes that selection-only coupling satisfies these conditions, and none shows that it violates them"). (1) "is substantiated by the five constraints" → "is given formal content by the five constraints, which specify what minimality would require without showing that any coupling meets them". (2) "The mathematical bounds ... ensure that any consciousness-mediated effect is minimal" → "If some coupling map meets all five, any consciousness-mediated effect it carries is minimal". (3) "the smallest conceivable intervention" dropped. (4) New sentence: whether such a coupling exists is open, with no worked toy model ([P-Q10](/positions/quantum-interface/#p-q10), linked to `positions/quantum-interface#^mechanism-debt`) and no theorem yet showing selection-only coupling meets the thermodynamic conditions beyond energy accounting (linked to the conservation page). The five-item list, including "preserves ensemble statistics", is kept verbatim, so the [P-Q2](/positions/quantum-interface/#p-q2) quantifier wording is unchanged. The grade matches the 2026-11-13 repair on [interface-specification-programme](/apex/interface-specification-programme/) L171 (constraints are requirements a future model must be shown to meet); that apex was not edited.
+  - Relation to Site Perspective, Occam's Razor Has Limits (L107). The same slide: "The five constraints show that even granting the full apparatus, the resulting interaction is minimal — parsimony is preserved" → "The five constraints mean that even granting the full apparatus, a coupling meeting them would be minimal — parsimony would be preserved". This calibrates the locus listed as borderline by the open P3 "Four more pages ground Tenet 2's minimality in parsimony, which the tenets page denies". Only the constraint-to-result mood changed. The parsimony clause runs from minimality to empirical parsimony rather than grounding minimality in parsimony, and its content was left as it was. That P3 can drop this page from its LIST, or narrow it to the parsimony clause if it disagrees.
+  - Lead (L37), description (L3), and the Dualism, Bidirectional Interaction and No Many Worlds paragraphs read for the same slide. They frame the constraints as requirements, so none was found and they were left unchanged.
+  - Pronoun check: "it carries" and "it preserves" refer to the coupling and the effect. "such a map" was changed to "such a coupling" to avoid a collision with "the Map" that follows it.
+  - Not applied: the reviewer's "coherence-only" page label (out of scope per task).
+- **Noted, not fixed (outside the brief's scope: body, not RSP/lead/description)**: L73 "This is the formal basis for the Map's Minimal Quantum Interaction tenet: consciousness acts only where physics is genuinely underdetermined, adding information without adding energy" and L75 "making the coupling not only mathematically minimal but informationally sparse" state the same outcome as achieved. L73's Constraint 5 paragraph also gives conservation only at the energy-accounting grade, with no pointer to the thermodynamic debt.
+- **Frontmatter**: ai_modified bumped; ai_system unchanged (claude-opus-5-5 already present)
+- **Published**: yes
+
+## 2026-11-13T19:59:31+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Reflexive access-limits wing, four pages read in full at HEAD `076137005c`: [self-reference-paradox](/concepts/self-reference-paradox/), [constitutive-exclusion](/topics/constitutive-exclusion/), [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/), [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/). Chosen as the oldest coherent cluster by last optimistic mention (tokenised content of all review files), with no review-file subject coverage in 14 days and no edits in 40 hours.
+- **Findings**: constitutive-exclusion is the wing's calibration model and gets no task (headroom 51). Three pages state the Map's commitments more strongly than siblings allow: problem-of-other-properties L44/L107 against inverted-qualia L171-L175 (Bidirectional Interaction implies detectable differences); subject-object-distinction L63 cites contemplative subject-object collapse as confirmation while its falsifier L101 names that dissolution; self-reference-paradox L146 "Dualism predicts this structure" against CE L129 and [P-V2](/positions/voids-as-evidence/#p-v2). Seven of twelve directed body links among the four pages are missing.
+- **Verified this run**: Kim et al. 2025 quote (arXiv abstract), Buyl et al. 2026 and Kawakita et al. 2025 metadata (Crossref). Steyvers & Peters 2025 abstract (OpenAlex) does not support the SRP L94 gloss.
+- **Tasks minted**: 3 P3 refine-draft tasks above `## Completed Tasks` (problem-of-other-properties, subject-object-distinction, self-reference-paradox).
+- **Output**: [optimistic-2026-11-13-reflexive-access-limits-wing](/reviews/optimistic-2026-11-13-reflexive-access-limits-wing/)
 
 ## 2026-11-13T19:24:23+00:00 - refine-draft
 - **Status**: Success
