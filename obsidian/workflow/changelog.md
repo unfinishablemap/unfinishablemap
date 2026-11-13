@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T21:05:04+00:00
+ai_modified: 2026-11-13T21:50:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T21:50:44+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.
+- **Mode**: fresh screen under the 21:47Z driver brief (`screen_1113b.py` in the session scratchpad, foreground). Section counts from `count_section_files` at 21:47Z: topics 370/370, concepts 370/370, voids 120/125.
+- **Filter survival**: 863 raw `.md` files, then 859 after dropping the three section index pages and `topics/non-temporal-consciousness.refinement-log.md` (before any pairwise arithmetic), 815 after the age floor (`created:` before 2026-10-14), and 450 after dropping slugs named in an open `###`, `**File**` or `**Secondary**` line in Active or Blocked Tasks (193 topics, 178 concepts, 79 voids). This pool is wider than the 05:18Z run's 158 because the brief sets no recent-edit exclusion.
+- **Result**: 101,025 pairs. Overlap and length fit still do not intersect. Every pair at TF-IDF cosine >= 0.30 needs at least 1,176 words cut to fit under the larger section's hard threshold (`analyze_length` totals, gate `>=`), and every pair at cosine >= 0.20 needs at least 802. The 82 pairs that fit have cosine <= 0.123. The highest shared-5-gram fraction is 9.9% (`concepts/carrolls-regress` + `voids/inference-void`), so no page in the pool near-duplicates another.
+- **Groups read** (all declined):
+  1. `concepts/capability-division-in-vision` (2969) + `voids/capability-division-problem` (2994), cosine 0.460. Applied case and general problem: the void page hands the vision evidence to the concept page and adds the epiphenomenalist trap, "Beyond Vision" and the rendering exhibit. Over by about 2,300.
+  2. `concepts/meta-problem-of-consciousness` (3426) + `topics/metaproblem-of-consciousness-under-dualism` (3919), cosine 0.457. General formulation and interactionist spinoff: the topic says it develops "the specifically interactionist advantage" and defers to the concept for the landscape. Over by about 3,100.
+  3. `concepts/prehension` (1988) + `concepts/process-philosophy` (2748), cosine 0.380. One component concept inside a framework page, which links down to it under its own `### Prehension and Experience`. Over by about 1,180.
+  4. `concepts/apophatic-approaches` (1877) + `voids/apophatic-cartography` (2959), cosine 0.275. The method and its formal extension: the concept says the cartography "develops these methods into a formal framework with explicit evidential criteria". Over by about 1,290.
+  5. `concepts/functional-seeming` (1943) + `concepts/seemings` (2488), cosine 0.247. A critique of Frankish's view and a comparison hub that adjudicates between it and phenomenal conservatism. Over by about 920.
+  6. `concepts/phenomenal-depth` (1475) + `concepts/phenomenal-presentation` (1572). This is the only fitting pair with any similarity (cosine 0.123, 453 words spare), but the overlap comes only through presentation's `**Versus [[phenomenal-depth]]**` pointer, and the two pages describe different things (structure as against givenness).
+  7. `concepts/generalised-probabilistic-theories` (2495) + `concepts/local-tomography-and-the-consciousness-physics-interface` (3006), cosine 0.364, 5.6% shared. A framework and one of its axioms: the framework page hands the axiom's failure regimes to the axiom page. Over by about 1,890.
+- **Ancestry angle**: the only shared `coalesced_from` ancestors among eligible pages belong to `topics/split-brain-consciousness` (3988) + `concepts/brain-interface-boundary` (3314), which is 7,302 words in total and was declined in earlier runs.
+- **Finding**: unchanged. Cap relief in topics and concepts has to come from `/archive`, `/condense` or a cap raise, not from coalesce.
 
 ## 2026-11-13T21:05:04+00:00 - refine-draft
 - **Status**: Success
