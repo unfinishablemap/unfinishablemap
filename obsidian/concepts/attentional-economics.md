@@ -4,7 +4,7 @@ description: "Agency is the allocation of attention over time. Within the Map's 
 created: 2026-01-31
 modified: 2026-11-01
 human_modified:
-ai_modified: 2026-11-01T12:21:44+00:00
+ai_modified: 2026-11-13T06:04:32+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-31
 last_curated:
 last_deep_review: 2026-07-16T18:08:59+00:00
@@ -84,7 +84,7 @@ The framework yields a practical corollary: *improving attentional skills increa
 
 These aren't merely subjective improvements. Within the Map's framework, they are *expansions of conscious causal power*. A meditator who can sustain focus for thirty minutes has more "attentional capital" to invest than someone whose attention scatters every thirty seconds.
 
-[[mental-effort|Mental effort]] phenomenology supports this interpretation. Sustaining attention *feels* effortful—there's a phenomenal cost. This felt effort corresponds to genuine work: whatever the mechanism, sustained attention holds neural patterns stable against competing alternatives. Training reduces the effort required for equivalent focus, which is to say it increases attentional efficiency—more stabilisation per unit of felt cost. Schwartz & Begley (2002) cite OCD patients who completed cognitive-behavioural therapy showing altered caudate metabolism on PET imaging—though the original study had only 18 participants and its metabolic finding has not been replicated with the same method outside the UCLA group; Nakatani et al. (2003) did find the same right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). The finding is suggestive but the causal role of attentional effort specifically, versus behavioural change more broadly, remains an open question.
+[[mental-effort|Mental effort]] phenomenology supports this interpretation. Sustaining attention *feels* effortful—there's a phenomenal cost. This felt effort corresponds to genuine work: whatever the mechanism, sustained attention holds neural patterns stable against competing alternatives. Training reduces the effort required for equivalent focus, which is to say it increases attentional efficiency—more stabilisation per unit of felt cost. Schwartz & Begley (2002) cite OCD patients who completed cognitive-behavioural therapy showing altered caudate metabolism on PET imaging—though the original study had only 18 participants and its metabolic finding has not been replicated with the same method outside the UCLA group; Nakatani et al. (2003) did find a right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). The finding is suggestive but the causal role of attentional effort specifically, versus behavioural change more broadly, remains an open question.
 
 ## The Phenomenology of Attentional Choice
 

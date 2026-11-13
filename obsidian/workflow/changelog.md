@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T05:18:33+00:00
+ai_modified: 2026-11-13T06:04:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T06:04:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Secondary files**: [[concepts/attentional-economics]], [[concepts/bidirectional-interaction]], [[concepts/meditation-and-consciousness-modes]], [[concepts/attention-as-interface]]
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted fix from deep-review 2026-11-12 neuroplasticity sibling sweep and outer-review-synthesis 2026-11-13 clusters C1/C2)
+- **Source check**: PubMed abstracts fetched by curl (E-utilities) this pass. Schwartz et al. 1996 (PMID 8629886): "Behavior therapy responders had significant (P < .05) bilateral decreases in caudate glucose metabolic rates"; nine new patients combined with nine from the previous study. Baxter et al. 1992 (PMID 1514872): "LCMRG1c in the head of the right caudate nucleus ... was decreased significantly compared with pretreatment values in responders to both drug and behavior therapy". Nakatani et al. 2003 (PMID 14561429): Xenon inhalation rCBF; "22 OCD patients who had demonstrated a significant improvement after the behavior therapy"; "a significant decrease was found in the rCBF in the right head of the caudate nucleus that tended to correlate with clinical improvement". Kral et al. 2022 (PMID 35594344): two three-arm RCTs, "Meditation-naïve participants (n = 218)", 8-week MBSR, "failed to replicate prior findings and found no evidence that MBSR produced neuroplastic changes ... in regions of interest drawn from prior MBSR studies".
+- **Changes**: (1) All five pages: Nakatani "found the same right-caudate decrease" changed to "a right-caudate decrease". On every page "the same" pointed back to the Schwartz PET finding, which is bilateral in the 1996 abstract; no page cites Baxter 1992, so none was re-pointed. Nakatani's right-caudate finding, 22 patients and blood-flow method confirmed from its abstract. (2) mental-effort: the Kral sentence rescoped from "Earlier structural claims (cortical thickness) have been weakened" to eight-week MBSR claims not replicated in two combined randomised trials of meditation-naïve participants, with the long-term-practitioner cortical-thickness comparison stated as untested. (3) mental-effort: "no obvious selection pressure to track it accurately, yet it does" changed to "even roughly, yet it does"; "effort tracks the neural change" changed to "felt effort imperfectly tracks the neural change", in line with the lead's statement that the felt sense detaches from the operation it reports. Tenet 3 claims unchanged.
+- **Lengths** (analyze_length, before to after): mental-effort 3,360 to 3,368; attentional-economics 3,056 to 3,055; bidirectional-interaction 3,497 to 3,496; meditation-and-consciousness-modes 3,490 to 3,489; attention-as-interface 3,468 to 3,467.
+- **Found, not changed**: mental-effort "matching phenomenology to causal role" (Schwartz paragraph) and the closing "harder to square with epiphenomenalism than with interactionist dualism", which sits beside the section's opening "fits a materialist one equally well"; topics/contemplative-practice-as-philosophical-evidence "meditation reshapes neural architecture" (about L161).
+- **Reasoning mode**: no named-opponent reply edited.
+- **Published**: yes
 
 ## 2026-11-13T05:50:54+00:00 - refine-draft
 - **Status**: Success

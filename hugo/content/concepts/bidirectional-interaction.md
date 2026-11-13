@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-11-04 17:38:24+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-13 06:04:32+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[psychophysical-laws]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 21:01:20+00:00
-lastmod: 2026-11-04 17:38:24+00:00
+lastmod: 2026-11-13 06:04:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ The conscious/unconscious processing literature reveals systematic asymmetries. 
 
 The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides three converging strands—two empirical, one a proposed mechanism—that are compatible with bidirectional causation, though each admits materialist reinterpretation.
 
-**OCD self-directed neuroplasticity**: Jeffrey Schwartz's four-step cognitive protocol (Relabel, Reattribute, Refocus, Revalue) found that OCD patients using cognitive-behavioural techniques—no medication—showed normalisation of hyperactive caudate nucleus metabolism on PET imaging (Schwartz, 1998). However, the original study included only 18 participants (9 new), its metabolic finding has not been replicated with the same method outside the UCLA group—though Nakatani et al. (2003) did find the same right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow—and it lacked comparison with standard exposure-response prevention therapy. The finding is suggestive but the materialist counter-explanation—that behavioural change produces neural change through standard Hebbian learning—remains viable.
+**OCD self-directed neuroplasticity**: Jeffrey Schwartz's four-step cognitive protocol (Relabel, Reattribute, Refocus, Revalue) found that OCD patients using cognitive-behavioural techniques—no medication—showed normalisation of hyperactive caudate nucleus metabolism on PET imaging (Schwartz, 1998). However, the original study included only 18 participants (9 new), its metabolic finding has not been replicated with the same method outside the UCLA group—though Nakatani et al. (2003) did find a right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow—and it lacked comparison with standard exposure-response prevention therapy. The finding is suggestive but the materialist counter-explanation—that behavioural change produces neural change through standard Hebbian learning—remains viable.
 
 **Psychotherapy pathway divergence**: CBT and pharmacotherapy produce comparable clinical outcomes through *different neural pathways*. An activation-likelihood-estimation meta-analysis of 13 CBT neuroimaging studies found consistent *decreases* in prefrontal and precuneus activation following purely psychological treatment, though its emotion-task subanalysis found no regions surviving (Yuan et al., 2022). The treatment-mechanism literature characterises this as a dual-process asymmetry: psychological therapies act primarily top-down on prefrontal regulatory circuits, while antidepressants act more directly bottom-up on limbic targets. If robust, this divergence suggests top-down and bottom-up are genuinely different causal types rather than different descriptions of the same physical process.
 

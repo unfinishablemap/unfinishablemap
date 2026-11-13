@@ -4,7 +4,7 @@ description: "The hypothesis that consciousness acts on the brain through phenom
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-10-12T07:13:43+00:00
+ai_modified: 2026-11-13T06:04:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -63,7 +63,7 @@ related_articles:
   - "[[relevance-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-2
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-25T22:56:09+00:00
@@ -229,7 +229,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Attention-mediated selection satisfies the "minimal" constraint—operating at quantum indeterminacies without injecting energy or violating physical laws. Consciousness does not generate force; it biases which accumulating option wins the threshold race.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The interface hypothesis specifies the downward direction. Schwartz's OCD neuroplasticity is suggestive rather than grounding: the original PET study had only 18 participants and its metabolic finding has not been replicated by the same method outside the UCLA group, though Nakatani et al. (2003) found the same right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Whether attentional effort specifically or behavioural change more broadly carries the causal role remains open.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The interface hypothesis specifies the downward direction. Schwartz's OCD neuroplasticity is suggestive rather than grounding: the original PET study had only 18 participants and its metabolic finding has not been replicated by the same method outside the UCLA group, though Nakatani et al. (2003) found a right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Whether attentional effort specifically or behavioural change more broadly carries the causal role remains open.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The phenomenology of attention *as selection* presupposes genuine alternatives—choosing *this* over *that*. On MWI, both occur. Self-locating explains the *appearance* of efficacy, and the standard indexical reply adds that phenomenology in *this* branch correlates with Born-rule amplitude weight, so differential results between engaged and passive attention have a within-branch physical story. The disagreement with MWI is a tenet commitment honestly noted, not a victory over MWI on its own terms.
 
