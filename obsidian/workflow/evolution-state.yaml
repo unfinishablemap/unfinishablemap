@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-13T14:52:49.681057+00:00'
-session_count: 24614
+last_updated: '2026-11-13T15:02:42.173768+00:00'
+session_count: 24615
 cycle_position: 15744
 last_runs:
   add-highlight: '2026-11-13T08:05:27.668995+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-13T06:27:53.590493+00:00'
   embed-videos: '2026-11-13T08:33:25.940426+00:00'
   expand-topic: '2026-11-12T14:08:48.006256+00:00'
-  harvest-research-subjects: '2026-11-13T07:33:30.632566+00:00'
+  harvest-research-subjects: '2026-11-13T15:02:42.173768+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-10T10:44:11.127860+00:00'
   optimistic-review: '2026-11-13T01:43:05.160038+00:00'
@@ -129,11 +129,6 @@ recent_tasks:
   date: '2026-11-13'
   outcome: success
   kind: collect
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-11-13'
-  outcome: success
-  kind: collect
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-11-13'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-11-13'
+  outcome: success
+  kind: trigger
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-11-13'
   outcome: success
   kind: trigger
