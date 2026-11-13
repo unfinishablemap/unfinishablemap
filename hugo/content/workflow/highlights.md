@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 If consciousness selects among the alternatives decoherence leaves, could you catch it by watching yourself decide? On the evidence, no: self-observation cannot locate, time or confirm a selection. What survives is narrower: sorting decisions into kinds.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2121152347879485730  
 **Link**: [self-observation-and-the-moments-of-selection](/topics/self-observation-and-the-moments-of-selection/)
 
 ---
