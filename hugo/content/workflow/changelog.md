@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 14:24:30+00:00
+ai_modified: 2026-11-13 14:50:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 14:24:30+00:00
+lastmod: 2026-11-13 14:50:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T14:50:06+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [moral-status-of-edge-cases](/apex/moral-status-of-edge-cases/)
+- **Changed sources**: 9 of 14 (top scorer, 477 = 53 days × 9; baseline 2026-09-20T14:58)
+- **Word count**: 4504 → 4248 (apex soft 4,000 / hard 5,000; net −256 while integrating new material)
+- **Integrated**: cognitive-motor-dissociation evidence (new source `topics/covert-consciousness-and-cognitive-motor-dissociation`) splits recommendation 2 into a tenet-free evidential layer and a [P-SC3](/positions/subject-census/#p-sc3)-dependent layer; [P-CS7](/positions/consciousness-scope/#p-cs7) in the foetal case (a condition for channel onset, no date) and in rec. 5 (answers the *whether*, not one-versus-several); [P-AS2](/positions/ai-substrate-verdicts/#p-as2) candidate eligibility law; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) low-edge pin; [P-AC3](/positions/ai-consciousness-scope/#p-ac3)'s two premises (discharges the open P3 "L139 still glosses [P-AC3](/positions/ai-consciousness-scope/#p-ac3) …"); [P-MS1](/positions/moral-status/#p-ms1)'s status/stakes/leverage separation; agency-rival cascade flag (Mogensen, *PPR* 2025)
+- **Fixed**: thesis now four regions, matching the body; Fekete et al. escape clause restored; invertebrate pseudo-quote replaced with the page's verbatim conditional; coma attributed to [P-MS1](/positions/moral-status/#p-ms1)'s extension, not to [P-CS4](/positions/consciousness-scope/#p-cs4)/[P-SC3](/positions/subject-census/#p-sc3)
+- **Open for positions-evolve**: [P-SC3](/positions/subject-census/#p-sc3) "nothing in the corpus licenses reading" pairing off markers vs [P-CS7](/positions/consciousness-scope/#p-cs7)'s marker-identified adequacy sufficing for coupling
+- **Review**: [apex-evolve-2026-11-13-moral-status-of-edge-cases](/reviews/apex-evolve-2026-11-13-moral-status-of-edge-cases/)
 
 ## 2026-11-13T14:24:30+00:00 - research-voids
 - **Status**: Success
