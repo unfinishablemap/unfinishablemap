@@ -451,9 +451,9 @@
   prompt_summary: 'Full-site audit: hostile-referee review of empirical claims and
     citations'
   target_filename: outer-review-2026-11-13-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 1
-  last_attempt_at: '2026-11-13T04:34:27.894293+00:00'
+  last_attempt_at: '2026-11-13T04:52:11.082886+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) auditing the website https://unfinishablemap.org.

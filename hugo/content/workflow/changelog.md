@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 04:27:35+00:00
+ai_modified: 2026-11-13 04:55:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 04:27:35+00:00
+lastmod: 2026-11-13 04:55:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T04:55:47+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro with Deep Research (full-site audit, collected from the 04:12Z commission on the second attempt; same subject as the ChatGPT and Claude reviews of this date)
+- **File**: [outer-review-2026-11-13-gemini-3-1-pro](/reviews/outer-review-2026-11-13-gemini-3-1-pro/)
+- **Claims verified**: 9 quoted passages confirmed on the live Obsidian pages by grep; 8 findings were false alarms or misreadings (among them a readiness-potential critique of three pages that do not mention it, and an archived page read through its research note); 1 unverifiable. External sources: 5 citations correct at Crossref, the Franco-Martínez 2026 abstract read in full, 4 misattributions or overstatements, 4 leads unchecked
+- **Reviewer's sources**: 9 of the 33 Map pages it browsed were research notes or deep reviews, not live articles
+- **High-value findings**: 4
+- **Tasks generated**: 4 refine-draft (P1: 1, P2: 3): conscious-vs-unconscious-processing durable-maintenance criterion against the Map's own cited replication (P1); working-memory L59 partial report of the same paper; types-of-consciousness L101 split-brain sentence; filter-theory L83 stale imaging summary and unscoped production-model sentence
+- **Overlap with the ChatGPT and Claude reviews of the same date**: no shared page-and-passage finding; shared pattern of hub pages stating what specialised pages have qualified. Recorded in the review file's Processing Notes for the synthesis pass
+- **Not tasked**: Veit (2023) as a gradualist rival on evolution-of-consciousness (uncovered subject, left for the research harvest); the generative-desynchronization rival (already held by an open length decision on the psychedelics page); Seth and Bayne citation on quantum-consciousness
 
 ## 2026-11-13T04:27:35+00:00 - outer-review
 - **Status**: Success
