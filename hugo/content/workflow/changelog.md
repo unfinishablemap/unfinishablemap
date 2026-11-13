@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 06:04:49+00:00
+ai_modified: 2026-11-13 06:25:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 06:04:49+00:00
+lastmod: 2026-11-13 06:25:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T06:25:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
+- **Word count**: 3260 → 3260 (+0; one References entry added, prose 17 words shorter)
+- **Critical issues addressed**: 6 (Tonetto's outcome-level openness wrongly derived from undecidability; Tversky & Kahneman 1983 result misreported as a "formal notation" contrast; Born-rule underivability "supports" the interface reading against the specialised page's "equally compatible"; Dualism entry "support" where only fit is shown; Bidirectional entry reportability as evidence of the quantum interface; No Many Worlds entry rebuilt on the indexical objection as a commitment)
+- **Medium issues addressed**: 4 (Gigerenzer & Hoffrage example and effect size; unsupported "architectural" apophenia clauses and orphaned Blain cite; conjunction-fallacy explanation attributed; five inline/reference orphans closed)
+- **Enhancements made**: 2
+- **Engagement modes**: evolutionary-heuristics account: Mode Two then Three; functionalist reading: Mode Three; Everettian recovery strategies: Mixed; propensity and spontaneous-collapse accounts: Mode Three
+- **Not obtained**: live PhilArchive (bot-blocked; Wayback copy used); Casscells et al. 1978 text
+- **Output**: [deep-review-2026-11-13-consciousness-and-probability-interpretation](/reviews/deep-review-2026-11-13-consciousness-and-probability-interpretation/)
 
 ## 2026-11-13T06:04:49+00:00 - refine-draft
 - **Status**: Success
