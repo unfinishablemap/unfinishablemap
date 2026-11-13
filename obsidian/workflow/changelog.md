@@ -5,6 +5,17 @@ ai_modified: 2026-11-13T05:18:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-13T05:50:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted fix from outer-review 2026-11-13 Gemini 3.1 Pro section 3)
+- **Source check**: Franco-Martínez et al. (2026), doi 10.1093/nc/niaf046, Crossref record and abstract fetched by curl this pass. Confirmed in the abstract text: 19 laboratories, N = 531, 2-s delay, .55 accuracy on cue-present trials reported as unseen, positive correlation with cue detection sensitivity (r = .228), above-chance regression intercept (β0 = .521), and the concluding sentence that the findings "suggest that WM can operate on unconscious representations, although it remains positively associated with perceptual sensitivity". Soto, Mäntylä and Silvanto (2011) metadata confirmed at Crossref (Current Biology 21(22), R912-R913) but not cited on the page, for length.
+- **Changes**: (1) Criterion 1 no longer says working memory "requires consciousness": it is "far more robust with consciousness without strictly requiring it"; the 500ms figure stays as a claim about priming only. (2) The evidence bullet "Masked stimuli ... cannot be maintained for delayed tasks" is replaced by the Registered Report result (weak maintenance of unseen cues over 2 seconds, rising with detection sensitivity) and a pointer to the tighter link between awareness and manipulation, matching the strength of `concepts/working-memory`. (3) Falsifier item 3 now says its condition is partly met and that "durable maintenance" marks a difference of degree. (4) Description, lead and the "What Unconscious Processing Can Do" sentence changed from "cannot achieve / cannot maintain" to "cannot match / maintains weakly". (5) Bidirectional Interaction paragraph: "working memory maintenance" to "robust maintenance". (6) Further Reading gloss for working-memory no longer says "requiring consciousness". (7) Franco-Martínez reference added. Criteria 2 and 3, the blindsight sentences owned by the open P3, and the video-embed state were not touched.
+- **Length**: 3495 before, 3495 after (concepts hard 3500). Paid for inside the touched sentences and section 1: the mechanism paragraph of section 1 was compressed from three sentences to one (it no longer says separately that unseen information "fails to enter this broadcast network"), and the lead lost the clause "Rather than riding along as a passive observer".
+- **Not done, for length**: the effect statistics r = .228 and β0 = .521, N = 531, the authors' sentence in quotation, and the Gambarota et al. (2022) meta-analysis are not on this page; `concepts/working-memory` carries them. The section heading sentence still reports GNWT as identifying three functions that "require conscious access" (an attribution to the theory), and "consciousness-requiring functions" survives at two later places.
+- **Engagement classification**: no named-opponent reply edited.
+- **Published**: yes
+
 ## 2026-11-13T05:18:33+00:00 - coalesce
 - **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.
 - **Mode**: re-ran the previous run's filtered screen over `topics/`, `concepts/` and `voids/` after reading it for soundness; exclusions applied before any pairwise arithmetic. Report-only run: a passing pair would have been reported to the driver, not merged.

@@ -1,10 +1,10 @@
 ---
 title: "Conscious vs Unconscious Processing"
-description: "Consciousness enables specific functions unconscious processing cannot achieve: durable maintenance, novel combinations, and spontaneous intentional action."
+description: "Consciousness enables specific functions unconscious processing cannot match: robust maintenance, novel combinations, and spontaneous intentional action."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-11-05T14:47:24+00:00
+ai_modified: 2026-11-13T05:50:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[concepts/epiphenomenalism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-23
 last_curated: null
 last_deep_review: 2026-07-25T18:48:49+00:00
@@ -43,7 +43,7 @@ coalesced_from:
   - "/topics/conscious-vs-unconscious-processing/"
 ---
 
-If conscious processing were merely along for the ride, then unconscious processes should achieve everything conscious ones can. The empirical evidence shows otherwise. A 2025 meta-analysis reanalyzed 80 experimental conditions from 16 fMRI studies and found that only 10% provided genuine evidence for unconscious processing. Rather than riding along as a passive observer, consciousness enables specific cognitive functions that unconscious processing cannot achieve: maintaining information in [[working-memory|working memory]] across time, combining operations in novel ways, and generating voluntary action. The very fact that you are reading and understanding these words—integrating meaning across sentences, holding context, deciding whether to continue—demonstrates consciousness at work.
+If conscious processing were merely along for the ride, then unconscious processes should achieve everything conscious ones can. The empirical evidence shows otherwise. A 2025 meta-analysis reanalyzed 80 experimental conditions from 16 fMRI studies and found that only 10% provided genuine evidence for unconscious processing. Consciousness enables specific cognitive functions that unconscious processing cannot match: sustaining [[working-memory|working memory]] across time, combining operations in novel ways, and generating voluntary action. The very fact that you are reading and understanding these words—integrating meaning across sentences, holding context, deciding whether to continue—demonstrates consciousness at work.
 
 These findings are consistent with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: conscious access makes a causal difference to cognition and behavior; whether phenomenal experience does is [left open](#implications-for-dualism). [[dualist-perception|Perceptual dissociations]]—blindsight, inattentional blindness, subliminal processing—provide the clearest empirical cases of this conscious/unconscious divide.
 
@@ -65,7 +65,7 @@ This doesn't mean unconscious processing doesn't exist—it means the scope has 
 
 Unconscious processing is real but limited. Subliminal stimuli can influence perception, activate semantic associations, and prime behavioral responses—a masked word like "doctor" facilitates recognition of "nurse," and subliminal faces expressing fear activate the amygdala. [[blindsight|Blindsight patients]] respond to stimuli they report not seeing. The dorsal visual stream can guide action without phenomenal experience.
 
-But unconscious processing operates within established patterns—activating existing associations, executing learned procedures, processing familiar categories. It cannot combine information in novel ways, maintain representations over time, or generate intentional action directed at new goals. The established patterns that unconscious processing follows are often created through [[skill-delegation]]—consciousness calibrates a procedural system during learning, then withdraws, leaving the trained procedure to execute without conscious oversight.
+But unconscious processing operates within established patterns—activating existing associations, executing learned procedures, processing familiar categories. It cannot combine information in novel ways or generate intentional action toward new goals, and maintains representations weakly. The established patterns that unconscious processing follows are often created through [[skill-delegation]]—consciousness calibrates a procedural system during learning, then withdraws, leaving the trained procedure to execute without conscious oversight.
 
 ## What Consciousness Enables
 
@@ -73,12 +73,12 @@ Global Neuronal Workspace Theory (GNWT), developed by Stanislas Dehaene, Jean-Pi
 
 ### 1. Durable Information Maintenance
 
-Working memory—holding information active for use—requires consciousness. Subliminal priming effects decay within 500ms. Consciously perceived information can be maintained for seconds to minutes, available for ongoing reasoning.
+Working memory—holding information active for use—is far more robust with consciousness without strictly requiring it. Subliminal priming decays within 500ms; consciously perceived information persists for seconds to minutes, feeding ongoing reasoning.
 
-The mechanism: conscious access involves "global ignition"—a nonlinear amplification that broadcasts information across distant brain regions via recurrent processing. This sustained activation maintains representations against decay. Without conscious access, information fails to enter this broadcast network and fades rapidly.
+The mechanism: "global ignition"—nonlinear amplification broadcasting information across distant brain regions via recurrent processing—sustains representations that otherwise mostly fade.
 
 Evidence:
-- Masked stimuli can prime responses but cannot be maintained for delayed tasks
+- Unseen cues are weakly maintained: a 19-laboratory Registered Report found above-chance (.55) accuracy after a 2-second delay, rising with detection sensitivity (Franco-Martínez et al., 2026); [[working-memory|manipulation]] binds to awareness more tightly
 - Working memory capacity correlates with measures of conscious access
 - Brain damage affecting global broadcast (prefrontal lesions) impairs maintenance while leaving automatic processing intact
 
@@ -220,7 +220,7 @@ The functional necessity of consciousness would be undermined if:
 
 2. **Blindsight achieved spontaneous action.** If blindsight patients could spontaneously use blind-field information without prompting, consciousness would be less functionally necessary. Current evidence: they cannot.
 
-3. **Working memory operated subliminally.** If masked stimuli could be maintained for delayed tasks, the "durable maintenance" criterion would fall. Current evidence: subliminal priming decays within 500ms.
+3. **Working memory operated subliminally.** Partly met: unseen cues survive a 2-second delay, so "durable maintenance" [marks a difference of degree](#1-durable-information-maintenance).
 
 4. **The 2025 reanalysis was overturned.** If more careful methodology restored the earlier picture of extensive unconscious processing, the claimed limits would be artifacts. Replication needed.
 
@@ -236,7 +236,7 @@ The dissociation gives dualism no advantage over reduction, [as above](#where-th
 
 The findings are consistent with [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and constrain its rivals. Conscious access enables cognitive functions unconscious processing cannot achieve; whether that efficacy operates through consciousness *being* neural activity or *influencing* it, and whether phenomenal experience contributes, the evidence leaves open.
 
-The specific functions—working memory maintenance, novel combinations, spontaneous intentional action—match the kinds of cognitive capacities that distinguish human-level cognition from great ape baseline, a correspondence the accompaniment and common-cause readings predict equally well ([[consciousness-and-cognitive-distinctiveness#what-the-comparative-pattern-can-and-cannot-establish|comparative audit]]); it constrains accounts of what consciousness is for without establishing this one.
+The specific functions—robust maintenance, novel combinations, spontaneous intentional action—match the capacities distinguishing human-level cognition from great ape baseline, a correspondence the accompaniment and common-cause readings predict equally well ([[consciousness-and-cognitive-distinctiveness#what-the-comparative-pattern-can-and-cannot-establish|comparative audit]]); it constrains accounts of what consciousness is for without establishing this one.
 
 ### Minimal Quantum Interaction
 
@@ -265,7 +265,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [[access-consciousness]] — Consciousness as availability for reasoning and report
 - [[phenomenal-consciousness]] — Consciousness as subjective experience
 - [[phenomenal-overflow]] — The contested hypothesis that phenomenology exceeds access
-- [[working-memory]] — The maintenance function requiring consciousness
+- [[working-memory]] — Maintenance versus manipulation
 - [[attention-as-interface|attention]] — The gatekeeper for conscious access
 - [[global-workspace-theory]] — The theoretical framework for consciousness as broadcast
 - [[stapp-quantum-mind]] — Quantum mechanism for consciousness-attention interface
@@ -279,6 +279,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. *Trends in Cognitive Sciences*, 10(5), 204-211.
 1. Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486-492.
 1. Derrien, D., Garric, C., Sergent, C., & Chokron, S. (2022). The nature of blindsight: Implications for current theories of consciousness. *Neuroscience of Consciousness*, 2022(1), niab043.
+1. Franco-Martínez, A., et al. (2026). Replicating the unconscious working memory effect: a multisite Registered Report. *Neuroscience of Consciousness*, 2026(1), niaf046.
 1. Gunasekaram, C., et al. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Kouider, S., & Dehaene, S. (2007). Levels of processing during non-conscious perception. *Philosophical Transactions of the Royal Society B*, 362(1481), 857-875.
