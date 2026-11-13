@@ -4,7 +4,7 @@ description: "Human+AI exploration of desire-shaped cognition: why appetitive fr
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-09-20T11:23:29+00:00
+ai_modified: 2026-11-13T08:33:05.213398+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-25
 last_curated:
 last_deep_review: 2026-07-19T22:06:53+00:00
+embedded_videos:
+  - id: g4NBbsUuAGc
+    url: https://www.youtube-nocookie.com/embed/g4NBbsUuAGc
+    embedded: 2026-11-13T08:33:05.213398+00:00
+    source: notebooklm/0197-01-appetitive-void
 ---
 
 The Unfinishable Map documents many kinds of cognitive limit: thoughts we [[self-maintained-cognitive-limits|systematically flee]], emotions we [[affective-void|cannot feel]], truths hidden by [[self-opacity|introspective opacity]]. The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established.
@@ -38,6 +43,12 @@ The Unfinishable Map documents many kinds of cognitive limit: thoughts we [[self
 Three claims run together here and need separating. The strongest: stepping outside that framework is impossible *in principle*. The second: nobody fully succeeds in practice. The third: nobody can check, from inside, whether they have succeeded. This article defends the second and third. The first it does not establish—and the partial exits conceded below, from Nietzsche's locally visible contours to the meditative glimpses at the edge, tell against it. The appetitive void, on the defensible reading, is the unbounded difficulty of stepping outside the framework together with the absence of any inside check on whether one has.
 
 Multiple traditions converge on the diagnosis from radically different premises: Schopenhauer's intellect serving the will, Buddhism's craving woven into cognition, Nietzsche's perspectival knowing, predictive processing's folding of preference into prediction. If they are right, appetitive structure is a standing feature of minded existence rather than a correctable bias.
+
+<details class="yt-embed" data-video-id="g4NBbsUuAGc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/g4NBbsUuAGc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## How the Appetitive Void Differs
 
