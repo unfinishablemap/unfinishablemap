@@ -1,10 +1,10 @@
 ---
 title: "Stapp's Quantum Mind Model"
-description: "Mental effort operates through the quantum Zeno effect: rapid attention holds neural patterns against decay, providing a mechanism for mind-matter interaction."
+description: "Henry Stapp proposes that mental effort acts through the quantum Zeno effect, with rapid attention holding neural patterns against decay—a route for mind-matter interaction."
 created: 2026-01-22
-modified: 2026-10-03
+modified: 2026-11-13
 human_modified: null
-ai_modified: 2026-11-02T14:09:06+00:00
+ai_modified: 2026-11-13T18:08:42+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -79,7 +79,7 @@ Neuroscience draws a related distinction. Willed attention (internally generated
 
 Jeffrey Schwartz developed a cognitive therapy for OCD based on his four-step method (Relabel, Reattribute, Refocus, Revalue), which teaches patients to redirect attention away from obsessive thoughts. PET showed altered caudate metabolism after successful treatment (Schwartz et al., 1996). Important caveats: the original study included only 18 participants (9 new), has not been replicated with the same method outside the UCLA group, and included no comparison with standard exposure-response prevention therapy. The four-step method can be characterised as modified CBT with an added cognitive framing, and the mainstream materialist explanation—that changed behaviour alters neural activation through Hebbian learning—fits the same data.
 
-Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken. The [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] from psychotherapy and placebo forms one preferential signature with the OCD data, compatible alike with the Zeno reading and a physical top-down route. Meditation structural remodelling, once cited as supporting evidence, has been weakened by replication failures (Kral et al., 2022).
+Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken. The [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] from psychotherapy and placebo forms one preferential signature with the OCD data, compatible alike with the Zeno reading and a physical top-down route. Structural change from eight-week mindfulness training, once cited as support, did not replicate (Kral et al., 2022).
 
 The clinical data is compatible with both the quantum interpretation and classical neural self-modification—cognitive-behavioural intervention has physical consequences either way. The philosophical case for Stapp's mechanism rests on independent arguments about quantum indeterminacy and the measurement problem, not on clinical evidence alone.
 
