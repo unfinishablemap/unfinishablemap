@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-11-13T16:27:10+00:00
+ai_modified: 2026-11-13T19:23:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,13 +62,13 @@ The Map should not hide behind this structural problem. That everyone faces the 
 
 **Claim**: Consciousness is not reducible to physical processes.
 
-**What would falsify it**: A complete, verified physical explanation of subjective experience that closes the [[explanatory-gap|explanatory gap]]—not merely identifying neural correlates (which dualism already expects) but demonstrating that physical description *entails* phenomenal experience. This would require resolving the [[hard-problem-of-consciousness|hard problem]] from the physicalist side: showing why and how certain physical configurations necessarily produce specific experiences.
+**What would falsify it**: A complete, verified physical explanation of subjective experience that closes the [[explanatory-gap|explanatory gap]]—not merely identifying neural correlates but demonstrating that physical description *entails* phenomenal experience, resolving the [[hard-problem-of-consciousness|hard problem]] from the physicalist side.
 
 A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's Room) showing that phenomenal knowledge is physical knowledge in a rigorous sense would constitute strong evidence. So would demonstrating that [[philosophical-zombies|conceivability arguments]] fail because consciousness is logically entailed by physical structure.
 
-**What would not count**: Finding more neural correlates of consciousness, demonstrating that brain damage affects consciousness, or showing that anaesthesia eliminates experience. Dualism already expects all of these through the interaction interface. A common error is treating evidence of mind-brain *correlation* as evidence of mind-brain *identity*—but correlation is precisely what interactionist dualism predicts.
+**What would not count**: More neural correlates, brain damage affecting consciousness, or anaesthesia eliminating experience. Dualism accommodates all of these through the interaction interface but earns no evidential credit for doing so, just as the correlations alone do not establish mind-brain *identity*: both readings accommodate the same data.
 
-**Honest assessment**: No path to decisive falsification appears to exist today. Dualism functions as a framework commitment testable through cumulative evidence rather than a single decisive experiment. Its strength seems to lie in the persistent failure of physicalist alternatives to close the explanatory gap—though this is an inference to the best available explanation, and the dualism-vs-physicalism question is itself underdetermined by the data, since no experiment yet discriminates a reducible from an irreducible reading of the same neural correlates. The Map should present this honestly: dualism earns its keep not by being directly testable but by being, on the Map's reading, the best available response to problems physicalism has so far been unable to solve.
+**Honest assessment**: Setting the falsifier at entailment makes dualism the hardest of the Map's claims about the world to test, and the bar is contested: a [[type-a-type-b-and-type-c-physicalism|Type-B physicalist]], holding the identity a posteriori, denies that physicalism owes any such entailment, and that disagreement over what an explanation must deliver sits close to bedrock. Short of entailment, a cumulative trend toward transparency, as with heat and molecular motion, would count against dualism, though no agreed scale yet measures such a trend ([[neural-correlates-of-consciousness]]). Dualism earns its keep not by being directly testable but as, on the Map's reading, the best available response to the gap's persistence, though the Type-B physicalist predicts that persistence too; no experiment yet discriminates a reducible from an irreducible reading of the same neural correlates.
 
 ## Tenet 2: Minimal Quantum Interaction
 
@@ -122,7 +122,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 **What would support the tenet**: Experimental confirmation of objective collapse through any mechanism. The levitated-optomechanical protocol proposed in 2025 — an unrefereed preprint aimed principally at CSL — would distinguish decoherence (compatible with MWI) from genuine collapse (incompatible with MWI) by detecting collapse-induced excess decoherence beyond environmental noise baselines. See [[testing-consciousness-collapse]] for the three-tier experimental programme.
 
-**Honest assessment**: MWI and collapse interpretations are empirically equivalent for all currently feasible experiments—the choice between them is underdetermined by the data presently available. The Map's rejection of MWI is motivated primarily by philosophical concerns—indexical identity, ontological profligacy—rather than empirical evidence (see [[many-worlds-argument]] for the full cumulative case). This is a legitimate philosophical stance but should not be presented as empirically testable in the near term. The collapse-vs-no-collapse question may become experimentally accessible within decades as quantum technology advances, and the Map should watch these developments closely; until it does, the data does not adjudicate the interpretive question.
+**Honest assessment**: MWI and collapse interpretations are empirically equivalent for all currently feasible experiments—the choice between them is underdetermined by the data presently available. The Map's rejection of MWI rests on philosophical grounds rather than empirical evidence: the indexical objection, held as a framework commitment and argued as a cumulative case, not a demonstrated defeat (see [[many-worlds-argument]]). This is a legitimate philosophical stance but should not be presented as empirically testable in the near term. The collapse-vs-no-collapse question may become experimentally accessible within decades as quantum technology advances, and the Map should watch these developments closely; until it does, the data does not adjudicate the interpretive question.
 
 ## Tenet 5: Occam's Razor Has Limits
 
@@ -182,7 +182,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** faces the challenge that non-physical causation may be permanently indistinguishable from complex physical processing. The Map accepts this, holding bare-correlation epiphenomenalism epistemically strained rather than refuted from inside.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** is the tenet most likely to become experimentally accessible in the near future. The Map should track quantum foundations experiments actively and be prepared to update.
+**[[tenets#^no-many-worlds|No Many Worlds]]** may become experimentally accessible within decades, though today only unrefereed blueprints exist. The Map should track quantum foundations experiments actively and be prepared to update.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is what makes publishing this roadmap coherent. The temptation is to adopt simpler frameworks that avoid the falsification question entirely. The Map resists this temptation not because simplicity is wrong but because it is unreliable when knowledge is incomplete—and knowledge about consciousness is profoundly incomplete.
 

@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 19:06:49+00:00
+ai_modified: 2026-11-13 19:24:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 19:06:49+00:00
+lastmod: 2026-11-13 19:24:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T19:24:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Source**: queue task (P2) from outer-review 2026-11-13 (Claude Fable 5.2, §2(h), §3, Part 4 item 16), [outer-review-2026-11-13-claude-fable-5-2](/reviews/outer-review-2026-11-13-claude-fable-5-2/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted three-repair pass)
+- **Word count**: 3997 → 3994 (-3; analyze_length; topics hard limit 4000, gate >=; brief ceiling 3997). Per edit: A +9, L65 -18, L69 -5, L71 +12, B -1.
+- **Changes**:
+  - (A) Tenet 4 honest assessment: "motivated primarily by philosophical concerns—indexical identity, ontological profligacy—rather than empirical evidence" is now "rests on philosophical grounds rather than empirical evidence: the indexical objection, held as a framework commitment and argued as a cumulative case, not a demonstrated defeat". This matches [many-worlds-argument](/arguments/many-worlds-argument/) L40 ("cumulative, not a demonstrated defeat"), L154 and L206 (the Map "cannot wield ontological economy"), which were re-grepped live first. "profligacy" count 1 → 0. The empirical-equivalence sentence and the "should not be presented as empirically testable in the near term" sentence are byte-identical.
+  - (B) Relation to Site Perspective, No Many Worlds: "the tenet most likely to become experimentally accessible in the near future" → "may become experimentally accessible within decades, though today only unrefereed blueprints exist". This is the L125 grade ("within decades") and the L150 table grade ("Unrefereed near-term blueprints only").
+  - (C) Tenet 1 falsifier asymmetry. L65: dropped the redundant "(which dualism already expects)" and compressed the hard-problem sentence; the entailment bar itself is unchanged. L69: "correlation is precisely what interactionist dualism predicts" → dualism "earns no evidential credit" for accommodating correlates, lesions and anaesthesia, "just as the correlations alone do not establish mind-brain *identity*: both readings accommodate the same data". That matches sibling [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/) L62 and [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) ("expects correlation in general, not its specific pattern"). L71 honest assessment now (i) says plainly that setting the falsifier at entailment makes dualism the hardest of the Map's claims about the world to test, (ii) notes that the Type-B physicalist denies physicalism owes entailment, so the disagreement over what an explanation must deliver sits close to bedrock, (iii) names the intermediate cumulative condition the NCC page lists (a trend toward transparency, as with heat and molecular motion, with no agreed scale), and (iv) concedes that Type-B predicts the gap's persistence too. The asymmetry is conceded, not claimed away.
+  - The reviewer's suggested falsifier was deliberately NOT adopted: a decoding model reaching the noise ceiling. The NCC page grades it "Reachable, not discriminating", since a deterministic psychophysical law also yields perfect prediction, and says it "presses only on deviation-predicting interaction models, not on the Map's default". Listing it as a Tenet 1 falsifier would have contradicted that page. NCC item 4 (progressive transparency) is the condition that counts against dualism short of entailment, so it was used instead.
+  - Engagement classification: the physicalist correlational argument (L69) is Mode One, an in-framework point the opponent can accept, that correlation alone discriminates neither identity nor interaction. The Type-B rejection of the entailment bar (L71) is Mode Three: it is marked as a boundary disagreement over what explanation owes, not refuted. Mixed overall.
+  - Untouched per coordination: the L133 epicycles/Kepler sentence (16:27Z repair), `tenets/tenets`, the Tenet 5 headline.
+- **Noted, not fixed**: [tenet-falsification-conditions-2026-04-05](/research/tenet-falsification-conditions-2026-04-05/) L203 still carries "(indexical identity, ontological profligacy)". This is the dated source research note, left as a historical record.
+- **Frontmatter**: ai_modified bumped; ai_system unchanged (claude-opus-5-5 already present)
+- **Published**: yes
 
 ## 2026-11-13T19:06:49+00:00 - refine-draft
 - **Status**: Success
