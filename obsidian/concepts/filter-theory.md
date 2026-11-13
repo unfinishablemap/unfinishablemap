@@ -4,7 +4,7 @@ description: "Filter theory reads the brain as transmitting and constraining con
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-10-11T03:39:43+00:00
+ai_modified: 2026-11-13T22:05:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,11 +80,11 @@ Filter theory denies that correlation establishes identity, using the radio anal
 
 ### The Psychedelic Paradox
 
-Neuroimaging studies of psychedelic states show *decreased* activity in the [[default-mode-network]] alongside *increased* global connectivity—yet subjects report *expanded*, *richer*, *more vivid* conscious experience (Carhart-Harris et al. 2012). On production models, disrupted neural organization should produce disrupted consciousness.
+Psilocybin imaging found *decreased* [[default-mode-network]] activity (Carhart-Harris et al. 2012), a result since [[psychedelics-and-the-filter-model#the-neuroimaging-paradox|provisionally recast]] as cortex-wide desynchronization dissolving distinctions between networks—yet subjects report *expanded*, *richer*, *more vivid* conscious experience. On *naive* production models, disrupted neural organization should produce disrupted consciousness.
 
 A physicalist would object that different neural processing simply produces different experience. What makes the filter reading attractive is its coherence with the [[hard-problem-of-consciousness|hard problem]], not this datum alone.
 
-Filter theory interprets this as follows: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*, which is what REBUS models (Relaxed Beliefs Under Psychedelics) describe as the relaxation of a function restricting experience to a biologically useful subset. The [[entropic-brain-hypothesis|entropic brain hypothesis]] supplies the quantitative counterpart, re-reading near-critical neural entropy as filter bandwidth.
+Filter theory interprets this as follows: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint—the brain isn't producing *less* consciousness but filtering *less*, which is what REBUS models (Relaxed Beliefs Under Psychedelics) describe as the relaxation of a function restricting experience to a biologically useful subset. The [[entropic-brain-hypothesis|entropic brain hypothesis]] supplies the quantitative counterpart, re-reading near-critical neural entropy as filter bandwidth.
 
 A metabolic caveat checks the "filter doing less work" inference at its weakest joint. The reduced default-mode signal is *localized* reconfiguration rather than whole-brain downregulation, and FDG-PET finds the psychedelic state metabolically expensive—a global rise in cerebral glucose metabolism, most marked frontally (Vollenweider et al. 1997). A valve doing less should cost less; the filter reading survives only by separating *what* the DMN does from *how much* it spends, so the metabolic data discriminates no better than the imaging. [[psychedelics-and-the-filter-model|The dedicated psychedelics article]] develops its other limits, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. [[edge-states-and-void-probes]] examines whether filter-loosening genuinely accesses territories closed to ordinary consciousness.
 

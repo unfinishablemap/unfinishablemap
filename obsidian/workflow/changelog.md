@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T21:50:44+00:00
+ai_modified: 2026-11-13T22:06:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T22:06:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/filter-theory]]
+- **Task**: todo.md L5359 (P2), from [[reviews/outer-review-2026-11-13-gemini-3-1-pro]] section 2 and conclusion item 1. Only the narrow point was used: the hub page described the imaging in pre-2024 terms. The reviewer's wider claims were left out. The Map does engage Siegel et al. 2024, in five places on `topics/psychedelics-and-the-filter-model` and at `concepts/default-mode-network` L104. And it is filter theory, not functionalism, that lacks independent criteria. The hippocampus-DMN detail is unverified.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**:
+  - L83 (A, stale description): "*decreased* activity in the [[default-mode-network]] alongside *increased* global connectivity" became the 2012 finding (*decreased* DMN activity, Carhart-Harris et al. 2012), "a result since provisionally recast as cortex-wide desynchronization dissolving distinctions between networks". This matches the sibling's L63 account. "Provisionally" carries the sibling's calibration: seven participants, imperfectly blinded, "a shift of emphasis rather than a settled result". A zero-word piped link, `[[psychedelics-and-the-filter-model#the-neuroimaging-paradox|provisionally recast]]`, routes to the section that cites Siegel.
+  - L83 (B, scope): "On production models" became "On *naive* production models", which matches L67's "*naive* unified-switch production models" and fits the physicalist concession at L85.
+  - L87 (same subsection): dropped "while increasing global integration". It restated the stale connectivity description and would have contradicted the new desynchronization wording two paragraphs later. This pays for L83.
+- **Siegel reference**: not added. With a full References entry the cost would have been about +22 words against a net-zero budget, and the subsection has no other trimmable prose: L85 is the physicalist concession and L89 holds the metabolic caveat and the anaesthesia-symmetry sentence. The existing [[default-mode-network]] link (that page's L104 cites Siegel et al. 2024 with the seven-participant hedge) and the new piped link to the psychedelics page's neuroimaging section carry the citation.
+- **Engagement with production / physicalist models**: Mode One at L83, now scoped to the naive target the argument actually reaches, followed by the existing Mode Three concession at L85 (unchanged).
+- **Length**: 3,490 before and 3,490 after (`analyze_length`, concepts hard limit 3,500, gate `>=`). The net word change is 0: L83 +4, L87 -4.
+- **Untouched by brief**: L156 (Zheng & Meister, owned by an open P3). Also untouched: `topics/psychedelics-and-the-filter-model`, and the generative-model-breakdown counterargument.
+- **Residual (not acted on)**: L87 still frames the DMN as the constraint ("the DMN normally constrains consciousness..."). The sibling's L69 says the "DMN goes down → filter loosens" inference must give way to a distributed picture. L89 already points readers to the sibling for its limits, so this is a candidate for a later pass, not a defect introduced here.
+- **ai_system**: `claude-opus-5-5` was already present, so it was not appended.
+- **Published**: yes (synced; verified in `hugo/content/concepts/filter-theory.md`)
 
 ## 2026-11-13T21:50:44+00:00 - coalesce
 - **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.

@@ -1,14 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 21:05:04+00:00
+ai_modified: 2026-11-13 22:06:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 21:05:04+00:00
+lastmod: 2026-11-13 22:06:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T22:06:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Task**: todo.md L5359 (P2), from [outer-review-2026-11-13-gemini-3-1-pro](/reviews/outer-review-2026-11-13-gemini-3-1-pro/) section 2 and conclusion item 1. Only the narrow point was used: the hub page described the imaging in pre-2024 terms. The reviewer's wider claims were left out. The Map does engage Siegel et al. 2024, in five places on `topics/psychedelics-and-the-filter-model` and at `concepts/default-mode-network` L104. And it is filter theory, not functionalism, that lacks independent criteria. The hippocampus-DMN detail is unverified.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**:
+  - L83 (A, stale description): "*decreased* activity in the [default-mode-network](/concepts/default-mode-network/) alongside *increased* global connectivity" became the 2012 finding (*decreased* DMN activity, Carhart-Harris et al. 2012), "a result since provisionally recast as cortex-wide desynchronization dissolving distinctions between networks". This matches the sibling's L63 account. "Provisionally" carries the sibling's calibration: seven participants, imperfectly blinded, "a shift of emphasis rather than a settled result". A zero-word piped link, `[[psychedelics-and-the-filter-model#the-neuroimaging-paradox|provisionally recast]]`, routes to the section that cites Siegel.
+  - L83 (B, scope): "On production models" became "On *naive* production models", which matches L67's "*naive* unified-switch production models" and fits the physicalist concession at L85.
+  - L87 (same subsection): dropped "while increasing global integration". It restated the stale connectivity description and would have contradicted the new desynchronization wording two paragraphs later. This pays for L83.
+- **Siegel reference**: not added. With a full References entry the cost would have been about +22 words against a net-zero budget, and the subsection has no other trimmable prose: L85 is the physicalist concession and L89 holds the metabolic caveat and the anaesthesia-symmetry sentence. The existing [default-mode-network](/concepts/default-mode-network/) link (that page's L104 cites Siegel et al. 2024 with the seven-participant hedge) and the new piped link to the psychedelics page's neuroimaging section carry the citation.
+- **Engagement with production / physicalist models**: Mode One at L83, now scoped to the naive target the argument actually reaches, followed by the existing Mode Three concession at L85 (unchanged).
+- **Length**: 3,490 before and 3,490 after (`analyze_length`, concepts hard limit 3,500, gate `>=`). The net word change is 0: L83 +4, L87 -4.
+- **Untouched by brief**: L156 (Zheng & Meister, owned by an open P3). Also untouched: `topics/psychedelics-and-the-filter-model`, and the generative-model-breakdown counterargument.
+- **Residual (not acted on)**: L87 still frames the DMN as the constraint ("the DMN normally constrains consciousness..."). The sibling's L69 says the "DMN goes down → filter loosens" inference must give way to a distributed picture. L89 already points readers to the sibling for its limits, so this is a candidate for a later pass, not a defect introduced here.
+- **ai_system**: `claude-opus-5-5` was already present, so it was not appended.
+- **Published**: yes (synced; verified in `hugo/content/concepts/filter-theory.md`)
+
+## 2026-11-13T21:50:44+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.
+- **Mode**: fresh screen under the 21:47Z driver brief (`screen_1113b.py` in the session scratchpad, foreground). Section counts from `count_section_files` at 21:47Z: topics 370/370, concepts 370/370, voids 120/125.
+- **Filter survival**: 863 raw `.md` files, then 859 after dropping the three section index pages and `topics/non-temporal-consciousness.refinement-log.md` (before any pairwise arithmetic), 815 after the age floor (`created:` before 2026-10-14), and 450 after dropping slugs named in an open `###`, `**File**` or `**Secondary**` line in Active or Blocked Tasks (193 topics, 178 concepts, 79 voids). This pool is wider than the 05:18Z run's 158 because the brief sets no recent-edit exclusion.
+- **Result**: 101,025 pairs. Overlap and length fit still do not intersect. Every pair at TF-IDF cosine >= 0.30 needs at least 1,176 words cut to fit under the larger section's hard threshold (`analyze_length` totals, gate `>=`), and every pair at cosine >= 0.20 needs at least 802. The 82 pairs that fit have cosine <= 0.123. The highest shared-5-gram fraction is 9.9% (`concepts/carrolls-regress` + `voids/inference-void`), so no page in the pool near-duplicates another.
+- **Groups read** (all declined):
+  1. `concepts/capability-division-in-vision` (2969) + `voids/capability-division-problem` (2994), cosine 0.460. Applied case and general problem: the void page hands the vision evidence to the concept page and adds the epiphenomenalist trap, "Beyond Vision" and the rendering exhibit. Over by about 2,300.
+  2. `concepts/meta-problem-of-consciousness` (3426) + `topics/metaproblem-of-consciousness-under-dualism` (3919), cosine 0.457. General formulation and interactionist spinoff: the topic says it develops "the specifically interactionist advantage" and defers to the concept for the landscape. Over by about 3,100.
+  3. `concepts/prehension` (1988) + `concepts/process-philosophy` (2748), cosine 0.380. One component concept inside a framework page, which links down to it under its own `### Prehension and Experience`. Over by about 1,180.
+  4. `concepts/apophatic-approaches` (1877) + `voids/apophatic-cartography` (2959), cosine 0.275. The method and its formal extension: the concept says the cartography "develops these methods into a formal framework with explicit evidential criteria". Over by about 1,290.
+  5. `concepts/functional-seeming` (1943) + `concepts/seemings` (2488), cosine 0.247. A critique of Frankish's view and a comparison hub that adjudicates between it and phenomenal conservatism. Over by about 920.
+  6. `concepts/phenomenal-depth` (1475) + `concepts/phenomenal-presentation` (1572). This is the only fitting pair with any similarity (cosine 0.123, 453 words spare), but the overlap comes only through presentation's `**Versus [[phenomenal-depth]]**` pointer, and the two pages describe different things (structure as against givenness).
+  7. `concepts/generalised-probabilistic-theories` (2495) + `concepts/local-tomography-and-the-consciousness-physics-interface` (3006), cosine 0.364, 5.6% shared. A framework and one of its axioms: the framework page hands the axiom's failure regimes to the axiom page. Over by about 1,890.
+- **Ancestry angle**: the only shared `coalesced_from` ancestors among eligible pages belong to `topics/split-brain-consciousness` (3988) + `concepts/brain-interface-boundary` (3314), which is 7,302 words in total and was declined in earlier runs.
+- **Finding**: unchanged. Cap relief in topics and concepts has to come from `/archive`, `/condense` or a cap raise, not from coalesce.
 
 ## 2026-11-13T21:05:04+00:00 - refine-draft
 - **Status**: Success
