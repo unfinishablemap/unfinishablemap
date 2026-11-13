@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-11-12 15:20:13+00:00
+ai_modified: 2026-11-13 23:12:23+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -15,14 +15,14 @@ concepts:
 - '[[trumping-preemption]]'
 - '[[psychophysical-laws]]'
 created: 2026-05-14
-date: &id001 2026-11-12
+date: &id001 2026-11-13
 description: How the Map's strictest reading of Tenet 2 dissolves Kim's overdetermination
   objection — human–AI exploration of selection at a genuine physical gap as non-competition.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 06:42:00+00:00
-lastmod: 2026-11-12 15:20:13+00:00
+lastmod: 2026-11-13 23:12:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ The two cannot be one mechanism, for the reason just given. An earlier [bridge p
 
 The dissolution is not free. It commits the Map to specific empirical claims and to specific limits on what consciousness can do — costs the selection-only-channel article treats in detail and which the [companion topic article](/topics/selection-only-mind-influence/) grounds empirically.
 
-The first cost is the [Born-rule preservation constraint](/topics/born-rule-and-the-consciousness-interface/). If mental selection systematically deviated from Born statistics at the ensemble level, the framework would either generate detectable psychokinetic signatures (contradicting the empirical record from the Princeton Engineering Anomalies Research programme through the large-sample Bayesian test of Maier, Dechamps and Pflitsch (2018), which returned strong evidence for the null) or violate no-signalling (since, as Han and Choi (2016) argue, the Born rule is itself derivable from relativistic-causality constraints). The dissolution buys ontological coherence at the price of a bias invisible to unconditioned aggregate tests. What Born-rule preservation constrains is the unconditioned long-run marginal, not the mind-conditioned per-trial distributions; the per-event bound is simply the log₂(N) ceiling set by the brain-prepared candidate set, which Born-rule preservation does not tighten (see [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)). Formally unconstrained is also, so far, untested: the Maier study's intention-to-RNG null concerns an external device outside the Map's [brain-locality](/concepts/brain-interface-boundary/) scope, so it does not probe the brain-internal conditionals, and the task-embedded grains that would are ones no laboratory instruction yet reproduces.
+The first cost is the [Born-rule preservation constraint](/topics/born-rule-and-the-consciousness-interface/). If mental selection systematically deviated from Born statistics at the ensemble level, the framework would either generate detectable psychokinetic signatures (contradicting the empirical record from the Princeton Engineering Anomalies Research programme through the large-sample Bayesian test of Maier, Dechamps and Pflitsch (2018), which returned strong evidence for the null) or, on the Map's extension of Han and Choi (2016), violate relativistic causality (they derive the Born rule for entangled qubit pairs from a causality condition stronger than no-signalling). The dissolution buys ontological coherence at the price of a bias invisible to unconditioned aggregate tests. What Born-rule preservation constrains is the unconditioned long-run marginal, not the mind-conditioned per-trial distributions; the per-event bound is simply the log₂(N) ceiling set by the brain-prepared candidate set, which Born-rule preservation does not tighten (see [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)). Formally unconstrained is also, so far, untested: the Maier study's intention-to-RNG null concerns an external device outside the Map's [brain-locality](/concepts/brain-interface-boundary/) scope, so it does not probe the brain-internal conditionals, and the task-embedded grains that would are ones no laboratory instruction yet reproduces.
 
 The second cost is content-confinement. Mind cannot register, choose, or report content that no candidate encodes. This is a strong constraint on the phenomenal repertoire — the dimensionality of reportable conscious content is bounded above by the dimensionality of the brain-generated candidate space at the relevant decoherence stage. The overdetermination dissolution carries this content-confinement as a structural commitment; without it, the candidate set would not be the upper bound on what mind can supply, and the non-competition argument would fail.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-12
-ai_modified: 2026-10-06 22:51:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-13 23:12:23+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[selection-only-channel]]'
@@ -15,14 +15,14 @@ concepts:
 - '[[post-decoherence-selection]]'
 - '[[psychophysical-laws]]'
 created: 2026-05-12
-date: &id001 2026-05-12
+date: &id001 2026-11-13
 description: 'A Shannon-channel taxonomy of mind-physical coupling: five classes ordered
   by what they license, with their conservation, Born, and no-signalling commitments.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-06 18:52:00+00:00
-lastmod: 2026-10-06 22:51:00+00:00
+lastmod: 2026-11-13 23:12:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ The prior column asks whether the marginal over outcomes departs from the Born w
 
 **Theories that occupy it.** The strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction), and pure outcome-selection accounts of [post-decoherence selection](/concepts/post-decoherence-selection/). Stapp's model is the near-miss worth marking: its outcome layer shares this class's Born-exact statistics, but in his framing the agent "chooses only the question" while "the answer is picked by 'Nature', in accordance with a specified statistical law" (Stapp 2006). The realised outcome is physics's, not mind's, so the model does not occupy this class and should not be read as endorsing the Map's outcome-selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)).
 
-**Conservation laws and no-signalling.** All conservation laws are satisfied without qualification: no energy, momentum, or charge is transferred. The no-signalling theorem is respected on the strong reading of Born preservation — exact in every publicly conditionable context, not merely in the pooled histogram — which is the reading the channel needs, since a mind-state that could label trials from outside would function as a measurement setting (Han & Choi 2016; the reading is argued in [selection-only-channel](/concepts/selection-only-channel/)). That compatibility is framework-internal rather than automatic. Second-order interference is preserved by construction (Sorkin 1994). The class is the cleanest member of the formalism's [five-constraint corridor](/concepts/consciousness-physics-interface-formalism/).
+**Conservation laws and no-signalling.** All conservation laws are satisfied without qualification: no energy, momentum, or charge is transferred. The no-signalling theorem is respected on the strong reading of Born preservation — exact in every publicly conditionable context, not merely in the pooled histogram — which is the reading the channel needs, since a mind-state that could label trials from outside would function as a measurement setting (Han & Choi 2016; the reading is argued in [selection-only-channel](/concepts/selection-only-channel/)). That compatibility is framework-internal rather than automatic, and the measurement-setting step is the Map's inference. Second-order interference is preserved by construction (Sorkin 1994). The class is the cleanest member of the formalism's [five-constraint corridor](/concepts/consciousness-physics-interface-formalism/).
 
 ## Class 2: Probability-Bias
 
@@ -80,7 +80,7 @@ The prior column asks whether the marginal over outcomes departs from the Born w
 
 **Theories that occupy it.** John Eccles' psychon-dendron model is the standard probability-bias theory: mental units couple to neural microstructure and alter neurotransmitter vesicle release probability (Eccles 1994). The Map's intermediate Tenet 2 reading explicitly occupies probability-bias and refuses commitment to the stricter selection-only class (see [coupling-modes](/concepts/coupling-modes/)'s "probability control" mode). RNG psi research, if interpreted as a real signal, posits a probability-bias channel with empirical ceiling *ε* ≈ 10⁻⁴ (Bösch et al. 2006; Maier et al. 2018).
 
-**Conservation laws and no-signalling.** Energy and momentum conservation hold *in expectation* if the biased distribution still averages physical observables to their unbiased expectation values; this is automatic for energy-degenerate outcomes and approximate otherwise (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)). The no-signalling theorem is *at risk* in this class: Han & Choi (2016) show that probability assignments deviating from the Born rule generically permit superluminal signalling unless compensating constraints hold. Probability-bias theories must specify what holds them inside the no-signalling envelope; the Map's intermediate reading typically does this by restricting bias to the brain-internal interface, where signalling concerns are moot.
+**Conservation laws and no-signalling.** Energy and momentum conservation hold *in expectation* if the biased distribution still averages physical observables to their unbiased expectation values; this is automatic for energy-degenerate outcomes and approximate otherwise (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)). Relativistic causality is *at risk* here on the Map's extension of Han & Choi (2016), who show, for local measurements on entangled qubit pairs, that only the Born rule meets their "space-like causality" condition, no-signalling alone being "not enough" to fix the rule. Probability-bias theories must specify what holds them inside the causality envelope; the Map's intermediate reading typically does this by restricting bias to the brain-internal interface, where signalling concerns are moot.
 
 ## Class 3: Measurement-Basis-Choice
 
@@ -90,7 +90,7 @@ The prior column asks whether the marginal over outcomes departs from the Born w
 
 **Theories that occupy it.** Stapp's quantum mind model, particularly his "Process 1" framework (Stapp 1993, 2007; see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)). Stapp is explicit that mind's role is basis-choice combined with timing control (quantum Zeno effect), and equally explicit that the answer within the chosen basis is nature's, returned by the orthodox statistical rule: his model fills this class's basis layer while leaving its outcome layer to physics. [coupling-modes](/concepts/coupling-modes/)'s "basis control" mode is this class viewed from the phenomenological side.
 
-**Conservation laws and no-signalling.** Conservation laws are preserved at the outcome layer for any chosen basis (Born statistics hold within *Y_B*). The basis-choice layer is where subtlety enters. If mind can choose any basis at will, the no-signalling theorem becomes interpretation-dependent: in single-system contexts the basis choice is harmless, but in EPR-style entangled contexts a free basis choice on one wing could in principle correlate measurement outcomes on the other (Han & Choi 2016). Stapp's defence is that basis-choice is local to the observer's brain and does not act on remote entangled partners; this is a substantive commitment, not a derivation. This class can look like the natural home of the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, but what makes the class distinctive is not what the tenet commits to. Mind shaping the option space while physics determines outcomes within it is context-setting; the tenet commits to influence over which outcome becomes actual, and registers a Process-1 / context-selection relocation as an alternative the Map acknowledges but does not adopt. What satisfies Tenet 3 in this class is the outcome layer it shares with selection-only, rather than the basis layer stacked above it — and that outcome layer is the one Stapp's own model does not claim.
+**Conservation laws and no-signalling.** Conservation laws are preserved at the outcome layer for any chosen basis (Born statistics hold within *Y_B*). The basis-choice layer is where subtlety enters. If mind can choose any basis at will, the no-signalling theorem becomes interpretation-dependent: in single-system contexts the basis choice is harmless, but in EPR-style entangled contexts a free basis choice on one wing could in principle correlate measurement outcomes on the other (the Map's inference). Stapp's defence is that basis-choice is local to the observer's brain and does not act on remote entangled partners; this is a substantive commitment, not a derivation. This class can look like the natural home of the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, but what makes the class distinctive is not what the tenet commits to. Mind shaping the option space while physics determines outcomes within it is context-setting; the tenet commits to influence over which outcome becomes actual, and registers a Process-1 / context-selection relocation as an alternative the Map acknowledges but does not adopt. What satisfies Tenet 3 in this class is the outcome layer it shares with selection-only, rather than the basis layer stacked above it — and that outcome layer is the one Stapp's own model does not claim.
 
 ## Class 4: Candidate-Generation
 

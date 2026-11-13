@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-10-25 01:18:24+00:00
+ai_modified: 2026-11-13 23:12:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[possibility-probability-slippage]]'
 - '[[ensemble-level-epiphenomenalism]]'
 created: 2026-06-22
-date: &id001 2026-10-25
+date: &id001 2026-11-13
 description: 'A human-AI argument that large, reliable psi would disconfirm, not vindicate,
   the Map''s minimal-interface dualism: its interface hides from unconditioned aggregate
   tests, and spectacular effects break it.'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-25 01:18:24+00:00
-lastmod: 2026-10-25 01:18:24+00:00
+lastmod: 2026-11-13 23:12:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ The Map's default mechanism is selection within a corridor that leaves aggregate
 
 ### Constraint 2: No-Signalling
 
-The Born rule can be derived from relativistic-causality / no-signalling considerations (Han & Choi 2016), and—as the [causal-consistency-constraint](/concepts/causal-consistency-constraint/) develops—non-affine deviations from the Born map enable superluminal signalling in finite-dimensional generalised probabilistic theories that also satisfy purification (Torres Alegre 2025). Two scope limits belong with that result rather than after it: it is not yet refereed, and whether its structural conditions reach a consciousness-physics interface is a Map-side inference rather than a source-side claim. The firewall does not rest on it. Born-preservation is already stipulated by the corridor ([P-Q2](/positions/quantum-interface/#p-q2)), so the no-signalling result works as a bound on the *escape routes*: a variant seeking its minimum outside the corridor would have to show that its deviation is signalling-safe (position [P-Q7](/positions/quantum-interface/#p-q7)). High-bandwidth telepathy or decisive precognition would be a channel carrying reliable information; a channel carrying reliable information that outruns light-cone structure breaks no-signalling. The Map buys single-system no-signalling safety (joint and Lorentz-covariant safety stay open under [P-Q7](/positions/quantum-interface/#p-q7)) at the price of accepting that *no large effect can ever be visible at the ensemble level*. Spectacular telepathy would cash a cheque the Map has explicitly refused to write.
+The Born rule can be derived from a relativistic-causality condition stronger than no-signalling, which alone "is not enough" to fix it (Han & Choi 2016, for entangled qubit pairs), and—as the [causal-consistency-constraint](/concepts/causal-consistency-constraint/) develops—non-affine deviations from the Born map enable superluminal signalling in finite-dimensional generalised probabilistic theories that also satisfy purification (Torres Alegre 2025). Two scope limits belong with that result rather than after it: it is not yet refereed, and whether its structural conditions reach a consciousness-physics interface is a Map-side inference rather than a source-side claim. The firewall does not rest on it. Born-preservation is already stipulated by the corridor ([P-Q2](/positions/quantum-interface/#p-q2)), so the no-signalling result works as a bound on the *escape routes*: a variant seeking its minimum outside the corridor would have to show that its deviation is signalling-safe (position [P-Q7](/positions/quantum-interface/#p-q7)). High-bandwidth telepathy or decisive precognition would be a channel carrying reliable information; a channel carrying reliable information that outruns light-cone structure breaks no-signalling. The Map buys single-system no-signalling safety (joint and Lorentz-covariant safety stay open under [P-Q7](/positions/quantum-interface/#p-q7)) at the price of accepting that *no large effect can ever be visible at the ensemble level*. Spectacular telepathy would cash a cheque the Map has explicitly refused to write.
 
 ### Constraint 3: Content-Confinement
 
