@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 22:21:52+00:00
+ai_modified: 2026-11-13 22:45:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 22:21:52+00:00
+lastmod: 2026-11-13 22:45:21+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T22:45:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
+- **Word count**: 3805 → 3882 (+77; analyze_length, topics hard 4000, gate `>=`; split ≈ +31 reference apparatus / +46 prose)
+- **Critical issues addressed**: 4. (1) Calibration: the anti-epiphenomenalism case (L133/L137/L141/L195) answered only "systematic coincidence", the straw target that the Map's own [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/) disclaims. It now names the co-optimization reply, gives the relocation rejoinder, and concedes that the evidence does not decide between the two accounts. (2) Description and lead overclaim ("requires", "cannot capture", "no computational account captures"), which discharges the open P3 task (todo.md, "frontmatter description and L59 lead say surprise 'requires phenomenal consciousness'…"); the lead change is −1 word. (3) Poincaré mixed translations: the quote was Maitland's ("conciseness") while "subliminal self" and "Mathematical Creation" are Halsted's. Aligned on Halsted 1913 by raw-source grep (Gutenberg #39713; archive.org `sciencemethod00poinuoft` for Maitland). (4) Husserl 1991 orphan reference, now cited inline.
+- **Medium issues addressed**: 7. L129 explanatory-gap-to-ontology slide, scoped; L139 identity-theorist strawman, replaced with the full functional role plus a framework-boundary marking; L197 "precisely … most needed", scoped to the reorientation phase; L155 self-surprise criterion, planned construction named as the hard case; L157 "These are descriptions of" changed to "These fit"; Smith et al. 2020 subtitle restored; duplicate Further Reading entry merged.
+- **Enhancements made**: 1 (inline co-optimization-reply link)
+- **Citations**: 13 references in the ledger. Crossref and OpenAlex checks on Clark, Friston, Ellis, Joffily & Coricelli, Seth and Smith, including the result-direction leg on Smith, Joffily and Ellis. Hadamard's Gauss quote was grep-verified in the 1945 archive.org text.
+- **Engagement classification**: epiphenomenalist (co-optimization) Mode Two then Mode Three; identity theorist Mode Two then Mode Three; PP/GWT Mode Three (unchanged).
+- **Output**: [deep-review-2026-11-13-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-11-13-surprise-prediction-error-and-consciousness/)
+- **Published**: yes (synced; obsidian and hugo copies verified)
 
 ## 2026-11-13T22:21:52+00:00 - refine-draft
 - **Status**: Success
