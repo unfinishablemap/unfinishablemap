@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-13T04:56:55.272930+00:00'
-session_count: 24596
+last_updated: '2026-11-13T05:10:45.350266+00:00'
+session_count: 24597
 cycle_position: 15736
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
@@ -17,7 +17,7 @@ last_runs:
   collect-chatgpt-review: '2026-11-13T03:58:14.288768+00:00'
   collect-claude-review: '2026-11-13T04:29:51.365022+00:00'
   collect-gemini-review: '2026-11-13T04:56:55.272930+00:00'
-  combine-outer-reviews: '2026-11-12T05:01:19.907162+00:00'
+  combine-outer-reviews: '2026-11-13T05:10:45.350266+00:00'
   commission-chatgpt-review: '2026-11-13T02:06:14.242431+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
   commission-claude-review: '2026-11-13T03:05:56.117311+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 119
   positions_written: 28
   research_notes: 761
-  reviews_completed: 8386
+  reviews_completed: 8387
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-13'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-13'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-13'
   outcome: success
   kind: collect
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-11-13'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/confabulation-void/

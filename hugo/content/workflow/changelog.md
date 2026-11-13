@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 05:09:26+00:00
+ai_modified: 2026-11-13 05:18:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 05:09:26+00:00
+lastmod: 2026-11-13 05:18:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T05:18:33+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.
+- **Mode**: re-ran the previous run's filtered screen over `topics/`, `concepts/` and `voids/` after reading it for soundness; exclusions applied before any pairwise arithmetic. Report-only run: a passing pair would have been reported to the driver, not merged.
+- **Filter survival**: 862 raw `.md` files, then 858 after removing section index files and `.refinement-log` sidecars (369 topics, 370 concepts, 119 voids), 773 after the age floor (created before 2026-09-29, which also excludes `voids/wakefulness-void`), 259 after dropping anything touched in git in the last 30 days or dirty in the working tree, and 158 after dropping slugs named in a `###`, `**File**` or `**Secondary**` line above `## Completed Tasks` in todo.md (71 topics, 60 concepts, 27 voids).
+- **Thresholds** (printed from `get_thresholds`, soft/hard/critical): topics 3000/4000/6000, concepts 2500/3500/5000, voids 2000/3000/4000. Word counts are `analyze_length` totals; the gate is `>=` hard, and each pair was scored against the larger of its two sections' hard thresholds.
+- **Result**: 12,403 pairs. The overlap and affordability filters do not intersect. 85 pairs fit under the hard threshold after subtracting shared 5-grams, and the best of them shares 13 5-grams (0.8% of the smaller page: `topics/analytic-idealism-and-mind-centric-metaphysics` + `concepts/the-agent-shaped-hole`), which is boilerplate.
+- **Best near-miss**: unchanged from the previous run. `concepts/carrolls-regress` (2387) + `voids/inference-void` (2916), 230 shared 5-grams (10.4%), net 5073 against a best-case hard threshold of 3500, so about 1,570 words of non-duplicated material would have to go. The concept page is the named argument that the void page applies, so the two are also role-distinct.
+- **Next by overlap**: `concepts/generalised-probabilistic-theories` + `concepts/local-tomography-and-the-consciousness-physics-interface` (135 shared, 6.0%, net 5366 vs 3500); `topics/bandwidth-of-consciousness` + `concepts/consciousness-bandwidth-architecture` (195 shared, 6.1%, net 7452 vs 4000).
+- **Not reached**: the prior-review stability-note check, because no pair passed the length gate.
 
 ## 2026-11-13T05:09:26+00:00 - combine-outer-reviews
 - **Status**: Success
