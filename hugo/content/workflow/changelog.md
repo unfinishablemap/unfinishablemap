@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 20:39:15+00:00
+ai_modified: 2026-11-13 20:56:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 20:39:15+00:00
+lastmod: 2026-11-13 20:56:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T20:56:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Word count**: 3302 → 3325 (+23; topics soft 3000 / hard 4000; soft_warning, length-neutral mode: +attribution fixes and one References line, offset by two cut sentences)
+- **Critical issues addressed**: 2. (1) The Kane (1996) sentence had credited an event-causal libertarian with the Map's "consciousness genuinely selects" thesis. Kane is now credited only with the libertarian core, without the Map's dualism. (2) Fischer & Ravizza (1998) were said to yield "graded responsibility". Now: they accept degrees of responsiveness, "and Coates and Swenson (2013) extend that theory to graded responsibility". New reference, Crossref-verified.
+- **Medium issues addressed**: 4. (1) Zheng & Meister (2025) had been framed as measuring "conscious throughput" and as "a measured fact about conscious processing". The raw arXiv text is about behavioural throughput, so both loci now use the behavioural framing. (2) Mullainathan & Shafir (2013) was an orphan reference and is now cited inline as the popularisation. (3) The [P-Q9](/positions/quantum-interface/#p-q9) gloss named two of its three residue channels; it now names all three. (4) An unsupported sentence, "Most moral failures occur within the range of full or near-full capacity", was cut.
+- **Enhancements made**: 1. Cut "Neglecting this capacity is itself a moral matter.", which repeated its bold lead-in.
+- **§2.4 ledger**: Mani 2013, Carvalho 2016 (null confirmed in the raw RePEc abstract), O'Donnell 2021 (the "uneven" gloss is faithful to the OpenAlex abstract), the Shah et al. 2023 rebuttal and Coates & Swenson 2013 are all real-correct. Zheng & Meister framing and Kane stance corrected. The others stand on the 06-19 ledger.
+- **Engagement modes** (editor-internal): F&R compatibilism Mixed; hard determinism Mode Three; Strawson Mode Three; Everettian Mode Three.
+- **Left alone**: three sentences reserved for the NEEDS-HUMAN Tenet 3 quantifier decision, and the P3 menu-luck §Scope note.
+- **Output**: [deep-review-2026-11-13-responsibility-gradient-from-attentional-capacity](/reviews/deep-review-2026-11-13-responsibility-gradient-from-attentional-capacity/)
 
 ## 2026-11-13T20:39:15+00:00 - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-11-04 15:38:38+00:00
+ai_modified: 2026-11-13 20:56:11+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -15,15 +15,15 @@ concepts:
 - '[[reasons-responsiveness]]'
 - '[[working-memory]]'
 created: 2026-02-19
-date: &id001 2026-11-04
+date: &id001 2026-11-13
 description: Moral responsibility is not binary but graded by attentional capacity—the
   conscious bandwidth available for deliberation, foresight, and self-regulation shapes
   how much desert an agent bears.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-17 15:12:26+00:00
-lastmod: 2026-11-04 15:38:38+00:00
+last_deep_review: 2026-11-13 20:56:11+00:00
+lastmod: 2026-11-13 20:56:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ The responsibility gradient framework developed here makes this implication syst
 
 Traditional accounts of [moral-responsibility](/concepts/moral-responsibility/) require three conditions: control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). The Map's [agent-causation](/concepts/agent-causation/) framework grounds all three in consciousness's role as selector among quantum-indeterminate neural states.
 
-But selection operates through attention. The [attention-as-interface](/concepts/attention-as-interface/) hypothesis identifies attention as the channel through which consciousness exerts causal influence. [Control-theoretic will](/concepts/control-theoretic-will/) formalises this: consciousness is a low-bandwidth controller (~10 bits/second, drawing on Zheng & Meister's (2025) analysis of conscious throughput) that gates, stabilises, and steers neural dynamics rather than computing them. If this is correct, then the quality and scope of an agent's attentional capacity directly determines how much control, sourcehood, and knowledge they can exercise at any given moment.
+But selection operates through attention. The [attention-as-interface](/concepts/attention-as-interface/) hypothesis identifies attention as the channel through which consciousness exerts causal influence. [Control-theoretic will](/concepts/control-theoretic-will/) formalises this: consciousness is a low-bandwidth controller (~10 bits/second, the figure Zheng & Meister (2025) estimate for human behavioural throughput) that gates, stabilises, and steers neural dynamics rather than computing them. If this is correct, then the quality and scope of an agent's attentional capacity directly determines how much control, sourcehood, and knowledge they can exercise at any given moment.
 
 An agent with impaired attentional capacity hasn't lost consciousness—they remain a subject of experience, a genuine agent. But their controller is operating with degraded bandwidth, noisy sensors, or reduced authority over the plant. The moral weight of their choices should reflect this.
 
@@ -80,7 +80,7 @@ Flexibility connects to [reasons-responsiveness](/concepts/reasons-responsivenes
 
 ### Availability
 
-Not all attentional capacity is available for moral deliberation at any given moment. Chronic pain, emotional distress, poverty-related cognitive load, caregiving demands, and information overload all consume attentional resources that would otherwise be available for moral reasoning. Research on the cognitive effects of scarcity (Mani et al., 2013) reports that poverty itself reduces available cognitive bandwidth by the equivalent of roughly 13 IQ points—not through any permanent impairment but through the constant attentional demands of managing deprivation. The finding is contested and only partly replicated: Carvalho, Meier and Wang (2016) found no corresponding shift in cognitive performance across a payday change in financial resources, and O'Donnell et al.'s (2021) audit judged the evidentiary value of the wider scarcity literature uneven—though the original authors have defended their result against methodological challenge, and the audit has itself drawn published rebuttal. The gradient does not depend on the specific magnitude; what it needs is the weaker and better-supported claim that managing deprivation consumes attentional resources that would otherwise be available for deliberation.
+Not all attentional capacity is available for moral deliberation at any given moment. Chronic pain, emotional distress, poverty-related cognitive load, caregiving demands, and information overload all consume attentional resources that would otherwise be available for moral reasoning. Research on the cognitive effects of scarcity (Mani et al., 2013; popularised in Mullainathan & Shafir, 2013) reports that poverty itself reduces available cognitive bandwidth by the equivalent of roughly 13 IQ points—not through any permanent impairment but through the constant attentional demands of managing deprivation. The finding is contested and only partly replicated: Carvalho, Meier and Wang (2016) found no corresponding shift in cognitive performance across a payday change in financial resources, and O'Donnell et al.'s (2021) audit judged the evidentiary value of the wider scarcity literature uneven—though the original authors have defended their result against methodological challenge, and the audit has itself drawn published rebuttal. The gradient does not depend on the specific magnitude; what it needs is the weaker and better-supported claim that managing deprivation consumes attentional resources that would otherwise be available for deliberation.
 
 Availability is the most socially consequential dimension. It connects individual moral responsibility to structural conditions. An agent operating with depleted availability due to systemic disadvantage bears less desert for attention-demanding moral failures—not zero, but less.
 
@@ -99,7 +99,7 @@ Two crucial features prevent this gradient from collapsing into excuse-making.
 
 **The gradient has a floor.** As long as the agent remains capable of any conscious selection whatsoever, some responsibility persists, so complete absence of responsibility requires complete absence of that capacity. Whether every subject of experience retains it, however impaired, depends on how widely conscious selection operates, which the Map leaves open.
 
-**Capacity for cultivation is itself subject to desert.** An agent who chronically neglects their attentional capacities—refusing training, choosing substances that impair attention, avoiding self-knowledge—bears *upstream responsibility* for the diminished capacity that later reduces their downstream desert. The [attentional-economics](/concepts/attentional-economics/) framework identifies attention training as metaphysically agency-enhancing. Neglecting this capacity is itself a moral matter.
+**Capacity for cultivation is itself subject to desert.** An agent who chronically neglects their attentional capacities—refusing training, choosing substances that impair attention, avoiding self-knowledge—bears *upstream responsibility* for the diminished capacity that later reduces their downstream desert. The [attentional-economics](/concepts/attentional-economics/) framework identifies attention training as metaphysically agency-enhancing.
 
 ## Upstream Responsibility and the Cultivation Principle
 
@@ -135,9 +135,9 @@ This interpretation locates the gradient's floor: total loss of control would re
 
 The dominant alternatives to graded responsibility are both unsatisfying within the Map's framework.
 
-**Standard compatibilism** holds that agents are responsible if they act on reasons they endorse. Sophisticated versions—notably Fischer and Ravizza's (1998) reasons-responsiveness theory—already accept that responsiveness comes in degrees, yielding graded responsibility. The Map's framework agrees with this grading and adds an account a compatibilist can share of *why* conditions as diverse as fatigue, poverty, and ADHD all diminish responsibility through the same mechanism: they all narrow the attentional channel, which the Map reads as the channel through which consciousness exercises genuine selection. Compatibilist accounts catalogue the conditions that reduce responsiveness; the gradient gathers them under a single causal architecture—a bandwidth-limited controller whose effective authority degrades predictably when its parameters are constrained. A [physical controller](/concepts/control-theoretic-will/#analogy-model-and-ontology) would unify them equally, so the unification is no reason to prefer a conscious one.
+**Standard compatibilism** holds that agents are responsible if they act on reasons they endorse. Sophisticated versions—notably Fischer and Ravizza's (1998) reasons-responsiveness theory—already accept that responsiveness comes in degrees, and Coates and Swenson (2013) extend that theory to graded responsibility. The Map's framework agrees with this grading and adds an account a compatibilist can share of *why* conditions as diverse as fatigue, poverty, and ADHD all diminish responsibility through the same mechanism: they all narrow the attentional channel, which the Map reads as the channel through which consciousness exercises genuine selection. Compatibilist accounts catalogue the conditions that reduce responsiveness; the gradient gathers them under a single causal architecture—a bandwidth-limited controller whose effective authority degrades predictably when its parameters are constrained. A [physical controller](/concepts/control-theoretic-will/#analogy-model-and-ontology) would unify them equally, so the unification is no reason to prefer a conscious one.
 
-**Hard determinism** eliminates responsibility entirely, treating all attentional variation as just another link in the causal chain. But this denies what the Map affirms—and what Kane (1996) argues from a libertarian perspective: that consciousness genuinely selects among open possibilities, and that this selection constitutes authorship. Attentional capacity modulates the scope of selection; it does not eliminate selection itself.
+**Hard determinism** eliminates responsibility entirely, treating all attentional variation as just another link in the causal chain. But this denies what the Map affirms: that consciousness genuinely selects among open possibilities, and that this selection constitutes authorship. Kane (1996), an event-causal libertarian, defends the claim's libertarian core—open alternatives and the agent's ultimate responsibility—without the Map's dualism. Attentional capacity modulates the scope of selection; it does not eliminate selection itself.
 
 The gradient occupies the space between these extremes. Agents are genuine authors of their choices (against hard determinism), but the breadth and depth of their authorship varies with the attentional resources available for the authoring (against naive compatibilism).
 
@@ -145,11 +145,11 @@ The moral implications extend in both directions. Where most discussions of grad
 
 ## Objections
 
-**"This lets everyone off the hook."** No. As Strawson (1962) recognised, our reactive attitudes—resentment, gratitude, indignation—are calibrated to perceived capacity. The Map borrows that descriptive observation while [declining Strawson's dissolution](/topics/reactive-attitudes-and-strawsonian-responsibility/) of the metaphysical question he brackets; what the gradient needs is his point about how blame tracks perceived capacity, not his claim that responsibility reduces to the practice of blaming. Full attentional capacity is the default for healthy adults in ordinary conditions. The gradient applies primarily at the margins—extreme conditions, genuine impairments, and systemic disadvantages. Most moral failures occur within the range of full or near-full capacity. The gradient adds nuance without dissolving responsibility.
+**"This lets everyone off the hook."** No. As Strawson (1962) recognised, our reactive attitudes—resentment, gratitude, indignation—are calibrated to perceived capacity. The Map borrows that descriptive observation while [declining Strawson's dissolution](/topics/reactive-attitudes-and-strawsonian-responsibility/) of the metaphysical question he brackets; what the gradient needs is his point about how blame tracks perceived capacity, not his claim that responsibility reduces to the practice of blaming. Full attentional capacity is the default for healthy adults in ordinary conditions. The gradient applies primarily at the margins—extreme conditions, genuine impairments, and systemic disadvantages. It adds nuance without dissolving responsibility.
 
 **"Attentional capacity can't be measured, so the gradient is useless in practice."** Attentional capacity is better characterised than most psychological constructs. Working memory span, sustained attention tests, task-switching paradigms, and attentional blink measures all provide operationalisable proxies. The gradient doesn't require precise measurement to be morally illuminating—it requires acknowledging that capacity varies and that this variation matters.
 
-The proxies measure *capacity*, which is what the gradient grades (an agent whose intact capacity lapses is [not excused](#stability)), so the gradient's public assessability is bought by grading what a physical duplicate shares. *Exercise*, how much of that capacity the agent's consciousness contributed on the occasion, is different: on the Map's model the interface is self-concealing by construction, and [P-Q9](/positions/quantum-interface/#p-q9)'s residue channels test ensemble statistics or mechanism, not one agent's contribution to one act. The desert [claimed above](#against-binary-responsibility) that deterministic frameworks cannot ground rests on exercise and, unlike the grade, is publicly underdetermined on any occasion. Reactive attitudes track perceived capacity, not hidden contribution: blame and law can apply the grade, not check that desert case by case.
+The proxies measure *capacity*, which is what the gradient grades (an agent whose intact capacity lapses is [not excused](#stability)), so the gradient's public assessability is bought by grading what a physical duplicate shares. *Exercise*, how much of that capacity the agent's consciousness contributed on the occasion, is different: on the Map's model the interface is self-concealing by construction, and [P-Q9](/positions/quantum-interface/#p-q9)'s three residue channels test ensemble statistics, mechanism or psychophysics, not one agent's contribution to one act. The desert [claimed above](#against-binary-responsibility) that deterministic frameworks cannot ground rests on exercise and, unlike the grade, is publicly underdetermined on any occasion. Reactive attitudes track perceived capacity, not hidden contribution: blame and law can apply the grade, not check that desert case by case.
 
 **"This is just standard mitigation dressed in new vocabulary."** Legal systems already recognise diminished capacity, duress, and mental impairment as mitigating factors. The gradient framework proposes a common pathway through which these factors reduce responsibility: they all operate by constraining the attentional channel through which, on the Map's reading, consciousness exercises control. A physicalist or compatibilist can adopt the same pathway, so it gives no reason to prefer the conscious reading, though it does add a prediction to the legal catalogue: any condition reducing attentional capacity—including conditions not yet recognised in legal frameworks, such as chronic cognitive load from poverty—should carry mitigating weight proportional to the degree of reduction.
 
@@ -159,7 +159,7 @@ The proxies measure *capacity*, which is what the gradient grades (an agent whos
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The gradient specifies that consciousness exercises causal power through attention, and that the scope of this power varies. Bidirectional interaction is not all-or-nothing; it operates within the bandwidth constraints of the attentional channel.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The ~10 bits/second bandwidth limit is a measured fact about conscious processing that physicalist and dualist accounts alike have to accommodate, and the gradient's dimensions describe how various conditions narrow that channel further. Tenet 2's minimality is a different measure: it is satisfied by the channel's Born-exactness (no energy injected, no conservation law broken, the aggregate Born statistics left intact), not by its narrowness. Severe attentional impairment narrows the channel toward its lower bound without bearing on minimality in the tenet's sense.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The ~10 bits/second bandwidth limit, estimated from behavioural throughput, is a datum that physicalist and dualist accounts alike have to accommodate, and the gradient's dimensions describe how various conditions narrow that channel further. Tenet 2's minimality is a different measure: it is satisfied by the channel's Born-exactness (no energy injected, no conservation law broken, the aggregate Born statistics left intact), not by its narrowness. Severe attentional impairment narrows the channel toward its lower bound without bearing on minimality in the tenet's sense.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Graded responsibility requires that one outcome actually obtains, though the objection needs locating carefully, because it does not touch the gradient. Under many-worlds, every quantum-indeterminate choice produces branches containing every possible outcome—the agent both attended well and attended poorly across the branching structure. An Everettian can still grant the agent a branch-local history of having chosen, and can grant the gradient entire: attentional capacity varies, is measurable in-branch, and grades responsibility branch-locally exactly as described above. What branching cannot grant is the counterfactual exclusion desert requires—the lapse was never the rejection of a genuinely unrealised alternative, since the attention the agent failed to muster was mustered by a counterpart elsewhere. Desert needs alternatives genuinely rejected, not merely routed to another branch. The disagreement is therefore not about whether responsibility comes in degrees but about whether desert attaches at any point on the scale. That the unchosen be globally nonactual is a [posit the Map adopts](/tenets/background-commitments/) rather than a result the gradient delivers, and the disagreement sits at the framework boundary. Given the posit, the gradient's moral weight rests where this article has placed it—one choice, one outcome, one agent who must live with the consequences.
 
@@ -186,6 +186,7 @@ The proxies measure *capacity*, which is what the gradient grades (an agent whos
 
 ## References
 
+1. Coates, D.J. & Swenson, P. (2013). Reasons-responsiveness and degrees of responsibility. *Philosophical Studies*, 165(2), 629-645.
 1. Cowan, N. (2001). The magical number 4 in short-term memory. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
