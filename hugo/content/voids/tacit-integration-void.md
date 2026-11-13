@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-11-05 22:18:01+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-13 01:04:38+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 02:35:09+00:00
-lastmod: 2026-11-05 22:18:01+00:00
+lastmod: 2026-11-13 01:04:38+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,7 +50,7 @@ The void is distinct from siblings: the [expertise void](/voids/expertise-and-it
 
 Polanyi's central claim is that focal awareness rests on subsidiary awareness of particulars whose contribution is to bear on the focal whole. The two modes are mutually exclusive: "our attention can hold only one focus at a time" (Polanyi, 1966). The paradigm is the hammer: "I have a subsidiary awareness of the feeling in the palm of my hand which is merged into my focal awareness of my driving in the nail" (Polanyi, 1958). To feel the grip *as such* is to lose the nail.
 
-Polanyi's stronger claim is that the from-to relation is *constitutive* of meaning, not a contingent processing pathway. Subsidiaries do not merely happen to escape notice; their meaning *is* their bearing on something else. Converting them into focal objects strips them of the relation that made them what they were — what Polanyi calls *destructive analysis*. "We can know more than we can tell" is often read as a claim about practical articulation limits, but Polanyi's argument is sharper: the tacit dimension is the integrative function itself, and no articulation can capture it without taking the cues as objects, at which point they no longer perform the function.
+Polanyi's stronger claim is that the from-to relation is *constitutive* of meaning, not a contingent processing pathway. Subsidiaries do not merely happen to escape notice; their meaning *is* their bearing on something else. Converting them into focal objects strips them of the relation that made them what they were — what Polanyi calls *destructive analysis*. "We can know more than we can tell" is often read as a claim about [practical articulation limits](/voids/ineffable-encounter-void/), but Polanyi's argument is sharper: the tacit dimension is the integrative function itself, and no articulation can capture it without taking the cues as objects, at which point they no longer perform the function.
 
 ## Felt Sense and the Criterion of Fit
 
