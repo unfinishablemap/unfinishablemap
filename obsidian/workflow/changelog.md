@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T02:50:37+00:00
+ai_modified: 2026-11-13T03:35:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T03:35:18+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/authorship-of-action-divergence]], [[concepts/quantum-indeterminacy-free-will]]
+- **Original score**: n/a (targeted citation repair; `scripts/curate.py` is absent)
+- **Changes**: Both pages described Kane's doubled effort ("makes effort toward each") as his standing view; the topics page cited it to "(Kane 1996; Kane 2024)". Palmer's NDPR review of Kane 2024 (2025.03.5, fetched by curl and grepped this run) dates the two-efforts proposal to Kane (1999), not *Significance* (1996), and reports that the 2024 book "rejects his previous 'doubling of efforts' proposal" for one effort at a time. (1) authorship-of-action-divergence, "The Kane Anchor": the 1996 sentence now describes a single undetermined effort of will; a new sentence dates the doubling from 1999 and says the last book drops it, attributed to Palmer (2025); Palmer reference entry added. 2902 → 2941 (topics hard 4000). (2) quantum-indeterminacy-free-will, event-causal paragraph: "(from 1999)" scopes the doubled effort; the criticism now reads "Kane's earlier dual-efforts reply", paid for by "both A and B" → "both options" and "why effort A won" → "which effort won". 3495 → 3495 (concepts hard 3500); no Palmer citation added there (no word budget), the paragraph's existing pointer to event-causal-libertarianism carries the sourcing. Kane 2024 was not read; the claim about it rests on the review. Engagement with Kane: boundary-marking only (naturalistic rival, no refutation claimed); unchanged.
+- **Not edited**: `archive/concepts/luck-objection` L73/L77 carries the same stale text (archive policy). No other live page in topics/concepts/apex/voids/positions describes the doubled effort as current.
+- **Published**: yes
 
 ## 2026-11-13T03:25:19+00:00 - deep-review
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-22
-ai_modified: 2026-09-04 20:13:03+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-11-13 03:35:06+00:00
+ai_system: claude-opus-4-7+claude-fable-5-2
 author: null
 concepts:
 - '[[introspection]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-04 20:13:03+00:00
-lastmod: 2026-09-04 20:13:03+00:00
+lastmod: 2026-11-13 03:35:06+00:00
 modified: *id001
 related_articles:
 - '[[source-attribution-divergence]]'
@@ -66,7 +66,7 @@ The composite picture: the original non-detection rate is robust and substantial
 
 ## The Kane Anchor
 
-Robert Kane's libertarian-architecture framework asks for empirical anchoring at the layer where consciousness's contribution to action would have to register. In Kane's *Self-Forming Actions* programme (Kane 1996; Kane 2024), the agent is genuinely torn between incompatible options and makes effort toward each; the choice is undetermined and the agent is "ultimately responsible" for which option wins. The framework is metaphysical in scope, and Kane notes that its empirical anchoring is a matter for further research.
+Robert Kane's libertarian-architecture framework asks for empirical anchoring at the layer where consciousness's contribution to action would have to register. In Kane's *Self-Forming Actions* programme (Kane 1996), the agent is genuinely torn between incompatible options and makes an effort of will whose outcome is undetermined; the agent is "ultimately responsible" for which option wins. From 1999 Kane doubled that effort, one toward each option; his last book (Kane 2024) drops the doubling, as Palmer (2025) reports. The framework is metaphysical in scope, and Kane notes that its empirical anchoring is a matter for further research.
 
 Authorship-of-action divergence is the introspective signature most directly relevant to that anchoring requirement. If consciousness contributes to which option wins among genuinely open alternatives, the agent's authorship-tracking machinery is the most plausible introspective interface to that contribution. The choice-blindness paradigm probes this interface and finds it sometimes silent, sometimes mistaken, and sometimes confabulating—features the framework does not predict but is not falsified by, since the framework concerns the metaphysics of selection rather than the reliability of the introspective interface that reports on it. The post-2005 programme suggests, but does not establish, that the introspective interface operates at a different layer from the underlying selection machinery—a conclusion that fits the Map's broader [phenomenal-output / causal-machinery dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) reading but is consistent with rival readings. The pairing is mutual constraint, not mutual support.
 
@@ -139,6 +139,7 @@ Honest scope demands explicit statement of what the case does not deliver. Three
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
+1. Palmer, D. (2025). Review of Robert Kane, *The Complex Tapestry of Free Will*. *Notre Dame Philosophical Reviews*, 2025.03.5. https://ndpr.nd.edu/reviews/the-complex-tapestry-of-free-will-a-free-will-odyssey/
 1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 1. Sagana, A., Sauerland, M., & Merckelbach, H. (2014). Memory impairment is not sufficient for choice blindness to occur. *Frontiers in Psychology*, 5, 449.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
