@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 06:25:53+00:00
+ai_modified: 2026-11-13 06:50:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 06:25:53+00:00
+lastmod: 2026-11-13 06:50:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T06:50:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from outer-review 2026-11-13 ChatGPT 5.6 Sol Pro sections 3.2 and 3.3)
+- **Word count**: 5106 → 5106 (+0; page was already over apex hard 5,000, every edit offset inside the touched sentences, no unrelated prose condensed)
+- **Changes**: (A) Lead: the channel "without injecting energy or violating conservation laws" now reads "one that must yet be shown to respect conservation laws", matching the Tenet 2 paragraph's "requirements a future model must be shown to meet, not properties the programme has secured". Causal-powers limits paragraph: "it never injects energy" → "it must never inject energy" (same constraint stated as a requirement). (B) Bandwidth section: "through a channel limited to roughly 10 bits/second" → "with behavioural output near 10 bits/second", so the sentence agrees with the caveat that follows (caveat opener shortened to "A caveat: the figure"). Synthesis: "a ~10 bits/second *difference-making* selection channel" → "a *difference-making* selection channel (behaviourally ~10 bits/second)"; the *difference-making* label is kept verbatim and nothing about which route is adopted or how trumping is logged was changed. [P-Q2](/positions/quantum-interface/#p-q2) quantifier sentences untouched. Zheng & Meister checked against the PubMed abstract (PMID 39694032): "The information throughput of a human being is about 10 bits/s", Neuron 113(2):192-204, 2025; reference entry correct.
+- **Not changed, flagged**: the causal-powers paragraph still reports, as what [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) argues, that consciousness biases indeterminacies "without violating conservation laws" (attributed source exposition); the bandwidth paragraph attributes ~10⁹ bits/second to "the brain's unconscious systems" where the abstract says "our sensory systems gather data at" that rate. The lead formula "without injecting energy or violating conservation laws" recurs across roughly fifty topics/concepts/apex pages, mostly as restatements of the Tenet 2 definition.
+- **Published**: yes
 
 ## 2026-11-13T06:25:53+00:00 - deep-review
 - **Status**: Success
