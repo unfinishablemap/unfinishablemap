@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-11-01 23:12:00+00:00
+ai_modified: 2026-11-13 22:21:52+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 apex_last_synthesis: 2026-10-02 16:44:22+00:00
 apex_sources:
@@ -51,7 +51,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:52:48+00:00
-lastmod: 2026-11-01 23:12:00+00:00
+lastmod: 2026-11-13 22:21:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ Lacaux et al. (2021) found participants who accumulated at least fifteen seconds
 
 Where other altered states impose interface changes from outside—pharmacology, sleep pressure, brain injury—[meditation](/concepts/meditation-and-consciousness-modes/) demonstrates that consciousness can reconfigure its own interface from within. Focused attention meditation (FA) strengthens the selection mechanism through sustained attentional control; open monitoring meditation (OM) cultivates the opposite, passive witnessing. The neural evidence is thinner than a two-signature story would suggest. In Garrison et al.'s (2013) [neurofeedback study](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/) of ten experienced meditators, posterior cingulate cortex (PCC) deactivation accompanied reports of "not efforting" and also of "concentration", while "efforting" and "distraction" accompanied PCC activation: the measure tracks effort and distraction, and in these adepts focused concentration fell on the effortless side. That consciousness can operate in both modes answers the Advaita challenge of how a selector can also be a non-interfering witness: these are *modes* of interfacing rather than a single fixed relationship to neural activity.
 
-The voluntariness is the critical datum. If the brain produced consciousness, consciousness reconfiguring its own neural substrate looks circular—the output altering the machinery that generates it. Under filter theory no circularity arises: consciousness operates the interface from its own side, adjusting which channels are engaged and how tightly. Advanced meditators describing "effortless awareness" have trained the interface to a configuration requiring minimal intervention—[effort first, then a trained brain needing less correction](/concepts/meditation-and-consciousness-modes/#effortless-awareness-after-effortful-training)—and the resulting [witness-consciousness](/concepts/witness-consciousness/) observes mental contents without identifying with them. Kral et al. (2022) found no structural brain change in a well-controlled 218-participant study, though the functional signatures of different attention modes survive scrutiny: the reconfiguration is functional, not anatomical.
+The voluntariness is the critical datum. If the brain produced consciousness, consciousness reconfiguring its own neural substrate looks circular—the output altering the machinery that generates it. Under filter theory no circularity arises: consciousness operates the interface from its own side, adjusting which channels are engaged and how tightly. Advanced meditators describing "effortless awareness" have trained the interface to a configuration requiring minimal intervention—[effort first, then a trained brain needing less correction](/concepts/meditation-and-consciousness-modes/#effortless-awareness-after-effortful-training)—and the resulting [witness-consciousness](/concepts/witness-consciousness/) observes mental contents without identifying with them. Eight-week mindfulness training produced no structural change in meditation-naïve participants (Kral et al., 2022), leaving advanced practitioners untested; functional signatures of attention modes survive scrutiny, while anatomical change remains open.
 
 Meditative cessation—*deliberate* disengagement of consciousness from neural processing, unlike externally imposed anaesthesia or biologically regulated sleep, followed by return and often by reports of transformative insight—sharpens the point: on the filter reading the meditator steps away from the interface entirely and steps back.
 
@@ -228,7 +228,7 @@ This synthesis draws on:
 5. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440.
 6. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751-764.
 7. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
-8. Kral, T. R. A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(21), eabk3316.
+8. Kral, T. R. A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 9. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
 10. Laukkonen, R. E., & Slagter, H. A. (2021). From many to (n)one: Meditation and the plasticity of the predictive mind. *Neuroscience & Biobehavioral Reviews*, 128, 199-217. https://doi.org/10.1016/j.neubiorev.2021.06.021
 11. Laukkonen, R. E., Sacchet, M. D., Barendregt, H., Devaney, K. J., Chowdhury, A., & Slagter, H. A. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61-87.

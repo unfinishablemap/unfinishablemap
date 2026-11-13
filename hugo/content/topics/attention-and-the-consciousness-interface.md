@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-11-09 15:37:21+00:00
+ai_modified: 2026-11-13 22:21:52+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-09 15:37:21+00:00
-lastmod: 2026-11-09 15:37:21+00:00
+lastmod: 2026-11-13 22:21:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ Consciousness continues across all four, but its scope, structure, or reliabilit
 
 Sustained attention depletes; motivation can temporarily override fatigue—the resource is rationed, not exhausted.
 
-Meditation trains the interface, though earlier claims of structural brain changes were challenged by Kral et al. (2022). Advaita Vedanta strands report [witness-consciousness](/concepts/witness-consciousness/) as awareness prior to mental contents; Madhyamaka and Dzogchen draw the opposite inference from similar phenomenology. The interface model accommodates the Advaita reading without claiming the Madhyamaka reading is mistaken ([non-temporal-consciousness](/topics/non-temporal-consciousness/), [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)), and AST's rejoinder—practice may deepen the schema's apparent fundamentality—is noted rather than dismissed.
+Meditation trains the interface, though Kral et al. (2022) found no structural brain change from eight-week mindfulness training. Advaita Vedanta strands report [witness-consciousness](/concepts/witness-consciousness/) as awareness prior to mental contents; Madhyamaka and Dzogchen draw the opposite inference from similar phenomenology. The interface model accommodates the Advaita reading without claiming the Madhyamaka reading is mistaken ([non-temporal-consciousness](/topics/non-temporal-consciousness/), [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)), and AST's rejoinder—practice may deepen the schema's apparent fundamentality—is noted rather than dismissed.
 
 ### The Epistemological Challenge
 

@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-11-09T15:37:21+00:00
+ai_modified: 2026-11-13T22:21:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -138,7 +138,7 @@ Consciousness continues across all four, but its scope, structure, or reliabilit
 
 Sustained attention depletes; motivation can temporarily override fatigue—the resource is rationed, not exhausted.
 
-Meditation trains the interface, though earlier claims of structural brain changes were challenged by Kral et al. (2022). Advaita Vedanta strands report [[witness-consciousness]] as awareness prior to mental contents; Madhyamaka and Dzogchen draw the opposite inference from similar phenomenology. The interface model accommodates the Advaita reading without claiming the Madhyamaka reading is mistaken ([[non-temporal-consciousness]], [[phenomenology-of-returning-attention]]), and AST's rejoinder—practice may deepen the schema's apparent fundamentality—is noted rather than dismissed.
+Meditation trains the interface, though Kral et al. (2022) found no structural brain change from eight-week mindfulness training. Advaita Vedanta strands report [[witness-consciousness]] as awareness prior to mental contents; Madhyamaka and Dzogchen draw the opposite inference from similar phenomenology. The interface model accommodates the Advaita reading without claiming the Madhyamaka reading is mistaken ([[non-temporal-consciousness]], [[phenomenology-of-returning-attention]]), and AST's rejoinder—practice may deepen the schema's apparent fundamentality—is noted rather than dismissed.
 
 ### The Epistemological Challenge
 

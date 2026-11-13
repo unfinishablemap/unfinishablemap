@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-11-13 00:49:07+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-2
+ai_modified: 2026-11-13 22:21:52+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-2+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/altered-states-consciousness/
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 18:40:00+00:00
-lastmod: 2026-11-13 00:49:07+00:00
+lastmod: 2026-11-13 22:21:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +105,7 @@ Neuroimaging confirms that hypnosis alters executive control network integration
 
 Advanced meditation produces states ranging from focused absorption (samadhi) to [witness awareness](/concepts/witness-consciousness/) to cessation events—radically altered states involving full loss of consciousness that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents how these states [converge structurally](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) across Buddhist, Hindu, Christian, [Sufi](/concepts/islamic-sufi-philosophy-of-consciousness/), and Daoist practices—self-dissolution, [contentless awareness](/concepts/cessation-versus-plenitude/), and subject-object collapse recur across traditions with incompatible metaphysics. But the convergence is not neutral between readings: the traditions supplying it read self-dissolution as showing there was no substantial witness, so, counted once under [P-M2](/positions/methodology-and-calibration/#p-m2), it fits *irreducibility* rather than the Map's persisting-subject reading—a genuine bedrock disagreement on the [Madhyamaka analysis](/topics/eastern-philosophy-consciousness/), not one the Map can refute from inside.
 
-The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. While earlier studies claimed meditation produces lasting structural brain changes, Kral et al. (2022)—218 participants and active controls, and by its authors' account the most rigorously controlled study to date—found no evidence of structural changes from mindfulness-based stress reduction. Meditation's *functional* effects (altered activation patterns, moderate efficacy for anxiety and depression) survive scrutiny. From the Map's framework, meditation's functional modulation and the content-specificity of different practices remain relevant to [Bidirectional Interaction](/tenets/#bidirectional-interaction) as outbound-leg coherence rather than evidence, though structural remodelling claims should no longer be cited as evidence.
+The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. Earlier studies claimed eight-week mindfulness-based stress reduction changes brain structure; Kral et al. (2022)—randomised, actively controlled trials in 218 meditation-naïve participants—found no such change. They do not test long-term practitioners, whose [cortical differences](/concepts/neuroplasticity/), being cross-sectional, cannot alone show practice caused them. Meditation's *functional* effects (altered activation patterns, moderate efficacy for anxiety and depression) survive scrutiny. From the Map's framework, meditation's functional modulation and the content-specificity of different practices remain relevant to [Bidirectional Interaction](/tenets/#bidirectional-interaction) as outbound-leg coherence rather than evidence, though short-course structural claims should no longer be cited.
 
 Cessation events fit filter theory without favouring it. Unlike anesthesia (where consciousness appears eliminated) or sleep (where it continues in altered form), meditative cessation involves *deliberate* withdrawal of consciousness from neural processing—then return. Practitioners report a total absence of consciousness during the event, so the transformation they report on return cannot show consciousness operating unconstrained meanwhile; the deliberateness is the outbound claim, which that report cannot by itself establish.
 

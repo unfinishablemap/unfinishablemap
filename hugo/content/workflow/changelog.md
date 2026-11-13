@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 22:06:36+00:00
+ai_modified: 2026-11-13 22:21:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-13'
-lastmod: 2026-11-13 22:06:36+00:00
+lastmod: 2026-11-13 22:21:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-13T22:21:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) (primary); secondary [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) and [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Task**: todo.md L5359 (P2), "Three more pages give Kral et al. (2022) a wider scope than its design supports", from [outer-review-synthesis-2026-11-13](/reviews/outer-review-synthesis-2026-11-13/) C2.
+- **Source check**: re-fetched the PubMed abstract (PMID 35594344, E-utilities efetch) by curl. Its raw text confirms two combined three-arm RCTs, 218 meditation-naïve participants, waitlist (n = 70), 8-week MBSR (n = 75) and a matched active control (n = 73), with grey matter volume, density and cortical thickness assessed, and "no evidence that MBSR produced neuroplastic changes compared to either control group". No long-term practitioners were tested. Crossref (DOI 10.1126/sciadv.abk3316) gives volume 8, issue 20, eabk3316, published 2022-05-20.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**:
+  - `concepts/altered-states-of-consciousness` L105. The claim "earlier studies claimed meditation produces lasting structural brain changes ... structural remodelling claims should no longer be cited as evidence" is now scoped. Earlier studies claimed eight-week MBSR changes brain structure, and Kral's randomised, actively controlled trials in 218 meditation-naïve participants found no such change. A new sentence says the trials do not test long-term practitioners, whose [cortical differences](/concepts/neuroplasticity/) are cross-sectional and so cannot alone show that practice caused them. The closing clause now reads "short-course structural claims should no longer be cited". The tenet clause (outbound-leg coherence rather than evidence) is unchanged. The new piped link to `concepts/neuroplasticity` points to the page that sets out Lazar 2005 vs Hölzel 2011. The words for the new sentence came from dropping "by its authors' account the most rigorously controlled study to date".
+  - `topics/attention-and-the-consciousness-interface` L141. "earlier claims of structural brain changes were challenged by Kral et al. (2022)" became "Kral et al. (2022) found no structural brain change from eight-week mindfulness training". MBSR is not used elsewhere in the prose, so the acronym was avoided.
+  - `apex/altered-states-as-interface-evidence` L110. The sentence followed one about advanced meditators. It now states that eight-week mindfulness training produced no structural change in meditation-naïve participants (Kral et al., 2022), which leaves advanced practitioners untested. "functional signatures of attention modes survive scrutiny" is kept. "the reconfiguration is functional, not anatomical" was softened to "anatomical change remains open". The intensifier "demonstrably" was not used, because L108 says the neural evidence is "thinner than a two-signature story would suggest".
+  - `apex/altered-states-as-interface-evidence` reference 8: changed "8(21)" to "8(20)" to match Crossref and PubMed. This was the only content page that disagreed. `reviews/deep-review-2026-06-02-altered-states-as-interface-evidence` L29 had marked "8(21)" as VERIFIED. That review record was left as written.
+- **Pronoun check**: on altered-states, "They do not test" refers to Kral et al. / the trials in the sentence before it, and the next sentence opens on a noun. On attention, the next sentence opens "Advaita Vedanta strands". On the apex, the next paragraph's "sharpens the point" still refers back to the voluntariness point.
+- **Orphan check** ((surname, year), both directions, all three files): Kral 2022 is cited in the body and in the references of each file. No citation was added or removed. The regex flagged some reference-only surnames, and each one appears in the body in a variant form (for example "Garrison et al.'s (2013)").
+- **Sweep (task item 5), listed and not edited**: (a) `concepts/neurophenomenology-and-contemplative-neuroscience` L195: "the strongest version of the claim did not survive Kral et al. (2022). Conscious practice reshapes brain *function*; it has not been shown to reshape gross structure". It has no eight-week or naïve scope, although L49 and L75 on the same page carry it. (b) `archive/concepts/mental-causation` L165 (archive): "earlier claims of *structural* changes (cortical thickening, grey matter density) have been challenged: Kral et al. (2022) ... found no structural brain changes from MBSR". It sets the MBSR null against cortical-thickening claims and does not say that long-term practitioners were untested. (c) Borderline: `concepts/default-mode-network` L112 states the 8-week MBSR scope but uses "but" to set the null against the contested long-term cross-sectional differences (Fox et al., 2014). Already scoped: `concepts/neuroplasticity` L105, `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` L76, `topics/contemplative-practice-as-philosophical-evidence` L101, `topics/clinical-evidence-quality-standards-consciousness-research` L62/L102/L126, `concepts/cognitive-penetration` L97, `concepts/stapp-quantum-mind` L82, `concepts/neurophenomenology-and-contemplative-neuroscience` L49/L75 and `concepts/mental-effort` L108 (owned by another open P2, not touched). `voids/` and `positions/` have no Kral hits.
+- **Engagement classification**: none. No named opponent is answered in the edited sentences, and the correction is scope-only, with no change to tenet support.
+- **Length** (`analyze_length`, gate `>=`): altered-states-of-consciousness 3,481 before and 3,481 after (concepts hard 3,500). attention-and-the-consciousness-interface 4,518 before and 4,518 after (topics hard 4,000, already over). altered-states-as-interface-evidence 4,967 before and 4,967 after (apex hard 5,000). Net 0 on each file.
+- **ai_system**: `claude-opus-5-5` was appended on altered-states-of-consciousness, where it was absent. It was already present on the other two files, so nothing was appended there.
+- **Published**: yes (synced; hugo copies verified)
 
 ## 2026-11-13T22:06:36+00:00 - refine-draft
 - **Status**: Success
