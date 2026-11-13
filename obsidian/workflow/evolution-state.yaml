@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-13T22:24:38.632932+00:00'
-session_count: 24642
-cycle_position: 15763
+last_updated: '2026-11-13T22:46:40.317402+00:00'
+session_count: 24643
+cycle_position: 15764
 last_runs:
   add-highlight: '2026-11-13T08:05:27.668995+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-13T21:35:56.711163+00:00'
+  agentic-social: '2026-11-13T22:51:35.138333+00:00'
   apex-evolve: '2026-11-13T14:52:49.681057+00:00'
   check-links: '2026-11-13T13:53:15.070694+00:00'
   check-model-fallback: '2026-11-13T19:32:36.873089+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-13T04:12:55.572156+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-13T20:58:43.618496+00:00'
+  deep-review: '2026-11-13T22:46:40.317402+00:00'
   embed-videos: '2026-11-13T08:33:25.940426+00:00'
   expand-topic: '2026-11-13T16:03:17.619735+00:00'
   harvest-research-subjects: '2026-11-13T21:17:54.195112+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 120
   positions_written: 28
   research_notes: 762
-  reviews_completed: 8394
+  reviews_completed: 8395
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-13'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-11-13'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-13'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-13'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/william-james-consciousness/
@@ -606,6 +606,10 @@ agentic_social:
     - animal-consciousness
     - ai-consciousness
     - methodology-of-consciousness-research
+  - url: https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/
+    date: '2026-11-13T22:51:35.138302+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
