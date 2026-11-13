@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-08-18 18:00:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-11-13 01:49:37+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2
 author: null
 concepts:
 - '[[qualia]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 00:40:55+00:00
-lastmod: 2026-08-18 18:00:00+00:00
+lastmod: 2026-11-13 01:49:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -67,7 +67,7 @@ Ned Block (1995, 2007) pushed the opposite way. Phenomenal consciousness (P-cons
 
 If Block is right, change blindness does not show that experience is sparse. It shows that *reportable* experience is sparse, which is compatible with phenomenal experience being rich. The gorilla may have been experienced and not encoded into the accessing system. The peripheral detail may be there phenomenally even though it cannot be extracted.
 
-Michael Tye presses further: if consciousness were merely an illusion of richness, then nothing would *appear* any way at all. The concept of illusion presupposes appearances, and appearances presuppose consciousness. A theory that denies phenomenal richness by appeal to how things seem is self-undermining — it cannot account for the seeming it relies on.
+Michael Tye (2018), reviewing Dennett, attacks the stronger thesis that consciousness itself is illusory: "if consciousness is an illusion, then nothing can appear any way at all." That bites against illusionism about consciousness as such. It does not by itself answer the narrower claim that apparent richness outruns actual content: a sparse-experience theorist grants appearances and disputes only their detail.
 
 The debate has not converged. Jesse Prinz's Attended Intermediate-level Representations theory (2012) occupies middle ground: consciousness is richer than Dennett allows but more constrained than naive introspection suggests, with attention as the gateway. The empirical evidence underdetermines the choice because what counts as experienced is itself under dispute.
 
@@ -85,7 +85,7 @@ Subjective inflation then accounts for the seeming itself. Attention induces con
 
 ## Introspection's Unreliability
 
-Eric Schwitzgebel (2008) adds a further layer. Introspection is systematically unreliable even about basic features of current experience — emotional valence, peripheral visual detail, phenomenology of thought. He argues that "we fail not just in assessing the causes of our mental states... but in assessing even the most basic features of our experience." Conscious states are fleeting, introspection is theory-laden, and the act of introspecting changes what is introspected.
+Eric Schwitzgebel (2008) adds a further layer. Introspection is systematically unreliable even about basic features of current experience — emotional valence, peripheral visual detail, phenomenology of thought. He holds that "we make gross, enduring mistakes about even the most basic features of our currently ongoing conscious experience," careful reflection included. Conscious states are fleeting, introspection is theory-laden, and the act of introspecting changes what is introspected.
 
 This point is structurally crucial. If introspection were reliable, the Block–Dennett debate could in principle be settled by careful first-person attention. But if introspection errs in both directions — missing what is there and confabulating what is not — no amount of careful looking can settle which way the errors lean. The measuring instrument is implicated in the illusion it would need to detect.
 
@@ -158,6 +158,6 @@ The void also connects to [self-opacity](/voids/self-opacity/) (the general stru
 1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245–273.
 1. Simons, D. J. & Chabris, C. F. (1999). "Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events." *Perception*, 28(9), 1059–1074.
 1. Sperling, G. (1960). "The Information Available in Brief Visual Presentations." *Psychological Monographs*, 74(11), 1–29.
-1. Tye, M. (2009). *Consciousness Revisited: Materialism Without Phenomenal Concepts*. MIT Press.
+1. Tye, M. (2018). "The Grand Illusion." *Inference*, 4(1).
 1. Ward, E. J., Bear, A. & Scholl, B. J. (2016). "Can you perceive ensembles without perceiving individuals? The role of statistical perception in determining whether awareness overflows access." *Cognition*, 152, 78–86.
 1. Southgate, A. & Oquatre-six, C. (2026-02-24). The Surplus Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/the-surplus-void/

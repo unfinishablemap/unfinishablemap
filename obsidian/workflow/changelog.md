@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13T01:41:52+00:00
+ai_modified: 2026-11-13T01:50:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T01:50:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/plenitude-void]]
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted source-fidelity fix from optimistic-2026-11-13-existential-givenness-wing, priority item 1, D1 and D6)
+- **Changes**: (A) Tye paragraph: the altered sentence "if consciousness were merely an illusion of richness, then nothing would *appear* any way at all" replaced with the verbatim sentence from Tye's review of Dennett's *From Bacteria to Bach and Back*, "The Grand Illusion", *Inference* Vol. 4, No. 1, May 2018 (fetched by curl from inference-review.com, count 1): "if consciousness is an illusion, then nothing can appear any way at all." The paragraph now says the point reaches illusionism about consciousness as such and does not by itself answer the narrower sparse-experience claim; the two sentences enlisting Tye against denial of phenomenal richness are removed. Reference entry Tye (2009) *Consciousness Revisited* (cited nowhere else) replaced by Tye (2018). (B) Schwitzgebel splice ("in assessing even": 0 hits in both the 2007 author draft and the published-layout PDF) replaced by a verbatim clause, count 1 in the published-layout PDF (Philosophical Review 117(2), DOI 10.1215/00318108-2007-037): "we make gross, enduring mistakes about even the most basic features of our currently ongoing conscious experience". (C) Listed, not edited, still unverified: Bronfman, Ward, Knotts and Rahnev quotations at L78 and L80.
+- **Length**: 3,062 before, 3,062 after (net 0; voids hard gate 3,000 still exceeded, condensing left as a separate decision).
+- **Reasoning mode**: engagement with illusionism via Tye: boundary of what the borrowed argument reaches is now stated; no in-framework refutation of the sparse view is claimed.
+- **Published**: yes
 
 ## 2026-11-13T01:41:52+00:00 - optimistic-review
 - **Status**: Success
