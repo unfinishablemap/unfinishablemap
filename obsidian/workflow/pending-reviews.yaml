@@ -445,3 +445,37 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-11-13-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/42a6c60f1fd738eb
+  commissioned_at: '2026-11-13T04:12:34.903449+00:00'
+  prompt_summary: 'Full-site audit: hostile-referee review of empirical claims and
+    citations'
+  target_filename: outer-review-2026-11-13-gemini-3-1-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) auditing the website https://unfinishablemap.org.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The site argues for a non-reductive view of consciousness; read its articles to
+    discover its commitments. Recent additions are listed at https://unfinishablemap.org/workflow/changelog/.
+    Do not describe the site''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure. Those are project-internal and not
+    the subject of audit. Assess only the articles'' empirical claims, citations,
+    counterargument coverage, and logical inferences. Audit across the site: (a) empirical
+    accuracy against the 2020s literature; (b) reliance on results since challenged,
+    retracted, or failed in replication; (c) framings that hold only if the site''s
+    own foundational commitments are assumed, and contradictions between articles;
+    (d) untested counterarguments or competing frameworks. Name the specific article
+    for every finding. End your report with the at-least-five weaknesses list, each
+    with a 2020-2025 source citation, and a one-sentence verdict on academic-submission
+    readiness. For each weakness, cite at least one peer-reviewed source from 2020-2025
+    that the site omits, contradicts, or mishandles. If you cannot find five weaknesses,
+    state explicitly why none are visible, but the default expectation is that a careful
+    audit will find five. Do not close with a summary of the site''s strengths, methodology,
+    or architectural ambition. Do not append summary praise.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-11-13-chatgpt-5-6-sol-pro.md
