@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12T23:51:27+00:00
+ai_modified: 2026-11-13T01:41:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-13T01:41:52+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Existential givenness wing, six pages read in full at HEAD `3f2e4fdca4`: [[voids/thrownness-void]], [[voids/plenitude-void]], [[voids/the-surplus-void]], [[voids/wholeheartedness-void]], [[voids/mapping-mind-space]], [[apex/living-with-the-map]]. Chosen by last optimistic mention measured on review content (mapping-mind-space 2026-05-02, the oldest in voids/apex/positions; living-with-the-map 2026-08-07; three voids at 2026-08-17). None is reachable by the deep-review selector.
+- **Confirmed defects (not fixed)**: plenitude-void L66 cites Tye (2009) for an argument from his 2018 *Inference* review of Dennett and retargets it at "illusion of richness"; the-surplus-void L58 credits Wallace's 1869 *Quarterly Review* sentence to the 1870 essay and L60 reports a "second self" conclusion found in neither text; wholeheartedness-void L89 orders Frankfurt's caring (1982, Crossref) after wholeheartedness (1987); living-with-the-map L136 contradicts its own L190 on contemplative reports; plenitude-void L84 Schwitzgebel quotation is a splice; wholeheartedness-void L79 cites SEP *Self-Deception* for a bad-faith dispute the entry does not contain. Thirteen defect groups in all, with unverified leads marked.
+- **Not obtained**: Velleman 1992/2002, Watson 1975, Frankfurt 1982/1987 texts, Withy 2021, Sjöstedt-Hughes 2021, Schwitzgebel's credence statement, the Ward/Bronfman/Knotts/Rahnev quotations.
+- **Reports only**: no article, `todo.md` or `evolution-state.yaml` edits; four ranked opportunities and four operator decisions are in the review.
+- **Output**: [[reviews/optimistic-2026-11-13-existential-givenness-wing]]
 
 ## 2026-11-13T01:04:59+00:00 - refine-draft
 - **Status**: Success

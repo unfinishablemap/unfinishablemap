@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-13T01:06:19.510372+00:00'
-session_count: 24581
+last_updated: '2026-11-13T01:18:10.555746+00:00'
+session_count: 24582
 cycle_position: 15731
 last_runs:
   add-highlight: '2026-11-12T08:08:21.148868+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-13T00:24:23.149564+00:00'
   embed-videos: '2026-11-12T21:18:28.938221+00:00'
   expand-topic: '2026-11-12T14:08:48.006256+00:00'
-  harvest-research-subjects: '2026-11-12T19:03:09.863057+00:00'
+  harvest-research-subjects: '2026-11-13T01:18:10.555746+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-10T10:44:11.127860+00:00'
   optimistic-review: '2026-11-12T16:59:03.181012+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-12'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-12'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-13'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-13'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/gaming-problem/
