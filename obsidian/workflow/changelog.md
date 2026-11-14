@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T07:58:56+00:00
+ai_modified: 2026-11-14T08:49:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T08:49:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/bidirectional-interaction]]
+- **Review file**: reviews/outer-review-2026-10-25-claude-fable-5-1.md (via the 2026-10-25 clinical-neuroplasticity grade-unification outlier report)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted one-sentence pass)
+- **Changes**: L99 (Psychotherapy pathway divergence), last sentence: "If robust, this divergence suggests top-down and bottom-up are genuinely different causal types rather than different descriptions of the same physical process" → "If robust, this divergence fits top-down and bottom-up being different causal types, but a route difference does not establish a type difference". This brings it to the grade of `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` L60 ("the type-difference does not follow from the route-difference alone"), L102 and L104 (re-grepped: the data are compatible with both readings and do not adjudicate). The redescription rival the old sentence named is still stated in the convergence paragraph that follows it (L103). The Yuan et al. 2022 sentence was not touched, and neither were the open-P3 loci L119 ("simpler explanation") and L77 (GRW/CSL modulation). Pronoun check: the new sentence has no pronouns, its subject "this divergence" is unchanged, and the next paragraph opens with a named subject (Seymour and Mathers). No live page quotes the old sentence; only workflow/review files do. No epiphenomenalist concession, and no author enlisted.
+- **Length**: 3,496 → 3,496 by analyze_length (net 0; concepts hard gate 3,500 at >=)
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Published**: yes
 
 ## 2026-11-14T08:36:25+00:00 - refine-draft
 - **Status**: Success
