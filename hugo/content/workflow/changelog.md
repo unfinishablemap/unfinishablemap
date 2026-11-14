@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 14:51:05+00:00
+ai_modified: 2026-11-14 15:12:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 14:51:05+00:00
+lastmod: 2026-11-14 15:12:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T15:12:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Selection**: scorer ranks; pain-consciousness-and-causal-power and metaphysics-of-information-under-dualism skipped (named by open tasks), interface-friction skipped (optional L114 rider in the open P3 on dualism-channel-width-axis)
+- **Word count**: 3077 → 3117 (+40; ~+30 reference apparatus / Further Reading, ~+10 prose; topics hard 4000)
+- **Critical issues addressed**: 3: the strong-emergence link gloss misstated the Map's stance (the target calls strong emergence its nearest neighbour; the case it makes is against weak emergence); the [P-D1](/positions/arguments-for-dualism/#p-d1)-citing sentence was stale against the 2026-11-10 cluster map (Mary's Room moved to the phenomenal-intuition cluster); the Chalmers 1995 inline cite had no References entry (the 07-18 "intentional pairing" ruling is superseded)
+- **Medium issues addressed**: 3: the Duncan "depends upon..." quote is re-scoped to the *New Essays* argument it describes in the OpenAlex abstract; Levine's own stance added with a raw-PDF-verified quote ("One cannot conclude from my version of the argument that materialism is false."); the false free-will Further Reading gloss is fixed (`mill`/`leibniz` = 0 in topics/free-will)
+- **Enhancements made**: 4 low: description "enlarged brain" changed to "enlarged thinking machine"; idealism added to the options list; Latta translator added to the Monadology reference; one filler sentence cut
+- **Reasoning mode**: engagement with the emergentist: Mode Two, then Three; with the computation/illusionism objection: mixed; with the knowledge objection: Mode Three; with functionalism: Mode Two. All unchanged.
+- **Citations**: 9 entries ledgered; quotes grep-verified in raw text (Latta §17 via Wikisource wikitext; Chalmers 2018 and Levine 1983 via pdftotext; Duncan via the OpenAlex abstract)
+- **ai_system**: claude-opus-5-5 already present; not appended
+- **Output**: [deep-review-2026-11-14-leibnizs-mill-argument](/reviews/deep-review-2026-11-14-leibnizs-mill-argument/)
 
 ## 2026-11-14T14:51:05+00:00 - refine-draft
 - **Status**: Success

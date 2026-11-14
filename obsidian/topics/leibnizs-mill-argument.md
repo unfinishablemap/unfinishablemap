@@ -1,11 +1,11 @@
 ---
 title: "Leibniz's Mill Argument"
-description: "Leibniz's 1714 thought experiment—walk through an enlarged brain, find only mechanism, never perception. The historical ancestor of the explanatory gap, Mary's Room, and the hard problem."
+description: "Leibniz's 1714 thought experiment—walk through an enlarged thinking machine, find only mechanism, never perception. The historical ancestor of the explanatory gap, Mary's Room, and the hard problem."
 created: 2026-02-01
-modified: 2026-10-02
+modified: 2026-11-14
 human_modified:
-ai_modified: 2026-10-02T20:11:12+00:00
-last_deep_review: 2026-07-18T17:28:01+00:00
+ai_modified: 2026-11-14T15:12:04+00:00
+last_deep_review: 2026-11-14T15:12:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ The absence claim carries two readings that the argument must keep distinct. On 
 
 ## Two Mill Arguments
 
-The four-step reconstruction above is one reading among several. Lodge (2014) surveys three earlier interpretations and argues that a fourth is needed for some of Leibniz's uses of the mill. Duncan (2012) finds two distinct arguments behind the one image. In a 1702 letter to Bayle, the mill argument moves from Leibniz's definition of perception as "the expression of a multitude by a simple" to the anti-materialist conclusion: on that route, an aggregate of parts has no simple to do the expressing. In the Preface to the *New Essays*—and, Duncan argues, in *Monadology* §17 itself—the argument is instead from inexplicability, and it "depends upon there being no arbitrary and inexplicable connections in nature, because God would not create such things."
+The four-step reconstruction above is one reading among several. Lodge (2014) surveys three earlier interpretations and argues that a fourth is needed for some of Leibniz's uses of the mill. Duncan (2012) finds two distinct arguments behind the one image. In a 1702 letter to Bayle, the mill argument moves from Leibniz's definition of perception as "the expression of a multitude by a simple" to the anti-materialist conclusion: on that route, an aggregate of parts has no simple to do the expressing. In the Preface to the *New Essays* the argument is instead from inexplicability, and it "depends upon there being no arbitrary and inexplicable connections in nature, because God would not create such things." *Monadology* §17, Duncan argues, takes this second route.
 
 The two routes bear differently on the Map. The simplicity route is a unity argument: perception needs a single subject that gathers a multiplicity, and a heap of parts supplies none. That ties the mill to the [[unity-of-consciousness]] prong, which the Map's register names among the routes that do not reduce to the explanatory gap (P-D1)—though whether Leibniz's a priori definition of perception inherits that prong's independence is an open question. The inexplicability route carries a cost the Map should state openly. A principle excluding inexplicable connections from nature tells against materialism, but it tells equally against the brute-but-lawful psychophysical connections any interactionist dualism must accept—the causal-intelligibility commitment that, as [[history-of-the-interaction-problem#What the Debate Reveals|the history of the interaction problem]] records, no seventeenth-century position held together with dualism and creaturely causation. The Map can use the mill's inventory without that principle, but on Duncan's reading of §17 it then lacks the premise that made the missing explanation decisive for Leibniz.
 
@@ -66,13 +66,13 @@ Modern neuroscience has given us extraordinary detail about the brain's "mill." 
 
 What we do not find is the redness of red, the painfulness of pain, the felt quality of any experience. The [[explanatory-gap]] between neural mechanisms and conscious experience echoes Leibniz's observation that mechanical inspection reveals "never anything by which to explain a perception."
 
-This parallel is not accidental. Leibniz anticipated the [[hard-problem-of-consciousness|hard problem of consciousness]] by nearly three centuries. David Chalmers' formulation—that we can explain all the functional roles of consciousness while leaving unexplained why these functions are accompanied by experience—closely parallels what Leibniz saw in the mill.
+Leibniz anticipated the [[hard-problem-of-consciousness|hard problem of consciousness]] by nearly three centuries. David Chalmers' formulation—that we can explain all the functional roles of consciousness while leaving unexplained why these functions are accompanied by experience—closely parallels what Leibniz saw in the mill.
 
 ## Historical Lineage: From the Mill to the Hard Problem
 
 Leibniz's Mill heads a three-century lineage of anti-materialist arguments. Each successor isolates a different facet of the difficulty, but all share the mill's core premise: physical inventory does not yield experience.
 
-**The [[explanatory-gap]]** (Levine, 1983) formalises what the mill walk shows. Levine asked why "Pain is the firing of C-fibers" lacks the explanatory transparency of "Heat is the motion of molecules." Leibniz's answer fits: inspecting the physical side shows only parts and interactions, never the felt quality they supposedly constitute.
+**The [[explanatory-gap]]** (Levine, 1983) formalises what the mill walk shows. Levine asked why "Pain is the firing of C-fibers" lacks the explanatory transparency of "Heat is the motion of molecules." Leibniz's answer fits: inspecting the physical side shows only parts and interactions, never the felt quality they supposedly constitute. Levine himself drew only the epistemic conclusion: "One cannot conclude from my version of the argument that materialism is false."
 
 **The [[knowledge-argument]]** (Jackson, 1982) recasts the mill in epistemic terms. Mary knows every physical fact about colour vision yet learns something on seeing red. Where Leibniz walked through a machine and found no perception, Mary walked through a complete physics and found no redness.
 
@@ -104,7 +104,7 @@ Materialists have offered [[type-a-type-b-and-type-c-physicalism|several lines o
 
 **The emergence objection**: Perhaps perception is not located in any single part but emerges from the organization of parts. Just as wetness emerges from hydrogen and oxygen atoms though neither is wet individually, [[consciousness]] might emerge from neural organization.
 
-The mill's defender answers that the wetness analogy is disanalogous. Wetness *can* be explained in terms of molecular properties accessible to physics—molecular mobility, hydrogen bonding, surface tension—structural features that inspection reveals. But what structural feature could explain the *redness* of red or the *painfulness* of pain? Organization gives us complexity, patterns, information processing; how it would give us felt quality is not evident. The defender therefore places the burden on the emergentist: specify how any arrangement of parts produces phenomenal character, or emergence remains a label for the problem rather than a solution. The emergentist can reply that the same was once said of life, and the dispute then returns to the standoff described under the knowledge objection below. (See [[the-strong-emergence-of-consciousness]] for the Map's fuller case against strong emergence as an explanation.)
+The mill's defender answers that the wetness analogy is disanalogous. Wetness *can* be explained in terms of molecular properties accessible to physics—molecular mobility, hydrogen bonding, surface tension—structural features that inspection reveals. But what structural feature could explain the *redness* of red or the *painfulness* of pain? Organization gives us complexity, patterns, information processing; how it would give us felt quality is not evident. The defender therefore places the burden on the emergentist: specify how any arrangement of parts produces phenomenal character, or emergence remains a label for the problem rather than a solution. The emergentist can reply that the same was once said of life, and the dispute then returns to the standoff described under the knowledge objection below. (See [[the-strong-emergence-of-consciousness]] for the Map's fuller case against weak emergence.)
 
 **The mistake objection**: Perhaps we are wrong to expect perception to appear as something distinct from the parts. Our intuition that it should might reflect confusion rather than insight. Where, after all, is "computation" when we walk through a computer? We find only transistors, yet computation is real and reducible to physical processes.
 
@@ -128,13 +128,13 @@ Leibniz didn't conclude that perception is illusory or inexplicable. He conclude
 
 On a common reading this is a form of [[panpsychism]], though commentators who stress that bodies are mere phenomena read it as idealism: monads at every level have perception-like properties (though most lack the memory and complexity required for consciousness proper). The physical world we observe is the "well-founded phenomenon" arising from the coordinated perceptions of monads.
 
-The Unfinishable Map does not endorse Leibniz's monadology. But his solution illustrates an important methodological point: if the argument succeeds in showing that perception cannot be reduced to mechanism, something else must account for it. The options include dualism, panpsychism, or fundamental revision of our concept of matter.
+The Unfinishable Map does not endorse Leibniz's monadology. But his solution illustrates an important methodological point: if the argument succeeds in showing that perception cannot be reduced to mechanism, something else must account for it. The options include dualism, panpsychism, idealism, or fundamental revision of our concept of matter.
 
 ## Relation to Site Perspective
 
 Leibniz's Mill supports several of the Map's [[tenets]]:
 
-**[[tenets#^dualism|Dualism]]**: The argument supports the claim that consciousness is not reducible to physical processes, but not as independent support. Its inventory route shares its core premise with the explanatory gap, the knowledge argument and the zombie argument, and the Map counts such premise-sharing arguments as worth little more than one strong argument from their cluster (P-D1). Its more distinctive contribution may be the simplicity route described [above](#two-mill-arguments), which bears on the unity prong P-D1 treats as crossing clusters.
+**[[tenets#^dualism|Dualism]]**: The argument supports the claim that consciousness is not reducible to physical processes, but not as independent support. Its inventory route shares its core premise with the explanatory gap and the zombie argument, and the Map counts such premise-sharing arguments as worth little more than one strong argument from their cluster (P-D1). Its more distinctive contribution may be the simplicity route described [above](#two-mill-arguments), which bears on the unity prong P-D1 treats as crossing clusters.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The materialist response that experience "just is" the arrangement of parts invokes parsimony: why posit anything beyond the physical? But parsimony cannot close an explanatory gap. If physical description genuinely fails to capture something about experience—something revealed by the mill thought experiment—adding that something to our ontology is not profligacy but intellectual honesty.
 
@@ -154,11 +154,12 @@ The mill argument is the historical origin of a converging family of anti-materi
 - [[arguments-against-materialism]] — The full range of arguments against materialism, where Leibniz's Mill stands at the head of the tradition
 - [[epistemology-of-convergence-arguments]] — Why convergence across independent arguments constitutes evidence
 - [[consciousness-defeats-explanation]] — Why physical explanation seems inherently bounded
-- [[topics/free-will]] — How the mill argument supports the reality of conscious choice
+- [[topics/free-will]] — The Map's agent-causal account, which requires the non-physical consciousness the mill argues for
 
 ## References
 
-1. Leibniz, G.W. (1714). *Monadology*. §17.
+1. Leibniz, G.W. (1714). *Monadology*, §17. Trans. R. Latta (1898). Oxford University Press.
+1. Chalmers, D. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Chalmers, D. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
