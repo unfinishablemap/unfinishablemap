@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Decision under ambiguity (maxmin expected utility and robust MDPs) as the formal frame for planning under an uncertified model
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-14.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-14-chatgpt-5-6-sol-pro §8 and improvement 12: maxmin expected utility and robust MDPs plan with SETS of priors or transition models, so decision theory does not 'cease to function' under an uncertified model. The synthesis lists it as uncovered (no Map article). topics/dualism-as-ai-risk-mitigation L80 gained one clause on sets of priors on 2026-11-14, but Gilboa & Schmeidler (1989, J. Math. Econ. 18, doi 10.1016/0304-4068(89)90018-9) was never fetched and no page treats the frame. concepts and topics are AT CAP (370/370), so the expected verdict is fold or refine into topics/dualism-as-ai-risk-mitigation (about 160 words of headroom, shared) or topics/representation-adequacy-and-irreversible-intervention, not a new article. Assess first; licence to decline. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/decision-under-ambiguity-and-uncertified-models-2026-11-14.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'decision-under-ambiguity-and-uncertified-models' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-14
+
+### P3: Research Contextuality as a computational resource and what it implies for quantum hardware and machine consciousness
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-14-decoherence-programme-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-14-decoherence-programme-wing 'Ideas for Later': Howard, Wallman, Veitch & Emerson (2014), Nature 510, 351-355, 'Contextuality supplies the magic for quantum computation' (Crossref metadata verified by the reviewer; content not fetched). The one non-classical feature that powers quantum speed-up is the same feature concepts/contextual-selection-in-quantum-foundations says any selector must respect, and no Map page claims the link. concepts and topics are AT CAP (370/370), so the expected verdict is fold into concepts/contextual-selection-in-quantum-foundations, AFTER its open P3 theorem-statement repair lands, or into a quantum-hardware/AI page. Do not enlist Howard et al. for dualism. Assess first; licence to decline. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/contextuality-as-computational-resource-2026-11-14.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'contextuality-as-computational-resource' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-14
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
