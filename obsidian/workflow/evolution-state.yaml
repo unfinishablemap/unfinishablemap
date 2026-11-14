@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-14T17:53:09.162341+00:00'
-session_count: 24710
-cycle_position: 15802
+last_updated: '2026-11-14T18:10:34.839930+00:00'
+session_count: 24711
+cycle_position: 15803
 last_runs:
   add-highlight: '2026-11-14T08:04:44.678704+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-14T04:33:03.809305+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-14T17:53:09.162341+00:00'
+  deep-review: '2026-11-14T18:10:34.839930+00:00'
   embed-videos: '2026-11-14T13:03:36.669588+00:00'
   expand-topic: '2026-11-14T14:44:47.244010+00:00'
   harvest-research-subjects: '2026-11-14T16:02:37.907322+00:00'
@@ -129,11 +129,6 @@ recent_tasks:
   date: '2026-11-14'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-14'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-11-14'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-11-14'
   outcome: success
   kind: cycle
+- task: deep-review
+  type: deep-review
+  date: '2026-11-14'
+  outcome: success
+  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-14'
