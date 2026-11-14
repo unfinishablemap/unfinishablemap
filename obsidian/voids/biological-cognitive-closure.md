@@ -1,10 +1,10 @@
 ---
 title: "Biological Cognitive Closure"
-description: "Human cognitive limits have biological origins: evolution selects for ignorance where it confers fitness advantage, innate architecture bounds which concepts can form, and developmental pruning progressively narrows what remains. Cross-cultural convergence reveals these as species-level features, not cultural artifacts."
+description: "Human cognitive limits have biological origins: evolution selects for ignorance where it confers fitness advantage, innate architecture bounds which concepts can form, and developmental pruning progressively narrows what remains. Cross-cultural convergence on limits such as the bias blind spot suggests species-level features, not cultural artifacts."
 created: 2026-01-24
 modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-11-14T19:21:10+00:00
+ai_modified: 2026-11-14T19:51:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ coalesced_from:
   - "/voids/architecture-of-cognitive-closure/"
 ---
 
-Human cognitive limits are biological. They arise from three interlocking sources: natural selection maintains ignorance where it confers fitness advantage, innate architecture bounds which conceptual primitives a mind can possess, and developmental pruning progressively narrows what remains. Cross-cultural research provides the evidence — humans across vastly different cultures converge on the same cognitive failures, the same ineffable experiences, the same explanatory gaps. This convergence reveals species-level constraints rather than cultural artifacts. The [[voids]] framework gains both a causal account of *why* limits exist and a methodological tool for identifying which limits are candidates for the genuinely Unexplorable.
+Human cognitive limits are biological. They arise from three interlocking sources: natural selection maintains ignorance where it confers fitness advantage, innate architecture bounds which conceptual primitives a mind can possess, and developmental pruning progressively narrows what remains. Cross-cultural research provides evidence — humans across vastly different cultures converge on the same cognitive failures and, more tentatively, the same explanatory gap. This convergence suggests species-level constraints rather than cultural artifacts. Agreement on ineffable experience is weaker evidence, because the scales measuring it were built on Stace's typology. The [[voids]] framework gains both a causal account of *why* limits exist and a methodological tool for identifying which limits are candidates for the genuinely Unexplorable.
 
 The three sources compound across the lifespan. We start bounded by evolutionary design and innate architecture, then become more bounded through development. The shape of what we cannot think reveals the shape of what we are.
 
@@ -120,7 +120,7 @@ Different biological sources produce different phenomenological signatures, mapp
 
 **Architectural limits generate frustration** — trying and failing to think something, documented in the [[compound-failure-signatures|topology of cognitive failure]]. **Adaptive limits generate satisfaction** — the limit feels like completion, producing an [[noetic-feelings-void|understanding void]] at the species level: self-evidence as stop-sign. Hoffman's interface model suggests the deepest form, where the perceptual interface hides voids seamlessly through [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]. **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [[inventory-blindness]].
 
-Buddhist, Hindu, and Western contemplative traditions all report that self-investigation reaches a point where the investigator cannot be found. The consistent phenomenology across traditions suggests a species-level feature of self-directed cognition.
+Buddhist, Hindu, and Western contemplative traditions report that self-investigation reaches a point where the investigator cannot be found. This recurring report may mark a species-level feature of self-directed cognition, though the same report need not mean the same experience.
 
 ## Caveats and Challenges
 
@@ -134,7 +134,7 @@ Some approaches to the edge exist: enzyme injection has reopened visual critical
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is the tenet biological closure bears on most, as coherence rather than confirmation. If our sense of "simpler" is an evolved heuristic tuned to fitness rather than truth (contested, as noted above), parsimony judgments reflect survival value rather than metaphysical accuracy. The bias blind spot means we cannot perceive our biases; architecturally, our conceptual vocabulary is bounded; developmentally, the brain prunes toward specialisation. Simplicity judgments become unreliable when the judging apparatus itself is constrained and narrowing.
 
-**[[tenets#^dualism|Dualism]]** draws on McGinn's evolutionary argument that our concept-forming apparatus, shaped by spatial-motor functions, lacks the concepts needed to bridge the consciousness explanatory gap. McGinn's own conclusion is naturalist, not dualist: he holds the mind-brain link is fully physical but cognitively closed to us. The Map borrows the epistemic claim about closure, then argues separately—on its own grounds, not McGinn's—that cross-cultural convergence on mystical ineffability may indicate encounter with aspects of reality that physical description cannot capture. The metaphysical step is the Map's; McGinn would resist it.
+**[[tenets#^dualism|Dualism]]** draws on McGinn's evolutionary argument that our concept-forming apparatus, shaped by spatial-motor functions, lacks the concepts needed to bridge the consciousness explanatory gap. McGinn's own conclusion is naturalist, not dualist: he holds the mind-brain link is fully physical but cognitively closed to us. The Map borrows the epistemic claim about closure, then argues separately—on its own grounds, not McGinn's—that mystical ineffability may reflect encounter with aspects of reality that physical description cannot capture. Ineffability reports fit that reading without evidencing it, since their cross-cultural agreement is partly supplied by Stace-derived scales. The metaphysical step is the Map's; McGinn would resist it.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** raises the possibility that the mechanism of consciousness's causal influence is a candidate for adaptive concealment. Von Hippel and Trivers (2011) argue that self-deception evolved to facilitate deceiving others, achieved by dissociating conscious from unconscious processes; extending that logic from social motives to the mind–body interface is the Map's speculation, and their interpersonal rationale does not obviously carry over.
 

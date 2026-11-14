@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 19:43:44+00:00
+ai_modified: 2026-11-14 19:52:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 19:43:44+00:00
+lastmod: 2026-11-14 19:52:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T19:52:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [biological-cognitive-closure](/voids/biological-cognitive-closure/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted consistency pass after the 19:21Z B1/B2 fix at L69
+- **Word count**: 2384 → 2422 (+38; voids soft 2000 / hard 3000; aim was ≤ +40)
+- **Changes** (four loci, each str.count 1 before editing):
+  - Description: "Cross-cultural convergence reveals these as species-level features, not cultural artifacts." → "Cross-cultural convergence on limits such as the bias blind spot suggests species-level features, not cultural artifacts." (321 → 351 chars)
+  - Lead: "provides the evidence" → "provides evidence"; "the same ineffable experiences" dropped from the convergence list; the explanatory gap kept "more tentatively", in singular, matching L71's uncited "may indicate"; "reveals" → "suggests"; one sentence added: "Agreement on ineffable experience is weaker evidence, because the scales measuring it were built on Stace's typology."
+  - L123: "all report" → "report"; "The consistent phenomenology across traditions suggests…" → "This recurring report may mark a species-level feature of self-directed cognition, though the same report need not mean the same experience." Qualified, not cited. No source on the page or its linked contemplative pages supports cross-traditional sameness of the phenomenology. `self-opacity` cites Hume and other Western thinkers only. `witness-consciousness` L56 records Buddhist/Advaita divergence. `comparative-phenomenology-of-meditative-traditions` cites primary texts and Katz, not a comparative study.
+  - Dualism paragraph: "cross-cultural convergence on mystical ineffability may indicate encounter" → "mystical ineffability may reflect encounter". Instrument-discount clause added: "Ineffability reports fit that reading without evidencing it, since their cross-cultural agreement is partly supplied by Stace-derived scales." The Map's metaphysical step and the McGinn separation stand. The closure thesis does not rest on the mystical strand.
+- **Convergence strands**: cognitive failures kept, on the bias blind spot (Pronin & Hazel 2023, ref 8). The explanatory gap was kept at the tentative grade; its L71 sentence is uncited. Mystical ineffability was discounted, per L69 (MacLean et al. 2012; Hood et al. 2001).
+- **Guards**: no Stace/Hood/MacLean enlisted for dualism; fit, not evidence; L69 B1/B2 text and refs 9 and 16 untouched.
+- **Reasoning mode**: engagement with McGinn is Mode Three (the Map's metaphysical step is marked as its own, and McGinn would resist it); unchanged.
+- **Published**: yes
 
 ## 2026-11-14T19:43:44+00:00 - deep-review
 - **Status**: Success
