@@ -2,9 +2,9 @@
 title: "Moral Responsibility"
 description: "How agent causation grounds genuine moral desert. Agents originate actions through irreducible causal power, making praise and blame metaphysically robust."
 created: 2026-01-16
-modified: 2026-10-26
+modified: 2026-11-14
 human_modified: null
-ai_modified: 2026-10-26T00:20:39+00:00
+ai_modified: 2026-11-14T08:36:25+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -36,7 +36,7 @@ last_curated: null
 last_deep_review: 2026-07-30T13:33:37+00:00
 ---
 
-Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [[agent-causation|agent causation]]—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action: when they truly author their choices—as initiators of causal sequences rather than links in a deterministic chain—blame and praise track genuine facts about who caused what, making moral responsibility metaphysically robust rather than a useful fiction.
+Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [[agent-causation|agent causation]]—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action: when they truly author their choices—as initiators of causal sequences rather than links in a deterministic chain—blame and praise track genuine facts about who caused what, so desert, too, has an irreducible source.
 
 ## The Traditional Problem
 
@@ -98,7 +98,7 @@ Moral responsibility requires consciousness. The agent that sources action is a 
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The objection here is about desert. The tenet does personhood-and-responsibility work, not merely quantum-interpretation work: the Map holds that praise and blame presuppose alternatives genuinely rejected, not merely routed to other branches. An Everettian can grant the agent a branch-local history of having chosen—even [[haecceity|indexically]] owned memories of it—while every rejected option is actualised by a counterpart elsewhere. The judgment that this dissolves desert rests not on desert-relevant facts alone but on a global-exclusion condition, a [[tenets/background-commitments|posit the Map adopts]], asserted rather than derived from the desert case. The objection is not that Many-Worlds fails the phenomenology, which it does not.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The metaphysics of agent causation is complex, but if consciousness is genuinely irreducible, the complexity is warranted. Compatibilism purchases simplicity at the cost of what ordinary moral practice assumes.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The metaphysics of agent causation is complex, but if consciousness is genuinely irreducible, the complexity is warranted. It buys desert an irreducible source; compatibilist desert is derived.
 
 ## Practical Implications
 
@@ -173,7 +173,7 @@ Moral responsibility under agent causation:
 - Character responsibility reflects self-shaping through choices
 - Consciousness is essential: agency requires experience of alternatives, effort, and self-knowledge
 
-This framework respects the ordinary intuition that people deserve praise and blame because they really did what they did—not because treating them as if they did has good consequences. Whether that intuition is correct, the Map's framework provides a metaphysics that vindicates it.
+This framework respects the ordinary intuition that people deserve praise and blame because they really did what they did. Compatibilism grounds that desert in derived capacities; agent causation gives it an irreducible source. Whether that intuition is correct, the Map's framework provides a metaphysics that vindicates it.
 
 ## Further Reading
 

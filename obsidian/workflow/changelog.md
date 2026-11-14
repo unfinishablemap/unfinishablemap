@@ -5,6 +5,14 @@ ai_modified: 2026-11-14T07:58:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-14T08:36:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/moral-responsibility]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted three-sentence pass)
+- **Changes**: Recast the three remaining sentences that still cast compatibilism as a "useful fiction" or a consequentialist view, contradicting L145. Each now sits on L145's irreducible-versus-derivative axis, in L73's wording. (1) L39 lead: "making moral responsibility metaphysically robust rather than a useful fiction" → "so desert, too, has an irreducible source" (states the positive claim directly, no "rather than" contrast). (2) L101 Tenet 5 bullet: "Compatibilism purchases simplicity at the cost of what ordinary moral practice assumes" → "It buys desert an irreducible source; compatibilist desert is derived." The bullet now says what the Map's own complexity buys, so it makes no parsimony charge against compatibilism and no longer claims compatibilism forfeits the practices L145 concedes it secures. (3) L176 Summary close: "—not because treating them as if they did has good consequences" → "Compatibilism grounds that desert in derived capacities; agent causation gives it an irreducible source." This drops the consequentialist straw view. Guards held: no concession of ultimate desert to compatibilism, no epiphenomenalism concession, no compatibilists enlisted for dualism, no "This is not X. It is Y.", no "load-bearing". Pronoun check: L101 "It" resolves to "the complexity" and L176 "it" to "that desert". Afterwards "useful fiction" survives only inside L145's own concession, and "good consequences", "purchases simplicity" and "ordinary moral practice" are each at 0. archive/ and `concepts/basic-argument-and-constitutive-luck` untouched. ai_system already carries claude-opus-5-5 (unchanged).
+- **Length**: 3,495 → 3,494 by analyze_length (-1; concepts hard gate 3,500)
+- **Published**: yes
+
 ## 2026-11-14T07:58:56+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: decoherence-programme wing, 4 pages read in full at HEAD d2b5a93ef0: `concepts/envariance`, `topics/quantum-darwinism-and-consciousness`, `concepts/improper-vs-proper-mixtures`, `concepts/contextual-selection-in-quantum-foundations`. Chosen as the least-recently reviewed coherent cluster in topics/concepts: no review mention of any of them since 2026-10-14, and none touched since 2026-11-13.

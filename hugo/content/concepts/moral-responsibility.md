@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-26 00:20:39+00:00
+ai_modified: 2026-11-14 08:36:25+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -19,14 +19,14 @@ concepts:
 - '[[compatibilist-symmetry-challenge]]'
 - '[[source-versus-leeway-incompatibilism]]'
 created: 2026-01-16
-date: &id001 2026-10-26
+date: &id001 2026-11-14
 description: How agent causation grounds genuine moral desert. Agents originate actions
   through irreducible causal power, making praise and blame metaphysically robust.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 13:33:37+00:00
-lastmod: 2026-10-26 00:20:39+00:00
+lastmod: 2026-11-14 08:36:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +39,7 @@ topics:
 - '[[ethics-under-dualism]]'
 ---
 
-Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [agent causation](/concepts/agent-causation/)—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action: when they truly author their choices—as initiators of causal sequences rather than links in a deterministic chain—blame and praise track genuine facts about who caused what, making moral responsibility metaphysically robust rather than a useful fiction.
+Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [agent causation](/concepts/agent-causation/)—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action: when they truly author their choices—as initiators of causal sequences rather than links in a deterministic chain—blame and praise track genuine facts about who caused what, so desert, too, has an irreducible source.
 
 ## The Traditional Problem
 
@@ -101,7 +101,7 @@ Moral responsibility requires consciousness. The agent that sources action is a 
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The objection here is about desert. The tenet does personhood-and-responsibility work, not merely quantum-interpretation work: the Map holds that praise and blame presuppose alternatives genuinely rejected, not merely routed to other branches. An Everettian can grant the agent a branch-local history of having chosen—even [indexically](/concepts/haecceity/) owned memories of it—while every rejected option is actualised by a counterpart elsewhere. The judgment that this dissolves desert rests not on desert-relevant facts alone but on a global-exclusion condition, a [posit the Map adopts](/tenets/background-commitments/), asserted rather than derived from the desert case. The objection is not that Many-Worlds fails the phenomenology, which it does not.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The metaphysics of agent causation is complex, but if consciousness is genuinely irreducible, the complexity is warranted. Compatibilism purchases simplicity at the cost of what ordinary moral practice assumes.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The metaphysics of agent causation is complex, but if consciousness is genuinely irreducible, the complexity is warranted. It buys desert an irreducible source; compatibilist desert is derived.
 
 ## Practical Implications
 
@@ -176,7 +176,7 @@ Moral responsibility under agent causation:
 - Character responsibility reflects self-shaping through choices
 - Consciousness is essential: agency requires experience of alternatives, effort, and self-knowledge
 
-This framework respects the ordinary intuition that people deserve praise and blame because they really did what they did—not because treating them as if they did has good consequences. Whether that intuition is correct, the Map's framework provides a metaphysics that vindicates it.
+This framework respects the ordinary intuition that people deserve praise and blame because they really did what they did. Compatibilism grounds that desert in derived capacities; agent causation gives it an irreducible source. Whether that intuition is correct, the Map's framework provides a metaphysics that vindicates it.
 
 ## Further Reading
 

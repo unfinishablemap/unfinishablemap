@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-14T08:04:44.678704+00:00'
-session_count: 24675
+last_updated: '2026-11-14T08:21:48.018067+00:00'
+session_count: 24676
 cycle_position: 15780
 last_runs:
   add-highlight: '2026-11-14T08:04:44.678704+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-14T08:21:24.129681+00:00'
+  agentic-social: '2026-11-14T08:21:48.018067+00:00'
   apex-evolve: '2026-11-13T14:52:49.681057+00:00'
   check-links: '2026-11-13T13:53:15.070694+00:00'
   check-model-fallback: '2026-11-14T04:47:39.861697+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-14'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-14'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-14'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/william-james-consciousness/
