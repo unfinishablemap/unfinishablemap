@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 12:57:07+00:00
+ai_modified: 2026-11-14 13:52:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 12:57:07+00:00
+lastmod: 2026-11-14 13:52:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T13:52:59+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The beloved void (why this one: who a person will love cannot be forecast before meeting, no reason answers why this person rather than an equally eligible other, and the lover cannot tell found perfections from conferred ones)
+- **Category**: Mixed (Unexplored for the pre-meeting forecast; close to Unexplorable for the warrant question and the indexical residue; Occluded for the lens and object faces)
+- **Output**: [voids-beloved-void-2026-11-14](/research/voids-beloved-void-2026-11-14/)
+- **Verdict**: `recommended_action: article`, `target_slug: beloved-void` (fold declined: emotional-epistemology-void 926 and mattering-void 611 have room but neither is about selection or particularity; preference-void 142, haecceity 13, wholeheartedness-void past hard)
+- **Key finding**: Love was a corpus-wide zero (reasons for love, speed dating, Kolodny, Jollimore, limerence, trading up, Badhwar, Strohminger, Replika all 0 files; positive controls Frankfurt 62, choice blindness 41). In speed dating the pair-specific component was the largest share of initial desire, and random forests given 100+ pre-date measures "were unable to predict relationship variance" (Joel, Eastwick & Finkel 2017), while rival philosophical accounts (Velleman, Singer, Whiting, Han) concede that "why this one rather than another" has no justifying answer.
 
 ## 2026-11-14T12:57:07+00:00 - refine-draft
 - **Status**: Success
