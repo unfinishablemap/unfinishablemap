@@ -2,9 +2,9 @@
 title: "Agency and Will Positions"
 description: "The Map's positions on free will and agency: the agent-causal libertarian commitment, the volition as the interface contact point, the interpretation of Libet-style timing data, and where the case is held conservatively."
 created: 2026-06-08
-modified: 2026-11-03
+modified: 2026-11-14
 human_modified: 2026-06-08
-ai_modified: 2026-11-03T00:08:40+00:00
+ai_modified: 2026-11-14T20:50:55+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -101,12 +101,10 @@ These positions cover what the Map holds about agency: whether choices are genui
 - **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence moderate · external-evidence grade n/a (normative — a discipline against over-claiming) · structural centrality low · model maturity developed · empirical discriminability n/a (normative) · framework-internal only: no
 - **Asserts**: The Map holds, as a discipline against over-claiming, that its libertarian framing does *not* do unique explanatory work over sophisticated compatibilism (Frankfurt, Fischer & Ravizza, Wolf) at the level of moral practice: the same deliberative phenomenology, praise/blame practices, and character-formation arc are plausibly securable on a compatibilist scaffold. What distinguishes the libertarian reading is its coherence with the Map's other tenets — adopted on grounds beyond moral theory — together with a narrow residue where libertarian agency may do separating work: ultimate desert in retributive contexts, certain readings of "could have done otherwise," and the metaphysics of genuine alternatives. Two of those three items — the "could have done otherwise" readings and the metaphysics of genuine alternatives — are held *conditionally*: the [[topics/frankfurt-cases-and-the-principle-of-alternate-possibilities|Frankfurt-cases]] article books the Map's own answer, relocating the requirement from alternatives to sourcehood, as "a *retreat*, and a conditional one" and "not a costless translation" — a fallback to *narrow* source against which the semicompatibilist actual-sequence rival still stands. Those two items therefore survive on the Map's considered *wide* source position and lapse with its leeway defence. The symmetry bites hardest at [[topics/reactive-attitudes-and-strawsonian-responsibility|Strawsonian responsibility]], where normativized reactive attitudes secure the praise-and-blame practices with no metaphysical thesis at all, and where the Map records that its own resistance is no evidence "that Strawson is wrong or that dualism is right". This is the [[compatibilist-symmetry-challenge]], registered explicitly so the moral case is not overstated.
 - **Depends on**: P-A1; the [[compatibilist-symmetry-challenge]]; [[project/evidential-status-discipline]]
-- **Argued in**: [[concepts/compatibilism]], [[concepts/compatibilist-symmetry-challenge]], [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]], [[topics/free-will]], [[topics/moral-implications-of-genuine-agency]], [[topics/frankfurt-cases-and-the-principle-of-alternate-possibilities]], [[topics/reactive-attitudes-and-strawsonian-responsibility]]
+- **Argued in**: [[concepts/compatibilism]], [[concepts/compatibilist-symmetry-challenge]], [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]], [[topics/free-will]], [[topics/moral-implications-of-genuine-agency]], [[topics/frankfurt-cases-and-the-principle-of-alternate-possibilities]], [[topics/reactive-attitudes-and-strawsonian-responsibility]], [[concepts/basic-argument-and-constitutive-luck]]
 - **Would shift if**: libertarian agency were shown to secure a moral phenomenon compatibilism demonstrably cannot (collapsing the symmetry); or the named residue (ultimate desert, genuine alternatives) were shown to be illusory or compatibilist-recoverable — a trigger the Frankfurt retreat moves toward without satisfying, since it conditionalises the two alternatives-based items rather than recovering them.
-- **Updated 2026-11-03**: [[new-dispositionalism]] is the most direct candidate trigger for the genuine-alternatives clause of **Would shift if**; its critics' replies explain why it has not fired, without closing the question. No credence or status change.
-- **Updated 2026-09-11**: **Argued in** extended to [[concepts/compatibilism]], the corpus's only survey of the rival this position distinguishes itself from and uncited here until now (metadata repair queued 2026-08-22; no credence, status or claim change).
-- **Updated 2026-08-21**: the two alternatives-based residue items conditionalised on the Map's leeway defence, and **Argued in** extended to the Frankfurt-cases and Strawsonian-responsibility articles — since 2026-07-29 the canonical loci for two of the three residue items, neither previously cited. No credence change: the Strawsonian instance strengthens the main claim about as much as the Frankfurt retreat narrows the residue, which is narrowed, not eliminated.
-- **Last reviewed**: 2026-11-03
+- **Calibration history**: [[positions/agency-and-will-calibration-history#p-a5|notes of 2026-08-21 through 2026-11-14]] — the two alternatives-based items conditionalised; *Argued in* extended; [[new-dispositionalism]] as the nearest, unfired trigger for genuine alternatives; the Basic Argument pressing the ultimate-desert item, with a candidate scoping left to the owner. No credence or status change.
+- **Last reviewed**: 2026-11-14
 
 ## P-A6: The agent's direct causal product is a volition, and the volition is where the interface makes contact
 

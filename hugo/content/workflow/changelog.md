@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 20:39:16+00:00
+ai_modified: 2026-11-14 20:52:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 20:39:16+00:00
+lastmod: 2026-11-14 20:52:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T20:52:28+00:00 - positions-evolve (audit, [P-A5](/positions/agency-and-will/#p-a5))
+- **Status**: Success
+- **Mode**: audit of one item, the [P-A5](/positions/agency-and-will/#p-a5) residue item "ultimate desert in retributive contexts", against Galen Strawson's Basic Argument. Sources: [basic-argument-and-constitutive-luck](/concepts/basic-argument-and-constitutive-luck/) (§parity, §meeting, §what-the-map-can-claim), the research note's "## The Parity Problem (the Map's Reading)" and "## How the Basic Argument Differs From the Rollback" sections, and the 2026-10-26 deep review's stability notes.
+- **Verdict**: **needs scoping, not withdrawal.** The Map concedes that its agent is not *causa sui*. Read as desert needing a *causa sui* agent, the item does no separating work for anyone, the Map's subject included, so the "shown to be illusory" limb of **Would shift if** would already be met. Read as desert grounded in origination without self-creation, which is Clarke's premise-(2) rejection as the SEP summarises it, the limb has not fired: the rejection is contested (Istvan 2011, SEP-reported), and it is held as a commitment, not a result. It also ends at the rollback's token primitive. The parity is stated symmetrically: the regress presses the Map's posited subject as hard as Kane's or Campbell's, with dualism given no exemption (1994 n. 8), and on the regress alone agent causation gains no structural advantage over Kane.
+- **Recorded, not installed**: the candidate scoping is in the sidecar's [P-A5](/positions/agency-and-will/#p-a5) **Updated 2026-11-14** note: the Asserts wording, the Would-shift-if wording plus one disjunct, and [P-A2](/positions/agency-and-will/#p-a2) added to Depends on (about +26 register words). **No credence or status change; candidate scoping awaits owner decision.**
+- **Files**:
+  - [agency-and-will](/positions/agency-and-will/): *Argued in* gains the new article, the third residue item's canonical locus (the 2026-08-21 precedent did this for the other two). The three inline [P-A5](/positions/agency-and-will/#p-a5) notes (11-03, 09-11, 08-21) were relocated verbatim to the sidecar, as the sidecar's quantum-interface convention prescribes at an entry's next `/positions-evolve` touch, and a **Calibration history** pointer line was installed in the [P-A1](/positions/agency-and-will/#p-a1) format. *Last reviewed* is now 2026-11-14. Asserts, Would shift if, Depends on and calibration are untouched.
+  - [agency-and-will-calibration-history](/positions/agency-and-will-calibration-history/): new `## P-A5` section with the 2026-11-14 note followed by the three relocated notes, plus an intro sentence recording the relocation. The description was updated.
+- **Word count** (analyze_length): register 3,515 → 3,426 (−89; hard 2,500, still OVER); sidecar 916 → 1,641 (soft_warning; hard 2,500).
+- **Guards**: G. Strawson is not enlisted for dualism (a monist; thin-subject view). Tenet 4's persisting subject is stated as a commitment. Tenet 3, its open quantifier and the [P-Q2](/positions/quantum-interface/#p-q2) HUMAN DECISION are untouched. No external quotation was installed: Strawson, Clarke and Istvan are paraphrased, and the Map-internal quotes were grep-verified in the register. No epiphenomenalism concession.
+- **Cascade**: none edited. If the owner adopts the scoping, [P-A2](/positions/agency-and-will/#p-a2) becomes a [P-A5](/positions/agency-and-will/#p-a5) dependency. [P-A5](/positions/agency-and-will/#p-a5) has no downstream dependents in the register.
+- **Not done here**: the cross-review task for the article and the queued menu-luck fold, which is a further pressure on the same desert item once it lands. todo.md is untouched, since the task was already `Status: pending` with no Blocked-by.
 
 ## 2026-11-14T20:39:16+00:00 - refine-draft
 - **Status**: Success
