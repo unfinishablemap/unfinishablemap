@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-11-05T05:57:15+00:00
+ai_modified: 2026-11-14T19:21:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ Chomsky articulates the principle: any biological organism gains cognitive *scop
 
 The **bias blind spot** — seeing bias in others but not oneself — appears in every tested population across continents. It shows no association with cognitive ability and resists correction through instruction. The phenomenology is distinctive: persistent clarity about *others'* distortions while blind to one's own.
 
-**Mystical ineffability** shows consistent cross-cultural structure. Hood's Mysticism Scale reveals the same three-factor pattern across American Christians, Iranian Muslims, Indian Hindus, and East Asian Buddhists. The ineffability factor — mystical experience "defying expression" — appears regardless of metaphysics, goals, or historical contact. This connects to the [[edge-states-and-void-probes|phenomenology of the edge]].
+**Mystical ineffability** shows partly consistent cross-cultural structure. Hood's Mysticism Scale kept its three-factor pattern in American samples and an Iranian Muslim sample, where ineffability proved at least as much introvertive as interpretive (Hood et al. 2001), but Christian, Muslim and Hindu samples in India and Tibetan and Chinese Buddhist samples fitted alternative structures better (MacLean et al. 2012). The scale was built on Stace's typology (MacLean et al. 2012), so agreement on it is partly supplied by the instrument: it shows how respondents answer Stace's questions and cannot show a shared core beyond them. Ineffability connects to the [[edge-states-and-void-probes|phenomenology of the edge]].
 
 The persistence of the [[hard-problem-of-consciousness|hard problem]] across Chinese, Indian, and Western philosophy — traditions that developed largely independently — may indicate genuine [[mysterianism|cognitive closure]]. The difficulty of explaining experience in non-experiential terms appears cross-culturally despite radically different framings.
 
@@ -168,10 +168,11 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 6. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 7. Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? *Behavioral and Brain Sciences*, 33(2-3), 61-83.
 8. Pronin, E., & Hazel, L. (2023). Humans' Bias Blind Spot and Its Societal Significance. *Current Directions in Psychological Science*.
-9. Hood, R. W. (2001). Dimensions of the Mysticism Scale. *Journal for the Scientific Study of Religion*.
+9. Hood, R. W., Jr., Ghorbani, N., Watson, P. J., et al. (2001). Dimensions of the Mysticism Scale: Confirming the Three-Factor Structure in the United States and Iran. *Journal for the Scientific Study of Religion*, 40(4), 691-705.
 10. Chomsky, N. (2014). Science, Mind, and Limits of Understanding. Lecture.
 11. Fodor, J. A. (1975). *The Language of Thought*. Harvard University Press.
 12. Gopnik, A. (2020). Childhood as a solution to explore–exploit tensions. *Philosophical Transactions of the Royal Society B*, 375(1803).
 13. Petanjek, Z., et al. (2011). Extraordinary neoteny of synaptic spines in the human prefrontal cortex. *PNAS*, 108(32), 13281-13286.
 14. Pizzorusso, T., et al. (2002). Reactivation of ocular dominance plasticity in the adult visual cortex. *Science*, 298(5596), 1248-1251.
 15. Berke, M. D., Walter-Terrill, R., Jara-Ettinger, J., & Scholl, B. J. (2022). Flexible Goals Require that Inflexible Perceptual Systems Produce Veridical Representations: Implications for Realism as Revealed by Evolutionary Simulations. *Cognitive Science*, 46(10), e13195.
+16. MacLean, K. A., Leoutsakos, J.-M. S., Johnson, M. W., & Griffiths, R. R. (2012). Factor Analysis of the Mystical Experience Questionnaire: A Study of Experiences Occasioned by the Hallucinogen Psilocybin. *Journal for the Scientific Study of Religion*, 51(4), 721-737.

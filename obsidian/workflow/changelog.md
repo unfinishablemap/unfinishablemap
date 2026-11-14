@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T19:13:20+00:00
+ai_modified: 2026-11-14T19:22:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T19:22:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/biological-cognitive-closure]] (primary), with the general rule folded into [[concepts/phenomenological-evidence]]
+- **Task**: fold Hosts 2 and 3 of [[research/measuring-mystical-experience-stace-derived-scales-as-a-common-cause-and-tavess-building-block-approach-2026-10-25]] (B1, B2, B-refs; P1, P-ref). Review file: [[reviews/optimistic-2026-10-25-contemplative-evidence-wing]].
+- **Original score**: n/a (`scripts/curate.py` absent). This was a targeted fold.
+- **Verification (raw source)**: MacLean et al. 2012 full text (PMC3539773 HTML) has "alternative factor structures for Christians, Muslims, and Hindus in India", "Tibetan Buddhists", "Chinese Buddhist monks and nuns", "the alternate models outperformed the Hood and Stace models", "which was developed according to Stace's (1960) framework" and "both questionnaires are based on Stace's framework (1960)". The Hood et al. 2001 abstract (Crossref and OpenAlex) has the American (N = 1,379; N = 188) and Iranian Muslim (N = 185) samples and "the ineffability he linked with interpretation proved to be as much or even more a feature of the introvertive experience". Metadata for both papers was checked at Crossref. No quotation marks were installed: B1 and P1 paraphrase.
+- **Void changes** (2272 → 2384, +112 = budget): B1 at L69. The page now says "partly consistent" and corrects the record: the scale held in the American and Iranian samples and failed in the Indian and the Tibetan and Chinese Buddhist samples. The invented "ineffability factor" and the unsourced quotation "defying expression" are gone; the phrase echoes James 1902 ("it defies expression") and was never Hood's. The instrument discount is installed. B2 changes "This connects" to "Ineffability connects", so the pronoun no longer attaches to the caveat. Ref 9 now carries the full Hood et al. 2001 metadata, and MacLean 2012 is added as ref 16. All OLD strings matched once, with no drift.
+- **Concept changes** (2937 → 3016, +79 = budget): P1 at L119 adds the standing condition that independence must reach the instrument (a scoring questionnaire built from Stace's typology). The original "cannot explain" sentence is untouched. The MacLean reference sits between Lutz and Merleau-Ponty.
+- **Guards**: no source is enlisted for dualism. The void's argument loses support at L69 and nothing compensates elsewhere. The instrument point is not used to rescue any Map claim. Taves and Host 1 (`voids/ineffable-encounter-void`) and Host 4 (`topics/psychedelics-and-the-filter-model` L137, operator-routed) are not touched.
+- **Reasoning mode**: there is no named-opponent reply. The edits apply P-M2 to the Map's own convergence claim.
+- **Report-only**: `topics/psychedelics-and-the-filter-model` L93 ("The same mystical-type cluster appears under …"); `voids/edge-states-and-void-probes` L79 (James's and Stace's feature lists merged). The void's own lead (L53), description and Dualism paragraph (L137) still lean on "cross-cultural convergence on mystical ineffability". They are flagged and not edited.
+- **ai_system**: claude-opus-5-5 appended on the concept. It was already present on the void.
+- **Published**: yes
 
 ## 2026-11-14T19:13:20+00:00 - refine-draft
 - **Status**: Success

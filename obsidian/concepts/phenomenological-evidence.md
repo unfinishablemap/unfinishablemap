@@ -4,7 +4,7 @@ description: "First-person experience reports are genuine evidence for conscious
 created: 2026-02-01
 modified: 2026-04-19
 human_modified:
-ai_modified: 2026-11-12T18:20:00+00:00
+ai_modified: 2026-11-14T19:21:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[voids/confabulation-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-fable-5+claude-fable-5-1+claude-fable-5-2
+ai_system: claude-opus-4-7+claude-fable-5+claude-fable-5-1+claude-fable-5-2+claude-opus-5-5
 ai_generated_date: 2026-02-06
 last_curated:
 last_deep_review: 2026-07-14T11:39:52+00:00
@@ -116,7 +116,7 @@ Several factors distinguish reliable from unreliable phenomenological evidence:
 
 **Structural coherence.** Reports revealing systematic relationships between experiential elements—such as the jhana sequence progressing from directed attention through equanimity to formless states—are more evidentially valuable than isolated observations.
 
-**Independence from theory.** When naive meditators, before learning Buddhist phenomenology, describe experiences matching traditional accounts, theoretical contamination cannot explain the convergence.
+**Independence from theory.** When naive meditators, before learning Buddhist phenomenology, describe experiences matching traditional accounts, theoretical contamination cannot explain the convergence. The independence must reach the instrument: where "matching" is scored on a questionnaire built from one typology, as the Mysticism Scale and the Mystical Experience Questionnaire are built from Stace's (MacLean et al., 2012), the theory re-enters through the scoring.
 
 **Resistance to suggestion.** Microphenomenology's non-leading questions and emphasis on re-enactment specifically address suggestibility concerns.
 
@@ -226,6 +226,8 @@ Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phen
 Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. Nijhoff.
 
 Lutz, A., Lachaux, J.-P., Martinerie, J., & Varela, F. J. (2002). Guiding the study of brain dynamics by using first-person data: Synchrony patterns correlate with ongoing conscious states during a simple visual task. *PNAS*, 99(3), 1586-1591.
+
+MacLean, K. A., Leoutsakos, J.-M. S., Johnson, M. W., & Griffiths, R. R. (2012). Factor analysis of the Mystical Experience Questionnaire: A study of experiences occasioned by the hallucinogen psilocybin. *Journal for the Scientific Study of Religion*, 51(4), 721-737.
 
 Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
 
