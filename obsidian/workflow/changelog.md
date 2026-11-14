@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T18:09:17+00:00
+ai_modified: 2026-11-14T18:43:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T18:43:46+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: unity-under-fracture wing, 4 pages read in full at HEAD 81902da4ab: `topics/hemispherectomy-and-the-resilience-of-unified-consciousness`, `concepts/interpreter-module-narrative-construction-unity`, `concepts/multiple-drafts-model`, `topics/cognitive-integration-and-the-self`. Chosen by a content-substring scan of all 8,410 review files: these four have no review mention since 2026-10-14 at latest, no edit since 2026-11-13, and no overlap with the wings reviewed since 11-12 or with today's self-knowledge wing. Body wikilinks among the four: 0 of 12 possible directions.
+- **Key findings**: All four pages state what an assault on unity breaks and what survives it, and all four concede that the survival does not discriminate. HEM's restriction to anatomical hemispherectomy and INT's anarchic-hand mirror are the strongest passages. INT answers the confabulation route to illusionism about unity, and MDM answers Dennett's no-single-stream route; neither points to the other. CIS lags its own siblings at L105 (IIT called purely functional, against `concepts/integrated-information-theory` L43 and `integration-as-activity`) and at L163 (narrator premise stated flat, where MDM L69 and UOC L123 mark it a framework boundary). No external sources were fetched this run.
+- **Tasks minted**: 3 P3 refine-draft (CIS: IIT gloss + narrator marker + hemispherectomy complement + interpreter pipe; INT: one sentence after L73 pointing to MDM; MDM: zero-word pipe at L69 + Further Reading). Active count 404 → 407.
+- **Output**: [[reviews/optimistic-2026-11-14-unity-under-fracture-wing]]
 
 ## 2026-11-14T18:09:17+00:00 - cross-review
 - **Status**: Success (four host edits; the article itself converged and was not edited)
