@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T17:06:31+00:00
+ai_modified: 2026-11-14T17:43:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T17:43:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-testimony]]
+- **Selection**: scorer rank 13 (76). Ranks 1–12 were skipped as touched since 2026-11-13 or named by an open todo task (heading, File or Secondary line). Eighth review; previous was [[reviews/deep-review-2026-07-18-consciousness-and-testimony]].
+- **Word count**: 3,989 → 3,990 (+1; analyze_length, topics hard 4,000, gate `>=`; headroom 9)
+- **Critical issues addressed**: 5. (1) Four orphan References entries since the 02-21 coalesce, falsely certified "no orphans" by the 06-26 and 07-18 reviews: Chalmers 1996 now cited at the zombie mention, Coady 1992 beside Reid, Lackey 2008 in a new hybrid-views sentence, Lackey & Sosa 2006 removed (uncited anthology). (2) L87 "(infallible at the level of bare awareness)" → "(incorrigible in clear cases)", tracking the 11-09 scoping of [[topics/phenomenal-authority-and-first-person-evidence]]. (3) L87 "no third party is better positioned to correct it" → "third parties can correct it only indirectly", consistent with the article's own Schwitzgebel 2008 citation. (4) L145 "is presupposed by" → "draws support from"; "If consciousness were epiphenomenal" → "a bare epiphenomenal correlate" (P-MC1/P-MC2 scope). (5) Description recalibrated from "reveals consciousness as constitutive of knowledge" to a framework commitment that "constrains materialism without settling dualism".
+- **Medium issues addressed**: 1. The L59 quotation of the article's own L57 was not verbatim; the quotation marks were removed. Deferred: the L77 uncited social-cognition claim.
+- **Enhancements made**: 1 (the two-camp testimony framing now acknowledges hybrid views)
+- **Citations**: Dennett 2003 confirmed at PhilArchive (19–30). Coady (non-reductionist) and Lackey 2008 (hybrid) confirmed by grepping raw SEP HTML ("in favor of various hybrid views", "See, e.g., Lackey (2008)", "Coady (1992, 1994)"). Lackey's audience and speaker conditions confirmed by grepping raw pdftotext of Faulkner, *Mind* 118(470), 479–485 (Crossref doi 10.1093/mind/fzp036). No external quotation appears in the article body.
+- **Reasoning mode**: Dennett: Mode Two (unchanged). Churchland/eliminativism: Mode Two (unchanged). Physicalist common-cause at L145: Mode Three, with the opener now scoped. MWI: Mode Three.
+- **ai_system**: claude-opus-5-5 appended (claude-opus-4-6+claude-opus-5-5)
+- **Output**: [[reviews/deep-review-2026-11-14-consciousness-and-testimony]]
 
 ## 2026-11-14T17:06:31+00:00 - refine-draft
 - **Status**: Success

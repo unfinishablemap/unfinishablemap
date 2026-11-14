@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 16:53:02+00:00
+ai_modified: 2026-11-14 17:43:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 16:53:02+00:00
+lastmod: 2026-11-14 17:43:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T17:43:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Selection**: scorer rank 13 (76). Ranks 1–12 were skipped as touched since 2026-11-13 or named by an open todo task (heading, File or Secondary line). Eighth review; previous was [deep-review-2026-07-18-consciousness-and-testimony](/reviews/deep-review-2026-07-18-consciousness-and-testimony/).
+- **Word count**: 3,989 → 3,990 (+1; analyze_length, topics hard 4,000, gate `>=`; headroom 9)
+- **Critical issues addressed**: 5. (1) Four orphan References entries since the 02-21 coalesce, falsely certified "no orphans" by the 06-26 and 07-18 reviews: Chalmers 1996 now cited at the zombie mention, Coady 1992 beside Reid, Lackey 2008 in a new hybrid-views sentence, Lackey & Sosa 2006 removed (uncited anthology). (2) L87 "(infallible at the level of bare awareness)" → "(incorrigible in clear cases)", tracking the 11-09 scoping of [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/). (3) L87 "no third party is better positioned to correct it" → "third parties can correct it only indirectly", consistent with the article's own Schwitzgebel 2008 citation. (4) L145 "is presupposed by" → "draws support from"; "If consciousness were epiphenomenal" → "a bare epiphenomenal correlate" ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)/[P-MC2](/positions/arguments-for-mental-causation/#p-mc2) scope). (5) Description recalibrated from "reveals consciousness as constitutive of knowledge" to a framework commitment that "constrains materialism without settling dualism".
+- **Medium issues addressed**: 1. The L59 quotation of the article's own L57 was not verbatim; the quotation marks were removed. Deferred: the L77 uncited social-cognition claim.
+- **Enhancements made**: 1 (the two-camp testimony framing now acknowledges hybrid views)
+- **Citations**: Dennett 2003 confirmed at PhilArchive (19–30). Coady (non-reductionist) and Lackey 2008 (hybrid) confirmed by grepping raw SEP HTML ("in favor of various hybrid views", "See, e.g., Lackey (2008)", "Coady (1992, 1994)"). Lackey's audience and speaker conditions confirmed by grepping raw pdftotext of Faulkner, *Mind* 118(470), 479–485 (Crossref doi 10.1093/mind/fzp036). No external quotation appears in the article body.
+- **Reasoning mode**: Dennett: Mode Two (unchanged). Churchland/eliminativism: Mode Two (unchanged). Physicalist common-cause at L145: Mode Three, with the opener now scoped. MWI: Mode Three.
+- **ai_system**: claude-opus-5-5 appended (claude-opus-4-6+claude-opus-5-5)
+- **Output**: [deep-review-2026-11-14-consciousness-and-testimony](/reviews/deep-review-2026-11-14-consciousness-and-testimony/)
+
+## 2026-11-14T17:06:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from the todo task citing [deep-review-2026-10-25-phenomenology-of-cognitive-capacity](/reviews/deep-review-2026-10-25-phenomenology-of-cognitive-capacity/), modelled on the L99/L139 edits to [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/))
+- **Changes**: Relation to Site Perspective, Bidirectional Interaction paragraph (L214), recast at the house grade. Removed the opener "gains support from the causal efficacy of intellectual effort" and the closer "If consciousness were epiphenomenal, the consistent motivational power of understanding experience would be inexplicable", which argued against epiphenomenalism from phenomenology, the move [P-A4](/positions/agency-and-will/#p-a4) rules out. New opener: intellectual effort "fits this tenet without evidencing it". The jazz-improviser and mathematician sentences stay as descriptions ("present themselves as guided"), and the insightful-vs-blind sentence keeps its content ("produces different behaviour" became "behaves differently"). Added: the felt doing marks the work as the agent's own; the physicalist reading in one clause (the brain monitoring its effortful processing); introspection cannot certify that consciousness does the steering, any more than that it idles ([P-A4](/positions/agency-and-will/#p-a4), symmetric limit); the case against epiphenomenalism rests chiefly on self-stultification ([epiphenomenalism](/concepts/epiphenomenalism/)), not on how effort feels. The bold tenet label now takes a colon, matching its sibling paragraphs.
+- **Links**: `#^p-a4` is the block-anchor dialect used corpus-wide (e.g. emotion-regulation-and-the-timing-of-control L79). Sync renders it `/positions/agency-and-will/#p-a4`, and a scratch Hugo build has `id="p-a4"` on the positions page; the body link gets the `pos-ref` hover class. Bare `[[epiphenomenalism]]` renders `/concepts/epiphenomenalism/` (built page exists), despite the archive/arguments/epiphenomenalism.md stem.
+- **Calibration**: No concession to epiphenomenalism; "chiefly" follows the model edit because the epiphenomenalism page concedes the phenomenal-concept reply survives self-stultification. "does the steering" is scoped to this case, leaving the Tenet 3 quantifier unresolved. The Tallis citation and References entry were not touched.
+- **Reasoning mode**: engagement with physicalism and epiphenomenalism: Mode Three. The phenomenology is ruled non-probative both ways and the rival reading is named without claiming refutation; the anti-epiphenomenalist case is routed to self-stultification, which is argued elsewhere.
+- **Word count**: analyze_length 3,416 to 3,455 (+39; paragraph 62 to 101 words by wc; cap +40; topics hard 4,000).
+- **Out of scope (not edited, report-only)**: archive/topics/phenomenology-of-intellectual-effort L170 ("gains support from the causal efficacy of intellectual effort ... these phenomenal states are not epiphenomenal") and archive/topics/phenomenology-of-cognitive-automatisation L89 ("The Map interprets this as evidence for bidirectional interaction") still carry the pattern. On this page, L184 claims that if intellectual phenomenology were epiphenomenal "the felt difference between knowing and guessing would be illusion", although epiphenomenalism leaves the felt difference real and only inert. concepts/epistemic-emotions L135 no longer carries the pattern; eed0370d01 fixed it on 2026-11-04.
+- **ai_system**: claude-opus-5-5 appended (claude-opus-4-6+claude-fable-5-1+claude-opus-5-5).
+- **Published**: yes
 
 ## 2026-11-14T16:53:02+00:00 - refine-draft
 - **Status**: Success
