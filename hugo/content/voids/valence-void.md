@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-11-02 09:42:02+00:00
+ai_modified: 2026-11-14 00:28:48+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 02:22:00+00:00
-lastmod: 2026-11-02 09:42:02+00:00
+lastmod: 2026-11-14 00:28:48+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -73,7 +73,7 @@ Ask why pain hurts and introspection returns: it just does. Pain's badness is ph
 
 Buddhist analysis of *vedanā* — the hedonic feeling-tone accompanying all conscious contact — reaches the same conclusion from a different tradition. Vedanā arises automatically and pre-reflectively at every moment of contact. Contemplatives refining introspective awareness over decades report a growing ability to observe hedonic tone without reactivity, yet the tone itself never becomes fully transparent — a partial opacity even to disciplined first-person investigation.
 
-Walter Veit (2023) proposes that hedonic valence is among the most primary instances of experience — constitutive of consciousness rather than added to it. This aligns with [phenomenal value realism](/topics/phenomenal-value-realism/), the view that valence is an irreducible feature of reality rather than a projection. If correct, the introspective failure is structural rather than a matter of insufficient attention: valence may resist decomposition because it is not composed of anything more basic.
+Walter Veit argues the evaluative dimension is "the core and origin of consciousness" (Veit 2022, p. 277), and his reviewer Meertens (2024, p. 3) finds a vague sense of good or bad intuitively "one of the most primary instances of experience." The Map, unlike Veit, adds [phenomenal value realism](/topics/phenomenal-value-realism/), the view that valence is an irreducible feature of reality rather than a projection. If correct, the introspective failure is structural rather than a matter of insufficient attention: valence may resist decomposition because it is not composed of anything more basic.
 
 ### The Circularity Problem
 
@@ -87,13 +87,13 @@ The circularity also parallels the [mood void](/voids/mood-void/)'s constitutive
 
 ## Could Consciousness Exist Without Valence?
 
-The "Vulcan" thought experiment sharpens the question. A Vulcan is a hypothetical conscious being that experiences no positive or negative affective states — pure phenomenal awareness without hedonic tone. Both horns of the resulting dilemma point toward a void.
+Chalmers's (2022) [philosophical Vulcans](/concepts/sentientism/#vulcans), conscious beings who perceive, think and act without affective consciousness, sharpen the question. Both horns of the resulting dilemma point toward a void.
 
-**If Vulcans are impossible** — if consciousness without valence is incoherent — then valence is woven into the fabric of consciousness itself. Explaining consciousness and explaining valence collapse into a single problem, and the hard problem becomes harder. One must account not just for experience but for its necessary evaluative dimension.
+**If Vulcans are impossible** — if consciousness without valence is incoherent — then valence is woven into the fabric of consciousness itself. Explaining consciousness and explaining valence collapse into a single problem, and the hard problem becomes harder.
 
 **If Vulcans are possible** — if consciousness could exist without a good/bad axis — then the presence of valence in our experience demands separate explanation. Why does *our* consciousness have this feature? Evolution provides a functional story (organisms that felt pain avoided damage), but this explains only why valence-like functional states were selected, not why they feel like anything.
 
-Veit argues the first horn is more plausible: cognitive sophistication necessarily involves valenced experience, since effort, curiosity, and processing fluency all carry hedonic tone. "De-cored consciousness" — experience stripped of all valence — may be a philosopher's fiction.
+Veit leaves room for the second horn: Meertens (2024, p. 4) reports him allowing that some animals may have lost the evaluative layer, leaving what she calls "de-cored consciousness."
 
 ## The Phenomenology of the Valence Void
 
@@ -139,7 +139,9 @@ The valence void connects to the Map's [foundational commitments](/tenets/) at m
 ## References
 
 1. Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670–679.
+1. Chalmers, D. J. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W. W. Norton.
 1. Johnson, M. E. (2016). *Principia Qualia*. Qualia Research Institute.
+1. Meertens, N. (2024). Hedonic valence at the core of consciousness: A review of "A philosophy for the science of animal consciousness" by Walter Veit. *Philosophy and the Mind Sciences*, 5. https://doi.org/10.33735/phimisci.2024.11472
 1. Noordhof, P. (2021). Explaining impossible and possible imaginings of pain. *Rivista internazionale di Filosofia e Psicologia*, 12(2), 173–182. https://doi.org/10.4453/rifp.2021.0015
 1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-1. Veit, W. (2023). *A Philosophy for the Science of Animal Consciousness*. Routledge.
+1. Veit, W. (2022). The origins of consciousness or the war of the five dimensions. *Biological Theory*, 17(4), 276–291. https://doi.org/10.1007/s13752-022-00408-y

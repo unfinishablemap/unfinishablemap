@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-13 23:24:09+00:00
+ai_modified: 2026-11-14 00:28:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
-date: '2026-11-13'
-lastmod: 2026-11-13 23:24:09+00:00
+date: '2026-11-14'
+lastmod: 2026-11-14 00:28:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T00:28:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [valence-void](/voids/valence-void/)
+- **Task**: todo.md L5528 (P2): L73 and L93 credit Veit with "most primary instances of experience" and a "de-cored consciousness" argument; L87 Vulcan uncredited
+- **Original score**: 7/10 (estimated; `scripts/curate.py` absent). Converged prose, with two misattributions and one uncredited thought experiment
+- **Verification**: Meertens (2024) reached. The publisher PDF (OJS galley 11472/11103) was fetched with curl's default user agent; the bot check was not bypassed, since the default policy admits non-browser agents. Both phrases are **Meertens's own words**, with whitespace collapsed before grepping: "one of the most primary instances of experience" (p. 3) is her own intuition, not a quotation of Veit, and "de-cored consciousness" (p. 4) is her **objection** to Veit. She reports that Veit allows "some animals lost this most basic layer of consciousness", so the old L93 ("Veit argues the first horn is more plausible ... may be a philosopher's fiction") **inverted** his position. The L93 argument from effort, curiosity and processing fluency is **Shepherd (2024, AI & Society 39(6), p. 3006)**, verified in the Springer PDF. It is a reply Shepherd voices for the valence sentientist and then judges "difficult to sustain in general"; Veit 2022b, like the research note's seven Veit texts, has 0 "Vulcan" hits. Veit's own claim was verified in Veit (2022b, *Biological Theory* 17(4), Cambridge repository PDF): "the core and origin of consciousness" (p. 277) and "evaluation-first view" (p. 276). Chalmers's coinage was confirmed in "Sentience and Moral Status" (consc.net, raw): "In Reality+, I analyzed affective sentientism using a thought-experiment involving philosophical Vulcans". The *Reality+* title and subtitle were verified at wwnorton.com. The book itself (Veit 2023) was not read
+- **Changes**: L73 rewritten. Veit's verified "core and origin" claim is cited to Veit (2022, p. 277), the "most primary instances" phrase is reattributed to Meertens (2024, p. 3), and "This aligns with" became "The Map, unlike Veit, adds" phenomenal value realism, because Veit writes within "a materialist picture that resists a fall back into dualism". L87 now credits Chalmers's (2022) philosophical Vulcans, with a zero-cost piped link to `[[sentientism#^vulcans]]`. L89 lost one sentence that repeated its predecessor ("One must account not just for experience..."), to stay within budget. L93 now says Veit leaves room for the second horn, per Meertens (p. 4), and "de-cored consciousness" is credited to her. References: Chalmers 2022 and Meertens 2024 added; Veit 2023 (book, no longer cited) replaced by Veit 2022. The orphan check on (surname, year) is clean in both directions (7 in-text = 7 references)
+- **Dropped, not credited**: the effort/curiosity/fluency argument for horn 1. Crediting Shepherd would have cost about 45 words plus a reference and broken the +40 budget, and L77 already makes the cognition-is-valenced point in the Map's own voice. A follow-up could add Shepherd's reply and verdict at L93 if headroom is wanted
+- **Length**: 2,253 → 2,291 (+38; voids hard limit 3,000)
+- **Corpus hits** (not edited): "most primary instance" and "de-cored" appear in no live article other than valence-void. In `research/`, `voids-valence-void-2026-02-18` (L78, L81) still credits both phrases to "Veit (2024)", and its Vulcan source (L127–L134, L246) is Shepherd (2024) in *AI & Society*, mis-cited as *Phil. Trans. R. Soc. B* 380(1939). `veit-pathological-complexity-thesis-2026-11-13` (L37, L299–L300, L309) records the authorship as unresolved and is now superseded on that point
+- **Published**: yes
+
+## 2026-11-13T23:50:57+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Veit's pathological complexity thesis and the evolutionary origin of consciousness (todo.md L40, P3, harvested from the 2026-11-13 Gemini outer review §6)
+- **Output**: [veit-pathological-complexity-thesis-2026-11-13](/research/veit-pathological-complexity-thesis-2026-11-13/)
+- **Sources consulted**: 8 full texts read from fetched PDFs (Veit 2023b target article, 2022b, 2024 précis, 2025a editorial, 2025b and 2026 replies, Philosophia précis; Chalmers "Sentience and Moral Status"), 8 raw abstracts (de Weerd, Fischer & Barrett, Frankish, Suzuki, Sachs, Veit BBS 2022, Veit 2023c, Veit et al. 2025), and Crossref metadata for the book's chapters and the Biological Theory, Adaptive Behavior and Philosophia exchanges
+- **Verdict**: `recommended_action: fold` into `topics/consciousness-and-the-major-evolutionary-transitions` (2,599 of hard 4,000 by analyze_length; headroom 1,400). Recommended secondary: `topics/the-steelman-for-value-blind-selection` (headroom 1,002). The natural host `concepts/evolution-of-consciousness` has 9 words of headroom; topics and concepts are at 370/370
+- **Findings**: "pathological complexity" is Veit's coinage ("that I shall dub", BBS 2022). The thesis form comes from Godfrey-Smith's environmental complexity thesis, and the pleasure-as-common-currency idea from Cabanac (1992), both credited by Veit. Veit is a physicalist (hybrid materialist-functionalist identity; "They are identical"), rejects epiphenomenalism, and calls dualism "games of chmess". The naturalist critics (de Weerd, Fischer & Barrett, Pober) argue the evidence dates valence, not conscious valence, and Veit concedes this "weakens my case". The PCT is the naturalist counterpart of the Map's [P-VS1](/positions/value-in-selection/#p-vs1)
+- **Refine leads (not minted)**: `voids/valence-void` L73 and L93 attribute to Veit a "most primary instances of experience" phrase and a Vulcan/"de-cored consciousness" argument. Neither appears in seven Veit full texts (0 hits; the positive control has 176). They trace to the Meertens (2024) review that the 2026-02-18 research note mis-cited as Veit (2024). L87 leaves Chalmers's "philosophical Vulcans" uncredited
+- **Not obtained**: the book itself (Routledge); the Meertens review (Anubis); the Frankish, de Weerd, Fischer & Barrett and Pober full texts (Sage and Springer challenges); the Jablonka & Ginsburg and Spurrett commentaries; Veit's 2023c reply preprint (PhilSci, Anubis)
 
 ## 2026-11-13T23:24:09+00:00 - refine-draft
 - **Status**: Success
