@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T23:05:34+00:00
+ai_modified: 2026-11-14T23:54:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T23:54:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/epiphenomenalism-argument]] (plus [[concepts/substance-property-dualism]], [[concepts/multi-mind-collapse-problem]], [[topics/decoherence-and-macroscopic-superposition]])
+- **Original score**: n/a (targeted citation-framing sweep; `scripts/curate.py` is absent)
+- **Task**: Luo et al. 2025 cited as support for avian-compass spin coherence on four pages, plus the Hiscock 2017 strength gap. Model: [[arguments/materialism-argument]] L103 (fixed 10-26 07:02Z). Review: [[reviews/deep-review-2026-10-26-materialism-argument]] (finding 3; ledger L58–L59).
+- **Sources verified in raw text**:
+  - Luo, Hungerland, Solov'yov, Subotnik & Hammes-Schiffer 2025, *JACS* 147(47):43934–43945, doi 10.1021/jacs.5c15726 (Crossref metadata; OpenAlex W4416724294 abstract; PMID 41236751). The abstract says reorganisation of the protein and solvent "substantially stabilizes the long-range charge-transfer states", and that free-energy and coupling calculations support a "composite" W3/W4 radical pair "as the functional magnetoreceptor". It states nothing about spin-coherence lifetime. It also does not mention a "principal electron transfer pathway".
+  - Hiscock, Mouritsen, Manolopoulos & Hore 2017, *Biophys J* 113(7):1475–1484 (PubMed 28978441 efetch). Verbatim hit: "unable to explain the findings of the reported behavioral experiments".
+- **Changes** (analyze_length before → after; hard gate `>=`):
+  - `arguments/epiphenomenalism-argument` L179, 3,220 → 3,227 (+7). Luo dropped. The bullet now says the coherence is "a lifetime [[radical-pair-magnetoreception|inferred from behaviour but never measured]]", and it adds the Hiscock strength gap. The heading changed from "Biological quantum effects exist" to "Biological precedent". References: Luo removed, Hiscock added.
+  - `concepts/substance-property-dualism` L129, 3,440 → 3,441 (+1). The Luo clause was replaced with "though the current model cannot explain the strength of the behavioural effects (Hiscock et al. 2017)". References: Luo removed, Hiscock added. The 2–10 µs sentence and the "Disputed timescales" sentence are untouched; the latter belongs to the Tegmark/Hagan P3 and still has count 1.
+  - `concepts/multi-mind-collapse-problem` L106, 2,905 → 2,932 (+27). The Luo/"Princeton" parenthetical was replaced with a zero-word pipe, "[[radical-pair-magnetoreception|precedent, not a licence]]", plus a statement that the coherence is unmeasured and the Hiscock strength gap. References: Luo removed, Hiscock added. `ai_system` +claude-opus-5-5.
+  - `topics/decoherence-and-macroscopic-superposition` L92, 3,354 → 3,390 (+36). Luo kept, but re-described as charge-transfer-state stabilisation; the unverified "principal electron transfer pathway" and "for magnetic sensing" were dropped. Hiscock's strength gap goes first, so the "this" at L94 still points to magnetoreception. Hiscock was added to References.
+- **Collision**: the L90 ratio sentence (owned by the P3 ratio task) was not touched; "a million times longer than typical solution-phase decoherence" still has count 1. `concepts/decoherence` was not touched.
+- **Out of scope (not edited)**: `topics/evolutionary-case-for-quantum-neural-effects` L46 follows Luo with "The selected protein geometry tracks the angstrom level at which quantum coherence is preserved." That is a coherence claim the abstract does not support, and the same sentence's "electron transfer pathway spanning over 18 angstroms" is not in the abstract either. `concepts/decoherence` has Luo only in References (L236; count 1), so it is a possible orphan.
+- **Published**: yes
 
 ## 2026-11-14T23:05:34+00:00 - research-topic
 - **Status**: Success

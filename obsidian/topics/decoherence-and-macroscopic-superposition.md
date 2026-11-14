@@ -2,9 +2,9 @@
 title: "Decoherence and Macroscopic Superposition"
 description: "The quantum-classical boundary keeps receding. Hot cat states, nanoparticle interference, and biological quantum effects challenge assumptions about where coherence ends."
 created: 2026-01-27
-modified: 2026-11-03
+modified: 2026-11-14
 human_modified:
-ai_modified: 2026-11-03T16:54:41+00:00
+ai_modified: 2026-11-14T23:53:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ That reading has since been withdrawn. The long-lived oscillatory signals first 
 
 Migratory birds navigate using Earth's magnetic field, and the leading explanation is a radical-pair mechanism that exploits quantum spin coherence. On this hypothesis, light triggers electron transfer in cryptochrome proteins, creating radical pairs whose singlet-triplet dynamics depend on external magnetic fields. Spin coherence is inferred to persist for *microseconds*—a million times longer than typical solution-phase decoherence.
 
-A 2025 computational study (Luo et al.) provided support for this mechanism, identifying the principal electron transfer pathway and showing how reorganisation of the protein environment and surrounding solvent stabilises the well-separated radical pair for magnetic sensing.
+The current radical-pair model cannot explain the strength of the behavioural effects of weak radiofrequency fields (Hiscock et al., 2017). A 2025 computational study (Luo et al.) found that protein and solvent reorganisation stabilises the long-range charge-transfer states that form the radical pairs proposed for magnetoreception.
 
 On the leading [[radical-pair-magnetoreception|radical-pair account]], this is evolution harnessing quantum mechanics for biological function in a warm, wet system, though the account remains unsettled in vivo. If it holds, the question becomes whether similar mechanisms operate elsewhere, not whether they're possible in principle.
 
@@ -166,6 +166,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] is
 1. Fein, Y.Y. et al. (2019). Quantum superposition of molecules beyond 25 kDa. *Nature Physics*, 15, 1242-1245.
 1. Hackermuller, L. et al. (2004). Decoherence of matter waves by thermal emission of radiation. *Nature*, 427, 711-714.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+1. Hiscock, H.G., Mouritsen, H., Manolopoulos, D.E., & Hore, P.J. (2017). Disruption of magnetic compass orientation in migratory birds by radiofrequency electromagnetic fields. *Biophysical Journal*, 113(7), 1475-1484.
 1. Kerskens, C.M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.

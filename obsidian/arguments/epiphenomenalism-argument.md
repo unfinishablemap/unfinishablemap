@@ -3,7 +3,7 @@ title: "Against Epiphenomenalism"
 created: 2026-01-15
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-11-10T00:47:22+00:00
+ai_modified: 2026-11-14T23:53:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -176,7 +176,7 @@ Three considerations mitigate this objection, the first two only for mechanisms 
 
 1. **Revised timescales**: The 10⁻¹³ figure has been challenged. Hagan, Hameroff, and Tuszyński (2002) recalculated using corrected model parameters, finding coherence times of 10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer. Reimers et al. (2009) and McKemmish et al. (2009) later disputed Hagan's parameter choices, so this exchange remains live rather than settled; the [[decoherence|canonical treatment]] tracks the dispute in full. The Map's case here is that the original Tegmark figure cannot be cited as a closed rebuttal, not that Hagan closes the question in the other direction.
 
-2. **Biological quantum effects exist**: Avian magnetoreception's leading but unsettled model, the radical-pair mechanism, needs spin coherence lasting microseconds in warm cryptochrome; Luo et al. (2025) added computational support for it. If evolution can harness quantum effects for navigation, the door remains open for other quantum biological phenomena—though cryptochrome's specific molecular architecture does not by itself license neural-scale coherence.
+2. **Biological precedent**: Avian magnetoreception's leading but unsettled model, the radical-pair mechanism, needs spin coherence lasting microseconds in warm cryptochrome, a lifetime [[radical-pair-magnetoreception|inferred from behaviour but never measured]], and the current model cannot explain the strength of the behavioural effects (Hiscock et al., 2017). If evolution can harness quantum effects for navigation, the door remains open for other quantum biological phenomena—though cryptochrome's specific molecular architecture does not by itself license neural-scale coherence.
 
 3. **Decoherence doesn't solve collapse**: As emphasized in the [[measurement-problem]], decoherence selects a preferred basis but doesn't explain why one outcome occurs rather than another. Even after decoherence, the quantum state is an improper mixture of possibilities requiring resolution. Consciousness could influence which possibility actualizes even in a decoherent system—the route of the [[apex/post-decoherence-selection-programme|post-decoherence selection]] the Map ranks first.
 
@@ -235,12 +235,12 @@ The arguments against epiphenomenalism directly support the Map's framework:
 - Chalmers, D. J. (2003). The content and epistemology of phenomenal belief. In Q. Smith & A. Jokic (Eds.), *Consciousness: New Philosophical Perspectives* (pp. 220–272). Oxford University Press. (Quoted from the author's preprint, consc.net/papers/belief.pdf, p. 37.)
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
+- Hiscock, H.G., Mouritsen, H., Manolopoulos, D.E., & Hore, P.J. (2017). "Disruption of Magnetic Compass Orientation in Migratory Birds by Radiofrequency Electromagnetic Fields." *Biophysical Journal*, 113(7), 1475-1484.
 - Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History." *Fortnightly Review*, n.s. 16, 555–580.
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Loar, B. (1990). "Phenomenal States." *Philosophical Perspectives*, 4, 81-108.
-- Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147(47), 43934-43945.
 - MacLean, K. A., Ferrer, E., Aichele, S. R., et al. (2010). Intensive meditation training improves perceptual discrimination and sustained attention. *Psychological Science*, 21(6), 829–839. https://doi.org/10.1177/0956797610371339
 - McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80, 021912.
 - Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.

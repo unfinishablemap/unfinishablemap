@@ -4,7 +4,7 @@ description: "When multiple minds observe entangled systems, whose consciousness
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-10-26T15:22:18+00:00
+ai_modified: 2026-11-14T23:53:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[plurality-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-24T21:34:04+00:00
@@ -103,7 +103,7 @@ Each consciousness is an island, causally isolated from other consciousnesses at
 
 ## The Decoherence Challenge
 
-Does quantum selection in the brain occur at all? Tegmark's 2000 calculation suggested neural coherence decays in ~10⁻¹³ seconds for microtubules and ~10⁻²⁰ seconds for ion superpositions—seemingly too fast for any selection process. Hagan, Hameroff, and Tuszyński (2002) replied that with corrected parameters—counterion screening and ordered water shielding the microtubule interior—coherence times might reach 10⁻⁵ to 10⁻⁴ seconds. That rebuttal is contested rather than settled: its assumptions (ordered water, actin gelation, topological protection) are themselves unconfirmed. Proposed mechanisms such as the quantum Zeno effect work with brief, repeated interactions rather than sustained coherence. And quantum biology precedents (avian magnetoreception, computationally supported by Luo et al.'s 2025 Princeton cryptochrome study) suggest evolution may exploit quantum effects in warm tissue.
+Does quantum selection in the brain occur at all? Tegmark's 2000 calculation suggested neural coherence decays in ~10⁻¹³ seconds for microtubules and ~10⁻²⁰ seconds for ion superpositions—seemingly too fast for any selection process. Hagan, Hameroff, and Tuszyński (2002) replied that with corrected parameters—counterion screening and ordered water shielding the microtubule interior—coherence times might reach 10⁻⁵ to 10⁻⁴ seconds. That rebuttal is contested rather than settled: its assumptions (ordered water, actin gelation, topological protection) are themselves unconfirmed. Proposed mechanisms such as the quantum Zeno effect work with brief, repeated interactions rather than sustained coherence. And quantum biology offers a [[radical-pair-magnetoreception|precedent, not a licence]]: the leading but unsettled model of avian magnetoreception, radical-pair spin chemistry in cryptochrome, suggests evolution may exploit quantum effects in warm tissue, though its spin coherence has never been measured and the current model cannot explain the strength of the behavioural effects (Hiscock et al., 2017).
 
 The [[decoherence]] challenge constrains but doesn't eliminate [[brain-interface-boundary|interface locality]]. Each consciousness's local modulation operates via brief, rapid observations within one brain—not sustained global coherence across multiple brains.
 
@@ -201,8 +201,8 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+1. Hiscock, H. G., Mouritsen, H., Manolopoulos, D. E., & Hore, P. J. (2017). Disruption of magnetic compass orientation in migratory birds by radiofrequency electromagnetic fields. *Biophysical Journal*, 113(7), 1475-1484.
 1. Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637-1678.
-1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
