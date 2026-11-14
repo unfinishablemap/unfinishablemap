@@ -2,9 +2,9 @@
 title: "The Articulability of Q1"
 description: "Human+AI consolidation of the dualism cluster's sharpest open problem: whether a non-stipulative authority-selecting psychophysical law can be specified, or whether Q1 collapses."
 created: 2026-06-03
-modified: 2026-06-03
+modified: 2026-11-14
 human_modified:
-ai_modified: 2026-10-12T10:50:12+00:00
+ai_modified: 2026-11-14T12:56:12+00:00
 draft: false
 topics:
   - "[[four-quadrant-dualism-taxonomy]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-06-03
 last_curated:
 last_deep_review: 2026-09-09T13:49:23+00:00
@@ -85,7 +85,7 @@ Saad's [[delegatory-dualism]] is the most explicit live attempt to specify the l
 
 Saad supplies parts 1 and 2 with unusual precision, and his two laws together yield a position on which, on Saad's account, only unobservable violations of physical closure occur while observable closure is preserved — the [[delegatory-causation|delegatory mechanism]] treats this in full.
 
-What the candidate does *not* yet supply is the ground — part 3. The two laws are, in Saad's own framing, *candidate* laws rather than derivations: they say experiences are selected, but *why these laws rather than others obtain* — what makes the delegatory rule a feature of nature rather than a posit of the theory — is exactly the fiction-to-nature gap, and it is unpaid. Saad argues (controversially) that the package is coherent and closure-preserving; those are real virtues, but not the same as having articulated a non-stipulative authority law. A coherent stipulation is still a stipulation.
+What the candidate does *not* yet supply is the ground — part 3. The two laws are, in Saad's own framing, *candidate* laws rather than derivations: they say experiences are selected, but *why these laws rather than others obtain* — what makes the delegatory rule a feature of nature rather than a posit of the theory — is exactly the fiction-to-nature gap, and it is unpaid. Saad argues (controversially) that the package is coherent and observationally closed; those are real virtues, but not the same as having articulated a non-stipulative authority law. A coherent stipulation is still a stipulation.
 
 So the honest status is layered: the *structure* (trumping) is well-understood; the *candidate content* (Saad's two laws) is the sharpest available specification of which experience is selected and how; the *ground* — what makes the selection non-stipulative — is **not specified by anyone**, and whether it *can be* is the open problem.
 
@@ -118,7 +118,7 @@ Progress would be marked by any of the following, in rough order of strength:
 - **An impossibility result.** Symmetrically, a proof that *no* non-stipulative authority law keeps both axes minimal would be progress of the opposite sign: it would close Q1's delegatory route and leave the difference-making route carrying the quadrant alone.
 - **A sharpened criterion.** Refining *what non-stipulativity requires* would itself be progress, since much of the present difficulty is that the target is under-specified.
 
-What would *not* count: a more elegant statement of the *selection relation* (parts 1–2 are not the bottleneck); demonstrating *coherence* or *closure-preservation* (necessary, not sufficient); or accumulating independent motivation for *wanting* the law (the hard problem, the explanatory gap license the *search* but do not *ground* the law). The honest calibration borrowed from the [[the-interface-problem|interface problem]] applies: the cluster has constraint structures of the kind that precede laws, but not the law itself, and not yet a proof that the law exists to be found.
+What would *not* count: a more elegant statement of the *selection relation* (parts 1–2 are not the bottleneck); demonstrating *coherence* or *observational closure* (necessary, not sufficient); or accumulating independent motivation for *wanting* the law (the hard problem, the explanatory gap license the *search* but do not *ground* the law). The honest calibration borrowed from the [[the-interface-problem|interface problem]] applies: the cluster has constraint structures of the kind that precede laws, but not the law itself, and not yet a proof that the law exists to be found.
 
 ## Relation to Site Perspective
 

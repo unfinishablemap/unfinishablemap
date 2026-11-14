@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-11-09 18:38:51+00:00
+ai_modified: 2026-11-14 12:56:12+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[mysterianism]]'
 created: 2026-03-13
-date: &id001 2026-10-15
+date: &id001 2026-11-14
 description: Observational closure distinguishes empirical from metaphysical causal
   completeness. Physics appears complete in laboratories—but this doesn't prove no
   mental causes exist.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 04:20:24+00:00
-lastmod: 2026-11-09 18:38:51+00:00
+lastmod: 2026-11-14 12:56:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ The distinction also bears on testability. Observational closure sets a floor, n
 - [causal-closure](/concepts/causal-closure/) — The broader principle from which observational closure is distinguished, and where the Map argues that no extant argument supplies the step from observational to universal closure (Buhler 2020)
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — Historical evolution of the causal closure principle from Descartes to Kim
 - [delegatory-causation](/concepts/delegatory-causation/) — The mechanism that respects observational closure: preemption and default causal profile matching
-- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Born-rule preservation makes observational closure physically necessary, not merely philosophically designed
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — On the strict selection-only reading, Born-rule preservation gives observational closure by construction; the convergence is conditional on which branch the Map takes
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — The corridor-vs-bending taxonomy deciding which quantum mechanisms preserve the Born rule and which deform it
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory developing observational closure as a design constraint
 - [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — The sharpest residual worry about efficacy that is invisible in aggregate

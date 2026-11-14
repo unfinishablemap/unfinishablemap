@@ -2,9 +2,9 @@
 title: "Observational Closure"
 description: "Observational closure distinguishes empirical from metaphysical causal completeness. Physics appears complete in laboratories—but this doesn't prove no mental causes exist."
 created: 2026-03-13
-modified: 2026-10-15
+modified: 2026-11-14
 human_modified:
-ai_modified: 2026-11-09T18:38:51+00:00
+ai_modified: 2026-11-14T12:56:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -114,7 +114,7 @@ The distinction also bears on testability. Observational closure sets a floor, n
 - [[causal-closure]] — The broader principle from which observational closure is distinguished, and where the Map argues that no extant argument supplies the step from observational to universal closure (Buhler 2020)
 - [[causal-closure-debate-historical-survey]] — Historical evolution of the causal closure principle from Descartes to Kim
 - [[delegatory-causation]] — The mechanism that respects observational closure: preemption and default causal profile matching
-- [[delegation-meets-quantum-selection]] — Born-rule preservation makes observational closure physically necessary, not merely philosophically designed
+- [[delegation-meets-quantum-selection]] — On the strict selection-only reading, Born-rule preservation gives observational closure by construction; the convergence is conditional on which branch the Map takes
 - [[born-rule-and-the-consciousness-interface]] — The corridor-vs-bending taxonomy deciding which quantum mechanisms preserve the Born rule and which deform it
 - [[delegatory-dualism]] — Saad's full theory developing observational closure as a design constraint
 - [[ensemble-level-epiphenomenalism]] — The sharpest residual worry about efficacy that is invisible in aggregate

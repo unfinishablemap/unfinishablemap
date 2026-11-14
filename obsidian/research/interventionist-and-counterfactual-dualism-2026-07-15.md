@@ -3,8 +3,8 @@ title: "Research Notes - Interventionist and Counterfactual Dualism (Lawful Co-C
 created: 2026-07-15
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8+claude-opus-5
-ai_modified: 2026-08-24T14:38:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-14T12:56:12+00:00
 ---
 
 # Research: Interventionist and Counterfactual Dualism — the "Lawful Co-Causation" Rival
@@ -21,7 +21,7 @@ ai_modified: 2026-08-24T14:38:00+00:00
 
 ## Executive Summary
 
-This note maps the **dualist** version of interventionist/counterfactual mental causation — the family in which the non-physical experience is *itself* a difference-making cause of behaviour, standing *alongside* its physical base rather than being selected by an authority law over it. This is the Map's single most important live rival to its own preferred causal structure (the closure-preserving **trumping/delegation** route of `trumping-preemption` and `delegatory-causation`). At present the rival appears in the corpus only inside `trumping-preemption.md`, where it is named but treated as a competitor rather than developed on its own terms.
+This note maps the **dualist** version of interventionist/counterfactual mental causation — the family in which the non-physical experience is *itself* a difference-making cause of behaviour, standing *alongside* its physical base rather than being selected by an authority law over it. This is the Map's single most important live rival to its own preferred causal structure (the closure-preserving **trumping/delegation** route of `trumping-preemption` and `delegatory-causation`). (Corrected 2026-11-14: Saad: only unobservable violations.) At present the rival appears in the corpus only inside `trumping-preemption.md`, where it is named but treated as a competitor rather than developed on its own terms.
 
 The rival has two branches that a downstream article should keep distinct: (1) **counterfactual dualism** (Kroedel 2015), on which mental events cause physical effects because those effects counterfactually depend on them via psychophysical laws — no preemption, no exclusion; and (2) **interventionist co-causation** (Vaassen 2024, building on the Woodward difference-making tradition), on which mental states are genuine causes because they are *control variables* for behaviour, whatever energy the physical base transfers. Both descend from the older **lawful co-causation / invisible-causation lineage** (Mills 1996; Lowe 2003), on which the systematic mind–body law strips the resulting overdetermination of its "bad", *coincidental* character. All eight target citations were publisher-verified (see **Gaps to Verify** for two corrections to the supplied metadata).
 
@@ -133,7 +133,7 @@ The tenet-diagnostic that should be the eventual article's spine: **the five ten
 
 ### Debate 2 — Does closure-preservation favour either route?
 - **Sides**: Both routes claim to preserve *observable* closure. Trumping preserves it by being difference-making-free (no trajectory change at all). Vaassen/Lowe preserve it because difference-making need not be energy transfer (closure as a claim about energy/forces is untouched).
-- **Core disagreement**: Whether "the physical is closed" is even the right battleground — Vaassen says closure and mental causation are simply compatible; the Map's trumping route treats closure-preservation as the *prize* it is engineered to win.
+- **Core disagreement**: Whether "the physical is closed" is even the right battleground — Vaassen says closure and mental causation are simply compatible; the Map's trumping route treats closure-preservation as the *prize* it is engineered to win. (Corrected 2026-11-14: Saad: only unobservable violations.)
 - **Current state**: This is where the tenet-diagnostic bites (below): both preserve *observational* closure, so closure alone does not decide between them.
 
 ## Historical Timeline
@@ -155,7 +155,7 @@ The tenet-diagnostic that should be the eventual article's spine: **the five ten
 
 ## Tenet-Diagnostic Framing (the eventual article's spine)
 
-**Question posed by the harvest task**: does Minimal Quantum Interaction (Tenet 2) + Bidirectional Interaction (Tenet 3) favour the closure-preserving **trumping** route (the Map's current preference) or the difference-making **co-causation** route?
+**Question posed by the harvest task**: does Minimal Quantum Interaction (Tenet 2) + Bidirectional Interaction (Tenet 3) favour the closure-preserving **trumping** route (the Map's current preference) or the difference-making **co-causation** route? (Corrected 2026-11-14: Saad: only unobservable violations.)
 
 **Landing (tenet-coherent, NOT tenet-entailed):** the tenets are jointly *satisfiable* by both routes, but they do not pull symmetrically — and, non-obviously, the discriminating tenet leans *toward* the rival.
 
@@ -163,11 +163,11 @@ The tenet-diagnostic that should be the eventual article's spine: **the five ten
 
 2. **Tenet 3 (Bidirectional Interaction), read literally, favours co-causation.** Tenet 3 says consciousness *causally influences* the physical world. Co-causation makes the experience a genuine *difference-maker* — the most natural reading of "influence." Trumping's authority-without-any-difference is exactly the structure the Map itself flags as uncomfortably close to `epiphenomenalism` / `ensemble-level-epiphenomenalism`: efficacy relocated onto an *authority axis* with no trajectory signature. A difference-making reading of Tenet 3 is more securely satisfied by co-causation.
 
-3. **Tenet 2 (Minimal Quantum Interaction) is the discriminating tenet — and it also leans co-causation.** This is the sharp, non-obvious result. MQI posits an *actual, minimal* non-physical influence on quantum outcomes: a genuine (if statistically invisible) *biasing* of indeterminate collapse. That is a **difference-making channel** — it gives up *strong* causal closure while preserving *observational* closure. Trumping is the opposite: **difference-making-free**, strong-closure-*preserving*. So the Map's own Tenet-2 mechanism is structurally continuous with the *co-causation* family (a real, minimal difference-maker) and structurally *discontinuous* with trumping. `trumping-preemption.md` already concedes this internal seam: "the quantum-selection channel is … best read as a distinct and potentially competing mechanism to the trumping route rather than an instance of it." A Map that takes MQI as a real biasing influence has therefore *already* chosen a difference-making channel at the quantum level; adopting trumping at the psychophysical level introduces a *second, structurally different* (difference-free) channel, and the two sit in mild tension.
+3. **Tenet 2 (Minimal Quantum Interaction) is the discriminating tenet — and it also leans co-causation.** This is the sharp, non-obvious result. MQI posits an *actual, minimal* non-physical influence on quantum outcomes: a genuine (if statistically invisible) *biasing* of indeterminate collapse. That is a **difference-making channel** — it gives up *strong* causal closure while preserving *observational* closure. Trumping is the opposite: **difference-making-free**, strong-closure-*preserving*. (Corrected 2026-11-14: Saad: only unobservable violations.) So the Map's own Tenet-2 mechanism is structurally continuous with the *co-causation* family (a real, minimal difference-maker) and structurally *discontinuous* with trumping. `trumping-preemption.md` already concedes this internal seam: "the quantum-selection channel is … best read as a distinct and potentially competing mechanism to the trumping route rather than an instance of it." A Map that takes MQI as a real biasing influence has therefore *already* chosen a difference-making channel at the quantum level; adopting trumping at the psychophysical level introduces a *second, structurally different* (difference-free) channel, and the two sit in mild tension.
 
 4. **What actually drives the Map's trumping preference is a methodological commitment, not a tenet.** The trumping route's distinctive prize is *strong*-closure preservation plus zero trajectory footprint — maximal empirical conservatism. That is a *posture* (minimise the detectable metaphysical footprint), not one of the five tenets. Naming this is the article's payoff: the Map's preference for trumping over co-causation is **tenet-coherent but tenet-underdetermined**, and it trades on closure-conservatism rather than on anything the tenets strictly require. The co-causation rival is worth articulating precisely because it is the route a *literal* reading of Tenets 2+3 would favour.
 
-**Fair statement of the rival (for the article's frame):** the interventionist/counterfactual-dualist co-causation family is not a weaker cousin of trumping to be dispatched; it is the route most continuous with the Map's own difference-making commitments (Tenet 3 literally, Tenet 2's biasing channel structurally). The Map prefers trumping for its stronger closure-preservation and cleaner invisibility, and it may reasonably do so — but the preference is a *choice under underdetermination*, and stating the co-causation rival fairly is what makes that choice visible and defensible rather than assumed.
+**Fair statement of the rival (for the article's frame):** the interventionist/counterfactual-dualist co-causation family is not a weaker cousin of trumping to be dispatched; it is the route most continuous with the Map's own difference-making commitments (Tenet 3 literally, Tenet 2's biasing channel structurally). The Map prefers trumping for its stronger closure-preservation (Corrected 2026-11-14: Saad: only unobservable violations.) and cleaner invisibility, and it may reasonably do so — but the preference is a *choice under underdetermination*, and stating the co-causation rival fairly is what makes that choice visible and defensible rather than assumed.
 
 ## Potential Article Angles
 

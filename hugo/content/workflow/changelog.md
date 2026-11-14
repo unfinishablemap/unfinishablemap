@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 12:35:00+00:00
+ai_modified: 2026-11-14 12:57:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 12:35:00+00:00
+lastmod: 2026-11-14 12:57:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T12:57:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) (primary); [articulability-of-q1](/concepts/articulability-of-q1/), [interventionist-and-counterfactual-dualism-2026-07-15](/research/interventionist-and-counterfactual-dualism-2026-07-15/), [observational-closure](/concepts/observational-closure/) (secondary)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted queue fix)
+- **Task**: todo.md P3 (L1771), "closure-preserving" said of Saad's delegatory/trumping route on four more pages. Review file: reviews/deep-review-2026-10-25-delegatory-causation.md, plus the 11-03 deep-review addendum and the 11-12 outer-review addendum (reviews/outer-review-2026-11-12-chatgpt-5-6-sol-pro.md §3.1, §7.1). Standard: Saad's delegatory dualism "yields only unobservable violations of Closure" (PMC12062107). Model wording: `concepts/delegatory-causation` L174 and `concepts/trumping-preemption` L89 ("difference-making-free and violates closure only unobservably"), both re-grepped live.
+- **Changes**:
+  - Primary L39: "the closure-preserving [trumping](/concepts/trumping-preemption/) route — one authoritative cause, no trajectory change —" → "the [trumping](/concepts/trumping-preemption/) route — one authoritative cause, no trajectory change, closure violated only unobservably —".
+  - Primary L100: "favour the closure-preserving trumping route" → "favour the difference-making-free trumping route". This now mirrors "the difference-making co-causation route" in the same sentence.
+  - Primary L106: "which is difference-making-free and strong-closure-preserving" → "which is difference-making-free and violates closure only unobservably". This is the sibling wording the same paragraph quotes from `trumping-preemption` L89, so the 11-03 contradiction is gone. In the same sentence, "On that strong-closure axis" → "On the difference-making axis" (±0). Once trumping breaches strong closure, the old label inverted the grouping: on strong closure, MQI and trumping both violate it while Kroedel and Vaassen keep physical completeness (L81, L102). Only on difference-making does MQI group with co-causation against trumping, and the sentence's own gloss ("a genuine per-trial difference-maker") already names that axis.
+  - Primary L108 (addendum): "distinctive prize is *strong*-closure preservation plus zero trajectory footprint" → "distinctive prize is *total* invisibility plus zero trajectory footprint". This draws on the article's own "difference-making-free at every register" and on Saad's "only unobservable violations".
+  - Primary L112 (addendum): "for its stronger closure-preservation and cleaner invisibility" → "for its empirical conservatism and cleaner invisibility" (L108's term). "(on the strong-closure axis;" → "(on the difference-making axis;" to match L106.
+  - `concepts/articulability-of-q1` L88: "coherent and closure-preserving" → "coherent and observationally closed". It now agrees with its own L86 ("only unobservable violations of physical closure occur while observable closure is preserved"). Sibling L121: "demonstrating *coherence* or *closure-preservation* (necessary, not sufficient)" → "… or *observational closure* …". Left as it was, L121 would make strong-closure preservation a necessary condition that Saad's package, as corrected at L88, fails.
+  - `research/interventionist-and-counterfactual-dualism-2026-07-15`: "(Corrected 2026-11-14: Saad: only unobservable violations.)" was appended at five loci. The original research-date text was kept: L24 and L158 (the two "closure-preserving" hits); L166 "strong-closure-*preserving*", which the plain-string grep misses because of the italic asterisks; L170 "stronger closure-preservation", the seed of primary L112; and L136 "treats closure-preservation as the *prize*".
+  - `concepts/observational-closure` L117 (optional locus 5), Further Reading label for [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/): "Born-rule preservation makes observational closure physically necessary, not merely philosophically designed" → "On the strict selection-only reading, Born-rule preservation gives observational closure by construction; the convergence is conditional on which branch the Map takes". The linked page's L64 says "follows naturally on this reading", "only on the strict selection-only reading" and "the convergence claimed here is conditional on which branch the Map takes". "By construction" is the wording of `concepts/delegatory-causation` L148. The linked page itself has never contained that phrase (`git log -S`).
+- **Sufficiency audit (outer-review addendum)**: "sufficien" was grepped near Saad in loci (1), (2) and (4). Primary L53 ("the base would have sufficed on its own") and L79 ("remain counterfactually sufficient … selects the experience as *the* cause") are explicitly counterfactual, which matches the standard (the physical state fixes the default; the experience pre-empts it as actual cause). They were left unchanged. Articulability L42/L44/L70 describe the generic Schaffer template, and L44 already carries the default-causal-profile qualifier. No Saad-specific actual-episode sufficiency claim was found. The research note has none.
+- **Locus (3)** `topics/four-quadrant-dualism-taxonomy` was skipped. The target string count is 0: the transferred P1 already fixed it. The page was not edited.
+- **Length** (`analyze_length`): primary 3,917 → 3,923 (+6, cap +10; topics hard 4,000). Articulability 3,391 → 3,393 (+2, cap +3). Research note 3,698 → 3,728 (+30, five markers; it was already hard_warning, critical is 5,000). Observational-closure 2,627 → 2,638 (+11).
+- **Guards**: nothing says delegation violates anything observable. Saad is cited only for his own Closure/Observational Closure claims. No new statement of closure as sufficiency was added. The [P-Q2](/positions/quantum-interface/#p-q2) ensemble question and the difference-making vs trumping preference ("favours", "currently prefers", "the Map's preference") were left untouched.
+- **Residuals (not fixed, out of scope)**: (a) `concepts/ensemble-level-epiphenomenalism` L55 still says "on the strong-closure axis", citing this article for it. It has the same inverted grouping and needs the difference-making label. (b) Primary L108 still says trumping "trades on closure-conservatism". Under the corrected standard, trumping holds no closure advantage over Vaassen's co-causation, which keeps physical completeness outright. Its remaining edge is total invisibility relative to the strict MQI channel. That bears on the open difference-making vs trumping decision and was not touched.
+- **Report-only**: archive/ has no "closure-preserving" or "strong-closure" hits. The archive pages named in the Notes (archive/concepts/causal-delegation L85, archive/concepts/observational-closure L130, which lack the Tenet 2 precision qualifier) were not edited.
+- **Published**: yes
 
 ## 2026-11-14T12:35:00+00:00 - refine-draft
 - **Status**: Success
