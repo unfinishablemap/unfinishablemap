@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T09:34:32+00:00
+ai_modified: 2026-11-14T10:19:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T10:19:59+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Decision under ambiguity (maxmin expected utility and robust MDPs) as the formal frame for planning under an uncertified model (todo.md L40, P3, harvested 2026-11-14 from the ChatGPT outer review §8 and improvement 12)
+- **Output**: [[research/decision-under-ambiguity-and-uncertified-models-2026-11-14]]
+- **Sources consulted**: 20 cited. Full texts read: Gilboa & Schmeidler 1989, Nilim & El Ghaoui 2005, Epstein, Marinacci & Seo 2007, Karni & Vierø 2017, Dekel, Lipman & Rustichini 1998, Halpern & Rêgo, Stoye 2011/12, Ellsberg 1961 and Knight 1921. Raw abstracts: Iyengar 2005, Karni & Vierø 2013, Karni, Valenzuela-Stookey & Vierø 2021, Mannor, Mebel & Xu 2016, Wiesemann, Kuhn & Rustem 2013, Alon 2015, Ghirardato 2001 and Manski 2011. Ghirardato's working paper was read from page images only.
+- **Verdict**: `recommended_action: fold` into `topics/representation-adequacy-and-irreversible-intervention`, sections "Robustness Across the Live Model Set" and "The Certification Asymmetry" (3,094 of hard 4,000 by analyze_length; headroom 905; budget 350–500 including references). Topics and concepts are at 370/370.
+- **Findings**: in the canonical frames every prior or transition model ranges over one fixed state space. Gilboa & Schmeidler's C is a set of measures "on the states of nature", and Epstein, Marinacci & Seo call the primitive state space "universal in that literature". So risk-page L80 is accurate for these frames, but it meets only the weaker friendly reading. A coarse-contingency strand (Ghirardato; EMS) reads ambiguity as awareness of a too-coarse partition while holding the consequence space fixed. For a distinction the Map names, the reply it needs is identification ("ambiguity that does not vanish with sample size", Stoye 2012) rather than partition. Robust criteria disagree (maxmin against minimax regret), and Karni & Vierø's u*(x) makes the verdict on the unknown an attitude ("fear, excitement, or indifference"). The literature supports L72 and L88's no-dominance claim, and it undercuts any reading on which rationality alone yields avoidance.
+- **Refine leads (not minted)**: `topics/dualism-as-ai-risk-mitigation` L88 "robust rules rank options by worst case" should read "maxmin rules" (length 0; minimax regret is robust but ranks by regret). L76 "Game theory under unknown utility … robust-strategy theorems" should name maxmin (length 0 to +2). L80 has an optional +25 identification clause. All three fit the open P3 on that page (todo L4155).
+- **Not obtained**: Savage 1954 (archive.org 401); Iyengar full text (dead link); Manski 2000/2004, Savage 1951 and Hansen & Sargent (metadata only); Mukerji 1997, KMM 2005, Walker & Dietz 2011 and Grant & Quiggin 2013 (not fetched); OpenAlex (429 all run)
 
 ## 2026-11-14T09:34:32+00:00 - deep-review
 - **Status**: Success
