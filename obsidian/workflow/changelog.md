@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T12:25:00+00:00
+ai_modified: 2026-11-14T12:35:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T12:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/volitional-control]] (primary); [[topics/consciousness-and-causal-powers]] (secondary)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted queue fix)
+- **Task**: todo.md P3, Sjöberg grade on volitional-control L53 and unscoped physics claim on consciousness-and-causal-powers L80. Review file: reviews/outer-review-synthesis-2026-10-25.md.
+- **Changes**:
+  - `topics/volitional-control` L53: "points the same way from clinical data, though more narrowly than it might first appear" → "argues from clinical cases the same way, though more narrowly than first appears", matching `apex/consciousness-and-agency` L141 and `topics/free-will` L88 (both re-grepped). Crossref 10.1093/brain/awae180 re-checked: abstract "argues that SMA resections show that Libet's findings are in fact irrelevant…". The existing clause "Sjöberg is himself no dualist … so the cases remove a defeater rather than confirming conscious causation" was kept. Sjöberg is not enlisted for dualism. The pronoun "It" in the next sentence still refers to the essay. Length 4,992 → 4,990 (−2).
+  - `topics/consciousness-and-causal-powers` L80: "Even at the interface, consciousness doesn't violate physics." → "At the interface, the Map holds that consciousness need not violate physics' statistical predictions." This makes it the Map's claim and gives it a modal, consistent with the paragraph's own "though per-trial and local accounting remains owed" and with `concepts/conservation-laws-and-mental-causation` L97 (the ensemble expectation is kept; a single trial can differ). To fund it: "The … tenet" → "Minimal Quantum Interaction" (as at L194), "This is where conservation laws bear" → "Conservation laws bear here", "What selection preserves is" → "Selection preserves", "the per-trial differences" → "per-trial differences". The paragraph makes no closure-as-sufficiency claim, so the chance-fixing concession (P-Q3) did not arise. The P-Q2 decision is untouched (no ensemble is specified). Length 3,980 → 3,979 (−1).
+- **Report-only**: `archive/topics/volitional-control-empirical-evidence` uses Sjöberg's resection cases as support for dualism. It is held under the NEEDS-HUMAN archive-policy entry and was not edited.
+- **Published**: yes
 
 ## 2026-11-14T12:25:00+00:00 - refine-draft
 - **Status**: Success
