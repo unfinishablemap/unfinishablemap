@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 In a 37-country survey, over 70% said crying generally makes them feel better; asked about their last cry, only half reported feeling better. A new void: from inside, a crier cannot tell being helped from recovering from crying's own low.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2121514558879576212  
 **Link**: [[weeping-void]]
 
 ---
