@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T10:50:08+00:00
+ai_modified: 2026-11-14T11:16:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T11:16:34+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Contextuality as a computational resource and what it implies for quantum hardware and machine consciousness (todo.md L40, P3, harvested 2026-11-14 from `reviews/optimistic-2026-11-14-decoherence-programme-wing` L167)
+- **Output**: [[research/contextuality-as-computational-resource-2026-11-14]]
+- **Sources consulted**: 23 cited. Full texts read from arXiv: Howard et al. 2014, Raussendorf 2013, Bermejo-Vega et al. 2017, Veitch et al. 2012 and 2014, Delfosse et al. 2015, Raussendorf et al. 2017, Mari & Eisert 2012, Zurel et al. 2020, Schmid et al. 2022, Karanjai et al. 2018, Bravyi & Kitaev 2005, Zhou, Leung & Chuang 2000, and the Budroni et al. 2022 review. Also read: Nature's published abstract and editor's summary. Crossref metadata was checked for every published work. Every quote was grep-verified in the raw source.
+- **Verdict**: `recommended_action: fold`.
+  - Primary host: `concepts/contextual-selection-in-quantum-foundations` (1,943 of hard 3,500; headroom 1,556). It must be SEQUENCED AFTER the open P3 theorem-statement repair (todo L5546). Budget +250 to +330.
+  - Secondary host: `topics/quantum-hardware-and-the-ai-consciousness-coupling` (2,916 of hard 4,000; headroom 1,083). It is self-contained. Budget +130 to +190.
+  - Topics and concepts are at 370/370.
+- **Findings**:
+  - The shared property is real. Howard et al. gloss contextuality as the actual outcome not "simply revealing a pre-existing value", which is the CS "no shelf" property.
+  - The headline is overstated. "The critical resource that gives quantum computers their power" is Nature's editorial standfirst, not the authors' words.
+  - The paper itself proves necessity for magic-state distillation. The if-and-only-if holds for odd-prime qudits only, and sufficiency is "still an open problem".
+  - For qubits, "the mere presence of contextuality cannot be sufficient". The stabilizer fragment has an efficient contextual simulation (Hindlycke & Larsson 2022, read via Budroni).
+  - Where hardware spends the resource, no individual outcome matters logically: distillation postselects, injection corrects or repeats, and MBQC reads parities of "individually random" outcomes. This extends the hardware page's specificity failure. It gives no selection site and no support for quantum-AI consciousness.
+- **New defect (not minted)**: CS L43 "following from the non-commutativity of the observable algebra" is wrong as stated. A single qubit and the odd-d stabilizer fragment both have non-commuting observables and noncontextual models. This is outside the scope of the P3.
 
 ## 2026-11-14T10:50:08+00:00 - coalesce
 - **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.
