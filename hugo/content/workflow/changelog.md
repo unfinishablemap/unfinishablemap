@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 08:49:02+00:00
+ai_modified: 2026-11-14 09:34:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 08:49:02+00:00
+lastmod: 2026-11-14 09:34:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T09:34:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Word count**: 3895 → 3910 (+15; analyze_length body, topics hard 4000, gate >=; 89 headroom)
+- **Critical issues addressed**: 4. (1) L111 Zahavi 2001 "goes beyond empathy as traditionally conceived" misread the title thesis (raw 2010 republication abstract: intersubjectivity "is also something that is at play in simple perception, in tool-use"). It also hung direct perception on imaginative perspective-taking, against `concepts/empathy` L79. (2) L153 Stueber inverted: the raw book abstract says empathy is "epistemically central for our folk-psychological understanding". (3) L65 "Nagel (1974) established as the irreducible": raw text says "It would be a mistake to conclude that physicalism must be false"; stance clause added. (4) L115 "(automatic, unconscious)" was a stranded sibling of the 09-23 de Waal repair; now "(automatic, without registering whose feeling it is)".
+- **Medium issues addressed**: 3. L77 scope: Epley and Krueger & Clement studied ordinary participants, so "the more common readout" became "the likelier readout … since perspective-takers in general stop adjusting". L109: Husserl "called this process the 'pairing'" became "grounded this process in" (raw CM §51: pairing is a "passive synthesis"). L121: Tomasello "provides the developmental evidence" became "documents the developmental side", consistent with L127's "not an independent confirmation".
+- **Enhancements made**: 0 (length-neutral mode)
+- **Citations**: 12-source ledger with raw-source greps. Epley, K&C and de Waal via OpenAlex abstracts. Nagel via the JSTOR PDF. Husserl §51 via the Cairns text. Mead and Searle via archive.org full text. Tomasello "dual-level" via Tomasello 2020 raw text: a defensible scaling, not re-flagged.
+- **Engagement modes**: epiphenomenalist third option, Mode Two ("owes an account"); functionalist AI case, Mode Three (framework commitment, L145). Unchanged.
+- **ai_system**: appended claude-opus-5-5 (was absent). ai_modified and last_deep_review from date -u.
+- **Out of scope**: `archive/topics/consciousness-and-interpersonal-understanding.md` and `archive/topics/consciousness-and-social-cognition.md` (frozen pre-coalesce originals) still carry the fixed strings. Left untouched.
+- **Output**: [deep-review-2026-11-14-consciousness-and-social-understanding](/reviews/deep-review-2026-11-14-consciousness-and-social-understanding/)
 
 ## 2026-11-14T08:49:02+00:00 - refine-draft
 - **Status**: Success
