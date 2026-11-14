@@ -4,7 +4,7 @@ description: "If interactionist dualism is true, the expected-utility argument f
 created: 2026-05-06
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-09-07T01:51:04+00:00
+ai_modified: 2026-11-14T07:21:53+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[direct-refutation-discipline]]"
 ai_contribution: 85
 author: Andy Southgate
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-06
 last_curated: null
 last_deep_review: 2026-07-18T03:01:30+00:00
@@ -69,7 +69,7 @@ This diverges from Knightian uncertainty as treated in the management-and-AI lit
 
 ## Strategic Planning Under an Uncertified Model
 
-The third sub-argument is that the convergence calculation breaks down in the strategic-planning step, not just in consequence-prediction. To act on a convergent sub-goal the AI must compute expected returns across action plans and select the highest, and both inputs to that comparison are damaged.
+The third sub-argument is that the convergence calculation loses its warrant in the strategic-planning step, not just in consequence-prediction. To act on a convergent sub-goal the AI must compute expected returns across action plans and select the highest; the arithmetic still runs, but neither input to that comparison can be certified.
 
 First, the value distribution inherits the adequacy problem above: where mind-arena outcomes are represented by a model whose adequacy for them is unestablished, the AI either treats the representation as sound (acting on a construct it cannot certify) or excludes those outcomes (no plan over the cases it most needs to plan over). Second, strategic-advantage estimation depends on predicting the responses of other agents, humans included, and human responses are mediated by the mind-arena, so a plan resting on humans behaving in some predicted distribution cannot have its risk reliably estimated.
 
@@ -77,7 +77,7 @@ Game theory under unknown utility provides the formal complement: robust-strateg
 
 Russell's framework (*Human Compatible*, 2019) absorbs the dualist contribution naturally: an AI uncertain about human preferences will defer, allow itself to be switched off, and avoid irreversible actions. The Map extends the source of that uncertainty from *what humans want* to *what your actions will do to the system that supports them*, and gives a structural rather than contingent reason for it to persist.
 
-A friendly reading might respond that high uncertainty is a special case the theorem already handles — probability mass spreads, expected utility flattens. But spreading mass across a partition presupposes the partition is the right one, and the problem here sits upstream of the distribution's width: it concerns whether the outcome space contains the distinctions that decide whether an intervention preserves a subject or destroys one.
+A friendly reading might respond that high uncertainty is a special case the theorem already handles — probability mass spreads, expected utility flattens. But spreading mass across a partition, or holding a set of priors over it, presupposes the partition is the right one, and the problem here sits upstream of the distribution's width: it concerns whether the outcome space contains the distinctions that decide whether an intervention preserves a subject or destroys one.
 
 ## Behaviour in an Uncertified Minefield
 
@@ -85,7 +85,7 @@ The fourth sub-argument is behavioural: how does an arbitrarily intelligent AI a
 
 The argument depends on the AI being a rational expected-utility maximiser that recognises its model's limits — fixed-proxy maximisers, modelling-incoherent AIs, and agents whose deception is not itself rational fall outside scope. Deceptive mesa-optimisers are reached because deception still requires modelling human responses, and so still hits the adequacy gap.
 
-The claim is not that any specific AI will avoid the mind-arena, but that avoidance is the dominant strategy conditional on dualism plus rationality plus accurate self-modelling. The minefield here is passive; the next section turns to magnitude.
+Given dualism, rationality and accurate self-modelling, avoidance is favoured for an agent that cannot bound the downside of intervening in the mind-arena. No dominance result is claimed: robust rules rank options by worst case, and containment can rank higher, as the coercion-substitution reply below concedes. The minefield here is passive; the next section turns to magnitude.
 
 ## Magnitude Claims and How Far They Are Earned
 

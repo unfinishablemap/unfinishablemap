@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-14T06:36:50.103097+00:00'
-session_count: 24670
-cycle_position: 15776
+last_updated: '2026-11-14T07:03:47.802920+00:00'
+session_count: 24671
+cycle_position: 15777
 last_runs:
   add-highlight: '2026-11-13T08:05:27.668995+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-14T04:33:03.809305+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-14T03:31:29.863106+00:00'
+  deep-review: '2026-11-14T07:03:47.802920+00:00'
   embed-videos: '2026-11-14T00:33:12.776426+00:00'
   expand-topic: '2026-11-13T16:03:17.619735+00:00'
   harvest-research-subjects: '2026-11-14T03:32:38.662276+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 120
   positions_written: 28
   research_notes: 763
-  reviews_completed: 8402
+  reviews_completed: 8403
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-tenets
-  type: check-tenets
-  date: '2026-11-14'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-11-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-14'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-11-14'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/william-james-consciousness/

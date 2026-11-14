@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T06:59:14+00:00
+ai_modified: 2026-11-14T07:22:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T07:22:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Secondary**: [[concepts/mind-arena]] (L47 only)
+- **Review file**: reviews/outer-review-2026-11-14-chatgpt-5-6-sol-pro.md (§8 "AI risk", improvement 12)
+- **Original score**: 7/10 (the decision-theoretic claims overclaimed against the page's own L50)
+- **Word count**: risk page 3,807 → 3,839 (+32; topics hard 4,000, gate `>=`, 160 left for the two open P3s, which budget +120 and +20). mind-arena 2,005 → 2,005 (net 0).
+- **Changes**:
+  - (1) L88 claim sentence: "the dominant strategy" plus the "The claim is not that … but that …" construction became "Given dualism, rationality and accurate self-modelling, avoidance is favoured for an agent that cannot bound the downside of intervening in the mind-arena. No dominance result is claimed: robust rules rank options by worst case, and containment can rank higher, as the coercion-substitution reply below concedes." The closing transition ("The minefield here is passive; …") is byte-identical, left for the P3 to use as its funding donor.
+  - (2) L72: "breaks down" became "loses its warrant", and "both inputs to that comparison are damaged" became "the arithmetic still runs, but neither input to that comparison can be certified". This matches L50 ("not the arithmetic") and the section heading.
+  - (3) L80, judged and changed (+8): the partition reply covers sets of priors, because every prior in a maxmin or robust set ranges over the same partition. "But spreading mass across a partition, or holding a set of priors over it, presupposes the partition is the right one". No Gilboa & Schmeidler reference was added, because its content was not fetched.
+  - (4) L64 (ordinary quantum chance): DEFERRED. Length, and the open P3 on L56/L58 reads L50–L66 to decide whether the premise is already stated nearby, so a clause there now would pre-empt it. Candidate wording, from mind-arena L49: what is omitted is a subject's contribution, an adequacy failure rather than extra unpredictability.
+  - Secondary: mind-arena L47 "as a dominant AI strategy" became "as a favoured AI strategy" (net 0), landing the wording the mind-arena retraction deferred to this task.
+- **Reasoning-mode**: engagement with the ambiguity-decision-theory objection (maxmin expected utility, robust MDPs): L88 is a straight concession, since the dominance claim had no model behind it and is withdrawn. L72 and L80 are Mode One: robust rules presuppose a fixed outcome space by their own construction, so they answer uncertainty over probabilities and not the omission of distinctions from that space. The residue, whether a physical-state model omits a variable at all, stays at the framework boundary (Mode Three), unchanged.
+- **Preserved**: Cutter strings verbatim ("fit to possess", "fitting recipient"); no Asphaug or Mørch; no "uncomputable" (count 0); no "load-bearing"; L56, L58, L125 and L88's closing transition untouched. Corpus grep: no other content page quoted the replaced strings.
+- **ai_system**: risk page appended `claude-opus-5-5` (absent before) → `claude-opus-4-7+claude-opus-5+claude-opus-5-5`. mind-arena already contained it, so it is unchanged.
+- **Published**: yes
 
 ## 2026-11-14T06:59:14+00:00 - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-11-14 06:26:53+00:00
+ai_modified: 2026-11-14 07:22:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-06 07:25:48+00:00
-lastmod: 2026-11-14 06:26:53+00:00
+lastmod: 2026-11-14 07:22:03+00:00
 modified: *id001
 related_articles:
 - '[[dualism-as-ai-risk-mitigation]]'
@@ -48,7 +48,7 @@ Three readings of the term's scope are live, and the dominant usage resolves bet
 
 The canonical usage, anchored in `topics/dualism-as-ai-risk-mitigation.md` (the term's primary home, where it recurs by name in the second, third and fourth of the six numbered sub-arguments and as "the arena" in the fifth), settles on a reading that combines the second and third. The mind-arena is the *domain of outcomes* (third reading) whose determination passes through the *full bidirectional loop* (second reading)—a conscious contributor whose [causal-powers](/concepts/causal-powers/), in the source's words, "no physical-state description captures," acting on the physical world as well as being acted on by it. The arena is not consciousness considered apart from its effects, because the claim that matters concerns *consequences*: a model built from physical state alone "is not certified adequate for the outcomes at stake." Consequences live in the physical world; they belong to the arena because their generating process includes a non-physical contribution.
 
-This reading keeps every existing use true. When the risk-mitigation article says an AI's plan over humans cannot have "its risk reliably estimated" because "human responses are mediated by the mind-arena," the arena is the domain of those human-implicating outcomes. When it speaks of "mind-arena avoidance" as a dominant AI strategy, the arena is a region the AI can decline to act upon. When [machine-consciousness](/topics/machine-consciousness/) and [machine-question](/apex/machine-question/) deny that any physical-state-only model is certified adequate to mind-arena consequences, both mean the consequences of acting in this domain. The outcome-domain reading is what all these uses presuppose.
+This reading keeps every existing use true. When the risk-mitigation article says an AI's plan over humans cannot have "its risk reliably estimated" because "human responses are mediated by the mind-arena," the arena is the domain of those human-implicating outcomes. When it speaks of "mind-arena avoidance" as a favoured AI strategy, the arena is a region the AI can decline to act upon. When [machine-consciousness](/topics/machine-consciousness/) and [machine-question](/apex/machine-question/) deny that any physical-state-only model is certified adequate to mind-arena consequences, both mean the consequences of acting in this domain. The outcome-domain reading is what all these uses presuppose.
 
 The defining property of the mind-arena is therefore **structural unmodellability from physical state**. Because no law fixes the non-physical contribution from physical configuration (a premise [explained below](#relation-to-site-perspective)), two physically identical interventions can produce non-identical arena trajectories "with no further variable in the AI's data distinguishing the cases." Divergence alone cannot mark the arena, since indeterministic physics produces it with no mind involved. What marks the arena is its source: on the Map's view a subject, not chance, decides the token outcome, so a physics-only model omits a subject's contribution—an adequacy failure, not extra unpredictability.
 
