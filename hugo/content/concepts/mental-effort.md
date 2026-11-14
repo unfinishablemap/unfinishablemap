@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-13 06:04:32+00:00
+ai_modified: 2026-11-14 11:20:49+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -24,14 +24,14 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[concepts/cognitive-phenomenology]]'
 created: 2026-01-14
-date: &id001 2026-11-10
+date: &id001 2026-11-14
 description: Why controlling attention feels like work—and what this widely-shared
   phenomenology reveals about consciousness influencing matter.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-11-13 06:04:32+00:00
+lastmod: 2026-11-14 11:20:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Kurzban and colleagues (2013) reframe felt effort as the output of an opportunit
 
 The Map reads the felt-effort/operation dissociation as interface asymmetry — phenomenal access is not identical to the underlying operation, as the [interface model](/concepts/attention-as-interface/) predicts. The pattern recurs across the apophatic catalogue — [agency](/voids/agency-void/) (Howard et al., 2016: effortful conditions reduce intentional binding, the implicit marker of agency), [noetic feelings](/voids/noetic-feelings-void/), [suspension](/voids/suspension-void/), and [appetition](/voids/appetitive-void/) all show felt-causal signals whose machinery is hidden the same way.
 
-These dissociations *constrain* the dualist reading rather than *establish* it: they remove the simplest "felt effort just is what the operation feels like" identity but leave the deeper question open. A strong-physicalist reading using Inzlicht's process model absorbs the same evidence differently. What survives on the dualist side is the autonomic SCR coupling Naccache documented in normals, absent in the patient — felt effort is wired into the autonomic chain and so does causal work, even if it does not transparently report on its own operation. The constrain-vs-establish move is named as methodological discipline in [evidential-status-discipline](/project/evidential-status-discipline/); this datum is the real-time-cognition member of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), whose evidential weight comes from cumulative convergence across substrates. See [the effort-void research notes](/research/voids-effort-void-2026-05-08/) for the fuller case.
+These dissociations *constrain* the dualist reading rather than *establish* it: they remove the simplest "felt effort just is what the operation feels like" identity but leave the deeper question open. A strong-physicalist reading using Inzlicht's process model absorbs the same evidence differently. What survives on the dualist side is the skin-conductance coupling Naccache documented in normals: felt effort is wired into the autonomic chain, which fits its doing causal work without showing that it does, since the patient lacks the coupling yet keeps executive control. The constrain-vs-establish move is named as methodological discipline in [evidential-status-discipline](/project/evidential-status-discipline/); this datum is the real-time-cognition member of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), whose evidential weight comes from cumulative convergence across substrates. See [the effort-void research notes](/research/voids-effort-void-2026-05-08/) for the fuller case.
 
 ## The Materialist Problem
 

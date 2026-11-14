@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T11:16:34+00:00
+ai_modified: 2026-11-14T11:20:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T11:20:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Review file**: reviews/apex-evolve-2026-10-25-attention-as-causal-bridge.md (reverse-drift finding: spoke above hub); same locus flagged by tenet checks 2026-09-27, 10-02 and 10-05
+- **Original score**: n/a (`scripts/curate.py` absent; targeted one-sentence pass)
+- **Changes**: §What This Constrains, and What It Doesn't (L94), third sentence. OLD "What survives on the dualist side is the autonomic SCR coupling Naccache documented in normals, absent in the patient — felt effort is wired into the autonomic chain and so does causal work, even if it does not transparently report on its own operation." NEW "What survives on the dualist side is the skin-conductance coupling Naccache documented in normals: felt effort is wired into the autonomic chain, which fits its doing causal work without showing that it does, since the patient lacks the coupling yet keeps executive control." The clause now reports what the coupling licenses: it fits causal work but does not evidence it, because control survives with the coupling absent. This matches the page's own "constrain rather than establish" opener and L104 ("fits an interactionist reading of effort but fits a materialist one equally well", re-grepped, unchanged). It also matches the hub `apex/attention-as-causal-bridge` (re-grepped: "the absent coupling beside intact Stroop control tells against the coupling doing the work", and "Whether felt effort does genuine causal work is left open"), and the 06:10Z wording at `apex/testing-the-map-from-inside` L220 ("fit its doing causal work without showing that it does"). The undefined abbreviation "SCR" is replaced by L80's own "skin-conductance". The dropped "transparently report" clause repeats the paragraph's first sentence and the section opener. Pronoun check: "its" and "it does" refer to felt effort, the sentence's subject, and the next sentence opens with a named subject. Loci owned by other tasks were not touched: L98 "is unstable for the standard reason:", L106 Yuan et al. 2022, and L108 Kral and right-caudate. The Inzlicht/Kurzban non-epiphenomenalist reply at L100 is unchanged. No epiphenomenalist concession, and Naccache is not enlisted for dualism; the sentence now sits closer to his own by-product reading.
+- **Length**: 3,368 → 3,367 by analyze_length (net −1; concepts hard gate 3,500 at >=)
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Published**: yes
 
 ## 2026-11-14T11:16:34+00:00 - research-topic
 - **Status**: Success

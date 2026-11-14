@@ -1,14 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 09:34:32+00:00
+ai_modified: 2026-11-14 11:20:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 09:34:32+00:00
+lastmod: 2026-11-14 11:20:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T11:20:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Review file**: reviews/apex-evolve-2026-10-25-attention-as-causal-bridge.md (reverse-drift finding: spoke above hub); same locus flagged by tenet checks 2026-09-27, 10-02 and 10-05
+- **Original score**: n/a (`scripts/curate.py` absent; targeted one-sentence pass)
+- **Changes**: §What This Constrains, and What It Doesn't (L94), third sentence. OLD "What survives on the dualist side is the autonomic SCR coupling Naccache documented in normals, absent in the patient — felt effort is wired into the autonomic chain and so does causal work, even if it does not transparently report on its own operation." NEW "What survives on the dualist side is the skin-conductance coupling Naccache documented in normals: felt effort is wired into the autonomic chain, which fits its doing causal work without showing that it does, since the patient lacks the coupling yet keeps executive control." The clause now reports what the coupling licenses: it fits causal work but does not evidence it, because control survives with the coupling absent. This matches the page's own "constrain rather than establish" opener and L104 ("fits an interactionist reading of effort but fits a materialist one equally well", re-grepped, unchanged). It also matches the hub `apex/attention-as-causal-bridge` (re-grepped: "the absent coupling beside intact Stroop control tells against the coupling doing the work", and "Whether felt effort does genuine causal work is left open"), and the 06:10Z wording at `apex/testing-the-map-from-inside` L220 ("fit its doing causal work without showing that it does"). The undefined abbreviation "SCR" is replaced by L80's own "skin-conductance". The dropped "transparently report" clause repeats the paragraph's first sentence and the section opener. Pronoun check: "its" and "it does" refer to felt effort, the sentence's subject, and the next sentence opens with a named subject. Loci owned by other tasks were not touched: L98 "is unstable for the standard reason:", L106 Yuan et al. 2022, and L108 Kral and right-caudate. The Inzlicht/Kurzban non-epiphenomenalist reply at L100 is unchanged. No epiphenomenalist concession, and Naccache is not enlisted for dualism; the sentence now sits closer to his own by-product reading.
+- **Length**: 3,368 → 3,367 by analyze_length (net −1; concepts hard gate 3,500 at >=)
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Published**: yes
+
+## 2026-11-14T11:16:34+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Contextuality as a computational resource and what it implies for quantum hardware and machine consciousness (todo.md L40, P3, harvested 2026-11-14 from `reviews/optimistic-2026-11-14-decoherence-programme-wing` L167)
+- **Output**: [contextuality-as-computational-resource-2026-11-14](/research/contextuality-as-computational-resource-2026-11-14/)
+- **Sources consulted**: 23 cited. Full texts read from arXiv: Howard et al. 2014, Raussendorf 2013, Bermejo-Vega et al. 2017, Veitch et al. 2012 and 2014, Delfosse et al. 2015, Raussendorf et al. 2017, Mari & Eisert 2012, Zurel et al. 2020, Schmid et al. 2022, Karanjai et al. 2018, Bravyi & Kitaev 2005, Zhou, Leung & Chuang 2000, and the Budroni et al. 2022 review. Also read: Nature's published abstract and editor's summary. Crossref metadata was checked for every published work. Every quote was grep-verified in the raw source.
+- **Verdict**: `recommended_action: fold`.
+  - Primary host: `concepts/contextual-selection-in-quantum-foundations` (1,943 of hard 3,500; headroom 1,556). It must be SEQUENCED AFTER the open P3 theorem-statement repair (todo L5546). Budget +250 to +330.
+  - Secondary host: `topics/quantum-hardware-and-the-ai-consciousness-coupling` (2,916 of hard 4,000; headroom 1,083). It is self-contained. Budget +130 to +190.
+  - Topics and concepts are at 370/370.
+- **Findings**:
+  - The shared property is real. Howard et al. gloss contextuality as the actual outcome not "simply revealing a pre-existing value", which is the CS "no shelf" property.
+  - The headline is overstated. "The critical resource that gives quantum computers their power" is Nature's editorial standfirst, not the authors' words.
+  - The paper itself proves necessity for magic-state distillation. The if-and-only-if holds for odd-prime qudits only, and sufficiency is "still an open problem".
+  - For qubits, "the mere presence of contextuality cannot be sufficient". The stabilizer fragment has an efficient contextual simulation (Hindlycke & Larsson 2022, read via Budroni).
+  - Where hardware spends the resource, no individual outcome matters logically: distillation postselects, injection corrects or repeats, and MBQC reads parities of "individually random" outcomes. This extends the hardware page's specificity failure. It gives no selection site and no support for quantum-AI consciousness.
+- **New defect (not minted)**: CS L43 "following from the non-commutativity of the observable algebra" is wrong as stated. A single qubit and the odd-d stabilizer fragment both have non-commuting observables and noncontextual models. This is outside the scope of the P3.
+
+## 2026-11-14T10:50:08+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.
+- **Mode**: short re-screen of the 2026-11-13 21:50 screen against the current tree (`screen_1114.py` in the session scratchpad: the same method with the age floor moved to `created:` before 2026-10-15). No page in topics, concepts, voids or apex has been added or deleted since that run. Section counts from `count_section_files`: topics 370/370, concepts 370/370, voids 120/125, apex 44.
+- **Filter survival**: 863 raw `.md` files, then 859 after dropping the three section index pages and `topics/non-temporal-consciousness.refinement-log.md` (before any pairwise arithmetic), 819 after the age floor, and 448 after dropping slugs named in an open `###`, `**File**` or `**Secondary**` line in Active or Blocked Tasks (190 topics, 179 concepts, 79 voids). Since last night 9 pages left the pool because of new open tasks and 7 entered it after their tasks closed (`concepts/altered-states-of-consciousness`, `compatibilism`, `delegatory-causation`, `filter-theory`, `moral-responsibility`, `topics/panpsychisms-combination-problem`, `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds`). Among pages in both pools, 7 changed length, by between −2 and +80 words.
+- **Result**: 100,128 pairs. Overlap and length fit still do not intersect. 195 pairs reach TF-IDF cosine >= 0.20 and none fits: the closest still needs 803 words cut (`concepts/phenomenal-contrast-method` + `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, cosine 0.248). 43 pairs reach >= 0.30, and all of them need at least 1,177 words cut (`concepts/prehension` + `concepts/process-philosophy`, unchanged). Of the 113 pairs that fit under the larger section's hard threshold (gate `>=`), the most similar is still `concepts/phenomenal-depth` + `concepts/phenomenal-presentation` at cosine 0.123, which was declined last night because of the `**Versus [[phenomenal-depth]]**` boundary. The highest shared-5-gram fraction is still 9.9% (`concepts/carrolls-regress` + `voids/inference-void`).
+- **New pairs**: the 7 pages that entered the pool produced 17 new pairs at cosine >= 0.20. The highest is `concepts/combination-problem` + `topics/panpsychisms-combination-problem` (0.360, over by 2,131), and the one needing the smallest cut is `concepts/panprotopsychism` + `topics/panpsychisms-combination-problem` (0.229, over by 1,157). None fits, so no prose was read.
+- **Control run**: with the open-task filter turned off (819 pages, 334,971 pairs), no pair at cosine >= 0.20 fits either. The closest is `concepts/perception` + `concepts/visual-consciousness` (0.212, over by 335). `concepts/mind-arena` (now 2,005 words) has open tasks, so it is outside the main pool. Its most similar partner is `topics/dualism-as-ai-risk-mitigation` (0.235, over by 1,799).
+- **Finding**: unchanged. Cap relief in topics and concepts has to come from `/archive`, `/condense` or a cap raise. Coalesce cannot provide it.
+- **References to review**: none
+
+## 2026-11-14T10:19:59+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Decision under ambiguity (maxmin expected utility and robust MDPs) as the formal frame for planning under an uncertified model (todo.md L40, P3, harvested 2026-11-14 from the ChatGPT outer review §8 and improvement 12)
+- **Output**: [decision-under-ambiguity-and-uncertified-models-2026-11-14](/research/decision-under-ambiguity-and-uncertified-models-2026-11-14/)
+- **Sources consulted**: 20 cited. Full texts read: Gilboa & Schmeidler 1989, Nilim & El Ghaoui 2005, Epstein, Marinacci & Seo 2007, Karni & Vierø 2017, Dekel, Lipman & Rustichini 1998, Halpern & Rêgo, Stoye 2011/12, Ellsberg 1961 and Knight 1921. Raw abstracts: Iyengar 2005, Karni & Vierø 2013, Karni, Valenzuela-Stookey & Vierø 2021, Mannor, Mebel & Xu 2016, Wiesemann, Kuhn & Rustem 2013, Alon 2015, Ghirardato 2001 and Manski 2011. Ghirardato's working paper was read from page images only.
+- **Verdict**: `recommended_action: fold` into `topics/representation-adequacy-and-irreversible-intervention`, sections "Robustness Across the Live Model Set" and "The Certification Asymmetry" (3,094 of hard 4,000 by analyze_length; headroom 905; budget 350–500 including references). Topics and concepts are at 370/370.
+- **Findings**: in the canonical frames every prior or transition model ranges over one fixed state space. Gilboa & Schmeidler's C is a set of measures "on the states of nature", and Epstein, Marinacci & Seo call the primitive state space "universal in that literature". So risk-page L80 is accurate for these frames, but it meets only the weaker friendly reading. A coarse-contingency strand (Ghirardato; EMS) reads ambiguity as awareness of a too-coarse partition while holding the consequence space fixed. For a distinction the Map names, the reply it needs is identification ("ambiguity that does not vanish with sample size", Stoye 2012) rather than partition. Robust criteria disagree (maxmin against minimax regret), and Karni & Vierø's u*(x) makes the verdict on the unknown an attitude ("fear, excitement, or indifference"). The literature supports L72 and L88's no-dominance claim, and it undercuts any reading on which rationality alone yields avoidance.
+- **Refine leads (not minted)**: `topics/dualism-as-ai-risk-mitigation` L88 "robust rules rank options by worst case" should read "maxmin rules" (length 0; minimax regret is robust but ranks by regret). L76 "Game theory under unknown utility … robust-strategy theorems" should name maxmin (length 0 to +2). L80 has an optional +25 identification clause. All three fit the open P3 on that page (todo L4155).
+- **Not obtained**: Savage 1954 (archive.org 401); Iyengar full text (dead link); Manski 2000/2004, Savage 1951 and Hansen & Sargent (metadata only); Mukerji 1997, KMM 2005, Walker & Dietz 2011 and Grant & Quiggin 2013 (not fetched); OpenAlex (429 all run)
 
 ## 2026-11-14T09:34:32+00:00 - deep-review
 - **Status**: Success
