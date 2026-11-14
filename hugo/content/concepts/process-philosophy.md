@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-11-11 22:51:18+00:00
+ai_modified: 2026-11-14 11:42:06+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -23,8 +23,8 @@ description: A metaphysical tradition treating reality as fundamentally dynamic�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-17 09:32:48+00:00
-lastmod: 2026-11-11 22:51:18+00:00
+last_deep_review: 2026-11-14 11:42:06+00:00
+lastmod: 2026-11-14 11:42:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,11 +67,11 @@ Henri Bergson's philosophy of [temporal-consciousness](/concepts/temporal-consci
 
 Key parallels with Whitehead:
 
-**Time as creative**: Both reject determinism's claim that the future is fixed by the past. Bergson: "Time is invention or it is nothing at all." Whitehead: creativity generates genuine novelty at each moment.
+**Time as creative**: Both reject determinism's claim that the future is fixed by the past. Bergson: "Time is invention or it is nothing at all" (1907/1998, ch. IV). Whitehead: creativity generates genuine novelty at each moment.
 
 **Experience as paradigmatic**: Both treat consciousness not as anomaly but as revealing something fundamental. For Bergson, durée is what we most directly know; physics abstracts from it. For Whitehead, experience is the intrinsic character of actuality that physics describes only structurally.
 
-**Unity-in-difference**: Bergson's "qualitative multiplicity" parallels Whitehead's concrescence. In both, the many don't just aggregate—they interpenetrate, forming novel unities where each element is colored by the others.
+**Unity-in-difference**: Bergson's "qualitative multiplicity" (1889/2001) parallels Whitehead's concrescence. In both, the many don't just aggregate—they interpenetrate, forming novel unities where each element is colored by the others.
 
 The traditions diverge on temporal atomism. Whitehead's actual occasions are discrete: each spans a stretch of time, but its becoming is not divisible into earlier and later acts of becoming. Bergson's durée is continuous flux. But both reject the view that time is a sequence of static states.
 
@@ -111,7 +111,7 @@ Process metaphysics also illuminates the [haecceity](/concepts/haecceity/) quest
 
 The ["missing link"](/topics/bergson-and-duration/) in consciousness theories—their failure to explain experienced duration—finds natural treatment in process philosophy. If reality *is* temporal process, then conscious experience doesn't mysteriously add temporality to static matter. The flow of experience reflects the flow of reality.
 
-The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis develops this connection: Whitehead's concrescence—where indeterminate potentiality resolves into definite actuality—parallels quantum collapse. The mental pole's contribution resembles consciousness's contribution to collapse. Process philosophy provides vocabulary for what collapse-constituted time involves: prehension as inheritance from the causal past, concrescence as collapse, creativity as the novel contribution consciousness makes to each moment.
+The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis cites Whitehead as precedent: concrescence, where indeterminate potentiality resolves into definite actuality, parallels quantum collapse, and the precedent shows that the apex's picture of consciousness and lived time as mutually constitutive does not depend on quantum mechanics for its coherence. The parallel is structural, and the Map's use of it goes beyond Whitehead. For him every occasion concresces and creativity is universal, while "consciousness presupposes experience, and not experience consciousness" (1929/1978, Part II, ch. I). Pairing concrescence with consciousness-involving collapse is the Map's adaptation of his vocabulary, not his claim.
 
 ### Causation and Agency
 
@@ -135,7 +135,7 @@ This matters practically. The Map's framework proposes an account of why rocks l
 
 The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes consciousness influences quantum outcomes. Process philosophy, developed before quantum mechanics matured, offers no specific mechanism. Some process philosophers have incorporated quantum insights—noting that wave function collapse resembles Whiteheadian concrescence—but the connection remains underdeveloped.
 
-Henry Stapp explicitly builds on Whitehead's framework, proposing that quantum events are the modern physics counterpart to actual occasions. For Stapp, the "Heisenberg choice" (which observable to measure) and the "Dirac choice" (which outcome occurs) parallel Whitehead's subjective aim and satisfaction. This represents the most developed attempt to integrate process philosophy with quantum mechanics, though it remains controversial.
+Henry Stapp explicitly builds on Whitehead's framework, proposing that quantum events are the modern physics counterpart to actual occasions. Stapp separates the "Heisenberg choice" (which observable to measure) from the "Dirac choice" (which outcome nature returns). Reading these as Whitehead's [subjective aim](/concepts/subjective-aim/) and satisfaction is a structural parallel, and whether Stapp intends so tight a mapping is unclear. His integration of process philosophy with quantum mechanics is among the most developed, though it remains controversial; Michael Epperson (2004) gives a book-length analysis of the same relationship.
 
 ### No Many Worlds
 
@@ -161,7 +161,7 @@ Process philosophy shares the Map's anti-materialist orientation but takes a dif
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Process philosophy doesn't specifically address quantum mechanics, though parallels have been drawn between wave function collapse and concrescence. The Map's specific commitment to quantum-level mind-matter interaction has no direct process equivalent.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Whitehead's subjective aim gives each occasion causal efficacy. Process philosophy strongly supports the claim that experience makes a difference—indeed, it claims all causation involves experiential synthesis.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Whitehead's subjective aim gives each occasion causal efficacy. Process philosophy affirms that experience makes a difference—indeed, it claims all causation involves experiential synthesis.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Process philosophy's emphasis on definite actualisation—occasions achieving particular form—is compatible with rejecting many-worlds. Whitehead's framework doesn't address quantum interpretations, so the fit is compatibility only; the rejection remains the Map's own commitment.
 
@@ -201,6 +201,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 1. Bracken, J. A. (1989). Energy-events and fields. *Process Studies*, 18(3), 153–165.
 1. Cobb, J. B. & Griffin, D. R. (1976). *Process Theology: An Introductory Exposition*. Westminster Press.
 1. Cobb, J. B., Jr., & Sherburne, D. W. (1973). Regional inclusion and psychological physiology. *Process Studies*, 3(1), 27–40.
+1. Epperson, M. (2004). *Quantum Mechanics and the Philosophy of Alfred North Whitehead*. Fordham University Press.
 1. Gallagher, W. (1974). Whitehead's psychological physiology: A third view. *Process Studies*, 4(4), 263–274.
 1. Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
 1. Moses, G. (2024). Big things from little things? The problem of the compound individual. *Cosmos and History*, 20(2), 248–262.

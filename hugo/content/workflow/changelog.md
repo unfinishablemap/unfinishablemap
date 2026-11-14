@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 11:20:49+00:00
+ai_modified: 2026-11-14 11:42:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 11:20:49+00:00
+lastmod: 2026-11-14 11:42:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T11:42:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-philosophy](/concepts/process-philosophy/)
+- **Word count**: 2748 → 2832 (+84; concepts hard 3500, gate >=)
+- **Critical issues addressed**: 2. (1) L110 credited the [time-consciousness-growing-block](/apex/time-consciousness-growing-block/) apex with a mental-pole analogy and a prehension/concrescence/creativity mapping that the apex dropped on 03-14 and 04-15; its "creativity as the novel contribution consciousness makes" also contradicted Whitehead's "consciousness presupposes experience, and not experience consciousness" (PR Part II ch. I, OCR-verified). Rewritten to the apex's current claim, with the pairing labelled as the Map's adaptation. (2) L134 "For Stapp, the 'Heisenberg choice' … and the 'Dirac choice' … parallel Whitehead's subjective aim and satisfaction" and "the most developed attempt": the 02-17 subjective-aim correction had never reached this page; the parallel is now marked as structural, "among the most developed", and Epperson (2004, Fordham, verified at publisher) is added.
+- **Medium issues addressed**: 2 (L160 "strongly supports" → "affirms"; inline cites for the two orphaned Bergson references: ch. IV, Gutenberg-verified, and Time and Free Will)
+- **Enhancements made**: 2 (Whitehead's consciousness-presupposes-experience line; inline [subjective-aim](/concepts/subjective-aim/) link)
+- **Citation pass**: every external quotation re-grepped in raw sources (PR 1929 OCR, AI DLI OCR, CN and Creative Evolution on Gutenberg, the Griffin UC Press e-text with page markers mapped to pp. 181/186/236, religion-online reprints of Bracken/Cobb–Sherburne/Gallagher, the Moses abstract, James at psychclassics); Crossref re-checked for the three Process Studies items. No defects in the 09-30 → 11-11 additions.
+- **Engagement modes**: Whitehead/Griffin: boundary-marking; James's combination objection: reported with process replies, no refutation claimed.
+- **Out of scope (listed in review)**: `apex/process-and-consciousness` L95 (same stale apex representation) and L97 (tight Stapp mapping, "most developed", *Mindful Universe* 2011 vs 2007); `concepts/prehension` L76 (same stale apex representation).
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Output**: [deep-review-2026-11-14-process-philosophy](/reviews/deep-review-2026-11-14-process-philosophy/)
 
 ## 2026-11-14T11:20:49+00:00 - refine-draft
 - **Status**: Success
