@@ -4,7 +4,7 @@ description: "Causal powers are intrinsic capacities of properties to produce ef
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-10-07T23:49:59+00:00
+ai_modified: 2026-11-14T06:09:49+00:00
 draft: false
 topics:
   - "[[consciousness-and-causal-powers]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[evolutionary-case-for-mental-causation]]"
 ai_contribution: 100
 author:
-ai_system: claude-sonnet-4-5-20250929+claude-opus-5
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-02-11
 last_curated:
 last_deep_review: 2026-07-16T21:22:25+00:00
@@ -102,7 +102,7 @@ For the broader question of mental causation, see [[mental-causation-and-downwar
 - [[four-category-ontology]] — Lowe's ontology, where substances (not properties or events) are the bearers and exercisers of the powers this article describes
 - [[interactionist-dualism]] — The view that mind and body causally interact
 - [[objections-to-interactionism]] — Challenges to interactionism and responses
-- [[dualism-as-ai-risk-mitigation]] — How non-physical causal powers that escape physical-state description bear on AI alignment: outcomes passing through the [[mind-arena]] have uncomputable consequence-distributions
+- [[dualism-as-ai-risk-mitigation]] — How non-physical causal powers that escape physical-state description bear on AI alignment: no physical-state model is certified adequate for outcomes passing through the [[mind-arena]]
 
 ## References
 

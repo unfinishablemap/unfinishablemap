@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-09-10 19:54:23+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-14 06:09:49+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[experiential-alignment]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 19:54:23+00:00
-lastmod: 2026-09-10 19:54:23+00:00
+lastmod: 2026-11-14 06:09:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ The case for objective experiential alignment criteria draws on all five of the 
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** explains why the field has not already adopted objective experiential criteria. Preferentism is simpler: observable choices, computable utilities, scalable optimisation. Objective experiential alignment is harder: first-person access, multi-dimensional targets, triangulated measurement. But the simpler framework is sometimes wrong. If experiential quality is genuinely objective, then the complexity of accessing it is a feature of the domain, not a reason to substitute an easier but incorrect target.
 
-The argument here is the **target-side** of dualism's relevance to alignment. The complementary **threat-model side** is developed in [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/): under interactionist dualism plus bidirectional interaction, consequence-distributions of [mind-arena](/concepts/mind-arena/) perturbations are uncomputable rather than merely intractable, which weakens the expected-utility apparatus driving the standard AI-takeover argument. Dualism bears on alignment from both directions — it specifies *what* to align to and reshapes *which risks* the alignment must guard against.
+The argument here is the **target-side** of dualism's relevance to alignment. The complementary **threat-model side** is developed in [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/): under interactionist dualism plus bidirectional interaction, no physical-state model is certified adequate for the outcomes of [mind-arena](/concepts/mind-arena/) perturbations, however well it predicts, so the expected-utility apparatus driving the standard AI-takeover argument lacks the warrant it needs. Dualism bears on alignment from both directions — it specifies *what* to align to and reshapes *which risks* the alignment must guard against.
 
 ## What Would Challenge This View?
 

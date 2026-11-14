@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-10-07 23:49:59+00:00
-ai_system: claude-sonnet-4-5-20250929+claude-opus-5
+ai_modified: 2026-11-14 06:09:49+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:22:25+00:00
-lastmod: 2026-10-07 23:49:59+00:00
+lastmod: 2026-11-14 06:09:49+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism]]'
@@ -105,7 +105,7 @@ For the broader question of mental causation, see [mental causation](/concepts/m
 - [four-category-ontology](/concepts/four-category-ontology/) — Lowe's ontology, where substances (not properties or events) are the bearers and exercisers of the powers this article describes
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The view that mind and body causally interact
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Challenges to interactionism and responses
-- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — How non-physical causal powers that escape physical-state description bear on AI alignment: outcomes passing through the [mind-arena](/concepts/mind-arena/) have uncomputable consequence-distributions
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — How non-physical causal powers that escape physical-state description bear on AI alignment: no physical-state model is certified adequate for outcomes passing through the [mind-arena](/concepts/mind-arena/)
 
 ## References
 

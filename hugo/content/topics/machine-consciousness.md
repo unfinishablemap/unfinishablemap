@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-11-05 11:08:45+00:00
+ai_modified: 2026-11-14 06:09:49+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:05:41+00:00
-lastmod: 2026-11-05 11:08:45+00:00
+lastmod: 2026-11-14 06:09:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -245,7 +245,7 @@ The tenets converge jointly, not independently: the interface tenets presuppose 
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability of functional duplicates without consciousness
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories for what AI phenomenal experience could be (from null to alien qualia), crossed with Tulving's hierarchy
 - [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The strongest competent defence of substrate-independent machine consciousness (the articon programme); the position upload-skepticism must engage rather than presuppose away
-- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — Parallel argument from the same metaphysical stack: under interactionist dualism, [mind-arena](/concepts/mind-arena/) consequences are uncomputable (not merely intractable) for any physical-state-only model, with implications for AI alignment that share structure with this article's substrate-failure argument
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — Parallel argument from the same metaphysical stack: under interactionist dualism, no physical-state-only model is certified adequate for [mind-arena](/concepts/mind-arena/) consequences, with implications for AI alignment that share structure with this article's substrate-failure argument
 - [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/) — Whether an artificial system could host or couple to a mind: Cutter's fitness-to-possess criterion and Békefi's missing-integrity reply
 - [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) — Why machine culpability is downstream of machine consciousness: a genuinely conscious AI would become a candidate moral agent
 - [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/) — Whether agentic architectures (persistent memory, tool use, long-horizon goals) move the consciousness needle: an obstacle-by-obstacle adjudication

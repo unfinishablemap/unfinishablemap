@@ -1,14 +1,73 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 03:29:36+00:00
+ai_modified: 2026-11-14 06:11:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 03:29:36+00:00
+lastmod: 2026-11-14 06:11:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T06:11:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mind-arena](/concepts/mind-arena/)
+- **Task**: todo.md P2 — `concepts/mind-arena` still defines the term by the "uncomputable" claim its source retracted on 2026-09-07 (b599a2f4); propagate the retraction to it and six one-line glosses
+- **Original score**: n/a (`scripts/curate.py` is absent; the review context is the 2026-11-05 optimistic review, the two 2026-11-14 outer reviews and their synthesis, C1–C6)
+- **Length** (analyze_length, before → after): mind-arena 1,431 → 1,551 (concepts hard 3,500); apex/machine-question 5,940 → 5,939 (apex hard 5,000, already over, net −1); topics/machine-consciousness 4,127 → 4,125 (topics hard 4,000, already over, net −2); topics/alignment-in-objective-experiential-terms 2,985 → 2,995; concepts/causal-powers 2,114 → 2,118; concepts/possibility-probability-slippage 2,241 → 2,321.
+- **Changes, mind-arena**: the definition is restated in token and adequacy terms. Physical state fixes the aggregate frequencies under [P-Q2](/positions/quantum-interface/#p-q2), but not which token outcome occurs, and a physics-only model has no warrant of adequacy. Loci: the description; the L33 lede ("expected-utility apparatus breaks down" → the arithmetic still runs, but on a model with no warrant of adequacy); L37 and L43, now keyed on occurrence and realisation rather than distributions; L45, where the three stale source quotes are replaced with live ones ("no physical-state description captures", "is not certified adequate for the outcomes at stake"), the sub-argument count is corrected from "five of the six" to the second, third and fourth by name plus "the arena" in the fifth, and "load-bearing" (deferred by the 11-06 review) is gone; L47, where the machine-consciousness and machine-question quotes become a paraphrase of their new wording; L49, which keeps the bolded "structural unmodellability from physical state", uses the live L64 quote, links `[[positions/quantum-interface#^p-q2|P-Q2]]`, quotes "the mapping from a particular intervention to a particular mind-arena trajectory" (risk L66), and uses the reviewer's Y = M point in one uncited sentence (mental variation defeats a deterministic predictor of the token, not a stochastic predictor of the frequencies); L57 ("uncomputable mind-arena" → "unmodellable from physical state"); L59, an unlisted same-family locus, where "and their consequence-distributions" is dropped; L69, where the misattributed causal-powers quote is replaced by causal-powers L71's live "that are not simply sums of physical powers" (kept conditional), and the channel-width sentence quotes the live risk L127 string; L75 ("manifest physical bottlenecks" → the live "routing through physical bottlenecks"); L79 Further Reading. The page now has 0 hits for "uncomputab", "consequence-distribution" and "load-bearing".
+- **Changes, secondaries**: each gloss now reads in the "not certified adequate" form. machine-question L215 and L238 (L151 untouched); alignment-in-objective-experiential-terms L124; causal-powers L105 (Further Reading only); machine-consciousness L245; possibility-probability-slippage L69. On the slippage page the *Pressure-test record* gains the 2026-09-07 revision, which withdrew two claims the 06-24 and 07-18 checks had passed: the uncomputability claim and the low-probability-times-unbounded-magnitude step. It also replaces the stale "now carries an explicit speculative-integration-tier label" (0 hits in the risk page) with the four-tier re-tiering. Judgement on portability: neither withdrawn claim was the conditional-to-empirical slide, so the propagation case stands. But the clean checks certified that one separation and not the article's calibration as a whole, so the portability claim is now stated as resting on that narrower record. This answers the Claude leg's §4 fix 2.
+- **Reasoning-mode**: no named-opponent reply was edited. The physicalist empty-set sentence (L73) is untouched and stays framework-boundary marking (Mode Three), bedrock per the 08-04 notes.
+- **Preserved / not done**: no tier assigned; the L73 five-tier sentence untouched; the 11-06 fixes at L55 and L73 untouched; L47 "dominant AI strategy" left alone (the risk-page L88 task has not landed); L33 "co-determined by consciousness rather than fixed by physical state alone", L49 "causal powers not derivable from physical configuration" and "two physically identical interventions…", and L67 left for the follow-on P2 (no non-supervenience argument, no chance-fixing closure engagement, no predictive-modelling section, no Born-apex link); `topics/purpose-and-alignment` L91 (sibling P3) and the source page not edited.
+- **Corpus grep "uncomputab"** (topics, concepts, apex, voids, positions), hits outside the unrelated-correct list: `topics/instrumental-convergence` L89 (the terminology discipline, correct); `topics/dualism-as-ai-risk-mitigation` L52 and L127 (the source's own retraction wording, correct); `concepts/possibility-probability-slippage` L69 (the new pressure-test clause reporting the retraction, correct); `topics/purpose-and-alignment` L91 (the last live copy of the retracted gloss, owned by its sibling P3, not touched).
+- **ai_system**: claude-opus-5-5 appended to alignment-in-objective-experiential-terms, causal-powers and possibility-probability-slippage; it was already present in mind-arena, machine-question and machine-consciousness.
+- **Published**: yes
+
+## 2026-11-14T05:58:46+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/). It has never had a pessimistic review, and nothing has reviewed it since the 2026-08-13 "converged" deep review, although three refine-drafts edited it after that (2026-09-10, 2026-09-14 ×2). It was read against `topics/empirical-phenomena-mental-causation`, `topics/phenomenology-of-agency-vs-passivity` L101, [P-MC1](/positions/arguments-for-mental-causation/#p-mc1), [P-AC1](/positions/ai-consciousness-scope/#p-ac1), `topics/predictive-processing-and-dualism` L96 and `voids/noetic-feelings-void` L137. Raw sources checked: Zheng & Meister arXiv 2408.10234v2 (full HTML) and PubMed abstracts of Beilock & Carr 2001, Beilock et al. 2004 and Danek & Wiley 2017.
+- **Output**: [pessimistic-2026-11-14-consciousness-and-the-phenomenology-of-constraint-satisfaction](/reviews/pessimistic-2026-11-14-consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+- **Findings**: (1) L100 says the automatisation and choking pattern rules out epiphenomenalism. The linked empirical page calls this a framework-boundary dispute ("compatible with both"), and the sibling page was rescoped to "a fit, not an anomaly" on 2026-11-04 (synthesis C16). (2) L108, as rewritten on 2026-09-14, says the salience exchange "shows" the complexity/intensity disconnect is unexplained, but L74 concedes salience computation explains it. L46's differentiation argument is withdrawn by L76 and L104 and rests on a false claim that constraint solvers treat all constraints identically. (3) L54 cites Zheng & Meister's sensory-input figure for candidate-generation bandwidth; the paper calls central deliberation serial. Fold this into the open L54 P3. (4) L94 generalises sensorimotor choking to "the constraint domain"; Beilock et al. 2004 found that choking in mathematical problem solving hits only unpracticed problems and that practice eliminates it. Reports only: no article, todo.md or evolution-state.yaml edits.
+
+## 2026-11-14T05:41:39+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-14 (subject "Audit mind-arena", `concepts/mind-arena.md`)
+- **Coverage**: 2/2 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2). Gemini failed at commission and left no pending entry.
+- **Clusters**: 7 convergent page-level (C7 partial), 2 convergent methodology, 1 shared positive judgement, 9 tasked singletons (7 ChatGPT, 2 Claude) plus untasked lower-value items, 2 divergent (L88 self-citation, resolved for ChatGPT; what Tenet 1 contains, resolved for ChatGPT by `tenets` L53). No shared false alarm.
+- **Adjudication**: every convergent string was re-grepped on live Obsidian at about 05:35Z, HEAD 41277d666a; mind-arena has been unchanged since ec523f185b. The Claude leg never read the page, so its absence claims are not counted as independent. C6 rests on ChatGPT's reading plus grep: "closure", "Born" and "chance" all return 0, against a positive control of 4.
+- **Tasks upgraded**: 0 (P3→P2: 0, P2→P1: 0).
+  - The retraction P2 "`concepts/mind-arena` still defines the term by the "uncomputable" claim…" was HELD at P2. Its pre-tonight priority was P3, and the ChatGPT collect's P3 → P2 at about 04:00Z is this cycle's one convergence upgrade.
+  - The follow-on P2 "`concepts/mind-arena` derives its defining property…" was HELD at P2, a deliberate departure from the rule, which gives P1. It must run after the retraction task, and the selector orders by priority before line number, so P1 would offer it ahead of its prerequisite.
+- **Tasks deduplicated**: 0. Neither collect run minted a duplicate.
+- **Fields written** (all above `- **Notes**:`, Type and Status unchanged):
+  - the retraction task: Review files, Synthesis, convergence note, Notes prefix;
+  - the follow-on task: the same four;
+  - NEEDS-HUMAN (methodology) 2026-11-14 on terms of art: the same four;
+  - NEEDS-HUMAN (methodology ratification) 2026-08-03 on propagation: Addendum 2026-11-14 (b).
+- **parse_tasks**: 407 active before, 407 after; `todo.md` diff is +13/−8.
+- **Output**: [outer-review-synthesis-2026-11-14](/reviews/outer-review-synthesis-2026-11-14/)
+
+## 2026-11-14T05:16:56+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (collected by collect-claude-review; subject "Audit mind-arena", `concepts/mind-arena.md`, reused from the ChatGPT leg)
+- **File**: [outer-review-2026-11-14-claude-fable-5-2](/reviews/outer-review-2026-11-14-claude-fable-5-2/)
+- **Extraction**: js-dom from the artifact panel's largest `.standard-markdown`, read out in 32 slices. The reassembled SHA-256 equals the in-page hash `35f024ed…4418d7` (28,143 characters). The hash is taken after stripping 53 private-use citation-chip glyphs (U+E015) that the read-out channel drops. The reply ends at methodology item 7.
+- **Caveat**: the reviewer's fetch tool refused the target page ("no search had returned them as results"), so the audit was rebuilt from quotes. Every live locus it relied on re-grepped at count 1.
+- **Claims verified**: 16 against live pages, 1 via Crossref metadata (Lloyd 2012, content not fetched).
+- **High-value findings**: 15 of 28 kept. 11 converge with the ChatGPT leg and are already owned: the uncomputability verdict, the Born trilemma, the propagated glosses, chance-fixing closure, the missing apex link, and the terminology and propagation methodology items. 4 are new: the predictive-modelling objection, which mind-arena never engages; a falsifier at a named grain; Aaronson/Lloyd as analogues; and the recurring fetch block. 13 are false alarms, lapsed or of lower value: the stale L88 self-citation (fixed 2026-11-06), the site-wide predictive-processing "gap", the risk-page follow-ups (landed), the Stapp persona, and others.
+- **Tasks**: 0 executable tasks minted. Item (7), predictive modelling, residual and falsifier, was added as an ADDENDUM to the open outer-review P2 "`concepts/mind-arena` derives its defining property…" (Generated 2026-11-14), with an `Outer-review convergence` field. 1 NEEDS-HUMAN (pipeline) entry: Claude-leg fetch refusals, 6 of the last 15 legs. No priorities changed.
+- **Articles edited**: none.
+
+## 2026-11-14T04:03:23+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review; subject "Audit mind-arena", `concepts/mind-arena.md`, fallback:recent-aged)
+- **File**: [outer-review-2026-11-14-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-14-chatgpt-5-6-sol-pro/)
+- **Extraction**: js-dom from `[data-markdown-text-style]`, read out in 32 slices of 950 characters. The on-disk SHA-256 equals the in-page hash `8f0e0634…05098` (29,710 characters). The reply ends at improvement 18.
+- **Claims verified**: 12 against live pages, 2 via Crossref metadata; 3 recorded as leads (Leike & Hutter, Bostrom 2012, robust MDPs).
+- **High-value findings**: 17 of 22 kept. The headline is already queued: the uncomputability claim is stale against `topics/dualism-as-ai-risk-mitigation`'s 2026-09-07 retraction (b599a2f4), five quoted strings have 0 hits in their sources, and the claim propagated to machine-question, machine-consciousness and causal-powers. New: Tenets 1 and 3 alone do not give "unrecoverable from physical state", because property dualism with lawful psychophysical laws is tenet-compatible (`tenets` L151 warns about this); also chance-fixing closure, realisation, ordinary indeterminism, and "dominant strategy". 5 false alarms or of lower value.
+- **Tasks**: 1 upgraded, P3 → P2: the 2026-11-05 mind-arena retraction-propagation task, plus an L33 lede ADDENDUM. 2 P2s minted, both deferred to combine: the mind-arena sub-reading/closure residuals, and the AI-risk L88 "dominant strategy" and L72 "breaks down". 1 NEEDS-HUMAN methodology entry (terms-of-art gate). 1 addendum on the NEEDS-HUMAN 2026-08-03 propagation entry.
+- **Articles edited**: none.
 
 ## 2026-11-14T03:29:36+00:00 - cross-review
 - **Status**: Success
