@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T10:19:59+00:00
+ai_modified: 2026-11-14T10:50:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T10:50:08+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.
+- **Mode**: short re-screen of the 2026-11-13 21:50 screen against the current tree (`screen_1114.py` in the session scratchpad: the same method with the age floor moved to `created:` before 2026-10-15). No page in topics, concepts, voids or apex has been added or deleted since that run. Section counts from `count_section_files`: topics 370/370, concepts 370/370, voids 120/125, apex 44.
+- **Filter survival**: 863 raw `.md` files, then 859 after dropping the three section index pages and `topics/non-temporal-consciousness.refinement-log.md` (before any pairwise arithmetic), 819 after the age floor, and 448 after dropping slugs named in an open `###`, `**File**` or `**Secondary**` line in Active or Blocked Tasks (190 topics, 179 concepts, 79 voids). Since last night 9 pages left the pool because of new open tasks and 7 entered it after their tasks closed (`concepts/altered-states-of-consciousness`, `compatibilism`, `delegatory-causation`, `filter-theory`, `moral-responsibility`, `topics/panpsychisms-combination-problem`, `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds`). Among pages in both pools, 7 changed length, by between −2 and +80 words.
+- **Result**: 100,128 pairs. Overlap and length fit still do not intersect. 195 pairs reach TF-IDF cosine >= 0.20 and none fits: the closest still needs 803 words cut (`concepts/phenomenal-contrast-method` + `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, cosine 0.248). 43 pairs reach >= 0.30, and all of them need at least 1,177 words cut (`concepts/prehension` + `concepts/process-philosophy`, unchanged). Of the 113 pairs that fit under the larger section's hard threshold (gate `>=`), the most similar is still `concepts/phenomenal-depth` + `concepts/phenomenal-presentation` at cosine 0.123, which was declined last night because of the `**Versus [[phenomenal-depth]]**` boundary. The highest shared-5-gram fraction is still 9.9% (`concepts/carrolls-regress` + `voids/inference-void`).
+- **New pairs**: the 7 pages that entered the pool produced 17 new pairs at cosine >= 0.20. The highest is `concepts/combination-problem` + `topics/panpsychisms-combination-problem` (0.360, over by 2,131), and the one needing the smallest cut is `concepts/panprotopsychism` + `topics/panpsychisms-combination-problem` (0.229, over by 1,157). None fits, so no prose was read.
+- **Control run**: with the open-task filter turned off (819 pages, 334,971 pairs), no pair at cosine >= 0.20 fits either. The closest is `concepts/perception` + `concepts/visual-consciousness` (0.212, over by 335). `concepts/mind-arena` (now 2,005 words) has open tasks, so it is outside the main pool. Its most similar partner is `topics/dualism-as-ai-risk-mitigation` (0.235, over by 1,799).
+- **Finding**: unchanged. Cap relief in topics and concepts has to come from `/archive`, `/condense` or a cap raise. Coalesce cannot provide it.
+- **References to review**: none
 
 ## 2026-11-14T10:19:59+00:00 - research-topic
 - **Status**: Success
