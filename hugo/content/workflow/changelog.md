@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 19:52:28+00:00
+ai_modified: 2026-11-14 20:39:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 19:52:28+00:00
+lastmod: 2026-11-14 20:39:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T20:39:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ineffable-encounter-void](/voids/ineffable-encounter-void/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted fold of Host 1 (V1, V2, V-refs) from [measuring-mystical-experience-stace-derived-scales-as-a-common-cause-and-tavess-building-block-approach-2026-10-25](/research/measuring-mystical-experience-stace-derived-scales-as-a-common-cause-and-tavess-building-block-approach-2026-10-25/); Hosts 2–4 not applied
+- **Review file**: reviews/optimistic-2026-10-25-contemplative-evidence-wing.md
+- **Word count** (analyze_length, body): 2,868 → 2,984 (net +116; voids hard 3,000, gate `>=`; brief cap ≤ 2,988). The note's V1 +78 / V2 +37 / refs +40 (+155, simulated and reproduced exactly) would have ended at 3,023, so V1 was tightened to +53 and V2 to +29, refs +40, paired with a −6 trim.
+- **Changes**:
+  - V1 (Katz/Proudfoot paragraph, after "Proudfoot stands largely unanswered…"): "Ann Taves (2009) develops his attributional line into a rival the reply to Katz does not reach: qualities may be ascribed below awareness, even to experiences that feel inherently religious (Taves, 2008), and her generic building blocks allow cross-cultural agreement without shared vocabulary. Neither surviving feature has been shown to resist her account." Attributionist (not constructivist) framing, rival naming and the his→Proudfoot / "the reply to Katz" referents kept; the conscious-cause vs quality-ascription contrast and the "building-block approach" label were dropped for budget.
+  - V2 (condition-3 audit, after "so whether the evaluator survives is untested."): "Both questionnaires operationalise Stace's typology (Griffiths et al., 2006), so the trial shows that reports fitting it can be occasioned, not whether occasioned and spontaneous experiences match beyond it." The 4a narrowing ("non-manufacturability survives only as the weaker claim…") is untouched (guard 5); "not whether" keeps the limit two-directional.
+  - Refs: Taves 2008 (*Religion* 38(2)) and Taves 2009 (Princeton) inserted as 15–16; self-citations renumbered 17–19.
+  - Trim (L147): dropped "even when its content remains inaccessible", which restated the preceding sentence's "even when its propositional content cannot be recalled". Not a qualifier; no review, task or audit text protects it (`git log -S`: condense-era prose).
+- **Citation resolution**: V1 quotes no phrase, so the 2012 *JAAR* reply (Crossref 10.1093/jaarel/lfr076, the only raw source containing "deemed special") is not cited. The 2008 abstract (OpenAlex) carries the ascription mechanism ("ascriptions of qualities", "below the threshold of consciousness", "inherently religious"). The 2009 book is cited only for the programme, on its Crossref subtitle ("A Building-Block Approach…") and publisher abstract ("attribute meaning"), plus SEP's attributionist reading citing Taves 2009 ("rejects constructivism", "block-building"). The book's text was not read.
+- **Guards**: Stace, Griffiths and Taves not enlisted for dualism; Taves not called a constructivist; no epiphenomenalism concession; convergence framing only weakened (06-27 stability note); no new wikilinks.
+- **Reasoning mode**: engagement with Taves is Mode Three (the article states that its in-framework reply to Katz does not reach her and leaves the question open); Katz Mode One and Proudfoot Mode Three unchanged.
+- **Published**: yes
+
+## 2026-11-14T20:19:35+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This is the expected steady state, and the third reasoned abandon in under 24 hours.
+- **Mode**: short re-screen of the 10:50Z run against the current tree (`screen_1114b.py` and `screen_1114b_control.py` in the session scratchpad: the same method, with `*-calibration-history` sidecars now also filtered before any pairwise arithmetic). The age floor is still `created:` before 2026-10-15. Since 10:47Z one page was created (`voids/beloved-void`, created 2026-11-14, below the age floor) and nothing was archived. Section counts from `count_section_files`: topics 370/370, concepts 370/370, voids 121/125, apex 44.
+- **Filter survival**: 864 raw `.md` files. After dropping the three section index pages and `topics/non-temporal-consciousness.refinement-log.md`, 860 remain (no calibration-history sidecar sits in these sections). The age floor leaves 819, and the open-task filter leaves 434 (187 topics, 170 concepts, 77 voids). Since 10:50Z, 17 pages left the pool because of new open tasks, including `concepts/prehension` and `concepts/process-philosophy`. Three entered it after their tasks closed: `concepts/alexithymia`, `concepts/articulability-of-q1` and `concepts/phenomenology-vs-function-axis`.
+- **Result**: 93,961 pairs. Overlap and length fit still do not intersect. 180 pairs reach TF-IDF cosine >= 0.20 and none fits. The closest still needs 803 words cut (`concepts/phenomenal-contrast-method` + `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, cosine 0.246). 41 pairs reach >= 0.30, and all of them need at least 1,185 words cut (`concepts/agent-teleology` + `topics/biological-teleology-and-the-interface-framework`). Of the 109 pairs that fit under the larger section's hard threshold (gate `>=`), the most similar is still `concepts/phenomenal-depth` + `concepts/phenomenal-presentation` at cosine 0.123, which was declined on 11-13 because of its `**Versus [[phenomenal-depth]]**` boundary. The highest shared-5-gram fraction is still 9.9% (`concepts/carrolls-regress` + `voids/inference-void`, over by 1,601).
+- **New pairs**: the three pages that entered the pool produced 1,296 new pairs. Four of them reach cosine >= 0.20 and none fits. The highest is `concepts/phenomenology-vs-function-axis` + `topics/synaesthesia` (0.268, over by 2,525), and the one needing the smallest cut is `concepts/phenomenal-contrast-method` + `concepts/phenomenology-vs-function-axis` (0.238, over by 1,671). `concepts/alexithymia` (2,153 words) has no partner above 0.113 (`voids/interoceptive-void`, over by 1,374). No prose was read.
+- **Control run**: with the open-task filter turned off (819 pages, 334,971 pairs), no pair at cosine >= 0.20 fits either. 856 pairs reach that threshold, and the closest is still `concepts/perception` + `concepts/visual-consciousness` (0.212, over by 335). Among the 24 pool pages whose length changed since 10:50Z, the largest moves were `voids/biological-cognitive-closure` +150, `concepts/alexithymia` +97, `concepts/process-philosophy` +84 and `concepts/phenomenological-evidence` +79. None of these moves changed any pair's status. One pair crossed 0.20 by rounding (`concepts/phenomenology-vs-function-axis` + `voids/synesthetic-void`, 0.199 to 0.200, over by 3,214). `concepts/self-blindness` (+143) has `created: 2026-10-23`, so it is below the age floor.
+- **Finding**: unchanged. Coalesce cannot provide cap relief in topics or concepts. That relief has to come from `/archive`, `/condense` or a cap raise.
+- **References to review**: none
 
 ## 2026-11-14T19:52:28+00:00 - refine-draft
 - **Status**: Success

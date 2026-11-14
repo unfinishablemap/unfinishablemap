@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T20:19:35+00:00
+ai_modified: 2026-11-14T20:39:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T20:39:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/ineffable-encounter-void]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted fold of Host 1 (V1, V2, V-refs) from [[research/measuring-mystical-experience-stace-derived-scales-as-a-common-cause-and-tavess-building-block-approach-2026-10-25]]; Hosts 2–4 not applied
+- **Review file**: reviews/optimistic-2026-10-25-contemplative-evidence-wing.md
+- **Word count** (analyze_length, body): 2,868 → 2,984 (net +116; voids hard 3,000, gate `>=`; brief cap ≤ 2,988). The note's V1 +78 / V2 +37 / refs +40 (+155, simulated and reproduced exactly) would have ended at 3,023, so V1 was tightened to +53 and V2 to +29, refs +40, paired with a −6 trim.
+- **Changes**:
+  - V1 (Katz/Proudfoot paragraph, after "Proudfoot stands largely unanswered…"): "Ann Taves (2009) develops his attributional line into a rival the reply to Katz does not reach: qualities may be ascribed below awareness, even to experiences that feel inherently religious (Taves, 2008), and her generic building blocks allow cross-cultural agreement without shared vocabulary. Neither surviving feature has been shown to resist her account." Attributionist (not constructivist) framing, rival naming and the his→Proudfoot / "the reply to Katz" referents kept; the conscious-cause vs quality-ascription contrast and the "building-block approach" label were dropped for budget.
+  - V2 (condition-3 audit, after "so whether the evaluator survives is untested."): "Both questionnaires operationalise Stace's typology (Griffiths et al., 2006), so the trial shows that reports fitting it can be occasioned, not whether occasioned and spontaneous experiences match beyond it." The 4a narrowing ("non-manufacturability survives only as the weaker claim…") is untouched (guard 5); "not whether" keeps the limit two-directional.
+  - Refs: Taves 2008 (*Religion* 38(2)) and Taves 2009 (Princeton) inserted as 15–16; self-citations renumbered 17–19.
+  - Trim (L147): dropped "even when its content remains inaccessible", which restated the preceding sentence's "even when its propositional content cannot be recalled". Not a qualifier; no review, task or audit text protects it (`git log -S`: condense-era prose).
+- **Citation resolution**: V1 quotes no phrase, so the 2012 *JAAR* reply (Crossref 10.1093/jaarel/lfr076, the only raw source containing "deemed special") is not cited. The 2008 abstract (OpenAlex) carries the ascription mechanism ("ascriptions of qualities", "below the threshold of consciousness", "inherently religious"). The 2009 book is cited only for the programme, on its Crossref subtitle ("A Building-Block Approach…") and publisher abstract ("attribute meaning"), plus SEP's attributionist reading citing Taves 2009 ("rejects constructivism", "block-building"). The book's text was not read.
+- **Guards**: Stace, Griffiths and Taves not enlisted for dualism; Taves not called a constructivist; no epiphenomenalism concession; convergence framing only weakened (06-27 stability note); no new wikilinks.
+- **Reasoning mode**: engagement with Taves is Mode Three (the article states that its in-framework reply to Katz does not reach her and leaves the question open); Katz Mode One and Proudfoot Mode Three unchanged.
+- **Published**: yes
 
 ## 2026-11-14T20:19:35+00:00 - coalesce
 - **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This is the expected steady state, and the third reasoned abandon in under 24 hours.
