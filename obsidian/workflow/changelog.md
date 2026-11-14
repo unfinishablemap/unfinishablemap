@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T20:52:28+00:00
+ai_modified: 2026-11-14T21:11:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T21:11:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/thoughtful-local-friendliness-and-the-artificial-friend]]
+- **Selection**: the skill's scorer (`get_review_candidates`), rank 4. Ranks 1–3 were excluded: two were touched since 2026-11-13 (git log), and one is named by an open todo task. The open P3 collapse-priority expand task names this page only in its Notes, and it is blocked. Its two locus strings ("priority law still owed", "The missing mechanism") were left untouched; each still occurs exactly once.
+- **Word count**: 3034 → 3213 (+179; topics soft 3000, hard 4000). About 45 of the added words are the new References entries.
+- **Critical issues addressed**: 5. (1) The lead's superlative ("the one Wigner's-friend test anyone has designed around a friend that thinks") is contradicted by WCR §4.4, which traces the AI friend to Deutsch (1985). It is rescoped to "so far the one Local Friendliness test designed around a friend that thinks at human level", and Deutsch 1985 is cited. (2) L93 still carried "keeps its superpositions unitary until readout", which P-AS1 dropped on 2026-09-30. It now follows P-AS1's decoder-erasure argument. (3) L105 credited P-AS1 with "a measurement basis not fixed beforehand", a criterion P-AS1 retracted on 2026-09-30. It now quotes P-AS1's current outcomes-consumed wording. (4) The "still-unstated" eligibility law is updated to P-AS2, a low-credence candidate registered 2026-11-11, and P-AC1's low edge is added. (5) "Both verdicts … say 'low probability'" misquoted P-AS1 and now reads "neither says 'ruled out'".
+- **Medium issues addressed**: 2. The "which friends count" counterargument from the 2026-09-25 pessimistic review had never been addressed; Case 1 now answers it in one sentence on the biological-similarity ground, linked to problem-of-other-minds. The "full stop" filler is gone.
+- **Enhancements made**: 2. A currency datum: Laux & Cavalcanti (2026, arXiv:2609.12527, preprint) ran agent-like-friend LF circuits on IBM hardware, and the article notes that the Map's reading expects violations for such friends. The prebiotic-collapse quote now keeps its source italics.
+- **Citation ledger**: Bong 2020, WCR 2023, Chalmers & McQueen 2022, Deutsch 1985 and Laux & Cavalcanti 2026 are all real-correct (Crossref and arXiv). All 20 external quotations were grepped in raw arXiv full text, including the refine-added "can thus be located within a bounded region in space-time", which had never been checked. WCR's own bibliography gives the Deutsch 1985 pages as 1–24; Crossref gives 1–41, which this page and tenet-falsification-conditions both use. No orphans in either direction.
+- **Engagement classification**: WCR: Mode One (accepted inside the authors' framework). Chalmers–McQueen: Mode Three residue (mechanism owed). Functionalist and Everettian exits: Mode Three, bedrock, not re-flagged. Deutsch credited only for the AI-friend idea.
+- **Out of scope (listed, not edited)**: `topics/consciousness-in-smeared-quantum-states` L110 "The one proposed experiment with a thinking friend, an artificial intelligence run reversibly on a quantum computer" has the same superlative defect (Deutsch 1985). `concepts/post-decoherence-selection` L98 "The friends in current local friendliness tests are photons, not [[thoughtful-local-friendliness-and-the-artificial-friend|thinkers]]." is stale on "photons" after Laux & Cavalcanti 2026.
+- **Output**: [[reviews/deep-review-2026-11-14-thoughtful-local-friendliness-and-the-artificial-friend]]
 
 ## 2026-11-14T20:52:28+00:00 - positions-evolve (audit, P-A5)
 - **Status**: Success
