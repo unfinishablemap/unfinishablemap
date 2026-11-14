@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-11-10 23:07:41+00:00
+ai_modified: 2026-11-14 19:42:09+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -14,15 +14,15 @@ concepts:
 - '[[causal-closure]]'
 - '[[the-psychophysical-control-law]]'
 created: 2026-02-19
-date: &id001 2026-11-10
+date: &id001 2026-11-14
 description: Will as a low-bandwidth control signal—gating, stabilizing, and steering
   neural dynamics—rather than a computational planner. Connects the Map's selector
   model to formal control theory.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 20:45:23+00:00
-lastmod: 2026-11-10 23:07:41+00:00
+last_deep_review: 2026-11-14 19:42:09+00:00
+lastmod: 2026-11-14 19:42:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans (Cisek, 2007); consciousness selects among them through a channel limited to roughly 10 bits per second (Zheng & Meister, 2025). This architecture finds a natural analogue in control theory (Wiener, 1948)—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
+The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options and prepares competing action plans (Cisek, 2007); consciousness selects among them through a channel limited to roughly 10 bits per second, the measured throughput of human behaviour (Zheng & Meister, 2025). This architecture finds a natural analogue in control theory (Wiener, 1948)—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
 
 This reframing matters because it specifies what consciousness *can* and *cannot* do within the Map's commitments, distinguishes the Map's position from computational models of mind, and connects to formal tools (stability analysis, feedback loops, gain parameters) that could make the Map's claims more precise.
 
@@ -79,11 +79,11 @@ The specific physical mechanism remains open—the quantum Zeno effect is one ca
 
 ### Veto
 
-The [policy-level selection](/concepts/consciousness-selecting-neural-patterns/#the-bandwidth-constraint) framework includes veto—blocking an action the brain has prepared. Benjamin Libet's experiments showed that a readiness potential (a buildup of electrical activity in motor cortex) begins ~550ms before action, well before conscious awareness of the intention at ~200ms. Libet (1985) proposed that consciousness can still veto the action in the remaining window before execution. Brass and Haggard's (2007) "whether" model identified distinct neural circuitry for this operation—see [Phenomenology of Volitional Control](/topics/volitional-control/) for the phenomenological structure of conscious veto. In control terms, veto is an **emergency stop**—a safety controller that [overrides the plant's trajectory](/topics/alief-and-acting-against-belief/) when it conflicts with the setpoint.
+The [policy-level selection](/concepts/consciousness-selecting-neural-patterns/#the-bandwidth-constraint) framework includes veto—blocking an action the brain has prepared. Benjamin Libet's experiments showed that a readiness potential (a buildup of electrical activity in motor cortex) begins ~550ms before action, well before conscious awareness of the intention at ~200ms. Libet (1985) proposed that consciousness can still veto the action in the remaining window before execution. Brass and Haggard (2007) located a candidate fronto-median area for the decision whether to act, a correlate they suggest could make a non-neural veto unnecessary, though an interactionist expects one too—see [Phenomenology of Volitional Control](/topics/volitional-control/) for the phenomenological structure of conscious veto. In control terms, veto is an **emergency stop**—a safety controller that [overrides the plant's trajectory](/topics/alief-and-acting-against-belief/) when it conflicts with the setpoint.
 
 Veto requires minimal bandwidth. A single bit ("stop/go") suffices for the basic operation. This makes it perhaps the most plausible form of conscious control—even a ~10 bits/second channel can issue many veto signals per second.
 
-Two cautions keep this from proving more than it does. The bit-cost of veto is a bandwidth fact, not the minimality [Tenet 2](/tenets/#minimal-quantum-interaction) names, which the tenet fixes by the empirical record it must respect (no detectable energy injection, no Born or conservation violation), not by how much is influenced; a one-bit stop and a many-bit trajectory adjustment can be equally minimal at the quantum level. And [the cheapest operation has the earliest deadline](/topics/quantum-neural-timing-constraints/). Schultze-Kraft et al. (2016) found that movement onset can no longer be withheld once a stop signal arrives later than about 200 ms before EMG onset, while "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds." Veto is the most plausible operation in bits and the most time-limited in practice; the operation that stays available longest is attractor steering, described next.
+Two cautions keep this from proving more than it does. The bit-cost of veto is a bandwidth fact, not the minimality [Tenet 2](/tenets/#minimal-quantum-interaction) names, which the tenet fixes by the empirical record it must respect (no detectable energy injection, no Born or conservation violation), not by how much is influenced; a one-bit stop and a many-bit trajectory adjustment can be equally minimal at the quantum level. And [the cheapest operation has the earliest deadline](/topics/quantum-neural-timing-constraints/). Schultze-Kraft et al. (2016) found that movement onset can no longer be withheld once a stop signal arrives later than about 200 ms before EMG onset, while "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds." Veto is the most plausible operation in bits, and its onset-withholding form the most time-limited, at least for cued stops; aborting or altering a movement already under way stays available longer.
 
 ### Attractor Steering
 
@@ -101,11 +101,11 @@ Resource allocation connects to the [working memory constraint](/concepts/attent
 
 Framing will as control clarifies several aspects of the Map's position that remain ambiguous when described in purely philosophical terms.
 
-**Precision about limits.** Control theory distinguishes between what a controller *can* influence (observability and controllability) and what it *cannot*. The brain boundary problem—why consciousness influences its own brain but not external objects—becomes a controllability constraint: only systems within the attention loop are controllable. [Interface locality](/concepts/consciousness-selecting-neural-patterns/#the-brain-boundary) is a standard control-theoretic requirement, not an ad hoc restriction.
+**Precision about limits.** Control theory distinguishes between what a controller *can* influence (observability and controllability) and what it *cannot*. The brain boundary problem—why consciousness influences its own brain but not external objects—becomes a controllability constraint: only systems within the attention loop are controllable. [Interface locality](/concepts/consciousness-selecting-neural-patterns/#the-brain-boundary) then follows largely from the loop rather than from an ad hoc restriction.
 
 **Bandwidth as design constraint, not deficiency.** A ~10 bits/second channel seems absurdly narrow. But control systems routinely use low-bandwidth signals to govern high-bandwidth plants. A thermostat outputs one bit (heat on/off) to control a complex thermal system. A pilot uses a few control inputs to manage an aircraft with millions of interacting parts. Low bandwidth is not a failure of the controller; it reflects appropriate abstraction—controlling at the right level.
 
-**Stability analysis.** Control theory asks: under what conditions does the system remain stable? Disorders of consciousness and attention—ADHD, OCD, psychosis—may be interpretable as control instabilities: oscillation (OCD's repetitive loops), insufficient gain (ADHD's failure to stabilise selected patterns), or runaway feedback (psychotic states where the controller loses contact with plant state).
+**Stability analysis.** Control theory asks: under what conditions does the system remain stable? Psychiatric conditions—ADHD, OCD, psychosis—may be interpretable as control instabilities: oscillation (OCD's repetitive loops), insufficient gain (ADHD's failure to stabilise selected patterns), or runaway feedback (psychotic states where the controller loses contact with plant state).
 
 **Degradation modes.** When a controller fails partially, control theory predicts specific failure patterns depending on which component degrades. Loss of sensor feedback produces different failures than loss of actuator authority. The Map's existing discussion of [dopamine deficiency](/concepts/motor-selection/#the-can-move--wont-move-distinction)—preserved capacity, lost initiative—maps onto actuator degradation: the control signal can't reach the plant effectively.
 
@@ -121,21 +121,21 @@ This framing must be distinguished from several positions it resembles but does 
 
 ## Analogy, Model, and Ontology
 
-The mapping table above, and the controller/plant vocabulary throughout this article, function as a **modelling tool**—not as evidence for any particular ontology. This distinction matters and deserves explicit treatment.
+The mapping table above, and the controller/plant vocabulary throughout this article, function as a **modelling tool**—not as evidence for any particular ontology.
 
-Control theory is a mathematical framework for describing systems with feedback and regulation. Engineers apply it to thermostats, aircraft, and chemical plants. Nothing in the formalism requires the controller and plant to be ontologically distinct substances. A cruise control system is part of the same physical car it governs. A thermostat is embedded in the thermal system it regulates. The controller/plant distinction is *functional*, not necessarily *metaphysical*.
+Control theory is a mathematical framework for describing systems with feedback and regulation. Nothing in the formalism requires the controller and plant to be ontologically distinct substances. A cruise control system is part of the same physical car it governs. A thermostat is embedded in the thermal system it regulates. The controller/plant distinction is *functional*, not necessarily *metaphysical*.
 
 A physicalist could adopt every element of the control-theoretic framing in this article—the five operations, the bandwidth constraint, the stability analysis—while maintaining that consciousness is an emergent property of brain processes. The "controller" would then be a functional description of certain neural subsystems, not a separate substance. The framing would remain useful for predicting behaviour, characterising disorders, and specifying what consciousness does, all without dualist commitments.
 
 The Unfinishable Map *does* hold that the controller is ontologically distinct from the plant. But this commitment comes from the Map's independent arguments for dualism (the hard problem, the conceivability argument, the limits of physical explanation), not from control theory itself. The control-theoretic framing is compatible with dualism and *illuminates* what dualist interaction might look like in practice, but it does not *establish* dualism. The argument runs: *if* consciousness is distinct from the brain (for independent reasons), *then* control theory provides a precise vocabulary for how that distinct entity could interact with the brain through a low-bandwidth channel.
 
-Conflating the model with the ontology would be a category error—treating a useful description of *what happens* as proof of *what exists*. The five control operations remain valuable descriptions of conscious function regardless of one's metaphysical commitments. What the Map adds is the claim that these operations are performed by a genuinely non-physical controller, a claim that must be defended on independent grounds.
+Conflating the model with the ontology would be a category error—treating a useful description of *what happens* as proof of *what exists*. What the Map adds is the claim that the five operations are performed by a genuinely non-physical controller, a claim that must be defended on independent grounds.
 
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)**: The Map's dualism is not derived from the control-theoretic framing but is *expressed through* it. The independent case for dualism (the hard problem, conceivability arguments, the explanatory gap) gives reason to treat consciousness as ontologically separate from the plant. Control theory then specifies what this separation would look like in practice: a low-bandwidth, feedback-dependent regulatory relationship. The framing makes dualist interaction concrete and functionally testable without itself being the argument for dualism. The operations, the stability analysis and the degradation patterns above would come out the same under a physical controller, and no current prediction separates a non-physical controller from a physical one: the Map owes that test and does not yet have it.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: A well-designed controller uses the smallest signal necessary to maintain desired behaviour, yet signal size measures something other than this tenet's minimality. The ~10 bits/second bandwidth is a measured fact about conscious processing that physicalist and dualist accounts alike have to accommodate. Tenet 2 is satisfied by the channel's Born-exactness—whatever selection consciousness performs injects no energy, breaks no conservation law and leaves the aggregate Born statistics intact—not by its narrowness, and a wider channel with the same exactness would be just as minimal.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: A well-designed controller uses the smallest signal necessary to maintain desired behaviour, yet signal size measures something other than this tenet's minimality. The ~10 bits/second bandwidth is a measured fact about behavioural throughput that physicalist and dualist accounts alike have to accommodate. Tenet 2 is satisfied by the channel's Born-exactness—whatever selection consciousness performs injects no energy, breaks no conservation law and leaves the aggregate Born statistics intact—not by its narrowness, and a wider channel with the same exactness would be just as minimal.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Control requires a closed loop: the controller must receive feedback (phenomenal experience) and output signals (attentional selection). Open-loop control—without feedback—is fragile and unreliable. The bidirectional interaction tenet ensures the loop is closed: consciousness both receives from and acts upon the brain.
 
@@ -151,7 +151,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 **Akratic signal mapping.** In [akrasia](/topics/akrasia-and-weakness-of-will/), selection reportedly diverges from the agent's all-things-considered evaluation. One candidate: that judgement is the reference signal, which prepared action reaches threshold is the controlled variable, present felt pull is the disturbance, phenomenal experience of both is the feedback, and the selection mechanism is the actuator. A controller should not drive the plant off its own setpoint, so either felt pull is a [second reference](/topics/valence-and-conscious-selection/#the-value-sensitive-horn-valence-as-selection-currency) it tracks at action time (a refusal) or its authority fails against that particular pull (a failure). A [distributed architecture](/topics/the-divided-will/) predicts the divergence with no single controller, where a unitary one only accommodates it. The mapping is open, as is whether any reading needs a non-physical controller.
 
-**Adaptive control.** Does the controller's strategy change with experience? Meditation and attention training suggest it does—the controller becomes more efficient. [Self-control research](/concepts/self-control-as-skill-and-scaffolding/) points to one such shift: skilled agents move from correcting disturbances as they arise to removing them at source through chosen situations and plans, as any low-bandwidth controller should, physical or not. Schwartz & Begley (2002) document how directed mental effort produces measurable neuroplastic changes in OCD patients, suggesting the controller can reshape the plant it governs. Adaptive control theory provides frameworks for modelling how a controller improves over time while maintaining stability.
+**Adaptive control.** Does the controller's strategy change with experience? Meditation and attention training suggest it does—the controller becomes more efficient. [Self-control research](/concepts/self-control-as-skill-and-scaffolding/) points to one such shift: skilled agents move from correcting disturbances as they arise to removing them at source through chosen situations and plans, as any low-bandwidth controller should, physical or not. Schwartz & Begley (2002) argue that directed mental effort produces measurable neuroplastic changes in OCD patients, suggesting the controller can reshape the plant it governs. Adaptive control theory provides frameworks for modelling how a controller improves over time while maintaining stability.
 
 **Observability limits.** Not all brain states are accessible to consciousness—most neural processing is unconscious. In control terms, the system is only partially observable. What determines which states are observable (and therefore controllable) may be a fundamental architectural question about the mind-brain interface.
 

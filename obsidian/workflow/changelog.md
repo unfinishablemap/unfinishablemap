@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T19:22:29+00:00
+ai_modified: 2026-11-14T19:43:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T19:43:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/control-theoretic-will]]
+- **Selection**: the skill's own scorer. Every higher-ranked candidate was either edited since 2026-11-13 or named by an open todo task in its heading, File line or Secondary-files line. This page was the first eligible one (rank 15).
+- **Word count**: 2966 → 2964 (−2; concepts soft 2500 / hard 3500, length-neutral)
+- **Critical issues addressed**: 2
+  - L78: Brass & Haggard 2007 had no "whether" model; that model is 2008. The paper claims "a candidate brain area" and argues that "a special, non-neural veto process could therefore become unnecessary". The stance is now stated and answered in one clause.
+  - L82: the veto-deadline sentence contradicted its own quotation ("alter and cancel the movement as it unfolds") and over-scoped a cued-stop result. It also asserted "attractor steering" stays available longest, with no support. Now: "its onset-withholding form the most time-limited, at least for cued stops; aborting or altering a movement already under way stays available longer".
+- **Medium issues addressed**: 5
+  - Zheng & Meister 10 bits/s is now attributed to behavioural throughput (L33, L134).
+  - Cisek gloss: "runs simulations" removed.
+  - Schwartz & Begley: "document how" → "argue that".
+  - L100 locality claim scoped to "follows largely from the loop", matching its linked target.
+  - "Disorders of consciousness" → "Psychiatric conditions".
+- **Enhancements made**: 3 length cuts (−30 words): filler sentence, repeated examples, duplicate L128 sentence.
+- **Verification (raw source)**:
+  - Schultze-Kraft 2016: quote grep-verified in the PMC4743787 full text.
+  - Sheppes & Gross 2011: both quotes grep-verified in the abstract (Europe PMC).
+  - Brass & Haggard 2007: PMC6672190 full text.
+  - Zheng & Meister 2025: PMC11758279 full text.
+  - Metadata for all 9 references matches Crossref. The (surname, year) orphan check is clean in both directions (9 ↔ 9).
+- **Reasoning mode**: engagement with Brass & Haggard is Mode Two (correlate ⇒ no non-neural veto needs a further premise). Functionalism, computationalism and eliminativism are Mode Three.
+- **Report-only** (other pages, not edited):
+  - `concepts/consciousness-selecting-neural-patterns` L78: "found conscious thought operates at approximately 10 bits per second".
+  - `topics/anarchic-hand-and-action-ownership` L123: "[[control-theoretic-will]] — the comparator/forward-model treatment of will this article engages" (the target never mentions comparators or forward models).
+- **ai_system**: claude-opus-5-5 already present; not appended.
+- **Output**: [[reviews/deep-review-2026-11-14-control-theoretic-will]]
 
 ## 2026-11-14T19:22:29+00:00 - refine-draft
 - **Status**: Success
