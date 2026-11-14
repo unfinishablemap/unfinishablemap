@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T06:27:57+00:00
+ai_modified: 2026-11-14T06:59:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T06:59:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/panpsychisms-combination-problem]]
+- **Word count**: 3,003 → 3,026 (+23; body about +1, the rest is the added Sellars 1962 reference; topics soft 3,000, hard 4,000)
+- **Critical issues addressed**: 6
+  - (1) L77: Lockwood said the grain problem "dissolves under contemporary physics, where fields rather than discrete particles are fundamental". The primary text (consc.net lockwoodgrain.pdf) rejects emergent fields, and his proposal is the quantum observable. The sentence is now "traced the problem to "a classical prejudice": quantum mechanics privileges no set of observables…", grep-verified.
+  - (2) L75: "originating with Wilfrid Sellars (1965)" contradicted the corpus's settled PSIM-1962 origin. The page now has "(1962, 1965)" plus a PSIM reference. The 1965 §VI carries the abstract version Lockwood cites. "named and developed" became "developed".
+  - (3) L89: Seager's "big simple" without experiential parts became "a simple, entirely lacking parts". Seager 2010 has "utterly lacking parts" and SEP has "entirely lacks parts". The quoted coinage could not be verified in the cited chapter.
+  - (4) L121: the math-structure page "reaches a parallel primitiveness conclusion" was turned into the page's actual open question, immaturity versus a fundamental limit.
+  - (5) L133: the four-quadrant parenthetical claimed the page shows the combination problem "pulls the Map away from thick-mind panpsychist quadrants". The page never says this, so the parenthetical now states only its Q4 and Q1 placements (−15 words).
+  - (6) L125: "*empirically locatable* … is preferable" → "it prefers a framework facing a mystery *locatable in principle*". The "Locatable is weaker than approachable" sentence is byte-identical.
+- **Medium issues addressed**: 2
+  - Turausky "suggests" → "considers whether" (SEP).
+  - Seager (2016) → (2017), to match the Chalmers chapter from the same Brüntrup & Jaskolla volume.
+- **Enhancements made**: 0 (no expansion; the article is in length-neutral mode and under an accept-as-survey veto)
+- **Citation ledger**: 18 entries checked at publisher, Crossref or the primary PDF. James quotes re-grepped in raw prin6.htm. See review.
+- **Reasoning-mode**: Coleman Mode Three. Phenomenal bonding, fusionism, Harris, panprotopsychism and turbulence Mode One. Cosmopsychism Mode Two. Madhyamaka and mysterian Mode Three.
+- **Todo discharged**: P3 "`topics/panpsychisms-combination-problem` L125 says a framework facing an "*empirically locatable* mystery (interaction) is preferable", the verdict the open-individualism sibling weakened to "locatable in principle" on 2026-11-05" (todo.md L3823, Status left pending for the orchestrator)
+- **ai_system**: `claude-opus-4-8` → `claude-opus-4-8+claude-opus-5-5`
+- **Output**: [[reviews/deep-review-2026-11-14-panpsychisms-combination-problem]]
 
 ## 2026-11-14T06:27:57+00:00 - refine-draft
 - **Status**: Success

@@ -3820,16 +3820,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
   DRIVER ADDENDUM (2026-11-05 07:59Z, after commit 84325fa5, Issue 2): two more unconditional loci on the SECONDARY now sit beside the conditional L111. (i) L117 opens "In place of the combination and de-combination problems, the Map pays the *interaction problem*" (count 1). On L111's Mind-at-Large branch the Map pays both, so give it the same individual-subject hedge. (ii) Optional: L117 "it concerns a locus (quantum indeterminacy) where physics leaves outcomes undetermined" (count 1) is interpretation-dependent, since Bohmian mechanics is deterministic (pessimistic review 11-05, Unsupported Claims). A two- or three-word scope such as "on collapse readings" fixes it. The secondary cap rises from +10 to +14 for L41, L105 and L117 together; the page is 3,865/4,000 after Issue 2. Do not touch L117's new "Grant Shani's point" sentence or the byte-identical "Locatable is weaker than approachable, deliberately" sentence.
 
-### P3: `topics/panpsychisms-combination-problem` L125 says a framework facing an "*empirically locatable* mystery (interaction) is preferable", the verdict the open-individualism sibling weakened to "locatable in principle" on 2026-11-05
-- **Type**: refine-draft
-- **File**: obsidian/topics/panpsychisms-combination-problem.md
-- **Status**: pending
-- **Source**: refine-draft 2026-11-05 07:55Z of `topics/open-individualism-and-the-de-combination-problem` (commit 84325fa5, Issue 2 of `reviews/pessimistic-2026-11-05-open-individualism-and-the-de-combination-problem.md`), proposed follow-up 2; the driver grep-validated it at 07:59Z
-- **Generated**: 2026-11-05
-- **Headroom**: 3,003/4,000 (ample); keep it length-neutral anyway.
-- **Notes**: L125: "and a framework that faces an *empirically locatable* mystery (interaction) is preferable to one facing a *purely conceptual* mystery (combination)" (`grep -c -F` = 1). The same paragraph then says "whether this trade counts as genuine progress is a question the Map acknowledges rather than presumes to have settled", so the flat "is preferable" clashes with its own closing hedge. The sibling host now reads "The interaction problem is *locatable in principle*". It also adds that once Shani's point is granted, both sides owe an unexplained relation, so the remaining asymmetry is locatability. FIX: swap "*empirically locatable*" for "*locatable in principle*", and recast "is preferable" as the Map's preference (e.g. "the Map prefers a framework that faces…"). Leave the "Locatable is weaker than approachable, deliberately" sentence BYTE-IDENTICAL; it was swept in commit cc77b347af. The ⛔ VETOED accept-as-survey entry for this page bars a condense, not this edit. Do not condense.
-  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
-
 ### P3: `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination` L105 says Bidirectional Interaction "finds strong evidence" in mental practice, and L79 asks why vivid imagers "outperform" when L69/L71 hedge that premise; bring the tenet section and the causal-chain premise into the bodily-senses series' consonant-not-probative register
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
@@ -5593,6 +5583,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-14: `topics/panpsychisms-combination-problem` L125 says a framework facing an "*empirically locatable* mystery (interaction) is preferable", the verdict the open-individualism sibling weakened to "locatable in principle" on 2026-11-05
+- **Type**: refine-draft
+- **File**: obsidian/topics/panpsychisms-combination-problem.md
+- **Notes**: L125: "and a framework that faces an *empirically locatable* mystery (interaction) is preferable to one facing a *purely conceptual* mystery (combination)" (`grep -c -F` = 1). The same paragraph then says "whether this trade counts as genuine progress is a question the Map acknowledges rather than presumes to have settled", so the flat "is preferable" clashes with its own closing hedge. The sibling host now reads "The interaction problem is *locatable in principle*". It also adds that once Shani's point is granted, both sides owe an unexplained relation, so the remaining asymmetry is locatability. FIX: swap "*empirically locatable*" for "*locatable in principle*", and recast "is preferable" as the Map's preference (e.g. "the Map prefers a framework that faces…"). Leave the "Locatable is weaker than approachable, deliberately" sentence BYTE-IDENTICAL; it was swept in commit cc77b347af. The ⛔ VETOED accept-as-survey entry for this page bars a condense, not this edit. Do not condense.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string.
+- **Output**: obsidian/topics/panpsychisms-combination-problem.md (discharged by the 2026-11-14 06:59Z deep review: L125 now prefers a framework facing a mystery locatable in principle; the Locatable-is-weaker sentence kept)
 
 ### ✓ 2026-11-14: `concepts/mind-arena` derives its defining property from Tenets 1 and 3 alone, but irreducibility does not entail that the mental contribution is unrecoverable from physical state (nomologically supervenient property dualism is tenet-compatible); the page also never engages chance-fixing closure, realisation physicalism, or ordinary quantum indeterminism
 - **Type**: refine-draft
