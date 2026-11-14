@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-10-26 01:40:27+00:00
+ai_modified: 2026-11-14 21:51:58+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -15,13 +15,14 @@ concepts:
 - '[[intrinsic-nature-void]]'
 created: 2026-03-19
 date: &id001 2026-03-19
-description: Physics is structurally complete—it captures every relation and regularity—yet
-  ontologically partial. The structural-ontological gap is where consciousness enters.
+description: Physics is structurally complete as far as the no-go theorems reach,
+  yet ontologically partial. The structural-ontological gap is where the Map locates
+  consciousness.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-04 00:56:48+00:00
-lastmod: 2026-10-26 01:40:27+00:00
+lastmod: 2026-11-14 21:51:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Physics is structurally complete. It captures every regularity, every symmetry, every dynamical relation between measurable quantities. Nothing structural is missing. Yet physics is ontologically partial — it does not describe what *instantiates* those structures, what makes one quantum outcome actual rather than another, or why there is something it is like to be a physical system. The Unfinishable Map calls this the **structural-ontological gap**: the space between a complete catalogue of relations and a complete account of reality. This gap reflects no deficiency in physics; it is a feature of what physical theory *is* — and the Map proposes it is precisely where consciousness operates.
+Physics is structurally complete as far as the no-go theorems reach: quantum mechanics admits no local, non-contextual or ψ-epistemic completion, though de Broglie–Bohm's deterministic completion survives them and the Map declines it on tenet grounds rather than no-go grounds. Yet physics is ontologically partial — it does not describe what *instantiates* its structures, what makes one quantum outcome actual rather than another, or why there is something it is like to be a physical system. The Unfinishable Map calls this the **structural-ontological gap**: the space between a complete catalogue of relations and a complete account of reality. On the Map's reading the gap is a feature of what physical theory *is*, not a deficiency awaiting repair, and precisely where consciousness operates.
 
 ## What Physics Describes
 
@@ -62,7 +63,7 @@ If the structuralist reading is right, this relational character explains both t
 
 ## Structural Completeness Is Real
 
-The claim that *current* physics is structurally complete — that its structural description leaves no structural information out — is well supported by the convergence of results in quantum foundations. This is an observation about the theories we have, and it should be kept distinct from the much stronger modal claim that *every possible* physics must be structural, which the [god-of-the-gaps section](#not-a-god-of-the-gaps-argument) examines on its own terms.
+The claim that *current* physics is structurally complete — that it leaves no local, non-contextual or ψ-epistemic completion outstanding — is well supported by the convergence of results in quantum foundations. This is an observation about the theories we have, and it should be kept distinct from the much stronger modal claim that *every possible* physics must be structural, which the [god-of-the-gaps section](#not-a-god-of-the-gaps-argument) examines on its own terms.
 
 [The no-go theorems](/concepts/quantum-completeness/#no-go-theorems) — Bell (1964), Kochen-Specker (1967), Hardy (1993), PBR (2012) — collectively constrain what a deeper theory beneath quantum mechanics could look like. Local hidden variables are ruled out (Bell). Non-contextual value assignments are impossible (Kochen-Specker). The wavefunction is ontic, not merely a summary of ignorance, given the theorem's auxiliary assumptions (PBR). The combined force is that quantum mechanics is not an incomplete sketch awaiting local, non-contextual or ψ-epistemic completion; de Broglie–Bohm's deterministic completion survives all four, and the Map declines it on tenet grounds.
 

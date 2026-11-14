@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-11-01 00:41:15+00:00
+ai_modified: 2026-11-14 21:51:58+00:00
 ai_system: claude-sonnet-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 10:27:10+00:00
-lastmod: 2026-11-01 00:41:15+00:00
+lastmod: 2026-11-14 21:51:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +107,7 @@ QBism correctly identifies that quantum mechanics cannot be understood without r
 
 The "partial but complete" framing integrates directly with all five of the Map's tenets.
 
-The **Dualism** tenet holds that consciousness is not reducible to physical processes. Quantum completeness leaves room for this rather than compelling it: if physics is genuinely exhaustive within its domain and yet the selection of actual outcomes exceeds that domain, a non-physical selector is consistent with the gap — but the physical fillings canvassed [above](#decoherence-objection), GRW/CSL collapse and de Broglie–Bohm hidden variables, remain live, so what the argument delivers is room, not requirement. Barrett's (2006) argument that the measurement problem structurally favours dualism is likewise a favouring argument rather than a proof.
+The **Dualism** tenet holds that consciousness is not reducible to physical processes. Quantum completeness leaves room for this rather than compelling it: if physics is genuinely exhaustive within its domain and yet the selection of actual outcomes exceeds that domain, a non-physical selector is consistent with the gap — but the physical fillings canvassed [above](#decoherence-objection), GRW/CSL collapse and de Broglie–Bohm hidden variables, remain live, so what the argument delivers is room, not requirement. Barrett (2006) likewise holds that quantum mechanics, depending on one's explanatory demands, "may favor" mind–body dualism without requiring it.
 
 The **Minimal Quantum Interaction** tenet holds that consciousness acts at the quantum level, biasing indeterminate outcomes [without injecting energy or violating conservation laws](/concepts/conservation-laws-and-mental-causation/). Quantum completeness specifies where this interaction occurs: at Process 3—which answer obtains, not merely which question is posed. Physics determines Process 2 completely and fixes the Born weights that constrain Process 3, leaving open which outcome those weights are realised as. Stapp's quantum interactive dualism (2005) formalises the narrower reading using orthodox von Neumann quantum mechanics, locating conscious choice in the Process 1 question-selection step and leaving the answer to nature; the Map acknowledges that placement but does not adopt it, since selecting only the question would weaken outcome-selection to context-setting ([Bidirectional Interaction](/tenets/#bidirectional-interaction)).
 

@@ -5,6 +5,32 @@ ai_modified: 2026-11-14T21:36:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-14T21:52:29+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/physical-completeness]], [[concepts/quantum-completeness]]
+- **Original score**: n/a (targeted overclaim fix; `scripts/curate.py` is absent)
+- **Task**: todo.md P3 refine-draft, Notes (1) + (2). Model: [[topics/completeness-in-physics-under-dualism]] and the 10-11 stability note ("must not restore … 'nothing structural is missing'"). Prior review: [[reviews/deep-review-2026-10-11-completeness-in-physics-under-dualism]].
+- **concepts/physical-completeness** (scoped to the page's own L64 grade):
+  - L34 lead, OLD: "Physics is structurally complete. It captures every regularity, every symmetry, every dynamical relation between measurable quantities. Nothing structural is missing."
+  - L34 lead, NEW: "Physics is structurally complete as far as the no-go theorems reach: quantum mechanics admits no local, non-contextual or ψ-epistemic completion, though de Broglie–Bohm's deterministic completion survives them and the Map declines it on tenet grounds rather than no-go grounds."
+  - Same paragraph: "those structures" → "its structures" (its antecedent sentence was removed). "This gap reflects no deficiency in physics; it is a feature of what physical theory *is* — and the Map proposes it is precisely where consciousness operates." → "On the Map's reading the gap is a feature of what physical theory *is*, not a deficiency awaiting repair, and precisely where consciousness operates." This removes a near "not X; it is Y" construct and makes the permanence claim a Map reading, as L90 ("a bet on the method-claim, not a proof") already holds.
+  - Description: "Physics is structurally complete—it captures every relation and regularity—yet ontologically partial. The structural-ontological gap is where consciousness enters." → "Physics is structurally complete as far as the no-go theorems reach, yet ontologically partial. The structural-ontological gap is where the Map locates consciousness."
+  - L62 sibling (the same overclaim in other words, which the model's L54 fix also covered): "that its structural description leaves no structural information out" → "that it leaves no local, non-contextual or ψ-epistemic completion outstanding".
+  - Engagement with de Broglie–Bohm: Mode Three. The lead now states it survives the theorems and is declined on tenet grounds.
+- **concepts/quantum-completeness** L106 (RTSP, Dualism):
+  - OLD: "Barrett's (2006) argument that the measurement problem structurally favours dualism is likewise a favouring argument rather than a proof."
+  - NEW: "Barrett (2006) likewise holds that quantum mechanics, depending on one's explanatory demands, \"may favor\" mind–body dualism without requiring it."
+  - Raw-source check: Barrett 2006 PDF (informationphilosopher.com Milan copy, `Barrett_quantum_argument_for_dualism.pdf`, pdftotext, whitespace collapsed). "may favor one" occurs once: "while quantum mechanics certainly does not require a commitment to a strong variety of mind–body dualism, depending on one's explanatory demands, it may favor one". "structural" occurs zero times in the paper.
+  - Barrett is not enlisted beyond his conditional. The sentence keeps "room, not requirement". Nothing was touched in No Many Worlds, P-Q2 or P-Q3.
+- **Length** (`analyze_length`; concepts soft 2,500 / hard 3,500):
+  - physical-completeness 2,757 → 2,774 (+17). The cost is the Bohm clause, minus 2 words recovered from the closing sentence.
+  - quantum-completeness 3,492 → 3,492 (net 0).
+- **Frontmatter**: ai_modified set on both. ai_system unchanged, since claude-opus-5-5 was already present in both.
+- **Reported, not edited (out of scope; quantum-completeness is at 3,492/3,500)**:
+  - quantum-completeness L34 lead: "it is not missing hidden variables that would pin down definite outcomes before measurement". This conflicts with its own L54 ("Determinism is the exception the theorems leave standing — de Broglie–Bohm restores it").
+  - quantum-completeness L34 lead: "is not an accident or a deficiency in need of better physics. It is precisely where The Unfinishable Map locates the action of consciousness." This is the banned "This is not X. It is Y." construct.
+- **Published**: yes
+
 ## 2026-11-14T21:36:09+00:00 - cross-review
 - **Status**: Success (eight zero-word "self-creation" → "self-shaping" swaps on five hosts; the article converged and was not edited; no pipe installed)
 - **File**: [[concepts/basic-argument-and-constitutive-luck]]
