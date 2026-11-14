@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 02:23:01+00:00
+ai_modified: 2026-11-14 02:41:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 02:23:01+00:00
+lastmod: 2026-11-14 02:41:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T02:41:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Secondary file**: [philosophy-of-time](/concepts/philosophy-of-time/)
+- **Task**: todo.md P3 refine-draft "Label the 'selected transaction includes the neural history' claim…" (ChatGPT 10-25 improvement 12), with the 2026-11-05 20:07Z DRIVER ADDENDUM (items i and ii)
+- **Review files**: [outer-review-2026-10-25-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro/) (task source); [deep-review-2026-11-05-philosophy-of-time](/reviews/deep-review-2026-11-05-philosophy-of-time/) (read for do-not-regress notes; none regressed)
+- **Original score**: 7/10 (estimated; `scripts/curate.py` absent)
+- **Length** (`analyze_length`, gate `>=`): time-collapse-and-agency 4,601 → 4,600 (−1; topics hard 4,000, already over, 2026-06-12 human length decision, net ≤ 0 met). philosophy-of-time 3,407 → 3,407 (0; concepts hard 3,500, net ≤ 0 met).
+- **Changes, time-collapse-and-agency** (each OLD re-grepped at count 1): (1) L115 "This is because the selection isn't temporal—it determines which temporal ordering becomes real. The neural activity … is part of the selected transaction" → "On the Map's speculative addition to the transactional picture, the selection fixes which temporal ordering becomes real, so the neural activity … is part of the selected transaction" (+5). It is now labelled as the Map's own hypothesis, matching L78 and `apex/consciousness-and-agency` L143. (2) L171 "**Timing problem dissolved**: … In atemporal selection, this ordering is part of what's selected, not a constraint on the selection." → "**Timing problem recast**: … On the Map's speculative atemporal reading, that ordering is itself selected." (−6). L42/L85 (fenced collapse-ordering) untouched.
+- **Changes, philosophy-of-time**: each claim is now scoped to EXPERIENCED temporal structure or to the Map's speculative reading, calibrated against the prebiotic background commitment and apex L145. L35 "structure of time itself" → "of *experienced* time". L37 "constitute *experienced* temporal structure". L123 "the No Many Worlds tenet requires this" → "a commitment beyond No Many Worlds, since single-world Bohm and RQM avoid collapse" (repair model 7785bb57; ADDENDUM ii). L128 "grows through consciousness-involving collapse" → "through [largely mind-free](/concepts/prebiotic-collapse/) collapse". L130 "consciousness's collapse-participation *creates* temporal structure" → "Where consciousness participates, the Map speculatively adds, it helps constitute *experienced* temporal structure". L147 "For time-constitution specifically, each rapid observation event contributes to temporal structure;" → "On the speculative constitution reading,". L157 "consciousness-involving collapse introduces asymmetry" → "collapse introduces asymmetry". L167 Whitehead (ADDENDUM i): "If consciousness participates in collapse, it participates in concrescence…" → "Every actual occasion concresces, conscious or not, so the parallel fits mind-free collapse better than consciousness-specific constitution." L169: collapse plays the creative-advance role, and "on the Map's speculative reading, consciousness helps constitute only time's experienced form"; "concrescence through consciousness-involving collapse" → "through collapse". L171 "creates *this* temporal structure" → "shapes *this* experienced present". L187 dropped "We experience duration because we create duration" and recast "Flow isn't illusion; it's what…" without the not-X/Y construction, scoped to *experienced*. Siblings found by grep and scoped by +1 each: L193 "constitutes experienced time", L199 "creates experienced temporal structure". Description (frontmatter, uncounted): "constituting experienced temporal structure". L165 checked and left: it parallels collapse in general, which is already consistent with mind-free collapse.
+- **Not done**: Lees et al. 2012 at time-collapse-and-agency L197. Crossref verified it (PRL 109(21) 211801, first author J. P. Lees), but it was NOT added. It would cost about 25 words (4 inline plus a 21-word reference entry), and the two recasts net only −1.
+- **Coordination held**: philosophy-of-time L219/L223/L225 (tenet-check 156 W1 exact strings), L221 (todo ~L4493), L143, L145, L155 and L139 are owned by other open tasks and were not touched, so their OLD strings still match. The deep review's do-not-regress notes hold: cessation reading, Fox 2012 and the Zeno "in place" wording are unchanged. Cramer, Kastner and Aharonov were not enlisted. Epiphenomenalism was not conceded. The retrocausal reading is presented as weakly held and speculative.
+- **Leads (out of scope, not edited)**: (a) time-collapse-and-agency L215 still says flatly "the selection propagates into both past preparation and future consequence. This dissolves the Libet problem…". That is the same unlabelled neural-history claim, plus a "dissolves" the corpus is retiring. (b) time-collapse-and-agency L155 "If consciousness participates in collapse, it participates in the process by which temporal structure accretes" and L159 "creates *this* temporal structure" are the Whitehead siblings of today's philosophy-of-time L167/L171 repairs; ADDENDUM (i) applies there too. (c) philosophy-of-time L207, falsifier 2, still reads "perhaps through direct detection of other branches", which time-collapse-and-agency L195 retired ("no Everettian claims other branches are independently detectable"). It also keeps "no consciousness-constituted time".
+- **Reasoning mode**: Libet objection (both pages): the reply now marks the dissolution as conditional on the Map's speculative reading rather than as a refutation (framework-boundary framing). No other named-opponent reply was edited.
+- **Published**: yes
 
 ## 2026-11-14T02:23:01+00:00 - deep-review
 - **Status**: Success

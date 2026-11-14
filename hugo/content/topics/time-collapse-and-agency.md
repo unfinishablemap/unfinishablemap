@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-05 20:59:05+00:00
+ai_modified: 2026-11-14 02:40:25+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -19,14 +19,14 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[philosophy-of-time]]'
 created: 2026-01-16
-date: &id001 2026-11-05
+date: &id001 2026-11-14
 description: Free will, quantum collapse, and time's arrow interlink. If consciousness
   selects outcomes and collapse creates irreversibility, agency and time connect.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:55:23+00:00
-lastmod: 2026-11-05 20:59:05+00:00
+lastmod: 2026-11-14 02:40:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,7 +115,7 @@ If consciousness is actively constituting temporal structure, the specious prese
 
 **[Temporal selection](/topics/temporal-consciousness-structure-and-agency/)**: The detailed phenomenology of *when* to act—the felt structure of timing windows, the anticipatory openness of "not yet," the kairos moment of "now," and the irreversible closure of "too late"—provides the agentive face of this temporal constitution. The asymmetry between "not yet" and "too late" tracks the ontological asymmetry this framework predicts: the future is open because collapse has not occurred; the past is settled because it has.
 
-**Retrocausal insensitivity**: We don't experience backward causation as strange. The Libet data doesn't feel like our choices precede our awareness. This is because the selection isn't temporal—it determines which temporal ordering becomes real. The neural activity "preceding" awareness is part of the selected transaction, not evidence against conscious causation.
+**Retrocausal insensitivity**: We don't experience backward causation as strange. The Libet data doesn't feel like our choices precede our awareness. On the Map's speculative addition to the transactional picture, the selection fixes which temporal ordering becomes real, so the neural activity "preceding" awareness is part of the selected transaction, not evidence against conscious causation.
 
 ## Avoiding Contradiction in "Selection Across Time"
 
@@ -171,7 +171,7 @@ This metaphysics strengthens the [free will](/topics/free-will/) position, and d
 
 **Non-random selection**: Critics argue quantum indeterminacy gives us random will, not free will. But if selection is atemporal and involves consciousness's constraints across time, it's not random—it expresses the agent's rational nature, reflecting what matters to the agent rather than arbitrary quantum fluctuation.
 
-**Timing problem dissolved**: The Libet objection (neural activity precedes awareness) only matters if selection must temporally precede the neural activity. In atemporal selection, this ordering is part of what's selected, not a constraint on the selection.
+**Timing problem recast**: The Libet objection (neural activity precedes awareness) matters only if selection must temporally precede that activity. On the Map's speculative atemporal reading, that ordering is itself selected.
 
 ## Contemplative Evidence
 
