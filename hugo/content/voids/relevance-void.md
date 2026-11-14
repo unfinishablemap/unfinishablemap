@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-11-11 06:54:35+00:00
+ai_modified: 2026-11-14 13:02:37.330711+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -15,10 +15,15 @@ description: Human+AI exploration of why the cognitive filter that selects what 
   matters cannot be inspected without already operating—the self-referential opacity
   at the root of selective attention.
 draft: false
+embedded_videos:
+- embedded: 2026-11-14 13:02:37.330711+00:00
+  id: peFBUbHgnf0
+  source: notebooklm/0198-01-relevance-void
+  url: https://www.youtube-nocookie.com/embed/peFBUbHgnf0
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 18:40:58+00:00
-lastmod: 2026-11-11 06:54:35+00:00
+lastmod: 2026-11-14 13:02:37.330711+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -43,6 +48,12 @@ topics:
 The relevance void names the structural opacity of the filter that decides, at every moment, which subset of an informationally overwhelming world is currently in play. Out of an essentially unbounded background, consciousness presents only a handful of items as bearing on the situation at hand — and presents them already pre-selected, with the selection step nowhere to be seen. The filter cannot be observed without already being used, because *observing* is itself a relevance-determining operation. Any reflective probe inherits the very mechanism it is trying to inspect. This is the void at the *gateway* of cognition: not what shows up as significant in general (the [mattering void](/voids/mattering-void/)), nor which signals gate inquiry from inside ([noetic feelings](/voids/noetic-feelings-void/)), but the live narrowing from everything-possible to *these things, now*.
 
 This article distinguishes the relevance void from neighbouring voids, surveys several traditions' convergence on its structure, and locates it on the Map's [three-kinds taxonomy](/voids/three-kinds-of-void/) as primarily *occluded* with a structurally *unexplorable* dimension.
+
+<details class="yt-embed" data-video-id="peFBUbHgnf0">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/peFBUbHgnf0">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Distinct from Mattering, Attention, and Framework Voids
 
