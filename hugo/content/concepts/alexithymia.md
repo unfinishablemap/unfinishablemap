@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-08-05 17:59:10+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-14 15:21:22+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - somatic-interface
@@ -11,12 +11,12 @@ created: 2026-07-08
 date: &id001 2026-07-08
 description: 'Alexithymia as the emotional member of the Map''s phenomenal-divergence
   cluster: a human+AI reading tracing where the 2020s evidence relocates the divergence
-  from feeling to report.'
+  from sensing to report.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-05 17:59:10+00:00
-lastmod: 2026-08-05 17:59:10+00:00
+lastmod: 2026-11-14 15:21:22+00:00
 modified: *id001
 related_articles:
 - emotion-and-dualism
@@ -33,7 +33,7 @@ topics:
 - '[[emotion-and-dualism]]'
 ---
 
-Alexithymia is difficulty identifying and describing one's own emotions, paired with an externally-oriented, concrete thinking style. It is a normally-distributed personality trait — elevated in roughly 10% of the general population — not a DSM disorder. For the Map it is the third named member of the **phenomenal-divergence cluster**, the emotional and interoceptive case alongside its siblings [aphantasia](/topics/aphantasia/) (absent or reduced visual imagery) and [synaesthesia](/topics/synaesthesia/) (anomalous cross-modal binding). Its distinctive value is sharpened by a recent shift in the evidence: the naive story that alexithymia is a straightforward *deficit* of interoceptive feeling has weakened, relocating the divergence toward the report and metacognition layer rather than the phenomenal layer — a relocation that strengthens, rather than blunts, the trait's use as a test of whether cross-tradition agreement about consciousness is an artefact of shared reporting machinery. That test, the **common-cause null**, and the **access-layer relocation** that motivates it are explained below.
+Alexithymia is difficulty identifying and describing one's own emotions, paired with an externally-oriented, concrete thinking style. It is a normally-distributed personality trait — elevated in roughly 10% of the general population — not a DSM disorder. For the Map it is the emotional and interoceptive member of the **[phenomenal-divergence cluster](/apex/phenomenal-variation-within-a-species/)**, alongside siblings such as [aphantasia](/topics/aphantasia/) (absent or reduced visual imagery) and [synaesthesia](/topics/synaesthesia/) (anomalous cross-modal binding). Its distinctive value is sharpened by a recent shift in the evidence: the naive story that alexithymia is a straightforward *deficit* of interoceptive sensing has weakened, relocating the divergence from the sensed signal toward the report and metacognition layer — a relocation that, if the felt affect is present, strengthens rather than blunts the trait's use as a test of whether cross-tradition agreement about consciousness is an artefact of shared reporting machinery. That test, the **common-cause null**, and the **access-layer relocation** that motivates it are explained below.
 
 ## The construct: DIF, DDF, EOT
 
@@ -43,7 +43,7 @@ The term was coined by Peter Sifneos in 1973 from Greek roots meaning, roughly, 
 - **Difficulty Describing Feelings (DDF)** — trouble communicating felt states to others once identified.
 - **Externally-Oriented Thinking (EOT)** — a preference for concrete, outward detail over inner experience.
 
-This three-part decomposition is what makes alexithymia a finer instrument than its siblings. Aphantasia and synaesthesia present as roughly all-or-nothing anomalies of a single modality; alexithymia comes graded and split, so one can ask *which* introspective sub-function a given capacity depends on rather than treating "emotional introspection" as monolithic. The canonical clinical treatment remains Taylor, Bagby and Parker's *Disorders of Affect Regulation* (1997).
+This three-part decomposition is what makes alexithymia a finer instrument than its siblings. The trait comes graded and split, so one can ask *which* introspective sub-function a given capacity depends on rather than treating "emotional introspection" as monolithic. The canonical clinical treatment remains Taylor, Bagby and Parker's *Disorders of Affect Regulation* (1997).
 
 ## From deficit to access: what the interoception evidence now shows
 
@@ -57,9 +57,9 @@ That hypothesis has not held up cleanly. It depends on a distinction drawn by Ga
 
 (The "Barrett" of this five-author paper is **Adam B. Barrett** of Sussex, an unrelated researcher to Lisa Feldman Barrett, whose constructivist theory appears below — a name collision worth flagging because both researchers matter to the argument here.)
 
-Once interoception is partitioned this way, the alexithymia link fractures. A large 2024 systematic review and meta-analysis — 32 studies, 7,819 participants — found a reliable association between alexithymia and *maladaptive subjective* interoceptive beliefs (confusion, hypervigilance, distrust of bodily signals), while noting that "previous meta-analyses have found no significant empirical association between task-based interoceptive accuracy and alexithymia" (Van Bael et al., 2024). The association, in other words, sits with self-reported *sensibility* and metacognition, not with objective *accuracy*. The relationship also proved stronger for DIF and DDF than for EOT, consistent with the divergence living in the identify-and-describe sub-capacities.
+Once interoception is partitioned this way, the alexithymia link fractures. A large 2024 systematic review and meta-analysis — 32 studies, 7,819 participants — found a reliable association between alexithymia and *maladaptive subjective* interoceptive beliefs (confusion, hypervigilance, distrust of bodily signals), while noting that "previous meta-analyses have found no significant empirical association between task-based interoceptive accuracy and alexithymia" (Van Bael et al., 2024). The association, in other words, sits with self-reported *sensibility* and metacognition, not with objective *accuracy*. The relationship also proved stronger for DIF and DDF than for EOT, consistent with the divergence living in the identify-and-describe sub-capacities. Both sides of these associations are self-report questionnaires, however, whereas the accuracy null sets a questionnaire against a performance task; the [self-blindness](/concepts/self-blindness/#clinical) page notes the same reliance on self-report for the TAS-20. The authors write that DIF's links with interoceptive self-report scales, the strongest of any facet, "could be due to specific aspects of scale construction or to more general features of emotion generation processes"; on the scale-construction side, two items in the TAS-20's DIF scale came from the Eating Disorder Inventory's interoceptive-awareness scale.
 
-The upshot is a **relocation of the divergence from the phenomenal layer to the access layer**. High-alexithymia individuals are not, on current evidence, straightforwardly missing the bodily signal; they diverge in how they interpret, categorise, trust and report it. One general-population study found the accuracy relationship better described as quadratic than linear (Aaron, Blain, Snodgress & Park, 2020), further undercutting a simple sensory-deficit reading. This matters for the Map because it moves alexithymia out of the "damaged sensor" cell and into the more interesting "different reporting architecture" cell — precisely the cell the introspection-architecture programme, explained below, is built to probe.
+The upshot is a **relocation of the divergence from the sensed signal to the access layer**, which by itself leaves open whether the felt affect differs. High-alexithymia individuals are not, on current evidence, straightforwardly missing the bodily signal; they diverge in how they interpret, categorise, trust and report it. One general-population study found the accuracy relationship better described as quadratic than linear (Aaron, Blain, Snodgress & Park, 2020), further undercutting a simple sensory-deficit reading. This matters for the Map because it moves alexithymia out of the "damaged sensor" cell and into the more interesting "different reporting architecture" cell — precisely the cell the introspection-architecture programme, explained below, is built to probe.
 
 ## The honest headline: present-but-inaccessible versus absent is unresolved
 
@@ -85,7 +85,7 @@ The Map treats alexithymia as an **exhibit** in the phenomenal-divergence progra
 
 Two honest caveats belong in the same breath. First, alexithymia is a graded trait in the general population, not a lesion population, so it is a cleaner *dial* but a weaker *different-architecture* case than blindsight. Second, no located study directly asks whether high-alexithymia individuals report the irreducibility signature itself — the exhibit is currently *predicted*, not *confirmed*. The divergence-cluster test is a research programme, not a settled result.
 
-The heterogeneity is where Tenet 5 (Occam's Razor Has Limits) bites. The evidence resists a tidy reductive story: the deficit reading, the access-relocation reading, and the blunted-affect reading each capture part of a mixed literature, and the simplest single mechanism is exactly what the data decline to supply. Preferring the neatest account here would be the kind of premature simplification the tenet warns against. The [somatic-interface](/concepts/somatic-interface/) treatment and the [interoceptive-void](/voids/interoceptive-void/) both use alexithymia in this same key — as a trait-level dial on the opacity of the body's interior — and this page supplies the divergence-cluster framing they point to.
+The heterogeneity is where Tenet 5 (Occam's Razor Has Limits) bites. The evidence resists a tidy single-mechanism story: the deficit reading, the access-relocation reading, and the blunted-affect reading each capture part of a mixed literature, and the simplest single mechanism is exactly what the data decline to supply. Preferring the neatest account here would be the kind of premature simplification the tenet warns the Map against; heterogeneity of mechanism is no evidence against a physical account. The [somatic-interface](/concepts/somatic-interface/) treatment and the [interoceptive-void](/voids/interoceptive-void/) both use alexithymia in this same key — as a trait-level dial on the opacity of the body's interior — and this page supplies the divergence-cluster framing they point to.
 
 ## Further Reading
 

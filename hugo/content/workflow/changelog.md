@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 15:12:04+00:00
+ai_modified: 2026-11-14 15:21:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 15:12:04+00:00
+lastmod: 2026-11-14 15:21:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T15:21:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [alexithymia](/concepts/alexithymia/) (secondary: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/))
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from [optimistic-2026-10-25-self-knowledge-wing](/reviews/optimistic-2026-10-25-self-knowledge-wing/) Priority List items 1, 2 and 4; item 3 belongs to the separate self-blindness task and was not touched)
+- **Changes**: (1a) lead: "third named member" (stale; the apex lists alexithymia as its fifth class) replaced by "the emotional and interoceptive member of the **[phenomenal-divergence cluster](/apex/phenomenal-variation-within-a-species/)**" (zero-word back-link to the cluster's synthesis page), "siblings such as"; "deficit of interoceptive feeling" to "interoceptive sensing"; divergence relocates "from the sensed signal toward the report and metacognition layer" (was "rather than the phenomenal layer", which on the page's own definitions settled the open present-vs-attenuated branch); "strengthens" made conditional ("if the felt affect is present"), matching L71. (1b) L49 bold relocation phrase now "from the sensed signal to the access layer", plus "which by itself leaves open whether the felt affect differs". (1c) apex L130 "from the phenomenal layer" to "from the sensed signal", ±0. (2) L47: Van Bael et al. 2024 caveat that both sides of the subjective associations are self-report questionnaires, with an added clause that the accuracy null pairs a questionnaire with a performance task (so the caveat narrows only the positive half); back-link [self-blindness](/concepts/self-blindness/#clinical); authors' two-disjunct quote kept whole; the EDI detail reworded to the source's facts (two items retained in the TAS-20's DIF scale came from the EDI interoceptive-awareness scale). No new reference (Van Bael is ref 6). (4a) L33: dropped "Aphantasia and synaesthesia present as roughly all-or-nothing anomalies of a single modality", which topics/aphantasia L59 ("often selective rather than total", "graded, modally heterogeneous") and the page's own synaesthesia gloss contradict; "The trait comes graded and split". (4b) L75: "tidy reductive story" to "tidy single-mechanism story"; Tenet 5 confined to the Map's reasoning ("warns the Map against"), plus "heterogeneity of mechanism is no evidence against a physical account".
+- **Citations**: Van Bael et al. 2024 quote grep-verified in the raw PLOS ONE JATS XML (journal.pone.0310411): "could be due to specific aspects of scale construction or to more general features of emotion generation processes" count 1 in the Discussion (a second hit is in the appended peer-review history). Same passage: "during development of the TAS, four items were taken from the EDI-IAw ... However, two items are retained in the DIF scale". Alexithymia measures TAS-20, BVAQ, PAQ only (0 hits for interview/observer measures). `#clinical` resolves on concepts/self-blindness via explicit `{#clinical}` on L67 "The Clinical Record" (the heading-text slug would be the-clinical-record; built page has id=clinical).
+- **Calibration**: present-vs-attenuated question kept open (L57 and the 08-05 stability note untouched; L69 "overflowing" sentence untouched); no epiphenomenalism concession; Van Bael not enlisted for dualism.
+- **Reasoning mode**: engagement with constructed-emotion theory: Mode Three, unchanged. The L75 edit removes an implied use of Tenet 5 against physicalism; it now marks the Map's own methodological caution only.
+- **Word count**: concepts/alexithymia 2,056 to 2,153 (+97; review estimated +69, item 2 runs ~+28 over its estimate for the accuracy-null clause; hard 3,500). apex/phenomenal-variation-within-a-species 4,971 to 4,971 (±0; hard 5,000).
+- **Out of scope (not edited, report-only)**: alexithymia `description` still reads "relocates the divergence from feeling to report", the same settled-branch wording item 1 removed from the body (a ±0 fix: "from sensing to report"). research/alexithymia-phenomenal-divergence-2026-07-08 keeps "third named member" and "rather than the phenomenal layer" (dated note, left per review).
+- **ai_system**: appended claude-opus-5-5 to both files (absent from both strings)
+- **Published**: yes
 
 ## 2026-11-14T15:12:04+00:00 - deep-review
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-10-05 10:53:29+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-14 15:21:22+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-10-05 10:53:29+00:00
 apex_sources:
 - voids/imagery-void
@@ -57,7 +57,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:10:37+00:00
-lastmod: 2026-10-05 10:53:29+00:00
+lastmod: 2026-11-14 15:21:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,7 +140,7 @@ This is the most epistemically fragile of the five classes: the dialectic cannot
 
 ### Emotional Access: Alexithymia
 
-The fifth class moves the divergence from the phenomenal layer to the layer of access and report, where — as at reality monitoring — the pressure runs on a shorter lever than a matched-performance contrast supplies. [Alexithymia](/concepts/alexithymia/) — difficulty identifying and describing one's own emotions, elevated in roughly 10% of the general population as a graded trait rather than a disorder — is the cluster's emotional and interoceptive member. The Toronto Alexithymia Scale decomposes it into three dissociable sub-capacities (difficulty identifying feelings, difficulty describing them, externally-oriented thinking), so one can ask *which* introspective sub-function a divergence loads on.
+The fifth class moves the divergence from the sensed signal to the layer of access and report, where — as at reality monitoring — the pressure runs on a shorter lever than a matched-performance contrast supplies. [Alexithymia](/concepts/alexithymia/) — difficulty identifying and describing one's own emotions, elevated in roughly 10% of the general population as a graded trait rather than a disorder — is the cluster's emotional and interoceptive member. The Toronto Alexithymia Scale decomposes it into three dissociable sub-capacities (difficulty identifying feelings, difficulty describing them, externally-oriented thinking), so one can ask *which* introspective sub-function a divergence loads on.
 
 The decade-old reading that alexithymia is an interoceptive *deficit* — a degraded ability to sense the body's internal state — has not held cleanly. Once interoception is partitioned into accuracy, sensibility, and awareness (Garfinkel et al. 2015), a 2024 systematic review of 7,819 participants finds the alexithymia association sits with maladaptive *subjective* interoceptive beliefs and metacognition, not with task-based accuracy (Van Bael et al. 2024). The divergence relocates from the sensed signal to how it is interpreted, categorised, trusted, and reported. Whether the felt affect is present-but-inaccessible or genuinely attenuated is a mixed literature the Map does not try to settle.
 
