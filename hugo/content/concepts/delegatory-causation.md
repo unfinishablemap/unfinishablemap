@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-11-12 13:20:47+00:00
+ai_modified: 2026-11-14 01:34:19+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[consciousness-bandwidth-architecture]]'
 - '[[trumping-preemption]]'
 created: 2026-02-15
-date: &id001 2026-11-12
+date: &id001 2026-11-14
 description: 'Bradford Saad''s mechanism for mental causation: experiences preempt
   the default causal profile of brain states by trumping rather than competing—a proposed
   answer to the exclusion problem, free of overdetermination but empirically silent.'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-25 08:55:24+00:00
-lastmod: 2026-11-12 13:20:47+00:00
+lastmod: 2026-11-14 01:34:19+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
@@ -173,11 +173,11 @@ Delegatory causation supports multiple tenets of the Map's framework.
 
 **[Dualism](/tenets/#dualism)**: The mechanism presupposes that consciousness and physical processes are ontologically distinct. Only if experiences are not identical with brain states can they *take over* causal work rather than merely being redescriptions of it. If experience just *is* the brain state under a different description, there is no default profile to preempt—the distinction collapses. Constitution models eliminate the gap; delegation requires it.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Delegation provides the causal structure for the Map's third tenet. Consciousness causally influences the physical world—not by adding a competing cause alongside physical states, but by taking over causal work those states would otherwise perform. Reports about consciousness are genuinely caused by conscious experiences, avoiding the self-undermining charge against epiphenomenalism.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Delegation offers one causal structure for the Map's third tenet. Consciousness causally influences the physical world—on this structure, not by adding a competing cause alongside physical states, but by taking over causal work those states would otherwise perform. Reports about consciousness are genuinely caused by conscious experiences, avoiding the self-undermining charge against epiphenomenalism.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. These operate at different levels—mechanism and structure—and the two sit in real tension. Biasing an indeterminate quantum outcome is difference-making, whereas delegatory trumping is difference-making-free and violates closure only unobservably; Saad himself classes quantum interactionism, a different theory from delegatory dualism, as violating even *observational* closure. The quantum-selection channel and the trumping route are therefore best read as distinct and potentially competing mechanisms ([bidirectional-interaction](/concepts/bidirectional-interaction/)), not two descriptions of one process. Where the Map once joined them—the since-withdrawn [delegation-selection bridge](/topics/delegation-meets-quantum-selection/)—consciousness biased outcomes (mechanism) and this biasing was offered as what delegation amounts to (structure). The [invertebrate test case](/topics/invertebrate-consciousness-as-interface-test/) sharpens this: if delegation occurs wherever architecturally adequate systems couple with consciousness, a bee's brain delegates through the same preemption structure as a human cortex—the mechanism must be scale-independent.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation was offered as the *causal structure* for that interface, at a different level from the mechanism, but the two sit in real tension. Biasing an indeterminate quantum outcome is difference-making, whereas delegatory trumping is difference-making-free and violates closure only unobservably; Saad himself classes quantum interactionism, a different theory from delegatory dualism, as violating even *observational* closure. The quantum-selection channel and the trumping route are therefore best read as distinct and potentially competing mechanisms ([bidirectional-interaction](/concepts/bidirectional-interaction/)), not two descriptions of one process. Where the Map once joined them—the since-withdrawn [delegation-selection bridge](/topics/delegation-meets-quantum-selection/)—consciousness biased outcomes (mechanism) and this biasing was offered as what delegation amounts to (structure). The [invertebrate test case](/topics/invertebrate-consciousness-as-interface-test/) sharpens this: if delegation occurs wherever architecturally adequate systems couple with consciousness, a bee's brain delegates through the same preemption structure as a human cortex—the mechanism must be scale-independent.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The Born-rule identification makes the Map's rejection of MWI essential to integrating delegation with quantum mechanics. If all quantum outcomes occur in parallel branches, there is no selection among them—and therefore no preemption of the Born-rule profile by experience. On the Map's reading, delegation requires that one outcome becomes actual while others are excluded; this requirement attaches to the quantum bridge specifically, not to Saad's determinism-compatible mechanism in the abstract.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The Born-rule identification makes the Map's rejection of MWI essential to integrating delegation with quantum mechanics. If all quantum outcomes occur in parallel branches, there is no selection among them, though preemption could still be branch-local. That the unchosen outcomes be globally excluded is a [posit the Map adopts](/tenets/background-commitments/), attaching to the Born-rule reading, not to Saad's determinism-compatible mechanism in the abstract.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Delegation is more complex than epiphenomenalism, and its advantage is not empirical but structural: it avoids the self-undermining charge that epiphenomenalism's account of introspection faces. Whether this rational-endorsability advantage justifies the added complexity is itself a philosophical judgement. The Map's fifth tenet—that parsimony is unreliable with incomplete knowledge—provides a framework for making that judgement, but does not settle it.
 

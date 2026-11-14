@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 00:28:48+00:00
+ai_modified: 2026-11-14 01:34:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 00:28:48+00:00
+lastmod: 2026-11-14 01:34:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T01:34:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Task**: todo.md P2 refine-draft (tenet-check 165 Priority 1, W1/W2; Tenets 2, 3, 4): L172/L174/L176 still stated the withdrawn delegation–quantum fusion as current, and L174 contradicted the rest of its paragraph
+- **Review file**: [tenet-check-2026-11-14](/reviews/tenet-check-2026-11-14/)
+- **Original score**: 7/10 (estimated; `scripts/curate.py` absent). Converged page with a withdrawal residue confined to the tenet section
+- **Changes**: all three OLD strings re-grepped at count 1 and replaced as scripted. (a) L172 "Delegation provides the causal structure for the Map's third tenet" → "offers one causal structure" (0). (b) L174 "Delegation provides the *causal structure* for that interface. These operate at different levels…" → "Delegation was offered as the *causal structure* for that interface, at a different level from the mechanism, but the two sit in real tension" (+3); the past tense now agrees with the paragraph's "since-withdrawn" bridge and "once joined", and the rest of L174 is untouched. (c) L176 now says preemption could still be branch-local and marks global exclusion of the unchosen outcomes as a [background-commitments](/tenets/background-commitments/) posit attaching to the Born-rule reading, not to "the quantum bridge" (−8), matching `delegation-meets-quantum-selection` L112. One follow-on outside the script: L172's next sentence stated the trumping "how" ("by taking over causal work…") as the flat way consciousness acts, so "on this structure," was inserted after the dash (+3). The tenet clause "Consciousness causally influences the physical world" stays a flat commitment; only the mechanism is scoped to delegation
+- **Coordination held**: the difference-making vs trumping operator decision (todo ~L5223) was not made; every new string holds under either option. No [P-Q2](/positions/quantum-interface/#p-q2)-quantifier sentence touched (L146 "unchanged at every grain" untouched). The withdrawal is not re-litigated
+- **Not done**: the report's optional rider (`topics/delegatory-dualism` L208/L224, `topics/delegation-meets-quantum-selection` L112 "the bridge's" → "delegation's") was outside this task's file scope. Residue left for the L5223 decision: the lead (L49) still says the Map "treats delegatory causation as the preferred causal structure for [interactionist-dualism](/concepts/interactionist-dualism/)"
+- **Reasoning mode**: n/a (no named-opponent reply edited)
+- **Length**: 3,490 → 3,488 (−2; concepts hard 3,500, gate `>=`)
+- **Published**: yes
+
+## 2026-11-14T01:06:36+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 95 (delta check 165: every concepts/topics/voids/apex/tenets file changed since check 164's scan HEAD `d50bfdcb62`; the eleven brief-named regraded pages and the new `voids/weeping-void` read by the driver, 84 pages by five read-only subagents, all findings rechecked by the driver at count 1)
+- **Errors**: 0
+- **Warnings**: 14
+- **Notes**: 11
+- **Lead findings**: no regrade concedes epiphenomenalism or demotes a tenet. `concepts/delegatory-causation` L172/L174 still state the withdrawn delegation–quantum fusion as the structure of Tenets 2 and 3, and L176 denies branch-local preemption against its sibling; `topics/amplification-mechanisms-consciousness-physics` L181 (carried from check 138) and `concepts/mental-effort` L98 grade epiphenomenalism's difficulty as its refutation; `concepts/types-of-consciousness` L130 applies No Many Worlds to distributed AI, which the tenets matrix marks "Not invoked"; `concepts/problem-of-other-minds` L198 says behavioural evidence "reveals that consciousness is at work"
+- **New pages**: `voids/weeping-void` and `voids/wakefulness-void` pass.
+- **Landed**: check 164 Priority 1 (`concepts/coupling-modes` L82/L162, commit `118506c588`).
+- **Tasks minted**: 0 (reports only; Priority List carries four scripted OLD/NEW items)
+- **Output**: [tenet-check-2026-11-14](/reviews/tenet-check-2026-11-14/)
 
 ## 2026-11-14T00:28:48+00:00 - refine-draft
 - **Status**: Success
