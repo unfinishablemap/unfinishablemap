@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-11-01 03:24:22+00:00
+ai_modified: 2026-11-14 15:53:12+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-25 14:16:29+00:00
-lastmod: 2026-11-01 03:24:22+00:00
+lastmod: 2026-11-14 15:53:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ Transparency generates a distinctive epistemic problem. If every verification to
 
 William Alston formalised this as epistemic circularity: defending the reliability of a belief source by relying on premises from that same source. You cannot verify perception's accuracy without perceiving; you cannot verify reasoning's reliability without reasoning. Alston argued this circularity is not logically vicious but structurally inescapable — a feature of epistemic justification, not a failure of imagination.
 
-Peter Carruthers pushes the circularity further in *The Opacity of Mind* (2011), arguing that self-knowledge is fundamentally interpretive: we know our own mental states through the same third-person interpretive mechanisms we apply to others, not through privileged introspective access. If Carruthers is right, transparency conceals something more radical than mediation — it conceals the fact that direct introspective access was never available in the first place. On this view, phenomenal opacity is not an occasional disruption of normal function but the default epistemic situation — what varies is how effectively transparency conceals this fact.
+Peter Carruthers pushes the circularity further in *The Opacity of Mind* (2011), arguing that [knowledge of our own attitudes is interpretive](/concepts/interpretive-sensory-access-theory/): we know our beliefs and desires through the same mechanisms we apply to others, not through privileged introspective access, though he holds perceptual and imagistic experience introspectible. If Carruthers is right, transparency conceals something more radical than mediation for attitudes: direct introspective access to them was never available. On this view, the mind's opacity to itself is, for attitudes, the default epistemic situation rather than an occasional disruption — what varies is how effectively transparency conceals this fact.
 
 The problem sharpens when combined with Donald Hoffman's [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/). Hoffman argues evolution selects perceptual strategies tuned to fitness rather than truth: "Veridical perceptions — strategies tuned to the true structure of the world — are routinely dominated by nonveridical strategies tuned to fitness." The theorem is contested — critics argue that fitness-relevant perception often tracks truth usefully — but even moderate versions create trouble when combined with transparency. If perception is optimised substantially for survival rather than accuracy, and transparency prevents us from detecting this, we face a compound problem: representations may be systematically non-veridical, and we cannot detect the distortion because the distortion conceals itself.
 

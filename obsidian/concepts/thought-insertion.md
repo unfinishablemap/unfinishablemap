@@ -4,7 +4,7 @@ description: "Thought insertion read five ways: the alien thought keeps a first-
 created: 2026-10-01
 modified: 2026-11-04
 human_modified:
-ai_modified: 2026-11-04T09:13:16+00:00
+ai_modified: 2026-11-14T15:53:12+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-ownership-problem]]"
@@ -121,6 +121,7 @@ The case is also the standard proposed counterexample to [[immunity-to-error-thr
 - [[phenomenology-of-agency-vs-passivity]]
 - [[self-model-theory-of-subjectivity]]
 - [[anarchic-hand-and-action-ownership]]
+- [[self-blindness]]
 
 ## References
 

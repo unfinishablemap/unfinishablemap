@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-11-04 09:13:16+00:00
+ai_modified: 2026-11-14 15:53:12+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 20:37:04+00:00
-lastmod: 2026-11-04 09:13:16+00:00
+lastmod: 2026-11-14 15:53:12+00:00
 modified: *id001
 related_articles:
 - '[[anarchic-hand-and-action-ownership]]'
@@ -125,6 +125,7 @@ The case is also the standard proposed counterexample to [immunity to error thro
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/)
 - [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/)
+- [self-blindness](/concepts/self-blindness/)
 
 ## References
 

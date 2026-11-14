@@ -4,7 +4,7 @@ description: "Why 'I feel pain' cannot mistake whose pain it is, why thought ins
 created: 2026-10-04
 modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-21T15:48:47+00:00
+ai_modified: 2026-11-14T15:53:12+00:00
 draft: false
 topics:
   - "[[kants-paralogisms-and-the-maps-subject]]"
@@ -121,6 +121,7 @@ The Kant article's verdict stands: the Map *posits* its subject rather than infe
 - [[indexical-knowledge-and-identity]] — first-person knowledge
 - [[singular-thought-and-acquaintance]] — Evans's Russell's Principle and the acquaintance requirement
 - [[positions/individuation-and-subjecthood]] — P-I1 and P-I2
+- [[self-blindness]] — Shoemaker's thesis that a rational subject cannot lack the capacity for access to its own attitudes
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-10-31 11:43:16+00:00
+ai_modified: 2026-11-14 15:53:12+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-23 13:48:48+00:00
-lastmod: 2026-10-31 11:43:16+00:00
+lastmod: 2026-11-14 15:53:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ Implicit bias is where the camps meet. The case to hold fixed is conceptual: an 
 
 Both assumptions are shaky. Participants in Hahn and colleagues' studies (2014) "were surprisingly accurate in their predictions" of their own implicit-test results, which "cast doubt on the belief that attitudes or evaluations measured by the IAT necessarily reflect unconscious attitudes". The measurement record is contested: Oswald and colleagues (2013) found that "IATs were poor predictors of every criterion category other than brain activity", while Kurdi and colleagues (2019) reported stronger relations under favourable designs and judged "most studies were vastly underpowered". The Map's [alief article](/topics/alief-and-acting-against-belief/#empirical-record) sets out the record.
 
-Levy's verdict is that "implicit attitudes are too weak a peg to hang moral responsibility on" (p. 96): having "thin, and morally empty, content", they cannot express the real self (p. 102). An Oxford seminar abstract under the title of his *Noûs* paper (2014b) concedes that "We appear regularly to be aware of the content of our implicit attitudes", and argues that such awareness "is not sufficient for moral responsibility for actions caused by them". The unawareness that matters concerns an attitude's influence on a given act rather than the attitude's existence.
+Levy's verdict is that "implicit attitudes are too weak a peg to hang moral responsibility on" (p. 96): having "thin, and morally empty, content", they cannot express the real self (p. 102). An Oxford seminar abstract under the title of his *Noûs* paper (2014b) concedes that "We appear regularly to be aware of the content of our implicit attitudes", and argues that such awareness "is not sufficient for moral responsibility for actions caused by them". The unawareness that matters concerns an attitude's influence on a given act rather than the attitude's existence. Sydney Shoemaker's thesis that a rational subject cannot be [self-blind](/concepts/self-blindness/) concerns access to one's attitudes, not to their influence on a given act, so it leaves this unawareness open.
 
 The opponents disagree among themselves. Holroyd (2012) argues there is "some reason to suppose that individuals are, at least sometimes, liable to blame for the extent to which they are influenced in behaviour and judgment by implicit biases". Washington and Kelly (2016) hold that "people can be responsible for actions that are influenced by implicit biases they do not know they have, and would disavow if they did", because the relevant knowledge "need not be 'in the head' of the agent". For an agent who consciously holds egalitarian views yet takes someone's race as a reason not to trust or hire that person, Smith holds that "an answerability demand directed toward her racist reactions still makes perfect sense" (2012, n. 10), while granting that experimental evidence cannot yet settle whether such reactions embody evaluative judgments (n. 11).
 
@@ -124,7 +124,7 @@ One limit remains. A necessary condition need not be a cause: an epiphenomenalis
 
 ## Where the Map's Responsibility Pages Sit {#map-pages}
 
-Before this article, no Map page the 2026-10-23 search found discussed Levy's consciousness thesis, Sher's *Who Knew?*, Smith's rational relations view or the *Stanford* entry's epistemic-condition taxonomy. Several pages nonetheless lean on a consciousness condition.
+Several Map pages lean on a consciousness condition.
 
 The [moral responsibility](/concepts/moral-responsibility/) concept asserts: "Moral responsibility requires consciousness." Its self-knowledge clause adds: "Responsible agents know what they're doing. Consciousness provides this—you experience your intentions and recognize the meaning of your actions." Levy supports the first sentence only in his informational sense. The second reads the knowledge condition phenomenally, which is the Map's extension and carries its costs. The same page says consciousness "is necessary for that standing without conferring it", a claim about standing close to Madva's capacity thesis.
 

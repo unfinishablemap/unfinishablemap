@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-21 15:48:47+00:00
+ai_modified: 2026-11-14 15:53:12+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 12:01:23+00:00
-lastmod: 2026-10-21 15:48:47+00:00
+lastmod: 2026-11-14 15:53:12+00:00
 modified: *id001
 related_articles:
 - '[[self-opacity]]'
@@ -125,6 +125,7 @@ The Kant article's verdict stands: the Map *posits* its subject rather than infe
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — first-person knowledge
 - [singular-thought-and-acquaintance](/topics/singular-thought-and-acquaintance/) — Evans's Russell's Principle and the acquaintance requirement
 - [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) — [P-I1](/positions/individuation-and-subjecthood/#p-i1) and [P-I2](/positions/individuation-and-subjecthood/#p-i2)
+- [self-blindness](/concepts/self-blindness/) — Shoemaker's thesis that a rational subject cannot lack the capacity for access to its own attitudes
 
 ## References
 
