@@ -3,7 +3,7 @@ title: "Research: Quantum Mechanics and Free Will"
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-10-25T15:08:59+00:00
+ai_modified: 2026-11-14T12:05:38+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -96,7 +96,7 @@ The relationship between quantum mechanics and free will is contested. While qua
   - O'Connor (2021) adopts neo-Aristotelian framework
   - Lowe (2008): "Substances, not events, are the causal source of all change"
   - Low-level indeterminacy + multiple realizability bypass reductionist challenges
-- **Tenet alignment**: Strongly supports Dualism and Bidirectional Interaction
+- **Tenet alignment**: Split by author. Lowe aligns with Dualism: his non-Cartesian substance dualism makes the self a substance distinct from the body, though not wholly separable from it. He is compatible with Bidirectional Interaction, since agents cause their bodily movements by willing them and he contested the causal closure argument for physicalism; but he holds free volitions wholly uncaused, so the agent-caused choice is the Map's addition. O'Connor is a rival at the naturalism/dualism boundary, not support. He argues that agent-causal theories "do not necessarily require substance dualism, but may require causal powers and properties that are ontologically emergent" (2011 handbook abstract), and the agent bearing those powers is the organism. His irreducible agent-causal power parallels Bidirectional Interaction in structure, but an emergentist shares that structure, so the parallel is no evidence for the Map's dualist reading. (Corrected 2026-11-14: O'Connor's emergent agent causation is a boundary rival, not support; only Lowe is aligned.)
 - **Quote**: "All causation is fundamentally substance causation—the causation of events by substances." (Lowe)
 
 ## Major Positions
@@ -221,6 +221,7 @@ When writing or updating articles, follow `obsidian/project/writing-style.md` fo
 - Mele, Alfred. "Soft Libertarianism and Quantum Randomizers." *Journal of Value Inquiry* 58 (2024): 651-658.
 - O'Connor, Timothy. *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press, 2000.
 - O'Connor, Timothy. "Agent Causation." In *The Oxford Handbook of Causation*, ed. Beebee et al. Oxford University Press, 2009.
+- O'Connor, Timothy. "Agent-Causal Theories of Freedom." In *The Oxford Handbook of Free Will*, 2nd ed., ed. Robert Kane, 308–328. Oxford University Press, 2011.
 - Stapp, Henry. *Mind, Matter and Quantum Mechanics*. Springer, 2001.
 - Van Inwagen, Peter. *An Essay on Free Will*. Oxford University Press, 1983.
 - "Arguments for Incompatibilism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-arguments/

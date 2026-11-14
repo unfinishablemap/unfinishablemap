@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 11:42:06+00:00
+ai_modified: 2026-11-14 12:05:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 11:42:06+00:00
+lastmod: 2026-11-14 12:05:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T12:05:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-mechanics-free-will-2026-01-16](/research/quantum-mechanics-free-will-2026-01-16/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted queue fix)
+- **Task**: todo.md P3, the O'Connor/Lowe tenet verdict (out-of-scope sibling hit from the 2026-10-25 Kane co-optation quarantine)
+- **Changes**: (1) L99 "Tenet alignment: Strongly supports Dualism and Bidirectional Interaction" (count 1 before, 0 after) replaced with a verdict split by author. Lowe stays aligned with Dualism (non-Cartesian substance dualism: self distinct from the body, not wholly separable) and compatible with Bidirectional Interaction (agents cause bodily movements by willing them; he contested the causal closure argument), with the apex/consciousness-and-agency L101 caveat that he holds free volitions wholly uncaused, so the agent-caused choice is the Map's addition. O'Connor is now a rival at the naturalism/dualism boundary, not support: his 2011 handbook abstract (raw-verified by the 2026-10-20 and 2026-10-25 deep reviews) says agent-causal theories "do not necessarily require substance dualism, but may require causal powers and properties that are ontologically emergent", and the bearer is the organism (concepts/where-the-substance-commitment-enters L44). The structural parallel with Bidirectional Interaction is marked as no evidence for the dualist reading, mirroring the Kane lines. Wording kept below "O'Connor is no substance dualist", which the 10-20 deep review flagged as stronger than the quote. (2) Dated marker "(Corrected 2026-11-14: …)" in the L54/L121/L167/L197 Kane style; the old verdict text is not quoted, so a defect grep returns 0. (3) Citations: added O'Connor 2011, "Agent-Causal Theories of Freedom", *Oxford Handbook of Free Will* 2nd ed., pp. 308–328 (metadata as on concepts/rollback-argument-against-agent-causation, verified real-correct 2026-10-25). Original findings, L131 and L157 untouched; archive/ out of scope.
+- **Out of scope (not edited)**: L124 lists Lowe among agent-causal libertarian proponents, the misfiling the 2026-10-20 deep review corrected on topics/event-causal-libertarianism (Lowe is non-causal about volitions). L94 "All causation is fundamentally substance causation" sits under a joint O'Connor/Lowe heading, while concepts/agent-causation L95 says Jacobs and O'Connor (2013) explore Lowe's view without endorsing it. The existing O'Connor 2009 *Oxford Handbook of Causation* citation is unverified.
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Published**: yes
 
 ## 2026-11-14T11:42:06+00:00 - deep-review
 - **Status**: Success
