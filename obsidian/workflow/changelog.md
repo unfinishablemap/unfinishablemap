@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T00:28:48+00:00
+ai_modified: 2026-11-14T01:06:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T01:06:36+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 95 (delta check 165: every concepts/topics/voids/apex/tenets file changed since check 164's scan HEAD `d50bfdcb62`; the eleven brief-named regraded pages and the new `voids/weeping-void` read by the driver, 84 pages by five read-only subagents, all findings rechecked by the driver at count 1)
+- **Errors**: 0
+- **Warnings**: 14
+- **Notes**: 11
+- **Lead findings**: no regrade concedes epiphenomenalism or demotes a tenet. `concepts/delegatory-causation` L172/L174 still state the withdrawn delegation–quantum fusion as the structure of Tenets 2 and 3, and L176 denies branch-local preemption against its sibling; `topics/amplification-mechanisms-consciousness-physics` L181 (carried from check 138) and `concepts/mental-effort` L98 grade epiphenomenalism's difficulty as its refutation; `concepts/types-of-consciousness` L130 applies No Many Worlds to distributed AI, which the tenets matrix marks "Not invoked"; `concepts/problem-of-other-minds` L198 says behavioural evidence "reveals that consciousness is at work"
+- **New pages**: `voids/weeping-void` and `voids/wakefulness-void` pass.
+- **Landed**: check 164 Priority 1 (`concepts/coupling-modes` L82/L162, commit `118506c588`).
+- **Tasks minted**: 0 (reports only; Priority List carries four scripted OLD/NEW items)
+- **Output**: [[reviews/tenet-check-2026-11-14]]
 
 ## 2026-11-14T00:28:48+00:00 - refine-draft
 - **Status**: Success

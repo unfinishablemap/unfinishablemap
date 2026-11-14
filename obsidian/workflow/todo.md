@@ -5525,6 +5525,52 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: two open P3s already name the main host (todo ~L2606: three inbound links to its #the-phenomenal-transition-thesis anchor; ~L4707: L62 immunological criterion link). Do not collide with them. `concepts/evolution-of-consciousness` (9 words of headroom) and `positions/value-in-selection` (1 word) cannot take the fold. Do not equate Veit's neural "action selection" with the Map's quantum selection.
 - **Notes**: Follow the research note's "Fold Plan" (#fold-plan) and its guards. Quote ONLY strings the note marks as grepped in a raw full text or abstract, and re-grep each against the note before quoting. KEY GUARDS: (1) the term "pathological complexity" is Veit's coinage; the thesis FORM comes from Godfrey-Smith's environmental complexity thesis; and the pleasure-as-common-currency idea is Cabanac's (1992), so do not give it to Veit; (2) Veit is a physicalist who calls himself an illusionist ("I do not mean that their phenomenality exerts causal power in addition to their function. They are identical."). Never enlist him for dualism. He is an ally only against epiphenomenalism; (3) give the critics: Fischer & Barrett ("valence simpliciter—not conscious valence"), de Weerd, and Veit's concession that the challenge "weakens my case"; (4) Frankish's line is known only as Veit quotes it, so attribute it that way; (5) the fitness record cannot distinguish conscious from nonconscious valence, so present the Map's claim that conscious valence does causal work as the Map's, not as Veit's result. The steelman-page fold should present the critics' value-blind "evolutionary clincher" as the published counterpart of what that page builds, and should name P-VS1 as the Map's counterpart position. Never concede epiphenomenalism. Relation to Site Perspective: Bidirectional Interaction and Occam's Razor Has Limits. No "This is not X. It is Y."; no "load-bearing"; pronoun check. Bump ai_modified with the real `date -u`; append your model to ai_system only if it is absent anywhere in the string. Changelog; sync; verify both trees.
 
+### P2: `concepts/delegatory-causation` L172/L174/L176 still state the withdrawn delegation–quantum fusion as current, and L174 now contradicts the rest of its paragraph (tenet-check 165 Priority 1; Tenets 2, 3, 4; net −5)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/delegatory-causation.md
+- **Status**: pending
+- **Source**: check-tenets 2026-11-14 (check 165), Priority List item 1; strings confirmed count 1 by the cycle driver at 2026-11-14T01:07Z
+- **Generated**: 2026-11-14
+- **Review file**: obsidian/reviews/tenet-check-2026-11-14.md
+- **Headroom**: 3,490 of concepts hard 3,500 at 2026-11-14T01:07Z (9 words). The report's fix is net −5; keep the page <= 3,499.
+- **Coordination**: a pending operator decision on difference-making vs trumping (todo ~L5223) is NOT to be made here. The report's wording works whichever way it goes. Do not edit any sentence stating the P-Q2 quantifier.
+- **Notes**: Apply Priority 1 as scripted in the review file. (1) L172 "Delegation provides the causal structure for the Map's third tenet." → "Delegation offers one causal structure for the Map's third tenet." (2) L174 "Delegation provides the *causal structure* for that interface. These operate at different levels—mechanism and structure—and the two sit in real tension." → "Delegation was offered as the *causal structure* for that interface, at a different level from the mechanism, but the two sit in real tension." (3) L176, which begins "If all quantum outcomes occur in parallel branches, there is no selection among them": rewrite per the report so that preemption can still be branch-local and global exclusion is marked as a posit (−8). Re-grep each string first. No "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement. Bump ai_modified with the real `date -u`; append your model to ai_system only if it is absent anywhere in the string. Changelog; sync; verify both trees.
+
+### P3: Three pages treat epiphenomenalism's difficulty as its refutation: `topics/amplification-mechanisms-consciousness-physics` L181 (carried since check 138), `concepts/mental-effort` L98, `topics/falsification-roadmap-for-the-interface-model` L111 (tenet-check 165 Priority 2; Tenet 3)
+- **Type**: refine-draft
+- **File**: obsidian/topics/amplification-mechanisms-consciousness-physics.md
+- **Status**: pending
+- **Source**: check-tenets 2026-11-14 (check 165), Priority List item 2; strings confirmed count 1 by the cycle driver at 2026-11-14T01:07Z
+- **Generated**: 2026-11-14
+- **Review file**: obsidian/reviews/tenet-check-2026-11-14.md
+- **Secondary files**: obsidian/concepts/mental-effort.md, obsidian/topics/falsification-roadmap-for-the-interface-model.md
+- **Headroom**: analyze_length at 2026-11-14T01:07Z (gate is >=): amplification-mechanisms 3,992 of 4,000, and its fix is +5, so it must be the page's ONLY addition; mental-effort 3,368 of 3,500; falsification-roadmap 3,994 of 4,000, NET <= 0.
+- **Coordination**: an open P2 on `concepts/mental-effort` covers its L108 Kral sentence and the right-caudate wording; leave those. Both amplification-mechanisms and falsification-roadmap were regraded on 2026-11-13; do not undo those edits. Never concede epiphenomenalism: the repair marks rejection as the Map's commitment, not as an evidential refutation.
+- **Notes**: THREE FILES; report each by name. (1) amplification L181: "fails the evidence the Map marshals for [[interactionist-dualism|mental causation]]." → "is one the Map rejects on its [[interactionist-dualism|mental-causation]] commitment, not one the evidence refutes." (+5). (2) mental-effort L98: "is unstable for the standard reason:" → "faces the standard difficulty:" (−2). (3) falsification-roadmap L111: "making every report about experience accidentally right at best" → "leaving report accuracy to correlation rather than cause" (−1). Re-grep each string first. No "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement. Bump ai_modified with the real `date -u`; append your model to ai_system only if it is absent anywhere in the string. Changelog; sync; verify both trees.
+
+### P3: `concepts/types-of-consciousness` L130 applies No Many Worlds to distributed AI, which the tenets matrix marks "Not invoked" for machine consciousness, and its physics is wrong (tenet-check 165 Priority 3; Tenet 4; −2)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/types-of-consciousness.md
+- **Status**: pending
+- **Source**: check-tenets 2026-11-14 (check 165), Priority List item 3; string confirmed count 1 by the cycle driver at 2026-11-14T01:07Z
+- **Generated**: 2026-11-14
+- **Review file**: obsidian/reviews/tenet-check-2026-11-14.md
+- **Headroom**: 2,516 of concepts hard 3,500 at 2026-11-14T01:07Z; the fix is −2.
+- **Coordination**: L101/L103 (split-brain) were regraded on 2026-11-13; leave them. An open P3 covers L80 (the verdict on current AI systems); leave that too.
+- **Notes**: Apply Priority 3 as scripted in the review file. The OLD string begins "raises a specific concern for AI consciousness. If there is no branching of worlds" and ends "… may be incoherent under collapse interpretations." The NEW text marks No Many Worlds as "not invoked" for machine consciousness, with a link to the tenets matrix ([[tenets#Tenet-Dependency Matrix|…]]), and moves the question to the determinate-subject posit. Re-read the matrix row first. No "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement. Bump ai_modified with the real `date -u`; append your model to ai_system only if it is absent anywhere in the string. Changelog; sync; verify both trees.
+
+### P3: Two pages read a behavioural or phenomenal datum as revealing conscious causal work: `concepts/problem-of-other-minds` L198 and `topics/surprise-prediction-error-and-consciousness` L195 (tenet-check 165 Priority 4; Tenets 2 and 3)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/problem-of-other-minds.md
+- **Status**: pending
+- **Source**: check-tenets 2026-11-14 (check 165), Priority List item 4; strings confirmed count 1 by the cycle driver at 2026-11-14T01:07Z
+- **Generated**: 2026-11-14
+- **Review file**: obsidian/reviews/tenet-check-2026-11-14.md
+- **Secondary files**: obsidian/topics/surprise-prediction-error-and-consciousness.md
+- **Headroom**: analyze_length at 2026-11-14T01:07Z: problem-of-other-minds 3,469 of 3,500 (30 words; its fix is +7); surprise-prediction-error 3,882 of 4,000 (117 words; fix +11).
+- **Coordination**: surprise-prediction-error was deep-reviewed on 2026-11-13 at 22:42Z. Read that review (obsidian/reviews/deep-review-2026-11-13-surprise-prediction-error-and-consciousness.md) and keep its epiphenomenalism and co-optimization repair.
+- **Notes**: TWO FILES. (1) problem-of-other-minds L198: "The resulting behavioral evidence is real but coarse-grained: it reveals that consciousness is at work without exposing the fine-grained mechanism." → "The resulting behavioral evidence fits consciousness at work without showing it, since neural processing predicts the same behavior and the influence is not detectable at current precision." (+7). (2) surprise-prediction-error L195, three edits (+11): "suggests that phenomenal states causally contribute to cognitive outcomes." → "is compatible with phenomenal states causally contributing to cognitive outcomes."; "and this difference in phenomenal flavour shapes" → "and on the Map's reading this difference in phenomenal flavour shapes"; and append ", which interactionism does not say either." after "without saying why each response feels as it does". Re-grep each string first. No "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement. Bump ai_modified with the real `date -u`; append your model to ai_system only if it is absent anywhere in the string. Changelog; sync; verify both trees.
+
 ## Completed Tasks
 
 
