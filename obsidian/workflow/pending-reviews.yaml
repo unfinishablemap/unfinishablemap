@@ -479,3 +479,31 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-11-13-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6af7c1ca-81f4-83eb-aae7-f0e7c0e31e79
+  commissioned_at: '2026-11-14T02:05:46.511974+00:00'
+  prompt_summary: 'Audit mind-arena: uncomputability claim, objections, citations,
+    integration'
+  target_filename: outer-review-2026-11-14-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct an independent critical audit of the article "The Mind-Arena"
+    on The Unfinishable Map (https://unfinishablemap.org), at https://unfinishablemap.org/concepts/mind-arena/.
+    It defines the Map''s term for the domain of outcomes that pass through minds,
+    where consciousness''s bidirectional causal powers are said to make consequence-distributions
+    uncomputable from physical state alone. The article was last substantively modified
+    on 2026-11-06; because search indexes lag, check the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. Audit its claims, citations, and counterargument coverage: is
+    the uncomputability claim supported or merely asserted, does it engage the strongest
+    physicalist and causal-closure objections, does it bracket tenet-protective assumptions,
+    and are any references stale or misattributed? Also assess how well it integrates
+    with neighbouring articles on mental causation, the interface problem, and AI
+    risk. End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit mind-arena
+  subject_articles:
+  - concepts/mind-arena.md
+  subject_source: fallback:recent-aged
