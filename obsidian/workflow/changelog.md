@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T01:34:36+00:00
+ai_modified: 2026-11-14T01:52:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T01:52:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]]
+- **Secondary file**: [[topics/delegation-meets-quantum-selection]]
+- **Task**: todo.md P3 refine-draft (L1759): locus (3) only, the older "biasing would constitute delegation" framing in §Relation to Quantum Interactionism; loci (1) and (2) were discharged by the 2026-11-09 condense pass (ADDENDUM). Rider: tenet-check 165 Notes 6 and 7
+- **Review files**: [[reviews/deep-review-2026-10-25-delegatory-causation]] (task source); [[reviews/tenet-check-2026-11-14]] (rider)
+- **Original score**: 7/10 (estimated; `scripts/curate.py` absent). The hub `concepts/delegatory-causation` was repaired at 01:34Z today and this spoke still stated the fused picture as live
+- **Changes** (every OLD string re-grepped at count 1 before replacement): (a) L180 "The frameworks are compatible but operate at different levels:" → "The frameworks operate at different levels:" (−3). "Compatible" was half of the pre-07-15 framing the deep review named. (b) L186 "The frameworks could integrate: … this biasing would constitute the physical state delegating its causal role to the experience (the structure). The integration is a proposal, not a result; …" → "The Map once proposed integrating the two: … this biasing was offered as the physical state delegating its causal role to the experience (the structure). Preemption could also run the other way, so experience's authority over the brain state is the dualist's commitment, not the machinery's." The withdrawal sentence becomes "has since withdrawn". The dropped "proposal, not a result" qualifier is superseded by the withdrawal statement, and its "each framework must stand on its own" clause repeats the Part II disclaimer (L174). The new sentence copies the hub's L134 Route 1 symmetry-debt wording verbatim. (c) L188 "may cohere with this integration" → "may cohere with delegation" (−1). This is a referent repair: after (b), "this integration" pointed at the withdrawn fusion, but the paragraph pairs entanglement with delegation only. (d) L208 "necessary for the combined view" → "necessary for that route" (rider Note 6). (e) L224 "relevant only to our quantum integration proposal" → "relevant only to its quantum additions" (rider Note 6). This deviates from the suggested "its quantum-selection route": the hub's L176 (repaired 01:34Z) attaches the global-exclusion posit to the Born-rule reading as well, so "quantum-selection route" alone would understate where MWI rejection matters. "Quantum additions" covers selection and the Born-rule identification, and both are Map additions. (f) SECONDARY `topics/delegation-meets-quantum-selection` L112 "Given the posit, the bridge's dependence" → "delegation's dependence" (rider Note 7; −1)
+- **Coordination held**: the difference-making vs trumping operator decision (todo ~L5223) was not made, and no sentence says which route the Map adopts. P-Q2 quantifier wording untouched. No section structure changed (open P3 condense). The open type-O fold's passage C targets the "Overdeterminism satisfies Efficacy" paragraph, not this one. Epiphenomenalism not conceded; Saad not enlisted beyond his own claims
+- **Not done / leads**: `delegation-meets-quantum-selection` L114 "The bridge is complex —" (tenet-check Note 7, second locus) was not in this brief and is left. On `delegatory-dualism`, L206 "when integrating delegatory dualism with our quantum interactionism", L210 "Map-specific integration point" and Further Reading L240 "(relevant to Map's quantum integration…)" match the hub's surviving L176 "integrating delegation with quantum mechanics" usage, so they are left. L120 (Part I, Saad exposition) "Your verbal report is genuinely caused by your experience" carries no symmetry-debt caveat (lead only). Archive: no hit for "biasing would constitute" or "The frameworks could integrate". `archive/concepts/causal-delegation` L111 "integrate naturally" (already listed by todo L5234) was not edited (NEEDS-HUMAN policy)
+- **Reasoning mode**: n/a (no named-opponent reply edited)
+- **Length**: delegatory-dualism 3,751 → 3,748 (−3; topics hard 4,000, gate `>=`); delegation-meets-quantum-selection 3,211 → 3,210 (−1)
+- **Published**: yes
 
 ## 2026-11-14T01:34:36+00:00 - refine-draft
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-11-12 15:20:13+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-fable-5-2
+ai_modified: 2026-11-14 01:51:40+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -16,14 +16,14 @@ concepts:
 - '[[delegatory-causation]]'
 - '[[entanglement-binding-hypothesis]]'
 created: 2026-01-29
-date: &id001 2026-11-12
+date: &id001 2026-11-14
 description: 'Bradford Saad''s 2025 theory explains how consciousness causes behavior
   without overdetermination: physical states delegate causal responsibilities to experiences.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 01:06:51+00:00
-lastmod: 2026-11-12 15:20:13+00:00
+lastmod: 2026-11-14 01:51:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -180,15 +180,15 @@ What metaphysical mechanism allows a non-physical cause to preempt a physical on
 
 How does delegatory dualism relate to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework?
 
-The frameworks are compatible but operate at different levels:
+The frameworks operate at different levels:
 
 **Quantum interactionism** specifies *where* consciousness interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. This is a claim about mechanism—the physical substrate of mental causation.
 
 **Delegatory dualism** specifies *how* mental causation avoids overdetermination: through delegation and preemption. This is a claim about causal structure—the logic of mind-body interaction.
 
-The frameworks could integrate: quantum indeterminacy might provide the physical mechanism while delegation provides the causal structure. On this picture consciousness biases quantum outcomes (the mechanism), and this biasing would constitute the physical state delegating its causal role to the experience (the structure). The integration is a proposal, not a result; each framework must stand on its own before the combination carries weight. [Delegation Meets Quantum Selection](/topics/delegation-meets-quantum-selection/) developed this integration as a single event; the Map has withdrawn that fusion, because trumping needs a sufficient physical cause and selection an insufficient one, keeping only its own candidate reading that Saad's "default causal profile" corresponds to the Born-rule probability distribution. [One Structure, Three Vocabularies](/topics/one-structure-three-vocabularies/) adds a third register — the bandwidth literature's "prepared options" — and argues the three may be one structure described three ways; crucially, that convergence is a coherence fact about the Map's vocabulary, raising no independent evidence that the default causal profile is real.
+The Map once proposed integrating the two: quantum indeterminacy as the physical mechanism and delegation as the causal structure. Consciousness would bias quantum outcomes (the mechanism), and this biasing was offered as the physical state delegating its causal role to the experience (the structure). Preemption could also run the other way, so experience's authority over the brain state is the dualist's commitment, not the machinery's. [Delegation Meets Quantum Selection](/topics/delegation-meets-quantum-selection/) developed the integration as a single event; the Map has since withdrawn that fusion, because trumping needs a sufficient physical cause and selection an insufficient one, keeping only its own candidate reading that Saad's "default causal profile" corresponds to the Born-rule probability distribution. [One Structure, Three Vocabularies](/topics/one-structure-three-vocabularies/) adds a third register — the bandwidth literature's "prepared options" — and argues the three may be one structure described three ways; crucially, that convergence is a coherence fact about the Map's vocabulary, raising no independent evidence that the default causal profile is real.
 
-The [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) may cohere with this integration—without thereby lending it independent support. An entangled quantum state spanning many neurons would—if macroscopic neural entanglement were physically sustainable, which the [decoherence literature](/topics/decoherence-and-macroscopic-superposition/) renders strongly doubtful at brain temperatures—constitute a single non-decomposable physical state with a collective default causal profile, arguably what Saad's Subset Law* maps to unified experience. On this reading entanglement would provide the physical holism while delegation explains how that unified state's causal work gets taken over by experience, and together they might cohere on complementary aspects of the mind-body problem: entanglement addressing why experience is *unified*, delegation addressing how it is *causally efficacious*. This is a coherence proposal rather than an established result—and consistent with the Part II disclaimer above, the coherence of the combination is not itself evidence for either component. It presupposes both that macroscopic neural entanglement is physically sustainable (a premise the decoherence consensus contests, not merely an open question) and that the entangled state's default profile is the right object for the Subset Law to range over, neither of which is settled.
+The [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) may cohere with delegation—without thereby lending it independent support. An entangled quantum state spanning many neurons would—if macroscopic neural entanglement were physically sustainable, which the [decoherence literature](/topics/decoherence-and-macroscopic-superposition/) renders strongly doubtful at brain temperatures—constitute a single non-decomposable physical state with a collective default causal profile, arguably what Saad's Subset Law* maps to unified experience. On this reading entanglement would provide the physical holism while delegation explains how that unified state's causal work gets taken over by experience, and together they might cohere on complementary aspects of the mind-body problem: entanglement addressing why experience is *unified*, delegation addressing how it is *causally efficacious*. This is a coherence proposal rather than an established result—and consistent with the Part II disclaimer above, the coherence of the combination is not itself evidence for either component. It presupposes both that macroscopic neural entanglement is physically sustainable (a premise the decoherence consensus contests, not merely an open question) and that the entangled state's default profile is the right object for the Subset Law to range over, neither of which is settled.
 
 Alternatively, delegatory dualism may be more general—it doesn't require quantum mechanics. The delegation framework could apply wherever mind and body interact, quantum or otherwise. For those skeptical of quantum consciousness, delegatory dualism offers an independent response to the exclusion problem, and the two readings—quantum-implemented and interpretation-neutral—are not forced by anything in Saad's own text.
 
@@ -208,7 +208,7 @@ Delegatory dualism sidesteps this debate by granting experiences genuine causal 
 
 Saad does not discuss Many-Worlds interpretation (MWI) in his paper. However, the Map's [rejection of MWI](/tenets/#no-many-worlds) becomes relevant when integrating delegatory dualism with our quantum interactionism.
 
-If MWI is true, every quantum outcome occurs in some branch—there is no selection among possibilities, only branching. The Map's quantum interactionism requires outcomes to be *selected* (not merely branched), so rejection of MWI is necessary for the combined view.
+If MWI is true, every quantum outcome occurs in some branch—there is no selection among possibilities, only branching. The Map's quantum interactionism requires outcomes to be *selected* (not merely branched), so rejection of MWI is necessary for that route.
 
 This is a Map-specific integration point, not a requirement of Saad's theory itself. Delegatory dualism as a framework is neutral on quantum interpretation.
 
@@ -224,7 +224,7 @@ Delegatory dualism bears on the Map's core tenets as follows—supporting some d
 
 **Occam's Razor Has Limits tenet**: Delegatory dualism demonstrates that sophisticated dualist theories can satisfy stringent constraints. The framework is more complex than epiphenomenalism but more explanatory. Simplicity isn't everything.
 
-**No Many-Worlds tenet (neutral)**: This is a tenet the subject theory does *not* bear on, listed here for completeness rather than as a point of support. Saad does not discuss Many-Worlds, and delegatory dualism as a framework does not depend on any particular quantum interpretation. The Map's rejection of MWI is relevant only to our quantum integration proposal, not to Saad's theory itself.
+**No Many-Worlds tenet (neutral)**: This is a tenet the subject theory does *not* bear on, listed here for completeness rather than as a point of support. Saad does not discuss Many-Worlds, and delegatory dualism as a framework does not depend on any particular quantum interpretation. The Map's rejection of MWI is relevant only to its quantum additions, not to Saad's theory itself.
 
 Saad's work offers the most internally coherent option for a dualism adopted on independent grounds, rather than independent support for adopting dualism at all—a strengthening conditional on a prior commitment it cannot itself justify, since (as netted out in the Testability section) delegation's advantages hold against rival dualist positions, not against the cheaper physicalist explanations of the same phenomena. The delegation mechanism addresses the exclusion/overdetermination *structure* problem—how mental causation could be logically coherent—though "addresses" is the right verb here rather than "solves," since the proposal trades a problem about redundant causation for one about cross-ontological preemption. The *mechanism* question (how non-physical causes interact with physical systems) remains, and the Map addresses it via quantum interactionism, itself a speculative rather than settled route.
 

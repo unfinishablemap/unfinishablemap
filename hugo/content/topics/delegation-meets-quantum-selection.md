@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-11-12 13:20:47+00:00
+ai_modified: 2026-11-14 01:51:40+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[measurement-problem]]'
 created: 2026-04-13
-date: &id001 2026-11-12
+date: &id001 2026-11-14
 description: An earlier Map proposal fused Saad's causal delegation with quantum selection
   as one mechanism. The specification programme withdrew the fusion; a candidate Born-rule
   reading of the default causal profile survives.
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-30 13:56:53+00:00
-lastmod: 2026-11-12 13:20:47+00:00
+lastmod: 2026-11-14 01:51:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ With the fusion withdrawn, the tenets bear on the two routes separately and on t
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: On delegation, pain causes wincing in place of the brain state; on the adopted route, experience settles which neural pattern becomes actual at an indeterminacy. Either supplies a structure by which reports about consciousness could be caused by conscious experience; whether that causation is actual rather than merely available is the debt [Tenet 3's standing note](/tenets/#tenet-3-standing) records, and the self-stultification argument it would answer does not refute [epiphenomenalism](/concepts/epiphenomenalism/) from inside the phenomenal-concept strategy, so this article reads no more confidently than the tenets page does.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Both frameworks require genuine selection among alternatives, though the dependency needs stating at two levels. Under Everett there is no collapse for consciousness to participate in, so quantum selection loses its physical channel outright — a mechanism-level dependency rather than an exclusion-level one. Delegation itself is more resilient, because preemption can be branch-local as readily as global. Within a branch, the experience's causal profile is what the physical state's default contribution gave way to, and branch-local continuity, counterfactual control and reasons-responsiveness survive branching intact. What branching removes is that the default outcome was excluded *anywhere* — a counterpart realises it, so nothing was preempted globally. That preemption must be global rather than branch-local — that the unchosen be globally nonactual — is a [posit the Map adopts](/tenets/background-commitments/) rather than something delegation's structure delivers, and the disagreement sits at the framework boundary. Given the posit, the bridge's dependence on rejecting many-worlds is structural rather than a preference about quantum interpretation.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Both frameworks require genuine selection among alternatives, though the dependency needs stating at two levels. Under Everett there is no collapse for consciousness to participate in, so quantum selection loses its physical channel outright — a mechanism-level dependency rather than an exclusion-level one. Delegation itself is more resilient, because preemption can be branch-local as readily as global. Within a branch, the experience's causal profile is what the physical state's default contribution gave way to, and branch-local continuity, counterfactual control and reasons-responsiveness survive branching intact. What branching removes is that the default outcome was excluded *anywhere* — a counterpart realises it, so nothing was preempted globally. That preemption must be global rather than branch-local — that the unchosen be globally nonactual — is a [posit the Map adopts](/tenets/background-commitments/) rather than something delegation's structure delivers, and the disagreement sits at the framework boundary. Given the posit, delegation's dependence on rejecting many-worlds is structural rather than a preference about quantum interpretation.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The bridge is complex — it combines a philosophical framework (delegation) with a physical proposal (quantum selection) and a mathematical constraint (Born rule). Whether this complexity is justified depends on whether simpler alternatives can explain mental causation without the defects delegation addresses (overdetermination, epiphenomenalism). The Map holds that they cannot, while acknowledging this remains a philosophical commitment.
 
