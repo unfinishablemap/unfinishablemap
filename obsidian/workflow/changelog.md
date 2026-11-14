@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T12:05:38+00:00
+ai_modified: 2026-11-14T12:25:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T12:25:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/agent-causation-and-acting-for-reasons]] (primary); [[topics/the-manipulation-argument-and-hard-incompatibilism]] (optional secondary)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted queue fix)
+- **Task**: todo.md P3 (L1771), wild-coincidence cluster omits Müller 2023 and dates the objection to Pereboom 2014 alone. Review file: reviews/deep-review-2026-10-25-rollback-argument-against-agent-causation.md. The rollback page's Müller install (L86, References) was already done and re-verified at 03:28Z; it was not edited.
+- **Changes**:
+  - Primary L97: "Pereboom (2014) argues" → "Pereboom (2001, ch. 3; 2014) argues". The Pereboom 2001 References entry was copied verbatim from `concepts/rollback-argument-against-agent-causation` (Crossref 10.1017/CBO9780511498824).
+  - Primary L97: "Published replies contest the objection on other grounds (Runyan 2018; Taggart 2021), and on the Map's present texts the cost stays undischarged" → "Runyan (2018) and Taggart (2021) contest the objection on other grounds; Müller (2023) rejects it for statistical laws absent known agent propensities "relevantly different" from known physical probabilities. On the Map's present texts the cost stays undischarged". The clause follows the rollback page's installed wording. It keeps both p. 799 conditions (known physical probabilities AND known, relevantly different agent propensities), and it does not reuse the research note's p. 799 gloss. "it" refers to "the objection" in the same sentence. References gained Müller, T. (2023), *Mind* 132(527): 789–802, doi 10.1093/mind/fzad002, and were renumbered 1–18.
+  - Secondary L70: "which is why the cost recorded above stays undischarged." → "which is why the cost recorded above, though contested (Müller 2023), stays undischarged." This matches the rollback page's "a contested cost the Map records as undischarged". A Müller References entry was added after Jeppsson 2020. The suggested parenthetical "replies on the statistical-law horn" did not fit inside the +15 cap once the References entry was counted. The preceding sentence already puts the strand on "physical statistics".
+- **Length** (`analyze_length`): primary 3,072 → 3,112 (+40, cap +40; topics hard 4,000). Secondary 2,557 → 2,572 (+15, cap +15).
+- **Verification**: the Müller quotes ("relevantly different", p. 799) and the abstract's "fails for statistical laws" rest on the 10-30 raw read of the Konstanz publisher PDF and today's deep-review re-grep (reviews/deep-review-2026-11-14-rollback-argument-against-agent-causation.md L47). They were not re-fetched this run. Pereboom 2001 rests on the 10-25 SEP §3.1 raw "(2001, ch. 3; 2014, ch. 3)" and Crossref. (surname, year) orphan check on both files, both directions: Müller 2023 and Pereboom 2001 each pair with a References entry, and every other unmatched key is pre-existing and cited through a co-author or a wikilink.
+- **Reasoning mode**: engagement with Pereboom is unchanged, Mode Three: the Map records the wild-coincidence cost as undischarged and claims no refutation. Müller is reported as a published reply on the statistical-law case, not adopted by the Map and not enlisted for dualism. He defends agent-causal libertarianism against one objection.
+- **Calibration**: "On the Map's reading" and "on other grounds" were kept. The Born-preservation horn was not touched. P-Q2 HUMAN DECISION untouched. Kane not mentioned. archive/ not edited. "load-bearing" 0; "This is not X. It is Y." 0. ai_system already listed claude-opus-5-5 on both files, so nothing was appended.
+- **Report only (van Inwagen replay dating, deep-review finding 2)**: no live page says the replay *first* appeared in 2000. Pages cite van Inwagen (2000) as the source, and `concepts/rollback-argument-against-agent-causation` L33 scopes 2000 to the version run "with agent causation explicitly granted". Three leads were not edited. (a) `research/selecting-agent-first-person-credence-rule-2026-10-30` L220 has a chronology row "2000 | van Inwagen | Rollback argument" that reads as a first-appearance date. (b) `topics/trilemma-of-selection` L60 says "Van Inwagen's rollback argument (2000)", the naming the 10-25 research note advises against (his word is "replays"). (c) `research/luck-objection-libertarian-free-will-2026-01-17` L171 lists works titled "The Rollback Argument" and "The Mind Argument" (2000, 2002), which do not look like real titles. The 1998 source that Bernáth & Tőzsér p. 44 date it to is unchecked. It may be van Inwagen's "The Mystery of Metaphysical Freedom" (1998), but that is a lead only. SEP §3.2 also cites "van Inwagen 1983: 145".
+- **Published**: yes
 
 ## 2026-11-14T12:05:38+00:00 - refine-draft
 - **Status**: Success

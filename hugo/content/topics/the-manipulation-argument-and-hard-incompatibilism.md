@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-25 12:07:41+00:00
+ai_modified: 2026-11-14 12:24:14+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-15 07:37:16+00:00
-lastmod: 2026-10-25 12:07:41+00:00
+lastmod: 2026-11-14 12:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ The Map's reply is that its interface is a genuine **selection** mechanism, not 
 
 This reply must be presented at its true strength, which is that of a contested bet rather than a demonstration. Pereboom's luck objection is forceful and, honestly assessed, unresolved. The Map does not have a worked model showing that a token-level bias which leaves the aggregate Born statistics undisturbed amounts to the agent's *settling* the outcome rather than merely being correlated with it; the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet itself registers this as a live hypothesis pending a toy model, not an established result. And Pereboom's empirical objection to agent-causal influence—the wild-coincidences worry—is a real cost the Map's framework pays, not one it has discharged. One route to discharging it, an integrated reading on which the frequencies are the reasons' own, [trades it for an objection about control](/topics/agent-causation-and-acting-for-reasons/#costs-integrated). The interface has to be reconcilable with the physical regularities we observe, and the Map's post-decoherence proposal is constructed to leave those regularities statistically intact precisely so that no detectable anomaly arises; that very feature is what makes the influence empirically hard to distinguish from chance, which is the near neighbour of Pereboom's complaint that indeterministic control is indistinguishable from luck.
 
-Where the Map does have leverage is at the level of method, and this is a [Tenet 5](/tenets/#occams-limits) point—but it reaches only one of Pereboom's two strands. The first, that we have no positive scientific reason to posit agent causation, is a parsimony judgement, and Tenet 5 holds that simplicity is an unreliable guide to truth where our knowledge is incomplete; the mind-body interface is a paradigm case of incompleteness. So the Map can decline to treat that strand as decisive, while conceding—symmetrically, as Tenet 5 requires—that this move buys no positive support for agent causation either. It blocks that strand from being a refutation; it does not convert the Map's bet into a demonstration. The second strand, the wild coincidences, is not a parsimony argument: it says the match between free choices and physical statistics would go unexplained, and Tenet 5 does not touch it. The Map's Born-preserving design sits on exactly that horn, which is why the cost recorded above stays undischarged. On the Map's reading the luck objection ends at the same unwritten law: [the rollback argument](/concepts/rollback-argument-against-agent-causation/) finds the wild-coincidence cost and the probability structure the Map's luck reply owes to be one debt. The honest position is that hard incompatibilism and the Map agree on the incompatibilist premise and disagree, at the edge of what anyone can currently establish, on whether harnessed indeterminism can be control. The Map places its bet there knowingly, and grants that the opponent's hand is strong.
+Where the Map does have leverage is at the level of method, and this is a [Tenet 5](/tenets/#occams-limits) point—but it reaches only one of Pereboom's two strands. The first, that we have no positive scientific reason to posit agent causation, is a parsimony judgement, and Tenet 5 holds that simplicity is an unreliable guide to truth where our knowledge is incomplete; the mind-body interface is a paradigm case of incompleteness. So the Map can decline to treat that strand as decisive, while conceding—symmetrically, as Tenet 5 requires—that this move buys no positive support for agent causation either. It blocks that strand from being a refutation; it does not convert the Map's bet into a demonstration. The second strand, the wild coincidences, is not a parsimony argument: it says the match between free choices and physical statistics would go unexplained, and Tenet 5 does not touch it. The Map's Born-preserving design sits on exactly that horn, which is why the cost recorded above, though contested (Müller 2023), stays undischarged. On the Map's reading the luck objection ends at the same unwritten law: [the rollback argument](/concepts/rollback-argument-against-agent-causation/) finds the wild-coincidence cost and the probability structure the Map's luck reply owes to be one debt. The honest position is that hard incompatibilism and the Map agree on the incompatibilist premise and disagree, at the edge of what anyone can currently establish, on whether harnessed indeterminism can be control. The Map places its bet there knowingly, and grants that the opponent's hand is strong.
 
 ## Further Reading
 
@@ -93,5 +93,6 @@ Where the Map does have leverage is at the level of method, and this is a [Tenet
 1. McKenna, M. (2008). A Hard-Line Reply to Pereboom's Four-Case Manipulation Argument. *Philosophy and Phenomenological Research*, 77(1), 142–159. https://doi.org/10.1111/j.1933-1592.2008.00179.x
 1. Mickelson (Demetriou), K. (2010). The Soft-Line Solution to Pereboom's Four-Case Argument. *Australasian Journal of Philosophy*, 88(4), 595–617. https://doi.org/10.1080/00048400903382691
 1. Jeppsson, S. (2020). The agential perspective: a hard-line reply to the four-case manipulation argument. *Philosophical Studies*, 177(7), 1935–1951. https://doi.org/10.1007/s11098-019-01292-2
+1. Müller, T. (2023). Taming Pereboom's Wild Coincidences. *Mind*, 132(527), 789–802. https://doi.org/10.1093/mind/fzad002
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). The Consequence Argument for Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-consequence-argument-for-incompatibilism/

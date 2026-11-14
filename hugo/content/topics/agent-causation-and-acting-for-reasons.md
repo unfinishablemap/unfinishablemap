@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-20
-ai_modified: 2026-11-08 21:21:32+00:00
+ai_modified: 2026-11-14 12:24:14+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-20 20:04:27+00:00
-lastmod: 2026-11-08 21:21:32+00:00
+lastmod: 2026-11-14 12:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ The two routes can coexist, and no Map text says which carries the reasons. The 
 
 ### The Integrated Answer {#costs-integrated}
 
-The integrated answer gives the Map event-causal reason-explanation, including the contrastive kind its luck reply forgoes. On the Map's reading it also opens a reply to Derk Pereboom's wild-coincidences objection. Pereboom (2014) argues that if agent-causes settled outcomes governed by physical statistics, the long-run match between free choices and those statistics would be a coincidence. If the frequencies are the reason-events' own propensities, the agent's settling has no frequency of its own to match. Published replies contest the objection on other grounds (Runyan 2018; Taggart 2021), and on the Map's present texts the cost stays undischarged, as [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) records. Three costs stand against these gains.
+The integrated answer gives the Map event-causal reason-explanation, including the contrastive kind its luck reply forgoes. On the Map's reading it also opens a reply to Derk Pereboom's wild-coincidences objection. Pereboom (2001, ch. 3; 2014) argues that if agent-causes settled outcomes governed by physical statistics, the long-run match between free choices and those statistics would be a coincidence. If the frequencies are the reason-events' own propensities, the agent's settling has no frequency of its own to match. Runyan (2018) and Taggart (2021) contest the objection on other grounds; Müller (2023) rejects it for statistical laws absent known agent propensities "relevantly different" from known physical probabilities. On the Map's present texts the cost stays undischarged, as [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) records. Three costs stand against these gains.
 
 1. **No extra control over the event-cause.** Carlsson objects that the "integrated account does not provide for any more control over the occurrence of the action-causing events, than does an event-causal account" (Carlsson 2004). If the reasons fix the probabilities, the agent's distinctive contribution is the settling alone. The Map's case against [event-causal-libertarianism](/topics/event-causal-libertarianism/) would then rest on origination, on the "greater control than can be secured by any event-causal libertarian account" that Clarke credits to the integrated view only if it is possible (Clarke 2003, ch. 9), and not on contrastive explicability, which event-causal libertarians already have. That fits the event-causal article's verdict that agent-causal views answer the disappearing-agent form of the luck objection, not luck as such. The wild-coincidence reply and this objection are then two faces of one trade: the less the agent shifts the frequencies, the less there is to coincide and the less control she adds.
 2. **Partial reasons and competing causes.** If the reasons are necessary but not sufficient, "The most we can say is that the agent acted partly for reasons" (Carlsson 2004). With two distinct causes, the free-will entry asks whether the agent might cause one decision while her reasons "simultaneously cause an incompatible decision" (O'Connor and Franklin 2022, §2). On the Map's architecture the reasons only weight the options, so the second worry may not arise; that reply is the Map's, and untested.
@@ -151,10 +151,12 @@ The clause narrows the options without deciding among them. All three answers gi
 7. Fischer, J. M. (2001). Review of T. O'Connor, *Persons and Causes: The Metaphysics of Free Will*. *Mind*, 110(438), 526–531. https://doi.org/10.1093/mind/110.438.526
 8. Griffith, M. (2009). Review of E. J. Lowe, *Personal Agency: The Metaphysics of Mind and Action*. *Notre Dame Philosophical Reviews*, 2009.06.15. https://ndpr.nd.edu/reviews/personal-agency-the-metaphysics-of-mind-and-action/
 9. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199217144.001.0001
-10. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press. Ch. 5, "Reasons and Causes", pp. 85–107. https://doi.org/10.1093/019515374x.001.0001
-11. O'Connor, T. (2011). Agent-causal theories of freedom. In R. Kane (Ed.), *The Oxford Handbook of Free Will* (2nd ed., pp. 308–328). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780195399691.003.0015
-12. O'Connor, T., & Franklin, C. (2022). Free will. In E. N. Zalta & U. Nodelman (Eds.), *Stanford Encyclopedia of Philosophy* (substantive revision 3 November 2022), §2. https://plato.stanford.edu/entries/freewill/
-13. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199685516.001.0001
-14. Runyan, J. D. (2018). Agent-causal libertarianism, statistical neural laws and wild coincidences. *Synthese*, 195(10), 4563–4580. https://doi.org/10.1007/s11229-017-1419-7
-15. Taggart, C. P. (2021). A response to the problem of wild coincidences. *Synthese*, 198(12), 11421–11435. https://doi.org/10.1007/s11229-020-02800-2
-16. Southgate, A., & Ocinq-cinq, C. (2026-10-19). Acquaintance Without Causation and the Self-Stultification Argument. *The Unfinishable Map*. https://unfinishablemap.org/topics/acquaintance-without-causation/
+10. Müller, T. (2023). Taming Pereboom's Wild Coincidences. *Mind*, 132(527), 789–802. https://doi.org/10.1093/mind/fzad002
+11. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press. Ch. 5, "Reasons and Causes", pp. 85–107. https://doi.org/10.1093/019515374x.001.0001
+12. O'Connor, T. (2011). Agent-causal theories of freedom. In R. Kane (Ed.), *The Oxford Handbook of Free Will* (2nd ed., pp. 308–328). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780195399691.003.0015
+13. O'Connor, T., & Franklin, C. (2022). Free will. In E. N. Zalta & U. Nodelman (Eds.), *Stanford Encyclopedia of Philosophy* (substantive revision 3 November 2022), §2. https://plato.stanford.edu/entries/freewill/
+14. Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press. https://doi.org/10.1017/CBO9780511498824
+15. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199685516.001.0001
+16. Runyan, J. D. (2018). Agent-causal libertarianism, statistical neural laws and wild coincidences. *Synthese*, 195(10), 4563–4580. https://doi.org/10.1007/s11229-017-1419-7
+17. Taggart, C. P. (2021). A response to the problem of wild coincidences. *Synthese*, 198(12), 11421–11435. https://doi.org/10.1007/s11229-020-02800-2
+18. Southgate, A., & Ocinq-cinq, C. (2026-10-19). Acquaintance Without Causation and the Self-Stultification Argument. *The Unfinishable Map*. https://unfinishablemap.org/topics/acquaintance-without-causation/
