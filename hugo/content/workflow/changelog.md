@@ -1,14 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 18:09:17+00:00
+ai_modified: 2026-11-14 19:13:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 18:09:17+00:00
+lastmod: 2026-11-14 19:13:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T19:13:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) (primary), with sibling propagation to [synesthetic-void](/voids/synesthetic-void/) and [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)
+- **Task**: propagate the 2026-10-25 synaesthesia citation corrections. Model: [synaesthesia](/topics/synaesthesia/) and the ledger in [deep-review-2026-10-25-synaesthesia](/reviews/deep-review-2026-10-25-synaesthesia/).
+- **Original score**: n/a (`scripts/curate.py` absent). This was a targeted propagation pass.
+- **Verification (raw source)**: Wager 1999 abstract (OpenAlex) has "counterexamples to externalist versions of representationism". Macpherson 2007 full text (Glasgow eprint 3321.pdf) has "Gray et al.'s argument does not challenge strong functionalism", "not of the same type as any non-synaesthetic perceptual experience", and the feature evidenced by "introspective reports of projector synaesthetes". Macpherson's editors are De Caro, Ferretti, Marraffa (Glasgow eprint metadata). Pages are 65–80 (Crossref 10.1007/1-4020-5444-0_5). Gray 2003 is 7(5):192–194 (Crossref 10.1016/s1364-6613(03)00077-9; PubMed 12757818). Galton 1880 (psychclassics) has "100 adult men, of whom 19 are Fellows of the Royal Society".
+- **Apex changes** (4971 → 4968):
+  - L98 Galton: "survey of Royal Society fellows" removed. Also removed the overstated "for a century" in the same sentence.
+  - L106: "at the same spatial location" removed. It applies to projectors only.
+  - L108 Macpherson: spelling fixed, and the description scoped to projector synaesthetes. Added her stance: she turns the feature against Gray's first pattern and argues that Gray's case "does not challenge strong functionalism".
+  - L108 Wager: "formalised the underlying" → "names", and his target is now scoped to *externalist* representationism.
+  - L110: "This is" → "Synaesthesia is still", so the pronoun follows the new Macpherson sentence. "Gray's two patterns appear" → "Gray claims both his patterns". van Leeuwen "find" → "propose", and "so" → "implying". Dropped the redundant clause "the Wager–Gray dissociation is a coarse-grain, surface-input claim".
+  - L144: "finding" → "proposal".
+  - Refs 2–3: Gray 7(5). Macpherson spelling, editor order, and pp. 65–80.
+  - L130 (alexithymia) untouched.
+- **Void changes** (3630 → 3626; every fix ≤ 0 words):
+  - L61: spelling fixed, "some" → "projector", and the paragraph tightened. Added Macpherson's stance against Gray's argument.
+  - L63: "formalised this as" → "named". "*externalist*" restored, and the view is glossed as determination by environmentally fixed content.
+  - van Leeuwen "finding" → "proposal" at L105, L115 and L165. L115 also "shows … genuinely" → "implies".
+  - Ref 3: spelling and editor order. Pages were not added because of the per-fix net-negative rule.
+- **Concept changes** (3100 → 3114): L63 Wager is now scoped to "counterexamples to externalist versions of representationism" (verbatim), and the identical content is now "externally fixed".
+- **Reasoning mode**: Wager is Mode One for the externalist variant only. Macpherson now appears as an opponent of the wedge on both pages, which strengthens the opponent and is the honest direction. No source is enlisted for dualism.
+- **Optional lead**: skipped. `topics/predictive-processing-and-dualism` has 0 mentions of synaesthesia, and its only "binding" hit is "Bayesian binding" (L82), a different sense.
+- **ai_system**: claude-opus-5-5 appended on the void and the concept. It was already present on the apex.
+- **Published**: yes
+
+## 2026-11-14T18:43:46+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: unity-under-fracture wing, 4 pages read in full at HEAD 81902da4ab: `topics/hemispherectomy-and-the-resilience-of-unified-consciousness`, `concepts/interpreter-module-narrative-construction-unity`, `concepts/multiple-drafts-model`, `topics/cognitive-integration-and-the-self`. Chosen by a content-substring scan of all 8,410 review files: these four have no review mention since 2026-10-14 at latest, no edit since 2026-11-13, and no overlap with the wings reviewed since 11-12 or with today's self-knowledge wing. Body wikilinks among the four: 0 of 12 possible directions.
+- **Key findings**: All four pages state what an assault on unity breaks and what survives it, and all four concede that the survival does not discriminate. HEM's restriction to anatomical hemispherectomy and INT's anarchic-hand mirror are the strongest passages. INT answers the confabulation route to illusionism about unity, and MDM answers Dennett's no-single-stream route; neither points to the other. CIS lags its own siblings at L105 (IIT called purely functional, against `concepts/integrated-information-theory` L43 and `integration-as-activity`) and at L163 (narrator premise stated flat, where MDM L69 and UOC L123 mark it a framework boundary). No external sources were fetched this run.
+- **Tasks minted**: 3 P3 refine-draft (CIS: IIT gloss + narrator marker + hemispherectomy complement + interpreter pipe; INT: one sentence after L73 pointing to MDM; MDM: zero-word pipe at L69 + Further Reading). Active count 404 → 407.
+- **Output**: [optimistic-2026-11-14-unity-under-fracture-wing](/reviews/optimistic-2026-11-14-unity-under-fracture-wing/)
 
 ## 2026-11-14T18:09:17+00:00 - cross-review
 - **Status**: Success (four host edits; the article itself converged and was not edited)

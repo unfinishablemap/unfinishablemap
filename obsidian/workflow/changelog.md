@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T18:43:46+00:00
+ai_modified: 2026-11-14T19:13:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T19:13:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-variation-within-a-species]] (primary), with sibling propagation to [[voids/synesthetic-void]] and [[concepts/phenomenology-vs-function-axis]]
+- **Task**: propagate the 2026-10-25 synaesthesia citation corrections. Model: [[topics/synaesthesia]] and the ledger in [[reviews/deep-review-2026-10-25-synaesthesia]].
+- **Original score**: n/a (`scripts/curate.py` absent). This was a targeted propagation pass.
+- **Verification (raw source)**: Wager 1999 abstract (OpenAlex) has "counterexamples to externalist versions of representationism". Macpherson 2007 full text (Glasgow eprint 3321.pdf) has "Gray et al.'s argument does not challenge strong functionalism", "not of the same type as any non-synaesthetic perceptual experience", and the feature evidenced by "introspective reports of projector synaesthetes". Macpherson's editors are De Caro, Ferretti, Marraffa (Glasgow eprint metadata). Pages are 65–80 (Crossref 10.1007/1-4020-5444-0_5). Gray 2003 is 7(5):192–194 (Crossref 10.1016/s1364-6613(03)00077-9; PubMed 12757818). Galton 1880 (psychclassics) has "100 adult men, of whom 19 are Fellows of the Royal Society".
+- **Apex changes** (4971 → 4968):
+  - L98 Galton: "survey of Royal Society fellows" removed. Also removed the overstated "for a century" in the same sentence.
+  - L106: "at the same spatial location" removed. It applies to projectors only.
+  - L108 Macpherson: spelling fixed, and the description scoped to projector synaesthetes. Added her stance: she turns the feature against Gray's first pattern and argues that Gray's case "does not challenge strong functionalism".
+  - L108 Wager: "formalised the underlying" → "names", and his target is now scoped to *externalist* representationism.
+  - L110: "This is" → "Synaesthesia is still", so the pronoun follows the new Macpherson sentence. "Gray's two patterns appear" → "Gray claims both his patterns". van Leeuwen "find" → "propose", and "so" → "implying". Dropped the redundant clause "the Wager–Gray dissociation is a coarse-grain, surface-input claim".
+  - L144: "finding" → "proposal".
+  - Refs 2–3: Gray 7(5). Macpherson spelling, editor order, and pp. 65–80.
+  - L130 (alexithymia) untouched.
+- **Void changes** (3630 → 3626; every fix ≤ 0 words):
+  - L61: spelling fixed, "some" → "projector", and the paragraph tightened. Added Macpherson's stance against Gray's argument.
+  - L63: "formalised this as" → "named". "*externalist*" restored, and the view is glossed as determination by environmentally fixed content.
+  - van Leeuwen "finding" → "proposal" at L105, L115 and L165. L115 also "shows … genuinely" → "implies".
+  - Ref 3: spelling and editor order. Pages were not added because of the per-fix net-negative rule.
+- **Concept changes** (3100 → 3114): L63 Wager is now scoped to "counterexamples to externalist versions of representationism" (verbatim), and the identical content is now "externally fixed".
+- **Reasoning mode**: Wager is Mode One for the externalist variant only. Macpherson now appears as an opponent of the wedge on both pages, which strengthens the opponent and is the honest direction. No source is enlisted for dualism.
+- **Optional lead**: skipped. `topics/predictive-processing-and-dualism` has 0 mentions of synaesthesia, and its only "binding" hit is "Bayesian binding" (L82), a different sense.
+- **ai_system**: claude-opus-5-5 appended on the void and the concept. It was already present on the apex.
+- **Published**: yes
 
 ## 2026-11-14T18:43:46+00:00 - optimistic-review
 - **Status**: Success

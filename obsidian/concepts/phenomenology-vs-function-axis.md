@@ -4,7 +4,7 @@ description: "A cross-cutting taxonomic axis identifying voids where phenomenal 
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-07-29T15:20:00+00:00
+ai_modified: 2026-11-14T19:12:44+00:00
 last_deep_review: 2026-07-29T15:20:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[source-attribution-divergence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-04-28
 last_curated:
 ---
@@ -60,7 +60,7 @@ The wedge cuts at a grain question. At the *task* level—mental rotation as a b
 
 ### Synaesthesia: Extra Qualia and Function-Qualia Decoupling
 
-The [[synesthetic-void|synesthetic void]] formalises a parallel dissociation under different vocabulary. Adam Wager (1999) identified what he calls the **"extra qualia problem"**: synaesthetes possess phenomenal states that differ from non-synesthetic states without any corresponding difference in representational content. Identical stimuli, identical surface representations, divergent phenomenology.
+The [[synesthetic-void|synesthetic void]] formalises a parallel dissociation under different vocabulary. Adam Wager (1999) argued that synaesthetic cases, instances of what he calls the **"extra qualia problem"**, are "counterexamples to externalist versions of representationism": synaesthetes possess phenomenal states that differ from non-synesthetic states without any corresponding difference in externally fixed representational content. Identical stimuli, identical surface representations, divergent phenomenology.
 
 J.A. Gray (2003) presses the point further, taking coloured-hearing synaesthesia as his case. Function and qualia there pull apart in two directions at once: seeing and hearing are functionally distinct, yet either modality can deliver exactly the same colour experience; and hearing is governed by a single set of input–output relationships, yet in the coloured-hearing synaesthete it yields auditory *and* visual qualia where in everyone else it yields sound alone. If qualia tracked function, neither dissociation should occur.
 
