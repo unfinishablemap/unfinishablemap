@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T19:52:28+00:00
+ai_modified: 2026-11-14T20:19:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T20:19:35+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This is the expected steady state, and the third reasoned abandon in under 24 hours.
+- **Mode**: short re-screen of the 10:50Z run against the current tree (`screen_1114b.py` and `screen_1114b_control.py` in the session scratchpad: the same method, with `*-calibration-history` sidecars now also filtered before any pairwise arithmetic). The age floor is still `created:` before 2026-10-15. Since 10:47Z one page was created (`voids/beloved-void`, created 2026-11-14, below the age floor) and nothing was archived. Section counts from `count_section_files`: topics 370/370, concepts 370/370, voids 121/125, apex 44.
+- **Filter survival**: 864 raw `.md` files. After dropping the three section index pages and `topics/non-temporal-consciousness.refinement-log.md`, 860 remain (no calibration-history sidecar sits in these sections). The age floor leaves 819, and the open-task filter leaves 434 (187 topics, 170 concepts, 77 voids). Since 10:50Z, 17 pages left the pool because of new open tasks, including `concepts/prehension` and `concepts/process-philosophy`. Three entered it after their tasks closed: `concepts/alexithymia`, `concepts/articulability-of-q1` and `concepts/phenomenology-vs-function-axis`.
+- **Result**: 93,961 pairs. Overlap and length fit still do not intersect. 180 pairs reach TF-IDF cosine >= 0.20 and none fits. The closest still needs 803 words cut (`concepts/phenomenal-contrast-method` + `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, cosine 0.246). 41 pairs reach >= 0.30, and all of them need at least 1,185 words cut (`concepts/agent-teleology` + `topics/biological-teleology-and-the-interface-framework`). Of the 109 pairs that fit under the larger section's hard threshold (gate `>=`), the most similar is still `concepts/phenomenal-depth` + `concepts/phenomenal-presentation` at cosine 0.123, which was declined on 11-13 because of its `**Versus [[phenomenal-depth]]**` boundary. The highest shared-5-gram fraction is still 9.9% (`concepts/carrolls-regress` + `voids/inference-void`, over by 1,601).
+- **New pairs**: the three pages that entered the pool produced 1,296 new pairs. Four of them reach cosine >= 0.20 and none fits. The highest is `concepts/phenomenology-vs-function-axis` + `topics/synaesthesia` (0.268, over by 2,525), and the one needing the smallest cut is `concepts/phenomenal-contrast-method` + `concepts/phenomenology-vs-function-axis` (0.238, over by 1,671). `concepts/alexithymia` (2,153 words) has no partner above 0.113 (`voids/interoceptive-void`, over by 1,374). No prose was read.
+- **Control run**: with the open-task filter turned off (819 pages, 334,971 pairs), no pair at cosine >= 0.20 fits either. 856 pairs reach that threshold, and the closest is still `concepts/perception` + `concepts/visual-consciousness` (0.212, over by 335). Among the 24 pool pages whose length changed since 10:50Z, the largest moves were `voids/biological-cognitive-closure` +150, `concepts/alexithymia` +97, `concepts/process-philosophy` +84 and `concepts/phenomenological-evidence` +79. None of these moves changed any pair's status. One pair crossed 0.20 by rounding (`concepts/phenomenology-vs-function-axis` + `voids/synesthetic-void`, 0.199 to 0.200, over by 3,214). `concepts/self-blindness` (+143) has `created: 2026-10-23`, so it is below the age floor.
+- **Finding**: unchanged. Coalesce cannot provide cap relief in topics or concepts. That relief has to come from `/archive`, `/condense` or a cap raise.
+- **References to review**: none
 
 ## 2026-11-14T19:52:28+00:00 - refine-draft
 - **Status**: Success
