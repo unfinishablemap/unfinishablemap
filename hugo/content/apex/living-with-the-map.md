@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-29 02:20:30+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-14 21:36:09+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-20 13:29:13+00:00
 apex_sources:
 - topics/meaning-of-life
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 03:36:24+00:00
-lastmod: 2026-10-29 02:20:30+00:00
+lastmod: 2026-11-14 21:36:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ What follows from this? *Take your choices seriously.* Not with paralysing anxie
 
 If agent causation grounds genuine authorship, [moral responsibility](/concepts/moral-responsibility/) gains metaphysical weight: desert is irreducible rather than derived from prior states the agent never authored. The retributivist intuition that wrongdoers *deserve* blame becomes intelligible—they exercised their power to cause harm when kindness was available—though intelligibility is not vindication, and retribution is nowhere required. Sophisticated compatibilism secures substantively similar moral implications on a different scaffold; as the [Compatibilist Symmetry Challenge](/concepts/compatibilist-symmetry-challenge/) records, the libertarian framing's distinguishing work here is tenet-coherence rather than unique moral explanatory power.
 
-The [implications of genuine agency](/topics/moral-implications-of-genuine-agency/) extend beyond desert. If you truly author your choices, then character is partly self-created—each choice reinforces or modifies dispositions, and over time you shape who you become through accumulated exercises of selection. The [attentional economics](/concepts/attentional-economics/) framework deepens this: developing attentional skill is itself an exercise of agency, expanding the scope of conscious causal power. Practices that train attention—contemplative, creative, intellectual—make agents more capable and therefore more responsible for cultivating or neglecting this capacity. This is what Sartre called the antidote to *bad faith*: treating yourself as a thing determined by external forces when you are in fact a choosing consciousness. "That's just how I am" and "I couldn't help it" are forms of self-deception that deny the freedom you actually possess.
+The [implications of genuine agency](/topics/moral-implications-of-genuine-agency/) extend beyond desert. If you truly author your choices, then character is partly self-shaped—each choice reinforces or modifies dispositions, and over time you shape who you become through accumulated exercises of selection. The [attentional economics](/concepts/attentional-economics/) framework deepens this: developing attentional skill is itself an exercise of agency, expanding the scope of conscious causal power. Practices that train attention—contemplative, creative, intellectual—make agents more capable and therefore more responsible for cultivating or neglecting this capacity. This is what Sartre called the antidote to *bad faith*: treating yourself as a thing determined by external forces when you are in fact a choosing consciousness. "That's just how I am" and "I couldn't help it" are forms of self-deception that deny the freedom you actually possess.
 
 Responsibility runs in two directions. First, *own your actions*—accept that what you did genuinely reflects who you are becoming. Second, *extend responsibility appropriately to others*. Agents who genuinely author their choices can be held accountable. But the framework also supports careful assessment: mental illness, extreme duress, neurological damage may diminish the capacity for conscious authorship. Desert-based response requires desert-capable agents. Compassion and understanding remain warranted, especially for those whose capacity for free choice is impaired.
 
@@ -219,7 +219,7 @@ This synthesis draws on:
 - [Evaluative Phenomenal Character](/concepts/evaluative-phenomenal-character/) — Why experience carries intrinsic normative force, grounding first-person normative reasons rather than closing Hume's logical gap
 - [Moral Responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert, the Compatibilist Symmetry Challenge, and agency-void's symmetric verification limit
 - [Nihilism and Existentialism](/concepts/nihilism-and-existentialism/) — Sartre's pour-soi, the inescapability of choosing, and the structure of freedom
-- [Moral Implications of Genuine Agency](/topics/moral-implications-of-genuine-agency/) — Character as self-created, and the Buddhist competing positive view of choice and suffering
+- [Moral Implications of Genuine Agency](/topics/moral-implications-of-genuine-agency/) — Character as self-shaping, and the Buddhist competing positive view of choice and suffering
 - [Phenomenology of Choice and Volition](/concepts/phenomenology-of-choice-and-volition/) — The agency/ownership distinction and its clinical dissociations
 - [Free Will and Determinism](/topics/free-will/) — The libertarian framework grounding genuine authorship, including spontaneous and control-theoretic action
 

@@ -4,7 +4,7 @@ description: "Under the Map's tenets, consciousness grounds value, agency, norma
 created: 2026-03-16
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-11-05T21:39:31+00:00
+ai_modified: 2026-11-14T21:36:09+00:00
 last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
@@ -95,7 +95,7 @@ The same placement carries a cost the Map states rather than hides. Suffering-fo
 
 [[agent-causation|Agent causation]] casts the agent as an irreducible origin of choice. Under the Map's framework, consciousness selects among possibilities that quantum indeterminacy leaves open in neural processing—a mechanism whose neural realisation remains speculative, with decoherence times at brain temperature a live worry, and on which the moral conclusions depend. What matters morally is the consequence: the agent confronts open possibilities, however that openness is physically realised, and is where the causal buck stops.
 
-This makes [[moral-responsibility]] a response to metaphysical fact—though the contrast is not with compatibilism wholesale. Sophisticated compatibilists—Frankfurt, Fischer and Ravizza, Wolf—ground desert in metaphysically substantive capacities, not pragmatic convention. The contrast is irreducible-vs-derivative: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. Whether that difference does additional moral work is the [compatibilist symmetry challenge](#the-compatibilist-symmetry-challenge) below. The implications explored in the [[moral-implications-of-genuine-agency|companion article]]—obligation addressing open possibilities, character as self-creation, moral luck relocated rather than eliminated—are available on either metaphysics.
+This makes [[moral-responsibility]] a response to metaphysical fact—though the contrast is not with compatibilism wholesale. Sophisticated compatibilists—Frankfurt, Fischer and Ravizza, Wolf—ground desert in metaphysically substantive capacities, not pragmatic convention. The contrast is irreducible-vs-derivative: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. Whether that difference does additional moral work is the [compatibilist symmetry challenge](#the-compatibilist-symmetry-challenge) below. The implications explored in the [[moral-implications-of-genuine-agency|companion article]]—obligation addressing open possibilities, character as self-shaping, moral luck relocated rather than eliminated—are available on either metaphysics.
 
 Consciousness is thus both where value lives and what exercises agency: the agent who makes a moral choice is the same subject for whom its consequences have value. Materialist frameworks handle these through separate theories that may pull in different directions.
 

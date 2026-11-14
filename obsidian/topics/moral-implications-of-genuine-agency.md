@@ -4,7 +4,7 @@ description: "If consciousness causes actions, morality changes from useful conv
 created: 2026-02-23
 modified: 2026-10-26
 human_modified:
-ai_modified: 2026-10-26T00:20:39+00:00
+ai_modified: 2026-11-14T21:36:09+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-23
 last_curated:
 last_deep_review: 2026-07-17T16:05:02+00:00
@@ -91,7 +91,7 @@ Together, the steps make the eliminativist route harder along this one axis: the
 
 **Act consequentialism faces pressure (indirect consequentialism less so).** If agents are authors of their choices, focusing on outcomes alone misses something morally significant: the quality of the selection itself. Two agents might produce identical outcomes—one through careful deliberation, the other through indifference that happened to produce the same result. Under agent causation, the [[authentic-vs-inauthentic-choice|quality of authorship]] matters in itself. Indirect consequentialism (Hooker, Railton, motive utilitarianism) partly accommodates this by evaluating the dispositions producing outcomes, since the indifferent agent's disposition will produce worse outcomes on average. The genuine-agency-specific contribution is therefore narrower than "consequentialism faces pressure" suggests: it is that the *act of selection itself*, not just its dispositional source, carries moral weight.
 
-**Virtue ethics gains ground.** A framework that evaluates the character of the chooser, not just the choice or its consequences, fits naturally with genuine agency. If the agent is an irreducible source of action whose character is self-created through accumulated selections, then the virtues describe excellences in the exercise of causal power. Courage, temperance, and practical wisdom are achievements of consciousness—patterns of selection that the agent has built through sustained effort.
+**Virtue ethics gains ground.** A framework that evaluates the character of the chooser, not just the choice or its consequences, fits naturally with genuine agency. If the agent is an irreducible source of action whose character is self-shaped through accumulated selections, then the virtues describe excellences in the exercise of causal power. Courage, temperance, and practical wisdom are achievements of consciousness—patterns of selection that the agent has built through sustained effort.
 
 ## The Phenomenology of Moral Seriousness
 

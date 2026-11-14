@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-11-05 03:42:39+00:00
+ai_modified: 2026-11-14 21:36:09+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 03:41:00+00:00
-lastmod: 2026-11-05 03:42:39+00:00
+lastmod: 2026-11-14 21:36:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ The practical test for any Map article is a first question—**does the argument
 | The argument claims... | Reading it needs |
 |---|---|
 | The agent *originates* an action / is the irreducible source of a choice | Substance-leaning (subject persisting through the causing) |
-| Authorship grounds desert, regret over genuine alternatives, character as self-creation | Substance-leaning (diachronic further fact across a life) |
+| Authorship grounds desert, regret over genuine alternatives, character as self-shaping | Substance-leaning (diachronic further fact across a life) |
 | A real further fact fixes which branch, successor, or future subject is *me* (the indexical objection to many-worlds) | Substance-leaning (determinate subject; diachronic further fact) |
 | Consciousness is irreducible to physics (qualia, the explanatory gap, materialism's failure) | Bare dualism—either ontology |
 | Mental states cause physical effects at quantum indeterminacies (bare interactionism) | Bare dualism + interactionism, no substance required |

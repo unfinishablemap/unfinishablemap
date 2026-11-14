@@ -4,7 +4,7 @@ description: "The Map's substance-leaning enters with Posit One, a declared back
 created: 2026-05-27
 modified: 2026-11-05
 human_modified: null
-ai_modified: 2026-11-05T03:42:39+00:00
+ai_modified: 2026-11-14T21:36:09+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -62,7 +62,7 @@ The practical test for any Map article is a first question—**does the argument
 | The argument claims... | Reading it needs |
 |---|---|
 | The agent *originates* an action / is the irreducible source of a choice | Substance-leaning (subject persisting through the causing) |
-| Authorship grounds desert, regret over genuine alternatives, character as self-creation | Substance-leaning (diachronic further fact across a life) |
+| Authorship grounds desert, regret over genuine alternatives, character as self-shaping | Substance-leaning (diachronic further fact across a life) |
 | A real further fact fixes which branch, successor, or future subject is *me* (the indexical objection to many-worlds) | Substance-leaning (determinate subject; diachronic further fact) |
 | Consciousness is irreducible to physics (qualia, the explanatory gap, materialism's failure) | Bare dualism—either ontology |
 | Mental states cause physical effects at quantum indeterminacies (bare interactionism) | Bare dualism + interactionism, no substance required |

@@ -4,7 +4,7 @@ description: "If consciousness is irreducible and causally efficacious, it groun
 created: 2026-01-16
 modified: 2026-10-13
 human_modified: null
-ai_modified: 2026-11-08T17:49:12+00:00
+ai_modified: 2026-11-14T21:36:09+00:00
 last_deep_review: 2026-10-06T01:44:15+00:00
 draft: false
 topics:
@@ -80,7 +80,7 @@ The Map extends this beyond hedonism to [[topics/phenomenal-value-realism#Beyond
 
 [[agent-causation|Agent causation]] provides what compatibilism cannot: the agent as an irreducible origin of choice. The [[topics/free-will|free will debate]] pivots on exactly this question. Under the Map's framework, consciousness may select among possibilities that quantum indeterminacy leaves open in neural processing — a speculative mechanism, but one that, if it obtains, preserves what matters ethically: the agent genuinely authors their choices. The ethical payoff survives even if this specific mechanism is wrong, provided some form of genuine origination is available — the quantum proposal is the Map's candidate, not a premise the ethics requires.
 
-If agent causation holds, [[moral-responsibility]] becomes a response to metaphysical fact rather than a conventional practice — though the contrast is not with compatibilism wholesale. Sophisticated compatibilists from Frankfurt (1971) to Fischer and Ravizza (1998) to Wolf (1990) ground desert in metaphysically substantive capacities (identification, mechanism-level reasoning, normative competence), not pragmatic convention. The Map's contrast is therefore irreducible-vs-derivative: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. Whether that difference does additional moral work is the [[compatibilist-symmetry-challenge|compatibilist symmetry challenge]]. Desert would acquire metaphysical grounding: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [[moral-implications-of-genuine-agency|implications]] extend to obligation, character formation as genuine self-creation through accumulated selections, and moral luck relocated rather than eliminated — even an agent capable of irreducible choice does not choose the temperament, circumstance, or deliberative state in which choosing occurs. See [[consciousness-and-moral-agency-under-duress]] for edge cases where agency is constrained.
+If agent causation holds, [[moral-responsibility]] becomes a response to metaphysical fact rather than a conventional practice — though the contrast is not with compatibilism wholesale. Sophisticated compatibilists from Frankfurt (1971) to Fischer and Ravizza (1998) to Wolf (1990) ground desert in metaphysically substantive capacities (identification, mechanism-level reasoning, normative competence), not pragmatic convention. The Map's contrast is therefore irreducible-vs-derivative: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. Whether that difference does additional moral work is the [[compatibilist-symmetry-challenge|compatibilist symmetry challenge]]. Desert would acquire metaphysical grounding: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [[moral-implications-of-genuine-agency|implications]] extend to obligation, character formation as genuine self-shaping through accumulated selections, and moral luck relocated rather than eliminated — even an agent capable of irreducible choice does not choose the temperament, circumstance, or deliberative state in which choosing occurs. See [[consciousness-and-moral-agency-under-duress]] for edge cases where agency is constrained.
 
 ### Normativity Is Built into Experience
 
@@ -170,7 +170,7 @@ If the framework holds, three things follow for moral agents:
 
 **Moral seriousness becomes metaphysically grounded.** If the framework holds, the felt weight of moral deliberation tracks reality — consciousness is about to exercise a causal power whose consequences carry real value. On this reading it cannot be dismissed as evolutionary hangover or social construction, because phenomenology would correspond to what is actually happening rather than merely seeming to.
 
-**Character formation becomes genuine self-creation.** Through [[attentional-economics|attentional economics]], consciousness shapes its own dispositions: attending to resentment strengthens vindictive patterns, attending to empathy compassionate ones. Under genuine agency this direction is selected, not determined, so neglecting moral development is a failure to exercise a real capacity.
+**Character formation becomes genuine self-shaping.** Through [[attentional-economics|attentional economics]], consciousness shapes its own dispositions: attending to resentment strengthens vindictive patterns, attending to empathy compassionate ones. Under genuine agency this direction is selected, not determined, so neglecting moral development is a failure to exercise a real capacity.
 
 **Moral perception requires cultivation.** Iris Murdoch's "just and loving gaze" and Simone Weil's *attention* point to the same insight: seeing clearly is itself a moral achievement, and contemplative traditions that train sustained, receptive attention develop a genuine epistemic capacity.
 
@@ -209,7 +209,7 @@ Each tenet shapes ethics under dualism:
 
 ## Summary
 
-Under dualism, consciousness does double duty: it determines who counts (moral patienthood) and unifies four traditionally separate ethical domains (value, agency, normativity, moral perception) on a single foundation. Distinctive positions follow: animals likely conscious and deserve moral consideration; current AI likely lacks moral patienthood (framework-dependent); copies and uploads create new moral patients, not continuations; moral seriousness is metaphysically grounded; character formation is genuine self-creation through directed attention. These bear on factory farming, AI development, medical ethics, and technology policy. See [[living-with-the-map|Living with the Map]] for daily guidance and [[moral-architecture-of-consciousness]] for the apex synthesis.
+Under dualism, consciousness does double duty: it determines who counts (moral patienthood) and unifies four traditionally separate ethical domains (value, agency, normativity, moral perception) on a single foundation. Distinctive positions follow: animals likely conscious and deserve moral consideration; current AI likely lacks moral patienthood (framework-dependent); copies and uploads create new moral patients, not continuations; moral seriousness is metaphysically grounded; character formation is genuine self-shaping through directed attention. These bear on factory farming, AI development, medical ethics, and technology policy. See [[living-with-the-map|Living with the Map]] for daily guidance and [[moral-architecture-of-consciousness]] for the apex synthesis.
 
 ## Further Reading
 

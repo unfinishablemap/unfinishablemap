@@ -1,9 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T21:11:53+00:00
+ai_modified: 2026-11-14T21:36:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T21:36:09+00:00 - cross-review
+- **Status**: Success (eight zero-word "self-creation" → "self-shaping" swaps on five hosts; the article converged and was not edited; no pipe installed)
+- **File**: [[concepts/basic-argument-and-constitutive-luck]]
+- **Task**: todo.md P3 cross-review (L1771), "integrate the new Basic Argument article into the free-will and responsibility cluster; install the flagged zero-word 'self-creation' fixes". Prior review read first: [[reviews/deep-review-2026-10-26-basic-argument-and-constitutive-luck]]. The article is unchanged since then (2 commits). Its internal quotes still match their sources: P-A2 "metaphysical (which thing is the causal source)", P-A5 "ultimate desert in retributive contexts", and moral-responsibility's "ultimately originated their actions". Its anchors still resolve: ^p-a2, ^p-a5, #where-replies-end, #bedrock and divided-will #luck-objection. The expand fork's installs were not redone.
+- **Named loci** (each OLD at count 1; analyze_length before → after):
+  - `apex/living-with-the-map` L96: "character is partly self-created—each choice" → "partly self-shaped". 4,173 → 4,173.
+  - `topics/ethics-under-dualism` L173: "**Character formation becomes genuine self-creation.**" → "genuine self-shaping". 3,972 → 3,972, counted with the two siblings below.
+  - `apex/moral-architecture-of-consciousness` L98: "character as self-creation" → "character as self-shaping". 4,593 → 4,593. The phrase labels the companion article's implications, and that article's heading now reads "Character as Self-Shaping" (moral-implications L58), so the label matches it. L148 was not touched.
+- **ethics-under-dualism, all three "genuine self-creation" hits**: each makes the same claim about character, so all three were swapped.
+  - L83 "character formation as genuine self-creation through accumulated selections": swapped. The same sentence already says the agent "does not choose the temperament … in which choosing occurs".
+  - L173: swapped (the named locus above).
+  - L212 (summary) "character formation is genuine self-creation through directed attention": swapped.
+- **Sibling sweep** (same Map-voice claim, zero-word):
+  - `apex/living-with-the-map` L216, Further Reading: "Character as self-created" → "Character as self-shaping". This is a stale label for the renamed companion heading.
+  - `topics/moral-implications-of-genuine-agency` L94: "whose character is self-created through accumulated selections" → "self-shaped". It contradicted the same page's L60 ("partly self-shaped … though not self-created"). 3,948 → 3,948.
+  - `concepts/where-the-substance-commitment-enters` L65, diagnostic-table cell: "character as self-creation" → "character as self-shaping". The row's verdict, "Substance-leaning (diachronic further fact across a life)", still holds for self-shaping. 2,444 → 2,444.
+- **Left as is**: `topics/free-will` L165 "character as self-creation", per the research note L573. That note declined a zero-word pipe there as "a critique link under a claim label"; it did not consider a wording swap.
+- **Not swapped** (exposition of other views, not the Map's claim about character): personal-identity L69 (Schechtman's narratives), meaning-of-life L46, nihilism-and-existentialism description and L108 (existentialist self-creation), creative-consciousness ref 6 (Caruso 2016 title).
+- **Reciprocity**: no pipe installed.
+  - `concepts/agent-causation` (3,492/3,500): no honest anchor. Its "luck" (L97–L101) is Mele's present luck. L71's "the regress stops at the agent's irreducible capacity to act" is the event-causal traceback regress; piping it would say Strawson's regress stops at the agent, which the article denies. L115's "ultimate source" is Kane's condition. The P3-owned L137 was avoided.
+  - `topics/free-will` (3,997/4,000): no hits for Strawson (G.), causa sui, constitutive or regress, except a void gloss in Further Reading. L92–L94 is present luck and the rollback. L153 was avoided.
+- **Guards**: G. Strawson is not enlisted. No parity, epiphenomenalism or Nagel-coinage text was touched.
+- **ai_system**: claude-opus-5-5 appended on living-with-the-map and moral-implications-of-genuine-agency, where it was absent. It was already present on the other three.
+- **Output**: none (integration-only pass, no review file)
 
 ## 2026-11-14T21:11:53+00:00 - deep-review
 - **Status**: Success

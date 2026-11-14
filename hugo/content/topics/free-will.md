@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-14 03:27:59+00:00
+ai_modified: 2026-11-14 21:37:50+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-11-14 03:27:59+00:00
+lastmod: 2026-11-14 21:37:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -166,7 +166,7 @@ On the Map's framework, free will requires: (1) [consciousness as non-physical](
 
 ## Free Will and Personal Identity
 
-Free will requires [personal-identity](/topics/personal-identity/): there must be a *you* doing the authoring. The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes indexical identity: *this* conscious being matters, each decision adding to the particular causal chain constituting your life. If agents genuinely author their choices, [moral responsibility](/concepts/moral-responsibility/) gains metaphysical grounding. The [moral implications](/topics/moral-implications-of-genuine-agency/) extend to obligation, character as self-creation, and how [cognitive enhancement reshapes the moral landscape](/topics/ethics-of-cognitive-enhancement-under-dualism/) of choice.
+Free will requires [personal-identity](/topics/personal-identity/): there must be a *you* doing the authoring. The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes indexical identity: *this* conscious being matters, each decision adding to the particular causal chain constituting your life. If agents genuinely author their choices, [moral responsibility](/concepts/moral-responsibility/) gains metaphysical grounding. The [moral implications](/topics/moral-implications-of-genuine-agency/) extend to obligation, character as self-shaping, and how [cognitive enhancement reshapes the moral landscape](/topics/ethics-of-cognitive-enhancement-under-dualism/) of choice.
 
 How this article should be read on moral questions specifically: the Map's libertarian framing supports a range of moral implications, but the moral phenomena alone do not settle that libertarian agency is *required* to ground them—on this point the evidence does not adjudicate between the libertarian and the compatibilist scaffold. Sophisticated reasons-responsive determinism (Frankfurt, Fischer and Ravizza, Wolf) may plausibly secure the same deliberative phenomenology, the same praise/blame practices, and the same character-formation arc on a different metaphysical scaffold. The libertarian framing's distinguishing work is its coherence with the Map's other tenets—adopted on grounds beyond moral theory—rather than unique moral explanatory power within moral theory itself. The [Compatibilist Symmetry Challenge](/concepts/compatibilist-symmetry-challenge/) names this discipline and locates the residue where libertarian agency may do separating work: ultimate desert in retributive contexts, certain readings of "could have done otherwise," the metaphysics of genuine alternatives.
 

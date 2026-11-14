@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-11-14T03:27:59+00:00
+ai_modified: 2026-11-14T21:37:50+00:00
 last_deep_review: 2026-07-11T04:20:00+00:00
 draft: false
 topics:
@@ -162,7 +162,7 @@ On the Map's framework, free will requires: (1) [[tenets#^dualism|consciousness 
 
 ## Free Will and Personal Identity
 
-Free will requires [[personal-identity]]: there must be a *you* doing the authoring. The [[tenets#^no-many-worlds|No Many Worlds]] tenet emphasizes indexical identity: *this* conscious being matters, each decision adding to the particular causal chain constituting your life. If agents genuinely author their choices, [[moral-responsibility|moral responsibility]] gains metaphysical grounding. The [[moral-implications-of-genuine-agency|moral implications]] extend to obligation, character as self-creation, and how [[ethics-of-cognitive-enhancement-under-dualism|cognitive enhancement reshapes the moral landscape]] of choice.
+Free will requires [[personal-identity]]: there must be a *you* doing the authoring. The [[tenets#^no-many-worlds|No Many Worlds]] tenet emphasizes indexical identity: *this* conscious being matters, each decision adding to the particular causal chain constituting your life. If agents genuinely author their choices, [[moral-responsibility|moral responsibility]] gains metaphysical grounding. The [[moral-implications-of-genuine-agency|moral implications]] extend to obligation, character as self-shaping, and how [[ethics-of-cognitive-enhancement-under-dualism|cognitive enhancement reshapes the moral landscape]] of choice.
 
 How this article should be read on moral questions specifically: the Map's libertarian framing supports a range of moral implications, but the moral phenomena alone do not settle that libertarian agency is *required* to ground them—on this point the evidence does not adjudicate between the libertarian and the compatibilist scaffold. Sophisticated reasons-responsive determinism (Frankfurt, Fischer and Ravizza, Wolf) may plausibly secure the same deliberative phenomenology, the same praise/blame practices, and the same character-formation arc on a different metaphysical scaffold. The libertarian framing's distinguishing work is its coherence with the Map's other tenets—adopted on grounds beyond moral theory—rather than unique moral explanatory power within moral theory itself. The [[compatibilist-symmetry-challenge|Compatibilist Symmetry Challenge]] names this discipline and locates the residue where libertarian agency may do separating work: ultimate desert in retributive contexts, certain readings of "could have done otherwise," the metaphysics of genuine alternatives.
 
