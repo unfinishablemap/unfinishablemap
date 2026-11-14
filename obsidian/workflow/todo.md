@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `voids/beloved-void` — Voids: The Beloved Void
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-beloved-void-2026-11-14.md
-- **Target section**: voids
-- **Section**: voids
-- **Status**: pending
-- **Source**: research-chain (auto-minted by cycle_post after research-topic)
-- **Generated**: 2026-11-14
-- **Headroom**: voids 120/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
-- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -5597,6 +5586,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-14: Write `voids/beloved-void` — Voids: The Beloved Void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-beloved-void-2026-11-14.md
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-11-14: "Closure-preserving" said of Saad's delegatory/trumping route survives on four more pages after the 2026-10-25 17:42Z six-file fix — `topics/interventionist-and-counterfactual-dualism` L39/L100/L106, `concepts/articulability-of-q1` L88, `topics/four-quadrant-dualism-taxonomy` L133, research note `interventionist-and-counterfactual-dualism-2026-07-15` L24/L158
 - **Type**: refine-draft

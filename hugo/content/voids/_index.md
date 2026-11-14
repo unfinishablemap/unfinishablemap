@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-13 23:23:38+00:00
+ai_modified: 2026-11-14 14:42:19+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-11-13 23:23:38+00:00
+lastmod: 2026-11-14 14:42:19+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -126,6 +126,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [The Taboo Void](/voids/taboo-void/) — thoughts a mind can form but refuses to weigh are a psychological finding physicalists and dualists alike owe an account of.
 - [The Mirth Void](/voids/mirth-void/) — the laugher's bounded access to the trigger holds whether mirth is a quale or a reward.
 - [The Weeping Void](/voids/weeping-void/) — the crier's bounded view of what her tears are for, what produced them and whether they helped rests on clinical and laboratory findings that hold on any view of what tears express.
+- [The Beloved Void](/voids/beloved-void/) — the failure of measures taken before meeting to forecast the pair-specific part of initial desire is a statistical finding, and the missing warrant for loving this person over an equally eligible one is conceded within the philosophy of love, so a physicalist and a dualist describe the same blank.
 - [The Cross-State Void](/voids/cross-state-void/) — that representing a state and being in it come apart is a finding every theory must accommodate.
 - [The Blindspot Void](/voids/blindspot-void/) — its doxastic and global layers are theorems of epistemic logic, neutral between dualism and physicalism.
 - [The Assent Void](/voids/assent-void/) — believing-at-will is excluded by the concept of belief on the dominant view, and the timing question is contested within cognitive psychology, so a physicalist and a dualist describe the same blank; seam untested.
@@ -228,6 +229,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Boredom Void](/voids/boredom-void/) — Why boredom demands a change of engagement, naming no particular target, and presents a failed engagement as a dullness in the object: four faces (objectless feeling / projection / self-supply and forecast / examination, the last only under the attentional definition). An opportunity-cost model accommodates the objectless face, so the void weighs little for dualism; neighbour of [mood](/voids/mood-void/) and [mattering](/voids/mattering-void/) at profound boredom (created 2026-10-31)
 - [The Chroma Void](/voids/chroma-void/) — Why most listeners hold absolute-pitch information they cannot recognise as a note, and why no agreed test tells a heard chroma from a fast label: four faces (latent / template, contested / report / calibration)
 - [The Weeping Void](/voids/weeping-void/) — Why science has no settled account of what emotional tears are for, and why the crier has no privileged view of what produced hers or whether crying helped: four faces (function / occasion / relief / will), two of them shared with the mirth void
+- [The Beloved Void](/voids/beloved-void/) — Why measures taken before two people meet fail to forecast the pair-specific part of initial desire, why several accounts of love concede that nothing justifies loving this person over an equally eligible one, and why a lover cannot tell found perfections from conferred ones: four faces (forecast / warrant / object / lens), the first two sharing one root
 
 ### Phenomenology of Limits
 

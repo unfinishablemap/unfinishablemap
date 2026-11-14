@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-11-13
-ai_modified: 2026-11-13 23:23:38+00:00
+ai_modified: 2026-11-14 14:41:58+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: 'Human+AI exploration of what a crier can know of her own tears: sc
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-13 23:23:38+00:00
+lastmod: 2026-11-14 14:41:58+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -112,6 +112,7 @@ The void bears on no other tenet. Plessner offers his description of a person wh
 - [mattering-void](/voids/mattering-void/) — the felt weight of significance that tears of joy may register
 - [interoceptive-void](/voids/interoceptive-void/) — the body's opacity to its owner; here the sensation is plain and the meaning hidden
 - [emotional-epistemology-void](/voids/emotional-epistemology-void/) — whether emotions disclose anything, of which tears are a bodily case
+- [beloved-void](/voids/beloved-void/) — a sibling affective void whose object is a person
 
 ## References
 

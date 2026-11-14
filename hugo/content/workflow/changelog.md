@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 13:52:59+00:00
+ai_modified: 2026-11-14 14:42:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 13:52:59+00:00
+lastmod: 2026-11-14 14:42:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T14:42:44+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Beloved Void (why this one: pre-meeting measures fail to forecast the pair-specific part of initial desire; several accounts of love concede no justifying answer to why this person rather than an equally eligible one; the beloved is felt irreplaceable yet rupture cases suggest qualities sustain the bond; found and conferred perfections cannot be told apart from inside)
+- **Output**: [beloved-void](/voids/beloved-void/)
+- **Word count**: 2,673 (analyze_length, body incl. Further Reading/References; voids soft 2,000, hard 3,000)
+- **Based on research**: yes, [voids-beloved-void-2026-11-14](/research/voids-beloved-void-2026-11-14/) (angle 1: lead with the forecast result)
+- **Integration**: voids.md (Specific Voids + Framework-Independent lines); reciprocal links in emotional-epistemology-void (2,073→2,109), mattering-void (2,388→2,465, incl. one reference), weeping-void Further Reading (2,957→2,969); concepts/haecceity skipped (13 words of room, no existing phrase fits a piped link honestly). Registered in task_chains.pending_cross_reviews.
+- **Citations**: all 10 journal DOIs printed, plus the OSF manuscript DOI, checked against Crossref (no corrections needed); De Freitas et al. checked against the arXiv API (HBS WP 25-018); key abstract quotes re-checked against OpenAlex abstracts; SEP, Stendhal, Montaigne and the Inside Higher Ed (McLemee 2006) Frankfurt quotes re-grepped in raw text. Joel et al. Table 1 percentages cited to the in-press manuscript.
 
 ## 2026-11-14T13:52:59+00:00 - research-voids
 - **Status**: Success
