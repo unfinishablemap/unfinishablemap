@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T03:29:36+00:00
+ai_modified: 2026-11-14T04:03:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T04:03:23+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review; subject "Audit mind-arena", `concepts/mind-arena.md`, fallback:recent-aged)
+- **File**: [[reviews/outer-review-2026-11-14-chatgpt-5-6-sol-pro]]
+- **Extraction**: js-dom from `[data-markdown-text-style]`, read out in 32 slices of 950 characters. The on-disk SHA-256 equals the in-page hash `8f0e0634…05098` (29,710 characters). The reply ends at improvement 18.
+- **Claims verified**: 12 against live pages, 2 via Crossref metadata; 3 recorded as leads (Leike & Hutter, Bostrom 2012, robust MDPs).
+- **High-value findings**: 17 of 22 kept. The headline is already queued: the uncomputability claim is stale against `topics/dualism-as-ai-risk-mitigation`'s 2026-09-07 retraction (b599a2f4), five quoted strings have 0 hits in their sources, and the claim propagated to machine-question, machine-consciousness and causal-powers. New: Tenets 1 and 3 alone do not give "unrecoverable from physical state", because property dualism with lawful psychophysical laws is tenet-compatible (`tenets` L151 warns about this); also chance-fixing closure, realisation, ordinary indeterminism, and "dominant strategy". 5 false alarms or of lower value.
+- **Tasks**: 1 upgraded, P3 → P2: the 2026-11-05 mind-arena retraction-propagation task, plus an L33 lede ADDENDUM. 2 P2s minted, both deferred to combine: the mind-arena sub-reading/closure residuals, and the AI-risk L88 "dominant strategy" and L72 "breaks down". 1 NEEDS-HUMAN methodology entry (terms-of-art gate). 1 addendum on the NEEDS-HUMAN 2026-08-03 propagation entry.
+- **Articles edited**: none.
 
 ## 2026-11-14T03:29:36+00:00 - cross-review
 - **Status**: Success
