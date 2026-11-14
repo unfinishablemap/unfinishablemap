@@ -513,9 +513,9 @@
   prompt_summary: 'Audit mind-arena: uncomputability claim, objections, citations,
     integration'
   target_filename: outer-review-2026-11-14-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-14T05:07:43.608873+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee and audit "The Mind-Arena" on The
     Unfinishable Map (https://unfinishablemap.org), at https://unfinishablemap.org/concepts/mind-arena/.

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T04:03:23+00:00
+ai_modified: 2026-11-14T05:16:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T05:16:56+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (collected by collect-claude-review; subject "Audit mind-arena", `concepts/mind-arena.md`, reused from the ChatGPT leg)
+- **File**: [[reviews/outer-review-2026-11-14-claude-fable-5-2]]
+- **Extraction**: js-dom from the artifact panel's largest `.standard-markdown`, read out in 32 slices. The reassembled SHA-256 equals the in-page hash `35f024ed…4418d7` (28,143 characters). The hash is taken after stripping 53 private-use citation-chip glyphs (U+E015) that the read-out channel drops. The reply ends at methodology item 7.
+- **Caveat**: the reviewer's fetch tool refused the target page ("no search had returned them as results"), so the audit was rebuilt from quotes. Every live locus it relied on re-grepped at count 1.
+- **Claims verified**: 16 against live pages, 1 via Crossref metadata (Lloyd 2012, content not fetched).
+- **High-value findings**: 15 of 28 kept. 11 converge with the ChatGPT leg and are already owned: the uncomputability verdict, the Born trilemma, the propagated glosses, chance-fixing closure, the missing apex link, and the terminology and propagation methodology items. 4 are new: the predictive-modelling objection, which mind-arena never engages; a falsifier at a named grain; Aaronson/Lloyd as analogues; and the recurring fetch block. 13 are false alarms, lapsed or of lower value: the stale L88 self-citation (fixed 2026-11-06), the site-wide predictive-processing "gap", the risk-page follow-ups (landed), the Stapp persona, and others.
+- **Tasks**: 0 executable tasks minted. Item (7), predictive modelling, residual and falsifier, was added as an ADDENDUM to the open outer-review P2 "`concepts/mind-arena` derives its defining property…" (Generated 2026-11-14), with an `Outer-review convergence` field. 1 NEEDS-HUMAN (pipeline) entry: Claude-leg fetch refusals, 6 of the last 15 legs. No priorities changed.
+- **Articles edited**: none.
 
 ## 2026-11-14T04:03:23+00:00 - outer-review
 - **Status**: Success
