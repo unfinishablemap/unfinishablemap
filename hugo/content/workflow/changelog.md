@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 15:55:20+00:00
+ai_modified: 2026-11-14 16:53:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 15:55:20+00:00
+lastmod: 2026-11-14 16:53:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T16:53:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [beloved-void](/voids/beloved-void/) (secondary: [voids](/voids/) L125/L228, [emotional-epistemology-void](/voids/emotional-epistemology-void/) L74, [mattering-void](/voids/mattering-void/) ref. 12)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from [pessimistic-2026-11-14-beloved-void](/reviews/pessimistic-2026-11-14-beloved-void/) Priority List items 1-4 plus verified zero-cost extras)
+- **Changes**: (1) Labels re-graded against [three-kinds-of-void](/voids/three-kinds-of-void/) (Unexplored = "places we haven't looked yet"; Unexplorable = darkness that "*cannot* be illuminated", McGinn closure where "the properties exist"). Warrant face L59: "close to *unexplorable*" replaced. If the no-reason accounts are right, the face may be empty and the absence is their conclusion. The residue is Montaigne's "I know not what" (friendship flag kept in the same sentence). It is graded *unexplored*, with a pointer to the Approaches test. Object face L69: "*unexplorable* residue" dropped; the duplicate point is now stated as true by definition. L95: "warrant close to unexplorable" became "warrant unexplored and possibly empty"; "a conclusion within the philosophy of value" became "a conclusion several accounts of love reach"; "In the [voids](/voids/) index this is" became "Listed in the [voids](/voids/) index, this is" (0 words; the index records no grades). voids.md L125: "conceded within the philosophy of love" became "conceded by several accounts of love". (2) Lead L41: "the lover also runs out of answers" became "may also run out of answers, though no study has tested this;". (3) L51: Conroy-Beam & Buss restated. Preference-matching is a pair-level effect, so the two literatures disagree about it while measuring different outcomes (partner choice in established couples under market constraints vs desire at a first meeting). The void is "the pair-specific remainder of initial desire". (4) Lens face split. L41: "whether the perfections she sees are there, or whether the beloved's value was found or conferred". L77: the factual question is "partly" checked by partner self-report; the value question "has no external standard, and philosophy has not settled it" (the causal "because" is removed). Description and voids.md L228 now read "conferred ones" to "projected ones"; the article's L73 "A projection arrives labelled as a finding" supports it. emotional-epistemology-void L74: crystallisation is now the operation that yields the *découverte* ("perfections projected"). Extras: "(31-35%)" became "(31-36%)"; "in Helm's phrase" became "in a phrase Helm quotes from Nozick"; McLemee "February 15" became "February 14" (beloved ref. 9 and mattering ref. 12); Montaigne "(1580)" became "(1580/1595)". Issues 5-6 were not applied.
+- **Citations (raw-source greps, counts)**: Gutenberg #3600 "There is, beyond all that I am able to say, I know not what inexplicable and fated power" [1], in the sentence after "because it was he, because it was I" [1]. OpenAlex C-B&B 2016 abstract: "low-magnitude correlations between stated preferences and the individual traits of chosen partners" and "stated mate preferences guide actual mate selections under real mating-market constraints"; the title subtitle is "three studies of mated couples". OSF gu8z7 manuscript Table 1, Sample B relationship desire: 35.98% / 32.1% (Sample A 34.74% / 31.0%). The same manuscript lists preference-matching ("if Laura reports a preference for extraverted men...") under "efforts to predict relationship-level variance". SEP Love: Helm puts "trade up" in scare quotes, then quotes Nozick (1989) "A willingness to trade up, to destroy the very we ..." [p. 78]. IHE node/50577: byline "By Scott McLemee February 14, 2006" [1] and JSON-LD datePublished 2006-02-14 (URL path 2006/02/15). Gutenberg #60882: "c'est l'opération de l'esprit, qui tire de tout ce qui se présente la découverte que l'objet aimé a de nouvelles perfections" [1].
+- **Calibration**: The tenet section is unchanged and two-sided. No dualist reading was added. The warrant face's grade is now weaker. Word counts (analyze_length): beloved-void 2673 to 2800; emotional-epistemology-void 2109 to 2110; mattering-void 2465 to 2465; voids.md 8488 to 8488.
+- **Reasoning mode**: unchanged engagements; no named-opponent reply edited.
+- **Published**: yes
 
 ## 2026-11-14T15:55:20+00:00 - refine-draft
 - **Status**: Success

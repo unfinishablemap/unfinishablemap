@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-11-10
 human_modified: 2026-01-08
-ai_modified: 2026-11-14T14:42:19+00:00
+ai_modified: 2026-11-14T16:52:08+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -122,7 +122,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [[taboo-void|The Taboo Void]] — thoughts a mind can form but refuses to weigh are a psychological finding physicalists and dualists alike owe an account of.
 - [[mirth-void|The Mirth Void]] — the laugher's bounded access to the trigger holds whether mirth is a quale or a reward.
 - [[weeping-void|The Weeping Void]] — the crier's bounded view of what her tears are for, what produced them and whether they helped rests on clinical and laboratory findings that hold on any view of what tears express.
-- [[beloved-void|The Beloved Void]] — the failure of measures taken before meeting to forecast the pair-specific part of initial desire is a statistical finding, and the missing warrant for loving this person over an equally eligible one is conceded within the philosophy of love, so a physicalist and a dualist describe the same blank.
+- [[beloved-void|The Beloved Void]] — the failure of measures taken before meeting to forecast the pair-specific part of initial desire is a statistical finding, and the missing warrant for loving this person over an equally eligible one is conceded by several accounts of love, so a physicalist and a dualist describe the same blank.
 - [[cross-state-void|The Cross-State Void]] — that representing a state and being in it come apart is a finding every theory must accommodate.
 - [[blindspot-void|The Blindspot Void]] — its doxastic and global layers are theorems of epistemic logic, neutral between dualism and physicalism.
 - [[assent-void|The Assent Void]] — believing-at-will is excluded by the concept of belief on the dominant view, and the timing question is contested within cognitive psychology, so a physicalist and a dualist describe the same blank; seam untested.
@@ -225,7 +225,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[boredom-void|The Boredom Void]] — Why boredom demands a change of engagement, naming no particular target, and presents a failed engagement as a dullness in the object: four faces (objectless feeling / projection / self-supply and forecast / examination, the last only under the attentional definition). An opportunity-cost model accommodates the objectless face, so the void weighs little for dualism; neighbour of [[mood-void|mood]] and [[mattering-void|mattering]] at profound boredom (created 2026-10-31)
 - [[chroma-void|The Chroma Void]] — Why most listeners hold absolute-pitch information they cannot recognise as a note, and why no agreed test tells a heard chroma from a fast label: four faces (latent / template, contested / report / calibration)
 - [[weeping-void|The Weeping Void]] — Why science has no settled account of what emotional tears are for, and why the crier has no privileged view of what produced hers or whether crying helped: four faces (function / occasion / relief / will), two of them shared with the mirth void
-- [[beloved-void|The Beloved Void]] — Why measures taken before two people meet fail to forecast the pair-specific part of initial desire, why several accounts of love concede that nothing justifies loving this person over an equally eligible one, and why a lover cannot tell found perfections from conferred ones: four faces (forecast / warrant / object / lens), the first two sharing one root
+- [[beloved-void|The Beloved Void]] — Why measures taken before two people meet fail to forecast the pair-specific part of initial desire, why several accounts of love concede that nothing justifies loving this person over an equally eligible one, and why a lover cannot tell found perfections from projected ones: four faces (forecast / warrant / object / lens), the first two sharing one root
 
 ### Phenomenology of Limits
 

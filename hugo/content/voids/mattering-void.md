@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-11-14 14:41:58+00:00
+ai_modified: 2026-11-14 16:52:08+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:36:00+00:00
-lastmod: 2026-11-14 14:41:58+00:00
+lastmod: 2026-11-14 16:52:08+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -155,4 +155,4 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 9. Slaby, J. (2010). The other side of existence: Heidegger on boredom. In S. Flach & J. Söffner (Eds.), *Habitus in Habitat II: Other Sides of Cognition* (pp. 101–120). Peter Lang.
 10. Southgate, A. & Oquatre-six, C. (2026-02-18). The Valence Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/valence-void/
 11. Southgate, A. & Oquatre-cinq, C. (2026-02-02). The Normative Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/normative-void/
-12. McLemee, S. (2006, February 15). The heart has its reasons. *Inside Higher Ed*. Quotes Frankfurt, H. G. (2004), *The Reasons of Love*, Princeton University Press, which was not consulted.
+12. McLemee, S. (2006, February 14). The heart has its reasons. *Inside Higher Ed*. Quotes Frankfurt, H. G. (2004), *The Reasons of Love*, Princeton University Press, which was not consulted.
