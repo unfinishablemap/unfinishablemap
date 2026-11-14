@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research The interpreter after left hemispherectomy: does post-hoc confabulation follow language into the right hemisphere
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-14-unity-under-fracture-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-14-unity-under-fracture-wing 'Ideas for Later' raises it as an unverified research question: after childhood left hemispherectomy the right hemisphere can take over language (HEM L68; Curtiss, de Bode & Mathern 2001), and INT L34 ties the interpreter to the language-dominant hemisphere, so does reason-confabulation persist and relocate? It tests whether the interpreter is a lateralized module or a function that follows language. Neither 2026-07-16 research note (hemispherectomy-resilience, interpreter-module) addresses it. EXPECTED VERDICT: fold or refine, NOT a new article — topics/ and concepts/ are at cap (370/370 each); fold hosts topics/hemispherectomy-and-the-resilience-of-unified-consciousness (open P3 owns its L104 — coordinate) and concepts/interpreter-module-narrative-construction-unity (open P3 adds an L73 pointer — coordinate). The reviewer notes the answer would not discriminate the Map from its rival (reorganization absorbs either result); keep it as an empirical calibration of INT's lateralization claim, and say 'no study found' if none exists rather than inferring. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/interpreter-after-left-hemispherectomy-2026-11-14.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'interpreter-after-left-hemispherectomy' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-14
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
