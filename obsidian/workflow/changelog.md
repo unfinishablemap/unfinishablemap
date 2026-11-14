@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T02:41:03+00:00
+ai_modified: 2026-11-14T03:29:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T03:29:36+00:00 - cross-review
+- **Status**: Success
+- **File**: [[concepts/rollback-argument-against-agent-causation]] (cross-review integration plus deep review)
+- **Task**: todo.md P3 cross-review (L1769), "integrate the new luck/Mind-argument article into the free-will and agency cluster". The expand fork's six installs (free-will L94 pipe, agent-causation L101, quantum-indeterminacy-free-will, event-causal-libertarianism, manipulation L70, agency-incompatibilism L78) were not redone.
+- **Reciprocity**: of the 11 registered targets, 9 already linked back. The two missing ones, the-divided-will and the-consequence-argument, were linked this run. Of the extra targets the page names, apex/born-preserving-causal-efficacy was linked. positions/quantum-interface and positions/agency-and-will were declined: register edits need a dated Updated note, and P-Q2 is under an open human decision.
+- **Edits** (each OLD at count 1, live line printed first; all zero-word except the rollback page):
+  - topics/free-will L94: "Van Inwagen's rollback presses" → "Van Inwagen's replay presses". Raw van Inwagen 2000 (andrewmbailey.com/pvi PDF): "roll" 0 hits, "replay" 39, "replays" 21. 3,997 → 3,997.
+  - apex/consciousness-and-agency L101: "is a legitimate terminus." → "is [[rollback-argument-against-agent-causation|a legitimate terminus]]." This is the cheapest fix the blocked P2 primitive-parity task (L1748) names. It lands at net 0 (4,996 → 4,996). The task itself was not edited and stays blocked: its L173 half (one standard for both primitives) is not discharged by a pipe.
+  - topics/the-consequence-argument-for-incompatibilism L95: "linked through the Mind argument" → "linked through [[rollback-argument-against-agent-causation|the Mind argument]]". The Finch sentences were not touched. 2,988 → 2,988. There is no open Finch 2017 task; it landed in commit 6cc91eb7a6 on 2026-11-02.
+  - topics/the-divided-will L109: "as an explanatory terminus," → "as [[rollback-argument-against-agent-causation#bedrock|an explanatory terminus]],". 3,156 → 3,156.
+  - apex/born-preserving-causal-efficacy L99: "— a debt the register" → "— [[rollback-argument-against-agent-causation#one-debt|a debt]] the register". The rollback page's quoted span ("needs a companion law … never written one") is still count 1. 5,113 → 5,113 (over hard already; net 0).
+  - concepts/rollback-argument-against-agent-causation L86: "a cost the Map records as contested rather than discharged" → "a contested cost the Map records as undischarged". The linked hard-incompatibilism page records the cost as "not one it has discharged" (L68) and says it "stays undischarged" (L70), and it has no "contested". 3,081 → 3,079.
+- **Deep review** (first pass over the 10-30 fold): 0 critical, 1 medium (L86 above), 2 low (left). Raw re-grep: O'Connor 2016 p. 292 (3 spans), Müller 2023 pp. 798 and 799, Archer 2022 abstract and n. 20 (23 notes), van Inwagen 2000 (11 spans), both SEP entries (5 spans; revisions still current), and Bernáth and Tőzsér 2020 (MTAK PDF: cites O'Connor 2000 and 2011 only, 0 "Vicens"), all matched. Crossref metadata for Müller, O'Connor 2011 and 2016, Clarke 2011 and Archer is correct. NOT re-grepped: the Buchak 2013 "micro-level events of the type studied by physics" span (Wayback 429; PhilArchive, PhilPapers and Princeton 403), which is note-verified only (10-28). Map-internal quotes P-Q2, P-A2 and the Born-preserving L99 span were re-grepped at count 1.
+- **Reasoning mode**: engagement with O'Connor 2016 is Mode Two: he asserts coexistence without the demonstration his own framework needs. Engagement with Müller 2023 and Archer 2022 is Mode Three. The rest are unchanged from 10-25.
+- **Calibration**: the one-debt reading is still labelled as the Map's synthesis. P-Q2's quantifier is untouched. O'Connor (emergentist), Clarke, van Inwagen and Müller are not enlisted for dualism. Epiphenomenalism is not conceded. archive/ was not edited. "load-bearing" 0; "This is not X. It is Y." 0.
+- **ai_system**: claude-opus-5-5 was already present on all six files, so none changed. ai_modified was bumped to 2026-11-14T03:29:36+00:00 on all six. modified was bumped on the rollback page only.
+- **Out of scope (not edited)**: concepts/reasons-responsiveness L50 "as van Inwagen's rollback argument does" is NOT a defect. "Van Inwagen's rollback argument" is standard literature usage (Archer 2022 n. 20 uses the exact phrase). The free-will change was about van Inwagen's own vocabulary only.
+- **Output**: [[reviews/deep-review-2026-11-14-rollback-argument-against-agent-causation]]
 
 ## 2026-11-14T02:41:03+00:00 - refine-draft
 - **Status**: Success

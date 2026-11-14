@@ -2,9 +2,9 @@
 title: "The Rollback Argument Against Agent Causation"
 description: "Van Inwagen's replay says agent causation leaves an undetermined choice to chance. Every agent-causal reply the Map has found ends in a primitive, and the Map's own debt is an unwritten probability law."
 created: 2026-10-25
-modified: 2026-11-06
+modified: 2026-11-14
 human_modified: null
-ai_modified: 2026-11-06T02:52:57+00:00
+ai_modified: 2026-11-14T03:27:59+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-5-5
 ai_generated_date: 2026-10-25
 last_curated: null
-last_deep_review: 2026-10-25T15:33:19+00:00
+last_deep_review: 2026-11-14T03:27:59+00:00
 ---
 
 The **rollback argument** holds that if a choice is undetermined, then replaying the universe many times from exactly the same prior state would yield different choices on different replays, in proportions that settle towards a ratio, so that which choice occurs on any one occasion is a matter of chance. Peter van Inwagen (2000) ran the argument with agent causation explicitly granted and concluded that "whether or not Alice's acts are the results of agent-causation—it is a mere matter of chance whether she will tell the truth or lie" (p. 17). "Rollback" is a later label; van Inwagen's own word is "replays". It is the [[agent-causation#the-luck-objection|luck objection]] in the form aimed at agent-causal libertarianism, the view that an agent, rather than any event, settles which open option becomes actual.
@@ -83,7 +83,7 @@ This section is the Map's own analysis, which no source above makes, and it take
 **The fork at that grain**, stated symmetrically:
 
 - **If the conditionals are objective propensities**, the Map grants van Inwagen's premise at that grain and meets Bernáth and Tőzsér's objection. This is the reading the Map needs if selection is ever to depart from the public statistics under some conditioning, the first horn of [[born-preserving-causal-efficacy|the Born-preservation trilemma]].
-- **If there are no such propensities**, the Map blocks the replay as Buchak and Vicens would. The Born-exact public statistics must then hold without being a mixture of conditional chances: across many agents and occasions, propensity-free settlings would match the Born weights with nothing explaining the match. That is Derk Pereboom's wild-coincidences objection (Pereboom 2001, ch. 3; 2014) applied to the Born weights, a cost the Map records as contested rather than discharged ([[the-manipulation-argument-and-hard-incompatibilism|hard incompatibilism]]). Thomas Müller (2023) argues the objection fails for statistical laws: even where the physical probabilities are known independently, as the Born weights are, a coincidence needs contrary expectations, such as known agent propensities "relevantly different" from them (p. 799), and on a propensity-free view "Nothing in the anomic position grounds any contrary expectations" (p. 798).
+- **If there are no such propensities**, the Map blocks the replay as Buchak and Vicens would. The Born-exact public statistics must then hold without being a mixture of conditional chances: across many agents and occasions, propensity-free settlings would match the Born weights with nothing explaining the match. That is Derk Pereboom's wild-coincidences objection (Pereboom 2001, ch. 3; 2014) applied to the Born weights, a contested cost the Map records as undischarged ([[the-manipulation-argument-and-hard-incompatibilism|hard incompatibilism]]). Thomas Müller (2023) argues the objection fails for statistical laws: even where the physical probabilities are known independently, as the Born weights are, a coincidence needs contrary expectations, such as known agent propensities "relevantly different" from them (p. 799), and on a propensity-free view "Nothing in the anomic position grounds any contrary expectations" (p. 798).
 
 **Both branches end at one law.** The Map's own analysis concludes that exact Born-preservation "needs a companion law over the distribution of conscious reasons, and the Map has never written one" ([[born-preserving-causal-efficacy|Born-preserving causal efficacy]]). On the first branch that law would be a propensity profile over conscious states, constrained to keep the public statistics Born-exact; on the second, a law of conformity making the match lawful rather than coincidental. On the Map's reading, then, the modal structure its luck reply owes, the wild-coincidence cost and the companion-law debt are one unwritten law.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-25
-ai_modified: 2026-11-06 02:52:57+00:00
+ai_modified: 2026-11-14 03:27:59+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -9,15 +9,15 @@ concepts:
 - '[[quantum-indeterminacy-free-will]]'
 - '[[reasons-responsiveness]]'
 created: 2026-10-25
-date: &id001 2026-11-06
+date: &id001 2026-11-14
 description: Van Inwagen's replay says agent causation leaves an undetermined choice
   to chance. Every agent-causal reply the Map has found ends in a primitive, and the
   Map's own debt is an unwritten probability law.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-10-25 15:33:19+00:00
-lastmod: 2026-11-06 02:52:57+00:00
+last_deep_review: 2026-11-14 03:27:59+00:00
+lastmod: 2026-11-14 03:27:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ This section is the Map's own analysis, which no source above makes, and it take
 **The fork at that grain**, stated symmetrically:
 
 - **If the conditionals are objective propensities**, the Map grants van Inwagen's premise at that grain and meets Bernáth and Tőzsér's objection. This is the reading the Map needs if selection is ever to depart from the public statistics under some conditioning, the first horn of [the Born-preservation trilemma](/apex/born-preserving-causal-efficacy/).
-- **If there are no such propensities**, the Map blocks the replay as Buchak and Vicens would. The Born-exact public statistics must then hold without being a mixture of conditional chances: across many agents and occasions, propensity-free settlings would match the Born weights with nothing explaining the match. That is Derk Pereboom's wild-coincidences objection (Pereboom 2001, ch. 3; 2014) applied to the Born weights, a cost the Map records as contested rather than discharged ([hard incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)). Thomas Müller (2023) argues the objection fails for statistical laws: even where the physical probabilities are known independently, as the Born weights are, a coincidence needs contrary expectations, such as known agent propensities "relevantly different" from them (p. 799), and on a propensity-free view "Nothing in the anomic position grounds any contrary expectations" (p. 798).
+- **If there are no such propensities**, the Map blocks the replay as Buchak and Vicens would. The Born-exact public statistics must then hold without being a mixture of conditional chances: across many agents and occasions, propensity-free settlings would match the Born weights with nothing explaining the match. That is Derk Pereboom's wild-coincidences objection (Pereboom 2001, ch. 3; 2014) applied to the Born weights, a contested cost the Map records as undischarged ([hard incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)). Thomas Müller (2023) argues the objection fails for statistical laws: even where the physical probabilities are known independently, as the Born weights are, a coincidence needs contrary expectations, such as known agent propensities "relevantly different" from them (p. 799), and on a propensity-free view "Nothing in the anomic position grounds any contrary expectations" (p. 798).
 
 **Both branches end at one law.** The Map's own analysis concludes that exact Born-preservation "needs a companion law over the distribution of conscious reasons, and the Map has never written one" ([Born-preserving causal efficacy](/apex/born-preserving-causal-efficacy/)). On the first branch that law would be a propensity profile over conscious states, constrained to keep the public statistics Born-exact; on the second, a law of conformity making the match lawful rather than coincidental. On the Map's reading, then, the modal structure its luck reply owes, the wild-coincidence cost and the companion-law debt are one unwritten law.
 

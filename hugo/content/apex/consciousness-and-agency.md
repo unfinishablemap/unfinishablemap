@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-11-09 18:38:51+00:00
+ai_modified: 2026-11-14 03:27:59+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-10-16 10:28:34+00:00
 apex_sources:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:17:36+00:00
-lastmod: 2026-11-09 18:38:51+00:00
+lastmod: 2026-11-14 03:27:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ Two refinements keep the selector from being a passive menu-reader. Consciousnes
 
 Most causal explanations trace event to event: the desire caused the decision; the decision caused the movement. [Agent causation](/concepts/agent-causation/) is different. The agent—a persisting substance, not a collection of events—directly causes the action, and the regress of causes stops there. [Event-causal libertarianism](/topics/event-causal-libertarianism/), on which agent-involving mental events cause actions nondeterministically with no agent-as-substance added, does not fully deliver sourcehood: if prior mental events you did not choose cause your decision, the *disappearing-agent* objection bites and you remain a channel for causes rather than their origin. The tradition's leading figure now affirms agent and event causation together: Kane's agent-causal/event-causal view (2024), on which the agent is an information-responsive complex dynamical system exercising teleological guidance control, is a naturalistic rival that claims to answer that objection without an agent-substance of the classical kind. The Map takes a different step: why did you choose A rather than B? Because *you* exercised causal power in favour of A. It is this step, not the [dualism tenet](/tenets/#dualism)—which requires only irreducibility—that commits the framework to a [substance-bearing subject](/concepts/substance-property-dualism/); a reader who accepts irreducible consciousness but rejects substance-bearing agents parts company with the Map here.
 
-Critics find "the agent caused it" a name for the problem rather than a solution. The objection presupposes event-causal reduction—that every genuine explanation must trace back to prior events—and agent causation rejects that assumption: explanation must terminate somewhere, and "the agent selected for reasons" is a legitimate terminus. E.J. Lowe generalises the point: *all* causation is fundamentally [substance causation](/concepts/agent-causation/#substance-causation-the-metaphysical-foundation), so the Map reads agent causation as unexceptional. Lowe stops short of the Map's step, though: he holds free volitions wholly uncaused, so the agent-caused choice is the Map's addition ([philosophy of action](/topics/philosophy-of-action-under-dualism/)).
+Critics find "the agent caused it" a name for the problem rather than a solution. The objection presupposes event-causal reduction—that every genuine explanation must trace back to prior events—and agent causation rejects that assumption: explanation must terminate somewhere, and "the agent selected for reasons" is [a legitimate terminus](/concepts/rollback-argument-against-agent-causation/). E.J. Lowe generalises the point: *all* causation is fundamentally [substance causation](/concepts/agent-causation/#substance-causation-the-metaphysical-foundation), so the Map reads agent causation as unexceptional. Lowe stops short of the Map's step, though: he holds free volitions wholly uncaused, so the agent-caused choice is the Map's addition ([philosophy of action](/topics/philosophy-of-action-under-dualism/)).
 
 Sartre supplies a structural precondition. The ability to stand apart from your own mental states—to reflect on your anger and decide whether to act on it—is his *pour-soi*; a being that merely *is* its states cannot evaluate or override them. Sartre is no substance dualist and his radical freedom owes nothing to quantum indeterminacy, but he names what the Map requires: consciousness distanced from its contents so as to select among them. That distance varies—full in [authentic choice](/topics/authentic-vs-inauthentic-choice/), attenuated in habit—so selection runs along a continuum.
 

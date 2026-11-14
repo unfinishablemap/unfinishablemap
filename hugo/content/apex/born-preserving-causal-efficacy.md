@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-10-30 17:25:06+00:00
+ai_modified: 2026-11-14 03:27:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-10-30 17:25:06+00:00
+lastmod: 2026-11-14 03:27:59+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -103,7 +103,7 @@ Everything hangs on the gap between the two. Born-preservation constrains the le
 
 The argument is short. If the conditionals genuinely differ and the distribution of intentions can be re-weighted at will, the marginal moves with the re-weighting: a cancellation that balances over natural intending will not survive an ensemble stacked with a single intention. Preservation *under intervention* therefore forces a choice. Either no conditional differs after all — a mixture that holds fixed under every re-weighting requires each conditional to equal the marginal, which is horn (b), with no reason-responsiveness at any grain — or the re-weightings that would unbalance the books are unachievable, which obliges the framework to state a law constraining the distribution of conscious states themselves. The reviewer's name for the second option is *psychophysical superselection*: not every conceivable population of intentions is physically admissible.
 
-Two things follow. Exact Born-preservation cannot be stated as a law over physical outcomes alone; it needs a companion law over the distribution of conscious reasons, and the Map has never written one — a debt the register should carry alongside [P-Q10](/positions/quantum-interface/#p-q10). And the collapse of horn (c) into horn (a) names an experiment: manipulate intention, look for conditional deviation. That branch abandons the corridor's "no deviations by construction" comfort for real empirical exposure. The superselection escape is milder than its name suggests — the restriction falls on the statistics of intending across an ensemble, not on any individual's token choice, so it does not by itself abolish reasons-responsive agency — but it buys that mildness with a second fundamental law.
+Two things follow. Exact Born-preservation cannot be stated as a law over physical outcomes alone; it needs a companion law over the distribution of conscious reasons, and the Map has never written one — [a debt](/concepts/rollback-argument-against-agent-causation/#one-debt) the register should carry alongside [P-Q10](/positions/quantum-interface/#p-q10). And the collapse of horn (c) into horn (a) names an experiment: manipulate intention, look for conditional deviation. That branch abandons the corridor's "no deviations by construction" comfort for real empirical exposure. The superselection escape is milder than its name suggests — the restriction falls on the statistics of intending across an ensemble, not on any individual's token choice, so it does not by itself abolish reasons-responsive agency — but it buys that mildness with a second fundamental law.
 
 **The compensation consequence.** A reason-responsive bias — selection tilting toward *intended* outcomes — must, if the marginal is exactly preserved, be offset somewhere: by anti-control in other contexts, maladaptive compensation elsewhere, or a global fine-tuning that keeps the books balanced. The moral version is sharper. If selection is *value-sensitive*, tilting toward better outcomes for a subject, exact preservation demands a compensating tilt toward worse outcomes for someone or somewhen else — a conservation law on outcome-luck the Map would have to own explicitly, and that value-sensitive applied articles inherit rather than discharge. Unless each agent's conditional policy is *separately* Born-preserving, the offset falls on other agents or other periods, so moral agency would carry hidden statistical externalities.
 
