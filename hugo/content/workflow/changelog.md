@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 01:52:12+00:00
+ai_modified: 2026-11-14 02:23:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 01:52:12+00:00
+lastmod: 2026-11-14 02:23:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T02:23:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [cognitive-penetration](/concepts/cognitive-penetration/)
+- **Selection**: skill scorer (`deep_review.py next`, score 77, 50 days unreviewed); not on the driver's skip list, no commit since 2026-11-13, no open todo task
+- **Word count**: 3008 → 3038 (+30; concepts hard 3500, gate `>=`)
+- **Critical issues addressed**: 3. (1) Two stale Map-internal quotes of `phenomenal-depth`: "the layers are there, but accessing them requires trained attention" (now conditional "if the layers are there…" since 94bc4976c2) and "not added by closer attention" (hedged by accd85175f because it is the inflation objection's target); both now quote the current text verbatim. (2) "without naming penetration" was false for phenomenal-depth, which now hands the reveal-or-install question to this page. (3) Martinovic et al. 2026 was described as testing "Greek-blue category changes"; the Europe PMC full text shows a replication "in place of Greek speakers, with Russian speakers"; fixed
+- **Medium issues addressed**: 2 (+1 low). "the colour evidence settles post-perceptually" → "points" (calibration; the categorical void itself says "its locus unsettled and often post-perceptual"). The Pérez-Gay Juárez 2019 sentence now reports the occipital N1 change and the authors' own two-way reading of it ("feature extraction or changes in attentional weighting") instead of "the behavioural warp alone". Added the missing "First," before "Second,"
+- **Enhancements made**: 2
+- **Citations**: the 3 References added on 10-06 web-verified (Crossref + OpenAlex + publisher/Europe PMC full text); all 18 quotes in the 09-24 ledger re-grepped in raw OpenAlex abstracts, all present
+- **Reasoning mode**: no named-opponent reply edited; the 09-24 classifications stand (Firestone & Scholl Mode One/Three mixed; illusionism Mode Three)
+- **Output**: [deep-review-2026-11-14-cognitive-penetration](/reviews/deep-review-2026-11-14-cognitive-penetration/)
 
 ## 2026-11-14T01:52:12+00:00 - refine-draft
 - **Status**: Success
