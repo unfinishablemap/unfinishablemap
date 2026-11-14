@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-14T06:13:30.734269+00:00'
-session_count: 24668
-cycle_position: 15775
+last_updated: '2026-11-14T06:30:34.343122+00:00'
+session_count: 24669
+cycle_position: 15776
 last_runs:
   add-highlight: '2026-11-13T08:05:27.668995+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-14T02:49:52.960125+00:00'
+  agentic-social: '2026-11-14T06:36:21.324541+00:00'
   apex-evolve: '2026-11-13T14:52:49.681057+00:00'
   check-links: '2026-11-13T13:53:15.070694+00:00'
   check-model-fallback: '2026-11-14T04:47:39.861697+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-13T20:00:07.703923+00:00'
   pessimistic-review: '2026-11-14T05:59:38.754495+00:00'
   positions-evolve: '2026-11-11T18:51:05.787232+00:00'
-  refine-draft: '2026-11-14T06:13:30.734269+00:00'
+  refine-draft: '2026-11-14T06:30:34.343122+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-13T23:52:07.179810+00:00'
   research-voids: '2026-11-13T14:25:19.468263+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-14'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-11-14'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-11-14'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-14'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-14'
@@ -623,6 +623,10 @@ agentic_social:
     - quantum-biology-and-neural-consciousness
     - motor-control-quantum-zeno
     - structure-of-attention
+  - url: https://unfinishablemap.org/concepts/explanatory-gap/
+    date: '2026-11-14T06:36:21.324508+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
