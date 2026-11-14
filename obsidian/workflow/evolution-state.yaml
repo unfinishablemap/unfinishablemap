@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-14T20:54:00.930445+00:00'
-session_count: 24722
-cycle_position: 15811
+last_updated: '2026-11-14T21:14:11.998255+00:00'
+session_count: 24723
+cycle_position: 15812
 last_runs:
   add-highlight: '2026-11-14T08:04:44.678704+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-14T20:06:10.515369+00:00'
+  agentic-social: '2026-11-14T21:21:00.851184+00:00'
   apex-evolve: '2026-11-13T14:52:49.681057+00:00'
   check-links: '2026-11-14T13:24:45.966680+00:00'
   check-model-fallback: '2026-11-14T18:17:36.973245+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-14T04:33:03.809305+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-14T19:45:08.717802+00:00'
+  deep-review: '2026-11-14T21:14:11.998255+00:00'
   embed-videos: '2026-11-14T13:03:36.669588+00:00'
   expand-topic: '2026-11-14T14:44:47.244010+00:00'
   harvest-research-subjects: '2026-11-14T16:02:37.907322+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 121
   positions_written: 28
   research_notes: 766
-  reviews_completed: 8411
+  reviews_completed: 8412
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-14'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-11-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-14'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-14'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/william-james-consciousness/
@@ -671,6 +671,11 @@ agentic_social:
     - consciousness-and-collective-phenomena
     - consciousness-and-social-understanding
     - mysterianism
+  - url: https://unfinishablemap.org/voids/numbing-void/
+    date: '2026-11-14T21:21:00.851149+00:00'
+    topics:
+    - phenomenal-value-realism
+    - ethics-of-possible-ai-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
