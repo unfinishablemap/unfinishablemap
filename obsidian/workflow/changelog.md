@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T22:04:30+00:00
+ai_modified: 2026-11-14T23:05:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T23:05:34+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The interpreter after left hemispherectomy: does post-hoc confabulation follow language into the right hemisphere (todo.md L40, P3, harvested 2026-11-14 from `reviews/optimistic-2026-11-14-unity-under-fracture-wing` Ideas for Later)
+- **Output**: [[research/interpreter-after-left-hemispherectomy-2026-11-14]]
+- **Sources consulted**: 21 cited. Full texts read: Gazzaniga et al. 1996, Gazzaniga 2005, Corballis 2003, Marinsek et al. 2014. Abstracts read on PubMed, plus one raw AES abstract page. Crossref metadata printed and checked for every DOI'd work. All 18 quotes grep-verified in raw text.
+- **Verdict**: `recommended_action: fold`. The direct question has NO STUDY FOUND. The control pair: PubMed `interpreter[tiab]` × split-brain terms returned 8; × hemispherectomy terms returned 0.
+  - Adjacent record: split-brain right-hemisphere language did not carry the interpreter with it (Gazzaniga & Smylie 1984; J.W., Gazzaniga et al. 1996, the authors' hedged reading). One interpreter-attributed behaviour, probability matching, appeared in the right hemisphere for faces (Miller & Valsangkar-Smyth 2005, n = 1).
+  - Every confabulating hemisphere found was both left and language-dominant, so the record cannot separate the two.
+  - The answer does not discriminate between the Map and its rival.
+- **Fold hosts** (simulated with analyze_length; each OLD has str.count = 1):
+  - `concepts/interpreter-module-narrative-construction-unity`: L34 swap "(typically left)" → "left, language-dominant" and a new paragraph after L36, +254 total (2,296 → 2,550 of hard 3,500; +204 without the separable Miller sentence).
+  - `topics/hemispherectomy-and-the-resilience-of-unified-consciousness`: one sentence plus an INT link at the end of L68, +52 (2,881 → 2,933 of hard 4,000).
+  - Neither host's open P3 locus (INT L73, HEM L104) is touched. The fold mints nothing: the parent must mint the refine-draft.
+- **Traps recorded**: a search summariser called V.P. a hemispherectomy case (V.P. is a callosotomy patient). Europe PMC's "confabul*" hit on Joseph 1986 is probably a reference-list match. Mayor & Schneider 2023 is a RIGHT frontal hemispherotomy.
+- **Side finding**: Gazzaniga 2000 *Brain* 123(7):1293–1326 is now Crossref-verified, which closes a gap flagged in the 2026-07-16 interpreter research note. INT does not cite it.
 
 ## 2026-11-14T22:04:30+00:00 - refine-draft
 - **Status**: Success
