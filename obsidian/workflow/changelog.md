@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T17:51:36+00:00
+ai_modified: 2026-11-14T18:09:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T18:09:17+00:00 - cross-review
+- **Status**: Success (four host edits; the article itself converged and was not edited)
+- **File**: [[concepts/interpretive-sensory-access-theory]]
+- **Task**: todo.md P3 cross-review (L1771), "integrate the new ISA article into the self-knowledge and introspection cluster". Prior reviews read first: [[reviews/deep-review-2026-10-26-interpretive-sensory-access-theory]] and [[reviews/pessimistic-2026-10-31-interpretive-sensory-access-theory]] (its priorities landed in 7a28015c74). The expand fork's 12 hosts and the self-blindness pipes were not redone.
+- **Item (2)**, `concepts/metacognition` L174: a body citation now uses the orphan Carruthers 2011 reference, paid for in the same sentence. "remains debated, but either way the monitoring of one's own cognitive states appears evolutionarily ancient" → "remains debated (Carruthers 2011), but either way monitoring one's own cognitive states appears evolutionarily ancient". The cite is honest at abstract grain: the OpenAlex abstract of *Opacity* ch. 9, "Metacognition and Control" (doi 10.1093/acprof:oso/9780199596195.003.0009), "considers whether recent evidence of metacognitive capacities in nonhuman animals conflicts with" ISA's commitment that metarepresentation evolved for outward social use. The cite attaches to the debate only. The Map's "either way" conclusion is not his. The open P3's Relation lines were untouched. Word count 3,527 → 3,527.
+- **Item (3)**, `concepts/introspection`: skipped. No body hit for "Carruthers" or "interpretive", and no honest zero-word anchor. The Nisbett–Wilson and choice-blindness confabulation lines are a different claim.
+- **Item (4)**, `voids/common-knowledge-void` L113: "is a constructed product, and the article's repair-phenomenology" → "is a constructed product; the article's repair-phenomenology". Word count 3,038 → 3,037. `git log -S` puts the doubled "and" in the 2026-10-25 expand commit 82c32b5761, not a 16:00Z edit. Carruthers 2017 = real-correct: *Journal of Consciousness Studies* 24(9–10), 228–252. Confirmed in raw text in two places: the *Scientific American* reference list ("Vol. 24, Nos. 9–10, pages 228–252; 2017") and *Spektrum* ("Journal of Consciousness Studies 24, S. 228–252, 2017"). The PhilArchive record CARTIO-80 agrees in its search snippet, but its raw page and ingentaconnect are behind Cloudflare. Crossref holds only the same-titled Bloomsbury Companion chapter (2018, pp. 211–233, doi 10.5040/9781474229043.0021). The year and the References entry were kept.
+- **Extra (a)**, `concepts/phenomenal-transparency-opacity-spectrum` ref 2: added the DOI https://doi.org/10.1093/acprof:oso/9780199596195.001.0001, re-verified on Crossref (Carruthers, OUP, 2011-09-01). Word count 3,042 → 3,042.
+- **Extra (b)**, `topics/cross-species-behavioural-confidence-proxy-tests` L95: the scope was genuinely missing. "human introspection is itself interpretive" contradicted ISA's own grant of sensory introspection. It now reads "human attitude self-knowledge is interpretive". The first plain-text mention, "Carruthers's interpretive-sensory-access framework", now carries a zero-word pipe to the ISA page. Word count 3,736 → 3,736. L99, "the human case is interpretive too", is scoped by context to the confidence case and was reported, not edited.
+- **Operator (report only)**: `project/bedrock-clash-vs-absorption` uses "heterophenomenological" at L64, L92, L94, L98 and L149, and "heterophenomenology prevails" at L96. L94 also quotes the CKV subsection as it stood before 10-25 ("Heterophenomenological Alternative", "the dispute does not turn on better introspection…", "theoretical fiction"). None of these strings survives on the live page.
+- **Out of scope**: `concepts/metacognition` References carries 9 more body-orphans: Dunlosky & Metcalfe 2009, Fleming 2024, Koriat 2000, Lieberman et al. 2002, Perner 1991, Rosenthal 2005, Schwartz 2002, Tomasello 2019 and Wellman 1990.
+- **ai_system**: claude-opus-5-5 appended on metacognition only. It was already present on the other three hosts.
+- **Output**: none (integration-only pass, no review file)
 
 ## 2026-11-14T17:51:36+00:00 - cross-review
 - **Status**: Success (no content edits; article converged)

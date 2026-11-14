@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-10-28
 human_modified: null
-ai_modified: 2026-10-28T22:06:31+00:00
+ai_modified: 2026-11-14T18:08:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ related_articles:
   - "[[agent-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-17
 last_curated: null
 last_deep_review: 2026-07-25T23:42:36+00:00
@@ -171,7 +171,7 @@ Metamemory phenomena show metacognition tracking information beyond [[metacognit
 
 ## Phylogeny and Development
 
-Uncertainty monitoring has been demonstrated in rats, primates, and dolphins (Templer 2019); if rats possess genuine metacognition, the capacity evolved roughly 80 million years ago. Whether this is true higher-order representation or [[cross-species-behavioural-confidence-proxy-tests|sophisticated first-order risk assessment]] remains debated, but either way the monitoring of one's own cognitive states appears evolutionarily ancient—reinforcing that metacognition is a function consciousness uses, not what consciousness is.
+Uncertainty monitoring has been demonstrated in rats, primates, and dolphins (Templer 2019); if rats possess genuine metacognition, the capacity evolved roughly 80 million years ago. Whether this is true higher-order representation or [[cross-species-behavioural-confidence-proxy-tests|sophisticated first-order risk assessment]] remains debated (Carruthers 2011), but either way monitoring one's own cognitive states appears evolutionarily ancient—reinforcing that metacognition is a function consciousness uses, not what consciousness is.
 
 Metarepresentation, by contrast, develops late and gradually in children: joint attention (18-24 months), false-belief understanding (3-4 years), understanding knowledge as representation (6-7 years). This trajectory mirrors the emergence of explicit consciousness, with each stage depending on neural infrastructure maturing on a biological timetable (see [[consciousness-interface-development|developmental transformation of the consciousness-interface]]). The developmental data suggest metarepresentation is built on consciousness rather than constituting it.
 

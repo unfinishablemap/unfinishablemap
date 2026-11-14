@@ -4,7 +4,7 @@ description: "Experience normally conceals itself as representation (transparenc
 created: 2026-02-09
 modified: 2026-11-01
 human_modified:
-ai_modified: 2026-11-14T15:53:12+00:00
+ai_modified: 2026-11-14T18:08:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,7 +149,7 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 ## References
 
 1. Alston, W.P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1-30.
-2. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+2. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199596195.001.0001
 3. Hoffman, D.D., Singh, M., & Prakash, C. (2015). "The Interface Theory of Perception." *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
 4. Kant, I. (1781/1787). *Critique of Pure Reason*. Trans. Paul Guyer and Allen Wood. Cambridge University Press, 1998.
 5. Lutz, A. & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics in the Neuroscience of Consciousness." *Journal of Consciousness Studies*, 10(9-10), 31-52.

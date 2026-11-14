@@ -4,7 +4,7 @@ description: "Human+AI design audit of how a behavioural-confidence channel pair
 created: 2026-05-17
 modified: 2026-05-17
 human_modified:
-ai_modified: 2026-09-26T08:48:35+00:00
+ai_modified: 2026-11-14T18:08:33+00:00
 last_deep_review: 2026-09-26T08:48:35+00:00
 draft: false
 topics:
@@ -92,7 +92,7 @@ The proxy-test channel's contribution depends on how it scores under the [[proje
 
 Substrate-extension findings — rodent OFC confidence, rodent source-monitoring lesion deficits, corvid what-where-when binding — score as *despite-commitments at the substrate level*. Pre-2008 behaviourist defaults did not predict that confidence representations and source-monitoring substrates would extend across phylogenetically distant clades; that they do is anomalous with respect to the generating framework's expectation.
 
-The proxy-test channel scores as *contested at the metacognition-grade level* and as *partially because-prediction at the interpretive-frame level*. Le Pelley's associative-learning models predict the data on reinforcement-history alone; under that reading the bounded-witness architectural inference is not supported, because a simpler associative explanation suffices. Carruthers's interpretive-sensory-access framework predicts the cross-species convergence on grounds that *undercut* the bounded-witness reading: if human introspection is itself interpretive and animal metacognition is an analog-magnitude executive-engagement signal, the convergence is a because-prediction confirmation of the interpretive theory rather than independent triangulation of an architectural feature of consciousness.
+The proxy-test channel scores as *contested at the metacognition-grade level* and as *partially because-prediction at the interpretive-frame level*. Le Pelley's associative-learning models predict the data on reinforcement-history alone; under that reading the bounded-witness architectural inference is not supported, because a simpler associative explanation suffices. Carruthers's [[interpretive-sensory-access-theory|interpretive-sensory-access framework]] predicts the cross-species convergence on grounds that *undercut* the bounded-witness reading: if human attitude self-knowledge is interpretive and animal metacognition is an analog-magnitude executive-engagement signal, the convergence is a because-prediction confirmation of the interpretive theory rather than independent triangulation of an architectural feature of consciousness.
 
 The channel's contribution is the substrate-extension findings *under the discount* the methodological critiques impose. The discount is real and substantial. The proxy-test channel does not earn *despite-commitments triangulation* against the strongest common-cause null; it earns *partial methodological diversity* — extending the architectural feature's substrate domain across clades — with weight that within-frame critiques constrain.
 

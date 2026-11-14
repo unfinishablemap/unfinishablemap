@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-11-11 00:03:17.720588+00:00
+ai_modified: 2026-11-14 18:08:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 10:41:03+00:00
-lastmod: 2026-11-11 00:03:17.720588+00:00
+lastmod: 2026-11-14 18:08:33+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -114,7 +114,7 @@ Husserl's fifth *Cartesian Meditation* (1931) treats the other as given through 
 
 ### The Interpretive Alternative (Carruthers)
 
-Carruthers's [interpretive sensory-access theory](/concepts/interpretive-sensory-access-theory/) (2011, 2017) would read the phenomenology of repair as self-interpretation from sensory and contextual cues, rather than as registering an aimed-at construct the system has failed to reach. On this reading the felt glimpse is sensory, and its reading as a seam is a constructed product, and the article's repair-phenomenology is evidence about how the system represents its own coordination, not about a structural gap in the territory.
+Carruthers's [interpretive sensory-access theory](/concepts/interpretive-sensory-access-theory/) (2011, 2017) would read the phenomenology of repair as self-interpretation from sensory and contextual cues, rather than as registering an aimed-at construct the system has failed to reach. On this reading the felt glimpse is sensory, and its reading as a seam is a constructed product; the article's repair-phenomenology is evidence about how the system represents its own coordination, not about a structural gap in the territory.
 
 The Map treats this as a dialectical clash, not a correction. The seam-reading presupposes "common knowledge" is what coordination targets; Carruthers's reading denies the construct has that role. Both cohere with the same observations of repair behaviour — the dispute turns not on better introspection but on whether the formal target is a real explanatory load or a fiction the agents do not deploy. Where the interpretive reading prevails, the formal results survive but the phenomenological face does no work, and the cumulative case rests on the formal and approximation-discontinuity faces alone. The article does not adjudicate; the dispute is bedrock.
 
