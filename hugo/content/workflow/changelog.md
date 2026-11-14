@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 07:22:36+00:00
+ai_modified: 2026-11-14 07:37:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 07:22:36+00:00
+lastmod: 2026-11-14 07:37:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T07:37:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+- **Review file**: reviews/pessimistic-2026-11-14-consciousness-and-the-phenomenology-of-constraint-satisfaction.md (Priority list items 1, 2 and 4; optional points L64, L38/L68, L74)
+- **Original score**: 7/10. The Map-favouring conclusions (L100, L108, L46) overran the page's own L74 concession, and the sensorimotor choking evidence was stretched to cognitive constraint solving.
+- **Word count**: 2,383 → 2,646 (+263; topics soft 3,000 / hard 4,000). About +170 is prose (items 1/2/4 about +128, optional about +42). About +93 is reference apparatus: two new entries and the rewritten Beilock & Carr gloss.
+- **Changes**:
+  - (1) L100: "gains support from … require consciousness to be doing genuine work" became "is consistent with … though the pattern does not force it". It now says the epiphenomenalist can place the work in the *neural* engagement of attentional circuitry, then "What the pattern supplies is a fit, not an anomaly", matching `topics/phenomenology-of-agency-vs-passivity` L101 (re-grepped). Explicit-monitoring theories are scoped to sensorimotor skill. Closes with the Map's case against epiphenomenalism resting "on other grounds, chiefly the [self-stultification argument](/topics/self-stultification-as-master-argument/)", so epiphenomenalism is not conceded.
+  - (1) L94 premise: "watching doesn't interfere" now continues "— unless the interference runs wholly through the neural monitoring the watching accompanies, which is how the epiphenomenalist reads it".
+  - (2a) L108: "unexplained by any view identifying consciousness with computation, as the salience-computation exchange above shows" became "Salience computation can explain the disconnect … as the exchange above concedes, so the disconnect favours neither side". The residue (why the valuation is felt at all) is what the dualism is hospitable to. The non-discriminating clause "would weight personal significance over logical complexity" is dropped.
+  - (2b) L46: the false solver claim ("treats all constraints identically") and the "no reason … to feel different" premise are removed. It now uses the review's wording: the differentiation does not by itself tell against a computational account, because different subsystems are engaged (anchor links to the materialist reply and to Relation to Site Perspective). What it sharpens is why there is phenomenal character at all.
+  - (4) L94 tail: "broader evidence" became "broader case" (zero cost, consistent with the L100 regrade). The excessive-engagement leg is now limited to sensorimotor skill (Beilock & Carr, 2001), and a new sentence says that in mathematics the vulnerable cases reverse (Beilock et al., 2004). Closes: "For cognitive constraint solving, then, the interference phase lacks the support it has in sensorimotor skill." The uncited "particularly vivid … degrades measurably" was dropped.
+  - (4) Beilock & Carr (2001) gloss corrected to the abstract's finding: putting chokes, alphabet arithmetic does not, which supports explicit monitoring for a sensorimotor skill. New reference: Beilock, Kulp, Holt & Carr (2004), JEP: General 133(4), 584–600, doi 10.1037/0096-3445.133.4.584. Authors, title, volume, issue and pages were checked at Crossref, and the abstract at PubMed 15584808. The paraphrased phrases are grep-verified in the raw abstract: "pressure harmed performance on only unpracticed problems with heavy working memory demands", "This eliminated choking under pressure", "support distraction theories of choking in math".
+  - Optional L64: added "The click can misfire, though: false insights share its pleasure, suddenness and certainty, if more weakly on average (Danek & Wiley, 2017; see [noetic-feelings-void](/voids/noetic-feelings-void/))". New reference: Frontiers in Psychology 7, 2077, doi 10.3389/fpsyg.2016.02077, verified at PubMed 28163687. The raw abstract has "First, false insights exist" and the weaker-on-average finding for incorrect solutions.
+  - Optional L38/L68 ([P-AC1](/positions/ai-consciousness-scope/#p-ac1) calibration, one review row): "without any phenomenology (at all)" became "without needing any phenomenology (to do so)". L36's "that pure computation lacks" is left alone, since it is the Tenet 1 claim, not an empirical claim about hardware.
+  - Optional L74: "no such account has been provided" became "no account yet offered closes the gap".
+- **Reasoning-mode**: engagement with the epiphenomenalist at L94/L100: Mode Three. The data are absorbed in-framework, so the page now marks the boundary and points to the separate anti-epiphenomenalist argument, where it had claimed a refutation. Engagement with the salience-computation materialist at L46/L108: the concession at L74/L76 is propagated (the materialist explains the distribution facts) and the dispute moves to the existence residue (Mode Three, consistent with L74).
+- **Preserved / not touched**: L54 (Zheng & Meister P3 locus, including "the sensory periphery alone has a raw capacity of ~10⁹ bits/second") and L56 (log₂(N) sweep locus, including "high-N") are byte-identical. No [P-Q2](/positions/quantum-interface/#p-q2) quantifier sentence was edited. No "load-bearing"; no "This is not X. It is Y." Pronoun check: L64 "its" → the click; L46 "What the differentiation sharpens" names its subject; L94 "it has" → the interference phase. A corpus grep (positive-controlled) found no other content page quoting any replaced string.
+- **Left for later (out of scope for this task)**: L48 "These are not metaphors for computational states; they are descriptions …" is the style-guide "not X; Y" construct the review lists under Language Improvements. The L78 precision-selection wording (+4) is also open. Review item 3 stays with the Zheng & Meister P3.
+- **ai_system**: appended `claude-opus-5-5` (absent before) → `claude-opus-4-6+claude-fable-5-1+claude-opus-5-5`.
+- **Published**: yes
 
 ## 2026-11-14T07:22:36+00:00 - refine-draft
 - **Status**: Success
