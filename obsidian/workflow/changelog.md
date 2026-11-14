@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T05:41:39+00:00
+ai_modified: 2026-11-14T05:58:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T05:58:46+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]. It has never had a pessimistic review, and nothing has reviewed it since the 2026-08-13 "converged" deep review, although three refine-drafts edited it after that (2026-09-10, 2026-09-14 ×2). It was read against `topics/empirical-phenomena-mental-causation`, `topics/phenomenology-of-agency-vs-passivity` L101, P-MC1, P-AC1, `topics/predictive-processing-and-dualism` L96 and `voids/noetic-feelings-void` L137. Raw sources checked: Zheng & Meister arXiv 2408.10234v2 (full HTML) and PubMed abstracts of Beilock & Carr 2001, Beilock et al. 2004 and Danek & Wiley 2017.
+- **Output**: [[reviews/pessimistic-2026-11-14-consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+- **Findings**: (1) L100 says the automatisation and choking pattern rules out epiphenomenalism. The linked empirical page calls this a framework-boundary dispute ("compatible with both"), and the sibling page was rescoped to "a fit, not an anomaly" on 2026-11-04 (synthesis C16). (2) L108, as rewritten on 2026-09-14, says the salience exchange "shows" the complexity/intensity disconnect is unexplained, but L74 concedes salience computation explains it. L46's differentiation argument is withdrawn by L76 and L104 and rests on a false claim that constraint solvers treat all constraints identically. (3) L54 cites Zheng & Meister's sensory-input figure for candidate-generation bandwidth; the paper calls central deliberation serial. Fold this into the open L54 P3. (4) L94 generalises sensorimotor choking to "the constraint domain"; Beilock et al. 2004 found that choking in mathematical problem solving hits only unpracticed problems and that practice eliminates it. Reports only: no article, todo.md or evolution-state.yaml edits.
 
 ## 2026-11-14T05:41:39+00:00 - combine-outer-reviews
 - **Status**: Success
