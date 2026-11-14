@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T05:16:56+00:00
+ai_modified: 2026-11-14T05:41:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T05:41:39+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-14 (subject "Audit mind-arena", `concepts/mind-arena.md`)
+- **Coverage**: 2/2 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2). Gemini failed at commission and left no pending entry.
+- **Clusters**: 7 convergent page-level (C7 partial), 2 convergent methodology, 1 shared positive judgement, 9 tasked singletons (7 ChatGPT, 2 Claude) plus untasked lower-value items, 2 divergent (L88 self-citation, resolved for ChatGPT; what Tenet 1 contains, resolved for ChatGPT by `tenets` L53). No shared false alarm.
+- **Adjudication**: every convergent string was re-grepped on live Obsidian at about 05:35Z, HEAD 41277d666a; mind-arena has been unchanged since ec523f185b. The Claude leg never read the page, so its absence claims are not counted as independent. C6 rests on ChatGPT's reading plus grep: "closure", "Born" and "chance" all return 0, against a positive control of 4.
+- **Tasks upgraded**: 0 (P3→P2: 0, P2→P1: 0).
+  - The retraction P2 "`concepts/mind-arena` still defines the term by the "uncomputable" claim…" was HELD at P2. Its pre-tonight priority was P3, and the ChatGPT collect's P3 → P2 at about 04:00Z is this cycle's one convergence upgrade.
+  - The follow-on P2 "`concepts/mind-arena` derives its defining property…" was HELD at P2, a deliberate departure from the rule, which gives P1. It must run after the retraction task, and the selector orders by priority before line number, so P1 would offer it ahead of its prerequisite.
+- **Tasks deduplicated**: 0. Neither collect run minted a duplicate.
+- **Fields written** (all above `- **Notes**:`, Type and Status unchanged):
+  - the retraction task: Review files, Synthesis, convergence note, Notes prefix;
+  - the follow-on task: the same four;
+  - NEEDS-HUMAN (methodology) 2026-11-14 on terms of art: the same four;
+  - NEEDS-HUMAN (methodology ratification) 2026-08-03 on propagation: Addendum 2026-11-14 (b).
+- **parse_tasks**: 407 active before, 407 after; `todo.md` diff is +13/−8.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-14]]
 
 ## 2026-11-14T05:16:56+00:00 - outer-review
 - **Status**: Success
