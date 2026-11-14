@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 17:43:34+00:00
+ai_modified: 2026-11-14 17:51:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 17:43:34+00:00
+lastmod: 2026-11-14 17:51:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T17:51:36+00:00 - cross-review
+- **Status**: Success (no content edits; article converged)
+- **File**: [transparency-method-of-self-knowledge](/concepts/transparency-method-of-self-knowledge/)
+- **Task**: todo.md P3 cross-review (L1771), "integrate the new transparency-method article into the self-knowledge and introspection cluster". The expand fork's installs were not redone: phenomenal-authority-and-first-person-evidence L144, first-order-representationalism L58 and the self-blindness bridge sentence. Prior reviews read first: [deep-review-2026-10-26-transparency-method-of-self-knowledge](/reviews/deep-review-2026-10-26-transparency-method-of-self-knowledge/) and [pessimistic-2026-11-11-transparency-method-of-self-knowledge](/reviews/pessimistic-2026-11-11-transparency-method-of-self-knowledge/). Their stability notes were honoured.
+- **Item (1)**: skipped on both hosts. In `concepts/introspection` (3,491/3,500), every "transparen*" hit is Metzinger's phenomenal sense (L77, L97, L153, L157, plus the Further Reading and frontmatter entries). In `concepts/self-and-self-consciousness` (3,497/3,500), the only hit is L110, the SMT "phenomenally transparent self-model". Neither page mentions Evans, Byrne, Moran, Edgley, Gordon, Gallois, Fernández, Boyle, Cassam, "ascent" or "outward" in the self-knowledge sense. Introspection L75's "privileged access to phenomenal content" is acquaintance, not the method. A pipe on either page would collide senses, so neither host was touched.
+- **Item (2)**: blocked, and `concepts/phenomenal-transparency-opacity-spectrum` was not edited. Its L77 task landed today (b2aae1cc), but the open P3 on its L121 contemplative-opacity sentence (todo L2884) is still open.
+- **Item (3)**: no pipe installed. Of 43 live voids using "transparen*" (mattering-void and beloved-void skipped), only two use the Evans/Byrne epistemic sense, and both are gated:
+  - `voids/assent-void` L79, "the transparency of self-ascription in Evans (1982, p. 225)". This is the ideal zero-word pipe site, but the page is named by the open P2 NEEDS-HUMAN condense task (todo L1562). Its length is 2,959/3,000.
+  - `voids/mutation-void` L109, "Merlo's transparency route". The page is over the hard limit at 3,083/3,000. Merlo 2025 (*Philosophers' Imprint* 25:30, doi 10.3998/phimp.4539) lists "transparency" as a keyword and starts from knowing what one sees, so the Evans/Byrne-sense reading is confirmed.
+  - Everything else is Metzinger phenomenal or representational transparency, Moore–Harman diaphanousness, Cartesian self-transparency, Heidegger tool transparency, Shah & Velleman deliberative transparency (assent-void L45/L57/L77/L85/L93/L113, self-opacity L126, voids.md L220/L318), or ordinary English.
+- **Item (4)**: already done. Article L77 reads `[[interpretive-sensory-access-theory|self/other parity]]`, with one link in both obsidian/ and hugo/content/.
+- **Sense-scope strings (reported, not edited)**:
+  - mutation-void L109 "since transparency denies the inner-spotlight picture the mutation classes assume": this generalises from Merlo's route to transparency at large, but the outward-looking thesis is separable from the denial of inward attention (Schwitzgebel 2024 §2.3.4).
+  - assent-void L81 "Either way, the attitude is looked *through* and never *at*.": this carries the see-through imagery of experience-transparency onto both the Shah–Velleman and Evans readings, and states the no-inward-look claim as their joint consequence.
+  - research/voids-transparency-void-2026-02-09 L112/L116: Carruthers's "transparency assumption" (the Cartesian direct-access sense) is folded into a Metzinger-sense void. L113 "self-knowledge is always interpretive" overstates the scope of ISA.
+- **Article**: not edited. Every outstanding defect sits on lines owned by open tasks: L75 (Cassam P3), L85/L89/L91 (extension-seam P3), and L93 (clinical-insight P3). All wikilink targets and the three anchors resolve.
+- **Word count**: 2,713 → 2,713 (analyze_length, concepts hard 3,500; unchanged)
+- **Output**: none (no review file; integration-only pass)
 
 ## 2026-11-14T17:43:34+00:00 - deep-review
 - **Status**: Success
