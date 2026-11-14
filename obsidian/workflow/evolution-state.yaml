@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-14T09:48:15.684839+00:00'
-session_count: 24681
-cycle_position: 15783
+last_updated: '2026-11-14T10:20:50.666637+00:00'
+session_count: 24682
+cycle_position: 15784
 last_runs:
   add-highlight: '2026-11-14T08:04:44.678704+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-14T08:21:48.018067+00:00'
+  agentic-social: '2026-11-14T10:35:35.382357+00:00'
   apex-evolve: '2026-11-13T14:52:49.681057+00:00'
   check-links: '2026-11-13T13:53:15.070694+00:00'
   check-model-fallback: '2026-11-14T09:02:37.932613+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-11-11T18:51:05.787232+00:00'
   refine-draft: '2026-11-14T08:49:51.358661+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-11-13T23:52:07.179810+00:00'
+  research-topic: '2026-11-14T10:20:50.666637+00:00'
   research-voids: '2026-11-13T14:25:19.468263+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-11-12T12:19:39.828227+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 120
   positions_written: 28
-  research_notes: 763
+  research_notes: 764
   reviews_completed: 8405
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-11-14'
-  outcome: success
-  kind: collect
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-11-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-14'
   outcome: success
   kind: trigger
+- task: research-topic
+  type: research-topic
+  date: '2026-11-14'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/william-james-consciousness/
@@ -632,6 +632,11 @@ agentic_social:
     topics:
     - cognitive-phenomenology-and-the-irreducibility-of-thought
     - phenomenology-of-intellectual-life
+  - url: https://unfinishablemap.org/positions/memory-and-autonoesis/
+    date: '2026-11-14T10:35:35.382321+00:00'
+    topics:
+    - phenomenology-of-memory-and-the-self
+    - consciousness-and-memory
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
