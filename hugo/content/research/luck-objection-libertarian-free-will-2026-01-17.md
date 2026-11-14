@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 22:30:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-11-14 14:49:56+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -13,7 +13,7 @@ date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-16 22:30:00+00:00
+lastmod: 2026-11-14 14:49:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ Standard quantum indeterminism is genuinely random—outcomes are "lucky" in Mel
 - **Random**: Outcomes within quantum probabilities occur without explanation
 - **Selected**: Consciousness determines which outcome occurs, based on reasons the conscious agent has
 
-If selection is genuine, the luck objection fails. The agent explains the difference: the agent selected this outcome for reasons. The selection isn't arbitrary because it reflects what matters to the agent.
+If selection is genuine, the luck objection fails. The agent explains the difference by settling it: the agent selected this outcome, and the agent's reasons make the selection intelligible, though the reasons for the alternative were present too and so cannot by themselves explain why this outcome rather than that one. The selection isn't arbitrary because it reflects what matters to the agent. (Corrected 2026-11-14: the Map's luck reply is non-contrastive; see [free-will](/topics/free-will/).)
 
 ### The Phenomenology of Effort
 
@@ -103,7 +103,7 @@ This phenomenology distinguishes selection from luck. Lucky events don't feel li
 
 The Map's position isn't that consciousness randomly biases quantum outcomes. It's that consciousness selects based on reasons—the same reasons that make actions intelligible. The agent selects A because A serves goals, expresses values, responds to considerations that matter.
 
-This makes the selection contrastively explicable after all. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome—alternative possibilities remained genuine—but they *guided* it. Selection is reasons-responsive, not arbitrary.
+This makes the selection intelligible and guided, though not contrastively explicable. The agent's reasons for A make A intelligible when A occurs. Those reasons didn't *determine* the outcome—alternative possibilities remained genuine—but they *guided* it. Selection is reasons-responsive, not arbitrary. Why A rather than B, though? The reasons for B were present in every replay too, so reasons cannot explain the difference between replays. The settling is the agent's, and nothing more basic accounts for it: a primitive whose modal structure is owed rather than supplied ([rollback-argument-against-agent-causation](/concepts/rollback-argument-against-agent-causation/)). Event-causal libertarians do claim a contrastive explanation here, from probability-raising reasons (Franklin among them); that resource belongs to their view, and the Map's agent-causal reply does not rest on it. (Corrected 2026-11-14: the Map's luck reply is non-contrastive; see [free-will](/topics/free-will/).)
 
 ### The Retrocausal Dimension
 
@@ -127,7 +127,7 @@ The Map's framework adds mechanism to this answer. The agent—the conscious sub
 |---------|---------------------|--------------------------------------|
 | What determines outcome | Nothing (pure chance) | The agent, based on reasons |
 | Phenomenology | None | Effort, engagement |
-| Contrastive explanation | Unavailable | Agent's reasons |
+| Contrastive explanation | Unavailable | Not supplied: reasons guide; the settling is a primitive owed (Corrected 2026-11-14: the Map's luck reply is non-contrastive; see [free-will](/topics/free-will/).) |
 | Repeatable? | Same probability each replay | Agent could select consistently |
 | Agent's relationship | Passive recipient | Active selector |
 
@@ -137,7 +137,7 @@ Critics might object: even if consciousness "selects," the selection itself migh
 
 The Map's response has multiple layers:
 
-1. **Reasons**: Consciousness selected A because the agent had reasons for A. This provides contrastive explanation.
+1. **Reasons**: Consciousness selected A because the agent had reasons for A. Those reasons make the selection intelligible and guided; they do not explain why A rather than B, since the reasons for B were present in every replay. The settling is the agent's, a primitive owed rather than supplied (point 3 below). (Corrected 2026-11-14: the Map's luck reply is non-contrastive; see [free-will](/topics/free-will/).)
 
 2. **Phenomenology**: The felt engagement in selection distinguishes it from passive reception of random outcomes.
 
@@ -149,7 +149,7 @@ The Map's response has multiple layers:
 
 If the Map's framework is correct:
 
-- **Present luck is avoided**: The agent, through reasons-guided quantum selection, explains which choice occurs
+- **Present luck is avoided**: The agent, through reasons-guided quantum selection, settles which choice occurs; the reasons make the choice intelligible, and the settling itself is the agent's primitive (Corrected 2026-11-14: the Map's luck reply is non-contrastive; see [free-will](/topics/free-will/).)
 - **Kane's SFAs are strengthened**: The mechanism for undetermined choice is specified (quantum selection), and the "dual efforts" phenomenology has a physical correlate (competing neural superpositions)
 - **Agent causation gains mechanism**: The "where" and "how" of agent causation are specified (quantum indeterminacies, Stapp's Zeno effect)
 - **Sourcehood is secured**: The conscious agent is the ultimate source because consciousness selects which history becomes actual

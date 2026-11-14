@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 14:42:44+00:00
+ai_modified: 2026-11-14 14:51:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 14:42:44+00:00
+lastmod: 2026-11-14 14:51:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T14:51:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [luck-objection-libertarian-free-will-2026-01-17](/research/luck-objection-libertarian-free-will-2026-01-17/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted queue fix)
+- **Task**: todo.md, the research note still asserting the retracted contrastive luck reply in the Map's voice (quarantine per outer review 2026-10-25 Gemini, methodology 9(d))
+- **Changes**: Recast five Map-voice loci to the house wording of free-will ("That says *who* settles the outcome") and agent-causation point (3): reasons make the choice intelligible and guided, they do not explain why A rather than B since the reasons for B were present in every replay, and the settling is the agent's, a primitive owed rather than supplied. Each locus carries "(Corrected 2026-11-14: the Map's luck reply is non-contrastive; see [free-will](/topics/free-will/).)". (1) "This makes the selection contrastively explicable after all" paragraph, with the event-causal concession kept (event-causal libertarians, Franklin among them, claim contrastive explanation from probability-raising reasons; the Map's reply does not rest on it) and a bare-slug link to rollback-argument-against-agent-causation; (2) table row "Contrastive explanation | Unavailable | Agent's reasons" third cell now "Not supplied: reasons guide; the settling is a primitive owed", 3 columns kept; (3) "This provides contrastive explanation" in the layered response; plus two extra Map-voice instances found by a widened grep: (4) "The agent explains the difference: the agent selected this outcome for reasons"; (5) "Present luck is avoided: ... explains which choice occurs" now "settles which choice occurs". Grep counts before/after: contrastiv 3/5 (all five after are negations or markers), "why A rather than B" 1/2 (both negations), explicable 1/1 (negated), "explains why" 5/5 (all author/critic voice or Stapp mechanism, untouched).
+- **Reasoning mode**: engagement with van Inwagen/Mele present luck: Mode Three; the contrastive demand is met by marking the settling as a primitive the agent-causal view owes, not by a reasons-based contrastive explanation the framework cannot supply. The agent-causalist "demand presupposes event-causal reduction" reply (author voice) is Mode Two and unchanged.
+- **Out of scope (not edited, report-only)**: research/agent-causation-and-acting-for-reasons-2026-10-20 L136/L137/L317 and research/partitioned-and-distributed-minds-as-rivals-to-a-unitary-selector-2026-10-04 L158 still quote the old "contrastively explicable" wording as audit record; positions/agency-and-will Updated 2026-10-08 note (L66) still says "The contrastive-explicability reply does not reach akratic selection" (history); archive/concepts/luck-objection L121 ("The agent's *reasons* provide contrastive explanation") and archive/concepts/concept-of-free-will L66 ("This makes selection contrastively explicable") still hold the old wording. The note's table row "Repeatable? | ... | Agent could select consistently" sits uneasily with the replay framing but makes no contrastive claim; left.
+- **ai_system**: appended claude-opus-5-5
+- **Published**: yes
 
 ## 2026-11-14T14:42:44+00:00 - expand-topic
 - **Status**: Success
