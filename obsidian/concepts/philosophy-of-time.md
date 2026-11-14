@@ -4,7 +4,7 @@ description: "A-theory versus B-theory, presentism, eternalism, and the growing 
 created: 2026-01-16
 modified: 2026-11-14
 human_modified: null
-ai_modified: 2026-11-14T02:40:25+00:00
+ai_modified: 2026-11-14T22:04:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,7 +142,7 @@ Three responses preserve the framework:
 
 **First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out through environmental entanglement. But it doesn't explain why we see *definite* outcomes rather than superpositions of ourselves observing different results. As Tomaz, Mattos, and Barbatti (2025) note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." The selector problem remains—and consciousness remains a candidate selector, acting after decoherence has selected preferred bases.
 
-**Second, biological quantum effects indicate evolution's capacity.** On the leading but unsettled model, [[radical-pair-magnetoreception|avian magnetoreception]] needs radical-pair spin coherence lasting microseconds—a million times longer than typical molecular decoherence in solution. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated. Enzyme catalysis exploits quantum tunnelling. If evolution can optimise quantum effects for navigation and chemistry, it might optimise them for consciousness. The categorical objection ("warm systems cannot exhibit quantum behaviour") has been empirically falsified.
+**Second, biological quantum effects indicate evolution's capacity.** On the leading but unsettled model, [[radical-pair-magnetoreception|avian magnetoreception]] needs radical-pair spin coherence lasting microseconds in warm living tissue. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated. Enzyme catalysis exploits quantum tunnelling. If evolution can optimise quantum effects for navigation and chemistry, it might optimise them for consciousness. The categorical objection ("warm systems cannot exhibit quantum behaviour") has been empirically falsified.
 
 **Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns in place; the model includes decoherence rather than preventing it. The Zeno mechanism shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—which may have different answers. On the speculative constitution reading, the succession of Zeno observations would *be* the microstructure of experienced time.
 

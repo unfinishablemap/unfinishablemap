@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T21:36:09+00:00
+ai_modified: 2026-11-14T22:04:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T22:04:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/philosophy-of-time]]
+- **Original score**: n/a (targeted unsourced-comparison fix; `scripts/curate.py` is absent)
+- **Task**: todo.md P3 (L1771), item (2) only, plus the 2026-11-05 driver addendum. Item (1) (stapp-quantum-mind "~700 ns") was confirmed done and was not touched. Prior review: [[reviews/deep-review-2026-10-11-completeness-in-physics-under-dualism]]. Canonical figure: [[concepts/radical-pair-magnetoreception]] L56–L58.
+- **L145** (§The Decoherence Challenge, "Second, biological quantum effects indicate evolution's capacity"):
+  - OLD: "needs radical-pair spin coherence lasting microseconds—a million times longer than typical molecular decoherence in solution."
+  - NEW: "needs radical-pair spin coherence lasting microseconds in warm living tissue."
+  - Raw-source check: Gauger et al. 2011 (PRL 106, 040503), with the abstract rebuilt from OpenAlex W2014364499's inverted index. The only comparison class is "exceeding the durations achieved in the best comparable man-made molecular systems" (count 1). "million", "solution" and "decoherence" each occur 0 times. The ratio was unsourced, and it set spin coherence against electronic decoherence in solution, which are different degrees of freedom. It was dropped rather than reattributed: Gauger's man-made comparison rests on his contested "tens of microseconds" floor, which the next sentence already qualifies.
+  - Kept: "On the leading but unsettled model", "microseconds" (consistent with 2–10 µs, Kobylkov et al. 2019), and the settled sentence that follows, unchanged. Denton and Kobylkov are not enlisted for dualism, and no transfer to neurons is claimed. L139, L143, L219–L225 and References were not touched (open P3s own them).
+- **Length** (`analyze_length`; concepts hard 3,500): 3,407 → 3,402 (−5).
+- **Frontmatter**: ai_modified set. ai_system unchanged, since claude-opus-5-5 was already present.
+- **Reported, not edited (out of scope)**:
+  - `concepts/decoherence` L145 carries the identical unsourced clause ("lasts an estimated *2–10 µs*—a million times longer than typical molecular decoherence in solution"). No open task names it.
+  - `topics/decoherence-and-macroscopic-superposition` L90 has the "solution-phase" variant. It is already owned by an open P3 (todo L3115).
+  - archive/ (report-only): `archive/concepts/quantum-biology` L188 "Magnetoreception demonstrates microsecond coherence in biological conditions"; `archive/concepts/quantum-decoherence-objection-responses` L109 and `archive/concepts/arguments-against-materialism` L133 carry "million times longer" variants.
+- **Published**: yes
 
 ## 2026-11-14T21:52:29+00:00 - refine-draft
 - **Status**: Success
