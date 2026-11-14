@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T16:53:02+00:00
+ai_modified: 2026-11-14T17:06:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-14T17:06:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-intellectual-life]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from the todo task citing [[reviews/deep-review-2026-10-25-phenomenology-of-cognitive-capacity]], modelled on the L99/L139 edits to [[topics/phenomenology-of-cognitive-capacity]])
+- **Changes**: Relation to Site Perspective, Bidirectional Interaction paragraph (L214), recast at the house grade. Removed the opener "gains support from the causal efficacy of intellectual effort" and the closer "If consciousness were epiphenomenal, the consistent motivational power of understanding experience would be inexplicable", which argued against epiphenomenalism from phenomenology, the move P-A4 rules out. New opener: intellectual effort "fits this tenet without evidencing it". The jazz-improviser and mathematician sentences stay as descriptions ("present themselves as guided"), and the insightful-vs-blind sentence keeps its content ("produces different behaviour" became "behaves differently"). Added: the felt doing marks the work as the agent's own; the physicalist reading in one clause (the brain monitoring its effortful processing); introspection cannot certify that consciousness does the steering, any more than that it idles ([[positions/agency-and-will#^p-a4|P-A4]], symmetric limit); the case against epiphenomenalism rests chiefly on self-stultification ([[epiphenomenalism]]), not on how effort feels. The bold tenet label now takes a colon, matching its sibling paragraphs.
+- **Links**: `#^p-a4` is the block-anchor dialect used corpus-wide (e.g. emotion-regulation-and-the-timing-of-control L79). Sync renders it `/positions/agency-and-will/#p-a4`, and a scratch Hugo build has `id="p-a4"` on the positions page; the body link gets the `pos-ref` hover class. Bare `[[epiphenomenalism]]` renders `/concepts/epiphenomenalism/` (built page exists), despite the archive/arguments/epiphenomenalism.md stem.
+- **Calibration**: No concession to epiphenomenalism; "chiefly" follows the model edit because the epiphenomenalism page concedes the phenomenal-concept reply survives self-stultification. "does the steering" is scoped to this case, leaving the Tenet 3 quantifier unresolved. The Tallis citation and References entry were not touched.
+- **Reasoning mode**: engagement with physicalism and epiphenomenalism: Mode Three. The phenomenology is ruled non-probative both ways and the rival reading is named without claiming refutation; the anti-epiphenomenalist case is routed to self-stultification, which is argued elsewhere.
+- **Word count**: analyze_length 3,416 to 3,455 (+39; paragraph 62 to 101 words by wc; cap +40; topics hard 4,000).
+- **Out of scope (not edited, report-only)**: archive/topics/phenomenology-of-intellectual-effort L170 ("gains support from the causal efficacy of intellectual effort ... these phenomenal states are not epiphenomenal") and archive/topics/phenomenology-of-cognitive-automatisation L89 ("The Map interprets this as evidence for bidirectional interaction") still carry the pattern. On this page, L184 claims that if intellectual phenomenology were epiphenomenal "the felt difference between knowing and guessing would be illusion", although epiphenomenalism leaves the felt difference real and only inert. concepts/epistemic-emotions L135 no longer carries the pattern; eed0370d01 fixed it on 2026-11-04.
+- **ai_system**: claude-opus-5-5 appended (claude-opus-4-6+claude-fable-5-1+claude-opus-5-5).
+- **Published**: yes
 
 ## 2026-11-14T16:53:02+00:00 - refine-draft
 - **Status**: Success

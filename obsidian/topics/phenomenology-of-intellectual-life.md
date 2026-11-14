@@ -4,7 +4,7 @@ description: "Intellectual life has irreducible phenomenal character: the work o
 created: 2026-01-22
 modified: 2026-10-08
 human_modified: null
-ai_modified: 2026-10-26T16:20:51+00:00
+ai_modified: 2026-11-14T17:05:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,7 +75,7 @@ related_articles:
   - "[[epistemology-of-limit-knowledge]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-04-03
 last_curated: null
 last_deep_review: 2026-10-08T13:12:14+00:00
@@ -211,7 +211,7 @@ The implications extend to AI safety. Systems that do not genuinely understand t
 
 **[[tenets#^dualism|Dualism]]**: The experience of grasping logical relationships — felt necessity, the click of comprehension, the five modes of meaning — has qualitative character that physical description cannot capture. Neural firing patterns might produce outputs tracking validity, but they do not experience necessity. The [[hard-problem-of-consciousness|hard problem]] extends from consciousness to meaning; the [[galilean-exclusion|Galilean exclusion]] removed precisely such phenomenal quality from science's explanatory framework.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** gains support from the causal efficacy of intellectual effort. The jazz improviser's choices are guided by what the music *sounds like*; the mathematician's next step by the phenomenal "click" of insight. Insightful inference produces different behaviour from blind — more flexible, transferable, robust under novel conditions. If consciousness were epiphenomenal, the consistent motivational power of understanding experience would be inexplicable.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Intellectual effort fits this tenet without evidencing it. The jazz improviser's choices present themselves as guided by what the music *sounds like*; the mathematician's next step by the phenomenal "click" of insight. Insightful inference behaves differently from blind — more flexible, transferable, robust under novel conditions. The felt doing marks the work as the agent's own; a physicalist reads the same experience as the brain monitoring its effortful processing. Introspection cannot certify that consciousness does the steering, any more than that it idles ([[positions/agency-and-will#^p-a4|P-A4]]). The Map's case against epiphenomenalism rests chiefly on self-stultification ([[epiphenomenalism]]), not on how effort feels.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** connects through the mechanism question. The quantum Zeno model proposes mental effort operates by rapid observation of neural states, holding desired patterns stable. Understanding may also involve selection among meanings — consciousness biasing which meaning-configuration becomes actual among competing neural patterns.
 
