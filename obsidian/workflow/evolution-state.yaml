@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-14T11:22:19.231178+00:00'
-session_count: 24686
-cycle_position: 15787
+last_updated: '2026-11-14T11:45:00.485190+00:00'
+session_count: 24687
+cycle_position: 15788
 last_runs:
   add-highlight: '2026-11-14T08:04:44.678704+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-14T10:35:57.850187+00:00'
+  agentic-social: '2026-11-14T11:50:59.663137+00:00'
   apex-evolve: '2026-11-13T14:52:49.681057+00:00'
   check-links: '2026-11-13T13:53:15.070694+00:00'
   check-model-fallback: '2026-11-14T09:02:37.932613+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-14T04:33:03.809305+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-14T09:36:23.587460+00:00'
+  deep-review: '2026-11-14T11:45:00.485190+00:00'
   embed-videos: '2026-11-14T00:33:12.776426+00:00'
   expand-topic: '2026-11-13T16:03:17.619735+00:00'
   harvest-research-subjects: '2026-11-14T09:48:15.684839+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 120
   positions_written: 28
   research_notes: 765
-  reviews_completed: 8405
+  reviews_completed: 8406
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-11-14'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-14'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-14'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/william-james-consciousness/
@@ -637,6 +637,12 @@ agentic_social:
     topics:
     - phenomenology-of-memory-and-the-self
     - consciousness-and-memory
+  - url: https://unfinishablemap.org/voids/simulation-detection-void/
+    date: '2026-11-14T11:50:59.663102+00:00'
+    topics:
+    - taxonomy-of-voids
+    - meta-epistemology-of-limits
+    - epistemology
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
