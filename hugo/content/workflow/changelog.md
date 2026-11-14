@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14 07:37:51+00:00
+ai_modified: 2026-11-14 07:58:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-14'
-lastmod: 2026-11-14 07:37:51+00:00
+lastmod: 2026-11-14 07:58:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-14T07:58:56+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: decoherence-programme wing, 4 pages read in full at HEAD d2b5a93ef0: `concepts/envariance`, `topics/quantum-darwinism-and-consciousness`, `concepts/improper-vs-proper-mixtures`, `concepts/contextual-selection-in-quantum-foundations`. Chosen as the least-recently reviewed coherent cluster in topics/concepts: no review mention of any of them since 2026-10-14, and none touched since 2026-11-13.
+- **Key findings**: EV and IPM are exemplary on evidential restraint. CS misstates Kochen–Specker (L35/L41, as a claim about measured results), reverses Spekkens's preparation contextuality (L51), and credits contextuality with indeterminism (L73/L77). Four prior passes ratified these. QD L48 attributes position-basis einselection to gravity (Zurek 2003 gives distance-dependent interactions, verified in the arXiv text), and QD L90 states envariance more flatly than EV allows. Unclaimed insight: the Gleason/Kochen–Specker pair already splits measure (noncontextual, Born) from actuality (no noncontextual values).
+- **Tasks minted**: 3 P3 refine-draft (CS theorem repairs + Gleason/KS fold; QD L48/L90/L104; IPM Spekkens Leibnizian-principle fold)
+- **Output**: [optimistic-2026-11-14-decoherence-programme-wing](/reviews/optimistic-2026-11-14-decoherence-programme-wing/)
 
 ## 2026-11-14T07:37:51+00:00 - refine-draft
 - **Status**: Success

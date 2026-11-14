@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-13T08:04:36.744487'
+ai_modified: '2026-11-14T08:03:56.400775'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-13'
+modified: '2026-11-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-14: Does Crying Help? Your Last Cry Can't Tell You
+
+In a 37-country survey, over 70% said crying generally makes them feel better; asked about their last cry, only half reported feeling better. A new void: from inside, a crier cannot tell being helped from recovering from crying's own low.
+
+**Type**: new-article  
+**Link**: [[weeping-void]]
+
+---
+
 ### 2026-11-13: Can Introspection Find the Moments of Selection?
 
 If consciousness selects among the alternatives decoherence leaves, could you catch it by watching yourself decide? On the evidence, no: self-observation cannot locate, time or confirm a selection. What survives is narrower: sorting decisions into kinds.
@@ -211,16 +220,6 @@ Can a model's chain of thought be read like a think-aloud report? Only by an ana
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2113562657039028347  
 **Link**: [[chain-of-thought-as-verbal-protocol]]
-
----
-
-### 2026-10-22: If Physics Someday Includes Mind, Is That Still Physicalism?
-
-Define physicalism by today's physics and it's false; by future physics, empty. That's Hempel's dilemma. New article: it gives no evidence for dualism, and it bites the Map's own tenet too. What if future physics wrote consciousness into its laws?
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2113180722403987685  
-**Link**: [[hempels-dilemma]]
 
 ---
 
