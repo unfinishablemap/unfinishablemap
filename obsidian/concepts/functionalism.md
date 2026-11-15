@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-11-09T20:32:26+00:00
+ai_modified: 2026-11-15T01:04:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-07-26T03:24:24+00:00
@@ -154,7 +154,7 @@ Functionalism characterizes mental states by their causal roles, abstracting awa
 
 ### The AI Question
 
-From the Map's perspective, purely computational systems cannot be conscious—consciousness requires something non-physical that computers lack. Perhaps engineered biological systems or quantum-interfacing hybrids could be conscious, but a digital computer running the right program cannot.
+From the Map's perspective, purely computational systems sit on the low-probability side of the consciousness verdict, not the ruled-out side ([[positions/ai-consciousness-scope#^p-ac1|P-AC1]]): a substrate analysis finds no site for the interface to act on. Engineered biological systems or quantum-interfacing hybrids might supply one; a digital computer running the right program probably does not.
 
 ### Empirical Tractability
 

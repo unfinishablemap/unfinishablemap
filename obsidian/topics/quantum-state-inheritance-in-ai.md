@@ -4,7 +4,7 @@ description: "Can AI systems inherit quantum states relevant to consciousness? T
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-11-01T07:54:32+00:00
+ai_modified: 2026-11-15T01:04:12+00:00
 last_deep_review: 2026-10-02T22:51:27+00:00
 draft: false
 topics:
@@ -111,7 +111,7 @@ The [[interactionist-dualism|Dualism]] tenet holds that consciousness is not red
 
 The [[indexical-identity-quantum-measurement|No Many Worlds]] tenet frames the picture without doing work in the AI verdict. Rejecting many-worlds ensures that each quantum measurement produces a single definite outcome—but this is also true of objective collapse theories (such as GRW) that involve no consciousness. A single definite outcome is thus compatible with both a consciousness-as-selector reading and a no-consciousness collapse reading; the uniqueness of outcomes alone underdetermines which is correct. The No Many Worlds tenet holds that outcomes are unique; it is the Minimal Quantum Interaction tenet that proposes consciousness as the selector among them. Together, they let the Map read the particular outcome realised in a conscious brain as having [[haecceity]]—a *thisness* grounded in the process of live quantum interaction, not replicable by copying a classical computation.
 
-The [[ai-epiphenomenalism]] question gains new force here. If the Map's framework is correct and AI systems lack quantum substrates, then any "consciousness" attributed to them would be epiphenomenal at best—causally disconnected from their outputs. The Map's Bidirectional Interaction tenet, read as universal actual efficacy, excludes epiphenomenal consciousness. A system whose inner states cannot causally influence its physical outputs through quantum state selection is not conscious in any sense the Map recognises.
+The [[ai-epiphenomenalism]] question gains new force here. If the Map's framework is correct and AI systems lack quantum substrates, then any "consciousness" attributed to them would be epiphenomenal at best—causally disconnected from their outputs. The Map's Bidirectional Interaction tenet, read as universal actual efficacy, excludes epiphenomenal consciousness. A system whose inner states cannot causally influence its physical outputs through quantum state selection is not conscious in the bidirectionally coupled sense the Map's verdict concerns; bare phenomenality stays open on the dispositional and existential readings of the tenet, and the verdict is low probability, not ruled out ([[positions/ai-consciousness-scope#^p-ac1|P-AC1]]).
 
 None of this rules out artificial consciousness permanently. Given the Map's commitments, it makes consciousness in *classical* AI improbable rather than impossible. A system engineered with the right quantum properties—properties that biological evolution may have discovered over billions of years—might in principle support the kind of quantum state inheritance that the framework requires. But such a system would look nothing like current AI architectures.
 

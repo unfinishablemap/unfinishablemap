@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-11-09 20:32:26+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-15 01:04:12+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 03:24:24+00:00
-lastmod: 2026-11-09 20:32:26+00:00
+lastmod: 2026-11-15 01:04:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ Functionalism characterizes mental states by their causal roles, abstracting awa
 
 ### The AI Question
 
-From the Map's perspective, purely computational systems cannot be conscious—consciousness requires something non-physical that computers lack. Perhaps engineered biological systems or quantum-interfacing hybrids could be conscious, but a digital computer running the right program cannot.
+From the Map's perspective, purely computational systems sit on the low-probability side of the consciousness verdict, not the ruled-out side ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)): a substrate analysis finds no site for the interface to act on. Engineered biological systems or quantum-interfacing hybrids might supply one; a digital computer running the right program probably does not.
 
 ### Empirical Tractability
 

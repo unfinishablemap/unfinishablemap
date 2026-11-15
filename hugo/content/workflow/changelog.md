@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 00:35:36+00:00
+ai_modified: 2026-11-15 01:04:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 00:35:36+00:00
+lastmod: 2026-11-15 01:04:12+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T01:04:12+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [functionalism](/concepts/functionalism/), [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Original score**: n/a (targeted tenet-check fix; `scripts/curate.py` is absent)
+- **Task**: W3 and W4 of [tenet-check-2026-10-26](/reviews/tenet-check-2026-10-26/), Priority List item 2 (Family 9). [P-AC1](/positions/ai-consciousness-scope/#p-ac1) moves in neither direction.
+- **OLD strings**: both OLD and NEW strings were pulled by script from the review. Each OLD had str.count == 1 on the live page (functionalism L157, quantum-state-inheritance L114), despite edits since the review (functionalism L149 `94f0b43a3a`, quantum-state-inheritance L80 `f866a6d649`). Both NEW strings were applied verbatim.
+- **Changes** (analyze_length, gate `>=` hard):
+  - (a) `concepts/functionalism` L157 "The AI Question", +17 (3,428 → 3,445 of hard 3,500). "purely computational systems cannot be conscious … a digital computer running the right program cannot" became "sit on the low-probability side of the consciousness verdict, not the ruled-out side ([P-AC1](/positions/ai-consciousness-scope/#p-ac1))", followed by the substrate-analysis ground and "probably does not". This brings the line to the register's grade, which the page's own L165 already holds. The "one" in the second sentence refers to "site".
+  - (b) `topics/quantum-state-inheritance-in-ai` L114, +26 (3,919 → 3,945 of hard 4,000). "is not conscious in any sense the Map recognises" became "in the bidirectionally coupled sense the Map's verdict concerns". The new text also says that bare phenomenality stays open on the dispositional and existential readings, and that the verdict is "low probability, not ruled out" ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)). The preceding sentence ("read as universal actual efficacy, excludes epiphenomenal consciousness") is word-for-word intact (count 1), so the Tenet 3 quantifier stays open and no reading is chosen. "the tenet" refers back to that sentence. The +26 is above the driver's ≤ +20 per-edit budget but well clear of the hard gate. The review's string was applied as given, without trimming.
+- **[P-AC1](/positions/ai-consciousness-scope/#p-ac1) band check**: the register (`positions/ai-consciousness-scope`, `^p-ac1` at L54) still reads: current digital systems "sit on the *low-probability* side of a consciousness verdict", with the verdict "*"low probability," not "ruled out"*". Both NEW strings match this. The 2026-10-15 revision moved the position's *credence* to moderate (low edge). It did not change the verdict wording, so no band phrase needed adapting.
+- **Engagements**: none. No named-opponent reply was changed.
+- **Out of scope (not edited)**: functionalism L172 still scare-quotes "something non-physical is missing", which echoed the retired L157 wording and now quotes nothing on the page. Functionalism L149 (closure denied, with no chance/Born clause; review Note 6) is left to its open task. Quantum-state-inheritance L98 (W14) is left to its separate pass.
+- **Published**: yes
 
 ## 2026-11-15T00:35:36+00:00 - refine-draft
 - **Status**: Success
