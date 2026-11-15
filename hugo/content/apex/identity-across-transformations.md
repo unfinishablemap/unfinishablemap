@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-11-15 11:10:06+00:00
+ai_modified: 2026-11-15 11:34:13+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-17 01:05:00+00:00
 apex_sources:
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:10:00+00:00
-lastmod: 2026-11-15 11:10:06+00:00
+lastmod: 2026-11-15 11:34:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ The Unfinishable Map argues that identity is irreducibly indexical. Being *this*
 
 What makes you the same person across time? Three standard philosophical answers dominate the literature, and each fails in instructive ways.
 
-**Psychological continuity** identifies you with connected chains of memory, intention, and character. You are whoever remembers being you, thinks of themselves as you, and continues your projects. But as [the personal identity article](/topics/personal-identity/) develops, this view has a fatal vulnerability: the pattern could be duplicated. If a teletransporter scanned your brain, destroyed your body, and recreated you from new matter, the resulting person would have all your memories and intentions. On the psychological view, that person is you. But this conflicts with the intuition—which The Unfinishable Map takes seriously—that you would *die* in the scanner, and someone else would wake up believing they survived.
+**Psychological continuity** identifies you with connected chains of memory, intention, and character. You are whoever remembers being you, thinks of themselves as you, and continues your projects. But as [the personal identity article](/topics/personal-identity/) develops, copying the pattern tests this view. If a teletransporter scanned your brain, destroyed your body, and recreated you from new matter, the resulting person would have all your memories and intentions. On the wide psychological view (any cause counts), a sole replica is you; with two, a non-branching clause makes neither you, so your survival depends on whether a rival exists. But the sole-replica verdict conflicts with the intuition—which The Unfinishable Map takes seriously—that you would *die* in the scanner, and someone else would wake up believing they survived.
 
 **Biological continuity** identifies you with your organism. You are the living animal that persists through metabolism and growth. This handles duplication better (the replica is a new organism), but fails with brain transplants. If your brain were placed in a new body, intuition says you would wake up in that body—yet the original organism remains behind.
 
@@ -171,7 +171,7 @@ The six source articles for this synthesis converge on a single claim: identity 
 
 This is a metaphysical thesis, not an empirical hypothesis. No experiment could demonstrate haecceity, because haecceity by definition has no qualitative signature that observation could detect. The Map advances it as the most coherent account of what personal identity involves—one that takes phenomenological evidence seriously, makes sense of puzzle cases, and integrates with the dualist framework the Map defends. Whether metaphysical frameworks should be evaluated by coherence and explanatory fit (as the Map holds) or only by empirical testability (as critics demand) is itself a philosophical question the Map addresses through its [fifth tenet](/tenets/#occams-limits).
 
-This indexical identity proves remarkably resilient. Split-brain patients respond as one subject despite perceptual division, though perhaps only in agency. Anesthetized subjects return as themselves despite temporal gaps with no remembered connecting experience. Meditators preserve witnessing awareness through the radical content reconfigurations of altered states.
+This indexical identity appears largely resilient. Split-brain patients respond as one subject despite perceptual division, though perhaps only in agency. Anesthetized subjects return as themselves despite temporal gaps with no remembered connecting experience. Meditators preserve witnessing awareness through the radical content reconfigurations of altered states.
 
 The resilience suggests that indexical identity is fundamental—not derived from psychological or biological continuity but presupposed by them. Continuity matters as *evidence* of the same consciousness persisting, not as what identity *consists in*. A replica with perfect psychological continuity would be a new consciousness; the same consciousness with fragmented continuity (as in amnesia) remains the same subject; whether a split brain still houses one is a real but unreadable fact ([P-I4](/positions/individuation-and-subjecthood/#p-i4)) that responding as one subject tells for without settling.
 

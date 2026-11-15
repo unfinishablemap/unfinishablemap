@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 11:10:33+00:00
+ai_modified: 2026-11-15 11:34:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 11:10:33+00:00
+lastmod: 2026-11-15 11:34:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T11:34:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [identity-across-transformations](/apex/identity-across-transformations/)
+- **Task**: P2 L67 "fatal vulnerability" (outer review 2026-11-15, ChatGPT 5.6 Sol Pro, §3 item 3, §10, improvement 14) plus driver addendum 11:12Z (L171 first sentence).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 4,549 → 4,568 (net +19; cap net ≤ +20; apex hard 5,000). Each OLD string re-counted at 1 on the live page before replacement.
+- **Changes**:
+  - L67 (−5): "this view has a fatal vulnerability: the pattern could be duplicated." → "copying the pattern tests this view."
+  - L67 (+22): "On the psychological view, that person is you." → "On the wide psychological view (any cause counts), a sole replica is you; with two, a non-branching clause makes neither you, so your survival depends on whether a rival exists." Simple teletransportation gets a counterintuitive verdict, not a refutation, and duplication is the case that forces the non-branching clause. The wording follows `concepts/haecceity` L67 ("a sole replica … would be you; with two, neither is") and `topics/personal-identity` L65 ("needs a non-branching clause for fission"). SEP is paraphrased, not quoted: the apex has no SEP reference entry. The extrinsicness objection is implied ("depends on whether a rival exists") but not named or attributed.
+  - L67 (+2, pronoun repair): "But this conflicts with the intuition" → "But the sole-replica verdict conflicts with the intuition". The inserted sentence had left "this" pointing at the non-branching clause. The intuition contrast is unchanged.
+  - L171 (0): "This indexical identity proves remarkably resilient." → "This indexical identity appears largely resilient." This scales the sentence to the first list item, which the 11:10Z pass hedged ("though perhaps only in agency"). The next paragraph's "The resilience suggests" still reads.
+- **Out of scope, not edited**: `topics/personal-identity` L77 "Parfit says 'Is that person you?' may have no determinate answer" (review §3 item 1, improvement 6) is already in an open todo task.
+- **ai_system**: claude-opus-5-5 already present; unchanged.
+- **Published**: yes
 
 ## 2026-11-15T11:10:33+00:00 - refine-draft
 - **Status**: Success
