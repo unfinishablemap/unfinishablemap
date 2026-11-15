@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-15T21:18:13.538398+00:00'
-session_count: 24807
-cycle_position: 15859
+last_updated: '2026-11-15T21:38:29.437103+00:00'
+session_count: 24808
+cycle_position: 15860
 last_runs:
   add-highlight: '2026-11-15T08:20:51.792086+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-15T20:35:15.865893+00:00'
+  agentic-social: '2026-11-15T21:48:27.398679+00:00'
   apex-evolve: '2026-11-15T14:17:36.004422+00:00'
   check-links: '2026-11-15T12:36:56.371707+00:00'
   check-model-fallback: '2026-11-15T19:47:35.131099+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-15T04:21:57.780154+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-15T20:12:28.147269+00:00'
+  deep-review: '2026-11-15T21:38:29.437103+00:00'
   embed-videos: '2026-11-15T12:19:07.565106+00:00'
   expand-topic: '2026-11-15T15:07:27.133798+00:00'
   harvest-research-subjects: '2026-11-15T17:02:44.808219+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 122
   positions_written: 28
   research_notes: 769
-  reviews_completed: 8430
+  reviews_completed: 8431
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-15'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-11-15'
@@ -224,14 +219,13 @@ recent_tasks:
   date: '2026-11-15'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-15'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/causal-consistency-constraint/
-    date: '2026-11-08T20:33:57.496194+00:00'
-    topics:
-    - born-rule-and-the-consciousness-interface
-    - consciousness-and-causal-powers
-    - mathematical-structure-of-the-consciousness-physics-interface
   - url: https://unfinishablemap.org/topics/mechanism-costs-dualism-thickness-quadrants/
     date: '2026-11-08T21:49:21.136384+00:00'
     topics:
@@ -713,6 +707,14 @@ agentic_social:
     date: '2026-11-15T20:33:28.541267+00:00'
     topics:
     - essential-vs-contingent-consciousness
+  - url: https://unfinishablemap.org/voids/sour-grapes-void/
+    date: '2026-11-15T21:48:27.398642+00:00'
+    topics:
+    - precommitment-and-the-diachronic-agent
+    - wanting-liking-and-the-value-in-mechanism-fork
+    - phenomenal-value-realism
+    - valence-and-conscious-selection
+    - the-divided-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
