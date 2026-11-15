@@ -1,9 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T10:43:23+00:00
+ai_modified: 2026-11-15T11:10:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T11:10:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/identity-across-transformations]]
+- **Task**: P1 "`apex/identity-across-transformations` L89 still says the pastness quale "registers" ..." (outer reviews 2026-11-15, Claude Fable 5.2 + ChatGPT 5.6 Sol Pro, synthesis C18), items (1)–(3) plus driver addenda 07:26Z, 07:41Z and 10:45Z.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 4,515 → 4,549 (net +34; cap net ≤ +40; apex hard 5,000). Each OLD string re-counted at 1 on the live page before replacement.
+- **Changes** (measured analyze_length deltas):
+  - (1) 0: L89 "registers that position without reproducing it" → "represents that position without reproducing it". The next sentence ("What memory cannot restage is *undergoing*") pairs with it; the hub's extra "rather than *representing*" was not imported.
+  - 10:45Z addendum, +10: L89 "—the haecceity claim in temporal form." → "…in temporal form only given a persisting subject, since rivals grant token non-recurrence." (hub `topics/personal-identity` L99 verbatim).
+  - (2) +2: L97 "identity is multi-layered: the dimension most tied to indexical identity proves most resistant to physical intervention." → "identity is multi-layered, and the dimension most tied to indexical identity is the one physical measures leave unsettled." It now agrees with the previous sentence's "not settled by the anatomy" and `topics/split-brain-consciousness` L90. The Pinto / Schechter–Bayne material is untouched.
+  - 07:41Z addendum, split-brain, mirroring hub L131:
+    - L99 +1: "constrains how far that reading can be pressed" → "constrains how far appeals to unity can be pressed". The old antecedent ("proves most resistant") was gone after (2); the hub made the same change.
+    - L99 +5: "patients report a single first-person perspective, which suggests indexical identity is a different thing from the computational binding" → "Pinto's patients respond as one subject; if that unity is experiential, not merely of agency, indexical identity may differ from the computational binding". This removes the attribution to Santander et al.
+    - L101 +1: "The reports suggest the first-person perspective does not divide" → "On the experiential reading, the first-person perspective does not divide".
+    - L171 +4: "Split-brain patients report a single first-person perspective despite perceptual division." → "Split-brain patients respond as one subject despite perceptual division, though perhaps only in agency."
+    - L173 0 (antecedent repair forced by L171): "that the reported single perspective tells for without settling" → "that responding as one subject tells for without settling".
+    - L181 0 (same-claim sibling): "what remains is the first-person report, which Schechter and Bayne read" → "what remains is the unified responding, which Schechter and Bayne read". Schechter–Bayne addressed Pinto's responses, not first-person reports.
+  - 07:26Z addendum, −1: L135 "*This* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either." → "*This* series of conscious moments, whose unity is treated as primitive, is distinct from *that* series." (hub L105). The previous sentence keeps "rather than permanent substances".
+  - (3) +12, L117:
+    - "but this is the wrong grain" → "but pattern resumption is the wrong grain" (+1). The next sentence's "It" now names the pattern half.
+    - "The teletransporter replica has full brain-state-continuity with the original, yet intuition resists the identification, and the anaesthesia case is structurally identical. Interface theories predict indexical identity directly from continuity of the interface-bearing substrate—…" → "Production accounts answer that with numerical continuity of the same substrate, which the teletransporter replica lacks: the two cases share the pattern and the missing experienced interval, not the brain. Interface theories draw on that same continuity of the interface-bearing substrate, adding that the same consciousness reconnects because it never went anywhere." (+11)
+    - Closing hedge kept. "though such accounts then owe an explanation of why the teletransporter intuition is mistaken" → "though pattern-only versions then owe …" (0). A substrate-continuity production account agrees that the replica is not you, so only pattern-only versions owe the teletransporter debt. "The time-gap is a haecceity exhibit, not a proof." is unchanged.
+- **Engagements**:
+  - Production accounts at L117: mixed.
+    - Against pattern-only versions: Mode One-leaning. Pattern resumption cannot tell *this* subject from a qualitative replacement, and such versions must explain away the teletransporter intuition. Parfitians bite that bullet, so the residue is boundary.
+    - Against substrate-continuity versions: Mode Three. The old "structurally identical" analogy was an in-framework refutation that failed exactly where the production account answers. The page now concedes that both accounts draw on numerical substrate continuity, and that what separates them is the interface account's further posit (the consciousness "never went anywhere"). The anaesthesia case does not test that posit, which the retained hedge and L121 already say.
+  - No mode labels appear in the article.
+- **Sibling re-grep**: the hub's lines have shifted by −2 since the brief; text verified at 11:02Z.
+  - Hub L99: "represents … *undergoing* rather than *representing*—the haecceity claim in temporal form only given a persisting subject, since rivals grant token non-recurrence".
+  - Hub L105: "whose unity is treated as primitive".
+  - Hub L131: "appeals to split-brain unity"; "Pinto's patients respond as one subject. If that unity is experiential, not merely of agency".
+  - split-brain L78/L90/L150 as briefed.
+- **Out of scope, not edited**:
+  - L67 "a fatal vulnerability" (owned by the open P2).
+  - L171 "This indexical identity proves remarkably resilient." is now led by a hedged split-brain item.
+  - `positions/individuation-and-subjecthood` P-I4 still reads "told against but not settled by patients' reported single perspective", which lags the hub's "respond as one subject".
+- **ai_system**: claude-opus-5-5 already present; unchanged.
+- **Published**: yes
 
 ## 2026-11-15T10:43:23+00:00 - refine-draft
 - **Status**: Success
