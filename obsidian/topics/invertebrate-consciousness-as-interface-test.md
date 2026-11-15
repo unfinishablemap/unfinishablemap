@@ -2,9 +2,9 @@
 title: "Invertebrate Consciousness as Interface Test Case"
 description: "Insects, cephalopods, and crustaceans provide the sharpest test for dualist interface models—their radically different neural architectures constrain what consciousness-matter coupling can be."
 created: 2026-04-09
-modified: 2026-04-09
+modified: 2026-11-15
 human_modified:
-ai_modified: 2026-11-12T23:05:18+00:00
+ai_modified: 2026-11-15T22:47:51+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -78,7 +78,7 @@ None of the three is trivially accommodated: non-local coupling, a consciousness
 
 Beyond insects and cephalopods, the broader arthropod lineage provides additional constraints. Decapod crustaceans (crabs, lobsters, crayfish) possess centralised nervous systems with distinct brain regions and demonstrate nociceptive responses, learned avoidance, and anxiety-like behaviour under threat (Elwood, 2025). Elwood's own calibration of that record stays careful: many findings are consistent with pain without proving it, some responses are nociceptive reflexes rather than felt states, and conclusive proof will probably never be available. The 2024 New York Declaration explicitly extends the "realistic possibility" of consciousness to decapod crustaceans.
 
-Feinberg and Mallatt (2016) argue that consciousness depends on "complex, fast, hierarchical, systemwide, internal, and often topographically organized neuron-neuron interactions" and that arthropods independently meet these criteria. Their neurobiological naturalism treats consciousness as a biological product, conflicting with the Map's dualism. But their convergent evolution finding constrains the interface model: if consciousness-supporting neural architecture evolved at least twice independently (in vertebrates and arthropods, possibly a third time in cephalopods), the Map must explain whether coupling mechanisms also evolved independently or whether a universal mechanism simply requires physical architecture above a certain complexity threshold.
+Feinberg and Mallatt (2016) argue that consciousness depends on complex, fast, hierarchical, systemwide, internal, and often topographically organized neuron-neuron interactions and that arthropods independently meet these criteria. Their neurobiological naturalism treats consciousness as a biological product, conflicting with the Map's dualism. But their convergent evolution finding constrains the interface model: if consciousness-supporting neural architecture evolved at least twice independently (in vertebrates and arthropods, possibly a third time in cephalopods), the Map must explain whether coupling mechanisms also evolved independently or whether a universal mechanism simply requires physical architecture above a certain complexity threshold.
 
 ## Birch's Framework Through a Dualist Lens
 

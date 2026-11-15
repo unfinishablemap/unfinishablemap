@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T22:34:56+00:00
+ai_modified: 2026-11-15T22:47:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T22:47:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/invertebrate-consciousness-as-interface-test]]
+- **Source**: deep review 2026-10-28 of `topics/architectural-adequacy-at-the-built-edge` (Feinberg & Mallatt quote family); the 2026-11-09 addendum left this page as the last quoting host
+- **Original score**: n/a (`scripts/curate.py` is absent; zero-word de-quote made by the driver inline, no fork)
+- **Change**: removed the quotation marks from the Feinberg and Mallatt (2016) integration criterion. Two searches (2026-10-28, 2026-11-09) found the five-adjective phrase in no raw source: Google Books search-within on *The Ancient Origins of Consciousness*, four open-access Frontiers papers and the 2016 *Consciousness and Cognition* abstract. The sentence is now attributed paraphrase ("argue that consciousness depends on ..."), words and cite unchanged, matching `concepts/universal-coupling-response` and `topics/architectural-adequacy-at-the-built-edge`. No third wording variant was introduced and no page number added (none was verified).
+- **Word count**: unchanged (3,099 by analyze_length)
+- **Not done**: the sentence itself has still not been located in the book; if it is found, a real quotation with a page number could be restored on all three pages. `research/invertebrate-consciousness-interface-test-case-2026-04-06` carries the wording unquoted and was left as is.
 
 ## 2026-11-15T22:34:56+00:00 - refine-draft
 - **Status**: Success
