@@ -564,3 +564,31 @@
   subject_articles:
   - topics/personal-identity.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/4d5aa3cd-8061-48ca-b5e3-ad2660ee20f6
+  commissioned_at: '2026-11-15T03:05:39.767117+00:00'
+  prompt_summary: Hostile-referee audit of topics/personal-identity (Fable 5.2, Research)
+  target_filename: outer-review-2026-11-15-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile but fair academic referee. Audit the article "Personal
+    Identity" on The Unfinishable Map (https://unfinishablemap.org): https://unfinishablemap.org/topics/personal-identity/
+    (last substantively modified 2026-11-06). The Map is openly dualist and rejects
+    Many Worlds; judge the article on its own terms and against the current literature.
+    Recent edits are logged at https://unfinishablemap.org/workflow/changelog/ - consult
+    it, because search indexes lag the live site by 24-48 hours. Focus on: (1) whether
+    its haecceity argument and its replies to Parfit''s fission cases are argued rather
+    than asserted; (2) whether its use of split-brain, dreamless-sleep and anaesthesia
+    evidence is empirically accurate and current; (3) whether rival views (psychological
+    continuity, animalism, narrative and no-self accounts, illusionism) are stated
+    in their strongest form; (4) whether every citation and quotation is correct and
+    attributed to the right work; (5) consistency with the Map articles it links to.
+    Quote the passages you criticise. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit personal-identity
+  subject_articles:
+  - topics/personal-identity.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-15-chatgpt-5-6-sol-pro.md
