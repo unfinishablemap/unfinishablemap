@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-14 22:04:12+00:00
+ai_modified: 2026-11-15 00:34:59+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -16,14 +16,14 @@ concepts:
 - '[[haecceity]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-01-16
-date: &id001 2026-11-14
+date: &id001 2026-11-15
 description: A-theory versus B-theory, presentism, eternalism, and the growing block
   view. How consciousness may participate in constituting experienced temporal structure.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-05 20:02:24+00:00
-lastmod: 2026-11-14 22:04:12+00:00
+lastmod: 2026-11-15 00:34:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -219,13 +219,13 @@ The framework makes commitments that could be empirically challenged:
 
 Philosophy of time connects to all five tenets:
 
-**[Dualism](/tenets/#dualism)**: If consciousness constitutes temporal structure, it's not reducible to physical processes occurring within time. The reduction would be circular—you can't explain time-constitution in terms of processes that presuppose time. This strengthens dualism beyond the hard problem: consciousness isn't just qualitatively different from physical processes but implicated in the framework within which physical processes occur. The temporal constitution argument adds a structural dimension to standard dualist considerations—physics presupposes time, time (on this view) involves consciousness, so consciousness cannot be reduced to physics without circularity.
+**[Dualism](/tenets/#dualism)**: If consciousness constitutes the structure of *lived* time, that constitution is not reducible to physical processes occurring within time. Circularity is not the ground: physical processes presuppose physical time, which predates mind, and the Map's [background commitment](/tenets/background-commitments/) to objective single-outcome actualisation bars the stronger claim that time as such is mind-constituted. What the temporal constitution argument adds to the hard problem is a structural dimension—the *connectedness* of experience across time resists reduction, not only its qualities—and a block-universe-plus-indexical account predicts the felt asymmetry too, so the argument fits dualism without evidencing it.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Collapse is the minimal intervention point. Consciousness doesn't inject energy or override deterministic law; it resolves quantum indeterminacy where physics leaves outcomes open. Time-symmetric interpretations make this even more minimal: consciousness doesn't push physical systems at a moment but satisfies constraints across time. The quantum Zeno mechanism adds specificity—rapid attentional observation holds patterns without requiring sustained coherence, preserving minimality while grounding temporal constitution.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness selects collapse outcomes, affecting physical states. Retrocausality means "bidirectional" includes temporal direction—consciousness affects past preparation as well as future measurement. In the transactional interpretation, the completed transaction incorporates both forward-propagating and backward-propagating constraints. The "bidirectional" aspect isn't addition to forward causation; it's intrinsic to how transactions complete. The brain prepares neural options; consciousness selects which becomes actual; selection propagates into both past and future. This dissolves the Libet problem—conscious selection needn't temporally precede neural activity because causal direction is created by selection, not a constraint on it.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness selects collapse outcomes, affecting physical states. Retrocausality means "bidirectional" includes temporal direction—consciousness affects past preparation as well as future measurement. In the transactional interpretation, the completed transaction incorporates both forward-propagating and backward-propagating constraints. The "bidirectional" aspect isn't addition to forward causation; it's intrinsic to how transactions complete. The brain prepares neural options; consciousness selects which becomes actual; selection propagates into both past and future. If the retrocausal reading holds, conscious selection need not temporally precede neural activity, because the ordering is what selection fixes, not a constraint on it; the Map holds that reading as a speculative extension ([time-collapse-and-agency](/topics/time-collapse-and-agency/)), so the Libet problem is recast rather than dissolved.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The framework requires real collapse. MWI denies collapse; all branches exist. Without real collapse, no selection, no irreversibility, no consciousness-constituted time. The connection to [haecceity](/concepts/haecceity/) is essential: if all outcomes occur, there's no fact about which outcome *this* consciousness selected. Indexical identity—being *this* observer rather than a branch-copy—requires definite facts about what happened. The felt flow of time, with possibilities narrowing to actualities, assumes real collapse. MWI converts this narrowing into illusion (discovering which branch you're in), eliminating consciousness's constitutive role.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The framework requires real collapse. MWI denies collapse; all branches exist. Without real collapse, no selection, no irreversibility, no consciousness-constituted time. The connection to [haecceity](/concepts/haecceity/) is essential: if all outcomes occur, there's no fact about which outcome *this* consciousness selected. Indexical identity—being *this* observer rather than a branch-copy—requires definite facts about what happened. The felt flow of time, with possibilities narrowing to actualities, is predicted on every branch too, so it cannot decide against MWI; what branching removes is the global exclusion of the unchosen, a [posit the Map adopts](/tenets/background-commitments/), and with it consciousness's constitutive role.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The metaphysics is complex. But temporal experience is complex—and the arrow of time is among physics' deepest unsolved puzzles. Simpler metaphysics (pure B-theory eternalism, eliminativism about flow) achieve parsimony by denying phenomena rather than explaining them. Claims that decoherence "solves" the measurement problem or thermodynamics "explains" all arrows rely on simplifying assumptions that may be wrong. We may lack the concepts to judge simplicity correctly here. The framework's complexity may reflect reality's structure rather than theoretical excess.
 

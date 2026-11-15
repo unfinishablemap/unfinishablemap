@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 00:28:21+00:00
+ai_modified: 2026-11-15 00:35:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 00:28:21+00:00
+lastmod: 2026-11-15 00:35:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T00:35:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophy-of-time](/concepts/philosophy-of-time/)
+- **Original score**: n/a (targeted tenet-check fix; `scripts/curate.py` is absent)
+- **Task**: W1 of [tenet-check-2026-10-26](/reviews/tenet-check-2026-10-26/), Priority List item 1. It propagates the 2026-10-25 sibling repairs (`topics/time-collapse-and-agency` L87 and L211; `topics/temporal-consciousness-structure-and-agency` L249) into "Relation to Site Perspective".
+- **OLD strings**: pulled by script from the review. Each had str.count == 1 on the live page, despite five edits since the review.
+- **Changes** (analyze_length 3,402 → 3,447 of hard 3,500, gate `>=`; net +45):
+  - (a) L219 Dualism, +9: applied the review's NEW with three sibling-consistency deviations. "The circularity reaches only that far: physical time predates mind" became "Circularity is not the ground: physical processes presuppose physical time, which predates mind". The review wording kept a narrowed circularity reading that L249 on the sibling denies outright. "objective prebiotic actualisation" became "objective single-outcome actualisation", the posit's name in [background-commitments](/tenets/background-commitments/) and on sibling L211. "predicts the same felt asymmetry" became "predicts the felt asymmetry too", because "the same" had no antecedent in the paragraph. The "fits dualism without evidencing it" qualifier is kept.
+  - (b) L223 Bidirectional Interaction, +21: rewrote the review's NEW to drop the "dissolves" claim, which the review had only made conditional. "causal direction is fixed by selection" became "the ordering is what selection fixes", matching sibling L115/L215 and avoiding a clash with sibling L87 ("not as the source of temporal direction"). The line now closes "so the Libet problem is recast rather than dissolved", in line with the sibling's "Timing problem recast" (L171). No veto material was imported.
+  - (c) L225 No Many Worlds, +15: the review's NEW verbatim. The felt narrowing is predicted on every branch, so it cannot decide against MWI. The tenet's work rests on the global-exclusion posit, and No Many Worlds stays a commitment.
+  - The bold tenet links that open L219, L223 and L225 are unchanged. L221 (Minimal Quantum Interaction), L139, L143 and References were not touched because open P3s own them.
+- **Engagements**: Everettian (L225), Mode Three: framework-boundary marking. The disagreement rests on a posit and not on the phenomenology. Libet timing objection (L223), Mode Three, conditional on a speculative reading.
+- **Out of scope (not edited)**: sibling `topics/time-collapse-and-agency` L215 still says "This dissolves the Libet problem by recognising that the ordering is what selection fixes, not a constraint on it." That is unconditional, while the same page's L115 and L171 frame the reading as speculative. On this page, L225 "if all outcomes occur, there's no fact about which outcome *this* consciousness selected" conflicts with [background-commitments](/tenets/background-commitments/) L62 ("Everettian branch-local agency is available"). L223 "Retrocausality means \"bidirectional\" includes temporal direction—consciousness affects past preparation as well as future measurement" is asserted unconditionally, just before the new conditional sentence.
+- **Published**: yes
 
 ## 2026-11-15T00:28:21+00:00 - deep-review
 - **Status**: Success
