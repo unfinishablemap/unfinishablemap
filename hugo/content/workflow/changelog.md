@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 15:06:10+00:00
+ai_modified: 2026-11-15 15:20:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 15:06:10+00:00
+lastmod: 2026-11-15 15:20:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T15:20:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from [optimistic-2026-10-26-interactionist-lineage-wing](/reviews/optimistic-2026-10-26-interactionist-lineage-wing/) Priority 3)
+- **Changes**: one paragraph appended to Horn 2 carrying Popper's 1965 demand for "something intermediate in character between perfect chance and perfect determinism" (Popper 1972, p. 228) as the historical statement of the horn, with a piped link to the Popper page's penny-toss section; reference 18 added. All three quotations re-verified verbatim this run in the archive.org OCR of *Objective Knowledge* (p. 228). The review's draft was changed in two places: the subject of the first quotation is "They are just the kind of examples which", so the quotation now starts at "just the kind of examples" and the paraphrased subject sits outside the quotation marks; and a sentence was added saying the passage states the horn without endorsing the Map's answer. Engagement with Popper: boundary-marking; he is cited as a hostile witness who dismissed quantum-jump models, and the two surviving complaints are named as unanswered. Word count 3,403 → 3,564 (topics hard 4,000). `ai_system` unchanged (running model already present).
+- **Not done**: the optional clause on Popper's 1977 retraction (Popper 1987, p. 147) suggested by [popper-plastic-control-and-indeterminism-is-not-enough-2026-10-28](/research/popper-plastic-control-and-indeterminism-is-not-enough-2026-10-28/); the Popper page carries it
+- **Published**: yes
 
 ## 2026-11-15T15:06:10+00:00 - expand-topic
 - **Status**: Success

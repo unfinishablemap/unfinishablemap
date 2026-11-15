@@ -2,9 +2,9 @@
 title: "The Trilemma of Selection"
 description: "At a decision point of genuine indeterminacy the trilemma foregrounds three horns—determinism, randomness, mental causation. Human-AI analysis of why only directed selection preserves authorship, treated as a heuristic not a complete partition."
 created: 2026-03-10
-modified: 2026-11-12
+modified: 2026-11-15
 human_modified:
-ai_modified: 2026-11-12T15:20:13+00:00
+ai_modified: 2026-11-15T15:20:49+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -62,6 +62,8 @@ Van Inwagen's rollback argument (2000) makes the problem vivid: rewind time to j
 Mele refined this into the problem of *present luck*: at the moment of decision, nothing about the agent determines one outcome over another. Two worlds identical up to that moment diverge arbitrarily. If nothing distinguishes the agent who chose A from the agent who chose B, the choice is no more authored than a coin flip.
 
 The randomness horn is devastating because it concedes everything the libertarian wants—genuine openness, real alternatives—while showing that openness without direction is no better than its absence. Random will is not free will.
+
+Popper stated the demand the third horn must meet in 1965, before any of this literature. The quantum-jump model of snap-decisions offers, he wrote, "just the kind of examples which seem to lend support to the thesis of Hume and Schlick that perfect chance is the only alternative to perfect determinism", a thesis he called "clearly absurd"; rational behaviour needs "something intermediate in character between perfect chance and perfect determinism" (Popper 1972, p. 228). He did not expect quantum events to supply it: an amplified quantum jump, he judged, models tossing a penny rather than deciding. The passage states this horn without endorsing the Map's answer to it. Horn 3 is a candidate for Popper's intermediate category, and [[popper-three-worlds-interactionism#penny-toss|the Popper page]] records the two complaints, Schlick's and the grain of snap-decisions, that the candidacy has still to answer.
 
 ### Horn 3: Mental Causation
 
@@ -172,3 +174,4 @@ The trilemma connects to each of the five [[tenets]]:
 15. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 16. Planck, M. (1932). *Where Is Science Going?* Trans. J. Murphy. W. W. Norton. Ch. V, pp. 157-168.
 17. MacKay, D.M. (1960). On the Logical Indeterminacy of a Free Choice. *Mind*, 69(273), 31-40.
+18. Popper, K.R. (1972). Of Clouds and Clocks. Ch. 6 of *Objective Knowledge: An Evolutionary Approach*. Clarendon Press. (Lecture delivered 1965.) p. 228.
