@@ -2,9 +2,9 @@
 title: "The Plurality Void"
 description: "Consciousness appears constitutively singular—we cannot conceive what it would be like to be multiple subjects at once. Human+AI mapping of the void where plurality fails."
 created: 2026-02-24
-modified: 2026-02-24
+modified: 2026-11-15
 human_modified:
-ai_modified: 2026-11-11T00:03:17.720588+00:00
+ai_modified: 2026-11-15T22:18:28+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[multi-mind-collapse-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-07-18T19:04:11+00:00
@@ -102,7 +102,7 @@ The plurality void connects to the Map's [[tenets|foundational commitments]] at 
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** is engaged here, with a narrower reach than a first reading suggests. The Map's objection to the many-worlds interpretation is indexical: if every branch is equally real, why am I *this* one? The Everettian answer is [[many-worlds#MWI's Branch-Relative Indexicality Reply|branch-relative indexicality]] (Saunders, Wallace): branching is fission, and each successor truly says "I" of its own branch. The plurality void does not refute that answer, because branching so described yields multiple singularities rather than a plural subject, the verdict this page reaches for dissociative identity above. What the void supplies is the precondition the [[tenets|tenets page]] states for the indexical objection, a non-deflationary "I": the singularity of experience is the first-person datum that "I" rests on. The register records the upshot as a framework boundary rather than an in-framework refutation (P-I5).
 
-**[[tenets#^dualism|Dualism]]** is illuminated by the difficulty of counting consciousnesses in limit cases. If consciousness were straightforwardly physical—identical to a particular brain state or functional configuration—we should be able to count instances as easily as we count physical objects. The persistent ambiguity of split-brain cases and the irreducibility of the subject-summing problem suggest consciousness is not the kind of thing that composes or divides like physical matter. Singularity may be a fundamental feature of non-physical mind.
+**[[tenets#^dualism|Dualism]]** is engaged by the difficulty of counting consciousnesses in limit cases, more weakly than the difficulty first suggests. The datum, as the sources above report it, is that no accepted physical criterion currently fixes the unit of conscious subjecthood in split-brain, dissociative-identity or combination cases. Difficult individuation is common among composite physical systems (organisms, species, storms), so the datum does not by itself discriminate dualism from physicalism. The Map reads the pattern as a sign that singularity may be a fundamental feature of non-physical mind. That reading is the Map's interpretation and is offered without evidential weight: the voids register has [[positions/voids-as-evidence#^p-v3|suspended the cumulative step]] by which the catalogue's findings would carry any.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is specified for a singular agent. If consciousness influences quantum outcomes in the brain, the Map's mechanism channels that influence through something that acts as *one*, and its answer to the many-minds question, the [[multi-mind-collapse-problem|interface-locality account]], bounds each subject's reach by its own brain. That account handles many singular subjects in many bodies; it has no story for two subjects in one brain, or for one experience shared across subjects, which is where the void would bite.
 

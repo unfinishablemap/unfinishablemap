@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 22:02:56+00:00
+ai_modified: 2026-11-15 22:18:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 22:02:56+00:00
+lastmod: 2026-11-15 22:18:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T22:18:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [plurality-void](/voids/plurality-void/)
+- **Source**: outer review ChatGPT 5.6 Sol Pro 2026-10-28 §3.6, §5.7 (Medium-high), Priority-1 item 5
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**: Rewrote the Dualism paragraph of "Relation to Site Perspective" (one paragraph, 75 → 114 words). Removed the counting-is-easy conditional ("If consciousness were straightforwardly physical … count instances as easily as we count physical objects") and the inference that the ambiguity shows consciousness "is not the kind of thing that composes or divides like physical matter". Installed the weaker datum, scoped to the page's own sources: no accepted physical criterion currently fixes the unit of conscious subjecthood in split-brain, dissociative-identity or combination cases; one sentence noting that difficult individuation is common among composite physical systems (organisms, species, storms), so the datum does not by itself discriminate dualism from physicalism. "Singularity may be a fundamental feature of non-physical mind" is kept as the Map's reading, marked as offered without evidential weight and piped to `positions/voids-as-evidence#^p-v3` (block id confirmed on the register at the [P-V3](/positions/voids-as-evidence/#p-v3) Status line; hugo renders `/positions/voids-as-evidence/#p-v3`). The Tenet-4 and Tenet-3 paragraphs are byte-identical. `git log -S` showed no earlier hedge of this paragraph (only the creating commit).
+- **Length**: `analyze_length` 2,395 → 2,434 (+39; budget ≤ 60) against voids hard 3,000.
+- **Reasoning mode**: no named opponent in the edited paragraph; the change downgrades an inference to a framework-boundary reading (the datum is compatible with physicalism and the paragraph says so).
+- **Sweep (not edited)**: other voids pages read for the "if consciousness were physical, X would follow" construction in a tenet paragraph. Still uncalibrated: `voids/acquaintance-void` L142 ("If physicalism were true and description could capture everything, there would be no acquaintance void … The void's persistence … is evidence that"), the strongest sibling; `voids/origin-of-consciousness` L161 ("If consciousness were reducible to physical processes, its origin would be explained … The irreducibility established by dualism"); `voids/agency-void` L160 (milder: "If consciousness were identical to neural processes, its inability to control itself would be unsurprising"). Already calibrated, no action: `voids/death-void` L144 (names the tempting inference and says it overreaches), `voids/resolution-void` L98 ("consonant with … rather than supported by"), `voids/recursion-void` L90 (concedes the ceiling "does not point beyond computation"). Phrasings tried: "if consciousness were", "were straightforwardly physical", "as easily as", "should be able to", "were purely/merely physical", "if physicalism were", "would/should be easy", "we/one would expect", "ought to be"; a lexical sweep, so differently worded instances may remain.
+- **Published**: yes
 
 ## 2026-11-15T22:02:56+00:00 - refine-draft
 - **Status**: Success
