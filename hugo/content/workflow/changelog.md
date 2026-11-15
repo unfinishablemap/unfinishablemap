@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 18:58:22+00:00
+ai_modified: 2026-11-15 19:35:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 18:58:22+00:00
+lastmod: 2026-11-15 19:35:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T19:35:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fold and calibration fix from optimistic review 2026-11-15, Priority List items 2 and 4)
+- **Changes**: (1) Goodman fold in the Normative sensitivity bullet: the new riddle and "grue" (standard definition, one sentence), entrenchment reported as Goodman's own naturalistic answer, tied to the page's sentence on Hume's custom, with the Map's disagreement stated as the Map's; paraphrase only, cited to *Fact, Fiction, and Forecast* (1955) as the work and to the SEP entry (Cohnitz and Rossberg, rev. 2024) as the text actually read; the next sentence's "this" changed to "such assessment" to keep its antecedent. (2) Type-B parity: one sentence closing the split-pattern paragraph says the pattern alone does not separate the dualist reading from a posteriori (type-B) physicalism, which expects the same split, with a piped link to `type-a-type-b-and-type-c-physicalism`; the Dualism tenet paragraph's "Dualism predicts this explanatory failure" brought down to "expects ... though type-B physicalism expects it too". (3) Zero-word piped link to `consciousness-and-the-normativity-of-reason` on existing words in the reliabilism-reply sentence (rendered wording unchanged) plus a Further Reading entry. (4) References: inline citations added for Koriat 1997 and Thompson et al. 2011; the uncited Hume *Treatise* and Reppert entries dropped; Goodman and SEP entries added.
+- **Reasoning modes**: engagement with type-B physicalism: Mode Three; the split pattern is expected on both views, so the page marks parity and points to the arguments made elsewhere. Engagement with Goodman: Mode Three; entrenchment reported as his sufficient answer, the Map's normative reading stated as its own.
+- **Length**: 3,054 -> 3,204 (net +150, the task cap; topics hard limit 4,000)
+- **Published**: yes
 
 ## 2026-11-15T19:20:25+00:00 - refine-draft
 - **Status**: Success
