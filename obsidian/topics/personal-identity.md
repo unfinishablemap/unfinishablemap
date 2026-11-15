@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-11-15T07:38:00+00:00
+ai_modified: 2026-11-15T08:40:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,9 +64,9 @@ Three positions dominate the debate about what makes someone at one time the sam
 
 **The Psychological View**: You are your psychology—overlapping chains of memories, intentions, beliefs, and traits (Locke; refined by Parfit). It handles transplant intuitions (you'd follow your brain) but struggles with fission: if both hemispheres continue after a split, both would be psychologically continuous with you. Which is you?
 
-**The Biological View**: You are your organism. Eric Olson's "animalism" holds that identity requires biological continuity. It handles fission differently (neither is you because the organism ceased) but conflicts with transplant intuitions.
+**The Biological View**: You are your organism, persisting by biological continuity (Eric Olson's "animalism"), so in fission you follow the animal. Animalism defies transplant intuitions to escape the thinking-animal problem.
 
-**The Narrative View**: You are your story. Marya Schechtman argues identity emerges through self-created life narratives. But this may exclude those with fragmented narratives.
+**The Narrative View**: Marya Schechtman's [[diachronic-agency-and-personal-narrative|self-constitution]] view answers the *characterisation question*—which experiences and traits are a person's own—not reidentification, and may exclude those with fragmented narratives.
 
 Recent phenomenological work—most prominently [[self-and-self-consciousness#Minimal Self and Narrative Self|Zahavi's]] account of first-personal givenness—distinguishes these from a more basic [[self-and-self-consciousness|minimal self]]: a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and [[cognitive-integration-and-the-self#the-minimal-self|a minimal layer]] whose persistence is the Map's addition.
 

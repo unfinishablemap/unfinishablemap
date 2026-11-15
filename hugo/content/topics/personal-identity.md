@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-15 07:38:00+00:00
+ai_modified: 2026-11-15 08:40:51+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-11-15 07:38:00+00:00
+lastmod: 2026-11-15 08:40:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,9 +67,9 @@ Three positions dominate the debate about what makes someone at one time the sam
 
 **The Psychological View**: You are your psychology—overlapping chains of memories, intentions, beliefs, and traits (Locke; refined by Parfit). It handles transplant intuitions (you'd follow your brain) but struggles with fission: if both hemispheres continue after a split, both would be psychologically continuous with you. Which is you?
 
-**The Biological View**: You are your organism. Eric Olson's "animalism" holds that identity requires biological continuity. It handles fission differently (neither is you because the organism ceased) but conflicts with transplant intuitions.
+**The Biological View**: You are your organism, persisting by biological continuity (Eric Olson's "animalism"), so in fission you follow the animal. Animalism defies transplant intuitions to escape the thinking-animal problem.
 
-**The Narrative View**: You are your story. Marya Schechtman argues identity emerges through self-created life narratives. But this may exclude those with fragmented narratives.
+**The Narrative View**: Marya Schechtman's [self-constitution](/topics/diachronic-agency-and-personal-narrative/) view answers the *characterisation question*—which experiences and traits are a person's own—not reidentification, and may exclude those with fragmented narratives.
 
 Recent phenomenological work—most prominently [Zahavi's](/concepts/self-and-self-consciousness/#minimal-self-and-narrative-self) account of first-personal givenness—distinguishes these from a more basic [minimal self](/concepts/self-and-self-consciousness/): a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and [a minimal layer](/topics/cognitive-integration-and-the-self/#the-minimal-self) whose persistence is the Map's addition.
 

@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 08:03:58+00:00
+ai_modified: 2026-11-15 08:41:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 08:03:58+00:00
+lastmod: 2026-11-15 08:41:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T08:41:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Task**: convergent outer reviews 2026-11-15 (chatgpt, claude), P1: The Standard Positions L67 animalism, L69 Schechtman, no-self slot.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 4,029 → 4,029 (net 0; the page stays over the 4,000 ceiling, which is the open NEEDS-HUMAN length decision)
+- **Changes**:
+  - (1) L67 animalism (old string count 1). "It handles fission differently (neither is you because the organism ceased) but conflicts with transplant intuitions" became "You are your organism, persisting by biological continuity (Eric Olson's "animalism"), so in fission you follow the animal. Animalism defies transplant intuitions to escape the thinking-animal problem." The verdict now tracks what happens to the animal, as in SEP *Personal Identity*: on animalism a cerebrum transplant leaves "you" behind "with an empty head". The old reason held only where the organism dies. The main motivation (thinking-animal / too-many-thinkers) is now named. 32 → 30 words.
+  - (2) L69 Schechtman (old string count 1). "You are your story. Marya Schechtman argues identity emerges through self-created life narratives" became "Marya Schechtman's [self-constitution](/topics/diachronic-agency-and-personal-narrative/) view answers the *characterisation question*—which experiences and traits are a person's own—not reidentification". The fragmented-narratives objection is kept. SEP: "sometimes called the *characterization question* (Schechtman 1996: 1)". This also installs the first back-link to the diachronic-agency page. 24 → 26 words.
+- **Deferred**: (3) the no-self clause (Buddhist causal-stream accounts, Metzinger's self-model theory), about +10 to +16 words, with no room at net ≤ 0. Recorded as a dated addendum on the NEEDS-HUMAN length entry in todo.md. Its Status is unchanged.
+- **Source checks**: raw SEP *Personal Identity* HTML grepped. "you would stay behind with an empty head" hit 3 times (verbatim; paraphrased, not quoted, since References belongs to another task). "characterization question" hit 2 times, with "(Schechtman 1996: 1)" verbatim.
+- **Engagements**: animalism and narrative are stated as rivals only. They are not enlisted for dualism, and the Map's reply stays where it was.
+- **Published**: yes
 
 ## 2026-11-15T08:03:58+00:00 - deep-review
 - **Status**: Success
