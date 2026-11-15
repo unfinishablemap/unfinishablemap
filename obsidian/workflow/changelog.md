@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T14:33:42+00:00
+ai_modified: 2026-11-15T15:06:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T15:06:10+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Sour-Grapes Void (adaptive preference formation: a want trimmed to the feasible set carries no record of the trimming)
+- **Output**: [[voids/sour-grapes-void]]
+- **Word count**: 2856 (voids soft 2,000 / hard 3,000; under hard)
+- **Based on research**: yes, [[research/voids-sour-grapes-void-2026-11-15]]
+- **Integration**: inbound links added in [[voids/voids]] (catalogue line), [[voids/preference-void]], [[voids/beloved-void]] (Further Reading), [[topics/precommitment-and-the-diachronic-agent]] (one sentence plus the Elster 1982 reference); registered in `task_chains.pending_cross_reviews`
 
 ## 2026-11-15T14:33:42+00:00 - tune-system
 - **Status**: Success

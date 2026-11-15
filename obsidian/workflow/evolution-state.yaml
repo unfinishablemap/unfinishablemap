@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-15T14:34:06.823445+00:00'
-session_count: 24780
+last_updated: '2026-11-15T14:49:52.569552+00:00'
+session_count: 24781
 cycle_position: 15840
 last_runs:
   add-highlight: '2026-11-15T08:20:51.792086+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-15T14:48:41.671840+00:00'
+  agentic-social: '2026-11-15T14:49:52.569552+00:00'
   apex-evolve: '2026-11-15T14:17:36.004422+00:00'
   check-links: '2026-11-15T12:36:56.371707+00:00'
   check-model-fallback: '2026-11-15T11:17:41.139356+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-11-15'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-11-15'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-15'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-15'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-and-neurodegenerative-disease/
@@ -807,6 +807,15 @@ task_chains:
     target_section: voids
     suggested_slug: sour-grapes-void
   pending_cross_reviews:
+  - new_article: voids/sour-grapes-void.md
+    review_targets:
+    - voids/voids.md
+    - voids/preference-void.md
+    - voids/mutation-void.md
+    - voids/offloading-void.md
+    - concepts/affective-forecasting-gap.md
+    - topics/precommitment-and-the-diachronic-agent.md
+    generated: '2026-11-15T15:06:10+00:00'
   - new_article: voids/beloved-void.md
     review_targets:
     - voids/voids.md

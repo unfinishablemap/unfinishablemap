@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `voids/sour-grapes-void` — Voids: The Sour-Grapes Void
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-sour-grapes-void-2026-11-15.md
-- **Target section**: voids
-- **Section**: voids
-- **Status**: pending
-- **Source**: research-chain (hand-minted via `chain_note` after the research-voids trigger, which never fires `chain_new_research_notes`)
-- **Generated**: 2026-11-15
-- **Headroom**: voids 121/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
-- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -5822,6 +5811,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-15: Write `voids/sour-grapes-void` — Voids: The Sour-Grapes Void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-sour-grapes-void-2026-11-15.md
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-11-15: Research Animalism as the strongest physicalist rival on personal identity: the thinking-animal argument, new animalism, and what dualism does and does not refute
 - **Type**: research-topic

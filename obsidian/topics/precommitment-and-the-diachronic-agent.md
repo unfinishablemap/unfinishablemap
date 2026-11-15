@@ -2,9 +2,9 @@
 title: "Precommitment and the Diachronic Agent"
 description: "Precommitment binds a later self through the world. On Elster's definition it is the one self-control strategy the Map discusses that removes or prices the later override; a persisting subject settles self-binding, not authority."
 created: 2026-10-24
-modified: 2026-11-10
+modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-11-12T19:19:43+00:00
+ai_modified: 2026-11-15T15:05:55+00:00
 draft: false
 topics:
   - "[[the-divided-will]]"
@@ -42,7 +42,7 @@ The literature reads binder and bound as two agents, as one imperfectly rational
 
 The economist Robert Strotz named the strategy. An agent who foresees his preferences shifting "may 'precommit' his future behaviour by precluding future options so that it will conform to his present desire as to what it should be" (Strotz 1955–56, p. 165). He called it "the strategy of precommitment" (p. 173).
 
-For Elster, Ulysses' predicament, "being weak and knowing it", called for a theory of imperfect rationality (1979, ch. II, p. 36). His definition, "a first approximation", includes, among others, three conditions: one carries out a decision in order to raise the probability of carrying out another later (i); its effect "must be to set up some causal process in the external world" (iii); and it "must be an act of commission, not of omission" (v). Condition (iii) "also excludes what Ainslie calls 'private side bets'". Elster revisited the subject in 2000, revising earlier claims about constitutions and marriage; the definition here is the 1979 one.
+For Elster, Ulysses' predicament, "being weak and knowing it", called for a theory of imperfect rationality (1979, ch. II, p. 36). His definition, "a first approximation", includes, among others, three conditions: one carries out a decision in order to raise the probability of carrying out another later (i); its effect "must be to set up some causal process in the external world" (iii); and it "must be an act of commission, not of omission" (v). Condition (iii) "also excludes what Ainslie calls 'private side bets'". Elster revisited the subject in 2000, revising earlier claims about constitutions and marriage; the definition here is the 1979 one. In 1982 he set precommitment against its mirror image, adaptive preference formation, which is "an effect and not a cause of a restricted feasible set" (p. 226): there the wants adjust to the restricted options, where in precommitment the agent does the restricting ([[sour-grapes-void|the sour-grapes void]]).
 
 Bryan, Karlan and Nelson define a commitment device as "an arrangement entered into by an agent who restricts his or her future choice set by making certain choices more expensive, perhaps infinitely expensive", with two further conditions, one excluding strategic purposes toward others (2010, p. 673). Ulysses' ropes set an infinite price; a forfeitable deposit sets a finite one.
 
@@ -140,19 +140,20 @@ This section gives the Map's interpretation; none of the authors above argues fo
 7. Dretske, F. (1988). *Explaining Behavior: Reasons in a World of Causes*. MIT Press.
 8. Dufner, A. (2025). Personal identity and ethics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/identity-ethics/
 9. Elster, J. (1979). *Ulysses and the Sirens: Studies in Rationality and Irrationality*. Cambridge University Press.
-10. Elster, J. (2000). *Ulysses Unbound: Studies in Rationality, Precommitment, and Constraints*. Cambridge University Press. https://doi.org/10.1017/cbo9780511625008
-11. Gergel, T., & Owen, G. S. (2015). Fluctuating capacity and advance decision-making in Bipolar Affective Disorder — Self-binding directives and self-determination. *International Journal of Law and Psychiatry*, 40, 92–101. https://doi.org/10.1016/j.ijlp.2015.04.004
-12. Gergel, T., Das, P., Owen, G., et al. (2021). Reasons for endorsing or rejecting self-binding directives in bipolar disorder: A qualitative study of survey responses from UK service users. *Lancet Psychiatry*, 8(7), 599–609. https://doi.org/10.1016/S2215-0366(21)00115-2
-13. Giné, X., Karlan, D., & Zinman, J. (2010). Put your money where your butt is: A commitment contract for smoking cessation. *American Economic Journal: Applied Economics*, 2(4), 213–235. https://doi.org/10.1257/app.2.4.213
-14. Holton, R. (2009). *Willing, Wanting, Waiting*. Oxford University Press.
-15. John, A. (2020). When commitment fails: Evidence from a field experiment. *Management Science*, 66(2), 503–529. https://doi.org/10.1287/mnsc.2018.3236
-16. Kavka, G. S. (1983). The toxin puzzle. *Analysis*, 43(1), 33–36. https://doi.org/10.1093/analys/43.1.33
-17. Krügel, S., & Uhl, M. (2023). Is only one of my selves authentic? An empirical approach. *Journal of Behavioral and Experimental Economics*, 102, 101971. https://doi.org/10.1016/j.socec.2022.101971
-18. McClennen, E. F. (1990). *Rationality and Dynamic Choice: Foundational Explorations*. Cambridge University Press. https://doi.org/10.1017/cbo9780511983979
-19. Parfit, D. (1973). Later selves and moral principles. In A. Montefiore (Ed.), *Philosophy and Personal Relations* (pp. 137–169). London: Routledge. Quoted as in Elster (2000).
-20. Schelling, T. C. (1980). The intimate contest for self-command. *The Public Interest*, Summer 1980, 94–118.
-21. Spellecy, R. (2003). Reviving Ulysses contracts. *Kennedy Institute of Ethics Journal*, 13(4), 373–392. https://doi.org/10.1353/ken.2004.0010
-22. Steele, K., & Stefánsson, H. O. (2025). Decision theory. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/decision-theory/
-23. Steward, H. (2012). *A Metaphysics for Freedom*. Oxford University Press.
-24. Strotz, R. H. (1955–56). Myopia and inconsistency in dynamic utility maximization. *Review of Economic Studies*, 23(3), 165–180. https://doi.org/10.2307/2295722
-25. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-04). Self-Control as Skill and Scaffolding. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-control-as-skill-and-scaffolding/
+10. Elster, J. (1982). Sour grapes – utilitarianism and the genesis of wants. In A. Sen & B. Williams (Eds.), *Utilitarianism and Beyond* (pp. 219–238). Cambridge University Press. https://doi.org/10.1017/CBO9780511611964.013
+11. Elster, J. (2000). *Ulysses Unbound: Studies in Rationality, Precommitment, and Constraints*. Cambridge University Press. https://doi.org/10.1017/cbo9780511625008
+12. Gergel, T., & Owen, G. S. (2015). Fluctuating capacity and advance decision-making in Bipolar Affective Disorder — Self-binding directives and self-determination. *International Journal of Law and Psychiatry*, 40, 92–101. https://doi.org/10.1016/j.ijlp.2015.04.004
+13. Gergel, T., Das, P., Owen, G., et al. (2021). Reasons for endorsing or rejecting self-binding directives in bipolar disorder: A qualitative study of survey responses from UK service users. *Lancet Psychiatry*, 8(7), 599–609. https://doi.org/10.1016/S2215-0366(21)00115-2
+14. Giné, X., Karlan, D., & Zinman, J. (2010). Put your money where your butt is: A commitment contract for smoking cessation. *American Economic Journal: Applied Economics*, 2(4), 213–235. https://doi.org/10.1257/app.2.4.213
+15. Holton, R. (2009). *Willing, Wanting, Waiting*. Oxford University Press.
+16. John, A. (2020). When commitment fails: Evidence from a field experiment. *Management Science*, 66(2), 503–529. https://doi.org/10.1287/mnsc.2018.3236
+17. Kavka, G. S. (1983). The toxin puzzle. *Analysis*, 43(1), 33–36. https://doi.org/10.1093/analys/43.1.33
+18. Krügel, S., & Uhl, M. (2023). Is only one of my selves authentic? An empirical approach. *Journal of Behavioral and Experimental Economics*, 102, 101971. https://doi.org/10.1016/j.socec.2022.101971
+19. McClennen, E. F. (1990). *Rationality and Dynamic Choice: Foundational Explorations*. Cambridge University Press. https://doi.org/10.1017/cbo9780511983979
+20. Parfit, D. (1973). Later selves and moral principles. In A. Montefiore (Ed.), *Philosophy and Personal Relations* (pp. 137–169). London: Routledge. Quoted as in Elster (2000).
+21. Schelling, T. C. (1980). The intimate contest for self-command. *The Public Interest*, Summer 1980, 94–118.
+22. Spellecy, R. (2003). Reviving Ulysses contracts. *Kennedy Institute of Ethics Journal*, 13(4), 373–392. https://doi.org/10.1353/ken.2004.0010
+23. Steele, K., & Stefánsson, H. O. (2025). Decision theory. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/decision-theory/
+24. Steward, H. (2012). *A Metaphysics for Freedom*. Oxford University Press.
+25. Strotz, R. H. (1955–56). Myopia and inconsistency in dynamic utility maximization. *Review of Economic Studies*, 23(3), 165–180. https://doi.org/10.2307/2295722
+26. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-04). Self-Control as Skill and Scaffolding. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-control-as-skill-and-scaffolding/

@@ -2,9 +2,9 @@
 title: "The Preference Void"
 description: "Human+AI exploration of why a mind cannot tell from inside whether its preference was read off or built in the asking: a built answer arrives with all the authority of a read-out."
 created: 2026-10-03
-modified: 2026-10-04
+modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-10-30T12:52:56+00:00
+ai_modified: 2026-11-15T15:05:55+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[research/voids-preference-void-2026-09-30]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-10-03
 last_curated: null
 ---
@@ -44,7 +44,7 @@ The epistemic status needs stating at once. Reversals between choosing and prici
 
 ## Neighbouring Voids
 
-The [[decision-void]] concerns the *moment* weighing becomes choice; the [[wholeheartedness-void]], whether a mind's *identification* with a desire is genuine; the [[appetitive-void]], whether cognition can escape being *shaped* by desire; the [[confabulation-void]], the fabricated *reasons* given for a choice already made. The preference void lies beneath all four. It asks whether the ordering that identification endorses, desire shapes, reasons rationalise and the decision seals existed before anyone asked for it. The [[transformative-experience-void]] records that a mind cannot know its preferences for experiences it has not had. This void is prior: a mind cannot straightforwardly know its preferences for experiences it *has* had, if knowing means reading off rather than producing.
+The [[decision-void]] concerns the *moment* weighing becomes choice; the [[wholeheartedness-void]], whether a mind's *identification* with a desire is genuine; the [[appetitive-void]], whether cognition can escape being *shaped* by desire; the [[confabulation-void]], the fabricated *reasons* given for a choice already made. The preference void lies beneath all four. It asks whether the ordering that identification endorses, desire shapes, reasons rationalise and the decision seals existed before anyone asked for it. The [[transformative-experience-void]] records that a mind cannot know its preferences for experiences it has not had. This void is prior: a mind cannot straightforwardly know its preferences for experiences it *has* had, if knowing means reading off rather than producing. The [[sour-grapes-void]] asks a different question of an ordering already settled: whether what was attainable set its shape. A preference can be consistent under every procedure and still be adapted.
 
 ## Three Faces, One Void
 
