@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity of inferential tran
 created: 2026-04-26
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-10-07T21:50:59+00:00
+ai_modified: 2026-11-15T12:18:08.987116+00:00
 last_deep_review: 2026-07-17T17:06:35+00:00
 draft: false
 topics:
@@ -38,9 +38,20 @@ author:
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-04-26
 last_curated:
+embedded_videos:
+  - id: swxOPZkDko0
+    url: https://www.youtube-nocookie.com/embed/swxOPZkDko0
+    embedded: 2026-11-15T12:18:08.987116+00:00
+    source: notebooklm/0199-01-inference-void
 ---
 
 The **inference void** names the structural opacity of inferential transitions to the consciousness that performs them. Premises are present in awareness; conclusions are present in awareness; but the *move* between them is invisible. [[carrolls-regress|Lewis Carroll's 1895 dialogue]] "What the Tortoise Said to Achilles" gives this void an unusual epistemic profile: it is approached through a regress argument with formal flavour, not merely apophatic or empirical. Wittgenstein's rule-following paradox develops a complementary line; Polanyi's account of tacit inference fills the same point in positively. The void shadows logical reasoning the way the [[question-formation-void|question formation void]] shadows formulation and the [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|epistemic horizon void]] shadows estimation — a second-order limit on a first-order capacity. It is also *recursively load-bearing*: any inspection of an inference must itself proceed by inference, so every other void reasoned about is reasoned about with operations the inference void declares opaque.
+
+<details class="yt-embed" data-video-id="swxOPZkDko0">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/swxOPZkDko0">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Carroll's Regress and Its Two Readings
 
