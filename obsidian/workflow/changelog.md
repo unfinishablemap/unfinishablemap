@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T12:09:12+00:00
+ai_modified: 2026-11-15T13:07:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T13:07:36+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The sour-grapes void (adaptive preference formation): whether a want was trimmed to fit what is attainable cannot be read from the want
+- **Category**: Occluded (chiefly), with an Unexplorable residue and a deflating face
+- **Output**: [[research/voids-sour-grapes-void-2026-11-15]]
+- **Sources consulted**: 15 cited. Read in raw text and grepped: Elster's 1982 chapter in full (scanned *Utilitarianism and Beyond*), an English text of Scheler's *Ressentiment*, the Kay, Jimenez & Jost 2002 reprint, Sen's 2002 BMJ editorial (PMC HTML), Lehr et al. 2025 (Europe PMC XML) and the Brandt 2013 repository abstract. Laurin 2012/2018, Colburn 2011, Terlazzo 2022, Nussbaum 2001 and Riis et al. 2005 at abstract level; Bruckner 2009 via search excerpts only (paraphrased, not quoted). Quotes checked by script against the raw texts; Elster's 1983 book and the Bengal-famine widows figure could not be reached and are not used.
+- **Key finding**: Elster: adapted and deliberately cultivated wants can be told apart "only by looking into the actual process of want formation", evidence "usually unavailable", and the one operational test (freedom to do otherwise) requires the option the adapted subject lacks; Scheler places the deeper revaluation "on the road of experience into consciousness", so the judgement is sincere. Calibrated by Brandt 2013 (the status-legitimacy extrapolation is not robust) and Riis et al. 2005 (outsiders misjudge adaptation).
+- **Chain**: P2 expand-topic task for `voids/sour-grapes-void` hand-minted at the top of Active Tasks via `chain_note` (voids 121/125); `task_chains.pending_articles` entry added.
 
 ## 2026-11-15T12:09:12+00:00 - research-topic
 - **Status**: Success

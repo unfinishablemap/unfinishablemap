@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-12 10:05:19+00:00
+ai_modified: 2026-11-15 13:07:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-11-12 10:05:19+00:00
+lastmod: 2026-11-15 13:07:36+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,6 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write `voids/sour-grapes-void` — Voids: The Sour-Grapes Void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-sour-grapes-void-2026-11-15.md
+- **Target section**: voids
+- **Section**: voids
+- **Status**: pending
+- **Source**: research-chain (hand-minted via `chain_note` after the research-voids trigger, which never fires `chain_new_research_notes`)
+- **Generated**: 2026-11-15
+- **Headroom**: voids 121/125 at mint (count_section_files). Re-measure before writing; stop at the cap.
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
@@ -911,6 +922,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   ✅ **The serving article surface is still completely clean** — 0 broken links originating in `topics/ concepts/ apex/ voids/ positions/ tenets/ arguments/ questions/`, re-derived by parsing the crawler's `On page:` attributions rather than trusting the headline count.
   📈 **Drift rate: +7 in 52 days, all of it in `workflow/`** — roughly one new dead reference per week, which is what you would expect from a records tree that keeps naming articles as they are archived, coalesced or renamed. **It compounds slowly and will not self-correct**, since repointing the entries would falsify the record. The decision this entry describes does not get easier by waiting, but neither is it urgent.
   ℹ️ Sample of the shape, for anyone triaging: `/topics/buddhism-and-dualism/` is a live 404 target because the article is at **`concepts/buddhism-and-dualism`** — a path-qualified reference that the wikilink resolver string-builds without validating, so it fails silently rather than being caught at sync time. That sub-class is a genuine authoring error in the record rather than honest historical drift, and could in principle be repaired without falsifying anything — but it is not separated out in the 418 and would need its own measurement first.
+  🔧 **2026-11-15T12:36Z RE-MEASUREMENT + A CODE CAUSE FOR THE `research/` ROW (cycle driver, check-links trigger).** Total **424** unique broken URLs, all 404, on 44 source pages: `workflow/` **418** (370 covered by a `_redirects` 301, 48 with no redirect: never-existent or wrong-path URLs, 15 on `workflow/todo`), `research/` **6**, `reviews/` **0**, content sections **0** (the fork grepped all 424 targets across the content sections, not just the crawler's first-page attribution). **The `research/` 6 are NOT record text and should not sit in this policy bucket.** The Obsidian sources wikilink archived slugs (e.g. `[[scale-void]]`), and `build_content_index()` in `tools/sync/converter.py` (archive block after the collision pass) maps an archived slug to its `superseded_by` target ONE hop only; when that target was itself archived later, the link lands on a second archived URL. `tools/sync/redirects.py` `_flatten_chains` follows the chain to the end, so production serves a 301, not a 404, but every such link pays an extra hop and would rot if `_redirects` changed. Driver verified the one-hop code by reading both files. Fix (code, not content, so not a refine-draft): resolve `superseded_by` transitively in `build_content_index` the way `_flatten_chains` does. Note: the same one-hop mapping applies to ANY section, so a future article wikilinking a twice-archived slug would get the same extra hop.
 
 ### NEEDS-HUMAN (agentic-social config) 2026-07-31: the topic-dedupe filter is silently DEAD — 0 of 671 articles survive it, so every pick falls through to URL-only selection
 - **Type**: refine-draft

@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-15T12:19:07.565106+00:00'
-session_count: 24775
+last_updated: '2026-11-15T12:36:56.371707+00:00'
+session_count: 24776
 cycle_position: 15840
 last_runs:
   add-highlight: '2026-11-15T08:20:51.792086+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
   agentic-social: '2026-11-15T10:22:06.582102+00:00'
   apex-evolve: '2026-11-13T14:52:49.681057+00:00'
-  check-links: '2026-11-14T13:24:45.966680+00:00'
+  check-links: '2026-11-15T12:36:56.371707+00:00'
   check-model-fallback: '2026-11-15T11:17:41.139356+00:00'
   check-tenets: '2026-11-14T01:07:38.920389+00:00'
   coalesce: '2026-11-15T09:04:40.470182+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-15'
-  outcome: success
-  kind: agentic_social
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-15'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-11-15'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-11-15'
   outcome: success
   kind: trigger
@@ -803,6 +803,9 @@ task_chains:
     suggested_slug: acquaintance-without-causation
   - research_file: obsidian/research/voids-tempo-void-2026-10-16.md
     target_section: voids
+  - research_file: obsidian/research/voids-sour-grapes-void-2026-11-15.md
+    target_section: voids
+    suggested_slug: sour-grapes-void
   pending_cross_reviews:
   - new_article: voids/beloved-void.md
     review_targets:
