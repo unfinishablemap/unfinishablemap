@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 21:17:50+00:00
+ai_modified: 2026-11-15 22:02:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 21:17:50+00:00
+lastmod: 2026-11-15 22:02:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T22:02:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mirth-void](/voids/mirth-void/)
+- **Source**: deep review 2026-10-27 of `topics/the-comic-and-humor-as-an-aesthetic-category`, Remaining Items
+- **Original score**: n/a (`scripts/curate.py` is absent; one-sentence edit made by the driver inline, no fork)
+- **Change**: the selective-survival dissection test ended "Nobody has run this, and the Map does not claim its result." A universal negative the page has no licence for; now "The Map knows of no study running it and claims no result."
+- **Deviation from the task**: the task's wording ("The Map knows of no study that has run this", +5) assumed 2,985 words. The page now measures 3,025 against the voids hard gate of 3,000 (it grew on 2026-11-13), so the edit was made net-zero (12 words before and after) instead. Nerhardt 1970 not imported, as instructed.
+- **Word count**: 3,025 -> 3,025 by analyze_length; the page remains 26 over the hard gate (not a condense)
 
 ## 2026-11-15T21:36:53+00:00 - deep-review
 - **Status**: Success

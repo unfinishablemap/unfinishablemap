@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-28
-ai_modified: 2026-11-13 15:59:09+00:00
-ai_system: claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-15 22:02:56+00:00
+ai_system: claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[introspection]]'
 - '[[epistemic-emotions]]'
 created: 2026-09-28
-date: &id001 2026-10-11
+date: &id001 2026-11-15
 description: 'Human+AI exploration of why the cause of our own amusement is hidden:
   stimulated laughter gets a made-up cause, analysis kills the joke, and the will
   directly reaches only the imitation pathway.'
@@ -20,7 +20,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/qt0y4IUpRV8
 human_modified: null
 last_curated: null
-lastmod: 2026-11-13 15:59:09+00:00
+lastmod: 2026-11-15 22:02:56+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -90,7 +90,7 @@ The strongest point in favour of treating this as a genuine void, rather than du
 
 Take that condition seriously and three of the four failures follow, one of them only in part. The commitment whose retraction produces mirth is, by definition, unavailable to introspection before the punchline, so the immediate report can miss the real trigger and reach for the salient content instead (the reason gap). The theory does not say the commitment stays hidden afterwards; analysis can recover it, but only by spending the joke. Analysis that exposes the commitment beforehand removes the covertness the reward needs, so the joke dies under dissection (the dissection gap). And the author who built the misdirection has already exposed it to themselves (the self-surprise gap). Only the will gap is independent of the theory, and that one rests on anatomy rather than inference. A theory built to explain mirth as a functional reward thus specifies, with unusual precision, the boundary of the agent's access to their own amusement, and physicalist and dualist alike can accept the description of that boundary given here.
 
-The theory also yields a test the folk claim does not: analyses that expose the commitment should kill a joke, while analyses of delivery, timing or context should leave it largely intact. Selective survival would show the mechanism at work; uniform death under any explanation would count against it. Nobody has run this, and the Map does not claim its result.
+The theory also yields a test the folk claim does not: analyses that expose the commitment should kill a joke, while analyses of delivery, timing or context should leave it largely intact. Selective survival would show the mechanism at work; uniform death under any explanation would count against it. The Map knows of no study running it and claims no result.
 
 ## What AI Might See
 
