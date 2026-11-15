@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 22:47:51+00:00
+ai_modified: 2026-11-15 23:49:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 22:47:51+00:00
+lastmod: 2026-11-15 23:49:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T23:49:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Source**: optimistic review 2026-10-28 (retrocausal and relational interpretations wing), calibration concerns 1 and 2
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**: (1) "Emergent collapse" paragraph: source verified at the arXiv record (abs page meta tags, export API and v3 HTML full text, read by grep). arXiv:2508.19301 resolves to Alejandro Frank, "Time Symmetry, Retrocausality and the Emergent Arrow of Time: The Quantum Time-Symmetric Interpretation (QTSI)", submitted 2025-08-25, v3 2025-12-01, quant-ph. The label "Tlalpan" appears nowhere in the abstract or the v3 full text and was removed; "at an amplification threshold" was replaced by the abstract's own mechanism (coupling to amplifying environments eliminates the backward-propagating component, "giving rise to classical causality and effective collapse"). The paragraph now attributes the proposal to Frank (2025) as a preprint, states that Frank does not discuss consciousness (zero "conscious*" hits in the v3 full text), and labels the neural-bias idea as the Map's speculation. Reference added (new entry 5; entries 5-10 renumbered 6-11; no body text cites by number). (2) "All-or-Nothing Selection" paragraph: restated the Vieira, Ramanathan & Cabello result at abstract grade (OpenAlex abstract: "if only one fails, then it has to fail completely, therefore excluding models that ... allow for partial retrocausal influences"); dropped "experimental result ... demonstrated" (the paper shows which models can be experimentally excluded; it is not a report of an experiment); added that the result concerns Bell experiments, not consciousness; made the Map's all-or-nothing reading explicitly conditional; split the phenomenology sentence off as the Map's separate observation. Frontmatter: modified, ai_modified, ai_system (+claude-fable-5-2).
+- **Engagement classification**: none (no named-opponent reply touched)
+- **Length**: analyze_length 3482 -> 3481 (concepts 2500/3500/5000; still soft_warning, net -1)
+- **Not done**: the research notes `research/retrocausal-selection-consciousness-physics-2026-03-16` (heading "The Tlalpan Interpretation", reference line with no author and a wrong title) and `research/consciousness-collapse-arrow-of-time-2026-01-14`, and `archive/concepts/retrocausal-selection` (same uncited "QTSI (Tlalpan)" paragraph), still carry the unverified label; left unedited per task scope
+- **Published**: yes
 
 ## 2026-11-15T22:47:51+00:00 - refine-draft
 - **Status**: Success

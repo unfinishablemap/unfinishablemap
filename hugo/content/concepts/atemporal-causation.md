@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-08-07 22:24:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-15 23:49:39+00:00
+ai_system: claude-opus-4-6+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/atemporal-causation/
@@ -20,7 +20,7 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[decoherence]]'
 created: 2026-02-14
-date: &id001 2026-05-10
+date: &id001 2026-11-15
 description: Causation outside temporal sequence — consciousness selects which quantum
   history becomes actual, dissolving the Libet timing puzzle. Non-violation of physical
   law is a design constraint, not a demonstrated result.
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 05:32:00+00:00
-lastmod: 2026-08-07 22:24:00+00:00
+lastmod: 2026-11-15 23:49:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +111,7 @@ This aligns with the [phenomenology of decision](/concepts/phenomenology-of-choi
 
 ### All-or-Nothing Selection
 
-A 2025 experimental result testing the physical significance of Bell nonlocality (Vieira, Ramanathan & Cabello, 2025) demonstrated that if retrocausal influences operate, they must operate fully — partial retrocausal bias is excluded. For the Map, this strengthens the selection framing: consciousness fully determines which outcome actualizes among available options rather than slightly biasing probabilities. This connects to the phenomenology of choice — decisions present as definite selections, not probability adjustments.
+Vieira, Ramanathan & Cabello (2025) show that if only one local hidden-variable assumption fails, it must fail completely, excluding partial retrocausal influences. Their result concerns Bell experiments, not consciousness. The Map's conditional reading: selection that is retrocausal in that Bell-type sense would be all-or-nothing, not a slight bias. Separately, the Map observes that decisions present as definite selections.
 
 ### Lorentz Invariance
 
@@ -168,7 +168,7 @@ This preserves temporal becoming. The block grows as transactions complete — p
 
 **Neural implementation.** No atemporal framework specifies how consciousness interfaces with quantum transactions in neural tissue. The transactional interpretation describes physics; where and how consciousness participates in neural transactions is unspecified. This gap is analogous to the implementation gaps in non-retrocausal models.
 
-**Emergent collapse.** The QTSI (Tlalpan) interpretation proposes that collapse emerges from time-symmetric microscopic physics at an amplification threshold. If collapse is emergent rather than fundamental, consciousness could modulate where the threshold is crossed in neural systems — biasing which amplification events occur. This connects atemporal causation to testable physics but remains speculative.
+**Emergent collapse.** Frank's (2025) Quantum Time-Symmetric Interpretation (QTSI) preprint proposes that effective collapse emerges from time-symmetric laws as amplifying environments eliminate the backward-propagating component. Frank does not discuss consciousness. The Map's speculation: if collapse so emerges, consciousness might bias which neural amplification events occur.
 
 ## What Would Challenge This View?
 
@@ -222,9 +222,10 @@ Atemporal causation connects to each of the Map's tenets:
 2. Aharonov, Y., Cohen, E., & Shushi, T. (2015). Accommodating retrocausality with free will. *Quanta*, 5(1), 53-60. *arXiv:1512.06689*.
 3. Adlam, E. (2022). Two roads to retrocausality. *Synthese*, 200, 422.
 4. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
-5. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
-6. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
-7. Price, H. & Wharton, K. (2013). Dispelling the quantum spooks. *arXiv:1307.7744*.
-8. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
-9. Vieira, C., Ramanathan, R., & Cabello, A. (2025). Test of the physical significance of Bell non-locality. *Nature Communications*, 16, 4390. https://doi.org/10.1038/s41467-025-59247-7
-10. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+5. Frank, A. (2025). Time symmetry, retrocausality and the emergent arrow of time: The Quantum Time-Symmetric Interpretation (QTSI). *arXiv:2508.19301*.
+6. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+7. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
+8. Price, H. & Wharton, K. (2013). Dispelling the quantum spooks. *arXiv:1307.7744*.
+9. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
+10. Vieira, C., Ramanathan, R., & Cabello, A. (2025). Test of the physical significance of Bell non-locality. *Nature Communications*, 16, 4390. https://doi.org/10.1038/s41467-025-59247-7
+11. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
