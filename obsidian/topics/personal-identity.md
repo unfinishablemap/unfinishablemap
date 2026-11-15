@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-11-15T06:22:17+00:00
+ai_modified: 2026-11-15T07:23:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ Three positions dominate the debate about what makes someone at one time the sam
 
 **The Narrative View**: You are your story. Marya Schechtman argues identity emerges through self-created life narratives. But this may exclude those with fragmented narratives.
 
-Recent phenomenological work—most prominently [[self-and-self-consciousness#Minimal Self and Narrative Self|Zahavi's]] account of first-personal givenness—distinguishes these from a more basic [[self-and-self-consciousness|minimal self]]: a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and [[cognitive-integration-and-the-self#the-minimal-self|a minimal layer that persists throughout]].
+Recent phenomenological work—most prominently [[self-and-self-consciousness#Minimal Self and Narrative Self|Zahavi's]] account of first-personal givenness—distinguishes these from a more basic [[self-and-self-consciousness|minimal self]]: a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and [[cognitive-integration-and-the-self#the-minimal-self|a minimal layer]] whose persistence is the Map's addition.
 
 [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [[inaccessible-past]] reveals, reconstruction can never fully access the original experience—and where retrieval reopens the trace, reconsolidation makes [[consciousness-and-memory|consciousness a causal participant in memory's transformation]].
 
@@ -104,7 +104,7 @@ The starting point is phenomenological: introspection reveals what seems like ir
 
 At most the case opens room for the posit; the [[kants-paralogisms-and-the-maps-subject#three-exposures|seeming it starts from]], which rivals predict too, shifts no burden.
 
-Crucially, haecceity does not require a permanent soul-substance. The Map's concept of [[eastern-philosophy-consciousness|process haecceitism]]—drawing on Whitehead's process philosophy and Buddhist impermanence—holds that particularity can apply to experiential *streams*: *this* series of conscious moments is distinct from *that* series, without a permanent substrate underlying either. This is the Map's own construction, not a Buddhist position; Buddhism generally resists claims of irreducible personal particularity (see [[buddhism-and-dualism]]). A Nagarjunian will object that individuating a *stream* as *this* rather than *that* smuggles back the very *svabhava*—inherent, self-standing existence—the no-substance move was meant to avoid, relocating the reification without dissolving it. The Map does not claim to defeat this on Madhyamaka's own terms; it holds that minimal indexical particularity of a stream is a more modest commitment than substantial selfhood, and that the alternative—no fact at all about which stream is undergone—is the indexical eliminativism the tenets reject. Whether that particularity is genuinely free of *svabhava* or merely a thinner version is left as an honest open boundary.
+Haecceity does not require a permanent soul-substance. The Map's concept of [[eastern-philosophy-consciousness|process haecceitism]]—drawing on Whitehead's process philosophy and Buddhist impermanence—holds that particularity can apply to experiential *streams*: *this* series of conscious moments, whose unity is treated as primitive, is distinct from *that* series. This is the Map's own construction, not a Buddhist position; Buddhism generally resists claims of irreducible personal particularity (see [[buddhism-and-dualism]]). A Nagarjunian will object that individuating a *stream* as *this* rather than *that* smuggles back the very *svabhava*—inherent, self-standing existence—the no-substance move was meant to avoid, relocating the reification without dissolving it. The Map does not claim to defeat this on Madhyamaka's own terms; it holds that minimal indexical particularity of a stream is a more modest commitment than substantial selfhood, and that the alternative—no fact at all about which stream is undergone—is the indexical eliminativism the tenets reject. Whether that particularity is genuinely free of *svabhava* or merely a thinner version is left as an honest open boundary.
 
 This connects to quantum selection: if consciousness influences which quantum outcomes occur, *which* consciousness selects matters, and a teletransporter replica wouldn't be the consciousness that was making selections. The tenet connections and the empirical-indistinguishability caveat are developed in [[#relation-to-site-perspective|Relation to Site Perspective]] below.
 
@@ -184,15 +184,15 @@ The Map's account would be challenged by: (1) a successful illusionist explanati
 
 Personal identity exemplifies the Map's framework and connects to all five tenets.
 
-**[[tenets#^dualism|Dualism]]**: if consciousness is irreducible to physical processes, personal identity cannot be purely physical or functional. A zombie duplicate would share all physical and functional properties yet lack consciousness—and therefore lack *your* identity—showing, on the dualist premise, that identity involves something non-physical: *this* conscious perspective.
+**[[tenets#^dualism|Dualism]]**: irreducible consciousness permits a non-physical criterion of personal identity without entailing one. A zombie duplicate would share all physical and functional properties yet lack consciousness—and therefore lack *your* identity—showing, on the dualist premise, that identity involves something non-physical: *this* conscious perspective.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: if *this* consciousness makes *these* quantum selections, the selector has a [[kants-paralogisms-and-the-maps-subject|unique causal history]] a replica could not inherit. As the [[measurement-problem]] article acknowledges, consciousness-selection within Born probabilities is, under any unconditioned aggregate test, indistinguishable from random collapse—a consistency claim testable only in the [[positions/quantum-interface#^mechanism-debt|conditioned register]]. The identity argument doesn't depend on quantum mechanics: any non-physical causal contribution would individuate consciousness through its unique history.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: if *this* consciousness makes *these* quantum selections, the selector has a [[kants-paralogisms-and-the-maps-subject|unique causal history]] a replica could not inherit. As the [[measurement-problem]] article acknowledges, consciousness-selection within Born probabilities is, under any unconditioned aggregate test, indistinguishable from random collapse—a consistency claim testable only in the [[positions/quantum-interface#^mechanism-debt|conditioned register]]. The identity argument needs no quantum mechanics: any non-physical causal contribution would give content to a subject whose persistence is posited.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: because your consciousness influences physical processes rather than merely observing them, your conscious history has causal efficacy. The choices and selections you've performed constitute *your* life in a way no replica—starting its causal contribution from scratch—could inherit.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: as [[#the-no-many-worlds-connection|The No Many Worlds Connection]] argues, on egalitarian MWI no branch-copy is privileged as you; the tenet's indexical objection draws on the [[haecceity|haecceitistic]] subject the Map posits rather than supporting it.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: anti-haecceitists might appeal to parsimony—why posit primitive "thisness" when psychological continuity suffices? But parsimony fails when our concepts are inadequate to the phenomenon. That the question "Will I survive?" resists dissolution suggests our concepts may be missing something; the haecceitistic framework honors this puzzlement rather than explaining it away.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: anti-haecceitists might appeal to parsimony—why posit primitive "thisness" when psychological continuity suffices? But parsimony fails when our concepts are inadequate to the phenomenon. That the question "Will I survive?" resists dissolution suggests our concepts may be missing something; rivals explain this puzzlement too—the dispute is over its source.
 
 ## Further Reading
 

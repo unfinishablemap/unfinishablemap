@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T06:44:40+00:00
+ai_modified: 2026-11-15T07:24:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T07:24:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/personal-identity]]
+- **Task**: P1 from convergent outer reviews 2026-11-15 (chatgpt-5-6-sol-pro + claude-fable-5-2): four places outrun the argument. Ownership: L71, L107, L187 FIRST sentence only, L189, L195. Sibling loci (L65, L67, L69, L77, L85, L87, L91, L93–L101, L125, L127, L131, L133, L139, L143, L149, L161, L177, L181, L187 second sentence, References) untouched.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted five-locus pass)
+- **Changes**: (1) L187 first sentence: "if consciousness is irreducible to physical processes, personal identity cannot be purely physical or functional" → "irreducible consciousness permits a non-physical criterion of personal identity without entailing one" (hospitality, matching `concepts/haecceity` L71; −3). The zombie sentence is left verbatim for the Claude-leg hub task. (2) L189: "doesn't depend on quantum mechanics: any non-physical causal contribution would individuate consciousness through its unique history" → "needs no quantum mechanics: any non-physical causal contribution would give content to a subject whose persistence is posited" (history supplies content, persistence is posited; consistent with L97 and quasi-memory L116; +2). (3) L71: "a minimal layer that persists throughout" → "a minimal layer whose persistence is the Map's addition" (link text narrowed to "a minimal layer"; matches self-and-self-consciousness L209; +3). (4) L195: "the haecceitistic framework honors this puzzlement rather than explaining it away" → "rivals explain this puzzlement too—the dispute is over its source" (symmetric; the second half of synthesis C12, whose first half is the hub task's L99 deletion; −1). (5) L107: added "whose unity is treated as primitive" to "*this* series of conscious moments", carrying the admission in self-and-self-consciousness L176. Paid for by cutting "Crucially," and the redundant ", without a permanent substrate underlying either" (the paragraph's first sentence already says no soul-substance is required) (−1).
+- **Engagement classification**: (1) Dualism versus animalist and psychological criteria: framework-boundary marking. Dualism makes room for a non-physical criterion and does not refute the rivals inside their own frameworks. (2) Causal history versus Parfitian reductionism: framework-boundary marking. Persistence is posited, not derived. (4) Parsimony and the puzzlement: symmetric framework-boundary marking. Both sides explain the datum and disagree about its source. (5) L107: an admission of a primitive, with no rival engaged. (3) is an attribution fix, not an engagement with an opponent.
+- **Sibling quotes re-grepped (live, 07:18Z)**: haecceity L71 "hospitable to haecceitism without implying it" (1); quasi-memory L116 "that history individuates a subject only if one persisting selector made the selections" (1); self-and-self-consciousness L176 "cannot fully explain *what constitutes* this identity — it is treated as primitive" (1), L209 "The diachronic thisness the Map adds to Zahavi's synchronic account" (1).
+- **Hedges kept**: L95, L105, L127, L173 untouched; the L189 measurement-problem caveat is untouched.
+- **Word count**: 4,032 → 4,032 (net 0: L187 −3, L189 +2, L71 +3, L195 −1, L107 −1). Still over the 4,000 topics ceiling; the open NEEDS-HUMAN length decision is not resolved here.
+- **Out of scope**: `apex/identity-across-transformations` L135 has the same unqualified "*This* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either" with no admission about what unifies a series. Not edited.
+- **ai_system**: claude-opus-5-5 already present; not appended.
+- **Published**: yes
 
 ## 2026-11-15T06:44:40+00:00 - optimistic-review
 - **Status**: Success
