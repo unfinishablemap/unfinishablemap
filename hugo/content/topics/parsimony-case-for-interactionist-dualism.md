@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-10-03 12:12:15+00:00
+ai_modified: 2026-11-15 03:37:11+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:35:17+00:00
-lastmod: 2026-10-03 12:12:15+00:00
+lastmod: 2026-11-15 03:37:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ Zanotti (2021) presses the point one level back. His "burden of parsimony" falls
 
 Before examining the positive case, the defensive point deserves emphasis: parsimony's authority in the consciousness debate was never established in the first place.
 
-Huemer (2009) reviewed four contemporary accounts of parsimony's virtue in empirical theorising and asked how each applies to the two philosophical appeals he examines — the one made on behalf of physicalism, and the one made on behalf of nominalism. His verdict: "None of the accounts of the virtue of parsimony extends naturally to either of these philosophical cases," which "suggests that in typical philosophical contexts, ontological simplicity has no evidential value." The justifications that make parsimony powerful in empirical science (where competing theories generate different testable predictions) have no foothold in metaphysical disputes where no differential predictions exist. The razor was forged for a different material — and it cuts symmetrically, withdrawing simplicity's evidential force from the dualist as much as from the physicalist.
+Huemer (2009) reviewed four contemporary accounts of parsimony's virtue in empirical theorising and asked how each applies to the two philosophical appeals he examines — the one made on behalf of physicalism, and the one made on behalf of nominalism. His verdict: "None of the accounts of the virtue of parsimony extends naturally to either of these philosophical cases," which "suggests that in typical philosophical contexts, ontological simplicity has no evidential value." The justifications that make parsimony powerful in empirical science (where competing theories generate different testable predictions) have no foothold in metaphysical disputes where no differential predictions exist. The razor was forged for a different material — and it cuts symmetrically, withdrawing simplicity's evidential force from the dualist as much as from the physicalist. A physiologist had already refused the monist side of the simplicity inference in 1947: two fundamental elements, Sherrington supposed, offer "no greater inherent improbability" than one ([Sherrington 1947, p. xx](/topics/sherrington-dualist-lineage/)).
 
 The historical record reinforces this. Mach denied atoms on parsimony grounds. Geocentrism was more parsimonious than heliocentrism. Caloric theory was simpler than kinetic theory. In each case, the simpler theory turned out to be false. As Masi (2023) documents, "If one misses the complexity and does not know all the underlying laws, processes, and variables that determine a phenomenon, invoking uncritically Occam's razor will almost certainly lead to an oversimplification." The consciousness debate — where the underlying laws, processes, and variables remain unknown — is precisely the kind of case where parsimony is least trustworthy.
 
@@ -168,6 +168,7 @@ The Map speculates that the standard parsimony argument persists not because of 
 7. Koksvik, O. (2006). In Defence of Interactionism. MA thesis, Monash University. New Dualism Archive.
 8. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551–563.
 9. Masi, M. (2023). When Occam's Razor Cuts Too Deep. *PhilArchive*.
-10. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141–156.
-11. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
-12. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+10. Sherrington, C. S. (1947). Foreword. In *The Integrative Action of the Nervous System* (reissue). Cambridge University Press, p. xx.
+11. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141–156.
+12. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
+13. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/

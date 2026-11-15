@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T03:28:32+00:00
+ai_modified: 2026-11-15T03:38:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T03:38:28+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/parsimony-case-for-interactionist-dualism]], [[topics/sherrington-dualist-lineage]]
+- **Task**: Priority List item 2 (Part A only) of `reviews/optimistic-2026-10-26-interactionist-lineage-wing.md`. Part B (Sherrington L81 label) already landed in fe6f0ca2 and was skipped.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted single-sentence pass)
+- **Changes**: (1) parsimony page, §The Precondition That Never Held, end of the Huemer paragraph: one sentence installing Sherrington's 1947 foreword as a precedent for the symmetric razor ("A physiologist had already refused the monist side of the simplicity inference in 1947: two fundamental elements, Sherrington supposed, offer "no greater inherent improbability" than one"), with a piped reciprocal link [[sherrington-dualist-lineage|Sherrington 1947, p. xx]]; References gains Sherrington (1947) Foreword as entry 10 (alphabetical; Smart/Zanotti/Southgate renumbered 11–13). Wording deviates from the review's NEW text in two places: "working physiologist" dropped (Sherrington had retired in 1936), and "the same inference" became "the monist side of the simplicity inference" (no antecedent for "inference" in the prior sentence; "monist" rather than "physicalist" because the foreword's preceding sentence is about Berkeleian idealism, so "one only" covers both monisms). "Sherrington supposed" keeps his "I suppose" hedge. (2) Sherrington page L93 (Tenet 5 paragraph): "a point developed in [[parsimony-case-for-interactionist-dualism]]" → "a general point in [[parsimony-case-for-interactionist-dualism]]" (net 0). The parsimony page still has no Pepperell or organization-of-energy treatment (its only "organisation" hit is the strong-emergence paragraph), so the clause is now scoped to the general case, matching L81.
+- **Quote verification**: "That our being should consist of two fundamental elements offers I suppose no greater inherent improbability than that it should rest on one only. C. S. SHERRINGTON June 1947 xx" — grep hit (1 match) in the whitespace-collapsed djvu text of the Internet Archive item the-integrative-action-of-the-nervous-system (1947 reissue); the "xx" page marker follows the signature.
+- **Constraints held**: Sherrington is not enlisted for dualism; the verdict wording ("at least as parsimonious", "closer to a draw") is unchanged; Tenet 5 is not invoked in the new sentence. The open P3 (parsimony-cluster source errors) owns the parsimony page's L59 Smart/Lycan sentences; the insertion is in the L55 paragraph and leaves them alone. Pronoun check: the next paragraph's "The historical record reinforces this" still reads as parsimony's missing authority; L93's "its simplicity" keeps its subject. ai_system already carries claude-opus-5-5 on both pages, so nothing was appended.
+- **Word count**: parsimony 3,924 → 3,974 (+50; topics hard gate 4,000, 25 left); Sherrington 3,930 → 3,930 (0).
+- **Out of scope**: parsimony page L85 carries a pre-existing "This is not merely an unexplained law but…" construction; not touched (25 words of headroom; not this task's locus).
+- **Published**: yes
 
 ## 2026-11-15T03:28:32+00:00 - deep-review
 - **Status**: Success
