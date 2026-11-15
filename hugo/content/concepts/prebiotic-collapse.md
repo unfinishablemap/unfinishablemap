@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-01 00:41:15+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-15 17:33:29+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/collapse-before-minds/
@@ -22,14 +22,14 @@ concepts:
 - '[[combination-problem]]'
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-01-16
-date: &id001 2026-02-05
+date: &id001 2026-11-15
 description: How quantum wave functions collapsed before conscious observers existed.
   Objective reduction provides baseline collapse; consciousness preempts outcomes.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 03:09:01+00:00
-lastmod: 2026-11-01 00:41:15+00:00
+lastmod: 2026-11-15 17:33:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,17 +136,17 @@ The cost stands. A selection constrained to leave no ensemble signature is, on t
 
 ### The Decoherence Challenge
 
-A serious objection arises: if [decoherence](/concepts/decoherence/) destroys quantum coherence in femtoseconds in warm biological systems (per Tegmark's 2000 calculation), how can consciousness modulate collapse at neural sites?
+If [decoherence](/concepts/decoherence/) destroys coherence in femtoseconds in warm tissue (Tegmark 2000), how can consciousness modulate collapse at neural sites?
 
-Three responses:
+Responses:
 
-1. **Revised timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. When corrected for microtubule interior conditions, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer.
+1. **Revised timescales**: Hagan et al. (2002) charged that Tegmark assumed thermal-equilibrium conditions, arguing microtubule-interior conditions extend coherence there to 10⁻⁵–10⁻⁴ seconds, though this remains debated.
 
 2. **The Zeno sidestep**: Stapp's quantum Zeno mechanism doesn't require sustained coherence *between* observations. Rapid mental "observations" maintain states through repeated measurement, operating faster than decoherence can act.
 
-3. **Quantum biology precedents**: Avian magnetoreception maintains spin coherence for microseconds in warm biological tissue—proof that evolution can optimise systems to exploit quantum effects despite thermal noise, and a precedent for what neural systems might do.
+3. **Quantum biology precedents**: Avian magnetoreception maintains spin coherence for microseconds in warm tissue—proof that evolution can exploit quantum effects, and a precedent for what neural systems might do.
 
-The decoherence challenge constrains but doesn't eliminate the modulation hypothesis.
+The challenge constrains but doesn't eliminate the modulation hypothesis.
 
 ## Relation to Site Perspective
 
@@ -228,6 +228,7 @@ Objective collapse theories face empirical pressure but remain viable:
 1. Danielson, D.L., Satishchandran, G., & Wald, R.M. (2022). "Black holes decohere quantum superpositions." *International Journal of Modern Physics D*, 31(14), 2241003. https://doi.org/10.1142/S0218271822410036 — and (2023), "Killing horizons decohere quantum superpositions," *Physical Review D*, 108, 025007. https://doi.org/10.1103/PhysRevD.108.025007 — and (2025), "Local description of decoherence of quantum superpositions by black holes and other bodies," *Physical Review D*, 111, 025014. https://doi.org/10.1103/PhysRevD.111.025014 Challenged by Fahn, M.J. & Pesci, A. (2025), "Effects of quantum geometry on the decoherence induced by black holes," *Physical Review D*, 112, L121502. https://doi.org/10.1103/279x-zgl1
 1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78. (Online 2020; print 2021.)
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
+1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 1. Stanford Encyclopedia of Philosophy. "Collapse Theories." https://plato.stanford.edu/entries/qm-collapse/

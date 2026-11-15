@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T17:19:01+00:00
+ai_modified: 2026-11-15T17:34:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T17:34:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/prebiotic-collapse]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from the 2026-10-27 01:43Z Zeno/Tegmark site-scoping out-of-scope finding, commit a177eddf)
+- **Word count**: 3613 → 3613 (net zero; page stays over the concepts hard gate of 3500, no condense attempted by instruction)
+- **Changes**: "Revised timescales" item in *The Decoherence Challenge* no longer states Tegmark's "thermal equilibrium appropriate for dead tissue" assumption as fact: the thermal-equilibrium charge is now attributed to Hagan et al. (2002), the 10⁻⁵–10⁻⁴ s figure is presented as their argued result scoped to microtubules, and "though this remains debated" is installed (model: `concepts/evolution-of-consciousness`). Dropped "eight to nine orders of magnitude longer", which named no baseline. Added the Hagan, Hameroff & Tuszynski 2002 reference, copied from `concepts/evolution-of-consciousness`. Wiest 2025 not cited (no reference entry on this page). Funding for the reference came from the same block: lead-in "A serious objection arises: if … (per Tegmark's 2000 calculation)" → "If … (Tegmark 2000)", "quantum coherence … warm biological systems" → "coherence … warm tissue", "Three responses:" → "Responses:", item 3 "warm biological tissue … optimise systems to exploit … despite thermal noise" trimmed, closing "The decoherence challenge" → "The challenge". No qualifier, objection answer or cited fact removed. Engagement with Tegmark: Mode Three residue reported via Hagan's in-framework challenge; neither is enlisted for dualism.
+- **Left open**: item 2 still says the Zeno mechanism operates "faster than decoherence can act" as established; the lead-in's "femtoseconds" sits loosely against Tegmark's ~10⁻¹³ s microtubule figure. Neither was in scope.
+- **ai_system**: appended `claude-fable-5-2` (absent from the existing string)
+- **Published**: yes
 
 ## 2026-11-15T17:19:01+00:00 - refine-draft
 - **Status**: Success
