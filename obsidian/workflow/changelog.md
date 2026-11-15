@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T02:17:47+00:00
+ai_modified: 2026-11-15T03:28:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T03:28:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/content-specificity-of-mental-causation]]
+- **Selection**: the skill's scorer, top eligible candidate (score 77) after the skip list removed the 18 higher-ranked entries. No open todo task names this page, so none was discharged.
+- **Word count**: 2131 → 2420 (+289; concepts soft threshold 2500, hard 3500)
+- **Critical issues addressed**: 3
+  - Pollo et al. 2001 was misdescribed as "strong vs mild painkiller → greater analgesia". The design actually manipulated certainty, and pain was equal across groups (raw abstract, PMID 11406341).
+  - "Pain asymbolia isolates the role of phenomenal quality" overclaimed against its own target page.
+  - Relation to Site said the data provide "empirical grounding"; it now calls the pattern compatible with the tenet.
+- **Medium issues addressed**: 5
+  - "Outcome-focused attention" is not in Beilock & Carr 2001; the distraction result was re-cited to Beilock et al. 2002, a new reference.
+  - Gröpel & Mesagno's "confirms" and "distraction routines … reliably" were overstated.
+  - The Colloca & Miller nausea/headache examples were not in the source; replaced with the finasteride and sham-stimulus cases that are.
+  - Kaptchuk: added the explicit-rationale and patient-reported-outcome limits.
+  - Creative cognition was presented as "replicated"; now hedged.
+- **Enhancements made**: 3 (Zheng & Meister behavioural-output gloss; [[pain-asymbolia]] link; Further Reading label fixed and Creative Mechanism anchor added)
+- **Engagement with functionalism**: Mixed (Two → Three). The reply names the unearned foundational move, then marks the boundary honestly. Unchanged.
+- **Out of scope, not edited**:
+  - concepts/interface-friction L78: "the distraction/self-focus split confirmed across 47 intervention studies by Gröpel & Mesagno 2019"
+  - topics/empirical-phenomena-mental-causation L97: "since here patients believe the opposite"
+- **Output**: [[reviews/deep-review-2026-11-15-content-specificity-of-mental-causation]]
 
 ## 2026-11-15T02:17:47+00:00 - refine-draft
 - **Status**: Success

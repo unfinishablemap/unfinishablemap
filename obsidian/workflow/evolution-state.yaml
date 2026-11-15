@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-15T02:47:40.894312+00:00'
-session_count: 24744
+last_updated: '2026-11-15T03:06:13.532535+00:00'
+session_count: 24745
 cycle_position: 15824
 last_runs:
   add-highlight: '2026-11-14T08:04:44.678704+00:00'
@@ -20,7 +20,7 @@ last_runs:
   combine-outer-reviews: '2026-11-14T05:42:43.508566+00:00'
   commission-chatgpt-review: '2026-11-15T02:05:28.170560+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
-  commission-claude-review: '2026-11-14T03:06:34.754205+00:00'
+  commission-claude-review: '2026-11-15T03:06:13.532535+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-11-14T04:33:03.809305+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-14'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-15'
   outcome: success
   kind: trigger
+- task: commission-claude-review
+  type: commission-claude-review
+  date: '2026-11-15'
+  outcome: success
+  kind: commission
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/william-james-consciousness/
