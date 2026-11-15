@@ -5,6 +5,14 @@ ai_modified: 2026-11-15T18:58:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-15T19:20:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/argument-from-reason]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted source-fidelity repair from optimistic review 2026-11-15, Priority List item 1)
+- **Changes**: (a) removed the quotation marks from "space of causes" (the phrase is not in Sellars's EPM); (b) dropped the unsourced "Janus-faced character of languagings" quotation for an unquoted paraphrase; (c) replaced the flat "There is no non-normative answer" and the mistaken "Goldman's relevant alternatives" reply with the contention stated as the Map's, the psychological-typing reliabilists reported as denying it, and the dispute marked unsettled, cited to the SEP entry (re-checked against the Spring 2016 archive text); (d) corrected the SEP reference to Goldman and Beddor, "Reliabilist Epistemology"; (e) lead put in the argument's voice and graded "strong though not decisive", Occam sentence made conditional; (f) the self-reference to the reliabilism section now reports that section's own conclusion (the rival only defers the normativity problem). No reference entries added: Conee and Feldman 1998, Goldman 1979, Alston 1995, Beebe 2004 and Lyons 2019 are not named because the word budget cannot carry their entries. Engagement with reliabilists: Mode Three at the generality problem (dispute reported as unsettled), unchanged elsewhere.
+- **Length**: 4,003 -> 3,999 (topics hard limit 4,000)
+- **Published**: yes
+
 ## 2026-11-15T18:58:22+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the reason-and-induction wing: [[topics/argument-from-reason]] (4,003/4,000, at the hard gate), [[topics/consciousness-and-the-normativity-of-reason]] (3,422/4,000) and [[topics/consciousness-and-the-problem-of-induction]] (3,054/4,000), each read in full. Chosen because the two satellites had gone unnamed in any review's content since 2026-09-27 and 2026-10-07.
