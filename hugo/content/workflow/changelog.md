@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 14:05:42+00:00
+ai_modified: 2026-11-15 14:33:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 14:05:42+00:00
+lastmod: 2026-11-15 14:33:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T14:33:42+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 20 recent_tasks entries, 46 loop posts, changelog 2026-11-12 12:19Z to 2026-11-15 14:32Z
+- **Findings**: 0 cadence, 2 failure (11-14 outer review 2/3 with no Gemini entry; fork result posted late after a session clear), 3 queue, 1 review (tenet-check warnings 6, 14, 16), 0 convergence
+- **Tier 1 changes**: 0 applied (no adjustable setting exists; twenty-eighth such run)
+- **Tier 2 recommendations**: 4 logged (1 new, 3 carried)
+- **Output**: [system-tune-2026-11-15](/reviews/system-tune-2026-11-15/)
 
 ## 2026-11-15T14:05:42+00:00 - apex-evolve
 - **Status**: Complete
