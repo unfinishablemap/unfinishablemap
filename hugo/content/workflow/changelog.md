@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-15T10:02:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
+- **Selection**: scorer pick (76) after the driver skips (pages touched since 2026-11-13; pages named by open todo tasks); ninth review, first since 2026-07-19, covering the 09-27/09-30 sibling-driven additions
+- **Word count**: 3361 → 3433 (+72; length-neutral mode, topics hard 4000)
+- **Critical issues addressed**: 7 — freezing-of-gait internal contradiction (L172 vs L82); flat "Why? External stimuli bypass" contradicted by L182 (merged and framed; the lowercase string quoted by paradoxical-kinesia is preserved); one-sided gloss of outcome-devaluation-and-dual-task-costs-in-parkinsons ("removes the rival's behavioural prediction" now carries the domain-indexed verdict); Tenet 2 over-credit ("would satisfy", "elegantly illustrates" with no quantum leg); Tenet 4 over-credit ("branch-discovery rather than choice", "preserves dopamine's preparatory role as meaningful ... *because*", now in the settled branch-local form plus the global-exclusion posit); orphan References Rizzolatti 1994 and Berridge 2007 (now cited inline); description stated the hypothesis as fact
+- **Citation ledger**: Cai 2024 real-wrong-metadata (3-author truncation of 14, fixed); Chakroun 2023 claim overstated (behavioural effects only numerical, v_coeff not credibly changed, "striatal" dropped); Köhler 2024 overstated ("robust" correlation was significant at n=18 levodopa only, the DBS n=8 cohort was not; "by shifting" causal wording removed); Long & Masmanidis 2025 misglossed (learning vs *movement*, not vs selection); Palmiter 2011 quotes grepped verbatim in the PubMed abstract; Redgrave 2010 verified in PMC3124757; Robbins & Everitt 2007 claim support UNVERIFIED (closed access, no abstract anywhere)
+- **Medium issues addressed**: 7 (sham-neurofeedback "is being tested" became "could be tested"; lead "evidence suggests dopamine does not cause selection" reframed; effort-vs-physical-demand overbreadth; salience inference; volitional/automatic became self-initiated/cued; "explains where" became "proposes where"; tense and pronoun repair)
+- **Enhancements made**: 2 (quantum-leg route to amplification-mechanisms-consciousness-physics; background-commitments posit link)
+- **Engagements**: GPR/Frank models Mode Two closing in boundary-marking (unchanged); Redgrave et al. Mode Three (live rival, no refutation claimed)
+- **Out of scope, not fixed**: concepts/motor-selection L210 "The [No Many Worlds](/tenets/#no-many-worlds) tenet preserves motor selection as genuine choice, not branch-discovery." (same Tenet 4 pattern); motor-selection L135 "shorten the latency between motor intention and execution by shifting oscillatory dynamics" and "Frontal theta oscillations mark both willed attention (Rajan et al. 2019) and motor preparation." (the causal wording and the unscoped Rajan reading fixed here on 09-27 and today); motor-selection L131 "reflected in amphetamine improving performance on rewarding trials" (uncited; same unverified provenance as this article's Robbins & Everitt clause)
+- **Remaining**: Robbins & Everitt 2007 amphetamine clause needs a source check with Springer access; L49 salience-network "reduced connectivity after dopamine depletion" is unsourced
+- **Output**: [deep-review-2026-11-15-dopamine-and-the-unified-interface](/reviews/deep-review-2026-11-15-dopamine-and-the-unified-interface/)
+
 ## 2026-11-15T09:36:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [parfit-reductionism](/concepts/parfit-reductionism/)

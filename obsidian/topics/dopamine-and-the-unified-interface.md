@@ -1,10 +1,10 @@
 ---
 title: "Dopamine and the Unified Interface"
-description: "Dopamine serves both attention and motor systems because these systems are one. What this reveals about consciousness, selection, and free will."
+description: "Why does dopamine serve both attention and movement? The Map proposes they are one selection system that dopamine prepares, and weighs that reading against neural rivals."
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-09-30T18:12:18+00:00
+ai_modified: 2026-11-15T10:00:35+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -20,15 +20,15 @@ related_articles:
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-02-04
 last_curated: null
-last_deep_review: 2026-07-19T21:07:43+00:00
+last_deep_review: 2026-11-15T10:00:35+00:00
 ---
 
 Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
 
-The [[attention-as-interface]] is where consciousness may select among possibilities, with dopamine setting the conditions for that selection. This article examines what dopamine research reveals about the unified interface hypothesis. The evidence suggests that dopamine does not cause selection but rather prepares the system for selection to occur—marking what matters, setting thresholds, and creating the neural conditions in which conscious choice could operate.
+The [[attention-as-interface]] is where consciousness may select among possibilities, with dopamine setting the conditions for that selection. On the Map's reading, the evidence fits a picture in which dopamine prepares the system for selection rather than performing it—marking what matters, setting thresholds, and creating the neural conditions in which conscious choice could operate.
 
 ## The Salience Bridge
 
@@ -39,27 +39,27 @@ Dopamine mediates *salience*—the process by which stimuli or internal states g
 This is the salience bridge at work. Dopamine converts neutral stimuli into entities that pull for attention and action:
 
 1. **Perceptual salience**: Something becomes noticeable, worth attending to
-2. **Motivational salience**: The noticed thing becomes worth pursuing
+2. **Motivational salience**: The noticed thing becomes worth pursuing (incentive salience; Berridge 2007)
 3. **Motor salience**: Pursuit translates into movement preparation
 
-If attention and motor planning share neural substrates (the [[motor-selection|premotor theory of attention]]), these are not three separate salience systems but one system viewed from different angles. Dopamine serves all three because there is only one.
+If attention and motor planning share neural substrates (the [[motor-selection|premotor theory of attention]]; Rizzolatti et al. 1994), these are not three separate salience systems but one system viewed from different angles. Dopamine serves all three because there is only one.
 
 ### Evidence from Salience Network Connectivity
 
-The salience network—anterior cingulate, ventral anterior insula, amygdala, ventral striatum—shows reduced connectivity after dopamine depletion. This network sits at the intersection of attention, emotion, and action. Its dopamine-dependence supports the unified interface: the same neuromodulator affects the same network because attention, motivation, and motor initiation are integrated functions.
+The salience network—anterior cingulate, ventral anterior insula, amygdala, ventral striatum—shows reduced connectivity after dopamine depletion. This network sits at the intersection of attention, emotion, and action. Its dopamine-dependence fits the unified interface: on that view the same neuromodulator affects the same network because attention, motivation, and motor initiation are integrated functions.
 
 ## Threshold Modulation: Where Selection Occurs
 
 ### The Threshold Model
 
-A 2023 *Nature Communications* study found that striatal dopamine regulates decision thresholds during action selection. In drift-diffusion models, evidence for competing options accumulates until one crosses threshold. Dopamine modulates how much evidence is required—not which option wins.
+A 2023 *Nature Communications* study found that dopamine regulates decision thresholds during action selection. In drift-diffusion models, evidence for competing options accumulates until one crosses threshold. Dopamine modulates how much evidence is required—not which option wins.
 
 This dissociation is critical for understanding the interface:
 
 - **Dopamine sets threshold height**: Lower dopamine → higher threshold → harder to initiate
 - **The selection question remains**: What determines which of the competing options crosses threshold?
 
-In the drift-diffusion models fit to these data, threshold and value are separate parameters: the threshold sets how much evidence any option needs, while value enters through the *drift rate*—how fast evidence for a given option accumulates. Consistent with this separation, Chakroun et al. (2023) found that raising dopamine with L-DOPA lowered the decision threshold roughly uniformly, producing faster but *less* accurate responses rather than selectively favoring high-value options. What biases the race toward rewarded options is the learned-value signal carried by the drift rate—the same marking reflected in amphetamine preferentially speeding responses to previously rewarded options (Robbins & Everitt 2007). So dopamine sets the threshold and, through learned value, marks which options accumulate fastest—yet when two options are closely matched, the mechanism by which one finally wins is left to noise in these models. The Map proposes that this residual selection may be where consciousness operates.
+In the drift-diffusion models fit to these data, threshold and value are separate parameters: the threshold sets how much evidence any option needs, while value enters through the *drift rate*—how fast evidence for a given option accumulates. Consistent with this separation, Chakroun et al. (2023) found that L-DOPA lowered the decision threshold without credibly changing how strongly value drives the drift rate; responses trended faster and *less* accurate rather than selectively favoring high-value options. What biases the race toward rewarded options is the learned-value signal carried by the drift rate—the same marking reflected in amphetamine preferentially speeding responses to previously rewarded options (Robbins & Everitt 2007). So dopamine sets the threshold and, through learned value, marks which options accumulate fastest—yet when two options are closely matched, the mechanism by which one finally wins is left to noise in these models. The Map proposes that this residual selection may be where consciousness operates.
 
 ### A Proposed Three-Layer Architecture
 
@@ -71,7 +71,7 @@ The Map proposes a layered architecture to interpret these findings:
 | Threshold modulation | Determine what level of evidence triggers action | Primary |
 | Selection | Determine which option actualizes | None (operates on dopamine-prepared options) |
 
-On this model, consciousness operates at the third layer—selecting among options that dopamine has made selectable. This would satisfy [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness doesn't generate options or set thresholds; it only biases which threshold-ready option wins.
+On this model, consciousness operates at the third layer—selecting among options that dopamine has made selectable. This fits the narrow role [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] asks for: consciousness doesn't generate options or set thresholds; it only biases which threshold-ready option wins.
 
 ### What Computational Models Leave Unexplained
 
@@ -79,11 +79,11 @@ The obvious objection is that the "selection layer" is simply further neural com
 
 These models handle routine, well-learned action selection convincingly. Three empirical patterns are harder for them, though none is decisive:
 
-**The self-initiated/externally cued asymmetry.** Parkinson's patients struggle most to initiate self-generated movement, while reflexes and externally cued action are comparatively spared. On the Map's reading, dopamine depletion disables deliberate choice while leaving cue-triggered selection intact, which models that treat all selection uniformly do not predict. That reading is contested. Redgrave et al. (2010) argue that the dopamine loss falls predominantly on the posterior putamen, the territory associated with *habitual* control, so patients lose normal automatic control and are forced onto a comparatively preserved goal-directed mode. Freezing of gait, a breakdown of highly automatic behaviour, fits their account better than a willed-only deficit. Their segregated goal-directed and habitual territories also give dopamine loss a principled, anatomically specific profile inside a neural framework. Both readings accept the asymmetry between self-initiated and cued action; they dispute whether the impaired side is willed choice or habit. The pattern therefore poses a question the Map's reading must answer against a live rival rather than supplying a datum competitive dynamics cannot handle. The outcome-devaluation literature, surveyed in [[outcome-devaluation-and-dual-task-costs-in-parkinsons]], finds goal-directed rather than habitual control impaired in instrumental learning, which removes the rival's behavioural prediction without settling the self-initiated case.
+**The self-initiated/externally cued asymmetry.** Parkinson's patients struggle most to initiate self-generated movement, while reflexes and externally cued action are comparatively spared. On the Map's reading, dopamine depletion disables deliberate choice while leaving cue-triggered selection intact, which models that treat all selection uniformly do not predict. That reading is contested. Redgrave et al. (2010) argue that the dopamine loss falls predominantly on the posterior putamen, the territory associated with *habitual* control, so patients lose normal automatic control and are forced onto a comparatively preserved goal-directed mode. Freezing of gait, a breakdown of highly automatic behaviour, fits their account better than a willed-only deficit. Their segregated goal-directed and habitual territories also give dopamine loss a principled, anatomically specific profile inside a neural framework. Both readings accept the asymmetry; they dispute whether the impaired side is willed choice or habit, so the pattern poses a question the Map's reading must answer against a live rival rather than supplying a datum competitive dynamics cannot handle. The outcome-devaluation literature, surveyed in [[outcome-devaluation-and-dual-task-costs-in-parkinsons]], finds goal-directed rather than habitual control impaired in brief-training instrumental tasks, while in motor performance patients do lose automaticity and freezing leans habitual; the verdict is domain-indexed and leaves the self-initiated case unsettled.
 
-**Deliberate override of learned associations.** Humans can choose against strongly rewarded options—selecting the less-practiced, lower-value action when context demands it. Frank's 2006 model introduced the subthalamic nucleus as a "hold your horses" signal that delays action when conflict is high. But delaying is not the same as selecting: the STN raises the threshold globally, buying time for striatal dynamics to settle, yet what determines which option ultimately wins when two are closely matched remains noise in these models. The Map proposes that what the models attribute to noise is the locus of conscious selection.
+**Deliberate override of learned associations.** Humans can choose against strongly rewarded options—selecting the less-practiced, lower-value action when context demands it. Frank's 2006 model introduced the subthalamic nucleus as a "hold your horses" signal that delays action when conflict is high. But delaying is not the same as selecting: the STN raises the threshold globally, buying time for striatal dynamics to settle, yet what determines which option ultimately wins when two are closely matched remains noise in these models, the residual the Map proposes as the locus of conscious selection.
 
-**Effort tracks selection difficulty, not motor difficulty.** The phenomenology of effort correlates with the number and similarity of competing options, not with the physical demands of the selected action. Choosing between two equally rewarded options feels harder than executing a physically demanding but obvious movement. Computational models predict processing time and error rates for difficult selections but have no mechanism to generate or explain this graded phenomenal effort—the felt experience of deliberation that scales with competition among options.
+**Effort tracks selection difficulty, not motor difficulty.** The phenomenology of deliberative effort tracks the number and similarity of competing options, which can come apart from the physical demands of the selected action. Choosing between two equally rewarded options feels harder than executing a physically demanding but obvious movement. Computational models predict processing time and error rates for difficult selections but have no mechanism to generate or explain this graded phenomenal effort—the felt experience of deliberation that scales with competition among options.
 
 ## Tonic and Phasic: Two Modes of Preparation
 
@@ -119,7 +119,7 @@ Sustaining attention feels effortful. Initiating willed movement feels effortful
 
 If attention and motor planning are separate systems, this parallel requires explanation. Why would two independent processes feel the same way?
 
-If attention and motor planning are one system, the parallel is expected. Effort is what conscious engagement with the selection mechanism feels like, whether that selection concerns what to perceive or what to do. Whether that engagement does causal work, rather than merely accompanying it, is a separate question; [[sham-controlled-neurofeedback-and-the-consciousness-comparator|sham-controlled neurofeedback]] is one place it is being tested.
+If attention and motor planning are one system, the parallel is expected. Effort is what conscious engagement with the selection mechanism feels like, whether that selection concerns what to perceive or what to do. Whether that engagement does causal work, rather than merely accompanying it, is a separate question; [[sham-controlled-neurofeedback-and-the-consciousness-comparator|sham-controlled neurofeedback]] is one place it could be tested.
 
 Dopamine's role clarifies this further. The "wanting" phenomenology—the felt pull toward valued options—correlates with dopamine but is experienced across both domains:
 
@@ -130,24 +130,24 @@ The same neurotransmitter mediates both because the same system generates both e
 
 ### The Learning Primacy Challenge
 
-A 2025 *Frontiers in Cellular Neuroscience* review proposes the "learning primacy hypothesis": dopamine's primary function is reinforcement learning that shapes circuit architecture over time, not real-time modulation of selection.
+A 2025 *Frontiers in Cellular Neuroscience* review proposes the "learning primacy hypothesis": dopamine's primary function is driving associative learning that shapes circuit architecture over time, with only a minor role in subsecond movement control.
 
-This challenges simple threshold models but remains compatible with the unified interface—indeed, it may strengthen the framework. If dopamine's primary role is shaping the circuits through which selection occurs rather than moment-to-moment threshold modulation, the selection mechanism becomes more clearly separable from dopamine function.
+This challenges simple threshold models but remains compatible with the unified interface. If dopamine's primary role is shaping the circuits through which selection occurs rather than moment-to-moment threshold modulation, the selection mechanism becomes more clearly separable from dopamine function.
 
-Consider the implications: dopamine-mediated learning determines which options exist, how they compete, and which have been marked as valuable through experience. The selection mechanism then operates on this learned landscape. Far from threatening the interface hypothesis, learning primacy clarifies the division of labor: dopamine builds and maintains the selection apparatus; something else—the Map proposes consciousness—performs the selection.
+On this view, dopamine-mediated learning determines which options exist, how they compete, and which have been marked as valuable through experience. The selection mechanism then operates on this learned landscape. Read this way, learning primacy sharpens the division of labor: dopamine builds and maintains the selection apparatus; something else—the Map proposes consciousness—performs the selection.
 
-The 2024 *Nature* study reinforces the division of labor: movement (selection execution) proceeds on baseline dopamine alone, while the reward-guided motivation that marks options as worth pursuing depends on fast dopamine dynamics. The capacity to execute a selection and the dopamine-dependent marking that guides it are dissociable.
+The 2024 *Nature* study fits the same division: executing a movement needs only baseline dopamine, while the reward-guided motivation that marks options depends on fast dopamine dynamics.
 
 ## Theta Oscillations: The Timing Substrate
 
 ### Dopamine Promotes Prokinetic Rhythms
 
-A 2024 *Brain* study found that both dopamine and deep brain stimulation shorten motor initiation latencies by shifting neural oscillations:
+A 2024 *Brain* study found that both dopamine and deep brain stimulation shorten motor initiation latencies and shift cortico-subthalamic oscillatory coupling:
 
 - **Antikinetic**: Beta rhythms (13-35 Hz) dominate when movement is suppressed
 - **Prokinetic**: Theta rhythms (4-10 Hz) dominate when movement is facilitated
 
-Both L-DOPA (dopamine restoration) and electrical stimulation produce the beta-to-theta shift. The correlation with movement latency is robust.
+Both L-DOPA (dopamine restoration) and electrical stimulation produce the beta-to-theta shift. Its correlation with shorter latency was significant on levodopa (n = 18) but not in the small stimulation cohort (n = 8).
 
 ### Theta as Selection Window
 
@@ -169,17 +169,15 @@ Parkinson's disease, with its progressive dopamine depletion, provides a window 
 
 **Bradykinesia**: Slow movement. Weakened salience marking; reduced drive.
 
-**Freezing of gait**: Mid-stride arrest, resolved by external cues. Internal selection mechanism fails; external triggers bypass it.
+**Freezing of gait**: Episodic inability to step, typically at gait initiation or turning, often eased by external cues. The Map reads internal selection as failing; the habitual reading, which freezing fits better ([[#What Computational Models Leave Unexplained|above]]), reads lost automaticity.
 
 **Relatively preserved reflexes and cued movement**: Reflexes and externally triggered movements are comparatively spared; self-initiated action is most impaired.
 
-The selectivity is telling, though its reading is contested. Parkinson's does not abolish movement; it most impairs self-initiated movement. On the Map's reading, the motor circuitry works and the selection interface that engages it is compromised. On the habitual-control reading (Redgrave et al. 2010, discussed [[#What Computational Models Leave Unexplained|above]]), automatic control is what fails and patients fall back on effortful goal-directed control. This asymmetry between volitional and automatic action is central to the broader case for [[volitional-control|volitional control as genuine causal influence]]. See [[consciousness-and-neurodegenerative-disease]] for what progressive dopamine loss reveals about the mind-brain relationship more broadly.
+The selectivity is telling, though its reading is contested. On the Map's reading, the motor circuitry works and the selection interface that engages it is compromised. On the habitual-control reading (Redgrave et al. 2010, discussed [[#What Computational Models Leave Unexplained|above]]), automatic control is what fails and patients fall back on effortful goal-directed control. This asymmetry between self-initiated and cued action is central to the broader case for [[volitional-control|volitional control as genuine causal influence]]. See [[consciousness-and-neurodegenerative-disease]] for what progressive dopamine loss reveals about the mind-brain relationship more broadly.
 
 ### External Cues as Bypass
 
-Parkinson's patients who freeze can step over a visual obstacle or follow a rhythmic cue. Why? External stimuli bypass the impaired selection mechanism.
-
-In the unified interface framework, external cues directly trigger motor representations without requiring conscious selection among competing options, circumventing the dopamine-dependent threshold mechanism. Movements that are triggered rather than chosen would then escape the deficit while self-initiated ones do not. The habitual-control reading explains the same cue benefit differently: cues recruit the goal-directed route, which remains comparatively intact. Controlled studies of [[paradoxical-kinesia]] weaken the bypass story: in one study urgency sped healthy movement as much as parkinsonian movement, and in another an internal expectation can produce the effect without an external trigger.
+Parkinson's patients who freeze can often step over a visual obstacle or follow a rhythmic cue. On the willed-deficit reading, external stimuli bypass the impaired selection mechanism: cues trigger motor representations directly, without conscious selection among competing options or the dopamine-dependent threshold, so triggered movements escape the deficit while self-initiated ones do not. The habitual-control reading explains the same cue benefit differently: cues recruit the goal-directed route, which remains comparatively intact. Controlled studies of [[paradoxical-kinesia]] weaken the bypass story: in one study urgency sped healthy movement as much as parkinsonian movement, and in another an internal expectation produced the speed-up without an external trigger.
 
 ## Relation to Site Perspective
 
@@ -197,18 +195,18 @@ Palmiter (2011) describes dopamine-deficient mice as "clearly conscious from a g
 
 ### Minimal Quantum Interaction
 
-Dopamine research elegantly illustrates [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. Consciousness need not:
+Dopamine research fits the division of labor [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] asks for. Consciousness need not:
 
 - Generate motor force (neural computation does that)
 - Create motivational drive (dopamine does that)
 - Lower selection threshold (dopamine does that)
 - Mark options as salient (dopamine does that)
 
-Consciousness only needs to select among options that dopamine has already prepared. The intervention point is minimal: biasing which of several ready-to-fire options actualizes.
+Consciousness only needs to select among options that dopamine has already prepared. The intervention point is minimal: biasing which of several ready-to-fire options actualizes. The tenet also needs that bias to act on quantum indeterminacy, which the dopamine evidence does not address; [[amplification-mechanisms-consciousness-physics]] takes up whether neural noise can carry such a bias.
 
 ### No Many Worlds
 
-The selection framework requires genuine collapse. If all quantum branches actualize (many-worlds interpretation), dopamine marks options in every branch and "selection" becomes branch-discovery rather than choice. The [[tenets#^no-many-worlds|No Many Worlds]] tenet preserves dopamine's preparatory role as meaningful: dopamine marks what matters *because* only one outcome will become actual.
+The selection framework requires single-outcome actualization: if all quantum branches actualize (the many-worlds interpretation the [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects), the Map's outcome-selection mechanism has nothing to select. Branch-locally, dopamine still marks options and the agent still chooses among them, so dopamine's preparatory role survives. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [[tenets/background-commitments|posit]] rather than derives from the dopamine evidence.
 
 ### Occam's Razor Has Limits
 
@@ -216,9 +214,9 @@ The strongest parsimonious rival is non-reductive physicalism with mental causat
 
 ### An Honest Limitation
 
-This framework explains *where* consciousness might interact with the brain—at the selection point in the unified attention-motor interface. It does not explain *how* a non-physical consciousness biases physical outcomes. The mechanism by which selection occurs remains as mysterious as consciousness itself.
+This framework proposes *where* consciousness might interact with the brain—at the selection point in the unified attention-motor interface. It does not explain *how* a non-physical consciousness biases physical outcomes. The mechanism by which selection occurs remains as mysterious as consciousness itself.
 
-What dopamine research provides is a candidate locus and a constraint: whatever consciousness does, it operates on options that dopamine has marked and within thresholds that dopamine has set. The interface is located, even if not fully illuminated.
+What dopamine research provides is a candidate locus and a constraint: whatever consciousness does, it operates on options that dopamine has marked and within thresholds that dopamine has set. The interface has a candidate location, even if not illuminated.
 
 ## Further Reading
 
@@ -237,7 +235,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 
 ## References
 
-1. Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
+1. Cai, X., Liu, C., Tsutsui-Kimura, I., et al., & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
 
 2. Chakroun, K., Wiehler, A., Wagner, B., Mathar, D., Ganzer, F., van Eimeren, T., Sommer, T., & Peters, J. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5369. https://doi.org/10.1038/s41467-023-41130-y
 
