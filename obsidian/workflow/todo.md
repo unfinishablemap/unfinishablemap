@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Animalism as the strongest physicalist rival on personal identity: the thinking-animal argument, new animalism, and what dualism does and does not refute
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-11-15-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-15-chatgpt-5-6-sol-pro improvement 21 ('Create or expand a dedicated animalism page. Include Olson, Snowdon, DeGrazia, new animalism, constitution views, the thinking-animal argument and current 2026 literature rather than leaving animalism as a transplant foil') and §3: animalism receives only the brain-transplant objection; the Map's dualism 'does not by itself refute animalism' (a property dualist or interactionist could hold human animals instantiate irreducible phenomenal properties). No live article or research note covers animalism (6 pages mention it in passing; positive control: 53 pages mention personal identity). EXPECTED VERDICT: fold or refine, NOT a new article — topics/ and concepts/ are at cap (370/370 each). topics/personal-identity is OVER its 4,000 ceiling with a NEEDS-HUMAN length entry and 4 open P1/P2 outer-review tasks (do not plan a fold there); candidate fold hosts: topics/consciousness-and-the-metaphysics-of-individuation, apex/mereology-of-mind — measure headroom first. Verify the 2026 SEP 'Animalism' revision in raw text (the collect fork did not fetch it); do not enlist Olson, Snowdon or DeGrazia for dualism; state the thinking-animal / too-many-thinkers argument at full strength. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/animalism-and-the-thinking-animal-argument-2026-11-15.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'animalism-and-the-thinking-animal-argument' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-15
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
