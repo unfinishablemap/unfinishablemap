@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-15 17:33:29+00:00
+ai_modified: 2026-11-15 18:34:29+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 03:09:01+00:00
-lastmod: 2026-11-15 17:33:29+00:00
+lastmod: 2026-11-15 18:34:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,15 +136,15 @@ The cost stands. A selection constrained to leave no ensemble signature is, on t
 
 ### The Decoherence Challenge
 
-If [decoherence](/concepts/decoherence/) destroys coherence in femtoseconds in warm tissue (Tegmark 2000), how can consciousness modulate collapse at neural sites?
+If [decoherence](/concepts/decoherence/) destroys warm-tissue coherence within 10⁻²⁰ to 10⁻¹³ seconds (Tegmark 2000), how can consciousness modulate collapse at neural sites?
 
 Responses:
 
 1. **Revised timescales**: Hagan et al. (2002) charged that Tegmark assumed thermal-equilibrium conditions, arguing microtubule-interior conditions extend coherence there to 10⁻⁵–10⁻⁴ seconds, though this remains debated.
 
-2. **The Zeno sidestep**: Stapp's quantum Zeno mechanism doesn't require sustained coherence *between* observations. Rapid mental "observations" maintain states through repeated measurement, operating faster than decoherence can act.
+2. **The Zeno sidestep**: Stapp holds that his quantum Zeno mechanism needs no sustained coherence *between* observations and need not outpace decoherence—a [contested](/concepts/process-1-specification-problem/) claim about a model that is not the Map's mechanism.
 
-3. **Quantum biology precedents**: Avian magnetoreception maintains spin coherence for microseconds in warm tissue—proof that evolution can exploit quantum effects, and a precedent for what neural systems might do.
+3. **Quantum biology precedents**: Avian magnetoreception's compass models need few-microsecond spin coherence in warm tissue—a precedent, not a licence for the neural case.
 
 The challenge constrains but doesn't eliminate the modulation hypothesis.
 

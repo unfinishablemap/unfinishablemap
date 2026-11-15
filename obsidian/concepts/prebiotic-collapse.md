@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-11-15T17:33:29+00:00
+ai_modified: 2026-11-15T18:34:29+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -133,15 +133,15 @@ The cost stands. A selection constrained to leave no ensemble signature is, on t
 
 ### The Decoherence Challenge
 
-If [[decoherence]] destroys coherence in femtoseconds in warm tissue (Tegmark 2000), how can consciousness modulate collapse at neural sites?
+If [[decoherence]] destroys warm-tissue coherence within 10⁻²⁰ to 10⁻¹³ seconds (Tegmark 2000), how can consciousness modulate collapse at neural sites?
 
 Responses:
 
 1. **Revised timescales**: Hagan et al. (2002) charged that Tegmark assumed thermal-equilibrium conditions, arguing microtubule-interior conditions extend coherence there to 10⁻⁵–10⁻⁴ seconds, though this remains debated.
 
-2. **The Zeno sidestep**: Stapp's quantum Zeno mechanism doesn't require sustained coherence *between* observations. Rapid mental "observations" maintain states through repeated measurement, operating faster than decoherence can act.
+2. **The Zeno sidestep**: Stapp holds that his quantum Zeno mechanism needs no sustained coherence *between* observations and need not outpace decoherence—a [[process-1-specification-problem|contested]] claim about a model that is not the Map's mechanism.
 
-3. **Quantum biology precedents**: Avian magnetoreception maintains spin coherence for microseconds in warm tissue—proof that evolution can exploit quantum effects, and a precedent for what neural systems might do.
+3. **Quantum biology precedents**: Avian magnetoreception's compass models need few-microsecond spin coherence in warm tissue—a precedent, not a licence for the neural case.
 
 The challenge constrains but doesn't eliminate the modulation hypothesis.
 

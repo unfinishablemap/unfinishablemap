@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 18:19:41+00:00
+ai_modified: 2026-11-15 18:34:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 18:19:41+00:00
+lastmod: 2026-11-15 18:34:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T18:34:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration fix in the decoherence-responses block)
+- **Changes**: Three residues in "The Decoherence Challenge". (a) Zeno sidestep: the unattributed "operating faster than decoherence can act" replaced by Stapp's own claim (no sustained coherence between observations; need not outpace decoherence), marked contested with a piped link to the Process 1 specification problem, and his model marked as not the Map's mechanism; wording follows the 2026-10-27 site-scoping pass on `topics/motor-control-quantum-zeno` and `concepts/quantum-zeno-effect`. (b) Magnetoreception: "proof that evolution can exploit quantum effects, and a precedent for what neural systems might do" → compass models "need few-microsecond spin coherence ... a precedent, not a licence for the neural case", matching `concepts/evolution-of-consciousness`. (c) Lead-in: "in femtoseconds" → "within 10⁻²⁰ to 10⁻¹³ seconds", the range form used on `topics/consciousness-and-integrated-information`. Item 1 and the Tomaz et al. passage untouched.
+- **Word count**: 3613 → 3613 (net zero; lead-in +1, item 2 +5, item 3 −6; page remains over the concepts hard gate of 3500, not a condense)
+- **Not done**: the lead-in does not label which end of Tegmark's range is neuron firing and which microtubules (about +3 words, unfunded); item 1's "there" carries the microtubule-only scope of Hagan's revision.
+- **Engagement classification**: Stapp: Mode Three (his claim reported as his and as contested; no refutation claimed and no enlistment for the Map's mechanism)
+- **Published**: yes
 
 ## 2026-11-15T18:19:41+00:00 - refine-draft
 - **Status**: Success

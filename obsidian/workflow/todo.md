@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `concepts/prebiotic-collapse` decoherence-responses list still states the Zeno sidestep as established ("faster than decoherence can act"), calls magnetoreception "proof", and gives "femtoseconds" without Tegmark's two separate figures (refine-draft 2026-11-15 spillover)
-- **Type**: refine-draft
-- **File**: obsidian/concepts/prebiotic-collapse.md
-- **Status**: pending
-- **Source**: refine-draft 2026-11-15 17:33Z (Hagan attribution fix on item 1 of the same list), out-of-scope findings reported by the fork
-- **Generated**: 2026-11-15
-- **Headroom**: NONE. 3,613 by analyze_length against concepts hard 3,500 (gate fires at >=); the page is 113 over, so every edit must be net-zero or negative, funded inside the same block. This task is not a condense.
-- **Notes**: Three residues in the decoherence-responses block, located by quoted text (confirm each count is 1). (a) Item 2, the Zeno sidestep, says the mechanism operates "faster than decoherence can act" as fact; attribute it to Stapp and scope it the way the 2026-10-27 Zeno site-scoping pass did on its nine hosts (commit a177eddf; read one of those hosts for the installed wording, and note Stapp's own model is not the Map's mechanism). (b) Item 3 calls avian magnetoreception "proof that evolution can exploit quantum effects"; the model page `concepts/evolution-of-consciousness` words this as a precedent, not a licence - match it. (c) The lead-in says decoherence destroys coherence "in femtoseconds" citing Tegmark 2000; Tegmark gives about 1e-13 s for microtubules and about 1e-20 s for neuron firing, and Hagan et al. 2002 (now reference-listed here) revised only the microtubule figure - say so if it fits at net zero, else leave and report. Item 1 was fixed on 2026-11-15; do NOT redo it. Do not touch the Tomaz et al. 2025 passage (separate open task). Do not enlist Tegmark, Hagan or Stapp for dualism; never concede epiphenomenalism. Pronoun check; no "This is not X. It is Y."; no "load-bearing". ai_modified and modified from `date -u`; ai_system = the model you actually run as, only if absent; changelog before sync; sync and confirm hugo/content.
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -5785,6 +5776,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-15: `concepts/prebiotic-collapse` decoherence-responses list still states the Zeno sidestep as established ("faster than decoherence can act"), calls magnetoreception "proof", and gives "femtoseconds" without Tegmark's two separate figures (refine-draft 2026-11-15 spillover)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/prebiotic-collapse.md
+- **Notes**: Three residues in the decoherence-responses block, located by quoted text (confirm each count is 1). (a) Item 2, the Zeno sidestep, says the mechanism operates "faster than decoherence can act" as fact; attribute it to Stapp and scope it the way the 2026-10-27 Zeno site-scoping pass did on its nine hosts (commit a177eddf; read one of those hosts for the installed wording, and note Stapp's own model is not the Map's mechanism). (b) Item 3 calls avian magnetoreception "proof that evolution can exploit quantum effects"; the model page `concepts/evolution-of-consciousness` words this as a precedent, not a licence - match it. (c) The lead-in says decoherence destroys coherence "in femtoseconds" citing Tegmark 2000; Tegmark gives about 1e-13 s for microtubules and about 1e-20 s for neuron firing, and Hagan et al. 2002 (now reference-listed here) revised only the microtubule figure - say so if it fits at net zero, else leave and report. Item 1 was fixed on 2026-11-15; do NOT redo it. Do not touch the Tomaz et al. 2025 passage (separate open task). Do not enlist Tegmark, Hagan or Stapp for dualism; never concede epiphenomenalism. Pronoun check; no "This is not X. It is Y."; no "load-bearing". ai_modified and modified from `date -u`; ai_system = the model you actually run as, only if absent; changelog before sync; sync and confirm hugo/content.
 
 ### ✓ 2026-11-15: `voids/agency-void` L124 and `voids/source-attribution-void` L95 overstate Wegner & Wheatley 1999 (I-Spy): the study manipulated priority only and found a timing-dependent rise in rated intention, not "authorship regardless of whether we caused the act" under all three arranged criteria. TWO FILES
 - **Type**: refine-draft
