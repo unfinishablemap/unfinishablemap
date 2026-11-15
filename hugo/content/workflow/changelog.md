@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 21:03:59+00:00
+ai_modified: 2026-11-15 21:17:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 21:03:59+00:00
+lastmod: 2026-11-15 21:17:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T21:17:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [reasons-responsiveness](/concepts/reasons-responsiveness/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) (TWO FILES)
+- **Source**: optimistic review 2026-11-15 (reason-and-induction wing), Priority List item 5
+- **Original score**: n/a (`scripts/curate.py` is absent; two one-phrase substitutions made by the driver inline, no fork)
+- **Change**: removed the quotation marks from "space of causes" on both pages. The phrase is not in "Empiricism and the Philosophy of Mind" (the review grepped the full text: "space of reasons" once, section 36; "space of causes" zero). "Space of reasons" and the section 36 quotation stay quoted. Wording now matches `topics/argument-from-reason` and `topics/consciousness-and-the-normativity-of-reason` as repaired today. No McDowell quotation added (his wording was not verified).
+- **Word count**: unchanged on both pages (2,541 and 3,583 by analyze_length)
+- **Not done**: the sentences still describe Sellars as setting the space of reasons against a space of causes; the McDowell-crediting recast used on `consciousness-and-the-authority-of-formal-systems` was not applied. The older Wolf (1990) / strong-form task on `reasons-responsiveness` is untouched.
 
 ## 2026-11-15T21:03:59+00:00 - refine-draft
 - **Status**: Success

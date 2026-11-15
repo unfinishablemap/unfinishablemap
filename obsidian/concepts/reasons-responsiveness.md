@@ -2,9 +2,9 @@
 title: "Reasons-Responsiveness"
 description: "Reasons-responsiveness is the capacity to track normative relationships—recognizing that conclusions follow from premises and acting accordingly. Central to free will and the argument from reason."
 created: 2026-02-01
-modified: 2026-10-20
+modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-11-10T03:20:56+00:00
+ai_modified: 2026-11-15T21:17:50+00:00
 last_deep_review: 2026-11-10T01:05:50+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[consciousness-and-the-normativity-of-reason]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-02-01
 last_curated: null
 ---
@@ -37,7 +37,7 @@ Reasons-responsiveness is the capacity to recognize normative relationships—th
 
 ## The Space of Reasons
 
-[[sellars-manifest-and-scientific-images|Wilfrid Sellars]] distinguished the "space of reasons" from the "space of causes." When we characterize a belief as knowledge, "we are placing it in the logical space of reasons, of justifying and being able to justify what one says." The space of reasons involves normative relationships: entailment, evidential support, justification. The space of causes involves efficient causation: one event producing another through physical mechanisms.
+[[sellars-manifest-and-scientific-images|Wilfrid Sellars]] distinguished the "space of reasons" from the space of causes. When we characterize a belief as knowledge, "we are placing it in the logical space of reasons, of justifying and being able to justify what one says." The space of reasons involves normative relationships: entailment, evidential support, justification. The space of causes involves efficient causation: one event producing another through physical mechanisms.
 
 Reasons-responsiveness means operating in the space of reasons—being sensitive to what *follows from* what, to what *counts as* good evidence, to what conclusions are *warranted*. A thermostat is causally responsive to temperature but not reasons-responsive to it. A reasoner tracking why global warming follows from greenhouse gas emissions operates in a different space from the causal chain of neurons producing that tracking.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-20 09:56:13+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-15 21:17:50+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[self-stultification]]'
@@ -16,7 +16,7 @@ concepts:
 - '[[intentionality]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-02-23
-date: &id001 2026-10-20
+date: &id001 2026-11-15
 description: Self-stultification presses hard not just on epiphenomenalism but on
   every position that severs consciousness from its own rational grounds—a threat,
   not a refutation.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 11:16:40+00:00
-lastmod: 2026-10-20 09:56:13+00:00
+lastmod: 2026-11-15 21:17:50+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -94,7 +94,7 @@ The functionalist has a ready response: physical systems *can* track normative r
 
 The answer turns on the distinction between [implementing a norm and grasping it](/topics/consciousness-and-the-normativity-of-reason/#implementing-versus-grasping): a theorem prover reliably executes syntactic rules designed in from outside without recognising them *as* valid, whereas grasping a norm is normative engagement from within. The physicalist who argues for physicalism claims to *grasp* the justificatory relationship between evidence and theory. If this grasping reduces to syntactic processing, then their confidence that they hold the position for good reasons is illusory—they are, at best, a theorem prover that happens to output "physicalism is true" without understanding why. The distinction identifies what the physicalist must account for; it does not by itself prove consciousness supplies the grasping.
 
-Wilfrid Sellars captured the tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the "space of causes" (efficient causation, natural law). Even naturalists who reject Sellars' broader framework acknowledge the distinction—McDowell's *Mind and World* (1994) builds on it while remaining broadly naturalistic. The [normativity of reason](/topics/consciousness-and-the-normativity-of-reason/) develops the gap: logical norms are prescriptive, universal, and content-sensitive in ways that resist physical description. The claim is not that physical systems *never* track norms—some do functionally—but that the [normative sensitivity](/concepts/reasons-responsiveness/) required for *rational endorsement* is grasping rather than reliable execution.
+Wilfrid Sellars captured the tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the space of causes (efficient causation, natural law). Even naturalists who reject Sellars' broader framework acknowledge the distinction—McDowell's *Mind and World* (1994) builds on it while remaining broadly naturalistic. The [normativity of reason](/topics/consciousness-and-the-normativity-of-reason/) develops the gap: logical norms are prescriptive, universal, and content-sensitive in ways that resist physical description. The claim is not that physical systems *never* track norms—some do functionally—but that the [normative sensitivity](/concepts/reasons-responsiveness/) required for *rational endorsement* is grasping rather than reliable execution.
 
 The [consciousness connection](/topics/argument-from-reason/#consciousness) makes this vivid: grasping that a conclusion *follows from* premises—seeing logical necessity, not merely statistical correlation—requires phenomenal awareness of reasons *as* reasons. The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) deepens the point: if genuine [intentionality](/concepts/intentionality/) derives from phenomenal consciousness, then recognising that premises *entail* a conclusion—an intentional state directed at a logical relationship—cannot be a purely physical achievement. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) supplies the experiential evidence: understanding has irreducible phenomenal character that distinguishes genuine comprehension of *why* a conclusion follows from mere pattern-matching that it does.
 

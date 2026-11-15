@@ -2,9 +2,9 @@
 title: "Self-Stultification as Master Argument"
 description: "Self-stultification presses hard not just on epiphenomenalism but on every position that severs consciousness from its own rational grounds—a threat, not a refutation."
 created: 2026-02-23
-modified: 2026-10-20
+modified: 2026-11-15
 human_modified:
-ai_modified: 2026-10-20T09:56:13+00:00
+ai_modified: 2026-11-15T21:17:50+00:00
 last_deep_review: 2026-07-12T11:16:40+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ related_articles:
   - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-02-23
 last_curated:
 ---
@@ -90,7 +90,7 @@ The functionalist has a ready response: physical systems *can* track normative r
 
 The answer turns on the distinction between [[consciousness-and-the-normativity-of-reason#implementing-versus-grasping|implementing a norm and grasping it]]: a theorem prover reliably executes syntactic rules designed in from outside without recognising them *as* valid, whereas grasping a norm is normative engagement from within. The physicalist who argues for physicalism claims to *grasp* the justificatory relationship between evidence and theory. If this grasping reduces to syntactic processing, then their confidence that they hold the position for good reasons is illusory—they are, at best, a theorem prover that happens to output "physicalism is true" without understanding why. The distinction identifies what the physicalist must account for; it does not by itself prove consciousness supplies the grasping.
 
-Wilfrid Sellars captured the tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the "space of causes" (efficient causation, natural law). Even naturalists who reject Sellars' broader framework acknowledge the distinction—McDowell's *Mind and World* (1994) builds on it while remaining broadly naturalistic. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops the gap: logical norms are prescriptive, universal, and content-sensitive in ways that resist physical description. The claim is not that physical systems *never* track norms—some do functionally—but that the [[reasons-responsiveness|normative sensitivity]] required for *rational endorsement* is grasping rather than reliable execution.
+Wilfrid Sellars captured the tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the space of causes (efficient causation, natural law). Even naturalists who reject Sellars' broader framework acknowledge the distinction—McDowell's *Mind and World* (1994) builds on it while remaining broadly naturalistic. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops the gap: logical norms are prescriptive, universal, and content-sensitive in ways that resist physical description. The claim is not that physical systems *never* track norms—some do functionally—but that the [[reasons-responsiveness|normative sensitivity]] required for *rational endorsement* is grasping rather than reliable execution.
 
 The [[argument-from-reason#consciousness|consciousness connection]] makes this vivid: grasping that a conclusion *follows from* premises—seeing logical necessity, not merely statistical correlation—requires phenomenal awareness of reasons *as* reasons. The [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis]] deepens the point: if genuine [[intentionality]] derives from phenomenal consciousness, then recognising that premises *entail* a conclusion—an intentional state directed at a logical relationship—cannot be a purely physical achievement. [[cognitive-phenomenology|Cognitive phenomenology]] supplies the experiential evidence: understanding has irreducible phenomenal character that distinguishes genuine comprehension of *why* a conclusion follows from mere pattern-matching that it does.
 
