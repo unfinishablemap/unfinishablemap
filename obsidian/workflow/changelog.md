@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T13:07:36+00:00
+ai_modified: 2026-11-15T13:40:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T13:40:02+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 89 (delta check 166: every concepts/topics/voids/apex/positions file changed since check 165's scan HEAD `b96ee288bb`; tenets.md unchanged; the driver read tenets.md, the new `voids/beloved-void`, both positions files and the window's tenet-check-driven repairs, and five read-only subagents read 78 pages; every counted finding rechecked by the driver at count 1)
+- **Errors**: 0
+- **Warnings**: 16
+- **Notes**: 16
+- **Lead findings**: no page concedes epiphenomenalism, endorses many-worlds or moves P-AC1. Six pages make No Many Worlds ground or support what Posits One and Three supply: `parfit-reductionism` L67 (felt singularity), `articulability-of-q1` L133 (authority law), `alignment-in-objective-experiential-terms` L120 (non-aggregability), `apex/living-with-the-map` L202 ("grounds moral responsibility and personal identity"), `machine-consciousness` L225 (matrix "Not invoked"), `philosophy-of-time` L171 (Whitehead's perishing occasions, no stance line). `apex/identity-across-transformations` L173 reads identity's resilience as suggesting posit 1, and its carried L189 is now the only page still saying Dualism entails non-physical identity after today's hub and Parfit fixes. The `mind-arena` L71 premise did not reach three glosses rewritten 17 minutes earlier.
+- **New page**: `voids/beloved-void` passes.
+- **Landed**: check 165 Priority 1 (`concepts/delegatory-causation` L172/L174/L176, commit `86361b1516`); check 165 Notes 6/7 at three of four loci (`8c8f299122`). Check 165 Priorities 2-4 are queued (todo L5262, L5274, L5285).
+- **Tasks minted**: 0 (reports only; Priority List carries four scripted OLD/NEW items, priced by analyze_length)
+- **Output**: [[reviews/tenet-check-2026-11-15]]
 
 ## 2026-11-15T13:07:36+00:00 - research-voids
 - **Status**: Success
