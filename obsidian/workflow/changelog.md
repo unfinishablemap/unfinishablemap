@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T20:49:21+00:00
+ai_modified: 2026-11-15T21:03:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T21:03:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-normativity-of-reason]]
+- **Source**: optimistic review 2026-11-15 (reason-and-induction wing), Priority List item 3
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted four-edit task on an eight-review converged page)
+- **Changes**: (a) Sellars sentence: quotation marks removed from "space of causes" (the phrase is not in "Empiricism and the Philosophy of Mind"; "space of reasons" and the section 36 quotation stay quoted), matching the repaired `topics/argument-from-reason` sentence. (b) Occam paragraph: the flat "this simplicity comes at the cost of rational self-defeat. A worldview that cannot account ... is not genuinely simpler; it is incomplete." now reads "on the Map's argument this simplicity comes at the cost of rational self-defeat: a worldview that could not account for its own rational credentials would be incomplete, not genuinely simpler." (c) References: Reppert 2003 kept and now cited inline where the page introduces Lewis's revised argument ("defended at book length by Victor Reppert (2003)", basis: the book's subtitle and `topics/argument-from-reason`'s Reppert section); Nagel 2012, Menuge (no year or venue) and Pernu 2017 dropped as cited nowhere in the body and not usable without asserting what they argue; list renumbered 1-8. (d) Further Reading link to [[consciousness-and-the-problem-of-induction]] with a one-line gloss, plus a `related_articles` entry. The implementing-versus-grasping section and the Dualism paragraph are byte-identical. `ai_system` gained `claude-fable-5-2`.
+- **Engagement classification**: unchanged by this pass. Reliabilism, functionalism, Carrier: mixed (unsupported-foundational-move identification, then boundary-marking); the Occam edit moves that paragraph from asserted refutation to the Map's stated contention, the grade the Dualism paragraph already held.
+- **Length**: 3,422 to 3,408 (analyze_length; topics hard limit 4,000)
+- **Published**: yes
 
 ## 2026-11-15T20:49:21+00:00 - coalesce
 - **Status**: Abandoned (no candidate; report-only run, nothing archived, moved or rewritten). Eighth consecutive reasoned abandon.

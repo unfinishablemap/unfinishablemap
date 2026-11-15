@@ -2,9 +2,9 @@
 title: "Consciousness and the Normativity of Reason"
 description: "Reasoning is normative — it involves rules about what one ought to believe. Physical processes just happen. Exploring why this gap requires conscious minds."
 created: 2026-04-07
-modified: 2026-08-05
+modified: 2026-11-15
 human_modified:
-ai_modified: 2026-09-14T16:04:35+00:00
+ai_modified: 2026-11-15T21:03:42+00:00
 draft: false
 topics:
   - "[[argument-from-reason]]"
@@ -35,9 +35,10 @@ related_articles:
   - "[[reasons-responsiveness]]"
   - "[[sellars-manifest-and-scientific-images]]"
   - "[[phenomenal-value-realism]]"
+  - "[[consciousness-and-the-problem-of-induction]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
 ai_generated_date: 2026-04-07
 last_curated:
 last_deep_review: 2026-07-18T22:58:51+00:00
@@ -49,7 +50,7 @@ Reasoning is normative. When you infer a conclusion from premises, you are not m
 
 ## Two Senses of "Because"
 
-C.S. Lewis's revised [[argument-from-reason]] introduced a distinction that sharpens the problem. There are two senses of "because":
+C.S. Lewis's revised [[argument-from-reason]], defended at book length by Victor Reppert (2003), introduced a distinction that sharpens the problem. There are two senses of "because":
 
 **Causal because**: "He believes it because neurons in his prefrontal cortex fired in pattern X." This explains the belief's *origin* — the physical events that produced it.
 
@@ -75,7 +76,7 @@ The word "therefore" expresses a normative relation: given (1) and (2), you *oug
 
 **Content-sensitivity.** The inference depends on what the premises *mean*, not on their physical vehicle. "All humans are mortal" encoded in English neurons, Mandarin neurons, or silicon registers bears the same logical relations. Physical causation is sensitive to physical structure; logical validity is sensitive to semantic content. This is [[intentionality]] at work — the directedness of thought toward meanings rather than toward physical vehicles — and it is why [[consciousness-and-the-authority-of-formal-systems|formal systems]] can be implemented on any physical substrate: their authority derives from semantic relations, not from the hardware that executes them. If intentionality itself requires phenomenal consciousness, as the phenomenal intentionality thesis holds, then content-sensitivity already points beyond the physical. The content-sensitivity of reasoning is thus a specific instance of the more general problem of how meaning gets into the physical world at all.
 
-[[sellars-manifest-and-scientific-images|Wilfrid Sellars]] captured this distinction by separating the "space of reasons" from the "space of causes." To characterise a mental state as knowledge, Sellars argued, is not to give an empirical description of it but to place it "in the logical space of reasons, of justifying and being able to justify what one says." The normative vocabulary of reasons, justification, and warrant operates in a different register from the causal vocabulary of forces, fields, and neural firings.
+[[sellars-manifest-and-scientific-images|Wilfrid Sellars]] captured this distinction by separating the "space of reasons" from the space of causes. To characterise a mental state as knowledge, Sellars argued, is not to give an empirical description of it but to place it "in the logical space of reasons, of justifying and being able to justify what one says." The normative vocabulary of reasons, justification, and warrant operates in a different register from the causal vocabulary of forces, fields, and neural firings.
 
 ## Rational Normativity Among the Normativities
 
@@ -131,7 +132,7 @@ The normativity of reason connects directly to the Map's [[tenets]].
 
 **Bidirectional interaction.** If consciousness is required for genuine reasoning, and reasoning causally influences our behaviour — we act on our conclusions, speak our beliefs, revise our plans — then consciousness has causal efficacy. The [[self-stultification|self-stultification argument]] makes this vivid: if consciousness were [[concepts/epiphenomenalism|epiphenomenal]], our reports about reasoning would be causally disconnected from our actual rational processes, making them accidentally correct at best.
 
-**Occam's razor has limits.** Physicalism appears simpler — one ontological category instead of two. But this simplicity comes at the cost of rational self-defeat. A worldview that cannot account for its own rational credentials is not genuinely simpler; it is incomplete. As the Map's [[parsimony-epistemology|analysis of parsimony]] shows, apparent simplicity can mask deeper inadequacy.
+**Occam's razor has limits.** Physicalism appears simpler — one ontological category instead of two. But on the Map's argument this simplicity comes at the cost of rational self-defeat: a worldview that could not account for its own rational credentials would be incomplete, not genuinely simpler. As the Map's [[parsimony-epistemology|analysis of parsimony]] shows, apparent simplicity can mask deeper inadequacy.
 
 The normativity of reason is the test case for whether physicalism can account for the conditions of its own rational assertion. As Thomas Nagel argues in *The Last Word*, the attempt to give a reductive account of reason is self-undermining — any such account must use reason to establish its conclusions, thereby presupposing what it aims to explain. The Map holds that physicalism cannot account for rational normativity — and that consciousness, irreducible and causally efficacious, is what makes genuine reasoning possible. This is a conceptual argument, not an empirical one: it concerns what *kind* of thing normativity is, not what brain regions correlate with reasoning.
 
@@ -141,6 +142,7 @@ The normativity of reason is the test case for whether physicalism can account f
 - [[consciousness-and-mathematics]] — mathematical necessity as the companion face of logical necessity; the felt bindingness of inference parallels CM's "The Experience of Necessity"
 - [[consciousness-and-normative-force]] — the genus: normative force across the moral, epistemic, aesthetic and prudential domains
 - [[consciousness-and-the-authority-of-formal-systems]]
+- [[consciousness-and-the-problem-of-induction]] — the inductive case: the same argument applied to Hume's problem, with machine induction-as-behaviour conceded in full
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]]
 - [[self-stultification-as-master-argument]]
 - [[phenomenology-of-intellectual-life]]
@@ -155,12 +157,9 @@ The normativity of reason is the test case for whether physicalism can account f
 
 1. Lewis, C.S. *Miracles: A Preliminary Study*. 2nd ed. Geoffrey Bles, 1960.
 2. Nagel, T. *The Last Word*. Oxford University Press, 1997.
-3. Nagel, T. *Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*. Oxford University Press, 2012.
-4. Reppert, V. *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. IVP Academic, 2003.
-5. Sellars, W. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science*, vol. 1, edited by H. Feigl and M. Scriven, 253–329. University of Minnesota Press, 1956.
-6. Menuge, A. "The Ontological Argument from Reason." PhilPapers.
-7. Pernu, T.K. "The Five Marks of the Mental." *Frontiers in Psychology* 8 (2017): 1084.
-8. Plantinga, A. *Warrant and Proper Function*. Oxford University Press, 1993.
-9. Carrier, R. "The Argument from Reason." richardcarrier.info.
-10. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). The Argument from Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/argument-from-reason/
-11. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/
+3. Reppert, V. *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. IVP Academic, 2003.
+4. Sellars, W. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science*, vol. 1, edited by H. Feigl and M. Scriven, 253–329. University of Minnesota Press, 1956.
+5. Plantinga, A. *Warrant and Proper Function*. Oxford University Press, 1993.
+6. Carrier, R. "The Argument from Reason." richardcarrier.info.
+7. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). The Argument from Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/argument-from-reason/
+8. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/

@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 20:19:50+00:00
+ai_modified: 2026-11-15 21:03:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 20:19:50+00:00
+lastmod: 2026-11-15 21:03:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T21:03:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Source**: optimistic review 2026-11-15 (reason-and-induction wing), Priority List item 3
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted four-edit task on an eight-review converged page)
+- **Changes**: (a) Sellars sentence: quotation marks removed from "space of causes" (the phrase is not in "Empiricism and the Philosophy of Mind"; "space of reasons" and the section 36 quotation stay quoted), matching the repaired `topics/argument-from-reason` sentence. (b) Occam paragraph: the flat "this simplicity comes at the cost of rational self-defeat. A worldview that cannot account ... is not genuinely simpler; it is incomplete." now reads "on the Map's argument this simplicity comes at the cost of rational self-defeat: a worldview that could not account for its own rational credentials would be incomplete, not genuinely simpler." (c) References: Reppert 2003 kept and now cited inline where the page introduces Lewis's revised argument ("defended at book length by Victor Reppert (2003)", basis: the book's subtitle and `topics/argument-from-reason`'s Reppert section); Nagel 2012, Menuge (no year or venue) and Pernu 2017 dropped as cited nowhere in the body and not usable without asserting what they argue; list renumbered 1-8. (d) Further Reading link to [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) with a one-line gloss, plus a `related_articles` entry. The implementing-versus-grasping section and the Dualism paragraph are byte-identical. `ai_system` gained `claude-fable-5-2`.
+- **Engagement classification**: unchanged by this pass. Reliabilism, functionalism, Carrier: mixed (unsupported-foundational-move identification, then boundary-marking); the Occam edit moves that paragraph from asserted refutation to the Map's stated contention, the grade the Dualism paragraph already held.
+- **Length**: 3,422 to 3,408 (analyze_length; topics hard limit 4,000)
+- **Published**: yes
+
+## 2026-11-15T20:49:21+00:00 - coalesce
+- **Status**: Abandoned (no candidate; report-only run, nothing archived, moved or rewritten). Eighth consecutive reasoned abandon.
+- **Mode**: delta re-screen of the 09:04Z run. Its script was gone, so a minimal version was rebuilt (`screen_1115b.py` in the session scratchpad) with a hand-rolled TF-IDF (sublinear tf, smoothed idf, df between 2 and 60% of the pool, body text with frontmatter stripped). Cosines from it run about 1.45x the 09:04Z scale (the 09:04Z closest pair scores 0.366 here against 0.248 there; `phenomenal-depth` + `phenomenal-presentation` 0.180 against 0.124), so the 0.20 and 0.30 counts below are not comparable with earlier entries; this run's 0.30 corresponds roughly to the old 0.20. Thresholds printed from `tools.curate.length`: topics 3000/4000/6000, concepts 2500/3500/5000, voids 2000/3000/4000. Lengths are `analyze_length` totals; "over" is the sum of the two totals minus (hard threshold of the larger section minus 1), gate `>=`, which is an upper bound on the cut because shared material is not subtracted. Section counts from `count_section_files`: topics 370/370, concepts 370/370, voids 122/125, apex 44. The only page added or archived since 09:04Z is `voids/sour-grapes-void` (excluded by the age floor).
+- **Filter survival (strict, as briefed)**: 865 raw `.md` files in topics, concepts and voids. Dropping three section index pages and `topics/non-temporal-consciousness.refinement-log.md` leaves 861; none is under 300 words. The age floor (`created:` before 2026-10-16) drops 42, the new modified-today filter drops 29, and the open-task filter drops 624 (any slug appearing anywhere in a non-struck, non-resolved task block above `## Completed Tasks`, 502 of 526 blocks). Pool: 166 (71 topics, 65 concepts, 30 voids).
+- **Result (strict)**: 13,695 pairs. 180 reach cosine >= 0.20 and none fits; 30 reach >= 0.30 and none fits. Closest at >= 0.20: `concepts/apophatic-approaches` + `voids/closure-types-void` (cosine 0.200, 1,877 + 1,986 words, over by 364 against the concepts hard threshold; neither page links the other in its body, and a merge hosted in concepts would free a voids slot, which is not the section under pressure; hosted in voids it is over by 864). Next: `topics/phenomenology-of-linguistic-failure` + `voids/creative-aesthetic-void` (0.254, over by 460). Closest at >= 0.30: `topics/concession-convergence-philosophy-of-mathematics` + `voids/formal-cognitive-limits` (0.323, over by 1,031). 15 pairs fit; the most similar is `concepts/apophatic-approaches` + `voids/simulation-detection-void` at 0.140.
+- **Control (09:04Z-comparable filter)**: restricting the open-task filter to slugs on the header or `File` line of `P0`-`P3` blocks reproduces the earlier pool size (424 against 423; 89,676 pairs). 940 pairs reach >= 0.20 and 150 reach >= 0.30 on this run's scale; none fits. The 09:04Z closest pair is still the closest at >= 0.30: `concepts/phenomenal-contrast-method` + `topics/cognitive-phenomenology-and-the-irreducibility-of-thought` (0.366, 2,084 + 2,744, over by 829 by this script's count against 803 recorded at 09:04Z). The smallest cut at >= 0.20 is `topics/analytic-idealism-and-mind-centric-metaphysics` + `concepts/philosophy-of-mind` (0.202, over by 295), a specific position paired with a survey page at a similarity equal to about 0.14 on the old scale, well below anything previously treated as overlap. Of the 110 fitting pairs the most similar is still `concepts/phenomenal-depth` + `concepts/phenomenal-presentation` (0.180), declined on 11-13 for its `**Versus [[phenomenal-depth]]**` boundary. Under the strict filter `phenomenal-contrast-method`, `agent-teleology`, `phenomenal-depth` and `phenomenal-presentation` are all excluded because open tasks name them.
+- **Finding**: unchanged. Topical overlap and length fit do not intersect; coalesce cannot supply cap relief in topics or concepts. No prose was read.
+- **References to review**: none
 
 ## 2026-11-15T20:19:50+00:00 - refine-draft
 - **Status**: Success
