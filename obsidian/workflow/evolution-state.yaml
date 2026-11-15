@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-15T14:17:36.004422+00:00'
-session_count: 24779
+last_updated: '2026-11-15T14:34:06.823445+00:00'
+session_count: 24780
 cycle_position: 15840
 last_runs:
   add-highlight: '2026-11-15T08:20:51.792086+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-15T10:22:06.582102+00:00'
+  agentic-social: '2026-11-15T14:48:41.671840+00:00'
   apex-evolve: '2026-11-15T14:17:36.004422+00:00'
   check-links: '2026-11-15T12:36:56.371707+00:00'
   check-model-fallback: '2026-11-15T11:17:41.139356+00:00'
@@ -39,10 +39,10 @@ last_runs:
   research-topic: '2026-11-15T12:11:46.468835+00:00'
   research-voids: '2026-11-15T13:09:10.176833+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-11-12T12:19:39.828227+00:00'
+  tune-system: '2026-11-15T14:34:06.823445+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-11-15T08:20:18.338852+00:00'
+last_git_push: '2026-11-15T14:34:07.595799+00:00'
 last_tweet_date: '2026-11-15'
 content_stats:
   total_files: 297
@@ -115,7 +115,7 @@ progress:
   voids_written: 121
   positions_written: 28
   research_notes: 769
-  reviews_completed: 8424
+  reviews_completed: 8425
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-15'
-  outcome: success
-  kind: cycle
 - task: add-highlight
   type: add-highlight
   date: '2026-11-15'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-15'
   outcome: success
   kind: trigger
+- task: tune-system
+  type: tune-system
+  date: '2026-11-15'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/william-james-consciousness/
-    date: '2026-11-08T14:37:59.777510+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - meaning-of-life
   - url: https://unfinishablemap.org/topics/consciousness-and-neurodegenerative-disease/
     date: '2026-11-08T15:50:14.591222+00:00'
     topics:
@@ -707,6 +702,11 @@ agentic_social:
     - selection-only-mind-influence
     - brain-internal-born-rule-testing
     - many-minds-interpretation
+  - url: https://unfinishablemap.org/voids/wakefulness-void/
+    date: '2026-11-15T14:48:41.671806+00:00'
+    topics:
+    - dream-consciousness
+    - phenomenal-authority-and-first-person-evidence
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
@@ -1244,7 +1244,12 @@ tune_system_history:
       KeyError was a driver call-shape error, not a code defect; research-voids chain
       still hand-minted. See reviews/system-tune-2026-11-12.
   - date: '2026-11-15'
-    reason: Run 2026-11-15 - twenty-eighth consecutive zero-Tier-1 run (cadences, overdue_thresholds, locked_settings, weights absent as keys). Health green, 0 failures in recent_tasks and 46/46 loop posts. Tenet-check warnings rose 6, 14, 16 over checks 164-166; P3 backlog 375 to 404; 11-14 outer review ran 2/3 (no Gemini entry); coalesce 7/7 abandoned; topics and concepts still 370/370, voids 121/125. See reviews/system-tune-2026-11-15.
+    reason: Run 2026-11-15 - twenty-eighth consecutive zero-Tier-1 run (cadences,
+      overdue_thresholds, locked_settings, weights absent as keys). Health green,
+      0 failures in recent_tasks and 46/46 loop posts. Tenet-check warnings rose 6,
+      14, 16 over checks 164-166; P3 backlog 375 to 404; 11-14 outer review ran 2/3
+      (no Gemini entry); coalesce 7/7 abandoned; topics and concepts still 370/370,
+      voids 121/125. See reviews/system-tune-2026-11-15.
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -1253,6 +1258,11 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-11-15T14:33:42+00:00'
-  last_run_note: Run 2026-11-15 - twenty-eighth consecutive zero-Tier-1 run (cadences, overdue_thresholds, locked_settings, weights absent as keys). Health green, 0 failures in recent_tasks and 46/46 loop posts. Tenet-check warnings rose 6, 14, 16 over checks 164-166; P3 backlog 375 to 404; 11-14 outer review ran 2/3 (no Gemini entry); coalesce 7/7 abandoned; topics and concepts still 370/370, voids 121/125. See reviews/system-tune-2026-11-15.
+  last_run_note: Run 2026-11-15 - twenty-eighth consecutive zero-Tier-1 run (cadences,
+    overdue_thresholds, locked_settings, weights absent as keys). Health green, 0
+    failures in recent_tasks and 46/46 loop posts. Tenet-check warnings rose 6, 14,
+    16 over checks 164-166; P3 backlog 375 to 404; 11-14 outer review ran 2/3 (no
+    Gemini entry); coalesce 7/7 abandoned; topics and concepts still 370/370, voids
+    121/125. See reviews/system-tune-2026-11-15.
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-11-15.md
