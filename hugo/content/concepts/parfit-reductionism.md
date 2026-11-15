@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-11-11 19:04:25+00:00
+ai_modified: 2026-11-15 09:35:51+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 23:49:37+00:00
-lastmod: 2026-11-11 19:04:25+00:00
+lastmod: 2026-11-15 09:35:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,13 +55,13 @@ Parfit found his view liberating: if personal identity is less deep than we thou
 
 On Parfit's view, there's nothing more to being *you* than instantiating a particular pattern of psychological continuity. When you deliberate about whether to help a friend or lie to them, who is doing the deliberating? For Parfit, there is no "who" beyond the psychological events constituting the deliberation. The reductionist can treat the phenomenology of agency as a cognitive artefact, but must then account for why agency so stubbornly presents itself as belonging to a particular subject rather than a pattern. Until that account is given, the phenomenology remains contested but real evidence that something has been left out.
 
-The Map's [agent-causal](/concepts/agent-causation/) framework takes the phenomenology seriously: agents cause actions as persisting substances, not as patterns. The agent who chooses is the same agent who will experience the consequences. This requires [indexical identity](/concepts/indexical-knowledge-and-identity/)—*this* being, not just any being with this pattern.
+The Map's [agent-causal](/concepts/agent-causation/) framework takes the phenomenology seriously: agents cause actions as persisting substances—enduring bearers of causal power, not unchanging soul-substances—rather than as patterns. The agent who chooses is the same agent who will experience the consequences. This requires [indexical identity](/concepts/indexical-knowledge-and-identity/)—*this* being, not just any being with this pattern.
 
 ### Zombies and Identity
 
-The [zombie argument](/concepts/philosophical-zombies/) creates trouble for Parfit. A zombie duplicate—physically and functionally identical but lacking consciousness—would satisfy Parfit's criteria for identity (physical and psychological continuity). Yet on the Map's framework, the zombie lacks the essential thing: consciousness. Identity isn't reducible to continuity relations; there's a further fact—whether this being is conscious—that determines it.
+The [zombie argument](/concepts/philosophical-zombies/) bears on Parfit through a replacement case: suppose your consciousness ceased while your body carried on, physically and functionally unchanged. If functional states suffice for memories and intentions, this zombie continuer meets Parfit's criterion. That premise is disputed, not given: whether a being without consciousness has psychological states at all is what the case contests. Granting it, continuity would hold while no subject survived, so continuity would not exhaust identity.
 
-Even if zombies are metaphysically impossible, their conceivability reveals something about our concept of identity: we don't think it's exhausted by continuity relations. Personal identity involves consciousness as such, not just certain psychological relations.
+Even if zombies are metaphysically impossible, their conceivability at most opens logical space for a further fact. The case concerns *whether* a subject survives; reaching [haecceity](/concepts/haecceity/), a fact about *which* subject continues, needs an inference to the best explanation ([see personal identity](/topics/personal-identity/#arguing-for-haecceity)), and there the disagreement is closer to bedrock.
 
 ### Many-Worlds Convergence
 
@@ -117,13 +117,13 @@ These challenges remain unmet, but articulating them clarifies what the rejectio
 
 The rejection of Parfit's reductionism connects to all five tenets and exemplifies the Map's framework.
 
-**[Dualism](/tenets/#dualism)**: If consciousness is irreducible to physical processes, personal identity involves this irreducible element—not just physical or psychological continuity. A [zombie duplicate](/concepts/philosophical-zombies/) would share all your continuity yet lack consciousness—and therefore lack *your* identity. The further fact Parfit denies is precisely the phenomenal subject the zombie lacks.
+**[Dualism](/tenets/#dualism)**: Irreducible consciousness permits a criterion of personal identity beyond physical or psychological continuity without entailing one. The further fact the Map posits, *which* conscious subject continues, sits naturally with the tenet without following from it; the [zombie case](/concepts/philosophical-zombies/) [above](#zombies-and-identity) at most opens room for the posit.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Consciousness biases quantum outcomes without injecting energy, creating a unique causal signature—*this* consciousness making *these* selections at *these* quantum indeterminacies. A replica would lack this history. Even if [decoherence](/concepts/decoherence/) complicates the quantum picture, the conceptual point remains: being you involves particular causal contributions that cannot be transferred by copying patterns.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness causally influences the physical world, giving each conscious being a unique causal history that replication cannot transfer. What matters is not just psychological continuity (replicable) but causal continuity—*this* consciousness having shaped *this* world through *these* choices.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Both MWI and Parfit's reductionism treat identity as pattern-instantiation: on MWI, "you" exist in all branches equally; on Parfit's view, "you" could be continued by any replica. Both dissolve "Which one is really me?" as empty. The Map insists the question is meaningful. [Indexical identity](/concepts/haecceity/) is a real fact, not a confused question.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Both MWI and Parfit's reductionism treat identity as pattern-instantiation: on MWI, "you" exist in all branches equally; on Parfit's view, a sole replica bearing Relation R would be you, and with two, neither would, though each keeps what matters. Both dissolve "Which one is really me?" as empty. The Map insists the question is meaningful. [Indexical identity](/concepts/haecceity/) is a real fact, not a confused question.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Parfit's reductionism achieves parsimony by eliminating the "further fact" of identity. But this parsimony may reflect conceptual inadequacy rather than metaphysical insight. The complexity the Map adds (irreducible subjects, haecceity, non-transferable causal histories) may be warranted complexity, tracking genuine features of reality that Parfit's deflationism misses.
 
@@ -142,7 +142,7 @@ The rejection of Parfit's reductionism connects to all five tenets and exemplifi
 Parfit's reductionism offers a deflationary view of personal identity: there's no deep fact, just patterns and their continuation. The Map rejects this:
 
 - Reductionism bears an explanatory cost: it must explain away the phenomenology of agency
-- Zombie conceivability shows identity involves something beyond continuity
+- Zombie conceivability at most opens logical space for identity beyond continuity
 - Many-worlds convergence reveals the view's costs
 - Causal history gives content to indexical identity
 - Practical stakes (death, replication) warrant taking identity seriously
