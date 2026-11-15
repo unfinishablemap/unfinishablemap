@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T13:40:02+00:00
+ai_modified: 2026-11-15T14:05:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T14:05:42+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Changed sources**: 8 by `modified` (top scorer, 476 = 59.5 days × 8; baseline 2026-09-17T01:05, narrowly ahead of research-programme-decisions 475.5 and born-preserving 474); 12 of 13 moved by git log
+- **Word count**: 5470 → 4995 (apex soft 4,000 / hard 5,000; back under hard; prose ~5015 → ~4540, apparatus unchanged)
+- **Fixed (source repaired, synthesis stale)**: Born-rule *form* claimed as interface evidence against Gleason and the source's form/existence split; intersubjective agreement re-explained by objective reduction of apparatus outcomes (neural-site scoping); Stapp's Zeno model no longer "the Map's mechanism" (nearest neighbour, declines outcome-selection, Process-1 debt); Denton 2024 modelled, ~700 ns, not "establishes"; amplification-void opacity credited to neurodynamics, not minimality (×3), "five regimes" → four; agency-budget ceiling carries the re-weighting/companion-law condition; corridor invisibility scoped to unconditioned aggregate tests with P-Q3 conditioned tests (×4, incl. "untestable"); Saad's n. 15 stance ("violates Observational Closure") added; global-nonactuality clause and diverging-worlds rival added to the indexical argument; chance-fixing closure conceded (discharges carried tenet-check 2026-10-21 #7, L232); "physics indirectly supports", "self-stultification unanswered", physical-collapse defeater, and two thickness filings recalibrated
+- **New synthesis**: "Write the companion law" names the level mismatch between the register's unconditioned-marginal default and the agency budget's every-public-ensemble law; collapse-priority debt added to the prebiotic demand
+- **Evidence and Dependency**: refreshed (void convergence removed; triple screen re-sourced; corridor graded "permits rather than entails"), 299 → ~215 words
+- **Review**: [[reviews/apex-evolve-2026-11-15-what-consciousness-tells-us-about-physics]]
 
 ## 2026-11-15T13:40:02+00:00 - check-tenets
 - **Status**: Warnings

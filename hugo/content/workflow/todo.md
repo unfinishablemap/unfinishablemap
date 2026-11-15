@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 13:07:36+00:00
+ai_modified: 2026-11-15 13:42:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-11-15 13:07:36+00:00
+lastmod: 2026-11-15 13:42:17+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -5774,6 +5774,53 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 3,991 words by analyze_length at 12:10Z 2026-11-15 (topics hard 4,000, gate `>=`) — headroom 8 words. Any addition must be offset by cuts elsewhere on the page; target net ≤ +8 (net ≤ 0 preferred). If a fair statement of the objection plus the Map's reply cannot fit, write the minimal version and record the length conflict rather than overshoot.
 - **Coordination**: another open P3 on this file (L139 "distinguishing evidence", from the 2026-11-01 contemplative-pathology deep review) — do not undo or collide with it; check whether it has landed before measuring.
 - **Notes**: Olson, E. T. (2021). "The Dualist Project and the Remote-Control Objection." *Roczniki Filozoficzne* 69(1): 89–101, https://doi.org/10.18290/rf21691-9 (the research fork grep-verified the "would be baffling" wording in the journal PDF; re-fetch and grep before quoting anything else). State the objection at full strength, give the Map's interface-disruption reply, and say whether that reply is what Olson calls "electric dualism" (verify the term and its gloss in the raw PDF before using it). Do not enlist Olson for dualism — he is an animalist objecting to it. Read /home/andy/unfin/unfinishablemap/obsidian/research/animalism-and-the-thinking-animal-argument-2026-11-15.md "Deferred Items" item 3 and "Dualist Replies and What Each Costs" first. ai_system: append claude-opus-5-5 only if absent anywhere in the plus-joined string. Sync and verify both trees.
+
+### P3: `apex/identity-across-transformations` L173/L175/L189 grade identity's resilience as "suggesting" the persisting-subject posit and keep Dualism entailing non-physical identity, against today's personal-identity and Parfit fixes
+- **Type**: refine-draft
+- **File**: obsidian/apex/identity-across-transformations.md
+- **Status**: pending
+- **Source**: tenet-check 166 (2026-11-15 ~13:36Z, `reviews/tenet-check-2026-11-15.md`), Priority List item 1; the driver re-confirmed every OLD string at count 1 at 13:42Z
+- **Generated**: 2026-11-15
+- **Review file**: obsidian/reviews/tenet-check-2026-11-15.md
+- **Headroom**: 4,568/5,000 (analyze_length), net +14 → 4,582.
+- **Notes**: Apply the review's EXACT OLD->NEW strings for this item (section `## Priority List`, item 1), pulling them by script from the review file and confirming each OLD at str.count 1 before replacing. Read the item's Guards in full first. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; No Many Worlds is neither refuted nor endorsed; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move; no "This is not X. It is Y.", no "load-bearing"; check pronouns after each replacement; set ai_modified from `date -u`. Tenets 1, 3, 4; posit 1 (W7 plus two carried items). Loci: (a) L173 "The resilience suggests that indexical identity is fundamental" → the Map-reads form with the continuity-accounts concession (+9); (b) L175 "Together, they support a picture where" → "Together, they cohere with a posited picture where" (+2); (c) L189 "If consciousness is not reducible to physical processes, personal identity involves something non-physical." → "Irreducible consciousness permits a non-physical criterion of personal identity without entailing one." (−1) and "Either way, identity includes irreducible haecceity." → "Either way, the Map posits that identity includes irreducible haecceity." (+4). Models: `topics/personal-identity` L185, `concepts/parfit-reductionism` L117, `concepts/haecceity` L71. KEEP L171 as the 11:10Z pass left it and L67/L89/L97/L117 (today's refine-drafts). After (a), re-read the next sentence ("Continuity matters as *evidence* …"). Rider if capacity allows: Note 3 (L149, +5) and the carried L119 (0). Headroom 4,568/5,000 (net +14).
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in each file's string (grep the fork's own transcript for its model; do not copy a model name from these Notes).
+
+### P3: No Many Worlds said to preserve, support or ground value on four pages — `topics/ethics-under-dualism` L206, `apex/moral-architecture-of-consciousness` L190, `topics/alignment-in-objective-experiential-terms` L120, `apex/living-with-the-map` L202
+- **Type**: refine-draft
+- **File**: obsidian/topics/ethics-under-dualism.md
+- **Secondary**: obsidian/apex/moral-architecture-of-consciousness.md (L190); obsidian/topics/alignment-in-objective-experiential-terms.md (L120); obsidian/apex/living-with-the-map.md (L202)
+- **Status**: pending
+- **Source**: tenet-check 166 (2026-11-15 ~13:36Z, `reviews/tenet-check-2026-11-15.md`), Priority List item 2; the driver re-confirmed every OLD string at count 1 at 13:42Z
+- **Generated**: 2026-11-15
+- **Review file**: obsidian/reviews/tenet-check-2026-11-15.md
+- **Headroom**: ethics-under-dualism 3,972/4,000 (TIGHT, 27; net +5 → 3,977); moral-architecture-of-consciousness 4,593/5,000 (+5); alignment-in-objective-experiential-terms 2,995/4,000 (+9); living-with-the-map 4,173/5,000 (+9).
+- **Coordination**: belongs with the open P3 "MWI/agency sweep, part 2 of 3" (its 7 files are disjoint from these 4; do not touch them here). Open P3s also own `moral-architecture-of-consciousness` L148 and `living-with-the-map` contemplative/[P-M2](/positions/methodology-and-calibration/#p-m2)/"categorical exclusion" loci — touch ONLY the lines named here. ethics-under-dualism L208 belongs to a separate Tenet 5 task: leave it.
+- **Notes**: FOUR FILES; report EACH by name. Apply the review's EXACT OLD->NEW strings for this item (section `## Priority List`, item 2), pulling them by script from the review file and confirming each OLD at str.count 1 before replacing. Read the item's Guards in full first. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; No Many Worlds is neither refuted nor endorsed; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move; no "This is not X. It is Y.", no "load-bearing"; check pronouns after each replacement; set ai_modified from `date -u`. Tenet 4; posits 1 and 3 (W3, W4 and the carried pair). (a) ethics-under-dualism L206 and (b) moral-architecture-of-consciousness L190, same OLD "**[No Many Worlds](/tenets/#no-many-worlds)** preserves moral urgency." → "… bears on moral urgency only through a posit."; (c) alignment-in-objective-experiential-terms L120 "supports the non-aggregability of experiential quality. If identity is indexical—if [haecceity](/concepts/haecceity/) is real—then" → the "is coherent with … without supplying it" form; (d) living-with-the-map L202 "This grounds moral responsibility and personal identity." → "That exclusion is a [posit the Map adopts](/tenets/background-commitments/), and its account of responsibility draws on it." Model: `topics/phenomenology-of-moral-life` L135; `living-with-the-map` L164 is the in-page model for (d). KEEP each paragraph's existing branch-local concession and (d)'s indexical argument ("measure-weighting answers how much value a branch carries …"). ethics-under-dualism has only 27 words of headroom (net +5). Do NOT touch ethics-under-dualism L208, moral-architecture L148, or the living-with-the-map loci owned by the 2026-11-13 open P3.
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in each file's string (grep the fork's own transcript for its model; do not copy a model name from these Notes).
+
+### P3: `concepts/content-specificity-of-mental-causation` L37 makes epiphenomenalism a "systematic coincidence" in the lede and L73 says Minimal Quantum Interaction "predicts" a few decisive interventions
+- **Type**: refine-draft
+- **File**: obsidian/concepts/content-specificity-of-mental-causation.md
+- **Status**: pending
+- **Source**: tenet-check 166 (2026-11-15 ~13:36Z, `reviews/tenet-check-2026-11-15.md`), Priority List item 3; the driver re-confirmed every OLD string at count 1 at 13:42Z
+- **Generated**: 2026-11-15
+- **Review file**: obsidian/reviews/tenet-check-2026-11-15.md
+- **Headroom**: 2,421/3,500, net +24 → 2,445.
+- **Coordination**: the open P3 on two siblings (`topics/empirical-phenomena-mental-causation`, `concepts/interface-friction`) carries citation fixes from today's deep review of this page; it does not edit this page.
+- **Notes**: Apply the review's EXACT OLD->NEW strings for this item (section `## Priority List`, item 3), pulling them by script from the review file and confirming each OLD at str.count 1 before replacing. Read the item's Guards in full first. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; No Many Worlds is neither refuted nor endorsed; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move; no "This is not X. It is Y.", no "load-bearing"; check pronouns after each replacement; set ai_modified from `date -u`. Tenets 3 and 2 (W9, W12). (a) L37 "would be a systematic coincidence." → "would run through the state's neural realiser, felt meaning riding in parallel, a reading the data do not exclude (below)." (+15); (b) L73 "the Map interprets the combination of sparsity and semantic loading as fitting the pattern its [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet predicts: …" → the "fitting, without evidencing" form ending "Minimal Quantum Interaction bounds what is detectable, not how often consciousness acts." (+9). Re-read tenets L69, L81, L101 first; models are this page's L85 and `control-theoretic-will` L134. KEEP L85 and L47 (today's deep review). After (a), read the rest of the lede. Rider: L71 "remarkable if it were coincidental" makes the same move; match it to (a) (count 1 at 13:42Z).
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in each file's string (grep the fork's own transcript for its model; do not copy a model name from these Notes).
+
+### P3: `concepts/articulability-of-q1` L133 says branching dissolves the authority question; an authority law settles which of two sufficient causes counts, so its question survives branching
+- **Type**: refine-draft
+- **File**: obsidian/concepts/articulability-of-q1.md
+- **Status**: pending
+- **Source**: tenet-check 166 (2026-11-15 ~13:36Z, `reviews/tenet-check-2026-11-15.md`), Priority List item 4; the driver re-confirmed every OLD string at count 1 at 13:42Z
+- **Generated**: 2026-11-15
+- **Review file**: obsidian/reviews/tenet-check-2026-11-15.md
+- **Headroom**: 3,393/3,500 (106), net −7 → 3,386.
+- **Notes**: Apply the review's EXACT OLD->NEW strings for this item (section `## Priority List`, item 4), pulling them by script from the review file and confirming each OLD at str.count 1 before replacing. Read the item's Guards in full first. Standing guards: never concede epiphenomenalism; each tenet stays a commitment; No Many Worlds is neither refuted nor endorsed; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move; no "This is not X. It is Y.", no "load-bearing"; check pronouns after each replacement; set ai_modified from `date -u`. Tenet 4; posit 3 (W2). Replace the L133 run beginning "keeps the problem real. Under Many-Worlds there is no selection among exclusive outcomes for an authority law to govern" through "without it the problem could be defined away rather than solved." with the review's NEW ("bears on the Map's own route, not on the authority law. …"). KEEP the bold label `**[[tenets#^no-many-worlds|No Many Worlds]]**`. Models: `delegation-meets-quantum-selection` L112 and `delegatory-causation` L176. Do NOT decide the trumping stance (owned by a separate open task).
+  ai_system: append the executing fork's own model only if it is ABSENT anywhere in each file's string (grep the fork's own transcript for its model; do not copy a model name from these Notes).
 
 ## Completed Tasks
 
