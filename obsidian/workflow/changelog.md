@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T04:04:01+00:00
+ai_modified: 2026-11-15T05:06:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T05:06:44+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 with Research (collected by collect-claude-review; subject "Audit personal-identity", `topics/personal-identity.md`, reused from the ChatGPT leg)
+- **File**: [[reviews/outer-review-2026-11-15-claude-fable-5-2]]
+- **Extraction**: js-dom-slices from the artifact panel's largest `.standard-markdown`. The thread showed "Research complete" with no Stop button, and the body held at 39,254 rendered characters for 10 s. 88 U+E015 citation-chip icon glyphs were stripped in-page. The body was read out in 51 slices of at most 940 characters. The reassembled SHA-256 equals the in-page hash `742ae704…de78de` (46,630 characters). No browser download was used.
+- **Map access**: partial. The reviewer fetched four pages live (the target, split-brain, the individuation register and the identity apex) and saw 11 only as search-indexed text. Two of those findings quote text the live site has since replaced.
+- **Claims verified**: about 40 quoted strings at count 1 on live pages, plus five primary sources fetched raw: Mandukya v5 (Nikhilananda, wisdomlib), Nagel 1971 full text, SEP "Locke on Personal Identity", Tallis *Philosophy Now* 161 (tag-stripped with no substitution), and Crossref for Laukkonen, Friston & Chandaria 2025.
+- **High-value findings**: 49 adjudicated. 14 were newly tasked. 17 converge with existing tasks (12 with the ChatGPT leg's tasks or an open P3, 5 with standing NEEDS-HUMAN or discipline entries), so no duplicates were minted and the convergences are listed for combine. 12 were kept but not tasked. 6 were false alarms, stale index text, or already handled.
+- **Tasks generated**: 2, both P2 and deferred until /combine-outer-reviews.
+  - Hub: the hub lags P-I4 ("principled within the framework, stipulated at its boundary", grade D, fission criterion); L139 Mandukya; L143 anaesthesia void; L149 Tallis (2011) against the 05-29 stability note; Locke 1694; L65 non-branching; L99 and L187-zombie deletions. Net ≤ 0, coordinated with the four ChatGPT-leg tasks on the same file.
+  - Apex: L89 "registers" never propagated; L97 "most resistant"; L117 "structurally identical". Net ≤ +20.
+- **Other todo edits**: an addendum on NEEDS-HUMAN (length decision) for `topics/personal-identity` gives the operator a fourth option: relocate the Decoherence Challenge section (99 words). `concepts/decoherence` is at 3,480/3,500.
+- **Articles edited**: none.
 
 ## 2026-11-15T04:04:01+00:00 - outer-review
 - **Status**: Success

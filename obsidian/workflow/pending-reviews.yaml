@@ -569,9 +569,9 @@
   commissioned_at: '2026-11-15T03:05:39.767117+00:00'
   prompt_summary: Hostile-referee audit of topics/personal-identity (Fable 5.2, Research)
   target_filename: outer-review-2026-11-15-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-15T04:53:50.728230+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile but fair academic referee. Audit the article "Personal
     Identity" on The Unfinishable Map (https://unfinishablemap.org): https://unfinishablemap.org/topics/personal-identity/
