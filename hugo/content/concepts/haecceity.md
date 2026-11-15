@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-28 13:09:58+00:00
+ai_modified: 2026-11-15 09:20:53+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:04:17+00:00
-lastmod: 2026-10-28 13:09:58+00:00
+lastmod: 2026-11-15 09:20:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Philosophers divide on whether haecceitistic differences are genuine.
 
 **Anti-haecceitists** deny this. If two situations are qualitatively identical, they're the same situation. Identity supervenes on qualitative character.
 
-For personal identity: anti-haecceitists hold that what makes you you is entirely constituted by qualitative facts—memories, psychology, physical constitution. A perfect replica would be you. Parfit's view exemplifies this: personal identity reduces to psychological continuity and can branch or fuse. Haecceitists hold that what makes you you includes something non-qualitative. A perfect replica shares all qualitative properties but lacks your haecceity. Identity cannot branch because haecceity cannot be divided or copied.
+For personal identity: anti-haecceitists hold that qualitative and relational facts—psychology, physical constitution, causal connection, non-branching—settle whether a later person is you. On Parfit's wide psychological criterion, a sole replica psychologically continuous with you (his Relation R) would be you; with two, neither is, for R can branch but identity cannot. Haecceitists deny that such relations settle identity at all: what makes you you includes a non-qualitative haecceity no perfect replica shares.
 
 ## Haecceity and the Individuation of Subjects
 

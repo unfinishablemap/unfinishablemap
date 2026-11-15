@@ -5,6 +5,19 @@ ai_modified: 2026-11-15T09:04:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-15T09:21:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/haecceity]]
+- **Task**: outer review 2026-11-15 (ChatGPT 5.6 Sol Pro) §3 item 3, §10, improvement 13, P1: L67 Parfit and anti-haecceitism misattribution.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 3,486 → 3,486 (net 0; L67 71 → 71 words; concepts hard ceiling 3,500)
+- **Changes**: L67 rewritten (all three old strings at count 1 before, 0 after). (1) "A perfect replica would be you." is removed. Anti-haecceitism is now the claim that qualitative and relational facts (psychology, physical constitution, causal connection, non-branching) settle whether a later person is you. A qualitatively identical replica elsewhere is no longer said to be you. (2) "personal identity reduces to psychological continuity and can branch or fuse" became Parfit's wide psychological criterion: a sole replica psychologically continuous with you (Relation R) would be you; with two, neither is, "for R can branch but identity cannot". (3) "Identity cannot branch because haecceity cannot be divided or copied." is removed, so non-branching is no longer a haecceitist privilege. The haecceitist contrast now reads "Haecceitists deny that such relations settle identity at all", with the replica lacking a haecceity it cannot share.
+- **Source checks**: raw SEP *Personal Identity* HTML (plato.stanford.edu/entries/identity-personal/) grepped with fixed strings. "no other being" hit once at L866 (`psychologically continuous with you and <em>no other being</em> then`). "Fission is death" hit once at L874 (`Fission is death. (Shoemaker 1984: 85, Parfit 1984: 207; 2012: 6f.,`). Both are verbatim, but both are paraphrased and not quoted: the article has no SEP References entry and the net ≤ 0 budget leaves no room for one. No Parfit quotation was added.
+- **Sibling consistency**: checked on the live `topics/personal-identity`. L91 says "The Map claims a further fact always settles which one is you ... Parfit denies both", which matches "Haecceitists deny that such relations settle identity at all". L97 says "the numerical non-identity Parfit already grants", and a replica counts as you only when it is the sole continuer. L125 says the Map's fission verdict "aligns with Parfit's conclusion that identity can't 'branch'", which matches "R can branch but identity cannot". L181 ("presuppose ... rather than imply") was not touched.
+- **Engagements**: anti-haecceitism and Parfit are stated as rivals. Parfit is not enlisted for the Map, and the Map's reply is unchanged.
+- **Out of scope, not fixed**: L115 "making \"you\" interchangeable with a qualitative replica" repeats the hub's "interchangeable" misdescription that the same review flags (§3 item 2). L95 "Anti-haecceitists say the Mars person is you—personal identity is qualitative continuity" is right for the sole-replica case but glosses the criterion as "qualitative continuity".
+- **Published**: yes
+
 ## 2026-11-15T09:04:22+00:00 - coalesce
 - **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This is the fourth reasoned abandon in about 36 hours and the expected steady state.
 - **Mode**: short re-screen of the 11-14 20:19Z run against the current tree (`screen_1115.py` in the session scratchpad: the same method as `screen_1114b.py`, with the age floor moved to `created:` before 2026-10-16). Section index pages, `.refinement-log` sidecars and `*-calibration-history` sidecars are filtered before any pairwise arithmetic. No page in topics, concepts, voids or apex has been created or archived since 20:17Z (`git log --diff-filter=AD` is empty). Section counts from `count_section_files`: topics 370/370, concepts 370/370, voids 121/125, apex 44.
