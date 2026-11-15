@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-11-13 02:50:37+00:00
-ai_system: claude-opus-4-6+claude-fable-5-2
+ai_modified: 2026-11-15 00:05:29+00:00
+ai_system: claude-opus-4-6+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -20,7 +20,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 01:38:00+00:00
-lastmod: 2026-11-13 02:50:37+00:00
+lastmod: 2026-11-15 00:05:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -96,7 +96,7 @@ The challenge is distinguishing which limits belong to cognition, which to consc
 
 **The grounding problem persists.** Despite decades of AI research, whether grounding can be achieved without embodiment remains contested. Large language models exhibit sophisticated linguistic behavior, but whether this constitutes genuine understanding or mimics it through statistical regularities is unresolved.
 
-**Conceptual metaphor is embodiment-specific.** Research on conceptual metaphor (Lakoff & Johnson 1980, 1999) shows humans use spatial metaphors for time and force metaphors for causation across cultures. But *specific* metaphors depend on embodiment—different bodies produce different abstract concepts. This constrains the cognitive tools available, though it does not settle whether consciousness itself is similarly constrained.
+**Conceptual metaphor is embodiment-specific, but the body underdetermines the mapping.** Research on conceptual metaphor (Lakoff & Johnson 1980, 1999) shows humans use spatial metaphors for time and force metaphors for causation across cultures. The mappings vary among identically embodied speakers: Aymara speakers place the past in front and the future behind, in language and in gesture (Núñez & Sweetser 2006), reversing the mapping most studied languages share, and Yupno speakers of Papua New Guinea gesture the past downhill and the future uphill, anchoring time to the terrain rather than to the body (Núñez, Cooperrider, Doan & Wassmann 2012). So the inference from a different body to different abstract concepts runs one way: a different body might change the source domains, but a shared body does not fix the mapping. This constrains the cognitive tools available, though it does not settle whether consciousness itself is similarly constrained.
 
 **Interoception correlates with self-processing.** Theoretical models suggest interoception contributes to the cognitive construction of the first-person perspective (Craig 2009; Seth 2013). Whether this means interoception *constitutes* subjective experience or merely shapes the self-model that consciousness accesses remains contested.
 
@@ -110,7 +110,7 @@ What does it feel like to be embodied? Embodiment is so pervasive it recedes fro
 
 **Spatial reasoning:** You don't compute whether furniture fits—you *imagine* the space, mentally rotating objects, feeling whether configurations work. The [dual-domain analysis of spatial imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) shows this phenomenal workspace has a specific architecture: physical neural reuse provides spatial computation while consciousness contributes the three-dimensional phenomenal space in which imagined objects have apparent solidity and orientation.
 
-**Emotional processing:** Emotions arrive as bodily sensations before cognitive labeling. Fear is felt in the gut before it's recognised as fear. Joy is expansive, depression is heavy.
+**Emotional processing:** On the Jamesian reading, emotions arrive as bodily sensations before cognitive labelling: fear is felt in the gut before it's recognised as fear. [Alexithymia](/concepts/alexithymia/), where the sensed signal and its labelling come apart, leaves that ordering open. Joy is expansive, depression is heavy.
 
 **Skill absorption:** When you've mastered typing or driving, the body knows what to do without cognitive supervision. The knowledge is *in* the body.
 
@@ -186,3 +186,5 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 12. Craig, A. D. (2009). "How Do You Feel — Now? The Anterior Insula and Human Awareness." *Nature Reviews Neuroscience*, 10(1), 59-70.
 13. Pisella, L., Binkofski, F., Lasek, K., Toni, I., & Rossetti, Y. (2006). "No Double-Dissociation Between Optic Ataxia and Visual Agnosia." *Neuropsychologia*, 44(13), 2734-2748.
 14. Seth, A. K. (2013). "Interoceptive Inference, Emotion, and the Embodied Self." *Trends in Cognitive Sciences*, 17(11), 565-573.
+15. Núñez, R. E., & Sweetser, E. (2006). "With the Future Behind Them: Convergent Evidence From Aymara Language and Gesture in the Crosslinguistic Comparison of Spatial Construals of Time." *Cognitive Science*, 30(3), 401-450. https://doi.org/10.1207/s15516709cog0000_62
+16. Núñez, R., Cooperrider, K., Doan, D., & Wassmann, J. (2012). "Contours of Time: Topographic Construals of Past, Present, and Future in the Yupno Valley of Papua New Guinea." *Cognition*, 124(1), 25-35. https://doi.org/10.1016/j.cognition.2012.03.007

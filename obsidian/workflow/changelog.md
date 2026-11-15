@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-14T23:54:32+00:00
+ai_modified: 2026-11-15T00:05:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T00:05:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/embodiment-cognitive-limits]]
+- **Original score**: n/a (targeted research fold; `scripts/curate.py` is absent)
+- **Task**: fold [[research/cross-cultural-spatial-construals-of-time-2026-10-26]] (recommended_action: fold) into the "Conceptual metaphor is embodiment-specific" paragraph, plus item 4(b) of [[reviews/optimistic-2026-10-26-subject-structure-wing]] (the Jamesian ordering under "Emotional processing"). The L54 neuropsychological-cases paragraph (ab2fbb27d9) was not touched.
+- **Sources verified in raw text**: Crossref records for 10.1207/s15516709cog0000_62 (Núñez & Sweetser 2006, *Cognitive Science* 30(3): 401–450, Wiley, with abstract) and 10.1016/j.cognition.2012.03.007 (Núñez, Cooperrider, Doan & Wassmann 2012, *Cognition* 124(1): 25–35, Elsevier, no Crossref abstract). Abstracts were read from PubMed efetch, PMIDs 21702821 and 22542697. Aymara hit: "FUTURE IS BEHIND EGO and PAST IS IN FRONT OF EGO; linguistic and gestural data give strong confirmation". Yupno hit: "the past is construed as downhill, the present as co-located with the speaker, and the future as uphill". The fold quotes nothing; it paraphrases these.
+- **Changes** (analyze_length 2,335 → 2,509 of hard 3,000, gate `>=`):
+  - Step 1, L96, 55 → 146 words (+91). This is the research note's amended NEW, installed verbatim. "known/unknown" was dropped, "would change" became "might change", and the Yupno clause was added: Yupno varies the anchor, Aymara only the polarity. The paragraph's point is that the body supplies source domains but underdetermines the mapping, which keeps the result on the cognition side. References 15 and 16 were appended after ref 14, Seth 2013 (+65). The task said "after ref 13"; that numbering predates the L54 Pisella insertion. The body uses author-year citations, so no renumbering was needed. Boroditsky, Dahl and de la Fuente are not cited, and the page does not call the Aymara pattern unique.
+  - Step 2, L110, 27 → 45 words (+18). The Jamesian ordering is now owned as a reading ("On the Jamesian reading, … fear is felt in the gut before it's recognised as fear"). It is piped to [[concepts/alexithymia]], "where the sensed signal and its labelling come apart", which "leaves that ordering open". This matches alexithymia's 11-14 revision: the divergence lies between the sensed signal and report, and the felt-affect question stays open. The page does not claim alexithymia shows feeling precedes recognition, nor that it is a felt-affect deficit. "labeling" → "labelling".
+- **Pronoun check**: L96 "This constrains the cognitive tools available" reads as the source-domain/mapping picture and holds. L110 "that ordering" points to the Jamesian sentence.
+- **Not done**: the review's zero-cost secondary (add `embodiment-cognitive-limits` to alexithymia's `related_articles`) was skipped because the brief allowed no secondaries. Engagement classification is n/a: no named opponent.
+- **Out of scope (not edited)**: references 1, 2, 5, 7, 8, 9 and 10 (SEP ×2, Harnad, Varela, Journal of Cognition, Harvard Medicine, Nature HSSC) are still uncited in the body. L62's "TIME IS SPACE reflects how we move through the world, encountering new places as we advance" still reads the front-future polarity as body-derived, which L96 now qualifies.
+- **Published**: yes
 
 ## 2026-11-14T23:54:32+00:00 - refine-draft
 - **Status**: Success
