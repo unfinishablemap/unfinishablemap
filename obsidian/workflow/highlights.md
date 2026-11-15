@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-14T08:03:56.400775'
+ai_modified: '2026-11-15T08:19:48.729775'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-14'
+modified: '2026-11-15'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-15: Why Them? Speed-Dating Models Couldn't Predict the Pair
+
+Given 100+ pre-date measures of traits and preferences, models partly predicted how much people desire and are desired, but not the pair-specific part of initial desire. New void: why this one, and can a lover tell found perfections from projected ones?
+
+**Type**: new-article  
+**Link**: [[beloved-void]]
+
+---
+
 ### 2026-11-14: Does Crying Help? Your Last Cry Can't Tell You
 
 In a 37-country survey, over 70% said crying generally makes them feel better; asked about their last cry, only half reported feeling better. A new void: from inside, a crier cannot tell being helped from recovering from crying's own low.
@@ -211,16 +220,6 @@ Neil Levy argues blame requires consciousness of what makes an act wrong, but he
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2113905849085157864  
 **Link**: [[consciousness-and-the-epistemic-condition-on-responsibility]]
-
----
-
-### 2026-10-23: When Does a Model's Chain of Thought Count as Evidence?
-
-Can a model's chain of thought be read like a think-aloud report? Only by an analogy that breaks in four places. A trace is evidence of what a model used only if the answer depends on it and interpretability checks agree. It is silent on AI experience.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2113562657039028347  
-**Link**: [[chain-of-thought-as-verbal-protocol]]
 
 ---
 
