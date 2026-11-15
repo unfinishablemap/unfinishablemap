@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 19:35:17+00:00
+ai_modified: 2026-11-15 20:10:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 19:35:17+00:00
+lastmod: 2026-11-15 20:10:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T20:10:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [active-reboot](/concepts/active-reboot/)
+- **Selection**: `deep_review.py next` returned `topics/clinical-dissociation-as-systematic-evidence`; it and the next nine candidates each have an open todo entry naming them, so the first clean candidate was taken.
+- **Word count**: 3308 → 3449 (+141; concepts hard gate 3500)
+- **Critical issues addressed**: 6 (lead claimed three uninvestigated transitions "all show" the signature; Stone et al. 2025 credited with a brain-area finding a behavioural study cannot make; neural inertia called "passive" on the authority of a review that calls it "an active process"; Onoda, Breyton and Van Maldegem cited jointly for a ketamine/REM result only two bear on; tenet section charged a cost to production models that falls on passive-recovery models; "disconnected consciousness during emergence is common" unsupported by Montupil 2023)
+- **Medium issues addressed**: 5 (Lewis 2018 endpoint is behaviourally defined; Redinbaugh 2020 species and manipulation; molecular precedence now sourced to Hu et al.; "prepared deterministically" softened and Stone's own classical account reported; two "load-bearing" intensifiers)
+- **Enhancements made**: 2
+- **Reasoning modes**: engagement with production models: Mode Three (the production reading is stated as standing; the previous text claimed a cost the evidence does not impose). Engagement with passive-recovery models: Mode One, on Friedman's and Hu's own data.
+- **Verified in raw source**: PubMed records for all 18 external references; PMC full text for Stone 2025, Onoda 2025, Breyton 2025, Goldfine 2013, Mashour 2024, Lewis 2018, Montupil 2023. Not verified: Hu et al. full text (paywalled; two-class grouping rests on an earlier review's secondary source).
+- **Output**: [deep-review-2026-11-15-active-reboot](/reviews/deep-review-2026-11-15-active-reboot/)
 
 ## 2026-11-15T19:35:17+00:00 - refine-draft
 - **Status**: Success
