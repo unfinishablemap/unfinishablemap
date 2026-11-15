@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Given 100+ pre-date measures of traits and preferences, models partly predicted how much people desire and are desired, but not the pair-specific part of initial desire. New void: why this one, and can a lover tell found perfections from projected ones?
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2121880965140144631  
 **Link**: [beloved-void](/voids/beloved-void/)
 
 ---
