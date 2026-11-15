@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T18:07:47+00:00
+ai_modified: 2026-11-15T18:19:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T18:19:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/agency-void]] and [[voids/source-attribution-void]] (two-file task)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted source-fidelity fix)
+- **Changes**: Wegner & Wheatley 1999 (I-Spy) result scoped on both pages to what [[reviews/deep-review-2026-11-15-phenomenology-vs-function-axis]] recorded from the full text: priority, consistency and exclusivity are the theory's criteria; I-Spy manipulated priority only; confederate-forced stops were rated more intended when a word naming the target came just beforehand. `agency-void` Attribution layer: removed "we feel authorship regardless of whether we caused the act" and the claim that all three criteria were arranged; alien hand kept as Wegner 2002's claim (not checked at source). `source-attribution-void` Confabulatory Layer: removed "subjects experience having willed an action they did not perform"; criteria marked as the authors' argument; the finding the void relies on restated as a timing cue raising rated intention for an act subjects did not cause (was "dissociable from any underlying causal fact"). Map position unchanged: a faulty attribution system can coexist with genuine causal influence.
+- **Word count**: agency-void 3295 → 3295; source-attribution-void 3032 → 3032 (net zero; both already over the voids hard gate of 3000, not a condense)
+- **Engagement classification**: Wegner: Mode Three on both pages (diagnosis borrowed, eliminativist conclusion declined at the framework boundary; no refutation claimed)
+- **Published**: yes
 
 ## 2026-11-15T18:07:47+00:00 - deep-review
 - **Status**: Success

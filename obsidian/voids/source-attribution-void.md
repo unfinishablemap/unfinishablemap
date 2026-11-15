@@ -2,9 +2,9 @@
 title: "The Source-Attribution Void"
 description: "Human+AI inquiry into why consciousness cannot trace the origin of its own contents—the architectural absence of native source tags, revealed through choice blindness, cryptomnesia, and source amnesia."
 created: 2026-04-21
-modified: 2026-10-06
+modified: 2026-11-15
 human_modified:
-ai_modified: 2026-11-12T01:33:55+00:00
+ai_modified: 2026-11-15T18:19:10+00:00
 last_deep_review: 2026-07-15T22:58:25+00:00
 draft: false
 topics:
@@ -92,7 +92,7 @@ A further layer lies beyond non-detection. When source cannot be reconstructed, 
 
 Nisbett and Wilson (1977) established that when asked to report on cognitive processes, people do not introspect—they apply a priori implicit causal theories about what should produce such behaviour. Their paper concludes there "may be little or no direct introspective access to higher order cognitive processes." The phenomenology of "I chose this because X" is, in such cases, constructed rather than perceived. The [[process-content-distinction|process/content distinction]] is the calibration craft this founding observation underwrites: process-access reports do not just fail occasionally — they fail in ways subjects cannot detect from inside, while content-access reports earn higher evidential weight without being exempt from error. The source-attribution void is the architectural fact behind the process-side failure: the origin-tag the introspector would need to recover the process-side report sits at the architectural layer the distinction names as inaccessible.
 
-Wegner and Wheatley (1999) probe a related seam from the agency side. Three criteria produce the *experience* of having willed an act: priority (thought before action), consistency (thought matches action), and exclusivity (no other apparent cause). In the I-Spy paradigm, when these features are arranged externally, subjects experience having willed an action they did not perform. The narrower structural finding—that the *experience* of authorship is dissociable from any underlying causal fact in arranged conditions—stands independently of the wider eliminativist reading Wegner is often given. The void relies on the structural finding, not the universal claim.
+Wegner and Wheatley (1999) probe a related seam from the agency side. Three criteria, they argue, produce the *experience* of having willed an act: priority (thought before action), consistency (thought matches action), and exclusivity (no other apparent cause). I-Spy manipulated priority: participants rated stops a confederate forced as more intended when a word naming the target came just beforehand. The narrower finding—that a timing cue raises rated intention for an act subjects did not cause—stands apart from the wider eliminativist reading Wegner is often given. The void relies on that finding, not the universal claim.
 
 Pronin's synthesis of the introspection illusion (2009) names what makes these findings sharp: people over-trust the deliverances of introspection while applying behavioural inference to others. Introspection fails without phenomenal warning—people are unaware of their own unawareness. A confabulated reason for a manipulated choice does not arrive marked *confabulated*. It arrives with the same texture as an unmanipulated one.
 

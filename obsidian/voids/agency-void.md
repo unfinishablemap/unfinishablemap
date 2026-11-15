@@ -2,9 +2,9 @@
 title: "The Agency Void"
 description: "Consciousness cannot control most of its own states, and cannot verify whether it causes anything at all—two conjoined limits at the heart of conscious agency."
 created: 2026-02-25
-modified: 2026-05-11
+modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-10-21T21:23:32+00:00
+ai_modified: 2026-11-15T18:19:10+00:00
 last_deep_review: 2026-07-19T11:31:23+00:00
 draft: false
 topics:
@@ -53,7 +53,7 @@ related_articles:
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-04-27
 last_curated: null
 coalesced_from:
@@ -121,7 +121,7 @@ The same structure catches this article's argument: "consciousness cannot verify
 
 **Exclusion.** Kim's causal exclusion argument: if [[causal-closure|causal closure]] obtains, mental causation is either redundant or illusory. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet seeks room at quantum indeterminacies—but verifying intervention would require consciousness observing itself biasing quantum outcomes, returning to the circularity.
 
-**Attribution.** Wegner's *I-Spy paradigm* (Wegner & Wheatley 1999; Wegner 2002) operationalises a function-phenomenology dissociation: under arranged priority, consistency, and exclusivity, the *experience* of willing diverges from the underlying causation—we feel authorship regardless of whether we caused the act, and lose it under alien hand syndrome. The Map borrows the diagnosis while declining the conclusion: under [[tenets#^bidirectional-interaction|Bidirectional Interaction]], a faulty attribution system can coexist with genuine causal influence.
+**Attribution.** Wegner ties the *experience* of willing to a thought's priority, consistency and exclusivity. *I-Spy* (Wegner & Wheatley 1999) manipulated priority: stops a confederate forced were rated more intended when a word naming the target came just before. Wegner (2002): alien hand syndrome removes that experience. The Map borrows the diagnosis, not the conclusion: under [[tenets#^bidirectional-interaction|Bidirectional Interaction]], a faulty attribution system can coexist with genuine causal influence.
 
 **Perspective.** Owen (2020): consciousness appears causally efficacious from the first-person perspective and irrelevant from the third, with no shared formalism to adjudicate between the verdicts.
 
