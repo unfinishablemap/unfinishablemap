@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T20:10:56+00:00
+ai_modified: 2026-11-15T20:19:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T20:19:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted source-fidelity fixes carried from the 2026-11-15 deep review of `concepts/active-reboot`)
+- **Changes**: (1) Stone et al. 2025: removed "No single brain area controlled emergence ... consciousness reconstitutes through distributed effects" (a righting-reflex study with no neural data); the paragraph now names isoflurane, says the study is behavioural and marks any network-level account of the variability as interpretation. (2) The three-for-one citation for integration measures "staying high in ... ketamine sedation and REM" narrowed to the two ketamine papers, each with its own result (Breyton et al. 2025: spontaneous-EEG fluidity groups with wakefulness in a fifteen-subject dataset; Van Maldegem et al. 2025: connectome-harmonic signature aligns with psychedelic states, not propofol sedation); the Onoda et al. 2025 citation dropped from the sentence (propofol and sleep study, no ketamine arm), leaving its References entry uncited in the body. (3) "Disconnected consciousness during emergence supports this" now cites Montupil et al. 2023 for disconnected consciousness under anaesthesia and marks the widening order as expected. (4) Dependency found in the preceding section: "is common during emergence, showing the phenomenal channel reopens before access channels reconnect" carried the same unsourced premise; rewritten to the documented state (cited) plus the reopening order as the model's expectation, with the mirror-of-induction sentence made conditional. Funded by trimming a restated gloss, a recap of two induction facts stated earlier in the article, and three redundant phrases; no qualifier, objection-answering sentence or cited fact cut. The existing dissociation-not-timing qualifier and the Lewis 2018 precedence anchor are unchanged.
+- **Word count**: 3991 → 3989 (topics hard gate 4000)
+- **Reasoning modes**: no named-opponent reply edited; the production-model parity statements in the lead and tenet section are untouched.
+- **Not done**: Lewis et al. 2018 "return of consciousness" is behaviourally defined (the deep review's medium item); not changed here.
+- **Published**: yes
 
 ## 2026-11-15T20:10:56+00:00 - deep-review
 - **Status**: Success
