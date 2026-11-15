@@ -598,9 +598,9 @@
   prompt_summary: Hostile-referee audit of topics/personal-identity (3.1 Pro, Deep
     Research)
   target_filename: outer-review-2026-11-15-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-15T05:23:42.932711+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing the article "Personal

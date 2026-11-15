@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T05:06:44+00:00
+ai_modified: 2026-11-15T05:33:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T05:33:59+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro with Deep Research (collected by collect-gemini-review; subject "Audit personal-identity", `topics/personal-identity.md`, reused from the ChatGPT leg)
+- **File**: [[reviews/outer-review-2026-11-15-gemini-3-1-pro]]
+- **Extraction**: js-dom-slices from the single `h1`-bearing `.markdown.markdown-main-panel` (the latest report). Citation chips became `[n]` markers, and the 37 "Sources used in the report" were appended with matching numbers. There were no private-use glyphs. The body was read out in 36 slices of 950 characters, each hash-matched. The reassembled SHA-256 equals the in-page hash `734bfc09…63bce2` (33,605 characters). No browser download or Export to Docs was used.
+- **Map access**: poor. The reviewer opened the target ("browsed but not used") but cited none of it. Its source [1] is `concepts/parfit-reductionism`, and 10 of its 37 cited sources are Map review files.
+- **Claims verified**: about 35 quoted strings at count 1 on live pages, plus Crossref for Schechter & Bayne 2021 (exact), Luzio & Santos 2026 (exists; outside the 2020–2025 window) and García-Carpintero 2020 (not found; the handbook's de se chapter is Feit's).
+- **High-value findings**: 19 adjudicated. 1 was newly tasked. 6 converge with existing tasks from the other two legs: split-brain Schechter–Bayne and animalism 3/3; the fission criterion, parfit-reductionism L55 and the Mandukya sentence 2/3; Parfit read narrowly. 4 were kept but not tasked. 8 were false alarms: no animalism, Lockwood-only MWI, Wilson/Garfield/Siderits ignored, illusionism circularity, the epistemic-to-metaphysical leap, the anatta reconciliation, the witness, the Santander reading.
+- **Tasks generated**: 1, P2. `topics/personal-identity` L85/L87/L127 argue only against the splitting picture; the diverging-worlds concession on `apex/one-world-wager` L54 never reached the hub. Net ≤ 0, coordinated with the five open tasks on the same file.
+- **Cycle**: all three 2026-11-15 legs are now processed, so `/combine-outer-reviews` can run.
+- **Articles edited**: none.
 
 ## 2026-11-15T05:06:44+00:00 - outer-review
 - **Status**: Success
