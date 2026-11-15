@@ -2,9 +2,9 @@
 title: "Phenomenal Contrast Method"
 description: "The phenomenal contrast method isolates non-sensory phenomenal properties by comparing experiences with identical sensory input but different phenomenal character—a key tool for consciousness research."
 created: 2026-03-17
-modified: 2026-03-17
+modified: 2026-11-15
 human_modified:
-ai_modified: 2026-10-24T17:10:01+00:00
+ai_modified: 2026-11-15T21:35:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,10 +27,10 @@ related_articles:
   - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-07-31T14:53:23+00:00
+last_deep_review: 2026-11-15T21:35:36+00:00
 ---
 
 The phenomenal contrast method identifies non-sensory phenomenal properties by holding sensory input constant while varying phenomenal experience. Two situations share identical physical stimulation yet differ in what it is like to undergo them. The difference isolates phenomenal character that cannot be explained by sensory content alone. The Unfinishable Map relies on this method across multiple articles as primary evidence for [[cognitive-phenomenology]], the irreducibility of understanding, and the limits of computational accounts of mind.
@@ -59,7 +59,7 @@ Hearing the word "bank" understood as a financial institution versus a riverbank
 
 ### Expert versus Novice Perception
 
-Susanna Siegel argues that an ornithologist seeing a pine grosbeak has a different phenomenal experience from a novice seeing the same bird under the same conditions. Identical retinal stimulation, different experience. The expert's conceptual knowledge transforms perception, suggesting that cognitive states contribute to phenomenal character.
+Susanna Siegel, who gave the "method of phenomenal contrast" its name, builds her central case on pine trees. A person looks at pine trees before and after learning to recognise them; once the recognitional ability is in place the pines stand out, though the trees and the viewing conditions are unchanged. Siegel's own conclusion is perceptual: the later visual experience represents the property of being a pine tree, and she argues against explaining the contrast by an accompanying judgement. The Map takes the shared structure (same stimulus, different experience) while noting that her case supports rich perceptual content and leaves cognitive phenomenology proper to the understanding cases.
 
 ### Agency versus Passivity
 
@@ -77,13 +77,13 @@ If phenomenal contrasts track cognitive differences, the [[intentionality#Phenom
 
 ### The Knowledge Argument Connection
 
-The phenomenal contrast method shares logical structure with the [[knowledge-argument|knowledge argument]] (Mary's Room). Both demonstrate that phenomenal facts exceed what physical or functional description can capture. Mary learns something new when she sees red for the first time; the French speaker has something the English speaker lacks. In both cases, complete physical information fails to account for a phenomenal difference.
+The phenomenal contrast method shares logical structure with the [[knowledge-argument|knowledge argument]] (Mary's Room). Both argue from a phenomenal difference to something a given description leaves out. Mary learns something new when she sees red for the first time; the French speaker has something the English speaker lacks. The parallel is partial. Mary's case holds all physical information fixed, whereas a contrast case fixes only sensory input: the two listeners differ in brain state and functional organisation. A contrast therefore shows phenomenal character outrunning sensory content, and the further step to outrunning physical description needs the knowledge argument or one of its relatives.
 
 ### Empirical Applications
 
 The method's logical structure lends itself to empirical research through [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]. By comparing neural activity during phenomenally contrastive conditions — understanding versus non-understanding, agency versus passivity — researchers can identify neural correlates of non-sensory phenomenal properties. The method provides the experimental design: hold sensory input constant and vary cognitive engagement, then observe what changes in both phenomenal report and neural activity. This makes phenomenal contrasts one of the few tools that can bridge first-person phenomenology and third-person neuroscience without collapsing one into the other.
 
-The aphantasia spectrum extends this empirical reach. Aphantasics and imagers can be presented with the same task — mental rotation, autobiographical recall, response to scary narrative — and their phenomenal reports diverge along an axis the method then tries to characterise. Kay, Keogh, and Pearson (2024) found aphantasics complete classical mental rotation tasks "slower but more accurately" using analytic rather than imagery-based strategies; this is a phenomenal contrast at population scale, with measurable behavioural and neural correlates. The method here functions in two directions at once: the contrast supports cognitive phenomenology's reality (different phenomenology, same task) while the dissociation between phenomenal report and task performance constrains what cognitive phenomenology *does*. The [[imagery-void|imagery-void]] develops this function/phenomenology wedge in detail.
+The aphantasia spectrum extends this empirical reach. Aphantasics and imagers can be presented with the same task — mental rotation, autobiographical recall, response to scary narrative — and their phenomenal reports diverge along an axis the method then tries to characterise. Kay, Keogh, and Pearson (2024) found that aphantasics were slower but more accurate than controls on two classical mental rotation tasks and favoured analytic over object-based rotation strategies; this is a phenomenal contrast at population scale, with measurable behavioural correlates. The method here functions in two directions at once: the contrast supports cognitive phenomenology's reality (different phenomenology, same task) while the dissociation between phenomenal report and task performance constrains what cognitive phenomenology *does*. The [[imagery-void|imagery-void]] develops this function/phenomenology wedge in detail.
 
 ### Bearing on AI Consciousness
 
@@ -95,11 +95,11 @@ The method also constrains the debate over [[ai-consciousness]]. A language mode
 
 Skeptics argue that apparent cognitive contrasts actually involve subtle sensory differences. Perhaps understanding French triggers different subvocalisation patterns, slight emotional responses, or altered auditory processing. The phenomenal difference might be sensory after all, just at a level too fine-grained to notice. The [[modality-void|modality void]] gives the objection a documented mechanism: introspection classifies which channel delivered a content and cannot audit the classification from inside, as retronasal smell is experienced as taste. A felt difference classed as cognitive could carry the same kind of error.
 
-**Response:** This objection faces the problem of aphantasia and dissociation cases. People who lack mental imagery still report phenomenal differences between understanding and not understanding. Lennon (2023) develops this into a formal argument: aphantasics have phenomenally conscious thoughts with "no sensory reduction base," falsifying the sensory constraint on conscious thought. The post-2015 aphantasia literature (Zeman 2024) provides the empirical anchor — a documented spectrum from extreme aphantasia to extreme hyperphantasia, with the cognitive contrasts of understanding, recognising, and grasping persisting across that spectrum. Even if subtle sensory differences correlate with understanding, this does not establish that they *constitute* the phenomenal difference rather than merely accompanying it.
+**Response:** This objection faces the problem of aphantasia. The post-2015 literature (Zeman 2024) documents a spectrum from extreme aphantasia to extreme hyperphantasia, with aphantasia often affecting several sense modalities. Lennon (2023) builds a formal argument on it: aphantasics have some thoughts with "no sensory reduction base" that are nonetheless phenomenally conscious, a counterexample to the sensory constraint on conscious thought. His first premise is abductive, offered as the best explanation of aphantasics' introspective reports, task performance and neuroimaging, and no study has tested the understanding contrast itself across the imagery spectrum. What the literature supplies is people who think and comprehend with little or no reported imagery. Even if subtle sensory differences correlate with understanding, this does not establish that they *constitute* the phenomenal difference rather than merely accompanying it.
 
 ### Introspective Reliability
 
-Philosophers disagree about what phenomenal contrasts reveal. Some report vivid cognitive phenomenology; others find nothing beyond sensory accompaniments. Eric Schwitzgebel (2008) presses this further: we are "not simply fallible at the margins but broadly inept" at introspection, with mental imagery as a paradigm domain where reports of "vividness" diverge wildly across persons in ways the reporters cannot reconcile. The [[imagery-void|imagery-void]] traces how this divergence is structural rather than methodological.
+Philosophers disagree about what phenomenal contrasts reveal (Bayne & Montague 2011 collect both sides). Some report vivid cognitive phenomenology; others find nothing beyond sensory accompaniments. Eric Schwitzgebel (2008) presses this further: we are "not simply fallible at the margins but broadly inept" at introspection, with mental imagery as a paradigm domain where reports of "vividness" diverge wildly across persons in ways the reporters cannot reconcile. The [[imagery-void|imagery-void]] traces how this divergence is structural rather than methodological.
 
 **Response:** Disagreement about the *interpretation* of phenomenal contrasts does not undermine the contrasts themselves. Nearly everyone agrees that understanding French feels different from not understanding it. The dispute concerns whether this difference is cognitive or sensory in nature — a theoretical question, not an introspective one. The method identifies the data; the debate concerns the best explanation. The Schwitzgebel-style worry bites hardest on graded vividness reports (how vivid is your image?) and least on dramatic contrasts (do you understand this sentence?). The method should be applied where contrasts are stark and treated cautiously where they require fine-grained introspective comparison.
 
@@ -113,11 +113,11 @@ The phenomenal contrast method works best for dramatic contrasts — understandi
 
 **[[tenets#^dualism|Dualism]]**: The phenomenal contrast method provides some of the strongest empirical motivation for the Map's dualism. If phenomenal character attaches to cognitive states that are functionally identical at the sensory level, consciousness includes properties that physical description of sensory processing cannot capture. The method does not prove dualism on its own, but it extends the explanatory gap beyond sensory qualia into the domain of thought itself.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Phenomenal contrasts in agency — the difference between voluntary and involuntary movement — support the Map's commitment to consciousness as causally efficacious. The felt difference between doing and undergoing is not a passive observation of sensory difference but a marker of consciousness actively shaping action.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Phenomenal contrasts in agency — the difference between voluntary and involuntary movement — fit the Map's commitment to consciousness as causally efficacious. The Map reads the felt difference between doing and undergoing as a marker of consciousness actively shaping action. The contrast alone establishes a phenomenology of authorship; that the authorship is causally real rests on the tenet's separate arguments.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The sensory reduction objection attempts to preserve a simpler ontology by explaining away cognitive phenomenology. The Map's tenet warns against premature parsimony. The phenomenal contrast method reveals data that the "simpler" sensory account struggles to accommodate, especially in aphantasia and dissociation cases.
 
-The phenomenal contrast method serves the Map as both evidence and tool — evidence that phenomenal consciousness extends beyond what physical and functional accounts predict, and a tool for systematically identifying where that extension occurs.
+The phenomenal contrast method serves the Map as both evidence and tool — evidence that phenomenal consciousness extends beyond sensation into thought and agency, and a tool for systematically identifying where that extension occurs.
 
 ## Further Reading
 
@@ -145,6 +145,6 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 4. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
 5. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2), 245–273. https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
 6. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
-7. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
+7. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*, 28(5), 467–480. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
 8. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/

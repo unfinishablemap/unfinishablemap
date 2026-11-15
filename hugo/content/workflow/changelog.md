@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-15T21:36:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/)
+- **Selection**: 14th candidate from `deep_review.py`; the first 13 are named by pending tasks or were on the driver's skip list
+- **Word count**: 2084 → 2237 (+153; concepts soft 2,500, hard 3,500)
+- **Critical issues addressed**: 5 (Siegel "pine grosbeak / ornithologist" replaced by her pine-tree case; Siegel's perceptual conclusion no longer presented as support for cognitive phenomenology; Kay et al. 2024 non-verbatim quotation de-quoted and "neural correlates" removed, the paper being behavioural only; Zeman 2024 no longer cited for cognitive contrasts "persisting across the spectrum", which no study tests; knowledge-argument parallel re-scoped, since a contrast fixes sensory input and not physical state)
+- **Medium issues addressed**: 2 (Bidirectional paragraph marks efficacy as the Map's reading; orphan reference Bayne & Montague 2011 now cited)
+- **Enhancements made**: 1 (Siegel credited with naming the method)
+- **Engagement classification**: functionalism Mode Two then boundary-marking (unchanged); Schwitzgebel Mode Three (unchanged); sensory-constraint sceptic Mode One resting on Lennon's abductive premise, now stated as such
+- **Unverified**: Lennon chapter text for "no sensory reduction base" (403 again; phrase is verbatim in Lennon's own 2022 précis)
+- **Output**: [deep-review-2026-11-15-phenomenal-contrast-method](/reviews/deep-review-2026-11-15-phenomenal-contrast-method/)
+
 ## 2026-11-15T21:17:50+00:00 - refine-draft
 - **Status**: Success
 - **File**: [reasons-responsiveness](/concepts/reasons-responsiveness/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) (TWO FILES)
