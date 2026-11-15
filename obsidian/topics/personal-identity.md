@@ -2,9 +2,9 @@
 title: "Personal Identity"
 description: "What makes you *you* across time? The Map emphasizes indexical identity—*this* conscious being matters, not just the pattern it instantiates."
 created: 2026-01-08
-modified: 2026-11-06
+modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-11-06T03:39:42+00:00
+ai_modified: 2026-11-15T06:22:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -74,7 +74,7 @@ Recent phenomenological work—most prominently [[self-and-self-consciousness#Mi
 
 ## Parfit's Challenge
 
-Derek Parfit argued that personal identity isn't what matters—psychological connectedness and continuity are, regardless of whether these amount to identity. Imagine teletransportation: your body is scanned, destroyed, and recreated with all your memories. Parfit says "Is that person you?" may have no determinate answer—and it doesn't matter. On [[parfit-reductionism|his "reductionist" view]], personal identity consists in nothing over and above bodily and psychological continuity—no soul, no ego, just brain, body, and interrelated mental events. The dedicated [[parfit-reductionism]] article develops the Map's critique: patterns don't make choices (consciousnesses do), zombie conceivability shows identity involves something beyond continuity, and causal history gives content to indexical identity.
+Derek Parfit argued that personal identity isn't what matters—psychological connectedness and continuity are, regardless of whether these amount to identity. Imagine teletransportation: your body is scanned, destroyed, and recreated with all your memories. Parfit says "Is that person you?" may have no determinate answer—and it doesn't matter. On [[parfit-reductionism|his "reductionist" view]], personal identity consists in nothing over and above bodily and psychological continuity—no soul, no ego, just brain, body, and interrelated mental events. The [[parfit-reductionism]] article develops the Map's critique: patterns don't make choices (consciousnesses do), zombie conceivability at most opens logical space for [[haecceity]], and causal history gives content to indexical identity.
 
 ## Why the Map Disagrees
 
@@ -88,7 +88,7 @@ This dissolution is what the Map rejects. Its response is not to answer "which c
 
 ### Arguing for Haecceity
 
-The Map claims there's a fact about which one is you—that you are not interchangeable with a replica sharing your psychology. But this is precisely what Parfit denies, so it cannot be assumed.
+The Map claims a further fact always settles which one is you, and that a replica's psychological continuity with you does not exhaust what matters. Parfit denies both, so neither can be assumed.
 
 The starting point is phenomenological: introspection reveals what seems like irreducible particularity. When I consider whether I would survive teletransportation, the question doesn't feel empty. But seeming doesn't guarantee being—the phenomenological claim (haecceity *seems* real) is distinct from the metaphysical claim (haecceity exists), a gap the seeming alone cannot bridge. Four considerations bear on it:
 
@@ -174,7 +174,7 @@ These conclusions are conditional on the framework—they follow *if* consciousn
 
 ## The Meaning Connection
 
-Personal identity matters for life's meaning. The [[meaning-of-life|meaning of life]] article argues that meaning is grounded in consciousness—in the intrinsic significance of conscious experience. But whose consciousness? If Parfit were right and you're interchangeable with any replica sharing your psychology, your particular existence seems less significant—patterns are repeatable, and so would you be. If the Map is right and *you* are this unrepeatable conscious being, the experiences that constitute your life are *yours* in a way no replica could replace.
+Personal identity matters for life's meaning. The [[meaning-of-life|meaning of life]] article argues that meaning is grounded in consciousness—in the intrinsic significance of conscious experience. But whose consciousness? If Parfit were right that what matters is psychological continuity, which a replica can bear even where identity fails, your particular existence seems less significant. If the Map is right that *you*, this unrepeatable conscious being, matter beyond that continuity, your life's experiences are *yours* in a way no replica could replace.
 
 ## What Would Challenge This View?
 

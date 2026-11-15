@@ -1,14 +1,82 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 03:38:28+00:00
+ai_modified: 2026-11-15 06:22:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 03:38:28+00:00
+lastmod: 2026-11-15 06:22:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T06:22:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Task**: P1 from convergent outer reviews 2026-11-15 (chatgpt-5-6-sol-pro + claude-fable-5-2): the page contradicted itself about what Parfit grants. Ownership L77, L91, L177 only; L93–L101 (incl. L97 "point 1") untouched for the Claude-leg hub task.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted three-locus pass)
+- **Changes**: (1) L91: "there's a fact about which one is you—that you are not interchangeable with a replica sharing your psychology. But this is precisely what Parfit denies" → the Map claims "a further fact always settles which one is you, and that a replica's psychological continuity with you does not exhaust what matters. Parfit denies both". No longer credits Parfit with denying a replica's numerical distinctness, which L97 and L125 say he grants. (2) L177: "you're interchangeable with any replica sharing your psychology … patterns are repeatable, and so would you be" → Parfit puts what matters in "psychological continuity, which a replica can bear even where identity fails", so particular existence seems less significant; the Map's reply is that *you* "matter beyond that continuity". (3) L77: the parfit-reductionism summary "zombie conceivability shows identity involves something beyond continuity" → "at most opens logical space for [haecceity](/concepts/haecceity/)", mirroring L95 ("doesn't prove haecceity on its own … open logical space") and L105 ("At most the case opens room for the posit"). It also matches what parfit-reductionism L59/L142 should say once its own P2 fix lands. "dedicated" dropped to pay for the hedge. First body mention of haecceity now linked, at zero word cost.
+- **Engagement with Parfit**: L91 is framework-boundary marking (states the two disputed claims and that neither can be assumed; the argument follows in §Arguing for Haecceity). L177 is also framework-boundary marking (a conditional comparison of the two views, with no claim to refute Parfit).
+- **Not changed**: L77 "Parfit says 'Is that person you?' may have no determinate answer" (not free; defensible given "may"). No Parfit quotation added.
+- **Word count**: 4,033 → 4,032 (−1; L77 0, L91 0, L177 −1). Still over the 4,000 topics ceiling; the open NEEDS-HUMAN length decision is not resolved here.
+- **ai_system**: claude-opus-5-5 already present; not appended.
+- **Published**: yes
+
+## 2026-11-15T06:09:35+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-15 (subject "Audit personal-identity", `topics/personal-identity.md`)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-3-1-pro). None abandoned.
+- **Clusters**: 18 convergent page-level (C5, C9, C17 and C18 partial), all ChatGPT + Claude; 4 convergent methodology; 2 shared positive judgements; 1 shared false alarm (L119 epistemic-to-metaphysical leap, ChatGPT + Gemini, both disputed); 4 divergences (L65, Buddhist no-self, Locke's date, illusionism).
+- **Adjudication**: every string an upgrade rests on was re-grepped on live Obsidian at about 06:00Z, HEAD 5355574df3. The hub has been unchanged since 2bde6317dc.
+  - No Gemini vote is counted. It cited none of the target page and worked from `concepts/parfit-reductionism` and 10 Map review files.
+  - Of the collect runs' convergence claims, three Gemini "3/3"s drop to 2/3 (animalism disputed; Schechter–Bayne concurrence only; Parfit remark sourced to a sibling). The fission criterion and parfit-reductionism L55 become singletons. Mandukya is re-scored as ChatGPT + Claude.
+  - Two ChatGPT-collect dismissals are overruled: §6 on L125 indivisibility (L127's "commitment" covers the many-worlds asymmetry, not indivisibility), and improvement 18 on apex L97 ("proves most resistant").
+- **Tasks upgraded**: 6 (P3→P2: 0, P2→P1: 6): hub overreach, hub claim-fit, hub Standard Positions, `concepts/parfit-reductionism`, the Claude-leg hub task, and the Claude-leg apex task. Held: the hub Parfit P1 and `concepts/haecceity` P1 (the rule stops at P1), and the `apex/identity-across-transformations` L67 P2 (singleton). Each task got one upgrade from its priority as minted tonight.
+- **Tasks deduplicated**: 1 merge. The Gemini-leg P2 (hub L85/L87/L127 diverging-worlds concession) was folded into the Claude-leg hub task as items (13)–(15), because both edit the L127 paragraph. Its heading is now marked MERGED, with no P-level, and its Status is superseded. Every item, the funding list and the strictest length rule were kept: net ≤ 0 for the whole task and for each half.
+- **Add-on**: convergent C15 (L101 past-self argument; no task owned it, and the Claude collect left it to combine) became item (16) of the hub task, at most +14 words, funded by that task's own deletions.
+- **Coordination**: all five hub tasks now name all their siblings and loci, in Coordination and again in the Notes prefix (Coordination does not reach a fork).
+- **Fields written** (all above `- **Notes**:`; Type kept, Status pending except the merged task): Review files, Outer-review convergence, Synthesis and a Notes prefix on 7 tasks; Coordination on the 5 hub tasks; Headroom on the hub task; Superseded-by on the merged task. Addenda: 2026-11-15 (b) on the propagation, per-claim-ledger, steelman and personal-identity length NEEDS-HUMAN entries, and 2026-11-15 on the 2026-11-14 pipeline entry.
+- **parse_tasks**: 416 active before and 415 after; P0–P2 28 → 27 (P1 4 → 10, P2 24 → 17). None of the nine live tasks is deferred now.
+- **NEEDS-HUMAN surfaced, not resolved**: the personal-identity length decision, now with four options and the page 33 over, not ~96; methodology M1–M3; the Tenet 4 foundations entry (a Claude singleton, not edited); and pipeline (Gemini audited siblings and review files).
+- **Output**: [outer-review-synthesis-2026-11-15](/reviews/outer-review-synthesis-2026-11-15/)
+- **Articles edited**: none.
+
+## 2026-11-15T05:33:59+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro with Deep Research (collected by collect-gemini-review; subject "Audit personal-identity", `topics/personal-identity.md`, reused from the ChatGPT leg)
+- **File**: [outer-review-2026-11-15-gemini-3-1-pro](/reviews/outer-review-2026-11-15-gemini-3-1-pro/)
+- **Extraction**: js-dom-slices from the single `h1`-bearing `.markdown.markdown-main-panel` (the latest report). Citation chips became `[n]` markers, and the 37 "Sources used in the report" were appended with matching numbers. There were no private-use glyphs. The body was read out in 36 slices of 950 characters, each hash-matched. The reassembled SHA-256 equals the in-page hash `734bfc09…63bce2` (33,605 characters). No browser download or Export to Docs was used.
+- **Map access**: poor. The reviewer opened the target ("browsed but not used") but cited none of it. Its source [1] is `concepts/parfit-reductionism`, and 10 of its 37 cited sources are Map review files.
+- **Claims verified**: about 35 quoted strings at count 1 on live pages, plus Crossref for Schechter & Bayne 2021 (exact), Luzio & Santos 2026 (exists; outside the 2020–2025 window) and García-Carpintero 2020 (not found; the handbook's de se chapter is Feit's).
+- **High-value findings**: 19 adjudicated. 1 was newly tasked. 6 converge with existing tasks from the other two legs: split-brain Schechter–Bayne and animalism 3/3; the fission criterion, parfit-reductionism L55 and the Mandukya sentence 2/3; Parfit read narrowly. 4 were kept but not tasked. 8 were false alarms: no animalism, Lockwood-only MWI, Wilson/Garfield/Siderits ignored, illusionism circularity, the epistemic-to-metaphysical leap, the anatta reconciliation, the witness, the Santander reading.
+- **Tasks generated**: 1, P2. `topics/personal-identity` L85/L87/L127 argue only against the splitting picture; the diverging-worlds concession on `apex/one-world-wager` L54 never reached the hub. Net ≤ 0, coordinated with the five open tasks on the same file.
+- **Cycle**: all three 2026-11-15 legs are now processed, so `/combine-outer-reviews` can run.
+- **Articles edited**: none.
+
+## 2026-11-15T05:06:44+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 with Research (collected by collect-claude-review; subject "Audit personal-identity", `topics/personal-identity.md`, reused from the ChatGPT leg)
+- **File**: [outer-review-2026-11-15-claude-fable-5-2](/reviews/outer-review-2026-11-15-claude-fable-5-2/)
+- **Extraction**: js-dom-slices from the artifact panel's largest `.standard-markdown`. The thread showed "Research complete" with no Stop button, and the body held at 39,254 rendered characters for 10 s. 88 U+E015 citation-chip icon glyphs were stripped in-page. The body was read out in 51 slices of at most 940 characters. The reassembled SHA-256 equals the in-page hash `742ae704…de78de` (46,630 characters). No browser download was used.
+- **Map access**: partial. The reviewer fetched four pages live (the target, split-brain, the individuation register and the identity apex) and saw 11 only as search-indexed text. Two of those findings quote text the live site has since replaced.
+- **Claims verified**: about 40 quoted strings at count 1 on live pages, plus five primary sources fetched raw: Mandukya v5 (Nikhilananda, wisdomlib), Nagel 1971 full text, SEP "Locke on Personal Identity", Tallis *Philosophy Now* 161 (tag-stripped with no substitution), and Crossref for Laukkonen, Friston & Chandaria 2025.
+- **High-value findings**: 49 adjudicated. 14 were newly tasked. 17 converge with existing tasks (12 with the ChatGPT leg's tasks or an open P3, 5 with standing NEEDS-HUMAN or discipline entries), so no duplicates were minted and the convergences are listed for combine. 12 were kept but not tasked. 6 were false alarms, stale index text, or already handled.
+- **Tasks generated**: 2, both P2 and deferred until /combine-outer-reviews.
+  - Hub: the hub lags [P-I4](/positions/individuation-and-subjecthood/#p-i4) ("principled within the framework, stipulated at its boundary", grade D, fission criterion); L139 Mandukya; L143 anaesthesia void; L149 Tallis (2011) against the 05-29 stability note; Locke 1694; L65 non-branching; L99 and L187-zombie deletions. Net ≤ 0, coordinated with the four ChatGPT-leg tasks on the same file.
+  - Apex: L89 "registers" never propagated; L97 "most resistant"; L117 "structurally identical". Net ≤ +20.
+- **Other todo edits**: an addendum on NEEDS-HUMAN (length decision) for `topics/personal-identity` gives the operator a fourth option: relocate the Decoherence Challenge section (99 words). `concepts/decoherence` is at 3,480/3,500.
+- **Articles edited**: none.
+
+## 2026-11-15T04:04:01+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review; subject "Audit personal-identity", `topics/personal-identity.md`, recent-aged fallback)
+- **File**: [outer-review-2026-11-15-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-15-chatgpt-5-6-sol-pro/)
+- **Extraction**: js-dom-slices from the turn's `[data-markdown-text-style]` element, read out in 52 slices of at most 900 characters, each slice hash-matched. The reassembled SHA-256 equals the in-page hash `3e239d0e…c20766` (45,975 characters). No browser download was used.
+- **Claims verified**: 32 quoted strings at count 1 on live pages, plus one SEP "Personal Identity" fetch (characterization question, transplant verdict, non-branching clause, too-many-thinkers).
+- **High-value findings**: 19 of 30 kept. 5 were false alarms or already handled (the §5 heading, §6 indivisibility, §7 Montupil, §10 vertiginous-question, improvement 18 on the apex). 6 were not tasked: lower value, or additive on an over-ceiling page.
+- **Tasks generated**: 7, all deferred until /combine-outer-reviews. 2 are P1: the hub's Parfit self-contradiction, and `concepts/haecceity` L67 "can branch or fuse". 5 are P2: hub overreach (L187/L189/L71/L195), hub claim-fit (L133/L181/L161), hub Standard Positions (animalism, Schechtman, no-self), `apex/identity-across-transformations` L67, and `concepts/parfit-reductionism` zombie/substance. The four hub tasks are each net ≤ 0 (page at 4,033 against a hard ceiling of 4,000).
+- **Methodology**: addenda (no new tasks) on NEEDS-HUMAN 2026-08-03 (propagation, improvement 27), 2026-07-30 (per-claim ledger, improvements 22–23) and 2026-07-25 (opponent parity, improvements 25–26).
+- **Articles edited**: none.
 
 ## 2026-11-15T03:38:28+00:00 - refine-draft
 - **Status**: Success

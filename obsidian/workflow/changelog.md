@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T06:09:35+00:00
+ai_modified: 2026-11-15T06:22:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T06:22:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/personal-identity]]
+- **Task**: P1 from convergent outer reviews 2026-11-15 (chatgpt-5-6-sol-pro + claude-fable-5-2): the page contradicted itself about what Parfit grants. Ownership L77, L91, L177 only; L93–L101 (incl. L97 "point 1") untouched for the Claude-leg hub task.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted three-locus pass)
+- **Changes**: (1) L91: "there's a fact about which one is you—that you are not interchangeable with a replica sharing your psychology. But this is precisely what Parfit denies" → the Map claims "a further fact always settles which one is you, and that a replica's psychological continuity with you does not exhaust what matters. Parfit denies both". No longer credits Parfit with denying a replica's numerical distinctness, which L97 and L125 say he grants. (2) L177: "you're interchangeable with any replica sharing your psychology … patterns are repeatable, and so would you be" → Parfit puts what matters in "psychological continuity, which a replica can bear even where identity fails", so particular existence seems less significant; the Map's reply is that *you* "matter beyond that continuity". (3) L77: the parfit-reductionism summary "zombie conceivability shows identity involves something beyond continuity" → "at most opens logical space for [[haecceity]]", mirroring L95 ("doesn't prove haecceity on its own … open logical space") and L105 ("At most the case opens room for the posit"). It also matches what parfit-reductionism L59/L142 should say once its own P2 fix lands. "dedicated" dropped to pay for the hedge. First body mention of haecceity now linked, at zero word cost.
+- **Engagement with Parfit**: L91 is framework-boundary marking (states the two disputed claims and that neither can be assumed; the argument follows in §Arguing for Haecceity). L177 is also framework-boundary marking (a conditional comparison of the two views, with no claim to refute Parfit).
+- **Not changed**: L77 "Parfit says 'Is that person you?' may have no determinate answer" (not free; defensible given "may"). No Parfit quotation added.
+- **Word count**: 4,033 → 4,032 (−1; L77 0, L91 0, L177 −1). Still over the 4,000 topics ceiling; the open NEEDS-HUMAN length decision is not resolved here.
+- **ai_system**: claude-opus-5-5 already present; not appended.
+- **Published**: yes
 
 ## 2026-11-15T06:09:35+00:00 - combine-outer-reviews
 - **Status**: Success
