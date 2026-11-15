@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 16:54:08+00:00
+ai_modified: 2026-11-15 17:19:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 16:54:08+00:00
+lastmod: 2026-11-15 17:19:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T17:19:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [sour-grapes-void](/voids/sour-grapes-void/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fixes from [pessimistic-2026-11-15-sour-grapes-void](/reviews/pessimistic-2026-11-15-sour-grapes-void/) Priority List 1-4 plus Issues 5 and 6)
+- **Word count**: 2856 → 2926 (+70; voids hard gate 3000 fires at >=, 73 left)
+- **Changes**: (1) §The Test Changes What It Tests: Elster's *x* restated as the thing wanted (adapted subject wants *x* and is not free not to do it; for the fox, going without the grapes), with his point that wanting what is out of reach counts against adaptation; "making the option available" became "opening the closed alternative" so the next sentence keeps a referent. Checked against the scanned Elster text (p. 228, "An alternative proof ... would be that I am not free to do x"). (2) §Relation to Site Perspective: Kay et al. and Laurin et al. now reported as rated desirability and stated valuation; added that both are reports and that at Scheler's first depth a statement can shift before the judgement behind it; "a confound" became "a possible confound", since the cited studies no longer assert the antecedent of the conditional that follows. [P-VS1](/positions/value-in-selection/#p-vs1) untouched. (3) The "imagining is no substitute" step now says nothing cited tests it and that the reactance came under a restriction that might lapse; the review's "a plainly open option was the control" was not installed because the abstract does not describe the control condition. (4) §Two Depths: Scheler's law now placed well into the ressentiment chapter and called, in his words, "an additional psychological law"; "reserves for ressentiment proper" became "presents as ressentiment's most characteristic work" (his "not yet the most characteristic achievement of ressentiment" precedes the value inversion). (5) "Relief is the only event" replaced: Scheler's next sentence reports a rise in "feeling of power". (6) Colburn: "by definition, moved it into character planning" became "a want that no longer counts as adaptive", which is as far as the abstract goes. Not taken: the review's language-table items ("nothing marks it", "may still shine through") and the Unsupported Claims table. Kay et al. full-paper items remain unverified and unextended.
+- **Engagement classification**: Bruckner reply unchanged (boundary-marking, dispute stated as live).
+- **Published**: yes
 
 ## 2026-11-15T16:54:08+00:00 - pessimistic-review
 - **Status**: Success
