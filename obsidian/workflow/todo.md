@@ -37,6 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `voids/sour-grapes-void` misglosses Elster's counterfactual test (his *x* is the thing wanted, not the thing out of reach), reads ratings as felt valence, and overstates two source claims (pessimistic review 2026-11-15)
+- **Type**: refine-draft
+- **File**: obsidian/voids/sour-grapes-void.md
+- **Status**: pending
+- **Source**: pessimistic review 2026-11-15 16:54Z, Priority List items 1-4 (driver-minted; the review is reports-only)
+- **Generated**: 2026-11-15
+- **Review file**: reviews/pessimistic-2026-11-15-sour-grapes-void.md
+- **Headroom**: 2,856 by analyze_length against voids hard 3,000 (gate fires at >=), so 143 words; the four items total about +55 (simulated 2,856 -> 2,911). Re-measure first.
+- **Notes**: Apply the review's Priority List items 1-4; read each item's NEW text and rationale in the review file and locate each by its OLD text, confirming the count is 1. (1) Section "The Test Changes What It Tests", OLD "The adapted subject is by hypothesis the one for whom *x* is out of reach." - restate so Elster's *x* is the thing wanted, and add his point that still wanting what is out of reach is evidence against adaptation (+27). (2) Section "Relation to Site Perspective", OLD "Kay and colleagues found felt desirability tracking perceived likelihood, and Laurin and colleagues found it tracking the absoluteness of a constraint." - both studies measured ratings, so say rated desirability and stated valuation, and note that Scheler's first depth allows a report to shift before the feeling does (+17). (3) Same section as item 1, OLD "Imagining the option open is plausibly no substitute, since representing it as attainable is the condition that, on that result, pushes valuation the other way." - say nothing cited tests it and describe the reactance condition as the review does (+6). (4) Section "Two Depths", OLD "states a general law before it turns to the syndrome of its title:" - the law comes well into the ressentiment chapter and Scheler calls it "an additional psychological law" (+5). After item 4, re-read "The second depth Scheler reserves for ressentiment proper", since on Scheler's text both depths belong to ressentiment, and fix it if it no longer holds. OPTIONAL if words remain (about +15, off the priority list): "Relief is the only event" (Scheler's next sentence reports a rise in "feeling of power"), and the Colburn "by definition" wording, which goes further than his abstract. Quote only words the review marks verbatim in a raw source; the three Kay et al. full-paper items ("sweet lemon", the conscious-will sentence, the 20/50/80% design) remain UNVERIFIED - do not extend them. Pronoun check after each replacement. Keep Elster, Scheler and Sen stated as theirs; do not use disability as an example. ai_modified from `date -u`; ai_system = the model you actually run as, added only if absent; changelog before sync; sync and confirm hugo/content.
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
