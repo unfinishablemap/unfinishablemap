@@ -541,9 +541,9 @@
   commissioned_at: '2026-11-15T02:05:09.672671+00:00'
   prompt_summary: Audit topics/personal-identity (recent-aged, modified 2026-11-06)
   target_filename: outer-review-2026-11-15-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-15T03:53:41.415631+00:00'
   failure_reason: null
   prompt_text: 'Please audit the Unfinishable Map article on personal identity: https://unfinishablemap.org/topics/personal-identity/
     (last substantively modified 2026-11-06). The Map (https://unfinishablemap.org)

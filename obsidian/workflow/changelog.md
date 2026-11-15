@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T03:38:28+00:00
+ai_modified: 2026-11-15T04:04:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T04:04:01+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review; subject "Audit personal-identity", `topics/personal-identity.md`, recent-aged fallback)
+- **File**: [[reviews/outer-review-2026-11-15-chatgpt-5-6-sol-pro]]
+- **Extraction**: js-dom-slices from the turn's `[data-markdown-text-style]` element, read out in 52 slices of at most 900 characters, each slice hash-matched. The reassembled SHA-256 equals the in-page hash `3e239d0e…c20766` (45,975 characters). No browser download was used.
+- **Claims verified**: 32 quoted strings at count 1 on live pages, plus one SEP "Personal Identity" fetch (characterization question, transplant verdict, non-branching clause, too-many-thinkers).
+- **High-value findings**: 19 of 30 kept. 5 were false alarms or already handled (the §5 heading, §6 indivisibility, §7 Montupil, §10 vertiginous-question, improvement 18 on the apex). 6 were not tasked: lower value, or additive on an over-ceiling page.
+- **Tasks generated**: 7, all deferred until /combine-outer-reviews. 2 are P1: the hub's Parfit self-contradiction, and `concepts/haecceity` L67 "can branch or fuse". 5 are P2: hub overreach (L187/L189/L71/L195), hub claim-fit (L133/L181/L161), hub Standard Positions (animalism, Schechtman, no-self), `apex/identity-across-transformations` L67, and `concepts/parfit-reductionism` zombie/substance. The four hub tasks are each net ≤ 0 (page at 4,033 against a hard ceiling of 4,000).
+- **Methodology**: addenda (no new tasks) on NEEDS-HUMAN 2026-08-03 (propagation, improvement 27), 2026-07-30 (per-claim ledger, improvements 22–23) and 2026-07-25 (opponent parity, improvements 25–26).
+- **Articles edited**: none.
 
 ## 2026-11-15T03:38:28+00:00 - refine-draft
 - **Status**: Success
