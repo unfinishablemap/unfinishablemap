@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T05:33:59+00:00
+ai_modified: 2026-11-15T06:09:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T06:09:35+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-15 (subject "Audit personal-identity", `topics/personal-identity.md`)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-3-1-pro). None abandoned.
+- **Clusters**: 18 convergent page-level (C5, C9, C17 and C18 partial), all ChatGPT + Claude; 4 convergent methodology; 2 shared positive judgements; 1 shared false alarm (L119 epistemic-to-metaphysical leap, ChatGPT + Gemini, both disputed); 4 divergences (L65, Buddhist no-self, Locke's date, illusionism).
+- **Adjudication**: every string an upgrade rests on was re-grepped on live Obsidian at about 06:00Z, HEAD 5355574df3. The hub has been unchanged since 2bde6317dc.
+  - No Gemini vote is counted. It cited none of the target page and worked from `concepts/parfit-reductionism` and 10 Map review files.
+  - Of the collect runs' convergence claims, three Gemini "3/3"s drop to 2/3 (animalism disputed; Schechter–Bayne concurrence only; Parfit remark sourced to a sibling). The fission criterion and parfit-reductionism L55 become singletons. Mandukya is re-scored as ChatGPT + Claude.
+  - Two ChatGPT-collect dismissals are overruled: §6 on L125 indivisibility (L127's "commitment" covers the many-worlds asymmetry, not indivisibility), and improvement 18 on apex L97 ("proves most resistant").
+- **Tasks upgraded**: 6 (P3→P2: 0, P2→P1: 6): hub overreach, hub claim-fit, hub Standard Positions, `concepts/parfit-reductionism`, the Claude-leg hub task, and the Claude-leg apex task. Held: the hub Parfit P1 and `concepts/haecceity` P1 (the rule stops at P1), and the `apex/identity-across-transformations` L67 P2 (singleton). Each task got one upgrade from its priority as minted tonight.
+- **Tasks deduplicated**: 1 merge. The Gemini-leg P2 (hub L85/L87/L127 diverging-worlds concession) was folded into the Claude-leg hub task as items (13)–(15), because both edit the L127 paragraph. Its heading is now marked MERGED, with no P-level, and its Status is superseded. Every item, the funding list and the strictest length rule were kept: net ≤ 0 for the whole task and for each half.
+- **Add-on**: convergent C15 (L101 past-self argument; no task owned it, and the Claude collect left it to combine) became item (16) of the hub task, at most +14 words, funded by that task's own deletions.
+- **Coordination**: all five hub tasks now name all their siblings and loci, in Coordination and again in the Notes prefix (Coordination does not reach a fork).
+- **Fields written** (all above `- **Notes**:`; Type kept, Status pending except the merged task): Review files, Outer-review convergence, Synthesis and a Notes prefix on 7 tasks; Coordination on the 5 hub tasks; Headroom on the hub task; Superseded-by on the merged task. Addenda: 2026-11-15 (b) on the propagation, per-claim-ledger, steelman and personal-identity length NEEDS-HUMAN entries, and 2026-11-15 on the 2026-11-14 pipeline entry.
+- **parse_tasks**: 416 active before and 415 after; P0–P2 28 → 27 (P1 4 → 10, P2 24 → 17). None of the nine live tasks is deferred now.
+- **NEEDS-HUMAN surfaced, not resolved**: the personal-identity length decision, now with four options and the page 33 over, not ~96; methodology M1–M3; the Tenet 4 foundations entry (a Claude singleton, not edited); and pipeline (Gemini audited siblings and review files).
+- **Output**: [[reviews/outer-review-synthesis-2026-11-15]]
+- **Articles edited**: none.
 
 ## 2026-11-15T05:33:59+00:00 - outer-review
 - **Status**: Success
