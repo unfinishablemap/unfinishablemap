@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-11-13T17:20:14+00:00
+ai_modified: 2026-11-15T02:17:47+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -210,7 +210,7 @@ This synthesis traces a chain through:
 17. Brass, M. & Haggard, P. (2007). To do or not to do: The neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141-9145.
 18. Brass, M. & Haggard, P. (2008). The what, when, whether model of intentional action. *The Neuroscientist*, 14(4), 319-325.
 19. Haggard, P., Clark, S. & Kalogeras, J. (2002). Voluntary action and conscious awareness. *Nature Neuroscience*, 5(4), 382-385.
-20. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
+20. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer. https://fizyka.umk.pl/publications/kmk/mind-2.pdf
 21. Duch, W. (2022). Concept Representation and the Geometric Model of Mind. *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009
 22. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 23. Mele, A.R. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-19 09:12:02+00:00
+ai_modified: 2026-11-15 02:17:47+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:17:26+00:00
-lastmod: 2026-10-19 09:12:02+00:00
+lastmod: 2026-11-15 02:17:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -225,7 +225,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17(5), 307-321. https://doi.org/10.1038/nrn.2016.22 (Key Points, abstract)
 1. Laukkonen, R.E., Friston, K.J., & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296 (abstract)
 1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361. https://www.newdualism.org/papers/J.Levine/Levine-PPQ1983.pdf (full text)
-1. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
+1. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer. https://fizyka.umk.pl/publications/kmk/mind-2.pdf
 1. Duch, W. (2022). Concept Representation and the Geometric Model of Mind. *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009
 1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Santander, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. https://www.pnas.org/doi/10.1073/pnas.2520190122 (abstract)

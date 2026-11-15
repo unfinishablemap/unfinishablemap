@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 01:50:14+00:00
+ai_modified: 2026-11-15 02:17:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 01:50:14+00:00
+lastmod: 2026-11-15 02:17:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T02:17:47+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/), [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Task**: dead-mirror URL swap for the two Duch references (the `web-archive.southampton.ac.uk/cogprints.org` mirror returns 403). URL only, no other change.
+- **Changes**: `…/cogprints.org/913/1/mind-2.pdf` → `https://fizyka.umk.pl/publications/kmk/mind-2.pdf` (Duch 1998) in phenomenology-mechanism-bridge ref 20 and neural-correlates-of-consciousness ref 1; `…/cogprints.org/914/1/96compmind.pdf` → `https://fizyka.umk.pl/publications/kmk/96compmind.pdf` (Duch 1996) in what-consciousness-tells-us-about-physics ref 17. Each OLD str.count == 1 before the swap; both replacements returned HTTP 200 application/pdf (curl -L) at 02:17Z; they match the canonical entries in `concepts/geometric-model-of-mind` References 1–2. Word counts unchanged.
+- **Optional rider (skipped)**: the James "Fringes" (cogprints 1000) and Velmans (cogprints 4741) dead-mirror links in two research notes were left as is; no live publisher/author copy was searched for this pass.
+- **Published**: yes
 
 ## 2026-11-15T01:50:14+00:00 - refine-draft
 - **Status**: Success

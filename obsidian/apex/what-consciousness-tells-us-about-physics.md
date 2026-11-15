@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-09-19
 human_modified: null
-ai_modified: 2026-11-09T18:38:51+00:00
+ai_modified: 2026-11-15T02:17:47+00:00
 last_deep_review: 2026-07-20T01:22:52+00:00
 draft: false
 topics:
@@ -280,7 +280,7 @@ This synthesis draws together:
 14. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 15. Wheeler, J.A. (1983). "Law without law." In *Quantum Theory and Measurement*.
 16. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
-17. Duch, W. (1996). Computational physics of the mind. *Computer Physics Communications*. https://web-archive.southampton.ac.uk/cogprints.org/914/1/96compmind.pdf
+17. Duch, W. (1996). Computational physics of the mind. *Computer Physics Communications*. https://fizyka.umk.pl/publications/kmk/96compmind.pdf
 18. Kofman, A.G. & Kurizki, G. (2000). "Acceleration of quantum decay processes by frequent observations." *Nature*, 405(6786), 546–550. https://doi.org/10.1038/35014537
 19. Schroeder de Witt, C., Sokota, S., Kolter, J.Z., Foerster, J. & Strohmeier, M. (2023). "Perfectly Secure Steganography Using Minimum Entropy Coupling." ICLR 2023. arXiv:2210.14889. https://arxiv.org/abs/2210.14889
 18. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
