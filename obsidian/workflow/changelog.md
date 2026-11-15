@@ -1,9 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T09:04:22+00:00
+ai_modified: 2026-11-15T10:43:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T10:43:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/personal-identity]]
+- **Task**: P1 "`topics/personal-identity` lags its own positions register and siblings on fission, sleep, anaesthesia and illusionism". Convergent outer reviews 2026-11-15 (Claude Fable 5.2 and ChatGPT 5.6 Sol Pro), plus the merged Gemini 3.1 Pro many-worlds P2 as items (13)–(15), the combine add-on (16) and the driver's L159 addendum.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 4,029 → 4,028 (net −1; topics hard 4,000, page stays over it, NEEDS-HUMAN length decision untouched). Half A (items 1–12, L159, 16): net 0, with funding −52 (item 1 −22, item 5 −29, L159 −1) against +52 of costs, including optional item 12 at +22. Half B (13–15): net −1, with +8 of costs against candidate (a) −9; (c) is inside item 13; (b) was not needed and is unused.
+- **Changes**: each OLD string re-counted at 1 on the live page at 10:33Z, before replacement. Measured deltas follow.
+  - (1) −22: deleted Consideration 3 ("The explanatory gap"); "Four considerations" became "Three"; the past-self argument was renumbered 4→3. L97's "point 1" is unaffected.
+  - (2) +4: L125 "on the Map's posit, your consciousness is a particular that cannot divide".
+  - (3) +5: L127 "principled within the framework, stipulated at its boundary" (the P-I4 wording verbatim).
+  - (4) +3: L127 "the *substrate* divides fully into two independently sustained channels, both continuing" (P-I4's criterion), so callosotomy reads as partial.
+  - (5) −29: deleted L187's zombie second sentence. The first sentence (overreach-owned) is unchanged.
+  - (6) +2: L131 "are the empirical test case".
+  - (7) +4: L139 "(Advaita's reading of the Mandukya Upanishad)". No commentator is named.
+  - (8) +3: L143 the void article "finds the gap underdetermines the mechanism, and favours interface-disruption on independent grounds" (void L144/L146).
+  - (9) +4: L149 "a regress, pressed by Tallis (2024)". References: *Aping Mankind* 2011 was replaced by the `concepts/parfit-reductionism` L174 form of Tallis 2024. No Tallis quotation was added.
+  - (10) +2: Locke "(1694) ... 2nd ed.".
+  - (11) −7: L65 "needs a non-branching clause for fission: if both hemispheres continue, neither is you".
+  - (12) +22: L131 "He concluded there is "no whole number of individual minds" here (p. 409); the Map holds the count determinate but anatomically unreadable."
+  - (13) +6: L85 is scoped to the splitting reading, "and derive from you" is cut, "The theorist" becomes "The Everettian" (its antecedent was gone), and one clause concedes the [[diverging-worlds-everettianism|diverging reading]] escapes the fission-shaped objection.
+  - (14) +1: L87 "Here splitting-reading many-worlds and Parfit converge".
+  - (15) +1: L127 "the splitting reading's *postulate*"; "branching is a posited division" became "splitting is a posited division" (0 words). The closing sentence is unchanged.
+  - (a) −9: deleted L87 "The interpretation-level debate thus bottoms out in personal identity."
+  - (16) +10: L101 "the haecceity claim in temporal form only given a persisting subject, since rivals grant token non-recurrence". The consideration is kept, and so is "represents".
+  - L159 −1: dropped "supposedly".
+- **Engagements**:
+  - many-worlds (L85/L87/L127): Mode Three. The hub now scopes the "which you?" objection to the splitting reading and concedes in one clause that the diverging reading escapes it, as `concepts/diverging-worlds-everettianism` L74/L77 and `apex/one-world-wager` L54 already do. It does not re-argue the point on the hub, and L127's "does not pretend to refute" close stands.
+  - Fission/branching asymmetry against the Deutsch-style critic (L127): Mode Three, now worded as the register words it (principled inside the framework, stipulated at its boundary).
+  - Illusionism/Tallis (L149–L151): engagement unchanged (L151 already closes on Mode Three, "Neither side closes the case"); only the citation was repointed.
+  - Parfit/psychological view (L65): exposition corrected to the rival's own non-branching clause. No reply mode applies.
+- **Verification**:
+  - Nagel: the McGill PDF (JSTOR-derived) was fetched and run through pdftotext with whitespace collapsed. It contains "there is no whole number of individual minds that these patients can be said to have" verbatim at the opening of §VI. That text falls after the "409" running head and before the next page's "410" head, so the locator is p. 409. The quoted fragment is a substring of that verified string.
+  - Tallis: the References entry was copied from the sibling. The page's paraphrase stays within "subject conscious of" presentation.
+  - Locke: SEP, per the task.
+  - Mandukya: wording per `topics/contentless-awareness-evidence` L50.
+- **Sibling alignment**: all quotations the task relies on were re-grepped live at 10:35Z and match:
+  - P-I4 L89 (grade D) and L90 ("does not divide"; "the substrate fully separated into two independently sustained channels, both continuing"; "principled within the framework, stipulated at its boundary")
+  - `voids/anesthesia-void` L134, L144 ("three reasons that live outside the void itself") and L146 ("the first-person gap underdetermines the mechanism")
+  - contentless-awareness-evidence L50
+  - diverging-worlds-everettianism L3, L74 and L77
+  - one-world-wager L54
+  - split-brain-consciousness L184
+  - L131's new opening reads consistently with claim-fit's L133; L65 agrees with the new L67 and with L125's Parfit non-branching wording.
+- **Sibling-owned lines**: L67, L69, L71, L77, L91, L107, L133, L161, L177, L181, L187's first sentence, L189 and L195 were each verified byte-identical after the edit. The hedges at L95, L105, L127 ("commitment") and L155/L173 are intact.
+- **Out of scope, not fixed**:
+  - "Tallis's regress (2011)" survives on 7 pages: topics/eastern-philosophy-consciousness, topics/purpose-and-alignment, concepts/mind-matter-interface, concepts/witness-consciousness, concepts/haecceity, concepts/substrate-independence and concepts/temporal-structure-of-understanding.
+  - `apex/identity-across-transformations` L89 still closes the past-self argument "—the haecceity claim in temporal form." without the (16) recalibration. Its "registers" defect is already tasked in the apex P1.
+- **Published**: yes
 
 ## 2026-11-15T10:02:38+00:00 - deep-review
 - **Status**: Success
