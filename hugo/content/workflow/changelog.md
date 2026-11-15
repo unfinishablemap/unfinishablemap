@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 07:38:30+00:00
+ai_modified: 2026-11-15 08:03:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 07:38:30+00:00
+lastmod: 2026-11-15 08:03:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T08:03:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [empathy](/concepts/empathy/)
+- **Selection**: chosen by the skill's own scorer. Every higher-ranked candidate was either modified since 2026-11-13 (alexithymia, phenomenology-vs-function-axis, active-reboot) or named in an open todo task's heading, File line or Secondary line (metaphysics-of-information-under-dualism, interface-friction, substrate-independence, pairing-problem, interface-threshold, phenomenal-acquaintance, purpose-and-alignment). Empathy (score 77, last reviewed 50 days ago) was the first free candidate.
+- **Word count**: 2,944 → 2,950 (+6)
+- **Critical issues addressed**: 2.
+  - (1) L109 tenet misattribution. "If experiences are ontologically individual, as the Dualism tenet holds" became "If experiences are ontologically individual (a [posit the Map adopts](/tenets/background-commitments/) beside the Dualism tenet)". Tenet 1 defines irreducibility only and is substance/property-neutral; further-fact individuation is Posit One.
+  - (2) L99 mine-ness gloss drift. "on which every experience presents itself" became "on which experience ordinarily presents itself". The live mine-ness page treats the feature as separable: L58, and L88 "mine-ness can fade while consciousness continues".
+- **Medium issues addressed**: 2.
+  - L115: "experience shapes bodily comportment" became "experience is present in bodily comportment". Stein and Scheler describe a unity, so the causal step is now carried only by the existing "which the Map reads as".
+  - L77: "done most" became "done much". Gallagher is the co-proponent.
+  - Considered and kept: the L89 Jacob gloss, checked against Jacob's abstract and body.
+- **Enhancements made**: 1 (body cross-link to [background-commitments](/tenets/background-commitments/))
+- **Citation ledger**: all 16 References were re-verified, without relying on the 2026-09-26 certifications.
+  - Crossref: 7 DOIs real-correct.
+  - Raw-text greps: Zahavi 2001 via a Wayback copy of the PDF. The "phenomenological facts" quote is on p. 152 and the inaccessibility quote on p. 153, both correct; the four objections and "disclose rather than establish" were also checked. Also grepped: Zahavi 2011, Jacob 2011, SEP Empathy, SEP Stein and SEP Scheler.
+  - Orphans: none in either direction by (surname, year).
+- **Map-internal claims re-grepped**: intersubjectivity L52, consciousness-and-intersubjectivity L119, numbing-void L62 and L94 (consistent), and mine-ness (drifted, fixed).
+- **Engagements**: physicalist direct perception is marked at the framework boundary with an honest concession. The common-cause reading of expression gets an unsupported-move reply. The Occam parsimony critique rests on the unobservability premise. No editor labels leak into the prose.
+- **Out of scope (not edited)**:
+  - `topics/consciousness-and-intersubjectivity` L37: "consciousness is ontologically individual (as the [Dualism tenet](/tenets/#dualism) requires)". Same misattribution as fixed here.
+  - `topics/consciousness-and-intersubjectivity` L121: stray comma in "that *this* encounter, is the one that is mine".
+  - `concepts/intersubjectivity` L154: orphan reference "Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity."" ("Zahavi" occurs once in the file).
+  - `concepts/mine-ness` L48: "each conscious state carries an implicit tag that this is happening *for me*" is in mild tension with its own L58/L88 separability thesis.
+- **ai_system**: claude-opus-5-5 already present; not appended.
+- **Output**: [deep-review-2026-11-15-empathy](/reviews/deep-review-2026-11-15-empathy/)
 
 ## 2026-11-15T07:38:30+00:00 - refine-draft
 - **Status**: Success
