@@ -2,9 +2,9 @@
 title: "Episodic Memory and Autonoetic Consciousness"
 description: "Episodic memory is constructive re-experiencing, not data retrieval. Memory operates as a dual-domain capability where physical traces carry information while consciousness contributes autonoesis, selectional guidance, and phenomenal colouring."
 created: 2026-01-17
-modified: 2026-10-22
+modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-10-24T21:09:52+00:00
+ai_modified: 2026-11-15T16:33:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ related_articles:
   - "[[neural-refresh-rates-and-the-smoothness-problem]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-17
 last_curated: null
 last_deep_review: 2026-07-11T20:42:32+00:00
@@ -129,7 +129,7 @@ Three features resist explanation in terms of engrams alone. **Autonoesis** is t
 
 ### Historical Precedents
 
-The dual-domain view has deep roots. **Descartes** distinguished corporeal memory (physical brain traces) from intellectual memory (immaterial mind), two faculties operating in different ontological domains (Fóti, 2000; Klein, 2019). **Bergson** developed the most systematic account in *Matter and Memory* (1896), distinguishing habit memory from pure memory and treating the brain as a filter rather than a container—paralleling the Map's [[attention-as-interface|interface framework]]. See [[bergson-and-duration]].
+The dual-domain view is old. **Descartes** distinguished corporeal memory (physical brain traces) from the immaterial mind's intellectual memory (Fóti, 2000; Klein, 2019). **Bergson**'s *Matter and Memory* (1896) distinguished habit from pure memory and treated the brain as a filter, not a container—paralleling the Map's [[attention-as-interface|interface framework]] but, on where dormant memory lives, the rival to the storage claim above, which [[bergson-and-duration|engram research favours]].
 
 ### The Quantum Interface
 

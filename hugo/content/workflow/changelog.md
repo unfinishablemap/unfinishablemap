@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-15T16:34:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [episodic-memory](/concepts/episodic-memory/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from [voids-dormancy-void-2026-09-17](/research/voids-dormancy-void-2026-09-17/) Addendum 2026-10-12 §4 side finding 2)
+- **Word count**: 3498 → 3498 (net zero; concepts hard gate 3500 fires at >=)
+- **Changes**: Historical Precedents paragraph: the Bergson sentence now marks his filter-not-container view as the rival to the storage claim in the paragraph above on where dormant memory lives (still parallel to the interface framework), with a piped link to [bergson-and-duration](/topics/bergson-and-duration/) on "engram research favours", agreeing with that page's engram caveat. Funded by trimming "developed the most systematic account in", the Descartes gloss "two faculties operating in different ontological domains" (restates the two parentheticals), the trailing "See" sentence (folded into the piped link), and "has deep roots" → "is old". No reference entry added; Josselyn & Tonegawa (2020) remains uncited in the body. `ai_system` gained `claude-fable-5-2`.
+- **Published**: yes
+
 ## 2026-11-15T16:03:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/)
