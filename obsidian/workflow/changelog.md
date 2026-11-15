@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T06:22:51+00:00
+ai_modified: 2026-11-15T06:44:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T06:44:40+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the lived-body wing, four pages read in full: `concepts/lived-objectified-body-distinction`, `concepts/feminist-phenomenology-and-embodied-consciousness`, `topics/embodied-consciousness`, `topics/sensorimotor-contingencies-and-the-interface`. Chosen by ranking every content page by its last review mention (slug substring in review content) and excluding pages touched since 2026-11-13. LOB and FP had no review mention since 2026-09-20. Structural finding: SMC has zero links in either direction with LOB or FP. Main calibration finding: the hub EC speaks above its satellites' grade and missed three changes made around it (the 10-12 timing withdrawal, the 10-30 P-CS7 history-blind repair in `brain-interface-boundary`, and the bare-phenomenality-open verdict in `apex/machine-question`). Read-only for content.
+- **Tasks minted**: 4 × P3 refine-draft (EC calibration; filter-theory L148 stale criterion; SMC mirror-therapy grade + relinks; FP Leder social dys-appearance fold, verify first). parse_tasks active 414 → 418.
+- **Output**: [[reviews/optimistic-2026-11-15-lived-body-wing]]
 
 ## 2026-11-15T06:22:51+00:00 - refine-draft
 - **Status**: Success
