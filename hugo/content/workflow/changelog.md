@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 22:18:48+00:00
+ai_modified: 2026-11-15 22:34:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 22:18:48+00:00
+lastmod: 2026-11-15 22:34:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T22:34:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [acquaintance-void](/voids/acquaintance-void/)
+- **Source**: sibling sweep in the 2026-11-15 22:18Z refine-draft of `voids/plurality-void` (driver-minted P3)
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**: Rewrote the Dualism paragraph of "Relation to Site Perspective" (one paragraph, 87 → 136 words). Removed the conditional "If physicalism were true and description could capture everything, there would be no acquaintance void", which ran physicalism together with the claim that description captures everything, and the sentence calling the void's persistence "evidence". The paragraph now states the datum (an epistemic gap between description and acquaintance), says the gap alone does not decide against physicalism, assigns "Mary learns nothing new" to the gap-denying physicalist only, states Type-B in the words of `concepts/type-a-type-b-and-type-c-physicalism` (grants an epistemic gap that will never close, denies it marks a gap in reality), marks the ontological reading as the Map's with a pointer to where the Map argues it (`concepts/phenomenal-acquaintance`, the Loar section, which itself calls the recognitional account "a live rival, not a refuted one"), recasts the pre-conceptual layers from "strengthen the case" to extending the datum without separating the readings, and links [P-V3](/positions/voids-as-evidence/#p-v3) for the suspended cumulative step. The opening assertion "not two perspectives on the same reality" is gone. The three pre-conceptual examples and the `[[phenomenal-acquaintance]]` link are kept. Occam and Bidirectional paragraphs untouched.
+- **Distinction kept**: "this void adds no independent weight as a catalogue entry" ([P-V3](/positions/voids-as-evidence/#p-v3) suspended) versus "the Map has no argument" (it has one, made on the acquaintance page). The paragraph does not say the void has no bearing on dualism.
+- **Length**: `analyze_length` 2,379 → 2,428 (+49; budget ≤ 50) against voids hard 3,000.
+- **Reasoning mode**: engagement with Type-B physicalism: Mode Three; the paragraph notes the framework-boundary disagreement and points to the page where the in-framework argument (Chalmers's zombie dilemma against Loar, and its limits) is run.
+- **Prior state checked**: deep-review 2026-07-06 Stability Notes (converged; nothing bearing on this paragraph); `git log -S` shows the sentence dates from creation with no earlier fix. `ai_system` gained `claude-fable-5-2` (absent before).
+- **Published**: yes
 
 ## 2026-11-15T22:18:48+00:00 - refine-draft
 - **Status**: Success

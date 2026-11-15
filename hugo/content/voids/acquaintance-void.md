@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-25
-ai_modified: 2026-11-11 15:22:05+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-11-15 22:34:56+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /voids/pre-conceptual-knowing/
@@ -14,7 +14,7 @@ concepts:
 - '[[introspection]]'
 - '[[phenomenology]]'
 created: 2026-01-27
-date: &id001 2026-10-21
+date: &id001 2026-11-15
 description: Human+AI exploration of the territory that descriptions and concepts
   cannot capture—from Russell's direct epistemic relation to phenomenal overflow,
   bodily knowing, and modes of contact closed to minds like ours.
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:18:55+00:00
-lastmod: 2026-11-11 15:22:05+00:00
+lastmod: 2026-11-15 22:34:56+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -143,7 +143,7 @@ A sixth candidate has partly arrived and does not land. Installing a new sensory
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism).** The acquaintance void exists because acquaintance and description are fundamentally different epistemic relations, not two perspectives on the same reality. If physicalism were true and description could capture everything, there would be no acquaintance void — Mary would learn nothing new. The void's persistence under descriptive completeness is evidence that [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) reveals a dimension of reality physical description cannot reach. The pre-conceptual layers — prereflective bodily awareness, fineness of perception, phenomenal overflow — strengthen the case: modes of consciousness where something is known without being represented.
+**[Dualism](/tenets/#dualism).** The datum is an epistemic gap: knowledge by description, however complete, does not supply acquaintance. The gap alone does not decide against physicalism. Only a physicalism that denies the gap predicts that Mary learns nothing new; [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) grants an epistemic gap that will never close and denies that it marks a gap in reality. The Map reads the gap as ontological, holding that [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) reveals a dimension of reality physical description cannot reach, and [argues for that reading](/concepts/phenomenal-acquaintance/#loars-recognitional-concepts-and-the-non-reductive-challenge) against a live rival. The pre-conceptual layers — prereflective bodily awareness, fineness of perception, phenomenal overflow — extend the datum, as modes of consciousness where something is known without being represented; they do not separate the two readings. As a catalogue entry the void adds no independent weight: the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The preference for parsimonious, structurally complete theories systematically privileges descriptive knowledge. A science that describes everything perfectly may still miss everything that matters about consciousness, because acquaintance is not a species of description. The simplest cognitive architecture — all knowledge propositional and conceptual — appears insufficient. The apparent sufficiency of structural explanation reflects the limits of the methodology, not the limits of what exists.
 
