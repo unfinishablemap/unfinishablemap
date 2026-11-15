@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-15T16:03:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from [optimistic-2026-10-26-interactionist-lineage-wing](/reviews/optimistic-2026-10-26-interactionist-lineage-wing/) Priority 4)
+- **Word count**: 3752 → 3869 (+117; topics hard gate 4000, headroom 130)
+- **Changes**: §Knutzen's Concession closing paragraph now pairs Knutzen's 1745 concession with Sherrington's 1947 foreword concession ("the problem of how that liaison is effected remains unsolved; it remains where Aristotle left it more than 2000 years ago", p. xix; re-verified this run against the Internet Archive OCR of the 1947 reissue, wording identical to `topics/sherrington-dualist-lineage`), marks the 1947 form as weaker (unsolved, where Knutzen said not distinctly understandable), states the debt is inherited and not discharged, and points it at `the-interface-problem` via piped wikilink; also links `sherrington-dualist-lineage`. Reference 17 (Sherrington 1947 foreword) added, matching the Sherrington page's entry. Neither figure is enlisted for dualism. The Relation-to-Site-Perspective debt paragraph is unchanged (no duplication). `ai_system` gained `claude-fable-5-2` (absent before).
+- **Published**: yes
+
 ## 2026-11-15T15:50:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [alexithymia](/concepts/alexithymia/)

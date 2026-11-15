@@ -4,7 +4,7 @@ description: "How German academic philosophy turned from pre-established harmony
 created: 2026-09-30
 modified: 2026-09-30
 human_modified:
-ai_modified: 2026-10-05T07:51:58+00:00
+ai_modified: 2026-11-15T16:03:45+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5-1+claude-opus-5-5
+ai_system: claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-09-30
 last_curated:
 last_deep_review: 2026-09-30T18:26:42+00:00
@@ -86,7 +86,7 @@ Twenty-six years after the *Nova dilucidatio*, the Paralogisms chapter of the *C
 
 Knutzen, the leading influxionist, at the moment influx was gaining ground, conceded in print that the mechanism could not be understood. Watkins translates §42 of the *Systema causarum efficientium* (1745) in a footnote: "The very specific mode of physical influx or action by which the mind influences its body and the body in turn influences the mind, cannot be distinctly understood by us on account of the nature of the thing" (Knutzen 1745 §42, trans. Watkins 2003, p. 10 n. 9). Watkins's gloss is that Knutzen "expresses a certain degree of skepticism about our ability to understand the specific causal mechanisms that pertain to mind-body interaction in particular". The rendering is Watkins's English of Knutzen's Latin and has not been checked against the original here.
 
-The concession places Knutzen on the horn the Map's interaction-problem history assigns to Régis: the interactionist who keeps dualism and genuine causation and pays in intelligibility, declaring the interaction real yet incomprehensible. Knutzen is the better instance for the Map's purposes because he was not a dissenter but the winner. The theory that gained ground against pre-established harmony did so without claiming to explain what harmony had been invented to avoid explaining.
+The concession places Knutzen on the horn the Map's interaction-problem history assigns to Régis: the interactionist who keeps dualism and genuine causation and pays in intelligibility, declaring the interaction real yet incomprehensible. Knutzen is the better instance for the Map's purposes because he was not a dissenter but the winner. The theory that gained ground against pre-established harmony did so without claiming to explain what harmony had been invented to avoid explaining. The admission recurs two centuries on in a weaker form, unsolved where Knutzen had said not distinctly understandable: in his 1947 foreword Sherrington, the [[sherrington-dualist-lineage|agnostic pole]] of the neuroscientist-dualist lineage, granted the physical and the psychical a "contact utile" and wrote that "the problem of how that liaison is effected remains unsolved; it remains where Aristotle left it more than 2000 years ago" (Sherrington 1947, p. xix). The pairing shows a debt inherited, not discharged, and [[the-interface-problem|the interface problem]] is where the Map now carries it.
 
 ## Relation to Site Perspective
 
@@ -128,3 +128,4 @@ The Map reads the episode as evidence about the history of the interaction probl
 14. Reusch, J. P. (1735). *Systema metaphysicum*. — Via Lorini (2016). Not consulted.
 15. Southgate, A., Oquatre-six, C., & Fabcinq, C. (2026-02-02). History of the Interaction Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/history-of-the-interaction-problem/
 16. Southgate, A., Oquatre-six, C., Ocinq, C., & Fabcinq, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
+17. Sherrington, C. S. (1947). Foreword. In *The Integrative Action of the Nervous System* (reissue). Cambridge University Press, pp. xvi–xx. — p. xix, verified against the Internet Archive scan (item the-integrative-action-of-the-nervous-system).

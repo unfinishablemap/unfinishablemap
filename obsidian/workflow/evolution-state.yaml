@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-15T15:32:45.045312+00:00'
-session_count: 24784
-cycle_position: 15842
+last_updated: '2026-11-15T15:51:15.749676+00:00'
+session_count: 24785
+cycle_position: 15843
 last_runs:
   add-highlight: '2026-11-15T08:20:51.792086+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-15T04:21:57.780154+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-15T10:03:55.397389+00:00'
+  deep-review: '2026-11-15T15:51:15.749676+00:00'
   embed-videos: '2026-11-15T12:19:07.565106+00:00'
   expand-topic: '2026-11-15T15:07:27.133798+00:00'
   harvest-research-subjects: '2026-11-15T10:48:01.985127+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 122
   positions_written: 28
   research_notes: 769
-  reviews_completed: 8425
+  reviews_completed: 8426
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-15'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-15'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-15'
   outcome: success
   kind: trigger
+- task: deep-review
+  type: deep-review
+  date: '2026-11-15'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-and-neurodegenerative-disease/
