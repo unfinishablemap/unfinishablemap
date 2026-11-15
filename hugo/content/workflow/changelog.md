@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-15T15:50:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [alexithymia](/concepts/alexithymia/)
+- **Word count**: 2153 → 2181 (+28)
+- **Critical issues addressed**: 1 (Eastabrook et al. 2013 result direction: the article said the study reports "exactly this pattern" of high report with low physiology "or the reverse"; the abstract reports physiology indistinguishable and self-report/expression exceeding it in alexithymic men)
+- **Medium issues addressed**: 4 (Neumann 2004 scoped to young women and to the measures reported; Aaron 2020 relabelled from "general-population" to 76 young adults; "blunted felt arousal" → "autonomic"; residual "finer than its siblings" comparative dropped)
+- **Enhancements made**: 0
+- **Reasoning modes**: engagement with Barrett's constructed-emotion theory: mixed (Mode Two then Mode Three), unchanged
+- **Verified**: Van Bael 2024 quotations and figures grepped in the PLOS full text, including the 2026-11-14 addition; all 11 references checked on (surname, year) both directions
+- **Output**: [deep-review-2026-11-15-alexithymia](/reviews/deep-review-2026-11-15-alexithymia/)
+
 ## 2026-11-15T15:20:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)

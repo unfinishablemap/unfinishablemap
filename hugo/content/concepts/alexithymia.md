@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-11-14 15:21:22+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-15 15:49:30+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - somatic-interface
@@ -15,8 +15,8 @@ description: 'Alexithymia as the emotional member of the Map''s phenomenal-diver
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-05 17:59:10+00:00
-lastmod: 2026-11-14 15:21:22+00:00
+last_deep_review: 2026-11-15 15:49:30+00:00
+lastmod: 2026-11-15 15:49:30+00:00
 modified: *id001
 related_articles:
 - emotion-and-dualism
@@ -43,7 +43,7 @@ The term was coined by Peter Sifneos in 1973 from Greek roots meaning, roughly, 
 - **Difficulty Describing Feelings (DDF)** — trouble communicating felt states to others once identified.
 - **Externally-Oriented Thinking (EOT)** — a preference for concrete, outward detail over inner experience.
 
-This three-part decomposition is what makes alexithymia a finer instrument than its siblings. The trait comes graded and split, so one can ask *which* introspective sub-function a given capacity depends on rather than treating "emotional introspection" as monolithic. The canonical clinical treatment remains Taylor, Bagby and Parker's *Disorders of Affect Regulation* (1997).
+This three-part decomposition is what makes alexithymia a fine-grained instrument. The trait comes graded and split, so one can ask *which* introspective sub-function a given capacity depends on rather than treating "emotional introspection" as monolithic. The canonical clinical treatment remains Taylor, Bagby and Parker's *Disorders of Affect Regulation* (1997).
 
 ## From deficit to access: what the interoception evidence now shows
 
@@ -59,13 +59,13 @@ That hypothesis has not held up cleanly. It depends on a distinction drawn by Ga
 
 Once interoception is partitioned this way, the alexithymia link fractures. A large 2024 systematic review and meta-analysis — 32 studies, 7,819 participants — found a reliable association between alexithymia and *maladaptive subjective* interoceptive beliefs (confusion, hypervigilance, distrust of bodily signals), while noting that "previous meta-analyses have found no significant empirical association between task-based interoceptive accuracy and alexithymia" (Van Bael et al., 2024). The association, in other words, sits with self-reported *sensibility* and metacognition, not with objective *accuracy*. The relationship also proved stronger for DIF and DDF than for EOT, consistent with the divergence living in the identify-and-describe sub-capacities. Both sides of these associations are self-report questionnaires, however, whereas the accuracy null sets a questionnaire against a performance task; the [self-blindness](/concepts/self-blindness/#clinical) page notes the same reliance on self-report for the TAS-20. The authors write that DIF's links with interoceptive self-report scales, the strongest of any facet, "could be due to specific aspects of scale construction or to more general features of emotion generation processes"; on the scale-construction side, two items in the TAS-20's DIF scale came from the Eating Disorder Inventory's interoceptive-awareness scale.
 
-The upshot is a **relocation of the divergence from the sensed signal to the access layer**, which by itself leaves open whether the felt affect differs. High-alexithymia individuals are not, on current evidence, straightforwardly missing the bodily signal; they diverge in how they interpret, categorise, trust and report it. One general-population study found the accuracy relationship better described as quadratic than linear (Aaron, Blain, Snodgress & Park, 2020), further undercutting a simple sensory-deficit reading. This matters for the Map because it moves alexithymia out of the "damaged sensor" cell and into the more interesting "different reporting architecture" cell — precisely the cell the introspection-architecture programme, explained below, is built to probe.
+The upshot is a **relocation of the divergence from the sensed signal to the access layer**, which by itself leaves open whether the felt affect differs. High-alexithymia individuals are not, on current evidence, straightforwardly missing the bodily signal; they diverge in how they interpret, categorise, trust and report it. One study of 76 young adults found the accuracy relationship better described as quadratic than linear (Aaron, Blain, Snodgress & Park, 2020), further undercutting a simple sensory-deficit reading. This matters for the Map because it moves alexithymia out of the "damaged sensor" cell and into the more interesting "different reporting architecture" cell — precisely the cell the introspection-architecture programme, explained below, is built to probe.
 
 ## The honest headline: present-but-inaccessible versus absent is unresolved
 
 The access-layer relocation should not be overstated into a claim that the feeling is definitely there and merely unreported. The literature on whether alexithymic affect is *present-but-inaccessible* or genuinely *attenuated* is mixed, and the mixture is the honest headline.
 
-On one side, **arousal-discordance** findings show high-alexithymia individuals who report high subjective emotional intensity while displaying low physiological arousal, or the reverse — a decoupling between felt report and bodily response that fits the "present but poorly bridged" reading. Eastabrook, Lanteigne and Hollenstein (2013) report exactly this pattern, with physiological, self-reported and expressed emotional responses coming apart from one another. On the other side, some studies report genuinely **blunted autonomic reactivity**: Neumann, Sollers, Thayer and Waldstein (2004) found alexithymia predicted attenuated autonomic response to anger recall, which suggests the emotional response is damped at source rather than merely mis-described — though the same study found *prolonged recovery*, which a simple attenuation story does not obviously predict. The two literatures do not point the same way.
+On one side, **arousal-discordance** findings show high-alexithymia individuals who report high subjective emotional intensity while displaying low physiological arousal, or the reverse — a decoupling between felt report and bodily response that fits the "present but poorly bridged" reading. Eastabrook, Lanteigne and Hollenstein (2013) report one direction of it: during an impromptu speech, alexithymic participants' physiological responses were indistinguishable from those of non-alexithymic participants while they reported more self-consciousness, and in alexithymic men felt and expressed self-consciousness ran ahead of physiological arousal. On the other side, some studies report genuinely **blunted autonomic reactivity**: Neumann, Sollers, Thayer and Waldstein (2004) found that in young women alexithymia predicted attenuated heart-rate reactivity to anger recall, which suggests the emotional response is damped at source rather than merely mis-described — though the same study found slower diastolic blood-pressure recovery, which a simple attenuation story does not obviously predict. The two literatures do not point the same way.
 
 The most defensible current position is that alexithymia is heterogeneous — likely not one mechanism but several, with different individuals diverging at different points between signal generation, categorisation and report. The Map takes no side here. The question of whether the phenomenal affect is present and unreachable or partly absent is genuinely open, and resolving it prematurely in either direction would misrepresent the evidence.
 
@@ -73,7 +73,7 @@ The most defensible current position is that alexithymia is heterogeneous — li
 
 The leading physicalist framework for reading alexithymia is the **theory of constructed emotion** (Barrett, 2017) — a general account of interoception and categorisation rather than a theory of the trait, but one under which the trait finds a natural home. On this active-inference view, emotions are not detected but *constructed*: the brain predictively categorises interoceptive and bodily signals under learned emotion concepts. Alexithymia then becomes low **emotional granularity** — imprecise conceptual categorisation of bodily signal — rather than any absence of feeling. This is a serious, well-developed rival, and the Map engages it directly rather than deflecting it.
 
-The Map's response is that the constructivist story and the phenomenal-presence story are orthogonal. Constructed-emotion theory describes the *categorisation machinery* with real explanatory power, but it is silent on why there is something it is like to be in the affective state being categorised. Alexithymia's dissociations — intact emotion-recognition performance in some cases, blunted felt arousal in others, poor report across the board — are consistent with either an irreducible phenomenal residue or a purely constructive account. The trait therefore does not settle the metaphysics on its own; it constrains which stories remain live.
+The Map's response is that the constructivist story and the phenomenal-presence story are orthogonal. Constructed-emotion theory describes the *categorisation machinery* with real explanatory power, but it is silent on why there is something it is like to be in the affective state being categorised. Alexithymia's dissociations — intact emotion-recognition performance in some cases, blunted autonomic arousal in others, poor report across the board — are consistent with either an irreducible phenomenal residue or a purely constructive account. The trait therefore does not settle the metaphysics on its own; it constrains which stories remain live.
 
 ## Relation to Site Perspective
 
