@@ -536,3 +536,31 @@
   subject_articles:
   - concepts/mind-arena.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-14-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6af91334-0b4c-83eb-a2c1-b5fcbc252ab5
+  commissioned_at: '2026-11-15T02:05:09.672671+00:00'
+  prompt_summary: Audit topics/personal-identity (recent-aged, modified 2026-11-06)
+  target_filename: outer-review-2026-11-15-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit the Unfinishable Map article on personal identity: https://unfinishablemap.org/topics/personal-identity/
+    (last substantively modified 2026-11-06). The Map (https://unfinishablemap.org)
+    is a philosophical site built on five tenets: dualism, minimal quantum interaction,
+    bidirectional interaction, rejection of Many Worlds, and limits on Occam''s Razor.
+    Search indexes lag, so check the site changelog for recent edits: https://unfinishablemap.org/workflow/changelog/.
+    Assess whether the article''s post-modification claims hold up. Are its citations
+    accurate, correctly attributed, and current? Are the strongest rival views (psychological
+    continuity, animalism, Parfitian reductionism, no-self and narrative accounts)
+    stated fairly and answered on their merits, or bracketed in ways that merely protect
+    the tenets? Does it present posits as established results? Is it consistent with
+    the closely related Map articles it links to, and does it miss articles it should
+    link to? Flag stale references, overclaims and missing counterarguments. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit personal-identity
+  subject_articles:
+  - topics/personal-identity.md
+  subject_source: fallback:recent-aged
