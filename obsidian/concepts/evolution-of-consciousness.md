@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-10-27T01:42:02+00:00
+ai_modified: 2026-11-15T01:50:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose [[valence-and-conscious-selection|felt valence guides behaviour through selection]]. If consciousness does nothing, this apparent design is illusory.
 
-The Map rejects epiphenomenalism via the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]. Consciousness *does* affect physical outcomes—which means selection could favour it directly.
+The Map rejects epiphenomenalism via the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]. Consciousness *does* affect physical outcomes—which means selection could favour it directly, provided that effect shifts [[inheritance-problem-for-the-psychophysical-law#the-selectability-constraint|fitness-relevant frequencies]].
 
 ### Possible Adaptive Advantages
 
@@ -180,11 +180,11 @@ If consciousness acts at quantum indeterminacies, the evolution of consciousness
 
 ### Bidirectional Interaction
 
-Consciousness evolved because it made a difference. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] implies that phenomenal states causally influence behaviour—which means selection can act on them. This rejects the epiphenomenalist view that consciousness is a free rider on neural complexity.
+If the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds, phenomenal states causally influence behaviour, and selection can act on them where the influence shifts fitness-relevant frequencies ([[inheritance-problem-for-the-psychophysical-law#the-selectability-constraint|selectability]]); the tenet is held as a posit, and an epiphenomenalist [[co-optimization-reply-to-the-correlation-problem|co-optimizer]] explains valence-fitness tracking too.
 
 ### No Many Worlds
 
-Real collapse is essential to the evolutionary story. If all outcomes occur (Many Worlds), there's no genuine selection—every lineage that could exist does exist. The determinate history of life requires collapse that selects actual outcomes from possibility space. Consciousness may participate in this selection specifically where neural quantum processes reach decision points.
+An Everettian can run the adaptationist story branch-locally, so the tenet does exclusion work here rather than evolutionary work: that unchosen lineages be globally nonactual is a [[tenets/background-commitments|posit the Map adopts]], not a result the evolutionary case derives ([[consciousness-evolution-and-biology]]). Consciousness may participate in selection where neural quantum processes reach decision points.
 
 ### Occam's Razor Has Limits
 

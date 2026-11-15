@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 01:04:12+00:00
+ai_modified: 2026-11-15 01:50:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 01:04:12+00:00
+lastmod: 2026-11-15 01:50:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T01:50:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Original score**: n/a (targeted tenet-check fix; `scripts/curate.py` is absent)
+- **Task**: W2 of [tenet-check-2026-10-26](/reviews/tenet-check-2026-10-26/), Priority List item 3 (Families 1 and 5), with the 2026-10-31 addendum from [optimistic-2026-10-31-onset-and-floor-wing](/reviews/optimistic-2026-10-31-onset-and-floor-wing/) out-of-scope finding 1 (selectability condition).
+- **OLD strings**: pulled by script from the review's Priority List item 3. Each OLD had str.count == 1 on the live page, and so did the L79 string "which means selection could favour it directly".
+- **Changes** (analyze_length 3,490 → 3,496 of hard 3,500, gate `>=`; net +6; no trim needed):
+  - (a) L183 Bidirectional Interaction, +1: the review's NEW, with the amended selectability clause from the optimistic review ("and selection can act on them where the influence shifts fitness-relevant frequencies ([selectability](/topics/inheritance-problem-for-the-psychophysical-law/#the-selectability-constraint))"). That review elides both ends, so the opening and closing come from the tenet-check NEW. One 0-word deviation: "explains the same tracking" became "explains valence-fitness tracking too". "The same tracking" had no antecedent on the page. The new words are those of `concepts/bidirectional-interaction` L152. The tenet is held as a posit. The co-optimizer is named as the epiphenomenalist's reply, not adopted.
+  - (b) L187 No Many Worlds, −1: the review's NEW verbatim. The Everettian runs the adaptationist story branch-locally. Global exclusion of unchosen lineages is a [posit the Map adopts](/tenets/background-commitments/), the wording `topics/consciousness-evolution-and-biology` L147 uses. "this selection" became "selection" because the collapse sentence it pointed to is gone.
+  - (c) L79 The Epiphenomenalist Challenge, +6: added "provided that effect shifts fitness-relevant frequencies", which matches `topics/evolution-under-dualism` L109. "fitness-relevant frequencies" carries a piped link to the selectability anchor at no word cost. The addendum's example wording "provided its selection shifts outcome frequencies" was not used. It would have put two senses of "selection" side by side.
+- **Link checks**: `topics/inheritance-problem-for-the-psychophysical-law` has `## The Selectability Constraint {#the-selectability-constraint}`, so the anchor resolves in both dialects. `co-optimization-reply-to-the-correlation-problem` (bare) exists only in `topics/`. `tenets/background-commitments` and `consciousness-evolution-and-biology` exist.
+- **Engagements**: epiphenomenalist co-optimizer (L183), Mode Three: Bidirectional Interaction is held as a posit, and the rival's reply is acknowledged as explaining the same evidence. Everettian (L187), Mode Three: the disagreement rests on the global-exclusion posit and not on the evolutionary case.
+- **Out of scope (not edited)**: L75 says the linked [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) "argues that this position is untenable", but that page's L153 says the co-optimization rejoinder "remains live". L79 "Consciousness *does* affect physical outcomes" asserts the efficacy the tenet posits, the same shape W2 regraded at L183. The optional Note 1 sibling loci on `consciousness-evolution-and-biology` (L141, L143) were not touched.
+- **Published**: yes
 
 ## 2026-11-15T01:04:12+00:00 - refine-draft
 - **Status**: Success
