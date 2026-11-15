@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T11:34:44+00:00
+ai_modified: 2026-11-15T12:09:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T12:09:12+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Animalism as the strongest physicalist rival on personal identity: the thinking-animal argument, new animalism, and what dualism does and does not refute (todo.md L40, P3, harvested 2026-11-15 from `reviews/outer-review-2026-11-15-chatgpt-5-6-sol-pro` improvement 21 and §3)
+- **Output**: [[research/animalism-and-the-thinking-animal-argument-2026-11-15]]
+- **Sources consulted**: 30 cited. Read in raw text and grepped: the SEP Animalism entry (Blatti, revised 2026-02-23), the SEP Personal Identity entry (Olson, revised 2023-06-30), Olson 2008, 2015 and 2021, Zimmerman 2005, 2008 and 2017, Lowe 2012, Hershenov 2023, and the NDPR review of DeGrazia 2005. Crossref was checked for four DOIs. All quotes were grep-verified.
+- **Verdict**: `recommended_action: fold` (topics and concepts both at cap, 370/370).
+  - Primary host: `topics/consciousness-and-the-metaphysics-of-individuation`, L87 rewrite, one L139 clause and two references, measured net +148 (3,513 → 3,661, hard 4,000).
+  - Secondary host: `apex/mereology-of-mind` L67, five sentences and four references, net +215 (3,987 → 4,202, hard 5,000).
+  - Finding: the tenets do not refute animalism. Tenet 1 is neutral, and the conflict lies in the substance-leaning posit and P-I3. That posit owes Olson's (2021) "Why is it impossible for a material thing to think?"
+- **Deferred for the parent**: three net-zero defects in `topics/personal-identity` L67 (coiner, "standard" scope, "follow the animal"); `topics/open-individualism-and-the-de-combination-problem` L63 citations verified, no defect; `topics/anaesthesia-and-the-consciousness-interface` lacks Olson's remote-control objection; the apex reference list has duplicate numbers.
 
 ## 2026-11-15T11:34:44+00:00 - refine-draft
 - **Status**: Success
