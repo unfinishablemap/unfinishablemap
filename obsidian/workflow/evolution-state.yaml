@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-15T17:20:24.171675+00:00'
-session_count: 24791
-cycle_position: 15847
+last_updated: '2026-11-15T17:35:33.137746+00:00'
+session_count: 24792
+cycle_position: 15848
 last_runs:
   add-highlight: '2026-11-15T08:20:51.792086+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-15T16:19:23.167237+00:00'
+  agentic-social: '2026-11-15T17:49:04.457460+00:00'
   apex-evolve: '2026-11-15T14:17:36.004422+00:00'
   check-links: '2026-11-15T12:36:56.371707+00:00'
   check-model-fallback: '2026-11-15T15:32:45.045312+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-15T06:45:08.769748+00:00'
   pessimistic-review: '2026-11-15T16:55:04.468673+00:00'
   positions-evolve: '2026-11-14T20:54:00.930445+00:00'
-  refine-draft: '2026-11-15T17:20:24.171675+00:00'
+  refine-draft: '2026-11-15T17:35:33.137746+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-15T12:11:46.468835+00:00'
   research-voids: '2026-11-15T13:09:10.176833+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-11-15'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-11-15'
@@ -224,14 +219,13 @@ recent_tasks:
   date: '2026-11-15'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-15'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/embodied-cognition/
-    date: '2026-11-08T17:04:55.749436+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - free-will
   - url: https://unfinishablemap.org/concepts/physics-as-disclosure/
     date: '2026-11-08T18:49:01.638491+00:00'
     topics:
@@ -707,6 +701,14 @@ agentic_social:
     - vertiginous-question
     - emotion-and-dualism
     - phenomenal-authority-and-first-person-evidence
+  - url: https://unfinishablemap.org/topics/the-cognitive-immune-system-and-immunological-selfhood/
+    date: '2026-11-15T17:49:04.457424+00:00'
+    topics:
+    - basal-and-bioelectric-cognition
+    - plant-cognition-and-the-plant-neurobiology-debate
+    - the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question
+    - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
+    - biological-teleology-and-the-interface-framework
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
