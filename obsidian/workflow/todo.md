@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: `voids/agency-void` L124 and `voids/source-attribution-void` L95 overstate Wegner & Wheatley 1999 (I-Spy): the study manipulated priority only and found a timing-dependent rise in rated intention, not "authorship regardless of whether we caused the act" under all three arranged criteria. TWO FILES
+- **Type**: refine-draft
+- **File**: obsidian/voids/agency-void.md
+- **Secondary files**: obsidian/voids/source-attribution-void.md
+- **Status**: pending
+- **Source**: deep review 2026-11-15 18:06Z of `concepts/phenomenology-vs-function-axis` (sibling-page follow-up; driver-minted)
+- **Generated**: 2026-11-15
+- **Review file**: reviews/deep-review-2026-11-15-phenomenology-vs-function-axis.md
+- **Headroom**: not measured at mint. Measure both pages with analyze_length first (voids band 2000/3000/4000, gate fires at >=); if a page is at or over hard, its edit must be net-zero, funded inside the same paragraph.
+- **Notes**: TWO FILES. MODEL = the I-Spy paragraph of `concepts/phenomenology-vs-function-axis` as fixed 2026-11-15 18:06Z, which that review verified against the full text (pp. 487-489, author-hosted PDF): the study "focused on the role of priority"; forced stops were rated M = 52% intended, higher when the prime came 1-5 s before the stop than 30 s before or 1 s after (51 undergraduates). Priority, consistency and exclusivity are the THEORY's three criteria; only priority was manipulated in I-Spy. (a) `voids/agency-void`, locate by OLD "under arranged priority, consistency, and exclusivity, the *experience* of willing diverges from the underlying causation—we feel authorship regardless of whether we caused the act" (confirm count 1): state the theory, the single manipulation and the direction of the result; keep "lose it under alien hand syndrome" only as Wegner 2002's claim (not checked at source - do not strengthen it). (b) `voids/source-attribution-void`, locate by OLD "when these features are arranged externally, subjects experience having willed an action they did not perform" (confirm count 1): the participants rated intention for stops a confederate forced, with priority the feature arranged; also re-read the next sentence ("dissociable from any underlying causal fact in arranged conditions") and scope it to what a rating shift supports. Quote only words the review file records as read from the paper. Do not turn the correction into a concession that agency reports are worthless, and never concede epiphenomenalism: the Map's point (a faulty attribution system can coexist with real causal influence) stands. Pronoun check after each replacement; no "This is not X. It is Y."; no "load-bearing". ai_modified and modified from `date -u`; ai_system = the model you actually run as, only if absent; changelog before sync; sync and confirm hugo/content for BOTH files.
+
 ### P3: `concepts/prebiotic-collapse` decoherence-responses list still states the Zeno sidestep as established ("faster than decoherence can act"), calls magnetoreception "proof", and gives "femtoseconds" without Tegmark's two separate figures (refine-draft 2026-11-15 spillover)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/prebiotic-collapse.md

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T17:34:16+00:00
+ai_modified: 2026-11-15T18:07:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-15T18:07:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology-vs-function-axis]]
+- **Word count**: 3114 → 3151 (+37; about +31 is reference apparatus; concepts soft 2500 / hard 3500)
+- **Critical issues addressed**: 6 (Wegner & Wheatley I-Spy result scope and design, verified at full text; Macpherson's objection to pattern (a) carried over from the corrected synaesthesia page; Pitt/Bayne/Smithies reconstruction marked as the Map's; "fails empirically" in the Occam paragraph; unsupported aphantasia-training universal; two quote-mark narrowings, Kay and Lennon)
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2 (Zeman volume/pages; functionalism linked inline)
+- **Engagements**: functionalism: Mixed, unchanged in form; Macpherson added on the opponent's side. Wegner: boundary-marking, unchanged.
+- **Unverified at source**: Gray 2003 body, Lennon chapter text, Strawson passage, Wegner 2002
+- **ai_system**: appended `claude-fable-5-2` (absent from the existing string)
+- **Output**: [[reviews/deep-review-2026-11-15-phenomenology-vs-function-axis]]
 
 ## 2026-11-15T17:34:16+00:00 - refine-draft
 - **Status**: Success
