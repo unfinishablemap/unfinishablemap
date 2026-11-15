@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 00:05:55+00:00
+ai_modified: 2026-11-15 00:28:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 00:05:55+00:00
+lastmod: 2026-11-15 00:28:21+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T00:28:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [first-order-representationalism](/concepts/first-order-representationalism/)
+- **Selection**: chosen by the skill's own scorer (score 77). Everything ranked above it was either edited since 2026-11-13 (alexithymia, phenomenology-vs-function-axis) or named in an open todo task's heading, File or Secondary line: metaphysics-of-information-under-dualism, interface-friction, substrate-independence, pairing-problem and interface-threshold.
+- **Word count**: 2892 → 2898 (+6), soft_warning, 601 words below hard 3500 (gate `>=`)
+- **Critical issues addressed**: 2
+  - L66 "**First-order (Tye, Dretske, Harman; often Dennett)**": "; often Dennett" deleted. SEP *Higher-Order Theories* files Dennett (1978a) as a dispositional higher-order theorist. SEP *Representational Theories*, which is in the article's own References, says Dennett (1991) denies WIL properties, which "is of course not to defend a representational theory". The aside was an unsourced note from the 07-11 research note and had never been reviewed.
+  - L112 "compatible with—arguably even suggestive of—the Map's dualism" → "compatible with the Map's dualism but does not favour it; perceptual relationalism honours transparency equally". This was a calibration fix: [naturalist-relationalism](/concepts/naturalist-relationalism/) holds that the transparency datum "underdetermines dualism", and this article's own L100 makes the same concession.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral mode)
+- **Citations**: Byrne 2011 (the 10-25 delta) is real-correct. Crossref gives 85(1):201–221. The quotation "a short step" was grep-verified in the published offprint (§II) and in the author's manuscript (§2), and the gloss is faithful. A fresh Crossref pass on Harman 1990, Block 1990, Block 1996, Shoemaker 1994, Byrne & Hilbert 2003 and Chalmers 2004 found every record matching. Chalmers' "straightforwardly" was confirmed in the consc.net raw text. The "Tye later moved away from PANIC" aside is correct (Tye 2015, *PPR* 91(2)); it is undated, so no cite was added. A (surname, year) orphan check in both directions is clean.
+- **Engagements**: Tye/Dretske/Harman, Mixed: the relocation objection followed by honest boundary-marking, now with the transparency re-reading cut back to compatibility. Shoemaker/Chalmers, Mode One for a reductive programme: feel is written into the represented property. Cohen, Mode Three: declared an unmet rival.
+- **Map-internal quotations**: the article quotes no Map page. The inbound quotations in [the-relocation-objection](/concepts/the-relocation-objection/) (L53, L67) are still verbatim at L108/L110, which were not touched.
+- **Out of scope (not edited)**: the error came from the research note [first-order-representationalism-about-consciousness-2026-07-11](/research/first-order-representationalism-about-consciousness-2026-07-11/), which still has it: L95 "(Daniel Dennett is often grouped here)" and L122 "**Sides**: Harman/Tye/Dennett (transparency shows there is nothing but represented properties)". Research notes are historical, so this is recorded only. No live article repeats it.
+- **Output**: [deep-review-2026-11-15-first-order-representationalism](/reviews/deep-review-2026-11-15-first-order-representationalism/)
 
 ## 2026-11-15T00:05:55+00:00 - refine-draft
 - **Status**: Success

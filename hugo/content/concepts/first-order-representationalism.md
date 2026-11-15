@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-10-25 20:48:37+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-15 00:27:08+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[intentionality]]'
@@ -13,15 +13,15 @@ concepts:
 - '[[naturalist-relationalism]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-07-11
-date: &id001 2026-10-25
+date: &id001 2026-11-15
 description: The Tye/Dretske thesis that phenomenal character just is first-order
   representational content. The Map engages this leading reductive rival to dualism
   and locates its resistance in the relocated explanatory gap.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-09-03 00:09:49+00:00
-lastmod: 2026-10-25 20:48:37+00:00
+last_deep_review: 2026-11-15 00:27:08+00:00
+lastmod: 2026-11-15 00:27:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ The representationalist's inference: the best explanation of transparency is tha
 
 Three distinctions keep "representationalism" from collapsing into a single position:
 
-- **First-order (Tye, Dretske, Harman; often Dennett)**: phenomenal character is the first-order content of the experience. No higher-order state is needed for feel; the feel is already present in the world-directed content. Jesse Prinz's [AIR theory](/concepts/attended-intermediate-representations-theory/) is a neurofunctionalist cousin in this family: it keeps consciousness first-order and perceptual, but adds attention to a specific (intermediate) processing level as the gate that switches such content on.
+- **First-order (Tye, Dretske, Harman)**: phenomenal character is the first-order content of the experience. No higher-order state is needed for feel; the feel is already present in the world-directed content. Jesse Prinz's [AIR theory](/concepts/attended-intermediate-representations-theory/) is a neurofunctionalist cousin in this family: it keeps consciousness first-order and perceptual, but adds attention to a specific (intermediate) processing level as the gate that switches such content on.
 - **Higher-order ([Rosenthal's HOT, Lycan's inner-sense theory](/concepts/higher-order-theories/))**: a state is *conscious* in virtue of being represented by a suitable further mental state. William Lycan is a useful hybrid—representationalist about qualia at the first order, but higher-order about a state's *being conscious*—which is why he is not filed as a pure first-order theorist.
 - **Non-reductive (Tim Crane; David Chalmers's Fregean representationalism)**: phenomenal character covaries with representational content, but the content-property is not thereby *physically reduced*. Chalmers pairs representational structure with property dualism or panprotopsychism.
 
@@ -113,7 +113,7 @@ First-order representationalism is a direct denial of the Map's [Dualism](/tenet
 
 The sophisticated replies to inversion make the relocation visible in miniature. Each of them buys its answer by individuating the represented property in terms of the phenomenal character it produces — dispositions to cause experiences with a given feel, modes of presentation fixed by feel, colours constituted by relations to perceivers who feel. The manoeuvre is not a defect of any one proposal; it is what a theory has to do when the content it appeals to must match feel case by case. What it forfeits is reduction. A content specified by reference to feel cannot be the naturalistic base that feel reduces to. Wide content is the one reply that keeps the reduction intact, and it pays instead in phenomenology, denying that a subject undergoing a total inversion of quality would notice.
 
-**A dualist re-reading of transparency.** The Map can accept the transparency datum in full and decline the representationalist's inference. Transparency shows that introspection attends *through* experience toward worldly objects; it does not show that experience *is* nothing but its represented content. On a dualist reading, experience is transparent *to* its objects precisely because phenomenal awareness is a non-physical coupling *directed at* the world—a relation of acquaintance with worldly properties, not an identity with a naturalized content-property. Transparency undercuts a naive picture of qualia as inner mental objects we inspect; it does not establish reduction. Read this way, the datum representationalism leans on is compatible with—arguably even suggestive of—the Map's dualism.
+**A dualist re-reading of transparency.** The Map can accept the transparency datum in full and decline the representationalist's inference. Transparency shows that introspection attends *through* experience toward worldly objects; it does not show that experience *is* nothing but its represented content. On a dualist reading, experience is transparent *to* its objects precisely because phenomenal awareness is a non-physical coupling *directed at* the world—a relation of acquaintance with worldly properties, not an identity with a naturalized content-property. Transparency undercuts a naive picture of qualia as inner mental objects we inspect; it does not establish reduction. Read this way, the datum representationalism leans on is compatible with the Map's dualism but does not favour it; perceptual relationalism honours transparency equally.
 
 The honest counterweight: the representationalist has real advantages the Map should not paper over—naturalistic economy, a direct account of perception's world-directedness, and the genuine phenomenological pull of transparency. The Map's claim is not that these fail on their own terms but that they leave the felt character of experience unexplained, which is exactly the irreducibility Dualism takes as its starting point. The view is resisted, not defeated.
 
