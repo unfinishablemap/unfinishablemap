@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-15 07:23:40+00:00
+ai_modified: 2026-11-15 07:38:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-11-15 07:23:40+00:00
+lastmod: 2026-11-15 07:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ A critic will press an apparent inconsistency. The [No Many Worlds](#the-no-many
 
 [Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently—yet as Nagel (1971) observed, such cases present too much unity to count as two minds, too much separation to count straightforwardly as one.
 
-If consciousness were merely brain processes, complete disconnection should produce complete division. A 2025 PNAS study constrains how far that reading can be pressed: a centimetre of spared posterior callosal fibre sustains full interhemispheric integration, while complete section does disrupt network organisation (Santander et al. 2025). Residual integration is thus physically explicable, so the argument cannot rest on connectivity measures. What survives is narrower: despite perceptual fragmentation, patients report a single first-person perspective—suggesting indexical identity is a different thing from the computational binding physical connections enable.
+A 2025 PNAS study constrains how far appeals to split-brain unity can be pressed: a centimetre of spared posterior callosal fibre sustains full interhemispheric integration, while complete section does disrupt network organisation (Santander et al. 2025). Residual integration is thus physically explicable, so the argument cannot rest on connectivity measures. What survives is narrower: despite perceptual fragmentation, [Pinto's patients](/topics/split-brain-consciousness/#the-resilience-of-unity) respond as one subject. If that unity is experiential, not merely of agency, indexical identity may differ from the computational binding physical connections enable.
 
 ### The Dreamless Sleep Challenge
 
@@ -161,7 +161,7 @@ Could the sense of haecceity specifically be a cognitive illusion—evolution wi
 
 The Map connects personal identity to quantum selection—*this* consciousness making *these* selections. But [decoherence](/concepts/decoherence/) poses a challenge: quantum coherence in warm biological systems supposedly decays in femtoseconds.
 
-Three considerations mitigate this: the timescale estimates are model-dependent and may be off by orders of magnitude (see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)); decoherence doesn't explain why we see definite outcomes; and the [quantum Zeno mechanism](/concepts/attention-as-interface/) suggests consciousness operates through rapid observation, not sustained coherence. Even if the quantum mechanism proves untenable, the conceptual point stands: personal identity involves *this* subject having experiences and making choices, regardless of the specific non-physical interface.
+Three considerations mitigate this: the timescale estimates are model-dependent and may be off by orders of magnitude (see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)); decoherence doesn't explain why we see definite outcomes; and the [quantum Zeno proposal](/concepts/attention-as-interface/) has consciousness acting through rapid observation, not sustained coherence. Even if the quantum mechanism proves untenable, the conceptual point stands: personal identity involves *this* subject having experiences and making choices, regardless of the specific non-physical interface.
 
 ## Implications for Survival
 
@@ -181,7 +181,7 @@ Personal identity matters for life's meaning. The [meaning of life](/topics/mean
 
 ## What Would Challenge This View?
 
-The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) contemplative reports of complete loss of particularity—not just of substantial selfhood, but of the sense of being *this* experiencer (existing accounts—e.g., Albahari 2006—describe loss of ego-identification while a perspectival centre remains); (4) a complete neural explanation of unified experience that accounts for split-brain unity. These remain unmet, but articulating them clarifies what evidence would count against the view. Teleportation cannot discriminate: [replicas report continuity on either view](/concepts/parfit-reductionism/#what-would-challenge-this-view).
+The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) contemplative reports of complete loss of particularity—not just of substantial selfhood, but of the sense of being *this* experiencer (philosophical reconstructions of such attainments—e.g., Albahari 2006—retain a perspectival centre without ego-identification); (4) a complete neural explanation of unified experience that accounts for split-brain unity. These remain unmet, but articulating them clarifies what evidence would count against the view. Teleportation cannot discriminate: [replicas report continuity on either view](/concepts/parfit-reductionism/#what-would-challenge-this-view).
 
 ## Relation to Site Perspective
 

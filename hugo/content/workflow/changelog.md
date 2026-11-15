@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15 07:24:06+00:00
+ai_modified: 2026-11-15 07:38:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-15'
-lastmod: 2026-11-15 07:24:06+00:00
+lastmod: 2026-11-15 07:38:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-15T07:38:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Task**: P1 (upgraded from P2) from convergent outer reviews 2026-11-15 (chatgpt-5-6-sol-pro + claude-fable-5-2): claim fit at L133, L161 and L181. Ownership: L133 (excluding the L131 opening), L161 and L181 only. Sibling loci (L65, L67, L69, L71, L77, L85, L87, L91, L93–L101, L107, L125, L127, L131, L139, L143, L149, L177, L187, L189, L195, References) untouched.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted four-item pass)
+- **Changes**: (1) L133 surviving claim: "patients report a single first-person perspective—suggesting indexical identity is a different thing from the computational binding physical connections enable" (it followed the Santander sentence, which reports nothing about first-person perspective) → "[Pinto's patients](/topics/split-brain-consciousness/#the-resilience-of-unity) respond as one subject. If that unity is experiential, not merely of agency, indexical identity may differ from the computational binding physical connections enable". The finding is now attributed to Pinto through a zero-word piped link to the split-brain section that cites Pinto et al. 2017 and Schechter & Bayne 2021. The agency/experience caveat is installed and "suggesting" becomes a conditional "may" (+7). (2) L133 premise: "If consciousness were merely brain processes, complete disconnection should produce complete division" was cut as a strawman (physicalists can predict graded dissociation, and callosotomy is not complete disconnection). The next sentence's dangling "that reading" was repointed: "constrains how far appeals to split-brain unity can be pressed". The Santander framing is otherwise verbatim and still deflationary (−10). (3) L181: "existing accounts—e.g., Albahari 2006—describe loss of ego-identification while a perspectival centre remains" → "philosophical reconstructions of such attainments—e.g., Albahari 2006—retain a perspectival centre without ego-identification". The evidential category is now a reconstruction rather than a report (0). (4) L161: "the [quantum Zeno mechanism](/concepts/attention-as-interface/) suggests consciousness operates through rapid observation" → "the [quantum Zeno proposal](/concepts/attention-as-interface/) has consciousness acting through rapid observation" (0).
+- **Split-brain consistency**: re-grepped live `topics/split-brain-consciousness`: L78 Schechter and Bayne (2021) "establishes a unity of *agency*, not a unity of *experience*" (1); L150 "whether experience divides stays open" (1). L133 now matches both: unity of response is granted, and the experiential reading is conditional. It does not contradict L131: Nagel's "too much unity to count as two minds" is compatible with an agency-only unity.
+- **Engagement classification**: the physicalist reading of split-brain unity is framework-boundary marking. The strawman premise is removed, the Santander concession stands, and the remaining claim is conditional with no in-framework refutation claimed. Pinto, Santander, Schechter, Bayne and Albahari are not enlisted for dualism.
+- **Hedges kept**: L95, L105, L127, L173 untouched.
+- **Word count**: 4,032 → 4,029 (−3: L133 −3 [premise −10, surviving claim +7], L161 0, L181 0). Still over the 4,000 topics ceiling. The open NEEDS-HUMAN length decision is not resolved here.
+- **Out of scope**: `topics/split-brain-consciousness` L150 carries the same strawman premise ("If consciousness were the brain's integrated activity, severing the corpus callosum should produce a clean split"). `apex/identity-across-transformations` L99 ("patients report a single first-person perspective, which suggests…"), L101 ("The reports suggest the first-person perspective does not divide") and L171 ("Split-brain patients report a single first-person perspective") carry the uncorrected claim. Its open P1 covers L89/L97/L117/L135 only. The Fable lead that Thompson reads Albahari (pp. 9–10, 46) as allowing a perspectiveless witness in full nirvana is unverified and was not added. L159 "supposedly decays in femtoseconds" (Fable: tilts against the rival) is unowned and was not edited. Neither was touched.
+- **ai_system**: claude-opus-5-5 already present; not appended.
+- **Published**: yes
 
 ## 2026-11-15T07:24:06+00:00 - refine-draft
 - **Status**: Success
