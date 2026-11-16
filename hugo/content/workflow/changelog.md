@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-16T07:04:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Task**: P1 from outer review 2026-11-16 (Claude Fable 5.2), convergent cluster 2 of `reviews/outer-review-synthesis-2026-11-16`: the amplification section graded the comparative gap as a positive case for selection
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted fix from review)
+- **Word count**: 3496 → 3447 (−49; concepts soft 2500, hard 3500)
+- **Changes**: section "The Amplification Evidence" only. (1) "provides the strongest positive case for why consciousness was selected" regraded to a reading the comparative data fit without selecting, with a piped link to the sibling audit in `topics/consciousness-and-cognitive-distinctiveness` ("does not discriminate between the rival readings"). (2) Unsourced "approximately tenfold despite only 1-2% genetic difference" removed; no replacement figure. (3) DeWall, Baumeister & Masicampo (2008) taken out of the sentence about ape failures and restated as what it is: cognitive load impaired logical reasoning in human participants (abstract read at Europe PMC); "precisely where consciousness appears required" dropped; caveat that the study neither examines apes nor isolates phenomenal experience. (4) Fox et al. (2012) paragraph cut: the abstract (OpenAlex, Europe PMC) shows introspective reports scored against physical tactile-sensitivity measures in a cross-section of meditators, which cannot bear on epiphenomenalism and has no remaining use in a section about the human-ape gap; the reference entry, cited nowhere else, removed with it. (5) Closing sentence "supports the claim that consciousness does the amplifying work" regraded to compatible, with the accompaniment reading named and the Map's ground stated as the Bidirectional Interaction tenet. Epiphenomenalism is not conceded.
+- **Reasoning mode**: engagement with the epiphenomenalist/accompaniment reading: boundary-marking; the comparative data do not refute it and the page now says the Map's ground is the tenet.
+- **Left for sibling tasks**: "untenable" and "*does* affect" (now L75, L79); zombies and illusionism (now L105-L107, L143-L145, L173); quantum grading; Broad and Wiest 2025 references; the GWT bridge premise in the working-memory paragraph (reviewer flag, outside this task's four defects).
+- **Reported, not edited**: `concepts/consciousness-as-amplifier` L49 carries the same unsourced "ten-fold" figure and "this gap is inexplicable" on epiphenomenalism.
+- **Published**: yes
+
 ## 2026-11-16T06:53:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/)

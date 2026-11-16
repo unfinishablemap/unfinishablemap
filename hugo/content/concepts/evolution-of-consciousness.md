@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-11-15 01:50:14+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-16 07:04:20+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -18,14 +18,14 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[consciousness-as-amplifier]]'
 created: 2026-01-19
-date: &id001 2026-01-21
+date: &id001 2026-11-16
 description: 'When did consciousness arise? Dualism avoids the strong emergence puzzle:
   brains didn''t produce consciousness, they evolved as interfaces.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:48:51+00:00
-lastmod: 2026-11-15 01:50:14+00:00
+lastmod: 2026-11-16 07:04:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,15 +95,13 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 ### The Amplification Evidence
 
-The [amplification hypothesis](/concepts/consciousness-as-amplifier/) provides the strongest positive case for why consciousness was selected. The human-great ape intelligence gap—approximately tenfold despite only 1-2% genetic difference—tracks consciousness-dependent capacities systematically.
+The [amplification hypothesis](/concepts/consciousness-as-amplifier/) reads the human–great ape cognitive gap as tracking capacities that depend on consciousness. The comparative data fit that reading without selecting it: the gap [does not discriminate between the rival readings](/topics/consciousness-and-cognitive-distinctiveness/#what-the-comparative-pattern-can-and-cannot-establish).
 
-Great apes succeed at tool use, social cognition, and procedural metacognition—capacities that don't require conscious access to succeed. They fail precisely where consciousness appears required: logical reasoning (DeWall, Baumeister, & Masicampo 2008 showed rule-following specifically depends on conscious processing), cumulative culture (Gruber, Zuberbühler, Clément, & van Schaik 2015 argue apes have culture but may not know that they do—metarepresentation may require consciousness), and counterfactual thinking.
+Great apes succeed at tool use, social cognition, and procedural metacognition—capacities that don't require conscious access. They are limited in logical reasoning, cumulative culture (Gruber, Zuberbühler, Clément, & van Schaik 2015 argue apes have culture but may not know that they do—metarepresentation may require consciousness), and counterfactual thinking. DeWall, Baumeister, & Masicampo (2008) found cognitive load impaired logical reasoning in human participants; the study neither examines apes nor isolates phenomenal experience.
 
 **Working memory expansion**: Chimpanzee working memory capacity is substantially more limited than humans'—estimated at 2±1 items against Miller's 7±2, on a review of the comparative data whose cross-species comparison remains contested (Read, Manrique & Walker 2022). If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
 
-**Introspective skill tracks contemplative experience**: Fox et al. (2012) found that meditation experience predicts introspective accuracy, experienced practitioners outperforming novices. The design is cross-sectional, so it cannot show that practice produced the gap; either way the gap needs explaining. If consciousness were epiphenomenal, attentional expertise should make no difference to introspective performance—you cannot get better at observing a causally inert process.
-
-The gap is not random. This systematic pattern—sophisticated within the baseline, limited where consciousness appears required—supports the claim that consciousness does the amplifying work.
+An account on which experience merely accompanies the capable architecture predicts the same pattern. The comparative data are compatible with consciousness doing the amplifying work; the Map's ground for holding that it does is the Bidirectional Interaction tenet.
 
 ### The Causal Question
 
@@ -245,7 +243,6 @@ Scientific humility requires specifying what would count against one's view.
 1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 1. Chalmers, D. (2006). Strong and Weak Emergence. In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
 1. Duan, H.-G., Prokhorenko, V.I., Cogdell, R.J., Ashraf, K., Stevens, A.L., Thorwart, M., & Miller, R.J.D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *PNAS*, 114(32), 8493-8498.
-1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.

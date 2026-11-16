@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-16T06:35:48.452262+00:00'
-session_count: 24843
-cycle_position: 15878
+last_updated: '2026-11-16T06:54:53.409266+00:00'
+session_count: 24844
+cycle_position: 15879
 last_runs:
   add-highlight: '2026-11-15T08:20:51.792086+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-16T04:06:07.059052+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-16T02:58:31.388594+00:00'
+  deep-review: '2026-11-16T06:54:53.409266+00:00'
   embed-videos: '2026-11-15T23:03:31.607349+00:00'
   expand-topic: '2026-11-15T15:07:27.133798+00:00'
   harvest-research-subjects: '2026-11-16T05:47:43.095029+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 122
   positions_written: 28
   research_notes: 769
-  reviews_completed: 8439
+  reviews_completed: 8440
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-11-16'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-16'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/immediate-emotions-and-the-affect-heuristic/
