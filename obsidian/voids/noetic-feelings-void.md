@@ -2,9 +2,9 @@
 title: "The Noetic Feelings Void"
 description: "The felt signals that gate cognition from inside—knowing, rightness, familiarity, understanding, obviousness, coherence—are produced by heuristic machinery consciousness cannot inspect, and terminate inquiry before investigation can check them."
 created: 2026-02-27
-modified: 2026-04-30
+modified: 2026-11-16
 human_modified:
-ai_modified: 2026-10-14T08:04:00.602691+00:00
+ai_modified: 2026-11-16T22:33:56+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -59,7 +59,7 @@ related_articles:
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-04-24
 last_curated:
 last_deep_review: 2026-07-15T22:29:17+00:00
@@ -170,15 +170,13 @@ AI systems with architectural access to softmax distributions and calibration me
 
 ## Relation to Site Perspective
 
-The void connects to the Map's [[tenets|foundational commitments]] in ways that sharpen rather than soften its position.
+The void bears on the Map's [[tenets|foundational commitments]] more as a discipline on them than as support.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is the most central connection. Trust in parsimony is itself a noetic feeling: when an explanation *feels* sufficient or clean, that feel is a fluency-and-coherence signal. The razor has no independent auditor inside a single consciousness. The Map's commitment to limited parsimony under incomplete knowledge is, among other things, an instruction to *distrust the feeling of sufficiency*. [[consciousness-and-scientific-explanation|Scientific explanation]] meets this directly: apparently decisive theories can be artefacts of presentation rather than tracks of genuine fit.
 
-**[[tenets#^dualism|Dualism]]** receives support on two lines. First, noetic feelings have genuine phenomenal character—an irreducible felt quality not identical with the accessibility score or fluency trace that triggered them. Functional reduction misses the feel. Second, the assumption that consciousness is physical feels self-evident to many contemporary thinkers, but this may be fluency masquerading as evidence: materialism is the default framework, exposure generates fluency, fluency generates the feeling of truth. That dualism feels counterintuitive may be evidence the stop-sign is firing before investigation reaches the arguments.
+**[[tenets#^dualism|Dualism]]** gains a caution and no evidence. The datum is that felt rightness is produced by fluency and attaches to claims whatever their truth. That cuts both ways: if materialism's obviousness may be fluency, so may the felt force of the intuitions dualists lean on, and a physicalist expects the same machinery. Arguments on either side have to be weighed apart from how compelling they feel. The Map holds that these feelings have a phenomenal character functional description leaves out; that is the tenet applied here, and the void lends it no weight: the voids register has [[positions/voids-as-evidence#^p-v3|suspended the cumulative step]].
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** If consciousness has causal power, the interface is partly routed through these feelings—they determine which cognitive processes persist long enough to shape action. The Map holds that minds don't move matter *by force*. The stop-sign may be the felt obviousness of the stronger claim that mind cannot *select* among physically underdetermined outcomes—foreclosing investigation of the interface.
-
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** permits a speculative extension: if consciousness's physical influence is low-bandwidth, noetic feelings—terse, verdict-like, affectively minimal—are natural candidate signatures. The core argument does not depend on this.
 
 The [[meta-epistemology-of-limits]] flags a tension worth naming: "I cannot audit my feelings of rightness" must itself be submitted to a feeling of rightness.
 

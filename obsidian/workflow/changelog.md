@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T22:27:11+00:00
+ai_modified: 2026-11-16T22:34:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T22:34:24+00:00 - refine-draft
+- **Status**: Success (TWO FILES)
+- **Files**: [[voids/disappearance-voids]], [[voids/noetic-feelings-void]]
+- **Review file**: `reviews/pessimistic-2026-11-16-void-tenet-sections-pv3.md`, Priority List item 1
+- **Original score**: n/a (targeted repair; `scripts/curate.py` is absent)
+- **Changes**: `disappearance-voids` - Dualism paragraph "gains support from all three mechanisms" replaced with "gains a reading ... and no evidence": each dissociation is tied to the physical account the page's own body gives (default-mode suppression, synaptic adaptation, dissociable couplings), the Map's reading is marked as the Map's, P-V3 linked; Bidirectional Interaction "demonstrating that consciousness actively selects" softened to "which fits ... without showing it". Occam's-limits paragraph ("is directly implicated") left as the review directed, no room. `noetic-feelings-void` - Dualism paragraph "receives support on two lines" replaced with "gains a caution and no evidence": the fluency debunk is stated as symmetric (it undercuts felt obviousness on both sides), the phenomenal-character claim is kept as the tenet applied, P-V3 linked; Minimal Quantum Interaction paragraph (terseness resemblance only) deleted whole; section intro "sharpen rather than soften its position" reworded at zero cost to match. No named-opponent reply was edited, so no reasoning-mode classification applies.
+- **Length** (`analyze_length`): `disappearance-voids` 2988 -> 2988; `noetic-feelings-void` 3727 -> 3715 (Further Reading + References 716 words unchanged; still over the hard gate, not condensed here).
+- **Published**: yes
 
 ## 2026-11-16T22:27:11+00:00 - pessimistic-review
 - **Status**: Success

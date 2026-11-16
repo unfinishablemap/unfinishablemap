@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-10-14 08:04:00.602691+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-16 22:33:56+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /voids/understanding-void/
@@ -16,7 +16,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[explanatory-gap]]'
 created: 2026-02-27
-date: &id001 2026-04-30
+date: &id001 2026-11-16
 description: The felt signals that gate cognition from inside—knowing, rightness,
   familiarity, understanding, obviousness, coherence—are produced by heuristic machinery
   consciousness cannot inspect, and terminate inquiry before investigation can check
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:29:17+00:00
-lastmod: 2026-10-14 08:04:00.602691+00:00
+lastmod: 2026-11-16 22:33:56+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -175,15 +175,13 @@ AI systems with architectural access to softmax distributions and calibration me
 
 ## Relation to Site Perspective
 
-The void connects to the Map's [foundational commitments](/tenets/) in ways that sharpen rather than soften its position.
+The void bears on the Map's [foundational commitments](/tenets/) more as a discipline on them than as support.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is the most central connection. Trust in parsimony is itself a noetic feeling: when an explanation *feels* sufficient or clean, that feel is a fluency-and-coherence signal. The razor has no independent auditor inside a single consciousness. The Map's commitment to limited parsimony under incomplete knowledge is, among other things, an instruction to *distrust the feeling of sufficiency*. [Scientific explanation](/concepts/consciousness-and-scientific-explanation/) meets this directly: apparently decisive theories can be artefacts of presentation rather than tracks of genuine fit.
 
-**[Dualism](/tenets/#dualism)** receives support on two lines. First, noetic feelings have genuine phenomenal character—an irreducible felt quality not identical with the accessibility score or fluency trace that triggered them. Functional reduction misses the feel. Second, the assumption that consciousness is physical feels self-evident to many contemporary thinkers, but this may be fluency masquerading as evidence: materialism is the default framework, exposure generates fluency, fluency generates the feeling of truth. That dualism feels counterintuitive may be evidence the stop-sign is firing before investigation reaches the arguments.
+**[Dualism](/tenets/#dualism)** gains a caution and no evidence. The datum is that felt rightness is produced by fluency and attaches to claims whatever their truth. That cuts both ways: if materialism's obviousness may be fluency, so may the felt force of the intuitions dualists lean on, and a physicalist expects the same machinery. Arguments on either side have to be weighed apart from how compelling they feel. The Map holds that these feelings have a phenomenal character functional description leaves out; that is the tenet applied here, and the void lends it no weight: the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** If consciousness has causal power, the interface is partly routed through these feelings—they determine which cognitive processes persist long enough to shape action. The Map holds that minds don't move matter *by force*. The stop-sign may be the felt obviousness of the stronger claim that mind cannot *select* among physically underdetermined outcomes—foreclosing investigation of the interface.
-
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** permits a speculative extension: if consciousness's physical influence is low-bandwidth, noetic feelings—terse, verdict-like, affectively minimal—are natural candidate signatures. The core argument does not depend on this.
 
 The [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) flags a tension worth naming: "I cannot audit my feelings of rightness" must itself be submitted to a feeling of rightness.
 

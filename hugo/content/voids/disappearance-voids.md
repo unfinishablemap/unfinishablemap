@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-09-05 23:23:12+00:00
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-16 22:33:56+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /voids/absorption-void/
@@ -19,7 +19,7 @@ concepts:
 - '[[predictive-processing]]'
 - '[[mental-effort]]'
 created: 2026-02-03
-date: &id001 2026-04-09
+date: &id001 2026-11-16
 description: Three mechanisms by which phenomenal content vanishes from consciousness
   — peak intensity, repetition, and depletion — each revealing architecture invisible
   under normal conditions.
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 13:35:25+00:00
-lastmod: 2026-09-05 23:23:12+00:00
+lastmod: 2026-11-16 22:33:56+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -162,9 +162,9 @@ That reclassification is the second time a limit the catalogue called structural
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** gains support from all three mechanisms. Absorption shows that self-awareness can be eliminated while consciousness intensifies — the self emerges afterward, often stronger, suggesting it is not reducible to its own self-monitoring. Habituation demonstrates that functional processing and phenomenal experience dissociate: the familiar continues to be processed (we don't walk into walls) while dropping out of awareness, supporting the claim that phenomenal consciousness is something over and above functional competence. The [anesthesia evidence](/voids/anesthesia-void/) shows inner experience persisting after environmental disconnection and behavioural responsiveness — a dissociation harder to explain as a single neural hierarchy than as dissociable couplings.
+**[Dualism](/tenets/#dualism)** gains a reading from the three mechanisms and no evidence. Each datum is a dissociation this page already accounts for physically: self-monitoring drops out in absorption as default-mode activity falls, habituated input is still processed while synaptic adaptation takes it below conscious registration, and the [anesthesia](/voids/anesthesia-void/) states come apart as dissociable couplings. None discriminates dualism from physicalism. The Map reads the gap between continued processing and vanished experience as a sign that experience is more than functional competence. That reading is the Map's and carries no evidential weight: the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3).
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is enriched by the volitional dimensions of each void. Contemplative practitioners deliberately enter absorbed states, demonstrating that consciousness actively selects its own mode of operation. Fatigue offers a weaker version: capacities are shed not at random but in an order that tracks how much deliberate engagement each requires.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is enriched by the volitional dimensions of each void. Contemplative practitioners deliberately enter absorbed states, which fits consciousness selecting its own mode of operation without showing it. Fatigue offers a weaker version: capacities are shed not at random but in an order that tracks how much deliberate engagement each requires.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly implicated. Habituation is cognitive simplification applied to lived experience: the simplest assumption is that the familiar requires no attention, but simplest is not richest. The Dreyfus-Zahavi debate on absorption resists resolution through simple categories. And the simple model of fatigue as "running out of energy" masks a complex, structured phenomenon with existential, phenomenological, and architectural dimensions.
 
