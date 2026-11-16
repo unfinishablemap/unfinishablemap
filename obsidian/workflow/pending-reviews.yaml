@@ -31,9 +31,9 @@
   commissioned_at: '2026-11-16T03:05:48.202610+00:00'
   prompt_summary: Hostile-referee audit of topics/consciousness-evolution-and-biology
   target_filename: outer-review-2026-11-16-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-16T04:34:50.165781+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair academic referee and audit one article
     from The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind

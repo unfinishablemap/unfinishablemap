@@ -5,6 +5,16 @@ ai_modified: 2026-11-16 02:57:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-16T04:38:46+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (model selector reads "Fable 5.2", effort "Extra"; research panel "Research complete • 323 sources • 7m 48s")
+- **File**: [[reviews/outer-review-2026-11-16-claude-fable-5-2]]
+- **Subject**: [[topics/consciousness-evolution-and-biology]] (reuse of the ChatGPT cycle subject) — **not audited**: the reviewer could not fetch the page and audited [[concepts/evolution-of-consciousness]] instead. The page is live (HTTP 200 at 04:35Z), so the failure is the reviewer's tooling.
+- **Claims verified**: 12 confirmed against the concept page or Crossref, 3 groups unverified, 6 disputed or not adopted
+- **High-value findings**: 4 (amplification "strongest positive case" against a sibling's non-discrimination concession; "no philosophical zombies" and the illusionism redefinition; quantum-evidence and dualist-advantage grading; reference and fidelity gaps)
+- **Tasks generated**: 4 on `concepts/evolution-of-consciousness` (P1: 2, P2: 2), placed below the four ChatGPT-review tasks on the topic page. No overlap minted: "untenable" (L75) was already queued on 2026-11-15; the zombie-burden theme is the neighbouring ChatGPT P1 on a different file.
+- **Note**: the concept page has 3 usable words under its hard threshold; the tasks are ordered so the net-cutting one runs first.
+
 ## 2026-11-16T03:53:41+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro (page shows "Worked for 10m 40s" and "Try again • 5.6 Pro"; thinking effort unconfirmed)
