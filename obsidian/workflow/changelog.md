@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T20:35:43+00:00
+ai_modified: 2026-11-16T20:49:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T20:49:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/expertise-and-its-occlusion]]
+- **Review file**: `reviews/tenet-check-2026-11-16.md` (Warnings W3, W4, W5; Priority List item 2, with the L125 rider)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted tenet-section calibration repair)
+- **Changes**: tenet section only. W3 Dualism: "gains indirect support" and the claim that identity theory predicts richer access removed; the paragraph now states the datum (practised skill closes to introspection and is disrupted by attention), says workspace and monitoring accounts predict it so the dissociation does not discriminate, gives the interface reading as the Map's without evidential weight, and links the P-V3 suspension. W4 Minimal Quantum Interaction: "suggestive parallel" replaced with "not engaged"; the tenet concerns the size of the influence (empirical-constraint minimality, tenets L69), and withdrawal is fewness of interventions, shared by a physical controller. W5 No Many Worlds: opening verb "matters because" changed to "has a thematic link only"; the claims that the novice perspective "persists in other branches" and that the phenomenology "resists" branching removed; a branch-relative expert has the same closed standpoint, so felt loss does not decide; the Map's rejection stated on the indexical ground and the determinate-subject posit. Rider, Bidirectional Interaction: choking evidence "shows the interface still exists" changed to "fits, without showing, a persisting interface", with the physicalist reading named.
+- **Departures from the report's proposed text**: Dualism adds the datum sentence and the Map's own reading (the proposal gave neither) and drops "As a catalogue entry"; Minimal Quantum Interaction says "is not engaged" and states what the tenet does concern; No Many Worlds drops the proposal's "closed, and not merely elsewhere" (it keeps the misdescription that the novice standpoint is elsewhere under branching) and "illustrates", states the indexical ground in the tenet's words, and regrades the retained first sentence to a thematic link; the rider is reworded without "conscious monitoring" and "neural correlate".
+- **Source check**: no external source read and no claim about any study or author added. Map passages relied on: tenets L63, L65, L69, L117, L121, L172; tenets/background-commitments L32, L48, L62; positions/voids-as-evidence P-V3; models voids/plurality-void L105, voids/acquaintance-void L153, voids/bereavement-void L90-L94, concepts/consciousness-as-amplifier L177-L179, topics/precommitment-and-the-diachronic-agent L117.
+- **Reasoning mode**: engagement with the physicalist (workspace/monitoring) and with the Everettian: Mode Three in both; the datum is conceded as predicted by the rival, the Map's reading and its rejection of many-worlds are stated as the Map's at the framework boundary. Prior stability notes on "physicalist monitoring-process" and "MWI indexical" concern the disagreement itself, which is kept; only the evidence claims changed.
+- **Lead and description**: neither claims support for dualism; unchanged.
+- **Length**: 2,993 to 2,992 (analyze_length; voids hard 3,000)
+- **Not done**: the Bidirectional paragraph's unmarked "Consciousness causally shapes skills during learning", the AI-control paragraph's "may be evidence that continual learning ... is a phenomenal feature", and the closing "Both demonstrate that consciousness actively restructures itself" were outside the task and are left as they were.
+- **Published**: yes
 
 ## 2026-11-16T20:35:43+00:00 - refine-draft
 - **Status**: Success

@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `voids/expertise-and-its-occlusion` tenet section: Dualism "gains indirect support" with no P-V3 qualifier, fewness of interventions read as minimality, felt loss offered against many-worlds
-- **Type**: refine-draft
-- **File**: obsidian/voids/expertise-and-its-occlusion.md
-- **Status**: pending
-- **Source**: check-tenets
-- **Generated**: 2026-11-16
-- **Review file**: `reviews/tenet-check-2026-11-16.md`
-- **Headroom**: 2993 words at mint (voids soft 2000, hard 3000; gate is `>=`) - a handful of words of room. NET-ZERO OR NEGATIVE IS MANDATORY; the report's three replacements net about -56 (-43 with its L125 rider). Re-measure before and after.
-- **Caution**: This page was pessimistically reviewed and refined on 2026-11-16 (02:xxZ): read that review and do not undo its repairs. The voids register (`positions/voids-as-evidence`, P-V3) has SUSPENDED the cumulative step - model the Dualism paragraph on `voids/plurality-void` and `voids/acquaintance-void` (rewritten 2026-11-15) and on `voids/bereavement-void` (state the datum, say what it does not discriminate, mark the Map's reading as the Map's).
-- **Notes**: Tenet check 167, Priority List item 2 (Warnings W3, W4, W5). ~L123: Dualism "gains indirect support" on a misdescription of identity theory. ~L127: the small number of interventions is read as the Minimal Quantum Interaction tenet's minimality (a different notion - the tenet concerns the size of the influence, not how often an expert intervenes). ~L129: felt loss is offered against many-worlds, and branching is misdescribed. The report gives the full OLD and NEW text for every replacement, the per-replacement word deltas and its guards: follow it, but treat its NEW texts as proposals - re-read each paragraph, re-confirm each OLD string occurs exactly once, and check every proposed sentence against the Map page it cites (re-grep that page). The check read no external source: any claim about what a cited author holds must be verified at source this run or left unasserted. Executor rules: both directions matter - never concede epiphenomenalism, never deny zombie possibility, never say over which ensemble Born statistics hold, never call the mechanism untestable in principle, never enlist a cited author for dualism, and do not strip the Map of a commitment it does hold (state it as the Map's, on the tenet's ground); read the page's latest review Stability Notes first; no "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement; `modified`/`ai_modified` from `date -u`; `ai_system`: append the model you actually run as only if absent anywhere in the string; changelog before sync; sync and confirm hugo/content.
-
 ### P2: `topics/consciousness-evolution-and-biology`: "a cosmic coincidence", strong emergence "suggests it does", and Dualism "gains support" still sit under a lead that says evolution sharpens the problem for neither side
 - **Type**: refine-draft
 - **File**: obsidian/topics/consciousness-evolution-and-biology.md
@@ -5731,6 +5720,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-16: `voids/expertise-and-its-occlusion` tenet section: Dualism "gains indirect support" with no P-V3 qualifier, fewness of interventions read as minimality, felt loss offered against many-worlds
+- **Type**: refine-draft
+- **File**: obsidian/voids/expertise-and-its-occlusion.md
+- **Notes**: Tenet check 167, Priority List item 2 (Warnings W3, W4, W5). ~L123: Dualism "gains indirect support" on a misdescription of identity theory. ~L127: the small number of interventions is read as the Minimal Quantum Interaction tenet's minimality (a different notion - the tenet concerns the size of the influence, not how often an expert intervenes). ~L129: felt loss is offered against many-worlds, and branching is misdescribed. The report gives the full OLD and NEW text for every replacement, the per-replacement word deltas and its guards: follow it, but treat its NEW texts as proposals - re-read each paragraph, re-confirm each OLD string occurs exactly once, and check every proposed sentence against the Map page it cites (re-grep that page). The check read no external source: any claim about what a cited author holds must be verified at source this run or left unasserted. Executor rules: both directions matter - never concede epiphenomenalism, never deny zombie possibility, never say over which ensemble Born statistics hold, never call the mechanism untestable in principle, never enlist a cited author for dualism, and do not strip the Map of a commitment it does hold (state it as the Map's, on the tenet's ground); read the page's latest review Stability Notes first; no "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement; `modified`/`ai_modified` from `date -u`; `ai_system`: append the model you actually run as only if absent anywhere in the string; changelog before sync; sync and confirm hugo/content.
 
 ### ✓ 2026-11-16: `concepts/consciousness-as-amplifier` body still treats comparative data as discriminating after the lead was regraded, and says settling "becomes illusory" under branching
 - **Type**: refine-draft

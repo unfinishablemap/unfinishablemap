@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-11-16 01:50:51+00:00
+ai_modified: 2026-11-16 20:48:52+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 11:44:15+00:00
-lastmod: 2026-11-16 01:50:51+00:00
+lastmod: 2026-11-16 20:48:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -123,13 +123,13 @@ Three features of the void carry weight beyond the phenomenology itself.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** gains indirect support from the systematic decoupling of consciousness and cognitive performance. On identity theories, consciousness *is* the relevant computational process, so improved computation should entail richer conscious access, not less; the expertise void shows the opposite. A physicalist can reply that consciousness is identical to a *monitoring* process, separate from the skilled computation it monitors—but that concedes the core point that consciousness and cognitive processing are dissociable, which sits more naturally with dualism than with identity theory.
+**[Dualism](/tenets/#dualism)** gains a reading and no evidence. The datum is that practised skill closes to introspection and is disrupted by attention. Physicalist workspace and monitoring accounts predict this: automatised processing leaves the capacity-limited system they identify with consciousness, so the dissociation is common ground and does not discriminate. The Map reads the withdrawal as consciousness disengaging from an interface. That reading is the Map's and carries no evidential weight: the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3).
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds a concrete case study. Consciousness causally shapes skills during learning through attention, error correction, and deliberate practice via [skill-delegation](/concepts/skill-delegation/); the skills then run without conscious supervision. This temporal pattern—intense causal engagement during acquisition, structural exclusion during performance—maps the interface with unusual clarity, and the choking evidence shows the interface still exists: consciousness can re-enter, but at a cost.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds a concrete case study. Consciousness causally shapes skills during learning through attention, error correction, and deliberate practice via [skill-delegation](/concepts/skill-delegation/); the skills then run without conscious supervision. This temporal pattern—intense causal engagement during acquisition, structural exclusion during performance—maps the interface with unusual clarity, and the choking evidence fits, without showing, a persisting interface: consciousness can re-enter, but at a cost, which a physicalist reads as one neural process disrupting another.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** finds a suggestive parallel. The Map posits the smallest possible non-physical influence on quantum outcomes; the expertise void shows consciousness already economising its involvement in a domain we can observe—intervening intensely during learning, then all but withdrawing once the skill runs.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is not engaged. The tenet concerns the size of the non-physical influence on physical outcomes (its empirical-constraint minimality), and withdrawal once a skill runs is fewness of interventions, an economy a physical controller shares.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** matters because the occlusion is directional—the expert's trajectory through learning is a single path, and the standpoint it left behind is one this expert can no longer occupy. On Many Worlds, every branch is equally real, so the novice perspective is never truly lost—it persists in other branches. The phenomenology of the expertise void resists this framing. The expert's inability to recover their former perception is experienced as genuine loss, not as branching. Indexical identity—being *this* expert, whose earlier way of seeing is closed rather than merely elsewhere—is what gives the void its force.
+**[No Many Worlds](/tenets/#no-many-worlds)** has a thematic link only: the occlusion is directional—the expert's trajectory through learning is a single path, and the standpoint it left behind is one this expert can no longer occupy. An expert within a branch has the same history of learning and the same closed standpoint, so the felt loss does not decide against branching. The Map rejects many-worlds on the tenet's indexical ground (a branch-egalitarian picture does not say why I am *this* branch), which rests on the [determinate subject the Map posits](/tenets/background-commitments/); the void adds nothing to it.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated by the void's own invisibility. The expert's self-model is simpler than their expertise—Polanyi's paradox in miniature. Simple explanations of skill ("she's talented," "he practised a lot") systematically underrepresent the transformation mastery involves: apparent simplicity concealing structured complexity that resists articulation by design.
 
