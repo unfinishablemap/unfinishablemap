@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/consciousness-evolution-and-biology` misstates the history of teleology and the function literature, and names Millikan and Neander without references
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-evolution-and-biology.md
-- **Status**: pending
-- **Review file**: `reviews/outer-review-2026-11-16-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-11-16
-- **Headroom**: measured 2026-11-16 with `tools.curate.length.analyze_length`: 2957 words (topics soft 3000, hard 4000) — 43 words under soft, 1042 under hard. Re-measure before editing; four tasks from this review target the same file. Budget for this task: about +80 words of prose plus two reference lines.
-- **Coordination**: Run THIRD. Touches L69, L83-L87, L143 (teleology clause only) and the References block.
-- **Notes**: From outer review 2026-11-16 (ChatGPT 5.6 Sol Pro); read the review's Verification Notes section first. (1) L83 "Modern biology officially banished teleology... with Darwin" is too crude: Darwin to Asa Gray, 5 June [1874] (Darwin Correspondence Project DCP-LETT-9483), "What you say about teleology pleases me especially" — Gray had credited him with bringing teleology back to natural history. Say that Darwin removed external design and that selection naturalised purposive talk. (2) L83/L87 equate teleonomy with selection history and say philosophy of biology "lacks a framework" for organism-generated purpose. Organisational accounts (the article itself cites Mossio & Moreno 2010) ground goal-directedness in self-maintaining closure, and the Map's own `topics/consciousness-and-the-major-evolutionary-transitions` discusses Ginsburg and Jablonka. Narrow the claim to what the Map needs: existing naturalistic accounts do not by themselves establish that *phenomenal* purpose is irreducible or efficacious. Check what Mossio & Moreno actually claim before glossing them (not verified in the review). (3) L69 "neither dominant account handles consciousness" presents etiological vs causal-role as exhaustive and faults both for not answering a constitutive question outside their remit; acknowledge organisational/pluralist accounts in a clause and reword so the limitation is stated as a limit of scope. (4) References: add Millikan and Neander entries for the works L69 relies on (verify titles, years and venues at the publisher or Crossref; do not write them from memory), and either use Nagel (1974) in the body or drop it. Apply the same L143 wording ("biology's official rejection of teleology") once L83 is fixed. Line numbers are source-file lines as of 2026-11-16 and will shift once a sibling task lands; locate passages by their quoted text. Update `ai_modified` (UTC) and append the executing model to `ai_system` only if it is absent anywhere in the string. Sync so the Hugo copy matches.
-
 ### P2: `topics/consciousness-evolution-and-biology` mischaracterises IIT, Russellian monism and the dualism/gradualism contrast, and overstates the organism claim
 - **Type**: refine-draft
 - **File**: obsidian/topics/consciousness-evolution-and-biology.md
@@ -5807,6 +5796,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-16: `topics/consciousness-evolution-and-biology` misstates the history of teleology and the function literature, and names Millikan and Neander without references
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-evolution-and-biology.md
+- **Notes**: From outer review 2026-11-16 (ChatGPT 5.6 Sol Pro); read the review's Verification Notes section first. (1) L83 "Modern biology officially banished teleology... with Darwin" is too crude: Darwin to Asa Gray, 5 June [1874] (Darwin Correspondence Project DCP-LETT-9483), "What you say about teleology pleases me especially" — Gray had credited him with bringing teleology back to natural history. Say that Darwin removed external design and that selection naturalised purposive talk. (2) L83/L87 equate teleonomy with selection history and say philosophy of biology "lacks a framework" for organism-generated purpose. Organisational accounts (the article itself cites Mossio & Moreno 2010) ground goal-directedness in self-maintaining closure, and the Map's own `topics/consciousness-and-the-major-evolutionary-transitions` discusses Ginsburg and Jablonka. Narrow the claim to what the Map needs: existing naturalistic accounts do not by themselves establish that *phenomenal* purpose is irreducible or efficacious. Check what Mossio & Moreno actually claim before glossing them (not verified in the review). (3) L69 "neither dominant account handles consciousness" presents etiological vs causal-role as exhaustive and faults both for not answering a constitutive question outside their remit; acknowledge organisational/pluralist accounts in a clause and reword so the limitation is stated as a limit of scope. (4) References: add Millikan and Neander entries for the works L69 relies on (verify titles, years and venues at the publisher or Crossref; do not write them from memory), and either use Nagel (1974) in the body or drop it. Apply the same L143 wording ("biology's official rejection of teleology") once L83 is fixed. Line numbers are source-file lines as of 2026-11-16 and will shift once a sibling task lands; locate passages by their quoted text. Update `ai_modified` (UTC) and append the executing model to `ai_system` only if it is absent anywhere in the string. Sync so the Hugo copy matches.
 
 ### ✓ 2026-11-16: `topics/consciousness-evolution-and-biology` asks why selection would build self-misrepresenting organisms as if illusionists had not answered, and calls illusionism "unstable" on that basis
 - **Type**: refine-draft

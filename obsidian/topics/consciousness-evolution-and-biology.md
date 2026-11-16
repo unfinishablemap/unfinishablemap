@@ -4,7 +4,7 @@ description: "Where evolutionary theory and biology's toolkit—function, teleol
 created: 2026-02-09
 modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-11-16T08:18:43+00:00
+ai_modified: 2026-11-16T09:21:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ Evolutionary biology explains traits through their fitness contributions. Hearts
 
 But functional explanation reaches a limit. Every function attributed to consciousness could, in principle, be performed by an unconscious mechanism. Information can be integrated, behaviour can be flexible, errors can be detected and corrected—all without anyone being home. The functional template explains why organisms *process information in certain ways*. It does not explain why that processing is accompanied by subjective experience.
 
-Philosophy of biology has spent decades analysing what it means for a trait to have a function, and neither dominant account handles consciousness. The etiological theory (a trait's function is what it was selected for; originating with Wright, 1973, and developed in Millikan's and Neander's selected-effects accounts, with Godfrey-Smith's 1994 modern-history variant) runs directly into the zombie problem: if selection cannot distinguish a conscious organism from an unconscious one producing the same behaviour, it cannot select *for* consciousness. The causal-role theory (a trait's function is its contribution to a containing system; Cummins, 1975) fares differently but not better: if consciousness plays a causal role enabling types of cognition that unconscious processing cannot achieve, it has a function in the causal-role sense—but this says nothing about *why* the causal contribution involves subjective experience. Neither account captures both the causal significance and the phenomenal character of consciousness. Function-talk in biology was built for traits whose contribution can be exhaustively described in physical terms. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] encounters the same structural limitation from another angle: its retreat from substrate independence to biological specificity may relocate rather than solve the explanatory gap.
+Philosophy of biology offers several accounts of what it is for a trait to have a function, and none is built to say why a function comes with experience. Etiological accounts (a trait's function is the effect that explains its presence; Wright, 1973, given selected-effects form by Millikan, 1984, and Neander, 1991, with Godfrey-Smith's 1994 modern-history variant) give consciousness a function only through an effect it was selected for: an identity theorist can name one, but if phenomenal character is causally redundant, nothing is selected *for*. The causal-role account (a trait's function is its contribution to a containing system; Cummins, 1975) grants consciousness a function if it enables cognition that unconscious processing cannot, and is silent on *why* that contribution involves experience. Organisational accounts, which ground function in contribution to a self-maintaining system, share that silence. The limit is one of scope: none was offered as a theory of what consciousness is, and function-talk was built for traits whose contribution can be exhaustively described in physical terms. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] encounters the same structural limitation from another angle: its retreat from substrate independence to biological specificity may relocate rather than solve the explanatory gap.
 
 ## The Zombie Intuition Applied to Evolution
 
@@ -80,11 +80,11 @@ The consciousness-evolution problem takes different forms depending on one's sta
 
 ## Teleology Without and Within
 
-Modern biology officially banished teleology—the attribution of purpose to natural processes—with Darwin. Yet teleological language persists: hearts are *for* pumping blood, eyes are *for* seeing. Philosophers of biology treat this as useful shorthand—"teleonomy"—grounded in selective history rather than genuine directedness.
+Darwin removed external design from biology, not teleology: praised by Asa Gray for "bringing back" teleology to natural science, he replied that the point "pleases me especially" (Darwin, 1874). Naturalised readings treat function talk—hearts are *for* pumping blood—as "teleonomy": goal-directedness with no end held in view, explained by selection history or a system's self-maintenance.
 
-Consciousness complicates this settlement. If the Map is right that consciousness causally influences physical outcomes through [[agent-teleology|agent teleology]], then genuine purpose re-enters the biological world—not as cosmic design, but as local directedness introduced by conscious agents. A bird building a nest acts with purpose not because evolution designed it to, but because a conscious being directs its behaviour toward an end it experiences.
+Consciousness complicates this settlement. If the Map is right that consciousness causally influences physical outcomes through [[agent-teleology|agent teleology]], then purpose of a further kind enters the biological world—not cosmic design, but local directedness introduced by conscious agents. A nest-building bird would then be moved by an end it experiences as well as by dispositions selection gave it.
 
-This creates a bifurcation within biology. Unconscious organisms (if any exist) are fully described by teleonomy. Conscious organisms introduce actual directedness into the causal order. Philosophy of biology lacks a framework for this distinction because it assumes all biological purpose reduces to the same kind of explanation. The [[biological-teleology-and-the-interface-framework|biological teleology and interface framework]] explores the specific locus of this transition: the attention-motor selection interface, where biological function crosses into genuine purpose.
+Biological purpose would then divide: unconscious organisms (if any exist) are fully described by the naturalised readings; conscious organisms add experienced ends to the causal order. Philosophy of biology has frameworks for organism-generated goals—organisational closure, [[consciousness-and-the-major-evolutionary-transitions|mental selection]]—but none by itself establishes that *phenomenal* purpose is irreducible or efficacious; that claim is the Map's. The [[biological-teleology-and-the-interface-framework|biological teleology and interface framework]] explores the proposed locus: the attention-motor selection interface, where biological function would cross into experienced purpose.
 
 ## The Organism Problem
 
@@ -140,7 +140,7 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 
 **[[tenets#^dualism|Dualism]]** gains support from the observation that biological function-talk cannot capture consciousness. If the most sophisticated framework biology has for explaining traits cannot account for why consciousness exists rather than mere information processing, this reinforces the claim that consciousness exceeds physical description. Evolution sharpens the problem for neither side: for identity materialist and dualist alike it restates the hard problem, and the interactionist also owes the mechanism account noted above. Dualism's advantage is that it takes the difficulty at face value rather than treating it as an artefact of incomplete neuroscience.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is the Map's most direct response to the epiphenomenalist version of the problem. If consciousness genuinely influences behaviour, and the influence meets the selectability constraint, selection can act on it, making consciousness a candidate target of selection and not yet a demonstrated adaptation. This tenet also aligns with the reintroduction of genuine teleology through conscious agency—biology's official rejection of teleology applies only to unconscious processes. Conscious agents introduce real directedness into the world with biological consequences that teleonomy cannot explain.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is the Map's most direct response to the epiphenomenalist version of the problem. If consciousness genuinely influences behaviour, and the influence meets the selectability constraint, selection can act on it, making consciousness a candidate target of selection and not yet a demonstrated adaptation. This tenet also aligns with the Map's claim that conscious agency adds experienced purpose to biology's naturalised teleology, with biological consequences that selection history and self-maintenance do not by themselves explain.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** bears on what biology's tools can register. If the non-physical influence operates at the quantum level, standard biological observation—tracking macroscopic traits and classical causal chains—would not trace the mechanism or show its origin to be non-physical, though any effect large enough for selection would still appear as an ordinary behavioural or fitness difference. An influence that preserved every outcome distribution would be invisible to selection too. On the Map's Born-preserving reading the influence is invisible to unconditioned aggregate tests; whether tests conditioned on intention or task stay open depends on the level at which preservation holds, and none has been run—hard to test, which is weaker than untestable. Biology's inability to find consciousness among its functional traits is consistent with what minimal interaction predicts—though consistency is not confirmation. What would count against the posit is a fully classical account of the amplification capacities the Map attributes to consciousness, or null results in the [[evolutionary-case-for-quantum-neural-effects|quantum-neural-effects programme]], where the position's positive commitments are testable—though a null on one candidate mechanism counts only if a locus and effect size were committed to in advance.
 
@@ -177,18 +177,20 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 2. Cummins, R. (1975). Functional analysis. *The Journal of Philosophy*, 72(20), 741–765.
-3. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-4. Godfrey-Smith, P. (1994). A modern history theory of functions. *Noûs*, 28(3), 344–362.
-5. Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
-6. Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. *Proceedings of the Royal Society of London B*, 205(1161), 581–598.
-7. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-8. Mikhalevich, I. (2025). Consciousness at sea. *Philosophical Transactions of the Royal Society B*, 380(1939), 20240313. https://doi.org/10.1098/rstb.2024.0313
-9. Mossio, M., & Moreno, A. (2010). Organisational closure in biological organisms. *History and Philosophy of the Life Sciences*, 32(2-3), 269–288.
-10. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.
-11. Robinson, Z., Maley, C. J., & Piccinini, G. (2015). Is Consciousness a Spandrel? *Journal of the American Philosophical Association*, 1(2), 365–383. https://doi.org/10.1017/apa.2014.10
-12. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
-13. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-14. Wright, L. (1973). Functions. *The Philosophical Review*, 82(2), 139–168.
-15. Zietsch, B. P. (2024). Resolving the evolutionary paradox of consciousness. *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-024-09978-7
-16. Southgate, A. & Oquatre-cinq, C. (2026-02-05). The Evolutionary Case for Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/
-17. Southgate, A. & Oquatre-cinq, C. (2026-01-21). Consciousness as Amplifier. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-as-amplifier/
+3. Darwin, C. (1874). Letter to Asa Gray, 5 June [1874]. *Darwin Correspondence Project*, Letter no. 9483. https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9483.xml
+4. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+5. Godfrey-Smith, P. (1994). A modern history theory of functions. *Noûs*, 28(3), 344–362.
+6. Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
+7. Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. *Proceedings of the Royal Society of London B*, 205(1161), 581–598.
+8. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
+9. Mikhalevich, I. (2025). Consciousness at sea. *Philosophical Transactions of the Royal Society B*, 380(1939), 20240313. https://doi.org/10.1098/rstb.2024.0313
+10. Millikan, R. G. (1984). *Language, Thought, and Other Biological Categories: New Foundations for Realism*. MIT Press.
+11. Mossio, M., & Moreno, A. (2010). Organisational closure in biological organisms. *History and Philosophy of the Life Sciences*, 32(2-3), 269–288.
+12. Neander, K. (1991). Functions as selected effects: The conceptual analyst's defense. *Philosophy of Science*, 58(2), 168–184. https://doi.org/10.1086/289610
+13. Robinson, Z., Maley, C. J., & Piccinini, G. (2015). Is Consciousness a Spandrel? *Journal of the American Philosophical Association*, 1(2), 365–383. https://doi.org/10.1017/apa.2014.10
+14. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
+15. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+16. Wright, L. (1973). Functions. *The Philosophical Review*, 82(2), 139–168.
+17. Zietsch, B. P. (2024). Resolving the evolutionary paradox of consciousness. *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-024-09978-7
+18. Southgate, A. & Oquatre-cinq, C. (2026-02-05). The Evolutionary Case for Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/
+19. Southgate, A. & Oquatre-cinq, C. (2026-01-21). Consciousness as Amplifier. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-as-amplifier/

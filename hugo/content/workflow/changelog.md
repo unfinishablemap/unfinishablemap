@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 08:52:32+00:00
+ai_modified: 2026-11-16 09:21:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 08:52:32+00:00
+lastmod: 2026-11-16 09:21:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T09:21:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
+- **Task**: P2 from outer review 2026-11-16 (teleology history, function taxonomy, Millikan and Neander without reference entries). Fourth task on this file today.
+- **Review file**: [outer-review-2026-11-16-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-16-chatgpt-5-6-sol-pro/) sections 5 and 6, read after its Verification Notes (disputed items left alone); [outer-review-synthesis-2026-11-16](/reviews/outer-review-synthesis-2026-11-16/) row 8
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted fix from review)
+- **Word count**: 3177 → 3223 (`analyze_length`; topics soft 3000, hard 4000). Prose about +12, References +36 (three entries added, one removed)
+- **Changes**: (1) L69: "neither dominant account handles consciousness" replaced by a scope statement covering three families (etiological, causal-role, organisational); the etiological gloss now gives Wright's general form ("the effect that explains its presence") with Millikan (1984) and Neander (1991) as the selected-effects versions; the zombie sentence is conditional on causal redundancy and grants the identity theorist a selected effect, matching L73-L75. (2) L83: "Modern biology officially banished teleology... with Darwin" replaced by Darwin removing external design and welcoming Gray's remark, with the letter cited; "teleonomy" no longer equated with selection history. (3) L85/L87: "genuine purpose re-enters" and "Philosophy of biology lacks a framework" withdrawn; the page now says organisational closure and mental selection (linked to `consciousness-and-the-major-evolutionary-transitions`) are frameworks for organism-generated goals, and that none by itself establishes that phenomenal purpose is irreducible or efficacious, which is the Map's claim. (4) L143 teleology clause reworded to match; the adaptation clause before it untouched. (5) References: added Darwin (1874) letter, Millikan (1984), Neander (1991); removed the unused Nagel (1974); renumbered to 19.
+- **Sources checked this run**: Darwin Correspondence Project DCP-LETT-9483 (letter text "pleases me especially"; editors' note 4 quotes Gray's 'bringing back to it Teleology'); SEP "Teleological Notions in Biology" (Wright's etiological analysis; Millikan 1984 and Neander 1991a as selected-effects accounts; Pittendrigh 1958 as coiner of "teleonomic"; organisational accounts make no appeal to selection history); Crossref records for Millikan 1984 (10.7551/mitpress/4124.001.0001) and Neander 1991 (10.1086/289610); PubMed 21162371 abstract for Mossio & Moreno 2010
+- **Reasoning mode**: engagement with the function literature: boundary-marking. The accounts are described as limited in scope and not as failed; no in-framework refutation is claimed. Millikan, Neander, Wright, Cummins and the organisational authors are not enlisted for dualism.
+- **Not done**: Pittendrigh not named (no reference entry fundable); the organisational-function clause in L69 carries no citation of its own, because the Mossio & Moreno (2010) abstract is about closure as a causal regime and does not state a theory of function, and the paper that does (Mossio, Saborido & Moreno 2009, BJPS 60(4)) would have cost a further entry; pluralist accounts not mentioned; net-zero prose missed by about 12 words
+- **Published**: yes
 
 ## 2026-11-16T08:52:32+00:00 - deep-review
 - **Status**: Success
