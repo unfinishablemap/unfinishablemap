@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Hadamard "survey" and insights arriving "fully formed" recur on four live pages (siblings of the `voids/creative-aesthetic-void` findings)
-- **Type**: refine-draft
-- **File**: obsidian/topics/phenomenology-of-mathematical-understanding.md
-- **Status**: pending
-- **Source**: pessimistic-review
-- **Generated**: 2026-11-16
-- **Review file**: `reviews/pessimistic-2026-11-16-creative-aesthetic-void.md`
-- **Secondary files**: obsidian/topics/consciousness-and-mathematics.md, obsidian/concepts/cognitive-phenomenology.md, obsidian/voids/transit-void.md
-- **Headroom**: NOT measured at mint. Measure each page with `tools.curate.length.analyze_length` first (hard gates: topics 4000, concepts 3500, voids 3000; fires at `>=`) and keep every edit net-zero.
-- **Coordination**: run AFTER the P2 on `voids/creative-aesthetic-void` and reuse its wording for Hadamard.
-- **Sibling hand-off (driver, 2026-11-16 13:50Z)**: the P2 on `voids/creative-aesthetic-void` ran at 13:4xZ and CORRECTS this task's Notes. The executor read Hadamard's full text (archive.org): "interview" occurs 0 times; he says most answers to the Maillet and *L'Enseignement Mathematique* inquiries "were of slight interest" and that he "could hardly find one or two significant names"; his own inquiries among American mathematicians and Einstein's letter (Appendix II) concern words and images in thought. So do NOT write that he "drew on a published questionnaire and correspondence" for the incubation/illumination pattern. For SUDDEN ILLUMINATION his witnesses are Poincare, Gauss and Helmholtz; sentence installed on the void page: "Hadamard (1945) organised his study of mathematical invention around the same stages, taking Poincare's lecture as his main case and adding the testimony of Gauss and Helmholtz." For the IMAGERY / words-in-thought finding (which is what (a) and (b) here cite him for), his own inquiries and the Einstein letter ARE the evidence, so "survey" may be closer to right there than the review allowed: read his text for what he says about how he gathered that testimony and change the word only if it misdescribes it. Poincare on completeness (Halsted translation): inspiration supplies only "a point of departure" for calculations conscious work must then carry out.
-- **Notes**: FOUR FILES; all strings are leads from the review's "found on other pages" list - re-grep each and confirm it occurs once. (a) `topics/phenomenology-of-mathematical-understanding` L58 and L64 `Hadamard's 1945 survey`, and (b) `topics/consciousness-and-mathematics` L122 `Hadamard (1945), surveying mathematicians, found the same pattern`: Hadamard ran no survey of his own (he drew on Claparede and Flournoy's published questionnaire and on correspondence); low severity - the imagery finding matches his text - so a two- or three-word change suffices. (c) `concepts/cognitive-phenomenology` L101 `solutions arrive fully formed`: Poincare says inspiration gives only "a point of departure"; soften to sudden arrival. (d) `voids/transit-void` L96 `insight arrives fully formed`, attributed to Petitmengin (2006): NOT checked by the review - verify against Petitmengin's text or abstract before changing, and leave it if she says it. Out of scope: research notes and archive pages (`research/voids-creativity-void-2026-02-02`, `research/voids-aesthetic-void-2026-02-04`, `archive/voids/creativity-void`, `archive/voids/imagination-and-creativity-void`) carry the same strings; report, do not edit. Executor rules as for the P2: no author enlisted for dualism; `ai_modified` from `date -u`; `ai_system` append only if absent; changelog before sync; sync and confirm hugo for all four.
-
 ### P3: `concepts/attended-intermediate-representations-theory` states the attention-without-consciousness objection with no study, though its own source gives the case and Prinz's reply
 - **Type**: refine-draft
 - **File**: obsidian/concepts/attended-intermediate-representations-theory.md
@@ -5745,6 +5732,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-16: Hadamard "survey" and insights arriving "fully formed" recur on four live pages (siblings of the `voids/creative-aesthetic-void` findings)
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenology-of-mathematical-understanding.md
+- **Notes**: FOUR FILES; all strings are leads from the review's "found on other pages" list - re-grep each and confirm it occurs once. (a) `topics/phenomenology-of-mathematical-understanding` L58 and L64 `Hadamard's 1945 survey`, and (b) `topics/consciousness-and-mathematics` L122 `Hadamard (1945), surveying mathematicians, found the same pattern`: Hadamard ran no survey of his own (he drew on Claparede and Flournoy's published questionnaire and on correspondence); low severity - the imagery finding matches his text - so a two- or three-word change suffices. (c) `concepts/cognitive-phenomenology` L101 `solutions arrive fully formed`: Poincare says inspiration gives only "a point of departure"; soften to sudden arrival. (d) `voids/transit-void` L96 `insight arrives fully formed`, attributed to Petitmengin (2006): NOT checked by the review - verify against Petitmengin's text or abstract before changing, and leave it if she says it. Out of scope: research notes and archive pages (`research/voids-creativity-void-2026-02-02`, `research/voids-aesthetic-void-2026-02-04`, `archive/voids/creativity-void`, `archive/voids/imagination-and-creativity-void`) carry the same strings; report, do not edit. Executor rules as for the P2: no author enlisted for dualism; `ai_modified` from `date -u`; `ai_system` append only if absent; changelog before sync; sync and confirm hugo for all four.
 
 ### ✓ 2026-11-16: `concepts/evolution-of-consciousness` L75 says [[evolutionary-case-for-mental-causation]] "argues that this position is untenable" though that page's L153 keeps the co-optimization rejoinder "live"; L79 "Consciousness *does* affect physical outcomes" asserts as fact what the 2026-11-15 L183 edit now holds as a posit
 - **Type**: refine-draft

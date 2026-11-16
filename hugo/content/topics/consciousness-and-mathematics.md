@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-09-27 12:07:06+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-16 14:35:28+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/consciousness-and-mathematical-cognition/
@@ -36,14 +36,14 @@ concepts:
 - '[[epistemic-emotions]]'
 - '[[higher-order-theories]]'
 created: 2026-01-21
-date: &id001 2026-09-27
+date: &id001 2026-11-16
 description: Every major mathematical ontology implies a position on consciousness,
   and mathematical insight's phenomenal character resists computational explanation.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 12:07:06+00:00
-lastmod: 2026-09-27 12:07:06+00:00
+lastmod: 2026-11-16 14:35:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,7 +122,7 @@ A separate objection observes that a mathematician recognising the Gödel senten
 
 ## The Poincaré Phenomenon
 
-Poincaré's 1908 account reveals the phenomenology of creative insight. Working on Fuchsian functions, weeks of conscious preparation yielded nothing. Then, boarding an omnibus: "the idea came to me... that the transformations I had used to define the Fuchsian functions were identical with those of non-Euclidean geometry." Hadamard (1945), surveying mathematicians, found the same pattern in Wallas's (1926) four stages—preparation, incubation, illumination, verification—what the [phenomenology of creative insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight) examines across domains.
+Poincaré's 1908 account reveals the phenomenology of creative insight. Working on Fuchsian functions, weeks of conscious preparation yielded nothing. Then, boarding an omnibus: "the idea came to me... that the transformations I had used to define the Fuchsian functions were identical with those of non-Euclidean geometry." Hadamard (1945) found the same in Gauss and Helmholtz: Wallas's (1926) four stages—preparation, incubation, illumination, verification—what the [phenomenology of creative insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight) examines across domains.
 
 Three features resist computational explanation:
 

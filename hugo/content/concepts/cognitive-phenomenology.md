@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-25 22:02:01+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-11-16 14:35:28+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/semantic-phenomenology/
@@ -32,7 +32,7 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[phenomenology-vs-function-axis]]'
 created: 2026-01-16
-date: &id001 2026-10-25
+date: &id001 2026-11-16
 description: Is there something it's like to think, beyond sensory accompaniments?
   The debate bears on whether understanding requires phenomenal experience LLMs may
   lack.
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 08:28:29+00:00
-lastmod: 2026-10-25 22:02:01+00:00
+lastmod: 2026-11-16 14:35:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ Hearing "bank" and understanding it as a financial institution versus a riverban
 
 ### Sudden Insight
 
-"Aha" moments have phenomenal character preceding accompanying imagery or emotion. [Mathematical insight](/topics/consciousness-and-mathematics/) is the paradigm: solutions arrive fully formed, with phenomenal character distinct from mechanical verification. The [cross-cultural record](/topics/phenomenology-of-mathematical-understanding/) adds that different traditions report qualitatively distinct experiential structures for the same content.
+"Aha" moments have phenomenal character preceding accompanying imagery or emotion. [Mathematical insight](/topics/consciousness-and-mathematics/) is the paradigm: the idea arrives suddenly, with phenomenal character distinct from mechanical verification. The [cross-cultural record](/topics/phenomenology-of-mathematical-understanding/) adds that different traditions report qualitatively distinct experiential structures for the same content.
 
 ### Temporal Structure and Expert Perception
 

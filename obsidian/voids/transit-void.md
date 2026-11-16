@@ -2,9 +2,9 @@
 title: "The Transit Void"
 description: "Consciousness cannot witness its own crossings—state transitions, act onsets, or thoughts arriving and slipping away. Before and after, never in-flight."
 created: 2026-01-13
-modified: 2026-07-06
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-11-11T00:03:17.720588+00:00
+ai_modified: 2026-11-16T14:35:28+00:00
 last_deep_review: 2026-07-20T01:47:17+00:00
 draft: false
 topics:
@@ -56,7 +56,7 @@ related_articles:
   - "[[mutation-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-2
 ai_generated_date: 2026-07-06
 last_curated: null
 coalesced_from:
@@ -93,7 +93,7 @@ The void manifests across three domains that share one architecture.
 
 **The thought stream** — arrival and departure. Spontaneous thoughts appear fully formed, with no phenomenology of generation, as if delivered from elsewhere (*arrival without origin*); and they depart before capture — the insight dissolves as attention tries to fix it, the dream evaporates on waking (*departure without capture*). Killingsworth and Gilbert (2010) found minds wandering during 46.9% of sampled moments: the stream is the default state, and both its production and losses lie outside introspection.
 
-These faces interconvert — an onset is a transition from not-acting to acting; a transition is the onset of a new state; a thought's arrival is the onset of a content — and all require the witnessing consciousness to occupy a position it cannot occupy relative to its own activity: before, outside, above. This shared architecture is the in-flight-access instance of the [[conjunction-coalesce|conjunction-coalesce]] discipline: the joint claim is stronger than any single face, and dissolving the seam into one mechanism would lose analytical purchase. The incompatibility generalises: mood shifts present as having "always been there"; attention shifts are noticed only on [[phenomenology-of-returning-attention|return]]; flow's peak engagement is peak self-opacity (the [[disappearance-voids|absorption void]]); insight arrives fully formed, its "micro-acts" escaping introspection (Petitmengin, 2006). Each crossing is available only at its endpoints.
+These faces interconvert — an onset is a transition from not-acting to acting; a transition is the onset of a new state; a thought's arrival is the onset of a content — and all require the witnessing consciousness to occupy a position it cannot occupy relative to its own activity: before, outside, above. This shared architecture is the in-flight-access instance of the [[conjunction-coalesce|conjunction-coalesce]] discipline: the joint claim is stronger than any single face, and dissolving the seam into one mechanism would lose analytical purchase. The incompatibility generalises: mood shifts present as having "always been there"; attention shifts are noticed only on [[phenomenology-of-returning-attention|return]]; flow's peak engagement is peak self-opacity (the [[disappearance-voids|absorption void]]); insight emerges suddenly, its operations largely eluding consciousness (Petitmengin, 2006). Each crossing is available only at its endpoints.
 
 ## The Default Stream
 

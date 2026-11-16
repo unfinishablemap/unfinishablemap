@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T14:30:13+00:00
+ai_modified: 2026-11-16T14:35:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T14:35:44+00:00 - refine-draft
+- **Status**: Success (FOUR FILES; three changed, one verified unchanged)
+- **File**: [[topics/phenomenology-of-mathematical-understanding]] (no change), [[topics/consciousness-and-mathematics]], [[concepts/cognitive-phenomenology]], [[voids/transit-void]]
+- **Original score**: not scored (targeted source-fidelity repair; `scripts/curate.py` is absent)
+- **Source**: `reviews/pessimistic-2026-11-16-creative-aesthetic-void.md`, "Found on other pages"
+- **Changes**:
+  - `topics/phenomenology-of-mathematical-understanding` L58, L64 "Hadamard's 1945 survey": NO CHANGE, verified. Both sentences cite him for the imagery finding, and his text has a section headed "An Inquiry among Mathematicians" reporting answers from "mathematicians born or resident in America, whom I asked"; "The mental pictures of the mathematicians whose answers I have received are most frequently visual". "Survey" describes that, and "Western mathematicians only" holds. Frontmatter not bumped.
+  - `topics/consciousness-and-mathematics` L122: "Hadamard (1945), surveying mathematicians, found the same pattern in Wallas's (1926) four stages" became "Hadamard (1945) found the same in Gauss and Helmholtz: Wallas's (1926) four stages". This sentence cites him for incubation and illumination, where his witnesses are Poincaré, Gauss and Helmholtz; his own inquiry concerned words and images in thought.
+  - `concepts/cognitive-phenomenology` L101: "solutions arrive fully formed" became "the idea arrives suddenly". The linked page's main witness, Poincaré, says inspiration gives only "a point of departure" for calculations that conscious work must then make.
+  - `voids/transit-void` L96: "insight arrives fully formed, its "micro-acts" escaping introspection (Petitmengin, 2006)" became "insight emerges suddenly, its operations largely eluding consciousness (Petitmengin, 2006)". Full text of the cited paper obtained (author's site, 41 pp.): "fully formed" 0 occurrences, "micro-act" 0 (the quoted term was not hers; she has "micro-operations" once, of seizure interruption); she writes of "the sudden emergence of a new scientific idea" and of cognitive processes "which largely elude our consciousness". The quoted term came from `research/voids-transition-void-2026-03-05` L51.
+- **Word count**: 3588 / 3250 / 3361 / 3514 before and after on all four (every edit net-zero). `voids/transit-void` was already over its hard threshold (3514 vs 3000) before this pass.
+- **Not edited (out of scope)**: `research/voids-creativity-void-2026-02-02`, `research/voids-aesthetic-void-2026-02-04`, `research/voids-transition-void-2026-03-05` (L51 "micro-acts", L148 "arrives fully formed ... what Petitmengin calls"), `archive/voids/creativity-void`, `archive/voids/imagination-and-creativity-void`.
+- **Published**: yes
 
 ## 2026-11-16T14:30:13+00:00 - deep-review
 - **Status**: Success
