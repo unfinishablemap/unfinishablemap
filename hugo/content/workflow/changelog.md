@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-16T06:53:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/)
+- **Selection**: selector rank 18 (score 75.5); the 17 candidates above it are each named by an open task or NEEDS-HUMAN entry
+- **Word count**: 2756 → 2868 (+112; topics soft 3000, hard 4000)
+- **Critical issues addressed**: 2 (Hume credited with Fontenelle's distance mechanism, which "Of Tragedy" sets aside as incomplete; Dualism paragraph read the aesthetic/hedonic dissociation as widening the explanatory gap against physicalism, though a physicalist value-pluralist predicts the same datum)
+- **Medium issues addressed**: 2 ("the avalanche" replaced by Kant's own example, the volcano; Korsmeyer's self-described "conversionary" account distinguished from Hume's conversion account, via Gilmore 2025)
+- **Enhancements made**: 0
+- **Reasoning modes**: hedonist higher-order-pleasure reply: Mode Two; illusionism: Mode Three (boundary marked in the article); Hume's conversion account: live rival, now stated accurately
+- **Unverified, left unchanged**: Korsmeyer 2011 as "the first systematic philosophical study in English of disgust as an aesthetic response" (no primary support retrieved)
+- **Output**: [deep-review-2026-11-16-the-sublime-and-negative-aesthetics](/reviews/deep-review-2026-11-16-the-sublime-and-negative-aesthetics/)
+
 ## 2026-11-16T06:34:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
