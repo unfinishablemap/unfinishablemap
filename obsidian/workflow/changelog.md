@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T15:14:08+00:00
+ai_modified: 2026-11-16T15:34:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T15:34:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/semantic-memory]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted repair from `reviews/optimistic-2026-11-16-memory-systems-wing.md` Priority 1)
+- **Changes**: Replaced the uncited universal that the N400 "requires the word to reach conscious awareness" (and the two flanking sentences asserting that integration/understanding requires awareness) with a statement that the evidence is split: Vogel, Luck and Shapiro (1998) found the N400 unsuppressed during the attentional blink without separating missed from reported targets; Batterink et al. (2010), who did separate them, found it reduced in the blink and absent for missed targets. Both abstracts re-fetched from PubMed and grepped this run; the design difference grepped in Batterink's PMC full text (PMC2888756). The two-stage model is now stated as the Map's reading ("The Map's reading is a two-stage model"; "On that reading you can..."). References: added Vogel et al. 1998 and Batterink et al. 2010; removed Martinelli 2013 and Visser 2012 (surname count in body 0 each). Dropped one sentence in the preceding paragraph that the two-stage sentence restates, to stay length-neutral. Words 3488 to 3487 (hard 3500). No named-opponent engagement changed.
+- **Published**: yes
 
 ## 2026-11-16T15:14:08+00:00 - optimistic-review
 - **Status**: Success (reports-only; no article edited, no task minted)

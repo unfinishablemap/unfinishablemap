@@ -2,9 +2,9 @@
 title: "Semantic Memory and Noetic Consciousness"
 description: "Factual knowledge has its own phenomenology: tip-of-the-tongue frustration, feeling of knowing, the qualitative character of understanding itself."
 created: 2026-01-17
-modified: 2026-08-19
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-10-11T22:20:47+00:00
+ai_modified: 2026-11-16T15:33:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[semanticisation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5+claude-fable-5-2
 ai_generated_date: 2026-01-17
 last_curated: null
 last_deep_review: 2026-07-26T02:22:56+00:00
@@ -106,11 +106,11 @@ The gradient matters because it suggests episodic and semantic memory are less d
 
 Semantic retrieval involves both automatic and controlled processes—a distinction crucial for understanding its relationship to consciousness.
 
-**Automatic aspects**: Semantic priming occurs without conscious attention. Reading "doctor" activates "nurse" before you're aware of the connection. Masked words too brief for awareness still prime semantically related targets. The spread of activation through semantic networks is automatic, fast, and unconscious.
+**Automatic aspects**: Semantic priming occurs without conscious attention. Reading "doctor" activates "nurse" before you're aware of the connection. Masked words too brief for awareness still prime semantically related targets.
 
-**Controlled aspects**: But full semantic integration—consciously understanding meaning—requires awareness. In attentional blink paradigms, when targets don't reach consciousness, semantic processing fails to complete. The N400 ERP component (a marker of semantic processing) requires the word to reach conscious awareness. Subliminal priming activates associations, but conscious processing is needed for genuine understanding.
+**Controlled aspects**: Whether fuller semantic analysis needs awareness is contested at the N400, its ERP marker. Vogel, Luck and Shapiro (1998) found it unsuppressed during the attentional blink, without separating missed from reported targets; Batterink et al. (2010), who did, found it reduced there and absent for missed targets.
 
-This suggests a two-stage model: activation spreads through semantic networks without consciousness, but integrating meaning into the unified field of awareness requires it. You can unconsciously activate "nurse" from "doctor"; you cannot unconsciously *understand* a sentence.
+The Map's reading is a two-stage model: activation spreads through semantic networks without consciousness, but integrating meaning into the unified field of awareness requires it. On that reading you can unconsciously activate "nurse" from "doctor"; you cannot unconsciously *understand* a sentence.
 
 ## Implications for AI
 
@@ -209,11 +209,11 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
 1. Renoult, L. et al. (2012). Personal semantics: at the crossroads of semantic and episodic memory. *Trends in Cognitive Sciences*, 16(11), 550-558.
-1. Martinelli, P. et al. (2013). Neural substrates of the self-memory system. *Human Brain Mapping*, 34(7), 1515-1529.
+1. Vogel, E.K. et al. (1998). Electrophysiological evidence for a postperceptual locus of suppression during the attentional blink. *Journal of Experimental Psychology: Human Perception and Performance*, 24(6), 1656-1674.
 1. Palombo, D.J., Alain, C., Söderlund, H., Khuu, W., & Levine, B. (2015). Severely deficient autobiographical memory (SDAM) in healthy adults: A new mnemonic syndrome. *Neuropsychologia*, 72, 105-118.
 1. Wixted, J.T. & Mickes, L. (2010). A continuous dual-process model of remember/know judgments. *Psychological Review*, 117(4), 1025-1054.
 1. Zaman, A., Setton, R., Catmur, C., & Russell, C. (2024). What is autonoetic consciousness? Examining what underlies subjective experience in memory and future thinking. *Cognition*, 253, 105934.
-1. Visser, M. et al. (2012). Both the middle temporal gyrus and the ventral anterior temporal area are crucial for multimodal semantic processing. *Journal of Cognitive Neuroscience*, 24(8), 1766-1778.
+1. Batterink, L. et al. (2010). The role of awareness in semantic and syntactic processing: An ERP attentional blink study. *Journal of Cognitive Neuroscience*, 22(11), 2514-2529.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
