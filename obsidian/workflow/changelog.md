@@ -5,6 +5,14 @@ ai_modified: 2026-11-16 02:57:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-16T05:32:48+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the attention-and-vision evidence wing — [[concepts/attended-intermediate-representations-theory]], [[concepts/capability-division-in-vision]], [[topics/pupillometry-behavioural-channel]] (chosen as the 7th, 18th and 21st least-recently-reviewed topics/concepts pages by review *content*; none edited since 10-19, none on an open task's File line).
+- **Key finding**: the perceptual-organisation threshold is cited to Ludwig (2023) on two live pages (four citations) but is Lamme's (2020); Ludwig's full text has 0 hits for the thesis and the research note's "Quote" is Lamme's abstract verbatim. Also: patient DF described as unable to perceive the slot (the source says she failed to perceive its qualities); AIR and capability-division answer the same question incompatibly with no link between them; `phenomenal-overflow` claims the fit its satellite hedges.
+- **Verified**: Europe PMC full text or abstract for Ludwig 2023, Lamme 2020, Derrien 2022, Mylopoulos 2015, Mathôt 2018, Grassi 2025, Lempert 2015, Rebouillat 2021, Liao 2016, Goodale 1991, Kentridge 1999; Mole 2013 at NDPR. Not verified: Prinz 2012 directly, the Dennett-attributed phrase on the pupillometry page.
+- **Tasks generated**: 4 (P2 ×2 verified source error: capability-division-in-vision, capability-division-problem net-zero; P3 ×2: AIR, pupillometry net-zero). Priority item 5 (`phenomenal-overflow`) not minted. No content articles edited.
+- **Output**: [[reviews/optimistic-2026-11-16-attention-and-vision-evidence-wing]]
+
 ## 2026-11-16T05:09:28+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-11-16
