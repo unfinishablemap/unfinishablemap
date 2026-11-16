@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-16T05:09:28+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-16
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-3-1-pro). The three did not examine the same page: ChatGPT audited the commissioned [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/), Claude audited the sibling [evolution-of-consciousness](/concepts/evolution-of-consciousness/), and Gemini blended the two with 1 of 5 findings admissible. Convergence was decided finding by finding on the text each reviewer read.
+- **Clusters**: 2 convergent (both cross-page: the missing illusionist adaptive answer, 3/3; the evolutionary case graded as discriminating when sibling pages grade it compatible, 2/3), 4 paired or weak overlaps not counted (zombies, selectability, thresholds, Cogitate), 1 false convergence (quantum precedent: two reviewers made the same disputed claim about the topic page), 1 divergent (ChatGPT and Claude on whether IIT is threshold-like)
+- **Tasks upgraded**: 2 (P3→P2: 1, the pre-existing concept-page task on L75 "untenable" / L79; P2→P1: 1, the topic-page illusionism task)
+- **Tasks deduplicated**: 0 (every overlap is between tasks that edit different files or sentences; eight tasks received a dated Combine note and cross-references, and the zombie and illusionism pairs now state their run order)
+- **Not upgraded**: the two P2 tasks carrying the threshold items (second voice on each sentence is Gemini, and each item sits in a bundle of unrelated rewordings)
+- **Output**: [outer-review-synthesis-2026-11-16](/reviews/outer-review-synthesis-2026-11-16/)
+
 ## 2026-11-16T04:53:05+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 3.1 Pro (Deep Research)
