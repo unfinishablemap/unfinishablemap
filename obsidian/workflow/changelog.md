@@ -5,6 +5,16 @@ ai_modified: 2026-11-16 02:57:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-16T03:53:41+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (page shows "Worked for 10m 40s" and "Try again • 5.6 Pro"; thinking effort unconfirmed)
+- **File**: [[reviews/outer-review-2026-11-16-chatgpt-5-6-sol-pro]]
+- **Subject**: [[topics/consciousness-evolution-and-biology]] (fallback:recent-aged)
+- **Claims verified**: 12 confirmed (9 against article or sibling text, 4 sources checked: Darwin to Gray 1874, Zietsch 2024, Mikhalevich 2025, Robinson et al. 2015); 2 unverified; 5 disputed or overstated
+- **High-value findings**: 4 (fitness contribution treated as adaptation; selectable effect called undetectable; zombie burden placed on materialism without the identity reply; teleology/function history and rival-theory characterisations)
+- **Tasks generated**: 4 refine-draft, all on the subject article (P1: 2, P2: 2)
+- **Not adopted**: adaptive alignment as a new section (already carried by `co-optimization-reply-to-the-correlation-problem`; a pointer is folded into the first P1), the Gould-Lewontin and enactivism complaints, and methodology items 26 and 28, which misread the deep-review ledger
+
 ## 2026-11-16T03:34:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-agency-vs-passivity]]
