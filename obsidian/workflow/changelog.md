@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T01:42:52+00:00
+ai_modified: 2026-11-16T01:51:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T01:51:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/expertise-and-its-occlusion]]
+- **Original score**: n/a (targeted source-fidelity repair from the 2026-11-16 pessimistic review; `scripts/curate.py` absent)
+- **Review file**: [[reviews/pessimistic-2026-11-16-expertise-and-its-occlusion]]
+- **Changes**: (1) the "some forms of sensibility change entail" quotation re-attributed from L.A. Paul to Olivia Bailey (2023), the dropped "(1)" marked with an ellipsis, "lose access" -> "risk access", the extension to expert perception stated as the Map's; (2) the impoverished-episodic-recollection finding credited to Beilock and Carr (2001), Høffding and Montero (2020) now presented as contesting the automaticity reading, two unsourced universal sentences removed; (3a) the phrase absent from Dreyfus (2002) replaced with the paper's own words; (3b) the absorption line loses its quotation marks and is cited as Zahavi (2013) reporting Dreyfus's 2007 reply to McDowell (primary not obtainable; Zahavi read raw); (4a) Nathan and Petrosino (2003) stated at its grade (48 preservice teachers, difficulty judgments), two unsupported generalisations removed; (4b) Camerer et al. (1989) corrected: predicting others' judgments, feedback did little, market forces roughly halved the bias; (5a) chunk estimate credited to Simon and Gilmartin at 10,000-100,000 via Gobet and Simon (1998); (5b) "no advantage for random configurations" -> a much smaller advantage, cited to Gobet and Simon (1996), abstract read at Europe PMC; (6) Masters (1992) described as an acquisition study, uncited "high reinvesters" sentence removed; "barred from re-entering" -> "now re-enters only at a cost" in the taxonomy paragraph.
+- **Offsets**: O1-O6 from the review (one sentence, five Further Reading lines whose targets are linked in the body), plus "The empirical evidence is striking."
+- **References**: four added (Bailey 2023, article number 189 from Crossref; Beilock and Carr 2001; Gobet and Simon 1996; Zahavi 2013), list renumbered to 20; every entry is cited in the body.
+- **Engagement classification**: Høffding and Montero / Montero on automaticity: the page reports their in-framework objection and states what survives it; no refutation claimed. Dualism and Many-Worlds tenet paragraphs untouched (stability-noted).
+- **Word count**: 2,898 -> 2,992 by analyze_length (voids hard 3,000)
+- **Not done**: the lead's "being barred from re-entry" left as is (not in the review); Dreyfus (2007) primary still unread.
+- **Published**: yes
 
 ## 2026-11-16T01:42:52+00:00 - pessimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
