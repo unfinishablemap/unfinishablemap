@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T13:03:53+00:00
+ai_modified: 2026-11-16T13:41:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T13:41:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/creative-aesthetic-void]]
+- **Source**: pessimistic review 2026-11-16 (reviews/pessimistic-2026-11-16-creative-aesthetic-void), Priority List items 1-4 plus secondary items
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**: (1) Hadamard sentence rewritten: no interviews, no Einstein; he organised his study around the same stages from Poincaré's lecture plus Gauss and Helmholtz. The review's proposed wording (pattern found in questionnaire replies and correspondence) was not installed: Hadamard's text calls most questionnaire answers "of slight interest" and his own inquiries concerned words and images. (2) "arrive complete" removed in all three places; Poincaré's "a point of departure" and Kounios and Beeman's "culmination" sentence quoted from raw text; gamma finding re-graded to solutions reached with insight; added that the lead-up is measurable from outside but not experienced. (3) Reference list: phantom SEP "Sublime" entry replaced by Shapshay, "Schopenhauer's Aesthetics" (2012, rev. 2018), now cited at the will-less perception gloss; Kind (2022) removed (never used, no abstract obtainable); Pearson (2019) cited for the imagery spectrum, issue number added; Langland-Hassan (2025) completed to 111(2), 571-589 and cited for its own thesis, not for the Occam paragraph; Zeman et al. (2020) added; list renumbered 10-15. (4) Aphantasia sentence rewritten at the grade of the Zeman abstract: lack of waking visual imagery, most dream visually, association with scientific and mathematical occupations; "manage creative work" dropped. Secondary: lead and L162 "never-seen colour" changed to "new primary colour" (conflict with Hume's shade); Hume's missing shade marked as his exception and the interpolation reading as the Map's; "The failure is total" to "No one reports success"; Poincaré's "often this feeling deceives us" added; L144 "would expect to observe"; cross-cultural and introspective-practice universals hedged; Occam paragraph: "profoundly" dropped and the departure from Poincaré's preferred automatism reading owned.
+- **Engagement classification**: no named-opponent reply edited; the Occam paragraph's disagreement with the automatic-processing reading is framework-boundary marking (Mode Three), now stated as the Map's departure.
+- **Not fixed (reported)**: lead "constitutively hidden" against the body's "may be structural"; extrapolation of a verbal-problem EEG finding to mathematical and artistic creation is unflagged; Schopenhauer reference names no translator; Nisbett and Wilson (1977) and Wallas (1926) not read at source; "Novel qualia: impossible" still uncited.
+- **Word count**: 2270 -> 2439 (voids soft 2000, hard 3000; 561 under the hard gate)
+- **Published**: yes
 
 ## 2026-11-16T13:30:40+00:00 - pessimistic-review
 - **Status**: Success
