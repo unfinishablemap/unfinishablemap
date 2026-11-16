@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-11-02 09:52:55+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-16 18:13:23+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /voids/past-self-void/
@@ -18,11 +18,11 @@ concepts:
 - '[[parfit-reductionism]]'
 - '[[mysterianism]]'
 created: 2026-01-29
-date: &id001 2026-10-22
+date: &id001 2026-11-16
 description: Past conscious states are structurally inaccessible at every scale —
   within a lifetime, across historical epochs, and at the limit of qualia themselves.
-  Memory reconstructs rather than retrieves; modern consciousness logomorphically
-  projects itself onto past forms it cannot re-enter.
+  Memory reconstructs rather than retrieves; if consciousness has a history, its modern
+  form projects itself onto past forms it cannot re-enter.
 draft: false
 embedded_videos:
 - embedded: 2026-10-10 14:19:00.076430+00:00
@@ -31,8 +31,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/Hi-gVVn9LlQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 19:34:14+00:00
-lastmod: 2026-11-02 09:52:55+00:00
+last_deep_review: 2026-11-16 18:13:23+00:00
+lastmod: 2026-11-16 18:13:23+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -74,9 +74,9 @@ This matters for The Unfinishable Map because of where the loss falls. Calling q
 
 ## Two Dimensions of Inaccessibility
 
-**Identity.** The past self occupies a unique position among the Map's [voids](/voids/) — neither another subject (the [other-minds void](/voids/voids-between-minds/)) nor the present self turning on itself (the [self-reference paradox](/voids/self-opacity/)). It is a self we were but can no longer be. The most radical within-lifetime form is the [infant consciousness void](/voids/infant-consciousness/): synaptic pruning reorganises the very circuits that supported infant experience beyond re-entry. The [temporal asymmetry](/voids/temporal-void/) adds a wrinkle: we seem to re-experience the past but only imagine the future, yet even re-experiencing is construction. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
+**Identity.** The past self occupies a unique position among the Map's [voids](/voids/) — neither another subject (the [other-minds void](/voids/voids-between-minds/)) nor the present self turning on itself (the [self-reference paradox](/voids/self-opacity/)). It is a self we were but can no longer be. The most radical within-lifetime form is the [infant consciousness void](/voids/infant-consciousness/): synaptic pruning reshapes the circuits that supported infant cognitive modes, plausibly beyond re-entry. The [temporal asymmetry](/voids/temporal-void/) adds a wrinkle: we seem to re-experience the past but only imagine the future, yet even re-experiencing is construction. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
 
-**Content.** Do past qualia still exist somewhere to be accessed, or are they gone the instant experience passes? *Preservationism* (Bergson, Husserl): the past preserves itself automatically, and the void is merely practical. *Simulationism* (Michaelian): "to remember an episode is to simulate it in the imagination"; the same constructive machinery that imagines future events also "remembers" past ones, and the "feeling of remembering" cannot distinguish memory from confabulation. *Parfitian* ([reductionism](/concepts/parfit-reductionism/)): direct memory connections weaken over time; [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/), Shoemaker's term (1970), which Parfit made central, allows accurate memory of some past experience without guarantee you are the one who had it. "Can I access my past experience?" becomes "can I access someone else's?"
+**Content.** Do past qualia still exist somewhere to be accessed, or are they gone the instant experience passes? *Preservationism* (Bergson): the past preserves itself automatically, and the void is merely practical. *Simulationism* (Michaelian 2016): to remember is to imagine the past, reliably; the same constructive machinery that imagines future events also "remembers" past ones, and the feeling of pastness is a metacognitive signal (Perrin et al. 2020), not contact with the past. *Parfitian* ([reductionism](/concepts/parfit-reductionism/)): direct memory connections weaken over time; [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/), Shoemaker's term (1970), which Parfit made central, allows accurate memory of some past experience without guarantee you are the one who had it. "Can I access my past experience?" becomes "can I access someone else's?"
 
 | Position | Past Qualia | The Void |
 |----------|-------------|----------|
@@ -86,7 +86,7 @@ This matters for The Unfinishable Map because of where the loss falls. Calling q
 
 ## Memory Is Reconstruction, Not Retrieval
 
-Cognitive science confirms that [episodic memory](/concepts/episodic-memory/) is "scenario construction," not playback. Bartlett's classic studies showed memory is "an affair of reconstruction rather than mere reproduction"; reconsolidation lets the present self's concerns overwrite what was stored, on the gated occasions when [retrieval reopens a trace](/topics/reconsolidation-as-selection-window/). Trauma survivors' recall of [dissociating during the event](/topics/peritraumatic-dissociation/#after-the-fact) drifts with their current symptoms: the present re-scores the past. Conway's Self-Memory System research shows memory serves identity maintenance, not accurate recording — the [narrative-void](/voids/narrative-void/) is the same constructive process at a higher level. Even individuals with Highly Superior Autobiographical Memory show susceptibility to false memories; if anyone could access past states directly, they would. Semantic and episodic memory can dissociate in brain damage — some patients retain facts about their past without experiential memory of having lived it. What such dissociations show is that re-living is not reliably preserved, and what survives is graded. Propositional report, sensory imagery, affective traces and conditioned, action-guiding memory all outlast the episode in attenuated form: remembered pain can keep something of its sensory quality without being re-felt, and a pain felt a week earlier still shapes what one will accept money to endure (the [cross-state void](/voids/cross-state-void/) sets out the evidence). What none of them supplies is literal phenomenal recurrence; the past state is reconstructed from them rather than re-entered.
+Cognitive science treats [episodic memory](/concepts/episodic-memory/) as construction, not playback. Bartlett concluded that remembering is "far more decisively an affair of construction rather than one of mere reproduction" (1932, p. 205); reconsolidation lets the present self's concerns overwrite what was stored, on the gated occasions when [retrieval reopens a trace](/topics/reconsolidation-as-selection-window/). Trauma survivors' recall of [dissociating during the event](/topics/peritraumatic-dissociation/#after-the-fact) drifts with their current symptoms: the present re-scores the past. On Conway's Self-Memory System model the working self's current goals shape what is recalled — the [narrative-void](/voids/narrative-void/) is the same constructive process at a higher level. Even individuals with Highly Superior Autobiographical Memory show susceptibility to false memories (Patihis et al. 2013); if anyone could access past states directly, they would. Semantic and episodic memory can dissociate in brain damage — some patients retain facts about their past without experiential memory of having lived it. What such dissociations show is that re-living is not reliably preserved, and what survives is graded. Propositional report, sensory imagery, affective traces and conditioned, action-guiding memory all outlast the episode in attenuated form: remembered pain can keep something of its sensory quality without being re-felt, and a pain felt a week earlier still shapes what one will accept money to endure (the [cross-state void](/voids/cross-state-void/) sets out the evidence). What none of them supplies is literal phenomenal recurrence; the past state is reconstructed from them rather than re-entered.
 
 ## The Proustian Moment
 
@@ -98,7 +98,7 @@ Beyond a single lifetime, the same inaccessibility applies — arguably with gre
 
 ### Evidence for Historical Change
 
-Several lines suggest genuine transformation, not merely redescription. Ancient languages lack terms for concepts modern consciousness treats as basic — there is no word in ancient Greek corresponding to "consciousness" as we understand it (Snell 1953), and Snell traces a progressive "discovery" of the mind from Homer to Plato. If experiences require linguistic scaffolding to become introspectively available (a [boundary case](/voids/language-thought-boundary/)), language change may entail phenomenal change. Homeric heroes do not deliberate internally — their decisions arrive as external commands from gods. Jaynes (1976) proposed a pre-1000 BCE "bicameral mind" with no inner monologue but auditory hallucinations interpreted as divine command. Even setting aside Jaynes's specific mechanism, the textual pattern demands explanation. Taylor's *Sources of the Self* (1989) traces modern identity to specific developments — the Reformation's conscience, Enlightenment rationalism, Romantic expressivism — with the modern concept of consciousness only stabilising around Locke's *Essay* (1690). McGilchrist (2009) argues Western civilisation has shifted toward left-hemisphere dominance, changing the texture of experience from participatory to analytical. Donald (1991) describes three cultural-cognitive transitions (mimetic, mythic, theoretic), each producing genuinely new cognitive capacities. Five Western scholars reading the same canon are not independent lines, however, but closer to one evidential move than five, and the one distinct tradition invoked here, the Buddhist analysis below, does not adjudicate: *anicca* describes change within every moment of any consciousness, not a shift in its kind between epochs; the cross-cultural check remains the thin data noted [below](#why-the-void-is-structural).
+Several lines suggest genuine transformation, not merely redescription. Early Greek lacks terms for concepts modern consciousness treats as basic — Homer "has no one word to characterize the mind or the soul" (Snell 1953), and Snell traces a progressive "discovery" of the mind from Homer to Plato. If experiences require linguistic scaffolding to become introspectively available (a [boundary case](/voids/language-thought-boundary/)), language change may entail phenomenal change. On Snell's reading Homer "does not know genuine personal decisions": where a hero ponders alternatives, a god settles it — a reading Williams (1993) disputes. Jaynes (1976) proposed a pre-1000 BCE "bicameral mind" with no inner monologue but auditory hallucinations interpreted as divine command. Even setting aside Jaynes's specific mechanism, the textual pattern demands explanation. Taylor's *Sources of the Self* (1989) traces modern identity to specific developments — inwardness from Augustine to Descartes and Locke, the affirmation of ordinary life, Romantic expressivism; the modern sense of "consciousness" dates only from the seventeenth century (Locke's *Essay*, 1690). McGilchrist (2009) argues Western civilisation has shifted toward left-hemisphere dominance, changing the texture of experience from participatory to analytical. Donald (1991) describes three cultural-cognitive transitions (mimetic, mythic, theoretic), each producing genuinely new cognitive capacities. Five Western scholars reading the same canon are not independent lines, however, but closer to one evidential move than five, and the one distinct tradition invoked here, the Buddhist analysis below, does not adjudicate: *anicca* describes change within every moment of any consciousness, not a shift in its kind between epochs; the cross-cultural check remains the thin data noted [below](#why-the-void-is-structural).
 
 ### The Double Void
 
@@ -106,7 +106,7 @@ The historical layer is doubled. *First*, we cannot determine whether consciousn
 
 ### Logomorphism: The Void That Hides Itself
 
-Owen Barfield's *logomorphism* names the mechanism by which the historical void conceals itself. Consciousness presents itself as timeless. We do not merely fail to access past forms — we cannot recognise that there is something to access: not passive ignorance but active concealment, of a piece with [defended territory](/voids/self-maintained-cognitive-limits/). Every attempt to interpret the past uses categories drawn from current consciousness; if those categories are historically contingent, every interpretation is contaminated by the thing it seeks to investigate.
+Owen Barfield coined *logomorphism* (1928) for the error that comes of "projecting post-logical thoughts back into a pre-logical age"; the Map reads it as the mechanism by which the historical void conceals itself. Consciousness presents itself as timeless. We do not merely fail to access past forms — we cannot recognise that there is something to access: not passive ignorance but active concealment, of a piece with [defended territory](/voids/self-maintained-cognitive-limits/). Every attempt to interpret the past uses categories drawn from current consciousness; if those categories are historically contingent, every interpretation is contaminated by the thing it seeks to investigate.
 
 Three characteristic experiences arise: the "of course they were like us" intuition (logomorphism in action); a vertigo of difference when genuinely engaging with Jaynes or Snell; and an inability to sustain the thought — even when persuaded, we cannot *experience* the difference, and the thought slips away ([transit-void](/voids/transit-void/)).
 
@@ -118,7 +118,7 @@ Without phenomenal history of its own, AI lacks the logomorphic bias of experien
 
 ## The Buddhist Analysis
 
-Buddhist phenomenology offers the most radical reading. The teaching of impermanence (*anicca*) holds all conditioned existence transient; the Assutavā Sutta describes consciousness arising continuously "as one thing" and passing away "as another thing." If each moment's consciousness is already a different consciousness, the inaccessible past operates continuously — we are strangers to ourselves not merely across years but across seconds. The Buddhist resolution is not to close the void but to cease grasping at continuity that does not exist. Despite tension with the Map's dualism, both frameworks converge on the phenomenological point: past experience cannot be re-entered, only reconstructed.
+Buddhist phenomenology offers the most radical reading. The teaching of impermanence (*anicca*) holds all conditioned existence transient; the Assutavā Sutta (SN 12.61) says that what is called mind or consciousness "arises as one thing and ceases as another by day and by night" (Bodhi 2000). If each moment's consciousness is already a different consciousness, the inaccessible past operates continuously — we are strangers to ourselves not merely across years but across seconds. The Buddhist resolution is not to close the void but to cease grasping at continuity that does not exist. Despite tension with the Map's dualism, both frameworks converge on the phenomenological point: past experience cannot be re-entered, only reconstructed.
 
 ## Phenomenology of the Void
 
@@ -146,7 +146,6 @@ The thesis would require revision if direct past-state access proved possible; i
 
 ## Further Reading
 
-- [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [voids-between-minds](/voids/voids-between-minds/) — The parallel void: other present minds are equally inaccessible
 - [temporal-void](/voids/temporal-void/) — Why we can reconstruct the past but only imagine the future
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness
@@ -157,7 +156,6 @@ The thesis would require revision if direct past-state access proved possible; i
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Defended territory and active concealment
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
 - [apophatic-cartography](/voids/apophatic-cartography/) — Knowing through negation
-- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — AI as observer of historical patterns
 - [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/) — The active *process* of forgetting and its felt experience, distinct from the unrecoverable past it produces
 
 ## References
@@ -166,23 +164,21 @@ The thesis would require revision if direct past-state access proved possible; i
 2. Bergson, H. (1896/1991). *Matter and Memory*. Zone Books.
 3. Conway, M.A. & Pleydell-Pearce, C.W. (2000). The construction of autobiographical memories in the self-memory system. *Psychological Review*, 107(2), 261-288.
 4. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
-5. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
-6. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+5. Shoemaker, S. (1970). Persons and their pasts. *American Philosophical Quarterly*, 7(4), 269–285.
+6. Williams, B. (1993). *Shame and Necessity*. University of California Press.
 7. Michaelian, K. (2016). *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*. MIT Press.
 8. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 9. Patihis, L. et al. (2013). False memories in highly superior autobiographical memory individuals. *Proceedings of the National Academy of Sciences*, 110(52), 20947-20952.
 10. Proust, M. (1913-1927). *In Search of Lost Time*. Grasset/Gallimard.
-11. Schacter, D. L. (2001). *The Seven Sins of Memory*. Houghton Mifflin.
-12. Stanford Encyclopedia of Philosophy. Epistemological Problems of Memory. https://plato.stanford.edu/entries/memory-episprob/
-13. Stanford Encyclopedia of Philosophy. Memory. https://plato.stanford.edu/entries/memory/
-14. Stanford Encyclopedia of Philosophy. Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
-15. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-16. Bodhi, B. (Trans.) (2000). *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Wisdom Publications.
-17. Jaynes, J. (1976). *The Origin of Consciousness in the Breakdown of the Bicameral Mind*. Houghton Mifflin.
-18. Snell, B. (1953). *The Discovery of the Mind: The Greek Origins of European Thought*. Harvard University Press.
-19. Barfield, O. (1957). *Saving the Appearances: A Study in Idolatry*. Faber & Faber.
-20. Taylor, C. (1989). *Sources of the Self: The Making of the Modern Identity*. Harvard University Press.
-21. McGilchrist, I. (2009). *The Master and His Emissary: The Divided Brain and the Making of the Western World*. Yale University Press.
-22. Donald, M. (1991). *Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition*. Harvard University Press.
-23. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
-24. Locke, J. (1690). *An Essay Concerning Human Understanding*.
+11. Barfield, O. (1928). *Poetic Diction: A Study in Meaning*. Faber & Gwyer.
+12. Stanford Encyclopedia of Philosophy. Memory. https://plato.stanford.edu/entries/memory/
+13. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+14. Bodhi, B. (Trans.) (2000). *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Wisdom Publications.
+15. Jaynes, J. (1976). *The Origin of Consciousness in the Breakdown of the Bicameral Mind*. Houghton Mifflin.
+16. Snell, B. (1953). *The Discovery of the Mind: The Greek Origins of European Thought*. Harvard University Press.
+17. Barfield, O. (1957). *Saving the Appearances: A Study in Idolatry*. Faber & Faber.
+18. Taylor, C. (1989). *Sources of the Self: The Making of the Modern Identity*. Harvard University Press.
+19. McGilchrist, I. (2009). *The Master and His Emissary: The Divided Brain and the Making of the Western World*. Yale University Press.
+20. Donald, M. (1991). *Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition*. Harvard University Press.
+21. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
+22. Locke, J. (1690). *An Essay Concerning Human Understanding*.

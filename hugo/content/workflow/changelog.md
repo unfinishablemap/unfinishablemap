@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-16T18:15:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [inaccessible-past](/voids/inaccessible-past/)
+- **Word count** (`analyze_length`, voids hard 3000, gate `>=`): 2933 → 2959 (+26; prose 2438 → 2503, Further Reading 140 → 118, References 358 → 339)
+- **Critical issues addressed**: 12 (four of five attributed quotations defective: a commentator's gloss quoted as Michaelian; "scenario construction" absent from its stated source; Bartlett misquoted in the Schachtel variant; the Assutavā Sutta quoted in Nyanatiloka's wording under a Bodhi citation. Also: Simulationism's view of the feeling of remembering reversed; Snell misreported twice; Taylor mis-summarised; "logomorphism" cited to the wrong Barfield book and glossed with the Map's meaning; Husserl enlisted for preservationism; Conway overstated; reference orphans both directions; description stated the historical thesis flat)
+- **Medium issues addressed**: 1 (infant-pruning line aligned with the repaired `voids/infant-consciousness`)
+- **Enhancements made**: 2
+- **Sources grepped this run**: Michaelian 2016 (PMC5122747 XML), Perrin et al. 2020 (PMC7350950 XML), SEP "Memory" and "Seventeenth-Century Theories of Consciousness" (live), SuttaCentral SN 12.61 (Bodhi), archive.org full-text search (Bartlett 1932, Snell 1953, Barfield 1928 and 1957, Williams 1993), Loftin 2024 PDF, Crossref and Europe PMC for four DOIs
+- **Not verified**: Rivadulla-Duró 2022 abstract text (search hit only); the Bergson paraphrase; Donald and McGilchrist one-line summaries
+- **Reasoning mode**: engagement with the functionalist objection to historical change: Mode Three, unchanged (the page marks that the reply assumes what the hard problem asserts). Williams against Snell is recorded as a dispute, not adjudicated.
+- **Output**: [deep-review-2026-11-16-inaccessible-past](/reviews/deep-review-2026-11-16-inaccessible-past/)
+
 ## 2026-11-16T17:49:28+00:00 - refine-draft
 - **Status**: Success
 - **File**: [infant-consciousness](/voids/infant-consciousness/)
