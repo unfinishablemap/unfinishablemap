@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T19:22:43+00:00
+ai_modified: 2026-11-16T19:34:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T19:34:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-as-amplifier]]
+- **Review file**: `reviews/outer-review-synthesis-2026-11-16.md` (cluster 2, evolutionary case graded as discriminating)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted calibration repair)
+- **Changes**: Lead: removed the unsourced "approximately ten-fold despite only 1-2% genetic difference" figure (no source sought as a replacement; none substituted). Lead regraded from "inexplicable if epiphenomenal / makes sense if amplifying" to the grade `concepts/evolution-of-consciousness` and `topics/consciousness-and-cognitive-distinctiveness` hold: amplification stated as a hypothesis at full strength, comparative data compatible without discriminating (piped link to the audit section), accompaniment account predicts the same pattern, epiphenomenalism rejected on the Bidirectional Interaction tenet. Evolutionary Argument paragraph 2: dropped "Neither prediction holds" / "The gap tracks consciousness-dependent capacities systematically" (contradicted the page's own Deflationary Challenge); now says the record fits the hypothesis without ruling out epiphenomenalism and that James's argument concerns selection. Removed three unsupported discriminating-grade tails ("Current evidence shows the opposite", "The gap persists despite extensive efforts", "The systematic pattern suggests consciousness is doing selective work"). Further Reading gloss on epiphenomenalism: "evidence contradicts" to "hypothesis rejects". Description updated to match the lead. Travers/"Detection, though" sentence untouched (separate open task).
+- **Reported, not fixed**: bold heading "Logical reasoning requires consciousness" (adjacent to the coordinated sentence); Illusionist section "The baseline pattern ... needs independent explanation if consciousness is causally inert" and Frankish "would be coincidental"; No Many Worlds "would be coincidental".
+- **Reasoning mode**: engagement with the epiphenomenalist/accompaniment reading: Mode Three; comparative data cannot separate the readings, disagreement marked at the tenet boundary. Deflationary functionalist section unchanged (already Mode Three).
+- **Length**: 3,308 to 3,307 (analyze_length; concepts hard 3,500)
+- **Published**: yes
 
 ## 2026-11-16T19:22:43+00:00 - refine-draft
 - **Status**: Success

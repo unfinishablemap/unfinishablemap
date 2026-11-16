@@ -1,10 +1,10 @@
 ---
 title: "Consciousness as Intelligence Amplifier"
-description: "Consciousness amplifies intelligence by enabling flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The human-ape gap provides key evidence."
+description: "Consciousness amplifies intelligence by enabling flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The human-ape gap is compatible with this reading; the Map holds it on its Bidirectional Interaction tenet."
 created: 2026-01-21
-modified: 2026-01-27
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-10-28T08:40:51+00:00
+ai_modified: 2026-11-16T19:33:36+00:00
 last_deep_review: 2026-07-30T11:21:11+00:00
 draft: false
 topics:
@@ -38,7 +38,7 @@ related_articles:
   - "[[amplification-mechanisms-consciousness-physics-2026-03-18]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-21
 last_curated: null
 coalesced_from:
@@ -46,7 +46,7 @@ coalesced_from:
   - "/topics/consciousness-as-intelligence-amplifier/"
 ---
 
-Consciousness amplifies intelligence. Not by adding computational power—neurons handle computation—but by enabling flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The great ape-human intelligence gap, approximately ten-fold despite only 1-2% genetic difference, may reflect this amplification: great apes possess sophisticated neural systems, yet lack the conscious access that transforms raw processing into human-level cognition. If consciousness is [[concepts/epiphenomenalism|epiphenomenal]]—causally inert, merely observing neural activity—this gap is inexplicable. If consciousness causally amplifies what neural systems can achieve, the gap makes sense.
+The amplification hypothesis holds that consciousness amplifies intelligence: not by adding computational power—neurons handle computation—but by enabling flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual reasoning. On this hypothesis the great ape-human intelligence gap reflects amplification: great apes possess sophisticated neural systems, yet lack the conscious access that transforms raw processing into human-level cognition. The comparative data are compatible with that reading [[consciousness-and-cognitive-distinctiveness#what-the-comparative-pattern-can-and-cannot-establish|without discriminating it from its rivals]]: an account on which experience merely accompanies the capable architecture predicts the same pattern. The Map rejects [[concepts/epiphenomenalism|epiphenomenalism]] and holds the amplification reading on its [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
 The Unfinishable Map proposes that consciousness interfaces with neural systems through [[attention-as-interface|attention]], enabling selection among neural patterns. This interface doesn't replace neural processing but amplifies its reach—making stored knowledge flexibly accessible, enabling manipulation of representations, and supporting the kind of reasoning that cumulative culture requires. (The amplifier here is cognitive; Compton's quantum amplifier model of decision is a different claim, discussed on the [[popper-three-worlds-interactionism#penny-toss|Popper page]].)
 
@@ -96,7 +96,7 @@ Human cognition uniquely involves imagining situations that don't exist—learni
 
 William James argued in 1890 that consciousness must be causally efficacious to be selected by evolution. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] develops this formally; the [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] provides the complementary physical argument.
 
-If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], then human-level intelligence should be achievable through neural complexity alone, and great apes should show no systematic gap in consciousness-dependent capacities. Neither prediction holds. Great apes are sophisticated within the baseline but limited precisely where consciousness appears required—logical reasoning, metarepresentation, cumulative culture, counterfactual thinking. The gap tracks consciousness-dependent capacities systematically.
+The amplification hypothesis predicts great apes sophisticated within the baseline but limited where consciousness appears required—logical reasoning, metarepresentation, cumulative culture, counterfactual thinking. The comparative record fits it without ruling out [[concepts/epiphenomenalism|epiphenomenalism]]: an accompaniment account predicts the same profile (the Deflationary Challenge, below). James's argument asks something else: whether an inert consciousness could have been selected at all.
 
 The epiphenomenalist response—that neural systems causing both consciousness and adaptive behaviour are selected together—becomes implausible once phenomenal consciousness is ontologically separate from its neural correlates. As Georgiev (2024) argues in *Life*: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
 
@@ -150,8 +150,8 @@ This doesn't prove AI cannot achieve human-level cognition. It suggests doing so
 
 Several findings would substantially weaken this hypothesis:
 
-1. **Logical reasoning without consciousness**: Experiments showing logical reasoning proceeds normally without conscious access would break the specific linkage. Current evidence shows the opposite.
-2. **Great apes achieving human-level cognition**: Enhanced training enabling cumulative culture or counterfactual thinking without consciousness expansion would undermine the correlation. The gap persists despite extensive efforts.
+1. **Logical reasoning without consciousness**: Experiments showing logical reasoning proceeds normally without conscious access would break the specific linkage.
+2. **Great apes achieving human-level cognition**: Enhanced training enabling cumulative culture or counterfactual thinking without consciousness expansion would undermine the correlation.
 3. **Working memory expansion without cognitive amplification**: Enhanced working memory capacity producing no improvement in reasoning or metacognition would weaken the linkage. Current evidence shows capacity predicts performance across domains.
 4. **Successful illusionist explanation**: Neuroscience identifying mechanisms that generate the illusion of conscious amplification while explaining the training effects and systematic pattern.
 5. **AI achieving human-level cognition without consciousness**: Artificial systems replicating the full range of human cognitive capacities while being demonstrably non-conscious.
@@ -176,7 +176,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations where consciousness fragments into parallel streams. The amplification hypothesis supports determinacy: consciousness selects among possibilities, producing the *this* rather than *that* that cognition requires. Logical reasoning depends on determinate conclusions; counterfactual thinking requires distinguishing actual from possible; metarepresentation demands stable beliefs to take as objects. If consciousness amplifies through selection, it must select—producing singular outcomes, not branching alternatives.
 
-The [[phenomenology-of-choice-and-volition|phenomenology of deliberate reasoning]] involves holding alternatives in mind, comparing them, and settling on one. If all alternatives are equally actualised across branches, the phenomenology of settling—the felt resolution when a conclusion is reached—becomes illusory. The correlation between consciousness-dependent capacities and successful reasoning would be coincidental. The systematic pattern suggests consciousness is doing selective work.
+The [[phenomenology-of-choice-and-volition|phenomenology of deliberate reasoning]] involves holding alternatives in mind, comparing them, and settling on one. If all alternatives are equally actualised across branches, the phenomenology of settling—the felt resolution when a conclusion is reached—becomes illusory. The correlation between consciousness-dependent capacities and successful reasoning would be coincidental.
 
 ### Occam's Razor Has Limits
 
@@ -194,7 +194,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[delegatory-dualism]] — Saad's full framework for mental causation without overdetermination
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — Why the phenomenal character of reasoning is irreducible: consciousness pervades cognition
 - [[global-workspace-theory]] — The broadcasting account of conscious access
-- [[concepts/epiphenomenalism]] — The position the amplification evidence contradicts
+- [[concepts/epiphenomenalism]] — The position the amplification hypothesis rejects
 - [[interactionist-dualism]] — How consciousness influences brain states
 - [[evolutionary-case-for-quantum-neural-effects]] — Why evolution would optimise quantum neural architecture for consciousness
 - [[amplification-void]] — Why the chain from quantum influence to macroscopic effect cannot be traced
