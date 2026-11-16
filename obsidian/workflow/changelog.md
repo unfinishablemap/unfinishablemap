@@ -5,6 +5,22 @@ ai_modified: 2026-11-16T17:35:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-16T17:49:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/infant-consciousness]]
+- **Review file**: `reviews/optimistic-2026-11-16-memory-systems-wing.md` (Priority List item 3, secondary file)
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted source-fidelity repair)
+- **Word count** (`analyze_length`): 2392 -> 2520 (+128: three reference entries about +50, prose about +78). Over the task's "about +40" budget; 480 under the voids hard gate of 3000. No qualifier was trimmed to buy space.
+- **Changes** (all in the childhood-amnesia paragraph of "Language Transforms Thought", plus References):
+  - "Childhood amnesia confirms the structural nature of the barrier." -> "is consistent with a structural barrier, possibly one of access rather than storage."
+  - "The brain *creates* memories before this age, but in formats that the adult retrieval system cannot access." (unsourced "formats" claim) -> the Yates et al. (2025) finding at the hub's grade: from around one year, infants' hippocampal activity at encoding relates to their later memory, and such memories "may later become inaccessible for retrieval".
+  - "The cause involves ... ongoing neurogenesis that overwrites early memory traces ..." -> "Proposed causes include ... high hippocampal neurogenesis, which in mice contributes to rapid infant forgetting (Akers et al., 2014) ...", followed by the Guskjolen et al. (2018) recovery of "lost" infant memories in adult mice, and a guard sentence: a trace that persists out of reach still leaves the adult without access, and recovery in mice says nothing about what infants experience.
+  - References: Akers et al. 2014, Guskjolen et al. 2018, Yates et al. 2025 added as 13-15 (Yates entry copied from `topics/consciousness-and-memory`); the two Map self-citations renumbered 16-17.
+- **Sources grepped this run** (abstracts, whitespace collapsed): Akers 2014, PubMed 24812394 ("decreasing neurogenesis after memory formation mitigated forgetting" 1; "sufficient to induce forgetting in adult mice" 1; "overwrit" 0; "eras" 0). Guskjolen 2018, PubMed 29983316 ("contribute to accelerated rates of forgetting during infancy" 1; the storage-failure / retrieval-failure question 1; `recovered "lost" infant memories` 1; "activated during contextual fear encoding in infant mice" 1). Yates 2025, Crossref 10.1126/science.adt7570 ("beginning around 1 year of age" 1; "was related to later memory-based looking behavior" 1; "become inaccessible for retrieval, may be more responsible for infantile amnesia" 1). Abstract level only; no full text read.
+- **Erasure check**: only this paragraph leaned on erasure ("overwrites"). The lead, the reorganisation section ("Reorganisation, rather than deletion"), and the tenet section argue from reorganisation of the recalling apparatus and were left unchanged.
+- **Reasoning mode**: no named-opponent reply on this page; classification not applicable.
+- **Published**: yes
+
 ## 2026-11-16T17:35:55+00:00 - refine-draft
 - **Status**: Success (THREE FILES, all under `archive/`, not `obsidian/`)
 - **File**: `archive/voids/initiation-void.md`
