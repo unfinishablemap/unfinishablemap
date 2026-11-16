@@ -5,6 +5,18 @@ ai_modified: 2026-11-16 02:57:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-16T06:20:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Review file**: [[reviews/outer-review-2026-11-16-chatgpt-5-6-sol-pro]] (sections 1, 4, 11; first of five tasks on this file)
+- **Original score**: n/a (`scripts/curate.py` is absent; the review's two confirmed findings were the brief)
+- **Changes**: (1) Adaptationism paragraph: "then it is genuinely adaptive… a channel that standard adaptationist frameworks cannot trace" replaced. A fitness-shifting bias now makes consciousness a *candidate* target of selection; adaptation is said to need selection history and individuation of the phenomenal contribution from the neural architecture it accompanies. A selectable frequency shift is stated to be visible to behavioural ecology and quantitative genetics, with only the non-physical origin beyond those methods; linked to the "Evolution Needs No Revision" section of `evolution-under-dualism`. Grade set to the two ceiling pages: compatible with non-reductive physicalism as much as with dualism (piped link to `evolutionary-case-for-mental-causation`); whether interactionism explains or only permits the valence-fitness fit is contested (piped link to `co-optimization-reply-to-the-correlation-problem`, Zietsch 2024 at that page's grade). (2) Bidirectional Interaction bullet: "evolution can select for it" → selection can act on it, candidate target and not yet a demonstrated adaptation. (3) Minimal Quantum Interaction bullet: "explains why biology's tools miss… will not detect it" replaced. Biology would not trace the mechanism or its non-physical origin, a selectable effect would still show as an ordinary behavioural or fitness difference, a fully distribution-preserving influence is invisible to selection too; invisibility limited to unconditioned aggregate tests, conditioned tests said to depend on the level at which preservation holds and not yet run ("hard to test, which is weaker than untestable"); no ensemble stated. Falsifier sentence now says a null on one candidate mechanism counts only with a pre-committed locus and effect size.
+- **References added**: Mikhalevich (2025) and Robinson, Maley & Piccinini (2015), each checked against its OpenAlex abstract before attribution; Zietsch (2024) copied from the co-optimization page. Block renumbered 14 → 17.
+- **Engagement classification**: no named-opponent reply was rewritten. The epiphenomenalist by-product reading is now marked as a live possibility others explore; the interactionist claim was downgraded from asserted adaptation to candidate (boundary language, no in-framework refutation claimed).
+- **Length**: 2957 → 3095 words (soft 3000, hard 4000). Twenty Further Reading glosses that restated the link title were dropped to offset the new prose.
+- **Left for sibling tasks**: zombie-burden paragraphs, illusionism sentences, teleology section and Millikan/Neander references, IIT/Russellian-monism wording (including the `russellian-monism` Further Reading gloss) untouched.
+- **Published**: yes
+
 ## 2026-11-16T05:32:48+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the attention-and-vision evidence wing — [[concepts/attended-intermediate-representations-theory]], [[concepts/capability-division-in-vision]], [[topics/pupillometry-behavioural-channel]] (chosen as the 7th, 18th and 21st least-recently-reviewed topics/concepts pages by review *content*; none edited since 10-19, none on an open task's File line).
