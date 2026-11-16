@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T12:17:50+00:00
+ai_modified: 2026-11-16T13:03:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T13:03:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Source**: driver task after the 2026-11-16 outer-review repairs (reviews/outer-review-synthesis-2026-11-16.md); lead paragraph only
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**: lead paragraph rewritten so each clause matches the body at the body's grade. Removed "instead it deepens the mystery" (body: evolution sharpens the problem for neither side), the flat zombie sentence (body: a reductio against views that leave phenomenal character causally redundant), and "each fails when applied to it" / "structural feature of disciplines whose foundations were built for a world without inner experience" (body: function accounts limited in scope; evolutionary theory needs no revision; candidate target of selection, not a demonstrated adaptation; interactionism owes a mechanism). The Map's reading of the gap as support for dualism is kept and stated as the Map's. Description unchanged (still matches). No other paragraph touched.
+- **Engagement classification**: no named-opponent reply in the lead; the lead reports the body's framework-boundary marking against identity physicalism (Mode Three) without adding to it.
+- **Not fixed (reported)**: organism section "The strong emergence of consciousness suggests it does" still infers a shared explanation from a shared label (ChatGPT review section 7); needs a sentence-level rewrite, not a one-word change. The lead omits the body's "as compatible with non-reductive physicalism as with dualism" qualifier and the nomological-exclusion point for want of word budget.
+- **Word count**: 3223 -> 3223 (lead 116 -> 116; net zero; topics soft 3000, hard 4000)
+- **Published**: yes
 
 ## 2026-11-16T12:17:50+00:00 - refine-draft
 - **Status**: Success

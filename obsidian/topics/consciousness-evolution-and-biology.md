@@ -4,7 +4,7 @@ description: "Where evolutionary theory and biology's toolkit—function, teleol
 created: 2026-02-09
 modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-11-16T09:35:07+00:00
+ai_modified: 2026-11-16T13:03:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ coalesced_from:
   - "/topics/consciousness-and-the-philosophy-of-biology/"
 ---
 
-Evolution should clarify consciousness, but instead it deepens the mystery. Natural selection explains wings, eyes, immune systems—structures whose function makes their development intelligible. Consciousness resists this treatment. Even granting that it confers fitness advantages, the question persists: why does subjective experience accompany the neural processes that produce adaptive behaviour? A [[philosophical-zombies|philosophical zombie]]—functionally identical but experienceless—would enjoy the same evolutionary advantages. Beyond this central puzzle, biology's own conceptual toolkit—function, teleology, organism, adaptation—each carries assumptions about what consciousness is and where it belongs, and each fails when applied to it. The failure, the Map argues, is not a gap in current science but a structural feature of disciplines whose foundations were built for a world without inner experience.
+Evolutionary biology's functional explanations show why organisms process information as they do and leave open why experience accompanies that processing. Evolution sharpens this problem for neither side: for identity materialist and dualist alike it restates the [[hard-problem-of-consciousness|hard problem]], and the evolutionary [[philosophical-zombies|zombie]] argument is best read as a reductio against views that leave phenomenal character causally redundant. Biology's toolkit—function, teleology, organism, adaptation—leaves that question unanswered, and its function accounts are limited in scope: none was offered as a theory of consciousness. The Map reads the gap as support for dualism, within limits: evolutionary theory needs no revision, a causally efficacious consciousness is a candidate target of selection, not a demonstrated adaptation, and interactionism owes a mechanism.
 
 ## The Functional Template and Its Limit
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-11-16 09:35:07+00:00
+ai_modified: 2026-11-16 13:03:53+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-09 01:50:58+00:00
-lastmod: 2026-11-16 09:35:07+00:00
+lastmod: 2026-11-16 13:03:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ topics:
 - '[[the-strong-emergence-of-consciousness]]'
 ---
 
-Evolution should clarify consciousness, but instead it deepens the mystery. Natural selection explains wings, eyes, immune systems—structures whose function makes their development intelligible. Consciousness resists this treatment. Even granting that it confers fitness advantages, the question persists: why does subjective experience accompany the neural processes that produce adaptive behaviour? A [philosophical zombie](/concepts/philosophical-zombies/)—functionally identical but experienceless—would enjoy the same evolutionary advantages. Beyond this central puzzle, biology's own conceptual toolkit—function, teleology, organism, adaptation—each carries assumptions about what consciousness is and where it belongs, and each fails when applied to it. The failure, the Map argues, is not a gap in current science but a structural feature of disciplines whose foundations were built for a world without inner experience.
+Evolutionary biology's functional explanations show why organisms process information as they do and leave open why experience accompanies that processing. Evolution sharpens this problem for neither side: for identity materialist and dualist alike it restates the [hard problem](/topics/hard-problem-of-consciousness/), and the evolutionary [zombie](/concepts/philosophical-zombies/) argument is best read as a reductio against views that leave phenomenal character causally redundant. Biology's toolkit—function, teleology, organism, adaptation—leaves that question unanswered, and its function accounts are limited in scope: none was offered as a theory of consciousness. The Map reads the gap as support for dualism, within limits: evolutionary theory needs no revision, a causally efficacious consciousness is a candidate target of selection, not a demonstrated adaptation, and interactionism owes a mechanism.
 
 ## The Functional Template and Its Limit
 

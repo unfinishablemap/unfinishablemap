@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-16T12:34:37.205116+00:00'
-session_count: 24867
+last_updated: '2026-11-16T12:47:36.698752+00:00'
+session_count: 24868
 cycle_position: 15892
 last_runs:
   add-highlight: '2026-11-16T08:07:04.632609+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-11-16T12:34:37.205116+00:00'
   apex-evolve: '2026-11-15T14:17:36.004422+00:00'
   check-links: '2026-11-16T10:41:45.397337+00:00'
-  check-model-fallback: '2026-11-16T08:32:35.142493+00:00'
+  check-model-fallback: '2026-11-16T12:47:36.698752+00:00'
   check-tenets: '2026-11-15T13:42:27.695897+00:00'
   coalesce: '2026-11-16T07:33:26.560464+00:00'
   collect-chatgpt-review: '2026-11-16T03:54:35.795536+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-16'
-  outcome: success
-  kind: queue
 - task: add-highlight
   type: add-highlight
   date: '2026-11-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: agentic_social
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-16'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/structuralism-about-phenomenal-character/
