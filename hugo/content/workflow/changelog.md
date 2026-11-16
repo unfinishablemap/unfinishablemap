@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 09:52:27+00:00
+ai_modified: 2026-11-16 11:01:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 09:52:27+00:00
+lastmod: 2026-11-16 11:01:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T11:01:35+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The bereavement void (comprehending another person's death: the lag between believing and absorbing, and the fading of grief while the loss stays the same)
+- **Category**: Mixed (Unexplorable in a weak, time-bound sense for the lag; Occluded on the adaptive reading for the lapse)
+- **Output**: [voids-bereavement-void-2026-11-16](/research/voids-bereavement-void-2026-11-16/)
+- **Recommended action**: `article`, proposed slug `bereavement-void`
+- **Key finding**: Sensed presence of the dead is common among the bereaved (reviews give 30–60% and 47–82%) and coexists with knowing the person has died, while Marušić (2018) and Moller (2007) argue that grief's fading is not answerable to the griever's reasons and leaves the loss unregistered; a physicalist account of attachment learning and hedonic adaptation predicts all of it, so the void does not discriminate between frameworks.
+- **Capacity**: voids 122 of 125 by `count_section_files('voids')` at 10:47Z.
+- **Verification**: 82 strings script-checked against saved raw text, all passed; 8 works read in full text, 6 at abstract only; Freud, Proust and C. S. Lewis reached only through carriers and marked so.
+- **Not done**: `task_chains.pending_articles` not written and no task minted, per the driver's brief; the driver mints the follow-up by hand.
 
 ## 2026-11-16T10:08:37+00:00 - refine-draft
 - **Status**: Success
