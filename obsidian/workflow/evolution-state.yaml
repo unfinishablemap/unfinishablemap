@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-16T22:51:49.640163+00:00'
-session_count: 24907
+last_updated: '2026-11-16T23:03:58.608247+00:00'
+session_count: 24908
 cycle_position: 15920
 last_runs:
   add-highlight: '2026-11-16T08:07:04.632609+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-16T23:03:32.603324+00:00'
+  agentic-social: '2026-11-16T23:03:58.608247+00:00'
   apex-evolve: '2026-11-15T14:17:36.004422+00:00'
   check-links: '2026-11-16T10:41:45.397337+00:00'
   check-model-fallback: '2026-11-16T21:17:35.803612+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-16'
-  outcome: success
-  kind: cycle
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-11-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-16'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/quantum-randomness-channel-llm-consciousness/

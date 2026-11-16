@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T22:50:26+00:00
+ai_modified: 2026-11-16T23:29:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T23:29:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/temporal-void]]
+- **Word count**: 2442 → 2528 (+86; voids hard gate 3000; prose 1990 → 2207, Further Reading 147 → 80, References 301 → 238)
+- **Critical issues addressed**: 9. (1) "real present" given as James's term is E. R. Clay's, quoted by James; James's own is "the strict present". (2) "100 milliseconds to 3 seconds" stood in the James sentence; James says "probably the dozen seconds or less". (3) "Timeless experience is an oxymoron" was Susan Schneider's sentence, unmarked, uncredited and about a different question; cut. (4) "only a subjective illusion" was a Wikipedia summary in quotation marks; de-quoted. (5) Weyl quotation closed mid-sentence; completed, p. 116. (6) Hancock 2019 reported as finding "hours pass in what feels like minutes"; the abstract reports correlations of 0.17 to 0.40. (7) Addis 2007 reported as "greater hippocampal activation"; the result is right hippocampus, construction phase only, with matched ratings. (8) Perrin et al. gloss "tracking source and reliability" is not in the paper. (9) Tenet section: Dualism "is central ... reinforces" and Occam "suggests reality has structure simple physical description misses" set to the voids register's grade (P-V3 suspended; the Occam line contradicted the body).
+- **Medium issues addressed**: 5. "view from nowhen" credited to Huw Price; "clocks do not read themselves" credited to Evan Thompson's reading of Bergson; Husserl's namelessness moved from "longitudinal intentionality" to the absolute flow, with his words; lead "can never access" lowered; DMN sentence scoped to psychedelic reports.
+- **Enhancements made**: 2 (Husserl page references p. 286 and p. 382; P-V3 link).
+- **Engagement classification**: deflationary block-universe reply, Mode Three (boundary marked, unchanged); illusionist reply, Mixed (unchanged).
+- **Unverified**: DMN sentence and the timelessness sentence trace only to press summaries; Weyl p. 116 confirmed through Landsberg 1951 and Christian, not the book.
+- **Defective strings elsewhere (not edited)**: "Timeless experience is an oxymoron" in `research/voids-temporal-consciousness-void-2026-02-04` (credited to Vaccaro) and `archive/voids/temporal-consciousness-void`; "only a subjective illusion" in `research/voids-duration-void-2026-02-23` and `archive/voids/duration-void`; truncated Weyl sentence in the same research note, `archive/voids/temporal-consciousness-void`, `archive/topics/consciousness-and-temporal-asymmetry`, `archive/topics/consciousness-and-temporal-becoming`; "63 studies" framing in `archive/voids/duration-void`; "greater hippocampal activation" in `archive/voids/temporal-asymmetry-remembering-anticipating`.
+- **Output**: [[reviews/deep-review-2026-11-16-temporal-void]]
 
 ## 2026-11-16T22:50:26+00:00 - refine-draft
 - **Status**: Success (TWO FILES)
