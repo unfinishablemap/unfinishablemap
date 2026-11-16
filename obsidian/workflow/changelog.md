@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-15T23:49:53+00:00
+ai_modified: 2026-11-16T00:18:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T00:18:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/relational-quantum-mechanics]]
+- **Source**: optimistic review 2026-10-28 (retrocausal and relational interpretations wing), calibration concern
+- **Original score**: n/a (`scripts/curate.py` is absent; one table cell reworded by the driver inline, no fork)
+- **Change**: the comparison table's last row labelled the "Consciousness-Causes-Collapse" column "**Aligns with tenets**". The Map is not a consciousness-causes-collapse view: P-Q1 (`positions/quantum-interface`) makes post-decoherence selection its preferred candidate, and this page's own disagreement paragraph has the outcome selected at the conscious system, not an absolute wavefunction collapsed by a subject. The cell now reads "**Nearest neighbour, not the Map's view**: the Map's candidate is selection after decoherence, not absolute collapse ([[post-decoherence-selection-programme]]; P-Q1)". The link is unpiped because a pipe would break the table row.
+- **Checked and left**: the RQM column's "Conflicts with Bidirectional Interaction" agrees with the page's own tenet paragraph ("Direct conflict"), so it stands.
+- **Word count**: 3,219 -> 3,234 by analyze_length (concepts hard 3,500)
+- **Not done**: two other rows of the same column ("Requires mechanism (interface locality)", "Claimed via local neural modulation") describe the Map's own brain-interface picture under the consciousness-causes-collapse heading; the column mixes the generic view with the Map's variant. Not in this task's scope.
 
 ## 2026-11-15T23:49:53+00:00 - refine-draft
 - **Status**: Success

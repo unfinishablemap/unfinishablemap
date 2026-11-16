@@ -2,9 +2,9 @@
 title: "Relational Quantum Mechanics"
 description: "Rovelli's interpretation where quantum facts are relative to observers. Elegant but conflicts with the Map by eliminating consciousness's special role."
 created: 2026-01-18
-modified: 2026-10-28
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-10-28T19:21:23+00:00
+ai_modified: 2026-11-16T00:17:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[relational-quantum-mechanics-2026-01-18]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-26T17:51:02+00:00
@@ -110,7 +110,7 @@ RQM shows there is a coherent interpretation where consciousness plays no role; 
 | Multi-observer coordination | No coordination needed (relative facts) | Requires mechanism (interface locality) |
 | Locality preserved? | Claimed via perspectivalism | Claimed via local neural modulation |
 | Explains consciousness? | No (not its goal) | Aims to give consciousness causal role |
-| Site compatibility | **Conflicts with Bidirectional Interaction** | **Aligns with tenets** |
+| Site compatibility | **Conflicts with Bidirectional Interaction** | **Nearest neighbour, not the Map's view**: the Map's candidate is selection after decoherence, not absolute collapse ([[post-decoherence-selection-programme]]; P-Q1) |
 
 ## Process Philosophy Perspective
 
