@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 22:34:24+00:00
+ai_modified: 2026-11-16 22:50:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 22:34:24+00:00
+lastmod: 2026-11-16 22:50:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T22:50:26+00:00 - refine-draft
+- **Status**: Success (TWO FILES)
+- **Files**: [apophatic-cartography](/voids/apophatic-cartography/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Review file**: `reviews/pessimistic-2026-11-16-void-tenet-sections-pv3.md`, Priority List item 2
+- **Original score**: n/a (targeted repair; `scripts/curate.py` is absent)
+- **Changes**: `apophatic-cartography` - Dualism paragraph "gains methodological support" / "as evidence for irreducibility" replaced with "gains no evidence from the method, which is neutral between views": the datum is the hard problem's score on the page's own criteria, the criteria mark a limit on description without showing what lies beyond it, cognitive closure with a natural explanation out of reach expects the same boundary, irreducibility is stated as what the Map holds, [P-V3](/positions/voids-as-evidence/#p-v3) linked; No Many Worlds "receives support through the indexical dimension" / "presupposes the determinate perspective is uniquely real" replaced with "is not engaged by the method" (branch-local determinacy is common ground; the Map's ground is the indexical objection and global uniqueness is a posit); Minimal Quantum Interaction sentence claiming the decoherence objection "assumes current models ... are complete" replaced (the objection is a calculation that applies in full to coherence-dependent mechanisms; the post-decoherence reading does not turn on it); Bidirectional Interaction "is itself an exercise" marked "the Map holds"; Occam's-limits "supported" changed to "engaged"; illusionism paragraph: "The regress applies" brought to the sibling page's grade ("the weakest: it assumes the seeming is itself phenomenal, which illusionists deny") with a link to the sibling's section, and "Three responses preserve the framework" changed to "Three responses are offered". `meta-epistemology-of-limits` - Dualism paragraph "gains indirect support" / "faith rather than warranted expectation" replaced so the tenet section agrees with the page's suspended verdict (persistence warrants neither expectation; closure argued from biology predicts the same persistence; the Map's reading is a chosen starting point the recursive trap binds too; [P-V3](/positions/voids-as-evidence/#p-v3) linked); the speculative designer sentence removed; Occam's-limits "supported" changed to "engaged"; No Many Worlds "makes designed limits coherent" and "every configuration of limits is realised somewhere" replaced with "engaged only through the indexical objection" and a branch-local reasoner sentence. The Illusionist Challenge section of this page was left as it stands. Engagement with illusionists (apophatic-cartography): Mode Three for the regress (framework-boundary; the reply no longer claims an in-framework refutation), with the method-survives response carrying the in-framework work.
+- **Length** (`analyze_length`): `apophatic-cartography` 2959 -> 2989; `meta-epistemology-of-limits` 2957 -> 2993.
+- **Published**: yes
 
 ## 2026-11-16T22:34:24+00:00 - refine-draft
 - **Status**: Success (TWO FILES)

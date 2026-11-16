@@ -2,9 +2,9 @@
 title: "The Meta-Epistemology of Cognitive Limits"
 description: "Can we know our cognitive limits are genuine? Estimate their total scope? Predict which will dissolve? Tell natural features from designed constraints? All four meta-questions may be structurally unanswerable from within any limited mind—and the undecidability itself is informative."
 created: 2026-01-16
-modified: 2026-08-19
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-10-24T22:53:05+00:00
+ai_modified: 2026-11-16T22:50:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[medium-status-voids-in-cognition]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-19
 last_curated: null
 last_deep_review: 2026-07-06T17:23:41+00:00
@@ -157,13 +157,13 @@ The scope void rules out closed catalogues of cognitive limits, strong parsimony
 
 ## Relation to Site Perspective
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is most directly supported. If we cannot reliably assess our cognitive limits, parsimony becomes unreliable—the simpler theory may appear more plausible not because it's closer to truth but because the true theory lies in territory we cannot access.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is most directly engaged. If we cannot reliably assess our cognitive limits, parsimony becomes unreliable—the simpler theory may appear more plausible not because it's closer to truth but because the true theory lies in territory we cannot access.
 
-**[[tenets#^dualism|Dualism]]** gains indirect support. Claims that materialism will eventually explain consciousness become epistemically suspect—faith rather than warranted expectation. The hard problem's persistence and distinctive structure suggest the gap may be permanent because bridging concepts lie outside human cognitive reach. If consciousness is fundamental, a designer might impose closure precisely *because* understanding it would reveal something about reality's substrate.
+**[[tenets#^dualism|Dualism]]** gains no support, and this page's own verdict says why. If nobody can tell from inside whether a limit is permanent, persistence warrants neither the expectation that the hard problem will yield nor that it never will. [[mysterianism|Cognitive closure]] argued from biology predicts the same persistence, so the datum does not discriminate dualism from physicalism. The Map holds the gap ontological as a chosen starting point, which the recursive trap binds too; the void lends it no weight: the voids register has [[positions/voids-as-evidence#^p-v3|suspended the cumulative step]].
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through self-reference. If consciousness causally influences physics at this interface, understanding *how* may be permanently closed—the knowing is the interacting; we cannot observe the mechanism we use to observe.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** makes designed limits coherent. Under MWI, every configuration of limits is realised somewhere; the question of *why these particular limits* loses force. Rejecting MWI keeps indexical questions live: "Why am I this subject?" may be understood but unanswerable from inside.
+**[[tenets#^no-many-worlds|No Many Worlds]]** is engaged only through the indexical objection. A reasoner within a branch can ask *why these particular limits* as readily as anyone, so the void lends the tenet nothing. Rejecting MWI keeps indexical questions live: "Why am I this subject?" may be understood but unanswerable from inside.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** faces a distinctive challenge. If cognitive closure applies to the mind-matter interface, specific proposals about quantum mechanisms may be useful working hypotheses rather than claimed knowledge.
 

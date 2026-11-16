@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-10-24 22:53:05+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_modified: 2026-11-16 22:50:13+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /voids/epistemology-of-cognitive-limits/
@@ -20,7 +20,7 @@ concepts:
 - '[[illusionism]]'
 - '[[epistemology]]'
 created: 2026-01-16
-date: &id001 2026-08-19
+date: &id001 2026-11-16
 description: Can we know our cognitive limits are genuine? Estimate their total scope?
   Predict which will dissolve? Tell natural features from designed constraints? All
   four meta-questions may be structurally unanswerable from within any limited mind—and
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 17:23:41+00:00
-lastmod: 2026-10-24 22:53:05+00:00
+lastmod: 2026-11-16 22:50:13+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -162,13 +162,13 @@ The scope void rules out closed catalogues of cognitive limits, strong parsimony
 
 ## Relation to Site Perspective
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly supported. If we cannot reliably assess our cognitive limits, parsimony becomes unreliable—the simpler theory may appear more plausible not because it's closer to truth but because the true theory lies in territory we cannot access.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly engaged. If we cannot reliably assess our cognitive limits, parsimony becomes unreliable—the simpler theory may appear more plausible not because it's closer to truth but because the true theory lies in territory we cannot access.
 
-**[Dualism](/tenets/#dualism)** gains indirect support. Claims that materialism will eventually explain consciousness become epistemically suspect—faith rather than warranted expectation. The hard problem's persistence and distinctive structure suggest the gap may be permanent because bridging concepts lie outside human cognitive reach. If consciousness is fundamental, a designer might impose closure precisely *because* understanding it would reveal something about reality's substrate.
+**[Dualism](/tenets/#dualism)** gains no support, and this page's own verdict says why. If nobody can tell from inside whether a limit is permanent, persistence warrants neither the expectation that the hard problem will yield nor that it never will. [Cognitive closure](/concepts/mysterianism/) argued from biology predicts the same persistence, so the datum does not discriminate dualism from physicalism. The Map holds the gap ontological as a chosen starting point, which the recursive trap binds too; the void lends it no weight: the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through self-reference. If consciousness causally influences physics at this interface, understanding *how* may be permanently closed—the knowing is the interacting; we cannot observe the mechanism we use to observe.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes designed limits coherent. Under MWI, every configuration of limits is realised somewhere; the question of *why these particular limits* loses force. Rejecting MWI keeps indexical questions live: "Why am I this subject?" may be understood but unanswerable from inside.
+**[No Many Worlds](/tenets/#no-many-worlds)** is engaged only through the indexical objection. A reasoner within a branch can ask *why these particular limits* as readily as anyone, so the void lends the tenet nothing. Rejecting MWI keeps indexical questions live: "Why am I this subject?" may be understood but unanswerable from inside.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** faces a distinctive challenge. If cognitive closure applies to the mind-matter interface, specific proposals about quantum mechanisms may be useful working hypotheses rather than claimed knowledge.
 
