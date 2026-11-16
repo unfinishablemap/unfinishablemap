@@ -11,7 +11,7 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Source**: deep review 2026-11-16 of `voids/bereavement-void` (host-sentence follow-ups)
 - **Original score**: n/a (`scripts/curate.py` is absent; three one-word substitutions made by the driver inline, no fork)
 - **Change**: the three host lines that describe the bereavement void said a death is believed "at once". The deep review narrowed the article itself to "soon" (Maciejewski et al. 2007 has no data before one month, and Fuchs reports "That is not true!" as a frequent first reaction), so the hosts now say "soon" too: two places on `voids/death-void` and the catalogue line on `voids/voids`.
-- **Word count**: unchanged on both pages (one word for two in each place would be -1; "at once" -> "soon" is -1 word per place).
+- **Word count**: one word shorter per substitution ("at once" -> "soon"): -2 on `voids/death-void`, -1 on `voids/voids`.
 
 ## 2026-11-16T11:57:44+00:00 - deep-review
 - **Status**: Success
