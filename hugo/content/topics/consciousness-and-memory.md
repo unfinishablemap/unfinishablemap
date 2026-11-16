@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-11-16 15:50:51+00:00
+ai_modified: 2026-11-16 22:04:01+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-06 21:46:03+00:00
-lastmod: 2026-11-16 15:50:51+00:00
+lastmod: 2026-11-16 22:04:01+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'
@@ -189,7 +189,7 @@ Memory bears unevenly on the commitments, and the cases below [share one reading
 
 **[Minimal quantum interaction](/tenets/#minimal-quantum-interaction)** is consistent with the dissociation observed here. If consciousness influences the brain through a minimal interaction mechanism, NREM consolidation represents a state where that influence is withdrawn—the brain processes memories through endogenous replay without any non-physical contribution. The reconsolidation window offers a complementary site: when the trace is destabilised and multiple restabilisation outcomes are physically possible, consciousness may bias which reconstruction becomes actual.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** is implicitly at stake whenever the analysis invokes "selection" and "collapsing alternatives." On many-worlds, all alternatives are realised in parallel branches, and the serial/parallel distinction during sleep versus waking would reflect branch structure rather than collapse. The Map's framework requires genuine collapse—consciousness selecting one outcome from among genuinely open possibilities. The felt experience of a memory solidifying into *this* version rather than another presupposes a single experiential timeline.
+**[No Many Worlds](/tenets/#no-many-worlds)** is implicitly at stake whenever the analysis invokes "selection" and "collapsing alternatives." On many-worlds, all alternatives are realised in parallel branches, and the serial/parallel distinction during sleep versus waking would reflect branch structure rather than collapse. The Map's framework requires genuine collapse—consciousness selecting one outcome from among genuinely open possibilities. A memory's felt solidifying into *this* version occurs within branches too; [memory does not argue for the tenet](/concepts/episodic-memory/).
 
 **[Occam's Razor has limits](/tenets/#occams-limits)** when applied to memory and consciousness. The "simpler" materialist story—that memory is computation and consciousness is epiphenomenal—cannot explain why consciousness is required for some memory operations and not others, why different memory types feel qualitatively different, why conscious attention can degrade automatic performance, or why the phenomenological trajectory of consolidation follows its own path rather than tracking information loss point for point. The sheer complexity of consolidation neuroscience—three interleaved oscillatory systems, stage-dependent contributions, variable consciousness states—dissolves the apparent parsimony of "consciousness is just brain activity."
 

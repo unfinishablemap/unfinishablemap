@@ -5,6 +5,15 @@ ai_modified: 2026-11-16T21:35:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-16T22:04:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-memory]] and [[concepts/semantic-memory]] (TWO FILES)
+- **Source**: `reviews/tenet-check-2026-11-16.md` Priority 4 (W8, W9)
+- **Original score**: not scored (`scripts/curate.py` absent)
+- **Changes**: (1) `topics/consciousness-and-memory`, No Many Worlds paragraph: the closing sentence said a memory's felt solidifying "presupposes a single experiential timeline"; it now says the solidifying occurs within branches too and that memory does not argue for the tenet, with a piped link to `episodic-memory`, whose own paragraph says exactly that. The bedrock serial/parallel sentences and "The Map's framework requires genuine collapse" are untouched. 3,998 -> 3,998 words (net 0; gate 4,000). (2) `concepts/semantic-memory`, Minimal Quantum Interaction paragraph: "revised timescales and biological precedents ... suggest the objection isn't decisive" and attention "holding retrieval processes in superposition until the target activates" replaced. The paragraph now says the decoherence challenge applies fully to any reading holding retrieval in superposition, that no such neural coherence has been observed, that magnetoreception is a precedent and not a licence (tenets wording), and that the Map's preferred post-decoherence reading needs no sustained coherence. 3,487 -> 3,495 words (gate 3,500). No new claim about any study; no external source read. Earlier repairs of today (Dewar, Yates, Masters; Batterink, two-stage model) confirmed present. Departures from the report's text: hub wording follows `episodic-memory`'s "does not argue for it" in place of "supports nothing here"; semantic-memory drops "when the search resolves", which would have contradicted the kept sentence locating selection in the sustained search and not the pop.
+- **Left open**: the kept sentence "could select among quantum-superposed activation patterns" (semantic-memory) still names the coherence-dependent reading under "could"; the next sentence now carries the objection to it.
+- **Published**: yes
+
 ## 2026-11-16T21:35:08+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-evolution-and-biology]]

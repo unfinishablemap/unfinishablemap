@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-11-16
 human_modified:
-ai_modified: 2026-11-16T15:50:51+00:00
+ai_modified: 2026-11-16T22:04:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -185,7 +185,7 @@ Memory bears unevenly on the commitments, and the cases below [[positions/method
 
 **[[tenets#^minimal-quantum-interaction|Minimal quantum interaction]]** is consistent with the dissociation observed here. If consciousness influences the brain through a minimal interaction mechanism, NREM consolidation represents a state where that influence is withdrawn—the brain processes memories through endogenous replay without any non-physical contribution. The reconsolidation window offers a complementary site: when the trace is destabilised and multiple restabilisation outcomes are physically possible, consciousness may bias which reconstruction becomes actual.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** is implicitly at stake whenever the analysis invokes "selection" and "collapsing alternatives." On many-worlds, all alternatives are realised in parallel branches, and the serial/parallel distinction during sleep versus waking would reflect branch structure rather than collapse. The Map's framework requires genuine collapse—consciousness selecting one outcome from among genuinely open possibilities. The felt experience of a memory solidifying into *this* version rather than another presupposes a single experiential timeline.
+**[[tenets#^no-many-worlds|No Many Worlds]]** is implicitly at stake whenever the analysis invokes "selection" and "collapsing alternatives." On many-worlds, all alternatives are realised in parallel branches, and the serial/parallel distinction during sleep versus waking would reflect branch structure rather than collapse. The Map's framework requires genuine collapse—consciousness selecting one outcome from among genuinely open possibilities. A memory's felt solidifying into *this* version occurs within branches too; [[episodic-memory|memory does not argue for the tenet]].
 
 **[[tenets#^occams-limits|Occam's Razor has limits]]** when applied to memory and consciousness. The "simpler" materialist story—that memory is computation and consciousness is epiphenomenal—cannot explain why consciousness is required for some memory operations and not others, why different memory types feel qualitatively different, why conscious attention can degrade automatic performance, or why the phenomenological trajectory of consolidation follows its own path rather than tracking information loss point for point. The sheer complexity of consolidation neuroscience—three interleaved oscillatory systems, stage-dependent contributions, variable consciousness states—dissolves the apparent parsimony of "consciousness is just brain activity."
 

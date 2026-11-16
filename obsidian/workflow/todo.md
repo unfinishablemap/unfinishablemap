@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/consciousness-and-memory` says a memory's solidifying "presupposes a single experiential timeline" (against `concepts/episodic-memory`), and `concepts/semantic-memory` has retrieval held "in superposition" with the decoherence objection waved through
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-and-memory.md
-- **Status**: pending
-- **Source**: check-tenets
-- **Generated**: 2026-11-16
-- **Review file**: `reviews/tenet-check-2026-11-16.md`
-- **Headroom**: TWO FILES. `topics/consciousness-and-memory`: 3998 words at mint (topics hard 4000; gate is `>=`) - almost no room: NET-ZERO OR NEGATIVE IS MANDATORY (report: net -1). `concepts/semantic-memory`: 3487 words (concepts hard 3500) - about a dozen words of room; the report's replacement nets about +8: finish at 3,499 or lower.
-- **Secondary files**: obsidian/concepts/semantic-memory.md
-- **Caution**: Both pages were repaired today from the memory-systems optimistic review (hub 15:5xZ; semantic-memory 15:3xZ): do not undo those repairs. The semantic-memory sentence must not state the quantum mechanism as established NOR concede it is impossible: decoherence is a live objection the Map answers elsewhere - re-grep the Map's decoherence page(s) and state the proposal at their grade.
-- **Notes**: Tenet check 167, Priority List item 4 (Warnings W8, W9). Hub ~L188 "presupposes a single experiential timeline" contradicts `concepts/episodic-memory` ~L178 (re-grep it and quote what it says). `concepts/semantic-memory` ~L173 has retrieval held "in superposition" and waves the decoherence objection through. The report gives the full OLD and NEW text for every replacement, the per-replacement word deltas and its guards: follow it, but treat its NEW texts as proposals - re-read each paragraph, re-confirm each OLD string occurs exactly once, and check every proposed sentence against the Map page it cites (re-grep that page). The check read no external source: any claim about what a cited author holds must be verified at source this run or left unasserted. Executor rules: both directions matter - never concede epiphenomenalism, never deny zombie possibility, never say over which ensemble Born statistics hold, never call the mechanism untestable in principle, never enlist a cited author for dualism, and do not strip the Map of a commitment it does hold (state it as the Map's, on the tenet's ground); read the page's latest review Stability Notes first; no "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement; `modified`/`ai_modified` from `date -u`; `ai_system`: append the model you actually run as only if absent anywhere in the string; changelog before sync; sync and confirm hugo/content.
-
 ### P3: `topics/biological-teleology-and-the-interface-framework` lead opens "Biology banished purpose from nature. Darwin showed ..." - the same history `topics/consciousness-evolution-and-biology` corrected on 2026-11-16 (Darwin welcomed Gray's "bringing back" of teleology; teleonomy is naturalised goal-directedness, not banishment)
 - **Type**: refine-draft
 - **File**: obsidian/topics/biological-teleology-and-the-interface-framework.md
@@ -5709,6 +5697,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-16: `topics/consciousness-and-memory` says a memory's solidifying "presupposes a single experiential timeline" (against `concepts/episodic-memory`), and `concepts/semantic-memory` has retrieval held "in superposition" with the decoherence objection waved through
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-memory.md
+- **Notes**: Tenet check 167, Priority List item 4 (Warnings W8, W9). Hub ~L188 "presupposes a single experiential timeline" contradicts `concepts/episodic-memory` ~L178 (re-grep it and quote what it says). `concepts/semantic-memory` ~L173 has retrieval held "in superposition" and waves the decoherence objection through. The report gives the full OLD and NEW text for every replacement, the per-replacement word deltas and its guards: follow it, but treat its NEW texts as proposals - re-read each paragraph, re-confirm each OLD string occurs exactly once, and check every proposed sentence against the Map page it cites (re-grep that page). The check read no external source: any claim about what a cited author holds must be verified at source this run or left unasserted. Executor rules: both directions matter - never concede epiphenomenalism, never deny zombie possibility, never say over which ensemble Born statistics hold, never call the mechanism untestable in principle, never enlist a cited author for dualism, and do not strip the Map of a commitment it does hold (state it as the Map's, on the tenet's ground); read the page's latest review Stability Notes first; no "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement; `modified`/`ai_modified` from `date -u`; `ai_system`: append the model you actually run as only if absent anywhere in the string; changelog before sync; sync and confirm hugo/content.
 
 ### ✓ 2026-11-16: `topics/consciousness-evolution-and-biology`: "a cosmic coincidence", strong emergence "suggests it does", and Dualism "gains support" still sit under a lead that says evolution sharpens the problem for neither side
 - **Type**: refine-draft

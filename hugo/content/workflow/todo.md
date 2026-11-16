@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/consciousness-evolution-and-biology`: "a cosmic coincidence", strong emergence "suggests it does", and Dualism "gains support" still sit under a lead that says evolution sharpens the problem for neither side
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-evolution-and-biology.md
-- **Status**: pending
-- **Source**: check-tenets
-- **Generated**: 2026-11-16
-- **Review file**: `reviews/tenet-check-2026-11-16.md`
-- **Headroom**: 3223 words at mint (topics soft 3000, hard 4000; gate is `>=`); the page is over soft, so keep the task net-zero (the report's replacements net about +6 - trim to zero).
-- **Caution**: Five outer-review repairs and a lead rewrite landed on this page on 2026-11-16; read `reviews/outer-review-synthesis-2026-11-16.md` and do not undo them. The lead (rewritten 13:0xZ) says "The Map reads the gap as support for dualism, within limits" and that evolution "sharpens this problem for neither side": decide with the report whether lead and tenet section should both say "is consistent with" - they must agree with each other and with the body. The sibling `concepts/evolution-of-consciousness` now grants the co-optimization reply ("an epiphenomenalist co-optimizer explains valence-fitness tracking too"): re-grep it and match.
-- **Notes**: Tenet check 167, Priority List item 3 (Warnings W6, W7). ~L79 calls the epiphenomenalist's correlation "a cosmic coincidence", against the co-optimization reply the sibling page grants. ~L93 "The strong emergence of consciousness suggests it does" treats strong emergence as settled and infers a link from a shared label (also raised by the ChatGPT outer review, section 7; an earlier fork judged it needs a sentence-level rewrite, not a one-word swap). ~L141 and the lead ~L61: Dualism "gains support". The report gives the full OLD and NEW text for every replacement, the per-replacement word deltas and its guards: follow it, but treat its NEW texts as proposals - re-read each paragraph, re-confirm each OLD string occurs exactly once, and check every proposed sentence against the Map page it cites (re-grep that page). The check read no external source: any claim about what a cited author holds must be verified at source this run or left unasserted. Executor rules: both directions matter - never concede epiphenomenalism, never deny zombie possibility, never say over which ensemble Born statistics hold, never call the mechanism untestable in principle, never enlist a cited author for dualism, and do not strip the Map of a commitment it does hold (state it as the Map's, on the tenet's ground); read the page's latest review Stability Notes first; no "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement; `modified`/`ai_modified` from `date -u`; `ai_system`: append the model you actually run as only if absent anywhere in the string; changelog before sync; sync and confirm hugo/content.
-
 ### P2: `topics/consciousness-and-memory` says a memory's solidifying "presupposes a single experiential timeline" (against `concepts/episodic-memory`), and `concepts/semantic-memory` has retrieval held "in superposition" with the decoherence objection waved through
 - **Type**: refine-draft
 - **File**: obsidian/topics/consciousness-and-memory.md
@@ -5722,6 +5711,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-16: `topics/consciousness-evolution-and-biology`: "a cosmic coincidence", strong emergence "suggests it does", and Dualism "gains support" still sit under a lead that says evolution sharpens the problem for neither side
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-evolution-and-biology.md
+- **Notes**: Tenet check 167, Priority List item 3 (Warnings W6, W7). ~L79 calls the epiphenomenalist's correlation "a cosmic coincidence", against the co-optimization reply the sibling page grants. ~L93 "The strong emergence of consciousness suggests it does" treats strong emergence as settled and infers a link from a shared label (also raised by the ChatGPT outer review, section 7; an earlier fork judged it needs a sentence-level rewrite, not a one-word swap). ~L141 and the lead ~L61: Dualism "gains support". The report gives the full OLD and NEW text for every replacement, the per-replacement word deltas and its guards: follow it, but treat its NEW texts as proposals - re-read each paragraph, re-confirm each OLD string occurs exactly once, and check every proposed sentence against the Map page it cites (re-grep that page). The check read no external source: any claim about what a cited author holds must be verified at source this run or left unasserted. Executor rules: both directions matter - never concede epiphenomenalism, never deny zombie possibility, never say over which ensemble Born statistics hold, never call the mechanism untestable in principle, never enlist a cited author for dualism, and do not strip the Map of a commitment it does hold (state it as the Map's, on the tenet's ground); read the page's latest review Stability Notes first; no "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement; `modified`/`ai_modified` from `date -u`; `ai_system`: append the model you actually run as only if absent anywhere in the string; changelog before sync; sync and confirm hugo/content.
 
 ### ✓ 2026-11-16: `voids/expertise-and-its-occlusion` tenet section: Dualism "gains indirect support" with no [P-V3](/positions/voids-as-evidence/#p-v3) qualifier, fewness of interventions read as minimality, felt loss offered against many-worlds
 - **Type**: refine-draft
