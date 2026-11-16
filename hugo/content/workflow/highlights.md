@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-15T08:19:48.729775'
+ai_modified: '2026-11-16T08:03:27.991153'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-11-15'
+date: '2026-11-16'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-15 08:19:48.729775+00:00
-modified: '2026-11-15'
+lastmod: 2026-11-16 08:03:27.991153+00:00
+modified: '2026-11-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-16: Sour Grapes: The Want That Hides Its Own Trimming
+
+Aesop's fox, unable to reach the grapes, decides they are sour. Jon Elster's 1982 analysis: the adjustment happens "behind my back". A new void: a want cut to fit what is attainable arrives as an ordinary preference, and the one test needs the option you lack.
+
+**Type**: new-article  
+**Link**: [sour-grapes-void](/voids/sour-grapes-void/)
+
+---
+
 ### 2026-11-15: Why Them? Speed-Dating Models Couldn't Predict the Pair
 
 Given 100+ pre-date measures of traits and preferences, models partly predicted how much people desire and are desired, but not the pair-specific part of initial desire. New void: why this one, and can a lover tell found perfections from projected ones?
@@ -213,16 +222,6 @@ Is Star Trek's Data conscious? Ned Block says that for a being functionally like
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2114268119501848997  
 **Link**: [blocks-harder-problem](/topics/blocks-harder-problem/)
-
----
-
-### 2026-10-24: Levy: Blame Needs Consciousness, but Not the Kind Zombies Lack
-
-Neil Levy argues blame requires consciousness of what makes an act wrong, but he means information available to the person, which he says zombies have in full. That fits the Map's claim without evidencing dualism, and exposes a tension in its own pages.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2113905849085157864  
-**Link**: [consciousness-and-the-epistemic-condition-on-responsibility](/topics/consciousness-and-the-epistemic-condition-on-responsibility/)
 
 ---
 
