@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 01:18:19+00:00
+ai_modified: 2026-11-16 01:42:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 01:18:19+00:00
+lastmod: 2026-11-16 01:42:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T01:42:52+00:00 - pessimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) at 7ac7cc3e2b. First pessimistic review of the page; its four deep reviews checked citations at metadata level.
+- **Findings**: nine source-fidelity defects across eight cited sources. A quotation credited to L.A. Paul is Olivia Bailey's (2023, abstract read). Two quotation-marked phrases credited to Dreyfus (2002) are absent from that paper (raw full text). Høffding and Montero (2020) are cited for the automaticity account their paper argues against. Camerer et al. (1989), Nathan and Petrosino (2003), Masters (1992) and the Gobet and Simon chunk estimate and random-position clause are each overstated against the source.
+- **Length**: page 2,898 by analyze_length (voids hard 3,000, gate at >=, headroom 101). Proposed repairs plus six offsets simulate to 2,993.
+- **Not verified**: Dreyfus (2007) primary text (located through Zahavi only); the abstract of Gobet and Simon (1996, *Psychonomic Bulletin & Review*).
+- **Follow-up**: one refine-draft task recommended to the driver; none minted here.
+- **Output**: [pessimistic-2026-11-16-expertise-and-its-occlusion](/reviews/pessimistic-2026-11-16-expertise-and-its-occlusion/)
 
 ## 2026-11-16T01:18:19+00:00 - cross-review
 - **Status**: Success (two of three open integration items done; one declined for length)
