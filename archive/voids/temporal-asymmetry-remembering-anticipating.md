@@ -3,7 +3,7 @@ title: "The Asymmetry Between Remembering and Anticipating"
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-08-04T05:40:38+00:00
+ai_modified: 2026-11-16T23:34:48+00:00
 draft: false
 archived: true
 archived_date: 2026-03-17T02:00:00+00:00
@@ -37,7 +37,7 @@ related_articles:
   - "[[collapse-and-time]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-2
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-03-16T10:34:00+00:00
@@ -51,9 +51,9 @@ This asymmetry matters for The Unfinishable Map because it reveals something ess
 
 Memory and future simulation share neural substrate—hippocampus, medial prefrontal cortex, posterior cingulate cortex all activate for both. Patient KC, who lost [[episodic-memory|episodic memory]], also lost the ability to imagine his personal future. Yet despite shared architecture, the phenomenological products differ.
 
-[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—Tulving's term for the awareness accompanying episodic memory—includes a distinctive phenomenal marker: the felt sense of pastness. When you remember your wedding day, it arrives tagged as having-happened. This isn't inferred but immediately present—a quale, directly given. Perrin, Michaelian and Sant'Anna (2020) analyze this as an "epistemic feeling"—a metacognitive state that tracks source and reliability. Functionalists will note this framing is compatible with their view: the feeling of pastness could be a cognitive marker rather than an irreducible quale. The Map's dualist perspective maintains that even if the feeling *functions* as a marker, its phenomenal character—what it is like to experience pastness—remains irreducible to the marking function.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—Tulving's term for the awareness accompanying episodic memory—includes a distinctive phenomenal marker: the felt sense of pastness. When you remember your wedding day, it arrives tagged as having-happened. This isn't inferred but immediately present—a quale, directly given. Perrin, Michaelian and Sant'Anna (2020) analyze this as an "epistemic feeling"—a form of feeling-based metacognition. Functionalists will note this framing is compatible with their view: the feeling of pastness could be a cognitive marker rather than an irreducible quale. The Map's dualist perspective maintains that even if the feeling *functions* as a marker, its phenomenal character—what it is like to experience pastness—remains irreducible to the marking function.
 
-Future simulation differs categorically. The imagined future feels *constructed* rather than *contacted*. Even vivid future simulation—detailed imagery, emotional engagement—lacks the quality of having-been-there. Neuroimaging confirms this: future simulation produces greater hippocampal activation than memory retrieval (Addis, Wong & Schacter, 2007). The extra constructive work is phenomenologically manifest.
+On the Map's account, future simulation differs categorically. The imagined future feels *constructed* rather than *contacted*. Even vivid future simulation—detailed imagery, emotional engagement—lacks the quality of having-been-there. In an early fMRI study whose past and future events did not differ in rated detail or emotionality, constructing future events uniquely engaged the right hippocampus, possibly through novelty; the left hippocampus was common to both, and elaboration overlapped almost entirely (Addis, Wong & Schacter, 2007). The finding illustrates rather than confirms the asymmetry.
 
 | Feature | Memory | Future Simulation |
 |---------|--------|-------------------|

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why lived time and measured time cannot be
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T09:29:00+00:00
+ai_modified: 2026-11-16T23:34:48+00:00
 draft: false
 archived: true
 archived_date: 2026-03-05T01:32:00+00:00
@@ -29,7 +29,7 @@ related_articles:
   - "[[the-unobservable-self]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-2
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review:
@@ -53,7 +53,7 @@ The duration void's core structure resembles complementarity in quantum mechanic
 
 Consider watching a clock. Time feels slower — not because clocks possess some magical power, but because clock-watching forces consciousness into measurement mode, fragmenting the continuous flow into discrete ticks. The measured intervals feel longer precisely because measurement has replaced the smooth, heterogeneous stream of lived experience with a monotonous sequence of counted units. Remove the clock and duration reasserts itself — time "flies" because consciousness re-enters the qualitative flow.
 
-Flow states provide the empirical mirror image. A meta-analysis of 63 studies (over 1,000 effect sizes) confirms that deep absorption consistently produces distorted time perception — subjects report that hours passed in what felt like minutes (Stoll et al., 2019). During flow, transient hypofrontality reduces activity in brain regions tracking temporal awareness. Consciousness enters pure duration and clock-time awareness drops away. The two modes cannot coexist.
+Flow states are consistent with the mirror image. A meta-analysis of 63 studies (over 1,000 effect sizes) relating flow to changes in the sense of time reports moderately positive correlations (r between 0.17 and 0.40) across aspects of flow (Hancock et al., 2019). During flow, transient hypofrontality reduces activity in brain regions tracking temporal awareness. On the Map's reading, consciousness enters pure duration and clock-time awareness drops away. The finding is correlational: it is consistent with a trade-off between the two modes and does not show that they exclude each other.
 
 The retrospective distortion makes the incompatibility vivid. A vacation that "flew by" is remembered as long — rich with distinct events that, in retrospect, seem to occupy substantial time. A boring meeting that "dragged" is remembered as short — few distinct events, sparse temporal content. Lived duration and measured duration generate contradictory judgments about the same interval. Neither is wrong; they are incommensurable.
 
@@ -67,11 +67,11 @@ Husserl identified a double intentionality in temporal awareness: *transverse in
 
 ## The Bergson-Einstein Impasse
 
-In 1922, Bergson and Einstein debated whether physics captures time fully. Einstein declared that there was no "philosopher's time" — only physical time. Bergson accepted relativity but insisted that clocks require conscious interpreters: "Clocks, however accurate, don't read themselves; they are interpreted by conscious beings."
+In 1922, Bergson and Einstein debated whether physics captures time fully. Einstein declared that there was no "philosopher's time" — only physical time. Bergson accepted relativity but, on Evan Thompson's (2024) reading, held that reading a clock presupposes a conscious perceiver: clocks do not read themselves.
 
 Modern reassessment suggests their positions were more compatible than either realized. Bergson was not arguing against physics but for a dimension of time that physics cannot represent — the qualitative, heterogeneous character of lived experience. A century later, this dimension remains unincorporated into any physical theory.
 
-The impasse is not merely historical. McTaggart's distinction between the A-series (past/present/future — dynamic, perspectival) and the B-series (earlier/later — static, objective) formalizes a closely related problem. Consciousness seems to require A-series experience — the felt reality of past, present, and future. But the A-series faces logical difficulties that B-theorists exploit, some going so far as to claim temporal flow is "only a subjective illusion of human consciousness." If temporal experience is both necessary for consciousness and logically problematic, the duration void acquires a paradoxical character: consciousness inhabits what it cannot coherently describe.
+The impasse is not merely historical. McTaggart's distinction between the A-series (past/present/future — dynamic, perspectival) and the B-series (earlier/later — static, objective) formalizes a closely related problem. Consciousness seems to require A-series experience — the felt reality of past, present, and future. But the A-series faces logical difficulties that B-theorists exploit: they deny that passage is an objective feature of the world, and many treat the appearance of flow as mind-dependent. If temporal experience is both necessary for consciousness and logically problematic, the duration void acquires a paradoxical character: consciousness inhabits what it cannot coherently describe.
 
 ## What AI Illuminates by Contrast
 
@@ -106,9 +106,10 @@ The Map speculates that the duration void may be partly occluded rather than mer
 1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
 1. Bergson, H. (1922). *Duration and Simultaneity*.
 1. Canales, J. (2015). *The Physicist and the Philosopher*. Princeton University Press.
+1. Hancock, P.A. et al. (2019). "A meta-analysis of flow effects and the perception of time." *Acta Psychologica*, 198, 102836.
 1. Heidegger, M. (1927). *Being and Time*, Division Two.
 1. Husserl, E. (1928). *The Phenomenology of Internal Time-Consciousness*.
 1. James, W. (1890). *The Principles of Psychology*, Chapter XV.
 1. McTaggart, J.M.E. (1908). "The Unreality of Time." *Mind*, 17(68), 457-474.
-1. Stoll, C. et al. (2019). "Time experience during flow: A meta-analysis." *Acta Psychologica*.
+1. Thompson, E. (2024). Who really won when Bergson and Einstein debated time? *Aeon*. https://aeon.co/essays/who-really-won-when-bergson-and-einstein-debated-time
 1. Wittmann, M. (2016). *Felt Time: The Psychology of How We Perceive Time*. MIT Press.

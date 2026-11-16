@@ -4,7 +4,7 @@ description: "Physics provides time's asymmetry, but consciousness constitutes t
 created: 2026-02-15
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-19T10:21:00+00:00
+ai_modified: 2026-11-16T23:34:48+00:00
 last_deep_review: 2026-02-19T10:21:00+00:00
 draft: false
 archived: true
@@ -39,7 +39,7 @@ related_articles:
   - "[[phenomenology-of-memory-and-the-self]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-2
 ai_generated_date: 2026-02-15
 last_curated:
 ---
@@ -62,7 +62,7 @@ These four arrows typically align. But they need not. A universe with time-symme
 
 ## Why Physics Alone Cannot Account for the Arrow
 
-The thermodynamic explanation — entropy increases because the Big Bang was low-entropy — is necessary but insufficient. It explains *that* entropy increases but not *why we experience the direction of increase as forward*. As Hermann Weyl observed: "The objective world simply is, it does not happen. Only to the gaze of my consciousness, crawling upward along the life line of my body, does a section of this world come to life."
+The thermodynamic explanation — entropy increases because the Big Bang was low-entropy — is necessary but insufficient. It explains *that* entropy increases but not *why we experience the direction of increase as forward*. As Hermann Weyl observed: "The objective world simply is, it does not happen. Only to the gaze of my consciousness, crawling upward along the life line of my body, does a section of this world come to life as a fleeting image in space which continuously changes in time" (1949, p. 116).
 
 The block universe of relativity reinforces the point. If past, present, and future coexist as equally real slices of a four-dimensional manifold, then time doesn't pass. Nothing "moves" through the block. Yet consciousness insists otherwise. We experience becoming: possibility narrowing to actuality, the open future crystallising into the fixed past. This becoming appears nowhere in the block universe's description.
 

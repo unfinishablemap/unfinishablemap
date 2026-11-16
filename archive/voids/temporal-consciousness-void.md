@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness is confined to a moving 
 created: 2026-02-04
 modified: 2026-02-24
 human_modified: null
-ai_modified: 2026-02-24T09:44:00+00:00
+ai_modified: 2026-11-16T23:34:48+00:00
 last_deep_review: 2026-02-24T09:44:00+00:00
 draft: false
 archived: true
@@ -36,18 +36,18 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-2
 ai_generated_date: 2026-02-04
 last_curated: null
 ---
 
-Consciousness is imprisoned in the present. We cannot experience our entire lives at once, cannot directly access past or future moments, cannot adopt the "view from nowhen" that physics describes. Every experience happens *now*—the past is remembered, the future anticipated, but only the present is directly lived. This confinement to a "moving present" may be a structural feature of consciousness itself rather than a contingent limitation.
+Consciousness is imprisoned in the present. We cannot experience our entire lives at once, cannot directly access past or future moments, cannot adopt what Huw Price (1996) calls the "view from nowhen" that physics describes. Every experience happens *now*—the past is remembered, the future anticipated, but only the present is directly lived. This confinement to a "moving present" may be a structural feature of consciousness itself rather than a contingent limitation.
 
 The Unfinishable Map takes this seriously as a void—not merely an unsolved problem but potentially an unchartable territory. If consciousness is fundamental, its temporal structure may be equally fundamental: not derivative from physics but constitutive of how mind interfaces with the world.
 
 ## The Specious Present
 
-William James distinguished the "strict present"—a durationless mathematical instant—from the [[temporal-consciousness|"specious present,"]] the experienced duration of roughly 100 milliseconds to 3 seconds (with some estimates extending further). This window is consciousness's temporal aperture: everything within it feels present; everything outside becomes memory or anticipation.
+William James distinguished the "strict present"—a durationless mathematical instant—from the [[temporal-consciousness|"specious present,"]] the short duration experienced as now. James put its nucleus at "probably the dozen seconds or less that have just elapsed"; some later estimates are shorter, around half a second to three seconds (Dainton 2023). This window is consciousness's temporal aperture: everything within it feels present; everything outside becomes memory or anticipation.
 
 Three competing models explain this structure:
 
@@ -57,17 +57,17 @@ Three competing models explain this structure:
 
 Husserl's phenomenology offers the most detailed analysis. He described temporal consciousness as having a tripartite structure: *primal impression* (the now-point), *retention* (the just-past held in awareness), and *protention* (openness toward the imminent). The "comet's tail" metaphor captures this: consciousness extends backward through retention while oriented toward what's coming.
 
-Husserl returned to this problem throughout his career, calling it "the most difficult of all phenomenological problems." The difficulty is not merely technical. Something about temporal consciousness resists the tools we bring to it.
+Husserl returned to this problem throughout his career, calling the analysis of time "the most difficult of all phenomenological problems" (Husserl 1991, p. 286). The difficulty is not merely technical. Something about temporal consciousness resists the tools we bring to it.
 
 ## The Block Universe Problem
 
-Physics presents time differently. In the block universe view—supported by relativity—past, present, and future exist equally. As Hermann Weyl wrote: "The objective world simply is, it does not happen. Only to the gaze of my consciousness, crawling upward along the life line of my body, does a section of this world come to life."
+Physics presents time differently. In the block universe view—supported by relativity—past, present, and future exist equally. As Hermann Weyl wrote: "The objective world simply is, it does not happen. Only to the gaze of my consciousness, crawling upward along the life line of my body, does a section of this world come to life as a fleeting image in space which continuously changes in time" (1949, p. 116).
 
 This creates a gap. If all times exist equally, why does consciousness experience only one "slice" at a time? Why the moving spotlight rather than eternal access?
 
 C.D. Broad's "moving spotlight" metaphor captures the puzzle: "the characteristic of presentness as moving, somewhat like the spot of light from a policeman's bull's-eye traversing the fronts of the houses in a street." The theory tries to reconcile eternalist ontology with phenomenal flow—but it relocates the mystery rather than solving it. What moves the spotlight? Why can't consciousness illuminate the whole block?
 
-A deflationary response holds that there is no real gap: temporal flow is simply what it is *like* to be a temporal information-processing system embedded in a block universe. On this view, asking "why does consciousness experience flow?" is like asking "why does water feel wet?"—the question dissolves once you understand the system. The Map rejects this deflationary move. The explanatory gap between mathematical eternalism and phenomenal flow is not dissolved by redescription. As a Royal Society analysis of time and consciousness notes: "Conscious experience has a felt quality that involves flow; thoughts seem to be present in the 'now,' and they change from moment to moment. Timeless experience is an oxymoron." Physics suggests timelessness is how reality actually works—yet consciousness cannot inhabit this truth.
+A deflationary response holds that there is no real gap: temporal flow is simply what it is *like* to be a temporal information-processing system embedded in a block universe. On this view, asking "why does consciousness experience flow?" is like asking "why does water feel wet?"—the question dissolves once you understand the system. The Map rejects this deflationary move. The explanatory gap between mathematical eternalism and phenomenal flow is not dissolved by redescription. Susan Schneider (2018), arguing that a timeless fundamental level could not be experiential (her target is panpsychism), makes a related point: "Conscious experience has a felt quality that involves flow; thoughts seem to be present in the 'now,' and they change from moment to moment. Timeless experience is an oxymoron." Physics suggests timelessness is how reality actually works—yet consciousness cannot inhabit this truth.
 
 ## The Void
 
@@ -87,7 +87,7 @@ This article identifies a void in consciousness's access to temporal reality. Th
 
 **Physical**: The explanatory gap between eternalism and flow remains unbridged. No physical theory predicts why consciousness should experience a privileged "now."
 
-**Neurological**: [[default-mode-network|Default Mode Network]] suppression correlates with time dissolution, suggesting neural substrates for temporal experience. Brain damage can alter time perception but does not grant access to other times. Crucially, no neurological intervention has ever granted access to past or future moments—only altered the *structure* of present experience.
+**Neurological**: Reduced [[default-mode-network|Default Mode Network]] activity is reported to accompany time dissolution under psychedelics. Brain damage can alter time perception but does not grant access to other times. Crucially, no neurological intervention has ever granted access to past or future moments—only altered the *structure* of present experience.
 
 **Contemplative**: Millennia of meditation practice have not produced reliable access to past or future moments. Reports of "timelessness" in deep states appear to describe structured duration without markers—duration stripped of succession—rather than escape from duration.
 
@@ -99,7 +99,7 @@ What happens when consciousness approaches this void?
 
 **The slipping succession**: Each moment becomes past as it is experienced. Consciousness cannot hold the present still—the attempt itself takes time.
 
-**Timelessness as edge-experience**: In deep meditation and psychedelic states, the structure of temporal experience can dissolve. This produces not access to other times but a present stripped of succession markers — what the [[duration-void]] identifies as the measurement mode falling away, leaving pure *durée*. As meditation research clarifies: "'Timelessness' refers to a lack of temporal structure but not a lack of duration."
+**Timelessness as edge-experience**: In deep meditation and psychedelic states, the structure of temporal experience can dissolve. This produces not access to other times but a present stripped of succession markers — what the [[duration-void]] identifies as the measurement mode falling away, leaving pure *durée*. What goes missing in such reports is succession and order; duration remains.
 
 **Vertigo of eternalism**: Contemplating the block universe—that past and future exist equally—produces conceptual disorientation. We can think it but cannot experience it.
 
@@ -150,8 +150,10 @@ This void connects to the Map's [[tenets]]:
 
 1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
 1. Broad, C.D. (1923). *Scientific Thought*. Routledge.
+1. Dainton, B. (2023). Temporal Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-temporal/
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
 1. James, W. (1890). *The Principles of Psychology*, Chapter XV: "The Perception of Time."
 1. McTaggart, J.M.E. (1908). The Unreality of Time. *Mind*, 17, 457-474.
-1. Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
+1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+1. Schneider, S. (2018). Spacetime Emergence, Panpsychism and the Nature of Consciousness. *Scientific American* (Observations blog).
 1. Weyl, H. (1949). *Philosophy of Mathematics and Natural Science*. Princeton.
