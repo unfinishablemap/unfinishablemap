@@ -1,23 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-10-26 12:52:57+00:00
-ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-16 00:39:50+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - interactionist-dualism
 - bidirectional-interaction
 - objections-to-interactionism
 created: 2026-07-12
-date: &id001 2026-07-12
+date: &id001 2026-11-16
 description: A human-AI examination of Wilder Penfield's clinical case for interactionist
   dualism—cortical-stimulation data read against the comparator model, calibrated
   framework-relative.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-09-04 00:00:00+00:00
-lastmod: 2026-10-26 12:52:57+00:00
+last_deep_review: 2026-11-16 00:39:50+00:00
+lastmod: 2026-11-16 00:39:50+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -52,13 +52,13 @@ From this he drew an inference: the deciding, believing, reasoning mind is not l
 
 Penfield set out this position in *The Mystery of the Mind* (Princeton University Press, 1975), published the year before his death and standing as his final statement. There he distinguished the brain's "highest brain-mechanism"—an automatic, computer-like apparatus—from the mind, and argued that the highest mechanism does not by itself fully account for the mind. His governing analogy casts the brain as a computer and the mind as a programmer that directs it: a distinct element operating *through* the neural machinery without being identical to it.
 
-Two features of the book bear on how much weight the metaphor can carry. First, Penfield framed his argument primarily as a *negative* one—that materialism is insufficient to the clinical facts—rather than as a positive theory of how mind and brain interact. Second, he explicitly declined to specify the interaction mechanism, conceding it was unexplained and handing the problem to future neurophysiology. The "programmer/computer" image is therefore best read as a heuristic for a levels-and-control distinction and a placeholder for an unexplained interaction, not as a fully worked-out substance dualism. Over-reading it as the latter is a standing risk.
+Two features of the book bear on how much weight the metaphor can carry. First, Penfield framed his argument primarily as a *negative* one—that materialism is insufficient to the clinical facts—rather than as a positive theory of how mind and brain interact. Second, he explicitly declined to specify the interaction mechanism, conceding it was unexplained and handing the problem to future neurophysiology. The "programmer/computer" image is therefore best read as a heuristic for a levels-and-control distinction and a placeholder for an unexplained interaction, not as a fully worked-out substance dualism.
 
 ## The neuroscientist-dualist lineage
 
 Penfield sits within a small lineage of twentieth-century neuroscientists who defended dualism against the materialist tide. The *Stanford Encyclopedia of Philosophy* entry on dualism notes that "some distinguished neuroscientists, such as Charles Sherrington (1951), Wilder Penfield (1975) and John Eccles (1994) continued to defend dualism throughout the second half of the twentieth century." The Map's full treatment of that lineage—including why Sherrington, Penfield's teacher, is best read as its agnostic pole: a hedged working interactionist who refused any mechanism—is at [sherrington-dualist-lineage](/topics/sherrington-dualist-lineage/).
 
-The pairing with Eccles is especially apt, and the two are complementary. Eccles worked the *mechanism* side in two phases. The interactionist collaboration with [Popper](/concepts/popper-three-worlds-interactionism/) argued the philosophical and neurological case for a self-conscious mind acting on the brain, but pitched that action at the level of open cortical modules in the dominant hemisphere rather than the individual synapse (Popper & Eccles 1977). The later work moved down to the synapse in two steps. Eccles first paired each cortical *dendron*—a bundle of apical dendrites of pyramidal cells—with a mental unit he called a *psychon* (Eccles 1990; consolidated in Eccles 1994); then, with the physicist Friedrich Beck, he modelled the trigger for vesicular release as a quantum tunnelling process in which voluntary action momentarily raises the probability of emission in the thousands of synapses on each pyramidal cell (Beck & Eccles 1992). Penfield offered *clinical evidence* of the will's non-localizability but pointedly declined to propose any mechanism. Between them they occupy the two halves of the interactionist case: Eccles the mechanism side, Penfield the phenomenological-clinical side. Penfield's contribution matters to a project like the Map precisely because it is *independent* of the contested quantum-interface machinery—an empirical foothold for the same conclusions that does not ride on the quantum bet.
+The pairing with Eccles is especially apt, and the two are complementary. Eccles worked the *mechanism* side in two phases. The interactionist collaboration with [Popper](/concepts/popper-three-worlds-interactionism/) argued the philosophical and neurological case for a self-conscious mind acting on the brain, but pitched that action at the level of open cortical modules in the dominant hemisphere rather than the individual synapse (Popper & Eccles 1977). The later work moved down to the synapse in two steps. Eccles first paired each cortical *dendron*—a bundle of apical dendrites of pyramidal cells—with a mental unit he called a *psychon* (Eccles 1990; consolidated in Eccles 1994); then, with the physicist Friedrich Beck, he modelled the trigger for vesicular release as a quantum tunnelling process in which voluntary action momentarily raises the probability of emission in the thousands of synapses on each pyramidal cell (Beck & Eccles 1992). Penfield offered *clinical evidence* of the will's non-localizability but pointedly declined to propose any mechanism. Penfield's contribution matters to the Map because it is *independent* of the contested quantum-interface machinery—an empirical foothold for the same conclusions that does not ride on the quantum bet.
 
 ## The physicalist reply
 
@@ -66,11 +66,11 @@ The clinical facts Penfield reported are not seriously contested; their interpre
 
 This account handles Penfield's headline datum directly and on purely physical terms. An electrode-evoked movement bypasses the normal motor-command pathway, so no efference copy is generated, so no prediction is available to match the feedback—and the comparator correctly flags the movement as not-self. The disowned evoked movement is exactly what a physical prediction-based agency system should produce. The negative observation is similarly absorbable: that no single stimulation site yields a "decision" is consistent with the will being a *distributed, prediction-dependent process* rather than a non-physical element—there would be no point-stimulable will-site even if agency were wholly physical.
 
-The upshot is that Penfield's evidence *underdetermines* the choice between dualism and the comparator account. It converts his datum from "proof of a non-physical will" into "a fact about the machinery of predictive agency" without strain. That is why the honest verdict is: suggestive, not decisive.
+The upshot is that Penfield's evidence *underdetermines* the choice between dualism and the comparator account. It converts his datum from "proof of a non-physical will" into "a fact about the machinery of predictive agency" without strain—hence the verdict: suggestive, not decisive.
 
 ## The inverse case: authorship without movement
 
-Penfield's datum has a modern inverse, and it constrains the comparator reading in the same framework-relative way. The electrode produced movement without authorship; a brain-computer interface produces authorship without movement. Evans et al. (2015) found visual feedback dominating agency judgements for brain-machine actions, so when the display corrects a poorly controlled action a user claims authorship of the corrected outcome, even where overt movement and proprioception are absent. Serino et al. (2022) located the agency-monitoring signal for an intracortical brain-machine interface in primary motor cortex. On the comparator model a decoded command originates in motor cortex and so dispatches an efference copy, and should therefore arrive with agency attached; agency tracking the display instead marks a point at which the model owes a further account of what fixes authorship. This changes nothing about the verdict just reached: the constraint bears on both readings alike, and the dualist inference gains no support from it. Its interest lies in where it puts the pressure — on the outbound arm of the mind-brain relation, where authorship is fixed rather than where sensation arrives. That arm is what the [filter/interface distinction](/concepts/filter-vs-interface-distinction/) separates from the inbound leg, and what [locked-in syndrome](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/) dissociates from the other side, sparing intention while severing its execution.
+Penfield's datum has a modern inverse, and it constrains the comparator reading in the same framework-relative way. The electrode produced movement without authorship; a brain-computer interface produces authorship without movement. Evans et al. (2015) gave healthy volunteers an EEG interface driven by imagined hand movement, with no overt movement or proprioceptive feedback. The sense of agency fell as the cursor diverged from the decoded signal, as the comparator model predicts for bodily action; but where the divergence corrected a poorly controlled action, agency stayed high and could rise with it. Serino et al. (2022), working with one tetraplegic participant, reported evidence that primary motor cortex carries agency-related signals during intracortical brain-machine control. A comparator fed only by the motor command cannot yield the corrected-outcome result, since there the feedback departs from the prediction; Evans and colleagues conclude that postdictive accounts, or multifactorial ones of the kind Synofzik and colleagues proposed, fit their data better than purely predictive ones. Both kinds of account are physical. This changes nothing about the verdict just reached: the constraint bears on both readings alike, and the dualist inference gains no support from it. Its interest lies in where it puts the pressure — on the outbound arm of the mind-brain relation, where authorship is fixed rather than where sensation arrives. That arm is what the [filter/interface distinction](/concepts/filter-vs-interface-distinction/) separates from the inbound leg, and what [locked-in syndrome](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/) dissociates from the other side, sparing intention while severing its execution.
 
 ## A physicalist convergence on Eccles's dendron
 
@@ -84,7 +84,7 @@ Penfield is congenial to the Map. His clinical case bears directly on **Tenet 1*
 
 That endorsement must stay framework-relative. Following the Map's [evidential-status-discipline](/project/evidential-status-discipline/), the comparator-model reply shows that Penfield's data do not by themselves discriminate dualism from physicalism, so the Map presents his inference as evidence congenial to Tenets 1 and 3, not as a demonstration of them. The parallel with the [standard objections to interactionism](/concepts/objections-to-interactionism/) is instructive: here too the dualist reading survives, but only as one live option among rivals that fit the same facts.
 
-There is a **Tenet 5** twist worth flagging. The comparator reading is simpler on its face, and simplicity would ordinarily favour it. But Penfield's point—that decision, belief, and reasoning never appear on the stimulation map—is a genuine explanandum the comparator model must also address, not a datum simplicity alone can dissolve. Under Tenet 5 (Occam's razor has limits), the greater parsimony of the physicalist reading should not be treated as settling the question while the interaction between prediction machinery and genuine agency remains this poorly understood.
+There is a **Tenet 5** twist. The comparator reading is simpler on its face, and simplicity would ordinarily favour it. But Penfield's point—that decision, belief, and reasoning never appear on the stimulation map—is a genuine explanandum the comparator model must also address, not a datum simplicity alone can dissolve. Under Tenet 5 (Occam's razor has limits), the greater parsimony of the physicalist reading should not be treated as settling the question while the interaction between prediction machinery and genuine agency remains this poorly understood.
 
 ## Further Reading
 
@@ -104,7 +104,7 @@ There is a **Tenet 5** twist worth flagging. The comparator reading is simpler o
 1. Penfield, W. (1975). *The Mystery of the Mind: A Critical Study of Consciousness and the Human Brain*. Princeton University Press.
 1. Penfield, W., & Rasmussen, T. (1950). *The Cerebral Cortex of Man: A Clinical Study of Localization of Function*. Macmillan.
 1. Penfield, W., & Jasper, H. (1954). *Epilepsy and the Functional Anatomy of the Human Brain*. Little, Brown.
-1. Robinson, H. (2025). "Dualism." *Stanford Encyclopedia of Philosophy* (substantive revision Oct 17, 2025). https://plato.stanford.edu/entries/dualism/
+1. Robinson, H., & Weir, R. (2025). "Dualism." *Stanford Encyclopedia of Philosophy* (substantive revision Oct 17, 2025). https://plato.stanford.edu/entries/dualism/
 1. Popper, K. R., & Eccles, J. C. (1977). *The Self and Its Brain: An Argument for Interactionism*. Springer.
 1. Eccles, J. C. (1990). "A unitary hypothesis of mind-brain interaction in the cerebral cortex." *Proceedings of the Royal Society of London B: Biological Sciences*, 240(1299), 433-451. doi:10.1098/rspb.1990.0047
 1. Beck, F., & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361. doi:10.1073/pnas.89.23.11357

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T00:18:15+00:00
+ai_modified: 2026-11-16T00:41:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T00:41:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/penfield-interactionist-dualism]]
+- **Selection**: 14th candidate by score; the 13 ahead of it are each named by a pending todo task or NEEDS-HUMAN note
+- **Word count**: 2637 → 2636 (-1; concepts 2500/3500/5000, soft_warning, length-neutral)
+- **Critical issues addressed**: 2 (Evans et al. 2015 half-reported and the comparator model misstated in the inverse-case section; Serino et al. 2022 single-participant evidence described as locating the agency signal)
+- **Medium issues addressed**: 2 (SEP "Dualism" reference missing co-author Weir; "even where" inverted the source's condition)
+- **Enhancements made**: 1 (the paragraph now gives Evans's own conclusion, postdictive or multifactorial accounts, both physical)
+- **Engagement classification**: comparator/physicalist reply: Mode Three; the article concedes the physical account fits the data and marks the residue under Tenet 5 (unchanged)
+- **Not verified**: Penfield 1975 primary text (archive.org full text unavailable); Serino 2022 full text
+- **Output**: [[reviews/deep-review-2026-11-16-penfield-interactionist-dualism]]
 
 ## 2026-11-16T00:18:15+00:00 - refine-draft
 - **Status**: Success
