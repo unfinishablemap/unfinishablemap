@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 09:35:07+00:00
+ai_modified: 2026-11-16 09:51:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 09:35:07+00:00
+lastmod: 2026-11-16 09:51:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T09:51:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Task**: P2 from outer review 2026-11-16 (quantum evidence graded above the page's own decoherence caveat; brute emergence charged to materialism without pricing the dualist's coupling laws; falsifiers 1-2). Third of the outer-review tasks on this file today.
+- **Review file**: [outer-review-2026-11-16-claude-fable-5-2](/reviews/outer-review-2026-11-16-claude-fable-5-2/) rows 18, 2.2 items 5-7, 2.4 and section 4, read after its Verification Notes; [outer-review-synthesis-2026-11-16](/reviews/outer-review-synthesis-2026-11-16/) row 6 (singleton on this page).
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Changes**: (1) Epothilone B: "provides experimental support" replaced by "is compatible with its authors' quantum reading and with classical ones"; the endpoint is now the righting reflex under isoflurane, and the architecture sentence is conditioned on the quantum reading. Khan et al. (2024) abstract read at PubMed: rats, 0.75 mg/kg epothilone B, 69 s longer latency to loss of righting reflex under 4% isoflurane, d = 1.9; the authors say the finding "is predicted by" quantum-microtubule models. (2) Minimal Quantum Interaction: the microtubule sentence is marked as an Orch-OR-style conjecture, and "the same selective logic … applies to neural systems, where the computational payoffs would be far greater" now reads as the decoherence paragraph does, "a precedent, not a licence for the neural case". (3) Lede says the Map prefers its framework "and at what cost"; "looks like magic" is "is brute"; "dissolves the strong emergence problem" is a trade for brute coupling laws, with the unexplained architecture-tracking stated and the preference rested on the case for irreducibility. Description changed to match. (4) Falsifier 1 names capacities and pre-committed effect sizes in place of "all behavioural flexibility"; falsifier 2 states how the Map reads current classical AI and what would count against it. Falsifier 4 brought into line with today's illusionism section (mechanism of self-modelling, not "why evolution produced" the illusion). One sentence cut to fund item 3 ("We only need to explain how biological evolution produced systems…"); the next sentence carries the same content.
+- **Length**: 3446 before, 3446 after (`analyze_length`; hard 3500). The 53 free words remain for the reference task.
+- **Reasoning mode**: engagement with the materialist on strong emergence: boundary-marking; both sides carry a brute posit and the page now says so. No change to the illusionism engagement beyond the falsifier wording.
+- **Not done**: reference entries for Broad and Wiest 2025 (next task); L75 "untenable" and L79 "*does* affect" (separate task). "Orch-OR" is used once without expansion.
+- **Published**: yes
 
 ## 2026-11-16T09:35:07+00:00 - refine-draft
 - **Status**: Success
