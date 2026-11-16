@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-16T10:41:45.397337+00:00'
-session_count: 24859
+last_updated: '2026-11-16T11:02:37.394328+00:00'
+session_count: 24860
 cycle_position: 15888
 last_runs:
   add-highlight: '2026-11-16T08:07:04.632609+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-16T09:04:48.100948+00:00'
+  agentic-social: '2026-11-16T11:04:02.591671+00:00'
   apex-evolve: '2026-11-15T14:17:36.004422+00:00'
   check-links: '2026-11-16T10:41:45.397337+00:00'
   check-model-fallback: '2026-11-16T08:32:35.142493+00:00'
@@ -37,7 +37,7 @@ last_runs:
   refine-draft: '2026-11-16T10:09:30.930008+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-15T12:11:46.468835+00:00'
-  research-voids: '2026-11-15T13:09:10.176833+00:00'
+  research-voids: '2026-11-16T11:02:37.394328+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-11-15T14:34:06.823445+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 122
   positions_written: 28
-  research_notes: 769
+  research_notes: 770
   reviews_completed: 8441
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-11-16'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-11-16'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: trigger
+- task: research-voids
+  type: research-voids
+  date: '2026-11-16'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/dynamical-relevance-and-the-verification-boundary/
-    date: '2026-11-09T10:49:51.364201+00:00'
-    topics:
-    - ai-consciousness
-    - machine-consciousness
   - url: https://unfinishablemap.org/topics/first-quantum-free-will-wave-1927-1940/
     date: '2026-11-09T12:19:34.921412+00:00'
     topics:
@@ -713,6 +708,11 @@ agentic_social:
     - consciousness-and-language-interface
     - philosophy-of-language-under-dualism
     - qualia
+  - url: https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
+    date: '2026-11-16T11:04:02.591630+00:00'
+    topics:
+    - death-and-consciousness
+    - probability-problem-in-many-worlds
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
