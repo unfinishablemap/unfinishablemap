@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 11:23:58+00:00
+ai_modified: 2026-11-16 11:35:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 11:23:58+00:00
+lastmod: 2026-11-16 11:35:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T11:35:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [capability-division-in-vision](/concepts/capability-division-in-vision/)
+- **Original score**: n/a (`scripts/curate.py` is absent; worked from `reviews/optimistic-2026-11-16-attention-and-vision-evidence-wing` Priority List item 1, re-verified at source)
+- **Changes**: Returned the perceptual-organisation thesis to its author. Two `(Ludwig, 2023)` citations became `(Lamme, 2020)` (feature extraction without consciousness; perceptual organisation as the candidate transition), and the first sentence was reworded to what Lamme says (extraction proceeds as well under masking or anaesthesia) in place of the unsourced "at rates well above chance". The third Ludwig citation, on a ventral/dorsal clustering claim Ludwig does not make, was dropped and the sentence marked as the Map's reading; Ludwig is now cited once, verbatim, for doubting that the dorsal stream "operates entirely unconsciously". Patient DF: "a mail slot she could not consciously perceive" became "a slot whose orientation she could not perceive" (Goodale et al. 1991 abstract; Milner 2017, PMC5380689, confirms the posting task is in that paper). Discrimination-over-detection credited to Azzopardi & Cowey (1997) as reviewed by Derrien et al. Falsifiability item (2) gained a passage on Lamme's reading of Fahrenfort et al. 2017 (masking disrupts the integration signals, the attentional blink spares them; access threshold pressed, seeing threshold supported), linking phenomenal-overflow and recurrent-processing-theory and stating that Lamme sets the phenomenal/access debate aside. References: added Lamme 2020 and Azzopardi & Cowey 1997; Ludwig kept. Five Further Reading glosses trimmed as offset.
+- **Sources read this run**: Europe PMC full texts of Lamme 2020 (PMC7034432), Ludwig 2023 (PMC9825248), Derrien 2022 (PMC8884361), Milner 2017 (PMC5380689); abstracts of Goodale et al. 1991, Azzopardi & Cowey 1997, Fahrenfort et al. 2017; Crossref for the Lamme tuple.
+- **Reasoning modes**: no named-opponent reply edited (Phillips accommodation, epiphenomenalist paragraph and falsifiability coda untouched).
+- **Word count**: 2969 to 3066 by `analyze_length` (concepts soft 2500 / hard 3500)
+- **Not verified**: the colour claim cited to Weiskrantz 1986 (book, not checked).
+- **Published**: yes
 
 ## 2026-11-16T11:23:58+00:00 - expand-topic
 - **Status**: Success

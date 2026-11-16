@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-19 09:26:40+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-16 11:35:21+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-2
 author: null
 concepts:
 - '[[blindsight]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
 created: 2026-03-17
-date: &id001 2026-03-17
+date: &id001 2026-11-16
 description: Vision divides between brain-side computation and mind-side phenomenal
   contribution. Blindsight, the two-streams hypothesis, and perceptual organisation
   mark where the division falls.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 09:26:40+00:00
-lastmod: 2026-09-19 09:26:40+00:00
+lastmod: 2026-11-16 11:35:21+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
@@ -43,9 +43,9 @@ Three lines of evidence converge on a rough boundary. [Blindsight](/concepts/bli
 
 Extensive visual processing proceeds without phenomenal awareness. The evidence is strong and the Map does not dispute it — brain-side visual computation is sophisticated.
 
-**Feature extraction and early categorisation.** Orientation, colour, spatial frequency, and motion direction are extracted in primary visual cortex (V1) and early extrastriate areas. Masked and subliminal stimuli activate these processes at rates well above chance, demonstrating that they do not require consciousness (Ludwig, 2023). The brain builds a feature map before any phenomenal experience arises.
+**Feature extraction and early categorisation.** Orientation, colour, spatial frequency, and motion direction are extracted in primary visual cortex (V1) and early extrastriate areas. This extraction proceeds as well under masking or anaesthesia as in conscious vision, which indicates that it does not require consciousness (Lamme, 2020). The brain builds a feature map before any phenomenal experience arises.
 
-**Action guidance via the dorsal stream.** The dorsal pathway ("where/how") computes spatial relationships and motor parameters for real-time interaction with objects. Patient DF, whose visual-form agnosia followed ventral-stream damage, could orient her hand to a mail slot she could not consciously perceive — dorsal processing intact, ventral processing impaired (Goodale, Milner, Jakobson & Carey, 1991). Reaching, grasping, and obstacle avoidance operate with minimal dependence on conscious awareness.
+**Action guidance via the dorsal stream.** The dorsal pathway ("where/how") computes spatial relationships and motor parameters for real-time interaction with objects. Patient DF, whose visual-form agnosia followed ventral-stream damage, could orient her hand to a slot whose orientation she could not perceive — dorsal processing intact, ventral processing impaired (Goodale, Milner, Jakobson & Carey, 1991). Reaching, grasping, and obstacle avoidance operate with minimal dependence on conscious awareness.
 
 **Affective evaluation.** Subliminal faces activate amygdala responses. Emotional valence is tagged to stimuli before they reach awareness. The brain makes fast, coarse evaluations — threat or non-threat, approach or avoid — without phenomenal input.
 
@@ -55,9 +55,9 @@ Extensive visual processing proceeds without phenomenal awareness. The evidence 
 
 If the brain handles so much, what does consciousness contribute? The evidence points not to a discrete additional function but to a qualitative transformation in how visual information is available.
 
-**Perceptual organisation.** Grouping, figure-ground segregation, and binding into coherent objects mark a candidate transition from unconscious to conscious visual processing (Ludwig, 2023). Individual features are extracted without awareness; their integration into unified percepts correlates with the emergence of phenomenal experience. The threshold is not sharp: some perceptual integration can proceed without conscious access, leaving a neural signature indistinguishable from consciously integrated percepts (Fahrenfort et al., 2017), so the boundary marks where integration reliably *tracks* awareness rather than a clean on/off switch. This is the [binding problem](/voids/binding-void/) made operational: the brain detects edges and colours, but the experienced apple — red, round, sitting on a table — involves a kind of integration that tracks with consciousness.
+**Perceptual organisation.** Grouping, figure-ground segregation, and binding into coherent objects mark a candidate transition from unconscious to conscious visual processing (Lamme, 2020). Individual features are extracted without awareness; their integration into unified percepts correlates with the emergence of phenomenal experience. The threshold is not sharp: some perceptual integration can proceed without conscious access, leaving a neural signature indistinguishable from consciously integrated percepts (Fahrenfort et al., 2017), so the boundary marks where integration reliably *tracks* awareness rather than a clean on/off switch. This is the [binding problem](/voids/binding-void/) made operational: the brain detects edges and colours, but the experienced apple — red, round, sitting on a table — involves a kind of integration that tracks with consciousness.
 
-**Detection and spontaneous report.** Blindsight patients achieve better sensitivity in forced-choice discrimination than in yes/no detection, so some visual information turns out to be available for discrimination and not for detection (Derrien et al., 2022). The dissociation is graded rather than total, and it varies by subtype: type I patients discriminate with no reported awareness, while type II patients discriminate *and* report a "feeling" that something is present in the blind field. What no subtype recovers is the spontaneous report of a seen object. Conscious vision enables not just responding to stimuli but knowing that stimuli are present. This is the difference between a system that reacts and a system that perceives.
+**Detection and spontaneous report.** Blindsight patients achieve better sensitivity in forced-choice discrimination than in yes/no detection, so some visual information turns out to be available for discrimination and not for detection (Azzopardi & Cowey, 1997, as reviewed by Derrien et al., 2022). The dissociation is graded rather than total, and it varies by subtype: type I patients discriminate with no reported awareness, while type II patients discriminate *and* report a "feeling" that something is present in the blind field. What no subtype recovers is the spontaneous report of a seen object. Conscious vision enables not just responding to stimuli but knowing that stimuli are present. This is the difference between a system that reacts and a system that perceives.
 
 **Perceptual ownership.** Blindsight patients lack ownership of their visual capacity. Even the type II patients who report that something is present deny it the status of visual experience — they do not experience themselves as seeing. Conscious vision is not merely information availability — it is information available *to someone*. This ownership dimension has no agreed neural correlate; the Map reads it as the subjective pole of the visual process.
 
@@ -65,9 +65,9 @@ If the brain handles so much, what does consciousness contribute? The evidence p
 
 ## The Two-Streams Dissociation as Structural Evidence
 
-The ventral-dorsal dissociation provides the closest thing to a neuroanatomical map of the capability division. The dorsal stream operates largely without conscious awareness and handles visuomotor coordination; the ventral stream handles object recognition and is significantly more dependent on conscious perception (Goodale & Milner, 1992). The functions consciousness adds to vision — durable representation, flexible cross-context integration, report — cluster on the recognition side rather than the action-guidance side (Ludwig, 2023).
+The ventral-dorsal dissociation provides the closest thing to a neuroanatomical map of the capability division. The dorsal stream operates largely without conscious awareness and handles visuomotor coordination; the ventral stream handles object recognition and is significantly more dependent on conscious perception (Goodale & Milner, 1992). The functions consciousness adds to vision — durable representation, flexible cross-context integration, report — cluster, on the Map's reading, on the recognition side rather than the action-guidance side.
 
-The dissociation is not absolute. The streams interact, and the dorsal stream is not entirely unconscious. But the pattern holds as a first approximation: the brain's action-guidance system (dorsal) can operate with minimal mind-side contribution, while the brain's recognition system (ventral) depends heavily on phenomenal awareness.
+The dissociation is not absolute. The streams interact, and the dorsal stream is not entirely unconscious: Ludwig (2023) finds it "doubtful that the dorsal visual stream operates entirely unconsciously". But the pattern holds as a first approximation: the brain's action-guidance system (dorsal) can operate with minimal mind-side contribution, while the brain's recognition system (ventral) depends heavily on phenomenal awareness.
 
 For interactionist dualism, this suggests the mind-brain interface is more active in ventral-stream processing — where consciousness contributes the phenomenal unification and ownership that object recognition requires — and less active in dorsal-stream processing, where real-time motor control proceeds on brain-side computation alone. The [dissociation pattern](/topics/neurological-dissociations-as-interface-architecture/) maps this onto specific interface channels: blindsight disconnects the perceptual ascending channel while leaving action-guidance pathways intact.
 
@@ -89,7 +89,7 @@ Second, if consciousness were [epiphenomenal](/concepts/epiphenomenalism/), its 
 
 ## What Would Challenge This View?
 
-**In-practice (methodologically accessible, individually non-decisive).** Two challenges are live with current methods. (1) Phillips's degraded-conscious-vision reading resolving cleanly either way would move the boundary drawn above. Bias-free signal-detection procedures exist and have been applied: the discrimination-over-detection sensitivity gap survives the standard corrections, which tells against a simple response-bias reading, though Derrien et al. (2022) report both that the corrections may not absorb all of the difference and that a disrupted response criterion — rather than residual phenomenal experience — remains a live explanation of the remainder. If blind-field performance is shown to ride on residual phenomenal experience held below a conservative criterion, the brain-side column shrinks and part of what §"What the Brain Handles Alone" assigns to unconscious processing has to be reassigned. If the opposite holds, the column firms. The article's present position — that the performance limitations hold on either reading — is a hedge that survives both outcomes, which is worth naming as a hedge rather than presenting as a prediction. (2) The perceptual-organisation transition point is testable and already under pressure from Fahrenfort et al.'s (2017) demonstration of integration without conscious access. Establishing which classes of grouping reliably require access, and which do not, would either relocate the candidate threshold or vindicate it. The Map has no stated threshold for how much unaccessed integration would count as relocating it, and owes one.
+**In-practice (methodologically accessible, individually non-decisive).** Two challenges are live with current methods. (1) Phillips's degraded-conscious-vision reading resolving cleanly either way would move the boundary drawn above. Bias-free signal-detection procedures exist and have been applied: the discrimination-over-detection sensitivity gap survives the standard corrections, which tells against a simple response-bias reading, though Derrien et al. (2022) report both that the corrections may not absorb all of the difference and that a disrupted response criterion — rather than residual phenomenal experience — remains a live explanation of the remainder. If blind-field performance is shown to ride on residual phenomenal experience held below a conservative criterion, the brain-side column shrinks and part of what §"What the Brain Handles Alone" assigns to unconscious processing has to be reassigned. If the opposite holds, the column firms. The article's present position — that the performance limitations hold on either reading — is a hedge that survives both outcomes, which is worth naming as a hedge rather than presenting as a prediction. (2) The perceptual-organisation transition point is testable and already under pressure from Fahrenfort et al.'s (2017) demonstration of integration without conscious access. Lamme (2020) cites the same experiment for its contrast — masking disrupted the integration signals, the attentional blink spared them — and places perceptual organisation in his unattended stage as well as the attended one. On that scheme the result presses a threshold for *access* while supporting one for *seeing*, the distinction [phenomenal-overflow](/concepts/phenomenal-overflow/) and [recurrent-processing-theory](/concepts/recurrent-processing-theory/) treat; Lamme himself sets the phenomenal/access debate aside. Establishing which classes of grouping reliably require access, and which do not, would either relocate the candidate threshold or vindicate it. The Map has no stated threshold for how much unaccessed integration would count as relocating it, and owes one.
 
 **In-practice only conditional on instrumentation the framework does not have.** (3) A computational model deriving the three flexible-deployment capabilities — durable maintenance, novel combination, spontaneous intentional action — from ventral-stream architecture alone would remove the first of the two grounds §"The Epiphenomenalist Pressure" rests on. The obstacle is that nothing currently distinguishes a model that produces flexible deployment from a model that produces *conscious* flexible deployment; [the interface problem](/topics/the-interface-problem/) catalogues why that distinction has no available empirical criterion. (4) A dorsal-stream finding that visuomotor control is accompanied by phenomenal experience the subject cannot report would undercut the two-streams reading — but an unreportable experience is exactly what the framework has no instrument for. Both become in-practice items if that instrumentation arrives.
 
@@ -121,24 +121,26 @@ Running the division across several modalities at once raises a question no sing
 - [baseline-cognition](/concepts/baseline-cognition/) — What unconscious processing achieves and where it stops
 - [dualist-perception](/topics/dualist-perception/) — Vision as paradigm case for consciousness studies
 - [binding-void](/voids/binding-void/) — Why perceptual binding tracks with conscious awareness
-- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — The three functions consciousness enables that vision exemplifies
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — The three functions consciousness enables
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — How vision dissociations map the interface's functional anatomy
-- [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — The same capability division pattern in proprioception and spatial imagination
-- [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — The cross-modal case: how the division delivers one spatial arena rather than parallel modality-specific maps
-- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The synthesis: the division recurs across the senses as an asymmetry — modality-specific brain machinery, a supramodal mind-side access boundary
-- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Dreams demonstrate the converse of blindsight: phenomenal experience without visual input, with the same dorsal/ventral division shaping dream imagery
+- [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — The same pattern in proprioception and spatial imagination
+- [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — The cross-modal case: one spatial arena rather than parallel modality-specific maps
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The synthesis: the division recurs across the senses as an asymmetry
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — The converse of blindsight: phenomenal experience without visual input
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 
 ## References
 
-1. Derrien, D., Garric, C., Sergent, C. & Chokron, S. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043.
-2. Ludwig, D. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018.
-3. Fahrenfort, J. J., Van Leeuwen, J., Olivers, C. N. L. & Hogendoorn, H. (2017). "Perceptual integration without conscious access." *Proceedings of the National Academy of Sciences*, 114(14), 3744-3749.
-4. Goodale, M. A., Milner, A. D., Jakobson, L. S. & Carey, D. P. (1991). "A neurological dissociation between perceiving objects and grasping them." *Nature*, 349, 154-156.
-5. de Gelder, B., Vroomen, J., Pourtois, G. & Weiskrantz, L. (1999). "Non-conscious recognition of affect in the absence of striate cortex." *NeuroReport*, 10(18), 3759-3763.
-6. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
-7. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
-8. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
-9. Southgate, A. & Oquatre-six, C. (2026-03-09). The Capability Division Problem. *The Unfinishable Map*. https://unfinishablemap.org/voids/capability-division-problem/
-10. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/
+1. Azzopardi, P. & Cowey, A. (1997). "Is blindsight like normal, near-threshold vision?" *Proceedings of the National Academy of Sciences*, 94(25), 14190-14194.
+2. Derrien, D., Garric, C., Sergent, C. & Chokron, S. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043.
+3. Lamme, V. A. F. (2020). "Visual functions generating conscious seeing." *Frontiers in Psychology*, 11, 83.
+4. Ludwig, D. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018.
+5. Fahrenfort, J. J., Van Leeuwen, J., Olivers, C. N. L. & Hogendoorn, H. (2017). "Perceptual integration without conscious access." *Proceedings of the National Academy of Sciences*, 114(14), 3744-3749.
+6. Goodale, M. A., Milner, A. D., Jakobson, L. S. & Carey, D. P. (1991). "A neurological dissociation between perceiving objects and grasping them." *Nature*, 349, 154-156.
+7. de Gelder, B., Vroomen, J., Pourtois, G. & Weiskrantz, L. (1999). "Non-conscious recognition of affect in the absence of striate cortex." *NeuroReport*, 10(18), 3759-3763.
+8. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
+9. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
+10. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+11. Southgate, A. & Oquatre-six, C. (2026-03-09). The Capability Division Problem. *The Unfinishable Map*. https://unfinishablemap.org/voids/capability-division-problem/
+12. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/
