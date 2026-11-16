@@ -20,7 +20,8 @@ concepts:
 created: 2026-01-19
 date: &id001 2026-11-16
 description: 'When did consciousness arise? Dualism trades the strong emergence puzzle
-  for brute coupling laws: brains didn''t produce consciousness, they evolved as interfaces.'
+  for brute coupling laws: on the Map''s view brains evolved as interfaces for consciousness,
+  not producers of it.'
 draft: false
 human_modified: null
 last_curated: null

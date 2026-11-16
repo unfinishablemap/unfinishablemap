@@ -4,7 +4,7 @@ description: "Human+AI exploration of the territory that descriptions and concep
 created: 2026-01-27
 modified: 2026-11-15
 human_modified:
-ai_modified: 2026-11-15T22:34:56+00:00
+ai_modified: 2026-11-16T10:17:35.867605+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,11 +39,22 @@ last_curated:
 last_deep_review: 2026-07-06T14:18:55+00:00
 coalesced_from:
   - "/voids/pre-conceptual-knowing/"
+embedded_videos:
+  - id: UUiLMOpSCOg
+    url: https://www.youtube-nocookie.com/embed/UUiLMOpSCOg
+    embedded: 2026-11-16T10:17:35.867605+00:00
+    source: notebooklm/0200-01-acquaintance-void
 ---
 
 There is a kind of knowing that no description, however complete, can deliver. Russell named the relation: knowledge by acquaintance — direct, unmediated awareness of something — as distinct from knowledge by description. The Unfinishable Map calls the territory this relation reaches the *acquaintance void*: where descriptions stop substituting for contact. Missing qualia, missing concepts, missing modes of presence, missing layers of the perceived world that exceed what attention can categorise. The closures compound across architectures, lives, and moments. We are acquainted with a small region of a much larger possibility space, and what lies beyond is not merely uncharted but partly constitutively inaccessible — even to ourselves.
 
 The void operates at multiple scales: missing sensory channels (echolocation, magnetoreception); modes of acquaintance human cognition cannot host (time, causation, other minds); intra-life thresholds where pre- and post-transformation selves cannot share standpoints; and the limit that concepts, by classifying, cannot capture what lies beneath classification. Descriptions move through type and structure; what they cannot reach is whatever is known otherwise.
+
+<details class="yt-embed" data-video-id="UUiLMOpSCOg">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/UUiLMOpSCOg">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Beyond Missing Qualia
 

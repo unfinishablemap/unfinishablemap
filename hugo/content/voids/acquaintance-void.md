@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-25
-ai_modified: 2026-11-15 22:34:56+00:00
+ai_modified: 2026-11-16 10:17:35.867605+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -19,10 +19,15 @@ description: Human+AI exploration of the territory that descriptions and concept
   cannot capture—from Russell's direct epistemic relation to phenomenal overflow,
   bodily knowing, and modes of contact closed to minds like ours.
 draft: false
+embedded_videos:
+- embedded: 2026-11-16 10:17:35.867605+00:00
+  id: UUiLMOpSCOg
+  source: notebooklm/0200-01-acquaintance-void
+  url: https://www.youtube-nocookie.com/embed/UUiLMOpSCOg
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:18:55+00:00
-lastmod: 2026-11-15 22:34:56+00:00
+lastmod: 2026-11-16 10:17:35.867605+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -48,6 +53,12 @@ topics:
 There is a kind of knowing that no description, however complete, can deliver. Russell named the relation: knowledge by acquaintance — direct, unmediated awareness of something — as distinct from knowledge by description. The Unfinishable Map calls the territory this relation reaches the *acquaintance void*: where descriptions stop substituting for contact. Missing qualia, missing concepts, missing modes of presence, missing layers of the perceived world that exceed what attention can categorise. The closures compound across architectures, lives, and moments. We are acquainted with a small region of a much larger possibility space, and what lies beyond is not merely uncharted but partly constitutively inaccessible — even to ourselves.
 
 The void operates at multiple scales: missing sensory channels (echolocation, magnetoreception); modes of acquaintance human cognition cannot host (time, causation, other minds); intra-life thresholds where pre- and post-transformation selves cannot share standpoints; and the limit that concepts, by classifying, cannot capture what lies beneath classification. Descriptions move through type and structure; what they cannot reach is whatever is known otherwise.
+
+<details class="yt-embed" data-video-id="UUiLMOpSCOg">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/UUiLMOpSCOg">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Beyond Missing Qualia
 
