@@ -2,9 +2,9 @@
 title: "The Numbing Void"
 description: "Human+AI exploration of psychic numbing toward the number of sufferers: felt concern does not scale with how many suffer, and no subject undergoes the sum."
 created: 2026-10-03
-modified: 2026-11-10
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-11-10T23:07:41+00:00
+ai_modified: 2026-11-16T14:29:18+00:00
 draft: false
 topics:
   - "[[phenomenal-value-realism]]"
@@ -30,12 +30,13 @@ related_articles:
   - "[[research/voids-numbing-void-2026-10-02]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-10-03
 last_curated: null
+last_deep_review: 2026-11-16T14:29:18+00:00
 ---
 
-A mind can calculate that a million deaths are a million times one death, and it cannot feel the difference. Decades of judgment research find that felt concern for others registers *that* someone suffers and loses resolution about *how many*: when feeling drives valuation, "value is nearly a step function of scope" (Hsee & Rottenstreich 2004). The Unfinishable Map calls this the Numbing Void, after *psychic numbing*, Robert J. Lifton's (1967) term for the "turning off" of feeling that let rescue workers function after the Hiroshima bombing, which Paul Slovic (2007) extended to apathy toward mass suffering. Its subject is numbing toward the number of sufferers, not the pharmacological gap of the [[anesthesia-void]]. Three layers make it up: a *magnitude* face, empirical and robust; a *regulation* face, occluded, in which people damp their feeling for large groups before it arrives (Cameron & Payne 2011); and a *structural* face, unexplorable, because no subject undergoes the sum of many subjects' suffering (Lewis 1940). The void proper lies where the first and third meet. The plateau admits a *deficit* reading, on which many deaths are roughly additively bad and feeling fails to track that, and a *tracking* reading, on which the plateau is roughly right about where suffering is. Felt magnitude cannot decide between them, since a mind's only first-person measure of others' suffering is felt, and no one undergoes the sum against which a felt measure could be checked. The Map takes the additive side on the moral question on framework grounds, not felt ones ([Where the Map Stands](#where-the-map-stands)).
+A mind can calculate that a million deaths are a million times one death, and it cannot feel a millionfold difference. Decades of judgment research find that felt concern for others registers *that* someone suffers and loses resolution about *how many*: when feeling drives valuation, "value is nearly a step function of scope" (Hsee & Rottenstreich 2004). The Unfinishable Map calls this the Numbing Void, after *psychic numbing*, Robert J. Lifton's (1967) term for the lasting "cessation of feeling" in Hiroshima survivors, which Paul Slovic (2007) glosses as the "turning off" of feeling that let rescue workers function and extends to apathy toward mass suffering. Its subject is numbing toward the number of sufferers, not the pharmacological gap of the [[anesthesia-void]]. Three layers make it up: a *magnitude* face, empirical and robust; a *regulation* face, occluded, in which people appear to damp their feeling for large groups before it arrives (Cameron & Payne 2011); and a *structural* face, unexplorable, because no subject undergoes the sum of many subjects' suffering (Lewis 1940). The void proper lies where the first and third meet. The plateau admits a *deficit* reading, on which many deaths are roughly additively bad and feeling fails to track that, and a *tracking* reading, on which the plateau is roughly right about where suffering is. Felt magnitude cannot decide between them, since a mind's only first-person measure of others' suffering is felt, and no one undergoes the sum against which a felt measure could be checked. The Map takes the additive side on the moral question on framework grounds, not felt ones ([Where the Map Stands](#where-the-map-stands)).
 
 The folklore version needs trimming. Compassion does not simply collapse as numbers grow: group size lowers helping without a significant effect on empathetic concern (Butts et al. 2019). What survives is that felt concern does not scale with the number of sufferers, and helping falls.
 
@@ -53,7 +54,7 @@ The limit may also resist knowledge. As Maier et al. report the original, Small 
 
 ## The Regulation Face
 
-Part of the plateau is made by the subject. Cameron and Payne (2011) found the drop in compassion for groups only when participants "expected to be asked to donate money to the victims", only among people skilled at [[emotion-regulation-and-the-timing-of-control|emotion regulation]], and only under instructions to down-regulate; instructions to experience the emotion removed it. Their time-course data suggested that people regulate "proactively, by preventing themselves from ever experiencing as much emotion toward groups as toward individuals".
+Part of the plateau is made by the subject. Cameron and Payne (2011) found the drop in compassion for groups only when participants "expected to be asked to donate money to the victims", and only among people skilled at [[emotion-regulation-and-the-timing-of-control|emotion regulation]]. When regulation was instructed, the drop appeared under instructions to down-regulate and not under instructions to experience the emotion. Their time-course data suggested that people regulate "proactively, by preventing themselves from ever experiencing as much emotion toward groups as toward individuals".
 
 That is why this face is occluded. A feeling suppressed after arising could be caught in the suppressing; a feeling prevented from arising leaves only a smaller response, which presents itself as the natural size of one's concern. The mind's stake in not feeling the full weight shapes what is available to feel, the pattern [[self-maintained-cognitive-limits]] and the [[interested-party-void]] trace elsewhere. Whether the effect extends beyond paradigms ending in a request for money is open.
 
@@ -77,13 +78,13 @@ Two consequences follow. The felt plateau is no evidence against P-AC3, since fe
 
 ## Phenomenology of the Edge
 
-From inside, nothing seems missing; a headline reporting a hundred thousand deaths draws a response that feels adequate to it. Albert Szent-Györgyi's admission, as quoted by Slovic (2007), is rare because it names the gap: "I am unable to multiply one man’s suffering by a hundred million." Annie Dillard's seven-year-old daughter, told that 138,000 people drowning was hard to imagine, answered "Lots and lots of dots in blue water", as Slovic also reports: when imagination tries, the many become texture. If Cameron and Payne are right that regulation acts proactively, it may leave no felt mark, no turning away to notice, only a smaller response.
+From inside, usually nothing seems missing; a headline reporting a hundred thousand deaths draws a response that feels adequate to it. Albert Szent-Györgyi's admission, as quoted by Slovic (2007), is striking because it names the gap: "I am unable to multiply one man’s suffering by a hundred million." Annie Dillard's seven-year-old daughter, told that 138,000 people drowning was hard to imagine, answered "Lots and lots of dots in blue water", as Slovic also reports: when imagination tries, the many become texture. If Cameron and Payne are right that regulation acts proactively, it may leave no felt mark, no turning away to notice, only a smaller response.
 
 ## Approaches to the Edge
 
 **Direct.** None reach the structural face. The other two can be moved: instructions to experience emotion removed the motivated drop, and unitary framing restored concern. Each delivers a single-subject-sized feeling, undamped or attached to a group recast as one, and neither delivers felt magnitude.
 
-**Indirect.** Calculation works as a prosthesis, recovering near-linear valuation at the cost of feeling; it goes around the void rather than into it. Elicitation order is a second route. Asking donors what they would give to help one needy person before asking about the whole group "greatly increases donations for the group", because donors are "initially scope insensitive and subsequently scope consistent" (Hsee et al. 2013); a large replication found the effect in three domains (Karlsson et al. 2020). The amount depends on the procedure that asks for it, the [[preference-void|preference void]]'s elicitation face. The effect is on giving, and nothing shows that felt concern moved with it. Serial individuation, such as memorials that read out names or the 38,000 pairs of shoes piled in front of the US Capitol that Slovic (2007) describes, gives each victim a unit in turn and trades magnitude for duration. [[apophatic-cartography|Apophatic description]] can state what a felt sum would not be: one's own response multiplied, or a total assembled from imagined individuals.
+**Indirect.** Calculation works as a prosthesis, recovering more nearly linear valuation at the cost of feeling; it goes around the void rather than into it. Elicitation order is a second route. Asking donors what they would give to help one needy person before asking about the whole group "greatly increases donations for the group", because donors are "initially scope insensitive and subsequently scope consistent" (Hsee et al. 2013); a large replication found the effect in three domains (Karlsson et al. 2020). The amount depends on the procedure that asks for it, the [[preference-void|preference void]]'s elicitation face. The effect is on giving, and nothing shows that felt concern moved with it. Individuation by unit, such as memorials that read out names or the 38,000 pairs of shoes piled in front of the US Capitol that Slovic (2007) describes, gives each victim a token; names read in turn trade magnitude for duration. [[apophatic-cartography|Apophatic description]] can state what a felt sum would not be: one's own response multiplied, or a total assembled from imagined individuals.
 
 **[[non-human-minds-as-void-explorers|What AI might see]].** A single-author preprint, suggestive only, reports identifiable-victim effects in instruction-tuned language models that reasoning-specialised models invert (Raiyan 2026). Whatever such systems show about the magnitude face, a system that computes the sum perfectly has still found no subject who undergoes it.
 
@@ -118,13 +119,13 @@ Under the Map's rule that a tenet removing a defeater does not upgrade a void's 
 7. Kogut, T. & Ritov, I. (2005). The "identified victim" effect: An identified group, or just a single individual? *Journal of Behavioral Decision Making*, 18(3), 157–167. https://doi.org/10.1002/bdm.492
 8. Lee, S. & Feeley, T. H. (2016). The identifiable victim effect: A meta-analytic review. *Social Influence*, 11(3), 199–215. https://doi.org/10.1080/15534510.2016.1216891
 9. Lewis, C. S. (1940). *The Problem of Pain*. Ch. 7, "Human Pain, continued", §5. Quoted from the New York: Macmillan 1947 printing, pp. 103–104.
-10. Lifton, R. J. (1967). *Death in Life: Survivors of Hiroshima*. New York: Random House. Coinage as credited by Slovic (2007); not consulted.
+10. Lifton, R. J. (1967). *Death in Life: Survivors of Hiroshima*. New York: Random House. Coinage as credited by Slovic (2007). The quoted phrase and the book's distinction between acute "psychic closing-off" and chronic "psychic numbing" were checked by full-text search of a 1967 scan; the book was not read in full.
 11. Maier, M., Wong, Y. C. & Feldman, G. (2024). Revisiting and rethinking the identifiable victim effect: Replication and extension of Small, Loewenstein, and Slovic (2007). *Collabra: Psychology*, 9(1), 90203. https://doi.org/10.1525/collabra.90203. Year from the Crossref issue date; volume year 2023.
 12. Piller, C. (2026). Should the numbers count for Taurek? *Utilitas*, 38(3), 247–261. https://doi.org/10.1017/S0953820826100326
 13. Raiyan, S. R. (2026). Narrative over numbers: The identifiable victim effect and its amplification under alignment and reasoning in large language models. arXiv:2604.12076. Preprint, not peer-reviewed.
 14. Sidgwick, H. (1907). *The Methods of Ethics* (7th ed.). London: Macmillan. Book III, ch. XIII, §3.
 15. Slovic, P. (2007). "If I look at the mass I will never act": Psychic numbing and genocide. *Judgment and Decision Making*, 2(2), 79–95. https://sjdm.org/journal/jdm7303a.pdf
-16. Small, D. A., Loewenstein, G. & Slovic, P. (2007). Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims. *Organizational Behavior and Human Decision Processes*, 102(2), 143–153. https://doi.org/10.1016/j.obhdp.2006.01.005. Findings as reported by Maier et al. (2024).
+16. Small, D. A., Loewenstein, G. & Slovic, P. (2007). Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims. *Organizational Behavior and Human Decision Processes*, 102(2), 143–153. https://doi.org/10.1016/j.obhdp.2006.01.005. Findings as reported by Maier et al. (2024); the debiasing result matches the paper's own abstract.
 17. Taurek, J. M. (1977). Should the numbers count? *Philosophy & Public Affairs*, 6(4), 293–316. Not consulted; stated in its standard form.
 18. Västfjäll, D., Slovic, P., Mayorga, M. & Peters, E. (2014). Compassion fade: Affect and charity are greatest for a single child in need. *PLoS ONE*, 9(6), e100115. https://doi.org/10.1371/journal.pone.0100115
 19. Southgate, A. & Oquatre-six, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/

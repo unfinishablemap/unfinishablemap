@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 13:47:47+00:00
+ai_modified: 2026-11-16 14:30:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 13:47:47+00:00
+lastmod: 2026-11-16 14:30:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T14:30:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [numbing-void](/voids/numbing-void/)
+- **Selection**: selector's pick `concepts/interface-threshold` and the next nine all have open tasks; of 149 pages with no open task and no commit since 2026-11-12 this was the only one never deep-reviewed (23 quoted spans, 20 references).
+- **Word count**: 2821 → 2880 (+59; voids hard 3000)
+- **Critical issues addressed**: 3 (lead put Slovic's "turning off ... rescue workers" gloss in Lifton's mouth, and Lifton's text has no such phrase; Cameron and Payne's instruction contrast stated as a condition of all three experiments; lead stated proactive damping as fact where the body says "suggested")
+- **Medium issues addressed**: 4 ("cannot feel the difference", "nothing seems missing"/"is rare", "near-linear", shoes filed as serial individuation)
+- **Enhancements made**: 0
+- **Verification**: 21 quoted spans and 18 references re-checked at source; all spans verbatim, all metadata correct. Small et al. 2007 debiasing result now confirmed in the paper's own abstract.
+- **Engagement classification**: Lewis and Taurek: Mode Three; the page says it neither adopts nor refutes the tracking reading.
+- **Not verified**: Lewis 1947 page numbers; Taurek 1977 and Fetherstonhaugh 1997 unread at source.
+- **Output**: [deep-review-2026-11-16-numbing-void](/reviews/deep-review-2026-11-16-numbing-void/)
 
 ## 2026-11-16T13:47:47+00:00 - refine-draft
 - **Status**: Success
