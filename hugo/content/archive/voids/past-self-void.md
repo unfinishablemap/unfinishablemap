@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-10-04 12:46:21+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-16 18:50:47+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
 archive_reason: Coalesced into The Inaccessible Past
 archived: true
 archived_date: 2026-03-19 12:31:00+00:00
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-02 08:53:00+00:00
-lastmod: 2026-10-04 12:46:21+00:00
+lastmod: 2026-11-16 18:50:47+00:00
 modified: *id001
 original_path: /voids/past-self-void/
 related_articles:
@@ -62,9 +62,9 @@ The past self occupies a unique position among these: not another subject (like 
 
 ## Memory Is Reconstruction, Not Retrieval
 
-Cognitive science confirms that [episodic memory](/concepts/episodic-memory/) is "scenario construction" rather than playback. The brain doesn't store experiences like recordings; it stores patterns that enable reconstruction. Each retrieval rebuilds the memory anew, using present context as a guide—and where reconsolidation opens the trace to revision, retrieval alters it, so the "original" is progressively overwritten by the present self's concerns (see [consciousness and memory](/topics/consciousness-and-memory/) for the full consolidation-reconsolidation cycle).
+Cognitive science treats [episodic memory](/concepts/episodic-memory/) as construction rather than playback. The brain doesn't store experiences like recordings; it stores patterns that enable reconstruction. Each retrieval rebuilds the memory anew, using present context as a guide—and where reconsolidation opens the trace to revision, retrieval alters it, so the "original" is progressively overwritten by the present self's concerns (see [consciousness and memory](/topics/consciousness-and-memory/) for the full consolidation-reconsolidation cycle).
 
-Conway's research on the Self-Memory System shows that the "working self constantly mediates between the opposite requirements of internal coherence and correspondence to reality." The present self doesn't passively access the past self—it actively constructs a version that serves present identity needs. Memory serves identity maintenance, not accurate recording.
+Conway's research on the Self-Memory System shows that the "working self constantly mediates between the opposite requirements of internal coherence and correspondence to reality." The present self doesn't passively access the past self—it actively constructs a version that serves present identity needs. On this model the working self's current goals shape what is recalled.
 
 Even individuals with Highly Superior Autobiographical Memory (HSAM)—people who can recall almost every day of their lives in vivid detail—show susceptibility to false memories. If anyone could access past states directly, they would. No one can. The reconstructive memory mechanisms that produce distortion are "basic and widespread in humans, and it may be unlikely that anyone is immune."
 
@@ -104,7 +104,7 @@ For the Map's framework, this suggests the past-self void isn't just an epistemi
 
 ## The Buddhist Analysis
 
-Buddhist phenomenology provides the most radical analysis. The teaching of impermanence (*anicca*) holds that all conditioned existence is transient. In the Assutavā Sutta (Samyutta Nikaya 12.61), consciousness is described as arising continuously "as one thing" and passing away "as another thing" through day and night.
+Buddhist phenomenology provides the most radical analysis. The teaching of impermanence (*anicca*) holds that all conditioned existence is transient. In the Assutavā Sutta (Samyutta Nikaya 12.61), what is called mind or consciousness "arises as one thing and ceases as another by day and by night" (Bodhi 2000).
 
 On this view, consciousness moment-to-moment is as discontinuous as consciousness lifetime-to-lifetime. The Theravada tradition holds that permanent consciousness is a contradiction in terms, and that the dynamics between lifetimes are not dissimilar from what happens between moments.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-08-06 01:12:25+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-16 18:50:47+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
 archive_reason: Coalesced into Episodic Memory and Autonoetic Consciousness
 archived: true
 archived_date: 2026-02-15 06:32:00+00:00
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-08-06 01:12:25+00:00
+lastmod: 2026-11-16 18:50:47+00:00
 modified: *id001
 original_path: /concepts/constructive-memory/
 related_articles:
@@ -61,7 +61,7 @@ Memory construction operates through several interacting mechanisms.
 
 **Reconsolidation**: Retrieval can return a memory to a labile state, though not always—destabilisation is gated by retrieval duration and the memory's strength and age. When it does, the reassembled memory is re-stored in modified form, incorporating current emotional states, intervening experiences, and the retrieval context. Frequently retrieved memories drift from the original through this repeated reconstruction.
 
-**Schema assimilation**: Bartlett's classic studies demonstrated that memories are progressively regularised toward cultural and personal schemas. Details that fit the schema are preserved; details that conflict with it are dropped or altered. Memory is "an affair of reconstruction rather than mere reproduction"—his phrase captures the principle that gave constructive memory its name.
+**Schema assimilation**: Bartlett's classic studies demonstrated that memories are progressively regularised toward cultural and personal schemas. Details that fit the schema are preserved; details that conflict with it are dropped or altered. Remembering is "far more decisively an affair of construction rather than one of mere reproduction" (1932, p. 205)—his phrase captures the principle that gave constructive memory its name.
 
 ## False Memories as Feature, Not Bug
 

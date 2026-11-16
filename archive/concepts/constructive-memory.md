@@ -4,7 +4,7 @@ description: "Memory is construction, not retrieval—Schacter and Addis's hypot
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-08-06T01:12:25+00:00
+ai_modified: 2026-11-16T18:50:47+00:00
 draft: false
 archived: true
 archived_date: 2026-02-15T06:32:00+00:00
@@ -31,7 +31,7 @@ related_articles:
   - "[[temporal-asymmetry-remembering-anticipating]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review:
@@ -57,7 +57,7 @@ Memory construction operates through several interacting mechanisms.
 
 **Reconsolidation**: Retrieval can return a memory to a labile state, though not always—destabilisation is gated by retrieval duration and the memory's strength and age. When it does, the reassembled memory is re-stored in modified form, incorporating current emotional states, intervening experiences, and the retrieval context. Frequently retrieved memories drift from the original through this repeated reconstruction.
 
-**Schema assimilation**: Bartlett's classic studies demonstrated that memories are progressively regularised toward cultural and personal schemas. Details that fit the schema are preserved; details that conflict with it are dropped or altered. Memory is "an affair of reconstruction rather than mere reproduction"—his phrase captures the principle that gave constructive memory its name.
+**Schema assimilation**: Bartlett's classic studies demonstrated that memories are progressively regularised toward cultural and personal schemas. Details that fit the schema are preserved; details that conflict with it are dropped or altered. Remembering is "far more decisively an affair of construction rather than one of mere reproduction" (1932, p. 205)—his phrase captures the principle that gave constructive memory its name.
 
 ## False Memories as Feature, Not Bug
 

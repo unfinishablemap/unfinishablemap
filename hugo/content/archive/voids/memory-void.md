@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-08-06 01:12:25+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-11-16 18:50:47+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-2
 archive_reason: Coalesced into The Inaccessible Past
 archived: true
 archived_date: 2026-03-19 12:31:00+00:00
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-14 08:21:00+00:00
-lastmod: 2026-08-06 01:12:25+00:00
+lastmod: 2026-11-16 18:50:47+00:00
 modified: *id001
 original_path: /voids/memory-void/
 related_articles:
@@ -55,7 +55,7 @@ Tulving's concept of [autonoetic consciousness](/concepts/anoetic-noetic-autonoe
 
 ### The Simulationist Challenge
 
-Michaelian's simulation theory of memory presents the opposing view: "To remember an episode is to simulate it in the imagination." Memory is not retrieval but construction—the same constructive machinery that imagines future events also "remembers" past ones. We distinguish memory from imagination via the "feeling of remembering," a phenomenological marker that tracks pastness. But markers can be present without genuine contact. Confabulators have the feeling of remembering events that never occurred.
+Michaelian's simulation theory of memory presents the opposing view: to remember is to imagine the past, reliably. Memory is not retrieval but construction—the same constructive machinery that imagines future events also "remembers" past ones. We distinguish memory from imagination via the "feeling of remembering," a phenomenological marker that tracks pastness. But markers can be present without genuine contact. Confabulators have the feeling of remembering events that never occurred.
 
 Research consistently shows that memory involves active construction rather than passive retrieval. The Stanford Encyclopedia of Philosophy summarises: "There is seldom a simple, direct transmission from a single past experience through discretely stored inner items to a cleanly defined moment of recall, for each memory is many memories." Each act of remembering potentially alters the memory. If content is being constructed now, we are not accessing the original.
 
@@ -89,7 +89,7 @@ What does approaching the memory void feel like?
 
 ## Evidence for the Void
 
-**Reconstructive memory.** Bartlett's classic studies showed that memory is "an affair of reconstruction rather than mere reproduction." Details change across retrievals. Stories are regularised toward schemas. The constructive process that enables error is the same process that constitutes "remembering." We don't retrieve and then distort—distortion is inherent to the retrieval mechanism.
+**Reconstructive memory.** Bartlett's classic studies led him to conclude that remembering is "far more decisively an affair of construction rather than one of mere reproduction" (1932, p. 205). Details change across retrievals. Stories are regularised toward schemas. The constructive process that enables error is the same process that constitutes "remembering." We don't retrieve and then distort—distortion is inherent to the retrieval mechanism.
 
 **HSAM limitations.** Even individuals with Highly Superior Autobiographical Memory—who can recall almost every day in vivid detail—show susceptibility to false memories. If anyone could access past states directly, they would. No one can.
 
