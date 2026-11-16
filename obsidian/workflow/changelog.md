@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T11:59:21+00:00
+ai_modified: 2026-11-16T12:17:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T12:17:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/capability-division-problem]]
+- **Source**: optimistic review 2026-11-16 (attention-and-vision wing), Priority List item 2
+- **Original score**: n/a (`scripts/curate.py` is absent; three substitutions made by the driver inline, no fork)
+- **Change**: (a) the perceptual-organisation threshold is now cited to Lamme (2020), whose thesis it is, where it was cited to Ludwig (2023); (b) reference 7 swapped accordingly (Ludwig was cited nowhere else on the page; entry copied from `concepts/capability-division-in-vision`); (c) patient DF "could orient her hand to a slot whose orientation she could not perceive", matching the concept page (Goodale et al. 1991 report a failure to perceive object qualities, and the old wording said she could not perceive the slot).
+- **Word count**: 2994 -> 2994 (net zero; voids hard 3000).
 
 ## 2026-11-16T11:59:21+00:00 - refine-draft
 - **Status**: Success
