@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 20:49:24+00:00
+ai_modified: 2026-11-16 21:10:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 20:49:24+00:00
+lastmod: 2026-11-16 21:10:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T21:10:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [language-thought-boundary](/voids/language-thought-boundary/)
+- **Word count**: 2998 → 2993 (-5); prose 2557 → 2603, Further Reading 156 → 83, References 285 → 307 (voids hard 3000)
+- **Critical issues addressed**: 5 (Chomsky quotation spliced with its condition dropped and a phrase absent from the lecture attached; Grandin term in marks she does not use; Marion attribution unverifiable, replaced by Augustine *De Doctrina Christiana* I.6; Japanese within-subject claim replaced by Athanasopoulos et al. 2015; link label "dissolution-on-articulation" de-linked from transit-void)
+- **Medium issues addressed**: 4 (Martinovic sample; preface attribution; "often" restored; No Many Worlds stated as not engaged)
+- **Enhancements made**: 1 (reference 16 added)
+- **Quotation check**: 13 rows fetched and grepped; 3 defective, 1 unverifiable, 9 verbatim or faithful. First verbatim check in seven reviews.
+- **Reasoning mode**: deflationist: Mode Three with a Mode Two opening; beetle-in-the-box: Mode One; both unchanged
+- **Output**: [deep-review-2026-11-16-language-thought-boundary](/reviews/deep-review-2026-11-16-language-thought-boundary/)
 
 ## 2026-11-16T20:49:24+00:00 - refine-draft
 - **Status**: Success

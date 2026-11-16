@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-10-06 07:21:59+00:00
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-16 21:09:07+00:00
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -10,14 +10,14 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[qualia]]'
 created: 2026-01-26
-date: &id001 2026-01-26
+date: &id001 2026-11-16
 description: 'Where thought exceeds language: visual cognition, qualia, and the limits
   of articulation. What ineffability reveals about consciousness.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-19 19:51:37+00:00
-lastmod: 2026-10-06 07:21:59+00:00
+last_deep_review: 2026-11-16 21:09:07+00:00
+lastmod: 2026-11-16 21:09:07+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -41,7 +41,7 @@ topics:
 
 "The limits of my language mean the limits of my world." Wittgenstein's famous proposition invites a question: are the limits of language and the limits of thought the same? If they diverge—if thought can exceed language, or language can articulate what cannot be thought—the boundary between them constitutes a [void](/voids/) worth mapping. This article explores that boundary: where speakable and thinkable part ways, and what the divergence reveals about cognitive architecture.
 
-Visual thinkers report cognition that resists verbal capture; mystics claim knowledge exceeding all possible expression; philosophers argue about qualia that cannot be communicated. Yet language measurably shapes thought—bilinguals think differently depending on which language they're using. The boundary is real, but its contours are contested.
+Visual thinkers report cognition that resists verbal capture; mystics claim knowledge exceeding all possible expression; philosophers argue about qualia that cannot be communicated. Yet language measurably shapes thought—bilinguals categorise events differently depending on which language they're using. The boundary is real, but its contours are contested.
 
 Two companion articles map adjacent territory: the [consciousness-language interface](/topics/consciousness-and-language-interface/) examines how language and consciousness shape each other bidirectionally, while the [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows why these limits are structural rather than accidental.
 
@@ -49,9 +49,9 @@ Two companion articles map adjacent territory: the [consciousness-language inter
 
 ### Linguistic Limits
 
-Some thoughts expressible in one language resist translation to another. Greek speakers name *ble* (dark blue) and *ghalazio* (light blue) as separate colours; the influential report that their brains register the difference pre-attentively (Thierry et al. 2009) has been substantially weakened by Martinovic et al. (2026), who re-ran the paradigm and found the early response driven by contrast adaptation, not category. Kuuk Thaayorre speakers of Australia use cardinal directions rather than left and right, and their spatial cognition is oriented accordingly (Boroditsky 2011). These are limits of *this* language, not language as such.
+Some thoughts expressible in one language resist translation to another. Greek speakers name *ble* (dark blue) and *ghalazio* (light blue) as separate colours; the influential report that their brains register the difference pre-attentively (Thierry et al. 2009) has been substantially weakened by Martinovic et al. (2026), who re-ran the paradigm (testing Russian speakers, who also have two basic blues) and found the early response driven by contrast adaptation, not category. Kuuk Thaayorre speakers of Australia use cardinal directions rather than left and right, and their spatial cognition is oriented accordingly (Boroditsky 2011). These are limits of *this* language, not language as such.
 
-The weak Sapir-Whorf hypothesis—that language influences habitual thought—has substantial empirical support: Japanese speakers categorise objects differently when thinking in Japanese than in English. The language in use changes which thoughts come readily without determining what can be thought.
+The weak Sapir-Whorf hypothesis—that language influences habitual thought—has empirical support of a bounded kind: fluent German–English bilinguals sorted motion events according to the language they were tested in, an effect the authors call "context-bound and transient" (Athanasopoulos et al. 2015). The language in use changes which thoughts come readily without determining what can be thought.
 
 These cases generalise into a documented pattern. Tim Lomas's positive cross-cultural lexicography began with 216 "untranslatable" well-being terms culled across the world's languages (Lomas 2016) and has since grown past 1,400—Tagalog *gigil*, Portuguese *saudade*, Japanese *mono no aware*, German *Sehnsucht*, each carving a phenomenal distinction English leaves uncut. The revealing feature is not that the words exist but that the carving is *invisible from the source-language stance*: to a native speaker the term feels like a transparent picking-out of a self-evident phenomenon, not a parochial cut. The gap only appears when a translator-position is occupied. This is one face of what the [Translation Void](/research/voids-translation-void-2026-05-09/) calls cross-format-mapping opacity: the operation that renders one language's carvings into another's cannot be inspected from inside the source language, since exiting requires another language with its own carvings. The opacity is in the *operation*, not the endpoints.
 
@@ -61,7 +61,7 @@ The boundary intersects the [vagueness void](/voids/vagueness-void/) at the poin
 
 A harder question: are there thoughts thinkable but not expressible in *any* natural language?
 
-Temple Grandin reports cognition operating through detailed mental imagery—solving engineering problems by "running simulations" in her head. Einstein described insights emerging from visual thought experiments before translation into equations. For strong visual thinkers, translating thought into language is *lossy*.
+Temple Grandin reports cognition operating through detailed mental imagery—solving engineering problems by running "three-dimensional visual simulations" in her imagination. Einstein described insights emerging from visual thought experiments before translation into equations. For strong visual thinkers, translating thought into language is *lossy*.
 
 Mathematical intuition operates similarly. Mathematicians often "see" a proof's validity before articulating it; the formal proof is a translation of something pre-linguistic. Infants demonstrate cognition before language—object permanence, causal reasoning, numerical competence. The [infant consciousness void](/voids/infant-consciousness/) reveals the deeper implication: thought exceeds language, and acquiring language may make the pre-linguistic mode inaccessible even to later introspection.
 
@@ -69,15 +69,15 @@ Mathematical intuition operates similarly. Mathematicians often "see" a proof's 
 
 The deepest possibility: some content may be neither thinkable nor expressible—beyond any representational system. This is where the void becomes genuinely unexplorable.
 
-Wittgenstein's *Tractatus* attempted to delineate precisely what can be sensibly said. The conclusion was severe: ethics, aesthetics, the mystical, and the meaning of life all lie outside what language can capture. "Whereof one cannot speak, thereof one must be silent." But the *Tractatus* undermines itself—the attempt to draw language's limits requires standing outside those limits. Drawing a limit to thought would require thinking both sides, including the unthinkable.
+Wittgenstein's *Tractatus* attempted to delineate precisely what can be sensibly said. The conclusion was severe: ethics, aesthetics, the mystical, and the meaning of life all lie outside what language can capture. "Whereof one cannot speak, thereof one must be silent." But the *Tractatus* undermines itself—the attempt to draw language's limits requires standing outside those limits. Drawing a limit to thought, its preface grants, would require thinking both sides, including the unthinkable.
 
-Chomsky extends this to fundamental structures: "It might turn out that 'free actions of men' cannot be accommodated in terms of determinacy and randomness." Not because we haven't found the right formulation, but because human cognitive architecture may be incapable of grasping certain kinds of truth. The boundaries of Babel constrain not just which languages we can speak but which thoughts we can think. The [conceptual scheme void](/voids/conceptual-scheme-void/) formalises the deepest form of this limit: the gap between a feature of reality and the *shape* any concept of that feature would have to take—a shape our cognitive apparatus may not be built to produce.
+Chomsky (2014) raises a similar possibility about human understanding. Concepts of determinacy and randomness "fall within our intellectual grasp," but "it might turn out that 'free actions of men' cannot be accommodated in these terms"—the inner phrase quoted from Descartes. That "might be a matter of cognitive limitations," which he adds would not preclude an intelligible theory of such actions. The [conceptual scheme void](/voids/conceptual-scheme-void/) formalises the deepest form of this limit: the gap between a feature of reality and the *shape* any concept of that feature would have to take—a shape our cognitive apparatus may not be built to produce.
 
 ## The Paradox of Articulating Ineffability
 
 We keep talking about what cannot be said. This creates a puzzle that the [apophatic tradition](/voids/apophatic-cartography/) has investigated for millennia.
 
-Negative theology developed sophisticated methods (Franke 2014): Pseudo-Dionysius called God "hypertheos"—beyond God—to avoid making claims while still pointing. Cusanus's *docta ignorantia* (learned ignorance) held that knowing what we cannot know is itself knowledge. Yet Jean-Luc Marion warned: even calling something "unthinkable" makes it a thinkable object under that label. How to escape?
+Negative theology developed sophisticated methods (Franke 2014): Pseudo-Dionysius called God "hypertheos"—beyond God—to avoid making claims while still pointing. Cusanus's *docta ignorantia* (learned ignorance) held that knowing what we cannot know is itself knowledge. Yet Augustine had already seen the trap: if the unspeakable is what cannot be spoken of, calling it unspeakable speaks of it (*De Doctrina Christiana* I.6). How to escape?
 
 **The ladder strategy**: Wittgenstein instructed readers to throw away the ladder after climbing it. Use language to approach limits, then recognise the language as tool rather than truth.
 
@@ -99,7 +99,7 @@ What does it feel like to hit language's limits? The [phenomenology of cognition
 
 **The tip-of-tongue in reverse**: You have content but no word exists to retrieve. Fullness without outlet rather than emptiness seeking content.
 
-**Dissolution on articulation**: Sometimes saying a thought destroys it. Mystics commonly report this—the insight dissolves when grasped linguistically. The [creative-aesthetic-void](/voids/creative-aesthetic-void/) maps this phenomenon specifically: aesthetic revelations cannot be preserved across state transitions, suggesting the knowledge requires the aesthetic state to be thought at all.
+**Dissolution on articulation**: Sometimes saying a thought destroys it. Mystics commonly report this—the insight dissolves when grasped linguistically. The [creative-aesthetic-void](/voids/creative-aesthetic-void/) maps this phenomenon specifically: aesthetic revelations often cannot be preserved across state transitions, suggesting the knowledge requires the aesthetic state to be thought at all.
 
 Compare to [thoughts that slip away](/voids/transit-void/). In slippage, content forms briefly then vanishes. At the language-thought boundary, content may be stable but inexpressible. The phenomenology differs: slippage feels like forgetting; linguistic limits feel like being mute.
 
@@ -123,7 +123,7 @@ The language-thought boundary presents a classification problem. Which of the [t
 
 **Unexplorable territory**: Some content may exceed what any possible human language could capture—not because we haven't invented the right words but because the content violates linguistic architecture. If [McGinn's cognitive closure](/concepts/mysterianism/) applies to language, some truths may be permanently beyond verbal reach.
 
-**Occluded territory**: Could some expressible thoughts be actively blocked? The [dissolution-on-articulation phenomenon](/voids/transit-void/) is at least compatible with interference—you approach linguistic capture; the thought evaporates. This might be neural architecture or something more systematic.
+**Occluded territory**: Could some expressible thoughts be actively blocked? The dissolution-on-articulation phenomenon is at least compatible with interference—you approach linguistic capture; the thought evaporates. This might be neural architecture or something more systematic.
 
 Olfaction supplies a documented case of reclassification. From Henning's 1916 verdict that "olfactory abstraction is impossible" (quoted in Majid & Burenhult 2014), the inability to name smells in abstract terms was treated as a structural fact about human minds. Cross-cultural work dissolved the universality: Jahai hunter-gatherers of the Malay Peninsula name odors as consistently as colours using an abstract smell lexicon—"Odors are expressible in language, as long as you speak the right language" (Majid & Burenhult 2014)—and the effect tracks subsistence mode rather than language family or habitat (Majid & Kruspe 2018). The deflation is partial—a residual neurocognitive component in olfaction's weak route to language remains defensible (Olofsson & Gottfried 2015), and the debate is live—but the calibration lesson stands: a limit that presented as unexplorable for a century of Western psychology was in substantial part unexplored. Classifying ineffability from inside a single linguistic culture is unreliable.
 
@@ -157,7 +157,7 @@ The language-thought boundary connects to The Unfinishable Map's [tenets](/tenet
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** appears in the methodology itself. We can *choose* to investigate these limits—direct attention toward the edge of language, probe where articulation fails. The Map reads this deliberate investigation as mental causation; an epiphenomenalist can describe the same activity, so the void offers coherence with the tenet, not independent support.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is untouched: nothing about linguistic limits bears on where or how selection occurs.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is untouched, and No Many Worlds is not engaged: nothing about linguistic limits bears on where or how selection occurs.
 
 ## What Would Challenge This View?
 
@@ -173,20 +173,20 @@ The claim that language and thought have genuinely different limits would be cha
 
 ## Further Reading
 
-- [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy channel between phenomenal experience and language
-- [Voids in the Map](/voids/) — The broader framework for cognitive limits
-- [Three Kinds of Void](/voids/three-kinds-of-void/) — Taxonomy the classification section deploys
-- [Apophatic Cartography](/voids/apophatic-cartography/) — Methods for knowing through negation
-- [The Metaphor Void](/voids/metaphor-void/) — The reflexive challenge every void description faces
+- [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- [Voids in the Map](/voids/)
+- [Three Kinds of Void](/voids/three-kinds-of-void/)
+- [Apophatic Cartography](/voids/apophatic-cartography/)
+- [The Metaphor Void](/voids/metaphor-void/)
 - [The Limits of Conceptual Acquisition](/voids/biological-cognitive-closure/) — What concepts cannot be formed
-- [The Transit Void](/voids/transit-void/) — Related phenomena of cognitive slippage
+- [The Transit Void](/voids/transit-void/)
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
-- [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis
-- [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
-- [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — What linguistic failure feels like from the inside
-- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Survey of cross-format-mapping opacity
+- [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
+- [What the Limits Reveal](/voids/what-voids-reveal/)
+- [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/)
+- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/)
 - [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — Synthesis of the cluster's structural limits
-- [Site Tenets](/tenets/) — The foundational commitments shaping this investigation
+- [Site Tenets](/tenets/)
 
 ## References
 
@@ -205,3 +205,4 @@ The claim that language and thought have genuinely different limits would be cha
 13. Majid, A., & Kruspe, N. (2018). "Hunter-Gatherer Olfaction Is Special." *Current Biology* 28(3): 409–413.
 14. Olofsson, J. K., & Gottfried, J. A. (2015). "The muted sense: neurocognitive limitations of olfactory language." *Trends in Cognitive Sciences* 19(6): 314–321.
 15. Martinovic, J., Delov, A. A., Tomastikova, J., Martin, J. T., Paramei, G. V., & Griber, Y. A. (2026). "Cognition does not automatically influence perception: Evidence from neural encoding of colors belonging to different categories." *PNAS* 123(24): e2538139123. https://doi.org/10.1073/pnas.2538139123
+16. Athanasopoulos, P. et al. (2015). "Two Languages, Two Minds: Flexible Cognitive Processing Driven by Language of Operation." *Psychological Science* 26(4): 518–526.
