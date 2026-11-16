@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T09:51:25+00:00
+ai_modified: 2026-11-16T09:52:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T10:08:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/evolution-of-consciousness]]
+- **Task**: P2 from outer review 2026-11-16 (Broad and Wiest 2025 without reference entries; "at least" dropped from the New York Declaration; cephalopod consciousness stated as fact; UAL rendered as an on/off switch). Last of the outer-review tasks on this file today.
+- **Review file**: [[reviews/outer-review-2026-11-16-claude-fable-5-2]] (Verification Notes first: Wiest 2025 is a missing entry, not a phantom); [[reviews/outer-review-synthesis-2026-11-16]] rows 5 and 8.
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Changes**: (1) Broad: the quotation was cut at "components"; it now runs to the end of the printed sentence ("taken separately or in other combinations, and of their proportions and arrangements in this whole") with "(Broad 1925, p. 59)", and the entry is added. Verified in the archive.org full text of the Routledge & Kegan Paul printing (item dli.bengal.10689.8832, seventh impression, first published 1925; whitespace collapsed; running head "MECHANISM AND ITS ALTERNATIVES 59" precedes the sentence). (2) Wiest 2025: entry added (Crossref 10.1093/nc/niaf011: *Neuroscience of Consciousness* 2025(1), niaf011); the gloss now carries quotation marks, matching the Europe PMC full text (PMC12060853): "Tegmark assumed thermal equilibrium in his calculations, which is equivalent to death, and thus not appropriate for describing living matter". (3) New York Declaration: "at least a realistic possibility" restored, "all other vertebrates" corrected to "all vertebrates", and the invertebrate list given as the declaration's minimum (text read at the declaration's own site). Cambridge Declaration: "many invertebrates" replaced by its own words, "all mammals and birds, and many other creatures, including octopuses" (read in the conference PDF). (4) Cephalopods: the independent evolution of cephalopod brains is stated, cephalopod consciousness is conditional, and option (c), absence in one lineage, is added. (5) Thresholds: "Below threshold: nothing. Above: everything." now defines the threshold view and no longer follows the UAL sentence; UAL is described as Ginsburg and Jablonka's transition marker, a behavioural proxy for minimal consciousness (wording matched to `topics/consciousness-and-the-major-evolutionary-transitions`; "transition marker" confirmed in the Birch, Ginsburg & Jablonka 2020 abstract, which is not cited); IIT is qualified as graduated, linking [[degrees-of-consciousness]], matching `concepts/integrated-information-theory`. References: Birch (2024) and Godfrey-Smith (2020), unused in the body, dropped. Twelve Further Reading glosses shortened to pay for the additions; two of them stated contested claims as fact ("makes quantum neural effects probable", "How consciousness amplifies cognitive capacity") and are now neutral labels.
+- **Length**: 3446 before, 3490 after (`analyze_length`; hard 3500, gate at >=), 9 words of margin.
+- **Reasoning mode**: no named-opponent reply changed.
+- **Not done / noticed**: no entry for the Cambridge Declaration (2012) or Miller (1956), both named in the body; Frankish (2016), O'Connor & Wong (2005) and Penrose (1994) are listed but carry no dated citation in the body. The Cambridge Declaration's "generate consciousness" still sits beside the page's "Brains don't generate consciousness". `concepts/emergence` L58 and `topics/the-strong-emergence-of-consciousness` L81 end the same Broad quotation at "combinations" with no ellipsis; `topics/animal-consciousness` L78 quotes the New York Declaration without "at least". L75 "untenable" and L79 "*does* affect" left to their own task.
+- **Published**: yes
+
+## 2026-11-16T09:52:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/prebiotic-collapse]]
+- **Source**: sibling follow-up from the 2026-11-16 outer-review repair of `concepts/evolution-of-consciousness` (quantum-evidence grading), reported by that pass
+- **Original score**: n/a (`scripts/curate.py` is absent; one-sentence edit made by the driver inline, no fork)
+- **Change**: the experimental-constraints list said the 2024 epothilone B study "provides indirect support for consciousness-quantum interaction at neural sites" under the label "Quantum biology support". It now reads, under "Quantum biology", that the study "is compatible with its authors' quantum reading and with classical ones", the grade `concepts/evolution-of-consciousness`, `topics/quantum-biology-and-neural-consciousness` and `topics/the-strong-emergence-of-consciousness` give it. The study (Khan et al. 2024, eNeuro; rats; one drug, epothilone B) is unchanged in References; "drugs delay" corrected to "a ... drug delays".
+- **Word count**: 3,613 before; see the driver report for the final figure (the page is over the concepts hard gate of 3,500, so the edit was kept at or below its starting count). Final wording: "where a microtubule stabiliser delayed anaesthetic-induced unconsciousness—is compatible with its authors' quantum reading and classical ones."
 
 ## 2026-11-16T09:51:25+00:00 - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-15 18:34:29+00:00
+ai_modified: 2026-11-16 09:52:27+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -22,14 +22,14 @@ concepts:
 - '[[combination-problem]]'
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-01-16
-date: &id001 2026-11-15
+date: &id001 2026-11-16
 description: How quantum wave functions collapsed before conscious observers existed.
   Objective reduction provides baseline collapse; consciousness preempts outcomes.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 03:09:01+00:00
-lastmod: 2026-11-15 18:34:29+00:00
+lastmod: 2026-11-16 09:52:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -202,7 +202,7 @@ Objective collapse theories face empirical pressure but remain viable:
 
 **GRW theory**: The original Ghirardi-Rimini-Weber parameters "survived by a whisker" (Ball, 2022)—spontaneous localisation rates and widths lay just within the 2022 bounds.
 
-**Quantum biology support**: The August 2024 epothilone B study in rats—showing that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—provides indirect support for consciousness-quantum interaction at neural sites.
+**Quantum biology**: The August 2024 epothilone B study in rats—where a microtubule stabiliser delayed anaesthetic-induced unconsciousness—is compatible with its authors' quantum reading and classical ones.
 
 ## Further Reading
 

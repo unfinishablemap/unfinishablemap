@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism trades the strong emergence 
 created: 2026-01-19
 modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-11-16T09:51:03+00:00
+ai_modified: 2026-11-16T10:07:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,15 +50,15 @@ Three broad possibilities structure the debate:
 
 **Gradual emergence**: Consciousness emerged incrementally as nervous systems became more complex. Simple organisms have no experience; complex organisms have rich experience; somewhere in between, the lights turned on. This is the default assumption of most neuroscience, though it leaves the mechanism of emergence unexplained.
 
-**Threshold emergence**: Consciousness appeared suddenly when certain organisational thresholds were crossed. Perhaps integrated information (IIT), global broadcasting (Global Workspace Theory), or some unknown neural architecture must reach a critical level before any experience arises (see [[consciousness-and-cognitive-distinctiveness|consciousness thresholds in cognitive evolution]]). Ginsburg and Jablonka's Unlimited Associative Learning (UAL) framework proposes a specific threshold: organisms capable of associating arbitrary stimuli across modalities with arbitrary actions. This framework places the transition in the Cambrian explosion (~540 million years ago) and provides testable criteria—though whether passing UAL tests indicates consciousness or merely correlates with it remains debated. Below threshold: nothing. Above: everything.
+**Threshold emergence**: Consciousness appeared suddenly when certain organisational thresholds were crossed—below threshold, nothing; above, everything. Perhaps global broadcasting (Global Workspace Theory) or some unknown neural architecture must reach a critical level before any experience arises (see [[consciousness-and-cognitive-distinctiveness|consciousness thresholds in cognitive evolution]]); integrated information (IIT) is sometimes listed here, though on IIT consciousness is [[degrees-of-consciousness|graduated rather than threshold-based]]. Ginsburg and Jablonka's Unlimited Associative Learning (UAL) framework is a naturalist neighbour: it offers UAL—open-ended learning that associates novel compound stimuli and actions—as a transition marker, a detectable behavioural proxy for minimal consciousness, not as what switches experience on. This framework places the transition in the Cambrian explosion (~540 million years ago) and provides testable criteria—though whether passing UAL tests indicates consciousness or merely correlates with it remains debated.
 
 Each possibility faces challenges. Panpsychism must explain [[combination-problem|how micro-experiences combine]]. Gradualism must specify what "partial consciousness" means. Threshold views must identify the threshold and explain why that particular organisation produces experience.
 
 ### The Phylogenetic Evidence
 
-The **Cambridge Declaration (2012)** affirmed that mammals, birds, and many invertebrates possess neurological substrates that generate consciousness. The **New York Declaration (2024)** affirmed "strong scientific support" for consciousness in mammals and birds, and "a realistic possibility" of it in all other vertebrates (reptiles, amphibians, fishes) and many invertebrates including cephalopods, crustaceans, and insects.
+The **Cambridge Declaration (2012)** affirmed that "all mammals and birds, and many other creatures, including octopuses" possess neurological substrates that generate consciousness. The **New York Declaration (2024)** affirmed "strong scientific support" for attributing conscious experience to mammals and birds, and "at least a realistic possibility" of it in all vertebrates (including reptiles, amphibians, and fishes) and many invertebrates (at minimum cephalopod molluscs, decapod crustaceans, and insects).
 
-But neural correlates don't determine when consciousness first emerged. The scattered phylogenetic distribution—cephalopod consciousness evolved independently of vertebrate consciousness—suggests either (a) consciousness emerged multiple times through convergent evolution, or (b) consciousness was present in common ancestors and retained differentially.
+But neural correlates don't determine when consciousness first emerged. Cephalopod brains evolved independently of vertebrate ones, so if cephalopods are conscious, the scattered phylogenetic distribution suggests either (a) consciousness emerged multiple times through convergent evolution, or (b) it was present in common ancestors and retained differentially; if they are not, (c) one lineage simply lacks it.
 
 ### Organisms at the Boundaries
 
@@ -112,7 +112,7 @@ The Map's answer is nomological: if consciousness biases quantum outcomes, then 
 
 Materialist accounts of consciousness face a specific difficulty with evolution: they must explain how phenomenal experience emerges from physical processes that previously lacked it. This isn't just a gap in current knowledge—it may be a principled impossibility.
 
-The [[emergence#Strong Emergence|strong emergence]] required for consciousness cannot be deduced from physical facts alone. C.D. Broad's criterion applies: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components". If consciousness is strongly emergent, we cannot trace a smooth evolutionary path from non-conscious to conscious matter.
+The [[emergence#Strong Emergence|strong emergence]] required for consciousness cannot be deduced from physical facts alone. C.D. Broad's criterion applies: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components, taken separately or in other combinations, and of their proportions and arrangements in this whole" (Broad 1925, p. 59). If consciousness is strongly emergent, we cannot trace a smooth evolutionary path from non-conscious to conscious matter.
 
 Chalmers: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness."
 
@@ -192,7 +192,7 @@ The simplest evolutionary story treats consciousness as neural computation—no 
 
 If consciousness interfaces with matter through quantum processes, the [[decoherence|decoherence objection]] matters. Tegmark's 2000 calculation estimated decoherence times: 10⁻²⁰ seconds for neuron firing, 10⁻¹³ for microtubules.
 
-Three responses preserve the quantum-evolutionary connection: (1) **Revised timescales**—Hagan et al. (2002) charged that Tegmark assumed thermal-equilibrium conditions (Wiest 2025 glosses them as equivalent to death) and argued that correcting for microtubule interior conditions could yield microtubule coherence times several orders of magnitude longer, though this remains debated; (2) **The Zeno sidestep**—Stapp's mechanism doesn't require sustained coherence between observations; rapid mental "observations" maintain states through repeated measurement; (3) **Biological precedents**—the strongest surviving pillar, though unsettled, is cryptochrome [[radical-pair-magnetoreception|radical-pair avian magnetoreception]], whose compass models need few-microsecond spin coherence. Photosynthesis, long cited beside it, no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence, a live but separate question. If evolution can optimise quantum effects for navigation, it might optimise them for consciousness—though one pillar is a precedent that the regime is not impossible, not a licence for the neural case (see [[quantum-biology-and-neural-consciousness|the quantum-biology record]]).
+Three responses preserve the quantum-evolutionary connection: (1) **Revised timescales**—Hagan et al. (2002) charged that Tegmark assumed thermal-equilibrium conditions (Wiest 2025 glosses them as "equivalent to death") and argued that correcting for microtubule interior conditions could yield microtubule coherence times several orders of magnitude longer, though this remains debated; (2) **The Zeno sidestep**—Stapp's mechanism doesn't require sustained coherence between observations; rapid mental "observations" maintain states through repeated measurement; (3) **Biological precedents**—the strongest surviving pillar, though unsettled, is cryptochrome [[radical-pair-magnetoreception|radical-pair avian magnetoreception]], whose compass models need few-microsecond spin coherence. Photosynthesis, long cited beside it, no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence, a live but separate question. If evolution can optimise quantum effects for navigation, it might optimise them for consciousness—though one pillar is a precedent that the regime is not impossible, not a licence for the neural case (see [[quantum-biology-and-neural-consciousness|the quantum-biology record]]).
 
 On the quantum reading, what evolved was architecture exploiting quantum effects. The 2024 epothilone B study (stabilised microtubules delaying rats' loss of righting reflex under isoflurane) is compatible with its authors' quantum reading and with classical ones.
 
@@ -215,34 +215,33 @@ Scientific humility requires specifying what would count against one's view.
 ## Further Reading
 
 - [[consciousness-evolution-and-biology]] — Why evolution makes consciousness puzzling across all frameworks
-- [[evolution-under-dualism]] — Three models of what "evolution of consciousness" means under dualism
-- [[evolutionary-case-for-mental-causation]] — The argument that consciousness must be causally efficacious to be selected
-- [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity
+- [[evolution-under-dualism]] — Three models of what evolves under dualism
+- [[evolutionary-case-for-mental-causation]] — The selection argument for causal efficacy
+- [[consciousness-as-amplifier]] — The amplification hypothesis
 - [[minimal-consciousness]] — How little neural complexity can support consciousness?
-- [[animal-consciousness]] — Which creatures are conscious and why
-- [[cetacean-and-corvid-consciousness]] — Convergent amplification test across dolphins and corvids with radically different neural architectures
+- [[animal-consciousness]] — Which creatures are conscious
+- [[cetacean-and-corvid-consciousness]] — Convergent amplification test in dolphins and corvids
 - [[comparative-consciousness-and-interface-differences]] — Does the interface vary across species?
-- [[interface-efficacy-and-the-cognitive-gap]] — Scalar axes of interface variation and the human-other-animal cognitive gap as efficacy scaling
+- [[interface-efficacy-and-the-cognitive-gap]] — Scalar axes of interface variation
 - [[prebiotic-collapse]] — What selected outcomes before minds existed
-- [[emergence]] — Strong vs weak emergence and consciousness
+- [[emergence]] — Strong vs weak emergence
 - [[panpsychism]] — The view that experience is fundamental
-- [[combination-problem]] — How micro-experiences combine into unified minds
-- [[unity-of-consciousness|phenomenal unity]] — The binding of experience into unified wholes
-- [[emotion-and-dualism]] — The felt quality of emotions and its adaptive role
+- [[combination-problem]] — How micro-experiences combine
+- [[unity-of-consciousness|phenomenal unity]] — Binding experience into wholes
+- [[emotion-and-dualism]] — Felt emotion and its adaptive role
 - [[illusionism]] — The radical physicalist response
-- [[decoherence]] — The quantum coherence challenge and biological precedents
-- [[evolutionary-case-for-quantum-neural-effects]] — Why evolutionary logic makes quantum neural effects probable
+- [[decoherence]] — The coherence challenge and biological precedents
+- [[evolutionary-case-for-quantum-neural-effects]] — The evolutionary argument for quantum neural effects
 - [[attention-as-interface]] — How consciousness interfaces with neural quantum processes
 - [[quantum-consciousness]] — Mechanisms for consciousness-matter interaction
 
 ## References
 
-1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
+1. Broad, C. D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
 1. Chalmers, D. (2006). Strong and Weak Emergence. In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
 1. Duan, H.-G., Prokhorenko, V.I., Cogdell, R.J., Ashraf, K., Stevens, A.L., Thorwart, M., & Miller, R.J.D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *PNAS*, 114(32), 8493-8498.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-1. Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
 1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496.
@@ -253,4 +252,5 @@ Scientific humility requires specifying what would count against one's view.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
