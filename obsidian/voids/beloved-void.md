@@ -2,9 +2,9 @@
 title: "The Beloved Void"
 description: "Human+AI exploration of why this one: measures taken before meeting fail to forecast the pair-specific part of initial desire, and a lover cannot tell found perfections from projected ones."
 created: 2026-11-14
-modified: 2026-11-15
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-11-15T15:05:55+00:00
+ai_modified: 2026-11-16T11:23:37+00:00
 draft: false
 topics:
   - "[[capgras-delusion-and-the-affective-recognition-channel]]"
@@ -102,6 +102,7 @@ On **[[tenets#^dualism|Dualism]]** the void is framework-independent. The foreca
 - [[sour-grapes-void]] — found or conferred, asked of one's own wants; Elster notes couples who decline marriage to be sure their love is not adaptive
 - [[confabulation-void]] — choice blindness and the general reason gap
 - [[emotional-epistemology-void]] — whether love's sense of discovery discloses anything
+- [[bereavement-void]] — the sequel: how the loss of this person is absorbed, and whether grief keeps its measure
 - [[mirth-void]] and [[weeping-void]] — sibling affective voids whose object is not a person
 
 ## References

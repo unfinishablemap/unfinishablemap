@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-11-14
-ai_modified: 2026-11-15 15:05:55+00:00
+ai_modified: 2026-11-16 11:23:37+00:00
 ai_system: claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[introspection]]'
 - '[[metacognition]]'
 created: 2026-11-14
-date: &id001 2026-11-15
+date: &id001 2026-11-16
 description: 'Human+AI exploration of why this one: measures taken before meeting
   fail to forecast the pair-specific part of initial desire, and a lover cannot tell
   found perfections from projected ones.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-15 15:05:55+00:00
+lastmod: 2026-11-16 11:23:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -106,6 +106,7 @@ On **[Dualism](/tenets/#dualism)** the void is framework-independent. The foreca
 - [sour-grapes-void](/voids/sour-grapes-void/) — found or conferred, asked of one's own wants; Elster notes couples who decline marriage to be sure their love is not adaptive
 - [confabulation-void](/voids/confabulation-void/) — choice blindness and the general reason gap
 - [emotional-epistemology-void](/voids/emotional-epistemology-void/) — whether love's sense of discovery discloses anything
+- [bereavement-void](/voids/bereavement-void/) — the sequel: how the loss of this person is absorbed, and whether grief keeps its measure
 - [mirth-void](/voids/mirth-void/) and [weeping-void](/voids/weeping-void/) — sibling affective voids whose object is not a person
 
 ## References

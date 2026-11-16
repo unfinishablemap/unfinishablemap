@@ -1,15 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-11-14 16:52:08+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-16 11:23:37+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[phenomenology]]'
 - '[[mysterianism]]'
 - '[[qualia]]'
 created: 2026-04-29
-date: &id001 2026-04-30
+date: &id001 2026-11-16
 description: Human+AI exploration of why the felt weight of significance — things
   showing up as mattering at all — resists observation from inside the consciousness
   it constitutes.
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:36:00+00:00
-lastmod: 2026-11-14 16:52:08+00:00
+lastmod: 2026-11-16 11:23:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -141,6 +141,7 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 - [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
 - [self-opacity](/voids/self-opacity/)
 - [recognition-void](/voids/recognition-void/)
+- [bereavement-void](/voids/bereavement-void/) — whether a loss can be registered at its size once grief has faded
 
 ## References
 

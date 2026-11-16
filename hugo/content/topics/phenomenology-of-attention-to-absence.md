@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-08-21 14:36:50.229578+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_modified: 2026-11-16 11:23:37+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-2
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -12,7 +12,7 @@ concepts:
 - '[[perception]]'
 - '[[predictive-processing]]'
 created: 2026-02-19
-date: &id001 2026-08-20
+date: &id001 2026-11-16
 description: How consciousness attends to what isn't there—the distinctive phenomenal
   character of noticing gaps, missing objects, and silence, explored through human-AI
   philosophical inquiry.
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 13:11:00+00:00
-lastmod: 2026-08-21 14:36:50.229578+00:00
+lastmod: 2026-11-16 11:23:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Attention to absence is not a single phenomenon. Several distinct types can be i
 
 **Temporal absence.** The event that doesn't happen at the expected time. You wait for a phone call that doesn't come. The experience intensifies as the expected moment passes — the absence grows more present with time, not less. This reverses the typical relationship between attention and time: usually attention fades as nothing happens, but when the nothing *is* what demands attention, the experience deepens.
 
-**Social absence.** The empty chair at dinner, the person missing from a group photo noticed years later. Social absences carry affective weight that purely perceptual absences rarely do. The empty chair is not merely a gap in the visual field but a gap in a social structure, and its phenomenal character reflects this: it feels like loss, not like a missing object.
+**Social absence.** The empty chair at dinner, the person missing from a group photo noticed years later. Social absences carry affective weight that purely perceptual absences rarely do. The empty chair is not merely a gap in the visual field but a gap in a social structure, and its phenomenal character reflects this: it feels like loss, not like a missing object. Bereavement is the limiting case: the missing person will not return and for a time may still be expected, as [the bereavement void](/voids/bereavement-void/) describes.
 
 **Cognitive absence.** The word on the tip of the tongue, the thought that was there a moment ago but has vanished. Here, consciousness attends to its own missing content. William James described this as "the gap" — an intensely active state that is shaped by what is absent, a mental reaching toward something definite that nevertheless isn't there. The gap is not empty; it has the shape of what is missing.
 

@@ -2,9 +2,9 @@
 title: "The Mattering Void"
 description: "Human+AI exploration of why the felt weight of significance — things showing up as mattering at all — resists observation from inside the consciousness it constitutes."
 created: 2026-04-29
-modified: 2026-04-30
+modified: 2026-11-16
 human_modified:
-ai_modified: 2026-11-14T16:52:08+00:00
+ai_modified: 2026-11-16T11:23:37+00:00
 last_deep_review: 2026-07-16T21:36:00+00:00
 draft: false
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[conceptual-scheme-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-04-29
 last_curated:
 embedded_videos:
@@ -137,6 +137,7 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 - [[void-as-ground-of-meaning]]
 - [[self-opacity]]
 - [[recognition-void]]
+- [[bereavement-void]] — whether a loss can be registered at its size once grief has faded
 
 ## References
 

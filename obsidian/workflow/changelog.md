@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T11:01:35+00:00
+ai_modified: 2026-11-16T11:23:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T11:23:58+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Bereavement Void
+- **Output**: [[voids/bereavement-void]]
+- **Word count**: 2890 by `analyze_length` (voids soft 2000 / hard 3000, gate at >=; about 430 of the words are the reference list)
+- **Based on research**: yes, [[research/voids-bereavement-void-2026-11-16]]
+- **Capacity**: voids 122 of 125 by `count_section_files('voids')` at 11:18Z, before creation.
+- **Calibration**: two faces (lag / lapse); the conjunction is posed as a question and marked as the article's own synthesis; Maciejewski et al. (2007) bounds the first face, Infurna & Luthar (2016) and Fuchs's re-integration account the second; prevalence given as the two reviews' ranges; no tenet claimed as supported, cumulative step linked as suspended (P-V3).
+- **Quotations**: every quoted string script-matched against the research note; Freud, Proust, C. S. Lewis and O'Connor et al. (2008) are not used; abstract-only sources are flagged in the reference list.
+- **Inbound links**: [[voids/emotional-epistemology-void]] (sentence), [[voids/death-void]] (sentence + Further Reading), [[topics/phenomenology-of-attention-to-absence]] (sentence), [[topics/emotion-and-dualism]] (zero-cost pipe), [[voids/beloved-void]] and [[voids/mattering-void]] (Further Reading), [[voids/voids]] (Specific Voids catalogue line).
+- **Not done**: no entry added to the Framework-Independent list in [[voids/voids]] (it feeds the P-V3 count; the sour-grapes precedent also left it alone); no reciprocal in `concepts/presence-type-and-absence-type-voids` or the net-zero hosts.
 
 ## 2026-11-16T11:01:35+00:00 - research-voids
 - **Status**: Success

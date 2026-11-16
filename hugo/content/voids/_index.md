@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-15 15:05:55+00:00
+ai_modified: 2026-11-16 11:23:37+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-11-15
+date: &id001 2026-11-16
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-11-15 15:05:55+00:00
+lastmod: 2026-11-16 11:23:37+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -231,6 +231,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Weeping Void](/voids/weeping-void/) — Why science has no settled account of what emotional tears are for, and why the crier has no privileged view of what produced hers or whether crying helped: four faces (function / occasion / relief / will), two of them shared with the mirth void
 - [The Beloved Void](/voids/beloved-void/) — Why measures taken before two people meet fail to forecast the pair-specific part of initial desire, why several accounts of love concede that nothing justifies loving this person over an equally eligible one, and why a lover cannot tell found perfections from projected ones: four faces (forecast / warrant / object / lens), the first two sharing one root
 - [The Sour-Grapes Void](/voids/sour-grapes-void/) — Why a want trimmed to fit what is attainable arrives as an ordinary preference: Elster's adaptation runs "behind my back", Scheler places the deeper revaluation before judgement, and the one operational test, freedom to do otherwise, needs the option the adapted subject lacks; outsiders can detect adaptation and also misjudge it
+- [The Bereavement Void](/voids/bereavement-void/) — Why a death is usually believed at once and absorbed slowly, and why the grief that registered the loss fades while the loss stays the same: two faces (lag / lapse), the first bounded by early acceptance and the second by a contested resilience premise; framework-independent, and sensed presence is not evidence of survival
 
 ### Phenomenology of Limits
 
