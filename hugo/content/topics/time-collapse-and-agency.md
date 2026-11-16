@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-14 02:40:25+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-11-16 02:20:52+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[collapse-and-time]]'
@@ -19,14 +19,14 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[philosophy-of-time]]'
 created: 2026-01-16
-date: &id001 2026-11-14
+date: &id001 2026-11-16
 description: Free will, quantum collapse, and time's arrow interlink. If consciousness
   selects outcomes and collapse creates irreversibility, agency and time connect.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:55:23+00:00
-lastmod: 2026-11-14 02:40:25+00:00
+lastmod: 2026-11-16 02:20:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ For the temporal framework specifically, the Zeno mechanism strengthens the conn
 
 The framework offers three responses:
 
-**The regress problem.** If temporal phenomenology is illusory, the *seeming* to experience time must itself be explained. What is this seeming? Either it involves phenomenal properties (relocating rather than eliminating experience) or it doesn't (raising the question of how non-phenomenal seeming generates universal conviction about temporal flow). Raymond Tallis's observation applies: illusions presuppose experience. The illusion of time must unfold *in* time for some subject—which is exactly what the framework claims consciousness provides.
+**The regress problem.** If temporal phenomenology is illusory, the *seeming* to experience time must be explained: either it is phenomenal (relocating rather than eliminating experience) or it isn't. Raymond Tallis (2024) objects that "all illusions presuppose experience", assuming a phenomenal seeming that illusionists deny: for Frankish (2016), introspection typically misrepresents non-phenomenal physical properties as phenomenal. The Map objects instead that no metarepresentational mechanism yet explains the conviction of temporal flow.
 
 **The structural point.** Even if consciousness were "merely" an introspective representation, the question of how collapse introduces temporal asymmetry remains physical, independent of whether we correctly interpret our phenomenology. The framework adds that consciousness-involving collapse shapes the temporal structure of experience where it occurs. This is a claim about physics, not about the accuracy of phenomenal reports.
 
@@ -257,7 +257,7 @@ The escalation must be made carefully, because two distinct claims are in play. 
 1. Khan, S., Huang, Y., Timuçin, D., Bailey, S., Lee, S., Lopes, J., Gaunce, E., Mosberger, J., Zhan, M., Abdelrahman, B., Zeng, X., & Wiest, M. C. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Tallis, R. (2024). Tallis in Wonderland: The Illusion of Illusionism. *Philosophy Now*, 161, 58-59. https://philosophynow.org/issues/161/The_Illusion_of_Illusionism (full text)
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/

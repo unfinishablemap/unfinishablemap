@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T01:51:32+00:00
+ai_modified: 2026-11-16T02:20:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T02:20:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/aesthetics-and-consciousness]] (secondary: [[topics/time-collapse-and-agency]], [[concepts/philosophy-of-time]], [[concepts/stapp-quantum-mind]])
+- **Original score**: n/a (targeted calibration from the 2026-10-28 relocation-objection deep review and tenet check 2026-10-31 W8; `scripts/curate.py` absent)
+- **Review file**: [[reviews/deep-review-2026-10-28-the-relocation-objection]]; [[reviews/tenet-check-2026-10-31]] W8
+- **Changes**: all four hosts still ran the bare seeming-regress against illusionism without the illusionist reply. Each now reports Frankish's (2016) reply (the seeming is a non-phenomenal physical property that introspection misrepresents as phenomenal, so the regress alone assumes what illusionists deny) and re-aims the Map's objection at the missing metarepresentational mechanism, modelled on the live `neural-correlates-of-consciousness` paragraph. Aesthetics: regress kept as the opening move, the question-begging "(contradicting the evidence that aesthetic experiences differ qualitatively)" removed, Frankish quoted verbatim. Time-collapse and philosophy-of-time: Tallis kept and re-scoped as a quoted objection ("all illusions presuppose experience", 2024) that assumes a phenomenal seeming; the closing "illusion of time must unfold *in* time for some subject" sentence removed to fund the edit (it assumed the subject the illusionist denies). Stapp: bare regress replaced by the mechanism demand; the adept-reports sentence now says the reports fit either view.
+- **Source checks**: Frankish span "that introspection typically misrepresents as phenomenal" grep-verified in the author's eprint (pdftotext); Tallis "all illusions presuppose experience" grep-verified in the *Philosophy Now* 161 full text.
+- **References**: Frankish (2016) added to aesthetics and philosophy-of-time (entry copied from time-collapse-and-agency); Tallis (2011) *Aping Mankind* replaced by Tallis (2024) on time-collapse and philosophy-of-time (entry copied from neural-correlates-of-consciousness), since the quoted sentence is verified in the 2024 column and the 2011 book was cited nowhere else on either page.
+- **Engagement classification**: illusionism (Frankish) on all four hosts: Mode Two; the reply grants that the seeming may be non-phenomenal and asks for the mechanism the framework's own account of introspective misrepresentation requires. Tallis reported as his own objection, not enlisted.
+- **Word count** (analyze_length): aesthetics 3,542 -> 3,603 (topics hard 4,000); time-collapse 4,600 -> 4,600 (over gate, net zero); philosophy-of-time 3,447 -> 3,447 (concepts hard 3,500); stapp 3,989 -> 3,988 (over gate, net negative).
+- **Not done**: aesthetics' closing "the opposite of what illusionism predicts" (contemplative reports) left as is, outside the task; the Frankish eprint URL in the neural-correlates References entry now 404s for non-browser clients (file renamed upstream), not edited here.
+- **Published**: yes
 
 ## 2026-11-16T01:51:32+00:00 - refine-draft
 - **Status**: Success

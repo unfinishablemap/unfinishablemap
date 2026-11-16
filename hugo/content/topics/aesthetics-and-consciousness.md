@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-11-01 15:41:34+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-11-16 02:20:52+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/aesthetic-dimension-of-consciousness/
@@ -38,7 +38,7 @@ concepts:
 - '[[phenomenal-depth]]'
 - '[[mysterianism]]'
 created: 2026-01-22
-date: &id001 2026-03-17
+date: &id001 2026-11-16
 description: 'Aesthetic experience—simultaneously qualitative, evaluative, holistic,
   temporal, and meaning-laden—provides the strongest single test case for the irreducibility
   of consciousness. Its five arguments rest on three premises, not five independent
@@ -52,7 +52,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-14 07:50:09+00:00
-lastmod: 2026-11-01 15:41:34+00:00
+lastmod: 2026-11-16 02:20:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -148,7 +148,7 @@ Evolutionary aesthetics explains *why* certain things are found beautiful (fitne
 
 A later result from Zeki's group complicates the correlational picture in a way that cuts both ways. Kirk, Skov, Hulme, Christensen and Zeki (2009) showed the same artworks under randomly assigned labels—sourced from a gallery, or computer generated—and found aesthetic ratings significantly higher under the gallery label, the shift tracking activity in medial orbitofrontal and prefrontal cortex; the cortices recruited by aesthetic judgement, they conclude, "are significantly biased by subjects' prior expectations about the likely hedonic value of stimuli". Against the V4 story this means the neural signature of aesthetic value tracks the subject's expectations about the stimulus and not the stimulus alone, though an expectation-modulated orbitofrontal signal is no more transparently *experienced as* beautiful than a V4 one, so the gap is relocated rather than narrowed. Against the Map it is equally awkward: a bare provenance label moving what is experienced as beautiful makes first-hand acquaintance a less clean channel than [resistance to aesthetic deference](/topics/aesthetic-testimony-and-the-acquaintance-principle/) assumes, and points toward the reward-anticipation account named among the [challenges below](#what-would-challenge-this-view). It is a single fMRI study from the field's small-sample era, cited here without a replication check; it constrains the reduction debate rather than settling it.
 
-[Illusionism](/concepts/illusionism/) holds that nothing is *really* beautiful—only neural states that misrepresent themselves. The regress objection applies with particular force: for aesthetic experience to be illusory, something must *seem* beautiful, and that seeming either has phenomenal character (relocating rather than eliminating phenomenal properties) or has none (contradicting the evidence that aesthetic experiences differ qualitatively). Beauty is also functionally creative—it inspires art, guides scientific intuition, motivates philosophical inquiry—an asymmetry with other systematic representational errors that demands explanation. [Contemplative traditions](/apex/contemplative-path/) report that beauty intensifies rather than dissolves under sustained investigation, the opposite of what illusionism predicts.
+[Illusionism](/concepts/illusionism/) holds that nothing is *really* beautiful—only neural states that misrepresent themselves. The regress objection opens the reply: for aesthetic experience to be illusory, something must *seem* beautiful, and that seeming either has phenomenal character (relocating rather than eliminating phenomenal properties) or has none. Illusionists take the second option: Frankish's (2016) *quasi-phenomenal properties* are non-phenomenal physical properties "that introspection typically misrepresents as phenomenal", so the regress alone assumes what they deny. The Map objects instead that no metarepresentational mechanism yet explains why introspection should misrepresent these states as differing in aesthetic quality as finely as they seem to. Beauty is also functionally creative—it inspires art, guides scientific intuition, motivates philosophical inquiry—an asymmetry with other systematic representational errors that demands explanation. [Contemplative traditions](/apex/contemplative-path/) report that beauty intensifies rather than dissolves under sustained investigation, the opposite of what illusionism predicts.
 
 ## What Would Challenge This View?
 
@@ -196,6 +196,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 1. Byrne, A. & Hilbert, D. (2003). "Color Realism and Color Science." *Behavioral and Brain Sciences*, 26(1), 3–21.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Dewey, J. (1934). *Art as Experience*. Perigee Books.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Helmholtz, H. von (1863/1954). *On the Sensations of Tone*. Dover.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
 1. Kant, I. (1790). *Critique of Judgment*. Trans. J.H. Bernard.

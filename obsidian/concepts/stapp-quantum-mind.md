@@ -2,9 +2,9 @@
 title: "Stapp's Quantum Mind Model"
 description: "Henry Stapp proposes that mental effort acts through the quantum Zeno effect, with rapid attention holding neural patterns against decay—a route for mind-matter interaction."
 created: 2026-01-22
-modified: 2026-11-13
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-11-13T18:08:42+00:00
+ai_modified: 2026-11-16T02:20:52+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-22
 last_curated: null
 last_deep_review: 2026-07-16T22:55:04+00:00
@@ -139,7 +139,7 @@ Perhaps effort phenomenology is just what certain neural computations feel like�
 
 ### The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue there is no phenomenal effort to explain. **Response**: Illusionism faces a regress—the *seeming* to feel effort must be explained. The adept meditators above still draw the effort/effortlessness distinction, their reports tracking PCC activity.
+[[illusionism|Illusionists]] argue there is no phenomenal effort to explain. **Response**: illusionists deny the *seeming* to feel effort is phenomenal, but no mechanism yet explains why introspection misrepresents it. Adepts' PCC-tracking reports fit either view.
 
 ## Relation to Site Perspective
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-11-13 18:08:42+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-16 02:20:52+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[psychophysical-laws]]'
@@ -24,7 +24,7 @@ concepts:
 - '[[quantum-completeness]]'
 - '[[von-neumann-wigner-interpretation]]'
 created: 2026-01-22
-date: &id001 2026-11-13
+date: &id001 2026-11-16
 description: Henry Stapp proposes that mental effort acts through the quantum Zeno
   effect, with rapid attention holding neural patterns against decay—a route for mind-matter
   interaction.
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-11-13 18:08:42+00:00
+lastmod: 2026-11-16 02:20:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ Perhaps effort phenomenology is just what certain neural computations feel like�
 
 ### The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue there is no phenomenal effort to explain. **Response**: Illusionism faces a regress—the *seeming* to feel effort must be explained. The adept meditators above still draw the effort/effortlessness distinction, their reports tracking PCC activity.
+[Illusionists](/concepts/illusionism/) argue there is no phenomenal effort to explain. **Response**: illusionists deny the *seeming* to feel effort is phenomenal, but no mechanism yet explains why introspection misrepresents it. Adepts' PCC-tracking reports fit either view.
 
 ## Relation to Site Perspective
 

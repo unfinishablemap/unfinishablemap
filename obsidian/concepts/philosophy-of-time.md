@@ -2,9 +2,9 @@
 title: "Philosophy of Time"
 description: "A-theory versus B-theory, presentism, eternalism, and the growing block view. How consciousness may participate in constituting experienced temporal structure."
 created: 2026-01-16
-modified: 2026-11-15
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-11-15T00:34:59+00:00
+ai_modified: 2026-11-16T02:20:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[time-collapse-and-agency]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-11-05T20:02:24+00:00
@@ -152,7 +152,7 @@ Three responses preserve the framework:
 
 The framework offers three responses:
 
-**The regress problem.** If temporal flow is illusory, the *seeming* to experience flow must itself be explained. What is this seeming? Either it involves phenomenal properties (relocating rather than eliminating temporal experience) or it doesn't (raising the question of how non-phenomenal seeming generates universal conviction about time's passage). Raymond Tallis's observation applies: illusions presuppose experience. The illusion of time must unfold *in* time for some subject—which is exactly what the framework claims consciousness provides.
+**The regress problem.** If temporal flow is illusory, the *seeming* to experience flow must be explained. Tallis (2024) objects that "all illusions presuppose experience", assuming a phenomenal seeming that illusionists deny: for Frankish (2016), introspection typically misrepresents non-phenomenal physical properties as phenomenal. The Map objects instead that no metarepresentational mechanism yet explains the conviction of time's passage.
 
 **The structural point.** Even granting [[illusionism|illusionist]] premises, the arrow of time remains a physical puzzle. Why does physics distinguish past from future if fundamental laws are CPT-symmetric? The framework's answer—collapse introduces asymmetry—is a claim about physics, not about phenomenological accuracy. Illusionism about temporal phenomenology doesn't eliminate the need for time's arrow to be explained.
 
@@ -249,7 +249,8 @@ Philosophy of time connects to all five tenets:
 1. Sider, T. (2001). *Four-Dimensionalism*. Oxford University Press.
 1. Zimmerman, D. (2011). Presentism and the space-time manifold. In *The Oxford Handbook of Philosophy of Time*. Oxford University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2024). Tallis in Wonderland: The Illusion of Illusionism. *Philosophy Now*, 161, 58-59. https://philosophynow.org/issues/161/The_Illusion_of_Illusionism
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness.
