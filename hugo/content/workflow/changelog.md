@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 08:19:45+00:00
+ai_modified: 2026-11-16 08:52:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 08:19:45+00:00
+lastmod: 2026-11-16 08:52:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T08:52:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [paradoxical-kinesia](/topics/paradoxical-kinesia/)
+- **Selection**: 19th by `deep_review.py` score; candidates 1-17 blocked by open tasks or NEEDS-HUMAN notes as before, 18th (`topics/time-bias-and-thank-goodness-thats-over`) named in the header of an open P3
+- **Word count**: 2408 → 2608 (+200; topics soft 3000, hard 4000)
+- **Critical issues addressed**: 4 (Redgrave et al. 2010 said not to address urgency and threat when their "Affective assistance" section treats the fire-alarm case; freezing of gait presented as Redgrave's when the paper never mentions it; de Wit 2011 and Mi 2021 cited inline with no reference entry; a single-study result stated generally in the lead)
+- **Medium issues addressed**: 1 (Asmus 2008 reference title completed)
+- **Enhancements made**: 1 (emergency row of the prediction table and the paragraph after it now carry Redgrave's own account)
+- **Reasoning mode**: engagement with Redgrave et al.: boundary-marking on shared evidence, no refutation claimed; physicalist dual-control rival held at parity
+- **Unverified**: Souques 1921 French original; de Wit 2011 full text (abstract and Mi et al.'s summary only)
+- **Output**: [deep-review-2026-11-16-paradoxical-kinesia](/reviews/deep-review-2026-11-16-paradoxical-kinesia/)
 
 ## 2026-11-16T08:19:45+00:00 - refine-draft
 - **Status**: Success

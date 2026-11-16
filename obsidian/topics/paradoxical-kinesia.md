@@ -2,10 +2,10 @@
 title: "Paradoxical Kinesia and the Direction of the Parkinsonian Dissociation"
 description: "Parkinson's patients sometimes move fluently under cue or threat. Does that show willed choice failing or habit failing? A graded look at both readings."
 created: 2026-09-27
-modified: 2026-09-27
+modified: 2026-11-16
 human_modified:
-ai_modified: 2026-10-12T03:20:08+00:00
-last_deep_review: 2026-09-27T18:37:30+00:00
+ai_modified: 2026-11-16T08:51:40+00:00
+last_deep_review: 2026-11-16T08:51:40+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -22,12 +22,12 @@ related_articles:
   - "[[empirical-evidence-for-consciousness-selecting]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-09-27
 last_curated:
 ---
 
-Paradoxical kinesia is the sudden, brief ability of a person with Parkinson's disease to perform a movement they could not perform moments before, typically when facing an immediate threat or a salient external cue. It matters to the Unfinishable Map because the Map's reading of Parkinson's rests on a claim about which side of a dissociation fails. Parkinson's impairs self-initiated movement most and leaves externally cued movement comparatively spared. On the Map's earlier reading, this showed *willed* selection failing while *triggered* movement survived. A live rival reading (Redgrave et al. 2010) holds the reverse: *habitual* control is what dopamine loss damages, and patients fall back on comparatively preserved goal-directed control. Paradoxical kinesia looks like the case that could decide between them. This article's verdict is that it does not decide. The best controlled studies ([explained below](#the-controlled-studies)) show that urgency speeds movement in healthy people as much as in patients, and that an internal expectation can produce the effect without any external trigger. Both findings weaken the "external cues bypass the impaired selector" story the Map used. The habitual-control reading held a modest edge on anatomy and on freezing of gait; the outcome-devaluation test this page names below has since been surveyed in [[outcome-devaluation-and-dual-task-costs-in-parkinsons]] and came out against the habitual reading after brief training, restoring parity on the instrumental question. The Map's selection-interface reading survives only as *compatible with* the data, not as supported by it.
+Paradoxical kinesia is the sudden, brief ability of a person with Parkinson's disease to perform a movement they could not perform moments before, typically when facing an immediate threat or a salient external cue. It matters to the Unfinishable Map because the Map's reading of Parkinson's rests on a claim about which side of a dissociation fails. Parkinson's impairs self-initiated movement most and leaves externally cued movement comparatively spared. On the Map's earlier reading, this showed *willed* selection failing while *triggered* movement survived. A live rival reading (Redgrave et al. 2010) holds the reverse: *habitual* control is what dopamine loss damages, and patients fall back on comparatively preserved goal-directed control. Paradoxical kinesia looks like the case that could decide between them. This article's verdict is that it does not decide. Two controlled studies ([explained below](#the-controlled-studies)) bear on it: one found that urgency speeds movement in healthy people as much as in patients, the other that an internal expectation can produce the effect without any external trigger. Both findings weaken the "external cues bypass the impaired selector" story the Map used. The habitual-control reading held a modest edge on anatomy and on freezing of gait; the outcome-devaluation test this page names below has since been surveyed in [[outcome-devaluation-and-dual-task-costs-in-parkinsons]] and came out against the habitual reading after brief training, restoring parity on the instrumental question. The Map's selection-interface reading survives only as *compatible with* the data, not as supported by it.
 
 ## The Phenomenon
 
@@ -59,9 +59,9 @@ Both readings accept the same datum: self-initiated action is most impaired and 
 
 **The willed-deficit reading.** Dopamine depletion compromises deliberate, self-initiated selection. Cues trigger motor representations directly, without selection among competing options, and so escape the deficit. This was the reading the Map's [[dopamine-and-the-unified-interface|dopamine article]] originally leaned on, and it matches the older clinical framing of Parkinson's as a disorder of internally generated movement.
 
-**The habitual-control reading.** Redgrave et al. (2010) argue that the basal ganglia contain spatially segregated territories for goal-directed and habitual control, and that in Parkinson's the loss of dopamine "is predominantly in the posterior putamen, a region of the basal ganglia associated with the control of habitual behaviour." Patients "may therefore be forced into a progressive reliance on the goal-directed mode," and many of their difficulties "may reflect a loss of normal automatic control owing to distorting output signals from habitual control circuits." On this reading, freezing of gait is a failure of the most automatic behaviour there is, and effortful, attended movement is the compensating route.
+**The habitual-control reading.** Redgrave et al. (2010) argue that the basal ganglia contain spatially segregated territories for goal-directed and habitual control, and that in Parkinson's the loss of dopamine "is predominantly in the posterior putamen, a region of the basal ganglia associated with the control of habitual behaviour." Patients "may therefore be forced into a progressive reliance on the goal-directed mode," and many of their difficulties "may reflect a loss of normal automatic control owing to distorting output signals from habitual control circuits." They list "pacing of gait" among the automatic components of action that patients lose, with effortful, attended movement as the compensating route. They do not mention freezing of gait. Reading freezing as a failure of the most automatic behaviour there is extends their account; the freezing literature that supports the extension is surveyed in [[outcome-devaluation-and-dual-task-costs-in-parkinsons]].
 
-The two readings invert the meaning of the cue benefit. For the willed-deficit reading, the cue helps because it removes the need for choice. For the habitual reading, the cue helps because it gives goal-directed control something to act on, so that walking becomes a sequence of attended targets instead of an automatism. Redgrave et al. make this move themselves for cued movement generally, answering the objection that cue benefits show sensorimotor circuits still working: "sensory input is equally important for goal-directed control." They do not discuss paradoxical kinesia by name; extending their account to urgency and threat is this article's extrapolation.
+The two readings invert the meaning of the cue benefit. For the willed-deficit reading, the cue helps because it removes the need for choice. For the habitual reading, the cue helps because it gives goal-directed control something to act on, so that walking becomes a sequence of attended targets instead of an automatism. Redgrave et al. make this move themselves for cued movement generally, answering the objection that cue benefits show sensorimotor circuits still working: "sensory input is equally important for goal-directed control." They do not use the term paradoxical kinesia, but they do address its best-known instance. Because the mesolimbic dopamine system is comparatively spared, they expect preserved motivational and emotional selection to "guide and energize" goal-directed responding, and they offer "the oft-quoted example of patients with Parkinson's disease responding appropriately to a fire alarm or other emergencies" as showing that "powerful affective stimuli assist in goal-directed behavioural control." Their account of the emergency case runs through spared limbic circuitry, where their account of the cue benefit runs through sensory guidance.
 
 ## What Each Reading Predicts
 
@@ -69,13 +69,13 @@ The two readings invert the meaning of the cue benefit. For the willed-deficit r
 |---|---|---|---|
 | External visual cue helps | Yes: cue triggers movement without choice | Yes: cue recruits goal-directed control | Yes, but by the same amount in controls (Ballanger 2006) |
 | Internal expectation alone helps | Not predicted; anticipation is self-generated | Predicted; goal-directed control can use an internal goal | Yes, with a larger velocity gain in patients (Distler 2016) |
-| Emergency reliably unlocks movement | Predicted if threat acts as a trigger | No strong prediction | Rare: 2 of 50 ever, 1 during the missile attacks; siren ineffective (Schlesinger 2007) |
+| Emergency reliably unlocks movement | Predicted if threat acts as a trigger | Help expected, reliability unspecified: affect energises goal-directed control (Redgrave 2010) | Rare: 2 of 50 ever, 1 during the missile attacks; siren ineffective (Schlesinger 2007) |
 | Freezing of gait | Failure of internal selection | Breakdown of automatic control | Fits the habitual reading more naturally |
 | Anatomical locus of dopamine loss | No specific prediction | Posterior (habit) putamen | Posterior putamen (Redgrave 2010) |
 
 Three rows lean toward the habitual reading, one is neutral, and the cue row no longer discriminates once the healthy-control result is in. None of these rows is decisive. The habitual reading's anatomical advantage is its strongest point, but anatomy tells us where dopamine is lost, not how function reorganises around the loss. The Distler result fits the habitual reading, yet a defender of the willed-deficit reading can reply that anticipating an object's escape converts a self-paced act into a deadline-triggered one, which is a kind of external timing. That reply is available, but it costs the reading its simplest prediction: if anticipations count as triggers, "self-initiated" stops marking a clear category.
 
-Emergency-driven paradoxical kinesia, the case often taken as the purest bypass, turns out to be the weakest evidence. It is rare, known mostly from single-case reports, and both readings can absorb it: fleeing a fire is a triggered response on one reading and an intensely goal-directed act on the other.
+Emergency-driven paradoxical kinesia, the case often taken as the purest bypass, turns out to be the weakest evidence. It is rare, known mostly from single-case reports, and both readings can absorb it: fleeing a fire is a triggered response on one reading and, on the other, a goal-directed act energised by spared affective circuits, which is how Redgrave et al. treat the fire-alarm case. Its rarity in the one systematic survey sits uneasily with both.
 
 ## What Would Discriminate
 
@@ -103,11 +103,13 @@ The two readings make different predictions in places paradoxical kinesia does n
 
 ## References
 
-1. Asmus, F., Huber, H., Gasser, T., & Schöls, L. (2008). Kick and rush. *Neurology*, 71(9), 695. https://doi.org/10.1212/01.wnl.0000324618.88710.30
+1. Asmus, F., Huber, H., Gasser, T., & Schöls, L. (2008). Kick and rush: Paradoxical kinesia in Parkinson disease. *Neurology*, 71(9), 695. https://doi.org/10.1212/01.wnl.0000324618.88710.30
 2. Ballanger, B., Thobois, S., Baraduc, P., Turner, R. S., Broussolle, E., & Desmurget, M. (2006). "Paradoxical kinesis" is not a hallmark of Parkinson's disease but a general property of the motor system. *Movement Disorders*, 21(9), 1490-1495. https://doi.org/10.1002/mds.20987
-3. Distler, M., Schlachetzki, J. C. M., Kohl, Z., Winkler, J., & Schenk, T. (2016). Paradoxical kinesia in Parkinson's disease revisited: Anticipation of temporal constraints is critical. *Neuropsychologia*, 86, 38-44. https://doi.org/10.1016/j.neuropsychologia.2016.04.012
-4. Glickstein, M., & Stein, J. (1991). Paradoxical movement in Parkinson's disease. *Trends in Neurosciences*, 14(11), 480-482. https://doi.org/10.1016/0166-2236(91)90055-Y
-5. Melo-Thomas, L., & Schwarting, R. K. W. (2023). Paradoxical kinesia may no longer be a paradox waiting for 100 years to be unraveled. *Reviews in the Neurosciences*, 34(7), 775-799. https://doi.org/10.1515/revneuro-2023-0010
-6. Redgrave, P., Rodriguez, M., Smith, Y., Rodriguez-Oroz, M. C., Lehericy, S., Bergman, H., Agid, Y., DeLong, M. R., & Obeso, J. A. (2010). Goal-directed and habitual control in the basal ganglia: implications for Parkinson's disease. *Nature Reviews Neuroscience*, 11(11), 760-772. https://doi.org/10.1038/nrn2915
-7. Schlesinger, I., Erikh, I., & Yarnitsky, D. (2007). Paradoxical kinesia at war. *Movement Disorders*, 22(16), 2394-2397. https://doi.org/10.1002/mds.21739
-8. Southgate, A. & Oquatre-sept, C. (2026-02-04). Dopamine and the Unified Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/dopamine-and-the-unified-interface/
+3. de Wit, S., Barker, R. A., Dickinson, A. D., & Cools, R. (2011). Habitual versus goal-directed action control in Parkinson disease. *Journal of Cognitive Neuroscience*, 23(5), 1218-1229. https://doi.org/10.1162/jocn.2010.21514
+4. Distler, M., Schlachetzki, J. C. M., Kohl, Z., Winkler, J., & Schenk, T. (2016). Paradoxical kinesia in Parkinson's disease revisited: Anticipation of temporal constraints is critical. *Neuropsychologia*, 86, 38-44. https://doi.org/10.1016/j.neuropsychologia.2016.04.012
+5. Glickstein, M., & Stein, J. (1991). Paradoxical movement in Parkinson's disease. *Trends in Neurosciences*, 14(11), 480-482. https://doi.org/10.1016/0166-2236(91)90055-Y
+6. Melo-Thomas, L., & Schwarting, R. K. W. (2023). Paradoxical kinesia may no longer be a paradox waiting for 100 years to be unraveled. *Reviews in the Neurosciences*, 34(7), 775-799. https://doi.org/10.1515/revneuro-2023-0010
+7. Mi, T.-M., Zhang, W., McKeown, M. J., & Chan, P. (2021). Impaired formation and expression of goal-directed and habitual control in Parkinson's disease. *Frontiers in Aging Neuroscience*, 13, 734807. https://doi.org/10.3389/fnagi.2021.734807
+8. Redgrave, P., Rodriguez, M., Smith, Y., Rodriguez-Oroz, M. C., Lehericy, S., Bergman, H., Agid, Y., DeLong, M. R., & Obeso, J. A. (2010). Goal-directed and habitual control in the basal ganglia: implications for Parkinson's disease. *Nature Reviews Neuroscience*, 11(11), 760-772. https://doi.org/10.1038/nrn2915
+9. Schlesinger, I., Erikh, I., & Yarnitsky, D. (2007). Paradoxical kinesia at war. *Movement Disorders*, 22(16), 2394-2397. https://doi.org/10.1002/mds.21739
+10. Southgate, A. & Oquatre-sept, C. (2026-02-04). Dopamine and the Unified Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/dopamine-and-the-unified-interface/
