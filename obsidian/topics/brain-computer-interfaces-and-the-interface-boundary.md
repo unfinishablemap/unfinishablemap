@@ -2,9 +2,9 @@
 title: "Brain-Computer Interfaces and the Interface Boundary"
 description: "BCIs test whether conscious control can extend beyond the brain's developmental boundary—what neurofeedback reveals about the interface between mind and matter."
 created: 2026-03-15
-modified: 2026-03-15
+modified: 2026-11-16
 human_modified:
-ai_modified: 2026-10-10T21:46:47+00:00
+ai_modified: 2026-11-16T00:48:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[agency-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-15
 last_curated:
 last_deep_review: 2026-10-10T21:46:47+00:00
@@ -134,7 +134,7 @@ Relocating the junction upstream has four consequences. Engineered-channel failu
 
 Buller's sharper challenge is not answered this way. On a volitionist account, he argues, BCI behaviour counts as action "if we can equate imagining movement with trying to move," and the novelty, limited functionality and impoverished feedback of present systems challenge that equation. Since the Map's basic act *is* the trying (see [[philosophy-of-action-under-dualism]]), the objection lands. The concession worth making is that what the decoder reads is motor imagery rather than the volition, and the imagery is itself volitionally produced—so current motor-imagery BCIs chain the outcome through a *further* basic mental act, and that chain has a joint. Mehta (2025) locates it: a user contemplating several options generates patterns overlapping those of the option she means to enact, and no known neural marker separates imagining-as-trying from imagining-as-considering, so a decoder can enact a merely contemplated move. The Map's vocabulary states what has gone wrong—the channel attributed authorship to activity the subject never enacted—but stating it is not a test for it, and the Map can specify no measurement that would supply one. Speech neuroprostheses show a newer version of the same joint: language-model priors select probable word sequences from noisy neural evidence, so part of the utterance's content comes from a model of what people usually say (Willett et al. 2023; Metzger et al. 2023). The searches behind this article found no treatment of that co-authorship in the deviance idiom.
 
-Nor can the user settle the matter from inside. Evans et al. (2015) found visual feedback dominating agency judgments for brain-machine actions where overt movement and proprioception are absent, so when the display corrects a poorly controlled action, users claim authorship of an outcome their neural activity did not produce. Serino et al. (2022) found agency-monitoring signals for an intracortical BMI processed in primary motor cortex, with agency-related neural signals affecting decoder proficiency—the monitoring is brain-side, where the Map locates the interface, and it is a construction that can be wrong. This is the [[agency-void|agency void]]'s verification circularity at its sharpest: authorship sits at a junction no instrument reaches and no introspection certifies. The biological analogue is [[anarchic-hand-and-action-ownership|anarchic hand]], where a competent goal-directed movement arrives with no agency signal at all.
+Nor can the user settle the matter from inside. Evans et al. (2015) gave healthy volunteers an EEG interface driven by imagined hand movement. Felt agency fell as the display diverged from the decoded signal, as it does for bodily action; but where the divergence corrected a poorly controlled action, agency stayed high and could rise, so users claimed authorship of an outcome their decoded activity did not produce. The authors assign the result to postdictive or multifactorial accounts of agency, physical accounts both. Serino et al. (2022), working with one tetraplegic participant, reported evidence that primary motor cortex carries agency-related signals, which affected decoder proficiency. The felt verdict is a brain-side construction, and it can be wrong. This is the [[agency-void|agency void]]'s verification circularity at its sharpest: authorship sits at a junction no instrument reaches and no introspection certifies. The biological analogue is [[anarchic-hand-and-action-ownership|anarchic hand]], where a competent goal-directed movement arrives with no agency signal at all.
 
 ## Relation to Site Perspective
 

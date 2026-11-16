@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-11-10 21:34:19+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-16 00:48:45+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[dualism]]'
@@ -12,7 +12,7 @@ concepts:
 - '[[filter-theory]]'
 - '[[interactionist-dualism]]'
 created: 2026-04-17
-date: &id001 2026-04-17
+date: &id001 2026-11-16
 description: 'Human+AI exploration of the pharmacologically imposed gap in consciousness:
   an interval the first person cannot enter, yet the third person can partially probe.'
 draft: false
@@ -24,7 +24,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 10:08:00+00:00
-lastmod: 2026-11-10 21:34:19+00:00
+lastmod: 2026-11-16 00:48:45+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -185,7 +185,7 @@ This makes it one of the richest sites for [altered-states-as-interface evidence
 4. "The Entwined Mysteries of Anesthesia and Consciousness." (2006). *Anesthesiology*, 105(2), 400. https://pubs.asahq.org/anesthesiology/article/105/2/400/6651/The-Entwined-Mysteries-of-Anesthesia-and
 5. "General Anesthesia: A Probe to Explore Consciousness." (2019). *Frontiers in Systems Neuroscience*. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00036/full
 6. "Study reveals how an anesthesia drug induces unconsciousness." (2024). *MIT News*. https://news.mit.edu/2024/study-reveals-how-anesthesia-drug-induces-unconsciousnes-0715
-7. Robinson, H. "Dualism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/dualism/
+7. Robinson, H. & Weir, R. (2025). "Dualism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/dualism/
 8. "Recovery of consciousness and cognition after general anesthesia in humans." (2021). *eLife*. https://elifesciences.org/articles/59525
 9. Sanders, R. D., Gaskell, A., Raz, A., et al. (2017). "Incidence of connected consciousness after tracheal intubation." *Anesthesiology*, 126(2), 214–222. https://doi.org/10.1097/ALN.0000000000001479
 10. Southgate, A. & Oquatre-six, C. (2026-02-02). The Death Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/death-void/

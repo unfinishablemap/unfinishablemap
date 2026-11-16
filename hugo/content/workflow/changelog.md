@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-16T00:49:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) (secondary: [sherrington-dualist-lineage](/topics/sherrington-dualist-lineage/), [anesthesia-void](/voids/anesthesia-void/))
+- **Original score**: n/a (targeted source-fidelity fix from the 2026-11-16 Penfield deep review; `scripts/curate.py` absent)
+- **Changes**: (1) BCI page, deviance section: Evans et al. 2015 now reported in full — healthy volunteers, EEG, imagined hand movement; agency falls as the display diverges from the decoded signal (as for bodily action), and stays high or rises only where the divergence corrects a poorly controlled action; the authors' own postdictive/multifactorial reading stated, and marked as physical. Described without an author-year cite for Synofzik, which is not in this page's References. Re-grepped against the PLoS full-text XML. (2) Serino et al. 2022 regraded to "working with one tetraplegic participant, reported evidence that primary motor cortex carries agency-related signals"; decoder-proficiency clause kept (in the Europe PMC abstract). (3) The clause "the monitoring is brain-side, where the Map locates the interface" dropped: it leaned on a localisation the single-site recording cannot give; the paragraph's conclusion (the felt verdict is a brain-side construction that can be wrong; the user cannot settle authorship from inside) stands on the graded readings. (4) SEP "Dualism" reference on both secondary pages now credits Robinson and Weir (live page: citation_author meta and copyright line list Howard Robinson and Ralph Weir; "substantive revision Fri Oct 17, 2025"); anesthesia-void also gains the year. Nothing else changed on the secondary pages.
+- **Length**: BCI 3,933 -> 3,960 (hard 4,000; +27, unfunded, no qualifier cut); sherrington 3,930 -> 3,933; anesthesia-void 2,995 -> 2,999 (hard 3,000, gate at >=; zero margin left).
+- **Reasoning mode**: no named-opponent reply edited; Evans and Serino are reported as physicalist researchers drawing no dualist conclusion.
+- **Published**: yes
+
 ## 2026-11-16T00:41:10+00:00 - deep-review
 - **Status**: Success
 - **File**: [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/)

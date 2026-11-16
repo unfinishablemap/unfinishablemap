@@ -2,9 +2,9 @@
 title: "Sherrington's Man on His Nature and the Neuroscientist-Dualist Lineage"
 description: "A human-AI study of Sherrington's Man on His Nature and the Sherrington–Penfield–Eccles lineage: its agnostic pole, clinical middle, and quantum terminus."
 created: 2026-09-02
-modified: 2026-10-28
+modified: 2026-11-16
 human_modified:
-ai_modified: 2026-11-15T03:38:01+00:00
+ai_modified: 2026-11-16T00:48:45+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high 2026-09-02 vs interactionist-dualism (hedge_density, underdetermination_markers); comment re-checked 2026-10-12 after the agnostic-pole section was corrected against the 1940 scan. Counted hedges are mostly verbatim Sherrington ("seems", "would seem", "it may be" sit inside quotations whose hedges are part of the claim) or provenance facts ("neither appears in the 1940 text"). The article calibrates structurally: agnostic-pole verdict discipline (dualism scoped "with no reference to reality"; contact held as a hedged working assumption, mechanism and theology refused), the explicit what-does-correlation-license question, "a question the evidence leaves open", per-quote carrier attribution, two access caveats, and a dedicated anti-authority section. Hedge-padding would degrade verified historical prose.
 topics:
@@ -18,7 +18,7 @@ related_articles:
   - "[[the-interface-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-09-02
 last_curated:
 last_deep_review: 2026-10-12T07:46:33+00:00
@@ -117,7 +117,7 @@ Quotation provenance note: quotations from the 1940 edition of *Man on His Natur
 1. Laslett, P. (Ed.). (1950). *The Physical Basis of Mind: A Symposium*. Oxford: Basil Blackwell. Sherrington's introductory talk, pp. 1–4 (recorded 29 December 1948, broadcast 11 May 1949); Samuel quotes the 1933 sentence at p. 69 (Google Books search-within-volume, control-checked).
 1. Ritchie, A. D. (1941). Review of *Man on His Nature*. *Nature*, 147, 127–129. https://www.nature.com/articles/147127a0
 1. Lillie, R. S. (1927). "Physical Indeterminism and Vital Action." *Science*, 66(1702), 139–144. doi:10.1126/science.66.1702.139 (Not read; cited by Compton, *The Freedom of Man*, p. 50.)
-1. Robinson, H. (2003; substantive revision 2025). "Dualism." *Stanford Encyclopedia of Philosophy*, §2.4. https://plato.stanford.edu/entries/dualism/
+1. Robinson, H., & Weir, R. (2003; substantive revision 2025). "Dualism." *Stanford Encyclopedia of Philosophy*, §2.4. https://plato.stanford.edu/entries/dualism/
 1. Eccles, J. C. (1953). *The Neurophysiological Basis of Mind: The Principles of Neurophysiology*. Clarendon Press. (The Waynflete Lectures.)
 1. Eccles, J. C. (1973). *The Understanding of the Brain*. McGraw-Hill. (The Patten Foundation Lectures, Indiana University, 1972.) Ch. 6 "Brain, Speech, and Consciousness," p. 189 for the trialist passage — verified in the Google-digitised McGraw-Hill first edition (ISBN 0-07-018863-7; OCLC 554130).
 1. Penfield, W. (1975). *The Mystery of the Mind: A Critical Study of Consciousness and the Human Brain*. Princeton University Press.
