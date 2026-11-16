@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-09-17 16:39:34+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_modified: 2026-11-16 15:50:51+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/consciousness-and-memory/
@@ -27,7 +27,7 @@ concepts:
 - '[[phenomenal-contrast-method]]'
 - '[[semanticisation]]'
 created: 2026-02-08
-date: &id001 2026-03-18
+date: &id001 2026-11-16
 description: Memory is not storage but structured re-experiencing—and the hierarchy
   of memory systems maps directly onto levels of consciousness, with sleep consolidation
   revealing where the mind-brain interface disengages.
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-06 21:46:03+00:00
-lastmod: 2026-09-17 16:39:34+00:00
+lastmod: 2026-11-16 15:50:51+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'
@@ -65,7 +65,7 @@ The Unfinishable Map treats memory not as a filing system but as consciousness o
 
 ## The Tulving Hierarchy as Consciousness Map
 
-Tulving's taxonomy of memory systems is, at its core, a taxonomy of conscious modes. Each memory type does not merely *correlate with* a form of awareness—it *constitutes* one.
+Tulving's taxonomy of memory systems is, at its core, a taxonomy of conscious modes. On the Map's reading, each memory type does not merely *correlate with* a form of awareness—it *constitutes* one.
 
 **[Anoetic consciousness](/concepts/implicit-memory/)** accompanies procedural and implicit memory. A skilled pianist does not reflect on finger placement; the body acts with phenomenal fluency that resists articulation. There is something it is like to perform a practised skill—a qualitative smoothness, a felt ease—even without reflective awareness of the process. The Dreyfus model of skill acquisition traces how consciousness withdraws from explicit rule-following as expertise develops, settling into a mode that is unreflective but not absent.
 
@@ -101,13 +101,13 @@ If consciousness were epiphenomenal, this distinction would be inexplicable. Why
 
 ### Choking as Causal Evidence
 
-The most striking evidence for consciousness's causal role comes from its *interference* with automatised skills. When experts consciously attend to procedures that have become automatic—a phenomenon called "reinvestment"—performance degrades. A golfer who thinks about their swing hits worse.
+The most striking evidence for consciousness's causal role comes from its *interference* with automatised skills. When experts consciously attend to procedures that have become automatic—"reinvestment" in Masters' (1992) theory—performance degrades. A golfer who thinks about their swing hits worse.
 
 The materialist can reframe this as neural competition—prefrontal explicit-monitoring networks interfering with basal ganglia automaticity—without invoking non-physical causation. But this redescription does not dissolve the puzzle: it is the *conscious* character of the monitoring that makes it disruptive. Unconscious priming of the same motor sequences does not produce choking. If consciousness were epiphenomenal, attending to an automatic skill could not affect its execution—the case the Map examines in detail in [the choking phenomenon](/topics/empirical-phenomena-mental-causation/).
 
 ## Why Consciousness Must Withdraw for Consolidation
 
-The standard explanation for why consolidation occurs during sleep invokes neural resource competition: the brain cannot simultaneously process external input and reorganise internal representations. True—but it misses the deeper puzzle. Consolidation does not merely require reduced sensory input—it appears to require reduced *consciousness*. Meta-analytic evidence on targeted memory reactivation (TMR) finds that cueing memory during sleep enhances consolidation specifically during NREM stages, with no statistically reliable benefit during REM sleep or wakefulness—though Hu and colleagues caution against generalising from the few REM and wake experiments their analysis included (Hu et al. 2020). Cellini and Capuozzo's (2018) review reaches the same stage-dependent conclusion.
+The standard explanation for why consolidation occurs during sleep invokes neural resource competition: the brain cannot simultaneously process external input and reorganise internal representations. True—but it misses the deeper puzzle. Sleep consolidation does not merely require reduced sensory input—it appears to require reduced *consciousness*. Meta-analytic evidence on targeted memory reactivation (TMR) finds that cueing memory during sleep enhances consolidation specifically during NREM stages, with no statistically reliable benefit during REM sleep or wakefulness—though Hu and colleagues caution against generalising from the few REM and wake experiments their analysis included (Hu et al. 2020). Cellini and Capuozzo's (2018) review reaches the same stage-dependent conclusion. The requirement is not general: in older adults, ten minutes of wakeful rest after learning improved recall a week later (Dewar et al. 2012), so consolidation may need release from further tasks rather than absence of experience.
 
 The Map's [interface hypothesis](/concepts/attention-as-interface/) offers an explanation. If consciousness engages with the brain through attention-mediated selection, this selection mechanism imposes a serial bottleneck. Waking consciousness processes approximately one thing at a time, choosing what to attend to and thereby collapsing alternatives. Memory consolidation requires the opposite: parallel processing across many memory traces without selective collapse. On this reading the consciousness channel may disengage not because its resources are needed elsewhere, but because its mode of operation—serial selection—appears incompatible with the parallel integration consolidation requires.
 
@@ -139,7 +139,7 @@ A memory's phenomenal character changes through consolidation along a distinctiv
 
 **Months to years**: Recall produces gist rather than texture. The [autonoetic quality](/concepts/anoetic-noetic-autonoetic-consciousness/) diminishes—the memory feels more like knowing than reliving. Emotional tone persists but in a transformed register. Specific sensory details survive only through rehearsal or strong emotional charge.
 
-**Decades**: For most memories, schematisation is nearly complete. The event has become a semantic fact: "I attended that school," "We lived in that house." Proustian moments—involuntary recalls triggered by sensory cues—can temporarily restore vivid detail, suggesting that some hippocampal traces persist but are not normally accessed. The trajectory's endpoint is childhood amnesia—the universal inability to retrieve episodic memories from before age three to four; the [infant consciousness void](/voids/infant-consciousness/) reveals this as architectural destruction rather than mere forgetting: immature hippocampal circuits are physically remodelled, and without an autonoetic self-concept, infant memories were never stored in formats the adult retrieval system can access.
+**Decades**: For most memories, schematisation is nearly complete. The event has become a semantic fact: "I attended that school," "We lived in that house." Proustian moments—involuntary recalls triggered by sensory cues—can temporarily restore vivid detail, suggesting that some hippocampal traces persist [but are not normally accessed](/concepts/semanticisation/#the-third-reading-fading-as-loss-of-access). The trajectory's endpoint is childhood amnesia—the universal inability to retrieve episodic memories from before age three to four; the [infant consciousness void](/voids/infant-consciousness/) examines the barrier, which may be one of later access rather than encoding: from around one year of age, infants' hippocampal activity at encoding relates to their later memory (Yates et al. 2025).
 
 The staging describes the phenomenology; the time course beneath it is not a smooth decay. Tracking autobiographical memories longitudinally with fMRI, Barry, Chadwick and Maguire (2018) found ventromedial prefrontal recruitment rising and falling around a peak at eight to twelve months before re-engaging for two- and five-year-old memories—nonmonotonicity replicated across independent memory sets. The longest behavioural test–retest series concurs: memory for the 11 September attacks faded rapidly for a year, then levelled off, essentially unchanged out to ten years (Hirst et al. 2015). The transformation itself—[semanticisation](/concepts/semanticisation/)—has its own article, weighing this evidence and the access reading of fading.
 
@@ -183,7 +183,7 @@ Proustian moments test this boundary. Do they genuinely access past qualia, or d
 
 Memory bears unevenly on the commitments, and the cases below [share one reading rather than confirming it independently](/positions/methodology-and-calibration/#p-m2).
 
-**[Dualism](/tenets/#dualism)**'s explanandum is [sharpened rather than evidenced](/positions/methodology-and-calibration/#p-m1) by the encoding-consolidation dissociation, the irreducible phenomenology that distinguishes each memory system, and the phenomenological trajectory of consolidation. Both encoding and consolidation involve binding operations—yet consciousness is present during encoding and absent during consolidation. Neuromodulatory differences between the states relocate rather than resolve the question: why should acetylcholine levels determine the presence or absence of experience? The systematic transformation from vivid reliving to bare knowing tracks hippocampal engagement rather than information content—a dissociation the interface reading accommodates rather than predicts.
+**[Dualism](/tenets/#dualism)**'s explanandum is [sharpened rather than evidenced](/positions/methodology-and-calibration/#p-m1) by the encoding-consolidation dissociation, the irreducible phenomenology that distinguishes each memory system, and the phenomenological trajectory of consolidation. Both encoding and consolidation involve binding operations—yet consciousness is present during encoding and absent during sleep consolidation. Neuromodulatory differences between the states relocate rather than resolve the question: why should acetylcholine levels determine the presence or absence of experience? The systematic transformation from vivid reliving to bare knowing tracks hippocampal engagement rather than information content—a dissociation the interface reading accommodates rather than predicts.
 
 **[Bidirectional interaction](/tenets/#bidirectional-interaction)** is what the manipulation-maintenance asymmetry, the choking phenomenon, attention's gating role in encoding, and reconsolidation argue for. Consciousness participates selectively—required for encoding and manipulation, unnecessary for storage and consolidation, capable of disrupting automatised procedures. In reconsolidation, when conscious retrieval destabilises the trace, it is reshaped according to the subject's present concerns and self-understanding.
 
@@ -208,11 +208,11 @@ Memory bears unevenly on the commitments, and the cases below [share one reading
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
-- [curated-mind](/topics/curated-mind/) — The brain's asymmetric curation of memory for consciousness, including confabulation and anosognosia
+- [curated-mind](/topics/curated-mind/) — The brain's asymmetric curation of memory for consciousness
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
-- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — The Tulving hierarchy applied as diagnostic tool for AI consciousness, alongside six categories of phenomenality
-- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as the perspectival anchor autonoetic consciousness extends across time
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — The Tulving hierarchy as an AI-consciousness diagnostic
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
 - [personal-identity](/topics/personal-identity/)
 - [choking phenomenon](/topics/empirical-phenomena-mental-causation/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
@@ -224,26 +224,25 @@ Memory bears unevenly on the commitments, and the cases below [share one reading
 - [capability-division-problem](/voids/capability-division-problem/)
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
-- [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/) — The method that reveals consolidation's qualitative shifts
-- [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia as source-monitoring failures revealing the gap between phenomenal certainty and underlying machinery
-- [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/) — Forgetting as an active, controllable process, and volitional suppression as a candidate case of consciousness reshaping a memory trace
+- [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/)
+- [memory-anomalies](/topics/memory-anomalies/)
+- [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/) — Volitional suppression as a candidate case of consciousness reshaping a memory trace
 
 ## References
 
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
 1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417–423.
-1. Wheeler, M. A., Stuss, D. T., & Tulving, E. (1997). Toward a theory of episodic memory. *Psychological Bulletin*, 121(3), 331–354.
 1. Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367–383.
 1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance. *Journal of Experimental Psychology: General*, 130(4), 701–725.
+1. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343–358.
 1. Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773–786.
 1. Stokes, M. G. (2015). 'Activity-silent' working memory in prefrontal cortex. *Trends in Cognitive Sciences*, 19(10), 590–594.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Geva-Sagiv, M. et al. (2023). Augmenting hippocampal–prefrontal neuronal synchrony during sleep enhances memory consolidation in humans. *Nature Neuroscience*, 26(6), 1100–1110.
 1. Hu, X. et al. (2020). Promoting memory consolidation during sleep: A meta-analysis of targeted memory reactivation. *Psychological Bulletin*, 146(3), 218–244.
 1. Cellini, N. & Capuozzo, A. (2018). Shaping memory consolidation via targeted memory reactivation during sleep. *Annals of the New York Academy of Sciences*, 1426(1), 52–71.
-1. Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12–34.
+1. Dewar, M. et al. (2012). Brief wakeful resting boosts new memories over the long term. *Psychological Science*, 23(9), 955–960.
 1. Diekelmann, S. & Born, J. (2010). The memory function of sleep. *Nature Reviews Neuroscience*, 11(2), 114–126.
-1. Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872–878.
 1. Buzsáki, G. (2015). Hippocampal sharp wave-ripple: A cognitive biomarker for episodic memory and planning. *Hippocampus*, 25(10), 1073–1188.
 1. Frankland, P. W. & Bontempi, B. (2005). The organization of recent and remote memories. *Nature Reviews Neuroscience*, 6(2), 119–130.
 1. Nadel, L. & Moscovitch, M. (1997). Memory consolidation, retrograde amnesia and the hippocampal complex. *Current Opinion in Neurobiology*, 7(2), 217–227.
@@ -253,3 +252,4 @@ Memory bears unevenly on the commitments, and the cases below [share one reading
 1. McClelland, J. L., McNaughton, B. L. & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex. *Psychological Review*, 102(3), 419–457.
 1. Barry, D. N., Chadwick, M. J. & Maguire, E. A. (2018). Nonmonotonic recruitment of ventromedial prefrontal cortex during remote memory recall. *PLoS Biology*, 16(7), e2005479.
 1. Hirst, W. et al. (2015). A ten-year follow-up of a study of memory for the attack of September 11, 2001. *Journal of Experimental Psychology: General*, 144(3), 604–623.
+1. Yates, T. S. et al. (2025). Hippocampal encoding of memories in human infants. *Science*, 387(6740), 1316–1320.

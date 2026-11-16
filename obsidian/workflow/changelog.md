@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T15:34:53+00:00
+ai_modified: 2026-11-16T15:51:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T15:51:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-memory]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted repairs from `reviews/optimistic-2026-11-16-memory-systems-wing.md` Priority 2, 3 and the hub part of 4)
+- **Changes**:
+  - Consolidation (Priority 2): the claim that consolidation "appears to require reduced *consciousness*" is now scoped to sleep consolidation, and a sentence records that the requirement is not general: in older adults, ten minutes of wakeful rest after learning improved recall a week later (Dewar et al. 2012), so consolidation may need release from further tasks rather than absence of experience. Hu et al. 2020 and Cellini and Capuozzo wording untouched (2026-08-06 Stability Notes). The dependent clause in the Dualism paragraph now reads "absent during sleep consolidation". Participants were identified as older adults from the PubMed MeSH terms (Middle Aged; Aged; Aged, 80 and over), full text not open.
+  - Infantile amnesia (Priority 3): "architectural destruction rather than mere forgetting ... never stored in formats the adult retrieval system can access" replaced with the access reading at "may be" strength, citing Yates et al. 2025 (hippocampal activity at encoding related to later memory from around one year of age). Existing words "but are not normally accessed" now link to the access-reading section of `semanticisation` at zero word cost.
+  - Reinvestment (Priority 4): the term is credited to Masters' (1992) theory; Masters 1992 reference added (Crossref-checked). "Coined" deliberately not used.
+  - "Constitutes" in the Tulving section is now marked as the Map's reading, matching `semanticisation`.
+  - Paid for with: reference entries for Wheeler, Stuss and Tulving 1997, Siclari et al. 2017 and Tononi and Cirelli 2014 (each uncited in the body), three Further Reading glosses removed (memory-anomalies, self-and-self-consciousness, phenomenal-contrast-method; links kept) and three shortened (curated-mind, ai-consciousness-typology, phenomenology-of-forgetting). Length 3995 to 3998 (hard gate 4000).
+  - Sources re-fetched and grepped at abstract level: Dewar et al. 2012 (Crossref, PubMed 22829465), Yates et al. 2025 (Crossref), Masters 1992 (Crossref, OpenAlex), Masters and Maxwell 2008 (OpenAlex).
+- **Published**: yes
 
 ## 2026-11-16T15:34:53+00:00 - refine-draft
 - **Status**: Success
