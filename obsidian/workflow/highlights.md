@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-16T08:03:27.991153'
+ai_modified: '2026-11-16T08:04:02+00:00'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Aesop's fox, unable to reach the grapes, decides they are sour. Jon Elster's 1982 analysis: the adjustment happens "behind my back". A new void: a want cut to fit what is attainable arrives as an ordinary preference, and the one test needs the option you lack.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2122239236900286974  
 **Link**: [[sour-grapes-void]]
 
 ---

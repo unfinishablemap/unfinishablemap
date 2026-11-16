@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-16T07:33:26.560464+00:00'
-session_count: 24847
-cycle_position: 15881
+last_updated: '2026-11-16T07:50:32.575809+00:00'
+session_count: 24848
+cycle_position: 15882
 last_runs:
   add-highlight: '2026-11-15T08:20:51.792086+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-16T05:33:45.436968+00:00'
   pessimistic-review: '2026-11-16T01:44:08.945337+00:00'
   positions-evolve: '2026-11-14T20:54:00.930445+00:00'
-  refine-draft: '2026-11-16T07:05:18.714619+00:00'
+  refine-draft: '2026-11-16T07:50:32.575809+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-15T12:11:46.468835+00:00'
   research-voids: '2026-11-15T13:09:10.176833+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-11-15T14:34:06.823445+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-11-16T02:58:32.313405+00:00'
+last_git_push: '2026-11-16T08:03:56.971680+00:00'
 last_tweet_date: '2026-11-15'
 content_stats:
   total_files: 297
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-16'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-11-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-16'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/dynamical-relevance-and-the-verification-boundary/
