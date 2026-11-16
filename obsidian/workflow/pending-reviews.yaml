@@ -26,3 +26,33 @@
   subject_articles:
   - topics/consciousness-evolution-and-biology.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/6254e845-6a3b-414e-acb5-607ed4f535dd
+  commissioned_at: '2026-11-16T03:05:48.202610+00:00'
+  prompt_summary: Hostile-referee audit of topics/consciousness-evolution-and-biology
+  target_filename: outer-review-2026-11-16-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair academic referee and audit one article
+    from The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind
+    site that argues for interactionist dualism: https://unfinishablemap.org/topics/consciousness-evolution-and-biology/
+    . Read the live page directly rather than relying on search indexes, and consult
+    the site''s changelog at https://unfinishablemap.org/workflow/changelog/ for recent
+    edits, since search results can lag by a day or two. Audit its claims, citations
+    and counterarguments: (1) verify each cited work exists, is correctly attributed,
+    and actually supports the claim it is attached to, flagging misquotation or misdated
+    sources; (2) test the evolutionary and biological claims against current literature
+    in evolutionary biology, comparative neuroscience and animal-consciousness research;
+    (3) identify the strongest physicalist, epiphenomenalist and illusionist replies
+    the article omits or understates, especially to any argument that natural selection
+    requires consciousness to be causally efficacious; (4) note overclaims, internal
+    inconsistencies, and places where confidence outruns evidence. Be specific and
+    quote the passages you criticise. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-evolution-and-biology
+  subject_articles:
+  - topics/consciousness-evolution-and-biology.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-16-chatgpt-5-6-sol-pro.md
