@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T07:49:29+00:00
+ai_modified: 2026-11-16T08:19:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T08:19:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Task**: P1 from outer review 2026-11-16, convergent cluster 1 (illusionism) of `reviews/outer-review-synthesis-2026-11-16`; topic-page half of the pair with `concepts/evolution-of-consciousness` (07:49Z entry). Third of five tasks on this file.
+- **Review file**: [[reviews/outer-review-2026-11-16-gemini-3-1-pro]] (only the illusionism finding, per its Verification Notes; nothing else taken, Kammerer not cited); [[reviews/outer-review-2026-11-16-chatgpt-5-6-sol-pro]] section 8.6 and improvement 12; [[reviews/outer-review-2026-11-16-claude-fable-5-2]] section 2.3 item 5
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted fix from review)
+- **Word count**: 3178 → 3177 (`analyze_length`; topics soft 3000, hard 4000)
+- **Changes**: (1) L117 "Dissolve the Problem": the closing question "why would evolution produce organisms that systematically misrepresent their own cognition?" no longer stands as unanswered. The paragraph now states the illusionist's adaptive answer (attention schema theory, linked; modelling attention as experiential usefully manages it, wording compressed from `concepts/illusionism`), then what the Map holds it leaves open: the mechanism by which self-modelling yields the impression that there is something it is like, a specification illusionism demands of its rivals (piped to `illusionism#where-the-functional-account-falls-short`). "at least as hard as the hard problem" regraded to "potentially as hard", the grade `concepts/illusionism` and the concept page give. (2) L133: "Theories that dissolve the problem are unstable … generate parallel problems about why the illusion tracks adaptive function" replaced by "inherit a demanding explanatory programme … owe the mechanism behind the impression of experience". (3) Frontmatter `description` regraded from "fail to explain consciousness … what this failure reveals" to "leave consciousness unexplained … what the Map argues that gap shows" (206 → 194 characters).
+- **Reasoning mode**: engagement with illusionism: mixed. The adaptive account is granted on its own terms; the missing mechanism is pressed by a standard illusionism itself applies to rivals (unsupported foundational move); no in-framework refutation is claimed and the "unstable" verdict is withdrawn.
+- **Not done**: no reference added (Graziano named only through the attention-schema-theory link; Humphrey and Kammerer not cited, neither verified nor fundable at net ≤ 0). ChatGPT 8.6's point that the interactionist still owes an account of why experiences produce the judgements they do was not added: no budget, and L141 already says the interactionist owes a mechanism account. The lead (L61) still says each of biology's tools "fails when applied to it" (attributed to the Map in the next sentence); out of this task's scope.
+- **Published**: yes
 
 ## 2026-11-16T07:49:29+00:00 - refine-draft
 - **Status**: Success

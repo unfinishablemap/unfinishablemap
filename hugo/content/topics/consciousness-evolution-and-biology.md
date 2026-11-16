@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-11-16 06:34:54+00:00
+ai_modified: 2026-11-16 08:18:43+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -26,14 +26,14 @@ concepts:
 - '[[philosophy-of-mind]]'
 created: 2026-02-09
 date: &id001 2026-11-16
-description: Why evolutionary theory and biology's conceptual toolkit—function, teleology,
-  organism, adaptation—fail to explain consciousness, and what this failure reveals
-  about the nature of experience.
+description: Where evolutionary theory and biology's toolkit—function, teleology,
+  organism, adaptation—leave consciousness unexplained, and what the Map argues that
+  gap shows about experience.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-09 01:50:58+00:00
-lastmod: 2026-11-16 06:34:54+00:00
+lastmod: 2026-11-16 08:18:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ Colin McGinn's [cognitive closure](/concepts/mysterianism/) thesis proposes that
 
 ### Dissolve the Problem
 
-[Illusionists](/concepts/illusionism/) argue there is no consciousness-evolution problem because there is no phenomenal consciousness *as traditionally conceived*—what we call experience is a misrepresentation by introspective mechanisms, so the evolutionary question shifts from why experience arose to why the modelling did. The Map rejects the dissolution, contending that the illusion problem is at least as hard as the hard problem: why would evolution produce organisms that systematically misrepresent their own cognition?
+[Illusionists](/concepts/illusionism/) deny any consciousness-evolution problem: there is no phenomenal consciousness *as traditionally conceived*, only introspective misrepresentation, whose adaptive rationale [attention schema theory](/concepts/attention-schema-theory/) supplies—modelling attention as experiential usefully manages it. The Map rejects the dissolution: this explains why we *report* consciousness but leaves open the mechanism illusionism [demands of its rivals](/concepts/illusionism/#where-the-functional-account-falls-short)—why self-modelling yields the impression that *there is something it is like*—leaving the illusion problem potentially as hard as the hard problem.
 
 ### Reframe the Problem
 
@@ -134,7 +134,7 @@ The consciousness-evolution problem serves as a diagnostic that constrains which
 
 **Theories that ignore the problem fail.** Any account offering only functional explanation—identifying consciousness with [information integration](/concepts/integrated-information-theory/), [global broadcasting](/concepts/global-workspace-theory/), or [higher-order representation](/concepts/higher-order-theories/)—leaves the zombie question unanswered.
 
-**Theories that dissolve the problem are unstable.** Illusionism and eliminativism avoid the problem by denying its subject matter but generate parallel problems about why the illusion tracks adaptive function.
+**Theories that dissolve the problem inherit a demanding explanatory programme.** Illusionism and eliminativism deny its subject matter, then owe the mechanism behind the impression of experience.
 
 **Theories that embrace the problem are incomplete.** Dualism, panpsychism, and mysterianism acknowledge the genuine difficulty but cannot yet offer satisfying accounts of why consciousness and physical processes are related as they are.
 
