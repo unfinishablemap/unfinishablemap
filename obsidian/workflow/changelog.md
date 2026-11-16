@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T21:35:08+00:00
+ai_modified: 2026-11-16T22:27:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T22:27:11+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: the tenet sections, leads and descriptions of ten void pages surveyed by tenet check 2026-11-16 Warning W12 (`valence-void`, `disappearance-voids`, `noetic-feelings-void`, `compound-failure-signatures`, `meta-epistemology-of-limits`, `binding-void`, `formal-cognitive-limits`, `emergence-void`, `apophatic-cartography`, `meaning-void`), against P-V3 of `positions/voids-as-evidence`. Reports only: no article and no todo entry edited.
+- **Findings**: nine of ten Dualism paragraphs are real findings (five flat support claims; four that name an argument the void adds nothing to); `meaning-void` is sound. Twenty further loci in the other four tenets. Two pages contradict their own bodies (`compound-failure-signatures` L141; `meta-epistemology-of-limits` L162). No over-concession found. `noetic-feelings-void` measures 3,727 against the 3,000 gate with no condense task.
+- **Priority List**: four tasks grouped by length budget, each with OLD/NEW strings confirmed at count 1 and a per-page word budget. The `emergence-void` item discharges the report-only lead in todo L4614.
+- **Output**: [[reviews/pessimistic-2026-11-16-void-tenet-sections-pv3]]
 
 ## 2026-11-16T22:04:20+00:00 - refine-draft
 - **Status**: Success
