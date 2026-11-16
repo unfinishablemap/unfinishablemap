@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-16T06:34:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
+- **Review file**: [outer-review-2026-11-16-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-16-chatgpt-5-6-sol-pro/) (section 2; second of five tasks on this file; coordinated pair with the concept-page zombie task from [outer-review-2026-11-16-claude-fable-5-2](/reviews/outer-review-2026-11-16-claude-fable-5-2/) section 2.4)
+- **Original score**: n/a (`scripts/curate.py` is absent; the review's verified finding was the brief)
+- **Changes**: (1) L73: the zombie-evolution reductio is now aimed at views on which phenomenal character is causally redundant (epiphenomenalism, property dualism without efficacy); "The weight of this falls on materialism" removed. (2) L75 rewritten: the identity reply is stated at full strength (on type-identity or type-B physicalism, selecting the neural process is selecting the conscious state; no separate zombie lineage), the residue is named as the ordinary hard problem with no evolutionary anomaly added, and the Map's disagreement is located at conceivability-to-possibility and the explanatory gap as a dispute between frameworks. New links: `type-a-type-b-and-type-c-physicalism`, `explanatory-gap`. (3) L77: the exclusion of a consciousness-free physical duplicate is qualified "given the psychophysical laws that hold here" and marked nomological, leaving the metaphysical possibility the Map's conceivability argument uses untouched; "bites hardest against function-exhausts-fitness materialism" became "bites against views that leave phenomenal character causally redundant". (4) L79 materialist bullet: on identity, selection for the processes is selection for consciousness; what persists is the ordinary hard problem. (5) L141: "sharpest under dualism's assumptions" replaced; the page now agrees with `concepts/evolution-of-consciousness` L175 that evolution restates the hard problem for both sides, adding that the interactionist also owes the mechanism account.
+- **Reasoning mode**: engagement with the identity/type-B physicalist: Mode Three; no in-framework contradiction is available from the evolutionary consideration (the Map's own type-A/B/C page grades its case against type-B as *compatible* only), so the earlier language was downgraded and the framework-boundary disagreement stated as such. Engagement with the epiphenomenalist / inefficacious property dualist: Mode One, unchanged (causal inertness removes the trait from selection on the opponent's own terms).
+- **Length**: 3095 → 3178 words (`analyze_length`; topics soft 3000, hard 4000). Over the +60 budget; the identity reply could not be given at full strength in fewer words.
+- **Left for sibling tasks**: concept page L109 ("there are no philosophical zombies", "constitutively involve") must take the same nomological reading; its section lacks the identity reply. L117/L133, L69/L83-87, L91/L95/L105/L121/L131 untouched.
+- **Published**: yes
+
 ## 2026-11-16T06:20:02+00:00 - refine-draft
 - **Status**: Success
 - **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
