@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T09:21:50+00:00
+ai_modified: 2026-11-16T09:35:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T09:35:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Task**: P2 from outer review 2026-11-16 (IIT, Russellian monism, dualism versus gradualism, organism claim). Fifth and last outer-review task on this file today; the lead rewrite follows.
+- **Review file**: [[reviews/outer-review-2026-11-16-chatgpt-5-6-sol-pro]] sections 7, 8.1, 8.2, 8.5 and 9, read after its Verification Notes; [[reviews/outer-review-2026-11-16-claude-fable-5-2]] (Φ is graded); [[reviews/outer-review-synthesis-2026-11-16]] row 5 and the IIT divergence note
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted fix from review)
+- **Word count**: 3223 → 3223 (`analyze_length`; topics soft 3000, hard 4000). Net zero: the four rewordings cost about 45 words, funded by tightening neighbouring sentences in the same paragraphs (L91, L93, L95, L105, L107, L121)
+- **Changes**: (1) "What the Problem Reveals", first bullet: IIT removed from the list of accounts "offering only functional explanation"; it is now described as not functionalist and as asserting an unexplained identity between consciousness and integrated information (the objection the Map's IIT page makes: "identity assertions are unexplanatory"); global broadcasting glossed as a model of conscious access. (2) "Reframe the Problem": Russellian monism defined by intrinsic natures behind physics' relational structure that are experiential or, on panprotopsychist variants, protophenomenal; "consciousness was never absent" and "making experience coextensive" changed to "the ground of consciousness" so the sentences hold for both variants. Further Reading gloss changed to match. (3) "Natural Kinds": "The Map's dualism supports this... genuine discontinuity. This contrasts with the gradualism that materialist approaches favour" replaced by a conditional (dualism permits a sharp boundary without establishing it; the on/off fact is sharp if a subject is either coupled or not, whatever the gradation in richness) and a statement that sharpness does not track the metaphysics; IIT is not used as a threshold example and no example theory is named. (4) "The Organism Problem": "none addresses whether the unity of an organism has anything to do with the unity of consciousness" now excepts the enactive tradition; "the organism concept itself may be incomplete without reference to the possibility of consciousness" replaced by the claim that a theory of conscious organisms must relate biological individuality to the unity of the subject.
+- **Matched against Map pages**: `concepts/integrated-information-theory` (lead: consciousness "is" integrated information; "Unlike functionalism, IIT holds that physical substrate matters"; "identity assertions are unexplanatory"; graduated, not threshold-based); `concepts/russellian-monism` (physics describes relational structure; panpsychist and panprotopsychist variants); `concepts/is-conscious-being-a-natural-kind` (sharp joint conditional on the Map's dualism and determinate subject; "coherentist, not a proof"; gradation of contents distinct from the on/off fact; cluster reading "remains the live rival")
+- **Reasoning mode**: engagement with IIT: unsupported foundational move (the identity is asserted, not explained), stated in the Map IIT page's own terms; Russellian monism and the natural-kind contrast: description corrected, no refutation claimed. No cited author is enlisted for dualism.
+- **Not done**: Birch, Schnell & Clayton (2020) not cited (not read this run; no words to fund the entry). No new named authority and no reference changes. The "strong emergence suggests it does" step in the organism section (review section 7, second point) was not in the task and is unchanged apart from tightening. The enactivism "too broad" complaint was not adopted, per the Verification Notes.
+- **Published**: yes
 
 ## 2026-11-16T09:21:50+00:00 - refine-draft
 - **Status**: Success

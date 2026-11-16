@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-11-16 09:21:25+00:00
+ai_modified: 2026-11-16 09:35:07+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-09 01:50:58+00:00
-lastmod: 2026-11-16 09:21:25+00:00
+lastmod: 2026-11-16 09:35:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,11 +92,11 @@ Biological purpose would then divide: unconscious organisms (if any exist) are f
 
 ## The Organism Problem
 
-What makes something an organism rather than a mere collection of molecules? Proposals range from autopoiesis (self-producing systems) to organisational closure (networks of mutual dependence; Mossio & Moreno, 2010) to [evolutionary individuality (units of selection)](/topics/consciousness-and-the-major-evolutionary-transitions/#individuality-and-the-units-of-selection). Each captures something real about living systems but none addresses whether the unity of an organism has anything to do with the unity of consciousness.
+What makes something an organism rather than a collection of molecules? Proposals range from autopoiesis (self-producing systems) to organisational closure (networks of mutual dependence; Mossio & Moreno, 2010) to [evolutionary individuality (units of selection)](/topics/consciousness-and-the-major-evolutionary-transitions/#individuality-and-the-units-of-selection). Each captures something real, but outside the [enactive](/topics/enactivism-challenge-to-interactionist-dualism/) tradition none asks whether an organism's unity has anything to do with the unity of consciousness.
 
-The [strong emergence](/topics/the-strong-emergence-of-consciousness/) of consciousness suggests it does. If consciousness genuinely emerges at the level of the organism rather than individual neurons, then organismal unity and experiential unity may share a common explanation that neither biology nor physics alone can provide. [Process philosophy](/concepts/process-philosophy/) gestures toward this connection by treating organisms as integrated processes rather than static arrangements of parts.
+The [strong emergence](/topics/the-strong-emergence-of-consciousness/) of consciousness suggests it does. If consciousness emerges at the level of the organism rather than of individual neurons, organismal and experiential unity may share an explanation that neither biology nor physics alone provides. [Process philosophy](/concepts/process-philosophy/) gestures toward this by treating organisms as integrated processes, not static arrangements of parts.
 
-The question of where consciousness begins in the biological world—explored in the Map's treatment of [consciousness in simple organisms](/topics/consciousness-in-simple-organisms/) and in Godfrey-Smith's (2016) investigation of cephalopod cognition—remains genuinely open. But the organism concept itself may be incomplete without reference to the possibility of consciousness.
+Where consciousness begins in the biological world—explored in [consciousness in simple organisms](/topics/consciousness-in-simple-organisms/) and in Godfrey-Smith's (2016) study of cephalopod cognition—remains open. Wherever it begins, a theory of *conscious* organisms must relate biological individuality to the unity of the subject.
 
 ## Adaptation and the Limits of Selectionist Explanation
 
@@ -106,9 +106,9 @@ This parallels broader debates about adaptationism. Gould and Lewontin's "spandr
 
 ## Natural Kinds and Consciousness
 
-Philosophy of biology debates whether biological categories—species, genes, organisms—are natural kinds (categories that carve nature at its joints) or pragmatic groupings. If "conscious being" is a natural kind, then there is a real, mind-independent boundary between entities that are conscious and those that are not. The Map's dualism supports this: consciousness is an ontological addition to the physical world, and its presence or absence marks a genuine discontinuity. This contrasts with the gradualism that materialist approaches favour, where consciousness shades imperceptibly from absent to present along a continuum of neural complexity.
+Philosophy of biology debates whether biological categories—species, genes, organisms—are natural kinds (categories that carve nature at its joints) or pragmatic groupings. If "conscious being" is a natural kind, a real, mind-independent boundary divides the conscious from the rest. The Map's dualism permits such a boundary without establishing it: if a non-physical subject is either coupled to a creature or not, the on/off fact is sharp, however graded the richness of experience. Sharpness does not track the metaphysics: physicalists can posit sharp thresholds, dualists graded coupling, and a vague-edged kind remains a live rival.
 
-The natural-kinds question connects to [animal consciousness](/topics/animal-consciousness/) and the moral boundaries drawn around it. Philosophy of biology's tools for thinking about natural kinds—[homeostatic property clusters](/concepts/is-conscious-being-a-natural-kind/), genealogical continuity, causal essences—were developed for biological categories. Applying them to consciousness forces these tools beyond their intended domain.
+The natural-kinds question connects to [animal consciousness](/topics/animal-consciousness/) and the moral boundaries drawn around it. Philosophy of biology's natural-kind tools—[homeostatic property clusters](/concepts/is-conscious-being-a-natural-kind/), genealogical continuity, causal essences—were developed for biological categories; applying them to consciousness takes them beyond that domain.
 
 ## The Landscape of Responses
 
@@ -122,7 +122,7 @@ Colin McGinn's [cognitive closure](/concepts/mysterianism/) thesis proposes that
 
 ### Reframe the Problem
 
-[Process philosophy](/concepts/process-philosophy/), [panpsychism](/concepts/panpsychism/), and [enactivism](/topics/enactivism-challenge-to-interactionist-dualism/) deny the central premise—that consciousness appeared where none existed before. Enactivism's "deep continuity thesis" treats mind as continuous with life itself—where there is autopoiesis, there is at least proto-mentality—but this continuity claim inherits the hard problem: why is self-maintaining biological organisation accompanied by experience? If experiential properties are fundamental, evolution organised pre-existing experiential properties into complex, unified experiences. The question shifts from "why did experience arise?" to "how did experiential integration increase?"—a scalar question that evolution handles well. But this introduces the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into unified consciousness? [Russellian monism](/concepts/russellian-monism/)—the view that the intrinsic nature of physical properties is itself experiential—offers a related reframing: consciousness was never absent from the physical world, only from physics' structural descriptions of it. Like panpsychism, it faces the combination problem, but it promises to dissolve the evolution question by making experience coextensive with the physical.
+[Process philosophy](/concepts/process-philosophy/), [panpsychism](/concepts/panpsychism/), and [enactivism](/topics/enactivism-challenge-to-interactionist-dualism/) deny the central premise—that consciousness appeared where none existed before. Enactivism's "deep continuity thesis" treats mind as continuous with life itself—where there is autopoiesis, there is at least proto-mentality—but this inherits the hard problem: why is self-maintaining biological organisation accompanied by experience? If experiential properties are fundamental, evolution organised pre-existing experiential properties into complex, unified experiences. The question shifts from "why did experience arise?" to "how did experiential integration increase?"—a scalar question that evolution handles well. But this introduces the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into unified consciousness? [Russellian monism](/concepts/russellian-monism/)—the view that the intrinsic natures behind physics' relational structure are experiential or, on panprotopsychist variants, protophenomenal—offers a related reframing: the ground of consciousness was never absent from the physical world, only from physics' structural descriptions. It too faces the combination problem, while promising to dissolve the evolution question by making that ground coextensive with the physical.
 
 ### Embrace Dualism
 
@@ -132,7 +132,7 @@ The Map's approach: accept that consciousness is irreducible and non-physical, h
 
 The consciousness-evolution problem serves as a diagnostic that constrains which theories of mind can succeed.
 
-**Theories that ignore the problem fail.** Any account offering only functional explanation—identifying consciousness with [information integration](/concepts/integrated-information-theory/), [global broadcasting](/concepts/global-workspace-theory/), or [higher-order representation](/concepts/higher-order-theories/)—leaves the zombie question unanswered.
+**Theories that ignore the problem fail.** Accounts offering only functional explanation—[global broadcasting](/concepts/global-workspace-theory/), a model of conscious access, or [higher-order representation](/concepts/higher-order-theories/)—leave the zombie question unanswered; [integrated information theory](/concepts/integrated-information-theory/), which is not functionalist, asserts an unexplained identity between consciousness and integrated information.
 
 **Theories that dissolve the problem inherit a demanding explanatory programme.** Illusionism and eliminativism deny its subject matter, then owe the mechanism behind the impression of experience.
 
@@ -169,7 +169,7 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
 - [causal-closure](/concepts/causal-closure/)
 - [consciousness-value-connection](/concepts/consciousness-value-connection/)
-- [russellian-monism](/concepts/russellian-monism/) — The view that the intrinsic nature of physical properties is experiential
+- [russellian-monism](/concepts/russellian-monism/) — The view that intrinsic natures behind physical structure ground consciousness
 - [functionalism](/concepts/functionalism/)
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
 - [baseline-cognition](/concepts/baseline-cognition/)
