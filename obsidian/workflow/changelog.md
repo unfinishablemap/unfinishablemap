@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T17:35:55+00:00
+ai_modified: 2026-11-16T19:03:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T19:03:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/attended-intermediate-representations-theory]]
+- **Source**: refine-draft fork 2026-11-16 (out-of-scope finding), task minted by the driver
+- **Original score**: n/a (`scripts/curate.py` is absent; one sentence replaced by the driver inline, no fork)
+- **Change**: the grain-objection paragraph ended by saying counterexamples are damaging if intermediateness "merely *labels*" what becomes conscious. Mole's review says the reverse of the patient case: "Prinz can admit this possibility only on the reading in which intermediateness plays a modest role in his theory", and the ambitious reading "could not allow" non-intermediate conscious contents (both read in the raw text of the review downloaded at 14:5xZ; "modest role" occurs twice). The sentence now gives Mole's direction and credits him, which also makes the paragraph agree with the next one's use of the same distinction.
+- **Word count**: 2699 -> 2698 (measured).
 
 ## 2026-11-16T18:51:15+00:00 - refine-draft
 - **Status**: Success (FIVE FILES, all under `archive/`, not `obsidian/`; four edited, one checked and left unchanged)

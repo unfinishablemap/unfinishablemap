@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-11-16 14:49:04+00:00
+ai_modified: 2026-11-16 19:03:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 01:15:43+00:00
-lastmod: 2026-11-16 14:49:04+00:00
+lastmod: 2026-11-16 19:03:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ AIR faces a cluster of well-developed challenges. Presenting them fairly is part
 
 **The overflow objection.** Ned Block argues that phenomenal consciousness [overflows cognitive access](/concepts/phenomenal-overflow/) ("Perceptual consciousness overflows cognitive access," 2011). The empirical anchor is Sperling's partial-report paradigm (1960): after a briefly flashed array, subjects can accurately report *any* cued row, which suggests a rich phenomenal representation of the whole array that outstrips the sparse capacity of what is attended and accessed. If phenomenal experience is richer than access, then an attention-and-access identity like AIR is false — some experience is conscious without being attended. Prinz's camp (De Brigard and Prinz 2010) replies that the unattended "overflow" contents are not genuinely conscious prior to attention: the partial-report data show a large *preconscious* iconic buffer that becomes conscious only when a cue draws attention to it. The dispute is methodologically fraught — any probe of whether unattended content was conscious itself deploys attention (the "refrigerator-light" problem) — and remains unresolved. On what unattended processing contains, Lamme (2020) reports that perceptual organisation — grouping, figure-ground segregation — occurs "during inattention as well as full visibility," a result [capability-division-in-vision](/concepts/capability-division-in-vision/) takes up.
 
-**The grain objection.** Whether the intermediate level is the right grain is contested. Reports of non-intermediate conscious contents press the thesis — Mole (2013) quotes a single patient from Chapman's study of early schizophrenia (1966, p. 230, on Mole's citation), a man who described seeing things "flat" and picking out the pieces "like a jigsaw puzzle," suggesting pre-intermediate content reaching consciousness — as does the difficulty of specifying an "intermediate level" cleanly in non-visual modalities. Here the modest-versus-ambitious ambiguity bites: if intermediateness merely *labels* what becomes conscious, counterexamples are damaging; if it is meant to *explain* why, the explanatory burden is heavier still.
+**The grain objection.** Whether the intermediate level is the right grain is contested. Reports of non-intermediate conscious contents press the thesis — Mole (2013) quotes a single patient from Chapman's study of early schizophrenia (1966, p. 230, on Mole's citation), a man who described seeing things "flat" and picking out the pieces "like a jigsaw puzzle," suggesting pre-intermediate content reaching consciousness — as does the difficulty of specifying an "intermediate level" cleanly in non-visual modalities. As Mole notes, Prinz can admit such cases only on the modest reading; on the ambitious one, where intermediateness *explains* why contents become conscious, they are counterexamples.
 
 **The conscious-intention objection.** Mylopoulos (2015) argues that AIR's perceptualism cannot accommodate conscious intentions. The dilemma: either conscious intentions are attended intermediate-level *sensory* representations — but people form conscious intentions without sensory imagery, and imagery alone cannot distinguish intending from merely desiring or predicting the same act — or intentions are never genuinely conscious, a reconstructive hypothesis that lacks empirical support. Either way, AIR's claim that all consciousness is perceptual looks too strong.
 
