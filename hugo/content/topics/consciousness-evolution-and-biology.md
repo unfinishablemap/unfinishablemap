@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-11-16 13:03:53+00:00
+ai_modified: 2026-11-16 21:34:39+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -27,13 +27,13 @@ concepts:
 created: 2026-02-09
 date: &id001 2026-11-16
 description: Where evolutionary theory and biology's toolkit—function, teleology,
-  organism, adaptation—leave consciousness unexplained, and what the Map argues that
-  gap shows about experience.
+  organism, adaptation—leave consciousness unexplained, and how the Map reads that
+  gap.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-09 01:50:58+00:00
-lastmod: 2026-11-16 13:03:53+00:00
+lastmod: 2026-11-16 21:34:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ topics:
 - '[[the-strong-emergence-of-consciousness]]'
 ---
 
-Evolutionary biology's functional explanations show why organisms process information as they do and leave open why experience accompanies that processing. Evolution sharpens this problem for neither side: for identity materialist and dualist alike it restates the [hard problem](/topics/hard-problem-of-consciousness/), and the evolutionary [zombie](/concepts/philosophical-zombies/) argument is best read as a reductio against views that leave phenomenal character causally redundant. Biology's toolkit—function, teleology, organism, adaptation—leaves that question unanswered, and its function accounts are limited in scope: none was offered as a theory of consciousness. The Map reads the gap as support for dualism, within limits: evolutionary theory needs no revision, a causally efficacious consciousness is a candidate target of selection, not a demonstrated adaptation, and interactionism owes a mechanism.
+Evolutionary biology's functional explanations show why organisms process information as they do and leave open why experience accompanies that processing. Evolution sharpens this problem for neither side: for identity materialist and dualist alike it restates the [hard problem](/topics/hard-problem-of-consciousness/), and the evolutionary [zombie](/concepts/philosophical-zombies/) argument is best read as a reductio against views that leave phenomenal character causally redundant. Biology's toolkit—function, teleology, organism, adaptation—leaves it unanswered; no function account was offered as a theory of consciousness. The Map's dualism rests on its tenet: the gap is as compatible with non-reductive physicalism as with dualism, evolutionary theory needs no revision, a causally efficacious consciousness is a candidate target of selection, not a demonstrated adaptation, and interactionism owes a mechanism.
 
 ## The Functional Template and Its Limit
 
@@ -80,7 +80,7 @@ No such burden falls on the identity theorist. On type-identity or [a posteriori
 
 The Map's interactionism reframes the puzzle rather than inheriting it. If consciousness is causally efficacious—biasing quantum outcomes, as the Map holds—then, given the psychophysical laws that hold here, a being physically identical to a conscious organism cannot lack consciousness: without it, its quantum trajectories, and hence its behaviour, would differ. The exclusion is nomological and leaves the metaphysical possibility of zombies untouched. Under those laws a behaviourally-matched zombie is not a physical duplicate, and selection *can* reach the difference consciousness makes, provided that difference shifts how often outcomes occur in some fitness-relevant situation ([the selectability constraint](/topics/inheritance-problem-for-the-psychophysical-law/#the-selectability-constraint)). The cost is explicit and symmetrical: the Map owes an account of the quantum interface through which the biasing operates, and must show the influence is not [causally screened off](/concepts/causal-closure/)—which would collapse the position toward the [epiphenomenalism](/topics/the-epiphenomenalist-threat/) it rejects. Where that proviso holds, the zombie-evolution puzzle bites against views that leave phenomenal character causally redundant, not against the interactionist; the strictest reading of the Map's Born-preservation commitment rules the proviso out, and there the puzzle returns for the interactionist too.
 
-The consciousness-evolution problem takes different forms depending on one's starting assumptions. For the **materialist**: if consciousness is identical to neural processes, selection for those processes is selection for consciousness, and what persists is the ordinary hard problem. For the **epiphenomenalist**: if consciousness is causally inert, it cannot be selected at all—its systematic correlation with adaptive behaviour becomes a cosmic coincidence. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues this cost is too high. For the **dualist**: if consciousness is non-physical and causally efficacious in a way selection can register, it contributes to fitness—but the mechanism remains obscure. The Unfinishable Map's answer invokes [quantum interaction](/tenets/#minimal-quantum-interaction), and the [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) argues this mechanism follows the same selective logic that produced quantum magnetoreception in birds and quantum tunnelling in enzymes—though those precedents exploit narrowly protected coherences, and whether comparable coherence survives in warm, wet neural tissue is contested on [decoherence](/topics/quantum-neural-timing-constraints/) grounds.
+The consciousness-evolution problem takes different forms depending on starting assumptions. For the **materialist**: if consciousness is identical to neural processes, selection for those processes is selection for consciousness, and what persists is the ordinary hard problem. For the **epiphenomenalist**: if consciousness is causally inert, it cannot be selected, and its systematic correlation with adaptive behaviour needs explaining. The [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/) offers an explanation that the dissociation evidence [constrains without yet discriminating against](/topics/evolutionary-case-for-mental-causation/); the Map rejects epiphenomenalism on its [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, not on this correlation. For the **dualist**: if consciousness is non-physical and causally efficacious in a way selection can register, it contributes to fitness—but the mechanism remains obscure. The Map's answer invokes [quantum interaction](/tenets/#minimal-quantum-interaction), and the [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) argues this mechanism follows the same selective logic that produced quantum magnetoreception in birds and quantum tunnelling in enzymes—though those precedents exploit narrowly protected coherences, and whether comparable coherence survives in warm, wet neural tissue is contested on [decoherence](/topics/quantum-neural-timing-constraints/) grounds.
 
 ## Teleology Without and Within
 
@@ -94,7 +94,7 @@ Biological purpose would then divide: unconscious organisms (if any exist) are f
 
 What makes something an organism rather than a collection of molecules? Proposals range from autopoiesis (self-producing systems) to organisational closure (networks of mutual dependence; Mossio & Moreno, 2010) to [evolutionary individuality (units of selection)](/topics/consciousness-and-the-major-evolutionary-transitions/#individuality-and-the-units-of-selection). Each captures something real, but outside the [enactive](/topics/enactivism-challenge-to-interactionist-dualism/) tradition none asks whether an organism's unity has anything to do with the unity of consciousness.
 
-The [strong emergence](/topics/the-strong-emergence-of-consciousness/) of consciousness suggests it does. If consciousness emerges at the level of the organism rather than of individual neurons, organismal and experiential unity may share an explanation that neither biology nor physics alone provides. [Process philosophy](/concepts/process-philosophy/) gestures toward this by treating organisms as integrated processes, not static arrangements of parts.
+Whether it does is open. If consciousness is [strongly emergent](/topics/the-strong-emergence-of-consciousness/) at the level of the organism rather than of individual neurons—a framing the Map shares only in part—organismal and experiential unity may share an explanation that neither biology nor physics alone provides; calling both emergent is no evidence that they do. [Process philosophy](/concepts/process-philosophy/) gestures toward this by treating organisms as integrated processes, not static arrangements of parts.
 
 Where consciousness begins in the biological world—explored in [consciousness in simple organisms](/topics/consciousness-in-simple-organisms/) and in Godfrey-Smith's (2016) study of cephalopod cognition—remains open. Wherever it begins, a theory of *conscious* organisms must relate biological individuality to the unity of the subject.
 
@@ -142,7 +142,7 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** gains support from the observation that biological function-talk cannot capture consciousness. If the most sophisticated framework biology has for explaining traits cannot account for why consciousness exists rather than mere information processing, this reinforces the claim that consciousness exceeds physical description. Evolution sharpens the problem for neither side: for identity materialist and dualist alike it restates the hard problem, and the interactionist also owes the mechanism account noted above. Dualism's advantage is that it takes the difficulty at face value rather than treating it as an artefact of incomplete neuroscience.
+**[Dualism](/tenets/#dualism)** is the Map's reading of what function-talk leaves open—why experience accompanies processing—held on the tenet's ground: the datum is as compatible with non-reductive physicalism as with dualism. Evolution sharpens the problem for neither side: for identity materialist and dualist alike it restates the hard problem, and the interactionist also owes the mechanism account noted above. The Map's dualism takes the difficulty at face value.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is the Map's most direct response to the epiphenomenalist version of the problem. If consciousness genuinely influences behaviour, and the influence meets the selectability constraint, selection can act on it, making consciousness a candidate target of selection and not yet a demonstrated adaptation. This tenet also aligns with the Map's claim that conscious agency adds experienced purpose to biology's naturalised teleology, with biological consequences that selection history and self-maintenance do not by themselves explain.
 

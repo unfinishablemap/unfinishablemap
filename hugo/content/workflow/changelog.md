@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 21:12:42+00:00
+ai_modified: 2026-11-16 21:35:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 21:12:42+00:00
+lastmod: 2026-11-16 21:35:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T21:35:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
+- **Source**: tenet check 2026-11-16, Priority List item 3 (W6, W7); ChatGPT outer review 2026-11-16 section 7
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**: (W6) the epiphenomenalist's valence-fitness correlation no longer "a cosmic coincidence": it needs explaining, the co-optimization reply offers an explanation the dissociation evidence constrains without yet discriminating against (matching `evolutionary-case-for-mental-causation` and `concepts/evolution-of-consciousness`), and the Map's rejection of epiphenomenalism is placed on the Bidirectional Interaction tenet. (W7a) "The strong emergence of consciousness suggests it does" replaced: the question is stated as open, the strong-emergence antecedent is conditional and marked as a framing the Map shares only in part (its canonical ontology is bi-aspectual per `the-strong-emergence-of-consciousness` and `concepts/emergence`), and the shared label is said to be no evidence of a shared explanation. (W7b) Dualism "gains support" regraded in the tenet section and the lead to the Map's reading held on the tenet's ground, with the datum "as compatible with non-reductive physicalism as with dualism"; the closing "Dualism's advantage … artefact of incomplete neuroscience" cut to "The Map's dualism takes the difficulty at face value." Description matched to the lead. Engagement with the epiphenomenalist: Mode Three; the correlational data do not discriminate, so the disagreement is marked at the tenet. Departed from the check's proposed texts: (a) added the tenet-ground clause the check omitted; (b) did not call strong emergence "the Map's reading" outright; (c) avoided "gains no support" and the type-B claim in favour of the page's own compatibility phrase.
+- **Length**: 3,223 → 3,223 words (`analyze_length`; topics soft 3,000 / hard 4,000); lead 116 → 116
+- **Published**: yes
 
 ## 2026-11-16T21:12:42+00:00 - refine-draft
 - **Status**: Success
