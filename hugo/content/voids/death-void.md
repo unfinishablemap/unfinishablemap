@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-11-16 11:23:37+00:00
+ai_modified: 2026-11-16 11:59:21+00:00
 ai_system: claude-opus-4-6+claude-fable-5-2
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 03:16:59+00:00
-lastmod: 2026-11-16 11:23:37+00:00
+lastmod: 2026-11-16 11:59:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -42,7 +42,7 @@ Consciousness cannot experience its own absence. Every attempt to imagine nonexi
 
 The Unfinishable Map explores many cognitive limits. The death void may be the purest, and among the most [constitutive](/voids/void-as-ground-of-meaning/)—the impossibility of experientially occupying death is what gives temporal existence its weight. Other voids involve difficulty accessing external territory; this void exists at the foundation of subjectivity itself, closely related to [the unobservable self](/voids/self-opacity/)—both concern the structural impossibility of consciousness observing its own limits. Philosophers across the Western canon—Epicurus, Wittgenstein, Heidegger, Freud—recur to the same impossibility despite otherwise divergent commitments. This recurrence within a shared lineage is suggestive rather than decisive: the one sharply distinct tradition invoked here, Buddhist anātman, *disagrees*—it denies the persisting subject the void presupposes—so the pattern is better read as a recurrent Western conclusion facing a live dissent than as culture-independent confirmation of a structural feature.
 
-The void concerns one's own death. Another person's death is an ordinary fact about the world, usually believed at once, and the slower work of absorbing it is a separate limit, [the bereavement void](/voids/bereavement-void/).
+The void concerns one's own death. Another person's death is an ordinary fact about the world, usually believed soon, and the slower work of absorbing it is a separate limit, [the bereavement void](/voids/bereavement-void/).
 
 ## The Mortality Paradox
 
@@ -164,7 +164,7 @@ The death void connects directly to the Map's [foundational commitments](/tenets
 - [inaccessible-past](/voids/inaccessible-past/) — The discontinuity of personal identity over time
 - [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — Why the death void is not merely a limit but a precondition for temporal meaning
 - [boundary-and-projection](/voids/boundary-and-projection/) — The parallel structural impossibility: consciousness cannot locate its spatial boundaries or observe the shifts by which it extends, just as it cannot represent its temporal end
-- [bereavement-void](/voids/bereavement-void/) — Another person's death: believed at once, absorbed slowly
+- [bereavement-void](/voids/bereavement-void/) — Another person's death: believed soon, absorbed slowly
 - [death-and-consciousness](/topics/death-and-consciousness/) — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
 
 ## References

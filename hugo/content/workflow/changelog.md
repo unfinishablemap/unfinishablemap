@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 11:35:47+00:00
+ai_modified: 2026-11-16 11:59:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 11:35:47+00:00
+lastmod: 2026-11-16 11:59:21+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T11:59:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [death-void](/voids/death-void/), [voids](/voids/) (TWO FILES)
+- **Source**: deep review 2026-11-16 of `voids/bereavement-void` (host-sentence follow-ups)
+- **Original score**: n/a (`scripts/curate.py` is absent; three one-word substitutions made by the driver inline, no fork)
+- **Change**: the three host lines that describe the bereavement void said a death is believed "at once". The deep review narrowed the article itself to "soon" (Maciejewski et al. 2007 has no data before one month, and Fuchs reports "That is not true!" as a frequent first reaction), so the hosts now say "soon" too: two places on `voids/death-void` and the catalogue line on `voids/voids`.
+- **Word count**: unchanged on both pages (one word for two in each place would be -1; "at once" -> "soon" is -1 word per place).
+
+## 2026-11-16T11:57:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [bereavement-void](/voids/bereavement-void/)
+- **Word count**: 2890 → 2978 (+88; voids hard threshold 3000)
+- **Critical issues addressed**: 11 (lead/description "at once" → "soon" with Fuchs's "That is not true!" first-reaction report added; Maciejewski et al. 2007 "rules out" → "counts against" with its three scope limits and "rater-administered" item wording; Infurna & Luthar 2016 one-class best fit stated; unsourced "general practitioner" and "most of them elderly" removed or narrowed; unsourced superlative; Fuchs p. 49 quotation case; Kamp review type; Olson 54% wording; Marušić "sharpest" paraphrase; causal claim about the two prevalence ranges; emotion-and-dualism pointer)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2
+- **Verification**: 35 quoted strings and every figure re-matched by script against independently fetched sources (4 full-text PDFs, 3 PMC XML, 6 PubMed abstracts); 13 reference entries confirmed at Crossref/PubMed/PDF header. Rees 1971 and Castelnovo 2015 full texts not obtained.
+- **Engagement modes**: O'Connor & Seeley, Moller's Adaptive Theory: sufficiency conceded (no refutation attempted).
+- **Output**: [deep-review-2026-11-16-bereavement-void](/reviews/deep-review-2026-11-16-bereavement-void/)
 
 ## 2026-11-16T11:35:47+00:00 - refine-draft
 - **Status**: Success
