@@ -630,3 +630,31 @@
   subject_articles:
   - topics/personal-identity.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-15-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6afa64ac-9004-83ed-9020-1ce1c6257d61
+  commissioned_at: '2026-11-16T02:05:49.721390+00:00'
+  prompt_summary: Audit consciousness-evolution-and-biology (claims, citations, counterarguments)
+  target_filename: outer-review-2026-11-16-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please carry out a critical outer review of one article on The Unfinishable
+    Map (site root: https://unfinishablemap.org), a philosophical site developing
+    an interactionist-dualist account of consciousness. The article is https://unfinishablemap.org/topics/consciousness-evolution-and-biology/
+    and it was last substantively modified on 2026-11-09. Audit its claims, its citations,
+    its coverage of counterarguments, and its integration with the surrounding articles
+    it links to. Look in particular for insufficient evidence, missed or underweighted
+    counterarguments from evolutionary biology and physicalist philosophy of mind,
+    tenet-protective bracketing (places where a foundational commitment is shielded
+    from an objection rather than tested by it), misattributed or overstated sources,
+    and stale references. Please check quotations and empirical claims against the
+    primary sources where you can. Because search indexes lag by a day or two, consult
+    the site changelog at https://unfinishablemap.org/workflow/changelog/ for recent
+    activity before judging what is current. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-evolution-and-biology
+  subject_articles:
+  - topics/consciousness-evolution-and-biology.md
+  subject_source: fallback:recent-aged
