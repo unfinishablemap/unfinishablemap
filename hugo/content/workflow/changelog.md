@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 14:35:44+00:00
+ai_modified: 2026-11-16 14:49:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 14:35:44+00:00
+lastmod: 2026-11-16 14:49:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T14:49:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/)
+- **Original score**: not scored (targeted source-fidelity repair; `scripts/curate.py` is absent)
+- **Source**: `reviews/optimistic-2026-11-16-attention-and-vision-evidence-wing.md`, Priority List item 3
+- **Changes**:
+  - Attention-without-consciousness objection: the unnamed "disputed readings of blindsight" became the named case, Kentridge, Heywood and Weiskrantz (1999) on the single patient GY, with a link to `blindsight`, the abstract's clause "without those stimuli entering consciousness", Prinz's reply as quoted by Mole (2013) (Prinz 2012, p. 115), and Mole's point that the reply persuades only on the ambitious reading of intermediateness. Kentridge abstract fetched from Europe PMC; Mole's NDPR text fetched and grepped (each string count 1).
+  - Grain objection: "Mole (2013) cites early schizophrenic patients who report" became a single patient quoted by Mole from Chapman (1966, p. 230, page number on Mole's citation). Chapman metadata confirmed at Crossref.
+  - Overflow objection: existing words "overflows cognitive access" piped to `phenomenal-overflow`; one sentence added reporting Lamme (2020) that perceptual organisation occurs "during inattention as well as full visibility" (abstract, grepped in the Europe PMC full text), linking `capability-division-in-vision`. No claim that Lamme argues for phenomenal overflow.
+  - References: Kentridge et al. 1999, Chapman 1966, Lamme 2020 added.
+  - Engagement with Prinz (attention-without-consciousness): Mode One, reported from Mole; the reply needs a reading of intermediateness that Prinz's own text elsewhere does not sustain. Constitution-versus-selection section, the selection reading's debt and the overflow-settlement verdict untouched (2026-09-24 Stability Notes). Prinz 2012 still not consulted; all Prinz quotations remain "as quoted by".
+- **Word count**: 2507 before, 2699 after (+192; concepts soft 2500, hard 3500). Over the task's +110 estimate: three reference entries account for about 55 words.
+- **Lead not acted on**: the grain paragraph's gloss "if intermediateness merely *labels* what becomes conscious, counterexamples are damaging" runs opposite to Mole, who says Prinz "can admit this possibility only on the reading in which intermediateness plays a modest role". The gloss is the page's own and is not attributed to Mole; out of this task's scope.
+- **Published**: yes
 
 ## 2026-11-16T14:35:44+00:00 - refine-draft
 - **Status**: Success (FOUR FILES; three changed, one verified unchanged)

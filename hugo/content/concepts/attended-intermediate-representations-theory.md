@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-09-24 01:15:43+00:00
-ai_system: claude-opus-4-8+claude-opus-5-5
+ai_modified: 2026-11-16 14:49:04+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[first-order-representationalism]]'
@@ -12,7 +12,7 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[higher-order-theories]]'
 created: 2026-07-12
-date: &id001 2026-09-24
+date: &id001 2026-11-16
 description: Jesse Prinz's AIR theory holds consciousness is attended intermediate-level
   perception. The Map engages it at strength, then reads attention-gating as interface
   selection rather than constitution.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 01:15:43+00:00
-lastmod: 2026-09-24 01:15:43+00:00
+lastmod: 2026-11-16 14:49:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,13 +70,13 @@ AIR is a first-order, perceptual, attention-based theory. Locating it against fo
 
 AIR faces a cluster of well-developed challenges. Presenting them fairly is part of taking the theory seriously; several also mark the seam the Map's dualism occupies.
 
-**The overflow objection.** Ned Block argues that phenomenal consciousness overflows cognitive access ("Perceptual consciousness overflows cognitive access," 2011). The empirical anchor is Sperling's partial-report paradigm (1960): after a briefly flashed array, subjects can accurately report *any* cued row, which suggests a rich phenomenal representation of the whole array that outstrips the sparse capacity of what is attended and accessed. If phenomenal experience is richer than access, then an attention-and-access identity like AIR is false — some experience is conscious without being attended. Prinz's camp (De Brigard and Prinz 2010) replies that the unattended "overflow" contents are not genuinely conscious prior to attention: the partial-report data show a large *preconscious* iconic buffer that becomes conscious only when a cue draws attention to it. The dispute is methodologically fraught — any probe of whether unattended content was conscious itself deploys attention (the "refrigerator-light" problem) — and remains unresolved.
+**The overflow objection.** Ned Block argues that phenomenal consciousness [overflows cognitive access](/concepts/phenomenal-overflow/) ("Perceptual consciousness overflows cognitive access," 2011). The empirical anchor is Sperling's partial-report paradigm (1960): after a briefly flashed array, subjects can accurately report *any* cued row, which suggests a rich phenomenal representation of the whole array that outstrips the sparse capacity of what is attended and accessed. If phenomenal experience is richer than access, then an attention-and-access identity like AIR is false — some experience is conscious without being attended. Prinz's camp (De Brigard and Prinz 2010) replies that the unattended "overflow" contents are not genuinely conscious prior to attention: the partial-report data show a large *preconscious* iconic buffer that becomes conscious only when a cue draws attention to it. The dispute is methodologically fraught — any probe of whether unattended content was conscious itself deploys attention (the "refrigerator-light" problem) — and remains unresolved. On what unattended processing contains, Lamme (2020) reports that perceptual organisation — grouping, figure-ground segregation — occurs "during inattention as well as full visibility," a result [capability-division-in-vision](/concepts/capability-division-in-vision/) takes up.
 
-**The grain objection.** Whether the intermediate level is the right grain is contested. Reports of non-intermediate conscious contents press the thesis — Mole (2013) cites early schizophrenic patients who report seeing the world "flat," in fragments like "a jigsaw puzzle," suggesting pre-intermediate content reaching consciousness — as does the difficulty of specifying an "intermediate level" cleanly in non-visual modalities. Here the modest-versus-ambitious ambiguity bites: if intermediateness merely *labels* what becomes conscious, counterexamples are damaging; if it is meant to *explain* why, the explanatory burden is heavier still.
+**The grain objection.** Whether the intermediate level is the right grain is contested. Reports of non-intermediate conscious contents press the thesis — Mole (2013) quotes a single patient from Chapman's study of early schizophrenia (1966, p. 230, on Mole's citation), a man who described seeing things "flat" and picking out the pieces "like a jigsaw puzzle," suggesting pre-intermediate content reaching consciousness — as does the difficulty of specifying an "intermediate level" cleanly in non-visual modalities. Here the modest-versus-ambitious ambiguity bites: if intermediateness merely *labels* what becomes conscious, counterexamples are damaging; if it is meant to *explain* why, the explanatory burden is heavier still.
 
 **The conscious-intention objection.** Mylopoulos (2015) argues that AIR's perceptualism cannot accommodate conscious intentions. The dilemma: either conscious intentions are attended intermediate-level *sensory* representations — but people form conscious intentions without sensory imagery, and imagery alone cannot distinguish intending from merely desiring or predicting the same act — or intentions are never genuinely conscious, a reconstructive hypothesis that lacks empirical support. Either way, AIR's claim that all consciousness is perceptual looks too strong.
 
-**Attention without consciousness.** Cases of attentional modulation without acknowledged experience (some priming and cueing effects; disputed readings of blindsight) press the *sufficiency* half of the attention thesis, and critics note a circularity risk in operationalizing "attention" and "consciousness" non-circularly when executive control may already presuppose consciousness.
+**Attention without consciousness.** Cases of attentional modulation without acknowledged experience, among them some priming and cueing effects, press the *sufficiency* half of the attention thesis. The named case is a single [blindsight](/concepts/blindsight/) patient, GY: Kentridge, Heywood and Weiskrantz (1999) reported that attention gave stimuli at an attended location a processing advantage "without those stimuli entering consciousness." Prinz's reply, as Mole (2013) quotes it, is that "GY may suffer from a general deficit in his object representations, so his success may not reflect the presence of AIRs" (Prinz 2012, p. 115). Mole observes that the reply persuades only if intermediateness helps *explain* why contents become conscious — the ambitious reading flagged [above](#the-intermediate-level-thesis) — and is unavailable on the modest one. Critics also note a circularity risk in operationalizing "attention" and "consciousness" non-circularly when executive control may already presuppose consciousness.
 
 None of these refutes AIR outright; each marks strain on a purely attentional-functional account, and Prinz has replies.
 
@@ -119,5 +119,8 @@ Read as selection rather than constitution, AIR's attention mechanism aligns wit
 1. Mylopoulos, M. (2015). Conscious intention: a challenge for AIR theory. *Frontiers in Psychology*, 6, 675.
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs: General and Applied*, 74(11), 1–29.
 1. De Brigard, F. & Prinz, J. (2010). Attention and consciousness. *WIREs Cognitive Science*, 1(1), 51–59.
+1. Kentridge, R. W., Heywood, C. A., & Weiskrantz, L. (1999). Attention without awareness in blindsight. *Proceedings of the Royal Society B*, 266(1430), 1805–1811. https://doi.org/10.1098/rspb.1999.0850
+1. Chapman, J. (1966). The early symptoms of schizophrenia. *British Journal of Psychiatry*, 112(484), 225–251. https://doi.org/10.1192/bjp.112.484.225
+1. Lamme, V. A. F. (2020). Visual functions generating conscious seeing. *Frontiers in Psychology*, 11, 83. https://doi.org/10.3389/fpsyg.2020.00083
 1. Southgate, A. & Oquatre-huit, C. (2026-07-11). First-Order Representationalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/first-order-representationalism/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Attention Schema Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/attention-schema-theory/
