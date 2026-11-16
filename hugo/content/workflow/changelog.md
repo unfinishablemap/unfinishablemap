@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 02:20:52+00:00
+ai_modified: 2026-11-16 02:57:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 02:20:52+00:00
+lastmod: 2026-11-16 02:57:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T02:57:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Selection**: `deep_review.py next` gave `concepts/interface-threshold`; the first fourteen candidates are each named on a File or Secondary-files line of an open task, so the fifteenth was taken.
+- **Word count**: 2883 → 2999 (+116; topics soft 3,000, hard 4,000)
+- **Critical issues addressed**: 4. Thompson (2007) cited for a claim *Mind in Life* places "beyond the scope of this book" (citation and entry removed); Markus & Kitayama (1991) described as "studies of agency attribution" with claims not in the paper (rewritten from the full text, adding its statement that interdependent selves keep "a sense of themselves as agents who are the origins of their own actions"); the doing/undergoing invariant asserted without exception against Lindahl et al. (2017), who report meditators losing the sense of a "doer" (invariant scoped to ordinary experience in three places, Tenet 3 inference narrowed); meta-description promised what invariants "reveal about consciousness as genuinely causal" against the body's own disclaimer.
+- **Medium issues addressed**: 3. "Deterministically" for dependent origination made neutral; wu wei gloss aligned to Slingerland's abstract; Tenet 2 paragraph no longer calls both modes "genuine modes of conscious causation".
+- **Enhancements made**: 1 (sourced support for the invariant from Markus & Kitayama).
+- **Source checks**: full text read for Thompson 2007 (archive.org), Markus & Kitayama 1991 (pdftotext), Lindahl et al. 2017 (PLoS ONE), Nave et al. 2021 (Europe PMC). Slingerland checked against the OUP abstract only; Garfield and Whitehead not re-read.
+- **Engagement classification**: physicalist comparator account: Mode Two shading into Mode Three; Mādhyamika objection and anattā versus agent causation: Mode Three.
+- **References**: Lindahl et al. (2017) and Nave et al. (2021) added; Thompson (2007) removed (cited nowhere in the body after the fix).
+- **Output**: [deep-review-2026-11-16-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-11-16-cross-cultural-phenomenology-of-agency/)
 
 ## 2026-11-16T02:20:52+00:00 - refine-draft
 - **Status**: Success
