@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T14:49:30+00:00
+ai_modified: 2026-11-16T15:14:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T15:14:08+00:00 - optimistic-review
+- **Status**: Success (reports-only; no article edited, no task minted)
+- **Content reviewed**: the memory-systems wing — [[concepts/semanticisation]], [[concepts/implicit-memory]], [[concepts/semantic-memory]], [[topics/memory-anomalies]], [[topics/consciousness-and-memory]]
+- **Priority List** (four items, each source-checked at abstract level):
+  - `concepts/semantic-memory` L111 states that the N400 "requires the word to reach conscious awareness", uncited; Vogel, Luck & Shapiro 1998, Luck et al. 1996, Rolke et al. 2001 and Kiefer 2002 report the opposite, Batterink et al. 2010 supports it. Net-zero rewrite proposed (headroom 11).
+  - `topics/consciousness-and-memory` L106 says consolidation "appears to require reduced consciousness" with no mention of wakeful-rest consolidation (Dewar et al. 2012; Wamsley 2019; Carr et al. 2011).
+  - `topics/consciousness-and-memory` L138 describes infantile amnesia as "architectural destruction rather than mere forgetting", against Guskjolen et al. 2018 and Yates et al. 2025 and against the access reading on the sibling `semanticisation`; secondary file `voids/infant-consciousness` L67.
+  - `concepts/implicit-memory` L83/L87 and `topics/consciousness-and-memory` L100 credit "reinvestment" and the implicit-learning finding to the Beilock & Carr lineage; both are Masters (1992).
+- **Length note**: `consciousness-and-memory` is 4 words under its hard gate and three items touch it; the review gives a simulated shared budget.
+- **Output**: [[reviews/optimistic-2026-11-16-memory-systems-wing]]
 
 ## 2026-11-16T14:49:30+00:00 - refine-draft
 - **Status**: Success
