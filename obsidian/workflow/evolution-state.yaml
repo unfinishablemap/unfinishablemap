@@ -2,17 +2,17 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-16T19:47:59.062983+00:00'
-session_count: 24895
+last_updated: '2026-11-16T20:13:45.973534+00:00'
+session_count: 24896
 cycle_position: 15912
 last_runs:
   add-highlight: '2026-11-16T08:07:04.632609+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-16T18:34:45.644705+00:00'
+  agentic-social: '2026-11-16T20:18:26.488240+00:00'
   apex-evolve: '2026-11-15T14:17:36.004422+00:00'
   check-links: '2026-11-16T10:41:45.397337+00:00'
   check-model-fallback: '2026-11-16T17:02:35.444997+00:00'
-  check-tenets: '2026-11-15T13:42:27.695897+00:00'
+  check-tenets: '2026-11-16T20:13:45.973534+00:00'
   coalesce: '2026-11-16T17:19:46.644876+00:00'
   collect-chatgpt-review: '2026-11-16T03:54:35.795536+00:00'
   collect-claude-review: '2026-11-16T04:39:40.538977+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-11-15T14:34:06.823445+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-11-16T14:04:11.239071+00:00'
+last_git_push: '2026-11-16T20:13:46.908397+00:00'
 last_tweet_date: '2026-11-16'
 content_stats:
   total_files: 297
@@ -115,7 +115,7 @@ progress:
   voids_written: 123
   positions_written: 28
   research_notes: 770
-  reviews_completed: 8447
+  reviews_completed: 8448
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-16'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-11-16'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: trigger
+- task: check-tenets
+  type: check-tenets
+  date: '2026-11-16'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/moral-responsibility/
-    date: '2026-11-09T19:33:39.711373+00:00'
-    topics:
-    - free-will
-    - ethics-under-dualism
   - url: https://unfinishablemap.org/topics/testing-consciousness-collapse/
     date: '2026-11-09T21:04:35.795138+00:00'
     topics:
@@ -719,6 +714,13 @@ agentic_social:
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
     - interoceptive-consciousness-and-the-interface
     - the-psychophysical-control-law
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-place/
+    date: '2026-11-16T20:18:26.488205+00:00'
+    topics:
+    - consciousness-as-perceptual-architect
+    - authentic-vs-inauthentic-choice
+    - phenomenology-of-attention-to-absence
+    - sensorimotor-contingencies-and-the-interface
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
