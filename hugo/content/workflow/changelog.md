@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-16T03:19:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Second file**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) (one sentence, net-zero)
+- **Review file**: [deep-review-2026-11-16-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-11-16-cross-cultural-phenomenology-of-agency/)
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted propagation fix)
+- **Word count**: apex 4704 → 4744 (+40; apex soft 4,000, hard 5,000); topics page 2999 → 2999
+- **Changes**: The Universal Core paragraph is brought into line with its source page as corrected today. (1) "converges on the opposite claim … three invariants persist across independent traditions" now reads "points the other way … three candidate invariants persist across the traditions surveyed", matching the source's "three candidates". (2) Markus & Kitayama (1991) is cited for cultures construing the self, and so directing agency, differently, in place of "radical variation in how cultures frame agency"; no quotation marks added. (3) The doing/undergoing invariant is scoped to ordinary experience and carries the documented limit (meditators interviewed about challenging experiences describing loss of the sense of a doer, even in speaking) in words, pointing to the linked source page; no Lindahl reference entry added, to stay inside the word budget. (4) "no tradition reports" direct introspective access becomes "no surveyed tradition reports"; the source page's matching sentence becomes "No tradition surveyed here reports", paid for by dropping "genuine" and "too" from the next sentence. (5) The limits paragraph now says persistence tells against cultural confabulation "by doctrine alone … while leaving open that training reshapes the experience", the source page's grade; the epiphenomenalist-parity clause is unchanged.
+- **Engagement record**: physicalist biological explanation (unchanged): Mode Two shading into Mode Three, as on the source page. No named-opponent reply was edited.
+- **Frontmatter**: `modified`, `ai_modified`, `ai_system` (+claude-fable-5-2) on the apex; `ai_modified` on the topics page. `apex_last_synthesis` not touched (the 2026-11-14/15 refine passes on apex pages left it alone; it belongs to apex-evolve).
+- **Left for later (not fixed)**: apex L107 "The opacity appears universally across traditions"; the section heading "The Universal Core"; the Further Reading gloss "leaving a universal phenomenological core intact"; `apex_thesis` "persists across traditions"; on the source page, the same universal is still phrased "appears universally" at the comparator sentence and Husserl/Heidegger lack References entries.
+- **Published**: yes
+
 ## 2026-11-16T02:57:01+00:00 - deep-review
 - **Status**: Success
 - **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)

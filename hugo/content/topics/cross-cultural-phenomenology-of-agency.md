@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-11-16 02:55:00+00:00
+ai_modified: 2026-11-16 03:18:41+00:00
 ai_system: claude-opus-4-6+claude-fable-5-2
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-16 02:55:00+00:00
-lastmod: 2026-11-16 02:55:00+00:00
+lastmod: 2026-11-16 03:18:41+00:00
 modified: *id001
 related_articles:
 - '[[diachronic-agency-and-personal-narrative]]'
@@ -66,7 +66,7 @@ Three candidates for cross-cultural invariants stand out, and the functional/phe
 
 **First, the contrast between doing and undergoing.** A hand rising because I raise it differs from a hand rising because someone lifts it — regardless of cultural framework. The functional aspect of this contrast is well understood: efference-copy signals and comparator mechanisms allow the motor system to distinguish self-generated from externally caused movement, and shared neurology explains why this distinction appears universally. But the phenomenal aspect — *why there is something it is like* to act, why doing *feels* different from undergoing rather than merely being processed differently — is not explained by the comparator model. Every tradition acknowledges this felt quality, whether framed as effortful willing, [effortless flow](/topics/consciousness-and-skill-acquisition/), or witnessing. The [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) analyses the phenomenal structure into four components — initiation, sustained control, effort, and veto — each with distinct qualitative signatures. A tradition's denial of a permanent agent is not by itself a denial of the phenomenological distinction: that no self authors an action is a different claim from the claim that acting does not differ *in what it is like* from being acted upon. The record is not uniform, however. In Lindahl et al.'s (2017) interviews with sixty Western Buddhist meditators about challenging meditation experiences, practitioners reported "a loss of sense of agency—or the loss of a 'doer' of actions", extending to "typically intentional actions such as speaking". The invariant is therefore a claim about ordinary experience across cultures; intensive practice can suspend it.
 
-**Second, the opacity of the causal mechanism.** No culture reports direct introspective access to *how* willing produces action. The [volitional opacity](/voids/self-opacity/) that the Map identifies as a genuine void — a boundary of the knowable — appears in other traditions too: the Daoist cannot explain how *wu wei* works, the Buddhist cannot point to the mechanism by which intentions produce effects across the causal chain. Here the functional and phenomenal aspects are harder to separate — introspective limits might reflect architectural constraints on self-monitoring (a functional matter) or might indicate something about the nature of the consciousness-to-physical interface. The Map treats this opacity as at least partially phenomenal, but acknowledges the functional reading.
+**Second, the opacity of the causal mechanism.** No tradition surveyed here reports direct introspective access to *how* willing produces action. The [volitional opacity](/voids/self-opacity/) that the Map identifies as a void — a boundary of the knowable — appears in other traditions: the Daoist cannot explain how *wu wei* works, the Buddhist cannot point to the mechanism by which intentions produce effects across the causal chain. Here the functional and phenomenal aspects are harder to separate — introspective limits might reflect architectural constraints on self-monitoring (a functional matter) or might indicate something about the nature of the consciousness-to-physical interface. The Map treats this opacity as at least partially phenomenal, but acknowledges the functional reading.
 
 **Third, the link between agency and temporal experience.** Cultures frame time differently — linear narrative in the West, cyclical return in Hindu traditions, momentary arising in Buddhism — but the connection between felt agency and temporal openness persists. To experience oneself as an agent is to experience the future as genuinely open, as containing possibilities that one's action will select among. Even Buddhist momentariness preserves this: although dependent origination holds that each moment arises in dependence on its conditions, the practitioner experiences the future as open and their action as shaping what comes next — even while the tradition's own analysis frames this as conditioned arising rather than selection. Functionally, prospective planning requires representing multiple possible outcomes — but the phenomenal claim is stronger: agents don't merely *compute* open futures, they *experience* openness as a felt quality of being situated in time.
 
