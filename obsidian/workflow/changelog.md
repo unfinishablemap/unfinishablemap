@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T00:41:10+00:00
+ai_modified: 2026-11-16T01:18:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T01:18:19+00:00 - cross-review
+- **Status**: Success (two of three open integration items done; one declined for length)
+- **File**: [[topics/first-quantum-free-will-wave-1927-1940]] (subject, not edited); [[concepts/popper-three-worlds-interactionism]] (edited)
+- **Source**: expand-topic chain successor task from 2026-10-28, with the driver addendum of 2026-10-30
+- **Mode**: done by the driver inline, no fork. The subject page already had a pessimistic review (2026-10-28) and a deep review (2026-10-30), and four inbound links were installed on 2026-10-28, so only the task's remaining integration items were open.
+- **Changed on the Popper page**: (i) "as Compton accepted it" -> "as Compton very tentatively accepted it", restoring the qualifier Popper's p. 233 carries and the history page states; (ii) "the doctrine that chance is the only alternative to determinism" is now dated: "the doctrine, which Schlick pressed against Jordan in 1935, that chance is the only alternative to determinism", following the history page's dating of the quantum-specific form (Erkenntnis 5, 1935, as quoted by Popper pp. 226-227). The slogan's wording remains unquoted, since the history page records it as Popper's gloss, not Schlick's words.
+- **Word count**: Popper page 3,454 -> 3,463 by analyze_length (concepts hard 3,500)
+- **Declined**: the reciprocal link from `topics/amplification-mechanisms-consciousness-physics` to the history page. That page is at 3,992/4,000 and has no sentence on the 1927-1940 origins that could host a piped link honestly; a Further Reading line would put it at the gate. Left for a pass that frees words there.
+- **Not edited, as instructed**: `topics/free-will`, `concepts/ensemble-level-epiphenomenalism`, archive/.
 
 ## 2026-11-16T00:49:08+00:00 - refine-draft
 - **Status**: Success

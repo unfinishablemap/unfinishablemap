@@ -2,9 +2,9 @@
 title: "Popper's Three-Worlds Interactionism and Eccles's Trialism"
 description: "A human-AI study of Popper's three worlds and Eccles's trialism: the Map borrows Popper's open causal closure and conservation reply, but not his World-3 route to mind."
 created: 2026-10-13
-modified: 2026-11-01
+modified: 2026-11-16
 human_modified:
-ai_modified: 2026-11-01T15:30:39+00:00
+ai_modified: 2026-11-16T01:18:19+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-10-13
 last_curated:
 last_deep_review: 2026-10-14T21:26:18+00:00
@@ -67,7 +67,7 @@ Popper's verdict in "Of Clouds and Clocks" was blunt: "the model has no similari
 
 What rational behaviour needs, Popper argued, is "something intermediate in character between perfect chance and perfect determinism" (p. 228), and he called the thesis that nothing intermediate can exist "clearly absurd" (p. 228). His candidate was "a 'plastic control', as I shall call it in contradistinction to a 'cast-iron control'" (p. 232). He added that considered decisions are "reached by a kind of maturing process which is not well represented by the master-switch model" (p. 234).
 
-The objection targets a mechanism family the Map belongs to, and positing a selector does not move the Map outside it. The model as Popper describes it, and as Compton accepted it, already has minds working on bodies "by influencing or selecting some quantum jumps" (p. 233), and he met its refinement, a mind acting "just within the Heisenberg uncertainties", with a concession and a refusal: "I admit that there is perhaps a slight advance here, in so far as the size of the baby is specified. But I still do not love the baby" (p. 233). Two complaints survive the concession. The first is Schlick's: of the indeterministic theories, "it is not clear how they escape from Schlick's objection" (p. 232), the doctrine that chance is the only alternative to determinism. The second is grain: the amplifier model "strongly suggests that all our decisions are either snap-decisions ... or else composed of snap-decisions" (p. 233). On the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, consciousness biases which outcome occurs toward patterns that express its content, a guided indeterminism that is structurally a candidate for Popper's intermediate category, undetermined yet not chance. The candidacy has to be earned against both complaints. Popper himself later granted the structural point, in a 1977 passage footnoted to these pages: "I have changed my mind on this issue. A choice process may be a selection process, and the selection may be from some repertoire of random events, without being random in its turn" (Popper 1987, p. 147). He did not say the repertoire is quantum, and the grain complaint survives his retraction.
+The objection targets a mechanism family the Map belongs to, and positing a selector does not move the Map outside it. The model as Popper describes it, and as Compton very tentatively accepted it, already has minds working on bodies "by influencing or selecting some quantum jumps" (p. 233), and he met its refinement, a mind acting "just within the Heisenberg uncertainties", with a concession and a refusal: "I admit that there is perhaps a slight advance here, in so far as the size of the baby is specified. But I still do not love the baby" (p. 233). Two complaints survive the concession. The first is Schlick's: of the indeterministic theories, "it is not clear how they escape from Schlick's objection" (p. 232), the doctrine, which Schlick pressed against Jordan in 1935, that chance is the only alternative to determinism. The second is grain: the amplifier model "strongly suggests that all our decisions are either snap-decisions ... or else composed of snap-decisions" (p. 233). On the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, consciousness biases which outcome occurs toward patterns that express its content, a guided indeterminism that is structurally a candidate for Popper's intermediate category, undetermined yet not chance. The candidacy has to be earned against both complaints. Popper himself later granted the structural point, in a 1977 passage footnoted to these pages: "I have changed my mind on this issue. A choice process may be a selection process, and the selection may be from some repertoire of random events, without being random in its turn" (Popper 1987, p. 147). He did not say the repertoire is quantum, and the grain complaint survives his retraction.
 
 Schlick's complaint returns at the Map's weakest point. On its default reading the Map's selector preserves Born statistics, and if it does so exactly, a selected outcome is [[ensemble-level-epiphenomenalism|observer-indistinguishable]] from an unselected one. That is the bias-without-deviation dilemma recorded in the Map's [[positions/quantum-interface#^mechanism-debt|mechanism debt]], and from outside, a Born-preserving selector looks exactly like Popper's penny. The Map's reply to the [[quantum-indeterminacy-free-will|luck objection]], that selection tracks reasons, works only inside its dualist framework; the [[trilemma-of-selection|trilemma of selection]] states the burden in general form. The grain complaint is untouched by that reply: if decisions mature over lengthy deliberation, a mechanism located at single quantum events owes an account of [[temporal-consciousness-structure-and-agency|how many selections add up to one choice]]. Beck and Eccles's model biases probabilities rather than amplifying a bare jump, but whether biasing escapes either complaint is the open question, and the selection posit carries that debt rather than discharging it.
 
