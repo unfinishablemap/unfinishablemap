@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-09-28 10:40:00+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-11-16 23:51:08+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[emergence]]'
@@ -13,14 +13,14 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
 created: 2026-02-05
-date: &id001 2026-04-24
+date: &id001 2026-11-16
 description: Human+AI exploration of why no mind can grasp how arrangement produces
   novelty—the cognitive gap at every level transition, deepest at consciousness.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:41:07+00:00
-lastmod: 2026-09-28 10:40:00+00:00
+lastmod: 2026-11-16 23:51:08+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -104,11 +104,11 @@ The comparison between human and AI approaches to emergence may illuminate what 
 
 The emergence void connects to the Map's [tenets](/tenets/) at multiple points.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly illustrated. The preference for reductive explanation—the simplest account of parts should yield the simplest account of wholes—systematically fails at level transitions. Emergence is where parsimony breaks: insisting on reductive simplicity leads to denying the reality of emergent properties, which means denying what we directly observe.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated, not tested. The preference for reductive explanation—the simplest account of parts should yield the simplest account of wholes—delivers derivation without comprehension at the transitions where it succeeds. Weak emergence is compatible with reduction, and a reductionist denies no observed property, only that it is underivable.
 
-**[Dualism](/tenets/#dualism)** gains support, but only through a difference in kind, not merely in depth. If the emergence void were uniform—the same gap, deeper at consciousness—then greater depth alone would not license dualism: a universal cognitive limit at level transitions would say something about minds, and would sit as comfortably with physicalism as with its denial. The dualist inference needs the asymmetry to be one of kind. At every other transition a derivation exists and comprehension lags behind it; at consciousness no derivation exists, and the conceivability of its absence—[zombies](/concepts/philosophical-zombies/)—is what the [emergence](/concepts/emergence/) article uses to separate strong from weak emergence. The void is deeper for experience than for temperature because it is a different void: derivation failing to exist rather than comprehension failing to follow derivation. That is what supports the claim that consciousness involves something physics does not capture. Hasker's [emergent dualism](/concepts/emergent-dualism/) meets the same question in ontological form—whether the emergence of a new mental substance differs from the emergence of liquidity in degree or in kind—and treats the cognitive puzzle of that leap as an instance of this void.
+**[Dualism](/tenets/#dualism)** is engaged only through a difference in kind, not merely in depth, and by the conceivability argument, not by the void. If the emergence void were uniform—the same gap, deeper at consciousness—then greater depth alone would not license dualism: a universal cognitive limit at level transitions would say something about minds, and would sit as comfortably with physicalism as with its denial. The dualist inference needs the asymmetry to be one of kind. At every other transition a derivation exists and comprehension lags behind it; at consciousness, the Map holds, no derivation exists, and the conceivability of its absence—[zombies](/concepts/philosophical-zombies/)—is what the [emergence](/concepts/emergence/) article uses to separate strong from weak emergence. The void is deeper for experience than for temperature because it is a different void: derivation failing to exist rather than comprehension failing to follow derivation. That asymmetry is the Map's ground here for holding that consciousness involves something physics does not capture, and it is contested where the conceivability argument is: [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) grants an epistemic gap that will never close and denies that it marks a gap in reality. As a catalogue entry the void adds no weight: the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3). Hasker's [emergent dualism](/concepts/emergent-dualism/) meets the same question in ontological form—whether the emergence of a new mental substance differs from the emergence of liquidity in degree or in kind—and treats the cognitive puzzle of that leap as an instance of this void.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is a claim about crossing the very boundary the emergence void marks. [Downward causation](/concepts/mental-causation-and-downward-causation/)—consciousness influencing physical outcomes—means information crossing from macro to micro, traversing the gap in the reverse direction. If the emergence void is genuine, downward causation may be *real but unintelligible*: we can affirm it on the basis of evidence without being able to comprehend how it works.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is a claim about crossing the very boundary the emergence void marks. [Downward causation](/concepts/mental-causation-and-downward-causation/)—consciousness influencing physical outcomes—means information crossing from macro to micro, traversing the gap in the reverse direction. If the emergence void is genuine, downward causation may be *real but unintelligible*: the Map holds it as a commitment, supported by self-stultification and indirect evidence and [shown available, not actual](/tenets/#tenet-3-standing), without comprehending how it would work.
 
 The hard problem, reframed through the emergence void, is consciousness's expression of a limit that appears in some form at every level transition—an expression that differs in kind, not only in degree, from the others. The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) develops the philosophical complement to this cognitive diagnosis, and presses it further: on its universalist reading every level transition harbours the *same* explanatory gap between arrangement and qualitative character, and reduction relocates that gap rather than closing it. The present article stops short of the sameness claim. It holds that every level boundary resists comprehension, and that consciousness is where the resistance becomes impossible to ignore, but also that the phenomenal instance is where the derivation itself goes missing; the two pages agree on the cognitive diagnosis and diverge on whether the gap is one or two.
 

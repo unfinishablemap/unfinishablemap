@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-09-08 12:51:48+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-16 23:51:08+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
 author: null
 concepts:
 - '[[binding-problem]]'
@@ -13,7 +13,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[introspection]]'
 created: 2026-02-24
-date: &id001 2026-04-28
+date: &id001 2026-11-16
 description: Human+AI exploration of why unified conscious experience resists explanation—the
   void where disparate sensations become one seamless field yet no mechanism can be
   found.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 09:04:46+00:00
-lastmod: 2026-09-08 12:51:48+00:00
+lastmod: 2026-11-16 23:51:08+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -134,11 +134,11 @@ AI also mirrors the human predicament: it cannot determine whether it possesses 
 
 The binding void connects to the Map's [tenets](/tenets/) at multiple points, mostly by the catalogue's apophatic route: a void supplies the absence of a competing explanation rather than positive evidence.
 
-**[Dualism](/tenets/#dualism)** gains indirect support. Descartes supplies the historical antecedent—the mind is indivisible while matter is always divisible—but that argued for *substance* dualism, which this void does not need. The inference runs on irreducibility alone: if phenomenal binding resists analysis into anything more basic, no account of the physical parts delivers the unity. An interactionist property dualist would reach the same conclusion ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)).
+**[Dualism](/tenets/#dualism)** is engaged through the [unity argument](/concepts/unity-of-consciousness/), at that argument's grade and no higher. The datum this page reports is that every analysis of phenomenal unity on offer reaches for something already unified. That concerns how experience can be analysed; it does not show that unity resists realisation in neural integration, and [cognitive closure](/concepts/mysterianism/) with a natural explanation out of reach expects the same opacity, so the datum does not discriminate. Descartes supplies the historical antecedent—the mind is indivisible while matter is always divisible—but that argued for *substance* dualism, which this void does not need; an interactionist property dualist can hold the unity argument too ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)). The Map holds phenomenal unity irreducible to relations among physical parts, on an argument its opponents dispute. The void adds no weight to that commitment: the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3), which covers the framework-independent list this void sits on.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** gains a coordination story. A unified consciousness could act as a single causal agent precisely because it is bound—making "minimal" interaction possible as one unified act rather than billions of independent micro-interactions.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is not engaged. One unified act in place of billions is fewness of interventions; the tenet's minimality concerns the size of the influence, and a physical controller enjoys the same economy. The Map's interface account needs a unified locus of selection, which [phenomenal unity does not by itself supply](/concepts/unity-of-consciousness/).
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds its most intimate application. Binding may be the first instance of consciousness acting causally—structuring its own experience into a unified field. The binding void's occluded dimension suggests this primordial self-structuring is hidden because it is the foundation on which all other conscious activity rests.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is engaged only speculatively. The tenet concerns influence on physical outcomes; consciousness structuring its own experience into a unified field would be a further relation, and the void shows neither. If such self-structuring occurs, the occluded dimension would have it hidden because it is the foundation on which all other conscious activity rests.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** connects through [indexical identity](/concepts/indexical-knowledge-and-identity/). Phenomenal binding is a concrete feature of *this* particular experience right now. [Branch-relative indexicality (Saunders/Wallace)](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) already secures branch-local concreteness, since each branch's observer truly experiences *this* unified field. The Map's stronger commitment is that the unity is one-branch-only rather than locally-articulated across a branching structure—withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires.
 

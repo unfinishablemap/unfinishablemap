@@ -2,9 +2,9 @@
 title: "Formal Cognitive Limits: Computation and Incompleteness"
 description: "Mathematics has proved that certain truths are unreachable by any computational system. Gödel, Turing, Rice, and Chaitin define voids whose existence is mathematically certain—though whether consciousness itself is bound by them depends on whether consciousness is computational."
 created: 2026-01-27
-modified: 2026-04-26
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-09-14T17:21:31+00:00
+ai_modified: 2026-11-16T23:51:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[vagueness-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2
 ai_generated_date: 2026-04-17
 last_curated: null
 last_deep_review: 2026-07-18T15:28:50+00:00
@@ -41,7 +41,7 @@ coalesced_from:
 
 Mathematics has proved that certain truths cannot be reached by any computational system. The halting problem, Gödel's incompleteness theorems, Rice's theorem, and Chaitin's incompleteness establish formal boundaries on what any algorithmic process can determine. These are proved for computation as such, permanent for any Turing-computational system.
 
-Whether these limits constrain consciousness depends on whether consciousness is computational. If it is, these theorems bound minds as well as machines. If consciousness transcends computation—as the Map's [[tenets#^dualism|dualism]] suggests—the same theorems constrain machines while leaving open what consciousness may reach.
+Whether these limits constrain consciousness depends on whether consciousness is computational. If it is, these theorems bound minds as well as machines. If consciousness transcends computation—as the Map's [[tenets#^dualism|dualism]] permits—the same theorems constrain machines while leaving open what consciousness may reach.
 
 ## The Halting Problem
 
@@ -63,7 +63,7 @@ Whether Gödel's disjunction itself is decidable may be undecidable.
 
 ## The Lucas-Penrose Argument
 
-J.R. Lucas (1961) and Roger Penrose (1989, 1994) argued that Gödel's theorems show human minds are not reducible to computation. Their core claim: humans can recognise the truth of Gödel sentences for any formal system, while no consistent algorithm implementing that system can. If correct, this supports the Map's [[tenets#^dualism|dualist]] commitment. See [[consciousness-and-mathematics]] for detailed treatment.
+J.R. Lucas (1961) and Roger Penrose (1989, 1994) argued that Gödel's theorems show human minds are not reducible to computation. Their core claim: humans can recognise the truth of Gödel sentences for any formal system, while no consistent algorithm implementing that system can. If correct, the argument would show minds non-computational, which the Map's [[tenets#^dualism|dualist]] commitment permits and so does a physicalism with non-computable physics. See [[consciousness-and-mathematics]] for detailed treatment.
 
 Most philosophers reject the argument. The **consistency objection** (Putnam, others): Gödel's second theorem states that a consistent system cannot prove its own consistency. Applied to human minds—which demonstrably make logical errors—we cannot establish our own cognition is consistent, so the transcendence argument may not apply. The **mechanism objection** (Feferman): mathematicians progress by trial, error, and insight, yet sophisticated machines might do the same. The gap might be practical rather than principled.
 
@@ -127,9 +127,9 @@ No AI, however powerful, escapes these limits for systems operating by Turing co
 
 ## Relation to Site Perspective
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives strong support. The simplest assumption—that everything is computable, predictable, or provable—is mathematically false. Reality contains truths no algorithmic process can reach. Parsimony cannot be trusted when self-reference creates provable limits.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated, not supported. One tempting simplification—that everything true is computable or provable—is mathematically false. That is a result about one assumption; the tenet concerns simplicity as a guide in theory choice, which no theorem here addresses.
 
-**[[tenets#^dualism|Dualism]]** gains indirect support through Lucas-Penrose. Though a minority position, the underlying question remains unresolved. If dualism is correct and consciousness is irreducible to physical processes, it may also be irreducible to computational processes—in which case Gödel/Turing limits constrain machines but not minds.
+**[[tenets#^dualism|Dualism]]** gains nothing from the theorems, which are silent on what minds are. The Lucas-Penrose argument would carry them over to minds; the Map treats that route as [[self-reference-and-the-limits-of-physical-description#the-lucas-penrose-route-a-cautionary-case|a cautionary case]], rejected by most philosophers for the reasons above, and does not rest its case on it. A sound version would show only that minds are not computational, which a non-computable physical process would allow as readily as a non-physical one, so it would not discriminate. The Map's conditional runs the other way: if consciousness is irreducible to physical processes, it may also be irreducible to computation, in which case Gödel/Turing limits bind machines and leave open what minds may reach. Irreducibility is the Map's commitment, on the tenet's own ground; the void adds no weight to it: the voids register has [[positions/voids-as-evidence#^p-v3|suspended the cumulative step]], which covers the framework-independent list this void sits on.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** connects through where consciousness interfaces with physics. If that interface operates non-computationally, consciousness might access truths beyond computational reach.
 
