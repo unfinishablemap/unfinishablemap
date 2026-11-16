@@ -5,6 +5,13 @@ ai_modified: 2026-11-16T13:03:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-16T13:30:40+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/creative-aesthetic-void` (2270 words; hard 3000). Chosen on review content: one of six live pages with no pessimistic-review mention, no deep review in 60 days and no open task, and the one with the most quoted and attributed material.
+- **Findings**: all eight quotation strings verify verbatim at primary text (Poincaré, Kant, Hume, Schopenhauer). Four defects in paraphrase and references: L134 Hadamard "interviews … including Einstein" (questionnaire and letters; Einstein's letter concerns imagery, not incubation); L138 and lead "insights arrive complete" against Poincaré's "point of departure" and Kounios and Beeman's "culmination of a series of brain states"; reference 15 cites an SEP entry "Sublime" that does not exist (the real entry is Shapshay, "Schopenhauer's Aesthetics"), and three references are never cited; L102 aphantasics "lacking visual imagination entirely" against Zeman et al. (2020).
+- **Tasks**: none written; reports-only, the driver mints from the Priority List.
+- **Output**: [[reviews/pessimistic-2026-11-16-creative-aesthetic-void]]
+
 ## 2026-11-16T13:03:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-evolution-and-biology]]
