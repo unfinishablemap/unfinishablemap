@@ -2,9 +2,9 @@
 title: "Phenomenology of Agency vs Passivity"
 description: "Maps the felt contrast between doing and undergoing along more than one dimension, surveys the dissociations that pull it apart, and offers the Map's selection reading as one the evidence fits without establishing."
 created: 2026-02-09
-modified: 2026-11-04
+modified: 2026-11-16
 human_modified:
-ai_modified: 2026-11-04T11:37:28+00:00
+ai_modified: 2026-11-16T03:34:29+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[project/evidential-status-discipline]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-07-17T23:47:40+00:00
@@ -122,7 +122,7 @@ Under hypnosis, subjects report that their arm rises "by itself." The motor outp
 
 Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying authorship or control of its actions (agency). The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient intending it. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
 
-This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [[mine-ness]] and dissociates from agency only on the standard but most contested agency reading of [[thought-insertion|thought insertion]]: agency lost, ownership preserved. [[depersonalisation|Depersonalisation]] disturbs ownership, but whether felt initiation survives depends on the reading: on the Gallagher-style reading it does, while [[depersonalisation#The Active-Inference Self-Model|active-inference accounts]] find felt control disturbed as well, and the clinical sketch below records actions feeling automatic. The dissociation is therefore at most one-way, and only on the agency reading. Anarchic hand still shows that the sense of agency is not simply body-ownership plus motor output, since that package can be present while agency is missing. What more is required is a framework-internal question; the Map's answer—genuine conscious selection—is a reading it defends on other grounds, not something the dissociations alone establish.
+This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [[mine-ness]] and dissociates from agency only on the standard but most contested agency reading of [[thought-insertion|thought insertion]]: agency lost, ownership preserved. [[depersonalisation|Depersonalisation]] disturbs ownership, but whether felt initiation survives depends on the reading: on the Gallagher-style reading it does, while [[depersonalisation#The Active-Inference Self-Model|active-inference accounts]] find felt control disturbed as well, and the clinical sketch below records actions feeling automatic. A direct test in a non-clinical sample came back null: Ciaunica et al. (2024) compared groups scoring high and low on a depersonalisation scale (N = 93) and report no significant overall difference in rated agency or in intentional binding (binding slopes, p = 0.090). Binding is an imperfect index of initiation (discussed below), and a null at trait level does not show initiation spared in the disorder. The dissociation is therefore at most one-way, and only on the agency reading. Anarchic hand still shows that the sense of agency is not simply body-ownership plus motor output, since that package can be present while agency is missing. What more is required is a framework-internal question; the Map's answer—genuine conscious selection—is a reading it defends on other grounds, not something the dissociations alone establish.
 
 ## What the Contrast Reveals
 
@@ -197,6 +197,7 @@ The disorders pull apart elements normally bundled with agency—authorship, eff
 ## References
 
 1. Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
+1. Ciaunica, A., Ayache, J., Haggard, P., Nakul, E., Bonnet, E. & Auvray, M. (2024). Explicit and implicit sense of agency in depersonalisation experiences. *Scientific Reports*, 14, 15396. https://doi.org/10.1038/s41598-024-65862-z
 1. Della Sala, S., Marchetti, C. & Spinnler, H. (1991). Right-sided anarchic (alien) hand: A longitudinal study. *Neuropsychologia*, 29(11), 1113-1127.
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 1. Frith, C.D. (1992). *The Cognitive Neuropsychology of Schizophrenia*. Lawrence Erlbaum Associates.

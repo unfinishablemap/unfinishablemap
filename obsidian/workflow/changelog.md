@@ -5,6 +5,19 @@ ai_modified: 2026-11-16 02:57:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-16T03:34:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Second file**: [[concepts/thought-insertion]]
+- **Research note**: [[research/implicit-agency-and-self-prioritisation-in-depersonalisation-2026-10-28]]
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted two-passage install from the research note)
+- **Already installed**: nothing. Neither page cited Ciaunica 2024 or Lane 2020 (the seven "Lane" hits on thought-insertion were all Lane 2012); `git log -S` shows no earlier install of either.
+- **Changes**: (A) agency-vs-passivity, "Ownership Without Agency" paragraph: two sentences inserted before "The dissociation is therefore at most one-way…", recording that Ciaunica et al. 2024 (non-clinical, high vs low Cambridge Depersonalisation Scale scorers, N = 93) found no significant overall group difference in rated agency or intentional binding (binding slopes p = 0.090), with two limits stated: binding is an imperfect index of initiation, and a trait-level null does not show initiation spared in the disorder. Reference added between Bayne & Levy 2006 and Della Sala et al. 1991. The research note's drafted clause "the two measures correlated only in the low group" was NOT installed: at source the low-group correlation is a non-significant trend (r = 0.25, p = 0.096) and only the whole-sample correlation is significant (r = 0.23, p = 0.025). The note's "Felt initiation is therefore not shown degraded…" was replaced by the two limits, per the 2026-11-04 coordination notes. Optional L135 clause dropped per the combine note. (D) thought-insertion, "Ownership Lost": one sentence presenting Lane 2020 as the softer, later position (defends the minimal-self hypothesis as an empirical conjecture; expounds HPZ's perspectival/personal ownership contrast; extrapolates that "inserted thoughts exhibit for-me-ness, understood as perspectival ownership"), plus a ten-word scoping sentence so the page's other "Lane denies" statements read as the 2012 position. Lane 2020 added as reference 17; references 17–28 renumbered 18–29 (the page has no numeric in-text citations).
+- **Source checks**: Ciaunica 2024 via Europe PMC full-text XML (PMC11224402, 60,103 characters) and Crossref; Lane 2020 via Crossref, PubMed 33091792 and the publisher-typeset PDF (Wayback copy of the PhilArchive deposit, 17,382 words). Every printed number and quoted phrase grep-verified in the extracted text.
+- **Engagement classification**: none; no named-opponent reply was edited.
+- **Length (analyze_length)**: agency-vs-passivity 3,861 → 3957 of 4,000; thought-insertion 3,137 → 3196 of 3,500.
+- **Published**: yes
+
 ## 2026-11-16T03:19:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/phenomenology-of-consciousness-doing-work]]

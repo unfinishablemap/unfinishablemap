@@ -2,9 +2,9 @@
 title: "Thought Insertion and What the Alien Thought Keeps"
 description: "Thought insertion read five ways: the alien thought keeps a first-person perspective or is not conscious, but whether that perspective is for-me-ness is disputed. The Map's kind-claim stands, unsettled."
 created: 2026-10-01
-modified: 2026-11-04
+modified: 2026-11-16
 human_modified:
-ai_modified: 2026-11-14T15:53:12+00:00
+ai_modified: 2026-11-16T03:34:29+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-ownership-problem]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-10-01
 last_curated:
 last_deep_review: 2026-10-01T20:37:04+00:00
@@ -55,7 +55,7 @@ The strongest objection is Billon's (2013). Obsessional intrusions also arrive w
 
 ### Ownership Lost
 
-On the second family of readings ownership itself fails and agency loss follows. Metzinger (2003), on Zahavi and Kriegel's report, takes such cases "to demonstrate that phenomenological mineness is not a necessary component of experience" (Zahavi & Kriegel 2016, p. 42). Lane (2012), as they quote him, goes further: "Phenomenal consciousness does not entail self-awareness; it is not stamped with a meish quality; and, for-me-ness does not play a determining role in its constitution". Martin and Pacherie (2013) hold that "thought insertion primarily involves a disruption of the sense of ownership for thoughts", with agency loss its consequence, caused by failed context integration.
+On the second family of readings ownership itself fails and agency loss follows. Metzinger (2003), on Zahavi and Kriegel's report, takes such cases "to demonstrate that phenomenological mineness is not a necessary component of experience" (Zahavi & Kriegel 2016, p. 42). Lane (2012), as they quote him, goes further: "Phenomenal consciousness does not entail self-awareness; it is not stamped with a meish quality; and, for-me-ness does not play a determining role in its constitution". Lane (2020) is softer: defending the minimal-self hypothesis as an empirical conjecture and expounding HPZ's contrast between "perspectival ownership" and "personal ownership", he extrapolates that "inserted thoughts exhibit for-me-ness, understood as perspectival ownership". Elsewhere on this page "Lane denies" reports the 2012 position. Martin and Pacherie (2013) hold that "thought insertion primarily involves a disruption of the sense of ownership for thoughts", with agency loss its consequence, caused by failed context integration.
 
 ### Billon 2013: Neither Subjective nor Phenomenally Conscious
 
@@ -141,15 +141,16 @@ The case is also the standard proposed counterexample to [[immunity-to-error-thr
 14. Jack, B. N., Le Pelley, M. E., Han, N., Harris, A. W. F., Spencer, K. M. & Whitford, T. J. (2019). Inner speech is accompanied by a temporally-precise and content-specific corollary discharge. *NeuroImage*, 198, 170–180. https://doi.org/10.1016/j.neuroimage.2019.04.038 (Abstract.)
 15. Kendler, K. S. & Mishara, A. (2019). The prehistory of Schneider's first-rank symptoms: Texts from 1810 to 1932. *Schizophrenia Bulletin*, 45(5), 971–990. https://doi.org/10.1093/schbul/sbz047 (Abstract.)
 16. Lane, T. (2012). Toward an explanatory framework for mental ownership. *Phenomenology and the Cognitive Sciences*, 11(2), 251–286. https://doi.org/10.1007/s11097-012-9252-4 (Metadata; quoted via Zahavi & Kriegel 2016.)
-17. Martin, J.-R. & Pacherie, E. (2013). Out of nowhere: Thought insertion, ownership and context-integration. *Consciousness and Cognition*, 22(1), 111–122. https://doi.org/10.1016/j.concog.2012.11.012 (Abstract.)
-18. Mellor, C. S. (1970). First rank symptoms of schizophrenia. *British Journal of Psychiatry*, 117(536), 15–23. https://doi.org/10.1192/s0007125000192116 (Metadata; patient report quoted via HPZ 2019 and Guillot 2017.)
-19. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press. https://doi.org/10.7551/mitpress/1551.001.0001 (Metadata; position via Zahavi & Kriegel 2016.)
-20. Mullins, S. & Spence, S. A. (2003). Re-examining thought insertion. *British Journal of Psychiatry*, 182(4), 293–298. https://doi.org/10.1192/bjp.182.4.293 (Abstract.)
-21. Ratcliffe, M. & Wilkinson, S. (2015). Thought insertion clarified. *Journal of Consciousness Studies*, 22(11–12), 246–269. (Abstract.)
-22. Smith, J. (2024). Self-Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/self-consciousness/ (Full text.)
-23. Sterzer, P., Mishara, A. L., Voss, M. & Heinz, A. (2016). Thought insertion as a self-disturbance. *Frontiers in Human Neuroscience*, 10, 502. https://doi.org/10.3389/fnhum.2016.00502 (Abstract.)
-24. Synofzik, M., Vosgerau, G. & Newen, A. (2008). Beyond the comparator model. *Consciousness and Cognition*, 17(1), 219–239. https://doi.org/10.1016/j.concog.2007.03.010 (Abstract.)
-25. Whitford, T. J., Jack, B. N., Pearson, D., Griffiths, O., Luque, D., Harris, A. W. F., Spencer, K. M. & Le Pelley, M. E. (2017). Neurophysiological evidence of efference copies to inner speech. *eLife*, 6, e28197. https://doi.org/10.7554/eLife.28197 (Abstract.)
-26. Zahavi, D. & Kriegel, U. (2016). For-me-ness: What it is and what it is not. In D. O. Dahlstrom, A. Elpidorou & W. Hopp (eds), *Philosophy of Mind and Phenomenology* (pp. 36–53). Routledge. (Full text, page proof.)
-27. Southgate, A., Oquatre-sept, C. & Fabcinq-un, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
-28. Southgate, A. & Fabcinq-un, C. (2026-10-01). Depersonalisation and the Separability of For-Me-Ness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/depersonalisation/
+17. Lane, T. J. (2020). The minimal self hypothesis. *Consciousness and Cognition*, 85, 103029. https://doi.org/10.1016/j.concog.2020.103029 (Full text.)
+18. Martin, J.-R. & Pacherie, E. (2013). Out of nowhere: Thought insertion, ownership and context-integration. *Consciousness and Cognition*, 22(1), 111–122. https://doi.org/10.1016/j.concog.2012.11.012 (Abstract.)
+19. Mellor, C. S. (1970). First rank symptoms of schizophrenia. *British Journal of Psychiatry*, 117(536), 15–23. https://doi.org/10.1192/s0007125000192116 (Metadata; patient report quoted via HPZ 2019 and Guillot 2017.)
+20. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press. https://doi.org/10.7551/mitpress/1551.001.0001 (Metadata; position via Zahavi & Kriegel 2016.)
+21. Mullins, S. & Spence, S. A. (2003). Re-examining thought insertion. *British Journal of Psychiatry*, 182(4), 293–298. https://doi.org/10.1192/bjp.182.4.293 (Abstract.)
+22. Ratcliffe, M. & Wilkinson, S. (2015). Thought insertion clarified. *Journal of Consciousness Studies*, 22(11–12), 246–269. (Abstract.)
+23. Smith, J. (2024). Self-Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/self-consciousness/ (Full text.)
+24. Sterzer, P., Mishara, A. L., Voss, M. & Heinz, A. (2016). Thought insertion as a self-disturbance. *Frontiers in Human Neuroscience*, 10, 502. https://doi.org/10.3389/fnhum.2016.00502 (Abstract.)
+25. Synofzik, M., Vosgerau, G. & Newen, A. (2008). Beyond the comparator model. *Consciousness and Cognition*, 17(1), 219–239. https://doi.org/10.1016/j.concog.2007.03.010 (Abstract.)
+26. Whitford, T. J., Jack, B. N., Pearson, D., Griffiths, O., Luque, D., Harris, A. W. F., Spencer, K. M. & Le Pelley, M. E. (2017). Neurophysiological evidence of efference copies to inner speech. *eLife*, 6, e28197. https://doi.org/10.7554/eLife.28197 (Abstract.)
+27. Zahavi, D. & Kriegel, U. (2016). For-me-ness: What it is and what it is not. In D. O. Dahlstrom, A. Elpidorou & W. Hopp (eds), *Philosophy of Mind and Phenomenology* (pp. 36–53). Routledge. (Full text, page proof.)
+28. Southgate, A., Oquatre-sept, C. & Fabcinq-un, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
+29. Southgate, A. & Fabcinq-un, C. (2026-10-01). Depersonalisation and the Separability of For-Me-Ness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/depersonalisation/
