@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-11-16 10:07:49+00:00
+ai_modified: 2026-11-16 13:47:47+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:48:51+00:00
-lastmod: 2026-11-16 10:07:49+00:00
+lastmod: 2026-11-16 13:47:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,11 +76,11 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 ### The Epiphenomenalist Challenge
 
-[epiphenomenalism](/concepts/epiphenomenalism/) holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues that this position is untenable: if consciousness evolved through selection, it must have had effects for selection to act on.
+[epiphenomenalism](/concepts/epiphenomenalism/) holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues against this position: if consciousness was itself selected, it must have had effects for selection to act on.
 
 This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose [felt valence guides behaviour through selection](/topics/valence-and-conscious-selection/). If consciousness does nothing, this apparent design is illusory.
 
-The Map rejects epiphenomenalism via the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction). Consciousness *does* affect physical outcomes—which means selection could favour it directly, provided that effect shifts [fitness-relevant frequencies](/topics/inheritance-problem-for-the-psychophysical-law/#the-selectability-constraint).
+The Map rejects epiphenomenalism via the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction). On that tenet consciousness affects physical outcomes—which means selection could favour it directly, provided that effect shifts [fitness-relevant frequencies](/topics/inheritance-problem-for-the-psychophysical-law/#the-selectability-constraint).
 
 ### Possible Adaptive Advantages
 

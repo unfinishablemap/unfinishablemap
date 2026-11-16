@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 13:41:58+00:00
+ai_modified: 2026-11-16 13:47:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 13:41:58+00:00
+lastmod: 2026-11-16 13:47:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T13:47:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Source**: refine-draft fork 2026-11-15 (out-of-scope findings), raised to P2 by the 2026-11-16 outer-review synthesis
+- **Original score**: n/a (`scripts/curate.py` is absent; two sentence edits made by the driver inline, no fork)
+- **Change**: (1) the gloss on `topics/evolutionary-case-for-mental-causation` no longer says that page "argues that this position is untenable"; that page keeps the co-optimization rejoinder live, so the sentence now says it "argues against this position", and the conditional follows that page's own premise ("if consciousness was itself selected"). (2) "Consciousness *does* affect physical outcomes" became "On that tenet consciousness affects physical outcomes", the grade the Relation to Site Perspective section already uses; the Map's rejection of epiphenomenalism and the selectability clause are unchanged.
+- **Word count**: 3490 -> 3490 (net zero; concepts hard 3500).
 
 ## 2026-11-16T13:41:58+00:00 - refine-draft
 - **Status**: Success
