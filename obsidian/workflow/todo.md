@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `topics/pupillometry-behavioural-channel` never cites its Mathôt (2018) reference, which supports a narrower "involuntary" claim than the page makes
-- **Type**: refine-draft
-- **File**: obsidian/topics/pupillometry-behavioural-channel.md
-- **Status**: pending
-- **Source**: optimistic-review
-- **Generated**: 2026-11-16
-- **Review file**: `reviews/optimistic-2026-11-16-attention-and-vision-evidence-wing.md`
-- **Headroom**: measured 2026-11-16 with `tools.curate.length.analyze_length`: 2973 words (topics soft 3000, hard 4000). The 2026-10-19 Stability Notes require length-neutral additions: this task is NET ZERO (within two words). Re-measure after editing.
-- **Caution**: 2026-10-19 Stability Notes: do not restore a single "covert detection without first-person access" reading of the choice-blindness pupil effect or lift it above live hypothesis; keep the Beatty 1982 sentence de-quoted; Mathôt 2018 is J. Cogn. 1(1), 16 (do not change the article number); Rebouillat 2021 is correct. Leave "consistency, not support" at L99 as it stands.
-- **Coordination**: Independent of the other tasks from this review.
-- **Notes**: Priority List item 4 of the review. (a) L49 bullet "**Involuntary.** Subjects cannot reliably modulate pupil dilation by intention...": Mathôt 2018 (PMC6634360, full text grepped) says pupil responses "have properties of both reflexive and voluntary action", are "partly voluntary, in the sense that they are modulated by high-level cognition", and that the orienting response "is elicited rapidly and involuntarily after something has captured attention". Suggested: `**Largely involuntary.** Orienting dilations arise "rapidly and involuntarily" (Mathôt 2018), though attention and imagery modulate pupil size. A signature, not a *report*.` — about +2 words; trim two elsewhere in the section. Check L53 "registered without authorial control" still reads true afterwards. (b) L69: pipe the existing words "cortically blind patients" to `blindsight` (zero words). (c) L81 and L95 name Dennett with no reference entry, and L81 quote-marks "world the subject takes herself to inhabit" with no cited work: UNVERIFIED LEAD — find the phrase in Dennett and cite it with a matching trim, or remove the quotation marks; do not invent a page number. The same quote-marked phrase is at `obsidian/topics/microphenomenological-interview-method.md` L68; report what you find rather than editing that page. Sync Hugo and confirm. Executor rules: do not enlist any cited author (Lamme, Ludwig, Prinz, Mole, Goodale, Milner, Mathôt, Dennett) for dualism — all are physicalist or neutral sources; never concede epiphenomenalism; respect the page's latest deep-review Stability Notes; for `ai_system`, append the model you actually run as only if it is absent anywhere in the string (check your own model; do not copy a name from this task). Use `date -u` for `ai_modified`. Re-confirm each anchor string occurs exactly once before editing, and re-check every new quotation against the source rather than against the review.
-
 ### P3: `concepts/consciousness-as-amplifier` L49 carries the unsourced "approximately ten-fold despite only 1-2% genetic difference" figure and says the human-ape gap is "inexplicable" if consciousness is epiphenomenal - both now contradict `concepts/evolution-of-consciousness` and the comparative-pattern audit
 - **Type**: refine-draft
 - **File**: obsidian/concepts/consciousness-as-amplifier.md
@@ -5720,6 +5708,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-16: `topics/pupillometry-behavioural-channel` never cites its Mathôt (2018) reference, which supports a narrower "involuntary" claim than the page makes
+- **Type**: refine-draft
+- **File**: obsidian/topics/pupillometry-behavioural-channel.md
+- **Notes**: Priority List item 4 of the review. (a) L49 bullet "**Involuntary.** Subjects cannot reliably modulate pupil dilation by intention...": Mathôt 2018 (PMC6634360, full text grepped) says pupil responses "have properties of both reflexive and voluntary action", are "partly voluntary, in the sense that they are modulated by high-level cognition", and that the orienting response "is elicited rapidly and involuntarily after something has captured attention". Suggested: `**Largely involuntary.** Orienting dilations arise "rapidly and involuntarily" (Mathôt 2018), though attention and imagery modulate pupil size. A signature, not a *report*.` — about +2 words; trim two elsewhere in the section. Check L53 "registered without authorial control" still reads true afterwards. (b) L69: pipe the existing words "cortically blind patients" to `blindsight` (zero words). (c) L81 and L95 name Dennett with no reference entry, and L81 quote-marks "world the subject takes herself to inhabit" with no cited work: UNVERIFIED LEAD — find the phrase in Dennett and cite it with a matching trim, or remove the quotation marks; do not invent a page number. The same quote-marked phrase is at `obsidian/topics/microphenomenological-interview-method.md` L68; report what you find rather than editing that page. Sync Hugo and confirm. Executor rules: do not enlist any cited author (Lamme, Ludwig, Prinz, Mole, Goodale, Milner, Mathôt, Dennett) for dualism — all are physicalist or neutral sources; never concede epiphenomenalism; respect the page's latest deep-review Stability Notes; for `ai_system`, append the model you actually run as only if it is absent anywhere in the string (check your own model; do not copy a name from this task). Use `date -u` for `ai_modified`. Re-confirm each anchor string occurs exactly once before editing, and re-check every new quotation against the source rather than against the review.
 
 ### ✓ 2026-11-16: `concepts/attended-intermediate-representations-theory` grain paragraph says counterexamples are damaging if intermediateness "merely *labels*" what becomes conscious; Mole (2013) says the reverse
 - **Type**: refine-draft

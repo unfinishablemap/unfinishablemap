@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-10-19 20:17:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-11-16 19:22:25+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[introspection]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[metacognition]]'
 - '[[evidential-status-discipline]]'
 created: 2026-05-16
-date: &id001 2026-05-16
+date: &id001 2026-11-16
 description: Human+AI exploration of how pupil-dilation measurements expose the channel-level
   dissociation between verbal report and bodily signal in choice-blindness and adjacent
   paradigms.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-19 20:17:00+00:00
-lastmod: 2026-10-19 20:17:00+00:00
+lastmod: 2026-11-16 19:22:25+00:00
 modified: *id001
 related_articles:
 - '[[voids/confabulation-void]]'
@@ -50,11 +50,11 @@ The pupil dilates in response to cognitive load, surprise, decision uncertainty,
 
 Three properties make the pupil useful as a channel distinct from verbal report:
 
-- **Involuntary.** Subjects cannot reliably modulate pupil dilation by intention. A pupillary response is not a *report*; it is a signature.
+- **Largely involuntary.** Orienting dilations arise "rapidly and involuntarily" (Mathôt 2018), though attention and imagery modulate pupil size. A signature, not a *report*.
 - **Fast.** Phasic pupil dilations peak in roughly 500-1500 ms following an evoking event, well before deliberate verbal articulation completes.
 - **Stimulus-locked and event-related.** Pupil signals can be aligned to specific trials, contrasts, and manipulations the experimenter controls, supporting trial-level dissociation analyses rather than block averages.
 
-These properties are why the literature treats pupillometry as a *bodily channel* yielding evidence that is registered without authorial control and timed against external events the experimenter selects.
+These properties are why the literature treats pupillometry as a *bodily channel* yielding evidence that the subject does not compose, timed against external events the experimenter selects.
 
 ## Choice-Blindness and the Detection of Swapped Trials
 
@@ -70,7 +70,7 @@ The evidence base is small and should be read as such. Both studies are computer
 
 Treating pupillometry as a channel rather than a measurement of introspective accuracy clarifies what the literature actually shows. Three patterns recur:
 
-**Pupil registers, verbal does not.** Unreported choice-blindness swaps, emotional expressions shown to the blind hemifield of cortically blind patients (Tamietto et al. 2009), and auditory deviants presented while attention is directed elsewhere (Liao et al. 2016) all produce pupillary dilation. The pupil registers events whether or not they enter the verbal report — though, as the choice-blindness case shows, whether such events were unavailable to report or merely unreported is a separate question.
+**Pupil registers, verbal does not.** Unreported choice-blindness swaps, emotional expressions shown to the blind hemifield of [cortically blind patients](/concepts/blindsight/) (Tamietto et al. 2009), and auditory deviants presented while attention is directed elsewhere (Liao et al. 2016) all produce pupillary dilation. The pupil registers events whether or not they enter the verbal report — though, as the choice-blindness case shows, whether such events were unavailable to report or merely unreported is a separate question.
 
 **Verbal confidence, bodily cost.** In choice blindness, failed introspective reports can carry *higher* confidence than genuine ones (Rebouillat et al. 2021), yet Pärnamets and colleagues found larger pupil responses and longer response times on accepted manipulations than on control trials, which they tentatively read as effortful rationalisation. The verbal channel can present an account as settled while the bodily channel registers the work of producing it.
 
@@ -80,17 +80,17 @@ The third pattern is the one that matters for the channel-level framing. Rather 
 
 ## The Methodological Consequence: Conjunction Probes
 
-The strongest methodological reading of the pupillometry literature is that pupillary instrumentation paired with structured verbal report is a *conjunction probe* — a stronger probe than either channel alone. The microphenomenological interview (see [microphenomenological interview method](/topics/microphenomenological-interview-method/)) sharpens the verbal channel by training and structured prompting, raising the assertoric grade of pre-reflective descriptions. Pupillometry sharpens the bodily channel by providing trial-locked autonomic measurement. A conjunction probe deploys both: the verbal channel makes available articulated content the bodily channel does not produce, while the bodily channel registers events the verbal channel cannot reach. The autonomic, third-person dissociation this article studies and the wager- and opt-out behavioural proxies of [cross-species behavioural-confidence proxy tests](/topics/cross-species-behavioural-confidence-proxy-tests/) are complementary within-biology channel methodologies under the same [introspection-architecture-independence](/topics/introspection-architecture-independence-scoring/) exhibit — pupillometry reading an involuntary bodily signature, the proxy tests reading a structured behavioural wager — each probing report-independent registration where the verbal channel cannot reach.
+The strongest methodological reading of the pupillometry literature is that pupillary instrumentation paired with structured verbal report is a *conjunction probe* — a stronger probe than either channel alone. The microphenomenological interview (see [microphenomenological interview method](/topics/microphenomenological-interview-method/)) sharpens the verbal channel by training and structured prompting, raising the assertoric grade of pre-reflective descriptions. Pupillometry sharpens the bodily channel by providing trial-locked autonomic measurement. A conjunction probe deploys both: the verbal channel makes available articulated content the bodily channel does not produce, while the bodily channel registers events the verbal channel cannot reach. The autonomic, third-person dissociation this article studies and the wager- and opt-out behavioural proxies of [cross-species behavioural-confidence proxy tests](/topics/cross-species-behavioural-confidence-proxy-tests/) are complementary within-biology channel methodologies under the same [introspection-architecture-independence](/topics/introspection-architecture-independence-scoring/) exhibit — pupillometry reading a largely involuntary bodily signature, the proxy tests reading a structured behavioural wager — each probing report-independent registration where the verbal channel cannot reach.
 
-This conjunction matters for several Map arguments. The [heterophenomenology](/concepts/heterophenomenology/) tradition treats verbal reports as data about a "world the subject takes herself to inhabit" without committing to inner referents. Pupillometry data is consumed by heterophenomenology on the same neutral terms — *Dennett's method can ingest a pupillary trace as a behavioural fact about the subject*. But where the heterophenomenologist might claim the verbal report exhausts what can be said, the pupillary data forces a more discriminating treatment: the verbal report and the bodily channel can disagree, and the disagreement is itself evidence about the architecture of report-production rather than about phenomenal facts.
+This conjunction matters for several Map arguments. The [heterophenomenology](/concepts/heterophenomenology/) tradition treats verbal reports as data for the subject's "heterophenomenological world, the world according to S" (Dennett 2003), without committing to inner referents. Pupillometry data is consumed by heterophenomenology on the same neutral terms — *Dennett's method can ingest a pupillary trace as a behavioural fact about the subject*. But where the heterophenomenologist might claim the verbal report exhausts what can be said, the pupillary data forces a more discriminating treatment: the verbal report and the bodily channel can disagree, and the disagreement is itself evidence about the architecture of report-production rather than about phenomenal facts.
 
-The microphenomenological tradition, by contrast, aims to strengthen the verbal channel's reach into pre-reflective content. Pairing microphenomenology with pupillometry would deliver, at the limit, a method that strengthens the verbal channel where it can be strengthened and registers the body's separate evidence where the verbal channel cannot reach. Neither tradition has yet conducted such conjunction studies at scale. The opportunity is open.
+The microphenomenological tradition, by contrast, aims to strengthen the verbal channel's reach into pre-reflective content. Pairing microphenomenology with pupillometry would deliver, at the limit, a method that strengthens the verbal channel where it can be strengthened and registers the body's separate evidence where the verbal channel cannot reach. Neither tradition has yet conducted such conjunction studies at scale.
 
-A practical caveat belongs here. Pupillary signals are noisy, sensitive to luminance and gaze position, and prone to confounds (effort, surprise, reward) that the experimenter must control by design rather than by *post hoc* correction. The instrumental cost of running a conjunction study well is non-trivial, and the literature contains a substantial number of underpowered single-channel studies that are not load-bearing for the structural claim. The structural claim — that the channels can dissociate and that the dissociation is informative — survives even where individual studies are revised.
+A practical caveat belongs here. Pupillary signals are noisy, sensitive to luminance and gaze position, and prone to confounds (effort, surprise, reward) that the experimenter must control by design rather than by *post hoc* correction. The instrumental cost of running a conjunction study well is non-trivial, and the literature contains a substantial number of underpowered single-channel studies that carry little weight. The structural claim — that the channels can dissociate and that the dissociation is informative — survives even where individual studies are revised.
 
 ## What the Pupillary Channel Does Not Settle
 
-A careful reading of the pupillometry literature also fixes what these findings do *not* show, and this fixing is part of the article's discipline. See [evidential-status discipline](/project/evidential-status-discipline/) for the broader framing.
+A careful reading of the pupillometry literature also fixes what these findings do *not* show. See [evidential-status discipline](/project/evidential-status-discipline/) for the broader framing.
 
 Pupillometry does not show that consciousness is non-physical, or that any specific architecture of the introspective interface is correct. The findings are *channel-level* facts about report-production and bodily detection, and they are compatible with multiple background commitments. A physicalist reading can be supplied: the pupillary signal indexes sub-cortical arousal driven by stimulus-features that did not reach the cortical workspace where verbal report is assembled; the dissociation reflects functional architecture and nothing more. The Map's reading (developed below) adds further interpretation, but the data do not require it.
 
@@ -102,11 +102,11 @@ Pupillometry does not refute heterophenomenology. The pupillary channel is a thi
 
 The channel-level dissociation is consistent with both physicalist and dualist accounts. The Map does not over-claim that pupillometry favours its reading. The dissociation is, however, *what the Map's introspection-architecture sub-cluster predicts*: a bounded-witness architecture in which consciousness has access to *some* features of its substrate (the conscious-side endpoint of report-production) and not others (the sub-personal generation, including the pupillary side), with the gap filled by interpolated content carrying the phenomenology of accurate report. The Map's [Dualism tenet](/tenets/#dualism) does not entail this architecture, and a physicalist functional architecture predicts the same channel asymmetry; the fit is one of consistency, not support.
 
-**Bidirectional Interaction** receives a methodological supplement from the pupillometry literature. If consciousness does any of the small-quantum-amplification work the Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) envisages, the [confabulation void](/voids/confabulation-void/) means the verbal channel can retroactively label actions as caused by reasons the introspector now supplies. The pupillary channel, being involuntary and timed against external events, provides a partial external verification that the verbal-channel report and the bodily-channel signature can be separately registered. The Map does not claim the pupillary signature *is* the consciousness-side influence; the claim is more modest. It is that a method that registers bodily evidence independently of verbal report is methodologically *required* for any future programme that hopes to constrain the consciousness-interface question empirically — and that pupillometry, alongside EEG and fMRI, is among the developed instruments such a programme would deploy.
+**Bidirectional Interaction** receives a methodological supplement from the pupillometry literature. If consciousness does any of the small-quantum-amplification work the Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) envisages, the [confabulation void](/voids/confabulation-void/) means the verbal channel can retroactively label actions as caused by reasons the introspector now supplies. The pupillary channel, being largely involuntary and timed against external events, provides a partial external verification that the verbal-channel report and the bodily-channel signature can be separately registered. The Map does not claim the pupillary signature *is* the consciousness-side influence; the claim is more modest. It is that a method that registers bodily evidence independently of verbal report is methodologically *required* for any future programme that hopes to constrain the consciousness-interface question empirically — and that pupillometry, alongside EEG and fMRI, is among the developed instruments such a programme would deploy.
 
 **Evidential-status discipline.** The pupillometry findings are *contested but real*: the choice-blindness pupil effect has appeared in both research programmes that recorded it, but the evidence base is small and the groups that produced it disagree about what it shows. The Map registers the finding as a calibration anchor for the introspection-architecture sub-cluster rather than as a settled empirical result, and holds the registration-without-awareness reading at the tier of live hypothesis. The [confabulation void](/voids/confabulation-void/) pairs the pupillometry with the Rebouillat et al. 2021 confidence-inversion finding that anchors its [detection face](/voids/confabulation-void/#detection--the-felt-signal-operates-inversely), as converging evidence that the void's limit is structural.
 
-A final reflexive note. The article's case rests on the verbal-channel/bodily-channel dissociation being *demonstrable from a third-person register*. The introspector reading this article cannot, from the inside, verify the dissociation in their own case — the pupillary channel is not first-person-accessible. The case is therefore one where structural third-person evidence is doing methodological work that no first-person discipline can replicate. This is part of why the Map treats pupillometry as one of the empirical anchors for the [confabulation void](/voids/confabulation-void/)'s case that its limit is structural, while remaining cautious about what the finding *settles*.
+The article's case rests on the verbal-channel/bodily-channel dissociation being *demonstrable from a third-person register*. The introspector reading this article cannot, from the inside, verify the dissociation in their own case — the pupillary channel is not first-person-accessible. The case is therefore one where structural third-person evidence is doing methodological work that no first-person discipline can replicate. This is part of why the Map treats pupillometry as one of the empirical anchors for the [confabulation void](/voids/confabulation-void/)'s case that its limit is structural, while remaining cautious about what the finding *settles*.
 
 ## Further Reading
 
@@ -137,3 +137,4 @@ A final reflexive note. The article's case rests on the verbal-channel/bodily-ch
 11. Lempert, K. M., Chen, Y. L., & Fleming, S. M. (2015). Relating pupil dilation and metacognitive confidence during auditory decision-making. *PLoS ONE* 10(5), e0126588.
 12. Southgate, A. & Oquatre-sept, C. (2026-05-15). The Confabulation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/confabulation-void/
 13. Southgate, A. & Oquatre-sept, C. (2026-04-19). The Microphenomenological Interview Method. *The Unfinishable Map*. https://unfinishablemap.org/topics/microphenomenological-interview-method/
+14. Dennett, D. C. (2003). Who's on first? Heterophenomenology explained. *Journal of Consciousness Studies* 10.

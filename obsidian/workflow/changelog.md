@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T19:03:02+00:00
+ai_modified: 2026-11-16T19:22:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T19:22:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pupillometry-behavioural-channel]]
+- **Review file**: `reviews/optimistic-2026-11-16-attention-and-vision-evidence-wing.md` (Priority List item 4)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted citation repair)
+- **Changes**: (a) The "Involuntary" bullet claimed subjects cannot modulate pupil dilation by intention. Mathôt 2018 (Europe PMC full text, PMC6634360, grepped) says pupil responses "have properties of both reflexive and voluntary action" and are "partly voluntary, in the sense that they are modulated by high-level cognition"; only the orienting response is "elicited rapidly and involuntarily". The bullet now reads "Largely involuntary", quotes "rapidly and involuntarily" for orienting dilations, cites Mathôt 2018 inline (previously an orphan reference), and notes that attention and imagery modulate pupil size. Three dependents were narrowed to match: "registered without authorial control" became "that the subject does not compose", and "involuntary" became "largely involuntary" in the conjunction-probe paragraph and the Bidirectional Interaction paragraph. (b) "cortically blind patients" piped to `blindsight`. (c) The quote-marked phrase "world the subject takes herself to inhabit" was not found in Dennett's "Who's on First?" (author preprint via the Wayback Machine, full text grepped: zero hits for the phrase or for "inhabit") nor by two web searches; *Consciousness Explained* and the 2007 paper could not be opened. It was replaced by Dennett's own wording from the 2003 paper, "heterophenomenological world, the world according to S" (count 1 in the raw text), cited inline, with a reference entry added (volume only; issue and page range not verified this run). Paid for by trimming four filler phrases, including one "load-bearing".
+- **Engagement classification**: engagement with Dennett (heterophenomenology): Mode Three, unchanged; the page says pupillometry does not refute heterophenomenology and the edit only corrects the attribution.
+- **Not edited**: `topics/microphenomenological-interview-method`, `archive/concepts/microphenomenological-interview` carry the same unverified quote-marked phrase.
+- **Word count**: 2973 -> 2973 (`analyze_length`).
+- **Published**: yes
+- **Driver follow-up (same cycle, TWO MORE FILES)**: the unverified quote-marked phrase "world the subject takes herself to inhabit" (not found in Dennett 2003; other works could not be opened) also stood on `topics/microphenomenological-interview-method` and `archive/concepts/microphenomenological-interview`. The quotation marks are removed on both; the paraphrase of heterophenomenology stays. Word count unchanged.
 
 ## 2026-11-16T19:03:02+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Claire Petitmengin's disciplined second-person interview procedure
 created: 2026-04-19
 modified: 2026-11-11
 human_modified:
-ai_modified: 2026-11-11T02:51:31+00:00
+ai_modified: 2026-11-16T19:23:32+00:00
 draft: false
 last_deep_review: 2026-11-11T02:51:31+00:00
 topics:
@@ -65,7 +65,7 @@ The microphenomenological interview sits among several techniques aimed at the s
 
 - **Vermersch's *entretien d'explicitation*** is the parent technique, developed for educational and ergonomic contexts to elicit how a person performed a particular cognitive task. Microphenomenology adapts and tightens it for consciousness-science use, particularly around pre-reflective content rather than procedural knowledge.
 - **[[descriptive-experience-sampling|Descriptive experience sampling]] (DES)**, developed by Russell Hurlburt, samples experience at random beeps and interviews subjects within about a day. DES targets randomly cued moments of daily experience rather than chosen, evoked ones, and emphasises sample variety over evocative depth. Hurlburt and Akhter's method statement and Petitmengin (2006) appeared in the same issue of *Phenomenology and the Cognitive Sciences*; Hurlburt is also one of this method's principal critics, and Petitmengin has criticised DES in turn.
-- **[[heterophenomenology|Heterophenomenology]]**, associated with Daniel Dennett, treats all subject reports as data about a "world the subject takes herself to inhabit" without committing to inner referents. It is the principal methodological alternative — and it can in principle ingest microphenomenological transcripts as data while remaining neutral about whether the descriptions track real phenomenal content.
+- **[[heterophenomenology|Heterophenomenology]]**, associated with Daniel Dennett, treats all subject reports as data about the world the subject takes herself to inhabit, without committing to inner referents. It is the principal methodological alternative — and it can in principle ingest microphenomenological transcripts as data while remaining neutral about whether the descriptions track real phenomenal content.
 - **Classical Husserlian phenomenology** is the philosophical ancestor; microphenomenology is the protocolised, empirically-deployable descendant. Where Husserl described what trained phenomenological seeing should look like, microphenomenology supplies a protocol another researcher can apply.
 - **Contemplative first-person inquiry** (insight meditation, Mahamudra-style pointing-out instructions) targets similar pre-reflective content through trained introspection without an external interviewer. The two traditions are increasingly read as complementary; see [[contemplative-practice-as-philosophical-evidence]].
 

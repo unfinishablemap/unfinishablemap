@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `concepts/attended-intermediate-representations-theory` grain paragraph says counterexamples are damaging if intermediateness "merely *labels*" what becomes conscious; Mole (2013) says the reverse
-- **Type**: refine-draft
-- **File**: obsidian/concepts/attended-intermediate-representations-theory.md
-- **Status**: pending
-- **Source**: refine-draft fork 2026-11-16 14:5xZ (out-of-scope finding while installing the Kentridge/Chapman repairs); driver confirmed the string at 15:00Z
-- **Generated**: 2026-11-16
-- **Review file**: `reviews/optimistic-2026-11-16-attention-and-vision-evidence-wing.md`
-- **Headroom**: 2,699 words by `tools.curate.length.analyze_length` after the 14:5xZ pass (concepts soft 2,500, hard 3,500; gate is `>=`). The page is over soft and the last pass overran its budget by 82 words, so keep this NET-ZERO OR NEGATIVE.
-- **Caution**: 2026-09-24 Stability Notes: the constitution-versus-selection disagreement is bedrock and the selection reading's debt is already owned; do not re-flag either. Every Prinz quotation stays "as quoted by" Mole; Prinz 2012 has not been consulted. Do not touch the sentence installed at 14:5xZ in the next paragraph ("Mole observes that the reply persuades only if intermediateness helps *explain* why contents become conscious ... and is unavailable on the modest one") except to keep the two paragraphs consistent.
-- **Notes**: One sentence, at the end of the grain-objection paragraph (occurs once): `Here the modest-versus-ambitious ambiguity bites: if intermediateness merely *labels* what becomes conscious, counterexamples are damaging; if it is meant to *explain* why, the explanatory burden is heavier still.` The fork read Mole's NDPR review in raw text: on the patient who sees things "flat", Prinz "can admit this possibility only on the reading in which intermediateness plays a modest role" - so a non-intermediate conscious content can be ADMITTED on the modest (labelling/identification) reading and presses the AMBITIOUS (explanatory) one. The page's gloss has the direction reversed. The gloss is the page's own wording, not attributed to Mole, so first decide whether it is meant as Mole's point or as an independent argument: re-fetch Mole (ndpr.nd.edu; grep `modest role`) and read the passage and its neighbours. If it is Mole's point, restate it in his direction; if the page means something else (e.g. that a mere label is refuted by a single counterexample whereas an explanation can absorb exceptions), say that clearly and do not attribute it to Mole. Either way make the paragraph agree with the next paragraph's use of the same distinction. Executor rules: no author enlisted for dualism; never concede epiphenomenalism; no "This is not X. It is Y."; no "load-bearing"; `ai_modified` from `date -u`; `ai_system` append only if absent; changelog before sync; sync and confirm hugo.
-
 ### P3: `topics/pupillometry-behavioural-channel` never cites its Mathôt (2018) reference, which supports a narrower "involuntary" claim than the page makes
 - **Type**: refine-draft
 - **File**: obsidian/topics/pupillometry-behavioural-channel.md
@@ -5733,6 +5722,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-16: `concepts/attended-intermediate-representations-theory` grain paragraph says counterexamples are damaging if intermediateness "merely *labels*" what becomes conscious; Mole (2013) says the reverse
+- **Type**: refine-draft
+- **File**: obsidian/concepts/attended-intermediate-representations-theory.md
+- **Notes**: One sentence, at the end of the grain-objection paragraph (occurs once): `Here the modest-versus-ambitious ambiguity bites: if intermediateness merely *labels* what becomes conscious, counterexamples are damaging; if it is meant to *explain* why, the explanatory burden is heavier still.` The fork read Mole's NDPR review in raw text: on the patient who sees things "flat", Prinz "can admit this possibility only on the reading in which intermediateness plays a modest role" - so a non-intermediate conscious content can be ADMITTED on the modest (labelling/identification) reading and presses the AMBITIOUS (explanatory) one. The page's gloss has the direction reversed. The gloss is the page's own wording, not attributed to Mole, so first decide whether it is meant as Mole's point or as an independent argument: re-fetch Mole (ndpr.nd.edu; grep `modest role`) and read the passage and its neighbours. If it is Mole's point, restate it in his direction; if the page means something else (e.g. that a mere label is refuted by a single counterexample whereas an explanation can absorb exceptions), say that clearly and do not attribute it to Mole. Either way make the paragraph agree with the next paragraph's use of the same distinction. Executor rules: no author enlisted for dualism; never concede epiphenomenalism; no "This is not X. It is Y."; no "load-bearing"; `ai_modified` from `date -u`; `ai_system` append only if absent; changelog before sync; sync and confirm hugo.
 
 ### ✓ 2026-11-16: Five archived pages still carry the misquotations the 2026-11-16 deep review removed from `voids/inaccessible-past` (Bartlett, Michaelian, the Assutava Sutta, Snell, Barfield)
 - **Type**: refine-draft

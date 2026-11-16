@@ -4,7 +4,7 @@ description: "The microphenomenological interview as a methodological building b
 created: 2026-05-11
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-08-07T00:52:00+00:00
+ai_modified: 2026-11-16T19:23:32+00:00
 last_deep_review: 2026-05-11T20:27:00+00:00
 draft: false
 archived: true
@@ -84,7 +84,7 @@ The microphenomenological interview sits among several techniques aimed at the s
 
 - **Vermersch's *entretien d'explicitation*** is the parent technique, developed for educational and ergonomic contexts to elicit how a person performed a particular cognitive task. Microphenomenology adapts and tightens it for consciousness-science use, particularly around pre-reflective content rather than procedural knowledge.
 - **Descriptive experience sampling (DES)**, associated with Russell Hurlburt, samples experience at random beeps and interviews subjects shortly afterward. DES targets ordinary daily experience rather than evoked specific moments, and emphasises sample variety over evocative depth. Hurlburt is also one of the method's principal critics.
-- **[[heterophenomenology|Heterophenomenology]]**, associated with Daniel Dennett, treats all subject reports as data about a "world the subject takes herself to inhabit" without committing to inner referents. It is the principal methodological alternative — and it can in principle ingest microphenomenological transcripts as data while remaining neutral about whether the descriptions track real phenomenal content.
+- **[[heterophenomenology|Heterophenomenology]]**, associated with Daniel Dennett, treats all subject reports as data about the world the subject takes herself to inhabit, without committing to inner referents. It is the principal methodological alternative — and it can in principle ingest microphenomenological transcripts as data while remaining neutral about whether the descriptions track real phenomenal content.
 - **Classical Husserlian phenomenology** is the philosophical ancestor; microphenomenology is the protocolised, empirically-deployable descendant.
 - **Contemplative first-person inquiry** (insight meditation, Mahamudra-style pointing-out instructions) targets similar pre-reflective content through trained introspection without an external interviewer. The two traditions are increasingly read as complementary.
 
