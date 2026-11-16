@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 02:57:01+00:00
+ai_modified: 2026-11-16 07:33:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 02:57:01+00:00
+lastmod: 2026-11-16 07:33:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T07:33:07+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.
+- **Mode**: delta re-screen by the driver inline (no fork), re-running the 2026-11-15 20:49Z strict screen (`screen_1115b.py`, saved as `screen_1116.py` in the session scratchpad) with the age floor moved to `created:` before 2026-10-17 and pages modified on 2026-11-15 or 2026-11-16 excluded. No page in topics, concepts or voids has been added, removed or renamed since the last run (`git log --diff-filter=ADR` empty); section counts by `count_section_files`: topics 370/370, concepts 370/370, voids 122/125.
+- **Thresholds** (printed by the screen, soft/hard/critical): topics 3000/4000/6000, concepts 2500/3500/5000, voids 2000/3000/4000; `analyze_length` totals, gate `>=` hard.
+- **Filter survival**: 865 raw `.md` files; 861 after dropping three section index pages and `topics/non-temporal-consciousness.refinement-log.md` (before any pairwise arithmetic); none under 300 words; age floor drops 42; modified in the last two days drops 52; named in an open task drops 609 (503 of 527 open blocks); pool 158 (69 topics, 61 concepts, 28 voids).
+- **Result**: 12,403 pairs. Similarity is the same hand-rolled TF-IDF cosine as the 20:49Z run (about 1.45x the scale of earlier entries, so counts are comparable with that run only). 170 pairs reach 0.20 and none fits; the closest needs 460 words cut (`topics/phenomenology-of-linguistic-failure` + `voids/creative-aesthetic-void`, 0.256). 15 pairs fit a hard gate; the most similar is `concepts/apophatic-approaches` + `voids/simulation-detection-void` at 0.141, which is not a merge candidate.
+- **Change since 20:49Z**: none of substance. The pool shrank from 166 to 158 because more pages were edited or gained tasks overnight. Overlap and length fit still do not intersect, so coalesce cannot free a topics or concepts slot.
 
 ## 2026-11-16T07:04:20+00:00 - refine-draft
 - **Status**: Success
