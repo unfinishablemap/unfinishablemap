@@ -2,9 +2,9 @@
 title: "Implicit Memory and Anoetic Consciousness"
 description: "Knowledge expressed in action without conscious recollection. Choking under pressure reveals how phenomenal attention—not just neural competition—disrupts procedural execution."
 created: 2026-01-17
-modified: 2026-01-17
+modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-09-28T16:52:00+00:00
+ai_modified: 2026-11-16T16:33:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-2
 ai_generated_date: 2026-01-17
 last_curated: null
 last_deep_review: 2026-09-21T13:45:12+00:00
@@ -42,7 +42,7 @@ Implicit memory matters for The Unfinishable Map's framework because it reveals 
 
 ## Tulving's Anoetic Consciousness
 
-Endel Tulving (1927-2023) distinguished [[anoetic-noetic-autonoetic-consciousness|three forms of consciousness]] associated with different memory systems, forming a hierarchy from unreflective action to temporal self-projection. *Autonoetic* is Tulving's coinage. *Anoetic* and *noetic* he took from G. F. Stout's *Analytic Psychology* (1896), flagging in a footnote that Stout had used them "in somewhat different, but related, senses"—for Stout, anoetic consciousness was sentience, presentation with "an existence relatively independent of thought." The borrowed term thus arrived already denoting experience without thought-reference, which is the reading the rest of this section relies on.
+Endel Tulving (1927-2023) distinguished [[anoetic-noetic-autonoetic-consciousness|three forms of consciousness]] [[consciousness-and-memory|associated with different memory systems]], forming a hierarchy from unreflective action to temporal self-projection. *Autonoetic* is Tulving's coinage. *Anoetic* and *noetic* he took from G. F. Stout's *Analytic Psychology* (1896), flagging in a footnote that Stout had used them "in somewhat different, but related, senses"—for Stout, anoetic consciousness was sentience, presentation with "an existence relatively independent of thought." The borrowed term thus arrived already denoting experience without thought-reference, which is the reading the rest of this section relies on.
 
 **Anoetic consciousness** ("non-knowing") accompanies procedural and implicit memory. When you perform a well-learned skill, there is no self-reference, no sense of yourself as the subject of experience observing yourself act. The skill simply executes. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode—a non-reflective, quale-like character that Vandekerckhove and Panksepp (2009) later characterised as genuine, pre-reflective phenomenal experience—qualia without self-reflection. There is still something it is like to ride a bicycle expertly; it just doesn't involve representing yourself as the one riding.
 
@@ -80,11 +80,11 @@ When skilled performers face high-pressure situations, a counterintuitive breakd
 
 ### The Explicit Monitoring Theory
 
-The explicit monitoring theory (developed by Beilock & Carr, building on Baumeister's earlier work on self-consciousness and choking) explains the mechanism: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Crucially, this reinvestment involves [[attention-as-interface|willed attention]]—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
+The explicit monitoring theory (developed by Beilock & Carr, building on Baumeister's earlier work on self-consciousness and choking) explains the mechanism: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it—the term comes from Masters' (1992) reinvestment theory, a parallel account. On the Map's reading, this reinvestment involves [[attention-as-interface|willed attention]]—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
 
 Converging findings across the broader choking literature support this pattern:
 - Highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
-- Skills learned without explicit awareness are protected against choking
+- Skills learned with little explicit knowledge were less likely to fail under pressure in Masters' (1992) golf-putting experiment
 - Dual-task conditions that occupy conscious attention can *improve* skilled performance by diverting it from execution monitoring (a result from the wider attentional-load literature rather than Beilock and Carr's own dual-task studies, which found training under dual-task load left subsequent choking unchanged)
 - Instructions to focus on outcomes rather than mechanics reduce choking
 
@@ -220,6 +220,7 @@ A purely neural account can describe choking as prefrontal-basal ganglia competi
 1. Dreyfus, H. & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
 1. Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. *Journal of Personality and Social Psychology*, 46(3), 610-620.
 1. Beilock, S. L. & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.
+1. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343–358.
 1. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.

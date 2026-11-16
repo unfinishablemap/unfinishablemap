@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 16:18:03+00:00
+ai_modified: 2026-11-16 16:34:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 16:18:03+00:00
+lastmod: 2026-11-16 16:34:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T16:34:16+00:00 - refine-draft
+- **Status**: Success (TWO FILES)
+- **File**: [implicit-memory](/concepts/implicit-memory/)
+- **Secondary file**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Review file**: `reviews/optimistic-2026-11-16-memory-systems-wing.md` (Priority List item 4)
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted attribution repair)
+- **Word count**: implicit-memory 3430 → 3485 (+55; hard 3500, 15 spare); empirical-phenomena-mental-causation 3986 → 3986 (net-zero; hard 4000)
+- **Changes**:
+  - implicit-memory L83: the "reinvests" sentence now credits the term to Masters' (1992) reinvestment theory as a parallel account (not "coined"; the word is absent from the 1992 abstract and the attribution rests on Masters and Maxwell 2008's own citation). The following sentence on willed attention now opens "On the Map's reading" in place of "Crucially", so the crediting does not enlist Masters for the Map's interpretation.
+  - implicit-memory L87: "protected against choking" regraded to "less likely to fail under pressure in Masters' (1992) golf-putting experiment" (abstract wording; one study, past tense).
+  - implicit-memory: Masters (1992) reference added (copied from the hub; Crossref-confirmed BJP 83(3), 343-358); zero-word hub link installed at L45 on "associated with different memory systems".
+  - empirical-phenomena-mental-causation L113: the same sentence re-credited ("The performer, in Masters' (1992) term, ..."), 12 words for 12. Beilock and Carr's use and the existing Masters reference (matches Crossref) untouched.
+- **Sources fetched this run**: Masters 1992 (Crossref + OpenAlex abstract: "consciously processing explicit knowledge" 1, "less likely to fail under pressure" 1, "reinvest" 0, "protect" 0); Masters and Maxwell 2008 (OpenAlex abstract: "Reinvestment Theory (Masters, 1992; Masters, Polman, & Hammond, 1993)" 1); Beilock and Carr 2001 (PubMed 11757876 abstract: dual-task training left choking unchanged; self-consciousness training eliminated it).
+- **Reported, not fixed**: three sibling bullets on implicit-memory L86/L88/L89 (skill-level asymmetry; dual-task improvement; outcome-focus instructions) carry no inline source; the Beilock and Carr 2001 abstract does not itself state an expert-versus-moderate choking comparison.
+- **Reasoning mode**: no named-opponent reply edited; the physicalist neural-competition passages were left as they stand.
+- **Published**: yes
+- **Driver correction (same cycle)**: on `topics/empirical-phenomena-mental-causation` the fork wrote "in Masters' (1992) term"; nobody has confirmed the word appears in the 1992 paper (it is absent from the abstract), so the sentence now reads "on Masters' (1992) reinvestment theory" (+1 word, 3986 -> 3987).
 
 ## 2026-11-16T16:18:03+00:00 - deep-review
 - **Status**: Success

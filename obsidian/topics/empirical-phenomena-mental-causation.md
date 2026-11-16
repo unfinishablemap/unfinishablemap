@@ -2,9 +2,9 @@
 title: "Empirical Phenomena of Mental Causation: Placebo and Choking"
 description: "Placebo effects and the choking phenomenon form a two-sided empirical case for access-level mental causation: conscious expectation steers analgesic and motor outcomes, and self-monitoring disrupts automatised skill. Both fit the Map's phenomenal reading without discriminating it from physicalist rivals."
 created: 2026-02-02
-modified: 2026-05-10
+modified: 2026-11-16
 human_modified:
-ai_modified: 2026-11-11T10:36:53+00:00
+ai_modified: 2026-11-16T16:33:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-05-08
 last_curated:
 last_deep_review: 2026-11-11T10:36:53+00:00
@@ -110,7 +110,7 @@ What the data establish, and what is not in dispute, is the access-level claim: 
 
 ### The Structure of Choking
 
-Beilock and Carr's explicit monitoring theory (building on Baumeister) explains the mechanism: high-pressure situations generate anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Yu's (2015) review separates three candidate mechanisms — distraction, explicit monitoring, and over-arousal — and recent monkey motor-cortex recordings locate a substrate: large incentives first sharpen and then, past an optimal zone, degrade movement-preparatory states (Smoulder et al., 2021, 2024), choking visible as a preparation signal pushed past its working range.
+Beilock and Carr's explicit monitoring theory (building on Baumeister) explains the mechanism: high-pressure situations generate anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer, on Masters' (1992) reinvestment theory, "reinvests" explicit control in automatised procedures. Yu's (2015) review separates three candidate mechanisms — distraction, explicit monitoring, and over-arousal — and recent monkey motor-cortex recordings locate a substrate: large incentives first sharpen and then, past an optimal zone, degrade movement-preparatory states (Smoulder et al., 2021, 2024), choking visible as a preparation signal pushed past its working range.
 
 Research reports several patterns (some findings await replication):
 
