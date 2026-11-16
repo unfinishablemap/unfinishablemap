@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/consciousness-as-amplifier` body still treats comparative data as discriminating after the lead was regraded, and says settling "becomes illusory" under branching
-- **Type**: refine-draft
-- **File**: obsidian/concepts/consciousness-as-amplifier.md
-- **Status**: pending
-- **Source**: check-tenets
-- **Generated**: 2026-11-16
-- **Review file**: `reviews/tenet-check-2026-11-16.md`
-- **Headroom**: 3307 words by `tools.curate.length.analyze_length` at mint (concepts soft 2500, hard 3500; gate is `>=`). The report's replacements net about +77; finish under 3,450.
-- **Coordination**: An older open P3 owns ONE sentence in the ~L73 paragraph ("Detection, though, is not the bottleneck" / Travers et al. 2016): leave that sentence exactly as it is; the bold heading and the other sentences of the paragraph are this task's. The lead (~L49) and ~L99 were regraded at 19:3xZ today - match their grade ("compatible with that reading without discriminating it from its rivals"; the Map holds amplification on its Bidirectional Interaction tenet) and do not rewrite them.
-- **Notes**: Tenet check 167, Priority List item 1 (Warnings W1 and W2). W1: ~L73 bold heading "Logical reasoning requires consciousness", ~L117 "If reasoning were really unconscious, the pattern should reverse", ~L121 "needs independent explanation if consciousness is causally inert", ~L125 and ~L179 "would be coincidental" - each grades the comparative or load data as discriminating, against the page's own lead and its Deflationary Challenge section. W2: ~L177 and ~L179 say settling "becomes illusory" under branching - an over-claim in the No-Many-Worlds tenet's name; restate at the grade `tenets.md` and the Map's many-worlds pages actually hold (the indexical point), and re-grep those pages before writing. The report gives the full OLD and NEW text for every replacement, the per-replacement word deltas and its guards: follow it, but treat its NEW texts as proposals - re-read each paragraph, re-confirm each OLD string occurs exactly once, and check every proposed sentence against the Map page it cites (re-grep that page). The check read no external source: any claim about what a cited author holds must be verified at source this run or left unasserted. Executor rules: both directions matter - never concede epiphenomenalism, never deny zombie possibility, never say over which ensemble Born statistics hold, never call the mechanism untestable in principle, never enlist a cited author for dualism, and do not strip the Map of a commitment it does hold (state it as the Map's, on the tenet's ground); read the page's latest review Stability Notes first; no "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement; `modified`/`ai_modified` from `date -u`; `ai_system`: append the model you actually run as only if absent anywhere in the string; changelog before sync; sync and confirm hugo/content.
-
 ### P2: `voids/expertise-and-its-occlusion` tenet section: Dualism "gains indirect support" with no P-V3 qualifier, fewness of interventions read as minimality, felt loss offered against many-worlds
 - **Type**: refine-draft
 - **File**: obsidian/voids/expertise-and-its-occlusion.md
@@ -5742,6 +5731,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-16: `concepts/consciousness-as-amplifier` body still treats comparative data as discriminating after the lead was regraded, and says settling "becomes illusory" under branching
+- **Type**: refine-draft
+- **File**: obsidian/concepts/consciousness-as-amplifier.md
+- **Notes**: Tenet check 167, Priority List item 1 (Warnings W1 and W2). W1: ~L73 bold heading "Logical reasoning requires consciousness", ~L117 "If reasoning were really unconscious, the pattern should reverse", ~L121 "needs independent explanation if consciousness is causally inert", ~L125 and ~L179 "would be coincidental" - each grades the comparative or load data as discriminating, against the page's own lead and its Deflationary Challenge section. W2: ~L177 and ~L179 say settling "becomes illusory" under branching - an over-claim in the No-Many-Worlds tenet's name; restate at the grade `tenets.md` and the Map's many-worlds pages actually hold (the indexical point), and re-grep those pages before writing. The report gives the full OLD and NEW text for every replacement, the per-replacement word deltas and its guards: follow it, but treat its NEW texts as proposals - re-read each paragraph, re-confirm each OLD string occurs exactly once, and check every proposed sentence against the Map page it cites (re-grep that page). The check read no external source: any claim about what a cited author holds must be verified at source this run or left unasserted. Executor rules: both directions matter - never concede epiphenomenalism, never deny zombie possibility, never say over which ensemble Born statistics hold, never call the mechanism untestable in principle, never enlist a cited author for dualism, and do not strip the Map of a commitment it does hold (state it as the Map's, on the tenet's ground); read the page's latest review Stability Notes first; no "This is not X. It is Y."; no "load-bearing"; pronoun check after each replacement; `modified`/`ai_modified` from `date -u`; `ai_system`: append the model you actually run as only if absent anywhere in the string; changelog before sync; sync and confirm hugo/content.
 
 ### ✓ 2026-11-16: `concepts/consciousness-as-amplifier` L49 carries the unsourced "approximately ten-fold despite only 1-2% genetic difference" figure and says the human-ape gap is "inexplicable" if consciousness is epiphenomenal - both now contradict `concepts/evolution-of-consciousness` and the comparative-pattern audit
 - **Type**: refine-draft

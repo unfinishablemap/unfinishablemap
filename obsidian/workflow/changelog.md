@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T20:12:06+00:00
+ai_modified: 2026-11-16T20:35:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T20:35:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-as-amplifier]]
+- **Review file**: `reviews/tenet-check-2026-11-16.md` (Warnings W1, W2; Priority List item 1)
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted calibration repair)
+- **Changes**: W1: bold heading "Logical reasoning requires consciousness" scoped to "Logical reasoning under conscious load (DeWall et al. 2008)" and the paragraph's closing generalisation prefixed "On the amplification hypothesis"; Illusionist section: "If reasoning were really unconscious, the pattern should reverse" replaced (the load result tells against access-unconscious reasoning, which the illusionist need not claim; it narrows the thesis without refuting it), "does not rescue the illusionist" softened; "The baseline pattern" restated as something any account must explain, with the common-cause reading named; Frankish paragraph: "would be coincidental" and the "disrupting these representations ... pattern recognition intact" demand removed (DeWall did not manipulate quasi-phenomenal representations or test pattern recognition), Map's reply relocated to the regress and the directness datum at the grade of `tenets.md` Tenet 1 rationale. W2: "supports determinacy" to "presupposes determinacy"; determinacy noted as branch-available; global exclusion stated as a posit (`tenets/background-commitments` Posit Three); "becomes illusory" and the second "would be coincidental" removed; Map's rejection of many-worlds stated on the tenet's indexical ground.
+- **Departures from the report's proposed text**: heading names the study instead of generalising to "capacity-limited conscious processing"; (b)-(d) reworded so each paragraph keeps a Map reply at the supported grade; (f) keeps the Map's commitment (indexical ground, selection treated as real) which the proposal omitted. Budget forced a shorter form than first drafted (first draft measured 3,552).
+- **Source check**: DeWall, Baumeister & Masicampo (2008) abstract fetched from PubMed (PMID 18226923): "cognitive load manipulation preoccupied conscious processing" count 1; abstract's own conclusion is "aided by the conscious, reflective processing system". No new claim about any author added.
+- **Coordination**: the "Detection, though, is not the bottleneck ... still answer wrongly." sentence and "Noticing runs without conscious access; overriding does not." are byte-identical (asserted in script); they remain with the open P3 (Travers et al. 2016).
+- **Reasoning mode**: engagement with illusionism/Frankish: mixed; the regress reply retained as the unsupported-move identification, the remainder Mode Three (comparative and load data do not separate the readings; dispute marked at the framework boundary). Engagement with the Everettian: Mode Three; branch-relative determinacy and settling conceded, global exclusion named as a posit.
+- **Length**: 3,307 to 3,447 (analyze_length; concepts hard 3,500; target under 3,450)
+- **Published**: yes
 
 ## 2026-11-16T20:12:06+00:00 - check-tenets
 - **Status**: Warnings

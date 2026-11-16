@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-11-16 19:33:36+00:00
+ai_modified: 2026-11-16 20:35:17+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 11:21:11+00:00
-lastmod: 2026-11-16 19:33:36+00:00
+lastmod: 2026-11-16 20:35:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cogni
 
 **The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Gruber et al. 2015). [Cumulative culture](/concepts/cumulative-culture/) requires [metarepresentation](/concepts/metacognition/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within the "zone of latent solutions" (Tennie, Call & Tomasello 2009).
 
-**Logical reasoning requires consciousness**: DeWall et al. (2008) found that a cognitive load preoccupying conscious processing substantially impaired logical reasoning, while hampering the unconscious system left reasoning intact. Detection, though, is not the bottleneck: De Neys and Glumicic (2008) showed that reasoners register the conflict between a heuristic answer and the base rates implicitly—longer latencies, more reviewing, better recall—even when they never verbalise it and still answer wrongly. Noticing runs without conscious access; overriding does not. Explicit rule-following requires conscious manipulation of representations.
+**Logical reasoning under conscious load (DeWall et al. 2008)**: The study found that a cognitive load preoccupying conscious processing substantially impaired logical reasoning, while hampering the unconscious system left reasoning intact. Detection, though, is not the bottleneck: De Neys and Glumicic (2008) showed that reasoners register the conflict between a heuristic answer and the base rates implicitly—longer latencies, more reviewing, better recall—even when they never verbalise it and still answer wrongly. Noticing runs without conscious access; overriding does not. On the amplification hypothesis, explicit rule-following requires conscious manipulation of representations.
 
 ## How Consciousness Amplifies
 
@@ -119,15 +119,15 @@ So the [common-cause null](/project/common-cause-null/) applies to the amplifier
 
 Illusionism is the deflationary reading tightened into a positive thesis. [Illusionists](/concepts/illusionism/) might respond that conscious amplification is really unconscious processing generating the *illusion* of conscious contribution. This faces several difficulties:
 
-**The empirical evidence**: Disrupting conscious processing specifically impairs logical reasoning; disrupting unconscious processing does not (DeWall et al. 2008). If reasoning were really unconscious, the pattern should reverse. That conflict *detection* runs implicitly (De Neys & Glumicic 2008) does not rescue the illusionist: what fails without conscious engagement is the override, and the override is where the reasoning happens.
+**The empirical evidence**: Disrupting conscious processing specifically impairs logical reasoning; disrupting unconscious processing does not (DeWall et al. 2008). That tells against reasoning being unconscious in the access sense, which the illusionist need not claim: illusionism denies phenomenal properties, and the load manipulation does not separate those from executive capacity (above). The evidence narrows the illusionist thesis without refuting it, and implicit conflict *detection* (De Neys & Glumicic 2008) does not move the work back to unconscious processing: what fails without conscious engagement is the override, and the override is where the reasoning happens.
 
 **The training problem**: If conscious amplification is illusory, deliberate attention to conscious states should not track metacognitive skill at all. The contemplative evidence is correlational rather than experimental, but the direction it points is the one illusionism has to explain away.
 
-**The baseline pattern**: The systematic correspondence between consciousness-requiring tasks and the human-ape gap needs independent explanation if consciousness is causally inert.
+**The baseline pattern**: The systematic correspondence between tasks classed as consciousness-requiring and the human-ape gap is something any account must explain: the amplification hypothesis by conscious contribution, an illusionist by expanded executive capacity as common cause. The tasks were classed largely by that gap (above), which weakens the correspondence further.
 
 **The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary—effortful reasoning, insight, deliberate manipulation. If these are illusions, something must generate them, and that something is either conscious or requires further explanation.
 
-Frankish's (2016) quasi-phenomenal response—that functional states represent themselves as phenomenal without being so—faces a specific problem: the correlation between "tasks that feel conscious" and "tasks that distinguish humans from great apes" would be coincidental. The quasi-phenomenal framework must also explain why disrupting these representations impairs logical reasoning while leaving pattern recognition intact.
+Frankish's (2016) quasi-phenomenal response—that functional states represent themselves as phenomenal without being so—owes an account of why "tasks that feel conscious" and "tasks that distinguish humans from great apes" line up, and the common cause named above supplies one. The Map's reply rests instead on the regress above and on the datum that experience is what we know most directly, which the illusionist declines to grant; [that dispute runs to bedrock](/tenets/#dualism).
 
 ## The Decoherence Challenge
 
@@ -179,9 +179,9 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet pr
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects interpretations where consciousness fragments into parallel streams. The amplification hypothesis supports determinacy: consciousness selects among possibilities, producing the *this* rather than *that* that cognition requires. Logical reasoning depends on determinate conclusions; counterfactual thinking requires distinguishing actual from possible; metarepresentation demands stable beliefs to take as objects. If consciousness amplifies through selection, it must select—producing singular outcomes, not branching alternatives.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects interpretations where consciousness fragments into parallel streams. The amplification hypothesis presupposes determinacy: consciousness selects among possibilities, producing the *this* rather than *that* that cognition requires. Logical reasoning depends on determinate conclusions; counterfactual thinking requires distinguishing actual from possible; metarepresentation demands stable beliefs to take as objects. Each is available within a branch, so the need for determinacy does not tell against many-worlds. Amplification through outcome-selection, though, needs some outcome excluded, and that the unselected outcomes occur nowhere is a [posit the Map adopts](/tenets/background-commitments/).
 
-The [phenomenology of deliberate reasoning](/concepts/phenomenology-of-choice-and-volition/) involves holding alternatives in mind, comparing them, and settling on one. If all alternatives are equally actualised across branches, the phenomenology of settling—the felt resolution when a conclusion is reached—becomes illusory. The correlation between consciousness-dependent capacities and successful reasoning would be coincidental.
+The [phenomenology of deliberate reasoning](/concepts/phenomenology-of-choice-and-volition/) involves holding alternatives in mind, comparing them, and settling on one. A reasoner within a branch has the same phenomenology of settling—the felt resolution when a conclusion is reached—so it does not decide against branching. The Map rejects many-worlds on the tenet's indexical ground (a branch-egalitarian picture does not say why I am *this* branch) and so treats the settling as selection of the one outcome that occurs.
 
 ### Occam's Razor Has Limits
 
