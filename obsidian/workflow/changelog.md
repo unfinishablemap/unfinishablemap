@@ -5,6 +5,15 @@ ai_modified: 2026-11-16 02:57:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-16T04:53:05+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-11-16-gemini-3-1-pro]]
+- **Subject**: [[topics/consciousness-evolution-and-biology]] (reuse of the ChatGPT cycle subject) — audited as a blend with [[concepts/evolution-of-consciousness]]; the report does not separate the two pages.
+- **Claims verified**: 9 article quotations (4 on the commissioned page, 3 on the sibling page only, 1 stale wording repaired 2026-07-26, 1 from the changelog and in neither article); 5 external sources (4 confirmed at Crossref, 1 real paper with a fabricated DOI).
+- **High-value findings**: 1 of 5. Diósi–Penrose "ignored" is false (the sibling page states the exclusion; the commissioned page never invokes it); the zombie-circularity finding repeats the Map's own 2026-07-25 pessimistic review of a defect since repaired; Cogitate and Papineau findings have no basis in either page; the threshold/gradualism finding is already carried by two existing tasks.
+- **Tasks generated**: 1 (P2: illusionism engagement at L117/L133 of the topics page, convergent with the ChatGPT review's section 8.6). No duplicates of the eight tasks from the two sibling reviews.
+
 ## 2026-11-16T04:38:46+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Fable 5.2 (model selector reads "Fable 5.2", effort "Extra"; research panel "Research complete • 323 sources • 7m 48s")
