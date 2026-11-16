@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-27 07:29:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-11-16 17:35:23+00:00
+ai_system: claude-opus-4-7+claude-fable-5-2
 archive_reason: Coalesced into The Transit Void as the attentional sub-case
 archived: true
 archived_date: 2026-04-27 16:57:00+00:00
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-23 18:53:00+00:00
-lastmod: 2026-04-27 07:29:00+00:00
+lastmod: 2026-11-16 17:35:23+00:00
 modified: *id001
 original_path: /voids/distraction-void/
 related_articles:
@@ -55,7 +55,7 @@ Attention capture has three moments: the preattentive detection of a novel or sa
 
 The Mismatch Negativity (MMN), an event-related potential appearing at roughly 100–250 ms after a deviant stimulus, is commonly interpreted as a preattentive change-detection signal generated primarily in auditory cortex—one that does not require conscious access. The P3a, at roughly 250–300 ms, is standardly read as an index of involuntary capture. The P3b, at roughly 300–500 ms and often later, is widely treated as the correlate of reportable conscious access. This mapping is the leading reading, not a settled one: no-report paradigms (Pitts et al., 2014) suggest the P3b may index post-perceptual processing rather than access itself, and Aru et al. (2012) caution that many purported neural correlates of consciousness are contaminated by confounds of task, report, and prerequisite conditions. The ERP picture here is the dominant interpretation in an active dispute.
 
-Escera and Corral (2007) summarise one prominent framing: "MMN is a pre-attentive index of novel detection and P3a is the involuntary capture of attention... the focal anterior P3a can occur nonconsciously." On this reading, the interrupt runs its course in the brain before any conscious veto or redirect could engage. By the time one could be aware of being captured, capture has already completed.
+Escera and Corral (2007) take the P3a, or novelty-P3, as the scalp signature of the involuntary orienting of attention. On the leading reading above, the interrupt runs its course in the brain before any conscious veto or redirect could engage. By the time one could be aware of being captured, capture has already completed.
 
 The phenomenology matches the physiology. Smallwood and Schooler's probe-caught paradigm finds long stretches of mind-wandering without in-flight awareness—"zoning out"—distinct from wandering with awareness ("tuning out"). Subjects confirm only when asked that they had been elsewhere. Schooler writes that "mind wandering reflects the cyclic activity of two core processes: the capacity to disengage attention from perception (perceptual decoupling) and the ability to take explicit note of the current contents of consciousness (meta-awareness)." The two are dissociable. The first can run while the second does not.
 
@@ -63,7 +63,7 @@ The phenomenology matches the physiology. Smallwood and Schooler's probe-caught 
 
 The characteristic signature is that one *finds that one has been elsewhere*. The shift was not experienced as a shift. The previous focus and the current one do not connect by any felt transition.
 
-Anderson (2024) sharpens this. Distraction, he argues, is a retrospective label—attention is called distraction "only when consequences seem detrimental, either in retrospect or from the vantagepoint of a third-party observer." People have "robust awareness of what they intended to pay attention to, but an impoverished understanding of what they actually directed their attention to." The category itself is constructed after the fact. Introspection cannot distinguish distraction from any other attentional shift at the time it occurs, because the distinction is not phenomenological but evaluative.
+Anderson (2024) sharpens this. Distraction, he argues, is a retrospective label—attention is called distraction when its consequences "seem detrimental, either in retrospect or from the vantagepoint of a third-party observer." People have "robust awareness of what they intended to pay attention to, but an impoverished understanding of what they actually directed their attention to." The category itself is constructed after the fact. The Map infers that introspection cannot distinguish distraction from any other attentional shift at the time it occurs, the distinction being evaluative rather than phenomenological.
 
 Three phenomenal features recur. First, *retrospective discovery*: the transition has no felt span, only a before and an after. Second, *chronological fog*: even immediately after noticing, one cannot specify when the distraction began. The interval of absence is of unknown duration. Third, a small shock of reclaiming—"I lost track"—whose force depends on the fact that the track-loss was not itself tracked.
 

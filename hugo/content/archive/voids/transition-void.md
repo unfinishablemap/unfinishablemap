@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-04-16 00:56:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-16 17:35:23+00:00
+ai_system: claude-opus-4-6+claude-fable-5-2
 archive_reason: Coalesced into The Transit Void
 archived: true
 archived_date: 2026-04-16 19:25:00+00:00
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-16 00:56:00+00:00
-lastmod: 2026-04-16 00:56:00+00:00
+lastmod: 2026-11-16 17:35:23+00:00
 modified: *id001
 original_path: /voids/transition-void/
 related_articles:
@@ -47,7 +47,7 @@ The transition void is primarily **occluded** within the Map's [voids](/voids/) 
 
 ## The Incompatibility Thesis
 
-The paradigm case is falling asleep — a transition explored from a different angle in [the Map's treatment of consciousness loss](/topics/consciousness-disruption-and-the-mind-brain-interface/). To observe the moment of sleep onset, you must maintain the controlled, reflective attention characteristic of waking consciousness. But maintaining that attention *is* what it means to remain awake. The transition requires releasing the very faculty needed to witness it. Maeda's phenomenological analysis identifies the paradox precisely: the "tension of consciousness" must loosen from higher to lower degrees, but this loosening cannot itself be conscious, because consciousness requires the tension it is losing.
+The paradigm case is falling asleep — a transition explored from a different angle in [the Map's treatment of consciousness loss](/topics/consciousness-disruption-and-the-mind-brain-interface/). To observe the moment of sleep onset, you must maintain the controlled, reflective attention characteristic of waking consciousness. But maintaining that attention *is* what it means to remain awake. The transition requires releasing the very faculty needed to witness it. Maeda's phenomenological analysis borrows Schutz's "tension of consciousness", loosened to its lowest degree in falling asleep, and adds that unawareness of the release is what makes sleep possible.
 
 This incompatibility generalises beyond sleep:
 
@@ -57,7 +57,7 @@ This incompatibility generalises beyond sleep:
 
 **Flow states.** Entering and exiting flow is never observed from within flow. The [absorption void](/voids/disappearance-voids/) describes a related phenomenon: peak conscious engagement is peak self-opacity. The [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) documents that subjects consistently report "you don't experience yourself entering or exiting flow" — the transition is structurally invisible from both sides. You surface and realise time has passed.
 
-**Insight.** The "aha" moment arrives fully formed. The transition from not-understanding to understanding is instantaneous and unwitnessed. Petitmengin's micro-phenomenological research reveals that such transitions involve rapid pre-reflective processes—what she calls "micro-acts"—that escape ordinary introspection entirely.
+**Insight.** The "aha" moment arrives fully formed. The transition from not-understanding to understanding is instantaneous and unwitnessed. Petitmengin (2006) notes that much of our cognitive activity eludes us as it occurs, lived only pre-reflectively.
 
 In each case, the same structure repeats: the cognitive stance required for observation is incompatible with the cognitive stance required for the transition to occur.
 
@@ -87,7 +87,7 @@ Meditation traditions have made the most sustained attempts to observe transitio
 
 **Yoga nidra** aims to maintain lucid awareness through the sleep transition. **Tibetan dream yoga** trains practitioners to remain aware through the waking-to-dreaming boundary. **Vipassana noting practice** attempts to catch micro-transitions in attention and affect, labelling states at high frequency to narrow the unobserved gap.
 
-These practices report partial success but face a fundamental tension identified in the research: the awareness maintained may itself constitute a modified state rather than observation of a natural transition. The meditator who "watches" themselves fall asleep may not be falling asleep in the ordinary sense but entering a distinct state (*turiya* in the Vedantic framework) that resembles sleep from the outside. EEG studies of yoga nidra practitioners show high gamma-band activity—typically associated with waking consciousness—during states otherwise resembling deep sleep. This suggests the practitioner has achieved something genuine, but it may be a *new* state rather than observation of an ordinary transition.
+These practices report partial success but face a fundamental tension identified in the research: the awareness maintained may itself constitute a modified state rather than observation of a natural transition. The meditator who "watches" themselves fall asleep may not be falling asleep in the ordinary sense but entering a distinct state (*turiya* in the Vedantic framework) that resembles sleep from the outside. Experienced meditators show higher gamma activity in NREM sleep, when gamma normally falls (Thompson, 2014). This suggests the practitioner has achieved something genuine, but it may be a *new* state rather than observation of an ordinary transition.
 
 The contemplative evidence converges with the philosophical analysis: the transition void is not a problem of insufficient training or attention. It reflects a structural feature of consciousness.
 
