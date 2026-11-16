@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T15:51:11+00:00
+ai_modified: 2026-11-16T16:18:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T16:18:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/transit-void]]
+- **Word count**: 3514 → 3505 (-9); prose 2799 → 2779, apparatus 715 → 726 (the hard gate fires on the total, not the prose)
+- **Critical issues addressed**: 12
+- **Medium issues addressed**: 5
+- **Enhancements made**: 2
+- **Quotation audit**: 7 attributed quotations checked against fetched sources; 5 defective. Escera and Corral 2007 "the focal anterior P3a can occur nonconsciously" is absent from the paper (which never uses "conscious"); Metzinger's "illusory phenomenology of self-causation" is from the 2015 JCS paper, not the 2013 one cited, and is conditional there; the Husserl 1991 protention quotation is Zahavi's gloss; the Anderson 2024 and Gallagher 2012 quotations were altered inside the marks; Maeda was credited with Schutz's term. All five trace to research-note lines.
+- **Paraphrase repairs**: Analayo 2003 "convergent finding" (unsupported; the sutta prescribes clear knowing while falling asleep), yoga nidra "high gamma" (re-scoped to the NREM finding Thompson 2014 reports), NIH 2019 (mice; "may"), Brown and McNeill 1966 (blocking is a later hypothesis), Schurger 2012 (condition restored; "inherently indeterminate" removed).
+- **Tenet section**: Dualism paragraph brought to the voids-register grade (P-V3 suspended); Bidirectional "suggests active selection" recalibrated; conjunction-coalesce classification stated as unconfirmed, matching the apex.
+- **Engagements**: illusionism mixed (Mode One/Two), Dennett Mode Three; unchanged.
+- **Unverified**: Gallagher wording at source, Eldridge "double concealment", ERP latencies; listed in the review with research-note follow-ups for the driver. No tasks minted.
+- **Output**: [[reviews/deep-review-2026-11-16-transit-void]]
 
 ## 2026-11-16T15:51:11+00:00 - refine-draft
 - **Status**: Success

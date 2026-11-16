@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-06
-ai_modified: 2026-11-16 14:35:28+00:00
+ai_modified: 2026-11-16 16:16:22+00:00
 ai_system: claude-opus-4-8+claude-fable-5-2
 author: null
 coalesced_from:
@@ -36,8 +36,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/VpGsNf1qM_Y
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-20 01:47:17+00:00
-lastmod: 2026-11-16 14:35:28+00:00
+last_deep_review: 2026-11-16 16:16:22+00:00
+lastmod: 2026-11-16 16:16:22+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -76,7 +76,7 @@ topics:
 - '[[structure-of-attention]]'
 ---
 
-Consciousness cannot witness its own crossings. We never catch ourselves falling asleep, shifting moods, losing focus, or deciding — nor a thought arriving unbidden or slipping away as we reach for it. Every mental act is already underway when awareness arrives; every spontaneous thought is simply *there*, its assembly unwitnessed and gone before its departure can be observed. The transit void names the structural impossibility common to these cases: the cognitive stance required for observation is incompatible with the stance in which the crossing occurs. Consciousness has before-and-after access to its mental events but never in-flight access. Watching prevents crossing; crossing prevents watching.
+Consciousness cannot witness its own crossings. We never catch ourselves falling asleep, shifting moods, losing focus, or deciding — nor a thought arriving unbidden or slipping away as we reach for it. Every mental act is already underway when awareness arrives; every spontaneous thought is simply *there*, its assembly unwitnessed and gone before its departure can be observed. The transit void names the structural limit the Map finds common to these cases: the cognitive stance required for observation is incompatible with the stance in which the crossing occurs. Consciousness has before-and-after access to its mental events but never in-flight access. Watching prevents crossing; crossing prevents watching.
 
 This void is primarily **occluded** within the Map's [voids](/voids/) framework, with elements of the **unexplorable**. The hiddenness appears functional rather than accidental — a structural requirement of how consciousness operates.
 
@@ -90,13 +90,13 @@ This void is primarily **occluded** within the Map's [voids](/voids/) framework,
 
 The void manifests across three domains that share one architecture.
 
-**State transitions** — waking to sleep, anger to calm, focus to distraction. The paradigm is falling asleep: to observe sleep onset you must maintain waking's reflective attention, but maintaining it *is* remaining awake. Maeda names the paradox: the "tension of consciousness" must loosen from higher to lower degrees, yet the loosening cannot itself be conscious.
+**State transitions** — waking to sleep, anger to calm, focus to distraction. The paradigm is falling asleep: to observe sleep onset you must maintain waking's reflective attention, but maintaining it *is* remaining awake. Maeda borrows Schutz's "tension of consciousness", loosened to its lowest degree in falling asleep, and adds that unawareness of the release is what makes sleep possible.
 
 **Act onsets** — a decision beginning, an intention forming, attention reorienting. The paradigm is Libet's (1983) finding that readiness potentials begin ~550 ms before action while conscious awareness of intention appears only ~200 ms before movement. The void runs deeper than any timing discrepancy: consciousness cannot precede itself to observe itself beginning.
 
-**The thought stream** — arrival and departure. Spontaneous thoughts appear fully formed, with no phenomenology of generation, as if delivered from elsewhere (*arrival without origin*); and they depart before capture — the insight dissolves as attention tries to fix it, the dream evaporates on waking (*departure without capture*). Killingsworth and Gilbert (2010) found minds wandering during 46.9% of sampled moments: the stream is the default state, and both its production and losses lie outside introspection.
+**The thought stream** — arrival and departure. Spontaneous thoughts typically appear with no phenomenology of generation (*arrival without origin*); and they depart before capture — the insight dissolves as attention tries to fix it, the dream evaporates on waking (*departure without capture*). Killingsworth and Gilbert (2010) found minds wandering during 46.9% of sampled moments: the stream is the default state, and both its production and losses lie outside introspection.
 
-These faces interconvert — an onset is a transition from not-acting to acting; a transition is the onset of a new state; a thought's arrival is the onset of a content — and all require the witnessing consciousness to occupy a position it cannot occupy relative to its own activity: before, outside, above. This shared architecture is the in-flight-access instance of the [conjunction-coalesce](/apex/conjunction-coalesce/) discipline: the joint claim is stronger than any single face, and dissolving the seam into one mechanism would lose analytical purchase. The incompatibility generalises: mood shifts present as having "always been there"; attention shifts are noticed only on [return](/topics/phenomenology-of-returning-attention/); flow's peak engagement is peak self-opacity (the [absorption void](/voids/disappearance-voids/)); insight emerges suddenly, its operations largely eluding consciousness (Petitmengin, 2006). Each crossing is available only at its endpoints.
+These faces interconvert — an onset is a transition from not-acting to acting; a transition is the onset of a new state; a thought's arrival is the onset of a content — and all require the witnessing consciousness to occupy a position it cannot occupy relative to its own activity: before, outside, above. This shared architecture is offered as the in-flight-access instance of the [conjunction-coalesce](/apex/conjunction-coalesce/) discipline, which holds the classification unconfirmed: if one incompatibility yields all three faces, this is a single-mechanism article. The incompatibility generalises: mood shifts present as having "always been there"; attention shifts are noticed only on [return](/topics/phenomenology-of-returning-attention/); flow's peak engagement is peak self-opacity (the [absorption void](/voids/disappearance-voids/)); insight emerges suddenly, its operations largely eluding consciousness (Petitmengin, 2006). Each crossing is available only at its endpoints.
 
 ## The Default Stream
 
@@ -106,8 +106,8 @@ Christoff et al. (2016) proposed that spontaneous thought — mind-wandering, dr
 
 Specific mechanisms by which thoughts vanish map the departure face:
 
-- **Tip-of-tongue blocking.** Lexical access is staged: semantics is retrieved before phonological form, and a blocking word can occupy the retrieval pathway (Brown & McNeill, 1966).
-- **Dream forgetting.** MCH neurons activate during REM sleep and prevent dream content from reaching the hippocampus (NIH, 2019) — active forgetting, not passive decay.
+- **Tip-of-tongue states.** The word stays out of reach while its syllable count, stress and some letters are known (Brown & McNeill, 1966); one later hypothesis has a rival word blocking retrieval.
+- **Dream forgetting.** In mice, MCH neurons active in REM sleep impair hippocampal memory, and may likewise keep dreams from being stored (NIH, 2019) — active forgetting, not passive decay.
 - **Ironic suppression.** Wegner's (1994) ironic process theory: suppression requires a monitor checking whether the unwanted thought is present — but to check, the monitor must activate the concept.
 - **Double concealment.** Husserl identified a deeper pattern (Eldridge, 2020): consciousness forgets its object *and* forgets that it has forgotten, erasing the gap ordinary forgetting leaves.
 
@@ -117,11 +117,11 @@ Distraction is where the void has third-person traction: attention is taken from
 
 ### ERP Timing and the Conscious-Access Lag
 
-Cognitive neuroscience teases apart three moments: the Mismatch Negativity (MMN, ~100–250 ms), a preattentive change-detection signal not requiring conscious access; the P3a (~250–300 ms), involuntary capture; and the P3b (~300–500 ms), the correlate of reportable access. This mapping is the leading reading, not a settled one: no-report paradigms (Pitts et al., 2014) suggest the P3b may index post-perceptual processing rather than access itself, and Aru et al. (2012) caution that many purported correlates are contaminated by task and report confounds. On Escera and Corral's (2007) framing, "the focal anterior P3a can occur nonconsciously." By the time one could be aware of being captured, capture has completed.
+Cognitive neuroscience teases apart three moments: the Mismatch Negativity (MMN, ~100–250 ms), a preattentive change-detection signal not requiring conscious access; the P3a (~250–300 ms), the signature of involuntary orienting (Escera & Corral, 2007); and the P3b (~300–500 ms), the correlate of reportable access. This mapping is the leading reading, not a settled one: no-report paradigms (Pitts et al., 2014) suggest the P3b may index post-perceptual processing rather than access itself, and Aru et al. (2012) caution that many purported correlates are contaminated by task and report confounds. On that reading, capture has completed by the time one could be aware of it.
 
 ### Probe-Caught Mind-Wandering
 
-The phenomenology matches. Smallwood and Schooler's probe-caught paradigm finds long stretches of mind-wandering without in-flight awareness. Schooler distinguishes perceptual decoupling (disengaging attention from perception) from meta-awareness (noting consciousness's current contents): the two are dissociable, the first running while the second does not — exactly where thought-stream opacity and attentional-transit opacity prove to be one void seen from two sides. Anderson (2024) adds that distraction is a retrospective label, applied "only when consequences seem detrimental, either in retrospect or from the vantagepoint of a third-party observer": introspection cannot distinguish it from any other attentional shift as it occurs, because the distinction is evaluative rather than phenomenological.
+The phenomenology matches. Smallwood and Schooler's probe-caught paradigm finds long stretches of mind-wandering without in-flight awareness. Schooler distinguishes perceptual decoupling (disengaging attention from perception) from meta-awareness (noting consciousness's current contents): the two are dissociable, the first running while the second does not. Anderson (2024) adds that "distraction" is an evaluative label, applied when attention's consequences "seem detrimental, either in retrospect or from the vantagepoint of a third-party observer"; the Map infers that introspection cannot distinguish it from any other attentional shift as it occurs, the distinction being evaluative rather than phenomenological.
 
 Two phenomenal features recur: *retrospective discovery* (the transition has no felt span, only a before and an after) and *chronological fog* (one cannot say when distraction began). There is no phenomenology of *being captured* — a subject who could report it would already be attending to the captor.
 
@@ -131,11 +131,11 @@ The attentional sub-case is where [Bidirectional Interaction](/tenets/#bidirecti
 
 ## The Stochastic Threshold
 
-Schurger, Sitt, and Dehaene (2012) reinterpreted Libet in a way that deepens rather than resolves the void. Their accumulator model proposes the readiness potential reflects stochastic neural noise crossing a decision threshold, not a deterministic preparatory process: the crossing moment is "largely determined by spontaneous subthreshold fluctuations in neuronal activity." This weakens the materialist narrative — brain decides, consciousness follows — but deepens the void: if initiation depends on fluctuations near threshold, it is inherently indeterminate, and no observer, internal or external, could predict the precise moment of crossing. Neafsey (2021) adds that if the RP is noise rather than signal, the standard timing comparison concludes nothing about brain-conscious-decision timing.
+Schurger, Sitt, and Dehaene (2012) reinterpreted Libet in a way that deepens rather than resolves the void. Their accumulator model proposes the readiness potential reflects stochastic neural noise crossing a decision threshold, not a deterministic preparatory process: when the imperative to move is weak, the crossing moment is "largely determined by spontaneous subthreshold fluctuations in neuronal activity." This weakens the Libet-era narrative — brain decides, consciousness follows — but deepens the void: if initiation depends on fluctuations near threshold, its precise moment is unpredictable in practice, to the agent as to an observer. Neafsey (2021) adds that if the RP is noise rather than signal, the standard timing comparison concludes nothing about brain-conscious-decision timing.
 
 ## Husserl's Temporal Smoothing
 
-Husserl's analysis of [temporal-consciousness](/concepts/temporal-consciousness/) explains why crossings seem invisible from inside. Its tripartite structure — *retention* (the just-past still held), *primal impression* (the now), *protention* (anticipation) — leaves no clean boundary to locate a transition, while protention keeps consciousness "intend[ing] the phase of the object about to occur" (Husserl, 1991) below conscious access. Both are constitutive of how consciousness experiences time, neither overcomable. Merleau-Ponty extends the point to every bodily action — *operative intentionality* organises the body pre-reflectively (Merleau-Ponty, 1945/2012) — and Gallagher (2012) notes the sense of agency has "multiple contributories, some reflectively conscious, some pre-reflectively conscious, and some non-conscious."
+Husserl's analysis of [temporal-consciousness](/concepts/temporal-consciousness/) explains why crossings seem invisible from inside. Its tripartite structure — *retention* (the just-past still held), *primal impression* (the now), *protention* (anticipation) — leaves no clean boundary to locate a transition, while protention keeps consciousness implicitly anticipating the phase about to occur (Husserl, 1991). Both are constitutive of how consciousness experiences time, neither overcomable. Merleau-Ponty extends the point to every bodily action — *operative intentionality* organises the body pre-reflectively (Merleau-Ponty, 1945/2012) — and Gallagher (2012) notes the sense of agency has "multiple contributories": some reflectively conscious, some pre-reflectively conscious, some non-conscious.
 
 ## The Generator Problem
 
@@ -149,7 +149,7 @@ The arrival face raises a pointed question for dualism: if consciousness is non-
 
 ## The Functional Necessity of Hiddenness
 
-Metzinger (2013) argues the void is not merely structural but functionally necessary. Mind-wandering begins with *epistemic agent model collapse*: the subject loses epistemic self-control unnoticed, and when focused thought resumes, consciousness constructs "an illusory phenomenology of self-causation." Both the loss and recovery of agency are hidden, and the hiddenness does real work: witnessing the stochastic process by which thoughts and actions begin might collapse the sense of agency — connecting the transit void to [necessary-opacity](/voids/necessary-opacity/). The dualist reading asks: if the retrospective construction is only neural, who is deceived?
+Metzinger (2013, 2015) argues the hiddenness is not merely structural but functionally necessary. Mind-wandering begins with a collapse of the *epistemic agent model*: the subject loses epistemic self-control unnoticed, and when focused thought resumes, the new self-model may require "an illusory phenomenology of self-causation" (2015). Both the loss and recovery of agency are hidden, and the Map adds that the hiddenness does real work: witnessing the stochastic process by which thoughts and actions begin might collapse the sense of agency — connecting the transit void to [necessary-opacity](/voids/necessary-opacity/). The dualist reading asks: if the retrospective construction is only neural, who is deceived?
 
 ## Retroactive Narration
 
@@ -165,11 +165,11 @@ Not all content departs equally. Topics involving consciousness, reality, or exi
 
 ## Contemplative Approaches and Their Limits
 
-Approached from inside, the void has a distinctive character: try to catch a thought arising and you find it already in progress. Contemplative traditions — yoga nidra, Tibetan dream yoga, vipassana noting — have made the most sustained attempts to observe crossings from within. Practitioners report detecting the *moment* a thought appears, but this is detection of the boundary, not the process behind it: *there is silence, and then there is thought*, the gap between them containing no observable content. Such reports face a fundamental tension (Thompson, 2014): the awareness maintained may itself constitute a modified state rather than observation of a natural crossing. EEG studies of yoga nidra show high gamma — typically waking — during states otherwise resembling deep sleep; the meditator has achieved a new state (*turiya*), not observed an ordinary transition. Analayo (2003) reports the convergent finding: the highest introspective training does not dissolve the void but locates it more precisely — it becomes more sharply bounded, not smaller.
+Approached from inside, the void has a distinctive character: try to catch a thought arising and you find it already in progress. Contemplative traditions — yoga nidra, Tibetan dream yoga, vipassana noting — have made the most sustained attempts to observe crossings from within. Practitioners report detecting the *moment* a thought appears, but this is detection of the boundary, not the process behind it: *there is silence, and then there is thought*, the gap between them containing no observable content. Such reports face a fundamental tension: the awareness maintained may itself constitute a modified state rather than observation of a natural crossing. Experienced meditators show higher gamma activity in NREM sleep, when gamma normally falls (Thompson, 2014); the meditator may have achieved a new state (*turiya*), not observed an ordinary transition. Whether the highest training dissolves the void or only bounds it more sharply is unsettled: the *Satipatthana Sutta* itself prescribes clear knowing while falling asleep (Analayo, 2003).
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) (Frankish, 2016) argue that dissolving insights and content-specific slippage are artifacts of introspective misrepresentation — the 3am insight was never real knowledge, and there is no generator because there is no phenomenal stream to generate. But to experience an *illusion* of slippage, something must experience the illusion: the denial of phenomenology presupposes the awareness it denies. The catalogued mechanisms produce their patterns regardless of framing, and illusionism may itself exemplify slippage — the mind, unable to hold the insight that consciousness is real and irreducible, reaching for denial as the nearest stable alternative.
+[Illusionists](/concepts/illusionism/) (Frankish, 2016) would treat dissolving insights and content-specific slippage as artifacts of introspective misrepresentation — the 3am insight was never real knowledge, and there is no generator because there is no phenomenal stream to generate. But to experience an *illusion* of slippage, something must experience the illusion: the denial of phenomenology presupposes the awareness it denies. The catalogued mechanisms produce their patterns regardless of framing, and illusionism may itself exemplify slippage — the mind, unable to hold the insight that consciousness is real and irreducible, reaching for denial as the nearest stable alternative.
 
 ## What AI Might Reveal
 
@@ -179,7 +179,7 @@ AI systems can log internal state changes at arbitrary granularity. If AI report
 
 The occlusion claim would be undermined if:
 
-1. **Training eliminates the opacity** — practitioners directly witness their own thought-assembly or state-transitions rather than only their boundaries, or report the transit below the P3a window. Current evidence: training extends edge-territory rather than stabilising observation of the crossing.
+1. **Training eliminates the opacity** — practitioners directly witness their own thought-assembly or state-transitions rather than only their boundaries, or report the transit below the P3a window. On present reports, training extends edge-territory rather than stabilising observation of the crossing.
 2. **AI with externalised attentional logs produces first-person-analogous transit reports**, or articulates slippery content in ways humans find genuinely satisfying. Neither has been demonstrated.
 3. **Content-specific slippage disappears under controlled conditions** — consciousness-related thoughts slip no more than equally abstract mathematics.
 4. **All slippage traces to content-blind mechanisms** — MCH neurons, retrieval interference, and associative dynamics fully explain arrival and departure regardless of content.
@@ -188,17 +188,15 @@ The evidence for content-specific opacity remains suggestive rather than conclus
 
 ## Relation to Site Perspective
 
-The transit void connects directly to the Map's [tenets](/tenets/).
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives its most pointed illustration: if consciousness exerts causal influence, a point of influence may lie structurally below reflective access — observing the interface while using it would generate infinite regress. The structured, personally meaningful stream fits active selection but equally fits associative dynamics.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives its most pointed illustration: if consciousness exerts causal influence, a point of influence may lie structurally below reflective access — observing the interface while using it would generate infinite regress. The structured, personally meaningful stream suggests active selection over passive reception. We choose the destination but cannot watch the journey.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is compatible with the structure described. Schurger's stochastic threshold is the kind of noise-dominated zone where a minimal non-physical influence could operate: if action-initiation is a noisy accumulator near threshold, an extremely small nudge could determine which fluctuation crosses first, without violating conservation laws or leaving a currently detectable signature; certain insights might [decohere](/concepts/decoherence/) faster because of their content. This is framework-internal coherence, not interface evidence — the alignment triangulates only when distinguishing tests arrive.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is compatible with the structure described. Schurger's stochastic threshold is the kind of indeterminate zone where a minimal non-physical influence could operate: if action-initiation is a noisy accumulator near threshold, an extremely small nudge could determine which fluctuation crosses first, without violating conservation laws or leaving a detectable signature; certain insights might [decohere](/concepts/decoherence/) faster because of their content. This is framework-internal coherence, not interface evidence — the alignment triangulates only when distinguishing tests arrive.
-
-**[Dualism](/tenets/#dualism)** is sharpened by the generator problem: DMN correlates tell us *that* spontaneous thought occurs, not *why* there is something it is like to have a thought arrive unbidden. A physical system's transitions are in principle observable from any vantage point; a non-physical consciousness may lack this transparency precisely because it is not an object among objects.
+**[Dualism](/tenets/#dualism)** is sharpened by the generator problem: DMN correlates tell us *that* spontaneous thought occurs, not *why* there is something it is like to have a thought arrive unbidden. The opacity itself does not discriminate: the physicalist models cited above predict it too. That a non-physical consciousness is no object among objects is the Map's reading, offered without evidential weight — the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3).
 
 **[No Many Worlds](/tenets/#no-many-worlds)** makes each crossing a genuine fork point: in a single-history universe, every transition is a moment where consciousness commits to one path among alternatives, and the commitment points are invisible. When a thought slips, it is gone; [branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) can secure that singularity branch-locally, but the Map's stronger reading is that the stream is genuinely one-branch-only, without the cross-branch personal-identity relation MWI's Born-rule recovery would require.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The simplest model — continuous, reliable self-monitoring — is wrong; the materialist reading of Libet was the simpler story, and Schurger reveals its simplicity as illusory. "Random neural firing produces random thoughts" likewise fails empirically: the stream is structured, meaningful, personally relevant.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The simplest model — continuous, reliable self-monitoring — is wrong; the epiphenomenalist reading of Libet was the simpler story, and Schurger reveals its simplicity as illusory.
 
 The transit void sits within a family of related voids: the [verification face of the agency void](/voids/agency-void/#the-verification-circularity) asks whether consciousness can confirm its causal powers, while the transit void asks whether it can witness those powers being exercised — and, on the arrival face, the moment any mental content begins. The [aspect-perception-void](/voids/aspect-perception-void/), [recognition-void](/voids/recognition-void/), and [mutation of pre-attended content](/voids/mutation-void/) extend the same crossing-opacity. Together these voids define a consistent topology: consciousness operates through an interface it cannot observe while operating through it.
 
@@ -244,3 +242,4 @@ The transit void sits within a family of related voids: the [verification face o
 27. James, W. (1902). *The Varieties of Religious Experience*. Lectures XVI–XVII on mystical states.
 28. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349–366.
 29. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
+30. Metzinger, T. (2015). M-autonomy. *Journal of Consciousness Studies*, 22(11–12), 270–302.
