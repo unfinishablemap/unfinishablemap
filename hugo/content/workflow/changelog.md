@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16 07:33:07+00:00
+ai_modified: 2026-11-16 07:49:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-16'
-lastmod: 2026-11-16 07:33:07+00:00
+lastmod: 2026-11-16 07:49:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-16T07:49:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Task**: P1 from outer review 2026-11-16 (Claude Fable 5.2), concept-page half of the zombie pair and of convergent cluster 1 (illusionism) in `reviews/outer-review-synthesis-2026-11-16`
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted fix from review)
+- **Word count**: 3447 → 3446 (−1; concepts soft 2500, hard 3500; the 49 words freed at 07:04Z remain reserved for the citation task)
+- **Changes**: (1) "The Causal Question": the flat "there are no philosophical zombies" and "*constitutively involve*" replaced by the nomological exclusion already installed on `topics/consciousness-evolution-and-biology` (under this world's psychophysical laws a physical duplicate of a conscious organism cannot lack consciousness), stated as holding only on Bidirectional Interaction and as leaving the metaphysical possibility of zombies untouched; one compressed sentence for the identity theorist's reply, piped to the topics page's treatment. The preceding paragraph was tightened to fund this and now links `philosophical-zombies`. (2) "The Illusionist Challenge": the claim that what function necessitates "is what the Map means by consciousness" removed; the paragraph now says that on the illusionist's account function necessitates a representational state, which the Map denies consciousness is. (3) Same section: "why couldn't genuine consciousness provide those advantages directly?" removed; the illusionist's adaptive answer stated (attention schema theory, wording following `concepts/illusionism`), then what the Map holds it leaves open (the mechanism for the specific impression that there is something it is like), graded as a demanding explanatory programme and not a refutation. The bold claim in the same section recalibrated from "at least as hard" to "potentially as hard", the grade `concepts/illusionism` gives.
+- **Reasoning mode**: engagement with the identity theorist: boundary-marking (no evolutionary burden falls on that view; the ordinary hard problem is the residue). Engagement with illusionism: mixed. The adaptive account is granted on its own terms; the missing mechanism is pressed by a standard illusionism itself applies to rivals; the question of whether a representational state is consciousness is marked as the boundary.
+- **Not done**: Humphrey is not named (no reference line could be funded at net ≤ 0, and `concepts/illusionism` does not cite him). No references added. The "no special problem for dualism" paragraph (L173) untouched.
+- **Left for sibling tasks**: "untenable" and "*does* affect" (L75, L79); quantum grading; Broad and Wiest 2025 references. Falsifier 4 (L209, "why evolution produced such a powerful illusion") still reads as though no illusionist account exists and was outside this task's two passages.
+- **Published**: yes
 
 ## 2026-11-16T07:33:07+00:00 - coalesce
 - **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). Expected steady state.

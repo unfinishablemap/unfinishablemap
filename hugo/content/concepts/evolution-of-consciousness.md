@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-11-16 07:04:20+00:00
+ai_modified: 2026-11-16 07:49:29+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:48:51+00:00
-lastmod: 2026-11-16 07:04:20+00:00
+lastmod: 2026-11-16 07:49:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,9 +105,9 @@ An account on which experience merely accompanies the capable architecture predi
 
 ### The Causal Question
 
-Note that these advantages explain why *brain processes associated with consciousness* might evolve. They don't explain why these processes are accompanied by phenomenal experience. A philosophical zombie—a being functionally identical to a conscious creature but with no inner experience—would gain the same advantages.
+These advantages explain why *brain processes associated with consciousness* might evolve, not why phenomenal experience accompanies them. A [philosophical zombie](/concepts/philosophical-zombies/)—functionally identical to a conscious creature but with no inner experience—would gain the same advantages.
 
-This is precisely the hard problem restated in evolutionary terms. The Map's answer: there are no philosophical zombies. Consciousness is not an optional add-on to neural function—it's irreducible and fundamental, and the neural processes associated with consciousness *constitutively involve* consciousness, not merely causally produce it.
+The Map's answer is nomological: if consciousness biases quantum outcomes, then under this world's [psychophysical-laws](/concepts/psychophysical-laws/) a physical duplicate of a conscious organism cannot lack consciousness—without it, its behaviour would differ. That holds only on [Bidirectional Interaction](/tenets/#bidirectional-interaction), and leaves the metaphysical possibility of zombies untouched. The identity theorist [carries no such burden](/topics/consciousness-evolution-and-biology/#the-zombie-intuition-applied-to-evolution): if consciousness *is* the neural process, selecting one selects the other, and only the ordinary hard problem remains.
 
 ## The Dualist Advantage
 
@@ -139,13 +139,13 @@ The interface view dissolves the strong emergence problem. We don't need to expl
 
 [illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve evolutionary questions about consciousness. If there is no "real" phenomenal experience, only functional processes that misrepresent themselves as experiential, then consciousness didn't evolve at all. What evolved were neural mechanisms that generate the illusion of experience.
 
-The Map rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the evolutionary response is specific: **the illusion problem is at least as hard as the hard problem**.
+The Map rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the evolutionary response is specific: **the illusion problem is potentially as hard as the hard problem**.
 
 If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that *seem* phenomenal. Raymond Tallis presses the bare regress here—illusions presuppose experience, so the appearance of experience must appear *to* something. But the regress assumes "seeming" is itself phenomenal, precisely what illusionists deny: a representational system need not instantiate what it represents, as a map represents terrain without being mountainous. It marks where the Map and illusionism part on foundations rather than refuting illusionism inside its own framework.
 
-Moreover, explaining why selection would craft organisms that systematically misrepresent their own cognition is itself a major explanatory burden. If the illusion is adaptive (because it helps with behavioural flexibility, planning, etc.), why couldn't genuine consciousness provide those advantages directly? The illusionist trades the question "why did consciousness evolve?" for "why did the illusion of consciousness evolve?"—and faces similar challenges.
+Why would selection craft organisms that misrepresent their own cognition? Illusionists answer: on Graziano's [attention schema theory](/concepts/attention-schema-theory/), the brain models its own attention schematically, as having experiential qualities, because that simplification usefully manages attentional resources. That explains why we *report* being conscious. What it leaves open, the Map holds, is the mechanism: why self-modelling should yield the specific impression that *there is something it is like*—a specification illusionism [demands of its rivals](/concepts/illusionism/#where-the-functional-account-falls-short). The burden is a demanding explanatory programme, not a refutation.
 
-The zombie response strengthens here: if philosophical zombies are possible (beings functionally identical to us but lacking experience), then the evolutionary advantages attributed to consciousness could be gained without it. But illusionists typically deny zombies are possible—which means they accept that functional organisation necessitates *something*. That something, whatever we call it, is what the Map means by consciousness. The terminological dispute doesn't dissolve the substantive question of why experience-like-functional-organisation evolved.
+The zombie point does not help the Map either: illusionists typically deny zombies are possible, but what functional organisation necessitates on their account is a representational state, which the Map denies consciousness is.
 
 ## Process Philosophy Perspective
 

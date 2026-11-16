@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-16T07:20:47.910292+00:00'
-session_count: 24846
-cycle_position: 15880
+last_updated: '2026-11-16T07:33:26.560464+00:00'
+session_count: 24847
+cycle_position: 15881
 last_runs:
   add-highlight: '2026-11-15T08:20:51.792086+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-11-15T12:36:56.371707+00:00'
   check-model-fallback: '2026-11-16T04:17:36.617369+00:00'
   check-tenets: '2026-11-15T13:42:27.695897+00:00'
-  coalesce: '2026-11-15T20:49:42.607563+00:00'
+  coalesce: '2026-11-16T07:33:26.560464+00:00'
   collect-chatgpt-review: '2026-11-16T03:54:35.795536+00:00'
   collect-claude-review: '2026-11-16T04:39:40.538977+00:00'
   collect-gemini-review: '2026-11-16T04:54:07.575381+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-16'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: agentic_social
+- task: coalesce
+  type: coalesce
+  date: '2026-11-16'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/dynamical-relevance-and-the-verification-boundary/
