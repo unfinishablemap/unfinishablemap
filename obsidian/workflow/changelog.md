@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T19:34:29+00:00
+ai_modified: 2026-11-16T20:12:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T20:12:06+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 69 (every topics/concepts/voids/apex page changed since check 166's HEAD `072018bdea`; tenet section read in full on all 69, 158 flagged window sentences read, `voids/bereavement-void` read end to end), plus three pattern samples over the 940 files of the five sections
+- **Errors**: 0
+- **Warnings**: 12 (all over-claims in a tenet's name; none contradicts a tenet)
+- **Notes**: 17
+- **Check 166 status**: W14 fixed; its four Priority List items are queued (todo L5651, L5662, L5675, L5687) and still live; nine other Warnings live and unqueued
+- **Priority list**: (1) `concepts/consciousness-as-amplifier` L73/L117/L121/L125/L177/L179; (2) `voids/expertise-and-its-occlusion` L123/L127/L129; (3) `topics/consciousness-evolution-and-biology` L79/L93/L141/L61; (4) `topics/consciousness-and-memory` L188 with `concepts/semantic-memory` L173
+- **Output**: [[reviews/tenet-check-2026-11-16]]
 
 ## 2026-11-16T19:34:29+00:00 - refine-draft
 - **Status**: Success

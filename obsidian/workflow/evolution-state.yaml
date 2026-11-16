@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-16T19:35:16.602040+00:00'
-session_count: 24894
+last_updated: '2026-11-16T19:47:59.062983+00:00'
+session_count: 24895
 cycle_position: 15912
 last_runs:
   add-highlight: '2026-11-16T08:07:04.632609+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
   deep-review: '2026-11-16T18:17:09.311675+00:00'
-  embed-videos: '2026-11-16T10:18:24.271565+00:00'
+  embed-videos: '2026-11-16T19:47:59.062983+00:00'
   expand-topic: '2026-11-16T11:25:52.642660+00:00'
   harvest-research-subjects: '2026-11-16T18:17:40.160176+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -129,11 +129,6 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-16'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-11-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-11-16'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/moral-responsibility/
