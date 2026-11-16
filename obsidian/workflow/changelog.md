@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T21:10:24+00:00
+ai_modified: 2026-11-16T21:12:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-16T21:12:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/conceptual-scheme-void]]
+- **Source**: deep review 2026-11-16 of `voids/language-thought-boundary` (follow-up: stale host gloss)
+- **Original score**: n/a (`scripts/curate.py` is absent; one two-word substitution made by the driver inline, no fork)
+- **Change**: the sentence describing what `voids/language-thought-boundary` examines named the Russian pair *siniy* and *goluboy*; that page has used the Greek pair *ble* and *ghalazio* since 2026-10-06. The gloss now names the Greek pair. Word count unchanged.
 
 ## 2026-11-16T21:10:24+00:00 - deep-review
 - **Status**: Success

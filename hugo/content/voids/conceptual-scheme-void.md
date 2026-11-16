@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-09-17 12:23:03+00:00
+ai_modified: 2026-11-16 21:12:42+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 01:13:30+00:00
-lastmod: 2026-09-17 12:23:03+00:00
+lastmod: 2026-11-16 21:12:42+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -75,7 +75,7 @@ At the framework scale, Kuhn argued that scientists in different paradigms "see 
 
 **Recursive depth.** Stepping outside one's framework creates a new framework. Gadamer's "fusion of horizons" establishes common ground between traditions, but that ground is itself a framework, not an escape.
 
-A categorial gap also resists acquisition. The [language-thought boundary](/voids/language-thought-boundary/) examines gaps that close through translation: *siniy* and *goluboy* are both colour concepts, whether or not English separates them. Acquiring a new *category* would mean acquiring a new shape for concepts — and Strawson (1959) argued core categories cannot be learned the way particular concepts are, because any learning presupposes them. The machinery that would acquire them is the machinery whose limits are in question.
+A categorial gap also resists acquisition. The [language-thought boundary](/voids/language-thought-boundary/) examines gaps that close through translation: *ble* and *ghalazio* are both colour concepts, whether or not English separates them. Acquiring a new *category* would mean acquiring a new shape for concepts — and Strawson (1959) argued core categories cannot be learned the way particular concepts are, because any learning presupposes them. The machinery that would acquire them is the machinery whose limits are in question.
 
 A scheme must also be *applied*, and the operation that applies it to a particular case is similarity judgement: deciding that this goes with those. Goodman (1972) argued that counting shared properties cannot ground similarity, because "any two things have exactly as many properties in common as any other two"; whatever makes two things alike depends on a selection of which properties count, and on the Map's reading that selection is where the scheme's categorial carving meets the comparison in hand. Tversky (1977) showed that the selection is not read off a fixed inventory. Similarity is asymmetric (66 of 69 subjects preferred "North Korea is similar to Red China" to the reverse) and shifts with context: most subjects grouped Austria with Sweden when Poland completed the set, and with Hungary when Norway replaced Poland, so the respects deciding a verdict are fixed by features the subject was not comparing. The respects are selected in the act of comparison; consciousness receives the resemblance, and the carving that produced it stays as hidden as the scheme.
 
