@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T08:23:45+00:00
+ai_modified: 2026-11-17T09:21:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T09:21:40+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Voids: The Learning Void
+- **Output**: [[voids/learning-void]]
+- **Word count**: 2370 by `analyze_length` (voids soft 2,000 / hard 3,000; brief ceiling 2,400). Section count before writing: 123/125 by `tools.evolution.state.count_section_files('voids')`.
+- **Based on research**: yes, [[research/voids-learning-void-2026-11-17]]
+- **Tenet grade**: no tenet supported; Dualism "gains a reading and no evidence", Occam illustrated only, Bidirectional / MQI / No Many Worlds "not engaged"; P-V3 linked.
+- **Quotation ledger** (quotation → source → note mark; each string re-grepped in the note, count 1):
+  - "78% of the participants did better with spaced presentations … as good as or better than spacing." → Kornell & Bjork 2008, Exp 1a (n = 120) → [raw]
+  - "Participants rated massing as more effective than spacing, even after their own test performance had demonstrated the opposite." → Kornell & Bjork 2008 abstract → [raw]
+  - "the illusion that a sense of ease or fluency accompanies effective learning, whereas a sense of difficulty signifies ineffective learning." → Kornell & Bjork 2008, said of themselves → [raw]
+  - "Only 13% of participants in Experiments 1A and 1B judged interleaving to be more effective than blocking." → Yan et al. 2016 → [raw]
+  - "75% (59/79) of the participants reported interleaving to be more effective than blocking" (and 46%, 35/76) → Yan et al. 2016, Exp 6 → [raw]
+  - "blocked practice enhanced acquisition but harmed retention. Participants, though, predicted better performance given blocked practice." → Simon & Bjork 2001 abstract → [raw-abs]; re-read at PubMed (PMID 11486923) this run
+  - "Judgments of learning (JOLs) are made in the presence of information that is absent but solicited during testing." → Koriat & Bjork 2005 abstract → [raw-abs]
+  - "can be alleviated by study-test experience" → Koriat & Bjork 2006 abstract (subject: foresight bias) → [raw-abs]
+  - "Type size affected predicted but not actual memory, and future study opportunities affected actual memory but scarcely affected predicted memory." → Kornell et al. 2011 abstract → [raw-abs]
+  - "participants who perceived a strategy as more effortful … less likely to choose it for future study" → Kirk-Johnson et al. 2019 abstract → [raw-abs]
+  - "certain manipulations can have opposite effects on learning and performance" → Soderstrom & Bjork 2015 abstract (stated as abstract-only in the text) → [raw-abs]
+  - "When the final test was given after 5 min, repeated studying improved recall relative to repeated testing." and "even though repeated studying increased students' confidence in their ability to remember the material" → Roediger & Karpicke 2006 abstract → [raw-abs]
+  - "robust benefits to relative accuracy (g = 0.93)" and "across 4,554 participants" → Rhodes & Tauber 2011 abstract → [raw-abs]
+  - "generalize that knowledge to future learning only with considerable guidance" → Tullis et al. 2013 abstract → [raw-abs]
+  - "(rather) robust" → Weissgerber et al. 2021 abstract (subject: Xie et al.'s transfer results) → [raw-abs]
+  - "Participants (incorrectly) judged that the pair mode resulted in the most learning, but chose the test mode most frequently" → Kornell & Son 2009 abstract → [raw-abs]
+  - Not quoted: Rothkopf's remark (omitted); Yan et al.'s 78% self-exemption sentence (paraphrased, no experiment number); Simon & Bjork's OCR-only strings (figures given as approximate; the PubMed abstract carries no figures); Deslauriers et al. (figures only, paraphrased).
+- **Verified this run**: Xie, Zhou & Liu 2018 at Crossref (Heping Xie, Zongkui Zhou, Qingqi Liu; *Educational Psychology Review* 30(3), 745-771), so the initials stand.
+- **Inbound links**: `concepts/anti-correlated-metacognitive-signal` (3306 → 3364 / 3500), `topics/phenomenology-of-forgetting` (2477 → 2516 / 4000), `topics/consciousness-and-skill-acquisition` (3754 → 3803 / 4000), catalogue line in `voids/voids` (not in the framework-independent list). `voids/noetic-feelings-void` (3,715, over gate) and `voids/expertise-and-its-occlusion` (2,992) left untouched: no existing words on either page state this article's claim, so no piped link was forced.
+- **Cross-review**: registered in `task_chains.pending_cross_reviews` (text insert).
 
 ## 2026-11-17T09:06:16+00:00 - refine-draft
 - **Status**: Success
