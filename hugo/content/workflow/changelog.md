@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17 10:05:19+00:00
+ai_modified: 2026-11-17 10:36:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-17'
-lastmod: 2026-11-17 10:05:19+00:00
+lastmod: 2026-11-17 10:36:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-17T10:36:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Task**: P2 (literature-drift audit 2026-11-17): the Crustaceans section said the UK's 2022 Act made crustaceans "the first invertebrates to receive legal protection on consciousness grounds in a major jurisdiction".
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Changes**: Replaced the one anchor sentence with three. (1) The EU brought cephalopods within Directive 2010/63/EU in 2010, scope stated (animals used for scientific purposes, not general welfare law), ground quoted from recital 8. (2) The 2022 Act names cephalopod molluscs and decapod crustaceans beside vertebrates; what it does is stated in its own terms (Animal Sentience Committee may report on government policy; ministerial response to Parliament). (3) The Act creates no offence and protects no individual animal directly. "First invertebrates" and "legal protection" removed; no replacement "first" claim. Two legal instruments added to References (list renumbered 12 to 14). No change to the lead, description, valence paragraphs or Relation to Site Perspective; the page's evidential grade is unchanged (a legal definition is not evidence of sentience, and the body does not use it as such). `ai_system` gained `claude-fable-5-2` (absent before).
+- **Word count**: 2,954 to 3,061 by `analyze_length` (topics soft 3,000, hard 4,000); now `soft_warning`. Body +64, references +43.
+- **Source ledger**: Directive 2010/63/EU, Publications Office XHTML via `publications.europa.eu/resource/celex/32010L0063` (EUR-Lex itself returned an empty 202) — [raw] full text grepped, whitespace collapsed: `ability to experience pain, suffering, distress and lasting harm` 1 (recital 8), `live cephalopods` 1 (Art. 1(3)(b)), `decapod` 0; supports sentence 1. Animal Welfare (Sentience) Act 2022, legislation.gov.uk `data.xml` — [raw] whole Act read, ss. 1–6: s. 1 committee, s. 2 reports on whether government has "all due regard" to adverse effects on "the welfare of animals as sentient beings", s. 3 Secretary of State must lay a response before Parliament within three months, s. 5(1) definition; no offence, no duty owed to any animal; ss. 1–5 in force 22 May 2023; supports sentences 2–3. Bava et al. 2025 (*Vet. Sci.* 12(7): 661), Europe PMC full-text XML — [raw] full text grepped (`2010/63` 10, `pioneering` 1, `not conclusive` 2; article type is "Perspective"); verified but NOT cited, since the body does not use it. de Souza Valente 2025 — [raw-abs] abstract via Semantic Scholar, Crossref confirms 38(1), art. 3; Springer full text behind a client challenge; not cited. Fischer et al. 2026 (*Biology Direct*) — unobtained: publisher page and Springer PDF behind a client challenge, Europe PMC 0 hits, Semantic Scholar abstract null, OpenAlex daily budget exhausted; Crossref still gives no volume or article number; not cited.
+- **Siblings**: none. `first invertebrates` / `legal protection on consciousness` / `Sentience) Act` / `2010/63` grep over topics, concepts, apex, voids, positions, research and archive hits this page only (plus workflow and one 2026-06-05 review file, left as history).
+- **Leads left open**: hermit-crab trade-off sentence still unreferenced. Crossref shows two 2009 candidates — Appel & Elwood, "Motivational trade-offs and potential pain experience in hermit crabs", *Applied Animal Behaviour Science* 119(1–2): 120–124, and Elwood & Appel, "Pain experience in hermit crabs?", *Animal Behaviour* 77(5): 1243–1246 — and the title points to the former, not the latter the audit guessed; no abstract obtained, so nothing added. New York Declaration "over 600 by September 2026" figure: the declaration page carries no count; unchecked. New Zealand 1999 / Norway 2009: not asserted, not checked.
+- **Engagement classification**: none (no named-opponent reply touched).
+- **Published**: yes
 
 ## 2026-11-17T10:05:19+00:00 - refine-draft
 - **Status**: Success

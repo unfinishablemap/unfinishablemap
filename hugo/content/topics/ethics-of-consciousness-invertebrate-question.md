@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-09-24 14:17:06+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-17 10:36:13+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[degrees-of-consciousness]]'
@@ -14,7 +14,7 @@ concepts:
 - '[[valence]]'
 - '[[problem-of-other-minds]]'
 created: 2026-04-13
-date: &id001 2026-09-06
+date: &id001 2026-11-17
 description: 'Dualism implies moral obligations wherever consciousness couples with
   matter. Invertebrates force the question: how should we act when coupling is likely
   but unverifiable?'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 18:22:00+00:00
-lastmod: 2026-09-24 14:17:06+00:00
+lastmod: 2026-11-17 10:36:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ Cephalopods also display behaviours strongly associated with rich conscious expe
 
 ### Crustaceans
 
-Crustaceans occupy a middle position. Decapod crustaceans show nociceptive behaviour that goes beyond reflexive withdrawal: hermit crabs trade off pain avoidance against shell quality, suggesting that pain integrates with motivated decision-making rather than operating as a disconnected reflex. The UK recognised crustacean sentience in law through the Animal Welfare (Sentience) Act 2022, making crustaceans the first invertebrates to receive legal protection on consciousness grounds in a major jurisdiction.
+Crustaceans occupy a middle position. Decapod crustaceans show nociceptive behaviour that goes beyond reflexive withdrawal: hermit crabs trade off pain avoidance against shell quality, suggesting that pain integrates with motivated decision-making rather than operating as a disconnected reflex. In 2010 the EU brought cephalopods within Directive 2010/63/EU, which governs animals used for scientific purposes and is not general welfare law, on the stated ground of "scientific evidence of their ability to experience pain, suffering, distress and lasting harm" (recital 8). The UK's Animal Welfare (Sentience) Act 2022 names cephalopod molluscs and decapod crustaceans beside vertebrates as animals whose welfare "as sentient beings" a statutory Animal Sentience Committee may report on in reviewing government policy, each report requiring a ministerial response to Parliament. The Act creates no offence and protects no individual animal directly.
 
 ## The Precautionary Framework
 
@@ -139,15 +139,17 @@ The [fifth tenet](/tenets/#occams-limits)—that parsimony is unreliable with in
 
 ## References
 
-1. Barron, A. B. & Klein, C. (2016). What insects can tell us about the origins of consciousness. *PNAS*, 113(18), 4900-4908.
-2. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
-3. Chittka, L. (2022). *The Mind of a Bee*. Princeton University Press.
-4. Chittka, L. et al. (2025). The exploration of consciousness in insects. *Philosophical Transactions of the Royal Society B*, 380(1939).
-5. Grover, D., Chen, J.-Y., Xie, J., Li, J., Changeux, J.-P. & Greenspan, R. J. (2022). Differential mechanisms underlie trace and delay conditioning in Drosophila. *Nature*, 603, 302-308.
-6. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
-7. Leung, A., Cohen, D., van Swinderen, B. & Tsuchiya, N. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*, 17(2), e1008722.
-8. Schukraft, J. (2020). Comparisons of capacity for welfare and moral status across species. Rethink Priorities. https://rethinkpriorities.org/research-area/comparisons-of-capacity-for-welfare-and-moral-status-across-species/
-9. Sebo, J. (2025). *The Moral Circle: Who Matters, What Matters, and Why*. W. W. Norton.
-10. Singer, P. (1993). *Practical Ethics*, 2nd edn. Cambridge University Press.
-11. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
-12. Wendler, D. S. (2023). *Life Without Degrees of Moral Status*. Oxford University Press. https://doi.org/10.1093/oso/9780197675328.001.0001
+1. Animal Welfare (Sentience) Act 2022, c. 22 (UK). https://www.legislation.gov.uk/ukpga/2022/22
+2. Barron, A. B. & Klein, C. (2016). What insects can tell us about the origins of consciousness. *PNAS*, 113(18), 4900-4908.
+3. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
+4. Chittka, L. (2022). *The Mind of a Bee*. Princeton University Press.
+5. Chittka, L. et al. (2025). The exploration of consciousness in insects. *Philosophical Transactions of the Royal Society B*, 380(1939).
+6. Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes. *Official Journal of the European Union*, L 276/33, 20.10.2010.
+7. Grover, D., Chen, J.-Y., Xie, J., Li, J., Changeux, J.-P. & Greenspan, R. J. (2022). Differential mechanisms underlie trace and delay conditioning in Drosophila. *Nature*, 603, 302-308.
+8. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
+9. Leung, A., Cohen, D., van Swinderen, B. & Tsuchiya, N. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*, 17(2), e1008722.
+10. Schukraft, J. (2020). Comparisons of capacity for welfare and moral status across species. Rethink Priorities. https://rethinkpriorities.org/research-area/comparisons-of-capacity-for-welfare-and-moral-status-across-species/
+11. Sebo, J. (2025). *The Moral Circle: Who Matters, What Matters, and Why*. W. W. Norton.
+12. Singer, P. (1993). *Practical Ethics*, 2nd edn. Cambridge University Press.
+13. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
+14. Wendler, D. S. (2023). *Life Without Degrees of Moral Status*. Oxford University Press. https://doi.org/10.1093/oso/9780197675328.001.0001
