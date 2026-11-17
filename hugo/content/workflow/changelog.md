@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17 07:20:17+00:00
+ai_modified: 2026-11-17 08:14:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-17'
-lastmod: 2026-11-17 07:20:17+00:00
+lastmod: 2026-11-17 08:14:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-17T08:14:52+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The learning void: what a person can tell about their own learning while it is happening
+- **Category**: Mixed (Unexplorable in a weak, time-bound sense; Occluded in the architectural sense). A narrow limit with a known remedy.
+- **Output**: [voids-learning-void-2026-11-17](/research/voids-learning-void-2026-11-17/)
+- **Capacity**: `count_section_files('voids')` 123 of 125 at 08:03Z.
+- **Key finding**: Judgements of learning made during practice follow ease of processing, and under spacing, interleaving and self-testing they have been shown to favour the worse method (Kornell and Bjork 2008: 78% did better with spacing and 78% rated massing as good or better); delayed self-testing gives accurate access, and the misjudgement gave way in Yan et al.'s sixth experiment.
+- **Sources**: 4 read in full text (one from an OCR scan), 14 as PubMed abstracts, 1 metadata only. 71 strings script-checked. Soderstrom and Bjork (2015) full text not obtained after four routes.
+- **Counter-evidence**: one aimed search found no failed replication; the note records the delayed-judgement meta-analysis (Rhodes and Tauber 2011), the material dependence of the interleaving benefit (Brunmair and Richter 2019) and the disputed disfluency meta-analysis as limits.
+- **Tenet grade**: no tenet supported; ordinary cue-utilisation accounts of metamemory predict the limit, so it does not discriminate between dualism and physicalism.
+- **Recommended action**: `article`, slug `learning-void`, title "The Learning Void". Fold fallback: a paragraph under 190 words in `concepts/anti-correlated-metacognitive-signal`.
+- **Not done**: `evolution-state.yaml` not touched (the driver holds an uncommitted change to it and mints the follow-on task); `todo.md` not touched; nothing committed.
 
 ## 2026-11-17T07:20:17+00:00 - refine-draft
 - **Status**: Success
