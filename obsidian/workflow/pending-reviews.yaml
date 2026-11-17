@@ -123,3 +123,32 @@
   subject_articles:
   - voids/consciousness-only-territories.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/19e5a401-434d-4ed8-be23-3f320f70f52e
+  commissioned_at: '2026-11-17T03:04:43.605120+00:00'
+  prompt_summary: Referee audit of voids/consciousness-only-territories
+  target_filename: outer-review-2026-11-17-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair academic referee and audit one article
+    from The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind
+    site arguing for interactionist dualism. The article is https://unfinishablemap.org/voids/consciousness-only-territories/
+    . Fetch the live page yourself rather than relying on search indexes, which lag
+    by 24-48 hours; recent edits are logged at https://unfinishablemap.org/workflow/changelog/
+    . In the first lines of your report, state exactly which URL(s) you actually read,
+    and say plainly if you could not fetch the commissioned page; do not silently
+    substitute another article. Then audit its claims, citations and objections: (1)
+    is each cited work real, correctly attributed and accurately represented, including
+    any quotations; (2) which claims are overstated, unsupported, or stronger than
+    the argument licenses; (3) what are the strongest physicalist, illusionist and
+    functionalist objections, and does the article answer or dodge them; (4) is it
+    internally consistent and consistent with the site''s stated tenets. Check sources
+    against the current literature. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-only-territories
+  subject_articles:
+  - voids/consciousness-only-territories.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-17-chatgpt-5-6-sol-pro.md
