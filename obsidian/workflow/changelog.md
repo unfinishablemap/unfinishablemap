@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T04:38:15+00:00
+ai_modified: 2026-11-17T04:54:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T04:54:12+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-11-17-gemini-3-1-pro]]
+- **Subject**: `voids/consciousness-only-territories` (reuse of the ChatGPT subject). The reviewer says it examined the live page; its source panel lists the page only under "read but not used", and every quotation it attributes to the page is marked to a neighbouring page or to the Map's own 2026-09-24 pessimistic review
+- **Claims verified**: 18 quoted strings grepped against the page (17 absent, 1 present only as the page's quotation of Barrett and Stout); 10 cited works checked at Crossref (7 sound, Frankish citation wrong venue and year, Kammerer dropped as first author, Balog chapter exists but fit unchecked)
+- **High-value findings**: 0 new. The headline finding (a fabricated Barrett and Stout citation) is stale and wrong: the paper exists, the quotation was repaired in `1e1e6764fd`, and the sentence the reviewer quotes was never on the page. 4 admissible points, all already queued by the ChatGPT and Claude reviews
+- **Tasks generated**: 0; 3 existing tasks annotated with one line each (P2 illusionism, P1 Conee, P2 grounding); no duplicates
+- **Article edits**: none in this run
 
 ## 2026-11-17T04:38:15+00:00 - outer-review
 - **Status**: Success

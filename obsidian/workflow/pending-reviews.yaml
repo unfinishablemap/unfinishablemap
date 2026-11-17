@@ -157,9 +157,9 @@
   commissioned_at: '2026-11-17T04:05:14.325415+00:00'
   prompt_summary: Hostile-referee audit of voids/consciousness-only-territories
   target_filename: outer-review-2026-11-17-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-17T04:51:37.220417+00:00'
   failure_reason: null
   prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
     \ journal. Audit one article: read the live page https://unfinishablemap.org/voids/consciousness-only-territories/\
