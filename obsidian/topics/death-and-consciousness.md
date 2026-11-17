@@ -2,9 +2,9 @@
 title: "Death and Consciousness"
 description: "Does consciousness survive bodily death? Dualism keeps the question open where materialism forecloses it. Dying phenomenology challenges brain-production models."
 created: 2026-01-14
-modified: 2026-03-11
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-10-05T23:59:45+00:00
+ai_modified: 2026-11-17T00:50:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[project/evidential-status-discipline]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-30T07:38:23+00:00
@@ -92,7 +92,7 @@ This sharpens the Map's rejection of Parfit. The extended self isn't a pattern t
 
 ### Near-Death Experiences
 
-[[near-death-experiences|Near-death experiences]] (NDEs) feature out-of-body perception, life review, and profound mental clarity during brain compromise. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reported NDEs; Parnia's AWARE studies (2014; 2023) found suggestive evidence of conscious awareness during arrest, with AWARE II reporting that around 40% of interviewed survivors recalled some perception of consciousness and roughly 20% described features consistent with a "recalled experience of death." Xu et al. (2023) recorded surges of gamma-band connectivity in four comatose patients during withdrawal of ventilatory support—heightened neural coupling in regions associated with conscious processing, though these patients did not survive to report any experience, so the surge is a neural signal rather than confirmed phenomenology. The strongest deflationary reading of the surge treats it as an artifact of terminal hypoxia—failing Na+/K+ pumps and anoxic depolarization transiently generating high-frequency activity before isoelectric silence, the anoxic relative of the terminal spreading depolarizations recorded in dying human cortex (Dreier et al. 2018)—though the surge's organized cross-frequency coupling and connectivity structure keeps a rival reading live. Materialist explanations exist but none fully accounts for why failing neural function sometimes coincides with reports of *heightened* consciousness. See [[near-death-experiences]] for detailed treatment, including what would discriminate between the artifact and filter readings.
+[[near-death-experiences|Near-death experiences]] (NDEs) feature out-of-body perception, life review, and profound mental clarity during brain compromise. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reported NDEs; Parnia's AWARE studies (2014; 2023) found suggestive evidence of conscious awareness during arrest, with AWARE II reporting that around 40% of interviewed survivors recalled some perception of consciousness and roughly 20% described features consistent with a "recalled experience of death." Xu et al. (2023) recorded surges of gamma-band connectivity in two of four comatose patients during withdrawal of ventilatory support—heightened neural coupling in regions associated with conscious processing, though these patients did not survive to report any experience, so the surge is a neural signal rather than confirmed phenomenology. The authors attribute the surge to global hypoxia; the strongest deflationary reading treats it as an artifact of terminal hypoxia—failing Na+/K+ pumps and anoxic depolarization transiently generating high-frequency activity before isoelectric silence, the anoxic relative of the terminal spreading depolarizations recorded in dying human cortex (Dreier et al. 2018)—though the surge's organized cross-frequency coupling and connectivity structure keeps a rival reading live. Materialist explanations exist but none fully accounts for why failing neural function sometimes coincides with reports of *heightened* consciousness. See [[near-death-experiences]] for detailed treatment, including what would discriminate between the artifact and filter readings.
 
 ### Deathbed Visions
 
