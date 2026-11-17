@@ -5,6 +5,16 @@ ai_modified: 2026-11-17T08:23:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-17T09:06:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/altered-states-as-interface-evidence]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted repair from the apex-evolve 2026-11-17 follow-up task)
+- **Word count**: 4967 → 4959 by `analyze_length` (apex hard gate 5000)
+- **Changes**: Lucidity window brought to the current grade of its three source pages (`topics/terminal-lucidity-and-filter-transmission-theory`, `topics/consciousness-under-extreme-metabolic-constraint`, `topics/consciousness-and-neurodegenerative-disease`). Heading "Terminal Lucidity: The Interface Near Collapse" retitled "Paradoxical and Terminal Lucidity: The Damaged Interface"; paradoxical (any stage) and terminal (end of life) lucidity kept apart; "often shortly before death" removed; near-death timing attributed to the classic case reports, the more-than-six-months figure (48.0%) to the Griffin et al. 2024 survey of 151 bereaved caregivers from an advocacy group (up to two most memorable episodes; about three-quarters under half an hour; "was not designed to estimate the prevalence"; does not show far-from-death episodes match deathbed cases in depth); stated that the dying-disrupts-constraint account covers only episodes close to death and that neither it nor a production account appealing to the physiology of dying explains the rest. Lead, description, matrix column header and the Evidence-and-Dependency sentence no longer name the window "terminal lucidity". Gamma-surge sentence: added the authors' "does not demonstrate" beside the existing two-of-four, hypoxia and seizure-history caveats. No Griffin reference line added (could not be paid for; the section links the source page, which carries it). Paid by trimming restatement and signposting: continental-drift aside, matrix intro and "Three patterns emerge", tenet-section intro sentence, "Its place in the catalogue…" (kept as an inline "costliest anomaly" clause), "No single component tracks all others", the Löwe parenthetical in What the Pattern Reveals (limit still stated at the hypnagogia window and in Evidence and Dependency), "the lesion study…" tail, and several sentence openers. `apex_last_synthesis` not advanced: this was a three-page repair, not a resynthesis against all eleven sources.
+- **Engagement classification**: none changed (no named-opponent reply edited).
+- **Symmetry scanner**: `evaluate_symmetry` returns None.
+- **Published**: yes
+
 ## 2026-11-17T08:23:45+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/taxonomy-of-voids]]
