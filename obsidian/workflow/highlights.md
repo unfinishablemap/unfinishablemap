@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-17T08:33:36.882873'
+ai_modified: '2026-11-17T08:33:36+00:00'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 A survivor usually believes a death soon and absorbs it slowly; later the grief fades while the loss stays the same. A new void maps both limits through Fuchs, Marušić and Moller, and what bounds each. It offers no evidence for dualism or for survival.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2122609176215970144  
 **Link**: [[bereavement-void]]
 
 ---
