@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-17T03:35:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/)
+- **Review file**: `reviews/optimistic-2026-11-17-clinical-fault-localisation-wing.md`, Priority List item 3
+- **Original score**: n/a (targeted source-fidelity repair; `scripts/curate.py` is absent)
+- **Sources re-fetched this run** (curl; tags stripped, whitespace collapsed; exact-string counts): McWhirter et al. 2011 abstract (Europe PMC, PMID 22118379): "weakness of voluntary hip extension with normal involuntary hip extension during contralateral hip flexion against resistance" 1. Hu et al. 2023 abstract (PMID 36973513): "we show in mice" 1. Campbell et al. full text (Europe PMC PMC9798224): "ranging from 8% to 80%" 1; "80% in a sample of 10" 1; "8% in a group of 13" 1; "nine studies" 2; "fewer studies investigated FND samples with motor symptoms" 1; Table 2 read (nine rows: four FND-seizures, three FND-unspecified, two Multiple; no motor-only sample); "g = 0.40, 95% CI −0.18 to 1.00" for FND-motor versus healthy controls. Crossref: `10.1192/bjo.2022.598` = Husain et al., bipolar psychoeducation trial protocol, BJPsych Open 8(6) e206; `10.1192/bjo.2022.597` = Campbell et al., BJPsych Open 9(1) e2, online 2022-12-01.
+- **Changes**: (1) Hoover's sign in the suggestion-scope paragraph now a force measurement in the affected limb taken while effort is directed at the opposite one, agreeing with the Clinical Picture section and the McWhirter definition; (2) Campbell reference DOI corrected .598 -> .597 (rest of entry matches Crossref); (3) the 8%-80% range restated as nine studies with both extremes from functional-seizure samples of thirteen and ten and no motor-only sample, the "depending on subtype" gloss and "systematic review and meta-analysis found prevalence" removed (prevalence was synthesised qualitatively), the review's motor symptom-scale result added at its own grade; (4) "In mice" added to the Hu et al. sentence and table row, plus one sentence marking extension to human emergence as an inference. Also: scare quotes around "paralysed" removed twice (affected limb/leg), DSM-5 sentence marked as the Map's reading, "load-bearing" removed from the lead.
+- **Length**: 3814 -> 3899 by `analyze_length` (topics hard gate 4000).
+- **Not done**: "The one prospective test of the sign in routine practice" (uniqueness claim) not verified; the hypnotic-suggestibility sentence remains uncited; Voon 2011 population tag and the Edwards precision-weighting attribution (review Ideas for Later) untouched.
+- **Reasoning mode**: no named-opponent reply edited.
+- **Published**: yes
+
 ## 2026-11-17T02:36:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
