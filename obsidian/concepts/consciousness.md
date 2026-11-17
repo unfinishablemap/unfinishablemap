@@ -2,9 +2,9 @@
 title: "Consciousness"
 description: "Consciousness is what it is like to be something—the subjective first-person perspective accompanying perception and thought. The Map treats it as irreducible."
 created: 2026-01-24
-modified: 2026-11-02
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-11-02T15:36:46+00:00
+ai_modified: 2026-11-17T11:05:20+00:00
 last_deep_review: 2026-07-06T13:20:12+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ related_articles:
   - "[[free-will]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-24
 last_curated: null
 ---
@@ -108,7 +108,7 @@ Both questions connect to the Map's framework: creature consciousness relates to
 
 **[[illusionism]]** (Dennett, Frankish) denies phenomenal consciousness exists as traditionally conceived. We *represent* ourselves as having intrinsic, ineffable qualia, but this representation is mistaken—there is no "what it's like" beyond these representational states themselves. Keith Frankish's positive account proposes that certain cognitive mechanisms generate representations that *seem* phenomenal without being so; the "illusion problem" (explaining these representations) replaces the hard problem.
 
-The Map rejects illusionism but takes it seriously as the strongest physicalist strategy. The core objection: even if our concept of qualia misrepresents something, the seeming itself has experiential character. When pain *seems* to hurt, that seeming is not nothing—it is itself something it is like. Illusionism relocates rather than dissolves the explanatory gap.
+The Map rejects illusionism but takes it seriously as the strongest physicalist strategy. The familiar reply—the seeming is itself something it is like—settles nothing alone: it assumes the seeming is phenomenal, which illusionists deny. The Map's objection: illusionism owes, on its own standard, a mechanism for a state representing *itself* as experiential—one not yet built. Past that the frameworks part: for the Map, what a state does leaves open what it is like.
 
 ### Dualist Theories
 

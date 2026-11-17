@@ -2,9 +2,9 @@
 title: "Materialism"
 description: "Why physicalism fails to explain consciousness. The explanatory gap, knowledge argument, and zombie conceivability reveal irreducible phenomenal properties."
 created: 2026-01-14
-modified: 2026-10-29
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-10-29T00:36:47+00:00
+ai_modified: 2026-11-17T11:05:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[arguments/materialism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-10T19:37:59+00:00
@@ -76,7 +76,7 @@ See [[eliminative-materialism]] for detailed treatment of both strands and the M
 
 [[illusionism|Illusionism]] holds that consciousness exists but not as we conceive it. Dennett and Frankish argue we have a systematic illusion of rich [[qualia|qualitative experience]]—what exists is just information processing that represents itself as having qualitative properties.
 
-The problem: illusionism trades the hard problem for the "illusion problem"—explaining why we so powerfully believe we're phenomenally conscious when we're not. All illusions presuppose experience; being under an illusion about qualia still involves *something it is like* to have that illusion. The problem reappears at each level of analysis. Moreover, illusionism [[illusionism#Structural Convergence with Epiphenomenalism|converges structurally with epiphenomenalism]]—both render phenomenal properties causally idle, inheriting the same self-stultification problem.
+The problem: illusionism trades the hard problem for the "illusion problem"—explaining why we so powerfully believe we're phenomenally conscious when we're not. The familiar reply—all illusions presuppose experience—proves nothing alone: it assumes the seeming is phenomenal, which illusionists deny. The Map presses a debt on illusionism's own standard—a mechanism for a state representing *itself* as experiential, not yet built. Moreover, illusionism [[illusionism#Structural Convergence with Epiphenomenalism|converges structurally with epiphenomenalism]]—both, granting the phenomenal realism Frankish denies, render phenomenal properties causally idle and inherit the same self-stultification problem; there the frameworks part.
 
 See [[illusionism]] for detailed treatment.
 

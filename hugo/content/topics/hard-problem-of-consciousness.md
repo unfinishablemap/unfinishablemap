@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-10-15 02:49:38+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-17 11:05:20+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -49,7 +49,7 @@ concepts:
 - '[[meta-problem-of-consciousness]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-01-06
-date: &id001 2026-09-29
+date: &id001 2026-11-17
 description: Why is there something it is like to be conscious? Physical descriptions,
   however complete, leave experience unexplained. This is the hard problem.
 draft: false
@@ -61,7 +61,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 10:10:49+00:00
-lastmod: 2026-10-15 02:49:38+00:00
+lastmod: 2026-11-17 11:05:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -174,7 +174,7 @@ Research on [neural correlates of consciousness (NCC)](/concepts/neural-correlat
 
 **Eliminativism** (Churchland) argues not that we lack brain states, but that "phenomenal consciousness" *misdescribes* them—our folk-psychological concept of experience is confused, much as "phlogiston" misdescribed combustion. The challenge: the analogy is asymmetric. Phlogiston was inferred from observable behaviour, while experience is what observation itself is *like*. The eliminativist must use experiential concepts to argue those concepts are empty—a potentially self-undermining move, though eliminativists dispute this characterisation.
 
-**[Illusionism](/concepts/illusionism/)** (Frankish, Dennett) claims phenomenal consciousness is a "user illusion"—the brain represents itself as having rich qualitative states that don't exist as such. This trades the hard problem for an illusion problem: explaining why the brain generates this meta-representation requires accounting for the *seeming*, and seeming is itself experiential. The [metaproblem of consciousness](/concepts/meta-problem-of-consciousness/) sharpens this critique: illusionism must explain why problem intuitions precisely track the explanatory gap—an escalating burden that [interactionism escapes](/topics/metaproblem-of-consciousness-under-dualism/), since consciousness causally informs the very reasoning that generates those intuitions.
+**[Illusionism](/concepts/illusionism/)** (Frankish, Dennett) claims phenomenal consciousness is a "user illusion"—the brain represents itself as having rich qualitative states that don't exist as such. This trades the hard problem for an illusion problem: explaining why the brain generates this meta-representation requires accounting for the *seeming*. Illusionists deny the seeming is experiential, so insisting it is proves nothing alone; on its own standard illusionism owes a mechanism not yet built, and past that debt the Map rejects it at a boundary between frameworks. The [metaproblem of consciousness](/concepts/meta-problem-of-consciousness/) sharpens this critique: illusionism must explain why problem intuitions precisely track the explanatory gap—an escalating burden that [interactionism escapes](/topics/metaproblem-of-consciousness-under-dualism/), since consciousness causally informs the very reasoning that generates those intuitions.
 
 **The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)** (Loar 1990, Papineau 2002, Balog) is arguably the strongest physicalist response. Consciousness *is* brain activity, but we possess distinctive recognitional concepts for experience that make true psychophysical identities *feel* contingent—generating an *appearance* of an explanatory gap where none exists in nature. Papineau (2002) argues these concepts are demonstrative—"that type of experience"—and their special character derives from referential directness, not from irreducible phenomenal properties. The dualist rejoinder: the demonstrative "that" must pick out its referent somehow, and if what it picks out *is* a phenomenal property, the explanation presupposes what it seeks to reduce. No account of how phenomenal concepts acquire their distinctive character avoids implicitly appealing to phenomenal experience. The full critical case — including Chalmers's Horn 1/Horn 2 dilemma and Fürst's reversal — is developed on that page.
 
