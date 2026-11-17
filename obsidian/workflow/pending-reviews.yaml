@@ -94,3 +94,32 @@
   subject_articles:
   - topics/consciousness-evolution-and-biology.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-16-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6afbb98b-f280-83ed-8748-bba2cbe9365f
+  commissioned_at: '2026-11-17T02:19:50.081773+00:00'
+  prompt_summary: Audit voids/consciousness-only-territories (claims, citations, objections)
+  target_filename: outer-review-2026-11-17-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please carry out a critical outer review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy-of-mind site developed with AI
+    assistance around five dualist tenets. The article is https://unfinishablemap.org/voids/consciousness-only-territories/,
+    last substantively modified on 2026-11-10. Use web search to read the live page
+    and the pages it links to, and consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent activity, since search indexes lag by a day or two. Audit its claims,
+    its citations (do the cited works exist, say what is attributed to them, and are
+    quotations accurate?), its coverage of counterarguments, and its integration with
+    surrounding articles. Look in particular for insufficient evidence, missed or
+    weakly stated objections from the physicalist and illusionist literature, tenet-protective
+    bracketing where a commitment of the site is shielded from scrutiny, overconfident
+    wording, and stale or superseded references. Say where the post-modification claims
+    hold up and where they do not, and be specific about passages. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site's methodology.
+  subject_type: recent
+  subject_title: Audit consciousness-only-territories
+  subject_articles:
+  - voids/consciousness-only-territories.md
+  subject_source: fallback:recent-aged
