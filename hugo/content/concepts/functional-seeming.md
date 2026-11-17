@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-11-17 12:00:58+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-11-17 12:21:57+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[illusionism]]'
@@ -13,7 +13,7 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[introspection]]'
 created: 2026-04-12
-date: &id001 2026-09-27
+date: &id001 2026-11-17
 description: 'Keith Frankish''s claim that ''seeming conscious'' reduces to functional
   dispositions rather than phenomenal experience: illusionism''s central defence,
   and why the Map rejects it.'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 00:58:00+00:00
-lastmod: 2026-11-17 12:00:58+00:00
+lastmod: 2026-11-17 12:21:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,7 +36,7 @@ topics:
 
 Functional seeming is Keith Frankish's proposal that when we say consciousness "seems" phenomenal, the seeming itself is entirely functional—a matter of having the right beliefs, dispositions, and reactions—rather than involving any phenomenal experience. This is the central defensive move of [illusionism](/concepts/illusionism/): it answers the regress objection by denying that an illusion of consciousness requires consciousness.
 
-The Unfinishable Map rejects functional seeming because, on its view, the move conflates what experience *does* with what experience *is*. If functional roles exhausted the content of seeming, a [philosophical zombie](/concepts/philosophical-zombies/) would "seem conscious" in every sense that matters—and the distinction between genuine experience and its absence would collapse into meaninglessness.
+The Unfinishable Map rejects functional seeming because, on its view, the move conflates what experience *does* with what experience *is*. If functional roles exhausted the content of seeming, a [philosophical zombie](/concepts/philosophical-zombies/) would "seem conscious" in every sense that matters—and the distinction between genuine experience and its absence would mark nothing.
 
 ## The Regress Problem Functional Seeming Addresses
 
@@ -46,11 +46,11 @@ Frankish's response targets the word "experience." The regress assumes that seem
 
 ## Quasi-Phenomenal Properties
 
-Frankish introduces **quasi-phenomenal properties** (Frankish 2016) as the positive account of what introspection actually detects. These are non-phenomenal, physical properties of internal states that introspection systematically misrepresents as phenomenal. The "redness" one seems to experience is, on Frankish's view, a complex functional-discriminative state—like a computer desktop icon that usefully misrepresents the binary processes underneath.
+Frankish introduces **quasi-phenomenal properties** (Frankish 2016) as the positive account of what introspection actually detects. These are non-phenomenal, physical properties of internal states that introspection typically misrepresents as phenomenal. The "redness" one seems to experience is, on Frankish's view, a complex functional-discriminative state—like a computer desktop icon that usefully misrepresents the binary processes underneath.
 
-Frankish develops this through the **distortion thesis**: introspective *access* to mental states is real, but introspective *interpretation* is systematically flawed. The conceptual framework we apply to our own states—a folk theory positing intrinsic phenomenal qualities—generates the illusion. The error is theoretical, not experiential. Pereboom offers a parallel "qualitative inaccuracy hypothesis" (introduced in Pereboom 2011 and brought to bear on Frankish's illusionism in Pereboom 2016), on which a perception-like introspective system universally misrepresents its targets as bearing qualitative natures, much as perception misrepresents external objects as bearing [secondary qualities](/topics/primary-secondary-quality-boundary/).
+Gorbachev and Frankish (2025) name the governing claim the **distortion thesis**, leaving the distortion's exact nature open. On one reading introspective *access* is real but introspective *interpretation* is flawed: a folk theory positing intrinsic phenomenal qualities generates the illusion; the error is theoretical, not experiential. Pereboom offers a parallel "qualitative inaccuracy hypothesis" (introduced in Pereboom 2011 and brought to bear on Frankish's illusionism in Pereboom 2016), on which a perception-like introspective system universally misrepresents its targets as bearing qualitative natures, much as perception misrepresents external objects as bearing [secondary qualities](/topics/primary-secondary-quality-boundary/).
 
-This distinction between access and interpretation is crucial to the illusionist programme. It allows Frankish to grant that something real is being introspected while denying that the introspected properties are as they appear. The analogy is to pre-scientific explanations: phlogiston theorists genuinely observed combustion but applied a mistaken framework to explain it. Shabasson (2022) develops a "false inference" version of this story, proposing that introspective opacity—our inability to discern the inferential structure behind introspective judgements—explains why we are powerfully disposed to judge ourselves phenomenally conscious. Kammerer (2022) addresses the related "obviousness" objection—why phenomenal consciousness seems so undeniable—arguing that the Moorean appeal to its obviousness begs the question against illusionism rather than refuting it.
+The distinction lets an illusionist grant that something real is introspected while denying its properties are as they appear. The analogy is to pre-scientific explanations: phlogiston theorists genuinely observed combustion but applied a mistaken framework to explain it. Shabasson (2022) develops a "false inference" version of this story, proposing that introspective opacity—our inability to discern the inferential structure behind introspective judgements—explains why we are powerfully disposed to judge ourselves phenomenally conscious. Kammerer (2022) addresses the related "obviousness" objection—why phenomenal consciousness seems so undeniable—arguing that the Moorean appeal to its obviousness begs the question against illusionism rather than refuting it.
 
 ## The Qualia Taxonomy
 
@@ -72,17 +72,17 @@ Anti-illusionists read this as a *reductio*: a theory of consciousness that cann
 
 ## The Vantage-Point Problem
 
-The distortion thesis analogises introspective error to pre-scientific theoretical error. But the analogy breaks at a critical point. Combustion scientists had independent evidence—oxygen experiments—to reveal phlogiston theory as mistaken. The distortion could be identified because there was a vantage point outside the flawed framework.
+The access/interpretation reading analogises introspective error to pre-scientific theoretical error. But the analogy breaks at a critical point. Combustion scientists had independent evidence—oxygen experiments—to reveal phlogiston theory as mistaken. The distortion could be identified because there was a vantage point outside the flawed framework.
 
 For consciousness, no such external vantage point exists. The seeming itself is all the evidence available. Frankish must argue that the functional account *is* the external vantage point—that third-person neuroscience reveals what first-person introspection misrepresents. But whether neuroscience describes the same phenomenon introspection accesses, or merely its physical correlates, is precisely what is at issue. The appeal to neuroscience as corrective assumes the illusionist conclusion rather than establishing it.
 
 ## The Self-Representation Difficulty
 
-The distortion thesis works naturally for external objects: introspection might mischaracterise a brain state the way folk physics mischaracterises motion. But "I am phenomenally conscious" targets the representing state itself.
+The access/interpretation reading works naturally for external objects: introspection might mischaracterise a brain state the way folk physics mischaracterises motion. But "I am phenomenally conscious" targets the representing state itself.
 
 Frankish's framework requires a gap between a state's self-representation and its actual nature—the state represents itself as experiential but isn't. For externally directed representation, this gap is unproblematic. For self-directed representation, it closes. The state representing itself as experiential *is* the candidate for being experiential. Unlike combustion—which is indifferent to being called "phlogiston"—a mental state that represents itself as phenomenal is not clearly separable from a state that *is* phenomenal.
 
-This is not the bare regress objection, which Frankish's functional account does address. It is a deeper problem about self-representation specifically: whether the access/interpretation distinction survives when the accessed state and the interpreting state are one and the same.
+Unlike the bare regress objection, which Frankish's functional account does address, this is a deeper problem about self-representation specifically: whether the access/interpretation distinction survives when the accessed state and the interpreting state are one and the same.
 
 ## The Epistemic-Seeming Mirror
 
@@ -123,4 +123,5 @@ The Map treats functional seeming as the strongest version of illusionism and en
 7. Frankish, K. (2012). "Quining Diet Qualia." *Consciousness and Cognition*, 21(2), 667-676. https://doi.org/10.1016/j.concog.2011.04.001
 8. Huemer, M. (2001). *Skepticism and the Veil of Perception*. Rowman & Littlefield.
 9. Pereboom, D. (2011). *Consciousness and the Prospects of Physicalism*. Oxford University Press.
-10. Southgate, A., Oquatre-six, C., & Ocinq-cinq, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+10. Gorbachev, M. & Frankish, K. (2025). "Illusionism and the distortion thesis." *Synthese*, 205(6), 247.
+11. Southgate, A., Oquatre-six, C., & Ocinq-cinq, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-08 12:09:47+00:00
-ai_system: claude-sonnet-4-5-20250929+claude-opus-5
+ai_modified: 2026-11-17 12:21:57+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5+claude-fable-5-2
 author: null
 concepts:
 - '[[access-consciousness]]'
@@ -23,14 +23,14 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[structure-of-attention]]'
 created: 2026-01-22
-date: &id001 2026-01-25
+date: &id001 2026-11-17
 description: What it is like to be in a mental state—the subjective quality of experience.
   The hard problem's core and the primary reason for rejecting materialism.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 09:19:00+00:00
-lastmod: 2026-08-08 12:09:47+00:00
+lastmod: 2026-11-17 12:21:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +96,7 @@ Chalmers presents a dilemma. Let C be the special features of phenomenal concept
 
 ## Illusionism: Denying P-Consciousness {#illusionism}
 
-[illusionism](/concepts/illusionism/) (Dennett, Frankish) holds that we merely *represent* ourselves as having irreducible experiential qualities. Frankish restricts the denial to phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties—not consciousness in every functional sense; the position runs from a hard end at which phenomenal properties simply do not exist to a subtle end at which the brain models something real but schematically. The "illusion problem" (why we represent ourselves as having qualia) replaces the hard problem.
+[illusionism](/concepts/illusionism/) (Dennett, Frankish) holds that we merely *represent* ourselves as having irreducible experiential qualities. Frankish restricts the denial to phenomenal consciousness *as traditionally conceived*—experience bearing qualitative, what-it-is-like properties—not consciousness in every functional sense; the position runs from a hard end at which phenomenal properties simply do not exist to a subtle end at which the brain models something real but schematically. The "illusion problem" (why we represent ourselves as having qualia) replaces the hard problem.
 
 The obvious reply is a regress: if it *seems* you have qualia, something must be doing the seeming. Taken bare it proves nothing, and the Map does not run it as though it did—it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. The pressure is rather that relocating the question gains only if "why does damage *seem* to hurt?" is tractable where "why does damage hurt?" was not, which is asserted rather than shown. That [pain *hurts*](/topics/pain-consciousness-and-causal-power/) is the datum any such account still owes an explanation of.
 

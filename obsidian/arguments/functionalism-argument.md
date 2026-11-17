@@ -1,9 +1,9 @@
 ---
 title: "Against Functionalism"
 created: 2026-01-15
-modified: 2026-11-02
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-11-02T14:36:07+00:00
+ai_modified: 2026-11-17T12:21:57+00:00
 draft: false
 description: "A cumulative case against functionalism—absent qualia, inverted qualia, the Chinese Room, the explanatory gap—with their shared dependencies stated openly."
 topics:
@@ -30,7 +30,7 @@ related_articles:
   - "[[arguments/epiphenomenalism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-11-02T14:36:07+00:00
@@ -166,7 +166,7 @@ The water analogy is the weaker objection to Premise 3. The stronger one, and th
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] offer the most radical response. Keith Frankish's version is careful about scope: it denies phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties—while granting everything functional. The position is a spectrum. At the hard end phenomenal properties have no referent at all; at what Graziano (2024) calls the subtle end the brain models something real but schematically, so what introspection presents diverges from what is there. His [[attention-schema-theory|attention schema theory]] is the developed implementation, and he prefers "caricature" to "illusion" because a caricature implies something real simplified. Objections calibrated against the hard end do not automatically reach the subtle end.
+[[illusionism|Illusionists]] offer the most radical response. Keith Frankish's version is careful about scope: it denies phenomenal consciousness *as traditionally conceived*—experience bearing qualitative, what-it-is-like properties—while granting everything functional. The position is a spectrum. At the hard end phenomenal properties have no referent at all; at what Graziano (2024) calls the subtle end the brain models something real but schematically, so what introspection presents diverges from what is there. His [[attention-schema-theory|attention schema theory]] is the developed implementation, and he prefers "caricature" to "illusion" because a caricature implies something real simplified. Objections calibrated against the hard end do not automatically reach the subtle end.
 
 Stated at the hard end, the charge is that the arguments above attack a phantom: absent qualia assumes qualia exist to be absent, inverted qualia that they have determinate character to be inverted. Stated at the subtle end it is weaker and harder to answer—the arguments are not aimed at nothing, but take a schematic self-model for an intrinsic property. It is the second charge the Map must meet.
 
@@ -174,7 +174,7 @@ Stated at the hard end, the charge is that the arguments above attack a phantom:
 
 The obvious reply is a regress: if the *appearance* of phenomenal consciousness is an illusion, something must experience the illusion. Taken bare it proves nothing, and the Map does not run it as though it did—it assumes the seeming is itself phenomenal, exactly what illusionists deny, and a representational system need not instantiate what it represents, as a map represents terrain without being mountainous. Raymond Tallis puts the intuition sharply in "The Illusion of Illusionism" (2024): all illusions presuppose experience, and if matter cannot generate phenomenal consciousness, it is even less likely to be able to generate the *illusion* of it. That states what the illusionist owes; it does not refute him.
 
-One horn of the dilemma survives. Either the seeming involves phenomenal properties—which illusionists reject, consistently with everything else they hold—or it involves none, in which case an account of non-phenomenal seeming is owed. That second horn shifts a burden rather than closing a case, and what it demands is the meta-representational machinery: how a self-monitoring system generates the impression of a unified qualitative field, presented to a single subject with felt character, without any of the representing being phenomenal. Frankish sets that target himself.
+One horn of the dilemma survives. Either the seeming involves phenomenal properties—which illusionists reject, consistently with everything else they hold—or it involves none, in which case an account of non-phenomenal seeming is owed. That second horn shifts a burden rather than closing a case, and what it demands is the meta-representational machinery: how a self-monitoring system generates the impression of a unified qualitative field, presented to a single subject with felt character, without any of the representing being phenomenal—Frankish's illusion problem, in the Map's words.
 
 The Map's judgement is that the bridge is unbuilt where the represented and the representing coincide. "I am phenomenally conscious" targets the representing state itself, and that state is the very candidate for being experiential—unlike combustion, indifferent to being called phlogiston. And relocating "why does damage hurt?" to "why does damage *seem* to hurt?" gains only if the second is tractable where the first was not, which is asserted rather than shown. The debt is outstanding, not unpayable. [[introspection|Introspective access to phenomenal content]] and [[witness-consciousness|contemplative phenomenology]] add pressure—though the illusionist replies that trained introspection refines a self-model, which returns the dispute to the bridge. [[illusionism]] and [[functional-seeming]] develop the case.
 

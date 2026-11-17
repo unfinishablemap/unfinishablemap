@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-15 12:34:18+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_modified: 2026-11-17 12:21:57+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/mysterianism-cognitive-closure/
@@ -27,14 +27,14 @@ concepts:
 - '[[inventory-blindness]]'
 - '[[epistemology-of-limit-knowledge]]'
 created: 2026-01-15
-date: &id001 2026-04-28
+date: &id001 2026-11-17
 description: 'McGinn''s cognitive closure thesis: human minds may be constitutionally
   unable to solve the mind-body problem, as the electron lies beyond a monkey''s grasp.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 12:15:12+00:00
-lastmod: 2026-10-15 12:34:18+00:00
+lastmod: 2026-11-17 12:21:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -152,9 +152,9 @@ From our current perspective, both look identical—we cannot know which problem
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) offers a radical alternative, though it is a spectrum rather than a single position. Graziano (2024) frames it as "a general philosophical framework in which specific theories of consciousness can be constructed": at the hard end, the category of phenomenal consciousness is empty; at the subtle end, the brain models something real but models it schematically, so what introspection presents diverges from what is there. Frankish (2016) restricts the denial to phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties—while still granting that we discriminate, react, and report. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve."
+[Illusionism](/concepts/illusionism/) offers a radical alternative, though it is a spectrum rather than a single position. Graziano (2024) frames it as "a general philosophical framework in which specific theories of consciousness can be constructed": at the hard end, the category of phenomenal consciousness is empty; at the subtle end, the brain models something real but models it schematically, so what introspection presents diverges from what is there. Frankish (2016) restricts the denial to phenomenal consciousness *as traditionally conceived*—experience bearing qualitative, what-it-is-like properties—while still granting that we discriminate, react, and report. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve."
 
-The mysterian counter-argument: illusionism faces infinite regress—to be under an illusion that you're conscious, something must experience that illusion (Tallis 2024). Illusionists have a standing reply. The bare regress assumes "seeming" is itself phenomenal, which is precisely what illusionists deny, and a representational system need not instantiate what it represents—a map represents terrain without being mountainous. On its own the regress therefore proves nothing; the live dispute is whether the meta-representational machinery Frankish offers in its place can generate the impression of a unified phenomenal field without any of the representing being phenomenal. Objections calibrated against the hard end do not automatically reach the subtle end, and neither side closes the case inside the other's framework. More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain.
+The mysterian counter-argument: illusionism faces infinite regress—to be under an illusion that you're conscious, something must experience that illusion (Tallis 2024). Illusionists have a standing reply. The bare regress assumes "seeming" is itself phenomenal, which is precisely what illusionists deny, and a representational system need not instantiate what it represents—a map, the Map adds, represents terrain without being mountainous. On its own the regress therefore proves nothing; the live dispute is whether Frankish's target—"how the illusion of phenomenality arises and why it is so powerful"—can be met without any of the representing being phenomenal. Objections calibrated against the hard end do not automatically reach the subtle end, and neither side closes the case inside the other's framework. More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain.
 
 ## What Would Challenge This View?
 

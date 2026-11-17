@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-11-17 11:05:20+00:00
+ai_modified: 2026-11-17 12:06:07+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 13:20:12+00:00
-lastmod: 2026-11-17 11:05:20+00:00
+lastmod: 2026-11-17 12:06:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ Both questions connect to the Map's framework: creature consciousness relates to
 
 **[Integrated Information Theory](/concepts/integrated-information-theory/)** (Tononi) proposes that consciousness *is* integrated information (measured as Φ). IIT makes surprising predictions: even simple systems with high Φ would be conscious. The theory offers an interesting bridge between structure and experience but faces the hard problem at its foundation: why does integrated information feel like anything? The Map treats IIT as identifying a necessary condition that falls short of explanation.
 
-**[illusionism](/concepts/illusionism/)** (Dennett, Frankish) denies phenomenal consciousness exists as traditionally conceived. We *represent* ourselves as having intrinsic, ineffable qualia, but this representation is mistaken—there is no "what it's like" beyond these representational states themselves. Keith Frankish's positive account proposes that certain cognitive mechanisms generate representations that *seem* phenomenal without being so; the "illusion problem" (explaining these representations) replaces the hard problem.
+**[illusionism](/concepts/illusionism/)** (Dennett, Frankish) denies phenomenal consciousness exists as traditionally conceived. We *represent* ourselves as having qualitative, what-it-is-like properties, but this representation is mistaken—there is no "what it's like" beyond these representational states themselves. Keith Frankish's positive account proposes that certain cognitive mechanisms generate representations that *seem* phenomenal without being so; the "illusion problem" (explaining these representations) replaces the hard problem.
 
 The Map rejects illusionism but takes it seriously as the strongest physicalist strategy. The familiar reply—the seeming is itself something it is like—settles nothing alone: it assumes the seeming is phenomenal, which illusionists deny. The Map's objection: illusionism owes, on its own standard, a mechanism for a state representing *itself* as experiential—one not yet built. Past that the frameworks part: for the Map, what a state does leaves open what it is like.
 

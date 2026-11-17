@@ -2,9 +2,9 @@
 title: "The Knowledge Argument (Mary's Room)"
 description: "Mary knows all physical facts about color but seems to learn something new seeing red. If the learning intuition holds, physicalism faces a serious challenge."
 created: 2026-01-15
-modified: 2026-08-19
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-10-07T00:10:26+00:00
+ai_modified: 2026-11-17T12:21:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[consciousness-and-mathematics]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-17T18:20:42+00:00
@@ -101,7 +101,7 @@ However, Dennett must explain what "complete physical knowledge" would look like
 
 ### The Illusionist Response
 
-[[illusionism|Illusionism]] is a family of positions rather than a single thesis. Its leading defenders deny phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable qualities—while granting that Mary discriminates, reacts, and reports differently afterward. What she gains, on this reading, is a new representational state rather than access to a non-physical property. See [[illusionism]] for Frankish's quasi-phenomenal properties account and why the Map finds it insufficient.
+[[illusionism|Illusionism]] is a family of positions rather than a single thesis. Its leading defenders deny phenomenal consciousness *as traditionally conceived*—experience bearing qualitative, what-it-is-like properties—while granting that Mary discriminates, reacts, and reports differently afterward. What she gains, on this reading, is a new representational state rather than access to a non-physical property. See [[illusionism]] for Frankish's quasi-phenomenal properties account and why the Map finds it insufficient.
 
 The challenge specific to Mary's case: the illusionist must explain not just the general seeming of phenomenal consciousness, but the *specific character* of Mary's new experience—why seeing red seems *like that*. Mary possessed every physical and functional fact, yet something changed. If the change is "merely" a new functional state, the illusionist owes an account of why it strikes so many as revelatory. That demand is not imported from dualism: mechanistic specification is exactly the standard illusionists press against their rivals, and the account identifies the bridge it needs without yet building it. Where the disagreement runs deeper—over whether any intrinsic quality remains once the functional roles are described—it marks a boundary between frameworks, which the Map notes as such rather than as a refutation inside illusionism's own terms.
 

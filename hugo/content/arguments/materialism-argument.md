@@ -1,8 +1,8 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-10-26 07:02:25+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-17 12:21:57+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: Andy Southgate
 concepts:
 - '[[qualia]]'
@@ -17,7 +17,7 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[heterophenomenology]]'
 created: 2026-01-06
-date: &id001 2026-10-26
+date: &id001 2026-11-17
 description: The Map's case that materialism cannot in principle explain consciousness
   (hard problem, zombies, Mary), where epiphenomenalism and quantum closure enter,
   and why none of it proves dualism.
@@ -25,7 +25,7 @@ draft: false
 human_modified: 2026-01-06
 last_curated: null
 last_deep_review: 2026-10-26 07:02:25+00:00
-lastmod: 2026-10-26 07:02:25+00:00
+lastmod: 2026-11-17 12:21:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ The gap is structural, an [explanatory-gap](/concepts/explanatory-gap/) built in
 
 Consider a complete physical description of seeing red—photons, electrochemical cascades, cortical activation patterns, global workspace dynamics. Nothing in this description tells you that there is an experience of redness. The phenomenal quality is not deducible from the physical facts. This is not an argument from ignorance: even perfect knowledge of neural correlates would not explain why correlates are accompanied by experience. Correlation is not explanation.
 
-The materialist must claim either that this question has no answer (consciousness is identical to function) or that it is illegitimate (consciousness doesn't exist as we conceive it). The first fails to explain what most needs explaining. The second—the illusionist gambit—owes an account of the meta-representational machinery that generates the impression of a unified phenomenal field, and of why that machinery produces the misrepresentation *there is something it is like* rather than nothing at all. The bare regress objection (something must experience the illusion) does not secure this, since a representational system need not instantiate what it represents. The difficulty is that here the representing state and the represented state coincide, which is where the reply to Frankish below presses and where [illusionism](/concepts/illusionism/) develops the full dialectic against a programme that is alive on this question rather than stalled.
+The materialist must claim either that this question has no answer (consciousness is identical to function) or that it is illegitimate (consciousness doesn't exist as we conceive it). The first fails to explain what most needs explaining. The second—the illusionist gambit—owes Frankish's own explanandum, "how the illusion of phenomenality arises and why it is so powerful"—in the Map's terms, why the misrepresentation is *there is something it is like* rather than nothing at all. The bare regress objection (something must experience the illusion) does not secure this, since a representational system need not instantiate what it represents. The difficulty is that here the representing state and the represented state coincide, which is where the reply to Frankish below presses and where [illusionism](/concepts/illusionism/) develops the full dialectic against a programme that is alive on this question rather than stalled.
 
 ## The Zombie Argument: Consciousness Is Not Entailed by Physics
 
@@ -71,7 +71,7 @@ Materialists typically attack premise 2 via the water analogy: water that isn't 
 
 **Dennett: zombie conceivability tracks conceptual confusion, not metaphysical possibility.** On Dennett's view, the zombie scenario *seems* coherent only because our phenomenal concepts are themselves confused—pre-theoretical posits like "phlogiston" or "élan vital" that mature science will replace. We are not conceiving of something genuinely possible; we are misdescribing functional states under bad concepts. The Map denies that phenomenal concepts are confused in this way, though contemplative evidence cannot settle the matter. Training appears to *sharpen* phenomenal discrimination (see Contemplative Perspectives, below), but sharper discrimination is a functional gain an eliminativist also expects, a persisting seeming decides nothing (as with Frankish, below), and [heterophenomenology](/concepts/heterophenomenology/) admits such reports only as third-person data about what subjects believe, never as evidence about phenomenal character. The disagreement is methodological rather than settled.
 
-**Frankish: phenomenal properties are introspective representations, not properties of experiences.** Frankish's illusionism replaces intrinsic phenomenal qualities with *quasi-phenomenal properties*—non-phenomenal physical properties of inner states that introspection systematically misrepresents as phenomenal. At its strongest, illusionism is a coherent physicalist account: zombies share the same quasi-phenomenal representations, make the same reports, and face the same illusion. The Map denies that introspection of phenomenal character is purely *referring* (representational) rather than at least partly *constitutive*—the seeming partly *is* what it represents. The non-question-begging reason: Frankish's account works for external misrepresentation because an independent vantage point exists. Combustion is indifferent to being called "phlogiston," and oxygen experiments revealed the error from outside. For consciousness, no such vantage exists—the state representing itself as experiential *is* the candidate for being experiential, and the access/interpretation distinction does not survive when the accessed state and the interpreting state are one and the same. Persistence of the seeming under full acceptance of illusionism decides nothing, since a rich illusion and a veridical seeming predict it equally; the reply rests on the missing vantage point. See [illusionism](/concepts/illusionism/) for the full dialectic.
+**Frankish: phenomenal properties are introspective representations, not properties of experiences.** Frankish's illusionism replaces intrinsic phenomenal qualities with *quasi-phenomenal properties*—non-phenomenal physical properties of inner states that introspection typically misrepresents as phenomenal. At its strongest, illusionism is a coherent physicalist account: zombies share the same quasi-phenomenal representations, make the same reports, and face the same illusion. The Map denies that introspection of phenomenal character is purely *referring* (representational) rather than at least partly *constitutive*—the seeming partly *is* what it represents. The non-question-begging reason: Frankish's account works for external misrepresentation because an independent vantage point exists. Combustion is indifferent to being called "phlogiston," and oxygen experiments revealed the error from outside. For consciousness, no such vantage exists—the state representing itself as experiential *is* the candidate for being experiential, and the access/interpretation distinction does not survive when the accessed state and the interpreting state are one and the same. Persistence of the seeming under full acceptance of illusionism decides nothing, since a rich illusion and a veridical seeming predict it equally; the reply rests on the missing vantage point. See [illusionism](/concepts/illusionism/) for the full dialectic.
 
 **The phenomenal-concept strategy: the gap is in our concepts, not in reality.** The most sophisticated version—Loar's recognitional concepts, Papineau's quotational account, Balog's constitutional account—holds that phenomenal concepts pick out brain states directly, without descriptive intermediary, and that this conceptual structure (call it C) explains why zombies seem conceivable. Chalmers's master argument is dilemmatic: either C is physically explicable, in which case zombies have C and the apparent gap is reproduced inside C itself; or C is not physically explicable, in which case the strategy has helped itself to a non-physical feature to do the explaining. The Map holds this dilemma is exhaustive. The non-question-begging reason: the strategy needs C to do two jobs at once—explain the explanatory gap *and* be itself unproblematic for physicalism—and no version has shown how a single feature can do both. If the strategy is right, a satisfying physical reduction of C should be forthcoming; three decades of attempts have not produced one. See [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) for the full treatment.
 

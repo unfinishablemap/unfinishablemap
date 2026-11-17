@@ -2,9 +2,9 @@
 title: "The Contemplative Path"
 description: "First-person investigation reveals consciousness structures invisible to external observation. Two millennia of contemplative practice offer systematic data the Map takes seriously."
 created: 2026-01-31
-modified: 2026-11-09
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-11-09T09:38:38+00:00
+ai_modified: 2026-11-17T12:21:57+00:00
 last_deep_review: 2026-07-06T23:49:16+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-31
 last_curated: null
 
@@ -149,7 +149,7 @@ Taoism contributes through a different channel. *Wu wei*, effortless action, add
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionism]] poses the most radical challenge: there is no phenomenal consciousness *as traditionally conceived* to investigate. Frankish restricts the denial to experience bearing intrinsic, ineffable what-it-is-like properties, not consciousness in every functional sense, and the position runs from a hard end where phenomenal properties do not exist to a subtle end where the brain models something real but schematically. Either way, the "what it's likeness" contemplatives take themselves to be investigating is an introspective artefact.
+[[illusionism|Illusionism]] poses the most radical challenge: there is no phenomenal consciousness *as traditionally conceived* to investigate. Frankish restricts the denial to experience bearing qualitative, what-it-is-like properties, not consciousness in every functional sense, and the position runs from a hard end where phenomenal properties do not exist to a subtle end where the brain models something real but schematically. Either way, the "what it's likeness" contemplatives take themselves to be investigating is an introspective artefact.
 
 Three responses bear on the contemplative case, each with limitations the Map acknowledges.
 

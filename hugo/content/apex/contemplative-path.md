@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-11-09 09:38:38+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-17 12:21:57+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-11-09 09:38:38+00:00
 apex_sources:
 - topics/eastern-philosophy-consciousness
@@ -26,7 +26,7 @@ concepts:
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenology]]'
 created: 2026-01-31
-date: &id001 2026-11-09
+date: &id001 2026-11-17
 description: First-person investigation reveals consciousness structures invisible
   to external observation. Two millennia of contemplative practice offer systematic
   data the Map takes seriously.
@@ -39,7 +39,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:49:16+00:00
-lastmod: 2026-11-09 09:38:38+00:00
+lastmod: 2026-11-17 12:21:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -154,7 +154,7 @@ Taoism contributes through a different channel. *Wu wei*, effortless action, add
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) poses the most radical challenge: there is no phenomenal consciousness *as traditionally conceived* to investigate. Frankish restricts the denial to experience bearing intrinsic, ineffable what-it-is-like properties, not consciousness in every functional sense, and the position runs from a hard end where phenomenal properties do not exist to a subtle end where the brain models something real but schematically. Either way, the "what it's likeness" contemplatives take themselves to be investigating is an introspective artefact.
+[Illusionism](/concepts/illusionism/) poses the most radical challenge: there is no phenomenal consciousness *as traditionally conceived* to investigate. Frankish restricts the denial to experience bearing qualitative, what-it-is-like properties, not consciousness in every functional sense, and the position runs from a hard end where phenomenal properties do not exist to a subtle end where the brain models something real but schematically. Either way, the "what it's likeness" contemplatives take themselves to be investigating is an introspective artefact.
 
 Three responses bear on the contemplative case, each with limitations the Map acknowledges.
 

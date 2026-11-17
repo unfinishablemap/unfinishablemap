@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-11-09 23:17:58+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-17 12:21:57+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[panpsychism]]'
@@ -20,7 +20,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-15
-date: &id001 2026-11-05
+date: &id001 2026-11-17
 description: Russellian monism claims quiddities ground consciousness, but faces the
   combination problem, instability between physicalism and dualism, and fragmentation
   into incompatible variants.
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:47:17+00:00
-lastmod: 2026-11-09 23:17:58+00:00
+lastmod: 2026-11-17 12:21:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ If Russellian monism inherits dualism's costs under a different name, the Map's 
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) and Russellian monism represent opposite responses to the [hard problem](/topics/hard-problem-of-consciousness/): Russellian monism enriches physics with phenomenal quiddities; illusionism denies that phenomenal properties exist *as traditionally conceived*—bearing intrinsic, ineffable, what-it-is-like character. The restriction governs what follows. Against the hard end of the illusionist spectrum, where the category is taken to be empty outright, Russellian monism can deploy Galen Strawson's "reality of experience" argument more readily than standard physicalism: experience is the one thing we know exists non-inferentially, so a theory denying it undermines its own epistemic basis. Against the subtle end the argument does not land—Strawson names Dennett among the deniers but not Frankish, whose restriction leaves the charge unaddressed, and Graziano's "caricature" reading grants that the brain models something real, only schematically. There Russellian monism's advantage is narrower: it treats the intrinsic nature question as a datum rather than as a symptom of misrepresentation. The deeper lesson is that Russellian monism shares the Map's recognition that phenomenal properties must be taken seriously. The disagreement is whether quiddities *are* phenomenal (panpsychism), *ground* the phenomenal (panprotopsychism), or whether consciousness is ontologically distinct and *interacts with* physics (the Map's framework). See [illusionism](/concepts/illusionism/) for the full debate.
+[Illusionism](/concepts/illusionism/) and Russellian monism represent opposite responses to the [hard problem](/topics/hard-problem-of-consciousness/): Russellian monism enriches physics with phenomenal quiddities; illusionism denies that phenomenal properties exist *as traditionally conceived*—bearing qualitative, what-it-is-like character. The restriction governs what follows. Against the hard end of the illusionist spectrum, where the category is taken to be empty outright, Russellian monism can deploy Galen Strawson's "reality of experience" argument more readily than standard physicalism: experience is the one thing we know exists non-inferentially, so a theory denying it undermines its own epistemic basis. Against the subtle end the argument does not land—Strawson names Dennett among the deniers but not Frankish, whose restriction leaves the charge unaddressed, and Graziano's "caricature" reading grants that the brain models something real, only schematically. There Russellian monism's advantage is narrower: it treats the intrinsic nature question as a datum rather than as a symptom of misrepresentation. The deeper lesson is that Russellian monism shares the Map's recognition that phenomenal properties must be taken seriously. The disagreement is whether quiddities *are* phenomenal (panpsychism), *ground* the phenomenal (panprotopsychism), or whether consciousness is ontologically distinct and *interacts with* physics (the Map's framework). See [illusionism](/concepts/illusionism/) for the full debate.
 
 ## The Mysterian Angle
 

@@ -2,9 +2,9 @@
 title: "Introspection and First-Person Methods"
 description: "Our primary access to consciousness is contested. But critiques target causal processes, not phenomenal content—what it's like remains accessible."
 created: 2026-01-15
-modified: 2026-10-23
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-11-08T18:18:49+00:00
+ai_modified: 2026-11-17T12:21:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ related_articles:
   - "[[contentless-awareness-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-17T11:35:46+00:00
@@ -110,7 +110,7 @@ This matches ordinary epistemic practice: we don't conclude perception is unreli
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] like Keith Frankish and Daniel Dennett pose the most radical challenge: there is no phenomenal content to introspect *as traditionally conceived*—no intrinsic, ineffable what-it-is-like properties for introspection to disclose, only representations produced by systems modelling themselves. Schwitzgebel questions whether introspection *accurately reports* phenomenal states; illusionists question whether the states are as it represents them.
+[[illusionism|Illusionists]] like Keith Frankish and Daniel Dennett pose the most radical challenge: there is no phenomenal content to introspect *as traditionally conceived*—no qualitative, what-it-is-like properties for introspection to disclose, only representations produced by systems modelling themselves. Schwitzgebel questions whether introspection *accurately reports* phenomenal states; illusionists question whether the states are as it represents them.
 
 ### The Regress Response
 

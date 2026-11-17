@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T12:03:20+00:00
+ai_modified: 2026-11-17T12:23:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T12:23:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenal-consciousness]] (primary) plus ten secondaries; attribution and statement-of-view only, no reply grade changed except the `functional-seeming` lead clause the task named
+- **Source**: `reviews/deep-review-2026-11-17-illusionism.md` follow-ups 1-3. Wording copied from the hub [[concepts/illusionism]] as it stands (L61 gloss "experience bearing qualitative, what-it-is-like properties"; L109 target "how the illusion of phenomenality arises and why it is so powerful", bridge and map analogy marked as the Map's; L105 "Gorbachev and Frankish (2025) name the governing claim the **distortion thesis** and leave the distortion's exact nature open. On one reading introspective *access* is real but introspective *interpretation* is flawed"; "typically misrepresents")
+- **Group 1, weak-form gloss** (word counts by `analyze_length`, before → after):
+  - `concepts/phenomenal-consciousness` 2609 → 2608: "experience bearing intrinsic, ineffable what-it-is-like properties" → "experience bearing qualitative, what-it-is-like properties". The Dennett enumeration at L52 ("intrinsic, private, ineffable, directly apprehensible ... illusionism denies all four") is the classic conception and was left
+  - `concepts/introspection` 3491 → 3490: "no intrinsic, ineffable what-it-is-like properties for introspection to disclose" → "no qualitative, what-it-is-like properties for introspection to disclose"
+  - `concepts/mysterianism` 3449 → 3449: same gloss replacement at the Frankish (2016) sentence (see group 2 for the other two strings)
+  - `concepts/theory-of-mind` 3472 → 3471: same gloss replacement
+  - `arguments/functionalism-argument` 3496 → 3496: same gloss replacement; and "without any of the representing being phenomenal. Frankish sets that target himself." → "without any of the representing being phenomenal—Frankish's illusion problem, in the Map's words." (the "unified qualitative field" formulation there was credited to Frankish; not on the task's list, same defect)
+  - `apex/contemplative-path` 4658 → 4657: same gloss replacement
+  - `voids/what-voids-reveal` 3028 → 3027: "*as traditionally conceived*—intrinsic, ineffable, what-it-is-like—but owes" → "*as traditionally conceived*—qualitative, what-it-is-like—but owes"
+  - `concepts/russellian-monism` 3120 → 3119: "bearing intrinsic, ineffable, what-it-is-like character" → "bearing qualitative, what-it-is-like character"
+  - `concepts/knowledge-argument` 3491 → 3491: "experience bearing intrinsic, ineffable qualities" → "experience bearing qualitative, what-it-is-like properties"
+- **Group 2, constructed target**:
+  - `arguments/materialism-argument` 3473 → 3472: "owes an account of the meta-representational machinery that generates the impression of a unified phenomenal field, and of why that machinery produces the misrepresentation *there is something it is like* rather than nothing at all" → "owes Frankish's own explanandum, "how the illusion of phenomenality arises and why it is so powerful"—in the Map's terms, why the misrepresentation is *there is something it is like* rather than nothing at all". Also "introspection systematically misrepresents" → "typically misrepresents" (Frankish 2016's word, per the hub)
+  - `concepts/mysterianism`: "whether the meta-representational machinery Frankish offers in its place can generate the impression of a unified phenomenal field without any of the representing being phenomenal" → "whether Frankish's target—"how the illusion of phenomenality arises and why it is so powerful"—can be met without any of the representing being phenomenal"; "—a map represents terrain without being mountainous" → "—a map, the Map adds, represents terrain without being mountainous". The "symptom of cognitive closure" sentence and the Kriegel / Vlerick and Boudry passages were not touched
+- **Group 3**, `concepts/functional-seeming` 1945 → 1945: "Frankish develops this through the **distortion thesis**: introspective *access* to mental states is real, but introspective *interpretation* is systematically flawed. The conceptual framework we apply to our own states—a folk theory positing intrinsic phenomenal qualities—generates the illusion. The error is theoretical, not experiential." → "Gorbachev and Frankish (2025) name the governing claim the **distortion thesis**, leaving the distortion's exact nature open. On one reading introspective *access* is real but introspective *interpretation* is flawed: a folk theory positing intrinsic phenomenal qualities generates the illusion; the error is theoretical, not experiential." "This distinction between access and interpretation is crucial to the illusionist programme. It allows Frankish to grant that something real is being introspected while denying that the introspected properties are as they appear." → "The distinction lets an illusionist grant that something real is introspected while denying its properties are as they appear." "The distortion thesis analogises" and "The distortion thesis works naturally" → "The access/interpretation reading ..." (twice). Lead: "would collapse into meaninglessness" → "would mark nothing". "systematically misrepresents" → "typically misrepresents". "This is not the bare regress objection, which Frankish's functional account does address. It is a deeper problem ..." → "Unlike the bare regress objection, which Frankish's functional account does address, this is a deeper problem ..." (funds the new reference line). Reference added: Gorbachev & Frankish (2025), *Synthese* 205(6), 247 (metadata from the hub's ledger); the self-citation renumbered 10 → 11
+- **Reasoning-mode record**: engagement with Frankish unchanged in mode on every page (unsupported foundational move on his own two-part explanandum, then framework boundary); the edits restate what he holds, not how the Map answers
+- **Report-only findings**: `topics/phenomenology-of-intellectual-courage` L128 "persisting regardless of input versus updating on evidence" describes stubbornness against courage; no relation to Kammerer. "meta-problem dilemma" (three spellings): 0 hits in live sections and in `archive/`; no link to a retired `illusionism#` Chalmers anchor. Files pairing Tallis with 2011 on one line: 25 (concepts 19, topics 5, voids 1), plus 4 under `archive/`; not re-dated
+- **Published**: yes
+
+## 2026-11-17 12:06 UTC - refine-draft (driver, inline)
+- **Status**: Success
+- **File**: [[consciousness]]
+- **Change**: one phrase in the statement of illusionism. "We *represent* ourselves as having intrinsic, ineffable qualia" became "having qualitative, what-it-is-like properties". The hub [[illusionism]] was checked against Frankish (2016) at 12:00Z today: intrinsic, ineffable properties are what the weak illusionist denies, a position Frankish distinguishes from his own; his target is qualitative, what-it-is-like properties "whether physical or non-physical". The page's reply to illusionism (regraded at 11:05Z) is unchanged. Word count +1.
 
 ## 2026-11-17T12:03:20+00:00 - deep-review
 - **Status**: Success

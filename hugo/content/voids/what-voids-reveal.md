@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-08-17 19:09:45+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-11-17 12:21:57+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /voids/limits-reveal-structure/
@@ -17,7 +17,7 @@ concepts:
 - '[[self-and-self-consciousness]]'
 - '[[edge-states-and-void-probes]]'
 created: 2026-01-16
-date: &id001 2026-04-28
+date: &id001 2026-11-17
 description: 'Cognitive limits are doubly informative: their shape reveals mental
   architecture, while the void catalogue''s clustering counts as framework-internal
   coherence, not evidence for dualism.'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 07:37:35+00:00
-lastmod: 2026-08-17 19:09:45+00:00
+lastmod: 2026-11-17 12:21:57+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -123,7 +123,7 @@ This section was long headed "the abductive argument"; the demotion is deliberat
 
 Levine—who introduced "explanatory gap"—himself resists the ontological move: the gap reveals a limit on explanatory abilities, not necessarily a gap in nature (Levine 1983). His distinction is the one this article now enforces on itself. Any residual force would require the voids to be independently identifiable, and the [topology of cognitive failure](/voids/compound-failure-signatures/) supports partial independence at best. The Map's standard mitigation—isolating a *framework-independent* subset any serious view would acknowledge—does not restore the evidential reading, since deciding which voids a physicalist would grant is a judgement made from inside the framework whose support is at issue. The partition is tenet-laden, so its residue is a discipline check, not framework-neutral evidence.
 
-Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological one; Chalmers argues it cannot explain *why* they have that nature without presupposing phenomenal properties (Chalmers 2007). **[Illusionism](/concepts/illusionism/)** (Frankish 2016) denies that phenomenal properties exist *as traditionally conceived*—intrinsic, ineffable, what-it-is-like—but owes an account of how a physical system generates the persistent, structured sense of phenomenality, questioning stance included, without it tracking anything real.
+Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological one; Chalmers argues it cannot explain *why* they have that nature without presupposing phenomenal properties (Chalmers 2007). **[Illusionism](/concepts/illusionism/)** (Frankish 2016) denies that phenomenal properties exist *as traditionally conceived*—qualitative, what-it-is-like—but owes an account of how a physical system generates the persistent, structured sense of phenomenality, questioning stance included, without it tracking anything real.
 
 Two considerations follow on illusionism. *The regress applies*: to *seem* to hit a cognitive wall, something must undergo that seeming, and mapping the architecture producing the illusion still maps the mapper. *Representational closure is still closure*: if certain concepts cannot be constructed from our cognitive primitives, the shape of that failure is informative even granting illusionism. A third consideration once offered here—that denying the phenomenon might be what cognitive closure looks like from the inside—is withdrawn, because treating an opponent's denial as evidence for the thing denied makes a position unfalsifiable, and the move is symmetric: an illusionist could read the Map's conviction as the illusion doing exactly the work illusionism predicts. Past those two considerations the disagreement rests at the framework boundary, which is worth saying plainly. The [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) adds that if our capacity to assess our own limits is itself limited, the meta-question—signal or noise?—falls under the constraints it investigates.
 

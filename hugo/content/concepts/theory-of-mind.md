@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-04 08:54:17+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-17 12:21:57+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/concept-of-consciousness-and-social-cognition/
@@ -19,14 +19,14 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[default-mode-network]]'
 created: 2026-01-22
-date: &id001 2026-01-22
+date: &id001 2026-11-17
 description: Attributing beliefs, desires, and intentions to others. Higher levels
   require metarepresentation, which may require phenomenal consciousness.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 00:50:52+00:00
-lastmod: 2026-08-04 08:54:17+00:00
+lastmod: 2026-11-17 12:21:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -150,7 +150,7 @@ The connection to [free will](/topics/free-will/) is direct. Libertarian free wi
 
 ## The Illusionist Challenge
 
-[illusionism](/concepts/illusionism/) denies phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties. On this view, theory of mind is sophisticated information processing about others' information processing. There's no phenomenal "extra"—no experiencing of others as subjects—just functional attribution of states.
+[illusionism](/concepts/illusionism/) denies phenomenal consciousness *as traditionally conceived*—experience bearing qualitative, what-it-is-like properties. On this view, theory of mind is sophisticated information processing about others' information processing. There's no phenomenal "extra"—no experiencing of others as subjects—just functional attribution of states.
 
 The challenge for illusionism: explaining why theory of mind develops alongside phenomenal self-awareness, why it correlates with metacognitive capacity, and why it seems to require experiencing what it's like to have a perspective. The illusionist must explain these correlations as coincidental or provide alternative accounts of the developmental and comparative data.
 

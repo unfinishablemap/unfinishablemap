@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-11-08 18:18:49+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-17 12:21:57+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -31,14 +31,14 @@ concepts:
 - '[[confabulation-void]]'
 - '[[carrolls-regress]]'
 created: 2026-01-15
-date: &id001 2026-10-23
+date: &id001 2026-11-17
 description: Our primary access to consciousness is contested. But critiques target
   causal processes, not phenomenal content—what it's like remains accessible.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 11:35:46+00:00
-lastmod: 2026-11-08 18:18:49+00:00
+lastmod: 2026-11-17 12:21:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ This matches ordinary epistemic practice: we don't conclude perception is unreli
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) like Keith Frankish and Daniel Dennett pose the most radical challenge: there is no phenomenal content to introspect *as traditionally conceived*—no intrinsic, ineffable what-it-is-like properties for introspection to disclose, only representations produced by systems modelling themselves. Schwitzgebel questions whether introspection *accurately reports* phenomenal states; illusionists question whether the states are as it represents them.
+[Illusionists](/concepts/illusionism/) like Keith Frankish and Daniel Dennett pose the most radical challenge: there is no phenomenal content to introspect *as traditionally conceived*—no qualitative, what-it-is-like properties for introspection to disclose, only representations produced by systems modelling themselves. Schwitzgebel questions whether introspection *accurately reports* phenomenal states; illusionists question whether the states are as it represents them.
 
 ### The Regress Response
 
