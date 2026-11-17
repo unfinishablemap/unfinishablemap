@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-12 22:19:28+00:00
+ai_modified: 2026-11-17 12:32:52+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -26,14 +26,14 @@ concepts:
 - '[[intersubjectivity]]'
 - '[[contemplative-epistemology]]'
 created: 2026-01-14
-date: &id001 2026-06-13
+date: &id001 2026-11-17
 description: How can we know others are conscious? Philosophical approaches to the
   epistemic asymmetry, and how dualism both sharpens and grounds the inference.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:58:33+00:00
-lastmod: 2026-11-12 22:19:28+00:00
+lastmod: 2026-11-17 12:32:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -226,7 +226,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [zombie-master-argument](/concepts/zombie-master-argument/) — How zombie conceivability subsumes the knowledge argument and explanatory gap
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds and its dualist implications
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Contemplative practice as a knowledge source, grounding intersubjective convergence claims
-- [consciousness-only-territories](/voids/consciousness-only-territories/) — Regions of experience structurally beyond external access
+- [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge that may be reachable only by having the experience
 
 ### Apex Synthesis
 - [minds-without-words](/apex/minds-without-words/) — The problem of other minds in non-linguistic creatures

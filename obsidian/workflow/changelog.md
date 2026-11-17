@@ -5,6 +5,12 @@ ai_modified: 2026-11-17T12:23:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-17 12:32 UTC - refine-draft (driver, inline)
+- **Status**: Success
+- **Files**: [[consciousness-and-social-understanding]], [[problem-of-other-minds]]
+- **Source**: outer review 2026-11-17 (Claude Fable 5.2), inbound link glosses to [[consciousness-only-territories]]
+- **Change**: two Further Reading glosses. "Experiential regions permanently beyond external access" and "Regions of experience structurally beyond external access" both became "Knowledge that may be reachable only by having the experience". The target's lead is conditional ("If such territories exist") and concerns systems lacking experience, not one conscious mind's access to another; "permanently" and "structurally" asserted a modal strength the page does not, and on the second host the gloss sat beside that page's own statement that privacy "may be contingent rather than constitutive". Word counts: 3,910 to 3,912 and 3,469 to 3,471. The target page was not edited.
+
 ## 2026-11-17T12:23:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/phenomenal-consciousness]] (primary) plus ten secondaries; attribution and statement-of-view only, no reply grade changed except the `functional-seeming` lead clause the task named

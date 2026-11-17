@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-11-14 09:32:53+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-17 12:32:52+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/consciousness-and-social-cognition/
@@ -24,7 +24,7 @@ concepts:
 - '[[baseline-cognition]]'
 - '[[jourdain-hypothesis]]'
 created: 2026-02-15
-date: &id001 2026-03-26
+date: &id001 2026-11-17
 description: Genuine social understanding—grasping other minds as minds, building
   institutions, holding each other accountable—requires phenomenal consciousness,
   not merely sophisticated information processing.
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-14 09:32:53+00:00
-lastmod: 2026-11-14 09:32:53+00:00
+lastmod: 2026-11-17 12:32:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -188,7 +188,7 @@ These conditions are offered in good faith, but what counts as "institutional co
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle at the heart of social cognition
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt dimension of empathy and emotional understanding
 - [voids-between-minds](/voids/voids-between-minds/) — The structural isolation of consciousness, whether experiences can be genuinely shared, and the role of these voids in constituting social life
-- [consciousness-only-territories](/voids/consciousness-only-territories/) — Experiential regions permanently beyond external access
+- [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge that may be reachable only by having the experience
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — How phenomenal consciousness shapes moral judgment
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and commitments depend on phenomenal subjects
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — Trust as a distinctively conscious mode of interpersonal engagement

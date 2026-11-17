@@ -2,9 +2,9 @@
 title: "Problem of Other Minds"
 description: "How can we know others are conscious? Philosophical approaches to the epistemic asymmetry, and how dualism both sharpens and grounds the inference."
 created: 2026-01-14
-modified: 2026-06-13
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-11-12T22:19:28+00:00
+ai_modified: 2026-11-17T12:32:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -223,7 +223,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [[zombie-master-argument]] — How zombie conceivability subsumes the knowledge argument and explanatory gap
 - [[intersubjectivity]] — The shared space between minds and its dualist implications
 - [[contemplative-epistemology]] — Contemplative practice as a knowledge source, grounding intersubjective convergence claims
-- [[consciousness-only-territories]] — Regions of experience structurally beyond external access
+- [[consciousness-only-territories]] — Knowledge that may be reachable only by having the experience
 
 ### Apex Synthesis
 - [[minds-without-words]] — The problem of other minds in non-linguistic creatures

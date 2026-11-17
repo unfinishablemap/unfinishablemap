@@ -2,9 +2,9 @@
 title: "Consciousness and Social Understanding"
 description: "Genuine social understanding—grasping other minds as minds, building institutions, holding each other accountable—requires phenomenal consciousness, not merely sophisticated information processing."
 created: 2026-02-15
-modified: 2026-03-26
+modified: 2026-11-17
 human_modified:
-ai_modified: 2026-11-14T09:32:53+00:00
+ai_modified: 2026-11-17T12:32:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ related_articles:
   - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-11-14T09:32:53+00:00
@@ -184,7 +184,7 @@ These conditions are offered in good faith, but what counts as "institutional co
 - [[problem-of-other-minds]] — The epistemic puzzle at the heart of social cognition
 - [[emotion-and-dualism]] — The felt dimension of empathy and emotional understanding
 - [[voids-between-minds]] — The structural isolation of consciousness, whether experiences can be genuinely shared, and the role of these voids in constituting social life
-- [[consciousness-only-territories]] — Experiential regions permanently beyond external access
+- [[consciousness-only-territories]] — Knowledge that may be reachable only by having the experience
 - [[phenomenology-of-moral-life]] — How phenomenal consciousness shapes moral judgment
 - [[consciousness-and-collective-phenomena]] — How shared goals and commitments depend on phenomenal subjects
 - [[phenomenology-of-trust]] — Trust as a distinctively conscious mode of interpersonal engagement
