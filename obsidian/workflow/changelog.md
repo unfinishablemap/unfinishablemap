@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T00:12:55+00:00
+ai_modified: 2026-11-17T04:38:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T04:38:15+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (Research)
+- **File**: [[reviews/outer-review-2026-11-17-claude-fable-5-2]]
+- **Subject**: `voids/consciousness-only-territories` (reuse of the ChatGPT subject). The reviewer could not fetch the page and says so in its first lines; it worked from the changelog, the reviews index, the tenets page, `concepts/knowledge-argument` and search snippets of neighbouring pages
+- **Claims verified**: 9 confirmed against the page and its siblings (no illusionist reply; tenets used as evidence; page absent from the 2026-11-16 tenet-section pass; two overstated inbound link glosses; Conee; the declined coalesce pair; a string sibling on `concepts/phenomenal-acquaintance`; Tye 2009 exists; Laukkonen et al. real and absent here); 6 wrong, all from stale search snippets (the "2025 Nature paper", "Nagel established", ineffable-encounter-void's convergence sentence, a Gendlin quotation placed under Harnad, an archived page, the LLM exclusion); 2 qualified; 2 unverified
+- **High-value findings**: 5 (2 convergent with the ChatGPT review of the same page and previously unqueued; 1 new; 2 already queued)
+- **Tasks generated**: 3 (P2: 3), all `refine-draft`; 3 existing tasks annotated with one line each; no duplicates
+- **Article edits**: none in this run
 
 ## 2026-11-17T04:25:35+00:00 - outer-review
 - **Status**: Success

@@ -128,9 +128,9 @@
   commissioned_at: '2026-11-17T03:04:43.605120+00:00'
   prompt_summary: Referee audit of voids/consciousness-only-territories
   target_filename: outer-review-2026-11-17-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-17T04:34:31.357636+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair academic referee and audit one article
     from The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind
