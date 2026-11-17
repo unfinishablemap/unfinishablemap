@@ -2,9 +2,9 @@
 title: "Prospective Memory and Future-Oriented Consciousness"
 description: "Remembering to act in the future: how intentions persist and episodic future thinking shapes present decisions."
 created: 2026-01-17
-modified: 2026-11-11
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-11-11T22:05:01+00:00
+ai_modified: 2026-11-17T11:19:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,7 +131,7 @@ The [[temporal-consciousness|specious present]] may constrain future simulation'
 
 [[illusionism|Illusionism]] (Frankish, 2016) challenges whether futuricity is genuine phenomenology or introspective confabulation. Three responses:
 
-**The regress problem.** If futuricity is an illusion, something must experience this illusion—the seeming-to-project-forward must seem *to* something. Either that something has genuine experience, or it too merely seems to experience (generating a regress).
+**The regress problem.** If futuricity is an illusion, something must experience this illusion—the seeming-to-project-forward must seem *to* something. Either that something has genuine experience, or it too merely seems to experience (generating a regress). Taken bare, this settles nothing: it assumes the seeming is phenomenal, which illusionists deny.
 
 **Introspective stability.** When practitioners attend carefully to imagining a future event, most report the futuricity does not dissolve but appears to intensify. Illusionists will rightly point out that this is exactly the confabulation pattern they diagnose—closer attention could be constructing richer representational content that seems phenomenal without being so. The response has force only to the extent one grants that introspection tracks something beyond its own outputs, which is the point at issue.
 
@@ -163,9 +163,9 @@ Whitehead's process philosophy offers a framing. Each actual occasion has a "sub
 
 ## Relation to Site Perspective
 
-Prospective memory and future-oriented consciousness bear on the five commitments unevenly: they argue for Bidirectional Interaction, though the vividness-behaviour correlations motivate rather than settle the case; they make a conditional case for the limits of parsimony; they name intention formation as a candidate occasion for Minimal Quantum Interaction while leaving the decoherence objection unresolved; they sharpen the explanandum behind Dualism and answer one deflation of it rather than evidencing it; and against No Many Worlds they press only the first-person question the branching reply leaves untouched, a pressure that runs through haecceity rather than through prospection.
+Prospective memory and future-oriented consciousness bear on the five commitments unevenly: they argue for Bidirectional Interaction, though the vividness-behaviour correlations motivate rather than settle the case; they make a conditional case for the limits of parsimony; they name intention formation as a candidate occasion for Minimal Quantum Interaction while leaving the decoherence objection unresolved; they sharpen the explanandum behind Dualism and contest one deflation of it rather than evidencing it; and against No Many Worlds they press only the first-person question the branching reply leaves untouched, a pressure that runs through haecceity rather than through prospection.
 
-**[[tenets#^dualism|Dualism]]**: If futuricity is a genuine phenomenal character—the contested posit above—future simulation adds qualia of its own to the explanandum. Either way, neural activity correlates with future thinking, and correlation doesn't explain why there is something it is like to imagine tomorrow. Against the [[illusionism|illusionist]] deflation the Map presses the regress problem: the illusion of anticipating requires some experience in which to be illuded.
+**[[tenets#^dualism|Dualism]]**: If futuricity is a genuine phenomenal character—the contested posit above—future simulation adds qualia of its own to the explanandum. Either way, neural activity correlates with future thinking, and correlation doesn't explain why there is something it is like to imagine tomorrow. The Map rejects the [[illusionism|illusionist]] deflation, though not by the regress alone: illusionism owes, on its own standard, a mechanism for a state representing itself as experiential, one not yet built.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Intention formation may involve the same [[attention-as-interface|attention-mediated quantum mechanisms]] proposed for other conscious selection. If [[mental-effort|mental effort]] operates through quantum Zeno-type mechanisms (Stapp, 2011), intention formation would involve consciousness biasing selection among candidate neural patterns representing possible futures. The [[decoherence]] objection applies forcefully and is not resolved here: brains are warm and wet, and maintaining coherent superposition across the millisecond-to-day timescales required for EFT or distal intention is the central problem MQI must address. Cryptochrome radical-pair magnetoreception shows that evolution *can* exploit quantum effects in biological systems, but it does not generalise to the required case—it sustains spin coherence for microseconds in specifically evolved molecular machinery, still orders of magnitude short of the required timescales, and it is not persistent coherent superposition serving as a substrate for macroscopic selection. Photosynthetic energy transfer, once cited alongside it, no longer supports even that much in its long-lived-electronic-coherence form: Duan et al. (2017) found electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds with no hint of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence. Short-timescale vibrational/vibronic coupling is a live and different question, though nothing at that timescale approaches the millisecond-to-day range at issue here. The analogy is suggestive; it is not a demonstration. The Map treats MQI as a programmatic commitment contingent on future mechanism-finding rather than as established physics.
 

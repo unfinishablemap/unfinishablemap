@@ -2,9 +2,9 @@
 title: "Purpose and AI Alignment"
 description: "AI alignment assumes human values can be learned from behavior. But if we don't know humanity's purpose, alignment builds on unstable foundations."
 created: 2026-01-13
-modified: 2026-01-21
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-08-03T14:59:05+00:00
+ai_modified: 2026-11-17T11:19:46+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[dualism-as-ai-risk-mitigation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-2
 ai_generated_date: 2026-01-13
 last_curated: null
 last_deep_review: 2026-07-07T07:17:37+00:00
@@ -142,7 +142,7 @@ The framework connecting purpose to experiential alignment makes falsifiable cla
 
 This analysis connects deeply to all five of the Map's foundational commitments.
 
-**[[tenets#^dualism|Dualism]]**: If consciousness is irreducible, human purpose may be tied to features of experience that no behavioural analysis can capture. Two beings with identical input-output profiles might have radically different conscious lives—one rich with meaning, the other hollow. The [[illusionism|illusionist]] alternative would collapse this distinction, but the regress argument shows that even the "illusion" of experiential quality must appear to something phenomenal.
+**[[tenets#^dualism|Dualism]]**: If consciousness is irreducible, human purpose may be tied to features of experience that no behavioural analysis can capture. Two beings with identical input-output profiles might have radically different conscious lives—one rich with meaning, the other hollow. The [[illusionism|illusionist]] alternative would collapse this distinction. The Map rejects it: illusionism owes, on its own standard, a mechanism for a state representing itself as experiential, one not yet built. The regress alone, as argued above, cannot defeat it from within.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Genuine agency involves consciousness actually selecting among options through quantum mechanisms, not merely appearing to choose. If AI systems disrupt the neural quantum mechanisms through which agency operates (through excessive [[decoherence]] or manipulation of attention), they undermine genuine agency even while satisfying preferences. The valence dimension connects here: if conscious selection operates through pleasure and pain signals that bias quantum outcomes, valence is the dimension through which consciousness exercises its causal role.
 

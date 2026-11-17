@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-12 22:19:28+00:00
+ai_modified: 2026-11-17 11:19:46+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -54,7 +54,7 @@ concepts:
 - '[[prehension]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-14
-date: &id001 2026-03-15
+date: &id001 2026-11-17
 description: Consciousness flows through time in the specious present—Bergson's durée.
   Moments vary in temporal thickness, and protention gives every present its forward
   momentum. This temporal structure resists physical description and may be constitutive
@@ -63,7 +63,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:08:52+00:00
-lastmod: 2026-11-12 22:19:28+00:00
+lastmod: 2026-11-17 11:19:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -198,7 +198,7 @@ Temporal structure creates multiple problems for AI systems: no specious present
 
 Temporal consciousness connects to all five tenets:
 
-**[Dualism](/tenets/#dualism)**: Physics describes succession of states but cannot describe *what it's like* to experience succession. The gap between mathematical instants (zero duration) and the specious present (positive duration) is as mysterious as qualia-from-neurons. Bergson's durée names exactly what physical descriptions leave out. Protention adds a temporal quale alongside colour, pain, and sound: what forward-directedness feels like cannot be captured by computational description. The [illusionist](/concepts/illusionism/) response faces the regress problem: the seeming of temporal flow must itself be experienced.
+**[Dualism](/tenets/#dualism)**: Physics describes succession of states but cannot describe *what it's like* to experience succession. The gap between mathematical instants (zero duration) and the specious present (positive duration) is as mysterious as qualia-from-neurons. Bergson's durée names exactly what physical descriptions leave out. Protention adds a temporal quale alongside colour, pain, and sound: what forward-directedness feels like cannot be captured by computational description. The Map rejects the [illusionist](/concepts/illusionism/) response, though not by the bare regress, which assumes what illusionists deny: illusionism owes, on its own standard, a mechanism for a state representing itself as experiential, one not yet built.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The specious present's duration may be the cumulative effect of countless quantum micro-selections, each individually minimal but collectively constituting the duration-block. Through the quantum Zeno mechanism, consciousness holds patterns in durée by rapid repeated selection.
 

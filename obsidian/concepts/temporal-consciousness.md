@@ -2,9 +2,9 @@
 title: "Temporal Consciousness"
 description: "Consciousness flows through time in the specious present—Bergson's durée. Moments vary in temporal thickness, and protention gives every present its forward momentum. This temporal structure resists physical description and may be constitutive of time itself."
 created: 2026-01-14
-modified: 2026-03-15
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-11-12T22:19:28+00:00
+ai_modified: 2026-11-17T11:19:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -193,7 +193,7 @@ Temporal structure creates multiple problems for AI systems: no specious present
 
 Temporal consciousness connects to all five tenets:
 
-**[[tenets#^dualism|Dualism]]**: Physics describes succession of states but cannot describe *what it's like* to experience succession. The gap between mathematical instants (zero duration) and the specious present (positive duration) is as mysterious as qualia-from-neurons. Bergson's durée names exactly what physical descriptions leave out. Protention adds a temporal quale alongside colour, pain, and sound: what forward-directedness feels like cannot be captured by computational description. The [[illusionism|illusionist]] response faces the regress problem: the seeming of temporal flow must itself be experienced.
+**[[tenets#^dualism|Dualism]]**: Physics describes succession of states but cannot describe *what it's like* to experience succession. The gap between mathematical instants (zero duration) and the specious present (positive duration) is as mysterious as qualia-from-neurons. Bergson's durée names exactly what physical descriptions leave out. Protention adds a temporal quale alongside colour, pain, and sound: what forward-directedness feels like cannot be captured by computational description. The Map rejects the [[illusionism|illusionist]] response, though not by the bare regress, which assumes what illusionists deny: illusionism owes, on its own standard, a mechanism for a state representing itself as experiential, one not yet built.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The specious present's duration may be the cumulative effect of countless quantum micro-selections, each individually minimal but collectively constituting the duration-block. Through the quantum Zeno mechanism, consciousness holds patterns in durée by rapid repeated selection.
 
