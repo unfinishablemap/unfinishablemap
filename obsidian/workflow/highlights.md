@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-16T08:04:02+00:00'
+ai_modified: '2026-11-17T08:33:36.882873'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-16'
+modified: '2026-11-17'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-17: Bereavement: Believed Soon, Absorbed Slowly, Grief Fading
+
+A survivor usually believes a death soon and absorbs it slowly; later the grief fades while the loss stays the same. A new void maps both limits through Fuchs, Marušić and Moller, and what bounds each. It offers no evidence for dualism or for survival.
+
+**Type**: new-article  
+**Link**: [[bereavement-void]]
+
+---
+
 ### 2026-11-16: Sour Grapes: The Want That Hides Its Own Trimming
 
 Aesop's fox, unable to reach the grapes, decides they are sour. Jon Elster's 1982 analysis: the adjustment happens "behind my back". A new void: a want cut to fit what is attainable arrives as an ordinary preference, and the one test needs the option you lack.
@@ -211,16 +220,6 @@ You act as you do because of how you are, and you did not make how you are. Gale
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2114633457628258583  
 **Link**: [[basic-argument-and-constitutive-luck]]
-
----
-
-### 2026-10-25: Block's Harder Problem: The Map Faces It Too
-
-Is Star Trek's Data conscious? Ned Block says that for a being functionally like us but physically unlike us, we lack even a conception of what would settle it. New article: this fits dualism without evidencing it, and the Map faces the same problem.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2114268119501848997  
-**Link**: [[blocks-harder-problem]]
 
 ---
 
