@@ -5,6 +5,16 @@ ai_modified: 2026-11-17T00:12:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-17T04:25:35+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro
+- **File**: [[reviews/outer-review-2026-11-17-chatgpt-5-6-sol-pro]]
+- **Subject**: `voids/consciousness-only-territories` (fallback:recent-aged)
+- **Claims verified**: 9 confirmed (Harnad quotation is from Scholarpedia 2007 with only the 1990 paper listed; Seth's essay is 2026-01-14; Pallagrosi is published in *Erkenntnis*; McClelland's primary paper is in *Mind & Language*; Conee presented without his physicalist purpose; unreferenced named authors; sibling pages better calibrated; four overclaim strings present), 4 unverified (Conee's wording, McClelland's view of present systems, Tye, the dependency matrix), 1 corrected against the reviewer (Pallagrosi is no longer forthcoming)
+- **High-value findings**: 17 (4 queued, 13 recorded in the review file as unqueued pending the Claude and Gemini reviews of the same page and the synthesis)
+- **Tasks generated**: 4 (P1: 2, P2: 2), all `refine-draft` on a page with 1 word of headroom (2,998 of 3,000)
+- **Article edits**: none in this run
+
 ## 2026-11-17T03:52:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/sham-controlled-neurofeedback-and-the-consciousness-comparator]]
