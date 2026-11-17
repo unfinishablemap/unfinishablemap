@@ -2,9 +2,9 @@
 title: "Valence"
 description: "The positive-negative dimension of experience—why pain feels bad and pleasure good—and the argued, contested case that valence is intrinsic phenomenal character."
 created: 2026-02-15
-modified: 2026-09-06
+modified: 2026-11-17
 human_modified:
-ai_modified: 2026-11-11T12:19:07+00:00
+ai_modified: 2026-11-17T13:50:02+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -34,7 +34,7 @@ Valence is the positive-negative dimension of conscious experience—the felt go
 
 ## What Valence Is
 
-Every conscious experience carries some degree of valence. Pain is negatively valenced; pleasure is positively valenced; emotions blend valence with other phenomenal qualities (fear's urgency differs from sadness's heaviness, though both feel bad). James Russell and Lisa Feldman Barrett's core affect theory holds that we are never affectively neutral—a background hedonic tone is always present, combining valence (pleasure-displeasure) with arousal (activation-deactivation).
+In human experience, as core affect theory describes it, some hedonic state is always present, though it may be neutral. Pain is negatively valenced; pleasure is positively valenced; emotions blend valence with other phenomenal qualities (fear's urgency differs from sadness's heaviness, though both feel bad). James Russell and Lisa Feldman Barrett's core affect theory holds that "a person is always in some state of core affect, even if neutral" (1999, p. 806), a feeling combining valence (pleasure-displeasure) with arousal (activation-deactivation). Whether consciousness without valence is possible in other kinds of minds is a question the Map leaves open; the [[sentientism#^vulcans|philosophical Vulcan]] case poses it and the [[valence-void]] follows both answers.
 
 Valence is not the same as the specific character of an experience. The painfulness of a burn and the painfulness of a betrayal share negative valence while differing in every other phenomenal respect. This generality is what makes valence fundamental: it provides a common evaluative dimension across conscious experience—the hedonic core of the broader category [[evaluative-phenomenal-character|evaluative qualia]] identifies, a functionally significant dimension of phenomenal experience (Cleeremans and Tallon-Baudry 2022)—enabling comparison between otherwise incommensurable states. Jaak Panksepp's (1998) research on basic affect systems in mammals argues that valence is phylogenetically ancient—subcortical circuits generate positive and negative affect across species, suggesting valence is a foundational feature of conscious experience rather than a cognitive overlay.
 
