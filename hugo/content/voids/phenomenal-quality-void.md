@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-10-05 18:05:55+00:00
+ai_modified: 2026-11-17 07:32:44.610646+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 coalesced_from:
@@ -20,10 +20,15 @@ description: Consciousness stamps all experience—whether of present objects or
   phenomenal quality operates identically whether there is a stimulus or not, and
   hides itself either way.
 draft: false
+embedded_videos:
+- embedded: 2026-11-17 07:32:44.610646+00:00
+  id: g-2KkycF6hA
+  source: notebooklm/0201-01-phenomenal-quality-void
+  url: https://www.youtube-nocookie.com/embed/g-2KkycF6hA
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 10:37:04+00:00
-lastmod: 2026-10-05 18:05:55+00:00
+lastmod: 2026-11-17 07:32:44.610646+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -47,6 +52,12 @@ topics:
 ---
 
 Consciousness stamps every experience with phenomenal quality — immediacy, realness, and felt character — regardless of whether anything external caused the experience. The silence after a door slams *sounds* like something. Darkness *looks* like something. The missing laptop on the café table generates a specific feeling of *gone*. These are not mere absences of experience but positive phenomenal states as vivid as any perception. The Unfinishable Map identifies a deep [void](/voids/) here: a single generative mechanism applies this phenomenal stamp to perception, absence, dreams, and hallucination alike, yet operates entirely below introspective access. We experience the products without any access to the process. This void sits deeper than [the necessary opacity](/voids/necessary-opacity/), which asks whether consciousness distorts what it represents. The phenomenal quality void asks why experience presents itself as immediate and real at all.
+
+<details class="yt-embed" data-video-id="g-2KkycF6hA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/g-2KkycF6hA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Facets of One Mechanism
 
