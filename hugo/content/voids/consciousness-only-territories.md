@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-11-17 06:34:58+00:00
+ai_modified: 2026-11-17 07:06:04+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 11:08:04+00:00
-lastmod: 2026-11-17 06:34:58+00:00
+lastmod: 2026-11-17 07:06:04+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -47,7 +47,7 @@ What Mary gains, on one reading, is *acquaintance knowledge*: direct familiarity
 
 The knowledge argument remains contested. Lewis's ability hypothesis (Mary gains abilities, not facts), Loar's phenomenal concept strategy (a new concept of an old property), and Dennett's "blue banana" objection (the scenario is incoherent) all resist it, and Jackson himself later endorsed physicalism.
 
-The Map's position: these responses face their own difficulties (examined in the Objections section below), and the felt novelty of Mary's experience points toward something genuine. If acquaintance knowledge is real, it represents a category of territory that consciousness accesses directly—the felt quality of experience. A system could possess all propositional knowledge about an experience while lacking acquaintance with what that experience is like.
+The Map's position: these responses face their own difficulties (examined in the Objections section below), and the felt novelty of Mary's experience points toward something genuine. On that reading, acquaintance knowledge represents a category of territory that consciousness accesses directly—the felt quality of experience. A system could possess all propositional knowledge about an experience while lacking acquaintance with what that experience is like.
 
 Mary's case supports at most this: added third-person description or processing power does not by itself yield first-person knowing. Physicalists can grant this gap; whether it limits computation, or Mary acquires something non-physical, is contested. The [acquaintance-void](/voids/acquaintance-void/) extends this: the gap may reach beyond individual missing experiences to entire *modes* of [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)—ways of being directly present to reality that require cognitive architecture fundamentally different from the system attempting access.
 
@@ -103,7 +103,7 @@ The asymmetry works in an interesting direction: AI might produce better *descri
 
 **The knowledge argument's persistence.** Since Jackson's 1982 paper, the physicalist responses examined below haven't settled the debate. Four decades without decisive victory is weak evidence: consistent with a genuine residue, though also with a deep conceptual confusion.
 
-**Comparative function.** If consciousness were purely epiphenomenal, lacking any territory of its own, conscious beings wouldn't discuss qualia—or rather, their discussions would be causally disconnected from the qualia themselves. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that our discussing consciousness suggests consciousness does something. Language models discuss qualia too, but their talk is learned from human reports, so the causal question moves back to the human source; whether human qualia-talk needs qualia to explain it is the [meta-problem](/topics/metaproblem-of-consciousness-under-dualism/), where the residual dispute lives.
+**Qualia-talk: the Map's reading.** The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, a chosen starting point, takes our talk of qualia to suggest, without showing, that consciousness does something. Physicalists also reject epiphenomenalism, so as evidence for the territories the talk is neutral. Language models discuss qualia too, but their talk is learned from human reports, so the causal question moves back to the human source; whether human qualia-talk needs qualia to explain it is the [meta-problem](/topics/metaproblem-of-consciousness-under-dualism/), where the residual dispute lives.
 
 **The binding question.** AI, if it lacks consciousness, achieves impressive pattern recognition without it. Yet integrative phenomena—the unity of consciousness, the binding of experience into wholes, the felt coherence of a moment—have no agreed explanation. These may constitute territory that consciousness doesn't merely *accompany* but *constitutes*.
 
@@ -115,7 +115,7 @@ If genuine consciousness-only territories exist, several implications follow.
 
 **Processing sophistication is not enough.** Functionalists agree: for them the right organisation—global availability, a self-model, introspective and report dispositions—constitutes consciousness and gives access. The Map's dualist tenet denies that organisation alone entails experience; the territories leave that bedrock disagreement unsettled.
 
-**The function of consciousness.** Consciousness may function precisely to open territories otherwise closed. This aligns with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness *does* something, and what it does includes grounding meaning, accessing experiential concepts, and sustaining the first-person perspective that certain kinds of knowledge require.
+**What consciousness constitutes.** The claim is constitutive: grounded meaning, experiential concepts and the first-person perspective come only with having experience. Whether experience also *does* something is a separate, causal claim, made on the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet and unsupported by the territories.
 
 **AI safety implications.** An AI without experience would lack first-person access to some ethically relevant territory. It could still predict suffering from third-person correlates, as physicians avoid pain they are not feeling; what it may lack is the check experience supplies. Porębski and Figura (2025) argue that AI cannot be conscious because it lacks the biological structures qualia require, and Anil Seth (2025) ties consciousness to biological life. These are biological-naturalist arguments the Map reports rather than endorses: if experience is not produced by its substrate, absent biology is weak evidence of absent experience.
 
@@ -145,13 +145,13 @@ If genuine consciousness-only territories exist, several implications follow.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** is central. If consciousness is irreducible to physical processes, then systems lacking the non-physical aspect cannot access what that aspect provides. Consciousness-only territories would exist if consciousness involves something physical description—however complete—cannot capture. The knowledge argument supports dualism because, if sound, it shows a gap between physical facts and phenomenal facts.
+**[Dualism](/tenets/#dualism)** supplies the reading, not evidence. The knowledge argument is contested, and [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) grants the acquaintance gap, so the datum does not discriminate. On its tenet the Map reads the gap as ontological; as a void the page lends that no weight, the voids register having [suspended the cumulative step](/positions/voids-as-evidence/#p-v3).
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the function question. If consciousness merely accompanies physical processes without affecting them, consciousness-only territories would be epiphenomenal curiosities—real but irrelevant. But the tenet holds that consciousness *does* something: it causally influences outcomes. Part of what it does may be grounding meaning, sustaining attention, and accessing territories that non-conscious processing cannot reach.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is not supported here. The territories are a constitutive claim about what having experience includes, and do not show that experience changes anything. The Map holds on this tenet, a chosen starting point, that consciousness causally influences outcomes; if so, what the territories hold can shape report and action.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies to the temptation to dismiss consciousness-only territories as unnecessary complications. A simpler ontology has everything accessible to information processing. But simpler isn't automatically correct—the persistence of the hard problem suggests the simple picture is inadequate.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** works defensively here. It bars dismissing the territories on the ground that an ontology without them is simpler, and gives no positive ground: the hard problem's persistence fits conceptual confusion as well as a genuine residue.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** provides a possible mechanism. If consciousness interfaces with the brain through quantum processes, some cognitive configurations might require quantum states only conscious systems sustain. This is speculative—but it connects the mechanism tenet to the territory question.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is not engaged. The tenet concerns how small the non-physical influence on physical outcomes is; nothing on this page selects a quantum mechanism or depends on one.
 
 ## Further Reading
 
