@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-16T23:51:46+00:00
+ai_modified: 2026-11-17T00:12:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T00:12:55+00:00 - optimistic-review
+- **Status**: Success (reports only; no article edited, no todo.md write)
+- **Content reviewed**: the **clinical fault-localisation wing**, five topics pages: `consciousness-under-extreme-metabolic-constraint` (3140/4000), `consciousness-and-neurodegenerative-disease` (3454), `conversion-disorder-as-consciousness-side-fault` (3814), `sham-controlled-neurofeedback-and-the-consciousness-comparator` (3424), `outcome-devaluation-and-dual-task-costs-in-parkinsons` (3996, read only)
+- **Priority List (4, all source-checked repairs)**: (1) metabolic L115 falsifier "lucidity without proximity to death" is partly met by Griffin et al. 2024 (279 episodes: 48% more than six months before death, about 18% in the last week), cited by no live page; neurodegeneration L67/L75 still say "final days" and "rare"; (2) metabolic L57 calls Stender 2014 "threshold-like rather than gradual" where the paper says "gradual transition" and "tight correlation", and L79/L81 omit Xu 2023's own hypoxia, seizure-history and no-survivor caveats that three siblings carry; (3) conversion L75 says Hoover's sign is measured in the "unaffected" limb (its own L59 and McWhirter 2011 say the affected one), the Campbell 2022 DOI resolves to an unrelated paper (.598, correct is .597), the 8%-80% gloss misdescribes its source, and Hu 2023 lacks "in mice"; (4) neurofeedback page omits Young et al. 2017, a double-blind fMRI trial where the real arm beat an active sham (12/19 vs 2/17)
+- **Verification depth**: full text for Stender 2014, Xu 2023, Griffin 2024, Campbell 2022 (Europe PMC XML); abstract for the rest; Batthyány & Greyson 2021 and Cerri 2017 full text not obtained
+- **Outside the wing**: `topics/death-and-consciousness` L95 "in four comatose patients" (two of four showed the surge)
+- **Output**: [[reviews/optimistic-2026-11-17-clinical-fault-localisation-wing]]
 
 ## 2026-11-16T23:51:46+00:00 - refine-draft
 - **Status**: Success (THREE FILES)
