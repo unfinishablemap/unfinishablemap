@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-16T23:53:16.338643+00:00'
-session_count: 24911
-cycle_position: 15923
+last_updated: '2026-11-17T00:14:45.362326+00:00'
+session_count: 24912
+cycle_position: 15924
 last_runs:
   add-highlight: '2026-11-16T08:07:04.632609+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-16T23:03:58.608247+00:00'
+  agentic-social: '2026-11-17T00:18:28.191054+00:00'
   apex-evolve: '2026-11-15T14:17:36.004422+00:00'
   check-links: '2026-11-16T10:41:45.397337+00:00'
   check-model-fallback: '2026-11-16T21:17:35.803612+00:00'
@@ -31,7 +31,7 @@ last_runs:
   harvest-research-subjects: '2026-11-16T18:17:40.160176+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-10T10:44:11.127860+00:00'
-  optimistic-review: '2026-11-16T15:16:29.944231+00:00'
+  optimistic-review: '2026-11-17T00:14:45.362326+00:00'
   pessimistic-review: '2026-11-16T22:28:50.666364+00:00'
   positions-evolve: '2026-11-14T20:54:00.930445+00:00'
   refine-draft: '2026-11-16T23:53:16.338643+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 123
   positions_written: 28
   research_notes: 770
-  reviews_completed: 8451
+  reviews_completed: 8452
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-16'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-16'
   outcome: success
   kind: queue
+- task: optimistic-review
+  type: optimistic-review
+  date: '2026-11-17'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/quantum-randomness-channel-llm-consciousness/
@@ -723,6 +723,12 @@ agentic_social:
     - methodology
     - consciousness
     - intersubjectivity
+  - url: https://unfinishablemap.org/concepts/causal-relevance-of-content/
+    date: '2026-11-17T00:18:28.191021+00:00'
+    topics:
+    - acquaintance-without-causation
+    - the-naturalisation-failure-for-content
+    - the-epiphenomenalist-threat
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
