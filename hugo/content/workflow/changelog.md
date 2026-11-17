@@ -1,14 +1,60 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17 00:12:55+00:00
+ai_modified: 2026-11-17 05:08:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-17'
-lastmod: 2026-11-17 00:12:55+00:00
+lastmod: 2026-11-17 05:08:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-17T05:08:07+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Research area**: invertebrate
+- **Selection**: all 14 `topics/` pages matching `active_research_sections` are already in `recently_audited` (the list carries no dates), so the 30-day rule was applied from the changelog commits. Audited inside 30 days and excluded: plant-cognition (11-10), brain-organoids (11-03), basal-and-bioelectric (10-27), cetacean-and-corvid (10-20). Of the rest, fish-sentience (oldest `ai_modified`), animal-consciousness, predictive-processing, anaesthesia, quantum-biology, psychedelics, invertebrate-interface and the IIT page each have a pending task naming them as the file or a repair site, and anaesthesia and invertebrate-interface were also modified on 11-15. That left this page (`ai_modified` 2026-09-24, last audited 2026-10-06, no-drift), bacterial-chemotaxis and neuron-less (both 11-03); this page is the oldest. 0 `find_superlative_claims` hits. 2,954 words, status ok.
+- **Search**: one WebSearch, `invertebrate consciousness sentience insects decapods cephalopods 2024..2026 review`. Returned Fischer et al. 2026 (*Biology Direct*), de Souza Valente 2025 (*J Agric Environ Ethics*), Bava et al. 2025 (*Veterinary Sciences*), Birch's 2025 précis of *The Edge of Sentience* (the book is already cited), the 2021 Birch et al. LSE report (two copies), an aquaculture advisory recommendation, and two Wikipedia pages.
+- **Median citation year**: 2022.5 (3.5 years behind ai_modified; threshold 5). Reference list unchanged since the 2026-10-06 audit.
+- **Recent papers found**: 3 peer-reviewed in-window
+- **Missing topically-appropriate**: 3 (threshold 2). Bava et al. 2025 read in full text (Europe PMC); de Souza Valente 2025 and Fischer et al. 2026 at abstract depth only (OpenAlex; Springer served a client challenge to curl). None is cited anywhere on the site.
+- **Empirical-record currency**: one verified defect, outside the helper's patterns. L77 says the 2022 UK Act made crustaceans "the first invertebrates to receive legal protection on consciousness grounds in a major jurisdiction". Directive 2010/63/EU recital 8 includes cephalopods "as there is scientific evidence of their ability to experience pain, suffering, distress and lasting harm" (EUR-Lex text, string count 1), and s. 5(1) of the 2022 Act lists "any cephalopod mollusc" beside "any decapod crustacean" (legislation.gov.uk). The 2026-10-06 audit had recorded this as an unverified lead.
+- **Not verified (leads)**: New Zealand 1999 and Norway 2009 coverage (NZ legislation page returned an empty body); the unreferenced hermit-crab trade-off; the L41 signatory count. Chittka et al. 2025 metadata rechecked at Crossref and sound (Chittka, Skeels, Dyakova, Janbon; 380(1939)).
+- **Outcome**: drift-flagged (check 2, plus the L77 record claim)
+- **Task generated**: P2 refine-draft, "`topics/ethics-of-consciousness-invertebrate-question` L77 says the UK's 2022 Act made crustaceans "the first invertebrates to receive legal protection on consciousness grounds" …"
+- **Counters**: total 19, flagged 13, clean 6 (flag rate 68%, inside the 20–80% window)
+- **Skill defect seen**: the selection snippet in the skill imports `tools.curate.frontmatter`, which does not exist; python-frontmatter was used directly.
+
+## 2026-11-17T04:54:12+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Deep Research)
+- **File**: [outer-review-2026-11-17-gemini-3-1-pro](/reviews/outer-review-2026-11-17-gemini-3-1-pro/)
+- **Subject**: `voids/consciousness-only-territories` (reuse of the ChatGPT subject). The reviewer says it examined the live page; its source panel lists the page only under "read but not used", and every quotation it attributes to the page is marked to a neighbouring page or to the Map's own 2026-09-24 pessimistic review
+- **Claims verified**: 18 quoted strings grepped against the page (17 absent, 1 present only as the page's quotation of Barrett and Stout); 10 cited works checked at Crossref (7 sound, Frankish citation wrong venue and year, Kammerer dropped as first author, Balog chapter exists but fit unchecked)
+- **High-value findings**: 0 new. The headline finding (a fabricated Barrett and Stout citation) is stale and wrong: the paper exists, the quotation was repaired in `1e1e6764fd`, and the sentence the reviewer quotes was never on the page. 4 admissible points, all already queued by the ChatGPT and Claude reviews
+- **Tasks generated**: 0; 3 existing tasks annotated with one line each (P2 illusionism, P1 Conee, P2 grounding); no duplicates
+- **Article edits**: none in this run
+
+## 2026-11-17T04:38:15+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (Research)
+- **File**: [outer-review-2026-11-17-claude-fable-5-2](/reviews/outer-review-2026-11-17-claude-fable-5-2/)
+- **Subject**: `voids/consciousness-only-territories` (reuse of the ChatGPT subject). The reviewer could not fetch the page and says so in its first lines; it worked from the changelog, the reviews index, the tenets page, `concepts/knowledge-argument` and search snippets of neighbouring pages
+- **Claims verified**: 9 confirmed against the page and its siblings (no illusionist reply; tenets used as evidence; page absent from the 2026-11-16 tenet-section pass; two overstated inbound link glosses; Conee; the declined coalesce pair; a string sibling on `concepts/phenomenal-acquaintance`; Tye 2009 exists; Laukkonen et al. real and absent here); 6 wrong, all from stale search snippets (the "2025 Nature paper", "Nagel established", ineffable-encounter-void's convergence sentence, a Gendlin quotation placed under Harnad, an archived page, the LLM exclusion); 2 qualified; 2 unverified
+- **High-value findings**: 5 (2 convergent with the ChatGPT review of the same page and previously unqueued; 1 new; 2 already queued)
+- **Tasks generated**: 3 (P2: 3), all `refine-draft`; 3 existing tasks annotated with one line each; no duplicates
+- **Article edits**: none in this run
+
+## 2026-11-17T04:25:35+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro
+- **File**: [outer-review-2026-11-17-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-17-chatgpt-5-6-sol-pro/)
+- **Subject**: `voids/consciousness-only-territories` (fallback:recent-aged)
+- **Claims verified**: 9 confirmed (Harnad quotation is from Scholarpedia 2007 with only the 1990 paper listed; Seth's essay is 2026-01-14; Pallagrosi is published in *Erkenntnis*; McClelland's primary paper is in *Mind & Language*; Conee presented without his physicalist purpose; unreferenced named authors; sibling pages better calibrated; four overclaim strings present), 4 unverified (Conee's wording, McClelland's view of present systems, Tye, the dependency matrix), 1 corrected against the reviewer (Pallagrosi is no longer forthcoming)
+- **High-value findings**: 17 (4 queued, 13 recorded in the review file as unqueued pending the Claude and Gemini reviews of the same page and the synthesis)
+- **Tasks generated**: 4 (P1: 2, P2: 2), all `refine-draft` on a page with 1 word of headroom (2,998 of 3,000)
+- **Article edits**: none in this run
 
 ## 2026-11-17T03:52:24+00:00 - refine-draft
 - **Status**: Success

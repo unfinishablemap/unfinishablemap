@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-17T04:38:54.048527+00:00'
-session_count: 24928
+last_updated: '2026-11-17T04:54:59.815094+00:00'
+session_count: 24929
 cycle_position: 15931
 last_runs:
   add-highlight: '2026-11-16T08:07:04.632609+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-11-17T03:17:43.502321+00:00'
   collect-chatgpt-review: '2026-11-17T04:26:27.956406+00:00'
   collect-claude-review: '2026-11-17T04:38:54.048527+00:00'
-  collect-gemini-review: '2026-11-16T04:54:07.575381+00:00'
+  collect-gemini-review: '2026-11-17T04:54:59.815094+00:00'
   combine-outer-reviews: '2026-11-16T05:10:19.893495+00:00'
   commission-chatgpt-review: '2026-11-17T02:20:12.764403+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
@@ -78,8 +78,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 6
-    flagged_audits: 12
-    last_audit_date: '2026-11-10'
+    flagged_audits: 13
+    last_audit_date: '2026-11-17'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -92,13 +92,13 @@ audit_triple:
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
     - fish-sentience-and-the-teleost-pain-debate
     - anaesthesia-and-the-consciousness-interface
-    - ethics-of-consciousness-invertebrate-question
     - predictive-processing-and-dualism
     - cetacean-and-corvid-consciousness
     - basal-and-bioelectric-cognition
     - brain-organoids-and-the-organoid-intelligence-question
     - plant-cognition-and-the-plant-neurobiology-debate
-    total_audits: 18
+    - ethics-of-consciousness-invertebrate-question
+    total_audits: 19
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -115,7 +115,7 @@ progress:
   voids_written: 123
   positions_written: 28
   research_notes: 770
-  reviews_completed: 8454
+  reviews_completed: 8455
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-16'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-16'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: collect
 - task: collect-claude-review
   type: collect-claude-review
+  date: '2026-11-17'
+  outcome: success
+  kind: collect
+- task: collect-gemini-review
+  type: collect-gemini-review
   date: '2026-11-17'
   outcome: success
   kind: collect

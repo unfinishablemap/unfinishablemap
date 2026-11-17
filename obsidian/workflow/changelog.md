@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T04:54:12+00:00
+ai_modified: 2026-11-17T05:08:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T05:08:07+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Research area**: invertebrate
+- **Selection**: all 14 `topics/` pages matching `active_research_sections` are already in `recently_audited` (the list carries no dates), so the 30-day rule was applied from the changelog commits. Audited inside 30 days and excluded: plant-cognition (11-10), brain-organoids (11-03), basal-and-bioelectric (10-27), cetacean-and-corvid (10-20). Of the rest, fish-sentience (oldest `ai_modified`), animal-consciousness, predictive-processing, anaesthesia, quantum-biology, psychedelics, invertebrate-interface and the IIT page each have a pending task naming them as the file or a repair site, and anaesthesia and invertebrate-interface were also modified on 11-15. That left this page (`ai_modified` 2026-09-24, last audited 2026-10-06, no-drift), bacterial-chemotaxis and neuron-less (both 11-03); this page is the oldest. 0 `find_superlative_claims` hits. 2,954 words, status ok.
+- **Search**: one WebSearch, `invertebrate consciousness sentience insects decapods cephalopods 2024..2026 review`. Returned Fischer et al. 2026 (*Biology Direct*), de Souza Valente 2025 (*J Agric Environ Ethics*), Bava et al. 2025 (*Veterinary Sciences*), Birch's 2025 précis of *The Edge of Sentience* (the book is already cited), the 2021 Birch et al. LSE report (two copies), an aquaculture advisory recommendation, and two Wikipedia pages.
+- **Median citation year**: 2022.5 (3.5 years behind ai_modified; threshold 5). Reference list unchanged since the 2026-10-06 audit.
+- **Recent papers found**: 3 peer-reviewed in-window
+- **Missing topically-appropriate**: 3 (threshold 2). Bava et al. 2025 read in full text (Europe PMC); de Souza Valente 2025 and Fischer et al. 2026 at abstract depth only (OpenAlex; Springer served a client challenge to curl). None is cited anywhere on the site.
+- **Empirical-record currency**: one verified defect, outside the helper's patterns. L77 says the 2022 UK Act made crustaceans "the first invertebrates to receive legal protection on consciousness grounds in a major jurisdiction". Directive 2010/63/EU recital 8 includes cephalopods "as there is scientific evidence of their ability to experience pain, suffering, distress and lasting harm" (EUR-Lex text, string count 1), and s. 5(1) of the 2022 Act lists "any cephalopod mollusc" beside "any decapod crustacean" (legislation.gov.uk). The 2026-10-06 audit had recorded this as an unverified lead.
+- **Not verified (leads)**: New Zealand 1999 and Norway 2009 coverage (NZ legislation page returned an empty body); the unreferenced hermit-crab trade-off; the L41 signatory count. Chittka et al. 2025 metadata rechecked at Crossref and sound (Chittka, Skeels, Dyakova, Janbon; 380(1939)).
+- **Outcome**: drift-flagged (check 2, plus the L77 record claim)
+- **Task generated**: P2 refine-draft, "`topics/ethics-of-consciousness-invertebrate-question` L77 says the UK's 2022 Act made crustaceans "the first invertebrates to receive legal protection on consciousness grounds" …"
+- **Counters**: total 19, flagged 13, clean 6 (flag rate 68%, inside the 20–80% window)
+- **Skill defect seen**: the selection snippet in the skill imports `tools.curate.frontmatter`, which does not exist; python-frontmatter was used directly.
 
 ## 2026-11-17T04:54:12+00:00 - outer-review
 - **Status**: Success
