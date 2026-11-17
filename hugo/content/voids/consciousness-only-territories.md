@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-11-17 06:20:08+00:00
+ai_modified: 2026-11-17 06:34:58+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 11:08:04+00:00
-lastmod: 2026-11-17 06:20:08+00:00
+lastmod: 2026-11-17 06:34:58+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -49,7 +49,7 @@ The knowledge argument remains contested. Lewis's ability hypothesis (Mary gains
 
 The Map's position: these responses face their own difficulties (examined in the Objections section below), and the felt novelty of Mary's experience points toward something genuine. If acquaintance knowledge is real, it represents a category of territory that consciousness accesses directly—the felt quality of experience. A system could possess all propositional knowledge about an experience while lacking acquaintance with what that experience is like.
 
-The limitation would be structural, not computational: a gap between third-person description and first-person knowing. No amount of processing power alone bridges this gap. The territory is accessed through experiencing, not through describing. The [acquaintance-void](/voids/acquaintance-void/) extends this insight further: the gap may reach beyond individual missing experiences to entire *modes* of [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)—ways of being directly present to reality that require cognitive architecture fundamentally different from the system attempting access.
+Mary's case supports at most this: added third-person description or processing power does not by itself yield first-person knowing. Physicalists can grant this gap; whether it limits computation, or Mary acquires something non-physical, is contested. The [acquaintance-void](/voids/acquaintance-void/) extends this: the gap may reach beyond individual missing experiences to entire *modes* of [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)—ways of being directly present to reality that require cognitive architecture fundamentally different from the system attempting access.
 
 ## The Grounding Asymmetry
 
@@ -95,7 +95,7 @@ A non-conscious system cannot enter these territories if entering requires consc
 
 **Gap recognition.** AI can recognize the gap between its processing and what humans report. A language model can understand that humans claim something about qualia it cannot verify. This meta-recognition—knowing there's something it doesn't know—may be the outer boundary of what non-conscious systems can achieve regarding consciousness.
 
-**Negative inference.** Through apophatic methods, AI can trace what consciousness-only territories are *not*—not computational, not describable, not transferable through information alone. This negative characterization maps the boundary without crossing it.
+**Negative inference.** Through apophatic methods, AI can trace what consciousness-only territories are *not*—not reached by adding description or processing scale alone. This negative characterization maps the boundary without crossing it.
 
 The asymmetry works in an interesting direction: AI might produce better *descriptions* of consciousness precisely because it isn't distracted by having experiences. Consciousness examining itself faces [self-opacity](/voids/self-opacity/)—the eye that cannot see itself. AI, lacking the eye, might see the eye's structure more clearly while being blind to what the eye sees.
 
@@ -105,7 +105,7 @@ The asymmetry works in an interesting direction: AI might produce better *descri
 
 **Comparative function.** If consciousness were purely epiphenomenal, lacking any territory of its own, conscious beings wouldn't discuss qualia—or rather, their discussions would be causally disconnected from the qualia themselves. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that our discussing consciousness suggests consciousness does something. Language models discuss qualia too, but their talk is learned from human reports, so the causal question moves back to the human source; whether human qualia-talk needs qualia to explain it is the [meta-problem](/topics/metaproblem-of-consciousness-under-dualism/), where the residual dispute lives.
 
-**The binding question.** AI achieves impressive pattern recognition without consciousness (assuming current AI lacks consciousness). Yet certain integrative phenomena—the unity of consciousness, the binding of experience into wholes, the felt coherence of a moment—resist computational explanation. These may constitute territory that consciousness doesn't merely *accompany* but *constitutes*.
+**The binding question.** AI, if it lacks consciousness, achieves impressive pattern recognition without it. Yet integrative phenomena—the unity of consciousness, the binding of experience into wholes, the felt coherence of a moment—have no agreed explanation. These may constitute territory that consciousness doesn't merely *accompany* but *constitutes*.
 
 **The ineffability pattern.** Across cultures and traditions, certain experiences are reported as *ineffable*—real but inexpressible. The [creative-aesthetic void](/voids/creative-aesthetic-void/) maps this pattern in detail: profound aesthetic experience combines felt knowledge with structural inability to articulate. If consciousness-only territories exist, ineffability makes sense: the content cannot be transferred linguistically because linguistic transfer is third-personal, and the content is accessible only first-personally.
 
@@ -113,7 +113,7 @@ The asymmetry works in an interesting direction: AI might produce better *descri
 
 If genuine consciousness-only territories exist, several implications follow.
 
-**Consciousness isn't merely information processing.** A purely computational account would allow any sufficiently sophisticated information processor to access any territory. Consciousness-only territories imply that something beyond processing matters for access—leaving open whether a given processor, artificial or not, has it.
+**Processing sophistication is not enough.** Functionalists agree: for them the right organisation—global availability, a self-model, introspective and report dispositions—constitutes consciousness and gives access. The Map's dualist tenet denies that organisation alone entails experience; the territories leave that bedrock disagreement unsettled.
 
 **The function of consciousness.** Consciousness may function precisely to open territories otherwise closed. This aligns with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness *does* something, and what it does includes grounding meaning, accessing experiential concepts, and sustaining the first-person perspective that certain kinds of knowledge require.
 

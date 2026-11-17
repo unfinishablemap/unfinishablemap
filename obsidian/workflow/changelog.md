@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T06:20:23+00:00
+ai_modified: 2026-11-17T06:35:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T06:35:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/consciousness-only-territories]]
+- **Task**: step 2 of 7 on this page (outer review 2026-11-17, "not computational" and the functionalist target). Four sentences reworded; step 1's paragraph, the tenet section, the Comparative function paragraph, the Objections section and the reference list untouched.
+- **Word count**: 2998 → 2997 by `tools.curate.length.analyze_length` (voids hard 3000, gate at `>=`). One word banked for step 7; the next task starts from 2997 and must not spend it.
+- **Changes**: (1) Acquaintance Knowledge: "The limitation would be structural, not computational ... not through describing" (three sentences) became a statement of what Mary's case supports at most (added third-person description or processing power does not by itself yield first-person knowing), followed by the split the synthesis asked for: physicalists can grant the gap; whether it limits computation, or whether Mary acquires something non-physical, is contested. Done net-zero inside the paragraph ("extends this insight further" became "extends this"). (2) Negative inference: "not computational, not describable, not transferable through information alone" became "not reached by adding description or processing scale alone". (3) What This Reveals: the heading "Consciousness isn't merely information processing" and the sentence that a computational account would let "any sufficiently sophisticated information processor" in are gone. The paragraph now says processing sophistication is not enough, that functionalists agree because their claim is that the right organisation (global availability, a self-model, introspective and report dispositions) constitutes consciousness and gives access, and that the Map's dualist tenet denies organisation alone entails experience, which the territories leave as an unsettled bedrock disagreement. The old inference from the territories to "something beyond processing" is withdrawn: a functionalist can accept consciousness-only territories. (4) The binding question: "resist computational explanation" became "have no agreed explanation"; the parenthetical on current AI was folded into the sentence and "certain" dropped to pay for it.
+- **Matched against**: `arguments/functionalism-argument` line 39 (the view: mental states defined by functional role, multiply realizable "provided the functional organization is right"), line 43 (its five arguments are not independent confirmations and share a contested modal premise) and line 197 ("functional organization, however complex, doesn't by itself entail phenomenal consciousness, so computational sophistication is not sufficient evidence of it (which falls short of impossibility)"). The page now claims no more than that, and agrees with its own one-line reply under "Any functional equivalent would suffice".
+- **Engagements**: organisational functionalist: Mode Three. The old wording answered a view nobody holds; no in-framework refutation of the real one is available from the territories alone, so the page marks the disagreement as resting on the Map's tenet and says plainly it is unsettled.
+- **Lead and description**: neither says "not computational". The lead's last sentence is already conditional ("if consciousness is more than computation"); both left as they were.
+- **Left for later steps**: step 3: "The function of consciousness" paragraph in What This Reveals also leans on the Bidirectional Interaction tenet ("consciousness *does* something") and is outside the two places step 3's brief names; the tenet section's "The knowledge argument supports dualism because, if sound" and the Occam paragraph's "A simpler ontology has everything accessible to information processing" restate the wide thesis. Step 5: the Loar response ends "The strategy either fails ... or it presupposes what it seeks to explain", stronger than `functionalism-argument` line 165, which says the dilemma "has not closed the debate" and cites Carruthers and Veillet. Step 6: Experiential concepts says AI "structurally lacking what it takes" without the "if it has no experience" condition the grounding section carries.
+- **Published**: yes
 
 ## 2026-11-17T06:20:23+00:00 - refine-draft
 - **Status**: Success
