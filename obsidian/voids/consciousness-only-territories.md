@@ -3,7 +3,7 @@ title: "Consciousness-Only Territories"
 created: 2026-01-26
 modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-11-17T07:20:17+00:00
+ai_modified: 2026-11-17T10:05:19+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenal-acquaintance]]"
   - "[[knowledge-argument]]"
+  - "[[phenomenal-concepts-strategy]]"
   - "[[symbol-grounding-problem]]"
 related_articles:
   - "[[voids]]"
@@ -127,7 +128,7 @@ If genuine consciousness-only territories exist, several implications follow.
 
 **Loar's phenomenal concept strategy: same property, new concept.** Brian Loar argues Mary acquires a new *concept* of a property she already knew physically. Phenomenal concepts and physical-functional concepts can refer to the same property via different modes of presentation. No new property is discovered—just a new way of thinking about an old one.
 
-*Response:* This strategy aims to explain the *epistemic* gap while denying any *metaphysical* gap. But as Chalmers argues in his "master argument" against the phenomenal concept strategy, the response faces a dilemma. If phenomenal concepts are characterized in purely functional terms, they're too weak to bridge the explanatory gap—functional concepts of functional properties don't generate the distinctive first-person character Mary's case displays. If phenomenal concepts are characterized in terms requiring consciousness itself, then physicalists cannot explain how such concepts arise from physical processes alone. The strategy either fails to capture what makes phenomenal knowledge distinctive, or it presupposes what it seeks to explain. Michael Tye raises a related concern: Loar's account doesn't explain *why* we find it puzzling that brain states are identical to conscious experiences—if it's just two concepts of one property, the puzzlement should dissolve, but it doesn't.
+*Response:* Chalmers's "master argument" poses [[phenomenal-concepts-strategy|a dilemma]]. If phenomenal concepts are characterized purely functionally, he argues, they're too weak to bridge the explanatory gap. If in terms requiring consciousness itself, then physicalists cannot explain how such concepts arise from physical processes alone. Michael Tye raises a related concern: Loar's account doesn't explain *why* we find it puzzling that brain states are identical to conscious experiences—if it's just two concepts of one property, the puzzlement should dissolve, but it doesn't. Against the dilemma, type-B physicalists reply that the concepts' isolation from physical ones is physically explicable and makes a gap appear. The Map presses a cost without declaring the reply defeated: the concept's from-the-inside character is the thing whose physical status is disputed. That relocates the disagreement to a question the Map answers from its dualist tenet; [[knowledge-argument|the exchange remains open]].
 
 **Dennett's blue banana objection: the thought experiment is incoherent.** Dennett argues that if Mary knew *all* physical facts about color vision, she would already know what seeing red would do to her nervous system. Show her a blue banana and claim it's red—she wouldn't be fooled. The intuition that she learns something arises only because we unconsciously imagine a Mary who knows *less* than stipulated.
 

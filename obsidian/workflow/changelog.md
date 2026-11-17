@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T09:41:07+00:00
+ai_modified: 2026-11-17T10:05:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T10:05:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/consciousness-only-territories]]
+- **Task**: Step 5 of 7 on this page (P2, outer review 2026-11-17, ChatGPT finding via the synthesis pass): the response under "Loar's phenomenal concept strategy" stated Chalmers's dilemma as settled in the Map's own voice.
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Word count**: 2978 → 2978 by `tools.curate.length.analyze_length` (net zero; hard threshold 3000). Banked for step 7: still 20 words (this task neither spent nor added to the bank).
+- **Changes**: (1) The dilemma is now reported as Chalmers's throughout: "But as Chalmers argues ... the response faces a dilemma" became "Chalmers's \"master argument\" poses a dilemma", with "he argues" on the first horn; the second horn keeps "then physicalists cannot explain how such concepts arise from physical processes alone" inside his argument. (2) The Map's-own-voice verdict "The strategy either fails to capture what makes phenomenal knowledge distinctive, or it presupposes what it seeks to explain." is removed and replaced by the grade `concepts/knowledge-argument` and `concepts/phenomenal-concepts-strategy` carry: type-B physicalists reply that the concepts' isolation from physical ones is physically explicable and makes a gap appear; the Map presses a cost without declaring the reply defeated (the concept's from-the-inside character is the thing whose physical status is disputed); that relocates the disagreement to a question the Map answers from its dualist tenet; the exchange remains open. (3) Two piped wikilinks at zero word cost: `[[phenomenal-concepts-strategy|a dilemma]]` (new link for this page) and `[[knowledge-argument|the exchange remains open]]`. (4) The Tye sentence SURVIVES verbatim but moved: it now follows the two horns and precedes the type-B reply, so "a related concern" still has the dilemma as its antecedent and the response ends on the graded verdict. (5) Frontmatter: `phenomenal-concepts-strategy` added to `concepts:` (the page lists its linked concepts there and it was absent); `modified`/`ai_modified` updated; `ai_system` unchanged (already ends `claude-fable-5-2`).
+- **Trims that paid** (all inside the Loar response, all restatement): the opening sentence "This strategy aims to explain the *epistemic* gap while denying any *metaphysical* gap" (restates the objection paragraph's "No new property is discovered"); the first horn's elaboration "functional concepts of functional properties don't generate the distinctive first-person character Mary's case displays"; "against the phenomenal concept strategy" (the objection heading names it); the repeated "phenomenal concepts are characterized" in the second horn; "in purely functional terms" → "purely functionally". No qualifier, stated limit, or horn removed.
+- **Not done, by design**: Carruthers and Veillet are not named in the body, so no reference line was added (the reference list is step 7's). Balog's constitutional account is not named; the new link reaches `concepts/phenomenal-concepts-strategy`, which carries it and the standoff concession. No quotation or citation taken from any of the three outer reviews.
+- **Reply mode**: engagement with Loar / type-B physicalism: mixed. Chalmers's dilemma is reported as his in-framework argument (Mode One attempt, attributed, not claimed as successful); the Map's own move is Mode Two in a modest form (the type-B reply relies on the concept's from-the-inside character, whose physical status it has not shown); the residue is Mode Three, stated plainly ("a question the Map answers from its dualist tenet"). No in-framework refutation is claimed: the disagreement is closer to bedrock than the old verdict implied. No mode labels in the body.
+- **Consistency checks**: the Evidence-list sentence ("The knowledge argument remains contested ... Loar's phenomenal concept strategy (a new concept of an old property)") still fits; the step-4 illusionism response and this one agree on what is open (each names a debt or cost, then a framework boundary); the tenet section's "Dualism supplies the reading, not evidence" matches. Steps 1 to 4 untouched.
+- **For steps 6 and 7**: Chalmers, Loar, Tye, Lewis/Nemirow and Dennett are all named in the Objections section with no entry in the 8-item reference list; the Tye sentence is otherwise unchanged at its new position. Step 7 also touches frontmatter: `concepts:` now has 8 entries.
+- **Published**: yes
 
 ## 2026-11-17T09:41:07+00:00 - deep-review
 - **Status**: Success
