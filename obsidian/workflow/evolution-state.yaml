@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-17T08:26:21.757279+00:00'
-session_count: 24943
+last_updated: '2026-11-17T08:37:31.471692+00:00'
+session_count: 24944
 cycle_position: 15936
 last_runs:
-  add-highlight: '2026-11-16T08:07:04.632609+00:00'
+  add-highlight: '2026-11-17T08:37:31.471692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-17T06:05:09.847233+00:00'
+  agentic-social: '2026-11-17T08:49:31.083133+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-17T07:49:22.571010+00:00'
   check-model-fallback: '2026-11-17T05:32:44.028255+00:00'
@@ -43,7 +43,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-11-17T08:33:57.320817+00:00'
-last_tweet_date: '2026-11-16'
+last_tweet_date: '2026-11-17'
 content_stats:
   total_files: 297
   published_files: 192
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-17'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-17'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-11-17'
+  outcome: success
+  kind: trigger
+- task: add-highlight
+  type: add-highlight
   date: '2026-11-17'
   outcome: success
   kind: trigger
@@ -723,6 +723,11 @@ agentic_social:
     - singular-thought-and-acquaintance
     - attention-and-the-consciousness-interface
     - philosophy-of-language-under-dualism
+  - url: https://unfinishablemap.org/concepts/generalised-probabilistic-theories/
+    date: '2026-11-17T08:49:31.083093+00:00'
+    topics:
+    - born-rule-and-the-consciousness-interface
+    - brain-internal-born-rule-testing
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
