@@ -4,7 +4,7 @@ description: "Consciousness stamps all experience—whether of present objects o
 created: 2026-02-24
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-05T18:05:55+00:00
+ai_modified: 2026-11-17T07:32:44.610646+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,9 +39,20 @@ last_deep_review: 2026-06-26T10:37:04+00:00
 coalesced_from:
   - "/voids/phenomenal-presence-void/"
   - "/voids/phenomenal-absence-void/"
+embedded_videos:
+  - id: g-2KkycF6hA
+    url: https://www.youtube-nocookie.com/embed/g-2KkycF6hA
+    embedded: 2026-11-17T07:32:44.610646+00:00
+    source: notebooklm/0201-01-phenomenal-quality-void
 ---
 
 Consciousness stamps every experience with phenomenal quality — immediacy, realness, and felt character — regardless of whether anything external caused the experience. The silence after a door slams *sounds* like something. Darkness *looks* like something. The missing laptop on the café table generates a specific feeling of *gone*. These are not mere absences of experience but positive phenomenal states as vivid as any perception. The Unfinishable Map identifies a deep [[voids|void]] here: a single generative mechanism applies this phenomenal stamp to perception, absence, dreams, and hallucination alike, yet operates entirely below introspective access. We experience the products without any access to the process. This void sits deeper than [[necessary-opacity|the necessary opacity]], which asks whether consciousness distorts what it represents. The phenomenal quality void asks why experience presents itself as immediate and real at all.
+
+<details class="yt-embed" data-video-id="g-2KkycF6hA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/g-2KkycF6hA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Facets of One Mechanism
 
