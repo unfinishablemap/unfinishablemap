@@ -4,7 +4,7 @@ description: "Forgetting is often an act, not a failure. The Map examines the fe
 created: 2026-06-20
 modified: 2026-11-17
 human_modified:
-ai_modified: 2026-11-17T09:21:05+00:00
+ai_modified: 2026-11-17T09:38:40+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-2
 ai_generated_date: 2026-06-20
 last_curated:
 last_deep_review: 2026-08-17T07:00:05+00:00
@@ -62,7 +62,7 @@ Three laboratory paradigms converge on the conclusion that an executive control 
 
 **Suppression (the think/no-think paradigm).** Anderson and Green (2001) had people learn word pairs, then presented the first word in green ("think"—retrieve the associate) or red ("no-think"—stop any retrieval from entering awareness). Repeatedly avoiding retrieval impaired later recall of the suppressed item, in their data falling below the level of pairs that were never practised at all. Forgetting here is a *consequence of an act of control*, not of disuse.
 
-**Retrieval-induced forgetting.** Anderson, Bjork, and Bjork (1994) showed that practising retrieval of *some* items in a category impairs later recall of related, unpractised items in that category—remembering one thing causes forgetting of its competitors. The impairment endured and survived controls for output interference, which the authors read as support for an inhibition account over passive competition. Retrieval practice also has a constructive side that learners tend to misjudge: in studied cases self-testing aids later retention, yet during practice the sense of learning follows ease, a limit on monitoring that delayed self-testing remedies ([[learning-void|the learning void]]).
+**Retrieval-induced forgetting.** Anderson, Bjork, and Bjork (1994) showed that practising retrieval of *some* items in a category impairs later recall of related, unpractised items in that category—remembering one thing causes forgetting of its competitors. The impairment endured and survived controls for output interference, which the authors read as support for an inhibition account over passive competition. Retrieval practice has a constructive side that learners tend to misjudge: in studied cases self-testing aids retention, yet during practice the sense of learning follows ease, a misjudgement that delay and test experience reduced in experiments ([[learning-void|the learning void]]).
 
 **Directed forgetting.** When participants are cued to "forget" just-presented material, that material is later recalled worse. In the item-method (a cue after each item), the effect is driven largely by selective rehearsal of the remembered items; in the list-method (one mid-list cue), it reflects something closer to retrieval inhibition and context-change. Neuroimaging work in the 2020s associates the "forget" instruction with downregulating the item's representation and upregulating the prior encoding context—an *unbinding* of the item from where it was stored.
 

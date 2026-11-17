@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T09:21:40+00:00
+ai_modified: 2026-11-17T09:41:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T09:41:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/learning-void]]
+- **Word count**: 2370 → 2445 (+75); hosts net-zero: concepts/anti-correlated-metacognitive-signal 3364 → 3364, topics/phenomenology-of-forgetting 2516 → 2516, topics/consciousness-and-skill-acquisition 3803 → 3803
+- **Critical issues addressed**: 6 (remedy claim separated from the delayed-judgement meta-analysis; false "university students in the United States" sample sentence, since Koriat and Bjork 2006 used University of Haifa undergraduates; Simon and Bjork figures were pre-test predictions and are now printed exactly, 8.19/19.68/11.87/10.80, read from the page image; Yan et al. seven experiments, Experiment 6 n 155 analysed, self-exemption quoted and placed in Experiment 4 with n = 40; Kornell et al. 2011 two experiments and Kirk-Johnson three studies; lead universal softened; Xie et al. attributed through Weissgerber et al.)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Source fidelity**: 28-row verification table; every quotation verbatim at source (count 1 each); no invented or mis-credited quotation found; 16 references real-correct at Crossref; no orphans either direction
+- **Hosts**: anti-correlated-metacognitive-signal ("further candidate regime" → neighbouring group-level finding); phenomenology-of-forgetting and consciousness-and-skill-acquisition ("remedies"/"corrects" brought to grade); voids index entry; research note corrected in seven places
+- **Reasoning modes**: no named-opponent replies
+- **Output**: [[reviews/deep-review-2026-11-17-learning-void]]
 
 ## 2026-11-17T09:21:40+00:00 - expand-topic
 - **Status**: Success

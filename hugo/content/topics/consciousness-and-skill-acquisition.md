@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-11-17 09:21:05+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-17 09:38:40+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/consciousness-and-skilled-performance/
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-31 07:42:18+00:00
-lastmod: 2026-11-17 09:21:05+00:00
+lastmod: 2026-11-17 09:38:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +96,7 @@ Skill acquisition follows a characteristic arc from rule-following to perception
 
 ## Conscious Scaffolding and Its Withdrawal
 
-During early learning, consciousness serves as scaffolding—holding rules in working memory, monitoring performance, detecting errors. Each function requires [genuine cognitive effort](/concepts/mental-effort/). As competence develops, consciousness *delegates*: there is a phenomenological moment where the learner deliberately releases control, trusting emerging automaticity. This [delegation](/concepts/skill-delegation/) is itself a conscious act—calibration, progressive withdrawal, and retained override capacity. The monitoring has a studied limit: during practice the learner's sense of how much will last follows ease and has in several tested cases favoured the worse method, which a later self-test corrects ([the learning void](/voids/learning-void/)); that finding concerns monitoring and is silent on whether attention does causal work.
+During early learning, consciousness serves as scaffolding—holding rules in working memory, monitoring performance, detecting errors. Each function requires [genuine cognitive effort](/concepts/mental-effort/). As competence develops, consciousness *delegates*: there is a phenomenological moment where the learner deliberately releases control, trusting emerging automaticity. This [delegation](/concepts/skill-delegation/) is itself a conscious act—calibration, progressive withdrawal, and retained override capacity. The monitoring has a studied limit: during practice the learner's sense of how much will last follows ease and has in several tested cases favoured the worse method, which later self-testing can check ([the learning void](/voids/learning-void/)); that finding concerns monitoring and is silent on whether attention does causal work.
 
 If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), the brain alone would build the procedural structures that skill acquisition evidently creates. Deliberate practice produces greater skill gains than mindless repetition—but how much practice contributes varies enormously by domain. Macnamara et al.'s (2014) meta-analysis found that deliberate practice explained 26% of variance in games but under 1% in professions. The Map's argument must be scoped accordingly: the claim is not that conscious practice is the *primary* determinant of expertise everywhere, but that wherever practice *does* contribute, the *quality* of engagement—deliberate versus passive—predicts outcomes. Even where practice explains little overall variance, the variance it does explain is quality-dependent: surgeons who practise with conscious error correction improve differently from those who merely accumulate hours. The causal argument rests on this quality-dependence, not on practice being the dominant factor.
 

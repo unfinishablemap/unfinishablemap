@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-11-17 09:21:05+00:00
-ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-17 09:38:40+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[discrimination-problem]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 16:42:25+00:00
-lastmod: 2026-11-17 09:21:05+00:00
+lastmod: 2026-11-17 09:38:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ The clearest case is alcohol's descending limb. At equal blood alcohol concentra
 
 Three further signatures, none a clean inversion, fill out the limb. Under chronic sleep restriction subjects were "largely unaware" of cumulative deficits while sleepiness ratings plateaued and performance kept falling (Van Dongen et al., 2003); the authors leave open whether this is introspective failure or genuine adaptation of the felt state, and their data cannot close it. Narcotised divers correctly judge they are impaired but misrank breathing gases at identical measured impairment (Hobbs, 2014): coarse channel open, fine channel closed. Recurrent hypoglycaemia progressively abolishes its own warning symptoms through hypoglycaemia-associated autonomic failure (Cryer, 2013), a deletion measurable in outcomes: in a tertiary-clinic sample of 189 adults with type 1 diabetes, 17.5% had impaired awareness, and those who did reported severe hypoglycaemia at 37.5% against 11.7% (Baxter et al., 2024).
 
-The deflation travels with the limb, and it is the point rather than a concession. Calibration, resolution and the validity of subjective certainty survive acute sleep loss essentially intact (Baranski et al., 1994; Sundelin et al., 2026), and 75.8% of real in-flight hypoxia episodes were self-recognised by aircrew (Cable, 2003). These regimes are conditional exactly as Rebouillat's is: the signal inverts, plateaus or drops out where the condition *transforms the gauge* rather than merely dulling what it reports on. [disappearance-voids](/voids/disappearance-voids/) carries the corrected sleep-loss treatment; [noetic-feelings-void](/voids/noetic-feelings-void/) holds the broader felt-rightness category this limb instantiates. The Map reads study schedules as a further candidate regime, a reading neither literature makes of the other: during practice the sense of learning follows ease, and under spacing, interleaving and self-testing it has favoured the method that served learners worse, while judgements delayed until the answer is out of sight are far more accurate ([the learning void](/voids/learning-void/)).
+The deflation travels with the limb, and it is the point rather than a concession. Calibration, resolution and the validity of subjective certainty survive acute sleep loss essentially intact (Baranski et al., 1994; Sundelin et al., 2026), and 75.8% of real in-flight hypoxia episodes were self-recognised by aircrew (Cable, 2003). These regimes are conditional exactly as Rebouillat's is: the signal inverts, plateaus or drops out where the condition *transforms the gauge* rather than merely dulling what it reports on. [disappearance-voids](/voids/disappearance-voids/) carries the corrected sleep-loss treatment; [noetic-feelings-void](/voids/noetic-feelings-void/) holds the broader felt-rightness category this limb instantiates. Study schedules supply a neighbouring finding and no further regime in this page's sense: under spacing, interleaving and self-testing, most learners in the tested groups rated the method that served them worse as the better one. That is a group-level comparison between methods; no inversion of confidence and accuracy within a regime has been shown ([the learning void](/voids/learning-void/)).
 
 ## Detection Asymmetry and the Discrimination Problem {#discrimination}
 
