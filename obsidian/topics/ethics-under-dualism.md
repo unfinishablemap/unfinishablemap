@@ -2,9 +2,9 @@
 title: "Ethics Under Dualism"
 description: "If consciousness is irreducible and causally efficacious, it grounds moral status — the criterion is felt valence, not consciousness as such — and can unify value, agency, normativity and moral perception, which materialist ethics fragments."
 created: 2026-01-16
-modified: 2026-10-13
+modified: 2026-11-17
 human_modified: null
-ai_modified: 2026-11-14T21:36:09+00:00
+ai_modified: 2026-11-17T13:35:33+00:00
 last_deep_review: 2026-10-06T01:44:15+00:00
 draft: false
 topics:
@@ -44,7 +44,7 @@ related_articles:
   - "[[ethics-of-possible-ai-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-05-14
 last_curated: null
 coalesced_from:
@@ -127,7 +127,7 @@ The [[hard-problem-of-consciousness|hard problem]] makes consciousness attributi
 | Mammals, birds | High | Substantial |
 | Fish, cephalopods | Moderate | Significant |
 | Insects | Low | Some |
-| Current AI | Very low | Minimal |
+| Current AI | Low (framework-internal) | Minimal |
 | Bacteria, rocks | Near-zero | None |
 
 The AI row is framework-dependent: it tracks the interface criterion stated above, and its confidence is only as strong as the framework itself.

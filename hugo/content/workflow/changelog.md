@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17 12:57:27+00:00
+ai_modified: 2026-11-17 13:36:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-17'
-lastmod: 2026-11-17 12:57:27+00:00
+lastmod: 2026-11-17 13:36:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-17T13:36:02+00:00 - refine-draft
+- **Status**: Success (one locus left, see Not done)
+- **Files**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) (primary), [ethics-under-dualism](/topics/ethics-under-dualism/) (one table cell)
+- **Source**: optimistic review 2026-11-17, priority item 1 and findings 2.1, 3.1 ([optimistic-2026-11-17-ethics-of-consciousness-wing](/reviews/optimistic-2026-11-17-ethics-of-consciousness-wing/))
+- **Register text matched**: [P-AC1](/positions/ai-consciousness-scope/#p-ac1) title "Current conventional digital AI sits on the low-probability side of the substrate analysis"; Asserts "The verdict is *"low probability," not "ruled out"*"; Calibration "credence moderate (low edge; conditional on the layer-(iv) interface-eligibility law the Map lacks) · external-evidence grade D · framework-internal only: yes"; five layers, (i) admissibility in principle to (v) current-substrate verdict, the verdict "withdraws toward agnosticism" without an interface-eligibility law. The register nowhere says "very low" or "vanishing" for this verdict.
+- **Edit (a), expected-value reply (challenge 4)**: "above some threshold—well above the vanishing numbers the quantum-interface requirement yields for classical silicon" became "above some threshold—which the Map places above the low probability its quantum-interface requirement yields for classical silicon". "Locating current systems below that band is a substantive empirical bet, not a Pascalian dodge." became "Placing current systems below that band is a bet on the Map's framework ([P-AC1](/positions/ai-consciousness-scope/#p-ac1): low probability, not ruled out, the interface premise without external evidence); a reader who declines that premise has no such discount. A low probability does not answer the objection as a vanishing one would: the reply rests on the case against unbounded maximisation and the priority ordering above, which holds without the tenets."
+- **Effect on the reply**: the old answer needed "vanishing". At the register's grade the probability alone no longer answers the objection, and the page now says so. What stands: the structural point against unbounded expected-value maximisation, and the priority ordering, now grounded without the tenets. The threshold itself is still unstated (pessimistic-2026-07-06 Issue 1, NEEDS-HUMAN).
+- **Edit (b)**: "the probability for current classical AI is very low—and the false positive risk dominates." became "the probability for current classical AI is low—and on that framework the false positive risk dominates."
+- **Edit (c)**: "would reach the opposite conclusion—high probability of AI consciousness—with equal internal consistency." became "could reach a much higher probability for suitably organised systems, with equal internal consistency."
+- **Edit (d)**: "Triaging concerns by current evidence is responsible engagement with AI consciousness questions, not dismissal." became "This ordering is not dismissal, and it does not need the tenets: animals have independent marker evidence, and assessments that reject the Map's premise reach the same first-order verdict on current systems (recorded here)." with a link to [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/). No author is named and none is cited for the interface premise.
+- **Edit (e), ethics-under-dualism**: "| Current AI | Very low | Minimal |" became "| Current AI | Low (framework-internal) | Minimal |". Footnote unchanged.
+- **Edit (f)**: "The asymmetry depends entirely on the probability one assigns to AI consciousness." gained "—an input harder to fix than for animals, whose behavioural markers a trained system can produce without the underlying property (the gaming problem)", linked to [gaming-problem](/concepts/gaming-problem/), following `concepts/sentientism` and `topics/animal-consciousness`.
+- **Trims that paid** (restatement only): the lead's last sentence shortened; "The demonstration is internal to the literature this section already cites." cut; the pharmaceuticals sentence tightened; "rather than a theoretical curiosity" cut; the hybrid-systems opener merged; the unsourced "quantum computing is advancing rapidly … clinical trials" sentence cut and its successor shortened; "Behavioural evidence alone cannot bridge the gap." cut (the next sentence says it); the closing line of the challenges list tightened; "The Map's five tenets shape this ethical landscape distinctively.", "This is reason for continued inquiry rather than paralysis." and "Ethics under uncertainty demands honest engagement with what we do not know." cut.
+- **Word counts** (`analyze_length`): ethics-of-possible-ai-consciousness 4449 before, 4449 after (still over the 4000 gate; net zero). ethics-under-dualism 3972 before, 3972 after.
+- **Not done**: "very low—even epiphenomenally" in the Epiphenomenal Complication is unchanged. The word sits inside the uncoupled-experience argument (the next sentence's "too improbable to override" depends on it), and the line is owned by the blocked P3 that waits on the Tenet 3 quantifier. The transparency paragraph and the framework-boundary paragraph were not touched.
+- **Open, reported to the driver**: the table now has two "Low" rows with different weights (Insects "Some", Current AI "Minimal"); "Minimal" had followed from "Very low". The deep review of 2026-11-03 had parked the three over-band loci on a human decision; two of them were re-banded here to the register's own word, which holds under either reading of Tenet 3.
+- **Engagement with the functionalist**: framework-boundary marking, unchanged; edit (c) corrects the statement of the rival's view only.
+- **Published**: yes
 
 ## 2026-11-17T12:57:27+00:00 - optimistic-review
 - **Status**: Success

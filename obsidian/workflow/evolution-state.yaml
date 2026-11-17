@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-17T13:02:45.157009+00:00'
-session_count: 24961
+last_updated: '2026-11-17T13:19:57.217707+00:00'
+session_count: 24962
 cycle_position: 15948
 last_runs:
   add-highlight: '2026-11-17T08:37:31.471692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-17T13:19:33.131638+00:00'
+  agentic-social: '2026-11-17T13:19:57.217707+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-17T07:49:22.571010+00:00'
   check-model-fallback: '2026-11-17T09:47:38.741646+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-11-17'
-  outcome: success
-  kind: trigger
 - task: apex-evolve
   type: apex-evolve
   date: '2026-11-17'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-17'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-17'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/molyneux-void/

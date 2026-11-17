@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-11-14 21:36:09+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-17 13:35:33+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/ethics-of-consciousness/
@@ -27,7 +27,7 @@ concepts:
 - '[[the-ownerless-suffering-argument]]'
 - '[[interactionist-dualism]]'
 created: 2026-01-16
-date: &id001 2026-10-13
+date: &id001 2026-11-17
 description: If consciousness is irreducible and causally efficacious, it grounds
   moral status — the criterion is felt valence, not consciousness as such — and can
   unify value, agency, normativity and moral perception, which materialist ethics
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-06 01:44:15+00:00
-lastmod: 2026-11-14 21:36:09+00:00
+lastmod: 2026-11-17 13:35:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +132,7 @@ The [hard problem](/topics/hard-problem-of-consciousness/) makes consciousness a
 | Mammals, birds | High | Substantial |
 | Fish, cephalopods | Moderate | Significant |
 | Insects | Low | Some |
-| Current AI | Very low | Minimal |
+| Current AI | Low (framework-internal) | Minimal |
 | Bacteria, rocks | Near-zero | None |
 
 The AI row is framework-dependent: it tracks the interface criterion stated above, and its confidence is only as strong as the framework itself.
