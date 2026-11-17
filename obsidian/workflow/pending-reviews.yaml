@@ -152,3 +152,34 @@
   subject_articles:
   - voids/consciousness-only-territories.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-17-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/5893ee19bb9f0385
+  commissioned_at: '2026-11-17T04:05:14.325415+00:00'
+  prompt_summary: Hostile-referee audit of voids/consciousness-only-territories
+  target_filename: outer-review-2026-11-17-gemini-3-1-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal. Audit one article: read the live page https://unfinishablemap.org/voids/consciousness-only-territories/\
+    \ itself (site: https://unfinishablemap.org, which argues for a non-reductive\
+    \ view of consciousness; recent edits: https://unfinishablemap.org/workflow/changelog/).\
+    \ State in your first lines exactly which URL(s) you read. Keep findings about\
+    \ this page separate from anything about other pages, quote the page's own current\
+    \ wording when criticising a passage, and give a working link or full citation\
+    \ for every source you rely on. Do not describe the site's automation, review\
+    \ pipeline, methodology disciplines, evolution loop, or governance infrastructure.\
+    \ Those are project-internal and not the subject of audit. Assess only the article's\
+    \ empirical claims, citations, counterargument coverage, and logical inferences:\
+    \ (a) empirical accuracy against 2020s literature; (b) challenged, retracted or\
+    \ failed-replication results; (c) framings that hold only if the site's own commitments\
+    \ are assumed; (d) untested counterarguments or competing frameworks. End your\
+    \ report with the at-least-five weaknesses list, each with a 2020\u20132025 source\
+    \ citation, and a one-sentence verdict on academic-submission readiness. Do not\
+    \ append summary praise."
+  subject_type: recent
+  subject_title: Audit consciousness-only-territories
+  subject_articles:
+  - voids/consciousness-only-territories.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-17-chatgpt-5-6-sol-pro.md
