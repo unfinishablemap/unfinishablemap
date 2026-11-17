@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T05:08:07+00:00
+ai_modified: 2026-11-17T05:24:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T05:24:56+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-17
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-3-1-pro). One subject, [[voids/consciousness-only-territories]]. Only ChatGPT read the page: Claude said it could not fetch it and audited from the changelog and neighbours; Gemini claims to have read it but quotes none of it (17 of 18 quoted strings absent). Claims were adjudicated before clustering; agreement is graded as one reading plus echoes, never as two readings.
+- **Clusters**: 3 convergent (no illusionist reply, 3/3; tenets used as evidence, 2/3; Conee without his physicalist purpose, 3/3), 1 weak convergence without its own task (separate the granted claim from the contested ones, carried as a Combine note), 1 weak overlap not upgraded (grounding), 1 false convergence (Claude and Gemini both say AI is excluded by fiat; false of the page), 1 inadmissible headline finding (Gemini's "fabricated" Barrett and Stout citation), remainder singletons; 4 divergences
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2 - the illusionism task and the tenets-as-evidence task). The Conee task was already P1.
+- **Tasks deduplicated**: 0 (each convergent cluster had one open task; other reviewers' versions were already "Also raised by" lines)
+- **Task minted**: 1, P2 refine-draft - the page states Chalmers's dilemma against the phenomenal concept strategy as settled while `concepts/knowledge-argument` leaves the Carruthers and Veillet exchange open (a verified ChatGPT point with no owner). Active tasks 420 → 421.
+- **Coordination**: seven tasks now edit a page at 2,998 of 3,000 words. Each carries a Coordination line (shared net-zero budget; order: Conee, "not computational", tenets, illusionism, phenomenal-concept response, grounding, references last) and a Combine note above Notes. The seven blocks were reordered in todo.md so the queue's priority-then-position pick gives that order. No Notes text was changed.
+- **For the operator (recorded in the synthesis, no tasks)**: the Claude reviewer could not fetch the commissioned page for the second night running, cause unknown (the page returned HTTP 200 to curl); Gemini's headline finding came from the Map's own public 2026-09-24 pessimistic review, which carries no resolution note; per-reviewer reliability for this cycle, with two cycles of evidence on Gemini.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-17]]
 
 ## 2026-11-17T05:08:07+00:00 - literature-drift-review
 - **Status**: Success
