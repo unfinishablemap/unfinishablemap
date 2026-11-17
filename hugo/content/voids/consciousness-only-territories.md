@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-11-17 07:06:04+00:00
+ai_modified: 2026-11-17 07:20:17+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 11:08:04+00:00
-lastmod: 2026-11-17 07:06:04+00:00
+lastmod: 2026-11-17 07:20:17+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -123,25 +123,29 @@ If genuine consciousness-only territories exist, several implications follow.
 
 ## Objections and Responses
 
-**"Maybe AI is conscious."** The asymmetry concerns non-conscious systems; whether current AI is one is open. The Map holds that current architectures probably lack *bidirectionally coupled* consciousness but leaves bare phenomenality open ([machine-question](/apex/machine-question/)); missing biology settles little on a dualist view. If some AI has experience, the asymmetry does not apply to it. The agnostic position suggested by philosopher Tom McClelland leaves the asymmetry as a working hypothesis about non-conscious systems.
+**"Maybe AI is conscious."** The asymmetry concerns non-conscious systems; whether current AI is one is open. The Map holds that current architectures probably lack *bidirectionally coupled* consciousness but leaves bare phenomenality open ([machine-question](/apex/machine-question/)); missing biology settles little on a dualist view. If some AI has experience, the asymmetry does not apply to it. The agnostic position suggested by Tom McClelland leaves the asymmetry as a working hypothesis about non-conscious systems.
 
-**Lewis's ability hypothesis: Mary gains abilities, not facts.** David Lewis and Laurence Nemirow argue that Mary doesn't learn new propositional knowledge—she acquires new abilities to recognize, imagine, and remember the experience of red. Know-how, not know-that. If so, her pre-release knowledge *was* complete; she just couldn't *do* certain things.
+**Lewis's ability hypothesis: Mary gains abilities, not facts.** David Lewis and Laurence Nemirow argue that Mary doesn't learn new propositional knowledge—she acquires new abilities to recognize, imagine, and remember the experience of red. If so, her pre-release knowledge *was* complete; she just couldn't *do* certain things.
 
-*Response:* The ability hypothesis struggles with the apparent propositional structure of what Mary learns. Her new knowledge can be embedded in conditionals: "If seeing red is like *this*, then seeing blue must be like *that*." Abilities don't embed this way. More fundamentally, the account leaves the *felt novelty* unexplained. Why does it seem like Mary learns a fact? Lewis's response—that this seeming is explained by her new abilities—appears to relocate rather than dissolve the puzzle. Even Chalmers, while granting this is the most promising physicalist response, argues that any new ability to imagine or recognize color would necessarily bring factual knowledge about those colors. The ability hypothesis may correctly identify *part* of what Mary gains while missing the phenomenal residue that motivates the original argument.
+*Response:* What Mary learns appears propositional. It embeds in conditionals: "If seeing red is like *this*, then seeing blue must be like *that*." Abilities don't embed this way. The account also leaves the *felt novelty* unexplained: Lewis's answer, that her new abilities explain the seeming, appears to relocate the puzzle. Even Chalmers, while granting this is the most promising physicalist response, argues that any new ability to imagine or recognize color would necessarily bring factual knowledge about those colors. The hypothesis may correctly identify *part* of what Mary gains while missing the phenomenal residue.
 
 **Loar's phenomenal concept strategy: same property, new concept.** Brian Loar argues Mary acquires a new *concept* of a property she already knew physically. Phenomenal concepts and physical-functional concepts can refer to the same property via different modes of presentation. No new property is discovered—just a new way of thinking about an old one.
 
 *Response:* This strategy aims to explain the *epistemic* gap while denying any *metaphysical* gap. But as Chalmers argues in his "master argument" against the phenomenal concept strategy, the response faces a dilemma. If phenomenal concepts are characterized in purely functional terms, they're too weak to bridge the explanatory gap—functional concepts of functional properties don't generate the distinctive first-person character Mary's case displays. If phenomenal concepts are characterized in terms requiring consciousness itself, then physicalists cannot explain how such concepts arise from physical processes alone. The strategy either fails to capture what makes phenomenal knowledge distinctive, or it presupposes what it seeks to explain. Michael Tye raises a related concern: Loar's account doesn't explain *why* we find it puzzling that brain states are identical to conscious experiences—if it's just two concepts of one property, the puzzlement should dissolve, but it doesn't.
 
-**Dennett's blue banana objection: the thought experiment is incoherent.** Dennett argues that if Mary truly knew *all* physical facts about color vision, she would already know what seeing red would do to her nervous system. Show her a blue banana and claim it's red—she wouldn't be fooled. She could predict her own brain states and their effects. The intuition that she learns something arises only because we unconsciously imagine a Mary who knows *less* than stipulated.
+**Dennett's blue banana objection: the thought experiment is incoherent.** Dennett argues that if Mary knew *all* physical facts about color vision, she would already know what seeing red would do to her nervous system. Show her a blue banana and claim it's red—she wouldn't be fooled. The intuition that she learns something arises only because we unconsciously imagine a Mary who knows *less* than stipulated.
 
-*Response:* This objection challenges the thought experiment's coherence rather than its conclusion. But the challenge may prove too much. Even granting that a physically omniscient Mary could predict her brain's response to red, the question remains: would she know *what it is like* to see red before seeing it? Prediction and acquaintance are different. A neurologist might predict exactly which neurons will fire when she tastes her first mango, modeling her gustatory cortex with perfect accuracy—but this doesn't seem equivalent to having tasted mango. Dennett's response works only if functional knowledge *is* experiential acquaintance—precisely what the knowledge argument disputes.
+*Response:* Even granting that a physically omniscient Mary could predict her brain's response to red, the question remains: would she know *what it is like* to see red before seeing it? Prediction and acquaintance are different. A neurologist might predict exactly which neurons will fire when she tastes her first mango—but this doesn't seem equivalent to having tasted mango. Dennett's response works only if functional knowledge *is* experiential acquaintance—precisely what the knowledge argument disputes.
 
 **"Any functional equivalent would suffice."** Perhaps functional organization, not consciousness per se, is what matters. *Response:* In the only cases we can verify, function and consciousness co-occur, so those cases cannot discriminate the hypotheses; the dispute turns on the knowledge and conceivability arguments (see [functionalism-argument](/arguments/functionalism-argument/)).
 
-**The knowledge argument assumes its conclusion.** A critic might argue that treating Mary's case as evidence for consciousness-only territories presupposes that acquaintance knowledge is real and distinct from physical knowledge—the very point at issue.
+**"The territory is an illusion."** [Illusionists](/concepts/illusionism/) hold that a territory reachable only from inside is exactly what a system with a misrepresenting self-model would report: a representation of phenomenal territory, nothing phenomenal.
 
-*Response:* This is correct: the argument is not a proof but a contested thought experiment. The Map's position treats it as *evidence*, not demonstration. The persistence of the debate since Jackson's 1982 paper suggests the intuition captures something genuine that resists easy dissolution. Jackson himself, now a physicalist, still holds the argument must be "addressed really seriously" by physicalists (2023). The Map interprets the knowledge argument through its dualist tenets: if consciousness is irreducible, then acquaintance knowledge points toward territories physical description cannot reach. But this interpretation depends on prior commitments, not neutral observation.
+*Response:* The Map rejects illusionism, which owes a mechanism it has not yet built, but past that debt the disagreement is a boundary between frameworks. Until [that dispute](/topics/metaproblem-of-consciousness-under-dualism/) is settled the territories are neutral between phenomenal realism and illusionism: on illusionism they are territories of representation, and this page maps how things seem.
+
+**The knowledge argument assumes its conclusion.** Treating Mary's case as evidence for the territories presupposes that acquaintance knowledge is real and distinct from physical knowledge—the very point at issue.
+
+*Response:* This is correct: the argument is a contested thought experiment, which the Map treats as weak *evidence*, not demonstration; the debate's persistence since 1982 is consistent with a genuine residue or a deep conceptual confusion. Jackson himself, now a physicalist, still holds the argument must be "addressed really seriously" by physicalists (2023). The Map reads it through its dualist tenets: if consciousness is irreducible, then acquaintance knowledge points toward territories physical description cannot reach. But this interpretation depends on prior commitments, not neutral observation.
 
 ## Relation to Site Perspective
 
