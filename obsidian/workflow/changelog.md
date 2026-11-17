@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T05:24:56+00:00
+ai_modified: 2026-11-17T05:57:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T05:57:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/closure-types-void]]
+- **Word count**: 1986 → 2138 (+152; prose 1808 → 2002, Further Reading 79 → 55, references 98 → 80; voids soft 2000, hard 3000)
+- **Critical issues addressed**: 8 — Kriegel quotation given a false sentence start (it is mid-sentence in his abstract, after two concessions); "Kriegel argues that mysterianism is incoherent" (he targets McGinn's closure thesis and formulates his own mysterianism); an unverifiable question-individuation paraphrase regraded to what the abstract supports; four Map constructions unlabelled as such (the "assembly" gloss, the "looked to contemporaries" history, the three-pile sorting, Kriegel's "collapse"); three overclaims regraded ("by its own definition, undetectable", "false positives outnumber false negatives", "pockets of genuine representational limit"); Tenet 1 paragraph rewritten so closure, a naturalist thesis, lends dualism no support (P-V3 suspended; MQI, Bidirectional and No Many Worlds not engaged); "partially rehabilitated" scoped to one objection; uncited Chomsky 1976 reference removed. Also "load-bearing" replaced.
+- **Medium issues addressed**: 3 (lead credits Vlerick and Boudry; AI-probe claim made conditional; their dissent on the hard-problem placement recorded)
+- **Enhancements made**: 2 (McGinn's naturalism and his own anticipation of the Kriegel objection, both quoted from the 1989 text)
+- **Quotations**: 4 of the page's attributed strings grepped at source (McGinn definition verbatim in the full Mind PDF; both Vlerick and Boudry strings verbatim in the full Dialectica PDF; Kriegel string found in the archived PhilPapers abstract only). Kriegel 2003 full text and Demircioglu 2017 not retrievable this pass (block pages); Demircioglu rests on the 2026-08-20 raw-text check.
+- **Engagements**: Kriegel — Mode One, now flagged as the Map's reading; Vlerick and Boudry — exposition, objection left standing.
+- **Output**: [[reviews/deep-review-2026-11-17-closure-types-void]]
 
 ## 2026-11-17T05:24:56+00:00 - combine-outer-reviews
 - **Status**: Success
