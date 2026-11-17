@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-11-10 01:22:46+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1
+ai_modified: 2026-11-17 06:20:08+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[qualia]]'
@@ -13,7 +13,7 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[symbol-grounding-problem]]'
 created: 2026-01-26
-date: &id001 2026-01-26
+date: &id001 2026-11-17
 description: AI-assisted exploration of knowledge territories that may be accessible
   only through phenomenal experience—what consciousness provides that non-conscious
   systems, perhaps including current AI, cannot reach.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 11:08:04+00:00
-lastmod: 2026-11-10 01:22:46+00:00
+lastmod: 2026-11-17 06:20:08+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -43,7 +43,7 @@ The [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers
 
 The [knowledge argument](/concepts/knowledge-argument/): Frank Jackson's Mary learns all physical facts about color vision while confined to a black-and-white room. She knows which wavelengths activate which cone cells, which neural pathways carry chromatic information, which brain regions process color. Her knowledge is complete by any physical measure. Then she sees red for the first time—and learns something new.
 
-What Mary gains, on the dualist reading, is *acquaintance knowledge*: direct experiential familiarity with the qualitative character of seeing red. This knowledge differs in kind from propositional knowledge (knowing-that) or ability knowledge (knowing-how). As philosopher Earl Conee argues, acquaintance knowledge involves being consciously acquainted with a phenomenal quality. No factual description substitutes for this direct encounter. The notion carries internal tension—Pallagrosi's "acquaintance trilemma" shows acquaintance cannot at once constitute consciousness, target necessarily-conscious qualities, and disclose an independent object—but the core intuition, that acquaintance delivers what descriptions cannot, survives the refinement.
+What Mary gains, on one reading, is *acquaintance knowledge*: direct familiarity with what seeing red is like, distinct from knowing-that and knowing-how. Physicalists share the category: Earl Conee proposed it to defend physicalism, since acquaintance adds no new fact. The Map contests that use: on its dualist tenet, what acquaintance presents is not physical. Pallagrosi's "acquaintance trilemma" argues acquaintance cannot jointly be knowledge of qualitative character, constitute consciousness, and target necessarily-conscious qualities, so theorists must abandon or revise one. The Map judges the intuition survives: acquaintance delivers what descriptions cannot.
 
 The knowledge argument remains contested. Lewis's ability hypothesis (Mary gains abilities, not facts), Loar's phenomenal concept strategy (a new concept of an old property), and Dennett's "blue banana" objection (the scenario is incoherent) all resist it, and Jackson himself later endorsed physicalism.
 

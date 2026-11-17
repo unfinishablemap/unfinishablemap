@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T05:57:42+00:00
+ai_modified: 2026-11-17T06:20:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T06:20:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/consciousness-only-territories]]
+- **Task**: step 1 of 7 on this page (outer review 2026-11-17, Conee and Pallagrosi attribution). One paragraph rewritten: Acquaintance Knowledge, second paragraph.
+- **Word count**: 2998 → 2998 by `tools.curate.length.analyze_length` (paragraph 90 → 90; voids hard 3000, gate at `>=`). Nothing banked, nothing spent. The next task starts from 2998.
+- **Changes**: (a) Conee no longer sits under "on the dualist reading" as if he backed it. The paragraph now says physicalists share the acquaintance category, that Conee proposed it to defend physicalism, and that the Map contests that use on its dualist tenet (matching `concepts/phenomenal-acquaintance`). "on the dualist reading" became "on one reading". (b) "the core intuition ... survives the refinement" is now marked as the Map's judgement, and the trilemma's cost is stated: theorists must abandon or revise one of the three claims. (c) The gloss of the trilemma was wrong in one limb and is corrected: the page gave "disclose an independent object" as a limb, which in the abstract is the consequence of holding the other two; the three claims are that acquaintance is knowledge of qualitative character, that it constitutes phenomenal consciousness, and that mental qualities are necessarily phenomenally conscious. "shows" became "argues". Paid for by cutting "No factual description substitutes for this direct encounter" (restated in the last sentence), the parenthetical labels on knowing-that and knowing-how, and "philosopher".
+- **Sources checked this run**: Pallagrosi abstract fetched from Springer's RIS export for DOI 10.1007/s10670-026-01081-4 (Erkenntnis, 2026-02-21, published): the three claims read in the author's words; "abandon or revise" 1 hit, "retain any two of these commitments but not all three" 1 hit. Abstract depth only; Springer and PhilArchive full text returned challenge pages, Crossref and Semantic Scholar hold no abstract. Conee 1994 not retrieved (Crossref has metadata only: AJP 72(2): 136-150, DOI 10.1080/00048409412345971). The physicalist purpose is confirmed at secondary depth in the SEP entry the page already cites ("the physicalist can defend himself against the knowledge argument", 1 hit in the raw page). No Conee wording is quoted on the page.
+- **Engagements**: Conee: Mode Three; the category is shared and the dispute over whether what acquaintance presents is physical is marked as resting on the Map's tenet, with no claim to have refuted him. Pallagrosi: exposition; the paper's cost is reported and the Map's verdict labelled as the Map's.
+- **Lead and description**: neither repeats the Conee recruitment; untouched.
+- **Left for later steps**: reference 6 still reads "*PhilArchive*" and Conee has no reference entry (step 7); `concepts/epistemology` reference 9 still says "(forthcoming)"; `research/voids-consciousness-only-territories-2026-01-26` gives the three claims correctly, so the wrong limb entered at drafting.
+- **Published**: yes
 
 ## 2026-11-17T05:57:42+00:00 - deep-review
 - **Status**: Success
