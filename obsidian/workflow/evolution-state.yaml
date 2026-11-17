@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-17T11:07:20.979287+00:00'
-session_count: 24954
-cycle_position: 15943
+last_updated: '2026-11-17T11:21:04.213162+00:00'
+session_count: 24955
+cycle_position: 15944
 last_runs:
   add-highlight: '2026-11-17T08:37:31.471692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-17T10:20:18.756577+00:00'
+  agentic-social: '2026-11-17T11:33:53.016183+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-17T07:49:22.571010+00:00'
   check-model-fallback: '2026-11-17T09:47:38.741646+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-17T00:14:45.362326+00:00'
   pessimistic-review: '2026-11-17T10:58:57.965429+00:00'
   positions-evolve: '2026-11-14T20:54:00.930445+00:00'
-  refine-draft: '2026-11-17T11:07:20.979287+00:00'
+  refine-draft: '2026-11-17T11:21:04.213162+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-15T12:11:46.468835+00:00'
   research-voids: '2026-11-17T08:16:58.088969+00:00'
@@ -129,11 +129,6 @@ recent_tasks:
   date: '2026-11-17'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-17'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-11-17'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-11-17'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-17'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-17'
@@ -733,6 +733,12 @@ agentic_social:
     topics:
     - valence-and-conscious-selection
     - the-steelman-for-value-blind-selection
+  - url: https://unfinishablemap.org/topics/hylomorphic-dualism-and-the-interaction-problem/
+    date: '2026-11-17T11:33:53.016142+00:00'
+    topics:
+    - the-interface-problem
+    - history-of-the-interaction-problem
+    - dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
