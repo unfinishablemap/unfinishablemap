@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-10-23 11:10:58+00:00
+ai_modified: 2026-11-17 12:00:58+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 00:58:00+00:00
-lastmod: 2026-10-23 11:10:58+00:00
+lastmod: 2026-11-17 12:00:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,9 +34,9 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Functional seeming is Keith Frankish's proposal that when we say consciousness "seems" phenomenal, the seeming itself is entirely functional—a matter of having the right beliefs, dispositions, and reactions—rather than involving any phenomenal experience. This is the central defensive move of [illusionism](/concepts/illusionism/): it blocks the otherwise devastating regress objection by denying that an illusion of consciousness requires consciousness.
+Functional seeming is Keith Frankish's proposal that when we say consciousness "seems" phenomenal, the seeming itself is entirely functional—a matter of having the right beliefs, dispositions, and reactions—rather than involving any phenomenal experience. This is the central defensive move of [illusionism](/concepts/illusionism/): it answers the regress objection by denying that an illusion of consciousness requires consciousness.
 
-The Unfinishable Map rejects functional seeming because it conflates what experience *does* with what experience *is*. If functional roles exhausted the content of seeming, a [philosophical zombie](/concepts/philosophical-zombies/) would "seem conscious" in every sense that matters—and the distinction between genuine experience and its absence would collapse into meaninglessness.
+The Unfinishable Map rejects functional seeming because, on its view, the move conflates what experience *does* with what experience *is*. If functional roles exhausted the content of seeming, a [philosophical zombie](/concepts/philosophical-zombies/) would "seem conscious" in every sense that matters—and the distinction between genuine experience and its absence would collapse into meaninglessness.
 
 ## The Regress Problem Functional Seeming Addresses
 

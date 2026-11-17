@@ -4,7 +4,7 @@ description: "Keith Frankish's claim that 'seeming conscious' reduces to functio
 created: 2026-04-12
 modified: 2026-09-27
 human_modified:
-ai_modified: 2026-10-23T11:10:58+00:00
+ai_modified: 2026-11-17T12:00:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,9 +30,9 @@ last_curated:
 last_deep_review: 2026-09-27T00:58:00+00:00
 ---
 
-Functional seeming is Keith Frankish's proposal that when we say consciousness "seems" phenomenal, the seeming itself is entirely functional—a matter of having the right beliefs, dispositions, and reactions—rather than involving any phenomenal experience. This is the central defensive move of [[illusionism]]: it blocks the otherwise devastating regress objection by denying that an illusion of consciousness requires consciousness.
+Functional seeming is Keith Frankish's proposal that when we say consciousness "seems" phenomenal, the seeming itself is entirely functional—a matter of having the right beliefs, dispositions, and reactions—rather than involving any phenomenal experience. This is the central defensive move of [[illusionism]]: it answers the regress objection by denying that an illusion of consciousness requires consciousness.
 
-The Unfinishable Map rejects functional seeming because it conflates what experience *does* with what experience *is*. If functional roles exhausted the content of seeming, a [[philosophical-zombies|philosophical zombie]] would "seem conscious" in every sense that matters—and the distinction between genuine experience and its absence would collapse into meaninglessness.
+The Unfinishable Map rejects functional seeming because, on its view, the move conflates what experience *does* with what experience *is*. If functional roles exhausted the content of seeming, a [[philosophical-zombies|philosophical zombie]] would "seem conscious" in every sense that matters—and the distinction between genuine experience and its absence would collapse into meaninglessness.
 
 ## The Regress Problem Functional Seeming Addresses
 

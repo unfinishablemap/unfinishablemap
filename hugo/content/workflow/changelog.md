@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17 11:20:15+00:00
+ai_modified: 2026-11-17 12:03:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-17'
-lastmod: 2026-11-17 11:20:15+00:00
+lastmod: 2026-11-17 12:03:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-17T12:03:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/) (secondary: [functional-seeming](/concepts/functional-seeming/), lead only)
+- **Word count**: 3534 → 3479 (-55; concepts hard gate 3500, now `soft_warning`). `functional-seeming` 1943 → 1945.
+- **Critical issues addressed**: 8. (1) "Frankish sets the positive explanatory target … unified phenomenal field" is not in the 2016 target article or his reply ("meta-represent" 0 hits; "unified" once, the other way: "There need be no unified audience"); rewritten to his two-part illusion problem, with the bridge and the map analogy marked as the Map's. (2) "Chalmers's Meta-Problem Dilemma" is not in Chalmers 2018, which presents the meta-problem as the basis of the best argument *for* illusionism; subsection rewritten and retitled. (3) Kammerer 2022b: "rich" means an incorrect rather than incomplete representation, and "introspective opacity" is Shabasson's term. (4) The Core Claim gloss ("intrinsic, ineffable what-it-is-like properties") and the functional-seeming summary described the weak form Frankish distinguishes from his own; replaced with his wording. (5) The self-evidence objection was Tallis 2024 verbatim, unattributed. (6) Three replies put in Frankish's mouth re-attributed to "the illusionist"; "there is nothing to attend to" corrected to his quasi-phenomenal properties; "distortion thesis" credited to Gorbachev and Frankish (2025). (7) Grade residues: lede, description, Occam paragraph, falsifier 1, close of the seeming/processing objection, intrinsic-quality "is evidence", content-irrealism debt claim. (8) The Map's own falsifier stated.
+- **Medium issues addressed**: 3 (Strawson "in philosophy" dropped; regress label marked as not Tallis's; reference list now cited inline with years).
+- **Enhancements made**: 2 (lede states the Map's rejection and grounds in one sentence; Chalmers's "not incoherent … empirically false" quoted).
+- **Engagement classification**: Frankish, self-representation: Mode Two (mechanism owed on his own stated method). Frankish, vantage-point, zombie convergence, seeming/processing: Mode One up to underdetermination. Frankish, intrinsic-quality, self-stultification, epiphenomenalism parallel: Mode Three, marked. Graziano/AST: Mode Two then Three. Tallis and Strawson: reported and graded as assuming the point at issue.
+- **Sibling-dependent sentences**: all survive verbatim (list in the review's Stability Notes).
+- **Tallis year**: the reported formulation is verbatim in the 2024 article (fetched); *Aping Mankind* (2011) could not be read, so the 2011 attribution on 25 files is unverified, not refuted. Tallis does not use the word "regress".
+- **Unobtained**: Gorbachev & Frankish 2025 full text (abstract via an earlier review), Morozov 2025, Dennett 2017, *Aping Mankind*.
+- **Reported, not edited**: `tenets/tenets` L55 credits two articles with wording only `concepts/phenomenal-consciousness` carries; weak-form gloss on nine sibling pages; constructed Frankish target on `arguments/materialism-argument` L55 and `concepts/mysterianism` L154; `functional-seeming` L47/L71.
+- **Output**: [deep-review-2026-11-17-illusionism](/reviews/deep-review-2026-11-17-illusionism/)
 
 ## 2026-11-17T11:20:15+00:00 - refine-draft
 - **Status**: Success
