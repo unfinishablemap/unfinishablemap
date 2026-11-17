@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-17T13:00:07.805062+00:00'
-session_count: 24960
+last_updated: '2026-11-17T13:02:45.157009+00:00'
+session_count: 24961
 cycle_position: 15948
 last_runs:
   add-highlight: '2026-11-17T08:37:31.471692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-17T11:34:31.568950+00:00'
+  agentic-social: '2026-11-17T13:19:33.131638+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-17T07:49:22.571010+00:00'
   check-model-fallback: '2026-11-17T09:47:38.741646+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-17T12:05:46.115651+00:00'
   embed-videos: '2026-11-17T07:33:16.203901+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
-  harvest-research-subjects: '2026-11-17T06:47:59.858517+00:00'
+  harvest-research-subjects: '2026-11-17T13:02:45.157009+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-17T05:08:57.426759+00:00'
   optimistic-review: '2026-11-17T13:00:07.805062+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-11-17'
-  outcome: success
-  kind: trigger
 - task: research-voids
   type: research-voids
   date: '2026-11-17'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-17'
   outcome: success
   kind: cycle
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-17'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/where-the-substance-commitment-enters/
-    date: '2026-11-10T11:34:08.412404+00:00'
-    topics:
-    - free-will
-    - moral-implications-of-genuine-agency
   - url: https://unfinishablemap.org/voids/molyneux-void/
     date: '2026-11-10T14:23:08.350448+00:00'
     topics:
@@ -739,6 +734,11 @@ agentic_social:
     - the-interface-problem
     - history-of-the-interaction-problem
     - dualism
+  - url: https://unfinishablemap.org/concepts/carrolls-regress/
+    date: '2026-11-17T13:19:33.131597+00:00'
+    topics:
+    - philosophy-of-mind
+    - argument-from-reason
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
