@@ -1,15 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T12:23:09+00:00
+ai_modified: 2026-11-17T12:57:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T12:57:27+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: driver-selected ethics-of-consciousness / moral-status wing, 43 pages listed with word counts and `ai_modified`. Read in full: `topics/ethics-of-consciousness-invertebrate-question`, `topics/ethics-of-possible-ai-consciousness`, `apex/moral-status-of-edge-cases`; 15 more in part (sections carrying the moral argument, or register entries); the rest by phrase search (coverage column in the report)
+- **Top finding**: `topics/ethics-of-possible-ai-consciousness` L138 answers the expected-value objection with "vanishing numbers" and "a substantive empirical bet", above the page's own L44/L90 ("philosophical rather than empirically grounded") and above P-AC1 (low probability, not ruled out; moderate at the low edge; grade D). Same over-statement at L56, L112 and the `ethics-under-dualism` table row "Current AI | Very low | Minimal". L94 credits functionalists with "high probability" against the page's own L44
+- **Consistency findings**: error asymmetry stated without the probability term on the animal pages and as "depends entirely on the probability" on the AI page; "no substrate barrier" (animals) against a substrate verdict (machines) with the layer distinction stated nowhere outside the register; `concepts/valence` L37 and `voids/valence-void` L43 say every conscious experience is valenced while four pages treat valence-free consciousness as open; `concepts/experiential-alignment` L202 lacks the "axiology fixes no exchange rate" concession its sibling carries
+- **Priority list (4, for the driver to mint)**: (1) refine-draft, AI ethics page plus the EUD table cell, net zero on a page 450 over its gate; (2) refine-draft, `concepts/valence` + `voids/valence-void`; (3) apex-evolve, `apex/moral-status-of-edge-cases` two-layer sentence; (4) refine-draft, `concepts/experiential-alignment` + `concepts/negative-valence-asymmetry-and-the-selection-weighting-function`
+- **Not done**: no article edited, `todo.md` not edited, no outside source fetched, nothing committed
+- **Output**: [[reviews/optimistic-2026-11-17-ethics-of-consciousness-wing]]
 
 ## 2026-11-17 12:32 UTC - refine-draft (driver, inline)
 - **Status**: Success
 - **Files**: [[consciousness-and-social-understanding]], [[problem-of-other-minds]]
 - **Source**: outer review 2026-11-17 (Claude Fable 5.2), inbound link glosses to [[consciousness-only-territories]]
-- **Change**: two Further Reading glosses. "Experiential regions permanently beyond external access" and "Regions of experience structurally beyond external access" both became "Knowledge that may be reachable only by having the experience". The target's lead is conditional ("If such territories exist") and concerns systems lacking experience, not one conscious mind's access to another; "permanently" and "structurally" asserted a modal strength the page does not, and on the second host the gloss sat beside that page's own statement that privacy "may be contingent rather than constitutive". Word counts: 3,910 to 3,912 and 3,469 to 3,471. The target page was not edited.
+- **Change**: two Further Reading glosses. "Experiential regions permanently beyond external access" and "Regions of experience structurally beyond external access" both became "Knowledge that may be reachable only by having the experience". The target's lead is conditional ("If such territories exist") and concerns systems lacking experience, not one conscious mind's access to another; "permanently" and "structurally" asserted a modal strength the page does not, and on the second host the gloss sat beside that page's own statement that privacy "may be contingent rather than constitutive". Word counts after: 3,914 (hard gate 4,000) and 3,472 (hard gate 3,500), each two or three words above the mint-time figures. The target page was not edited.
 
 ## 2026-11-17T12:23:09+00:00 - refine-draft
 - **Status**: Success
