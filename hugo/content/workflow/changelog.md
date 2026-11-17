@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17 08:14:52+00:00
+ai_modified: 2026-11-17 08:23:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-17'
-lastmod: 2026-11-17 08:14:52+00:00
+lastmod: 2026-11-17 08:23:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-17T08:23:45+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Changed sources**: 8
+- **Word count**: 4912 → 4911
+- **Review**: [apex-evolve-2026-11-17-taxonomy-of-voids](/reviews/apex-evolve-2026-11-17-taxonomy-of-voids/)
 
 ## 2026-11-17T08:14:52+00:00 - research-voids
 - **Status**: Success
