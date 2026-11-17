@@ -1,9 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17T10:36:35+00:00
+ai_modified: 2026-11-17T10:56:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-17T10:56:42+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Cross-page sweep (topics, concepts, voids, apex, positions, tenets) of the grade at which the Map states its reply to illusionism, against the hub `concepts/illusionism`. 262 pages mention illusionism in body prose; 185 answer it. 128 at the hub's grade; 54 state a reply above it (28 unqualified, 9 internally inconsistent, 17 mild or label-level), including `concepts/consciousness`, `concepts/materialism` and `topics/hard-problem-of-consciousness`; 0 over-concede; 3 mis-state the view; 10 attribution leads. Tenets and positions register are at or below the hub's grade. Reports-only: no article or todo edit; priority list of four multi-file repair tasks (19 files) with OLD/NEW strings and word-count headroom is in the review.
+- **Output**: [[reviews/pessimistic-2026-11-17-illusionism-reply-grade]]
 
 ## 2026-11-17T10:36:35+00:00 - refine-draft
 - **Status**: Success
