@@ -5,6 +5,19 @@ ai_modified: 2026-11-17T00:12:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-17T02:36:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
+- **Review file**: `reviews/optimistic-2026-11-17-clinical-fault-localisation-wing.md`, Priority List item 1 (third page; siblings repaired 01:05Z)
+- **Original score**: n/a (targeted source-fidelity repair; `scripts/curate.py` is absent)
+- **Source re-fetched**: Griffin et al. 2024 full text (Europe PMC PMC11032560), tags stripped; grep counts: `151` 5, `279` 4, `17.9` 1, `34.1` 2, `48.0` 2, `77.3%` 1, `Type 4 (12%)` 2, `not all signal impending death` 1, `was not designed to estimate the prevalence` 1, `good day and bad days` 1, `up to two of the most memorable` 2, `Fourth, participants were drawn from an Alzheimer's disease advocacy group` 1.
+- **Changes**: installed the Griffin 2024 timing result with its limits under Terminological Distinction (replacing the sentence that treated proximity to death as possibly causal); lead now separates paradoxical from terminal lucidity and says the severity constraint holds at any timing while the filter account of the return covers only end-of-life episodes; Batthyany and Greyson timing marked as belonging to that sample; filter prediction 2 and the "collapses near death" sentence scoped to end-of-life episodes; level 3 of the seven-level list names each survey; Dualism tenet paragraph "reads this as evidence that" lowered to "compatible with"; Griffin added as reference 18.
+- **Paid for by**: two Map self-citation reference entries cited nowhere in the body (old 16, 17; renumbered, no in-text numerals exist); six Further Reading glosses (links kept); restatements in the lead, Logical Structure, What Filter Theory Predicts, the seven-level list, Convergent Evidence, Research Gaps, Evidential Trajectory and the Dualism tenet paragraph. No qualifier, stated limit or objection-answer removed.
+- **Length**: 3940 -> 3957 by `analyze_length` (hard gate 4000).
+- **Not done**: the page has no falsifier list, so no "partly met" entry was added; the Terminological Distinction paragraph states the consequence instead. The "2-24 hours" median-survival figure (pre-existing) was not re-verified this run.
+- **Reasoning mode**: no named-opponent reply edited.
+- **Published**: yes
+
 ## 2026-11-17T01:05:37+00:00 - refine-draft
 - **Status**: Success (TWO FILES)
 - **Files**: [[topics/consciousness-under-extreme-metabolic-constraint]], [[topics/consciousness-and-neurodegenerative-disease]]
