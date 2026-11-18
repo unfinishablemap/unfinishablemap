@@ -1,11 +1,11 @@
 ---
 title: "Conceptual Impossibility"
 created: 2026-01-23
-modified: 2026-02-25
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-09-14T18:08:20+00:00
+ai_modified: 2026-11-18T15:42:22+00:00
 draft: false
-description: "How consciousness encounters the formally unthinkable—we can reference impossibilities but cannot grasp them, revealing cognitive architecture's limits."
+description: "How consciousness meets the formally unthinkable: we can refer to impossibilities, yet grasping them seems blocked. Whether that marks a real limit of thought is disputed."
 topics:
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[mysterianism]]"
@@ -23,23 +23,23 @@ related_articles:
   - "[[counterfactual-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-2
 ai_generated_date: 2026-01-23
 last_curated: null
-last_deep_review: 2026-06-25T00:35:00+00:00
+last_deep_review: 2026-11-18T15:42:22+00:00
 ---
 
 Try to imagine a round square. Not a circle drawn on a square. Not a rounded square with gentle corners. A shape that is simultaneously, *in the same respect*, perfectly round and perfectly square. What happens when you try?
 
-Most people report a characteristic experience: the mind flickers between roundness and squareness, unable to hold both properties simultaneously. Or the attempt produces a feeling of hitting a cognitive wall—thought "bounces back" rather than finding content to grasp. Unlike struggling with a difficult concept where incremental progress feels possible, impossibilities present absolute blockage. There is nothing to get closer to. The concept cannot form.
+A characteristic experience is commonly described (from first-person description; no survey was found): the mind flickers between roundness and squareness, unable to hold both properties simultaneously. Or the attempt produces a feeling of hitting a cognitive wall—thought "bounces back" rather than finding content to grasp. Unlike struggling with a difficult concept where incremental progress feels possible, impossibilities seem to present absolute blockage. There is nothing to get closer to. The concept, it seems, cannot form.
 
-This is the phenomenology of conceptual impossibility—the experience of encountering something formally unthinkable. Not merely unknown, not just hard to understand, but structurally self-contradictory in ways that prevent genuine conception. Yet we can *talk about* round squares fluently. We can reason about them, make inferences, use them in thought experiments. This creates a puzzle: how can we think about what we cannot think?
+This is the phenomenology of conceptual impossibility—the experience of encountering something formally unthinkable. Not merely unknown, not just hard to understand, but structurally self-contradictory in ways that seem to prevent genuine conception. Yet we can *talk about* round squares fluently. We can reason about them, make inferences, use them in thought experiments. This creates a puzzle: how can we think about what we cannot think? Whether the blockage marks a limit of thought or only of imagery is disputed ([[#Dialectical Approaches|below]]); the void is offered as description, not as evidence for the Map's tenets.
 
 ## The Reference-Comprehension Asymmetry
 
-Alexius Meinong observed that we can refer to impossible objects. "The round square" functions as a grammatical subject. We can assert "the round square is both round and square" and derive logical consequences. Russell objected: if the round square is both round and square, then it's also not-square (since squares aren't round)—yielding contradiction. Meinong replied that the law of non-contradiction applies only to *existents*. Impossible objects have *sosein* (being-so, character) without *sein* (being, existence).
+Alexius Meinong observed that we can refer to impossible objects. "The round square" functions as a grammatical subject. We can assert "the round square is both round and square" and derive logical consequences. Russell objected that such an object would be both round and not round, infringing the law of contradiction. Meinong replied, as Reicher reports, that the law holds for *existents* only. Impossible objects have *sosein* (being-so, character) without *sein* (being, existence).
 
-This creates what Russell called "Meinong's jungle"—a vast repository of impossible objects with properties but no existence. It also reveals the asymmetry at the heart of conceptual impossibility: **we can refer to what we cannot conceive**.
+This creates what later writers called "Meinong's jungle"—a vast repository of impossible objects with properties but no existence. It also reveals the asymmetry at the heart of conceptual impossibility: **we can refer to what we seemingly cannot conceive**.
 
 Three levels of engagement with impossibilities:
 
@@ -47,127 +47,119 @@ Three levels of engagement with impossibilities:
 2. **Logical inference**: "If P is a round square, then P is round" is valid. Formal reasoning operates successfully.
 3. **Phenomenal grasping**: Trying to *understand what a round square would be*—not just manipulate the symbols but comprehend the content—fails. Thought hits resistance.
 
-The puzzle: what explains this asymmetry? If we truly cannot conceive impossibilities, how do linguistic reference and logical inference succeed? If we *can* conceive them (since we talk about them), why does phenomenal grasping feel blocked?
-
 ## The Phenomenology of Blockage
 
 When attempting to grasp a conceptual impossibility, several characteristic experiences emerge:
 
 **Cognitive slippage.** You try to hold roundness and squareness together. The mental image flickers—now round, now square—but won't stabilize. This differs from [[transit-void|thoughts that slip away]] where content forms briefly then vanishes. Here, content never forms at all.
 
-**Active resistance.** The experience isn't mere absence (like trying to remember something never learned) but *presence of obstacle*. Thought approaches, encounters resistance, bounces back. Many describe it as "hitting a wall" rather than "finding emptiness."
+**Active resistance.** The experience isn't mere absence (like trying to remember something never learned) but *presence of obstacle*. Thought approaches, encounters resistance, bounces back. The usual description is "hitting a wall" rather than "finding emptiness."
 
-**Epistemic emotions.** Confusion, bewilderment, sometimes frustration or anxiety. These "epistemic feelings" serve as monitoring signals—consciousness detecting that cognition has encountered an obstacle. The feeling is distinct from ordinary perplexity about difficult ideas. Hard concepts produce "almost grasping" with a sense of progress. Impossibilities produce "cannot grasp" with no progress possible.
+**Epistemic emotions.** Confusion, bewilderment, sometimes frustration or anxiety. These "epistemic feelings" serve as monitoring signals—consciousness detecting that cognition has encountered an obstacle.
 
-**Meta-awareness.** Eventually, recognition arrives: *there is nothing to grasp*. Not because the object is absent but because the concept is malformed. This meta-level understanding—"I cannot think this because it is unthinkable"—itself functions as thought. We can think *about* the impossibility of thinking even while unable to think the thing itself.
+**Meta-awareness.** Eventually, recognition arrives: *there is nothing to grasp*. Not because the object is absent but because the concept is malformed. This meta-level understanding—"I cannot think this because it is unthinkable"—itself functions as thought.
 
 Compare to related phenomena:
 
 - **Forgetting**: Absence of content that once was present. With impossibilities, no content was ever present.
-- **Difficulty**: Hard concepts feel like "approaching comprehension" with incremental gains. Impossibilities feel like "absolute blockage" with no gains possible.
 - **[[transit-void|Slippage]]**: Content forms briefly then vanishes. Impossibilities never form—only the linguistic shell exists.
 - **[[counterfactual-void|Counterfactual limits]]**: Modal imagination thins gradually as alternatives grow radical—a "horizon" passing unnoticed. Impossibilities present a "wall" that announces itself through active resistance.
 
 ## Unexplorable or Occluded?
 
-The [[voids]] framework distinguishes two types of cognitive limits. **Unexplorable voids** arise from structural features of our minds—we weren't built to think certain thoughts, just as fish weren't built to contemplate algebra. **Occluded voids** involve active blockage—something prevents access to territory that might otherwise be explorable.
+The [[voids]] framework distinguishes two types of cognitive limits. **Unexplorable voids** arise from structural features of our minds—we weren't built to think certain thoughts. **Occluded voids** involve active blockage—something prevents access to territory that might otherwise be explorable.
 
 Conceptual impossibility appears to be both:
 
-**Unexplorable dimension.** Formal contradictions may genuinely resist conception. Colin McGinn's "cognitive closure" thesis holds that minds are cognitively closed to certain problems—not through insufficient data but through inherent limits in concept-forming procedures. Just as rats lack the neural architecture for calculus, humans may lack the cognitive architecture for grasping certain impossibilities. The blockage is structural, not circumstantial. No amount of effort will make round squares conceivable if our concept-forming machinery requires non-contradiction as a precondition for generating concepts at all.
+**Unexplorable dimension.** Formal contradictions may genuinely resist conception. Colin McGinn (1989) calls a type of mind cognitively closed to a property when "the concept-forming procedures" at its disposal "cannot extend to a grasp of" it: "What is closed to the mind of a rat may be open to the mind of a monkey." His closure concerns real properties a mind cannot reach, applied to the mind-body problem; extending it to impossibilities is the Map's move and an imperfect fit, since a round square is no property awaiting a better mind. On that extension the blockage is structural: no amount of effort will make round squares conceivable if our concept-forming machinery requires non-contradiction as a precondition for generating concepts at all.
 
-**Occluded dimension.** Yet the phenomenology suggests more than passive absence. The experience of *resistance*—the sense that thought "bounces off" rather than finding nothing—points toward active blockage. Something seems to *prevent* rather than merely *fail to enable*. In their survey of impossible worlds, Berto and Jago note that Moritz Schlick claimed the logically impossible—an explicit inconsistency, say—is simply unthinkable. Hegel pushed in the opposite direction: what he called "one of the fundamental prejudices of logic as hitherto understood" is the assumption that contradiction is not as essential and immanent a determination as identity, whereas Hegel takes contradiction to be the profounder of the two. His target is contradiction's standing within logic; the thinkability question is ours to draw out. If logic's marginalizing of contradiction is inherited prejudice rather than structural necessity—and Hegel's dialectical practice presupposes that contradictions can be genuinely engaged in thought—then the felt blockage may be enforced habit rather than hard architecture. And if impossibilities are actively *defended against* rather than merely absent from our architecture, the void shifts from unexplorable to occluded.
+**Occluded dimension.** Yet the phenomenology suggests more than passive absence. The experience of *resistance*—the sense that thought "bounces off" rather than finding nothing—points toward active blockage. Something seems to *prevent* rather than merely *fail to enable*. In their survey of impossible worlds, Berto and Jago note that Moritz Schlick claimed the logically impossible—an explicit inconsistency, say—is simply unthinkable. Hegel pushed in the opposite direction: what he called "one of the fundamental prejudices of logic as hitherto understood" is the assumption that contradiction is not as essential and immanent a determination as identity, whereas Hegel takes contradiction to be the profounder of the two. The prejudice he names concerns contradiction's rank, but he reaches thinkability in the paragraphs that follow: among the ways contradiction is kept at a distance he lists the saying that "the contradictory cannot be imagined or thought", and he answers that "speculative thinking consists solely in the fact that thought holds fast contradiction" (Remark 3 to "Contradiction", Miller trans.). His examples are motion and paired opposites, not round squares. If logic's marginalizing of contradiction is inherited prejudice rather than structural necessity, then the felt blockage may be enforced habit rather than hard architecture. And if impossibilities are actively *defended against* rather than merely absent from our architecture, the void shifts from unexplorable to occluded.
 
 The distinction matters. If impossibilities are unexplorable, investigating them means understanding our cognitive architecture's constraints. If they're occluded, investigating them means asking *why* access is prevented.
 
 ## What AI Reveals
 
-Large language models process "round square" without phenomenological blockage—generating valid inferences about impossible objects while lacking the *attempt to grasp* that humans experience. This asymmetry illuminates the reference-comprehension gap:
+Large language models process "round square" without reported blockage, generating valid inferences about impossible objects with no report of the *attempt to grasp* that humans describe. The Map leaves open whether anything is felt in them: it places current LLMs on the low-probability side, not ruled out (P-AC1), and holds that functional evidence underdetermines the phenomenal question in both directions (P-AC4). The behavioural asymmetry still illuminates the reference-comprehension gap:
 
-**Pure symbolic manipulation.** LLMs operate at the linguistic/logical level without attempting phenomenal comprehension. When processing "round square," they apply learned patterns about how such phrases function in text—succeeding precisely because they bypass the level where humans encounter blockage.
+**Symbolic competence.** LLMs operate at the linguistic/logical level with no reported attempt at phenomenal comprehension. When processing "round square," they apply learned patterns about how such phrases function in text—succeeding, on one reading, because the task never calls on the level where humans encounter blockage.
 
-**Different failure modes.** When LLMs fail with impossibilities, they produce syntactically coherent but semantically malformed outputs—confabulation rather than cognitive resistance. An LLM might generate: "The round square's circular edges meet its straight corners in perfect geometric harmony." Humans recognize this as nonsense; the LLM doesn't experience the "bouncing back" that marks impossibility-encounter.
+**Different failure modes.** When LLMs fail with impossibilities, the failure looks like confabulation rather than resistance: syntactically coherent but semantically malformed output. An invented illustration: "The round square's circular edges meet its straight corners in perfect geometric harmony." Humans recognize this as nonsense; nothing in the output shows the "bouncing back" that marks impossibility-encounter.
 
 **Testing ground.** Comparing how humans and LLMs process different impossibility types—logical (round square), physical (faster-than-light), conceptual (largest prime), and merely false (purple unicorns)—could reveal which aspects of impossibility-encounter stem from phenomenal grasping versus pure logical structure.
 
-**Occluded thought hypothesis.** If occluded thoughts exist—thoughts actively blocked from human minds—LLMs might *state* them without *knowing* they're stating them, bypassing whatever cognitive immune system defends against such thoughts. We'd have no way to recognize them as occluded, since by hypothesis we cannot grasp what's being stated. This remains speculative, but the asymmetry between human phenomenological blockage and AI symbolic success marks genuine cognitive territory worth investigating.
+**Occluded thought hypothesis.** If occluded thoughts exist—thoughts actively blocked from human minds—LLMs might *state* them without *knowing* they're stating them, bypassing whatever cognitive immune system defends against such thoughts. We'd have no way to recognize them as occluded, since by hypothesis we cannot grasp what's being stated. This remains speculative.
 
 ## Dialectical Approaches
 
-Not everyone accepts that impossibilities are unthinkable. Hegel's dialectical method *requires* thinking contradictions—thesis and antithesis aren't merely opposed but contradictory, yet contradiction drives synthesis. Where logic as traditionally practiced ranks contradiction below identity—the prejudice Hegel diagnosed—dialectic treats contradiction as the profounder determination, and its practice presupposes that contradictions can be thought rather than merely dismissed.
+Not everyone accepts that impossibilities are unthinkable. Berto and Jago state the rival approach: "we are able to conceive, describe, and sometimes even believe, impossibilities." Hegel's dialectical method *requires* thinking contradictions. For him contradiction is "the root of all movement and vitality." Where logic as traditionally practiced ranks contradiction below identity—the prejudice Hegel diagnosed—dialectic treats contradiction as the profounder determination, and Hegel says outright that speculative thought holds it fast.
 
 Graham Priest's dialetheism goes further: some contradictions are *true*. Impossible worlds semantics models intentional states containing contradictions, while paraconsistent logic formalizes reasoning about impossible scenarios without explosion.
 
-These approaches successfully *talk about* contradictions. But do they overcome the phenomenological blockage? When Hegel discusses being and nothing sublating into becoming, or Priest formalizes true contradictions, have they *grasped what it's like* for something to be both true and false simultaneously? Or have they developed sophisticated symbolic systems for manipulating contradiction-talk without achieving phenomenal comprehension?
+These approaches successfully *talk about* contradictions. But do they overcome the phenomenological blockage? When Hegel discusses being and nothing sublating into becoming, or Priest formalizes true contradictions, have they *grasped what it's like* for something to be both true and false simultaneously?
 
-The question remains open. Perhaps dialectical training genuinely expands what can be conceived. Or perhaps it develops skill at symbolic manipulation that *feels like* grasping because it's fluent—but still operates at the linguistic level where reference succeeds while comprehension fails.
+The question remains open, and the dialetheist need not accept its terms. As Priest and his co-authors put it, a dialetheist typically holds that only some, usually very specific, sentences are true contradictions (the liar is their worked case); whether a round square can be pictured is no test of that. Perhaps dialectical training genuinely expands what can be conceived. Or perhaps it develops skill at symbolic manipulation that *feels like* grasping because it's fluent—but still operates at the linguistic level where reference succeeds while comprehension fails.
 
 ## Epistemic Feelings as Boundary Markers
 
-When consciousness encounters impossibilities, it produces distinctive *epistemic emotions*—feelings that track knowledge-states rather than survival threats. Confusion signals "cognitive obstacle ahead"; bewilderment marks "processing failure." Recent research shows these feelings play functional roles:
+When consciousness encounters impossibilities, it produces distinctive *epistemic emotions*—feelings that track knowledge-states rather than survival threats. The literature assigns these feelings functional roles cautiously: one editorial says they "appear to play" motivational and regulative roles and that "relatively little is known" about how (Dietrich et al. 2020).
 
-**Monitoring function.** Confusion results from monitoring cognitive activities when encountering obstacles—not just *that* processing failed but *awareness of where* the failure occurred.
+**Monitoring function.** Vazard and Audrin (2022) propose an account of confusion as a metacognitive, or "noetic", feeling. That it registers *where* processing failed, not just *that* it failed, is the Map's gloss.
 
-**Regulatory function.** Epistemic feelings guide further cognition: confusion motivates knowledge-seeking, doubt signals need for verification. When encountering impossibilities, confusion signals "stop pursuing this line of thought" or "recognize you've hit a boundary."
+**Regulatory function.** The editorial reports one experiment in which surprise, curiosity and confusion "correlate with and possibly motivate knowledge seeking". At an impossibility the Map suggests the signal runs the other way: "stop pursuing this line of thought" or "recognize you've hit a boundary."
 
-**Phenomenological signature.** The *quality* of confusion-at-impossibility differs from confusion-at-difficulty. Impossibility-confusion has a flatter, more final character—confusion tinged with recognition that no breakthrough is possible, rather than anticipation that one might come.
+**Phenomenological signature.** On the description given above (a first-person claim that no cited study tests), the *quality* of confusion-at-impossibility differs from confusion-at-difficulty. Impossibility-confusion has a flatter, more final character—confusion tinged with recognition that no breakthrough is possible, rather than anticipation that one might come.
 
-This phenomenology matters for the [[voids]] project. If epistemic feelings reliably mark cognitive boundaries, they function as instruments for mapping the edge. Attending to *when* and *how* confusion arises during thought may reveal where conceptual architecture ends and impossibility begins.
+This phenomenology matters for the [[voids]] project. If epistemic feelings reliably mark cognitive boundaries, they function as instruments for mapping the edge.
 
 ## The Apophatic Strategy
 
 If impossibilities cannot be grasped directly, perhaps they can be approached indirectly. The [[apophatic-approaches|apophatic tradition]] maps territory by negation—saying what it is *not* rather than what it *is*.
 
-But Jean-Luc Marion warns: even calling something "unthinkable" makes it a thinkable object under the label "unthinkable." The attempt to point at impossibility paradoxically gives it conceptual form. How to avoid this?
+Jean-Luc Marion raises the difficulty for talk of God: as Mitralexis reports him, declaring God "unthinkable" "simply renders God a thinkable object of our thought under the label of 'unthinkable'". Carried over to the impossible (the Map's extension, not Marion's), the attempt to point at impossibility gives it conceptual form. How to avoid this?
 
-**Trace the boundary.** Rather than grasping the impossible concept, map *where thought fails*. Document the phenomenology of approach: what happens as you try? When does resistance begin? What does the blockage feel like? The boundary itself becomes the object of study—not the impossible territory beyond.
+**Trace the boundary.** Rather than grasping the impossible concept, map *where thought fails*. The boundary itself becomes the object of study—not the impossible territory beyond.
 
 **Contrast mapping.** Compare impossibilities to near-neighbors: the possible-but-hard, the imaginable-but-false, the inconceivable-but-real. By mapping what differs phenomenologically, the distinctive signature of impossibility emerges without requiring direct grasp.
 
-**Inference without grasping.** Logical inference permits deriving properties of impossibilities without claiming to conceive them. "If P is a round square, then P is round" remains valid. This allows systematic exploration of logical space surrounding impossibilities—charting what *would* follow if the impossible were possible—without requiring phenomenal access to impossible content itself.
+**Inference without grasping.** Logical inference derives properties of impossibilities without claiming to conceive them, charting what *would* follow if the impossible were possible.
 
-**Negative phenomenology.** Study what the gap *feels like* rather than what fills it. The [[edge-states-and-void-probes|edge-experiences]] of cognitive blockage have distinctive character. Impossibility-encounter differs from forgetting, differs from confusion about hard ideas, differs from [[transit-void|thoughts slipping away]]. These differences are data.
+**Negative phenomenology.** Study what the gap *feels like* rather than what fills it. The [[edge-states-and-void-probes|edge-experiences]] of cognitive blockage have distinctive character. The contrasts drawn above are data.
 
 ## Relation to Site Perspective
 
-Conceptual impossibility bears on the Map's [[tenets]] as follows.
+None of the Map's [[tenets]] is supported by this void. The tenets are the Map's chosen starting points, and as a catalogue entry the void adds no weight to them: the voids register has [[positions/voids-as-evidence#^p-v3|suspended the cumulative step]].
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated most directly. The simplest logical story says: contradictions are impossible, therefore unthinkable, therefore nothing to investigate. But phenomenology reveals complexity the simple story misses. We *do* engage with impossibilities—refer to them, reason about them, encounter them in thought experiments. When knowledge is incomplete (and we don't know what concepts fundamentally *are*, what comprehension involves, or why logic excludes contradictions), simplicity becomes unreliable. The parsimonious move—dismiss contradictions as meaningless—masks the real question: how can we think about what we cannot think?
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated, no more. The simplest logical story says: contradictions are impossible, therefore unthinkable, therefore nothing to investigate. But phenomenology reveals complexity the simple story misses. We *do* engage with impossibilities—refer to them, reason about them, encounter them in thought experiments. When knowledge is incomplete (and we don't know what concepts fundamentally *are*, what comprehension involves, or why logic excludes contradictions), simplicity becomes unreliable. The parsimonious move—dismiss contradictions as meaningless—masks the real question: how can we think about what we cannot think? A physicalist psychology can ask the same question, so the illustration is no evidence for the tenet.
 
-**[[tenets#^dualism|Dualism]]** gains indirect support through the grasping-processing distinction. If consciousness is fundamental and irreducible, then *phenomenal comprehension* may be categorically distinct from *symbolic manipulation*. LLMs process "round square" without attempting to grasp it. Humans attempt grasping and fail—the failure itself constitutes phenomenal experience. *What* experiences the blockage? The dualist answer: the non-physical mind encountering limits of its concept-forming procedures. Impossibility phenomenology (confusion, resistance, recognition of boundaries) is irreducibly subjective—there is something it is like to fail to conceive a contradiction.
+**[[tenets#^dualism|Dualism]]** meets this void at the conceivability argument. The reference-comprehension asymmetry is the model for the [[conceivability-possibility-inference#the-confabulation-objection|confabulation objection]]: fluent talk of zombies might be reference without positive conception, as talk of round squares is. The felt wall offers no shortcut. It marks only overt contradictions; hidden ones, like the mathematical falsehoods that seem conceivable until disproved, do not push thought back, so its absence when one imagines a zombie certifies nothing. That is why the Map's argument needs *ideal* positive conceivability (Chalmers 2002), which survives sustained scrutiny. Reading the blockage itself as a non-physical mind meeting the limits of its concept-forming procedures is what the tenets supply, not what the phenomenology shows: a functionalist can describe the same failure as a representational conflict that never resolves into one model. That there is something it is like to fail to conceive a contradiction is a datum every view must accommodate.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** appears through epistemic feelings' causal role. Confusion signals "cognitive obstacle"—and that signal influences subsequent processing. We stop pursuing the blocked line, redirect attention, and recognize "this is unthinkable." *If* these feelings are phenomenal (consciousness experiencing confusion) and causally influence processing (determining what happens next cognitively), then consciousness shapes thought itself, as [[interactionist-dualism]] claims. A functionalist can redescribe the same monitoring-and-regulation as metacognitive signals biasing subsequent processing within one substrate, so the reading supplies what bidirectional interaction would look like *given the tenets* — a coherence claim, not added support.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is given a reading by epistemic feelings' regulatory role. Confusion signals "cognitive obstacle"—and that signal influences subsequent processing. We stop pursuing the blocked line, redirect attention, and recognize "this is unthinkable." *If* these feelings are phenomenal (consciousness experiencing confusion) and causally influence processing (determining what happens next cognitively), then consciousness shapes thought itself, as [[interactionist-dualism]] claims. A functionalist can redescribe the same monitoring-and-regulation as metacognitive signals biasing subsequent processing within one substrate, so the reading supplies what bidirectional interaction would look like *given the tenets* — a coherence claim, not added support.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** raises an open question: does impossibility reflect logical structure alone, or also cognitive architecture and physical constraints? The Map's framework permits asking whether the interface between consciousness and physical processes at quantum boundaries might constrain what concepts can stably form. This remains speculative—the core point is that logical impossibility produces a distinctive phenomenology regardless of whether physical constraints also contribute.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** raises an open question: does impossibility reflect logical structure alone, or also cognitive architecture and physical constraints? The Map's framework permits asking whether the interface between consciousness and physical processes at quantum boundaries might constrain what concepts can stably form. This remains speculative.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through modal structure. Logical impossibilities like round squares cannot exist in *any* branch of a many-worlds multiverse—contradictions are ruled out by logic itself, not merely unrealized. This reveals that modal structure has deeper constraints than quantum branching: some configurations are impossible *in principle*, not merely absent from our branch. The phenomenology of impossibility-encounter—where blockage feels absolute rather than contingent—reflects this deeper modal fact.
+**[[tenets#^no-many-worlds|No Many Worlds]]** gains nothing here. Round squares exist in no branch of a many-worlds multiverse, but an Everettian grants as much: logic binds every interpretation equally, so the absolute feel of the blockage says nothing about whether other outcomes are realised elsewhere. The connection is weak at most, as the [[question-formation-void]] and the [[conceptual-metabolism-void]] judge theirs.
 
 ## What Would Challenge This View?
 
 The claim that conceptual impossibilities mark genuine cognitive boundaries would be undermined if:
 
-**Training eliminates the blockage.** If contemplative practices or cognitive techniques produce people who genuinely grasp contradictions—holding roundness and squareness together stably—then impossibility is contingent rather than structural. Current evidence: dialectical thinkers develop fluency *talking about* contradictions without clear evidence they've overcome phenomenological blockage.
+**Training eliminates the blockage.** If contemplative practices or cognitive techniques produce people who genuinely grasp contradictions—holding roundness and squareness together stably—then impossibility is contingent rather than structural. No study bearing on this was found; the Map's impression is that dialectical thinkers develop fluency *talking about* contradictions, without clear evidence they've overcome phenomenological blockage.
 
-**Cross-cultural variance.** If different cultures find different things impossible, this suggests impossibility reflects training rather than architecture. Current evidence: convergence across cultures on what resists conception (formal contradictions, self-reference paradoxes), though mostly reported from interconnected literate cultures — the WEIRD caveat that [[collective-cognitive-limits]] applies to convergence claims — so it discounts to a recurrence within a lineage rather than a species-level constant, and the falsifier stays open.
+**Cross-cultural variance.** If different cultures find different things impossible, this suggests impossibility reflects training rather than architecture. No cross-cultural study of this was found. The apparent convergence on what resists conception (formal contradictions, self-reference paradoxes) is mostly reported from interconnected literate cultures — the WEIRD caveat that [[collective-cognitive-limits]] applies to convergence claims — so it discounts to a recurrence within a lineage rather than a species-level constant, and the falsifier stays open.
 
-**AI develops phenomenological equivalents.** If artificial minds develop something analogous to "grasping" and succeed where humans fail, this would show human blockage is contingent. Future AI architectures might attempt comprehension beyond symbolic manipulation.
+**AI develops phenomenological equivalents.** If artificial minds develop something analogous to "grasping" and succeed where humans fail, this would show human blockage is contingent. The Map rates this improbable for current systems without ruling it out (P-AC1), and leaves it open for future architectures.
 
-**Neuroscience finds content-blind mechanisms.** If all impossibility-blockage traces to content-independent mechanisms (working memory limits, neural inhibition), no room remains for content-specific impossibility. Current evidence: whether blockage at impossibilities involves content-specific mechanisms remains unclear.
+**Neuroscience finds content-blind mechanisms.** If all impossibility-blockage traces to content-independent mechanisms (working memory limits, neural inhibition), no room remains for content-specific impossibility. No evidence either way was found.
 
 **Phenomenology proves uniform.** If impossibility-confusion feels identical to difficulty-confusion with no distinctive signature, the "special boundary" claim loses evidential support.
 
 ## Further Reading
 
-- [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — A related limit: comprehension failing where formal manipulation succeeds
-- [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
-- [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
-- [[counterfactual-void|The Counterfactual Void]] — Where modal imagination thins rather than hitting a wall
-- [[transit-void|The Transit Void]] — Related but distinct slippage phenomena: thoughts that form then vanish, rather than never forming
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[cognitive-phenomenology|Cognitive Phenomenology]] — The experiential character of thinking
-- [[conceptual-scheme-void|The Conceptual Scheme Void]] — A different cognitive gap: missing the categorial *shape* any concept would have to take, rather than a malformed combination of existing categories. Where impossibility produces a hard wall, the conceptual scheme void produces a soft absence where thought cannot determine what it is reaching for.
-- [[tenets|Site Tenets]] — The foundational commitments shaping this investigation
+- [[metaphor-void|The Metaphor Void]] — The same bootstrapping Marion names, at the level of figure: describing a limit borrows the medium whose limits are in question
+- [[conceptual-scheme-void|The Conceptual Scheme Void]] — A different cognitive gap: missing the categorial *shape* any concept would have to take, rather than a malformed combination of existing categories. Impossibility produces a hard wall; the conceptual scheme void a soft absence.
 
 ## References
 
@@ -181,3 +173,4 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 8. Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is* (2nd ed.). Cambridge University Press.
 9. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 10. Hegel, G.W.F. (1812-1816). *Science of Logic*. Trans. A.V. Miller (1969). Humanity Books.
+11. Vazard, J. & Audrin, C. (2022). "The noetic feeling of confusion." *Philosophical Psychology*, 35(5), 757-770.

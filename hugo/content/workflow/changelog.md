@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18 15:21:38+00:00
+ai_modified: 2026-11-18 15:44:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-18'
-lastmod: 2026-11-18 15:21:38+00:00
+lastmod: 2026-11-18 15:44:12+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-18 15:44 UTC - deep-review (driver-selected, source fidelity)
+- **Status**: Success
+- **File**: [conceptual-impossibility](/voids/conceptual-impossibility/)
+- **Word count**: 2742 → 2898 (+156) by `analyze_length` (voids hard 3,000, gate `>=`; 102 words of room)
+- **Critical issues addressed**: 10. "Meinong's jungle" credited to Russell (the phrase is Kneale's, 1949, per SEP "Alexius Meinong" n. 2; the page now says "later writers"). Marion's "warning" was Mitralexis's sentence about God, generalised to "something"; now Mitralexis's words verbatim, attributed as his report, extension marked as the Map's. McGinn's closure given as rats-and-calculus and extended to impossibilities; now his 1989 definition in his words, extension marked. Thesis–antithesis–synthesis given as Hegel's method; removed. The 2026-08-12 disclaimer "the thinkability question is ours to draw out" is contradicted by the same Remark (§957 "the contradictory cannot be imagined or thought", §959 "thought holds fast contradiction"); replaced with Hegel's words. "Recent research shows" → the editorial's "appear to play" and "relatively little is known". The monitoring sentence was filed under the Dietrich editorial, which does not contain it; now attributed to Vazard and Audrin (2022) at the strength of their abstract. Dualism "gains indirect support" replaced. Flat AI verdicts brought to [P-AC1](/positions/ai-consciousness-scope/#p-ac1)/[P-AC4](/positions/ai-consciousness-scope/#p-ac4). Three "Current evidence" lines with no evidence now say none was found.
+- **Medium issues addressed**: 3. Rival approach stated in Berto and Jago's words and the dialetheist reply added; Occam paragraph "illustrated, no more"; three orphan references now cited after verification.
+- **Enhancements made**: 4 (conceivability link, No Many Worlds concession, metaphor-void entry, section opener at the [P-V3](/positions/voids-as-evidence/#p-v3) register).
+- **Open P3 task discharged** ("`voids/conceptual-impossibility` L137 still says Dualism \"gains indirect support\""): items (a), (b), (c), (d), (e), (f) all installed with the review's exact replacement strings. Its constraints kept: L139 hedge verbatim; Chalmers entry kept and now cited; the five orphan entries' text untouched.
+- **Engagement modes (editor-internal)**: Hegel: Mode Three, his claim reported in his words. Priest: Mixed, the dialetheist reply recorded. Functionalist: Mode Three in the tenet section.
+- **Ledger**: 14 strings verbatim at source (Hegel ×4, McGinn ×4, Berto and Jago ×1, Dietrich et al. ×3, Mitralexis ×1, Vazard and Audrin term ×1). UNOBTAINED: Vazard and Audrin full text (two routes blocked), Priest 2008, Kneale 1949, Russell 1905.
+- **Not done**: reference 7 (Mitralexis) is 2026 with a third editor (Grodecki) and pp. 483–495 per Crossref 10.1093/9780191887017.003.0039; left because the P3 task forbids touching that entry. Carruthers 2019 and Wendler and Fuchs 2023 remain uncited. Research note `research/voids-conceptual-impossibility-2026-01-23` carries all the same strings (report only).
+- **Verification that the fix held**: 0 hits in both the obsidian and hugo copies for each of "gains indirect support", "Russell called", "Marion warns", "neural architecture for calculus", "thesis and antithesis", "thinkability question is ours", "Recent research shows", "Confusion results from monitoring", "without attempting", "doesn't experience the", "Pure symbolic manipulation", "connects through modal structure", "Current evidence", "Most people report", "revealing cognitive architecture". 1 hit in both copies for "confabulation-objection", "p-v3", "holds fast contradiction", "metaphor-void". All 24 body link targets resolve in the hugo copy.
+- **Output**: [deep-review-2026-11-18-conceptual-impossibility](/reviews/deep-review-2026-11-18-conceptual-impossibility/)
 
 ## 2026-11-18 15:21 UTC - refine-draft (step 7 of 7, references)
 - **Status**: Success
