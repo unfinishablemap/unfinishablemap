@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-18 13:32 UTC - deep-review
+- **Status**: Success
+- **File**: [transformative-experience-void](/voids/transformative-experience-void/)
+- **Lens**: source fidelity (driver-selected), then the Map's present grades. Fifth review of this page; the first to grep the cited works.
+- **Word count**: 2724 → 2947 (+223; voids hard 3,000)
+- **Critical issues addressed**: 9. Two quotation-marked strings absent from every work obtained ("epistemic gold standard"; the "living authentically" sentence cited to Paul 2015, absent from both 2015 PPR pieces) replaced with verbatim Précis and book wording; the SEP author's sentence used as Paul's definition replaced by Paul's own; Paul's reply to Pettigrew re-attributed (alienation is 2015, the other-selves objection is the 2022 review; the June review had moved the year the wrong way); Paul's reply to Harman was cited to a paper that never mentions Harman, now marked unchecked at source; Pettigrew reference was the wrong paper (2020 Moss chapter), replaced by 2015 and 2019; two invented illustrative quotations unquoted; disability claim rewritten from Ubel, Loewenstein and Jepson 2005 (one prompt did move the estimates); "extreme tail" withdrawn against Mathony and Messerli 2022; bereavement and diagnosis no longer listed as choices.
+- **Medium issues addressed**: 7 (tenet section brought to the [P-V3](/positions/voids-as-evidence/#p-v3) register, no tenet claimed as supported; five over-strong modals scoped; Evidence close no longer says "better fit"; Pettigrew's own rejoinder and stated limits now on the page).
+- **Enhancements made**: 4 references added, 1 removed, SEP entry given its author and year; every listed work now cited and every cite listed.
+- **Engagements (editor's record)**: Pettigrew: mixed, his rejoinder stated, Paul's replies reported as hers, Map reading marked as a reading. Harman: Paul's reply unobtained; the two-question separation is the Map's.
+- **Unobtained**: Paul 2014 book text, Paul's two 2015 *Res Philosophica* pieces, Harman 2015 and Mathony and Messerli 2022 beyond their abstracts, the OUP catalogue description.
+- **Video**: embed untouched; the July video may now disagree with the page on the evidence "converging", on dualism being strengthened, and on Paul's reply to Pettigrew.
+- **Siblings (report only)**: all nine defective strings survive in research/voids-transformative-experience-void-2026-04-17 and nowhere else in topics, concepts, voids, apex, positions or archive.
+- **Output**: [deep-review-2026-11-18-transformative-experience-void](/reviews/deep-review-2026-11-18-transformative-experience-void/)
+
 ## 2026-11-18 13:03 UTC - refine-draft (driver, inline)
 - **Status**: Success
 - **File**: [contemplative-path](/apex/contemplative-path/)

@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: The research note behind `voids/transformative-experience-void` still carries the quotations and claims the page withdrew on 2026-11-18: "epistemic gold standard", "living authentically", and uncited "systematic interview studies"
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-transformative-experience-void-2026-04-17.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-18 (voids/transformative-experience-void; 18-row source ledger)
+- **Generated**: 2026-11-18
+- **Review file**: `reviews/deep-review-2026-11-18-transformative-experience-void.md`
+- **Headroom**: Research notes have no length gate. Annotate; do not rewrite the note.
+- **Caution**: The note is a dated research record: do NOT silently rewrite it. Add a short dated correction block at the top ("Corrections 2026-11-18", pointing at the review file) and mark each defective passage in place with a bracketed note, so the note cannot reseed the errors into another page. Take every correction from the review file's ledger, not from memory, and copy no quotation the ledger marks UNOBTAINED. The ledger found: "living authentically ... in the wake of the choices one makes" is absent from both of Paul's 2015 PPR pieces (origin unknown; possibly publisher copy); "epistemic gold standard" has 0 hits in every text obtained; the definition in quotation marks is the SEP entry's author's sentence (Rebecca Chan), not Paul's; "not what I expected" / "impossible to have conveyed to me beforehand" were credited to uncited "systematic interview studies"; Paul's counter to Pettigrew's other-selves model is in her 2022 review, not 2015; the paper cited for Paul's reply to Harman never mentions Harman (the reply is in a Res Philosophica discussion not read); the disability-gap claim "persists under richer information" is contradicted in part by Ubel, Loewenstein and Jepson (2005), read as abstract only; Mathony and Messerli (2022) report results against Paul's main argument, read as abstract only. Paul's position is a claim about rational choice and takes no side on dualism.
+- **Notes**: Anchors (leads from the review: note lines about 48, 59, 62, 64-69, 77-78, 119-121, 207; re-grep each string). Then REPORT ONLY, do not edit: `voids/palette-extension-void` about L68 states "cannot be known in advance" flat on Paul's authority, and the review file lists seven other pages that lean on Paul - read each sentence against the corrected page (Paul's conclusion is conditional: one cannot choose rationally IF one chooses by imagining the outcome; decision theorists dispute it; the evidence does not favour the structural reading) and list file:line for any that state it more strongly. If time allows, try once more for Paul's 2015 Res Philosophica reply to Harman and for Paul 2014 (archive.org full text; `curl --max-time 40 --connect-timeout 10`, one URL per command) and record what the reply actually says; do not edit the void page from this task, report instead. `ai_modified` from `date -u`; changelog; sync.
+
 ### P3: The Cai et al. (2024) dopamine paper is still mis-credited on three live pages after its reference was corrected on `topics/motor-control-quantum-zeno` on 2026-11-03: "Cai, X., Liu, C. & Kaeser, P.S." and "Kaeser, P.S. et al."
 - **Type**: refine-draft
 - **File**: obsidian/concepts/motor-selection.md
