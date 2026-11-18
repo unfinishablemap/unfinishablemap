@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18T15:44:12+00:00
+ai_modified: 2026-11-18T16:07:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-18 16:08 UTC - refine-draft (driver, inline follow-up)
+- **Status**: Success
+- **File**: [[conceptual-impossibility]]
+- **Change**: one clause added at line 106. The page marks "registers *where* processing failed" as the Map's gloss on Vazard and Audrin (2022). The preprint obtained today says of such feelings that "we do not have access to the event which caused the mechanism to launch this signal" (grep-confirmed in the submitted version; the version of record was not obtained). The sentence now adds: "and the paper leans against it: on its account we have no access to the event that set such a feeling off." The gloss stays, marked as the Map's and now marked as unsupported by its source.
+- **Note**: the "Trace the boundary" approach later on the page ("map *where thought fails*") is a method the Map proposes, not a claim about the paper; left as is.
+- **Length**: 2,865 to about 2,886 (voids hard 3,000).
+
+## 2026-11-18 16:07 UTC - refine-draft (references and research-note corrections)
+- **Status**: Success
+- **File**: [[conceptual-impossibility]]; secondary: [[voids-conceptual-impossibility-2026-01-23]]
+- **Original score**: not scored (`scripts/curate.py` is absent; scope set by the deep review)
+- **Word count**: void page 2898 → 2865 (−33) by `analyze_length` (voids hard 3,000, gate `>=`). The research note has no gate.
+- **Source ledger**: (1) Crossref 10.1093/9780191887017.003.0039 → Mitralexis, "Apophaticism in Contemporary Philosophy", *The Oxford Handbook of Apophatic Theology*, published 2026-08-20, pp. 483-495; the chapter record carries no editors. (2) Crossref volume record 10.1093/9780191887017.001.0001 → editors Betz, Van Nieuwenhove, Grodecki. (3) Vazard and Audrin: Crossref and OpenAlex → metadata confirmed (*Philosophical Psychology* 35(5), 757-770; online 2021-12-20, print 2022); publisher PDF and the CORE mirror → challenge pages (routes closed); Semantic Scholar → points at the PhilPapers PDF only; HEP Vaud repository record → no file attached; Wayback Machine capture of the PhilPapers PDF (20240701) → OBTAINED, 8-page submitted version, `pdftotext`, whitespace collapsed. The page's sentence is confirmed ("we propose to view confusion as a feeling which results from a metacognitive monitoring of our cognitive operations"; "metacognitive or “noetic” feelings"). The paper does not say confusion registers where processing failed (0 hits for "locat"; it says of such feelings that "we do not have access to the event which caused the mechanism to launch this signal"), so the where/that gloss stays marked as the Map's. The version of record was not obtained. (4) Carruthers 2019: Crossref abstract read; 0 body hits by surname or by (surname, year); the research note never mentions the work → entry removed. (5) Wendler and Fuchs 2023: Crossref metadata confirmed; Frontiers full text fetched, 0 hits for "frustrat" and "anxiety", so the one body sentence descended from the note's gloss does not rest on it; 0 body hits → entry removed.
+- **Changes (OLD → NEW)**: (a) `as Mitralexis reports him` → `as Mitralexis (2026) reports him`. (b) `7. Mitralexis, S. (2025). "Apophaticism in Contemporary Philosophy." In J. R. Betz & R. Van Nieuwenhove (eds.), *The Oxford Handbook of Apophatic Theology*. Oxford University Press. https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf` → `5. Mitralexis, S. (2026). "Apophaticism in Contemporary Philosophy." In J. R. Betz, R. Van Nieuwenhove & C. Grodecki (eds.), *The Oxford Handbook of Apophatic Theology* (pp. 483–495). Oxford University Press. https://doi.org/10.1093/9780191887017.003.0039 (author copy: https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf)`. (c) `3. Carruthers, P. (2019). *Human and Animal Minds: The Consciousness Questions Laid to Rest*. Oxford University Press.` → deleted. (d) `6. Wendler, H. & Fuchs, T. (2023). "Understanding incomprehensibility: ..." *Frontiers in Psychology*, 14, 1155838. [URL]` → deleted. (e) References renumbered 1 to 9 (the body cites by author and year, never by number). No body sentence other than (a) was touched.
+- **Research note**: a dated "Corrections 2026-11-18" block added under the title, and 13 bracketed inline notes appended in place (the twelve passages the review lists, plus one new finding on the Wendler and Fuchs key points). Original text left standing. `ai_system` gained `+claude-fable-5-2`.
+- **Orphan check, keyed on (surname, year), both directions**: body → references: Chalmers 2002, Dietrich et al. 2020, McGinn 1989, Mitralexis 2026, Vazard and Audrin 2022 all have entries; Berto and Jago, Reicher, Priest and Hegel are named without a year and have entries. References → body: all nine entries are named in the body. Meinong, Russell, Schlick and Marion are named only as reported by listed sources.
+- **Verification that the fix held**: 0 hits in both the obsidian and hugo copies of the void page for each of "Mitralexis, S. (2025)", "Betz & R. Van Nieuwenhove (eds.)", "Carruthers", "Wendler", "Fuchs"; 1 hit in each copy for "Mitralexis, S. (2026)", "Grodecki", "483–495", "Mitralexis (2026) reports". Hugo copy of the research note: 13 inline notes, and the review link renders as `/reviews/deep-review-2026-11-18-conceptual-impossibility/`.
+- **Not done**: the published version of Vazard and Audrin (only the preprint was read); Kneale 1949 at primary; the Nagarjuna lead (report only).
+- **Published**: yes
 
 ## 2026-11-18 15:44 UTC - deep-review (driver-selected, source fidelity)
 - **Status**: Success

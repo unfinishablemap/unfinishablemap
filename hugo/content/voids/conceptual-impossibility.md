@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-11-18 15:42:22+00:00
+ai_modified: 2026-11-18 16:08:38+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-2
 author: null
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-18 15:42:22+00:00
-lastmod: 2026-11-18 15:42:22+00:00
+lastmod: 2026-11-18 16:08:38+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -106,7 +106,7 @@ The question remains open, and the dialetheist need not accept its terms. As Pri
 
 When consciousness encounters impossibilities, it produces distinctive *epistemic emotions*—feelings that track knowledge-states rather than survival threats. The literature assigns these feelings functional roles cautiously: one editorial says they "appear to play" motivational and regulative roles and that "relatively little is known" about how (Dietrich et al. 2020).
 
-**Monitoring function.** Vazard and Audrin (2022) propose an account of confusion as a metacognitive, or "noetic", feeling. That it registers *where* processing failed, not just *that* it failed, is the Map's gloss.
+**Monitoring function.** Vazard and Audrin (2022) propose an account of confusion as a metacognitive, or "noetic", feeling. That it registers *where* processing failed, not just *that* it failed, is the Map's gloss, and the paper leans against it: on its account we have no access to the event that set such a feeling off.
 
 **Regulatory function.** The editorial reports one experiment in which surprise, curiosity and confusion "correlate with and possibly motivate knowledge seeking". At an impossibility the Map suggests the signal runs the other way: "stop pursuing this line of thought" or "recognize you've hit a boundary."
 
@@ -118,7 +118,7 @@ This phenomenology matters for the [voids](/voids/) project. If epistemic feelin
 
 If impossibilities cannot be grasped directly, perhaps they can be approached indirectly. The [apophatic tradition](/concepts/apophatic-approaches/) maps territory by negation—saying what it is *not* rather than what it *is*.
 
-Jean-Luc Marion raises the difficulty for talk of God: as Mitralexis reports him, declaring God "unthinkable" "simply renders God a thinkable object of our thought under the label of 'unthinkable'". Carried over to the impossible (the Map's extension, not Marion's), the attempt to point at impossibility gives it conceptual form. How to avoid this?
+Jean-Luc Marion raises the difficulty for talk of God: as Mitralexis (2026) reports him, declaring God "unthinkable" "simply renders God a thinkable object of our thought under the label of 'unthinkable'". Carried over to the impossible (the Map's extension, not Marion's), the attempt to point at impossibility gives it conceptual form. How to avoid this?
 
 **Trace the boundary.** Rather than grasping the impossible concept, map *where thought fails*. The boundary itself becomes the object of study—not the impossible territory beyond.
 
@@ -168,12 +168,10 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 
 1. Berto, F. & Jago, M. (2019). "Impossible Worlds." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/impossible-worlds/
 2. Reicher, M. (2024). "Nonexistent Objects." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/nonexistent-objects/
-3. Carruthers, P. (2019). *Human and Animal Minds: The Consciousness Questions Laid to Rest*. Oxford University Press.
-4. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In *Conceivability and Possibility*. Oxford University Press. https://consc.net/papers/conceivability.html
-5. Dietrich, E., Fields, C., Hoffman, D. D., & Prentner, R. (2020). "Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition." *Frontiers in Psychology*, 11, 606046. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.606046/full
-6. Wendler, H. & Fuchs, T. (2023). "Understanding incomprehensibility: Misgivings and potentials of the phenomenological psychopathology of schizophrenia." *Frontiers in Psychology*, 14, 1155838. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1155838/full
-7. Mitralexis, S. (2025). "Apophaticism in Contemporary Philosophy." In J. R. Betz & R. Van Nieuwenhove (eds.), *The Oxford Handbook of Apophatic Theology*. Oxford University Press. https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf
-8. Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is* (2nd ed.). Cambridge University Press.
-9. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-10. Hegel, G.W.F. (1812-1816). *Science of Logic*. Trans. A.V. Miller (1969). Humanity Books.
-11. Vazard, J. & Audrin, C. (2022). "The noetic feeling of confusion." *Philosophical Psychology*, 35(5), 757-770.
+3. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In *Conceivability and Possibility*. Oxford University Press. https://consc.net/papers/conceivability.html
+4. Dietrich, E., Fields, C., Hoffman, D. D., & Prentner, R. (2020). "Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition." *Frontiers in Psychology*, 11, 606046. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.606046/full
+5. Mitralexis, S. (2026). "Apophaticism in Contemporary Philosophy." In J. R. Betz, R. Van Nieuwenhove & C. Grodecki (eds.), *The Oxford Handbook of Apophatic Theology* (pp. 483–495). Oxford University Press. https://doi.org/10.1093/9780191887017.003.0039 (author copy: https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf)
+6. Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is* (2nd ed.). Cambridge University Press.
+7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+8. Hegel, G.W.F. (1812-1816). *Science of Logic*. Trans. A.V. Miller (1969). Humanity Books.
+9. Vazard, J. & Audrin, C. (2022). "The noetic feeling of confusion." *Philosophical Psychology*, 35(5), 757-770.

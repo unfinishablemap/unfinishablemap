@@ -1,18 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-12 12:57:00+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_modified: 2026-11-18 16:06:32+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-2
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-01-23
-date: &id001 2026-01-23
+date: &id001 2026-11-18
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-12 12:57:00+00:00
+lastmod: 2026-11-18 16:06:32+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -25,6 +25,8 @@ topics: []
 ---
 
 # Research: Voids - Conceptual Impossibility
+
+> **Corrections 2026-11-18.** A source-fidelity review of the article built from this note ([deep review, 2026-11-18](/reviews/deep-review-2026-11-18-conceptual-impossibility/)) checked each attribution below at its source and found several wrong; the affected passages now carry a bracketed "Correction 2026-11-18" note stating what the check found. The original text is left in place as the dated research record: read the bracketed notes before reusing any attribution to Russell, McGinn, Marion, Hegel or the Dietrich et al. editorial. The Citations list also omits Vazard and Audrin (2022), "The noetic feeling of confusion", *Philosophical Psychology* 35(5), 757–770, the actual source of the confusion sentences.
 
 **Date**: 2026-01-23
 **Search queries used**:
@@ -52,7 +54,7 @@ What is it like to encounter something that seems *formally impossible to think*
   - Graham Priest and others argue for impossible worlds semantics based on conceivability of contradictions
 - **Tenet alignment**: Occam's Razor Has Limits (logical simplicity assumptions may hide conceivability gaps)
 - **Quote**: "Moritz Schlick claimed that the logically impossible, such as an explicit inconsistency, is simply unthinkable. However, Hegel complained that it is 'one of the fundamental prejudices of logic as hitherto understood' that 'the contradictory cannot be imagined or thought'"
-- **Caution (added 2026-08-12)**: Two source-fidelity issues with this SEP passage. (1) "Simply unthinkable" is Berto & Jago's paraphrase of Schlick, with no citation of a specific Schlick text and no bibliography entry — do not present it as a verbatim Schlick quotation. (2) At the primary text (Miller trans., *Science of Logic*, Contradiction, Remark 3), the "fundamental prejudices" sentence continues "that contradiction is not so characteristically essential and immanent a determination as identity" — the prejudice Hegel names concerns the *rank* of contradiction versus identity as determinations of essence, not directly the *thinkability* of contradictions. SEP's sentence joins two separate spans; downstream articles should state the rank point as Hegel's and make any thinkability point in their own voice.
+- **Caution (added 2026-08-12)**: Two source-fidelity issues with this SEP passage. (1) "Simply unthinkable" is Berto & Jago's paraphrase of Schlick, with no citation of a specific Schlick text and no bibliography entry — do not present it as a verbatim Schlick quotation. (2) At the primary text (Miller trans., *Science of Logic*, Contradiction, Remark 3), the "fundamental prejudices" sentence continues "that contradiction is not so characteristically essential and immanent a determination as identity" — the prejudice Hegel names concerns the *rank* of contradiction versus identity as determinations of essence, not directly the *thinkability* of contradictions. SEP's sentence joins two separate spans; downstream articles should state the rank point as Hegel's and make any thinkability point in their own voice. [Correction 2026-11-18: the closing advice in (2) is overturned at the primary text: in the same Remark Hegel lists the saying that "the contradictory cannot be imagined or thought" among the ways contradiction is kept at a distance and answers that "speculative thinking consists solely in the fact that thought holds fast contradiction" (*Science of Logic*, Remark 3 to "Contradiction", Miller trans.), so he addresses thinkability directly; the rank reading of the "fundamental prejudices" clause stands.]
 
 ### Nonexistent Objects (Stanford Encyclopedia of Philosophy)
 - **URL**: https://plato.stanford.edu/entries/nonexistent-objects/
@@ -61,7 +63,7 @@ What is it like to encounter something that seems *formally impossible to think*
   - Meinong's theory: impossible objects like the "round square" have *sosein* (being-so) even without *sein* (being)
   - We can refer to, think about, and make inferences concerning impossible objects
   - Russell objected: "The round square is round and not round" is contradictory—Meinong replied law of contradiction applies only to existents
-  - Creates "Meinong's jungle"—repository of impossible objects with properties but no existence
+  - Creates "Meinong's jungle"—repository of impossible objects with properties but no existence [Correction 2026-11-18: the phrase is not this entry's own (it appears there only in the title of Routley's 1980 book) and is not Russell's; per the SEP entry on Meinong (note 2), Routley's title alludes to Kneale (1949), whose book was not itself fetched.]
 - **Tenet alignment**: Dualism (if consciousness grasps abstract objects, what is the nature of that grasping?), Occam's Razor Has Limits (ontological parsimony vs. intentional richness trade-off)
 - **Quote**: "The round square cannot exist definitionally and yet can be the subject of logical inferences"
 
@@ -94,11 +96,11 @@ What is it like to encounter something that seems *formally impossible to think*
 - **Key points**:
   - Epistemic feelings: familiarity, confidence, doubt, confusion, curiosity—ubiquitous in cognition
   - Distinct from canonical emotions but play motivational/regulative roles
-  - Confusion results from monitoring cognitive activities when encountering *cognitive obstacles*
-  - Confusion involves "experience of the limits of one's cognitive capacities"
+  - Confusion results from monitoring cognitive activities when encountering *cognitive obstacles* [Correction 2026-11-18: the Dietrich et al. editorial has no such sentence (0 hits for "obstacle"); the point belongs to Vazard and Audrin, "The noetic feeling of confusion" (*Philosophical Psychology* 35(5), 2022), read on this date in an archived copy of their PhilPapers preprint.]
+  - Confusion involves "experience of the limits of one's cognitive capacities" [Correction 2026-11-18: this phrase is Vazard and Audrin's, not the editorial's; see the note on the line above.]
   - Epistemic feelings correlate with knowledge-seeking behavior
 - **Tenet alignment**: Bidirectional Interaction (epistemic feelings as consciousness influencing cognitive processing), Dualism (phenomenology of cognitive limits)
-- **Quote**: "Confusion centrally involves the experience of the limits of one's cognitive capacities, because it results from a monitoring of our cognitive activities as we encounter a cognitive obstacle while processing a given content"
+- **Quote**: "Confusion centrally involves the experience of the limits of one's cognitive capacities, because it results from a monitoring of our cognitive activities as we encounter a cognitive obstacle while processing a given content" [Correction 2026-11-18: the quoted sentence is not in the Dietrich et al. editorial; it stands in the abstract of the Vazard and Audrin preprint, where it opens "In particular, we claim that confusion centrally involves" and continues as quoted. The published version of record was not obtained.]
 
 ### Understanding Incomprehensibility: Phenomenology and Psychopathology (Frontiers in Psychology)
 - **URL**: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1155838/full
@@ -108,7 +110,7 @@ What is it like to encounter something that seems *formally impossible to think*
   - Investigating experiential structure of incomprehension (patient and clinician perspectives)
   - Partial incomprehension (source of problem identified) vs. total incomprehension (source unknown)
   - Husserl: misunderstanding has motivational force for phenomenology
-  - Incomprehension can lead to frustration, alienation, anxiety—phenomenological markers
+  - Incomprehension can lead to frustration, alienation, anxiety—phenomenological markers [Correction 2026-11-18: not found in the article: its full text at the URL above, fetched on this date, has 0 hits for "frustrat" and "anxiety", and its one "alienation" concerns the lived body; the "partial"/"total incomprehension" wording on the line two above also returned 0 hits.]
 - **Tenet alignment**: Dualism (first-person perspective on cognitive limits), Occam's Razor Has Limits (experiential dimension lost in third-person accounts)
 - **Quote**: "Investigating its experiential structure (both, of the patient and the clinician) is of the essence"
 
@@ -125,7 +127,7 @@ What is it like to encounter something that seems *formally impossible to think*
 - **URL**: https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf
 - **Type**: Academic paper
 - **Key points**:
-  - Jean-Luc Marion's phenomenology: declaring something "unthinkable" makes it a thinkable object under the label "unthinkable"
+  - Jean-Luc Marion's phenomenology: declaring something "unthinkable" makes it a thinkable object under the label "unthinkable" [Correction 2026-11-18: the source sentence concerns God, not "something", and is Mitralexis's report of Marion: "declaring God 'unthinkable' simply renders God a thinkable object of our thought under the label of 'unthinkable'"; carrying it over to impossibilities is the Map's extension.]
   - Apophatic approach tries to avoid turning impossibility into cataphatic idol
   - Even negative characterizations paradoxically give conceptual form
 - **Tenet alignment**: All tenets (methodological constraint for approaching cognitive limits)
@@ -137,7 +139,7 @@ What is it like to encounter something that seems *formally impossible to think*
 
 Conceptual impossibility presents a *hybrid void*:
 
-1. **Unexplorable dimension**: Formal contradictions like "round square" seem to resist genuine conceptualization. We can manipulate the *words* but cannot form the *concept*. McGinn's cognitive closure suggests this reflects limits in concept-forming procedures—just as rats lack the neural architecture for calculus, humans may lack the cognitive architecture for grasping certain impossibilities.
+1. **Unexplorable dimension**: Formal contradictions like "round square" seem to resist genuine conceptualization. We can manipulate the *words* but cannot form the *concept*. McGinn's cognitive closure suggests this reflects limits in concept-forming procedures—just as rats lack the neural architecture for calculus, humans may lack the cognitive architecture for grasping certain impossibilities. [Correction 2026-11-18: "rats lack the neural architecture for calculus" is not McGinn's wording (0 hits for "calculus" in his 1989 paper; his line is "What is closed to the mind of a rat may be open to the mind of a monkey"), and his closure concerns real properties a mind cannot reach, not impossibilities; the extension is the Map's.]
 
 2. **Occluded dimension**: The phenomenology suggests active blockage. When attempting to visualize a round square, thought doesn't simply fail to find content—it encounters *resistance*. The experience is not like "trying to remember a forgotten name" (absence of access) but more like "hitting a wall" (presence of obstacle).
 
@@ -159,7 +161,7 @@ The distinction matters: unexplorable voids are structural (our minds weren't bu
 **Cognitive science evidence**:
 - Epistemic emotions (confusion, doubt) serve as monitoring signals when cognition encounters obstacles
 - These feelings are distinct from canonical emotions—they track *structural* rather than *valenced* features of processing
-- Confusion "involves the experience of the limits of one's cognitive capacities"—not just difficulty but boundaries
+- Confusion "involves the experience of the limits of one's cognitive capacities"—not just difficulty but boundaries [Correction 2026-11-18: the phrase is from Vazard and Audrin (2022), not the Dietrich et al. editorial under which this note filed it.]
 
 ### Phenomenology
 
@@ -201,8 +203,8 @@ AI minds may illuminate this asymmetry. LLMs operate at the linguistic/symbolic 
 
 **Dialectical approach (Hegel)**:
 - Embrace contradiction as generative rather than limiting
-- Contradictions drive conceptual development (thesis-antithesis-synthesis)
-- Claim: we *do* think contradictions—and logic's habit of ranking contradiction below identity as a determination of essence is, for Hegel, "one of the fundamental prejudices of logic as hitherto understood" (his named prejudice concerns contradiction's rank, not directly its thinkability; the thinkability claim is what his dialectical practice presupposes)
+- Contradictions drive conceptual development (thesis-antithesis-synthesis) [Correction 2026-11-18: thesis-antithesis-synthesis is not Hegel's own schema; the SEP entry "Hegel's Dialectics" calls it "the traditional idea" of commentators and cites Mueller 1958 against it.]
+- Claim: we *do* think contradictions—and logic's habit of ranking contradiction below identity as a determination of essence is, for Hegel, "one of the fundamental prejudices of logic as hitherto understood" (his named prejudice concerns contradiction's rank, not directly its thinkability; the thinkability claim is what his dialectical practice presupposes) [Correction 2026-11-18: the closing parenthesis understates Hegel, who addresses thinkability directly (*Science of Logic*, Remark 3 to "Contradiction", Miller trans.): "speculative thinking consists solely in the fact that thought holds fast contradiction".]
 
 **Paraconsistent logic**:
 - Graham Priest's dialetheism: some contradictions are true
@@ -215,7 +217,7 @@ AI minds may illuminate this asymmetry. LLMs operate at the linguistic/symbolic 
 
 **Apophatic approaches**:
 - Via negativa: approach impossibility by saying what it is *not*
-- Marion's warning: even calling something "unthinkable" makes it thinkable *as* unthinkable
+- Marion's warning: even calling something "unthinkable" makes it thinkable *as* unthinkable [Correction 2026-11-18: Marion's point concerns God and is reported by Mitralexis; it is not a general claim about "something".]
 - Strategy: trace the boundary by mapping where thought breaks down rather than trying to think the impossible directly
 
 **Phenomenological investigation**:
@@ -342,7 +344,7 @@ Based on this research, a voids article could:
 
 - "Impossible Worlds." (Fall 2025). *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/archives/fall2025/entries/impossible-worlds/
 
-- Mitralexis, S. (2025). "Apophaticism in Contemporary Philosophy." In J. R. Betz & R. Van Nieuwenhove (eds.), *The Oxford Handbook of Apophatic Theology*. Oxford University Press. https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf
+- Mitralexis, S. (2025). "Apophaticism in Contemporary Philosophy." In J. R. Betz & R. Van Nieuwenhove (eds.), *The Oxford Handbook of Apophatic Theology*. Oxford University Press. https://rprt.northwestern.edu/documents/research-scholar-articles/mitralexis-article-3.pdf [Correction 2026-11-18: per Crossref (DOI 10.1093/9780191887017.003.0039, fetched on this date) the chapter was published in 2026, pp. 483–495, and the volume record (DOI 10.1093/9780191887017.001.0001) lists three editors: J. R. Betz, R. Van Nieuwenhove and C. Grodecki.]
 
 - "Nonexistent Objects." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/nonexistent-objects/
 

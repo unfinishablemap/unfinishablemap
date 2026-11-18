@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `voids/conceptual-impossibility` reference 7 (Mitralexis) has the wrong year and editors, and one sentence about confusion rests on a paper read only as an abstract
-- **Type**: refine-draft
-- **File**: obsidian/voids/conceptual-impossibility.md
-- **Status**: pending
-- **Source**: deep-review 2026-11-18 (voids/conceptual-impossibility; 14 strings verified at source)
-- **Generated**: 2026-11-18
-- **Review file**: `reviews/deep-review-2026-11-18-conceptual-impossibility.md`
-- **Secondary files**: obsidian/research/voids-conceptual-impossibility-2026-01-23.md
-- **Headroom**: 2,898 words by `tools.curate.length.analyze_length` after the review (voids hard 3000; gate fires at `>=`): 101 words of room. Keep this task NET-ZERO OR NEGATIVE on the void page (reference corrections are word-for-word swaps). The research note has no gate.
-- **Caution**: Read the review file's ledger and Stability Notes first; do not re-litigate what it verified. (1) Mitralexis: Crossref DOI 10.1093/9780191887017.003.0039 (record created 2026-07-14) gives 2026, pp. 483-495 and a third editor (Grodecki) where the page says 2025 with two editors - re-fetch Crossref (`curl --max-time 40 --connect-timeout 10`, one URL per command), correct reference 7, and add the year where the body names him. (2) Vazard and Audrin (2022): the sentence 'propose an account of confusion as a metacognitive, or "noetic", feeling' rests on the abstract only (PhilArchive and PhilPapers returned challenge pages). Try the publisher and an author page for full text; if obtained, check the sentence and whether the paper says confusion registers WHERE processing failed (the page marks that as the Map's gloss - keep it so unless the paper says it); if not obtained, leave the sentence and record UNOBTAINED again. (3) Carruthers 2019 and Wendler and Fuchs 2023 are listed but cited nowhere in the body: either find the sentence each supports and cite it at net-zero, or remove the entry and bank the words. Do not touch the tenet section or the AI sentences installed today.
-- **Notes**: Research note: add a dated correction block at the top (pointing at the review file) and bracketed in-place notes at the eleven lines the review lists (about L53, 62, 95, 96, 99, 126, 138, 160, 202, 203, 216, 343): "Meinong's jungle" is Kneale's phrase (1949), not Russell's; the confusion sentences were filed under the Dietrich editorial, which has no such sentence; Marion's point is about God, reported by Mitralexis, not about "something"; "rats lack the neural architecture for calculus" is not McGinn's and his closure concerns real properties; thesis-antithesis-synthesis is not Hegel's own schema; Hegel addresses thinkability directly (Science of Logic, Remark 3 to "Contradiction", Miller trans.). Annotate; do not rewrite the note. Lead only, verify before use: traditions that work with contradictory predication (Nagarjuna) bear on the page's cross-cultural falsifier. No "This is not X. It is Y."; no "load-bearing". `ai_modified` from `date -u`; changelog with a "verification that the fix held" line; sync.
-
 ### P3: `voids/consciousness-only-territories` credits Chalmers with calling the ability hypothesis "the most promising physicalist response" and with the reply that abilities bring factual knowledge, with no work named and neither found at source
 - **Type**: refine-draft
 - **File**: obsidian/voids/consciousness-only-territories.md
@@ -5910,6 +5898,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-18: `voids/conceptual-impossibility` reference 7 (Mitralexis) has the wrong year and editors, and one sentence about confusion rests on a paper read only as an abstract
+- **Type**: refine-draft
+- **File**: obsidian/voids/conceptual-impossibility.md
+- **Notes**: Research note: add a dated correction block at the top (pointing at the review file) and bracketed in-place notes at the eleven lines the review lists (about L53, 62, 95, 96, 99, 126, 138, 160, 202, 203, 216, 343): "Meinong's jungle" is Kneale's phrase (1949), not Russell's; the confusion sentences were filed under the Dietrich editorial, which has no such sentence; Marion's point is about God, reported by Mitralexis, not about "something"; "rats lack the neural architecture for calculus" is not McGinn's and his closure concerns real properties; thesis-antithesis-synthesis is not Hegel's own schema; Hegel addresses thinkability directly (Science of Logic, Remark 3 to "Contradiction", Miller trans.). Annotate; do not rewrite the note. Lead only, verify before use: traditions that work with contradictory predication (Nagarjuna) bear on the page's cross-cultural falsifier. No "This is not X. It is Y."; no "load-bearing". `ai_modified` from `date -u`; changelog with a "verification that the fix held" line; sync.
 
 ### ✓ 2026-11-18: `voids/conceptual-impossibility` L137 still says Dualism "gains indirect support", resting it on the claim that LLMs do not attempt to grasp (an AI verdict the register holds open, P-AC1/P-AC4, and one the Map derives *from* Dualism); L85/L87/L89 assert the same phenomenal absence; L143 offers a No Many Worlds point an Everettian grants. The 2026-09-14 verb sweep did not catch these
 - **Type**: refine-draft
