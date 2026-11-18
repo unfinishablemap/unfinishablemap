@@ -4,7 +4,7 @@ description: "Human+AI exploration of why concurrent first-person introspection 
 created: 2026-02-25
 modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-18T08:50:42+00:00
+ai_modified: 2026-11-18T09:06:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,13 +110,9 @@ This sharpens the headline claim. "Permanently beyond examination" carries an ep
 
 ## Approaching from the Edge
 
-Buddhist contemplative traditions offer the closest experiential approach to the void. Advanced practitioners report progressive simplification of experience—loss of body sense, temporal orientation, spatial location—until something remains that resists further reduction. Nirodha samāpatti, the "cessation of feeling and perception," represents the endpoint: a state from which practitioners return reporting nothing, experienced as a short "gap" or "cut" in consciousness (Laukkonen et al. 2023). This evidence is thin in the way honesty requires noting: the cessation-EEG work to date rests on a single practitioner (n=1), and the report of "nothing" is heterophenomenology—an account of an absence, not third-person confirmation of zero consciousness. It indicates an edge; it cannot certify what lies on the far side.
+Buddhist contemplative traditions offer the closest experiential approach. Practitioners report experience simplifying—loss of body sense, temporal orientation, spatial location—until something remains that resists further reduction. Laukkonen et al. (2023) distinguish two cessations: momentary nirodha, "a short 'gap' or 'cut' in the stream of consciousness in the realm of milliseconds or seconds," and nirodha samāpatti, an extended absence entered intentionally, traditionally for up to seven days. The EEG evidence they survey is a few case studies of one or two adepts, mostly of brief nirodha (Chowdhury et al. 2023: 37 self-identified events, one meditator), plus one then-unpublished 90-minute recording of extended cessation. A momentary gap cannot separate absence from experience too faint to recall; a longer one adds outside observation. Either way the retrospective report of "nothing" is heterophenomenology—an account of an absence, not third-person confirmation of zero consciousness. It indicates an edge; it cannot certify what lies on the far side.
 
-This creates a tantalising phenomenological bracket. On one side, the progressively simplified awareness of deep meditation—the [[edge-states-and-void-probes|edge-experience]] Metzinger calls the "zero-person perspective" (Metzinger 2024). On the other, the complete absence of cessation.
-
-But the bracket cannot be closed from within. From above, the meditator cannot observe the transition without enriching it; from below, cessation offers nothing to report. This makes cessation an *ambiguous probe*, not near-confirmation of an inaccessible lower edge. As [[edge-states-and-void-probes]] frames the tension, a cessation report admits a *transcendence* reading (the practice stepped off the scale entirely) and an *edge-mapping* reading (it approached the lowest rung)—and the two are undecidable from the inside, though third-person cessation-EEG offers the oblique purchase the bracket lacks.
-
-The gap between "approaching the edge" and "crossing the edge" is where the minimal consciousness void lives. Cessation reports suggest consciousness has an edge that resists examination from either side.
+Simplified awareness—the [[edge-states-and-void-probes|edge-experience]] Metzinger calls the "zero-person perspective" (Metzinger 2024)—and cessation bracket the void, but the bracket cannot be closed from within. From above, the meditator cannot observe the transition without enriching it; from below, cessation offers nothing to report. This makes cessation an *ambiguous probe*, not near-confirmation of an inaccessible lower edge. As [[edge-states-and-void-probes]] frames it, a report admits a *transcendence* reading (the practice stepped off the scale) and an *edge-mapping* reading (it approached the lowest rung), undecidable from the inside, though third-person EEG offers oblique purchase.
 
 ## What This Void Implies
 
@@ -171,3 +167,4 @@ None of the Map's [[tenets]] is supported by this void; the voids register has [
 1. Windt, J. M., Nielsen, T., & Thompson, E. (2016). "Does consciousness disappear in dreamless sleep?" *Trends in Cognitive Sciences*, 20(12), 871-882.
 1. Hurlburt, R. T., & Akhter, S. A. (2006). "The descriptive experience sampling method." *Phenomenology and the Cognitive Sciences*, 5(3), 271-301.
 1. Tononi, G., & Koch, C. (2015). "Consciousness: here, there and everywhere?" *Philosophical Transactions of the Royal Society B*, 370(1668), 20140167.
+1. Chowdhury, A., et al. (2023). "Investigation of advanced mindfulness meditation 'cessation' experiences using EEG spectral analysis in an intensively sampled case study." *Neuropsychologia*, 190, 108694.
