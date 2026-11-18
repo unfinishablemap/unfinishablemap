@@ -5,6 +5,19 @@ ai_modified: 2026-11-18T06:43:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-18T06:49:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/minimal-consciousness-void]]
+- **Step**: 1 of 6 (2026-11-18 synthesis order). Exit condition MET.
+- **Word count (`tools.curate.length.analyze_length`)**: 3,094 before, **2,963 after** (net -131; voids hard gate 3,000). Step 2 starts from 2,963. Banked for step 6: 7 words below the 2,970 exit line (37 below the gate; step 6 may add up to 40 and never exceed 2,990).
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Section accounting (whitespace-split, headings included)**: "Relation to Site Perspective" 210 -> 159 (-51): opening sentence 12 -> 18, Dualism 84 -> 76, Occam 68 -> 30, Bidirectional 41 -> 30. "Further Reading" 119 -> 39 (-80): six annotations removed for targets the body already links with context (minimal-consciousness, observation-and-measurement-void, self-opacity, edge-states-and-void-probes, boundary-and-projection, sleep-consciousness-void; each verified linked in the body); annotations kept for acquaintance-void and three-kinds-of-void, which the body does not link; all eight links kept, two pipes dropped. "The Search That Finds Too Much" 293 -> 293 (both Addendum edits net-zero together).
+- **Changes**: (1) Tenet section now opens "None of the Map's tenets is supported by this void" and links the P-V3 suspension; Dualism paragraph keeps "tenet-guided interpretation, not a deduction the evidence compels" (lost "and irreducible" and "even at the most basic level", no qualifier); Occam reduced to "illustrated, no more", no longer rests on IIT's criterion or the questionnaire's factor count; Bidirectional reduced to one sentence, "not engaged": attention altering an experience is an observer-effect physicalism predicts equally, and the Map's case rests on other grounds. The sentences "The void exists precisely because consciousness is causally efficacious" and "This is the bidirectional tenet in miniature" are gone. (2) Frontmatter description aligned to the lead (concurrent first-person introspection, by looking). (3) Addendum (a) "12-factor, 92-characteristic profile" removed with the Occam rewrite; (b) "identified 92 characteristics organised into a 12-factor model" -> "92 items long, yielded a tentative 12-factor model"; (c) first caveat now says the respondents were new and the 92 items came from the literature and practitioner pilot studies, so the non-independence is of framing. Item construction ESTABLISHED at the publisher (PLOS ONE full text fetched this run, Introduction): the authors say that from the relevant Eastern and Western literature and a series of pilot studies with committed practitioners they extracted 92 characteristics, which were then formed into questionnaire items. Paraphrased on the page, not quoted.
+- **Reply mode**: engagement with the physicalist reading of the introspective limit: Mode Three (framework boundary honestly marked); the observer-effect is predicted by both frameworks, so the section claims no in-framework advantage and says the dualist reading is the Map's.
+- **Not done here (by design)**: "The Enrichment Problem" (step 3), reference list (step 6), illusionism paragraph, everything on the NOT-OWNED list. todo.md untouched.
+- **Report-only grep** ("bidirectional tenet in miniature" / "precisely because consciousness is causally efficacious", obsidian/ and archive/): no article hits; remaining hits are records only (workflow/todo.md and six files under reviews/).
+- **Published**: yes
+
 ## 2026-11-18T06:43:26+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-11-18

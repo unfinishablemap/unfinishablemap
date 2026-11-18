@@ -1,10 +1,10 @@
 ---
 title: "The Minimal Consciousness Void"
-description: "Human+AI exploration of why consciousness cannot investigate its own lower bound—any act of introspection enriches experience beyond the minimum it seeks."
+description: "Human+AI exploration of why concurrent first-person introspection cannot reach the lower bound of consciousness by looking—each act of looking enriches the experience it examines."
 created: 2026-02-25
-modified: 2026-11-10
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-11T00:03:17.720588+00:00
+ai_modified: 2026-11-18T06:49:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-02-25
 last_curated:
 last_deep_review: 2026-07-19T07:04:23+00:00
@@ -68,11 +68,11 @@ These three dimensions converge on one conclusion: the basement level of conscio
 
 Thomas Metzinger's Minimal Phenomenal Experience (MPE) project represents the most systematic attempt to characterise the simplest form of consciousness. Working from "sixteen phenomenological case-studies" and "six semantic constraints" from the existing literature (Metzinger 2020), the project sought to identify "pure awareness"—consciousness stripped of all content.
 
-The result is instructive. What advanced meditators call "contentless" awareness they also describe, under careful questioning, as phenomenologically rich. The subsequent MPE-92M questionnaire identified 92 characteristics organised into a [[measuring-the-witness-attitude#factor-12|12-factor model]] of "pure awareness" phenomenology (Gamma & Metzinger 2021). The search for the minimum kept finding more than nothing.
+The result is instructive. What advanced meditators call "contentless" awareness they also describe, under careful questioning, as phenomenologically rich. The subsequent MPE-92M questionnaire, 92 items long, yielded a tentative [[measuring-the-witness-attitude#factor-12|12-factor model]] of "pure awareness" phenomenology (Gamma & Metzinger 2021). The search for the minimum kept finding more than nothing.
 
 This does not mean the meditators are wrong. They may be reporting the minimal state accessible to introspection—the lowest floor the observing mind can reach. But the enrichment problem guarantees this floor lies above the actual minimum, the two separated by the cost of observation. The companion question—whether such contentless awareness persists into genuine unconsciousness or merely seems contentless to a reporting mind—is taken up in [[contentless-awareness-evidence|contentless awareness and the evidence question]].
 
-Two caveats keep this evidence honest. First, the convergence is partly non-independent: the MPE-92M questionnaire is built from the same corpus of contemplative reports the project then triangulates against, so the phenomenological "floor" and the questionnaire "profile" are one report-tradition examined twice, not two independent lines. Second, Metzinger (2020) supplies a deflationary reading of why the state *feels* empty: the MPE is the content of a predictive model of tonic alertness, contentless-feeling because of phenomenal *transparency*—the brain has no introspective access to its own arousal-regulation algorithm, so only bare "wakefulness" content appears. The felt emptiness is then what a physicalist would predict, and the void's "occluded/irreducible" gloss is one interpretation of the transparency datum—consistent with it, not licensed by it.
+Two caveats keep this evidence honest. First, the convergence is partly non-independent: the survey's respondents were new, but its 92 items came from the literature and practitioner pilot studies, so the phenomenological "floor" and the questionnaire "profile" share one report-tradition's framing and are not independent lines. Second, Metzinger (2020) supplies a deflationary reading of why the state *feels* empty: the MPE is the content of a predictive model of tonic alertness, contentless-feeling because of phenomenal *transparency*—the brain has no introspective access to its own arousal-regulation algorithm, so only bare "wakefulness" content appears. The felt emptiness is then what a physicalist would predict, and the void's "occluded/irreducible" gloss is one interpretation of the transparency datum—consistent with it, not licensed by it.
 
 ## Direct vs Indirect Access
 
@@ -132,23 +132,23 @@ Several implications follow:
 
 ## Relation to Site Perspective
 
-The minimal consciousness void aligns with the Map's [[tenets]] in several ways.
+None of the Map's [[tenets]] is supported by this void; the voids register has [[positions/voids-as-evidence#^p-v3|suspended the cumulative step]].
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is the most directly relevant tenet. The attempt to find the simplest possible consciousness reveals that simplicity assumptions create problems rather than resolving them. IIT's Occam-friendly criterion (Φ > 0) leads toward panpsychism. Metzinger's search for the minimal state discovers a 12-factor, 92-characteristic profile. The void suggests consciousness may be irreducibly complex even at its simplest—that there is no clean, simple "atom of experience."
+**[[tenets#^dualism|Dualism]]** *favours* the void's metaphysical reading rather than establishing it. If consciousness is fundamental, its lower bound is something intrinsic to consciousness, not a physical threshold. On the dualist reading the void marks features resisting third-person analysis; on a physicalist reading the same introspective limit is an observer-effect over a determinate floor. The enrichment problem fixes the epistemic limit either way; which metaphysics it signifies is the Map's tenet-guided interpretation, not a deduction the evidence compels.
 
-**[[tenets#^dualism|Dualism]]** *favours* the void's metaphysical reading rather than establishing it. If consciousness is fundamental and irreducible, its lower bound is something intrinsic to consciousness, not a physical threshold. On the dualist reading the void marks features resisting third-person analysis even at the most basic level; on a physicalist reading the same introspective limit is an observer-effect over a determinate floor. The enrichment problem fixes the epistemic limit either way; which metaphysics it signifies is the Map's tenet-guided interpretation, not a deduction the evidence compels.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated, no more: the search for the simplest conscious experience has not delivered a clean "atom of experience," a difficulty a physicalist can grant equally.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** manifests in the enrichment problem itself. Consciousness does not passively observe its own states—it transforms what it examines. The void exists precisely because consciousness is causally efficacious: attending to experience changes experience. This is the bidirectional tenet in miniature.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is not engaged: attention altering an experience is an observer-effect physicalism predicts equally, and the Map's case that consciousness acts on the physical world rests on other grounds.
 
 ## Further Reading
 
-- [[minimal-consciousness]] — The concept of bare phenomenal experience at its simplest
-- [[observation-and-measurement-void]] — How every method of studying consciousness transforms what it studies, and why introspective reports cannot be verified against any independent standard
-- [[self-opacity|introspective opacity]] — Why we access mental contents but never the mechanisms producing them
-- [[edge-states-and-void-probes]] — What consciousness encounters at its cognitive boundaries
+- [[minimal-consciousness]]
+- [[observation-and-measurement-void]]
+- [[self-opacity]]
+- [[edge-states-and-void-probes]]
 - [[acquaintance-void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours
-- [[boundary-and-projection|The Boundary and Projection Void]] — The orthogonal void: spatial and functional extent rather than intensity
-- [[sleep-consciousness-void]] — Where consciousness goes during absence, and whether cessation is genuine zero
+- [[boundary-and-projection]]
+- [[sleep-consciousness-void]]
 - [[three-kinds-of-void]] — The taxonomy of unexplored, unexplorable, and occluded
 
 ## References
