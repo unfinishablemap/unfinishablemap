@@ -8,7 +8,7 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 ## 2026-11-18 09:08 UTC - refine-draft (driver, inline)
 - **Status**: Success
 - **File**: [[minimal-consciousness-void]]
-- **Change**: restored a concession step 5 cut for length. "Approaching from the Edge" had ended "the two are undecidable from the inside, though third-person cessation-EEG offers the oblique purchase the bracket lacks"; step 5 dropped the clause to pay for the corrected evidence sentence. It limits the void's claim (indirect routes constrain the minimum), so it is back in shorter form: "undecidable from the inside, though third-person EEG offers oblique purchase." Word count 2,960 to 2,967 (voids hard gate 3,000); step 6 starts from 2,967.
+- **Change**: restored a concession step 5 cut for length. "Approaching from the Edge" had ended "the two are undecidable from the inside, though third-person cessation-EEG offers the oblique purchase the bracket lacks"; step 5 dropped the clause to pay for the corrected evidence sentence. It limits the void's claim (indirect routes constrain the minimum), so it is back in shorter form: "undecidable from the inside, though third-person EEG offers oblique purchase." Word count 2,960 to 2,966 (voids hard gate 3,000); step 6 starts from 2,966.
 
 ## 2026-11-18T09:06:32+00:00 - refine-draft
 - **Status**: Success
