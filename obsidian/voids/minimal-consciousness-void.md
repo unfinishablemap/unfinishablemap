@@ -4,7 +4,7 @@ description: "Human+AI exploration of why concurrent first-person introspection 
 created: 2026-02-25
 modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-18T06:49:16+00:00
+ai_modified: 2026-11-18T07:22:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,13 +86,13 @@ These routes share a structure: each constrains the minimal state rather than es
 
 ## The Missing Threshold
 
-Integrated Information Theory (IIT) approaches the lower bound from a different direction—mathematical rather than phenomenological. IIT holds that any system with non-zero integrated information (Φ > 0) has some degree of experience. Even a photodiode—a sensor coupled to a memory element—qualifies.
+Integrated Information Theory (IIT) approaches the lower bound mathematically. On IIT, a system forming a maximum of integrated information (Φ) is conscious to that degree, however simple. In Tononi (2004) a bare photodiode discriminates but presumably does not see; Tononi and Koch (2015) hold that one "made up of a sensor and a memory element can have a modicum of experience."
 
-This implies a continuum with no natural lower bound, because the criterion (Φ > 0) admits systems of arbitrary simplicity. IIT is invoked here as one illustrative model of a thresholdless continuum, not a settled result: a 2023 open letter signed by 124 scholars argued it should be labelled pseudoscience until empirically testable. The void does not depend on IIT; its structural implication holds for any continuum view. If consciousness grades continuously toward zero, no clean threshold separates experiencing from non-experiencing systems—the boundary the void seeks may be an asymptotic approach to zero that never arrives.
+The criterion (Φ > 0) is itself a boundary—zero Φ, no experience—so IIT denies only that size or complexity sets the floor; above zero, experience grades continuously. IIT is one graded model, contested (a 2023 open letter from 124 scholars called it pseudoscience) and not the Map's own. The void does not depend on it: on any graded view, a determinate boundary can lie below degrees too faint to examine.
 
 A further complication: "minimal" may not be one dimension. On the multidimensional reading of global states (Bayne et al. 2016; Birch et al. 2020)—a live, contested framing, not a settled result—the void does not dissolve but multiplies: not one lower edge but several, each resisting a clean threshold, which sharpens the basement problem. [[minimal-consciousness]] develops the plural framing across its independent axes.
 
-The Map's [[tenets#^dualism|dualist]] framework deepens this. If consciousness is fundamental, its lower bound is fixed not by a physical threshold (a minimum neuron count or Φ value) but by something about consciousness itself—which the enrichment problem shows it cannot examine.
+On the Map's [[tenets#^dualism|dualist]] tenet, no neuron count or Φ value generates consciousness; yet it couples with matter where [[minimal-consciousness|interface conditions]] permit—a physical eligibility condition. What stays intrinsic is the faintest degree's character, which concurrent introspection cannot examine.
 
 ## Deflationary Alternatives
 
@@ -124,9 +124,9 @@ The minimal consciousness void differs from other voids in a specific way: the d
 
 Several implications follow:
 
-**The hard problem persists all the way down.** The [[boundary-and-projection]] void asks about the *spatial and functional extent* of consciousness; the minimal consciousness void asks about its *intensity*—two orthogonal edges resisting investigation. Whatever the minimum is, it still has the property of being "something it is like," and that property resists third-person explanation at every level of complexity. Simplification does not dissolve the mystery; it isolates it. A photodiode's hypothetical flicker is no less puzzling than a symphony of human emotion.
+**The hard problem persists all the way down.** The [[boundary-and-projection]] void asks about the *spatial and functional extent* of consciousness; the minimal consciousness void asks about its *intensity*—two orthogonal edges resisting investigation. Whatever the minimum is, it still has the property of being "something it is like," and that property resists third-person explanation at every level of complexity. Simplification does not dissolve the mystery; it isolates it.
 
-**Consciousness may have no natural minimum.** If consciousness extends broadly across the animal kingdom (Nagel) and any continuum view is right that vanishingly small degrees suffice, then ever-simpler experiences may extend below any threshold we can examine. The void is not a wall but an asymptote.
+**Consciousness may have no minimum we can find.** If consciousness extends broadly across the animal kingdom (Nagel) and some graded view is right that vanishingly small degrees suffice, ever-fainter experiences may lie below any we can examine—an asymptote on the Map's reading, even above a determinate zero.
 
 **Investigation of consciousness is self-limiting.** The *direct concurrent* enrichment problem is structural—the instrument modifies the measurement. This places the void alongside the [[observation-and-measurement-void]] and [[self-opacity]] as evidence that consciousness has a constitutive relationship with opacity: it functions in part because certain aspects of its operation remain invisible to itself. The indirect routes above soften the verdict without overturning it—they constrain the floor, but none reads it off.
 
@@ -170,3 +170,4 @@ None of the Map's [[tenets]] is supported by this void; the voids register has [
 1. Tsuchiya, N., Wilke, M., Frässle, S., & Lamme, V. A. F. (2015). "No-report paradigms: Extracting the true neural correlates of consciousness." *Trends in Cognitive Sciences*, 19(12), 757-770.
 1. Windt, J. M., Nielsen, T., & Thompson, E. (2016). "Does consciousness disappear in dreamless sleep?" *Trends in Cognitive Sciences*, 20(12), 871-882.
 1. Hurlburt, R. T., & Akhter, S. A. (2006). "The descriptive experience sampling method." *Phenomenology and the Cognitive Sciences*, 5(3), 271-301.
+1. Tononi, G., & Koch, C. (2015). "Consciousness: here, there and everywhere?" *Philosophical Transactions of the Royal Society B*, 370(1668), 20140167.
