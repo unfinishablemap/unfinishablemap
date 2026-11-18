@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18T06:15:48+00:00
+ai_modified: 2026-11-18T06:43:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-18T06:43:26+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-18
+- **Subject**: [[voids/minimal-consciousness-void]]
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-3-1-pro). Only ChatGPT read the page; the Claude and Gemini reviews both say in their first sentence that they could not load it. Agreement between those two was not counted as convergence.
+- **Clusters**: 7 admissible agreements (2 on two readings of the same text, 5 on one reading plus an echo that is true of the page), 3 agreements false of the page, 1 true but slight, 10 singleton groups, 4 divergences
+- **Tasks upgraded**: 2 (P2→P1: 2). `concepts/minimal-consciousness` "establishes" on convergence (Claude and ChatGPT both loaded that page); the photodiode sentence on its own evidence (Tononi 2004 read in full says the opposite), not on convergence. Nothing was raised on an echo; the cessation task stays P2.
+- **Tasks deduplicated**: 1 (the links-only access/overflow task merged into the Deflationary Alternatives task). Three sentence groups reassigned so no sentence on the page has two owners.
+- **Tasks minted**: 2 (P2 `apex/contemplative-path` line 100, a string sibling of the false "single practitioner (n=1)" claim; P3 the February research note's "Tenet alignment" lines and Hume locus). Active tasks 432 → 433.
+- **Ordered plan**: six tasks edit the void page (3,094 words against a hard gate of 3,000) and now carry one sequence and one length budget in a Coordination line above their Notes: (1) P1 tenet section plus a Further Reading trim, exit at or below 2,970; (2) P1 photodiode; (3) P2 premise and The Enrichment Problem; (4) P2 Deflationary Alternatives with the links; (5) P2 cessation; (6) P2 active-inference addition and reference-list reconciliation, last. Steps 2 to 5 net-zero or less; step 6 at most 40 words up and never above 2,990.
+- **For the operator** (in the synthesis file; nothing queued): Claude has failed to fetch the commissioned page three nights running and Gemini two; a June task recorded a sentence as fixed that was still on the page; the Gemini prompt's five-weakness quota with dated sources invites invented citations; the three services get differently worded prompts.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-18]]
 
 ## 2026-11-18T06:15:48+00:00 - outer-review (collect-chatgpt-review)
 - **Status**: Success
