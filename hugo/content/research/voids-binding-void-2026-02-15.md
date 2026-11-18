@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-11-18 10:57:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ date: &id001 2026-02-15
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-04-23 12:41:29+00:00
+lastmod: 2026-11-18 10:57:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -63,6 +63,7 @@ The binding void concerns how disparate elements of conscious experience—colou
   - James argued we cannot experientially grasp how separate experiences combine into unified wholes
 - **Tenet alignment**: Dualism (Descartes' indivisibility argument flows from unity), Occam's Razor Has Limits (primitivist views acknowledge irreducible complexity)
 - **Quote**: "Introspection may itself be a mechanism for unifying otherwise disunified experiences."
+- **Correction 2026-11-18 (source read: live entry, 2025 revision by Masrour, Brook & Raymont)**: the string "strongly supports" does not occur in the entry. The entry's sentence is "The introspective support for the Unity Thesis has also been questioned", followed by three doubts: introspection "might be constrained by informational bottlenecks that may not apply to phenomenal consciousness", "might lack sensitivity to disunity", and "could itself be a mechanism for unifying otherwise disunified experiences" (the Quote line above has "may" for the entry's "could"). All three are reasons to doubt the introspective evidence for unity; none is about access to a binding mechanism. The entry cites Dainton's primitivism to the 2005 second edition, reports the Occam objection as Hill (2018), raises the "sufficiently ampliative" worry about oneness-first accounts (Bayne & Chalmers, Tye) as an open concern, and lists non-primitivist relation-first analyses (Masrour, Watzl, Roelofs).
 
 ### Chalmers — "What is the Unity of Consciousness?"
 - **URL**: https://consc.net/papers/unity.html
@@ -74,6 +75,7 @@ The binding void concerns how disparate elements of conscious experience—colou
   - The "what-it-is-like" conception cannot distinguish certain disunified configurations from unified ones
 - **Tenet alignment**: Bidirectional Interaction (consciousness structures its own unity, influencing what can be accessed), Occam's Razor Has Limits (the distinction between access and phenomenal unity resists simple reduction)
 - **Quote**: "The subject has pathologies of access, so that the contents of the field are accessible only singly and not jointly."
+- **Correction 2026-11-18 (source read: consc.net full text)**: the paper is by Bayne and Chalmers jointly, not Chalmers alone. The quoted words are verbatim but begin mid-sentence ("It is just that the subject has pathologies of access, ...") and state a possibility the authors hold open ("the possibility remains open that split-brain subjects have a unified phenomenal field"), not a finding. "Two distinct aspects" in the paper refers to objectual access unity and objectual phenomenal unity as two aspects of the binding problem. The fourth key point is reversed: the claim that no "what it is like" facts distinguish certain unified from disunified configurations is Hurley's, and Bayne and Chalmers reject the inference drawn from it. The paper also says subsumption is, as it stands, "something of an intuitive primitive". The Stanford Encyclopedia reports that Bayne later abandoned this split-brain model for a "switch model".
 
 ### William James — "A Pluralistic Universe" (Lecture V: The Compounding of Consciousness)
 - **URL**: https://standardebooks.org/ebooks/william-james/a-pluralistic-universe/text/chapter-5
@@ -85,6 +87,7 @@ The binding void concerns how disparate elements of conscious experience—colou
   - Initially denied any possibility of overlapping or compounding; later grew more radical under radical empiricism
 - **Tenet alignment**: Dualism (the unity of experience is not deducible from physical composition), Occam's Razor Has Limits (James found no simple account adequate)
 - **Quote**: "Take a sentence of a dozen words, and take twelve men and tell to each one word. Then stand the men in a row or jam them in a bunch, and let each think of his word as intently as he will; nowhere will there be a consciousness of the whole sentence."
+- **Correction 2026-11-18 (source read: *Principles* ch. VI at York Classics; *A Pluralistic Universe* Lecture V at Standard Ebooks)**: the "Take a sentence of a dozen words" passage and the "shut in its own skin, windowless" passage (which reads "ignorant of what the other feelings are and mean") are in *The Principles of Psychology* (1890) ch. VI, p. 160, not in Lecture V. James's 1890 target is the mind-stuff theory, the self-compounding of mental units, which he calls "logically unintelligible"; his own conclusion there is that the thought of the whole is a single new state. In Lecture V he says his chapter had done "little more than quote" earlier critics (he names Lotze) and reports giving up "the logic" that had made compounding look impossible. "James demonstrated" (Evidence section below) overstates an argument its author withdrew, and the argument is the ancestor of the combination problem, which this note distinguishes from binding.
 
 ### Dainton — "Stream of Consciousness"
 - **URL**: https://philpapers.org/rec/DAISOC-3
@@ -93,6 +96,7 @@ The binding void concerns how disparate elements of conscious experience—colou
   - Treats co-consciousness as a primitive unanalysable relation—the most fundamental feature of phenomenal experience
   - Co-consciousness is "being experienced together" but cannot be reduced to anything more basic
   - Critics charge this violates Occam's razor, but Dainton responds that all analyses of unity ultimately bottom out in something primitive
+- **Correction 2026-11-18**: the book was not read (PhilPapers record only). "Being experienced together" is a gloss, not a verified quotation, and the reply attributed to Dainton in the third point is unsourced. The Occam objection is Hill's (2018), as the Stanford Encyclopedia reports it.
 - **Tenet alignment**: Occam's Razor Has Limits (the demand for simpler explanation may be inappropriate here; some phenomena resist decomposition)
 
 ### McGinn — "Can We Solve the Mind-Body Problem?"
@@ -103,6 +107,7 @@ The binding void concerns how disparate elements of conscious experience—colou
   - The phenomenon of blindsight indicates experience has structural features not subject to introspection
   - Human cognitive faculties may be cognitively closed to the mechanism of consciousness—including how it achieves unity
   - A naturalistic explanation may exist but remain permanently beyond human comprehension
+- **Correction 2026-11-18 (source read: full text of the 1989 paper)**: "hidden structure" and "blindsight" do not occur in this paper (0 hits each); they belong to McGinn's later essay "The Hidden Structure of Consciousness" (in *The Problem of Consciousness*, 1991), which was not read. The 1989 paper does not discuss unity (0 hits), so the third point's "including how it achieves unity" is this note's extension. McGinn's position is naturalistic ("naturalistic but not constructive"), so the tenet-alignment line below, which reads the closure as suggesting non-physical aspects, enlists him for a conclusion he rejects.
 - **Tenet alignment**: Mysterianism (the binding mechanism is cognitively closed), Dualism (the hidden structure suggests non-physical aspects), Occam's Razor Has Limits (the resolution may require cognitive resources humans lack)
 
 ### Tononi — Integrated Information Theory
@@ -113,6 +118,7 @@ The binding void concerns how disparate elements of conscious experience—colou
   - Two key properties: differentiation (many possible experiences) and integration (unity of each experience)
   - Parts of a conscious system must be more strongly connected to each other than to anything outside
   - Remains controversial; criticised as unfalsifiable—the mathematical formalism does not explain *why* integration produces unity
+- **Correction 2026-11-18 (source read: PubMed abstract of Tononi 2008)**: these points come from the IEP article, not from Tononi. IIT claims an identity ("consciousness is integrated information"), so "necessary but not sufficient conditions" (Indirect Methods below) is this note's assessment and not the theory's own claim.
 - **Tenet alignment**: The theory attempts to bridge the binding void mathematically but arguably relocates rather than eliminates it
 
 ### Neural Binding Research — Gamma Oscillations
@@ -123,6 +129,7 @@ The binding void concerns how disparate elements of conscious experience—colou
   - Binding-by-synchrony hypothesis: features are unified through temporal synchrony of neural firing
   - Intracranial EEG studies show cortico-cortical co-ripples (~90 Hz) increase during binding-relevant tasks
   - The neural correlate does not explain *why* synchronous firing produces unified experience—the explanatory gap persists
+- **Correction 2026-11-18**: these points run feature binding together with phenomenal unity. Revonsuo (1999, abstract read) separates formulations of the binding problem that make no mention of consciousness from those concerning phenomenal experience; binding-by-synchrony is a contested hypothesis about the former (Shadlen & Movshon 1999, *Neuron* 24(1), 67–77, metadata read only).
 - **Tenet alignment**: Minimal Quantum Interaction (synchrony provides a potential physical substrate for non-physical influence), Bidirectional Interaction (consciousness may actively participate in binding rather than passively receiving it)
 
 ### Descartes — The Indivisibility Argument
@@ -167,7 +174,7 @@ The binding void occupies a specific position in the Map's void taxonomy:
 
 ### Evidence for the Limit
 
-**The primitivist convergence.** Multiple independent philosophical analyses conclude that co-consciousness is primitive—it cannot be reduced to anything more basic. When different approaches to a question converge on "this is where analysis stops," this is evidence of a genuine boundary rather than insufficient effort. Dainton treats it as primitive. Bayne's subsumption analysis threatens circularity. Representational analyses face the same problem. The convergence on irreducibility is itself data.
+**The primitivist convergence.** (Superseded 2026-08-17 and 2026-11-18: only Dainton is a primitivist; see the corrections above.) Multiple independent philosophical analyses conclude that co-consciousness is primitive—it cannot be reduced to anything more basic. When different approaches to a question converge on "this is where analysis stops," this is evidence of a genuine boundary rather than insufficient effort. Dainton treats it as primitive. Bayne's subsumption analysis threatens circularity. Representational analyses face the same problem. The convergence on irreducibility is itself data.
 
 **The explanatory gap in neuroscience.** Neural correlates of binding (gamma oscillations, synchronous firing) describe *when* binding occurs but not *why* synchronous firing produces unified experience. The binding-by-synchrony hypothesis locates the physical correlate without closing the explanatory gap—a pattern characteristic of void territory rather than merely unsolved problems.
 
