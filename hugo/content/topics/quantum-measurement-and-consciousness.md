@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-11-01 00:41:15+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-18 21:22:21+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/quantum-measurement-consciousness-interface/
@@ -24,7 +24,7 @@ concepts:
 - '[[post-decoherence-selection]]'
 - '[[causal-consistency-constraint]]'
 created: 2026-02-01
-date: &id001 2026-04-18
+date: &id001 2026-11-18
 description: 'The measurement problem and the hard problem share an identical logical
   structure: both concern where first-person facts resist absorption into third-person
   descriptions. The Map reads them as two faces of the consciousness-physics interface.'
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 15:00:19+00:00
-lastmod: 2026-11-01 00:41:15+00:00
+lastmod: 2026-11-18 21:22:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -147,7 +147,7 @@ Every interpretation either smuggles the observer in through a back door, elimin
 
 The structural parallel reveals that interpretations of quantum mechanics are implicitly positions on consciousness. Many-worlds denies that first-person selection is genuine—parallel to eliminativism about qualia. Hidden variables deny the gap itself—parallel to reductive physicalism. Objective collapse accepts a physical gap but declines to fill it with consciousness—parallel to [mysterianism](/concepts/mysterianism/). QBism embraces the observer but presupposes the consciousness it cannot explain—a feature the [wider pragmatist family](/topics/pragmatist-quantum-foundations-and-the-agent/) (QBism, Healey, Brukner-Zeilinger, Stapp) shares, and which dualism supplies.
 
-These mappings follow from the structural identity between the two problems and contribute to the [broader convergence argument for dualism](/topics/the-convergence-argument-for-dualism/): when independent lines of reasoning all point in the same direction, the cumulative case exceeds any individual argument.
+These mappings follow from the structural identity between the two problems and contribute to the [broader convergence argument for dualism](/topics/the-convergence-argument-for-dualism/), at that argument's own grade: the lines share premises, so their agreement is coherence within the Map's framework until an independence test is passed ([P-M2](/positions/methodology-and-calibration/#p-m2)).
 
 ## The Indexical Dimension
 

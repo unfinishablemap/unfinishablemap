@@ -2,9 +2,9 @@
 title: "The Convergence Argument for Dualism"
 description: "Arguments converge on dualism from different starting points—a pattern that itself argues for dualism, though Bayesian cluster analysis shows they are not all independent."
 created: 2026-02-18
-modified: 2026-02-28
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-09-17T13:24:30+00:00
+ai_modified: 2026-11-18T21:22:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[apex/taxonomy-of-voids]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-2
 ai_generated_date: 2026-02-18
 last_curated:
 last_deep_review: 2026-07-17T21:41:12+00:00
@@ -172,7 +172,7 @@ The disanalogy is genuine but not unlimited: [[type-specificity|type-specific]] 
 
 ## Relation to Site Perspective
 
-The convergence argument supports the [[tenets#^dualism|Dualism tenet]] at a meta-level: rather than adding another first-order argument to the catalogue, it explains why the accumulation of arguments matters epistemologically. The Map holds that consciousness is not reducible to physical processes — and the convergence of independent routes to this conclusion is part of why.
+The convergence argument supports the [[tenets#^dualism|Dualism tenet]] at a meta-level: rather than adding another first-order argument to the catalogue, it explains why the accumulation of arguments matters epistemologically. The Map holds that consciousness is not reducible to physical processes — and the convergence of partly independent routes to it is part of why.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is directly relevant. Physicalism's appeal rests partly on parsimony — one kind of stuff is simpler than two — but parsimony is a tiebreaker between theories of equal explanatory power. When multiple substantially independent lines of evidence favor dualism, physicalism's parsimony advantage is outweighed by its explanatory disadvantage. Dualism offers a unified explanation for the convergence pattern; physicalism must provide either a single counter-explanation (such as the phenomenal concept strategy, which faces its own difficulties) or separate responses to each independent cluster.
 

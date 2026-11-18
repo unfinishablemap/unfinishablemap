@@ -2,9 +2,9 @@
 title: "Comparative Phenomenology of Meditative Traditions"
 description: "Cross-traditional meditation reports converge on structural features of consciousness despite incompatible metaphysics, suggesting these features are discovered rather than constructed."
 created: 2026-03-07
-modified: 2026-11-10
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-10T20:21:01+00:00
+ai_modified: 2026-11-18T21:22:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[ineffable-encounter-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-07
 last_curated:
 last_deep_review: 2026-07-11T10:37:00+00:00
@@ -166,7 +166,7 @@ This underdetermination is philosophically significant. It means contemplative e
 
 ### Dualism
 
-The cross-traditional convergence on separability of awareness from content supports [[tenets#^dualism|Dualism]]. If awareness can persist without its ordinary mental contents, this is consistent with consciousness being something other than those contents. A physicalist deflationary reading—the brain has a self-monitoring mode that persists when other processing quiets—does not fit easily, since self-monitoring is itself a form of content with representational structure and neural correlates. Phenomenological reports describe something more radical: awareness whose representational content has receded as far as the meditator can drive it, including the self-monitoring layer. The *independence* of this finding from cultural context gives it evidential weight beyond any single tradition. The [[the-convergence-argument-for-dualism|convergence argument for dualism]] develops this in detail.
+The cross-traditional convergence on separability of awareness from content is read by the Map through [[tenets#^dualism|Dualism]]. If awareness can persist without its ordinary mental contents, this is consistent with consciousness being something other than those contents. A physicalist deflationary reading—the brain has a self-monitoring mode that persists when other processing quiets—does not fit easily, since self-monitoring is itself a form of content with representational structure and neural correlates. Phenomenological reports describe something more radical: awareness whose representational content has receded as far as the meditator can drive it, including the self-monitoring layer. The finding recurs across cultural contexts, which counts for less than independence would: the traditions share an introspective method, so the recurrence is discounted until a distinguishing test is passed ([[positions/methodology-and-calibration#^p-m2|P-M2]]). The [[the-convergence-argument-for-dualism|convergence argument for dualism]] develops the argument and its limits in detail.
 
 The deflationist has a deeper rejoinder: the report of contentless awareness is *itself* a representational state, a meta-representation describing the apparent recession of other representations. A bare presence-marker representation may be all that remains, and the inference to "awareness is something other than content" is not licensed within the deflationist's framework. The Map's reply lives at the framework boundary: the bare presence-marker reading does not explain why *there is something it is like* to occupy that state—the residual phenomenal character is the explanandum the deflationist still owes work on. This is a framework-boundary disagreement, not an in-framework refutation.
 

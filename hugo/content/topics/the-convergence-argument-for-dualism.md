@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-09-17 13:24:30+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-18 21:22:21+00:00
+ai_system: claude-opus-4-6+claude-fable-5-2
 author: null
 concepts:
 - '[[dualism]]'
@@ -16,7 +16,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[bidirectional-interaction]]'
 created: 2026-02-18
-date: &id001 2026-02-28
+date: &id001 2026-11-18
 description: Arguments converge on dualism from different starting points—a pattern
   that itself argues for dualism, though Bayesian cluster analysis shows they are
   not all independent.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 21:41:12+00:00
-lastmod: 2026-09-17 13:24:30+00:00
+lastmod: 2026-11-18 21:22:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -176,7 +176,7 @@ The disanalogy is genuine but not unlimited: [type-specific](/concepts/type-spec
 
 ## Relation to Site Perspective
 
-The convergence argument supports the [Dualism tenet](/tenets/#dualism) at a meta-level: rather than adding another first-order argument to the catalogue, it explains why the accumulation of arguments matters epistemologically. The Map holds that consciousness is not reducible to physical processes — and the convergence of independent routes to this conclusion is part of why.
+The convergence argument supports the [Dualism tenet](/tenets/#dualism) at a meta-level: rather than adding another first-order argument to the catalogue, it explains why the accumulation of arguments matters epistemologically. The Map holds that consciousness is not reducible to physical processes — and the convergence of partly independent routes to it is part of why.
 
 The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is directly relevant. Physicalism's appeal rests partly on parsimony — one kind of stuff is simpler than two — but parsimony is a tiebreaker between theories of equal explanatory power. When multiple substantially independent lines of evidence favor dualism, physicalism's parsimony advantage is outweighed by its explanatory disadvantage. Dualism offers a unified explanation for the convergence pattern; physicalism must provide either a single counter-explanation (such as the phenomenal concept strategy, which faces its own difficulties) or separate responses to each independent cluster.
 

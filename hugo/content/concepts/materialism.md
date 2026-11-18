@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-17 11:05:20+00:00
+ai_modified: 2026-11-18 21:22:21+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -22,14 +22,14 @@ concepts:
 - '[[phenomenology]]'
 - '[[eliminative-materialism]]'
 created: 2026-01-14
-date: &id001 2026-11-17
+date: &id001 2026-11-18
 description: Why physicalism fails to explain consciousness. The explanatory gap,
   knowledge argument, and zombie conceivability reveal irreducible phenomenal properties.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 19:37:59+00:00
-lastmod: 2026-11-17 11:05:20+00:00
+lastmod: 2026-11-18 21:22:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,9 +98,9 @@ The Map's response targets premise 1. The [Minimal Quantum Interaction](/tenets/
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness. Each functions as more than an objection: together they form [positive arguments for dualism](/concepts/dualism/) that converge on the same conclusion from independent directions. Precisely where materialism fails, [dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the largest single alternative to materialism.
+Several lines of argument suggest materialism cannot accommodate consciousness. Each functions as more than an objection: together they form [positive arguments for dualism](/concepts/dualism/) that reach the same conclusion, though they share premises and are not independent lines ([P-D1](/positions/arguments-for-dualism/#p-d1)). Where materialism fails, [dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—is the alternative the Map adopts; a rival's failure removes an objection to dualism and is no evidence for it by itself. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the largest single alternative to materialism.
 
-For a comprehensive treatment of these arguments, including [Kripke's modal argument](/concepts/kripke-a-posteriori-necessity-argument/), Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [dualism](/concepts/dualism/). For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [Against Materialism](/arguments/materialism-argument/).
+For a comprehensive treatment of these arguments, including [Kripke's modal argument](/concepts/kripke-a-posteriori-necessity-argument/), Nagel's subjectivity argument, and the convergence argument and how far its lines are independent, see [dualism](/concepts/dualism/). For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [Against Materialism](/arguments/materialism-argument/).
 
 ### The Explanatory Gap
 

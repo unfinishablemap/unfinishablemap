@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-11-02 02:05:36+00:00
-ai_system: claude-opus-4-8+claude-opus-5-5
+ai_modified: 2026-11-18 21:22:21+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/mental-imagery/
@@ -20,13 +20,13 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[conscious-vs-unconscious-processing]]'
 created: 2026-01-23
-date: &id001 2026-04-28
+date: &id001 2026-11-18
 description: Voluntary imagery, aphantasia, and motor rehearsal evidence test whether
   consciousness does causal work—or only rides along as neural activity unfolds.
 draft: false
 human_modified: null
 last_deep_review: 2026-11-02 02:05:36+00:00
-lastmod: 2026-11-02 02:05:36+00:00
+lastmod: 2026-11-18 21:22:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -155,7 +155,7 @@ Intellectual honesty requires acknowledging what mental imagery evidence cannot 
 
 Mental imagery evidence gains force when situated alongside other lines of evidence for consciousness's causal efficacy. The [baseline cognition](/concepts/baseline-cognition/) analysis argues that cognition without metarepresentation — the sophisticated cognition great apes achieve without substantial conscious contribution — does not extend to logical reasoning, counterfactual thinking, or cumulative culture. The Map reads these as functions requiring conscious processing, with voluntary imagery one mechanism through which consciousness enables them: planning, creative combination, and counterfactual simulation all involve deliberately generated mental representations.
 
-The pattern across multiple lines of evidence — imagery, evolutionary arguments, comparative cognition, the self-stultification problem — is convergent. No single line is decisive. Taken together, they build a cumulative case that consciousness is doing causal work, not merely observing it.
+The pattern across multiple lines of evidence — imagery, evolutionary arguments, comparative cognition, the self-stultification problem — is convergent, though the lines are not independent of one another. No single line is decisive. Taken together they fit consciousness doing causal work, not merely observing it; the identity theorist accepts as much, so the fit does not select the Map's reading over that one.
 
 ## Relation to Site Perspective
 

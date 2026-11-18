@@ -2,9 +2,9 @@
 title: "Epiphenomenalism"
 description: "Consciousness as causally inert byproduct. Self-stultification burdens its bare-correlation form; the phenomenal-concept reply survives, and AI limits scope."
 created: 2026-01-09
-modified: 2026-10-29
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-02T14:09:06+00:00
+ai_modified: 2026-11-18T21:22:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ coalesced_from:
   - "/concepts/arguments-against-epiphenomenalism/"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-06-21T00:00:00+00:00
@@ -85,7 +85,7 @@ This reasoning is weak. We also don't understand how physical states produce con
 
 ## The Self-Stultification Problem
 
-The most powerful objection to epiphenomenalism is that it undermines itself. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents the formal argument; the [[#Convergence of Arguments|convergence section below]] shows how four independent argument types compound.
+The most powerful objection to epiphenomenalism is that it undermines itself. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents the formal argument; the [[#Convergence of Arguments|convergence section below]] shows how four argument types, in two families, compound.
 
 Consider: if epiphenomenalism is true, then your belief in epiphenomenalism was not caused by the argument you found convincing. It was caused entirely by brain states having nothing to do with the reasoning. Your conscious understanding played no role in forming the belief.
 
@@ -155,7 +155,7 @@ Epiphenomenalism must deny this: some neural state causes both the phenomenal kn
 
 ## Convergence of Arguments
 
-The case against epiphenomenalism does not rest on any single argument. Four independent argument types converge:
+The case against epiphenomenalism does not rest on any single argument. Four argument types converge, in two families, epistemological (self-stultification, introspection) and explanatory (evolutionary, knowledge argument):
 
 | Argument Type | Target | Conclusion |
 |---------------|--------|------------|
@@ -164,9 +164,9 @@ The case against epiphenomenalism does not rest on any single argument. Four ind
 | Phenomenological (introspection) | Self-knowledge | Cannot account for introspective access |
 | Knowledge argument reversed | Behavioural change | Forgoes the natural causal explanation |
 
-Each succeeds or fails independently, but together they close escape routes that any single argument leaves open. An epiphenomenalist might respond to each with a targeted defence, but the defences must be independently plausible and mutually consistent. The cumulative burden escalates even when individual defences succeed.
+Within a family they do not succeed or fail independently, but together they still close escape routes that any single argument leaves open. An epiphenomenalist might respond to each with a targeted defence, but the defences must be independently plausible and mutually consistent. The cumulative burden escalates even when individual defences succeed.
 
-Further, the Indian, African, and Western traditions each concluded that consciousness is causally efficacious, reaching that conclusion on at least near-independent footing—near-independence on the Indian/Western axis, a candidate rather than an established lineage on the West African one (see [[cross-cultural-convergence-on-mental-causation]], graded at [[positions/arguments-for-dualism|P-D3]]). The epiphenomenalist must explain not only why four independent argument types fail but why traditions reasoning by different methods arrived at the same error.
+Further, the Indian, African, and Western traditions each concluded that consciousness is causally efficacious, reaching that conclusion on at least near-independent footing—near-independence on the Indian/Western axis, a candidate rather than an established lineage on the West African one (see [[cross-cultural-convergence-on-mental-causation]], graded at [[positions/arguments-for-dualism|P-D3]]). The epiphenomenalist must explain not only why four argument types fail but why traditions reasoning by different methods arrived at the same error.
 
 ## Relation to the Map's Perspective
 

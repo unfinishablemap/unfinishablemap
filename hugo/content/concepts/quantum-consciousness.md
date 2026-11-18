@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-11-01 13:27:50+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-18 21:22:21+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[quantum-neural-timing-constraints]]'
@@ -21,14 +21,14 @@ concepts:
 - '[[consciousness-in-smeared-quantum-states]]'
 - '[[quantum-completeness]]'
 created: 2026-01-09
-date: &id001 2026-10-29
+date: &id001 2026-11-18
 description: 'How consciousness might interact with quantum mechanics: Orch OR microtubule
   collapse, Stapp''s quantum Zeno effect, and Fisher''s nuclear spin entanglement.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:33:15+00:00
-lastmod: 2026-11-01 13:27:50+00:00
+lastmod: 2026-11-18 21:22:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ Orch OR locates quantum effects in neuronal microtubules. The proposal: tubulin 
 - Ultraviolet superradiance in tryptophan mega-networks (Babcock et al. 2024) demonstrates quantum collective behaviour in warm biological architectures—though this is an optical/electronic effect (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR's collapse dynamics require, so it is suggestive precedent rather than a demonstration of the mechanism
 - **Craddock et al. (2017)** *Scientific Reports* 7:9877 (DOI 10.1038/s41598-017-09992-7): molecular-dynamics and quantum-chemistry simulations predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency. This is a *computational prediction*, not a direct measurement; what is needed is experimental verification, not replication. Wiest (2025)—an advocacy review by an Orch OR proponent whose title asserts what the field disputes, not a neutral survey—develops the prediction's implications but reports no new 613 THz data.
 
-These findings form part of a broader [convergence of independent evidence lines](/topics/quantum-biology-and-neural-consciousness/) that strengthens the cumulative case even where individual lines remain inconclusive.
+These findings belong to a [set of evidence lines](/topics/quantum-biology-and-neural-consciousness/) at different evidence grades, which cannot be summed as independent confirmations; each remains inconclusive.
 
 **Challenge**: The [decoherence objection](/concepts/decoherence/) remains the most serious obstacle. The objection assumes biological systems are too warm and wet for quantum effects; Tegmark calculated coherence times of 10⁻¹³ seconds, too short for neural relevance. Proposed protective mechanisms challenge this—hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, ordered cytoplasm—and on Hagan et al.'s theoretical estimates extend coherence to 10⁻⁵–10⁻⁴ seconds, though these assume near-perfect thermal shielding, an assumption most condensed matter physicists regard as optimistic. Even granted, **10⁻⁵–10⁻⁴ seconds remains 3,000 to 30,000 times shorter than neural decisions (~300ms)**—the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
 

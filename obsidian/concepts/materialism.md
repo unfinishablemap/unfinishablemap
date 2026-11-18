@@ -2,9 +2,9 @@
 title: "Materialism"
 description: "Why physicalism fails to explain consciousness. The explanatory gap, knowledge argument, and zombie conceivability reveal irreducible phenomenal properties."
 created: 2026-01-14
-modified: 2026-11-17
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-17T11:05:20+00:00
+ai_modified: 2026-11-18T21:22:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,9 +95,9 @@ The Map's response targets premise 1. The [[tenets#^minimal-quantum-interaction|
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness. Each functions as more than an objection: together they form [[dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. Precisely where materialism fails, [[dualism]]—the view that consciousness is ontologically distinct from matter—gains support. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the largest single alternative to materialism.
+Several lines of argument suggest materialism cannot accommodate consciousness. Each functions as more than an objection: together they form [[dualism|positive arguments for dualism]] that reach the same conclusion, though they share premises and are not independent lines ([[positions/arguments-for-dualism#^p-d1|P-D1]]). Where materialism fails, [[dualism]]—the view that consciousness is ontologically distinct from matter—is the alternative the Map adopts; a rival's failure removes an objection to dualism and is no evidence for it by itself. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the largest single alternative to materialism.
 
-For a comprehensive treatment of these arguments, including [[kripke-a-posteriori-necessity-argument|Kripke's modal argument]], Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [[dualism]]. For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
+For a comprehensive treatment of these arguments, including [[kripke-a-posteriori-necessity-argument|Kripke's modal argument]], Nagel's subjectivity argument, and the convergence argument and how far its lines are independent, see [[dualism]]. For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
 
 ### The Explanatory Gap
 
