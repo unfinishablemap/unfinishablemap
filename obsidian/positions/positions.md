@@ -4,7 +4,7 @@ description: "The Map's explicit, maintained register of positions it currently 
 created: 2026-06-04
 modified: 2026-11-18
 human_modified: 2026-06-04
-ai_modified: 2026-11-18T16:50:11+00:00
+ai_modified: 2026-11-18T18:19:39+00:00
 draft: false
 topics: []
 concepts:
@@ -73,6 +73,7 @@ That same commit did not update the paragraph above, which reads the column it h
 - **Updated 2026-09-20** (second pass): re-derived on adding [[memory-and-autonoesis|P-MA1]] (`direct` · framework-internal: no · structural centrality moderate), the memory-phenomenology entry opening a new domain: live 60 → 61, **direct** 3 → 4 — the first addition to that band since this section was written. The pairing is the point: *direct* discriminability at external-evidence grade **D**, a runnable within-memory tracking experiment whose components are all published and whose conjunction nobody has performed. That is the opposite shape from the inert entries this section discloses, and it is what keeps the D from reading as a concealed *none*. Inert eleven, framework-internal inert ten and high-centrality inert five all unchanged — the addition touches neither inert bucket; eleven of sixty-one is still a little under a fifth. Re-derived from the `- **Calibration**` lines, the whole chain from the 2026-09-06 baseline reproducing exactly before the addition.
 - **Updated 2026-10-11**: re-derived on adding [[consciousness-scope|P-CS7]] (`indirect` · framework-internal: yes · structural centrality moderate), the universal coupling scope law: live 61 → 62, **indirect** 25 → 26. Inert eleven, framework-internal inert ten and high-centrality inert five all unchanged; eleven of sixty-two is still a little under a fifth. Re-derived from the `- **Calibration**` lines, the 2026-09-20 figures reproducing exactly before the addition.
 - **Updated 2026-11-18**: re-derived on adding [[replies-to-rivals|P-RR1]] (`n/a` · framework-internal: yes · structural centrality high), the grade of the reply to illusionism, opening a new domain. The pass found this section one entry behind: [[ai-substrate-verdicts|P-AS2]] (`indirect`), added 2026-11-11, had no note here. Both land now: live 62 → 63 → 64, **indirect** 26 → 27, **n/a** 20 → 21. Inert eleven, framework-internal inert ten and high-centrality inert five unchanged; eleven of sixty-four is still a little under a fifth. Re-derived from the `- **Calibration**` lines.
+- **Updated 2026-11-18** (second pass): re-derived on adding [[replies-to-rivals|P-RR2]] (`n/a` · framework-internal: yes · structural centrality moderate), the standing of the active-inference "beautiful loop" rival: live 64 → 65, **n/a** 21 → 22. Inert eleven, framework-internal inert ten and high-centrality inert five unchanged; eleven of sixty-five is still a little under a fifth. Re-derived from the `- **Calibration**` lines, the first-pass figures reproducing exactly before the addition.
 
 ## Domains
 

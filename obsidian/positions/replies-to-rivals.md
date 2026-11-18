@@ -4,14 +4,16 @@ description: "Register of the grade of the Map's reply to each named rival view,
 created: 2026-11-18
 modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-18T16:49:48+00:00
+ai_modified: 2026-11-18T18:19:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[eliminative-materialism]]"
+  - "[[predictive-processing-and-dualism]]"
 concepts:
   - "[[illusionism]]"
   - "[[functional-seeming]]"
+  - "[[predictive-processing]]"
   - "[[evidential-status-discipline]]"
 related_articles:
   - "[[positions]]"
@@ -45,4 +47,16 @@ One entry per rival. Calibration follows the [[methodology-and-calibration#^cali
 - **Argued in**: [[concepts/illusionism]] (the hub this entry transcribes), [[concepts/functional-seeming]]
 - **Would shift if**: the mechanism were built: in the hub's words, "a mechanism meeting Frankish's two-part explanandum where the represented and the representing coincide would remove its main in-framework objection, leaving only the boundary disagreement". The grade would move the other way if "each attempt to specify the mechanism turns out to need what it denies—shown case by case, which the bare regress does not do". As an accounting claim the entry also shifts whenever the hub's wording does, and must then be re-transcribed.
 - **Updated 2026-11-18**: entry created ([[reviews/optimistic-2026-11-18-positions-register|optimistic review 2026-11-18]]). The hub settled this wording on 2026-11-17 and no entry recorded it. The bands are the review's suggestion, on P-MC2's accounting-claim pattern, and are provisional pending the operator's review; the review's alternative is a weakest-link headline on P-MC3's pattern, which would read moderate.
+- **Last reviewed**: 2026-11-18
+
+## P-RR2: The Map counts the active-inference "beautiful loop" theory of Laukkonen, Friston and Chandaria (2025) as its strongest physicalist rival and has not refuted it
+
+- **Status**: live ^p-rr2
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence high (attaches to the accounting claim, that this is the standing the Map's pages give the theory, checkable by inspection of [[topics/predictive-processing-and-dualism]]; it is no credence that the theory is false) · external-evidence grade n/a (accounting) · structural centrality moderate (forty content pages mention the theory; no register entry leans on this one) · model maturity developed · empirical discriminability n/a (accounting) · framework-internal only: yes (the Map's side stands at Tenet 1's standing, a starting point the Map chooses and states as its own)
+- **Asserts**: The Map holds that its pages give the theory this standing and no lower. In the topic page's words, it "is the strongest physicalist alternative the Map currently faces"; "Neither side refutes the other from inside its own commitments"; the account "remains a live and serious rival, defeated neither by the tenets nor by decisive evidence". The void page that meets the theory says "the Map does not refute it here". The authors keep their own hedges: they "say the conditions "seem necessary" for consciousness and allow that substrate may matter". The stronger thesis is marked as a reading the theory invites, not as the authors' stated claim: "On that reading the dynamics entail consciousness". The Map's disagreement falls at one step: "On the functionalist reading that registering constitutes experience, and that step is the framework helping itself to exactly the bridge the hard problem asks it to build." The page grades what is left: "The residue is a framework-boundary disagreement, and the Map marks it as such rather than dressing it as a refutation." The Map's own side comes from Tenet 1 and supplies no evidence against the theory (P-M1). Where the page's reply is pitched higher (the bridge is "what its own resources do not deliver"), this entry records the lower, framework-boundary grade. Provenance: the pages cite the journal article, but their wording was checked against the PsyArXiv preprint (version 3) only; the version of record has not been read.
+- **Does not claim**: that the paper asserts sufficiency or guarantees phenomenal experience; that the theory is refuted, defeated or answered; that any active-inference result supports the Map or a tenet; that the authors concede anything to dualism (they are naturalists); that cessation or minimal-experience reports count against the theory. Nothing here loosens the Map's own view either: the Map holds it, and the entry concedes nothing to epiphenomenalism.
+- **Depends on**: Tenet 1 ([[tenets#^dualism|Dualism]]), a chosen starting point, as the source of the Map's side of the boundary; [[positions/methodology-and-calibration#^p-m1|P-M1]] (a tenet removes a defeater and never upgrades the evidence); [[positions/arguments-for-dualism#^p-d1|P-D1]] (the reply's ground is the explanatory gap, one of the premise-sharing catalogue, so it adds no independent line); [[positions/replies-to-rivals#^p-rr1|P-RR1]] (the same grade).
+- **Argued in**: [[topics/predictive-processing-and-dualism]] (the page this entry transcribes), [[voids/minimal-consciousness-void]], [[concepts/predictive-processing]]
+- **Would shift if**: the theory supplied what the topic page says it "has not shown": "why a system meeting those conditions *feels like* anything rather than running that self-evidencing in the dark". The pages name no experiment separating the two views, and this entry adds none. As an accounting claim the entry also shifts whenever the pages' wording does, or if the version of record differs materially from the preprint on the quoted points, and must then be re-transcribed.
+- **Updated 2026-11-18**: entry created ([[reviews/optimistic-2026-11-18-positions-register|optimistic review 2026-11-18]]). The topic page settled this wording on 2026-11-18; a [[reviews/deep-review-2026-09-30-predictive-processing-and-dualism|2026-09-30 stability note]] already read "beautiful-loop undefeated-rival status (do not push toward refutation". Bands follow P-RR1's pattern and are provisional pending the operator's review.
 - **Last reviewed**: 2026-11-18

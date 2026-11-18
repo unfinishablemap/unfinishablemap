@@ -680,6 +680,20 @@ p-rr1:
     boundary; the verdict is on a live programme, not a defeated one — confidence: high · normative, not
     an empirical claim · framework-critical'
   weak: 'no'
+p-rr2:
+  bands: 'confidence: high · normative, not an empirical claim · moderately central'
+  claim: The Map counts the active-inference "beautiful loop" theory of Laukkonen, Friston and Chandaria
+    (2025) as its strongest physicalist rival and has not refuted it
+  credence: high
+  grade: n/a
+  id: P-RR2
+  slug: replies-to-rivals
+  status: live
+  structural_centrality: moderate
+  summary: 'P-RR2: The Map counts the active-inference "beautiful loop" theory of Laukkonen, Friston and
+    Chandaria (2025) as its strongest physicalist rival and has not refuted it — confidence: high · normative,
+    not an empirical claim · moderately central'
+  weak: 'no'
 p-sc1:
   bands: 'confidence: high · no independent evidence · framework-critical'
   claim: A subject census is part of the interface's physical state description

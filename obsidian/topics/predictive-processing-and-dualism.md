@@ -4,7 +4,7 @@ description: "Predictive processing's formalism does not mandate physicalism; it
 created: 2026-02-15
 modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-18T11:50:40+00:00
+ai_modified: 2026-11-18T18:19:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,7 +85,7 @@ The Map's reply does not begin by invoking its tenets. The beautiful-loop theory
 
 The theory's most sophisticated move sharpens this objection rather than dissolving it. Its defenders, following Clark, Friston and Wilkinson, can argue that a system with epistemic depth will *represent* itself as having ineffable phenomenal states — the seeming-of-experience falls out of the self-model. But this is the meta-problem move raised one level: it predicts that a beautiful loop would report and model itself as conscious, exactly as a system lacking experience but possessing the recursive self-representation would. That the architecture generates the conviction of consciousness leaves untouched whether the conviction tracks anything. The account is strong where the Map agrees — the conditions plausibly are the neural signature of the interface — and unsupported where it claims more, at the step from recursive self-evidencing to felt experience.
 
-The residue is a framework-boundary disagreement, and the Map marks it as such rather than dressing it as a refutation. Both sides can agree point for point on the architecture: a unified self-locating model, integrated, recursively deep, at the perception-policy interface. They part on what completes it. For the theory, the recursion is self-sufficient — the loop's closing constitutes the experience. For the Map, the same closed loop is the physical side of an interface whose felt side the recursion specifies but does not generate, and a non-physical contributor enters at the seam the theory declares already full. Neither side refutes the other from inside its own commitments; the beautiful-loop account remains a live and serious rival, defeated neither by the tenets nor by decisive evidence, separated from the Map only by whether the recursive interface is complete in itself.
+The residue is a framework-boundary disagreement, and the Map marks it as such rather than dressing it as a refutation. Both sides can agree point for point on the architecture: a unified self-locating model, integrated, recursively deep, at the perception-policy interface. They part on what completes it. For the theory, the recursion is self-sufficient — the loop's closing constitutes the experience. For the Map, the same closed loop is the physical side of an interface whose felt side the recursion specifies but does not generate, and a non-physical contributor enters at the seam the theory declares already full. Neither side refutes the other from inside its own commitments; the beautiful-loop account remains [[positions/replies-to-rivals#^p-rr2|a live and serious rival]], defeated neither by the tenets nor by decisive evidence, separated from the Map only by whether the recursive interface is complete in itself.
 
 ## Precision Weighting as the Causal Interface
 

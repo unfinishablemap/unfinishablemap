@@ -152,7 +152,7 @@ No entry asserts something a corrected page has withdrawn. No dependency points 
 
 ## Priority List
 
-Three items, ranked by propagation tasks saved. Each is a `positions-evolve` proposal. Items 1 and 3 are best housed together in a new domain file (suggested `positions/replies-to-rivals`, ids [P-RR1](/positions/replies-to-rivals/#p-rr1) and P-RR2): `arguments-for-dualism` is 2,214 words against the 2,500 gate and its intro restricts it to counting rules about the argument catalogue, and the id P-D4 was once proposed for what became [P-TU1](/positions/thought-and-understanding/#p-tu1). Adding two entries moves the index's read-back from 63 to 65 live; re-derive it in the same pass.
+Three items, ranked by propagation tasks saved. Each is a `positions-evolve` proposal. Items 1 and 3 are best housed together in a new domain file (suggested `positions/replies-to-rivals`, ids [P-RR1](/positions/replies-to-rivals/#p-rr1) and [P-RR2](/positions/replies-to-rivals/#p-rr2)): `arguments-for-dualism` is 2,214 words against the 2,500 gate and its intro restricts it to counting rules about the argument catalogue, and the id P-D4 was once proposed for what became [P-TU1](/positions/thought-and-understanding/#p-tu1). Adding two entries moves the index's read-back from 63 to 65 live; re-derive it in the same pass.
 
 ### 1. ADD: the grade of the Map's reply to illusionism ([P-RR1](/positions/replies-to-rivals/#p-rr1))
 
@@ -180,7 +180,7 @@ Three items, ranked by propagation tasks saved. Each is a `positions-evolve` pro
 - **First citers**: already citing. Add `apex/apex-articles` L312 to the pass (drift item 4), and the page that records "The count is unsettled" can drop that sentence once the count agrees.
 - **Length**: the file is 2,296 words against 2,500. The changes above plus the mandatory dated note come to roughly 100 words. If more room is wanted, the 2026-08 notes under [P-V1](/positions/voids-as-evidence/#p-v1) and [P-V2](/positions/voids-as-evidence/#p-v2) can move to a calibration-history companion, as ten other domains have done.
 
-### 3. ADD: the standing of the active-inference ("beautiful loop") rival (P-RR2)
+### 3. ADD: the standing of the active-inference ("beautiful loop") rival ([P-RR2](/positions/replies-to-rivals/#p-rr2))
 
 - **Why third**: 31 pages cite the theory; the driver's sweep today found 4 of 28 stating it more strongly than the paper; a stability note from 2026-09-30 ("do not push toward refutation") lives only in a review file, where forks do not look.
 - **Claim, in the page's words** (`topics/predictive-processing-and-dualism` L82, L88): Laukkonen, Friston and Chandaria's (2025) theory "is the strongest physicalist alternative the Map currently faces", and "Neither side refutes the other from inside its own commitments; the beautiful-loop account remains a live and serious rival, defeated neither by the tenets nor by decisive evidence".
@@ -206,7 +206,7 @@ Three items, ranked by propagation tasks saved. Each is a `positions-evolve` pro
 | From | To | Reason |
 |---|---|---|
 | `concepts/illusionism` | proposed [P-RR1](/positions/replies-to-rivals/#p-rr1) | The hub cites no position; the entry would be a transcription of it |
-| `topics/predictive-processing-and-dualism` | proposed P-RR2 | Same |
+| `topics/predictive-processing-and-dualism` | proposed [P-RR2](/positions/replies-to-rivals/#p-rr2) | Same |
 | `topics/ethics-of-possible-ai-consciousness`, `topics/animal-consciousness` | [P-CS1](/positions/consciousness-scope/#p-cs1) | The four-way distinction between possibility, likelihood, eligibility and precaution |
 | `concepts/symbol-grounding-problem` | [P-TU1](/positions/thought-and-understanding/#p-tu1) | The diagnosis is conditional on the constitutive reading |
 | `positions/arguments-for-mental-causation` ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)) | proposed [P-RR1](/positions/replies-to-rivals/#p-rr1) | Reciprocal pointer for "met at a framework boundary" |
