@@ -744,15 +744,16 @@ p-v2:
   weak: 'no'
 p-v3:
   bands: 'confidence: low · limited or indirect evidence · peripheral to the framework'
-  claim: Framework-independent voids carry cumulative weight that the rest of the catalogue does not
+  claim: Cumulative weight is suspended — framework-independent voids are its only candidates, and none
+    is claimed
   credence: low
   grade: C
   id: P-V3
   slug: voids-as-evidence
   status: live
   structural_centrality: low
-  summary: 'P-V3: Framework-independent voids carry cumulative weight that the rest of the catalogue does
-    not — confidence: low · limited or indirect evidence · peripheral to the framework'
+  summary: 'P-V3: Cumulative weight is suspended — framework-independent voids are its only candidates,
+    and none is claimed — confidence: low · limited or indirect evidence · peripheral to the framework'
   weak: 'yes'
 p-vs1:
   bands: 'confidence: low · no independent evidence · peripheral to the framework'

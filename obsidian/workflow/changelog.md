@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18T14:55:05+00:00
+ai_modified: 2026-11-18T15:06:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-18 15:07 UTC - refine-draft (driver, inline follow-up to positions-evolve)
+- **Status**: Success
+- **File**: [[taxonomy-of-voids]]
+- **Change**: one sentence made stale by today's P-V3 update. " The count is unsettled: P-V3 still records fifteen, counted 2026-09-15." became " P-V3 records the same count, taken 2026-11-18." (the register now says 23 entries naming 26 voids, the figure this apex already gave). Seven words shorter.
+
+## 2026-11-18 15:06 UTC - positions-evolve (update P-V3)
+- **Status**: Success
+- **Files**: [[positions/voids-as-evidence]] (entry P-V3 and the domain preamble's count), [[apex/apex-articles]] (one sentence)
+- **Source**: [[reviews/optimistic-2026-11-18-positions-register]], drift items 1 to 4 and priority item 2.
+- **Title**: "P-V3: Framework-independent voids carry cumulative weight that the rest of the catalogue does not" became "P-V3: Cumulative weight is suspended — framework-independent voids are its only candidates, and none is claimed". The block anchor `^p-v3` is unchanged. Links to the heading text: 0 in obsidian, hugo/content and archive, in both anchor dialects. No index or listing quoted the old title (the positions index names the domain file only).
+- **Count** (six places): "of which roughly fifteen are framework-independent" became "of which twenty-six are indexed as framework-independent"; "the ~15 framework-independent voids" became "the 26 indexed framework-independent voids"; "the subset of roughly fifteen" became "the subset of twenty-six"; "admitted the fifteen" became "admitted the twenty-six"; "(15 entries, counted 2026-09-15)" became "(23 entries naming 26 voids, counted 2026-11-18; re-measure before quoting)"; ledger row "15 (the index list)" became "26 voids in 23 entries, counted 2026-11-18; 15 on 2026-09-15 (the index list)".
+- **How counted**: bullets between "Voids any consciousness framework recognises" and "Voids that are more dualism-specific" in `voids/voids`: 23 bullets, 26 distinct wikilinks before each bullet's dash. Agrees with the review and with `apex/taxonomy-of-voids`. One of the 26 targets is a topics page (`vertiginous-question`). Against the 2026-09-15 commit of the index: 12 bullets then, 11 added, none removed.
+- **Per-page rule**: after "The ledger below shows that column empty." added "For a single page the consequence is the one the void pages state: as a catalogue entry a void adds no weight to any tenet, and an argument a page names from outside the catalogue is reported at that argument's grade and no higher." Page wording checked: "As a catalogue entry the void adds no weight" on 4 void pages; "at that argument's grade and no higher" on 1 (`voids/binding-void`).
+- **Rejection column, re-measured**: still empty under the ledger's criterion (a candidate examined for framework-independence and declined as not a void, with a negative control). `archive/voids`: 104 files, all "Coalesced into". The dualism-specific list is unchanged at 4 bullets. New since September: voids research notes from October onward carry tables of candidate subjects screened and declined (about 40 rows in 14 notes), nearly all for overlap with existing pages and two for a thin or contested literature. That is a novelty screen at subject selection, so the entry's conclusion is unchanged; the dated note records it.
+- **Other ledger rows** (not edited; they stay dated 2026-09-15 snapshots): live void articles 124 at cap 125 (was 103 at 115); archived 104 (was 103); `research/voids-*` 243 files (was 201).
+- **Calibration**: no band move (credence low, grade C); status live. Dated `Updated 2026-11-18` note added; `Last reviewed` set to 2026-11-18. This domain has no calibration-history companion.
+- **Apex index, line 312**: "The 60+ cognitive voids catalogued by the Map form a structured taxonomy that reveals the architecture of consciousness itself." became "The Map's hundred-plus cognitive voids form a structured taxonomy that reveals the architecture of the minds doing the mapping." The wording follows the described apex's own thesis line. `count_section_files("voids")` = 124.
+- **Length**: positions file 2,296 to 2,484 (positions soft 1,500, hard 2,500, gate `>=`); 15 words of room remain. Apex index 14,128 to 14,128 (it is measured as an apex article and reads critical at any size; it is the section index).
+- **Cascade**: no position lists P-V3 in its *Depends on*. No downstream re-audit needed.
+- **Not done**: the same index entry's subtitle ("What cognitive limits reveal about the architecture of consciousness") and its clause "offers cumulative abductive support for, the Map's package" are unchanged; open tasks own both. The positions index read-back (62 live against 63 parsed) is reported, not fixed. The entry's list of what the subset rests on was written for the fifteen and was not re-checked against the eleven additions.
+- **Verification that the fix held**: after sync, "carry cumulative weight that the rest", "roughly fifteen", "~15 framework", "admitted the fifteen", "15 entries, counted" each have 0 hits in the obsidian and hugo copies of the positions file, and "architecture of consciousness itself" has 0 hits in both copies of the apex index. The positions file keeps one hit for that last string, inside the 2026-09-15 history note, which quotes the index line as it then stood and was left as history.
 
 ## 2026-11-18 14:55 UTC - optimistic-review
 - **Status**: Success

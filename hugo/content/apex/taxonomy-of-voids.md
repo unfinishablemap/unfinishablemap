@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-11-18 11:36:15+00:00
+ai_modified: 2026-11-18 15:07:45+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-11-17 08:22:10+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:05:19+00:00
-lastmod: 2026-11-18 11:36:15+00:00
+lastmod: 2026-11-18 15:07:45+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -184,7 +184,7 @@ The catalogue carries worked exhibits this synthesis cites rather than re-derivi
 
 The audit separates the voids into four origin-classes so that none is counted as an independent confirmation when its origin is constitutive of the framework being supported—the calibration [the evidential-status discipline](/project/evidential-status-discipline/) and [the common-cause null](/project/common-cause-null/) jointly require. The split *is* the per-cluster scoring the [voids-circularity discount](/project/voids-circularity-discount/) specifies, with its central concession—*convergence-with-self is not triangulation*—and its prohibition on counting tenet-generated voids; this section applies the discount to the live catalogue.
 
-**Framework-independent voids** are those any serious consciousness framework—physicalist, functionalist, panpsychist, idealist, dualist—has to acknowledge; the [voids index](/voids/#framework-independent-voids) lists twenty-three entries naming twenty-six voids (the [origin](/voids/origin-of-consciousness/), [binding](/voids/binding-void/), [other-minds](/voids/voids-between-minds/), [introspective-opacity](/voids/self-opacity/), [inference](/voids/inference-void/), [formal](/voids/formal-cognitive-limits/), [cardinality-floor](/voids/the-quantitative-comprehension-void/), [death](/voids/death-void/), [indexical](/topics/vertiginous-question/), and [temporal](/voids/temporal-void/) voids among them; later entries such as the [assent](/voids/assent-void/) and [handedness](/voids/handedness-void/) voids were added because a physicalist and a dualist describe the same blank in the same place). The count is unsettled: [P-V3](/positions/voids-as-evidence/#p-v3) still records fifteen, counted 2026-09-15. These are the only candidates for a cumulative inference, their anchors being *despite-commitments* rather than *because-prediction* observation, and [P-V3](/positions/voids-as-evidence/#p-v3) has suspended that step. The partition is itself the index's "Map-made carving rather than a neutral arbitration between rivals".
+**Framework-independent voids** are those any serious consciousness framework—physicalist, functionalist, panpsychist, idealist, dualist—has to acknowledge; the [voids index](/voids/#framework-independent-voids) lists twenty-three entries naming twenty-six voids (the [origin](/voids/origin-of-consciousness/), [binding](/voids/binding-void/), [other-minds](/voids/voids-between-minds/), [introspective-opacity](/voids/self-opacity/), [inference](/voids/inference-void/), [formal](/voids/formal-cognitive-limits/), [cardinality-floor](/voids/the-quantitative-comprehension-void/), [death](/voids/death-void/), [indexical](/topics/vertiginous-question/), and [temporal](/voids/temporal-void/) voids among them; later entries such as the [assent](/voids/assent-void/) and [handedness](/voids/handedness-void/) voids were added because a physicalist and a dualist describe the same blank in the same place). [P-V3](/positions/voids-as-evidence/#p-v3) records the same count, taken 2026-11-18. These are the only candidates for a cumulative inference, their anchors being *despite-commitments* rather than *because-prediction* observation, and [P-V3](/positions/voids-as-evidence/#p-v3) has suspended that step. The partition is itself the index's "Map-made carving rather than a neutral arbitration between rivals".
 
 **Dualism-specific voids**—the [causal-interface](/voids/causal-interface/), [interface-formalization](/voids/interface-formalization-void/), [amplification](/voids/amplification-void/), and [surplus](/voids/the-surplus-void/) voids—the Map can articulate only because its commitments make them voids; illusionism denies the surplus, materialism dissolves the amplification regress, the interface voids presuppose two domains in contact. They earn framework-internal weight but not N-fold force, and reading each as one more confirmation is exactly the slippage [the coherence-vs-evidential-status discipline](/project/evidential-status-discipline/#coherence-vs-evidential-status) forbids.
 

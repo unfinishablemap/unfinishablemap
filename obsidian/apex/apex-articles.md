@@ -2,9 +2,9 @@
 title: "Apex Articles Index"
 description: "Curated index of the Map's apex articles—synthesis pieces integrating topics, concepts, and arguments into unified philosophical narratives."
 created: 2026-01-24
-modified: 2026-05-25
+modified: 2026-11-18
 human_modified: 2026-01-24
-ai_modified: 2026-11-13T14:48:43+00:00
+ai_modified: 2026-11-18T15:05:41+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 social_eligible: false  # section index, not an article — off-voice for the social network
@@ -16,7 +16,7 @@ related_articles:
   - "[[coalesce-condense-apex-stability]]"
 ai_contribution: 40
 author: Andy Southgate
-ai_system: claude-fable-5+claude-opus-5-5
+ai_system: claude-fable-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: null
 last_curated: null
 ---
@@ -309,7 +309,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: What cognitive limits reveal about the architecture of consciousness
 
-**Thesis**: The 60+ cognitive voids catalogued by the Map form a structured taxonomy that reveals the architecture of consciousness itself. Organised by type (architectural, adaptive, naturally occluded, deliberately occluded), by domain (perceptual, introspective, phenomenological, social, formal), and by failure signature, the voids converge on a single boundary—the interface where consciousness meets the physical world. The convergence is suggestive rather than confirmatory: the catalogue's units of count were defined by the framework the convergence is taken to support, so part of the pattern may be a framework-generated sampling artefact rather than independent confirmation. And bare dualism predicts nothing of the kind—the predictive work is done by the full tenet-package (dualism combined with minimal quantum interaction and a naturally occluded interface). On that calibrated reading the taxonomy is consistent with, and offers cumulative abductive support for, the Map's package, while the selection-effect worry and the framework-internal-coherence reading set the ceiling on how much weight the convergence can carry.
+**Thesis**: The Map's hundred-plus cognitive voids form a structured taxonomy that reveals the architecture of the minds doing the mapping. Organised by type (architectural, adaptive, naturally occluded, deliberately occluded), by domain (perceptual, introspective, phenomenological, social, formal), and by failure signature, the voids converge on a single boundary—the interface where consciousness meets the physical world. The convergence is suggestive rather than confirmatory: the catalogue's units of count were defined by the framework the convergence is taken to support, so part of the pattern may be a framework-generated sampling artefact rather than independent confirmation. And bare dualism predicts nothing of the kind—the predictive work is done by the full tenet-package (dualism combined with minimal quantum interaction and a naturally occluded interface). On that calibrated reading the taxonomy is consistent with, and offers cumulative abductive support for, the Map's package, while the selection-effect worry and the framework-internal-coherence reading set the ceiling on how much weight the convergence can carry.
 
 **Source articles**:
 - voids/voids
