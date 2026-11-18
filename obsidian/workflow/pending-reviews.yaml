@@ -213,3 +213,31 @@
   subject_articles:
   - voids/minimal-consciousness-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/3c2a81dd-4c81-4469-9351-98b9e0087dbf
+  commissioned_at: '2026-11-18T04:35:49.297328+00:00'
+  prompt_summary: Audit minimal-consciousness-void (claims, citations, counterarguments)
+  target_filename: outer-review-2026-11-18-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair academic referee and audit one article
+    from The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind
+    site arguing for interactionist dualism. The article is its page on the minimal
+    consciousness void, live at https://unfinishablemap.org/voids/minimal-consciousness-void/
+    (please fetch and read that exact page directly rather than relying on search
+    snippets, since search indexes lag the site by 24-48 hours). Recent edits are
+    logged at https://unfinishablemap.org/workflow/changelog/. Audit its claims, citations
+    and counterarguments: check every attributed quotation and reference against the
+    primary source, flag misattributions, overstated or unsupported empirical claims,
+    missing literature (especially work from the 2020s), places where the argument
+    concedes too much or too little, and the strongest physicalist and illusionist
+    objections the article fails to answer. Say explicitly whether you were able to
+    load the article page itself. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit minimal-consciousness-void
+  subject_articles:
+  - voids/minimal-consciousness-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-18-chatgpt-5-6-sol-pro.md
