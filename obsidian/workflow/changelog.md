@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18T11:51:48+00:00
+ai_modified: 2026-11-18T12:23:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-18 12:23 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: driver-selected lens, not a page: do completed repair tasks hold on the page? Completed blocks in `workflow/todo.md` and the 42 weekly `workflow/archive/completed-tasks-*` files (10,206 blocks; 4,336 repair tasks dated 2026-06-01 to 2026-11-10) tested against file history and HEAD.
+- **Sample**: 83 tasks, stratified (36 outer-sourced, 36 other, 11 closed with a status prefix). 14 untestable (no defective string quoted). Of 69 testable: 68 held, 1 survived (the known `voids/minimal-consciousness-void` control, fixed today), 0 regressed.
+- **Sweeps**: 223 tasks with an explicit old-to-new string: 1 untracked survivor (`concepts/zombie-master-argument` L46, one of two asks applied). 61 tasks closed without running (all June and July): 12 quote a defect, 2 survived (the control, and `topics/consciousness-interface-development` L135, live). 391 removed strings searched on sibling pages: 2 real propagation gaps (`topics/free-will` L153, already an open P3; the Cai et al. 2024 reference on three live pages and five archived ones, untracked).
+- **Mechanisms**: closure by consolidation on a sibling's commit (2); two-part instruction with one part applied (1); fix not carried to siblings (2). No regression by a later condense, coalesce or deep review; no queue-line mismark.
+- **Priority list**: 3 repairs (consciousness-interface-development L135; Cai reference; zombie-master-argument L46). No tasks minted by this run; no article, script or todo edit.
+- **Output**: [[reviews/pessimistic-2026-11-18-completed-task-durability]]
 
 ## 2026-11-18 11:51 UTC - refine-draft
 - **Status**: Success
