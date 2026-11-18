@@ -2,9 +2,9 @@
 title: "Consciousness as Perceptual Architect"
 description: "Consciousness actively shapes perception in two ways: stabilising experience despite sensory flux (constancy) and transforming what we perceive through learning. Both resist computational reduction."
 created: 2026-02-15
-modified: 2026-03-11
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-07-31T09:19:00+00:00
+ai_modified: 2026-11-18T19:03:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[interaction-problem-across-traditions]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-2
 ai_generated_date: 2026-03-11
 last_curated:
 last_deep_review: 2026-07-18T22:33:15+00:00
@@ -112,7 +112,7 @@ Several phenomenological features recur across domains of perceptual learning:
 
 ### The Perceptual Ratchet
 
-Perceptual learning is largely irreversible. The literate adult cannot see text as mere visual pattern — the letters insist on being read. L.A. Paul (2014) captures a related point in her account of transformative experience: choices that alter phenomenal character are epistemically opaque precisely because the post-transformation perceiver has lost access to pre-transformation phenomenology.
+Perceptual learning is largely irreversible. The literate adult cannot see text as mere visual pattern — the letters insist on being read. L.A. Paul's (2014) account of transformative experience runs forward: on it, what a new kind of experience is like cannot be known beforehand. Losing access to pre-transformation phenomenology is the converse case.
 
 This creates what the Map calls a **perceptual ratchet** — a form of [[implicit-memory|implicit memory]] encoded not in beliefs but in perceptual structure itself. Each episode of perceptual learning clicks the mechanism forward. The irreversibility suggests perceptual learning does not merely adjust parameters in a fixed system. It restructures the system, driven by the [[neuroplasticity]] that consolidates these transformations in neural tissue. The same downward-causation-across-developmental-timescales pattern appears on the self-narrative side: long-term meditators show structural [[default-mode-network|default-mode-network]] changes from sustained attentional practice, just as the perceiver's trained palate is built from sustained attentional engagement. In both cases attention-gated plasticity remodels the interface over a lifetime. A parameter change could be reversed; a structural change — new perceptual objects, reorganised figure-ground relationships — creates a qualitatively different perceptual architecture. Polanyi (1966) captured a related insight with "tacit knowledge": the expert *indwells* their perceptual skills, unable to articulate precisely what changed yet undeniably perceiving differently.
 

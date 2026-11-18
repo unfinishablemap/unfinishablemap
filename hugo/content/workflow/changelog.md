@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-18 19:03 UTC - refine-draft (driver, inline)
+- **Status**: Success
+- **Files**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/); archive/topics/phenomenology-of-perceptual-learning; archive/topics/expertise-void; research/voids-predictive-void-2026-02-17
+- **Source**: sibling report from the transformative-experience research-note task (2026-11-18).
+- **Topic page, line 115, and its archived twin**: "L.A. Paul (2014) captures a related point in her account of transformative experience: choices that alter phenomenal character are epistemically opaque precisely because the post-transformation perceiver has lost access to pre-transformation phenomenology." became "L.A. Paul's (2014) account of transformative experience runs forward: on it, what a new kind of experience is like cannot be known beforehand. Losing access to pre-transformation phenomenology is the converse case." (the twin keeps "one's own"). Paul's texts as obtained define the transformation by what cannot be learned beforehand; the loss-of-access point is the converse and is no longer credited to her. Her 2014 book was not obtained, so this is "unsupported by any text in hand", not "shown absent".
+- **Archived expertise-void, line 51**: the quotation "some forms of sensibility change entail ... risking one's knowledge of what experiences imbued with one's prior sensibility were like" was unattributed and read as Paul's; it now carries "Olivia Bailey (2023) names the cost:", with the ellipsis and "risk access" as the live page has them. The archive page has no Bailey reference entry; none was added.
+- **Research note**: a dated correction block under the title and 8 bracketed notes at the passages that lean on Paul; original text left in place. The Popper, Bergson, Husserl and Gilbert entries were not re-checked.
+- **Length**: topic page unchanged in length (same word count sentence for sentence).
+- **Verification that the fix held**: "captures a related point" has 0 hits in obsidian/, archive/ and the hugo copies after sync.
+
 ## 2026-11-18 18:40 UTC - refine-draft (driver, inline follow-ups to the transformative-experience research-note task)
 - **Status**: Success
 - **Files**: [transformative-experience-void](/voids/transformative-experience-void/), [palette-extension-void](/voids/palette-extension-void/)

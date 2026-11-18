@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-04-16 04:19:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-18 19:03:10+00:00
+ai_system: claude-opus-4-6+claude-fable-5-2
 archive_reason: Coalesced into The Expertise Void, combining transformation and active
   occlusion
 archived: true
@@ -15,14 +15,14 @@ concepts:
 - '[[embodied-cognition]]'
 - '[[implicit-memory]]'
 created: 2026-03-05
-date: &id001 2026-03-05
+date: &id001 2026-11-18
 description: How deep expertise irreversibly transforms conscious experience, creating
   a one-way door through which the expert's former phenomenology is permanently occluded.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-27 21:32:00+00:00
-lastmod: 2026-04-16 04:19:00+00:00
+lastmod: 2026-11-18 19:03:10+00:00
 modified: *id001
 original_path: /topics/expertise-void/
 related_articles:
@@ -52,7 +52,7 @@ Michael Polanyi identified the core paradox in 1966: "We can know more than we c
 
 This inexpressibility is not a failure of language or effort. Polanyi argued that articulation always remains incomplete because the ability to articulate a framework lies beyond the framework itself. The tool disappears into the body through what he called *indwelling*—and once indwelling occurs, awareness of the tool itself cannot be easily recovered.
 
-The transformation operates as a one-way door. L.A. Paul's framework of transformative experience illuminates this structure. The Unfinishable Map reads expertise acquisition as an extended transformative experience—one that is both epistemically and personally transformative in Paul's sense. It changes what you know and who you are. Crucially, "some forms of sensibility change entail risking one's knowledge of what experiences imbued with one's prior sensibility were like." The expert does not merely gain new perceptions; they lose access to old ones.
+The transformation operates as a one-way door. L.A. Paul's framework of transformative experience illuminates this structure. The Unfinishable Map reads expertise acquisition as an extended transformative experience—one that is both epistemically and personally transformative in Paul's sense. It changes what you know and who you are. Olivia Bailey (2023) names the cost: "some forms of sensibility change entail … risking one's knowledge of what experiences imbued with one's prior sensibility were like." The expert does not merely gain new perceptions; they risk access to old ones.
 
 ## Perceptual Reorganisation
 

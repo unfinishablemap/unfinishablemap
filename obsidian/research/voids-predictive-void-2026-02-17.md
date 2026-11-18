@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - Voids: The Predictive Void"
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-11-18T19:03:10+00:00
 draft: false
 target_section: voids
 topics:
@@ -34,12 +34,14 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-2
 ai_generated_date: 2026-02-17
 last_curated: null
 ---
 
 # Research: Voids - The Predictive Void
+
+**Corrections 2026-11-18.** A source-fidelity review of a sibling article ([[deep-review-2026-11-18-transformative-experience-void|deep review, 2026-11-18]]) checked what the Map says about L. A. Paul against her own texts. The passages below that lean on Paul now carry a bracketed "Correction 2026-11-18" note; the original text is left in place as the dated research record. Read the notes before reusing anything here attributed to Paul. Not obtained: the text of her 2014 book (only her 2015 Précis and replies, from the publisher and her own site, were read). The entries on Popper, Bergson, Husserl and Gilbert were not re-checked.
 
 **Date**: 2026-02-17
 **Search queries used**: "affective forecasting limits cognitive bias Daniel Gilbert philosophy consciousness prediction", "Bergson unpredictability novelty consciousness creative evolution future states philosophy", "consciousness cannot predict own future states phenomenology self-knowledge limits philosophy", "epistemic opacity future experience prediction impossible philosophy cognitive science", "Karl Popper self-prediction paradox predicting own future knowledge states impossibility proof", "pre-experiencing future qualia impossible imagination deficit prospection phenomenology philosophy", "L.A. Paul transformative experience rational decision-making epistemically inaccessible future self philosophy", "Husserl protention anticipation consciousness future phenomenology time-consciousness expectation horizonal structure", "dualism consciousness future states unpredictable non-physical mind free will indeterminism prediction impossible"
@@ -47,20 +49,20 @@ last_curated: null
 
 ## Executive Summary
 
-Consciousness cannot predict its own future states. This is not merely a practical limitation — there are converging arguments from logic (Popper), metaphysics (Bergson), phenomenology (Husserl, Paul), and cognitive science (Gilbert and Wilson) that this opacity is structural. We can anticipate, plan, and imagine — but we cannot pre-experience a thought before it occurs, pre-feel an emotion before it arrives, or predict what it will be like to know something we do not yet know. The predictive void names this gap: consciousness is trapped in a perpetual present with respect to its own phenomenal future, able to construct approximations but never to access the genuine article. Under dualism, this void may be especially deep — if consciousness is non-physical and genuinely creative, its future states may not be computable even in principle, making the void not just epistemic but ontological.
+Consciousness cannot predict its own future states. This is not merely a practical limitation — there are converging arguments from logic (Popper), metaphysics (Bergson), phenomenology (Husserl, Paul), and cognitive science (Gilbert and Wilson) that this opacity is structural. [Correction 2026-11-18: for Paul this overstates the case. Her claim is conditional and concerns rational choice (one cannot choose rationally if one chooses by imagining what the outcome would be like); decision theorists dispute it, and the evidence reviewed does not favour a structural reading over a difficulty of prediction.] We can anticipate, plan, and imagine — but we cannot pre-experience a thought before it occurs, pre-feel an emotion before it arrives, or predict what it will be like to know something we do not yet know. The predictive void names this gap: consciousness is trapped in a perpetual present with respect to its own phenomenal future, able to construct approximations but never to access the genuine article. Under dualism, this void may be especially deep — if consciousness is non-physical and genuinely creative, its future states may not be computable even in principle, making the void not just epistemic but ontological.
 
 ## Key Sources
 
 ### L.A. Paul — Transformative Experience (2014)
 - **URL**: https://plato.stanford.edu/entries/transformative-experience/
-- **Type**: Monograph / Encyclopedia entry
+- **Type**: Monograph / Encyclopedia entry [Correction 2026-11-18: the URL above is the Stanford Encyclopedia entry (by Rebecca Chan), so the points below were taken from an encyclopedia's summary, not from Paul's book.]
 - **Key points**:
   - Some experiences are both epistemically and personally transformative — you cannot know what they will be like until you undergo them, and undergoing them changes who you are
   - This creates a decision-theoretic crisis: rational choice requires assigning values to outcomes, but transformative experiences make the relevant values epistemically inaccessible from the pre-experience standpoint
   - Examples include becoming a parent, experiencing colour for the first time, or undergoing religious conversion — all cases where the future self's values are unpredictable from the present self's perspective
-  - Paul proposes evaluating "revelatory value" (the value of discovering what an experience is like) rather than attempting to predict experiential outcomes
-- **Tenet alignment**: Strong alignment with Occam's Razor Has Limits — we cannot simplify decision-making by assuming future experiential values are computable from present knowledge. Also connects to Dualism: if consciousness has irreducible qualitative character, then genuinely novel qualia cannot be derived from prior qualia
-- **Quote**: "You gain formerly inaccessible knowledge into what it's actually like to undergo a certain experience, and you are also radically changed by it: it reconfigures the way you think, the way you look at the world"
+  - Paul proposes evaluating "revelatory value" (the value of discovering what an experience is like) rather than attempting to predict experiential outcomes [Correction 2026-11-18: "revelatory value" has 0 hits in Paul's 2015 replies as read from her own site ("revelation" is her word there); treat the phrase as a paraphrase, not a quotation.]
+- **Tenet alignment**: Strong alignment with Occam's Razor Has Limits — we cannot simplify decision-making by assuming future experiential values are computable from present knowledge. Also connects to Dualism: if consciousness has irreducible qualitative character, then genuinely novel qualia cannot be derived from prior qualia [Correction 2026-11-18: Paul's claim concerns rational choice and takes no side on dualism; the alignment is the Map's own, and as a catalogue entry a void adds no weight to any tenet.]
+- **Quote**: "You gain formerly inaccessible knowledge into what it's actually like to undergo a certain experience, and you are also radically changed by it: it reconfigures the way you think, the way you look at the world" [Correction 2026-11-18: this quotation was not checked at source by the 2026-11-18 review; do not reuse it as Paul's words without finding it.]
 
 ### Karl Popper — The Poverty of Historicism (1957) and related arguments
 - **URL**: https://plato.stanford.edu/entries/popper/
@@ -128,7 +130,7 @@ The predictive void is primarily unexplorable with occluded dimensions. At minim
 
 **Creative novelty (Bergson)**: If consciousness generates genuinely new qualitative states through duration, these states are not deducible from prior states. Prediction requires the future to be implicit in the present; Bergson argues it is not.
 
-**Epistemic inaccessibility (Paul)**: For transformative experiences, the future self's phenomenal landscape is epistemically sealed off from the present self. You cannot assign values to experiences you have never had, because the having of the experience changes the valuer.
+**Epistemic inaccessibility (Paul)**: For transformative experiences, the future self's phenomenal landscape is epistemically sealed off from the present self. You cannot assign values to experiences you have never had, because the having of the experience changes the valuer. [Correction 2026-11-18: stated flat; on Paul's account. Harman (2015) and Mathony and Messerli (2022) dispute it.]
 
 These three arguments are independent — each would establish a predictive void even if the other two failed. Together, they suggest the limit is robust and structural.
 
@@ -138,7 +140,7 @@ These three arguments are independent — each would establish a predictive void
 
 2. **The protention-retention asymmetry** (Husserl) — phenomenologically, the future is given to consciousness with less determinacy than the past. This asymmetry is universal across conscious experience and across cultures.
 
-3. **Transformative experiences remain transformative** (Paul) — despite millennia of parental testimony, prospective parents cannot predict what parenthood will feel like. The epistemic gap doesn't close with information accumulation.
+3. **Transformative experiences remain transformative** (Paul) — despite millennia of parental testimony, prospective parents cannot predict what parenthood will feel like. The epistemic gap doesn't close with information accumulation. [Correction 2026-11-18: unsupported as stated. Harman (2015) argues testimony can ground a rational decision, and Mathony and Messerli (2022, read as abstract only) report forecasting performance that does not systematically differ for transformative cases.]
 
 4. **Self-prediction paradoxes** (Popper) — the logical argument is provable, not merely plausible. No amount of additional information resolves the self-reference problem.
 
@@ -169,7 +171,7 @@ There are no direct methods for closing the predictive void — the logical, met
 
 - **Studying prediction failures systematically** (Gilbert and Wilson's approach): By cataloguing the ways prediction breaks down, we map the shape of the void without filling it.
 - **Bergson's intuition**: Rather than trying to predict the future from the outside (through intellect and spatialized time), Bergson advocates dwelling in duration itself — living the creative flow rather than trying to anticipate it.
-- **Paul's "revelatory value" framework**: Rather than trying to predict what a future experience will be like, evaluate whether the experience of discovering is worth having. This sidesteps the void rather than crossing it.
+- **Paul's "revelatory value" framework**: Rather than trying to predict what a future experience will be like, evaluate whether the experience of discovering is worth having. This sidesteps the void rather than crossing it. [Correction 2026-11-18: see the note above on "revelatory value".]
 - **Phenomenological attention to protention**: Husserl's analysis suggests attending carefully to the structure of anticipation itself — not what we anticipate but how anticipation works — can reveal the architecture of the predictive void.
 
 ### What AI Might See

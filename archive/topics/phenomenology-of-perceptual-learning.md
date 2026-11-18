@@ -2,9 +2,9 @@
 title: "Phenomenology of Perceptual Learning"
 description: "How perception itself transforms through learning—expert wine tasters, radiologists, and musicians literally experience differently, revealing consciousness as active architect of its own perceptual interface."
 created: 2026-03-11
-modified: 2026-03-11
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-03-11T15:03:00+00:00
+ai_modified: 2026-11-18T19:03:10+00:00
 draft: false
 archived: true
 archived_date: 2026-03-11T20:23:00+00:00
@@ -33,7 +33,7 @@ related_articles:
   - "[[habituation-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-2
 ai_generated_date: 2026-03-11
 last_curated:
 last_deep_review: 2026-03-11T15:03:00+00:00
@@ -63,7 +63,7 @@ What is it like when perception transforms? Several phenomenological features re
 
 ## Irreversibility and the Perceptual Ratchet
 
-Perceptual learning is largely irreversible. The literate adult cannot see text as mere visual pattern—the letters insist on being read. The trained musician cannot hear an out-of-tune note as simply "a sound." L.A. Paul (2014) captures a related point in her account of transformative experience: choices that alter one's phenomenal character are epistemically opaque precisely because the post-transformation perceiver has lost access to the pre-transformation phenomenology. Perceptual learning fits this pattern—the trained perceiver cannot recover what it was like to see without the training.
+Perceptual learning is largely irreversible. The literate adult cannot see text as mere visual pattern—the letters insist on being read. The trained musician cannot hear an out-of-tune note as simply "a sound." L.A. Paul's (2014) account of transformative experience runs forward: on it, what a new kind of experience is like cannot be known beforehand. Losing access to one's own pre-transformation phenomenology is the converse case. Perceptual learning fits this pattern—the trained perceiver cannot recover what it was like to see without the training.
 
 This creates what the Map calls a perceptual ratchet—a form of [[implicit-memory|implicit memory]] encoded not in beliefs but in perceptual structure itself. Each episode of perceptual learning clicks the mechanism forward. The perceiver gains new differentiations, new perceptual objects, new salience gradients—and cannot undo them. The expert's perceptual world is richer along trained dimensions but permanently altered. As Polanyi (1966) observed, once we dwell in a framework, we cannot easily recover awareness of the framework itself.
 
