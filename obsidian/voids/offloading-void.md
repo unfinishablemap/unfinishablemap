@@ -4,7 +4,7 @@ description: "Cognitive offloading manufactures a limit that hides itself: confi
 created: 2026-09-07
 modified: 2026-09-18
 human_modified: null
-ai_modified: 2026-09-18T13:26:42+00:00
+ai_modified: 2026-11-18T04:07:08+00:00
 draft: false
 topics:
   - "[[consciousness-epistemology-extended-cognition]]"
@@ -81,7 +81,7 @@ This literature is stratified, and flattening it would misrepresent it. The cano
 | The "Google Stroop" priming effect | **Failed replication** (Hesselmann) |
 | The "remember where, not what" recall shift | **Unsettled**; not adjudicated here |
 | LLM use lowers neural connectivity and persists after tool removal | **Preliminary** — one preprint, *n* = 54, *n* = 9 in the persistence arm |
-| An AI's error pattern persists in users after assistance is withdrawn | **Replicated within one lab** — three experiments, peer-reviewed (Vicente & Matute); probes bias, not capacity |
+| An AI's error pattern persists in users after assistance is withdrawn | **Replicated within one lab** — two of three experiments, peer-reviewed (Vicente & Matute); probes bias, not capacity |
 | Generative AI reduces critical thinking | **Self-report only** |
 
 The failed replication needs care about its target. Hesselmann's study addresses the finding that difficult trivia questions automatically activate the concept of the internet—the priming result, one experiment among four in Sparrow, Liu and Wegner's original. It reports that the effect "could not be replicated in two recent replication attempts as part of a large replicability project," that the original's first author raised design objections, and that a re-run with a design closer to the original again found "no conclusive evidence." That verdict does not extend to the memory-recall experiments, and reporting a blanket "the Google effect didn't replicate" would be false.

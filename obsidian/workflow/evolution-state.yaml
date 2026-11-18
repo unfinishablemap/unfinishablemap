@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-17T14:02:35.858432+00:00'
-session_count: 24965
-cycle_position: 15950
+last_updated: '2026-11-18T04:05:36.697912+00:00'
+session_count: 24966
+cycle_position: 15951
 last_runs:
   add-highlight: '2026-11-17T08:37:31.471692+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-17T04:05:37.554122+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-09T23:07:31.354316+00:00'
-  deep-review: '2026-11-17T12:05:46.115651+00:00'
+  deep-review: '2026-11-18T04:05:36.697912+00:00'
   embed-videos: '2026-11-17T07:33:16.203901+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
   harvest-research-subjects: '2026-11-17T13:02:45.157009+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-11-15T14:34:06.823445+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-11-17T08:33:57.320817+00:00'
+last_git_push: '2026-11-18T04:05:37.040010+00:00'
 last_tweet_date: '2026-11-17'
 content_stats:
   total_files: 297
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 28
   research_notes: 771
-  reviews_completed: 8462
+  reviews_completed: 8463
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-17'
-  outcome: success
-  kind: queue
 - task: expand-topic
   type: expand-topic
   date: '2026-11-17'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-17'
   outcome: success
   kind: trigger
+- task: deep-review
+  type: deep-review
+  date: '2026-11-18'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/molyneux-void/

@@ -10,6 +10,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-18 04:07 UTC - refine-draft (driver, inline)
+- **Status**: Success
+- **File**: [offloading-void](/voids/offloading-void/)
+- **Source**: deep review of [collective-cognitive-limits](/voids/collective-cognitive-limits/) 2026-11-18 (sibling list)
+- **Change**: one table cell. The persistence of an AI's error pattern after assistance is withdrawn was described as shown in "three experiments" (Vicente & Matute 2023). The paper's design gives Experiment 1 no unassisted phase, so the persistence result rests on Experiments 2 and 3 (read in full text during the sibling review). Now "two of three experiments". Word count +1 (2,997 to 2,998; voids hard gate 3,000).
+
 ## 2026-11-18T04:04:02+00:00 - deep-review
 - **Status**: Success (interrupted by a usage limit on 2026-11-17; finished 2026-11-18)
 - **File**: [collective-cognitive-limits](/voids/collective-cognitive-limits/)
