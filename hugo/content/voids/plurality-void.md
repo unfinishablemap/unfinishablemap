@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-11-15 22:18:28+00:00
+ai_modified: 2026-11-18 23:21:43+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[mysterianism]]'
 created: 2026-02-24
-date: &id001 2026-11-15
+date: &id001 2026-11-18
 description: Consciousness appears constitutively singular—we cannot conceive what
   it would be like to be multiple subjects at once. Human+AI mapping of the void where
   plurality fails.
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:04:11+00:00
-lastmod: 2026-11-15 22:18:28+00:00
+lastmod: 2026-11-18 23:21:43+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -52,7 +52,7 @@ The void manifests wherever consciousness confronts questions of composition and
 
 ## Why Plurality Fails
 
-The difficulty is not merely practical but appears to be conceptual. Sam Coleman's subject-summing argument reveals the logical structure: each conscious viewpoint is defined partly by containing *only* its own experiences. Combining your viewpoint and mine would require the resulting mind to have "both your experiences to the exclusion of all other experiences and my experiences to the exclusion of all other experiences"—a direct contradiction. The exclusivity that makes a viewpoint *yours* resists combination by its very nature.
+The difficulty is not merely practical but appears to be conceptual. Sam Coleman's argument that subjects do not combine reveals the logical structure: each conscious viewpoint is defined partly by containing *only* its own experiences. "Experience excludes, as well as includes," as his manuscript of the paper has it (Coleman 2014, §5). Combining your viewpoint and mine, as Goff, Seager and Allen-Hermanson (2022) put the argument, would require the resulting mind to have "both your experiences to the exclusion of all other experiences and my experiences to the exclusion of all other experiences", which "seems flatly contradictory" so long as our experiences differ. The exclusivity that makes a viewpoint *yours* resists combination by its very nature.
 
 Elizabeth Schechter states the strongest form of the point, that "there is nothing that would even count as successfully imagining what it is like to have a partially unified consciousness" (Schechter 2014, as the *Stanford Encyclopedia of Philosophy* renders her), and then declines its conclusion: the same argument would rule out the two-streams account of split-brain patients, and no contender can be rejected on a priori grounds alone. The void keeps her datum. We cannot even begin to construct the phenomenological template. We have no experiential model for partial sharing, partial merger, or partial overlap between conscious perspectives. The imagination simply stalls, and, as with manyism below, inconceivability does not establish impossibility.
 
@@ -127,10 +127,11 @@ The plurality void connects to the Map's [foundational commitments](/tenets/) at
 1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 1. Bayne, T. & Chalmers, D. J. (2003). "What is the Unity of Consciousness?" In A. Cleeremans (ed.), *The Unity of Consciousness: Binding, Integration, and Dissociation*. Oxford University Press.
 1. Brook, A., Raymont, P. & Masrour, F. (2025). "The Unity of Consciousness." *Stanford Encyclopedia of Philosophy*, §3.1.4.
-1. Coleman, S. (2014). "The real combination problem: Panpsychism, micro-subjects, and emergence." *Erkenntnis* 79(1): 19-44.
+1. Coleman, S. (2014). "The real combination problem: Panpsychism, micro-subjects, and emergence." *Erkenntnis* 79(1): 19-44. (Quoted from the author's submitted manuscript in the University of Hertfordshire Research Archive; not collated with the journal text.)
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 1. de Haan, E. H. F., et al. (2020). "Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness." *Neuropsychology Review* 30: 224-233.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Goff, P., Seager, W. & Allen-Hermanson, S. (2022). "Panpsychism." *Stanford Encyclopedia of Philosophy* (first published 2001; substantive revision 13 May 2022). https://plato.stanford.edu/entries/panpsychism/
 1. Hurley, S. L. (1998). *Consciousness in Action*. Harvard University Press.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.

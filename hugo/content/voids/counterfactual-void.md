@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-11-11 00:03:17.720588+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-18 23:21:43+00:00
+ai_system: claude-opus-4-6+claude-fable-5-2
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[simulation]]'
 created: 2026-02-25
-date: &id001 2026-02-25
+date: &id001 2026-11-18
 description: AI-assisted exploration of counterfactual thinking's pull toward actuality—imagining
   what almost happened, not what could truly differ—refined toward truth.
 draft: false
@@ -20,7 +20,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:14:02+00:00
-lastmod: 2026-11-11 00:03:17.720588+00:00
+lastmod: 2026-11-18 23:21:43+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -62,11 +62,11 @@ Formal methods complicate this picture without dissolving it. Mathematics and lo
 
 ## The Conceivability-Possibility Gap
 
-Philosophy's long debate over whether conceivability tracks possibility exposes the counterfactual void from a different angle. Stephen Yablo argues that a proposition is conceivable if you can "imagine a world that one takes to verify" it. But modal knowledge through conceivability depends on imagination, and imagination operates under constraints. Yablo concedes that the conceivability-possibility gap demands an account of "modal error" — cases where we conceive of the impossible or fail to conceive of the possible.
+Philosophy's long debate over whether conceivability tracks possibility exposes the counterfactual void from a different angle. Stephen Yablo's definition is first-personal: a proposition is conceivable for me if "I can imagine a world that I take to verify" it (1993, §X). But modal knowledge through conceivability depends on imagination, and imagination operates under constraints. Yablo concedes that the conceivability-possibility gap demands an account of "modal error" — cases where we conceive of the impossible or fail to conceive of the possible.
 
 The gap runs in both directions. Before discovering that Hesperus and Phosphorus are both Venus, it seemed conceivable that they were different objects — yet this was impossible. Conversely, many mathematical truths are possible but inconceivable to most minds. The faculty that is supposed to be our window onto possibility is unreliable in systematic ways.
 
-Peter van Inwagen pushes this further with a vision analogy: objects at the periphery of our visual field are judged less reliably than those at the centre. Similarly, extraordinary modal claims fall outside the reliable range of our modal faculty. Van Inwagen accepts everyday modal knowledge — this glass could break, I could have taken the other road — but argues we should "withhold judgment concerning what we conceive or imagine... when outside the range of reliability of the specified capacity." On van Inwagen's view, the reliable range of modal knowledge is far narrower than philosophers typically assume. The view is contested — David Chalmers defends a refined conceivability-possibility link on which an idealized form of conceivability does entail possibility — but even that defence works by distinguishing ideal from prima facie conceivability, conceding that ordinary modal intuition errs in systematic ways.
+Peter van Inwagen pushes this further with an analogy to distance: "many of our modal judgments are analogous to judgments of distance made by eye" (1998, pp. 69–70). Such judgments are serviceable across a wide range of everyday circumstances and "not accurate at all" in circumstances remote from everyday life; nobody knew how far away the sun and stars were until people stopped judging by eye and began to reason (p. 70). Van Inwagen accepts everyday modal knowledge — this glass could break, I could have taken the other road — but holds that we "do not and cannot know", at least by our own unaided powers, modal propositions like the premises of the philosophical possibility arguments he examines (p. 69). Mallozzi, Vaidya and Wallner (2023) summarise his position as the view that "we ought to withhold judgment concerning what we conceive or imagine or infer about modal reality, when they are outside the range of reliability of the specified capacity or method." On van Inwagen's view, the range of modal knowledge is far narrower than philosophers typically assume. The view is contested — David Chalmers defends a refined conceivability-possibility link on which an idealized form of conceivability does entail possibility — but even that defence works by distinguishing ideal from prima facie conceivability, conceding that ordinary modal intuition errs in systematic ways.
 
 The conceivability-possibility gap reflects cognitive architecture: a structural feature of how modal cognition works rather than a calibration error to be corrected.
 
@@ -129,7 +129,8 @@ The counterfactual void connects to The Unfinishable Map's [tenets](/tenets/) at
 
 1. Byrne, R.M.J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
 1. Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1–42.
-1. Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67–84.
+1. Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92(1–2), 67–84.
+1. Mallozzi, A., Vaidya, A. & Wallner, M. (2023). "The Epistemology of Modality." *Stanford Encyclopedia of Philosophy* (first published 2007; substantive revision 7 July 2023). https://plato.stanford.edu/entries/modality-epistemology/
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
 1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In Gendler & Hawthorne (eds.), *Conceivability and Possibility* (pp. 145–200). Oxford University Press.
 1. Berto, F. (2017). "Impossible Worlds and the Logic of Imagination." *Erkenntnis*, 82(6), 1277–1297.
