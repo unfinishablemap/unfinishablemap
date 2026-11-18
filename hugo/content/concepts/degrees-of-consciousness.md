@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-11-08 19:33:47+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-18 14:02:51+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
@@ -15,14 +15,14 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[phenomenology-vs-function-axis]]'
 created: 2026-03-20
-date: &id001 2026-10-06
+date: &id001 2026-11-18
 description: Consciousness varies in intensity and richness, not just kind. Gradation
   from anaesthesia, sleep, and animal cognition constrains theories of consciousness.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-06 10:12:34+00:00
-lastmod: 2026-11-08 19:33:47+00:00
+lastmod: 2026-11-18 14:02:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 
 **Continuous gradation to zero.** Consciousness shades smoothly from human richness through animal simplicity to infinitesimal quantities in simple systems. This avoids the threshold problem but implies [panpsychism](/concepts/panpsychism/) — experience is everywhere, just usually at negligible degrees.
 
-**No lower bound (the Map's position).** The question may be malformed. If consciousness is not produced by physical systems but interfaces with them, then asking "at what degree does consciousness begin?" presupposes a production model. The [universal-coupling-response](/concepts/universal-coupling-response/) holds that consciousness couples with every physical system meeting adequate architectural conditions; what varies is the degree to which it manifests through those interfaces. The [enrichment problem](/concepts/minimal-consciousness/) adds an epistemological constraint: any attempt to introspect on minimal consciousness enriches it beyond minimality, making the actual lower bound structurally inaccessible.
+**No lower bound (the Map's position).** The question may be malformed. If consciousness is not produced by physical systems but interfaces with them, then asking "at what degree does consciousness begin?" presupposes a production model. The [universal-coupling-response](/concepts/universal-coupling-response/) holds that consciousness couples with every physical system meeting adequate architectural conditions; what varies is the degree to which it manifests through those interfaces. The [enrichment problem](/concepts/minimal-consciousness/) adds an epistemological constraint: concurrent introspection enriches minimal consciousness beyond minimality, so cannot reach the lower bound; indirect methods constrain without fixing it.
 
 ## Relation to Site Perspective
 

@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-18 14:02 UTC - refine-draft (driver, inline)
+- **Status**: Success
+- **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Source**: outer review 2026-11-18 (Claude Fable 5.2, finding 15, confirmed by grep).
+- **Change**: one clause at line 110. "any attempt to introspect on minimal consciousness enriches it beyond minimality, making the actual lower bound structurally inaccessible." became "concurrent introspection enriches minimal consciousness beyond minimality, so cannot reach the lower bound; indirect methods constrain without fixing it." This matches the minimal-consciousness void page, which limits the claim to concurrent first-person introspection and says indirect routes "constrain the minimum without reaching it". The rest of the paragraph (the Map's stated position) is unchanged. The link was left pointing at the concept page.
+- **Length**: 2,553 to 2,554 (concepts hard 3,500): one word over the net-zero the task asked for.
+- **Verification that the fix held**: "structurally inaccessible" has 0 hits in the obsidian and hugo copies after sync.
+
 ## 2026-11-18 13:32 UTC - deep-review
 - **Status**: Success
 - **File**: [transformative-experience-void](/voids/transformative-experience-void/)

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-18T13:34:23.034191+00:00'
-session_count: 25002
+last_updated: '2026-11-18T13:47:35.269964+00:00'
+session_count: 25003
 cycle_position: 15969
 last_runs:
   add-highlight: '2026-11-18T08:06:55.136085+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-11-18T12:49:00.459383+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-17T07:49:22.571010+00:00'
-  check-model-fallback: '2026-11-18T09:32:36.358201+00:00'
+  check-model-fallback: '2026-11-18T13:47:35.269964+00:00'
   check-tenets: '2026-11-16T20:13:45.973534+00:00'
   coalesce: '2026-11-18T07:02:43.522523+00:00'
   collect-chatgpt-review: '2026-11-18T06:16:58.716087+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-18'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-18'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-18'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-18'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/
