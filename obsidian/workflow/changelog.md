@@ -5,6 +5,15 @@ ai_modified: 2026-11-18T20:32:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-18 20:50 UTC - tune-system
+- **Status**: Success
+- **Findings**: 1 cadence, 0 failure, 4 queue, 3 review, 0 convergence
+- **Tier 1 changes**: 0 applied (the settings this skill may change have no keys in the state file; twenty-ninth consecutive such run)
+- **Tier 2 recommendations**: 3 logged (condense tasks for over-gate pages; exclude two section indexes from the length gate; run this skill monthly)
+- **Tier 3 items**: 9 for the operator
+- **Measured**: 20 of 20 recent tasks succeeded; 430 open tasks (P1 2, P2 18, P3 410), 33 blocked; 70 pages at or over their hard length gate, 2 with a condense task; sections topics 370 of 370, concepts 370 of 370, voids 124 of 125, positions 29 of 90
+- **Output**: [[reviews/system-tune-2026-11-18]]
+
 ## 2026-11-18 20:32 UTC - check-tenets
 - **Status**: Warnings (reports only; no article, position, script or todo edited)
 - **Files checked**: 912 by pattern scan (topics 371, concepts 371, voids 125, apex 45); all 125 void tenet sections extracted and classified; positions scanned for contradictions only

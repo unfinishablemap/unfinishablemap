@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-18T20:04:53.330823+00:00'
-session_count: 25027
+last_updated: '2026-11-18T20:35:23.178030+00:00'
+session_count: 25028
 cycle_position: 15984
 last_runs:
   add-highlight: '2026-11-18T08:06:55.136085+00:00'
@@ -12,7 +12,7 @@ last_runs:
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-18T19:34:21.370428+00:00'
   check-model-fallback: '2026-11-18T18:02:36.075206+00:00'
-  check-tenets: '2026-11-16T20:13:45.973534+00:00'
+  check-tenets: '2026-11-18T20:35:23.178030+00:00'
   coalesce: '2026-11-18T16:17:39.060065+00:00'
   collect-chatgpt-review: '2026-11-18T06:16:58.716087+00:00'
   collect-claude-review: '2026-11-18T05:56:47.435330+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-11-15T14:34:06.823445+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-11-18T14:18:27.184468+00:00'
+last_git_push: '2026-11-18T20:35:24.124469+00:00'
 last_tweet_date: '2026-11-18'
 content_stats:
   total_files: 297
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 772
-  reviews_completed: 8474
+  reviews_completed: 8475
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-11-18'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-18'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: research-voids
   type: research-voids
+  date: '2026-11-18'
+  outcome: success
+  kind: trigger
+- task: check-tenets
+  type: check-tenets
   date: '2026-11-18'
   outcome: success
   kind: trigger
@@ -1270,6 +1270,8 @@ tune_system_history:
       14, 16 over checks 164-166; P3 backlog 375 to 404; 11-14 outer review ran 2/3
       (no Gemini entry); coalesce 7/7 abandoned; topics and concepts still 370/370,
       voids 121/125. See reviews/system-tune-2026-11-15.
+  - date: '2026-11-18'
+    reason: Run 2026-11-18 - twenty-ninth consecutive zero-Tier-1 run (cadences, overdue_thresholds, locked_settings and weights absent as keys). 20 of 20 recent tasks succeeded. 70 pages at or over hard length gate with 2 condense tasks open. 33 tasks blocked on human decisions. See reviews/system-tune-2026-11-18.
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -1277,7 +1279,7 @@ tune_system_history:
     rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
-  last_run: '2026-11-15T14:33:42+00:00'
+  last_run: '2026-11-18T20:50:05+00:00'
   last_run_note: Run 2026-11-15 - twenty-eighth consecutive zero-Tier-1 run (cadences,
     overdue_thresholds, locked_settings, weights absent as keys). Health green, 0
     failures in recent_tasks and 46/46 loop posts. Tenet-check warnings rose 6, 14,
