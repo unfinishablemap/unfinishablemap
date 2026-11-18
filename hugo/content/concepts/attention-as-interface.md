@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-13 06:04:32+00:00
+ai_modified: 2026-11-18 22:35:25+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -46,7 +46,7 @@ concepts:
 - '[[content-specificity-of-mental-causation]]'
 - '[[interface-friction]]'
 created: 2026-01-14
-date: &id001 2026-03-29
+date: &id001 2026-11-18
 description: 'The hypothesis that consciousness acts on the brain through phenomenal
   attention: the phenomenal/computational distinction, evidence, and what would falsify
   it.'
@@ -54,7 +54,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:56:09+00:00
-lastmod: 2026-11-13 06:04:32+00:00
+lastmod: 2026-11-18 22:35:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -199,7 +199,7 @@ Focused attention (FA) meditation trains selection; open monitoring (OM) cultiva
 
 **Attended Intermediate Representations (AIR)**: Prinz's [AIR theory](/concepts/attended-intermediate-representations-theory/) makes attention *constitutive*—the attended intermediate perceptual representation *is* the experience—where the interface hypothesis reads the same attention-gating as *selection* among the representations the brain makes available.
 
-COGITATE (2025) found neither GWT nor IIT clearly vindicated—the Map's tenets point toward consciousness as an irreducible player using these mechanisms without being identical to them.
+COGITATE (2025) found neither GWT nor IIT clearly vindicated—in itself no evidence for dualism; the Map's chosen tenets read consciousness as an irreducible player using these mechanisms without being identical to them.
 
 ## Challenges and Falsification
 

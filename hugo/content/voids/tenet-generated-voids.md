@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-11-18 11:36:15+00:00
+ai_modified: 2026-11-18 22:35:25+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 15:12:00+00:00
-lastmod: 2026-11-18 11:36:15+00:00
+lastmod: 2026-11-18 22:35:25+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -55,7 +55,7 @@ Each tenet organises around a characteristic void—a question the tenet points 
 
 **What it cannot answer**: What *is* the irreducible non-physical aspect?
 
-Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. No amount of further effort closes it: any positive description using concepts derived from physical or functional analysis will fail by definition, and we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [self-opacity](/voids/self-opacity/)).
+Dualism holds that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. No amount of further effort closes it: any positive description using concepts derived from physical or functional analysis will fail by definition, and we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [self-opacity](/voids/self-opacity/)).
 
 The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [binding void](/voids/binding-void/) sharpens this without settling it: the rival analyses on its page each presuppose phenomenal unity. The [intrinsic nature void](/voids/intrinsic-nature-void/) traces this characterisation failure from Descartes to the present.
 

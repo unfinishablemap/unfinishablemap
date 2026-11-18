@@ -2,9 +2,9 @@
 title: "Falsification Roadmap for the Interface Model"
 description: "What evidence would force the Map to abandon its tenets? A tenet-by-tenet falsification analysis that distinguishes honest interactionist dualism from unfalsifiable metaphysics."
 created: 2026-04-09
-modified: 2026-05-23
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-13T19:23:17+00:00
+ai_modified: 2026-11-18T22:35:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ related_articles:
   - "[[direction-dependent-discriminating-test-design]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-04-09
 last_curated:
 last_deep_review: 2026-07-19T11:58:00+00:00
@@ -112,7 +112,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 ## Tenet 4: No Many Worlds
 
-**Claim**: The many-worlds interpretation of quantum mechanics is false; collapse is real.
+**Claim**: The many-worlds interpretation of quantum mechanics is rejected; collapse is real.
 
 **What would falsify it**:
 

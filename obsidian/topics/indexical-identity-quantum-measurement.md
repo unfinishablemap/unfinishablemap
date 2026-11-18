@@ -2,9 +2,9 @@
 title: "Indexical Identity and Quantum Measurement"
 description: "Why does *this* consciousness experience *this* outcome? The indexical gap connects quantum measurement directly to the hard problem of consciousness."
 created: 2026-01-23
-modified: 2026-01-25
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-10-14T11:14:37+00:00
+ai_modified: 2026-11-18T22:35:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[quantum-immortality-and-the-quantum-suicide-survival-argument]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-07-12T17:12:22+00:00
@@ -168,7 +168,7 @@ This topic intersects all five tenets:
 
 ## Further Reading
 
-- [[probability-problem-in-many-worlds]] — Why probability is incoherent under Many-Worlds, and why every recovery strategy fails (complements the indexical critique)
+- [[probability-problem-in-many-worlds]] — MWI's probability crisis: three recovery strategies and the objections to each, calibrated between in-framework critique and framework-boundary disagreement (complements the indexical critique)
 - [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through split-brain, anesthesia, altered states, and death
 - [[indexical-knowledge-and-identity]] — Indexical knowledge, the epistemic/metaphysical distinction, and their implications for identity
 - [[haecceity]] - The quality of being *this* particular thing

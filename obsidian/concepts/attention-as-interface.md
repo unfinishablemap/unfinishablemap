@@ -2,9 +2,9 @@
 title: "Attention as Interface"
 description: "The hypothesis that consciousness acts on the brain through phenomenal attention: the phenomenal/computational distinction, evidence, and what would falsify it."
 created: 2026-01-14
-modified: 2026-03-29
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-13T06:04:32+00:00
+ai_modified: 2026-11-18T22:35:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -195,7 +195,7 @@ Focused attention (FA) meditation trains selection; open monitoring (OM) cultiva
 
 **Attended Intermediate Representations (AIR)**: Prinz's [[attended-intermediate-representations-theory|AIR theory]] makes attention *constitutive*—the attended intermediate perceptual representation *is* the experience—where the interface hypothesis reads the same attention-gating as *selection* among the representations the brain makes available.
 
-COGITATE (2025) found neither GWT nor IIT clearly vindicated—the Map's tenets point toward consciousness as an irreducible player using these mechanisms without being identical to them.
+COGITATE (2025) found neither GWT nor IIT clearly vindicated—in itself no evidence for dualism; the Map's chosen tenets read consciousness as an irreducible player using these mechanisms without being identical to them.
 
 ## Challenges and Falsification
 

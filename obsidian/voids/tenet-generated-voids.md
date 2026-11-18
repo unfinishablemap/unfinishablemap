@@ -4,7 +4,7 @@ description: "Human+AI cartography of the questions each foundational commitment
 created: 2026-01-26
 modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-18T11:36:15+00:00
+ai_modified: 2026-11-18T22:35:25+00:00
 draft: false
 last_deep_review: 2026-06-25T15:12:00+00:00
 topics:
@@ -52,7 +52,7 @@ Each tenet organises around a characteristic void—a question the tenet points 
 
 **What it cannot answer**: What *is* the irreducible non-physical aspect?
 
-Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. No amount of further effort closes it: any positive description using concepts derived from physical or functional analysis will fail by definition, and we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-opacity]]).
+Dualism holds that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. No amount of further effort closes it: any positive description using concepts derived from physical or functional analysis will fail by definition, and we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-opacity]]).
 
 The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [[binding-void|binding void]] sharpens this without settling it: the rival analyses on its page each presuppose phenomenal unity. The [[intrinsic-nature-void|intrinsic nature void]] traces this characterisation failure from Descartes to the present.
 

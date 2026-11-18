@@ -2,9 +2,9 @@
 title: "The Interface Formalization Void"
 description: "Human+AI exploration of why the consciousness-physics interface resists mathematical formalization—mathematics describes structure, but the interface is where structure meets actuality."
 created: 2026-03-15
-modified: 2026-03-18
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-09-27T22:50:40+00:00
+ai_modified: 2026-11-18T22:35:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[apex/dualism-cartography]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-15
 last_curated:
 last_deep_review: 2026-07-19T13:22:00+00:00
@@ -116,7 +116,7 @@ What AI cannot do is cross the void. If the interface involves actuality that is
 
 The interface formalization void is generated directly by the Map's tenets, specifically by combining [[tenets#^dualism|Dualism]] with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].
 
-**Dualism** establishes that consciousness is not reducible to physical processes—it has an actuality that structural description cannot capture. **Minimal Quantum Interaction** locates the interface at quantum measurement, where the Born rule's statistical structure is uniquely determined but individual outcomes are not. Together, these tenets point to an interface that mathematics can surround but not penetrate: the statistical envelope is formalised; the actualisation event is not.
+**Dualism**, a chosen starting point, holds that consciousness is not reducible to physical processes—it has an actuality that structural description cannot capture. **Minimal Quantum Interaction** locates the interface at quantum measurement, where the Born rule's statistical structure is uniquely determined but individual outcomes are not. Together, these tenets posit an interface that mathematics can surround but not penetrate: the statistical envelope is formalised; the actualisation event is not.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** explains why this void persists culturally. The assumption that reality is fully mathematisable—that physics will eventually describe everything—is a form of the simplicity bias this tenet warns against. If consciousness has non-structural aspects, the demand for mathematical description is not rigorous but parochial: it mistakes the limits of a method for a criterion of reality.
 

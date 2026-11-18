@@ -2,9 +2,9 @@
 title: "The Brain Specialness Problem: Why Not Psychokinesis?"
 description: "If consciousness biases quantum outcomes in the brain, why can't it move objects at a distance? The boundary is a scope clause in the Map's coupling law, not an ad hoc restriction."
 created: 2026-02-05
-modified: 2026-02-05
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-10-12T14:56:43+00:00
+ai_modified: 2026-11-18T22:35:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-02-05
 last_curated:
 last_deep_review: 2026-07-26T19:27:44+00:00
@@ -133,7 +133,7 @@ Critics might argue this is still embarrassing: the Map endorses mind-matter int
 
 Three responses:
 
-**First, the mechanisms are different.** The Map's mechanism is specific, constrained, and connected to mainstream physics (quantum measurement, the Zeno effect, neural computation). Parapsychological claims often invoke vague "psychic energy" or undefined "consciousness fields." The specificity of the Map's mechanism is precisely what generates the brain-local prediction.
+**First, the mechanisms are different.** The Map's candidate mechanisms are specific, constrained, and connected to mainstream physics (quantum measurement, post-decoherence selection, the Zeno effect, neural computation); none is established, and the register ranks Stapp's Zeno model below post-decoherence selection ([[positions/quantum-interface#^p-q4|P-Q4]]). Parapsychological claims often invoke vague "psychic energy" or undefined "consciousness fields." The specificity of the proposed interface is precisely what generates the brain-local prediction.
 
 **Second, the predictions diverge.** If the Map's framework and parapsychological claims made the same predictions, they would stand or fall together. But they don't. The Map's coupling law describes robust conscious-brain coupling (motor control, attention direction, neuroplasticity) and no external coupling; parapsychology claims external selection. The empirical record supports robust conscious-brain coupling in the ordinary neuroscientific sense, and shows no reliable external effects. A caution is owed here: that neuroscientific record does not by itself support quantum-dualist *selection* as the mechanism of internal coupling—motor, attention, and neuroplasticity evidence is consistent with a purely physicalist reading of the same coupling. What the record does is locate the contrast (internal coupling real, external coupling absent) where the Map's coupling law places it, without on its own adjudicating the deeper question of what implements the internal coupling.
 

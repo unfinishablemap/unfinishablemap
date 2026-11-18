@@ -5,6 +5,23 @@ ai_modified: 2026-11-18T22:06:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-18 22:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [[capability-division-problem]] and seven secondary pages (eight files, all handled, none skipped)
+- **Task**: tenet-check 2026-11-18, Task 4: tenets stated as establishing a result, or paraphrased past their wording. One-phrase corrections; no argument rewritten, no commitment weakened.
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted fix from `reviews/tenet-check-2026-11-18.md`)
+- **voids/capability-division-problem** (2,994 → 2,997 of 3,000): OLD "establishes that consciousness is irreducible to physical processes — so the boundary" → NEW "holds that consciousness is irreducible to physical processes — so, for the Map, the boundary".
+- **voids/interface-formalization-void** (2,714 → 2,717 of 3,000): OLD "**Dualism** establishes that consciousness is not reducible to physical processes" → NEW "**Dualism**, a chosen starting point, holds that consciousness is not reducible to physical processes". OLD "these tenets point to an interface" → NEW "these tenets posit an interface". Rest of the tenet section untouched (reported for a later task).
+- **concepts/capability-division-in-vision** (3,066 → 3,070 of 3,500): OLD "establishes that the division is real and not merely epistemic" → NEW "commits the Map to reading the division as real and not merely epistemic". Same defect, next sentence: OLD "ensures the mind-side is not empty" → NEW "holds that the mind-side is not empty".
+- **voids/tenet-generated-voids** (2,500 → 2,500 of 3,000): OLD "Dualism establishes that consciousness cannot be fully explained in physical terms" → NEW "Dualism holds that consciousness cannot be fully explained in physical terms". The other four tenet entries in the list already use "postulates" / "is rejected"; no further change.
+- **topics/falsification-roadmap-for-the-interface-model** (3,994 → 3,994 of 4,000, net zero): OLD "The many-worlds interpretation of quantum mechanics is false; collapse is real." → NEW "The many-worlds interpretation of quantum mechanics is rejected; collapse is real." The line is the section's **Claim** header; the falsifier list beneath it is unaffected.
+- **topics/brain-specialness-boundary** (3,839 → 3,856 of 4,000): OLD "The Map's mechanism is specific, constrained, and connected to mainstream physics (quantum measurement, the Zeno effect, neural computation)." → NEW "The Map's candidate mechanisms are specific, constrained, and connected to mainstream physics (quantum measurement, post-decoherence selection, the Zeno effect, neural computation); none is established, and the register ranks Stapp's Zeno model below post-decoherence selection ([[positions/quantum-interface#^p-q4|P-Q4]])." OLD "The specificity of the Map's mechanism" → NEW "The specificity of the proposed interface". The Zeno effect stays in the list because P-Q4 keeps it "in the live mechanism set" and the page's own argument is worked through it.
+- **topics/indexical-identity-quantum-measurement** (3,417 → 3,423 of 4,000): Further Reading gloss of [[probability-problem-in-many-worlds]]. OLD "Why probability is incoherent under Many-Worlds, and why every recovery strategy fails (complements the indexical critique)" → NEW "MWI's probability crisis: three recovery strategies and the objections to each, calibrated between in-framework critique and framework-boundary disagreement (complements the indexical critique)" (wording taken from the linked page's lead and description).
+- **concepts/attention-as-interface** (3,467 → 3,473 of 3,500; +6 against a ceiling of +8): OLD "vindicated—the Map's tenets point toward consciousness as an irreducible player using these mechanisms without being identical to them." → NEW "vindicated—in itself no evidence for dualism; the Map's chosen tenets read consciousness as an irreducible player using these mechanisms without being identical to them." The four other open tasks' sentences (L113, L202, L206, reference 7) untouched.
+- **Engagement classification**: none; no named-opponent reply was edited.
+- **Verification that the fix held**: each of the eleven OLD strings has 0 hits in the obsidian and hugo copies of its page after sync; the P-Q4 link renders as `/positions/quantum-interface/#p-q4` in the hugo copy of `topics/brain-specialness-boundary`.
+- **Published**: yes
+
 ## 2026-11-18 22:07 UTC - refine-draft (driver, inline follow-up)
 - **Status**: Success
 - **File**: [[sensorimotor-contingencies-and-the-interface]]

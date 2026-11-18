@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-11-16 12:17:50+00:00
+ai_modified: 2026-11-18 22:35:25+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[baseline-cognition]]'
 - '[[epiphenomenalism]]'
 created: 2026-03-09
-date: &id001 2026-11-16
+date: &id001 2026-11-18
 description: Interactionist dualism must specify which capabilities belong to the
   brain and which to the mind. This boundary may resist precise drawing—a void at
   the heart of dualism.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 00:18:39+00:00
-lastmod: 2026-11-16 12:17:50+00:00
+lastmod: 2026-11-18 22:35:25+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -119,7 +119,7 @@ Honest framing: (4)–(6) are inaccessible by the framework's own commitments, n
 
 ## Relation to Site Perspective
 
-The Map's tenets frame the capability division problem as productive rather than devastating. Tenet 1 ([Dualism](/tenets/#dualism)) establishes that consciousness is irreducible to physical processes — so the boundary between brain-side and mind-side capabilities is real, not merely epistemic. Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)) insists that consciousness causally contributes — it is not merely along for the ride, so the mind-side of the division is not empty. Tenet 2 ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)) locates the interface at quantum indeterminacy, explaining why the boundary resists direct observation. Tenet 5 ([Occam's Razor Has Limits](/tenets/#occams-limits)) warns against the physicalist impulse to dissolve the boundary by reducing everything to neural computation — the simpler explanation is not necessarily correct when one domain of reality (phenomenal experience) remains fundamentally unlike the other.
+The Map's tenets frame the capability division problem as productive rather than devastating. Tenet 1 ([Dualism](/tenets/#dualism)) holds that consciousness is irreducible to physical processes — so, for the Map, the boundary between brain-side and mind-side capabilities is real, not merely epistemic. Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)) insists that consciousness causally contributes — it is not merely along for the ride, so the mind-side of the division is not empty. Tenet 2 ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)) locates the interface at quantum indeterminacy, explaining why the boundary resists direct observation. Tenet 5 ([Occam's Razor Has Limits](/tenets/#occams-limits)) warns against the physicalist impulse to dissolve the boundary by reducing everything to neural computation — the simpler explanation is not necessarily correct when one domain of reality (phenomenal experience) remains fundamentally unlike the other.
 
 The Map interprets the capability division problem as evidence that dualism requires a different kind of explanatory framework than physicalism provides. Physicalism explains vision entirely in neural terms and treats consciousness as something to be explained away. Dualism accepts two domains and faces the more tractable question of how they collaborate. The empirical evidence — blindsight, the two-streams dissociation, the perceptual organisation threshold — provides genuine constraints on the answer, even if the full specification remains a void.
 

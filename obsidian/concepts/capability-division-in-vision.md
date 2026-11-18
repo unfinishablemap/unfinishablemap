@@ -2,9 +2,9 @@
 title: "Capability Division in Vision"
 description: "Vision divides between brain-side computation and mind-side phenomenal contribution. Blindsight, the two-streams hypothesis, and perceptual organisation mark where the division falls."
 created: 2026-03-17
-modified: 2026-11-16
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-16T11:35:21+00:00
+ai_modified: 2026-11-18T22:35:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ Honest framing: only (1) and (2) are genuinely in-practice, and both are boundar
 
 ## Relation to Site Perspective
 
-The Map's tenets constrain how the capability division in vision should be understood. Tenet 1 ([[tenets#^dualism|Dualism]]) establishes that the division is real and not merely epistemic — consciousness is genuinely irreducible to neural computation, so the boundary between brain-side and mind-side visual capabilities marks a genuine ontological distinction. Tenet 3 ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]) ensures the mind-side is not empty — consciousness causally contributes to visual processing rather than merely accompanying it. Tenet 2 ([[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]) explains why the boundary resists precise specification — the interface operates at a level below the resolution of current neuroscience.
+The Map's tenets constrain how the capability division in vision should be understood. Tenet 1 ([[tenets#^dualism|Dualism]]) commits the Map to reading the division as real and not merely epistemic — consciousness is genuinely irreducible to neural computation, so the boundary between brain-side and mind-side visual capabilities marks a genuine ontological distinction. Tenet 3 ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]) holds that the mind-side is not empty — consciousness causally contributes to visual processing rather than merely accompanying it. Tenet 2 ([[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]) explains why the boundary resists precise specification — the interface operates at a level below the resolution of current neuroscience.
 
 The Map interprets the convergent evidence — blindsight limitations, the two-streams dissociation, the perceptual organisation threshold — as sketching the interface's operational profile in the visual domain. Brain-side processing builds a computational representation: features extracted, spatial relations mapped, motor parameters computed. Mind-side contribution transforms this representation into phenomenal experience — visual information that is unified, owned, and flexibly available for reasoning.
 

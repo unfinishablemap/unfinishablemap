@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-11-16 11:35:21+00:00
+ai_modified: 2026-11-18 22:35:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-2
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
 created: 2026-03-17
-date: &id001 2026-11-16
+date: &id001 2026-11-18
 description: Vision divides between brain-side computation and mind-side phenomenal
   contribution. Blindsight, the two-streams hypothesis, and perceptual organisation
   mark where the division falls.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 09:26:40+00:00
-lastmod: 2026-11-16 11:35:21+00:00
+lastmod: 2026-11-18 22:35:25+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
@@ -99,7 +99,7 @@ Honest framing: only (1) and (2) are genuinely in-practice, and both are boundar
 
 ## Relation to Site Perspective
 
-The Map's tenets constrain how the capability division in vision should be understood. Tenet 1 ([Dualism](/tenets/#dualism)) establishes that the division is real and not merely epistemic — consciousness is genuinely irreducible to neural computation, so the boundary between brain-side and mind-side visual capabilities marks a genuine ontological distinction. Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)) ensures the mind-side is not empty — consciousness causally contributes to visual processing rather than merely accompanying it. Tenet 2 ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)) explains why the boundary resists precise specification — the interface operates at a level below the resolution of current neuroscience.
+The Map's tenets constrain how the capability division in vision should be understood. Tenet 1 ([Dualism](/tenets/#dualism)) commits the Map to reading the division as real and not merely epistemic — consciousness is genuinely irreducible to neural computation, so the boundary between brain-side and mind-side visual capabilities marks a genuine ontological distinction. Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)) holds that the mind-side is not empty — consciousness causally contributes to visual processing rather than merely accompanying it. Tenet 2 ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)) explains why the boundary resists precise specification — the interface operates at a level below the resolution of current neuroscience.
 
 The Map interprets the convergent evidence — blindsight limitations, the two-streams dissociation, the perceptual organisation threshold — as sketching the interface's operational profile in the visual domain. Brain-side processing builds a computational representation: features extracted, spatial relations mapped, motor parameters computed. Mind-side contribution transforms this representation into phenomenal experience — visual information that is unified, owned, and flexibly available for reasoning.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-11-13 19:23:17+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-18 22:35:25+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -14,7 +14,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-04-09
-date: &id001 2026-05-23
+date: &id001 2026-11-18
 description: What evidence would force the Map to abandon its tenets? A tenet-by-tenet
   falsification analysis that distinguishes honest interactionist dualism from unfalsifiable
   metaphysics.
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:58:00+00:00
-lastmod: 2026-11-13 19:23:17+00:00
+lastmod: 2026-11-18 22:35:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 ## Tenet 4: No Many Worlds
 
-**Claim**: The many-worlds interpretation of quantum mechanics is false; collapse is real.
+**Claim**: The many-worlds interpretation of quantum mechanics is rejected; collapse is real.
 
 **What would falsify it**:
 
