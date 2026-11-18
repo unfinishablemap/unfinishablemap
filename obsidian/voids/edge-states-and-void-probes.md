@@ -2,9 +2,9 @@
 title: "Edge-States and the Probing of Voids"
 description: "What consciousness encounters at its cognitive boundaries—ineffability, clarity, ego dissolution—and whether altered states genuinely access wider territory or map the structure of limits from inside."
 created: 2026-01-19
-modified: 2026-05-19
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-10-24T21:09:52+00:00
+ai_modified: 2026-11-18T11:50:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[sleep-consciousness-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-05-10
 last_curated:
 last_deep_review: 2026-07-16T03:19:00+00:00
@@ -98,7 +98,7 @@ Metzinger himself reads this naturalistically, and the Map should not enlist him
 
 The [[tenets#^dualism|dualist]] reading takes the same phenomenology and asks whether the persisting awareness could be the consciousness Metzinger's model represents rather than the representation itself: if awareness remains when all content and the self-model are subtracted, it is at least a live possibility that awareness is not identical with its contents. This is a disagreement *within* Metzinger's framing, not support drawn from it. The same phenomenology is equally describable as a Bayesian tonic-alertness model with its self-partition switched off, which on parsimony grounds carries the lighter commitment. Against Metzinger's own E-fallacy warning, the dualist inference owes an argument the phenomenology does not supply.
 
-Metzinger is not the only naturalistic claimant here. Laukkonen, Friston and Chandaria (2025) advance active inference as a theory of consciousness itself—experience arises where a system's inference turns recursively upon itself with sufficient epistemic depth—covering meditation, psychedelics and minimal states specifically. On that reading the zero-person perspective is what a recursive epistemic field looks like once its self-model drops out, and contemplative cessation a volitional collapse of precision over hierarchical hidden states rather than a crossing. [[predictive-processing-and-dualism|Engaged at length elsewhere]] as the strongest physicalist rival the Map faces, it matters here because the edge-phenomenology collected above arrives already spoken for: the residual disagreement sits at a framework boundary, not in a refutation the phenomenology supplies.
+Metzinger is not the only naturalistic claimant here. Laukkonen, Friston and Chandaria (2025) advance active inference as a theory of consciousness itself—experience arises where a system's inference turns recursively upon itself with sufficient epistemic depth—covering meditation, psychedelics and minimal states. Read through that theory, the zero-person perspective is maximal epistemic depth with the reality model contentless, and cessation, where no experience occurs, a "Bayesian unbinding" in which that model fails to cohere; neither is a crossing. [[predictive-processing-and-dualism|Engaged at length elsewhere]] as the strongest physicalist rival the Map faces, it matters here because the edge-phenomenology collected above arrives already spoken for: the residual disagreement sits at a framework boundary, not in a refutation the phenomenology supplies.
 
 ## The Dissolving-Insight Phenomenon
 

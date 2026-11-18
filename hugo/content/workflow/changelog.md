@@ -1,14 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18 11:37:02+00:00
+ai_modified: 2026-11-18 11:51:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-18'
-lastmod: 2026-11-18 11:37:02+00:00
+lastmod: 2026-11-18 11:51:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-18 11:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) (secondary: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/))
+- **Task**: correct what two pages say Laukkonen, Friston and Chandaria (2025) claim: the mechanism given for cessation, and three sentences that stated the Map's functionalist construal as the authors' own position.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted replacements only)
+- **Version read**: PsyArXiv preprint v3 (osf.io/daf5n_v3; PDF dated 2025-06-10, 44 pages), re-fetched this run from `osf.io/download/daf5n_v3/` and converted with `pdftotext`. The version of record (*Neuroscience & Biobehavioral Reviews* 176, 106296) was tried once and not obtained (publisher redirect page only); its abstract was read at Europe PMC. Body quotations below are from the preprint.
+- **Word counts** (`analyze_length`, before → after): voids/edge-states-and-void-probes 3664 → 3664 (voids hard gate 3000; body prose before Further Reading/References about 3031, apparatus about 633); topics/predictive-processing-and-dualism 4618 → 4617 (topics hard gate 4000; body prose about 3953, apparatus about 669). Both remain over their hard gates; no condensing attempted. The void page carries a standing human length decision (2026-06-05).
+- **Source ledger** (string → hits in v3 → context):
+  - "Cessations are characterized by" → 1 → "Cessations are characterized by brief, and in rare cases long, periods of total absence wherein no experience occurs (akin to endogenous general anesthesia)."
+  - "transiently collapses or unbinds" → 1 → "Nirodha is not a state like deep sleep or a mind blank, but a profoundly deconstructed state where the reality model, and consciousness, transiently collapses or unbinds".
+  - "Bayesian unbinding" → 2 → "such deep deconstruction may lead to a transient failure to generate a coherent reality model and thus a collapse of awareness (i.e., Bayesian unbinding)"; "This Bayesian unbinding of the reality model includes MPE; the world model is not contentless but incoherent."
+  - "fails to reach global coherence" → 1 → "we hypothesize that cessations of awareness occur when the inferential competition fails to reach global coherence due to deconstructive meditation, which steadily accumulates evidence against the coherence of the reality model."
+  - "not contentless but incoherent" → 1 (above).
+  - "MPE occurs when" → 1 → "we propose that MPE occurs when: epistemic depth is maximally high, and the reality model is contentless (minimal precision across the abstraction hierarchy)."
+  - "seem necessary for consciousness" → 1 → "we propose three conditions that seem necessary for consciousness and show how some active inference systems satisfy them."
+  - "guarantees phenomenal experience" → 1 (footnote 11, attached to the AI discussion) → "Our position does not assert that satisfying these conditions guarantees phenomenal experience in the subjective sense; rather, it proposes that such a system would exhibit computational and behavioral hallmarks of consciousness. It may be that substrate turns out to be crucially important, but ethically, this ambiguity compels caution."
+  - "substrate" → 5 → footnote 11 (above); "may be implemented in myriad ways at different levels, on different substrates, and in different organisms"; "computations that run on biological substrates are porously connected to a world"; "substrate independence" as a gloss on emptiness; one reference title.
+  - "adamant" → 1 → "The AI would be adamant that they exist, and that they know their own knowing. Moreover, these selfrepresentations would be their most confident conclusions"; the passage goes on "We seem forced, then, to conclude that the AI system is conscious. At least to the extent that we are willing to attribute consciousness to each other", with footnote 11 attached, then "All of the above is, of course, assuming our stated conditions are true."
+  - Counts: "volition" 0; "voluntar" 0; "zero-person" 0; "ineffab" 0; "hidden states" 2 (neither about cessation); "precision" 104; "timeless" 0; "physicalis" 0.
+- **Changes**:
+  - `voids/edge-states-and-void-probes` L101. OLD: "On that reading the zero-person perspective is what a recursive epistemic field looks like once its self-model drops out, and contemplative cessation a volitional collapse of precision over hierarchical hidden states rather than a crossing." NEW: "Read through that theory, the zero-person perspective is maximal epistemic depth with the reality model contentless, and cessation, where no experience occurs, a "Bayesian unbinding" in which that model fails to cohere; neither is a crossing." (35 → 36 words; funded by dropping "specifically" from the previous sentence.) "Read through" marks the first clause as the Map's mapping of Metzinger's term onto the paper's account of minimal phenomenal experience; "volitional" had no support and is gone; minimal precision is no longer given as the mechanism of cessation.
+  - `topics/predictive-processing-and-dualism` L82. OLD: "The authors call the conditions ones that "seem necessary" for consciousness;" NEW: "The authors say the conditions "seem necessary" for consciousness and allow that substrate may matter;". OLD: "The account is built to entail consciousness from the dynamics: where the loop closes…" NEW: "On that reading the dynamics entail consciousness: where the loop closes…" (rest of sentence unchanged).
+  - Same page L84. OLD: "The authors take that registering to constitute experience," NEW: "On the functionalist reading that registering constitutes experience,".
+  - Same page L86. OLD: "Its authors, like Clark, Friston and Wilkinson before them, can argue that" NEW: "Its defenders, following Clark, Friston and Wilkinson, can argue that" ("ineffab" has 0 hits in the paper; the move is now lent to defenders of the theory, not to its authors).
+- **Engagement classification**: engagement with Laukkonen, Friston and Chandaria: mixed, unchanged (Mode Two opening on the unbuilt bridge from recursive self-evidencing to felt experience; Mode Three residue). The edits change who is said to hold the strong functionalist version, not the reply to it.
+- **Checks**: no other open task names either file in a File or Secondary line. Stability notes (deep-review 2026-07-16 for the void; 2026-09-30 for the topic) do not settle any of the four sentences; the 09-30 note "do not push toward refutation" is respected. The illusionism-adjacent sentences (L76, L86) do not use the bare regress, "Tallis's regress" or "intrinsic, ineffable" as Frankish's target; no mismatch with `concepts/illusionism` as corrected 2026-11-17. Consistent with `voids/minimal-consciousness-void` L75.
+- **Report-only sweep**: 31 pages in topics, concepts, voids and apex mention the paper; candidates that say more than the preprint supports were reported to the driver, not edited.
+- **Published**: yes
 
 ## 2026-11-18 11:37 UTC - refine-draft
 - **Status**: Success
