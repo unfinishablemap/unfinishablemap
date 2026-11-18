@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-11-11 17:51:27+00:00
+ai_modified: 2026-11-18 16:50:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-04
-date: &id001 2026-10-25
+date: &id001 2026-11-18
 description: The Map's explicit, maintained register of positions it currently holds
   — claims with status, confidence, dependencies, and conditions that would shift
   them.
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-11-11 17:51:27+00:00
+lastmod: 2026-11-18 16:50:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,6 +76,7 @@ That same commit did not update the paragraph above, which reads the column it h
 - **Updated 2026-09-20**: re-derived on adding [P-CS6](/positions/consciousness-scope/#p-cs6) (`n/a` · framework-internal: yes · structural centrality high), the filter/interface partition entry: live 59 → 60, **n/a** 19 → 20. The band is *n/a* rather than *none* because the entry is a reading-and-accounting claim about what filter evidence supports, not a first-order claim no measurement reaches — the outbound leg's own inertness is already banded at [P-Q2](/positions/quantum-interface/#p-q2) and [P-Q7](/positions/quantum-interface/#p-q7) and is not double-counted here. Inert eleven, framework-internal inert ten and high-centrality inert five therefore all unchanged; eleven of sixty remains a little under a fifth. Re-derived from the `- **Calibration**` lines, and the 2026-09-18 figures reproduced exactly before the addition.
 - **Updated 2026-09-20** (second pass): re-derived on adding [P-MA1](/positions/memory-and-autonoesis/#p-ma1) (`direct` · framework-internal: no · structural centrality moderate), the memory-phenomenology entry opening a new domain: live 60 → 61, **direct** 3 → 4 — the first addition to that band since this section was written. The pairing is the point: *direct* discriminability at external-evidence grade **D**, a runnable within-memory tracking experiment whose components are all published and whose conjunction nobody has performed. That is the opposite shape from the inert entries this section discloses, and it is what keeps the D from reading as a concealed *none*. Inert eleven, framework-internal inert ten and high-centrality inert five all unchanged — the addition touches neither inert bucket; eleven of sixty-one is still a little under a fifth. Re-derived from the `- **Calibration**` lines, the whole chain from the 2026-09-06 baseline reproducing exactly before the addition.
 - **Updated 2026-10-11**: re-derived on adding [P-CS7](/positions/consciousness-scope/#p-cs7) (`indirect` · framework-internal: yes · structural centrality moderate), the universal coupling scope law: live 61 → 62, **indirect** 25 → 26. Inert eleven, framework-internal inert ten and high-centrality inert five all unchanged; eleven of sixty-two is still a little under a fifth. Re-derived from the `- **Calibration**` lines, the 2026-09-20 figures reproducing exactly before the addition.
+- **Updated 2026-11-18**: re-derived on adding [P-RR1](/positions/replies-to-rivals/#p-rr1) (`n/a` · framework-internal: yes · structural centrality high), the grade of the reply to illusionism, opening a new domain. The pass found this section one entry behind: [P-AS2](/positions/ai-substrate-verdicts/#p-as2) (`indirect`), added 2026-11-11, had no note here. Both land now: live 62 → 63 → 64, **indirect** 26 → 27, **n/a** 20 → 21. Inert eleven, framework-internal inert ten and high-centrality inert five unchanged; eleven of sixty-four is still a little under a fifth. Re-derived from the `- **Calibration**` lines.
 
 ## Domains
 
@@ -98,6 +99,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Methodology and calibration](/positions/methodology-and-calibration/) — what the Map commits to *about its own evidence and conduct*: the tenet-register / evidence-register separation (a tenet removes a defeater but never upgrades the evidence), the common-cause null as a standing discount on convergence, the publisher-of-record citation and weight-class standard, the framework-stage / open-programme self-calibration, and the honest gap between disclosure and enforcement
 - [Finding-level calibration](/positions/finding-level-calibration/) — the same conduct question at the grain of a *single finding*: the architecture-vs-significance two-tier discount, which separates the structural fact a result reports (cross-vocabulary-robust, smaller discount) from what the Map reads it as evidence for (framework-shaped, larger discount), with the discipline's own bounds and its differential scope condition registered alongside the rule
 - [Perception and the interface](/positions/perception-and-the-interface/) — first-order structural findings from the sensory-modality survey and the discount each carries: the cross-modal capability division as a two-tier finding ([P-F1](/positions/finding-level-calibration/#p-f1)'s fourth instance) — modality-specific brain machinery and a supramodal access signature across the distance senses, inverted by interoception, driven to both extremes by the vestibular sense, made a gradient by thermoception, and read as the operational shape of the brain/mind distinction only at the larger discount, since the Global Neuronal Workspace predicts the same signature
+- [Replies to rivals](/positions/replies-to-rivals/) — the grade of the Map's reply to each named rival view, beginning with illusionism: three stated grounds (a mechanism owed and not yet built, a datum the illusionist declines to grant, functional roles underdetermining experience) and past them a framework boundary; a verdict on a live programme, with what the reply does not claim listed. Accounting entries: credence attaches to what the reply is, never to the rival's falsity
 - *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)
 
 **Companion files (no positions).** [Quantum interface](/positions/quantum-interface-calibration-history/), [methodology and calibration](/positions/methodology-and-calibration-history/), [value in selection](/positions/value-in-selection-calibration-history/) (with a [P-VS2 split](/positions/value-in-selection-calibration-history-p-vs2/)), [moral status](/positions/moral-status-calibration-history/), [subject census](/positions/subject-census-calibration-history/), [individuation and subjecthood](/positions/individuation-and-subjecthood-calibration-history/), [agency and will](/positions/agency-and-will-calibration-history/), [AI consciousness scope](/positions/ai-consciousness-scope-calibration-history/), [AI substrate verdicts](/positions/ai-substrate-verdicts-calibration-history/) and [arguments for dualism](/positions/arguments-for-dualism-calibration-history/) each have a calibration-history file of dated notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, whose `Calibration history` line per entry points back.

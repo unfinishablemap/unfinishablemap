@@ -152,9 +152,9 @@ No entry asserts something a corrected page has withdrawn. No dependency points 
 
 ## Priority List
 
-Three items, ranked by propagation tasks saved. Each is a `positions-evolve` proposal. Items 1 and 3 are best housed together in a new domain file (suggested `positions/replies-to-rivals`, ids P-RR1 and P-RR2): `arguments-for-dualism` is 2,214 words against the 2,500 gate and its intro restricts it to counting rules about the argument catalogue, and the id P-D4 was once proposed for what became [P-TU1](/positions/thought-and-understanding/#p-tu1). Adding two entries moves the index's read-back from 63 to 65 live; re-derive it in the same pass.
+Three items, ranked by propagation tasks saved. Each is a `positions-evolve` proposal. Items 1 and 3 are best housed together in a new domain file (suggested `positions/replies-to-rivals`, ids [P-RR1](/positions/replies-to-rivals/#p-rr1) and P-RR2): `arguments-for-dualism` is 2,214 words against the 2,500 gate and its intro restricts it to counting rules about the argument catalogue, and the id P-D4 was once proposed for what became [P-TU1](/positions/thought-and-understanding/#p-tu1). Adding two entries moves the index's read-back from 63 to 65 live; re-derive it in the same pass.
 
-### 1. ADD: the grade of the Map's reply to illusionism (P-RR1)
+### 1. ADD: the grade of the Map's reply to illusionism ([P-RR1](/positions/replies-to-rivals/#p-rr1))
 
 - **Why first**: 185 pages answer illusionism; 54 were above the hub's grade on 2026-11-17; seven of twelve sampled sentences are still live. Six entries name illusionism's vindication as a retirement condition and none states what the Map's reply earns.
 - **Claim, in the hub's words** (`concepts/illusionism` L55): the Map rejects illusionism because "the mechanism the view owes by its own standard is not yet built, the illusionist declines to grant what the Map takes as a datum, that experience is what we know most directly, and functional roles underdetermine experience. Past these the disagreement is a boundary between frameworks, not a refutation."
@@ -187,7 +187,7 @@ Three items, ranked by propagation tasks saved. Each is a `positions-evolve` pro
 - **Riders to carry**: the statement of the theory at the paper's strength: "The authors say the conditions "seem necessary" for consciousness and allow that substrate may matter"; the sufficiency reading is the Map's construal ("read as the functionalist rival it invites"); epistemic depth is the system's "Bayesian beliefs" being "recurrently shared throughout it", which the authors distinguish from introspection; the Map's reply is the explanatory gap ("why a system meeting those conditions *feels like* anything") and "The residue is a framework-boundary disagreement, and the Map marks it as such rather than dressing it as a refutation." On the void page: "the Map does not refute it here: past its own premises lies a framework boundary."
 - **Status**: live.
 - **Calibration (suggested)**: credence high · external-evidence grade n/a · structural centrality moderate · model maturity developed · empirical discriminability n/a · framework-internal only: yes. Justification: an accounting claim about the standing of one rival, on the same pattern as item 1; moderate because no other entry depends on it yet.
-- **Depends on**: Tenet 1 (the gap the reply rests on, as a chosen starting point); [P-M1](/positions/methodology-and-calibration/#p-m1); [P-D1](/positions/arguments-for-dualism/#p-d1); P-RR1 (the theory's "most sophisticated move" is, on the page's reading, "the meta-problem move raised one level", so the illusionism grade governs that step); [P-PI1](/positions/perception-and-the-interface/#p-pi1) and [P-CS4](/positions/consciousness-scope/#p-cs4) as sibling cases where a physicalist account predicts the same signature.
+- **Depends on**: Tenet 1 (the gap the reply rests on, as a chosen starting point); [P-M1](/positions/methodology-and-calibration/#p-m1); [P-D1](/positions/arguments-for-dualism/#p-d1); [P-RR1](/positions/replies-to-rivals/#p-rr1) (the theory's "most sophisticated move" is, on the page's reading, "the meta-problem move raised one level", so the illusionism grade governs that step); [P-PI1](/positions/perception-and-the-interface/#p-pi1) and [P-CS4](/positions/consciousness-scope/#p-cs4) as sibling cases where a physicalist account predicts the same signature.
 - **Would shift if**: the theory derived felt experience from the three conditions on its own resources (against the Map); or a system meeting all three were shown, on evidence both sides accept, to lack experience (for the Map; no such test is known, and the entry should say so).
 - **Does not claim**: that the paper asserts sufficiency; that epistemic depth is higher-order self-modelling; that the theory is refuted, defeated or answered from inside its own framework; that precision-weighting or any other active-inference result supports the Map (those are separate claims on the same page).
 - **First citers**: `topics/predictive-processing-and-dualism`, `voids/minimal-consciousness-void`, `voids/edge-states-and-void-probes`, `concepts/predictive-processing`, and the four pages today's sweep corrected.
@@ -205,11 +205,11 @@ Three items, ranked by propagation tasks saved. Each is a `positions-evolve` pro
 
 | From | To | Reason |
 |---|---|---|
-| `concepts/illusionism` | proposed P-RR1 | The hub cites no position; the entry would be a transcription of it |
+| `concepts/illusionism` | proposed [P-RR1](/positions/replies-to-rivals/#p-rr1) | The hub cites no position; the entry would be a transcription of it |
 | `topics/predictive-processing-and-dualism` | proposed P-RR2 | Same |
 | `topics/ethics-of-possible-ai-consciousness`, `topics/animal-consciousness` | [P-CS1](/positions/consciousness-scope/#p-cs1) | The four-way distinction between possibility, likelihood, eligibility and precaution |
 | `concepts/symbol-grounding-problem` | [P-TU1](/positions/thought-and-understanding/#p-tu1) | The diagnosis is conditional on the constitutive reading |
-| `positions/arguments-for-mental-causation` ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)) | proposed P-RR1 | Reciprocal pointer for "met at a framework boundary" |
+| `positions/arguments-for-mental-causation` ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)) | proposed [P-RR1](/positions/replies-to-rivals/#p-rr1) | Reciprocal pointer for "met at a framework boundary" |
 
 ## New Concept Pages Needed
 

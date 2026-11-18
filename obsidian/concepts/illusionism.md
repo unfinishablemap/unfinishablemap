@@ -2,9 +2,9 @@
 title: "Illusionism"
 description: "The claim that phenomenal consciousness, as traditionally conceived, is an introspective illusion, and why the Map rejects it: the mechanism illusionism owes is not yet built."
 created: 2026-01-14
-modified: 2026-11-17
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-17T12:00:58+00:00
+ai_modified: 2026-11-18T16:50:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ last_deep_review: 2026-11-17T12:00:58+00:00
 
 Illusionism is the most radical physicalist response to the [[hard-problem-of-consciousness|hard problem]]. Rather than explaining how [[phenomenal-consciousness]] arises from physical processes, illusionists deny that it exists *as traditionally conceived*: the "what it's like" aspect of experience—the redness of red, the painfulness of pain—is, on this view, an introspective illusion, though the discriminating, reacting and reporting are real.
 
-This matters for The Unfinishable Map because illusionism is the most direct challenge to its starting point: if illusionists are right there is no [[explanatory-gap]], nothing non-physical to explain, and the [[tenets#^dualism|Dualism]] tenet defends something that doesn't exist. The Map rejects illusionism ([[#Where the Functional Account Falls Short|argued below]]): the mechanism the view owes by its own standard is not yet built, the illusionist declines to grant what the Map takes as a datum, that experience is what we know most directly, and functional roles underdetermine experience. Past these the disagreement is a boundary between frameworks, not a refutation.
+This matters for The Unfinishable Map because illusionism is the most direct challenge to its starting point: if illusionists are right there is no [[explanatory-gap]], nothing non-physical to explain, and the [[tenets#^dualism|Dualism]] tenet defends something that doesn't exist. The Map rejects illusionism ([[#Where the Functional Account Falls Short|argued below]]): the mechanism the view owes by its own standard is not yet built, the illusionist declines to grant what the Map takes as a datum, that experience is what we know most directly, and functional roles underdetermine experience. Past these the disagreement is [[positions/replies-to-rivals#^p-rr1|a boundary between frameworks, not a refutation]].
 
 Illusionism is the eliminativist strand of physicalism targeting phenomenal consciousness. Where the Churchlands' classical [[eliminative-materialism|eliminativism]] denies the reality of propositional attitudes, illusionism denies the reality of qualia. The two strands are independent, but Frankish (2016) grants that we might call illusionism "eliminativism about phenomenal consciousness"—though he sets the label aside in his next sentence, as suggesting a wider rejection of folk psychology not essential to the approach; he proposes "illusionism" to block that inheritance. Placing it there anyway is the Map's move, and it matters: illusionism inherits eliminativism's dialectical history, including the [[self-stultification|self-refutation]] arguments that arise whenever a theory denies the reality of its own categories of assertion.
 

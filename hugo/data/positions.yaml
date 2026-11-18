@@ -666,6 +666,20 @@ p-q9:
   summary: 'P-Q9: The interface is self-concealing by construction — confidence: moderate · no independent
     evidence · moderately central'
   weak: 'yes'
+p-rr1:
+  bands: 'confidence: high · normative, not an empirical claim · framework-critical'
+  claim: The Map rejects illusionism on three stated grounds and, past them, at a framework boundary;
+    the verdict is on a live programme, not a defeated one
+  credence: high
+  grade: n/a
+  id: P-RR1
+  slug: replies-to-rivals
+  status: live
+  structural_centrality: high
+  summary: 'P-RR1: The Map rejects illusionism on three stated grounds and, past them, at a framework
+    boundary; the verdict is on a live programme, not a defeated one — confidence: high · normative, not
+    an empirical claim · framework-critical'
+  weak: 'no'
 p-sc1:
   bands: 'confidence: high · no independent evidence · framework-critical'
   claim: A subject census is part of the interface's physical state description
