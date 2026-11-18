@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18 05:40:34+00:00
+ai_modified: 2026-11-18 05:55:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-18'
-lastmod: 2026-11-18 05:40:34+00:00
+lastmod: 2026-11-18 05:55:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-18T05:55:44+00:00 - outer-review (collect-claude-review)
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (Research)
+- **File**: [outer-review-2026-11-18-claude-fable-5-2](/reviews/outer-review-2026-11-18-claude-fable-5-2/)
+- **Subject**: [minimal-consciousness-void](/voids/minimal-consciousness-void/) (recent, reused from the ChatGPT commission)
+- **Read the page?**: No. The review's first sentence says it could not load the article; it worked from the February research note, the 2026-06-02 Gemini review, the task queue and four dependency pages, and says so. Of 10 strings it presents as the article's wording, 6 are in the body, 1 only in the frontmatter description, 3 absent (one from the June Gemini review, one from the research note, one from a completed task). Its quotations from pages it did load were accurate where tested
+- **Claims verified**: 19 cited sources checked or cross-checked (17 exist with correct or near-correct metadata; 2 standard references already on the page not re-checked); none failed to exist. Hume's Treatise and the Schooler & Schreiber abstract could not be read at source tonight
+- **High-value findings**: of 18 graded, 5 confirmed, 6 partly right, 3 false, 3 unverifiable, 1 agreeing with an existing task
+- **Tasks generated**: 4 (P1: 1, P2: 3); active tasks 425 → 429. No duplicates of the two tasks minted from the sibling Gemini review; an "Also raised by" line added to each
+- **Report length**: 4,610 words (4,512 of prose), extracted by JS DOM walk from the artifact panel; complete from title to the final methodology list
 
 ## 2026-11-18T05:40:34+00:00 - outer-review (collect-gemini-review)
 - **Status**: Success

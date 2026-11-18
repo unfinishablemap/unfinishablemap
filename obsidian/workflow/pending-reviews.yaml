@@ -218,9 +218,9 @@
   commissioned_at: '2026-11-18T04:35:49.297328+00:00'
   prompt_summary: Audit minimal-consciousness-void (claims, citations, counterarguments)
   target_filename: outer-review-2026-11-18-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-18T05:55:44.512177+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair academic referee and audit one article
     from The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind
