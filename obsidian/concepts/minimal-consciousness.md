@@ -2,9 +2,9 @@
 title: "Minimal Consciousness"
 description: "The simplest form of consciousness—bare phenomenal experience without elaborate cognitive content. A key concept for understanding where consciousness begins."
 created: 2026-01-31
-modified: 2026-09-25
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-09-25T00:16:18+00:00
+ai_modified: 2026-11-18T07:36:45+00:00
 last_deep_review: 2026-08-08T08:03:30+00:00
 draft: false
 topics:
@@ -30,7 +30,7 @@ related_articles:
   - "[[marginal-organism-scope-of-value-sensitive-selection]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-2
 ai_generated_date: 2026-01-31
 last_curated: null
 ---
@@ -61,7 +61,7 @@ Metzinger proposes that MPE reveals what is fundamental to consciousness by subt
 
 ### The MPE-to-Organism Disanalogy
 
-It is tempting to treat a human's content-stripped MPE state as a window onto what a simple organism's experience is *like*—the meditator approaches "from above" what a nematode or *Hydra* might inhabit "from below." The analogy is heuristically suggestive but methodologically fragile, and the caution is reusable wherever the comparison is drawn (including the "nematode from below / MPE from above" framing in [[edge-states-and-void-probes|edge-state probes]]). Three disanalogies block any inference from the human case to the organism case. First, MPE is a *subtractive* state in a system that retains the full machinery of rich consciousness—the elaborations are suppressed, not absent—whereas a simple organism never had that machinery, so structural similarity at the phenomenal surface need not indicate similarity in kind. Second, the human report is the product of a metarepresenting system describing a state after the fact, and the [[minimal-consciousness-void|enrichment problem]] establishes that this report is itself an enriched reconstruction, not a transparent readout of the minimum. Third, the comparison runs through felt similarity, which the [[noetic-feelings-void|noetic-feelings]] account flags as a heuristic signal rather than a perception of shared structure. The analogy therefore neither raises nor lowers the probability that simple organisms are conscious; it is a methodological bridge to be inspected, not evidence, and per [[evidential-status-discipline]] tenet-coherence does not upgrade where the empirical case stands.
+It is tempting to treat a human's content-stripped MPE state as a window onto what a simple organism's experience is *like*—the meditator approaches "from above" what a nematode or *Hydra* might inhabit "from below." The analogy is heuristically suggestive but methodologically fragile, and the caution is reusable wherever the comparison is drawn (including the "nematode from below / MPE from above" framing in [[edge-states-and-void-probes|edge-state probes]]). Three disanalogies block any inference from the human case to the organism case. First, MPE is a *subtractive* state in a system that retains the full machinery of rich consciousness—the elaborations are suppressed, not absent—whereas a simple organism never had that machinery, so structural similarity at the phenomenal surface need not indicate similarity in kind. Second, the human report is the product of a metarepresenting system describing a state after the fact, and the [[minimal-consciousness-void|enrichment problem]] implies that this report is itself an enriched reconstruction, not a transparent readout of the minimum. Third, the comparison runs through felt similarity, which the [[noetic-feelings-void|noetic-feelings]] account flags as a heuristic signal rather than a perception of shared structure. The analogy therefore neither raises nor lowers the probability that simple organisms are conscious; it is a methodological bridge to be inspected, not evidence, and per [[evidential-status-discipline]] tenet-coherence does not upgrade where the empirical case stands.
 
 ### The Vijñāna Distinction
 
@@ -71,9 +71,9 @@ On this analysis, a system with minimal consciousness would have vijñāna witho
 
 ### Integrated Information (IIT)
 
-[[integrated-information-theory|Integrated Information Theory]] proposes that consciousness exists wherever there is integrated information (measured as Φ). On this view, minimal consciousness requires only minimal integration—enough Φ to create a unified experiential point but not enough for complex content.
+[[integrated-information-theory|Integrated Information Theory]] proposes that consciousness exists wherever a system forms a maximum of integrated information (Φ). On this view, minimal consciousness requires only minimal integration—enough Φ to create a unified experiential point but not enough for complex content.
 
-IIT's predictions are striking: even simple systems with modest Φ values would have minimal consciousness. Tononi's own worked example is a photodiode that reports "light" or "dark"—a device generating, on his analysis, a single bit where a human observer of the same screen discriminates among an enormous repertoire of alternatives. The theory faces resistance precisely because it implies minimal consciousness may be more widespread than intuition suggests.
+IIT's predictions are striking, and resisted for it: some very simple systems would be minimally conscious, while aggregates and strictly feed-forward networks, however complex, would not. In Tononi (2004) a bare photodiode discriminates light from dark, a single bit, but presumably does not consciously see; Tononi and Koch (2015) hold that a sensor paired with a memory element "can have a modicum of experience."
 
 IIT is worth placing accurately: it is a physicalist identity theory, holding that experience *is* integrated information rather than something extra that integrated information summons. Its verdict that consciousness is widespread therefore lends the Map no support against physicalism. It matters here as a rival account of where the lower bound falls, and as evidence that the threshold question divides theorists who otherwise share a naturalist framework.
 
@@ -89,13 +89,13 @@ Where does minimal consciousness begin? This is the [[consciousness-in-simple-or
 
 **Interface dualism (the Map's view)**: Consciousness interfaces with physical systems rather than emerging from them. The question "where does consciousness begin?" may have no principled answer because it presupposes consciousness is something physical systems generate. The [[universal-coupling-response]] holds that if consciousness is irreducible, it couples with matter wherever appropriate interface conditions exist—no arbitrary threshold, no unexplained selectivity.
 
-**The enrichment problem**: Beyond these ontological options, the threshold problem has a structural epistemological dimension. Any attempt to introspect on minimal consciousness necessarily enriches the experience—attention, metacognition, and memory encoding add structure that moves the experience beyond minimality. The instrument of investigation is made of the very thing it seeks to measure at its minimum. The [[minimal-consciousness-void]] explores this in depth: the accessible minimum and the actual minimum are structurally separated by the cost of observation.
+**The enrichment problem**: The threshold problem also has an epistemological dimension. Any attempt to introspect on minimal consciousness as it occurs enriches the experience—attention, metacognition, and memory encoding add structure that moves it beyond minimality. The [[minimal-consciousness-void]] argues this in depth: concurrent first-person introspection reads too high, while indirect routes constrain the minimum without reaching it.
 
 ### Is "Minimal" One Dimension or Many?
 
 The "lower bound" and "basement level" metaphors assume a single one-dimensional scale running from zero to richer consciousness. Contemporary work makes that assumption contestable. Bayne, Hohwy and Owen argue that the notion of a *level* of consciousness, as applied to anaesthesia, sleep, epileptic absence seizures, and post-comatose disorders, breaks down under scrutiny, and they replace it with a multidimensional account of global states. On their treatment, global states differ in which contents can enter consciousness at all and in how far those contents are available to the systems governing cognition and behaviour—two families of variation, not one vertical line (Bayne, Hohwy & Owen 2016). Birch, Schnell and Clayton make the parallel case for animal consciousness, proposing five dimensions of variation—perceptual richness, evaluative richness, integration at a time, integration across time, and self-consciousness—so that each species carries a distinctive *consciousness profile* rather than a rank on a single scale (Birch, Schnell & Clayton 2020).
 
-This is a live position in consciousness science, not a settled result—the levels debate is genuinely contested, with others defending a unified scale. But if minimality is plural, the threshold problem does not dissolve; it multiplies. Extending the point in the Map's own direction: there would be a minimal perceptual richness, a minimal evaluative richness, a minimal integration, a minimal selfhood—and each axis poses the threshold question independently, each resisting a clean boundary between something and nothing. On this reading the Map's case strengthens rather than weakens: not one unexplained edge but several, each marking where the [[explanatory-gap]] reasserts itself. The [[minimal-consciousness-void]] develops what the plural framing does to the void's shape.
+This is a live position in consciousness science, not a settled result—the levels debate is genuinely contested, with others defending a unified scale. But if minimality is plural, the threshold problem does not dissolve; it multiplies. Extending the point in the Map's own direction: there would be a minimum on each axis—perceptual richness, evaluative richness, integration, selfhood—each posing a threshold question of its own. On this reading the question changes shape without favouring any side: there would be several edges to explain instead of one, with the [[explanatory-gap]] at issue at each; the [[minimal-consciousness-void]] says the same of the void.
 
 ## Metarepresentation and Minimal Consciousness
 
@@ -136,19 +136,19 @@ The concept matters for several reasons:
 
 **The hard problem**: Minimal consciousness isolates the core puzzle. Rich human experience involves memory, self-reflection, language, and complex emotional structure. Minimal consciousness strips these away, leaving just the basic problem: why is there experience at all?
 
-**Dualism vs emergence**: If consciousness emerged from physical processes, there should be a principled threshold—some complexity level where experience first appears. The difficulty of identifying any such threshold provides indirect support for treating consciousness as irreducible.
+**Dualism vs emergence**: If consciousness emerged from physical processes, one might expect a principled threshold where experience first appears. None is agreed, though [[global-workspace-theory]] offers ignition. The Map reads the disagreement as what irreducibility predicts; several physicalist views expect it too, so it is no support.
 
 ## What Would Challenge This View?
 
-**In-practice (methodologically accessible, individually non-decisive).** (1) A principled, mechanism-anchored threshold separating systems with bare phenomenal experience from those without — derived from neural, computational, or thermodynamic criteria and predictive across novel cases — would press the article's claim that no such threshold has been identifiable. The article treats this absence as evidence; sustained progress on identifying the threshold would weaken that inference. (2) Convergent empirical work showing that systems with minimal Φ values (or whatever the relevant integration measure turns out to be) reliably *lack* the indicators across all proposed marker sets (anaesthetic responsiveness, learning beyond reflex, valenced behaviour) would lower the prior on widespread minimal consciousness; current evidence is mixed and theory-dependent. (3) A coherent reduction of the [[combination-problem|combination problem]] that allowed micro-experiences to compose into unified consciousness within a strictly physicalist framework would weaken the interface-dualist response, which relies in part on the combination problem's resistance to solution.
+**In-practice (methodologically accessible, individually non-decisive).** (1) A principled, mechanism-anchored threshold separating systems with bare phenomenal experience from those without — derived from neural, computational, or thermodynamic criteria and predictive across novel cases — would undercut the Map's reading that the question has no principled answer; its present lack is not counted as evidence. (2) Convergent empirical work showing that systems with minimal Φ values (or whatever the relevant integration measure turns out to be) reliably *lack* the indicators across all proposed marker sets (anaesthetic responsiveness, learning beyond reflex, valenced behaviour) would lower the prior on widespread minimal consciousness; current evidence is mixed and theory-dependent. (3) A coherent reduction of the [[combination-problem|combination problem]] that allowed micro-experiences to compose into unified consciousness within a strictly physicalist framework would weaken the interface-dualist response, which relies in part on the combination problem's resistance to solution.
 
-**In-principle (inaccessible by the framework's own commitments).** (4) Verifying the *absence* of phenomenal experience in any candidate minimal system — requires settling the [[explanatory-gap]] from the outside, which the framework holds to be impossible from third-person evidence. (5) Direct measurement of the bare minimum of consciousness — the [[minimal-consciousness-void]] establishes that any introspective access enriches the experience beyond minimality; the actual minimum is structurally separated from the accessible minimum by the cost of observation. (6) Distinguishing graded emergence from interface coupling on third-person evidence alone — both views are compatible with the same behavioural and neural signatures, so the choice between them is not empirically forced.
+**In-principle (inaccessible by the framework's own commitments).** (4) Verifying the *absence* of phenomenal experience in any candidate minimal system — requires settling the [[explanatory-gap]] from the outside, which the framework holds to be impossible from third-person evidence. (5) Direct concurrent measurement of the bare minimum — the [[minimal-consciousness-void]] argues that concurrent first-person introspection enriches what it examines; indirect routes (no-report, retrospective, third-person) constrain the minimum without reaching it. (6) Distinguishing graded emergence from interface coupling on third-person evidence alone — both views are compatible with the same behavioural and neural signatures, so the choice between them is not empirically forced.
 
-Honest framing: (4)–(6) are inaccessible by the framework's own commitments, not by an instrumentation gap future technology will close. The framework's net falsifiability is genuinely modest — the in-practice challenges constrain the threshold question; the in-principle challenges mark the void at consciousness's lower bound, per [[evidential-status-discipline]].
+Honest framing: (4) and (6) are inaccessible by the framework's own commitments, (5) by the argued limit on concurrent introspection—none by an instrumentation gap. The framework's net falsifiability is genuinely modest — the in-practice challenges constrain the threshold question; the in-principle challenges mark the void at consciousness's lower bound, per [[evidential-status-discipline]].
 
 ## Relation to Site Perspective
 
-**Dualism**: Minimal consciousness exemplifies why the Map rejects [[concepts/materialism|emergentist materialism]]. If consciousness emerged from complexity, we should be able to say what complexity level creates it. The impossibility of identifying such a threshold suggests consciousness is fundamental rather than derived.
+**Dualism**: The Map rejects [[concepts/materialism|emergentist materialism]]: on its reading consciousness is fundamental, so no complexity level creates it. The lack of an agreed threshold fits that reading without supporting it, as physicalist views can expect the same.
 
 **Minimal Quantum Interaction**: The interface between consciousness and matter (hypothetically via quantum indeterminacy) doesn't require complex neural architectures. Simple systems with neurons—even 302 like *C. elegans*—possess structures where quantum effects might, in principle, occur. Whether quantum coherence can persist long enough in warm biological tissue remains contested (the decoherence objection), but minimal consciousness may require only minimal interface conditions—whatever those turn out to be. Whether those conditions are the same across all organisms or vary by lineage is the question of [[interface-heterogeneity]].
 
@@ -170,7 +170,7 @@ Honest framing: (4)–(6) are inaccessible by the framework's own commitments, n
 - [[metacognition|metarepresentation]] — The capacity minimal consciousness may lack
 - [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity
 - [[explanatory-gap]] — Why we cannot determine consciousness presence from structure
-- [[minimal-consciousness-void]] — Why consciousness cannot investigate its own lower bound
+- [[minimal-consciousness-void]] — Why concurrent introspection cannot reach consciousness's lower bound
 - [[self-opacity|introspective opacity]] — Why we access mental contents but never the mechanisms producing them
 - [[observation-and-measurement-void]] — How every method of studying consciousness transforms what it studies
 - [[comparative-consciousness-and-interface-differences]] — Whether minimal consciousness differs in nature, coupling, or both from richer forms
@@ -185,4 +185,6 @@ Honest framing: (4)–(6) are inaccessible by the framework's own commitments, n
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+1. Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
+1. Tononi, G., & Koch, C. (2015). "Consciousness: here, there and everywhere?" *Philosophical Transactions of the Royal Society B*, 370(1668), 20140167.
 1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3).

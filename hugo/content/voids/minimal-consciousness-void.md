@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-11-18 07:22:04+00:00
+ai_modified: 2026-11-18 07:23:44+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:04:23+00:00
-lastmod: 2026-11-18 07:22:04+00:00
+lastmod: 2026-11-18 07:23:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -138,7 +138,7 @@ Several implications follow:
 
 None of the Map's [tenets](/tenets/) is supported by this void; the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3).
 
-**[Dualism](/tenets/#dualism)** *favours* the void's metaphysical reading rather than establishing it. If consciousness is fundamental, its lower bound is something intrinsic to consciousness, not a physical threshold. On the dualist reading the void marks features resisting third-person analysis; on a physicalist reading the same introspective limit is an observer-effect over a determinate floor. The enrichment problem fixes the epistemic limit either way; which metaphysics it signifies is the Map's tenet-guided interpretation, not a deduction the evidence compels.
+**[Dualism](/tenets/#dualism)** *favours* the void's metaphysical reading rather than establishing it. If consciousness is fundamental, no physical threshold generates its lower bound, though interface conditions gate coupling. On the dualist reading the void marks features resisting third-person analysis; on a physicalist reading the same introspective limit is an observer-effect over a determinate floor. The enrichment problem fixes the epistemic limit either way; which metaphysics it signifies is the Map's tenet-guided interpretation, not a deduction the evidence compels.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated, no more: the search for the simplest conscious experience has not delivered a clean "atom of experience," a difficulty a physicalist can grant equally.
 

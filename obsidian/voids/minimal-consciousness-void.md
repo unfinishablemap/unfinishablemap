@@ -4,7 +4,7 @@ description: "Human+AI exploration of why concurrent first-person introspection 
 created: 2026-02-25
 modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-18T07:22:04+00:00
+ai_modified: 2026-11-18T07:23:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -134,7 +134,7 @@ Several implications follow:
 
 None of the Map's [[tenets]] is supported by this void; the voids register has [[positions/voids-as-evidence#^p-v3|suspended the cumulative step]].
 
-**[[tenets#^dualism|Dualism]]** *favours* the void's metaphysical reading rather than establishing it. If consciousness is fundamental, its lower bound is something intrinsic to consciousness, not a physical threshold. On the dualist reading the void marks features resisting third-person analysis; on a physicalist reading the same introspective limit is an observer-effect over a determinate floor. The enrichment problem fixes the epistemic limit either way; which metaphysics it signifies is the Map's tenet-guided interpretation, not a deduction the evidence compels.
+**[[tenets#^dualism|Dualism]]** *favours* the void's metaphysical reading rather than establishing it. If consciousness is fundamental, no physical threshold generates its lower bound, though interface conditions gate coupling. On the dualist reading the void marks features resisting third-person analysis; on a physicalist reading the same introspective limit is an observer-effect over a determinate floor. The enrichment problem fixes the epistemic limit either way; which metaphysics it signifies is the Map's tenet-guided interpretation, not a deduction the evidence compels.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated, no more: the search for the simplest conscious experience has not delivered a clean "atom of experience," a difficulty a physicalist can grant equally.
 
