@@ -2,9 +2,9 @@
 title: "Presence-Type and Absence-Type Voids"
 description: "Human+AI exploration of a cross-cutting classificatory axis in the voids taxonomy: voids defined by what consciousness lacks versus voids defined by an excess that overwhelms the apparatus designed to handle it."
 created: 2026-04-21
-modified: 2026-10-24
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-13T15:59:09+00:00
+ai_modified: 2026-11-18T11:36:15+00:00
 last_deep_review: 2026-10-24T19:32:40+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ related_articles:
   - "[[noetic-feelings-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-04-21
 last_curated:
 ---
@@ -62,7 +62,7 @@ Paradigm cases:
 - [[death-void|The death void]] — consciousness cannot experientially occupy its own absence
 - [[transit-void|The transit void]] — consciousness cannot witness its own crossings between states
 - [[causal-interface|The causal interface void]] — the consciousness–physics interface resists inspection
-- [[binding-void|The binding void]] — unity of experience from disparate processes resists analysis
+- [[binding-void|The binding void]] — unity's mechanism eludes introspection; argued, not established
 - [[formal-cognitive-limits|Formal cognitive limits]] — Gödelian bounds proved for formal systems, whose reach to consciousness depends on whether it is computational
 - [[language-thought-boundary|The language–thought boundary]] — what cannot be said
 - [[erasure-void|The erasure void]] — consciousness cannot inventory its own deletions

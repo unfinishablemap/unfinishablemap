@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18 10:58:58+00:00
+ai_modified: 2026-11-18 11:37:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-18'
-lastmod: 2026-11-18 10:58:58+00:00
+lastmod: 2026-11-18 11:37:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-18 11:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/) (plus five secondary files; six in all)
+- **Task**: bring six descriptions of the binding void, and one use of James's twelve-men passage, to the grade `voids/binding-void` holds after its 2026-11-18 source review (lead: "whether phenomenal unity resists explanation in principle"; classification "argued, not established"; "the two rival analyses of phenomenal unity it surveys each reach for something already unified"; James's 1890 argument "marks only the difficulty's age").
+- **Original score**: n/a (`scripts/curate.py` absent; targeted replacements only)
+- **Word counts** (`analyze_length`, before → after): apex/taxonomy-of-voids 4911 → 4911; voids/tenet-generated-voids 2500 → 2500; voids/voids 8667 → 8667; voids/fusion-void 2268 → 2268; concepts/presence-type-and-absence-type-voids 2205 → 2204; topics/consciousness-and-the-metaphysics-of-individuation 3513 → 3513.
+- **Changes**:
+  - `apex/taxonomy-of-voids` L127. OLD: "The binding void—why unified experience arises from disparate sensory processes—has so far defeated every analysis on offer, each reaching for something already unified." NEW: "The binding void leaves open whether phenomenal unity resists explanation in principle; its page's two rival analyses each reach for something already unified." Also drops the feature-binding gloss ("disparate sensory processes"), which the source page now separates from phenomenal unity. Only this sentence changed; `apex_last_synthesis` not advanced (a one-sentence repair is not a resynthesis, and binding-void is not an apex source).
+  - `voids/tenet-generated-voids` L57. OLD: "The binding void sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely." NEW: "The binding void sharpens this without settling it: the rival analyses on its page each presuppose phenomenal unity." L174. OLD: "Why phenomenal unity resists explanation entirely". NEW: "Whether phenomenal unity resists explanation in principle".
+  - `voids/voids` L191. OLD: "Why unified experience from disparate sensations resists explanation". NEW: "Whether phenomenal unity resists explanation in principle; unsettled". (L110, "a problem on every view", left: it states no grade.)
+  - `voids/fusion-void` L85. OLD: "The binding void concerns why phenomenal unity resists *explanation*." NEW: "The binding void asks whether phenomenal unity resists *explanation* in principle." L112. OLD: "Why unified experience resists explanation; the residue fusion leaves behind". NEW: "Whether unity resists explanation; what fusion leaves behind".
+  - `concepts/presence-type-and-absence-type-voids` L65. OLD: "unity of experience from disparate processes resists analysis". NEW: "unity's mechanism eludes introspection; argued, not established". The host lists the binding void as a paradigm absence-type case; that classification rests on how the limit registers (introspection finds only the result), which the source page still states, and the gloss now carries the source's own grade.
+  - `topics/consciousness-and-the-metaphysics-of-individuation` L53. OLD: "William James identified the core puzzle in 1890. Consider his thought experiment: give twelve men one word each from a sentence. "Nowhere will there be a consciousness of the whole sentence." Private minds do not aggregate into a compound mind. Experiences do not sum." NEW: "William James posed the core puzzle in 1890, against the mind-stuff theory of compound minds: tell twelve men one word each of a sentence, and "nowhere will there be a consciousness of the whole sentence." In 1909 he gave up "the logic" forbidding compounding." L55. OLD: "James's observation cuts in both directions. If experiences cannot combine upward into larger subjects, can a unified subject be decomposed downward into smaller ones? The answer appears to be no—or at least, not cleanly." NEW: "The puzzle runs both ways: if experiences do not sum into larger subjects, can a unified subject divide into smaller ones? Apparently not—or not cleanly." (trimmed to pay for the new reference). Reference added: James, W. (1909). *A Pluralistic Universe*, Lecture V.
+- **Sources read**: James, *Principles* ch. VI (York Classics copy), p. 160: "nowhere will there be a consciousness of the whole sentence" (1 hit, lower-case mid-sentence; the page had capitalised it as a sentence opening). *A Pluralistic Universe* (Standard Ebooks single-page text), Lecture V: "I had done little more than quote these previous critics in my chapter" (1 hit); "I have finally found myself compelled to give up the logic, fairly, squarely, and irrevocably" (1 hit). Twelve-men passage: 0 hits in the 1909 book. Gutenberg was down for maintenance.
+- **Engagement classification**: none (no named-opponent reply edited). James is cited for his words only, not enlisted for or against compounding.
+- **Report-only sweep**: no other page uses the twelve-men passage. Eleven live pages cite James's 1890 mind-dust argument with no mention of the 1909 withdrawal; reported to the driver, not edited.
+- **Published**: yes
 
 ## 2026-11-18 10:58 UTC - deep-review
 - **Status**: Success

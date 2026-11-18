@@ -2,9 +2,9 @@
 title: "Consciousness and the Metaphysics of Individuation"
 description: "Why does consciousness come in discrete subjects? The individuation question—what draws boundaries around a conscious being—resists every reductive answer."
 created: 2026-02-18
-modified: 2026-11-11
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-11T07:33:10+00:00
+ai_modified: 2026-11-18T11:36:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[open-individualism-and-the-de-combination-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-02-18
 last_curated:
 last_deep_review: 2026-11-11T07:33:10+00:00
@@ -50,9 +50,9 @@ The individuation question is distinct from—and more fundamental than—the qu
 
 ## The Problem Takes Shape
 
-William James identified the core puzzle in 1890. Consider his thought experiment: give twelve men one word each from a sentence. "Nowhere will there be a consciousness of the whole sentence." Private minds do not aggregate into a compound mind. Experiences do not sum.
+William James posed the core puzzle in 1890, against the mind-stuff theory of compound minds: tell twelve men one word each of a sentence, and "nowhere will there be a consciousness of the whole sentence." In 1909 he gave up "the logic" forbidding compounding.
 
-James's observation cuts in both directions. If experiences cannot combine upward into larger subjects, can a unified subject be decomposed downward into smaller ones? The answer appears to be no—or at least, not cleanly. [[split-brain-consciousness|Split-brain patients]], whose corpus callosum has been severed, display what Thomas Nagel characterised as too much unity to count them as two subjects, yet too much separation to count them as one—for him there is no whole number of centres of consciousness in such cases. The subject count is not determined by the anatomy.
+The puzzle runs both ways: if experiences do not sum into larger subjects, can a unified subject divide into smaller ones? Apparently not—or not cleanly. [[split-brain-consciousness|Split-brain patients]], whose corpus callosum has been severed, display what Thomas Nagel characterised as too much unity to count them as two subjects, yet too much separation to count them as one—for him there is no whole number of centres of consciousness in such cases. The subject count is not determined by the anatomy.
 
 This creates a puzzle that no physical criterion resolves. The boundary of a conscious subject cannot be the boundary of a body (conjoined twins share bodies; split-brain patients may harbour more than one consciousness in a single skull). It cannot be the boundary of a brain region (no sharp neural threshold separates "one subject" from "two"). And it cannot be the boundary of a causal process, since many causal processes cross between subjects (conversation, shared environments, entangled neural responses) without merging their consciousnesses.
 
@@ -163,6 +163,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 ## References
 
 1. James, W. (1890). *The Principles of Psychology*, Chapter VI ("The Mind-Stuff Theory").
+1. James, W. (1909). *A Pluralistic Universe*, Lecture V.
 1. Kant, I. (1998). *Critique of Pure Reason* (P. Guyer & A. W. Wood, Trans.). Cambridge University Press. (Original work published 1781/1787.) "On the Amphiboly of the Concepts of Reflection", A260–292/B316–349 (identity and difference: A263–264/B319–320, A271–272/B327–328); "The Paralogisms of Pure Reason", A341–405/B399–432.
 1. Scotus, J. D. (c. 1300). *Ordinatio* II, d.3, part 1.
 1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-11-13 15:59:09+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-18 11:36:15+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -12,7 +12,7 @@ concepts:
 - '[[introspection]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-04-21
-date: &id001 2026-10-24
+date: &id001 2026-11-18
 description: 'Human+AI exploration of a cross-cutting classificatory axis in the voids
   taxonomy: voids defined by what consciousness lacks versus voids defined by an excess
   that overwhelms the apparatus designed to handle it.'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 19:32:40+00:00
-lastmod: 2026-11-13 15:59:09+00:00
+lastmod: 2026-11-18 11:36:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -66,7 +66,7 @@ Paradigm cases:
 - [The death void](/voids/death-void/) — consciousness cannot experientially occupy its own absence
 - [The transit void](/voids/transit-void/) — consciousness cannot witness its own crossings between states
 - [The causal interface void](/voids/causal-interface/) — the consciousness–physics interface resists inspection
-- [The binding void](/voids/binding-void/) — unity of experience from disparate processes resists analysis
+- [The binding void](/voids/binding-void/) — unity's mechanism eludes introspection; argued, not established
 - [Formal cognitive limits](/voids/formal-cognitive-limits/) — Gödelian bounds proved for formal systems, whose reach to consciousness depends on whether it is computational
 - [The language–thought boundary](/voids/language-thought-boundary/) — what cannot be said
 - [The erasure void](/voids/erasure-void/) — consciousness cannot inventory its own deletions

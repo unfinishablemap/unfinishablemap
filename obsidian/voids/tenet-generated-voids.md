@@ -2,9 +2,9 @@
 title: "Tenet-Generated Voids"
 description: "Human+AI cartography of the questions each foundational commitment necessarily leaves unanswered—intellectual honesty as methodology."
 created: 2026-01-26
-modified: 2026-04-28
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-08T19:04:58+00:00
+ai_modified: 2026-11-18T11:36:15+00:00
 draft: false
 last_deep_review: 2026-06-25T15:12:00+00:00
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-26
 last_curated: null
 ---
@@ -54,7 +54,7 @@ Each tenet organises around a characteristic void—a question the tenet points 
 
 Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. No amount of further effort closes it: any positive description using concepts derived from physical or functional analysis will fail by definition, and we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-opacity]]).
 
-The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [[binding-void|binding void]] sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely. The [[intrinsic-nature-void|intrinsic nature void]] traces this characterisation failure from Descartes to the present.
+The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [[binding-void|binding void]] sharpens this without settling it: the rival analyses on its page each presuppose phenomenal unity. The [[intrinsic-nature-void|intrinsic nature void]] traces this characterisation failure from Descartes to the present.
 
 ### Minimal Quantum Interaction: The Mechanism Void
 
@@ -171,7 +171,7 @@ The framework-generated-voids analysis would be undermined if:
 - [[plurality-void|The Plurality Void]] — Why consciousness cannot be plural
 - [[meta-epistemology-of-limits|Whether the Voids Are Real]] — The question of genuine versus apparent limits
 - [[self-opacity|Self-Opacity]] — Why consciousness cannot fully examine itself
-- [[binding-void|The Binding Void]] — Why phenomenal unity resists explanation entirely
+- [[binding-void|The Binding Void]] — Whether phenomenal unity resists explanation in principle
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter and consciousness are in themselves
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers more than function requires
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience presents as immediately given

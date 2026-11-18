@@ -2,9 +2,9 @@
 title: "The Fusion Void"
 description: "Perception combines its estimates by hidden weights and a hidden common-cause verdict. The rare void whose own boundary has psychophysical coordinates."
 created: 2026-09-04
-modified: 2026-10-15
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-11T00:03:17.720588+00:00
+ai_modified: 2026-11-18T11:36:15+00:00
 draft: false
 topics:
   - "[[the-binding-problem]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[common-cause-null]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-09-04
 last_curated:
 embedded_videos:
@@ -82,7 +82,7 @@ That adds a second-order opacity to the first. A subject who fuses on every tria
 
 ## Distinguishing Sibling Voids
 
-The [[binding-void|binding void]] concerns why phenomenal unity resists *explanation*. The fusion void concerns the combination of several channels' estimates of one property, its hidden weights and its hidden causal-model gate — an operation rather than unity's explicability.
+The [[binding-void|binding void]] asks whether phenomenal unity resists *explanation* in principle. The fusion void concerns the combination of several channels' estimates of one property, its hidden weights and its hidden causal-model gate — an operation rather than unity's explicability.
 
 The [[predictive-construction-void|predictive construction void]]'s subtraction barrier concerns removal of self-caused sensory input before it reaches awareness. The two barriers are independent: a system could subtract reafference while retaining its cue components, or discard components while keeping no reafference model at all.
 
@@ -109,7 +109,7 @@ The catalogue itself performs fusion: lines of evidence are combined into single
 ## Further Reading
 
 - [[voids]] — The framework for investigating cognitive limits
-- [[binding-void]] — Why unified experience resists explanation; the residue fusion leaves behind
+- [[binding-void]] — Whether unity resists explanation; what fusion leaves behind
 - [[predictive-construction-void]] — The construction/reception boundary and the subtraction barrier
 - [[epistemological-limits-occams-razor]] — Parsimony as architecture rather than insight
 - [[capability-division-problem]] — Which capabilities belong to brain and which to mind

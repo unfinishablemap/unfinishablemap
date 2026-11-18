@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-11-17 08:22:10+00:00
+ai_modified: 2026-11-18 11:36:15+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-11-17 08:22:10+00:00
 apex_sources:
@@ -30,7 +30,7 @@ concepts:
 - '[[introspection]]'
 - '[[simulation]]'
 created: 2026-03-10
-date: &id001 2026-11-17
+date: &id001 2026-11-18
 description: Over a hundred cognitive voids (twenty-six indexed as framework-independent)
   cluster at the consciousness-matter interface—a structured taxonomy read as framework-internal
   coherence with the Map's tenet-package, lending dualism no evidential weight.
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:05:19+00:00
-lastmod: 2026-11-17 08:22:10+00:00
+lastmod: 2026-11-18 11:36:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -134,7 +134,7 @@ The [erasure void](/voids/erasure-void/) extends the cluster across time: consci
 
 ### The Phenomenological Cluster
 
-A second major cluster concerns the qualitative character of experience. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—has so far defeated every analysis on offer, each reaching for something already unified. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension; the [mattering void](/voids/mattering-void/) sits upstream, where significance operates as a transparent medium investigation cannot exit, and the [relevance void](/voids/relevance-void/) is its operational shadow, every inspection itself a relevance-determining act. The [intrinsic nature void](/voids/intrinsic-nature-void/) pursues what matter and consciousness are *in themselves*, finding every answer collapses into structure, negation, or circularity, while the [acquaintance void](/voids/acquaintance-void/) marks modes of direct phenomenal contact inaccessible to minds like ours. The [imagery void](/voids/imagery-void/) adds a well-evidenced sub-region: no mind can verify its own image fidelity, and aphantasia research suggests imagery may not do the cognitive work it appears to. The [phenomenal quality void](/voids/phenomenal-quality-void/) asks why experience arrives stamped with immediacy; the [plenitude void](/voids/plenitude-void/), whether it is genuinely as rich as it seems—unanswerable from within, since every check for sparsity recruits attention and manufactures the detail it would measure. The [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) marks an architectural ceiling at roughly four items (Trick & Pylyshyn 1994; Cowan 2001).
+A second major cluster concerns the qualitative character of experience. The [binding void](/voids/binding-void/) leaves open whether phenomenal unity resists explanation in principle; its page's two rival analyses each reach for something already unified. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension; the [mattering void](/voids/mattering-void/) sits upstream, where significance operates as a transparent medium investigation cannot exit, and the [relevance void](/voids/relevance-void/) is its operational shadow, every inspection itself a relevance-determining act. The [intrinsic nature void](/voids/intrinsic-nature-void/) pursues what matter and consciousness are *in themselves*, finding every answer collapses into structure, negation, or circularity, while the [acquaintance void](/voids/acquaintance-void/) marks modes of direct phenomenal contact inaccessible to minds like ours. The [imagery void](/voids/imagery-void/) adds a well-evidenced sub-region: no mind can verify its own image fidelity, and aphantasia research suggests imagery may not do the cognitive work it appears to. The [phenomenal quality void](/voids/phenomenal-quality-void/) asks why experience arrives stamped with immediacy; the [plenitude void](/voids/plenitude-void/), whether it is genuinely as rich as it seems—unanswerable from within, since every check for sparsity recruits attention and manufactures the detail it would measure. The [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) marks an architectural ceiling at roughly four items (Trick & Pylyshyn 1994; Cowan 2001).
 
 The [ineffable encounter void](/voids/ineffable-encounter-void/) complicates the cluster: most voids are defined by *absence*, this one by *presence*—an excess of meaning that overwhelms the cognitive apparatus. Consciousness encounters something it registers as genuine knowing yet cannot inspect, the experience dissolving under analytical attention. Traditions with partly shared lineage—Gendlin's felt sense, Otto's numinous, Polanyi's [tacit integration](/voids/tacit-integration-void/), Rosa's resonance—recur on the structure, a recurrence that is genealogical rather than independent, though dissolution under attention and non-manufacturability resist that sourcing.
 
