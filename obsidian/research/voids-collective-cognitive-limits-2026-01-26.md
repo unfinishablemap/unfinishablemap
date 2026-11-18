@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Collective Cognitive Limits"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T21:45:00+00:00
+ai_modified: 2026-11-18T04:02:42+00:00
 draft: false
 target_section: voids
 topics: []
@@ -29,6 +29,8 @@ last_curated: null
 **Search queries used**: "collective cognition group mind blind spots social epistemology", "Eviatar Zerubavel elephant in the room conspiracy of silence", "Thomas Kuhn paradigm blindness scientific revolutions cognitive limits", "Overton window cognitive limits acceptable thoughts", "sociology of ignorance agnotology social production of not-knowing"
 **Voids category**: Mixed (Unexplored / Unexplorable / Occluded)
 
+> **Source-fidelity corrections, 2026-11-18** (deep review of [[collective-cognitive-limits]]; primary texts read where obtainable). The "Quote:" and quoted "Key points" lines below were recorded from an encyclopedia entry, a publisher's blurb and unidentified web pages, not from the primary works. Corrections are marked *[Corrected 2026-11-18]* in place. In summary: (1) the Zerubavel wording is the publisher's abstract, and reads "the others'", not "others'"; (2) the Kuhn bullets were taken from the SEP entry and none of the three quoted strings is in *Structure*; Kuhn does not say practitioners are blind to anomalies, and he rejects the blindness reading of Aristarchus; the "opponents eventually die" sentence is Planck's, quoted by Kuhn; (3) the Overton strings "unthinkable", "extreme", "battlefield" and "shifts in months" are absent from the Mackinac page cited, whose model concerns what politicians can support; (4) Zerubavel's examples are illustrative, not a cross-cultural survey; (5) citations 7 and 8 lacked authors and one had the wrong venue. Do not quote from this note without re-checking the primary.
+
 ## Executive Summary
 
 The voids section currently focuses on individual cognitive limits—what a single mind cannot think. But do *groups* have cognitive limits beyond the sum of individual limitations? This research investigates **collective cognitive limits**: systematic blind spots that emerge at the level of cultures, paradigms, and societies. Key frameworks include Zerubavel's "elephants in the room" (socially enforced silence), Kuhn's paradigm blindness (framework-imposed limits), the Overton Window (boundaries of acceptable thought), and agnotology (the social production of ignorance). These collective limits may be Occluded (socially enforced), Unexplorable (framework-dependent), or both—suggesting that escaping individual cognitive limits by joining collectives may introduce new, emergent forms of blindness.
@@ -41,10 +43,10 @@ The voids section currently focuses on individual cognitive limits—what a sing
 - **Key points**:
   - "Conspiracies of silence" are situations where everyone refuses to acknowledge an obvious truth
   - Denial of social realities—incest, alcoholism, corruption, genocide—is pervasive
-  - Each conspirator's denial is symbiotically complemented by others'; silence intensifies with more conspirators and power differences
+  - "each conspirator's denial is symbiotically complemented by the others'"; silence intensifies with more conspirators and power differences *[Corrected 2026-11-18: this is the wording of the OUP book abstract ("the others'", not "others'"); the OUP abstract for the chapter "Breaking the Silence" has "each conspirator's actions are symbiotically complemented by the others'", which two later authors quote from the book. The book's full text was not obtained.]*
   - Breaking silence requires going from awareness to acknowledgment—a social transition, not just individual
 - **Tenet alignment**: Occam's Razor Has Limits—what appears absent may be actively suppressed rather than genuinely non-existent
-- **Quote**: "The fable of the Emperor's New Clothes is a classic example of a conspiracy of silence"
+- **Quote**: "The fable of the Emperor's New Clothes is a classic example of a conspiracy of silence" *[Corrected 2026-11-18: verbatim in the OUP book abstract; publisher's wording, not shown to be Zerubavel's text.]*
 
 ### Thomas Kuhn - The Structure of Scientific Revolutions
 - **URL**: https://plato.stanford.edu/entries/thomas-kuhn/
@@ -54,7 +56,8 @@ The voids section currently focuses on individual cognitive limits—what a sing
   - Paradigms are "incommensurable"—there is no neutral standpoint from which to compare them
   - Two scientists "steeped in two radically different theories will see two different things" even witnessing the same phenomenon
   - A paradigm shift is like a gestalt switch—not accumulation of evidence but a transformation of perception
-  - "A new scientific truth does not triumph by convincing its opponents... but rather because its opponents eventually die"
+  - "A new scientific truth does not triumph by convincing its opponents... but rather because its opponents eventually die" *[Corrected 2026-11-18: Max Planck, *Scientific Autobiography*, as quoted by Kuhn in *Structure* ch. XII; Planck's words, not Kuhn's.]*
+  - *[Corrected 2026-11-18: the three quoted strings above ("fundamental weakness or blind spot of the current paradigm", "steeped in two radically different theories will see two different things", and the Quote line below) are not in the text of *Structure* (0 hits each in an archive.org full text); they are encyclopedia or other secondary wording and must not be credited to Kuhn. "Blind to anomalies" misstates him: he writes that normal science "often suppresses fundamental novelties" but that "novelty shall not be suppressed for very long", and that "Anomaly appears only against the background provided by the paradigm". Kuhn's own phrase on incommensurability is "not only incompatible but often actually incommensurable"; the Postscript adds that communication is "inevitably partial" and that the parties can "become translators".]*
 - **Tenet alignment**: Occam's Razor Has Limits—the simplest theory within a paradigm may be wrong in ways the paradigm cannot detect
 - **Quote**: "The perception of the world depends on how the percipient conceives the world"
 
@@ -75,12 +78,12 @@ The voids section currently focuses on individual cognitive limits—what a sing
 - **Type**: Political theory / Mackinac Center
 - **Key points**:
   - Describes the range of ideas considered "politically acceptable" at a given time
-  - Ideas outside the window are labeled "unthinkable" or "extreme"
+  - Ideas outside the window are labeled "unthinkable" or "extreme" *[Corrected 2026-11-18: neither label is in the Mackinac page's account; they come from later commentary. The page's model is about policy: politicians "generally only pursue policies that are widely accepted throughout society as legitimate policy options". It says nothing about what can be thought. The triangulation bullet below is likewise not from the Mackinac page.]*
   - Human cognitive bias toward triangulating "moderate" as average of perceived extremes makes the window self-reinforcing
   - The window shifts when previously unthinkable ideas become discussable—or when acceptable ideas become taboo
-  - In 2025: "Instead of decades, the Overton window now shifts in months, sometimes weeks"
+  - In 2025: "Instead of decades, the Overton window now shifts in months, sometimes weeks" *[Corrected 2026-11-18: not on the Mackinac page (0 hits); source unidentified. The Mackinac page attributes most movement to "the slow evolution of societal values and norms".]*
 - **Tenet alignment**: Occluded category—thoughts outside the window may be actively suppressed, not merely difficult
-- **Quote**: "The Overton window is a battlefield... where rulers, politicians, corporations, and cultural influencers decide what you are allowed to say"
+- **Quote**: "The Overton window is a battlefield... where rulers, politicians, corporations, and cultural influencers decide what you are allowed to say" *[Corrected 2026-11-18: not on the Mackinac page (0 hits); source unidentified; do not use.]*
 
 ### Theory of Collective Mind
 - **URL**: https://www.sciencedirect.com/science/article/abs/pii/S1364661323001687
@@ -129,9 +132,9 @@ The distinction matters: Unexplorable limits require paradigm shifts (rare, gene
 
 ### Evidence for the Limit
 
-**Historical paradigm shifts**: Kuhn's evidence that scientific communities systematically fail to see what later becomes obvious—phlogiston chemists couldn't see oxygen, pre-Copernican astronomers couldn't see heliocentrism as coherent. The blindness wasn't stupidity; it was structural.
+**Historical paradigm shifts**: Kuhn's evidence that scientific communities systematically fail to see what later becomes obvious—phlogiston chemists couldn't see oxygen, pre-Copernican astronomers couldn't see heliocentrism as coherent. The blindness wasn't stupidity; it was structural. *[Corrected 2026-11-18: Kuhn's account is that Priestley isolated the gas and identified it in 1775 as "common air with less than its usual quantity of phlogiston"; and of Aristarchus he says the geocentric system was then "vastly more reasonable" and "there were no obvious reasons for taking Aristarchus seriously" — a proposal known and declined on the evidence, not one a paradigm made invisible.]*
 
-**Social silence patterns**: Zerubavel documents consistent patterns in how groups maintain collective denial—the same structures appear across cultures and contexts (family secrets, institutional cover-ups, national myths). The universality suggests something systematic rather than contingent.
+**Social silence patterns**: Zerubavel documents consistent patterns in how groups maintain collective denial—the same structures appear across cultures and contexts (family secrets, institutional cover-ups, national myths). The universality suggests something systematic rather than contingent. *[Corrected 2026-11-18: the publisher's abstract describes examples "from newspapers and comedy shows to novels, children's stories, and film" at "every level of society"; that is illustrative breadth, not a cross-cultural survey, and does not support "universality".]*
 
 **Agnotological successes**: Documented cases where corporations (tobacco, fossil fuels) successfully manufactured doubt despite evidence. The ability to produce ignorance at scale demonstrates that collective cognition is manipulable in consistent ways.
 
@@ -227,7 +230,7 @@ Based on this research, a voids article could:
 4. Proctor, R. N., & Schiebinger, L. (Eds.). (2008). *Agnotology: The Making and Unmaking of Ignorance*. Stanford University Press.
 5. "Agnotology." *Wikipedia*. https://en.wikipedia.org/wiki/Agnotology
 6. "The Overton Window." Mackinac Center. https://www.mackinac.org/OvertonWindow
-7. "Theory of Collective Mind." *Trends in Cognitive Sciences*. https://www.sciencedirect.com/science/article/abs/pii/S1364661323001687
-8. "Cultural Blind Spots and Blind Fields." *ResearchGate*. https://www.researchgate.net/publication/377155982
+7. Shteynberg, G., Hirsh, J. B., Wolf, W., Bargh, J. A., Boothby, E. J., Colman, A. M., Echterhoff, G., & Rossignac-Milon, M. (2023). "Theory of collective mind." *Trends in Cognitive Sciences*, 27(11), 1019-1031. https://doi.org/10.1016/j.tics.2023.06.009 *[Corrected 2026-11-18: authors and metadata added from Crossref.]*
+8. Friedman, A. (2019). "Cultural Blind Spots and Blind Fields." In *The Oxford Handbook of Cognitive Sociology* (pp. 467-482). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190273385.013.25 *[Corrected 2026-11-18: author, year and venue from Crossref; ResearchGate is a repository, not the venue.]*
 9. "Collective Minds: Social Network Topology Shapes Collective Cognition." *Philosophical Transactions of the Royal Society B*. https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0315
 10. "Systemic Blindness." Regenerative Law. https://www.regenerativelaw.com/systemic-blindness

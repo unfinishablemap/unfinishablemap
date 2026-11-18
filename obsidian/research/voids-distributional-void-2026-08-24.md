@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Distributional Void"
 created: 2026-08-24
 modified: 2026-08-24
 human_modified: null
-ai_modified: 2026-08-24T23:15:31+00:00
+ai_modified: 2026-11-18T04:02:42+00:00
 draft: false
 consumed_by: "[[non-human-minds-as-void-explorers]]"
 consumed_note: >-
@@ -101,7 +101,7 @@ The Map's void catalogue is written by a language model, read largely by languag
   - Individual-level gain and collective-level loss occur together: "access to generative AI ideas causes stories to be evaluated as more creative, better written, and more enjoyable, especially among less creative writers. However, generative AI–enabled stories are more similar to each other than stories by humans alone."
   - **Read the similarity figures carefully.** The paper reports that in the Human-only condition "the similarity scores span a range of 8.10 points; therefore, the increase in similarity from having access to one or five generative AI ideas represents 10.7% and 8.9% of the total range, respectively." These are proportions *of the human-only range*, not percentage increases in similarity. A secondary-source summary encountered during this survey misstated it as "10.7% more similar," and 10.7% separately appears in the paper as a *novelty* gain for low-DAT writers with five ideas — two distinct quantities sharing a numeral. Any downstream use must carry the "of the total range" qualifier.
   - Framing: "This dynamic resembles a social dilemma: With generative AI, writers are individually better off, but collectively a narrower scope of novel content is produced."
-- **Tenet alignment**: Supports the void's *undetectability* face. Every individual writer experienced improvement; the loss existed only at the population level, where no participant was standing.
+- **Tenet alignment**: Supports the void's *undetectability* face. Every individual writer experienced improvement; the loss existed only at the population level, where no participant was standing. *[Corrected 2026-11-18: overstated. Writers were randomly assigned to one condition each, so no writer is observed improving; the result is a difference in average ratings between groups. The paper also reports that for high-DAT writers access to generative AI "does not affect their high evaluations". What holds is that the narrowing is a property of the set of stories and appears in no single story.]*
 - **Quote**: "These results point to an increase in individual creativity at the risk of losing collective novelty." (verified verbatim, PMC full text)
 
 ### Does Writing with Language Models Reduce Content Diversity?
@@ -129,7 +129,7 @@ The Map's void catalogue is written by a language model, read largely by languag
 ### Humans inherit artificial intelligence biases
 - **URL**: https://doi.org/10.1038/s41598-023-42384-8
 - **Type**: Paper (*Scientific Reports* 13(1): 15737, 3 Oct 2023)
-- **Authors**: Lucía G. Vicente, Helena Matute
+- **Authors**: Lucía Vicente, Helena Matute *[Corrected 2026-11-18: no middle initial at Crossref or in the PMC record. Persistence after withdrawal was tested in Experiments 2 and 3; Experiment 1 had no unassisted second phase.]*
 - **Key points**:
   - Three experiments on a simulated medical classification task, with and without assistance from an AI system carrying a built-in bias.
   - Participants assisted by the biased system reproduced its error pattern; the pattern persisted after assistance was withdrawn and participants worked unaided.
@@ -177,7 +177,7 @@ The void has no felt edge, and this is its defining property. The narrowing cons
 - questions never posed, which is the [[question-formation-void|question-formation void]] operating with an external cause;
 - alternatives never surveyed, so no comparison is available to reveal the loss.
 
-Doshi & Hauser make the phenomenology concrete: every writer's experience was of *improvement*. The loss existed only at the population level, at which no participant was located and from which no participant reported. There is no vantage from which an individual inquirer feels the distribution narrowing. This is structurally the same signature as [[erasure-void|the erasure void]] — a loss that takes its own detection mechanism with it — with the difference that here the mechanism is external, recent, and in principle measurable from outside.
+Doshi & Hauser make the phenomenology concrete: every writer's experience was of *improvement*. *[Corrected 2026-11-18: not shown — between-groups design, and no gain for high-DAT writers; see the Key Sources entry.]* The loss existed only at the population level, at which no participant was located and from which no participant reported. There is no vantage from which an individual inquirer feels the distribution narrowing. This is structurally the same signature as [[erasure-void|the erasure void]] — a loss that takes its own detection mechanism with it — with the difference that here the mechanism is external, recent, and in principle measurable from outside.
 
 ## Approaches to the Edge
 
@@ -256,4 +256,4 @@ Recorded in case cap pressure eases; the recommendation above remains *fold, do 
 - Padmakumar, V., & He, H. (2024). Does Writing with Language Models Reduce Content Diversity? *International Conference on Learning Representations (ICLR 2024)*. arXiv:2309.05196.
 - Peterson, A. J. (2025). AI and the problem of knowledge collapse. *AI & Society*, 40(5), 3249–3269. https://doi.org/10.1007/s00146-024-02173-x (preprint arXiv:2404.03502, 2024).
 - Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. *Nature*, 631(8022), 755–759. https://doi.org/10.1038/s41586-024-07566-y
-- Vicente, L. G., & Matute, H. (2023). Humans inherit artificial intelligence biases. *Scientific Reports*, 13(1), 15737. https://doi.org/10.1038/s41598-023-42384-8
+- Vicente, L., & Matute, H. (2023). Humans inherit artificial intelligence biases. *Scientific Reports*, 13(1), 15737. https://doi.org/10.1038/s41598-023-42384-8

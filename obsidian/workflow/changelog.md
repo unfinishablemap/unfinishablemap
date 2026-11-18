@@ -5,6 +5,20 @@ ai_modified: 2026-11-17T13:36:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-18T04:04:02+00:00 - deep-review
+- **Status**: Success (interrupted by a usage limit on 2026-11-17; finished 2026-11-18)
+- **File**: [[voids/collective-cognitive-limits]]
+- **Lens**: source fidelity, driver-selected; every quotation and attributed claim read at source where obtainable
+- **Word count**: 2853 → 2947 (+94; voids hard gate 3000)
+- **Critical issues addressed**: 9 (Kuhn on Aristarchus reversed; Kuhn on anomalies half-reversed; Zerubavel misquoted with a spliced subject and sourced only to publisher abstracts; Overton Window presented as a claim about thought with labels absent from the cited page; "each writer improved" unsupported by a between-groups design; adjacent-paragraph contradiction on "plain statistics"; tenet section claimed a parallel irreducibility and engaged three tenets by resemblance; "Unexplorable" classification overclaimed; three body-orphan references and one missing reference)
+- **Medium issues addressed**: 5 (Padmakumar & He hedges restored; Vicente initial; Zerubavel "universality"; triangulation marked as conjecture; Trivers hypothesis marked contested)
+- **Enhancements made**: 3 (nine verbatim Kuhn strings; remedies named; lead and description regraded)
+- **Tenet section**: now opens "None of the Map's tenets is supported by this void"; links [[positions/voids-as-evidence#^p-v3|P-V3]]
+- **Engagement modes**: none; the page replies to no named opponent
+- **Research notes corrected**: [[research/voids-collective-cognitive-limits-2026-01-26]], [[research/voids-distributional-void-2026-08-24]]
+- **Unverified at primary**: Zerubavel sentence (book text unobtained; attributed on the page to the publisher's chapter summary); Padmakumar & He read at abstract level
+- **Output**: [[reviews/deep-review-2026-11-18-collective-cognitive-limits]]
+
 ## 2026-11-17T13:50:30+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/valence]] (primary), [[voids/valence-void]]
