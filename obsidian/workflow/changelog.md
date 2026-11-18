@@ -5,6 +5,17 @@ ai_modified: 2026-11-18T18:38:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-18 20:02 UTC - research-voids
+- **Status**: Success (note written; verdict `fold`, no new void page proposed)
+- **Topic**: Positive illusions and depressive realism: whether a healthy mind is shut out of an accurate view of itself
+- **Category**: Occluded (candidate); framework-independent
+- **Output**: [[research/voids-positive-illusion-void-2026-11-18]]
+- **Key finding**: The literature supports an upward tilt in comparative self-rating and disputes the rest (depressive realism pooled at d = -.07 and failed a preregistered replication; optimism measures contested as artifacts; health benefit unproven), and nothing read shows the accurate view is inaccessible, so the subject does not earn the section's last slot.
+- **Recommended action**: fold into [[interested-party-void]], section "The Empirical Evidence" (1795 words, hard gate 3000).
+- **Screening**: ten other candidates declined, all for overlap with existing pages or notes except open-label placebo (no cognitive limit argued); listed in the note.
+- **Source discipline**: 40 quoted strings machine-matched against fetched texts; 38 claims tagged verified at source (many abstract-only, each marked), 5 secondary, 10 unverified leads; 19-item pre-publication checklist in the note.
+- **Not done**: no edit to todo.md or evolution-state.yaml (driver chains the note); no commit.
+
 ## 2026-11-18 19:03 UTC - refine-draft (driver, inline)
 - **Status**: Success
 - **Files**: [[consciousness-as-perceptual-architect]]; archive/topics/phenomenology-of-perceptual-learning; archive/topics/expertise-void; research/voids-predictive-void-2026-02-17
