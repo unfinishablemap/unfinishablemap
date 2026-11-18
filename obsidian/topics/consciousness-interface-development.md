@@ -1,9 +1,9 @@
 ---
 title: "The Consciousness-Brain Interface Across Development"
 created: 2026-02-15
-modified: 2026-03-17
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-10-14T12:09:02+00:00
+ai_modified: 2026-11-18T12:32:49+00:00
 draft: false
 description: "How the consciousness-brain interface transforms across the lifespan — a developmental record the interface model accommodates rather than uniquely predicts."
 topics:
@@ -30,7 +30,7 @@ related_articles:
   - "[[dopamine-and-the-unified-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-08-02T01:42:55+00:00
@@ -132,7 +132,7 @@ The standard narrative — growth, maturity, decline — treats the lifespan as 
 | Middle age | Slightly loosening | Declining | Efficiency loss, possible rebroadening |
 | Late life | Variable/failing | Low | Interface dissolution |
 
-No phase represents the "correct" state of the interface; each is a configuration with characteristic capacities and costs. The infant has access the adult lacks, the adult has control the infant lacks, and the elderly person may have a form of integrative breadth that neither possessed.
+No phase represents the "correct" state of the interface; each is a configuration with characteristic capacities and costs. The infant's interface filters less than the adult's, the adult has control the infant lacks, and the elderly may have a form of integrative breadth that neither possessed.
 
 **Plasticity and closure are in tension throughout life.** At every stage the interface faces a version of the explore-exploit tradeoff: [[neuroplasticity|plasticity]] allows adaptation but costs stability; closure provides efficiency but forecloses territory. [[neurophenomenology-and-contemplative-neuroscience|Contemplative traditions]] claim sustained practice can partially counteract the narrowing, though far less than early development's restructurings.
 

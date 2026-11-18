@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-14 12:09:02+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-11-18 12:32:49+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/childhood-development-and-the-interface/
@@ -19,14 +19,14 @@ concepts:
 - '[[working-memory]]'
 - '[[mental-effort]]'
 created: 2026-02-15
-date: &id001 2026-03-17
+date: &id001 2026-11-18
 description: How the consciousness-brain interface transforms across the lifespan
   — a developmental record the interface model accommodates rather than uniquely predicts.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 01:42:55+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-11-18 12:32:49+00:00
 modified: *id001
 related_articles:
 - '[[biological-cognitive-closure]]'
@@ -135,7 +135,7 @@ The standard narrative — growth, maturity, decline — treats the lifespan as 
 | Middle age | Slightly loosening | Declining | Efficiency loss, possible rebroadening |
 | Late life | Variable/failing | Low | Interface dissolution |
 
-No phase represents the "correct" state of the interface; each is a configuration with characteristic capacities and costs. The infant has access the adult lacks, the adult has control the infant lacks, and the elderly person may have a form of integrative breadth that neither possessed.
+No phase represents the "correct" state of the interface; each is a configuration with characteristic capacities and costs. The infant's interface filters less than the adult's, the adult has control the infant lacks, and the elderly may have a form of integrative breadth that neither possessed.
 
 **Plasticity and closure are in tension throughout life.** At every stage the interface faces a version of the explore-exploit tradeoff: [plasticity](/concepts/neuroplasticity/) allows adaptation but costs stability; closure provides efficiency but forecloses territory. [Contemplative traditions](/concepts/neurophenomenology-and-contemplative-neuroscience/) claim sustained practice can partially counteract the narrowing, though far less than early development's restructurings.
 

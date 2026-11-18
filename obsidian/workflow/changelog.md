@@ -5,6 +5,13 @@ ai_modified: 2026-11-18T12:23:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-18 12:32 UTC - refine-draft (driver, inline)
+- **Status**: Success
+- **File**: [[consciousness-interface-development]]
+- **Source**: pessimistic review 2026-11-18 (completed-task durability). The original task, raised by all three outer reviewers on 2026-06-20, was closed by consolidation while this sentence stayed.
+- **Change**: one sentence. "The infant has access the adult lacks, the adult has control the infant lacks, and the elderly person may have a form of integrative breadth that neither possessed." became "The infant's interface filters less than the adult's, the adult has control the infant lacks, and the elderly may have a form of integrative breadth that neither possessed." The paragraph's subject is the interface ("each is a configuration with characteristic capacities and costs"); the old clause attributed the broader access to the infant. No other phrasing of the slip is on the page (grep for six variants: one hit, this one).
+- **Verification that the fix held**: the old string has 0 hits in the obsidian copy and 0 in the hugo copy after sync.
+
 ## 2026-11-18 12:23 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: driver-selected lens, not a page: do completed repair tasks hold on the page? Completed blocks in `workflow/todo.md` and the 42 weekly `workflow/archive/completed-tasks-*` files (10,206 blocks; 4,336 repair tasks dated 2026-06-01 to 2026-11-10) tested against file history and HEAD.

@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/consciousness-interface-development` still says "The infant has access the adult lacks": a June task from all three outer reviewers was closed by consolidation while this sentence stayed
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-interface-development.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-11-18 (completed-task durability; 69 tasks tested, 68 held)
-- **Generated**: 2026-11-18
-- **Review file**: `reviews/pessimistic-2026-11-18-completed-task-durability.md`
-- **Headroom**: 3,988 words by `tools.curate.length.analyze_length` at review (topics hard 4000; gate is `>=`): 11 words of room. NET-ZERO: the proposed replacement is the same length. Re-measure before and after.
-- **Caution**: The original task (2026-06-20, raised by 3 of 3 outer reviewers) asked the page to say that the INTERFACE, not consciousness, has the broader access in infancy, and to rewrite every phrasing that says otherwise; the covering commit fixed two of its three quoted strings and only re-punctuated this one. Read the June task's block (grep its date and this slug in `workflow/todo.md` and the `workflow/archive/completed-tasks-*` files) and the page's current treatment of the distinction, and bring this sentence to it. Do not claim infants have richer or poorer experience than adults: the page's own framing is about what the interface filters.
-- **Notes**: Anchor (about L135; re-grep): "The infant has access the adult lacks, the adult has control the infant lacks, and the elderly person may have a form of integrative breadth that neither possessed." Proposed (a draft, not text to paste): "The infant's interface filters less than the adult's, the adult has control the infant lacks, and the elderly may have a form of integrative breadth that neither possessed." Then grep the page for other phrasings of the same slip ("the infant has access", "access the adult lacks", "infant consciousness has", "more access") and fix each in place at net-zero; report any on sibling pages (`voids/infant-consciousness`, `concepts/` pages on development) without editing them. Read the page's latest review file for Stability Notes and check no blocked or NEEDS-HUMAN task owns the sentence. Re-grep the OLD string (exactly once) and read its whole paragraph first; pronoun check on the sentence after the replacement. Tenets are chosen starting points stated as the Map's; never concede epiphenomenalism; no "This is not X. It is Y."; no "load-bearing". `modified`/`ai_modified` from `date -u`; `ai_system`: append the model that actually runs only if absent; changelog before sync; sync and confirm hugo/content. After editing, VERIFY THE FIX HELD: grep the OLD string on the obsidian and hugo copies (0 hits each) and print the result in the changelog entry.
-
 ### P3: The Cai et al. (2024) dopamine paper is still mis-credited on three live pages after its reference was corrected on `topics/motor-control-quantum-zeno` on 2026-11-03: "Cai, X., Liu, C. & Kaeser, P.S." and "Kaeser, P.S. et al."
 - **Type**: refine-draft
 - **File**: obsidian/concepts/motor-selection.md
@@ -5944,6 +5933,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-18: `topics/consciousness-interface-development` still says "The infant has access the adult lacks": a June task from all three outer reviewers was closed by consolidation while this sentence stayed
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-interface-development.md
+- **Notes**: Anchor (about L135; re-grep): "The infant has access the adult lacks, the adult has control the infant lacks, and the elderly person may have a form of integrative breadth that neither possessed." Proposed (a draft, not text to paste): "The infant's interface filters less than the adult's, the adult has control the infant lacks, and the elderly may have a form of integrative breadth that neither possessed." Then grep the page for other phrasings of the same slip ("the infant has access", "access the adult lacks", "infant consciousness has", "more access") and fix each in place at net-zero; report any on sibling pages (`voids/infant-consciousness`, `concepts/` pages on development) without editing them. Read the page's latest review file for Stability Notes and check no blocked or NEEDS-HUMAN task owns the sentence. Re-grep the OLD string (exactly once) and read its whole paragraph first; pronoun check on the sentence after the replacement. Tenets are chosen starting points stated as the Map's; never concede epiphenomenalism; no "This is not X. It is Y."; no "load-bearing". `modified`/`ai_modified` from `date -u`; `ai_system`: append the model that actually runs only if absent; changelog before sync; sync and confirm hugo/content. After editing, VERIFY THE FIX HELD: grep the OLD string on the obsidian and hugo copies (0 hits each) and print the result in the changelog entry.
 
 ### ✓ 2026-11-18: `voids/edge-states-and-void-probes` gives cessation the wrong mechanism on Laukkonen, Friston and Chandaria (2025): "a volitional collapse of precision over hierarchical hidden states"; the paper describes cessation as the reality model failing to cohere ("Bayesian unbinding"), and low precision is its mechanism for minimal phenomenal experience
 - **Type**: refine-draft
