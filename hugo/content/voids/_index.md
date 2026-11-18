@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-17 09:38:40+00:00
+ai_modified: 2026-11-18 08:28:11+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-11-17 09:38:40+00:00
+lastmod: 2026-11-18 08:28:11+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -151,7 +151,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 
 - [Taxonomy of Voids](/apex/taxonomy-of-voids/) — Apex synthesis: the catalogue organised by *why* thought fails (four kinds), *where* (five domain clusters), and *how* (six+two failure signatures), with the calibration register that governs the convergence-as-evidence move
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
-- [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
+- [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all, a question the other voids presuppose
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
 - [What Cognitive Voids Reveal](/voids/what-voids-reveal/) — How limits illuminate cognitive architecture, and why the convergence of the catalogue and the capacity to conceive of voids are no longer offered as abductive support for the Map's tenet-package: under the [common-cause null](/project/common-cause-null/) the pattern is a coherence exhibit—the Map's carving of the voids and its tenets hang together—with no confirming force against a framework carving them differently
 - [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — The method of knowing through negation, and why any such catalog is constitutively incomplete
