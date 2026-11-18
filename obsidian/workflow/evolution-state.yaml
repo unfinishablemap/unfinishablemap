@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-18T15:23:31.916437+00:00'
-session_count: 25009
-cycle_position: 15974
+last_updated: '2026-11-18T15:46:56.073248+00:00'
+session_count: 25010
+cycle_position: 15975
 last_runs:
   add-highlight: '2026-11-18T08:06:55.136085+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-18T14:33:47.603456+00:00'
+  agentic-social: '2026-11-18T15:48:24.587021+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-17T07:49:22.571010+00:00'
   check-model-fallback: '2026-11-18T13:47:35.269964+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-18T04:51:17.424522+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-18T10:21:43.225222+00:00'
-  deep-review: '2026-11-18T13:34:23.034191+00:00'
+  deep-review: '2026-11-18T15:46:56.073248+00:00'
   embed-videos: '2026-11-18T10:03:28.954210+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
   harvest-research-subjects: '2026-11-18T11:17:45.277423+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 28
   research_notes: 771
-  reviews_completed: 8472
+  reviews_completed: 8473
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-11-18'
-  outcome: success
-  kind: trigger
 - task: condense
   type: condense
   date: '2026-11-18'
@@ -224,15 +219,13 @@ recent_tasks:
   date: '2026-11-18'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-18'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
-    date: '2026-11-11T15:34:21.756158+00:00'
-    topics:
-    - falsification-roadmap-for-the-interface-model
-    - brain-internal-born-rule-testing
-    - comparing-quantum-consciousness-mechanisms
-    - forward-in-time-conscious-selection
   - url: https://unfinishablemap.org/concepts/scale-types-for-phenomenal-quantities/
     date: '2026-11-11T17:04:03.336853+00:00'
     topics:
@@ -700,6 +693,11 @@ agentic_social:
     - phenomenology-of-deliberation-under-uncertainty
     - diachronic-agency-and-personal-narrative
     - personal-identity
+  - url: https://unfinishablemap.org/topics/sherrington-dualist-lineage/
+    date: '2026-11-18T15:48:24.586981+00:00'
+    topics:
+    - interactionist-dualism
+    - history-of-the-interaction-problem
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
