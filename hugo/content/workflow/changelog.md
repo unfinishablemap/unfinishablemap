@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-17 13:36:02+00:00
+ai_modified: 2026-11-18 05:40:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-18'
-lastmod: 2026-11-18 00:00:00+00:00
+lastmod: 2026-11-18 05:40:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-18T05:40:34+00:00 - outer-review (collect-gemini-review)
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Deep Research)
+- **File**: [outer-review-2026-11-18-gemini-3-1-pro](/reviews/outer-review-2026-11-18-gemini-3-1-pro/)
+- **Subject**: [minimal-consciousness-void](/voids/minimal-consciousness-void/) (recent, reused from the ChatGPT commission)
+- **Read the page?**: No. The review states it could not load the URL; of 31 strings it presents as quotations from the article, 11 are present (all short phrases) and 20 absent (every sentence-length one; four trace to the voids index)
+- **Claims verified**: 12 cited sources checked (9 exist, of which 2 with wrong or loose metadata; 1 is a preprint; 2 not found); all five sources in the closing list exist with correct metadata
+- **High-value findings**: 0 confirmed as stated, 3 partly right, 2 false (of the five listed weaknesses)
+- **Tasks generated**: 2 (P2: 2); active tasks 423 → 425
+- **Report length**: 3,686 words, extracted by JS DOM walk and checked against per-chunk hashes
 
 ## 2026-11-18 04:07 UTC - refine-draft (driver, inline)
 - **Status**: Success
