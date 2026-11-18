@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18 18:38:31+00:00
+ai_modified: 2026-11-18 20:32:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-18'
-lastmod: 2026-11-18 18:38:31+00:00
+lastmod: 2026-11-18 20:32:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-18 20:32 UTC - check-tenets
+- **Status**: Warnings (reports only; no article, position, script or todo edited)
+- **Files checked**: 912 by pattern scan (topics 371, concepts 371, voids 125, apex 45); all 125 void tenet sections extracted and classified; positions scanned for contradictions only
+- **Errors**: 0
+- **Warnings**: 87 sentences say a tenet is supported, evidenced, strengthened or vindicated above the register's grade ([P-M1](/positions/methodology-and-calibration/#p-m1), [P-M2](/positions/methodology-and-calibration/#p-m2), [P-V3](/positions/voids-as-evidence/#p-v3)), in about 78 pages; 7 already named by open tasks. 21 of 125 void tenet sections not at grade (87 at grade, 17 silent). 10 tenet-paraphrase flags (4 pages say Tenet 1 "establishes" its content; 1 names the Zeno effect as "the Map's mechanism"; 2 state Tenet 4 as MWI false or incoherent)
+- **Tenet 3 quantifier census**: universal reading invoked in 9 sentences on 7 pages (the AI-consciousness cluster) plus the positions entry; dispositional reading adopted by name on 2 pages and used in passing in 162 sentences on 115 pages; 4 pages mark it open; 2 deny the universal form. No resolution proposed
+- **Priority list**: four tasks (hub pages counting premise-sharing arguments as independent; eight void tenet sections; eight topic and concept tenet paragraphs; eight one-phrase tenet-paraphrase fixes), each with OLD and NEW sentences, word counts against hard gates and open-task overlap
+- **Not done**: no whole-page reads; archive, research and project trees not checked; firewall-roster lens not run; no commit
+- **Output**: [tenet-check-2026-11-18](/reviews/tenet-check-2026-11-18/)
 
 ## 2026-11-18 20:02 UTC - research-voids
 - **Status**: Success (note written; verdict `fold`, no new void page proposed)
