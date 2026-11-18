@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-18T08:03:37.838961'
+ai_modified: '2026-11-18T08:04:14+00:00'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 While you practise, the sense of how well you're learning follows ease. With spacing, interleaving and self-testing it has favoured the worse method; sometimes it is right. A way round: test yourself later, answer hidden. This void supports no Map tenet.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2122964034978714027  
 **Link**: [[learning-void]]
 
 ---
