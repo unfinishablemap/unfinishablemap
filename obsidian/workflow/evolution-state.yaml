@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-18T20:35:23.178030+00:00'
-session_count: 25028
+last_updated: '2026-11-18T20:50:25.085867+00:00'
+session_count: 25029
 cycle_position: 15984
 last_runs:
   add-highlight: '2026-11-18T08:06:55.136085+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-11-15T12:11:46.468835+00:00'
   research-voids: '2026-11-18T20:04:53.330823+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-11-15T14:34:06.823445+00:00'
+  tune-system: '2026-11-18T20:50:25.085867+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-11-18T20:35:24.124469+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 772
-  reviews_completed: 8475
+  reviews_completed: 8476
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-18'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-18'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: check-tenets
   type: check-tenets
+  date: '2026-11-18'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-11-18'
   outcome: success
   kind: trigger
@@ -1271,7 +1271,10 @@ tune_system_history:
       (no Gemini entry); coalesce 7/7 abandoned; topics and concepts still 370/370,
       voids 121/125. See reviews/system-tune-2026-11-15.
   - date: '2026-11-18'
-    reason: Run 2026-11-18 - twenty-ninth consecutive zero-Tier-1 run (cadences, overdue_thresholds, locked_settings and weights absent as keys). 20 of 20 recent tasks succeeded. 70 pages at or over hard length gate with 2 condense tasks open. 33 tasks blocked on human decisions. See reviews/system-tune-2026-11-18.
+    reason: Run 2026-11-18 - twenty-ninth consecutive zero-Tier-1 run (cadences, overdue_thresholds,
+      locked_settings and weights absent as keys). 20 of 20 recent tasks succeeded.
+      70 pages at or over hard length gate with 2 condense tasks open. 33 tasks blocked
+      on human decisions. See reviews/system-tune-2026-11-18.
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)

@@ -1,15 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-09-27 20:05:27+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-11-18 21:05:13+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[phenomenology]]'
 - '[[dualism]]'
 created: 2026-02-24
-date: &id001 2026-05-11
+date: &id001 2026-11-18
 description: Why cognitive limits are preconditions for meaning, not merely obstacles.
   Human+AI exploration of the constitutive thesis—that a mind with no limits would
   have no significance.
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 18:51:48+00:00
-lastmod: 2026-09-27 20:05:27+00:00
+lastmod: 2026-11-18 21:05:13+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -135,7 +135,7 @@ The first condition deserves nuance. Technologies like literacy, computing, and 
 
 The thesis connects to each of the Map's [tenets](/tenets/):
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly supported. The "simple" view—limits as obstacles to remove—is precisely what the constitutive thesis denies. The complex picture (limits as enabling conditions) is more accurate than the simple one because the relationship between limits and meaning is structural, not incidental.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is the nearest connection, as an illustration. The "simple" view—limits as obstacles to remove—is precisely what the constitutive thesis denies. On the constitutive thesis the simple picture leaves out a structural relation between limits and meaning; the tenet cautions against settling the matter by simplicity, and nothing here shows the more complex picture true.
 
 **[Dualism](/tenets/#dualism)** coheres with the thesis—the dependency runs from tenet to thesis, not the reverse: if consciousness is irreducible to physical description, the boundary between physical and phenomenal is itself a constitutive void. The [hard problem](/topics/hard-problem-of-consciousness/) is a structural feature that enables both domains to be meaningful on their own terms.
 

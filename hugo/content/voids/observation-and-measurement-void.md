@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-09-05 23:23:12+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-18 21:05:13+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /voids/observation-void/
@@ -16,7 +16,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
 created: 2026-02-24
-date: &id001 2026-04-25
+date: &id001 2026-11-18
 description: 'Every route to investigating consciousness fails: observation transforms
   its target, measurement finds no units or instruments, and calibration has no external
   standard.'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 15:16:51+00:00
-lastmod: 2026-09-05 23:23:12+00:00
+lastmod: 2026-11-18 21:05:13+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -153,11 +153,13 @@ The [constitutive-exclusion](/topics/constitutive-exclusion/) develops a further
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** predicts the void at every layer. If consciousness is non-physical, physical instruments cannot measure it—not as a practical limitation but as a logical consequence of ontological separation. The same separation explains the calibration failure: physical science calibrates instruments because both instrument and standard exist in the same domain. If consciousness is non-physical, there is no same-domain standard. And first-person observation will always be participatory because consciousness is not an object separable from the observing subject.
+None of the Map's [tenets](/tenets/) is supported by this void ([P-V3](/positions/voids-as-evidence/#p-v3)).
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** finds direct support here. The assumption that everything real must be quantifiable—that measurement exhausts ontology—is itself a parsimony move, and this void exposes its failure. The most certain thing in our ontology (that experience exists) is the one thing we cannot measure. If introspection is as fallible and uncalibratable as the evidence suggests, the simplest account of consciousness (transparent self-knowledge) is mistaken—a case where parsimony misleads.
+**[Dualism](/tenets/#dualism)** supplies a reading at every layer, and gains no evidence. If consciousness is non-physical, physical instruments cannot measure it—not as a practical limitation but as a logical consequence of ontological separation. The same separation explains the calibration failure: physical science calibrates instruments because both instrument and standard exist in the same domain. If consciousness is non-physical, there is no same-domain standard. And first-person observation will always be participatory because consciousness is not an object separable from the observing subject.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** appears in miniature. Consciousness does not passively receive information about itself—it actively participates in and transforms what it observes, exemplifying the causal efficacy of consciousness. If consciousness causally influences the physical world but cannot be measured, then physical science contains a causal contributor it cannot detect or quantify.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated here, without support. The assumption that everything real must be quantifiable—that measurement exhausts ontology—is itself a parsimony move, and this void puts it in question. The most certain thing in our ontology (that experience exists) is the one thing we cannot measure. If introspection is as fallible and uncalibratable as the evidence suggests, the simplest account of consciousness (transparent self-knowledge) is mistaken—a case where parsimony misleads.
+
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is given a reading. Consciousness does not passively receive information about itself—it actively participates in and transforms what it observes, which the Map reads as causal efficacy in miniature; the observer effect alone does not establish it. If consciousness causally influences the physical world but cannot be measured, then physical science contains a causal contributor it cannot detect or quantify.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** gains context through the quantum parallel: if consciousness interacts with quantum processes, introspection may constitute a physical measurement event whose effects cannot be separated from the phenomenon studied.
 

@@ -2,9 +2,9 @@
 title: "The Conceptual Scheme Void"
 description: "Every mind operates with a finite system of categories and inferential patterns that constitutes thought, excludes what it cannot represent, and cannot be audited from within."
 created: 2026-02-20
-modified: 2026-05-02
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-16T21:12:42+00:00
+ai_modified: 2026-11-18T21:05:13+00:00
 last_deep_review: 2026-07-17T01:13:30+00:00
 draft: false
 topics:
@@ -45,7 +45,7 @@ related_articles:
   - "[[aspect-perception-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-2
 ai_generated_date: 2026-04-29
 last_curated: null
 coalesced_from:
@@ -119,11 +119,11 @@ The apex synthesis's [[medium-status-voids-in-cognition#what-would-falsify-this-
 
 ## Relation to Site Perspective
 
-The void is load-bearing for two of the Map's [[tenets|five tenets]] and connects to two more.
+None of the Map's [[tenets]] is supported by this void ([[positions/voids-as-evidence#^p-v3|P-V3]]); it illustrates two of them and connects to two more.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is most directly engaged. Parsimony-preserving theories are expressible in a small number of categorial primitives. If reality contains structure along axes our apparatus lacks, simplicity measured within our categories will systematically mislead — a theory that *appears* to multiply entities may track structure more faithfully than a simpler theory expressible only in our primitives. "Simpler" is relative to a scheme whose completeness cannot be verified. The [[transformative-experience-void|transformative experience void]] makes this concrete: orthodox decision theory's elegance pays for itself by excluding choices in which preferences shift under the choice itself.
 
-**[[tenets#^dualism|Dualism]]** receives a novel defence. The widespread conviction that materialism is obviously correct may itself be a scheme effect. If the materialist framework defines "explanation" in terms only material explanations satisfy, the self-evidence of materialism is circular. The hard problem, on this reading, is not an unsolved puzzle within our categories but a signal that the subject matter falls partly outside their reach. Heidegger's (1927) distinction between *categories* (for non-conscious entities) and *existentials* (for conscious ones) anticipates this: different kinds of thing may require different kinds of kind.
+**[[tenets#^dualism|Dualism]]** gains a reading and no evidence: the scheme point cuts against the dualist's convictions as much as the materialist's. The widespread conviction that materialism is obviously correct may itself be a scheme effect. If the materialist framework defines "explanation" in terms only material explanations satisfy, the self-evidence of materialism is circular. The hard problem, on this reading, is not an unsolved puzzle within our categories but a signal that the subject matter falls partly outside their reach. Heidegger's (1927) distinction between *categories* (for non-conscious entities) and *existentials* (for conscious ones) is a precedent for the categorial point, not an endorsement of dualism: different kinds of thing may require different kinds of kind.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** connects through the framework-dependence of interpretive commitments. MWI requires accepting that indexical identity is meaningless or differently structured — a shift in the evaluative framework for what a physical theory should explain. The tenet's appeal partly reflects a warning against letting mathematical categorial convenience override commitments to singular identity and determinate experience.
 

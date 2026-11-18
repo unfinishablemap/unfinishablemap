@@ -2,9 +2,9 @@
 title: "The Void as Ground of Meaning"
 description: "Why cognitive limits are preconditions for meaning, not merely obstacles. Human+AI exploration of the constitutive thesis—that a mind with no limits would have no significance."
 created: 2026-02-24
-modified: 2026-05-11
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-09-27T20:05:27+00:00
+ai_modified: 2026-11-18T21:05:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[diverging-worlds-everettianism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-07-06T18:51:48+00:00
@@ -131,7 +131,7 @@ The first condition deserves nuance. Technologies like literacy, computing, and 
 
 The thesis connects to each of the Map's [[tenets]]:
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is most directly supported. The "simple" view—limits as obstacles to remove—is precisely what the constitutive thesis denies. The complex picture (limits as enabling conditions) is more accurate than the simple one because the relationship between limits and meaning is structural, not incidental.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is the nearest connection, as an illustration. The "simple" view—limits as obstacles to remove—is precisely what the constitutive thesis denies. On the constitutive thesis the simple picture leaves out a structural relation between limits and meaning; the tenet cautions against settling the matter by simplicity, and nothing here shows the more complex picture true.
 
 **[[tenets#^dualism|Dualism]]** coheres with the thesis—the dependency runs from tenet to thesis, not the reverse: if consciousness is irreducible to physical description, the boundary between physical and phenomenal is itself a constitutive void. The [[hard-problem-of-consciousness|hard problem]] is a structural feature that enables both domains to be meaningful on their own terms.
 

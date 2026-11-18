@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-11-02 10:42:24+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-18 21:05:13+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
 - /voids/other-minds-void/
@@ -16,7 +16,7 @@ concepts:
 - '[[intersubjectivity]]'
 - '[[apophatic-approaches]]'
 created: 2026-01-27
-date: &id001 2026-10-19
+date: &id001 2026-11-18
 description: Three structural limits on access between consciousnesses—existence,
   encounter, and sharing—and how social epistemic mechanisms compound the divisions
   they cannot close.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 00:06:00+00:00
-lastmod: 2026-11-02 10:42:24+00:00
+lastmod: 2026-11-18 21:05:13+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -146,7 +146,7 @@ The thesis would weaken if direct phenomenal sharing proved possible via neural 
 
 The voids between minds connect to all five of the Map's [foundational commitments](/tenets/).
 
-**[Dualism](/tenets/#dualism)** is most directly supported. If consciousness is irreducible to physical description, each consciousness has an intrinsic first-person character that cannot be captured in third-person terms—and what cannot be externalised cannot be literally shared. Buber's *Zwischen* has no physical location; it exists only as a relation between irreducible subjects. The social epistemic dimension reinforces this: social epistemic mechanisms are biased toward physicalist accounts not because physicalism is true, but because physical facts are socially validatable in ways phenomenal facts are not. Dualism does not require complete isolation: two irreducible consciousnesses might still interact in ways that enable partial sharing.
+**[Dualism](/tenets/#dualism)** supplies the reading most directly. If consciousness is irreducible to physical description, each consciousness has an intrinsic first-person character that cannot be captured in third-person terms—and what cannot be externalised cannot be literally shared. Buber's *Zwischen* has no physical location; it exists only as a relation between irreducible subjects. The social epistemic dimension fits the reading: social epistemic mechanisms are biased toward physicalist accounts not because physicalism is true, but because physical facts are socially validatable in ways phenomenal facts are not. Dualism does not require complete isolation: two irreducible consciousnesses might still interact in ways that enable partial sharing.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** creates interesting implications. The self-organising nature of genuine encounter, where both participants are transformed, suggests mutual causal influence between consciousnesses. The encounter void may mark where consciousness-to-consciousness causation occurs but cannot be introspected—a causal interface operating beneath each participant's awareness.
 

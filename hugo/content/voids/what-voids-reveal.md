@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-11-17 12:21:57+00:00
+ai_modified: 2026-11-18 21:05:13+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -17,7 +17,7 @@ concepts:
 - '[[self-and-self-consciousness]]'
 - '[[edge-states-and-void-probes]]'
 created: 2026-01-16
-date: &id001 2026-11-17
+date: &id001 2026-11-18
 description: 'Cognitive limits are doubly informative: their shape reveals mental
   architecture, while the void catalogue''s clustering counts as framework-internal
   coherence, not evidence for dualism.'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 07:37:35+00:00
-lastmod: 2026-11-17 12:21:57+00:00
+lastmod: 2026-11-18 21:05:13+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -149,7 +149,7 @@ Both arguments connect to each of the Map's [tenets](/tenets/).
 
 **[Dualism](/tenets/#dualism)** is where both arguments bear most directly, the second only at coherence-relative strength. Methodologically: if consciousness is cognitively closed to us, understanding the mind-body connection may require concepts our architecture cannot form. On the coherence reading: if consciousness is ontologically distinct, inquiry approaching that distinction should meet boundaries forming a structure. The catalogue exhibits that structure—but a physicalism predicting representational closure at the same interface would exhibit it too, so the exhibit attests the Map's internal coherence rather than confirming dualism against a rival that carves the voids differently.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is supported on the methodological front. If cognitive closure is real, simpler theories may appear more plausible not because they are closer to truth but because the true theory lies outside our reach. The deflationary explanations of the convergence—unrelated difficulties, evolutionary by-product, observer selection—each leave something unaccounted for, though what they must account for is a pattern the Map's carving helps produce.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated methodologically, not supported. If cognitive closure is real, simpler theories may appear more plausible not because they are closer to truth but because the true theory lies outside our reach. The deflationary explanations of the convergence—unrelated difficulties, evolutionary by-product, observer selection—each leave something unaccounted for, though what they must account for is a pattern the Map's carving helps produce.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** predicts an interface hidden from introspection, and introspective opacity, the self-reference paradox, and calibration failure do converge there—a fit with the tenet, though a physicalist expects introspective opacity for reasons of its own.
 

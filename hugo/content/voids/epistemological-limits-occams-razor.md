@@ -1,22 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-09-04 21:02:39+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-11-18 21:05:13+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-2
 author: null
 concepts:
 - '[[dualism]]'
 - '[[concepts/materialism]]'
 - '[[mysterianism]]'
 created: 2026-02-22
-date: &id001 2026-04-19
+date: &id001 2026-11-18
 description: Human+AI exploration of why Occam's Razor may be a cognitive bias masquerading
   as an epistemic principle—and why we cannot tell from within.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:33:13+00:00
-lastmod: 2026-09-04 21:02:39+00:00
+lastmod: 2026-11-18 21:05:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ Second, intellectual humility becomes more than a virtue — it becomes a method
 
 ## Relation to Site Perspective
 
-This article directly supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits) by locating the limits not just in philosophy but in cognitive architecture. Parsimony may be limited not because philosophers have identified exceptions, but because the principle is an evolved heuristic with a restricted domain of reliability — and consciousness falls outside that domain. Goodman's stricture locates the limit one level lower still, in the similarity basis that any simplicity ordering presupposes and neither data nor introspection supply.
+This article sets out reasoning behind [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits), a starting point the Map chooses; the reasoning stands at its own grade, and as a catalogue entry the void adds no weight to the tenet ([P-V3](/positions/voids-as-evidence/#p-v3)). That reasoning locates the limits not just in philosophy but in cognitive architecture. Parsimony may be limited not because philosophers have identified exceptions, but because the principle is an evolved heuristic with a restricted domain of reliability — and consciousness falls outside that domain. Goodman's stricture locates the limit one level lower still, in the similarity basis that any simplicity ordering presupposes and neither data nor introspection supply.
 
 The Map reads this as *clearing space for* [Tenet 1 (Dualism)](/tenets/#dualism), not as establishing it. If the primary obstacle to taking dualism seriously is parsimony-driven implausibility, and that implausibility may reflect cognitive architecture rather than truth, then the obstacle is weaker than it appears. But as the symmetry concession above makes explicit, removing that obstacle restores a whole cluster of less-parsimonious views to candidacy — panpsychism and Russellian monism among them — and the void supplies no parsimony-independent reason to prefer dualism over its cluster-mates. The Map's commitment to dualism therefore rests on its other arguments (phenomenal authority, the interaction tenets, the rejection of Many-Worlds), not on this void. What the void contributes is narrower and entirely consistent with Tenet 5: it shows that the dispute among physicalism and the anti-parsimony cluster is underdetermined by the criterion most often used to settle it. The hard problem's persistence — despite sustained effort across centuries — is consistent with genuine ontological complexity that simplicity-biased minds struggle to accept, but it is equally consistent with several such ontologies, and the void does not adjudicate between them.
 
