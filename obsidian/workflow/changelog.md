@@ -1,9 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18T22:06:03+00:00
+ai_modified: 2026-11-18T23:06:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-18 23:06 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: all 911 pages in topics/, concepts/, apex/ and voids/, on one question: how many quotations are an encyclopedia author's sentence printed under a philosopher's name. 5,301 long quotations matched against 150 fetched SEP/IEP/Wikipedia entries (0 unobtained). 190 are demonstrably an encyclopedist's prose; 181 credit the entry, 5 credit a philosopher (plus 2 by a seven-word pass), 4 are unattributed. Lower bound: 51% of quotations sit on pages citing no encyclopedia. Affected: mine-ness L54, eliminative-materialism L80/L106, many-minds-interpretation L76, plurality-void L51, counterfactual-void L62/L66. Two of these had been ratified by July deep reviews. Reports-only: four repair tasks proposed in the review's priority list, none minted.
+- **Output**: [[reviews/pessimistic-2026-11-18b-encyclopedia-sentences-as-quotations]]
 
 ## 2026-11-18 22:35 UTC - refine-draft
 - **Status**: Success
