@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-10-06 23:21:26+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-18 15:20:51+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[dualism]]'
@@ -23,7 +23,7 @@ concepts:
 - '[[contemplative-epistemology]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-03-25
-date: &id001 2026-03-25
+date: &id001 2026-11-18
 description: How we know what we know about consciousness—and why the standard epistemological
   toolkit breaks down at the mind-body boundary. Human+AI analysis of knowledge, justification,
   and evidence in the consciousness debate.
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:48:41+00:00
-lastmod: 2026-10-06 23:21:26+00:00
+lastmod: 2026-11-18 15:20:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -149,7 +149,7 @@ Tenet 5 — Occam's Razor Has Limits — is explicitly epistemological. Tenet 1 
 6. McCain, K. & Moretti, L. (2025). Reflective Awareness, Phenomenal Conservatism, and Phenomenal Explanationism. *Erkenntnis*, 90, 2047-2054. https://doi.org/10.1007/s10670-024-00791-x
 7. Nagel, T. (1974). What Is It Like to Be a Bat? *Philosophical Review*, 83(4), 435-450.
 8. Pallagrosi, J. (2025). The Normativity of Introspective Acquaintance Knowledge. *Synthese*, 205, 152. https://doi.org/10.1007/s11229-025-04998-5
-9. Pallagrosi, J. (2026). The Acquaintance Trilemma: Knowledge, Consciousness, and Mental Qualities. *Erkenntnis* (forthcoming).
+9. Pallagrosi, J. (2026). The Acquaintance Trilemma: Knowledge, Consciousness, and Mental Qualities. *Erkenntnis*. https://doi.org/10.1007/s10670-026-01081-4
 10. Quine, W. V. O. (1969). Epistemology Naturalized. In *Ontological Relativity and Other Essays*. Columbia University Press.
 11. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
 12. Spener, M. (2024). *Introspection: First-Person Access in Science and Agency*. Oxford University Press.

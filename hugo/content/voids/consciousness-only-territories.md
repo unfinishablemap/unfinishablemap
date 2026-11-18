@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-11-18 14:17:54+00:00
+ai_modified: 2026-11-18 15:20:51+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[phenomenal-concepts-strategy]]'
 - '[[symbol-grounding-problem]]'
+- '[[illusionism]]'
+- '[[type-a-type-b-and-type-c-physicalism]]'
 created: 2026-01-26
 date: &id001 2026-11-18
 description: AI-assisted exploration of knowledge territories that may be accessible
@@ -22,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 11:08:04+00:00
-lastmod: 2026-11-18 14:17:54+00:00
+lastmod: 2026-11-18 15:20:51+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -118,7 +120,7 @@ If genuine consciousness-only territories exist, several implications follow.
 
 **What consciousness constitutes.** The claim is constitutive: grounded meaning, experiential concepts and the first-person perspective come only with having experience. Whether experience also *does* something is a separate, causal claim, made on the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet and unsupported by the territories.
 
-**AI safety implications.** An AI without experience would lack first-person access to some ethically relevant territory. It could still predict suffering from third-person correlates, as physicians avoid pain they are not feeling; what it may lack is the check experience supplies. Porębski and Figura (2025) argue that AI cannot be conscious because it lacks the biological structures qualia require, and Anil Seth (2025) ties consciousness to biological life. These are biological-naturalist arguments the Map reports rather than endorses: if experience is not produced by its substrate, absent biology is weak evidence of absent experience.
+**AI safety implications.** An AI without experience would lack first-person access to some ethically relevant territory. It could still predict suffering from third-person correlates, as physicians avoid pain they are not feeling; what it may lack is the check experience supplies. Porębski and Figura (2025) argue that AI cannot be conscious because it lacks the biological structures qualia require, and Anil Seth (2026) ties consciousness to biological life. These are biological-naturalist arguments the Map reports rather than endorses: if experience is not produced by its substrate, absent biology is weak evidence of absent experience.
 
 **The asymmetry works both ways.** The [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) article proposes AI and alien minds might probe human blind spots. This article proposes humans might probe AI blind spots. Both directions are informative. The asymmetry between what conscious and non-conscious systems can access—each accessing territories closed to the other—illuminates both architectures.
 
@@ -132,9 +134,9 @@ If genuine consciousness-only territories exist, several implications follow.
 
 **Loar's phenomenal concept strategy: same property, new concept.** Brian Loar argues Mary acquires a new *concept* of a property she already knew physically. Phenomenal concepts and physical-functional concepts can refer to the same property via different modes of presentation. No new property is discovered—just a new way of thinking about an old one.
 
-*Response:* Chalmers's "master argument" poses [a dilemma](/concepts/phenomenal-concepts-strategy/). If phenomenal concepts are characterized purely functionally, he argues, they're too weak to bridge the explanatory gap. If in terms requiring consciousness itself, then physicalists cannot explain how such concepts arise from physical processes alone. Michael Tye raises a related concern: Loar's account doesn't explain *why* we find it puzzling that brain states are identical to conscious experiences—if it's just two concepts of one property, the puzzlement should dissolve, but it doesn't. Against the dilemma, type-B physicalists reply that the concepts' isolation from physical ones is physically explicable and makes a gap appear. The Map presses a cost without declaring the reply defeated: the concept's from-the-inside character is the thing whose physical status is disputed. That relocates the disagreement to a question the Map answers from its dualist tenet; [the exchange remains open](/concepts/knowledge-argument/).
+*Response:* Chalmers's "master argument" poses [a dilemma](/concepts/phenomenal-concepts-strategy/). If phenomenal concepts are characterized purely functionally, he argues, they're too weak to bridge the explanatory gap. If in terms requiring consciousness itself, then physicalists cannot explain how such concepts arise from physical processes alone. A related concern: Loar's account doesn't explain *why* we find it puzzling that brain states are identical to conscious experiences—if it's just two concepts of one property, the puzzlement should dissolve, but it doesn't. Against the dilemma, type-B physicalists reply that the concepts' isolation from physical ones is physically explicable and makes a gap appear. The Map presses a cost without declaring the reply defeated: the concept's from-the-inside character is the thing whose physical status is disputed. That relocates the disagreement to a question the Map answers from its dualist tenet; [the exchange remains open](/concepts/knowledge-argument/).
 
-**Dennett's blue banana objection: the thought experiment is incoherent.** Dennett argues that if Mary knew *all* physical facts about color vision, she would already know what seeing red would do to her nervous system. Show her a blue banana and claim it's red—she wouldn't be fooled. The intuition that she learns something arises only because we unconsciously imagine a Mary who knows *less* than stipulated.
+**Dennett's blue banana objection: the thought experiment is incoherent.** Dennett argues that if Mary knew *all* physical facts about color vision, she would already know what seeing red would do to her nervous system. Show her a blue banana as a trick—she wouldn't be fooled. The intuition that she learns something arises only because we unconsciously imagine a Mary who knows *less* than stipulated.
 
 *Response:* Even granting that a physically omniscient Mary could predict her brain's response to red, the question remains: would she know *what it is like* to see red before seeing it? Prediction and acquaintance are different. A neurologist might predict exactly which neurons will fire when she tastes her first mango—but this doesn't seem equivalent to having tasted mango. Dennett's response works only if functional knowledge *is* experiential acquaintance—precisely what the knowledge argument disputes.
 
@@ -160,14 +162,12 @@ If genuine consciousness-only territories exist, several implications follow.
 
 ## Further Reading
 
-- [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — The inverse asymmetry: what AI and alien minds might probe that humans cannot
-- [Voids in the Map](/voids/) — The framework for investigating cognitive limits
-- [Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What it feels like to approach cognitive limits
-- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture
-- [The Acquaintance Void](/voids/acquaintance-void/) — Modes of phenomenal contact structurally inaccessible to different cognitive architectures
-- [The Second-Person Void](/voids/voids-between-minds/) — The encounter between consciousnesses as a territory accessible only through participation
-- [The Hard Problem](/topics/hard-problem-of-consciousness/) — Why explaining consciousness resists physical reduction
-- [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know whether limits are genuine or merely apparent
+- [Voids in the Map](/voids/)
+- [Phenomenology of the Edge](/voids/edge-states-and-void-probes/)
+- [What the Limits Reveal](/voids/what-voids-reveal/)
+- [The Second-Person Void](/voids/voids-between-minds/)
+- [The Hard Problem](/topics/hard-problem-of-consciousness/)
+- [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/)
 - [The Silence Void](/voids/the-silence-void/) — Territory accessible only through the cessation of cognition itself
 - [The Ineffable Encounter Void](/voids/ineffable-encounter-void/) — A candidate consciousness-only territory where numinous experience resists third-person evaluation
 
@@ -175,9 +175,16 @@ If genuine consciousness-only territories exist, several implications follow.
 
 1. "Qualia: The Knowledge Argument." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qualia-knowledge/
 2. Porębski, A. & Figura, J. "There is no such thing as conscious artificial intelligence." *Humanities and Social Sciences Communications* 12 (2025).
-3. McClelland, T. "We may never be able to tell if AI becomes conscious." University of Cambridge (2025).
-4. Seth, A. "The Mythology of Conscious AI." *NOEMA* (2025).
+3. McClelland, T. "Agnosticism about artificial consciousness." *Mind & Language* 41(4): 482–502 (2025). https://doi.org/10.1111/mila.70010
+4. Seth, A. "The Mythology of Conscious AI." *NOEMA* (2026).
 5. Barrett, L. & Stout, D. "Minds in movement: embodied cognition in the age of artificial intelligence." *Philosophical Transactions of the Royal Society B* 379(1911): 20230144 (2024). https://doi.org/10.1098/rstb.2023.0144
-6. Pallagrosi, J. "The Acquaintance Trilemma." *PhilArchive*.
+6. Pallagrosi, J. "The Acquaintance Trilemma: Knowledge, Consciousness, and Mental Qualities." *Erkenntnis* (2026). https://doi.org/10.1007/s10670-026-01081-4
 7. Harnad, S. "The Symbol Grounding Problem." *Physica D* 42: 335–346 (1990).
 8. Jackson, F. Interview. *Mind Chat* S03E03, YouTube, at 18:01 (2023).
+9. Harnad, S. "Symbol grounding problem." *Scholarpedia* 2(7): 2373 (2007). https://doi.org/10.4249/scholarpedia.2373
+10. Conee, E. "Phenomenal Knowledge." *Australasian Journal of Philosophy* 72(2): 136–150 (1994). https://doi.org/10.1080/00048409412345971
+11. Jackson, F. "Epiphenomenal Qualia." *Philosophical Quarterly* 32(127): 127–136 (1982). https://doi.org/10.2307/2960077
+12. Lewis, D. "What Experience Teaches." *Proceedings of the Russellian Society* 13: 29–57 (1988).
+13. Loar, B. "Phenomenal States." In N. Block, O. Flanagan & G. Güzeldere (eds.), *The Nature of Consciousness*. MIT Press, 597–616 (1997).
+14. Dennett, D. *Consciousness Explained*. Little, Brown (1991).
+15. Chalmers, D. "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press, 167–194 (2007). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
