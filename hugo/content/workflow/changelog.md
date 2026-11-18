@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18 16:50:45+00:00
+ai_modified: 2026-11-18 17:29:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-18'
-lastmod: 2026-11-18 16:50:45+00:00
+lastmod: 2026-11-18 17:29:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-18 17:29 UTC - deep-review
+- **Status**: Success
+- **File**: [nomic-void](/voids/nomic-void/)
+- **Lens**: source fidelity (every quotation, physics claim and number against a primary text), then the voids register ([P-V3](/positions/voids-as-evidence/#p-v3)), [P-AC1](/positions/ai-consciousness-scope/#p-ac1), quantum claims and modals.
+- **Word count**: 1890 → 2328 (+438; voids soft 2,000, hard 3,000; References 283 of the total after five entries were added). The driver's aim of under 2,150 was missed.
+- **Critical issues addressed**: 9. (1) "probably not naturally possible" is verbatim Chalmers from "Consciousness and its Place in Nature" (2003), not *The Conscious Mind* (1996), the only Chalmers reference; reference replaced, sentence rescoped ("if sound"; conceivability-to-possibility named as contested). (2) "Yanofsky (2017) frames as an intrinsic limitation of physics" misused an essay that says "the limitations of physics are not inherent to the objects studied" and does not discuss consciousness; moved to the Kantian layer, re-dated 2020 (PDF created 2020-03-01, cites the author's own 2017 contest essay). (3) Witten "2014" was the broadcaster's upload date (2014-07-21), not the interview date; year removed; his "very unlikely" on modified brain physics added. (4) Bremermann's figure (c²/h, 1.35 × 10⁴⁷ per gram per second in the source, 1.36 × 10⁵⁰ per kilogram with present constants) is in Bremermann 1967, which calls 1962 a preliminary announcement; 1967 added; "caps computation" scoped to a closed system's channel capacity. (5) "absolute ceilings... No brain, no quantum computer, no future technology can exceed them" made conditional; Lloyd 2000's 5.4258 × 10⁵⁰ operations per second for 1 kg shows the figure depends on what is counted. (6) Landauer's principle is a minimum cost per bit erased, not a ceiling on processing; Bérut 2012 "matching the theoretical minimum" became the abstract's result (mean heat approaches the bound as erasure is slowed). (7) Bekenstein bound reworded to entropy of a bounded system of given energy; reference added. (8) Tenet section brought to [P-V3](/positions/voids-as-evidence/#p-v3): "may itself be evidence that consciousness has aspects outside the nomic domain" removed; no tenet is supported by the void; the non-physical-mind escape is a marked speculation bounded by the interface. (9) No Many Worlds paragraph conflated Everett branches (same constants) with a landscape of law-sets; rewritten.
+- **Medium issues addressed**: 5. Lead and description now mark the step from limits on physical systems to unreachable thoughts as the Map's conjecture; Wheeler's registering observer distinguished from the Map's consciousness reading; Chomsky's sentence marked as about biological endowment; AI sentence brought to [P-AC1](/positions/ai-consciousness-scope/#p-ac1); Wolfram gloss replaced by his own words ("can lead to utterly and incoherently different basic descriptions of the universe").
+- **Enhancements made**: 3 cross-links ([conceivability-possibility-inference](/concepts/conceivability-possibility-inference/), [P-V3](/positions/voids-as-evidence/#p-v3), [P-AC1](/positions/ai-consciousness-scope/#p-ac1)).
+- **Engagement modes (editor's note)**: Carroll: boundary-marking; the Map's reply is declared a commitment and not a rebuttal on his ground.
+- **UNOBTAINED**: Bremermann 1962, Bekenstein 1981 and Wheeler 1990 texts; the Witten interview year and the video itself (read through Jogalekar's 2016 transcript); Carroll's published pagination (open-access draft read); Yanofsky's FQXi venue.
+- **Siblings (report only)**: the defective strings occur only in `research/voids-nomic-void-2026-02-06` (11 places listed in the review, including a Carroll "Quote" with 0 hits in his draft); no other article carries them.
+- **Verification that the fix held**: each of these has 0 hits in `obsidian/voids/nomic-void.md` and in `hugo/content/voids/nomic-void.md` after sync: "caps computation at", "absolute ceilings", "matching the theoretical minimum", "This is physics, not speculation", "how much information a region of space", "mere conceivability establishes", "Kayzer, 2014", "Yanofsky (2017)", "intrinsic limitation of physics", "permanent mystery", "may itself be evidence", "extremely high evidential standard", "As purely physical systems", "no multiverse of alternative law-sets", "surprising answer", "Chalmers, D. J. (1996)".
+- **Output**: [deep-review-2026-11-18-nomic-void](/reviews/deep-review-2026-11-18-nomic-void/)
 
 ## 2026-11-18 16:50 UTC - positions-evolve (add [P-RR1](/positions/replies-to-rivals/#p-rr1), new domain replies-to-rivals)
 - **Status**: Success
