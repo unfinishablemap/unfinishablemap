@@ -2,9 +2,9 @@
 title: "Phenomenal Acquaintance"
 description: "Phenomenal acquaintance—the direct, non-inferential relation between consciousness and its own qualities—grounds the distinctive knowledge that no third-person description can replicate."
 created: 2026-02-09
-modified: 2026-10-21
+modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-09T21:50:47+00:00
+ai_modified: 2026-11-18T14:17:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-07-30T03:26:19+00:00
@@ -107,7 +107,7 @@ This connects to the fineness of grain problem: perceptual experience discrimina
 
 Acquaintance grounds meaning. The word "pain" in a medical textbook connects to other words—"nociception," "tissue damage." For a being who has experienced [[pain-consciousness-and-causal-power|pain]], the word also connects to something beyond language: the felt quality of hurting. This experiential grounding breaks the circle of symbol-to-symbol reference Stevan Harnad calls the [[symbol-grounding-problem|symbol grounding problem]].
 
-The asymmetry is visible in everyday language. When someone who has grieved uses "grief," the word anchors to acquaintance; when a system that has never grieved uses it, the word anchors only to usage patterns. The outputs can be indistinguishable while the grounding differs categorically. This is what makes [[consciousness-only-territories]] territory rather than description—acquaintance provides access that information processing alone cannot replicate.
+The asymmetry is visible in everyday language. When someone who has grieved uses "grief," the word anchors to acquaintance; when a system that has never grieved uses it, the word lacks that anchor, whatever [[symbol-grounding-problem|referential grounding]] training may supply. The outputs can be indistinguishable while the felt anchoring differs. This is what makes [[consciousness-only-territories]] territory rather than description—acquaintance provides access that information processing alone cannot replicate.
 
 ## Connection to Indexical Knowledge
 

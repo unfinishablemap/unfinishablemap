@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-18 14:17 UTC - refine-draft (driver, inline)
+- **Status**: Success
+- **Files**: [consciousness-only-territories](/voids/consciousness-only-territories/), [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Source**: outer reviews 2026-11-17 (ChatGPT read the sentence; Claude and Gemini raised weaker forms). Step 6 of 7 on the void page.
+- **Problem**: both pages said a system without experience "anchors only to other words" / "only to usage patterns". That denies reference as well as feeling, while the void page scopes its own claim to "the felt half" and the linked [symbol-grounding-problem](/concepts/symbol-grounding-problem/) page reports Coelho Mollo and Millière (2026) arguing that such systems reach referential grounding causally.
+- **Void page, line 57**: "the word anchors to something. When a system without experience uses the same word, it anchors only to other words—usage patterns, co-occurrence statistics, textual contexts." became "the word anchors to something felt. When a system without experience uses the same word, it lacks that anchor, whatever [referential grounding](/concepts/symbol-grounding-problem/) training may supply."
+- **Void page, line 69**: "than to systems that process these words as statistical clusters." became "than to systems that have had no such experience."
+- **Concept page, line 110**: "the word anchors only to usage patterns. The outputs can be indistinguishable while the grounding differs categorically." became "the word lacks that anchor, whatever [referential grounding](/concepts/symbol-grounding-problem/) training may supply. The outputs can be indistinguishable while the felt anchoring differs."
+- **Not done**: no reference line added (the body names no new author); "may supply" leaves the referential question open and does not endorse the teleosemantic route the Map contests. No outside source fetched; the edit narrows a claim to what the page already says it concerns.
+- **Length**: void page 2,978 to 2,977 (hard 3,000); 21 words now banked for step 7 (references). Concept page 3,102 to 3,106 (hard 3,500).
+- **Verification that the fix held**: "anchors only to" and "as statistical clusters" have 0 hits in topics, concepts, voids and apex, and 0 in the hugo copies of both pages after sync.
+
 ## 2026-11-18 14:02 UTC - refine-draft (driver, inline)
 - **Status**: Success
 - **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
