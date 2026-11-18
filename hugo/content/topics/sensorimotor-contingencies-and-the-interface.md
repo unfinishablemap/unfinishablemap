@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-10-15 13:51:05+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-11-18 22:07:22+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[embodied-cognition]]'
@@ -13,7 +13,7 @@ concepts:
 - '[[brain-interface-boundary]]'
 - '[[mysterianism]]'
 created: 2026-02-15
-date: &id001 2026-02-18
+date: &id001 2026-11-18
 description: Perception depends on lawful patterns between movement and sensation.
   These sensorimotor contingencies map the interface through which consciousness engages
   the physical world.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-07 22:25:38+00:00
-lastmod: 2026-10-15 13:51:05+00:00
+lastmod: 2026-11-18 22:07:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ O'Regan and Noë identify two main levels of contingency:
 
 ## Merleau-Ponty's Body-Subject
 
-Sensorimotor contingency theory has deep roots in Merleau-Ponty's phenomenology of the *corps propre* — the body-subject. Building on Husserl's distinction between the body as experienced from within (*Leib*) and the body as observed from without (*Körper*) — a distinction developed phenomenologically in the Map's [treatment of embodied experience](/topics/embodied-consciousness/) — Merleau-Ponty argued that the body-subject is neither a physical object among objects nor a disembodied mind directing a mechanism. It is the medium of engagement with the world, experienced as a field of capacities — what Merleau-Ponty called the "I can" that precedes the "I think."
+Sensorimotor contingency theory has deep roots in Merleau-Ponty's phenomenology of the *corps propre* — the body-subject. Building on Husserl's distinction between the body as experienced from within (*Leib*) and the body as observed from without (*Körper*) — a distinction developed phenomenologically in the Map's [treatment of embodied experience](/topics/embodied-consciousness/) — Merleau-Ponty argued that the body-subject is neither a physical object among objects nor a disembodied mind directing a mechanism. It is the medium of engagement with the world, experienced as a field of capacities — an "I can" rather than an "I think," a phrase taken from Husserl.
 
 The body schema illustrates this. An experienced driver does not represent the car's dimensions explicitly; the car's boundaries become part of the driver's felt sense of spatial capacity. A blind person's cane is not a perceived object but an extension of tactile reach. Tool incorporation — the body schema expanding to encompass instruments — reveals that the interface between consciousness and world is not fixed at the skin but plastic, extending and contracting with skill and equipment.
 

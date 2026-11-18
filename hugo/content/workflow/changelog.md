@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18 21:43:07+00:00
+ai_modified: 2026-11-18 22:06:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-18'
-lastmod: 2026-11-18 21:43:07+00:00
+lastmod: 2026-11-18 22:06:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-18 22:07 UTC - refine-draft (driver, inline follow-up)
+- **Status**: Success
+- **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Change**: one phrase at line 51. 'what Merleau-Ponty called the "I can" that precedes the "I think."' became 'an "I can" rather than an "I think," a phrase taken from Husserl.' The 2026-11-18 review of the embodiment void read the encyclopedia entry on Merleau-Ponty (Toadvine 2023): the contrast is "rather than", and the phrase is taken from Husserl; Merleau-Ponty's own text was not obtained, so the page no longer says he "called" it that. Two words longer. Another open task owns lines 107 and 109 of this page; those are untouched.
+- **Verification that the fix held**: "what Merleau-Ponty called" has 0 hits in the obsidian and hugo copies after sync.
+
+## 2026-11-18 22:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [acquaintance-void](/voids/acquaintance-void/) (edited); research notes annotated, not rewritten: `research/voids-embodiment-cognitive-limits-2026-01-28`, `research/voids-pre-conceptual-knowing-2026-01-27`, `research/embodied-cognition-extended-mind-2026-01-14`
+- **Original score**: n/a (`scripts/curate.py` is absent; targeted attribution fix from [deep-review-2026-11-18-embodiment-cognitive-limits](/reviews/deep-review-2026-11-18-embodiment-cognitive-limits/))
+- **Word count** (`analyze_length`): 2,468 → 2,468 (net zero; voids hard 3,000, gate at >=)
+- **Part 1, change 1** (Prereflective Bodily Awareness). OLD: "Sartre's pre-reflective self-consciousness, Merleau-Ponty's lived body (Leib) versus objectified body (Körper), Heidegger's circumspection." NEW: "Sartre's pre-reflective self-consciousness; Husserl's body as subjectively lived (*Leib*) versus body as an object among others (*Körper*), [a distinction](/concepts/lived-objectified-body-distinction/) Merleau-Ponty built on; Heidegger's circumspection."
+- **Part 1, change 2**. OLD: "This is the "I can" rather than the "I know" — a field of potentiality, not a representation. Acquaintance includes the body's contact with its own capacity." NEW: "In Toadvine's (2023) summary of Merleau-Ponty, the body's relation to space is intentional as an "I can" rather than an "I think", a phrase taken from Husserl. The Map's own gloss: a field of potentiality, not a representation, in which acquaintance includes the body's contact with its own capacity." Wording matches `voids/embodiment-cognitive-limits` as corrected today; Merleau-Ponty's own text was not obtained and no words are credited to him; the acquaintance reading is marked as the Map's
+- **Part 1, change 3** (References). OLD: "9. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Routledge." NEW: "9. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Trans. C. Smith, Routledge & Kegan Paul, 1962." ADDED: "14. Toadvine, T. (2023). "Maurice Merleau-Ponty." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/merleau-ponty/"
+- **Part 1, offsets** (42 words): five Further Reading entries already linked in the body removed (`embodied-cognition`, `phenomenal-acquaintance`, `voids-between-minds`, `apophatic-cartography`, `intrinsic-nature-void`); two glosses shortened ("between temporal stages" → "between stages"; "certifying it as novel does not" → "certifying it does not"); the editor's parenthesis in the Chalmers reference compressed to "(released 2006; 2007 is the imprint year of record)". No body sentence other than the two above was touched
+- **Inherited note overridden**: the 2026-07-06 review's Stability Note "Leib/Körper shorthand (standard, not a misattribution)" is superseded by the 2026-11-18 source reading (Zahavi's SEP entry: "A central distinction introduced by Husserl")
+- **Part 2, `voids-embodiment-cognitive-limits-2026-01-28`**: correction block under the title (what was checked, whose attributions to re-check, the Morey et al. 18-lab failure to replicate the action-sentence compatibility effect, N = 1,278, placed in the block because the note has no passage on action-language effects, and the not-obtained list) plus 9 inline notes: "deeply dependent upon features of the physical body of an agent" (0 hits in the current 2021 SEP entry; earlier entry not obtained); *Leib*/*Körper* and "I can" not "I know" (Husserl's pair; Toadvine has "I think"); "Merleau-Ponty concluded that bodily engagement ..." (0 hits in the SEP entry); "ultimate grounding" (0 hits in Barsalou 2020); "amodal symbols could not bear meaning ..." (0 hits); "To be conscious, you need to have a subject of consciousness ..." (absent from the Harvard Medicine article as it stands and from Craig's abstract); the Seth quotation and the "presumptuous" quotation (0 hits each in Porębski & Figura); reference 17 (Routledge is the 1962 Smith translation)
+- **Part 2, `voids-pre-conceptual-knowing-2026-01-27`**: short block plus 2 inline notes: "I can" not "I know" (Toadvine has "I think", "after Husserl"; the entry the section cites was not obtained); reference 13 (Routledge, 1945 → 1962 Smith translation)
+- **Part 2, `embodied-cognition-extended-mind-2026-01-14`**: short block plus 1 inline note: "deeply dependent upon features of the physical body of an agent" (0 hits in the current SEP entry; earlier entry not obtained)
+- **Fidelity of the annotation**: for each note, stripping the block and the bracketed notes reproduces the committed body exactly
+- **Engagement classification**: none; the page replies to no named opponent in the edited passage
+- **Verification that the fix held**: "Merleau-Ponty's lived body", "rather than the "I know"" and "*Phenomenology of Perception*. Routledge." each 0 hits in the obsidian and hugo copies of `voids/acquaintance-void` after sync (positive control "Husserl's body as subjectively lived" 1 hit in each)
+- **Reported, not edited**: `topics/sensorimotor-contingencies-and-the-interface` L51 credits the phrase to Merleau-Ponty ("what Merleau-Ponty called the "I can" that precedes the "I think.""); no other page in topics, concepts, voids or apex credits *Leib*/*Körper* to Merleau-Ponty or pairs "I can" with "I know". Unlisted in the review and left unannotated: the embodiment note's SEP quotation "Cognition is not purely or even typically ...", its Lakoff quotation credited to both Wikipedia and the Aeon essay, and the extended-mind note's "minds are not for thinking ... but for doing"
+- **Published**: yes
 
 ## 2026-11-18 21:43 UTC - deep-review
 - **Status**: Success

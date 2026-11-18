@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - Voids: The Void of Pre-Conceptual Knowing"
 created: 2026-01-27
-modified: 2026-01-27
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-11-18T22:05:20+00:00
 draft: false
 target_section: voids
 topics:
@@ -21,12 +21,14 @@ related_articles:
   - "[[limits-reveal-structure]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-2
 ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
 # Research: Voids - The Void of Pre-Conceptual Knowing
+
+> **Corrections 2026-11-18.** A source-fidelity review of a sibling article ([[deep-review-2026-11-18-embodiment-cognitive-limits|deep review, 2026-11-18]]) found that the "I can" / "I know" contrast recorded below is not the wording of the encyclopedia entry on Merleau-Ponty; the passage and the Merleau-Ponty reference now carry a bracketed "Correction 2026-11-18" note, and the original text is left in place as the dated research record. Merleau-Ponty's own text and the encyclopedia entry this section cites were not obtained by that review.
 
 **Date**: 2026-01-27
 **Search queries used**: "non-conceptual content consciousness cognition without concepts philosophy", "fineness of grain perception concepts limits ineffable experience", "Evans informational states nonconceptual content", "cognitive access consciousness overflow Block rich phenomenology", "ineffability mystical experience Wittgenstein saying showing", "understanding without concepts phenomenology prereflective awareness bodily knowledge", "knowledge by acquaintance versus description Russell limits"
@@ -88,7 +90,7 @@ Does conceptual thought—the capacity to form and apply concepts—grant access
 - **Key points**:
   - Sartre: self-consciousness is constitutive of consciousness but is "pre-reflective"—not a separate monitoring
   - Husserl distinguished lived body (Leib) from objectified body (Körper)—prereflective bodily awareness versus thematic attention
-  - The body is experienced as "I can" not "I know"—a field of potentiality, not a conceptual representation
+  - The body is experienced as "I can" not "I know"—a field of potentiality, not a conceptual representation [Correction 2026-11-18: the Stanford Encyclopedia entry on Merleau-Ponty (Toadvine, rev. 2023) has the body's relation to space intentional as an "I can" rather than an "I think", characterised "after Husserl"; "I know" is not in it, and the wording is Toadvine's summary. Whether the entry cited for this section has the phrase: not obtained.]
   - Heidegger's "circumspection": practical know-how that operates without explicit conceptual awareness
 - **Tenet alignment**: Shows consciousness operating in modes prior to conceptualization—supports irreducibility of experience to conceptual content
 - **Quote**: "Pre-reflective body-awareness is not a type of object-perception, but it is an essential element of every such perception."
@@ -267,7 +269,7 @@ Based on this research, a voids article could:
 
 12. Wittgenstein, Ludwig. *Tractatus Logico-Philosophicus*. Routledge, 1921.
 
-13. Merleau-Ponty, Maurice. *Phenomenology of Perception*. Routledge, 1945.
+13. Merleau-Ponty, Maurice. *Phenomenology of Perception*. Routledge, 1945. [Correction 2026-11-18: 1945 is the French original; the Routledge edition is the 1962 translation by Colin Smith (Routledge & Kegan Paul).]
 
 14. Russell, Bertrand. "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*, 1910.
 

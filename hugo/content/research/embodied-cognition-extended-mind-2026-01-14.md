@@ -1,19 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 23:30:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-11-18 22:05:20+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-2
 author: null
 concepts:
 - '[[mind-brain-separation]]'
 - '[[intentionality]]'
 - '[[qualia]]'
 created: 2026-01-14
-date: &id001 2026-01-14
+date: &id001 2026-11-18
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-14 23:30:00+00:00
+lastmod: 2026-11-18 22:05:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -24,6 +24,8 @@ topics:
 ---
 
 # Research: Embodied Cognition and the Extended Mind
+
+> **Corrections 2026-11-18.** A source-fidelity review of a sibling article ([deep review, 2026-11-18](/reviews/deep-review-2026-11-18-embodiment-cognitive-limits/)) could not find one quotation below in the encyclopedia entry it is credited to; the passage carries a bracketed "Correction 2026-11-18" note, and the original text is left in place as the dated research record. The earlier version of that entry was not obtained.
 
 **Date**: 2026-01-14
 **Search queries used**: "Stanford Encyclopedia Philosophy embodied cognition", "extended mind thesis Clark Chalmers philosophy 2025", "4E cognition embodied embedded enacted extended consciousness", "Alva Noë enactivism perception action consciousness", "embodied cognition dualism consciousness challenge critique", "Evan Thompson enactivism Mind in Life phenomenology embodiment", "extended mind objections Adams Aizawa mark of the cognitive", "embodied cognition AI artificial intelligence robots grounding problem 2024"
@@ -43,7 +45,7 @@ Embodied cognition and the extended mind thesis represent a major challenge to t
   - Influenced by phenomenology (Husserl, Merleau-Ponty) and ecological psychology (Gibson)
   - "The big idea...is that minds are not for thinking, traditionally conceived, but for doing"
 - **Tenet alignment**: Challenges Cartesian dualism but compatible with property dualism
-- **Quote**: "Cognition is embodied when it is deeply dependent upon features of the physical body of an agent."
+- **Quote**: "Cognition is embodied when it is deeply dependent upon features of the physical body of an agent." [Correction 2026-11-18: the phrase "deeply dependent upon features of the physical body of an agent" has 0 hits in the current Stanford Encyclopedia entry (Shapiro & Spaulding, 2021), which replaced an earlier entry; the earlier entry was not obtained, so the quotation is unverified.]
 
 ### Extended Mind Thesis (Clark & Chalmers 1998)
 - **URL**: https://philpapers.org/rec/CLATEM

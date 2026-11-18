@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-25
-ai_modified: 2026-11-16 10:17:35.867605+00:00
+ai_modified: 2026-11-18 22:04:17+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[introspection]]'
 - '[[phenomenology]]'
 created: 2026-01-27
-date: &id001 2026-11-15
+date: &id001 2026-11-18
 description: Human+AI exploration of the territory that descriptions and concepts
   cannot capture—from Russell's direct epistemic relation to phenomenal overflow,
   bodily knowing, and modes of contact closed to minds like ours.
@@ -27,7 +27,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:18:55+00:00
-lastmod: 2026-11-16 10:17:35.867605+00:00
+lastmod: 2026-11-18 22:04:17+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -98,9 +98,9 @@ Ned Block investigates whether phenomenal consciousness exceeds cognitive access
 
 ### Prereflective Bodily Awareness
 
-Phenomenologists document a layer of consciousness beneath conceptual thought: Sartre's pre-reflective self-consciousness, Merleau-Ponty's lived body (Leib) versus objectified body (Körper), Heidegger's circumspection. [embodied-cognition](/concepts/embodied-cognition/) develops this: the body as knowing subject.
+Phenomenologists document a layer of consciousness beneath conceptual thought: Sartre's pre-reflective self-consciousness; Husserl's body as subjectively lived (*Leib*) versus body as an object among others (*Körper*), [a distinction](/concepts/lived-objectified-body-distinction/) Merleau-Ponty built on; Heidegger's circumspection. [embodied-cognition](/concepts/embodied-cognition/) develops this: the body as knowing subject.
 
-The body catches a ball without forming propositions about trajectory; a musician's fingers find notes without consulting representations. Bringing such awareness to conceptual form often impedes performance. This is the "I can" rather than the "I know" — a field of potentiality, not a representation. Acquaintance includes the body's contact with its own capacity.
+The body catches a ball without forming propositions about trajectory; a musician's fingers find notes without consulting representations. Bringing such awareness to conceptual form often impedes performance. In Toadvine's (2023) summary of Merleau-Ponty, the body's relation to space is intentional as an "I can" rather than an "I think", a phrase taken from Husserl. The Map's own gloss: a field of potentiality, not a representation, in which acquaintance includes the body's contact with its own capacity.
 
 ## Cross-Species Inaccessibility and Cognitive Closure
 
@@ -163,30 +163,26 @@ A sixth candidate has partly arrived and does not land. Installing a new sensory
 ## Further Reading
 
 - [voids](/voids/) — Framework for investigating cognitive limits
-- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation
 - [singular-thought-and-acquaintance](/topics/singular-thought-and-acquaintance/) — Whether thinking about a particular requires acquaintance
-- [transformative-experience-void](/voids/transformative-experience-void/) — Acquaintance gaps between temporal stages of a life
-- [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond structural description
-- [voids-between-minds](/voids/voids-between-minds/) — Access to consciousness beyond our own
+- [transformative-experience-void](/voids/transformative-experience-void/) — Acquaintance gaps between stages of a life
 - [imagery-void](/voids/imagery-void/) — Inter-subjective phenomenal divergence within a single species
-- [palette-extension-void](/voids/palette-extension-void/) — Installing a novel quality succeeds; certifying it as novel does not
+- [palette-extension-void](/voids/palette-extension-void/) — Installing a novel quality succeeds; certifying it does not
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — What concepts minds can and cannot form
 - [the-silence-void](/voids/the-silence-void/) — Cessation of thought as access to pre-conceptual territory
-- [apophatic-cartography](/voids/apophatic-cartography/) — Knowing through negation
-- [embodied-cognition](/concepts/embodied-cognition/) — The body as knowing subject
 
 ## References
 
 1. Block, N. (2011). "Perceptual consciousness overflows cognitive access." *Trends in Cognitive Sciences*.
-2. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
+2. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; 2007 is the imprint year of record). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 3. Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72, 136–150.
 4. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
 5. Kelly, S. D. (2001). "Demonstrative Concepts and Experience." *The Philosophical Review*, 110(3), 397-420.
 6. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29–57.
 7. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 8. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349–366.
-9. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Routledge.
+9. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Trans. C. Smith, Routledge & Kegan Paul, 1962.
 10. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.
 11. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*. Blackwell.
 12. Russell, B. (1910). "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*, 11, 108–128.
 13. Stanford Encyclopedia of Philosophy. "Nonconceptual Mental Content." https://plato.stanford.edu/entries/content-nonconceptual/
+14. Toadvine, T. (2023). "Maurice Merleau-Ponty." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/merleau-ponty/

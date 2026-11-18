@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - Voids: Embodiment and Cognitive Limits"
 created: 2026-01-28
-modified: 2026-01-28
+modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-01-28T22:15:00+00:00
+ai_modified: 2026-11-18T22:05:20+00:00
 draft: false
 target_section: voids
 topics:
@@ -22,12 +22,14 @@ related_articles:
   - "[[intrinsic-nature-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-2
 ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
 # Research: Voids - Embodiment and Cognitive Limits
+
+> **Corrections 2026-11-18.** A source-fidelity review of the article built from this note ([[deep-review-2026-11-18-embodiment-cognitive-limits|deep review, 2026-11-18]]) read its quotations and attributions at source and found several quotation-marked strings absent from the sources they are credited to; the affected passages now carry a bracketed "Correction 2026-11-18" note stating what the check found. The original text is left in place as the dated research record: read the bracketed notes before reusing anything here attributed to Merleau-Ponty, Husserl, Barsalou (the *Journal of Cognition* article), Craig, the *Harvard Medicine* article, Seth, or the Stanford Encyclopedia entries. The same review read Morey et al. (*Psychonomic Bulletin & Review* 29(2): 613–626; online 2021) at full text: the action-sentence compatibility effect, one of the best-known findings of the sensorimotor-simulation programme this note draws on, failed a preregistered 18-lab replication (N = 1,278 after exclusions; "none of the 18 labs ... observed a reliable ACE"). Not obtained by that review, and so asserted nowhere in these notes: Lakoff & Johnson 1980 and 1999, Merleau-Ponty's own text in any translation, Milner & Goodale 1995, Varela, Thompson & Rosch 1991, and the full texts of Craig, Seth, Pisella and the Núñez papers.
 
 **Date**: 2026-01-28
 **Search queries used**:
@@ -54,7 +56,7 @@ Does being embodied create cognitive limits—or does it enable cognition in the
 - **URL**: https://plato.stanford.edu/entries/embodied-cognition/
 - **Type**: Encyclopedia
 - **Key points**:
-  - Cognition is "deeply dependent upon features of the physical body of an agent"
+  - Cognition is "deeply dependent upon features of the physical body of an agent" [Correction 2026-11-18: this wording has 0 hits in the current Stanford Encyclopedia entry (Shapiro & Spaulding, 2021), which replaced an earlier entry; the earlier entry was not obtained, so the quotation is unverified.]
   - Three distinctive functions for the body: constraint on cognition, distributor of processing, real-time regulator
   - Phenomenologists (Husserl, Heidegger, Merleau-Ponty) inspired the thesis by emphasizing aspects of experience that cannot be explained by computation on inner symbols
   - The 4E cognition model: embodied, embedded, extended, enactive
@@ -79,9 +81,9 @@ Does being embodied create cognitive limits—or does it enable cognition in the
   - The body schema is a pre-reflective, sub-personal structure that organizes perception and action
   - Motor intentionality differs from cognitive intentionality—the body "knows" how to act without explicit representation
   - Habit demonstrates body knowledge that cannot be reduced to neurological processes or explicit rules
-  - The lived body (Leib) differs from the objectified body (Körper)—we experience our bodies as "I can" not "I know"
+  - The lived body (Leib) differs from the objectified body (Körper)—we experience our bodies as "I can" not "I know" [Correction 2026-11-18: two errors. The German pair *Leib*/*Körper* is Husserl's (Zahavi's Stanford Encyclopedia entry on Husserl calls it "a central distinction introduced by Husserl"); Merleau-Ponty built on it, and the entry credited here uses neither term. The contrast in that entry (Toadvine, rev. 2023) is an "I can" rather than an "I think", characterised "after Husserl"; that is Toadvine's summary, and "I know" is not in it. Merleau-Ponty's own text: not obtained.]
 - **Tenet alignment**: Supports Bidirectional Interaction—consciousness operates through the body in ways that exceed cognitive access
-- **Quote**: "Merleau-Ponty concluded that bodily engagement with the world is more basic than deliberation about it: not as a way of privileging the physical over the mental, but as a description of what it's like to move through the world, mind and body working as one."
+- **Quote**: "Merleau-Ponty concluded that bodily engagement with the world is more basic than deliberation about it: not as a way of privileging the physical over the mental, but as a description of what it's like to move through the world, mind and body working as one." [Correction 2026-11-18: this quotation has 0 hits in the Stanford Encyclopedia entry on Merleau-Ponty it is credited to; its source is unidentified.]
 
 ### The Symbol Grounding Problem
 - **URL**: https://journalofcognition.org/articles/10.5334/joc.116
@@ -90,9 +92,9 @@ Does being embodied create cognitive limits—or does it enable cognition in the
   - Harnad (1990): How can symbols bear meaning intrinsically rather than parasitically?
   - Amodal symbols cannot bear meaning without attachment to physical experience
   - The grounded cognition approach: cognition emerges from interaction between cognitive processes, modalities, body, and environment
-  - Abstract concepts require "ultimate grounding" in sensorimotor experience, even when mediated through language
+  - Abstract concepts require "ultimate grounding" in sensorimotor experience, even when mediated through language [Correction 2026-11-18: the article at this URL is Barsalou (2020), "Grounding Cognition"; its full text has 0 hits for "ultimate grounding" ("ultimately" occurs once, unrelated). Barsalou says the body "offers only one form of grounding".]
 - **Tenet alignment**: Suggests a void for disembodied minds—without sensorimotor grounding, meaning may be impossible
-- **Quote**: "The symbol grounding problem points out that amodal symbols could not bear meaning if they were not attached to physical experiences."
+- **Quote**: "The symbol grounding problem points out that amodal symbols could not bear meaning if they were not attached to physical experiences." [Correction 2026-11-18: 0 hits for this sentence in the full text of the *Journal of Cognition* article (Barsalou 2020); not a quotation from it.]
 
 ### Interoception and Consciousness
 - **URL**: https://magazine.hms.harvard.edu/articles/making-sense-interoception
@@ -100,7 +102,7 @@ Does being embodied create cognitive limits—or does it enable cognition in the
 - **Key points**:
   - Interoception—perceiving internal bodily states—is central to thoughts, emotions, decision-making, and sense of self
   - Cardiac interoception (heartbeat awareness) correlates with emotional intensity and recognition of emotions in others
-  - "To be conscious, you need to have a subject of consciousness, and interoception... may help our brains unite incoming information into a singular point of view"
+  - "To be conscious, you need to have a subject of consciousness, and interoception... may help our brains unite incoming information into a singular point of view" [Correction 2026-11-18: absent from the *Harvard Medicine* article as it stands today (0 hits for "singular", "unite", "point of view", "subject of consciousness"; "interoception" present as a control) and absent from the abstract of Craig (2009), to which the article built from this note later credited it. Do not reuse as a quotation or cite it to Craig; Craig's full text: not obtained.]
   - Disorders of interoception correlate with anxiety, depression, and dissociation
 - **Tenet alignment**: Strongly supports embodied consciousness—the subjective viewpoint may require internal body signals
 - **Quote**: "Interoception—the ability to perceive the internal state of our bodies—is central to our thoughts, emotions, decision-making, and sense of self."
@@ -132,11 +134,11 @@ Does being embodied create cognitive limits—or does it enable cognition in the
 - **Type**: Academic article
 - **Key points**:
   - Arguments that AI without embodiment cannot be conscious
-  - Anil Seth: "Intelligence is not the same thing as consciousness"—biology may matter
+  - Anil Seth: "Intelligence is not the same thing as consciousness"—biology may matter [Correction 2026-11-18: 0 hits for this quotation in the article at this URL (Porębski & Figura), whose own thesis is the flat "There is no such thing as conscious AI"; where Seth said it was not established.]
   - AI might achieve greater intelligence by forgoing consciousness (Susan Schneider)
   - The role of metabolism, autopoiesis, and biological processes in consciousness remains unclear
 - **Tenet alignment**: If consciousness requires embodiment, this constrains what kinds of minds can exist—a structural limit, not merely technological
-- **Quote**: "Biological systems are rife with continuous and stochastic dynamics, and they are deeply embedded in physical time. It seems presumptuous to assume that only Turing computations matter for consciousness."
+- **Quote**: "Biological systems are rife with continuous and stochastic dynamics, and they are deeply embedded in physical time. It seems presumptuous to assume that only Turing computations matter for consciousness." [Correction 2026-11-18: 0 hits for this quotation in the Porębski & Figura article it is credited to; its source is unidentified.]
 
 ## The Void
 
@@ -328,7 +330,7 @@ Based on this research, a voids article could:
 
 16. Lakoff, G., & Johnson, M. (1999). *Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought*. Basic Books.
 
-17. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Routledge.
+17. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Routledge. [Correction 2026-11-18: 1945 is the French original; the Routledge edition is the 1962 translation by Colin Smith (Routledge & Kegan Paul).]
 
 18. Harnad, S. (1990). "The Symbol Grounding Problem." *Physica D*, 42, 335-346.
 
