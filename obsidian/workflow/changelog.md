@@ -1,9 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18T17:29:55+00:00
+ai_modified: 2026-11-18T17:51:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-18 17:51 UTC - refine-draft (annotate research note behind voids/nomic-void)
+- **Status**: Success
+- **File**: [[research/voids-nomic-void-2026-02-06]]
+- **Original score**: not scored (`scripts/curate.py` is absent; the task was a source-fidelity annotation, not a quality pass)
+- **Method**: annotate, do not rewrite. Every original sentence is left in place (checked: stripping the block and the bracketed notes reproduces the committed text except three frontmatter lines). Corrections were taken from the ledger and "Siblings — report only" list of [[reviews/deep-review-2026-11-18-nomic-void]]; source wording is quoted only where that ledger gives it as verbatim with a route, and items it marks UNOBTAINED are stated as not obtained. Form copied from `research/voids-conceptual-impossibility-2026-01-23`.
+- **Correction block (under the title)**:
+  > **Corrections 2026-11-18.** A source-fidelity review of the article built from this note ([[deep-review-2026-11-18-nomic-void|deep review, 2026-11-18]]) checked its quotations, attributions and physical figures at source and found several wrong or taken from secondary pages (Wikipedia, SEP, a blog); the affected passages now carry a bracketed "Correction 2026-11-18" note stating what the check found. The original text is left in place as the dated research record: read the bracketed notes before reusing anything here attributed to Carroll, Yanofsky, Witten, Wolfram, Chalmers, Chomsky or Wheeler, or any statement about Bremermann's limit, Landauer's principle or the Bekenstein bound. Not obtained by that review, and so asserted nowhere in the notes: the texts of Bremermann 1962, Bekenstein 1981 and Wheeler 1990, the year of the Witten interview, and Yanofsky's FQXi venue.
+- **Inline notes added**: 26, each opening "[Correction 2026-11-18:". By line after insertion:
+  - L47 Yanofsky heading year and venue: PDF created 1 March 2020, cites the author's own 2017 FQXi entry as earlier work; venue unconfirmed.
+  - L53 Yanofsky alignment: the essay does not discuss consciousness; it says "the limitations of physics are not inherent to the objects studied".
+  - L61 Carroll "extremely high evidential standard": the note's wording; the draft says "held to a very high standard indeed".
+  - L63 Carroll "double-counting": 0 hits for "double" in the draft.
+  - L65 Carroll "Quote": 0 hits in the draft ("intact" 0 hits); nearest wording given.
+  - L71 Wolfram "ruliad": the word appears in the cited essay only in the site's sidebar.
+  - L72 Wolfram "may experience entirely different physics": not the essay's wording; his two phrasings given.
+  - L74 Wolfram bounded observer: the claim is conditional on "an observer who forms a coherent perception".
+  - L85 Chomsky: sentence verbatim; context is biological endowment, and "physical basis" plus the step to physical law are the Map's.
+  - L94 Witten date: 2016 dates Jogalekar's transcript; video posted 21 July 2014; interview year not obtained; "permanent mystery" is the note's phrase.
+  - L100 Witten "Supports Dualism": he thinks a change to the physics of the brain "very unlikely"; no endorsement of dualism.
+  - L115 Landauer/Bremermann URLs: both taken from Wikipedia.
+  - L119 Bremermann figure: proposition and constant are in Bremermann 1967; closed system, Shannon capacity.
+  - L120 "hard physics constraints": Landauer is a minimum cost per bit erased; Lloyd 2000 counts a different quantity.
+  - L133 Wheeler alignment: the step from registering observer to consciousness is the Map's; Wheeler 1990 text not obtained.
+  - L140 Chalmers sentence: verbatim, taken from SEP; it is in "Consciousness and its Place in Nature" (2003), not *The Conscious Mind*.
+  - L143 Chalmers alignment: overstated; the conclusion concerns entailment by the physical facts.
+  - L151 Layer 1 "absolute ceilings": too strong; Bekenstein checked at title level only; extrapolation to thoughts is the Map's.
+  - L157 Layer 4 "not nomologically necessary": not Chalmers's claim.
+  - L161 "verified at cryogenic temperatures": not in Bérut et al.'s abstract; their wording given; study missing from Citations.
+  - L184 "the space of all possible computations": not Wolfram's wording in the cited essay.
+  - L236 Citations, Yanofsky: 2020, venue unconfirmed.
+  - L237 Citations, Carroll: published details added (*JCS* 28(9–10), 16–31); draft read.
+  - L240 Citations, Witten: 2016 dates the transcript.
+  - L243 Citations, Bremermann 1962: the figure's source is Bremermann 1967, which calls the 1962 chapter "a preliminary announcement"; 1962 text not obtained; editors missing.
+  - L245 Citations, Chalmers 1996: the quoted sentence is in Chalmers 2003.
+- **Seen and left unannotated (the ledger does not check them)**: the Yanofsky "Quote" (L54), the Wolfram "alien intelligence" quotation (L73, L78), Witten's "I think consciousness will remain a mystery" against "I tend to believe that it will remain a mystery" (L96, L101), the Dualism and No Many Worlds implications (L210, L216; the review regraded the page's versions in its Changes, not its ledger), and McGinn 1989 in Citations with no use in the body.
+- **Frontmatter**: `modified`, `ai_modified` set; `ai_system` gains `+claude-fable-5-2`.
+- **Report only, Wheeler**: the void page's "registering apparatus rather than a mind" rests on `topics/wheelers-participatory-universe-and-it-from-bit` L154 (Wheeler 1983 quotation, also on `concepts/prebiotic-collapse` L72). Primary text UNOBTAINED again (publisher chapter page returned an empty challenge response; no open copy). The quotation matches the secondary of record, Nauenberg, arXiv:0705.1996, ref. [14], citing p. 196. No article edited.
+- **Published**: yes
 
 ## 2026-11-18 17:29 UTC - deep-review
 - **Status**: Success

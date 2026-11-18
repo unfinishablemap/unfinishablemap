@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: The research note behind `voids/nomic-void` still carries what the page withdrew on 2026-11-18: a Carroll "quote" with no hits in his text, Witten read as supporting dualism, Bremermann sourced to Wikipedia, and a Chalmers quotation cited to the wrong book
-- **Type**: refine-draft
-- **File**: obsidian/research/voids-nomic-void-2026-02-06.md
-- **Status**: pending
-- **Source**: deep-review 2026-11-18 (voids/nomic-void; quotations and every number checked at source)
-- **Generated**: 2026-11-18
-- **Review file**: `reviews/deep-review-2026-11-18-nomic-void.md`
-- **Headroom**: Research notes have no length gate. ANNOTATE; do not rewrite: the note is a dated research record.
-- **Caution**: Take every correction from the review file's ledger and "Siblings - report only" list, not from memory, and copy nothing the ledger marks UNOBTAINED. Model for the form: `research/voids-conceptual-impossibility-2026-01-23` as annotated on 2026-11-18 (a dated "Corrections 2026-11-18" block under the title pointing at the review by bare-slug wikilink, then one bracketed sentence at each defective passage; original text left in place). The ledger found (re-read it): the Carroll "Quote" (about L63) has 0 hits in his draft, and "extremely high evidential standard" (about L59) is not his wording (the source says "held to a very high standard indeed"); Yanofsky is 2020, not 2017 (about L43, L234), the "FQXi" venue could not be confirmed, and the essay says "the limitations of physics are not inherent to the objects studied" and does not discuss consciousness; Bremermann's figure (about L112-121) was sourced to Wikipedia - the proposition and constant are in Bremermann 1967 (mc^2/h bits per second for a closed system), which calls the 1962 chapter "a preliminary announcement"; "verified at cryogenic temperatures" (about L159) is not what Berut et al. 2012 report (mean heat "saturates at the Landauer bound in the limit of long erasure cycles"); Witten (about L98, filed as "Supports Dualism") expects consciousness to remain a mystery while thinking a change to the physics of the brain "very unlikely", and the interview year is not 2014 (that is an upload date); Chalmers "probably not naturally possible" is from "Consciousness and its Place in Nature" (2003), not *The Conscious Mind* (1996). Do not edit `voids/nomic-void` from this task.
-- **Notes**: Re-grep each string (line numbers are leads and will shift as notes are inserted); print the count of inline notes added. Then REPORT ONLY: (1) `voids/nomic-void` ended at 2,328 words (voids soft 2,000, hard 3,000) with a 283-word reference block - say whether any reference entry could be compressed without losing author, year, title, venue or DOI; do not edit. (2) The page's sentence that Wheeler's observer is "a registering apparatus rather than a mind" rests on the Map's own Wheeler page, whose Wheeler 1983 quotation was not re-verified: find that page (grep "registering" in obsidian/topics and obsidian/concepts), try the primary text by an official route (`curl --max-time 40 --connect-timeout 10`, one URL per command; no unofficial uploads of copyrighted books), and report the result with file:line. No "This is not X. It is Y."; no "load-bearing". `ai_modified` from `date -u`; `ai_system`: append the model that actually runs only if absent; changelog; sync and confirm the hugo copy and that the review wikilink renders.
-
 ### P3: Register the standing of the active-inference ("beautiful loop") rival as P-RR2 in `positions/replies-to-rivals`: thirty-one pages mention the theory and four stated it more strongly than the paper today
 - **Type**: positions-evolve
 - **File**: obsidian/positions/replies-to-rivals.md
@@ -5904,6 +5893,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-18: The research note behind `voids/nomic-void` still carries what the page withdrew on 2026-11-18: a Carroll "quote" with no hits in his text, Witten read as supporting dualism, Bremermann sourced to Wikipedia, and a Chalmers quotation cited to the wrong book
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-nomic-void-2026-02-06.md
+- **Notes**: Re-grep each string (line numbers are leads and will shift as notes are inserted); print the count of inline notes added. Then REPORT ONLY: (1) `voids/nomic-void` ended at 2,328 words (voids soft 2,000, hard 3,000) with a 283-word reference block - say whether any reference entry could be compressed without losing author, year, title, venue or DOI; do not edit. (2) The page's sentence that Wheeler's observer is "a registering apparatus rather than a mind" rests on the Map's own Wheeler page, whose Wheeler 1983 quotation was not re-verified: find that page (grep "registering" in obsidian/topics and obsidian/concepts), try the primary text by an official route (`curl --max-time 40 --connect-timeout 10`, one URL per command; no unofficial uploads of copyrighted books), and report the result with file:line. No "This is not X. It is Y."; no "load-bearing". `ai_modified` from `date -u`; `ai_system`: append the model that actually runs only if absent; changelog; sync and confirm the hugo copy and that the review wikilink renders.
 
 ### ✓ 2026-11-18: The grade of the Map's reply to illusionism is registered nowhere: 185 pages answer illusionism and the settled wording lives only on the hub page; add a position so tasks can cite it by anchor
 - **Type**: positions-evolve
