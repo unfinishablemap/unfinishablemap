@@ -5,6 +5,19 @@ ai_modified: 2026-11-18T06:43:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-18T08:26:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/origin-of-consciousness]]
+- **Word count**: 2,332 → 2,682 (+350; voids soft 2,000, hard 3,000)
+- **Critical issues addressed**: 10
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Source fidelity**: two "Chalmers" quotations were Wikipedia's ("Panpsychism") and the IEP's wording, 0 hits in "Facing Up" and in *The Conscious Mind*; replaced with his own words from "Facing Up". Schopenhauer "pent up" line is from *The Wisdom of Life* (Saunders trans.), on happiness, and was cited to *The World as Will and Representation*; kept as an image with its source stated. Both Harris quotations are in "The Mystery of Consciousness II", absent from the Part I essay cited. Leibniz's question is from *Principles of Nature and Grace* §7, cited to *Monadology*. A diagnosis attributed to Dennett was invented; his sentence now quoted. Nagel quoted with his refusal to conclude physicalism false. McGinn 1989 unobtained; nothing quoted from it.
+- **Calibration**: lead classes the void as a candidate for the unexplorable, argued and not established; the hard-problem/origin separation is marked as the Map's and contestable; tenet section rewritten at the P-V3 grade (no tenet supported; Dualism gains no evidence; others not engaged or illustrated only).
+- **Reply modes**: engagement with Dennett: Mode Three; with the physicalist on the hard/origin separation: Mode Three.
+- **Also edited**: [[research/voids-origin-of-consciousness-2026-01-29]] (dated corrections in place).
+- **Output**: [[reviews/deep-review-2026-11-18-origin-of-consciousness]]
+
 ## 2026-11-18T07:37:23+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/minimal-consciousness]]

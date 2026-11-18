@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-11-18 08:25:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-01-29
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-04-23 12:41:29+00:00
+lastmod: 2026-11-18 08:25:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -53,6 +53,7 @@ The hard problem of consciousness asks how physical processes produce subjective
 ### Sam Harris: The Mystery of Consciousness
 - **URL**: https://www.samharris.org/blog/the-mystery-of-consciousness
 - **Type**: Essay
+- *[Corrected 2026-11-18: the first key point ("illuminated by sentience") is in Part I (11 October 2011) at this URL. The "exceeded only by the mystery" and "brute fact that neglects to explain itself" passages are both in Part II, "The Mystery of Consciousness II" (19 October 2011), https://www.samharris.org/blog/the-mystery-of-consciousness-ii, and are absent from Part I. Harris's brute-fact line is tentative: the next sentence reads "Consciousness might represent a terminus of this sort." The Quote line below omits the closing words "in this universe".]*
 - **Key points**:
   - "Consciousness—the sheer fact that this universe is illuminated by sentience—is precisely what unconsciousness is not"
   - No description of unconscious complexity will fully account for consciousness
@@ -86,6 +87,7 @@ The hard problem of consciousness asks how physical processes produce subjective
 ### David Chalmers: The Conscious Mind (1996)
 - **URL**: https://consc.net/papers/facing.pdf (original "Facing Up" paper)
 - **Type**: Monograph/Paper
+- *[Corrected 2026-11-18: neither quoted string below is Chalmers's. "irreducible to lower-level physical facts, just as the fundamental laws of physics are irreducible to lower-level physical facts" is Wikipedia editors' wording (it is in the "Panpsychism" article) and has zero hits in "Facing Up" or in an OCR text of *The Conscious Mind*. The "stark choice ... on par with gravity and electromagnetism" sentence is the IEP "Hard Problem of Consciousness" entry's own summary ("We are left, Chalmers claims, with the following stark choice: ..."), also zero hits in both Chalmers texts; the Quote line additionally drops IEP's parenthesis. Chalmers's own words in "Facing Up" (1995): "I suggest that a theory of consciousness should take experience as fundamental" and "we will take experience itself as a fundamental feature of the world, alongside mass, charge, and space-time." The last two key points (contingent connection; "easily imagine") were not found in Chalmers either and should be treated as encyclopedia gloss until located.]*
 - **Key points**:
   - Consciousness is "irreducible to lower-level physical facts, just as the fundamental laws of physics are irreducible to lower-level physical facts"
   - We face a "stark choice: either eliminate consciousness (deny that it exists at all) or add consciousness to our ontology as an unreduced feature of reality, on par with gravity and electromagnetism"
@@ -97,6 +99,7 @@ The hard problem of consciousness asks how physical processes produce subjective
 ### Leibniz on the Mill and the Origin Question
 - **URL**: https://plato.stanford.edu/entries/leibniz-mind/
 - **Type**: Encyclopedia
+- *[Corrected 2026-11-18: "Why is there something rather than nothing?" is from *Principles of Nature and Grace* (1714) §7, not the *Monadology*; the mill is *Monadology* §17. Leibniz's ground is that "nothing is simpler and easier than something" (Bennett's rendering); "if nothing existed, no explanation would be needed" is this note's gloss, not his. He held the question has an answer (a necessary being, §8).]*
 - **Key points**:
   - Leibniz's mill argument: "perception and that which depends upon it are inexplicable on mechanical grounds"
   - If we entered a machine that thinks, "we should, on examining its interior, find only parts which work one upon another, and never anything by which to explain a perception"
@@ -108,6 +111,7 @@ The hard problem of consciousness asks how physical processes produce subjective
 ### Colin McGinn: Mysterianism and Cognitive Closure
 - **URL**: https://en.wikipedia.org/wiki/Cognitive_closure_(philosophy)
 - **Type**: Encyclopedia
+- *[Corrected 2026-11-18: the quoted strings in this block are from Wikipedia and were not checked against McGinn (1989), whose text could not be obtained. The Quote line ("biological organisms, not angels") is not established as McGinn's wording; do not quote it as his. McGinn holds consciousness to be a natural phenomenon.]*
 - **Key points**:
   - A mind can be "cognitively closed" to certain properties—the properties exist but the mind's concept-forming procedures cannot grasp them
   - Draws on Chomsky's distinction between "problems" (solvable in principle) and "mysteries" (human cognition unequipped to understand)
@@ -120,6 +124,7 @@ The hard problem of consciousness asks how physical processes produce subjective
 ### Schopenhauer on Existence and Will
 - **URL**: https://plato.stanford.edu/entries/schopenhauer/
 - **Type**: Encyclopedia
+- *[Corrected 2026-11-18: the Quote line below is not in the SEP entry and is not from *The World as Will and Representation*. It is from *The Wisdom of Life* (Aphorismen zur Lebensweisheit, in *Parerga and Paralipomena*, 1851), ch. I, trans. T. Bailey Saunders, where it reads "In plain language, every man is pent up within the limits of his own consciousness ...; so external aid is not of much use to him" and concerns why happiness depends on what a person is. It is not about explaining consciousness. "the universal extension of the principle of sufficient reason" is the SEP author's wording. The "I want to exist" and "matter is nothing but a human representation" key points were not found in the SEP entry and are unverified.]*
 - **Key points**:
   - Schopenhauer faced "the full force of 'Why is there something rather than nothing?'" as an atheist philosopher
   - He questioned "the universal extension of the principle of sufficient reason"—the assumption that everything has an explanation
@@ -132,6 +137,7 @@ The hard problem of consciousness asks how physical processes produce subjective
 ### Apophatic Theology and the Limits of Knowledge
 - **URL**: https://en.wikipedia.org/wiki/Apophatic_theology
 - **Type**: Encyclopedia
+- *[Corrected 2026-11-18: the string credited to Pseudo-Dionysius ("the most truthful discourse about God is ultimately silence ...") is Wikipedia's summary, not his text; the Rahner string and the Quote line were not checked. *The Mystical Theology* (Parker trans.) does say the ascent ends "by knowing nothing, knowing above mind" and that the Cause is above every "definition" and "abstraction".]*
 - **Key points**:
   - Apophatic theology describes its object "by negation, to speak only in absolutely certain terms and to avoid what may not be said"
   - "The central claim is that God exceeds all concepts, images, and language"
@@ -145,6 +151,7 @@ The hard problem of consciousness asks how physical processes produce subjective
 ### Thomas Nagel: What Is It Like to Be a Bat?
 - **URL**: https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F
 - **Type**: Encyclopedia (on classic paper)
+- *[Corrected 2026-11-18: only the first key point ("Without consciousness ... With consciousness it seems hopeless") was confirmed verbatim in Nagel's paper. The Quote line ("inherently subjective ... limited types of viewpoints") and the string "cannot be explained by a system of functional or intentional states" have zero hits in the paper and should be treated as Wikipedia's summary; the term "objective phenomenology" is Nagel's. Nagel also writes: "It would be a mistake to conclude that physicalism must be false." The "supports Dualism and No Many Worlds" alignment line overreads him.]*
 - **Key points**:
   - "Without consciousness, the mind–body problem would be much less interesting. With consciousness it seems hopeless."
   - Conscious facts are "inherently subjective—they can only be fully grasped from limited types of viewpoints"
@@ -186,7 +193,7 @@ The apophatic tradition suggests that some truths can only be approached through
 We can coherently imagine a universe physically identical to ours but without consciousness—Chalmers' "zombie world." The fact that we can conceive this suggests consciousness is not logically necessitated by physical structure. But then why does it exist?
 
 **2. The containment problem**
-Every explanation of consciousness's origin would be an explanation *within* consciousness. We cannot access a perspective outside experience from which to explain experience's existence. Schopenhauer: "every man is pent up within the limits of his own consciousness."
+Every explanation of consciousness's origin would be an explanation *within* consciousness. We cannot access a perspective outside experience from which to explain experience's existence. Schopenhauer: "every man is pent up within the limits of his own consciousness." *[Corrected 2026-11-18: from *The Wisdom of Life*, on happiness and temperament; an image only, not an argument about explanation.]*
 
 **3. The regress of explanation**
 If we explain consciousness's existence by reference to X, we must then ask why X exists. If X is physical, we invoke the hard problem. If X is non-physical, we invoke the same origin question for X. The regress suggests no explanation can be final.
@@ -195,7 +202,7 @@ If we explain consciousness's existence by reference to X, we must then ask why 
 Despite centuries of philosophical work, the origin question remains unresolved. This persistence is evidence (not proof) of structural difficulty rather than merely contingent ignorance.
 
 **5. Convergent mystery acknowledgment**
-Philosophers across traditions acknowledge this limit: McGinn's "cognitive closure," Nagel's "hopelessness," Chalmers' recognition of consciousness as irreducibly fundamental, Schopenhauer's questioning of the principle of sufficient reason. The convergence suggests they're encountering the same boundary.
+Philosophers across traditions acknowledge this limit: McGinn's "cognitive closure," Nagel's "hopelessness," Chalmers' recognition of consciousness as irreducibly fundamental, Schopenhauer's questioning of the principle of sufficient reason. The convergence suggests they're encountering the same boundary. *[Corrected 2026-11-18: each of these concerns the mind-body relation, not the origin question as this note separates it; McGinn and Nagel draw no dualist conclusion.]*
 
 ### Phenomenology of the Origin Void
 
@@ -307,12 +314,12 @@ Based on this research, a voids article could:
 3. Internet Encyclopedia of Philosophy. "Hard Problem of Consciousness." https://iep.utm.edu/hard-problem-of-conciousness/
 4. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 5. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-6. Leibniz, G. W. (1714). *Monadology*.
+6. Leibniz, G. W. (1714). *Monadology* (mill, §17); *Principles of Nature and Grace* (1714), §7 (something rather than nothing). *[Corrected 2026-11-18.]*
 7. Stanford Encyclopedia of Philosophy. "Leibniz's Philosophy of Mind." https://plato.stanford.edu/entries/leibniz-mind/
 8. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 9. Wikipedia. "Cognitive closure (philosophy)." https://en.wikipedia.org/wiki/Cognitive_closure_(philosophy)
 10. Stanford Encyclopedia of Philosophy. "Arthur Schopenhauer." https://plato.stanford.edu/entries/schopenhauer/
-11. Schopenhauer, A. (1818/1844). *The World as Will and Representation*.
+11. Schopenhauer, A. (1851). *The Wisdom of Life* (in *Parerga and Paralipomena*), ch. I, trans. T. Bailey Saunders — source of the "pent up" line. *[Corrected 2026-11-18; was WWR 1818/1844.]*
 12. Wikipedia. "Apophatic theology." https://en.wikipedia.org/wiki/Apophatic_theology
 13. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 14. Wikipedia. "Why is there anything at all?" https://en.wikipedia.org/wiki/Why_is_there_anything_at_all

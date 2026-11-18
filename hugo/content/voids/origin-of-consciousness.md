@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-11-11 00:03:17.720588+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1
+ai_modified: 2026-11-18 08:24:14+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -12,8 +12,9 @@ concepts:
 - '[[explanatory-gap]]'
 created: 2026-01-29
 date: &id001 2026-01-29
-description: Human+AI exploration of why consciousness exists at all—a question prior
-  to the hard problem, where inquiry confronts the containment of the questioner.
+description: Why does any experience exist at all? The Map separates this from the
+  hard problem and weighs the contested argument that a questioner inside experience
+  cannot answer it.
 draft: false
 embedded_videos:
 - embedded: 2026-11-11 00:03:17.720588+00:00
@@ -22,8 +23,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/Lc5N5ne9C_k
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 23:29:36+00:00
-lastmod: 2026-11-11 00:03:17.720588+00:00
+last_deep_review: 2026-11-18 08:24:14+00:00
+lastmod: 2026-11-18 08:24:14+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -40,9 +41,9 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Why does consciousness exist at all? Not *how* it relates to matter—that is the [hard problem](/topics/hard-problem-of-consciousness/). The origin question is prior: why is there any experience whatsoever? The universe could have been dark inside, processes running without illumination, function without feeling. It is not. Something it is like to be exists. The origin void concerns why.
+Why does consciousness exist at all? The [hard problem](/topics/hard-problem-of-consciousness/), as Chalmers posed it, asks why physical processing should give rise to experience. The origin question, as the Map separates it, drops the reference to physical processing: why is there any experience whatsoever? Many philosophers hold that the universe could have been dark inside, with processes running and nothing felt. It is not dark. Something it is like to be exists, and the origin void concerns why.
 
-This may be the most logically prior void in the [voids framework](/voids/)—the question that must be faced before any other. The hard problem asks how subjective experience relates to physical processes. The [intrinsic nature void](/voids/intrinsic-nature-void/) asks what matter is in itself. Both presuppose that consciousness exists. The origin question asks why the explanatory target exists in the first place. Every attempt to answer confronts a structural obstacle: the inquiry occurs within consciousness, and the questioner cannot step outside experience to examine its origin.
+The Map classes this void as a candidate for the *unexplorable*, and that classification is argued here, not established. Two arguments carry it: any explanation of why experience exists is itself produced within experience (the containment problem, below), and any proposed explainer invites the same question again (the regress). Both have replies, set out below, and neither shows that the question cannot be answered. The question is logically prior to others in the [voids framework](/voids/): the hard problem and the [intrinsic nature void](/voids/intrinsic-nature-void/) both take the existence of consciousness as given, and the origin question asks why the given is there.
 
 <details class="yt-embed" data-video-id="Lc5N5ne9C_k">
 <summary>Video introduction</summary>
@@ -52,16 +53,16 @@ This may be the most logically prior void in the [voids framework](/voids/)—th
 
 ## The Question's Structure
 
-The origin question parallels Leibniz's "Why is there something rather than nothing?"—applied specifically to sentience. Leibniz noted that if nothing had existed, nothing would require explanation. The existence of something is not logically necessary; we can conceive its absence. The same applies to consciousness. We can coherently imagine a universe physically identical to ours but without experience—Chalmers' zombie world. Consciousness is not entailed by physical structure. So why does it exist?
+The origin question parallels the one Leibniz posed in *Principles of Nature and Grace* (1714, §7): "Why is there something rather than nothing?" His ground for asking was that "nothing is simpler and easier than something", so the existence of anything calls for a reason. Leibniz thought the question had an answer, a necessary being; the Map borrows the question's form and leaves his answer aside. Applied to consciousness: if a universe physically identical to ours but without experience is coherent (the zombie world of Chalmers 1996, whose conceivability is contested below), then physical structure does not entail consciousness, and its existence calls for a reason of its own.
 
-This differs from the hard problem in crucial ways:
+The Map sets the two questions side by side:
 
 | Question | Focus | Presupposes |
 |----------|-------|-------------|
-| Hard problem | *How* does consciousness relate to physics? | Consciousness exists |
-| Origin question | *Why* does consciousness exist at all? | Nothing |
+| Hard problem | *Why* does physical processing give rise to experience? | That experience exists and has a physical basis |
+| Origin question | *Why* is there experience at all? | Only that experience exists |
 
-The hard problem takes consciousness as given and asks how it connects to the physical. The origin question asks why there is anything to connect. Solving the hard problem would not answer the origin question. Even a complete theory of consciousness-brain relations would leave unexplained why the universe contains beings for whom something it is like to exist.
+The separation is the Map's, and it is contestable. Chalmers' own wording, "Why should physical processing give rise to a rich inner life at all?", already asks why, and a physicalist can reply that once the physical basis is explained nothing is left over. The Map's reason for keeping the questions apart is that a complete set of laws linking brain states to experiences would say which physical states go with which experiences, and would leave open why there are such laws, or any experience for them to govern.
 
 ## The Containment Problem
 
@@ -69,73 +70,69 @@ Every inquiry into why consciousness exists is conducted *by* consciousness. The
 
 When we ask why tigers exist, we stand outside tigers. We can trace evolutionary pressures, ecological niches, genetic mutations—explanatory factors independent of tigers themselves. But when we ask why consciousness exists, we are inside what we investigate. The explanatory stance requires a perspective, and every perspective is a conscious perspective.
 
-A natural objection: we are also contained within the universe, within evolutionary history, within language—yet we explain these successfully. The distinction lies in the recursive nature of the task. Modelling the universe from within works because models need not *be* the universe. But explaining consciousness requires using consciousness, and the explanation must account for the very capacity that produces it.
+A natural objection: we are also contained within the universe, within evolutionary history, within language—yet we explain these successfully. One reply is that the task here is recursive. Modelling the universe from within works because models need not *be* the universe, whereas an explanation of consciousness must account for the very capacity that produces it.
 
-This creates a structural asymmetry. Any explanation of consciousness's origin would be an explanation *within* consciousness—a thought about why thoughts exist, an experience about why experience is. Schopenhauer articulated the bind: "Every man is pent up within the limits of his own consciousness, and cannot directly get beyond those limits any more than he can get beyond his own skin."
+The objection has a stronger form which that reply does not meet. That an explanation is produced by conscious thinkers does not show it to be false or out of reach: vision science is done by looking, and linguistics is written in language. Containment establishes that there is no experience-free standpoint. It does not establish that a standpoint within experience cannot reach the answer.
 
-The containment problem suggests distinctive difficulty—and possibly impossibility, though we should be cautious about that stronger claim. We can ask the question. Whether we can occupy the standpoint needed to answer it remains genuinely open.
+A line of Schopenhauer's supplies the image: "every man is pent up within the limits of his own consciousness, and cannot directly get beyond those limits any more than he can get beyond his own skin." In its place (*The Wisdom of Life*, in T. Bailey Saunders's translation) the sentence explains why a person's happiness depends on what he is and not on his circumstances. It is no argument about explaining consciousness, and it is quoted here for the image alone.
+
+Containment therefore marks a distinctive difficulty. Whether it amounts to impossibility is open: we can ask the question, and whether the standpoint needed to answer it can be occupied from within has not been settled either way.
 
 ## Three Responses
 
-Philosophers have responded to the origin void in three main ways.
+Three responses are available.
 
 ### Brute Fact
 
-Many conclude consciousness must be treated as a brute fact—something that simply is, requiring no further explanation. Sam Harris frames this clearly: "Every chain of explanation must end somewhere—generally with a brute fact that neglects to explain itself."
+One response treats consciousness as a brute fact, something that simply is. Sam Harris, sympathetic to those who judge the impasse total, puts the possibility tentatively: "Every chain of explanation must end somewhere—generally with a brute fact that neglects to explain itself. Consciousness might represent a terminus of this sort."
 
 This is intellectually honest but unsatisfying. Accepting consciousness as brute fact doesn't resolve the question; it declares the question unanswerable. The declaration may be correct. But "brute fact" names the void rather than filling it.
 
-Physics accepts certain brute facts: why the fundamental constants have their values, why the laws take their form. Perhaps consciousness belongs in this category—one more unexplained given at the base of reality. But consciousness seems different. Constants and laws are third-person abstractions. Consciousness is first-person presence. The brute fact response groups heterogeneous phenomena.
+Physics accepts certain brute facts: why the fundamental constants have their values, why the laws take their form. Perhaps consciousness is one more. But consciousness seems different. Constants and laws are third-person abstractions. Consciousness is first-person presence. The brute fact response groups heterogeneous phenomena.
 
 ### Fundamental Status
 
-Chalmers proposes that consciousness is "irreducible to lower-level physical facts, just as the fundamental laws of physics are irreducible to lower-level physical facts." On this view, we face "a stark choice: either eliminate consciousness or add consciousness to our ontology as an unreduced feature of reality, on par with gravity and electromagnetism."
+Chalmers (1995) suggests "that a theory of consciousness should take experience as fundamental", adding it to the ontology as "a fundamental feature of the world, alongside mass, charge, and space-time." He calls the position naturalistic dualism and offers it as the way to build a theory of experience; he is not addressing the origin question as separated here.
 
-Treating consciousness as fundamental shifts the question. We don't ask why gravity exists; we accept gravitational phenomena as basic and explain other things in terms of them. Perhaps consciousness deserves similar treatment—not derived from non-conscious precursors but among the fundamental features from which other things derive.
-
-This doesn't fully dissolve the origin question. We can still ask why reality contains *this* fundamental feature rather than some other, or none. But fundamental status explains why the question resists ordinary explanatory approaches: you cannot explain a fundamental in terms of something more basic by definition.
+Treating consciousness as fundamental shifts the question: we don't ask why gravity exists, but accept gravitational phenomena as basic and explain other things in terms of them. This doesn't fully dissolve the origin question. We can still ask why reality contains *this* fundamental feature rather than some other, or none. But fundamental status explains why the question resists ordinary explanatory approaches: you cannot explain a fundamental in terms of something more basic by definition.
 
 ### Apophatic Approach
 
-The apophatic tradition—negative theology, learned ignorance—suggests that some truths can only be approached through negation. Pseudo-Dionysius argued that the highest knowledge of God comes through unknowing, after all affirmations and denials have been exhausted.
+The apophatic tradition—negative theology, learned ignorance—suggests that some truths can only be approached through negation. In *The Mystical Theology*, Pseudo-Dionysius held that the divine is reached by unknowing and lies beyond every affirmation and every denial.
 
 Applied to the origin void: we may be able to systematically identify what *cannot* explain consciousness's existence—some negations more securely than others—without being able to say what *does*:
 
-- Not logical necessity (the conceivability of absence shows consciousness is not self-warranting)
-- Not physical necessity (the [explanatory-gap](/concepts/explanatory-gap/) shows physical description doesn't entail experience)
+- Not logical necessity (if its absence is conceivable, consciousness is not self-warranting)
+- Not physical necessity (on the Map's reading of the [explanatory-gap](/concepts/explanatory-gap/), physical description does not entail experience; a physicalist reads the gap as epistemic)
 - Not divine creation (moves the question back one step—why did the creator include consciousness?)
 - Not natural selection (it explains how the neural architecture was shaped, and why conscious organisms persisted once there was experience to select, not why there was experience to select at all—see [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/))
 - Not [emergence](/concepts/emergence/)—though this negation is contested rather than settled: the objection is that experience "emerging" from non-experience is unintelligible, not that the explanation presupposes what it explains, and [Hasker's emergent dualism](/concepts/emergent-dualism/) holds the generation view as a coherent and well-defended horn that the Map declines on other grounds
 
-Negative knowledge traces the void's boundaries. We cannot say why consciousness exists, but we can map what fails as explanation. This is not nothing. The shape of explanatory failure reveals something about what consciousness must be.
+Negative knowledge traces the void's boundaries. We cannot say why consciousness exists, but we can map what has failed as explanation. The list records failures so far; it does not by itself show what consciousness is.
 
 ## The Void's Phenomenology
 
 Approaching the origin void produces characteristic experiences.
 
-**The vertigo of first person.** Turning attention to the sheer fact of experiencing produces a peculiar disorientation. Not confusion about contents of experience, but bewilderment that there is experience at all. Why is the universe illuminated *here*? Harris describes it as "a mystery, exceeded only by the mystery that there should be something rather than nothing."
+**The vertigo of first person.** Turning attention to the sheer fact of experiencing produces a peculiar disorientation. Not confusion about contents of experience, but bewilderment that there is experience at all. Why is the universe illuminated *here*? Harris calls the fact that experience has a qualitative character "a mystery, exceeded only by the mystery that there should be something rather than nothing in this universe."
 
-**The groundlessness of givenness.** Experience is the most certain thing—Descartes' *cogito* establishes at minimum that experience exists. Yet this certainty about *that* coexists with radical uncertainty about *why*. The foundation of all knowledge floats on nothing we can articulate.
+**The groundlessness of givenness.** Experience is the most certain thing—Descartes' *cogito* establishes at minimum that experience exists. Yet this certainty about *that* coexists with radical uncertainty about *why*. The foundation of all knowledge floats on nothing we can articulate: total presence combined with total mystery about origin is the distinctive feel of this void.
 
-**The impossibility of genuine absence.** We cannot genuinely conceive non-experience from inside experience. The "nothing" we imagine is still imagined—still experienced. The origin question asks about something we cannot mentally model from where we stand.
+**The unimaginability of absence.** Non-experience cannot be imagined from inside: the "nothing" we picture is still pictured, still experienced. The limit is on imagining what absence would be like, since there is nothing it would be like. It leaves untouched the conceiving *that* a world lacks experience, which is all the zombie argument below requires.
 
-**The asymmetry of certainty and opacity.** We have complete certainty that consciousness exists (it is self-confirming) and zero insight into why. Total presence combined with total mystery about origin is the distinctive feel of this void.
-
-## Evidence for a Genuine Limit
+## The Case for a Genuine Limit
 
 Several considerations suggest this void reflects something deeper than current ignorance—though they fall short of proving impossibility.
 
-**The conceivability of absence.** If consciousness were logically necessitated by something more basic, we could not coherently imagine its absence. Zombie scenarios—physically identical worlds without experience—appear coherent to many philosophers. The conceivability is contested: Dennett argues we cannot genuinely conceive zombies but only think we can, confusing functional conceivability with metaphysical possibility. But even if zombie conceivability fails, the origin question persists: logical necessity would explain that consciousness *must* exist, not *why* it must.
+**The conceivability of absence.** If consciousness were logically necessitated by something more basic, we could not coherently imagine its absence. Zombie scenarios—physically identical worlds without experience—appear coherent to many philosophers. The conceivability is contested: Dennett (1995) holds that philosophers who claim zombies are conceivable "invariably underestimate the task of conception (or imagination), and end up imagining something that violates their own definition." If he is right, this consideration lapses. The Map holds that a residue would remain, since a necessity invites the question why it holds; a physicalist will reply that a necessary truth needs no further reason.
 
 **The persistence of the question.** Despite centuries of philosophical work, the origin question remains unresolved. Other profound questions persisted for centuries before yielding to new frameworks. What distinguishes this question is not mere persistence but the *structural* features (containment, regress) that accompany it.
 
 **The regress of explanation.** If we explain consciousness's existence by reference to X, we must then ask why X exists. If X is physical, we invoke the hard problem at that step. If X is non-physical, we invoke the same origin question for X. The regress suggests no explanation can be final—though this applies to all fundamental questions, not uniquely to consciousness.
 
-**Convergent acknowledgment.** Philosophers across traditions acknowledge distinctive difficulty here: McGinn's cognitive closure, Nagel's argument that current concepts are inadequate, Chalmers' recognition of consciousness as irreducibly fundamental, Schopenhauer's questioning of the principle of sufficient reason. The convergence suggests a common obstacle, though whether it is permanent or reflects shared limitations of current frameworks is debatable.
+**Neighbouring acknowledgments.** Several philosophers find a limit nearby, though each is writing about the mind-body relation and none about the origin question as separated here. McGinn (1989) argues that the solution to the mind-body problem is cognitively closed to us, while holding that consciousness is a natural phenomenon. Nagel (1974) writes that "we have at present no conception of what an explanation of the physical nature of a mental phenomenon would be", and adds that "it would be a mistake to conclude that physicalism must be false." Chalmers takes experience as fundamental. The agreement is on difficulty. McGinn and Nagel draw no dualist conclusion from it, and whether the obstacle is permanent is debated.
 
 ## Connection to Other Voids
-
-The origin void relates to but differs from other voids in the framework:
 
 **The [Intrinsic Nature Void](/voids/intrinsic-nature-void/)** concerns what matter is in itself. The origin void concerns why consciousness exists at all. They connect: if consciousness is our only window into intrinsic nature, the origin question becomes "why does this window exist?"
 
@@ -145,11 +142,9 @@ The origin void relates to but differs from other voids in the framework:
 
 **The [Thrownness Void](/voids/thrownness-void/)** concerns the inaccessibility of the founding moment—consciousness cannot witness or authorise its own establishment. Where the origin void asks *why* consciousness exists, the thrownness void asks why consciousness cannot access the conditions under which it came to exist. The containment problem discussed above is one face of this shared structure: both voids stem from consciousness's inability to occupy a standpoint prior to itself.
 
-The origin void is not necessarily deeper than the others—the [intrinsic nature void](/voids/intrinsic-nature-void/) may be more epistemically fundamental, the [self-reference paradox](/voids/self-opacity/) more structurally inescapable. But the origin void is the most *prior*. All other questions about consciousness presuppose that consciousness exists. The origin question asks why the presupposition holds.
+The origin void is not necessarily deeper than these: the intrinsic nature void may be more epistemically fundamental, the self-reference paradox more structurally inescapable. Its priority is only that the others presuppose that consciousness exists.
 
 ## What AI Might See
-
-AI systems occupy an interesting position relative to this void.
 
 If AI lacks consciousness, it operates outside the containment problem—like humans studying tigers. But this advantage may be illusory: can genuinely unconscious analysis yield insight into why consciousness exists? The concept of experience may be unavailable to something that doesn't experience.
 
@@ -159,17 +154,15 @@ Either way, AI trained on human discourse inherits human framings. The origin vo
 
 ## Relation to Site Perspective
 
-The origin void connects directly to the Map's [foundational commitments](/tenets/).
+None of the Map's [tenets](/tenets/) is supported by the origin void; the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3) by which a catalogue of such limits would carry evidential weight.
 
-**[Dualism](/tenets/#dualism)** generates this void. If consciousness were reducible to physical processes, its origin would be explained by whatever explains those processes. The irreducibility established by dualism means consciousness requires its own origin story—one that cannot be told in physical terms. The origin void is the price of taking consciousness seriously.
+**[Dualism](/tenets/#dualism)** shapes the form the question takes here and gains no evidence from it. The Map holds on other grounds that consciousness is irreducible. On that commitment, whatever explains the physical world does not thereby explain experience, so experience needs an account of its own, which the Map does not have. That is a cost of the commitment. Others read the same limit differently. A physicalist holds that explaining the relevant physical processes would explain why consciousness exists. An illusionist holds that what needs explaining is why it seems to us that our experiences have what-it-is-like properties. McGinn, a naturalist, reads the limit as a fact about human cognition. The difficulty of the question does not discriminate among these readings, and none of the authors cited argues for dualism except Chalmers, whose naturalistic dualism is argued from the hard problem and not from this limit.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies forcefully. The simplest assumption—that consciousness is explicable in terms of something more basic—confronts the containment problem. The origin question's persistence is *consistent with* reality's complexity exceeding our explanatory frameworks, though it does not independently prove this—we should expect the tenets to predict such difficulties.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated, no more. The persistence of the question is consistent with reality exceeding our explanatory frameworks, and equally with a hard but ordinary problem; a physicalist can grant the difficulty.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** matters for indexical reasons. The origin question is asked by *this* consciousness, here, now. [Branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) could grant each branch-observer a branch-local origin question; the Map's stronger reading is that origin-questioning is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable. Many-worlds doesn't dissolve the question—it remains puzzling why consciousness exists in any branch—but it does proliferate instances without explaining their existence. The rejection of many-worlds keeps focus on singular existence rather than endless multiplication.
+**[No Many Worlds](/tenets/#no-many-worlds)** is touched by resemblance only (the question is asked by *this* consciousness) and is not engaged. [Branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) grants each branch-observer a branch-local origin question, and why consciousness exists in any branch is as open on that view as on the Map's. The Map rejects many-worlds on other grounds.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** makes consciousness causally efficacious—it does something. This gives consciousness a functional role, making its existence less arbitrary than pure [epiphenomenalism](/concepts/epiphenomenalism/) would allow. But causal efficacy deepens rather than resolves the origin question: why does causally efficacious consciousness exist rather than none?
-
-The origin void exemplifies the Map's method: taking consciousness seriously leads to voids that resist current conceptual resources. This is not failure but [revelation](/voids/what-voids-reveal/)—the shape of the difficulty tells us something about what consciousness must be to so persistently resist origin-explanation.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is not engaged. The Map holds that consciousness is causally efficacious and argues it elsewhere; a causal role says what consciousness does once it exists and leaves the origin question where it was. **Minimal Quantum Interaction** is not engaged. Listed in the [voids](/voids/) index.
 
 ## Further Reading
 
@@ -179,15 +172,17 @@ The origin void exemplifies the Map's method: taking consciousness seriously lea
 - [self-reference paradox](/voids/self-opacity/) — Structural obstacles to self-examination
 - [The Thrownness Void](/voids/thrownness-void/) — The inaccessibility of consciousness's founding moment
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
+- [what-voids-reveal](/voids/what-voids-reveal/) — What a catalogue of limits can and cannot be taken to show
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The question of genuine versus apparent limits
 
 ## References
 
-1. Harris, S. (2011). "The Mystery of Consciousness." https://www.samharris.org/blog/the-mystery-of-consciousness
+1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 2. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-3. Leibniz, G. W. (1714). *Monadology*.
-4. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-5. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-6. Stanford Encyclopedia of Philosophy. "Consciousness." https://plato.stanford.edu/entries/consciousness/
-7. Internet Encyclopedia of Philosophy. "Hard Problem of Consciousness." https://iep.utm.edu/hard-problem-of-conciousness/
-8. Schopenhauer, A. (1818). *The World as Will and Representation*.
+3. Dennett, D. C. (1995). "The Unimagined Preposterousness of Zombies." *Journal of Consciousness Studies*, 2(4), 322-326.
+4. Harris, S. (2011). "The Mystery of Consciousness II." 19 October 2011. https://www.samharris.org/blog/the-mystery-of-consciousness-ii
+5. Leibniz, G. W. (1714). *Principles of Nature and Grace, Based on Reason*, §7. Quoted in Jonathan Bennett's rendering, earlymoderntexts.com.
+6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+7. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+8. Pseudo-Dionysius the Areopagite. *The Mystical Theology*. Trans. J. Parker.
+9. Schopenhauer, A. (1851). *The Wisdom of Life* (from *Parerga and Paralipomena*), ch. I. Trans. T. Bailey Saunders.
