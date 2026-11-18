@@ -5,6 +5,16 @@ ai_modified: 2026-11-18T12:23:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-18 13:03 UTC - refine-draft (driver, inline)
+- **Status**: Success
+- **File**: [[contemplative-path]]
+- **Source**: outer-review synthesis 2026-11-18 (the n=1 claim found false on the minimal-consciousness void page).
+- **Change**: line 100. "The evidence is methodologically weak: the cessation-EEG work rests on a single practitioner (n=1), the report" became "The evidence is weak: the cessation-EEG work is a few case studies of one or two adepts, mostly of brief cessations, not this attainment; the report". The paragraph's subject is the extended attainment, and most of the EEG work measured brief events, so the clause now says which is which. Also "rather than to neural activity in general" became ", not neural activity in general" to recover two words.
+- **Source basis**: no new fetch. The wording follows the sentence step 5 landed on the void page this morning, which was checked then against Laukkonen et al. 2023 (full text) and Chowdhury et al. 2023 (author manuscript). The apex paraphrase "the data indicate an edge but cannot certify what lies beyond it" still matches the void page ("It indicates an edge; it cannot certify what lies on the far side").
+- **Length**: 4,657 to 4,665 (apex hard 5,000). The task asked for net-zero; this is +8, because the accurate description is longer than the false one and nothing else in the paragraph could go without losing a stated limit.
+- **Sweep**: "single practitioner" / "n=1" near cessation or nirodha: no other hit in obsidian/ or archive/ outside reviews and workflow.
+- **Verification that the fix held**: "single practitioner" has 0 hits in the obsidian and hugo copies after sync.
+
 ## 2026-11-18 12:32 UTC - refine-draft (driver, inline)
 - **Status**: Success
 - **File**: [[consciousness-interface-development]]

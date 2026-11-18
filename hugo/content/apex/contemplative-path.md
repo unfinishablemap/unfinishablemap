@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-11-17 12:21:57+00:00
+ai_modified: 2026-11-18 13:03:07+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-11-09 09:38:38+00:00
 apex_sources:
@@ -26,7 +26,7 @@ concepts:
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenology]]'
 created: 2026-01-31
-date: &id001 2026-11-17
+date: &id001 2026-11-18
 description: First-person investigation reveals consciousness structures invisible
   to external observation. Two millennia of contemplative practice offer systematic
   data the Map takes seriously.
@@ -39,7 +39,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:49:16+00:00
-lastmod: 2026-11-17 12:21:57+00:00
+lastmod: 2026-11-18 13:03:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ The cultivability of attention found here has a structural twin in the Map's [tr
 
 Advanced practitioners reach states that push the boundaries of what consciousness can do. The jhana sequence—eight refined states from directed attention through formless absorptions—maps territory invisible to ordinary awareness, and high-field (7-Tesla) fMRI shows distinct signatures for it: disrupted hierarchical organisation, increased global connectivity, elevated complexity. The phenomenology—joy giving way to equanimity, awareness of infinite space, the threshold of neither-perception-nor-non-perception—is data third-person methods cannot generate.
 
-Most radical is *nirodha samapatti*, reported cessation of perception and feeling, in which meditators describe voluntarily "turning off" phenomenal consciousness while brain activity continues. The evidence is methodologically weak: the cessation-EEG work rests on a single practitioner (n=1), the report of "nothing" is heterophenomenology—an account of an absence, not confirmation of zero consciousness—and the correlates remain poorly characterised. As the [minimal-consciousness void](/voids/minimal-consciousness-void/) puts it, the data indicate an edge but cannot certify what lies beyond it. Treated cautiously they still press identity theories: were consciousness *simply identical* to neural activity, phenomenal cessation would more naturally accompany neural silence than continued reorganised activity. Physicalists can answer that consciousness may be identical to *specific patterns* rather than to neural activity in general. Suggestive, then, and no more.
+Most radical is *nirodha samapatti*, reported cessation of perception and feeling, in which meditators describe voluntarily "turning off" phenomenal consciousness while brain activity continues. The evidence is weak: the cessation-EEG work is a few case studies of one or two adepts, mostly of brief cessations, not this attainment; the report of "nothing" is heterophenomenology—an account of an absence, not confirmation of zero consciousness—and the correlates remain poorly characterised. As the [minimal-consciousness void](/voids/minimal-consciousness-void/) puts it, the data indicate an edge but cannot certify what lies beyond it. Treated cautiously they still press identity theories: were consciousness *simply identical* to neural activity, phenomenal cessation would more naturally accompany neural silence than continued reorganised activity. Physicalists can answer that consciousness may be identical to *specific patterns*, not neural activity in general. Suggestive, then, and no more.
 
 The generic answer has since acquired a meditation-specific engine. Laukkonen and Slagter (2021) derive the whole deconstructive arc—from focused attention through open monitoring to non-dual awareness and cessation—from progressive precision-reduction in a hierarchical predictive model: abstract self-related priors attenuate first, bare presence goes last, and cessation is the limit at which prediction is temporarily suspended altogether, a case their later work models for *nirodha samāpatti* specifically (Laukkonen et al. 2023), while minimal-phenomenal-experience models read the arc's near-endpoint in the same deflationary register (Metzinger 2020). On this account the continued, reorganised activity of the jhāna states is exactly what the pattern-identity answer needed—consciousness identical to hierarchy-flattening dynamics—and the report of "nothing" becomes an inference the rebooted model draws across a gap, no witness required. What the derivation predicts is the structure of the arc and the reports of it; whether predicting the report exhausts the experience is the boundary the illusionist challenge below turns on, and the Map's [treatment of predictive processing](/topics/predictive-processing-and-dualism/) carries that framework-level confrontation. The cessation data, taken alone, do not discriminate.
 
