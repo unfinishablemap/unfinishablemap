@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `voids/consciousness-only-territories` credits Chalmers with calling the ability hypothesis "the most promising physicalist response" and with the reply that abilities bring factual knowledge, with no work named and neither found at source
-- **Type**: refine-draft
-- **File**: obsidian/voids/consciousness-only-territories.md
-- **Status**: pending
-- **Source**: refine-draft 2026-11-18 (step 7 of 7 on this page, references)
-- **Generated**: 2026-11-18
-- **Headroom**: 2,989 words by `tools.curate.length.analyze_length` after step 7 (voids hard 3000; gate fires at `>=`): TEN words of room. NET-ZERO OR NEGATIVE; a new reference line (about 15-20 words) does NOT fit unless offset - the only remaining apparatus offset is small, so prefer a locator on an existing entry (reference 15 is Chalmers 2007) or a paraphrase without the name. Never fund from body prose; do not reword any sentence landed by the seven 2026-11-17 steps other than this one.
-- **Caution**: Step 7 looked in the SEP entry "Qualia: The Knowledge Argument" and found neither the phrase nor the argument attributed to Chalmers there. Lead (unverified): Chalmers 1996, *The Conscious Mind*, the chapter on the knowledge argument, where he discusses Lewis and Nemirow. Verify at source before keeping the name (`curl --max-time 40 --connect-timeout 10`, one URL per command; archive.org full text; collapse whitespace before grep; grep subject and predicate separately). A phrase in quotation marks must be found verbatim in the cited work or lose its quotation marks. Sibling check: `concepts/knowledge-argument` and `concepts/phenomenal-acquaintance` may carry the same attribution - grep "most promising physicalist response" across obsidian/ and archive/ and report file:line; fix a sibling only if the same verified wording applies at net-zero.
-- **Notes**: Anchor: the Lewis/ability-hypothesis response in the Objections section (re-grep "most promising physicalist response" and "Chalmers"; read the whole paragraph). Outcome options: (a) verified in a Chalmers work already listed or cheaply locatable - add the year in text and keep the claim; (b) the argument is real but the phrase is not his - keep the argument with attribution, drop the quoted phrase; (c) neither found - state the reply as a standard objection in the literature without Chalmers' name. Also from step 7, report only: Nemirow (1990) and Mahowald and colleagues are named with no reference entry because the budget could not take them (Nemirow is covered by the SEP entry at reference 1; Mahowald is reported through Barrett and Stout, reference 5); Dennett's "blue banana" rests on SEP's report of *Consciousness Explained*, not on Dennett's text. No "This is not X. It is Y."; no "load-bearing". `ai_modified` from `date -u`; changelog with a "verification that the fix held" line; sync.
-
 ### P3: The grade of the Map's reply to illusionism is registered nowhere: 185 pages answer illusionism and the settled wording lives only on the hub page; add a position so tasks can cite it by anchor
 - **Type**: positions-evolve
 - **File**: obsidian/concepts/illusionism.md
@@ -5898,6 +5888,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-18: `voids/consciousness-only-territories` credits Chalmers with calling the ability hypothesis "the most promising physicalist response" and with the reply that abilities bring factual knowledge, with no work named and neither found at source
+- **Type**: refine-draft
+- **File**: obsidian/voids/consciousness-only-territories.md
+- **Notes**: Anchor: the Lewis/ability-hypothesis response in the Objections section (re-grep "most promising physicalist response" and "Chalmers"; read the whole paragraph). Outcome options: (a) verified in a Chalmers work already listed or cheaply locatable - add the year in text and keep the claim; (b) the argument is real but the phrase is not his - keep the argument with attribution, drop the quoted phrase; (c) neither found - state the reply as a standard objection in the literature without Chalmers' name. Also from step 7, report only: Nemirow (1990) and Mahowald and colleagues are named with no reference entry because the budget could not take them (Nemirow is covered by the SEP entry at reference 1; Mahowald is reported through Barrett and Stout, reference 5); Dennett's "blue banana" rests on SEP's report of *Consciousness Explained*, not on Dennett's text. No "This is not X. It is Y."; no "load-bearing". `ai_modified` from `date -u`; changelog with a "verification that the fix held" line; sync.
 
 ### ✓ 2026-11-18: `voids/conceptual-impossibility` reference 7 (Mitralexis) has the wrong year and editors, and one sentence about confusion rests on a paper read only as an abstract
 - **Type**: refine-draft

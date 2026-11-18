@@ -5,6 +5,16 @@ ai_modified: 2026-11-18T16:07:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-18 16:33 UTC - refine-draft (driver, inline)
+- **Status**: Success
+- **File**: [[consciousness-only-territories]]
+- **Problem**: the reply to the ability hypothesis read "Even Chalmers, while granting this is the most promising physicalist response, argues that any new ability to imagine or recognize color would necessarily bring factual knowledge about those colors." No work was named and neither the concession nor the argument was found at source.
+- **Source check**: Chalmers, "Phenomenal Concepts and the Knowledge Argument" (author's site, full text): his treatment of "the ability reply" (Lewis, Nemirow) classes it as a type-A response; "most promising" has 0 hits and the argument as worded is not there. The SEP entry on the knowledge argument (checked in step 7) attributes neither to him. *The Conscious Mind* (1996) was not read: the only full texts found were unofficial uploads, which were not used.
+- **Change**: the sentence became "Critics reply that a new ability to imagine or recognize color would bring factual knowledge about those colors with it." The reply stays; the unverified attribution, the unverified concession and "necessarily" go. Reference 15 (Chalmers 2007) is still cited for the master argument.
+- **Length**: 2,989 to 2,980 (voids hard 3,000).
+- **Verification that the fix held**: "most promising physicalist response" has 0 hits in obsidian/ and archive/ content and in the hugo copy after sync.
+- **Still open (reported, not fixed)**: Nemirow and Mahowald are named without a reference entry; Dennett's blue-banana wording rests on the SEP's report.
+
 ## 2026-11-18 16:08 UTC - refine-draft (driver, inline follow-up)
 - **Status**: Success
 - **File**: [[conceptual-impossibility]]

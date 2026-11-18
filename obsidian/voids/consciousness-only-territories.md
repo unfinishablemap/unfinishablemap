@@ -3,7 +3,7 @@ title: "Consciousness-Only Territories"
 created: 2026-01-26
 modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-18T15:20:51+00:00
+ai_modified: 2026-11-18T16:33:06+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -126,7 +126,7 @@ If genuine consciousness-only territories exist, several implications follow.
 
 **Lewis's ability hypothesis: Mary gains abilities, not facts.** David Lewis and Laurence Nemirow argue that Mary doesn't learn new propositional knowledge—she acquires new abilities to recognize, imagine, and remember the experience of red. If so, her pre-release knowledge *was* complete; she just couldn't *do* certain things.
 
-*Response:* What Mary learns appears propositional. It embeds in conditionals: "If seeing red is like *this*, then seeing blue must be like *that*." Abilities don't embed this way. The account also leaves the *felt novelty* unexplained: Lewis's answer, that her new abilities explain the seeming, appears to relocate the puzzle. Even Chalmers, while granting this is the most promising physicalist response, argues that any new ability to imagine or recognize color would necessarily bring factual knowledge about those colors. The hypothesis may correctly identify *part* of what Mary gains while missing the phenomenal residue.
+*Response:* What Mary learns appears propositional. It embeds in conditionals: "If seeing red is like *this*, then seeing blue must be like *that*." Abilities don't embed this way. The account also leaves the *felt novelty* unexplained: Lewis's answer, that her new abilities explain the seeming, appears to relocate the puzzle. Critics reply that a new ability to imagine or recognize color would bring factual knowledge about those colors with it. The hypothesis may correctly identify *part* of what Mary gains while missing the phenomenal residue.
 
 **Loar's phenomenal concept strategy: same property, new concept.** Brian Loar argues Mary acquires a new *concept* of a property she already knew physically. Phenomenal concepts and physical-functional concepts can refer to the same property via different modes of presentation. No new property is discovered—just a new way of thinking about an old one.
 
