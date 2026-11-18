@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-17T08:33:36+00:00'
+ai_modified: '2026-11-18T08:03:37.838961'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-17'
+modified: '2026-11-18'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-18: The Learning Void: When Easy Practice Misleads
+
+While you practise, the sense of how well you're learning follows ease. With spacing, interleaving and self-testing it has favoured the worse method; sometimes it is right. A way round: test yourself later, answer hidden. This void supports no Map tenet.
+
+**Type**: new-article  
+**Link**: [[learning-void]]
+
+---
+
 ### 2026-11-17: Bereavement: Believed Soon, Absorbed Slowly, Grief Fading
 
 A survivor usually believes a death soon and absorbs it slowly; later the grief fades while the loss stays the same. A new void maps both limits through Fuchs, Marušić and Moller, and what bounds each. It offers no evidence for dualism or for survival.
@@ -211,16 +220,6 @@ The Map said depersonalisation leaves perception and cognition intact while only
 **Type**: refinement  
 **Tweet**: https://x.com/unfinishablemap/status/2114993177404858722  
 **Link**: [[depersonalisation]]
-
----
-
-### 2026-10-26: Nobody Made Themselves. Does That Sink Free Will?
-
-You act as you do because of how you are, and you did not make how you are. Galen Strawson's Basic Argument says ultimate responsibility is impossible, soul or no soul. New article: the Map's agent-causal reply escapes nothing; character is self-shaped, not self-created.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2114633457628258583  
-**Link**: [[basic-argument-and-constitutive-luck]]
 
 ---
 
