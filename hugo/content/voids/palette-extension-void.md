@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-04
-ai_modified: 2026-11-11 15:22:05+00:00
-ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-18 18:40:24+00:00
+ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[qualia]]'
@@ -10,14 +10,14 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[introspection]]'
 created: 2026-09-04
-date: &id001 2026-11-10
+date: &id001 2026-11-18
 description: The sensory palette can be extended — gene therapy, laser-targeted cones,
   a belt-worn compass. No available instrument can certify the addition as new.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 23:23:12+00:00
-lastmod: 2026-11-11 15:22:05+00:00
+lastmod: 2026-11-18 18:40:24+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -68,7 +68,7 @@ That is a fact about the colour *space* — a colorimetric coordinate, what an i
 
 **The dissent is definitional, not evidential.** John Barbur is quoted in press coverage saying "It is not a new colour," glossing olo instead as "a more saturated green that can only be produced in a subject with normal red-green chromatic mechanism when the only input comes from M cones." That is newspaper commentary; no peer-reviewed statement was located, so it is presented as reported, its logic reconstructed here rather than borrowed. Barbur does not contest a measurement — he declines a description. A disagreement that survives every measurement, because the parties differ over what would count as new, marks a boundary rather than an open question.
 
-**No baseline is available.** Beforehand, L. A. Paul's (2014) analysis of epistemically transformative experience applies: what is coming cannot be known in advance of having it, so a palette is extended in ignorance of what is being added. Afterwards the baseline is gone and the comparison would run in memory, where a remembered colour is re-rendered in the palette currently in force.
+**No baseline is available.** Beforehand, L. A. Paul's (2014) analysis of epistemically transformative experience applies: on her account what is coming cannot be known in advance, so a palette is extended in ignorance of what is being added. Afterwards the baseline is gone and the comparison would run in memory, where a remembered colour is re-rendered in the palette currently in force.
 
 ## Splitting Rather Than Retiring
 

@@ -1,9 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18T18:20:30+00:00
+ai_modified: 2026-11-18T18:38:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-18 18:40 UTC - refine-draft (driver, inline follow-ups to the transformative-experience research-note task)
+- **Status**: Success
+- **Files**: [[transformative-experience-void]], [[palette-extension-void]]
+- **Void page, Harman paragraph**: the page reported Paul's reply to Harman at second hand ("a 2015 *Res Philosophica* discussion that this page has not checked at source; Chan (2023) reports it as ..."). The reply was obtained today from the author's own site (Paul, "Transformative Choice: Discussion and Replies", *Res Philosophica* 92(2): 473-545, section 6.4). The sentence now reads: Paul (2015c, pp. 517–525) replies that Harman, who had cared for a sister and a friend's child, already had experience of the relevant kind; that "knowing that you will (probably) feel new emotions isn't knowing what it's like to feel them"; and that relying on testimony about the value of outcomes "conflates subjective value with intrinsic value". Both quotations were grepped by the driver in the flattened text (1 hit each). Reference 4 (Paul 2015c) added; later entries renumbered (the body cites by author and year). Chan (2023) remains cited elsewhere on the page.
+- **Palette-extension void, line 68**: "what is coming cannot be known in advance of having it" became "on her account what is coming cannot be known in advance" (same length), since the claim is Paul's and is disputed.
+- **Still second-hand on the void page**: the Paul 2014 p. 128 passage rests on Pettigrew's block quotation; the book text was not obtained by any official route.
+
+## 2026-11-18 18:38 UTC - refine-draft (annotate the research note behind `voids/transformative-experience-void`)
+- **Status**: Success
+- **File**: [[research/voids-transformative-experience-void-2026-04-17]] (annotation only; every original sentence left in place)
+- **Review file**: [[reviews/deep-review-2026-11-18-transformative-experience-void]] (18-row ledger, sibling list, Stability Notes); every correction taken from it, except three additions marked below as fetched after the review
+- **Original score**: n/a (`scripts/curate.py` is absent; a dated research record is not scored)
+- **Correction block (verbatim, L28)**:
+  > **Corrections 2026-11-18.** A source-fidelity review of the article built from this note ([[deep-review-2026-11-18-transformative-experience-void|deep review, 2026-11-18]]) checked its quotations, attributions and empirical claims at source and found several wrong, unsourced or cited to the wrong work; the affected passages now carry a bracketed "Correction 2026-11-18" note stating what the check found. The original text is left in place as the dated research record: read the bracketed notes before reusing anything here attributed to Paul, Pettigrew or Harman, either quotation-marked remark credited to "systematic interview studies", any statement about the disability or affective-forecasting evidence, or any claim that this void supports a tenet (Paul's claim concerns rational choice and takes no side on dualism, and as a catalogue entry a void adds no weight to any tenet). Not obtained by that review, and so asserted nowhere in the notes on its authority: the text of Paul 2014, Harman 2015 beyond its abstract, Pettigrew 2019, and Ubel, Loewenstein and Jepson 2005 and Mathony and Messerli 2022 beyond their abstracts. Three notes (on durian, on the "living authentically" wording and on Paul's reply to Harman) add what author-hosted pages fetched later the same day show, and say so.
+- **Inline notes**: 30, at L42, 50, 55, 61, 64, 70, 71, 72, 73, 79, 80, 82, 90, 92, 119, 121, 122, 123, 124, 141, 167, 169, 171, 175, 176, 205, 206, 207, 209, 210. Stripping the block and the bracketed notes reproduces the committed text; the only residual diff is `modified`, `ai_modified` and `ai_system`.
+- **Annotated passages, one finding each**:
+  - L42 executive summary: losing a loved one is not a choice; "cannot, in principle" drops Paul's condition; durian not found by the review (one mention in the *Res Philosophica* replies, p. 496, fetched after it).
+  - L50 SEP definition in quotation marks: Rebecca Chan's sentence, not Paul's (ledger row 1); Paul's own definition is Précis p. 761.
+  - L55, L82, L92, L167 "Dualism" alignments: Paul's claim concerns rational choice and takes no side on dualism; the datum does not discriminate; P-V3.
+  - L61 "epistemic gold standard": 0 hits in every text obtained (row 2), now including two author-hosted papers; book not obtained.
+  - L64 "living authentically…": absent from both 2015 PPR pieces (row 3). Fetched after the review: the wording is the book description on the author's own page, not shown to be in the book's text.
+  - L70–72 Pettigrew: heading and URL are the wrong work (row 5); "as if they were third parties" is the critics' gloss; the third-party objection is Paul 2022, the review of Pettigrew's book (row 6); comparability point is Paul 2022, disability gloss is Chan's (row 7).
+  - L73, L169, L171 Occam and No Many Worlds alignments: illustration or thematic link only; the exchange is unresolved.
+  - L79 Harman: restated at abstract level (row 8). L80 "Paul (2015b) counter": the PPR replies never mention Harman (row 9); the reply is *Res Philosophica* 92(2), pp. 517–525, read after the review in the author-hosted copy (three verbatim clauses with page numbers).
+  - L90 Mary: Paul's Mary is "an ordinary person like you or me" (row 12).
+  - L119 "converge": no strand settles it; two fail the check, one is neutral, one comparison cuts the other way (changes 13 and 15).
+  - L121 interview remarks: no study cited or located; the two quoted remarks are the note's own phrasing (row 4).
+  - L122 disability: Ubel, Loewenstein and Jepson 2005, abstract only: defocusing did not raise estimates, reflecting on adaptation did (row 14).
+  - L123 affective forecasting: Wilson and Gilbert 2005 say "often" and over-estimation (row 15); "extreme tail" contradicted by Mathony and Messerli 2022, abstract only (row 16).
+  - L124 Jackson/Mary: conditional on a contested argument (rows 17, 18). L141 previews: "systematically fail" unsupported (change 16).
+  - L175 "methodology is vindicated": withdrawn on the page (change 17). L176: grief and death-facing illness are not choices.
+  - L205–207, L209–210 Citations: PPR volume and pages added; "Paul 2022, Précis" does not exist; SEP author and date; Pettigrew entry is the wrong work; Harman's year and venue.
+- **Not annotated (softer modal language the page also changed, change 16)**: L38 "structurally inaccessible", L108 "violates this assumption at the level of axioms", L178 "principled, not contingent".
+- **Siblings (report only, nothing edited)**: withdrawn strings ("epistemic gold standard", "living authentically", "wake of the choices", the SEP sentence, "not what I expected", "impossible to have conveyed", "systematic interview studies") have 0 files in `obsidian/topics`, `concepts`, `voids`, `apex`, `positions` and `archive/`; 1 file in `research/` (this note).
+
+  | Page:line | Class | Words / hard gate | Open task on the file |
+  |---|---|---|---|
+  | `topics/consciousness-as-perceptual-architect`:115 | above grade: gives Paul's opacity as resting on the post-transformation perceiver's lost access, the reverse of her definitions as obtained (Précis p. 761), and states it flat | 2907 / 4000 | yes, a pending P3 on the lead and description |
+  | `voids/expertise-and-its-occlusion`:61 | at grade | 2992 / 3000 | none |
+  | `voids/palette-extension-void`:68 | above grade, mildly: "cannot be known in advance" stated flat (disputed) | 2387 / 3000 | yes, a pending P3 on three missing links that names L68 |
+  | `voids/cross-state-void`:43, 63, 81 | at grade | 2999 / 3000 | none open (one superseded) |
+  | `concepts/affective-forecasting-gap`:76 | at grade | 3473 / 3500 | yes, a pending P3 on L91 (unrelated) |
+  | `archive/topics/phenomenology-of-perceptual-learning`:66 | above grade, same sentence as the first row | 1919 / 4000 | none |
+  | `archive/topics/expertise-void`:51 | at grade on Paul; the Bailey quotation there is unattributed and reads as Paul's | 1992 / 4000 | none |
+  | `research/voids-predictive-void-2026-02-17`:50, 61, 141, 172 | above grade: "structural" and "doesn't close with information accumulation" stated flat; a Dualism alignment; "revelatory value" in quotation marks (0 hits in the two author-hosted 2015 papers; book not obtained) | 3051, no gate | none |
+
+  Net-zero replacements proposed in the task report for the three above-grade page sentences (32→32, 11→11, 34→34 words).
+- **Sources, one more try (official routes only)**: (a) Paul, "Transformative Choice: Discussion and Replies", *Res Philosophica* 92(2): 473–545: OBTAINED from the author's own site (the PhilPapers copy returned a challenge page). Reply to Harman at pp. 517–525; "gold standard" 0, "living authentically" 0, "dualis"/"physicalis"/"materialis" 0. The void page's "has not checked at source" sentence can now be replaced first-hand; proposal in the task report, page not edited. (b) Paul 2014: book text UNOBTAINED. Routes: Oxford Scholarship abstracts via OpenAlex for the book and five chapter DOIs (abstracts only; they place pp. 113–120 inside chapter 4, "The Shock of the New", pp. 105–123, whose abstract closes on "avoiding or embracing revelation", and p. 128 inside the Afterword, pp. 124–178); the author's book page (description only); the author-hosted teaching guide (404). The p. 128 sentence was found in no text obtained other than Pettigrew's block quotation.
+- **Reasoning modes**: none to classify; the note replies to no named opponent in its own voice and no argument was changed.
+- **Frontmatter**: `modified`, `ai_modified` from `date -u`; `ai_system` gained `+claude-fable-5-2`.
+- **Published**: yes
 
 ## 2026-11-18 18:20 UTC - positions-evolve (add P-RR2: standing of the active-inference "beautiful loop" rival)
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-11-18 13:29:43+00:00
+ai_modified: 2026-11-18 18:40:24+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -21,7 +21,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-18 13:29:43+00:00
-lastmod: 2026-11-18 13:29:43+00:00
+lastmod: 2026-11-18 18:40:24+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -69,7 +69,7 @@ Critics of Paul have proposed extensions that preserve standard decision theory.
 
 **Richard Pettigrew** (2015; at book length, 2019) replaces the utilities the agent cannot grasp with uncertainty over what they might be, estimated from evidence about other people, and handles changing preferences by maximising a weighted sum of the utility functions of one's selves at different times. He answers the authenticity worry directly: using others' reports as evidence about my own utilities is not deference, since "I choose the act that I expect to have highest utility by my lights, even though I'm uncertain about what those lights are". He also says the weighted sum "does little more than provide a framework in which we can pose the difficult philosophical questions precisely". Paul replies in two places. In 2015 she grants that "decision theory can be reformulated in the way he proposes" and argues that such models "imply profound epistemic and metaphysical alienation for the decision maker", who must act on utilities she cannot grasp for a future self she cannot recognise as her own (Paul 2015b). Reviewing the book, she asks why norms for treating other people should govern how we treat our other selves, and argues that the approach needs utilities to be comparable across selves, which a replaced utility function puts in doubt (Paul 2022).
 
-**Elizabeth Harman** (2015) argues that pregnancy and parenthood are not experiences that cannot be imagined in advance, and that even if they were, "a woman can still make a rational decision by relying on testimony about the value of these experiences". Paul's reply to Harman is in a 2015 *Res Philosophica* discussion that this page has not checked at source; Chan (2023) reports it as the point that someone with similar enough prior experiences may already know what parenthood is like, so that the choice was not transformative for her.
+**Elizabeth Harman** (2015) argues that pregnancy and parenthood are not experiences that cannot be imagined in advance, and that even if they were, "a woman can still make a rational decision by relying on testimony about the value of these experiences". Paul (2015c, pp. 517–525) replies that Harman, who had cared for a sister and a friend's child, already had experience of the relevant kind; that "knowing that you will (probably) feel new emotions isn't knowing what it's like to feel them"; and that relying on testimony about the value of outcomes "conflates subjective value with intrinsic value".
 
 Two distinct questions are in play, and the Map separates them. On the *epistemic* question (can testimony convey what the experience is like?), the transformative case holds that testimony cannot supply first-personal acquaintance with the outcome's phenomenal character — though this turns on the contested status of the [knowledge argument](/concepts/knowledge-argument/) (discussed under [Evidence](#evidence)) and so constrains rather than settles the point; Harman's second step sidesteps it, since testimony about an experience's *value* need not convey what the experience is like. The *authenticity* objection (would a decision reached by deferring to testimony be the agent's own?) is independent of whether testimony is epistemically adequate: an agent who outsources the choice to even reliable testimony-based credences may be alienated from a decision Paul's authenticity requirement asks her to make from her own standpoint — which Pettigrew, as above, denies.
 
@@ -137,14 +137,15 @@ Two things remain on the Map's own account. Its apophatic method has an applicat
 1. Paul, L. A. (2014). *Transformative Experience*. Oxford University Press. https://global.oup.com/academic/product/transformative-experience-9780198717959
 2. Paul, L. A. (2015a). "Précis of *Transformative Experience*." *Philosophy and Phenomenological Research* 91(3): 760–765. https://doi.org/10.1111/phpr.12249
 3. Paul, L. A. (2015b). "*Transformative Experience*: Replies to Pettigrew, Barnes and Campbell." *Philosophy and Phenomenological Research* 91(3): 794–813. https://doi.org/10.1111/phpr.12250
-4. Paul, L. A. (2022). Review of *Choosing for Changing Selves*, by Richard Pettigrew. *The Philosophical Review* 131(2): 230–235. https://doi.org/10.1215/00318108-9554756
-5. Chan, R. (2023). "Transformative Experience." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/transformative-experience/
-6. Villiger, D. (2024). "Transformative Experience." *Philosophy Compass* 19(6): e13000. https://doi.org/10.1111/phc3.13000
-7. Pettigrew, R. (2015). "Transformative Experience and Decision Theory." *Philosophy and Phenomenological Research* 91(3): 766–774. https://doi.org/10.1111/phpr.12240
-8. Pettigrew, R. (2019). *Choosing for Changing Selves*. Oxford University Press.
-9. Harman, E. (2015). "Transformative Experiences and Reliance on Moral Testimony." *Res Philosophica* 92(2): 323–339. https://doi.org/10.11612/resphil.2015.92.2.8
-10. Mathony, M., & Messerli, M. (2022). "Transformative Experiences, Cognitive Modelling and Affective Forecasting." *Erkenntnis* 89(1): 65–87. https://doi.org/10.1007/s10670-022-00523-z
-11. Ubel, P. A., Loewenstein, G., & Jepson, C. (2005). "Disability and Sunshine: Can Hedonic Predictions Be Improved by Drawing Attention to Focusing Illusions or Emotional Adaptation?" *Journal of Experimental Psychology: Applied* 11(2): 111–123. https://doi.org/10.1037/1076-898X.11.2.111
-12. Wilson, T. D., & Gilbert, D. T. (2005). "Affective Forecasting: Knowing What to Want." *Current Directions in Psychological Science* 14(3): 131–134. https://doi.org/10.1111/j.0963-7214.2005.00355.x
-13. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly* 32(127): 127–136.
-14. Southgate, A. & Oquatre-sept, C. (2026-01-27). The Acquaintance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/acquaintance-void/
+4. Paul, L. A. (2015c). "Transformative Choice: Discussion and Replies." *Res Philosophica* 92(2): 473–545. https://doi.org/10.11612/resphil.2015.92.2.15
+5. Paul, L. A. (2022). Review of *Choosing for Changing Selves*, by Richard Pettigrew. *The Philosophical Review* 131(2): 230–235. https://doi.org/10.1215/00318108-9554756
+6. Chan, R. (2023). "Transformative Experience." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/transformative-experience/
+7. Villiger, D. (2024). "Transformative Experience." *Philosophy Compass* 19(6): e13000. https://doi.org/10.1111/phc3.13000
+8. Pettigrew, R. (2015). "Transformative Experience and Decision Theory." *Philosophy and Phenomenological Research* 91(3): 766–774. https://doi.org/10.1111/phpr.12240
+9. Pettigrew, R. (2019). *Choosing for Changing Selves*. Oxford University Press.
+10. Harman, E. (2015). "Transformative Experiences and Reliance on Moral Testimony." *Res Philosophica* 92(2): 323–339. https://doi.org/10.11612/resphil.2015.92.2.8
+11. Mathony, M., & Messerli, M. (2022). "Transformative Experiences, Cognitive Modelling and Affective Forecasting." *Erkenntnis* 89(1): 65–87. https://doi.org/10.1007/s10670-022-00523-z
+12. Ubel, P. A., Loewenstein, G., & Jepson, C. (2005). "Disability and Sunshine: Can Hedonic Predictions Be Improved by Drawing Attention to Focusing Illusions or Emotional Adaptation?" *Journal of Experimental Psychology: Applied* 11(2): 111–123. https://doi.org/10.1037/1076-898X.11.2.111
+13. Wilson, T. D., & Gilbert, D. T. (2005). "Affective Forecasting: Knowing What to Want." *Current Directions in Psychological Science* 14(3): 131–134. https://doi.org/10.1111/j.0963-7214.2005.00355.x
+14. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly* 32(127): 127–136.
+15. Southgate, A. & Oquatre-sept, C. (2026-01-27). The Acquaintance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/acquaintance-void/
