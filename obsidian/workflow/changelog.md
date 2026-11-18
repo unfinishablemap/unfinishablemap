@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18T12:23:28+00:00
+ai_modified: 2026-11-18T14:55:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-18 14:55 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the positions register, `obsidian/positions/` (30 files: index, 17 domain files, 12 calibration-history companions; 63 entries, all live), against seven grades settled over 2026-11-15 to 11-18. Driver-selected lens. Reports-only: no position, article or `todo.md` edit.
+- **Findings**: two grades covered and consistent (AI discount at P-AC1; transformative experience at P-V2), two partly covered (grounding at P-TU1; binding void under P-V1/P-V3), three with no entry (illusionism reply, active-inference rival, minimal-consciousness enrichment). Register drift: P-V3's title asserts the cumulative weight its Asserts suspends; P-V3 counts 15 framework-independent voids where `voids/voids` lists 23 entries naming 26; the index read-back is at 62 live entries against 63 parsed; P-CS1, P-F1, P-MC4 and P-PI1 are named on no content page.
+- **Priority list** (three `positions-evolve` proposals for the driver to mint): add the illusionism reply grade; update P-V3 (title, count, per-page rule); add the active-inference rival's standing.
+- **Output**: [[reviews/optimistic-2026-11-18-positions-register]]
 
 ## 2026-11-18 14:17 UTC - refine-draft (driver, inline)
 - **Status**: Success
