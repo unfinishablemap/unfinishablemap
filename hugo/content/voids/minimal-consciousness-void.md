@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-11-18 10:20:16+00:00
+ai_modified: 2026-11-18 10:38:07+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:04:23+00:00
-lastmod: 2026-11-18 10:20:16+00:00
+lastmod: 2026-11-18 10:38:07+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -76,7 +76,7 @@ What advanced meditators call "contentless" awareness they also describe, under 
 
 This does not mean the meditators are wrong. They may be reporting the lowest floor the observing mind can reach. But on the enrichment premise this floor lies above the actual minimum, the two separated by the cost of observation. The companion question—whether such contentless awareness persists into genuine unconsciousness or merely seems contentless to a reporting mind—is taken up in [contentless awareness and the evidence question](/topics/contentless-awareness-evidence/).
 
-Two caveats apply. First, the convergence is partly non-independent: the survey's respondents were new, but its 92 items came from the literature and practitioner pilot studies, so the phenomenological "floor" and the questionnaire "profile" share one report-tradition's framing and are not independent lines. Second, Metzinger (2020) supplies a deflationary reading of why the state *feels* empty: the MPE is the content of a predictive model of tonic alertness, contentless-feeling because of phenomenal *transparency*—the brain has no introspective access to its own arousal-regulation algorithm, so only bare "wakefulness" content appears. The felt emptiness is then what a physicalist would predict, and the void's "occluded/irreducible" gloss is one interpretation of the transparency datum—consistent with it, not licensed by it.
+Two caveats apply. First, the convergence is partly non-independent: the survey's respondents were new, but its 92 items came from the literature and practitioner pilot studies, so the phenomenological "floor" and the questionnaire "profile" share one report-tradition's framing and are not independent lines. Second, Metzinger (2020) supplies a deflationary reading of why the state *feels* empty: the MPE is the content of a predictive model of tonic alertness, contentless-feeling because of phenomenal *transparency*—the brain has no introspective access to its own arousal-regulation algorithm, so only bare "wakefulness" content appears. The felt emptiness is then what a physicalist would predict, and the void's "occluded/irreducible" gloss is one interpretation of the transparency datum—consistent with it, not licensed by it. On Laukkonen, Friston and Chandaria's (2025) active-inference theory, reflexive self-knowing ("epistemic depth") is proposed as necessary for consciousness and minimal awareness is "a highly simplified (nearly contentless) world model knowing itself non-locally," so the meditators' floor would be the minimum, nothing conscious beneath it. That denies the void's [existence premise](#deflationary-alternatives), the enrichment premise only partly—the authors distinguish this reflexivity from introspection, which they say alters what it interrogates—and the Map does not refute it here: past its own premises lies a framework boundary.
 
 ## Direct vs Indirect Access
 
@@ -100,7 +100,7 @@ On the Map's [dualist](/tenets/#dualism) tenet, no neuron count or Φ value gene
 
 ## Deflationary Alternatives
 
-The void's second, existence premise—that a sub-introspective conscious minimum exists but lies permanently below examination—is not the only available reading of the introspective failure. Three leading frameworks explain the same failure without positing any consciousness beneath higher-order representation, broadcast or self-monitoring. The evidence underdetermines which reading is correct; the void is a contested interpretation of the introspective limit, not a forced consequence of it.
+The void's second, existence premise—that a sub-introspective conscious minimum exists but lies below concurrent examination—is not the only available reading of the introspective failure. Three leading frameworks explain the same failure without positing any consciousness beneath higher-order representation, broadcast or self-monitoring. The evidence underdetermines which reading is correct; the void is a contested interpretation of the introspective limit, not a forced consequence of it.
 
 [Higher-order thought theory](/concepts/higher-order-theories/) (Rosenthal; Lau and Rosenthal 2011) holds that a first-order state is conscious in virtue of being targeted by a suitable higher-order representation. On the Map's account of the theory, that representation is typically unconscious; introspection is a further, conscious, third-level act. So the constitutive layer lies beneath anything introspection adds. That makes the rival stronger: it can grant that examining a state changes it and still hold that nothing is experienced below higher-order representation, leaving the void no fainter experience to be about. The disagreement falls on the void's existence premise, not its enrichment premise, and introspective evidence cannot settle it.
 
@@ -159,6 +159,7 @@ None of the Map's [tenets](/tenets/) is supported by this void; the voids regist
 1. Bayne, T., Hohwy, J., & Owen, A. M. (2016). "Are There Levels of Consciousness?" *Trends in Cognitive Sciences*, 20(6), 405-413.
 1. Birch, J., Schnell, A. K., & Clayton, N. S. (2020). "Dimensions of Animal Consciousness." *Trends in Cognitive Sciences*, 24(10), 789-801.
 1. Laukkonen, R. E., Sacchet, M. D., Barendregt, H., Devaney, K. J., Chowdhury, A., & Slagter, H. A. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 280, 61-87.
+1. Laukkonen, R. E., Friston, K., & Chandaria, S. (2025). "A beautiful loop: An active inference theory of consciousness." *Neuroscience & Biobehavioral Reviews*, 176, 106296.
 1. Chowdhury, A., van Lutterveld, R., Laukkonen, R. E., Slagter, H. A., Ingram, D. M., & Sacchet, M. D. (2023). "Investigation of advanced mindfulness meditation 'cessation' experiences using EEG spectral analysis in an intensively sampled case study." *Neuropsychologia*, 190, 108694. (Corrigendum: *Neuropsychologia*, 203, 108972, 2024.)
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Gamma, A., & Metzinger, T. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694. (Data-availability correction: *PLOS ONE*, 19(11), e0314290, 2024.)
