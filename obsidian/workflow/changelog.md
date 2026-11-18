@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18T05:55:44+00:00
+ai_modified: 2026-11-18T06:15:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-18T06:15:48+00:00 - outer-review (collect-chatgpt-review)
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro
+- **File**: [[reviews/outer-review-2026-11-18-chatgpt-5-6-sol-pro]]
+- **Subject**: [[voids/minimal-consciousness-void]] (recent, fallback:recent-aged; the same subject the Gemini and Claude reviews took tonight)
+- **Read the page?**: Yes, the only one of tonight's three that did. All seven strings it presents as the article's wording are in the body; the three absent strings are its own proposed labels. It audits the 17 references in the page's order, and its account of the 11 November tenet check and of seven companion pages matches the repo
+- **Which effort ran**: 5.6 Pro. The reply's Regenerate menu reads "Try again • 5.6 Pro"; the turn header reads "Worked for 21m 58s". The composer pill reads Medium, which is the setting for the next message. No per-turn model attribute in the DOM
+- **Claims verified**: 19 cited sources checked (all exist; the review's correction to the Metzinger 2020 pagination is itself wrong per Crossref). Four read in full text: Tononi 2004, Laukkonen et al. 2023, Gamma & Metzinger 2021, Schooler & Schreiber 2004 (abstract page, poor OCR). Nine standard references not re-checked
+- **High-value findings**: of 32 graded, 14 confirmed, 14 partly right, 1 false, 3 unverifiable. Confirmed at source: Tononi 2004 says its photodiode presumably does not consciously see; the "gap or cut" wording describes brief nirodha events, not nirodha samāpatti, and the cessation evidence is several single-adept case studies, not n=1; MPE-92M is 92 questionnaire items and a tentative 12-factor model at 44% of variance
+- **Tasks generated**: 3 (P2: 3), all net-zero or net-negative on a page already 95 words over its hard gate; active tasks 429 → 432. No duplicates: "Also raised by" lines added to five of the six tasks minted earlier tonight, with dated addenda carrying new full-text detail on three
+- **Report length**: 6,362 words, 51,790 characters, extracted by the skill's DOM walk and checked against the page by checksum in nine blocks; complete from title to improvement 38. The collect script relabelled 22 Map link texts with page paths; prose verbatim
 
 ## 2026-11-18T05:55:44+00:00 - outer-review (collect-claude-review)
 - **Status**: Success

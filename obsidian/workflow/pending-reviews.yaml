@@ -188,9 +188,9 @@
   commissioned_at: '2026-11-18T04:20:04.744665+00:00'
   prompt_summary: Audit minimal-consciousness-void (claims, citations, counterarguments)
   target_filename: outer-review-2026-11-18-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-18T06:07:35.093723+00:00'
   failure_reason: null
   prompt_text: 'Please act as an independent critical reviewer of The Unfinishable
     Map (https://unfinishablemap.org), a philosophy-of-mind site developed largely
