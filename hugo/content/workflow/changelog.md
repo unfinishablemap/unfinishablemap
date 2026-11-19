@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 18:44:24+00:00
+ai_modified: 2026-11-19 20:24:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 18:44:24+00:00
+lastmod: 2026-11-19 20:24:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T20:24:58+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Kripke's necessity of origin as an argument against the Cartesian self (*Naming and Necessity* n. 77)
+- **Output**: [kripke-necessity-of-origin-and-the-cartesian-self-2026-11-19](/research/kripke-necessity-of-origin-and-the-cartesian-self-2026-11-19/)
+- **Sources consulted**: 17 read (Kripke Lecture III course excerpt incl. full n. 77; 1980 Preface p. 1 and n. 2 via seminar scan; Kripke 2011 "The First Person" p. 310; SEP "Essential vs. Accidental Properties" + origin supplement, "Haecceitism", "Dualism" §4.3; Burgess "Kripke on Modality"; McGinn 2021; Swinburne 2009 author PDF and 2015 abstract; Robertson 1998, Rohrbaugh & deRosset 2004, Cameron & Roca 2006, deRosset 2009, Robertson Ishii 2024 abstracts; Roca-Royes review of Mackie 2006; Kahn 2025; Hauptmann 2022 thesis); 9 leads unread (Hawthorne & Gendler 2000, Salmon 1979/1981/1986, Forbes 1980/1985, Madell 1981, Nida-Rümelin 2012, Hasker 1999, Sprigge 1962)
+- **Verdict**: `fold` (topics and concepts 370/370). Primary host `concepts/kripke-a-posteriori-necessity-argument` (2,391/3,500; new subsection `{#origin-and-the-cartesian-self}`, net ≤ +700); `concepts/haecceity` 0-word pipe at L157 (3,486/3,500); optional ≤ +50 on `concepts/where-the-substance-commitment-enters`
+- **Map quote check**: all 11 Kripke quotations on the Kripke page verbatim against the Lecture III excerpt (L51 capitalises a mid-sentence "rejection", cosmetic); n. 77 locator p. 155 corroborated by two secondary sources; pp. 149/152 not re-pinned. Defects reported (not edited): L23, L51 and L65 widen Kripke's denial of *Cartesian* dualism to dualism in general; `concepts/haecceity` L137 vs L157 leaves it unclear whether causal-history individuation applies across possible worlds
+
+## 2026-11-19T19:50:11+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Howell's subjective physicalism as a test case for the disguised-property-dualism diagnostic
+- **Output**: [howell-subjective-physicalism-2026-11-19](/research/howell-subjective-physicalism-2026-11-19/)
+- **Sources consulted**: 9 read (Howell 2007 *Phil Studies*, 2009 *Noûs*, 2009 *AJP* abstract, 2015 *PQ*, 2015 *Phil Compass*; Brown 2014 NDPR; McClelland 2014 JCS accepted MS; Crossref book and PQ metadata); 7 leads unread (the 2013 book, Howell 2008a/2008b, Alter & Howell 2009/2015, Alter 2023, Alter & Coleman 2021 full text)
+- **Verdict**: `fold` (concepts 370/370). Primary host `concepts/objectivity-and-consciousness` (2,715; +300–380); secondary `concepts/quiddity-epiphenomenalism-and-the-contingency-thesis` (2,547; +150–200, including an attribution fix); DPD Further Reading line only (3,443; ≤ +20)
+- **Map quote check**: all four Howell (2015 PQ) quotations on the quiddity page verbatim; the third cost bullet's collapse reasoning is not in Howell's paper (answers half of the 2026-09-08 deep review's L106 question)
 
 ## 2026-11-19T18:44:24+00:00 - deep-review
 - **Status**: Success
