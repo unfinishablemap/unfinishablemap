@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T10:45:01+00:00
+ai_modified: 2026-11-19T11:34:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T11:34:16+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Williams's tedium-of-immortality argument and the survival dualism leaves open (todo P2, harvested from optimistic-2026-11-19 Uncovered Subjects #4)
+- **Output**: [[research/williams-tedium-of-immortality-and-survival-2026-11-19]]
+- **Sources consulted**: 24 (read in full or at the relevant section: SEP Death (Luper), SEP Meaning of Life (Metz), IEP Boredom (O'Brien), Speaks 2006 notes, Kagan Open Yale Lectures 18–19, Burley 2015; abstracts: Bortolotti & Nagasawa 2009, Gorman, Burley 2009, Smuts 2011, Thompson, Neptune 2019, Hauskeller 2021, Chastain 2021, Mitchell-Yellin 2021; the rest are leads)
+- **Verdict**: `recommended_action: fold` → `topics/death-and-consciousness` (new H3 `#endless-survival` after "The Autobiographical Self That Dies"; drafted at 164 + 44 reference words = 208, so 3,769 → 3,977 against the 4,000 gate) plus an 8-word cross-link in `voids/boredom-void` L58 (2,938 → 2,946). Topics and concepts at 370/370; voids 124/125 not spent (not a void subject)
+- **Key finding**: the Map's haecceity account satisfies Williams's first condition (it is clearly me) automatically but leaves the second (adequate relation to present aims) standing, per Kagan's "mantra" point. Identity is necessary for what matters on the Map's view, not sufficient. Survival is not immortality, so the argument bites only on endless survival
+- **Defect noticed (report only)**: `topics/meaning-of-life` L71 glosses Williams's categorical desires as "ends one would not trade away"; they are desires not conditional on being alive (SEP Luper; Speaks)
 
 ## 2026-11-19T10:45:01+00:00 - deep-review
 - **Status**: Success
