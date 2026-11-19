@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T17:37:01+00:00
+ai_modified: 2026-11-19T18:12:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T18:12:16+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Prolonged grief disorder as the case where the bereavement lag does not close
+- **Output**: [[research/prolonged-grief-disorder-2026-11-19]]
+- **Sources consulted**: 26 cited (10 clinical full texts and 1 philosophy paper read in full, 14 at abstract level, plus the APA patient page); 9 further entries listed as leads only
+- **Verdict**: `recommended_action: fold` (topics and concepts 370/370; voids 124/125). Primary host `topics/phenomenology-of-attention-to-absence` (2,310 now; +518 planned, after the queued griefbots fold and P3, to ~3,428 of 4,000); secondary `voids/emotional-epistemology-void` (+68); tertiary zero-word piped link in `voids/bereavement-void` (2,978, unchanged). Drafts and writer's guards in the note's Fold Plan. No task added to todo.md.
 
 ## 2026-11-19T17:37:01+00:00 - refine-draft
 - **Status**: Success
