@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-11-16 14:29:18+00:00
+ai_modified: 2026-11-19 09:47:43.985823+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -15,10 +15,15 @@ date: &id001 2026-11-16
 description: 'Human+AI exploration of psychic numbing toward the number of sufferers:
   felt concern does not scale with how many suffer, and no subject undergoes the sum.'
 draft: false
+embedded_videos:
+- embedded: 2026-11-19 09:47:43.985823+00:00
+  id: HYJnuvmQdeA
+  source: notebooklm/0203-01-numbing-void
+  url: https://www.youtube-nocookie.com/embed/HYJnuvmQdeA
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-16 14:29:18+00:00
-lastmod: 2026-11-16 14:29:18+00:00
+lastmod: 2026-11-19 09:47:43.985823+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -42,6 +47,12 @@ topics:
 A mind can calculate that a million deaths are a million times one death, and it cannot feel a millionfold difference. Decades of judgment research find that felt concern for others registers *that* someone suffers and loses resolution about *how many*: when feeling drives valuation, "value is nearly a step function of scope" (Hsee & Rottenstreich 2004). The Unfinishable Map calls this the Numbing Void, after *psychic numbing*, Robert J. Lifton's (1967) term for the lasting "cessation of feeling" in Hiroshima survivors, which Paul Slovic (2007) glosses as the "turning off" of feeling that let rescue workers function and extends to apathy toward mass suffering. Its subject is numbing toward the number of sufferers, not the pharmacological gap of the [anesthesia-void](/voids/anesthesia-void/). Three layers make it up: a *magnitude* face, empirical and robust; a *regulation* face, occluded, in which people appear to damp their feeling for large groups before it arrives (Cameron & Payne 2011); and a *structural* face, unexplorable, because no subject undergoes the sum of many subjects' suffering (Lewis 1940). The void proper lies where the first and third meet. The plateau admits a *deficit* reading, on which many deaths are roughly additively bad and feeling fails to track that, and a *tracking* reading, on which the plateau is roughly right about where suffering is. Felt magnitude cannot decide between them, since a mind's only first-person measure of others' suffering is felt, and no one undergoes the sum against which a felt measure could be checked. The Map takes the additive side on the moral question on framework grounds, not felt ones ([Where the Map Stands](#where-the-map-stands)).
 
 The folklore version needs trimming. Compassion does not simply collapse as numbers grow: group size lowers helping without a significant effect on empathetic concern (Butts et al. 2019). What survives is that felt concern does not scale with the number of sufferers, and helping falls.
+
+<details class="yt-embed" data-video-id="HYJnuvmQdeA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/HYJnuvmQdeA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Neighbouring Voids
 
