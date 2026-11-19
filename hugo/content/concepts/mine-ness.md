@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-27 06:51:34+00:00
+ai_modified: 2026-11-19 00:56:36+00:00
 ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -15,14 +15,14 @@ concepts:
 - '[[introspection]]'
 - '[[mysterianism]]'
 created: 2026-02-24
-date: &id001 2026-10-27
+date: &id001 2026-11-19
 description: Mine-ness is the phenomenal mark by which experience presents as belonging
   to a subject—separable in pathology, yet its mechanism of appropriation stays opaque.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-22 21:12:19+00:00
-lastmod: 2026-10-27 06:51:34+00:00
+lastmod: 2026-11-19 00:56:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ The feature arrives with a limit attached. We cannot introspect the mechanism by
 
 ## Defining the Feature
 
-Mine-ness, on Zahavi's account, is the dimension of pre-reflective self-awareness that accompanies every conscious state: "In being aware of a thought, action, emotion, perceptual experience, memory, bodily experience (and also my body itself), I am aware of it as being my own." The "for-me" character is not added by reflection or by second-order monitoring. It is constitutive of the experiential character of conscious states from the outset.
+Mine-ness, on Zahavi's account, is the dimension of pre-reflective self-awareness that accompanies every conscious state: whether a thought, a perception, an emotion, a memory or a bodily sensation, each of my experiences is given to me first-personally, as mine. The "for-me" character is not added by reflection or by second-order monitoring. It is constitutive of the experiential character of conscious states from the outset.
 
 Three clarifications keep the concept from sliding into adjacent notions:
 
