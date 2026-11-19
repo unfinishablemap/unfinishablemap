@@ -286,9 +286,9 @@
   commissioned_at: '2026-11-19T02:05:44.621844+00:00'
   prompt_summary: Audit apex/open-question-ai-consciousness (claims, cites, counterargs)
   target_filename: outer-review-2026-11-19-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-19T03:51:04.524638+00:00'
   failure_reason: null
   prompt_text: 'Please conduct an independent outer review of the apex article "The
     Open Question of AI Consciousness" on The Unfinishable Map (https://unfinishablemap.org/apex/open-question-ai-consciousness/),

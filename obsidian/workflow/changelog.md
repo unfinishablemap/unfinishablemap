@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T03:35:26+00:00
+ai_modified: 2026-11-19T04:01:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T04:01:28+00:00 - outer-review (collect-chatgpt-review)
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro
+- **File**: [[reviews/outer-review-2026-11-19-chatgpt-5-6-sol-pro]]
+- **Subject**: [[apex/open-question-ai-consciousness]] (recent, fallback:recent-aged; the Claude and Gemini legs take the same subject tonight)
+- **Read the page?**: Yes. Its account of the Tenet 3 quantifier, the register grades and the 2026-11-18 tenet check (912 pages, 87 above-grade sentences) is accurate. Of the strings it quotes as the article's wording, all but one are present; "erase what consciousness selects" is absent (the page says the decoder "erases what they select", meaning the syndrome measurements)
+- **Which effort ran**: 5.6 Pro. The reply's Regenerate menu reads "Try again • 5.6 Pro", and the turn header reads "Worked for 18m 4s"
+- **Claims verified**: 14 checked. Five were read in source text: Thinking Machines (80 of 1,000 default completions distinct; all identical only with batch-invariant kernels), Neven et al. 2024 ("firmly rooted in Everett's 'many worlds' formulation"), Duch's abstract ("seems to be sufficient to make claims"), Cambridge Core for Schwitzgebel (Element online 2026-08-07) and the PubMed abstract for Paetznick (a retitled 2026 *Nature* paper, 11× to 800×, not a straight version of the preprint). Four reviewer leads were confirmed at Crossref with content not read; five were left unchecked
+- **High-value findings**: 7 accepted, 7 rejected or not tasked. Accepted: "sever" contradicts the source page; the Thinking Machines omission; the Everettian Koch model used to keep an internal opening alive; the Duch overstatement plus an unverified attribution cited against the dossier's own rule; Hoerl's reply missing; no illusionist, higher-order or organizational-invariance engagement; stale metadata. Rejected: Maier "corroboration" (the page says "consistent with"); the Butlin borrowing (already disclosed at L81); the QEC misquote; no-cloning (reviewer concedes the fix); scope drift (L67 and L163 already split coupled consciousness from bare phenomenality); Tenet 3 variants (an operator decision); Tulving. One reviewer claim is false: the smeared-states spoke does not flag Koch's model as Everettian
+- **Tasks generated**: 6 (P1: 2, P2: 4), all refine-draft, all with File `obsidian/apex/open-question-ai-consciousness.md` (secondary files: `topics/ai-consciousness`, `topics/consciousness-in-smeared-quantum-states`, and six Schwitzgebel hosts). Active tasks 428 → 434; P0–P2 18 → 24. Each task carries a word budget, because the apex is 5,767 by analyze_length (hard 5,000; prose 4,828). One addendum was added to the NEEDS-HUMAN propagation-methodology entry. No duplicates: `apex/what-it-might-be-like-to-be-an-ai` L122 "severs" is left to its open P3
+- **Report length**: 47,337 characters. It was extracted by the skill's DOM walk and transferred in one block; its length and SHA-256 match the page's in-page hash. Complete from the title to methodology item 14
+- **Article edits**: none in this run
 
 ## 2026-11-19 03:35 UTC - deep-review
 - **Status**: Success
