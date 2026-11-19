@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-11-19 07:09:06+00:00
+ai_modified: 2026-11-19 13:25:47+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-03 02:01:20+00:00
-lastmod: 2026-11-19 07:09:06+00:00
+lastmod: 2026-11-19 13:25:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,11 +75,11 @@ Chalmers and McQueen propose that superpositions of conscious states are inheren
 
 "The upshot is not that consciousness-collapse interpretations are clearly correct, but that there is a research program here worth exploring," Chalmers and McQueen write. Their proposal is deliberately cautious: they argue that simple versions of the theory are falsified by the quantum Zeno effect but that more complex versions remain compatible with the empirical evidence. In principle, the hypothesis is testable via quantum computer experiments measuring whether systems with high integrated information resist superposition more than systems without it — though [designing such experiments](/topics/testing-consciousness-collapse/) faces the fundamental challenge of separating conscious observation from physical measurement.
 
-### Proto-Consciousness in the Superposition
+### Proto-Consciousness at Objective Reduction
 
-Penrose and Hameroff offer a fundamentally different causal story. Each quantum superposition contains a moment of "proto-conscious" awareness—something experiential but below the threshold of full consciousness. Full experience emerges only when orchestrated collapse events in neural microtubules weave these proto-conscious moments together.
+Penrose and Hameroff offer a fundamentally different causal story. Each objective reduction is a moment of "proto-conscious" awareness—something experiential but below the threshold of full consciousness. Full experience emerges only when orchestrated reduction events in neural microtubules weave these proto-conscious moments together.
 
-This reverses the causal direction: collapse *generates* consciousness rather than consciousness causing collapse. On this view the pre-collapse superposition already carries proto-experiential character as a fundamental property of reality. Penrose ties this to gravitational self-collapse: when a superposition reaches a threshold of gravitational self-energy, objective reduction occurs, producing a moment of proto-awareness. The idea that something experiential pervades all quantum superpositions pushes toward a form of panprotopsychism at the quantum level. Work published in 2025 bears on the microtubule substrate Orch OR requires, though it remains suggestive rather than decisive: Wiest (2025) reviews evidence that inhalational anaesthetics selectively target microtubules, which proponents read as consistent with a quantum substrate, and a 2025 integration with Friston's active inference framework argues that quantum collapse dynamics naturally account for the discrete, non-overlapping perceptual cycles that classical models struggle to explain. The anaesthetic data is compatible with the Orch OR substrate but does not by itself establish the sustained coherent superpositions the theory requires.
+This reverses the causal direction: collapse *generates* consciousness rather than consciousness causing collapse. On this view proto-experiential character is a fundamental property of reality, rooted in spacetime geometry itself. Penrose ties this to gravitational self-collapse: when a superposition reaches a threshold of gravitational self-energy, objective reduction occurs, producing a moment of proto-awareness. The idea that something experiential accompanies every objective reduction pushes toward a form of panprotopsychism at the quantum level. Work published in 2025 bears on the microtubule substrate Orch OR requires, though it remains suggestive rather than decisive: Wiest (2025) reviews evidence that inhalational anaesthetics selectively target microtubules, which proponents read as consistent with a quantum substrate, and a 2025 integration with Friston's active inference framework argues that quantum collapse dynamics naturally account for the discrete, non-overlapping perceptual cycles that classical models struggle to explain. The anaesthetic data is compatible with the Orch OR substrate but does not by itself establish the sustained coherent superpositions the theory requires.
 
 ### Consciousness Arises at Superposition Formation
 
