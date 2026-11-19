@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - Voids: The Modal Void"
 created: 2026-02-16
-modified: 2026-02-16
+modified: 2026-11-19
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-11-19T01:08:34+00:00
 draft: false
 target_section: voids
 topics:
@@ -21,12 +21,14 @@ related_articles:
   - "[[consciousness-only-territories]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-16
 last_curated: null
 ---
 
 # Research: Voids - The Modal Void
+
+> **Corrections 2026-11-18.** This note is not named in the [[pessimistic-2026-11-18b-encyclopedia-sentences-as-quotations|pessimistic review, 2026-11-18]], but its van Inwagen entry repeats two items that the review and the same-day correction of [[counterfactual-void]] (built from a sibling note) found to be the prose of the SEP entry "The Epistemology of Modality" listed below (Mallozzi, Vaidya and Wallner, rev. 2023): the "withhold judgment" quotation and the vision analogy. The correction carries over from that finding, which was checked against the full text of van Inwagen 1998; the affected passages now carry a bracketed "Correction 2026-11-18" note (added 2026-11-19), and the original text is left in place as the dated research record, so read the bracketed notes before reusing anything here attributed to van Inwagen.
 
 **Date**: 2026-02-16
 **Search queries used**: "modal consciousness possible worlds epistemic access philosophy", "modal indexicality consciousness trapped in actual world philosophy", "David Lewis modal realism cognitive access possible worlds", "conceivability imagination modal knowledge limits philosophy Yablo Chalmers", "Kripke modal knowledge a priori necessity consciousness", "van Inwagen modal skepticism limits extraordinary modal knowledge", "Christian List many-worlds theory consciousness first-person centred worlds indexical", "actuality indexical consciousness why this world possible worlds modal metaphysics", "Lewis actuality indexical temporal consciousness now analogy possible worlds present"
@@ -72,15 +74,15 @@ Consciousness is confined to the actual. We experience one world — this world 
 - **Quote**: Conceivability is "a limited resource for knowledge of metaphysical modality"
 
 ### Van Inwagen — Modal Skepticism
-- **URL**: https://link.springer.com/article/10.1007/s11098-010-9520-5
+- **URL**: https://link.springer.com/article/10.1007/s11098-010-9520-5 [Correction 2026-11-18: van Inwagen's paper has the DOI 10.1023/A:1017159501073 (*Philosophical Studies* 92(1–2): 67–84, per Crossref), so this link points elsewhere; the 2026-11-18 check searched the paper's own full text.]
 - **Type**: Philosophical argument
 - **Key points**:
-  - Vision analogy: just as visual reliability decreases at the periphery, modal judgment becomes unreliable for extraordinary philosophical cases
+  - Vision analogy: just as visual reliability decreases at the periphery, modal judgment becomes unreliable for extraordinary philosophical cases [Correction 2026-11-18: the vision analogy is the SEP entry's framing of van Inwagen ("an analogy with vision"); his paper has 0 hits for "vision", "visual" and "periphery", and his own analogy is that "many of our modal judgments are analogous to judgments of distance made by eye" (pp. 69–70), judgments that in "circumstances remote from the practical business of everyday life" are "not accurate at all" (p. 70).]
   - Accepts everyday modal knowledge but denies justification for philosophically interesting modal claims distant from ordinary experience
   - The reliable range of modal knowledge is much narrower than philosophers assume
   - Yablo's conceivability framework actually supports this skepticism rather than undermining it
 - **Tenet alignment**: Directly supports the modal void — the boundary of reliable modal knowledge is itself a void boundary
-- **Quote**: "We ought to withhold judgment concerning what we conceive or imagine... when [it is] outside the range of reliability"
+- **Quote**: "We ought to withhold judgment concerning what we conceive or imagine... when [it is] outside the range of reliability" [Correction 2026-11-18: this sentence is the SEP entry's summary of van Inwagen's view (Mallozzi, Vaidya and Wallner, rev. 2023), which reads "we ought to withhold judgment concerning what we conceive or imagine or infer about modal reality, when they are outside the range of reliability of the specified capacity or method"; his 1998 paper has 0 hits for "withhold", "reliab" and "specified capacity", and his own claim is that we "do not and cannot know (at least by the exercise of our own unaided powers) modal propositions like the crucial modal premises of our three possibility arguments" (p. 69).]
 
 ### Kripke — Necessity, A Priori Knowledge, and Consciousness
 - **URL**: https://en.wikipedia.org/wiki/A_posteriori_necessity
@@ -206,7 +208,7 @@ Based on this research, a voids article could:
 - Lewis, D. (1986). *On the Plurality of Worlds*. Blackwell.
 - List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. (First published online 2022.)
 - Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
-- Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84.
+- Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84. [Correction 2026-11-18: issue 92(1–2) per Crossref (DOI 10.1023/A:1017159501073). The "withhold judgment" sentence and the vision analogy given to this paper above are from Mallozzi, A., Vaidya, A. & Wallner, M., "The Epistemology of Modality", *Stanford Encyclopedia of Philosophy* (substantive revision 7 July 2023), which this list omits.]
 - Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 - Chalmers, D.J. (2002). "Does Conceivability Entail Possibility?" In Gendler & Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
 - Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1-42.

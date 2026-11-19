@@ -1,18 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-02-24 07:18:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-19 01:08:34+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-02-24
-date: &id001 2026-02-24
+date: &id001 2026-11-19
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-02-24 07:18:00+00:00
+lastmod: 2026-11-19 01:08:34+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -29,6 +29,8 @@ topics:
 ---
 
 # Research: Voids - The Plurality Void
+
+> **Corrections 2026-11-18.** A review of quotations copied from encyclopedia entries ([pessimistic review, 2026-11-18](/reviews/pessimistic-2026-11-18b-encyclopedia-sentences-as-quotations/)) traced a false quotation on [plurality-void](/voids/plurality-void/) to this note: the sentence given below as Sam Coleman's ("If my point of view and your point of view were to be combined …") is the restatement of his argument by the authors of the SEP entry "Panpsychism" listed below (Goff, Seager and Allen-Hermanson, rev. 2022), and "subject-summing" is that entry's label. The article was corrected that day against Coleman's submitted manuscript of his 2014 paper, and the affected passages here now carry a bracketed "Correction 2026-11-18" note (added 2026-11-19); the original text is left in place as the dated research record, so read the bracketed notes before reusing anything here attributed to Coleman. Not obtained on 2026-11-18, and so asserted nowhere in the notes: the published journal text of Coleman 2014.
 
 **Date**: 2026-02-24
 **Search queries used**: "consciousness plurality multiple simultaneous subjects philosophy", "split brain two consciousnesses one person philosophy", "panpsychism combination problem consciousness merging philosophy", "unity of consciousness necessary or contingent philosophy of mind", "hive mind collective consciousness philosophy inconceivable experience", "Schrödinger plural is unknown consciousness singular", "dissociative identity disorder multiple consciousness philosophical implications", "many worlds interpretation consciousness branching identity splitting", "William James compounding of consciousness", "phenomenal unity consciousness Bayne Chalmers subject summing problem"
@@ -57,11 +59,11 @@ The Plurality Void names the fundamental inability to conceive what it would be 
 - **Type**: Encyclopedia
 - **Key points**:
   - The combination problem (named by William Seager, 1995; rooted in James) asks how micro-level conscious experiences combine into macro-level consciousness
-  - Sam Coleman's subject-summing argument: each subject's viewpoint is defined partly by having *only* those experiences — combining viewpoints appears logically contradictory ("If my point of view and your point of view were to be combined into an uber-mind, that uber-mind would have to have both your experiences to the exclusion of all other experiences and my experiences to the exclusion of all other experiences")
+  - Sam Coleman's subject-summing argument: each subject's viewpoint is defined partly by having *only* those experiences — combining viewpoints appears logically contradictory ("If my point of view and your point of view were to be combined into an uber-mind, that uber-mind would have to have both your experiences to the exclusion of all other experiences and my experiences to the exclusion of all other experiences") [Correction 2026-11-18: the parenthesised sentence is the SEP entry's restatement of Coleman, and "subject-summing" is the entry's label (his own section is titled "Subjects do not Combine"); his submitted manuscript has 0 hits for "uber-mind", "subject-summing" and "to the exclusion of all other experiences" (see the Quote line below).]
   - Philip Goff's conceivability argument: we can imagine "micro-experiential zombies" — creatures with conscious micro-parts but no macro-consciousness — suggesting micro-facts cannot ground macro-consciousness
   - Proposed solutions (fusionism, phenomenal bonding, cosmopsychism) each face serious objections; no wholly satisfactory solution exists
 - **Tenet alignment**: Dualism (if consciousness is fundamental, composition rules are unknown); Occam's Razor Has Limits (the simplest combination stories all fail, suggesting the truth is irreducibly complex)
-- **Quote**: "If my point of view and your point of view were to be combined into an uber-mind, then that uber-mind would have to have both your experiences to the exclusion of all other experiences and my experiences to the exclusion of all other experiences." — Sam Coleman
+- **Quote**: "If my point of view and your point of view were to be combined into an uber-mind, then that uber-mind would have to have both your experiences to the exclusion of all other experiences and my experiences to the exclusion of all other experiences." — Sam Coleman [Correction 2026-11-18: the sentence is the SEP entry authors' restatement of Coleman's argument (Goff, Seager and Allen-Hermanson, rev. 13 May 2022), followed there by "This seems flatly contradictory, assuming that you and I have different experiences", and should not be reused as his words; his own statement, in his submitted manuscript (§5, "Subjects do not Combine"; journal text not collated), is "Experience excludes, as well as includes. … Ub doesn't experience red-to-the-exclusion-of-(blue-and)-all-else, nor blue-to-the-exclusion-of-(red-and)-all-else, let alone—impossibly—both together".]
 
 ### Split-Brain Research and Dual Consciousness
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC7305066/
@@ -134,7 +136,7 @@ The Plurality Void is primarily **unexplorable** with an **occluded** dimension.
 
 1. **Structural impossibility**: First-person experience is constitutively singular. A perspective is defined by being *this* perspective and not others. Pluralizing it appears to destroy the very thing being pluralized.
 
-2. **Logical contradiction**: Coleman's subject-summing argument shows that combining viewpoints requires each viewpoint to simultaneously include and exclude the other's experiences — a logical impossibility.
+2. **Logical contradiction**: Coleman's subject-summing argument shows that combining viewpoints requires each viewpoint to simultaneously include and exclude the other's experiences — a logical impossibility. [Correction 2026-11-18: "subject-summing argument" is the SEP "Panpsychism" entry's label for Coleman's argument (see the corrections under that source above); his own formulation is "Experience excludes, as well as includes".]
 
 3. **Imaginative failure**: Schechter's inconceivability objection demonstrates we cannot even begin to imagine partial phenomenal unity. We have no experiential templates for what it would be like to partially share consciousness with another subject.
 
@@ -217,7 +219,7 @@ Based on this research, a voids article could:
 
 - Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 - Bayne, T. & Chalmers, D.J. (2003). "What is the unity of consciousness?" In A. Cleeremans (ed.), *The Unity of Consciousness: Binding, Integration, and Dissociation*. Oxford University Press.
-- Coleman, S. (2014). "The real combination problem: Panpsychism, micro-subjects, and emergence." *Erkenntnis* 79(1): 19-44.
+- Coleman, S. (2014). "The real combination problem: Panpsychism, micro-subjects, and emergence." *Erkenntnis* 79(1): 19-44. [Correction 2026-11-18: the "uber-mind" sentence credited to Coleman above is from Goff, P., Seager, W. & Allen-Hermanson, S., "Panpsychism", *Stanford Encyclopedia of Philosophy* (substantive revision 13 May 2022), which this list omits; Coleman's own wording was checked in his submitted manuscript only, not in the journal text.]
 - de Haan, E. H. F., et al. (2020). "Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness." *Neuropsychology Review* 30: 224-233.
 - Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.

@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Three research notes still file encyclopedia summaries as quotations from van Inwagen, Yablo and Coleman, the source of three false quotations corrected on two void pages on 2026-11-18
-- **Type**: refine-draft
-- **File**: obsidian/research/voids-counterfactual-void-2026-02-13.md
-- **Status**: pending
-- **Source**: refine-draft 2026-11-18 (sibling report from the encyclopedia-sentence repair on voids/counterfactual-void and voids/plurality-void)
-- **Generated**: 2026-11-18
-- **Review file**: `reviews/pessimistic-2026-11-18b-encyclopedia-sentences-as-quotations.md`
-- **Secondary files**: obsidian/research/voids-plurality-void-2026-02-24.md, obsidian/research/voids-modal-void-2026-02-16.md
-- **Headroom**: Research notes have no length gate. ANNOTATE; do not rewrite: each is a dated research record.
-- **Caution**: Take every correction from the 2026-11-18 changelog entry for `voids/counterfactual-void` and `voids/plurality-void` (it carries the source ledger) and from the review file; assert nothing they do not. Form: as used on 2026-11-18 for `research/voids-nomic-void-2026-02-06` - a dated "Corrections 2026-11-18" block under the title (two or three sentences, pointing at the review by bare-slug piped wikilink), then one bracketed "[Correction 2026-11-18: ...]" sentence at each passage; original text left in place. What was established: the "withhold judgment ... range of reliability of the specified capacity" sentence and the vision analogy are prose of the SEP entry "The Epistemology of Modality" (Mallozzi, Vaidya and Wallner, rev. 2023), not van Inwagen's - his 1998 paper has 0 hits for "withhold" and his analogy is "judgments of distance made by eye" (pp. 69-70); "a world that one takes to verify" is the SEP's third-person rendering of Yablo, whose own sentence is first-personal ("I can imagine a world that I take to verify p"; his reset copy has no journal pagination, so no page is verified); the "both your experiences to the exclusion of all other experiences" sentence is the SEP "Panpsychism" authors' restatement (Goff, Seager and Allen-Hermanson, rev. 2022), not Coleman's - his own wording, in his submitted manuscript, is "Experience excludes, as well as includes", and "subject-summing" is the entry's label. No web requests are needed.
-- **Notes**: Passages (leads; re-grep each string; line numbers shift as notes are inserted): `research/voids-counterfactual-void-2026-02-13` about L61, L67, L72; `research/voids-plurality-void-2026-02-24` about L58, L62 (the sentence under "**Quote**" credited to Sam Coleman); `research/voids-modal-void-2026-02-16` about L83 (the "withhold judgment" quotation under van Inwagen - this note was not named in the review). Then REPORT ONLY: (1) read `voids/modal-void` (the page built from the third note) for the same van Inwagen wording or the vision analogy and print file:line if present; (2) `concepts/modal-epistemology` about L77 says van Inwagen's scepticism "reaches the same withholding" (unquoted, in the encyclopedia's vocabulary) - say whether it needs a word. No "This is not X. It is Y."; no "load-bearing". `ai_modified` from `date -u` on each edited file; `ai_system`: append the model that actually runs only if absent; changelog; sync and confirm the review wikilink renders.
-
 ### P3: `topics/many-minds-interpretation` cites "the proportion of minds associated with each term" to Albert and Loewer 1988, p. 208; the wording is the IEP entry's own prose and the page number belongs to the entry's next quotation
 - **Type**: refine-draft
 - **File**: obsidian/topics/many-minds-interpretation.md
@@ -5910,6 +5898,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-19: Three research notes still file encyclopedia summaries as quotations from van Inwagen, Yablo and Coleman, the source of three false quotations corrected on two void pages on 2026-11-18
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-counterfactual-void-2026-02-13.md
+- **Notes**: Passages (leads; re-grep each string; line numbers shift as notes are inserted): `research/voids-counterfactual-void-2026-02-13` about L61, L67, L72; `research/voids-plurality-void-2026-02-24` about L58, L62 (the sentence under "**Quote**" credited to Sam Coleman); `research/voids-modal-void-2026-02-16` about L83 (the "withhold judgment" quotation under van Inwagen - this note was not named in the review). Then REPORT ONLY: (1) read `voids/modal-void` (the page built from the third note) for the same van Inwagen wording or the vision analogy and print file:line if present; (2) `concepts/modal-epistemology` about L77 says van Inwagen's scepticism "reaches the same withholding" (unquoted, in the encyclopedia's vocabulary) - say whether it needs a word. No "This is not X. It is Y."; no "load-bearing". `ai_modified` from `date -u` on each edited file; `ai_system`: append the model that actually runs only if absent; changelog; sync and confirm the review wikilink renders.
 
 ### ✓ 2026-11-19: `concepts/mine-ness` builds its definition on a "Zahavi" quotation that is the encyclopedia author's sentence: "In being aware of a thought, action, emotion ... I am aware of it as being my own"
 - **Type**: refine-draft

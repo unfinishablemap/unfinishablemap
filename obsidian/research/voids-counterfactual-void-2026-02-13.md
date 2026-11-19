@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - Voids: The Counterfactual Void"
 created: 2026-02-13
-modified: 2026-02-13
+modified: 2026-11-19
 human_modified: null
-ai_modified: 2026-02-13T02:34:00+00:00
+ai_modified: 2026-11-19T01:08:34+00:00
 draft: false
 target_section: voids
 topics:
@@ -21,12 +21,14 @@ related_articles:
   - "[[other-minds-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-13
 last_curated: null
 ---
 
 # Research: Voids - The Counterfactual Void
+
+> **Corrections 2026-11-18.** A review of quotations copied from encyclopedia entries ([[pessimistic-2026-11-18b-encyclopedia-sentences-as-quotations|pessimistic review, 2026-11-18]]) found that two quotations the article built from this note gave to van Inwagen and Yablo, and its "vision analogy", are the prose of the SEP entry "The Epistemology of Modality" listed below (Mallozzi, Vaidya and Wallner, rev. 2023); [[counterfactual-void]] was corrected that day against van Inwagen's 1998 paper and Yablo's own copy of his 1993 paper, and the passages here that seeded those errors now carry a bracketed "Correction 2026-11-18" note (added 2026-11-19). The original text is left in place as the dated research record: read the bracketed notes before reusing anything here attributed to van Inwagen or Yablo. Not obtained on 2026-11-18, and so asserted nowhere in the notes: the journal pagination of Yablo 1993.
 
 **Date**: 2026-02-13
 **Search queries used**: "counterfactual thinking cognitive limits philosophy epistemic", "modal epistemology limits conceivability possibility philosophy", "counterfactual cognition psychology constraints imagination alternatives", "Yablo conceivability possibility distinction ideal conceiver", "van Inwagen modal skepticism peripheral vision analogy modal knowledge", "consciousness alternative forms conceivability alien consciousness Nagel bat", "nearest possible world constraint counterfactual imagination Byrne", "impossible worlds philosophy logic Priest Berto non-normal worlds", "imagination trapped own perspective cognitive architecture modal knowledge limits"
@@ -53,23 +55,23 @@ The counterfactual void names our inability to genuinely access alternative poss
 - **URL**: http://www.mit.edu/~yablo/isconposs.pdf
 - **Type**: Seminal paper
 - **Key points**:
-  - Proposes that a proposition is conceivable if one can imagine a world that verifies it
+  - Proposes that a proposition is conceivable if one can imagine a world that verifies it [Correction 2026-11-18: Yablo's definition has "take to verify", not "verifies": "I can imagine a world that I take to verify p" (§X); see the Quote line below.]
   - Acknowledges the problem of modal error: cases where we conceive of something impossible (Hesperus ≠ Phosphorus) or fail to conceive of something possible
   - The "relevant depth" problem: how detailed must an imagined scenario be to justify a possibility claim? We often imagine schematically, filling in only some features
   - Yablo concedes more work is needed to produce "an exhaustive account of modal error"
 - **Tenet alignment**: The gap between conceivability and possibility mirrors the Map's concern that simple models (Occam) may hide complexity
-- **Quote**: Modal knowledge through conceivability depends on imagining "a world that one takes to verify some proposition" — but the imagination itself operates under constraints
+- **Quote**: Modal knowledge through conceivability depends on imagining "a world that one takes to verify some proposition" — but the imagination itself operates under constraints [Correction 2026-11-18: the quoted words are the SEP entry's third-person rendering of Yablo ("involves imagining a world that one takes to verify some proposition p"); his own definition is first-personal, "Thus p is conceivable for me if (CON) I can imagine a world that I take to verify p" (§X, "What Conceivability Is", in the author's reset copy at the URL above, which has no journal pagination, so no page is verified).]
 
 ### Van Inwagen — Modal Skepticism
-- **URL**: https://link.springer.com/article/10.1007/s11098-010-9520-5
+- **URL**: https://link.springer.com/article/10.1007/s11098-010-9520-5 [Correction 2026-11-18: van Inwagen's paper has the DOI 10.1023/A:1017159501073 (*Philosophical Studies* 92(1–2): 67–84, per Crossref), so this link points elsewhere; the 2026-11-18 check searched the paper's own full text.]
 - **Type**: Philosophical argument
 - **Key points**:
-  - Vision analogy: objects at the periphery of our visual field are judged less reliably; similarly, extraordinary modal claims fall outside the reliable range of our modal faculty
+  - Vision analogy: objects at the periphery of our visual field are judged less reliably; similarly, extraordinary modal claims fall outside the reliable range of our modal faculty [Correction 2026-11-18: the vision analogy is the SEP entry's framing of van Inwagen ("an analogy with vision"); his paper has 0 hits for "vision", "visual" and "periphery", and his own analogy is that "many of our modal judgments are analogous to judgments of distance made by eye" (pp. 69–70), judgments that in "circumstances remote from the practical business of everyday life" are "not accurate at all" (p. 70).]
   - Accepts everyday modal knowledge (this glass could break) but denies we can justify philosophically interesting modal claims far removed from everyday experience
   - The "relevant depth" objection: we cannot specify far-fetched possible scenarios in sufficient detail to justify possibility claims about them
   - Moderate skepticism: the scope of reliable modal knowledge is much narrower than philosophers typically assume
 - **Tenet alignment**: Directly supports investigating voids — the boundary of reliable modal knowledge is itself a void boundary worth mapping
-- **Quote**: "We ought to withhold judgment concerning what we conceive or imagine... when [it is] outside the range of reliability of the specified capacity"
+- **Quote**: "We ought to withhold judgment concerning what we conceive or imagine... when [it is] outside the range of reliability of the specified capacity" [Correction 2026-11-18: this sentence is the SEP entry's summary of van Inwagen's view (Mallozzi, Vaidya and Wallner, rev. 2023), which reads "we ought to withhold judgment concerning what we conceive or imagine or infer about modal reality, when they are outside the range of reliability of the specified capacity or method"; his 1998 paper has 0 hits for "withhold", "reliab" and "specified capacity", and his own claim is that we "do not and cannot know (at least by the exercise of our own unaided powers) modal propositions like the crucial modal premises of our three possibility arguments" (p. 69).]
 
 ### Byrne — *The Rational Imagination* (2005)
 - **URL**: (book, via https://uva.theopenscholar.com/files/early-development-lab/files/the_development_of_8.pdf)
@@ -132,7 +134,7 @@ The counterfactual void is primarily **Unexplorable** with significant **Occlude
 Multiple converging lines of evidence suggest this is a genuine architectural boundary:
 
 - **Empirical**: Byrne's research shows counterfactual thinking follows systematic patterns (fault lines, mutability hierarchy) that reflect cognitive architecture rather than the structure of possibility space itself
-- **Philosophical**: Van Inwagen's vision analogy — the reliable range of our modal faculty extends only to everyday possibilities, not to extraordinary philosophical claims
+- **Philosophical**: Van Inwagen's vision analogy — the reliable range of our modal faculty extends only to everyday possibilities, not to extraordinary philosophical claims [Correction 2026-11-18: the vision analogy is the SEP entry's; van Inwagen's own analogy is to "judgments of distance made by eye" (pp. 69–70; see the correction under the van Inwagen source above).]
 - **Phenomenological**: Nagel's bat argument — we cannot imagine what it is like to be a fundamentally different kind of consciousness, and this limitation is not merely informational
 - **Formal**: Berto's work shows imagination lacks logical closure and can represent impossibilities, suggesting it is a blunt instrument for exploring possibility space
 
@@ -207,7 +209,7 @@ Based on this research, a voids article could:
 - Chalmers, D.J. (2002). "Does Conceivability Entail Possibility?" In Gendler & Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
 - Berto, F. (2017). "Impossible Worlds and the Logic of Imagination." *Erkenntnis*.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84.
+- Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84. [Correction 2026-11-18: issue 92(1–2) per Crossref (DOI 10.1023/A:1017159501073). The "withhold judgment" sentence and the vision analogy given to this paper above are from Mallozzi, A., Vaidya, A. & Wallner, M., "The Epistemology of Modality", *Stanford Encyclopedia of Philosophy* (substantive revision 7 July 2023), which this list omits.]
 - Hawke, P. (2011). "Van Inwagen's Modal Skepticism." *Philosophical Studies*, 153(3), 351-364.
 - Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1-42.
 - Priest, G. & Berto, F. (2013). "Impossible Worlds." *Stanford Encyclopedia of Philosophy*.
