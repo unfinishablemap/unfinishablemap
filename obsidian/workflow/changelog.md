@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T04:33:32+00:00
+ai_modified: 2026-11-19T05:07:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T05:07:02+00:00 - outer-review (collect-gemini-review)
+- **Status**: Success
+- **Reviewer**: Gemini 4 Neon (Deeper analysis, Thinking level High; Deep Research). Gemini no longer offers "Pro", so the collect used model slug `gemini-4-neon`
+- **File**: [[reviews/outer-review-2026-11-19-gemini-4-neon]]
+- **Subject**: [[apex/open-question-ai-consciousness]] (recent; reuse of the ChatGPT leg's subject). Third leg this cycle. The reviewer says direct fetches failed and it worked from search-indexed passages
+- **Extraction**: 51,924 chars; SHA-256 ee105f2d…de81 matched in-page; report taken from the deep-research immersive panel (the only h1 panel)
+- **Claims verified**: about 85 distinct manuscript quotations grepped against the live apex, all present (one "rules"/"rule" paraphrase); no fabricated quotations. Source checks: Fuchs (2007) abstract (PubMed 17396049), Agarwal et al. (2023) abstract (PubMed 36876913), arXiv:2404.02280v3 Comments, Cogitate abstract, and 15 DOIs at Crossref, all real papers. Two reviewer quotations unconfirmed (Graziano, not in the PNAS abstract; "no error correction is performed…", not on the arXiv abstract page). One misattribution: the "changelog line 117" phrases were never in the apex (`git log -S`: 0)
+- **High-value findings**: 4 new and verified. (1) L109 says the evidence "rules out accounts on which consciousness divides cleanly with its substrate", against its own hedge and `topics/split-brain-consciousness` L78/L150 ("whether experience divides stays open"). (2) Fuchs (2007) glossed as "within-moment experience remains intact" on 3 pages; the abstract does not say this. (3) L125 ties no-cloning to "the Map's coupling account", but `topics/quantum-state-inheritance-in-ai` L42/L72 put P-Q1 selection among freely copyable pointer states. (4) Posner coherence figures predate Agarwal et al. (2023), which has 0 Map citations. Rejected: 800× "concealment" (L231 discloses the post-selection), quantum-biology timescales (mechanisms the apex disclaims), the ICL refutation of Hoel (spoke L74 already reports Hoel's reply), Maier "replication-compromised", datum-borrowing "invalid"
+- **Tasks generated**: 4 (P1: 1, P2: 3). P1 split-brain calibration (apex L109 + non-temporal L121); P2 Fuchs gloss (apex + temporal-consciousness + time-consciousness-growing-block); P2 no-cloning opener (apex L125); P2 Agarwal currency (concepts/quantum-consciousness + quantum-biology-and-neural-mechanisms). 6 existing tasks given "Also flagged by" lines: Koch/Neven P1 (Kent 2021), Duch P2 (2/3), Hoerl P2 (regress 3/3), rival-frameworks P2 (illusionism and Seth 3/3), Schwitzgebel/Paetznick P2, citation P2 (J-space). Active tasks 438 → 442
+- **Article edits**: none in this run
 
 ## 2026-11-19T04:33:32+00:00 - outer-review (collect-claude-review)
 - **Status**: Success

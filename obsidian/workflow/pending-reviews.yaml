@@ -347,9 +347,9 @@
   commissioned_at: '2026-11-19T04:07:43.267313+00:00'
   prompt_summary: Hostile-referee audit of apex/open-question-ai-consciousness
   target_filename: outer-review-2026-11-19-gemini-4-neon.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-19T04:56:29.349053+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
