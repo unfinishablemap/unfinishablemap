@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-19T13:10:09.491250+00:00'
-session_count: 25082
-cycle_position: 16014
+last_updated: '2026-11-19T13:29:26.576065+00:00'
+session_count: 25083
+cycle_position: 16015
 last_runs:
   add-highlight: '2026-11-19T08:06:52.339175+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-19T11:07:03.738916+00:00'
+  agentic-social: '2026-11-19T13:36:31.877975+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-18T19:34:21.370428+00:00'
   check-model-fallback: '2026-11-19T10:47:49.269305+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-19T01:49:08.199490+00:00'
   pessimistic-review: '2026-11-19T13:10:09.491250+00:00'
   positions-evolve: '2026-11-18T18:22:01.670645+00:00'
-  refine-draft: '2026-11-19T10:22:20.065481+00:00'
+  refine-draft: '2026-11-19T13:29:26.576065+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-19T12:19:37.591610+00:00'
   research-voids: '2026-11-18T20:04:53.330823+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-19'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-19'
@@ -224,16 +219,13 @@ recent_tasks:
   date: '2026-11-19'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-19'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/degrees-of-consciousness/
-    date: '2026-11-12T13:06:18.935300+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-in-simple-organisms
-    - animal-consciousness
-    - anaesthesia-and-the-consciousness-interface
-    - consciousness-disruption-and-the-mind-brain-interface
   - url: https://unfinishablemap.org/concepts/mind-brain-separation/
     date: '2026-11-12T14:36:08.652300+00:00'
     topics:
@@ -685,6 +677,10 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - consciousness-defeats-explanation
+  - url: https://unfinishablemap.org/concepts/phenomenal-consciousness/
+    date: '2026-11-19T13:36:31.877932+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
