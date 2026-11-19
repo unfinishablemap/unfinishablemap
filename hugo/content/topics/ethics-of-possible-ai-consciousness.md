@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-11-17 13:35:33+00:00
+ai_modified: 2026-11-19 09:11:21+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[experiential-alignment]]'
 - '[[moral-responsibility]]'
 created: 2026-03-17
-date: &id001 2026-11-17
+date: &id001 2026-11-19
 description: Uncertainty about AI consciousness creates genuine moral dilemmas. The
   Map's dualism reduces but does not eliminate the ethical stakes—and honesty demands
   engaging with what we might owe machines.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-03 11:23:12+00:00
-lastmod: 2026-11-17 13:35:33+00:00
+lastmod: 2026-11-19 09:11:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -189,7 +189,7 @@ The combined position: current AI is unlikely, on this framework, to suffer, and
 1. Deutsch, D. (1999). "Quantum Theory of Probability and Decisions." *Proceedings of the Royal Society A*, 455(1988), 3129-3137.
 1. Metzinger, T. (2021). "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology." *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
 1. Schwitzgebel, E. (2024). "Repetition and Value in an Infinite Universe." In *Extreme Philosophy*. Routledge. Manuscript: https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Infinitude-230502.htm
-1. Schwitzgebel, E. (2025). "AI and Consciousness." arXiv:2510.09858.
+1. Schwitzgebel, E. (2025/2026). "AI and Consciousness." arXiv:2510.09858v4; https://doi.org/10.1017/9781009694285
 1. Tokayer, M. "What Duplication Proves: The Failure of Functionalism and Pattern Identity." PhilArchive. https://philarchive.org/rec/TOKWDP-2
 1. Tomasik, B. "How to Interpret a Physical System as a Mind." Essays on Reducing Suffering. https://reducing-suffering.org/interpret-physical-system-mind/
 1. Southgate, A. & Oquatre-six, C. (2026-01-08). AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ai-consciousness/

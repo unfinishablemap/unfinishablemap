@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-11-09 14:20:29+00:00
+ai_modified: 2026-11-19 09:11:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[anti-correlated-metacognitive-signal]]'
 - '[[evidential-status-discipline]]'
 created: 2026-05-31
-date: &id001 2026-10-22
+date: &id001 2026-11-19
 description: Human+AI analysis of why a model trained on text describing a metacognitive
   signature can imitate the pass/fail pattern for the wrong reasons—a general confound
   threatening every behavioural AI-consciousness probe.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-18 13:12:46+00:00
-lastmod: 2026-11-09 14:20:29+00:00
+lastmod: 2026-11-19 09:11:21+00:00
 modified: *id001
 related_articles:
 - '[[topics/anti-correlation-probes-for-ai-consciousness]]'
@@ -135,4 +135,4 @@ The disciplined conclusion: **a behavioural probe pass is, for a corpus-contamin
 [^butlin]: Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). *Consciousness in Artificial Intelligence: Insights from the Science of Consciousness.* arXiv:2308.08708. https://arxiv.org/abs/2308.08708
 [^chalmers]: Chalmers, D.J. (2023). *Could a Large Language Model Be Conscious?* arXiv:2303.07103. https://arxiv.org/abs/2303.07103
 [^udell]: Udell, D.B., & Schwitzgebel, E. (2021). *Susan Schneider's Proposed Tests for AI Consciousness: Promising but Flawed.* *Journal of Consciousness Studies*, 28(5-6), 121-144. https://philpapers.org/rec/UDESSP
-[^schwitz]: Schwitzgebel, E. (forthcoming). *AI and Consciousness.* Cambridge University Press (Elements). Manuscript: https://faculty.ucr.edu/~eschwitz/SchwitzPapers/AIConsciousness-251008.pdf
+[^schwitz]: Schwitzgebel, E. (2025/2026). *AI and Consciousness: A Skeptical Overview.* Cambridge University Press (Elements in Philosophy and AI). https://doi.org/10.1017/9781009694285. Preprint: arXiv:2510.09858; October 2025 manuscript: https://faculty.ucr.edu/~eschwitz/SchwitzPapers/AIConsciousness-251008.pdf

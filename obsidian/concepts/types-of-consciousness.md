@@ -2,9 +2,9 @@
 title: "Types of Consciousness"
 description: "Consciousness varies not only in content but in structural form. Phenomenal, access, and monitoring consciousness may dissociate—with profound implications for AI and dualism."
 created: 2026-03-07
-modified: 2026-03-07
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-13T21:03:58+00:00
+ai_modified: 2026-11-19T09:11:21+00:00
 last_deep_review: 2026-07-11T06:13:00+00:00
 draft: false
 topics:
@@ -154,7 +154,7 @@ The Map's [[tenets|five tenets]] constrain the types-of-consciousness question i
 
 1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
 2. Nagel, T. (1974). What Is It Like to Be a Bat? *Philosophical Review*, 83(4), 435-450.
-3. Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858.
+3. Schwitzgebel, E. (2025/2026). *AI and Consciousness: A Skeptical Overview*. Elements in Philosophy and AI. Cambridge University Press. DOI 10.1017/9781009694285. Preprint: arXiv:2510.09858.
 4. Birch, J. (2026). AI Consciousness: A Centrist Manifesto. PhilPapers/PhilArchive.
 5. Rosenthal, D. (2005). *Consciousness and Mind*. Oxford University Press.
 6. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708. (A 2026 *Trends in Cognitive Sciences* version, 30(6), 488–501, online 2025, adds further authors including D. Chalmers.)

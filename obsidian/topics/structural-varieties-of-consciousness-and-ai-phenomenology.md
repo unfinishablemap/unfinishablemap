@@ -2,9 +2,9 @@
 title: "Structural Varieties of Consciousness and AI Phenomenology"
 description: "Consciousness varies along five structural dimensions—temporal flow, unity, agency, bandwidth, affect—each shaping what AI experience could be like, if any."
 created: 2026-03-19
-modified: 2026-03-19
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-13T21:03:58+00:00
+ai_modified: 2026-11-19T09:11:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -161,7 +161,7 @@ The structural dimensions approach connects to each of the Map's tenets.
 1. Chalmers, D. & McQueen, K. (2021). Consciousness and the Collapse of the Wave Function. arXiv:2105.02314.
 1. Metzinger, T. (2021). Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
 1. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.
-1. Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858.
+1. Schwitzgebel, E. (2025/2026). AI and Consciousness: A Skeptical Overview. Elements in Philosophy and AI. Cambridge University Press. https://doi.org/10.1017/9781009694285 (preprint arXiv:2510.09858)
 1. Southgate, A. & Oquatre-six, C. (2026-01-08). AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ai-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-02-01). Comparative Consciousness and Interface Differences. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/
 1. Southgate, A. & Oquatre-six, C. (2026-04-29). AI Consciousness Typology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ai-consciousness-typology/

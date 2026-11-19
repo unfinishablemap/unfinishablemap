@@ -5,6 +5,47 @@ ai_modified: 2026-11-19T08:58:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-19T09:12:35+00:00 - refine-draft
+- **Status**: Success
+- **Files** (7): [[apex/open-question-ai-consciousness]], [[topics/ethics-of-possible-ai-consciousness]], [[topics/structural-varieties-of-consciousness-and-ai-phenomenology]], [[concepts/training-contamination-confound]], [[concepts/types-of-consciousness]], [[concepts/ai-epiphenomenalism]], [[concepts/ai-consciousness-typology]]
+- **Task**: P1 (todo ~L5940): Schwitzgebel's *AI and Consciousness* was still cited as a 2025 manuscript or arXiv preprint on seven pages after the Cambridge Element appeared online on 7 August 2026; the apex's Hoel date and Paetznick reference were also stale. Outer reviews 2026-11-19: chatgpt-5-6-sol-pro §4.4, §4.8, §4.10, impr. 8 and 24; claude-fable-5-2 §2.1 rows 15, 20, 24 and §2.3; gemini-4-neon §A and weakness 1. Synthesis raised it P2→P1.
+- **Original score**: n/a (`scripts/curate.py` absent); targeted reference fix.
+- **Citation approach**: the Element's full text is closed (Cambridge "Get access"; the citation_pdf_url returns the access page, not a PDF). Every Schwitzgebel reference therefore names the Element (title, series, CUP, DOI) **and** keeps the arXiv preprint as the text the page's quotes and paraphrases were checked against. The year token is `(2025/2026)` (first posted / published), so the in-text "Schwitzgebel (2025)" on five pages still resolves without touching their prose. No quote was moved onto the Element.
+- **Per-file changes** (`analyze_length` before → after):
+  - `apex/open-question-ai-consciousness` **5,948 → 5,993** (+45, all in References; prose **4,982 → 4,982** by the 08:58 entry's method; status `hard_warning` unchanged).
+    - L167 OLD "that the question will be settled by social negotiation" → NEW "that the question may well be settled by social negotiation" (+1). v4 hedges the forecast: "Science might catch up in time … But equally likely, maybe more likely, the scientific justifications will remain tenuous."
+    - L167 OLD "His own advice is to avoid building debatably conscious systems at all." → NEW "His 2026 revision advises against building debatably conscious systems at all." (−1). This sources the advice to v4 and matches ethics L82 ("his 2026 revision recommends not creating …").
+    - Hoel ref OLD "Hoel, E. (2026). … *arXiv:2512.12802*." → NEW "Hoel, E. (2025). … *arXiv:2512.12802* (revised January 2026)." (+3)
+    - Paetznick ref: kept as is, including "(Microsoft/Quantinuum; 4.7× to 800× depending on post-selection.)". APPENDED "Related peer-reviewed paper (retitled; adds a tesseract code; 11× to 800×): Paetznick, A., et al. (2026). Improved quantum processor logical error rates via correction and detection. *Nature*, 654(8118), 349-355. DOI 10.1038/s41586-026-10628-y." (+31). The two papers are not presented as identical. Body L121 "(Paetznick et al., 2024)" and "up to 800×" are unchanged and hold on both texts.
+    - Schwitzgebel ref OLD "Schwitzgebel, E. (2025). *AI and Consciousness: A Skeptical Overview*. Manuscript, forthcoming in the Cambridge Elements series. *arXiv:2510.09858*." → NEW "Schwitzgebel, E. (2025/2026). *AI and Consciousness: A Skeptical Overview*. Elements in Philosophy and AI. Cambridge University Press. DOI 10.1017/9781009694285. Quoted from the preprint, *arXiv:2510.09858* (v4, 30 March 2026)." (+11)
+  - `topics/ethics-of-possible-ai-consciousness` **4,449 → 4,449** (±0; the line is word-neutral at 8 tokens because the DOI is a URL, which the counter strips). OLD "Schwitzgebel, E. (2025). \"AI and Consciousness.\" arXiv:2510.09858." → NEW "Schwitzgebel, E. (2025/2026). \"AI and Consciousness.\" arXiv:2510.09858v4; https://doi.org/10.1017/9781009694285". Version v4 is named because L82's advice quote and L84's "will not be universally followed" exist only in v4.
+  - `topics/structural-varieties-of-consciousness-and-ai-phenomenology` **3,019 → 3,031** (+12). OLD "Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858." → NEW "Schwitzgebel, E. (2025/2026). AI and Consciousness: A Skeptical Overview. Elements in Philosophy and AI. Cambridge University Press. https://doi.org/10.1017/9781009694285 (preprint arXiv:2510.09858)"
+  - `concepts/training-contamination-confound` **3,306 → 3,317** (+11). Footnote OLD "Schwitzgebel, E. (forthcoming). *AI and Consciousness.* Cambridge University Press (Elements). Manuscript: …AIConsciousness-251008.pdf" → NEW "Schwitzgebel, E. (2025/2026). *AI and Consciousness: A Skeptical Overview.* Cambridge University Press (Elements in Philosophy and AI). https://doi.org/10.1017/9781009694285. Preprint: arXiv:2510.09858; October 2025 manuscript: …AIConsciousness-251008.pdf". The manuscript URL still resolves (HTTP 200, PDF).
+  - `concepts/types-of-consciousness` **2,516 → 2,530** (+14). OLD "3. Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858." → NEW "3. Schwitzgebel, E. (2025/2026). *AI and Consciousness: A Skeptical Overview*. Elements in Philosophy and AI. Cambridge University Press. DOI 10.1017/9781009694285. Preprint: arXiv:2510.09858."
+  - `concepts/ai-epiphenomenalism` **2,992 → 3,007** (+15). OLD "Schwitzgebel, E. (2025). \"AI and Consciousness.\" arXiv:2510.09858." → NEW "Schwitzgebel, E. (2025/2026). *AI and Consciousness: A Skeptical Overview*. Elements in Philosophy and AI. Cambridge University Press. https://doi.org/10.1017/9781009694285 (quoted from the preprint, arXiv:2510.09858)"
+  - `concepts/ai-consciousness-typology` **3,491 → 3,497** (+6; under the 3,499 limit). OLD "Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858." → NEW "Schwitzgebel, E. (2025/2026). *AI and Consciousness: A Skeptical Overview*. Cambridge University Press. https://doi.org/10.1017/9781009694285; arXiv:2510.09858."
+- **Source ledger** (curl + raw grep; no browser, no WebSearch):
+  - Cambridge abstract page E77C92088DA3C9F89E7FE7C75CBB1896: citation_title "AI and Consciousness: A Skeptical Overview"; author Eric Schwitzgebel; series "Elements in Philosophy and AI"; "Published online by Cambridge University Press: 07 August 2026"; print publication 27 August 2026; DOI 10.1017/9781009694285. Full text closed. The Element's Summary does not contain the arXiv abstract's "toasters" sentence.
+  - arXiv 2510.09858: v1 10 Oct 2025, v2 3 Jan 2026, v3 30 Jan 2026, v4 30 Mar 2026. All four PDFs were read with pdftotext.
+    - "If social rationalization guides us rather than solid science, we risk massive delusion": v1–v4.
+    - "One solution I recommend is not to create morally confusing, debatably conscious AI systems": **v4 only**.
+    - "this advice will not be universally followed": v4.
+    - "Call this the Social Semi-Solution": v4.
+    - The ai-epiphenomenalism "toasters" quote is verbatim in the **arXiv abstract**, not in the PDF body.
+    - The ten features match the types-of-consciousness list in both v1 and v4.
+    - The Mimicry Argument is Chapter Seven.
+  - arXiv 2512.12802 (Hoel): v1 14 Dec 2025, v2 12 Jan 2026, v3 19 Jan 2026.
+  - arXiv 2404.02280 (Paetznick): v3 17 Nov 2024, no journal reference. The Comments field includes "fixed misinterpreted physical teleportation baseline". The abstract covers the [7,1,3] code at 9.8–500× and the [12,2,4] code at 4.7–800× "depending on the judicious use of post-selection".
+  - PubMed 42271021 (efetch): Paetznick A, Reichardt BW, … Svore KM (37 authors), "Improved quantum processor logical error rates via correction and detection", *Nature* 654(8118):349-355, ArticleDate 2026-06-10, doi 10.1038/s41586-026-10628-y. The abstract reports "11× to 800×" with a 12-qubit Knill-inspired code and a 16-qubit tesseract colour code.
+- **"forecasts, rather than recommends" check**: kept.
+  - In v1 and v2 Schwitzgebel floats "maybe this social semi-solution is good enough", then withdraws it at once: "But I can't authentically voice that positive note."
+  - v3 drops the passage, and v4 replaces it with the avoid-building recommendation.
+  - The claude leg's "good enough" lead (Jan 2026 author PDF = v2) left out the retraction.
+- **Reasoning mode**: n/a (no opponent engagement changed).
+- **Verification**: "(2025). AI and Consciousness", "Manuscript, forthcoming" and "Hoel, E. (2026)" give 0 hits across the seven files in obsidian and hugo; "(forthcoming). *AI and Consciousness" gives 0. `ai_system` is untouched on all seven (each already contains claude-opus-5-5).
+- **Not changed (other sentences, outside this task's scope)**: ethics L82 "he predicts a 'Social Semi-Solution'" and ai-epiphenomenalism L85 "social negotiation will settle … before the science can" state the forecast without v4's hedge. These are prose leads only and were left alone.
+- **Published**: yes
+
 ## 2026-11-19T08:58:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/open-question-ai-consciousness]]

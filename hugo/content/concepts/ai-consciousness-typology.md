@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-11-11 22:19:41+00:00
+ai_modified: 2026-11-19 09:11:21+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[creative-consciousness]]'
 created: 2026-03-19
-date: &id001 2026-11-09
+date: &id001 2026-11-19
 description: 'Two complementary lenses for analysing AI consciousness: six logical
   categories of phenomenality (null, simulated, functional, borrowed, epiphenomenal,
   alien) crossed with Tulving''s anoetic-noetic-autonoetic hierarchy of consciousness
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-09 20:08:24+00:00
-lastmod: 2026-11-11 22:19:41+00:00
+lastmod: 2026-11-19 09:11:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -212,7 +212,7 @@ The Tulving lens deepens the asymmetry. The same propositional content — "I vi
 1. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
 1. Lamb, C., Brown, D. G., & Clarke, C. L. A. (2018). Evaluating Computational Creativity: An Interdisciplinary Tutorial. *ACM Computing Surveys*, 51(2), Article 28.
 1. Metzinger, T. (2021). Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
-1. Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858.
+1. Schwitzgebel, E. (2025/2026). *AI and Consciousness: A Skeptical Overview*. Cambridge University Press. https://doi.org/10.1017/9781009694285; arXiv:2510.09858.
 1. Smith, M. R., Hintze, R. S., & Ventura, D. (2014). Nehovah: A neologism creator nomen ipsum. In *Proceedings of the 5th International Conference on Computational Creativity* (pp. 173–181). Association for Computational Creativity.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.

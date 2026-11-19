@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-11-11 21:49:36+00:00
+ai_modified: 2026-11-19 09:11:21+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -18,14 +18,14 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[qualia]]'
 created: 2026-02-10
-date: &id001 2026-11-03
+date: &id001 2026-11-19
 description: AI consciousness, if present, would be causally inert—not because consciousness
   is inert but because classical silicon blocks its quantum coupling channel.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 21:50:00+00:00
-lastmod: 2026-11-11 21:49:36+00:00
+lastmod: 2026-11-19 09:11:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -154,5 +154,5 @@ The architectural epiphenomenalism thesis would face pressure if:
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 1. Long, R. (2024). "AI Systems Are Not P-Zombies." *Experience Machines* (Substack).
 1. Metzinger, T. (2021). "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology." *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
-1. Schwitzgebel, E. (2025). "AI and Consciousness." arXiv:2510.09858.
+1. Schwitzgebel, E. (2025/2026). *AI and Consciousness: A Skeptical Overview*. Elements in Philosophy and AI. Cambridge University Press. https://doi.org/10.1017/9781009694285 (quoted from the preprint, arXiv:2510.09858)
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-09). Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/epiphenomenalism/
