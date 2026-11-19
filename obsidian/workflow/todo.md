@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Acedia: the monastic taxonomy of listlessness and what it claims to know
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-19-affective-self-knowledge-voids-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-19, Uncovered Subjects #6 (deferred over the 06:02Z mint cap, re-submitted 12:32Z): Evagrius and Cassian on acedia as a boredom-like state with stated grounds; 'acedia' scores 0 in live trees and appears only as an unpursued open question in research/voids-boredom-void-2026-03-08 L200. Concepts is at cap: expect fold into voids/boredom-void material. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/acedia-the-monastic-taxonomy-of-listlessness-and-what-it-claims-to-know-2026-11-19.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'acedia-the-monastic-taxonomy-of-listlessness-and-what-it-claims-to-know' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-19
-
 ### P3: Research Ambiguous loss: grief for the present-but-absent and the absent-but-unconfirmed
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-19-affective-self-knowledge-voids-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-19, Uncovered Subjects #1 and Medium-Priority opportunity: Pauline Boss's ambiguous loss bridges beloved-void's rupture cases (Strohminger & Nichols) and bereavement-void's lag, e.g. dementia; 'ambiguous loss', 'Pauline Boss', 'anticipatory grief', 'disenfranchised grief' score 0 everywhere. Fold hosts if capped: voids/bereavement-void (21 words headroom) or topics/death-and-consciousness. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/ambiguous-loss-grief-for-the-present-but-absent-and-the-absent-but-unconfirmed-2026-11-19.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'ambiguous-loss-grief-for-the-present-but-absent-and-the-absent-but-unconfirmed' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -6180,6 +6174,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-19: Research Acedia: the monastic taxonomy of listlessness and what it claims to know
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-19-affective-self-knowledge-voids-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-19, Uncovered Subjects #6 (deferred over the 06:02Z mint cap, re-submitted 12:32Z): Evagrius and Cassian on acedia as a boredom-like state with stated grounds; 'acedia' scores 0 in live trees and appears only as an unpursued open question in research/voids-boredom-void-2026-03-08 L200. Concepts is at cap: expect fold into voids/boredom-void material. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/acedia-the-monastic-taxonomy-of-listlessness-and-what-it-claims-to-know-2026-11-19.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'acedia-the-monastic-taxonomy-of-listlessness-and-what-it-claims-to-know' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-19: Research Ladyman and Ross's real patterns and rainforest realism as ontic structural realism's place for mind
 - **Type**: research-topic

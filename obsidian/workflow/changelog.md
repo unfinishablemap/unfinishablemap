@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T21:05:44+00:00
+ai_modified: 2026-11-19T21:49:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T21:49:53+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Acedia: the monastic taxonomy of listlessness and what it claims to know
+- **Output**: [[research/acedia-monastic-listlessness-2026-11-19]]
+- **Sources consulted**: 13 read. Primary texts in full or in the relevant chapters: Cassian *Institutes* X (Gibson, New Advent), Evagrius *Praktikos* 6/10/12/27–29/36 (Dysinger, public domain), Aquinas *ST* II-II q. 35 (English Dominican). Also Bahrisch 2016 (full), Elpidorou 2014 (full), the IEP *Boredom* acedia section, the Norris 2008 PBS interview, Zecher 2020 (popular, flagged), and abstracts or opening pages of Daly 2007, DeYoung 2004/2014, Crislip 2005, Wenzel 1966, Dahm 2021, Benn 2011 and Moore & Fresco 2012. 70 quotations grep-verified, control 0. About 12 leads unread (Wenzel 1967, Svendsen, Toohey 1990/2011, Norris's book, *On the Eight Thoughts*, *Antirrhetikos* 6, Gregory). "Dragseth" and "Bueno" leads not found, so dropped.
+- **Verdict**: `fold`, not the 125th voids slot (voids 124/125; topics and concepts 370/370). Acedia adds a case and a practice but no new limit, since its faces map onto the boredom, mood, confabulation and sour-grapes voids. Primary host `voids/emotional-epistemology-void`: new `### The Inverse Case: Acedia {#acedia}` at the end of "The Verification Paradox" (+230; 2,140 → ≤ 2,558 with booked work). Secondary hosts: `voids/mood-void` "Counterfactual triangulation" bullet (+61, Aquinas a. 1 ad 2) and `voids/boredom-void` face 3 (+33, Cassian X.3; 2,946 → 2,979), with a zero-word fallback.
+- **Key finding (the Map's analysis)**: acedia supplies surplus grounds (reasons, even doctrinal ones) rather than missing ones. The tradition discounted them by process (timing, every reason pointing to leaving, virtue disguise, lifting if outlasted) rather than content. Such checks show the reasons depend on the state, which falls short of showing them false, and the positive verdict came from the vocation plus a later affect.
+- **Map defects (report only)**: `topics/neoplatonist-common-cause-weight-...` L73 calls *Antirrhētikos* (the book title) "his term for the practice" (the practice is *antirrhēsis*; the page's own research note has it right). Its "demons, the body, the self, or God" source list is flagged for checking.
 
 ## 2026-11-19T21:05:44+00:00 - research-topic
 - **Status**: Success
