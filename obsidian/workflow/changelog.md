@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T18:12:16+00:00
+ai_modified: 2026-11-19T18:44:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T18:44:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/interface-friction]]
+- **Word count**: 2,569 → 2,684 (+115; concepts soft 2,500 / hard 3,500, gate `>=`; within the brief's ≤ +150)
+- **Critical issues addressed**: 2
+  1. *L44, stale propagation*: "Each exhibits the same structure—directedness-against-constraint, graded yielding, sustained temporality—with different objects." → "All six share directedness meeting constraint; graded yielding and sustained temporal structure recur in four of them but not in logical or imaginative resistance." The source page `topics/phenomenology-of-resistance-across-domains` withdrew the three-feature claim on 2026-04-17 (`bebc7db41e`), seven hours after this page copied it (`ed7a3a06c4`); it survived four deep reviews that checked only the domain list.
+  2. *L108, Carhart-Harris 2012 gloss, author stance and "distinctive"*: "generates a distinctive prediction … default-mode network suppression correlates with reports of enriched phenomenology (Carhart-Harris et al. 2012)—but the evidence is mixed: psychedelics also impair" → "makes a prediction … Psychedelic research is consistent with it but does not discriminate between the models: in Carhart-Harris et al. (2012) the size of psilocybin's reduction in anterior cingulate/medial prefrontal activity, a default-mode hub, predicted the intensity of the subjective effects, yet the authors explain those effects neurally, as "caused by decreased activity and connectivity in the brain's key connector hubs". The evidence is also mixed: psychedelics impair". "Enriched" has 0 hits in the abstract (control 0); the quote has 1 hit in the PMC 3277566 record.
+- **Medium issues addressed**: 6
+  - L58: "10⁻²⁰ seconds for ion superpositions" → "10⁻²⁰ seconds for a neuron poised between firing and not firing (some 10⁶ sodium ions in superposition)". Tegmark: "N ∼ 10⁶ Na+ ions are in a superposition" (1 hit), and τ ∝ 1/N.
+  - L72: "reflects genuine work at the interface" → "would, on this model, reflect genuine work at the interface".
+  - L76: "Attention is a scarce resource because" → "On that framing, attention is scarce because".
+  - L86: "suggest well-worn interface channels" → "would correspond to well-worn interface channels".
+  - L90: "Learning a new motor skill is effortful precisely because … has not been established." → "On the friction reading, learning a new motor skill is effortful because … has not yet been established."
+  - L60: "Stapp argues … which Georgiev disputes" → "Stapp (2000) argues … which Georgiev (2015) disputes", with References entries added for Stapp 2000 (arXiv quant-ph/0010029) and Georgiev 2015 (*IJMPB* 29(7) 1550039).
+- **Enhancements made**: 0 beyond the fixes above (no new sections; no new cross-links).
+- **Citation ledger**: 13/13 real-correct metadata, with one paraphrase corrected (Carhart-Harris). Sources were fetched by curl: PubMed efetch, the PMC XML record, arXiv full text (Zheng & Meister 2408.10234, Tegmark quant-ph/9907009, Stapp quant-ph/0010029), Crossref and the OpenAlex abstract; nonsense control 0 throughout. Key hits: "6 million cones in one eye has a capacity of about 1.6 gigabits/s" (1); Tegmark "∼ 10−13 − 10−20 seconds"; Hagan "10(-5)-10(-4) s"; Stapp "is a mixture: that makes no difference at all" (1); Gröpel & Mesagno "47 empirical studies" (1), "confirm"/"support" (0).
+- **Fenced lines (not edited, findings reported)**:
+  - L78: "confirmed" overstates the review's "in general … provide a benefit". Separately, Smoulder 2024 is reward-driven choking in monkeys, not self-monitoring.
+  - L114: the rider sentence's minimality-as-width conflation runs through the whole MQI paragraph (tenets L69).
+- **Reasoning mode**: generic physicalist engagement, Mode Three with a Mode Two seed; no named-opponent reply; no label leakage.
+- **Links**: 31/31 resolve; anchors present. There are no Map-internal quotations, and the quantum pages edited today are neither quoted nor linked.
+- **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-11-19T18:48:30+00:00. `ai_system` left as claude-opus-4-6+claude-opus-5-5, which already contains this model.
+- **Output**: [[reviews/deep-review-2026-11-19-interface-friction]]
 
 ## 2026-11-19T18:12:16+00:00 - research-topic
 - **Status**: Success
