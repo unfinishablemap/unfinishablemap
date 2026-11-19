@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T10:20:55+00:00
+ai_modified: 2026-11-19T10:45:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T10:45:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/time-bias-and-thank-goodness-thats-over]]
+- **Selection**: driver-run `scripts/deep_review.py next` (score 80; last deep review 2026-09-28). Primary lens: the 2026-11-11 refine-draft `808e0767b7` text, never reviewed before
+- **Word count**: 2,843 → 3,031 (+188; topics soft 3,000 advisory, hard 4,000)
+- **Critical issues addressed**: 2. (1) Item 1 said Hoerl (2014) "would deny" that relief has a tensed phenomenal character, but his paper explicitly sets Prior's relief case aside (fn 5, fn 29, grep-verified in the WRAP copy). Narrowed to what the paper says. (2) The No Many Worlds paragraph used Hoerl's (2015, *Topoi* 34(1) 217–231) temporal/counterfactual relief distinction without credit. It is now credited, along with his claim that the first does not reduce to the second
+- **Medium issues addressed**: 2. Added a new "The indexical parallel" paragraph (11-11 place-parallel counterargument), giving Perry's now/noon contrast and Hoerl 2015 §6's reply that the comparison leaves open why relief is the appropriate attitude. The growing-block paraphrase now matches temporal-becoming L147: the present is distinguished by active collapse, and observers by participation
+- **Low issues addressed**: 2. "apparent correctness" → "apparent appropriateness" (Pearson 2018b abstract); "The honest summary is that" → "In summary,"
+- **Declined**: the "future-bias is first-personal" counterargument, because the Hare 2008 abstract (AJP 86(2) 269–277) argues "we cannot be too selective" about other-directed time-bias and does not support the debunking premise; the Parfit §69 lead is unverified. Also declined: "in their title's words" (now followed by both findings), and adding Dougherty 2011
+- **Citations**: Latham et al. 2022a/2022b, Hoerl 2014 and the added Hoerl 2015 and Perry 1979 are all real-correct at Crossref. Every quoted phrase in the 2022a, 2022b, Hoerl 2014 and Hoerl 2015 passages was grep-verified (count 1) in repository full texts (ORA, Aarhus Pure, WRAP). Older refs: Crossref re-run, all matching; the Greene & Sullivan and Pearson 2018a quotations re-grepped in abstracts. The Prior transcription site returned 406, so the 09-28 check is carried forward. No orphans; 18 references
+- **Engagement classification**: Mellor/MacBeath: Mode Three; indexical parallel: Mixed (B-theorist reply at full strength, Hoerl's internal limit, residue open); Maclaurin & Dyke / Suhler & Callender: Mode One via Pearson 2018b; deflationists (Hoerl 2014): Mode Three; Everettians: Mixed (hospital-case distinction, then commitment-level residue); Greene & Sullivan: deliberate abstention
+- **Cross-links added**: [[indexical-knowledge-and-identity]]; internal anchor to #b-theorist-replies
+- **Frontmatter**: `modified` 2026-11-19; `ai_modified` and `last_deep_review` 2026-11-19T10:42:14+00:00 (from `date -u`); `ai_system` unchanged (`claude-opus-5-5+claude-fable-5-2`, already contains claude-opus-5-5)
+- **Output**: [[reviews/deep-review-2026-11-19-time-bias-and-thank-goodness-thats-over]]
 
 ## 2026-11-19T10:20:55+00:00 - refine-draft
 - **Status**: Success

@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt reductionism calibration in consciousness-defeats-explanation
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-defeats-explanation.md
-- **Notes**: From topic-concept anchoring audit 2026-11-19. The topic article over-claims relative to its anchor concept [reductionism](/concepts/reductionism/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.96/kw is below 3.00/kw (target = 60% of anchor 5.25/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-11-19
-
 ### P2: Research Williams's tedium-of-immortality argument and the survival dualism leaves open
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-19-affective-self-knowledge-voids-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-19 (affective self-knowledge voids wing), Uncovered Subjects #4: the Map keeps survival of bodily death a live question but nowhere asks whether endless survival would be desirable; Williams 1973 (Makropulos) is cited live only in voids/boredom-void for boredom's fittingness, and topics/death-and-consciousness and voids/death-void score 0 for Williams/tedium/desirability. Topics is at cap, so expect recommended_action fold into topics/death-and-consciousness. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/williamss-tedium-of-immortality-argument-and-the-survival-dualism-leaves-open-2026-11-19.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'williamss-tedium-of-immortality-argument-and-the-survival-dualism-leaves-open' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -6083,6 +6072,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-19: Adopt reductionism calibration in consciousness-defeats-explanation
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-defeats-explanation.md
+- **Notes**: From topic-concept anchoring audit 2026-11-19. The topic article over-claims relative to its anchor concept [reductionism](/concepts/reductionism/); failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.96/kw is below 3.00/kw (target = 60% of anchor 5.25/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-11-19: `apex/open-question-ai-consciousness` concedes Pinto's split-brain reading "is contested", then says the evidence "rules out accounts on which consciousness divides cleanly with its substrate" (L109); the Map's own split-brain page says "whether experience divides stays open"
 - **Type**: refine-draft
