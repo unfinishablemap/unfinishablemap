@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 10:45:01+00:00
+ai_modified: 2026-11-19 13:08:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 10:45:01+00:00
+lastmod: 2026-11-19 13:08:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T13:08:13+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/learning-void` (created 2026-11-17). Selected on content-measured coverage: 4 review files contain the slug, 0 pessimistic, lowest of the 35 never-pessimistic live articles that no open task names. Findings: the lead's "plain way round" leaves out the separation-by-method condition its own Persistence section shows is needed, and "Delay also improves the judgement itself" carries an item-level result over to the method judgement; Yan et al. 2016's pre-existing-belief factor is missing (PubMed abstract read); two sentences that frame the evidence overstate it (the "performance side" frame fails for the classroom study; "spacing" counts the painting manipulation twice); the cross-state crosslink misapplies that page's visceral-state definition. No quotation defects. Tenet grade untouched, per Stability Notes.
+- **Tasks**: 1 refine-draft (P2, File `obsidian/voids/learning-void.md`, items 1-4); active tasks 445 -> 446.
+- **Output**: [pessimistic-2026-11-19-learning-void](/reviews/pessimistic-2026-11-19-learning-void/)
+
+## 2026-11-19T12:18:41+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Griefbots: AI simulations of the dead and the duplicate beloved (todo P2, harvested from optimistic-2026-11-19 Uncovered Subjects #3)
+- **Output**: [griefbots-ai-simulations-of-the-dead-2026-11-19](/research/griefbots-ai-simulations-of-the-dead-2026-11-19/)
+- **Sources consulted**: 33. Read in full or at the relevant sections: Hollanek & Nowaczyk-Basińska 2024, Xygkou et al. 2023 (AAM), Campbell, Liu & Nyholm 2025, Lindemann 2022, Morris & Brubaker 2025 (arXiv v4), Manning et al. 2026 (preprint), Voinea et al. 2026, Ponce et al. 2026, Fagone 2021, Newton 2016, the APA PGD page, and the Project December site. Abstracts: Fabry 2025, Stendera 2025, Elder 2020, Iglesias et al. 2025, Parra Garzón 2026, Lu et al. 2026, Fu et al. 2025, Kozlovski et al. 2026, Spitale & Germani 2025, Shi & DiFranzo 2026. The rest are leads, including Krueger & Osler 2022, Fabry & Alfano 2024, Öhman & Floridi 2017/2018 and Li & Lan 2026, all blocked or unread
+- **Verdict**: `recommended_action: fold`. Primary: `topics/phenomenology-of-attention-to-absence`, a new H2 `#simulated-presence` before Relation to Site Perspective (334 prose + 161 reference words = 495, so 2,310 → 2,805; one open P3 owns L96/L106). Secondary: `voids/beloved-void` "What AI Might See" (+134, 2,844 → 2,978). Cross-link: `voids/bereavement-void` (+11, 2,978 → 2,989). `topics/death-and-consciousness` and `topics/alief-and-acting-against-belief` are excluded because open folds reserve their headroom. Topics and concepts are at 370/370; the last voids slot (124/125) was not spent, since this is not a void subject. `griefbots-and-the-duplicate-beloved` is free in topics if a slot opens
+- **Key finding**: no controlled or longitudinal outcome study exists in the literature found. Users in the one peer-reviewed interview study read say they know the bot is not the person and judge it by emotional resonance. Campbell et al. argue that a relationship "does not allow for 'swapping'", so a thanabot relationship cannot continue one with the dead. On the Map's haecceity account the non-identity verdict is overdetermined, which means it illustrates No Many Worlds without supporting it
+- **Defects noticed (report only)**: Voinea et al. 2026 misdescribe Xygkou's P06 (an external source; quote Xygkou directly). The harvest task's "cap headroom confirmed at harvest" boilerplate is false at 370/370. `topics/machine-consciousness` L213 makes an unsourced claim about what advocates "rarely acknowledge"
+
+## 2026-11-19T11:34:16+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Williams's tedium-of-immortality argument and the survival dualism leaves open (todo P2, harvested from optimistic-2026-11-19 Uncovered Subjects #4)
+- **Output**: [williams-tedium-of-immortality-and-survival-2026-11-19](/research/williams-tedium-of-immortality-and-survival-2026-11-19/)
+- **Sources consulted**: 24 (read in full or at the relevant section: SEP Death (Luper), SEP Meaning of Life (Metz), IEP Boredom (O'Brien), Speaks 2006 notes, Kagan Open Yale Lectures 18–19, Burley 2015; abstracts: Bortolotti & Nagasawa 2009, Gorman, Burley 2009, Smuts 2011, Thompson, Neptune 2019, Hauskeller 2021, Chastain 2021, Mitchell-Yellin 2021; the rest are leads)
+- **Verdict**: `recommended_action: fold` → `topics/death-and-consciousness` (new H3 `#endless-survival` after "The Autobiographical Self That Dies"; drafted at 164 + 44 reference words = 208, so 3,769 → 3,977 against the 4,000 gate) plus an 8-word cross-link in `voids/boredom-void` L58 (2,938 → 2,946). Topics and concepts at 370/370; voids 124/125 not spent (not a void subject)
+- **Key finding**: the Map's haecceity account satisfies Williams's first condition (it is clearly me) automatically but leaves the second (adequate relation to present aims) standing, per Kagan's "mantra" point. Identity is necessary for what matters on the Map's view, not sufficient. Survival is not immortality, so the argument bites only on endless survival
+- **Defect noticed (report only)**: `topics/meaning-of-life` L71 glosses Williams's categorical desires as "ends one would not trade away"; they are desires not conditional on being alive (SEP Luper; Speaks)
 
 ## 2026-11-19T10:45:01+00:00 - deep-review
 - **Status**: Success

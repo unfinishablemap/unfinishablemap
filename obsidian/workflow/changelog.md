@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T12:18:41+00:00
+ai_modified: 2026-11-19T13:08:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T13:08:13+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/learning-void` (created 2026-11-17). Selected on content-measured coverage: 4 review files contain the slug, 0 pessimistic, lowest of the 35 never-pessimistic live articles that no open task names. Findings: the lead's "plain way round" leaves out the separation-by-method condition its own Persistence section shows is needed, and "Delay also improves the judgement itself" carries an item-level result over to the method judgement; Yan et al. 2016's pre-existing-belief factor is missing (PubMed abstract read); two sentences that frame the evidence overstate it (the "performance side" frame fails for the classroom study; "spacing" counts the painting manipulation twice); the cross-state crosslink misapplies that page's visceral-state definition. No quotation defects. Tenet grade untouched, per Stability Notes.
+- **Tasks**: 1 refine-draft (P2, File `obsidian/voids/learning-void.md`, items 1-4); active tasks 445 -> 446.
+- **Output**: [[reviews/pessimistic-2026-11-19-learning-void]]
 
 ## 2026-11-19T12:18:41+00:00 - research-topic
 - **Status**: Success
