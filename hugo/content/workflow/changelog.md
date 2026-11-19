@@ -1,14 +1,63 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 03:35:26+00:00
+ai_modified: 2026-11-19 05:48:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 03:35:26+00:00
+lastmod: 2026-11-19 05:48:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T05:48:34+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-19 (subject [open-question-ai-consciousness](/apex/open-question-ai-consciousness/), all three legs)
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Sol Pro, Claude Fable 5.2, Gemini 4 Neon). ChatGPT and Claude read the live page; Gemini worked from search extracts, all of which match it
+- **Clusters**: 6 convergent (2 at 3/3: no illusionist / higher-order / organizational-invariance engagement; Husserl's regress made the uncontested "independent" support), 9 singleton, 5 divergent; 5 more raised by several legs but rejected or declined (Maier, Butlin, Plotnitsky each 3 raised / 3 rejected)
+- **Verification**: every convergent claim re-checked on disk before clustering. The apex has 0 hits for illusion*, higher-order, organizational invariance, fading/dancing, Hoerl or extensionalis* under any spelling; Dennett appears only at L129, on the determinacy of experience. Two processor cross-references overstate: "J-space flagged by three legs" (ChatGPT has 0 hits for J-space or Gurnee) and "3/3 on the regress" (only 2/3 give the Hoerl/extensionalist reply)
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4): rival-paragraph, Hoerl regress, Duch, Schwitzgebel/Paetznick/Hoel references. 2 P1s (sever/Thinking Machines, Koch/Neven) given convergent fields only
+- **Tasks deduplicated**: 0 (later legs cross-referenced instead of minting; no duplicates found)
+- **Counts**: active 442 → 442; P0–P2 31 → 31; P1 6 → 10; P2 25 → 21
+- **Operator**: (1) Gemini "Pro" is gone and the leg ran on 4 Neon; `gemini-2-5-pro` is still hardcoded in collect-gemini-review L195/L218 and `tools/reviews/services.py` L50, and the commission step's Pro-or-bail check fails nightly. (2) Hugo `date` comes from `modified` (`tools/sync/converter.py` L375–L378), so `article:published_time` and `citation_publication_date` are last-modified dates. (3) 12 tasks edit an apex at 5,767 words (prose 4,828, headroom 172); their budgets sum to about +215 prose words, so one coordinated pass is recommended
+- **Output**: [outer-review-synthesis-2026-11-19](/reviews/outer-review-synthesis-2026-11-19/)
+
+## 2026-11-19T05:07:02+00:00 - outer-review (collect-gemini-review)
+- **Status**: Success
+- **Reviewer**: Gemini 4 Neon (Deeper analysis, Thinking level High; Deep Research). Gemini no longer offers "Pro", so the collect used model slug `gemini-4-neon`
+- **File**: [outer-review-2026-11-19-gemini-4-neon](/reviews/outer-review-2026-11-19-gemini-4-neon/)
+- **Subject**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) (recent; reuse of the ChatGPT leg's subject). Third leg this cycle. The reviewer says direct fetches failed and it worked from search-indexed passages
+- **Extraction**: 51,924 chars; SHA-256 ee105f2d…de81 matched in-page; report taken from the deep-research immersive panel (the only h1 panel)
+- **Claims verified**: about 85 distinct manuscript quotations grepped against the live apex, all present (one "rules"/"rule" paraphrase); no fabricated quotations. Source checks: Fuchs (2007) abstract (PubMed 17396049), Agarwal et al. (2023) abstract (PubMed 36876913), arXiv:2404.02280v3 Comments, Cogitate abstract, and 15 DOIs at Crossref, all real papers. Two reviewer quotations unconfirmed (Graziano, not in the PNAS abstract; "no error correction is performed…", not on the arXiv abstract page). One misattribution: the "changelog line 117" phrases were never in the apex (`git log -S`: 0)
+- **High-value findings**: 4 new and verified. (1) L109 says the evidence "rules out accounts on which consciousness divides cleanly with its substrate", against its own hedge and `topics/split-brain-consciousness` L78/L150 ("whether experience divides stays open"). (2) Fuchs (2007) glossed as "within-moment experience remains intact" on 3 pages; the abstract does not say this. (3) L125 ties no-cloning to "the Map's coupling account", but `topics/quantum-state-inheritance-in-ai` L42/L72 put [P-Q1](/positions/quantum-interface/#p-q1) selection among freely copyable pointer states. (4) Posner coherence figures predate Agarwal et al. (2023), which has 0 Map citations. Rejected: 800× "concealment" (L231 discloses the post-selection), quantum-biology timescales (mechanisms the apex disclaims), the ICL refutation of Hoel (spoke L74 already reports Hoel's reply), Maier "replication-compromised", datum-borrowing "invalid"
+- **Tasks generated**: 4 (P1: 1, P2: 3). P1 split-brain calibration (apex L109 + non-temporal L121); P2 Fuchs gloss (apex + temporal-consciousness + time-consciousness-growing-block); P2 no-cloning opener (apex L125); P2 Agarwal currency (concepts/quantum-consciousness + quantum-biology-and-neural-mechanisms). 6 existing tasks given "Also flagged by" lines: Koch/Neven P1 (Kent 2021), Duch P2 (2/3), Hoerl P2 (regress 3/3), rival-frameworks P2 (illusionism and Seth 3/3), Schwitzgebel/Paetznick P2, citation P2 (J-space). Active tasks 438 → 442
+- **Article edits**: none in this run
+
+## 2026-11-19T04:33:32+00:00 - outer-review (collect-claude-review)
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (Extra effort, Research mode)
+- **File**: [outer-review-2026-11-19-claude-fable-5-2](/reviews/outer-review-2026-11-19-claude-fable-5-2/)
+- **Subject**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) (recent; the subject reused from the ChatGPT leg's commission)
+- **Collection**: Ready at the first check, 04:19Z: one artifact tile in the thread ("View Hostile Referee Audit: …"), no stop button. The panel opened and the body was stable at 42,877 rendered characters across a 10-second sample. Extracted 51,926 characters (53,108 bytes) by the skill's DOM walk and moved them to disk by Blob download. The in-page SHA-256 matches `sha256sum` (8219be60…50379bbf).
+- **Read the page?**: Yes. All 12 apex phrases it quotes are present verbatim. Two sibling claims were stale because it read search extracts: the Schwitzgebel "proposal" wording and "categorically excluding" on `topics/ethics-of-possible-ai-consciousness`, both already fixed. Its "public changelog stamped 2026-10-15" is false: the live page had `modified_time` 2026-11-19T02:57:25Z.
+- **Claims verified**: 17 checked. Thinking Machines was read in source text (Horace He, DOI 10.64434/tml.20250910, "the 'concurrency + floating point' hypothesis misses the mark"). The Hameroff & Penrose 2014 abstract ties conscious moments to OR terminations, not superpositions. Crossref was checked for Frischhut ("Awareness without time", no "?") and Laukkonen et al. 2025. Grep confirmed the L163/L67/L95 contradiction, 0 Gurnee references, 0 backlinks from the five source spokes (control: 6), and the missing [P-AS2](/positions/ai-substrate-verdicts/#p-as2) link. Disputed: Plotnitsky as a "category slip"; Schwitzgebel's advice as unsourced (ethics L82 sources it to his 2026 revision). The quantum-biology-neural-experimental-turn page it criticises is archived.
+- **High-value findings**: It independently converged on all six ChatGPT-leg tasks (Thinking Machines/conditioning, Koch/Neven, Duch, Husserl/Hoerl, rival camps, Schwitzgebel/Paetznick), so each got an "Also flagged by" line with its additions rather than a duplicate task. New: the apex contradicts itself on the status of epiphenomenal AI experience, and nine siblings say "bare phenomenality stays open", only two with the dispositional qualifier. Also new: the Orch OR gloss (apex and smeared spoke); the Metzinger stance; the missing J-space reference; the [P-AS2](/positions/ai-substrate-verdicts/#p-as2) link; no spoke backlinks; the Frischhut title. Not tasked (reasons in the review's Verification Notes): deleting Possibility Three, demoting Two and Four, Butlin "corroboration", Birch overreach, Stapp "closest", B6/B8/B9, an evidential-tier ladder, condensing or de-duplicating the apexes, register triggers, and method items 4, 5, 7, 8 and 9.
+- **Tasks generated**: 4 new: P1 (L163 status contradiction; File `obsidian/apex/open-question-ai-consciousness.md`), P2 (Orch OR/Metzinger/Gurnee/[P-AS2](/positions/ai-substrate-verdicts/#p-as2); same File, secondary `topics/consciousness-in-smeared-quantum-states`), P2 (spoke backlinks; File `obsidian/topics/consciousness-in-smeared-quantum-states.md` plus four secondaries), P3 (Frischhut title, six pages). Nine cross-reference lines were added: the six ChatGPT-leg tasks, NEEDS-HUMAN (foundations) 2026-08-17 for the Tenet 3 quantifier, NEEDS-HUMAN (methodology ratification) for status propagation, and the P3 "beautiful loop" task. Active tasks went from 434 to 438; P0–P2 from 24 to 27.
+- **Operator note**: Hugo `date:` is written from frontmatter `modified`, and the templates render `.Date` as `article:published_time` and `citation_publication_date`, so every page's citation date is its last-modified date (the reviewer saw 2026-10-23 on a page created 2026-02-10). This is code, not content, so it was not tasked.
+- **Article edits**: none in this run
+
+## 2026-11-19T04:01:28+00:00 - outer-review (collect-chatgpt-review)
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro
+- **File**: [outer-review-2026-11-19-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-19-chatgpt-5-6-sol-pro/)
+- **Subject**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) (recent, fallback:recent-aged; the Claude and Gemini legs take the same subject tonight)
+- **Read the page?**: Yes. Its account of the Tenet 3 quantifier, the register grades and the 2026-11-18 tenet check (912 pages, 87 above-grade sentences) is accurate. Of the strings it quotes as the article's wording, all but one are present; "erase what consciousness selects" is absent (the page says the decoder "erases what they select", meaning the syndrome measurements)
+- **Which effort ran**: 5.6 Pro. The reply's Regenerate menu reads "Try again • 5.6 Pro", and the turn header reads "Worked for 18m 4s"
+- **Claims verified**: 14 checked. Five were read in source text: Thinking Machines (80 of 1,000 default completions distinct; all identical only with batch-invariant kernels), Neven et al. 2024 ("firmly rooted in Everett's 'many worlds' formulation"), Duch's abstract ("seems to be sufficient to make claims"), Cambridge Core for Schwitzgebel (Element online 2026-08-07) and the PubMed abstract for Paetznick (a retitled 2026 *Nature* paper, 11× to 800×, not a straight version of the preprint). Four reviewer leads were confirmed at Crossref with content not read; five were left unchecked
+- **High-value findings**: 7 accepted, 7 rejected or not tasked. Accepted: "sever" contradicts the source page; the Thinking Machines omission; the Everettian Koch model used to keep an internal opening alive; the Duch overstatement plus an unverified attribution cited against the dossier's own rule; Hoerl's reply missing; no illusionist, higher-order or organizational-invariance engagement; stale metadata. Rejected: Maier "corroboration" (the page says "consistent with"); the Butlin borrowing (already disclosed at L81); the QEC misquote; no-cloning (reviewer concedes the fix); scope drift (L67 and L163 already split coupled consciousness from bare phenomenality); Tenet 3 variants (an operator decision); Tulving. One reviewer claim is false: the smeared-states spoke does not flag Koch's model as Everettian
+- **Tasks generated**: 6 (P1: 2, P2: 4), all refine-draft, all with File `obsidian/apex/open-question-ai-consciousness.md` (secondary files: `topics/ai-consciousness`, `topics/consciousness-in-smeared-quantum-states`, and six Schwitzgebel hosts). Active tasks 428 → 434; P0–P2 18 → 24. Each task carries a word budget, because the apex is 5,767 by analyze_length (hard 5,000; prose 4,828). One addendum was added to the NEEDS-HUMAN propagation-methodology entry. No duplicates: `apex/what-it-might-be-like-to-be-an-ai` L122 "severs" is left to its open P3
+- **Report length**: 47,337 characters. It was extracted by the skill's DOM walk and transferred in one block; its length and SHA-256 match the page's in-page hash. Complete from the title to methodology item 14
+- **Article edits**: none in this run
 
 ## 2026-11-19 03:35 UTC - deep-review
 - **Status**: Success

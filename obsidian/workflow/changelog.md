@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T05:07:02+00:00
+ai_modified: 2026-11-19T05:48:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T05:48:34+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-19 (subject [[apex/open-question-ai-consciousness]], all three legs)
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Sol Pro, Claude Fable 5.2, Gemini 4 Neon). ChatGPT and Claude read the live page; Gemini worked from search extracts, all of which match it
+- **Clusters**: 6 convergent (2 at 3/3: no illusionist / higher-order / organizational-invariance engagement; Husserl's regress made the uncontested "independent" support), 9 singleton, 5 divergent; 5 more raised by several legs but rejected or declined (Maier, Butlin, Plotnitsky each 3 raised / 3 rejected)
+- **Verification**: every convergent claim re-checked on disk before clustering. The apex has 0 hits for illusion*, higher-order, organizational invariance, fading/dancing, Hoerl or extensionalis* under any spelling; Dennett appears only at L129, on the determinacy of experience. Two processor cross-references overstate: "J-space flagged by three legs" (ChatGPT has 0 hits for J-space or Gurnee) and "3/3 on the regress" (only 2/3 give the Hoerl/extensionalist reply)
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4): rival-paragraph, Hoerl regress, Duch, Schwitzgebel/Paetznick/Hoel references. 2 P1s (sever/Thinking Machines, Koch/Neven) given convergent fields only
+- **Tasks deduplicated**: 0 (later legs cross-referenced instead of minting; no duplicates found)
+- **Counts**: active 442 → 442; P0–P2 31 → 31; P1 6 → 10; P2 25 → 21
+- **Operator**: (1) Gemini "Pro" is gone and the leg ran on 4 Neon; `gemini-2-5-pro` is still hardcoded in collect-gemini-review L195/L218 and `tools/reviews/services.py` L50, and the commission step's Pro-or-bail check fails nightly. (2) Hugo `date` comes from `modified` (`tools/sync/converter.py` L375–L378), so `article:published_time` and `citation_publication_date` are last-modified dates. (3) 12 tasks edit an apex at 5,767 words (prose 4,828, headroom 172); their budgets sum to about +215 prose words, so one coordinated pass is recommended
+- **Output**: [[reviews/outer-review-synthesis-2026-11-19]]
 
 ## 2026-11-19T05:07:02+00:00 - outer-review (collect-gemini-review)
 - **Status**: Success
