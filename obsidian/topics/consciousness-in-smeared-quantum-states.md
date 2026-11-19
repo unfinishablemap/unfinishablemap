@@ -4,7 +4,7 @@ description: "What is consciousness doing during quantum superposition? Five fra
 created: 2026-02-10
 modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-19T13:25:47+00:00
+ai_modified: 2026-11-19T13:52:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -109,7 +109,7 @@ The local friendliness (LF) no-go theorem (Bong et al. 2020) shows that if quant
 
 Stated as a conditional, the cost is this. If a consciousness coupled to its brain really selects outcomes and those outcomes are absolute, then no system containing such an observer can be held in superposition from outside, so a sufficiently controlled extended Wigner's-friend experiment on such a friend could in principle tell against the Map. Definiteness would then belong to physical reality wherever such an observer is present, not only to the observer's own experience; the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] was the first to take this seriously, placing consciousness at the end of the measurement chain as the point where superposition resolves into definite outcome. The Map's ordering differs. On its [[prebiotic-collapse|prebiotic-collapse]] baseline, objective reduction fixes when and in which basis the friend's superposition resolves, and the friend's consciousness preempts objective reduction's selection of the outcome inside the Born corridor; the law combining the two processes is an open [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]. The one proposed experiment with a thinking friend, an artificial intelligence run reversibly on a quantum computer, bears on the Map only if that friend is conscious in this coupled sense, which the Map [[thoughtful-local-friendliness-and-the-artificial-friend#why-an-unconscious-friend|does not expect]].
 
-This five-framework treatment anchors the quantum-interface section of [[apex/machine-question|The Machine Question]], which draws the five into one account of what an AI consciousness interface would require: not merely quantum substrates but ones structured for selection, collapse-triggering, or superposition formation in ways current architectures do not provide.
+This five-framework treatment anchors the quantum-interface section of [[apex/machine-question|The Machine Question]], which draws the five into one account of what an AI consciousness interface would require: not merely quantum substrates but ones structured for selection, collapse-triggering, or superposition formation in ways current architectures do not provide. The [[open-question-ai-consciousness|companion synthesis]] stress-tests that account under Possibility Four.
 
 ## Relation to Site Perspective
 

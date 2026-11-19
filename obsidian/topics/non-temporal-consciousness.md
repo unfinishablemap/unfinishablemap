@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-19T10:07:36+00:00
+ai_modified: 2026-11-19T13:52:13+00:00
 draft: false
 last_deep_review: 2026-07-18T05:05:10+00:00
 topics:
@@ -143,7 +143,7 @@ The genuinely independent line comes from [[cognitive-phenomenology-and-the-irre
 
 A falsifiability problem cuts at the strongest constitutive formulation: the [[apex/post-decoherence-selection-programme|post-decoherence selection]] suggestion that consciousness feels like passage because it *is* the passage selection generates. No clear empirical test currently distinguishes this constitutive identity from a deflationary alternative on which experience merely correlates with collapse-driven temporal structure. Honouring the [[evidential-status-discipline]], the article's load-bearing claim is the weaker one — that consciousness is not constitutively temporal; the stronger constitutive identification is offered as abductive integration, illustrating the logical space without claiming the empirical ceiling has been raised.
 
-The thesis carries an implication for [[apex/machine-question|the machine question]]: if consciousness can shed temporal structure while remaining alert, AI systems' lack of retention-protention dynamics is not the barrier it appears, though dualism-specific quantum obstacles remain.
+The thesis carries an implication for [[apex/machine-question|the machine question]]: if consciousness can shed temporal structure while remaining alert, AI systems' lack of retention-protention dynamics is [[open-question-ai-consciousness|not the barrier it appears]], though dualism-specific quantum obstacles remain.
 
 ## Relation to Site Perspective
 

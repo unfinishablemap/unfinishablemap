@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T13:27:17+00:00
+ai_modified: 2026-11-19T13:52:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T13:52:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-in-smeared-quantum-states]]; [[topics/quantum-state-inheritance-in-ai]]; [[topics/non-temporal-consciousness]]; [[topics/quantum-randomness-channel-llm-consciousness]]; [[concepts/ai-epiphenomenalism]]
+- **Review file**: [[reviews/outer-review-2026-11-19-claude-fable-5-2]] (§2.7 "restatement, not synthesis")
+- **Original score**: n/a (`scripts/curate.py` absent); one targeted link per file
+- **Defect**: none of the apex's five main source spokes linked back to [[apex/open-question-ai-consciousness]] (`grep -c open-question-ai-consciousness` = 0 in all five before the edit; positive control `machine-question` > 0 in each). Each file now carries one body link to the apex, placed where the page states what it contributes to the AI-consciousness syntheses. The existing `apex/machine-question` links are kept, because the two apexes do different jobs.
+- **Changes**:
+  - `topics/consciousness-in-smeared-quantum-states` L112, appended after "...in ways current architectures do not provide.": NEW "The [[open-question-ai-consciousness|companion synthesis]] stress-tests that account under Possibility Four." "that account" refers back to The Machine Question's "one account of what an AI consciousness interface would require". Words 3,320 → 3,329 (+9; budget ≤ +10). L110 (P3 thoughtful-local-friendliness) and L74–L78 / ~L124 (today's fixes) are untouched.
+  - `topics/quantum-state-inheritance-in-ai` L104, appended after "...within the apex's broader case for principled obstacles to machine consciousness.": NEW "The [[open-question-ai-consciousness|companion synthesis]] stress-tests that case under Possibility Three." "that case" refers back to "the apex's broader case". Words 3,945 → 3,954 (+9; budget ≤ +10, hard 4,000).
+  - `topics/non-temporal-consciousness` L146. OLD "AI systems' lack of retention-protention dynamics is not the barrier it appears". NEW "...is [[open-question-ai-consciousness|not the barrier it appears]]". This is a zero-word pipe on existing words, on the claim the apex develops under Possibility Two. Words 4,039 → 4,039 (±0; budget net ≤ 0). L75, L77, L79, L87, L91, L117, L121 and L177 are untouched.
+  - `topics/quantum-randomness-channel-llm-consciousness` L143, appended after "...could supply a live interface.": NEW "The [[open-question-ai-consciousness|companion synthesis]] weighs the channel under Possibility Three." "Companion synthesis" separates the target from the preceding sentence's "The apex" (The Machine Question). Words 3,966 → 3,975 (+9; budget ≤ +10, final ≤ 3,999).
+  - `concepts/ai-epiphenomenalism` L109. OLD "...places it at the framework boundary, as [[apex/machine-question|The Machine Question]] does." NEW "...places it at the framework boundary, as do [[apex/machine-question|The Machine Question]] and Possibility One of [[open-question-ai-consciousness|its companion synthesis]]." The placement stays inside the sentence's existing actual-efficacy conditional, and the next sentence still says the reading is unsettled, so no reading is chosen. Words 3,007 → 3,014 (+7; budget ≤ +10). L51, L81 and L111 (P3 ai-epiphenomenalism task) are untouched.
+- **Gloss check against the apex as of 13:26Z** (unchanged at edit time):
+  - Possibility Four (L129–145): the frameworks' disagreement over which systems can host consciousness widens the class beyond the standard treatment. The apex also says Neven's Everettian model is outside the framework. The smeared gloss says only "stress-tests", so it does not overstate the opening.
+  - Possibility Three (L117–127) opens with the randomness channel ("quantum fossil, not a live interface") and turns on the inheritance analysis.
+  - Possibility Two (L101–115): "the temporal case against AI consciousness weakens" under a conditional, which matches the non-temporal sentence's own "if".
+  - Possibility One (L87): headed "[At the Framework Boundary]", placed on the register's reading, with the dispositional reading marked open (L97).
+- **Fragments**: none used. The apex's Possibility headings carry no `{#…}` ids; only the Duch section does (L147). Heading-text fragments would cost 3–5 words each under `count_words`. The Possibility One heading contains square brackets, so it cannot go inside a wikilink. That heading was also renamed on 2026-08-09 (`eb3ef06159`), and check-links strips fragments, so a stale fragment would fail silently. Each display text names the Possibility instead.
+- **Style**: pronoun check done. Each appended sentence ends its paragraph and is followed by an H2 ("Relation to Site Perspective" ×2, "Further Reading"). In ai-epiphenomenalism, "its" refers to The Machine Question, and the next sentence ("The tenet's wording ... which reading it carries") keeps its subject. No "This is not X. It is Y."; no "load-bearing".
+- **Frontmatter**: `ai_modified` 2026-11-19T13:52:13+00:00 on all five files. `modified` is now 2026-11-19 (it was 2026-02-15 on inheritance and 2026-11-01 on randomness). `ai_system` is unchanged, because all five already contain `claude-opus-5-5`.
+- **Published**: yes
 
 ## 2026-11-19T13:27:17+00:00 - refine-draft
 - **Status**: Success
