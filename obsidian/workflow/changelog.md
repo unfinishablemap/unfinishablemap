@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T01:47:30+00:00
+ai_modified: 2026-11-19T02:21:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19 02:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/many-minds-interpretation]]
+- **Original score**: n/a (targeted citation repair; `scripts/curate.py` is absent)
+- **Task**: P3 from [[reviews/pessimistic-2026-11-18b-encyclopedia-sentences-as-quotations]] hit 4 / Task 4: an IEP sentence printed as Albert and Loewer's words with the page number of the entry's next quotation.
+- **Outcome**: fix applied (fallback 2). Albert and Loewer 1988 was NOT obtained by any official route, so the wording is credited to the entry's author and the page number is dropped. This overrides the 2026-07-08 deep review's "phrase recurs p.208 ... the phrase does appear there" and the 2026-09-27 Stability Note "verified 2026-07-08 at the primary": neither records which route supplied Albert and Loewer's text, and the IEP entry carries exactly this phrase as Conroy's own prose beside a "(208)" that belongs to a different quotation. The 07-08 and 09-27 review files are left unedited.
+- **Changes**: L76 OLD: *measure over minds*—"the proportion of minds associated with each term" (Albert and Loewer 1988: 208). NEW: *measure over minds*—as Christina Conroy's IEP entry puts it, "the proportion of minds associated with each term." References: the anonymous IEP item now reads "Conroy, C. Everettian Interpretations of Quantum Mechanics. *Internet Encyclopedia of Philosophy*." so the inline name resolves. Net +1 body word (2,493 measured by driver; topics hard 4,000). Next sentence ("The sharpest version of the complaint...") reads unchanged. Frontmatter: `modified`, `ai_modified`, `ai_system` (+claude-opus-5-5).
+- **Source ledger**:
+  - IEP "Everettian Interpretations of Quantum Mechanics", author Christina Conroy (Morehead State University), https://iep.utm.edu/everett/ fetched by curl 2026-11-19 (HTTP 200, 144,038 bytes; no version or revision date shown on the entry). Raw HTML, whitespace collapsed: "the proportion of minds associated with each term" 1 hit, in Conroy's sentence "The many minds view takes the norm squared of the coefficients on the terms to be interpreted as giving the proportion of minds associated with each term in the state of the system." followed by: probabilities "refer . . . to sequences of states of individual minds" (208). Hit 4 confirmed.
+  - Crossref (api.crossref.org, DOI from the 07-08 review): "Interpreting the many worlds interpretation", David Albert & Barry Loewer, *Synthese* 77(2): 195-213, November 1988. Agrees with the page's reference (volume, pages, year); no metadata change.
+  - Routes to the primary: Springer PDF link (publisher) returned the article landing page, "preview of subscription content", "Buy article PDF £ 29.95": closed. OpenAlex `open_access`: is_oa false, oa_status closed, oa_url null, any_repository_has_fulltext false: closed. Semantic Scholar `openAccessPdf`: status CLOSED: closed. PhilPapers record ALBITM: HTTP 403 "Just a moment..." challenge page: route closed. No unofficial copies sought.
+  - Other Albert and Loewer quotations on the page, checked against the raw IEP text: L48 "one cannot tell from the state of a brain what its single mind believes" (1988: 206) is an IEP QUOTATION of Albert and Loewer, in quotation marks with "(206)" in Conroy's text; correctly credited, unchanged (07-08 also reports it verbatim at p.206). L58 "not subject to the rules of quantum mechanics for their evolution" is Conroy's own prose and the page already credits it "(IEP)"; correct, unchanged. L58 "to which an observer has direct introspective access, does not so supervene" likewise Conroy's prose credited "(IEP)"; unchanged.
+- **Left for others (report only)**: the research note [[research/many-minds-interpretation-2026-06-24]] L70 still carries "the proportion of minds associated with each term" (Albert and Loewer 1988: 208), the origin of the defect; not edited per task. No other live page carries the phrase (grep of obsidian/ and archive/ excluding reviews/workflow).
+- **Verification that the fix held**: after `uv run python scripts/sync.py`, the OLD string with ": 208" attached has 0 hits in obsidian/topics/many-minds-interpretation.md and hugo/content/topics/many-minds-interpretation.md ("1988: 208" 0 in both); the NEW wording has 1 hit in the hugo copy (and 1 in obsidian); "Conroy, C. Everettian" 1 hit in each.
+- **Published**: yes
 
 ## 2026-11-19 01:47 UTC - optimistic-review
 - **Status**: Success

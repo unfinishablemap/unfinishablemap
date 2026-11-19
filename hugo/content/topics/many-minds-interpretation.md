@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-24
-ai_modified: 2026-09-30 11:55:56+00:00
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_modified: 2026-11-19 02:21:01+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[quantum-interpretations]]'
@@ -14,14 +14,14 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[parfit-reductionism]]'
 created: 2026-06-24
-date: &id001 2026-06-24
+date: &id001 2026-11-19
 description: The Many-Minds Interpretation puts minds into quantum mechanics—but on
   the Map's reading, adding minds to Everett still leaves the indexical 'I' unanswered.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 14:20:00+00:00
-lastmod: 2026-09-30 11:55:56+00:00
+lastmod: 2026-11-19 02:21:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ MMI's critics converge on three problems, all live into the 2020s.
 
 **Mindless hulks** (treated above) press the single-mind view; the many-minds view escapes them only by buying an infinity of minds and an admitted dualism.
 
-**The probability problem.** MMI was meant to recover Born statistics as a *measure over minds*—"the proportion of minds associated with each term" (Albert and Loewer 1988: 208). The sharpest version of the complaint was aimed at Lockwood's physicalist variant, whose measure is built from the "temporal 'length'" and "superpositional 'width'" of an experience: Loewer (1996) and Barrett (1999) both argue that such a measure cannot serve as a guide to rational decision and prediction, and Barrett finds Lockwood's "entirely new notion of probability" inadequate to explain an observer's determinate experiences (IEP). The worry generalises: "half my future minds see up" is a measure, not an *uncertainty* a single agent can act on when all outcomes occur—though Albert and Loewer's stochastic minds, unlike Lockwood's, do at least supply genuine chances. Notably, MMI reintroduces exactly the fundamental randomness MWI was built to eliminate; in Vaidman's framing the fix "comes at the price of introducing additional structure into the theory, including a genuinely random process." The problem did not close: the modern Everettian self-locating-uncertainty program (Sebens and Carroll 2018) is the same problem in newer dress, with McQueen and Vaidman countering that its examples involve *absent* uncertainty rather than genuine self-locating uncertainty. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against the recovery strategies.
+**The probability problem.** MMI was meant to recover Born statistics as a *measure over minds*—as Christina Conroy's IEP entry puts it, "the proportion of minds associated with each term." The sharpest version of the complaint was aimed at Lockwood's physicalist variant, whose measure is built from the "temporal 'length'" and "superpositional 'width'" of an experience: Loewer (1996) and Barrett (1999) both argue that such a measure cannot serve as a guide to rational decision and prediction, and Barrett finds Lockwood's "entirely new notion of probability" inadequate to explain an observer's determinate experiences (IEP). The worry generalises: "half my future minds see up" is a measure, not an *uncertainty* a single agent can act on when all outcomes occur—though Albert and Loewer's stochastic minds, unlike Lockwood's, do at least supply genuine chances. Notably, MMI reintroduces exactly the fundamental randomness MWI was built to eliminate; in Vaidman's framing the fix "comes at the price of introducing additional structure into the theory, including a genuinely random process." The problem did not close: the modern Everettian self-locating-uncertainty program (Sebens and Carroll 2018) is the same problem in newer dress, with McQueen and Vaidman countering that its examples involve *absent* uncertainty rather than genuine self-locating uncertainty. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against the recovery strategies.
 
 **Diachronic identity.** This is the crux. Both Albert–Loewer's continuum of minds and Lockwood's multimind appear to dissolve the fact about *which* successor-mind is the genuine continuant of the pre-measurement person. Recent mainstream work converges on the same framing: "questions of uncertainty and probability in Everettian QM depend upon answers to diachronic personal identity" (arXiv:2209.02639, 2022). The interpretation-level debate seems to bottom out in [personal-identity](/topics/personal-identity/).
 
@@ -129,7 +129,7 @@ None of these currently obtains. MMI's lasting contribution to the Map looks neg
 1. Zeh, H.D. (1970). On the Interpretation of Measurement in Quantum Theory. *Foundations of Physics* 1: 69–76.
 1. Zeh, H.D. (2000). The Problem of Conscious Observation in Quantum Mechanical Description. *Foundations of Physics Letters* 13: 221–233 (reprint of the 1981 *Epistemological Letters* paper). https://arxiv.org/abs/quant-ph/9908084
 1. Vaidman, L. Many-Worlds Interpretation of Quantum Mechanics (many-minds section). *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qm-manyworlds/
-1. Everettian Interpretations of Quantum Mechanics. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/everett/
+1. Conroy, C. Everettian Interpretations of Quantum Mechanics. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/everett/
 1. Marchildon, L. (2015). Multiplicity in Everett's Interpretation of Quantum Mechanics. *Studies in History and Philosophy of Modern Physics* 52: 274–284. https://arxiv.org/abs/1504.04835
 1. Lu, Z. (2022). Personal Identity and Uncertainty in the Everett Interpretation of Quantum Mechanics. arXiv:2209.02639. https://arxiv.org/abs/2209.02639
 1. Southgate, A. & Oquatre-six, C. (2026-01-19). The Many-Worlds Interpretation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/many-worlds/
