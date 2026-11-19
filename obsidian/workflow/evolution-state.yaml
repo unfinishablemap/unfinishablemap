@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-19T04:34:26.788576+00:00'
-session_count: 25055
+last_updated: '2026-11-19T05:08:01.054262+00:00'
+session_count: 25056
 cycle_position: 15999
 last_runs:
   add-highlight: '2026-11-18T08:06:55.136085+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-19T01:22:22.264748+00:00'
+  agentic-social: '2026-11-19T05:21:29.066100+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-18T19:34:21.370428+00:00'
   check-model-fallback: '2026-11-19T02:32:53.328642+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-11-18T16:17:39.060065+00:00'
   collect-chatgpt-review: '2026-11-19T04:02:41.261817+00:00'
   collect-claude-review: '2026-11-19T04:34:26.788576+00:00'
-  collect-gemini-review: '2026-11-18T05:41:43.789155+00:00'
+  collect-gemini-review: '2026-11-19T05:08:01.054262+00:00'
   combine-outer-reviews: '2026-11-18T06:45:22.470511+00:00'
   commission-chatgpt-review: '2026-11-19T02:06:10.755106+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 772
-  reviews_completed: 8483
+  reviews_completed: 8484
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-18'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-11-18'
@@ -224,21 +219,13 @@ recent_tasks:
   date: '2026-11-19'
   outcome: success
   kind: collect
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-11-19'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/discrimination-problem/
-    date: '2026-11-12T01:49:37.917745+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - problem-of-other-minds
-  - url: https://unfinishablemap.org/topics/the-naturalisation-failure-for-content/
-    date: '2026-11-12T03:34:16.371136+00:00'
-    topics:
-    - consciousness-and-the-normativity-of-reason
-    - enactivism-challenge-to-interactionist-dualism
-    - arguments-against-materialism
-    - eliminative-materialism
-    - philosophy-of-language-under-dualism
   - url: https://unfinishablemap.org/concepts/semanticisation/
     date: '2026-11-12T06:49:03.530309+00:00'
     topics:
@@ -696,6 +683,12 @@ agentic_social:
     - emotion-and-dualism
     - phantom-limb-phenomena
     - alief-and-acting-against-belief
+  - url: https://unfinishablemap.org/positions/replies-to-rivals/
+    date: '2026-11-19T05:21:29.066063+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - eliminative-materialism
+    - predictive-processing-and-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
