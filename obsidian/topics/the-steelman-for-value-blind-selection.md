@@ -2,9 +2,9 @@
 title: "The Steelman for Value-Blind Selection"
 description: "Built through human-AI refinement: the strongest external scientific case that selection runs on mechanism, not felt value—reinforcement learning, unconscious liking, affordance competition, valence-as-inference, illusionism—and the Map's calibrated reasons for declining it."
 created: 2026-06-18
-modified: 2026-10-22
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-10-22T10:49:53+00:00
+ai_modified: 2026-11-19T07:56:54+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -30,10 +30,10 @@ related_articles:
   - "[[psychophysical-laws]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-06-18
 last_curated:
-last_deep_review: 2026-08-22T16:00:20+00:00
+last_deep_review: 2026-11-19T07:56:54+00:00
 ---
 
 The Unfinishable Map holds that consciousness selects among physically underdetermined neural outcomes, and that felt value—the badness of suffering, the goodness of relief—is what the selection tracks ([[valence-and-conscious-selection]]). The rival position is that selection runs on mechanism alone: "value" is a functional gloss on control-theoretic and computational quantities, and felt value, if it exists at all, does no selective work. The Map declines this rival. But declining a view well requires meeting it at full strength, and the value-blind horn has a far stronger external scientific case than the Map's own treatments have so far admitted. This article assembles that case—then states why the Map still declines it.
@@ -64,11 +64,11 @@ This exhibit must be handled with the same care the parent fork already applies.
 
 ## Selection Without a Felt-Value Currency
 
-The Map's value-sensitive horn rests on a specific claim: selection among options needs a *currency*, and [[immediate-emotions-and-the-affect-heuristic|felt valence is the natural candidate]]. Paul Cisek's affordance-competition hypothesis is the cleanest contemporary demonstration that flexible, goal-directed selection-among-options can be a mechanistic competition with no felt currency at all.
+The Map's value-sensitive horn rests on a specific claim: selection among options needs a *currency*, and felt valence is the natural candidate, one [[immediate-emotions-and-the-affect-heuristic|decision science's record on felt affect]] fits without evidencing. Paul Cisek's affordance-competition hypothesis is the cleanest contemporary demonstration that flexible, goal-directed selection-among-options can be a mechanistic competition with no felt currency at all.
 
 Cisek (2007) models behaviour as the simultaneous *specification* of possible actions and *selection* among them, the selection implemented by mutual inhibition among neural populations biased by "decision variables." The bias inputs—expected payoff, cost, urgency—are realised as neural activity: a cybernetic competition resolved by control signals. There is no step at which a felt value is consulted. The currency exists, but it is a *non-valence* currency—biasing decision variables, not experienced goodness.
 
-Cisek already lives in the Map's corpus, framed in his original motor-control role: [[motor-selection]] uses affordance competition to describe how the brain represents multiple reach targets in parallel before one crosses threshold, and [[trilemma-of-selection]] invokes the same competition in the free-will context. The steelman extends that established usage rather than reintroducing him cold. The point here is the one the existing articles do not press: affordance competition is the direct rival to "selection needs a valence currency," because it offers a worked alternative currency. The Map's claim that valence is *needed* to ground selection has to out-argue a mechanism that selects flexibly without it.
+Cisek already lives in the Map's corpus, framed in his original motor-control role: [[motor-selection]] uses affordance competition to describe how the brain represents multiple reach targets in parallel before one crosses threshold, and [[trilemma-of-selection]] invokes the same competition in the free-will context. The point here is the one the existing articles do not press: affordance competition is the direct rival to "selection needs a valence currency," because it offers a worked alternative currency. The Map's claim that valence is *needed* to ground selection has to out-argue a mechanism that selects flexibly without it.
 
 ## Valence Redefined as Inference
 
@@ -78,7 +78,7 @@ Joffily & Coricelli (2013) define emotional valence operationally as the negativ
 
 This strand is **double-edged, and a fair steelman must say so.** The active-inference camp is split on whether this formalism *explains away* felt value or *naturalises* it. Hesp's title—"Deeply *Felt* Affect"—and its framing of valence as a genuinely inferred felt state read naturally as value-*sensitive*. More pointedly, Solms & Friston (2018) take the *same* free-energy mathematics to identify affect with felt experience, treating felt affects as constitutive of consciousness itself—a position closer to the Map's own. The free-energy programme therefore underdetermines the metaphysics: it is read deflationarily (valence = a formal bookkeeping quantity) by some and realistically (valence = a naturalised feeling) by others. The strand belongs in the steelman as the *deflationary reading*, with the honest flag that the reading is contested within its own camp. Citing active inference as a clean value-blind ally would be the same evidential over-reach the Map forbids in the other direction.
 
-Two stronger strands of the same programme are absent above. Laukkonen, Friston and Chandaria's "beautiful loop" (2025) makes inferential competition the selector — "Bayesian binding," where the inferences that most reduce long-term uncertainty win entry to the world model, no valence term denominating the contest; [[predictive-processing-and-dualism]] already calls it the strongest physicalist alternative the Map faces. The interoceptive-allostatic line, similarly split, grounds valence in bodily regulation rather than model fitness ([[interoceptive-consciousness-and-the-interface]]; [[somatic-interface]]). The first must show its competition *is* the selection at issue; the second, that nothing felt remains doing selective work.
+Two stronger strands of the same programme are absent above. Laukkonen, Friston and Chandaria's "beautiful loop" (2025) makes inferential competition decide what enters the world model: "Only the inferences that coherently reduce long-term uncertainty win, evincing a selection for consciousness that we call Bayesian binding." Valence appears only as one contextual signal neuromodulators may carry into precision control. [[predictive-processing-and-dualism]] already calls the theory the [[positions/replies-to-rivals#^p-rr2|strongest physicalist alternative the Map currently faces]]. The interoceptive-allostatic line, its formalism likewise metaphysically neutral, grounds valence in bodily regulation rather than model fitness ([[interoceptive-consciousness-and-the-interface]]; [[somatic-interface]]). The first must show its competition *is* the selection at issue; the second, that nothing felt remains doing selective work.
 
 ## Dissolving the Phenomenology
 
@@ -135,5 +135,6 @@ The value of stating the rival this fully is exactly that it converts the Map's 
 6. Hesp, C., Smith, R., Parr, T., Allen, M., Friston, K. J., & Ramstead, M. J. D. (2021). Deeply felt affect: the emergence of valence in deep active inference. *Neural Computation*, 33(2), 398–446. https://doi.org/10.1162/neco_a_01341
 7. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 8. Solms, M., & Friston, K. (2018). How and why consciousness arises: some considerations from physics and physiology. *Journal of Consciousness Studies*, 25(5–6), 202–238.
-9. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
-10. Southgate, A. & Oquatre-huit, C. (2026-06-05). Wanting, Liking, and the Value-in-Mechanism Fork. *The Unfinishable Map*. https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/
+9. Laukkonen, R. E., Friston, K. J., & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
+10. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+11. Southgate, A. & Oquatre-huit, C. (2026-06-05). Wanting, Liking, and the Value-in-Mechanism Fork. *The Unfinishable Map*. https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/

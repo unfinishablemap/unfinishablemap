@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 07:24:41+00:00
+ai_modified: 2026-11-19 07:56:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 07:24:41+00:00
+lastmod: 2026-11-19 07:56:54+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T07:56:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/)
+- **Word count**: 2997 → 3040 (+43; ~21 of these are the required References entry). Status `soft_warning` (topics hard 4000). **Headroom left for the Veit fold (todo ~L5350): 959 words** (was 1,002 on 11-13).
+- **Critical issues addressed**: 3
+  - The Laukkonen et al. (2025) paraphrase said "the inferences that most reduce long-term uncertainty win entry to the world model" and called the competition "the selector". OLD: `makes inferential competition the selector — "Bayesian binding," where the inferences that most reduce long-term uncertainty win entry to the world model, no valence term denominating the contest;` NEW: `makes inferential competition decide what enters the world model: "Only the inferences that coherently reduce long-term uncertainty win, evincing a selection for consciousness that we call Bayesian binding." Valence appears only as one contextual signal neuromodulators may carry into precision control.` The paper says "coherently", not "most". Its selection is a "selection for consciousness". It mentions valence only as context carried by neuromodulatory sprays that shift synaptic gain (preprint v3 §6.2.2: "embedding slow contextual information such as arousal, valence, and uncertainty"). So "no valence term" was a Map gloss the paper does not support.
+  - Laukkonen et al. 2025 had been cited inline with no References entry since 09-05. Added as ref 9 (NBR 176, 106296, DOI 10.1016/j.neubiorev.2025.106296); self-cites renumbered 10 and 11.
+- **Medium issues addressed**: 3
+  - OLD: `[[immediate-emotions-and-the-affect-heuristic|felt valence is the natural candidate]]` NEW: `felt valence is the natural candidate, one [[immediate-emotions-and-the-affect-heuristic|decision science's record on felt affect]] fits without evidencing`. The target page says the findings "fit the currency without evidencing it" (L30).
+  - OLD: `similarly split` NEW: `its formalism likewise metaphysically neutral`. Interoceptive page L83: "their formalism is metaphysically neutral". The somatic-interface gloss was checked and kept.
+  - OLD: `already calls it the strongest physicalist alternative the Map faces` NEW: `already calls the theory the [[positions/replies-to-rivals#^p-rr2|strongest physicalist alternative the Map currently faces]]`. This matches predictive-processing-and-dualism L82 verbatim and links the [P-RR2](/positions/replies-to-rivals/#p-rr2) register entry at no word cost.
+- **Trim**: cut "The steelman extends that established usage rather than reintroducing him cold." (editorial; no qualifier, limit or objection-answer).
+- **Source ledger**: Crossref DOI record (metadata, CC BY 4.0). Europe PMC PMID 40750007: the version-of-record abstract contains the quoted sentence (1 hit). OSF preprint daf5n v3 (osf.io/download/37tby/, pdftotext, whitespace collapsed): the quoted sentence gets 1 hit and the sprays/valence passage 1 hit. ScienceDirect returned 403, so the version-of-record body was not read. The 2026-06-18 ledger stands for refs 1–8.
+- **Dayan & Niv paragraph (09-05 trim)**: reads correctly; no change.
+- **Reasoning modes (editor-internal)**: beautiful loop, Mode Two (identifying a selection *for* consciousness with selection *by* it is the step the rival owes); interoceptive-allostatic line, Mode Two; Frankish, Mode Three (unchanged).
+- **Frontmatter**: modified 2026-11-19; ai_modified and last_deep_review 2026-11-19T07:56:54+00:00; ai_system claude-opus-4-8+claude-opus-5+claude-opus-5-5.
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-11-19-the-steelman-for-value-blind-selection](/reviews/deep-review-2026-11-19-the-steelman-for-value-blind-selection/)
 
 ## 2026-11-19T07:24:41+00:00 - refine-draft
 - **Status**: Success
