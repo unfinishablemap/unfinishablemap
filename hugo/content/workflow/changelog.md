@@ -1,14 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 13:52:51+00:00
+ai_modified: 2026-11-19 14:22:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 13:52:51+00:00
+lastmod: 2026-11-19 14:22:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T14:22:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- **Word count**: 3843 → 3846 (+3)
+- **Critical issues addressed**: 4. (1) The IIT paragraph's "full sensory awareness, visual consciousness, and general cognitive function" contradicted the Berthier 1988 abstract ("cortical-type sensory loss, unilateral neglect, and body-schema disorders") and the page's own L114. (2) L160 "staggering accident if consciousness were causally inert" contradicted L162's property-dualist co-optimization concession and the co-optimization page. (3) The IASP definition at L80 dropped "actual or potential" and "or resembling that associated with"; it is now quoted verbatim (Raja et al. 2020 added). (4) L116 credited Grahek with Klein's (2015, p. 142) "counterexample to motivationalism" label, per Griffith & Kind 2024.
+- **Medium issues addressed**: 9 coherence fixes across the 12 window commits:
+  - lede "the hurting *is* what drives avoidance" became "part of what drives avoidance", inside "On the Map's reading" (e97e99a58b);
+  - pain/suffering boundary restated two-way so that "Pain Without Suffering" is no longer stranded (efaa22bcda);
+  - "informational content intact" and "intact sensory processing" became "primary sensation" (f5e56bb1e3);
+  - "a particular neural connection" became "particular neural structures" (e6ae985948);
+  - colour "permit" became "seem to permit" (f5e56bb1e3, L128);
+  - L142 "suggests" became "leaves open" (75f598a14a, e97e99a58b);
+  - L90 "demonstrate that consciousness generates" became "show that aversive phenomenal states arise";
+  - functionalism "dilemma" with two costless horns became "choice" (237a2ac66b, c1cda8538e);
+  - two Further Reading labels that overclaimed ("requires mental causation"; "clinical evidence for dualism") rewritten.
+- **Enhancements made**: 2 (verbatim sourced IASP definition; in-body years for Lewis 1988, Nemirow 1990, Kim 2005)
+- **Engagement modes** (editor-internal):
+  - Lewis/Nemirow: Mode One, then Three.
+  - Phenomenal concepts strategy: Three.
+  - Functionalism: Mixed.
+  - HOT and GWT: Two/Three.
+  - IIT and representationalism: Three.
+  - Kim: Three.
+  - Co-optimization: Mixed (trilemma cost against the property-dualist form; Three against the constitutive form).
+- **Citation ledger**: 15 entries. Real-correct: Berthier, Duval & Klein, Grant & Rainville, Griffith & Kind, Jackson, Jensen, Kragel & LaBar, Levine, Noordhof (two strings grep-verified in the publisher PDF), Raja. Carried: Kim, Lewis, Nemirow. Gard: metadata real-correct; the "alone" leg was not checked at full text (Europe PMC returned 403/500, PMC a CAPTCHA). Grahek: framing misattribution fixed.
+- **Sibling P3 (W6)**: "Pain is the Map's clearest case of consciousness influencing the physical world." No 11-11 refine calibrated it. It was left untouched; the P3 stays open and its +1 fits.
+- **Follow-up minted**: P3 refine-draft. `apex/embodied-interface` L79 ("the hurting *is* what drives the avoidance. Asymbolia is the demonstration") and its L138 gloss of this page still carry the retracted form.
+- **Frontmatter**: `modified` 2026-11-19; `ai_modified` and `last_deep_review` 2026-11-19T14:19:53+00:00; `ai_system` unchanged (already contains `claude-opus-5-5`)
+- **Output**: [deep-review-2026-11-19-pain-consciousness-and-causal-power](/reviews/deep-review-2026-11-19-pain-consciousness-and-causal-power/)
 
 ## 2026-11-19T13:52:51+00:00 - refine-draft
 - **Status**: Success

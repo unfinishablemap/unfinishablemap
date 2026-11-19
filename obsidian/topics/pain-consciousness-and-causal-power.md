@@ -2,9 +2,9 @@
 title: "Pain, Consciousness, and Causal Power"
 description: "Pain is the hard problem made personal, and the sharpest pressure on epiphenomenalism: felt awfulness resists physical reduction and seems one with the power behind avoidance, a unity asymbolia fits but does not establish."
 created: 2026-02-09
-modified: 2026-03-04
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-11T13:04:03+00:00
+ai_modified: 2026-11-19T14:19:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,30 +54,30 @@ author:
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-07-18T13:10:09+00:00
+last_deep_review: 2026-11-19T14:19:53+00:00
 coalesced_from:
   - "/topics/suffering-versus-pain/"
   - "/topics/pain-asymbolia-as-central-test-case/"
   - "/topics/why-pain-hurts/"
 ---
 
-Pain is the hard problem made personal. Abstract debates about [[qualia]] and the [[explanatory-gap]] can feel remote, but pain forces the question with brute immediacy: why does tissue damage *hurt*? The Unfinishable Map holds that no physical account — no neural firing pattern, no functional role, no information-processing story — captures what makes pain painful. More than this: pain is where the debate about [[mental-causation-and-downward-causation|mental causation]] stops being abstract. On the Map's reading, the felt awfulness of pain is partially constitutive of its motivational force rather than a side effect of it. When pain hurts, the hurting *is* what drives avoidance. And the clinical condition of [[pain-asymbolia]] — where patients detect nociceptive stimuli but lack the felt awfulness — provides an unusually revealing dissociation whose metaphysical reading is underdetermined, though it exposes every major theory's commitments and gaps.
+Pain is the hard problem made personal. Abstract debates about [[qualia]] and the [[explanatory-gap]] can feel remote, but pain forces the question with brute immediacy: why does tissue damage *hurt*? The Unfinishable Map holds that no physical account — no neural firing pattern, no functional role, no information-processing story — captures what makes pain painful. More than this: pain is where the debate about [[mental-causation-and-downward-causation|mental causation]] stops being abstract. On the Map's reading, the felt awfulness of pain is partially constitutive of its motivational force rather than a side effect of it: when pain hurts, the hurting is part of what drives avoidance. And the clinical condition of [[pain-asymbolia]] — where patients detect nociceptive stimuli but lack the felt awfulness — provides an unusually revealing dissociation whose metaphysical reading is underdetermined, though it exposes every major theory's commitments and gaps.
 
 Three threads converge below: pain's resistance to reduction, the pain-suffering distinction's challenge to physicalism, and asymbolia as the central test case.
 
 ## Pain's Resistance to Reduction
 
-Pain occupies a privileged position in philosophy of mind because it resists the evasions that other mental states permit. Colour experience can be redescribed as wavelength discrimination. Belief can be cashed out in terms of dispositions to act. But pain's phenomenal quality — the *hurtfulness* itself — stubbornly refuses translation into any vocabulary that omits what it feels like.
+Pain occupies a privileged position in philosophy of mind because it resists the evasions that other mental states seem to permit. Colour experience can be redescribed as wavelength discrimination. Belief can be cashed out in terms of dispositions to act. But pain's phenomenal quality — the *hurtfulness* itself — stubbornly refuses translation into any vocabulary that omits what it feels like.
 
-Consider the difference between pain *report* and pain *experience*. A robot can detect tissue damage and emit a signal labelled "pain." It can withdraw from harmful stimuli and prioritise repair. But without [[phenomenal-consciousness]] — without there being something it is like to be that robot — nothing hurts. The functional story is complete; the experiential story hasn't started.
+Consider the difference between pain *report* and pain *experience*. A robot can detect tissue damage and emit a signal labelled "pain." It can withdraw from harmful stimuli and prioritise repair. But without [[phenomenal-consciousness]], nothing hurts. The functional story is complete; the experiential story hasn't started.
 
 The [[knowledge-argument]] (Jackson, 1982) gains particular force when applied to pain. Imagine a neuroscientist raised in a controlled environment where nociceptors were suppressed from birth. She knows everything physical about pain: C-fibre firing rates, thalamic relay pathways, anterior cingulate activation patterns, endorphin modulation. She can predict exactly who will report pain, when, and how intensely. Does she know what pain is like? When she first experiences pain — a pinprick after a procedure reverses the suppression — she learns something genuinely new. Not a new physical fact, but a phenomenal fact about the felt quality of suffering. The gap between mechanism and awfulness is the explanatory gap (Levine, 1983) at its widest — the [[valence-void]] examines why this gap may be structurally unfillable.
 
-The physicalist may reply, following Lewis and Nemirow, that the neuroscientist gains not a new *fact* but a new *ability* — the ability to recognise, imagine, and remember pain. But the ability hypothesis struggles with pain specifically. Pain's evaluative character — its *awfulness* — resists redescription as mere recognitional know-how. The related [[phenomenal-concepts-strategy]] argues that phenomenal concepts refer to physical properties under a distinctive mode of presentation. It grants an epistemic gap to deny an ontological one, so the Map must further show that no physicalist account of the acquaintance relation succeeds, a case the [[phenomenal-concepts-strategy#chalmerss-master-argument|strategy's critics]] press.
+The physicalist may reply, following Lewis (1988) and Nemirow (1990), that the neuroscientist gains not a new *fact* but a new *ability* — the ability to recognise, imagine, and remember pain. But the ability hypothesis struggles with pain specifically. Pain's evaluative character — its *awfulness* — resists redescription as mere recognitional know-how. The related [[phenomenal-concepts-strategy]] argues that phenomenal concepts refer to physical properties under a distinctive mode of presentation. It grants an epistemic gap to deny an ontological one, so the Map must further show that no physicalist account of the acquaintance relation succeeds, a case the [[phenomenal-concepts-strategy#chalmerss-master-argument|strategy's critics]] press.
 
 ## The Pain-Suffering Distinction
 
-Pain and suffering are not the same thing. Nociception is the neural encoding of noxious stimuli; pain, the unpleasant sensory-emotional experience associated with tissue damage. The boundary at issue lies between pain and wider suffering: grief, dread, moral anguish. Their separability exposes the limits of physicalist explanation more sharply than either phenomenon considered in isolation.
+Pain and suffering are not the same thing. Nociception is the neural encoding of noxious stimuli; pain is, in the IASP's 2020 wording, "an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage" (Raja et al., 2020). Suffering runs past pain into grief, dread and moral anguish; in asymbolia (below) the defined unpleasantness falls away while sensation remains. This two-way separability exposes the limits of physicalist explanation more sharply than either phenomenon considered in isolation.
 
 ### The Phenomenological Gap Between Them
 
@@ -87,7 +87,7 @@ Suffering resists this mapping. Consider watching a loved one deteriorate from a
 
 ### Suffering Without Pain
 
-The cases of suffering without pain demonstrate that consciousness generates aversive phenomenal states independent of any sensory signal. **Grief** involves no tissue damage yet can be among the most intense forms of suffering — heaviness, hollowness, temporal distortion, involuntary memory intrusion. **Existential dread** produces suffering entirely generated by conscious reflection. **Moral suffering** — guilt, shame, the anguish of having harmed another — is generated by evaluative judgement rather than sensation. Blocking nociception does not by itself reach the meanings these states turn on. The [[agency-void#what-cannot-be-controlled|involuntariness face of the agency void]] names the broader puzzle these cases instantiate: consciousness cannot opt out of its own suffering. Experience arrives unbidden, persists without consent, and resists direct control — making suffering suffering precisely because you cannot choose to stop.
+The cases of suffering without pain show that aversive phenomenal states arise independent of any sensory signal. **Grief** involves no tissue damage yet can be among the most intense forms of suffering — heaviness, hollowness, temporal distortion, involuntary memory intrusion. **Existential dread** produces suffering entirely generated by conscious reflection. **Moral suffering** — guilt, shame, the anguish of having harmed another — is generated by evaluative judgement rather than sensation. Blocking nociception does not by itself reach the meanings these states turn on. The [[agency-void#what-cannot-be-controlled|involuntariness face of the agency void]] names the broader puzzle these cases instantiate: consciousness cannot opt out of its own suffering. Experience arrives unbidden, persists without consent, and resists direct control — making suffering suffering precisely because you cannot choose to stop.
 
 For physicalism the question these cases pose concerns unity, not diversity: realisation needs no compact signature per folk category, and multivariate neural patterns do distinguish emotional states (Kragel & LaBar, 2015). What unifies these diverse sufferings phenomenally may be a property of consciousness itself — an intrinsic [[emotion-and-dualism|valence]] that belongs to experience as such — rather than a convergent neural pattern, though this remains an interpretive reading the cases are compatible with rather than one they establish.
 
@@ -109,37 +109,37 @@ Where thought experiments like [[philosophical-zombies]] remain debatable in the
 
 ### What Makes Asymbolia Instructive
 
-**It targets the hardest feature of consciousness.** The "hard" in the [[hard-problem-of-consciousness|hard problem]] is phenomenal character — why there is something it is like to be in a given mental state. Asymbolia removes the most salient aspect of phenomenal character (the awfulness) while leaving informational content intact, foregrounding the hard problem's target.
+**It targets the hardest feature of consciousness.** The "hard" in the [[hard-problem-of-consciousness|hard problem]] is phenomenal character. Asymbolia removes the most salient aspect of phenomenal character (the awfulness) while leaving primary sensation intact, foregrounding the hard problem's target.
 
 **The dissociation is real but contested.** In the six patients of Berthier et al. (1988), primary sensation was spared, and pain thresholds, tested in three, roughly matched controls' (Griffith & Kind, 2024). What vanishes is the affective-motivational dimension: the awfulness, the urgency, the compulsion to withdraw. Griffith and Kind (2024) argue that what remains is no longer pain; Duval and Klein (2025) reply that it probably still is; the [[pain-asymbolia#What Asymbolia Dissociates|concept page]] therefore declines any pristine one-variable reading. The deficit was also wider than pain, reaching threatening gestures, in a mixed sample: lesions differed in extent, and neglect and body-schema disorders were common.
 
-**The behavioural consequences are dramatic.** Asymbolia patients fail to guard injuries, seek treatment, or develop avoidance patterns. Grahek (2007) offered asymbolia as a counterexample to motivationalism: *feeling pain* (sensory detection, preserved) without *being in pain* (the full affective state that commands attention and drives behaviour, abolished).
+**The behavioural consequences are dramatic.** Asymbolia patients fail to guard injuries, seek treatment, or develop avoidance patterns. Grahek (2007) read asymbolia as *feeling pain* (sensory detection, preserved) without *being in pain* (the full affective state that commands attention and drives behaviour, abolished).
 
 ### Theory by Theory
 
-**[[functionalism|Functionalism]]** identifies mental states with functional roles: pain is whatever occupies the detect-damage-and-motivate-avoidance role. Asymbolia forces a dilemma. Deny that patients are in pain (but they still detect painful stimuli). Griffith and Kind (2024) take this first horn in print; it is a defended option, not an obvious cost. Or concede that "pain" decomposes into functionally separable components, with the lost one carrying the awfulness. That horn costs functionalism nothing by its own lights, since the lost component just is the motivational role; what remains unexplained is the general [[constitution-vs-causal-work|bridge]] from role to felt awfulness.
+**[[functionalism|Functionalism]]** identifies mental states with functional roles: pain is whatever occupies the detect-damage-and-motivate-avoidance role. Asymbolia forces a choice. Deny that patients are in pain (but they still detect painful stimuli). Griffith and Kind (2024) take the first in print; it is a defended option, not an obvious cost. Or concede that "pain" decomposes into functionally separable components, with the lost one carrying the awfulness. The second costs functionalism nothing by its own lights, since the lost component just is the motivational role; what remains unexplained is the general [[constitution-vs-causal-work|bridge]] from role to felt awfulness.
 
 **[[higher-order-theories|Higher-order theories]]** hold that a mental state is conscious when it is the object of a suitable higher-order representation. Asymbolia patients are clearly *conscious of* their nociceptive sensations — they detect and report them. One higher-order system can represent sensory and affective content, so the theory's question is which representation fails: a higher-order one of the affective state, or the first-order state itself. Either answer fits the clinical finding; neither explains why a represented affective state hurts.
 
 **[[global-workspace-theory|Global workspace theory]]** can model asymbolia as a partial broadcasting failure: sensory pain reaches the global workspace while affective pain does not. This is descriptively adequate but reveals a limitation. Two pieces of information might be equally available to the global workspace while differing radically in phenomenal quality. The theory predicts that asymbolia patients lose access to affective information, but it cannot explain why affective information, when accessed, *hurts*.
 
-**[[integrated-information-theory|Integrated Information Theory]]** 4.0 separates the quantity of experience (Φ) from its quality, which corresponds to the Φ-structure. Asymbolia is domain-specific: patients lose affective pain experience while retaining full sensory awareness, visual consciousness, and general cognitive function. The deficit is therefore a Φ-structure change the theory must model, not a falsification.
+**[[integrated-information-theory|Integrated Information Theory]]** 4.0 separates the quantity of experience (Φ) from its quality, which corresponds to the Φ-structure. Asymbolia is selective rather than global: affective pain experience is lost while primary sensation is spared. The deficit is therefore a Φ-structure change the theory must model, not a falsification.
 
 **Representationalism** identifies phenomenal character with representational content, and its accounts of unpleasantness put the hurt in the content: [[valence#three-competing-accounts|evaluativists]] say a pain represents damage as bad for its subject, hybrid imperativists that it commands that the damage end, and Noordhof (2021) makes the aversive disposition itself representational. Asymbolia is then predicted rather than anomalous; what survives of the Map's objection is the general explanatory gap, which redness poses as much as pain.
 
 ### What Asymbolia Discriminates
 
-Each theory can redescribe asymbolia within its framework. None explains the core phenomenon: why the presence or absence of a particular neural connection determines whether nociceptive processing *hurts*. That shortfall is the [[explanatory-gap]] in clinical focus, not missing scientific detail — and it is all the case discriminates. Losing the affective signal degrades avoidance whether or not felt awfulness does causal work of its own, so asymbolia constrains these theories without establishing the Map's causal reading ([[moral-architecture-of-consciousness|moral architecture]]).
+Each theory can redescribe asymbolia within its framework. None explains the core phenomenon: why the presence or absence of particular neural structures determines whether nociceptive processing *hurts*. That shortfall is the [[explanatory-gap]] in clinical focus, not missing scientific detail — and it is all the case discriminates. Losing the affective signal degrades avoidance whether or not felt awfulness does causal work of its own, so asymbolia constrains these theories without establishing the Map's causal reading ([[moral-architecture-of-consciousness|moral architecture]]).
 
 ## The Apparent Unity of Character and Causal Power
 
-Most philosophical discussions of [[mental-causation-and-downward-causation|mental causation]] treat phenomenal character and causal role as conceptually distinct. A mental state has qualitative properties (what it feels like) and causal properties (what it does). Pain seems to collapse this distinction.
+Most philosophical discussions of [[mental-causation-and-downward-causation|mental causation]] treat phenomenal character and causal role as conceptually distinct. Pain seems to collapse this distinction.
 
 When you touch a hot stove, the nociceptive signal travels through C-fibres and A-delta fibres to the brain. But the *withdrawal* — the urgent, whole-body recoil — appears phenomenologically unified with the awfulness: the pain hurts *and therefore* you pull away. The "therefore" is experienced, not inferred — though the epiphenomenalist may read this felt unity as itself a product of the underlying physical process rather than evidence of phenomenal causation.
 
 The epiphenomenalist insists the withdrawal would occur identically without conscious experience. But this conflates the initial spinal reflex (which is indeed unconscious and automatic) with the sustained behavioural response that follows. The spinal reflex yanks your hand away. On the Map's reading, consciousness shapes what happens next: whether you run cold water over the burn, avoid the stove for hours afterward, or develop a lasting wariness. These extended responses track the *felt severity* of the pain, not merely the magnitude of tissue damage; a neural severity estimate predicts that too.
 
-Asymbolia makes this vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. That rules out identifying the awfulness with damage-detection, though not with the aversive disposition lost alongside it. What asymbolia suggests is that phenomenal character may be a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's [[causal-exclusion-argument|causal exclusion argument]] denies: that phenomenal properties [[constitution-vs-causal-work|contribute causally beyond the physical base]]. The dissociation itself is a shared explanandum, though: [[pain-asymbolia#Causal Efficacy of Phenomenal Quality|a valence-prior account]] predicts it too, and on Noordhof's (2021) reversal the missing disposition explains the missing painfulness, so the dissociation constrains Kim's reading rather than refuting it.
+Asymbolia makes this vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. That rules out identifying the awfulness with damage-detection, though not with the aversive disposition lost alongside it. What asymbolia leaves open is that phenomenal character may be a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's (2005) [[causal-exclusion-argument|causal exclusion argument]] denies: that phenomenal properties [[constitution-vs-causal-work|contribute causally beyond the physical base]]. The dissociation itself is a shared explanandum, though: [[pain-asymbolia#Causal Efficacy of Phenomenal Quality|a valence-prior account]] predicts it too, and on Noordhof's (2021) reversal the missing disposition explains the missing painfulness, so the dissociation constrains Kim's reading rather than refuting it.
 
 The unity claim faces a dilemma. As a claim about the pain sensation, it meets Grahek's counterexample above: pain felt without motivational force. As a claim about awfulness understood as the motivational component, it is near-analytic, and imperativists and Noordhof accept it too. The conceivable pain-zombie below adds that character and behaviour are at most nomologically linked. The Map replies that the unity joins felt awfulness to the *power* behind the sustained response, not to the behaviour a zombie performs emptily. That reply buys coherence, not discrimination: the asymbolic lesion remains a common cause of lost awfulness and response.
 
@@ -157,7 +157,7 @@ The [[empirical-phenomena-mental-causation|placebo effect]] appears to make the 
 
 ## Why Pain Is the Hardest Case for Epiphenomenalism
 
-The [[evolutionary-case-for-mental-causation|evolutionary argument]] against epiphenomenalism is strongest for pain. The elaborate phenomenal architecture of pain — its graded intensity tracking tissue damage, its qualitative variety matching damage type, its attention-monopolising urgency proportional to threat severity — would be a staggering accident if consciousness were causally inert.
+The [[evolutionary-case-for-mental-causation|evolutionary argument]] against epiphenomenalism is strongest for pain. The elaborate phenomenal architecture of pain — its graded intensity tracking tissue damage, its qualitative variety matching damage type, its attention-monopolising urgency proportional to threat severity — would be a staggering accident on the cruder epiphenomenalism that treats the fit as brute luck.
 
 The epiphenomenalist may respond that pain experience necessarily [[supervenience|supervenes]] on the functional states natural selection actually selected. But this generates a further question: *why this particular [[supervenience]] mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The interactionist explanation: if hurting drives avoidance *in virtue of how it feels*, evolution calibrated it to the survival stakes; the [[inheritance-problem-for-the-psychophysical-law#harmony|law itself]] is shared. The [[co-optimization-reply-to-the-correlation-problem|co-optimization reply]] has two forms, property-dualist (awfulness inert) and constitutive-physicalist (awfulness is the avoidance-driving role), and the dissociation evidence discriminates against neither.
 
@@ -167,7 +167,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]].** Pain provides the most intuitive support for irreducibility. The felt awfulness of suffering is the paradigm example of something that physical description leaves out. Asymbolia instantiates, in clinical reality, the gap that thought experiments illustrate in principle: intact sensory processing with absent phenomenal suffering. Every physicalist theory can redescribe what is missing in its preferred vocabulary; the dissociation leaves open the [[constitution-vs-causal-work|bridge]] from sub-personal valence to felt awfulness. The pain-suffering distinction compounds this — suffering suggests that consciousness generates aversive phenomenal states without sensory input, widening the explanatory gap further.
+**[[tenets#^dualism|Dualism]].** Pain provides the most intuitive support for irreducibility. The felt awfulness of suffering is the paradigm example of something that physical description leaves out. Asymbolia partly instantiates, in clinical reality, the gap that thought experiments illustrate in principle: spared primary sensation with absent phenomenal suffering. Every physicalist theory can redescribe what is missing in its preferred vocabulary; the dissociation leaves open the [[constitution-vs-causal-work|bridge]] from sub-personal valence to felt awfulness. The pain-suffering distinction compounds this — suffering suggests that consciousness generates aversive phenomenal states without sensory input, widening the explanatory gap further.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Pain is the Map's clearest case of consciousness influencing the physical world. When the felt awfulness is present, it drives protective behaviour; when absent (asymbolia), behaviour changes despite intact nociceptive detection, a pattern compatible with phenomenal causation rather than evidence for it. The anticipatory dimension broadens the pattern: imagined future pain alters present behaviour with no current injury-evoked nociceptive input, which neural simulation explains as readily. Suffering's reach is wider still — grief restructures behaviour for months, existential dread motivates entire life projects, moral suffering drives confession, reparation, and self-transformation.
 
@@ -182,13 +182,13 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [[pain-asymbolia]] — The clinical condition and its philosophical significance
 - [[the-epiphenomenalist-threat]] — Why most theories of consciousness default to epiphenomenalism
 - [[somatic-interface]] — Nociception as one channel of the body's interface with consciousness
-- [[embodied-interface]] — The synthesis where pain's apparent unity of felt awfulness and causal power defines the *constitutive consciousness* category, distinct from both attention-like selection and passive presentation
+- [[embodied-interface]] — The synthesis that files pain under *constitutive consciousness*
 - [[embodied-consciousness]] — Pain's spatial embedding in the lived body and the phenomenological argument for dualism
 - [[consciousness-and-neurodegenerative-disease]] — Pain and phenomenal awareness persisting through neural loss
 - [[phenomenology-of-cognitive-capacity]] — Pain's attention-monopolising quality and the bandwidth of consciousness
 - [[emotion-and-dualism]] — Valence as an intrinsic property of experience
 - [[consciousness-and-causal-powers]] — The nature and scope of consciousness's causal role
-- [[evolutionary-case-for-mental-causation]] — Why evolution requires mental causation
+- [[evolutionary-case-for-mental-causation]] — The evolutionary argument and its limits
 - [[empirical-phenomena-mental-causation|placebo effect]] — Content-specific beliefs causing physiological change
 - [[topics/phenomenal-value-realism]] — How phenomenal properties ground objective value
 - [[mental-causation-and-downward-causation|mental causation]] — The problem of how mind influences matter
@@ -199,7 +199,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — The same dual-domain dissociation pattern in proprioception and spatial imagination
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Other neurological test cases for consciousness theories
 - [[valence-and-conscious-selection]] — How asymbolia evidence bears on whether valence enters the selection mechanism
-- [[clinical-phenomenology-and-altered-experience]] — Asymbolia within the broader framework of clinical evidence for dualism
+- [[clinical-phenomenology-and-altered-experience]] — Asymbolia among clinical disruptions that test theories of consciousness
 - [[supervenience]] — Why the Map accepts phenomenal-physical covariance but rejects the reductive conclusions drawn from it
 
 ## References
@@ -218,3 +218,4 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 1. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29–57.
 1. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (Ed.), *Mind and Cognition*, 490–499. Blackwell.
 1. Noordhof, P. (2021). "Explaining Impossible and Possible Imaginings of Pain." *Rivista internazionale di Filosofia e Psicologia*, 12(2), 173–182. https://doi.org/10.4453/rifp.2021.0015
+1. Raja, S. N., Carr, D. B., Cohen, M., et al. (2020). "The Revised International Association for the Study of Pain Definition of Pain: Concepts, Challenges, and Compromises." *Pain*, 161(9), 1976–1982. https://doi.org/10.1097/j.pain.0000000000001939
