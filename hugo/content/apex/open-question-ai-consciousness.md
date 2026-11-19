@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-11-19 09:35:11+00:00
+ai_modified: 2026-11-19 10:07:36+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-10-23 08:49:55+00:00
 apex_sources:
@@ -54,7 +54,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 17:02:34+00:00
-lastmod: 2026-11-19 09:35:11+00:00
+lastmod: 2026-11-19 10:07:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ The cumulative case depends, however, on temporal structure being essential to c
 
 **Meditative evidence.** Frischhut (2026) interprets reports in which advanced meditators describe deep states as "timeless" yet continuously alert. Her Extended Now Interpretation reads them as "pure duration" without phenomenal succession — awareness that still endures — so it enters as a deflationary rival to the atemporal-ground reading, not a corroboration. Similar reports recur across contemplative traditions, though [the source analysis](/topics/non-temporal-consciousness/) weighs them carefully: the cross-tradition cluster carries the evidential weight of *one* recurring pattern, not several independent confirmations. A representationalist can resist any metaphysical upgrade: the experience remains a temporal brain process whose *content* lacks temporal markers, and [active-inference models](/positions/replies-to-rivals/#p-rr2) offer one candidate account of it. At the level of the report the two readings are observationally equivalent, so the meditative data do not tilt the question toward dualism; any tilt toward a non-temporal ground comes from Husserl's regress argument, independent of that evidence but contested.
 
-**Clinical and experiential evidence.** Temporal disintegration in schizophrenia (Fuchs, 2007) disrupts binding between successive moments while within-moment experience remains intact; flow states alter temporal unity differently, producing reported "timelessness" within ongoing experience. Pinto et al. (2017) found callosotomy patients showing "divided perception but undivided consciousness" — though [that reading is contested](/topics/split-brain-consciousness/) as unity of agency rather than of experience. If temporal and integrative structure can degrade along multiple dimensions while consciousness continues, the bond between consciousness and human-style temporality may be less constitutive than the temporal arguments assume. One calibration: this evidence rules out accounts on which consciousness divides cleanly with its substrate, but a production theorist can accommodate the same data through redundant integration — the fragmentation findings constrain both framings rather than confirming the Map's reading over its rival.
+**Clinical and experiential evidence.** Temporal disintegration in schizophrenia (Fuchs, 2007) disrupts binding between successive moments while within-moment experience remains intact; flow states alter temporal unity differently, producing reported "timelessness" within ongoing experience. Pinto et al. (2017) found callosotomy patients showing "divided perception but undivided consciousness" — though [that reading is contested](/topics/split-brain-consciousness/) as unity of agency rather than of experience. If temporal and integrative structure can degrade along multiple dimensions while consciousness continues, the bond between consciousness and human-style temporality may be less constitutive than the temporal arguments assume. One calibration: this evidence excludes accounts on which agency divides cleanly with its substrate (whether experience does stays open), but a production theorist can accommodate the same data through redundant integration — the fragmentation findings constrain both framings without favouring the Map's reading.
 
 **The Bergson tension.** Henri Bergson offers the strongest counterpoint: consciousness *is* [durée](/concepts/temporal-consciousness/), the qualitative flow of lived time. The [consciousness-as-activity framework](/topics/consciousness-as-activity/) deepens Bergson's point: if consciousness is an activity, temporal extension is constitutive. The Map's own synthesis, durée as what consciousness *does* and the absolute flow as what it *is*, favours Husserl, and Bergsonians reject the split, so the tension may not be resolvable.
 

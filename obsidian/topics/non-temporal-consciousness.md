@@ -2,9 +2,9 @@
 title: "Non-Temporal Consciousness"
 description: "Can consciousness exist outside time? Husserl's absolute flow, meditative timelessness, and fragmentation evidence converge on a non-temporal ground of mind."
 created: 2026-02-10
-modified: 2026-02-15
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-09-14T09:32:46.760744+00:00
+ai_modified: 2026-11-19T10:07:36+00:00
 draft: false
 last_deep_review: 2026-07-18T05:05:10+00:00
 topics:
@@ -38,7 +38,7 @@ related_articles:
   - "[[reviews/outer-review-2026-05-12-gemini-2-5-pro]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-02-10
 last_curated:
 embedded_videos:
@@ -118,7 +118,7 @@ Two features of the fragmentation data are telling. The *resilience of unity*: e
 
 For the non-temporal thesis, fragmentation poses a specific problem: if consciousness has a non-temporal ground constituting temporal experience, fragmenting the physical substrate shouldn't fragment consciousness — only disrupt the *interface* through which it expresses itself temporally.
 
-The accommodation does not run only one way. A production or identity theorist has a structurally parallel move: the resilience of unity reflects redundant integration in a substrate that *produces* consciousness, and the propofol case shows integration failing all at once because the production threshold is global. The anaesthesia and split-brain data therefore *constrain* both framings rather than confirming the interface reading over its rival: they rule out any account on which consciousness divides cleanly with the substrate — a wider target than the non-temporal thesis alone — without favouring the interface picture over a production theory that accommodates the same observations.
+The accommodation does not run only one way. A production or identity theorist has a structurally parallel move: the resilience of unity reflects redundant integration in a substrate that *produces* consciousness, and the propofol case shows integration failing all at once because the production threshold is global. The anaesthesia and split-brain data therefore *constrain* both framings rather than confirming the interface reading over its rival: they rule out any account on which agency divides cleanly with the substrate — a wider target than the non-temporal thesis alone — but leave open whether experience does, and a production theory accommodates the same observations.
 
 Whether the non-temporal thesis genuinely *predicts* preserved unity, rather than merely accommodating it, is the harder question. Bayne's *The Unity of Consciousness* (2010) supplies the framework. Bayne distinguishes subject, phenomenal, and representational unity, defending a Unity Thesis on which a single subject's simultaneous experiences are necessarily phenomenally unified, so two non-co-conscious streams require either two distinct subjects or a violation of that thesis. Within the Map's framework the deepest level of consciousness is the singular absolute subjectivity Husserl describes — non-multiple by construction — so the first horn requires the absolute subjectivity itself divide, and the second is what Bayne denies. The Madhyamaka challenge to this singularity reading is the natural limit of what the Bayne engagement secures. Lopez's 2025 layered-unity model (*Philosophical Studies*) accommodates the empirical picture with global unity persisting through local fragmentation; Bayne's switch model and this layered alternative remain live competitors.
 

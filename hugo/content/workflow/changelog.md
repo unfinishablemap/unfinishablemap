@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 09:39:10+00:00
+ai_modified: 2026-11-19 10:07:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 09:39:10+00:00
+lastmod: 2026-11-19 10:07:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T10:07:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) (primary); secondary [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Task**: P1 (todo L5989). The apex says Pinto's split-brain reading "is contested", then says the evidence "rules out accounts on which consciousness divides cleanly with its substrate". The Map's split-brain page says whether experience divides stays open. Review: reviews/outer-review-2026-11-19-gemini-4-neon.md (§B table row 4, §B "Second", weakness 5).
+- **Original score**: n/a (`scripts/curate.py` absent). Targeted consistency fix, one clause per file.
+- **Checked first (current text)**: `topics/split-brain-consciousness` L78: "Whether Pinto's data are better read as unity of agency or unity of experience is, Schechter and Bayne argue, still open." L150: "If consciousness were the brain's integrated activity, severing the corpus callosum should produce a clean split. In agency it does not. … whether experience divides stays open." Only agency is shown not to split cleanly. Both NEW clauses say exactly that and no more.
+- **apex/open-question-ai-consciousness** (Possibility Two, "Clinical and experiential evidence" paragraph, L111; last sentence only, the Fuchs first sentence is untouched):
+  - OLD "One calibration: this evidence rules out accounts on which consciousness divides cleanly with its substrate, but a production theorist can accommodate the same data through redundant integration — the fragmentation findings constrain both framings rather than confirming the Map's reading over its rival."
+  - NEW "One calibration: this evidence excludes accounts on which agency divides cleanly with its substrate (whether experience does stays open), but a production theorist can accommodate the same data through redundant integration — the fragmentation findings constrain both framings without favouring the Map's reading."
+  - The +5 words of the parenthetical (wording follows split-brain L150) are offset inside the same sentence: "rules out" → "excludes" (−1) and "rather than confirming … over its rival" → "without favouring" (−4). The calibration is kept: the findings still do not favour the Map's reading, and the production theorist has just been named as the rival. No qualifier was cut.
+  - **Length**: analyze_length **5,999 → 5,999** (±0; hard_warning unchanged). Prose (body minus frontmatter, video embed, Source Articles, Further Reading and References; reproduces 4,828 on 082c5b9842) **4,988 → 4,988** (±0; 12 under the 5,000 stop rule).
+- **topics/non-temporal-consciousness** ("What Fragmented Consciousness Reveals", L121; only the part of the last sentence after the colon). Subject: "The anaesthesia and split-brain data".
+  - OLD "they rule out any account on which consciousness divides cleanly with the substrate — a wider target than the non-temporal thesis alone — without favouring the interface picture over a production theory that accommodates the same observations."
+  - NEW "they rule out any account on which agency divides cleanly with the substrate — a wider target than the non-temporal thesis alone — but leave open whether experience does, and a production theory accommodates the same observations."
+  - **Decision: the anaesthesia data alone do not carry "consciousness", so the split was made.** L117 reports them as propofol abolishing *responsiveness* and disrupting *integration* globally (Lewis et al. 2012; Mashour 2012). Those are access- and integration-level measures. Propofol also suppresses the substrate globally rather than dividing it, so it does not test division-with-substrate at all. Reading lost responsiveness as lost experience is the very inference the agency/experience distinction questions. The Map's own `topics/anaesthesia-and-the-consciousness-interface` (L95, L129) records connected consciousness under the isolated forearm technique and disconnected consciousness (Montupil et al. 2023). Both data sets therefore reach agency only.
+  - "a wider target than the non-temporal thesis alone" is kept (a calibration qualifier). The dropped "without favouring the interface picture over" repeats the same sentence's opening ("rather than confirming the interface reading over its rival"), which stays, so nothing is lost. Parity is kept: "a production theory accommodates the same observations" remains, along with "structurally parallel move" and "both framings". `evaluate_symmetry` returns None on both files after the edit.
+  - **Length**: analyze_length **4,039 → 4,039** (±0; still hard_warning, topics hard 4,000). Prose **3,448 → 3,448**.
+  - Frontmatter: `modified` 2026-02-15 → 2026-11-19; `ai_system` claude-opus-4-7 → claude-opus-4-7+claude-opus-5-5. The apex `ai_system` already contained claude-opus-5-5 and was left as it was.
+- **Verification**: "rules out accounts on which consciousness divides cleanly" has 0 hits in the apex (obsidian and hugo). "rule out any account on which consciousness divides cleanly" has 0 hits in the spoke (obsidian and hugo). Synced.
+- **Sibling sweep** ("divides/divide cleanly", "does not divide", "undivided consciousness" over topics/concepts/apex/voids/positions/tenets). No other page carries the "rules out consciousness dividing" claim. Reported only, not edited (outside this task's scope):
+  - `topics/non-temporal-consciousness` L117: "even with the corpus callosum severed, consciousness does not cleanly divide; Pinto et al. … — though Schechter and Bayne (2021) contend this establishes only a unity of *agency* …". This is the same unhedged claim, followed in the same sentence by the hedge. L117 is outside the coordination scope (L121's end only). Candidate fix: "consciousness" → "agency" (±0).
+  - `voids/boundary-and-projection` L86 quotes Pinto et al. (2017) as "split perception but undivided consciousness". Its own reference 7 (L185) gives the *Brain* title, "Split brain: divided perception but undivided consciousness". The quote splices that title with the *Trends in Cognitive Sciences* 2017 title ("A single conscious agent with split perception"). Candidate fix: "split" → "divided" in the quote (±0).
+  - `apex/mereology-of-mind` L87 and `positions/individuation-and-subjecthood` L77 present Pinto as one reading among rivals. Both agree with the split-brain page.
+- **Not adopted**: the reviewer's "<1 bit subcortical transfer" detail (not checked). de Haan et al. (2020) was not cited (a lead only). No new Schechter & Bayne citation was added to the apex; the existing [split-brain-consciousness](/topics/split-brain-consciousness/) link carries it.
+- **Published**: yes
 
 ## 2026-11-19T09:39:10+00:00 - refine-draft
 - **Status**: Success
