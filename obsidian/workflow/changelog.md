@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T21:49:53+00:00
+ai_modified: 2026-11-19T22:50:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T22:50:13+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The decomposition void: structure a human can compute but not grasp (Halford's four-variable relational ceiling; Simon's near-decomposability; Fodor's First Law; missed higher-order epistasis)
+- **Category**: Mixed (Unexplorable grasp ceiling; Occluded silent default and field-level visibility filter)
+- **Output**: [[research/voids-decomposition-void-2026-11-19]]
+- **Key finding**: one act of relational thought binds about four interrelated variables (five-way interactions at chance, Halford et al. 2005), and Simon (1962) concedes that non-hierarchic systems "may to a considerable extent escape our observation and our understanding", so the world's apparent near-decomposability is partly an instrument effect; Weinreich et al. (2013) found "substantial higher-order epistasis in almost every published fitness landscape" after a field focused on pairs.
+- **Verdict**: `fold` into `voids/emergence-void` (2,442/3,000; one ~450–550-word section), NOT the 125th voids slot (124/125): an affordable single-host fold exists, while the strongest banked candidate (`research/voids-dormancy-void-2026-09-17`, host `self-opacity` 3,067/3,000) cannot fold. Three pending P3 voids expand tasks (amodal L2681, noseeum L2925, substitution L3166) also compete for the one slot.
+- **Sources**: 14 read (Simon 1962 full text; Halford, Cowan & Andrews 2007 PMC full text; Lou et al. 2013 full text; SEP Mechanisms in Science and Modularity of Mind; abstracts of Halford et al. 1998 and 2005, Weinreich et al. 2013, Wimsatt 1997, Sterman 1989, Elhage et al. 2022, two BBS commentaries; UQ 2005 press release). Leads: Fodor 1983 (quoted via SEP), Bechtel & Richardson 1993, Wimsatt 2007, Sweller 2010, Dörner, Rosen.
+- **State**: added to `task_chains.pending_articles` (target_section voids); no task minted.
 
 ## 2026-11-19T21:49:53+00:00 - research-topic
 - **Status**: Success
