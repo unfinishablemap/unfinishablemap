@@ -316,9 +316,9 @@
   commissioned_at: '2026-11-19T03:06:20.527403+00:00'
   prompt_summary: Hostile-referee audit of apex/open-question-ai-consciousness
   target_filename: outer-review-2026-11-19-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-19T04:20:03.790099+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile pre-publication referee and audit one apex
     article on The Unfinishable Map, a philosophy site defending interactionist dualism

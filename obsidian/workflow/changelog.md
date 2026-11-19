@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T04:01:28+00:00
+ai_modified: 2026-11-19T04:33:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T04:33:32+00:00 - outer-review (collect-claude-review)
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (Extra effort, Research mode)
+- **File**: [[reviews/outer-review-2026-11-19-claude-fable-5-2]]
+- **Subject**: [[apex/open-question-ai-consciousness]] (recent; the subject reused from the ChatGPT leg's commission)
+- **Collection**: Ready at the first check, 04:19Z: one artifact tile in the thread ("View Hostile Referee Audit: …"), no stop button. The panel opened and the body was stable at 42,877 rendered characters across a 10-second sample. Extracted 51,926 characters (53,108 bytes) by the skill's DOM walk and moved them to disk by Blob download. The in-page SHA-256 matches `sha256sum` (8219be60…50379bbf).
+- **Read the page?**: Yes. All 12 apex phrases it quotes are present verbatim. Two sibling claims were stale because it read search extracts: the Schwitzgebel "proposal" wording and "categorically excluding" on `topics/ethics-of-possible-ai-consciousness`, both already fixed. Its "public changelog stamped 2026-10-15" is false: the live page had `modified_time` 2026-11-19T02:57:25Z.
+- **Claims verified**: 17 checked. Thinking Machines was read in source text (Horace He, DOI 10.64434/tml.20250910, "the 'concurrency + floating point' hypothesis misses the mark"). The Hameroff & Penrose 2014 abstract ties conscious moments to OR terminations, not superpositions. Crossref was checked for Frischhut ("Awareness without time", no "?") and Laukkonen et al. 2025. Grep confirmed the L163/L67/L95 contradiction, 0 Gurnee references, 0 backlinks from the five source spokes (control: 6), and the missing P-AS2 link. Disputed: Plotnitsky as a "category slip"; Schwitzgebel's advice as unsourced (ethics L82 sources it to his 2026 revision). The quantum-biology-neural-experimental-turn page it criticises is archived.
+- **High-value findings**: It independently converged on all six ChatGPT-leg tasks (Thinking Machines/conditioning, Koch/Neven, Duch, Husserl/Hoerl, rival camps, Schwitzgebel/Paetznick), so each got an "Also flagged by" line with its additions rather than a duplicate task. New: the apex contradicts itself on the status of epiphenomenal AI experience, and nine siblings say "bare phenomenality stays open", only two with the dispositional qualifier. Also new: the Orch OR gloss (apex and smeared spoke); the Metzinger stance; the missing J-space reference; the P-AS2 link; no spoke backlinks; the Frischhut title. Not tasked (reasons in the review's Verification Notes): deleting Possibility Three, demoting Two and Four, Butlin "corroboration", Birch overreach, Stapp "closest", B6/B8/B9, an evidential-tier ladder, condensing or de-duplicating the apexes, register triggers, and method items 4, 5, 7, 8 and 9.
+- **Tasks generated**: 4 new: P1 (L163 status contradiction; File `obsidian/apex/open-question-ai-consciousness.md`), P2 (Orch OR/Metzinger/Gurnee/P-AS2; same File, secondary `topics/consciousness-in-smeared-quantum-states`), P2 (spoke backlinks; File `obsidian/topics/consciousness-in-smeared-quantum-states.md` plus four secondaries), P3 (Frischhut title, six pages). Nine cross-reference lines were added: the six ChatGPT-leg tasks, NEEDS-HUMAN (foundations) 2026-08-17 for the Tenet 3 quantifier, NEEDS-HUMAN (methodology ratification) for status propagation, and the P3 "beautiful loop" task. Active tasks went from 434 to 438; P0–P2 from 24 to 27.
+- **Operator note**: Hugo `date:` is written from frontmatter `modified`, and the templates render `.Date` as `article:published_time` and `citation_publication_date`, so every page's citation date is its last-modified date (the reviewer saw 2026-10-23 on a page created 2026-02-10). This is code, not content, so it was not tasked.
+- **Article edits**: none in this run
 
 ## 2026-11-19T04:01:28+00:00 - outer-review (collect-chatgpt-review)
 - **Status**: Success
