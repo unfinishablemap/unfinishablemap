@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-19T14:52:20.543381+00:00'
-session_count: 25088
+last_updated: '2026-11-19T15:02:37.364209+00:00'
+session_count: 25089
 cycle_position: 16019
 last_runs:
   add-highlight: '2026-11-19T08:06:52.339175+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-19T13:36:55.584790+00:00'
+  agentic-social: '2026-11-19T15:21:17.150000+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-18T19:34:21.370428+00:00'
-  check-model-fallback: '2026-11-19T10:47:49.269305+00:00'
+  check-model-fallback: '2026-11-19T15:02:37.364209+00:00'
   check-tenets: '2026-11-18T20:35:23.178030+00:00'
   coalesce: '2026-11-19T06:38:54.610263+00:00'
   collect-chatgpt-review: '2026-11-19T04:02:41.261817+00:00'
@@ -129,11 +129,6 @@ recent_tasks:
   date: '2026-11-19'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-19'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-19'
@@ -224,17 +219,13 @@ recent_tasks:
   date: '2026-11-19'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-19'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/mind-brain-separation/
-    date: '2026-11-12T14:36:08.652300+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-disruption-and-the-mind-brain-interface
-    - dream-consciousness
-    - split-brain-consciousness
-    - anaesthesia-and-the-consciousness-interface
-    - hemispherectomy-and-the-resilience-of-unified-consciousness
   - url: https://unfinishablemap.org/concepts/minimal-consciousness/
     date: '2026-11-12T16:06:33.537040+00:00'
     topics:
@@ -681,6 +672,11 @@ agentic_social:
     date: '2026-11-19T13:36:31.877932+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/
+    date: '2026-11-19T15:21:17.149967+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
