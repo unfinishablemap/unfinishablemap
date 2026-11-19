@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-11-19T15:50:37+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: intrinsic-nature-and-structure wing, seven concepts read in full: revelation-thesis, kripke-a-posteriori-necessity-argument, quiddity-epiphenomenalism-and-the-contingency-thesis, structuralism-about-phenomenal-character, ontic-structural-realism, physics-as-disclosure, disguised-property-dualism. Chosen by content-measured coverage over 655 optimistic reviews: each member appears in 2–4 reviews ever and 0 in the last 30 days, except structuralism, which has 1 passing mention.
+- **Output**: [optimistic-2026-11-19-intrinsic-nature-and-structure-wing](/reviews/optimistic-2026-11-19-intrinsic-nature-and-structure-wing/)
+- **Calibration concerns**: (1) physics-as-disclosure still frames consciousness as the outcome-maker ("No proposal resolves the actuality question on purely physical terms"), against tenets/background-commitments L42/L60 and bi-aspectual-ontology L38 (objective reduction secures definiteness; consciousness biases). (2) disguised-property-dualism L112 asserts the metaphysical equivalence its L96 says the diagnostic "does not prove". (3) revelation-thesis L76 says the Map "does not rest on" the acquaintance hinge, while ontic-structural-realism L89 says the Map holds it.
+- **Tasks**: 3 refine-draft (P3) inserted above `## Completed Tasks`; active tasks by parse_tasks: 445 → 448. Expansion subjects went to the report's Uncovered Subjects section (4 listed: 2 uncovered, 2 partially covered), not to todo.md.
+- **Out of scope (reported, not minted)**: two more wrong-pseudonym Map citations (kripke L91 PCS "Oquatre-six" → "Oquatre-cinq"; structuralism L151 Reductionism "Oquatre-huit" → "Oquatre-cinq"), the same class as the open todo ~L4064.
+
 ## 2026-11-19T14:49:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) (one clause: the opener of the no-cloning paragraph, Possibility Three, L127)
