@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-11-09 17:37:06+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-19 16:13:20+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/quantum-biology/
@@ -33,14 +33,14 @@ concepts:
 - '[[haecceity]]'
 - '[[witness-consciousness]]'
 created: 2026-01-16
-date: &id001 2026-05-18
+date: &id001 2026-11-19
 description: Quantum effects in living systems—magnetoreception and enzyme tunnelling
   survive, photosynthesis no longer does—and five proposed neural quantum mechanisms.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-09 17:37:06+00:00
-lastmod: 2026-11-09 17:37:06+00:00
+lastmod: 2026-11-19 16:13:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,19 +104,19 @@ More fundamentally, decoherence doesn't solve the [measurement-problem](/concept
 
 ## Five Coherence Protection Mechanisms
 
-Five mechanisms have been proposed for protecting quantum coherence in biological systems. None is confirmed in living neurons, but each has at least theoretical support.
+None of the five is confirmed in living neurons, but each has at least theoretical support.
 
 **Hydrophobic microtubule interior**: Microtubule interiors lack water—the primary biological decoherence agent. Aromatic amino acids form π-electron clouds creating a hydrophobic quantum channel. Babcock et al. (2024) predicted ultraviolet superradiance across tryptophan mega-networks in microtubule architectures and confirmed its fluorescence-yield signature experimentally; persistence under ambient conditions remains their projection rather than a measurement.
 
 **Metabolic energy pumping (Fröhlich coherence)**: Continuous metabolic energy input maintains coherent oscillations analogous to laser coherence. Craddock et al. (2017), *Scientific Reports* 7:9877, used molecular-docking and quantum-chemistry simulations to predict that anaesthetics — but not non-anaesthetic structural analogues — disrupt a (613 ± 8) THz collective tubulin oscillation peak, with disruption magnitude tracking clinical potency. This matches Fröhlich predictions; Wiest (2025) reviews the prediction and develops its implications. The 613 THz peak is a computational prediction awaiting direct experimental observation rather than an observation awaiting replication.
 
-**Nuclear spin isolation (Fisher/Posner)**: Phosphorus-31 nuclear spins in Posner molecules (Ca₉(PO₄)₆) are estimated (Fisher 2015) to keep coherence for **~10⁵ seconds** (over a day) because nuclear spins couple weakly to the electromagnetic environment. Esmaeilpour et al. (2025), a bioRxiv preprint, showed with multi-electrode arrays that lithium-6 and lithium-7 have "large and opposite effects on synaptic transmission"—consistent with Fisher's predictions.
+**Nuclear spin isolation (Fisher/Posner)**: Phosphorus-31 nuclear spins in Posner molecules (Ca₉(PO₄)₆) couple weakly to the electromagnetic environment, so Fisher (2015) estimated **~10⁵ seconds** of coherence; simulations of the molecule's asymmetric forms put inter-Posner entanglement on a subsecond timescale, with Ca₆(PO₄)₄ dimers at hundreds of seconds (Agarwal et al. 2023). Esmaeilpour et al. (2025), a bioRxiv preprint, showed with multi-electrode arrays that lithium-6 and lithium-7 have "large and opposite effects on synaptic transmission"—consistent with Fisher's predictions.
 
 **QED cavity structure**: Mavromatos et al. (2025) proposed that microtubules may function as quantum electrodynamic cavities sustaining high-Q quantum states, shielding them from thermal decoherence. The proposal remains theoretical.
 
-**Ordered water and cytoskeletal gel**: Actin filaments, ordered water layers, and counterion Debye layers screen thermal fluctuations, potentially working synergistically with other mechanisms.
+**Ordered water and cytoskeletal gel**: Actin filaments, ordered water layers, and counterion Debye layers screen thermal fluctuations.
 
-These five mechanisms need not operate independently—their combination could extend coherence beyond any single mechanism.
+Combined, the five could extend coherence beyond any single mechanism.
 
 ## Five Neural Quantum Mechanisms
 
@@ -203,6 +203,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 
 ## References
 
+1. Agarwal, S., et al. (2023). The Biological Qubit: Calcium Phosphate Dimers, Not Trimers. *The Journal of Physical Chemistry Letters*, 14(10), 2518–2525. https://doi.org/10.1021/acs.jpclett.2c03945
 1. Babcock, N. S., et al. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046. https://doi.org/10.1021/acs.jpcb.3c07936
 1. Baum, E. (2024). Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive* (preprint).
 1. Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.

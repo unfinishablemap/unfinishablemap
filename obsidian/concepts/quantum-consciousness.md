@@ -2,9 +2,9 @@
 title: "Quantum Consciousness Mechanisms"
 description: "How consciousness might interact with quantum mechanics: Orch OR microtubule collapse, Stapp's quantum Zeno effect, and Fisher's nuclear spin entanglement."
 created: 2026-01-09
-modified: 2026-11-18
+modified: 2026-11-19
 human_modified: null
-ai_modified: 2026-11-18T21:22:21+00:00
+ai_modified: 2026-11-19T16:13:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,17 +97,15 @@ The [[quantum-indeterminacy-free-will|luck objection]]—that quantum indetermin
 
 **Proponent**: Matthew Fisher (physicist, UCSB)
 
-Fisher's 2015 proposal operates at nuclear rather than electronic scales. Phosphorus-31 nuclear spins in Posner molecules (calcium phosphate clusters) could maintain coherence for extended periods—estimates range from ~37 minutes (Player & Hore 2018) to hours or days (Fisher's ~10⁵ seconds)—because nuclear spins couple weakly to their environment.
+Fisher's 2015 proposal operates at nuclear rather than electronic scales: phosphorus-31 spins in Posner molecules (calcium phosphate clusters) couple weakly to their environment, giving coherence estimates of ~37 minutes (Player & Hore 2018) to ~10⁵ seconds (Fisher). Simulations of the molecule's asymmetric forms (Agarwal et al. 2023) put inter-Posner entanglement on a subsecond timescale, with calcium phosphate dimers at hundreds of seconds.
 
 The mechanism: enzymatic reactions create entangled phosphate pairs; these incorporate into separate Posner molecules; when the molecules enter neurons and release calcium, the correlated patterns influence neural activity.
 
 **Testable predictions**: Lithium-6 and lithium-7 (different nuclear spins) should affect cognition differently. Preliminary evidence shows lithium isotope effects in rat behavior.
 
-This offers a route around the decoherence challenge through nuclear spin isolation rather than electronic protection.
-
 ## The Decoherence Challenge
 
-See [[decoherence]] for comprehensive analysis. Two distinct questions arise, and conflating them obscures the state of play.
+See [[decoherence]] for comprehensive analysis. Two distinct questions arise.
 
 ### The Philosophical Question: Does Decoherence Close the Quantum Opening?
 
@@ -115,7 +113,7 @@ See [[decoherence]] for comprehensive analysis. Two distinct questions arise, an
 
 ### The Empirical Question: Can Quantum Mechanisms Operate in Neural Tissue?
 
-Even granting that the measurement problem leaves room for consciousness, specific mechanisms must maintain the right kind of quantum states in biological conditions. The decoherence objection targets this empirical claim directly.
+Even granting that the measurement problem leaves room for consciousness, specific mechanisms must maintain the right kind of quantum states in biological conditions.
 
 **Biology exploits quantum effects, but the neural case is unproven.** [[radical-pair-magnetoreception|Avian magnetoreception]] (spin coherence, unsettled) and enzyme catalysis (tunnelling) exploit quantum effects in warm biological systems. Photosynthetic energy transfer no longer belongs on that list: Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. [[quantum-biology-and-neural-mechanisms|Quantum biology]] indicates evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [[decoherence-and-macroscopic-superposition]] for the experimental evidence that the quantum-classical boundary keeps receding.
 
@@ -137,7 +135,7 @@ Two objections arise: what caused collapse before conscious observers existed, a
 
 The [[prebiotic-collapse|prebiotic collapse]] problem distinguishes two timelines. The *cosmological* timeline spans 13.8 billion years before any minds—star formation, chemical evolution, early Earth. The *phylogenetic* timeline concerns when consciousness emerged in biological evolution. Objective reduction handles the cosmological question; consciousness-collapse interfacing addresses the phylogenetic one.
 
-The Map resolves both through **objective reduction with consciousness modulation**: gravitational collapse and GRW spontaneous localization supply baseline collapse—stars and chemistry didn't wait for minds—while consciousness adds *local modulation* within its own neural interface. See [[spontaneous-collapse-theories]] for GRW, CSL, and Penrose OR models, and [[prebiotic-collapse]] and [[multi-mind-collapse-problem]] for how the Map deploys them.
+The Map resolves both through **objective reduction with consciousness modulation**: gravitational collapse and GRW spontaneous localization supply baseline collapse while consciousness adds *local modulation* within its own neural interface. See [[spontaneous-collapse-theories]] for GRW, CSL, and Penrose OR models, and [[prebiotic-collapse]] and [[multi-mind-collapse-problem]] for how the Map deploys them.
 
 ## Entanglement and the Binding Problem
 
@@ -241,6 +239,7 @@ The Map's position is strong emergentism that specifies its mechanism: conscious
 ## References
 
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
+1. Agarwal, S. et al. (2023). The Biological Qubit: Calcium Phosphate Dimers, Not Trimers. *The Journal of Physical Chemistry Letters*, 14(10), 2518–2525. https://doi.org/10.1021/acs.jpclett.2c03945
 1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
 1. Baum, E. (2024). Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails). *PhilArchive* (preprint; not peer reviewed).
 1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
