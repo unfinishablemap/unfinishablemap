@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T20:24:58+00:00
+ai_modified: 2026-11-19T21:05:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T21:05:44+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Ladyman and Ross's real patterns and rainforest realism as ontic structural realism's place for mind
+- **Output**: [[research/ladyman-ross-real-patterns-and-mind-2026-11-19]]
+- **Sources consulted**: 12 read (Dennett 1991 via Tufts DL; SEP *Structural Realism* 2023 §4.4; *Metascience* 2010 symposium in full via the 2018 Wayback capture of Springer's OA PDF; Ross & Spurrett 2004 target and response abstracts; Wallace 2004 BBS commentary, author PDF; Wallace 2003 arXiv; Loorits 2014 via PMC efetch; Loorits 2019 Helsinki dissertation via Helda; Ladyman 2015 *Interalia* interview; Franklin & Robertson 2024 EJPS; Dorr 2010 NDPR, negative; Bayne 2024 *Aeon*, dropped); about 12 leads unread (ETMG itself, behind OUP Cloudflare; the 2026 MIT real-patterns volume, CC BY-NC-ND but behind Cloudflare; Ross 2000; Ladyman 2008; Cordovil et al. 2023; Ladyman & Ross 2013; others)
+- **Verdict**: `fold` (topics and concepts 370/370). Primary host `concepts/emergence` (2,982; new `### Real Patterns Without Emergence {#real-patterns}`, +409, END ≤ 3,420). Secondary: `concepts/structuralism-about-phenomenal-character` L50 (Loorits 2019, +86). Correction: OSR refine at net ≤ 0 (+88 before a funded trim). Optional: `topics/mad-dog-everettianism` L67 (+44) and a zero-word pipe on `topics/argument-from-reason` L85
+- **Key findings**: cognitive mind is located as non-reductive functional real patterns (Ross & Spurrett 2004), with no general supervenience and "not physicalists" (2010, p. 181). On phenomenal consciousness the authors stayed silent when pressed: Humphreys's 2010 qualia objection went unanswered (reply has 0 hits for qualia, first person, conscious or intrinsic), and Ladyman 2015 said "I don't have specific views about this". Loorits 2019 argues the join ("phenomenal experiences are real patterns", p. 26) and is uncited anywhere in the corpus
+- **Map defects (report only)**: OSR L37/L59 (join "published only in outline" / "cannot close"; "Loorits ... without resting on OSR about physics") and L105 ("if pressed") are overtaken; `argument-from-reason` L85 answers only Dennett's 1991 version, not Ross & Spurrett's no-supervenience version
 
 ## 2026-11-19T20:24:58+00:00 - research-topic
 - **Status**: Success
