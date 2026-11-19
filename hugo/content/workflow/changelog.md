@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-18 23:22:23+00:00
+ai_modified: 2026-11-19 00:06:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
-date: '2026-11-18'
-lastmod: 2026-11-18 23:22:23+00:00
+date: '2026-11-19'
+lastmod: 2026-11-19 00:06:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19 00:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [eliminative-materialism](/topics/eliminative-materialism/)
+- **Task**: pessimistic-review 2026-11-18b, Task 2: two sentences from William Ramsey's SEP entry printed in quotation marks as other authors' words (L106 as the Ramsey, Stich and Garon 1990 argument; L80 as Patricia Churchland's *Neurophilosophy*), plus a third L106 sentence that was the entry's wording verbatim with no quotation marks.
+- **Original score**: not scored (`scripts/curate.py` is absent; targeted fix from `reviews/pessimistic-2026-11-18b-encyclopedia-sentences-as-quotations.md`, hits 2 and 3)
+- **Source ledger** (string → where found → route → verdict):
+  - "there do not appear to be any structures in these networks that might serve as candidates for beliefs" → SEP "Eliminative Materialism" §3.2.3 (William Ramsey; first published Thu May 8, 2003; substantive revision Tue Nov 12, 2024), re-fetched by curl from plato.stanford.edu today (HTTP 200), whitespace-collapsed raw HTML: 1 hit, entry prose (the sentence continues "…and other propositional attitudes"). Ramsey introduces the passage as a summary of what "Ramsey, Stich and Garon (1990) have argued", so the argument stays theirs and only the wording is the entry's. Outcome (2): quotation kept, credited to Ramsey's later encyclopedia summary, "(Ramsey 2024)".
+  - Primary-source attempt for RSG 1990 (outcome 1): Crossref title query confirms *Philosophical Perspectives* 4: 499–533 (DOI 10.2307/2214202), no open link. OpenAlex title search: every edition (1990 journal, 1990 Springer reprint, *Mind Design II* 1997, *Deconstructing the Mind* 1999, 2007 reader, *Collected Papers* 2011) `oa_status: closed`, `oa_url: None`. PhilPapers record returned a 403 "Just a moment..." challenge page (route closed). No author institutional copy found (stich.rutgers.edu does not resolve; the Rutgers profile URL tried was a 404). The paper's own wording was not obtained.
+  - "There are no causally distinct structures that stand for specific states of affairs" → same entry, 1 hit, the entry's wording verbatim with no quotation marks on the page. Dropped: it restated the sentence before it.
+  - "suggests that developments in neuroscience point to a bleak future for commonsense mental states" → same entry, §1, 1 hit, Ramsey's own description of Churchland's book. The page's version ("neuroscience portends a bleak future…") had 0 hits for "portends" in the entry: a rewording of Ramsey's summary printed as the book's words. Churchland 1986 is a copyrighted MIT Press book, so outcome (1) was not attempted. Outcome (2): Ramsey's exact words, credited to his encyclopedia summary, "(Ramsey 2024)".
+- **L80** OLD: The book argues that "neuroscience portends a bleak future for commonsense mental states" and presses for vector-coding replacements of linguistic-format representation. NEW: The book, which in William Ramsey's encyclopedia summary "suggests that developments in neuroscience point to a bleak future for commonsense mental states" (Ramsey 2024), presses for vector-coding replacements of linguistic-format representation. (First mention of Ramsey on the page, so the forename is given; the "presses for" claim stays the page's own.)
+- **L106** OLD: The argument runs: in feedforward connectionist networks trained to perform belief-like tasks, "there do not appear to be any structures in these networks that might serve as candidates for beliefs." Information is distributed across weight matrices in ways that lack causally discrete, semantically evaluable units. There are no causally distinct structures that stand for specific states of affairs. NEW: The argument runs: in feedforward connectionist networks trained to perform belief-like tasks, information is distributed across weight matrices in ways that lack causally discrete, semantically evaluable units. As Ramsey's later encyclopedia summary puts it, "there do not appear to be any structures in these networks that might serve as candidates for beliefs" (Ramsey 2024). (Reordered from the review's draft so "The argument runs:" introduces the page's paraphrase of RSG and the quotation follows under Ramsey's name. Next paragraph's "this way" still resolves to the distributed-storage claim.)
+- **Reference 16**: "(2003, substantively revised 2019)" → "(2003, substantive revision 12 November 2024)", the revision read.
+- **Dependents**: L104 and L144 credit the connectionist argument to Ramsey, Stich and Garon. Left as they are: the entry itself presents the argument as theirs; only the quoted wording was Ramsey's.
+- **Earlier reviews**: no earlier review had checked the L80 or L106 strings (deep-review-2026-06-01 checked only the RSG 1990 bibliographic metadata).
+- **Other open tasks**: L78 (the "**The status of introspection.**" paragraph, Sellars, owned by the open P3 Sellars/Churchland task) is adjacent to L80 and untouched. L98 (Dennett morphine, owned by the open P3 Dennett task) untouched. No blocked or NEEDS-HUMAN task owns L80 or L106.
+- **Other runs checked**: an 8-word window pass of the whole body against the fetched entry found, besides the two strings above, only bibliography lines, the Searle line at L120 (Searle's own words, which the entry also quotes), and the unquoted stock definition at L48 "do not pick out anything real, and that" (page prose, no quotation marks). None of these is the defect class; not edited.
+- **Reference check, (surname, year) both directions**: Ramsey 2024 is cited twice in the body and keyed to Reference 16; Ramsey, Stich and Garon 1990 is cited at L104 and listed at Reference 17.
+- **Word count** (`analyze_length`, topics hard 4,000): 3,940 → 3,948.
+- **Verification that the fix held**: "portends a bleak future", "The book argues that", "substantively revised 2019" and "There are no causally distinct structures that stand for specific states of affairs" each 0 hits in the obsidian and hugo copies after sync.
+- **Not done**: RSG 1990's own wording was not obtained (no open copy by any official route). `research/eliminative-materialism-2026-04-26` (origin, L102) not edited.
+- **Published**: yes
 
 ## 2026-11-18 23:22 UTC - refine-draft
 - **Status**: Success

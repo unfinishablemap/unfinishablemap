@@ -2,9 +2,9 @@
 title: "Eliminative Materialism"
 description: "Eliminative materialism holds beliefs and qualia are theoretical fictions awaiting replacement by neuroscience. The Map distinguishes two strands and rejects both."
 created: 2026-04-26
-modified: 2026-04-30
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-07-13T03:51:30+00:00
+ai_modified: 2026-11-19T00:06:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[aphantasia]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-04-26
 last_curated:
 last_deep_review: 2026-07-25T19:32:17+00:00
@@ -77,7 +77,7 @@ Paul Churchland's 1981 case rests on four moves.
 
 **The status of introspection.** Mental concepts are theoretical posits, not introspective givens. Sellars (1956) had already argued that the apparent self-evidence of mental states is an artefact of long enculturation in the folk theory. Introspection cannot vindicate folk psychology because introspection is itself a deployment of folk psychology.
 
-Patricia Churchland's *Neurophilosophy* (1986) develops the constructive side: a programme of neurophilosophy in which philosophy is answerable to neuroscience. The book argues that "neuroscience portends a bleak future for commonsense mental states" and presses for vector-coding replacements of linguistic-format representation.
+Patricia Churchland's *Neurophilosophy* (1986) develops the constructive side: a programme of neurophilosophy in which philosophy is answerable to neuroscience. The book, which in William Ramsey's encyclopedia summary "suggests that developments in neuroscience point to a bleak future for commonsense mental states" (Ramsey 2024), presses for vector-coding replacements of linguistic-format representation.
 
 Classical eliminativism therefore proposes a positive successor science alongside its destructive critique. Mental states do not vanish from explanation; they are *replaced* by descriptions in the language of neural population coding, dynamical-systems trajectories, and connectionist representation.
 
@@ -103,7 +103,7 @@ Frankish himself acknowledges that illusionism is "entity eliminativism about ph
 
 The argument the Map most needs to engage seriously comes from Ramsey, Stich, and Garon's 1990 paper "Connectionism, Eliminativism, and the Future of Folk Psychology." The argument is not just promissory; it offers a concrete cognitive-science model in which folk-psychological ontology has no implementation base.
 
-The argument runs: in feedforward connectionist networks trained to perform belief-like tasks, "there do not appear to be any structures in these networks that might serve as candidates for beliefs." Information is distributed across weight matrices in ways that lack causally discrete, semantically evaluable units. There are no causally distinct structures that stand for specific states of affairs.
+The argument runs: in feedforward connectionist networks trained to perform belief-like tasks, information is distributed across weight matrices in ways that lack causally discrete, semantically evaluable units. As Ramsey's later encyclopedia summary puts it, "there do not appear to be any structures in these networks that might serve as candidates for beliefs" (Ramsey 2024).
 
 If cognition is implemented this way—and contemporary deep learning has revived rather than dispelled the question—the propositional-attitude framework lacks the kind of categorical structure it presupposes. Beliefs would not merely be hard to find in neural tissue; they would be the wrong *kind* of thing to look for.
 
@@ -189,7 +189,7 @@ Eliminativism persists because physicalism keeps failing to produce a satisfying
 13. Loginov, E. V. (2024). Illusionism, Moore, and Chalmers. *Frontiers in Psychology*, 15, 1449314. (Argues the Moorean argument against illusionism does not succeed.)
 14. Lycan, W. G. & Pappas, G. (1972). What Is Eliminative Materialism? *Australasian Journal of Philosophy*, 50, 149-159.
 15. Morozov, K. (2025). In Defense of Moorean Argument Against Illusionism. In I. Kasavin (ed.), *Revolution and Evolution: Models of Development in Science, Culture, and Society*, 397-402. Moscow: Russian Society for History and Philosophy of Science.
-16. Ramsey, W. (2003, substantively revised 2019). Eliminative Materialism. *Stanford Encyclopedia of Philosophy*.
+16. Ramsey, W. (2003, substantive revision 12 November 2024). Eliminative Materialism. *Stanford Encyclopedia of Philosophy*.
 17. Ramsey, W., Stich, S., & Garon, J. (1990). Connectionism, Eliminativism, and the Future of Folk Psychology. *Philosophical Perspectives*, 4, 499-533.
 18. Searle, J. (1992). *The Rediscovery of the Mind*. MIT Press.
 19. Searle, J. & Dennett, D. (1995). "The Mystery of Consciousness": An Exchange. *The New York Review of Books*, 21 December 1995. (Source of the verbatim appearance-reality quotation.)
