@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T23:13:33+00:00
+ai_modified: 2026-11-19T23:40:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T23:40:29+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Ambiguous loss: grief for the present-but-absent and the absent-but-unconfirmed
+- **Output**: [[research/ambiguous-loss-2026-11-19]]
+- **Sources consulted**: 29 cited (11 read in full text: Lenferink et al. 2019, Comtesse et al. 2023, Testoni et al. 2020, Isuru et al. 2021, Blandin & Pepin 2017, Givens et al. 2011, Ponce et al. 2026, Manevich & Haber 2026 in part, Paun et al. 2022, Lucas et al. 2022, Partridge et al. 2025; Boss's University of Minnesota site; the rest abstracts or metadata), plus 8 leads (Tierney, Cholbi, Kauffman, Dupuis, Boss's books)
+- **Key finding**: Boss's frozen-grief and most-stressful claims are not borne out by comparative studies (no difference in psychopathology between relatives of the missing and the deceased; homicide-bereaved higher in a Dutch sample), though hope and time to death confirmation predict worse grief. For the Map: the bereavement void's lag needs a fact, and when someone disappears there is none, so the expectation may be warranted hope and the state resists its own name. In dementia the fact splits: carers grieve before the death and rarely recognise it as grief. Type Two bears on the Map's identity verdict only as a practical test of meaning, not as evidence either way
+- **Verdict**: `fold`. Host A `topics/phenomenology-of-attention-to-absence` "Social absence" +209 (~3,428 → ~3,637 after booked folds); Host B `topics/consciousness-and-neurodegenerative-disease` end of "The Identity Crisis" +289 (3,632 → 3,921); zero-word pipes in `voids/bereavement-void` (stays 2,989) and `voids/beloved-void` (stays 2,978). No task minted (a fold mints nothing; the driver must hand-mint the refine-draft)
 
 ## 2026-11-19T23:13:33+00:00 - apex-evolve
 - **Status**: Complete
