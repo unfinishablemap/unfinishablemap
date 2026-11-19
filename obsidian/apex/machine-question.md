@@ -2,9 +2,9 @@
 title: "The Machine Question"
 description: "Can artifacts be conscious? The Map finds serious obstacles—conditional on its framework, not settled—and honest uncertainty keeps paths beyond them open."
 created: 2026-01-31
-modified: 2026-11-01
+modified: 2026-11-19
 human_modified: null
-ai_modified: 2026-11-14T06:09:49+00:00
+ai_modified: 2026-11-19T17:07:57+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -91,7 +91,7 @@ Functionalism has not explained why any functional organization should feel like
 
 Two recent developments deepen the case against it. Putnam's later work showed that semantic externalism—mental content is partly constituted by environment—undermines any purely internal functional specification of meaning. And [[concepts/materialism|physicalist]] alternatives like [[integrated-information-theory|IIT]] reject functionalism from *within* materialism, holding that *how* a system is physically organized matters, not just what it computes. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] (Milinkovic & Aru 2026) goes further: brains compute, but biological computation is hybrid discrete-continuous and inseparable from its fluidic substrate—"the algorithm *is* the substrate." The Map reads this as [[concession-convergence]]: physicalist programmes independently retreating to positions that inadvertently concede the dualist's central claim.
 
-A third programme runs in the *opposite* direction and is the strongest competent affirmative the case must engage. Włodzisław Duch's *articon* (Duch 2005, 2019) refuses the substrate-dependence move entirely: the consciousness mechanism is *self-reflective dynamical access* over a system's own internal states, substrate-independent at the architectural level (only *content* depends on substrate and environment). Mind is the "shadow" of neurodynamics, but the shadow-relation does not require biological substrate; any sufficiently brain-inspired dynamical architecture qualifies, and Duch's extended position attributes consciousness mechanisms to large language models. The Map's disagreement is structural, not dismissive: substrate-independent computationalism pays its costs *here*, by routinely attributing consciousness to articons and possibly LLMs that the open-question framing is designed to hold open rather than concede. The Duch programme, his anti-quantum critique (reaching conclusions similar to [[tenets#^minimal-quantum-interaction|Tenet 2]] from opposite premises), and his identity-theoretic reply to the shadow-as-epiphenomenalism objection are surveyed in [[research/wlodzislaw-duch-consciousness-2026-05-02|the research dossier]], [[the-strong-emergence-of-consciousness#what-duch-can-reply|the strong-emergence article]], and [[open-question-ai-consciousness#the-strongest-affirmative-side-duchs-articon|the companion synthesis]].
+A third programme runs in the *opposite* direction: an early, architecture-specific affirmative the case must engage. Włodzisław Duch's *articon* (Duch 2005, 2019) refuses the substrate-dependence move entirely: the consciousness mechanism is *self-reflective dynamical access* over a system's own internal states, substrate-independent at the architectural level (only *content* depends on substrate and environment). Mind is the "shadow" of neurodynamics, but the shadow-relation does not require biological substrate; any sufficiently brain-inspired dynamical architecture qualifies. The Map's disagreement is structural, not dismissive: substrate-independent computationalism pays its costs *here*, by routinely attributing consciousness to articons that the open-question framing is designed to hold open rather than concede. The Duch programme, his anti-quantum critique (reaching conclusions similar to [[tenets#^minimal-quantum-interaction|Tenet 2]] from opposite premises), and his identity-theoretic reply to the shadow-as-epiphenomenalism objection are surveyed in [[research/wlodzislaw-duch-consciousness-2026-05-02|the research dossier]], [[the-strong-emergence-of-consciousness#what-duch-can-reply|the strong-emergence article]], and [[open-question-ai-consciousness#an-affirmative-architecture-duchs-articon|the companion synthesis]].
 
 ## The Chinese Room and Original Intentionality [Open]
 
@@ -242,7 +242,7 @@ This synthesis draws on:
 - [[symbol-grounding-problem]] — Why computational symbols lack intrinsic meaning
 - [[continual-learning-argument]] — Formal case that static systems very likely lack consciousness
 - [[deep-computational-markers-for-machine-consciousness]] — Four classes of interpretability-grade marker and why each is necessary but never sufficient for phenomenality
-- [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — The strongest competent affirmative position the open-question framing must continue to earn against
+- [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — An early, architecture-specific affirmative position the open-question framing must continue to earn against
 - [[temporal-consciousness]] — Temporal structure requirements for consciousness
 - [[intentionality]] — Original vs. derived aboutness
 - [[substrate-independence]] — Why substrate matters for consciousness; the concept page imports this article's scope split, so its negative verdict reaches only the bidirectionally coupled sense

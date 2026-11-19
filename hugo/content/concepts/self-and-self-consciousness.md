@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-10-09 22:19:19+00:00
+ai_modified: 2026-11-19 17:07:57+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ concepts:
 - '[[illusionism]]'
 - '[[mine-ness]]'
 created: 2026-01-14
-date: &id001 2026-10-01
+date: &id001 2026-11-19
 description: The minimal self is the structural for-me-ness of every conscious experience,
   not an addition to consciousness. Self-consciousness—the reflexive awareness of
   this structure—resists construction from non-reflexive parts and supports dualist
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:10:00+00:00
-lastmod: 2026-10-09 22:19:19+00:00
+lastmod: 2026-11-19 17:07:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ Zahavi, following Husserl, replies that pre-reflective self-consciousness is not
 
 David Rosenthal's Higher-Order Thought (HOT) theory tries a different route — a mental state is conscious when it is the object of a suitable higher-order thought — but faces the regress problem (what makes the higher-order state conscious?), the misrepresentation problem, and most critically does not explain pre-reflective self-consciousness.
 
-Włodzisław Duch's *self-reflection thesis* (Duch 2005, 2019) is the architectural/dynamical analogue of HOT and faces the same circularity problem from the same direction. Duch argues that "the self-reflection mechanism showing internal states and their dynamics is responsible for what we call consciousness" — that an articon-style architecture with self-reflective dynamical access to its own working-memory states therefore has *to claim* it is conscious, on grounds that cannot be defeated by Chinese-Room-style arguments. Two structural objections track the Henrich-Zahavi reply to HOT: *first*, the self-reflective access must already identify the accessed states *as the system's own* — which presupposes the for-me-ness the mechanism is meant to explain. *Second*, the dynamical access provides *reflective* self-consciousness at best, leaving pre-reflective first-personal givenness untouched. Duch's substrate-independence commitment compounds the difficulty: if for-me-ness is architecturally instantiable in articons and (per his reportedly extended position) LLMs, the constraints on which systems carry it must be specified, and the self-reflection thesis as stated does not deliver them. The disagreement is engaged in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
+Włodzisław Duch's *self-reflection thesis* (Duch 2005, 2019) is the architectural/dynamical analogue of HOT and faces the same circularity problem from the same direction. Duch argues that "the ability to comment upon physical states of a brain-like dynamical system coupled with its environment seems to be sufficient to make claims" — that an articon-style architecture with self-reflective dynamical access to its own working-memory states therefore has *to claim* it is conscious, on grounds that cannot be defeated by Chinese-Room-style arguments. Two structural objections track the Henrich-Zahavi reply to HOT: *first*, the self-reflective access must already identify the accessed states *as the system's own* — which presupposes the for-me-ness the mechanism is meant to explain. *Second*, the dynamical access provides *reflective* self-consciousness at best, leaving pre-reflective first-personal givenness untouched. Duch's substrate-independence commitment compounds the difficulty: if for-me-ness is architecturally instantiable in articons, the constraints on which systems carry it must be specified, and the self-reflection thesis as stated does not deliver them. The disagreement is engaged in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
 
 Zahavi's positive view (*Subjectivity and Selfhood* 2005; *Self and Other* 2014): every conscious experience has **first-personal givenness** — present *for* a subject, from a perspective, as *mine*. This is its mode of appearance, not an additional property. The minimal self is not a homunculus or soul-substance — simply the "mine-ness" (*Jemeinigkeit*) of experience itself. The claim is a kind-claim: first-personal givenness admits of degrees, but no coherent phenomenology lacks it. Zahavi's account is **synchronic only** — whether each moment's for-me-ness grounds numerical identity across time is a further question he treats with caution, converging with some Buddhist critics rather than opposing them ([buddhism-and-dualism](/concepts/buddhism-and-dualism/)).
 
