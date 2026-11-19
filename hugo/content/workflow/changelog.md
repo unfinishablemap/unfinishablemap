@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 10:07:36+00:00
+ai_modified: 2026-11-19 10:20:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 10:07:36+00:00
+lastmod: 2026-11-19 10:20:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T10:20:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
+- **Task**: P2 (todo L40). Topic-concept anchoring audit 2026-11-19 against [reductionism](/concepts/reductionism/): failed `hedge_density` (2.96/kw vs 3.00/kw floor) and `underdetermination_markers` (anchor 1, topic 0)
+- **Original score**: n/a (`scripts/curate.py` absent). Targeted calibration check, one sentence edited
+- **Verdict**: mostly a false high, with one real defect. (1) The hedge miss came from a calibration gain: the 2026-11-18 refine-draft replaced "suggests a genuine feature of reality" at L142, which removed one hedge word. The pre-11-18 text scores 11 hedges, 3.26/kw, and passes. (2) The article states underdetermination between the dualist and physicalist readings structurally, six times: L102 "no neutral ground from which to adjudicate"; L108 "Physicalism and property dualism both accommodate the third-person data"; L110 "Neither position can appeal to this virtue for adjudication"; L112 "the virtue is underdetermined"; L118 elegance reflects the priors of either side; L142 "fits the Map's reading without confirming it ... the Type-B physicalist expects the same pattern". Other calibration found: L132 AI understanding "open rather than settled"; L140 "compatible with either" between the closure types; L144 tenets as "chosen starting points ... rather than results inquiry has produced" ([P-M1](/positions/methodology-and-calibration/#p-m1)); L166 global exclusion "adopts as a posit rather than derives". That is about 10 instances, roughly 3/kw, before counting any hedge words. The anchor's one marker (reductionism L182, "the data does not adjudicate" between epiphenomenal and efficacious readings of consciousness-talk) calibrates a different inference
+- **Real over-claim, fixed** ([P-M2](/positions/methodology-and-calibration/#p-m2): the default claim is compatibility and cumulative fit, not discrimination between the Map and its rivals): the Dualism paragraph of Relation to Site Perspective still said the failure "signals" a category difference. That is the claim the 11-18 pass withdrew at L142, and it was not carried into the tenet section. OLD: "These are philosophy of science's best accounts of how understanding works, and their failure signals a category difference between physical phenomena and conscious experience." NEW: "These are philosophy of science's best accounts of how understanding works, and the Map reads their failure as a category difference between physical phenomena and conscious experience, though the pattern does not decide between that reading and the Type-B physicalist's conceptual one." The Type-B reading is the one L142 states ("permanent but epistemic, lodged in how phenomenal concepts refer"). The next sentence ("The reflexive gap provides a structural reason") still has its referent. "supports the claim that consciousness is irreducible" in the sentence before was left alone: Type-B accepts explanatory irreducibility, so "supports" stands
+- **Considered and left**: L64 lead thesis (attributed: "The Map argues"); L138 "Every model of explanation fails" (a summary of the survey, followed by three readings named at L140); L168 "shows why science works at all" (inside "The Map holds that this failure may ultimately be more revealing"). The audit's `strong_assertions` check: 0 hits
+- **No hedge words added.** The new clause includes "does not decide between", which is one of the audit's underdetermination patterns. It was chosen because it states the non-discrimination exactly. `hedge_density` still fails at 2.94/kw, but a single failed check does not raise a flag. No `anchoring_audit_exempt` key was added, so the audit stays live for this page
+- **Engagement classification**: engagement with the Type-B physicalist (tenet section): Mode Three, now matching L142; the rival's reading is named and not refuted
+- **Length**: `analyze_length` 3,380 → 3,398 (+18; topics hard 4,000)
+- **Audit re-run**: `evaluate_anchoring(...)` → `[]` (hedges 10, 2.94/kw; underdetermination markers 1; strong assertions 0)
+- **Frontmatter**: `modified` 2026-11-19, `ai_modified` 2026-11-19T10:20:55+00:00 from `date -u`; `claude-opus-5-5` appended to `ai_system` (not present before)
+- **Published**: yes
 
 ## 2026-11-19T10:07:36+00:00 - refine-draft
 - **Status**: Success

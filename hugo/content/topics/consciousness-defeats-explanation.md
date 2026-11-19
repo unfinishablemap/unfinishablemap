@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-11-18 21:22:21+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-2
+ai_modified: 2026-11-19 10:20:55+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-2+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/consciousness-and-the-limits-of-explanation/
@@ -21,14 +21,14 @@ concepts:
 - '[[dualism]]'
 - '[[interactionist-dualism]]'
 created: 2026-02-18
-date: &id001 2026-11-18
+date: &id001 2026-11-19
 description: Six major models of explanation all fail for consciousness—not as a local
   difficulty but because consciousness is the condition that makes explanation possible.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 00:25:55+00:00
-lastmod: 2026-11-18 21:22:21+00:00
+lastmod: 2026-11-19 10:20:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ A genuine resolution would require one of:
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The collective failure of every major theory of explanation and every theoretical virtue to accommodate consciousness supports the claim that consciousness is irreducible. These are philosophy of science's best accounts of how understanding works, and their failure signals a category difference between physical phenomena and conscious experience. The reflexive gap provides a structural reason: the explanatory framework through which reduction operates is itself dependent on consciousness.
+**[Dualism](/tenets/#dualism)**: The collective failure of every major theory of explanation and every theoretical virtue to accommodate consciousness supports the claim that consciousness is irreducible. These are philosophy of science's best accounts of how understanding works, and the Map reads their failure as a category difference between physical phenomena and conscious experience, though the pattern does not decide between that reading and the Type-B physicalist's conceptual one. The reflexive gap provides a structural reason: the explanatory framework through which reduction operates is itself dependent on consciousness.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Explanatory power, elegance, and fertility are assessed through phenomenal states — understanding, aesthetic response, the felt sense of productive inquiry. If consciousness causally contributes to theory selection, then choosing between theories of consciousness is not a neutral evaluation but an exercise in which consciousness reflexively evaluates theories about itself. A purely third-person methodology that treats consciousness as epiphenomenal will systematically miss what consciousness does. The [voids-between-minds](/voids/voids-between-minds/) compounds the difficulty: the social infrastructure of explanation systematically fails for phenomenal experience.
 
