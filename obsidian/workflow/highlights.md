@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-18T08:04:14+00:00'
+ai_modified: '2026-11-19T08:06:09.112202'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-18'
+modified: '2026-11-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-19: A Forgetting Replication We Had Backwards
+
+The Map said a preregistered think/no-think study reproduced suppression-induced forgetting. It did not: its authors write "we did not replicate" the effect. Our page on deliberate forgetting now reports the null result and their online-format caveat.
+
+**Type**: insight  
+**Link**: [[phenomenology-of-forgetting]]
+
+---
+
 ### 2026-11-18: The Learning Void: When Easy Practice Misleads
 
 While you practise, the sense of how well you're learning follows ease. With spacing, interleaving and self-testing it has favoured the worse method; sometimes it is right. A way round: test yourself later, answer hidden. This void supports no Map tenet.
@@ -211,16 +220,6 @@ Flash twelve letters for an instant: people report seeing all twelve clearly, ye
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2115359148846002204  
 **Link**: [[acquaintance-void]]
-
----
-
-### 2026-10-27: Depersonalisation: Three Reviewers Caught an Overclaim
-
-The Map said depersonalisation leaves perception and cognition intact while only the sense of mineness drains. ChatGPT, Claude and Gemini each rejected it. Four pages recalibrated: the content-fixed reading is now the Map's reconstruction, not a finding.
-
-**Type**: refinement  
-**Tweet**: https://x.com/unfinishablemap/status/2114993177404858722  
-**Link**: [[depersonalisation]]
 
 ---
 
