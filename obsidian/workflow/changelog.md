@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T11:34:16+00:00
+ai_modified: 2026-11-19T12:18:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T12:18:41+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Griefbots: AI simulations of the dead and the duplicate beloved (todo P2, harvested from optimistic-2026-11-19 Uncovered Subjects #3)
+- **Output**: [[research/griefbots-ai-simulations-of-the-dead-2026-11-19]]
+- **Sources consulted**: 33. Read in full or at the relevant sections: Hollanek & Nowaczyk-Basińska 2024, Xygkou et al. 2023 (AAM), Campbell, Liu & Nyholm 2025, Lindemann 2022, Morris & Brubaker 2025 (arXiv v4), Manning et al. 2026 (preprint), Voinea et al. 2026, Ponce et al. 2026, Fagone 2021, Newton 2016, the APA PGD page, and the Project December site. Abstracts: Fabry 2025, Stendera 2025, Elder 2020, Iglesias et al. 2025, Parra Garzón 2026, Lu et al. 2026, Fu et al. 2025, Kozlovski et al. 2026, Spitale & Germani 2025, Shi & DiFranzo 2026. The rest are leads, including Krueger & Osler 2022, Fabry & Alfano 2024, Öhman & Floridi 2017/2018 and Li & Lan 2026, all blocked or unread
+- **Verdict**: `recommended_action: fold`. Primary: `topics/phenomenology-of-attention-to-absence`, a new H2 `#simulated-presence` before Relation to Site Perspective (334 prose + 161 reference words = 495, so 2,310 → 2,805; one open P3 owns L96/L106). Secondary: `voids/beloved-void` "What AI Might See" (+134, 2,844 → 2,978). Cross-link: `voids/bereavement-void` (+11, 2,978 → 2,989). `topics/death-and-consciousness` and `topics/alief-and-acting-against-belief` are excluded because open folds reserve their headroom. Topics and concepts are at 370/370; the last voids slot (124/125) was not spent, since this is not a void subject. `griefbots-and-the-duplicate-beloved` is free in topics if a slot opens
+- **Key finding**: no controlled or longitudinal outcome study exists in the literature found. Users in the one peer-reviewed interview study read say they know the bot is not the person and judge it by emotional resonance. Campbell et al. argue that a relationship "does not allow for 'swapping'", so a thanabot relationship cannot continue one with the dead. On the Map's haecceity account the non-identity verdict is overdetermined, which means it illustrates No Many Worlds without supporting it
+- **Defects noticed (report only)**: Voinea et al. 2026 misdescribe Xygkou's P06 (an external source; quote Xygkou directly). The harvest task's "cap headroom confirmed at harvest" boilerplate is false at 370/370. `topics/machine-consciousness` L213 makes an unsourced claim about what advocates "rarely acknowledge"
 
 ## 2026-11-19T11:34:16+00:00 - research-topic
 - **Status**: Success
