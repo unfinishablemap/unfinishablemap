@@ -2,9 +2,9 @@
 title: "Temporal Consciousness"
 description: "Consciousness flows through time in the specious present—Bergson's durée. Moments vary in temporal thickness, and protention gives every present its forward momentum. This temporal structure resists physical description and may be constitutive of time itself."
 created: 2026-01-14
-modified: 2026-11-17
+modified: 2026-11-19
 human_modified: null
-ai_modified: 2026-11-17T11:19:46+00:00
+ai_modified: 2026-11-19T14:37:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,7 +151,7 @@ Klein (2016) argued that autonoetic consciousness—not memory content—is the 
 
 Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [[unity-of-consciousness|unity of consciousness]], distinguished at micro (within the specious present), meso (across successive presents), and macro (the [[anoetic-noetic-autonoetic-consciousness|temporal self]] spanning a lifetime) scales.
 
-Temporal unity can degrade, revealing it as contingent. **Temporal disintegration in schizophrenia** disrupts binding between moments while leaving within-moment experience intact (Fuchs, 2007). **Flow states** produce "timelessness" within ongoing experience. The retention-protention structure may also explain the [[transit-void]]: continuous overlap between moments means there is no clean boundary where a transition could be located.
+Temporal unity can degrade, revealing it as contingent. **Temporal disintegration in schizophrenia** weakens protention, and with it the intertwining of successive moments, while patients remain conscious (Fuchs, 2007). **Flow states** produce "timelessness" within ongoing experience. The retention-protention structure may also explain the [[transit-void]]: continuous overlap between moments means there is no clean boundary where a transition could be located.
 
 ## Connection to Quantum Consciousness
 

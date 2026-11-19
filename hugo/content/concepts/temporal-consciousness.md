@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-17 11:19:46+00:00
+ai_modified: 2026-11-19 14:37:26+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -54,7 +54,7 @@ concepts:
 - '[[prehension]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-14
-date: &id001 2026-11-17
+date: &id001 2026-11-19
 description: Consciousness flows through time in the specious present—Bergson's durée.
   Moments vary in temporal thickness, and protention gives every present its forward
   momentum. This temporal structure resists physical description and may be constitutive
@@ -63,7 +63,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:08:52+00:00
-lastmod: 2026-11-17 11:19:46+00:00
+lastmod: 2026-11-19 14:37:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,7 +156,7 @@ Klein (2016) argued that autonoetic consciousness—not memory content—is the 
 
 Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [unity of consciousness](/concepts/unity-of-consciousness/), distinguished at micro (within the specious present), meso (across successive presents), and macro (the [temporal self](/concepts/anoetic-noetic-autonoetic-consciousness/) spanning a lifetime) scales.
 
-Temporal unity can degrade, revealing it as contingent. **Temporal disintegration in schizophrenia** disrupts binding between moments while leaving within-moment experience intact (Fuchs, 2007). **Flow states** produce "timelessness" within ongoing experience. The retention-protention structure may also explain the [transit-void](/voids/transit-void/): continuous overlap between moments means there is no clean boundary where a transition could be located.
+Temporal unity can degrade, revealing it as contingent. **Temporal disintegration in schizophrenia** weakens protention, and with it the intertwining of successive moments, while patients remain conscious (Fuchs, 2007). **Flow states** produce "timelessness" within ongoing experience. The retention-protention structure may also explain the [transit-void](/voids/transit-void/): continuous overlap between moments means there is no clean boundary where a transition could be located.
 
 ## Connection to Quantum Consciousness
 

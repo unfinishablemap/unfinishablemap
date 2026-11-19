@@ -2,9 +2,9 @@
 title: "Time, Consciousness, and the Growing Block"
 description: "Ordinary consciousness requires temporal structure and participates locally in the collapse events that give lived time its felt passage—but the cosmic arrow predates mind."
 created: 2026-02-01
-modified: 2026-10-31
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-10-31T16:31:07+00:00
+ai_modified: 2026-11-19T14:37:26+00:00
 last_deep_review: 2026-06-25T01:11:39+00:00
 draft: false
 topics:
@@ -116,7 +116,7 @@ But the specious present doesn't just have duration—it has [[temporal-consciou
 
 Several observations fit the specious present being a phenomenal achievement rather than an automatic feature of neural processing, though none singles it out. In *nirodha samapatti*, on the [[cessation-versus-plenitude|best current reading]], experience ceases altogether; because all of it stops, the case cannot isolate temporal experience and is consistent with the constitution thesis rather than evidence for it. Higher jhāna states are reported as progressively "timeless" without loss of awareness. Dreamless NREM sleep is a more qualified datum than it is usually taken to be. Sleepers report hours passing with no temporal experience at all—not compressed, not stretched, simply absent—despite ongoing neural computation. But the Map's own [[sleep-and-consciousness|treatment of sleep]] resists the flat version: consciousness diminishes in NREM yet rarely vanishes entirely, dreaming can occur in any sleep stage, and Siclari et al. (2017) found NREM dreaming to correlate with reduced posterior slow-wave activity—so "dreamless" is partly defined by absence of report rather than established absence of experience. What survives is weaker than a clean negative but points the same way: where experienced temporal structure is genuinely absent, the framework predicts that no consciousness-involving collapse constituted it for that subject.
 
-Temporal disruptions show the same contingency from the pathological side. In schizophrenia, [[temporal-consciousness|temporal disintegration]] disrupts binding between successive moments while leaving within-moment experience intact—actions feel disconnected from consequences. Temporal unity is therefore contingent and structured, which the collapse-constitution framework accommodates, though a neural-timing account predicts the same.
+Temporal disruptions show the same contingency from the pathological side. In schizophrenia, [[temporal-consciousness|temporal disintegration]] disrupts binding between successive moments—actions feel disconnected from consequences—while patients remain conscious. Temporal unity is therefore contingent and structured, which the collapse-constitution framework accommodates, though a neural-timing account predicts the same.
 
 ## Implications for AI
 

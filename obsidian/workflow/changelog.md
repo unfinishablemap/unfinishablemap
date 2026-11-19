@@ -1,9 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T14:22:23+00:00
+ai_modified: 2026-11-19T14:38:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T14:38:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/open-question-ai-consciousness]] (primary); [[concepts/temporal-consciousness]]; [[apex/time-consciousness-growing-block]]
+- **Review file**: [[reviews/outer-review-2026-11-19-gemini-4-neon]] (§A "Clinical Misrepresentation of Temporal Disintegration in Schizophrenia", weakness 5)
+- **Original score**: n/a (`scripts/curate.py` absent); one targeted clause per file
+- **Verdict**: the full text of Fuchs (2007) does not support "while within-moment experience remains intact". It places the disturbance in the retention–protention synthesis that, on Fuchs's Husserlian model, is part of each present moment ("consciousness is not momentary"), and it says single elements of experience become "alienated or opaque" and self-awareness is disturbed. What it does support is that patients stay conscious, and become more explicitly aware than usual. All three copies of the clause were reworded so that they keep only what the paper supports.
+- **Source ledger**: Fuchs, T. (2007), "The Temporal Structure of Intentionality and Its Disturbance in Schizophrenia", *Psychopathology* 40(4), 229–235, doi 10.1159/000101365. Abstract from PubMed efetch 17396049. Full text from the author's copy at klinikum.uni-heidelberg.de/fileadmin/zpm/psychatrie/fuchs/Intentionality.pdf (7 pp., header "Psychopathology 2007;40:229–235", 4,437 words after pdftotext and whitespace collapse). Karger PDF returned 403; Unpaywall and Semantic Scholar list it as closed. Raw greps of the full text: "intact" 0, "preserved" 0, "spared" 0, "unimpair" 0, "unaffect" 0, "remain" 0; "within" 1 (p. 231, "lost within the sentence", which is unrelated); "self-awareness" 2; positive control "intentional arc" 19. Verbatim, each count 1:
+  - p. 229 (abstract): "disturbances of self-awareness" among the basic symptoms "caused by a weakening and dissolution of the intentional arc"; "A failure of the continuous intertwining of succeeding moments, and especially of the protentional function".
+  - p. 230 (thesis): "leaving single elements of perception, action and thought processes unconnected. Instead of carrying the intentional arc, they come to explicit awareness as alienated or opaque phenomena."
+  - p. 231: "Thus consciousness is not momentary but spreads out by its double-faced attention of retention and protention"; the arc carries "what could be called an ‘implicit self-awareness’".
+  - p. 233: "Patients have to compensate for this by an awareness of each single movement" (this supports "patients remain conscious").
+  - p. 234 (conclusion): "In schizophrenia the protentional function may be weakened in such a way that the constant intertwining of succeeding conscious moments fails"; "the normal transparency of consciousness turns into opacity".
+  - p. 235, the passage closest to the Map's clause: "patients are able to live from one moment to the next without experiencing a disruption of time". It describes a compensatory strategy (minimising change), not intact within-moment experience.
+- **Changes**:
+  - `apex/open-question-ai-consciousness` L111, first sentence only. OLD "Temporal disintegration in schizophrenia (Fuchs, 2007) disrupts binding between successive moments while within-moment experience remains intact;" NEW "Schizophrenic temporal disintegration (Fuchs, 2007) weakens protention and the intertwining of moments while patients remain conscious;" (16 → 16 words). The driver's suggested NEW was +3 by `split()`, which would break net ≤ 0, so the term was shortened instead. The paragraph's inference ("while consciousness continues") needs only that consciousness continues, so it still holds. The flow-states clause, the Pinto sentence and the split-brain "One calibration" sentence were not touched.
+  - `concepts/temporal-consciousness` L154. OLD "**Temporal disintegration in schizophrenia** disrupts binding between moments while leaving within-moment experience intact (Fuchs, 2007)." NEW "**Temporal disintegration in schizophrenia** weakens protention, and with it the intertwining of successive moments, while patients remain conscious (Fuchs, 2007)." Naming protention ties the case to the page's own L128 definition and to its micro/meso scale split (L152), since the disturbance reaches inside the specious present.
+  - `apex/time-consciousness-growing-block` L119. OLD "disrupts binding between successive moments while leaving within-moment experience intact—actions feel disconnected from consequences." NEW "disrupts binding between successive moments—actions feel disconnected from consequences—while patients remain conscious." The first half, which the paper supports, is kept. The next sentence's "Temporal unity is therefore contingent" now rests on a stated premise.
+- **Not fixed, passed on**: the growing-block clause "actions feel disconnected from consequences" is not in Fuchs (2007). The nearest passage is p. 233: "the temporal disintegration of action units results in a loss of everyday habits or a ‘disautomation’". The sentence does not cite Fuchs: it links to `concepts/temporal-consciousness`, which does not mention actions. The phrase is copied from `topics/temporal-consciousness-structure-and-agency` L196, where it is uncited. It falls outside this task's clause, so it was left alone.
+- **Sibling check**: `grep -rl within-moment` over topics/, concepts/, apex/ and voids/ found these three files before the edit and 0 after. Other schizophrenia lines that pair with "intact" or "preserved" are agency and ownership claims sourced to Gallagher, Nichols and Stich, not this gloss. `topics/clinical-phenomenology-and-altered-experience` L101 ("disrupts the *micro-level*") makes no intactness claim.
+- **Not adopted**: Marques-Carneiro et al. (2021) is still a LEAD, unread and not cited. Replacing Fuchs (2007) with Fuchs (2020) was not done (unverified).
+- **Length** (`analyze_length`, whitespace `split()`): apex/open-question-ai-consciousness 6,017 → 6,017 (0); apex prose (body minus frontmatter, yt-embed, Source Articles, Further Reading, References; reproduces 4,828 on `082c5b9842`) 4,982 → 4,982 (0). concepts/temporal-consciousness 3,061 → 3,066 (+5, against a ≤ +10 budget). apex/time-consciousness-growing-block 4,641 → 4,639 (−2).
+- **Coordination**: no open task above `## Completed Tasks` names any of the three target sentences. The open P3s on temporal-consciousness (L128, L186/L190, L202) and growing-block (L73/L133) were left untouched.
+- **Frontmatter**: `modified` 2026-11-19 and `ai_modified` 2026-11-19T14:37:26+00:00 on all three files. `ai_system` is unchanged, since all three already contain `claude-opus-5-5`.
+- **Published**: yes
 
 ## 2026-11-19T14:22:23+00:00 - deep-review
 - **Status**: Success
