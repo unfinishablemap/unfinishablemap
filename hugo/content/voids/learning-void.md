@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-11-17
-ai_modified: 2026-11-17 09:39:54+00:00
-ai_system: claude-fable-5-2
+ai_modified: 2026-11-19 17:35:44+00:00
+ai_system: claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
 - '[[metacognition]]'
@@ -10,15 +10,15 @@ concepts:
 - '[[introspection]]'
 - '[[affective-forecasting-gap]]'
 created: 2026-11-17
-date: &id001 2026-11-17
+date: &id001 2026-11-19
 description: 'During practice, the sense of how well one is learning follows ease,
   and in several tested cases it favours the worse method. Human+AI mapping of a narrow
-  limit with a known way round: a later test.'
+  limit with a known way round: a later test, scored method by method.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-17 09:39:54+00:00
-lastmod: 2026-11-17 09:39:54+00:00
+lastmod: 2026-11-19 17:35:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -34,9 +34,9 @@ topics:
 - '[[phenomenology-of-forgetting]]'
 ---
 
-While a person is practising, what is in view is often a poor guide to how much of what they are doing will last. Memory researchers separate *performance*, which can be watched during practice, from *learning*, the change that shows later in retention and transfer. The judgement people make during practice follows how easy the practice feels. Under three studied arrangements (spacing, interleaving and self-testing) that judgement has been shown to favour the method that served the learner worse. In Experiment 1a of Kornell and Bjork (2008), with 120 UCLA undergraduates learning painters' styles, "78% of the participants did better with spaced presentations than they did with massed presentations, but 78% of the participants said that massing was as good as or better than spacing." The learning void is this limit on monitoring one's own learning while it is under way.
+While a person is practising, what is in view is often a poor guide to how much of what they are doing will last. Memory researchers separate *performance*, which can be watched during practice, from *learning*, the change that shows later in retention and transfer. The judgement people make during practice follows how easy the practice feels and, in the painting studies, a belief brought to the task that blocking is better. Under interleaving (which Kornell and Bjork called spacing), self-testing and, in one classroom, active teaching, that judgement has been shown to favour the method that served the learner worse. In Experiment 1a of Kornell and Bjork (2008), with 120 UCLA undergraduates learning painters' styles, "78% of the participants did better with spaced presentations than they did with massed presentations, but 78% of the participants said that massing was as good as or better than spacing." The learning void is this limit on monitoring one's own learning while it is under way.
 
-The limit is narrow and has a plain way round: test yourself later, with the answer out of sight. Delay also improves the judgement itself. A meta-analysis found that delaying judgements of learning brings "robust benefits to relative accuracy (g = 0.93)" (Rhodes & Tauber 2011), where relative accuracy is how well the judgements sort items later recalled from items later missed. The misjudgement can outlast a person's own contrary results, and it gave way for most participants in one experiment that separated the two schedules and explained the difference ([Persistence and Its Exit](#persistence-and-its-exit)). The feeling is sometimes right, and some difficulties do not help ([Limits](#limits)). The samples checked are university students in the United States and Israel and US-resident online workers, in laboratory or online tasks except for one classroom study. In the terms of [the three kinds of void](/voids/three-kinds-of-void/) this is an occluded limit of a practical sort, with a known mechanism and a known way round, and it is unexplorable only in the time-bound sense that later retention is not yet there to inspect. Ordinary cognitive psychology predicts it, so it supports none of the Map's tenets.
+The limit is narrow and has a known way round: test yourself later, with the answer out of sight, and keep each method's results apart. A later test alone did not correct the judgement of which method works better, which can outlast a person's own contrary results while the two methods' results are mixed together; in one experiment that separated them, 46% of participants then judged the better method more effective, and 75% when the difference was also explained ([Persistence and Its Exit](#persistence-and-its-exit)). Delay improves a different judgement, the item-by-item kind: a meta-analysis found that delaying judgements of learning brings "robust benefits to relative accuracy (g = 0.93)" (Rhodes & Tauber 2011), where relative accuracy is how well the judgements sort items later recalled from items later missed. The feeling is sometimes right, and some difficulties do not help ([Limits](#limits)). The samples checked are university students in the United States and Israel and US-resident online workers, in laboratory or online tasks except for one classroom study. In the terms of [the three kinds of void](/voids/three-kinds-of-void/) this is an occluded limit of a practical sort, with a known mechanism and a known way round, and it is unexplorable only in the time-bound sense that later retention is not yet there to inspect. Ordinary cognitive psychology predicts it, so it supports none of the Map's tenets.
 
 ## What the Learner Has to Go On
 
@@ -50,7 +50,7 @@ The third is persistence, taken up [below](#persistence-and-its-exit). Only the 
 
 ## Where Feeling and Outcome Part
 
-The abstract of Soderstrom and Bjork's review (2015) states the general point: "certain manipulations can have opposite effects on learning and performance." Four results show the learner's judgement following the performance side.
+The abstract of Soderstrom and Bjork's review (2015) states the general point: "certain manipulations can have opposite effects on learning and performance." Four results show the learner's judgement following ease rather than the outcome measured.
 
 **Category learning.** In Kornell and Bjork (2008), participants studied six paintings by each of 12 artists, massed for some artists and interleaved for others, and then had to name the painter of new paintings. Spacing won in the within-subjects Experiment 1a (n = 120; proportion correct .61 against .35), and the abstract reports that "Participants rated massing as more effective than spacing, even after their own test performance had demonstrated the opposite." The second 78% includes people who said the two schedules were about the same, and the test came shortly after study, so the result concerns learning a category and says little about long retention. The authors had predicted that massing would win, and wrote of themselves that they may have fallen for "the illusion that a sense of ease or fluency accompanies effective learning, whereas a sense of difficulty signifies ineffective learning."
 
@@ -62,7 +62,7 @@ The abstract of Soderstrom and Bjork's review (2015) states the general point: "
 
 ## Persistence and Its Exit
 
-Yan, Bjork and Bjork (2016) ran seven experiments (numbered 1A to 6) on the painting task, in the same laboratory as Kornell and Bjork, with UCLA undergraduates and online workers. They extend the earlier result and do not independently replicate it. They report that "Only 13% of participants in Experiments 1A and 1B judged interleaving to be more effective than blocking." Telling participants that interleaving works better for 90% of people did little. In Experiment 4, among the 40 participants given that figure without the full explanation, "78% of the participants placed themselves in the 10% of individuals who learn as well or better from a blocked schedule."
+Yan, Bjork and Bjork (2016) ran seven experiments (numbered 1A to 6) on the painting task, in the same laboratory as Kornell and Bjork, with UCLA undergraduates and online workers. They extend the earlier result and do not independently replicate it. They report that "Only 13% of participants in Experiments 1A and 1B judged interleaving to be more effective than blocking." Telling participants that interleaving works better for 90% of people did little. In Experiment 4, among the 40 participants given that figure without the full explanation, "78% of the participants placed themselves in the 10% of individuals who learn as well or better from a blocked schedule." The authors conclude in their abstract that three influences combine to make the misconception hard to alter: the fluency that can accompany the poorer schedule, "pre-existing beliefs learners bring to new tasks", and the readiness to believe oneself unique as a learner. On their account the judgement does not follow felt ease alone; learners also arrive believing that blocking by topic is better.
 
 The same paper reports the exit. In Experiment 6 (155 online participants analysed), blocked and interleaved study were placed in two separate study-and-test cycles. With a full explanation added, "75% (59/79) of the participants reported interleaving to be more effective than blocking"; without it the figure was 46% (35/76). The misjudgement resisted explanation and experience while the evidence was mixed together, and gave way for most when it was separated out and explained.
 
@@ -74,7 +74,7 @@ The same paper reports the exit. In Experiment 6 (155 online participants analys
 
 **The judgement can be accurate.** Rhodes and Tauber's figure comes from 112 effect sizes "across 4,554 participants". Tullis et al. (2013) found that judgements made with the cue alone in view reflected the benefit of testing, and that learners "generalize that knowledge to future learning only with considerable guidance". Koriat and Bjork (2006) report that the foresight bias they describe "can be alleviated by study-test experience".
 
-**The evidence base.** Much of the core work comes from one extended research group; Kirk-Johnson et al., Deslauriers et al. and the two meta-analyses come from others. Kornell and Bjork, Yan et al., Simon and Bjork, Deslauriers et al., Koriat and Bjork (2006) and Tullis et al. were read or checked in full text; the rest were read as abstracts, which give no sample sizes beyond those quoted. One search for failed replications found none, which is weak evidence that none exist.
+**The evidence base.** Much of the core work comes from one extended research group; Kirk-Johnson et al., Deslauriers et al. and the two meta-analyses come from others. Wang et al. (2020), from laboratories in Guangzhou and Colorado, ran the painting task and report that "most participants reported blocking was more effective, contrary to the reality that interleaving led to the best performance". Kornell and Bjork, Yan et al., Simon and Bjork, Deslauriers et al., Koriat and Bjork (2006) and Tullis et al. were read or checked in full text; the rest were read as abstracts, which give no sample sizes beyond those quoted. One search for failed replications found none, which is weak evidence that none exist.
 
 ## The Remedy
 
@@ -82,7 +82,7 @@ The limit is on monitoring during practice and leaves finding out untouched. A d
 
 ## Neighbouring Entries
 
-The [noetic feelings void](/voids/noetic-feelings-void/) concerns the same fluency-driven signals as they bear on judging a claim or an answer now; this void concerns a judgement about one's own future capacity, checked against a later test. The [anti-correlated metacognitive signal](/concepts/anti-correlated-metacognitive-signal/) names confidence that runs opposite to accuracy in a specific regime; the study-schedule results are a neighbouring pattern, a group-level comparison between methods and no further such regime, and neither literature cites the other. [Expertise and its occlusion](/voids/expertise-and-its-occlusion/) describes what the finished expert can no longer see, where this entry describes the learner on the way. The prediction is also made across states, in the sense of the [cross-state void](/voids/cross-state-void/), and resembles the projections catalogued under the [affective forecasting gap](/concepts/affective-forecasting-gap/), with ability in place of feeling.
+The [noetic feelings void](/voids/noetic-feelings-void/) concerns the same fluency-driven signals as they bear on judging a claim or an answer now; this void concerns a judgement about one's own future capacity, checked against a later test. The [anti-correlated metacognitive signal](/concepts/anti-correlated-metacognitive-signal/) names confidence that runs opposite to accuracy in a specific regime; the study-schedule results are a neighbouring pattern, a group-level comparison between methods and no further such regime, and neither literature cites the other. [Expertise and its occlusion](/voids/expertise-and-its-occlusion/) describes what the finished expert can no longer see, where this entry describes the learner on the way. The [cross-state void](/voids/cross-state-void/) concerns predictions made across visceral states; the learner's prediction crosses only from study conditions to test conditions. It resembles the projections catalogued under the [affective forecasting gap](/concepts/affective-forecasting-gap/), with ability in place of feeling.
 
 ## Relation to Site Perspective
 
@@ -110,5 +110,6 @@ None of the Map's [tenets](/tenets/) is supported by the learning void.
 12. Soderstrom, N. C., & Bjork, R. A. (2015). Learning versus performance: An integrative review. *Perspectives on Psychological Science*, 10(2), 176-199. https://doi.org/10.1177/1745691615569000
 13. Tullis, J. G., Finley, J. R., & Benjamin, A. S. (2013). Metacognition of the testing effect: Guiding learners to predict the benefits of retrieval. *Memory & Cognition*, 41(3), 429-442. https://doi.org/10.3758/s13421-012-0274-5
 14. Weissgerber, S. C., Brunmair, M., & Rummer, R. (2021). Null and void? Errors in meta-analysis on perceptual disfluency and recommendations to improve meta-analytical reproducibility. *Educational Psychology Review*, 33(3), 1221-1247. https://doi.org/10.1007/s10648-020-09579-1
-15. Xie, H., Zhou, Z., & Liu, Q. (2018). Null effects of perceptual disfluency on learning outcomes in a text-based educational context: A meta-analysis. *Educational Psychology Review*, 30(3), 745-771. https://doi.org/10.1007/s10648-018-9442-x (not read; cited through Weissgerber et al. 2021)
-16. Yan, V. X., Bjork, E. L., & Bjork, R. A. (2016). On the difficulty of mending metacognitive illusions: A priori theories, fluency effects, and misattributions of the interleaving benefit. *Journal of Experimental Psychology: General*, 145(7), 918-933. https://doi.org/10.1037/xge0000177
+15. Wang, J., Liu, Z., Xing, Q., & Seger, C. A. (2020). The benefit of interleaved presentation in category learning is independent of working memory. *Memory*, 28(2), 285-292. https://doi.org/10.1080/09658211.2019.1705490
+16. Xie, H., Zhou, Z., & Liu, Q. (2018). Null effects of perceptual disfluency on learning outcomes in a text-based educational context: A meta-analysis. *Educational Psychology Review*, 30(3), 745-771. https://doi.org/10.1007/s10648-018-9442-x (not read; cited through Weissgerber et al. 2021)
+17. Yan, V. X., Bjork, E. L., & Bjork, R. A. (2016). On the difficulty of mending metacognitive illusions: A priori theories, fluency effects, and misattributions of the interleaving benefit. *Journal of Experimental Psychology: General*, 145(7), 918-933. https://doi.org/10.1037/xge0000177

@@ -2,9 +2,9 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-11-18
+modified: 2026-11-19
 human_modified: 2026-01-08
-ai_modified: 2026-11-18T11:36:15+00:00
+ai_modified: 2026-11-19T17:35:44+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -228,7 +228,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[beloved-void|The Beloved Void]] — Why measures taken before two people meet fail to forecast the pair-specific part of initial desire, why several accounts of love concede that nothing justifies loving this person over an equally eligible one, and why a lover cannot tell found perfections from projected ones: four faces (forecast / warrant / object / lens), the first two sharing one root
 - [[sour-grapes-void|The Sour-Grapes Void]] — Why a want trimmed to fit what is attainable arrives as an ordinary preference: Elster's adaptation runs "behind my back", Scheler places the deeper revaluation before judgement, and the one operational test, freedom to do otherwise, needs the option the adapted subject lacks; outsiders can detect adaptation and also misjudge it
 - [[bereavement-void|The Bereavement Void]] — Why a death is usually believed soon and absorbed slowly, and why the grief that registered the loss fades while the loss stays the same: two faces (lag / lapse), the first bounded by early acceptance and the second by a contested resilience premise; framework-independent, and sensed presence is not evidence of survival
-- [[learning-void|The Learning Void]] — Why the sense of how well one is learning, formed during practice, follows ease and in several tested cases (spacing, interleaving, self-testing) favours the worse method: a narrow, practical limit on monitoring with a known way round in a later test; the feeling is sometimes right, and ordinary cognitive psychology predicts the limit, so no tenet is supported
+- [[learning-void|The Learning Void]] — Why the sense of how well one is learning, formed during practice, follows ease and in several tested cases (interleaving, self-testing, active teaching) favours the worse method: a narrow, practical limit on monitoring with a known way round in a later test scored by method; the feeling is sometimes right, and ordinary cognitive psychology predicts the limit, so no tenet is supported
 
 ### Phenomenology of Limits
 
