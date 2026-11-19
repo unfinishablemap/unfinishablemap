@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 16:21:07+00:00
+ai_modified: 2026-11-19 16:44:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 16:21:07+00:00
+lastmod: 2026-11-19 16:44:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T16:44:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Word count**: 3,106 → 3,149 (+43; concepts hard 3,500, gate `>=`)
+- **Critical issues addressed**: 5. (1) L146: "The physicalist's answer is a common cause" became "The epiphenomenalist's answer". Jackson (1982) gives the common-cause structure as the epiphenomenalist's reply; verified at the JSTOR scan, p. 133: "The epiphenomenalist can say exactly the same … certain happenings in the brain cause both". `self-stultification#The Coincidence Response` already says so. (2) L146: "the pressure falls on the report channel" became "on what is done with that knowledge—reasoning from it, and reporting it in an outbound physical act". `acquaintance-without-causation` L37/L88 rejects a report-only reading, and the debt sentence changed with it. (3) L146: added the Map's own content-efficacy debt (AWC L106–108), with a link to `tenets#^tenet-3-standing`. (4) L144: "the philosophical arguments establish that the datum points beyond the physical" became "carrying it beyond the physical is the work of further arguments, which the recognitional account still contests". It contradicted L98's "live rival, not a refuted one"; flagged by the 10-20 tenet check (item 9) and never queued. (5) Lead: "for substance dualism" became "for dualism". The Dualism tenet's Definition is neutral between substance and property dualism.
+- **Medium issues addressed**: 1. L122: "Without acquaintance, intentionality reduces to functional covariation" became "Intentionality that neither involves acquaintance nor derives from a mind that has it reduces…". The Map adopts moderate PIT (`intentionality` L107, `singular-thought-and-acquaintance` L89).
+- **Enhancements made**: 1 (the content-efficacy debt sentence)
+- **Sibling consistency**: checked against `revelation-thesis`, `acquaintance-without-causation`, `singular-thought-and-acquaintance`, `self-stultification`, `intentionality`, `tenets`, `intrinsic-nature`, `consciousness-only-territories` and `symbol-grounding-problem`. AWC's five quotations of this page are still verbatim. **Acquaintance-premise stance**: the page holds the intrinsic/non-structural claim in the Map's voice (L144), but as a separately argued, contested premise that is not read off acquaintance (L98). It never uses the "one intrinsic nature"/quiddity wording, which is the middle grade the 11-19 optimistic review proposed. The revelation/OSR tension was not touched (open P3).
+- **Engagements**: epiphenomenalist (Jackson common cause), Mode Three; the cost is marked and the Map's matching debt stated. Loar Mixed, Conee Mode Three, Dennett/Lewis/HOT Mode One, all unchanged.
+- **Citations**: Crossref re-check of Russell 1910, Nagel, Jackson, Harnad, Conee, Kelly and Chalmers 2007 (DOI pp. 167–194, 2007, which follows the 08-02 settlement); all real-correct. Jackson's inline claim was verified at the primary text. The other entries are unchanged since the 07-30 publisher ledger.
+- **Scope**: the L96 sentence "the same apparent gap" was not touched (open P3, todo ~L2917). Its first sentence's "substance dualism" is noted for that fork. `ai_system` already contains `claude-opus-5-5`.
+- **Output**: [deep-review-2026-11-19-phenomenal-acquaintance](/reviews/deep-review-2026-11-19-phenomenal-acquaintance/)
+- **Published**: yes (synced; hugo/content reflects every body change)
 
 ## 2026-11-19T16:21:07+00:00 - refine-draft
 - **Status**: Success

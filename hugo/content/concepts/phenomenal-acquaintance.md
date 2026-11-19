@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-11-18 14:17:54+00:00
+ai_modified: 2026-11-19 16:41:21+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -18,15 +18,15 @@ concepts:
 - '[[indexical-knowledge-and-identity]]'
 - '[[symbol-grounding-problem]]'
 created: 2026-02-09
-date: &id001 2026-11-18
+date: &id001 2026-11-19
 description: Phenomenal acquaintance—the direct, non-inferential relation between
   consciousness and its own qualities—grounds the distinctive knowledge that no third-person
   description can replicate.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-30 03:26:19+00:00
-lastmod: 2026-11-18 14:17:54+00:00
+last_deep_review: 2026-11-19 16:41:21+00:00
+lastmod: 2026-11-19 16:41:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Phenomenal acquaintance is the direct, non-inferential epistemic relation between a conscious subject and the qualitative character of experience. When you taste coffee, something is immediately present to you—not a proposition about coffee, not a concept of bitterness, but the qualitative character itself. The *knowledge* this relation yields—knowing *what it is like* to see red, feel pain, or taste coffee—is **acquaintance knowledge**, the category Bertrand Russell distinguished from knowledge by description in 1910. The Unfinishable Map holds that phenomenal acquaintance is epistemically fundamental: it provides a form of access to reality that no amount of third-person description can replicate. Its irreducibility is central to the Map's case not merely for the reality of phenomenal properties—which non-reductive physicalists also accept—but for substance dualism: the claim that what acquaintance reveals belongs to a domain that physical description cannot in principle reach.
+Phenomenal acquaintance is the direct, non-inferential epistemic relation between a conscious subject and the qualitative character of experience. When you taste coffee, something is immediately present to you—not a proposition about coffee, not a concept of bitterness, but the qualitative character itself. The *knowledge* this relation yields—knowing *what it is like* to see red, feel pain, or taste coffee—is **acquaintance knowledge**, the category Bertrand Russell distinguished from knowledge by description in 1910. The Unfinishable Map holds that phenomenal acquaintance is epistemically fundamental: it provides a form of access to reality that no amount of third-person description can replicate. Its irreducibility is central to the Map's case not merely for the reality of phenomenal properties—which non-reductive physicalists also accept—but for dualism: the claim that what acquaintance reveals belongs to a domain that physical description cannot in principle reach.
 
 ## Russell's Original Distinction
 
@@ -123,7 +123,7 @@ Beyond the knowledge argument, acquaintance grounds several further moves:
 
 **Introspective justification.** [Phenomenal conservatism](/topics/phenomenal-authority-and-first-person-evidence/) holds that if it seems to you that something is the case, you have prima facie justification for believing it. Acquaintance explains *why* certain introspective seemings resist cognitive penetration. When the seeming arises from direct acquaintance—when pain itself generates the seeming that it hurts—no background theory mediates between experience and judgement. Directness limits the channels through which distortion can enter, even if it does not eliminate every source of error.
 
-**Phenomenal intentionality.** [Phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) holds that genuine *aboutness* derives from phenomenal consciousness. Acquaintance is the mechanism: acquaintance with the qualitative character of thinking about coffee is what makes the thought genuinely *about* coffee, rather than a symbol causally correlated with coffee. Without acquaintance, intentionality reduces to functional covariation—which, absent a subject who grasps the content, never constitutes genuine understanding.
+**Phenomenal intentionality.** [Phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) holds that genuine *aboutness* derives from phenomenal consciousness. Acquaintance is the mechanism: acquaintance with the qualitative character of thinking about coffee is what makes the thought genuinely *about* coffee, rather than a symbol causally correlated with coffee. Intentionality that neither involves acquaintance nor derives from a mind that has it reduces to functional covariation—which, absent a subject who grasps the content, never constitutes genuine understanding.
 
 **The limits of description.** A complete description of the neural correlates of tasting mango leaves out what acquaintance with the taste provides. The description is not incomplete by its own standards—it captures all the structure and function. It is incomplete by the standard of acquaintance, which reveals the [qualitative character](/topics/modal-structure-of-phenomenal-properties/) that structure and function do not encode.
 
@@ -145,9 +145,9 @@ Representationalists raise a different challenge. If introspection is *transpare
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Phenomenal acquaintance is part of the evidential foundation for the Map's dualism—but the argument requires care, because non-reductive physicalists also accept acquaintance's reality. The Map's case proceeds in two steps. *First*, acquaintance secures the data: qualitative character is real, not eliminable or reducible to functional role. *Second*, the nature of the acquaintance relation itself resists physical characterisation. A complete physical description of a brain state specifies its structural, dynamic, and relational properties—yet none of these constitute the *presentation* of a quality to a subject. Non-reductive physicalists treat this as an epistemic limitation: two modes of accessing the same physical reality. The Map holds the limitation is ontological: what acquaintance reveals is not among the properties physical description can in principle specify, because physical description is exhausted by structure and dynamics while qualitative character is intrinsic and non-structural. Acquaintance provides the starting datum; the philosophical arguments establish that the datum points beyond the physical.
+**[Dualism](/tenets/#dualism)**: Phenomenal acquaintance is part of the evidential foundation for the Map's dualism—but the argument requires care, because non-reductive physicalists also accept acquaintance's reality. The Map's case proceeds in two steps. *First*, acquaintance secures the data: qualitative character is real, not eliminable or reducible to functional role. *Second*, the nature of the acquaintance relation itself resists physical characterisation. A complete physical description of a brain state specifies its structural, dynamic, and relational properties—yet none of these constitute the *presentation* of a quality to a subject. Non-reductive physicalists treat this as an epistemic limitation: two modes of accessing the same physical reality. The Map holds the limitation is ontological: what acquaintance reveals is not among the properties physical description can in principle specify, because physical description is exhausted by structure and dynamics while qualitative character is intrinsic and non-structural. Acquaintance provides the starting datum; carrying it beyond the physical is the work of further arguments, which the recognitional account still contests.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If acquaintance were [epiphenomenal](/concepts/epiphenomenalism/), reports about qualitative character would be causally disconnected from the relation itself. Mary's exclamation upon seeing red would bear no causal relation to her acquaintance with redness. The Map grants that [knowing one's own present experience needs no causal link](/topics/acquaintance-without-causation/); the pressure falls on the report channel, since asserting what acquaintance reveals is an outbound physical act. The physicalist's answer is a common cause rather than a coincidence: on Jackson's (1982) structure the brain state produces both experience and report, so the tracking is lawful ([the coincidence response](/concepts/self-stultification/#the-coincidence-response)). What that answer still owes is an account of how a lawful parallel lets a report voice what acquaintance knows—a gap the Map presses as explanatory cost, not refutation.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If acquaintance were [epiphenomenal](/concepts/epiphenomenalism/), reports about qualitative character would be causally disconnected from the relation itself. Mary's exclamation upon seeing red would bear no causal relation to her acquaintance with redness. The Map grants that [knowing one's own present experience needs no causal link](/topics/acquaintance-without-causation/); the pressure falls on what is done with that knowledge—reasoning from it, and reporting it in an outbound physical act. The epiphenomenalist's answer is a common cause rather than a coincidence: on Jackson's (1982) structure the brain state produces both experience and report, so the tracking is lawful ([the coincidence response](/concepts/self-stultification/#the-coincidence-response)). What that answer still owes is an account of how a lawful parallel lets reasoning and report proceed *from* what acquaintance knows—a gap the Map presses as explanatory cost, not refutation. The Map's own interactionism meets that demand only if consciousness acts in virtue of what it presents, which the tenets [posit without securing](/tenets/#tenet-3-standing).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing acquaintance to recognitional capacity or conceptual competence can seem simpler than positing a primitive relation. The Map lets neither that apparent simplicity nor any economy claimed for its own view settle the question; what separates the accounts is explanatory, and the reductions still owe an account of why Mary's encounter *feels* novel.
 
