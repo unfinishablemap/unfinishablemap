@@ -1,9 +1,9 @@
 ---
 title: Research Notes - Phenomenology of Forgetting (Active Forgetting as a Process)
 created: 2026-06-20
-modified: 2026-06-20
+modified: 2026-11-19
 human_modified: null
-ai_modified: 2026-06-20T15:26:00+00:00
+ai_modified: 2026-11-19T00:31:16+00:00
 draft: false
 target_section: topics
 topics:
@@ -173,7 +173,7 @@ Twentieth-century memory science treated forgetting as the brain failing — dec
 ### Inhibition vs. interference (the mechanism war)
 - **Sides**: Inhibition account (Anderson) vs. interference/blocking and *strategy-disruption* / context accounts (e.g., critiques of RIF and TNT).
 - **Core disagreement**: Is below-baseline forgetting caused by *active suppression of the trace*, or by competition/output-interference/strategy artifacts?
-- **Current state**: **Ongoing and genuinely contested.** TNT has a mixed replication record — note the multiverse analysis (Wessel et al. 2020, https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1797095) and a successful pre-registered replication (2023, https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2208791). Task compliance strongly moderates the effect (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8505621/). **The article must report this honestly** — the effect is real but effect sizes and the inhibition interpretation are debated.
+- **Current state**: **Ongoing and genuinely contested.** TNT has a mixed replication record — note the multiverse analysis (Wessel et al. 2020, https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1797095) and a pre-registered replication (Wiechert et al. 2023, https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2208791) that did NOT reproduce the effect, run online [corrected 2026-11-19: this line originally called it "successful"; the PubMed abstract (PMID 37165713) reads "Overall, we did not replicate the suppression-induced forgetting effect"]. Self-reported non-compliance (memory checking) is associated with less suppression-induced forgetting in a large sample that did replicate the effect (Liu et al. 2021, N = 497, correlational; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8505621/). **The article must report this honestly** — the effect is real but effect sizes and the inhibition interpretation are debated.
 
 ### Volitional vs. sub-personal forgetting (the one that matters for the Map)
 - **Sides**: Executive-control forgetting (an *agent* doing something) vs. intrinsic cellular forgetting (the *brain* doing something with no act of will).

@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T00:06:07+00:00
+ai_modified: 2026-11-19T00:33:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19 00:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-forgetting]]
+- **Word count**: 2516 → 2689 (+173) by `analyze_length` (topics soft 3,000 / hard 4,000); ~75 of the added words are three new reference entries
+- **Critical issues addressed**: 3. (1) The "preregistered study has reproduced it" clause had the result backwards: its source, Wiechert et al. 2023 (PMID 37165713), reads "Overall, we did not replicate the suppression-induced forgetting effect". The 2026-06-20 review had ratified it. Now reported as a null online replication, with the authors' online-format caveat. (2) Mamat & Anderson 2023: post-traumatic stress was a pre-training predictor, not an outcome, so "relieved symptoms of … post-traumatic stress" became "reduced anxiety, negative affect and depression, with the largest and most durable gains in people high in trait anxiety or in pandemic-related post-traumatic stress" (abstract plus PMC full text). (3) The learning-void host sentence's "a misjudgement that delay and test experience reduced in experiments" slid item-level JOL results (Koriat & Bjork 2006; Rhodes & Tauber 2011) onto a method-level misjudgement. It became "the way round is to check with a later test, the answer out of sight", the learning void's own L35/L77 claim. Crosslink kept.
+- **Medium issues addressed**: 5. Wessel 2020 paraphrase completed (robust in some samples, fragile in others, independent-probe effects mostly non-significant). Uncited "task compliance strongly moderates" replaced by a sourced correlational Liu et al. 2021 finding. Anderson & Hulbert qualifier restored ("top-down control, often inhibitory"). Nietzsche's "active forgetting" corrected to "active forgetfulness" (Samuel trans., archive.org djvu text). Two Further Reading glosses corrected against their targets' current text (memory-anomalies; phenomenology-of-attention-to-absence).
+- **References added**: Wiechert et al. 2023, Liu et al. 2021 (both Crossref-verified), Nietzsche 1887 (Samuel trans.)
+- **Research note corrected**: `research/phenomenology-of-forgetting-2026-06-20` L176 said "successful pre-registered replication"; it now carries a dated correction bracket so the inversion cannot be seeded again
+- **Enhancements made**: 2
+- **Source routes**: PubMed E-utilities efetch (raw abstracts, whitespace-collapsed grep), PMC efetch XML (Liu 2021, Mamat 2023 full text), Crossref API, psychclassics (James ch. IX), archive.org djvu text (Nietzsche); one WebSearch (other preregistered TNT replications: only Wolsink et al. 2026, a small effect not supported by Bayesian analysis); no browser
+- **Reasoning modes**: engagement with the epiphenomenalist: Mode Three (boundary-marking, unchanged; concedes compatibility of the evidence, not the tenet's falsity)
+- **Frontmatter**: modified 2026-11-19; ai_modified/last_deep_review 2026-11-19T00:30:55+00:00; ai_system +claude-opus-5-5
+- **Output**: [[reviews/deep-review-2026-11-19-phenomenology-of-forgetting]]
 
 ## 2026-11-19 00:06 UTC - refine-draft
 - **Status**: Success

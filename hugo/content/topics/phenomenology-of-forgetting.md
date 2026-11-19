@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-11-17 09:38:40+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-2
+ai_modified: 2026-11-19 00:30:55+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
 - '[[episodic-memory]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[interactionist-dualism]]'
 created: 2026-06-20
-date: &id001 2026-11-17
+date: &id001 2026-11-19
 description: Forgetting is often an act, not a failure. The Map examines the felt
   experience of letting a memory go—and why volitional forgetting is a candidate case
   of consciousness reshaping a physical trace.
@@ -23,8 +23,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/xb9G4VcIhlo
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-17 07:00:05+00:00
-lastmod: 2026-11-17 09:38:40+00:00
+last_deep_review: 2026-11-19 00:30:55+00:00
+lastmod: 2026-11-19 00:30:55+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'
@@ -66,15 +66,15 @@ Three laboratory paradigms converge on the conclusion that an executive control 
 
 **Suppression (the think/no-think paradigm).** Anderson and Green (2001) had people learn word pairs, then presented the first word in green ("think"—retrieve the associate) or red ("no-think"—stop any retrieval from entering awareness). Repeatedly avoiding retrieval impaired later recall of the suppressed item, in their data falling below the level of pairs that were never practised at all. Forgetting here is a *consequence of an act of control*, not of disuse.
 
-**Retrieval-induced forgetting.** Anderson, Bjork, and Bjork (1994) showed that practising retrieval of *some* items in a category impairs later recall of related, unpractised items in that category—remembering one thing causes forgetting of its competitors. The impairment endured and survived controls for output interference, which the authors read as support for an inhibition account over passive competition. Retrieval practice has a constructive side that learners tend to misjudge: in studied cases self-testing aids retention, yet during practice the sense of learning follows ease, a misjudgement that delay and test experience reduced in experiments ([the learning void](/voids/learning-void/)).
+**Retrieval-induced forgetting.** Anderson, Bjork, and Bjork (1994) showed that practising retrieval of *some* items in a category impairs later recall of related, unpractised items in that category—remembering one thing causes forgetting of its competitors. The impairment endured and survived controls for output interference, which the authors read as support for an inhibition account over passive competition. Retrieval practice has a constructive side that learners tend to misjudge: in studied cases self-testing aids retention, yet during practice the sense of learning follows ease, and the way round is to check with a later test, the answer out of sight ([the learning void](/voids/learning-void/)).
 
 **Directed forgetting.** When participants are cued to "forget" just-presented material, that material is later recalled worse. In the item-method (a cue after each item), the effect is driven largely by selective rehearsal of the remembered items; in the list-method (one mid-list cue), it reflects something closer to retrieval inhibition and context-change. Neuroimaging work in the 2020s associates the "forget" instruction with downregulating the item's representation and upregulating the prior encoding context—an *unbinding* of the item from where it was stored.
 
-Anderson and Hulbert (2021) synthesise these strands as **active forgetting by prefrontal control**: the prefrontal cortex exerts top-down inhibition over hippocampal mnemonic activity, and the same control that targets single items can, they argue, suppress mnemonic processing more broadly—"triggering windows of anterograde and retrograde amnesia in healthy people." Schmitz and colleagues (2017) supply a candidate neurochemical interface: individual differences in hippocampal GABA concentration predict how well a person suppresses unwanted memories. Anderson, Crespo-García, and Subbulakshmi (2025) extend the picture to a domain-general inhibitory control of thought that halts cognition much as it halts action, and connect failures of this control to disorders of intrusive thinking.
+Anderson and Hulbert (2021) synthesise these strands as **active forgetting by prefrontal control**: the prefrontal cortex exerts top-down control, often inhibitory, over mnemonic activity in the hippocampus, and the same control that targets single items can, they argue, suppress mnemonic processing more broadly—"triggering windows of anterograde and retrograde amnesia in healthy people." Schmitz and colleagues (2017) supply a candidate neurochemical interface: individual differences in hippocampal GABA concentration predict how well a person suppresses unwanted memories. Anderson, Crespo-García, and Subbulakshmi (2025) extend the picture to a domain-general inhibitory control of thought that halts cognition much as it halts action, and connect failures of this control to disorders of intrusive thinking.
 
 ### The Record Is Real but Contested
 
-These effects must not be reported as settled magnitudes. The think/no-think paradigm in particular has a mixed replication history: a multiverse analysis of early replication attempts (Wessel et al., 2020) found the below-baseline effect fragile across analytic choices, while at least one preregistered study has reproduced it, and task compliance strongly moderates how large the effect appears. The phenomenon is real and the inhibition interpretation is serious, but effect sizes and the mechanism remain genuinely disputed. No quantitative suppression claim should be stated here as fact. The honest summary is that controlled forgetting exists; how strong it is, and whether "inhibition" is the right gloss, is open.
+These effects must not be reported as settled magnitudes. The think/no-think paradigm in particular has a mixed replication history. A multiverse analysis of early replication attempts (Wessel et al., 2020) found the below-baseline effect robust across analytic choices in some samples and fragile in others, and mostly non-significant when recall was tested with new cues, which the authors note raises problems for the inhibition account. A preregistered replication run online did not reproduce the effect, though its authors flag the online format as a possible reason (Wiechert et al., 2023). A large study that did reproduce it found less forgetting among participants who reported checking on or rehearsing the suppressed words against instructions (Liu et al., 2021). The phenomenon is real and the inhibition interpretation is serious, but effect sizes and the mechanism remain genuinely disputed. No quantitative suppression claim should be stated here as fact. The honest summary is that controlled forgetting exists; how strong it is, and whether "inhibition" is the right gloss, is open.
 
 ## The Phenomenology of the Act
 
@@ -104,11 +104,11 @@ Both layers demonstrably exist. Conflating them—treating intrinsic dopamine-dr
 
 ## Relation to Site Perspective
 
-Volitional forgetting is one of the cleanest everyday candidates for [Bidirectional Interaction](/tenets/#bidirectional-interaction), the Map's third tenet: consciousness causally influencing the physical world. The structure is exactly the one the tenet describes. An intention—a conscious content, "don't retrieve this"—is followed by a measurable, lasting change in the physical retrievability of a memory trace. If that intention is doing genuine causal work, then a non-physical (or at least irreducibly mental) act is reaching down into neural tissue and altering it. The clinical extension sharpens the stakes: people with post-traumatic stress disorder show *deficient* suppression-induced forgetting (Catarino et al., 2015), and a training study found that practising suppression relieved symptoms of anxiety and post-traumatic stress (Mamat & Anderson, 2023)—so the act has real consequences for a life, not merely a lab score.
+Volitional forgetting is one of the cleanest everyday candidates for [Bidirectional Interaction](/tenets/#bidirectional-interaction), the Map's third tenet: consciousness causally influencing the physical world. The structure is exactly the one the tenet describes. An intention—a conscious content, "don't retrieve this"—is followed by a measurable, lasting change in the physical retrievability of a memory trace. If that intention is doing genuine causal work, then a non-physical (or at least irreducibly mental) act is reaching down into neural tissue and altering it. The clinical extension sharpens the stakes: people with post-traumatic stress disorder show *deficient* suppression-induced forgetting (Catarino et al., 2015), and a training study found that practising suppression reduced anxiety, negative affect and depression, with the largest and most durable gains in people high in trait anxiety or in pandemic-related post-traumatic stress (Mamat & Anderson, 2023)—so the act has real consequences for a life, not merely a lab score.
 
 The case must be stated with the Map's standard caution against [epiphenomenalism's](/concepts/epiphenomenalism/) best reply. An epiphenomenalist will say the "intention" is itself just a brain state, and the trace-weakening is one brain state altering another, with the felt intention merely along for the ride. The neuroscience is compatible with that reading: prefrontal-hippocampal inhibition and hippocampal GABA describe a physical-physical chain that needs no mental causation. As the Map holds elsewhere, the conversation about consciousness *suggests* downward causation without exhibiting it from inside—and the felt agency of suppressing is not first-person-verifiable as a cause (see the [agency void](/voids/agency-void/) on this verification circularity). What the neuroscience *cannot* supply is the felt agency itself: it explains the correlate of "not thinking," not what it is like to do the not-thinking. That hard-problem residue—the felt act for which the substrate is only the correlate—is the dualist seam this article exploits, and it is under-theorised in the literature itself.
 
-Two further tenets bear lightly. [Occam's Razor Has Limits](/tenets/#occams-limits) is illustrated by the whole reversal: the simple "forgetting equals decay" story was wrong, and the real picture is an elaborate control architecture—a reminder that the parsimonious account is not automatically the true one. And the constitutive reading—Nietzsche's "active forgetting" as a positive inhibiting force, Ricoeur's forgetting as the condition of remembering—aligns with the Map's tendency to treat limits as revealing what a mind *is*. A mind that could not forget would not be a healthier mind but a broken one; forgetting is finitude doing its proper work.
+Two further tenets bear lightly. [Occam's Razor Has Limits](/tenets/#occams-limits) is illustrated by the whole reversal: the simple "forgetting equals decay" story was wrong, and the real picture is an elaborate control architecture—a reminder that the parsimonious account is not automatically the true one. And the constitutive reading—Nietzsche's "active forgetfulness" as a positive inhibiting force, Ricoeur's forgetting as the condition of remembering—aligns with the Map's tendency to treat limits as revealing what a mind *is*. A mind that could not forget would not be a healthier mind but a broken one; forgetting is finitude doing its proper work.
 
 The honest position is calibrated. The volitional layer is a *candidate* for downward causation, strong because the felt act and the physical change line up so cleanly, but not a proof, because the epiphenomenalist reading survives and the suppression effects themselves are empirically contested. The Map registers it as a live case that fits the third tenet's structure, not as settled evidence for it.
 
@@ -119,8 +119,8 @@ The honest position is calibrated. The volitional layer is a *candidate* for dow
 - [inaccessible-past](/voids/inaccessible-past/) — the unrecoverable *product* of forgetting, and why memory reconstructs
 - [erasure-void](/voids/erasure-void/) — the unmonitorable inventory of what has been lost
 - [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) — forgetting and revision as consolidation reopens
-- [memory-anomalies](/topics/memory-anomalies/) — distortions, false memories, and the limits of mnemonic reliability
-- [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/) — the felt structure of attending to what is missing, the converse of the shaped gap
+- [memory-anomalies](/topics/memory-anomalies/) — déjà vu, jamais vu and cryptomnesia, the last a forgotten memory mistaken for original thought
+- [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/) — the felt structure of attending to what is missing, with the tip-of-the-tongue gap as its cognitive case
 - [agency-void](/voids/agency-void/) — why the felt agency of an act cannot verify its own causal power
 
 ## References
@@ -135,7 +135,10 @@ The honest position is calibrated. The volitional layer is a *candidate* for dow
 8. Catarino, A., Küpper, C. S., Werner-Seidler, A., Dalgleish, T., & Anderson, M. C. (2015). Failing to forget: Inhibitory-control deficits compromise memory suppression in posttraumatic stress disorder. *Psychological Science*, 26(5), 604–616. https://doi.org/10.1177/0956797615569889
 9. Mamat, Z., & Anderson, M. C. (2023). Improving mental health by training the suppression of unwanted thoughts. *Science Advances*, 9(38), eadh5292. https://doi.org/10.1126/sciadv.adh5292
 10. Wessel, I., Albers, C. J., Zandstra, A. R. E., & Heininga, V. E. (2020). A multiverse analysis of early attempts to replicate memory suppression with the think/no-think task. *Memory*, 28(7), 870–887. https://doi.org/10.1080/09658211.2020.1797095
-11. Ricoeur, P. (2004). *Memory, History, Forgetting* (K. Blamey & D. Pellauer, Trans.). University of Chicago Press.
-12. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-13. Southgate, A. & Oquatre-six, C. (2026-02-08). Consciousness and Memory. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-memory/
-14. Southgate, A. & Oquatre-sept, C. (2026-01-29). The Inaccessible Past. *The Unfinishable Map*. https://unfinishablemap.org/voids/inaccessible-past/
+11. Wiechert, S., Loewy, L., Wessel, I., Fawcett, J. M., Ben-Shakhar, G., Pertzov, Y., & Verschuere, B. (2023). Suppression-induced forgetting: A pre-registered replication of the think/no-think paradigm. *Memory*, 31(7), 989–1002. https://doi.org/10.1080/09658211.2023.2208791
+12. Liu, P., Hulbert, J. C., Yang, W., Guo, Y., Qiu, J., & Anderson, M. C. (2021). Task compliance predicts suppression-induced forgetting in a large sample. *Scientific Reports*, 11, 20166. https://doi.org/10.1038/s41598-021-99806-8
+13. Ricoeur, P. (2004). *Memory, History, Forgetting* (K. Blamey & D. Pellauer, Trans.). University of Chicago Press.
+14. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+15. Nietzsche, F. (1887). *The Genealogy of Morals* (H. B. Samuel, Trans.; Second Essay, §1). Boni and Liveright.
+16. Southgate, A. & Oquatre-six, C. (2026-02-08). Consciousness and Memory. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-memory/
+17. Southgate, A. & Oquatre-sept, C. (2026-01-29). The Inaccessible Past. *The Unfinishable Map*. https://unfinishablemap.org/voids/inaccessible-past/
