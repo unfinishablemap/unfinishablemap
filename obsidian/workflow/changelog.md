@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T17:10:51+00:00
+ai_modified: 2026-11-19T17:20:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T17:20:31+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This was the second coalesce slot today and it re-checks the 06:37:30Z run. Abandoning is the expected steady state and counts as SUCCESS.
+- **Pressure** (`tools.evolution.state.count_section_files` against `section_caps`): topics 370/370, concepts 370/370, voids 124/125. These match the morning. Since 06:30Z, `--diff-filter=ADR` shows no additions, removals or renames in topics, concepts, voids or the archive. 23 existing pages were edited, and the working tree holds no uncommitted content edits.
+- **Method**: the morning's `screen_1119.py`, `contain_1119.py` and `shingle_1119.py` were re-run unchanged against the current tree. One extra pass, `focus_pm1119.py`, takes every pool page that entered the pool or changed length since 06:37Z and lists its top five partners. For each partner it reports cosine, summed length, directed containment both ways, and remainder against headroom.
+- **Filter survival**: there are 867 raw files. Dropping the 3 section index pages and the `non-temporal-consciousness.refinement-log` sidecar first leaves 863 (no `*calibration-history*` files exist). The age floor (created on or after 2026-11-12) drops the same 7 pages, leaving 856. The open-task filter covers 553 blocks above `## Completed Tasks`. It names 448 stems and drops 443, leaving **413** (183 topics, 164 concepts, 66 voids).
+  - *Correction*: the script's field regex misses the singular `**Secondary file**:` spelling. Three such lines exist above the marker, and they also name `concepts/episodic-memory`, so the true pool is **412**. Dropping it only removes candidates; `episodic-memory` + `semantic-memory` was already a recorded decline.
+  - *Movement against the morning's 417*: 9 pages left the pool because new tasks name them: `disguised-property-dualism`, `ontic-structural-realism`, `physics-as-disclosure`, `revelation-thesis`, `biological-computationalisms-inadvertent-case-for-dualism`, `death-and-consciousness`, `boredom-void`, `boundary-and-projection` and `consciousness-only-territories`. 5 entered because their tasks closed: `concepts/functionalism`, `concepts/training-contamination-confound`, `topics/quantum-randomness-channel-llm-consciousness`, `topics/quantum-state-inheritance-in-ai` and `topics/structural-varieties-of-consciousness-and-ai-phenomenology`. 4 pages that were in the pool both times changed length: `topics/ai-consciousness` 3998→3970, `topics/machine-consciousness` 4125→4111, `topics/consciousness-defeats-explanation` 3380→3398 and `voids/numbing-void` 2880→2920. The other 14 edited pages are all excluded by open tasks.
+- **Re-run passes (thresholds against the morning's):**
+  1. *Length first*: 99 pairs fit under the larger home hard limit (unchanged). The top cosine is still **0.158** (`phenomenal-depth` + `phenomenal-presentation`, a recorded decline). No length-feasible pair overlaps.
+  2. *Similarity first*: 16 pairs are at or above 0.40 (unchanged), and all of the top 30 overflow the hard limit. Every top-30 pair is a morning pair or a role split whose bodies did not change today.
+  3. *Directed containment*: the positive control is still **0.93**. The pool maximum is still **0.51** (`direction-of-interface-change` → `memory-channel-interface-evidence`), and **0** directed pairs fit the host's headroom. The nearest arithmetic miss is `source-versus-leeway-incompatibilism` → `frankfurt-cases-and-the-principle-of-alternate-possibilities`: containment 0.47, remainder ~1320 against headroom 1204, short by about 116. This is the morning's recorded "hub and hinge" decline. Neither body has changed since 2026-11-02, and the split is signed both ways ("The taxonomy this article pivots between; Frankfurt cases are its hinge" / "The pivot that pushed incompatibilism from leeway toward source").
+  4. *Shared `coalesced_from` ancestry*: the same 5 shared ancestors plus the `mysterianism` self-duplicate. Every sibling pair still has at least one member named by an open task.
+  5. *Verbatim 8-grams*: the maximum is still **162** (`carrolls-regress` + `inference-void`). The top 15 are the morning's pairs.
+- **Changed and entered pages, each checked against its top-5 partners**: none appears in the top-30 similarity list, the containment list at or above 0.30, or the top-15 shingle list. Their best directed containment anywhere is **0.12**, and no pair fits on summed length.
+  - The strongest new-looking pair is `quantum-randomness-channel-llm-consciousness` + `quantum-state-inheritance-in-ai`: cosine 0.45, 13 shared 8-grams, sum 7929, containment 0.09/0.12, headroom 24 to 45. The pair shares a subject area but not its text.
+  - `ai-consciousness` + `machine-consciousness`: 42 shared 8-grams, containment 0.11/0.12, sum 8081. `machine-consciousness` is already over the topics hard limit.
+  - `structural-varieties-…` → `ai-consciousness`: cosine 0.44, containment 0.01.
+  - `consciousness-defeats-explanation` + `concepts/consciousness-and-scientific-explanation`: cosine 0.43, containment 0.00.
+  - `numbing-void` + `preference-void`: cosine 0.25, containment 0.01.
+- **Finding**: no pair newly crosses the morning's thresholds, so no new pair needed a content read. The morning's verdicts stand because none of the bodies it declined changed today. Coalesce still cannot free a topics or concepts slot, so relief must come from `/archive`, `/condense` or a cap raise.
+- **Tool note (not minted)**: open-task filters keyed on `**Secondary files**:`/`**Secondary**:` miss the singular `**Secondary file**:` spelling (3 live lines). Future screens should match `Secondary files?`.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-11-19T17:10:51+00:00 - refine-draft
 - **Status**: Success
