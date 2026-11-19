@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-09-17 20:27:22+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-19 02:56:17+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[phenomenology]]'
 created: 2026-04-13
-date: &id001 2026-04-13
+date: &id001 2026-11-19
 description: What it feels like when words fail—the distinct experiential signatures
   of linguistic breakdown and what they reveal about consciousness under dualism.
 draft: false
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 20:27:22+00:00
-lastmod: 2026-09-17 20:27:22+00:00
+lastmod: 2026-11-19 02:56:17+00:00
 modified: *id001
 related_articles:
 - '[[language-thought-boundary]]'
@@ -121,7 +121,7 @@ This active character distinguishes linguistic failure from mere inability. You 
 
 The phenomenology of linguistic failure connects to The Unfinishable Map's [tenets](/tenets/) at multiple points.
 
-**[Dualism](/tenets/#dualism)** receives experiential support. The structured diversity of failure modes—approximation, dissolution, muteness, mismatch, degradation—maps onto a picture where consciousness contains content of fundamentally different character from what language can encode. If consciousness were nothing beyond neural-linguistic processing, the question of why some content resists expression while other content does not would require explanation in purely computational terms. The dualist answer is more direct: phenomenal content is ontologically distinct from the physical-functional structures that language operates on.
+**[Dualism](/tenets/#dualism)** gains a reading and no evidence. The structured diversity of failure modes—approximation, dissolution, muteness, mismatch, degradation—maps onto a picture where consciousness contains content of fundamentally different character from what language can encode. If consciousness were nothing beyond neural-linguistic processing, the question of why some content resists expression while other content does not would require explanation in purely computational terms. The dualist reading is more direct—phenomenal content is ontologically distinct from the physical-functional structures language operates on—but a computational account of why some content resists encoding is not excluded, so the pattern does not discriminate.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is visible in the effortful character of the search for words. The felt sense of steering expression, evaluating candidates, and recognising failure requires consciousness to causally interact with linguistic processes. The experience of *trying to say something* is among the most vivid instances of [consciousness acting on the physical world through language](/topics/consciousness-and-language-interface/).
 

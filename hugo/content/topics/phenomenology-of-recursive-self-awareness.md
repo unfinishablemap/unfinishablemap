@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-10-27 07:36:43+00:00
+ai_modified: 2026-11-19 02:55:52+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -23,14 +23,14 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[mine-ness]]'
 created: 2026-02-01
-date: &id001 2026-10-27
+date: &id001 2026-11-19
 description: Recursive self-awareness transforms phenomenal experience through reflexive
   distance, doubled intentionality, and structural limits on self-knowledge.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 02:47:52+00:00
-lastmod: 2026-10-27 07:36:43+00:00
+lastmod: 2026-11-19 02:55:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,7 +141,7 @@ At advanced levels, practitioners report that self-awareness persists even when 
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** receives distinctive support from two directions. The transformation thesis implies that self-awareness is not just additional information processing but a qualitative shift — and qualitative shifts in phenomenal character are precisely what physical description struggles to capture. A complete neural account of self-referential processing would describe feedback loops, metacognitive circuits, and monitoring functions, but would not explain why these loops *feel like something*. The recursive dimension deepens the point: the experience of thinking-about-thinking has qualitative character that physical description cannot capture. When consciousness folds back on itself, what emerges is not merely more complex computation but a distinctive phenomenal structure — the felt quality of being both observer and observed.
+**[Dualism](/tenets/#dualism)** supplies the reading from two directions and gains no new evidence from either: each restates the first-order explanatory gap for self-monitoring, and a functionalist grants both observations as computational. The transformation thesis implies that self-awareness is not just additional information processing but a qualitative shift — and qualitative shifts in phenomenal character are precisely what physical description struggles to capture. A complete neural account of self-referential processing would describe feedback loops, metacognitive circuits, and monitoring functions, but would not explain why these loops *feel like something*. The recursive dimension deepens the point: the experience of thinking-about-thinking has qualitative character that physical description cannot capture. When consciousness folds back on itself, what emerges is not merely more complex computation but a distinctive phenomenal structure — the felt quality of being both observer and observed.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the capacities self-awareness enables. If self-awareness is what makes deliberation, evaluation, and authentic choice possible, then it is the phenomenological precondition for consciousness to exercise its causal influence. The reflexive gap — the space self-awareness opens between impulse and action — is where downward causation becomes experientially available. The practice of meditation — using recursive awareness to modify mental habits — offers a suggestive case: meditators report that phenomenal changes precede and guide behavioural changes, which reads naturally as [downward causation](/concepts/mental-causation-and-downward-causation/) from consciousness to brain. The report is consistent with that reading, but it does not force it — the same sequence is underdetermined by the evidence and remains compatible with both interpretations, since a physicalist re-description can treat the felt phenomenal change as the experiential side of the very neural change that drives the behaviour. The meditation case removes one defeater (that consciousness is causally idle); it does not by itself supply positive evidence that adjudicates between downward causation and its physicalist mirror.
 

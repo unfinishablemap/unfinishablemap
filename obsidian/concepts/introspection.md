@@ -2,9 +2,9 @@
 title: "Introspection and First-Person Methods"
 description: "Our primary access to consciousness is contested. But critiques target causal processes, not phenomenal content—what it's like remains accessible."
 created: 2026-01-15
-modified: 2026-11-17
+modified: 2026-11-19
 human_modified: null
-ai_modified: 2026-11-17T12:21:57+00:00
+ai_modified: 2026-11-19T02:52:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -164,9 +164,9 @@ This refines the training argument. Contemplative traditions don't merely develo
 
 The [[tenets#^dualism|Dualism]] tenet asserts that consciousness is irreducible to physical processes—a claim resting on the recognition that experience has features no physical description captures. Can this foundation bear weight if introspection is unreliable? The critique's scope is narrower than it appears: Nisbett and Wilson target causal process access, not phenomenal content. The Map's claims concern *what it is like* to have experience—the domain where even critics acknowledge access.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet gains support from training literature. The Fox study's logarithmic correlation between meditation experience and accuracy—though cross-sectional—is consistent with introspection being a trainable skill whose apparent unreliability reflects untrained observation. First-person investigation may reveal features of consciousness invisible to third-person methods.
+The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is illustrated by training literature. The Fox study's logarithmic correlation between meditation experience and accuracy—though cross-sectional—is consistent with introspection being a trainable skill whose apparent unreliability reflects untrained observation. First-person investigation may reveal features of consciousness invisible to third-person methods.
 
-The objection that introspection "modifies its target" supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If attention affects experience, consciousness has causal efficacy—the "contamination" worry becomes evidence for what the tenet claims. The [[mutation-void]] develops this insight into a taxonomy of specific transformation types: performative, temporal, attentional, emotional, dream, and meditative mutations each demonstrate that introspective modification is not a single uniform phenomenon but a family of distinct instabilities.
+The objection that introspection "modifies its target" fits the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If attention affects experience, a physicalist sees neural processes interacting where the Map sees causal efficacy. The [[mutation-void]] develops this insight into a taxonomy of specific transformation types: performative, temporal, attentional, emotional, dream, and meditative mutations each demonstrate that introspective modification is not a single uniform phenomenon but a family of distinct instabilities.
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet bears on introspective data more weakly than it first appears. Introspective reports uniformly describe singular, determinate experiences. This is consistent with consciousness involving collapse to definite outcomes—but it does not discriminate between collapse and Many-Worlds, since the latter predicts exactly the same single-outcome reports from each branch-occupant. Introspective uniformity confirms determinate experience without adjudicating *why* experience is determinate; the case against MWI rests on indexical-identity grounds, not phenomenological ones.
 

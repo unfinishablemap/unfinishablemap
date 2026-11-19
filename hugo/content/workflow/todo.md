@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `topics/many-minds-interpretation` cites "the proportion of minds associated with each term" to Albert and Loewer 1988, p. 208; the wording is the IEP entry's own prose and the page number belongs to the entry's next quotation
-- **Type**: refine-draft
-- **File**: obsidian/topics/many-minds-interpretation.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-11-18 (encyclopedia sentences printed as a philosopher's words: 5,301 long quotations scanned on 911 pages, 2,316 testable, 7 credited to a philosopher)
-- **Generated**: 2026-11-18
-- **Review file**: `reviews/pessimistic-2026-11-18b-encyclopedia-sentences-as-quotations.md`
-- **Headroom**: 2,493 words (topics hard 4000): room. The proposed change is 4 words shorter.
-- **Caution**: The review file gives, for each hit, the page's current sentence, the encyclopedia passage with the entry's author and revision date, and a proposed NEW (a draft): READ ITS ENTRY FOR THIS TASK IN FULL and work from it. The rule: a sentence that is an encyclopedia author's own prose must not stand in quotation marks under a philosopher's name. Three acceptable outcomes, in order of preference: (1) find the philosopher's OWN wording in the primary work by an official route and quote that with a page (publisher, the author's own site or institutional repository, PhilPapers/PhilArchive record with an open copy, OpenAlex `open_access.oa_url`, Crossref; `curl --max-time 40 --connect-timeout 10`, one URL per command; a challenge page closes that route; no unofficial uploads or scans of copyrighted books; no general search engine; no identifier in any request); (2) keep the quotation and credit it to the entry's author by name ("as <Author>'s SEP entry puts it"), adding the entry to References if absent; (3) keep the philosopher's name and paraphrase WITHOUT quotation marks. Re-fetch the encyclopedia entry and re-grep the string before writing (entries get revised); say which version you read. Re-grep each OLD string on the page (exactly once), read the whole paragraph, the page's latest review file for Stability Notes (two of these sentences were recorded as VERIFIED by earlier reviews that had checked them against the encyclopedia - that note is overridden by this finding; say so in the changelog), and check no blocked or NEEDS-HUMAN task owns the sentence. Do not weaken the page's argument; if the corrected attribution changes what the philosopher is shown to hold, follow that into the sentences that lean on it. Re-measure with `tools.curate.length.analyze_length` before and after (gates fire at `>=`: topics 4000, concepts 3500, voids 3000); never fund length by cutting a qualifier, a stated limit or an objection-answering sentence. No "This is not X. It is Y."; no "load-bearing". `modified`/`ai_modified` from `date -u`; `ai_system`: append the model that actually runs only if absent; changelog with a source ledger (string, where found, route) and a "verification that the fix held" line (each OLD string 0 hits in the obsidian and hugo copies); sync.
-- **Notes**: About L76 (re-grep "the proportion of minds associated with each term"). PROBABLE, not confirmed: Albert and Loewer (1988), "Interpreting the Many Worlds Interpretation", Synthese 77: 195-213, was not obtained, and those bibliographic details were written from memory - confirm them at Crossref first. Try the paper by an official route and look at p. 208: if the phrase IS there, close this as a false alarm and record that; if the paper cannot be obtained, credit the wording to the IEP entry (Conroy, "Everettian Interpretations of Quantum Mechanics") and drop the page number.
-
 ### P3: Eight topic and concept pages open a tenet paragraph with "receives / finds / gains support": cognitive science "actually supports the tenet", QBism is "a vindication" under Tenet 1, simple-organism research "supports dualism"
 - **Type**: refine-draft
 - **File**: obsidian/topics/cognitive-science-of-dualism.md
@@ -5913,6 +5902,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-19: `topics/many-minds-interpretation` cites "the proportion of minds associated with each term" to Albert and Loewer 1988, p. 208; the wording is the IEP entry's own prose and the page number belongs to the entry's next quotation
+- **Type**: refine-draft
+- **File**: obsidian/topics/many-minds-interpretation.md
+- **Notes**: About L76 (re-grep "the proportion of minds associated with each term"). PROBABLE, not confirmed: Albert and Loewer (1988), "Interpreting the Many Worlds Interpretation", Synthese 77: 195-213, was not obtained, and those bibliographic details were written from memory - confirm them at Crossref first. Try the paper by an official route and look at p. 208: if the phrase IS there, close this as a false alarm and record that; if the paper cannot be obtained, credit the wording to the IEP entry (Conroy, "Everettian Interpretations of Quantum Mechanics") and drop the page number.
 
 ### ✓ 2026-11-19: Three research notes still file encyclopedia summaries as quotations from van Inwagen, Yablo and Coleman, the source of three false quotations corrected on two void pages on 2026-11-18
 - **Type**: refine-draft

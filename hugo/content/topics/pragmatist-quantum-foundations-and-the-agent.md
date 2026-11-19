@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-09-11 09:13:31+00:00
-ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5
+ai_modified: 2026-11-19 02:55:02+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/pragmatism-and-qbism/
@@ -18,7 +18,7 @@ concepts:
 - '[[quantum-interpretations]]'
 - '[[stapp-quantum-mind]]'
 created: 2026-04-04
-date: &id001 2026-04-23
+date: &id001 2026-11-19
 description: QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at the
   centre of quantum mechanics and decline to say what the agent is. Under dualism,
   that shared placeholder becomes the interface.
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-11 09:13:31+00:00
-lastmod: 2026-09-11 09:13:31+00:00
+lastmod: 2026-11-19 02:55:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,7 +136,7 @@ The four positions converge on a structural frame in which agents matter irreduc
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The pragmatist family requires agents and none explains them. Under Tenet 1 this is a vindication: any physics that places irreducible agents at its foundation is registering the very irreducibility dualism asserts. QBism's primitive agents are dualism's unexplored territory.
+**[Dualism](/tenets/#dualism)**: The pragmatist family requires agents and none explains them. Under Tenet 1 the Map reads this as congenial and no more: an unexplained primitive is not by itself evidence of irreducibility, and a pragmatist who declines the dualist gloss keeps the same agents. QBism's primitive agents are territory the Map's dualism would want explored.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Stapp's Zeno mechanism is the nearest pragmatist relative rather than an implementation — Process-1 question-choice and timing shape quantum dynamics without energy injection, but the outcome-selection the tenet asserts is left to nature. QBism's normative Born rule, read through the interface hypothesis, is compatible. Healey and Brukner-Zeilinger are neutral. QBism's anti-realism about quantum states creates productive tension — QBism argues that quantum mechanics requires agents; the Map specifies what agents contribute.
 

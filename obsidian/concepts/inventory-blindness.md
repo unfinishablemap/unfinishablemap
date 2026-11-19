@@ -2,9 +2,9 @@
 title: "Inventory Blindness"
 description: "Human+AI analysis of inventory blindness—the epistemic condition where absent cognitive capabilities produce no signal, making it impossible to survey what your mind cannot do."
 created: 2026-03-22
-modified: 2026-05-19
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-11T15:22:05+00:00
+ai_modified: 2026-11-19T02:53:19+00:00
 last_deep_review: 2026-09-10T21:51:26+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-03-22
 last_curated:
 ---
@@ -100,9 +100,9 @@ Because the null observation carries no weight, the framework's testable content
 
 Inventory blindness engages the Map's [[tenets]] at a fundamental level.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives its most direct mechanistic support from inventory blindness. Parsimony selects among *conceived* alternatives. If inventory blindness ensures that our conceptual inventory is incomplete in ways we cannot detect, then the simplest conceived explanation may be simple only because the true explanation lies outside our inventory. The apparent parsimony of materialism about consciousness could reflect a blind spot rather than a genuine insight: if the concepts that would expose an inadequacy are missing, physicalism will feel simpler whether or not it is, and the feeling is no guide either way. That withdraws a warrant from the parsimony argument. It supplies no evidence that the missing concepts exist.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** has its most direct mechanistic illustration in inventory blindness. Parsimony selects among *conceived* alternatives. If inventory blindness ensures that our conceptual inventory is incomplete in ways we cannot detect, then the simplest conceived explanation may be simple only because the true explanation lies outside our inventory. The apparent parsimony of materialism about consciousness could reflect a blind spot rather than a genuine insight: if the concepts that would expose an inadequacy are missing, physicalism will feel simpler whether or not it is, and the feeling is no guide either way. That withdraws a warrant from the parsimony argument. It supplies no evidence that the missing concepts exist.
 
-**[[tenets#^dualism|Dualism]]** gains indirect support. If inventory blindness is real and pervasive, dismissing dualism on grounds of parsimony becomes unreliable. The non-physical aspects of reality that dualism posits might be precisely the kind of thing a physically-evolved cognitive system would be inventory-blind to — properties that produce no signal in minds built to navigate a physical environment.
+**[[tenets#^dualism|Dualism]]** gains no support; a defeater is removed. If inventory blindness is real and pervasive, dismissing dualism on grounds of parsimony becomes unreliable, which leaves the evidence for dualism where it was ([[positions/methodology-and-calibration#^p-m1|P-M1]]). The non-physical aspects of reality that dualism posits might be precisely the kind of thing a physically-evolved cognitive system would be inventory-blind to — properties that produce no signal in minds built to navigate a physical environment.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the Recognition Void. If what you recognise something *as* partly determines your physical response, and recognition itself is subject to inventory blindness, then the causal role of consciousness operates partly in a domain we cannot fully survey.
 

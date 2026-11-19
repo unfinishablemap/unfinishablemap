@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-24 14:17:06+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-11-19 02:54:17+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/minimal-consciousness/
@@ -28,7 +28,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[working-memory]]'
 created: 2026-01-19
-date: &id001 2026-08-19
+date: &id001 2026-11-19
 description: 'From nematodes to slime molds: where does consciousness begin? The distribution
   puzzle may have no principled answer if mind interfaces with matter rather than
   emerging from it.'
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 13:33:01+00:00
-lastmod: 2026-09-24 14:17:06+00:00
+lastmod: 2026-11-19 02:54:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -252,7 +252,7 @@ The Map's perspective on minimal consciousness would be undermined if:
 
 ## Relation to Site Perspective
 
-**Dualism**: Simple organism research supports dualism by showing the hard problem is scale-independent. If we cannot explain how human neural activity produces experience, we cannot explain it for nematodes either. The explanatory gap exists at every complexity level—exactly what dualism predicts if consciousness is irreducible to physical processes.
+**Dualism**: Simple organism research shows the hard problem is scale-independent, which fits dualism without supporting it. If we cannot explain how human neural activity produces experience, we cannot explain it for nematodes either. A gap at every level is what dualism expects and what McGinn's cognitive closure predicts.
 
 **Minimal Quantum Interaction**: The presence of neurons (and microtubules) in all organisms from *C. elegans* upward provides substrate for quantum-level interface mechanisms. Slime mold cognition without neurons challenges this picture but may simply show that cognition and consciousness can dissociate—information processing without experience.
 

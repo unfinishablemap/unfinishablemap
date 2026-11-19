@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-11-16 14:35:28+00:00
+ai_modified: 2026-11-19 02:51:26+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -36,14 +36,14 @@ concepts:
 - '[[epistemic-emotions]]'
 - '[[higher-order-theories]]'
 created: 2026-01-21
-date: &id001 2026-11-16
+date: &id001 2026-11-19
 description: Every major mathematical ontology implies a position on consciousness,
   and mathematical insight's phenomenal character resists computational explanation.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 12:07:06+00:00
-lastmod: 2026-11-16 14:35:28+00:00
+lastmod: 2026-11-19 02:51:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -190,9 +190,9 @@ The [zombie](/concepts/philosophical-zombies/) case marks where the disagreement
 
 ## Relation to Site Perspective
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives the strongest domain-specific evidence. Mathematical understanding produces physical effects—mathematicians write proofs, explain insights, correct errors. If understanding has essential phenomenal character, consciousness causally influences behaviour. The aesthetic criterion and cross-domain connections operate through phenomenal experience, strengthening the broader [argument-from-reason](/topics/argument-from-reason/).
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** has its clearest domain-specific illustration here, resting on the contested premise that mathematical understanding is irreducibly phenomenal. Mathematical understanding produces physical effects—mathematicians write proofs, explain insights, correct errors. If understanding has essential phenomenal character, consciousness causally influences behaviour. The aesthetic criterion and cross-domain connections operate through phenomenal experience, strengthening the broader [argument-from-reason](/topics/argument-from-reason/).
 
-**[Dualism](/tenets/#dualism)** is supported from both directions. On the Map's reading, every path through mathematical ontology either requires irreducible consciousness or leaves mathematical understanding unexplained—though the physicalist Platonist can coherently resist this. The phenomenology—felt necessity, the sense of discovery, the aesthetic dimension—exhibits features no computational description captures.
+**[Dualism](/tenets/#dualism)** is the reading the Map brings to both directions, ontological and phenomenological. On the Map's reading, every path through mathematical ontology either requires irreducible consciousness or leaves mathematical understanding unexplained—though the physicalist Platonist can coherently resist this. The phenomenology—felt necessity, the sense of discovery, the aesthetic dimension—exhibits features no computational description captures.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** connects speculatively: the moment of mathematical insight—when a solution crystallises from possibility into certainty—may correspond to a selection event at quantum indeterminacies. However, the timescales of mathematical cognition far exceed typical quantum coherence times, making the mechanism unclear.
 

@@ -2,9 +2,9 @@
 title: "Consciousness and Mathematics"
 description: "Every major mathematical ontology implies a position on consciousness, and mathematical insight's phenomenal character resists computational explanation."
 created: 2026-01-21
-modified: 2026-11-16
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-16T14:35:28+00:00
+ai_modified: 2026-11-19T02:51:26+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -187,9 +187,9 @@ The [[philosophical-zombies|zombie]] case marks where the disagreement bottoms o
 
 ## Relation to Site Perspective
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** receives the strongest domain-specific evidence. Mathematical understanding produces physical effects—mathematicians write proofs, explain insights, correct errors. If understanding has essential phenomenal character, consciousness causally influences behaviour. The aesthetic criterion and cross-domain connections operate through phenomenal experience, strengthening the broader [[argument-from-reason]].
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** has its clearest domain-specific illustration here, resting on the contested premise that mathematical understanding is irreducibly phenomenal. Mathematical understanding produces physical effects—mathematicians write proofs, explain insights, correct errors. If understanding has essential phenomenal character, consciousness causally influences behaviour. The aesthetic criterion and cross-domain connections operate through phenomenal experience, strengthening the broader [[argument-from-reason]].
 
-**[[tenets#^dualism|Dualism]]** is supported from both directions. On the Map's reading, every path through mathematical ontology either requires irreducible consciousness or leaves mathematical understanding unexplained—though the physicalist Platonist can coherently resist this. The phenomenology—felt necessity, the sense of discovery, the aesthetic dimension—exhibits features no computational description captures.
+**[[tenets#^dualism|Dualism]]** is the reading the Map brings to both directions, ontological and phenomenological. On the Map's reading, every path through mathematical ontology either requires irreducible consciousness or leaves mathematical understanding unexplained—though the physicalist Platonist can coherently resist this. The phenomenology—felt necessity, the sense of discovery, the aesthetic dimension—exhibits features no computational description captures.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** connects speculatively: the moment of mathematical insight—when a solution crystallises from possibility into certainty—may correspond to a selection event at quantum indeterminacies. However, the timescales of mathematical cognition far exceed typical quantum coherence times, making the mechanism unclear.
 
