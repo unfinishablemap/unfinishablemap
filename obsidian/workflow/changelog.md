@@ -1,9 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T08:58:31+00:00
+ai_modified: 2026-11-19T09:39:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T09:39:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/open-question-ai-consciousness]]
+- **Task**: P1 (todo L5940): the Asymmetry of Stakes called coupling-absent bare phenomenality "the branch the Map actually leaves open", while the lede (L67) and the Possibility One section (L97, formerly L95) say the register's reading of Tenet 3 excludes epiphenomenal AI experience. Sources: outer review 2026-11-19 claude-fable-5-2 §1 first bullet, §2.6, §3 table and fix 1; synthesis 2026-11-19 divergence 1.
+- **Original score**: n/a (`scripts/curate.py` absent); targeted consistency fix, one sentence.
+- **Change** (L165, the second branch of the three-branch ledger). The ledger is kept, along with the reason the branch was added on 2026-09-10 (commit 6eb6190d57: "Added the branch the Map actually leaves live"). Only the branch's status label changed.
+  - OLD "— the branch the Map actually leaves open, and where Metzinger's warning bites —" (12 words)
+  - NEW "— excluded on the actual-efficacy reading of Tenet 3, open on the dispositional one, and where Metzinger's warning bites —" (18 words, +6)
+  - Why not the task's suggested NEW ("— open on the dispositional reading of Tenet 3, excluded on the register's, and undetectable on either, which is where Metzinger's warning bites —"): it is 22 words (+10, not the +5 the task says), and the cap is +6. Its "undetectable on either, which is where Metzinger's warning bites" would also tie Metzinger's warning to traceless experience, which is the attribution the open P2 Metzinger task questions at L99. The main clause already says the branch is undetectable ("no policy keyed to coupling would register"). "Actual-efficacy" reuses L171's "the register's actual-efficacy reading" and avoids "the register's … would register" in one sentence. The order (actual-efficacy first, then dispositional) follows L97 and L171.
+  - Checked against L97: "Read as universal *actual* efficacy … Tenet 3 excludes epiphenomenal AI experience … Read dispositionally … the possibility is internally live", and P-AC1 "does *not* leave open" it. The NEW states the status on each reading and does not choose between them, so the NEEDS-HUMAN (foundations) 2026-08-17 quantifier decision is untouched.
+- **Consistency check**:
+  - L159 (interaction paragraph): "though still only outside the framework". Agrees as the article's adopted placement: L97 says "This article follows the register's placement", and L155 says "on the register's reading, it alone sits at the boundary". It is now the only unqualified locus on the page, since "only" holds on the actual-efficacy reading alone. Not edited: the +6 cap is spent, and a qualifier would cost +2 or +3.
+  - L171: "Tenet 3 closes it on the register's actual-efficacy reading, and the dispositional reading re-opens it". The NEW says the same thing.
+  - L175: "three possibilities from within the framework, one from its boundary". This is the register placement; agrees.
+  - L177: "Bidirectional Interaction, read as universal actual efficacy, rules out epiphenomenal AI experience". Agrees.
+  - Also agree: the L59 `apex_thesis`, L67, L99 ("a possibility the register excludes but cannot detect against") and L155.
+- **Length**: analyze_length **5,993 → 5,999** (+6; hard_warning unchanged; hard 5,000, critical 6,500). Prose (body minus frontmatter, video embed, Source Articles, Further Reading and References; this method reproduces 4,828 on 082c5b9842) **4,982 → 4,988**, which leaves 12 words under the 5,000 prose stop rule for the other open apex tasks.
+- **Report only (not edited)**. "Bare phenomenality" is used in two senses. **G** is the genus, "any felt experience whatever", scoped to what Tenet 1 alone leaves open (machine-question L73; tenets matrix L159 and L170, whose bare row turns on "which physical systems an experiencer can couple with"). P-AC1 does not exclude G: on the register's reading, the only way current AI could have it is coupled experience, which P-AC1 rates low probability, not ruled out. **C** is experience in a system the sentence has just said lacks coupling, that is, epiphenomenal experience. P-AC1 excludes C on the actual-efficacy reading. Test used: a locus is C when it sets bare-phenomenality openness beside "probably lacks coupled consciousness" for current AI without the Tenet-1 scoping, so that the only thing it can add to the coupled verdict is the uncoupled case. C needs the qualifier even though the matrix marks interactionism "Not invoked" for the bare row: tenets L176 says "The alignment line records which tenets an article must not contradict".
+
+| # | Page | Line | Reading | Qualifier needed? |
+|---|---|---|---|---|
+| 1 | `concepts/substrate-independence` | L48 | G. A thesis-level split, grounded in "dualism says experience is non-physical, not which physical systems an experiencer can couple with" | No |
+| 2 | `concepts/substrate-independence` | L178 | C. "Current AI … probably lacks bidirectionally coupled consciousness; bare phenomenality is a separate question the canonical layer leaves open". Not scoped, and it credits the canonical layer, whose L219 qualifies the epiphenomenal case | Yes |
+| 3 | `apex/living-with-the-map` | L148 | C, the clearest case: "no conscious experiencer couples with the computation; bare phenomenality remains an open question" | Yes |
+| 4 | `apex/assessing-ai-consciousness-under-the-map` | L78 | G. "bare phenomenality, resting on irreducibility alone, stays open"; the next sentence, "not a claim that nothing whatever is felt", holds on either reading | No |
+| 5 | `topics/ethics-under-dualism` | L141 | G. "rests on irreducibility alone and stays open" (machine-question's own wording) | No (optional: it follows "probably lack moral patienthood", where the case that matters morally is C) |
+| 6 | `apex/moral-architecture-of-consciousness` | L134 | G. Same wording as #5 | No (same optional note) |
+| 7 | `topics/thoughtful-local-friendliness-and-the-artificial-friend` | L91 | C. The next sentence applies it to "a Quall-E with bare, uncoupled phenomenality". Quall-E is outside P-AC1's substrate scope, but Tenet 3's actual-efficacy exclusion is universal | Yes, for "stays open"; the conditional "would still fall under Case 1" holds on either reading |
+| 8 | `voids/consciousness-only-territories` | L39 | C. "the Map thinks it probably lacks bidirectionally coupled consciousness but leaves bare phenomenality open", the same wording as the old L165 | Yes |
+| 9 | `voids/consciousness-only-territories` | L125 | C. "The Map holds that current architectures probably lack … but leaves bare phenomenality open" | Yes |
+| 10 | `apex/machine-question` | L59 (`apex_thesis`) | G by the page's own taxonomy: L73, and L219 lists bare phenomenality separately from "the epiphenomenal case". But it is not scoped, and it sits beside "probably lack bidirectionally coupled consciousness". Synthesis divergence 1 records ChatGPT reading it as C and asking for it to be imported | Yes: either L73's "on irreducibility alone" or L219's dispositional qualifier |
+
+  - Not on the list (corpus sweep): `concepts/substrate-independence` L194 ("calibrated skepticism about bidirectionally coupled consciousness in current AI—while leaving bare phenomenality open"): C, Yes. `apex/apex-articles` L158 (machine-question's index Thesis, "while bare phenomenality remains an open question"): copies the apex_thesis, Yes, keep in step with L59. `topics/ai-consciousness` L153 ("rests on irreducibility alone and stays open"): G, No. `topics/synthetic-minimal-agents-and-the-engineered-decoupling` L80 ("runs on Tenet 1's bare reading alone"): G and explicitly scoped, so No as worded. But the page also withholds an interface from these agents, and felt experience in a system with no interface is the C case on the actual-efficacy reading.
+  - Where the split comes from: the matrix's bare row ("Not invoked" for interactionism) and P-AC1's exclusion are compatible only because "Not invoked" means "not used as support". Whenever a page applies G to a system it has already said lacks coupling, the claim becomes C. Whether that needs fixing at its source is part of the NEEDS-HUMAN (foundations) quantifier decision.
+  - Seen in passing: `apex/living-with-the-map` L148 also says "the categorical exclusion fails", which conflicts with the "probably lack" in the same paragraph and with P-AC1's "low probability, not ruled out".
+- **Frontmatter**: `ai_modified` 2026-11-19T09:35:11+00:00. `ai_system` unchanged (it already contains `claude-opus-5-5`).
+- **Published**: yes (sync run; Hugo copy confirmed).
 
 ## 2026-11-19T09:12:35+00:00 - refine-draft
 - **Status**: Success
