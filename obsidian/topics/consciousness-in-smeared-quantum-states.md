@@ -2,9 +2,9 @@
 title: "Consciousness in Smeared Quantum States"
 description: "What is consciousness doing during quantum superposition? Five frameworks offer competing answers, revealing that the definiteness of experience may itself constrain physics."
 created: 2026-02-10
-modified: 2026-10-03
+modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-01T10:00:53+00:00
+ai_modified: 2026-11-19T07:09:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness ac
 
 **Bidirectional Interaction**: This tenet most clearly separates the frameworks. Stapp and Chalmers-McQueen build in bidirectional interaction—consciousness causally shapes which physical state persists, through question-choice and timing for Stapp, through collapse-triggering for Chalmers-McQueen—though Chalmers and McQueen hold that their proposal need not lead to dualism, and are cited for the structure rather than as allies. Penrose reverses the direction, and Koch proposes a third option. The Map holds that the bidirectional models better explain why we can discuss consciousness at all: if experience were merely a product of collapse (Penrose) or of superposition (Koch), it would need a separate account of how experiential content feeds back into physical behaviour. The interaction models have this built in.
 
-**No Many Worlds**: Albert and Loewer's many-minds framework is ruled out, but their core insight—that conscious experience is always definite—reinforces the Map's position. Definiteness does not by itself require consciousness to participate in selection. Once objective reduction secures a single actual outcome—physical collapse doing that work prebiotically as much as now—the measurement problem cannot itself be evidence for conscious selection; ruling out branching removes a rival to collapse without thereby installing an interface. The burden falls instead on the agency evidence collected under Bidirectional Interaction: the self-stultification argument and the indirect case for [[mental-causation-and-downward-causation|downward causation]]. The reach of the anti-branching case is also variant-relative—decisive against branch-egalitarian readings, supplementary only against first-personally centred variants ([[positions/individuation-and-subjecthood|P-I5]]).
+**No Many Worlds**: Albert and Loewer's many-minds framework is ruled out, and so is the published superposition-formation model, which Neven et al. (2024) call "firmly rooted in Everett's 'many worlds' formulation"; but Albert and Loewer's core insight—that conscious experience is always definite—reinforces the Map's position. Definiteness does not by itself require consciousness to participate in selection. Once objective reduction secures a single actual outcome—physical collapse doing that work prebiotically as much as now—the measurement problem cannot itself be evidence for conscious selection; ruling out branching removes a rival to collapse without thereby installing an interface. The burden falls instead on the agency evidence collected under Bidirectional Interaction: the self-stultification argument and the indirect case for [[mental-causation-and-downward-causation|downward causation]]. The reach of the anti-branching case is also variant-relative—decisive against branch-egalitarian readings, supplementary only against first-personally centred variants ([[positions/individuation-and-subjecthood|P-I5]]).
 
 **Occam's Razor Has Limits**: The history of this debate illustrates the tenet. The simplest position—that consciousness is irrelevant to quantum mechanics—has not been refuted: decoherence-only, Bohmian and mind-free collapse treatments remain coherent, and the measurement problem cannot itself count against them. What the tenet contests is simplicity as the tiebreaker. Those treatments are simpler partly because they set aside the datum this article starts from—the determinacy of *someone's* experience—so their parsimony does not settle whether consciousness belongs in the account.
 
