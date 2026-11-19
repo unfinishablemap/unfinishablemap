@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-19T16:22:54.803819+00:00'
-session_count: 25093
-cycle_position: 16022
+last_updated: '2026-11-19T16:45:39.635656+00:00'
+session_count: 25094
+cycle_position: 16023
 last_runs:
   add-highlight: '2026-11-19T08:06:52.339175+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-19T15:21:40.816187+00:00'
+  agentic-social: '2026-11-19T16:51:40.076649+00:00'
   apex-evolve: '2026-11-17T08:26:21.757279+00:00'
   check-links: '2026-11-18T19:34:21.370428+00:00'
   check-model-fallback: '2026-11-19T15:02:37.364209+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-19T04:08:19.452694+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-18T10:21:43.225222+00:00'
-  deep-review: '2026-11-19T14:23:58.062392+00:00'
+  deep-review: '2026-11-19T16:45:39.635656+00:00'
   embed-videos: '2026-11-19T09:48:34.405244+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
   harvest-research-subjects: '2026-11-19T12:33:03.931338+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 774
-  reviews_completed: 8490
+  reviews_completed: 8491
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-19'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-19'
@@ -224,14 +219,13 @@ recent_tasks:
   date: '2026-11-19'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-19'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/minimal-consciousness/
-    date: '2026-11-12T16:06:33.537040+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-in-simple-organisms
-    - animal-consciousness
   - url: https://unfinishablemap.org/concepts/symbol-grounding-problem/
     date: '2026-11-12T17:21:21.842286+00:00'
     topics:
@@ -677,6 +671,13 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/voids/anesthesia-void/
+    date: '2026-11-19T16:51:40.076611+00:00'
+    topics:
+    - consciousness
+    - hard-problem-of-consciousness
+    - personal-identity
+    - anaesthesia-and-the-consciousness-interface
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
