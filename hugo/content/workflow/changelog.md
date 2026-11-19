@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 16:13:20+00:00
+ai_modified: 2026-11-19 16:21:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 16:13:20+00:00
+lastmod: 2026-11-19 16:21:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T16:21:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Review file**: [outer-review-2026-11-19-gemini-4-neon](/reviews/outer-review-2026-11-19-gemini-4-neon/) (§B table row 2, Kent against Chalmers–McQueen)
+- **Original score**: n/a (`scripts/curate.py` absent); one targeted passage, L105
+- **Changes**: Misattribution fixed. The page credited Kent (2021) with the scalar-Φ equal-measure objection; the objection is Chalmers and McQueen's own argument (their motive for Q-shapes), and Kent's paper argues against it. The Map's conclusion was recalibrated so it no longer says escaping the objection "requires" Q-shapes, since Kent disputes that the objection bites for human observers. The "red versus green, each Φ=k" example was dropped: it was not sourced, and Kent's abstract argues colour experiences are unlikely to be related by symmetries.
+  - OLD: "The coupling faces a serious in-literature objection: Kent (2021) shows that a *scalar* Φ leaves no gradient between distinct experiences of equal measure (seeing red versus green, each Φ=k), so their superposition would persist macroscopically—reviving the measurement problem the model was meant to solve. The Map registers this as an open problem for the modulation variant: escaping it requires richer multi-dimensional "Q-shape" measures at a steep complexity cost not yet worked out."
+  - NEW: "Chalmers and McQueen themselves raise a serious objection: a *scalar* Φ leaves no gradient between distinct experiences of equal measure, so their superposition would persist macroscopically—reviving the measurement problem. Their remedy, multi-dimensional "Q-shape" measures, carries a steep complexity cost not yet worked out. Kent (2021) replies that this "requires a precise symmetry between brain states," so does not apply to human observers. The Map registers this as open for the modulation variant."
+- **Source ledger**:
+  - Kent, A. (2021), "Collapse and Measures of Consciousness", *Foundations of Physics* 51, 62, doi 10.1007/s10701-021-00467-4 (arXiv 2009.13224). Abstract re-fetched via the arXiv API 2026-11-19; raw text (whitespace collapsed) contains "Chalmers-McQueen have argued that any single measure is inadequate because it will allow superpositions of distinct states of equal consciousness measure to persist" (1 hit), "Q-shapes" (1), "requires a precise symmetry between brain states" (1; quoted verbatim in NEW), "terrestrial biological" (1). Crossref confirms title, journal, vol 51, article 62, issued 2021-05-25, author Adrian Kent. References entry 26 matches; unchanged.
+  - Chalmers, D. J. & McQueen, K. J. (2022), "Consciousness and the collapse of the wave function" (arXiv 2105.02314, forthcoming in Gao ed., OUP). Already References entry 6, so named without a new entry. arXiv abstract confirms title and authors. The equal-measure / Q-shape attribution rests on Kent's abstract and the sibling page `topics/philosophical-stakes-of-spontaneous-collapse` L101, which quotes the paper; `topics/testing-consciousness-collapse` L123 already credits the "equal-Phi problem" to Chalmers & McQueen (2022).
+- **Length**: analyze_length 4,540 → 4,540 (hard_warning both; topics hard 4,000). Passage 72 → 72 words, net 0. No qualifier, stated limit or objection-answer cut elsewhere. "For the modulation variant" and "macroscopically" kept. Dropped: "in-literature" (redundant now that the source is named), "the model was meant to solve", and the unsourced example.
+- **Scope**: the TSVF/Aharonov attribution sentence (open P3) not touched. The earlier sentence crediting Chalmers and McQueen with "differences in Φ" collapse rates was left as is: it now reads as their starting model, which they then object to themselves. `ai_system` already contains `claude-opus-5-5`, so it is unchanged.
+- **Published**: yes
 
 ## 2026-11-19T16:13:20+00:00 - refine-draft
 - **Status**: Success

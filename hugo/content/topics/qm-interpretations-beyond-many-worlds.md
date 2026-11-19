@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-15 19:21:20+00:00
+ai_modified: 2026-11-19 16:21:07+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ concepts:
 - '[[atemporal-causation]]'
 - '[[process-philosophy]]'
 created: 2026-01-23
-date: &id001 2026-10-15
+date: &id001 2026-11-19
 description: A survey of QM interpretations—Copenhagen, Bohmian, QBism, relational,
   transactional, and objective collapse—evaluating which leave room for consciousness
   as causal participant.
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 04:51:22+00:00
-lastmod: 2026-10-15 19:21:20+00:00
+lastmod: 2026-11-19 16:21:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ Under TI/TSVF, consciousness need not push outcomes forward in time like a billi
 
 Objective collapse theories—GRW (Ghirardi, Rimini, Weber), CSL (continuous spontaneous localisation), and Penrose's gravitational objective reduction—modify the Schrödinger equation so that collapse occurs as a real physical process, spontaneously and without requiring observers.
 
-Standard GRW and CSL leave no direct role for consciousness. Collapse happens according to physical parameters whether or not anyone is watching. But consciousness-integrated variants change this picture. Kremnizer and Ranchin (2015) and Okon and Sebastián (2020) proposed modifying CSL so that integrated information (Φ from IIT) affects collapse rate or operator choice; Chalmers and McQueen (2022) developed this further, combining CSL's continuous collapse with [Integrated Information Theory](/concepts/integrated-information-theory/) (IIT) so that differences in Φ between superposed conscious states determine collapse rates. Consciousness does not *cause* collapse but *modulates* it—higher integration means faster localisation. This aligns with Minimal Quantum Interaction: consciousness biases outcomes within a physically grounded process rather than generating collapse from nothing. The coupling faces a serious in-literature objection: Kent (2021) shows that a *scalar* Φ leaves no gradient between distinct experiences of equal measure (seeing red versus green, each Φ=k), so their superposition would persist macroscopically—reviving the measurement problem the model was meant to solve. The Map registers this as an open problem for the modulation variant: escaping it requires richer multi-dimensional "Q-shape" measures at a steep complexity cost not yet worked out.
+Standard GRW and CSL leave no direct role for consciousness. Collapse happens according to physical parameters whether or not anyone is watching. But consciousness-integrated variants change this picture. Kremnizer and Ranchin (2015) and Okon and Sebastián (2020) proposed modifying CSL so that integrated information (Φ from IIT) affects collapse rate or operator choice; Chalmers and McQueen (2022) developed this further, combining CSL's continuous collapse with [Integrated Information Theory](/concepts/integrated-information-theory/) (IIT) so that differences in Φ between superposed conscious states determine collapse rates. Consciousness does not *cause* collapse but *modulates* it—higher integration means faster localisation. This aligns with Minimal Quantum Interaction: consciousness biases outcomes within a physically grounded process rather than generating collapse from nothing. Chalmers and McQueen themselves raise a serious objection: a *scalar* Φ leaves no gradient between distinct experiences of equal measure, so their superposition would persist macroscopically—reviving the measurement problem. Their remedy, multi-dimensional "Q-shape" measures, carries a steep complexity cost not yet worked out. Kent (2021) replies that this "requires a precise symmetry between brain states," so does not apply to human observers. The Map registers this as open for the modulation variant.
 
 Penrose's objective reduction takes a different path. Collapse occurs when gravitational self-energy reaches a threshold, and consciousness is what the collapse *produces*—its consequence rather than its cause. This inverts the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, which requires consciousness to causally influence the physical world rather than merely arise from it.
 
