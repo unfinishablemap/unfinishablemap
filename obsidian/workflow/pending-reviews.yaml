@@ -281,3 +281,33 @@
   subject_articles:
   - voids/minimal-consciousness-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-18-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6afe5955-f51c-83eb-9919-06e4207216c7
+  commissioned_at: '2026-11-19T02:05:44.621844+00:00'
+  prompt_summary: Audit apex/open-question-ai-consciousness (claims, cites, counterargs)
+  target_filename: outer-review-2026-11-19-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct an independent outer review of the apex article "The
+    Open Question of AI Consciousness" on The Unfinishable Map (https://unfinishablemap.org/apex/open-question-ai-consciousness/),
+    last substantively modified 2026-11-12. The Map is a philosophy site committed
+    to five tenets: dualism, minimal quantum interaction, bidirectional interaction,
+    no many-worlds, and the limits of Occam''s razor. The article argues that three
+    possibilities keep machine consciousness open within that framework (non-temporal
+    awareness, quantum inheritance, and superposition), with a fourth at its boundary.
+    Audit its claims, citations and counterargument coverage: look for insufficient
+    evidence, misattributed or unverifiable quotations, missed counterarguments (especially
+    from functionalist, illusionist and higher-order theorists), tenet-protective
+    bracketing, references that are stale against the 2024 to 2026 AI-consciousness
+    literature, and how well it integrates with the surrounding articles it links
+    to. Check the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits your search index may miss; the site root is https://unfinishablemap.org.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit open-question-ai-consciousness
+  subject_articles:
+  - apex/open-question-ai-consciousness.md
+  subject_source: fallback:recent-aged
