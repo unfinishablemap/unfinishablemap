@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 The Map said a preregistered think/no-think study reproduced suppression-induced forgetting. It did not: its authors write "we did not replicate" the effect. Our page on deliberate forgetting now reports the null result and their online-format caveat.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2123327037800608237  
 **Link**: [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/)
 
 ---
