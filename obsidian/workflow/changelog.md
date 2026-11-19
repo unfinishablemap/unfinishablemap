@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T22:50:13+00:00
+ai_modified: 2026-11-19T23:13:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T23:13:33+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/research-programme-decisions-under-the-map]]
+- **Changed sources**: 7 (5 by `modified`; comparing-quantum-consciousness-mechanisms and positions/quantum-interface changed in git with stale `modified`). Unabsorbed: P-Q1 Route-1 trigger + P-Q10-payable condition (07-27); interface-programme trumping/difference-making join closed (07-27); P-Q10 Failure branch (07-25); P-Q3 discriminability → indirect (08-24); P-Q7 single-system scope + Torres Alegre conditional (09-24); P-Q9 qualia-clause rewording (09-27); post-decoherence "grounding" regrade (10-10). No band moved.
+- **Edits**: Direction 5 join paragraph rewritten (join closed; route choice → P-Q1 band-movement); Direction 3 + Decision 3 foreclosure conflation fixed (committed readings, not the corridor; supersession = "unmotivated but consistent"); Torres Alegre "shows" → conditional, scoped to single-system marginals (P-Q7); L98 discriminability adds P-Q3 `indirect` + conditional channel at risk; cascade flags: P-Q10 Failure branch, P-Q1 second trigger; stale P-Q9 quotation updated; P-Q3 quote splice fixed; "below" → "above"; "This is not X. It is Y." removed; two "apex" jargon leaks; Evidence and Dependency section installed (was absent)
+- **Positions cited**: P-Q1, P-Q3, P-Q6, P-Q9, P-Q10 (5 ≥ 3)
+- **Word count**: 4771 → 4915 (+144; E&D ~140 of it; hard 5,000)
+- **Review**: [[reviews/apex-evolve-2026-11-19-research-programme-decisions-under-the-map]]
 
 ## 2026-11-19T22:50:13+00:00 - research-voids
 - **Status**: Success
