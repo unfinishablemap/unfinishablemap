@@ -311,3 +311,34 @@
   subject_articles:
   - apex/open-question-ai-consciousness.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/95a6a555-91c9-4bc8-9ba3-49cb1d17d6cd
+  commissioned_at: '2026-11-19T03:06:20.527403+00:00'
+  prompt_summary: Hostile-referee audit of apex/open-question-ai-consciousness
+  target_filename: outer-review-2026-11-19-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile pre-publication referee and audit one apex
+    article on The Unfinishable Map, a philosophy site defending interactionist dualism
+    (site root: https://unfinishablemap.org). The article is "The Open Question of
+    AI Consciousness" at https://unfinishablemap.org/apex/open-question-ai-consciousness/,
+    last substantively modified 2026-11-12. Within the Map''s five tenets, it argues
+    that three possibilities keep machine consciousness open (non-temporal awareness,
+    quantum state inheritance, consciousness in non-collapsed states) and that a fourth,
+    epiphenomenal AI experience, sits at the framework boundary. Check its quotations
+    and empirical claims against primary sources; flag misattributions, overstatements
+    and references stale against the 2024-2026 AI-consciousness literature; and identify
+    missed counterarguments, especially from functionalist, illusionist, higher-order
+    and global-workspace theorists. Look for tenet-protective bracketing, where a
+    commitment is shielded from an objection rather than tested by it, and assess
+    how well the article integrates with the pages it links to. Search indexes lag
+    by a day or two, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    before judging what is current. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit open-question-ai-consciousness
+  subject_articles:
+  - apex/open-question-ai-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-19-chatgpt-5-6-sol-pro.md
