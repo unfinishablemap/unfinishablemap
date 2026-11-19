@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T18:44:24+00:00
+ai_modified: 2026-11-19T19:50:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-19T19:50:11+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Howell's subjective physicalism as a test case for the disguised-property-dualism diagnostic
+- **Output**: [[research/howell-subjective-physicalism-2026-11-19]]
+- **Sources consulted**: 9 read (Howell 2007 *Phil Studies*, 2009 *Noûs*, 2009 *AJP* abstract, 2015 *PQ*, 2015 *Phil Compass*; Brown 2014 NDPR; McClelland 2014 JCS accepted MS; Crossref book and PQ metadata); 7 leads unread (the 2013 book, Howell 2008a/2008b, Alter & Howell 2009/2015, Alter 2023, Alter & Coleman 2021 full text)
+- **Verdict**: `fold` (concepts 370/370). Primary host `concepts/objectivity-and-consciousness` (2,715; +300–380); secondary `concepts/quiddity-epiphenomenalism-and-the-contingency-thesis` (2,547; +150–200, including an attribution fix); DPD Further Reading line only (3,443; ≤ +20)
+- **Map quote check**: all four Howell (2015 PQ) quotations on the quiddity page verbatim; the third cost bullet's collapse reasoning is not in Howell's paper (answers half of the 2026-09-08 deep review's L106 question)
 
 ## 2026-11-19T18:44:24+00:00 - deep-review
 - **Status**: Success
