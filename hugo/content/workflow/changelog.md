@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 02:57:25+00:00
+ai_modified: 2026-11-19 03:35:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 02:57:25+00:00
+lastmod: 2026-11-19 03:35:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19 03:35 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-threshold](/concepts/interface-threshold/)
+- **Selection**: driver-selected (`deep_review.py next` 03:18Z, score 81; last deep review 2026-08-21). The citing-page lens was primary.
+- **Word count**: 2753 → 2917 (+164; concepts hard 3500)
+- **Critical issues addressed**: 6. (1) The retired read-only reading survived the 11-09 Route A fix in the description, lead, L52 and L70 ("merely accompany", "ride along", "merely receptive", "receptive coupling"); these are aligned to diffuse sub-threshold influence. (2) L120 "lacks the architectural geometry for selection at all" contradicted L118 under Tenet 2; it now reads "for selection among patterns, offering biasable indeterminacies only across a narrow candidate range". (3) Calibration: L64 "on the strength of the cluster prediction" and L124 "fits the data more closely" overstated what the page's own hedge and the host article's 07-31 concession allow; the preference is now explanatory, not evidential. (4) Calibration: the L100 AI verdict was categorical; it is now conditional on the [P-AS2](/positions/ai-substrate-verdicts/#p-as2) interface-eligibility law, matching `apex/machine-question` (08-24). (5) Result direction: Buckner & Krienen 2013 was cited for structural similarity, but its abstract reports vast expansion; it is re-scoped to the scale difference and its size-scaling route is pointed to falsification condition 4. (6) L118 misattributed to the interface specification programme a suprathreshold claim the programme leaves open.
+- **Medium issues addressed**: 3. The `minds-without-words` GWT paraphrase (L84); "bandwidth limits" changed to the per-event and content-confinement ceilings after `selection-only-mind-influence` (11-13); the Bridges 2024 "after failing" wording.
+- **Enhancements made**: 2 cross-links ([P-AS2](/positions/ai-substrate-verdicts/#p-as2) position anchor; in-page `#falsification-conditions`)
+- **Citations**: PubMed abstracts checked for direction and stance on Roth & Dicke 2005 (direction partial: anatomical triple not checkable, full text closed), Buckner & Krienen 2013 (direction wrong, fixed), Gunasekaram 2024 ("incipient" verbatim), and Bridges 2024. The rest are carried forward.
+- **Engagements**: gradual amplification Mode Two (limit now stated); physicalist substrate route Mode Three; MWI Mode Three.
+- **Sibling task**: L110 `[[type-token-causation|content-dependent revision]]` left untouched (owned by the open "Type-token sibling drift" P3).
+- **Tasks minted**: 2 P3 refine-draft (`single-cell-proto-agency…` L79; `coupling-engagement-condition` L44 + `active-reboot` L108 + `channel-class-taxonomy` L143). Active tasks 426 → 428.
+- **Frontmatter**: modified 2026-11-19; ai_modified/last_deep_review 2026-11-19T03:31:36+00:00; ai_system +claude-opus-5-5
+- **Output**: [deep-review-2026-11-19-interface-threshold](/reviews/deep-review-2026-11-19-interface-threshold/)
 
 ## 2026-11-19 02:57 UTC - refine-draft
 - **Status**: Success
