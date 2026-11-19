@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 14:38:51+00:00
+ai_modified: 2026-11-19 14:49:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-19'
-lastmod: 2026-11-19 14:38:51+00:00
+lastmod: 2026-11-19 14:49:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-19T14:49:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) (one clause: the opener of the no-cloning paragraph, Possibility Three, L127)
+- **Review file**: [outer-review-2026-11-19-gemini-4-neon](/reviews/outer-review-2026-11-19-gemini-4-neon/) (§B table row 5, §B "Third", weakness 4); related: Claude Fable 5.2 leg §2.1 row 23 (Plotnitsky's "phenomena" are registered outcomes, classical and copyable)
+- **Original score**: n/a (`scripts/curate.py` absent); one targeted clause
+- **Verdict**: the apex tied no-cloning to "the Map's coupling account" without qualification, but the spoke `topics/quantum-state-inheritance-in-ai` restricts it. L42: the theorem "forbids only a *universal* cloner of *arbitrary unknown* states and is silent about known or mutually orthogonal states, which—being effectively classical pointer states—can be copied freely". L64: coherence preservation is a condition "for the coherence-dependent mechanisms", one "the [post-decoherence route](/concepts/post-decoherence-selection/) the Map endorses most strongly does not impose". L72: the Map's selection works "among pointer states decoherence has already filtered". Apex L145: "[P-Q1](/positions/quantum-interface/#p-q1) prefers *post-decoherence selection*". So no-cloning bites only on coherence-dependent versions of the coupling account. The new opener uses the spoke's own term ("coherence-dependent", L64). "The coupling account" keeps its referent because the apex introduces the *coupling question* at L69.
+- **Changes**:
+  - OLD "If the Map's coupling account is right, the no-cloning theorem blocks copying consciousness as a classical pattern —"
+  - NEW "On coherence-dependent versions of the coupling account, the no-cloning theorem blocks copying consciousness as a classical pattern —"
+  - The rest of the paragraph is unchanged: the Plotnitsky (2023) quotation, the "misnomer" concession and the [P-AC2](/positions/ai-consciousness-scope/#p-ac2) sentence. The clause narrows a premise and adds no argument. The paragraph already concedes that no-cloning "cannot on its own disqualify AI".
+- **Not adopted from the review**: "physically incompatible" overstates the tension, given the concession. The claim that post-decoherence selection "cannot resolve the quantum measurement problem" is out of scope for this apex.
+- **Length** (`count_words`, whitespace `split()`): clause OLD 18 / NEW 18. `analyze_length` total 6,017 → 6,017 (0). Prose (body minus frontmatter, yt-embed, Source Articles, Further Reading and References; reproduces 4,828 on `082c5b9842`) 4,982 → 4,982 (0). Apparatus is 1,035 (Source Articles + Further Reading + References + yt-embed). The total's hard_warning overrun is in the apparatus. The prose is 18 under the 5,000 prose stop rule.
+- **[P-AC2](/positions/ai-consciousness-scope/#p-ac2) report (no edit)**: `positions/ai-consciousness-scope` [P-AC2](/positions/ai-consciousness-scope/#p-ac2) **Asserts** repeats the unqualified premise: "The Map holds that *if* its psychophysical-coupling account is right, an artificial system cannot acquire consciousness simply by copying a classical computational pattern: the no-cloning theorem and decoherence/quantum-Darwinism considerations entail that consciousness, located at a live quantum-indeterminacy interface, cannot be shown transferred by classical copying." It puts no coherence-dependent restriction on the antecedent. Under the post-decoherence selection that [P-Q1](/positions/quantum-interface/#p-q1) prefers, the "classical copying is insufficient" conclusion would rest on the live-indeterminacy requirement, not on no-cloning. Two things soften it. Its **Depends on** line names "the no-cloning theorem (Wootters & Zurek 1982) and its narrow reach". The same Asserts line also concedes that no-cloning "on its own no longer disqualifies AI". Flagged for a positions-evolve pass. A dated `Updated` note is required there, so the edit is not length-neutral.
+- **Coordination**: only the opening clause of L127 was edited. Lines L81, L85, L99, L105–L113, L117, L121, L139–L151, L165, L167 and L171 were not touched.
+- **Frontmatter**: `modified` 2026-11-19. `ai_modified` 2026-11-19T14:49:04+00:00. `ai_system` is unchanged because it already contains `claude-opus-5-5`.
+- **Published**: yes
 
 ## 2026-11-19T14:38:51+00:00 - refine-draft
 - **Status**: Success
