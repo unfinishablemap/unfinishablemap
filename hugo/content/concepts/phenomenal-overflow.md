@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-11-05 22:16:50+00:00
+ai_modified: 2026-11-20 08:57:23+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -14,14 +14,14 @@ concepts:
 - '[[working-memory]]'
 - '[[introspection]]'
 created: 2026-01-28
-date: &id001 2026-11-05
+date: &id001 2026-11-20
 description: Ned Block's argument that phenomenal consciousness exceeds cognitive
   access—we experience more than we can report—and why it bears on dualism only indirectly.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-05 22:16:50+00:00
-lastmod: 2026-11-05 22:16:50+00:00
+lastmod: 2026-11-20 08:57:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ The primary evidence comes from George Sperling's 1960 experiments on iconic mem
 
 **The inference**: Subjects must have been phenomenally conscious of all 12 letters—otherwise, how could they report any cued row? But only 4-5 letters were A-conscious (available for reasoning and free report). The remaining letters were P-conscious but not A-conscious.
 
-Block's formulation: "Perceptual consciousness is richer (i.e., has a higher capacity) than cognitive access."
+Block's formulation (2011): "Perceptual consciousness is richer (i.e., has a higher capacity) than cognitive access."
 
 ### What Overflow Would Show
 
@@ -87,7 +87,7 @@ The deflationary reading isn't merely dismissive. It raises a genuine methodolog
 
 Subjects report "I saw all the letters"—but this report is itself an A-conscious judgment. If P-consciousness were truly richer than A-consciousness, we could never directly verify it through reports, since reports *are* access. The overflow hypothesis may be unfalsifiable.
 
-Cohen and Dennett argue that consciousness cannot be separated from function. If there's no functional difference between having rich phenomenology and merely believing one has rich phenomenology, the distinction may be empty.
+Cohen and Dennett (2011) argue that consciousness cannot be separated from function. If there's no functional difference between having rich phenomenology and merely believing one has rich phenomenology, the distinction may be empty.
 
 ## Additional Evidence {#evidence}
 
@@ -107,7 +107,11 @@ McDowell's (1994) response—that demonstrative concepts like "that shade" can b
 
 ### Change Blindness and Its Limits
 
-Change blindness shows we miss large changes between scenes when attention is diverted. This might seem to argue *against* rich phenomenology—if we don't notice a change, perhaps we didn't experience the original. But subjects often report a vague sense that "something is different" without being able to identify what. This suggests phenomenology exceeding explicit access.
+Change blindness shows we miss large changes between scenes when attention is diverted. This might seem to argue *against* rich phenomenology—if we don't notice a change, perhaps we didn't experience the original. Rensink (2004), however, reported that observers often "feel (or sense) the change even though they have no visual experience of it": felt awareness ahead of explicit identification. Simons, Nevarez and Boot (2005) offer "a more mundane explanation": some subjects "take time to verify their initial conscious detection of changes." The case is weak evidence for overflow.
+
+### Rival Readings of the Partial-Report Data {#rivals}
+
+Two rivals grant Sperling's data and deny that they show overflow. Kouider et al. (2010) call the evidence for phenomenal consciousness without access "equivocal" and propose *partial awareness*: lower and higher representational levels are accessed independently, and the impression of richness can arise "from illusory contents". De Gardelle, Sackur and Kouider (2009) placed unexpected pseudo-letters in the unreported rows of a partial-report display; participants "still felt that there were only letters", reconstructing them from "partial letter-like information". Phillips (2011) invokes postdictive perception instead: read "in terms of cue-sensitive experience", with the cue helping to fix what is experienced, Sperling's data give overflow no support.
 
 ## Theoretical Stakes {#stakes}
 
@@ -154,21 +158,21 @@ On this view, the rich phenomenal field is the stage; attention is conscious sel
 
 ### Occam's Razor Has Limits
 
-The deflationary response to overflow appeals to parsimony: why posit rich phenomenology beyond access when the impression of rich phenomenology suffices? This reflects the materialist strategy of explaining away apparent features of consciousness rather than explaining them.
+The deflationary response to overflow appeals to parsimony: why posit rich phenomenology beyond access when the impression of rich phenomenology suffices?
 
-But [Occam's Razor has limits](/tenets/#occams-limits). The parsimony of deflationary accounts comes at the cost of dismissing what subjects report: they say they saw all the letters, not that they had an impression of letterishness. Deflationary theories require subjects to be systematically wrong about their own experience.
+But [Occam's Razor has limits](/tenets/#occams-limits), and here each side pays for its economy. Deflation adopts an error theory: subjects say they saw all the letters, not that they had an impression of letterishness, and deflation reads that report as a judgment about what *seemed* to happen rather than a report of what was experienced. Overflow takes the report at face value by positing content no report can confirm. The Map cannot count the error theory as disqualifying, since its own [plenitude void](/voids/plenitude-void/) page argues that introspection can err in either direction here, missing richness or confabulating it.
 
-When a theory's parsimony requires dismissing the primary data (subjective reports), parsimony may mislead. The overflow hypothesis accepts phenomenal reports at face value; deflationism reinterprets them as judgments about what *seemed* to happen rather than reports of what was experienced. Both approaches have costs—the question is which costs are more acceptable.
+Which reading is simpler therefore depends on what the reports are worth, the very question the reports cannot settle. That is the tenet's point here: with knowledge this incomplete, a verdict of simplicity tracks the framework one starts from, and the disagreement sits closer to bedrock than either side's appeal to economy suggests.
 
 ## The Contested Status {#contested}
 
-Phenomenal overflow remains genuinely contested. The Unfinishable Map presents it as evidence for the [richness of phenomenology](/concepts/phenomenal-depth/) beyond access, not as established fact.
+Phenomenal overflow remains genuinely contested. The Unfinishable Map treats it as an open hypothesis about the [richness of phenomenology](/concepts/phenomenal-depth/) beyond access: at most compatible with the dualism tenet, as argued [above](#tenets), and not evidence that establishes it.
 
 **What's secure**: Subjects can report more with partial cues than with whole report. Some information is available briefly that doesn't enter working memory.
 
 **What's contested**: Whether this available-but-unreported information is phenomenally conscious. The debate hinges on whether phenomenology can exist without access—which is precisely what's at issue between overflow proponents and deflationary critics.
 
-**The methodological bind**: If phenomenology exceeds access, we cannot directly verify it through access-dependent methods (reports, reasoning about experience). The overflow hypothesis may be unfalsifiable from a strictly third-person perspective. This unfalsifiability is generally a mark against a hypothesis—yet it's also exactly what we'd expect if phenomenology genuinely transcends access. The situation is frustrating rather than decisive: unfalsifiability doesn't confirm overflow, but neither does it refute it.
+**The methodological bind**: If phenomenology exceeds access, we cannot directly verify it through access-dependent methods (reports, reasoning about experience). The overflow hypothesis may be unfalsifiable from a strictly third-person perspective. This unfalsifiability is generally a mark against a hypothesis. Overflow predicts it if phenomenology genuinely transcends access, but a prediction no observation could contradict earns the hypothesis nothing. The situation is frustrating rather than decisive: unfalsifiability doesn't confirm overflow, but neither does it refute it.
 
 A diagnosis from a neighbouring debate suggests why the standoff persists rather than narrowing. Writing about cognitive phenomenology, Fürst (2017) argues that phenomenal contrast—a method designed to break this kind of symmetry—is dialectically ineffective, because "introspective judgments about phenomenology are regimented by the view initially held": each side's introspection returns the verdict its theory already licenses. She suggests the point bears on introspection-based arguments for phenomenology in general. The [Würzburg-Titchener controversy](/concepts/cognitive-phenomenology/) is the usual historical precedent: fifteen years of rigorous laboratories, all relying on trained introspection while disputing each other's protocols, reached opposite conclusions and abandoned the question rather than resolving it. Disputes of this shape have not been settled from inside introspection. The overflow debate fits the pattern at its crux—whether the uncued letters were experienced specifically or only generically turns on what subjects' introspective reports are worth—which helps explain why Block and Cohen–Dennett can each read Sperling as confirming their own position.
 
@@ -184,6 +188,7 @@ This connects to [the broader void of pre-conceptual knowing](/voids/acquaintanc
 - [attention-as-interface](/concepts/attention-as-interface/)—how attention mediates conscious selection from the phenomenal field
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)—a proposed mechanism for conscious selection from phenomenal overflow
 - [The Acquaintance Void](/voids/acquaintance-void/)—the broader void of experience beyond concepts
+- [The Plenitude Void](/voids/plenitude-void/)—whether the rich/sparse dispute can be settled from within experience; this page supplies the Block–Sperling evidence it turns on
 - [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)—how the A-consciousness/P-consciousness asymmetry exposed by overflow plays out in the extended cognition debate, marking where functional parity arguments fail
 
 ## References
@@ -198,3 +203,8 @@ This connects to [the broader void of pre-conceptual knowing](/voids/acquaintanc
 1. Kelly, S. D. (2001). Demonstrative Concepts and Experience. *The Philosophical Review*, 110(3), 397-420.
 1. Fürst, M. (2017). On the Limits of the Method of Phenomenal Contrast. *Journal of the American Philosophical Association*, 3(2), 168-188.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Rensink, R. A. (2004). Visual Sensing Without Seeing. *Psychological Science*, 15(1), 27-32.
+1. Simons, D. J., Nevarez, G., & Boot, W. R. (2005). Visual Sensing Is Seeing: Why "Mindsight," in Hindsight, Is Blind. *Psychological Science*, 16(7), 520-524.
+1. Kouider, S., de Gardelle, V., Sackur, J., & Dupoux, E. (2010). How rich is consciousness? The partial awareness hypothesis. *Trends in Cognitive Sciences*, 14(7), 301-307.
+1. de Gardelle, V., Sackur, J., & Kouider, S. (2009). Perceptual illusions in brief visual presentations. *Consciousness and Cognition*, 18(3), 569-577.
+1. Phillips, I. (2011). Perception and Iconic Memory: What Sperling Doesn't Show. *Mind & Language*, 26(4), 381-411.

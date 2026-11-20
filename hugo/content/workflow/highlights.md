@@ -10,7 +10,7 @@ date: '2026-11-20'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-20 08:25:07.983035+00:00
+lastmod: 2026-11-20 08:25:07+00:00
 modified: '2026-11-20'
 related_articles:
 - '[[workflow]]'
