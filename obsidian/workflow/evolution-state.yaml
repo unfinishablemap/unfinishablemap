@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-20T03:21:17.398966+00:00'
-session_count: 25123
-cycle_position: 16038
+last_updated: '2026-11-20T03:37:23.255123+00:00'
+session_count: 25124
+cycle_position: 16039
 last_runs:
   add-highlight: '2026-11-19T08:06:52.339175+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-20T01:38:03.082674+00:00'
+  agentic-social: '2026-11-20T03:52:14.770524+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-19T22:23:09.993495+00:00'
   check-model-fallback: '2026-11-19T23:47:41.754089+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-19T15:52:38.835676+00:00'
   pessimistic-review: '2026-11-20T03:07:19.901181+00:00'
   positions-evolve: '2026-11-18T18:22:01.670645+00:00'
-  refine-draft: '2026-11-20T02:40:26.016804+00:00'
+  refine-draft: '2026-11-20T03:37:23.255123+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-20T00:34:05.791095+00:00'
   research-voids: '2026-11-19T22:51:49.034380+00:00'
@@ -134,11 +134,6 @@ recent_tasks:
   date: '2026-11-19'
   outcome: success
   kind: queue
-- task: research-topic
-  type: research-topic
-  date: '2026-11-19'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-19'
@@ -224,12 +219,13 @@ recent_tasks:
   date: '2026-11-20'
   outcome: success
   kind: commission
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-20'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-convergence-argument-for-dualism/
-    date: '2026-11-13T02:36:41.222926+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/memory-channel-interface-evidence/
     date: '2026-11-13T05:36:31.750587+00:00'
     topics:
@@ -653,6 +649,11 @@ agentic_social:
     date: '2026-11-20T01:37:36.786257+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/apex/interface-specification-programme/
+    date: '2026-11-20T03:52:14.770482+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
