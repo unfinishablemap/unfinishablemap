@@ -4,7 +4,7 @@ description: "Human+AI exploration of why conscious experience seems rich beyond
 created: 2026-04-23
 modified: 2026-11-20
 human_modified:
-ai_modified: 2026-11-20T06:48:32+00:00
+ai_modified: 2026-11-20T07:13:49+00:00
 last_deep_review: 2026-07-17T00:40:55+00:00
 draft: false
 topics:
@@ -71,25 +71,23 @@ A third position rejects the Block–Dennett framing. Turn [[eliminative-materia
 
 ## The Ensemble Reframe
 
-A fourth position asks not how much detail is present but in what format. Cohen, Dennett and Kanwisher (2016) proposed ensemble coding — representing groups, and the periphery, as pooled summary statistics rather than as individual items — as the mechanism behind apparent peripheral richness: a scene can seem populated without item-level phenomenology because what is represented across a region is texture-like statistics. The question "how much detail was there?" is then posed in a currency the representation may not use, and introspection cannot tell which format a region is in: both render as populated space. The reframe covers unattended and peripheral content, not the attended qualitative depth that [[the-surplus-void]] treats.
+A fourth position asks not how much detail is present but in what format. Cohen, Dennett and Kanwisher (2016) proposed ensemble coding — representing groups and the periphery as pooled summary statistics rather than individual items — as the mechanism behind apparent peripheral richness: a scene can seem populated without item-level phenomenology because regions are represented as texture-like statistics. The question "how much detail was there?" is then posed in a currency the representation may not use, and introspection cannot tell which format a region is in: both render as populated space. The reframe covers unattended and peripheral content, not the attended qualitative depth that [[the-surplus-void]] treats.
 
-It reaches the evidence too. Bronfman, Brezis, Jacobson and Usher (2014) used colour diversity — "a unique summary statistic" — to route around report limits in a Sperling-like array, finding that it "is registered automatically, outside focal attention, and without consuming additional working memory resources," a result read as support for overflow. Ward, Bear and Scholl (2016) cut the inference carrying that reading: observers reported ensemble properties accurately while awareness of the constituent items was coarse or absent, and they conclude that "awareness of statistical properties may occur in the absence of awareness of individual features" and that this is "fully consistent with sparse visual awareness."
+It reaches the evidence too. Bronfman, Brezis, Jacobson and Usher (2014) used colour diversity — "a unique summary statistic" — to route around report limits in a Sperling-like array, suggesting that it "is registered automatically, outside focal attention, and without consuming additional working memory resources," a result read as support for overflow. Ward, Bear and Scholl (2016) cut the inference carrying that reading: observers reported ensemble properties accurately while awareness of the constituent items was coarse or absent, and they conclude that "awareness of statistical properties may occur in the absence of awareness of individual features" and that this is "fully consistent with sparse visual awareness." The attention-free claim is disputed too: colour and size statistics "often go unnoticed without attention," and dual tasks reveal attentional costs (Jackson-Nielsen et al. 2017).
 
-Subjective inflation then accounts for the seeming itself. Attention induces conservative visibility ratings, so unattended stimuli are rated more visible than attended ones at matched discrimination sensitivity (Rahnev et al. 2011); Knotts, Odegaard, Lau and Rosenthal (2019) argue from this that "subjective inflation can account for rich phenomenology without invoking phenomenological overflow" — one mechanism in place of two categories of consciousness. The economy is real, and by [[tenets#^occams-limits|Occam's Razor Has Limits]] a real economy is not by itself evidence.
+Subjective inflation then accounts for the seeming itself. Attention induces conservative visibility ratings, so unattended stimuli are rated more visible than attended ones at matched discrimination sensitivity (Rahnev et al. 2011); Knotts, Odegaard, Lau and Rosenthal (2019) argue from this that "subjective inflation can account for rich phenomenology without invoking phenomenological overflow" — one mechanism in place of two categories of consciousness. But explaining a seeming does not show it false, and Lee, Denison and Ma (2023) judge inflation's fixed-criterion model "poorly tenable"; the economy alone, by [[tenets#^occams-limits|Occam's Razor Has Limits]], is not evidence.
 
 ## Introspection's Unreliability
 
-Eric Schwitzgebel (2008) adds a further layer. Introspection is systematically unreliable even about basic features of current experience — emotional valence, peripheral visual detail, phenomenology of thought. He holds that "we make gross, enduring mistakes about even the most basic features of our currently ongoing conscious experience," careful reflection included. Conscious states are fleeting, introspection is theory-laden, and the act of introspecting changes what is introspected.
+Eric Schwitzgebel (2008) holds that "we make gross, enduring mistakes about even the most basic features of our currently ongoing conscious experience," careful reflection included, and his visual case is the seeming this page starts from: most people he asks judge a wide swath of the desk clear at once, and "They are, I think, mistaken." He tentatively blames the check-and-find loop described below and leans sparse, where this page withholds judgement.
 
-This point is structurally crucial. If introspection were reliable, the Block–Dennett debate could in principle be settled by careful first-person attention. But if introspection errs in both directions — missing what is there and confabulating what is not — no amount of careful looking can settle which way the errors lean. The measuring instrument is implicated in the illusion it would need to detect.
+What survives is narrower. Schwitzgebel concedes that if visual experience is "a plenum," introspection failed him instead; it can err either way — missing what is there or confabulating what is not — so careful looking cannot settle which way the errors lean. The measuring instrument is implicated in the illusion it would need to detect.
 
 ## The Bandwidth Frame
 
-A quantitative angle sharpens the stakes. Estimates of inbound sensory information exceed estimates of reportable conscious content by several orders of magnitude on any measurement; [[bandwidth-of-consciousness]] carries the specific figures, which are contested and methodology-dependent, together with their caveats. The asymmetry rather than the numbers is what matters here.
+Sensory inflow exceeds reportable content by several orders of magnitude on any estimate ([[bandwidth-of-consciousness]] gives the contested figures). Two pictures fit: phenomenal consciousness sits near the low end, with the rest non-phenomenal preprocessing, or near the high end, with the gap an access bottleneck — Block's overflow at industrial scale.
 
-The asymmetry is compatible with two pictures. One: phenomenal consciousness sits near the low end, and the high-bandwidth story is preprocessing that never becomes phenomenal. Two: it runs nearer the high end, and the gap is the bottleneck between phenomenal presence and cognitive access — Block's overflow at industrial scale.
-
-Current methods have not adjudicated between these pictures, though that claim needs stating more carefully than it once did. Phenomenal content that does not reach report cannot be distinguished by report-based methods from phenomenal content that never existed. But this is not a case of nothing having come in: Ward et al. removed a specific inference from the board — that accurate ensemble report establishes awareness of the individual items — without refuting overflow, which survives for anyone willing to posit phenomenal content no report can reach. The board has fewer pieces on it than it had; it has not been cleared.
+Current methods have not adjudicated between these pictures. Phenomenal content that does not reach report cannot be distinguished by report-based methods from phenomenal content that never existed. But this is not a case of nothing having come in: Ward et al. removed a specific inference from the board — that accurate ensemble report establishes awareness of the individual items — without refuting overflow, which survives for anyone willing to posit phenomenal content no report can reach. The board has fewer pieces on it than it had; it has not been cleared.
 
 ## The Self-Concealing Structure
 
@@ -144,7 +142,9 @@ The void also connects to [[self-opacity]] (the general structural inaccessibili
 1. Bronfman, Z. Z., Brezis, N., Jacobson, H. & Usher, M. (2014). "We See More Than We Can Report: 'Cost Free' Color Phenomenality Outside Focal Attention." *Psychological Science*, 25(7), 1394–1403.
 1. Cohen, M. A., Dennett, D. C. & Kanwisher, N. (2016). "What is the Bandwidth of Perceptual Experience?" *Trends in Cognitive Sciences*, 20(5), 324–335.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Jackson-Nielsen, M., Cohen, M. A. & Pitts, M. A. (2017). "Perception of ensemble statistics requires attention." *Consciousness and Cognition*, 48, 149–160.
 1. Knotts, J. D., Odegaard, B., Lau, H. & Rosenthal, D. (2019). "Subjective inflation: phenomenology's get-rich-quick scheme." *Current Opinion in Psychology*, 29, 49–55.
+1. Lee, J. L., Denison, R. & Ma, W. J. (2023). "Challenging the fixed-criterion model of perceptual decision-making." *Neuroscience of Consciousness*, 2023(1), niad010.
 1. Nartker, M., Firestone, C., Egeth, H. & Phillips, I. (2025). "Sensitivity to visual features in inattentional blindness." *eLife*, 13, RP100337.
 1. Noë, A. (ed.) (2002). *Is the Visual World a Grand Illusion?* Imprint Academic.
 1. O'Regan, J. K. (1992). "Solving the 'real' mysteries of visual perception: The world as an outside memory." *Canadian Journal of Psychology*, 46(3), 461–488.
