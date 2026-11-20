@@ -411,3 +411,32 @@
   subject_articles:
   - voids/plenitude-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/c7e4e927-d588-4ab4-8896-c3f3a0a809e2
+  commissioned_at: '2026-11-20T03:20:36.272113+00:00'
+  prompt_summary: 'Referee audit of The Plenitude Void: citations, literature, objections'
+  target_filename: outer-review-2026-11-20-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
+    a site that argues for interactionist dualism. Please audit its article "The Plenitude
+    Void": https://unfinishablemap.org/voids/plenitude-void/ which was last edited
+    on 2026-11-13. Your search index may lag by a day or two, so check the changelog
+    at https://unfinishablemap.org/workflow/changelog/ before calling anything unfixed.
+    The article claims that conscious experience seems richer than anything we can
+    report or check, and that this gap may be impossible to settle from the inside.
+    It draws on the grand illusion debate, Block''s overflow argument, ensemble statistics,
+    unreliable introspection and bandwidth estimates. Please (1) verify each citation
+    and quotation at its source, (2) test whether the empirical summaries match the
+    current literature, including failed replications and critiques, (3) give the
+    strongest illusionist and cognitive-access objections and judge whether the article
+    answers them, and (4) assess how well it separates itself from neighbouring void
+    pages and links into the rest of the site. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit plenitude-void
+  subject_articles:
+  - voids/plenitude-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-20-chatgpt-5-6-sol-pro.md

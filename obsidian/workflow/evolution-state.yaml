@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-20T02:40:26.016804+00:00'
-session_count: 25121
-cycle_position: 16037
+last_updated: '2026-11-20T03:07:19.901181+00:00'
+session_count: 25122
+cycle_position: 16038
 last_runs:
   add-highlight: '2026-11-19T08:06:52.339175+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -32,7 +32,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-17T05:08:57.426759+00:00'
   optimistic-review: '2026-11-19T15:52:38.835676+00:00'
-  pessimistic-review: '2026-11-19T13:10:09.491250+00:00'
+  pessimistic-review: '2026-11-20T03:07:19.901181+00:00'
   positions-evolve: '2026-11-18T18:22:01.670645+00:00'
   refine-draft: '2026-11-20T02:40:26.016804+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 782
-  reviews_completed: 8494
+  reviews_completed: 8495
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-11-19'
-  outcome: success
-  kind: trigger
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-19'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-20'
   outcome: success
   kind: queue
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-11-20'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/the-convergence-argument-for-dualism/
