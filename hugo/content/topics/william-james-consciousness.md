@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-11-04 21:07:42+00:00
+ai_modified: 2026-11-20 12:33:29+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[pragmatism]]'
 - '[[combination-problem]]'
 created: 2026-02-01
-date: &id001 2026-04-18
+date: &id001 2026-11-20
 description: James's radical empiricism treats experience as fundamental reality.
   His stream of consciousness, attention theory, and filter model prefigure contemporary
   dualism.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 07:39:45+00:00
-lastmod: 2026-11-04 21:07:42+00:00
+lastmod: 2026-11-20 12:33:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,11 +116,11 @@ James didn't develop this idea in detail, but he established the crucial concept
 
 ## James and Panpsychism
 
-James engaged more seriously with panpsychism than most accounts acknowledge. In *The Principles of Psychology* (1890), he formulated the "mind-dust" objection that remains the central challenge to panpsychist theories: if elementary particles have proto-experiential properties, how do these micro-experiences combine into the unified consciousness we actually have? The combination problem — how many small feelings become one big feeling — is what he found unanswerable.
+James engaged more seriously with panpsychism than most accounts acknowledge. In *The Principles of Psychology* (1890) he attacked the "mind-dust" theory, on which mental states are compounds of smaller ones, as "logically unintelligible", an objection that became panpsychism's [combination problem](/concepts/combination-problem/): how do micro-experiences combine into the unified consciousness we actually have?
 
-Yet James never dismissed panpsychism outright. His radical empiricism, with its insistence that experience is the fundamental stuff, sits naturally alongside the panpsychist intuition that experience pervades nature rather than emerging mysteriously from non-experiential matter. Peirce's psycho-physical monism — the universe suffused with mind, associated with spontaneity and freedom — attracted James for similar reasons. Both thinkers found it more puzzling that consciousness should emerge from nothing experiential than that it should be woven into reality from the start.
+Yet James never dismissed panpsychism outright. In *A Pluralistic Universe* (1909) he said his chapter had done "little more than quote" Lotze and others, and that he was "compelled to *give up the logic*, fairly, squarely, and irrevocably." That lifted the logical veto on compounding without explaining it. His radical empiricism sits naturally alongside the panpsychist intuition that experience pervades nature rather than emerging mysteriously from non-experiential matter. Peirce's psycho-physical monism — the universe suffused with mind, associated with spontaneity and freedom — attracted James for similar reasons.
 
-James's ambivalence matters for the Map. His [combination problem](/concepts/combination-problem/) objection remains devastating against naïve panpsychism — simply attributing experience to fundamental particles does not explain how human consciousness arises. But his sympathy for the underlying intuition aligns with the Map's openness to proto-experiential properties at the quantum level, provided the hard problem of combination is acknowledged rather than dissolved. James modelled the intellectual honesty the Map aspires to: following the argument where it leads while refusing to pretend that unsolved problems are solved.
+The difficulty James stated still tells against naïve panpsychism — simply attributing experience to fundamental particles does not explain how human consciousness arises. But his sympathy for the underlying intuition aligns with the Map's openness to proto-experiential properties at the quantum level, provided the hard problem of combination is acknowledged rather than dissolved. James modelled the intellectual honesty the Map aspires to: following the argument where it leads while refusing to pretend that unsolved problems are solved.
 
 ## James's Pragmatism and Consciousness
 
@@ -215,6 +215,7 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 1. James, W. (1896). The will to believe. *The New World*, 5(18), 327-347.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 1. James, W. (1904). Does 'consciousness' exist? *Journal of Philosophy, Psychology and Scientific Methods*, 1(18), 477-491.
+1. James, W. (1909). *A Pluralistic Universe*. Longmans, Green, and Co.
 1. James, W. (1912). *Essays in Radical Empiricism*. Longmans, Green and Co.
 1. Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Nisbett, R.E. & Wilson, T.D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.

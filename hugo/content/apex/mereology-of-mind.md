@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-11-11 07:33:10+00:00
+ai_modified: 2026-11-20 12:33:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 apex_last_synthesis: 2026-10-28 15:10:28+00:00
 apex_sources:
@@ -21,7 +21,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[unity-of-consciousness]]'
 created: 2026-06-07
-date: &id001 2026-11-11
+date: &id001 2026-11-20
 description: Composition and individuation are two faces of one mereological question;
   the de-combination problem is the hinge where consciousness resists the part-whole
   relation both ways.
@@ -34,7 +34,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:08:06+00:00
-lastmod: 2026-11-11 07:33:10+00:00
+lastmod: 2026-11-20 12:33:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ Read across time, Coleman's dilemma also gives the Map's answer to [subject fusi
 
 ## Why the Joint Resists Physical Mereology
 
-Physical mereology is transparent in both directions. Two one-kilogram masses compose a two-kilogram mass, and a two-kilogram mass divides back into them; charges superpose and decompose; the whole is built from parts and the parts explain the whole. Consciousness, as [composition-and-consciousness](/concepts/composition-and-consciousness/) argues, does neither. Bottom-up, micro-experiences do not sum into a macro-experience — James's hundred feelings, shuffled and packed as close as you like, each "remains the same feeling it always was, shut in its own skin, windowless." Top-down, a [unified field](/concepts/unity-of-consciousness/) does not partition into independent experiential parts — Tim Bayne and David Chalmers (2003) show phenomenal unity to involve a conjoint phenomenology no part possesses, so there is nothing for the field to be *made of* in the part-summing sense.
+Physical mereology is transparent in both directions. Two one-kilogram masses compose a two-kilogram mass, and a two-kilogram mass divides back into them; charges superpose and decompose. Consciousness, as [composition-and-consciousness](/concepts/composition-and-consciousness/) argues, does neither. Bottom-up, micro-experiences do not sum into a macro-experience — James's hundred feelings, shuffled and packed as close as you like, each "remains the same feeling it always was, shut in its own skin, windowless." Top-down, a [unified field](/concepts/unity-of-consciousness/) does not partition into independent experiential parts — Tim Bayne and David Chalmers (2003) analyse phenomenal unity as a conjoint phenomenology no part possesses; the Map, not they, concludes there is nothing for the field to be *made of* in the part-summing sense.
 
 This bidirectional resistance is exactly what the de-combination hinge predicts. A property that genuinely composed and decomposed transparently would let combination *and* de-combination go through; a property that resists both is one for which no intelligible subject-part relation has been found in either direction. Physical properties belong to the first kind; consciousness, on the evidence the cluster assembles, to the second. The split-brain literature is the empirical pressure point and it cuts the same way: researchers cannot agree what would *count* as one subject versus two (Pinto et al. 2017 read undivided consciousness where Sperry and Gazzaniga read two agents; Elizabeth Schechter 2018 reads two minds in one person), which is precisely what one expects if there is no mereology of subjects to read off the anatomy. The Map's register holds the boundary to be a determinate fact that is nevertheless not recoverable from physical or functional organisation ([P-I3](/positions/individuation-and-subjecthood/#p-i3)), so its agnosticism about how many subjects a callosotomised skull houses is epistemic rather than metaphysical. The missing subject-part relation explains why no anatomical measure settles the count; it does not license the stronger claim that there is no count to settle. What the evidence earns is the epistemic reading — no one can conceive or introspect a merging or a partition of subjects; the metaphysical reading, that none *can* occur, is a further bet, and the split-brain and dissociative cases are exactly what it owes an account of, as [the primer concedes](/concepts/composition-and-consciousness/#compositional-failure-runs-both-ways).
 
@@ -103,7 +103,7 @@ What the joint frame adds beyond either source question alone is a single explan
 
 ## Evidence and Dependency
 
-The lines of support here carry different weights and should not be summed. The three-route convergence on a composition criterion is externally evidenced in its parts — van Inwagen, Merricks, and McQueen and Tsuchiya are published positions — but the step from "clusters near where consciousness occurs" to "consciousness is the criterion" is the Map's own, and the convergence counts as one observation rather than three. Phenomenal non-compositionality is independently argued, from James and from Bayne and Chalmers on conjoint phenomenology; it presupposes only that first-person unity is a datum rather than a description adopted for economy, and the evidence earns its epistemic form, not its metaphysical one. The de-combination hinge rests on Miller's published argument, while the verdict that no rival grounding relation succeeds is inherited from the bridge article's reading, which Shani contests. The individuation residue is inherited from the Dualism tenet in its substance-leaning form; a property dualist is not bound by it. The tie-break between dualist interaction and panpsychist constitution is inherited from the No Many Worlds and Minimal Quantum Interaction tenets and is mutually coherent only: nothing in the mereology selects it. The split-brain disagreement is externally evidenced but discriminates only between readings of what anatomy discloses.
+The lines of support here carry different weights and should not be summed. The three-route convergence on a composition criterion is externally evidenced in its parts, but the step from "clusters near where consciousness occurs" to "consciousness is the criterion" is the Map's own, and the convergence counts as one observation rather than three. Phenomenal non-compositionality is the Map's reading of Bayne and Chalmers's conjoint phenomenology, with James's 1890 argument (its logic given up in 1909) stating the difficulty; it presupposes only that first-person unity is a datum rather than a description adopted for economy, and the evidence earns its epistemic form, not its metaphysical one. The de-combination hinge rests on Miller's published argument, while the verdict that no rival grounding relation succeeds is inherited from the bridge article's reading, which Shani contests. The individuation residue is inherited from the Dualism tenet in its substance-leaning form; a property dualist is not bound by it. The tie-break between dualist interaction and panpsychist constitution is inherited from the No Many Worlds and Minimal Quantum Interaction tenets and is mutually coherent only: nothing in the mereology selects it. The split-brain disagreement is externally evidenced but discriminates only between readings of what anatomy discloses.
 
 ## Relation to Site Perspective
 
@@ -148,3 +148,4 @@ This synthesis weaves together:
 16. Pinto, Y., et al. (2017). Split Brain: Divided Perception but Undivided Consciousness. *Brain*, 140(5), 1231–1237.
 17. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
 18. Shani, I. (2022). Cosmopsychism, Coherence, and World-Affirming Monism. *The Monist*, 105(1), 6–24. DOI 10.1093/monist/onab020.
+19. James, W. (1909). *A Pluralistic Universe*. Longmans, Green, and Co.

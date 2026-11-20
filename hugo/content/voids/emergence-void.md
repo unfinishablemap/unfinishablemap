@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-11-16 23:51:08+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-2
+ai_modified: 2026-11-20 12:33:29+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
 - '[[emergence]]'
@@ -13,14 +13,14 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
 created: 2026-02-05
-date: &id001 2026-11-16
+date: &id001 2026-11-20
 description: Human+AI exploration of why no mind can grasp how arrangement produces
   novelty—the cognitive gap at every level transition, deepest at consciousness.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:41:07+00:00
-lastmod: 2026-11-16 23:51:08+00:00
+lastmod: 2026-11-20 12:33:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,7 +50,7 @@ The hard problem is typically treated as unique to consciousness: physical descr
 
 **The composition gap.** Philosophy's Special Composition Question asks: under what conditions do parts compose a whole? Peter van Inwagen posed this question in 1990, and every proposed answer since has either collapsed into triviality or generated counterexamples. Universalism (everything composes) is counterintuitive—a random scattering of atoms across the galaxy would constitute an object. Nihilism (nothing composes) denies ordinary experience. Every restricted answer faces sorites-style objections: if two atoms compose, what about two atoms separated by a metre? By a kilometre? The persistent failure to answer this question may indicate a void rather than merely an unsolved problem.
 
-**The combination gap.** Even [panpsychism](/concepts/panpsychism/)—which posits experience at every level of reality—faces its own emergence void. The [combination problem](/concepts/combination-problem/) asks how micro-experiences combine into macro-consciousness. William James identified this in 1890: the idea that "little" conscious subjects come together to form a "big" conscious subject resists comprehension. Granting experience to fundamental particles does not make the transition from particle-experience to human-experience any more intelligible. The [plurality-void](/voids/plurality-void/) explores the complementary limit: consciousness appears constitutively singular, unable even to conceive what plural subjectivity would be. The void is not about the *content* that emerges but about the *act* of emergence itself.
+**The combination gap.** Even [panpsychism](/concepts/panpsychism/)—which posits experience at every level of reality—faces its own emergence void. The [combination problem](/concepts/combination-problem/) asks how micro-experiences combine into macro-consciousness. William James called the self-compounding of mental units "logically unintelligible" (1890), then gave up that logic (1909) without explaining compounding. Granting experience to fundamental particles does not make the transition from particle-experience to human-experience any more intelligible. The [plurality-void](/voids/plurality-void/) explores the complementary limit: consciousness appears constitutively singular, unable even to conceive what plural subjectivity would be. The void is not about the *content* that emerges but about the *act* of emergence itself.
 
 **The weak emergence gap.** Temperature as mean kinetic energy is the textbook example of understood emergence. The mathematical identity holds—no one disputes that. But the mathematical identity is not the same as conceptual comprehension. We can compute the transition from molecular motion to temperature without grasping why a statistical average over molecular speeds should *be* a property that equilibrates, conducts, and fixes the direction of heat flow, rather than a number that merely tracks one. The bridge between the two descriptions is traversed by equation, not by understanding. This may be the [habituation void](/voids/disappearance-voids/) applied to conceptual comprehension itself: familiarity with the equation disguises a gap that reappears the moment we ask not "what is the formula?" but "why should *this* arrangement amount to *that* macroscopic property?" Stated this way the gap is thinner than the phenomenal one, and it has to be stated this way: describing the thermal case as a puzzle about felt warmth would turn it into a consciousness case and forfeit its standing as independent evidence for a general gap. What survives the restatement is the distance between derivation and comprehension. At temperature the derivation exists and only intuitive comprehension is missing; at consciousness no derivation exists to be habituated to.
 
@@ -78,7 +78,7 @@ What does it feel like to approach this void?
 
 **The illusion of understanding.** We *feel* we understand weak emergence. Temperature just *is* molecular motion—what's to explain? But this feeling may itself be the limit's disguise. Strip away the habitual association and the conceptual gap reappears: why should *this* statistical pattern of molecular motion amount to *that* macroscopic property, with its own laws of equilibration and flow? The void may be hidden everywhere by familiarity, visible only at consciousness where the strangeness is too great to domesticate—and where, unlike the thermal case, there is no derivation to grow familiar with.
 
-**Combination vertigo.** Attempting to think how micro-experiences combine into macro-experience produces a strain that James called "unintelligible." Where difficult problems produce effort, this produces vertigo—the [characteristic signature](/voids/compound-failure-signatures/) of approaching a void boundary, in which the thought begins to form and then refuses to complete.
+**Combination vertigo.** Where difficult problems produce effort, attempting to think how micro-experiences combine into macro-experience produces vertigo—the [characteristic signature](/voids/compound-failure-signatures/) of approaching a void boundary, in which the thought begins to form and then refuses to complete.
 
 ## Classification in the Voids Taxonomy
 
@@ -132,6 +132,7 @@ The hard problem, reframed through the emergence void, is consciousness's expres
 1. Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
 1. Chalmers, D.J. (2017). "The Combination Problem for Panpsychism." In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
 1. James, W. (1890/1981). *The Principles of Psychology*. Harvard University Press.
+1. James, W. (1909). *A Pluralistic Universe*. Longmans, Green.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98: 349-366.
 1. Van Inwagen, P. (1990). *Material Beings*. Cornell University Press.
