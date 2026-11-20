@@ -1,9 +1,9 @@
 ---
 title: "The Bandwidth of Consciousness"
 created: 2026-02-09
-modified: 2026-04-19
+modified: 2026-11-20
 human_modified: null
-ai_modified: 2026-10-10T20:52:14+00:00
+ai_modified: 2026-11-20T10:03:21+00:00
 draft: false
 description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -47,7 +47,7 @@ related_articles:
   - "[[pharmacological-dissociation-as-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-02-09
 last_curated: null
 last_deep_review: 2026-07-26T06:34:15+00:00
@@ -104,7 +104,7 @@ Nor does the bottleneck sit in the surrounding hardware. Sauerbrei and Pruszynsk
 
 ## The Inbound Channel
 
-The inbound bandwidth is enormous. Zimmermann (1986) quantified sensory transduction by modality: vision alone delivers roughly 10⁷ bits per second, touch around 10⁶, with aggregate sensory input reaching ~11 million bits per second. Nørretranders (1998) popularised the asymmetry as the "user illusion"—consciousness as a simplified desktop covering vastly richer underlying computation. Zheng and Meister (2025) instead measure the periphery itself: one eye's six million cones have a capacity of ~1.6 gigabits per second, the input side of their "outer brain". The two framings yield different ratios, but the philosophical consequence does not depend on which we use. Whether *phenomenal* experience is also richer than cognitive access—as Block (2011) argues against Cohen, Dennett, and Kanwisher (2016)—the Map need not resolve: that question concerns phenomenality, whereas the ~10 bits/s ceiling measures only reportable access.
+The inbound bandwidth is enormous. Zimmermann (1986) quantified sensory transduction by modality: vision alone delivers roughly 10⁷ bits per second, touch around 10⁶, with aggregate sensory input reaching ~11 million bits per second. Nørretranders (1998) popularised the asymmetry as the "user illusion"—consciousness as a simplified desktop covering vastly richer underlying computation. Zheng and Meister (2025) instead measure the periphery itself: one eye's six million cones have a capacity of ~1.6 gigabits per second, the input side of their "outer brain". The two framings yield different ratios, but the philosophical consequence does not depend on which we use. Whether *phenomenal* experience is also [[plenitude-void|richer than cognitive access]]—as Block (2011) argues against Cohen, Dennett, and Kanwisher (2016)—the Map need not resolve: that question concerns phenomenality, whereas the ~10 bits/s ceiling measures only reportable access.
 
 ## How the Constraint Shapes Processing
 

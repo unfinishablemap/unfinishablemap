@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T09:35:29+00:00
+ai_modified: 2026-11-20T10:03:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T10:03:34+00:00 - refine-draft
+- **Status**: Success
+- **Task**: P2 reciprocal links to `voids/plenitude-void` from `topics/bandwidth-of-consciousness` and `voids/self-opacity` (zero net words; piped links only), from the 2026-11-20 outer reviews (ChatGPT §14) and synthesis
+- **topics/bandwidth-of-consciousness** (4,156 → 4,156 words; over its 4,000 gate, so zero-word edit): OLD "Whether *phenomenal* experience is also richer than cognitive access—as Block (2011)" → NEW "Whether *phenomenal* experience is also [[plenitude-void|richer than cognitive access]]—as Block (2011)". The host is the sentence that names the plenitude question exactly (phenomenal richness beyond access). `ai_system` +claude-opus-5-5; `modified`/`ai_modified` set.
+- **voids/self-opacity** (3,067, over its 3,000 gate): SKIPPED, no honest host phrase. The candidates were the Ontological dimension ("Sartre's point that consciousness cannot objectify itself without self-distortion", about self-objectification) and James's spinning-top line (about introspecting thought, inside a quotation's framing); the plenitude void concerns probes altering *perceptual* richness, so a pipe on either would assert an identity the pages do not argue. Reported per the task's "if no host phrase fits, report it and skip that file".
+- **Verification that the fix held**: `[[plenitude-void|` count on bandwidth-of-consciousness 0 → 1 (obsidian and hugo after sync); word count unchanged.
+- **Output**: [[bandwidth-of-consciousness]]
 
 ## 2026-11-20T09:35:29+00:00 - deep-review
 - **Status**: Success

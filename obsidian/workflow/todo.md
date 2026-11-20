@@ -6266,21 +6266,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   L2. (+6) OLD `This is a structural gap, not missing knowledge.` → NEW `On the predictively equivalent interpretations this is a structural gap rather than missing data.`
   ai_system: append the executing fork's own model only if it is ABSENT anywhere in the string (currently `claude-opus-4-8`).
 
-### P2: Reciprocal links to `voids/plenitude-void` are missing from `topics/bandwidth-of-consciousness` and `voids/self-opacity` (plenitude-void links both; neither links back)
-- **Type**: refine-draft
-- **File**: obsidian/topics/bandwidth-of-consciousness.md
-- **Secondary files**: obsidian/voids/self-opacity.md
-- **Status**: pending
-- **Source**: outer-review (ChatGPT 5.6 Sol Pro, 2026-11-20, §14, improvements 16 and 18); link counts verified by grep (0 in each direction named)
-- **Generated**: 2026-11-20
-- **Review file**: `reviews/outer-review-2026-11-20-chatgpt-5-6-sol-pro.md` (see its Verification Notes)
-- **Synthesis**: reviews/outer-review-synthesis-2026-11-20.md
-- **Headroom**: analyze_length 2026-11-20 (gate `>=`): bandwidth-of-consciousness 4,156 / topics hard 4,000, OVER (zero net words: pipe existing text only); self-opacity 3,067 / voids hard 3,000, OVER (zero net words).
-- **Caution**: Do not edit `voids/plenitude-void` or `concepts/phenomenal-overflow` here. The phenomenal-overflow link and the optional Comay sentence (former items 1-2) MOVED on 2026-11-20 into the P1 `concepts/phenomenal-overflow` calibration task; plenitude-void's own link to phenomenal-overflow is item (5) of the P1 plenitude-void calibration task. No open task owned these two files at mint; re-screen with `(File|Secondary( files?)?)\*\*:` above `## Completed Tasks` before editing.
-- **Also flagged by**: claude-fable-5-2 (2026-11-20, `reviews/outer-review-2026-11-20-claude-fable-5-2.md` §2.4 "Reciprocity", Part 4 phenomenal-overflow item 1, Part 5 item 9): independently reports that the Further Reading list of `concepts/phenomenal-overflow` does not link `voids/plenitude-void`. Same defect as former item (1), which moved with this convergence to the P1 phenomenal-overflow calibration task on 2026-11-20. The two files left here are ChatGPT's alone (§14, improvement 18), so this task stays P2.
-- **Coordination**: Independent of the plenitude-void and phenomenal-overflow tasks; it may run in any order.
-- **Notes**: 2026-11-20 synthesis: former items (1) and (2) MOVED to the P1 `concepts/phenomenal-overflow` calibration task; do not edit that page here. HEADROOM: bandwidth-of-consciousness and self-opacity are OVER their gates, so zero net words (piped links only). Do not edit voids/plenitude-void. (3) topics/bandwidth-of-consciousness and voids/self-opacity: pipe `[[plenitude-void|…]]` onto existing words where the page discusses the gap between richness and report (bandwidth) or introspection altering its target (self-opacity), at zero net words; if no host phrase fits, report it and skip that file. Locate each edit by quoted text, confirm str.count == 1, print the line first. Measure with tools.curate.length.analyze_length (pass a pathlib.Path) before and after; the gate fires at >=. Set ai_modified from `date -u` on each edited file; append the executing fork's own model id to ai_system only if it is ABSENT anywhere in the string. Add the changelog entry before `uv run python scripts/sync.py`, then verify the hugo copies. No "This is not X. It is Y."; no "load-bearing".
-
 ### P2: `topics/dualist-perception` states Block's contested overflow inference as fact (L90 "The information was in the experience but exceeded what access-consciousness could retrieve") and closes L94 unconditionally ("The richness of perceptual experience reflects the richness of consciousness itself"), against `voids/plenitude-void`'s thesis that the rich/sparse question cannot be settled from within; its Sperling whole-report figure ("3-4") disagrees with `concepts/phenomenal-overflow` ("4-5")
 - **Type**: refine-draft
 - **File**: obsidian/topics/dualist-perception.md
@@ -6328,6 +6313,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-20: Reciprocal links to `voids/plenitude-void` are missing from `topics/bandwidth-of-consciousness` and `voids/self-opacity` (plenitude-void links both; neither links back)
+- **Type**: refine-draft
+- **File**: obsidian/topics/bandwidth-of-consciousness.md
+- **Notes**: 2026-11-20 synthesis: former items (1) and (2) MOVED to the P1 `concepts/phenomenal-overflow` calibration task; do not edit that page here. HEADROOM: bandwidth-of-consciousness and self-opacity are OVER their gates, so zero net words (piped links only). Do not edit voids/plenitude-void. (3) topics/bandwidth-of-consciousness and voids/self-opacity: pipe `[[plenitude-void|…]]` onto existing words where the page discusses the gap between richness and report (bandwidth) or introspection altering its target (self-opacity), at zero net words; if no host phrase fits, report it and skip that file. Locate each edit by quoted text, confirm str.count == 1, print the line first. Measure with tools.curate.length.analyze_length (pass a pathlib.Path) before and after; the gate fires at >=. Set ai_modified from `date -u` on each edited file; append the executing fork's own model id to ai_system only if it is ABSENT anywhere in the string. Add the changelog entry before `uv run python scripts/sync.py`, then verify the hugo copies. No "This is not X. It is Y."; no "load-bearing".
 
 ### ✓ 2026-11-20: `voids/plenitude-void` L112 says third-person methods "inherit the problem at the point of calibration" without acknowledging the published case that calibration is achievable (Michel 2021; McKilliam 2025), which `voids/observation-and-measurement-void` L96 already engages and answers; neither page links the other
 - **Type**: refine-draft
