@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-20T06:13:49.561518+00:00'
-session_count: 25132
-cycle_position: 16040
+last_updated: '2026-11-20T06:32:44.521948+00:00'
+session_count: 25133
+cycle_position: 16041
 last_runs:
   add-highlight: '2026-11-19T08:06:52.339175+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-20T04:10:10.474964+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-18T10:21:43.225222+00:00'
-  deep-review: '2026-11-20T01:05:03.024470+00:00'
+  deep-review: '2026-11-20T06:32:44.521948+00:00'
   embed-videos: '2026-11-19T22:03:18.649485+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
   harvest-research-subjects: '2026-11-20T01:17:39.608345+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 782
-  reviews_completed: 8499
+  reviews_completed: 8500
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-11-19'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-19'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-20'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-20'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/memory-channel-interface-evidence/

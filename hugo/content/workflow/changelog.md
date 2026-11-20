@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20 06:29:33+00:00
+ai_modified: 2026-11-20 06:50:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-20'
-lastmod: 2026-11-20 06:29:33+00:00
+lastmod: 2026-11-20 06:50:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-20T06:50:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [plenitude-void](/voids/plenitude-void/)
+- **Task**: run 2 of 4 (citation fidelity; absorbs the former P3 quotation check) of the combined plenitude-void plan (`reviews/outer-review-synthesis-2026-11-20.md`, "Combined plenitude-void budget"); review files `reviews/outer-review-2026-11-20-chatgpt-5-6-sol-pro.md` §7, §10, plus the Claude Fable 5.2 (§2.1 rows 2–3) and Gemini 4 Neon files
+- **Original score**: n/a (`scripts/curate.py` absent; task-directed citation pass)
+- **Changes**: (1) Confabulation paragraph (plan L102): the Simons & Chabris (1999) "confident post-hoc descriptions" sentence (the paper has no confidence measure: "confiden" 0 hits in the chabris.com PDF) → none of their non-noticers recalled the unexpected event when asked directly (paper: not one of the 88 "'remembered' the Gorilla or Umbrella-Woman events when specifically asked about it"), yet highly confident non-noticers collectively locate the missed stimulus above chance (Nartker et al. 2025; PMC12088676 full text: "even subjects who were highly confident that they had not noticed anything unusual were collectively significantly above chance"). "And subsequent replications" dropped; run 1's Nartker entry reused. Same paragraph: "is not a passive readout; it is a construction" → "is constructed, not passively read out". (2) Third-position paragraph (plan L72): the Churchland (1981) attribution of "'phenomenal content' is not a natural kind" removed (the paper is about propositional attitudes); recast as eliminativism turned from the propositional attitudes the Churchlands targeted onto qualia, "as [illusionism](/concepts/illusionism/) does" (agrees with `concepts/illusionism` L57), piped [eliminativism](/topics/eliminative-materialism/), "the void may dissolve"; 72 → 56 words; Churchland 1981 reference removed. (3) L58: "Noë and O'Regan (2001) offered a different deflation … "outside memory."" → "O'Regan and Noë (2001) denied the illusion … "outside memory" (O'Regan 1992)"; O'Regan (1992) reference added (Crossref doi 10.1037/h0084327: *Canadian Journal of Psychology* 46(3), 461–488). Noë (2002) himself credits the phrase to O'Regan (1992) (fn 11) and says "O'Regan no longer defends the grand illusion hypothesis. See, for example, O'Regan & Noë (2001a)" (fn 7); the 2001 BBS full text was not obtained (abstract: "The outside world serves as its own, external, representation"). (4) Rahnev clause (plan L80, first sentence only): "unattended periphery is rated more visible than attended content at matched objective performance" → "unattended stimuli are rated more visible than attended ones at matched discrimination sensitivity". Full text read (Rahnev lab PDF of the *Nature Neuroscience* article with supplement): Experiment 3 equated discrimination d′ (P = 0.27) and attention lowered visibility ratings, so matched sensitivity is supported; all cued and uncued gratings sat 5° from fixation and "peripheral" appears only in the motivating paragraph, so "periphery" was the overreach. (5) L56: Blackmore year added, and "arguing that" → "suggesting that" (source: "Maybe each time you probe, a retrospective story is concocted …"); "On this family of views" → "On Dennett's and Blackmore's views", since Noë (2002, JCS 9(5–6), 1–12, read in full) concludes "The visual world is not a grand illusion."
+- **Ledger (analyze_length)**: 3,052 → 3,042 (net −10; target about −10, rule ≤ 0). Spent: O'Regan 1992 reference +24, L56 Blackmore +1, L58 +1. Funded: Churchland reference −17, third-position paragraph −16 (72 → 56), readout recast −3. Simons replacement 0 (29 → 29), Rahnev 0, Noë regrouping 0, two piped links 0.
+- **Quotation verdicts**: Bronfman et al. 2014 "a unique summary statistic" (1 hit) and "is registered automatically, outside focal attention, and without consuming additional working memory resources" (1) — verbatim, PubMed 24815608 abstract; Ward, Bear & Scholl 2016, both strings verbatim (1, 1; PubMed 27038156); Knotts et al. 2019 verbatim (1; PubMed 30503986); Blackmore 2002 verbatim (1; susanblackmore.uk copy of the *New Scientist* piece, 22 June 2002, pp. 26–29); Noë verbatim in Kirk Ludwig's quotation of Noë's preface to the 2002 volume ("Noe, 2002b, preface"; Wayback copy of PhilPapers LUDITA), 0 hits in Noë's own target paper. The preface itself was not obtained; "editing … framed" fits a preface. Nonsense controls 0. Tye and Schwitzgebel not touched.
+- **Reply-mode classification (editor-internal)**: eliminativism/illusionism paragraph: Mode Three; the page records it as a live alternative the void must survive and claims no refutation.
+- **Orphan check**: (surname, year) clean in both directions. Southgate 2026 is linked in the body by wikilink, as the writing-style self-citation guideline prescribes; not an orphan, no edit.
+- **Not touched**: runs 1, 3 and 4's lines and the no-edit lines (plan L66, L68, L70, L94, L104, L110, L116, L124, L126). At plan L78/L80 only the Rahnev clause changed. Bronfman's "finding that" (abstract: "which suggests that") is left for the driver because no run owns it.
+- **Published**: yes
 
 ## 2026-11-20T06:29:33+00:00 - deep-review
 - **Status**: Success

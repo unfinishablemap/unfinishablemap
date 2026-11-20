@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-11-20 06:10:14+00:00
+ai_modified: 2026-11-20 06:48:32+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 00:40:55+00:00
-lastmod: 2026-11-20 06:10:14+00:00
+lastmod: 2026-11-20 06:48:32+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -57,9 +57,9 @@ The plenitude void is adjacent but distinct: it concerns the chronic *over-produ
 
 The empirical contours were mapped in the 1990s and 2000s. Change blindness paradigms showed that subjects fail to notice large changes in visual scenes when a brief disruption masks the change. Inattentional blindness showed that salient stimuli can be absent from reported experience when attention is engaged elsewhere (the invisible gorilla). Saccadic suppression showed that visual sensitivity drops selectively during eye movements, 3–4 times per second, without any experienced interruption. The blind spot is never experienced as a gap.
 
-Alva Noë, editing *Is the Visual World a Grand Illusion?* (2002), framed these findings as calling "into question whether we really enjoy perceptual experiences which represent the environment in rich detail." Dennett had argued in *Consciousness Explained* (1991) that the brain does not "fill in" gaps but simply never notices they need filling. Susan Blackmore extended this, arguing that "a retrospective story is concocted about what was in the stream of consciousness a moment before." On this family of views, the richness of experience is itself the illusion.
+Alva Noë, editing *Is the Visual World a Grand Illusion?* (2002), framed these findings as calling "into question whether we really enjoy perceptual experiences which represent the environment in rich detail." Dennett had argued in *Consciousness Explained* (1991) that the brain does not "fill in" gaps but simply never notices they need filling. Susan Blackmore (2002) extended this, suggesting that "a retrospective story is concocted about what was in the stream of consciousness a moment before." On Dennett's and Blackmore's views, the richness of experience is itself the illusion.
 
-Noë and O'Regan (2001) offered a different deflation: the world serves as its own "outside memory." Seeing is mastery of sensorimotor contingencies — patterns of how input changes with action — not internal construction. The felt richness arises from knowing details are *accessible* via eye movements, not from stored internal detail.
+O'Regan and Noë (2001) denied the illusion: the world serves as its own "outside memory" (O'Regan 1992). Seeing is mastery of sensorimotor contingencies — patterns of how input changes with action — not internal construction. The felt richness arises from knowing details are *accessible* via eye movements, not from stored internal detail.
 
 ## Block's Overflow Rejoinder
 
@@ -71,7 +71,7 @@ The debate has not converged. Jesse Prinz's Attended Intermediate-level Represen
 
 The two sides are not, however, symmetric in their relation to evidence. The grand-illusion view makes specific behavioural predictions — confabulation under change blindness, decoupling of confidence from accuracy, failure to find a stable phenomenal witness distinct from reported content. Block's overflow view, by contrast, posits phenomenal content that by stipulation does not reach report, and therefore cannot be positively identified by any report-based method. The void is a void partly because this asymmetry in falsifiability does not translate into a resolution of the substantive question: prediction and posit can each remain compatible with the evidence without either being forced out.
 
-A third position. Eliminativists such as Paul Churchland reject the Block–Dennett framing altogether: "phenomenal content" is not a natural kind, and the void dissolves if one drops the category. On this view, iconic memory and change blindness await redescription in a mature cognitive vocabulary, and the plenitude question is an artefact of folk-psychological commitments. The article treats eliminativism as a live alternative the void has to survive rather than as already refuted.
+A third position rejects the Block–Dennett framing. Turn [eliminativism](/topics/eliminative-materialism/) from the propositional attitudes the Churchlands targeted onto qualia, as [illusionism](/concepts/illusionism/) does, and *phenomenal content* is no natural kind: the void may dissolve with the category, and iconic memory and change blindness await redescription in mature cognitive terms. This remains a live alternative the void must survive.
 
 ## The Ensemble Reframe
 
@@ -79,7 +79,7 @@ A fourth position asks not how much detail is present but in what format. Cohen,
 
 It reaches the evidence too. Bronfman, Brezis, Jacobson and Usher (2014) used colour diversity — "a unique summary statistic" — to route around report limits in a Sperling-like array, finding that it "is registered automatically, outside focal attention, and without consuming additional working memory resources," a result read as support for overflow. Ward, Bear and Scholl (2016) cut the inference carrying that reading: observers reported ensemble properties accurately while awareness of the constituent items was coarse or absent, and they conclude that "awareness of statistical properties may occur in the absence of awareness of individual features" and that this is "fully consistent with sparse visual awareness."
 
-Subjective inflation then accounts for the seeming itself. Attention induces conservative visibility ratings, so unattended periphery is rated more visible than attended content at matched objective performance (Rahnev et al. 2011); Knotts, Odegaard, Lau and Rosenthal (2019) argue from this that "subjective inflation can account for rich phenomenology without invoking phenomenological overflow" — one mechanism in place of two categories of consciousness. The economy is real, and by [Occam's Razor Has Limits](/tenets/#occams-limits) a real economy is not by itself evidence.
+Subjective inflation then accounts for the seeming itself. Attention induces conservative visibility ratings, so unattended stimuli are rated more visible than attended ones at matched discrimination sensitivity (Rahnev et al. 2011); Knotts, Odegaard, Lau and Rosenthal (2019) argue from this that "subjective inflation can account for rich phenomenology without invoking phenomenological overflow" — one mechanism in place of two categories of consciousness. The economy is real, and by [Occam's Razor Has Limits](/tenets/#occams-limits) a real economy is not by itself evidence.
 
 ## Introspection's Unreliability
 
@@ -101,7 +101,7 @@ What makes the plenitude void a void, rather than merely a hard problem, is that
 
 **The check-and-find loop.** Every introspective probe for sparsity directs attention. Looking to see whether peripheral vision is blurry can momentarily clarify the peripheral region: covert attention improves processing at the attended location without moving the eyes (Posner 1980), and a saccade may follow and replace peripheral input with foveal. Since probes may enhance, select, transform or reconstruct their target, what checking finds cannot be projected back onto the unprobed state: a check cannot tell detail it found from detail it made. The step from probe-result to phenomenal verdict is itself opaque (the [inference-void](/voids/inference-void/)), compounding the difficulty. The [imagery-void](/voids/imagery-void/) shows the same structure in one domain: probing for the exact shade of an imagined apple may supply detail the image lacked, and confident reports diverge across persons and across probes.
 
-**The confabulation default.** Reports about just-elapsed experience feel authoritative but are known to diverge systematically from what was registered. The introspective report is not a passive readout; it is a construction. Follow-up work on the inattentional-blindness paradigm (Simons & Chabris 1999, and subsequent replications) finds that subjects who miss the gorilla can nonetheless offer confident post-hoc descriptions of the scene. Confidence and accuracy decouple without any phenomenal marker distinguishing the two.
+**The confabulation default.** Reports about just-elapsed experience feel authoritative but are known to diverge systematically from what was registered. The introspective report is constructed, not passively read out. None of Simons and Chabris's (1999) non-noticers recalled the unexpected event when asked directly, yet highly confident non-noticers collectively locate the missed stimulus above chance (Nartker et al. 2025). Confidence and accuracy decouple without any phenomenal marker distinguishing the two.
 
 **The theory-dependence of what counts as experienced.** Whether the gorilla was *experienced but not accessed* or *never experienced at all* depends on prior commitments about what experience is. The Block–Dennett dispute is partly verbal and partly substantive, but the substantive question cannot be settled without agreement on what counts as evidence — and evidence turns on the substantive question.
 
@@ -146,12 +146,12 @@ The void also connects to [self-opacity](/voids/self-opacity/) (the general stru
 1. Block, N. (2007). "Consciousness, accessibility, and the mesh between psychology and neuroscience." *Behavioral and Brain Sciences*, 30(5–6), 481–499.
 1. Blackmore, S. (2002). "The Grand Illusion: Why consciousness exists only when you look for it." *New Scientist*, 2348.
 1. Bronfman, Z. Z., Brezis, N., Jacobson, H. & Usher, M. (2014). "We See More Than We Can Report: 'Cost Free' Color Phenomenality Outside Focal Attention." *Psychological Science*, 25(7), 1394–1403.
-1. Churchland, P. M. (1981). "Eliminative Materialism and the Propositional Attitudes." *The Journal of Philosophy*, 78(2), 67–90.
 1. Cohen, M. A., Dennett, D. C. & Kanwisher, N. (2016). "What is the Bandwidth of Perceptual Experience?" *Trends in Cognitive Sciences*, 20(5), 324–335.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 1. Knotts, J. D., Odegaard, B., Lau, H. & Rosenthal, D. (2019). "Subjective inflation: phenomenology's get-rich-quick scheme." *Current Opinion in Psychology*, 29, 49–55.
 1. Nartker, M., Firestone, C., Egeth, H. & Phillips, I. (2025). "Sensitivity to visual features in inattentional blindness." *eLife*, 13, RP100337.
 1. Noë, A. (ed.) (2002). *Is the Visual World a Grand Illusion?* Imprint Academic.
+1. O'Regan, J. K. (1992). "Solving the 'real' mysteries of visual perception: The world as an outside memory." *Canadian Journal of Psychology*, 46(3), 461–488.
 1. O'Regan, J. K. & Noë, A. (2001). "A Sensorimotor Account of Vision and Visual Consciousness." *Behavioral and Brain Sciences*, 24(5), 939–973.
 1. Posner, M. I. (1980). "Orienting of Attention." *Quarterly Journal of Experimental Psychology*, 32(1), 3–25.
 1. Prinz, J. (2012). *The Conscious Brain: How Attention Engenders Experience*. Oxford University Press.
