@@ -416,9 +416,9 @@
   commissioned_at: '2026-11-20T03:20:36.272113+00:00'
   prompt_summary: 'Referee audit of The Plenitude Void: citations, literature, objections'
   target_filename: outer-review-2026-11-20-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-20T05:05:02.499504+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
     a site that argues for interactionist dualism. Please audit its article "The Plenitude

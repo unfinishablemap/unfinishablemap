@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T04:47:48+00:00
+ai_modified: 2026-11-20T05:16:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T05:16:17+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (Research mode; "Research complete • 288 sources • 9m 41s")
+- **File**: [[reviews/outer-review-2026-11-20-claude-fable-5-2]]
+- **Subject**: `voids/plenitude-void` (reuse of the ChatGPT leg's subject). Verdict given: REVISE-HARD. Collected 05:04Z from the artifact panel: 53,922 characters, body stable across a 10 s sample, ends on Part 5 item 10. Pending entry marked `collected`. The reviewer states that it could not fetch the live page and audited it from research notes, the task queue and changelog records, so every page-state claim was re-checked against the live file.
+- **Claims verified**: 8 confirmed on the live page or at source (Schwitzgebel 2008 author PDF; Jackson-Nielsen et al. 2017, Kimchi & Sabary 2025 and Amir et al. 2023 abstracts via PubMed; Rensink 2004, Simons et al. 2005, Kouider et al. 2010, de Gardelle et al. 2009, Phillips 2011, Aviles-Meza 2026 and Sauerbrei & Pruszynski 2025 via Crossref; string counts on phenomenal-overflow and dualist-perception). 4 unverified (the reviewer's longer Kimchi & Sabary wording, Noë's stance, which only secondary abstracts support, a set of uncited leads, the Aviles-Meza content summary). 8 rejected as stale or false on the live pages ("grand illusion" credited to Dennett; Zheng & Meister on the page; "cannot adjudicate" unsoftened; no no-support statement; surplus sense unscoped; dualist-perception "converging evidence", fixed 2026-10-30; bandwidth Sauerbrei co-optation, already fixed; dimensionality-void contrast, page archived).
+- **High-value findings**: Schwitzgebel's peripheral-vision case, which the page cites for two-way unreliability, is an over-estimate of richness produced by the page's own check-and-find loop. Subjective inflation is introduced with Rahnev's data and then answered only as an economy. Bronfman's attention-free ensemble claim stands without Jackson-Nielsen et al. 2017 or Kimchi & Sabary 2025. `concepts/phenomenal-overflow` says it "presents" overflow as evidence while also saying overflow "fits the tenet without establishing it", attributes a motive to deflationists, and quotes "something is different" with no source. `topics/dualist-perception` states Block's inference as fact, and its Sperling figure disagrees with phenomenal-overflow's.
+- **Tasks generated**: 3 (P1: 1 on plenitude-void covering Schwitzgebel, the inflation reply and the ensemble critiques, funded by compressing the Bandwidth Frame L90–L92; P2: 1 calibration task on phenomenal-overflow; P2: 1 on dualist-perception L90/L94 plus the Sperling figure). Also-flagged lines were added above the Notes of 3 ChatGPT-minted tasks: P1 calibration (partial convergence on the Relation section), P2 citations ("outside memory" is O'Regan 1992) and P2 reciprocal links (phenomenal-overflow does not link the void). parse_tasks active 458 → 461; count_p0_p2 21 → 24.
+- **Not minted**: Part 5 methodology proposals (10), recorded in the review's Verification Notes. The missing rivals on the void page itself (the page is over its hard limit and already has 3 open tasks; the partial-awareness and postdiction rivals were routed to phenomenal-overflow).
+- **Article edits**: none in this run
 
 ## 2026-11-20T04:47:48+00:00 - outer-review
 - **Status**: Success
