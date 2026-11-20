@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-11-19 13:52:13+00:00
+ai_modified: 2026-11-20 12:12:19+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[evidential-status-discipline]]'
 - '[[post-decoherence-selection]]'
 created: 2026-02-10
-date: &id001 2026-11-19
+date: &id001 2026-11-20
 description: Can consciousness exist outside time? Husserl's absolute flow, meditative
   timelessness, and fragmentation evidence converge on a non-temporal ground of mind.
 draft: false
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 05:05:10+00:00
-lastmod: 2026-11-19 13:52:13+00:00
+lastmod: 2026-11-20 12:12:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ A representationalist can resist: the experience remains a temporal brain proces
 
 Whether that stronger reading is correct is not something the meditative data can settle. At the level of the report the two readings are observationally equivalent — an atemporal ground accessed directly and a temporally structured process representing an undifferentiated present predict the same first-person description. Against a representationalist who grants the phenomenology while resisting its metaphysical upgrade, that is a disagreement at the framework boundary, marked honestly as such rather than settled on the representationalist's own terms.
 
-The representationalist resistance now has a concrete mechanism. Active-inference models treat alert contentless awareness as a limit case of predictive processing: Laukkonen, Friston and Chandaria (2025) locate timeless awareness where precision-weighting shifts flatten the temporal-depth priors that generate represented succession, and Metzinger (2020) reads "pure awareness" as the content of a Bayesian model of tonic alertness — maximal alertness with a maximally simple reality-model, no non-temporal ground anywhere in it. This sharpens the article's discipline rather than softening it: a physicalist mechanism that explains alert-timeless awareness means the meditative data do not *constrain* the space in the Map's favour, and the [predictive construction void](/voids/predictive-construction-void/) names why consciousness cannot settle the ratio of construction to reception from the inside. What tilts toward the non-temporal reading is the independent regress argument, not the contemplative evidence.
+The representationalist resistance now has a concrete mechanism. Active-inference models treat alert contentless awareness as a limit case of predictive processing: Laukkonen, Friston and Chandaria (2025) model the state as maximal epistemic depth with "minimal precision across the abstraction hierarchy", and Metzinger (2020) reads "pure awareness" as the content of a Bayesian model of tonic alertness — maximal alertness with a maximally simple reality-model, no non-temporal ground anywhere in it. This sharpens the article's discipline rather than softening it: a physicalist mechanism that explains alert-timeless awareness means the meditative data do not *constrain* the space in the Map's favour, and the [predictive construction void](/voids/predictive-construction-void/) names why consciousness cannot settle the ratio of construction to reception from the inside. What tilts toward the non-temporal reading is the independent regress argument, not the contemplative evidence.
 
 A deeper objection cuts beneath the representationalist's. The constructivist tradition in religious studies — Katz (1978), Sharf (1995, 2000) — denies that meditative reports are *unmediated* phenomenological data at all. There are, Katz insists, "*no* pure (i.e., unmediated) experiences." Sharf reads Buddhist meditation reports as "the ritualization of experience… scripts for the performance of an eminently public religious drama." On this view, the Jhāna treatise does not record what the meditator finds; it instructs the meditator what to find, and convergence is the outcome the tradition was engineered to produce.
 
