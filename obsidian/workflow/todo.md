@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Iconic and discursive perceptual format and the richness question
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-11-20-gemini-4-neon.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-20-gemini-4-neon (Weaknesses, third; citation table row on Cohen, Dennett & Kanwisher 2016 / Ward et al. 2016) says the Map 'omits the iconic-vs.-discursive format debate' and the '2020s philosophy of perceptual format' (Quilty-Dunn 2020; Block 2023, The Border Between Seeing and Thinking) when it frames the plenitude question. Driver re-grep 07:34Z: 'perceptual format' 0 live/0 research; live 'iconic' hits are almost all 'iconic memory' (Sperling); Quilty-Dunn appears only in topics/visual-indexes-and-demonstrative-reference. Caps 370/370: expect a fold into concepts/phenomenal-overflow or voids/plenitude-void (the latter is over its length gate — fold must be minimal there). Target section: concepts (caps 370/370 at harvest: expect a fold verdict). Output a research note to obsidian/research/iconic-and-discursive-perceptual-format-2026-11-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'iconic-and-discursive-perceptual-format' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-20
+
 ### P3: Four pages state the "beautiful loop" theory (Laukkonen, Friston and Chandaria 2025) more strongly than the paper does: the authors "argue that ... active inference *constitutes* phenomenal experience", the theory "simply denies" a zombie duplicate, the loop "*is* the feeling", and a temporal-depth mechanism for timeless awareness that is not in the preprint
 - **Type**: refine-draft
 - **File**: obsidian/topics/phenomenology-of-anticipation.md
