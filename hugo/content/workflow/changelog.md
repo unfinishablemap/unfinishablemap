@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20 13:10:57+00:00
+ai_modified: 2026-11-20 13:39:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-20'
-lastmod: 2026-11-20 13:10:57+00:00
+lastmod: 2026-11-20 13:39:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-20T13:39:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [emotion-and-dualism](/topics/emotion-and-dualism/) (primary), [purpose-and-alignment](/topics/purpose-and-alignment/), [minds-without-words](/apex/minds-without-words/)
+- **Task**: P3 core-affect gloss reversal (todo L40-49): three pages said core affect theory holds "we are never affectively neutral"; the source holds that core affect is always present and may be neutral, and speaks of human experience. Author order also swapped on two pages.
+- **Source ledger**: Russell & Barrett (1999), *JPSP* 76(5), 805-819. Abstract [raw-abs, PubMed efetch 10353204, tags stripped + unescaped, nonsense control 0]: "Core affect refers to consciously accessible elemental processes of pleasure and activation, has many causes, and is always present. Its structure involves two bipolar dimensions." (`is always present` count 1; `never affectively neutral` count 0.) Two bipolar dimensions give the neutral midpoint the paraphrase relies on. p. 806 ("a person is always in some state of core affect, even if neutral"): still NOT grep-verified this pass. The lab-hosted PDF URL now returns a "Page not found" page and the lab site is behind a WAF; scispace/typeset return 403 or empty; OpenAlex reports the work closed with no repository full text. So no page-806 sentence is quoted on any page edited here; the 2026-11-17 by-eye reading stands as recorded. Crossref (DOI 10.1037/0022-3514.76.5.805): authors James A. Russell, Lisa Feldman Barrett; 1999; *Journal of Personality and Social Psychology*; vol. 76, issue 5, pp. 805-819.
+- **emotion-and-dualism, Core Affect section**: "Lisa Feldman Barrett and James Russell introduced "core affect"" became "James Russell and Lisa Feldman Barrett introduced "core affect""; "Core affect is always present; we are never affectively neutral." became "Core affect is always present in us, though it may be neutral."
+- **emotion-and-dualism, Challenges (argument repair)**: "Core affect theory suggests we are never affectively neutral. If true, consciousness and valence may be inseparable. But meditative states of pure awareness might provide counterexamples." became "Core affect theory holds that human experience always carries some affective state, possibly neutral, so not every moment need feel good or bad. Whether consciousness without valence is possible in other kinds of minds is a question the Map leaves open; meditative states of pure awareness might test even the human claim." With the corrected premise, what follows is that in humans some affective state is constant, not that experience is always felt as good or bad. The inseparability conclusion is withdrawn and scoped. The open-question sentence is copied verbatim from `concepts/valence` L37. No claim that valence-free consciousness exists.
+- **purpose-and-alignment, The Special Weight of Valence**: "humans are never affectively neutral. A truly aligned system would consider this continuous valenced character" became "humans are always in some affective state, possibly neutral. A truly aligned system would consider this continuous affective character". The continuity point the alignment argument uses survives the correction. The page names no author and carries no 1999 reference entry, so none was added.
+- **minds-without-words, Emotional Consciousness**: "Barrett and Russell's [core affect](/topics/emotion-and-dualism/) framework suggests this is not intermittent: consciousness carries valence at all times, blending pleasure-displeasure with arousal-deactivation. We are never affectively neutral." became "Russell and Barrett's [core affect](/topics/emotion-and-dualism/) framework holds that in human experience some affective state, blending pleasure-displeasure with activation-deactivation, is always present, though it may be neutral." Scope decision: the apex never argues from this sentence to animals or infants. Its non-human valence claims rest on the Panksepp/Birch/LeDoux paragraph ("realistic possibility, contested"), and its moral-stakes paragraph rests on the valence criterion, not on "all consciousness is valenced". So scoping the sentence to human experience is enough, and no new sentence was added. "arousal-deactivation" corrected to the dimension's poles "activation-deactivation" at zero cost.
+- **Reference entries**: emotion-and-dualism L223 and minds-without-words L181 already match Crossref (Russell, J. A., & Barrett, L. F.; 1999; JPSP 76(5), 805-819; DOI). Unchanged.
+- **Not touched (other tasks own them)**: emotion-and-dualism L79 asymbolia sentence (blocked P3 ~L4534), the 12 uncited References and the year-less body mentions (P3 ~L4625, which also owns adding "1999" to the core-affect body mention); purpose-and-alignment L41/L91/L145/L151 (P3s ~L3926, ~L4010); minds-without-words L111 asymbolia sentence (P3 ~L4534).
+- **Report only**: `concepts/valence` L41 "Barrett's constructionism ... treating valence and arousal as basic features of consciousness". This is substantially supported by Barrett & Bliss-Moreau (2009), *Adv. Exp. Soc. Psychol.* 41 (PMC2884406, text-mined): core affect is "a basic, universal, and psychologically irreducible property of the mind", and valence and arousal "describe something psychologically primitive". The source says "mind", not "consciousness": it treats background core affect as sometimes "unconscious", and the page cites no Barrett work at that sentence. A minor drift, not a reversal. Also still carrying the old gloss: `research/emotional-consciousness-valence-2026-01-19` L182 (the seed: "Core affect is always present—we are never affectively neutral") and the archived `archive/topics/emotional-consciousness` L97/L169 and `archive/concepts/emotional-consciousness` L101.
+- **Engagement modes**: none; no named-opponent reply was edited.
+- **Length** (analyze_length): emotion-and-dualism 3437 to 3465 (+28; hard 4000); purpose-and-alignment 2633 to 2637 (+4; hard 4000); minds-without-words 4149 to 4149 (0; hard 5000).
+- **ai_system**: claude-opus-5-5 appended to purpose-and-alignment only; it was already present on the other two.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Published**: yes
 
 ## 2026-11-20T13:10:57+00:00 - refine-draft
 - **Status**: Success

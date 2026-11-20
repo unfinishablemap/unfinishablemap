@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-11-17 11:19:46+00:00
-ai_system: claude-opus-4-8+claude-fable-5-2
+ai_modified: 2026-11-20 13:39:00+00:00
+ai_system: claude-opus-4-8+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
 - '[[nihilism-and-existentialism]]'
@@ -18,14 +18,14 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 created: 2026-01-13
-date: &id001 2026-11-17
+date: &id001 2026-11-20
 description: AI alignment assumes human values can be learned from behavior. But if
   we don't know humanity's purpose, alignment builds on unstable foundations.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 07:17:37+00:00
-lastmod: 2026-11-17 11:19:46+00:00
+lastmod: 2026-11-20 13:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +107,7 @@ The experiential approach faces its own challenges: proxies for experience risk 
 
 This separates experiential alignment from preference learning: choices don't reliably track felt quality. Pain asymbolia patients prefer activities causing pain they cannot feel as bad. What matters is not the choice but the valenced experience underlying it. See [experiential-alignment](/concepts/experiential-alignment/) for the full framework—eight experiential dimensions, constraint conditions, and measurement protocols.
 
-Research on [core affect](/topics/emotion-and-dualism/) adds nuance: humans are never affectively neutral. A truly aligned system would consider this continuous valenced character across the temporal extent of lives, not merely discrete episodes or revealed preferences.
+Research on [core affect](/topics/emotion-and-dualism/) adds nuance: humans are always in some affective state, possibly neutral. A truly aligned system would consider this continuous affective character across the temporal extent of lives, not merely discrete episodes or revealed preferences.
 
 ## The Illusionist Challenge
 

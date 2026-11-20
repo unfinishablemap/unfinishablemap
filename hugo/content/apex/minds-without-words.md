@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-11-10 14:36:07+00:00
+ai_modified: 2026-11-20 13:39:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 apex_last_synthesis: 2026-05-19 21:00:00+00:00
 apex_sources:
@@ -23,7 +23,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[interface-threshold]]'
 created: 2026-01-31
-date: &id001 2026-11-10
+date: &id001 2026-11-20
 description: Non-linguistic consciousness from animals to simple organisms. The marker
   method, standing agnostic challenge, and constrain-vs-establish discipline structure
   the catalogue's evidential claims.
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:13:24+00:00
-lastmod: 2026-11-10 14:36:07+00:00
+lastmod: 2026-11-20 13:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ The Map's preference for the amplification reading is tenet-driven rather than f
 
 ## Emotional Consciousness: The Felt Quality of Valence
 
-Perhaps nowhere is consciousness more vivid than in emotional experience. The badness of pain and the pleasure of joy possess an intrinsic felt quality that no functional description captures. Barrett and Russell's [core affect](/topics/emotion-and-dualism/) framework suggests this is not intermittent: consciousness carries valence at all times, blending pleasure-displeasure with arousal-deactivation. We are never affectively neutral.
+Perhaps nowhere is consciousness more vivid than in emotional experience. The badness of pain and the pleasure of joy possess an intrinsic felt quality that no functional description captures. Russell and Barrett's [core affect](/topics/emotion-and-dualism/) framework holds that in human experience some affective state, blending pleasure-displeasure with activation-deactivation, is always present, though it may be neutral.
 
 Why does pain feel *bad* rather than merely different? The hedonic account treats valence as an intrinsic qualitative property of experience — the badness is not *about* anything external but a property of the pain itself. The evaluativist account (Carruthers 2018) argues valence represents value in the world. **Pain asymbolia narrows this specific dispute**: patients with damage to specific brain regions can represent tissue damage without feeling the badness. They report the pain exists but does not bother them; motivation collapses. The dissociation is between sensory and affective dimensions *within* cortical processing, which rules out identifying valence with damage detection, though evaluativists predict the same dissociation ([valence](/concepts/valence/)). Asymbolia does *not* settle the separate Panksepp-LeDoux question about subcortical phenomenal consciousness, where asymbolics' intact cortical higher-order representations make the case consistent with LeDoux rather than against him.
 

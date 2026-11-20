@@ -2,9 +2,9 @@
 title: "Emotion and Dualism"
 description: "Emotional consciousness provides the strongest empirical case for dualism. Valence—the felt quality of good and bad—is irreducible and presses on epiphenomenalism, though it binds bare correlation, not the phenomenal-concept version."
 created: 2026-01-19
-modified: 2026-11-16
+modified: 2026-11-20
 human_modified:
-ai_modified: 2026-11-16T11:23:37+00:00
+ai_modified: 2026-11-20T13:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,7 +110,7 @@ Emotions are also routinely regulated, explicitly and implicitly, and [[emotion-
 
 ## Core Affect and Emotional Depth
 
-Lisa Feldman Barrett and James Russell introduced "core affect"—a neurophysiological state blending valence (pleasure-displeasure) and arousal (activation-deactivation). Core affect is always present; we are never affectively neutral. Discrete emotions are conceptual categories applied to core affect—fear when arousal is high and valence negative in a threatening context, anger in contexts suggesting offense.
+James Russell and Lisa Feldman Barrett introduced "core affect"—a neurophysiological state blending valence (pleasure-displeasure) and arousal (activation-deactivation). Core affect is always present in us, though it may be neutral. Discrete emotions are conceptual categories applied to core affect—fear when arousal is high and valence negative in a threatening context, anger in contexts suggesting offense.
 
 This constructionist view preserves phenomenal realism about affect even while treating discrete emotions as conceptually constructed. Whether the affect that survives is itself a natural kind is the question [[valence-as-a-natural-kind|valence as a natural kind]] takes up, finding canonical constructionism supplying the Map's value premise with its relatum while the theory's 2025 restatement withdraws it. The Map's framework aligns: consciousness may select among options based on how they feel (core affect's valence), while higher cognition interprets these selections as fear, anger, or joy.
 
@@ -156,7 +156,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 
 **Is asymbolia conclusive?** One might argue that asymbolia involves damage to functional systems not yet identified, rather than selective removal of phenomenal valence. Even if future neuroscience discovers additional functional disruptions, the dissociation between damage representation and felt badness is robust—patients report the sensation without the suffering.
 
-**Does all consciousness involve valence?** Core affect theory suggests we are never affectively neutral. If true, consciousness and valence may be inseparable. But meditative states of pure awareness might provide counterexamples. More radically, the [[affective-void]] suggests there may be feeling-states beyond human phenomenal reach entirely.
+**Does all consciousness involve valence?** Core affect theory holds that human experience always carries some affective state, possibly neutral, so not every moment need feel good or bad. Whether consciousness without valence is possible in other kinds of minds is a question the Map leaves open; meditative states of pure awareness might test even the human claim. More radically, the [[affective-void]] suggests there may be feeling-states beyond human phenomenal reach entirely.
 
 **Do emotions constitute knowledge?** If emotional intentionality is sui generis, emotions may disclose aspects of reality that neither sensory observation nor abstract reasoning can reach—beauty, injustice, sacredness.
 

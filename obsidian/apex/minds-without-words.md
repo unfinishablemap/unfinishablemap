@@ -2,9 +2,9 @@
 title: "Minds Without Words"
 description: "Non-linguistic consciousness from animals to simple organisms. The marker method, standing agnostic challenge, and constrain-vs-establish discipline structure the catalogue's evidential claims."
 created: 2026-01-31
-modified: 2026-11-10
+modified: 2026-11-20
 human_modified: null
-ai_modified: 2026-11-10T14:36:07+00:00
+ai_modified: 2026-11-20T13:39:00+00:00
 last_deep_review: 2026-07-19T12:13:24+00:00
 draft: false
 topics:
@@ -106,7 +106,7 @@ The Map's preference for the amplification reading is tenet-driven rather than f
 
 ## Emotional Consciousness: The Felt Quality of Valence
 
-Perhaps nowhere is consciousness more vivid than in emotional experience. The badness of pain and the pleasure of joy possess an intrinsic felt quality that no functional description captures. Barrett and Russell's [[emotion-and-dualism|core affect]] framework suggests this is not intermittent: consciousness carries valence at all times, blending pleasure-displeasure with arousal-deactivation. We are never affectively neutral.
+Perhaps nowhere is consciousness more vivid than in emotional experience. The badness of pain and the pleasure of joy possess an intrinsic felt quality that no functional description captures. Russell and Barrett's [[emotion-and-dualism|core affect]] framework holds that in human experience some affective state, blending pleasure-displeasure with activation-deactivation, is always present, though it may be neutral.
 
 Why does pain feel *bad* rather than merely different? The hedonic account treats valence as an intrinsic qualitative property of experience — the badness is not *about* anything external but a property of the pain itself. The evaluativist account (Carruthers 2018) argues valence represents value in the world. **Pain asymbolia narrows this specific dispute**: patients with damage to specific brain regions can represent tissue damage without feeling the badness. They report the pain exists but does not bother them; motivation collapses. The dissociation is between sensory and affective dimensions *within* cortical processing, which rules out identifying valence with damage detection, though evaluativists predict the same dissociation ([[valence]]). Asymbolia does *not* settle the separate Panksepp-LeDoux question about subcortical phenomenal consciousness, where asymbolics' intact cortical higher-order representations make the case consistent with LeDoux rather than against him.
 
