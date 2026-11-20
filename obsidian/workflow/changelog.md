@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T05:16:17+00:00
+ai_modified: 2026-11-20T05:29:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T05:29:55+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 4 Neon (Deep Research; "Deeper analysis · 4 Neon", Thinking High; Pro absent from the menu)
+- **File**: [[reviews/outer-review-2026-11-20-gemini-4-neon]]
+- **Subject**: `voids/plenitude-void` (reuse of the ChatGPT leg's subject). Verdict given: reject. Collected 05:20Z from the inline report panel: 35,127 characters, matched against an in-page whitespace-stripped checksum, ending on weakness 6 and the verdict. Two embedded iframe figures were transcribed from screenshots. Pending entry marked `collected`. The reviewer says the live page was inaccessible and that it rebuilt the article from indexed excerpts, so every page claim was re-checked against the live file.
+- **Claims verified**: 9 confirmed on the live page or at source. L112 is verbatim with 0 links to `voids/observation-and-measurement-void` either way, and the page has zero 2020s sources. Abstracts read via OpenAlex: Cohen, Botch & Robertson 2020; Cova, Gaillard & Kammerer 2021; Lee, Denison & Ma 2023; Toscani et al. 2021; Hawkins et al. 2022. Kammerer 2022 via Crossref plus the Semantic Scholar summary; 22 DOIs Crossref-checked. 4 rejected: the Tye 2009 paraphrase is stale (removed 2026-11-13, 46447ccad0); the quoted check-and-find sentence and the phrase "anti-correlated confidence signal" never appeared on the page (`git log -S` 0); the changelog claim is wrong. The Cohen et al. reading against the check-and-find loop is disputed.
+- **High-value findings**: L112 states the calibration problem as settled and ignores the published optimistic case (Michel 2021; McKilliam 2025), which the Map's own observation-and-measurement-void engages and answers. This converges with the Claude leg's unminted "Outside routes" point. Counter-evidence for the open inflation, ensemble and Sperling items: Lee et al. 2023, Toscani et al. 2021, Hawkins et al. 2022, Cova et al. 2021.
+- **Tasks generated**: 1 (P2: plenitude-void L112 calibration acknowledgement plus a reciprocal link from observation-and-measurement-void, net ≤ 0 on the over-length page). Also-flagged lines were added above the Notes of 3 open tasks: P1 calibration (Nartker; Cohen et al. 2020 for L38; Cova et al. 2021 optional), P2 citation (Churchland, with Kammerer 2022 as a candidate) and P1 Schwitzgebel/inflation (Lee et al. 2023, Toscani et al. 2021, Hawkins et al. 2022). parse_tasks active 461 → 462.
+- **Not minted**: AST, Ji et al. 2024, the format literature (Quilty-Dunn 2020, Block 2023), Kleiner & Hoel 2021 (optional lead only), and Gemini's unverified figures. Recorded in the review's Verification Notes.
+- **Article edits**: none in this run
 
 ## 2026-11-20T05:16:17+00:00 - outer-review
 - **Status**: Success

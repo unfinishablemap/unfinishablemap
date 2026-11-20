@@ -446,9 +446,9 @@
   prompt_summary: 'Hostile referee audit of The Plenitude Void: claims, citations,
     objections'
   target_filename: outer-review-2026-11-20-gemini-4-neon.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-20T05:23:18.154479+00:00'
   failure_reason: null
   prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
     \ journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article\
