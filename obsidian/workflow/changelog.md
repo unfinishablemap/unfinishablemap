@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T07:13:49+00:00
+ai_modified: 2026-11-20T08:08:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T08:08:42+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: brain-state measures wing, five pages read in full: `concepts/entropic-brain-hypothesis`, `concepts/default-mode-network`, `concepts/neural-correlates-of-consciousness`, `topics/consciousness-disruption-and-the-mind-brain-interface`, `voids/anesthesia-void`. Chosen by content-measured coverage over 656 optimistic reviews: the most coherent cluster with the oldest optimistic coverage (EBH named by one review, last 2026-06-22; none of the five ever a wing subject), none on an open File/Secondary line or heading, none committed in 48 h, and outside the driver's avoid list.
+- **Output**: [[reviews/optimistic-2026-11-20-brain-state-measures-wing]]
+- **Calibration concerns** (all verified at source): (1) EBH L62/L66 and DMN L108 count ketamine's complexity rise as falling "awareness" (behavioural unresponsiveness), the premise disruption L104 says must be surrendered; Sarasso et al. 2015, the PCI source behind the claim, reads the rise as tracking "long, vivid dreams". (2) Disruption L100 still says propofol "produces near-total extinction", removed from NCC on 2026-10-02 (f864378bd7); Valli et al. 2023 (69.7%) and Bajwa et al. 2025 (24 of 52 awakenings, 5 of none) report experience. (3) Anaesthesia-void L111 says PCI/fMRI/EEG "can distinguish" the three anaesthetic states; Bajwa found PCIst/LZc did not separate dreaming from non-dreaming within sedation. (4) DMN L199/L204 falsifiability section omits Vanhaudenhuyse et al. 2010 (DMN connectivity vs consciousness level in DoC; 0 corpus mentions), reported, not minted.
+- **Tasks**: 3 refine-draft (P3) inserted above `## Completed Tasks` (todo L6321, L6333, L6344); active tasks by parse_tasks: 459 → 462. No expand-topic (topics/concepts 370/370, voids 124/125). Uncovered subjects (4) listed in the report for `/harvest-research-subjects`.
 
 ## 2026-11-20T07:13:49+00:00 - refine-draft
 - **Status**: Success

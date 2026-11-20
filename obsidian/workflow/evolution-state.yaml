@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-20T07:22:39.524619+00:00'
-session_count: 25136
+last_updated: '2026-11-20T07:33:14.829327+00:00'
+session_count: 25137
 cycle_position: 16043
 last_runs:
   add-highlight: '2026-11-19T08:06:52.339175+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-20T06:32:44.521948+00:00'
   embed-videos: '2026-11-19T22:03:18.649485+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
-  harvest-research-subjects: '2026-11-20T01:17:39.608345+00:00'
+  harvest-research-subjects: '2026-11-20T07:33:14.829327+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-17T05:08:57.426759+00:00'
   optimistic-review: '2026-11-19T15:52:38.835676+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-11-20'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-11-20'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-20'
   outcome: success
   kind: agentic_social
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-20'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-moral-life/
