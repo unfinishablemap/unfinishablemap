@@ -387,9 +387,9 @@
   commissioned_at: '2026-11-20T02:20:32.773089+00:00'
   prompt_summary: 'Audit plenitude-void: claims, citations, counterarguments, integration'
   target_filename: outer-review-2026-11-20-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-20T04:38:57.954682+00:00'
   failure_reason: null
   prompt_text: 'Please audit the article "The Plenitude Void" on The Unfinishable
     Map: https://unfinishablemap.org/voids/plenitude-void/ (site root https://unfinishablemap.org).

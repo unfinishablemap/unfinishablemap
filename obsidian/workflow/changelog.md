@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T03:35:22+00:00
+ai_modified: 2026-11-20T04:47:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T04:47:48+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (Pro thinking; "Try again • 5.6 Pro" in the reply's Retry menu; worked 15m 33s)
+- **File**: [[reviews/outer-review-2026-11-20-chatgpt-5-6-sol-pro]]
+- **Subject**: `voids/plenitude-void` (fallback:recent-aged). Disposition given: major revision. Collected 04:3xZ: 36,950 characters, SHA-256 identical to the in-page body, ends with the required improvements list (25 items). Pending entry marked `collected`.
+- **Claims verified**: 11 confirmed on the live page or at source (Simons & Chabris 1999 and Churchland 1981 full-text PDFs; Nartker 2025, Comay 2025 and Rahnev 2011 abstracts via PubMed; O'Regan 1992, Carrasco 2004 and Gorbachev & Frankish 2025 via Crossref; 8 recent papers confirmed to exist); 3 unverified (the reviewer's quote-accuracy reports, saccade rate, a Nartker full-text detail); 5 rejected (Surplus Void contradiction: different axis, already scoped at L80; introspection non sequitur: page scopes it to first-person looking; bandwidth incommensurability: page already defers and says non-adjudicated; calibration-circle split: largely present; parsimony: Tenet 5 boundary disagreement)
+- **High-value findings**: 2 citation defects (Simons & Chabris cited for a finding the paper does not report; Churchland 1981 credited with a thesis about "phenomenal content" it never states); opening "not actually registered" contradicted by Nartker 2025, which `concepts/phenomenal-overflow` already reports; "attention generates detail" stated as fact on Posner 1980; "processing is demonstrably sparse" against the page's own L90; Bidirectional Interaction unaddressed; plenitude-void and phenomenal-overflow do not link each other
+- **Tasks generated**: 3 (P1: 1 calibration cluster on plenitude-void, with phenomenal-quality-void L149 and imagery-void L153 as secondaries; P2: 1 citation fix on plenitude-void covering Simons, Churchland, O'Regan 1992 and Rahnev; P2: 1 reciprocal-link task on phenomenal-overflow with bandwidth-of-consciousness and self-opacity). All carry `Source: outer-review` and stay deferred until combine. 1 existing P3 (plenitude quote-check) given a one-line ADDENDUM inside its Notes. parse_tasks active 455 → 458; count_p0_p2 18 → 21
+- **Not minted**: methodology proposals 19–25 (construct-validity ledger, quotation-verification field, strongest-opponent section, framework-symmetry audit, void downgrade criteria, length enforcement); recorded in the review's Verification Notes
+- **Article edits**: none in this run
 
 ## 2026-11-20T03:35:22+00:00 - refine-draft
 - **Status**: Success
