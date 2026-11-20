@@ -4,7 +4,7 @@ description: "Human+AI exploration of why a mind in one visceral state cannot re
 created: 2026-09-28
 modified: 2026-11-02
 human_modified: null
-ai_modified: 2026-11-09T14:20:29+00:00
+ai_modified: 2026-11-20T13:47:37.658027+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -32,11 +32,22 @@ author: null
 ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-28
 last_curated: null
+embedded_videos:
+  - id: OECqVKWHE28
+    url: https://www.youtube-nocookie.com/embed/OECqVKWHE28
+    embedded: 2026-11-20T13:47:37.658027+00:00
+    source: notebooklm/0204-01-cross-state-void
 ---
 
 A sated mind cannot re-feel hunger, a comfortable mind cannot re-feel last week's toothache, and a calm mind cannot re-feel the rage it will be in tomorrow. These are states the mind has occupied many times and will occupy again, and it still cannot carry their full weight across. What crosses between visceral states is an attenuated trace: that the state was bad, a skewed sense of how bad, and enough weight to guide choice. What fails to cross is the full *pull* of the occurring state. The cross-state void names that shortfall. Its cleanest measurement is Sayette and colleagues' (2008): smokers predicting while not craving "underpredicted the value they would place on smoking" when craving, and smokers predicting while craving did not.
 
 Three features define it. The gap runs in both directions, since the hot self overestimates its own permanence while the cold self underestimates the hot (Loewenstein 2005). It survives disclosure in one study: instruction to correct for one's current state did not remove its effect (Nordgren, van der Pligt & van Harreveld 2006). And it applies to one's own familiar, recurring states, which separates it from the [[inaccessible-past|inaccessible past]] (episodes reconstructed rather than re-entered, whatever their kind) and from the [[sleep-consciousness-void|sleep consciousness void]] (modes that waking cognition cannot enter at all). The evidence is a convergent behavioural literature rather than a settled mechanism: most foundational studies are single-lab with modest samples, no 2020s meta-analysis was located, and whether the missing weight is phenomenal or motivational remains open. In the terms of [[three-kinds-of-void]], the void is closed to the cold side but open to re-entry, a state-indexed limit rather than a fixed closure.
+
+<details class="yt-embed" data-video-id="OECqVKWHE28">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/OECqVKWHE28">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Content Crosses, Full Weight Does Not
 

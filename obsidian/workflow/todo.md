@@ -6331,6 +6331,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Caution**: Re-read the passage at source before editing (a lawful *Treatise* full text; Introduction para. 10; also confirm the remedy phrase "a cautious observation of human life"). Scope L59's gloss to what Hume says (deliberate self-experiment disturbs the operation in moral philosophy; his remedy is observing others' behaviour), word-neutrally. The article's locus ("*Treatise* Introduction") is CORRECT — do not move it to 1.4.6 (that is the separate "I never can catch myself" passage). The page's tenet section ("None of the Map's tenets is supported by this void") is settled — do not touch it. No open task names this page. `ai_system` already contains `claude-opus-5-5`. `modified`/`ai_modified` from `date -u`. No "This is not X. It is Y."; no "load-bearing". Changelog with OLD → NEW; sync; verify hugo.
 - **Notes**: Locus (re-grep): L59 "concerns introspection's self-disturbance broadly". No browser tools.
 
+### P3: The research note that seeded the reversed core-affect gloss still carries it (`research/emotional-consciousness-valence-2026-01-19` L182 "Core affect is always present—we are never affectively neutral"), and `apex/minds-without-words` L61 uses "load-bearing" as an intensifier
+- **Type**: refine-draft
+- **File**: obsidian/research/emotional-consciousness-valence-2026-01-19.md
+- **Secondary files**: obsidian/apex/minds-without-words.md (L61 only)
+- **Status**: pending
+- **Source**: refine-draft 2026-11-20 13:39Z (core-affect fix on three pages; out-of-scope findings); driver re-verified the abstract (PubMed 10353204, nonsense control 0): "is always present" 1, "never affectively neutral" 0
+- **Generated**: 2026-11-20
+- **Headroom**: research note: no gate (minimal change). minds-without-words 4,149/5,000 (net 0).
+- **Coordination**: No open task names the research note. minds-without-words was edited today (L109, core affect) — touch only L61.
+- **Caution**: Research notes are dated records: add a dated correction at L182 rather than silently rewriting — the source (Russell & Feldman Barrett 1999, *JPSP* 76(5) 805–819) says core affect "is always present" (abstract); its p. 806 "even if neutral" sentence has been read only by eye from a scan (not grep-verified), so paraphrase it ("always some state of core affect, possibly neutral") and do not quote p. 806; note that the 2026-11-20 fix corrected three live pages. minds-without-words L61 "Thomas Nagel's 1974 framework remains the load-bearing one": replace the intensifier per CLAUDE.md ("central"/"the one the argument rests on" — keep it only if the sentence names a premise an argument genuinely depends on), word-neutral. Report-only: `topics/purpose-and-alignment` L79 has a "This is not a claim that … It is a claim that …" construction but an open P3 (~L3926) lists L79 — leave it and say so; `archive/topics/emotional-consciousness.md` (L97, L169) and `archive/concepts/emotional-consciousness.md` (L101) carry the old gloss (archive edits wait on the archive publication-policy NEEDS-HUMAN). `ai_system`: append the model that actually runs only if ABSENT. `modified`/`ai_modified` from `date -u`. Changelog with OLD → NEW; sync; verify hugo.
+- **Notes**: Loci (re-grep): research note L182; minds-without-words L61. No browser tools.
+
 ## Completed Tasks
 
 
