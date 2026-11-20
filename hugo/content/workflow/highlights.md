@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-20T08:25:07.983035'
+ai_modified: '2026-11-20T08:25:07+00:00'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 The Map said a gamma burst comes 300 ms before an insight reaches awareness. The 2004 study times it before the answer is reported, and its authors propose it marks the answer becoming conscious. The burst times the aha without explaining how it feels.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2123694204404584656  
 **Link**: [epistemic-emotions](/concepts/epistemic-emotions/)
 
 ---
