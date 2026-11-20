@@ -382,3 +382,32 @@
   subject_articles:
   - apex/open-question-ai-consciousness.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-19-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6affae4c-f0c0-83eb-9e76-a89ddf7e9094
+  commissioned_at: '2026-11-20T02:20:32.773089+00:00'
+  prompt_summary: 'Audit plenitude-void: claims, citations, counterarguments, integration'
+  target_filename: outer-review-2026-11-20-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit the article "The Plenitude Void" on The Unfinishable
+    Map: https://unfinishablemap.org/voids/plenitude-void/ (site root https://unfinishablemap.org).
+    It was last substantively modified on 2026-11-13, so check the site changelog
+    at https://unfinishablemap.org/workflow/changelog/ for recent edits your search
+    index may not yet reflect. The page argues that conscious experience seems richer
+    than anything we can report or check, drawing on the grand illusion debate, Block''s
+    overflow argument, ensemble statistics, introspective unreliability and information
+    bandwidth, and that this gap may be structurally unresolvable from within. Assess
+    whether its claims hold up against the current empirical and philosophical literature,
+    whether citations and quotations are accurate and attributed to the right works,
+    whether the strongest counterarguments (including deflationary and illusionist
+    readings) get a fair hearing, and whether the dualist framing in its site-perspective
+    section brackets objections too conveniently. Also check how well it integrates
+    with neighbouring articles. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit plenitude-void
+  subject_articles:
+  - voids/plenitude-void.md
+  subject_source: fallback:recent-aged
