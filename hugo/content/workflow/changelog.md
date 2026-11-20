@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20 08:57:39+00:00
+ai_modified: 2026-11-20 09:09:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-20'
-lastmod: 2026-11-20 08:57:39+00:00
+lastmod: 2026-11-20 09:09:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-20T09:09:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [plenitude-void](/voids/plenitude-void/)
+- **Secondary file**: [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- **Task**: run 4 of 4 (last; plan L112 calibration, todo L6293) of the combined plenitude-void plan (`reviews/outer-review-synthesis-2026-11-20.md`, "Combined plenitude-void budget", cluster 9); review files `reviews/outer-review-2026-11-20-gemini-4-neon.md` (§"Inferential Failures" first, weakness 4), `reviews/outer-review-2026-11-20-claude-fable-5-2.md` (Part 4 item 7), `reviews/outer-review-2026-11-20-chatgpt-5-6-sol-pro.md` (§8, broad form rejected by its pass)
+- **Original score**: n/a (`scripts/curate.py` absent; task-directed pass)
+- **Line mapping**: the live file is the plan's numbering minus 4, not minus 2 as the run-3 handoff said: plan L112 = live L108 (the "inherit the problem at the point of calibration" paragraph, 79 words), plan L114 = live L110 ("The honest limitation…", 55 words), plan L116 = live L112 (evidential/definitional unfalsifiability, untouched). All edits were located by quoted text with str.count == 1.
+- **Changes**: (1) plan L112 rewritten (79 → 66 words). It now says third-person methods "do constrain the seeming": observers exploring virtual-reality scenes often missed peripheral desaturation, and Cohen, Botch and Robertson (2020) conclude that "our intuitive sense of a rich, colorful visual world is largely incorrect." It acknowledges the optimistic calibration case in one concessive clause ("Even if [calibration is achievable](/voids/observation-and-measurement-void/), as some argue") and leaves Michel (2021) and McKilliam (2025) and the Map's reply to that page. The residue clause reads "methods calibrated against report track access, not phenomenal content reaching no report", which matches plan L116 ("defined so as to exclude itself from any report-based instrument") and run 1's Tenet 3 paragraph (non-report routes are where efficacious plenitude would show, but they cannot settle unaided whether it was phenomenal). The "The void is not that …; it is that …" construction and the "bridge from activity to experience" sentence were removed, the method list moved from spaced em dashes into parentheses, and "A natural rejoinder is that" was cut. (2) plan L114, one clause: deleted the closing sentence "The structural features producing the void also shield it from decisive test." (−12), which restated the paragraph's first sentence; no other page or task quotes it. (3) Reference added: Cohen, Botch & Robertson (2020), *PNAS* 117(24), 13821–13827 (+24), placed before Cohen, Dennett & Kanwisher (2016). Run 1 had not cited it, so it is cited once. (4) Secondary: `voids/observation-and-measurement-void` Calibration Impasse, "They systematically overestimate the richness of peripheral vision." → "…the [richness of peripheral vision](/voids/plenitude-void/)." (0 words). The two pages now link each other once each (0 before). Optional items not done: no words left for Kleiner & Hoel (2021) or the no-report/Cogitate link (`topics/experimental-consciousness-science-2025-2026`).
+- **Ledger (analyze_length)**: plenitude-void 3,060 → 3,059 (net −1: L112 −13, L114 −12, reference +24); still hard_warning against voids hard 3,000 (gate `>=`), which is operator item 1, as the plan expected. observation-and-measurement-void 2,978 → 2,978 (net 0; final ≤ 2,999).
+- **Source checks**: Cohen, Botch & Robertson (2020): PubMed efetch PMID 32513698 and PMC full text (`efetch db=pmc&id=7306755`); tags stripped, html.unescape, whitespace collapsed. "our intuitive sense of a rich, colorful visual world is largely incorrect" 1 (abstract) / 1 (full text); title "The limits of color awareness during active, real-world vision" 2 / 2; nonsense control "purple elephant surfboard" 0 / 0. Metadata from the PubMed XML: volume 117, issue 24, pages 13821–13827, 2020. The paraphrase rests on the abstract: observers "naturally explored" VR scenes, the periphery "was entirely desaturated", and observers "were often completely unaware". "Exploring" carries the authors' scope qualifier "during active, naturalistic viewing conditions". As the Gemini review's Verification Notes require, the finding is not cited against the check-and-find loop.
+- **Reply-mode classification (editor-internal)**: engagement with the optimistic calibration case (Michel 2021; McKilliam 2025, via the linked page) is mixed. The concessive "even if calibration is achievable" grants the optimists' premise and notes that calibration against report reaches access only (Mode One). The residue, phenomenal content reaching no report, is marked as definitional at plan L116 (Mode Three, unchanged).
+- **Orphan check** ((surname, year), both directions): Cohen 2020 and Cohen 2016 are both cited and both listed, and Michel and McKilliam are not named on the page, so none was added. The pre-existing Southgate 2026 self-reference (wikilinked) was left as is.
+- **Pronoun check**: "They do constrain" = third-person methods (the previous sentence's subject); the new L112 has no other pronouns. "them" in L114 = plenitude claims. Plan L116 opens without a back-reference. All resolve.
+- **Not touched**: plan L66, L68, L70, L94, L104, L110, L116 (including its pre-existing "load-bearing"), L124, L126, and every line owned by runs 1–3 (diff confined to live L108, L110 and one reference line). Frontmatter: plenitude-void `ai_system` already contained claude-opus-5-5 and was left as is; observation-and-measurement-void gained `+claude-opus-5-5`, with modified set to 2026-11-20 and ai_modified to 2026-11-20T09:10:05+00:00.
+- **Published**: yes
 
 ## 2026-11-20T08:57:39+00:00 - refine-draft
 - **Status**: Success

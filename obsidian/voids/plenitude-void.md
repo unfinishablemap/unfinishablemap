@@ -4,7 +4,7 @@ description: "Human+AI exploration of why conscious experience seems rich beyond
 created: 2026-04-23
 modified: 2026-11-20
 human_modified:
-ai_modified: 2026-11-20T07:13:49+00:00
+ai_modified: 2026-11-20T09:09:55+00:00
 last_deep_review: 2026-07-17T00:40:55+00:00
 draft: false
 topics:
@@ -105,9 +105,9 @@ Is the plenitude void a *cognitive* limit (experience is in fact rich, but cogni
 
 If cognitive — a bottleneck between phenomenal content and access — better instruments might in principle narrow the gap. If metaphysical — phenomenal content by its nature exceeding any access relation — no instrument could close the gap, and the appearance of plenitude would reflect consciousness's own structure rather than a failure of cognition to match it. The void does not allow this to be cleanly answered.
 
-A natural rejoinder is that *third-person* methods — neural decoding, population-level inference, behavioural signatures — could in principle bypass the first-person verification barrier. In practice they cannot do so unaided: every calibration of neural measures against phenomenal content requires a bridge from activity to experience, and that bridge is precisely what the void calls into question. The void is not that no external method could work; it is that external methods inherit the problem at the point of calibration.
+*Third-person* methods (neural decoding, population-level inference, behavioural signatures) might bypass the first-person barrier. They do constrain the seeming: observers exploring virtual-reality scenes often missed peripheral desaturation, and Cohen, Botch and Robertson (2020) conclude that "our intuitive sense of a rich, colorful visual world is largely incorrect." Even if [[observation-and-measurement-void|calibration is achievable]], as some argue, methods calibrated against report track access, not phenomenal content reaching no report.
 
-The honest limitation is that plenitude claims resist falsification by the same structure that makes them interesting. Any method proposed to detect overflow must define what counts as phenomenal content; any such definition either builds in the answer or leaves the target undefined. The structural features producing the void also shield it from decisive test.
+The honest limitation is that plenitude claims resist falsification by the same structure that makes them interesting. Any method proposed to detect overflow must define what counts as phenomenal content; any such definition either builds in the answer or leaves the target undefined.
 
 A Popperian critic will call the plenitude void *structurally unfalsifiable* and therefore not a genuine empirical question. That charge has force. It helps to distinguish two kinds of unfalsifiability. *Evidential* unfalsifiability means nature happens not to supply discriminating observations — more instrumentation or cleverness might resolve the question in principle. *Definitional* unfalsifiability means the terms of the question are set so that no observation could count as discriminating — the concept, not the world, forecloses the test. The plenitude void is primarily of the second kind, because "phenomenal content not reaching report" is defined so as to exclude itself from any report-based instrument. That the concept produces this shape matters — it says something about where our theoretical vocabulary is load-bearing and where it is empty — but it is not offered as a positive metaphysical finding.
 
@@ -140,6 +140,7 @@ The void also connects to [[self-opacity]] (the general structural inaccessibili
 1. Block, N. (2007). "Consciousness, accessibility, and the mesh between psychology and neuroscience." *Behavioral and Brain Sciences*, 30(5–6), 481–499.
 1. Blackmore, S. (2002). "The Grand Illusion: Why consciousness exists only when you look for it." *New Scientist*, 2348.
 1. Bronfman, Z. Z., Brezis, N., Jacobson, H. & Usher, M. (2014). "We See More Than We Can Report: 'Cost Free' Color Phenomenality Outside Focal Attention." *Psychological Science*, 25(7), 1394–1403.
+1. Cohen, M. A., Botch, T. L. & Robertson, C. E. (2020). "The limits of color awareness during active, real-world vision." *PNAS*, 117(24), 13821–13827.
 1. Cohen, M. A., Dennett, D. C. & Kanwisher, N. (2016). "What is the Bandwidth of Perceptual Experience?" *Trends in Cognitive Sciences*, 20(5), 324–335.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 1. Jackson-Nielsen, M., Cohen, M. A. & Pitts, M. A. (2017). "Perception of ensemble statistics requires attention." *Consciousness and Cognition*, 48, 149–160.
