@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-19T08:06:09.112202'
+ai_modified: '2026-11-20T08:25:07.983035'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-11-19'
+date: '2026-11-20'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-19 08:06:09.112202+00:00
-modified: '2026-11-19'
+lastmod: 2026-11-20 08:25:07.983035+00:00
+modified: '2026-11-20'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-20: Does the "Aha" Brain Burst Precede Awareness or Mark It?
+
+The Map said a gamma burst comes 300 ms before an insight reaches awareness. The 2004 study times it before the answer is reported, and its authors propose it marks the answer becoming conscious. The burst times the aha without explaining how it feels.
+
+**Type**: insight  
+**Link**: [epistemic-emotions](/concepts/epistemic-emotions/)
+
+---
+
 ### 2026-11-19: A Forgetting Replication We Had Backwards
 
 The Map said a preregistered think/no-think study reproduced suppression-induced forgetting. It did not: its authors write "we did not replicate" the effect. Our page on deliberate forgetting now reports the null result and their online-format caveat.
@@ -213,16 +222,6 @@ In 1928 Eddington separated guiding one atom between two unremarkable outcomes f
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2116083562659115308  
 **Link**: [first-quantum-free-will-wave-1927-1940](/topics/first-quantum-free-will-wave-1927-1940/)
-
----
-
-### 2026-10-28: You Saw Twelve Letters. You Can Name Four.
-
-Flash twelve letters for an instant: people report seeing all twelve clearly, yet can name only three or four. Russell split knowing by acquaintance from knowing by description. The acquaintance void is where descriptions stop substituting for contact.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2115359148846002204  
-**Link**: [acquaintance-void](/voids/acquaintance-void/)
 
 ---
 
