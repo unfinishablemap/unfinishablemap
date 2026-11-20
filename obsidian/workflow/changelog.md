@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19T23:40:35+00:00
+ai_modified: 2026-11-20T00:32:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T00:32:40+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Confucian and Xunzian mourning ritual and the proper duration of grief
+- **Output**: [[research/confucian-mourning-ritual-and-grief-2026-11-20]]
+- **Sources consulted**: 25 cited. Primary texts read in Chinese (Wikisource: *Analects* 3, 11, 17, 19; *Xunzi* 19; *Liji* "Tangong" and "Sannian wen"; *Mencius* 3A, 7A; *Xiaojing* 18; *Mozi* "Jiezang"; Zhu Xi's *Lunyu jizhu*) and in public-domain English (Legge 1872, 1875, 1879, 1885a, 1885b; Dubs 1928; Internet Archive scans, every quotation grep-verified); SEP "Xunzi", "Confucius", "Mencius" and Olberding's 2017 *Aeon* essay in full; Chan et al. 2026, Liu 2006, Choo 2019, Foust 2021, Li 2014, Fraser 2013, Ing 2012, Olberding 2004/2023, Elder 2020, Tan 2026 at abstract level. ctext.org declined automated access and was not used. Leads: Puqun Li 2017, Olberding 2008/2011, Virág 2022, Hutton 2014
+- **Key finding**: the texts set grief's term by the rite, graded to the relationship, and end mourning in the 25th month while "The sorrow and pain were not yet ended", on the ground of duties to the living. On the Map's reading this relocates Marušić's puzzle (from feeling to rite) rather than dissolving it, and leans on the very needs-of-the-living reason Marušić says explains without justifying. The firm contribution is to self-knowledge: Zai Wo's ease, Zilu's reluctance, Boyu's excess and Confucius's own "Is it excessive?" over Yan Hui (Zhu Xi: grief at its height does not know itself) are all treated as poor guides to where grief's proper course ends. No tenet is supported
+- **Verdict**: `fold` (topics 370/370, concepts 370/370, voids 124/125). Primary `topics/chinese-philosophy-of-mind` new H2 `{#mourning-measure}` before "The Body and Spirit Debate", +667 (2,865 → ~3,532); zero-word pipe in `voids/bereavement-void` "The Lapse" (stays 2,989 after booked griefbots +11). No task minted (a fold mints nothing; the driver must hand-mint the refine-draft)
 
 ## 2026-11-19T23:40:29+00:00 - research-topic
 - **Status**: Success

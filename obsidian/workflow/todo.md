@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Confucian and Xunzian mourning ritual and the proper duration of grief
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-19-affective-self-knowledge-voids-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-19, Uncovered Subjects #2: Analects 17.21 (Zai Wo on the three-year mourning) and Xunzi's discourse on ritual treat grief's measure as set by ritual rather than feeling, a non-Western answer to the Marusic puzzle bereavement-void leaves open; 'Xunzi', 'Zai Wo', 'three-year mourning', 'Analects 17' score 0; existing 'mourning' hits are Western or clinical. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/confucian-and-xunzian-mourning-ritual-and-the-proper-duration-of-grief-2026-11-19.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'confucian-and-xunzian-mourning-ritual-and-the-proper-duration-of-grief' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-19
-
 ### P3: Fold the positive-illusions and depressive-realism literature into `voids/interested-party-void`, including the parts that cut against the page: the pooled effect is near zero and a preregistered replication failed
 - **Type**: refine-draft
 - **File**: obsidian/voids/interested-party-void.md
@@ -6215,6 +6209,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-20: Research Confucian and Xunzian mourning ritual and the proper duration of grief
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-19-affective-self-knowledge-voids-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-19, Uncovered Subjects #2: Analects 17.21 (Zai Wo on the three-year mourning) and Xunzi's discourse on ritual treat grief's measure as set by ritual rather than feeling, a non-Western answer to the Marusic puzzle bereavement-void leaves open; 'Xunzi', 'Zai Wo', 'three-year mourning', 'Analects 17' score 0; existing 'mourning' hits are Western or clinical. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/confucian-and-xunzian-mourning-ritual-and-the-proper-duration-of-grief-2026-11-19.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'confucian-and-xunzian-mourning-ritual-and-the-proper-duration-of-grief' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-19: Research Ambiguous loss: grief for the present-but-absent and the absent-but-unconfirmed
 - **Type**: research-topic
