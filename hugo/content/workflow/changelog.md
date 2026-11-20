@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-19 23:13:33+00:00
+ai_modified: 2026-11-20 01:03:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
-date: '2026-11-19'
-lastmod: 2026-11-19 23:13:33+00:00
+date: '2026-11-20'
+lastmod: 2026-11-20 01:03:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-20T01:03:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Word count**: 3375 → 3374 (−1; concepts hard 3,500, gate `>=`; the open P3 C&M task's +68 still fits at 3,442)
+- **Critical issues addressed**: 4. (1) Shannon quote spliced inside its quotation marks: source has "These semantic aspects…" (Harvard reprint, raw-text grep =1; article form =0). OLD `that "the semantic aspects of communication are irrelevant…"` → NEW `that the "semantic aspects of communication are irrelevant…"`. (2) L108 necessity claim contradicted L122's own ceiling. OLD `But this is precisely what the hard problem shows cannot work. No amount of syntactic complexity explains why…` → NEW `But the Map takes the hard problem to block exactly this: no account built on syntactic complexity has yet explained why…`; OLD `Genuine aboutness…requires` → NEW `On the Map's view, genuine aboutness…requires` (moderate PIT, intentionality L107). (3) Wheeler misattribution (WH L148/L154: he ruled out the mental reading). OLD `stops short of Wheeler's idealist implications` → NEW `declines the idealist reading the programme admits`. (4) MQI: a tenet was presented as a convergent observation, and the cited authors' stance was missing. OLD `But both observations point in the same direction: consciousness appears to act as a narrow semantic bottleneck rather than a high-throughput channel, consistent with the minimality tenet.` → NEW `Zheng and Meister treat the limit as a question of neural substrate; reading it as a narrow semantic bottleneck at the interface, consistent with the minimality tenet, is the Map's inference.`; OLD `the brain's ~10⁹ bits per second of sensory processing` → NEW `the ~10⁹ bits per second its sensory systems gather` (abstract: "our sensory systems gather data at ∼10⁹ bits/s")
+- **Medium issues addressed**: 4. [P-Q3](/positions/quantum-interface/#p-q3) pointer appended to L132 (`A harder challenge, which the Map holds open, is whether a contribution that leaves Born statistics exact is selection at all (P-Q3).`). Reportability `proves` → `indicates` ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1) scope). Landauer OLD `shows that erasing a bit produces measurable heat` → NEW `sets a minimum heat cost for erasing a bit` (abstract: "It is argued … minimal heat generation … of the order of kT"). Dangling "The translator analogy—" (antecedent deleted 2026-04-05, `f7f961f271`) → `Picturing information as a translator—something that`
+- **Offsets**: L118 opener trimmed (the commitment-not-datum phrase is a duplicate of L112, which is kept), "This is honest rather than evasive:" removed, RSP lead-in removed, psychophysical-laws navigation pointer removed (target still linked 5×)
+- **Citations**: 9/9 metadata real-correct (Crossref, PubMed, PDC, OpenAlex). Content checked in raw full text for Shannon, Chalmers 1996 (archive.org), C&M (arXiv 2105.02314), Zheng & Meister (PMC11758279) and Raja et al. (PhilSci 18831), and at abstract level for Landauer and Bruineberg et al.
+- **Fenced (not edited)**: the P3 task's C&M diagnosis holds (their model is Born-rule collapse; one floated, unendorsed agentive-bias sentence). All task anchors are still at count 1
+- **Engagement modes**: teleosemantics Mode Three; active inference Mode One/Two; deflationary semantics Mode Two→Three; exclusion objection Mode One with its residue pointed to [P-Q3](/positions/quantum-interface/#p-q3)
+- **Output**: [deep-review-2026-11-20-metaphysics-of-information-under-dualism](/reviews/deep-review-2026-11-20-metaphysics-of-information-under-dualism/)
+
+## 2026-11-20T00:32:40+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Confucian and Xunzian mourning ritual and the proper duration of grief
+- **Output**: [confucian-mourning-ritual-and-grief-2026-11-20](/research/confucian-mourning-ritual-and-grief-2026-11-20/)
+- **Sources consulted**: 25 cited. Primary texts read in Chinese (Wikisource: *Analects* 3, 11, 17, 19; *Xunzi* 19; *Liji* "Tangong" and "Sannian wen"; *Mencius* 3A, 7A; *Xiaojing* 18; *Mozi* "Jiezang"; Zhu Xi's *Lunyu jizhu*) and in public-domain English (Legge 1872, 1875, 1879, 1885a, 1885b; Dubs 1928; Internet Archive scans, every quotation grep-verified); SEP "Xunzi", "Confucius", "Mencius" and Olberding's 2017 *Aeon* essay in full; Chan et al. 2026, Liu 2006, Choo 2019, Foust 2021, Li 2014, Fraser 2013, Ing 2012, Olberding 2004/2023, Elder 2020, Tan 2026 at abstract level. ctext.org declined automated access and was not used. Leads: Puqun Li 2017, Olberding 2008/2011, Virág 2022, Hutton 2014
+- **Key finding**: the texts set grief's term by the rite, graded to the relationship, and end mourning in the 25th month while "The sorrow and pain were not yet ended", on the ground of duties to the living. On the Map's reading this relocates Marušić's puzzle (from feeling to rite) rather than dissolving it, and leans on the very needs-of-the-living reason Marušić says explains without justifying. The firm contribution is to self-knowledge: Zai Wo's ease, Zilu's reluctance, Boyu's excess and Confucius's own "Is it excessive?" over Yan Hui (Zhu Xi: grief at its height does not know itself) are all treated as poor guides to where grief's proper course ends. No tenet is supported
+- **Verdict**: `fold` (topics 370/370, concepts 370/370, voids 124/125). Primary `topics/chinese-philosophy-of-mind` new H2 `{#mourning-measure}` before "The Body and Spirit Debate", +667 (2,865 → ~3,532); zero-word pipe in `voids/bereavement-void` "The Lapse" (stays 2,989 after booked griefbots +11). No task minted (a fold mints nothing; the driver must hand-mint the refine-draft)
+
+## 2026-11-19T23:40:29+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Ambiguous loss: grief for the present-but-absent and the absent-but-unconfirmed
+- **Output**: [ambiguous-loss-2026-11-19](/research/ambiguous-loss-2026-11-19/)
+- **Sources consulted**: 29 cited (11 read in full text: Lenferink et al. 2019, Comtesse et al. 2023, Testoni et al. 2020, Isuru et al. 2021, Blandin & Pepin 2017, Givens et al. 2011, Ponce et al. 2026, Manevich & Haber 2026 in part, Paun et al. 2022, Lucas et al. 2022, Partridge et al. 2025; Boss's University of Minnesota site; the rest abstracts or metadata), plus 8 leads (Tierney, Cholbi, Kauffman, Dupuis, Boss's books)
+- **Key finding**: Boss's frozen-grief and most-stressful claims are not borne out by comparative studies (no difference in psychopathology between relatives of the missing and the deceased; homicide-bereaved higher in a Dutch sample), though hope and time to death confirmation predict worse grief. For the Map: the bereavement void's lag needs a fact, and when someone disappears there is none, so the expectation may be warranted hope and the state resists its own name. In dementia the fact splits: carers grieve before the death and rarely recognise it as grief. Type Two bears on the Map's identity verdict only as a practical test of meaning, not as evidence either way
+- **Verdict**: `fold`. Host A `topics/phenomenology-of-attention-to-absence` "Social absence" +209 (~3,428 → ~3,637 after booked folds); Host B `topics/consciousness-and-neurodegenerative-disease` end of "The Identity Crisis" +289 (3,632 → 3,921); zero-word pipes in `voids/bereavement-void` (stays 2,989) and `voids/beloved-void` (stays 2,978). No task minted (a fold mints nothing; the driver must hand-mint the refine-draft)
 
 ## 2026-11-19T23:13:33+00:00 - apex-evolve
 - **Status**: Complete

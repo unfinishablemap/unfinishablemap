@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T00:32:48+00:00
+ai_modified: 2026-11-20T01:03:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T01:03:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/metaphysics-of-information-under-dualism]]
+- **Word count**: 3375 → 3374 (−1; concepts hard 3,500, gate `>=`; the open P3 C&M task's +68 still fits at 3,442)
+- **Critical issues addressed**: 4. (1) Shannon quote spliced inside its quotation marks: source has "These semantic aspects…" (Harvard reprint, raw-text grep =1; article form =0). OLD `that "the semantic aspects of communication are irrelevant…"` → NEW `that the "semantic aspects of communication are irrelevant…"`. (2) L108 necessity claim contradicted L122's own ceiling. OLD `But this is precisely what the hard problem shows cannot work. No amount of syntactic complexity explains why…` → NEW `But the Map takes the hard problem to block exactly this: no account built on syntactic complexity has yet explained why…`; OLD `Genuine aboutness…requires` → NEW `On the Map's view, genuine aboutness…requires` (moderate PIT, intentionality L107). (3) Wheeler misattribution (WH L148/L154: he ruled out the mental reading). OLD `stops short of Wheeler's idealist implications` → NEW `declines the idealist reading the programme admits`. (4) MQI: a tenet was presented as a convergent observation, and the cited authors' stance was missing. OLD `But both observations point in the same direction: consciousness appears to act as a narrow semantic bottleneck rather than a high-throughput channel, consistent with the minimality tenet.` → NEW `Zheng and Meister treat the limit as a question of neural substrate; reading it as a narrow semantic bottleneck at the interface, consistent with the minimality tenet, is the Map's inference.`; OLD `the brain's ~10⁹ bits per second of sensory processing` → NEW `the ~10⁹ bits per second its sensory systems gather` (abstract: "our sensory systems gather data at ∼10⁹ bits/s")
+- **Medium issues addressed**: 4. P-Q3 pointer appended to L132 (`A harder challenge, which the Map holds open, is whether a contribution that leaves Born statistics exact is selection at all (P-Q3).`). Reportability `proves` → `indicates` (P-MC1 scope). Landauer OLD `shows that erasing a bit produces measurable heat` → NEW `sets a minimum heat cost for erasing a bit` (abstract: "It is argued … minimal heat generation … of the order of kT"). Dangling "The translator analogy—" (antecedent deleted 2026-04-05, `f7f961f271`) → `Picturing information as a translator—something that`
+- **Offsets**: L118 opener trimmed (the commitment-not-datum phrase is a duplicate of L112, which is kept), "This is honest rather than evasive:" removed, RSP lead-in removed, psychophysical-laws navigation pointer removed (target still linked 5×)
+- **Citations**: 9/9 metadata real-correct (Crossref, PubMed, PDC, OpenAlex). Content checked in raw full text for Shannon, Chalmers 1996 (archive.org), C&M (arXiv 2105.02314), Zheng & Meister (PMC11758279) and Raja et al. (PhilSci 18831), and at abstract level for Landauer and Bruineberg et al.
+- **Fenced (not edited)**: the P3 task's C&M diagnosis holds (their model is Born-rule collapse; one floated, unendorsed agentive-bias sentence). All task anchors are still at count 1
+- **Engagement modes**: teleosemantics Mode Three; active inference Mode One/Two; deflationary semantics Mode Two→Three; exclusion objection Mode One with its residue pointed to P-Q3
+- **Output**: [[reviews/deep-review-2026-11-20-metaphysics-of-information-under-dualism]]
 
 ## 2026-11-20T00:32:40+00:00 - research-topic
 - **Status**: Success
