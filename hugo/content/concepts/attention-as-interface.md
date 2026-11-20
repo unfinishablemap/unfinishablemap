@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-18 22:35:25+00:00
-ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-2
+ai_modified: 2026-11-20 02:36:34+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-2+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/attention/
@@ -46,7 +46,7 @@ concepts:
 - '[[content-specificity-of-mental-causation]]'
 - '[[interface-friction]]'
 created: 2026-01-14
-date: &id001 2026-11-18
+date: &id001 2026-11-20
 description: 'The hypothesis that consciousness acts on the brain through phenomenal
   attention: the phenomenal/computational distinction, evidence, and what would falsify
   it.'
@@ -54,7 +54,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:56:09+00:00
-lastmod: 2026-11-18 22:35:25+00:00
+lastmod: 2026-11-20 02:36:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -269,7 +269,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 4. Graziano, M.S.A. (2019). *Rethinking Consciousness: A Scientific Theory of Subjective Experience*. W.W. Norton.
 5. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 6. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-7. Kaeser, P.S. et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414.
+7. Cai, X., Liu, C., Tsutsui-Kimura, I., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414.
 8. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 9. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 10. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.

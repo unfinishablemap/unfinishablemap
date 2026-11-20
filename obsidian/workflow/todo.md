@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: The Cai et al. (2024) dopamine paper is still mis-credited on three live pages after its reference was corrected on `topics/motor-control-quantum-zeno` on 2026-11-03: "Cai, X., Liu, C. & Kaeser, P.S." and "Kaeser, P.S. et al."
-- **Type**: refine-draft
-- **File**: obsidian/concepts/motor-selection.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-11-18 (completed-task durability: a fix not carried to siblings)
-- **Generated**: 2026-11-18
-- **Review file**: `reviews/pessimistic-2026-11-18-completed-task-durability.md`
-- **Secondary files**: obsidian/apex/phenomenology-mechanism-bridge.md, obsidian/concepts/attention-as-interface.md, obsidian/research/dopamine-attention-motor-quantum-interface-2026-01-24.md
-- **Headroom**: FOUR FILES (word counts at review; gates fire at `>=`): `concepts/motor-selection` 3,497 of 3,500 - TWO words of room: the corrected entry must add at most one word, or use the shorter form; `apex/phenomenology-mechanism-bridge` 4,935 of 5,000; `concepts/attention-as-interface` 3,467 of 3,500; the research note has no gate. Re-measure each before and after.
-- **Caution**: The review used no outside source: the corrected author list ("Cai, X., Liu, C., Tsutsui-Kimura, I., et al.") rests on the 2026-11-03 task's recorded Crossref check. RE-CHECK at Crossref before editing (DOI 10.1038/s41586-024-08038-z; `curl --max-time 40 --connect-timeout 10`): authors in order, year, journal, volume, issue, pages - Kaeser is the LAST (senior) author, so "Cai, X., Liu, C. & Kaeser, P.S." drops the middle authors and "Kaeser, P.S. et al." prints the last author first. Copy the entry form now on `topics/motor-control-quantum-zeno` after confirming it. Check each page's IN-TEXT citations too ("Kaeser et al.", "Kaeser 2024", "Cai et al.") and make text and reference agree; check that what each page says the paper FOUND matches its title and abstract (dopamine dynamics "dispensable for movement but promote reward responses") - report, and fix only a clear mis-statement at net-zero.
-- **Notes**: Anchors (re-grep): `concepts/motor-selection` reference 8 (about L245) "Cai, X., Liu, C. & Kaeser, P.S. (2024)."; `apex/phenomenology-mechanism-bridge` reference 5 (about L198), same form; `concepts/attention-as-interface` reference 7 (about L268) "Kaeser, P.S. et al. (2024)."; reference 1 of the research note, so it cannot reseed the error. Report only: five archived pages carry "Kaeser, P.A., et al. (2024)" (wrong initial as well) - list them with file:line; archive pages are not edited by this task. Read the page's latest review file for Stability Notes and check no blocked or NEEDS-HUMAN task owns the sentence. Re-grep the OLD string (exactly once) and read its whole paragraph first; pronoun check on the sentence after the replacement. Tenets are chosen starting points stated as the Map's; never concede epiphenomenalism; no "This is not X. It is Y."; no "load-bearing". `modified`/`ai_modified` from `date -u`; `ai_system`: append the model that actually runs only if absent; changelog before sync; sync and confirm hugo/content. After editing, VERIFY THE FIX HELD: grep the OLD string on the obsidian and hugo copies (0 hits each) and print the result in the changelog entry.
-
 ### P3: `concepts/zombie-master-argument` still says "every available block has been attempted": a September task added the attribution it asked for and left the universal it also asked to soften
 - **Type**: refine-draft
 - **File**: obsidian/concepts/zombie-master-argument.md
@@ -6221,6 +6209,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-20: The Cai et al. (2024) dopamine paper is still mis-credited on three live pages after its reference was corrected on `topics/motor-control-quantum-zeno` on 2026-11-03: "Cai, X., Liu, C. & Kaeser, P.S." and "Kaeser, P.S. et al."
+- **Type**: refine-draft
+- **File**: obsidian/concepts/motor-selection.md
+- **Notes**: Anchors (re-grep): `concepts/motor-selection` reference 8 (about L245) "Cai, X., Liu, C. & Kaeser, P.S. (2024)."; `apex/phenomenology-mechanism-bridge` reference 5 (about L198), same form; `concepts/attention-as-interface` reference 7 (about L268) "Kaeser, P.S. et al. (2024)."; reference 1 of the research note, so it cannot reseed the error. Report only: five archived pages carry "Kaeser, P.A., et al. (2024)" (wrong initial as well) - list them with file:line; archive pages are not edited by this task. Read the page's latest review file for Stability Notes and check no blocked or NEEDS-HUMAN task owns the sentence. Re-grep the OLD string (exactly once) and read its whole paragraph first; pronoun check on the sentence after the replacement. Tenets are chosen starting points stated as the Map's; never concede epiphenomenalism; no "This is not X. It is Y."; no "load-bearing". `modified`/`ai_modified` from `date -u`; `ai_system`: append the model that actually runs only if absent; changelog before sync; sync and confirm hugo/content. After editing, VERIFY THE FIX HELD: grep the OLD string on the obsidian and hugo copies (0 hits each) and print the result in the changelog entry.
 
 ### ✓ 2026-11-20: Fold the positive-illusions and depressive-realism literature into `voids/interested-party-void`, including the parts that cut against the page: the pooled effect is near zero and a preregistered replication failed
 - **Type**: refine-draft

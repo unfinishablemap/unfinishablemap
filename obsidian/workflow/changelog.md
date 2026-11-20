@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T02:02:50+00:00
+ai_modified: 2026-11-20T02:36:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T02:36:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/motor-selection]] (secondary: [[apex/phenomenology-mechanism-bridge]], [[concepts/attention-as-interface]], [[research/dopamine-attention-motor-quantum-interface-2026-01-24]])
+- **Task**: todo P3 (file line 40), correct the Cai et al. (2024) author list on the pages that still read "Cai, X., Liu, C. & Kaeser, P.S." or "Kaeser, P.S. et al." after the 2026-11-03 fix on `topics/motor-control-quantum-zeno`. Review: `reviews/pessimistic-2026-11-18-completed-task-durability` item 2.
+- **Original score**: not run (`scripts/curate.py` is absent); reference-metadata task.
+- **Crossref record** (`api.crossref.org/works/10.1038/s41586-024-08038-z`, curl): 14 authors, in order Cai X., Liu C., Tsutsui-Kimura I., Lee J.-H., Guo C., Banerjee A., Lee J., Amo R., Xie Y., Patriarchi T., Li Y., Watabe-Uchida M., Uchida N., Kaeser P.S. (last); *Nature* 635(8038), 406-414; issued 2024-10-16 online, print 2024-11-14. Europe PMC (PMID 39415006, PMC11718420) gives the same author string and fields. The model entry on `topics/motor-control-quantum-zeno` L156 agrees on every field.
+- **Changes** (OLD → NEW; words by `tools.curate.length.analyze_length`, gate `>=`):
+  1. `concepts/motor-selection` ref 8: "Cai, X., Liu, C. & Kaeser, P.S. (2024)." → "Cai, X., Liu, C., Tsutsui-Kimura, I., et al. (2024)." DOI kept. 3,497 → 3,498 (hard 3,500).
+  2. `apex/phenomenology-mechanism-bridge` ref 5: the same OLD → NEW, DOI kept. 4,935 → 4,936 (hard 5,000).
+  3. `concepts/attention-as-interface` ref 7: "Kaeser, P.S. et al. (2024)." → "Cai, X., Liu, C., Tsutsui-Kimura, I., et al. (2024)." No DOI added, because the entry had none. 3,473 → 3,477 (hard 3,500).
+  4. `research/dopamine-attention-motor-quantum-interface-2026-01-24`: ref 1 (L220), the same OLD → NEW. The 2026-08-08 correction note (L25) carried the same three-author form inline: "Cai, X., Liu, C. & Kaeser, P.S., "Dopamine" → "Cai, X., Liu, C., Tsutsui-Kimura, I., et al., "Dopamine". The correction's substance is unchanged. 2,353 → 2,355 (no gate).
+  5. Frontmatter: `modified` 2026-11-20 and `ai_modified` 2026-11-20T02:36:34+00:00 on all four. `ai_system` + `claude-opus-5-5` on `attention-as-interface` only (absent before). The other two pages already had it, and the research note's is left as is (metadata-only edit).
+- **In-text citations**: none needed changing. The apex (L104) cites "(Cai et al. 2024)", the correct first author. `motor-selection` L125 and `attention-as-interface` L163 say "A 2024 *Nature* study" and name no author. "Kaeser et al." and "Kaeser 2024": 0 hits in all four files.
+- **Findings vs paper** (abstract from Europe PMC; full text from NCBI efetch PMC11718420). Reported, not edited:
+  - `motor-selection` L125 matches: RIM knockout, baseline dopamine persists, movement normal, reward-guided motivation impaired.
+  - `apex` L104: "initiated fewer trials" and the reserpine and receptor-blockade controls match the full text. "fast, spike-evoked dopamine transients were abolished" overstates it. The abstract says rapid dynamics were "strongly impaired", and the full text reports "The small GRAB DA fluorescence increase detected in RIM cKO DA mice at movement onset". The same "abolished" is on `topics/motor-control-quantum-zeno` L83, outside this task. This is a degree overstatement, not a clear mis-statement.
+  - Threshold gloss: `apex` L104 "What the fast dynamics contribute is reward-oriented drive and threshold modulation", and `attention-as-interface` L163 "dopamine dynamics modulate the *decision threshold*, not raw motor capacity" plus "What the data establish is the layered threshold architecture". The paper measures no decision threshold: its full text uses "threshold" only for analysis cut-offs. The threshold result is Chakroun et al. 2023, which `motor-selection` L131 cites and `attention-as-interface` does not. Not edited. A net-zero swap of the L163 clause would leave the next two sentences, including the paragraph's calibration sentence, resting on what it removed. The clause was installed by the 2026-06-02 deep review.
+- **Report only (not edited)**: five archived pages carry "Kaeser, P.A., et al. (2024).", which has a wrong initial and puts the last author first: `archive/topics/attention-disorders-and-quantum-interface.md:214`, `archive/topics/attention-motor-quantum-selection.md:248`, `archive/topics/the-interface-location-problem-revisited.md:152`, `archive/concepts/attention-motor-quantum-interface.md:166`, `archive/concepts/dopamine-selection-interface.md:269`, with the same text in their `hugo/content/archive/` copies. Separately, `topics/dopamine-and-the-unified-interface` L238 reads "Cai, X., Liu, C., Tsutsui-Kimura, I., et al., & Kaeser, P.S. (2024).": the authors are right and in order, but the form differs from the model entry.
+- **Fix held** (`grep -cF`, after edit): "Cai, X., Liu, C. & Kaeser, P.S." and "Kaeser, P.S. et al." each 0 in all four obsidian files. The NEW form is 1 each on motor-selection, phenomenology-mechanism-bridge and attention-as-interface, and 2 on the research note. Corpus-wide: 0 live obsidian files outside `workflow/` and `reviews/` carry either OLD form. Hugo copies (after `scripts/sync.py`): both OLD forms 0 in all four `hugo/content/` files; NEW 1/1/1/2; 0 live hugo files outside `workflow/`, `reviews/` and `archive/` carry either OLD form.
+- **Published**: yes
 
 ## 2026-11-20T02:02:50+00:00 - refine-draft
 - **Status**: Success

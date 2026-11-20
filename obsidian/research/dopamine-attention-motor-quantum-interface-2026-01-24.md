@@ -1,11 +1,11 @@
 ---
 title: "Research Notes - Dopamine's Dual Role in Attention-Motor-Quantum Interface"
 created: 2026-01-24
-modified: 2026-01-24
+modified: 2026-11-20
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
-ai_modified: 2026-09-27T15:23:54+00:00
+ai_modified: 2026-11-20T02:36:34+00:00
 ---
 
 # Research: Dopamine's Dual Role in Attention-Motor-Quantum Interface
@@ -22,7 +22,7 @@ ai_modified: 2026-09-27T15:23:54+00:00
 
 ## Executive Summary
 
-> **Correction (2026-08-08)**: Where this note credits the October 2024 *Nature* study — Cai, X., Liu, C. & Kaeser, P.S., "Dopamine dynamics are dispensable for movement but promote reward responses", 635(8038):406–414 — with a "can move" / "won't move" dissociation in *dopamine-deficient* mice (the paragraph below, the "Can Move / Won't Move" heading, and suggested addition 2), the attribution is wrong. Cai et al. used a dopamine-neuron-specific RIM knockout that abolished fast, spike-evoked dopamine transients while **baseline dopamine persisted and supported spontaneous movement**; the paper's own reserpine-depletion and receptor-blockade controls *did* disrupt movement initiation. The mice were not dopamine-deficient, and the scare-quoted pair does not appear in the paper. That framing belongs to Palmiter's genuinely dopamine-deficient mice, which this note cites separately and correctly. The tonic/phasic contrast itself stands. For the current description see [[topics/motor-control-quantum-zeno]] and [[topics/dopamine-and-the-unified-interface]]. The original text below is left intact as a dated snapshot.
+> **Correction (2026-08-08)**: Where this note credits the October 2024 *Nature* study — Cai, X., Liu, C., Tsutsui-Kimura, I., et al., "Dopamine dynamics are dispensable for movement but promote reward responses", 635(8038):406–414 — with a "can move" / "won't move" dissociation in *dopamine-deficient* mice (the paragraph below, the "Can Move / Won't Move" heading, and suggested addition 2), the attribution is wrong. Cai et al. used a dopamine-neuron-specific RIM knockout that abolished fast, spike-evoked dopamine transients while **baseline dopamine persisted and supported spontaneous movement**; the paper's own reserpine-depletion and receptor-blockade controls *did* disrupt movement initiation. The mice were not dopamine-deficient, and the scare-quoted pair does not appear in the paper. That framing belongs to Palmiter's genuinely dopamine-deficient mice, which this note cites separately and correctly. The tonic/phasic contrast itself stands. For the current description see [[topics/motor-control-quantum-zeno]] and [[topics/dopamine-and-the-unified-interface]]. The original text below is left intact as a dated snapshot.
 
 Recent research (2024-2025) reveals a striking dissociation between dopamine's roles in movement and reward that illuminates the attention-motor-quantum interface. A landmark October 2024 *Nature* study demonstrates that **tonic (slow) dopamine supports spontaneous movement** while **phasic (rapid) dopamine drives motivation and reward-seeking behavior**. Dopamine-deficient mice "can move" but "won't move"—they retain motor capacity but lose goal-directed initiative. This suggests dopamine functions not as motor fuel but as a **salience signal** that tags what matters, bridging the gap between wanting (motivation) and doing (action initiation).
 
@@ -217,7 +217,7 @@ The quantum selection framework provides explanatory purchase on these puzzles.
 
 ## References
 
-1. Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
+1. Cai, X., Liu, C., Tsutsui-Kimura, I., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
 
 2. Long, C., & Masmanidis, S.C. (2025). The learning primacy hypothesis of dopamine: reconsidering dopamine's dual functions. *Frontiers in Cellular Neuroscience*, 19, 1538500. https://doi.org/10.3389/fncel.2025.1538500
 

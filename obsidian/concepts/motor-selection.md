@@ -2,9 +2,9 @@
 title: "Motor Selection and the Attention-Motor Interface"
 description: "Motor control and attention share neural substrates; dopamine marks salience and sets thresholds. Where conscious selection could enter, and how, stays open."
 created: 2026-01-18
-modified: 2026-02-25
+modified: 2026-11-20
 human_modified: null
-ai_modified: 2026-11-03T10:09:48+00:00
+ai_modified: 2026-11-20T02:36:34+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -242,7 +242,7 @@ This framework identifies *where* consciousness might influence motor selection‚
 
 7. Hagan, S., Hameroff, S.R., & Tuszy≈Ñski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 
-8. Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
+8. Cai, X., Liu, C., Tsutsui-Kimura, I., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
 
 9. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106, 623-642.
 

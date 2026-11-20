@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-11-03 10:09:48+00:00
+ai_modified: 2026-11-20 02:36:34+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -24,14 +24,14 @@ concepts:
 - '[[illusionism]]'
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-01-18
-date: &id001 2026-02-25
+date: &id001 2026-11-20
 description: Motor control and attention share neural substrates; dopamine marks salience
   and sets thresholds. Where conscious selection could enter, and how, stays open.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:49:10+00:00
-lastmod: 2026-11-03 10:09:48+00:00
+lastmod: 2026-11-20 02:36:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -245,7 +245,7 @@ This framework identifies *where* consciousness might influence motor selection‚
 
 7. Hagan, S., Hameroff, S.R., & Tuszy≈Ñski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 
-8. Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
+8. Cai, X., Liu, C., Tsutsui-Kimura, I., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
 
 9. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106, 623-642.
 
