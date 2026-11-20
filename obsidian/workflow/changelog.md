@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T13:39:00+00:00
+ai_modified: 2026-11-20T14:12:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T14:12:18+00:00 - check-tenets
+- **Status**: Warnings (reports only; no article, position or todo entry edited)
+- **Files checked**: 69, the pages under topics, concepts, voids, apex and positions with a commit since 2026-11-19T00:00Z (apex 7, concepts 22, topics 30, voids 10, positions 0). Window body diff read paragraph by paragraph (447 changed paragraphs); tenet sections of the 19 heaviest rewrites read whole; contradiction, over-claim and co-optation-roster greps over the full current text
+- **Errors**: 0
+- **Warnings**: 7, all over-reach. Four are sentences the window's calibration edits left above grade on pages they otherwise repaired: `topics/pragmatist-quantum-foundations-and-the-agent` L103 ("corroborates Tenet 1", while L135 now says "congenial and no more"), `voids/interested-party-void` L100 (the fifth tenet "gains additional force", two lines after the new "support no tenet"), `concepts/interface-threshold` L116 ("fits a dualist reading better", against the edited L64), `topics/consciousness-in-smeared-quantum-states` L124 ("reinforces the Map's position", kept in an edited sentence). Three are older text on edited pages: `concepts/ai-epiphenomenalism` L63, `topics/dualist-perception` L162, `concepts/self-and-self-consciousness` L68
+- **Notes**: 9 (including the AI cluster now consistent on the open Tenet 3 quantifier, and a Born-distribution wording tension at `concepts/zombie-master-argument` L122/L126)
+- **Delta from 2026-11-18**: 14 of its listed sentences repaired in 9 files; 5 still present on pages the window touched for other reasons
+- **Priority list**: four, with OLD and NEW strings, headroom and open-task overlap (todo L6145, L3379, L5538 own other sentences on three of the files)
+- **Tasks minted**: none (no Errors); parse_tasks active 461 before and after
+- **Output**: [[reviews/tenet-check-2026-11-20]]
 
 ## 2026-11-20T13:39:00+00:00 - refine-draft
 - **Status**: Success
