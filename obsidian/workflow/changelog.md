@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T10:21:32+00:00
+ai_modified: 2026-11-20T11:08:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T11:08:05+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Iconic and discursive perceptual format and the richness question
+- **Output**: [[research/iconic-and-discursive-perceptual-format-2026-11-20]]
+- **Sources consulted**: 21 cited. Read in full or in the relevant parts: Block (2023) chs. 5 and 13 (the book is open access at Oxford Academic; printed pages), Quilty-Dunn (2020a, 2020b) via ORA author manuscripts, Beck's NDPR review and Firestone & Phillips's *Science* review. Read via the OpenAlex text index: Block's 2025 précis and the opening of his replies. Abstracts only: Gross & Flombaum 2017, Gross 2018, Green 2020/2023, Green & Quilty-Dunn 2021, Clarke 2022, Masciari 2021, Ji et al. 2024, Hill 2024, Block's BBS e265, Quilty-Dunn, Porot & Mandelbaum 2023, Tian et al. 2025. Leads, unread: Fodor 2007, Kosslyn, Carey 2009, Burge 2010, Lau et al. 2022, Quilty-Dunn 2025. PhilArchive returned a Cloudflare challenge and Wiley a 403.
+- **Key finding**: format gives a third option at the level of representation, and both camps can grant it. Block (p. 444) splits overflow into whether perceptual capacity exceeds cognitive capacity ("clearly yes") and "Is the excess capacity conscious?". He allows that a global-workspace theorist "can accept a kind of overflow" of perception over cognition (p. 445). The phenomenal question stays open, but the cost of each answer shifts: a format border plus VWM-only consciousness implies "visual representations are never conscious" (Quilty-Dunn 2020a). Gemini's review inverts Quilty-Dunn (2020a), which argues that iconic memory *is* iconic.
+- **Verdict**: `fold` (topics 370/370, concepts 370/370, voids 124/125). The primary host is `concepts/phenomenal-overflow`, with a new H3 `{#format}` after "Rival Readings" of ≤ 340 words (model text 333; 2,793 → ~3,126). Optional secondaries: `topics/visual-indexes-and-demonstrative-reference` (object files, ≤ 150), `concepts/cognitive-penetration` (≤ 100) and `concepts/perception` (≤ 70). No edit to `voids/plenitude-void`, which is over its gate, or to `topics/dualist-perception`, which has 9 words of room. No task minted: a fold mints nothing, so the driver must hand-mint the refine-draft.
 
 ## 2026-11-20T10:39:01+00:00 - refine-draft
 - **Status**: Success
