@@ -1,14 +1,60 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20 10:03:34+00:00
+ai_modified: 2026-11-20 10:21:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-20'
-lastmod: 2026-11-20 10:03:34+00:00
+lastmod: 2026-11-20 10:21:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-20T10:39:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Source**: outer-review 2026-11-20 (Claude Fable 5.2), task "states Block's contested overflow inference as fact"; review file `reviews/outer-review-2026-11-20-claude-fable-5-2.md`
+- **Original score**: n/a (`scripts/curate.py` absent); task-scoped pass on three items
+- **Changes**:
+  - L90 Sperling figure: "only 3-4 items" became "only about four items (4.3 on average)". This was verified against the primary, Sperling (1960), *Psychological Monographs* 74(11), Whole No. 498, using a full-text scan (support.pstnet.com attachment 360083880733, 29 pp.; `pdftotext`, de-hyphenated, whitespace collapsed; each of the following strings has count 1 and a nonsense control has count 0): "The immediate-memory span for the 4/4/4 (12-letters and numbers) stimuli ranges from 3.9 to 4.7 symbols for the Ss, with an average of 4.3"; "average immediate-memory span for all Ss of about 4.3 letters"; "could not report more than an average of about 4.5 items"; and Summary "the average was slightly over four letters". The "three to four letters" in Sperling's Summary is the size of the cued ROW, not the whole-report span, which is a likely source of the corpus's "3-4" readings. `concepts/phenomenal-overflow` L46 "4-5" is a slight upward rounding but falls within the per-subject range (3.9 to 4.7 for 12 symbols; 3.8 to 5.2 overall). It was not edited.
+  - L90 contested inference: "The information was in the experience but exceeded what [access-consciousness](/concepts/access-consciousness/) could retrieve." became "More information was available than [access-consciousness](/concepts/access-consciousness/) could retrieve at once; whether it was also in the experience is the disputed step." L92 "argues this indicates that" became "argues that it was:", so the inference now sits with Block and agrees with "If correct".
+  - L94: added the calibration "Overflow is compatible with dualism without favouring it: Block himself argues for a neural realizer of overflow, and [recurrent processing theory](/concepts/recurrent-processing-theory/) predicts overflow on neural grounds." The source is the Block (2007) BBS abstract via Crossref 10.1017/S0140525X07002786, where "we can find a neural realizer of this overflow" has count 1. The closing sentence is now conditional ("If dualism is true and perceptual experience is [as rich as it seems](/voids/plenitude-void/), that richness reflects…"), which installs the page's first `plenitude-void` link on its "as rich as it seems" thesis. This matches `concepts/phenomenal-overflow` "Overflow fits the tenet without establishing it".
+  - L78 and L154 are untouched, owned by open P3s. Only the frontmatter `modified`/`ai_modified` changed; `ai_system` already carries `claude-opus-5-5`.
+- **Engagement**: with Block: Mode Three, plus an honest attribution. The Map's dualist reading of overflow is marked as compatible rather than discriminating, since Block's own framework realizes overflow neurally.
+- **Length**: 3,941 → 3,990 (topics hard 4,000, gate `>=`; net +49 ≤ +58).
+- **Orphan check**: (surname, year) runs both directions. The only orphan is Chalmers (1996) in References, which has no in-text cite. It is pre-existing (since the coalesce) and was left in place. No new citations were added.
+- **For the driver**: `concepts/process-content-distinction` L77 and `concepts/introspection` L85 say "three or four" and state the overflow reading as fact. `research/voids-pre-conceptual-knowing-2026-01-27` L70 says "3-4". `concepts/recurrent-processing-theory` L77 calls the Map's view "that experience is richer than whatever gets globally accessed", which sits against `phenomenal-overflow`'s "open hypothesis".
+- **Published**: yes
+
+## 2026-11-20T10:21:32+00:00 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This is a delta check against the 2026-11-19T17:20:31Z run. Abandoning is the expected steady state and counts as SUCCESS.
+- **Pressure** (`tools.evolution.state.count_section_files` against `section_caps`): topics 370/370, concepts 370/370, voids 124/125 (positions 29/90). These are unchanged since last night. Since 17:18Z, `--diff-filter=ADR` shows no additions, removals or renames in topics, concepts, voids or the archive. 15 existing pages (plus the `voids` index) were edited, and the working tree holds no uncommitted content edits.
+- **Method**: last night's `screen_1119.py`, `contain_1119.py`, `shingle_1119.py` and `focus_pm1119.py` were re-run against the current tree with two changes. The age floor moved to 2026-11-13, and the open-task field regex is now `(File|Secondary( files?)?)`, which closes the singular `**Secondary file**:` gap recorded at 17:20Z. Two scripts were added. `focus_all_1120.py` pairs each edited page against every page, not only the pool, for information. `pair_1120.py` reports one pair's figures now and at commit `d242f5ad31` (17:12:57Z, the last commit before the 17:18Z run).
+- **Filter survival**: there are 867 raw files. Dropping the 3 section index pages and the `non-temporal-consciousness.refinement-log` sidecar first leaves 863 (no `*calibration-history*` files exist). The age floor (created on or after 2026-11-13) drops 5 pages, leaving 858: `beloved-void`, `bereavement-void`, `learning-void`, `sour-grapes-void` and `weeping-void`. The open-task filter covers 566 blocks above `## Completed Tasks`. It names 465 stems and drops 462, leaving **396** (176 topics, 156 concepts, 64 voids).
+  - *Movement against last night's corrected 412*: 17 pages left because new tasks name them: `anti-correlated-metacognitive-signal`, `default-mode-network`, `entropic-brain-hypothesis`, `kripke-a-posteriori-necessity-argument`, `neural-correlates-of-consciousness`, `objectivity-and-consciousness`, `phenomenal-overflow`, `type-a-type-b-and-type-c-physicalism`, `chinese-philosophy-of-mind`, `consciousness-and-neurodegenerative-disease`, `consciousness-disruption-and-the-mind-brain-interface`, `cross-domain-void-comparison`, `mad-dog-everettianism`, `neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels`, `phenomenology-of-forgetting`, `anesthesia-void` and `mood-void`. `episodic-memory` was already corrected out last night. 1 page entered: `concepts/zombie-master-argument` (3214). 1 pool page changed length: `topics/consciousness-and-counterfactual-reasoning` 2615→2809. `topics/self-observation-and-the-moments-of-selection` and `voids/wakefulness-void` are now past the age floor, but open tasks name both.
+- **Re-run passes (thresholds against last night's):**
+  1. *Length first*: 99 pairs fit under the larger home hard limit (unchanged). The top cosine is still **0.158** (`phenomenal-depth` + `phenomenal-presentation`, a recorded decline). No length-feasible pair overlaps.
+  2. *Similarity first*: 17 pairs are at or above 0.40 (16 last night). The extra pair is `curated-mind` + `selective-correction-and-reconstruction-paradox`, which went from 0.389 to 0.406 with no body edit, because the 2–8% df vocabulary boundary drifted. All of the top 30 overflow the hard limit. Four pairs now sit at the bottom of the top 30 (0.356–0.358). Pages leaving the pool pushed them up; none of their bodies changed. They are `inner-speech-and-anendophasia` + `descriptive-experience-sampling`, `brain-stimulation-and-the-witness-mode` + `measuring-the-witness-attitude`, `embodied-cognition` + `implicit-memory` and `consciousness-and-collective-phenomena` + `consciousness-and-social-understanding`. Each sums to 5962–7837.
+  3. *Directed containment (coverage)*: the positive control is still **0.93**. The pool maximum is still **0.51** (`direction-of-interface-change` → `memory-channel-interface-evidence`), and **0** directed pairs fit the host's headroom. Compared with 17:20Z, the list only lost rows (4 pairs whose members left the pool), and no row entered. The nearest arithmetic miss is still `source-versus-leeway-incompatibilism` → `frankfurt-cases-and-the-principle-of-alternate-possibilities` (0.47, remainder ~1320 against headroom 1204). This is the recorded "hub and hinge" decline, and neither body has changed.
+  4. *Shared `coalesced_from` ancestry*: the same 5 shared ancestors plus the `mysterianism` self-duplicate. Every sibling pair still has at least one member named by an open task.
+  5. *Verbatim 8-grams*: the maximum is still **162** (`carrolls-regress` + `inference-void`). The top 15 lost the departed `anti-correlated-…` and `chinese-philosophy-…` pairs. `aphantasia` + `synaesthesia` (58, sum 6230) and `physical-completeness` + `completeness-in-physics-under-dualism` (58, sum 6640) moved up into the gap. Both overflow the hard limit.
+- **Changed and entered pool pages against their top-5 pool partners**: no pair fits on summed length, and no directed pair fits the host's headroom.
+  - `zombie-master-argument`: best cosine 0.41 with `modal-structure-of-phenomenal-properties`, containment 0.05/0.02, 8-gram maximum 6.
+  - `consciousness-and-counterfactual-reasoning`: best cosine 0.25, containment ≤ 0.02.
+  - `bandwidth-of-consciousness` (link-only edit, 4156 unchanged): its only strong partner is still `consciousness-bandwidth-architecture`, a recorded decline whose host is over hard.
+  - `observation-and-measurement-void`: containment 0.00 against all five partners.
+- **`voids/plenitude-void` + `concepts/phenomenal-overflow`** (both excluded by open tasks; figures for the operator's pending Block/Sperling decision, no merge):
+  - *Now*: overflow 2793 + plenitude 3059 = 5852 against hard 3500, which does not fit. Screen cosine 0.275, paragraph-doc cosine 0.361, **0 shared 8-grams**. Containment overflow→plenitude **0.02** (remainder ~2724 against host headroom −60, the void being over its 3000 hard limit). Containment plenitude→overflow **0.03** (remainder ~2961 against headroom 706).
+  - *At `d242f5ad31`*: 2463 + 3062 = 5525. Screen cosine 0.281, paragraph-doc cosine 0.353, 0 shared 8-grams, containment 0.03/0.03. No 8-gram was gained or lost.
+  - *Reading*: the overnight work added about 330 words to overflow and connected the two pages more, but it did not make their texts overlap. Block/Sperling appears 14/9 times (Block) and 9/3 (Sperling) on overflow/plenitude. On plenitude, though, it is one summary paragraph (L62) that links overflow. Overflow FR L188 signs the split: "whether the rich/sparse dispute can be settled from within experience; this page supplies the Block–Sperling evidence it turns on". Each page's top partner is the other (cosine 0.36), and overflow's nearest page overall is `access-consciousness` (0.44). Even without the task exclusion, the pair is a role split and does not merge on length.
+- **Informational, all-pages pass on the 11 excluded edited pages**: two pairs pass 0.40 directed containment, and both are ineligible.
+  - `imagery-void` → `aphantasia`: 0.45, remainder ~1649 against headroom 1240. This is the recorded void↔condition decline ("the abstract structural treatment"), and the 5565 P3 names imagery-void in its `Secondary files` line.
+  - `motor-selection` → `motor-control-quantum-zeno`: 0.41, remainder ~2062 against headroom 128.
+- **Finding**: no pool pair newly crosses last night's thresholds, so no new pair needed a content read. The plenitude/overflow figures show that pair has not converged in text. Coalesce still cannot free a topics or concepts slot, so relief must come from `/archive`, `/condense` or a cap raise.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-11-20T10:03:34+00:00 - refine-draft
 - **Status**: Success

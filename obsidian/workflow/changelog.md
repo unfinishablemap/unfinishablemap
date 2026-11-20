@@ -5,6 +5,22 @@ ai_modified: 2026-11-20T10:21:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-20T10:39:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/dualist-perception]]
+- **Source**: outer-review 2026-11-20 (Claude Fable 5.2), task "states Block's contested overflow inference as fact"; review file `reviews/outer-review-2026-11-20-claude-fable-5-2.md`
+- **Original score**: n/a (`scripts/curate.py` absent); task-scoped pass on three items
+- **Changes**:
+  - L90 Sperling figure: "only 3-4 items" became "only about four items (4.3 on average)". This was verified against the primary, Sperling (1960), *Psychological Monographs* 74(11), Whole No. 498, using a full-text scan (support.pstnet.com attachment 360083880733, 29 pp.; `pdftotext`, de-hyphenated, whitespace collapsed; each of the following strings has count 1 and a nonsense control has count 0): "The immediate-memory span for the 4/4/4 (12-letters and numbers) stimuli ranges from 3.9 to 4.7 symbols for the Ss, with an average of 4.3"; "average immediate-memory span for all Ss of about 4.3 letters"; "could not report more than an average of about 4.5 items"; and Summary "the average was slightly over four letters". The "three to four letters" in Sperling's Summary is the size of the cued ROW, not the whole-report span, which is a likely source of the corpus's "3-4" readings. `concepts/phenomenal-overflow` L46 "4-5" is a slight upward rounding but falls within the per-subject range (3.9 to 4.7 for 12 symbols; 3.8 to 5.2 overall). It was not edited.
+  - L90 contested inference: "The information was in the experience but exceeded what [[access-consciousness]] could retrieve." became "More information was available than [[access-consciousness]] could retrieve at once; whether it was also in the experience is the disputed step." L92 "argues this indicates that" became "argues that it was:", so the inference now sits with Block and agrees with "If correct".
+  - L94: added the calibration "Overflow is compatible with dualism without favouring it: Block himself argues for a neural realizer of overflow, and [[recurrent-processing-theory|recurrent processing theory]] predicts overflow on neural grounds." The source is the Block (2007) BBS abstract via Crossref 10.1017/S0140525X07002786, where "we can find a neural realizer of this overflow" has count 1. The closing sentence is now conditional ("If dualism is true and perceptual experience is [[plenitude-void|as rich as it seems]], that richness reflects…"), which installs the page's first `plenitude-void` link on its "as rich as it seems" thesis. This matches `concepts/phenomenal-overflow` "Overflow fits the tenet without establishing it".
+  - L78 and L154 are untouched, owned by open P3s. Only the frontmatter `modified`/`ai_modified` changed; `ai_system` already carries `claude-opus-5-5`.
+- **Engagement**: with Block: Mode Three, plus an honest attribution. The Map's dualist reading of overflow is marked as compatible rather than discriminating, since Block's own framework realizes overflow neurally.
+- **Length**: 3,941 → 3,990 (topics hard 4,000, gate `>=`; net +49 ≤ +58).
+- **Orphan check**: (surname, year) runs both directions. The only orphan is Chalmers (1996) in References, which has no in-text cite. It is pre-existing (since the coalesce) and was left in place. No new citations were added.
+- **For the driver**: `concepts/process-content-distinction` L77 and `concepts/introspection` L85 say "three or four" and state the overflow reading as fact. `research/voids-pre-conceptual-knowing-2026-01-27` L70 says "3-4". `concepts/recurrent-processing-theory` L77 calls the Map's view "that experience is richer than whatever gets globally accessed", which sits against `phenomenal-overflow`'s "open hypothesis".
+- **Published**: yes
+
 ## 2026-11-20T10:21:32+00:00 - coalesce
 - **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This is a delta check against the 2026-11-19T17:20:31Z run. Abandoning is the expected steady state and counts as SUCCESS.
 - **Pressure** (`tools.evolution.state.count_section_files` against `section_caps`): topics 370/370, concepts 370/370, voids 124/125 (positions 29/90). These are unchanged since last night. Since 17:18Z, `--diff-filter=ADR` shows no additions, removals or renames in topics, concepts, voids or the archive. 15 existing pages (plus the `voids` index) were edited, and the working tree holds no uncommitted content edits.

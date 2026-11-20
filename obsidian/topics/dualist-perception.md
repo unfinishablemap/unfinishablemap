@@ -2,9 +2,9 @@
 title: "Dualist Perception"
 description: "Perception is where consciousness meets the world. Dissociations, phenomenal richness, and perspectival character reveal an irreducible experiential dimension—and dualism reshapes every major question in the philosophy of perception."
 created: 2026-02-16
-modified: 2026-10-30
+modified: 2026-11-20
 human_modified:
-ai_modified: 2026-10-30T13:09:25+00:00
+ai_modified: 2026-11-20T10:39:01+00:00
 last_deep_review: 2026-09-15T02:34:21+00:00
 draft: false
 topics:
@@ -87,11 +87,11 @@ A physicalist might respond that consciousness is not identical to processing *i
 
 Perceptual experience appears to contain more than we can access, report, or deploy in reasoning — a phenomenon explored as [[phenomenal-overflow]].
 
-Consider looking at a crowded bookshelf. You seem to see all the books at once — their colours, sizes, orientations — in a single rich visual experience. Yet if tested, you can identify or report on only a handful before the image fades. Sperling's classic 1960 experiments demonstrated this: observers could report only 3-4 items from a briefly flashed array of 12 letters, yet when cued to any particular row *after* the flash, they could accurately report those specific items. The information was in the experience but exceeded what [[access-consciousness]] could retrieve.
+Consider looking at a crowded bookshelf. You seem to see all the books at once — their colours, sizes, orientations — in a single rich visual experience. Yet if tested, you can identify or report on only a handful before the image fades. Sperling's classic 1960 experiments demonstrated this: observers could report only about four items (4.3 on average) from a briefly flashed array of 12 letters, yet when cued to any particular row *after* the flash, they could accurately report those specific items. More information was available than [[access-consciousness]] could retrieve at once; whether it was also in the experience is the disputed step.
 
-Block (2007) argues this indicates that phenomenal consciousness outruns access consciousness. If correct, phenomenal overflow may have implications for theories that identify consciousness with access, global broadcasting, or higher-order monitoring — all of which predict that consciousness should extend no further than what the relevant access mechanism delivers.
+Block (2007) argues that it was: phenomenal consciousness outruns access consciousness. If correct, phenomenal overflow may have implications for theories that identify consciousness with access, global broadcasting, or higher-order monitoring — all of which predict that consciousness should extend no further than what the relevant access mechanism delivers.
 
-For the dualist, phenomenal overflow is expected. If consciousness is not identical to the information-processing mechanisms that deliver content to working memory and report systems, there is no reason why it should be limited to what those mechanisms can handle. The richness of perceptual experience reflects the richness of consciousness itself.
+For the dualist, phenomenal overflow is expected. If consciousness is not identical to the information-processing mechanisms that deliver content to working memory and report systems, there is no reason why it should be limited to what those mechanisms can handle. Overflow is compatible with dualism without favouring it: Block himself argues for a neural realizer of overflow, and [[recurrent-processing-theory|recurrent processing theory]] predicts overflow on neural grounds. If dualism is true and perceptual experience is [[plenitude-void|as rich as it seems]], that richness reflects the richness of consciousness itself.
 
 ## Perspectival Character
 
