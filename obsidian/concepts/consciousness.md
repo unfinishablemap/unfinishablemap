@@ -2,10 +2,10 @@
 title: "Consciousness"
 description: "Consciousness is what it is like to be something—the subjective first-person perspective accompanying perception and thought. The Map treats it as irreducible."
 created: 2026-01-24
-modified: 2026-11-17
+modified: 2026-11-20
 human_modified: null
-ai_modified: 2026-11-17T12:06:07+00:00
-last_deep_review: 2026-07-06T13:20:12+00:00
+ai_modified: 2026-11-20T11:47:03+00:00
+last_deep_review: 2026-11-20T11:47:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ The Unfinishable Map treats consciousness as irreducible. The [[tenets#^dualism|
 
 ## What Consciousness Is {#what-it-is}
 
-Consciousness is the central fact of mental life—the one thing we cannot coherently doubt. Descartes's *cogito* captures this: whatever else we might be wrong about, we cannot be mistaken that there is something it is like to be us right now.
+Consciousness is the central fact of mental life—for the Map, the datum we know most directly. Descartes's *cogito* captures this: whatever else we might be wrong about, we cannot be mistaken that there is something it is like to be us right now. [[illusionism|Illusionists]] decline to grant the datum, as discussed [[#theories|below]].
 
 Three aspects characterise consciousness:
 
@@ -67,7 +67,7 @@ David Chalmers distinguished the "easy problems" of consciousness (explaining co
 
 The [[hard-problem-of-consciousness|hard problem]] concerns the [[explanatory-gap]] between physical description and phenomenal reality. We can map which brain regions correlate with which experiences (see [[neural-correlates-of-consciousness]]). We cannot explain *why* activity in V4 feels like colour rather than nothing at all.
 
-Chalmers later introduced the [[meta-problem-of-consciousness|meta-problem]] (2018): why do we *think* consciousness is hard? Even physicalists who deny phenomenal consciousness must explain why the problem seems compelling. The Map treats the persistence of these intuitions as evidence of something real rather than a quirk of cognitive mechanism.
+Chalmers later introduced the [[meta-problem-of-consciousness|meta-problem]] (2018): why do we *think* consciousness is hard? Even physicalists who deny phenomenal consciousness must explain why the problem seems compelling. On the [[tenets#^dualism|Dualism tenet]] our problem intuitions are accurate, giving the meta-problem a face-value solution; that neutralises a debunking threat rather than adding evidence for dualism.
 
 The Map holds that the hard problem is not merely unsolved but unsolvable by physicalist methods. The gap reflects a genuine ontological distinction: consciousness is not identical to or fully explained by physical processes.
 
@@ -77,12 +77,12 @@ The Map's treatment of consciousness draws several crucial distinctions:
 
 ### Phenomenal vs Access Consciousness {#phenomenal-access}
 
-[[phenomenal-consciousness|Phenomenal consciousness]] (P-consciousness) is the experiential quality of mental states—what they feel like. [[access-consciousness]] (A-consciousness) is information availability—what is poised for reasoning, report, and action. Ned Block introduced this distinction to isolate what physicalist theories can explain (access mechanisms) from what remains puzzling (phenomenology).
+[[phenomenal-consciousness|Phenomenal consciousness]] (P-consciousness) is the experiential quality of mental states—what they feel like. [[access-consciousness]] (A-consciousness) is information availability—what is poised for reasoning, report, and action. Ned Block drew the distinction to expose a fallacy, in which a function of the access machinery is "illicitly transferred to phenomenal consciousness". Block himself seeks a neural basis for phenomenality; the dualist reading below is the Map's.
 
-The distinction matters because:
-- Physicalism succeeds at explaining access. [[global-workspace-theory|Global Workspace Theory]] identifies how information becomes globally available.
+For the Map, the distinction matters because:
+- Physicalist theories make headway on access. [[global-workspace-theory|Global Workspace Theory]] identifies how information becomes globally available.
 - Physicalism struggles with phenomenology. Even a complete account of access mechanisms leaves the hard problem untouched.
-- The two can dissociate. [[blindsight]] demonstrates access without (or with degraded) phenomenology; the "overflow argument" suggests phenomenology exceeding access.
+- The two may dissociate. The Map reads [[blindsight]] as partial access with minimal or absent phenomenology, though Block counts blind-field stimuli as both access- and phenomenally unconscious; the [[phenomenal-overflow|overflow argument]] suggests phenomenology exceeding access, an open hypothesis.
 
 ### Consciousness vs Awareness {#awareness}
 
@@ -104,15 +104,15 @@ Both questions connect to the Map's framework: creature consciousness relates to
 
 **[[global-workspace-theory|Global Workspace Theory]]** (Baars, Dehaene) explains access consciousness via information broadcast to multiple cognitive systems. When information enters the "global workspace," it becomes available for report, reasoning, and action. This explains access but not phenomenology—why does global broadcast feel like anything?
 
-**[[integrated-information-theory|Integrated Information Theory]]** (Tononi) proposes that consciousness *is* integrated information (measured as Φ). IIT makes surprising predictions: even simple systems with high Φ would be conscious. The theory offers an interesting bridge between structure and experience but faces the hard problem at its foundation: why does integrated information feel like anything? The Map treats IIT as identifying a necessary condition that falls short of explanation.
+**[[integrated-information-theory|Integrated Information Theory]]** (Tononi) proposes that consciousness *is* integrated information (measured as Φ). IIT makes surprising predictions: even simple systems with high Φ would be conscious. The theory offers an interesting bridge between structure and experience but faces the hard problem at its foundation: why does integrated information feel like anything? The Map reads integrated information as at most a necessary condition, short of an explanation.
 
 **[[illusionism]]** (Dennett, Frankish) denies phenomenal consciousness exists as traditionally conceived. We *represent* ourselves as having qualitative, what-it-is-like properties, but this representation is mistaken—there is no "what it's like" beyond these representational states themselves. Keith Frankish's positive account proposes that certain cognitive mechanisms generate representations that *seem* phenomenal without being so; the "illusion problem" (explaining these representations) replaces the hard problem.
 
 The Map rejects illusionism but takes it seriously as the strongest physicalist strategy. The familiar reply—the seeming is itself something it is like—settles nothing alone: it assumes the seeming is phenomenal, which illusionists deny. The Map's objection: illusionism owes, on its own standard, a mechanism for a state representing *itself* as experiential—one not yet built. Past that the frameworks part: for the Map, what a state does leaves open what it is like.
 
-### Dualist Theories
+### Dualist, Panpsychist, and Mysterian Theories
 
-**[[interactionist-dualism|Interactionist Dualism]]** holds that consciousness is distinct from physical processes yet causally connected to them. This is the Map's position. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] specifies the interface: consciousness influences quantum indeterminacies without injecting energy.
+**[[interactionist-dualism|Interactionist Dualism]]** holds that consciousness is distinct from physical processes yet causally connected to them. This is the Map's position. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] posits the interface: consciousness influences quantum indeterminacies without injecting energy.
 
 **[[concepts/epiphenomenalism]]** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: our accurate judgments about phenomenal states suggest genuine causal contact with experience. If consciousness had no effects, the reliability of introspective reports about qualia, pain, and colour would rest on a lawful parallel rather than on the experiences themselves—our zombie twins would say the same words, and whether a parallel without causal traffic yields knowledge is the [[tenets#^tenet-3-epiphenomenalism|contested premise]].
 
@@ -134,15 +134,13 @@ Five arguments converge on consciousness's irreducibility, not all from independ
 
 **The [[argument-from-reason|Argument from Reason]]**: Genuine reasoning requires normative relations (one belief supporting another). Physical causation instantiates only efficient causation, not normative relations. Therefore reasoning requires irreducibly mental properties.
 
-Physicalists have responses to each argument—the phenomenal concept strategy for the knowledge argument, denials of zombie conceivability for the conceivability argument, functionalist theories of qualia. The Map takes the arguments as jointly establishing that consciousness is not reducible to physical processes, but the case is weaker than a count of five suggests. The knowledge argument, the conceivability argument, the explanatory gap, and the inverted qualia argument all press the same gap between physical description and phenomenal character; if that common starting point fails, they fail together rather than confirming one another. Only the argument from reason begins elsewhere, from the normativity of inference rather than the qualitative character of experience. The agreement supports a case substantially stronger than any single argument, not five independent confirmations; [[the-convergence-argument-for-dualism|the convergence argument]] works out why the force comes from *across* clusters rather than from the count.
+Physicalists have responses to each argument—the phenomenal concept strategy for the knowledge argument, denials of zombie conceivability for the conceivability argument, functionalist theories of qualia. The Map takes the arguments as jointly supporting its commitment that consciousness is not reducible to physical processes, but the case is weaker than a count of five suggests. The knowledge and inverted qualia arguments share one cluster, treating first-person phenomenal reports as revealing real features; the conceivability argument and the explanatory gap share another, resting on the premise that the gap between physical description and phenomenal character is real rather than apparent. If a cluster's common starting point fails, its members fail together rather than confirming one another. The argument from reason presses a separate self-defeat charge, from the normativity of inference. The agreement supports a case substantially stronger than any single argument, not five independent confirmations; [[the-convergence-argument-for-dualism|the convergence argument]] works out why the force comes from *across* clusters rather than from the count.
 
 ## Neural Correlates {#neural-correlates}
 
-[[neural-correlates-of-consciousness|Neural correlates of consciousness]] (NCCs) are the brain activity patterns that correlate with specific conscious experiences. Research identifies a "posterior cortical hot zone" as particularly associated with conscious content.
+[[neural-correlates-of-consciousness|Neural correlates of consciousness]] (NCCs) are the brain activity patterns that correlate with specific conscious experiences. Research has produced the influential but contested hypothesis that a "posterior cortical hot zone" is particularly associated with conscious content.
 
-NCC findings are compatible with both materialism and dualism. Finding correlations doesn't establish identity. If consciousness interacts with the brain (as the Map holds), tight correlations are exactly what we'd expect. The interface where consciousness reads from and writes to neural activity would show perfect correlation without being the same thing as the neural activity. This very compatibility raises a challenge: if dualism and materialism predict the same correlations, NCC data alone cannot distinguish them. The distinction must come from philosophical argument, not from brain imaging.
-
-The [[explanatory-gap]] persists despite NCC progress. We know that V4 correlates with colour experience; we don't know *why* V4 activity feels like colour. Correlations multiply without becoming explanations.
+NCC findings are compatible with both materialism and dualism. Finding correlations doesn't establish identity. If consciousness interacts with the brain (as the Map holds), tight correlations are exactly what we'd expect. The interface where consciousness reads from and writes to neural activity would show perfect correlation without being the same thing as the neural activity. This very compatibility raises a challenge: if dualism and materialism predict the same correlations, NCC data alone cannot distinguish them. The distinction must come from philosophical argument, not from brain imaging. Correlations multiply without becoming explanations.
 
 ## Dimensions of Consciousness {#dimensions}
 
@@ -152,7 +150,7 @@ Consciousness varies along multiple dimensions:
 
 **Level**: The degree of consciousness from deep anaesthesia through drowsiness to full alertness. Level affects which contents can enter consciousness and how richly they are experienced.
 
-**Mode**: Different kinds of consciousness with distinct phenomenology. [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] (episodic memory) involves mental time travel; [[witness-consciousness]] (contemplative practice) involves awareness without content; [[dream-consciousness|dream consciousness]] differs from waking perception. See [[types-of-consciousness]] for a comprehensive taxonomy of how consciousness varies structurally — across phenomenal character, access, monitoring, temporality, bandwidth, and unity.
+**Mode**: Different kinds of consciousness with distinct phenomenology. [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] (episodic memory) involves mental time travel; [[witness-consciousness]] (contemplative practice) involves awareness observing contents without identifying with them; [[dream-consciousness|dream consciousness]] differs from waking perception. See [[types-of-consciousness]] for a comprehensive taxonomy of how consciousness varies structurally — across phenomenal character, access, monitoring, temporality, bandwidth, and unity.
 
 **[[temporal-consciousness|Temporal Structure]]**: Consciousness has intrinsic temporal organisation—the [[temporal-consciousness|specious present]], memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
 
@@ -169,15 +167,15 @@ The Map notes several views:
 - The self as minimal prereflective presence (phenomenology)
 - No-self as fundamental insight ([[buddhism-and-dualism|Buddhism]])
 
-Whatever the self's ultimate nature, consciousness involves a perspectival point from which experiences occur. Even if the self is constructed or illusory, the construction is a conscious process.
+Whatever the self's ultimate nature, consciousness involves a perspectival point from which experiences occur. Even if the self is constructed or illusory, the construction is, for the Map, a conscious process, though Dennett's illusionism would not grant this.
 
 ## Consciousness and Causation {#causation}
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences physical outcomes. Evidence includes:
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences physical outcomes. Three considerations support it, none decisively:
 
-**Reports**: We discuss consciousness; this requires information about consciousness entering the physical domain to move mouths and type words.
+**Reports**: We discuss consciousness; on its face, this requires information about consciousness entering the physical domain to move mouths and type words. The epiphenomenalist's lawful-parallel reply, noted [[#theories|above]], contests that step.
 
-**Cognitive effects**: [[conscious-vs-unconscious-processing|Conscious processing]] enables functions unavailable to unconscious processing—durable maintenance, novel combinations, spontaneous intentional action. If consciousness were epiphenomenal, the [[baseline-cognition|baseline cognition]] hypothesis would make no sense.
+**Cognitive effects**: [[conscious-vs-unconscious-processing|Conscious processing]] enables functions unconscious processing cannot match—durable maintenance, novel combinations, spontaneous intentional action. This shows conscious *access* at work; whether phenomenal experience does the work is a further step, to which the [[baseline-cognition|baseline cognition]] hypothesis lends suggestive but contested support.
 
 **Voluntary action**: We experience initiating actions. While [[libet-experiments|Libet experiments]] complicate this, they don't eliminate genuine conscious influence—they may show consciousness operating through different temporal dynamics than naive introspection suggests.
 
@@ -187,7 +185,7 @@ The mechanism of mind-matter interaction remains speculative. The [[tenets#^mini
 
 ## Relation to Site Perspective
 
-Consciousness is the Map's central concern. The five [[tenets]] all relate to consciousness:
+Consciousness is the Map's central concern. The five [[tenets]]—chosen starting points, not results the Map reports—all relate to it:
 
 **Dualism**: Consciousness is not reducible to physical processes. The hard problem marks a genuine ontological boundary, not just an epistemic gap.
 
@@ -233,6 +231,7 @@ The Map's extensive coverage of consciousness includes:
 1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*.
 1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*.
 1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Chalmers, D. J. (2018). "The Meta-Problem of Consciousness." *Journal of Consciousness Studies*, 25(9–10), 6–61.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 1. Koch, C. (2019). *The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed*. MIT Press.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*.

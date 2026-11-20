@@ -1,9 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T11:08:05+00:00
+ai_modified: 2026-11-20T11:47:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T11:47:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness]]
+- **Word count**: 2,540 → 2,670 (+130; concepts hard 3,500; `soft_warning` both sides; ~14 of the +130 is the new References entry)
+- **Selection**: driver-selected; last deep review 2026-07-06 (137 days). 7th deep review. The 2026-07-28, 2026-11-02 and 2026-11-17 edits are kept as written.
+- **Critical issues addressed**: 6
+  - L137 "jointly establishing" → "jointly supporting its commitment" (tenets Dualism rationale: "not a result it reports"; P-D1 "real but modest").
+  - L137 cluster map restated to P-D1 / `concepts/dualism` L134 (2026-10-23 / 2026-11-10). OLD: "The knowledge argument, the conceivability argument, the explanatory gap, and the inverted qualia argument all press the same gap … Only the argument from reason begins elsewhere". NEW: knowledge + inverted qualia = phenomenal-intuition cluster; conceivability + gap = gap cluster; "If a cluster's common starting point fails, its members fail together"; the argument from reason "presses a separate self-defeat charge".
+  - L176–180 Causation section now agrees with its own L117 and tenets L101. "Evidence includes:" → "Three considerations support it, none decisively:". Reports gains "on its face," and "The epiphenomenalist's lawful-parallel reply, noted above, contests that step." Cognitive effects: "If consciousness were epiphenomenal, the baseline cognition hypothesis would make no sense." → "This shows conscious *access* at work; whether phenomenal experience does the work is a further step, to which the baseline cognition hypothesis lends suggestive but contested support." (`conscious-vs-unconscious-processing` L50; tenets L97).
+  - L70 meta-problem. OLD: "The Map treats the persistence of these intuitions as evidence of something real rather than a quirk of cognitive mechanism." NEW: "On the Dualism tenet our problem intuitions are accurate, giving the meta-problem a face-value solution; that neutralises a debunking threat rather than adding evidence for dualism." (`meta-problem-of-consciousness` L137).
+  - L80/L85 Block. OLD: "Ned Block introduced this distinction to isolate what physicalist theories can explain (access mechanisms) from what remains puzzling (phenomenology)." NEW: "Ned Block drew the distinction to expose a fallacy, in which a function of the access machinery is "illicitly transferred to phenomenal consciousness". Block himself seeks a neural basis for phenomenality; the dualist reading below is the Map's." OLD L85: "[[blindsight]] demonstrates access without (or with degraded) phenomenology; the "overflow argument" suggests phenomenology exceeding access." NEW: "The two may dissociate. The Map reads [[blindsight]] as partial access with minimal or absent phenomenology, though Block counts blind-field stimuli as both access- and phenomenally unconscious; the [[phenomenal-overflow|overflow argument]] suggests phenomenology exceeding access, an open hypothesis." Block 1995 abstract: "both access-unconscious and phenomenally unconscious".
+  - Inline "(2018)" for the meta-problem had no reference. Added Chalmers 2018, *JCS* 25(9–10), 6–61.
+- **Medium issues addressed**: 9
+  - Relation section: "The five [[tenets]] all relate to consciousness:" → "The five [[tenets]]—chosen starting points, not results the Map reports—all relate to it:".
+  - L54: "the one thing we cannot coherently doubt" → "for the Map, the datum we know most directly". Added "[[illusionism|Illusionists]] decline to grant the datum, as discussed below." (illusionism hub L55).
+  - L172 self: "… the construction is a conscious process." → "… the construction is, for the Map, a conscious process, though Dennett's illusionism would not grant this."
+  - L141: "Research identifies a "posterior cortical hot zone" …" → "Research has produced the influential but contested hypothesis that a "posterior cortical hot zone" is …" (NCC L51).
+  - Heading "### Dualist Theories" → "### Dualist, Panpsychist, and Mysterian Theories". No inbound anchors.
+  - L107 IIT: "The Map treats IIT as identifying a necessary condition that falls short of explanation." → "The Map reads integrated information as at most a necessary condition, short of an explanation." (`consciousness-and-integrated-information` L96 "might be").
+  - L155: "awareness without content" → "awareness observing contents without identifying with them" (`witness-consciousness` L44).
+  - L115: "specifies the interface" → "posits the interface".
+  - Removed the redundant V4 pair (duplicated L68). "Correlations multiply without becoming explanations." is kept.
+- **Source ledger**: all hits on tag-stripped, unescaped, whitespace-collapsed text; nonsense control 0 in each.
+  - Block 1995: [raw] Wayback copy of Block's NYU PDF — "illicitly transferred to phenomenal consciousness" 1, "both access-unconscious and phenomenally unconscious" 1, "conceptually possible, but I knew of no actual" 1, "has seemed such a scientific mystery" 1. Crossref BBS 18(2) 227-247.
+  - Block 2007: PubMed 18366828 [raw-abs] "neural realizer of this overflow" 1.
+  - Chalmers 1995: consc.net facing.html — 4/4 easy-problem and hard-problem phrases.
+  - Chalmers 2018: consc.net metaproblem.pdf header "Journal of Consciousness Studies, 25, No. 9–10, 2018, pp. 6–61"; also confirms Frankish's "illusion problem" coinage.
+  - Crossref real-correct: Nagel 1974, Tononi 2008, DeWall et al. 2008 (17(3) 628-645), Koch 2019, McGinn 1989 (98(391) 349-366).
+  - McGinn full text not obtained.
+- **Links**: 49 distinct wikilink targets resolve; the 5 tenets block anchors are present; the new `[[#theories]]` links target `{#theories}`.
+- **Engagement classification**: illusionism mixed (unchanged); epiphenomenalism Mode Three with reply stated; functionalism Mode Two plus boundary; IIT Mode Three.
+- **Reported, not edited**: `access-consciousness` L37 has the same Block-purpose misattribution. `baseline-cognition` L57/L140 uses the "coincidental" anti-epiphenomenalism framing, and its definition (L55) is phenomenal while its evidence (L94) concerns access. Tenets L91 *Definition* states the report-flow inference unconditionally against its own L101 (human-authored page). The hub's "rats cannot grasp calculus" gloss is not McGinn's example per `mysterianism` L70 (unverified). The IIT page never states the "necessary condition" reading.
+- **Output**: [[reviews/deep-review-2026-11-20-consciousness]]
 
 ## 2026-11-20T11:08:05+00:00 - research-topic
 - **Status**: Success

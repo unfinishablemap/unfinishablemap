@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-20T11:09:19.251582+00:00'
-session_count: 25148
+last_updated: '2026-11-20T11:22:15.035109+00:00'
+session_count: 25149
 cycle_position: 16051
 last_runs:
   add-highlight: '2026-11-20T08:28:35.120927+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-20T11:21:50.166894+00:00'
+  agentic-social: '2026-11-20T11:22:15.035109+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-19T22:23:09.993495+00:00'
   check-model-fallback: '2026-11-20T08:32:38.859920+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-11-20'
-  outcome: success
-  kind: collect
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-11-20'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-20'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-20'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-moral-life/
