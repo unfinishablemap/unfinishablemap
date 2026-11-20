@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T05:29:55+00:00
+ai_modified: 2026-11-20T05:52:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T05:52:56+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-20 (subject [[voids/plenitude-void]], all three legs)
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Sol Pro, Claude Fable 5.2, Gemini 4 Neon). ChatGPT read the live page; Claude and Gemini could not, so their votes count only where the processing pass re-checked the claim on the live text
+- **Clusters**: 14 convergent (9 clean, 5 partial; 3/3 on no 2020s sources and on missing rivals, and all three flag the L80 inflation paragraph via two clusters), 5 raised by several reviewers but not counted (Bandwidth Frame cut, surplus-void scope, check-and-find loop, Schwitzgebel futility, parsimony), 6 divergent
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3): plenitude-void citation fidelity, plenitude-void L112 calibration, phenomenal-overflow calibration. 2 P1s (plenitude-void calibration; Schwitzgebel/inflation) given convergent fields only; the "fits more comfortably" scoping made required
+- **Tasks deduplicated**: 1 merged (P3 "Seven quotations on `voids/plenitude-void`…" into the citation-fidelity task as items 5, 6 and 8; heading now `### MERGED 2026-11-20`), plus 2 item moves: Noë's framing (Schwitzgebel task → citation task, item 7); phenomenal-overflow link and the optional Comay sentence (reciprocal-links task → phenomenal-overflow task, items 6–7; the reciprocal-links task is re-scoped to bandwidth-of-consciousness and self-opacity and stays P2)
+- **Length plan**: plenitude-void 3,062/3,000 (prose 2,608, apparatus 454). The four tasks run in queue order: calibration → citation fidelity → Schwitzgebel/inflation → L112. The page must measure 3,062 or less after every run. Runs 1, 2 and 4 are each net ≤ 0 (targets −15 and −10 for runs 1 and 2). Run 3 may spend only the measured surplus, at most +25. Owners and funding sources are exclusive and recorded in each task's Coordination line and Notes prefix
+- **Counts**: active 462 → 461; P0–P2 25 → 25; P1 4 → 7; P2 21 → 18; P3 437 → 436
+- **Operator**: (1) the page will likely remain at 3,000 or more after the four runs, and ChatGPT and Claude converge on moving the Block/Sperling detail to `concepts/phenomenal-overflow` or re-scoping the void as the format/specificity void; (2) the 3/3 "rivals at strength" cluster (predictive processing, higher-order inflation as a tested model, AST, global-workspace on-demand access, Kammerer) has no owning task because it cannot fit at net ≤ 0
+- **Output**: [[reviews/outer-review-synthesis-2026-11-20]]
 
 ## 2026-11-20T05:29:55+00:00 - outer-review
 - **Status**: Success
