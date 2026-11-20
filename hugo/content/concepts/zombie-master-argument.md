@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-22 22:44:51+00:00
+ai_modified: 2026-11-20 03:36:58+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ concepts:
 - '[[type-a-type-b-and-type-c-physicalism]]'
 - '[[russellian-monism]]'
 created: 2026-02-23
-date: &id001 2026-10-02
+date: &id001 2026-11-20
 description: How the conceivability argument against physicalism functions as a master
   argument—subsuming the knowledge argument, explanatory gap, and modal arguments
   into one logical structure.
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:16:22+00:00
-lastmod: 2026-10-22 22:44:51+00:00
+lastmod: 2026-11-20 03:36:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map treats the [zombie argument](/concepts/philosophical-zombies/) not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [knowledge argument](/concepts/knowledge-argument/), the [explanatory gap](/concepts/explanatory-gap/), and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), showing that the major physicalist responses map onto denials of specific steps in the argument's logical chain, and that each denial carries distinctive costs. The labels are his: three physicalist types (A, B and C) sorted by what they grant about the epistemic gap, a Quinean Type-Q that rejects the distinctions the argument is stated in, and three nonreductive views (D, E and F). The [response map below](#the-response-map) follows his assignments; [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) sets out the taxonomy in full.
+The Unfinishable Map treats the [zombie argument](/concepts/philosophical-zombies/) not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [knowledge argument](/concepts/knowledge-argument/), the [explanatory gap](/concepts/explanatory-gap/), and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), arguing that the major physicalist responses map onto denials of specific steps in the argument's logical chain, and that each denial carries distinctive costs. The labels are his: three physicalist types (A, B and C) sorted by what they grant about the epistemic gap, a Quinean Type-Q that rejects the distinctions the argument is stated in, and three nonreductive views (D, E and F). The [response map below](#the-response-map) follows his assignments; [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) sets out the taxonomy in full.
 
 ## The Logical Architecture
 
@@ -47,7 +47,7 @@ The master argument has a precise three-step structure:
 2. **Possibility**: What is conceivable in this way is metaphysically possible.
 3. **Non-entailment**: If such a world is possible, consciousness is not entailed by physical facts — physicalism is false.
 
-Each step is independently defensible, and each generates a distinctive class of physicalist objection. The argument's structure gains its force from this clean logical decomposition: to resist the conclusion, the physicalist must block at least one step, and every available block has been attempted, each, on the Map's assessment, at significant theoretical cost.
+Each step is independently defensible, and each generates a distinctive class of physicalist objection. The argument's structure gains its force from this clean logical decomposition: to resist the conclusion, the physicalist must block at least one step, and each block considered below carries, on the Map's assessment, significant theoretical cost.
 
 ## Why It Subsumes Other Arguments
 

@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20 02:36:34+00:00
+ai_modified: 2026-11-20 03:35:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-20'
-lastmod: 2026-11-20 02:36:34+00:00
+lastmod: 2026-11-20 03:35:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-20T03:35:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Task**: todo P3 (file line 40), soften the universal "every available block has been attempted" (L46) that the 2026-09-10 task (commit `ded0e88f7c`) asked to soften and left in place. Review: `reviews/pessimistic-2026-11-18-completed-task-durability` item 3.
+- **Original score**: not run (`scripts/curate.py` is absent); single-sentence calibration task.
+- **Owning-task screen**: `(File|Secondary( files?)?)\*\*:` and `### ` headings above `## Completed Tasks` (L6269) name this page only for this task (L40/L42). The `concepts/illusionism` NEEDS-HUMAN block (L373) mentions the page as a live referrer of an illusionism anchor (L70), not L46. The latest review (`deep-review-2026-07-25`) Stability Notes list only bedrock disagreements, none touching this sentence.
+- **Changes** (words by `tools.curate.length.analyze_length`, gate `>=`):
+  1. L46 OLD: "and every available block has been attempted, each, on the Map's assessment, at significant theoretical cost." → NEW: "and each block considered below carries, on the Map's assessment, significant theoretical cost." The task's draft ("each block the literature has attempted") was not used, because it still quantifies over the whole literature. "Considered below" claims only the blocks the page examines (Types A, B, C, F and Q, plus the phenomenal concepts strategy). The Map's cost assessment and its use of the argument are unchanged. Pronoun check: the sentence ends its paragraph and a heading follows it. 3,217 → 3,214 (concepts hard 3,500).
+  2. Frontmatter: `modified` 2026-11-20, `ai_modified` 2026-11-20T03:35:22+00:00. `ai_system` already contains `claude-opus-5-5`, so it was left alone.
+- **Other universals checked, left as is**: L106 "each available denial, on this reading, commits the physicalist…" is hedged ("The Map reads", "on this reading") and covers the step-denials its own bullets list, so it claims no survey. L70 "has not produced a widely accepted demonstration" is restricted by "widely accepted". L118 (tenet section) "a logical architecture the Map judges physicalists have not dismantled" is attributed and hedged, and does not depend on the universal. 0 hits on the page for "all available", "no physicalist", "every physicalist", "every block".
+- **Reported, not fixed (outside the universal)**: the lead (L36) still says Chalmers's papers are "showing … that each denial carries distinctive costs". The clause has been there since the page was created (2026-02-23). It is attributed to Chalmers and does not depend on the survey claim, but "showing" is factive about the same cost tally that L106 calls "the Map's assessment rather than an agreed result". A net-zero fix ("showing" → "arguing") is available if the operator wants it.
+- **Fix held**: OLD "every available block has been attempted": obsidian 0 hits, hugo 0 hits (post-sync). NEW: obsidian 1, hugo 1.
+- **Published**: yes
+
+- **Driver addendum (2026-11-20T03:36:58+00:00)**: applied the reported lead fix at zero word cost — L36 "(2002), showing that the major physicalist responses" → "(2002), arguing that the major physicalist responses" (Chalmers proposes the mapping and argues the costs; L106 calls the costs "the Map's assessment rather than an agreed result"). Fix held: OLD 0 / NEW 1 in obsidian (hugo after sync).
+## 2026-11-20T03:06:41+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/) (3,544/4,000 words, gate `>=`). Selection: of a 925-file pool, 378 survived after excluding pages named by open tasks (494, including the `**Secondary**:` variant) and pages edited since 2026-11-18. A content-based review check found 0 unreviewed, and there were 0 drafts. The page was then ranked oldest by last git change (2026-06-21), because frontmatter `modified` is stale corpus-wide. `concepts/neutral-monism` was dropped as named on an open task's `**Secondary**:` line (todo L4027).
+- **Findings** (all internal, verified at source):
+  1. The page still says the apex "asserts" the "arise independently" sentence that commit 334795dd81 removed on the article's creation day, and that it argues "abductive weight", withdrawn 2026-11-17 (678a29bac3).
+  2. The IEP `int-qm` entry is credited to "Fano & Macchia" but is by Peter J. Lewis (live page and 2019 Wayback). "Bassi 2023" should be Ghirardi & Bassi (revisions 2020 and 2025). "Friederich 2024" matches no revision (2021 and 2026).
+  3. The measurement problem fits the Map's own aporia definition (SEP Myrvold 2022 §4.2), so "incompleteness alone matches one" is false.
+  4. "Consciousness voids genuinely span where physics and mathematics voids do not" is contradicted by the page's own measurement-problem paragraph, and the quantitative-comprehension example is misreported as a three-kind span.
+- **Tasks minted**: 2 refine-draft P3 tasks, at todo L6222 (Priorities 1+2, +26 words) and L6247 (Priorities 3+4, +71 words). `parse_tasks` active count went 454 → 456.
+- **Output**: [pessimistic-2026-11-20-cross-domain-void-comparison](/reviews/pessimistic-2026-11-20-cross-domain-void-comparison/)
 
 ## 2026-11-20T02:36:34+00:00 - refine-draft
 - **Status**: Success

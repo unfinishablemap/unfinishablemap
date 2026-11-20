@@ -2,9 +2,9 @@
 title: "The Zombie Master Argument"
 description: "How the conceivability argument against physicalism functions as a master argument—subsuming the knowledge argument, explanatory gap, and modal arguments into one logical structure."
 created: 2026-02-23
-modified: 2026-10-02
+modified: 2026-11-20
 human_modified:
-ai_modified: 2026-10-22T22:44:51+00:00
+ai_modified: 2026-11-20T03:36:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ last_curated:
 last_deep_review: 2026-07-25T13:16:22+00:00
 ---
 
-The Unfinishable Map treats the [[philosophical-zombies|zombie argument]] not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [[knowledge-argument|knowledge argument]], the [[explanatory-gap|explanatory gap]], and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), showing that the major physicalist responses map onto denials of specific steps in the argument's logical chain, and that each denial carries distinctive costs. The labels are his: three physicalist types (A, B and C) sorted by what they grant about the epistemic gap, a Quinean Type-Q that rejects the distinctions the argument is stated in, and three nonreductive views (D, E and F). The [[#The Response Map|response map below]] follows his assignments; [[type-a-type-b-and-type-c-physicalism]] sets out the taxonomy in full.
+The Unfinishable Map treats the [[philosophical-zombies|zombie argument]] not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [[knowledge-argument|knowledge argument]], the [[explanatory-gap|explanatory gap]], and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), arguing that the major physicalist responses map onto denials of specific steps in the argument's logical chain, and that each denial carries distinctive costs. The labels are his: three physicalist types (A, B and C) sorted by what they grant about the epistemic gap, a Quinean Type-Q that rejects the distinctions the argument is stated in, and three nonreductive views (D, E and F). The [[#The Response Map|response map below]] follows his assignments; [[type-a-type-b-and-type-c-physicalism]] sets out the taxonomy in full.
 
 ## The Logical Architecture
 
@@ -43,7 +43,7 @@ The master argument has a precise three-step structure:
 2. **Possibility**: What is conceivable in this way is metaphysically possible.
 3. **Non-entailment**: If such a world is possible, consciousness is not entailed by physical facts — physicalism is false.
 
-Each step is independently defensible, and each generates a distinctive class of physicalist objection. The argument's structure gains its force from this clean logical decomposition: to resist the conclusion, the physicalist must block at least one step, and every available block has been attempted, each, on the Map's assessment, at significant theoretical cost.
+Each step is independently defensible, and each generates a distinctive class of physicalist objection. The argument's structure gains its force from this clean logical decomposition: to resist the conclusion, the physicalist must block at least one step, and each block considered below carries, on the Map's assessment, significant theoretical cost.
 
 ## Why It Subsumes Other Arguments
 
