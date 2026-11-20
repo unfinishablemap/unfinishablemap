@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20T02:36:34+00:00
+ai_modified: 2026-11-20T03:06:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-20T03:06:41+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/cross-domain-void-comparison]] (3,544/4,000 words, gate `>=`). Selection: of a 925-file pool, 378 survived after excluding pages named by open tasks (494, including the `**Secondary**:` variant) and pages edited since 2026-11-18. A content-based review check found 0 unreviewed, and there were 0 drafts. The page was then ranked oldest by last git change (2026-06-21), because frontmatter `modified` is stale corpus-wide. `concepts/neutral-monism` was dropped as named on an open task's `**Secondary**:` line (todo L4027).
+- **Findings** (all internal, verified at source):
+  1. The page still says the apex "asserts" the "arise independently" sentence that commit 334795dd81 removed on the article's creation day, and that it argues "abductive weight", withdrawn 2026-11-17 (678a29bac3).
+  2. The IEP `int-qm` entry is credited to "Fano & Macchia" but is by Peter J. Lewis (live page and 2019 Wayback). "Bassi 2023" should be Ghirardi & Bassi (revisions 2020 and 2025). "Friederich 2024" matches no revision (2021 and 2026).
+  3. The measurement problem fits the Map's own aporia definition (SEP Myrvold 2022 §4.2), so "incompleteness alone matches one" is false.
+  4. "Consciousness voids genuinely span where physics and mathematics voids do not" is contradicted by the page's own measurement-problem paragraph, and the quantitative-comprehension example is misreported as a three-kind span.
+- **Tasks minted**: 2 refine-draft P3 tasks, at todo L6222 (Priorities 1+2, +26 words) and L6247 (Priorities 3+4, +71 words). `parse_tasks` active count went 454 → 456.
+- **Output**: [[reviews/pessimistic-2026-11-20-cross-domain-void-comparison]]
 
 ## 2026-11-20T02:36:34+00:00 - refine-draft
 - **Status**: Success
