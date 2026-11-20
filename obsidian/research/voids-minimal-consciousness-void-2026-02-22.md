@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - Voids: The Minimal Consciousness Void"
 created: 2026-02-22
-modified: 2026-02-22
+modified: 2026-11-20
 human_modified: null
-ai_modified: 2026-08-05T22:12:37+00:00
+ai_modified: 2026-11-20T13:10:01+00:00
 draft: false
 target_section: voids
 topics:
@@ -22,12 +22,14 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-22
 last_curated: null
 ---
 
 # Research: Voids - The Minimal Consciousness Void
+
+> **Status (2026-11-20)**: The "Tenet alignment" lines below, and the "Connection to Tenets" section, record this note's reading in February 2026. The voids register has since suspended the step from a void to a tenet ([[positions/voids-as-evidence#^p-v3|P-V3]]), and the article on the [[minimal-consciousness-void|minimal consciousness void]] no longer makes these claims: it says that none of the Map's tenets is supported by this void. The lines that said a source "supports" a tenet were reworded on 2026-11-20 to say what the source is compatible with.
 
 **Date**: 2026-02-22
 **Search queries used**: "minimal consciousness simplest possible conscious experience philosophy", "minimal phenomenal experience bare awareness consciousness studies", "observer effect consciousness introspection distorts experience", "Metzinger minimal phenomenal experience six constraints pure awareness 2020", "introspection paradox consciousness examining alters what is examined philosophy", "integrated information theory phi minimal consciousness threshold Tononi", "Buddhist jhana nirodha cessation consciousness minimal states meditation neuroscience", "lower bound of consciousness what is simplest experience possible cognitive science", "Schooler paradox of introspection meta-consciousness experience distortion", "Nagel what is it like to be minimal experience threshold consciousness dualism", "artificial intelligence minimal consciousness machine consciousness lower bound phi debate"
@@ -48,7 +50,7 @@ Consciousness cannot investigate its own lower bound. The simplest possible cons
   - Hypothesises that the phenomenological prototype of "pure awareness" is the content of a predictive model—a Bayesian representation of tonic alertness
   - Background assumption: self-consciousness, first-person perspective, time representation, and self-location are not necessary conditions for consciousness
   - Subsequent work developed MPE-92M questionnaire with 92 characteristics and a 12-factor model of pure awareness phenomenology
-- **Tenet alignment**: Supports Occam's Razor Has Limits—the attempt to find a "minimal" explanation for consciousness keeps revealing additional structure
+- **Tenet alignment**: Compatible with Occam's Razor Has Limits—the search for a minimal form of consciousness keeps revealing additional structure—but equally compatible with physicalism; Metzinger's own hypothesis (a predictive model of tonic alertness) is a naturalistic one
 - **Quote**: The concept has been "substantiated by extracting six semantic constraints from existing literature and using sixteen phenomenological case-studies to incrementally flesh out the new working concept"
 
 ### Jonathan Schooler — The Paradox of Introspection
@@ -59,18 +61,19 @@ Consciousness cannot investigate its own lower bound. The simplest possible cons
   - Meta-consciousness (beliefs about experience) systematically misrepresents first-order experience through detection failures, transformation, and substitution
   - Verbal introspection forces re-representation of inherently non-verbal experience, distorting it
   - Empirically demonstrated: participants who wrote detailed descriptions performed worse on subsequent recognition tasks
-- **Tenet alignment**: Supports Bidirectional Interaction—the act of conscious observation modifies what is observed, suggesting consciousness has causal power over its own contents
-- **Quote**: "The paradox of introspection is that it is simultaneously so compelling yet so elusive"
+- **Tenet alignment**: Compatible with Bidirectional Interaction without supporting it—that meta-consciousness can misrepresent experience is equally expected on a physicalist account of introspection, and the paper identifies situations where introspection appears accurate as well as where it diverges, proposing to check self-reports against behavioural and physiological measures
+- **Quote**: "Introspection is paradoxical in that it is simultaneously so compelling yet so elusive" (abstract, p. 17; corrected 2026-11-20 against the author-hosted scan—the note formerly began the quotation "The paradox of introspection is that", which is not the paper's wording)
 
 ### David Hume — Introspection Distorts Its Object
 - **URL**: https://iep.utm.edu/introspe/ (Internet Encyclopedia of Philosophy)
 - **Type**: Encyclopedia entry on introspection
 - **Key points**:
-  - Historical argument that "the very act of introspection would distort its object"
-  - Hume argued that reflection "would so disturb the operation of my natural principles as must render it impossible to form any just conclusion from the phenomenon"
+  - Historical argument that the very act of introspection would distort its object
+  - Hume argued that reflection "would so disturb the operation of my natural principles, as must render it impossible to form any just conclusion from the phenomenon"
   - This is not merely an empirical limitation but a structural one: the instrument of measurement is identical to what is being measured
-- **Tenet alignment**: Supports Dualism—if consciousness were reducible to physical processes, there would be no principled reason for introspection to distort its object; the distortion suggests consciousness is not simply reading off physical states
-- **Quote**: "would so disturb the operation of my natural principles as must render it impossible to form any just conclusion from the phenomenon"
+- **Tenet alignment**: Compatible with Dualism but not support for it—introspective self-disturbance is equally expected if the mind is physical, and Hume drew a methodological conclusion, not a metaphysical one
+- **Quote**: "would so disturb the operation of my natural principles, as must render it impossible to form any just conclusion from the phenomenon"
+- **Correction (2026-11-20)**: Read at source (Project Gutenberg #4705, via a mirror), the passage is in the *Treatise* Introduction, para. 10, not Book 1, Part 4, Section 6; the comma after "principles" is restored. Hume's subject is deliberate self-experiment in moral philosophy ("this reflection and premeditation"), and his remedy is "a cautious observation of human life", that is, observing how people behave. The IEP entry above, as fetched on 2026-11-20, does not mention Hume or contain the phrase "would distort its object", so the quotation marks the note put around that phrase have been removed.
 
 ### Giulio Tononi — Integrated Information Theory (IIT)
 - **URL**: https://iep.utm.edu/integrated-information-theory-of-consciousness/
@@ -102,8 +105,8 @@ Consciousness cannot investigate its own lower bound. The simplest possible cons
   - Consciousness defined as: "there is something that it is like to be that organism"
   - Conscious experience occurs "at many levels of animal life" but presence uncertain in simpler organisms
   - Each experience connected with a "single point of view"—cannot be made objective
-  - Consciousness appears to exist on a spectrum rather than having a discrete threshold
-- **Tenet alignment**: Directly supports Dualism—the subjective character of experience is not capturable by physical description, and this holds even more strongly for minimal experience
+  - *(Corrected 2026-11-20: this line formerly read "Consciousness appears to exist on a spectrum rather than having a discrete threshold". That is not in Nagel 1974, which nowhere uses "spectrum" or "threshold"; its one "continuum" concerns how far our understanding of other persons and species reaches, not degrees of consciousness.)*
+- **Tenet alignment**: Compatible with Dualism, not support for it—Nagel argues that the subjective character of experience is not captured by the familiar reductive analyses, but writes that "it would be a mistake to conclude that physicalism must be false"; the extension to minimal experience was this note's, not Nagel's
 
 ## The Void
 
@@ -216,5 +219,5 @@ Based on this research, a voids article could:
 - Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
 - Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 280, 61-87.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Hume, D. *A Treatise of Human Nature*, Book 1, Part 4, Section 6.
+- Hume, D. (1739). *A Treatise of Human Nature*, Introduction, para. 10. (Corrected 2026-11-20 from "Book 1, Part 4, Section 6".)
 - Gamma, A., & Metzinger, T. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694. (Data-availability correction: Gamma, A., & Metzinger, T. (2024). *PLOS ONE*, 19(11), e0314290.)

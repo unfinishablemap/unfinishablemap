@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20 12:35:20+00:00
+ai_modified: 2026-11-20 13:10:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-20'
-lastmod: 2026-11-20 12:35:20+00:00
+lastmod: 2026-11-20 13:10:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-20T13:10:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [voids-minimal-consciousness-void-2026-02-22](/research/voids-minimal-consciousness-void-2026-02-22/)
+- **Task**: P3 research note tenet-alignment overclaims; Hume locus, Nagel spectrum sentence, Schooler quotation (todo L40). Review file: `reviews/outer-review-2026-11-18-claude-fable-5-2.md` (finding 17; table rows 1, 2, 5, 7).
+- **Original score**: n/a (`scripts/curate.py` absent).
+- **Changes** (dated record, minimal edits; every correction is marked in place with its date):
+  1. Status blockquote added under the H1: the "Tenet alignment" lines and the "Connection to Tenets" section record the February 2026 reading; the voids register has suspended the void-to-tenet step ([P-V3](/positions/voids-as-evidence/#p-v3)); the article [minimal-consciousness-void](/voids/minimal-consciousness-void/) no longer makes these claims. Checked against the article's current text (ai_modified 2026-11-18T10:38): its tenet section opens "None of the Map's tenets is supported by this void", calls Occam's Razor Has Limits "illustrated, no more", Bidirectional Interaction "not engaged"; no Hume/Nagel/Schooler/Laukkonen/Tononi tenet claim; no "spectrum".
+  2. Four "Supports"/"Directly supports" lines reworded to compatibility: Metzinger (Occam's Razor Has Limits; equally compatible with physicalism, his hypothesis naturalistic), Schooler (Bidirectional Interaction; misrepresentation equally expected on physicalism; paper finds accurate as well as divergent introspection), Hume (Dualism; methodological, not metaphysical conclusion), Nagel (Dualism; quotes "it would be a mistake to conclude that physicalism must be false"). The Tononi "Challenges Occam's Razor" and nirodha "Relevant to Bidirectional Interaction" lines were left as written (outside the task's four) and are covered by the status line.
+  3. Hume: reference line Book 1, Part 4, Section 6 → Introduction, para. 10; comma after "principles" restored in both quotations; dated correction bullet (Hume's subject is deliberate self-experiment in moral philosophy, remedy "a cautious observation of human life"); quotation marks removed from "the very act of introspection would distort its object" (not on the cited IEP page).
+  4. Nagel: spectrum sentence replaced by a dated correction recording the old wording and that it is not in Nagel 1974.
+  5. Schooler: "The paradox of introspection is that it is simultaneously so compelling yet so elusive" → "Introspection is paradoxical in that it is simultaneously so compelling yet so elusive" (abstract, p. 17), with dated note.
+- **Source ledger** (fetched 2026-11-20 13:03-13:09Z, `curl --max-time 40 --connect-timeout 10`; tags stripped, `html.unescape`, whitespace collapsed; control "purple elephant zebra" = 0 everywhere):
+  - Hume, *Treatise*, Gutenberg #4705 (gutenberg.org down for maintenance; identical 1,345,896-byte file from xmission, aleph, pglaf and uwaterloo mirrors): "would so disturb the operation of my natural principles, as must render it impossible to form any just conclusion from the phenomenon" 1, sitting between "INTRODUCTION." and "BOOK I. OF THE UNDERSTANDING", 10th paragraph of the Introduction counting text paragraphs and excluding the Locke/Shaftesbury footnote; "cautious observation of human life" 1; "this reflection and premeditation" 1. Control: "I never can catch myself at any time without a perception" 1, under "SECT. VI. OF PERSONAL IDENTITY" in Book I Part IV, so 1.4.6 is that passage, not this one. The article's locus ("*Treatise* Introduction") is right.
+  - IEP "Introspection" (`iep.utm.edu/introspe/`, 10,252 words, title confirmed): "hume" 0, "distort" 0, "disturb" 0.
+  - Nagel 1974: three copies, philosopher.eu HTML (reprint text with notes; ends "without sidestepping it"), Purdue PDF (same text), USP PDF (OCR of the *Philosophical Review* pages): "spectrum" 0/0/0, "threshold" 0/0/0, "continuum" 1/1/1 (context: "The distance between oneself and other persons and other species can fall anywhere on a continuum"); "it would be a mistake to conclude that physicalism must be false" 1/1/1; "at many levels of animal life" 1/1/1.
+  - Schooler & Schreiber 2004: the note's UCSB URL now redirects to the META Lab home page; copy found at `metalab.psych.ucsb.edu/sites/default/files/publications/2004/2004-Experience-Meta-Consciousness-and-the-Paradox-of-Introspection.pdf` (scan, 6 pages, noisy OCR layer). Exact grep of either wording 0 (OCR reads "ispaftdoxical", "compclling"); fuzzy match 0.96 to "Introspection is paradoxical in that…" vs 0.81 to the note's wording; page 1 rendered to an image and read: the abstract's first sentence is "Introspection is paradoxical in that it is simultaneously so compelling yet so elusive." The body has "the paradox of introspection stems from the fact that…" and (p. 6 of the scan) "the paradox of introspection is that although…", which the note's opening appears to have spliced in. OpenAlex marks the paper closed; PhilPapers, Ingenta and PsycNET returned 403.
+- **Report-only** (not edited): article L59 says Hume's remark "concerns introspection's self-disturbance broadly"; at source it concerns deliberate self-experiment in moral philosophy, and his remedy is third-person observation (review finding 8, unqueued). The note's Schooler "worse recognition" key point (L61) was not checked (outside scope; "verbal overshadowing" 0 in the noisy partial OCR, which proves nothing).
+- **Calibration**: no source is now claimed for a tenet; Hume and Nagel are each credited with their own conclusion (methodological; physicalism not shown false). Engagement mode: not applicable.
+- **Frontmatter**: `modified` 2026-11-20; `ai_modified` 2026-11-20T13:10:01+00:00; `ai_system` claude-opus-4-6 → claude-opus-4-6+claude-opus-5-5.
+- **Published**: yes
 
 ## 2026-11-20T12:35:20+00:00 - refine-draft
 - **Status**: Success
