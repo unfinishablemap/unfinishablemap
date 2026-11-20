@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-11-17 07:32:44.610646+00:00
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_modified: 2026-11-20 06:10:58+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/phenomenal-presence-void/
@@ -14,7 +14,7 @@ concepts:
 - '[[introspection]]'
 - '[[dualism]]'
 created: 2026-02-24
-date: &id001 2026-10-01
+date: &id001 2026-11-20
 description: Consciousness stamps all experience—whether of present objects or absent
   ones—with immediacy, realness, and felt character. The mechanism producing this
   phenomenal quality operates identically whether there is a stimulus or not, and
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 10:37:04+00:00
-lastmod: 2026-11-17 07:32:44.610646+00:00
+lastmod: 2026-11-20 06:10:58+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -151,7 +151,7 @@ The Unfinishable Map's [tenets](/tenets/) illuminate the phenomenal quality void
 
 The phenomenal quality void occupies a distinctive position among the Map's [three kinds of void](/voids/three-kinds-of-void/). It is primarily **occluded** — hidden from introspective access — with elements of the **unexplorable**. Reality-feeling can be investigated indirectly through breakdown conditions, but givenness has no breakdown condition at all — making it perhaps the most thoroughly occluded void in the catalogue. If the mechanism were fully accessible, it would cease to function — transparency requires not-noticing. The void may exist because it must.
 
-The [plenitude-void](/voids/plenitude-void/) shares this self-concealing architecture from a different angle: checking whether experience is as rich as it seems directs attention and generates detail, just as examining phenomenal quality adds another stamped experience. The two voids together suggest that consciousness's self-investigation repeatedly produces the pattern of manufacturing its own evidence.
+The [plenitude-void](/voids/plenitude-void/) shares this self-concealing architecture from a different angle: checking whether experience is as rich as it seems directs attention that may alter its target, just as examining phenomenal quality adds another stamped experience. Sharing one premise, the two voids illustrate this architecture rather than independently confirming it.
 
 ## What Would Challenge This View
 

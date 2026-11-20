@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-11-13 01:49:37+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2
+ai_modified: 2026-11-20 06:10:14+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[dualism]]'
 created: 2026-04-23
-date: &id001 2026-08-18
+date: &id001 2026-11-20
 description: Human+AI exploration of why conscious experience seems rich beyond what
   can be reported or checked—and why that gap may be structurally impossible to resolve
   from within.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 00:40:55+00:00
-lastmod: 2026-11-13 01:49:37+00:00
+lastmod: 2026-11-20 06:10:14+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -39,9 +39,9 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-Consciousness presents itself as richly detailed and complete. The visual scene feels fully seen, the orchestral texture fully heard, the present moment fully inhabited. Yet change blindness, inattentional blindness, saccadic suppression, and blind spot filling-in all suggest that much of what feels represented is not actually registered. The plenitude void is the structural impossibility of determining, from within experience, whether experience is genuinely as rich as it seems.
+Consciousness presents itself as richly detailed and complete. The visual scene feels fully seen, the orchestral texture fully heard, the present moment fully inhabited. Yet change blindness, inattentional blindness, saccadic suppression and blind-spot filling-in reveal dissociations among representation, access, memory and felt continuity: people who deny noticing a stimulus can, as a group, still report its location, colour and shape (Nartker et al. 2025). The plenitude void is the structural impossibility of determining, from within experience, whether experience is genuinely as rich as it seems.
 
-The void is not the question of whether experience is rich or sparse. That question has live defenders on both sides. The void is the impossibility of answering it *from the inside* — because every introspective check for sparsity directs attention, and directing attention generates detail. The verification procedure manufactures the evidence it seeks. This gives the plenitude void a distinctive self-concealing structure: unlike gaps we know we cannot cross, this one actively produces the impression of having been crossed.
+Rich and sparse views both have live defenders; the void is the impossibility of deciding between them *from the inside*. Every introspective check for sparsity directs attention, and attention may enhance, select, transform or reconstruct its target, so what the check finds cannot be projected back onto the unprobed state. This gives the plenitude void a distinctive self-concealing structure: unlike gaps we know we cannot cross, this one can produce the impression of having been crossed.
 
 ## Distinguishing Plenitude from Adjacent Voids
 
@@ -55,7 +55,7 @@ The plenitude void is adjacent but distinct: it concerns the chronic *over-produ
 
 ## The Grand Illusion Debate
 
-The empirical contours were mapped in the 1990s and 2000s. Change blindness paradigms showed that subjects fail to notice large changes in visual scenes when a brief disruption masks the change. Inattentional blindness showed that salient stimuli can be absent from reported experience when attention is engaged elsewhere (the invisible gorilla). Saccadic suppression showed that visual processing is suppressed 3–4 times per second during eye movements, without any experienced interruption. The blind spot is never experienced as a gap.
+The empirical contours were mapped in the 1990s and 2000s. Change blindness paradigms showed that subjects fail to notice large changes in visual scenes when a brief disruption masks the change. Inattentional blindness showed that salient stimuli can be absent from reported experience when attention is engaged elsewhere (the invisible gorilla). Saccadic suppression showed that visual sensitivity drops selectively during eye movements, 3–4 times per second, without any experienced interruption. The blind spot is never experienced as a gap.
 
 Alva Noë, editing *Is the Visual World a Grand Illusion?* (2002), framed these findings as calling "into question whether we really enjoy perceptual experiences which represent the environment in rich detail." Dennett had argued in *Consciousness Explained* (1991) that the brain does not "fill in" gaps but simply never notices they need filling. Susan Blackmore extended this, arguing that "a retrospective story is concocted about what was in the stream of consciousness a moment before." On this family of views, the richness of experience is itself the illusion.
 
@@ -63,9 +63,7 @@ Noë and O'Regan (2001) offered a different deflation: the world serves as its o
 
 ## Block's Overflow Rejoinder
 
-Ned Block (1995, 2007) pushed the opposite way. Phenomenal consciousness (P-consciousness, what it is like) may be richer than access consciousness (A-consciousness, what can be reasoned over and reported). Sperling's partial report experiments (1960) showed that iconic memory contains more information than working memory can extract: subjects can report any row of a briefly flashed grid when cued, but cannot report the whole grid. Block argues this demonstrates phenomenal content that overflows the cognitive machinery accessing it.
-
-If Block is right, change blindness does not show that experience is sparse. It shows that *reportable* experience is sparse, which is compatible with phenomenal experience being rich. The gorilla may have been experienced and not encoded into the accessing system. The peripheral detail may be there phenomenally even though it cannot be extracted.
+Ned Block (1995, 2007) pushed the opposite way: phenomenal consciousness may be richer than access consciousness, what can be reasoned over and reported. Sperling (1960) found that cued subjects could report any row of a flashed grid but not the whole; Block argues this shows [phenomenal content overflowing access](/concepts/phenomenal-overflow/). If so, change blindness shows only that *reportable* experience is sparse.
 
 Michael Tye (2018), reviewing Dennett, attacks the stronger thesis that consciousness itself is illusory: "if consciousness is an illusion, then nothing can appear any way at all." That bites against illusionism about consciousness as such. It does not by itself answer the narrower claim that apparent richness outruns actual content: a sparse-experience theorist grants appearances and disputes only their detail.
 
@@ -101,7 +99,7 @@ Current methods have not adjudicated between these pictures, though that claim n
 
 What makes the plenitude void a void, rather than merely a hard problem, is that its investigation is compromised by the phenomenon itself. Three features make this structural.
 
-**The check-and-find loop.** Every introspective probe for sparsity directs attention, and attention generates detail. Looking to see whether peripheral vision is blurry produces a momentary clarification of the peripheral region — because directing attention there recruits covert attention (which enhances processing without moving the fovea — Posner 1980), and may also trigger foveation if a saccade follows. One cannot catch experience being sparse, because checking fills in. The inferential move from probe-result to phenomenal verdict is itself opaque (the [inference-void](/voids/inference-void/)), compounding the loop's grip-failure: the probe alters its target, and the step from registration to judgement cannot be inspected as such. The [imagery-void](/voids/imagery-void/) is the same structure at domain-specific scale: probing for the exact shade of an imagined apple generates detail that was not there before the probe, and confident reports diverge wildly across persons and across the same person under different probes.
+**The check-and-find loop.** Every introspective probe for sparsity directs attention. Looking to see whether peripheral vision is blurry can momentarily clarify the peripheral region: covert attention improves processing at the attended location without moving the eyes (Posner 1980), and a saccade may follow and replace peripheral input with foveal. Since probes may enhance, select, transform or reconstruct their target, what checking finds cannot be projected back onto the unprobed state: a check cannot tell detail it found from detail it made. The step from probe-result to phenomenal verdict is itself opaque (the [inference-void](/voids/inference-void/)), compounding the difficulty. The [imagery-void](/voids/imagery-void/) shows the same structure in one domain: probing for the exact shade of an imagined apple may supply detail the image lacked, and confident reports diverge across persons and across probes.
 
 **The confabulation default.** Reports about just-elapsed experience feel authoritative but are known to diverge systematically from what was registered. The introspective report is not a passive readout; it is a construction. Follow-up work on the inattentional-blindness paradigm (Simons & Chabris 1999, and subsequent replications) finds that subjects who miss the gorilla can nonetheless offer confident post-hoc descriptions of the scene. Confidence and accuracy decouple without any phenomenal marker distinguishing the two.
 
@@ -121,9 +119,11 @@ A Popperian critic will call the plenitude void *structurally unfalsifiable* and
 
 ## Relation to Site Perspective
 
-The plenitude void connects directly to two of the Map's [tenets](/tenets/).
+The plenitude void connects directly to three of the Map's [tenets](/tenets/).
 
-**[Dualism](/tenets/#dualism)** reframes the debate rather than settling it. Under materialism, the grand illusion view is attractive on economy grounds: if consciousness is neural information processing and processing is demonstrably sparse, the felt richness is a processing artefact to be reduced or explained away. Under dualism, the *felt quality of completeness* is taken at face value as a phenomenal feature in its own right, which then has to be accounted for. The move "something that feels full must have crossed into phenomenal territory" is not an independent argument for dualism — it presupposes the very distinction between physical sparsity and phenomenal fullness that materialism denies. What it does show is that the void has a different *shape* inside each framework: for the materialist it is a cognitive-scientific puzzle about how an information-processing system produces the illusion of its own richness; for the dualist it is a primary phenomenal datum needing an account. Block's overflow picture — rich phenomenal content, narrow cognitive access — fits more comfortably within dualism's framing, though Block himself is a physicalist and draws the P/A distinction without metaphysical commitment. The plenitude void does not by itself adjudicate between these frameworks; it illustrates that the choice of framework determines where the explanatory burden falls.
+**[Dualism](/tenets/#dualism)** reframes the debate rather than settling it. Under materialism, the grand illusion view is attractive on economy grounds: if consciousness is neural information processing and access and report are demonstrably narrow, felt richness may be an artefact of how that processing represents itself. Materialism does not entail a sparse phenomenal field, though: Block himself is a physicalist, drawing the phenomenal/access distinction without metaphysical commitment, so his overflow picture — rich phenomenal content, narrow cognitive access — is compatible with dualism without favouring it. The move "something that feels full must have crossed into phenomenal territory" is not an independent argument for dualism — it presupposes the very excess of phenomenal over physical that materialism denies. What differs is the void's *shape*: for the materialist it is a cognitive-scientific puzzle about how an information-processing system represents its own richness; for the dualist the felt completeness is a primary phenomenal datum needing an account. The plenitude void does not by itself adjudicate between these frameworks; it illustrates that the choice of framework determines where the explanatory burden falls.
+
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** poses a dilemma: plenitude that shapes attention, judgement or action should leave physical traces, while plenitude that shapes nothing would be causally idle. The Map accepts the first horn. The definitional point above excludes unreported content only from report-based instruments; non-report routes (ensemble statistics guiding behaviour, residual sensitivity under inattention) are where efficacious plenitude would show. What such traces cannot settle unaided is whether the content was phenomenal.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly implicated. The simplest theory — experience is what it seems — may be badly wrong. The next-simplest theory — experience is sparse and the richness is illusory — may be equally wrong in the opposite direction. The true situation may be irreducibly complex: neither fully rich nor fully sparse, with no simple compression available. The plenitude void is a case study in how parsimony becomes unreliable once the assessment instrument is implicated in what is being assessed.
 
@@ -150,6 +150,7 @@ The void also connects to [self-opacity](/voids/self-opacity/) (the general stru
 1. Cohen, M. A., Dennett, D. C. & Kanwisher, N. (2016). "What is the Bandwidth of Perceptual Experience?" *Trends in Cognitive Sciences*, 20(5), 324–335.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 1. Knotts, J. D., Odegaard, B., Lau, H. & Rosenthal, D. (2019). "Subjective inflation: phenomenology's get-rich-quick scheme." *Current Opinion in Psychology*, 29, 49–55.
+1. Nartker, M., Firestone, C., Egeth, H. & Phillips, I. (2025). "Sensitivity to visual features in inattentional blindness." *eLife*, 13, RP100337.
 1. Noë, A. (ed.) (2002). *Is the Visual World a Grand Illusion?* Imprint Academic.
 1. O'Regan, J. K. & Noë, A. (2001). "A Sensorimotor Account of Vision and Visual Consciousness." *Behavioral and Brain Sciences*, 24(5), 939–973.
 1. Posner, M. I. (1980). "Orienting of Attention." *Quarterly Journal of Experimental Psychology*, 32(1), 3–25.

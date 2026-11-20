@@ -1,15 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-10-15 20:04:13.296718+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-11-20 06:10:58+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[mental-imagery]]'
 - '[[mysterianism]]'
 - '[[simulation]]'
 created: 2026-04-28
-date: &id001 2026-04-28
+date: &id001 2026-11-20
 description: Human+AI exploration of why no conscious mind can verify the fidelity,
   vividness, or even presence of its own mental images—a void with three structural
   faces.
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 19:46:22+00:00
-lastmod: 2026-10-15 20:04:13.296718+00:00
+lastmod: 2026-11-20 06:10:58+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -154,7 +154,7 @@ The Imagery Void also exemplifies the [apophatic-cartography](/voids/apophatic-c
 - [synesthetic-void](/voids/synesthetic-void/) — A parallel intra-species phenomenal divergence
 - [commensurability-void](/voids/commensurability-void/) — The general structure the inter-subjective face instantiates
 - [acquaintance-void](/voids/acquaintance-void/) — Why direct phenomenal acquaintance does not transfer between minds
-- [plenitude-void](/voids/plenitude-void/) — Why probing introspection generates content rather than retrieving it
+- [plenitude-void](/voids/plenitude-void/) — Why introspective probes may alter what they retrieve
 - [necessary-opacity](/voids/necessary-opacity/) — The general structure of phenomenal self-opacity
 - [apophatic-cartography](/voids/apophatic-cartography/) — Method by which the void's shape can be traced
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Tulving's hierarchy and the simulation-instantiation gap in AI consciousness

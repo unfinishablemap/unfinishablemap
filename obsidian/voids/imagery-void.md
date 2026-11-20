@@ -2,9 +2,9 @@
 title: "The Imagery Void"
 description: "Human+AI exploration of why no conscious mind can verify the fidelity, vividness, or even presence of its own mental images—a void with three structural faces."
 created: 2026-04-28
-modified: 2026-04-28
+modified: 2026-11-20
 human_modified:
-ai_modified: 2026-10-15T20:04:13.296718+00:00
+ai_modified: 2026-11-20T06:10:58+00:00
 last_deep_review: 2026-07-26T19:46:22+00:00
 draft: false
 topics:
@@ -38,7 +38,7 @@ related_articles:
   - "[[research/voids-cognitive-phenomenology-void-2026-05-01]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-04-28
 last_curated:
 embedded_videos:
@@ -150,7 +150,7 @@ The Imagery Void also exemplifies the [[apophatic-cartography]] method on which 
 - [[synesthetic-void]] — A parallel intra-species phenomenal divergence
 - [[commensurability-void]] — The general structure the inter-subjective face instantiates
 - [[acquaintance-void]] — Why direct phenomenal acquaintance does not transfer between minds
-- [[plenitude-void]] — Why probing introspection generates content rather than retrieving it
+- [[plenitude-void]] — Why introspective probes may alter what they retrieve
 - [[necessary-opacity]] — The general structure of phenomenal self-opacity
 - [[apophatic-cartography]] — Method by which the void's shape can be traced
 - [[ai-consciousness-typology]] — Tulving's hierarchy and the simulation-instantiation gap in AI consciousness

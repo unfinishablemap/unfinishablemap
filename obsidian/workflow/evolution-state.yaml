@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-20T05:30:48.113868+00:00'
-session_count: 25130
+last_updated: '2026-11-20T05:54:30.750700+00:00'
+session_count: 25131
 cycle_position: 16039
 last_runs:
   add-highlight: '2026-11-19T08:06:52.339175+00:00'
@@ -17,7 +17,7 @@ last_runs:
   collect-chatgpt-review: '2026-11-20T04:49:02.178960+00:00'
   collect-claude-review: '2026-11-20T05:17:10.704144+00:00'
   collect-gemini-review: '2026-11-20T05:30:48.113868+00:00'
-  combine-outer-reviews: '2026-11-19T05:50:41.359130+00:00'
+  combine-outer-reviews: '2026-11-20T05:54:30.750700+00:00'
   commission-chatgpt-review: '2026-11-20T02:21:01.074198+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
   commission-claude-review: '2026-11-20T03:21:17.398966+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 782
-  reviews_completed: 8498
+  reviews_completed: 8499
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-11-19'
-  outcome: success
-  kind: trigger
 - task: apex-evolve
   type: apex-evolve
   date: '2026-11-19'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-20'
   outcome: success
   kind: collect
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-11-20'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/memory-channel-interface-evidence/

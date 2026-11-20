@@ -2,9 +2,9 @@
 title: "The Phenomenal Quality Void"
 description: "Consciousness stamps all experience—whether of present objects or absent ones—with immediacy, realness, and felt character. The mechanism producing this phenomenal quality operates identically whether there is a stimulus or not, and hides itself either way."
 created: 2026-02-24
-modified: 2026-10-01
+modified: 2026-11-20
 human_modified:
-ai_modified: 2026-11-17T07:32:44.610646+00:00
+ai_modified: 2026-11-20T06:10:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[plenitude-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-04-05
 last_curated:
 last_deep_review: 2026-06-26T10:37:04+00:00
@@ -146,7 +146,7 @@ The Unfinishable Map's [[tenets]] illuminate the phenomenal quality void from mu
 
 The phenomenal quality void occupies a distinctive position among the Map's [[three-kinds-of-void|three kinds of void]]. It is primarily **occluded** — hidden from introspective access — with elements of the **unexplorable**. Reality-feeling can be investigated indirectly through breakdown conditions, but givenness has no breakdown condition at all — making it perhaps the most thoroughly occluded void in the catalogue. If the mechanism were fully accessible, it would cease to function — transparency requires not-noticing. The void may exist because it must.
 
-The [[plenitude-void]] shares this self-concealing architecture from a different angle: checking whether experience is as rich as it seems directs attention and generates detail, just as examining phenomenal quality adds another stamped experience. The two voids together suggest that consciousness's self-investigation repeatedly produces the pattern of manufacturing its own evidence.
+The [[plenitude-void]] shares this self-concealing architecture from a different angle: checking whether experience is as rich as it seems directs attention that may alter its target, just as examining phenomenal quality adds another stamped experience. Sharing one premise, the two voids illustrate this architecture rather than independently confirming it.
 
 ## What Would Challenge This View
 
