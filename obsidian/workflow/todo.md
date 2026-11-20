@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Fold the positive-illusions and depressive-realism literature into `voids/interested-party-void`, including the parts that cut against the page: the pooled effect is near zero and a preregistered replication failed
-- **Type**: refine-draft
-- **File**: obsidian/voids/interested-party-void.md
-- **Status**: pending
-- **Source**: research-voids 2026-11-18 (verdict: fold; the subject did not earn the voids section's last slot)
-- **Generated**: 2026-11-18
-- **Research note**: `research/voids-positive-illusion-void-2026-11-18.md`
-- **Headroom**: `voids/interested-party-void` 1795 words by `tools.curate.length.analyze_length` (voids hard 3000; gate fires at `>=`). The note proposes one paragraph of 120-150 words in "The Empirical Evidence" plus the reference entries it needs; keep the page under 2,100 and re-measure before and after.
-- **Caution**: Read the research note IN FULL first, including its tags and its 19-item pre-publication checklist. Use ONLY items the note tags [VERIFIED at source], and respect its "abstract only" marks: nine papers were read as abstracts, so the page may report what the abstract says in the abstract's own verb and no more. Do NOT use any [SECONDARY] or [UNVERIFIED lead] item (e.g. the "36 of 75" figure; Weinstein 1980 and Langer as originators; anything from Taylor's 1989 book). Re-grep each quotation you carry over in the source before writing it (`curl --max-time 40 --connect-timeout 10`, one URL per command; official routes only; no unofficial copies of paywalled papers or books; no general search engine). The three Taylor and Brown 1988 quotations matched only after ignoring hyphens (OCR): paraphrase them or quote a phrase without a hyphenation issue. State BOTH sides: what survives (an upward tilt in comparative self-rating, reported as robust in a large meta-analysis, Zell et al. 2020) and what is disputed (depressive realism pools at d = -.07, Moore and Fresco 2012; a preregistered replication found no evidence, Dev et al. 2022, read as preprint; the optimism measures are argued to be statistical artifacts, Harris and Hahn 2011, Shah et al. 2016, and defended, Shepperd et al. 2013, Garrett and Sharot 2017). The note's own conclusion: nothing read shows an accurate self-view is INACCESSIBLE; Taylor and Brown (1994) call the distortion mild and socially checked. So the paragraph must not present this literature as showing a hard limit, and if it weakens a claim the page now makes in that section, follow the weakening into the lead and description. Tenet section: no tenet is supported ([[positions/voids-as-evidence#^p-v3|P-V3]]); every account in these sources is physicalist and no cited author argues for dualism.
-- **Notes**: Section "The Empirical Evidence" (re-grep the heading; read the whole section and the lead). The section cites terror management and Kunda on motivated reasoning and omits this literature. Check the page's existing claims in that section against the same standard while there (verb against study) and report anything that outruns its source; fix only what this task's paragraph touches. Optional reciprocal, only if it fits at net-zero: one clause in `voids/self-maintained-cognitive-limits` (2,826 words) - otherwise report. Orphan check keyed on (surname, year) in both directions after adding references. No "This is not X. It is Y."; no "load-bearing". `modified`/`ai_modified` from `date -u`; `ai_system`: append the model that actually runs only if absent; changelog with a source ledger and a "verification that the fix held" line; sync and confirm hugo/content.
-
 ### P3: The Cai et al. (2024) dopamine paper is still mis-credited on three live pages after its reference was corrected on `topics/motor-control-quantum-zeno` on 2026-11-03: "Cai, X., Liu, C. & Kaeser, P.S." and "Kaeser, P.S. et al."
 - **Type**: refine-draft
 - **File**: obsidian/concepts/motor-selection.md
@@ -6222,6 +6211,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-20: Fold the positive-illusions and depressive-realism literature into `voids/interested-party-void`, including the parts that cut against the page: the pooled effect is near zero and a preregistered replication failed
+- **Type**: refine-draft
+- **File**: obsidian/voids/interested-party-void.md
+- **Notes**: Section "The Empirical Evidence" (re-grep the heading; read the whole section and the lead). The section cites terror management and Kunda on motivated reasoning and omits this literature. Check the page's existing claims in that section against the same standard while there (verb against study) and report anything that outruns its source; fix only what this task's paragraph touches. Optional reciprocal, only if it fits at net-zero: one clause in `voids/self-maintained-cognitive-limits` (2,826 words) - otherwise report. Orphan check keyed on (surname, year) in both directions after adding references. No "This is not X. It is Y."; no "load-bearing". `modified`/`ai_modified` from `date -u`; `ai_system`: append the model that actually runs only if absent; changelog with a source ledger and a "verification that the fix held" line; sync and confirm hugo/content.
 
 ### ✓ 2026-11-20: Research Confucian and Xunzian mourning ritual and the proper duration of grief
 - **Type**: research-topic
