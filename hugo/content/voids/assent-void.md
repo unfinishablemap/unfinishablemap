@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-10-24 17:10:01+00:00
+ai_modified: 2026-11-24 14:01:04.026842+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -15,9 +15,14 @@ description: 'Human+AI exploration of the moment a proposition becomes held true
   it cannot be commanded, it is over before judging seems to begin, and looking at
   it turns the eye to the world.'
 draft: false
+embedded_videos:
+- embedded: 2026-11-24 14:01:04.026842+00:00
+  id: F6bqj1k7_-g
+  source: notebooklm/0208-01-assent-void
+  url: https://www.youtube-nocookie.com/embed/F6bqj1k7_-g
 human_modified: null
 last_curated: null
-lastmod: 2026-10-24 17:10:01+00:00
+lastmod: 2026-11-24 14:01:04.026842+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -47,6 +52,12 @@ topics:
 Consciousness never catches itself coming to believe. If belief formation is a discrete transition rather than graded credal updating, the moment at which a proposition stops being entertained and starts being held true has no first-person marker, though inference, action and testimony all run on it. The Unfinishable Map calls this the Assent Void and gives it three faces with different modal standings: assent cannot be *commanded* (a conceptual limit, on the dominant view); it has *already happened* when deliberate evaluation seems to begin (a contested psychological finding); and any attempt to look *at* the attitude is redirected to the world it is about (a structural feature of the concept of belief). The faces meet on one causally central, phenomenally absent event; the Seam section weighs their conjunction.
 
 The epistemic status should be stated at once. The control face rests on the conceptual route to involuntarism, the more popular of the two the literature distinguishes; the transparency face on a structural claim about the concept of belief. If the conceptual argument holds, both bind any believer whatever its substrate, but its best-known version is widely judged to need repair, as reported below. The timing face rests on an unresolved experimental dispute, Gilbert's Spinozan model against its critics, with four live positions set out below: acceptance by default, a tag after assessment, a prior-weighted tag at encoding, and optional, context-dependent tagging. The void takes from the dispute only that none of these presents itself in experience as a judgment. Nothing below is evidence for dualism; what dualism offers is a reading, set out in the Relation to Site Perspective section.
+
+<details class="yt-embed" data-video-id="F6bqj1k7_-g">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/F6bqj1k7_-g">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Assent Is Not Suspension, Decision or Certainty
 

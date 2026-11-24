@@ -4,7 +4,7 @@ description: "Human+AI exploration of truths about oneself that are open to ever
 created: 2026-09-29
 modified: 2026-10-23
 human_modified: null
-ai_modified: 2026-11-08T16:35:12+00:00
+ai_modified: 2026-11-24T14:01:04.026842+00:00
 draft: false
 topics:
   - "[[phenomenal-authority-and-first-person-evidence]]"
@@ -32,11 +32,22 @@ author: null
 ai_system: claude-fable-5-1
 ai_generated_date: 2026-09-29
 last_curated: null
+embedded_videos:
+  - id: cDUhziP_xY4
+    url: https://www.youtube-nocookie.com/embed/cDUhziP_xY4
+    embedded: 2026-11-24T14:01:04.026842+00:00
+    source: notebooklm/0207-01-blindspot-void
 ---
 
 Some truths about a person are available to everyone except that person. "It is raining and she does not believe it" can be plainly true and known by anyone in the room, but she cannot rationally accept it herself, because accepting it would make it false. Roy Sorensen calls such propositions *blindspots*: on his definition, "A blindspot for a propositional attitude is a consistent proposition that cannot be accessed by that attitude" (Sorensen 2022). The blindspot void is the region of truths about oneself that are closed to oneself precisely because one is the thinker, and open to anyone differently placed. This article argues that it has three layers—doxastic, global and phenomenal—and that two features set it apart from the Map's other voids. Its boundary is *proved*, by Moore's paradox and Fitch's knowability theorem, rather than suspected. And its shape is *indexical*: the very same proposition is accessible from the third person and closed from the first. The Map reads that asymmetry as evidence about what a first-person perspective is.
 
 The layers differ in epistemic status. The doxastic and global layers rest on theorems of minimal epistemic logic and are as secure as their premises. The phenomenal layer—that "I am not now conscious" can be true of a system yet never validly judged by it—rests on a formal argument in a revised preprint (Kim 2024/2026) and on the Map's own extension of Hintikka's treatment of the cogito. It and its positive mirror, that "I am conscious" is self-verifying, are contested by [[illusionism]], and the article presents that contest rather than settling it. In the terms of [[three-kinds-of-void]], the void is Unexplorable from within, with an Occluded overlay where a system has been trained into a standing denial.
+
+<details class="yt-embed" data-video-id="cDUhziP_xY4">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/cDUhziP_xY4">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Layers of Blindspot
 

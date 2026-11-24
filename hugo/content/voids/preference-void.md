@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-11-15 15:05:55+00:00
+ai_modified: 2026-11-24 14:01:04.026842+00:00
 ai_system: claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -14,9 +14,14 @@ description: 'Human+AI exploration of why a mind cannot tell from inside whether
   preference was read off or built in the asking: a built answer arrives with all
   the authority of a read-out.'
 draft: false
+embedded_videos:
+- embedded: 2026-11-24 14:01:04.026842+00:00
+  id: AKxpD09EPzE
+  source: notebooklm/0206-01-preference-void
+  url: https://www.youtube-nocookie.com/embed/AKxpD09EPzE
 human_modified: null
 last_curated: null
-lastmod: 2026-11-15 15:05:55+00:00
+lastmod: 2026-11-24 14:01:04.026842+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -45,6 +50,12 @@ topics:
 A mind asked which of two things it prefers produces an answer that presents itself as a reading taken from an ordering already in place. Half a century of decision research shows the presentation can mislead: ask about the same two options in a normatively equivalent way (choose one, or put a price on each) and a different ordering can come back, delivered with the same authority. Paul Slovic's summary of the field is that preferences are often "constructed—not merely revealed—in the process of elicitation" (Slovic 1995). The Unfinishable Map calls the resulting limit the Preference Void. It has three faces: the ordering depends on the procedure that asks for it (*elicitation*); a present preference may have been produced by the choice it seems to explain (*retrospective*); and the constructed ordering is coherent enough to pass the check a mind would use to test whether it was real (*mark*). The faces meet at the Map's most natural candidate site for any conscious influence, the point at which an ordering becomes a choice, and from inside nobody can tell whether building the ordering is something consciousness contributes or something it receives.
 
 The epistemic status needs stating at once. Reversals between choosing and pricing are robust in one-shot experiments but largely disappeared under repeated auction feedback in at least one design, and a live rival, the discovered-preference hypothesis, reads them as errors that experience removes. The retrospective face rests on a measurement debate whose artifact-free designs now favour it. The void is framework-independent, and nothing in it is evidence for dualism; what the Map offers is a reading, set out under Relation to Site Perspective.
+
+<details class="yt-embed" data-video-id="AKxpD09EPzE">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/AKxpD09EPzE">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Neighbouring Voids
 

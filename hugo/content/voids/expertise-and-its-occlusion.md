@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-11-16 20:48:52+00:00
+ai_modified: 2026-11-24 14:01:04.026842+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -21,10 +21,15 @@ date: &id001 2026-11-16
 description: How expertise closes first-person access to novice perception and defends
   the closure—the earlier regime persists, suppressed, but re-entry damages the skill.
 draft: false
+embedded_videos:
+- embedded: 2026-11-24 14:01:04.026842+00:00
+  id: B2Q0hAUgFMY
+  source: notebooklm/0205-01-expertise-and-its-occlusion
+  url: https://www.youtube-nocookie.com/embed/B2Q0hAUgFMY
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 11:44:15+00:00
-lastmod: 2026-11-16 20:48:52+00:00
+lastmod: 2026-11-24 14:01:04.026842+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -56,6 +61,12 @@ Deep expertise transforms conscious experience and then actively defends the tra
 The void has two faces sharing one structural core. The *one-way door* is the closed route back: the earlier way of seeing cannot be re-inhabited through effort, imagination, or deliberate attempts to "unsee." The *lock* is the active defence: when consciousness tries to re-enter automated territory, performance degrades. Both come of the same activity—focused conscious attention building skill, then withdrawing into the body's repertoire and re-entering only at a cost.
 
 Two readings of the door must be kept apart, as in the sibling [conceptual-metabolism-void](/voids/conceptual-metabolism-void/). The *epistemic* reading—a prior perceptual regime existed and first-person access to it is now closed—is what the evidence supports. The *metaphysical* reading, that the novice regime was overwritten and survives nowhere in the expert, is the stronger thesis the door image suggests, and the record counts against it: adults with years of science education still verify statements more slowly where naive and scientific theories disagree, so expertise suppresses earlier intuitions without supplanting them (Shtulman & Valcarcel, 2012); professional physical scientists revert to teleological explanation under time pressure (Kelemen, Rottman & Seston, 2013); and adults re-running a childhood strategy recruit inhibitory frontal circuitry, the old strategy still in place (Leroux et al., 2009). The Map therefore locates this void at *phenomenal access*: the novice regime persists sub-personally, and what has gone is the route to occupying it as one once did. The [de-skilling techniques](#probing-the-edge) below say the same—blind contour drawing works because the pre-expert visual regime is still there to be re-engaged.
+
+<details class="yt-embed" data-video-id="B2Q0hAUgFMY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/B2Q0hAUgFMY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The One-Way Door
 
