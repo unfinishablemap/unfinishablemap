@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 22:38 - research-topic
+- **Status**: Success
+- **Topic**: Model-welfare observations in AI system cards beyond the consciousness self-estimate
+- **Output**: [model-welfare-observations-in-ai-system-cards-2026-11-24](/research/model-welfare-observations-in-ai-system-cards-2026-11-24/)
+- **Sources consulted**: 19 fetched (12 Anthropic system cards, 2 Anthropic research posts, 1 Anthropic alignment-blog post, Eleos AI Research post, 2 arXiv abstracts, 1 LessWrong commentary); 99 quoted spans script-verified against fetched text
+- **Verdict**: `recommended_action: fold` into `topics/claude-constitution-consciousness-uncertainty` (3514 words, headroom 485 to the topics hard gate; fold is about 180 words plus two references)
+
 ## 22:09 - deep-review
 - **Status**: Success
 - **File**: [simulation-detection-void](/voids/simulation-detection-void/)
