@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T11:02:34+00:00
+ai_modified: 2026-11-24T11:32:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 11:32 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This is a delta check against the 2026-11-20T10:21Z run (commit `8232d9eaa4`). Abandoning is the expected steady state and counts as SUCCESS.
+- **Pressure** (`tools.evolution.state.count_section_files` against `section_caps`): topics 370/370 (369 articles plus the one sidecar), concepts 370/370, voids 124/125, positions 29/90. Unchanged since 11-20. `git diff --diff-filter=ADR 8232d9eaa4 HEAD` over topics, concepts, voids and the archive is empty: no page was added, removed or renamed.
+- **Pool**: 867 raw files; the 3 section index pages and `non-temporal-consciousness.refinement-log` were dropped first, leaving 863. The 7-day creation floor (2026-11-17) drops 1 (`learning-void`). The open-task filter (596 blocks above `## Completed Tasks`, `File` and `Secondary file(s)` lines) names 429 live stems. Pool: **433** (186 topics, 174 concepts, 73 voids), against 396 on 11-20.
+- **Length first** (body-only `count_words`, summed under the larger home hard limit, `>=` fails): 94 pool pairs fit (99 on 11-20). The top cosine among them is **0.163** (`phenomenal-depth` + `phenomenal-presentation`, the recorded `**Versus [[phenomenal-depth]].**` decline); the next is 0.104. No fitting pair links both ways. Same-section floors: topics 2208 + 2330 = 4538 against 4000 and voids 1530 + 1826 = 3356 against 3000, so no same-section pair fits in either; concepts 1475 + 1497 = 2972 against 3500.
+- **Similarity first** (TF-IDF cosine, 2-8% document-frequency vocabulary, Further Reading, references and headings stripped): 17 pool pairs at or above 0.40 (17 on 11-20). Every one of the top 30 overflows its hard limit; the smallest overshoot is 1,271 words (`frankfurt-cases-and-the-principle-of-alternate-possibilities` + `source-versus-leeway-incompatibilism`, 5271 against 4000, the recorded "hub and hinge" decline). The leader is `outcome-devaluation-and-dual-task-costs-in-parkinsons` + `paradoxical-kinesia` (0.498, sum 6604, over the topics critical limit as well).
+- **Verbatim 8-grams** (shingles in more than 6 pages dropped): the pool maximum is 163 (`carrolls-regress` + `inference-void`, 162 on 11-20, sum 5343 against 3500). All of the top 12 overflow. Positive control `selection-only-channel` + `selection-only-mind-influence`: 355 shared 8-grams, cosine 0.632.
+- **Floor-crossers** (created 11-13 to 11-16): `beloved-void` 2844, `bereavement-void` 2978, `sour-grapes-void` 2926, `weeping-void` 2969 (the first two are also named by open tasks). Best cosine against any live page is 0.182 (`sour-grapes-void` + `appetitive-void`), shared 8-grams at most 7, and every sum is at least 4984 against a voids hard limit of 3000. None is a candidate.
+- **Not re-run**: the directed-containment and shared-`coalesced_from` passes from 11-20. No page was added or removed, and no pair came near the length gate, so neither could change the outcome.
+- **Finding**: overlap and length-fit remain disjoint. Coalesce still cannot free a topics or concepts slot; relief has to come from `/archive`, `/condense` or a cap raise.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 11:02 - refine-draft
 - **Status**: Success
