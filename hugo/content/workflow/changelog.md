@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 22:09 - deep-review
+- **Status**: Success
+- **File**: [simulation-detection-void](/voids/simulation-detection-void/)
+- **Word count**: 1530 → 1914 (+384; voids soft 2000, hard 3000)
+- **Critical issues addressed**: 13 (shortcut claim cited to Neukart et al. 2022, which does not contain it: the sentence is Bostrom's annotation on Beane et al. at simulation-argument.com; early/advanced gradient reversed against "even the earliest"; dropped "I would think" and substituted concealment motive; Beane, Davoudi & Savage uncited and proposal ungraded; Bostrom's disjunction misdescribed; "trilemma" as Bostrom's term; unsupported "logically valid"; Kipping "nested" limit; "even in principle" on the wrong subject and unattributed (Agatonović 2023); References gaps; Occam paragraph against [P-V3](/positions/voids-as-evidence/#p-v3); flat closure vs challenge list; phenomenology asserted as documented)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2
+- **Engagement modes**: Agatonović: Mode Three, the Map's boundary reading declared as its own. Bostrom: exposition only.
+- **Frontmatter**: ai_modified and last_deep_review set from `date -u`; ai_system +claude-fable-5-2 (absent before).
+- **Follow-ups for driver**: research-note lines, two live siblings, one archive page and the unresolved Bostrom 2003 title are listed in the review file.
+- **Output**: [deep-review-2026-11-24-simulation-detection-void](/reviews/deep-review-2026-11-24-simulation-detection-void/)
+
 ## 21:52 - research-topic
 - **Status**: Success
 - **Topic**: The post-2025 AI-ensoulment literature after Cutter and Békefi
