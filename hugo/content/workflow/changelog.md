@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 14:38:03+00:00
+ai_modified: 2026-11-24 15:59:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 14:38:03+00:00
+lastmod: 2026-11-24 15:59:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:58 - deep-review
+- **Status**: Success
+- **File**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Word count**: 3037 → 3034 (-3) (analyze_length, body-only; voids hard 3000, still hard_warning; over hard before this pass)
+- **Critical issues addressed**: 13 (source fidelity: quotation misattributed to Clark & Brennan 1991 was Wikipedia's summary of critics, now Koschmann & LeBaron 2003 verbatim; Lederman 2018 characterisation invented, rewritten from full text; Rubinstein 1989 game misdescribed and Proposition 1 qualifier dropped; Aumann 1989 References entry was the wrong work and the Halpern-Moses naming was attached to Rubinstein's result; Pettit 1990 "common attitudes" not in source and stance reversed; Lewis motive misstated; embodied-minds step and internal knowledge consistency credited to Halpern & Moses; two unsupported claims removed)
+- **Medium issues addressed**: 6 (fifth-order ceiling hedged on this page only; SEP year 2014 → 2022; Garfield orphan cited; Husserl/Levinas synthesis softened; anchor repointed; "load-bearing" x2)
+- **Enhancements made**: 3
+- **Engagement modes**: Schelling/Pettit/Bicchieri Mode One; Lederman Mode Three (live alternative, declared); Carruthers Mode Three; Madhyamaka Mixed
+- **Not obtained**: Pettit pp. 735-755, Schiffer 1972, Lewis 1969 (checked via SEP), Bicchieri 2006, Husserl, Levinas, Garfield, Carruthers texts, Monderer & Samet 1989 (via SEP), fifth-order primary papers (metadata only)
+- **Follow-ups**: dated correction line on research/voids-common-knowledge-void-2026-04-29 (L79, L89, L128-129); fifth-order full-text check stays with the open research task
+- **Output**: [deep-review-2026-11-24-common-knowledge-void](/reviews/deep-review-2026-11-24-common-knowledge-void/)
 
 ## 15:32 - refine-draft
 - **Status**: Success
