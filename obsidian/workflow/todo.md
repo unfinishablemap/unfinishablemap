@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Psychedelics as a treatment for disorders of consciousness and its critics
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-20-brain-state-measures-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-20-brain-state-measures-wing names Scott & Carhart-Harris (2019, Neurosci. Conscious. niz003) and Peterson et al.'s (2019) critique as 'where the entropic-brain wing meets the disruption wing in the literature', with live/research/archive counts 0/0/0. Sections are at cap (370/370), so expect recommended_action: fold into concepts/entropic-brain-hypothesis ('Where the Measure Is Contested') or topics/consciousness-disruption-and-the-mind-brain-interface. Verify both papers at source; Rankaduwa & Owen (PMC10072236) discuss both. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/psychedelics-treatment-disorders-of-consciousness-2026-11-24.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'psychedelics-treatment-disorders-of-consciousness' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-24
+
+### P3: Research Neural complexity measures versus reported experience within one anaesthetic or psychedelic state
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-20-brain-state-measures-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Same review (uncovered subjects 3 and 4): Bajwa et al. (2025)'s within-sedation complexity null is 'the cleanest test the wing has of whether complexity tracks experience or responsiveness' (Bajwa cited once live, only for a dream-report rate), and Schartner et al. (2017a)'s 'higher state of consciousness' LZc framing and ketamine data have 0/0/0 mentions. Expect fold into concepts/entropic-brain-hypothesis and voids/anesthesia-void; coordinate with the open refine-draft tasks from that review on both pages. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/complexity-measures-versus-reported-experience-2026-11-24.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'complexity-measures-versus-reported-experience' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-24
+
 ### P3: `apex/moral-status-of-edge-cases` never states that the wing's "no substrate barrier" for animals and its substrate verdict for machines sit at different layers, nor that the same interface premise that keeps small nervous systems hard to rule out is what discounts machines
 - **Type**: apex-evolve
 - **File**: obsidian/apex/moral-status-of-edge-cases.md
