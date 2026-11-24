@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 18:33:09+00:00
+ai_modified: 2026-11-24 19:01:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 18:33:09+00:00
+lastmod: 2026-11-24 19:01:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 19:01 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Anomalous-evidence wing (5 pages, read in full; none modified today; a different wing from the 09:31 AI-assessment review): concepts/near-death-experiences (3,489, headroom 10), topics/out-of-body-experiences (3,437), topics/terminal-lucidity-and-filter-transmission-theory (3,957, headroom 42), topics/presentiment-and-retrocausality (2,532), topics/parapsychology-firewall (2,672)
+- **Ranked priority list**: (1) NDE keeps three claims its siblings corrected: Reynolds's verified details placed at standstill (OBE L90 fixed this on 11-08 and that review deferred NDE L106 to "that page's next review"), a veridical hit scored as support where the firewall and OBE L130 score it as a breach, and Whitehead (on the co-optation roster since 09-30) enlisted for a dissolving interface; (2) PRE says Duggan and Tressoldi "added 26 more studies" where the abstract has 19 studies / 27 experiments, calls the experimenter-effect defence "conceded unfalsifiable" twice although its own 10-28 paragraph shows it tested, and presents retrocausality as the Map's framework against the [P-Q1](/positions/quantum-interface/#p-q1) subordination; (3) TL L154 still claims the single-framework advantage removed at three other places on 10-11/10-12/10-14, L100 says "contradicted" where Level 2 holds the question open, L62 lifts "several of these accounts suggest" to "the authors concluded"; (4) fold the ganzfeld registered-report meta-analysis (Tressoldi and Storm 2024, ES ~.08, "no sign of decline") into the firewall page, which cites evidence for only one of its three psi categories
+- **Sources**: eight abstracts read at Europe PMC this run (Duggan and Tressoldi 2018; Xu 2023; AWARE II 2023; Nahm 2012; Martial 2025; Thonnard 2013; Martial 2018; Tressoldi and Storm 2024). Abstracts only. Not obtained: Mossbridge 2012 (timeout), Sabom 1998, Woerlee 2011, Kekecs 2023
+- **Uncovered subjects for the harvester**: Martial et al. 2025 integrated NDE model (0 live on point); NDE memory studies (Thonnard 2013, Martial 2018; 0 live); the ganzfeld record after 2024 (2 live clauses)
+- **Tasks minted**: 4 P3 refine-draft above `## Completed Tasks` (todo L6635, L6646, L6657, L6668); parse_tasks active 490 → 494
+- **Output**: [optimistic-2026-11-24-anomalous-evidence-wing](/reviews/optimistic-2026-11-24-anomalous-evidence-wing/)
 
 ## 18:33 - refine-draft
 - **Status**: Success
