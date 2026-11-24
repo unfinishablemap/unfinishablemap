@@ -5,6 +5,16 @@ ai_modified: 2026-11-24T12:23:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 13:17 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-physics-interface-formalism]]
+- **Original score**: n/a (targeted fix from outer review 2026-11-24 ChatGPT §2.1, §5 "No higher-order interference", improvements 5 and 19; `scripts/curate.py` absent)
+- **Changes**: (1) Constraint 4: "Experimental tests confirm no higher-order terms" replaced with bounded wording citing Sinha et al. (2010) (three-path interference below 10⁻² of expected two-path; abstract re-read at PubMed 20651147 and OpenAlex), with a piped link to [[sorkin-higher-order-interference]] for later bounds and finite-slit corrections (no figures imported); next sentence now reads "detectable above those bounds". (2) Constraint 3: new paragraph on the nonlinear-signalling literature. Gisin (1990), Polchinski (1991), Simon, Bužek & Gisin (2001); stated as a requirement any C must be shown to meet, which the selection reading has not yet been shown to meet. (3) Four works added to References (alphabetical, renumbered 1–16); inline/References checked both directions on surname and year.
+- **Source check**: Polchinski abstract (OpenAlex) and Simon et al. full text (arXiv quant-ph/0102125, pdftotext, grepped) read directly. Gisin (1990) has no abstract at Crossref, OpenAlex or Semantic Scholar; its claim is paraphrased from its title and from Simon et al.'s own description (nonlinear evolution laws for pure states lead "to the possibility of superluminal communication", refs [6–8], [6] = Gisin 1990). No direct quotations added to the article.
+- **Not touched**: Constraint 5 paragraph, the "Together, these five constraints" paragraph, the tenet paragraphs owned by the open P3, any P-Q2 quantifier sentence, `last_deep_review`.
+- **Length**: 2,816 → 3,062 by analyze_length (+246; concepts hard 3,500, headroom 437). About 160 words are body prose and about 85 are the four new References entries, so the task's ≤ +150 aim is overshot on the total.
+- **Published**: yes
+
 ## 12:48 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/pain-asymbolia]] (plus [[topics/pain-consciousness-and-causal-power]], [[apex/embodied-interface]], [[voids/valence-void]], [[concepts/reductionism]]; archive: `archive/topics/consciousness-and-pain`, `archive/topics/pain-asymbolia-as-central-test-case`, `archive/topics/why-pain-hurts`)

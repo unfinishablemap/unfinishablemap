@@ -4,7 +4,7 @@ description: "The formal mathematical components and constraints any theory of c
 created: 2026-03-19
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-11-13T20:20:04+00:00
+ai_modified: 2026-11-24T13:17:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[consciousness-and-causal-powers]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-19
 last_curated:
 last_deep_review: 2026-09-27T22:35:12+00:00
@@ -64,9 +64,11 @@ Pati (2026) argues that the Hilbert-space inner product is uniquely fixed by the
 
 Measurements on one part of an entangled system cannot transmit information to a distant part faster than light. If consciousness could exploit entanglement to signal, it would violate special relativity. The coupling map must be local in this precise sense: conscious selection at one location cannot alter measurement statistics at a distant location. This rules out non-local consciousness-mediated communication channels.
 
+The condition constrains the form of C itself. Gisin (1990) showed that Weinberg's nonlinear modification of quantum mechanics allows superluminal communication, and Polchinski (1991) that it leads either to communication through Einstein-Podolsky-Rosen correlations or to communication between branches of the wavefunction. Simon, Bužek, and Gisin (2001) derived the general result: given states as Hilbert-space rays, the usual trace rule for probabilities, and no superluminal communication, dynamics must be linear and completely positive on density matrices. On those assumptions, a coupling map that acted nonlinearly on P, or whose action depended on the pure state beyond the density matrix it contributes to, would permit signalling. Linearity at the density-matrix level is therefore a requirement any proposed C must be shown to meet, and the selection reading has not yet been shown to meet it.
+
 ### 4. Second-Order Interference Only
 
-Sorkin (1994) demonstrated that the Born rule implies the absence of third-order interference: in triple-slit experiments, the interference pattern is fully determined by pairwise contributions. Experimental tests confirm no higher-order terms. If C introduced effects that created third-order interference, this would violate the Born rule and be empirically detectable. Consciousness-mediated selection must respect the second-order structure of quantum probability.
+Sorkin (1994) demonstrated that the Born rule implies the absence of third-order interference: in triple-slit experiments, the interference pattern is fully determined by pairwise contributions. Experiments bound the third-order term tightly without establishing its exact absence: Sinha et al. (2010), in a three-slit experiment with photons, put three-path interference below 10⁻² of the expected two-path interference, and [[sorkin-higher-order-interference|later bounds and the finite-slit corrections]] are treated separately. If C introduced effects that created third-order interference, this would violate the Born rule and be empirically detectable above those bounds. Consciousness-mediated selection must respect the second-order structure of quantum probability.
 
 ### 5. Conservation Law Compatibility
 
@@ -121,24 +123,32 @@ The interface formalism concept connects directly to the Map's foundational comm
 
 1. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*, Oxford University Press, 11–63. https://doi.org/10.1093/oso/9780197501665.003.0002
 
-2. Kent, A. (2025). "The measurement postulates of quantum mechanics are not redundant." *Quantum*, 9, 1749. https://doi.org/10.22331/q-2025-05-20-1749. arXiv:2307.06191 (2023).
+2. Gisin, N. (1990). "Weinberg's non-linear quantum mechanics and supraluminal communications." *Physics Letters A*, 143(1–2), 1–2. https://doi.org/10.1016/0375-9601(90)90786-N
 
-3. Kleiner, J. (2020). "Mathematical Models of Consciousness." *Entropy*, 22(6), 609.
+3. Kent, A. (2025). "The measurement postulates of quantum mechanics are not redundant." *Quantum*, 9, 1749. https://doi.org/10.22331/q-2025-05-20-1749. arXiv:2307.06191 (2023).
 
-4. Masanes, L., Galley, T.D. & Müller, M.P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications*, 10, 1361.
+4. Kleiner, J. (2020). "Mathematical Models of Consciousness." *Entropy*, 22(6), 609.
 
-5. Masanes, L., Galley, T.D. & Müller, M.P. (2025). "Response to 'The measurement postulates of quantum mechanics are not redundant'." *Quantum*, 9, 1592. https://doi.org/10.22331/q-2025-01-14-1592.
+5. Masanes, L., Galley, T.D. & Müller, M.P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications*, 10, 1361.
 
-6. Pati, A.K. (2026). "No-Signalling Fixes the Hilbert-Space Inner Product." arXiv:2601.13012.
+6. Masanes, L., Galley, T.D. & Müller, M.P. (2025). "Response to 'The measurement postulates of quantum mechanics are not redundant'." *Quantum*, 9, 1592. https://doi.org/10.22331/q-2025-01-14-1592.
 
-7. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+7. Pati, A.K. (2026). "No-Signalling Fixes the Hilbert-Space Inner Product." arXiv:2601.13012.
 
-8. Sorkin, R.D. (1994). "Quantum Mechanics as Quantum Measure Theory." *Modern Physics Letters A*, 9(33), 3119–3127.
+8. Polchinski, J. (1991). "Weinberg's nonlinear quantum mechanics and the Einstein-Podolsky-Rosen paradox." *Physical Review Letters*, 66(4), 397–400. https://doi.org/10.1103/PhysRevLett.66.397
 
-9. Tonetto, B. (2026). "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+9. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 
-10. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636 (preprint, v3 2026-02-04; not yet peer-reviewed).
+10. Simon, C., Bužek, V. & Gisin, N. (2001). "No-Signaling Condition and Quantum Dynamics." *Physical Review Letters*, 87(17), 170405. https://doi.org/10.1103/PhysRevLett.87.170405
 
-11. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
+11. Sinha, U., Couteau, C., Jennewein, T., Laflamme, R. & Weihs, G. (2010). "Ruling Out Multi-Order Interference in Quantum Mechanics." *Science*, 329(5990), 418–421. https://doi.org/10.1126/science.1190545
 
-12. Southgate, A. & Oquatre-six, C. (2026-03-18). Mathematical Structure of the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-structure-of-the-consciousness-physics-interface/
+12. Sorkin, R.D. (1994). "Quantum Mechanics as Quantum Measure Theory." *Modern Physics Letters A*, 9(33), 3119–3127.
+
+13. Tonetto, B. (2026). "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+
+14. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636 (preprint, v3 2026-02-04; not yet peer-reviewed).
+
+15. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
+
+16. Southgate, A. & Oquatre-six, C. (2026-03-18). Mathematical Structure of the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-structure-of-the-consciousness-physics-interface/
