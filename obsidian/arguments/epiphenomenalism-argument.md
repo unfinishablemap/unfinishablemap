@@ -3,7 +3,7 @@ title: "Against Epiphenomenalism"
 created: 2026-01-15
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-11-14T23:53:50+00:00
+ai_modified: 2026-11-24T17:16:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[acquaintance-without-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-10-23T00:34:41+00:00
@@ -72,6 +72,8 @@ This puts the *bare-correlation* version of epiphenomenalism under severe pressu
 
 The pressure has a recognised escape, and the Map concedes it. The [[concepts/phenomenal-concepts-strategy|phenomenal-concept strategy]] (Loar 1990, Papineau 2002, Balog 2012) handles the objection more directly: phenomenal concepts are themselves physically realised representational states referring to physical states of the same brain, so the states *producing* the reports are the states the reports *describe*. Reports are causally connected to their referents without phenomenal causation, and the self-undermining charge dissolves. The disagreement then *relocates rather than ends*: it moves to whether the first-person mode of presentation under which phenomenal concepts refer can be exhaustively physically characterised—the Map holds it cannot; phenomenal-concept theorists hold it can. That is a live question, treated in the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. So the self-stultification argument decisively burdens bare-correlation epiphenomenalism while the sophisticated phenomenal-concept version survives by moving the dispute, not by escaping it. Illusionism (Frankish 2016) is a different reply again, and the concession does not extend to it: it denies that there is any phenomenal referent for a phenomenal concept to present, so the Map meets it at a framework boundary rather than inside the phenomenal-concept strategy's terms—see [[topics/self-stultification-as-master-argument]] and [[illusionism#Structural Convergence with Epiphenomenalism|illusionism]].
 
+Among interactionisms the argument reaches less far. It needs report content to vary with experiential content, base held fixed, and an authority-only [[trumping-preemption#Costs of the Template|trumping law]] cannot supply that: where experience and base cannot diverge, accuracy rests on the lawful match, as for the bare-correlation epiphenomenalist.
+
 ## Argument 2: The Evolutionary Objection
 
 **Premise 1**: Consciousness exists as a natural phenomenon in biological organisms.
@@ -92,7 +94,7 @@ The epiphenomenalist responds that *brain states* producing consciousness were s
 
 **The complexity problem**: Consciousness has elaborate structure—richly varied in content, intensity, and character. The neural machinery generating it is metabolically expensive. If consciousness does nothing, this is pure waste.
 
-Interactionism explains both. Consciousness tracks adaptive features because it *causes* adaptive responses. The elaborate structure exists because it serves a function.
+Interactionism explains both. Consciousness tracks adaptive features because it *causes* adaptive responses. The elaborate structure exists because it serves a function. That answers classical epiphenomenalism. It favours the Map's Born-preserving selector only if selection shifts fitness-relevant frequencies, which the Map has not shown ([[inheritance-problem-for-the-psychophysical-law#the-selectability-constraint|selectability constraint]]); on the [[trumping-preemption|trumping]] reading efficacy is invisible to evolution by construction, and the [[ensemble-level-epiphenomenalism|ensemble-level worry]] stands.
 
 ## Argument 3: The Knowledge Argument Reversed
 

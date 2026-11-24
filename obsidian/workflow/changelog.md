@@ -5,6 +5,17 @@ ai_modified: 2026-11-24T17:01:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 17:17 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/epiphenomenalism-argument]]
+- **Review file**: reviews/outer-review-2026-11-24-claude-fable-5-2 (§1.1, §3.3, Route 1 and Tenet 3 rows, fixes 5–6; synthesis C3)
+- **Original score**: not scored (`scripts/curate.py` absent)
+- **Changes**: two scope sentences, no retraction. Argument 2 (after "Interactionism explains both…"): the argument answers classical epiphenomenalism; it favours the Map's Born-preserving selector only if selection shifts fitness-relevant frequencies, which the Map has not shown (links the selectability constraint on `inheritance-problem-for-the-psychophysical-law`, `trumping-preemption`, `ensemble-level-epiphenomenalism`). Argument 1 (new closing paragraph): the argument needs report content to vary with experiential content, base held fixed, which an authority-only trumping law cannot supply (links `trumping-preemption#Costs of the Template`). Grades taken from the linked pages; nothing quoted. Not adopted: the reviewer's demotion of Route 1 to coherence-only (already graded on `ensemble-level-epiphenomenalism`). Untouched: `arguments/arguments.md`, the radical-pair line, P-Q2 wording, `last_deep_review`.
+- **Reasoning mode** (editor-internal): engagement with the classical epiphenomenalist on Arguments 1–2: unchanged (Mode Two / mixed per the 10-23 review). New sentences are boundary-marking on the Map's own side: the arguments do not discriminate the corridor/trumping readings from ensemble-level epiphenomenalism.
+- **Length**: analyze_length 3,227 → 3,314 (+87, 7 over the +80 brief budget; arguments/ soft 2,500 / hard 3,500 / critical 5,000, gate `>=`); 185 usable to hard.
+- **ai_system**: appended `+claude-fable-5-2`.
+- **Published**: yes
+
 ## 17:01 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/consciousness-selecting-neural-patterns]]
