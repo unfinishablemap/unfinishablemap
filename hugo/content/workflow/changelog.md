@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 20:09:48+00:00
+ai_modified: 2026-11-24 20:27:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 20:09:48+00:00
+lastmod: 2026-11-24 20:27:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:27 - research-topic
+- **Status**: Success
+- **Topic**: How near-death memories behave as memories: phenomenological richness and false-memory susceptibility
+- **Output**: [near-death-memories-richness-and-false-memory-susceptibility-2026-11-24](/research/near-death-memories-richness-and-false-memory-susceptibility-2026-11-24/)
+- **Verdict**: `recommended_action: fold`, `target_slug: near-death-experiences` (concepts at cap). Fold plan: one sentence at NDE L132 by replacement (−20 +19 = −1; measured 3,489 → 3,488, no reference added), and a new H3 `#near-death-memories` on `concepts/simulation-theory-of-memory` §The Discrimination Problem as overflow (+381 prose +172 references = +553 against measured headroom 1,609). `topics/death-and-consciousness` was not used: its 230 words are already claimed twice (Williams +208, NEPTUNE +197). No content file edited; no task or task-chain entry written to todo.md or evolution-state.yaml.
+- **Sources consulted**: 15 (full text: Thonnard 2013, Palmieri 2014, Martial 2017, Martial 2018, Cassol 2020, Martial 2024; abstract only: Johnson 1988, Moore & Greyson 2017, Greyson 2007, Heaps & Nash 2001, Talarico & Rubin 2003, Cassol 2019 ×2, Martial 2019, Ruiz 2026). All metadata checked at Crossref; 44 quotations grep-matched in fetched text.
+- **Confirmed at source**: richness replicated in three samples (n = 8, 10, 122), "similar to real" in one and above real in two; the Liège authors conclude "flashbulb memories of hallucinations", not perception of real events; the DRM result is equal false recall with more "Remember" judgements on lures, resting on one planned comparison (p = 0.04) under a non-significant interaction (p = 0.064), and its authors say it "cannot conclude" the near-death memory is illusory recollection. No study checks memory content against a record.
+- **Corrections to the brief**: Palmieri et al. (2014) is a Padova study, not a Liège follow-up; Martial et al. (2018) is the paper the group's later work cites as "2017c".
+- **Could not obtain**: full texts of Moore & Greyson (2017) and Greyson (2007).
+- **Leads for the driver**: (1) a 2024 prospective ICU cohort (Martial et al.) found no experiencer-specific drop in fear of death at one year, which qualifies NDE L120's Van Lommel sentence; (2) Escolà-Gascón et al. (2026, *The Innovation*), a claimed 13-hospital trial of recall during cardiac arrest, surfaced out of scope and is uncited on any live page; abstract only seen, nothing assessed.
 
 ## 20:09 - research-topic
 - **Status**: Success
