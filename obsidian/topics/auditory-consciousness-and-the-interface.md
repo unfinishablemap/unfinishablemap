@@ -4,7 +4,7 @@ description: "Hearing supplies what vision lacks: melody unfolding in time, audi
 created: 2026-05-31
 modified: 2026-11-10
 human_modified:
-ai_modified: 2026-11-10T14:14:20+00:00
+ai_modified: 2026-11-24T16:02:30+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[phenomenology-of-musical-understanding]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-05-31
 last_curated:
 last_deep_review: 2026-09-19T02:58:19+00:00
@@ -96,7 +96,7 @@ The Map does not claim audition settles dualism. It claims audition is evidence 
 - [[chemosensory-consciousness-and-the-interface]] — the chemical-sense companion: smell and taste supply a stimulus-percept gap without spatial scaffolding, a non-Euclidean quality space, and flavour as binding
 - [[tactile-consciousness-and-the-interface]] — the touch companion: active haptics requires movement, the touching hand is also touched, affect is woven into contact, and the felt body boundary is movable
 - [[three-dimensional-world-representation-problem]] — the cross-modal spatial arena auditory localisation feeds, though pitch and timbre carry no spatial character
-- [[cross-modal-capability-division]] — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary), with auditory scene analysis as the spatial-scaffolding-free binding case
+- [[cross-modal-capability-division]] — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain machinery, supramodal access signature), with auditory scene analysis as the spatial-scaffolding-free binding case
 
 ## References
 

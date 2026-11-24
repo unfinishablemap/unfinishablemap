@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-10-31 07:10:45+00:00
-ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-24 16:02:30+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[qualia]]'
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-14 22:36:49+00:00
-lastmod: 2026-10-31 07:10:45+00:00
+lastmod: 2026-11-24 16:02:30+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -105,7 +105,7 @@ The Map does not claim the chemical senses settle dualism. It claims they are ev
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — perceptual constancy and learning, whose sommelier and "Barolo" examples find their modality home here
 - [the-binding-problem](/topics/the-binding-problem/) — the binding taxonomy that flavour instantiates without spatial scaffolding
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — the claim that some phenomenal character is constitutively valenced, for which smell is the strongest perceptual case
-- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); smell is where ownership is thinnest, the disanalogy the synthesis turns on
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain machinery, supramodal access signature); smell is where ownership is thinnest, the disanalogy the synthesis turns on
 
 ## References
 

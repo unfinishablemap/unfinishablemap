@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 15:59:13+00:00
+ai_modified: 2026-11-24 16:03:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 15:59:13+00:00
+lastmod: 2026-11-24 16:03:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:03 - refine-draft
+- **Status**: Success
+- **File**: [cross-modal-capability-division](/apex/cross-modal-capability-division/) (plus [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/), [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/), [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/), [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/))
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Review file**: reviews/outer-review-2026-11-24-claude-fable-5-2 (§2.4, §3 apex row, fix 7 first bullet, methodology item 8)
+- **Changes**: The apex stated its finding as "modality-specific brain machinery, supramodal mind-side boundary" (twice) and "supramodal mind side" (once), although the only evidence for the second term is the Sanchez et al. (2020) MEG decoding pattern, a neural measurement the apex's own later paragraphs call a shared explanandum the Global Neuronal Workspace predicts equally. All three finding sentences now name the datum (a supramodal access signature) and carry the mind-side reading as the Map's: opening in full ("a supramodal access signature the Map reads as the boundary of a mind-side contribution"), the bolded finding ("on the Map's reading, the mind-side boundary"), the sharpened statement ("the Map reads as mind-side"). Grade matched to the existing shared-explanandum and consonant-not-probative paragraphs; no hedge, citation or refutation removed. Words recovered from claim-free phrasing in the same paragraphs. The four sibling Further Reading glosses changed length-neutrally to "(modality-specific brain machinery, supramodal access signature)"; each host sentence ("the division recurs as an asymmetry …") still fits. Description left as is (already neutral). Thermal and interoceptive-evidence paragraphs untouched; no beautiful-loop engagement added. `last_deep_review` and `apex_last_synthesis` unchanged.
+- **Engagement modes**: engagement with Global Neuronal Workspace: Mode Three, unchanged (shared explanandum declared; the ownership gap stays a wager)
+- **Length (analyze_length, body-only, before -> after / hard)**: cross-modal-capability-division 5004 -> 5004 / 5000 (net 0; over hard before this pass); auditory 3273 -> 3273 / 4000; chemosensory 2739 -> 2739 / 4000; tactile 3049 -> 3049 / 4000; dual-domain 2259 -> 2259 / 4000.
+- **Noted, not changed**: the apex synthesis paragraph still opens a sentence "On the mind side, the conscious/unconscious boundary carries a common supramodal signature …" and closes "The cross-modal commonality lives entirely on the side opposite the machinery"; the next paragraph grades it, but met alone it locates the signature mind-side without attribution. Outside this task's quoted targets and the apex has no headroom.
+- **Published**: yes
 
 ## 15:58 - deep-review
 - **Status**: Success

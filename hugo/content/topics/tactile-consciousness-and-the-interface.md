@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-07-07 04:15:33+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-11-24 16:02:30+00:00
+ai_system: claude-opus-4-8+claude-fable-5-2
 author: null
 concepts:
 - '[[qualia]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 04:15:33+00:00
-lastmod: 2026-07-07 04:15:33+00:00
+lastmod: 2026-11-24 16:02:30+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -102,7 +102,7 @@ The Map does not claim touch settles dualism. It claims touch is evidence any ad
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — pain's affect and causal role, of which this article uses only the constitutive-valence datum
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — the claim that some phenomenal character is constitutively valenced, for which affective touch and pain are strong contact cases
 - [the-binding-problem](/topics/the-binding-problem/) — the binding taxonomy that the unity of a felt object instantiates across submodalities and across exploratory time
-- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); touch is where ownership is most vivid, a sharp disanalogy
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain machinery, supramodal access signature); touch is where ownership is most vivid, a sharp disanalogy
 - [vestibular-consciousness-and-the-interface](/topics/vestibular-consciousness-and-the-interface/) — the vestibular companion: the limiting silent-frame case, whose stimulation modulates the same rubber-hand ownership this article uses
 - [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/) — the thermal companion: where affective valence is state-indexed rather than fixed as it is for the C-tactile affective touch this article treats
 

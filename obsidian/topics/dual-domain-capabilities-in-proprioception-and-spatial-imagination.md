@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-21T10:32:06+00:00
+ai_modified: 2026-11-24T16:02:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[interoceptive-consciousness-and-the-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-2
 ai_generated_date: 2026-03-18
 last_curated:
 last_deep_review: 2026-06-21T10:32:06+00:00
@@ -119,7 +119,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [[the-binding-problem]] — How separate modalities unify into spatial experience
 - [[embodied-consciousness]] — The phenomenology of lived embodiment: ownership, agency, and the dualist interface reading
 - [[imagery-void]] — The introspective face of the same dissociation: why no mind can verify which mode (analytic or object-based) does its rotation work
-- [[cross-modal-capability-division]] — The cross-modal synthesis: the division recurs across the senses as an asymmetry (modality-specific brain side, supramodal mind-side boundary); the substrate-divergence point this article makes is carried over to the exteroceptive senses
+- [[cross-modal-capability-division]] — The cross-modal synthesis: the division recurs across the senses as an asymmetry (modality-specific brain machinery, supramodal access signature); the substrate-divergence point this article makes is carried over to the exteroceptive senses
 - [[capability-division-in-vision]] — The anchor: the brain-side/mind-side division stated first, in vision
 - [[tactile-consciousness-and-the-interface]] — Nearest embodied/somatic sibling: bodily ownership at its most vivid
 

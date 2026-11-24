@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-11-10 14:14:20+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-24 16:02:30+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[qualia]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 02:58:19+00:00
-lastmod: 2026-11-10 14:14:20+00:00
+lastmod: 2026-11-24 16:02:30+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -100,7 +100,7 @@ The Map does not claim audition settles dualism. It claims audition is evidence 
 - [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/) — the chemical-sense companion: smell and taste supply a stimulus-percept gap without spatial scaffolding, a non-Euclidean quality space, and flavour as binding
 - [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) — the touch companion: active haptics requires movement, the touching hand is also touched, affect is woven into contact, and the felt body boundary is movable
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — the cross-modal spatial arena auditory localisation feeds, though pitch and timbre carry no spatial character
-- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary), with auditory scene analysis as the spatial-scaffolding-free binding case
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain machinery, supramodal access signature), with auditory scene analysis as the spatial-scaffolding-free binding case
 
 ## References
 

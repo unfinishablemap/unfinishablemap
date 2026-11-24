@@ -4,7 +4,7 @@ description: "Across the distance senses the brain-side machinery is modality-sp
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-09-20T09:40:18+00:00
+ai_modified: 2026-11-24T16:02:30+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[embodied-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-06-20
 last_curated:
 last_deep_review: 2026-07-19T04:31:48+00:00
@@ -45,7 +45,7 @@ apex_last_synthesis: 2026-06-22T01:25:06+00:00
 apex_thesis: "The brain-side machinery of perception is irreducibly modality-specific while the conscious/unconscious boundary carries a common supramodal signature—and that asymmetry, not the bare recurrence of a division, is what generalising across the senses actually establishes."
 ---
 
-The Unfinishable Map has worked the same division across five senses one modality at a time: in each case the brain extracts and organises candidate content largely without consciousness, and conscious experience contributes phenomenal unity, ownership, and flexible deployment. Vision states it first; hearing, smell, touch, and proprioception each restate it in their own register. Read side by side, these five treatments invite a structural question none of them answers from inside itself: *does the division recur across the senses, and if it does, what recurs?* The answer is more interesting than a simple "yes." The brain-side machinery does not recur—it is irreducibly modality-specific, with no shared substrate across V1, the cochlea, and the olfactory receptor code. The conscious/unconscious boundary, by contrast, carries a *common supramodal signature* that decodes across vision, hearing, and touch. That asymmetry—modality-specific brain side, supramodal mind side—is the genuinely new content. It is also, on the Map's own discipline, the place where a physicalist rival accounts for the same data, so the asymmetry sharpens the question rather than settling it.
+The Unfinishable Map has worked the same division across five senses one modality at a time: in each case the brain extracts and organises candidate content largely without consciousness, and conscious experience contributes phenomenal unity, ownership, and flexible deployment. Vision states it first; hearing, smell, touch, and proprioception each restate it in their own register. Read side by side, these five treatments invite a structural question none answers from inside itself: *does the division recur across the senses, and if it does, what recurs?* The brain-side machinery does not recur—it is irreducibly modality-specific, with no shared substrate across V1, the cochlea, and the olfactory receptor code. The conscious/unconscious boundary, by contrast, carries a *common supramodal signature* that decodes across vision, hearing, and touch. That asymmetry—modality-specific brain machinery, a supramodal access signature the Map reads as the boundary of a mind-side contribution—is the new content. It is also, on the Map's own discipline, where a physicalist rival accounts for the same data, so the asymmetry sharpens the question rather than settling it.
 
 ## Five Statements of One Division
 
@@ -71,7 +71,7 @@ The second half of the finding is positive, and it is where the external evidenc
 
 This is the external grounding the recurrence claim needs. Without it, "the conscious/unconscious boundary recurs across the senses" would be a bare inductive generalisation over the Map's own articles. With it, there is a measured, modality-general signature of the transition into awareness. The conscious/unconscious boundary—the very threshold the per-modality articles each locate within their sense—appears to have a common neural signature regardless of which sense feeds it. The mind side is where the cross-modal commonality lives, exactly opposite to the modality-specific brain side.
 
-So the structural finding is an asymmetry: **modality-specific brain machinery, supramodal mind-side boundary.** That asymmetry is what generalising across the senses establishes—not the recurrence of a single divided mechanism, but the recurrence of a *boundary* fed by unrelated machinery. It is a more disciplined claim than "the division recurs," and it is content the five articles cannot voice from inside their own modality.
+The structural finding is an asymmetry: **modality-specific brain machinery, a supramodal access signature**—on the Map's reading, the mind-side boundary. That asymmetry is what generalising across the senses establishes: the recurrence of a *boundary* fed by unrelated machinery, not of a single divided mechanism. It is a more disciplined claim than "the division recurs," and one the five articles cannot voice from inside their own modality.
 
 ## The Inward Case That Inverts Both Terms
 
@@ -81,7 +81,7 @@ The asymmetry has so far been read off five exteroceptive and proprioceptive sen
 
 **The mind side changes type.** The positive half of the asymmetry was that a supramodal access *boundary* recurs while the mind-side *contribution* (phenomenal unity, ownership) varies. Interoception is the limiting case at the vivid-ownership end. Visceral states are barely presented as detached perceptual objects: a wave of nausea, the pang of hunger, the ache of cold characteristically arrive already valenced and already owned. The mind-side term does not merely recur weakly here—it changes type, from the phenomenal unity of a perceived object to the affective ground of subjecthood itself. Three predictive-processing literatures converge on this reframing: Seth's interoceptive-inference account treats felt emotion as active inference on visceral causes, with the embodied self as the high-precision portion (Seth, 2013); Barrett and Simmons's Embodied Predictive Interoception Coding model unifies allostatic regulation and felt experience in one predictive architecture (Barrett & Simmons, 2015); Park and Tallon-Baudry propose continuous visceral monitoring as a "neural subjective frame" from which first-person experience is generated (Park & Tallon-Baudry, 2014). On all three, interoception is the felt substrate *of* subjecthood, not content delivered to it. The mind-side "ownership" term the apex foregrounds is not faint here, as it is in smell; it is total.
 
-The sharpened statement is therefore: the asymmetry—modality-specific brain machinery, supramodal mind-side boundary—holds for the distance and proprioceptive senses; interoception inverts it, the brain side converging and the mind side becoming affect-and-ownership. The recurrence claim was never universal, and saying so precisely is stronger than asserting it everywhere. Interoception is the revealing exception that marks the edge of the regularity, and the apex's structural finding is the more honest for carrying its own scope condition.
+The sharpened statement is: the asymmetry—modality-specific brain machinery, a supramodal access signature the Map reads as mind-side—holds for the distance and proprioceptive senses; interoception inverts it, the brain side converging and the mind side becoming affect-and-ownership. The recurrence claim was never universal, and saying so precisely is stronger than asserting it everywhere. Interoception is the revealing exception marking the regularity's edge, and the structural finding is the more honest for carrying its own scope condition.
 
 The outward/inward partition this scope condition rests on is itself not a clean line. [[thermal-consciousness-and-the-interface|Thermoception]] is the boundary case: skin thermoreceptors report at once the temperature of the world (exteroceptive) and the body's own thermoregulatory state (interoceptive), carried by a single lamina I pathway to the insula (Crucianelli & Ehrsson, 2023; Craig, 2002). A modality genuinely both at once straddles the middle of the outward/inward axis rather than falling on either end, so the asymmetry runs as a gradient—exteroceptive at one pole, interoception-inverted at the other, thermal on the line. Per the [[common-cause-null|common-cause null]] this straddling eighth source does not strengthen the asymmetry claim, only locate its edge.
 
@@ -123,7 +123,7 @@ These disanalogies do not refute the structural finding; they calibrate it. What
 
 ## Synthesis
 
-Laying the five modality treatments beside the external evidence yields a claim none of them states and none could state alone. The capability division does recur across the senses—but what recurs is an asymmetry, not a single mechanism. On the brain side, nothing is shared: the machineries are unrelated solutions to unrelated transduction problems, so only the *form* of the brain-side labour recurs, never its substrate. On the mind side, the conscious/unconscious boundary carries a common supramodal signature that decodes across vision, hearing, and touch and even recruits the sensory cortex of irrelevant modalities. The cross-modal commonality lives entirely on the side opposite the machinery.
+Laying the five modality treatments beside the external evidence yields a claim none of them states and none could state alone. The capability division does recur across the senses—but what recurs is an asymmetry, not a single mechanism. On the brain side, nothing is shared: the machineries are unrelated solutions to unrelated transduction problems, so only the *form* of the brain-side labour recurs, never its substrate. The conscious/unconscious boundary, by contrast, carries a common supramodal signature that decodes across vision, hearing, and touch and even recruits the sensory cortex of irrelevant modalities. The commonality lies there, on what the Map reads as the mind side.
 
 That asymmetry comes with its own scope condition, and naming it is part of the finding. It holds for the distance and proprioceptive senses; turning the survey inward to interoception inverts both terms—the brain side converges within one shared allostatic-interoceptive system, the mind side becomes affect and ownership outright. So the asymmetry is an *exteroceptive* regularity with a revealing inward exception, not a universal law—with thermoception marking the line itself. The disciplined claim is sharper for carrying that boundary: the brain side recurs over senses with separate transducers and stops recurring exactly where the transducers feed a common hub. The vestibular sense marks the other edge—not an inversion but the asymmetry at its limit—and so the mind-side term resolves into a family rather than a single contribution.
 

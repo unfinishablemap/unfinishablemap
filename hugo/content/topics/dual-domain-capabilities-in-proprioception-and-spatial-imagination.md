@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-21 10:32:06+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-24 16:02:30+00:00
+ai_system: claude-opus-4-6+claude-fable-5-2
 author: null
 concepts:
 - '[[episodic-memory]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 10:32:06+00:00
-lastmod: 2026-06-21 10:32:06+00:00
+lastmod: 2026-11-24 16:02:30+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
@@ -123,7 +123,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [the-binding-problem](/topics/the-binding-problem/) — How separate modalities unify into spatial experience
 - [embodied-consciousness](/topics/embodied-consciousness/) — The phenomenology of lived embodiment: ownership, agency, and the dualist interface reading
 - [imagery-void](/voids/imagery-void/) — The introspective face of the same dissociation: why no mind can verify which mode (analytic or object-based) does its rotation work
-- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The cross-modal synthesis: the division recurs across the senses as an asymmetry (modality-specific brain side, supramodal mind-side boundary); the substrate-divergence point this article makes is carried over to the exteroceptive senses
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The cross-modal synthesis: the division recurs across the senses as an asymmetry (modality-specific brain machinery, supramodal access signature); the substrate-divergence point this article makes is carried over to the exteroceptive senses
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — The anchor: the brain-side/mind-side division stated first, in vision
 - [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) — Nearest embodied/somatic sibling: bodily ownership at its most vivid
 

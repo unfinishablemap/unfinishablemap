@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T15:34:11.617570+00:00'
-session_count: 25210
-cycle_position: 16082
+last_updated: '2026-11-24T16:00:50.145333+00:00'
+session_count: 25211
+cycle_position: 16083
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-24T04:23:33.697715+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-18T10:21:43.225222+00:00'
-  deep-review: '2026-11-24T12:25:41.139596+00:00'
+  deep-review: '2026-11-24T16:00:50.145333+00:00'
   embed-videos: '2026-11-24T14:02:15.324903+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
   harvest-research-subjects: '2026-11-24T13:01:40.827383+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 786
-  reviews_completed: 8513
+  reviews_completed: 8514
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-24'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-24'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-24'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/learning-void/
