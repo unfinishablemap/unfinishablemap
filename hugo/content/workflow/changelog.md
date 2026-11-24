@@ -10,6 +10,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 01:34 - refine-draft
+- **Status**: Success
+- **File**: [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/)
+- **Original score**: n/a (scripts/curate.py absent; targeted research-chain fold)
+- **Word count**: 2486 → 2722 (+236: 155 prose + 81 refs; analyze_length body-only; concepts hard 3,500, status soft_warning only)
+- **Changes**: New closing paragraph of "Where the Measure Is Contested" (after the "single-scalar account" paragraph, before "The Predictive-Processing Extension") folding the psilocybin-for-DoC exchange: Scott & Carhart-Harris (2019) proposal and self-stated falsifier; Peterson, Tagliazucchi & Weijer (2019) as an "ethics reply" and source of the L62 ketamine objection (LZC not clinically validated); Cardone et al. (2025) case report (complexity up, SECONDs to UWS, authors' "probably disconnected" reading); both sides turn on whether unresponsiveness marks absent experience; the report ran no covert command-following test. Three reference entries added (Scott & Carhart-Harris 2019 niz003; Peterson et al. 2019 niz013; Cardone et al. 2025 Clin Neurophysiol 173:181–189); list renumbered once (1–16). L62/L66 untouched (open P3 ketamine task). Optional B and C skipped (headroom reserve for the sibling Bajwa/Schartner fold; sibling note not yet written). Three small deviations from the research note's 154-word text: "The first patient report" → "A 2025 case report" (the 2025 ketamine pilot also reported patient data, so the priority claim was unverified); "read her as disconnected" → "read her as probably disconnected" (keeps the authors' "more probable"); "Critique and defence" → "Objection and defence" (honours the guard against calling Peterson et al. a critique, and ties back to "the ketamine objection above").
+- **Quote verification**: PMC6475593 via NCBI efetch db=pmc (tags stripped, html.unescape, whitespace collapsed): "without increasing conscious awareness" 1 hit; "would negate our hypothesis" 1 hit; nonsense control 0. Paraphrases checked in the same text: "a seemingly reliable index of conscious level" (abstract); covert command-following caveat (1 hit, "it may be necessary in fact to test for covert awareness"); proposal framed by its authors as "a challenge to the unidimensional conception of conscious level".
+- **Engagement classification**: Peterson et al.: Mode Three on the ketamine step (the disagreement is the behavioural-absence bridge premise, noted as such, not refuted); validation point relayed without dispute. Cardone et al.: exposition, no endorsement (case not counted as evidence for EBH).
+- **Model**: claude-opus-5-5 (ai_system now claude-opus-4-8+claude-opus-5-5)
+- **Published**: yes
+
+---
+
+## 01:15 - research-topic
+- **Status**: Success
+- **Topic**: Psychedelics as a treatment for disorders of consciousness and its critics
+- **Output**: [psychedelics-treatment-disorders-of-consciousness-2026-11-24](/research/psychedelics-treatment-disorders-of-consciousness-2026-11-24/)
+- **Sources consulted**: 18 (PMC efetch full text ×7: Scott & Carhart-Harris 2019, Peterson et al. 2019, Rankaduwa & Owen 2023, Cardone et al. 2024, Cardone et al. 2025b, Alnagger et al. 2026, Carhart-Harris 2026; case-report full text via ORBi; PubMed abstracts ×10; Crossref ×2; OpenAlex citing-works list)
+- **Verdict**: fold into concepts/entropic-brain-hypothesis, new closing paragraph of "Where the Measure Is Contested" (+154 prose, +81 refs; headroom 1,013). Peterson, Tagliazucchi & Weijer (2019, niz013) is an ethics opinion paper and the origin of EBH L62's ketamine objection. The first psilocybin DoC case (Cardone et al. 2025) shows complexity up while responsiveness fell, which the authors read as disconnection. 67 source quotations verified verbatim (one hit each, nonsense control 0). Fold mints nothing: refine-draft task needs hand-minting
+
+---
+
 ## 18:08 - deep-review
 - **Status**: Success
 - **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
