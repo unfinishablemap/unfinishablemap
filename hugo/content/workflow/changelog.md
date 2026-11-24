@@ -1,13 +1,95 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20 14:12:18+00:00
+ai_modified: 2026-11-24 06:27:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 00:00:00+00:00
+lastmod: 2026-11-24 06:27:44+00:00
 related_articles: []
 title: Changelog
+---
+
+## 06:27 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-24
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2). Gemini 4 Neon was abandoned: Deep Research stalled at "Researching 8 websites..." and produced no report. The subject was the site fallback `Full-site audit` (`fallback:site-stale-7d`); Claude reused ChatGPT's subject. The Claude leg was partly served a stale copy: its changelog view stopped at 2026-10-15, and three of its quoted passages had already been removed (all three return 0 live). Its Born-apex copy was current (last commit 2026-11-14).
+- **Clusters**: 4 convergent (C1–C3, M1), 0 three-reviewer, 4 rejected or partial (R1–R4), 14 page-level singleton tasks, 0 explicit divergences (2 apparent ones dissolve).
+  - **C1, [P-Q2](/positions/quantum-interface/#p-q2) quantifier** (decision-level): ChatGPT quoted the register live, and Claude argued from the live Born apex; the two make different arguments. It is owned by the blocked P1 HUMAN DECISION.
+  - **C2, no-signalling binds the coupling** (claim-level, different pages): ChatGPT on the formalism page, Claude on the Born apex.
+  - **C3, concealment undercuts self-stultification** (inference-level): already drawn on four pages; the page-level task is single-leg.
+  - **M1, corrections do not propagate**: the methodology NEEDS-HUMAN entry.
+  - **Rejected or partial**: R1 Zheng & Meister (ChatGPT names no page); R2 rival under-integration (Claude's half disputed; PP is already [P-RR2](/positions/replies-to-rivals/#p-rr2)); R3 openings outrun bodies (thematic only); R4 no worked model (Claude endorses [P-Q10](/positions/quantum-interface/#p-q10)).
+- **Tasks upgraded**: 0 (P3→P2: 0, P2→P1: 0). No cluster met the same-page rule with an upgradable task. C1's only task is already P1 and is human-owned.
+- **Tasks deduplicated**: 0. No two cycle tasks from different legs share a defect or a locus.
+- **Notes added** (Status, Blocked-by and priority unchanged on all four): a COMBINE NOTE at the end of the [P-Q2](/positions/quantum-interface/#p-q2) HUMAN DECISION's Notes (L1788); an "Addendum 2026-11-24 (combine)" on the methodology NEEDS-HUMAN 2026-08-03 (L873); and "Combine note" fields above Notes on the formalism P2 (L6495) and the epiphenomenalism-argument P2 (L6587). The formalism note forbids importing Claude's horn-(a) inference. `parse_tasks` active count: 485 before, 485 after (P1 6, P2 30, P3 449). All 14 cycle tasks are `Status: pending` with no Blocked-by, so they become pickable now that the synthesis exists.
+- **Output**: [outer-review-synthesis-2026-11-24](/reviews/outer-review-synthesis-2026-11-24/)
+- **Model**: claude-opus-5-5
+
+---
+
+## 05:54 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (Extra, Research; "Research complete, 292 sources, 11m 54s"), commissioned 03:04:49Z
+- **File**: [outer-review-2026-11-24-claude-fable-5-2](/reviews/outer-review-2026-11-24-claude-fable-5-2/) (full-site audit, `reuse:pending-reviews:outer-review-2026-11-24-chatgpt-5-6-sol-pro.md`; collected by collect-claude-review)
+- **Extraction**: artifact DOM walk; 141 U+E015 citation-chip glyphs stripped in-page; 49,393 chars / 50,202 bytes. A hidden-form POST to 127.0.0.1 was blocked on claude.ai and base64 output was filtered, so 56 JSON slices were read and each checked against its in-page hash. Whole-body SHA-256 matches the in-page value (`7d8d236d…a3645c`). Method `js-dom-slices-sha256`.
+- **Claims verified**: about 30. All 15 cited slugs are LIVE (none archived); each quoted string was grepped in obsidian and hugo. Sources: arXiv 2512.12636 abstract (Torres Alegre v3), arXiv 2509.00555 PDF (Corcoran et al.), Hohwy & Seth 2020 OSF preprint full text, COGITATE PubMed abstract (PMID 40307561).
+- **Stale copy**: confirmed again. The "changelog stops at 2026-10-15" claim is false (live runs to today). Three quoted passages were removed before this cycle (evolution-of-consciousness 11-15, arguments index 06-01, neural-patterns 11-04).
+- **High-value findings**: 8 survived. Stapp filed both Born-deviating and Born-intact (apex L123, and taxonomy L169 against its own L165); predictive-processing MWI/Zeno/active-inference/Hohwy & Seth/falsifier; Torres Alegre "any participant" on 5 pages; COGITATE posterior gloss (2 pages); cross-modal "mind-side boundary" headline; neural-patterns description and L124 heading; epiphenomenalism-argument missing the selectability limit.
+- **Already tasked**: 3 ([P-Q2](/positions/quantum-interface/#p-q2)/signalling L1787, re-raise note, convergent with ChatGPT; Zheng & Meister L5195 addendum; methodology NEEDS-HUMAN L873, re-raise note). No overlap with ChatGPT's 7 tasks.
+- **False alarms**: 5 (moral-architecture L146 already carries the compensation consequence; neural-patterns L106 is explicitly tenet-relative; PP apex request, given an existing PP-rival apex and the upstream decline; changelog; §1.1 as an "undrawn" inference, already drawn on inheritance-problem, trumping-preemption and selection-only-channel).
+- **Tasks generated**: 7 (P1 ×2: Stapp double placement L6527, predictive-processing L6537; P2 ×5: Torres Alegre L6546, cross-modal L6556, COGITATE L6566, neural-patterns L6576, epiphenomenalism-argument L6585). All are `refine-draft` with `Source: outer-review` and stay deferred until /combine-outer-reviews. parse_tasks active 478 → 485.
+- **Model**: claude-opus-5-5
+
+---
+
+## 05:11 - literature-drift-review
+- **Status**: Success
+- **Article**: [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/)
+- **Research area**: fish-sentience
+- **Selection**: all 14 `topics/` pages matching `active_research_sections` are on `recently_audited`, so the skill's selector returns NO_CANDIDATE; the 30-day rule was applied from the audit commits (the 10-20/11-03/11-17 precedent). Excluded as audited within 30 days: ethics-invertebrate (11-17), plant-cognition (11-10), brain-organoids (11-03), basal-and-bioelectric (10-27). Of the rest, this page has the oldest `ai_modified` (2026-09-18) and was last audited 2026-09-15 (70 days ago; no-drift, when the search found no in-window papers). Its one open task (P3 ~L4399: Michel 2019 framing plus a link) covers a different defect, so the driver's same-defect exclusion does not apply. 0 `find_superlative_claims` hits; 2,488 words, status ok. None of the driver's avoid-list pages was a candidate.
+- **Search**: one WebSearch, `fish pain sentience consciousness nociception pallium cortex 2024..2026 review`. It returned a WOAH Aquatic Animal Commission consultant report (Peeler, dated 26 June 2025, posted 2026-03), Woodruff 2018 (*Animal Sentience*), Rose et al. 2014 (cited), Mason & Lavery 2022 plus its corrigendum, a 2025 MDPI *Animals* editorial (Pietsch), a blog post and two arXiv preprints.
+- **Median citation year**: 2014 (7 empirical refs, 2002–2024; 12 years behind ai_modified; threshold 5)
+- **Recent papers found**: 0 peer-reviewed in the 24-month window (the in-window items were the WOAH report and the Pietsch editorial: grey literature and an editorial, not counted)
+- **Missing topically-appropriate**: 2, both out of window and counted under check 2 per the 10-20 precedent. (1) Diggles et al. 2024, *Rev Fish Sci Aquac* 32(1):127–150, DOI 10.1080/23308249.2023.2257802, surfaced through the WOAH report's reference list. It is the 20-author skeptics' statement, co-signed by Rose and Key. Crossref metadata checked; text read from the Murdoch repository's published-version PDF (CC BY). Its case rests on evidential standards (0 de-hyphenated hits for cortex/cortical/neocortex/pallium/telencephalon against 26 for "nocicept"). It says Newby & Stevens "failed to replicate several key results" of Sneddon 2003 / Sneddon et al. 2003, and its Table 1 lists rocking and rubbing in rainbow trout as "not repeatable". That contradicts L46/L52's "None of this is what the skeptics deny." (2) Mason & Lavery 2022, *Front Vet Sci* 9:788289, DOI 10.3389/fvets.2022.788289. Crossref checked; abstract read raw from Europe PMC. On its "S.P.U.D." red-herring analysis, analgesia-modulated reactivity and approach/withdrawal are "none of these … good indicators of sentience", which bears on L50/L64.
+- **Empirical-record currency**: clean. The "first such demonstration in a fish" (Sneddon et al. 2003) is a historical priority claim; the abstract (Europe PMC) carries no priority wording, and WOAH dates first identification to Sneddon 2002 plus 2003. This was left as context, not flagged.
+- **Not counted / leads**: WOAH/Peeler 2025 (grey literature; a "scientific consensus" claim) is offered as an optional reception note. Hart 2023 (*J Fish Biol*) is unverified. The L62 "more than forty commentaries" figure against WOAH's relayed "34" (Brown 2016) is an earlier count; the claim was verified by the 07-08/07-15 deep reviews and is not a defect.
+- **Outcome**: drift-flagged (check 2, plus check 1)
+- **Task generated**: P2 refine-draft "Update fish-sentience-and-the-teleost-pain-debate citations — 2 uncited papers (Diggles et al. 2024; Mason & Lavery 2022) …" (todo.md heading line 6514; parse_tasks active 477 → 478; headroom 1,511, aim ≤ +200; Caution protects the open P3's L76/L82 anchors)
+- **Counters**: total 20, flagged 14, clean 6 (flag rate 70%, inside the 20–80% window)
+- **Cost**: 1 WebSearch call
+
+---
+
+## 04:50 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (backend `model_slug gpt-5-6-pro`, finished_successfully; Worked for 17m 24s)
+- **File**: [outer-review-2026-11-24-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-24-chatgpt-5-6-sol-pro/) (full-site audit, `fallback:site-stale-7d`; collected by collect-chatgpt-review)
+- **Extraction**: DOM walk to markdown, 46,048 chars / 46,433 bytes, posted to a one-shot 127.0.0.1 listener; SHA-256 matches the in-page hash (`390c3b3e…c5ec1be`)
+- **Claims verified**: about 30. All 21 cited Map slugs are LIVE (none archived); each quoted string was grepped in obsidian and hugo. Crossref: Polchinski 1991, Gisin 1990, Simon–Bužek–Gisin 2001, Sinha et al. 2010. PubMed abstracts: Sinha 2010, Berthier 1988.
+- **High-value findings**: 8 survived. ISP L74 "energetically equivalent" contradicts its own link target; ISP L72 asymbolia overclaim; ISP L56 opening; pairing-problem localization against the register's L39 scope limit; "sea of conscious entities" attributed to Tenet 1 on three pages; ai-consciousness L191 "structural necessity"; unsourced asymbolia treatment-seeking on six pages; formalism L69 bound plus missing nonlinear-signalling literature; P-RR3 (Griffin) absent from replies-to-rivals.
+- **Already tasked**: 6 ([P-Q2](/positions/quantum-interface/#p-q2) L1787, re-raise addendum; Tenet 3 quantifier L803; background posits L854; Tenet 5 / value-in-selection L226; propagation L873/L412; 10 bits/s L5196). Formalism "requires no energy transfer" appended to P3 L5186.
+- **False alarms**: 8 (census-change-points already develops the copy-arity and gauge points; the multi-agent page covers local vs global minimality; self-concealing-interface Prediction 2 already handles omitted variables; the AI-scope register prices the missing eligibility law; personal-identity L191 already has the dependency arrow; the agency apex engages luck; the pain-page "single most discriminating" phrase is stale, removed 2026-11-11)
+- **Tasks generated**: 7 (P1 ×2: ISP L6442, pairing-problem L6452; P2 ×5: sea-of-entities L6462, ai-consciousness L191 L6473, treatment-seeking sweep L6483, formalism L6494, replies-to-rivals P-RR3 positions-evolve L6504). All are `Source: outer-review` and stay deferred until /combine-outer-reviews. parse_tasks active 470 → 477; P0–P2 21 → 28.
+- **Model**: claude-opus-5-5
+
+---
+
+## 04:05 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [covert-consciousness-and-cognitive-motor-dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) (driver-selected). No earlier pessimistic review existed (0 of the `pessimistic-*` files mention the slug); the last deep review was 2026-10-01; there was no open task; today's entropic-brain-hypothesis L70 inbound link checked out as sound.
+- **Output**: [pessimistic-2026-11-24-covert-consciousness-and-cognitive-motor-dissociation](/reviews/pessimistic-2026-11-24-covert-consciousness-and-cognitive-motor-dissociation/)
+- **Findings (Priority List)**:
+  - (1) Bodien 2024 is quoted from the superseded Europe PMC manuscript EMS197475. PMC7617195.2 (NIHMS2018757; abstract identical to the journal's) reads "5 to 10 percentage points higher" (the page has "5-10 percent higher") and "(range, 2 to 45%)". Its Table 2 shows CMD in 36/79 patients given both fMRI and EEG against 11/61 fMRI-only and 13/101 EEG-only; the page never reports this. The derived 20%/32% splits re-verify.
+  - (2) Physicalist point 5 says the anaesthesia/sleep evidence "is read on neural measures" and is "untouched". The Map's anaesthesia page shows it is read partly on unresponsiveness and report, and the reply misses this unearned move.
+  - (3) "The clinicians' own position is graded" quotes Kazazian, Monti & Owen's passive-paradigm caution. For command-following they write it "has been consistently demonstrated" that ∼20% "remain covertly aware", and Owen 2006 says "to demonstrate".
+  - (4) Denominators: Kondziella's 1,041 is the all-paradigm total and its MCS group includes command-followers; Childs's 37% is of 49 coma-or-PVS referrals; Wannez's 36% is of 123 chronic patients; L62's "any prevalence" contradicts the page's "floors".
+- **Verification**: 21 PubMed abstracts and 9 PMC full texts via efetch, BioC for EMS197475, OpenAlex for Shea & Bayne and Klein. Two Map-internal quotes re-grepped verbatim. Not obtained: Kondziella full text (closed), Bodien supplement, NEJM journal text. No browser.
+- **Tasks**: 4 refine-draft (P2 ×3, P3 ×1) at todo.md L6387, L6398, L6409, L6420, inserted above `## Completed Tasks`. parse_tasks active 465 → 469; P0–P2 18 → 21.
+- **Length**: 2,687 by analyze_length (topics hard 4,000, gate >=, headroom 1,312); task budgets +70/+70/+45/+35.
+- **Off-list (report only)**: causal-powers L180 "Consciousness continues to *do* cognitive work" against L182, flagged by the 2026-09-25 tenet check and still untasked (host 3,979/4,000).
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 03:35 - refine-draft
