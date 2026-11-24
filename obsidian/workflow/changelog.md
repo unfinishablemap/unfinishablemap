@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T07:21:37+00:00
+ai_modified: 2026-11-24T08:11:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 08:10 - deep-review
+- **Status**: Success
+- **File**: [[voids/observation-and-measurement-void]]
+- **Trigger**: driver-selected verbatim-quotation pass (coalesced void built from February research notes; same pattern as [[reviews/deep-review-2026-11-24-disappearance-voids]])
+- **Word count**: 2978 → 2970 (−8; voids hard 3,000, soft_warning)
+- **Critical issues addressed**: 11. These were: James "retrospection" (not his term; the memory route is Mill's and Brentano's); "a better observer" (paraphrase in quote marks); "altered my experience" (2008 → 2011); "considerably less reliable…" (paraphrase in quote marks); "negative pluralism" (not his label); "shifting confluence" (*Perplexities* → "Introspection, What?" 2012); Alston "benign"/public-access (misattributed; IEP gives a reliabilist answer); Brentano named as originator (Comte); dream colour tied to television (Schwitzgebel: film tracks better); caesium wavelength → frequency; mutation-void and dissolution claims had drifted past their targets' qualifiers
+- **Medium issues addressed**: 8 (Cerullo causal link; Levine, Varela and constitutive-exclusion claims labelled as Map readings; pain "meaningless" → "unreliable"; Irvine "shows" → "holds"; "is not X. It is Y" cliché; Casali cited inline)
+- **Enhancements made**: 2 (Brentano's own anger example; Schwitzgebel 2012 reference added)
+- **Reasoning mode**: Michel/McKilliam is Mode Three with a Mode-Two element, unchanged. Alston was re-cast from a refutation of a misattributed defence to a report of his reliabilist answer plus the Map's own asymmetry argument (Mode Three)
+- **Not obtained**: Michel 2021, Irvine 2012, Alston 1986, printed *Perplexities*/JCS 2004 (see review Method)
+- **Output**: [[reviews/deep-review-2026-11-24-observation-and-measurement-void]]
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 07:21 - refine-draft
