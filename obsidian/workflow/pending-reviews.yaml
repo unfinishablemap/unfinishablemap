@@ -58,10 +58,17 @@
   commissioned_at: '2026-11-24T04:21:37.293908+00:00'
   prompt_summary: 'Full-site audit: hostile-referee pass on empirical claims, citations'
   target_filename: outer-review-2026-11-24-gemini-4-neon.md
-  status: pending
+  status: abandoned
   collect_attempts: 0
-  last_attempt_at: null
-  failure_reason: null
+  last_attempt_at: '2026-11-24T06:06:06.155347+00:00'
+  failure_reason: 'research stalled at its first stage: at 06:05Z 2026-11-24 (~1h44m
+    after commission; the 11-19 and 11-20 gemini-4-neon legs were ready in 60-80 min)
+    the panel still read ''Researching 8 websites...'' (all 8 unfinishablemap.org
+    index pages), the thinking log held only its first two steps (''Navigating Site
+    Restrictions'', ''Exploring Core Framework''), the Stop button was live and there
+    were zero h1 report panels. Unchanged across three full page loads and ~4 min
+    of polling. Not resubmitted. A third hang shape, distinct from the 10-28/11-10
+    Creating-your-report hang.'
   prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
     \ journal (e.g., Mind, Synthese, Philosophical Studies), auditing the articles\
     \ of The Unfinishable Map at https://unfinishablemap.org as a body of submitted\

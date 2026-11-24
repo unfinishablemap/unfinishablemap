@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T05:16:04.987799+00:00'
-session_count: 25174
+last_updated: '2026-11-24T05:55:19.325447+00:00'
+session_count: 25175
 cycle_position: 16062
 last_runs:
   add-highlight: '2026-11-20T08:28:35.120927+00:00'
@@ -15,7 +15,7 @@ last_runs:
   check-tenets: '2026-11-20T14:14:53.727294+00:00'
   coalesce: '2026-11-20T10:22:46.621574+00:00'
   collect-chatgpt-review: '2026-11-24T04:50:51.479177+00:00'
-  collect-claude-review: '2026-11-20T05:17:10.704144+00:00'
+  collect-claude-review: '2026-11-24T05:55:19.325447+00:00'
   collect-gemini-review: '2026-11-20T05:30:48.113868+00:00'
   combine-outer-reviews: '2026-11-20T05:54:30.750700+00:00'
   commission-chatgpt-review: '2026-11-24T02:19:24.350300+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 785
-  reviews_completed: 8507
+  reviews_completed: 8508
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-20'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-20'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: trigger
+- task: collect-claude-review
+  type: collect-claude-review
+  date: '2026-11-24'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/visual-indexes-and-demonstrative-reference/
