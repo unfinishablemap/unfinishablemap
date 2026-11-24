@@ -5,6 +5,17 @@ ai_modified: 2026-11-20 14:12:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 02:50 - research-topic
+- **Status**: Success
+- **Topic**: Neural complexity measures versus reported experience within one anaesthetic or psychedelic state
+- **Output**: [[research/complexity-measures-versus-reported-experience-2026-11-24]]
+- **Sources consulted**: 27 (PMC full text 14; PubMed/OpenAlex abstracts 12; Imperial 2017 press release 1; Crossref metadata for 16)
+- **Verdict**: `recommended_action: fold` → `concepts/entropic-brain-hypothesis`, new closing paragraph of "Where the Measure Is Contested" after the L70 case-report paragraph (143 prose + 78 refs = 221 words; sequence AFTER the open L62/L66 refine-draft). Topics and concepts at cap (370/370).
+- **Key findings**: "higher state of consciousness" has 0 hits in Schartner et al. (2017a), which hedges "higher" itself; the framing is the 19 April 2017 Imperial press release, later quote-marked to the paper by Rankaduwa & Owen (2023). Schartner's ketamine LZc data (the LZc half of EBH L62) come from awake volunteers whose complexity changes correlated positively, in exploratory analyses, with reported vividness and ego dissolution. Within-state: Bajwa et al. (2025) propofol null is underpowered (5 no-experience reports); Aamodt et al. (2021/2023) NREM2 nulls and failed self-replication; Nieminen et al. (2016) evoked bistability positive (not PCI); Lewis-Healey et al. (2026) LZc the weakest DMT correlate; Casey et al. (2024) no marker specific to reported experience apart from connectedness.
+- **Model**: claude-opus-5-5
+
+---
+
 ## 02:10 - deep-review
 - **Status**: Success
 - **File**: [[voids/disappearance-voids]]
