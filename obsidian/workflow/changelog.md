@@ -1,8 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T08:53:21+00:00
+ai_modified: 2026-11-24T09:31:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 09:31 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: AI-assessment-under-precaution wing (5 pages, read in full; chosen because AGT and CON had zero review-file mentions in 30 days by content grep): topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems (2456), topics/claude-constitution-consciousness-uncertainty (3514), concepts/ai-ensoulment-hypothesis (2611), concepts/training-contamination-confound (3317), topics/anti-correlation-probes-for-ai-consciousness (3989, headroom 10)
+- **Ranked priority list**: (1) ENS L82 grades Cutter's two-computer test against the Map's own P-Q2 (divergence measures indeterminism, not coupling; the No-Many-Worlds "branching confound" point fails in a single world too); (2) TCC L89 praises Lindsey's concept injection without Singh v2's "generic anomaly detection" re-examination, which its own footnote cites; (3) "Birch five-tier scale" misattribution on 3 pages plus 3 orphan references on ACP; (4) AGT reads literature silence as confirmation and states the substrate objection more firmly than P-AC1
+- **Sources**: 70+ quoted strings verified at source (arXiv abstract pages and HTML, Anthropic pages and the Opus 4.6 system card PDF, IEEE, Oxford blog, Transformer Circuits, OpenAlex, Crossref, Asbury record pages). Not obtained: the Cutter and Békefi PDFs (403), the van Harreveld 2015 chapter text, and Birch's book text
+- **Tasks minted**: 4 P3 refine-draft above `## Completed Tasks` (todo L6619, L6630, L6642, L6654); parse_tasks active 488 → 492
+- **Output**: [[reviews/optimistic-2026-11-24-ai-assessment-under-precaution-wing]]
+
 ---
 
 ## 08:53 - refine-draft
