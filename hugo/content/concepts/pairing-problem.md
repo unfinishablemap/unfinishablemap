@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-11 22:51:18+00:00
+ai_modified: 2026-11-24 07:21:04+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:01:13+00:00
-lastmod: 2026-11-11 22:51:18+00:00
+lastmod: 2026-11-24 07:21:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [mind-body interaction](/concepts/interactionist-dualism/) unintelligible. This is distinct from the [causal-closure](/concepts/causal-closure/) objection and potentially more fundamental. The Unfinishable Map's [brain-interface-boundary](/concepts/brain-interface-boundary/) framework constrains a candidate response: consciousness is spatially located where its quantum interface operates, and developmental co-construction explains why the coupling stays specific to one brain, though the pairing law itself is owed ([P-SC2](/positions/subject-census/#p-sc2)).
+The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [mind-body interaction](/concepts/interactionist-dualism/) unintelligible. This is distinct from the [causal-closure](/concepts/causal-closure/) objection and potentially more fundamental. The Unfinishable Map's [brain-interface-boundary](/concepts/brain-interface-boundary/) framework constrains a candidate response: the coupling is local to one brain's quantum processes, and developmental co-construction explains why it stays specific to that brain, though the pairing law itself is owed ([P-SC2](/positions/subject-census/#p-sc2)).
 
 ## The Problem Stated
 
@@ -112,13 +112,13 @@ If any of these succeed, the pairing problem loses force. The dualist can say: m
 
 ## The Map's Position
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework constrains a candidate response to the pairing problem: consciousness is spatially located where it causally interfaces with the brain.
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework constrains a candidate response to the pairing problem: that consciousness is spatially located where it causally interfaces with the brain.
 
-If consciousness influences quantum outcomes in specific neural structures (microtubules, synapses, or other quantum-sensitive regions), consciousness is located *where those structures are*.
+If consciousness influences quantum outcomes in specific neural structures (microtubules, synapses, or other quantum-sensitive regions), the *coupling* is located where those structures are. A local coupling does not entail a located subject, and the Map's interface positions carry no localization claim, a gap, not a denial ([scope limit](/positions/quantum-interface/#about-this-domain)).
 
-This combines elements of multiple responses:
+The candidate combines elements of multiple responses:
 
-1. **Spatial location**: Consciousness is in the brain, which addresses the synchronic question of what makes interaction possible.
+1. **Spatial location**: The coupling is in the brain; locating consciousness there too would address the synchronic question of what makes interaction possible.
 
 2. **Causal specification**: The causal interface manifests the pairing—M1 causally affects B1's quantum processes specifically—but cannot ground it without the circle noted under Response 1; and since the same subject returns after the interface lapses under anaesthesia ([P-SC3](/positions/subject-census/#p-sc3)), the pairing is a standing relation.
 
@@ -126,7 +126,7 @@ This combines elements of multiple responses:
 
 The response is only as complete as the interface's address: saying that M1 affects B1's quantum processes *specifically* presupposes that B1 is a well-defined quantum subsystem, and in Hilbert space which subsystem is the subject's depends on a chosen tensor-product factorisation, so the [quantum factorisation problem](/concepts/quantum-factorisation-problem/) is Kim's "which body" question in that form, and the Map books the answer it still owes as [P-SC2](/positions/subject-census/#p-sc2) rather than reading the interface as having supplied it.
 
-The [decoherence](/concepts/decoherence/) objection—that quantum coherence cannot persist in warm brains—is addressed elsewhere. The pairing response needs only that consciousness be spatially located at its interface, whether coherence persists or consciousness selects among decohered outcomes.
+The [decoherence](/concepts/decoherence/) objection—that quantum coherence cannot persist in warm brains—is addressed elsewhere. The pairing response needs only that the coupling be local, whether coherence persists or consciousness selects among decohered outcomes.
 
 ## The Illusionist Challenge
 
@@ -170,7 +170,7 @@ The Map remains neutral between substance and property dualism, but the quantum 
 
 The pairing problem is central to the Map's framework because answering it requires specifying the mind-body interface with precision.
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness influences quantum outcomes without adding energy. This requires consciousness to be *somewhere*—specifically, where the quantum interface operates. The pairing problem thus motivates the spatial location response: consciousness is in the brain because that's where the selection mechanism functions.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness influences quantum outcomes without adding energy. This requires a coupling to quantum outcomes in the brain, but not that consciousness itself be located there. The pairing problem still motivates the spatial location response, one candidate the Map has not registered ([scope limit](/positions/quantum-interface/#about-this-domain)).
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires that consciousness causally affects physical outcomes. The pairing problem asks how *this* consciousness affects *this* brain rather than another. The Map's candidate answer: interface locality and developmental co-construction. The pairing's *specificity* is built; its ground is owed ([P-SC2](/positions/subject-census/#p-sc2)).
 

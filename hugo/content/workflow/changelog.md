@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 07:06:29+00:00
+ai_modified: 2026-11-24 07:21:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 07:06:29+00:00
+lastmod: 2026-11-24 07:21:37+00:00
 related_articles: []
 title: Changelog
+---
+
+## 07:21 - refine-draft
+- **Status**: Success
+- **File**: [pairing-problem](/concepts/pairing-problem/)
+- **Source**: outer review 2026-11-24 (ChatGPT 5.6 Sol Pro full-site audit) §4.2 (High), improvement 8 ([outer-review-2026-11-24-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-24-chatgpt-5-6-sol-pro/)). This is one instance of the register-to-article propagation family (todo P2 NEEDS HUMAN APPROVAL); that system question stays with the operator.
+- **Original score**: n/a (`scripts/curate.py` absent); calibration pass against `positions/quantum-interface` L39 ("Scope limit — no spatial localization … a gap rather than a denial … none is currently registered"), re-grepped live before quoting.
+- **Changes**: the page now separates a spatially local physical coupling from a spatially located non-physical subject. It presents the subject's location as a candidate the Map has not registered, and denies neither. The scope limit is cited twice as `[[positions/quantum-interface#About this domain|scope limit]]`.
+  - L34 (lead; this is the reviewer's verbatim quotation, which the driver's loci list missed): "consciousness is spatially located where its quantum interface operates, and developmental co-construction explains why the coupling stays specific to one brain" → "the coupling is local to one brain's quantum processes, and developmental co-construction explains why it stays specific to that brain". "constrains a candidate response" and [P-SC2](/positions/subject-census/#p-sc2) are kept.
+  - L111: "…to the pairing problem: consciousness is spatially located…" → "…: that consciousness is spatially located…" (stated as the candidate's content, not asserted).
+  - L113: "consciousness is located *where those structures are*" → "the *coupling* is located where those structures are", plus "A local coupling does not entail a located subject, and the Map's interface positions carry no localization claim, a gap, not a denial (scope limit)."
+  - L115, pronoun: "This combines" → "The candidate combines" (the "This" would otherwise attach to the new gap sentence).
+  - L117: "Consciousness is in the brain, which addresses the synchronic question" → "The coupling is in the brain; locating consciousness there too would address the synchronic question".
+  - L125: "needs only that consciousness be spatially located at its interface" → "needs only that the coupling be local".
+  - L169: "This requires consciousness to be *somewhere*—specifically, where the quantum interface operates. … consciousness is in the brain because that's where the selection mechanism functions." → "This requires a coupling to quantum outcomes in the brain, but not that consciousness itself be located there. The pairing problem still motivates the spatial location response, one candidate the Map has not registered (scope limit)."
+  - Untouched: L73, L121 and L163 (owned by the open P3), the 2026-10-31 grade (constrains a candidate response; [P-SC2](/positions/subject-census/#p-sc2) owed; [P-SC3](/positions/subject-census/#p-sc3)), the 2026-10-28 Bailey/Rasmussen/Van Horn sourcing, the Kim and Hasker/Zimmerman material at L67–L73, and `last_deep_review`. `ai_system` already contains claude-opus-5-5, so nothing was appended.
+  - Out of scope, report only: L121's "Accepting spatial location doesn't reduce mind to matter … consciousness can be spatially located" presupposes the acceptance that L117 now makes conditional. It is a modal possibility claim rather than an assertion, so it is a milder relative of this defect. It is left to the P3 to recast conditionally ("If consciousness is located, …") when that task fixes the field analogy.
+- **Length**: 3,361 → 3,398 (+37; concepts hard 3,500; soft_warning)
+- **Reasoning mode**: n/a (no named-opponent engagement edited; calibration only)
+- **Published**: yes
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 07:05 - refine-draft
