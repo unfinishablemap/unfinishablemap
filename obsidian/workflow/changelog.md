@@ -1,8 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T06:27:44+00:00
+ai_modified: 2026-11-24T07:06:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 07:05 - refine-draft
+- **Status**: Success
+- **File**: [[apex/interface-specification-programme]]
+- **Source**: outer review 2026-11-24 (ChatGPT 5.6 Sol Pro full-site audit) §4.3, §4.4, §4.7; improvements 6, 7, 11 ([[reviews/outer-review-2026-11-24-chatgpt-5-6-sol-pro]])
+- **Original score**: n/a (`scripts/curate.py` absent); calibration pass
+- **Changes**:
+  - (1) Conservation, L74: "all influence flows through selection among energetically equivalent quantum alternatives" → "selection among energy-degenerate alternatives is the clearest case, but in general conservation must hold in expectation, a compatibility no worked model yet demonstrates" (link kept). This is now graded to the linked conservation page and to formalism L73.
+  - (2) Asymbolia, L72: "provides the cleanest natural test … the quale carries causal weight the sensory signal alone does not" → "constrains this claim without establishing it … losing the affective signal degrades avoidance whether or not felt awfulness does causal work of its own". This is the grade of `topics/pain-consciousness-and-causal-power` L132. The parenthesis "(guarding, treatment-seeking, avoidance learning)" was replaced with the Berthier et al. (1988) abstract's terms: lack of withdrawal, absent or inadequate emotional responses, and seeming inability to learn escape or protective responses. The terms were re-verified via PubMed efetch, PMID 3415199, on 2026-11-24, and treatment-seeking is absent from the abstract. No in-text citation was added because of the length gate; the linked `pain-asymbolia` page carries the reference.
+  - (3) Opening, L56, item TAKEN: "one whose constraints are precise enough to be tested and to be wrong … honest enough to mark …" → "All six share the Map's tenets, so their convergence shows coherence, not independent confirmation. Together they form a research programme: a constraint schema awaiting a worked model." This now agrees with L153 and L157.
+  - Sibling fixes. L159 "offers something more honest: a specification precise enough to be wrong" → "parts of it are precise enough to be wrong". L171 "Energy conservation would need … exactly energy-degenerate" → "Per-trial energy conservation …", so that it agrees with the new L74.
+  - Length offset: L163 dropped its restating sentence "What it offers is incomplete, but with identified parameters, testable constraints, and clear next steps."
+  - Untouched: L146 (reserved), the trumping paragraph (held for an operator decision), and every linked page.
+- **Length**: 5,106 → 5,096 (apex hard 5,000; still hard_warning)
+- **Reasoning mode**: n/a (no named-opponent engagement edited; calibration only)
+- **Published**: yes
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 06:27 - combine-outer-reviews
