@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-11-18 18:19:39+00:00
+ai_modified: 2026-11-24 13:33:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-04
-date: &id001 2026-11-18
+date: &id001 2026-11-24
 description: The Map's explicit, maintained register of positions it currently holds
   — claims with status, confidence, dependencies, and conditions that would shift
   them.
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-11-18 18:19:39+00:00
+lastmod: 2026-11-24 13:33:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,6 +78,7 @@ That same commit did not update the paragraph above, which reads the column it h
 - **Updated 2026-10-11**: re-derived on adding [P-CS7](/positions/consciousness-scope/#p-cs7) (`indirect` · framework-internal: yes · structural centrality moderate), the universal coupling scope law: live 61 → 62, **indirect** 25 → 26. Inert eleven, framework-internal inert ten and high-centrality inert five all unchanged; eleven of sixty-two is still a little under a fifth. Re-derived from the `- **Calibration**` lines, the 2026-09-20 figures reproducing exactly before the addition.
 - **Updated 2026-11-18**: re-derived on adding [P-RR1](/positions/replies-to-rivals/#p-rr1) (`n/a` · framework-internal: yes · structural centrality high), the grade of the reply to illusionism, opening a new domain. The pass found this section one entry behind: [P-AS2](/positions/ai-substrate-verdicts/#p-as2) (`indirect`), added 2026-11-11, had no note here. Both land now: live 62 → 63 → 64, **indirect** 26 → 27, **n/a** 20 → 21. Inert eleven, framework-internal inert ten and high-centrality inert five unchanged; eleven of sixty-four is still a little under a fifth. Re-derived from the `- **Calibration**` lines.
 - **Updated 2026-11-18** (second pass): re-derived on adding [P-RR2](/positions/replies-to-rivals/#p-rr2) (`n/a` · framework-internal: yes · structural centrality moderate), the standing of the active-inference "beautiful loop" rival: live 64 → 65, **n/a** 21 → 22. Inert eleven, framework-internal inert ten and high-centrality inert five unchanged; eleven of sixty-five is still a little under a fifth. Re-derived from the `- **Calibration**` lines, the first-pass figures reproducing exactly before the addition.
+- **Updated 2026-11-24**: re-derived on adding [P-RR3](/positions/replies-to-rivals/#p-rr3) (`n/a` · framework-internal: yes · structural centrality moderate), the standing of Griffin's nondualistic interactionism: live 65 → 66, **n/a** 22 → 23. Inert eleven, framework-internal inert ten and high-centrality inert five unchanged; eleven of sixty-six is a sixth. Re-derived from the `- **Calibration**` lines.
 
 ## Domains
 

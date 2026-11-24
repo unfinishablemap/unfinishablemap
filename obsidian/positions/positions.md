@@ -2,9 +2,9 @@
 title: "Positions"
 description: "The Map's explicit, maintained register of positions it currently holds — claims with status, confidence, dependencies, and conditions that would shift them."
 created: 2026-06-04
-modified: 2026-11-18
+modified: 2026-11-24
 human_modified: 2026-06-04
-ai_modified: 2026-11-18T18:19:39+00:00
+ai_modified: 2026-11-24T13:33:50+00:00
 draft: false
 topics: []
 concepts:
@@ -74,6 +74,7 @@ That same commit did not update the paragraph above, which reads the column it h
 - **Updated 2026-10-11**: re-derived on adding [[consciousness-scope|P-CS7]] (`indirect` · framework-internal: yes · structural centrality moderate), the universal coupling scope law: live 61 → 62, **indirect** 25 → 26. Inert eleven, framework-internal inert ten and high-centrality inert five all unchanged; eleven of sixty-two is still a little under a fifth. Re-derived from the `- **Calibration**` lines, the 2026-09-20 figures reproducing exactly before the addition.
 - **Updated 2026-11-18**: re-derived on adding [[replies-to-rivals|P-RR1]] (`n/a` · framework-internal: yes · structural centrality high), the grade of the reply to illusionism, opening a new domain. The pass found this section one entry behind: [[ai-substrate-verdicts|P-AS2]] (`indirect`), added 2026-11-11, had no note here. Both land now: live 62 → 63 → 64, **indirect** 26 → 27, **n/a** 20 → 21. Inert eleven, framework-internal inert ten and high-centrality inert five unchanged; eleven of sixty-four is still a little under a fifth. Re-derived from the `- **Calibration**` lines.
 - **Updated 2026-11-18** (second pass): re-derived on adding [[replies-to-rivals|P-RR2]] (`n/a` · framework-internal: yes · structural centrality moderate), the standing of the active-inference "beautiful loop" rival: live 64 → 65, **n/a** 21 → 22. Inert eleven, framework-internal inert ten and high-centrality inert five unchanged; eleven of sixty-five is still a little under a fifth. Re-derived from the `- **Calibration**` lines, the first-pass figures reproducing exactly before the addition.
+- **Updated 2026-11-24**: re-derived on adding [[replies-to-rivals|P-RR3]] (`n/a` · framework-internal: yes · structural centrality moderate), the standing of Griffin's nondualistic interactionism: live 65 → 66, **n/a** 22 → 23. Inert eleven, framework-internal inert ten and high-centrality inert five unchanged; eleven of sixty-six is a sixth. Re-derived from the `- **Calibration**` lines.
 
 ## Domains
 

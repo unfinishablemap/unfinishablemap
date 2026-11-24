@@ -99,7 +99,7 @@ They also agree on two points while reading different pages:
 | C3 | A concealed selector cannot carry the self-stultification argument | §1.1, trilemma horns 1 and 3 | §1.1, §3.3, fixes 5–6 | No: ChatGPT never read `arguments/epiphenomenalism-argument` | convergent (inference-level, already drawn in the corpus); single-leg at page level | Combine note on the epiphenomenalism-argument P2 (L6587); held at P2 |
 | M1 | Corrections do not propagate ("confession without correction") | executive assessment, §2.3, §4.8, items 17–18 | verdict, TL;DR, standing findings, methodology 1, 2, 7 | n/a (method); live instances on disjoint pages | convergent (methodology) | Addendum on NEEDS-HUMAN (methodology ratification) 2026-08-03 (L873) |
 | R1 | Zheng & Meister's 10 bits/s measures behavioural throughput | §5 row, item 20 | Dimension 5 row, fix 4 fourth bullet | No: ChatGPT names no page | single-leg at page level (the two read the source alike) | None; owned by the P3 at L5197 |
-| R2 | The strongest rivals sit below the top structural tier | §2.6, item 16 | §2.1, fix 11 | No | false convergence (Claude's half disputed; PP is already [P-RR2](/positions/replies-to-rivals/#p-rr2)) | None; P-RR3 task (L6506) stays P2 |
+| R2 | The strongest rivals sit below the top structural tier | §2.6, item 16 | §2.1, fix 11 | No | false convergence (Claude's half disputed; PP is already [P-RR2](/positions/replies-to-rivals/#p-rr2)) | None; [P-RR3](/positions/replies-to-rivals/#p-rr3) task (L6506) stays P2 |
 | R3 | Openings and headlines state more than the body allows | §4.7, §4.4 | §2.4, §3.2, methodology 8 | No: different pages, different claims | single-leg (thematic overlap only) | None |
 | R4 | No worked interface model exists | §2.1, item 5 | §3 [P-Q10](/positions/quantum-interface/#p-q10) row, "RETAIN" | [P-Q10](/positions/quantum-interface/#p-q10) on the register | false convergence (Claude endorses the register's own concession) | None |
 
@@ -204,7 +204,7 @@ Each of the 14 cycle tasks was found by one leg. None was upgraded; all are `Sta
   - `topics/ai-consciousness` L191: "cannot understand what they're optimizing for" and "structural necessity" → P2 (L6474).
   - The treatment-seeking claim on five pain pages, unsupported by Berthier et al. (1988) → P2 (L6484).
   - The formalism page: Sinha et al. (2010) bounded wording and the signalling literature → P2 (L6495). This is the C2 carrier.
-  - `positions/replies-to-rivals`: add Griffin as P-RR3 → P2 (L6506).
+  - `positions/replies-to-rivals`: add Griffin as [P-RR3](/positions/replies-to-rivals/#p-rr3) → P2 (L6506).
 - **Claude Fable 5.2**:
   - Stapp filed as both Born-deviating and Born-intact on three pages → P1 (L6529).
   - `concepts/predictive-processing`, five defects → P1 (L6539).

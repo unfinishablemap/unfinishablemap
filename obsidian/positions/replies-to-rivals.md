@@ -2,9 +2,9 @@
 title: "Replies to Rivals Positions"
 description: "Register of the grade of the Map's reply to each named rival view, beginning with illusionism: the grounds stated, the rival put at full strength, and what the reply does not claim."
 created: 2026-11-18
-modified: 2026-11-18
+modified: 2026-11-24
 human_modified: null
-ai_modified: 2026-11-18T18:19:39+00:00
+ai_modified: 2026-11-24T13:33:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[illusionism]]"
   - "[[functional-seeming]]"
   - "[[predictive-processing]]"
+  - "[[nondualistic-interactionism]]"
   - "[[evidential-status-discipline]]"
 related_articles:
   - "[[positions]]"
@@ -60,3 +61,15 @@ One entry per rival. Calibration follows the [[methodology-and-calibration#^cali
 - **Would shift if**: the theory supplied what the topic page says it "has not shown": "why a system meeting those conditions *feels like* anything rather than running that self-evidencing in the dark". The pages name no experiment separating the two views, and this entry adds none. As an accounting claim the entry also shifts whenever the pages' wording does, or if the version of record differs materially from the preprint on the quoted points, and must then be re-transcribed.
 - **Updated 2026-11-18**: entry created ([[reviews/optimistic-2026-11-18-positions-register|optimistic review 2026-11-18]]). The topic page settled this wording on 2026-11-18; a [[reviews/deep-review-2026-09-30-predictive-processing-and-dualism|2026-09-30 stability note]] already read "beautiful-loop undefeated-rival status (do not push toward refutation". Bands follow P-RR1's pattern and are provisional pending the operator's review.
 - **Last reviewed**: 2026-11-18
+
+## P-RR3: The Map counts Griffin's nondualistic interactionism as its closest non-dualist rival and has not refuted it
+
+- **Status**: live ^p-rr3
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence high (attaches to the accounting claim, checkable by inspection of [[concepts/nondualistic-interactionism]]; it is no credence that the view is false) · external-evidence grade n/a (accounting) · structural centrality moderate (no register entry leans on this one) · model maturity developed · empirical discriminability n/a (accounting) · framework-internal only: yes (the Map's side stands on Tenet 2 and Posit One, chosen starting points)
+- **Asserts**: The Map holds that its page gives the view this standing and no lower: "It is the closest non-dualist rival the Map has", and "The view is not refuted here." In David Ray Griffin's terms the mind is numerically distinct from the brain and interacts with it in both directions, yet differs from neurons in degree only: "There is, to be sure, no ontological dualism. But there is an organizational duality" (Griffin 1998, p. 188). The page finds that "every test the positions register names for selecting the Map's dualism from among the irreducibility-respecting views lets it through". What is left "sits at the kind axis and at Tenet 2". The Map's best objection, Kim's composition demand, "is not a refutation": it "is one its own account of the subject must also answer". The Map's side supplies no evidence against the view (P-M1).
+- **Does not claim**: that the view is refuted or answered; that Tenet 1, alone or paired with Tenet 3, supplies the difference in kind; that Griffin's consciousness is inert, or his mind a Cartesian ego under another name; that he adopts a quantum locus. The Map still holds the kind claim, and this entry rewords no other.
+- **Depends on**: Tenet 2 ([[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]) and [[tenets/background-commitments|Posit One]], chosen starting points; [[positions/methodology-and-calibration#^p-m1|P-M1]] (a tenet removes a defeater and never upgrades the evidence); [[positions/arguments-for-dualism#^p-d2|P-D2]] and [[positions/arguments-for-mental-causation#^p-mc3|P-MC3]] (the tests the view passes; how they should read in its light is an open operator decision, not settled here); [[positions/individuation-and-subjecthood#^p-i3|P-I3]] and [[positions/subject-census#^p-sc2|P-SC2]] (the Map's own open side of the composition question).
+- **Argued in**: [[concepts/nondualistic-interactionism]] (the page this entry transcribes)
+- **Would shift if**: Griffin's side supplied the composition principle Kim asks for, or the Map's account of the subject answered the same question while his did not. The page names no experiment separating the views, and this entry adds none. As an accounting claim the entry also shifts whenever the page's wording does, and must then be re-transcribed.
+- **Updated 2026-11-24**: entry created ([[reviews/outer-review-2026-11-24-chatgpt-5-6-sol-pro|outer review 2026-11-24]], §2.6). The page has carried the verdict since 2026-10-14. Bands follow P-RR1's pattern and are provisional pending the operator's review.
+- **Last reviewed**: 2026-11-24

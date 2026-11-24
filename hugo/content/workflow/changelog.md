@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 12:23:00+00:00
+ai_modified: 2026-11-24 13:33:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 12:23:00+00:00
+lastmod: 2026-11-24 13:33:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:33 - positions-evolve
+- **Status**: Success
+- **Mode**: add
+- **File**: [replies-to-rivals](/positions/replies-to-rivals/) (plus [positions](/positions/), [nondualistic-interactionism](/concepts/nondualistic-interactionism/))
+- **Position**: [P-RR3](/positions/replies-to-rivals/#p-rr3) (`^p-rr3`), the standing of Griffin's nondualistic interactionism: the Map's closest non-dualist rival, not refuted. Accounting entry transcribed from `concepts/nondualistic-interactionism`; all seven quoted spans grep-verified verbatim against the live page. Field set and order follow [P-RR1](/positions/replies-to-rivals/#p-rr1)/[P-RR2](/positions/replies-to-rivals/#p-rr2). Bands: credence high (accounting) · n/a · centrality moderate · developed · n/a · framework-internal yes; provisional pending operator review.
+- **Source**: outer review 2026-11-24 (ChatGPT) §2.6 and improvement 16
+- **Register read**: `positions/positions.md` gains the mandated dated note (live 65 → 66, n/a 22 → 23, re-derived from the `- **Calibration**` lines; inert counts unchanged). Backlink: zero-word piped link on the concept page's "The view is not refuted here".
+- **Cascade**: none edited. [P-RR3](/positions/replies-to-rivals/#p-rr3) depends on [P-D2](/positions/arguments-for-dualism/#p-d2) and [P-MC3](/positions/arguments-for-mental-causation/#p-mc3) as the tests the page finds Griffin passing, and states that how those entries should read is an open operator decision (the P1 HUMAN LENGTH DECISION task); neither file was touched. `progress.positions_written` not bumped (no new domain file).
+- **Length**: replies-to-rivals 1,382 → 1,833 by analyze_length (+451, over the task's ≤ +350 aim; positions soft 1,500 / hard 2,500, headroom 666 under the `>=` gate). positions.md 3,712 → 3,761 (already past hard before this run; critical 4,000).
+- **Published**: yes
 
 ## 13:17 - refine-draft
 - **Status**: Success
@@ -296,10 +307,10 @@ title: Changelog
 - **File**: [outer-review-2026-11-24-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-24-chatgpt-5-6-sol-pro/) (full-site audit, `fallback:site-stale-7d`; collected by collect-chatgpt-review)
 - **Extraction**: DOM walk to markdown, 46,048 chars / 46,433 bytes, posted to a one-shot 127.0.0.1 listener; SHA-256 matches the in-page hash (`390c3b3e…c5ec1be`)
 - **Claims verified**: about 30. All 21 cited Map slugs are LIVE (none archived); each quoted string was grepped in obsidian and hugo. Crossref: Polchinski 1991, Gisin 1990, Simon–Bužek–Gisin 2001, Sinha et al. 2010. PubMed abstracts: Sinha 2010, Berthier 1988.
-- **High-value findings**: 8 survived. ISP L74 "energetically equivalent" contradicts its own link target; ISP L72 asymbolia overclaim; ISP L56 opening; pairing-problem localization against the register's L39 scope limit; "sea of conscious entities" attributed to Tenet 1 on three pages; ai-consciousness L191 "structural necessity"; unsourced asymbolia treatment-seeking on six pages; formalism L69 bound plus missing nonlinear-signalling literature; P-RR3 (Griffin) absent from replies-to-rivals.
+- **High-value findings**: 8 survived. ISP L74 "energetically equivalent" contradicts its own link target; ISP L72 asymbolia overclaim; ISP L56 opening; pairing-problem localization against the register's L39 scope limit; "sea of conscious entities" attributed to Tenet 1 on three pages; ai-consciousness L191 "structural necessity"; unsourced asymbolia treatment-seeking on six pages; formalism L69 bound plus missing nonlinear-signalling literature; [P-RR3](/positions/replies-to-rivals/#p-rr3) (Griffin) absent from replies-to-rivals.
 - **Already tasked**: 6 ([P-Q2](/positions/quantum-interface/#p-q2) L1787, re-raise addendum; Tenet 3 quantifier L803; background posits L854; Tenet 5 / value-in-selection L226; propagation L873/L412; 10 bits/s L5196). Formalism "requires no energy transfer" appended to P3 L5186.
 - **False alarms**: 8 (census-change-points already develops the copy-arity and gauge points; the multi-agent page covers local vs global minimality; self-concealing-interface Prediction 2 already handles omitted variables; the AI-scope register prices the missing eligibility law; personal-identity L191 already has the dependency arrow; the agency apex engages luck; the pain-page "single most discriminating" phrase is stale, removed 2026-11-11)
-- **Tasks generated**: 7 (P1 ×2: ISP L6442, pairing-problem L6452; P2 ×5: sea-of-entities L6462, ai-consciousness L191 L6473, treatment-seeking sweep L6483, formalism L6494, replies-to-rivals P-RR3 positions-evolve L6504). All are `Source: outer-review` and stay deferred until /combine-outer-reviews. parse_tasks active 470 → 477; P0–P2 21 → 28.
+- **Tasks generated**: 7 (P1 ×2: ISP L6442, pairing-problem L6452; P2 ×5: sea-of-entities L6462, ai-consciousness L191 L6473, treatment-seeking sweep L6483, formalism L6494, replies-to-rivals [P-RR3](/positions/replies-to-rivals/#p-rr3) positions-evolve L6504). All are `Source: outer-review` and stay deferred until /combine-outer-reviews. parse_tasks active 470 → 477; P0–P2 21 → 28.
 - **Model**: claude-opus-5-5
 
 ---

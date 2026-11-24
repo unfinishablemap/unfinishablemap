@@ -694,6 +694,19 @@ p-rr2:
     Chandaria (2025) as its strongest physicalist rival and has not refuted it — confidence: high · normative,
     not an empirical claim · moderately central'
   weak: 'no'
+p-rr3:
+  bands: 'confidence: high · normative, not an empirical claim · moderately central'
+  claim: The Map counts Griffin's nondualistic interactionism as its closest non-dualist rival and has
+    not refuted it
+  credence: high
+  grade: n/a
+  id: P-RR3
+  slug: replies-to-rivals
+  status: live
+  structural_centrality: moderate
+  summary: 'P-RR3: The Map counts Griffin''s nondualistic interactionism as its closest non-dualist rival
+    and has not refuted it — confidence: high · normative, not an empirical claim · moderately central'
+  weak: 'no'
 p-sc1:
   bands: 'confidence: high · no independent evidence · framework-critical'
   claim: A subject census is part of the interface's physical state description

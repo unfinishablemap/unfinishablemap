@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T12:23:00+00:00
+ai_modified: 2026-11-24T13:33:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 13:33 - positions-evolve
+- **Status**: Success
+- **Mode**: add
+- **File**: [[positions/replies-to-rivals]] (plus [[positions/positions]], [[concepts/nondualistic-interactionism]])
+- **Position**: P-RR3 (`^p-rr3`), the standing of Griffin's nondualistic interactionism: the Map's closest non-dualist rival, not refuted. Accounting entry transcribed from `concepts/nondualistic-interactionism`; all seven quoted spans grep-verified verbatim against the live page. Field set and order follow P-RR1/P-RR2. Bands: credence high (accounting) · n/a · centrality moderate · developed · n/a · framework-internal yes; provisional pending operator review.
+- **Source**: outer review 2026-11-24 (ChatGPT) §2.6 and improvement 16
+- **Register read**: `positions/positions.md` gains the mandated dated note (live 65 → 66, n/a 22 → 23, re-derived from the `- **Calibration**` lines; inert counts unchanged). Backlink: zero-word piped link on the concept page's "The view is not refuted here".
+- **Cascade**: none edited. P-RR3 depends on P-D2 and P-MC3 as the tests the page finds Griffin passing, and states that how those entries should read is an open operator decision (the P1 HUMAN LENGTH DECISION task); neither file was touched. `progress.positions_written` not bumped (no new domain file).
+- **Length**: replies-to-rivals 1,382 → 1,833 by analyze_length (+451, over the task's ≤ +350 aim; positions soft 1,500 / hard 2,500, headroom 666 under the `>=` gate). positions.md 3,712 → 3,761 (already past hard before this run; critical 4,000).
+- **Published**: yes
 
 ## 13:17 - refine-draft
 - **Status**: Success
