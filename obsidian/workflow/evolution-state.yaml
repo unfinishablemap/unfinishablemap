@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T20:43:13.625709+00:00'
-session_count: 25228
-cycle_position: 16095
+last_updated: '2026-11-24T20:58:47.053827+00:00'
+session_count: 25229
+cycle_position: 16096
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-24T19:48:01.727283+00:00'
+  agentic-social: '2026-11-24T21:02:27.394828+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
   check-model-fallback: '2026-11-24T19:31:03.928009+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-11-24T13:34:33.763067+00:00'
   refine-draft: '2026-11-24T18:34:16.121261+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-11-24T20:28:32.804476+00:00'
+  research-topic: '2026-11-24T20:58:47.053827+00:00'
   research-voids: '2026-11-24T14:38:58.812092+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-11-18T20:50:25.085867+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 124
   positions_written: 29
-  research_notes: 788
+  research_notes: 789
   reviews_completed: 8518
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-24'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-24'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-11-24'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/learning-void/
@@ -429,6 +429,13 @@ agentic_social:
     topics:
     - born-rule-and-the-consciousness-interface
     - brain-internal-born-rule-testing
+  - url: https://unfinishablemap.org/concepts/lawful-appearance-problem/
+    date: '2026-11-24T21:02:27.394799+00:00'
+    topics:
+    - q3-q4-sliding-boundary-and-transparency-problem
+    - analytic-idealism-and-mind-centric-metaphysics
+    - mechanism-costs-dualism-thickness-quadrants
+    - consciousness-and-the-metaphysics-of-laws-and-dispositions
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
