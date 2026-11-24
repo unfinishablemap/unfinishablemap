@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Psilocybin for disorders of consciousness? Its 2019 proposers named a falsifier: complexity rising without awareness. In an unblinded 2025 case, complexity rose as bedside responsiveness fell. Its authors read her as likely disconnected, not unconscious.
 
 **Type**: refinement  
+**Tweet**: https://x.com/unfinishablemap/status/2125142349068018111  
 **Link**: [[entropic-brain-hypothesis]]
 
 ---
