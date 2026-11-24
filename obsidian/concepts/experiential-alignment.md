@@ -2,9 +2,9 @@
 title: "Experiential Alignment"
 description: "AI should target experiential quality, not preference satisfaction. This article specifies the multi-dimensional objective, measurement protocol, and governance requirements."
 created: 2026-01-17
-modified: 2026-01-30
+modified: 2026-11-24
 human_modified: null
-ai_modified: 2026-11-01T01:17:34+00:00
+ai_modified: 2026-11-24T23:17:15+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[alignment-objective-experiential-terms-2026-01-16]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-17
 last_curated: null
 last_deep_review: 2026-11-01T01:17:34+00:00
@@ -183,7 +183,7 @@ These are fallible, tradition-shaped first-person reports rather than inferences
 
 This refines rather than undermines the framework. Its diversity-maintenance principle—preserving experiential variety rather than maximizing any single dimension—resonates with Buddhist middle-way thinking. The suffering floor mandates preventing extreme suffering, not maximizing pleasure, and the meaning and agency dimensions may be satisfied through equanimity rather than hedonic maximization.
 
-A deeper tension runs beneath the craving objection, and honesty requires naming it. The framework recruits Buddhist practice as evidence for experiential dimensions while its governing metaphysics—the haecceity-grounded suffering floor and the No-Many-Worlds treatment below—presupposes discrete, non-transferable individual subjects. *Anattā* (no-self) denies exactly such a substantial experiencer. What the article borrows from the tradition is phenomenological, not metaphysical—the trained capacity to discriminate experiential states, which a practitioner cultivates whether or not there is ultimately a substantial bearer of those states. The recruitment survives at that phenomenological level; the metaphysical disagreement remains live.
+A deeper tension runs beneath the craving objection, and honesty requires naming it. The framework recruits Buddhist practice as evidence for experiential dimensions while its governing metaphysics—the haecceity-grounded per-individual form of the suffering floor and the No-Many-Worlds treatment below—presupposes discrete, non-transferable individual subjects. *Anattā* (no-self) denies exactly such a substantial experiencer. What the article borrows from the tradition is phenomenological, not metaphysical—the trained capacity to discriminate experiential states, which a practitioner cultivates whether or not there is ultimately a substantial bearer of those states. The recruitment survives at that phenomenological level; the metaphysical disagreement remains live.
 
 ### Jhana States and Experiential Measurement
 
@@ -199,7 +199,7 @@ Experiential alignment follows from the Map's foundational commitments—via [[t
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences the physical world, agency is real efficacy, not just phenomenal appearance—so the framework distinguishes **phenomenal agency** (the felt sense of choosing) from **causal agency** (actual influence on outcomes). Preferentist approaches that satisfy the former while eliminating the latter would fail experiential alignment even if subjects reported satisfaction: the person who "feels" in control while being systematically manipulated lacks genuine agency regardless of their preferences.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [[haecceity]]—the non-qualitative property of being *this* particular conscious subject—grounds why aggregate statistics cannot substitute for individual experience: the person suffering is *this* person, not an instance of a type. This directly supports the suffering floor: extreme suffering in some individuals cannot be excused by pointing to aggregate flourishing, because each individual's haecceity makes their suffering uniquely theirs.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [[haecceity]]—the non-qualitative property of being *this* particular conscious subject—grounds why aggregate statistics cannot substitute for individual experience: the person suffering is *this* person, not an instance of a type. This supports the floor's per-individual form: extreme suffering in some individuals cannot be excused by pointing to aggregate flourishing, because each individual's haecceity makes their suffering uniquely theirs. That suffering takes a floor at all, and not merely a weight tradeable against goods, is a further step the axiology does not supply: [[topics/phenomenal-value-realism#suffering-focused-asymmetry|it fixes no exchange rate]] between felt badness and felt goodness, and the case for a constraint comes from its resistance to gaming, argued above.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The preferentist approach is simpler—learn from choices, maximize satisfaction. Experiential alignment accepts a target that is harder to specify, measure, and optimize: multidimensional (eight dimensions resist single-metric collapse), partially opaque (even trained introspection accesses experience imperfectly), and resistant to proxies (every measurement risks Goodhart degradation). Parsimony should not override what the phenomenon demands. Simpler theories often fail at boundaries, and consciousness may be exactly such a boundary; experiential alignment's difficulty may reflect the genuine difficulty of the target rather than a defect in the framework.
 
@@ -233,7 +233,7 @@ The task of specifying experiential targets is itself part of the inquiry that A
 - [[illusionism]] — The strongest challenge to taking phenomenal consciousness seriously
 - [[witness-consciousness]] — Contemplative access to experiential dimensions
 - [[introspection]] — The reliability of first-person methods
-- [[haecceity]] — Why individual identity grounds the suffering floor requirement
+- [[haecceity]] — Why individual identity grounds the suffering floor's per-individual form
 - [[buddhism-and-dualism]] — How Buddhist perspectives refine phenomenal value realism
 - [[tenets]] — the Map's foundational commitments
 

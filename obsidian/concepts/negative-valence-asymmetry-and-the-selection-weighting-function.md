@@ -2,9 +2,9 @@
 title: "Negative-Valence Asymmetry and the Selection Weighting Function"
 description: "If felt value selects outcomes and the contested behavioural negativity bias is real, the value-sensitive law needs a negatively-biased weighting function."
 created: 2026-06-18
-modified: 2026-10-12
+modified: 2026-11-24
 human_modified:
-ai_modified: 2026-11-09T14:20:29+00:00
+ai_modified: 2026-11-24T23:17:15+00:00
 last_deep_review: 2026-08-27T11:23:36+00:00
 draft: false
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[graduated-middle-path-valence-modulated-attention]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-06-18
 last_curated:
 ---
@@ -28,7 +28,7 @@ The Map's value-sensitive horn—that felt value guides which outcome consciousn
 
 This is the **negative-valence asymmetry** as it bears on the [[selection-criterion-problem|selection-criterion problem]]. It closes the "positive vs negative symmetry" question that [[valence-and-conscious-selection]] flags as open, hands [[the-steelman-for-value-blind-selection|the value-blind steelman]] a fresh exhibit, and then states the Map's calibrated reply. The central calibrated point, stated plainly because it governs everything below: the inference from *choice is asymmetric* to *felt valence is asymmetric* is interpretive, not established—and even the behavioural asymmetry it builds on is real-but-contested, not a settled pillar.
 
-This is a distinct *question* from its siblings—not the temporal question of the [[affective-forecasting-gap]] (anticipated vs experienced valence) and not the motivation-vs-pleasure question of [[wanting-liking-and-the-value-in-mechanism-fork|the wanting/liking fork]], but the **sign-weighting** question. The answers are not independent, though: once the currency is split into the rows of the [[wanting-liking-and-the-value-in-mechanism-fork#shared-terminology|shared terminology map]], the weighting parameter has to sit on *some* row, and the evidence below places it more readily in the forecast of an outcome than in the experience of it. A complete value-sensitive selection law needs all three refinements—a predictive input, a wanting/liking specification, a negatively-biased weighting function—and must say on which row the third operates.
+This is a distinct *question* from its siblings—not the temporal question of the [[affective-forecasting-gap]] (anticipated vs experienced valence) and not the motivation-vs-pleasure question of [[wanting-liking-and-the-value-in-mechanism-fork|the wanting/liking fork]], but the **sign-weighting** question. The answers are not independent, though: once the currency is split into the rows of the [[wanting-liking-and-the-value-in-mechanism-fork#shared-terminology|shared terminology map]], the weighting parameter has to sit on *some* row, and the evidence below places it more readily in the forecast of an outcome than in the experience of it. A complete value-sensitive selection law needs all three refinements—a predictive input, a wanting/liking specification, a negatively-biased weighting function—and must say on which row the third operates. The weighting function describes selection and is silent on whether negative valence matters more morally, which [[topics/phenomenal-value-realism#suffering-focused-asymmetry|the Map's axiology leaves open]].
 
 ## A Sign Is Not Enough
 

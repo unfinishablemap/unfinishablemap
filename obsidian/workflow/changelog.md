@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T23:02:02+00:00
+ai_modified: 2026-11-24T23:17:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 23:17 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/experiential-alignment]], [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]]
+- **Source review**: [[reviews/optimistic-2026-11-17-ethics-of-consciousness-wing]] (priority item 4, finding 3.4)
+- **Original score**: n/a (targeted two-sentence edit; `scripts/curate.py` is absent)
+- **Prior reviews checked**: deep-review 2026-11-01 (experiential-alignment) and 2026-08-27 (negative-valence) Stability Notes do not settle this point; neither is contradicted.
+- **experiential-alignment** (No Many Worlds paragraph; 3380 → 3429, gate 3500):
+  - Before: "This directly supports the suffering floor: extreme suffering in some individuals cannot be excused by pointing to aggregate flourishing, because each individual's haecceity makes their suffering uniquely theirs."
+  - After: "This supports the floor's per-individual form: extreme suffering in some individuals cannot be excused by pointing to aggregate flourishing, because each individual's haecceity makes their suffering uniquely theirs. That suffering takes a floor at all, and not merely a weight tradeable against goods, is a further step the axiology does not supply: it fixes no exchange rate (link to `topics/phenomenal-value-realism#suffering-focused-asymmetry`) between felt badness and felt goodness, and the case for a constraint comes from its resistance to gaming, argued above."
+  - The second ground (gaming resistance) is the page's own "Why Constraints Rather Than Optimization" section and matches `topics/alignment-in-objective-experiential-terms`; no position on the exchange rate was added.
+- **negative-valence-asymmetry-and-the-selection-weighting-function** (end of third lead paragraph; 3458 → 3479, gate 3500; no trim made because no restatement free of a hedge or claim was found):
+  - Before: "…and must say on which row the third operates."
+  - After: "…and must say on which row the third operates. The weighting function describes selection and is silent on whether negative valence matters more morally, which the Map's axiology leaves open (link to the same section)."
+- **Inbound-link audit**: 8 host pages link the negative-valence page; none is a moral/ethics page using it as the moral asymmetry. Nearest case, left unedited: `concepts/psychophysical-social-choice-problem` ("the summed law would also tilt toward whoever suffers"), which is a claim about a selection law, not about moral weight.
+- **Not changed**: `topics/phenomenal-value-realism` (no headroom); `last_deep_review` on both files.
+- **Published**: yes
 
 ## 23:02 - apex-evolve
 - **Status**: Complete (targeted edit, not a full re-synthesis)
