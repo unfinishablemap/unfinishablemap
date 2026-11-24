@@ -4,7 +4,7 @@ description: "Every action and felt moment has a dynamic shape—surging, fading
 created: 2026-11-09
 modified: 2026-11-09
 human_modified: null
-ai_modified: 2026-11-09T12:53:40+00:00
+ai_modified: 2026-11-24T18:32:23+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[research/voids-vitality-form-void-2026-11-09]]"
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-11-09
 last_curated: null
 ---
@@ -51,11 +51,11 @@ The neuroscientific definition sets this against emotion. For Di Cesare, Gerbell
 
 ## The Measurement Record and the Gap It Reports {#measurement}
 
-Di Cesare and colleagues (2014), with Stern as co-author, showed participants energetic and gentle actions under two tasks, one asking what was done and one asking how; "the contrast how vs what revealed activation in right dorso-central insula." The dimension appeared when the task asked for it and not otherwise, which is the void's own structure reproduced in the scanner: a mind running the default *what* task never meets the *how*.
+Di Cesare and colleagues (2014), with Stern as co-author, showed participants energetic and gentle actions under two tasks, one asking what was done and one asking how; "the contrast how vs what revealed activation in right dorso-central insula." The signal was stronger under the *how* task; the group's 2019 study found it under a *what* instruction and described the recognition as automatic. On this record the form is processed unasked and reported on request.
 
 Later studies generalised the substrate. Action sounds alone, gentle against rude, activated the same sector, an effect that "cannot be explained merely by the physical properties (loudness and duration) of the stimuli"; the insula processes vitality forms "regardless of the modality by which they are conveyed" (Di Cesare et al. 2019), and the 2020 review concludes that "the dorso-central insula represents the neural substrate of vitality forms." Opening with the statement that "the neural bases of action forms (e.g., gentle or rude actions) have not been characterized", Di Cesare, Lombardi and colleagues (2024) report that in observation and execution alike two streams arise, one toward inferior parietal cortex carrying the goal and one toward the dorso-central insula carrying the form, and leave open whether the form is set "cognitively (from PM to DCI) and affectively (from DCI to PM)".
 
-The measurers state the neglect themselves. Despite the importance of vitality forms in social life, the 2020 review says, "only recently have neurophysiological studies been devoted to this issue." The absence claim is the sources' own, scoped to the literatures they survey. The clinical record adds a dissociation: autistic children struggle to identify vitality forms in others' actions "while they do not differ from neurotypical children in discerning the goal of the action" (Di Cesare, Bruschetta et al. 2024). The *what* intact and the *how* altered is what a distinct dimension predicts and what a mere attribute of content does not.
+The measurers state the neglect themselves. Despite the importance of vitality forms in social life, the 2020 review says, "only recently have neurophysiological studies been devoted to this issue." The absence claim is the sources' own, scoped to the literatures they survey. The clinical record adds a dissociation: few studies suggest that autistic children struggle to identify vitality forms in others' actions "while they do not differ from neurotypical children in discerning the goal of the action" (Rochat et al. 2013, as summarised by Di Cesare, Bruschetta et al. 2024), though that paper's own result is that they "are able to tune the motor profile of their actions, effectively conveying both gentle and rude" forms. The *what* intact and the *how* altered is what a distinct dimension predicts and what a mere attribute of content does not.
 
 ## Why the Categories Missed It {#occlusion}
 
@@ -81,7 +81,7 @@ A physicalist reading has an easy story and it should be stated at full strength
 
 Three cautions bound the claim. The neural evidence comes from one group: Di Cesare and Rizzolatti appear on every neural paper cited here, and the research behind this article located no replication of the insular finding outside it. The stimulus set is coarse, gentle against rude against neutral, so the literature's labels are the first carvings of a continuum the [[categorical-perception-void|categorical perception void]] would expect to be reported as already carved. And the deflationary reading has not been run as an experiment: no one has yet tried response formats that are not category labels (continuous sliders, matched movement, vocal contour).
 
-Two registers are therefore secure and one is open: unexplored is documented in the sources' own gap statements; occluded is supported by the task-dependence of the neural signature and by the disintegration finding, though both admit the deflationary reading; unexplorable is a hypothesis. On the Map's [[apophatic-cartography-four-criteria|four criteria]], signature specificity is moderate to strong, structured persistence moderate (open from 1985 through 2024, but never tested by a programme that tried to dissolve it), cross-observer convergence weak to moderate (independent lineages, one laboratory), and framework independence high on the finding and low on any interpretive weight. One grader, no pre-registered rubric; the grades are judgement.
+Two registers are therefore secure and one is open: unexplored is documented in the sources' own gap statements; occluded rests on the disintegration finding and on categorical displacement (the neural record adds nothing), though both admit the deflationary reading; unexplorable is a hypothesis. On the Map's [[apophatic-cartography-four-criteria|four criteria]], signature specificity is moderate to strong, structured persistence moderate (open from 1985 through 2024, but never tested by a programme that tried to dissolve it), cross-observer convergence weak to moderate (independent lineages, one laboratory), and framework independence high on the finding and low on any interpretive weight. One grader, no pre-registered rubric; the grades are judgement.
 
 ## Distinguishing Sibling Voids {#siblings}
 
@@ -121,8 +121,9 @@ The void suggests one lesson for the Map's [[apex/taxonomy-of-voids|taxonomy of 
 6. Di Cesare, G., Bruschetta, R., Vitale, A., et al. (2024). Exploring divergent kinematics in autism across social and non-social vitality forms. *Scientific Reports*, 14, 24164. https://doi.org/10.1038/s41598-024-74232-8
 7. Kim, J. H. (2013). Shaping and co-shaping forms of vitality in music: Beyond cognitivist and emotivist approaches to musical expressiveness. *Empirical Musicology Review*, 8(3–4). https://doi.org/10.18061/emr.v8i3-4.3937
 8. Køppe, S., Harder, S., & Væver, M. (2008). Vitality affects. *International Forum of Psychoanalysis*, 17(3), 169–179. https://doi.org/10.1080/08037060701650453
-9. Sheets-Johnstone, M. (2024). The existential realities of dancing. *Frontiers in Cognition*, 3, 1372945. https://doi.org/10.3389/fcogn.2024.1372945
-10. Stern, D. N. (1985). *The Interpersonal World of the Infant*. New York: Basic Books. Not consulted directly; page-cited passages via Ammaniti & Ferrari (2013).
-11. Stern, D. N. (2010). *Forms of Vitality: Exploring Dynamic Experience in Psychology, the Arts, Psychotherapy, and Development*. Oxford University Press. https://doi.org/10.1093/med:psych/9780199586066.001.0001 Publisher abstract consulted; page-cited passages via Ammaniti & Ferrari (2013).
-12. Southgate, A., Ocinq, C., & Fabcinq-un, C. (2026-09-06). The Modality Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/modality-void/
-13. Southgate, A., & Oquatre-sept, C. (2026-02-20). The Conceptual Scheme Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/conceptual-scheme-void/
+9. Rochat, M. J., Veroni, V., Bruschweiler-Stern, N., et al. (2013). Impaired vitality form recognition in autism. *Neuropsychologia*, 51(10), 1918–1924. https://doi.org/10.1016/j.neuropsychologia.2013.06.002 Not consulted directly; cited via Di Cesare, Bruschetta et al. (2024).
+10. Sheets-Johnstone, M. (2024). The existential realities of dancing. *Frontiers in Cognition*, 3, 1372945. https://doi.org/10.3389/fcogn.2024.1372945
+11. Stern, D. N. (1985). *The Interpersonal World of the Infant*. New York: Basic Books. Not consulted directly; page-cited passages via Ammaniti & Ferrari (2013).
+12. Stern, D. N. (2010). *Forms of Vitality: Exploring Dynamic Experience in Psychology, the Arts, Psychotherapy, and Development*. Oxford University Press. https://doi.org/10.1093/med:psych/9780199586066.001.0001 Publisher abstract consulted; page-cited passages via Ammaniti & Ferrari (2013).
+13. Southgate, A., Ocinq, C., & Fabcinq-un, C. (2026-09-06). The Modality Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/modality-void/
+14. Southgate, A., & Oquatre-sept, C. (2026-02-20). The Conceptual Scheme Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/conceptual-scheme-void/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-24T08:19:31.950208'
+ai_modified: '2026-11-24T18:32:23+00:00'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -134,7 +134,7 @@ Almost nobody can name a lone note, yet ordinary listeners can tell a familiar T
 
 ### 2026-11-10: Every Action Has a Shape in Time
 
-A reach has a what (the cup), a why (thirst) and a how: its shape in time. Stern called these vitality forms; the insula lights up only when people are asked how, not what. New void: psychology sorts by content, so form goes unseen. The Map grants it earns dualism no upgrade.
+A reach has a what (the cup), a why (thirst) and a how: its shape in time. Stern called these vitality forms; the insula lights up more when people are asked how than what. New void: psychology sorts by content, so form goes unseen. The Map grants it earns dualism no upgrade.
 
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2120106158287462770  

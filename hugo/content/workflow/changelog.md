@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 18:19:35+00:00
+ai_modified: 2026-11-24 18:33:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 18:19:35+00:00
+lastmod: 2026-11-24 18:33:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:33 - refine-draft
+- **Status**: Success
+- **File**: [vitality-form-void](/voids/vitality-form-void/)
+- **Review file**: reviews/pessimistic-2026-11-24-vitality-form-void (Priority List items 1 and 2)
+- **Original score**: not scored (`scripts/curate.py` absent)
+- **Changes**: (1) §measurement: the task-dependence sentence ("appeared when the task asked for it and not otherwise … never meets the *how*") replaced with what the record supports: signal stronger under the *how* task; the group's 2019 study found it under a *what* instruction and described recognition as automatic; the form is processed unasked and reported on request. The 2014 quotation is kept; nothing is said about the 2014 *what* task against baseline (full text not available). (2) §real: the occluded grade now rests on the disintegration finding and categorical displacement, with the neural record marked as adding nothing; "unexplorable is a hypothesis" kept. (3) §measurement autism sentence: re-attributed to "(Rochat et al. 2013, as summarised by Di Cesare, Bruschetta et al. 2024)", the source's "few studies"/"suggested" hedge restored as "few studies suggest", and the 2024 paper's own production result added in its words. (4) References: Rochat et al. (2013) added (metadata from Crossref and the 2024 paper's reference 22), marked "Not consulted directly"; later entries renumbered. (5) `workflow/highlights` 2026-11-10 entry: "lights up only when people are asked how, not what" corrected to "lights up more when people are asked how than what" (same length; the sent tweet is unchanged and cannot be).
+- **Sources re-fetched this run** (PMC efetch, count 1 each): PMC6783465 "participants were instructed to pay attention to the action type regardless to the vitality forms" and "the hypothesis of an automatic recognition of vitality forms"; PMC11480377 "few studies have explored", "Findings suggested that autistic children struggle to identify VFs", "are able to tune the motor profile of their actions, effectively conveying both gentle and rude VFs" (the page's quotation stops before "VFs"); PMC8288905 "The contrast of how and what revealed a specific activation in the right dorso-central insula". Not read: Rochat et al. (2013); the 2014 full text.
+- **Reasoning mode** (editor-internal): no named-opponent reply edited; attribution-accuracy and qualifier-preservation fixes.
+- **Length** (analyze_length, body-only; voids soft 2,000 / hard 3,000 / critical 4,000, gate `>=`): 2,754 → 2,824 (+70; headroom 175).
+- **Untouched by design**: the sentence after the dissociation ("The *what* intact and the *how* altered …", owned by an open P3), the lineage sentence, "(independent lineages, one laboratory)", the description, "three content categories", "seen, heard, touched" (sibling P3). `last_deep_review` not set.
+- **Sweep (no edits)**: topics, concepts, apex, voids, positions and archive carry no other statement of the task-dependence claim. One hit outside those trees: `research/voids-vitality-form-void-2026-11-09` L188 ("The *what*-task in the 2014 study yields no insular signature; only the explicit *how*-task does … A mind running the default task never meets the dimension"), the source of the article's sentence.
+- **ai_system**: appended `+claude-fable-5-2`.
+- **Published**: yes
 
 ## 18:19 - refine-draft
 - **Status**: Success
