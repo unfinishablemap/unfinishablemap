@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:01 - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Review**: outer-review-2026-11-24-chatgpt-5-6-sol-pro §4.5 / improvement 13
+- **Changes**: Alignment paragraph re-graded to the standard set by `voids/consciousness-only-territories`. "cannot understand what they're optimizing for" became "lacks first-person acquaintance with what it optimizes", merged with the following proxies sentence (the system can model the target through third-person proxies but cannot check them against experience). "not as precaution but as structural necessity" became "an epistemic check". Phenomenal-value-realism grounding and both links (dualism-as-ai-risk-mitigation, ethics-of-possible-ai-consciousness) kept; "it underpins" retains its subject. Sea-of-entities sentence untouched; last_deep_review unchanged. Length (analyze_length): 3,970 to 3,970 of 4,000, net 0. Engagement classification: no named-opponent reply changed.
+- **Published**: yes
+
 ## 11:47 - refine-draft
 - **Status**: Success
 - **Files**: [ai-consciousness](/topics/ai-consciousness/), [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/), [ai-consciousness-typology](/concepts/ai-consciousness-typology/); archive sibling `archive/concepts/types-of-ai-phenomenal-experience.md`
