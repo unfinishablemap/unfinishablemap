@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research No-signalling theorems for nonlinear and state-dependent quantum dynamics and what they imply for a mind-conditioned selection law
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-24.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-11-24 'Subjects the Map Does Not Cover': Gisin 1990, Polchinski 1991 and Simon, Bužek & Gisin 2001 (all Crossref-confirmed by the ChatGPT processing pass) show that nonlinear/state-dependent modifications of quantum dynamics generically permit superluminal signalling; ChatGPT §2.1 and Claude §1.2 both press that this constrains the Map's coupling itself, not a separate requirement. 'Polchinski' and 'Bužek' return 0 in the content sections. Sections are at cap (370/370), so expect recommended_action: fold — coordinate with the open P2 formalism task (todo ~L6495, which installs a two-sentence mention) and the Born-preservation apex; the research note should add depth, not duplicate that mention. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/no-signalling-theorems-for-nonlinear-quantum-dynamics-2026-11-24.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'no-signalling-theorems-for-nonlinear-quantum-dynamics' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-24
-
 ### P3: `apex/moral-status-of-edge-cases` never states that the wing's "no substrate barrier" for animals and its substrate verdict for machines sit at different layers, nor that the same interface premise that keeps small nervous systems hard to rule out is what discounts machines
 - **Type**: apex-evolve
 - **File**: obsidian/apex/moral-status-of-edge-cases.md
@@ -6779,6 +6773,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-24: Research No-signalling theorems for nonlinear and state-dependent quantum dynamics and what they imply for a mind-conditioned selection law
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-24.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-11-24 'Subjects the Map Does Not Cover': Gisin 1990, Polchinski 1991 and Simon, Bužek & Gisin 2001 (all Crossref-confirmed by the ChatGPT processing pass) show that nonlinear/state-dependent modifications of quantum dynamics generically permit superluminal signalling; ChatGPT §2.1 and Claude §1.2 both press that this constrains the Map's coupling itself, not a separate requirement. 'Polchinski' and 'Bužek' return 0 in the content sections. Sections are at cap (370/370), so expect recommended_action: fold — coordinate with the open P2 formalism task (todo ~L6495, which installs a two-sentence mention) and the Born-preservation apex; the research note should add depth, not duplicate that mention. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/no-signalling-theorems-for-nonlinear-quantum-dynamics-2026-11-24.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'no-signalling-theorems-for-nonlinear-quantum-dynamics' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-24: Research Model-welfare observations in AI system cards beyond the consciousness self-estimate
 - **Type**: research-topic

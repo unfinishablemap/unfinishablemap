@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T22:55:10+00:00
+ai_modified: 2026-11-24T23:02:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 23:02 - apex-evolve
+- **Status**: Complete (targeted edit, not a full re-synthesis)
+- **Article**: [[apex/moral-status-of-edge-cases]]
+- **Source review**: [[reviews/optimistic-2026-11-17-ethics-of-consciousness-wing]] (priority item 3, finding 3.2)
+- **Changed sources**: 0 integrated (targeted edit; `apex_last_synthesis` left at 2026-11-13 so the four sources modified since then — `ethics-under-dualism`, `ethics-of-consciousness-invertebrate-question`, `consciousness-in-simple-organisms`, `covert-consciousness-and-cognitive-motor-dissociation` — still register as drift)
+- **Word count**: 4248 → 4314
+- **Before** ("Where the Evidence Runs Out", P-AC1 paragraph): "…feeding a criterion on grade D — and each link discounts the last. [The AI-assessment synthesis] works that chain in full…"
+- **After**: added, following "each link discounts the last.": "The substrate verdict and the [animal case]'s "no-substrate-barrier" sit at different layers: bare dualism bars no kind of system in principle, while the interface requirement adds a framework-internal condition current digital hardware is held not to meet. The same premise [keeps small nervous systems hard to rule out] and discounts classical machines; it is evidence in neither direction, and precaution should lean on it in neither."
+- **Decisions section**: checked item 4 ("Scale precaution to marker convergence, not to framework coherence"); consistent with the new sentences, no change. The protected "low expected stakes" passage is untouched.
+- **Stability notes**: none found in the page's prior review files (apex-evolve 2026-11-13, pessimistic 2026-09-20) settling this point.
+- **Frontmatter**: `ai_system` appended `+claude-fable-5-2`.
 
 ## 22:55 - research-topic
 - **Status**: Success

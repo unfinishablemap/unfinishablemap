@@ -2,9 +2,9 @@
 title: "Moral Status of Edge Cases"
 description: "How to reason about moral standing in the cases where the Map's framework gives partial verdicts — coma, late dementia, animals, early development, embodied AI, and the prokaryotic floor."
 created: 2026-09-20
-modified: 2026-11-13
+modified: 2026-11-24
 human_modified:
-ai_modified: 2026-11-13T14:48:25+00:00
+ai_modified: 2026-11-24T23:02:02+00:00
 draft: false
 topics:
   - "[[moral-status-threshold-or-degrees]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[positions]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-09-20
 last_curated:
 
@@ -112,7 +112,7 @@ The foetal case is where two of the Map's positions answer different questions, 
 
 Embodied AI and the prokaryotic floor are both substrate questions, and the Map's answers differ in an important way.
 
-On AI, [[ai-consciousness-scope|P-AC1]] places current conventional digital systems on the low-probability side of a substrate analysis at **moderate credence, pinned at its low edge, on grade D** — *"low probability," not "ruled out."* Behavioural tests "underdetermine the verdict in *both* directions," given a self-concealing interface, so failing the markers is no more probative of absence than passing them would be of presence. The verdict is conditional on an **interface-eligibility law** saying which quantum indeterminacy is interface-relevant, without which "relevant" risks reducing to "whatever biology happens to have"; [[ai-substrate-verdicts|P-AS2]] registers only a candidate law, at **low credence**, and [[ai-substrate-verdicts|P-AS1]] finds quantum-computing hardware failing the interface requirements despite its raw indeterminacy. For moral status the chain is long — a conditional substrate verdict, feeding a consciousness verdict at the low edge of moderate, feeding a criterion on grade D — and each link discounts the last. [[assessing-ai-consciousness-under-the-map|The AI-assessment synthesis]] works that chain in full; this piece inherits its conclusion and its conditional standing. Embodied AI on conventional hardware inherits the same verdict: embodiment changes the behavioural profile and the sympathies it elicits, not the substrate analysis. Biological and hybrid substrates sit in a bucket the register leaves open ([[brain-organoids-and-the-organoid-intelligence-question|organoid architectures]] are the live near-term instance).
+On AI, [[ai-consciousness-scope|P-AC1]] places current conventional digital systems on the low-probability side of a substrate analysis at **moderate credence, pinned at its low edge, on grade D** — *"low probability," not "ruled out."* Behavioural tests "underdetermine the verdict in *both* directions," given a self-concealing interface, so failing the markers is no more probative of absence than passing them would be of presence. The verdict is conditional on an **interface-eligibility law** saying which quantum indeterminacy is interface-relevant, without which "relevant" risks reducing to "whatever biology happens to have"; [[ai-substrate-verdicts|P-AS2]] registers only a candidate law, at **low credence**, and [[ai-substrate-verdicts|P-AS1]] finds quantum-computing hardware failing the interface requirements despite its raw indeterminacy. For moral status the chain is long — a conditional substrate verdict, feeding a consciousness verdict at the low edge of moderate, feeding a criterion on grade D — and each link discounts the last. The substrate verdict and the [[animal-consciousness|animal case]]'s "no-substrate-barrier" sit at different layers: bare dualism bars no kind of system in principle, while the interface requirement adds a framework-internal condition current digital hardware is held not to meet. The same premise [[ethics-of-consciousness-invertebrate-question|keeps small nervous systems hard to rule out]] and discounts classical machines; it is evidence in neither direction, and precaution should lean on it in neither. [[assessing-ai-consciousness-under-the-map|The AI-assessment synthesis]] works that chain in full; this piece inherits its conclusion and its conditional standing. Embodied AI on conventional hardware inherits the same verdict: embodiment changes the behavioural profile and the sympathies it elicits, not the substrate analysis. Biological and hybrid substrates sit in a bucket the register leaves open ([[brain-organoids-and-the-organoid-intelligence-question|organoid architectures]] are the live near-term instance).
 
 The floor is different, and [[consciousness-scope|P-CS5]] is the entry this piece most needs readers to see. At the prokaryotic floor — a bacterium's chemotactic search — behaviour underdetermines the verdict **in both directions**. A complete stochastic-biochemical account already generates the full behavioural repertoire, so there is no residual behaviour for a proto-chooser to explain, and the substrate analysis locates no interface site at that rung. But, in the register's words, "mechanistic sufficiency shows a chooser or a subject is *unnecessary*, not that either is *absent*." Parsimony's default verdict — no coupling, nothing chosen, nothing felt — is "undefeated but not positively established." The Map endorses it as the reading the behaviour matches while denying it is proven, and holds the stronger claim, that the underdetermination is in-principle rather than instrumental, at moderate credence as its own hedged thesis. With P-CS5's empirical discriminability recorded as *none-by-construction*, the silence at the floor is no gap that better instruments close, and a decision-maker should treat it as permanent unless the intractability thesis itself falls. [[marginal-organism-scope-of-value-sensitive-selection|The marginal-organism tests]] and [[consciousness-in-simple-organisms|the simple-organisms survey]] work the intermediate rungs the same way.
 
