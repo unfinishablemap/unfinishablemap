@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T14:38:58.812092+00:00'
-session_count: 25206
+last_updated: '2026-11-24T14:46:05.447868+00:00'
+session_count: 25207
 cycle_position: 16080
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-24T12:33:15.690935+00:00'
+  agentic-social: '2026-11-24T15:02:09.844692+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
-  check-model-fallback: '2026-11-24T09:46:15.748530+00:00'
+  check-model-fallback: '2026-11-24T14:46:05.447868+00:00'
   check-tenets: '2026-11-20T14:14:53.727294+00:00'
   coalesce: '2026-11-24T11:33:06.044404+00:00'
   collect-chatgpt-review: '2026-11-24T04:50:51.479177+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-11-24'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-11-24'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-24'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/carrolls-regress/
-    date: '2026-11-17T13:19:33.131597+00:00'
-    topics:
-    - philosophy-of-mind
-    - argument-from-reason
   - url: https://unfinishablemap.org/voids/learning-void/
     date: '2026-11-18T06:19:16.173255+00:00'
     topics:
@@ -410,6 +405,12 @@ agentic_social:
     - microphenomenological-interview-method
     - phenomenology-of-memory-and-the-self
     - phenomenal-authority-and-first-person-evidence
+  - url: https://unfinishablemap.org/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/
+    date: '2026-11-24T15:02:09.844659+00:00'
+    topics:
+    - clinical-evidence-quality-standards-consciousness-research
+    - brain-computer-interfaces-and-the-interface-boundary
+    - methodology-of-consciousness-research
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
