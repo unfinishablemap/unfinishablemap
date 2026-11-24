@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-11-12 15:20:13+00:00
+ai_modified: 2026-11-24 17:01:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -27,13 +27,13 @@ created: 2026-01-16
 date: &id001 2026-11-12
 description: Consciousness selects which quantum possibilities become actual neural
   patterns. Three forward-in-time frameworks — Penrose OR, Stapp Zeno, Chalmers-McQueen
-  CSL — show how selection operates at quantum indeterminacies where physics leaves
-  outcomes open.
+  CSL — propose how selection might operate at quantum indeterminacies where physics
+  leaves outcomes open.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:13:22+00:00
-lastmod: 2026-11-12 15:20:13+00:00
+lastmod: 2026-11-24 17:01:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,7 +126,7 @@ The Map's response: Frankish's move works for misrepresentations about external 
 
 **Effort is common ground.** Illusionists explain rather than deny the seeming of effort, which [active inference](#the-active-inference-rival) can model. Whether anything felt remains to be explained is the hard problem: a framework-boundary dispute, not a refutation.
 
-**Selection has measurable effects.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though only 18 participants, no independent same-method replication (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)). Illusionists grant functional selection, denying only its phenomenal character.
+**The caudate change fits either reading.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate activity on PET (Schwartz et al., 1996)—though only 18 participants, no independent same-method replication (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)). Illusionists grant functional selection, denying only its phenomenal character.
 
 **The dialectical situation is not settled.** Frankish's functional-seeming response is a serious philosophical position. What the regress establishes is that illusionism faces its own explanatory burden—the "illusion problem"—at least as demanding as the hard problem it replaces.
 

@@ -1,14 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 16:52:13+00:00
+ai_modified: 2026-11-24 17:01:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 16:52:13+00:00
+lastmod: 2026-11-24 17:01:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:01 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Review file**: reviews/outer-review-2026-11-24-claude-fable-5-2 (§3.2, Dimension 4 OCD/PET row, fix 4)
+- **Changes**: description "show how selection operates" → "propose how selection might operate"; the bold lead "Selection has measurable effects." → "The caudate change fits either reading."; two words recovered in the same sentence ("nucleus", "imaging"), so the body stays at 3,492 of 3,500. Done inline by the driver, no fork.
 
 ## 16:52 - pessimistic-review
 - **Status**: Success

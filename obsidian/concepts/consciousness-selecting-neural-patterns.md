@@ -1,10 +1,10 @@
 ---
 title: "Consciousness-Selecting Neural Patterns"
-description: "Consciousness selects which quantum possibilities become actual neural patterns. Three forward-in-time frameworks — Penrose OR, Stapp Zeno, Chalmers-McQueen CSL — show how selection operates at quantum indeterminacies where physics leaves outcomes open."
+description: "Consciousness selects which quantum possibilities become actual neural patterns. Three forward-in-time frameworks — Penrose OR, Stapp Zeno, Chalmers-McQueen CSL — propose how selection might operate at quantum indeterminacies where physics leaves outcomes open."
 created: 2026-01-16
 modified: 2026-11-12
 human_modified: null
-ai_modified: 2026-11-12T15:20:13+00:00
+ai_modified: 2026-11-24T17:01:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ The Map's response: Frankish's move works for misrepresentations about external 
 
 **Effort is common ground.** Illusionists explain rather than deny the seeming of effort, which [active inference](#the-active-inference-rival) can model. Whether anything felt remains to be explained is the hard problem: a framework-boundary dispute, not a refutation.
 
-**Selection has measurable effects.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though only 18 participants, no independent same-method replication (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Illusionists grant functional selection, denying only its phenomenal character.
+**The caudate change fits either reading.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate activity on PET (Schwartz et al., 1996)—though only 18 participants, no independent same-method replication (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Illusionists grant functional selection, denying only its phenomenal character.
 
 **The dialectical situation is not settled.** Frankish's functional-seeming response is a serious philosophical position. What the regress establishes is that illusionism faces its own explanatory burden—the "illusion problem"—at least as demanding as the hard problem it replaces.
 
