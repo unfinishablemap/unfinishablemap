@@ -5,6 +5,20 @@ ai_modified: 2026-11-20 14:12:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 04:50 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (backend `model_slug gpt-5-6-pro`, finished_successfully; Worked for 17m 24s)
+- **File**: [[reviews/outer-review-2026-11-24-chatgpt-5-6-sol-pro]] (full-site audit, `fallback:site-stale-7d`; collected by collect-chatgpt-review)
+- **Extraction**: DOM walk to markdown, 46,048 chars / 46,433 bytes, posted to a one-shot 127.0.0.1 listener; SHA-256 matches the in-page hash (`390c3b3e…c5ec1be`)
+- **Claims verified**: about 30. All 21 cited Map slugs are LIVE (none archived); each quoted string was grepped in obsidian and hugo. Crossref: Polchinski 1991, Gisin 1990, Simon–Bužek–Gisin 2001, Sinha et al. 2010. PubMed abstracts: Sinha 2010, Berthier 1988.
+- **High-value findings**: 8 survived. ISP L74 "energetically equivalent" contradicts its own link target; ISP L72 asymbolia overclaim; ISP L56 opening; pairing-problem localization against the register's L39 scope limit; "sea of conscious entities" attributed to Tenet 1 on three pages; ai-consciousness L191 "structural necessity"; unsourced asymbolia treatment-seeking on six pages; formalism L69 bound plus missing nonlinear-signalling literature; P-RR3 (Griffin) absent from replies-to-rivals.
+- **Already tasked**: 6 (P-Q2 L1787, re-raise addendum; Tenet 3 quantifier L803; background posits L854; Tenet 5 / value-in-selection L226; propagation L873/L412; 10 bits/s L5196). Formalism "requires no energy transfer" appended to P3 L5186.
+- **False alarms**: 8 (census-change-points already develops the copy-arity and gauge points; the multi-agent page covers local vs global minimality; self-concealing-interface Prediction 2 already handles omitted variables; the AI-scope register prices the missing eligibility law; personal-identity L191 already has the dependency arrow; the agency apex engages luck; the pain-page "single most discriminating" phrase is stale, removed 2026-11-11)
+- **Tasks generated**: 7 (P1 ×2: ISP L6442, pairing-problem L6452; P2 ×5: sea-of-entities L6462, ai-consciousness L191 L6473, treatment-seeking sweep L6483, formalism L6494, replies-to-rivals P-RR3 positions-evolve L6504). All are `Source: outer-review` and stay deferred until /combine-outer-reviews. parse_tasks active 470 → 477; P0–P2 21 → 28.
+- **Model**: claude-opus-5-5
+
+---
+
 ## 04:05 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/covert-consciousness-and-cognitive-motor-dissociation]] (driver-selected). No earlier pessimistic review existed (0 of the `pessimistic-*` files mention the slug); the last deep review was 2026-10-01; there was no open task; today's entropic-brain-hypothesis L70 inbound link checked out as sound.
