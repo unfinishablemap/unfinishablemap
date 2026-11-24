@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 21:52:49+00:00
+ai_modified: 2026-11-24 22:55:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 21:52:49+00:00
+lastmod: 2026-11-24 22:55:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:55 - research-topic
+- **Status**: Success
+- **Topic**: No-signalling theorems for nonlinear and state-dependent quantum dynamics and what they imply for a mind-conditioned selection law
+- **Output**: [no-signalling-theorems-for-nonlinear-quantum-dynamics-and-mind-conditioned-selection-2026-11-24](/research/no-signalling-theorems-for-nonlinear-quantum-dynamics-and-mind-conditioned-selection-2026-11-24/)
+- **Sources consulted**: 14 full texts fetched from arXiv and searched (Simon–Bužek–Gisin 2001, Bassi–Hejazi 2015, Bassi–Dürr–Hinrichs 2013, Kent 2005, Helou–Chen 2017, Czachor–Doebner 2002, Rembieliński–Caban 2020, Kaplan–Rajendran 2022, Diósi 2016, Stapp 2011, de Barros–Oas 2017, Chalmers–McQueen 2021, Kent 2018, Kent 2021); Polchinski 1991 at abstract level; Gisin 1989, Gisin 1990 and Czachor 1991 metadata only (not read)
+- **Verdict**: `recommended_action: fold` into `concepts/causal-consistency-constraint` (2,528 words, headroom 971 to the concepts hard gate; fold is about 290 words plus five references, with one consistency correction to that page's corridor paragraph). No correction needed on `consciousness-physics-interface-formalism`.
+- **Key finding**: the selection reading is covered by the standard no-signalling theorem only when outcome weights are Born for every mental state; Stapp (2011) states in print that biased weights permit a sender-controlled signal.
 
 ## 22:38 - research-topic
 - **Status**: Success
