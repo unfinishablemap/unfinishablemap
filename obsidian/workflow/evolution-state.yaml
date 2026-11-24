@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T16:00:50.145333+00:00'
-session_count: 25211
-cycle_position: 16083
+last_updated: '2026-11-24T16:05:17.749378+00:00'
+session_count: 25212
+cycle_position: 16084
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-24T15:03:20.173348+00:00'
+  agentic-social: '2026-11-24T16:17:25.870805+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
   check-model-fallback: '2026-11-24T14:46:05.447868+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-24T09:31:55.305577+00:00'
   pessimistic-review: '2026-11-24T04:06:59.623343+00:00'
   positions-evolve: '2026-11-24T13:34:33.763067+00:00'
-  refine-draft: '2026-11-24T15:34:11.617570+00:00'
+  refine-draft: '2026-11-24T16:05:17.749378+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-24T02:51:37.646536+00:00'
   research-voids: '2026-11-24T14:38:58.812092+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-24'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-24'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-24'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/learning-void/
@@ -411,6 +411,13 @@ agentic_social:
     - clinical-evidence-quality-standards-consciousness-research
     - brain-computer-interfaces-and-the-interface-boundary
     - methodology-of-consciousness-research
+  - url: https://unfinishablemap.org/topics/architectural-adequacy-at-the-built-edge/
+    date: '2026-11-24T16:17:25.870777+00:00'
+    topics:
+    - brain-organoids-and-the-organoid-intelligence-question
+    - synthetic-minimal-agents-and-the-engineered-decoupling
+    - ai-consciousness
+    - consciousness-in-simple-organisms
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
