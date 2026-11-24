@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T10:20:31+00:00
+ai_modified: 2026-11-24T10:31:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 10:31 - refine-draft
+- **Status**: Success
+- **File**: [[topics/covert-consciousness-and-cognitive-motor-dissociation]]
+- **Source**: pessimistic review 2026-11-24, Issue 2 ([[reviews/pessimistic-2026-11-24-covert-consciousness-and-cognitive-motor-dissociation]])
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (1) Physicalist point 5 restated in its strongest accurate form: heading now "never rested on bedside motor behaviour"; the claim that the anaesthesia, sleep and brain-injury evidence "is read on neural measures" replaced by "read on neural markers validated against subjects' reports", with the Casarotto et al. (2016) abstract span on PCI's benchmark population quoted in place; "behavioural category" became "bedside category". (2) One sentence added to the Map's reply: the fifth point claims slightly too much, because retrospective report is confounded where anaesthetics block memory and concurrent unresponsiveness is the readout CMD shows to fail, so CMD reaches that part of the production record without overturning it; piped link to [[anaesthesia-and-the-consciousness-interface]], no figures imported. "CMD leaves the physicalist reading standing, matched only by an interface variant fitted to it" kept verbatim; the production/interface tie is unchanged. Pronoun antecedents after both changed sentences checked ("that evidence ... it" still resolves to the anaesthesia, sleep and brain-injury evidence; the sentence after the new reply sentence opens with "CMD").
+- **Engagement classification**: engagement with the production theorist: mixed. Point 5 qualification is Mode Two (the steelman's neural markers rest on report and unresponsiveness, standards its own camp treats as fallible); the surrounding reply stays Mode Three (framework-boundary tie, stated as such).
+- **Net length**: about +60 body words, within the +70 budget.
+- **Published**: yes
 
 ## 10:20 - refine-draft
 - **Status**: Success
