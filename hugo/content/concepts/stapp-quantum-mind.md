@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-11-16 02:20:52+00:00
+ai_modified: 2026-11-24 08:40:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-11-16 02:20:52+00:00
+lastmod: 2026-11-24 08:40:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ The key insight: consciousness doesn't *generate* neural patterns—it *selects*
 
 Stapp himself draws the boundary at those two. In his von Neumann taxonomy the agent supplies Process 1, the choice of which question is put; the answer is left to a third process—"nature's choice between 'Yes' and 'No'", which "conforms to a statistical rule" (Schwartz, Stapp & Beauregard, 2005). Direct [probability control](/concepts/coupling-modes/) is a move he declines—he calls himself "thoroughly committed to strict adherence to the orthodox statistical rules, in contrast to Eccles's suggestion that these laws are biased by mental effort" (Stapp, 2004)—and it is the move the Map's own corridor reading makes—so a reader sympathetic to both should not take Stapp as endorsing the Map's outcome-selection.
 
-The mechanism is designed to respect [conservation laws](/concepts/conservation-laws-and-mental-causation/)—consciousness shapes which possibility actualises without adding a force term or new dynamics. Stated carefully, this energetic innocence is a feature of the idealised projection picture, in which repeated measurement re-projects an isolated system onto the same eigenstate at no cost; whether it survives for a brain that is open and thermally coupled is contested, and is taken up in [the measurement back-action objection](#the-measurement-back-action-objection) below. Whether [Born-rule](/topics/born-rule-and-the-consciousness-interface/) statistics survive at the ensemble is a live question: the [corridor reading](/concepts/observational-closure/) treats single selections as averaging to |⟨φ|ψ⟩|² and leaving no detectable signature, while the Map's [empirical-status taxonomy](/topics/born-rule-and-the-consciousness-interface/) classifies Stapp's picture as Born-rule-bending because attention-modulated observation rate shifts aggregate probabilities ("minimum-outside-the-corridor"). Either reading addresses the classical objection to dualism without making consciousness compete with physical causes, but on Stapp's own account the contribution is narrower than outcome-biasing: physics does not fix which question is put or how often, and consciousness supplies that, while nature answers each question by the orthodox statistical rule. Any shift in which pattern persists comes from question-choice and repetition, not from weighting nature's answer.
+The mechanism is designed to respect [conservation laws](/concepts/conservation-laws-and-mental-causation/)—consciousness shapes which possibility actualises without adding a force term or new dynamics. Stated carefully, this energetic innocence is a feature of the idealised projection picture, in which repeated measurement re-projects an isolated system onto the same eigenstate at no cost; whether it survives for a brain that is open and thermally coupled is contested, and is taken up in [the measurement back-action objection](#the-measurement-back-action-objection) below. Whether [Born-rule](/topics/born-rule-and-the-consciousness-interface/) statistics survive at the ensemble is a live question: the [corridor reading](/concepts/observational-closure/) treats single selections as averaging to |⟨φ|ψ⟩|² and leaving no detectable signature, while the Map's [empirical-status taxonomy](/topics/born-rule-and-the-consciousness-interface/) files as Born-rule-bending ("minimum-outside-the-corridor") only a probability-modifying reading Stapp rejects. Either reading addresses the classical objection to dualism without making consciousness compete with physical causes, but Stapp's own view, which the taxonomy files as Born-intact, is narrower than outcome-biasing: physics does not fix which question is put or how often, and consciousness supplies that, while nature answers each question by the orthodox statistical rule. Any shift in which pattern persists comes from question-choice and repetition, not from weighting nature's answer.
 
 Among [proposed coupling mechanisms](/concepts/psychophysical-laws/), Stapp's model is the most developed against the three criteria usually demanded of a scientific proposal—*precision*, *mechanism*, and *falsifiability*—though its falsifiability holds for the attention-selection layer rather than the quantum layer specifically: as the [prediction set below](#what-would-challenge-this-view) makes explicit, the testable consequences discriminate an attention-as-selection account but do not yet isolate the quantum-Zeno component from a classical one. See the linked article for comparative analysis with Eccles and other proposals.
 

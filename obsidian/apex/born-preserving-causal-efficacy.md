@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-10-28
 human_modified: null
-ai_modified: 2026-11-14T03:27:59+00:00
+ai_modified: 2026-11-24T08:40:13+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -120,7 +120,7 @@ Rated against the Map's [[evidential-status-discipline|evidential-status discipl
 
 ### Route 2: Minimum-outside-the-corridor (efficacy with a signature)
 
-The second route bites the first horn deliberately. A fallback, it glosses "minimal" as "the smallest interaction *actually sufficient*", against the corridor's Born exactness, and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**.
+The second route bites the first horn deliberately. A fallback, it glosses "minimal" as "the smallest interaction *actually sufficient*", against the corridor's Born exactness, and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Penrose–Hameroff Orch-OR, Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0, and an outcome-biased variant of Chalmers–McQueen collapse that its authors decline. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. Route 2 alone is even potentially **interface-discriminating**.
 
 Its cost is symmetric and currently unrewarded. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the external-device end of this family onto thin ground, where any surviving version must hide below current sensitivity; the family's brain-internal candidates stay untested, not disconfirmed. A deeper exposure: a signalling-capable departure would violate no-signalling, and the causal-consistency constraint says the corridor's Born-preservation keeps the default reading signalling-safe. A minimum-outside-corridor variant must show its deviation is signalling-safe, not merely small.
 

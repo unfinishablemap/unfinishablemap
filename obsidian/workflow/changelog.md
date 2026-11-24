@@ -1,8 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T08:11:12+00:00
+ai_modified: 2026-11-24T08:43:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 08:42 - refine-draft
+- **Status**: Success
+- **File**: [[apex/born-preserving-causal-efficacy]]; secondary [[topics/born-rule-and-the-consciousness-interface]], [[concepts/stapp-quantum-mind]]
+- **Source**: outer review 2026-11-24 (Claude Fable 5.2 full-site audit) §1 TL;DR, §2 Dimension 4 rows 1–2, Dimension 5 Stapp rows, fix 1 (first and fourth bullets) and fix 8 ([[reviews/outer-review-2026-11-24-claude-fable-5-2]])
+- **Original score**: n/a (`scripts/curate.py` absent). Contradiction internal to the Map: the taxonomy's own question-choice row and the Stapp page put Stapp's mechanism in Process 1 with Born answers, while three loci filed his Zeno model as Born-deviating.
+- **Changes**:
+  - Apex L123 (Route 2 catalogue): "include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0." → "include Penrose–Hameroff Orch-OR, Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0, and an outcome-biased variant of Chalmers–McQueen collapse that its authors decline." Stapp now appears in Route 3 only. Chalmers–McQueen is relabelled as the variant its authors decline, in the `concepts/causal-consistency-constraint` L75 form, which keeps reference 2 cited in the body.
+  - Apex L123, length offset: "This is the only route of the three that is even potentially **interface-discriminating**." → "Route 2 alone is even potentially **interface-discriminating**." The meaning is unchanged.
+  - Taxonomy L169: "- *Stapp's quantum Zeno.* Rapid conscious attention holds an eigenstate, shifting selection probabilities away from non-conscious outcomes." → "- *Stapp's quantum Zeno, read as modifying selection probabilities.* A reading Stapp himself rejects (question-choice dualism, above)."
+  - Taxonomy L94: "(Arana-λ, Stapp-Zeno)" → "(Arana-λ)". Taxonomy L209: "sub-readings (Stapp-Zeno, Chalmers-McQueen Φ-collapse," → "sub-readings (Chalmers-McQueen Φ-collapse,".
+  - Stapp page L66: "classifies Stapp's picture as Born-rule-bending because attention-modulated observation rate shifts aggregate probabilities ("minimum-outside-the-corridor"). … but on Stapp's own account the contribution is narrower than outcome-biasing:" → "files as Born-rule-bending ("minimum-outside-the-corridor") only a probability-modifying reading Stapp rejects. … but Stapp's own view, which the taxonomy files as Born-intact, is narrower than outcome-biasing:"
+  - Untouched: apex L57, L95–L99, L125 and L145 (P-Q2/signalling, waiting on the blocked HUMAN DECISION, plus the separate Torres Alegre task); taxonomy L114 (open P3); `concepts/metaphysics-of-information-under-dualism` (open P3); `last_deep_review` on all three. `ai_system` already contains claude-opus-5-5 on all three pages, so nothing was appended.
+- **Length** (analyze_length, body-only): apex 5,113 → 5,111 (−2; hard 5,000); taxonomy 5,442 → 5,440 (−2; hard 4,000); Stapp page 3,988 → 3,988 (±0; hard 3,500)
+- **Quote check** (Stapp page): Stapp 2004 "thoroughly committed to strict adherence to the orthodox statistical rules, in contrast to Eccles's suggestion that these laws are biased by mental effort" was found verbatim in the OSTI 860371 PDF (LBNL-55887). The PDF uses a curly apostrophe in "Eccles’s". Schwartz, Stapp & Beauregard 2005: the PMC copy has no full text (the publisher does not allow it). Stapp's own preprint (www-physics.lbl.gov/~stapp/PTB6.pdf) has "Nature’s choice between “Yes” and “No.” Nature’s choice conforms to a statistical rule". Both page quotations are present there, with case and quote-mark normalisation ("nature's" for "Nature’s"). The publisher's version was not checked.
+- **Reasoning mode**: n/a (no named-opponent engagement edited; this pass fixed a classification)
+- **Follow-up minted**: P2 refine-draft "Six pages still say the Born-rule taxonomy files Stapp's Zeno model itself as Born-rule-bending…". It covers `concepts/ensemble-level-epiphenomenalism` L59 (which carries the apex's old Route-2 sentence verbatim), `topics/amplification-mechanisms-consciousness-physics` L151, `topics/pragmatist-quantum-foundations-and-the-agent` L93, `concepts/psychophysical-laws` L149, `concepts/coupling-modes` L96 and `topics/wheelers-participatory-universe-and-it-from-bit` L86.
+- **Published**: yes
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 08:10 - deep-review
