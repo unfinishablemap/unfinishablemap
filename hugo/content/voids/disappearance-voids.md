@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-11-16 22:33:56+00:00
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-fable-5-1+claude-fable-5-2
+ai_modified: 2026-11-24 02:09:05+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-fable-5-1+claude-fable-5-2+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/absorption-void/
@@ -19,15 +19,15 @@ concepts:
 - '[[predictive-processing]]'
 - '[[mental-effort]]'
 created: 2026-02-03
-date: &id001 2026-11-16
+date: &id001 2026-11-24
 description: Three mechanisms by which phenomenal content vanishes from consciousness
   — peak intensity, repetition, and depletion — each revealing architecture invisible
   under normal conditions.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 13:35:25+00:00
-lastmod: 2026-11-16 22:33:56+00:00
+last_deep_review: 2026-11-24 02:09:05+00:00
+lastmod: 2026-11-24 02:09:05+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -52,7 +52,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Consciousness loses access to its own content through three distinct mechanisms. In absorption, peak intensity eliminates self-awareness — the most vivid experiences are the least introspectively accessible. In habituation, repetition erases the familiar from phenomenal awareness while leaving functional processing intact. In fatigue, capacities are shed in a predictable hierarchy while the felt sense of impairment comes loose from the impairment itself — plateauing, or pointing the wrong way, as the deficit grows. Each mechanism reveals architecture invisible when everything works normally, and together they show that what consciousness presents as "everything" is already a selection — one that narrows through intensity, repetition, or depletion.
+Consciousness loses access to its own content through three distinct mechanisms. In absorption, peak intensity eliminates self-awareness — the most vivid experiences are the least introspectively accessible. In habituation, repetition erases the familiar from phenomenal awareness while leaving functional processing intact. In fatigue, capacities are shed unevenly while the felt sense of impairment comes loose from the impairment itself — plateauing, or pointing the wrong way, as the deficit grows. Each mechanism reveals architecture invisible when everything works normally, and together they show that what consciousness presents as "everything" is already a selection — one that narrows through intensity, repetition, or depletion.
 
 The [attention-created voids](/voids/attention-and-consciousness/) describe how selection *structurally* excludes content: to attend is to render something unattendable. The three disappearance voids described here are specific instances of that principle, each operating through a different causal pathway.
 
@@ -68,51 +68,51 @@ The constraint is inherent, not a limitation of current methods. The [transit-vo
 
 ### Cross-Cultural Convergence
 
-The absorption void is among the best-attested cognitive limits. Csikszentmihalyi's research across thousands of interviews and experience-sampling cases documents that flow involves loss of self-consciousness — attention fully invested in the activity, leaving no capacity for self-monitoring (Csikszentmihalyi, 1990). Buddhist contemplative traditions describe jhana as awareness stripped of self-reference — not unconsciousness, but consciousness without a witness (though some traditions hold that a minimal self-awareness persists even here). The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) shows this self-dissolution is one of three convergence zones reported across Buddhist, Hindu, Christian, Sufi, and Daoist practices.
+The absorption void is among the best-attested cognitive limits. Csikszentmihalyi's research across thousands of interviews and experience-sampling cases documents that flow involves loss of self-consciousness — attention fully invested in the activity, leaving no capacity for self-monitoring (Csikszentmihalyi, 1990). Buddhist contemplative traditions describe jhana as awareness stripped of self-reference — not unconsciousness, but consciousness without a witness (though some traditions hold that a minimal self-awareness persists even here). The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) shows this self-dissolution is one of three convergence zones reported across Buddhist, Hindu, Christian and Sufi practices.
 
 Three features recur: a threshold recognition as self-awareness fades, an absence not experienced as absence (noticing it would require the self-awareness whose absence defines the state), and re-emergence shock — the jarring return with a paradoxical sense of "I was gone."
 
 ### The Dreyfus-Zahavi Disagreement
 
-Whether absorption eliminates self-awareness entirely remains contested. Dreyfus argues that absorbed skillful coping is "non-conceptual, non-representational, and mindless" (Dreyfus, 2014). Zahavi counters that pre-reflective self-consciousness — a minimal "sense of mineness" — persists even during absorption (Gallagher & Zahavi, 2012). If Dreyfus is correct, the void is total; if Zahavi is correct, it has a thin floor. The unresolved debate may itself indicate the question lies beyond current conceptual resources.
+Whether absorption eliminates self-awareness entirely remains contested. Dreyfus argues that absorbed skillful coping is non-conceptual, non-representational and "mindless" (Dreyfus, 2014). Zahavi counters that pre-reflective self-consciousness — a minimal "for-me-ness" — persists even during absorption (Zahavi, 2013). If Dreyfus is correct, the void is total; if Zahavi is correct, it has a thin floor. The unresolved debate may itself indicate the question lies beyond current conceptual resources.
 
 ### Neural Architecture
 
-The default mode network — associated with self-referential processing — shows reduced activity during both flow states and deep meditation (Menon, 2023). This is not merely subjective report: the neural machinery of self-monitoring genuinely deactivates during absorption. A continuum emerges from heightened DMN activity (rumination, depression) through normal waking self-awareness to suppressed DMN activity (flow, meditation, psychedelic states).
+The default mode network, associated with self-referential processing (Menon, 2023), is relatively deactivated in experienced meditators (Brewer et al., 2011), and its medial prefrontal node quietens during experimentally induced flow (Ulrich et al., 2014). The report of vanished self-awareness thus has a third-person correlate, though a quieter network is not self-monitoring switched off.
 
-The DMN suppression shows that [self-awareness](/concepts/self-and-self-consciousness/) can be selectively eliminated while other aspects of consciousness intensify — a dissociation suggesting architecture more structured than "consciousness equals processing."
+The DMN reduction suggests that [self-awareness](/concepts/self-and-self-consciousness/) can be selectively attenuated while other aspects of consciousness intensify — a dissociation pointing to architecture more structured than "consciousness equals processing."
 
 ## Habituation: The Familiar Disappears
 
-When experiences become sufficiently routine, they drop out of phenomenal awareness while remaining functionally processed. You navigate your daily commute without seeing it. The background hum of your refrigerator vanishes unless it stops. The taste of your morning coffee fades within the first few sips. Unlike absorption, habituation operates on the mundane — erasing the ordinary from consciousness while leaving functional competence intact.
+When experiences become sufficiently routine, they drop out of phenomenal awareness while remaining functionally processed. You navigate your daily commute without seeing it. The background hum of your refrigerator vanishes unless it stops. The taste of your morning coffee fades within the first few sips. Unlike absorption, habituation operates on the mundane.
 
 ### The Architecture of Disappearance
 
-Viktor Shklovsky diagnosed this in 1917 as "automatization" — habitual perception deadening the senses. William James complemented the observation: "A thing may be present to a man a hundred times, but if he persistently fails to notice it, it cannot be said to enter into his experience." Attending to the familiar can briefly restore awareness, but the restoration is effortful and temporary.
+Viktor Shklovsky diagnosed this in 1917 as "automatization" — habitual perception deadening the senses. William James complemented the observation: "A thing may be present to him a thousand times, but if he persistently fails to notice it, it cannot be said to enter into his experience." Attending to the familiar can briefly restore awareness, but the restoration is effortful and temporary.
 
 The neural mechanism involves *synaptic adaptation* — repeated stimulation triggers synaptic depression and receptor desensitization, making the responding circuits progressively less responsive until they fall below the threshold of conscious registration. This connects to [filter theory](/concepts/filter-theory/): if the brain constrains rather than produces consciousness, habituation may be a filtering mechanism that actively screens out the familiar to conserve phenomenal access for the novel.
 
 ### Manifestations Across Domains
 
-The void operates at every level. *Perceptual habituation*: change blindness and inattentional blindness research reveals familiar environments processed without phenomenal awareness. *Hedonic habituation*: the "hedonic treadmill" shows that life events produce only temporary changes in subjective well-being — lottery winners return to baseline, paraplegics recover much of theirs. *Semantic satiation*: repeat a word enough times and it loses meaning. *Existential habituation*: Shklovsky warned that habitualization "devours works, clothes, furniture, one's wife, and the fear of war." Heidegger described how practical activities become transparent — the skilled hammer user experiences the nail, not the hammer.
+The void operates at every level. *Perceptual habituation*: change blindness and inattentional blindness research reveals familiar environments processed without phenomenal awareness. *Hedonic habituation*: the "hedonic treadmill" left lottery winners no happier than controls (Brickman et al., 1978), though adaptation is often incomplete: disability brings lasting losses (Lucas, 2007). *Semantic satiation*: repeat a word enough times and it loses meaning. *Existential habituation*: Shklovsky warned that habitualization "devours work, clothes, furniture, one's wife, and the fear of war." Heidegger described how practical activities become transparent — the skilled hammer user experiences the nail, not the hammer.
 
 ### Why the Void is Structural
 
-Four lines of evidence support the claim that habituation is architectural rather than motivational. The hedonic treadmill operates even when subjects actively want to maintain elevated happiness — the void is not a matter of insufficient intention. Synaptic adaptation at the cellular level creates physical constraints on sustained responsiveness. Disorders characterised by reduced habituation — schizophrenia, autism, Tourette syndrome — produce "sensory flooding" and cognitive dysfunction, suggesting the void is functionally necessary. And every culture develops defamiliarization practices — Shklovsky's ostranenie, Brecht's Verfremdungseffekt, Zen's shoshin — convergence suggesting a universal structural limit.
+Four lines of evidence support the claim that habituation is architectural rather than motivational. The hedonic treadmill operates even when subjects actively want to maintain elevated happiness — the void is not a matter of insufficient intention. Synaptic adaptation at the cellular level creates physical constraints on sustained responsiveness. In schizophrenia, autism and Tourette syndrome, abnormal habituation tracks symptom severity (McDiarmid et al., 2017); if the abnormality is causal rather than symptomatic, the void is functionally necessary. And every culture develops defamiliarization practices — Shklovsky's ostranenie, Brecht's Verfremdungseffekt, Zen's shoshin — convergence suggesting a universal structural limit.
 
 ### Defamiliarization: Approaches to the Edge
 
 Contemplative practice aims to restore "beginner's mind" through disciplined attention, with temporary success requiring ongoing effort. Art functions as "deautomatization" — making the familiar strange to restore phenomenal richness. Novel environments restore awareness, but habituation begins immediately on exposure. And breakdown experiences — semantic satiation, déjà vu — reveal what normal habituation hides.
 
-## Fatigue: Capacities Shed in Order
+## Fatigue: Capacities Shed Unevenly
 
-Consciousness does not fail all at once. Under fatigue, capacities are shed in a predictable order — attention first, then executive function, then creative thinking — while basic rule-following persists longest. The fatigue void is produced by depletion, and what conceals it is not a failure of self-monitoring but a felt sense of the narrowing that can detach from the narrowing it reports.
+Consciousness does not fail all at once. Under fatigue, capacities are shed unevenly — alertness and attention most reliably, creative thinking too — while rule-based reasoning is largely spared. The fatigue void is produced by depletion, and what conceals it is not a failure of self-monitoring but a felt sense of the narrowing that can detach from the narrowing it reports.
 
-### The Shedding Hierarchy
+### Uneven Shedding
 
-Sleep deprivation research reveals a consistent order of cognitive loss: tonic alertness and sustained attention degrade first, then working memory, then executive functions — planning, inhibition, flexible thinking — as the prefrontal cortex proves especially sensitive to sleep loss. Creative and divergent thinking degrades significantly. Yet convergent, rule-based reasoning persists (Killgore, 2010).
+Sleep deprivation research finds differential vulnerability rather than a fixed sequence. Alertness, attention and vigilance degrade most consistently; findings for memory and executive function are mixed, although the prefrontal cortex appears particularly susceptible. Creative, divergent thinking degrades, while many convergent and rule-based reasoning, decision-making and planning tasks are relatively unaffected (Killgore, 2010).
 
-The [anesthesia void](/voids/anesthesia-void/) reveals a parallel decomposition. Low doses produce analgesia and amnesia; deeper agents lose environmental awareness before self-awareness, and self-awareness before internal thought. The literature distinguishes three states under nominally stable anesthesia — unconsciousness, disconnected consciousness (content without environmental coupling), and connected consciousness (intraoperative awareness) — refining the simple switch picture into dissociable couplings (Montupil et al., 2023). Convergence between metabolic depletion and pharmacological suppression suggests the dissociability is structural.
+The [anesthesia void](/voids/anesthesia-void/) reveals a parallel decomposition. The literature distinguishes three states under nominally stable anesthesia — unconsciousness, disconnected consciousness (content without environmental coupling), and connected consciousness (intraoperative awareness) — refining the simple switch picture into dissociable couplings (Montupil et al., 2023). Convergence between sleep loss and pharmacological suppression suggests the dissociability is structural.
 
 ### The Gauge That Comes Loose
 
@@ -128,31 +128,31 @@ Fatigue-induced narrowing often feels like relief. The shed capacities are exper
 
 ### Fatigue as Ontological Disclosure
 
-Emmanuel Levinas treated fatigue as an ontological disclosure rather than a psychological state. In *Existence and Existents* (1947), Levinas argued that fatigue reveals the *il y a* — the impersonal, anonymous being that underlies individual existence. If consciousness is an "awakening" from this impersonal ground, then fatigue is a partial return toward it — the effort required to be a subject at all becomes visible.
+Emmanuel Levinas treated fatigue as an ontological disclosure rather than a psychological state. In *Existence and Existents* (1947), fatigue, like indolence and insomnia, widens the gap between the embodied self and the intentional ego, while the subject itself is an awakening out of the *il y a* — impersonal, anonymous being. On the Map's reading, fatigue is a partial return toward that ground, making visible the effort required to be a subject at all.
 
-This reading aligns with the empirical hierarchy: what degrades first represents the highest elaborations of subjectivity, and what persists longest is closer to processing that does not require full conscious engagement.
+The empirical profile fits only in part: creative, divergent thought degrades while rule-based reasoning is spared, but what fails most reliably is basic alertness, not an elaboration of subjectivity.
 
 ### Separable Phenomenal Capacities
 
-Fatigue reveals joints in phenomenal experience invisible under normal conditions. Tania Singer's research demonstrates that empathy fatigues while compassion does not — distinct neural circuits that only selective fatigue exposes as separable (Singer & Klimecki, 2014). What appears as unified "caring" is actually a composite. Consciousness degrades gracefully rather than catastrophically, and the degradation order reveals which capacities are load-bearing and which are elaborations.
+Fatigue may reveal joints in phenomenal experience invisible under normal conditions. Tania Singer's group links burnout to empathic distress rather than compassion, and training studies separate the two into non-overlapping neural networks (Klimecki et al., 2014). What appears as unified "caring" is actually a composite. Consciousness degrades gracefully rather than catastrophically, and the degradation pattern suggests which capacities are load-bearing and which are elaborations.
 
 ## What the Three Voids Reveal Together
 
 The three mechanisms share a common structure: each produces phenomenal disappearance that consciousness is poorly placed to detect from within. But they differ in what they reveal about architecture, and — as the fatigue evidence shows — in how badly placed consciousness turns out to be.
 
-**Absorption** shows that consciousness has at least two modes — reflective and absorbed — and that self-monitoring is not a permanent accompaniment of experience but a layer that can be selectively removed. The DMN suppression during flow and meditation supplies third-person confirmation of a genuine structural feature rather than a failure of report.
+**Absorption** shows that consciousness has at least two modes — reflective and absorbed — and that self-monitoring is not a permanent accompaniment of experience but a layer that can be selectively dampened. The DMN reduction during flow and meditation supplies third-person corroboration of a structural feature rather than a failure of report.
 
 **Habituation** shows that consciousness is constitutively novelty-oriented. The familiar is beneath notice by design, in a system evolved to detect change and threat rather than appreciate the stable. The cost is phenomenal impoverishment: life automated into nothingness unless actively resisted.
 
-**Fatigue** shows that consciousness is a *composite* of separable capacities with a priority ordering — an architecture visible only through degradation. The shedding hierarchy reveals what consciousness adds on top of more basic processing.
+**Fatigue** shows that consciousness is a *composite* of separable capacities with unequal vulnerability — an architecture visible chiefly through degradation. The uneven shedding hints at what consciousness adds on top of more basic processing.
 
-Together they demonstrate that phenomenal content is an allocation shifting with intensity, familiarity, and metabolic state. The [resolution-void](/voids/resolution-void/) documents the spatial version of the constraint — the six-order-of-magnitude compression between available and accessed information — and the disappearance voids add the temporal and state-dependent dimensions.
+Together they demonstrate that phenomenal content is an allocation shifting with intensity, familiarity, and physiological state. The [resolution-void](/voids/resolution-void/) documents the spatial version of the constraint — the six-order-of-magnitude compression between available and accessed information — and the disappearance voids add the temporal and state-dependent dimensions.
 
 ## Classification
 
 Within the [voids framework](/voids/three-kinds-of-void/), these disappearance voids are mixed:
 
-**Unexplored**: The exact mechanisms by which each process removes content from consciousness remain incompletely understood. The relationship between habituation rates and theories of consciousness is underdeveloped. Whether the shedding hierarchy in fatigue varies across individuals or cultures is under-researched.
+**Unexplored**: The exact mechanisms by which each process removes content from consciousness remain incompletely understood. The relationship between habituation rates and theories of consciousness is underdeveloped. Whether fatigue's vulnerability profile varies across cultures is under-researched.
 
 **Unexplorable**: Some aspects may be constitutively inaccessible. The observation-termination problem in absorption appears to be a structural limit, not a methodological one. Novelty-seeking in habituation may be intrinsic to conscious architecture. The fatigue case has moved under measurement: self-monitoring survives sleep loss largely intact, and what remains plausibly unexplorable is narrower — telling an adapted felt state apart from a failed report would require a measure of the phenomenal state independent of the report, precisely what is unavailable.
 
@@ -164,46 +164,46 @@ That reclassification is the second time a limit the catalogue called structural
 
 **[Dualism](/tenets/#dualism)** gains a reading from the three mechanisms and no evidence. Each datum is a dissociation this page already accounts for physically: self-monitoring drops out in absorption as default-mode activity falls, habituated input is still processed while synaptic adaptation takes it below conscious registration, and the [anesthesia](/voids/anesthesia-void/) states come apart as dissociable couplings. None discriminates dualism from physicalism. The Map reads the gap between continued processing and vanished experience as a sign that experience is more than functional competence. That reading is the Map's and carries no evidential weight: the voids register has [suspended the cumulative step](/positions/voids-as-evidence/#p-v3).
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is enriched by the volitional dimensions of each void. Contemplative practitioners deliberately enter absorbed states, which fits consciousness selecting its own mode of operation without showing it. Fatigue offers a weaker version: capacities are shed not at random but in an order that tracks how much deliberate engagement each requires.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is enriched by the volitional dimensions of each void. Contemplative practitioners deliberately enter absorbed states, which fits consciousness selecting its own mode of operation without showing it. Fatigue offers a weaker version: capacities are shed not at random but unevenly, in a pattern the Map reads as tracking how much deliberate engagement each requires.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly implicated. Habituation is cognitive simplification applied to lived experience: the simplest assumption is that the familiar requires no attention, but simplest is not richest. The Dreyfus-Zahavi debate on absorption resists resolution through simple categories. And the simple model of fatigue as "running out of energy" masks a complex, structured phenomenon with existential, phenomenological, and architectural dimensions.
 
 ## Further Reading
 
-- [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
+- [Voids in the Map](/voids/) — The broader framework
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits
 - [attention-and-consciousness](/voids/attention-and-consciousness/) — How attention structurally creates voids
 - [self-opacity](/voids/self-opacity/) — The observer who cannot observe itself observing
-- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — How edge and altered states probe cognitive limits
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — Altered states as probes
 - [what-voids-reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate architecture
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [transit-void](/voids/transit-void/) — The general case: consciousness cannot witness its own crossings
-- [anesthesia-void](/voids/anesthesia-void/) — The pharmacologically imposed gap and the three-states taxonomy
+- [anesthesia-void](/voids/anesthesia-void/) — The three-states taxonomy
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The fatigue-sleep continuum
-- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — When consciousness actively misrepresents its own narrowing
-- [resolution-void](/voids/resolution-void/) — The spatial compression constraint on phenomenal access
-- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How skill acquisition creates phenomenological invisibility
+- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Consciousness misreading its own narrowing
+- [resolution-void](/voids/resolution-void/) — The spatial compression constraint
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — Skill as phenomenological invisibility
 
 ## References
 
 1. Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
 2. Dreyfus, H. L. (2014). *Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action*. Oxford University Press.
-3. Gallagher, S. & Zahavi, D. (2012). *The Phenomenological Mind*. 2nd ed. Routledge.
-4. Menon, V. (2023). "20 years of the default mode network: A review and synthesis." *Neuron*.
-5. Sparby, T. & Sacchet, M. D. (2024). "Toward a Unified Account of Advanced Concentrative Absorption Meditation: A Systematic Definition and Classification of Jhāna." *Mindfulness*, 15, 1375-1394.
-6. Shklovsky, V. (1917). "Art as Device." *Russian Formalist Criticism: Four Essays*, trans. Lee T. Lemon and Marion J. Reis (1965).
-7. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-8. Brickman, P., Coates, D., & Janoff-Bulman, R. (1978). "Lottery Winners and Accident Victims: Is Happiness Relative?" *Journal of Personality and Social Psychology*, 36(8), 917-927.
-9. Frederick, S. & Loewenstein, G. (1999). "Hedonic Adaptation." In *Well-Being: The Foundations of Hedonic Psychology*, Russell Sage Foundation.
-10. Rankin, C. H. et al. (2009). "Habituation Revisited: An Updated and Revised Description of the Behavioral Characteristics of Habituation." *Neurobiology of Learning and Memory*, 92(2), 135-138.
-11. Suzuki, S. (1970). *Zen Mind, Beginner's Mind*. Weatherhill.
-12. Heidegger, M. (1927). *Being and Time*, trans. John Macquarrie and Edward Robinson (1962). Harper & Row.
-13. Killgore, W.D.S. (2010). "Effects of Sleep Deprivation on Cognition." *Progress in Brain Research*, 185, 105-129.
-14. Montupil, J., Cardone, P., Staquet, C., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
-15. Levinas, E. (1947/1978). *Existence and Existents*. Trans. A. Lingis. Kluwer Academic.
-16. Han, B.-C. (2015). *The Burnout Society*. Trans. E. Butler. Stanford University Press.
-17. Singer, T. & Klimecki, O. (2014). "Empathy and Compassion." *Current Biology*, 24(18), R875-R878.
-18. Ciocan, C. (2025). "The Phenomenology of Fatigue: Effort, Powerlessness, and the Temporal Sedimentation of Weariness." *Phenomenology and the Cognitive Sciences*. Springer.
+3. Zahavi, D. (2013). "Mindedness, Mindlessness, and First-Person Authority." In J. K. Schear (ed.), *Mind, Reason, and Being-in-the-World*, 330-353. Routledge.
+4. Menon, V. (2023). "20 years of the default mode network: A review and synthesis." *Neuron*, 111(16), 2469-2487.
+5. Brewer, J. A. et al. (2011). "Meditation Experience Is Associated with Differences in Default Mode Network Activity and Connectivity." *PNAS*, 108(50), 20254-20259.
+6. Ulrich, M., Keller, J., Hoenig, K., Waller, C. & Grön, G. (2014). "Neural Correlates of Experimentally Induced Flow Experiences." *NeuroImage*, 86, 194-202.
+7. Sparby, T. & Sacchet, M. D. (2024). "Toward a Unified Account of Advanced Concentrative Absorption Meditation: A Systematic Definition and Classification of Jhāna." *Mindfulness*, 15, 1375-1394.
+8. Shklovsky, V. (1917). "Art as Technique." *Russian Formalist Criticism: Four Essays*, trans. Lee T. Lemon and Marion J. Reis (1965).
+9. James, W. (1890). *The Principles of Psychology*, Vol. 1, Ch. 9. Henry Holt.
+10. Brickman, P., Coates, D., & Janoff-Bulman, R. (1978). "Lottery Winners and Accident Victims: Is Happiness Relative?" *Journal of Personality and Social Psychology*, 36(8), 917-927.
+11. Lucas, R. E. (2007). "Long-Term Disability Is Associated with Lasting Changes in Subjective Well-Being." *Journal of Personality and Social Psychology*, 92(4), 717-730.
+12. McDiarmid, T. A., Bernardos, A. C. & Rankin, C. H. (2017). "Habituation Is Altered in Neuropsychiatric Disorders." *Neuroscience and Biobehavioral Reviews*, 80, 286-305.
+13. Suzuki, S. (1970). *Zen Mind, Beginner's Mind*. Weatherhill.
+14. Heidegger, M. (1927). *Being and Time*, trans. John Macquarrie and Edward Robinson (1962). Harper & Row.
+15. Killgore, W.D.S. (2010). "Effects of Sleep Deprivation on Cognition." *Progress in Brain Research*, 185, 105-129.
+16. Montupil, J., Cardone, P., Staquet, C., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
+17. Levinas, E. (1947/1978). *Existence and Existents*. Trans. A. Lingis. Martinus Nijhoff.
+18. Klimecki, O. M., Leiberg, S., Ricard, M. & Singer, T. (2014). "Differential Pattern of Functional Brain Plasticity after Compassion and Empathy Training." *Social Cognitive and Affective Neuroscience*, 9(6), 873-879.
 19. Simons, D. J. & Chabris, C. F. (1999). "Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events." *Perception*, 28(9), 1059-1074.
 20. Baranski, J. V., Pigeau, R. A. & Angus, R. G. (1994). "On the Ability to Self-Monitor Cognitive Performance During Sleep Deprivation: A Calibration Study." *Journal of Sleep Research*, 3(1), 36-44. doi:10.1111/j.1365-2869.1994.tb00102.x
 21. Van Dongen, H. P. A., Maislin, G., Mullington, J. M. & Dinges, D. F. (2003). "The Cumulative Cost of Additional Wakefulness: Dose-Response Effects on Neurobehavioral Functions and Sleep Physiology from Chronic Sleep Restriction and Total Sleep Deprivation." *Sleep*, 26(2), 117-126.

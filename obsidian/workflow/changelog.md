@@ -5,6 +5,19 @@ ai_modified: 2026-11-20 14:12:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 02:10 - deep-review
+- **Status**: Success
+- **File**: [[voids/disappearance-voids]]
+- **Word count**: 2988 → 2974 (−14; analyze_length; voids hard 3,000 gate `>=`; now soft_warning only)
+- **Critical issues addressed**: 11. Driver-selected verbatim-quotation and source-reporting pass. James quote was *Briefer Course* wording cited to *Principles* (Ch. 9 p. 286 reads "him a thousand times"). Dreyfus triad was a paraphrase in quote marks. Zahavi counter was cited to the wrong work (now Zahavi 2013, "for-me-ness"). Killgore 2010 result misreported (invented sequence; planning reversed) with dependents fixed. Levinas alignment contradicted the page's own ordering. A Montupil sentence was absent from the source (cut). Menon 2023 does not mention meditation or flow states (now Brewer 2011 + Ulrich 2014). Brickman 1978 cross-sectional result was reported as return-to-baseline (Lucas 2007 added). "Sensory flooding" was unsourced (McDiarmid 2017, causal direction conditional). The Singer separation came from training studies, not fatigue (Klimecki et al. 2014). The Levinas gloss is now labelled as the Map's reading
+- **Medium issues addressed**: 2 (Shklovsky "works"→"work" plus the Lemon & Reis title "Art as Technique"; Levinas publisher Martinus Nijhoff 1978)
+- **Enhancements made**: 0 (length-neutral; References: −Han 2015, −Ciocan 2025, Frederick & Loewenstein → Lucas, Rankin 2009 → McDiarmid, G&Z 2012 → Zahavi 2013, primer → Klimecki 2014, +Brewer, +Ulrich)
+- **Quote verification**: raw-text grep only. psychclassics *Principles* (28 chapters) + archive.org *Briefer Course* djvu ×2; Lemon & Reis transcriptions ×2 (printed scan unretrievable); Zahavi 2013 PDF; Dreyfus 2002 PDF; SEP self-consciousness + Levinas HTML; PMC efetch ×6; PubMed abstracts ×14; Crossref. Singer & Klimecki 2014 primer body unretrievable (403 or login)
+- **Model**: claude-opus-5-5 (ai_system appended)
+- **Output**: [[reviews/deep-review-2026-11-24-disappearance-voids]]
+
+---
+
 ## 01:34 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/entropic-brain-hypothesis]]
