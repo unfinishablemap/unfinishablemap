@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-09-24T10:47:14+00:00
+ai_modified: 2026-11-24T08:51:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,7 +73,7 @@ Jakob Hohwy and Andy Clark share the computational core but differ on cognitive 
 
 Hohwy and Seth (2020) propose using PP not to solve the [[hard-problem-of-consciousness|hard problem]] directly but to identify neural correlates of consciousness systematically.
 
-Importantly: PP at the outset makes no claims about subjective experience.
+They count it a strength that PP "at the outset is not itself a theory of consciousness".
 
 ### Deep Self-Models
 
@@ -165,7 +165,7 @@ PP is methodologically powerful but philosophically neutral. The following would
 
 3. **Dissolution of the witness.** If trained introspection consistently revealed that "witness consciousness" dissolves into further predictions upon examination—rather than remaining as an irreducible observer—this would support pure PP accounts.
 
-4. **Decoherence-proof consciousness.** If [[decoherence]] proves absolutely fatal to quantum coherence in biological systems (not just difficult), quantum-consciousness explanations fail, and PP's functionalist account gains relative plausibility by elimination.
+4. **Unamplifiable selection.** Under [[post-decoherence-selection|post-decoherence selection]] no surviving coherence is needed, so the test moves to [[amplification-mechanisms-consciousness-physics|amplification]]: if no neural amplifier could turn a weak selection into adaptive rather than random effects, quantum-consciousness explanations fail, and PP's functionalist account gains relative plausibility by elimination.
 
 5. **Explaining haecceity functionally.** If personal identity could be fully captured by pattern continuity without remainder—no [[haecceity|indexical facts]] beyond the patterns—PP's impersonal account would be strengthened.
 
@@ -173,15 +173,15 @@ PP is methodologically powerful but philosophically neutral. The following would
 
 PP relates to The Unfinishable Map's [[tenets]] substantively:
 
-**[[tenets#^dualism|Dualism]]**: PP is typically physicalist—consciousness emerges from neural computation. But the framework is methodologically neutral and could describe the *physical side* of mind-body interaction without claiming consciousness reduces to computation. The Map holds that PP captures important truths about neural information processing while missing what makes that processing experiential. Prediction error minimization is the brain's contribution; consciousness—irreducible to the predictions—is what experiences the errors. PP proponents' honest acknowledgment that the framework "makes no claims about subjective experience" implicitly concedes the [[explanatory-gap]].
+**[[tenets#^dualism|Dualism]]**: PP is typically physicalist—consciousness emerges from neural computation. But the framework is methodologically neutral and could describe the *physical side* of mind-body interaction without claiming consciousness reduces to computation. The Map holds that PP captures important truths about neural information processing while missing what makes that processing experiential. Prediction error minimization is the brain's contribution; consciousness—irreducible to the predictions—is what experiences the errors. That PP leaves an [[explanatory-gap|explanatory gap]] is the Map's diagnosis, not something its proponents concede.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: PP says nothing about quantum mechanics, but the [[attention-as-interface|attention as interface hypothesis]] connects them. Precision weighting doesn't specify *how* certain signals become salient—it just posits that some prediction errors receive more weight than others. Quantum selection could fill this gap: consciousness might influence which prediction errors receive precision through the quantum Zeno mechanism, biasing indeterminate outcomes at the neural level. The brain generates predictions; consciousness selects which predictions matter.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: PP says nothing about quantum mechanics, but the [[attention-as-interface|attention as interface hypothesis]] connects them. Precision weighting doesn't specify *how* certain signals become salient—it just posits that some prediction errors receive more weight than others. Quantum selection could fill this gap: consciousness might influence which prediction errors receive precision through [[post-decoherence-selection|post-decoherence selection]], fixing which decohered neural outcome becomes actual, rather than Stapp's quantum Zeno route, which [[positions/quantum-interface#^p-q4|P-Q4]] currently demotes. The brain generates predictions; consciousness selects which predictions matter.
 
 **The [[decoherence]] challenge**: Skeptics argue decoherence is too fast for quantum effects to matter at PP's timescales. Hameroff's group calculated times eight to nine orders of magnitude longer than Tegmark's estimates, and decoherence does not solve the measurement problem—selection among outcomes remains after the basis is fixed.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Active inference—organisms acting to change sensory input—resonates deeply with bidirectional interaction. The Map's claim that consciousness selects among quantum outcomes is a deeper-level instance of active inference: the organism acts not just on the environment but on its own neural states. PP's emphasis on action and attention provides the neural machinery; consciousness provides the genuine agency that chooses which predictions to enact.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Active inference—organisms acting to change sensory input—resonates deeply with bidirectional interaction. The Map's selection claim parallels this physicalist framework rather than instancing it: consciousness acts on the organism's own neural states as well as on the environment. PP's emphasis on action and attention provides the neural machinery; consciousness provides the genuine agency that chooses which predictions to enact.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: PP implicitly assumes definite outcomes—predictions are either confirmed or generate errors, not both. Under [[concepts/many-worlds|Many-Worlds Interpretation]], all predictions would be actualized in some branch, rendering "prediction error" meaningless (every prediction would be correct somewhere). The fact that PP works as a scientific framework depends on outcomes being singular and definite—collapse being real. The framework also operates on the assumption of [[haecceity|indexical identity]]: *this* organism minimizes *its* prediction errors. A pure functionalist account cannot explain why *this* pattern matters rather than any functionally identical pattern in another branch.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: PP is interpretation-neutral. It describes classical computation at decohered scales, and Everettians recover its predictions from branch weights and self-locating uncertainty, so PP supplies no argument against [[concepts/many-worlds|Many-Worlds]]. The Map's own point is [[haecceity|indexical]]: why *this* organism, rather than its counterpart in another branch, minimizes *its* errors is a question Everettians can rule ill-formed, so the disagreement sits at the framework boundary (see [[apex/one-world-wager]]).
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: PP's elegance—one principle (free energy minimization) explaining perception, action, learning, and development—makes it attractive on parsimony grounds. But the history of consciousness studies suggests that elegant explanations often prove incomplete. Behaviorism was parsimonious; it was also wrong about what matters. The Map holds that PP's apparent simplicity conceals unexplained assumptions about why computation should be conscious. The simplest explanation is not the correct one when the simplicity is achieved by ignoring the phenomenon requiring explanation.
 

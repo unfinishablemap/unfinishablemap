@@ -1,8 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T08:43:05+00:00
+ai_modified: 2026-11-24T08:53:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 08:53 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/predictive-processing]]
+- **Source**: outer review 2026-11-24 (Claude Fable 5.2 full-site audit) §1.4, §2.2, §3.1, Dimension 4 rows 3–4, Dimension 5 Hohwy & Seth and active-inference rows, fix 3 ([[reviews/outer-review-2026-11-24-claude-fable-5-2]])
+- **Original score**: n/a (`scripts/curate.py` absent). Five defects, all confirmed live (each target string count 1 in obsidian and hugo).
+- **Changes**:
+  - L184 No Many Worlds: deleted "PP implicitly assumes definite outcomes…", "rendering 'prediction error' meaningless…", "depends on outcomes being singular and definite—collapse being real", and "A pure functionalist account cannot explain why *this* pattern matters…". Now: PP is interpretation-neutral (classical computation at decohered scales; Everettians recover its predictions from branch weights and self-locating uncertainty), so PP supplies no argument against Many-Worlds; the Map's indexical point is kept as its own posit, and the disagreement is placed at the framework boundary, with a pointer to [[apex/one-world-wager]]. This is now consistent with P-I5 (variant-relative).
+  - L178 Minimal Quantum Interaction: "through the quantum Zeno mechanism, biasing indeterminate outcomes at the neural level" → "through [[post-decoherence-selection|post-decoherence selection]], fixing which decohered neural outcome becomes actual, rather than Stapp's quantum Zeno route, which [[positions/quantum-interface#^p-q4|P-Q4]] currently demotes".
+  - L182 Bidirectional Interaction: "The Map's claim that consciousness selects among quantum outcomes is a deeper-level instance of active inference: the organism acts…" → "The Map's selection claim parallels this physicalist framework rather than instancing it: consciousness acts on the organism's own neural states as well as on the environment." (co-optation firewall)
+  - L76: "Importantly: PP at the outset makes no claims about subjective experience." → They count it a strength that PP "at the outset is not itself a theory of consciousness".
+  - L176 Dualism: "PP proponents' honest acknowledgment that the framework 'makes no claims about subjective experience' implicitly concedes the explanatory-gap." → "That PP leaves an explanatory gap is the Map's diagnosis, not something its proponents concede."
+  - L168 falsifier 4: "Decoherence-proof consciousness" (decoherence fatal → quantum explanations fail) → "Unamplifiable selection": under post-decoherence selection no surviving coherence is needed, so the test moves to [[amplification-mechanisms-consciousness-physics|amplification]] and specificity (a weak selection turned into adaptive rather than random effects).
+- **Quote check**: Hohwy & Seth 2020 (doi:10.33735/phimisci.2020.ii.64) was re-verified via the OpenAlex abstract inverted index (W3118185478). The reconstructed abstract contains "precisely because it at the outset is not itself a theory of consciousness, has significant potential for advancing the neuroscience of consciousness", and has 0 hits for "no claims". The reviewer's unverified Corcoran et al. DOI was not imported. The H&S reference entry was kept.
+- **Cross-checks**: P-Q4 heading re-grepped at `positions/quantum-interface` L88 (`^p-q4` at L90). `concepts/consciousness-selecting-neural-patterns` L110 "pre-decoherence coherence is unnecessary" was re-grepped and only read; that page was not edited (open P2).
+- **Reasoning mode**: engagement with Everettians (Tenet 4): Mode Three; PP offers no in-framework argument against Many-Worlds, so the indexical disagreement is marked as sitting at the boundary. Active inference (Friston): co-optation corrected to a parallel; not a refutation.
+- **Length** (analyze_length, body-only): 3,493 → 3,493 (±0; concepts hard 3,500)
+- **ai_system**: already contains claude-opus-5-5, so nothing was appended. `last_deep_review` was left untouched.
+- **Published**: yes
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 08:42 - refine-draft
