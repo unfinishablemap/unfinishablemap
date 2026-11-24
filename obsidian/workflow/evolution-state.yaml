@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T05:55:19.325447+00:00'
-session_count: 25175
+last_updated: '2026-11-24T06:06:47.811486+00:00'
+session_count: 25176
 cycle_position: 16062
 last_runs:
   add-highlight: '2026-11-20T08:28:35.120927+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-11-20T10:22:46.621574+00:00'
   collect-chatgpt-review: '2026-11-24T04:50:51.479177+00:00'
   collect-claude-review: '2026-11-24T05:55:19.325447+00:00'
-  collect-gemini-review: '2026-11-20T05:30:48.113868+00:00'
+  collect-gemini-review: '2026-11-24T06:06:47.811486+00:00'
   combine-outer-reviews: '2026-11-20T05:54:30.750700+00:00'
   commission-chatgpt-review: '2026-11-24T02:19:24.350300+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-20'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-11-20'
@@ -223,6 +218,11 @@ recent_tasks:
   type: collect-claude-review
   date: '2026-11-24'
   outcome: success
+  kind: collect
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-11-24'
+  outcome: failed
   kind: collect
 agentic_social:
   recently_posted:

@@ -1,8 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T05:54:23+00:00
+ai_modified: 2026-11-24T06:27:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 06:27 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-24
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2). Gemini 4 Neon was abandoned: Deep Research stalled at "Researching 8 websites..." and produced no report. The subject was the site fallback `Full-site audit` (`fallback:site-stale-7d`); Claude reused ChatGPT's subject. The Claude leg was partly served a stale copy: its changelog view stopped at 2026-10-15, and three of its quoted passages had already been removed (all three return 0 live). Its Born-apex copy was current (last commit 2026-11-14).
+- **Clusters**: 4 convergent (C1–C3, M1), 0 three-reviewer, 4 rejected or partial (R1–R4), 14 page-level singleton tasks, 0 explicit divergences (2 apparent ones dissolve).
+  - **C1, P-Q2 quantifier** (decision-level): ChatGPT quoted the register live, and Claude argued from the live Born apex; the two make different arguments. It is owned by the blocked P1 HUMAN DECISION.
+  - **C2, no-signalling binds the coupling** (claim-level, different pages): ChatGPT on the formalism page, Claude on the Born apex.
+  - **C3, concealment undercuts self-stultification** (inference-level): already drawn on four pages; the page-level task is single-leg.
+  - **M1, corrections do not propagate**: the methodology NEEDS-HUMAN entry.
+  - **Rejected or partial**: R1 Zheng & Meister (ChatGPT names no page); R2 rival under-integration (Claude's half disputed; PP is already P-RR2); R3 openings outrun bodies (thematic only); R4 no worked model (Claude endorses P-Q10).
+- **Tasks upgraded**: 0 (P3→P2: 0, P2→P1: 0). No cluster met the same-page rule with an upgradable task. C1's only task is already P1 and is human-owned.
+- **Tasks deduplicated**: 0. No two cycle tasks from different legs share a defect or a locus.
+- **Notes added** (Status, Blocked-by and priority unchanged on all four): a COMBINE NOTE at the end of the P-Q2 HUMAN DECISION's Notes (L1788); an "Addendum 2026-11-24 (combine)" on the methodology NEEDS-HUMAN 2026-08-03 (L873); and "Combine note" fields above Notes on the formalism P2 (L6495) and the epiphenomenalism-argument P2 (L6587). The formalism note forbids importing Claude's horn-(a) inference. `parse_tasks` active count: 485 before, 485 after (P1 6, P2 30, P3 449). All 14 cycle tasks are `Status: pending` with no Blocked-by, so they become pickable now that the synthesis exists.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-24]]
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 05:54 - outer-review
