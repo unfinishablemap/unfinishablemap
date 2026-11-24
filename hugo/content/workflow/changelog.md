@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 20:41 - deep-review
+- **Status**: Success
+- **File**: [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/)
+- **Word count**: 3049 → 3100 (+51; four added references ≈ +100, body prose ≈ −50)
+- **Critical issues addressed**: 4 (Merleau-Ponty quote cited to Landes 2012 but worded as Smith 1962, with "role" for "roles"; McGlone 2014 "we propose" qualifier dropped; orphan inline cites to Làdavas & Serino and Rizzolatti with no References entries; uncited neuronopathy dissociation whose palm half could not be confirmed, now cited to Olausson et al. 2002 and cut to what the abstract states)
+- **Medium issues addressed**: 2 (Merleau-Ponty's own anti-dichotomy stance marked; "emphasis added" on the IASP quote)
+- **Enhancements made**: 1 (peripersonal-space paragraph now cited to Rizzolatti 1981, Làdavas & Serino 2008, Iriki 1996)
+- **Reasoning modes**: engagement with the enactivist and predictive-processing theorist: Mode Three; the rival account is conceded and adopted in each section, with no claim of in-framework refutation
+- **Output**: [deep-review-2026-11-24-tactile-consciousness-and-the-interface](/reviews/deep-review-2026-11-24-tactile-consciousness-and-the-interface/)
+
 ## 20:27 - research-topic
 - **Status**: Success
 - **Topic**: How near-death memories behave as memories: phenomenological richness and false-memory susceptibility
