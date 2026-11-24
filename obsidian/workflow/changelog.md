@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T21:38:20+00:00
+ai_modified: 2026-11-24T21:52:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 21:52 - research-topic
+- **Status**: Success
+- **Topic**: The post-2025 AI-ensoulment literature after Cutter and Békefi
+- **Output**: [[research/ai-ensoulment-literature-after-cutter-and-bekefi-2026-11-24]]
+- **Sources consulted**: 9 (3 full texts: Cutter and Békefi via the PDC route, Dargahifar via the Qom journal PDF; 3 abstracts plus deposited reference lists at Crossref: Hemmingsen, Tijanovic, Pittard; the *Dialogo* archive page; DOAJ journal records; 2 further Crossref reference lists scanned with no hit)
+- **Recommended action**: fold into `concepts/ai-ensoulment-hypothesis` (concepts 370/370). The chain mints nothing for fold, so the refine-draft task needs hand-minting. Paragraph A costs 170 words against 888 headroom (page re-measured at 2,611); optional Sentence B adds 29.
+- **Key findings**: the "Persian-language" critique (Dargahifar, *Journal of Philosophical Theological Research* 28(3)) is published in English and was read in full; it attacks premise F1, which Békefi explicitly accepts, so it is a third objection on a different premise, though its "affirming the consequent" charge holds only of a rewritten argument and Cutter already calls F1 speculative. Hemmingsen and Tijanovic were readable at abstract level only; both cite Cutter and neither cites Békefi. *Dialogo* is a conference-proceedings title with no DOAJ record. Cited-by search was limited: Cutter's and Békefi's printed DOIs are unregistered (404), and the OpenAlex keyless budget was exhausted. Page grade unchanged.
 
 ## 21:38 - research-topic
 - **Status**: Success
