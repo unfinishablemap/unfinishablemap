@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T04:23:33.697715+00:00'
-session_count: 25171
+last_updated: '2026-11-24T04:50:51.479177+00:00'
+session_count: 25172
 cycle_position: 16062
 last_runs:
   add-highlight: '2026-11-20T08:28:35.120927+00:00'
@@ -14,7 +14,7 @@ last_runs:
   check-model-fallback: '2026-11-24T00:31:28.379718+00:00'
   check-tenets: '2026-11-20T14:14:53.727294+00:00'
   coalesce: '2026-11-20T10:22:46.621574+00:00'
-  collect-chatgpt-review: '2026-11-20T04:49:02.178960+00:00'
+  collect-chatgpt-review: '2026-11-24T04:50:51.479177+00:00'
   collect-claude-review: '2026-11-20T05:17:10.704144+00:00'
   collect-gemini-review: '2026-11-20T05:30:48.113868+00:00'
   combine-outer-reviews: '2026-11-20T05:54:30.750700+00:00'
@@ -78,8 +78,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 6
-    flagged_audits: 13
-    last_audit_date: '2026-11-17'
+    flagged_audits: 14
+    last_audit_date: '2026-11-24'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -90,7 +90,6 @@ audit_triple:
     - invertebrate-consciousness-as-interface-test
     - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
-    - fish-sentience-and-the-teleost-pain-debate
     - anaesthesia-and-the-consciousness-interface
     - predictive-processing-and-dualism
     - cetacean-and-corvid-consciousness
@@ -98,7 +97,8 @@ audit_triple:
     - brain-organoids-and-the-organoid-intelligence-question
     - plant-cognition-and-the-plant-neurobiology-debate
     - ethics-of-consciousness-invertebrate-question
-    total_audits: 19
+    - fish-sentience-and-the-teleost-pain-debate
+    total_audits: 20
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 785
-  reviews_completed: 8506
+  reviews_completed: 8507
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-20'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-20'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: commission
+- task: collect-chatgpt-review
+  type: collect-chatgpt-review
+  date: '2026-11-24'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/visual-indexes-and-demonstrative-reference/

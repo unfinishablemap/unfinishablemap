@@ -1,8 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-20 14:12:18+00:00
+ai_modified: 2026-11-24T05:11:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 05:11 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/fish-sentience-and-the-teleost-pain-debate]]
+- **Research area**: fish-sentience
+- **Selection**: all 14 `topics/` pages matching `active_research_sections` are on `recently_audited`, so the skill's selector returns NO_CANDIDATE; the 30-day rule was applied from the audit commits (the 10-20/11-03/11-17 precedent). Excluded as audited within 30 days: ethics-invertebrate (11-17), plant-cognition (11-10), brain-organoids (11-03), basal-and-bioelectric (10-27). Of the rest, this page has the oldest `ai_modified` (2026-09-18) and was last audited 2026-09-15 (70 days ago; no-drift, when the search found no in-window papers). Its one open task (P3 ~L4399: Michel 2019 framing plus a link) covers a different defect, so the driver's same-defect exclusion does not apply. 0 `find_superlative_claims` hits; 2,488 words, status ok. None of the driver's avoid-list pages was a candidate.
+- **Search**: one WebSearch, `fish pain sentience consciousness nociception pallium cortex 2024..2026 review`. It returned a WOAH Aquatic Animal Commission consultant report (Peeler, dated 26 June 2025, posted 2026-03), Woodruff 2018 (*Animal Sentience*), Rose et al. 2014 (cited), Mason & Lavery 2022 plus its corrigendum, a 2025 MDPI *Animals* editorial (Pietsch), a blog post and two arXiv preprints.
+- **Median citation year**: 2014 (7 empirical refs, 2002–2024; 12 years behind ai_modified; threshold 5)
+- **Recent papers found**: 0 peer-reviewed in the 24-month window (the in-window items were the WOAH report and the Pietsch editorial: grey literature and an editorial, not counted)
+- **Missing topically-appropriate**: 2, both out of window and counted under check 2 per the 10-20 precedent. (1) Diggles et al. 2024, *Rev Fish Sci Aquac* 32(1):127–150, DOI 10.1080/23308249.2023.2257802, surfaced through the WOAH report's reference list. It is the 20-author skeptics' statement, co-signed by Rose and Key. Crossref metadata checked; text read from the Murdoch repository's published-version PDF (CC BY). Its case rests on evidential standards (0 de-hyphenated hits for cortex/cortical/neocortex/pallium/telencephalon against 26 for "nocicept"). It says Newby & Stevens "failed to replicate several key results" of Sneddon 2003 / Sneddon et al. 2003, and its Table 1 lists rocking and rubbing in rainbow trout as "not repeatable". That contradicts L46/L52's "None of this is what the skeptics deny." (2) Mason & Lavery 2022, *Front Vet Sci* 9:788289, DOI 10.3389/fvets.2022.788289. Crossref checked; abstract read raw from Europe PMC. On its "S.P.U.D." red-herring analysis, analgesia-modulated reactivity and approach/withdrawal are "none of these … good indicators of sentience", which bears on L50/L64.
+- **Empirical-record currency**: clean. The "first such demonstration in a fish" (Sneddon et al. 2003) is a historical priority claim; the abstract (Europe PMC) carries no priority wording, and WOAH dates first identification to Sneddon 2002 plus 2003. This was left as context, not flagged.
+- **Not counted / leads**: WOAH/Peeler 2025 (grey literature; a "scientific consensus" claim) is offered as an optional reception note. Hart 2023 (*J Fish Biol*) is unverified. The L62 "more than forty commentaries" figure against WOAH's relayed "34" (Brown 2016) is an earlier count; the claim was verified by the 07-08/07-15 deep reviews and is not a defect.
+- **Outcome**: drift-flagged (check 2, plus check 1)
+- **Task generated**: P2 refine-draft "Update fish-sentience-and-the-teleost-pain-debate citations — 2 uncited papers (Diggles et al. 2024; Mason & Lavery 2022) …" (todo.md heading line 6514; parse_tasks active 477 → 478; headroom 1,511, aim ≤ +200; Caution protects the open P3's L76/L82 anchors)
+- **Counters**: total 20, flagged 14, clean 6 (flag rate 70%, inside the 20–80% window)
+- **Cost**: 1 WebSearch call
+
 ---
 
 ## 04:50 - outer-review
