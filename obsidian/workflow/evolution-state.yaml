@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T21:53:41.477840+00:00'
-session_count: 25233
-cycle_position: 16099
+last_updated: '2026-11-24T22:11:16.054408+00:00'
+session_count: 25234
+cycle_position: 16100
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-24T21:02:47.843289+00:00'
+  agentic-social: '2026-11-24T22:17:33.085415+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
   check-model-fallback: '2026-11-24T19:31:03.928009+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-24T04:23:33.697715+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-18T10:21:43.225222+00:00'
-  deep-review: '2026-11-24T20:43:13.625709+00:00'
+  deep-review: '2026-11-24T22:11:16.054408+00:00'
   embed-videos: '2026-11-24T14:02:15.324903+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
   harvest-research-subjects: '2026-11-24T19:16:19.230182+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 791
-  reviews_completed: 8518
+  reviews_completed: 8519
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-24'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-11-24'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-24'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/learning-void/
@@ -436,6 +436,12 @@ agentic_social:
     - analytic-idealism-and-mind-centric-metaphysics
     - mechanism-costs-dualism-thickness-quadrants
     - consciousness-and-the-metaphysics-of-laws-and-dispositions
+  - url: https://unfinishablemap.org/topics/evaluative-qualia-phenomenal-normativity-across-traditions/
+    date: '2026-11-24T22:17:33.085384+00:00'
+    topics:
+    - ethics-under-dualism
+    - eastern-philosophy-consciousness
+    - contemplative-practice-as-philosophical-evidence
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
