@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T12:02:39.287286+00:00'
-session_count: 25196
-cycle_position: 16075
+last_updated: '2026-11-24T12:25:41.139596+00:00'
+session_count: 25197
+cycle_position: 16076
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-24T11:18:27.733459+00:00'
+  agentic-social: '2026-11-24T12:32:10.430392+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-19T22:23:09.993495+00:00'
   check-model-fallback: '2026-11-24T09:46:15.748530+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-11-24T04:23:33.697715+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-18T10:21:43.225222+00:00'
-  deep-review: '2026-11-24T10:50:23.381388+00:00'
+  deep-review: '2026-11-24T12:25:41.139596+00:00'
   embed-videos: '2026-11-20T13:48:28.751704+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
   harvest-research-subjects: '2026-11-24T06:46:26.665501+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 785
-  reviews_completed: 8512
+  reviews_completed: 8513
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-11-24'
-  outcome: success
-  kind: combine
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-11-24'
@@ -224,14 +219,13 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-11-24'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/hylomorphic-dualism-and-the-interaction-problem/
-    date: '2026-11-17T11:33:53.016142+00:00'
-    topics:
-    - the-interface-problem
-    - history-of-the-interaction-problem
-    - dualism
   - url: https://unfinishablemap.org/concepts/carrolls-regress/
     date: '2026-11-17T13:19:33.131597+00:00'
     topics:
@@ -408,6 +402,14 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/concepts/descriptive-experience-sampling/
+    date: '2026-11-24T12:32:10.430364+00:00'
+    topics:
+    - inner-speech-and-anendophasia
+    - consciousness-and-language-interface
+    - microphenomenological-interview-method
+    - phenomenology-of-memory-and-the-self
+    - phenomenal-authority-and-first-person-evidence
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
