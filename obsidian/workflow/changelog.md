@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T20:27:27+00:00
+ai_modified: 2026-11-24T20:57:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 20:57 - research-topic
+- **Status**: Success
+- **Topic**: The ganzfeld telepathy record after the 2024 registered-report meta-analysis: critiques and replication
+- **Output**: [[research/ganzfeld-record-after-the-2024-registered-report-meta-analysis-2026-11-24]]
+- **Sources consulted**: 17 (1 full text with open referee reports, 1 thesis full text, 11 abstracts via PubMed/OpenAlex, 4 repository/registry records)
+- **Recommended action**: fold into `topics/parapsychology-firewall` (sections at cap); the chain mints nothing for fold, so the refine-draft task needs hand-minting. Fold costs at most 556 words against 1,327 headroom (about 722 after the two pending folds).
+- **Key findings**: v4 status is "2 approved, 1 not approved"; I² 63.8%, median effect .017, unselected-participant interval includes zero; no multi-site confirmatory result found (six-site study closed, unpublished); one preregistered single-lab positive (KPU 1074, 30% vs 25%, p = .043) reported in a thesis.
 
 ## 20:41 - deep-review
 - **Status**: Success
