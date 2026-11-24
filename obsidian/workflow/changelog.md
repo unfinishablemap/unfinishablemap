@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T19:01:20+00:00
+ai_modified: 2026-11-24T20:09:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 20:09 - research-topic
+- **Status**: Success
+- **Topic**: The integrated neuroscientific model of near-death experiences (Martial et al. 2025, NEPTUNE) and the replies to it
+- **Output**: [[research/neptune-neuroscientific-model-near-death-experiences-2026-11-24]]
+- **Verdict**: `recommended_action: fold`, `target_slug: near-death-experiences` (concepts at cap). Fold plan by replacement at NDE L112 (−57 +47 +17 = +7 against headroom 10), overflow paragraph for `topics/death-and-consciousness` L95 (+197 against headroom 230). No content file edited; no task minted (fold mints nothing: a refine-draft must be hand-minted to execute the plan)
+- **Sources consulted**: 9 read at source (the review in full via the ORBi publisher PDF, about 15,100 words; its Author Correction; three authors' replies in full via ORBi; Delgado-Ron 2026 in full via PMC efetch; publisher previews only for O'Grady and Varghese, Engmann, and Parnia et al.). Metadata for all 12 cited works verified at Crossref
+- **Confirmed at source**: the acronym NEPTUNE ("Neurophysiological Evolutionary Psychological Theory Understanding Near-death Experience"); the model is "theoretical at present"; dualist theories are excluded at the outset; five published critiques exist (three correspondences in *Nat Rev Neurol*, each with an authors' reply; Greyson and Pehlivanova 2025; Delgado-Ron 2026). No van Lommel reply found
+- **Not obtained**: full text of the three critical correspondences (paywalled) and of Greyson and Pehlivanova 2025 (open access, but the APA site blocks scripted retrieval); its content is listed under the note's "Unverified leads (do not quote)" from a press release
+- **Quotation check**: every source quotation in the note matched by script as a verbatim span in the fetched text (0 misses)
+- **Side findings, not tasked**: NDE L57 presents the RED terminology as "established" although the Liège group contests it in print (2022, 2026); the OBE page's pending P3 could use the authors' own concession that stimulation does not reproduce the NDE out-of-body experience
 
 ## 19:01 - optimistic-review
 - **Status**: Success
