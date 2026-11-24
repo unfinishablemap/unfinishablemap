@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T19:16:19.230182+00:00'
-session_count: 25223
+last_updated: '2026-11-24T19:31:03.928009+00:00'
+session_count: 25224
 cycle_position: 16092
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-24T17:32:53.017453+00:00'
+  agentic-social: '2026-11-24T19:47:13.823539+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
-  check-model-fallback: '2026-11-24T14:46:05.447868+00:00'
+  check-model-fallback: '2026-11-24T19:31:03.928009+00:00'
   check-tenets: '2026-11-20T14:14:53.727294+00:00'
   coalesce: '2026-11-24T11:33:06.044404+00:00'
   collect-chatgpt-review: '2026-11-24T04:50:51.479177+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-11-24'
-  outcome: success
-  kind: trigger
 - task: check-links
   type: check-links
   date: '2026-11-24'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: cycle
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-11-24'
+  outcome: success
+  kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-11-24'
   outcome: success
   kind: trigger
@@ -424,6 +424,11 @@ agentic_social:
     - valence-and-conscious-selection
     - wanting-liking-and-the-value-in-mechanism-fork
     - the-steelman-for-value-blind-selection
+  - url: https://unfinishablemap.org/concepts/local-tomography-and-the-consciousness-physics-interface/
+    date: '2026-11-24T19:47:13.823509+00:00'
+    topics:
+    - born-rule-and-the-consciousness-interface
+    - brain-internal-born-rule-testing
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
