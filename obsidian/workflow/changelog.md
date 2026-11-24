@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T05:11:12+00:00
+ai_modified: 2026-11-24T05:54:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 05:54 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (Extra, Research; "Research complete, 292 sources, 11m 54s"), commissioned 03:04:49Z
+- **File**: [[reviews/outer-review-2026-11-24-claude-fable-5-2]] (full-site audit, `reuse:pending-reviews:outer-review-2026-11-24-chatgpt-5-6-sol-pro.md`; collected by collect-claude-review)
+- **Extraction**: artifact DOM walk; 141 U+E015 citation-chip glyphs stripped in-page; 49,393 chars / 50,202 bytes. A hidden-form POST to 127.0.0.1 was blocked on claude.ai and base64 output was filtered, so 56 JSON slices were read and each checked against its in-page hash. Whole-body SHA-256 matches the in-page value (`7d8d236d…a3645c`). Method `js-dom-slices-sha256`.
+- **Claims verified**: about 30. All 15 cited slugs are LIVE (none archived); each quoted string was grepped in obsidian and hugo. Sources: arXiv 2512.12636 abstract (Torres Alegre v3), arXiv 2509.00555 PDF (Corcoran et al.), Hohwy & Seth 2020 OSF preprint full text, COGITATE PubMed abstract (PMID 40307561).
+- **Stale copy**: confirmed again. The "changelog stops at 2026-10-15" claim is false (live runs to today). Three quoted passages were removed before this cycle (evolution-of-consciousness 11-15, arguments index 06-01, neural-patterns 11-04).
+- **High-value findings**: 8 survived. Stapp filed both Born-deviating and Born-intact (apex L123, and taxonomy L169 against its own L165); predictive-processing MWI/Zeno/active-inference/Hohwy & Seth/falsifier; Torres Alegre "any participant" on 5 pages; COGITATE posterior gloss (2 pages); cross-modal "mind-side boundary" headline; neural-patterns description and L124 heading; epiphenomenalism-argument missing the selectability limit.
+- **Already tasked**: 3 (P-Q2/signalling L1787, re-raise note, convergent with ChatGPT; Zheng & Meister L5195 addendum; methodology NEEDS-HUMAN L873, re-raise note). No overlap with ChatGPT's 7 tasks.
+- **False alarms**: 5 (moral-architecture L146 already carries the compensation consequence; neural-patterns L106 is explicitly tenet-relative; PP apex request, given an existing PP-rival apex and the upstream decline; changelog; §1.1 as an "undrawn" inference, already drawn on inheritance-problem, trumping-preemption and selection-only-channel).
+- **Tasks generated**: 7 (P1 ×2: Stapp double placement L6527, predictive-processing L6537; P2 ×5: Torres Alegre L6546, cross-modal L6556, COGITATE L6566, neural-patterns L6576, epiphenomenalism-argument L6585). All are `refine-draft` with `Source: outer-review` and stay deferred until /combine-outer-reviews. parse_tasks active 478 → 485.
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 05:11 - literature-drift-review
