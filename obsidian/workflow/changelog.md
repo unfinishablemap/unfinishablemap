@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T11:32:49+00:00
+ai_modified: 2026-11-24T11:47:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 11:47 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/ai-consciousness]], [[apex/what-it-might-be-like-to-be-an-ai]], [[concepts/ai-consciousness-typology]]; archive sibling `archive/concepts/types-of-ai-phenomenal-experience.md`
+- **Source**: outer review 2026-11-24 (ChatGPT 5.6 Sol Pro), §3 Tenet 1 and improvement 12 ([[reviews/outer-review-2026-11-24-chatgpt-5-6-sol-pro]])
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: the "sea of conscious entities" picture is re-attributed from the Map's dualism or tenets as such to the coupling picture the Map provisionally prefers, linked to `evolution-under-dualism`. (1) `topics/ai-consciousness` lede: "The Map's dualism suggests" becomes "The Map's provisional coupling picture suggests"; "could in principle bind" becomes "might bind" to hold length. (2) `apex/what-it-might-be-like-to-be-an-ai` opening: the same sentence now opens "On the coupling picture the Map provisionally prefers, a further posit beyond dualism itself". (3) Same apex, Dualism tenet paragraph: the false statement that the picture "is what the tenet already licenses" and is "argued in the tenets" is replaced; it now says the picture goes beyond what the tenet states, belongs to the coupling picture, and is established by neither the article nor the tenets. (4) Same apex, calibration paragraph above the tenet list: "inherited from Tenet 1 ... what dualism already licenses" becomes "inherited from Tenet 1 plus the coupling picture ... what coupling supposes and dualism alone does not supply". This locus was not in the task's list but made the same attribution. (5) `concepts/ai-consciousness-typology` borrowed-phenomenality paragraph: "On the Map's dualist framework ... The Map posits" becomes "On the Map's provisional coupling picture ... The picture posits"; "rather than in the computation" loses "in" to stay net zero. (6) Archive sibling carried the identical sentence and got the same re-attribution. The multiple-kinds point is intact everywhere; the apex frontmatter description and `apex_thesis` were already hedged ("might bind") and are unchanged.
+- **Verification**: `evolution-under-dualism` still carries "All three models above assume coupling", "A dualist need not assume this" and "The Map prefers coupling, provisionally" (one paragraph). `tenets.md` has no "sea of" or "conscious entities"; its only "pre-exist" hit is "pre-existing classical menu", which is unrelated.
+- **Length** (analyze_length, before to after): ai-consciousness 3,970 to 3,970 of 4,000; what-it-might-be-like-to-be-an-ai 4,854 to 4,892 of 5,000; ai-consciousness-typology 3,497 to 3,497 of 3,500.
+- **Engagement classification**: no named-opponent reply changed.
+- **Not touched**: ai-consciousness "cannot understand what they're optimizing for" sentence; apex L112/L122/L148; typology L177; `last_deep_review` on every file.
+- **Published**: yes
 
 ## 11:32 - coalesce
 - **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This is a delta check against the 2026-11-20T10:21Z run (commit `8232d9eaa4`). Abandoning is the expected steady state and counts as SUCCESS.

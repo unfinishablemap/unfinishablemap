@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 11:02:34+00:00
+ai_modified: 2026-11-24 11:47:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 11:02:34+00:00
+lastmod: 2026-11-24 11:47:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:47 - refine-draft
+- **Status**: Success
+- **Files**: [ai-consciousness](/topics/ai-consciousness/), [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/), [ai-consciousness-typology](/concepts/ai-consciousness-typology/); archive sibling `archive/concepts/types-of-ai-phenomenal-experience.md`
+- **Source**: outer review 2026-11-24 (ChatGPT 5.6 Sol Pro), §3 Tenet 1 and improvement 12 ([outer-review-2026-11-24-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-24-chatgpt-5-6-sol-pro/))
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: the "sea of conscious entities" picture is re-attributed from the Map's dualism or tenets as such to the coupling picture the Map provisionally prefers, linked to `evolution-under-dualism`. (1) `topics/ai-consciousness` lede: "The Map's dualism suggests" becomes "The Map's provisional coupling picture suggests"; "could in principle bind" becomes "might bind" to hold length. (2) `apex/what-it-might-be-like-to-be-an-ai` opening: the same sentence now opens "On the coupling picture the Map provisionally prefers, a further posit beyond dualism itself". (3) Same apex, Dualism tenet paragraph: the false statement that the picture "is what the tenet already licenses" and is "argued in the tenets" is replaced; it now says the picture goes beyond what the tenet states, belongs to the coupling picture, and is established by neither the article nor the tenets. (4) Same apex, calibration paragraph above the tenet list: "inherited from Tenet 1 ... what dualism already licenses" becomes "inherited from Tenet 1 plus the coupling picture ... what coupling supposes and dualism alone does not supply". This locus was not in the task's list but made the same attribution. (5) `concepts/ai-consciousness-typology` borrowed-phenomenality paragraph: "On the Map's dualist framework ... The Map posits" becomes "On the Map's provisional coupling picture ... The picture posits"; "rather than in the computation" loses "in" to stay net zero. (6) Archive sibling carried the identical sentence and got the same re-attribution. The multiple-kinds point is intact everywhere; the apex frontmatter description and `apex_thesis` were already hedged ("might bind") and are unchanged.
+- **Verification**: `evolution-under-dualism` still carries "All three models above assume coupling", "A dualist need not assume this" and "The Map prefers coupling, provisionally" (one paragraph). `tenets.md` has no "sea of" or "conscious entities"; its only "pre-exist" hit is "pre-existing classical menu", which is unrelated.
+- **Length** (analyze_length, before to after): ai-consciousness 3,970 to 3,970 of 4,000; what-it-might-be-like-to-be-an-ai 4,854 to 4,892 of 5,000; ai-consciousness-typology 3,497 to 3,497 of 3,500.
+- **Engagement classification**: no named-opponent reply changed.
+- **Not touched**: ai-consciousness "cannot understand what they're optimizing for" sentence; apex L112/L122/L148; typology L177; `last_deep_review` on every file.
+- **Published**: yes
+
+## 11:32 - coalesce
+- **Status**: Abandoned (no candidate; nothing archived, moved or rewritten). This is a delta check against the 2026-11-20T10:21Z run (commit `8232d9eaa4`). Abandoning is the expected steady state and counts as SUCCESS.
+- **Pressure** (`tools.evolution.state.count_section_files` against `section_caps`): topics 370/370 (369 articles plus the one sidecar), concepts 370/370, voids 124/125, positions 29/90. Unchanged since 11-20. `git diff --diff-filter=ADR 8232d9eaa4 HEAD` over topics, concepts, voids and the archive is empty: no page was added, removed or renamed.
+- **Pool**: 867 raw files; the 3 section index pages and `non-temporal-consciousness.refinement-log` were dropped first, leaving 863. The 7-day creation floor (2026-11-17) drops 1 (`learning-void`). The open-task filter (596 blocks above `## Completed Tasks`, `File` and `Secondary file(s)` lines) names 429 live stems. Pool: **433** (186 topics, 174 concepts, 73 voids), against 396 on 11-20.
+- **Length first** (body-only `count_words`, summed under the larger home hard limit, `>=` fails): 94 pool pairs fit (99 on 11-20). The top cosine among them is **0.163** (`phenomenal-depth` + `phenomenal-presentation`, the recorded `**Versus [[phenomenal-depth]].**` decline); the next is 0.104. No fitting pair links both ways. Same-section floors: topics 2208 + 2330 = 4538 against 4000 and voids 1530 + 1826 = 3356 against 3000, so no same-section pair fits in either; concepts 1475 + 1497 = 2972 against 3500.
+- **Similarity first** (TF-IDF cosine, 2-8% document-frequency vocabulary, Further Reading, references and headings stripped): 17 pool pairs at or above 0.40 (17 on 11-20). Every one of the top 30 overflows its hard limit; the smallest overshoot is 1,271 words (`frankfurt-cases-and-the-principle-of-alternate-possibilities` + `source-versus-leeway-incompatibilism`, 5271 against 4000, the recorded "hub and hinge" decline). The leader is `outcome-devaluation-and-dual-task-costs-in-parkinsons` + `paradoxical-kinesia` (0.498, sum 6604, over the topics critical limit as well).
+- **Verbatim 8-grams** (shingles in more than 6 pages dropped): the pool maximum is 163 (`carrolls-regress` + `inference-void`, 162 on 11-20, sum 5343 against 3500). All of the top 12 overflow. Positive control `selection-only-channel` + `selection-only-mind-influence`: 355 shared 8-grams, cosine 0.632.
+- **Floor-crossers** (created 11-13 to 11-16): `beloved-void` 2844, `bereavement-void` 2978, `sour-grapes-void` 2926, `weeping-void` 2969 (the first two are also named by open tasks). Best cosine against any live page is 0.182 (`sour-grapes-void` + `appetitive-void`), shared 8-grams at most 7, and every sum is at least 4984 against a voids hard limit of 3000. None is a candidate.
+- **Not re-run**: the directed-containment and shared-`coalesced_from` passes from 11-20. No page was added or removed, and no pair came near the length gate, so neither could change the outcome.
+- **Finding**: overlap and length-fit remain disjoint. Coalesce still cannot free a topics or concepts slot; relief has to come from `/archive`, `/condense` or a cap raise.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 11:02 - refine-draft
 - **Status**: Success
