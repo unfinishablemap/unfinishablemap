@@ -4,7 +4,8 @@ description: "Predictive processing's formalism does not mandate physicalism; it
 created: 2026-02-15
 modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-18T18:19:39+00:00
+ai_modified: 2026-11-24T15:16:27+00:00
+anchoring_audit_exempt: true  # 2026-11-24 verified lexical false-high vs predictive-processing: both counted strong-assertion hits are negated ("Neither side refutes the other", "marks rather than refutes"), so the true strong-assertion count is 0; hedge density is low because the page states its limits structurally ("does not mandate physicalism", "a framework-boundary disagreement the Map marks", beautiful-loop account a live rival per P-RR2) rather than with hedge words. No prose change made; do not pad hedges.
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

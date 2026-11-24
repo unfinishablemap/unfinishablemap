@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt predictive-processing calibration in predictive-processing-and-dualism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/predictive-processing-and-dualism.md
-- **Notes**: From topic-concept anchoring audit 2026-11-24. The topic article over-claims relative to its anchor concept [[predictive-processing]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.60/kw is below 3.00/kw (target = 60% of anchor 5.15/kw, capped at 3.0/kw)
-  - strong-assertion density 0.43/kw exceeds 1.5× anchor (0.29/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-11-24
-
-
 ### P3: Research Self-modifying LLM agents: self-adapting weights, test-time training and continual fine-tuning in deployment
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-24-ai-assessment-under-precaution-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-24-ai-assessment-under-precaution-wing, Uncovered Subjects 1: SEAL (Zweiger et al. 2025; abstract verified by the review, other papers are leads) and related work on agents that update their own weights during use. Corpus counts for Self-Adapting|Zweiger and self-edit are 0 live / 0 research / 0 archive; test-time training has one clause in topics/hoel-llm-consciousness-continual-learning. The question is what becomes of the frozen-weights objection and whether any deployed agent now updates weights in use. Topics is at cap (370/370), so expect recommended_action: fold into topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems; an open P3 refine on that page installs at most one sentence, so the note should add depth, not duplicate it. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/self-modifying-llm-agents-and-the-frozen-weights-objection-2026-11-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'self-modifying-llm-agents-and-the-frozen-weights-objection' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -6628,6 +6616,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-24: Adopt predictive-processing calibration in predictive-processing-and-dualism
+- **Type**: refine-draft
+- **File**: obsidian/topics/predictive-processing-and-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-11-24. The topic article over-claims relative to its anchor concept [[predictive-processing]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.60/kw is below 3.00/kw (target = 60% of anchor 5.15/kw, capped at 3.0/kw)
+  - strong-assertion density 0.43/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-11-24: Update fish-sentience-and-the-teleost-pain-debate citations — 2 uncited papers (Diggles et al. 2024; Mason & Lavery 2022): the skeptical camp stops at Rose 2002 / Rose et al. 2014 / Key 2016, and L46/L52 call behavioural findings undisputed that the skeptics' consolidated 2024 statement says were not replicated
 - **Type**: refine-draft

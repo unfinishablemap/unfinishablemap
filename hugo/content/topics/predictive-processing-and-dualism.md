@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-11-18 18:19:39+00:00
+ai_modified: 2026-11-24 15:16:27+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
+anchoring_audit_exempt: true
 author: null
 coalesced_from:
 - /topics/predictive-processing-and-dualism/
@@ -27,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-30 09:17:13+00:00
-lastmod: 2026-11-18 18:19:39+00:00
+lastmod: 2026-11-24 15:16:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
