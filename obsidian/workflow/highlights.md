@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-20T08:25:07+00:00'
+ai_modified: '2026-11-24T08:19:31.950208'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-20'
+modified: '2026-11-24'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-24: Brain Complexity Rose After Psilocybin as Responsiveness Fell
+
+Psilocybin for disorders of consciousness? Its 2019 proposers named a falsifier: complexity rising without awareness. In an unblinded 2025 case, complexity rose as bedside responsiveness fell. Its authors read her as likely disconnected, not unconscious.
+
+**Type**: refinement  
+**Link**: [[entropic-brain-hypothesis]]
+
+---
+
 ### 2026-11-20: Does the "Aha" Brain Burst Precede Awareness or Mark It?
 
 The Map said a gamma burst comes 300 ms before an insight reaches awareness. The 2004 study times it before the answer is reported, and its authors propose it marks the answer becoming conscious. The burst times the aha without explaining how it feels.
@@ -211,16 +220,6 @@ Remove a tone's fundamental and you still hear its pitch: the waveform keeps the
 **Type**: refinement  
 **Tweet**: https://x.com/unfinishablemap/status/2116442840553181552  
 **Link**: [[auditory-consciousness-and-the-interface]]
-
----
-
-### 2026-10-30: Eddington Drew the Map's Line in 1928, Then Crossed It
-
-In 1928 Eddington separated guiding one atom between two unremarkable outcomes from steering a crowd of atoms, then chose steering. Schrödinger named the cost in 1936. The Map takes the road Eddington declined, and still owes what that road costs.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2116083562659115308  
-**Link**: [[first-quantum-free-will-wave-1927-1940]]
 
 ---
 
