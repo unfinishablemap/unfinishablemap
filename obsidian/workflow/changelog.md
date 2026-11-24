@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T18:02:22+00:00
+ai_modified: 2026-11-24T18:19:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 18:19 - refine-draft
+- **Status**: Success
+- **Files** (six): [[concepts/ensemble-level-epiphenomenalism]], [[topics/amplification-mechanisms-consciousness-physics]], [[topics/pragmatist-quantum-foundations-and-the-agent]], [[concepts/psychophysical-laws]], [[concepts/coupling-modes]], [[topics/wheelers-participatory-universe-and-it-from-bit]]
+- **Review file**: reviews/outer-review-2026-11-24-claude-fable-5-2 (Stapp filed both Born-deviating and Born-intact; "FAIL on propagation")
+- **Original score**: not scored (`scripts/curate.py` absent)
+- **Changes**: propagated the corrected Stapp filing. Each page now says the Born-rule taxonomy files Stapp's own view as Born-intact (question-choice) and files as Born-rule-bending only a probability-modifying reading of his Zeno mechanism, which he rejects. (1) ensemble-level-epiphenomenalism: Route-2 catalogue mirrors the apex (Orch-OR, Arana-λ, the outcome-biased Chalmers-McQueen variant its authors decline) plus one sentence on Stapp. (2) amplification: last sentence of Formal Constraints; words recovered from claim-free wording in the same paragraph ("at the ensemble level" kept as "ensemble-level"). (3) pragmatist: the "explicitly Born-rule-bending" sentence and the stale "Zeno-free readings of Stapp sit in the Born-preserving corridor" clause replaced; "most empirically exposed" restated as resting on decoherence and the Zeno timing claim alone, not on Born statistics. (4) psychophysical-laws and (5) coupling-modes: the rate-modulation point kept (per-measurement compliance does not deliver ensemble compliance; ensemble status still "unsettled" / "a live question") and reconciled with the Stapp page: a rate-driven shift in which pattern persists comes from question-choice and repetition, with nature's answer unweighted. (6) wheelers: fallback parenthetical now "(Arana; Stapp and Chalmers-McQueen only on readings their authors decline)", net 0 by trimming five claim-free words in the paragraph.
+- **Reasoning mode** (editor-internal): no named-opponent reply edited; the changes correct the report of the Map's own taxonomy and of Stapp's stance (attribution accuracy, position-strength check).
+- **Length** (analyze_length, body-only, gate `>=`): ensemble 2,533 → 2,559 (concepts hard 3,500); amplification 3,992 → 3,992 (topics hard 4,000); pragmatist 3,765 → 3,827; psychophysical-laws 3,470 → 3,484; coupling-modes 3,267 → 3,306; wheelers 3,995 → 3,995.
+- **Check-only, no edit**: `topics/consciousness-and-probability-interpretation` (already "read as shifting outcome probabilities—Stapp himself keeps Born statistics intact") and `archive/topics/born-rule-violation-brain-interface-empirical-status` (already "On this reading … Stapp himself keeps the orthodox statistics intact").
+- **Lead for the driver** (not edited): `topics/born-rule-and-the-consciousness-interface` lists "Kauffman-Radin-Stapp acausal actualisation" as Born-bending. Kauffman & Radin (2023) has two authors; its abstract cites Stapp (2007) only as a view the proposal "bears resemblance to". The label makes Stapp a co-proposer of a Born-departing view, against the same list's Born-intact filing of him.
+- **ai_system**: appended `+claude-fable-5-2` on ensemble, amplification, pragmatist, wheelers; already present on psychophysical-laws and coupling-modes. `last_deep_review` untouched on all six.
+- **Published**: yes
 
 ## 18:02 - deep-review
 - **Status**: Success

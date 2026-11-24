@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-30 17:25:06+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-24 18:18:56+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
 - '[[trumping-preemption]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:09:12+00:00
-lastmod: 2026-10-30 17:25:06+00:00
+lastmod: 2026-11-24 18:18:56+00:00
 modified: *id001
 related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
@@ -60,7 +60,7 @@ A subtler internal seam accompanies this cost, developed in [interventionist-and
 
 ## The Minimum-Outside-the-Corridor Route
 
-The second escape route bites the first horn of the dilemma deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. That gloss is the route's, not the tenet's: Tenet 2's minimality is [empirical-constraint minimality](/tenets/#minimal-quantum-interaction), ruling out detectable Born-statistics deviation, a constraint the corridor meets by construction. The route survives as a fallback, accepting a departure held below current detection, and it is the reading the tenet's falsifier (c), detected consciousness-correlated Born-statistics deviation, bites on. The catalogued candidates ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) include Stapp's quantum Zeno rate, outcome-biased Chalmers-McQueen collapse, Penrose-Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting, which recovers standard Born statistics as λ → 0.
+The second escape route bites the first horn of the dilemma deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. That gloss is the route's, not the tenet's: Tenet 2's minimality is [empirical-constraint minimality](/tenets/#minimal-quantum-interaction), ruling out detectable Born-statistics deviation, a constraint the corridor meets by construction. The route survives as a fallback, accepting a departure held below current detection, and it is the reading the tenet's falsifier (c), detected consciousness-correlated Born-statistics deviation, bites on. The catalogued candidates ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) include Penrose-Hameroff Orch-OR, Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0, and an outcome-biased variant of Chalmers-McQueen collapse that its authors decline. Stapp's quantum Zeno enters that catalogue only on a probability-modifying reading Stapp himself rejects; his own question-choice view is filed there as Born-intact.
 
 This route's advantage is that it makes the channel *real in the physicalist's own sense*: a deviation, however suppressed, is in principle detectable, so the mind's efficacy would leave a signature that distinguishes it from both epiphenomenalism and physical randomness. Rated against the evidential-status discipline, this route is the only one of the two that is even potentially **interface-discriminating** — it generates predictions an experiment could confirm or foreclose. Its honest cost is symmetric: it abandons the corridor's conservatism and takes on empirical risk. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the external-device end of this family onto thin ground, where any surviving version must hide below current sensitivity; the brain-internal candidates catalogued above have not been tested at any grain, so they stand untested rather than disconfirmed — which makes the route empirically braver but also, so far, empirically unrewarded.
 

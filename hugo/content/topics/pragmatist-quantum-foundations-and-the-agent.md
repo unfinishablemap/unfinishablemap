@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-11-19 02:55:02+00:00
-ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-24 18:18:56+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/pragmatism-and-qbism/
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-11 09:13:31+00:00
-lastmod: 2026-11-19 02:55:02+00:00
+lastmod: 2026-11-24 18:18:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Dualism (Tenet 1) combined with Tenets 2 and 3 — consciousness biases quantum 
 
 Stapp's Copenhagen pragmatism grants most of what the Map needs, then stops short of the central move. The mathematical apparatus describes something real; the choice of measurement is not reducible to Schrödinger evolution; conscious attention holds neural patterns in place via repeated "Heisenberg choices" that exploit the quantum Zeno effect. Stapp extends Bohr's dictum that the observer cannot be eliminated from the description into an explicit mind-matter coupling. What he withholds is outcome-selection: the agent supplies von Neumann's Process 1, the choice of which question is put, while the answer falls to a third process — "nature's choice between 'Yes' and 'No'", which "conforms to a statistical rule" (Schwartz, Stapp & Beauregard 2005). Direct probability control is a move he declines, and it is the move the Map's corridor reading makes, so a reader sympathetic to both should not take Stapp as endorsing the Map's outcome-selection. His framework is what pragmatism looks like when its central notion — the agent — is allowed to be a conscious subject with causal efficacy rather than a primitive placeholder; dualism supplies ontological backing for that coupling rather than a warrant for reading his conclusions as the Map's.
 
-The cost is that Stapp's view is the most physically committed, and therefore the most empirically exposed. Decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). And the Zeno mechanism is explicitly Born-rule-bending — observation rate modulates selection away from non-conscious-measurement outcomes — placing Stapp's Zeno variant in the minimum-outside-the-corridor category of the [empirical taxonomy](/topics/born-rule-and-the-consciousness-interface/#corridor-taxonomy), where QBism, Healey, and Zeno-free readings of Stapp sit in the Born-preserving corridor. The Map's response turns on the indeterminacy Stapp locates at the calcium ion channels gating synaptic release, whose sub-nanometre openings force the ion's cloud of possibilities to fan out, rather than on sustained macroscopic coherence; [the Stapp concept page](/concepts/stapp-quantum-mind/) develops it in full, along with the Monte Carlo critique of Zeno robustness and the decoherence-free-subspace qualifier that critique leaves open. It does not settle the objection, and the register does not pretend otherwise: [P-Q4](/positions/quantum-interface/#p-q4) ranks the Stapp-Zeno family below post-decoherence selection on exactly this timing ground.
+The cost is that Stapp's view is the most physically committed of the three, and therefore the most empirically exposed — to decoherence, though not, on his own account, to Born-rule tests. Decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). The [empirical taxonomy](/topics/born-rule-and-the-consciousness-interface/#corridor-taxonomy) files Stapp's own view as Born-intact question-choice dualism, with any shift in which pattern persists coming from which question is put and how often while nature answers each by the orthodox rule. Its minimum-outside-the-corridor (Born-rule-bending) category holds only a reading of the Zeno mechanism as modifying selection probabilities, which Stapp rejects. What the Zeno mechanism does stake is a physical timing claim — repeated questions must come fast enough to hold a neural pattern in place — and that claim is where the decoherence objection lands. The Map's response turns on the indeterminacy Stapp locates at the calcium ion channels gating synaptic release, whose sub-nanometre openings force the ion's cloud of possibilities to fan out, rather than on sustained macroscopic coherence; [the Stapp concept page](/concepts/stapp-quantum-mind/) develops it in full, along with the Monte Carlo critique of Zeno robustness and the decoherence-free-subspace qualifier that critique leaves open. It does not settle the objection, and the register does not pretend otherwise: [P-Q4](/positions/quantum-interface/#p-q4) ranks the Stapp-Zeno family below post-decoherence selection on exactly this timing ground.
 
 ## QBism: The Primitive Agent as Dualist Placeholder
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-11-12 14:18:45+00:00
+ai_modified: 2026-11-24 18:18:56+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-12 09:22:08+00:00
-lastmod: 2026-11-12 14:18:45+00:00
+lastmod: 2026-11-24 18:18:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ These considerations bear on which modes are tenable, not on which is likeliest 
 | **Timing control** | Preserved per measurement; ensemble status unsettled | Low | Medium (Zeno effect) | Effort as sustained observation |
 | **Probability control** | Violated | High | Low | Intention as force-like |
 
-All three modes must satisfy the [five mathematical constraints](/concepts/consciousness-physics-interface-formalism/) that quantum foundations impose on any coupling map: [Born rule](/topics/born-rule-and-the-consciousness-interface/) preservation, inner product invariance, no-signalling compliance, second-order interference only, and conservation law compatibility. Basis control satisfies all five; probability control violates the first outright. Timing control satisfies the other four, but its standing on the first turns on a level distinction the constraint itself makes explicit. Born rule preservation is an *ensemble* requirement: a coupling map may bias which individual outcome actualises, provided outcome frequencies over many repetitions still match squared amplitudes. Timing control's compliance, as the table records it, is *per measurement* — and per-measurement compliance does not by itself deliver the ensemble version, since modulating observation *rate* can shift the aggregate distribution even where no single trial deviates. The Map's [corridor taxonomy](/topics/born-rule-and-the-consciousness-interface/#corridor-taxonomy) files Stapp's quantum Zeno under minimum-outside-the-corridor (Born-rule-bending) on exactly that ground, reserving the corridor-preserving family for influence posited to average to exactly |⟨φ|ψ⟩|² over the ensemble. Whether Zeno-style timing control clears the ensemble bar is, as [stapp-quantum-mind](/concepts/stapp-quantum-mind/) puts it, a live question — one this article does not settle in either direction.
+All three modes must satisfy the [five mathematical constraints](/concepts/consciousness-physics-interface-formalism/) that quantum foundations impose on any coupling map: [Born rule](/topics/born-rule-and-the-consciousness-interface/) preservation, inner product invariance, no-signalling compliance, second-order interference only, and conservation law compatibility. Basis control satisfies all five; probability control violates the first outright. Timing control satisfies the other four, but its standing on the first turns on a level distinction the constraint itself makes explicit. Born rule preservation is an *ensemble* requirement: a coupling map may bias which individual outcome actualises, provided outcome frequencies over many repetitions still match squared amplitudes. Timing control's compliance, as the table records it, is *per measurement* — and per-measurement compliance does not by itself deliver the ensemble version, since modulating observation *rate* can shift the aggregate distribution even where no single trial deviates. The Map's [corridor taxonomy](/topics/born-rule-and-the-consciousness-interface/#corridor-taxonomy) files Stapp's own view under question-choice dualism (Born-intact): a rate-driven shift in which pattern persists comes from which question is put and how often, with nature's answer to each left unweighted. Under minimum-outside-the-corridor (Born-rule-bending) it files only a reading of his Zeno mechanism as modifying selection probabilities, which Stapp rejects, reserving the corridor-preserving family for influence posited to average to exactly |⟨φ|ψ⟩|² over the ensemble. Whether Zeno-style timing control clears the ensemble bar is, as [stapp-quantum-mind](/concepts/stapp-quantum-mind/) puts it, a live question — one this article does not settle in either direction.
 
 ### Basis Control: Most "Minimal"
 

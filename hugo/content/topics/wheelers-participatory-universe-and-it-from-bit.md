@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-10-30 17:25:06+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-24 18:18:56+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/it-from-bit-and-participatory-ontology/
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 10:10:49+00:00
-lastmod: 2026-10-30 17:25:06+00:00
+lastmod: 2026-11-24 18:18:56+00:00
 modified: *id001
 related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
@@ -87,7 +87,7 @@ Anton Zeilinger, directly inspired by Wheeler, proposed a foundational principle
 
 This programme is scientifically rigorous and philosophically cautious. Brukner and Zeilinger do not require consciousness for collapse, and their framework is compatible with multiple interpretations of quantum mechanics. For the Map, the significance is indirect but real: if quantum randomness arises from informational constraints rather than ignorance, the indeterminacy at which consciousness acts (per the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet) is a structural feature of reality, not an epistemic gap awaiting better physics.
 
-However, structural randomness also creates a tension the Map must confront. If randomness is information-theoretically necessary — derived from axioms about finite informational capacity — then consciousness biasing outcomes would violate those very axioms. Born rule statistics have been confirmed to extraordinary precision in photon, atom, and qubit experiments, though never inside a conscious brain mid-selection. The Map's working response — the "corridor" reading — appeals to minimal interaction: consciousness selects among outcomes already permitted by the Born rule distribution, influencing which specific outcome actualises in a given measurement without altering the statistical distribution across many measurements. Whether selection without statistical signature is coherent remains an open question, and the Map holds the corridor reading as its endorsed path, pending empirical adjudication, with two fallbacks: minimum-outside-corridor modification (Stapp, Chalmers-McQueen, Arana) and trumping causation orthogonal to Born statistics. See [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) for the taxonomy and experimental state. Viewed from the metaphysics-of-laws side rather than the measurement-problem side, this "which outcome obtains" selection is the work of a governing law fixing the individual outcome physics leaves open, as [the metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) develops.
+Structural randomness also creates a tension the Map must confront. If randomness is information-theoretically necessary — derived from axioms about finite informational capacity — then consciousness biasing outcomes would violate those axioms. Born rule statistics have been confirmed to extraordinary precision in photon, atom, and qubit experiments, though never inside a conscious brain mid-selection. The Map's working response — the "corridor" reading — appeals to minimal interaction: consciousness selects among outcomes already permitted by the Born rule distribution, influencing which outcome actualises in a given measurement without altering the distribution across many measurements. Whether selection without statistical signature is coherent remains open, and the Map holds the corridor reading as its endorsed path, pending empirical adjudication, with two fallbacks: minimum-outside-corridor modification (Arana; Stapp and Chalmers-McQueen only on readings their authors decline) and trumping causation orthogonal to Born statistics. See [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) for the taxonomy and experimental state. From the metaphysics-of-laws side rather than the measurement-problem side, this "which outcome obtains" selection is the work of a governing law fixing the individual outcome physics leaves open, as [the metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) develops.
 
 ### Digital Physics
 

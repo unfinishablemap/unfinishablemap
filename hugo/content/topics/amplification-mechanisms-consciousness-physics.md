@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-11-13 19:05:37+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-11-24 18:18:56+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /topics/stochastic-amplification-and-neural-selection/
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 13:29:29+00:00
-lastmod: 2026-11-13 19:05:37+00:00
+lastmod: 2026-11-24 18:18:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,7 +153,7 @@ A complete amplification account might require mechanisms from several categorie
 
 ### Formal Constraints
 
-The Map's preferred reading, corridor dualism, must satisfy the [mathematical corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) defined by quantum mechanics itself: Born rule preservation at the ensemble level, no-signalling between subsystems, and consistency with conservation laws. These constraints are tight—within them, consciousness can bias which outcome occurs at a quantum indeterminacy, but it cannot reshape the probability space or violate the geometric structure of Hilbert space. Not every catalogued mechanism sits inside the corridor: the Map's [Born-rule taxonomy](/topics/born-rule-and-the-consciousness-interface/) classes Stapp's Zeno mechanism and Orch OR as Born-rule-bending, minimum-outside-corridor readings.
+The Map's preferred reading, corridor dualism, must satisfy the [mathematical corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) quantum mechanics itself defines: ensemble-level Born rule preservation, no-signalling between subsystems, and consistency with conservation laws. Within these tight constraints, consciousness can bias which outcome occurs at a quantum indeterminacy but cannot reshape the probability space or violate the geometric structure of Hilbert space. Some catalogued mechanisms sit outside: the [Born-rule taxonomy](/topics/born-rule-and-the-consciousness-interface/) classes Orch OR as Born-rule-bending, and Stapp's Zeno only on a probability-modifying reading he rejects, his own view being filed Born-intact.
 
 ### Functional Target
 
