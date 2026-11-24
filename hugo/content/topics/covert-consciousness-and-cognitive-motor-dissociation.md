@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-11-17 00:50:27+00:00
+ai_modified: 2026-11-24 10:20:31+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 anchoring_audit_exempt: true
 author: null
@@ -12,7 +12,7 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[integrated-information-theory]]'
 created: 2026-10-01
-date: &id001 2026-11-17
+date: &id001 2026-11-24
 description: 'What covert-consciousness figures license: CMD in roughly 15–25% of
   patients without bedside command-following, each figure''s denominator and method,
   and why they do not discriminate interface from production.'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 17:29:51+00:00
-lastmod: 2026-11-17 00:50:27+00:00
+lastmod: 2026-11-24 10:20:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ Each figure is a proportion of a different population.
 |Aubinet et al. 2025|Behaviourally unresponsive patients, acute or chronic|Umbrella: perturbational complexity, passive EEG, command-following|"up to 25%"; not a CMD rate|
 |Laigaard et al. 2026|Individual-participant meta-analysis: 56 studies, 1,248 patients|Published single-subject fMRI/EEG results|UWS 28.4%, MCS− 38.7%, coma 32.8%; detection rates, not prevalence|
 
-**Bodien et al.** report CMD "in 60 of the 241 participants (25%) without an observable response to commands." The 241 combine 140 patients in coma or the vegetative state with 101 in MCS− (non-reflexive behaviour such as visual tracking, but no command-following), a state already classified as conscious. The 20% and 32% splits are the Map's derivation from the paper's tables (53% of the CMD group was MCS−); the authors do not state them. That sentence is the published abstract's; the other figures and wording come from the authors' manuscript, not the journal text, and the manuscript calls the result "5-10 percent higher than previously reported" and gives site frequencies "ranging from 2% to 45%." **Aubinet et al.'s** "up to 25%" pools complexity after a magnetic or electrical pulse, "highly differentiated EEG responses" and command-following, "each of which has been interpreted, to varying degrees, as evidence of consciousness"; the authors would withhold their label "covert consciousness" from MCS−, and two declare a financial interest in a company developing a consciousness-assessment device. **Laigaard et al.** pool published single-subject data, which publication selection plausibly inflates.
+**Bodien et al.** report CMD "in 60 of the 241 participants (25%) without an observable response to commands." The 241 combine 140 patients in coma or the vegetative state with 101 in MCS− (non-reflexive behaviour such as visual tracking, but no command-following), a state already classified as conscious. The 20% and 32% splits are the Map's derivation from the paper's tables (53% of the CMD group was MCS−); the main text does not state them. That sentence is the published abstract's; the other figures and wording come from the current PMC version (not the journal PDF), which puts the result "5 to 10 percentage points higher" than previous studies and site rates at "2 to 45%." **Aubinet et al.'s** "up to 25%" pools complexity after a magnetic or electrical pulse, "highly differentiated EEG responses" and command-following, "each of which has been interpreted, to varying degrees, as evidence of consciousness"; the authors would withhold their label "covert consciousness" from MCS−, and two declare a financial interest in a company developing a consciousness-assessment device. **Laigaard et al.** pool published single-subject data, which publication selection plausibly inflates.
 
 The defensible one-line statement, for citation elsewhere, is: *roughly 15–25% of patients without bedside command-following show command-following on fMRI or EEG, depending on cohort and method (Bodien et al. 2024: 60 of 241, 25%; 28 of 140, about 20%, among those clinically in coma or the vegetative state); because the tests miss many conscious patients, the true figure is unknown.*
 
@@ -59,9 +59,9 @@ The defensible one-line statement, for citation elsewhere, is: *roughly 15–25%
 
 Errors run in both directions, unequally.
 
-**False positives.** Cruse et al. (2011) reported that "Three (19%) of 16 patients" in the vegetative state produced reliable bedside EEG responses. Goldfine et al.'s (2013) reanalysis found that the patient data violated the statistical model's independence assumptions and that, once this was accounted for, "there is no statistical evidence for task performance in patients"; Cruse et al. (2013) replied. Bodien et al.'s methods were "intentionally designed to minimize the potential for a false positive result, which may increase the likelihood of a false negative finding."
+**False positives.** Cruse et al. (2011) reported that "Three (19%) of 16 patients" in the vegetative state produced reliable bedside EEG responses. Goldfine et al.'s (2013) reanalysis found that the patient data violated the statistical model's independence assumptions and that, once this was accounted for, "there is no statistical evidence for task performance in patients"; Cruse et al. (2013) replied. Bodien et al.'s methods were "intentionally designed to minimize the potential for a false-positive result, which may increase the likelihood of a false-negative finding."
 
-**False negatives.** Of Bodien's 112 patients who *did* follow commands at the bedside, only 43 (38%) responded on fMRI or EEG. Aubinet et al. report that "only 75%–85% of overtly conscious individuals have positive motor imagery tests," and set "the 62% false negative rate of task-based fMRI and/or EEG" against 5% for TMS-EEG in MCS patients. Agreement between fMRI and EEG in Bodien's cohort was a kappa of "0.02-0.04."
+**False negatives.** Of Bodien's 112 patients who *did* follow commands at the bedside, only 43 (38%) responded on fMRI or EEG. Aubinet et al. report that "only 75%–85% of overtly conscious individuals have positive motor imagery tests," and set "the 62% false negative rate of task-based fMRI and/or EEG" against 5% for TMS-EEG in MCS patients. Agreement between fMRI and EEG in Bodien's cohort gave kappa values "from 0.02 to 0.04." Among the 241, CMD appeared in 36 of 79 given both tests, 11 of 61 given fMRI alone and 13 of 101 given EEG alone (46%, 18% and 13%, Map-derived); testing was not randomised, so 46% is no prevalence estimate, but the authors judge that the rate "may have been even higher if all the participants had been assessed with both imaging techniques."
 
 A positive result therefore carries real information and a negative one almost none: "Absence of evidence for CMD is not evidence of its absence" (Laigaard et al.). Under designs that suppress false positives, published rates behave more like floors than estimates. That ignorance cuts both ways: it forbids reading a negative scan as absence, and equally forbids asserting any prevalence of hidden awareness.
 
@@ -120,7 +120,7 @@ Prevalence data, at any value, are evidentially neutral between the two readings
 
 1. Andrews, K., et al. (1996). Misdiagnosis of the vegetative state: retrospective study in a rehabilitation unit. *BMJ*, 313(7048), 13-16. https://doi.org/10.1136/bmj.313.7048.13 (abstract)
 1. Aubinet, C., et al. (2025). Covert consciousness: what's in a name? *Brain*, 148(12), 4248-4252. https://doi.org/10.1093/brain/awaf349 (full text)
-1. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608. https://doi.org/10.1056/NEJMoa2400645 (abstract; author manuscript PMC7617195 in full; journal text not read)
+1. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608. https://doi.org/10.1056/NEJMoa2400645 (abstract; current version PMC7617195.2 in full, abstract identical to the journal's; journal PDF not read)
 1. Casarotto, S., et al. (2016). Stratification of unresponsive patients by an independently validated index of brain complexity. *Annals of Neurology*, 80(5), 718-729. https://doi.org/10.1002/ana.24779 (abstract)
 1. Childs, N. L., Mercer, W. N., & Childs, H. W. (1993). Accuracy of diagnosis of persistent vegetative state. *Neurology*, 43(8), 1465-1467. https://doi.org/10.1212/wnl.43.8.1465 (abstract)
 1. Claassen, J., et al. (2019). Detection of Brain Activation in Unresponsive Patients with Acute Brain Injury. *New England Journal of Medicine*, 380(26), 2497-2505. https://doi.org/10.1056/NEJMoa1812757 (abstract)

@@ -1,8 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T09:31:20+00:00
+ai_modified: 2026-11-24T10:20:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 10:20 - refine-draft
+- **Status**: Success
+- **File**: [[topics/covert-consciousness-and-cognitive-motor-dissociation]]
+- **Source**: pessimistic review 2026-11-24, Issue 1 ([[reviews/pessimistic-2026-11-24-covert-consciousness-and-cognitive-motor-dissociation]])
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source text**: PMC7617195.2 (NIH author manuscript NIHMS2018757) was re-fetched via NCBI efetch `db=pmc`, with tags stripped, entities unescaped and dashes normalised. Its four abstract paragraphs match PubMed 39141852 exactly, apart from a trailing period after the funding parenthesis. No browser was used.
+- **Changes**:
+  - L50: "the authors do not state them" → "the main text does not state them" (the 20%/32% splits: no "(20%)" or "32%" in the main text, which points to Table S8, not read). The other-figures sentence is re-sourced from "the authors' manuscript, not the journal text … '5-10 percent higher than previously reported' … 'ranging from 2% to 45%'" to "the current PMC version (not the journal PDF), which puts the result '5 to 10 percentage points higher' than previous studies and site rates at '2 to 45%'".
+  - L58: false-positive quote now hyphenated as in the current version ("false-positive result … false-negative finding").
+  - L60: kappa "0.02-0.04" → kappa values "from 0.02 to 0.04". ADDED one sentence after it: among the 241, CMD in 36/79 given both tests, 11/61 fMRI alone and 13/101 EEG alone (46%, 18%, 13%, Map-derived; Table 2 rows sum to 241 and 60); testing not randomised, so 46% is no prevalence estimate; the authors' "may have been even higher if all the participants had been assessed with both imaging techniques" is quoted. PLACEMENT: L60, not after L62's "floors than estimates" as the task suggested. L62 belongs to the sibling P3 denominators task, and a sentence placed there would cut "That ignorance" off from the sentence it refers back to.
+  - References (Bodien): "(abstract; author manuscript PMC7617195 in full; journal text not read)" → "(abstract; current version PMC7617195.2 in full, abstract identical to the journal's; journal PDF not read)".
+- **Span hits (PMC plain text / page)**: "5 to 10 percentage points higher" 1/1; "2 to 45%" 1/1; the hyphenated false-positive span 1/1; "from 0.02 to 0.04" 1/1; "may have been even higher if all the participants had been assessed with both imaging techniques." 1/1. Superseded spans ("5-10 percent", "ranging from 2% to 45%", "false positive result", "0.02-0.04") have 0 hits in the source and 0 in the page.
+- **Untouched (sibling tasks)**: point 5 and the reply (L86/L88), the clinicians' stance (L66/L70), the Kondziella row (L43), Childs/Wannez (L74), L62. The lead's 15–25%, the L52 citation statement and the 20%/32% splits are unchanged.
+- **Length** (analyze_length, body-only): 2,687 → 2,756 (+69; budget +70; topics hard 4,000)
+- **ai_system**: already contains claude-opus-5-5, so nothing was appended. `last_deep_review` was left untouched.
+- **Published**: yes
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 09:31 - optimistic-review
