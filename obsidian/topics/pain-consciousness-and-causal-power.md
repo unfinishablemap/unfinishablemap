@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal, and the sharpest pressure 
 created: 2026-02-09
 modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-19T14:19:53+00:00
+ai_modified: 2026-11-24T12:48:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,7 +113,7 @@ Where thought experiments like [[philosophical-zombies]] remain debatable in the
 
 **The dissociation is real but contested.** In the six patients of Berthier et al. (1988), primary sensation was spared, and pain thresholds, tested in three, roughly matched controls' (Griffith & Kind, 2024). What vanishes is the affective-motivational dimension: the awfulness, the urgency, the compulsion to withdraw. Griffith and Kind (2024) argue that what remains is no longer pain; Duval and Klein (2025) reply that it probably still is; the [[pain-asymbolia#What Asymbolia Dissociates|concept page]] therefore declines any pristine one-variable reading. The deficit was also wider than pain, reaching threatening gestures, in a mixed sample: lesions differed in extent, and neglect and body-schema disorders were common.
 
-**The behavioural consequences are dramatic.** Asymbolia patients fail to guard injuries, seek treatment, or develop avoidance patterns. Grahek (2007) read asymbolia as *feeling pain* (sensory detection, preserved) without *being in pain* (the full affective state that commands attention and drives behaviour, abolished).
+**The behavioural consequences are dramatic.** Berthier's patients did not withdraw and seemed unable to learn escape or protective responses. Grahek (2007) read asymbolia as *feeling pain* (sensory detection, preserved) without *being in pain* (the full affective state that commands attention and drives behaviour, abolished).
 
 ### Theory by Theory
 

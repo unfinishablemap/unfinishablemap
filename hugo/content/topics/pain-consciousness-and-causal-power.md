@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-11-19 14:19:53+00:00
+ai_modified: 2026-11-24 12:48:36+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-19 14:19:53+00:00
-lastmod: 2026-11-19 14:19:53+00:00
+lastmod: 2026-11-24 12:48:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,7 +117,7 @@ Where thought experiments like [philosophical-zombies](/concepts/philosophical-z
 
 **The dissociation is real but contested.** In the six patients of Berthier et al. (1988), primary sensation was spared, and pain thresholds, tested in three, roughly matched controls' (Griffith & Kind, 2024). What vanishes is the affective-motivational dimension: the awfulness, the urgency, the compulsion to withdraw. Griffith and Kind (2024) argue that what remains is no longer pain; Duval and Klein (2025) reply that it probably still is; the [concept page](/concepts/pain-asymbolia/#what-asymbolia-dissociates) therefore declines any pristine one-variable reading. The deficit was also wider than pain, reaching threatening gestures, in a mixed sample: lesions differed in extent, and neglect and body-schema disorders were common.
 
-**The behavioural consequences are dramatic.** Asymbolia patients fail to guard injuries, seek treatment, or develop avoidance patterns. Grahek (2007) read asymbolia as *feeling pain* (sensory detection, preserved) without *being in pain* (the full affective state that commands attention and drives behaviour, abolished).
+**The behavioural consequences are dramatic.** Berthier's patients did not withdraw and seemed unable to learn escape or protective responses. Grahek (2007) read asymbolia as *feeling pain* (sensory detection, preserved) without *being in pain* (the full affective state that commands attention and drives behaviour, abolished).
 
 ### Theory by Theory
 

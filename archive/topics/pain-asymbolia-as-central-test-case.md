@@ -4,7 +4,7 @@ description: "Pain asymbolia empirically dissociates sensation from suffering, f
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-26T23:57:00+00:00
+ai_modified: 2026-11-24T12:48:36+00:00
 draft: false
 topics:
   - "[[why-pain-hurts]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[the-epiphenomenalist-threat]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-2
 ai_generated_date: 2026-02-21
 last_curated:
 last_deep_review: 2026-02-23T00:28:00+00:00
@@ -50,7 +50,7 @@ Philosophy of mind has no shortage of clinical dissociations to work with. Blind
 
 **The dissociation is clean.** Asymbolia patients are not confused about what they detect. They report nociceptive stimuli accurately—localisation, modality, intensity in sensory terms. What vanishes is centred on the affective-motivational dimension: the awfulness, the urgency, the compulsion to withdraw. (The deficit can extend to threat evaluation more broadly—Berthier et al. (1988) report reduced reactivity to threatening gestures—but the core pattern remains a selective loss of affective-bodily concern while sensory cognition continues.) Arguably no other clinical condition produces as sharp a separation between phenomenal quality and information processing.
 
-**The behavioural consequences are dramatic and theory-relevant.** Asymbolia patients fail to guard injuries, seek treatment, or develop avoidance patterns. This is not a subtle effect buried in reaction-time data. The motivational collapse that follows the loss of felt suffering is exactly what theories of consciousness must predict or explain away. As Nikola Grahek frames it, the distinction is between *feeling pain* (the sensory detection, preserved) and *being in pain* (the full affective state that commands attention and drives behaviour, abolished). Asymbolia separates these with clinical precision.
+**The behavioural consequences are dramatic and theory-relevant.** Asymbolia patients fail to withdraw, protect themselves, or develop avoidance patterns. This is not a subtle effect buried in reaction-time data. The motivational collapse that follows the loss of felt suffering is exactly what theories of consciousness must predict or explain away. As Nikola Grahek frames it, the distinction is between *feeling pain* (the sensory detection, preserved) and *being in pain* (the full affective state that commands attention and drives behaviour, abolished). Asymbolia separates these with clinical precision.
 
 ## Theory by Theory
 

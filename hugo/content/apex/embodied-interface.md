@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-09-09 08:31:34+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-24 12:48:36+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-2
 apex_decision_context: How to assess the causal role of conscious bodily experience—which
   felt states are doing causal work on the Map's framework, and which are presented
   without selecting—when evaluating mental causation, AI candidate-consciousness,
@@ -48,7 +48,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-22 10:34:36+00:00
-lastmod: 2026-09-09 08:31:34+00:00
+lastmod: 2026-11-24 12:48:36+00:00
 modified: *id001
 related_articles:
 - '[[cross-modal-capability-division]]'
@@ -88,7 +88,7 @@ Second, by [P-A4](/positions/agency-and-will/#p-a4) (held at *high* credence) no
 
 ### Constitutive consciousness: where the felt quality is the causal power
 
-The second category is the one [pain](/topics/pain-consciousness-and-causal-power/) forces into view, and it is genuinely distinct from the first. In pain, the felt awfulness is not a quality riding alongside a separate motivational mechanism; the hurting *is* what drives the avoidance. Asymbolia is the demonstration: when the affective-motivational dimension is excised while sensory detection is preserved, the extended behavioural response collapses—patients detect the pinprick, report it as "painful," and do not guard the injury or seek treatment. The felt severity, not the magnitude of tissue damage, predicts the sustained response. Here phenomenal character and causal role, which most discussions treat as conceptually distinct, are inseparable.
+The second category is the one [pain](/topics/pain-consciousness-and-causal-power/) forces into view, and it is genuinely distinct from the first. In pain, the felt awfulness is not a quality riding alongside a separate motivational mechanism; the hurting *is* what drives the avoidance. Asymbolia is the demonstration: when the affective-motivational dimension is excised while sensory detection is preserved, the extended behavioural response collapses—patients detect the pinprick, report it as "painful," and neither withdraw nor learn to protect themselves. The felt severity, not the magnitude of tissue damage, predicts the sustained response. Here phenomenal character and causal role, which most discussions treat as conceptually distinct, are inseparable.
 
 This is not the same as causal consciousness, and conflating them would itself be an overclaim. Causal consciousness is *selection*: a subject directing influence among options. Constitutive consciousness is a felt quality whose very presence carries motivational force—closer to a standing pressure than to an act of choosing. The relevant Map position is [P-VS1](/positions/value-in-selection/#p-vs1), the value-sensitive-selection lean, held at *low* credence: the Map leans toward felt valence being "the currency in which conscious selection among underdetermined outcomes is denominated" but concedes this is "an aspiration, not a position," and that the value-blind rival—where the mechanism runs and valence merely accompanies it—is "the rival to beat, not a position already beaten." The register also names its own best current stance: "the graduated middle path (valence modulates attention, attention drives selection)." Read into this taxonomy, that routes whatever influence the constitutive category has *through* the causal one rather than granting it a channel of its own, and even so it "leaves the fundamental selection law value-blind unless a direct valence coupling is specified."
 

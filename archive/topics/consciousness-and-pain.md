@@ -4,7 +4,7 @@ description: "Pain binds phenomenal character to causal power inseparably. Where
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-18T02:32:00+00:00
+ai_modified: 2026-11-24T12:48:36+00:00
 draft: false
 archived: true
 archived_date: 2026-02-22T14:45:00+00:00
@@ -32,7 +32,7 @@ related_articles:
   - "[[placebo-effect-and-mental-causation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-2
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-02-18T02:32:00+00:00
@@ -50,7 +50,7 @@ Pain collapses this distinction. Consider what happens when you touch a hot stov
 
 The epiphenomenalist insists the withdrawal would occur identically without conscious experience—spinal reflexes and subcortical processing handle it all. But this response conflates the initial reflex (which is indeed unconscious and automatic) with the sustained behavioural response that follows. The spinal reflex yanks your hand away. Consciousness determines what happens next: whether you run cold water over the burn, avoid the stove for hours afterward, or develop a lasting wariness of hot surfaces. These extended responses track the *felt severity* of the pain, not merely the magnitude of tissue damage.
 
-Pain asymbolia makes this vivid. Patients with insular cortex damage detect nociceptive signals—they can report that a stimulus is "painful" in the descriptive sense—but the felt awfulness is absent. Without that felt awfulness, the extended behavioural response typically collapses. These patients often fail to guard injured limbs, seek treatment with urgency, or develop avoidance patterns. The functional representation of damage persists. What vanishes is the phenomenal quality and, with it, the motivational force. The felt quality and the causal efficacy disappear together because they were never separate.
+Pain asymbolia makes this vivid. Patients with insular cortex damage detect nociceptive signals—they can report that a stimulus is "painful" in the descriptive sense—but the felt awfulness is absent. Without that felt awfulness, the extended behavioural response typically collapses. These patients often fail to withdraw, protect injured limbs, or develop avoidance patterns. The functional representation of damage persists. What vanishes is the phenomenal quality and, with it, the motivational force. The felt quality and the causal efficacy disappear together because they were never separate.
 
 A functionalist might object that if phenomenal character and causal role are inseparable, the article is rediscovering functionalism: the awfulness just *is* the motivational-functional state. But asymbolia refutes this identification. In asymbolia, the functional representation of tissue damage remains—patients process and report the nociceptive information—yet the phenomenal awfulness and the motivational response are both absent. If the awfulness were identical to the functional state, removing it while preserving functional damage-detection would be impossible. What asymbolia demonstrates is that phenomenal character is a distinct contributor to motivation, not reducible to the information-processing role. The inseparability thesis does not collapse into functionalism; it shows that the functional state alone, without its phenomenal dimension, is motivationally inert. This is precisely what Kim's [[mental-causation|causal exclusion argument]] denies—that phenomenal properties contribute causally beyond the physical base—and pain provides the strongest counter-evidence.
 

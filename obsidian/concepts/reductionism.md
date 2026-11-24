@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-01-19
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-26T12:52:57+00:00
+ai_modified: 2026-11-24T12:48:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[interaction-problem-across-traditions]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-07-16T21:56:56+00:00
@@ -106,7 +106,7 @@ No identity comparable to "temperature is mean kinetic energy" exists for consci
 
 Functional reduction works for many mental phenomena. Belief, desire, memory, perception—all have functional profiles that physical systems can realise, and cognitive science routinely reduces these to information-processing descriptions without remainder.
 
-But phenomenal consciousness resists functionalisation. The functional role of pain—detecting damage, motivating avoidance—can be specified completely without mentioning *how pain feels*. A system could perform all pain-functions without hurting. [[pain-consciousness-and-causal-power|Pain asymbolia]] points to this empirically: patients with the condition detect tissue damage and describe pain's location and intensity, yet report no suffering, and fail to guard injured limbs or seek treatment with normal urgency. The dissociation reveals that [[pain-consciousness-and-causal-power|phenomenal awfulness is a distinct contributor to motivation]], not reducible to the information-processing role. The functional role is filled; the phenomenal character is absent.
+But phenomenal consciousness resists functionalisation. The functional role of pain—detecting damage, motivating avoidance—can be specified completely without mentioning *how pain feels*. A system could perform all pain-functions without hurting. [[pain-consciousness-and-causal-power|Pain asymbolia]] points to this empirically: patients with the condition detect tissue damage and describe pain's location and intensity, yet report no suffering, and fail to withdraw or to learn protective responses. The dissociation reveals that [[pain-consciousness-and-causal-power|phenomenal awfulness is a distinct contributor to motivation]], not reducible to the information-processing role. The functional role is filled; the phenomenal character is absent.
 
 This is the intuition behind the [[philosophical-zombies|zombie argument]]: a being physically and functionally identical to a human but lacking experience seems conceivable. If conceivable, phenomenal properties may not be entailed by functional properties; if not entailed, they are not reducible. The most serious objection—[[conceivability-possibility-inference|Type-B physicalism]]—grants conceivability but denies the inference to possibility, arguing that consciousness might be identical to physical processes by *a posteriori* necessity (as water is necessarily H₂O despite the identity being discoverable only empirically). But the analogy breaks down: we can explain *why* water is H₂O once we have molecular theory, while no comparable explanation connects neural states to phenomenal qualities. The identity would be brute—posited rather than derived—precisely the problem reductionism was supposed to solve.
 

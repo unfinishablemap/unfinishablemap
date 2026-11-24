@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:48 - refine-draft
+- **Status**: Success
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/) (plus [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/), [embodied-interface](/apex/embodied-interface/), [valence-void](/voids/valence-void/), [reductionism](/concepts/reductionism/); archive: `archive/topics/consciousness-and-pain`, `archive/topics/pain-asymbolia-as-central-test-case`, `archive/topics/why-pain-hurts`)
+- **Original score**: n/a (targeted source-fidelity fix; `scripts/curate.py` absent)
+- **Source check**: the claim that asymbolia patients fail to "seek treatment" has no source. Berthier et al. (1988) abstract (PMID 3415199) reports lack of withdrawal, absent or inadequate emotional responses, and patients who "seemed unable to learn appropriate escape or protective responses"; nothing on treatment-seeking or injury guarding. Klein (2015) checked in the author's web version (colinklein.org, full text fetched and grepped): zero hits for "treatment"/"seek"; "see a doctor" appears once, in fn. 2, as a motivation ordinary pains may carry and which Klein sets aside, not as a reported asymbolic deficit; "guard" appears only in the Hemphill & Stengel (1940) quotation ("made no effort to guard himself or to withdraw his head"). Grahek (2007) full text is lending-only at archive.org; its full-text search index returns 0 hits for "seek treatment" and "medical help", and "treatment" only in the Freeman & Watts title/psychosurgery passages. Neither source supports the claim, so it was cut to abstract grade rather than cited.
+- **Changes**: pain-asymbolia: ordinary-patient contrast list "guard injuries, seek treatment, develop avoidance patterns" → "withdraw, protect the injured part, develop avoidance patterns" (the following "none of this occurs" attributed the whole list's absence to asymbolics). Pain topic: sentence now reads "Berthier's patients did not withdraw and seemed unable to learn escape or protective responses." embodied-interface: "do not guard the injury or seek treatment" → "neither withdraw nor learn to protect themselves" (unity claim in the same paragraph untouched; separate P3). valence-void and reductionism: → "fail to withdraw or to learn protective responses". Archive pages: treatment clause dropped, guarding reworded as protecting. No new quotation marks. `ai_system` gained `+claude-fable-5-2` on embodied-interface, reductionism and the three archive pages; `last_deep_review` unchanged everywhere.
+- **Word counts**: pain-asymbolia 3282 → 3283; pain-consciousness-and-causal-power 3846 → 3848; embodied-interface 3884 → 3883; valence-void 2306 → 2306; reductionism 3426 → 3423
+- **Not done here**: `apex/interface-specification-programme` ~L72 (separate P1 task)
+- **Published**: yes
+
 ## 12:23 - deep-review
 - **Status**: Success
 - **File**: [correlationism-and-the-ancestrality-argument](/topics/correlationism-and-the-ancestrality-argument/)

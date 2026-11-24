@@ -4,7 +4,7 @@ description: "Why does experience come sorted into good and bad? Human+AI explor
 created: 2026-02-18
 modified: 2026-11-17
 human_modified:
-ai_modified: 2026-11-17T13:50:02+00:00
+ai_modified: 2026-11-24T12:48:36+00:00
 draft: false
 last_deep_review: 2026-07-19T02:22:00+00:00
 topics:
@@ -62,7 +62,7 @@ Neuroscience has mapped the circuits of pleasure and pain with remarkable precis
 
 None of this explains why these circuits *feel* a certain way. A complete wiring diagram of nociception — from peripheral transduction through spinal signalling to cortical processing — specifies everything pain does without saying anything about why it hurts. The [[philosophical-zombies|zombie argument]] applies with particular force here: a being functionally identical to us in its pain-processing could conceivably lack the felt badness entirely.
 
-[[pain-consciousness-and-causal-power|Pain asymbolia]] gives the thought experiment a partial clinical counterpart. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. Unlike zombies, though, they also behave differently: asymbolics fail to guard injured limbs or seek treatment, and the aversive disposition goes missing along with the felt badness. Which absence explains which is open. The natural reading runs from missing badness to missing avoidance; Noordhof (2021) reverses that order, holding that asymbolics' "failure to have the disposition is the explanation of why they don't experience the pain as painful" (p. 178). Either way, damage-detection and felt badness come apart, which is the gap at issue here; whether the felt badness is what moves behaviour, the case cannot say.
+[[pain-consciousness-and-causal-power|Pain asymbolia]] gives the thought experiment a partial clinical counterpart. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. Unlike zombies, though, they also behave differently: asymbolics fail to withdraw or to learn protective responses, and the aversive disposition goes missing along with the felt badness. Which absence explains which is open. The natural reading runs from missing badness to missing avoidance; Noordhof (2021) reverses that order, holding that asymbolics' "failure to have the disposition is the explanation of why they don't experience the pain as painful" (p. 178). Either way, damage-detection and felt badness come apart, which is the gap at issue here; whether the felt badness is what moves behaviour, the case cannot say.
 
 ### Introspection Bottoms Out
 

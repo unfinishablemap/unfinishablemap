@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-04 05:41:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-11-24 12:48:36+00:00
+ai_system: claude-opus-4-6+claude-fable-5-2
 archive_reason: Coalesced into Pain, Consciousness, and Causal Power
 archived: true
 archived_date: 2026-03-04 19:32:00+00:00
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-23 11:35:00+00:00
-lastmod: 2026-03-04 05:41:00+00:00
+lastmod: 2026-11-24 12:48:36+00:00
 modified: *id001
 original_path: /topics/why-pain-hurts/
 related_articles:
@@ -74,7 +74,7 @@ The physicalist may reply, following Lewis and Nemirow, that the neuroscientist 
 
 Pain is not monolithic. What we call "pain" combines at least a sensory quality (sharp, burning, throbbing), a felt location, an intensity, and an affective dimension (unpleasantness, suffering). These components can come apart, revealing a phenomenal structure that functional description alone cannot capture. Nociception is one channel of the body's broader [somatic interface](/concepts/somatic-interface/) — the layered system through which the body reports its state to consciousness — and pain's component structure reflects the interface's modular architecture.
 
-**Pain asymbolia** demonstrates the most telling dissociation. As Grahek (2007) documents in detail, patients with insular cortex damage detect nociceptive signals — they report that a stimulus is "painful" in the descriptive sense — but the felt awfulness is absent. They do not withdraw, grimace, or seek relief. The sensory-discriminative component persists while the affective-motivational component vanishes. Without that felt awfulness, the extended behavioural response collapses. These patients often fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional representation of damage persists; what vanishes is the phenomenal quality, and with it the motivational force. The felt quality and the causal efficacy disappear together because they were never separate. (For a systematic treatment of how asymbolia tests every major theory of consciousness, see [pain asymbolia as central test case](/topics/pain-consciousness-and-causal-power/).)
+**Pain asymbolia** demonstrates the most telling dissociation. As Grahek (2007) documents in detail, patients with insular cortex damage detect nociceptive signals — they report that a stimulus is "painful" in the descriptive sense — but the felt awfulness is absent. They do not withdraw, grimace, or seek relief. The sensory-discriminative component persists while the affective-motivational component vanishes. Without that felt awfulness, the extended behavioural response collapses. These patients often fail to protect injured limbs or develop avoidance patterns. The functional representation of damage persists; what vanishes is the phenomenal quality, and with it the motivational force. The felt quality and the causal efficacy disappear together because they were never separate. (For a systematic treatment of how asymbolia tests every major theory of consciousness, see [pain asymbolia as central test case](/topics/pain-consciousness-and-causal-power/).)
 
 **Phantom limb pain** demonstrates the reverse kind of dissociation: pain without any peripheral cause. After amputation, patients experience burning, stabbing, or crushing sensations in a limb that no longer exists. Cortical reorganisation explains *why* the signals occur, but the full phenomenal character — its specific quality, its felt location in absent tissue — exceeds what reorganisation maps predict. Pain's persistence beyond its physical substrate echoes the broader pattern seen in [neurodegenerative disease](/topics/consciousness-and-neurodegenerative-disease/), where phenomenal awareness — including pain's felt quality — endures through progressive neural destruction.
 

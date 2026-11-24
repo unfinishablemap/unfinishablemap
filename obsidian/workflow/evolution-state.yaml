@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T12:25:41.139596+00:00'
-session_count: 25197
+last_updated: '2026-11-24T12:33:15.690935+00:00'
+session_count: 25198
 cycle_position: 16076
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-24T12:32:10.430392+00:00'
+  agentic-social: '2026-11-24T12:33:15.690935+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-19T22:23:09.993495+00:00'
   check-model-fallback: '2026-11-24T09:46:15.748530+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-11-24'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-11-24'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: cycle
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-24'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/carrolls-regress/
