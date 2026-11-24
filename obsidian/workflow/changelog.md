@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T16:03:18+00:00
+ai_modified: 2026-11-24T16:32:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 16:32 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]] (plus [[concepts/sleep-and-consciousness]], [[concepts/global-workspace-theory]])
+- **Original score**: n/a (targeted source-fidelity fix; `scripts/curate.py` absent)
+- **Review file**: reviews/outer-review-2026-11-24-claude-fable-5-2 (Dimension 4 COGITATE row, Dimension 5 COGITATE row, fix 9)
+- **Changes**: Two pages credited COGITATE (Cogitate Consortium 2025, *Nature* 642:133-142) with a clean posterior verdict that `concepts/working-memory` and `concepts/recurrent-processing-theory` disavow. conscious-vs-unconscious-processing (Local vs Global Debate): "consciousness-related activity localized primarily to posterior cortex (… aligning with local theories like RPT), but frontal involvement remained for access" replaced with the consortium's own phrasing (information about conscious content in "visual, ventrotemporal and inferior frontal cortex", GNW's predicted offset ignition largely absent), with a piped link to working-memory on "not a clean posterior verdict"; the RPT-alignment and "frontal involvement for access" glosses went with it (neither is in the abstract, and the RPT page calls the bearing mixed). sleep-and-consciousness (Posterior Hot Zone): COGITATE no longer presented as supporting the hot zone; the Siclari et al. (2017) dreaming result stands untouched, followed by a sentence saying COGITATE does not confirm it, same quotation, piped link to working-memory. global-workspace-theory (Implications for Consciousness Localization): unhedged "COGITATE indicated that conscious content tracks with posterior cortex more closely…—a finding" scoped to "is often read as showing…—a reading", matching the page's own later hedges. Quoted span re-verified against a fresh PubMed efetch of PMID 40307561 (whitespace-collapsed, count 1).
+- **Engagement modes**: no named-opponent reply altered; the GNW/RPT exposition is unchanged in stance
+- **Length (analyze_length, body-only, before -> after / concepts hard 3500)**: conscious-vs-unconscious-processing 3495 -> 3493 (words recovered from the in-text author list, a duplicated "2025", and "What both … agree on:" -> "Both … agree that"); sleep-and-consciousness 2640 -> 2653; global-workspace-theory 3448 -> 3448
+- **Noted, not changed**: the same posterior verdict on topics/structure-of-attention, topics/the-interface-problem, concepts/attention-as-interface, concepts/concession-convergence, concepts/visual-consciousness and archive pages (separate sweep task); global-workspace-theory still says "if conscious content tracks posterior cortex rather than prefrontal networks" and "COGITATE suggests broadcast may not be necessary", both already marked as contested readings; the blindsight loci of the open P3 on the main file
+- **Published**: yes
 
 ## 16:03 - refine-draft
 - **Status**: Success

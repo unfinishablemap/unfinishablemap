@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-11-13 05:50:54+00:00
+ai_modified: 2026-11-24 16:32:25+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:48:49+00:00
-lastmod: 2026-11-13 05:50:54+00:00
+lastmod: 2026-11-24 16:32:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ Evidence:
 
 Two major theories disagree about *how much* neural processing consciousness requires. [GNWT](/concepts/global-workspace-theory/) (Dehaene, Changeux) holds that consciousness requires widespread fronto-parietal broadcast—local sensory processing is unconscious until it triggers global ignition. Recurrent Processing Theory (Lamme, Block) holds that local recurrent processing within sensory areas suffices for [phenomenal experience](/concepts/phenomenal-consciousness/), with global broadcast needed only for [access and report](/concepts/access-consciousness/).
 
-The 2025 Nature adversarial collaboration (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025) tested GNW against [Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) and found neither fully vindicated: consciousness-related activity localized primarily to posterior cortex (challenging GNW's frontal emphasis and aligning with local theories like RPT), but frontal involvement remained for access. What both GNW and RPT agree on: recurrent processing distinguishes conscious from unconscious perception. Feedforward-only processing does not support consciousness.
+The Nature adversarial collaboration (Cogitate Consortium; Ferrante et al., 2025) tested GNW against [Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) and found neither fully vindicated: information about conscious content appeared in "visual, ventrotemporal and inferior frontal cortex," [not a clean posterior verdict](/concepts/working-memory/), while GNW's predicted offset ignition was largely absent. Both GNW and RPT agree that recurrent processing distinguishes conscious from unconscious perception. Feedforward-only processing does not support consciousness.
 
 The ["overflow hypothesis"](/concepts/phenomenal-overflow/) holds that phenomenal consciousness exceeds cognitive access—you experience more than you can report. Sperling's partial report paradigm suggests subjects see more letters than they can recall. But this claim is genuinely contested: deflationists argue subjects have only a gestalt impression of "letterishness," not specific letter-experiences, and mistake the *ability* to access any row for *having accessed* all rows. The overflow debate is examined in detail in [phenomenal-overflow](/concepts/phenomenal-overflow/).
 

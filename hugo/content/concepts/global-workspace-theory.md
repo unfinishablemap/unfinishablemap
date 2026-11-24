@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-10 03:20:56+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-24 16:32:25+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:46:17+00:00
-lastmod: 2026-11-10 03:20:56+00:00
+lastmod: 2026-11-24 16:32:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ Nature's own verdict was mixed, but GNW proponents read the same data more favou
 
 ### Implications for Consciousness Localization
 
-COGITATE indicated that conscious content tracks with posterior cortex more closely than with the prefrontal-parietal broadcast network—a finding consistent with the underdetermination framing above rather than a clean falsification of GNW. [Dreaming](/topics/dream-consciousness/) reinforces this: dreams persist when the posterior hot zone remains active, even when prefrontal areas are offline. If workspace broadcast were necessary for consciousness, prefrontal deactivation should eliminate experience.
+COGITATE is often read as showing conscious content tracking posterior cortex more closely than the prefrontal-parietal broadcast network—a reading consistent with the underdetermination framing above rather than a clean falsification of GNW. [Dreaming](/topics/dream-consciousness/) reinforces this: dreams persist when the posterior hot zone remains active, even with prefrontal areas offline. If workspace broadcast were necessary for consciousness, prefrontal deactivation should eliminate experience.
 
 This suggests the global workspace may be sufficient for *reportable* consciousness without being necessary for consciousness itself—consciousness may access whatever the posterior cortex provides, the workspace enabling but not constituting that access.
 

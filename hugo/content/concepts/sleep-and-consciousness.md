@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-09-14 22:21:24+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_modified: 2026-11-24 16:32:25+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-2
 author: null
 concepts:
 - '[[dream-consciousness]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 10:11:00+00:00
-lastmod: 2026-09-14 22:21:24+00:00
+lastmod: 2026-11-24 16:32:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ The traditional dichotomy—awake means conscious, asleep means unconscious—is
 
 ### The Posterior Hot Zone
 
-High-density EEG (Siclari et al. 2017) shows that [dreaming](/topics/dream-consciousness/) during NREM correlates with reduced slow-wave activity in posterior cortical regions—the posterior "hot zone" whose role in waking conscious content COGITATE's (2025) adversarial test supported, finding posterior cortex a better predictor of conscious percepts than prefrontal areas. Two people in identical NREM Stage 3 may differ radically in consciousness depending on posterior hot zone activity.
+High-density EEG (Siclari et al. 2017) shows that [dreaming](/topics/dream-consciousness/) during NREM correlates with reduced slow-wave activity in posterior cortical regions—the posterior "hot zone." COGITATE's (2025) adversarial test of waking conscious content does not confirm the hot zone: the consortium found information about conscious content in "visual, ventrotemporal and inferior frontal cortex," [not the posterior verdict often credited to it](/concepts/working-memory/). Two people in identical NREM Stage 3 may differ radically in consciousness depending on posterior hot zone activity.
 
 ### The Consciousness Spectrum in Sleep
 

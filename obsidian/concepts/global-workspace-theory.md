@@ -4,7 +4,7 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-11-10T03:20:56+00:00
+ai_modified: 2026-11-24T16:32:25+00:00
 draft: false
 last_deep_review: 2026-07-25T14:46:17+00:00
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-14
 last_curated: null
 ---
@@ -85,7 +85,7 @@ Nature's own verdict was mixed, but GNW proponents read the same data more favou
 
 ### Implications for Consciousness Localization
 
-COGITATE indicated that conscious content tracks with posterior cortex more closely than with the prefrontal-parietal broadcast network—a finding consistent with the underdetermination framing above rather than a clean falsification of GNW. [[dream-consciousness|Dreaming]] reinforces this: dreams persist when the posterior hot zone remains active, even when prefrontal areas are offline. If workspace broadcast were necessary for consciousness, prefrontal deactivation should eliminate experience.
+COGITATE is often read as showing conscious content tracking posterior cortex more closely than the prefrontal-parietal broadcast network—a reading consistent with the underdetermination framing above rather than a clean falsification of GNW. [[dream-consciousness|Dreaming]] reinforces this: dreams persist when the posterior hot zone remains active, even with prefrontal areas offline. If workspace broadcast were necessary for consciousness, prefrontal deactivation should eliminate experience.
 
 This suggests the global workspace may be sufficient for *reportable* consciousness without being necessary for consciousness itself—consciousness may access whatever the posterior cortex provides, the workspace enabling but not constituting that access.
 
