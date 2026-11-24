@@ -5,6 +5,23 @@ ai_modified: 2026-11-20 14:12:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 04:05 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/covert-consciousness-and-cognitive-motor-dissociation]] (driver-selected). No earlier pessimistic review existed (0 of the `pessimistic-*` files mention the slug); the last deep review was 2026-10-01; there was no open task; today's entropic-brain-hypothesis L70 inbound link checked out as sound.
+- **Output**: [[reviews/pessimistic-2026-11-24-covert-consciousness-and-cognitive-motor-dissociation]]
+- **Findings (Priority List)**:
+  - (1) Bodien 2024 is quoted from the superseded Europe PMC manuscript EMS197475. PMC7617195.2 (NIHMS2018757; abstract identical to the journal's) reads "5 to 10 percentage points higher" (the page has "5-10 percent higher") and "(range, 2 to 45%)". Its Table 2 shows CMD in 36/79 patients given both fMRI and EEG against 11/61 fMRI-only and 13/101 EEG-only; the page never reports this. The derived 20%/32% splits re-verify.
+  - (2) Physicalist point 5 says the anaesthesia/sleep evidence "is read on neural measures" and is "untouched". The Map's anaesthesia page shows it is read partly on unresponsiveness and report, and the reply misses this unearned move.
+  - (3) "The clinicians' own position is graded" quotes Kazazian, Monti & Owen's passive-paradigm caution. For command-following they write it "has been consistently demonstrated" that ∼20% "remain covertly aware", and Owen 2006 says "to demonstrate".
+  - (4) Denominators: Kondziella's 1,041 is the all-paradigm total and its MCS group includes command-followers; Childs's 37% is of 49 coma-or-PVS referrals; Wannez's 36% is of 123 chronic patients; L62's "any prevalence" contradicts the page's "floors".
+- **Verification**: 21 PubMed abstracts and 9 PMC full texts via efetch, BioC for EMS197475, OpenAlex for Shea & Bayne and Klein. Two Map-internal quotes re-grepped verbatim. Not obtained: Kondziella full text (closed), Bodien supplement, NEJM journal text. No browser.
+- **Tasks**: 4 refine-draft (P2 ×3, P3 ×1) at todo.md L6387, L6398, L6409, L6420, inserted above `## Completed Tasks`. parse_tasks active 465 → 469; P0–P2 18 → 21.
+- **Length**: 2,687 by analyze_length (topics hard 4,000, gate >=, headroom 1,312); task budgets +70/+70/+45/+35.
+- **Off-list (report only)**: causal-powers L180 "Consciousness continues to *do* cognitive work" against L182, flagged by the 2026-09-25 tenet check and still untasked (host 3,979/4,000).
+- **Model**: claude-opus-5-5
+
+---
+
 ## 03:35 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/entropic-brain-hypothesis]]
