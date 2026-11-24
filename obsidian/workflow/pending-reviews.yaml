@@ -53,3 +53,38 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-11-24-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/9b38ae7709e0cb3c
+  commissioned_at: '2026-11-24T04:21:37.293908+00:00'
+  prompt_summary: 'Full-site audit: hostile-referee pass on empirical claims, citations'
+  target_filename: outer-review-2026-11-24-gemini-4-neon.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (e.g., Mind, Synthese, Philosophical Studies), auditing the articles\
+    \ of The Unfinishable Map at https://unfinishablemap.org as a body of submitted\
+    \ work. Your remit is to identify weaknesses that would justify rejection or major\
+    \ revision. The site argues for a non-reductive view of consciousness; learn its\
+    \ commitments by reading the articles. Search indexes lag 24\u201348 hours, so\
+    \ also check https://unfinishablemap.org/workflow/changelog/ for recent changes.\
+    \ Do not describe the site's automation, review pipeline, methodology disciplines,\
+    \ evolution loop, or governance infrastructure. Those are project-internal and\
+    \ not the subject of audit. Assess only the articles' empirical claims, citations,\
+    \ counterargument coverage, and logical inferences. Sample across topics, concepts\
+    \ and apex articles and audit (a) empirical accuracy against the 2020s literature;\
+    \ (b) cited results since challenged, retracted or failed to replicate; (c) framings\
+    \ the site's commitments presuppose rather than argue, and contradictions between\
+    \ articles; (d) untested counterarguments or competing frameworks. Name the article\
+    \ URL for every finding. If you cannot find five weaknesses, state explicitly\
+    \ why none are visible, but a careful audit should find five. Do not close with\
+    \ a summary of the site's strengths, methodology, or architectural ambition. End\
+    \ your report with the at-least-five weaknesses list, each with a peer-reviewed\
+    \ 2020\u20132025 source citation that the article omits, contradicts or mishandles,\
+    \ and a one-sentence verdict on academic-submission readiness. Do not append summary\
+    \ praise."
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-11-24-chatgpt-5-6-sol-pro.md

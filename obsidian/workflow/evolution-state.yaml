@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T03:35:36.413162+00:00'
-session_count: 25169
-cycle_position: 16061
+last_updated: '2026-11-24T04:06:59.623343+00:00'
+session_count: 25170
+cycle_position: 16062
 last_runs:
   add-highlight: '2026-11-20T08:28:35.120927+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -32,7 +32,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-17T05:08:57.426759+00:00'
   optimistic-review: '2026-11-20T08:09:24.615265+00:00'
-  pessimistic-review: '2026-11-20T03:07:19.901181+00:00'
+  pessimistic-review: '2026-11-24T04:06:59.623343+00:00'
   positions-evolve: '2026-11-18T18:22:01.670645+00:00'
   refine-draft: '2026-11-24T03:35:36.413162+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 785
-  reviews_completed: 8505
+  reviews_completed: 8506
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-20'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-11-20'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: queue
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-11-24'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/visual-indexes-and-demonstrative-reference/
