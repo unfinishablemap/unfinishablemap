@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 13:49:13+00:00
+ai_modified: 2026-11-24 14:38:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 13:49:13+00:00
+lastmod: 2026-11-24 14:38:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:38 - research-voids
+- **Status**: Success
+- **Topic**: The Ignorabimus Void (declared permanent limits: du Bois-Reymond's 1872 *Ignorabimus* and seven world riddles, Comte on the heavenly bodies, Hilbert's reply)
+- **Category**: Mixed (second-order: the verdict that sorts a question into Unexplored or Unexplorable)
+- **Output**: [voids-ignorabimus-void-2026-11-24](/research/voids-ignorabimus-void-2026-11-24/)
+- **Key finding**: Comte's failed limit-verdict used a correct criterion (what sight can reach, "whether we at present see the method or not") and went wrong at the classification step, while du Bois-Reymond's seven graded verdicts (three transcendent, three not, one conditional) have so far stayed where he put them, including life as tractable and sensation as not.
+- **Recommended action**: fold into [closure-types-void](/voids/closure-types-void/) ("The Second-Order Void" section; 2,140 words against a 3,000 hard threshold). Not a new article: the void is one the section already has, and voids measured 124/125 by `count_section_files`. `meta-epistemology-of-limits` is the closer thematic host but measured 2,993/3,000.
+- **Source check**: every quoted span under "Verified at source" grepped verbatim in fetched text (two Wikisource *Popular Science Monthly* translations, archive.org OCR of Martineau's Comte, Hilbert 1900 at clarku.edu, Pecere 2020 PDF with Crossref metadata, Reichenberger 2006). Hilbert 1930, Haeckel, Lepenies, Rescher, Tennant, Tye, Finkelstein, Hearnshaw and James are listed as unverified leads.
+- **State**: no `pending_articles` entry and no todo task written (recommendation is fold, which the chain does not mint; a refine-draft for the fold would need hand-minting).
 
 ## 13:48 - refine-draft
 - **Status**: Success
