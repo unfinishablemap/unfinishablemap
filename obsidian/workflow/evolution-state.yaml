@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-20T14:14:53.727294+00:00'
-session_count: 25158
+last_updated: '2026-11-24T00:21:31.022322+00:00'
+session_count: 25159
 cycle_position: 16056
 last_runs:
   add-highlight: '2026-11-20T08:28:35.120927+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-11-20T11:48:57.655401+00:00'
   embed-videos: '2026-11-20T13:48:28.751704+00:00'
   expand-topic: '2026-11-17T09:22:58.063906+00:00'
-  harvest-research-subjects: '2026-11-20T07:33:14.829327+00:00'
+  harvest-research-subjects: '2026-11-24T00:21:31.022322+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-17T05:08:57.426759+00:00'
   optimistic-review: '2026-11-20T08:09:24.615265+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-11-18T20:50:25.085867+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-11-20T08:25:28.242959+00:00'
+last_git_push: '2026-11-24T00:21:31.318514+00:00'
 last_tweet_date: '2026-11-20'
 content_stats:
   total_files: 297
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-11-20'
-  outcome: success
-  kind: trigger
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-20'
@@ -222,6 +217,11 @@ recent_tasks:
 - task: check-tenets
   type: check-tenets
   date: '2026-11-20'
+  outcome: success
+  kind: trigger
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-11-24'
   outcome: success
   kind: trigger
 agentic_social:
