@@ -5,6 +5,18 @@ ai_modified: 2026-11-24T10:31:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 10:49 - deep-review
+- **Status**: Success
+- **File**: [[concepts/entropic-brain-hypothesis]]
+- **Word count**: 2988 → 3021 (+33; analyze_length; concepts hard 3,500; soft_warning)
+- **Critical issues addressed**: 4. (1) L42 said the filter-model page concludes the altered-state data "leave filter and production accounts level"; that page's L117 says "the tie is not level" (production predicts, filter accommodates). L42 and the "empirically equivalent" sentence in Relation to Site Perspective now say so. (2) Three Map-voice sentences asserted that EBH's number "tracks", "specifies" and "delivers" what the page's own contested-measure section disputes; now "meant to track", "offers to specify", "offers a contested candidate". (3) Cardone et al. (2025) result reported in full: scores fell "at first", with one new spontaneous movement and no gain on validated scales. (4) "Bajwa et al.'s (2025) propofol null" was named but never stated; a gloss gives the result and its five no-experience reports.
+- **Medium issues addressed**: 2 (Carhart-Harris's second authorship of Schartner et al. 2017 disclosed, per the page's own L48 standard; "This is not a peripheral quibble. It bears…" rephrased)
+- **Enhancements made**: 0 (two navigation sentences cut to offset)
+- **Citations**: seven entries checked today at Crossref, PubMed and PMC efetch, all real-correct; ten quoted or paraphrased phrases re-grepped (1 hit each, nonsense control 0). Cardone et al. full text not re-read (abstract and Crossref only; detail rests on today's research note). Engagements: Carhart-Harris and Friston mixed Two/Three; Letheby Mode Three; Peterson et al. and Cardone et al. Mode Three.
+- **Not edited**: L62/L66 (open P3 refine-draft; ADDENDUM 4 added to its Notes: headroom now 478, Bajwa gloss already in the closing paragraph)
+- **Model**: claude-fable-5-2 (ai_system appended)
+- **Output**: [[reviews/deep-review-2026-11-24-entropic-brain-hypothesis]]
+
 ## 10:31 - refine-draft
 - **Status**: Success
 - **File**: [[topics/covert-consciousness-and-cognitive-motor-dissociation]]
