@@ -5,6 +5,15 @@ ai_modified: 2026-11-20 14:12:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 01:15 - research-topic
+- **Status**: Success
+- **Topic**: Psychedelics as a treatment for disorders of consciousness and its critics
+- **Output**: [[research/psychedelics-treatment-disorders-of-consciousness-2026-11-24]]
+- **Sources consulted**: 18 (PMC efetch full text ×7: Scott & Carhart-Harris 2019, Peterson et al. 2019, Rankaduwa & Owen 2023, Cardone et al. 2024, Cardone et al. 2025b, Alnagger et al. 2026, Carhart-Harris 2026; case-report full text via ORBi; PubMed abstracts ×10; Crossref ×2; OpenAlex citing-works list)
+- **Verdict**: fold into concepts/entropic-brain-hypothesis, new closing paragraph of "Where the Measure Is Contested" (+154 prose, +81 refs; headroom 1,013). Peterson, Tagliazucchi & Weijer (2019, niz013) is an ethics opinion paper and the origin of EBH L62's ketamine objection. The first psilocybin DoC case (Cardone et al. 2025) shows complexity up while responsiveness fell, which the authors read as disconnection. 67 source quotations verified verbatim (one hit each, nonsense control 0). Fold mints nothing: refine-draft task needs hand-minting
+
+---
+
 ## 18:08 - deep-review
 - **Status**: Success
 - **File**: [[concepts/symbol-grounding-problem]]
