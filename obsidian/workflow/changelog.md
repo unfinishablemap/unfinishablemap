@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T21:16:22+00:00
+ai_modified: 2026-11-24T21:38:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 21:38 - research-topic
+- **Status**: Success
+- **Topic**: Self-modifying LLM agents: self-adapting weights, test-time training and continual fine-tuning in deployment
+- **Output**: [[research/self-modifying-llm-agents-self-adapting-weights-test-time-training-2026-11-24]]
+- **Sources consulted**: 19 (3 full texts at arXiv HTML: SEAL v2, Akyürek et al. v2, Hoel v3; 14 arXiv abstracts via the API; 2 vendor engineering posts read and held as leads)
+- **Recommended action**: fold into `topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems` (sections at cap); the chain mints nothing for fold, so the refine-draft task needs hand-minting. Paragraph A costs 199 words against 1,543 headroom (page re-measured at 2,456); a matching change to `topics/hoel-llm-consciousness-continual-learning` ~L86 costs net +94 against 715.
+- **Key findings**: SEAL is a laboratory result on Llama-3.2-1B-Instruct and Qwen2.5-7B whose authors report catastrophic forgetting; test-time training in Akyürek et al.'s sense is temporary; deployed weight updating found documented is provider-side checkpoint replacement only (scoped "none found" for self-directed or per-user updating as of 2026-11-24); Hoel v3 already cites Titans and calls continual learning necessary, not sufficient. The frozen-weights objection is contingent on design; the quantum-interface objection does not depend on it.
 
 ## 21:16 - coalesce
 - **Status**: Success (abandoned: no merge candidate)
