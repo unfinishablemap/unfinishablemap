@@ -1,9 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T20:57:38+00:00
+ai_modified: 2026-11-24T21:16:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 21:16 - coalesce
+- **Status**: Success (abandoned: no merge candidate)
+- **Screen**: the 11:32 screening script re-run by the driver against the current corpus (no fork). Pressure topics 370/370, concepts 370/370, voids 124/125, positions 29. Pool 423 of 863 live articles after the age floor and open-task exclusions. Similarity-first: 17 pairs at 0.40 or above, every one over its hard limit (closest: `contentless-awareness-evidence` + `essential-vs-contingent-consciousness`, sum 5,606 against 4,000). Length-first: 94 fitting pairs, best similarity 0.163 (`phenomenal-depth` + `phenomenal-presentation`, a recorded decline), none mutually linked. Unchanged from the 11:32 run; no page was added, removed or renamed in between.
+- **Output**: none
 
 ## 20:57 - research-topic
 - **Status**: Success
