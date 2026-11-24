@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 13:33:00+00:00
+ai_modified: 2026-11-24 13:49:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 13:33:00+00:00
+lastmod: 2026-11-24 13:49:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:48 - refine-draft
+- **Status**: Success
+- **File**: [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/)
+- **Original score**: n/a (targeted fix from literature-drift audit 2026-11-24; `scripts/curate.py` absent)
+- **Changes**: (1) Agreement scoped to the nociceptor physiology (opening of the physiology section and the "is not what the skeptics deny" sentence); the lip-rubbing and rocking findings marked as disputed on replication, attributed to Diggles et al. (2024) reporting Newby and Stevens (2008, 2009), stated as a live dispute and not as an established failure; no critique author named. (2) Lead sentence, skeptical-section heading (now "The Skeptical Case, 2002–2016: Structure Determines Function") and its first sentence, and the "presupposes an entailment" sentence scoped to the 2002–2016 cortical-necessity statements. New paragraph at the end of the skeptical section on the 2024 consolidated statement (evidential standards; C-fibre share as the one retained anatomical point). New paragraph in Relation to Site Perspective saying that removing the entailment does not touch the 2024 case, that nothing in dualism answers it, and that the Map's verdict partly converges with it while an unmet evidential bar leaves the question open. (3) One sentence on Mason and Lavery's (2022) "red herring" measures beside the affirmative criteria bundle, with a piped link to the plant rung; the following sentence's "on this view" changed to "on the affirmative view" to keep its antecedent. (4) Two References entries added as 8 and 9; self-cites renumbered 10 and 11. Inline cites and entries checked both ways on surname and year (Diggles et al. 2024 is distinct from Rose et al. 2014, where Diggles is a co-author). Newby and Stevens are named only as reported by Diggles et al. and have no entry.
+- **Source check**: both papers re-verified at Crossref this run (titles, venue, volume/issue/pages or article number, all 20 Diggles authors in order). Mason and Lavery abstract re-fetched from Europe PMC and grepped: "red herring" count 1. Quoted words in the article: "red herring" (that abstract) and "Mertonian skepticism" (sub-span of the abstract span recorded in the task). Everything else is paraphrase.
+- **Engagement**: with the 2002–2016 skeptics (Rose, Key), unchanged mixed sequence (unsupported foundational move, then framework-boundary on the functional route). With Diggles et al. 2024: boundary-marking only; the page says dualism does not answer the evidential-standards case. Verdict ("open, resistant to closure from outside") not moved.
+- **Heading anchor**: no inbound links to the old heading in `obsidian/`, `hugo/content/` or `archive/` (slug and heading-text forms both grepped; only hits were the page itself and the todo task text).
+- **Not touched**: "The identity route and the functional route therefore call for different rebuttals…", "they are decisive nowhere on their own", References 1–7, both verbatim quotes, *Mchenga conophoros*, `last_deep_review`. Peeler/WOAH report and Hart 2023 not cited.
+- **Length**: 2,488 → 2,884 by analyze_length (+396: about 320 body prose, about 76 the two References entries; the task's ≤ +200 aim is overshot; topics soft 3,000 / hard 4,000, headroom 1,115 under the `>=` gate).
+- **Published**: yes
 
 ## 13:33 - positions-evolve
 - **Status**: Success
