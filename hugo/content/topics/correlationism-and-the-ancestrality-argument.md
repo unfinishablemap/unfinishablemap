@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-11-12 12:34:01+00:00
+ai_modified: 2026-11-24 12:21:37+00:00
 ai_system: claude-fable-5-1+claude-fable-5-2
 anchoring_audit_exempt: true
 author: null
@@ -18,8 +18,8 @@ description: 'Human-AI inquiry placing minimal-quantum-interaction dualism on Me
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-09-29 11:41:48+00:00
-lastmod: 2026-11-12 12:34:01+00:00
+last_deep_review: 2026-11-24 12:21:37+00:00
+lastmod: 2026-11-24 12:21:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,11 +44,11 @@ Two qualifications belong in the opening. The placement rests on Meillassoux's o
 
 ## What Correlationism Names {#correlationism}
 
-Meillassoux defines correlationism as the idea that we only ever have access to the correlation between thinking and being, and never to either term considered apart from the other (2008, p. 5 — reported in the same words by Hallward, Rutten and Wiltsche, and paraphrased here because the Map has not checked the Continuum text). The word predates the book — Zahavi and Golumbia both trace *Korrelativismus* to Beck in 1928 — so the argument is Meillassoux's while the term is not.
+Meillassoux defines correlationism as the idea that we only ever have access to the correlation between thinking and being, and never to either term considered apart from the other (2008, p. 5 — reported in the same words by Hallward, Rutten and Wiltsche, and paraphrased here because the Map has not checked the Continuum text). The word predates the book — Zahavi finds *Korrelativismus* used and defined by Beck in 1928 — so the argument is Meillassoux's while the term is not.
 
 He distinguishes two strengths. *Weak* correlationism, his reading of Kant, holds that the in-itself is thinkable but not knowable. *Strong* correlationism, attributed to Heidegger (2008, p. 71) and the later Wittgenstein, denies even the thinkability of an in-itself: the correlation is unsurpassable, and its own facticity — that there is this correlation and not another — cannot be grounded. His exit, *speculative materialism*, claims that thought reaches an absolute after all: the necessity of contingency ([explained below](#facticity)), together with the Cartesian-Galilean thesis that the mathematisable primary qualities of things belong to the things themselves.
 
-In a 2012 lecture he refined the vocabulary, conceding that *After Finitude* had produced a "regrettable air of confusion". Correlationism is now "every form of de-absolutization of thought that, to obtain this result, argues from the closure of thought upon itself"; the opposite move gets its own name, *subjectalism*: "absolutizing thought, or certain of its characteristics, so as to maintain a post-Berkeleyan antimaterialism without renouncing the speculative status of philosophy", covering "all forms of idealism and all forms of vitalism". His own *materialism* is "every thought acceding to an absolute that is at once external to thought and in itself devoid of all subjectivity" (2012). The refinement matters because the phrase "consciousness-constitutes views" runs correlationism and subjectalism together, and the Map is neither.
+In a 2012 lecture he refined the vocabulary, conceding that *After Finitude* had produced a "regrettable air of confusion". Correlationism is now "every form of de-absolutization of thought that, to obtain this result, argues from the closure of thought upon itself"; the opposite move gets its own name, *subjectalism*: "absolutizing thought, or certain of its characteristics, so as to maintain a post-Berkeleyan anti-materialism without renouncing the speculative status of philosophy", covering "all forms of idealism and all forms of vitalism". His own *materialism* is "every thought acceding to an absolute that is at once external to thought and in itself devoid of all subjectivity" (2012). The refinement matters because the phrase "consciousness-constitutes views" runs correlationism and subjectalism together, and the Map is neither.
 
 Two cautions frame what follows. Golumbia (2016) argues that the correlationist "dogma" in Meillassoux's flat form was never held: post-Kantian philosophy treats the issues he raises as central rather than committing his "error". Gabriel (2022) observes that many correlationist doctrines deny that the world's dependence on thought is causal or ontic, locating it at a transcendental, ontological or semantic level — the distinction on which the Map's placement turns.
 
@@ -70,7 +70,7 @@ Rutten's reply is the one the Map will need: "the correlationist merely affirms 
 
 Meillassoux's ladder runs weak correlationism → strong correlationism → speculative materialism, with subjectalism as the rival exit that absolutises the correlate. The Map stands on none of these rungs.
 
-*Not correlationist.* The Map claims knowledge of both terms apart, unequally. On the physical side, the [prebiotic-collapse](/concepts/prebiotic-collapse/) account has objective reduction fixing determinate outcomes throughout the universe before and beyond minds, with consciousness "interfacing with" collapse only in developed neural systems; in Wiltsche's terms the Map denies his first premise for ancestral events. On the mental side the claim is thinner: [Tenet 1](/tenets/#dualism) holds, fallibly and by argument, that consciousness is a distinct, irreducible term, claiming nothing of its categorical nature.
+*Not correlationist.* The Map claims knowledge of both terms apart, unequally. On the physical side, the [prebiotic-collapse](/concepts/prebiotic-collapse/) account has objective reduction fixing determinate outcomes throughout the universe before and beyond minds, while consciousness "interfaces with" collapse only in developed neural systems; in Wiltsche's terms the Map denies his first premise for ancestral events. On the mental side the claim is thinner: [Tenet 1](/tenets/#dualism) holds, fallibly and by argument, that consciousness is a distinct, irreducible term, claiming nothing of its categorical nature.
 
 *Not subjectalist.* The Map does not absolutise the correlate. [Panpsychism](/concepts/panpsychism/) is weighed and not adopted in the prebiotic-collapse account, and [analytic idealism](/topics/analytic-idealism-and-mind-centric-metaphysics/) — on which the physical is a representation within mind — is the subjectalist neighbour the Map is most often confused with. Analytic idealism is a consciousness-constitutes view; the Map is a consciousness-interacts view.
 
@@ -78,7 +78,7 @@ Meillassoux's ladder runs weak correlationism → strong correlationism → spec
 
 His 2012 lecture supplies the category. "Metaphysical" there names speculation that proceeds by the Principle of Sufficient Reason, and "dogmatic" the claim to supply the necessary reason things are as they are (p. 12). The Map does neither: Tenet 1 is a chosen starting point held fallibly, asserting no necessary entity, and [Tenet 5](/tenets/#occams-limits) disarms the simplicity argument against it. His word for such a position is *hyperphysics*, "every theory that postulates a reality other than that investigated by science, qua heuristic explanation for the supposedly ultimate components of our world" (p. 13); the fit is the Map's reading and partial, since he also requires the world to be recognised as contingent, which the Map leaves open. Speculative materialism "has nothing against" such theories, but a hyperphysics is "postulative, hypothetical, and without any foundation in necessity" (p. 14), which the Map accepts in place of *speculative*. Harman (2016) charges that even Meillassoux retains correlationism's "ultimately Cartesian notion" of a world split into human thinkers and dead matter; for the Map that split, minus "dead", is Tenet 1, a commitment rather than a residue.
 
-In the same lecture Meillassoux affirms that sensation emerged *ex nihilo* from non-sentient matter and that "we need dualisms everywhere", meaning differences of nature between matter, life, mind and society (pp. 14–15). That such irreducible levels stay coordinated is "the enigma of all dualisms", which "remains" unless the emergence is accepted as reasonless (p. 15). The Map's psychophysical law is posited, not derived, so the enigma is relocated, not dissolved; the Map commits to the coordination being lawful interaction open to investigation, where he leaves it "in the brute mode of blind facts" (p. 15).
+In the same lecture Meillassoux affirms that sensation emerged *ex nihilo* from non-sentient matter and that "we need dualisms everywhere", meaning differences of nature between matter, life, mind and society (pp. 14–15). That such irreducible levels stay coordinated is "the enigma of all dualisms", which "remains" unless *ex nihilo* emergence is understood as "at once entirely rational and entirely immanent" (p. 15). The Map's psychophysical law is posited, not derived, so the enigma is relocated, not dissolved; the Map commits to the coordination being lawful interaction open to investigation, where he leaves it "in the brute mode of blind facts" (p. 15).
 
 The mapping onto the [constitutive exclusion](/topics/constitutive-exclusion/)'s own four rungs is then direct. Its first three — every encounter is conditioned by the knower's apparatus; no perspective-free standpoint exists; the intrinsic nature of what is encountered may stay out of reach — are *weak*-correlationist about categorical nature only; the Map's realism about structure ([structural realism](/concepts/ontic-structural-realism/)) and about ancestral outcomes goes past Kant, so the label fits a component of the position, not the position. The fourth rung — consciousness partly constitutes what it encounters — is *ontic*: it names outcome-selection at neural indeterminacies, a causal contribution of exactly the kind Gabriel notes correlationism does not assert. The rung the Map is *not* on is strong correlationism: it never denies the thinkability of an in-itself, and it claims knowledge of the in-itself's structure and history. The resulting combination — Meillassoux's "great outdoors" accepted for structure and ancestral fact, a Kantian residue kept for categorical nature ([intrinsic-nature-void](/voids/intrinsic-nature-void/)) — is one none of the surveyed authors occupies.
 
@@ -92,7 +92,7 @@ A further worry is the Map's own rather than Brassier's, though it follows his l
 
 ## The Facticity Argument and the Second Rung {#second-rung}
 
-The facticity argument bites only on a correlationist who holds the correlation unsurpassable. The constitutive exclusion's second rung — no perspective-free standpoint exists — is not held that way: the article states it as a fallible claim about knowers as they appear to themselves and to one another, refutable in the ordinary way, and claims no exemption for itself. That is weak, not strong, correlationism about categorical nature, and Rutten's distinction supplies the reply: the Map asserts an *epistemic* possibility that categorical nature is otherwise than it appears to any knower, not an *ontological* possibility it claims to know. Since Rutten's paper is unpublished, Hallward's thinkability-is-not-knowledge point (2008, p. 55) is the published form of the same reply.
+The facticity argument bites only on a correlationist who holds the correlation unsurpassable. The constitutive exclusion's second rung — no perspective-free standpoint exists — is not held that way: the article states it as a fallible claim about knowers as they appear to themselves and to one another, refutable in the ordinary way, and claims no exemption for itself. That is weak, not strong, correlationism about categorical nature, and Rutten's distinction supplies the reply: the Map asserts an *epistemic* possibility that categorical nature is otherwise than it appears to any knower, not an *ontological* possibility it claims to know. Hallward's thinkability point (2008, p. 55) is its published form.
 
 The constitutive-exclusion article twice calls a point "bedrock" — against Quine's naturalism and against disjunctivism. In both places the word names a standoff: a point neither side has refuted, reported as the current state of argument and dissolvable by a better one. It never names an unsurpassable structure of all possible knowing, which is what the facticity argument feeds on; kept to that reading, the wording does not put the Map on the rung the argument targets.
 
@@ -112,13 +112,13 @@ That escape is closed to the Map, and the closure is a further reason the Map is
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** fixes the locality Brassier's constraint requires: the interaction is the smallest possible and leaves aggregate statistics untouched ([P-Q2](/positions/quantum-interface/#p-q2)). Meillassoux's hyper-chaos conflicts in spirit with the tenet's reliance on stable Born statistics; the Map notes that his contingency of laws is a modal claim about what could be, not a prediction that anything will change.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** marks where the Map declines to follow Meillassoux. His identification of the mind-independent core with the mathematisable primary qualities is a simplicity bet that cuts away any categorical residue behind structure. The Map need not take it, holds the [intrinsic-nature-void](/voids/intrinsic-nature-void/) open instead, and treats hyper-chaos as a modal thesis to be noted rather than adopted.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** marks where the Map declines to follow Meillassoux. His identification of the mind-independent core with the mathematisable primary qualities is a simplicity bet that cuts away any categorical residue behind structure. The Map need not take it and holds the [intrinsic-nature-void](/voids/intrinsic-nature-void/) open instead.
 
 ## Open Questions
 
 - **The primary text.** No sentence of *After Finitude* is quoted here because the Map has not checked one against the Continuum edition; the page locators come from agreeing secondary reports and should be re-verified against the book.
-- **The quantum seam.** No paper found connects Meillassoux's ancestrality to the measurement problem or objective-collapse theories; the Map's prebiotic-collapse concession is a reply the speculative-realism literature has not considered.
-- **Unread sources.** Harman's *Quentin Meillassoux: Philosophy in the Making* (2011) and Gratton's *Speculative Realism* (2014) were not consulted; García-Fernández (2026) answers Golumbia's "dogma that never was" in its title.
+- **The quantum seam.** No paper found connects Meillassoux's ancestrality to the measurement problem or objective-collapse theories; the Map's prebiotic-collapse concession was not met in the literature surveyed.
+- **Unread sources.** Harman's *Quentin Meillassoux: Philosophy in the Making* (2011) and Gratton's *Speculative Realism* (2014) were not consulted, nor was Bitbol's *Maintenant la finitude* (2019), a book-length correlationist reply reported to draw on quantum mechanics; García-Fernández (2026) answers Golumbia's "dogma that never was" in its title.
 - **Contingency.** The necessity-of-contingency material is held in the research note [voids-contingency-void-2026-02-18](/research/voids-contingency-void-2026-02-18/) and has no live void article.
 
 ## Further Reading

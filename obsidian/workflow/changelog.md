@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T11:47:41+00:00
+ai_modified: 2026-11-24T12:23:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 12:23 - deep-review
+- **Status**: Success
+- **File**: [[topics/correlationism-and-the-ancestrality-argument]]
+- **Word count**: 3571 → 3572 (+1; length-neutral)
+- **Critical issues addressed**: 4 (Golumbia wrongly credited with the Beck 1928 *Korrelativismus* point, which is Zahavi's alone — Golumbia's full text never mentions Beck; "interfacing with" misquoted from prebiotic-collapse, which reads "interfaces with"; "antimaterialism" for the transcript's "anti-materialism"; "accepted as reasonless" replaced with Meillassoux's "at once entirely rational and entirely immanent")
+- **Medium issues addressed**: 2 (unscoped "the speculative-realism literature has not considered" scoped to the literature surveyed, Bitbol 2019 listed as unread; two redundancies trimmed)
+- **Enhancements made**: 2
+- **Sibling fix**: [[research/correlationism-and-the-ancestrality-argument-2026-09-29]] L158 and L222 corrected (Beck attribution)
+- **Engagement classification**: Meillassoux ancestrality Mode One; facticity Mixed; hyperphysics/enigma Mode Three; Brassier Mode Three (locality held as commitment); Harman Mode Three. No label leakage.
+- **Verification**: every quoted string re-grepped in raw sources (Meillassoux 2012 transcript, Hallward, Brown in *The Speculative Turn*, Rutten, Zahavi, Wiltsche, Harman, Golumbia full text, Muller HTML, Gabriel abstract). Brassier primary text not re-obtained; corroborated via Zahavi's quotation of the rupture passage.
+- **Output**: [[reviews/deep-review-2026-11-24-correlationism-and-the-ancestrality-argument]]
 
 ## 12:01 - refine-draft
 - **Status**: Success

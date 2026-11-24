@@ -3,7 +3,7 @@ title: "Research Notes - Correlationism and the Ancestrality Argument"
 created: 2026-09-29
 modified: 2026-09-29
 human_modified:
-ai_modified: 2026-09-29T11:03:18+00:00
+ai_modified: 2026-11-24T12:21:37+00:00
 draft: false
 description: "Research notes on Meillassoux's correlationism, the arche-fossil and facticity arguments, the main replies (Hallward, Brassier, Zahavi, Wiltsche, Rutten, Muller, Harman, Gabriel, Golumbia), and where a minimal-quantum-interaction dualism sits in his taxonomy."
 topics:
@@ -15,7 +15,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-fable-5-2
 ai_generated_date: 2026-09-29
 last_curated: null
 ---
@@ -155,7 +155,7 @@ For the Map the central finding is taxonomic. In Meillassoux's own 2012 refineme
 - Gratton, P. (2014). *Speculative Realism: Problems and Prospects*. Bloomsbury. Not consulted.
 - Harman, G. (2011). *Quentin Meillassoux: Philosophy in the Making*. EUP. Not consulted; the searches returned Young 2020 instead.
 - Ferraris, M. (2014). *Manifesto of New Realism*. SUNY; Gabriel, M. (2015). *Fields of Sense*. EUP. Search digests only: neither offers a direct reply to the arche-fossil; both are alternative realisms that do not need it. Treat as context, not as replies.
-- Golumbia's and Zahavi's shared point that "Korrelativismus" was defined by Beck in 1928 — coiner-attribution caution (the term is not Meillassoux's coinage; the *argument* is).
+- Zahavi's point (ms p. 4, n. 3) that "Korrelativismus" was defined by Beck in 1928 [corrected 2026-11-24: Golumbia's full text, 25 pp. with notes, nowhere mentions Beck; the earlier joint attribution was an error] — coiner-attribution caution (the term is not Meillassoux's coinage; the *argument* is).
 
 ## Major Positions
 
@@ -219,7 +219,7 @@ For the Map the central finding is taxonomic. In Meillassoux's own 2012 refineme
 
 | Year | Event/Publication | Significance |
 |------|-------------------|--------------|
-| 1928 | Beck defines "Korrelativismus" (per Zahavi, Golumbia) | Term predates Meillassoux; coiner caution |
+| 1928 | Beck defines "Korrelativismus" (per Zahavi) | Term predates Meillassoux; coiner caution |
 | 2006 | *Après la finitude* (Seuil) | Arche-fossil, facticity, factiality |
 | 2007 | Goldsmiths "Speculative Realism" workshop; *Collapse* III transcript; Brassier, *Nihil Unbound* ch. 3 | First English exposition and first realist reservation (p. 60) |
 | 2008 | *After Finitude* (Continuum, trans. Brassier); Hallward, RP 152; "Time without Becoming" (Middlesex) | Epistemology/ontology equivocation charge |
