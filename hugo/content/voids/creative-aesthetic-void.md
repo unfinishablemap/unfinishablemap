@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-11-16 13:41:35+00:00
+ai_modified: 2026-11-24 18:00:15+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[default-mode-network]]'
 - '[[agent-causation]]'
 created: 2026-02-02
-date: &id001 2026-11-16
+date: &id001 2026-11-24
 description: Consciousness cannot generate genuinely novel phenomenal content, cannot
   articulate the aesthetic content it receives, and cannot observe its own generative
   process. The pattern of these three failures reveals the architecture of mind.
@@ -31,8 +31,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/cbGGK2kbt4I
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 00:41:05+00:00
-lastmod: 2026-11-16 13:41:35+00:00
+last_deep_review: 2026-11-24 18:00:15+00:00
+lastmod: 2026-11-24 18:00:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -93,7 +93,7 @@ Each marks a place where consciousness has partial access to something it cannot
 
 Hume's Copy Principle: all ideas are copies of prior impressions. Imagination is confined to "compounding, transposing, augmenting, or diminishing" existing materials but cannot generate new phenomenal primitives. Hume himself presented the Missing Shade of Blue as an exception to the principle; the Map reads it as mapping the contour rather than breaking it—imagination interpolates within existing dimensions but cannot create new ones.
 
-Nagel's bat crystallises the structural limit. We can describe echolocation physically and model its information content; we cannot imagine its experiential character. The mind substitutes something from its own palette—a dim visual scene, a tactile sense of space—labelled "sonar." What fills imagination is human experience wearing a bat costume. McGinn's [cognitive closure](/concepts/mysterianism/) generalises: the space of possible thoughts has structural holes no recombination reaches.
+Nagel's bat crystallises the structural limit. We can describe echolocation physically and model its information content; we cannot imagine its experiential character. The mind substitutes something from its own palette—a dim visual scene, a tactile sense of space—labelled "sonar." What fills imagination is human experience wearing a bat costume. McGinn's [cognitive closure](/concepts/mysterianism/) states the general form: a mind is closed to a property when its "concept-forming procedures" cannot extend to grasping it. McGinn does not build this on Hume, who on his account "mistakenly thought that human minds were Humean"; the further step, that the space of possible thoughts has holes no recombination reaches, is the Map's.
 
 The pattern of imaginative failure reveals mind's shape:
 
@@ -107,7 +107,7 @@ The aphantasia-hyperphantasia spectrum complicates the picture (Pearson, 2019). 
 
 ## The Sublime and Structural Failure
 
-Kant's *sublime* grounds the aesthetic face. Confronting vast mountains or infinite starfields, the mind attempts totality and cannot. This failure is not accidental but structural—sublimity is defined by exceeding cognitive capacity. The mathematically sublime arises from uncomprehended infinitude; the dynamically sublime from overwhelming power contemplated from safety. In both, the mind discovers what Kant calls "a faculty of mind which surpasses every standard of Sense"—the aesthetic void opens precisely where sensibility fails but meaning persists.
+Kant's *sublime* grounds the aesthetic face. Confronting vast mountains or infinite starfields, imagination tries to take in the whole and cannot. The failure is structural: the sublime, as Kant defines it, exceeds every sensible measure. The mathematically sublime arises from magnitude that imagination cannot comprehend; the dynamically sublime from overwhelming power contemplated from safety. Kant's own conclusion vindicates reason: merely to be able to think the infinite as a whole "indicates a faculty of mind which surpasses every standard of Sense". The Map takes the first half of his analysis and leaves the second: the aesthetic void opens where sensibility fails but meaning persists.
 
 ## Three Limits on Aesthetic Content
 
@@ -139,15 +139,15 @@ Creative insight arrives from somewhere consciousness cannot observe. Poincaré 
 
 Distinctive features:
 
-**Suddenness.** Insights arrive abruptly, though not complete: Poincaré held that inspiration supplies only "a point of departure" for calculations that conscious work must then carry out. The EEG work Kounios and Beeman (2009) review found a burst of gamma activity over the right anterior temporal lobe just before solutions reached with insight; they read insight as "the culmination of a series of brain states and processes operating at different time scales", the experience alone being sudden. The lead-up can be measured from outside; it is not experienced.
+**Suddenness.** Insights arrive abruptly, though not complete: Poincaré held that inspiration supplies only "a point of departure" for calculations that conscious work must then carry out. The EEG work Kounios and Beeman (2009) review found a burst of gamma activity over the right anterior temporal area just before verbal problems were solved with insight; they read insight as "the culmination of a series of brain states and processes operating at different time scales", the experience alone being sudden. The lead-up can be measured from outside; it is not experienced.
 
-**Certainty before verification.** The insight feels right before checking, though Poincaré warned that "often this feeling deceives us". He noted that a "special esthetic sensibility" acts as "the delicate sieve" that marks fruitful combinations as worthy of attention. Something has already evaluated, not merely generated.
+**Certainty before verification.** The insight feels right before checking, though Poincaré warned that "often this feeling deceives us". He proposed, as a hypothesis, that a "special esthetic sensibility" acts as "the delicate sieve" that marks fruitful combinations as worthy of attention. Something has already evaluated, not merely generated.
 
 **Surprise at one's own thought.** Creators are startled by their insights—paradoxical if they produced them. The felt externality suggests reception from a source consciousness cannot access.
 
 The incubation stage is a void—accessible through its products but not its process. Poincaré noted: "among the great numbers of combinations blindly formed by the subliminal self, almost all are without interest... only certain ones are harmonious." Something selects. If the selection mechanism were conscious, we would expect to observe it selecting. We observe only results—ideas that have already passed some filter.
 
-We actively confabulate origin stories for our insights (Nisbett & Wilson, 1977), papering over the gap with false explanations. The [transit-void](/voids/transit-void/) reveals the same pattern in ordinary mentation—creativity is the dramatic instance of a pervasive condition. The process void may be structural: if creative selection involves the same consciousness that would observe it, observing would interfere with selecting.
+Asked where a solution came from, people often supply a plausible story in place of the cause: in the Maier experiment that Nisbett and Wilson (1977) review, subjects shown a useless cue before the helpful one credited the useless cue and denied the other any role. The [transit-void](/voids/transit-void/) reveals the same pattern in ordinary mentation—creativity is the dramatic instance of a pervasive condition. The process void may be structural: if creative selection involves the same consciousness that would observe it, observing would interfere with selecting.
 
 ## The Phenomenology of the Wall
 
@@ -163,31 +163,31 @@ Approaching the void produces distinctive experiences that differ from ordinary 
 
 **The dissolving insight.** In creative work, understanding seems to form—clear, significant, almost graspable. Then it disintegrates as you reach for it.
 
-These parallel [conceptual-impossibility](/voids/conceptual-impossibility/)'s "bouncing back" of thought. The difference: conceptual impossibility concerns logical contradictions (the round square); this void concerns phenomenal limits (the new primary colour), articulation limits (the felt-but-unsayable), and process opacity (the insight you cannot watch forming).
+These parallel the wall described in [conceptual-impossibility](/voids/conceptual-impossibility/), where thought "bounces back". The difference: conceptual impossibility concerns logical contradictions (the round square); this void concerns phenomenal limits (the new primary colour), articulation limits (the felt-but-unsayable), and process opacity (the insight you cannot watch forming).
 
 ## Is the Void Real or Merely Unexplored?
 
 Perhaps these failures reflect vocabulary gaps, training deficits, or retrieval problems. Several considerations suggest the void is genuine:
 
-**Cross-cultural convergence.** Ineffability-noesis combinations are reported across mystical, aesthetic, and creative traditions with little shared vocabulary; James (1902) documents the mystical case. The comparison is informal, but it points toward a feature of consciousness rather than cultural construction.
+**Cross-cultural convergence.** Ineffability-noesis combinations are reported across mystical, aesthetic, and creative traditions with little shared vocabulary; James (1902) documents the mystical case. The comparison is informal, and the constructivist reply, that similar reports reflect shared reporting conventions, is weighed in [ineffable-encounter-void](/voids/ineffable-encounter-void/); with that caveat it points toward a feature of consciousness rather than cultural construction.
 
 **Persistence despite effort.** Art criticism represents centuries of refined articulation, yet the core ineffability persists. Introspective practice has not, on the reports gathered here, yielded process-access. The gap has not closed with increased articulative power.
 
 **The retention problem.** If the aesthetic limit were merely linguistic, you should remember what you knew during absorption even if you cannot say it. The retention limit suggests something stronger: the knowledge requires the state.
 
-**Mismatch phenomenology.** Failure feels like a category error, not inadequate vocabulary—the form of conceptual thought and the form of aesthetic content are somehow incompatible.
+**Mismatch phenomenology.** As described above, failure feels like a category error, not a vocabulary gap.
 
-Art itself functions as a void-probe: [apophatic aesthetics](/concepts/apophatic-approaches/) gestures toward what positive depiction cannot reach. Malevich's *Black Square*, Rothko's colour fields, Cage's *4'33"* use absence to approach territory we cannot describe. The artwork does not point to aesthetic territory; it constitutes it.
+Art itself functions as a void-probe: [apophatic](/concepts/apophatic-approaches/) aesthetics gestures toward what positive depiction cannot reach. Malevich's *Black Square*, Rothko's colour fields, Cage's *4'33"* use absence to approach territory we cannot describe. The artwork constitutes aesthetic territory instead of pointing to it.
 
 ## Relation to Site Perspective
 
-The creative-aesthetic void connects to the Map's [foundational commitments](/tenets/):
+None of the Map's [foundational commitments](/tenets/) is supported by this void ([P-V3](/positions/voids-as-evidence/#p-v3)); it illustrates and connects to them:
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies most directly. Imagination's structural constraints reveal that the simplest model of possibility—what I can imagine equals what is possible—is unreliable. The gap between imaginability and reality is not a minor calibration error but an architectural mismatch. For creativity, the simpler reading—the one Poincaré himself preferred—treats the subliminal self as automatic unconscious processing. The Map departs from him here: whether processing without consciousness can generate meaning and aesthetic value is the question at issue, and simplicity does not settle it.
 
-**[Dualism](/tenets/#dualism)** is consonant with modes of cognition that exceed conceptual capture. Schopenhauer's will-less contemplation, Kant's sublime recognition—these involve consciousness adopting configurations beyond ordinary information-processing. If consciousness is non-physical, imagination—which depends on neural simulation of perceptual processes—may represent only the *physical side* of the mind's reach. Non-physical consciousness might have epistemic access that imagination, bound to sensory replay, cannot provide. The creative source produces *meaning*—not just information but significance—and explaining how neural activity generates significance faces the same [explanatory gap](/topics/hard-problem-of-consciousness/).
+**[Dualism](/tenets/#dualism)** is consonant with modes of cognition that exceed conceptual capture. The Map reads Schopenhauer's will-less contemplation and Kant's sublime as consciousness adopting configurations beyond ordinary information-processing; neither author was a dualist of the Map's kind, and a functional account of attention can describe the same states. If consciousness is non-physical, imagination—which depends on neural simulation of perceptual processes—may represent only the *physical side* of the mind's reach. Non-physical consciousness might have epistemic access that imagination, bound to sensory replay, cannot provide. The creative source produces *meaning*—not just information but significance—and explaining how neural activity generates significance faces the same [explanatory gap](/topics/hard-problem-of-consciousness/).
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through aesthetic attention and creative selection. The aesthetic mode involves consciousness directing physical processing in unusual ways—attending without grasping, perceiving without categorising. Artists develop this capacity through practice. Poincaré placed this sieve before awareness ("Consciousness will never know" what it rejects); reading it as conscious selection, hence mental causation, is the Map's interpretation. The mechanism may itself be inherently unimaginable—imagination works by simulating perceptual experience, while causal influence from the non-physical to the physical would be unlike anything perceptual.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through aesthetic attention and creative selection. On the Map's reading, the aesthetic mode involves consciousness directing physical processing in unusual ways—attending without grasping, perceiving without categorising. Poincaré placed his aesthetic sieve before awareness ("Consciousness will never know" what it rejects); reading it as conscious selection, hence mental causation, is the Map's interpretation. The mechanism may itself be inherently unimaginable—imagination works by simulating perceptual experience, while causal influence from the non-physical to the physical would be unlike anything perceptual.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** connects through the haecceity of creative insight. When Poincaré's solution arrived, it arrived to *this* consciousness at *this* moment. Genuine creative selection—consciousness contributing what physics does not determine—requires definite outcomes rather than universal branching. Imagination's unreliability as a guide to possibility cuts both ways: it undermines conceivability-based arguments for and against many-worlds alike.
 
@@ -195,31 +195,31 @@ The creative-aesthetic void connects to the Map's [foundational commitments](/te
 
 ## Further Reading
 
-- [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
+- [Voids in the Map](/voids/) — The broader framework
 - [transit-void](/voids/transit-void/) — The same generative opacity pervading ordinary mentation
 - [creative-consciousness](/concepts/creative-consciousness/) — The generation-selection synthesis
-- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
-- [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — The sublime as a value dimension (awe-with-terror), complementing the sublime-as-cognitive-limit treatment here
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic experience as a test case for irreducibility
+- [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — The sublime as a value dimension (awe-with-terror)
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
-- [conceptual-impossibility](/voids/conceptual-impossibility/) — The experience of encountering formally unthinkable content
+- [conceptual-impossibility](/voids/conceptual-impossibility/) — Meeting the formally unthinkable
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds
-- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI and radically different alien minds can probe our void
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI and alien minds can probe our void
 - [The Acquaintance Void](/voids/acquaintance-void/) — Modes of knowing that conceptual thought cannot access
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like
-- [ineffable-encounter-void](/voids/ineffable-encounter-void/) — The cognate void where awe dismantles the evaluator, not just articulatory capacity
+- [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Where awe dismantles the evaluator, not just articulation
 - [free-will](/topics/free-will/) — How creative selection connects to agent causation
 
 ## References
 
-1. Poincaré, H. (1908). *Science and Method*. "Mathematical Creation."
+1. Poincaré, H. (1908). *Science and Method*. "Mathematical Creation." Trans. G. B. Halsted, in *The Foundations of Science* (Science Press, 1913).
 2. Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.
-3. Hadamard, J. (1945). *The Psychology of Invention in the Mathematical Field*. Princeton University Press.
+3. Hadamard, J. (1945). *An Essay on the Psychology of Invention in the Mathematical Field*. Princeton University Press.
 4. Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Section II.
 5. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-7. Kant, I. (1790). *Critique of Judgment*. Trans. J.H. Bernard.
+7. Kant, I. (1790). *Critique of Judgment*. Trans. J.H. Bernard (2nd ed., Macmillan, 1914).
 8. Schopenhauer, A. (1818). *The World as Will and Representation*.
 9. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 10. Nisbett, R. E. & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.

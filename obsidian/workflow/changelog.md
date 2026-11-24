@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T17:01:26+00:00
+ai_modified: 2026-11-24T18:02:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 18:02 - deep-review
+- **Status**: Success
+- **File**: [[voids/creative-aesthetic-void]]
+- **Word count**: 2439 → 2585 (+146; voids soft 2000 / hard 3000 / critical 4000, gate `>=`; 415 below hard)
+- **Critical issues addressed**: 6 — (1) Kant: failure assigned to "the mind" and the §26 quotation given the wrong subject and extended to "both" sublimes; Kant's sentence is about reason's ability to think the infinite as a whole, so the page had reversed his conclusion; (2) McGinn presented as generalising Hume's recombination limit, with the note's own "holes no recombination reaches" attributed to him, against his "Hume mistakenly thought that human minds were Humean"; (3) Nisbett and Wilson over-read as "we actively confabulate ... false explanations" (word absent, abstract says reports are sometimes accurate; replaced with the Maier two-cord result); (4) Map-internal quote "bouncing back" absent from `conceptual-impossibility` (live: "bounces back"); (5) Poincaré's sieve reported as an observation ("This is only a hypothesis"); (6) tenet section stated two Map readings as fact and carried no P-V3 statement.
+- **Medium issues addressed**: 6 (gamma region and task wording; constructivist reply pointed to; stale `apophatic aesthetics` link label; two banned constructs; three reference-metadata completions incl. Hadamard's 1945 title; stale Further Reading gloss)
+- **Enhancements made**: 2 cross-links (P-V3; in-body `ineffable-encounter-void`)
+- **Citation ledger**: 15 references. Read at source this pass (fetched and grepped): Poincaré/Halsted, Wallas, Hadamard, Hume, Nagel, McGinn, Kant/Bernard, Schopenhauer/Haldane-Kemp, James, Nisbett and Wilson, Shapshay (SEP). Abstract only: Kounios and Beeman (gamma claim checked against the Jung-Beeman et al. 2004 abstract), Pearson, Langland-Hassan, Zeman et al. Not obtained: bodies of Kounios and Beeman and of Pearson. References ↔ inline: no orphans either way.
+- **Engagement classification**: no sustained named-opponent reply; Poincaré's automatic-processing reading declined at the framework boundary (Mode Three, stated as a departure).
+- **Follow-ups for the driver** (not edited): four archived predecessors (`archive/voids/aesthetic-void`, `creativity-void`, `imagination-and-creativity-void`, `imagination-void`) and three research notes carry the corrected strings, lines listed in the review file; two live topics carry the short Hadamard title; `concepts/epistemic-emotions` L79 has "the solution appears whole".
+- **ai_system**: unchanged (`claude-fable-5-2` already present).
+- **Side effect**: `uv run python scripts/sync.py` also refreshed `hugo/content/workflow/todo.md` from the obsidian todo.
+- **Output**: [[reviews/deep-review-2026-11-24-creative-aesthetic-void]]
 
 ## 17:17 - refine-draft
 - **Status**: Success
