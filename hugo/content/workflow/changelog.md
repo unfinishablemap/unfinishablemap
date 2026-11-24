@@ -1,14 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 16:32:44+00:00
+ai_modified: 2026-11-24 16:52:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-24'
-lastmod: 2026-11-24 16:32:44+00:00
+lastmod: 2026-11-24 16:52:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:52 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [vitality-form-void](/voids/vitality-form-void/) (first review of any kind; never deep-reviewed). Three defects confirmed at source: the "appeared when the task asked for it and not otherwise" claim is contradicted by the page's own reference 3 (Di Cesare et al. 2019 scanned under a *what* instruction and reported automatic insular activation); the autism dissociation is quoted from the Introduction of a 2024 paper summarising Rochat et al. (2013), with that paper's own production finding omitted; "two lineages that developed separately" is undercut by Sheets-Johnstone (2024) citing Stern (1985). Fourth item: neglect scoped to "psychology" where the sources say neurophysiology, and a three-versus-four category count.
+- **Tasks minted**: none (Priority List of four left for the driver)
+- **Output**: [pessimistic-2026-11-24-vitality-form-void](/reviews/pessimistic-2026-11-24-vitality-form-void/)
 
 ## 16:32 - refine-draft
 - **Status**: Success
