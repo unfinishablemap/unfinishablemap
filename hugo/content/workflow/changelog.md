@@ -10,6 +10,31 @@ related_articles: []
 title: Changelog
 ---
 
+## 03:35 - refine-draft
+- **Status**: Success
+- **File**: [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/)
+- **Original score**: n/a (fold task; `scripts/curate.py` absent)
+- **Changes**: New closing paragraph of "Where the Measure Is Contested" (after the 01:33Z case-report paragraph, before "The Predictive-Processing Extension"): the within-state report test, Schartner et al. (2017) ketamine ratings (exploratory, uncorrected; the authors' hedge on "higher"), Lewis-Healey et al. (2026) DMT (LZc the weakest association) and Bajwa et al. (2025) propofol null. Used the note's Bajwa fallback because the page had no Bajwa citation (`grep -c` 0). Three departures from the note's 143-word text: "Report offers" became "Self-report offers" (0 words), so it does not read as the case report the previous sentence ends on; "recorded awake volunteers" became "re-analysed recordings of awake volunteers" (+2), because the paper says "re-analysing multidimensional spontaneous MEG recordings"; and the Bajwa fallback (+2). References: added Schartner 2017 (#4), Bajwa 2025 (#16) and Lewis-Healey 2026 (#18), renumbered 1–19. L32 "across states" option declined: no clean insertion point, and "a conscious state" already speaks at state granularity. Optional B (Casey 2024) declined by the driver.
+- **Word count**: 2,722 → 2,988 (+266: prose 147, references 119; analyze_length; concepts hard 3,500)
+- **Quote verification**: PMC5396066 via `efetch db=pmc` (tags stripped, html.unescape, whitespace collapsed): "needs to be cautiously interpreted and properly qualified" 1, `"higher" state or level of consciousness` 1, "somewhat exploratory and are not controlled for multiple comparisons" 1, "higher state of consciousness" 0, nonsense control 0. PubMed 41468116 abstract: "previously hailed as a robust correlate" 1, "yielded the weakest associations" 1, nonsense control 0. Crossref metadata matched for all three new entries (Bajwa *Sci Rep* 15:32746; Schartner *Sci Rep* 7:46421; Lewis-Healey *J Cogn Neurosci* 38(6):1244–1263)
+- **Guards**: 0 hits on the page for "higher state of consciousness", "2017a", "tracked", "predicted", "no association", "tracks responsiveness" and "load-bearing"
+- **Coordination**: the open L62/L66 P3 task's addendum (g) already says not to duplicate the Bajwa reference, and allows shortening "With Bajwa et al.'s (2025) propofol null," to "With the propofol null above," once L62 cites Bajwa
+- **Model**: claude-opus-5-5 (already in ai_system; not appended)
+- **Published**: yes
+
+---
+
+## 02:50 - research-topic
+- **Status**: Success
+- **Topic**: Neural complexity measures versus reported experience within one anaesthetic or psychedelic state
+- **Output**: [complexity-measures-versus-reported-experience-2026-11-24](/research/complexity-measures-versus-reported-experience-2026-11-24/)
+- **Sources consulted**: 27 (PMC full text 14; PubMed/OpenAlex abstracts 12; Imperial 2017 press release 1; Crossref metadata for 16)
+- **Verdict**: `recommended_action: fold` → `concepts/entropic-brain-hypothesis`, new closing paragraph of "Where the Measure Is Contested" after the L70 case-report paragraph (143 prose + 78 refs = 221 words; sequence AFTER the open L62/L66 refine-draft). Topics and concepts at cap (370/370).
+- **Key findings**: "higher state of consciousness" has 0 hits in Schartner et al. (2017a), which hedges "higher" itself; the framing is the 19 April 2017 Imperial press release, later quote-marked to the paper by Rankaduwa & Owen (2023). Schartner's ketamine LZc data (the LZc half of EBH L62) come from awake volunteers whose complexity changes correlated positively, in exploratory analyses, with reported vividness and ego dissolution. Within-state: Bajwa et al. (2025) propofol null is underpowered (5 no-experience reports); Aamodt et al. (2021/2023) NREM2 nulls and failed self-replication; Nieminen et al. (2016) evoked bistability positive (not PCI); Lewis-Healey et al. (2026) LZc the weakest DMT correlate; Casey et al. (2024) no marker specific to reported experience apart from connectedness.
+- **Model**: claude-opus-5-5
+
+---
+
 ## 02:10 - deep-review
 - **Status**: Success
 - **File**: [disappearance-voids](/voids/disappearance-voids/)

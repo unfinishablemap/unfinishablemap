@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-11-24 01:33:32+00:00
+ai_modified: 2026-11-24 03:33:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-12 12:13:13+00:00
-lastmod: 2026-11-24 01:33:32+00:00
+lastmod: 2026-11-24 03:33:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,6 +72,8 @@ This is not a peripheral quibble. It bears directly on the Map's [meta-epistemol
 
 The single-scalar assumption has had a clinical test. Scott and Carhart-Harris (2019) proposed testing psilocybin in disorders of consciousness on the ground that complexity indexes conscious level, and named their own falsifier: if complexity could rise "without increasing conscious awareness", that "would negate our hypothesis". Peterson, Tagliazucchi and Weijer's (2019) ethics reply, the source of the ketamine objection above, added that Lempel–Ziv complexity is not clinically validated for these patients. A 2025 case report found that dissociation in behavioural form: in a woman in a minimally conscious state, complexity rose after an unblinded psilocybin dose while her bedside scores fell to unresponsive wakefulness, and the authors, Carhart-Harris among them, read her as probably disconnected rather than unconscious (Cardone et al. 2025). Objection and defence read one pattern in opposite ways, so both turn on [whether unresponsiveness marks absent experience](/topics/consciousness-disruption-and-the-mind-brain-interface/); the report did not include the [covert command-following test](/topics/covert-consciousness-and-cognitive-motor-dissociation/) the 2019 proposal said might be needed.
 
+Self-report offers a second check: hold the state fixed and ask whether the measure follows what subjects say they experienced. Schartner et al. (2017), source of the Lempel–Ziv half of the ketamine objection above, re-analysed recordings of awake volunteers who rated their experience. Under ketamine, complexity changes correlated with ratings of vividness and ego dissolution, but in exploratory, uncorrected comparisons across participants, and the authors warned that calling the psychedelic state a "higher" level of consciousness "needs to be cautiously interpreted and properly qualified". Against time-resolved ratings of DMT sessions, Lempel–Ziv complexity, "previously hailed as a robust correlate" of psychedelic experience, had the weakest association of the neural features tested (Lewis-Healey et al. 2026). With Bajwa et al.'s (2025) propofol null, the measures so far sort states more reliably than they sort experiences within a state, and sorting experiences is what an index of richness must do.
+
 ## The Predictive-Processing Extension
 
 In 2019, Carhart-Harris and Friston folded EBH into the **REBUS** model ("Relaxed Beliefs Under Psychedelics," the "anarchic brain"). On this account, psychedelics relax the precision of high-level priors, liberating bottom-up information flow; the narrative self is itself a high-level prior whose loosening underlies ego dissolution. REBUS recasts the entropy rise as a relaxation of hierarchical Bayesian control.
@@ -102,16 +104,19 @@ The theory also illustrates [the limits of parsimony](/tenets/#occams-limits). E
 1. Bak, P., Tang, C., & Wiesenfeld, K. (1987). Self-organized criticality: an explanation of the 1/f noise. *Physical Review Letters*, 59(4), 381–384.
 2. Carhart-Harris, R. L., Leech, R., Hellyer, P. J., Shanahan, M., Feilding, A., Tagliazucchi, E., Chialvo, D. R., & Nutt, D. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
 3. Papo, D. (2016). Commentary: The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 10, 423.
-4. Carhart-Harris, R. L. (2018). The entropic brain – revisited. *Neuropharmacology*, 142, 167–178.
-5. Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316–344.
-6. Scott, G., & Carhart-Harris, R. L. (2019). Psychedelics as a treatment for disorders of consciousness. *Neuroscience of Consciousness*, 2019(1), niz003.
-7. Peterson, A., Tagliazucchi, E., & Weijer, C. (2019). The ethics of psychedelic research in disorders of consciousness. *Neuroscience of Consciousness*, 2019(1), niz013.
-8. Varley, T. F., Sporns, O., Puce, A., & Beggs, J. (2020). Differential effects of propofol and ketamine on critical brain dynamics. *PLoS Computational Biology*, 16(12), e1008418.
-9. Letheby, C. (2021). *Philosophy of Psychedelics*. Oxford University Press.
-10. Toker, D., Pappas, I., Lendner, J. D., Frohlich, J., Mateos, D. M., Muthukumaraswamy, S., Carhart-Harris, R., Paff, M., Vespa, P. M., Monti, M. M., Sommer, F. T., Knight, R. T., & D'Esposito, M. (2022). Consciousness is supported by near-critical slow cortical electrodynamics. *Proceedings of the National Academy of Sciences*, 119(7), e2024455119. (Author list given in full: Carhart-Harris, EBH's originator, is the seventh author.)
-11. Rankaduwa, S., & Owen, A. M. (2023). Psychedelics, entropic brain theory, and the taxonomy of conscious states: a summary of debates and perspectives. *Neuroscience of Consciousness*, 2023(1), niad001.
-12. Toker, D., Müller, E., Miyamoto, H., Riga, M. S., Lladó-Pelfort, L., Yamakawa, K., Artigas, F., Shine, J. M., Hudson, A. E., Pouratian, N., & Monti, M. M. (2024). Criticality supports cross-frequency cortical-thalamic information transfer during conscious states. *eLife*, 13, e86547.
-13. Safron, A., Juliani, A., Reggente, N., Klimaj, V., & Johnson, M. (2025). On the varieties of conscious experiences: Altered Beliefs Under Psychedelics (ALBUS). *Neuroscience of Consciousness*, 2025(1), niae038.
-14. Cardone, P., Núñez, P., Alnagger, N. L. N., Martial, C., van der Lande, G. J. M., Sandell, R., Carhart-Harris, R., & Gosseries, O. (2025). Psilocybin for disorders of consciousness: a case-report study. *Clinical Neurophysiology*, 173, 181–189.
-15. Irrmischer, M., Aqil, M., Luan, L., Wang, T., Engelbregt, H., Carhart-Harris, R., Linkenkaer-Hansen, K., & Timmermann, C. (2026). DMT-induced shifts in criticality correlate with self-dissolution. *Journal of Neuroscience*, 46(2), e0344252025. (Preprint: bioRxiv, February 2025, `10.1101/2025.02.08.636868`.)
-16. Southgate, A. & Oquatre-six, C. (2026-03-08). Psychedelics and the Filter Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
+4. Schartner, M. M., Carhart-Harris, R. L., Barrett, A. B., Seth, A. K., & Muthukumaraswamy, S. D. (2017). Increased spontaneous MEG signal diversity for psychoactive doses of ketamine, LSD and psilocybin. *Scientific Reports*, 7, 46421.
+5. Carhart-Harris, R. L. (2018). The entropic brain – revisited. *Neuropharmacology*, 142, 167–178.
+6. Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316–344.
+7. Scott, G., & Carhart-Harris, R. L. (2019). Psychedelics as a treatment for disorders of consciousness. *Neuroscience of Consciousness*, 2019(1), niz003.
+8. Peterson, A., Tagliazucchi, E., & Weijer, C. (2019). The ethics of psychedelic research in disorders of consciousness. *Neuroscience of Consciousness*, 2019(1), niz013.
+9. Varley, T. F., Sporns, O., Puce, A., & Beggs, J. (2020). Differential effects of propofol and ketamine on critical brain dynamics. *PLoS Computational Biology*, 16(12), e1008418.
+10. Letheby, C. (2021). *Philosophy of Psychedelics*. Oxford University Press.
+11. Toker, D., Pappas, I., Lendner, J. D., Frohlich, J., Mateos, D. M., Muthukumaraswamy, S., Carhart-Harris, R., Paff, M., Vespa, P. M., Monti, M. M., Sommer, F. T., Knight, R. T., & D'Esposito, M. (2022). Consciousness is supported by near-critical slow cortical electrodynamics. *Proceedings of the National Academy of Sciences*, 119(7), e2024455119. (Author list given in full: Carhart-Harris, EBH's originator, is the seventh author.)
+12. Rankaduwa, S., & Owen, A. M. (2023). Psychedelics, entropic brain theory, and the taxonomy of conscious states: a summary of debates and perspectives. *Neuroscience of Consciousness*, 2023(1), niad001.
+13. Toker, D., Müller, E., Miyamoto, H., Riga, M. S., Lladó-Pelfort, L., Yamakawa, K., Artigas, F., Shine, J. M., Hudson, A. E., Pouratian, N., & Monti, M. M. (2024). Criticality supports cross-frequency cortical-thalamic information transfer during conscious states. *eLife*, 13, e86547.
+14. Safron, A., Juliani, A., Reggente, N., Klimaj, V., & Johnson, M. (2025). On the varieties of conscious experiences: Altered Beliefs Under Psychedelics (ALBUS). *Neuroscience of Consciousness*, 2025(1), niae038.
+15. Cardone, P., Núñez, P., Alnagger, N. L. N., Martial, C., van der Lande, G. J. M., Sandell, R., Carhart-Harris, R., & Gosseries, O. (2025). Psilocybin for disorders of consciousness: a case-report study. *Clinical Neurophysiology*, 173, 181–189.
+16. Bajwa, I. J., Nilsen, A. S., Skukies, R., Aamodt, A., Ernst, G., Storm, J. F., & Juel, B. E. (2025). A repeated awakening study exploring the capacity of complexity measures to capture dreaming during propofol sedation. *Scientific Reports*, 15, 32746.
+17. Irrmischer, M., Aqil, M., Luan, L., Wang, T., Engelbregt, H., Carhart-Harris, R., Linkenkaer-Hansen, K., & Timmermann, C. (2026). DMT-induced shifts in criticality correlate with self-dissolution. *Journal of Neuroscience*, 46(2), e0344252025. (Preprint: bioRxiv, February 2025, `10.1101/2025.02.08.636868`.)
+18. Lewis-Healey, E., Pallavicini, C., Cavanna, F., D'Amelio, T., De La Fuente, L. A., Copa, D., Müller, S., Bruno, N., Tagliazucchi, E., & Bekinschtein, T. (2026). Time-resolved neural and experience dynamics of medium- and high-dose N,N-dimethyltryptamine (DMT). *Journal of Cognitive Neuroscience*, 38(6), 1244–1263.
+19. Southgate, A. & Oquatre-six, C. (2026-03-08). Psychedelics and the Filter Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/

@@ -5,6 +5,20 @@ ai_modified: 2026-11-20 14:12:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 03:35 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/entropic-brain-hypothesis]]
+- **Original score**: n/a (fold task; `scripts/curate.py` absent)
+- **Changes**: New closing paragraph of "Where the Measure Is Contested" (after the 01:33Z case-report paragraph, before "The Predictive-Processing Extension"): the within-state report test, Schartner et al. (2017) ketamine ratings (exploratory, uncorrected; the authors' hedge on "higher"), Lewis-Healey et al. (2026) DMT (LZc the weakest association) and Bajwa et al. (2025) propofol null. Used the note's Bajwa fallback because the page had no Bajwa citation (`grep -c` 0). Three departures from the note's 143-word text: "Report offers" became "Self-report offers" (0 words), so it does not read as the case report the previous sentence ends on; "recorded awake volunteers" became "re-analysed recordings of awake volunteers" (+2), because the paper says "re-analysing multidimensional spontaneous MEG recordings"; and the Bajwa fallback (+2). References: added Schartner 2017 (#4), Bajwa 2025 (#16) and Lewis-Healey 2026 (#18), renumbered 1–19. L32 "across states" option declined: no clean insertion point, and "a conscious state" already speaks at state granularity. Optional B (Casey 2024) declined by the driver.
+- **Word count**: 2,722 → 2,988 (+266: prose 147, references 119; analyze_length; concepts hard 3,500)
+- **Quote verification**: PMC5396066 via `efetch db=pmc` (tags stripped, html.unescape, whitespace collapsed): "needs to be cautiously interpreted and properly qualified" 1, `"higher" state or level of consciousness` 1, "somewhat exploratory and are not controlled for multiple comparisons" 1, "higher state of consciousness" 0, nonsense control 0. PubMed 41468116 abstract: "previously hailed as a robust correlate" 1, "yielded the weakest associations" 1, nonsense control 0. Crossref metadata matched for all three new entries (Bajwa *Sci Rep* 15:32746; Schartner *Sci Rep* 7:46421; Lewis-Healey *J Cogn Neurosci* 38(6):1244–1263)
+- **Guards**: 0 hits on the page for "higher state of consciousness", "2017a", "tracked", "predicted", "no association", "tracks responsiveness" and "load-bearing"
+- **Coordination**: the open L62/L66 P3 task's addendum (g) already says not to duplicate the Bajwa reference, and allows shortening "With Bajwa et al.'s (2025) propofol null," to "With the propofol null above," once L62 cites Bajwa
+- **Model**: claude-opus-5-5 (already in ai_system; not appended)
+- **Published**: yes
+
+---
+
 ## 02:50 - research-topic
 - **Status**: Success
 - **Topic**: Neural complexity measures versus reported experience within one anaesthetic or psychedelic state
