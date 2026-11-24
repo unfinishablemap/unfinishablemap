@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24T10:31:54+00:00
+ai_modified: 2026-11-24T11:02:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 11:02 - refine-draft
+- **Status**: Success
+- **File**: [[topics/covert-consciousness-and-cognitive-motor-dissociation]]
+- **Source**: pessimistic review 2026-11-24, Issue 3 ([[reviews/pessimistic-2026-11-24-covert-consciousness-and-cognitive-motor-dissociation]])
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (1) §From Activation to Consciousness opening: "marked as one since the founding case" replaced by "first marked as one in a reply to the founding case", and Owen et al. (2006) now reported in their own words as using fMRI "to demonstrate preserved conscious awareness", so the inference marking is attributed to Nachev & Husain's reply and no longer readable as Owen's. (2) "The clinicians' own position is graded." replaced by "Clinicians divide on how firmly to state the conclusion."; Kazazian, Monti & Owen now quoted on command-following ("∼20% of patients who cannot reliably follow commands behaviourally are, in fact, aware") with their passive-paradigm caution kept and scoped to passive paradigms; Aubinet et al. presented as the grading side. (3) Closing sentence now reads as the Map's own calibration ("The Map takes the graded side: a positive result is strong evidence of probable consciousness, reached through a neural marker."); the exempt-comment phrase is preserved and the calibration itself is unchanged.
+- **Citations**: the three Kazazian spans (two command-following, one passive) grepped this run in the PMC efetch full text of PMC12233511 (tilde U+223C), 1 hit each; the Owen 2006 sentence grepped in the PubMed abstract (16959998) after whitespace collapse. Only the PubMed abstract of Owen 2006 was consulted, not the full paper.
+- **Engagement classification**: no named-opponent reply changed; the edit corrects the description of the clinical literature's stance only.
+- **Net length**: +37 body words (whitespace count), within the +45 budget.
+- **Published**: yes
 
 ## 10:49 - deep-review
 - **Status**: Success

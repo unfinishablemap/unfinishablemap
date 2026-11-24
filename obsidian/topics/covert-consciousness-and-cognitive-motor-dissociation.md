@@ -4,7 +4,7 @@ description: "What covert-consciousness figures license: CMD in roughly 15–25%
 created: 2026-10-01
 modified: 2026-11-24
 human_modified:
-ai_modified: 2026-11-24T10:31:40+00:00
+ai_modified: 2026-11-24T11:02:08+00:00
 last_deep_review: 2026-10-01T17:29:51+00:00
 draft: false
 anchoring_audit_exempt: true  # 2026-10-01 verified lexical false-high vs neural-correlates-of-consciousness: hedge density low because the page reports measured figures; calibration is structural (lead: production readings "explain them", interface readings "accommodate them", "without discriminating it from production"; "evidentially neutral" at any prevalence; physicalist reading "standing, matched only by an interface variant"; positive test = "strong evidence of probable consciousness"; true prevalence "unknown"). Deep review fixed two real sentence-level calibration gaps (BI "shows", Occam "size measured") instead of adding hedges.
@@ -63,11 +63,11 @@ A positive result therefore carries real information and a negative one almost n
 
 ## From Activation to Consciousness {#from-activation-to-consciousness}
 
-A positive test shows task-specific brain activity; the step to consciousness is an inference, marked as one since the founding case. Owen et al. (2006) reported a single vegetative patient who, "When asked to imagine playing tennis or moving around her home," activated predicted cortical areas "in a manner indistinguishable from that of healthy volunteers." Nachev and Husain (2007) replied that "the presence of brain activation is not sufficient evidence for the associated behaviour" unless "the same activation cannot occur without it," and that the activation "may therefore have been wholly automatic and unconscious."
+A positive test shows task-specific brain activity; the step to consciousness is an inference, first marked as one in a reply to the founding case. Owen et al. (2006) used fMRI "to demonstrate preserved conscious awareness" in a single vegetative patient who, "When asked to imagine playing tennis or moving around her home," activated predicted cortical areas "in a manner indistinguishable from that of healthy volunteers." Nachev and Husain (2007) replied that "the presence of brain activation is not sufficient evidence for the associated behaviour" unless "the same activation cannot occur without it," and that the activation "may therefore have been wholly automatic and unconscious."
 
 Shea and Bayne (2010) judged that the standard results suggest some vegetative patients "might indeed be conscious, although they fall short of being demonstrative." Klein (2017) grants the conclusion and withholds more: "Responsive patients are likely still conscious. However, the route to this conclusion does not support attributions of intentional agency." Naccache (2018) argues that the behavioural criteria for the minimally conscious state give certainty about a "cortically mediated state" but not about residual consciousness.
 
-The clinicians' own position is graded. Aubinet et al. write that "someone who passes an fMRI or EEG motor imagery test is likely conscious," and call for "diagnostic humility." Kazazian, Monti and Owen caution that for passive paradigms "awareness is not necessarily required for a positive response to occur." Edlow et al. (2026) extend the method to one patient in behavioural coma, in whom "the task-based fMRI and task-based EEG assessments both indicated the presence of covert consciousness." A positive result is thus strong evidence of probable consciousness, reached through a neural marker.
+Clinicians divide on how firmly to state the conclusion. Kazazian, Monti and Owen write that "∼20% of patients who cannot reliably follow commands behaviourally are, in fact, aware," reserving for passive paradigms the caution that "awareness is not necessarily required for a positive response to occur." Aubinet et al. grade it: "someone who passes an fMRI or EEG motor imagery test is likely conscious," and they call for "diagnostic humility." Edlow et al. (2026) extend the method to one patient in behavioural coma, in whom "the task-based fMRI and task-based EEG assessments both indicated the presence of covert consciousness." The Map takes the graded side: a positive result is strong evidence of probable consciousness, reached through a neural marker.
 
 ## Misdiagnosis Is a Different Finding {#misdiagnosis-is-a-different-finding}
 
