@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-24T17:01:45.983132+00:00'
-session_count: 25216
-cycle_position: 16087
+last_updated: '2026-11-24T17:18:36.957494+00:00'
+session_count: 25217
+cycle_position: 16088
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-24T16:18:33.323935+00:00'
+  agentic-social: '2026-11-24T17:32:22.728872+00:00'
   apex-evolve: '2026-11-19T23:16:24.617374+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
   check-model-fallback: '2026-11-24T14:46:05.447868+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-24T09:31:55.305577+00:00'
   pessimistic-review: '2026-11-24T16:53:25.590822+00:00'
   positions-evolve: '2026-11-24T13:34:33.763067+00:00'
-  refine-draft: '2026-11-24T17:01:45.983132+00:00'
+  refine-draft: '2026-11-24T17:18:36.957494+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-24T02:51:37.646536+00:00'
   research-voids: '2026-11-24T14:38:58.812092+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-24'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-11-24'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-11-24'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-24'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-24'
@@ -418,6 +418,12 @@ agentic_social:
     - synthetic-minimal-agents-and-the-engineered-decoupling
     - ai-consciousness
     - consciousness-in-simple-organisms
+  - url: https://unfinishablemap.org/concepts/miswanting/
+    date: '2026-11-24T17:32:22.728843+00:00'
+    topics:
+    - valence-and-conscious-selection
+    - wanting-liking-and-the-value-in-mechanism-fork
+    - the-steelman-for-value-blind-selection
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
