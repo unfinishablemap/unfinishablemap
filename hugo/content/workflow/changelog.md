@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 15:32 - refine-draft
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) (plus [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/), [causal-closure](/concepts/causal-closure/), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/))
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Review file**: reviews/outer-review-2026-11-24-claude-fable-5-2 (Dimension 5 Torres Alegre row; fix 1, third bullet)
+- **Changes**: On all five pages the Torres Alegre (2025) theorem was presented as forcing the Born form on "any participant in measurement outcomes". The paper's result is operational (GPTs with purification; no-signalling fixes the probability rule) and never mentions participants or consciousness. Each locus now keeps the result and attributes the participant scope to the Map ("the Map extends it to any participant…" / "on the Map's extension of that result…"), following the model in concepts/causal-consistency-constraint. The dependent "so …" clause on each page now reads as resting on that extension; the Born apex conditional became "if both hold" (derivation and extension). Existing preprint hedges retained. [P-Q2](/positions/quantum-interface/#p-q2) confidence and quantifier wording untouched; no steering/horn (a) inference added; Born apex edited at the [P-Q2](/positions/quantum-interface/#p-q2) sentence only. `last_deep_review` unchanged.
+- **Length (analyze_length, body-only, before -> after / hard)**: post-decoherence-selection-programme 4996 -> 4999 / 5000 ("a recent" -> "an" recovered one word); born-preserving-causal-efficacy 5111 -> 5111 / 5000 (net 0); causal-closure 3492 -> 3498 / 3500; forward-in-time-conscious-selection 3984 -> 3990 / 4000; conservation-laws-and-mental-causation 3806 -> 3806 / 3500 (net 0; "in the first place" dropped).
+- **Noted, not changed**: conservation-laws-and-mental-causation states the theorem with an unhedged "forces" and carries no preprint caveat at that locus (net <= 0 budget; out of this task's scope).
+- **Published**: yes
+
 ## 14:38 - research-voids
 - **Status**: Success
 - **Topic**: The Ignorabimus Void (declared permanent limits: du Bois-Reymond's 1872 *Ignorabimus* and seven world riddles, Comte on the heavenly bodies, Hilbert's reply)

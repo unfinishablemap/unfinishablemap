@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-11-24 08:40:13+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-11-24 15:32:17+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
 - concepts/ensemble-level-epiphenomenalism
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-11-24 08:40:13+00:00
+lastmod: 2026-11-24 15:32:17+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -61,7 +61,7 @@ This piece states, as one whole problem, the challenge the Map's positions regis
 
 Start from the three positions. The Map's [quantum-interface](/positions/quantum-interface/) register records them as [P-Q2](/positions/quantum-interface/#p-q2), [P-Q3](/positions/quantum-interface/#p-q3), and [P-Q10](/positions/quantum-interface/#p-q10).
 
-On **[P-Q2](/positions/quantum-interface/#p-q2)** (high confidence), the default reading of Minimal Quantum Interaction has conscious selection act within a corridor whose outputs are, per trial, indistinguishable from unbiased Born statistics. The interaction biases *which* outcome becomes actual on a given measurement, but the aggregate distribution over many trials matches what standard quantum mechanics predicts. This is structural to the reading, not an empirical hope about neural tissue: the [causal-consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, an arXiv preprint not yet peer-reviewed) argues that no-signalling under purification forces the Born form on any participant in measurement outcomes, so — if the derivation holds — Born-preservation is inherited rather than bolted on.
+On **[P-Q2](/positions/quantum-interface/#p-q2)** (high confidence), the default reading of Minimal Quantum Interaction has conscious selection act within a corridor whose outputs are, per trial, indistinguishable from unbiased Born statistics. The interaction biases *which* outcome becomes actual on a given measurement, but the aggregate distribution over many trials matches what standard quantum mechanics predicts. This is structural to the reading, not an empirical hope about neural tissue: the [causal-consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, an arXiv preprint not yet peer-reviewed) argues no-signalling under purification forces the Born form, which the Map extends to any participant in measurement outcomes, so, if both hold, Born-preservation is inherited rather than bolted on.
 
 On **[P-Q3](/positions/quantum-interface/#p-q3)** (high confidence that the dilemma is genuine and unresolved), this is the strongest live challenge to the default mechanism — the [mechanism debt](/positions/quantum-interface/#mechanism-debt) the register tracks. To be genuine *selection*, conscious influence must do something the unbiased Born distribution does not; to be *minimal and undetectable* — the corridor's defining property — it must not deviate from Born statistics. If the aggregate statistics are exactly preserved and the selected outcome is observer-indistinguishable from an unselected one, the position sits genuinely close to epiphenomenalism. The register names this a framework-boundary pressure rather than treating it as dissolved.
 
