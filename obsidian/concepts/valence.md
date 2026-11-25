@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-11-25
 human_modified:
-ai_modified: 2026-11-25T10:39:49+00:00
+ai_modified: 2026-11-25T14:04:42+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -92,7 +92,7 @@ The [[tenets#^dualism|Dualism]] tenet draws support scoped to what the arguments
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains a constraint from asymbolia cases. When the phenomenal property is absent, behavior changes, which presses on the bare-correlation epiphenomenalist but leaves them the lesion's common-cause reading; the Map concedes that the phenomenal-concept version survives the dissociation ([[positions/arguments-for-mental-causation|P-MC1]]).
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. *If* selection is value-sensitive, consciousness would not influence quantum indeterminacies at random but choose among neural possibilities by how they would feel—where the anticipation consulted is itself a present felt state, not an accurate forecast of the outcome's value ([[affective-forecasting-gap]]). Whether valence enters the selection mechanism directly or operates only through modulating attention is an [[valence-and-conscious-selection|unresolved fork]] with distinct consequences for teleology and testability. The value-sensitive position holds that valence serves as the common evaluative dimension—the currency—that makes selection among qualitatively different outcomes commensurable; the Map holds it at low credence, framework-internal only ([[positions/value-in-selection|P-VS1]]), inheriting the quantum interface's undischarged [[positions/quantum-interface#^mechanism-debt|mechanism debt]] rather than settling it.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. *If* selection is value-sensitive, consciousness would not influence quantum indeterminacies at random but choose among neural possibilities by how they would feel—where the anticipation consulted is itself a present felt state, not an accurate forecast of the outcome's value ([[affective-forecasting-gap]]). Whether valence enters the selection mechanism directly or operates only through modulating attention is an [[valence-and-conscious-selection|unresolved fork]] with distinct consequences for teleology and testability. The value-sensitive position holds that valence serves as the common evaluative dimension—the currency—that makes selection among qualitatively different outcomes commensurable; the Map holds it at low credence, framework-internal only ([[positions/value-in-selection|P-VS1]]), inheriting the quantum interface's undischarged [[positions/quantum-interface#^mechanism-debt|mechanism debt]] rather than settling it, together with a second, conditional cost the Map would have to own: on the horn where biases differ by context yet cancel in the overall Born-rule statistics, exact preservation would demand a compensating tilt toward worse outcomes for "someone or somewhen else" (the [[apex/born-preserving-causal-efficacy#where-a-selection-could-show-if-anywhere-the-conditional-signature|compensation consequence]]).
 
 ## Further Reading
 
