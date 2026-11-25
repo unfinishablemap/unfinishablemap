@@ -5,6 +5,29 @@ ai_modified: 2026-11-25T16:37:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-25 17:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/stereopsis-void]] (secondary: [[voids/acquaintance-void]], [[voids]])
+- **Trigger**: pessimistic review 2026-11-25 of stereopsis-void, Priority List items 1 and 2
+- **Original score**: n/a (`scripts/curate.py` absent; review file plus full read)
+- **Sources fetched and grepped this run** (whitespace collapsed): Sacks, "Stereo Sue", *The New Yorker*, 2006 (live newyorker.com, 96 paragraphs, about 47k characters); Popova 2024 (live); Dardis, "Stereo Sue", Brains Blog, 6 October 2006 (live page 403; Wayback raw copy of the .aspx URL, 2021 snapshot). All eight new quotations are verbatim sub-spans of those texts. Byline reads "Anthony Dardis"; Aizawa's first comment addresses him as "Tony".
+- **Changes, stereopsis-void** (before → after):
+  - Lead: "Susan Barry, a neuroscientist who was stereoblind from infancy, studied the physiology of binocular vision as a student and reports that she could not picture what she lacked until she gained stereopsis at 48." → "Susan Barry, a neuroscientist stereoblind until 48 (save perhaps fleeting childhood glimpses), could not imagine stereopsis at twenty; as a neurobiology professor she later told Oliver Sacks she thought she could, and after gaining it she wrote that she had been wrong." Sacks records the blade-of-grass recollection and "almost half a century of being stereo-blind"; the "couldn't imagine" quotation is from the lecture at twenty, before her study.
+  - Lead, Mary grade: "Barry's case is a close real-life relative of Mary in the knowledge argument, and it illustrates the intuition behind that argument without deciding it." → "Barry's case is a loose real-life relative of Mary in the knowledge argument: depth, unlike colour for Mary, already had a precursor in Barry's vision. The case illustrates the intuition behind that argument without deciding it."
+  - Forward face, after Krulwich's question (added): "Sacks (2006) records that she "said she thought she could", feeling her reading gave her "special insight into what she was missing"."
+  - Forward face, after the Lehrer quotations (added): "Her first letter to Sacks, in 2004, withdrew that answer: "I told you that I thought I could. . . . But I was wrong." That verdict is retrospective."
+  - Mary paragraph: "The comparison with Mary belongs to Maria Popova (2024), who writes that Barry had "been living in Mary’s Room". The Map's research did not find Barry or Sacks making it." → "Barry made the colour comparison herself in her first letter, which Maria Popova (2024) quotes: "Imagine a person who saw only in shades of gray suddenly able to see in full color." Sacks (2006) disagreed, suggesting that her new depth was welcome because "a three-dimensional world was already a perceptual reality for her": "With color, there is no precursor". In October 2006 Anthony Dardis guessed that Sacks had "philosophically famous Mary in mind"; Popova later wrote that Barry had "been living in Mary’s Room"." No claim of priority: print sources before October 2006 were not checked. "Suggesting" keeps Sacks's "Perhaps".
+  - Description: "could not picture binocular depth until she gained it" → "believed she could picture binocular depth until she gained it".
+  - References: added Dardis (2006) and Sacks (2006); list renumbered 1–13.
+- **Changes, acquaintance-void** (L73): "a stereoblind neuroscientist who gained binocular depth in adulthood reports that she could not picture it beforehand." → "a stereoblind neuroscientist who gained binocular depth in adulthood reports that she had wrongly thought she could picture it."
+- **Changes, voids.md** (L173, section index): "A stereoblind neuroscientist could not picture binocular depth before gaining it" → "A stereoblind neuroscientist believed she could picture binocular depth until she gained it".
+- **Left for the sibling P3**: "on the evidence of these two cases", "A second vision scientist reports a similar surprise.", "The evidence from surprised experts is two people", the Levi amblyopia caveat, and the aperture "no study" clause. All are unchanged (count 1 each).
+- **Site perspective**: unchanged. It reads correctly, and the precursor disanalogy supports its neutrality.
+- **Spillover, not edited**: `concepts/inventory-blindness` L87 still says "Susan Barry, stereoblind from infancy". This is the same simplification, on a host outside this task's scope.
+- **Length** (analyze_length): stereopsis-void 1955 → 2105 (+150, at budget; voids hard 3000); acquaintance-void 2468 → 2470 (+2); voids.md 8671 → 8673 (+2)
+- **ai_system**: stereopsis-void appended claude-opus-5-5; the two hosts already carry it and are unchanged. `last_deep_review` not set.
+- **Published**: yes (sync run; obsidian and hugo both carry every edit in all three files)
+
 ## 2026-11-25 16:37 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]

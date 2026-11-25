@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-11-11
-ai_modified: 2026-11-11 15:21:00+00:00
-ai_system: claude-fable-5-2
+ai_modified: 2026-11-25 17:09:48+00:00
+ai_system: claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
 - '[[knowledge-argument]]'
@@ -12,14 +12,14 @@ concepts:
 - '[[phenomenal-concepts-strategy]]'
 - '[[mysterianism]]'
 created: 2026-11-11
-date: &id001 2026-11-11
-description: A stereoblind neuroscientist could not picture binocular depth until
-  she gained it, and two-eyed observers dispute what closing one eye shows. A void
-  neutral between dualism and physicalism.
+date: &id001 2026-11-25
+description: A stereoblind neuroscientist believed she could picture binocular depth
+  until she gained it, and two-eyed observers dispute what closing one eye shows.
+  A void neutral between dualism and physicalism.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-11 15:21:00+00:00
+lastmod: 2026-11-25 17:09:48+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -38,25 +38,25 @@ topics:
 - '[[perceptual-failure-and-the-interface]]'
 ---
 
-Stereopsis is the vivid impression of solid form, and of space between things, that most people get from two eyes. The Unfinishable Map gives the name **stereopsis void** to a gap that runs across it in both directions. Susan Barry, a neuroscientist who was stereoblind from infancy, studied the physiology of binocular vision as a student and reports that she could not picture what she lacked until she gained stereopsis at 48. People who have always had it, for their part, disagree about what closing one eye does to the scene, and no agreed method says who is right.
+Stereopsis is the vivid impression of solid form, and of space between things, that most people get from two eyes. The Unfinishable Map gives the name **stereopsis void** to a gap that runs across it in both directions. Susan Barry, a neuroscientist stereoblind until 48 (save perhaps fleeting childhood glimpses), could not imagine stereopsis at twenty; as a neurobiology professor she later told Oliver Sacks she thought she could, and after gaining it she wrote that she had been wrong. People who have always had it, for their part, disagree about what closing one eye does to the scene, and no agreed method says who is right.
 
 The void has three faces. The [forward face](#forward-face) (explained below): descriptive and theoretical knowledge did not give a stereoblind scientist the quality in advance. The [backward face](#backward-face): binocular observers cannot settle, by closing an eye, what one-eyed vision is like. The [definition face](#definition-face): on one theory the quality comes apart from binocular depth information, so what the stereoblind lack depends partly on how "stereopsis" is defined.
 
-Barry's case is a close real-life relative of Mary in the [knowledge argument](/concepts/knowledge-argument/), and it illustrates the intuition behind that argument without deciding it. The void is neutral between dualism and physicalism, because both predict what she reports. The evidence from surprised experts is two people, both reporting on themselves.
+Barry's case is a loose real-life relative of Mary in the [knowledge argument](/concepts/knowledge-argument/): depth, unlike colour for Mary, already had a precursor in Barry's vision. The case illustrates the intuition behind that argument without deciding it. The void is neutral between dualism and physicalism, because both predict what she reports. The evidence from surprised experts is two people, both reporting on themselves.
 
 ## The Forward Face: Knowing About It Did Not Supply It {#forward-face}
 
 In the published excerpt of *Fixing My Gaze* (2009), Barry says she was twenty when a college neurobiology lecture suggested she might be stereoblind. She could judge depth by occlusion, relative size and perspective, and her summary is: "I knew the world was in 3D." Of the other way of seeing depth that her professor described she writes: "I couldn’t imagine what he was talking about." She then spent the semester on the visual-cortex literature.
 
-The absence had left no mark. Krulwich (2006) reports that she "never imagined that she saw differently from other kids", and that she later told Oliver Sacks she did not think she was missing very much. Sacks's reply, as Krulwich gives it, was a question: "Do you think you can imagine what it's like to see the world with two eyes?" This is the pattern the Map calls [inventory blindness](/concepts/inventory-blindness/), in which a missing capacity produces no felt gap.
+The absence had left no mark. Krulwich (2006) reports that she "never imagined that she saw differently from other kids", and that she later told Oliver Sacks she did not think she was missing very much. Sacks's reply, as Krulwich gives it, was a question: "Do you think you can imagine what it's like to see the world with two eyes?" Sacks (2006) records that she "said she thought she could", feeling her reading gave her "special insight into what she was missing". This is the pattern the Map calls [inventory blindness](/concepts/inventory-blindness/), in which a missing capacity produces no felt gap.
 
-In her late forties Barry undertook optometric vision therapy and, in her words to Lehrer (2009), "to my astonishment, began to see in 3D." She describes the change: "For the first time, I could see the volumes of space between different tree branches".
+In her late forties Barry undertook optometric vision therapy and, in her words to Lehrer (2009), "to my astonishment, began to see in 3D." She describes the change: "For the first time, I could see the volumes of space between different tree branches". Her first letter to Sacks, in 2004, withdrew that answer: "I told you that I thought I could. . . . But I was wrong." That verdict is retrospective.
 
 A second vision scientist reports a similar surprise. The Map has not read Bruce Bridgeman's own paper (Bridgeman 2014) and gives his case as two others report it. Barry (2015) writes that Bridgeman, wall-eyed since childhood, paid for 3D glasses at a 2012 screening of *Hugo* and "assumed they would be wasted on him", so that "it came as a complete shock when he immediately saw the movie in 3D". Levi, Knill and Bavelier (2015) cite the paper as "a vivid description of spontaneously recovering stereoscopic depth perception".
 
 The surprise of experts is harder to attribute to ignorance of the theory than a layperson's would be. The evidence is still thin: two self-reports, largely retrospective, and Levi and colleagues note "that neither Barry nor Bridgeman were amblyopic", so the cases may not generalise. Barry's knowledge was also far short of the complete physical knowledge that Mary is stipulated to have. Her case shows that a working scientist's knowledge of the subject did not confer the quality. It leaves open whether complete physical knowledge would.
 
-The comparison with Mary belongs to Maria Popova (2024), who writes that Barry had "been living in Mary’s Room". The Map's research did not find Barry or Sacks making it.
+Barry made the colour comparison herself in her first letter, which Maria Popova (2024) quotes: "Imagine a person who saw only in shades of gray suddenly able to see in full color." Sacks (2006) disagreed, suggesting that her new depth was welcome because "a three-dimensional world was already a perceptual reality for her": "With color, there is no precursor". In October 2006 Anthony Dardis guessed that Sacks had "philosophically famous Mary in mind"; Popova later wrote that Barry had "been living in Mary’s Room".
 
 **Which kind of void.** From the stereoblind position this face behaves as unexplorable by imagination, testimony and study, on the evidence of these two cases. Acquisition can cross it, which distinguishes it from bat sonar, but crossing does not map it. Once across, the person can no longer inspect the earlier state, and inherits the backward face instead. The [transformative experience void](/voids/transformative-experience-void/) has the same two sealed stages.
 
@@ -108,10 +108,12 @@ The backward face bears on method. First-person reports about a basic feature of
 2. Barry, S. R. (2015, April 24). Changing minds. *Psychology Today*, Eyes on the Brain. https://www.psychologytoday.com/us/blog/eyes-on-the-brain/201504/changing-minds
 3. Bridgeman, B. (2014). Restoring adult stereopsis: A vision researcher's personal experience. *Optometry and Vision Science*, 91(6). https://doi.org/10.1097/OPX.0000000000000272. Reported via Barry (2015) and Levi et al. (2015).
 4. Chopin, A., Bavelier, D., & Levi, D. M. (2019). The prevalence and diagnosis of 'stereoblindness' in adults less than 60 years of age: A best evidence synthesis. *Ophthalmic and Physiological Optics*, 39(2), 66–85. https://doi.org/10.1111/opo.12607
-5. Krulwich, R. (2006, June 26). Going binocular: Susan's first snowfall. NPR. https://www.knau.org/2006-06-26/going-binocular-susans-first-snowfall
-6. Lehrer, J. (interviewer) (2009). From 2-D to 3-D sight: How one scientist learned to see. *Scientific American*. https://www.scientificamerican.com/article/seeing-in-3-d/
-7. Levi, D. M., Knill, D. C., & Bavelier, D. (2015). Stereopsis and amblyopia: A mini-review. *Vision Research*, 114, 17–30. https://doi.org/10.1016/j.visres.2015.01.002
-8. Popova, M. (2024, February 7). The art of allowing change: Neurobiologist Susan R. Barry's moving correspondence with Oliver Sacks. *The Marginalian*. https://www.themarginalian.org/2024/02/07/dear-oliver/
-9. Sacks, O. (2010). *The Mind's Eye*. Quoted via Schwitzgebel (2011).
-10. Schwitzgebel, E. (2011, March 8). Oliver Sacks: Through one eye, the world looks flat; through two, the world has depth. *The Splintered Mind*. https://schwitzsplinters.blogspot.com/2011/03/oliver-sacks-through-one-eye-world.html
-11. Vishwanath, D. (2014). Toward a new theory of stereopsis. *Psychological Review*, 121(2), 151–178. https://doi.org/10.1037/a0035233 (accepted manuscript consulted: https://research-repository.st-andrews.ac.uk/handle/10023/5325)
+5. Dardis, A. (2006, October 6). Stereo Sue. *The Brains Blog*. https://philosophyofbrains.com/2006/10/06/stereo-sue.aspx (Wayback copy read).
+6. Krulwich, R. (2006, June 26). Going binocular: Susan's first snowfall. NPR. https://www.knau.org/2006-06-26/going-binocular-susans-first-snowfall
+7. Lehrer, J. (interviewer) (2009). From 2-D to 3-D sight: How one scientist learned to see. *Scientific American*. https://www.scientificamerican.com/article/seeing-in-3-d/
+8. Levi, D. M., Knill, D. C., & Bavelier, D. (2015). Stereopsis and amblyopia: A mini-review. *Vision Research*, 114, 17–30. https://doi.org/10.1016/j.visres.2015.01.002
+9. Popova, M. (2024, February 7). The art of allowing change: Neurobiologist Susan R. Barry's moving correspondence with Oliver Sacks. *The Marginalian*. https://www.themarginalian.org/2024/02/07/dear-oliver/
+10. Sacks, O. (2006, June 19). Stereo Sue. *The New Yorker*. https://www.newyorker.com/magazine/2006/06/19/stereo-sue
+11. Sacks, O. (2010). *The Mind's Eye*. Quoted via Schwitzgebel (2011).
+12. Schwitzgebel, E. (2011, March 8). Oliver Sacks: Through one eye, the world looks flat; through two, the world has depth. *The Splintered Mind*. https://schwitzsplinters.blogspot.com/2011/03/oliver-sacks-through-one-eye-world.html
+13. Vishwanath, D. (2014). Toward a new theory of stereopsis. *Psychological Review*, 121(2), 151–178. https://doi.org/10.1037/a0035233 (accepted manuscript consulted: https://research-repository.st-andrews.ac.uk/handle/10023/5325)

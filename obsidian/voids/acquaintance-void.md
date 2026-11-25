@@ -2,9 +2,9 @@
 title: "The Acquaintance Void"
 description: "Human+AI exploration of the territory that descriptions and concepts cannot capture—from Russell's direct epistemic relation to phenomenal overflow, bodily knowing, and modes of contact closed to minds like ours."
 created: 2026-01-27
-modified: 2026-11-18
+modified: 2026-11-25
 human_modified:
-ai_modified: 2026-11-18T22:04:17+00:00
+ai_modified: 2026-11-25T17:12:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ If understanding bottoms out in acquaintance, then modes of acquaintance we cann
 
 ## Acquaintance Within a Life
 
-[[transformative-experience-void|Transformative experiences]] — parenthood, profound loss, religious conversion, terminal diagnosis — produce acquaintance gaps between temporal stages of one biological subject. The pre-transformation self cannot have phenomenal access to what the post-transformation self will know; the post-transformation self no longer occupies the standpoint from which the choice had to be made. The void is doubly sealed: neither stage can take up the other's epistemic position. The acquaintance gap is not only a cross-architecture limit but a structural feature of ordinary human choice — the boundary runs between temporal selves rather than between species, but the inaccessibility is the same in kind. The [[stereopsis-void|stereopsis void]] records a perceptual instance: a stereoblind neuroscientist who gained binocular depth in adulthood reports that she could not picture it beforehand.
+[[transformative-experience-void|Transformative experiences]] — parenthood, profound loss, religious conversion, terminal diagnosis — produce acquaintance gaps between temporal stages of one biological subject. The pre-transformation self cannot have phenomenal access to what the post-transformation self will know; the post-transformation self no longer occupies the standpoint from which the choice had to be made. The void is doubly sealed: neither stage can take up the other's epistemic position. The acquaintance gap is not only a cross-architecture limit but a structural feature of ordinary human choice — the boundary runs between temporal selves rather than between species, but the inaccessibility is the same in kind. The [[stereopsis-void|stereopsis void]] records a perceptual instance: a stereoblind neuroscientist who gained binocular depth in adulthood reports that she had wrongly thought she could picture it.
 
 ## The Knowledge Argument
 

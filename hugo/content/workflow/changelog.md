@@ -1,14 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 16:29:50+00:00
+ai_modified: 2026-11-25 16:37:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 16:29:50+00:00
+lastmod: 2026-11-25 16:37:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-25 17:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [stereopsis-void](/voids/stereopsis-void/) (secondary: [acquaintance-void](/voids/acquaintance-void/), [voids](/voids/))
+- **Trigger**: pessimistic review 2026-11-25 of stereopsis-void, Priority List items 1 and 2
+- **Original score**: n/a (`scripts/curate.py` absent; review file plus full read)
+- **Sources fetched and grepped this run** (whitespace collapsed): Sacks, "Stereo Sue", *The New Yorker*, 2006 (live newyorker.com, 96 paragraphs, about 47k characters); Popova 2024 (live); Dardis, "Stereo Sue", Brains Blog, 6 October 2006 (live page 403; Wayback raw copy of the .aspx URL, 2021 snapshot). All eight new quotations are verbatim sub-spans of those texts. Byline reads "Anthony Dardis"; Aizawa's first comment addresses him as "Tony".
+- **Changes, stereopsis-void** (before → after):
+  - Lead: "Susan Barry, a neuroscientist who was stereoblind from infancy, studied the physiology of binocular vision as a student and reports that she could not picture what she lacked until she gained stereopsis at 48." → "Susan Barry, a neuroscientist stereoblind until 48 (save perhaps fleeting childhood glimpses), could not imagine stereopsis at twenty; as a neurobiology professor she later told Oliver Sacks she thought she could, and after gaining it she wrote that she had been wrong." Sacks records the blade-of-grass recollection and "almost half a century of being stereo-blind"; the "couldn't imagine" quotation is from the lecture at twenty, before her study.
+  - Lead, Mary grade: "Barry's case is a close real-life relative of Mary in the knowledge argument, and it illustrates the intuition behind that argument without deciding it." → "Barry's case is a loose real-life relative of Mary in the knowledge argument: depth, unlike colour for Mary, already had a precursor in Barry's vision. The case illustrates the intuition behind that argument without deciding it."
+  - Forward face, after Krulwich's question (added): "Sacks (2006) records that she "said she thought she could", feeling her reading gave her "special insight into what she was missing"."
+  - Forward face, after the Lehrer quotations (added): "Her first letter to Sacks, in 2004, withdrew that answer: "I told you that I thought I could. . . . But I was wrong." That verdict is retrospective."
+  - Mary paragraph: "The comparison with Mary belongs to Maria Popova (2024), who writes that Barry had "been living in Mary’s Room". The Map's research did not find Barry or Sacks making it." → "Barry made the colour comparison herself in her first letter, which Maria Popova (2024) quotes: "Imagine a person who saw only in shades of gray suddenly able to see in full color." Sacks (2006) disagreed, suggesting that her new depth was welcome because "a three-dimensional world was already a perceptual reality for her": "With color, there is no precursor". In October 2006 Anthony Dardis guessed that Sacks had "philosophically famous Mary in mind"; Popova later wrote that Barry had "been living in Mary’s Room"." No claim of priority: print sources before October 2006 were not checked. "Suggesting" keeps Sacks's "Perhaps".
+  - Description: "could not picture binocular depth until she gained it" → "believed she could picture binocular depth until she gained it".
+  - References: added Dardis (2006) and Sacks (2006); list renumbered 1–13.
+- **Changes, acquaintance-void** (L73): "a stereoblind neuroscientist who gained binocular depth in adulthood reports that she could not picture it beforehand." → "a stereoblind neuroscientist who gained binocular depth in adulthood reports that she had wrongly thought she could picture it."
+- **Changes, voids.md** (L173, section index): "A stereoblind neuroscientist could not picture binocular depth before gaining it" → "A stereoblind neuroscientist believed she could picture binocular depth until she gained it".
+- **Left for the sibling P3**: "on the evidence of these two cases", "A second vision scientist reports a similar surprise.", "The evidence from surprised experts is two people", the Levi amblyopia caveat, and the aperture "no study" clause. All are unchanged (count 1 each).
+- **Site perspective**: unchanged. It reads correctly, and the precursor disanalogy supports its neutrality.
+- **Spillover, not edited**: `concepts/inventory-blindness` L87 still says "Susan Barry, stereoblind from infancy". This is the same simplification, on a host outside this task's scope.
+- **Length** (analyze_length): stereopsis-void 1955 → 2105 (+150, at budget; voids hard 3000); acquaintance-void 2468 → 2470 (+2); voids.md 8671 → 8673 (+2)
+- **ai_system**: stereopsis-void appended claude-opus-5-5; the two hosts already carry it and are unchanged. `last_deep_review` not set.
+- **Published**: yes (sync run; obsidian and hugo both carry every edit in all three files)
+
+## 2026-11-25 16:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Trigger**: topic-concept anchoring audit 2026-11-25 (anchor [interactionist-dualism](/concepts/interactionist-dualism/); failed strong_assertions, underdetermination_markers)
+- **Original score**: n/a (`scripts/curate.py` absent; driver pre-screen plus full read)
+- **Flag verdicts**: strong_assertions REAL for 1 of 3 "shows that" hits (the rotation-RT sentence, installed by the 00:53Z deep review); the other two stand (an empirical imaging report; the already-concessive mental-practice sentence). The "proves" grep hit is inside "improves" and the audit's whole-word match does not count it. underdetermination_markers is a LEXICAL FALSE-HIGH: the page already says it in substance ("They do not discriminate it from the neural-simulation account"; "fits the framework without deciding for it" twice; "illustrates the tenet without adding evidential weight to it"; MQI "is only compatible with them"). No stock phrase from UNDERDETERMINATION_PATTERNS was added, since that would be padding. The full read found two places that stated a Map reading as settled; both fixed in plain prose (below).
+- **Changes** (before → after):
+  - Phenomenal Domain: "The linear relationship between rotation angle and response time shows that, for those who have the experience, it tracks the structure of the computation." → "Read alongside subjects' reports, the linear relationship between rotation angle and response time suggests that, for those who have the experience, it tracks the structure of the computation." RT linearity is evidence about the process; that the experience tracks it rests on reports plus that inference. The deep review's point (tracks, does not do the work) is kept.
+  - General Pattern item 2: "**Phenomenal contributions are dissociable** from physical substrates" → "**Phenomenal contributions are dissociable** from the listed mechanisms (not, on this evidence, from neural activity)". The old wording contradicted the phantom section's own "brain-mediated phenomenal state whose conditions of existence are neural".
+  - Imagination as Mental Causation: "this contribution is especially visible because the phenomenal content ... are connected through a causal chain" → "this contribution is easiest to picture: the phenomenal content ... would be connected through a causal chain". "Especially visible" clashed with the preceding paragraph's "They do not discriminate it from the neural-simulation account" and with the Relation section's "most intuitive illustration".
+  - Physical Domain: "regions homologous to those involved in physical object manipulation" → "regions overlapping those involved in physical object manipulation". "Homologous" is a structural or cross-species term; the imaging finding is shared activation. The verb "shows" is kept because no cited source reports anything weaker.
+  - Length trim: "as the findings below show" → "(see below)".
+- **Audit after**: strong assertions 3 → 2 (1.12 → 0.75/kw; limit 0.86). Underdetermination markers still 0. `evaluate_anchoring` now returns no flag (one failed check; a flag needs two).
+- **Engagement**: the epiphenomenalist and neural-simulation readings are unchanged: Mode Three (framework-boundary), per the stability notes.
+- **Stability respected**: the General-Pattern independence discount is untouched; "enhances", "strong evidence" and "indirect support" are not restored; `last_deep_review` is untouched.
+- **Length**: 2673 → 2682 words (analyze_length; topics hard 4000), +9
+- **ai_system**: appended claude-opus-5-5
+- **Published**: yes (sync run; the Hugo copy carries all four edits)
 
 ## 2026-11-25 16:29 UTC - tune-system
 - **Status**: Success

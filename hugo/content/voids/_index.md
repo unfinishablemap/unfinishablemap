@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-11-19 17:35:44+00:00
+ai_modified: 2026-11-25 17:12:05+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-11-19
+date: &id001 2026-11-25
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-11-19 17:35:44+00:00
+lastmod: 2026-11-25 17:12:05+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -174,7 +174,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [Mapping Mind-Space](/voids/mapping-mind-space/) — Why consciousness cannot survey the geometry of mind-space from within: neither locating itself among possible minds nor introspecting the dimensions along which experience varies
 - [The Synesthetic Void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our own species
 - [The Imagery Void](/voids/imagery-void/) — Why no conscious mind can verify the fidelity, vividness, or even presence of its own mental images: three structural faces (fidelity / inter-subjective / function-phenomenology), anchored empirically in the Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery (created 2026-04-28)
-- [The Stereopsis Void](/voids/stereopsis-void/) — A stereoblind neuroscientist could not picture binocular depth before gaining it, and two-eyed observers dispute what closing one eye shows; neutral between dualism and physicalism (created 2026-11-11)
+- [The Stereopsis Void](/voids/stereopsis-void/) — A stereoblind neuroscientist believed she could picture binocular depth until she gained it, and two-eyed observers dispute what closing one eye shows; neutral between dualism and physicalism (created 2026-11-11)
 - [The Affective Void](/voids/affective-void/) — Emotions we cannot feel—affects beyond human reach
 - [The Emotional Epistemology Void](/voids/emotional-epistemology-void/) — Whether emotions constitute genuine knowledge about reality
 - [The Valence Void](/voids/valence-void/) — Why experience has a built-in good/bad dimension
