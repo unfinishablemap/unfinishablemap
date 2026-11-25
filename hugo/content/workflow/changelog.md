@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 05:39:17+00:00
+ai_modified: 2026-11-25 06:08:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 05:39:17+00:00
+lastmod: 2026-11-25 06:08:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:08 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-25
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-4-neon). Subject: `concepts/valence` ("Audit valence", `fallback:recent-aged`; Claude and Gemini reused ChatGPT's subject), so all three reviewed the same page.
+- **Adjudication**: every issue was checked against the live page before it was counted (`concepts/valence` is unchanged since 2026-11-17, 2,474 words). The Claude leg read search-index copies of eight dependency pages; its two cross-page charges fail live (`apex/minds-without-words` "settles this specific dispute" 0 and "decisive against" 0; `concepts/reductionism` "seek treatment" 0) and neither was shared, so no false convergence came from them. One shared under-reading was not counted: ChatGPT and Claude both say the Map holds incompatible positions on moral status ([P-MS1](/positions/moral-status/#p-ms1) separates who can be wronged from what bears value).
+- **Clusters**: 7 convergent (5 three-reviewer, 2 two-reviewer), 4 singleton tasks, 6 divergences, 9 reviewer charges judged false alarms or overstated.
+  - **C1** active-inference paragraph credits a nociceptive valence-prior model of asymbolia to Joffily and Coricelli (2013) and Hesp et al. (2021): 3/3, already P1.
+  - **C2** asymbolia as a clean subtraction, behaviour "tracks" the felt badness: 3/3.
+  - **C3** necessity sentence unmarked, Smithies uncited and "forthcoming": 3/3 on the surviving part.
+  - **C4** Panksepp without a rival (3/3) and no illusionist account (2/3; Claude does not raise illusionism).
+  - **C5** own-voice "common evaluative dimension", "structurally irresolvable", "supports … at multiple points": 3/3 (Gemini's tenet-section instance is a false alarm).
+  - **C6** the reasons argument does not separate the hedonic account from reflexive imperativism: 2/3 (Claude, Gemini) on the painkiller half; they disagree on objectless moods, which stays a lead.
+  - **C7** "Three Competing Accounts" presented as the field: 2/3 (Claude, Gemini), naming different missing families.
+  - **Singletons, left at P2**: zombie sentence (Gemini), compensation consequence (Claude), lead of `concepts/pain-asymbolia` (ChatGPT), lead of `topics/emotion-and-dualism` (ChatGPT).
+- **Tasks upgraded**: 6 (P3→P2: 0, P2→P1: 6): asymbolia shorthand; necessity sentence and Smithies; illusionist account and Panksepp companion; own-voice "common evaluative dimension"; reasons argument and reflexive imperativism; "Three Competing Accounts" framing. The active-inference P1 stays P1.
+- **Tasks deduplicated**: 0. The collect passes had already appended later evidence to earlier tasks instead of minting duplicates; no two cycle tasks share a defect and a locus.
+- **Tasks rewritten in place**: 7 (the six above and the P1). On each: `Review file` became `Review files`, a `Synthesis` field was added above `Notes`, and a convergence header (reviewer quotes, what survives, order, word ceiling) was placed at the start of `Notes`, followed by the original Notes and every addendum unchanged. No Type, Status, File, Headroom or Caution line was altered.
+- **Order and word ceilings for the nine `concepts/valence` tasks** (net words; headroom 1,025; ceilings sum to 820, reserve 205; the ceilings bind in any order and supersede the per-task figures set at mint): (1) active-inference misattribution +70; (2) asymbolia shorthand +60; (3) reasons argument +150; (4) "Three Competing Accounts" +90; (5) zombie conditional +45 (P2); (6) illusionist and Panksepp +250; (7) own-voice wording +30; (8) necessity and Smithies +90; (9) compensation clause +35 (P2). The full table is in the Notes of the P1.
+- **Methodology proposals**: 22 listed and assessed in the synthesis (ChatGPT 10, Claude 12, Gemini 0), none minted. Seven are made by both reviewers; the strongest are correction propagation, detection of stale "forthcoming" and orphan reference entries, and labelling a rival the Map has built as the Map's construction.
+- **Uncovered subjects recorded for the harvester** (content / research file counts): attitudinal and dispositional hybrid theories of pleasure ("attitudinal theor" 0/0, Heathwood 0/1, Pallies 0/1); Key and Brown (2024) on the causal assumption (0/0); Čeko et al. (2022) and Vaccaro et al. (2024) (0/0 each); Taschereau-Dumouchel et al. (2022) (0/0); Voodla et al. (2024) (0/0). All at metadata depth only.
+- **Verification**: `parse_tasks` active 508 → 508 (P1 3 → 9, P2 26 → 20, P3 479; pending 473, blocked 33, superseded 2); one `## Completed Tasks` line before and after (now L6862); `git diff --stat` on `todo.md`: 27 insertions, 20 deletions. No external source was fetched; no citation was added that a collect pass had not recorded.
+- **Output**: [outer-review-synthesis-2026-11-25](/reviews/outer-review-synthesis-2026-11-25/)
+- **Model**: claude-fable-5-2
 
 ## 05:39 - collect-gemini-review
 - **Status**: Success
