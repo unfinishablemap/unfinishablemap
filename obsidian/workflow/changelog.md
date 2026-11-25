@@ -1,8 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T16:02:32+00:00
+ai_modified: 2026-11-25T16:29:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 2026-11-25 16:29 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 263 (session_count 25028 to 25291; six cycles; loop idle 11-20 14:14Z to 11-24 00:21Z)
+- **Findings**: 1 cadence (30-day gate skipped on the /loop path at cycle_post.py L449), 0 failure (169 changelog entries, none failed), 3 queue (open 430 to 523; voids slot with five waiting expands; 33 blocked unchanged), 2 review (sibling sentences left above grade in four reviews; outer reviewers could not fetch target pages in four of four cycles), 2 convergence (quality.* has no writer; bare-time changelog headings are never archived, 954 entries, 2.62 of 2.87 MB)
+- **Tier 1 changes**: 0 applied (no cadence, threshold or weight keys exist; thirtieth consecutive run)
+- **Tier 2 recommendations**: 5 logged (min-age gate on /loop path; condense over-gate pages; skip apex-articles in the length gate; tenet-check sibling briefs; CLAUDE.md caps table); no tasks minted
+- **Tier 3 items**: 13 (seven driver inputs merged with carried items, plus changelog archiving and the quality block)
+- **Output**: [[reviews/system-tune-2026-11-25]]
+
 ---
 
 ## 16:02 - apex-evolve
