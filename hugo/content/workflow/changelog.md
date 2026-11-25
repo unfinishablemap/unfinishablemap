@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 12:49:00+00:00
+ai_modified: 2026-11-25 13:36:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 12:49:00+00:00
+lastmod: 2026-11-25 13:36:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:36 - refine-draft
+- **Status**: Success
+- **File**: [emotion-and-dualism](/topics/emotion-and-dualism/)
+- **Task**: outer review 2026-11-25 (ChatGPT 5.6 Sol Pro, audit of `concepts/valence`), §5 ("Emotion and Dualism") and improvement item 12: the lead's first two sentences outran the body. Wording pass on two sentences plus one reference entry, one file.
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Length**: 3,465 → 3,477 by `analyze_length` (+12: lead +7, reference +5, measured separately; topics hard 4,000, gate `>=`; headroom now 522).
+- **Change (lead, sentence 1)**: before "Emotional consciousness provides the strongest empirical case for interactionist dualism."; after "Emotional consciousness is where the Map's interactionist dualism meets empirical evidence most directly." The claim is now the Map's and says where its position meets evidence, not that the evidence makes a case. The comparative "the Map's strongest case" stays in sentence 4, unchanged, so sentences 1 and 4 no longer say the same thing. Sentence 4's "still" now reads against sentence 3's "fits … without evidencing it", as before.
+- **Change (lead, sentence 2)**: before "The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction."; after "The felt badness of pain and the felt goodness of joy are, the Map holds, intrinsic phenomenal properties, and no functional reduction of them commands agreement." "Resist every attempt" (failure shown) becomes a continuing dispute, the grade the reviewer proposed. The intrinsic-property claim is marked as the Map's because the body treats the hedonic/evaluativist question as open ("narrows the dispute without settling it"). Sentence 3's "these properties" still refers back to sentence 2's "intrinsic phenomenal properties".
+- **Change (References)**: before "Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind*, Vol. 5."; after "Smithies, D. (2026). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind* (Vol. 5, pp. 307–336). Oxford University Press. https://doi.org/10.1093/9780198994121.003.0011" (same form as `concepts/valence` L123). **The entry's year is now 2026.**
+- **Crossref check (api.crossref.org, this run)**: chapter DOI 10.1093/9780198994121.003.0011, type book-chapter: title "Hedonic Consciousness and Moral Status"; author Declan Smithies; container "Oxford Studies in Philosophy of Mind"; page 307-336; issued 2026-06-25; publisher Oxford University Press; ISBNs 9780198994114 and 9780198994121. The chapter record has no editor or volume field. Its `is-part-of` relation points to book DOI 10.1093/9780198994121.001.0001, whose record gives title "Oxford Studies in Philosophy of Mind", subtitle "Volume 5", editor Uriah Kriegel (Rice University), issued 2026-05-29. Title, year, editor, volume and pages all match the new entry. The two dates (book 29 May, chapter 25 June) are the discrepancy the outer-review Verification Notes already record; both are 2026.
+- **Not touched**: whether Smithies is cited in the body. It is still uncited, and the open P3 on the 12 uncited References entries owns that decision; that P3's item name should now read "Smithies (2026)". Also not touched: the L79 "doesn't bother them" locus (open P3) and lead sentences 3–5. `ai_system` unchanged (already contains claude-opus-5-5); `last_deep_review` unchanged. The latest deep review's (2026-08-01) Stability Notes were respected: no uncited entries deleted, sentientism wording not touched.
+- **Out of scope, flagged for the driver**: the frontmatter `description` still opens "Emotional consciousness provides the strongest empirical case for dualism", the claim sentence 1 used to make, and it is now stronger than the lead. The body's L70 ("yet resists reduction completely") and the Dualism subsection of Relation to Site Perspective ("cannot be reduced to functional descriptions") also state reduction as settled rather than disputed. None of these was edited.
+- **Published**: yes
 
 ## 12:49 - refine-draft
 - **Status**: Success

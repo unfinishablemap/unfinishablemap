@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-11-20
 human_modified:
-ai_modified: 2026-11-20T13:39:00+00:00
+ai_modified: 2026-11-25T13:35:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ embedded_videos:
     source: notebooklm/0080-01-emotion-and-dualism
 ---
 
-Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia constrains identity readings of valence rather than establishing that these properties do genuine causal work: remove the felt quality and motivation collapses, though the sensory-discriminative machinery remains intact—a pattern that fits [[tenets#^bidirectional-interaction|Bidirectional Interaction]] without evidencing it. Emotion still offers the Map's strongest case that phenomenal properties are not only irreducible but causally relevant—a single body of evidence bearing on both questions, where the standard arguments for dualism bear on irreducibility alone. The causal half is pressure on epiphenomenalism rather than proof of causation, and pressure with a definite reach: it binds the bare-correlation version of the view and leaves the [[phenomenal-concepts-strategy|phenomenal-concept]] version standing ([[positions/arguments-for-mental-causation|P-MC1]]).
+Emotional consciousness is where the Map's interactionist dualism meets empirical evidence most directly. The felt badness of pain and the felt goodness of joy are, the Map holds, intrinsic phenomenal properties, and no functional reduction of them commands agreement. Pain asymbolia constrains identity readings of valence rather than establishing that these properties do genuine causal work: remove the felt quality and motivation collapses, though the sensory-discriminative machinery remains intact—a pattern that fits [[tenets#^bidirectional-interaction|Bidirectional Interaction]] without evidencing it. Emotion still offers the Map's strongest case that phenomenal properties are not only irreducible but causally relevant—a single body of evidence bearing on both questions, where the standard arguments for dualism bear on irreducibility alone. The causal half is pressure on epiphenomenalism rather than proof of causation, and pressure with a definite reach: it binds the bare-correlation version of the view and leaves the [[phenomenal-concepts-strategy|phenomenal-concept]] version standing ([[positions/arguments-for-mental-causation|P-MC1]]).
 
 <details class="yt-embed" data-video-id="QTHO8WgPnUc">
 <summary>Video introduction</summary>
@@ -226,7 +226,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 1. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
 1. Shepherd, J. (2024). Sentience, Vulcans, and zombies: the value of phenomenal consciousness. *AI & Society*, 39(6), 3005-3015. https://doi.org/10.1007/s00146-023-01835-6
 1. Smithies, D. (2019). *The Epistemic Role of Consciousness*. Oxford University Press.
-1. Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind*, Vol. 5.
+1. Smithies, D. (2026). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind* (Vol. 5, pp. 307–336). Oxford University Press. https://doi.org/10.1093/9780198994121.003.0011
 1. Solomon, R. (1976). *The Passions: Emotions and the Meaning of Life*. Anchor Press.
 1. Lee, S. A., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(25), e2310433121.
 1. Tappolet, C. (2016). *Emotions, Values, and Agency*. Oxford University Press.
