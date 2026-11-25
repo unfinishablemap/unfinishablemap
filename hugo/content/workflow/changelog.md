@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 14:20:36+00:00
+ai_modified: 2026-11-25 14:56:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 14:20:36+00:00
+lastmod: 2026-11-25 14:56:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:56 - check-links
+- **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
+- **Crawler**: `.claude/skills/check-links/scripts/check_links.py`, own ephemeral server. The sync beforehand was a no-op on hugo/content, and every broken wikilink it stripped was in workflow/ or reviews/. 424 broken, 44 source pages (workflow 38, research 6), all 404, no other status code. 376 are covered by `hugo/static/_redirects` (workflow 370, research 6). 48 are dead with no rule, all on workflow pages. Zero from any content section. Same profile as 10-25 (424 / 376 / 48).
+- **Source-anchored audit** (independent of crawl order): fresh `hugo` build into a scratch dir, then every internal `<a href>` on all 10,961 pages, including the 7,096 hard-coded `unfinishablemap.org` URLs the crawler skips as off-host. 500,402 links: 496,904 resolve directly, 3,392 resolve via a redirect rule (workflow 1,823, reviews 940, archive 617, research 12; none from a live content section), and 106 are dead (workflow 71, reviews 33, project 2). The two project hits are the writing-style `unfinishablemap.org/section/slug/` citation-template placeholders (carried). Live content sections (topics, concepts, apex, voids, positions, tenets, arguments, home): 68,474 links, 0 dead, 0 via redirect. No `unfinishablemap.com` or `netlify.app` hrefs in live content or research. Workflow dead rose 60 → 71 and reviews 28 → 33 since 10-25 (report only).
+- **Anchors**: each fragment checked against the target page's rendered ids. 9,731 anchor links from live content sections, all resolve. 165 miss, all in archive (57), reviews (46), workflow (45) or research (17).
+  - **Today's anchors, all resolve** (target id present exactly once):
+    - `/concepts/valence/#competing-accounts` → `<h2 id="competing-accounts">Competing Accounts`. The only page linking it is topics/pain-consciousness-and-causal-power, the updated link.
+    - `/concepts/philosophical-zombies/#the-interactionist-escape` → `<h4>` "The Interactionist Escape". Valence renders it as `[conditional]`; 4 other live pages link the same anchor (conceivability-possibility-inference, swampman, meta-problem-of-consciousness, metaproblem-of-consciousness-under-dualism).
+    - `/apex/born-preserving-causal-efficacy/#where-a-selection-could-show-if-anywhere-the-conditional-signature` → `<h2>`. Valence renders it as `[compensation consequence]`; 7 other live pages link the same anchor.
+  - **`#three-competing-accounts`**: 1 href in the whole build, on workflow/archive/changelog-2026-w46 (an earlier check-links entry listing valence's ids at that date). 0 outside archive, reviews and workflow. The id survives once more, in research/imperativism-and-evaluativism-about-pain-2026-11-10 L89, as the `## Three Competing Accounts` heading inside a quoted draft fold passage. That is a heading, not a link, so it was left alone.
+  - **Research, 17 (was 5)**: every one sits in a draft fold passage or fold plan, so none is a defect. 2 are writing-guidance examples (carried: objectivity-consciousness-view-from-nowhere `#objectivity-paradox`, teleosemantics `#...`). 8 are same-page passage links whose ids exist on the host the passage is written for: evaluation-awareness ×3 (carried); model-welfare-observations-in-ai-system-cards `#self-report` (claude-constitution-consciousness-uncertainty has it); sound-ontology `#eden` ×2 and `#structure` (colour-ontology-and-the-secondary-quality-residue has both); double-bookkeeping `#three-readings` (alief-and-acting-against-belief has it). 7 are cross-page links to an id that the note's own pending fold creates, which the host does not carry yet: williams-tedium → death-and-consciousness `#endless-survival`; menu-luck → basic-argument-and-constitutive-luck `#menu-luck`; acedia ×2 → emotional-epistemology-void `#acedia`; from-property-dualism → where-the-substance-commitment-enters `#is-property-dualism-a-stable-resting-place`; near-death-memories → simulation-theory-of-memory `#near-death-memories`; ladyman-ross → emergence `#real-patterns`. They resolve once the folds land. No live host links to any of them yet (live misses 0).
+- **Extra dialect checks**: literal `[[` outside `<code>`/`<pre>` in rendered live content and research pages: 0 (positive control: 281 `[[` inside code on those pages: research 260, apex 10, positions 8, concepts 3). Empty-text links: 19, unchanged since the 10-25 fixes: reviews 15, workflow 3, archive 1; 0 in live content or research. A source grep finds no unaliased `[[#…]]` outside workflow/ and reviews/ except the carried archive one. Double-slash hrefs: 12, all in workflow (9) and reviews (3), same as 10-25.
+- **Fixes**: none. No unambiguous defect was found in a live content or research source file, so no obsidian page was edited and no re-sync was needed.
+- **Archive (reported, not edited)**: 0 dead links; 617 resolve via a 301 rule. 57 anchor misses across 44 pages, identical to 10-25: 28 point at ids absent from the tenets and voids index pages (`/tenets/#occam` ×10, `#bidirectional` ×6, `#minimal-quantum` ×2, `#occams-razor` ×2, `#minimal-interaction`, `#mysterianism`; `/voids/#alien-minds-as-void-explorers` ×4, `#the-unexplorable` ×2), and 29 at headings absent from their live targets. 1 empty-text link: archive/concepts/perceptual-degradation-and-the-interface L49 `[[#The Neural Network Objection]]`.
+- **Side finding (carried, not edited)**: `hugo/config.toml` still has `summaryLength = 150` under the `[taxonomies]` header, and the build still emits the stray `/150/` term page.
+- **Not committed**.
 
 ## 14:20 - refine-draft
 - **Status**: Success
