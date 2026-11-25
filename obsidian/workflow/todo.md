@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Common versus stimulus-specific neural coding of negative affect, and mixed-valence states
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-25.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-11-25, Subjects the Map Does Not Cover: Čeko et al. (2022), Nature Neuroscience 25(6), 760-770 (0/0) and Vaccaro et al. (2024), Cerebral Cortex 34(4), bhae122 (0/0); Cowen and Keltner (2021) is on 1 content page. All confirmed at metadata depth only. They bear on topics/valence-as-a-natural-kind and on the 'common evaluative dimension' claim that three reviewers flagged on concepts/valence. Topics is at cap (370/370), so expect recommended_action: fold into topics/valence-as-a-natural-kind (re-measure). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/common-versus-specific-neural-coding-of-negative-affect-2026-11-25.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'common-versus-specific-neural-coding-of-negative-affect' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-25
-
 ### P3: Research Higher-order accounts of emotional consciousness in their 2020s form
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-25.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-11-25, Subjects the Map Does Not Cover: Taschereau-Dumouchel, Michel, Lau, Hofmann and LeDoux (2022), Molecular Psychiatry 27(3), 1322-1330 (0/0; metadata only); LeDoux and Brown (2017, PNAS) is confirmed and uncited on concepts/valence, concepts/pain-asymbolia and voids/valence-void. 'LeDoux' is on 12 content pages, so this adds depth to existing coverage: the note should say what the 2020s work adds beyond what those pages already carry and which page lacks an adversarial companion to Panksepp (a queued P1 on concepts/valence adds one clause there). Concepts is at cap (370/370), so expect recommended_action: fold with a measured host. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/higher-order-accounts-of-emotional-consciousness-2020s-2026-11-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'higher-order-accounts-of-emotional-consciousness-2020s' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7118,8 +7112,35 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: research/empirical-tests-of-the-free-energy-rate-account-of-valence-2026-11-25.md
 - **Notes**: L77 ends "…modelling valence as \"a state of self that is inferred on the basis of fluctuations in the estimated confidence (or precision) an agent has in her generative model\"—an affective charge that is a higher-order metacognitive estimate of model fitness." In Hesp et al., the estimate of model fitness is the expected precision, and affective charge is the update term on it, treated as evidence for valence. The note gives a verified Hesp line, checked in the UCL uncorrected proof: "we do not equate this notion of expected precision (or confidence) with valence directly". Apply the note's suggested replacement (about +6 words) so the gloss matches; re-grep the quoted Hesp span in the note's recorded source first. The page is 3,040/4,000. Length-neutral or within +10. ai_system: append the model you actually run as only if it is absent from the whole string.
 
+### P3: Fold the common versus stimulus-specific coding of negative affect (Čeko et al. 2022) and mixed-valence states into `topics/valence-as-a-natural-kind` "What Fragmentation Actually Costs" (research note 2026-11-25, recommended_action: fold)
+- **Type**: refine-draft
+- **File**: obsidian/topics/valence-as-a-natural-kind.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-25 22:5xZ (fold verdict; minted by the driver, since a fold mints nothing automatically)
+- **Generated**: 2026-11-25
+- **Review file**: research/common-versus-specific-neural-coding-of-negative-affect-2026-11-25.md
+- **Notes**: Apply the note's "Fold plan" exactly.
+  - PLACEMENT: one new paragraph immediately after the paragraph ending "exactly as reading one missing module as no kind does." and before "The condition under which the currency premise would have to be withdrawn". Both strings had 1 hit each at 22:5xZ.
+  - BUDGET: +304 by count_words (206 prose + 98 for four references: Čeko 2022, Larsen 2017, Russell 2017, Vaccaro 2024). Variant B (−4) brings it to 300. Variant C (about +40) adds Čeko's "inconsistent with bipolar" finding together with Lee et al. 2024's opposite result; take both halves or neither. The host was 3,396/4,000 (headroom 603). Re-measure; the smaller of the variant cost and (3999 minus current) binds.
+  - GRADING: keep the note's grading.
+    - Čeko's common component is COMPATIBLE with a shared dimension and equally what the value-blind rival's computed currency predicts, so it does not favour the Map.
+    - The specific components are one reported quantity with several neural predictors (degeneracy the cluster reading absorbs), not one felt magnitude falsified.
+    - Mixed feelings are at most SUGGESTIVE against a BIPOLAR felt scalar. Russell's reply stays open, and Larsen concedes the rival hypotheses "may not be entirely falsifiable". On P-VS1 they discriminate nothing, since none of the studies involves choice.
+  - GUARDS:
+    - The BPS press digest wrongly puts Vaccaro's mixed-state signatures in the amygdala and nucleus accumbens; do not repeat it.
+    - Vaccaro's "may never be fully falsifiable" sentence is verified only in the bioRxiv preprint, so cite the concession to Larsen 2017 as the note does.
+    - The Gemini review's "specific codes outperform the common one" is half true: it holds by correlation but fails for sounds by unique variance.
+    - Vaccaro's self-reports were retrospective (given on a re-watch), with n = 27 and one film.
+  - Do not edit the "Attitudinal Alternative" section (added 2026-11-25 18:27Z) or `concepts/valence`; the latter needs no change, since its L41 already links here.
+  - LEAD: Bonard, Dukes & Sander (2026), Topoi (CC-BY, Springer-blocked). Read it before any further edit to the host's Scherer paragraph; this task does not edit that paragraph.
+  - ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-25: Research Common versus stimulus-specific neural coding of negative affect, and mixed-valence states
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-25.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-11-25, Subjects the Map Does Not Cover: Čeko et al. (2022), Nature Neuroscience 25(6), 760-770 (0/0) and Vaccaro et al. (2024), Cerebral Cortex 34(4), bhae122 (0/0); Cowen and Keltner (2021) is on 1 content page. All confirmed at metadata depth only. They bear on topics/valence-as-a-natural-kind and on the 'common evaluative dimension' claim that three reviewers flagged on concepts/valence. Topics is at cap (370/370), so expect recommended_action: fold into topics/valence-as-a-natural-kind (re-measure). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/common-versus-specific-neural-coding-of-negative-affect-2026-11-25.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'common-versus-specific-neural-coding-of-negative-affect' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-25: Research Empirical tests of the free-energy-rate account of valence
 - **Type**: research-topic

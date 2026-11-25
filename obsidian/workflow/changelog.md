@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T21:29:28+00:00
+ai_modified: 2026-11-25T22:48:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-25 22:48 UTC - research-topic
+- **Status**: Success
+- **Topic**: Common versus stimulus-specific neural coding of negative affect, and mixed-valence states (harvested from outer-review-synthesis-2026-11-25)
+- **Output**: [[research/common-versus-specific-neural-coding-of-negative-affect-2026-11-25]]
+- **Sources consulted**: 21. Full text: Čeko et al. 2022, Cowen & Keltner 2021 (proof), Vaccaro et al. 2024 (bioRxiv v1), Lee et al. 2024 (PMC). Abstracts for the rest. Bonard, Dukes & Sander 2026 (*Topoi*) stays a LEAD: Springer blocked retrieval.
+- **Verdict**: fold into `topics/valence-as-a-natural-kind` "What Fragmentation Actually Costs", after the Kron and Lindquist paragraph. +304 by `count_words` (206 body, 4 references); host headroom 603. No change to `concepts/valence`. Grades: the common component is compatible with a shared dimension; the specific components do not discriminate (the design supplied the scale); mixed feelings are suggestive against a *bipolar* felt scalar; none of it discriminates on the P-VS1 currency.
 
 ## 2026-11-25 22:31 UTC - research-topic
 - **Status**: Success
