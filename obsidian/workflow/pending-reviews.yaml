@@ -130,9 +130,9 @@
   prompt_summary: 'Referee audit of concepts/valence: claims, citations, objections,
     integration'
   target_filename: outer-review-2026-11-25-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-25T05:18:26.709230+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair academic referee and audit one article
     on The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind site

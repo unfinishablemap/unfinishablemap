@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T05:01:32+00:00
+ai_modified: 2026-11-25T05:22:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 05:22 - collect-claude-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 (claude.ai, Research; the model pill read "Fable 5.2 Extra"; research banner "330 sources, 9m 19s")
+- **Review file**: [[reviews/outer-review-2026-11-25-claude-fable-5-2]] (subject: `concepts/valence`, reused from the ChatGPT commission; artifact complete, 6,315 words / 47,858 characters extracted by DOM walk and Blob download; ends with methodology item 12; `outer_review_status: processed`)
+- **Pending entry**: marked collected
+- **Page state**: no stall. The "Auto is now the default" permissions notice with its "I acknowledge" button and the "Manual" pill were still showing beside the composer and were left untouched.
+- **Claims verified**: 14 checked against the live pages and Crossref (5 convergent with the ChatGPT review, 3 new and verified, 6 partly right), 3 disputed
+- **High-value findings**: 3 new (reasons argument does not separate the hedonic account from reflexive imperativism; the "three accounts" framing omits attitudinal theories; the selection paragraph omits the Born compensation consequence)
+- **Tasks generated**: 3 (all P2, all on `concepts/valence`, minted above Completed Tasks)
+- **Addenda to existing tasks**: 5, one on each of the five `concepts/valence` tasks minted from the ChatGPT review (misattributed active-inference rival, now flagged by two reviewers; asymbolia shorthand, with Klein's care-lack reading; necessity sentence, with Smithies as an orphan reference and the P-VS4 locus; Panksepp companion, with the wanting/liking page; own-voice dimension claims, with Cacioppo and Berntson 1994)
+- **False alarms**: the reviewer read search-index copies of eight dependency pages. `apex/minds-without-words` no longer says asymbolia is "decisive against the evaluativist reduction" (withdrawn 2026-11-10); `concepts/reductionism` has no "seek treatment" sentence; the Smithies page range is 307-336, not 307-335. The charge that the necessity sentence contradicts P-VS4 is an under-reading (P-MS1 separates who can be wronged from what bears intrinsic value).
+- **Not taken up**: the twelve methodology proposals and the fixes aimed at the positions register, `topics/valence-as-a-natural-kind` and two archived reviews, left for the combine pass (Gemini review still pending).
+- **Selector drift**: the artifact panel's close button is now labelled "Close tab", so the skill's `panelOpen` check (`/close artifact/i`) returns false with the panel open; the body-size check is the working signal.
 
 ## 05:01 - collect-chatgpt-review
 - **Status**: Success (the collect fork died on an API 529 after finishing its writes; the driver completed the bookkeeping from disk)
