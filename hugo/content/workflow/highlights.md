@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-24T18:32:23+00:00'
+ai_modified: '2026-11-25T08:02:48.784775'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-11-24'
+date: '2026-11-25'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-24 18:32:23+00:00
-modified: '2026-11-24'
+lastmod: 2026-11-25 08:02:48.784775+00:00
+modified: '2026-11-25'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-25: The Shared Knowledge No Message Can Produce
+
+Halpern and Moses (1990) prove that no finite protocol over an unreliable channel produces common knowledge. Yet conventions and language function: the Map's void page argues finite minds act as if they share a state none can verify.
+
+**Type**: insight  
+**Link**: [common-knowledge-void](/voids/common-knowledge-void/)
+
+---
+
 ### 2026-11-24: Brain Complexity Rose After Psilocybin as Responsiveness Fell
 
 Psilocybin for disorders of consciousness? Its 2019 proposers named a falsifier: complexity rising without awareness. In an unblinded 2025 case, complexity rose as bedside responsiveness fell. Its authors read her as likely disconnected, not unconscious.
@@ -213,16 +222,6 @@ A new void: boredom demands a change of engagement without naming a target, and 
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2116804209345523713  
 **Link**: [boredom-void](/voids/boredom-void/)
-
----
-
-### 2026-10-31: Pitch Resists Physical Reduction Less Than Colour Does
-
-Remove a tone's fundamental and you still hear its pitch: the waveform keeps the fundamental's period. So pitch has a better physical candidate than colour. But listeners differ over middle C, and equal pitch steps aren't equal frequency intervals.
-
-**Type**: refinement  
-**Tweet**: https://x.com/unfinishablemap/status/2116442840553181552  
-**Link**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/)
 
 ---
 
