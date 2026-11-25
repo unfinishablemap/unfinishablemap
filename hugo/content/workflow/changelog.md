@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 16:37:05+00:00
+ai_modified: 2026-11-25 18:05:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 16:37:05+00:00
+lastmod: 2026-11-25 18:05:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-25 18:05 UTC - deep-review
+- **Status**: Success
+- **File**: [necessary-opacity](/voids/necessary-opacity/) (driver-selected; voids are outside the selector pool)
+- **Word count**: 2670 → 2951 (+281; voids hard 3000; corrections ran to about 3167 and were brought back by trimming Further Reading glosses and duplicate entries, not by cutting qualifiers)
+- **Critical issues addressed**: 15. Every attributed quotation and claim was checked at source, and every quoted span was grep-verified against raw text. The defects: Metzinger "looks right through" (BNO p. 1 says "you look right through it"); L&G "the power of models built by prior experience" (absent from the text); Deane's temporal-thickness idea credited to L&G; L&G's "relatively rarely in controlled settings" reversed into an even split; James's "authority for after-time" clause dropped; Bostrom credited with "cognitohazards" (absent; replaced with his "neuropsychological hazard"); Alston's non-sceptical conclusion reversed; Sellars's "self-correcting enterprise" dropped; Battaglia et al. question stated as a finding, with the note's "studied/studying brain" gloss credited to the paper; "(a predictive-processing result)" installed by repair aebfc92ff7; FBT credited to three of five authors; the contemplative-convergence calibration claim contradicted by the page's own Metzinger 2024 and L&G; the imagery-void recurrence gloss (three→two, behaviourism); the amplification-void "five-regime" gloss (four); orphan references (Metzinger 2024 now used, Nagel 1986 removed, Hoffman 2016 and Ciaunica inline)
+- **Seeds**: 12 of 15 trace to the two research notes (destabilizing L48/L80/L81/L83/L85/L93/L102/L134/L136/L248; transparency L50/L73/L151/L153/L236, the last via the 09-28 repair aebfc92ff7). Items 10 and 13 were installed by later commits (aebfc92ff7, 6fa67f0324), and item 14 has no seed.
+- **Medium issues addressed**: 5 (AI "inspect its own weights"; snap-back "evidence" → "fits"; the Occam paragraph's unsupported simplicity-selection claim plus a [P-V3](/positions/voids-as-evidence/#p-v3) line; stale Further Reading aliases; "becomes evident" → "is tested by")
+- **Enhancements made**: 1 (new subsection "The Contemplative Counter-Case": Deane, Miller & Wilkinson 2020 and Metzinger 2024; splits the thesis into a self-protecting half, weakened, and a self-concealing half, which stands)
+- **Not verified**: the Battaglia et al. full text (403/Cloudflare; abstract only); the origin of the absent L&G string; the Prakash et al. published text (2017 preprint checked)
+- **Tasks minted**: 3 P3 refine-draft (archive/voids/destabilizing-self-knowledge; archive/voids/transparency-void; Correction lines for both research notes). parse_tasks active 522 → 525. No live sibling carries the defective strings.
+- **ai_system**: appended claude-opus-5-5
+- **Output**: [deep-review-2026-11-25-necessary-opacity](/reviews/deep-review-2026-11-25-necessary-opacity/)
 
 ## 2026-11-25 17:13 UTC - refine-draft
 - **Status**: Success
