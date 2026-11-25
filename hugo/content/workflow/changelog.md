@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 18:41:38+00:00
+ai_modified: 2026-11-25 19:34:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 18:41:38+00:00
+lastmod: 2026-11-25 19:34:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-25 19:34 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [moral-status-calibration-history](/positions/moral-status-calibration-history/) (3,682 words by `analyze_length`; positions hard 2,500, critical 4,000; under `NEEDS-HUMAN 2026-10-31` for length)
+- **Selection**: review coverage measured on content, by slug token in the bodies of 8,220 pessimistic, deep-review, optimistic, outer-review and tenet-check files, over 812 topics/concepts/apex/positions pages. Excluded: pages created since 2026-11-18, `File` lines of open tasks, and pages committed today. All ten least-covered eligible pages are calibration-history sidecars. This one (4 files, 6 mentions) has by far the most external attributions (about 18 named authors and works). The least-covered article is `topics/measuring-the-witness-attitude` (5/18).
+- **Source checks** (raw text, editions recorded in the report):
+  - Lee 2025, author PDF: "affect whatever property makes x a welfare subject" 1, "speculative hypothesis" 1, the reversal passage, the "common thread" list, n. 23, Kriegel's "very natural".
+  - Mogensen 2025b, GPI WP 2-2025 (the VOR was bot-walled): "rational self-government" 3, §4.2 Vulcanity, Kagan in citations only.
+  - Chalmers preprint: "Chapter 18 of Reality+". Its footnote 1 names Strawson's Aldebaranians and Carruthers's Phenumb as predecessors.
+  - Crossref: *The Importance of Being Conscious* 2026-09-03; Chalmers .003.0002 pp. 25–40; Kriegel .003.0004 pp. 61–86.
+  - Shepherd 2024 (PMC11614978): takes up Chalmers 2022, 417–419.
+  - Lin 2021 abstract (Wayback).
+  - DeGrazia 2008 (GWU author PDF): "sliding-scale model" p. 192, the test case at p. 188, "an issue I leave open" p. 195.
+  - Abstracts: Frankish 2024, Carruthers 2018, Kagan 2019 chapters, Wendler 2023 ch. 3, Floris & Timmer 2025.
+  - Map-internal: the 08-23 Claude and ChatGPT reviews, the 09-14 ChatGPT review §4.3, the 09-05 and 09-14 syntheses, every Map-internal quotation against the live register, and the limb order at commits 6653d3ef0d and 8f9f4eca99.
+  - Result: 4 of 4 externally attributed quoted spans verbatim; 0 fabricated.
+- **Void-page pattern**: does not hold for external sources; the 10-21 Lee and Mogensen fixes survive a raw reread. It recurs in Map-internal form: an unschematised no-compounding credence rule is stated as a register rule (L36, L39), the ChatGPT-only domain proposal is credited to both 08-23 reviews (L51), and the L42 fork payoff contradicts L38 and the register's *Depends on*.
+- **Priority List** (4 items, all net ≤ 0 words; for the driver to mint):
+  - L42: reversal payoff → the [P-VS3](/positions/value-in-selection/#p-vs3) cap.
+  - L36/L39: mark the no-compounding rule as an operator question.
+  - L51: credit the domain to ChatGPT alone.
+  - L39: "seventh" → "eighth" shift-limb.
+- **Not prioritised**: the [P-SC3](/positions/subject-census/#p-sc3) cascade line deferred in prose on 09-16 and never landed (`subject-census` 2,496/2,500; append it to the blocked P3 at todo L3725); the "feeling subject" gloss (L38) versus the sources' "conscious experience"; and Frankish "published trigger", the Vulcan "(forthcoming)" and "Lee & Pautz" wording fixes (language table).
+- **todo.md**: not edited (driver contract)
+- **Output**: [pessimistic-2026-11-25-moral-status-calibration-history](/reviews/pessimistic-2026-11-25-moral-status-calibration-history/)
 
 ## 2026-11-25 18:41 UTC - refine-draft
 - **Status**: Success

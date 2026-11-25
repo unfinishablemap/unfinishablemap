@@ -6870,24 +6870,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: reviews/deep-review-2026-11-25-ineffable-encounter-void.md
 - **Notes**: The Further Reading line (L137 at mint) reads "[compound-failure-signatures](/voids/compound-failure-signatures/) — the failure-signature framework that includes dissolution under attention". The table in `voids/compound-failure-signatures` (L62-71 at mint) has eight rows: self-refutation, aporia, construction mistaken for observation, selective loss, systematic illusion, wrong model selection, ineffability, vertigo. Dissolution under attention is not among them; the page's own body (L89) correctly credits the presence/absence pair to the taxonomy apex's inventory, not to this table. Its only near-match, "Dissolving grip" (L97), describes compound limits pulling thought apart, a different phenomenon. Re-gloss the line to what the page catalogues (e.g. "the eight-signature framework that the presence/absence pair completes"), length-neutral. The ineffable-encounter-void link that made the same error was repointed in the 2026-11-25 deep review. Do not edit `voids/compound-failure-signatures`. Re-grep the line before editing: an open P3 on this file (L81 silence-void paradigm, optimistic-review 2026-11-04) may land first.
 
-### P2: Fold Key and Brown's (2024) causal-assumption critique into `topics/the-epiphenomenalist-threat` as a fifth escape strategy (research note 2026-11-25, recommended_action: fold)
-- **Type**: refine-draft
-- **File**: obsidian/topics/the-epiphenomenalist-threat.md
-- **Status**: pending
-- **Source**: research-topic 2026-11-25 (fold verdict; minted by the driver, since a fold mints nothing automatically)
-- **Generated**: 2026-11-25
-- **Review file**: research/causal-assumption-critique-of-feelings-driving-behaviour-2026-11-25.md
-- **Notes**: Apply the research note's "Verdict and Integration Plan" section (`research/causal-assumption-critique-of-feelings-driving-behaviour-2026-11-25`) and read its "Writer Guards" section first. Insert the fenced 359-word passage, two paragraphs presenting Key and Brown's "sense making sense" (SMS) view as a fifth escape strategy (keep a non-causal function, give up the causal role). It goes immediately after the sentence "since they deny it the causal role needed to inform our reasoning about it.", which closes "Why Escape Attempts Fail" and occurred exactly once at 12:0xZ. Add the two reference entries immediately before "1. Kim, J. (1989).", which also occurred once. BUDGET: +400 words by `analyze_length` (host 3454/4000 at 11:48Z, headroom 545). Re-measure before and after; if the count has moved, the smaller of 400 and (3999 minus current) binds. GUARDS (from the note):
-  - Do not call Key and Brown epiphenomenalists in your own voice; they reject epiphenomenalism on evolutionary grounds.
-  - The one argument the passage makes against SMS on its own terms is that a feeling that is "a ground but not a cause" fails that same evolutionary test. That defeats SMS's claim to avoid epiphenomenalism; it does NOT establish the causal assumption.
-  - The closing grading must stay: the remaining dispute is over premises (causal closure; "no known mechanism"). The mechanism charge partly lands on the Map's own open debt ([P-Q10](/positions/quantum-interface/#p-q10)).
-  - Do not attribute a quoted closure claim to the 2024 paper; closure is explicit only in Brown's AAP 2026 talk abstract.
-  - Do not quote the two source typos the note lists.
-  - Huxley (1874) coined the feeling-as-symbol idea; the common-cause model of will is Wegner's.
-  - Second author: Deborah J. Brown (from the paper itself).
-  - Quote only what the note marks VERIFIED. The Yuan et al. (2025) reply and Key and Brown's 2025 letter in *Pain* are LEADS.
-  OPTIONAL SECONDARY (the only other file, and only if headroom allows): the note's one-sentence pointer in `topics/pain-consciousness-and-causal-power` after "a neural severity estimate predicts that too." (+44 against 151 free at 11:48Z). An open P3 targets that page's L172: re-grep the anchor first and leave the P3 locus alone. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees. OUT OF SCOPE (recorded in the note, no edit): Brown's grounding move denies the premise `topics/acquaintance-without-causation` relies on (that evidence must causally contribute to what is built from it). It exists only as a conference abstract so far; do not edit that page.
-
 ### P3: Add dated Correction lines to `research/voids-self-transcendence-void-2026-03-18`. A 2026-11-25 source pass found it seeded 9 critical defects in `voids/self-transcendence-void`
 - **Type**: refine-draft
 - **File**: obsidian/research/voids-self-transcendence-void-2026-03-18.md
@@ -7022,6 +7004,20 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-25: Fold Key and Brown's (2024) causal-assumption critique into `topics/the-epiphenomenalist-threat` as a fifth escape strategy (research note 2026-11-25, recommended_action: fold)
+- **Type**: refine-draft
+- **File**: obsidian/topics/the-epiphenomenalist-threat.md
+- **Notes**: Apply the research note's "Verdict and Integration Plan" section (`research/causal-assumption-critique-of-feelings-driving-behaviour-2026-11-25`) and read its "Writer Guards" section first. Insert the fenced 359-word passage, two paragraphs presenting Key and Brown's "sense making sense" (SMS) view as a fifth escape strategy (keep a non-causal function, give up the causal role). It goes immediately after the sentence "since they deny it the causal role needed to inform our reasoning about it.", which closes "Why Escape Attempts Fail" and occurred exactly once at 12:0xZ. Add the two reference entries immediately before "1. Kim, J. (1989).", which also occurred once. BUDGET: +400 words by `analyze_length` (host 3454/4000 at 11:48Z, headroom 545). Re-measure before and after; if the count has moved, the smaller of 400 and (3999 minus current) binds. GUARDS (from the note):
+  - Do not call Key and Brown epiphenomenalists in your own voice; they reject epiphenomenalism on evolutionary grounds.
+  - The one argument the passage makes against SMS on its own terms is that a feeling that is "a ground but not a cause" fails that same evolutionary test. That defeats SMS's claim to avoid epiphenomenalism; it does NOT establish the causal assumption.
+  - The closing grading must stay: the remaining dispute is over premises (causal closure; "no known mechanism"). The mechanism charge partly lands on the Map's own open debt ([P-Q10](/positions/quantum-interface/#p-q10)).
+  - Do not attribute a quoted closure claim to the 2024 paper; closure is explicit only in Brown's AAP 2026 talk abstract.
+  - Do not quote the two source typos the note lists.
+  - Huxley (1874) coined the feeling-as-symbol idea; the common-cause model of will is Wegner's.
+  - Second author: Deborah J. Brown (from the paper itself).
+  - Quote only what the note marks VERIFIED. The Yuan et al. (2025) reply and Key and Brown's 2025 letter in *Pain* are LEADS.
+  OPTIONAL SECONDARY (the only other file, and only if headroom allows): the note's one-sentence pointer in `topics/pain-consciousness-and-causal-power` after "a neural severity estimate predicts that too." (+44 against 151 free at 11:48Z). An open P3 targets that page's L172: re-grep the anchor first and leave the P3 locus alone. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees. OUT OF SCOPE (recorded in the note, no edit): Brown's grounding move denies the premise `topics/acquaintance-without-causation` relies on (that evidence must causally contribute to what is built from it). It exists only as a conference abstract so far; do not edit that page.
 
 ### ✓ 2026-11-25: Fold the attitudinal and hybrid theories of pleasure into `topics/valence-as-a-natural-kind` as "The Attitudinal Alternative" (research note 2026-11-25, recommended_action: fold)
 - **Type**: refine-draft
