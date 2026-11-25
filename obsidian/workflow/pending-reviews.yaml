@@ -95,3 +95,32 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-11-24-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6b0641c4-3370-83eb-acb6-093a736cbd9c
+  commissioned_at: '2026-11-25T02:03:27.109393+00:00'
+  prompt_summary: 'Audit concepts/valence: claims, citations, counterarguments, integration'
+  target_filename: outer-review-2026-11-25-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as an independent, critical outer reviewer of one article
+    on The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind site
+    with five stated dualist tenets. The article is https://unfinishablemap.org/concepts/valence/
+    and it was last substantively modified on 2026-11-17. Fetch and read the live
+    page, then audit it: are its claims about valence adequately supported, are its
+    citations real, correctly attributed and accurately characterised, and are any
+    quotations verbatim? Which serious counterarguments from affective neuroscience,
+    functionalist and illusionist accounts of affect, and the animal-sentience literature
+    are missing or treated too lightly? Does the article bracket or soften evidence
+    in order to protect the site''s tenets? Are any references stale against the 2020s
+    literature? How well does it integrate with the surrounding articles it links
+    to, and do those neighbours contradict it? Search-engine indexes lag by 24-48
+    hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent activity. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit valence
+  subject_articles:
+  - concepts/valence.md
+  subject_source: fallback:recent-aged
