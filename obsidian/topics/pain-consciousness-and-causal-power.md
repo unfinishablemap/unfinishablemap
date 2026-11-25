@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal, and the sharpest pressure 
 created: 2026-02-09
 modified: 2026-11-19
 human_modified:
-ai_modified: 2026-11-24T12:48:36+00:00
+ai_modified: 2026-11-25T10:39:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,7 +125,7 @@ Where thought experiments like [[philosophical-zombies]] remain debatable in the
 
 **[[integrated-information-theory|Integrated Information Theory]]** 4.0 separates the quantity of experience (Φ) from its quality, which corresponds to the Φ-structure. Asymbolia is selective rather than global: affective pain experience is lost while primary sensation is spared. The deficit is therefore a Φ-structure change the theory must model, not a falsification.
 
-**Representationalism** identifies phenomenal character with representational content, and its accounts of unpleasantness put the hurt in the content: [[valence#three-competing-accounts|evaluativists]] say a pain represents damage as bad for its subject, hybrid imperativists that it commands that the damage end, and Noordhof (2021) makes the aversive disposition itself representational. Asymbolia is then predicted rather than anomalous; what survives of the Map's objection is the general explanatory gap, which redness poses as much as pain.
+**Representationalism** identifies phenomenal character with representational content, and its accounts of unpleasantness put the hurt in the content: [[valence#competing-accounts|evaluativists]] say a pain represents damage as bad for its subject, hybrid imperativists that it commands that the damage end, and Noordhof (2021) makes the aversive disposition itself representational. Asymbolia is then predicted rather than anomalous; what survives of the Map's objection is the general explanatory gap, which redness poses as much as pain.
 
 ### What Asymbolia Discriminates
 

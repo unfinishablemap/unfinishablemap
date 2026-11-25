@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-11-25
 human_modified:
-ai_modified: 2026-11-25T09:58:19+00:00
+ai_modified: 2026-11-25T10:39:49+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -40,9 +40,9 @@ Valence is not the same as the specific character of an experience. The painfuln
 
 Whether valence is itself a *natural kind* is a further question the core-affect literature leaves open. Barrett's constructionism denies natural-kind status to discrete emotion categories while treating valence and arousal as basic features of consciousness; Scarantino (2009) presses the natural-kind question against core affect itself; and Labukt (2012) argues that the heterogeneity of pleasure yields several hedonic tones rather than one or none. [[topics/valence-as-a-natural-kind|Valence as a natural kind]] works through what survives those challenges, and finds the Map's exposure falling on the claim that felt valence is a single scalar currency rather than on its reality.
 
-## Three Competing Accounts
+## Competing Accounts
 
-Three philosophical accounts compete to explain what valence is.
+Several philosophical accounts compete to explain what valence is.
 
 **The hedonic account** treats valence as an intrinsic qualitative property of experience. The badness of pain is a feature the pain has in virtue of being the experience it is, not something the pain is *about*. Just as redness is an intrinsic quality of visual experience, badness is an intrinsic quality of painful experience.
 
@@ -50,13 +50,15 @@ Three philosophical accounts compete to explain what valence is.
 
 **The imperativist account** treats valence as a command rather than a description. Klein (2007) gave the first explicit imperative theory of pain, on which a pain's content is a command against using the injured part; Martínez (2011) extended imperative content to pain's unpleasantness, pairing a description of the disturbance with a command to see that it ends; Barlassina and Hayward (2019) generalise the view to all affect, on which an unpleasant experience commands "Get less of me!" On both representational accounts of unpleasantness, whether an experience hurts is a difference in what it represents or commands, so they deny that two experiences could share their content and differ only in felt badness.
 
+**Attitudinal theories** put valence in the subject's attitude: for Heathwood (2007), a sensation is unpleasant when its subject, while feeling it, intrinsically desires not to be feeling it. That handles heterogeneity without a shared hedonic tone, and opposes pleasure to pain as desire to aversion. The Map has yet to answer the view, or say why felt badness and felt goodness are opposites when two heard notes are not.
+
 ### Where the Hedonic Account's Case Lies
 
 [[pain-asymbolia|Pain asymbolia]] can look like decisive evidence: patients reportedly represent tissue damage—they know their hand is burned—without feeling any badness. That rules out identifying felt badness with the detection of damage. It does not favour the hedonic account over its representational rivals, because both predict the dissociation. Evaluativists deny that asymbolics represent the damage as bad for them, and Bain (2014) argues that the missing component of their pain "consists in evaluative content"; hybrid imperativism (Martínez 2011) keeps the description and loses the command, and its "Grahek-style" successor expects "the familiar asymbolic pattern of sensory pain without painfulness" (Martínez 2023).
 
 The usual case for the hedonic account concerns reasons. A pain gives its subject a reason to be rid of the experience itself, which is why taking a painkiller that leaves the injury untouched is rational. If the unpleasantness were only a representation of the damage, removing the experience while the damage remains would be "shooting the messenger" (Jacobson 2013). Cutter and Tye (2014) reply that pain's bad consequences and our natural aversion to it supply the reason; painfulness without aversion, they argue, supplies none. The consideration in any case tells only against first-order representational accounts. Reflexive imperativism explains the experience-directed motive: the command "Get less of me!" targets the experience, and taking the painkiller obeys it (Barlassina and Hayward 2019). What may still favour the hedonic account is narrower. A command explains why the subject is moved against the experience, not why the experience is bad for her; on the hedonic account the badness is in the experience, so ending the experience ends it. Bain (2019) claims the same for evaluativism. Cutter and Tye's rejoinder reaches the hedonic claim as well: if painfulness alone gave a reason, that would be a puzzle "for everyone, not just the representationalist", primitive-quale theorists included. The residue is nearer a standoff than an advantage. Objectless moods offer a second consideration. Free-floating anxiety and undirected elation feel bad or good without representing any particular thing as dangerous or fine. An evaluativist can answer that such moods represent the world at large under an evaluative aspect, and reflexive imperativism treats misery that is nothing but feeling awful as a bare reflexive command, so that case too is contested.
 
-Two limits bound the result. Representationalism and physicalism come apart: tracking versions are explicitly reductive, but the non-reductive versions Aydede (2023) distinguishes hold that the represented content resists naturalistic explanation, so the choice among these three accounts is orthogonal to the [[tenets#^dualism|Dualism]] tenet, and the Map's dualism would survive the hedonic account's defeat. Nor does any of the three make valence idle: the representational accounts build motivational force into the content itself, so the question is what the felt badness is, not whether it does any work.
+Two limits bound the result. Representationalism and physicalism come apart: tracking versions are explicitly reductive, but the non-reductive versions Aydede (2023) distinguishes hold that the represented content resists naturalistic explanation, and attitudinal theories leave the attitude's nature open, so the choice among these accounts is orthogonal to the [[tenets#^dualism|Dualism]] tenet, and the Map's dualism would survive the hedonic account's defeat. Nor does any of them make valence idle: the representational accounts build motivational force into the content itself, so the question is what the felt badness is, not whether it does any work.
 
 ## Valence and the Hard Problem
 
@@ -134,3 +136,4 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 1. Martínez, M. (2023). Grahek-style imperativism. *Belgrade Philosophical Annual*, 36(2), 59–70. https://doi.org/10.5937/bpa2302059m
 1. LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016–E2025. https://doi.org/10.1073/pnas.1619316114
 1. Kammerer, F. (2022). How can you be so sure? Illusionism and the obviousness of phenomenal consciousness. *Philosophical Studies*, 179(9), 2845–2867. https://doi.org/10.1007/s11098-022-01804-7
+1. Heathwood, C. (2007). The reduction of sensory pleasure to desire. *Philosophical Studies*, 133(1), 23–44. https://doi.org/10.1007/s11098-006-9004-9

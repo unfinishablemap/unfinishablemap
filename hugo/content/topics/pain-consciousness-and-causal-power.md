@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-11-24 12:48:36+00:00
+ai_modified: 2026-11-25 10:39:49+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-19 14:19:53+00:00
-lastmod: 2026-11-24 12:48:36+00:00
+lastmod: 2026-11-25 10:39:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -129,7 +129,7 @@ Where thought experiments like [philosophical-zombies](/concepts/philosophical-z
 
 **[Integrated Information Theory](/concepts/integrated-information-theory/)** 4.0 separates the quantity of experience (Φ) from its quality, which corresponds to the Φ-structure. Asymbolia is selective rather than global: affective pain experience is lost while primary sensation is spared. The deficit is therefore a Φ-structure change the theory must model, not a falsification.
 
-**Representationalism** identifies phenomenal character with representational content, and its accounts of unpleasantness put the hurt in the content: [evaluativists](/concepts/valence/#three-competing-accounts) say a pain represents damage as bad for its subject, hybrid imperativists that it commands that the damage end, and Noordhof (2021) makes the aversive disposition itself representational. Asymbolia is then predicted rather than anomalous; what survives of the Map's objection is the general explanatory gap, which redness poses as much as pain.
+**Representationalism** identifies phenomenal character with representational content, and its accounts of unpleasantness put the hurt in the content: [evaluativists](/concepts/valence/#competing-accounts) say a pain represents damage as bad for its subject, hybrid imperativists that it commands that the damage end, and Noordhof (2021) makes the aversive disposition itself representational. Asymbolia is then predicted rather than anomalous; what survives of the Map's objection is the general explanatory gap, which redness poses as much as pain.
 
 ### What Asymbolia Discriminates
 

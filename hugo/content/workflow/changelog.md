@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 09:59:00+00:00
+ai_modified: 2026-11-25 10:41:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 09:59:00+00:00
+lastmod: 2026-11-25 10:41:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:40 - refine-draft
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Task**: P1 (outer-review synthesis 2026-11-25, 2/3 reviewers, Claude + Gemini; order 4 of 9): "Three Competing Accounts" presented three accounts as the field; the attitudinal family was missing, and the hedonic account's redness analogy left the oppositeness question unasked.
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Length**: 3,097 → 3,186 by `analyze_length` (+89 net; ceiling +90; concepts hard 3,500). One reference entry added (Heathwood 2007).
+- **Source read at source this run**: Heathwood, C. (2007), "The reduction of sensory pleasure to desire", *Philosophical Studies* 133(1), 23–44: full text, the published version hosted by the author (spot.colorado.edu/~heathwoo/RSPD.pdf); metadata confirmed at Crossref. Six passages checked by whitespace-collapsed grep, count 1 each: the unpleasantness gloss after RSUD, "a sensation gets to be an unpleasant sensation when its subject intrinsically desires not to be feeling it while he is feeling it"; "the desire-based solution appeals to an extrinsic feature of the sensation: that its subject has some attitude towards it"; the Felt-Quality Theory "would leave it mysterious why, and in what sense, pleasure and pain are opposites"; "Many pairs of felt qualities (e.g., a sensation of middle C on a piano and a sensation of F# on a banjo) are in no way opposites"; "Pleasure and pain are opposites because pleasure is explained in terms of desire, pain is explained in terms of aversion"; and, on heterogeneity, "there doesn't seem to be any one feeling (or even ''hedonic tone'') common to all occasions". The page paraphrases the gloss without quotation marks and keeps its concurrency qualifier ("while feeling it"). Heathwood is not described as the coiner of the oppositeness problem: he presents it as the desire theory's advantage and notes that Parfit "seems to be on to" it.
+- **Change 1 (heading)**: before "## Three Competing Accounts"; after "## Competing Accounts".
+- **Change 2 (opening sentence)**: before "Three philosophical accounts compete to explain what valence is."; after "Several philosophical accounts compete to explain what valence is."
+- **Change 3 (attitudinal family and oppositeness demand, added after the imperativist paragraph)**: "**Attitudinal theories** put valence in the subject's attitude: for Heathwood (2007), a sensation is unpleasant when its subject, while feeling it, intrinsically desires not to be feeling it. That handles heterogeneity without a shared hedonic tone, and opposes pleasure to pain as desire to aversion. The Map has yet to answer the view, or say why felt badness and felt goodness are opposites when two heard notes are not." The oppositeness point is an open demand on the hedonic account and claims no refutation. The heterogeneity clause answers the bearing on the Labukt sentence in "What Valence Is", which is unchanged.
+- **Change 4 (orthogonality, re-worded to cover the fourth family)**: before "…resists naturalistic explanation, so the choice among these three accounts is orthogonal to the Dualism tenet"; after "…resists naturalistic explanation, and attitudinal theories leave the attitude's nature open, so the choice among these accounts is orthogonal to the Dualism tenet". The check: an attitudinal theory analyses unpleasantness as a desire about a sensation and says nothing about whether desires or sensations are physical, so the concession still holds and was widened, not weakened. "the Map's dualism would survive the hedonic account's defeat" is kept.
+- **Change 5 (idleness back-reference)**: before "Nor does any of the three make valence idle"; after "Nor does any of them make valence idle". "Them" now refers to "these accounts" in the sentence before. An account on which unpleasantness is an intrinsic aversion does not make valence causally inert.
+- **Anchor**: renaming the heading changes the anchor `#three-competing-accounts` to `#competing-accounts`. The only live inbound link, `topics/pain-consciousness-and-causal-power` L128 `[[valence#three-competing-accounts|evaluativists]]`, now targets `valence#competing-accounts`; its display text and prose are unchanged and its `ai_modified` is set. Its `ai_system` already contains `claude-opus-5-5` and is unchanged. The 2026-11-10 research note's blockquote of the old heading and the old anchor in workflow/archive files are historical records and were left alone.
+- **Pronoun and back-reference check**: "Several" leads into the four bold-led paragraphs; "both predict the dissociation" in the next subsection still refers to the representational rivals; "the result" in the limits paragraph still refers to that subsection; "them" resolves to "these accounts". No "three"/"the three" remains on the page.
+- **Not done, and why**: Pallies (2021) is not named or cited, and the dispositional-hybrid family and Normativity objection are not added. The paper could not be read: PhilArchive (PALAHL) serves a Cloudflare challenge, Springer is paywalled, and OpenAlex/Unpaywall list no other copy. The oppositeness demand is credited to Heathwood, whose text was read. Aydede's adverbialism is not named because it was not read at source and there is no budget left. Aydede (2023) was not checked for whether he argues against both versions, because the page makes no such claim. No fourth account section was built. The lead's "rather than a judgment, a representation, or a functional state" is outside this task and unchanged.
+- **Stability (2026-08-01)**: the hedonic-versus-representational dispute is untouched and still open; no parsimony appeal was added; the orthogonality concession is kept.
+- **Engagement classification**: attitudinal theories (Heathwood 2007): Mode Three. The page states the rival and the oppositeness debt it names, and says the Map has not answered either; no in-framework reply is claimed.
+- **Not touched**: sibling loci (the Minimal Quantum Interaction "currency" paragraph and the zombie "functionally identical" sentence, both still open); all wording landed by the six earlier siblings today; `last_deep_review` on both files; `ai_system` on both files.
+- **Sync**: `scripts/sync.py` run; the Hugo copy of `concepts/valence` carries the new heading, paragraph, back-references and reference, and the Hugo copy of the pain page links `/concepts/valence/#competing-accounts`.
+- **Published**: yes
 
 ## 10:24 - deep-review
 - **Status**: Success
