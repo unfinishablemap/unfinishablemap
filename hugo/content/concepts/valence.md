@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-11-17 13:50:02+00:00
+ai_modified: 2026-11-25 06:34:04+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[evaluative-phenomenal-character]]'
 created: 2026-02-15
-date: &id001 2026-11-17
+date: &id001 2026-11-25
 description: The positive-negative dimension of experience—why pain feels bad and
   pleasure good—and the argued, contested case that valence is intrinsic phenomenal
   character.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 15:29:00+00:00
-lastmod: 2026-11-17 13:50:02+00:00
+lastmod: 2026-11-25 06:34:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ topics:
 - '[[ethics-under-dualism]]'
 ---
 
-Valence is the positive-negative dimension of conscious experience—the felt goodness of pleasure and the felt badness of pain. The Unfinishable Map argues that valence is an intrinsic phenomenal property rather than a judgment, a representation, or a functional state: the badness of pain is a feature of the experience itself, not something the experience is *about*. The claim's strongest rival reads valence as a precision-weighted signal of expected value ([engaged below](#valence-and-causal-work)). Asymbolia presses on only the simplest denial of valence's causal relevance ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)); on the Map's reading, valence grounds the moral significance of conscious beings.
+Valence is the positive-negative dimension of conscious experience—the felt goodness of pleasure and the felt badness of pain. The Unfinishable Map argues that valence is an intrinsic phenomenal property rather than a judgment, a representation, or a functional state: the badness of pain is a feature of the experience itself, not something the experience is *about*. The claim's strongest rival reads valence as a signal of how the agent's own predictions are faring ([engaged below](#valence-and-causal-work)). Asymbolia presses on only the simplest denial of valence's causal relevance ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)); on the Map's reading, valence grounds the moral significance of conscious beings.
 
 ## What Valence Is
 
@@ -72,7 +72,7 @@ The explanatory gap for valence is particularly stark because the property seems
 
 [Epiphenomenalists](/concepts/epiphenomenalism/) might argue that felt badness merely accompanies the functional states that actually motivate behavior. Pain asymbolia challenges this: patients with intact sensory pain processing but absent felt badness do not avoid painful stimuli with normal urgency. When the felt badness goes, normal avoidance goes with it—a dissociation whose causal reading is contested below.
 
-A [functionalist](/concepts/functionalism/) might object that asymbolia simply shows which functional subsystem is damaged—that the missing motivation *is* the missing function, redescribed in phenomenal language. In its generic form the objection specifies no role: the deficit is picked out by what the state stopped *feeling like*. But the objection has a framework-strength form. On the active-inference reading engaged in [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)—Joffily and Coricelli (2013) formalise valence as the negative rate of change of free energy; Hesp et al. (2021) as a state inferred from fluctuations in the precision of the agent's own generative model—valence is a precision-weighted signal of expected value: a prior over the nociceptive stream that drives avoidance-policy selection, on which asymbolia is disrupted valence-prior assignment with sensory processing intact, predicting exactly this dissociation. That supplies the missing role, and the Map concedes it: the dissociation no longer separates the views. What the specification has not delivered, by its own mechanistic standard, is why the signal is *felt* as badness rather than merely run. [Evaluative phenomenal character](/concepts/evaluative-phenomenal-character/) carries the Map's fuller reply, and [the steelman for value-blind selection](/topics/the-steelman-for-value-blind-selection/) assembles the deflationary reading at full strength—noting that the programme's own practitioners split over whether the formalism explains felt value away or naturalises it. The disagreement sits at the [constitution-versus-causal-work seam](/concepts/constitution-vs-causal-work/), and [neither side refutes the other](/topics/the-experience-requirement-on-well-being/#unconscious-subjects) from inside its own commitments. The Map takes the phenomenal horn on the strength of that undelivered step, not on grounds of simplicity: [Occam's Razor Has Limits](/tenets/#occams-limits) binds parsimony arguments made *for* the framework exactly as it binds those aimed against it.
+A [functionalist](/concepts/functionalism/) might object that asymbolia simply shows which functional subsystem is damaged—that the missing motivation *is* the missing function, redescribed in phenomenal language. In its generic form the objection specifies no role: the deficit is picked out by what the state stopped *feeling like*. But the objection has a framework-strength form. Within active inference, which [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) assesses, Joffily and Coricelli (2013) define valence as the negative rate of change of free energy; Hesp et al. (2021) model it as a state an agent infers from changes in the expected precision of its action model, in a simulated T-maze. Neither models pain or asymbolia; the Map's extension to pain on the rival's behalf makes valence an inferred state over nociceptive input that steers avoidance policy, and asymbolia its disruption with sensory processing intact. Gerrans (2020) gives a different active-inference account: asymbolia as "depersonalization for pain," a phrase he borrows, nociceptive signals no longer attributed to the self. Either reading supplies the missing role, and the Map concedes it: the dissociation no longer separates the views. What the specification has not delivered, by its own mechanistic standard, is why the signal is *felt* as badness rather than merely run. [Evaluative phenomenal character](/concepts/evaluative-phenomenal-character/) carries the Map's fuller reply, and [the steelman for value-blind selection](/topics/the-steelman-for-value-blind-selection/) assembles the deflationary reading at full strength—noting that the programme's own practitioners split over whether the formalism explains felt value away or naturalises it. The disagreement sits at the [constitution-versus-causal-work seam](/concepts/constitution-vs-causal-work/), and [neither side refutes the other](/topics/the-experience-requirement-on-well-being/#unconscious-subjects) from inside its own commitments. The Map takes the phenomenal horn on the strength of that undelivered step—the general explanatory gap, with the Map's own selection mechanism likewise unspecified—not on grounds of simplicity: [Occam's Razor Has Limits](/tenets/#occams-limits) binds parsimony arguments made *for* the framework exactly as it binds those aimed against it.
 
 This bears on the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, but not as directly as it looks. Asymbolia shows that the felt badness is what the intact nociception lacks and what the behavior tracks; whether it *causes* the avoidance or is co-present with the state that does is the fork between bare-correlation epiphenomenalism and one [borrowing the phenomenal-concept reply](/topics/acquaintance-without-causation/#chalmers-reply), and the dissociation does not settle it ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)).
 
@@ -118,6 +118,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 1. Labukt, I. (2012). Hedonic tone and the heterogeneity of pleasure. *Utilitas*, 24(2), 172-199. https://doi.org/10.1017/S0953820812000052
 1. Joffily, M., & Coricelli, G. (2013). Emotional valence and the free-energy principle. *PLOS Computational Biology*, 9(6), e1003094. https://doi.org/10.1371/journal.pcbi.1003094
 1. Hesp, C., Smith, R., Parr, T., Allen, M., Friston, K. J., & Ramstead, M. J. D. (2021). Deeply felt affect: the emergence of valence in deep active inference. *Neural Computation*, 33(2), 398–446. https://doi.org/10.1162/neco_a_01341
+1. Gerrans, P. (2020). Pain asymbolia as depersonalization for pain experience: An interoceptive active inference account. *Frontiers in Psychology*, 11, 523710. https://doi.org/10.3389/fpsyg.2020.523710
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 1. Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind* (Vol. 5). Oxford University Press.
 1. Aydede, M. (2023). Is pain representational? *Belgrade Philosophical Annual*, 36(2), 25–39. https://doi.org/10.5937/bpa2302025a

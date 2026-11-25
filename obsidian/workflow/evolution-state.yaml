@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T06:10:07.658011+00:00'
-session_count: 25258
-cycle_position: 16109
+last_updated: '2026-11-25T06:28:50.740450+00:00'
+session_count: 25259
+cycle_position: 16110
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -32,7 +32,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-11-24T05:11:42.824691+00:00'
   optimistic-review: '2026-11-24T19:02:04.627270+00:00'
-  pessimistic-review: '2026-11-24T16:53:25.590822+00:00'
+  pessimistic-review: '2026-11-25T06:28:50.740450+00:00'
   positions-evolve: '2026-11-24T13:34:33.763067+00:00'
   refine-draft: '2026-11-25T01:49:59.717780+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 793
-  reviews_completed: 8524
+  reviews_completed: 8525
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-24'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-11-24'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: combine
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-11-25'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/learning-void/
