@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 06:48:36+00:00
+ai_modified: 2026-11-25 07:11:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 06:48:36+00:00
+lastmod: 2026-11-25 07:11:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:11 - deep-review
+- **Status**: Success
+- **File**: [commensurability-void](/voids/commensurability-void/)
+- **Word count**: 1826 → 2408 (+582) by `analyze_length`; voids soft 2000 / hard 3000 (gate >=); headroom 591. Over the brief's "about +350": first draft 2,638, cut back 230 with no hedge, counter-consideration or citation removed.
+- **Critical issues addressed**: 11 (source fidelity; fifth review, four prior passes had certified the page)
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Critical findings**: (1) fabricated Nagel quotation "organized along dimensions we cannot even conceive" ("dimensions" has 0 hits in the paper; seeded by research note L51); (2) Nagel's verbatim "continuum" line is from footnote 8, whose direction ("it may be easier than I suppose to transcend inter-species barriers") the page reversed; (3) "commensurability" presented as Nagel's deeper point, his objective-phenomenology proposal omitted; (4) Díaz-Boils quotation stripped of "it might be right that" and present in arXiv v1 only; (5) model-relative result ("assuming ...", "imposed by our means of modelling") stated as a fact; (6) order-incomparability inside one shared poset reported as "no mapping exists" / no shared framework, the reverse of what the model presupposes; (7) "evolution may encompass" upgraded to "has generated"; (8) "Standard Welfare Unit ... hedonic capacity" sentence has no basis in Browning 2023 (0 hits), certified "faithful" on 2026-06-24; (9) Browning's epistemic underdetermination enlisted for structural impossibility; (10) Wittgenstein §272 given as his observation, community reading stated flat, §293 deflation omitted; (11) IIT misdescribed, the quantity/quality split is IIT 4.0's own (installed uncited by the 2026-03-19 review's repair).
+- **Also**: lead and description made conditional; three senses separated (unranked / no common measure / no shared framework); tenet section aligned with [P-V3](/positions/voids-as-evidence/#p-v3) (void returns no evidential support to any tenet; dualism paragraph labelled framework-conditional); Map-internal palette-extension gloss corrected.
+- **Source ledger**: READ AT SOURCE (fetched and grepped): Nagel 1974 full text; Díaz-Boils, Tsuchiya & Signorelli arXiv:2502.02154 v1 and v2; Wittgenstein PI (Anscombe) §§271–274, §293; Browning 2023 published PDF (LSE Research Online); Albantakis et al. 2023 (Europe PMC XML); SEP "Incommensurable Values" and "Private Language". NOT OBTAINED: the *Mind and Matter* 24(1), 31–55 journal text of Díaz-Boils et al. (metadata via Crossref only; quotations keyed to arXiv).
+- **References**: Díaz-Boils entry corrected (hyphen, three authors, journal publication); Wittgenstein translator added; added Albantakis et al. 2023, Andersson & Hsieh 2025, Candlish & Wrisley 2019. Inline ↔ References agree both ways on surname and year.
+- **Engagement classification**: IIT: mixed (the quantity/quality split is IIT's own, then boundary marking over identifying experience with structure). Wittgenstein: boundary marking at the dualism tenet.
+- **Follow-ups for the driver (not edited)**: archive: `archive/topics/ethics-of-consciousness.md` L95, `archive/voids/intersubjective-void.md` L164. Research note `research/voids-commensurability-void-2026-03-19.md` L40, L49, L51, L55–63, L67–75, L83, L111, L117. Siblings: `voids/synesthetic-void` L75 ("formalises this"), `concepts/qualia` L82 ("shows that"), `topics/ethics-under-dualism` L137, `topics/comparative-consciousness-and-interface-differences` L63, `apex/taxonomy-of-voids` L141, labels at `topics/ai-consciousness` L212 and `voids/voids` L169. Details in the review file.
+- **ai_system**: appended `claude-fable-5-2` (substantive prose edits; absent from the prior string).
+- **Output**: [deep-review-2026-11-25-commensurability-void](/reviews/deep-review-2026-11-25-commensurability-void/)
 
 ## 06:48 - refine-draft
 - **Status**: Success
