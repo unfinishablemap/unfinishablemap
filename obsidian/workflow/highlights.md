@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-25T08:02:48.784775'
+ai_modified: '2026-11-25T08:03:23+00:00'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Halpern and Moses (1990) prove that no finite protocol over an unreliable channel produces common knowledge. Yet conventions and language function: the Map's void page argues finite minds act as if they share a state none can verify.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2125500552268177806  
 **Link**: [[common-knowledge-void]]
 
 ---
