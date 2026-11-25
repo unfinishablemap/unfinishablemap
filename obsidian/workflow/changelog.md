@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T10:41:06+00:00
+ai_modified: 2026-11-25T10:48:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 10:48 - coalesce
+- **Status**: Success (abandoned: no merge candidate; driver delta check, no fork)
+- **Delta since last coalesce** (`0491865f8d`, 2026-11-24T21:16Z): `git diff --diff-filter=ADR` over topics, concepts, voids, apex and `archive/` is empty, so no page was added, removed or renamed. 23 pages were edited; the largest body-only shrink by `analyze_length` is 14 words (`voids/transit-void` 3505→3491), against the 1,271-word smallest overshoot among the 17 pairs at cosine 0.40 or above on 11-24. No edit can have brought an overlapping pair under its hard limit, so the 11-24 screen still holds.
+- **Pressure** (`count_section_files`): topics 370/370, concepts 370/370, voids 124/125. Unchanged.
+- **Finding**: overlap and length-fit remain disjoint. Coalesce cannot free a topics or concepts slot; relief has to come from `/archive`, `/condense` or a cap raise.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
 
 ## 10:40 - refine-draft
 - **Status**: Success
