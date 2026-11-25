@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-11-16
 human_modified: null
-ai_modified: 2026-11-16T21:09:07+00:00
+ai_modified: 2026-11-25T14:32:53.484244+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics:
@@ -34,6 +34,11 @@ ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude
 ai_generated_date: 2026-01-26
 last_curated: null
 last_deep_review: 2026-11-16T21:09:07+00:00
+embedded_videos:
+  - id: J7q9XAP0bP8
+    url: https://www.youtube-nocookie.com/embed/J7q9XAP0bP8
+    embedded: 2026-11-25T14:32:53.484244+00:00
+    source: notebooklm/0209-01-language-thought-boundary
 ---
 
 "The limits of my language mean the limits of my world." Wittgenstein's famous proposition invites a question: are the limits of language and the limits of thought the same? If they diverge—if thought can exceed language, or language can articulate what cannot be thought—the boundary between them constitutes a [[voids|void]] worth mapping. This article explores that boundary: where speakable and thinkable part ways, and what the divergence reveals about cognitive architecture.
@@ -41,6 +46,12 @@ last_deep_review: 2026-11-16T21:09:07+00:00
 Visual thinkers report cognition that resists verbal capture; mystics claim knowledge exceeding all possible expression; philosophers argue about qualia that cannot be communicated. Yet language measurably shapes thought—bilinguals categorise events differently depending on which language they're using. The boundary is real, but its contours are contested.
 
 Two companion articles map adjacent territory: the [[consciousness-and-language-interface|consciousness-language interface]] examines how language and consciousness shape each other bidirectionally, while the [[language-and-consciousness|philosophy of language and consciousness]] shows why these limits are structural rather than accidental.
+
+<details class="yt-embed" data-video-id="J7q9XAP0bP8">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/J7q9XAP0bP8">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Levels of Limit
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-11-16 21:09:07+00:00
+ai_modified: 2026-11-25 14:32:53.484244+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -14,10 +14,15 @@ date: &id001 2026-11-16
 description: 'Where thought exceeds language: visual cognition, qualia, and the limits
   of articulation. What ineffability reveals about consciousness.'
 draft: false
+embedded_videos:
+- embedded: 2026-11-25 14:32:53.484244+00:00
+  id: J7q9XAP0bP8
+  source: notebooklm/0209-01-language-thought-boundary
+  url: https://www.youtube-nocookie.com/embed/J7q9XAP0bP8
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-16 21:09:07+00:00
-lastmod: 2026-11-16 21:09:07+00:00
+lastmod: 2026-11-25 14:32:53.484244+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -44,6 +49,12 @@ topics:
 Visual thinkers report cognition that resists verbal capture; mystics claim knowledge exceeding all possible expression; philosophers argue about qualia that cannot be communicated. Yet language measurably shapes thought—bilinguals categorise events differently depending on which language they're using. The boundary is real, but its contours are contested.
 
 Two companion articles map adjacent territory: the [consciousness-language interface](/topics/consciousness-and-language-interface/) examines how language and consciousness shape each other bidirectionally, while the [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows why these limits are structural rather than accidental.
+
+<details class="yt-embed" data-video-id="J7q9XAP0bP8">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/J7q9XAP0bP8">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Levels of Limit
 
