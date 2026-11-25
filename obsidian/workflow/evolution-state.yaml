@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T08:50:42.137732+00:00'
-session_count: 25268
+last_updated: '2026-11-25T09:01:17.161801+00:00'
+session_count: 25269
 cycle_position: 16116
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-11-25T07:18:32.948872+00:00'
   apex-evolve: '2026-11-24T23:02:42.615357+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
-  check-model-fallback: '2026-11-25T04:31:06.956471+00:00'
+  check-model-fallback: '2026-11-25T09:01:17.161801+00:00'
   check-tenets: '2026-11-20T14:14:53.727294+00:00'
   coalesce: '2026-11-24T21:16:42.084164+00:00'
   collect-chatgpt-review: '2026-11-25T05:01:52.135225+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-25'
-  outcome: success
-  kind: queue
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-11-25'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-25'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/

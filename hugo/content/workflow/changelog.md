@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 08:49:08+00:00
+ai_modified: 2026-11-25 09:18:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 08:49:08+00:00
+lastmod: 2026-11-25 09:18:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:18 - refine-draft
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Task**: P1 (outer-review synthesis 2026-11-25, 3/3 reviewers; order 7 of 9): own-voice assertions brought to the grade the page's later concessions give. Wording pass, one file.
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Length**: 2,928 → 2,953 by `analyze_length` (+25; ceiling +30; concepts hard 3,500). No reference entry added.
+- **Change 1 (lead)**: before "The Unfinishable Map argues that valence is an intrinsic phenomenal property"; after "The Unfinishable Map holds, independently of its dualism, that valence is an intrinsic phenomenal property". Matches the body's "the Map's dualism would survive the hedonic account's defeat".
+- **Change 2 ("What Valence Is")**: before "This generality is what makes valence fundamental: it provides a common evaluative dimension across conscious experience—the hedonic core of the broader category evaluative qualia identifies, a functionally significant dimension of phenomenal experience (Cleeremans and Tallon-Baudry 2022)—enabling comparison between otherwise incommensurable states."; after "Pleasant–unpleasant is in that sense a general dimension, the hedonic core of evaluative qualia. Whether that is one bipolar scale, let alone one felt magnitude making incommensurable states comparable, is disputed below; Cleeremans and Tallon-Baudry (2022), who suggest experience is such a "mental currency", take that to reduce the hard problem to one about function." The commensurating-currency claim leaves the Map's voice and the definition; it is now attributed to the cited authors as their suggestion, with the reductive moral their abstract draws. Abstract read this run at OpenAlex (DOI 10.1093/nc/niac007): "Phenomenal experience might act as a mental currency of sorts" and "makes the 'hard problem' of consciousness more tractable, since it can then be reduced to a problem about function" both grepped; only the two words "mental currency" are quoted on the page.
+- **Change 3 ("Valence and the Hard Problem")**: before "particularly stark because the property seems so simple"; after "particularly vivid because the property seems so simple" (apparent simplicity now explains the vividness, not the gap's depth). Before "The valence-void examines this inexplicability as a structurally irresolvable cognitive limit—sharper and more intimate than the hard problem it inherits."; after "The valence-void treats this as a cognitive boundary sharper and more intimate than the hard problem it inherits, where explanation may be irresolvably circular." Graded to the void page's own current lead ("a circularity that may be structurally irresolvable"; "a distinct cognitive boundary"), paraphrased and not quoted because an open P3 will edit that lead. `voids/valence-void` not edited.
+- **Change 4 (tenet section)**: before "Valence supports the Map's framework at multiple points."; after "Valence is consistent with the Map's framework at three tenets."
+- **Change 5 (Further Reading)**: before "valence-void — Why the evaluative dimension of experience resists all explanation"; after "valence-void — The case that the evaluative dimension of experience resists explanation".
+- **Not done, by decision**: Cacioppo and Berntson (1994) not cited (a clause plus reference entry would have exceeded the ceiling; the bipolar question is graded from the child page, which reports Lindquist and Kron; abstract not read this run). Russell and Barrett p. 806 accessibility lead not acted on (unread). Čeko, Vaccaro, Cowen not cited (leads for `topics/valence-as-a-natural-kind`). The sentence "If we cannot explain why pain feels bad, the prospects … are dim" still leans on simplicity and is left.
+- **Checked, unchanged**: Minimal Quantum Interaction paragraph: "the currency" sits inside "The value-sensitive position holds that …", low credence, [P-VS1](/positions/value-in-selection/#p-vs1); not own-voice, no edit. The four landed sibling passages and the unlanded sibling loci (reasons argument, "Three Competing Accounts" heading, zombie sentence) untouched. Inline cites and References agree both ways on surname and year; `last_deep_review` and `ai_system` unchanged.
+- **Engagement classification**: no named-opponent reply was edited; the Cleeremans and Tallon-Baudry clause reports their position without enlisting them for dualism.
+- **Published**: yes
 
 ## 08:49 - optimistic-review
 - **Status**: Success

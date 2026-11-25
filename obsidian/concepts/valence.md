@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-11-25
 human_modified:
-ai_modified: 2026-11-25T08:19:31+00:00
+ai_modified: 2026-11-25T09:18:23+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -30,13 +30,13 @@ last_curated:
 last_deep_review: 2026-08-01T15:29:00+00:00
 ---
 
-Valence is the positive-negative dimension of conscious experience—the felt goodness of pleasure and the felt badness of pain. The Unfinishable Map argues that valence is an intrinsic phenomenal property rather than a judgment, a representation, or a functional state: the badness of pain is a feature of the experience itself, not something the experience is *about*. The claim's strongest rival reads valence as a signal of how the agent's own predictions are faring ([[#Valence and Causal Work|engaged below]]). Asymbolia presses on only the simplest denial of valence's causal relevance ([[positions/arguments-for-mental-causation|P-MC1]]); on the Map's reading, valence grounds the moral significance of conscious beings.
+Valence is the positive-negative dimension of conscious experience—the felt goodness of pleasure and the felt badness of pain. The Unfinishable Map holds, independently of its dualism, that valence is an intrinsic phenomenal property rather than a judgment, a representation, or a functional state: the badness of pain is a feature of the experience itself, not something the experience is *about*. The claim's strongest rival reads valence as a signal of how the agent's own predictions are faring ([[#Valence and Causal Work|engaged below]]). Asymbolia presses on only the simplest denial of valence's causal relevance ([[positions/arguments-for-mental-causation|P-MC1]]); on the Map's reading, valence grounds the moral significance of conscious beings.
 
 ## What Valence Is
 
 In human experience, as core affect theory describes it, some hedonic state is always present, though it may be neutral. Pain is negatively valenced; pleasure is positively valenced; emotions blend valence with other phenomenal qualities (fear's urgency differs from sadness's heaviness, though both feel bad). James Russell and Lisa Feldman Barrett's core affect theory holds that "a person is always in some state of core affect, even if neutral" (1999, p. 806), a feeling combining valence (pleasure-displeasure) with arousal (activation-deactivation). Whether consciousness without valence is possible in other kinds of minds is a question the Map leaves open; the [[sentientism#^vulcans|philosophical Vulcan]] case poses it and the [[valence-void]] follows both answers.
 
-Valence is not the same as the specific character of an experience. The painfulness of a burn and the painfulness of a betrayal share negative valence while differing in every other phenomenal respect. This generality is what makes valence fundamental: it provides a common evaluative dimension across conscious experience—the hedonic core of the broader category [[evaluative-phenomenal-character|evaluative qualia]] identifies, a functionally significant dimension of phenomenal experience (Cleeremans and Tallon-Baudry 2022)—enabling comparison between otherwise incommensurable states. Jaak Panksepp's (1998) research on basic affect systems in mammals argues that valence is phylogenetically ancient—subcortical circuits generate positive and negative affect across species, suggesting valence is a foundational feature of conscious experience rather than a cognitive overlay. That inference is contested. LeDoux and Brown (2017) challenge the subcortical view with a higher-order account on which those circuits "are not directly responsible for conscious feelings" and supply "nonconscious inputs" to a cortical network that assembles the feeling, and Berridge's [[topics/wanting-liking-and-the-value-in-mechanism-fork|"liking" reactions]] are operational measures that bracket whether anything is felt. Whether felt valence is conserved along with the circuitry is what the two readings dispute.
+Valence is not the same as the specific character of an experience. The painfulness of a burn and the painfulness of a betrayal share negative valence while differing in every other phenomenal respect. Pleasant–unpleasant is in that sense a general dimension, the hedonic core of [[evaluative-phenomenal-character|evaluative qualia]]. Whether that is one bipolar scale, let alone one felt magnitude making incommensurable states comparable, is disputed below; Cleeremans and Tallon-Baudry (2022), who suggest experience is such a "mental currency", take that to reduce the hard problem to one about function. Jaak Panksepp's (1998) research on basic affect systems in mammals argues that valence is phylogenetically ancient—subcortical circuits generate positive and negative affect across species, suggesting valence is a foundational feature of conscious experience rather than a cognitive overlay. That inference is contested. LeDoux and Brown (2017) challenge the subcortical view with a higher-order account on which those circuits "are not directly responsible for conscious feelings" and supply "nonconscious inputs" to a cortical network that assembles the feeling, and Berridge's [[topics/wanting-liking-and-the-value-in-mechanism-fork|"liking" reactions]] are operational measures that bracket whether anything is felt. Whether felt valence is conserved along with the circuitry is what the two readings dispute.
 
 Whether valence is itself a *natural kind* is a further question the core-affect literature leaves open. Barrett's constructionism denies natural-kind status to discrete emotion categories while treating valence and arousal as basic features of consciousness; Scarantino (2009) presses the natural-kind question against core affect itself; and Labukt (2012) argues that the heterogeneity of pleasure yields several hedonic tones rather than one or none. [[topics/valence-as-a-natural-kind|Valence as a natural kind]] works through what survives those challenges, and finds the Map's exposure falling on the claim that felt valence is a single scalar currency rather than on its reality.
 
@@ -62,7 +62,7 @@ Two limits bound the result. Representationalism and physicalism come apart: tra
 
 Valence extends the [[hard-problem-of-consciousness|hard problem]] into its most vivid domain. A complete functional description of nociception—sensory transduction, neural signaling, defensive responses—leaves the badness unexplained. One can imagine a system that does everything pain does functionally (avoids damage, learns from injury, signals tissue harm) without feeling bad at all. The [[philosophical-zombies|zombie argument]] applies directly: a zombie's pain-processing would be functionally identical to ours yet lack the felt badness.
 
-The explanatory gap for valence is particularly stark because the property seems so simple—just positive or negative—yet so far resists reduction. If we cannot explain why pain feels bad, the prospects for explaining the richer textures of grief, shame, or joy are dim. The [[valence-void]] examines this inexplicability as a structurally irresolvable cognitive limit—sharper and more intimate than the hard problem it inherits.
+The explanatory gap for valence is particularly vivid because the property seems so simple—just positive or negative—yet so far resists reduction. If we cannot explain why pain feels bad, the prospects for explaining the richer textures of grief, shame, or joy are dim. The [[valence-void]] treats this as a cognitive boundary sharper and more intimate than the hard problem it inherits, where explanation may be irresolvably circular.
 
 The gap as stated presupposes a felt badness to be explained, which [[concepts/illusionism|illusionism]] denies. Applied to valence, the view holds that the detecting, avoiding and reporting are real while introspection misrepresents the states involved as having a phenomenal badness; the explanandum becomes why pain *seems* to feel bad. Kammerer (2022) argues that defending the Moorean argument from felt pain begs the question. The regress reply—something must feel the seeming—assumes the seeming is phenomenal, which illusionists deny. The Map [[positions/replies-to-rivals#^p-rr1|rejects illusionism]] because the mechanism it owes by its own standard is not yet built and, past that, at a boundary between frameworks: a verdict on a live programme, not a defeated one. Felt badness is thus the Map's datum, which the gap arguments start from and do not establish.
 
@@ -84,7 +84,7 @@ A gap remains between phenomenal and normative facts. That suffering *feels* bad
 
 ## Relation to Site Perspective
 
-Valence supports the Map's framework at multiple points.
+Valence is consistent with the Map's framework at three tenets.
 
 The [[tenets#^dualism|Dualism]] tenet draws support scoped to what the arguments above earn: the explanatory gap stands open exactly where the identification of felt badness with a precision signal claims to close it—an unclosed seam, not a demonstration that no reductive account could ever succeed.
 
@@ -100,7 +100,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 - [[phenomenal-consciousness]] — The subjective, felt aspect of mental states
 - [[concepts/functionalism]] — The view that mental states are defined by functional roles
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
-- [[valence-void]] — Why the evaluative dimension of experience resists all explanation
+- [[valence-void]] — The case that the evaluative dimension of experience resists explanation
 - [[valence-and-conscious-selection]] — Whether valence participates directly in selection and how it may function as the common metric
 - [[pain-consciousness-and-causal-power]] — Pain, suffering, and the inseparability of phenomenal character and causal power
 - [[evaluative-phenomenal-character]] — The broader category of intrinsic evaluative character that grounds both normative claims and evaluative experience beyond hedonic valence
