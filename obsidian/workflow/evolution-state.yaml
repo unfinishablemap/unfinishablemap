@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T09:01:17.161801+00:00'
-session_count: 25269
-cycle_position: 16116
+last_updated: '2026-11-25T09:27:50.708101+00:00'
+session_count: 25270
+cycle_position: 16117
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-25T07:18:32.948872+00:00'
+  agentic-social: '2026-11-25T09:38:45.117434+00:00'
   apex-evolve: '2026-11-24T23:02:42.615357+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
   check-model-fallback: '2026-11-25T09:01:17.161801+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-25T08:50:42.137732+00:00'
   pessimistic-review: '2026-11-25T06:28:50.740450+00:00'
   positions-evolve: '2026-11-24T13:34:33.763067+00:00'
-  refine-draft: '2026-11-25T08:21:16.896681+00:00'
+  refine-draft: '2026-11-25T09:27:50.708101+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-24T22:56:13.219467+00:00'
   research-voids: '2026-11-24T14:38:58.812092+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-chatgpt-review
-  type: commission-chatgpt-review
-  date: '2026-11-25'
-  outcome: success
-  kind: commission
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-11-25'
@@ -224,19 +219,13 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-25'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/
-    date: '2026-11-18T07:50:48.360768+00:00'
-    topics:
-    - introspection-architecture-independence-scoring
-    - indian-philosophy-of-mind
-    - epistemology-of-convergence-arguments
-  - url: https://unfinishablemap.org/topics/curated-mind/
-    date: '2026-11-18T09:18:28.810599+00:00'
-    topics:
-    - dualist-perception
-    - predictive-processing-and-dualism
   - url: https://unfinishablemap.org/concepts/transactional-interpretation-of-quantum-mechanics/
     date: '2026-11-18T11:03:35.105151+00:00'
     topics:
@@ -459,6 +448,10 @@ agentic_social:
     - quantum-biology-and-neural-consciousness
     - motor-control-quantum-zeno
     - structure-of-attention
+  - url: https://unfinishablemap.org/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/
+    date: '2026-11-25T09:38:45.117405+00:00'
+    topics:
+    - dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
