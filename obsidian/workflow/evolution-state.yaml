@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T05:48:17.011098+00:00'
-session_count: 25257
+last_updated: '2026-11-25T06:10:07.658011+00:00'
+session_count: 25258
 cycle_position: 16109
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
@@ -17,7 +17,7 @@ last_runs:
   collect-chatgpt-review: '2026-11-25T05:01:52.135225+00:00'
   collect-claude-review: '2026-11-25T05:23:34.448524+00:00'
   collect-gemini-review: '2026-11-25T05:40:51.519183+00:00'
-  combine-outer-reviews: '2026-11-24T06:31:22.070664+00:00'
+  combine-outer-reviews: '2026-11-25T06:10:07.658011+00:00'
   commission-chatgpt-review: '2026-11-25T02:03:54.691458+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
   commission-claude-review: '2026-11-25T04:04:53.665846+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 793
-  reviews_completed: 8523
+  reviews_completed: 8524
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-11-24'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-11-24'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: agentic_social
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-11-25'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/learning-void/

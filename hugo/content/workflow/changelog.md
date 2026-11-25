@@ -1,14 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 06:08:33+00:00
+ai_modified: 2026-11-25 06:27:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 06:08:33+00:00
+lastmod: 2026-11-25 06:27:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:27 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [stereopsis-void](/voids/stereopsis-void/) (first critical review; never deep-reviewed; lowest unqueued review coverage by content grep). All 24 fetchable quotations are verbatim. Four defects confirmed at source, all traceable to the unread primary source, Sacks's "Stereo Sue" (*The New Yorker*, 2006, free full text), or to abstracts: (1) Barry told Sacks before acquisition that she thought she *could* imagine stereopsis and later wrote "But I was wrong"; the page reports only "could not picture", and two host sentences (`voids/acquaintance-void`, `voids/voids`) repeat it; Sacks also records possible brief childhood stereo against "stereoblind from infancy"; (2) the Mary comparison "belongs to Maria Popova (2024)" is wrong: Barry made the grey-to-colour analogy herself, Sacks rejected it ("With color, there is no precursor"), and Dardis linked the case to Mary on the Brains Blog in October 2006; (3) Bridgeman's abstract gives a Wirt threshold of 200 arcsec before *Hugo* ("improved", "deficient"), so he is not a second stereoblind case; (4) "the Map's research found no study" of monocular-aperture stereopsis in the stereoblind misses Zlatkute's 2019 St Andrews thesis. Not checked: Barry (2015) Psychology Today (bot wall), Vishwanath and Zlatkute full texts (repository 503), Bridgeman full text.
+- **Tasks minted**: none (Priority List of four left for the driver; headroom 1,044 against voids hard 3,000, combined budget about +235)
+- **Output**: [pessimistic-2026-11-25-stereopsis-void](/reviews/pessimistic-2026-11-25-stereopsis-void/)
 
 ## 06:08 - combine-outer-reviews
 - **Status**: Success
