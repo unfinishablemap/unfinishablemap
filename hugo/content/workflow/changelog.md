@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 23:23:00+00:00
+ai_modified: 2026-11-25 23:53:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 23:23:00+00:00
+lastmod: 2026-11-25 23:53:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-25 23:53 UTC - research-topic
+- **Status**: Success
+- **Topic**: Higher-order accounts of emotional consciousness in their 2020s form (harvested from outer-review-synthesis-2026-11-25)
+- **Output**: [higher-order-accounts-of-emotional-consciousness-2020s-2026-11-25](/research/higher-order-accounts-of-emotional-consciousness-2020s-2026-11-25/)
+- **Sources consulted**: 22. Full text (Europe PMC / NCBI efetch, every quotation `str.count`-checked): Taschereau-Dumouchel et al. 2022 (whole body), LeDoux 2022 *Phil. Trans. B*, Mobbs et al. 2019, Fanselow & Pennington 2018, Engelen & Mennella 2023, Cushing et al. 2024; abstracts for LeDoux & Brown 2017, Taschereau-Dumouchel et al. 2020 and 2024, Damasio & Damasio 2023, LeDoux 2023 and 2026, Michel 2024 and 2026; metadata only (LEAD) for Taschereau-Dumouchel et al. 2026 (*Neuron*), Ludwig 2025, Panksepp et al. 2017, Friedman et al. 2014 (source of the 27–28% figure).
+- **Verdict**: fold, not article, on the merits (one programme extending a theory `concepts/higher-order-theories` already carries). Primary host `topics/emotion-and-dualism` (3477/4000): Fold A rewrites the L163 "unconscious emotions" open question to restore the Panksepp-LeDoux debate dropped at the 2026-03-17 coalesce (+131 with two references), and gives the orphaned Panksepp 1998 and LeDoux & Brown 2017 references a body home; Fold B adds the parallel-circuit rival to the L91 evolutionary argument (+84). Secondary: `voids/valence-void` L61-L63 (+48) and `topics/comparative-consciousness-and-interface-differences` L141-L143 (+54) each present Panksepp with no companion. Grades: Dualism compatible (no pressure beyond HOT generally); location question discriminable, hedonic-vs-evaluativist not; Bidirectional Interaction compatible, with discordance loosening the "tracks behaviour closely" premise for fear. Records that the Gemini 2026-11-25 review credits LeDoux 2022's prefrontal anatomy to the 2022 *Molecular Psychiatry* paper.
 
 ## 2026-11-25 23:23 UTC - optimistic-review
 - **Status**: Success
