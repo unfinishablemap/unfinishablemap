@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T06:27:41+00:00
+ai_modified: 2026-11-25T06:48:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 06:48 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/valence]]
+- **Task**: outer-review synthesis 2026-11-25, `concepts/valence` task 2 of 9 (asymbolia shorthand and "tracks" sentence; 3/3 reviewers)
+- **Original score**: not scored (`scripts/curate.py` absent; targeted outer-review fix)
+- **Length**: 2543 → 2600 by `analyze_length` (+57 net; ceiling +60; concepts hard 3500). Split: prose +45, one References entry +12 (`analyze_length` counts the reference list, URLs excluded).
+- **Changes**:
+  - "Valence and Causal Work", first paragraph. BEFORE: "patients with intact sensory pain processing but absent felt badness do not avoid painful stimuli with normal urgency. When the felt badness goes, normal avoidance goes with it—a dissociation whose causal reading is contested below." AFTER: "in the reported cases patients identify, localise and describe a painful stimulus yet show no urgency to make it stop; how much pain they retain is [disputed, linked to `concepts/pain-asymbolia`, section "What Asymbolia Dissociates"]. Where felt badness is reported absent, normal avoidance is absent too—a dissociation whose causal reading is contested below." Says what the cases preserve and lose in the specialist page's own terms (identify / localise / describe; "no urgency to make it stop") and marks the classificatory dispute without the subtraction picture.
+  - Same section, Bidirectional Interaction paragraph. BEFORE: "Asymbolia shows that the felt badness is what the intact nociception lacks and what the behavior tracks; whether it *causes* the avoidance". AFTER: "In the reported cases avoidance goes with the felt badness while nociceptive detection is preserved; whether the feeling *causes* the avoidance". "tracks" removed (count now 0); pronoun "it" replaced by "the feeling" because the subject changed.
+  - Same paragraph, sentence ADDED after the P-MC1 concession (which is kept verbatim): "Klein (2015) argues that asymbolics "have lost a general capacity to care about their bodily integrity"—a candidate common cause—and [pain behavior without reported pain, linked to `concepts/pain-asymbolia`, section "Complementary Dissociations"] is also recorded: the dissociation runs both ways." The Klein quotation is the one `concepts/pain-asymbolia` carries; "a candidate common cause" is the Map's gloss, set outside the quotation marks. The inverse dissociation is stated at the specialist page's grade ("behaviour and reported pain dissociate in both directions").
+  - "Where the Hedonic Account's Case Lies". BEFORE: "patients represent tissue damage". AFTER: "patients reportedly represent tissue damage" (one word; the rest of the paragraph untouched).
+  - References: added Klein (2015), *Mind* 124(494), 493–516, entry checked against the one on `concepts/pain-asymbolia`. Inline cites and References agree both ways on surname and year for the works these passages cite (Klein 2007 and Klein 2015 are now both present and both cited).
+- **Budget decision (for the driver)**: Griffith and Kind (2024), Duval and Klein (2025) and Hagiwara et al. (2020) are NOT named on this page. Their three References entries cost about 73 counted words on their own, above the whole +60 ceiling, so the classification dispute and the inverse dissociation are carried by section-anchored links to `concepts/pain-asymbolia`, which names and cites all three. Naming them here needs roughly +75 from the reserve.
+- **Engagement classification**: epiphenomenalist reading of asymbolia: boundary marking, unchanged in strength (the dissociation does not settle the causal reading; P-MC1). The additions are concessions against the Map's own reading (common cause; inverse dissociation), no cited author enlisted for dualism.
+- **Not cited (leads only)**: Bain's claimed explanatory advantage; Key and Brown (2024); the Schilder and Stengel cohort figures.
+- **Not touched**: task 1's functionalist paragraph (the rival model's "sensory processing intact" stays, as the rival's own description); the tenet-section sentence "the lesion's common-cause reading"; all sibling-task loci; `concepts/pain-asymbolia`; `last_deep_review`; `ai_system`.
+- **Published**: yes
 
 ## 06:34 - refine-draft
 - **Status**: Success
