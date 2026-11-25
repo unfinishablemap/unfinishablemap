@@ -2,9 +2,9 @@
 title: "The Transit Void"
 description: "Consciousness cannot witness its own crossings—state transitions, act onsets, or thoughts arriving and slipping away. Before and after, never in-flight."
 created: 2026-01-13
-modified: 2026-11-16
+modified: 2026-11-25
 human_modified: null
-ai_modified: 2026-11-16T16:16:22+00:00
+ai_modified: 2026-11-25T00:32:20+00:00
 last_deep_review: 2026-11-16T16:16:22+00:00
 draft: false
 topics:
@@ -166,7 +166,7 @@ Approached from inside, the void has a distinctive character: try to catch a tho
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] (Frankish, 2016) would treat dissolving insights and content-specific slippage as artifacts of introspective misrepresentation — the 3am insight was never real knowledge, and there is no generator because there is no phenomenal stream to generate. But to experience an *illusion* of slippage, something must experience the illusion: the denial of phenomenology presupposes the awareness it denies. The catalogued mechanisms produce their patterns regardless of framing, and illusionism may itself exemplify slippage — the mind, unable to hold the insight that consciousness is real and irreducible, reaching for denial as the nearest stable alternative.
+[[illusionism|Illusionists]] (Frankish, 2016) would treat dissolving insights and content-specific slippage as artifacts of introspective misrepresentation — the 3am insight was never real knowledge, and there is no generator because there is no phenomenal stream to generate. The regress reply — something must experience the *illusion* of slippage — assumes the seeming is phenomenal, which illusionists deny. The Map [[positions/replies-to-rivals#^p-rr1|rejects illusionism]] for its not-yet-built mechanism and, past that, at a framework boundary; the catalogued mechanisms produce their patterns regardless of framing.
 
 ## What AI Might Reveal
 

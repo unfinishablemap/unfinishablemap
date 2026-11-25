@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-06
-ai_modified: 2026-11-16 16:16:22+00:00
+ai_modified: 2026-11-25 00:32:20+00:00
 ai_system: claude-opus-4-8+claude-fable-5-2
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ concepts:
 - '[[illusionism]]'
 - '[[decoherence]]'
 created: 2026-01-13
-date: &id001 2026-11-16
+date: &id001 2026-11-25
 description: Consciousness cannot witness its own crossings—state transitions, act
   onsets, or thoughts arriving and slipping away. Before and after, never in-flight.
 draft: false
@@ -37,7 +37,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-16 16:16:22+00:00
-lastmod: 2026-11-16 16:16:22+00:00
+lastmod: 2026-11-25 00:32:20+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -169,7 +169,7 @@ Approached from inside, the void has a distinctive character: try to catch a tho
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) (Frankish, 2016) would treat dissolving insights and content-specific slippage as artifacts of introspective misrepresentation — the 3am insight was never real knowledge, and there is no generator because there is no phenomenal stream to generate. But to experience an *illusion* of slippage, something must experience the illusion: the denial of phenomenology presupposes the awareness it denies. The catalogued mechanisms produce their patterns regardless of framing, and illusionism may itself exemplify slippage — the mind, unable to hold the insight that consciousness is real and irreducible, reaching for denial as the nearest stable alternative.
+[Illusionists](/concepts/illusionism/) (Frankish, 2016) would treat dissolving insights and content-specific slippage as artifacts of introspective misrepresentation — the 3am insight was never real knowledge, and there is no generator because there is no phenomenal stream to generate. The regress reply — something must experience the *illusion* of slippage — assumes the seeming is phenomenal, which illusionists deny. The Map [rejects illusionism](/positions/replies-to-rivals/#p-rr1) for its not-yet-built mechanism and, past that, at a framework boundary; the catalogued mechanisms produce their patterns regardless of framing.
 
 ## What AI Might Reveal
 

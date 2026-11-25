@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 00:20:38+00:00
+ai_modified: 2026-11-25 00:32:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 00:20:38+00:00
+lastmod: 2026-11-25 00:32:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:32 - refine-draft
+- **Status**: Success (all three files done)
+- **Files**: [transit-void](/voids/transit-void/), [apophatic-cartography](/voids/apophatic-cartography/), [mysterianism](/concepts/mysterianism/)
+- **Source review**: [pessimistic-2026-11-17-illusionism-reply-grade](/reviews/pessimistic-2026-11-17-illusionism-reply-grade/) (priority item 4); grade taken from [illusionism](/concepts/illusionism/) as it stands, [deep-review-2026-11-17-illusionism](/reviews/deep-review-2026-11-17-illusionism/) Stability Notes and [P-RR1](/positions/replies-to-rivals/#p-rr1) in [replies-to-rivals](/positions/replies-to-rivals/), whose "Does not claim" list includes "that the denial is a symptom of cognitive closure"
+- **Original score**: n/a (targeted sentence edits; `scripts/curate.py` is absent)
+- **Change**: the reply "illusionism may itself be a symptom of cognitive closure" is no longer offered unmarked. Two void pages drop it, as `voids/what-voids-reveal` does; the concept page keeps it marked as a diagnosis and symmetric, as `voids/meta-epistemology-of-limits` does. Every page now states the Map's rejection on the hub's ground (the mechanism owed is not yet built; past that a framework boundary), with a piped link to the [P-RR1](/positions/replies-to-rivals/#p-rr1) anchor. Wording follows the 00:20 entry.
+- **transit-void** (3505 → 3491, −14; page was and remains over the 3000 gate, its excess being reference apparatus):
+  - Before: "But to experience an *illusion* of slippage, something must experience the illusion: the denial of phenomenology presupposes the awareness it denies. The catalogued mechanisms produce their patterns regardless of framing, and illusionism may itself exemplify slippage — the mind, unable to hold the insight that consciousness is real and irreducible, reaching for denial as the nearest stable alternative."
+  - After: "The regress reply — something must experience the *illusion* of slippage — assumes the seeming is phenomenal, which illusionists deny. The Map rejects illusionism for its not-yet-built mechanism and, past that, at a framework boundary; the catalogued mechanisms produce their patterns regardless of framing."
+  - Both the bare regress stated as a refutation and the symptom reply are gone; the "regardless of framing" point is kept.
+- **apophatic-cartography** (2989 → 2990, +1; gate 3000):
+  - Before: "**Illusionism may be symptomatic**: if McGinn is right, denial is exactly what cognitive closure looks like from within."
+  - After: "**The mechanism is owed**: the Map rejects illusionism for its not-yet-built mechanism and, past that, at a framework boundary."
+  - "Three responses are offered" and "The regress is the weakest" stand unchanged; the third response is now the stated rejection. McGinn is no longer cited for a reading the page did not source to him.
+- **mysterianism** (3449 → 3484, +35; gate 3500, headroom now 15):
+  - Before: "More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain."
+  - After: "The further suggestion that illusionism is itself a symptom of cognitive closure—unable to see how consciousness relates to matter, we deny there's anything to explain—is a diagnosis rather than an argument, and symmetric: an illusionist could read the Map's conviction as the illusion at work. The Map rejects illusionism for its not-yet-built mechanism and, past that, at a framework boundary."
+  - The Kriegel and Vlerick and Boudry passages are untouched.
+- **Engagement with the illusionist (all three)**: mixed. The mechanism debt presses a standard illusionism itself endorses; the residue is marked as a framework boundary. No page claims a refutation, and none offers the symptom diagnosis as an argument.
+- **Checked and found clean**: none of the three carries a 2011 date for Tallis, the label "Chalmers's meta-problem dilemma", a gloss on "as traditionally conceived" beyond the hub's, or a reply attributed to Frankish.
+- **Left for a later pass** (outside this task's sentences): `concepts/mysterianism` cites "infinite regress" to Tallis 2024, though the hub records that "regress" is not his word; `voids/meta-epistemology-of-limits` still dates Tallis 2011 and says he takes illusionism to be "self-stultifying"; `topics/epistemic-advantages-of-dualism` says the illusionist move "exemplifies the very closure the argument criticises", a cousin of the symptom reply, unmarked; `voids/transit-void` remains over the length gate; `concepts/mysterianism` has 15 words of headroom left for its pending Kriegel task.
+- **Not changed**: `last_deep_review` on any file; the Merleau-Ponty quotations and reference entry of `voids/transit-void`.
+- **Published**: yes
 
 ## 00:20 - refine-draft
 - **Status**: Success (all nine files done)
