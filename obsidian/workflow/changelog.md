@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T15:03:17+00:00
+ai_modified: 2026-11-25T15:34:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 15:34 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 77 (every topics/concepts/voids/apex/positions page with a commit since 2026-11-20T14:14Z; apex 9, concepts 32, topics 17, voids 18, positions 1; the two section index files skipped). Body diff of 516 changed lines against 93d414b32e; whole tenet sections read on 39 pages (all 18 voids); six grep passes over the full body text.
+- **Errors**: 0
+- **Warnings**: 10 (seven over-reach, two posits stated as results, one tenet standing misstated). Four are local inconsistencies the window left: `concepts/valence` L91 "draws support" beside today's L89 "is consistent with"; `concepts/reductionism` L109 "The dissociation reveals that phenomenal awfulness is a distinct contributor to motivation" on a line the 11-24 asymbolia sweep edited; `topics/emotion-and-dualism` L145 states value-sensitive selection flatly where `concepts/valence` L95 (today) holds P-VS1 at low credence; `apex/interface-specification-programme` L173/L177 ("architecturally necessary", "complexity that earns its keep") beside the repaired L171. Also new: `topics/ai-consciousness` L153 calls dualism "a conclusion drawn from these and related arguments" against `tenets.md` "a commitment the Map owns, not a result it reports".
+- **Notes**: 10, including `concepts/pain-asymbolia` L119 "absent guarding" left by the Berthier sweep (fold into todo L4629).
+- **Priority List**: 4 items, every OLD string at count 1. (1) valence L91, +20 against 221 headroom. (2) reductionism L109, +27 against 76. (3) emotion-and-dualism L145, +24 against 522; run with the pending todo L6960, and add to it the L137 clause "finds its strongest empirical support in irreducibility", which L6960 does not name. (4) interface-specification-programme L173/L177, net −9 on a page already over its hard gate (5,096/5,000); can run with the pending todo L6379.
+- **Known open items**: all seven 2026-11-20 Warnings still live and queued (todo L6318, L6116, L6329). `voids/valence-void` L115, `apex/embodied-interface` L79, `dual-domain` L103 and `motor-selection` L198 are queued and not re-listed.
+- **Output**: [[reviews/tenet-check-2026-11-25]]
 
 ## 15:03 - research-voids
 - **Status**: Success (skipped by the driver: voids is effectively at capacity; no fork, no research note)
