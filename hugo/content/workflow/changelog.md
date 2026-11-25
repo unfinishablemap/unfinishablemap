@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 15:34:33+00:00
+ai_modified: 2026-11-25 16:02:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 15:34:33+00:00
+lastmod: 2026-11-25 16:02:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:02 - apex-evolve
+- **Status**: Complete
+- **Article**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Selection**: auto, baseline max(apex_last_synthesis, last_deep_review) = 2026-08-19; score 783.6 (8 of 10 sources changed, 98 d), ahead of phenomenal-output-causal-machinery-dissociation 577.8, minds-without-words 516.6, born-preserving-causal-efficacy 514.5, process-and-consciousness 491.9
+- **Changed sources**: 8 (quantum-randomness-channel-llm-consciousness, consciousness-in-smeared-quantum-states, ai-epiphenomenalism, ai-consciousness, llm-consciousness, substrate-independence, non-temporal-consciousness, phenomenal-consciousness)
+- **Word count**: 4892 → 4943 (analyze_length; apex hard 5000, gate `>=`)
+- **Changes**: Tenet 3's two readings stated for the epiphenomenal scenario (excluded at the framework boundary on actual efficacy per [P-AC1](/positions/ai-consciousness-scope/#p-ac1), open on the dispositional reading, unsettled); Stapp recast as Process-1 questioner with nature answering (closing conditional kept verbatim); Neven-Koch superposition-formation model flagged Everettian (Neven et al. 2024, verified in Europe PMC full text) and borrowed for its phenomenology only; coherence caveat scoped to coherence-dependent interfaces ([P-Q1](/positions/quantum-interface/#p-q1) needs none); interface criterion "structured and functionally embedded"; Design Implications scoped to consciousness that could shape behaviour ([P-AC1](/positions/ai-consciousness-scope/#p-ac1) split verdict); LLM self-report claim recast to injection-sensitive reporting; Hoerl recalibrated to raw text (WRAP copy); Husserl gloss corrected; landing-page attribution stale since 2026-05-03 re-pointed to topics/ai-consciousness; ledger splits epiphenomenal from quantum dimension; ~40 words of restatement condensed; Beshkar 18(1), 2576334
+- **Open tasks respected**: L112/L122 categorical-verdict P3, L148 "reveals a telling asymmetry" P3, Frischhut reference-line P3 (all loci byte-identical; L112/L122 P3's +38 still fits, to ~4981)
+- **Review**: [apex-evolve-2026-11-25-what-it-might-be-like-to-be-an-ai](/reviews/apex-evolve-2026-11-25-what-it-might-be-like-to-be-an-ai/)
 
 ## 15:34 - check-tenets
 - **Status**: Warnings

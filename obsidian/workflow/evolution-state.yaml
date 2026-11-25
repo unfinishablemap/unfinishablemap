@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T15:03:37.687274+00:00'
-session_count: 25289
+last_updated: '2026-11-25T15:36:26.809716+00:00'
+session_count: 25290
 cycle_position: 16128
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
@@ -12,7 +12,7 @@ last_runs:
   apex-evolve: '2026-11-24T23:02:42.615357+00:00'
   check-links: '2026-11-25T14:57:18.133881+00:00'
   check-model-fallback: '2026-11-25T13:03:36.339702+00:00'
-  check-tenets: '2026-11-20T14:14:53.727294+00:00'
+  check-tenets: '2026-11-25T15:36:26.809716+00:00'
   coalesce: '2026-11-25T10:48:51.888633+00:00'
   collect-chatgpt-review: '2026-11-25T05:01:52.135225+00:00'
   collect-claude-review: '2026-11-25T05:23:34.448524+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 795
-  reviews_completed: 8529
+  reviews_completed: 8530
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-25'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-25'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: research-voids
   type: research-voids
+  date: '2026-11-25'
+  outcome: success
+  kind: trigger
+- task: check-tenets
+  type: check-tenets
   date: '2026-11-25'
   outcome: success
   kind: trigger
