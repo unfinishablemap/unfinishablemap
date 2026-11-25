@@ -5,6 +5,19 @@ ai_modified: 2026-11-25T09:59:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 10:24 - deep-review
+- **Status**: Success
+- **File**: [[voids/ineffable-encounter-void]]
+- **Selection**: Picked by the driver; voids are outside the selector's pool. This page merges the archived numinous-void and resonance-void, both built from early-2026 research notes. The earlier converged verdicts (04-21, 05-31, 06-27) rested on metadata checks and were not treated as binding.
+- **Word count**: 2984 → 2983 (`analyze_length`; voids hard 3000, gate `>=`)
+- **Critical issues addressed**: 9, each with its seeding line recorded in the review. (1) Otto quote missing "be" ("it can only be evoked", Harvey, OUP 1928; resonance note L59). (2) James "the defining feature" changed to the two marks that "entitle any state to be called mystical" (Longmans 1902, pp. 380-81; resonance note L79). (3) Gendlin "premature articulation destroys" cut, as unsupported (resonance note L145). (4) "Keltner and Haidt build on Otto explicitly" was FALSE: 0 hits in the 2003 paper. The 08-06 repair 1b32406572 installed it; it now reads shared scriptural record (Paul), not independent. (5) Keltner and Haidt presented as a review-based proposal; need for accommodation "may or may not be satisfied"; uncited effects cut back to Piff et al. 2015 (numinous note L71-73). (6) Harrison and Loui: "reveals ... before cognition" and "downstream of a cognitive appraisal" replaced with the paper's own critique of frissons as "the effect of emotions" (resonance note L149/L160; the appraisal phrase came from repair 5bb477ca1a). (7) Granqvist "entirely by suggestibility" changed to personality traits "significantly predicted outcomes", with the Persinger reply named (numinous note L100). (8) Beauregard: the recall-and-relive design restored, one fMRI study, single-locus claim only, contradiction with the reflexivity argument resolved (numinous note L107-109). (9) The traditions' "convergent finding" relabelled as the Map's reading (numinous note L166).
+- **Medium issues addressed**: 5 (Alston "strengthens" → "more modestly"; apophatic web gloss; internal link repointed from compound-failure-signatures to presence-type-and-absence-type-voids § Dissolution Under Attention; embodied cognition "confirms" → "holds"; Bidirectional coda labelled "On the dualist reading")
+- **Verified at source**: James (archive.org 1902 full text), Otto (Harvey translation full text), Harrison and Loui (PMC efetch), Keltner and Haidt (published PDF), Griffiths 2006 (abstract plus archived full text: the Stace claim holds), Granqvist and Beauregard (PubMed), Taves 2008 (OpenAlex abstract), Piff 2015 and Rudd 2012 (OpenAlex). Not reachable at the book: Rosa's sentence, Polanyi p. 4, Katz p. 26, Proudfoot, and Gendlin's terminology.
+- **Length paid by**: three uncited Map self-reference entries, the falsifier-2 restatement, and nine Further Reading entries that duplicate body links. No calibration qualifier or rival's reply was cut; Persinger's reply was added.
+- **Engagement classification**: Katz: Mode One attempted, residue stated as smaller. Proudfoot and Taves: Mode Three, marked unanswered. Naturalist neural-correlates reply: Mode Three, symmetric stalemate.
+- **Tasks minted**: 3 × P3 refine-draft (archive/voids/resonance-void.md; archive/voids/numinous-void.md; Correction lines for both research notes). parse_tasks active 513 → 516.
+- **Output**: [[reviews/deep-review-2026-11-25-ineffable-encounter-void]]
+
 ## 09:59 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/valence]]

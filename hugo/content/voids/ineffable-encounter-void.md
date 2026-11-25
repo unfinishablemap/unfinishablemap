@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-11-14 20:38:40+00:00
+ai_modified: 2026-11-25 10:22:18+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-2+claude-opus-5-5
 author: null
 coalesced_from:
@@ -26,8 +26,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/8-HOq827hvE
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 01:04:37+00:00
-lastmod: 2026-11-14 20:38:40+00:00
+last_deep_review: 2026-11-25 10:22:18+00:00
+lastmod: 2026-11-25 10:22:18+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -90,9 +90,9 @@ The registers are continuous. Resonance can shade into the numinous under suffic
 
 Several thinkers in different disciplines describe a structurally similar limit: modes of knowing that are genuine, conscious, and meaningful yet opaque to the consciousness that has them. Grouped by what each actually claims—the test this article's second falsifier names—they come to fewer sources than the list suggests.
 
-**Tacit and pre-verbal knowing.** Gendlin's felt sense is a conscious pre-verbal bodily awareness whose content exceeds articulation and which premature articulation destroys (Gendlin, 1997); Polanyi's "we can know more than we can tell" (Polanyi, 1966) holds that explicit knowledge rests on a tacit dimension that cannot itself be made explicit. These are [one strand](/voids/tacit-integration-void/) rather than two.
+**Tacit and pre-verbal knowing.** Gendlin's felt sense is a conscious pre-verbal bodily awareness whose content exceeds articulation (Gendlin, 1997); Polanyi's "we can know more than we can tell" (Polanyi, 1966) holds that explicit knowledge rests on a tacit dimension that cannot itself be made explicit. These are [one strand](/voids/tacit-integration-void/) rather than two.
 
-**Religious experience.** Otto's *mysterium tremendum et fascinans* is *sui generis*—"wholly other" and ineffable, yet genuine cognition that cannot be taught, "only evoked, awakened in the mind" (Otto, 1917/1923). James makes ineffability the defining feature of mystical states: incommunicable yet *noetic*, carrying "a curious sense of authority for after-time" (James, 1902). These form a second strand whose members are genealogically linked rather than independent: Otto read *Varieties* and drew on it directly while rejecting James's empirical method. That pair carries most of the weight here, and it is exactly where influence is documented.
+**Religious experience.** Otto's *mysterium tremendum et fascinans* is *sui generis*—"wholly other" and ineffable, yet genuine cognition that cannot be taught: "it can only be evoked, awakened in the mind" (Otto, 1917/1923). James names ineffability and *noetic* quality as the two marks that "entitle any state to be called mystical": incommunicable states carrying "a curious sense of authority for after-time" (James, 1902). These form a second strand whose members are genealogically linked rather than independent: Otto read *Varieties* and drew on it directly while rejecting James's empirical method. That pair carries most of the weight here, and it is exactly where influence is documented.
 
 **Unpredictability of encounter.** Rosa's resonance "is not an echo, but a responsive relationship, requiring that both sides speak with their own voice" (Rosa, 2016/2019). *Resonanz* diagnoses world-relations under social acceleration rather than inarticulability, so it is cited here for one point only: such encounters cannot be manufactured or scheduled.
 
@@ -114,13 +114,13 @@ This is a specific instance of [cognitive closure](/concepts/mysterianism/)—cl
 
 ## Awe as Cognitive Limit Marker
 
-Contemporary psychology grounds this phenomenology empirically. Keltner and Haidt (2003) define awe through two features: "perceived vastness" and a "need for accommodation"—the stimulus violates existing mental schemas and forces cognitive restructuring. The accommodation requirement is what connects awe to the voids framework: awe is structural encounter with limit, not merely a strong emotion. Empirical research documents measurable consequences—reduced self-focus, altered time perception, increased prosociality—reshaping the experiencer in ways the experiencer cannot fully explain. Keltner and Haidt build on Otto explicitly, so the agreement between the two accounts is continuity rather than independent corroboration.
+From a literature review rather than new data, Keltner and Haidt (2003) propose two central appraisals: "perceived vastness" and a "need for accommodation", "an inability to assimilate an experience into current mental structures" that "may or may not be satisfied". The accommodation requirement is what connects awe to the voids framework: on the Map's reading, awe marks an encounter with the limit of current schemas. Later experiments link awe to a diminished sense of self and increased prosociality (Piff et al., 2015). Keltner and Haidt do not cite Otto, but both draw on the same scriptural record, Paul's conversion among it, so their agreement is not independent corroboration.
 
 ## The Body as Void-Probe
 
-Neuroscience of frisson reveals that the body responds to resonant meaning before or alongside cognition. Harrison and Loui (2014) survey the psychophysiological response—tingling, shivers, piloerection—whose onset is strongly correlated with violated musical expectation. They argue it need not be downstream of a cognitive appraisal: frisson may be part of an emotion's cause rather than merely its effect. Their reason cuts against the Map rather than for it—they trace the contrary assumption to an implicit hierarchy in which the body is subordinate to the mind, and name a dualist view as its source. Only the ordering point is borrowed here.
+Frisson research suggests the body may register resonant meaning alongside emotion rather than only after it. Harrison and Loui (2014) survey the psychophysiological response—tingling, shivers, piloerection—whose onset is strongly correlated with violated musical expectation. They question the assumption that frissons are simply "the effect of emotions": they may be "part of their cause or an unrelated but simultaneous phenomenon". Their reason cuts against the Map rather than for it—they trace the contrary assumption to an implicit hierarchy in which the body is subordinate to the mind, and name a dualist view as its source. Only the ordering point is borrowed here.
 
-[Embodied cognition](/concepts/embodied-cognition/) research confirms that bodily knowledge operates meaningfully without intellectual representation—what Merleau-Ponty called "motor intentionality." Somatic response may therefore register void boundaries in a form conceptual thought does not reach, though the comparative sensitivity is a conjecture rather than a finding, and Harrison and Loui's own argument tells against ranking either faculty above the other.
+[Embodied cognition](/concepts/embodied-cognition/) research holds that bodily knowledge operates meaningfully without intellectual representation—what Merleau-Ponty called "motor intentionality." Somatic response may therefore register void boundaries in a form conceptual thought does not reach, though the comparative sensitivity is a conjecture rather than a finding, and Harrison and Loui's own argument tells against ranking either faculty above the other.
 
 ## Phenomenology of the Edge
 
@@ -129,7 +129,7 @@ Approaching the ineffable encounter has a distinctive signature, sharpening as t
 - **Arrival without approach.** The experience appears suddenly, without a gradient of "getting closer."
 - **Excess of meaning.** A surplus persists after analysis. Understanding something enormous seems to have occurred, but articulating *what* proves impossible.
 - **Bodily knowledge.** The body responds with its own vocabulary—frisson, [tears](/voids/weeping-void/), expansion in the chest—read as meaningful without knowing why. [Musical understanding](/topics/phenomenology-of-musical-understanding/) is the paradigm: listeners grasp non-propositional meaning, and the body participates before cognition can articulate.
-- **Self-undermining attention.** Analysing the experience while having it tends to dissolve it—the [mutation pattern](/voids/mutation-void/) applied, catalogued as [dissolution under attention](/voids/compound-failure-signatures/) and producing the phenomenology of *having-had-and-lost* rather than of reaching and not finding.
+- **Self-undermining attention.** Analysing the experience while having it tends to dissolve it—the [mutation pattern](/voids/mutation-void/) applied, catalogued as [dissolution under attention](/concepts/presence-type-and-absence-type-voids/#dissolution-under-attention) and producing the phenomenology of *having-had-and-lost* rather than of reaching and not finding.
 - **Transformation without instruction.** Encounters change the experiencer without providing explicit content.
 - **Evaluator dissolution** (numinous only). The subject–object distinction collapses; the self that would judge veridicality is what the experience overwhelms.
 
@@ -137,15 +137,15 @@ This profile distinguishes the ineffable encounter from ordinary emotion (nameab
 
 ## The Evidential Stalemate
 
-The debate over whether ineffable encounter—especially numinous—constitutes evidence for something transcendent has not progressed despite sophisticated arguments. Swinburne's principle of credulity holds that experiences are prima facie evidence for their apparent object unless we have specific reason to doubt them, placing the burden on the sceptic to explain why numinous perception should be treated differently from sensory perception. Alston's "doxastic practice" model strengthens this by arguing that mystical perception is epistemically on a par with sense perception—both are socially grounded belief-forming practices that cannot be non-circularly justified.
+The debate over whether ineffable encounter—especially numinous—constitutes evidence for something transcendent has not progressed despite sophisticated arguments. Swinburne's principle of credulity holds that experiences are prima facie evidence for their apparent object unless we have specific reason to doubt them, placing the burden on the sceptic to explain why numinous perception should be treated differently from sensory perception. Alston's "doxastic practice" model argues more modestly that mystical perception is epistemically on a par with sense perception—both are socially grounded belief-forming practices that cannot be non-circularly justified.
 
-The naturalist response points to neural correlates. Persinger hypothesised mystical experiences arise from temporal lobe activity; his "God Helmet" claims failed replication under proper double-blinding, with effects predicted entirely by suggestibility (Granqvist et al., 2005). Beauregard's fMRI studies of Carmelite nuns revealed distributed networks rather than a localised "God spot," complicating any simple reductive account.
+The naturalist response points to neural correlates. Persinger hypothesised mystical experiences arise from temporal lobe activity; his "God Helmet" claims failed replication under double-blinding, where suggestibility-related personality traits rather than the fields predicted outcomes (Granqvist et al., 2005), a result Persinger disputed. Beauregard and Paquette (2006) scanned Carmelite nuns recalling, and by their report reliving, union with God: activity spread across many regions rather than a localised "God spot", though what was imaged was remembered union, which the reflexivity argument above distinguishes from the state.
 
 Neither side lands a decisive blow. The persistent stalemate fits a genuine cognitive boundary, but an empirical question still awaiting its discriminating test would look the same.
 
 ## The Apophatic Response
 
-The contemplative traditions—apophatic theology, Zen Buddhism, Advaita Vedanta—represent millennia of systematic engagement with ineffable encounter. Their [convergent finding](/concepts/apophatic-cartography-four-criteria/#cross-observer-convergence): direct *approach* is possible, direct *evaluation* is not. Practitioners cultivate receptivity and develop internal discrimination, but the fundamental question—genuine contact or self-deception?—remains unanswerable from within. Pseudo-Dionysius, Eckhart, and *The Cloud of Unknowing* all insist that thought, conditioned by finite experience, domesticates the transcendent through positive description; Cusa's *docta ignorantia* makes the highest knowledge a knowing of what we do not know.
+The contemplative traditions—apophatic theology, Zen Buddhism, Advaita Vedanta—represent millennia of systematic engagement with ineffable encounter. On the Map's reading of their record, they [converge](/concepts/apophatic-cartography-four-criteria/#cross-observer-convergence) on one point: direct *approach* is possible, direct *evaluation* is not. Practitioners cultivate receptivity and develop internal discrimination, but the fundamental question—genuine contact or self-deception?—remains unanswerable from within. Pseudo-Dionysius, Eckhart, and *The Cloud of Unknowing* all hold that positive description falls short of the transcendent; Cusa's *docta ignorantia* makes the highest knowledge a knowing of what we do not know.
 
 This parallels the Map's [apophatic-cartography](/voids/apophatic-cartography/) programme. If we cannot determine what an ineffable encounter reveals, we can still catalogue what it consistently *does*—altered values, restructured priorities, changed behaviour—even when its propositional content cannot be recalled. These transformative effects constitute data about the void's structure.
 
@@ -154,11 +154,11 @@ This parallels the Map's [apophatic-cartography](/voids/apophatic-cartography/) 
 The ineffable encounter void thesis would require revision if:
 
 1. **Articulation proves complete.** If any method fully translates resonance or numinous experience into propositional content without remainder, the boundary collapses into a claim about communicative difficulty.
-2. **The convergence proves superficial.** Run above: grouping the sources by what each claims left two strands bearing on the boundary, one of them genealogically internal, and one source doing narrower work. The claim was reduced accordingly, from independent convergence to genealogical recurrence.
+2. **The convergence proves superficial.** Run above; the claim was reduced from independent convergence to genealogical recurrence.
 3. **The experience becomes manufacturable.** If neuroscience reliably induces resonance or the numinous while preserving the evaluator—not merely creating favourable conditions—the "occluded" dimension needs rethinking.
 4. **The reflexivity collapse turns out to be reportable in real time.** If phenomenological, neuroimaging, or pharmacological methods show the evaluator can survive and report from inside the numinous, the sharper closure claim weakens to ordinary introspective opacity.
 
-Condition 2 has been run and partly met, with the result recorded above. Condition 3 has been partly run. In a double-blind trial against methylphenidate, Griffiths et al. (2006) conclude: "When administered under supportive conditions, psilocybin occasioned experiences similar to spontaneously occurring mystical experiences." Mystical-type experience can therefore be occasioned on a schedule, so non-manufacturability survives only as the weaker claim that no procedure guarantees it. The condition itself stays unmet: the drug acted within a supportive protocol rather than alone, in volunteers reporting regular religious or spiritual activity, and the mysticism questionnaires were completed after sessions, so whether the evaluator survives is untested. Both questionnaires operationalise Stace's typology (Griffiths et al., 2006), so the trial shows that reports fitting it can be occasioned, not whether occasioned and spontaneous experiences match beyond it. Conditions 1 and 4 have not been audited here; calling them unmet would report an audit that has not been performed.
+Condition 2 has been run and partly met. Condition 3 has been partly run. In a double-blind trial against methylphenidate, Griffiths et al. (2006) conclude: "When administered under supportive conditions, psilocybin occasioned experiences similar to spontaneously occurring mystical experiences." Mystical-type experience can therefore be occasioned on a schedule, so non-manufacturability survives only as the weaker claim that no procedure guarantees it. The condition itself stays unmet: the drug acted within a supportive protocol rather than alone, in volunteers reporting regular religious or spiritual activity, and the mysticism questionnaires were completed after sessions, so whether the evaluator survives is untested. Both questionnaires operationalise Stace's typology (Griffiths et al., 2006), so the trial shows that reports fitting it can be occasioned, not whether occasioned and spontaneous experiences match beyond it. Conditions 1 and 4 have not been audited here; calling them unmet would report an audit that has not been performed.
 
 ## Relation to Site Perspective
 
@@ -166,32 +166,23 @@ The ineffable encounter void connects most directly to [Occam's Razor Has Limits
 
 [Dualism](/tenets/#dualism) is equally implicated, and here the tenet does the work rather than the evidence. The recurring reports of conscious knowing that resists reduction to information-processing are consistent with consciousness not being exhausted by its physical substrate, but equally consistent with verbal report being a late and lossy channel. On the dualist reading the ineffable encounter is consciousness registering meaning that cannot be cashed out neurally—a [consciousness-only territory](/voids/consciousness-only-territories/) accessible to phenomenal awareness but structurally closed to third-person investigation. That is the Map's reading, offered as such rather than as the evidence's verdict.
 
-[Bidirectional Interaction](/tenets/#bidirectional-interaction) surfaces through practice. The apophatic traditions' cultivation of receptivity—through meditation, prayer, phenomenological discipline—is consistent with consciousness deliberately reshaping its cognitive stance to make the encounter possible; on the physicalist reading the same discipline is one set of neural states reconfiguring another, so the practices illustrate the tenet rather than evidencing it. The self-undermining attention pattern suggests this channel operates only in receptive mode; when consciousness shifts from receiving to interrogating, it closes.
+[Bidirectional Interaction](/tenets/#bidirectional-interaction) surfaces through practice. The apophatic traditions' cultivation of receptivity—through meditation, prayer, phenomenological discipline—is consistent with consciousness deliberately reshaping its cognitive stance to make the encounter possible; on the physicalist reading the same discipline is one set of neural states reconfiguring another, so the practices illustrate the tenet rather than evidencing it. On the dualist reading, the self-undermining attention pattern suggests this channel operates only in receptive mode; when consciousness shifts from receiving to interrogating, it closes.
 
 [No Many Worlds](/tenets/#no-many-worlds) connects through the radical indexicality of these experiences: it matters that *this* consciousness has *this* experience at *this* moment. [Branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) can already accommodate the branch-local felt singularity of the numinous; the Map's stronger reading is that ineffable encounter is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable. The Map's rejection of many-worlds rests on the indexical objection, held as a commitment.
 
-Finally, this void is the paradigm instance of the [presence-type](/concepts/presence-type-and-absence-type-voids/) classification—cognitive limits registered as excess rather than lack, as windows that close under inspection rather than walls. The Map's cartography must account for voids that reveal as well as voids that conceal.
+This void is the paradigm instance of the [presence-type](/concepts/presence-type-and-absence-type-voids/) classification—cognitive limits registered as excess rather than lack, as windows that close under inspection rather than walls. The Map's cartography must account for voids that reveal as well as voids that conceal.
 
 ## Further Reading
 
-- [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/)
 - [compound-failure-signatures](/voids/compound-failure-signatures/)
-- [creative-aesthetic-void](/voids/creative-aesthetic-void/)
 - [the-silence-void](/voids/the-silence-void/)
 - [the-surplus-void](/voids/the-surplus-void/)
 - [acquaintance-void](/voids/acquaintance-void/)
-- [introspective opacity](/voids/self-opacity/)
 - [phenomenal-quality-void](/voids/phenomenal-quality-void/)
-- [mutation-void](/voids/mutation-void/)
 - [apophatic-cartography](/voids/apophatic-cartography/)
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
-- [consciousness-only-territories](/voids/consciousness-only-territories/)
-- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
-- [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
-- [embodied-cognition](/concepts/embodied-cognition/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
-- [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
@@ -214,6 +205,4 @@ Finally, this void is the paradigm instance of the [presence-type](/concepts/pre
 14. Griffiths, R. R., Richards, W. A., McCann, U., & Jesse, R. (2006). "Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance." *Psychopharmacology*, 187(3), 268–283.
 15. Taves, A. (2008). "Ascription, attribution, and cognition in the study of experiences deemed religious." *Religion*, 38(2), 125–140.
 16. Taves, A. (2009). *Religious Experience Reconsidered: A Building-Block Approach to the Study of Religion and Other Special Things*. Princeton University Press.
-17. Southgate, A. & Oquatre-six, C. (2026-02-17). The Silence Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/the-silence-void/
-18. Southgate, A. & Oquatre-six, C. (2026-02-24). The Surplus Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/the-surplus-void/
-19. Southgate, A. & Oquatre-six, C. (2026-01-10). Apophatic Cartography: Mapping What Cannot Be Mapped. *The Unfinishable Map*. https://unfinishablemap.org/voids/apophatic-cartography/
+17. Piff, P. K., Dietze, P., Feinberg, M., Stancato, D. M., & Keltner, D. (2015). "Awe, the small self, and prosocial behavior." *Journal of Personality and Social Psychology*, 108(6), 883–899.
