@@ -1,9 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T12:04:33+00:00
+ai_modified: 2026-11-25T12:43:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 12:43 - deep-review
+- **Status**: Success
+- **File**: [[voids/self-transcendence-void]] (driver-selected; voids are outside the selector pool)
+- **Word count**: 1925 → 2321 (+396, within the +400 budget; soft_warning, hard 3000). References 131 → 250; prose about +280.
+- **Critical issues addressed**: 9.
+  - Hegel's terminus reversed (PhS Intro, Baillie 1910 p. 81).
+  - Albert said to have "applied" a trilemma he coined.
+  - McGinn's P made "fully physical", an error installed by the 09-11 repair.
+  - Three *Fists Full of Sand* blog lines presented as "the Buddhist analysis", as Nanyue's metaphor, and as "practitioners report".
+  - TLP 6.54 scope and verb altered.
+  - No Many Worlds non sequitur.
+  - Fasoli et al. 2025: wrong title and venue, and an orphan reference.
+- **Medium issues addressed**: 12.
+  - The `[[self-opacity|self-reference paradox]]` label named a different live page.
+  - Two stale Further Reading titles.
+  - Two `biological-cognitive-closure` glosses.
+  - "reinforces" contradicted the page's own discount.
+  - "do not transfer" overstated a null.
+  - "hard limits" was unsupported.
+  - Gödel wording and the analogy qualifier.
+  - Lead hedge.
+  - "sharpens" → "turns the image round".
+  - Nyman restored, after the 11-01 repair dropped him.
+  - P-V3 opener added.
+  - Nagel's "blindness" sentence, unverifiable, rescoped to the OUP description.
+- **Enhancements made**: 5. Two rival replies (Albert's fallibilism; Hegel's own terminus and instrument critique), plus three verified citations: Hegel 1910, Simons et al. 2016, Herculano-Houzel 2011.
+- **Engagements**: Hegel, Mode Three (framework boundary: the Map declines the guaranteed terminus). Albert, mixed (in-framework concession, then residue marked).
+- **Seeds**: research note L59, L71, L79, L90–94, L101–102, L105, L115, L123–125, L169, L177, L212, L239. Two defects were installed by repairs, not the note: `00a6b8c46d` (McGinn "fully physical") and `f4c7f66aa9` (Nyman dropped). One came from compression at creation: the note's L70 had Albert right.
+- **Not verified**: the Nagel 1986 text (archive.org restricted; Google Books API quota zero); the 1998 *Culture and Value* English (snippet-verified 11-01 only; the German was grep-verified this pass in the 1980 bilingual edition); the Fasoli et al. abstract.
+- **Tasks minted**: two P3 refine-draft tasks (parse_tasks active 516 → 518): research-note Correction lines, and a corpus-wide relabel of `[[self-opacity|self-reference paradox]]` (31 hits in 25 files plus 4 Further Reading labels).
+- **Output**: [[reviews/deep-review-2026-11-25-self-transcendence-void]]
 
 ## 12:04 - research-topic
 - **Status**: Success

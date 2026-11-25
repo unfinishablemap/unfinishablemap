@@ -6933,6 +6933,44 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - Quote only what the note marks VERIFIED. The Yuan et al. (2025) reply and Key and Brown's 2025 letter in *Pain* are LEADS.
   OPTIONAL SECONDARY (the only other file, and only if headroom allows): the note's one-sentence pointer in `topics/pain-consciousness-and-causal-power` after "a neural severity estimate predicts that too." (+44 against 151 free at 11:48Z). An open P3 targets that page's L172: re-grep the anchor first and leave the P3 locus alone. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees. OUT OF SCOPE (recorded in the note, no edit): Brown's grounding move denies the premise `topics/acquaintance-without-causation` relies on (that evidence must causally contribute to what is built from it). It exists only as a conference abstract so far; do not edit that page.
 
+### P3: Add dated Correction lines to `research/voids-self-transcendence-void-2026-03-18`. A 2026-11-25 source pass found it seeded 9 critical defects in `voids/self-transcendence-void`
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-self-transcendence-void-2026-03-18.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-25 (`voids/self-transcendence-void`), driver-selected source pass
+- **Generated**: 2026-11-25
+- **Review file**: reviews/deep-review-2026-11-25-self-transcendence-void.md
+- **Notes**: Append a bold dated "(Correction 2026-11-25: …)" line under each flagged line, in the style of the existing 2026-09-11 correction at L51. Do not delete the original wording. Line numbers are as at mint; re-grep each before editing. The evidence for every item is in the review file's critical list and citation ledger.
+  (1) L125, L169, L177: Hegel holds the series has a terminus, so "transcendence is never complete" reverses him. See *Phenomenology* Introduction, Baillie trans. 1910 vol. 1 p. 81: "The terminus is at that point where knowledge is no longer compelled to go beyond itself".
+  (2) L123: the quoted line "the second you realize you are limited … frees you of those barriers" is not Hegel's and has no source. Hegel's own sentence is on p. 81: consciousness "immediately transcends what is limited".
+  (3) L70–71: L70 is correct (Albert coined the name). "Directly formalises" at L71 overstates; the trilemma is an informal argument against ultimate justification. Also note that Albert's own answer is the principle of critical testing (*Traktat* ch. II §5).
+  (4) L73: the "Quote" is Wikipedia's own sentence, not Albert's. Relabel it.
+  (5) L79: TLP 6.54 concerns "My propositions", which are *recognised* as nonsensical; they do not "become nonsensical".
+  (6) L84 and L81: the wording is the 1998 revised Winch translation (p. 10e). The 1980 Winch reads differently ("if the place I want to get to could only be reached by way of a ladder").
+  (7) L90, L91, L92, L94: these are the 2025 *Fists Full of Sand* blogger's own sentences and glosses. They are not a tradition's analysis, not Nanyue's metaphor, and not practitioners' reports. Nanyue's target was Mazu sitting in meditation to become a Buddha.
+  (8) L105, L212: the No Many Worlds inference is a non sequitur. Branching copies a mind and does not pool its capacities.
+  (9) L101–L102: the phrasing is the ResearchGate paper's and needs credit. "Self-referential loops introduce blind spots" is loose; the relevant result is Gödel's second theorem.
+  (10) L115: "energy metabolism sets hard limits" is unsupported. The 20%/2% figure is in Herculano-Houzel 2011 (*PLoS ONE* 6(3) e17514).
+  (11) L59: "a form of blindness — to consciousness, to value, to personhood" is unverified against the book. Replace it with the OUP description's formulation.
+  (12) L62: the Nagel "Quote" ("There is no view from nowhere, only the aspiration toward it") is unverified and probably not Nagel's. Mark it UNVERIFIED.
+  (13) L129–L136 and L239: the SSRN paper is a framework for technologically induced cognitive diminishment (TICD). The AI recursive-self-improvement and "fixed human processing speed" points are unverified as its content. The correct title has "for the Technologically Induced"; the version of record is *J. Cognitive Enhancement* 9(3) 346–359, doi 10.1007/s41465-025-00331-7.
+  Bump the note's `ai_modified` only. LENGTH: research notes are not length-gated. No browser tools.
+
+### P3: Relabel the `[[self-opacity|self-reference paradox]]` links corpus-wide. The label names a different live page, `concepts/self-reference-paradox`
+- **Type**: refine-draft
+- **File**: obsidian/voids/recursion-void.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-25 (`voids/self-transcendence-void`), sibling sweep of a defect fixed there
+- **Generated**: 2026-11-25
+- **Review file**: reviews/deep-review-2026-11-25-self-transcendence-void.md
+- **Notes**: The original void `self-reference-paradox` was archived ("Coalesced into The Unobservable Self"), and its links were retargeted to `self-opacity` with the old label kept. A live concept page `concepts/self-reference-paradox` ("The Self-Reference Paradox": formal incompleteness, instrument-object identity, inspection-induced mutation) was created on 2026-03-23. Since then, every `[[self-opacity|self-reference paradox]]` link sends readers who click "self-reference paradox" to a page titled "Self-Opacity".
+  At mint, `grep -rnoiF "[[self-opacity|self-reference paradox"` over topics/concepts/voids/apex returned 31 hits in 25 files. Four Further Reading lines also read `[[self-opacity|The Self-Reference Paradox]]`: `voids/causal-interface` L170, `voids/compound-failure-signatures` L158, `voids/formal-cognitive-limits` L150 and `voids/recursion-void` L147. In addition, `voids/what-voids-reveal` L184 glosses `[[self-opacity]]` as "Where consciousness cannot map because it is the mapper", and no such wording is on self-opacity.
+  For each hit, read the surrounding gloss:
+  - if it describes formal or Gödelian limits or instrument-object identity, retarget to `[[self-reference-paradox|…]]`;
+  - if it describes the observer unable to observe itself observing, or introspective opacity, keep `self-opacity` and relabel it (e.g. `[[self-opacity|self-opacity]]`).
+  Example: `voids/recursion-void` L38 glosses the link "(formal limits like Gödel's incompleteness)", which is a concept-page case. Fixed on `voids/self-transcendence-void` 2026-11-25, which is the model.
+  Edits are zero- or near-zero-word. Work in batches if needed and record which files are done. Re-measure each file with `analyze_length` before editing; files at or over a gate must stay length-neutral. No browser tools.
+
 ## Completed Tasks
 
 
