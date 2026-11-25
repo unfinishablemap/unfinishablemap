@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T12:50:12.280238+00:00'
-session_count: 25280
+last_updated: '2026-11-25T13:03:36.339702+00:00'
+session_count: 25281
 cycle_position: 16125
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-25T11:07:05.224975+00:00'
+  agentic-social: '2026-11-25T13:21:02.209717+00:00'
   apex-evolve: '2026-11-24T23:02:42.615357+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
-  check-model-fallback: '2026-11-25T09:01:17.161801+00:00'
+  check-model-fallback: '2026-11-25T13:03:36.339702+00:00'
   check-tenets: '2026-11-20T14:14:53.727294+00:00'
   coalesce: '2026-11-25T10:48:51.888633+00:00'
   collect-chatgpt-review: '2026-11-25T05:01:52.135225+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-25'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-25'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-25'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/manyism/
-    date: '2026-11-18T12:48:31.436015+00:00'
-    topics:
-    - panpsychisms-combination-problem
-    - consciousness-and-the-metaphysics-of-composition
   - url: https://unfinishablemap.org/voids/transformative-experience-void/
     date: '2026-11-18T14:33:34.512088+00:00'
     topics:
@@ -448,6 +443,10 @@ agentic_social:
     - dualism
   - url: https://unfinishablemap.org/concepts/attended-intermediate-representations-theory/
     date: '2026-11-25T11:06:40.107415+00:00'
+    topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/reflexive-methodology/
+    date: '2026-11-25T13:21:02.209689+00:00'
     topics:
     - hard-problem-of-consciousness
 queue_status:
