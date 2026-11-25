@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 07:34:16+00:00
+ai_modified: 2026-11-25 08:19:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 07:34:16+00:00
+lastmod: 2026-11-25 08:19:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:19 - refine-draft
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Task**: outer-review synthesis 2026-11-25, order 6 of 9 (3/3 reviewers on the Panksepp companion, 2/3 on illusionism) — the page named no illusionist account of apparent felt badness and gave Panksepp's subcortical reading no rival.
+- **Changes**:
+  - Panksepp companion ("What Valence Is"). The Panksepp sentence is unchanged. ADDED after "…rather than a cognitive overlay.": "That inference is contested. LeDoux and Brown (2017) challenge the subcortical view with a higher-order account on which those circuits "are not directly responsible for conscious feelings" and supply "nonconscious inputs" to a cortical network that assembles the feeling, and Berridge's ["liking" reactions → topics/wanting-liking-and-the-value-in-mechanism-fork] are operational measures that bracket whether anything is felt. Whether felt valence is conserved along with the circuitry is what the two readings dispute." The page does not decide between the readings.
+  - Illusionism ("Valence and the Hard Problem"). BEFORE: no occurrence of "illusionis" on the page; the gap paragraphs assumed a felt badness to be explained. ADDED as a new paragraph after the valence-void sentence: "The gap as stated presupposes a felt badness to be explained, which [illusionism → concepts/illusionism] denies. Applied to valence, the view holds that the detecting, avoiding and reporting are real while introspection misrepresents the states involved as having a phenomenal badness; the explanandum becomes why pain *seems* to feel bad. Kammerer (2022) argues that defending the Moorean argument from felt pain begs the question. The regress reply—something must feel the seeming—assumes the seeming is phenomenal, which illusionists deny. The Map [rejects illusionism → positions/replies-to-rivals#^p-rr1] because the mechanism it owes by its own standard is not yet built and, past that, at a boundary between frameworks: a verdict on a live programme, not a defeated one. Felt badness is thus the Map's datum, which the gap arguments start from and do not establish." Wording follows the 00:20 and 00:32 entries and [P-RR1](/positions/replies-to-rivals/#p-rr1); the zombie sentence is untouched and the paragraph reads the same with or without its pending conditional.
+  - References: LeDoux and Brown (2017) and Kammerer (2022) added; inline cites and entries match both ways on surname and year.
+- **Source ledger**:
+  - LeDoux and Brown (2017), PNAS 114(10), E2016–E2025: ABSTRACT AND SIGNIFICANCE STATEMENT ONLY (PMC5347624 via efetch; the body is not served there and Europe PMC returned nothing). Both quoted phrases grepped in the fetched abstract ("Although subcortical circuits are not directly responsible for conscious feelings, they provide nonconscious inputs…"). Metadata from Crossref and the PMC record. The abstract names a "traditional" subcortical view and does not name Panksepp; the page says "the subcortical view" accordingly. "Defensive behaviour without felt affect" (the task's gloss) is not in the abstract and was not written.
+  - Kammerer (2022), Phil Studies 179(9), 2845–2867: NOT OBTAINED this run (Crossref, OpenAlex and Semantic Scholar carry no abstract; Springer and PhilPapers refused the fetch). Metadata confirmed at Crossref and OpenAlex. The page says of it only what `concepts/illusionism` already reports (that defending the Moorean argument from pain "begs the question"). No named illusionist account of valence was read; the valence application is stated generically ("Applied to valence, the view holds…") from the hub's own statement of the view.
+  - Berridge: no work cited; the clause repeats what the Map's wanting-liking page says (an "operational hedonic reaction", quotation marks "bracketing the question of whether either is consciously felt").
+  - Not obtained and not cited: LeDoux 2012, LeDoux 2022, Taschereau-Dumouchel et al. 2022, Nguyen and Berridge 2021/2025, Kammerer 2021/2025/2026, Berent 2023.
+- **Length**: 2689 → 2928 by analyze_length (+239; ceiling +250): prose about +195 (companion 67, illusionism 128), reference entries about +44 (raw whitespace counts; analyze_length nets +239). Headroom to the 3500 gate is now 571.
+- **Engagement classification**: illusionism — mixed: Mode Two (the mechanism owed on illusionism's own standard is not yet built), then Mode Three (framework boundary; the bare regress is reported as assuming what illusionists deny, not as a refutation). LeDoux and Brown — Mode Three (standing rival reported; no refutation claimed). Nothing concedes epiphenomenalism; no author is enlisted for dualism; no parsimony appeal.
+- **Not changed**: `last_deep_review`; `ai_system`; the three landed sibling edits; the reasons argument; the zombie sentence; "a common evaluative dimension", "structurally irresolvable", "supports … at multiple points"; the currency paragraph.
+- **Left for a later pass**: the Relation to Site Perspective Dualism bullet still speaks of the gap standing open without noting that the illusionist denies the explanandum (no budget; the new paragraph carries it); a read of Kammerer 2022 at source would let the page say more than the hub does.
+- **Published**: yes
 
 ## 07:33 - refine-draft
 - **Status**: Success
