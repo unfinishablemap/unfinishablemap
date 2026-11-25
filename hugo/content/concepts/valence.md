@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-11-25 09:18:23+00:00
+ai_modified: 2026-11-25 09:58:19+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 15:29:00+00:00
-lastmod: 2026-11-25 09:18:23+00:00
+lastmod: 2026-11-25 09:58:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,9 +56,9 @@ Three philosophical accounts compete to explain what valence is.
 
 ### Where the Hedonic Account's Case Lies
 
-[Pain asymbolia](/concepts/pain-asymbolia/) can look like decisive evidence: patients reportedly represent tissue damage—they know their hand is burned—without feeling any badness. That rules out identifying felt badness with the detection of damage. It does not favour the hedonic account over its representational rivals, because both predict the dissociation. Evaluativists deny that asymbolics represent the damage as bad for them, and Bain (2014) argues that the missing component of their pain "consists in evaluative content"; hybrid imperativism keeps the description and loses the command, which yields what Martínez (2023) calls "the familiar asymbolic pattern of sensory pain without painfulness."
+[Pain asymbolia](/concepts/pain-asymbolia/) can look like decisive evidence: patients reportedly represent tissue damage—they know their hand is burned—without feeling any badness. That rules out identifying felt badness with the detection of damage. It does not favour the hedonic account over its representational rivals, because both predict the dissociation. Evaluativists deny that asymbolics represent the damage as bad for them, and Bain (2014) argues that the missing component of their pain "consists in evaluative content"; hybrid imperativism (Martínez 2011) keeps the description and loses the command, and its "Grahek-style" successor expects "the familiar asymbolic pattern of sensory pain without painfulness" (Martínez 2023).
 
-The hedonic account's advantage lies with reasons. A pain gives its subject a reason to be rid of the experience itself, which is why taking a painkiller that leaves the injury untouched is rational. If the unpleasantness were only a representation of the damage, removing the experience while the damage remains would be "shooting the messenger" (Jacobson 2013). Representationalists have replies (Cutter and Tye 2014), and the dispute is open, but on the hedonic account the reason needs no further machinery: the badness is in the experience, so ending the experience ends it. Objectless moods offer a second consideration. Free-floating anxiety and undirected elation feel bad or good without representing any particular thing as dangerous or fine. An evaluativist can answer that such moods represent the world at large under an evaluative aspect, which keeps that case contested rather than settling it.
+The usual case for the hedonic account concerns reasons. A pain gives its subject a reason to be rid of the experience itself, which is why taking a painkiller that leaves the injury untouched is rational. If the unpleasantness were only a representation of the damage, removing the experience while the damage remains would be "shooting the messenger" (Jacobson 2013). Cutter and Tye (2014) reply that pain's bad consequences and our natural aversion to it supply the reason; painfulness without aversion, they argue, supplies none. The consideration in any case tells only against first-order representational accounts. Reflexive imperativism explains the experience-directed motive: the command "Get less of me!" targets the experience, and taking the painkiller obeys it (Barlassina and Hayward 2019). What may still favour the hedonic account is narrower. A command explains why the subject is moved against the experience, not why the experience is bad for her; on the hedonic account the badness is in the experience, so ending the experience ends it. Bain (2019) claims the same for evaluativism. Cutter and Tye's rejoinder reaches the hedonic claim as well: if painfulness alone gave a reason, that would be a puzzle "for everyone, not just the representationalist", primitive-quale theorists included. The residue is nearer a standoff than an advantage. Objectless moods offer a second consideration. Free-floating anxiety and undirected elation feel bad or good without representing any particular thing as dangerous or fine. An evaluativist can answer that such moods represent the world at large under an evaluative aspect, and reflexive imperativism treats misery that is nothing but feeling awful as a bare reflexive command, so that case too is contested.
 
 Two limits bound the result. Representationalism and physicalism come apart: tracking versions are explicitly reductive, but the non-reductive versions Aydede (2023) distinguishes hold that the represented content resists naturalistic explanation, so the choice among these three accounts is orthogonal to the [Dualism](/tenets/#dualism) tenet, and the Map's dualism would survive the hedonic account's defeat. Nor does any of the three make valence idle: the representational accounts build motivational force into the content itself, so the question is what the felt badness is, not whether it does any work.
 
@@ -127,6 +127,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 1. Aydede, M. (2023). Is pain representational? *Belgrade Philosophical Annual*, 36(2), 25–39. https://doi.org/10.5937/bpa2302025a
 1. Bain, D. (2013). What makes pains unpleasant? *Philosophical Studies*, 166(S1), 69–89. https://doi.org/10.1007/s11098-012-0049-7
 1. Bain, D. (2014). Pains that don't hurt. *Australasian Journal of Philosophy*, 92(2), 305–320. https://doi.org/10.1080/00048402.2013.822399
+1. Bain, D. (2019). Why take painkillers? *Noûs*, 53(2), 462–490. https://doi.org/10.1111/nous.12228
 1. Barlassina, L., & Hayward, M. K. (2019). More of me! Less of me!: Reflexive imperativism about affective phenomenal character. *Mind*, 128(512), 1013–1044. https://doi.org/10.1093/mind/fzz035
 1. Cutter, B., & Tye, M. (2011). Tracking representationalism and the painfulness of pain. *Philosophical Issues*, 21(1), 90–109. https://doi.org/10.1111/j.1533-6077.2011.00199.x
 1. Cutter, B., & Tye, M. (2014). Pains and reasons: Why it is rational to kill the messenger. *The Philosophical Quarterly*, 64(256), 423–433. https://doi.org/10.1093/pq/pqu025

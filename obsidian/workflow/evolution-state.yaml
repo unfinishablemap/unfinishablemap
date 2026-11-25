@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T09:27:50.708101+00:00'
-session_count: 25270
+last_updated: '2026-11-25T09:39:38.756084+00:00'
+session_count: 25271
 cycle_position: 16117
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-25T09:38:45.117434+00:00'
+  agentic-social: '2026-11-25T09:39:38.756084+00:00'
   apex-evolve: '2026-11-24T23:02:42.615357+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
   check-model-fallback: '2026-11-25T09:01:17.161801+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-claude-review
-  type: commission-claude-review
-  date: '2026-11-25'
-  outcome: success
-  kind: commission
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-11-25'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-25'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/transactional-interpretation-of-quantum-mechanics/
