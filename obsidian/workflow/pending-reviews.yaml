@@ -124,3 +124,33 @@
   subject_articles:
   - concepts/valence.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/fa88ee17-f587-4e30-b6cc-1e71afc7c1df
+  commissioned_at: '2026-11-25T04:04:24.930542+00:00'
+  prompt_summary: 'Referee audit of concepts/valence: claims, citations, objections,
+    integration'
+  target_filename: outer-review-2026-11-25-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair academic referee and audit one article
+    on The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind site
+    arguing for interactionist dualism: the concept page on valence at https://unfinishablemap.org/concepts/valence/
+    . Read the live page itself rather than relying on search snippets, and consult
+    the changelog at https://unfinishablemap.org/workflow/changelog/ for recent edits,
+    since search indexes lag by a day or two. Assess four things. (1) Claims: which
+    are overstated, under-argued, or presented with more confidence than the evidence
+    supports? (2) Citations: verify each reference and quotation against the primary
+    source; flag misattributions, wrong dates, or paraphrases that distort the original.
+    (3) Counterarguments: what are the strongest objections from the current affective-science
+    and philosophy literature (functionalist, representationalist, evaluativist, and
+    imperativist accounts of valence) that the article fails to address or answers
+    weakly? (4) Integration: does it cohere with the site''s linked articles and stated
+    tenets, or are there internal tensions? End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit valence
+  subject_articles:
+  - concepts/valence.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-25-chatgpt-5-6-sol-pro.md

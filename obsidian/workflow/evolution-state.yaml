@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T01:49:59.717780+00:00'
-session_count: 25249
+last_updated: '2026-11-25T02:03:54.691458+00:00'
+session_count: 25250
 cycle_position: 16109
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
@@ -18,7 +18,7 @@ last_runs:
   collect-claude-review: '2026-11-24T05:55:19.325447+00:00'
   collect-gemini-review: '2026-11-24T06:06:47.811486+00:00'
   combine-outer-reviews: '2026-11-24T06:31:22.070664+00:00'
-  commission-chatgpt-review: '2026-11-24T02:19:24.350300+00:00'
+  commission-chatgpt-review: '2026-11-25T02:03:54.691458+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
   commission-claude-review: '2026-11-24T03:05:10.247355+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-24'
-  outcome: success
-  kind: agentic_social
 - task: coalesce
   type: coalesce
   date: '2026-11-24'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: queue
+- task: commission-chatgpt-review
+  type: commission-chatgpt-review
+  date: '2026-11-25'
+  outcome: success
+  kind: commission
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/learning-void/
