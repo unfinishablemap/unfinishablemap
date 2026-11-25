@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T16:04:06.894251+00:00'
-session_count: 25291
+last_updated: '2026-11-25T16:31:08.691488+00:00'
+session_count: 25292
 cycle_position: 16128
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-11-25T12:05:47.091732+00:00'
   research-voids: '2026-11-25T15:03:37.687274+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-11-18T20:50:25.085867+00:00'
+  tune-system: '2026-11-25T16:31:08.691488+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-11-25T14:07:52.963901+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 795
-  reviews_completed: 8531
+  reviews_completed: 8532
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-25'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-25'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-11-25'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-11-25'
   outcome: success
   kind: trigger
@@ -1042,8 +1042,8 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-11-25T16:27:11+00:00'
-  last_run_note: 'Run 2026-11-25 - thirtieth consecutive zero-Tier-1 run. Health green
+  last_run_note: Run 2026-11-25 - thirtieth consecutive zero-Tier-1 run. Health green
     (0 failures). Open tasks 523 (+93 in four active days); 33 blocked unchanged;
-    none of the 11-18 Tier 2/3 items acted on. See reviews/system-tune-2026-11-25.'
+    none of the 11-18 Tier 2/3 items acted on. See reviews/system-tune-2026-11-25.
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-11-25.md

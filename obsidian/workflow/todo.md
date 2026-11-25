@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt interactionist-dualism calibration in dual-domain-capabilities-in-proprioception-and-spatial-imagination
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
-- **Notes**: From topic-concept anchoring audit 2026-11-25. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: strong_assertions, underdetermination_markers.
-  - strong-assertion density 1.12/kw exceeds 1.5× anchor (0.57/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-11-25
-
-
 ### P3: Research Great-ape and corvid future planning and chimpanzee instrumental helping as present-but-limited capacities
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-25-comparative-cognition-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-comparative-cognition-wing, Uncovered Subjects and High-Priority expansion 'Ape planning, helping and consolation as present-but-limited -> fold into BC': Osvath 2009, Kabadayi & Osvath 2017, Braeuer & Call 2015 (planning beyond the immediate future; Bischof-Koehler tests) and Warneken & Tomasello 2006 / Yamamoto, Humle & Tanaka 2012 (instrumental and targeted helping) are 0/0/0 across live, research and archive (positive control 'Mulcahy' 2/0/1; 'Romero' 1/2/0). concepts/baseline-cognition states great-ape absence claims that lag the evidence. Concepts and topics are at cap (370/370), so expect recommended_action: fold, host concepts/baseline-cognition (~804 headroom at review time) or concepts/counterfactual-reasoning (~991); re-measure. An open P2/P3 refine from the same review's Priority List item 2 edits baseline-cognition L134/L126/L128/L82/L108 using Romero et al. 2010 and Mulcahy & Call 2006: the note must coordinate with it (supply verified sources that task can use) and not plan edits to those lines itself. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/great-ape-and-corvid-planning-and-chimpanzee-helping-2026-11-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'great-ape-and-corvid-planning-and-chimpanzee-helping' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7008,6 +6996,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-25: Adopt interactionist-dualism calibration in dual-domain-capabilities-in-proprioception-and-spatial-imagination
+- **Type**: refine-draft
+- **File**: obsidian/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
+- **Notes**: From topic-concept anchoring audit 2026-11-25. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 1.12/kw exceeds 1.5× anchor (0.57/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-11-25: `concepts/valence` says a zombie's pain-processing "would be functionally identical to ours" two sections before arguing that felt badness does causal work, without the conditional that `concepts/philosophical-zombies` ("The Interactionist Escape") already concedes
 - **Type**: refine-draft
