@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Over-imitation in children versus emulation in apes
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-comparative-cognition-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-comparative-cognition-wing, Uncovered Subjects and Medium-Priority expansion: Horner & Whiten 2005 and the over-imitation literature are 0/0/0 ('over-imitation', 'overimitation', 'Horner'; positive control 'Whiten' 11/0/12). It bears on the declarative-teaching and cumulative-culture claims of concepts/teaching-as-metarepresentation and concepts/cumulative-culture. Both hosts are tight (TM ~167, cumulative-culture ~155 at review time), so expect recommended_action: fold of about 100 words into one of them; re-measure, and if neither has room say so and recommend none. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/over-imitation-in-children-versus-emulation-in-apes-2026-11-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'over-imitation-in-children-versus-emulation-in-apes' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-25
-
 ### P3: Research Empirical tests of the free-energy-rate account of valence
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-25.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-11-25, Subjects the Map Does Not Cover: Voodla, Uusberg and Desender (2024) (0/0; metadata only). concepts/valence now states Joffily and Coricelli's definition of valence as the negative rate of change of free energy and Hesp et al.'s simulated T-maze model; whether either has been tested in humans is uncovered. Topics is at cap (370/370), so expect recommended_action: fold (candidate host: topics/predictive-processing-and-dualism or concepts/predictive-processing; re-measure). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/empirical-tests-of-the-free-energy-rate-account-of-valence-2026-11-25.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'empirical-tests-of-the-free-energy-rate-account-of-valence' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7029,8 +7023,97 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - `apex/minds-without-words` L97 (4,149/5,000).
   On each, add the challenge in one clause at the note's grade: Mulcahy & Call 2006; Osvath 2009 (via its author summary only); Kabadayi & Osvath 2017; and the lean readings (Lind 2018; Hampton 2019; Suddendorf & Corballis 2007 "as yet no convincing evidence"). Use the verified quotes in `research/great-ape-and-corvid-planning-and-chimpanzee-helping-2026-11-25`. ATTRIBUTION: settle at source who stated and who named the hypothesis. The note says Suddendorf & Corballis (1997) first stated it, naming it after Bischof-Köhler; `working-memory` and `counterfactual-reasoning` cite Bischof-Köhler 1985; `attentional-economics` says "discussed by Suddendorf & Corballis 2007". Read Suddendorf & Corballis 1997 (Genetic, Social and General Psychology Monographs) or a reliable statement of its own text before changing anything. Credit the idea to its originator and the name to its namer, and make all five pages agree. Report each file by name, with before/after counts, and keep each within its headroom. ai_system: append the model you actually run as only if it is absent from the whole string.
 
+### P3: Fold over-imitation (fidelity without a teacher) into `concepts/teaching-as-metarepresentation` "Cumulative Culture Connection" (research note 2026-11-25, recommended_action: fold)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/teaching-as-metarepresentation.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-25 20:5xZ (fold verdict; minted by the driver, since a fold mints nothing automatically)
+- **Generated**: 2026-11-25
+- **Review file**: research/over-imitation-in-children-versus-emulation-in-apes-2026-11-25.md
+- **Notes**: Apply the note's fold plan EXACTLY: 57 words of prose immediately after the L93 sentence beginning "Teaching amplifies accumulation, above all where a skill is causally opaque" (1 hit in obsidian and hugo at 21:0xZ), plus two references (Hoehl et al. 2019; Horner & Whiten 2005), +110 by count_words. The host was 3,332/3,500 (headroom 167), so it lands about 3,442 and leaves about 57. The note's optional +11 clause is optional; take it only if the measured total stays under 3,499. Re-measure before and after. Copy and obey the note's EIGHT guards, especially: do not call over-imitation universal (Aka children rarely do it: Berl & Hewlett 2015); do not say apes simply "emulate" (chimpanzees copied irrelevant actions on the OPAQUE box, which is not over-imitation); never cite it as an exercise of declarative control (children keep copying actions they call "silly"). Primary studies are verified at abstract depth only; Hoehl et al. 2019 was read in its OSF/PsyArXiv preprint, so cite no published page numbers. Tenet grade: compatible with the declarative-use thesis, not discriminating. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
+### P3: `concepts/cumulative-culture` L126 calls children's early cultural learning "emulative", inverting the literature (children imitate, apes emulate), and dates teaching to "age 4-5" against `concepts/teaching-as-metarepresentation`; L94 and L47 state one side of live disputes as settled
+- **Type**: refine-draft
+- **File**: obsidian/concepts/cumulative-culture.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-25 20:5xZ (`research/over-imitation-in-children-versus-emulation-in-apes-2026-11-25`) separate refine candidate; driver grep-verified 21:0xZ
+- **Generated**: 2026-11-25
+- **Review file**: research/over-imitation-in-children-versus-emulation-in-apes-2026-11-25.md
+- **Notes**: Loci (each 1 hit at 21:0xZ):
+  (1) L126, "Earlier cultural learning is emulative rather than cumulative." The over-imitation literature treats young children as high-fidelity IMITATORS (Horner & Whiten 2005) and apes as emulators, so "emulative" inverts it. The note's 0-word swap is "imitative". The same sentence's "Children become capable of deliberate improvement and teaching around age 4-5" conflicts with `concepts/teaching-as-metarepresentation` L107 (Strauss et al. 2002, teaching at age three). Read both pages and grade the age claim to what that page's source supports, length-neutral.
+  (2) L94: the "emulation is lossy, teaching transmits the unobservable" contrast omits process copying. Tennie, Call & Tomasello 2009, already in this page's References, names it alongside teaching as a human source of the ratchet; one clause.
+  (3) L47, "Apes possess the first two": a live dispute stated as settled; grade it in a clause.
+  HEADROOM: 3,344/3,500 by analyze_length (155 free), so keep all three net ≤ +20. Do NOT touch L192/L208 (open P3, todo ~L4218) or L144 (five-file "phase transition" P3). Use only the note's VERIFIED spans; Kenward 2012 age split and Whiten et al. 2009 ages are LEADS. ai_system: append the model you actually run as only if it is absent from the whole string.
+
+### P3: Correct the source defects in archived predecessor `archive/voids/attention-created-voids.md` (found by the 2026-11-25 deep review of its live successor)
+- **Type**: refine-draft
+- **File**: archive/voids/attention-created-voids.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-25 of `voids/attention-and-consciousness`
+- **Generated**: 2026-11-25
+- **Review file**: reviews/deep-review-2026-11-25-attention-and-consciousness.md
+- **Notes**: Archived pages still serve their URLs. Fix these in place (no new prose, keep the archive notice), using the verified spans in the review file's ledger:
+  (1) L61: "shades insensibly into a subconscious more" is from James, *A Pluralistic Universe* (1909), p. 288, not *Principles*. Add James 1909 to References.
+  (2) L61: the quoted "the fringes cannot be the primary focus of our attention" occurs in no fetched source (*Principles* vols 1–2, *A Pluralistic Universe*, Mangan 2007). Either remove the quotation marks and credit the reading to Mangan (2007, p. 680: "cannot be turned into nuclei by an act of attention"), or cut it.
+  (3) L65: "the centre works in one way while the margins work in another" is real James, but *A Pluralistic Universe* p. 288.
+  (4) L47–49: "The margin is organized by simultaneity … while the theme is organized by relevance". Relevance organises the thematic FIELD and Gestalt coherence the theme (Zaner 2010 pp. xxvi–xxviii). The "simultaneity" formula is unverified (`research/gurwitsch-thematic-field-2026-10-26` Gaps). Also, "what Aron Gurwitsch called the thematic field: the theme…" mislabels the whole field.
+  (5) L53–55 and ref 4: the citation should be Müller & Kleinschmidt (2004), *NeuroReport* 15(6), 977–980 (not "et al. 2005, 16(7)"). "This penumbral suppression extends beyond the immediate vicinity" contradicts the abstract ("suppressed striate activity for the nearby but not for the far locations").
+  (6) L71–73: "renders an unexpected gorilla literally invisible" drops the population (gorilla noticed by 44%, n = 96; Simons & Chabris 1999), and "never entering awareness at all" is the authors' reading (cf. Nartker et al. 2025, eLife 13 RP100337).
+  (7) L75: Mack & Rock's thesis is stated as a finding.
+  (8) L81: "Even maximal voluntary effort cannot hold one percept stable" (meditator reports; the live page says "Ordinary").
+  (9) L133: "Every attention void is thus evidence of mental causation" ([P-V3](/positions/voids-as-evidence/#p-v3); the live page was lowered 2026-10-20).
+  Do NOT add new arguments. ai_system: append the model you actually run as only if it is absent from the whole string.
+
+### P3: Correct the clinical-claim defects in archived predecessor `archive/voids/attention-disorders-and-consciousness.md` (found by the 2026-11-25 deep review of its live successor)
+- **Type**: refine-draft
+- **File**: archive/voids/attention-disorders-and-consciousness.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-25 of `voids/attention-and-consciousness`
+- **Generated**: 2026-11-25
+- **Review file**: reviews/deep-review-2026-11-25-attention-and-consciousness.md
+- **Notes**: Fix in place, using the review file's verified spans:
+  (1) L78–80, hyperfocus: "ADHD produces a striking paradox" and "sometimes exceeding what neurotypical individuals achieve" state a self-report construct as established. Grade it with Hupfeld, Abagis & Shah (2019, 11(2):191–208: adults with ADHD "often report"; correlates with symptom scores) and Groen et al. (2020, Res Dev Disabil 107, 103789: diagnosed patients vs matched controls "did not differ").
+  (2) L117: "Patients with right parietal damage lose awareness of the left visual field … vanishes without leaving a trace". Neglect follows predominantly right-hemisphere injury, affects the left side of SPACE with visual fields that can be normal, and report returns with cueing within seconds (Corbetta & Shulman 2011, Annu Rev Neurosci 34:569–599). The table row "Absent awareness of one side of space" can stay.
+  (3) Ref 1 (L146): "Barkley, R.A. (Ed.). (2015)", an edited handbook.
+  The same Barkley string also sits in `archive/topics/attention-disorders-and-quantum-interface.md` and `archive/topics/attention-disorders-and-consciousness.md`. Fix it there too if touching them (metadata only). ai_system: append the model you actually run as only if it is absent from the whole string.
+
+### P3: Add dated "Correction" lines to the two research notes that seeded `voids/attention-and-consciousness` defects
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-attention-created-voids-2026-01-29.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-25 of `voids/attention-and-consciousness`
+- **Generated**: 2026-11-25
+- **Review file**: reviews/deep-review-2026-11-25-attention-and-consciousness.md
+- **Secondary**: obsidian/research/gurwitsch-thematic-field-2026-10-26.md
+- **Notes**: Add a "Correction (2026-11-25)" line under each item below. Do not rewrite the notes. In `research/voids-attention-created-voids-2026-01-29`:
+  L80 / L85: L80 ("genuine absence from conscious experience") drops the population (gorilla missed by 56%) and ignores Nartker et al. 2025. L85 is the opening sentence of Nartker, Firestone, Egeth & Phillips (bioRxiv 2024 / eLife 2025), not of the Simons / Mack & Rock / Wikipedia material it sits under.
+  L87 / L92 / L269: the paper is Müller & Kleinschmidt 2004, 15(6) 977–980. The L92 quotation ("A suppressive zone … extends to distant fields") is not in the abstract and contradicts "not for the far locations".
+  L114–L117: these four quotations ("always has a 'Fringe'", "principally function to modify a theme and bridge gaps", "cannot be the primary focus of our attention", "imageless motion") occur in neither *Principles* vols 1–2, *A Pluralistic Universe*, nor the MANCFC source (Mangan 2007). Mangan's actual wording is p. 680, "cannot be turned into nuclei by an act of attention". L167 repeats L116.
+  L118 / L120: real James, but *A Pluralistic Universe* (1909) p. 288, not the listed source.
+  L150 / L155: the Blake, Brascamp & Heeger 2014 quotation is unverified (full text not reachable). Name the authors.
+  In the Secondary `research/gurwitsch-thematic-field-2026-10-26`:
+  L41 and L129 premise (c): the qualitative-change thesis (Zaner 2010 pp. xxv–xxvi) is Gurwitsch's, against Husserl and Stumpf, about a part singled out from its whole (Husserl's horse's head). Applying it to marginal items is the Map's extension and should be marked as such.
+  Update `modified` and `ai_modified`. ai_system: append the model you actually run as only if it is absent from the whole string.
+
+### P3: Fix the propagated James-work and Barkley-editor defects on two live siblings of `voids/attention-and-consciousness`
+- **Type**: refine-draft
+- **File**: obsidian/voids/tacit-integration-void.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-25 of `voids/attention-and-consciousness` (corpus grep for the defective strings)
+- **Generated**: 2026-11-25
+- **Review file**: reviews/deep-review-2026-11-25-attention-and-consciousness.md
+- **Secondary**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Headroom**: tacit-integration-void 2,276/3,000; attention-and-the-consciousness-interface 4,518/4,000 (already over the hard line, so net ≤ 0 there)
+- **Notes**: (1) `voids/tacit-integration-void` L65 credits "shades insensibly into a subconscious more" to "(James, 1890)". It is *A Pluralistic Universe* (1909), p. 288 (verified in the 1909 Longmans, Green printing). Change the cite to (James, 1909) and add the reference beside the existing ref 7 (James 1890), keeping ref 7 only if something else still cites it. Check the same sentence's "attending to it converts it into a centre and produces new fringes": that is Mangan's reading of James (2007, p. 680) plus a Map step, so attribute it rather than leave it as James.
+  (2) `topics/attention-and-the-consciousness-interface` L198: "Barkley, R.A. (Ed.). (2015)". Also L112: "absorption in intrinsically motivating tasks can exceed neurotypical intensity" states hyperfocus as established, against Groen et al. (2020: no difference between diagnosed patients and matched controls). Grade it in a clause at net ≤ 0 words.
+  Do NOT touch its L114 neglect passage here; `research/hemispatial-neglect-2026-09-16` owns that. ai_system: append the model you actually run as only if it is absent from the whole string.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-25: Research Over-imitation in children versus emulation in apes
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-comparative-cognition-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-comparative-cognition-wing, Uncovered Subjects and Medium-Priority expansion: Horner & Whiten 2005 and the over-imitation literature are 0/0/0 ('over-imitation', 'overimitation', 'Horner'; positive control 'Whiten' 11/0/12). It bears on the declarative-teaching and cumulative-culture claims of concepts/teaching-as-metarepresentation and concepts/cumulative-culture. Both hosts are tight (TM ~167, cumulative-culture ~155 at review time), so expect recommended_action: fold of about 100 words into one of them; re-measure, and if neither has room say so and recommend none. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/over-imitation-in-children-versus-emulation-in-apes-2026-11-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'over-imitation-in-children-versus-emulation-in-apes' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-25: Research Great-ape and corvid future planning and chimpanzee instrumental helping as present-but-limited capacities
 - **Type**: research-topic

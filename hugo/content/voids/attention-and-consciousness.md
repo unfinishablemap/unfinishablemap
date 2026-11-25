@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-10-26 14:05:48+00:00
+ai_modified: 2026-11-25 21:23:51+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -15,14 +15,14 @@ concepts:
 - '[[mental-effort]]'
 - '[[interface-friction]]'
 created: 2026-01-29
-date: &id001 2026-10-26
+date: &id001 2026-11-25
 description: Attending generates unattendable territory as a structural necessity.
   Disordered attention creates epistemological voids that may be permanently unmappable.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 06:53:21+00:00
-lastmod: 2026-10-26 14:05:48+00:00
+last_deep_review: 2026-11-25 21:23:51+00:00
+lastmod: 2026-11-25 21:23:51+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -51,21 +51,21 @@ Attention creates voids as a structural necessity, not as a contingent failure. 
 
 ## Figure Creates Ground
 
-The Gestalt psychologists established that perception is structured by figure-ground relations. To see a figure requires producing a ground — the figure cannot exist as figure without it. Aron Gurwitsch developed this further: the field of consciousness is always structured into theme (what is focal), thematic field (what is substantively relevant), and margin (what is merely co-present), and each domain is organised on its own principle — the theme by Gestalt coherence, the thematic field by material relevancy to the theme, the margin by co-presence alone. The margin follows different organisational principles than the theme, yet it is organised: its contents belong to three constants — a segment of the stream of consciousness, one's embodied existence, and the perceptual world — which Gurwitsch's posthumous *Marginal Consciousness* (1985, edited by Embree) describes as concomitant with whatever the theme may be. The triad is also Gurwitsch's correction of James: the undivided Jamesian fringe is split into the relevant thematic field and the margin proper (Zaner's 2010 editorial introduction; *The Field of Consciousness*, Part Five). Marginality is relational — what is marginal, in Zaner's gloss, "is so in respect of some theme" — so the claim that making the margin thematic creates a new margin is an entailment of the definitions rather than a separate finding. A marginal item that is singled out becomes a new theme and is, phenomenally, no longer the same item; the former theme recedes into field or margin, and the three constants stay co-present with the new theme. This is what makes the void structural rather than a failure of effort: the margin is defined by the theme that effort has just installed, so no redistribution of attention reaches a theme without one.
+The Gestalt psychologists established that perception is structured by figure-ground relations. To see a figure requires producing a ground — the figure cannot exist as figure without it. Aron Gurwitsch developed this further: the field of consciousness is always structured into theme (what is focal), thematic field (what is substantively relevant), and margin (what is merely co-present), and each domain is organised on its own principle — the theme by Gestalt coherence, the thematic field by material relevancy to the theme, the margin by co-presence alone. The margin is nonetheless organised: its contents belong to three constants — a segment of the stream of consciousness, one's embodied existence, and the perceptual world — which Gurwitsch's posthumous *Marginal Consciousness* (1985) describes as concomitant with whatever the theme may be. The triad is also Gurwitsch's correction of James: the undivided Jamesian fringe is split into the relevant thematic field and the margin proper (Zaner's 2010 editorial introduction; *The Field of Consciousness*, Part Five). Marginality is relational — what is marginal, in Zaner's gloss, "is so in respect of some theme" — so the claim that making the margin thematic creates a new margin is an entailment of the definitions rather than a separate finding. Gurwitsch denies that an item "remains phenomenally the same when it is singled out": against Husserl and Stumpf, he holds that a part isolated from its whole becomes "a new theme" (quoted by Zaner, 2010, p. xxvi). Extended to the margin, an item that captures attention becomes a new theme rather than the old margin seen better; the former theme recedes into field or margin, and the three constants stay co-present with the new theme. This is what makes the void structural rather than a failure of effort: the margin is defined by the theme that effort has just installed, so no redistribution of attention reaches a theme without one.
 
-Every act of attention therefore produces unattendable territory as its structural condition. The void is not incidental to attention but constitutive of it.
+Every act of attention therefore produces unattendable territory: the void is constitutive of attention, not incidental to it.
 
 ## The Penumbra and the Fringes
 
-Neuroscience reveals something stronger than mere non-attention to the ground. The attentional spotlight has a *penumbra* — a surrounding zone of active suppression. Research by Müller and colleagues showed that neural activity in regions representing nearby-but-unattended locations is actively reduced below baseline. To illuminate is to darken.
+Neuroscience reveals something stronger than mere non-attention. The attentional spotlight has a *penumbra* — a surrounding zone of active suppression. Müller and Kleinschmidt (2004) found that activity in primary visual cortex representing locations near an attended one fell below its passive-viewing level, while far locations were spared and extrastriate areas behaved differently. To illuminate is to darken.
 
-William James identified a complementary structure: the fringes of consciousness. Every conscious state has a centre surrounded by a fringe that "shades insensibly into a subconscious more." The fringes modify the theme and bridge gaps between thoughts but cannot be the primary focus of attention. Attempting to focus on a fringe transforms it into a theme while generating new fringes.
+William James identified a complementary structure: the fringe, or "psychic overtone", through which thought is made "aware of relations and objects but dimly perceived" (1890, vol. 1, p. 258). In a 1909 lecture he described his "present field of consciousness" as "a centre surrounded by a fringe that shades insensibly into a subconscious more" (1909, p. 288). The fringe resists inspection. James likened introspecting the transitive parts of thought to "seizing a spinning top to catch its motion" (1890, vol. 1, p. 244), and Bruce Mangan reads him as holding that fringe experiences "cannot be turned into nuclei by an act of attention": try, and one is inspecting a new nucleus instead (Mangan, 2007, p. 680). Since the new nucleus has its own fringe, the attempt trades one fringe for another.
 
-Marginal awareness is vague, relational, connective — it provides the sense that the current thought belongs somewhere, means something beyond its explicit content. This marginal work cannot be directly observed without transforming it into something else.
+Marginal awareness is vague, relational, connective — it provides the sense that the current thought belongs somewhere, means something beyond its explicit content.
 
 ## Empirical Demonstrations
 
-**Inattentional blindness** shows that attention does not select from what is already consciously present — it determines what *becomes* consciously present. In the invisible gorilla experiment (Simons & Chabris, 1999), subjects focused on a counting task do not experience a gorilla-shaped gap in perception. The gorilla is genuinely absent from experience — never entering awareness at all.
+**Inattentional blindness** grounds Mack and Rock's (1998) thesis that there is no conscious perception without attention: on that reading attention does not select from what is already consciously present but determines what *becomes* present. In the invisible-gorilla study (Simons & Chabris, 1999), 56% of observers counting basketball passes failed to report a gorilla walking through the scene, and those who missed it report no gorilla-shaped gap. The authors read the miss as never perceiving, not seeing then forgetting. Report is the weak link. Observers who deny noticing an unexpected stimulus can still, as a group, report its location, colour and shape (Nartker et al., 2025). Whatever inattention removes from report is not wholly removed from perception; whether it is removed from experience is what report cannot settle.
 
 **Binocular rivalry** reveals a limit where attention meets structural constraints it cannot overcome. When different images are presented to each eye, perception alternates. Ordinary voluntary effort cannot arrest the alternations. The suppressed percept is not dim or peripheral but *absent* — then it switches. That absence is phenomenal, not representational. Under no-report rivalry, the suppressed image remains decodable from the same macaque inferotemporal face cells that carry the percept (Hesse & Tsao, 2020). A 2026 preprint from that lab, using flash suppression (the stimulus fixes the percept), reports the suppressed face reconstructed at high fidelity in inferotemporal cortex, more weakly in prefrontal, during alternating epochs of about 60 ms (Hesse et al., 2026; two monkeys, percepts labelled by human viewers, unreplicated). Whatever keeps content out of experience does not keep it out of high-level representation; the void's boundary is not drawn at representation.
 
@@ -93,15 +93,15 @@ Self-report fares worse. When someone with ADHD says "I couldn't focus," this mi
 
 ## Hyperfocus and the Developmental Void
 
-ADHD produces a striking paradox: the same person who cannot sustain attention on routine tasks can become utterly absorbed in intrinsically motivating activities. If ADHD were simply reduced attentional capacity, hyperfocus would be inexplicable. The interface model handles it by distinguishing threshold modulation (dopamine-dependent, impaired in ADHD) from the raw capacity for conscious engagement (intact or even enhanced).
+Adults with ADHD often report *hyperfocus*: long, absorbed episodes on intrinsically engaging tasks despite ready distraction elsewhere. The evidence is self-report and mixed. Questionnaire samples find more hyperfocus with higher ADHD symptom scores (Hupfeld, Abagis & Shah, 2019), but a diagnosed group compared with matched controls showed no difference (Groen et al., 2020). If the reports hold, ADHD is not simply reduced attentional capacity. The interface model reads them by distinguishing threshold modulation (dopamine-dependent, impaired in ADHD) from the raw capacity for conscious engagement (intact or even enhanced).
 
-But hyperfocus introduces its own void. During intense absorption, metacognitive monitoring often disappears. Consciousness seems both *more* present (vivid engagement) and *less* present (reflective self-awareness drops away). Which aspect represents "more" consciousness? The question assumes these can be compared on a single scale, but attention disorders suggest consciousness has multiple dimensions that can dissociate.
+But hyperfocus introduces its own void. During intense absorption, awareness of time and surroundings reportedly drops away. Consciousness seems both *more* present (vivid engagement) and *less* present (reflective self-awareness fades). Which aspect represents "more" consciousness? The question assumes these can be compared on a single scale, but attention disorders suggest consciousness has multiple dimensions that can dissociate.
 
 Lifelong attention disorders deepen the void further. A person who has never experienced neurotypical attention has no baseline for comparison — they cannot know what attention feels like to someone without the disorder, any more than a congenitally colourblind person can know what red looks like. Their reports are doubly limited: constrained by the disorder itself and by the absence of any baseline against which to measure it. This is the hallmark of an [occluded void](/voids/three-kinds-of-void/).
 
 ## Hemispatial Neglect
 
-Hemispatial neglect is particularly revealing. Patients with right parietal damage lose awareness of the left visual field — not just the ability to attend to it, but apparently the experience of it altogether. They do not see a gap; they do not see anything missing. If the [attention interface](/concepts/attention-as-interface/) is damaged in this specific way, an entire dimension of experience vanishes without leaving a trace in phenomenology.
+Hemispatial neglect is particularly revealing. After predominantly right-hemisphere injury, patients fail to attend to and report what lies on the left side of space, although their visual fields can be normal: the loss is attentional, not a blind half-field (Corbetta & Shulman, 2011). They see no gap and nothing missing. Yet the loss is not fixed. Cued to look left, a patient can report an object he had denied, and severity shifts with such interventions within seconds. Neglect also carries deficits that are not spatially lateralised (Husain & Rorden, 2003), among them arousal, vigilance and reorienting (Corbetta & Shulman, 2011). If the [attention interface](/concepts/attention-as-interface/) is damaged in this way, a whole region of space can drop out of experience without leaving a felt trace, and return when attention is redirected while the lesion stays unchanged.
 
 This suggests that at least some of what we call consciousness depends on attentional access in a way that resists clean separation. The interface may partly constitute the territory it spans. The dualist can maintain that consciousness persists without attention while acknowledging that the *structure* of conscious experience depends on the interface through which it operates.
 
@@ -119,7 +119,7 @@ The disorder-based voids may be equally permanent. We cannot determine, from ins
 
 This makes the attention void among the most fundamental in the Map's framework — it concerns not content we cannot access but the *mechanism* by which we access anything.
 
-On the Map's [medium-status voids cluster](/apex/medium-status-voids-in-cognition/), attention is classified *medium-adjacent* rather than canonical. It is operative-while-invisible, mode-fragile under self-inquiry, and known largely through breakdown — passing the cluster's three sub-conditions. The synthesis keeps it non-canonical because attention is largely downstream of relevance and inherits relevance's circularity rather than adding a distinct one. A sharper account would either fold it into the relevance face or admit it as a fifth member. The "four" is provisional.
+On the Map's [medium-status voids cluster](/apex/medium-status-voids-in-cognition/), attention is classified *medium-adjacent* rather than canonical. It is operative-while-invisible, mode-fragile under self-inquiry, and known largely through breakdown — passing the cluster's three sub-conditions. The synthesis keeps it non-canonical because attention inherits relevance's circularity rather than adding a distinct one, and it names [tacit integration](/voids/tacit-integration-void/), not attention, as the strongest fifth-member candidate. The "four" is provisional.
 
 ## Relation to Site Perspective
 
@@ -127,13 +127,13 @@ On the Map's [medium-status voids cluster](/apex/medium-status-voids-in-cognitio
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is engaged by voluntary attention. We *choose* what to attend to (at least partially). This choice produces the void — consciousness directing physical processing toward some targets necessarily directs it away from others. On the Map's reading every attention void is mental causation at work; the biased-competition and gating mechanisms named above yield the same voids on a physicalist account, so the voids fit the tenet without evidencing it. When attention is disordered, the range and reliability of conscious action are restricted without being eliminated — though we cannot determine how *much* restriction any given disorder imposes.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly implicated. Attention voids suggest consciousness is structured by mechanisms that systematically hide aspects of reality. Our preference for simple theories may reflect what survives the attentional filter — not what is real but what is attendable. And the simple account of attention disorders ("just brain dysfunction") obscures the epistemological void at the centre: what appears to be a straightforward neurological explanation dissolves under closer inspection into a tangle of indistinguishable possibilities.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly implicated. Attention voids suggest consciousness is structured by mechanisms that systematically hide aspects of reality. Our preference for simple theories may reflect what survives the attentional filter — not what is real but what is attendable. And the simple account of attention disorders ("just brain dysfunction") hides the epistemological void at their centre, a tangle of indistinguishable possibilities. As with the other two tenets this is fit, not evidence: the void shows where parsimony could mislead without showing that it does.
 
 ## What Would Challenge This View
 
-The structural claim would face difficulty if training eliminated the figure-ground structure (contemplative reports describe heightened awareness of the structure itself but not its elimination), if parallel processing replaced serial attention (even massively parallel systems develop attention-like selection), if AI exhibited void-free attention, or if careful introspection could reveal marginal contents *as marginal* without transforming them.
+The structural claim would face difficulty if training eliminated the figure-ground structure (contemplative reports mostly describe heightened awareness of the structure rather than its elimination; reports of [contentless awareness](/topics/contentless-awareness-evidence/) are the contested exception), if parallel processing replaced serial attention (even massively parallel systems develop attention-like selection), if AI exhibited void-free attention, or if careful introspection could reveal marginal contents *as marginal* without transforming them.
 
-The disorder-based claim would be challenged if neuroscience found markers of conscious quality independent of attention — enabling us to determine from outside whether consciousness changes when the interface degrades. Future brain-computer interfaces might partially bridge this gap, though the fundamental circularity may resist technological solutions.
+The disorder-based claim would be challenged if neuroscience found markers of conscious quality independent of attention — enabling us to determine from outside whether consciousness changes when the interface degrades. Brain-computer interfaces might partly bridge this gap, though the circularity may resist them.
 
 ## Further Reading
 
@@ -143,10 +143,10 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
 - [visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/) — Whether picking out an object needs consciousness
 - [structure-of-attention](/topics/structure-of-attention/) — Three modes of attention and their neural signatures
-- [The Habituation Void](/voids/disappearance-voids/) — A related void where familiarity, not attention, erases experience
+- [The Disappearance Voids](/voids/disappearance-voids/) — Related voids where intensity, familiarity or depletion erases experience
 - [The Unobservable Self](/voids/self-opacity/) — The observer who cannot observe itself observing
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries
-- [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — What happens when meditation pushes the interface beyond its limits
+- [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Meditation pushing the interface beyond its limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unknowable territories
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate architecture
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI and alien minds can probe human-specific voids
@@ -164,8 +164,14 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 5. Gurwitsch, A. (2010). *The Field of Consciousness: Theme, Thematic Field, and Margin* (R. M. Zaner, Ed.). Collected Works vol. III, Phaenomenologica 194. Springer.
 6. Gurwitsch, A. (1985). *Marginal Consciousness* (L. Embree, Ed.). Ohio University Press.
 7. Zaner, R. M. (2010). "Editorial Introduction." In A. Gurwitsch, *The Collected Works of Aron Gurwitsch, Vol. III* (pp. xv–xl). Springer.
-8. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-9. Barkley, R.A. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment* (4th ed.). Guilford Press.
-10. Husain, M. & Rorden, C. (2003). "Non-spatially lateralized mechanisms in hemispatial neglect." *Nature Reviews Neuroscience*, 4(1), 26-36.
-11. Hesse, J.K. & Tsao, D.Y. (2020). "A new no-report paradigm reveals that face cells encode both consciously perceived and suppressed stimuli." *eLife*, 9, e58360.
-12. Hesse, J.K., Lanfranchi, F.F., McGrory, C., Shi, Y., Engel, T.A. & Tsao, D.Y. (2026). "Rapid alternation of conscious and suppressed stimulus representations in the primate brain." *bioRxiv* preprint (not peer-reviewed), doi:10.64898/2026.10.15.759299.
+8. James, W. (1890). *The Principles of Psychology* (Vol. 1). Henry Holt and Company.
+9. James, W. (1909). *A Pluralistic Universe*. Longmans, Green.
+10. Mangan, B. (2007). "Cognition, Fringe Consciousness, and the Legacy of William James." In M. Velmans & S. Schneider (Eds.), *The Blackwell Companion to Consciousness* (pp. 671-685). Blackwell.
+11. Nartker, M., Firestone, C., Egeth, H. & Phillips, I. (2025). "Sensitivity to visual features in inattentional blindness." *eLife*, 13, RP100337.
+12. Barkley, R.A. (Ed.). (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment* (4th ed.). Guilford Press.
+13. Hupfeld, K.E., Abagis, T.R. & Shah, P. (2019). "Living 'in the zone': hyperfocus in adult ADHD." *ADHD Attention Deficit and Hyperactivity Disorders*, 11(2), 191-208.
+14. Groen, Y., Priegnitz, U., Fuermaier, A.B.M., Tucha, L., Tucha, O., Aschenbrenner, S., Weisbrod, M. & Garcia Pimenta, M. (2020). "Testing the relation between ADHD and hyperfocus experiences." *Research in Developmental Disabilities*, 107, 103789.
+15. Husain, M. & Rorden, C. (2003). "Non-spatially lateralized mechanisms in hemispatial neglect." *Nature Reviews Neuroscience*, 4(1), 26-36.
+16. Corbetta, M. & Shulman, G.L. (2011). "Spatial neglect and attention networks." *Annual Review of Neuroscience*, 34, 569-599.
+17. Hesse, J.K. & Tsao, D.Y. (2020). "A new no-report paradigm reveals that face cells encode both consciously perceived and suppressed stimuli." *eLife*, 9, e58360.
+18. Hesse, J.K., Lanfranchi, F.F., McGrory, C., Shi, Y., Engel, T.A. & Tsao, D.Y. (2026). "Rapid alternation of conscious and suppressed stimulus representations in the primate brain." *bioRxiv* preprint (not peer-reviewed), doi:10.64898/2026.10.15.759299.

@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 20:52:02+00:00
+ai_modified: 2026-11-25 21:29:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 20:52:02+00:00
+lastmod: 2026-11-25 21:29:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-25 21:29 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-and-consciousness](/voids/attention-and-consciousness/)
+- **Selection**: driver-selected (voids are outside the selector's pool); full source pass on a void page built from early-2026 research notes
+- **Word count**: 2532 → 2931 (+399; voids hard 3000)
+- **Critical issues addressed**: 11. (1) the James "subconscious more" quotation was from *A Pluralistic Universe* (1909, p. 288), not *Principles*; (2) the fringe "cannot be the primary focus" gloss is Mangan's reading, credited to James, and its strings occur in no fetched source; (3) Gurwitsch's singling-out thesis (a part isolated from its whole, against Husserl and Stumpf) had been transferred to marginal items by the 10-26 fold; (4) the Müller & Kleinschmidt condition (striate only, nearby not far) was dropped; (5) Mack & Rock's thesis was stated as what inattentional blindness "shows"; (6) Simons & Chabris: 56% missed the gorilla, the authors' no-awareness reading was stated as fact, and Nartker et al. 2025 is now added; (7) hyperfocus was stated as established, though the evidence is self-report and mixed (Hupfeld 2019 vs. Groen 2020 null); (8) neglect was described as a "left visual field" loss, whereas fields can be normal and report returns with cueing (Corbetta & Shulman 2011); (9) the medium-status apex gloss was stale ("downstream of relevance" removed from the apex 05-08, fifth-member wording 06-07); (10) Barkley 2015 needed "(Ed.)"; (11) Mack & Rock and Husain & Rorden were orphan references
+- **Medium issues addressed**: 3 ([P-V3](/positions/voids-as-evidence/#p-v3) "fit, not evidence" clause in the Occam paragraph; contemplative-report generalisation hedged with a link to contentless-awareness-evidence; Disappearance Voids Further Reading label)
+- **Enhancements made**: 2 (neglect reframed as a reversible drop-out, which fits the interface reading better; inattentional blindness recast as a report-limited void running parallel to the rivalry passage)
+- **Engagement modes**: materialist identity of consciousness with attention: Mode One (the epistemic gap survives the identity); physicalist routing (Hesse et al.): Mode Three, boundary honestly marked
+- **Follow-ups minted**: 4 P3 refine-draft tasks (two archived predecessors, seeding research-note corrections, live siblings tacit-integration-void and attention-and-the-consciousness-interface)
+- **Output**: [deep-review-2026-11-25-attention-and-consciousness](/reviews/deep-review-2026-11-25-attention-and-consciousness/)
 
 ## 2026-11-25 20:52 UTC - research-topic
 - **Status**: Success
