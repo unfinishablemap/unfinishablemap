@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 12:43:00+00:00
+ai_modified: 2026-11-25 12:49:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 12:43:00+00:00
+lastmod: 2026-11-25 12:49:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:49 - refine-draft
+- **Status**: Success
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Task**: outer review 2026-11-25 (ChatGPT 5.6 Sol Pro, audit of `concepts/valence`), §2.7 and improvement item 13: the lead's behavioural sentence was categorical above a body that says the Map "should not lean on a pristine one-variable reading". Wording pass, one sentence, one file.
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Length**: 3,283 → 3,296 by `analyze_length` (+13; ceiling +30; concepts hard 3,500, gate `>=`). No reference entry added, no new source, no quotation marks added.
+- **Change (lead, L40)**: before "They do not withdraw, guard injured limbs, or show distress."; after "In the reported cases they fail to withdraw, their emotional responses are absent or inadequate, and they seem unable to learn protective responses." Scope is now the reported cases; distress is graded "absent or inadequate" (the grade the body gives at "What Asymbolia Dissociates"); learning is hedged with "seem"; "guard injured limbs" is dropped.
+- **Source check this run**: Berthier, Starkstein and Leiguarda (1988) abstract read at OpenAlex (DOI 10.1002/ana.410240109, abstract_inverted_index reconstructed). Grepped, count 1 each: "lack of withdrawal", "absent or inadequate emotional responses", "seemed unable to learn appropriate escape or protective responses". The new lead paraphrases these without quotation marks. The withdrawal clause stays at absence grade because the abstract reports "lack of withdrawal" in all six patients and no cited source reports reduced withdrawal in asymbolia; the reduced-or-absent grade is carried by the emotional-response clause, as the source supports. "Guard" had a source only for one 1940 patient (Hemphill and Stengel, quoted in Klein 2015, about guarding himself against a threat), so it was removed from the lead rather than kept as a general claim.
+- **Referents**: the next sentence ("The Unfinishable Map holds that pain asymbolia is among …") names its subject and has no pronoun pointing back; unchanged and reads correctly. "they" in the new sentence refers to the first sentence's "patients".
+- **Not touched**: L59 ("no grimacing, no withdrawal"), the L73 and L81 paragraphs, "Complementary Dissociations" (open P3, phantom pain as the only inverse), and the imperativist/evaluativist fold (open P3). `ai_system` unchanged (already contains claude-opus-5-5); `last_deep_review` unchanged.
+- **Sibling task**: the open P3 "After the 2026-11-24 'seek treatment' fix, asymbolia pages still say patients fail to 'guard injured limbs' or 'seek relief' …" — its lead locus (pain-asymbolia ~L40) is now DISCHARGED by this edit. Its archive loci remain open: `archive/topics/why-pain-hurts.md` and `archive/topics/phenomenology-of-pain.md` ("do not withdraw, grimace, or seek relief"); not edited here.
+- **Published**: yes
 
 ## 12:43 - deep-review
 - **Status**: Success
