@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-11-25
 human_modified:
-ai_modified: 2026-11-25T14:04:42+00:00
+ai_modified: 2026-11-25T14:19:32+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -62,7 +62,7 @@ Two limits bound the result. Representationalism and physicalism come apart: tra
 
 ## Valence and the Hard Problem
 
-Valence extends the [[hard-problem-of-consciousness|hard problem]] into its most vivid domain. A complete functional description of nociception—sensory transduction, neural signaling, defensive responses—leaves the badness unexplained. One can imagine a system that does everything pain does functionally (avoids damage, learns from injury, signals tissue harm) without feeling bad at all. The [[philosophical-zombies|zombie argument]] applies directly: a zombie's pain-processing would be functionally identical to ours yet lack the felt badness.
+Valence extends the [[hard-problem-of-consciousness|hard problem]] into its most vivid domain. A complete functional description of nociception—sensory transduction, neural signaling, defensive responses—leaves the badness unexplained. One can imagine a system that does everything pain does functionally (avoids damage, learns from injury, signals tissue harm) without feeling bad at all. The [[philosophical-zombies|zombie argument]] applies at the level of conceivability: a zombie's pain-processing would be functionally identical to ours yet lack the felt badness. The case isolates what a functional description leaves out; on the Map's own interactionism, though, a physical duplicate lacking felt badness would not process pain identically, so the full stipulation holds only with causal closure bracketed and the argument is [[philosophical-zombies#The Interactionist Escape|conditional]].
 
 The explanatory gap for valence is particularly vivid because the property seems so simple—just positive or negative—yet so far resists reduction. If we cannot explain why pain feels bad, the prospects for explaining the richer textures of grief, shame, or joy are dim. The [[valence-void]] treats this as a cognitive boundary sharper and more intimate than the hard problem it inherits, where explanation may be irresolvably circular.
 
