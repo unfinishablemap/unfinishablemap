@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 20:05:56+00:00
+ai_modified: 2026-11-25 20:52:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 20:05:56+00:00
+lastmod: 2026-11-25 20:52:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-25 20:52 UTC - research-topic
+- **Status**: Success
+- **Topic**: Over-imitation in children versus emulation in apes (harvested from optimistic-2026-11-25-comparative-cognition-wing)
+- **Output**: [over-imitation-in-children-versus-emulation-in-apes-2026-11-25](/research/over-imitation-in-children-versus-emulation-in-apes-2026-11-25/)
+- **Sources consulted**: 28 (27 cited; PubMed abstracts for all primary studies, as PMC/Europe PMC full text was unavailable; Hoehl et al. 2019 full text from its OSF/PsyArXiv deposit; OpenAlex and Crossref for metadata; 1 WebSearch)
+- **Verdict**: `fold` into `concepts/teaching-as-metarepresentation`. The passage is +110 words with 2 references (3,332 → 3,442; headroom 167 → 57), inserted after the L93 opacity sentence. A separate refine candidate for `concepts/cumulative-culture` covers L126 ("Earlier cultural learning is emulative", reversed against the literature), L94 (the emulation/teaching binary omits over-imitation) and L47 (a contested grant of faithful transmission to apes).
 
 ## 2026-11-25 20:05 UTC - research-topic
 - **Status**: Success
