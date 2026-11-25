@@ -5,6 +5,13 @@ ai_modified: 2026-11-25T21:29:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-25 22:31 UTC - research-topic
+- **Status**: Success
+- **Topic**: Empirical tests of the free-energy-rate account of valence
+- **Output**: [[research/empirical-tests-of-the-free-energy-rate-account-of-valence-2026-11-25]]
+- **Sources consulted**: 18 (full text: Joffily & Coricelli 2013, Hesp et al. 2021 proof, Voodla et al. 2024, Vrantsidis et al. 2025 preprint, Parr et al. preprint; abstracts for the rest)
+- **Verdict**: fold into `concepts/valence` L75 (Variant C, +77 measured; D3 +122 alternative). Both cited models are simulation-only; three human tests (2024, 2025 preprint, 2026) do not converge; no bearing on the hedonic-vs-representational dispute
+
 ## 2026-11-25 21:29 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/attention-and-consciousness]]

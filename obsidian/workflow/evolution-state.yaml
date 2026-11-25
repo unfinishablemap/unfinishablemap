@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T21:47:45.981300+00:00'
-session_count: 25306
+last_updated: '2026-11-25T22:05:38.198874+00:00'
+session_count: 25307
 cycle_position: 16137
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-25T22:05:15.646869+00:00'
+  agentic-social: '2026-11-25T22:05:38.198874+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-25T14:57:18.133881+00:00'
   check-model-fallback: '2026-11-25T21:47:45.981300+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-11-25'
-  outcome: success
-  kind: trigger
 - task: check-links
   type: check-links
   date: '2026-11-25'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-25'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/conceptual-impossibility/
