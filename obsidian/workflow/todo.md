@@ -6982,6 +6982,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: reviews/tenet-check-2026-11-25.md
 - **Notes**: TWO loci, one pass. (1) L153: "The Map treats dualism as a conclusion drawn from these and related arguments". `tenets.md` frames the tenets as commitments the Map owns, not results it reports. The report suggests a net −1 phrase swap (for example "The Map holds dualism as a commitment that these and related arguments bear on"); read the paragraph to its end and keep any argument-grade wording that follows. (2) L137: "structured, local, and direct". The apex-evolve pass on `apex/what-it-might-be-like-to-be-an-ai` (commit 7679b823) brought that page's interface criterion to "structured and functionally embedded", after its sources. Check the current wording in `positions/quantum-interface` (P-Q1) and the apex before choosing the replacement; a one-clause change. HEADROOM: 3,970/4,000 by analyze_length at 16:1xZ (topics hard limit; gate `>=`; headroom 29), so keep the two edits net ≤ +5. ai_system: append the model you actually run as only if it is absent from the whole string.
 
+### P3: `concepts/inventory-blindness` L87 calls Susan Barry "stereoblind from infancy", the simplification the 2026-11-25 stereopsis-void refine corrected against Sacks (2006)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/inventory-blindness.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-25 17:13Z (stereopsis-void, commit bde81a84) out-of-scope report; driver-verified 17:1xZ (1 hit on L87)
+- **Generated**: 2026-11-25
+- **Review file**: reviews/pessimistic-2026-11-25-stereopsis-void.md
+- **Notes**: L87 reads "Susan Barry, stereoblind from infancy, reports that she had not suspected she saw differently …". Sacks, "Stereo Sue", *The New Yorker* (2006), records possible fleeting childhood glimpses of stereo, so `voids/stereopsis-void` now says "stereoblind until 48 (save perhaps fleeting childhood glimpses)". Bring L87 to the same grade, length-neutral (for example "stereoblind until adulthood"). Re-grep the live stereopsis-void lead for the exact wording first, and quote nothing from Sacks that you have not grepped in the full text this run. The rest of L87 (her not suspecting she saw differently until a college lecture) is not part of this task; leave it unless the same source contradicts it. The page is 2,239/3,500 by analyze_length. An open P3 on this file's frontmatter description (todo ~L3257) is a separate locus: leave it. ALSO, not this task: `research/voids-stereopsis-void-2026-11-11.md` still carries the old strings. Research notes are left as historical records unless a correction-lines task is minted, so do not edit it here. ai_system: append the model you actually run as only if it is absent from the whole string.
+
 ## Completed Tasks
 
 
