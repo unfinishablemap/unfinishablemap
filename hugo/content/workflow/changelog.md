@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 00:32:45+00:00
+ai_modified: 2026-11-25 01:06:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 00:32:45+00:00
+lastmod: 2026-11-25 01:06:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:06 - refine-draft
+- **Status**: Success (items 1, 2, 4, 5 applied; item 3 read at abstract depth and deliberately left uncited)
+- **File**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Word count**: 3061 → 3172 by `analyze_length` (topics soft 3000, hard 4000). Additions about +175 (three body sentences, three reference lines, one URL); trims about −65 of restatement (the "worth making explicit" bridge, the "most significant moral questions of the present era" sentence, the second statement of the explanatory gap, the "most challenging frontier" tail, the repeated other-minds sentence in Living with Uncertainty, the fifth-tenet restatement in Relation to Site Perspective). No hedge, valence caveat, citation or refutation removed. The page stays over the soft line and well under the hard gate.
+- **Changes**:
+  - Hermit crabs (Crustaceans): the unreferenced "trade off pain avoidance against shell quality, suggesting that pain integrates with motivated decision-making" is now the experiment as reported: *Pagurus bernhardus* given electric shocks of gradually increasing intensity; crabs in a preferred shell species evacuated at a higher shock level than crabs in a poor-quality one; "shock avoidance", with the inference about pain attributed to Appel and Elwood (2009) at their own strength ("consistent with the idea of a pain experience rather than a nociceptive reflex"). Of the two 2009 candidates, Appel & Elwood (*Appl. Anim. Behav. Sci.*) is the graded-shock design that matches the page's wording (64 evacuating crabs analysed: 31 in *Littorina*, 33 in *Gibbula* shells); Elwood & Appel (*Anim. Behav.*) used a fixed shock level and counted evacuations (4/33 vs 8/22) and is not cited.
+  - Insects: one sentence on Bava et al. (2025), a perspective piece proposing "phased inclusion of honeybees in Directive 2010/63/EU" and calling the evidence "not conclusive"; marked as a policy proposal adding no evidence.
+  - Precautionary Framework: one sentence on Fischer et al. (2026), marked as the standard in use and no further evidence of sentience. No evidential grade raised anywhere; valence section untouched; Minimal Quantum Interaction passage untouched; "legal protection" not reintroduced (grep 0).
+  - New York Declaration: "signed by hundreds of scientists and philosophers (over 600 by September 2026, up from roughly 40 at launch)" replaced with "launched with about 40 signatories and showing a signature count of 617 by November 2026". "Scientists and philosophers" dropped (the list includes lawyers, teachers and others); "crustaceans" corrected to "decapod crustaceans" to match the declaration text. Declaration URL added to its reference.
+  - References renumbered 14 → 17 (Appel & Elwood; Bava et al.; Fischer et al.). Inline/References checked both ways on surname and year: every entry cited inline, every inline cite listed. (Pre-existing: Singer is cited inline by name without a year.)
+- **Source ledger**:
+  - Appel & Elwood (2009): abstract and section snippets (methods, ethics, results, discussion openings) read on the archived publisher page, http://web.archive.org/web/20240511002628/https://www.sciencedirect.com/science/article/abs/pii/S0168159109001038 . Full text not obtained. Quoted span grep-verified (count 1). Live ScienceDirect returned 403; Crossref, OpenAlex and Semantic Scholar carry no abstract; not in PubMed.
+  - Elwood & Appel (2009): abstract and snippets read, http://web.archive.org/web/20241005062202/https://www.sciencedirect.com/science/article/abs/pii/S0003347209000712 . Not cited.
+  - Bava et al. (2025): read in full via PMC (efetch db=pmc id=12298661); article type "Perspective"; both quoted spans grep-verified. mdpi.com returned 403.
+  - Fischer et al. (2026): ABSTRACT ONLY, via the OpenAlex inverted index (https://api.openalex.org/works/https://doi.org/10.1186/s13062-026-00963-5); the abstract as indexed may be truncated. Quoted span grep-verified in it. Volume 21(1), article 251 from Crossref. Springer and BMC pages and the PDF link all returned a client challenge; Europe PMC and PubMed have no record.
+  - de Souza Valente (2025): abstract only, via OpenAlex (https://api.openalex.org/works/https://doi.org/10.1007/s10806-024-09940-2). NOT cited: a single-author philosophical argument that no sentence on the page needs, and its abstract uses the "legal protection" phrasing the 2026-11-17 repair removed.
+  - New York Declaration: live page https://sites.google.com/nyu.edu/nydeclaration/declaration fetched 2026-11-25T01:06:06+00:00, footer reads "Signature count: 617". Launch figure from the Wayback copy of 2024-04-21 (http://web.archive.org/web/20240421002204/https://sites.google.com/nyu.edu/nydeclaration/declaration), two days after launch: 39 named signatories, no count line. The "September 2026" date had no source and is gone.
+- **Engagement modes**: no named-opponent reply edited.
+- **Not done / for follow-up**: other pages still carry older signatory figures (605, or "over 600 by September 2026"); out of scope for a one-file task. The Cephalopods section's unreferenced sentence that the behavioural evidence "exceeds what is available for most vertebrates outside mammals and birds" was left as found.
+- **Published**: yes
 
 ## 00:53 - deep-review
 - **Status**: Success
