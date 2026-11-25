@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-11-25
 human_modified:
-ai_modified: 2026-11-25T14:19:32+00:00
+ai_modified: 2026-11-25T18:25:12+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -50,7 +50,7 @@ Several philosophical accounts compete to explain what valence is.
 
 **The imperativist account** treats valence as a command rather than a description. Klein (2007) gave the first explicit imperative theory of pain, on which a pain's content is a command against using the injured part; Martínez (2011) extended imperative content to pain's unpleasantness, pairing a description of the disturbance with a command to see that it ends; Barlassina and Hayward (2019) generalise the view to all affect, on which an unpleasant experience commands "Get less of me!" On both representational accounts of unpleasantness, whether an experience hurts is a difference in what it represents or commands, so they deny that two experiences could share their content and differ only in felt badness.
 
-**Attitudinal theories** put valence in the subject's attitude: for Heathwood (2007), a sensation is unpleasant when its subject, while feeling it, intrinsically desires not to be feeling it. That handles heterogeneity without a shared hedonic tone, and opposes pleasure to pain as desire to aversion. The Map has yet to answer the view, or say why felt badness and felt goodness are opposites when two heard notes are not.
+**Attitudinal theories** put valence in the subject's attitude: for Heathwood (2007), a sensation is unpleasant when its subject, while feeling it, intrinsically desires not to be feeling it. That handles heterogeneity without a shared hedonic tone, and opposes pleasure to pain as desire to aversion. [[topics/valence-as-a-natural-kind#attitudinal|Valence as a natural kind]] gives the Map's partial answer, including why felt badness and felt goodness are opposites when two heard notes are not.
 
 ### Where the Hedonic Account's Case Lies
 

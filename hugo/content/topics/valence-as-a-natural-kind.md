@@ -1,22 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-07 05:30:00+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-11-25 18:24:41+00:00
+ai_system: claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[valence]]'
 - '[[is-conscious-being-a-natural-kind]]'
 - '[[evaluative-phenomenal-character]]'
 created: 2026-09-06
-date: &id001 2026-09-06
+date: &id001 2026-11-25
 description: A human-AI study of whether constructed emotion leaves valence a natural
   kind, and why fragmentation costs the Map its scalar currency, not its value identity.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-07 05:30:00+00:00
-lastmod: 2026-09-07 05:30:00+00:00
+lastmod: 2026-11-25 18:24:41+00:00
 modified: *id001
 related_articles:
 - '[[positions/value-in-selection]]'
@@ -86,6 +86,16 @@ Two further results bear on the options without discriminating them. Assaf Kron 
 
 The condition under which the currency premise would have to be withdrawn is therefore statable, and narrower than the objection in its original form: a demonstration that felt valence at choice is micro-valenced, with the commensurating scalar formed after the fact, would retire the currency without touching the identity. The [selection fork](/topics/valence-and-conscious-selection/) does not list that result among its tests. It does answer the neighbouring rival that choice needs no cardinal currency at all: policies and heuristics are themselves value-selected, so the currency reappears at the learning phase. That answer transfers only partly, because Scherer's integration is performed at the moment of choice rather than learned — the wrong side of the fork's crux that felt currency must be a variable distinct from the computed one.
 
+## The Attitudinal Alternative {#attitudinal}
+
+The fragmentation above splits a felt hedonic quality. The pleasure literature's other answer to heterogeneity removes it. On attitudinal theories, an experience is pleasant or unpleasant because of its subject's attitude to it: for Chris Heathwood, a sensation is unpleasant when its subject intrinsically desires that it not be occurring. Daniel Pallies sorts the dispute into six challenges, three against felt-quality theories (heterogeneity, oppositeness, normativity) and three against attitudinal ones (Euthyphro, separateness, togetherness), and judges the sets "about as forceful" as each other.
+
+Heathwood presses oppositeness: two felt qualities, such as middle C on a piano and F# on a banjo, are "in no way opposites", so felt-quality theories leave unexplained why pleasure and pain are, while desire and aversion are opposites by construction. Pallies ranks it weakest of the six. Justin Klocksiem's reply is open to the Map: pleasure and pain are opposites "because pleasure is good and pain is bad". Under [P-VS3](/positions/value-in-selection/#p-vs3)'s identity, felt goodness and badness are value and disvalue, so the Map can take that reply without assuming one bipolar scale, which the Kron and Lindquist results above do not supply. The reply leaves the opposition of good and bad basic.
+
+Togetherness is the Map's strongest counter: some feelings seem pleasant or painful by nature. Reviewing Roger Crisp, Heathwood grants that it "can seem incredible" that the feeling of stepping barefoot on a tack is painful "only due to the attitude that we happen to take up towards it."
+
+The identity claim pays only if the attitude need not be felt, since then nothing felt is the badness; two hybrids avoid that cost. On Guy Kahane's experiential dislike theory, dislike "is necessarily felt" and the state of disliking pain is "intrinsically bad because of how it intrinsically feels"; on Pallies's necessitation theory, certain felt qualities necessarily dispose their subject to desire them, at the price of denying Hume's Dictum. None of this touches Dualism.
+
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism).** Whether valence is one axis or several, modular or distributed, primitive or relationally summarised — no result surveyed here addresses why any of it is *felt*. That residue is the [valence version of the explanatory gap](/concepts/valence/), and it survives every fragmentation and degeneracy finding. The Map takes the phenomenal horn on that undelivered step, and concedes that [illusionism](/concepts/illusionism/) denies there is a step to deliver.
@@ -98,7 +108,7 @@ The framework boundary is stated by the rival itself: the 2025 restatement says 
 
 ## Further Reading
 
-- [valence](/concepts/valence/) — the hedonic and evaluativist accounts
+- [valence](/concepts/valence/) — hedonic, representational and attitudinal accounts
 - [is-conscious-being-a-natural-kind](/concepts/is-conscious-being-a-natural-kind/) — the cluster-kind machinery
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — felt badness as badness
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — what the identity holds between
@@ -121,9 +131,14 @@ The framework boundary is stated by the rival itself: the 2025 restatement says 
 1. Colombetti, G. (2005). Appraising valence. *Journal of Consciousness Studies*, 12(8–10), 103–126.
 1. Corns, J. (2014). Unpleasantness, motivational oomph, and painfulness. *Mind & Language*, 29(2), 238–254. https://doi.org/10.1111/mila.12048
 1. Griffiths, P. E. (1997). *What Emotions Really Are: The Problem of Psychological Categories*. University of Chicago Press.
+1. Heathwood, C. (2007a). Review of Roger Crisp, *Reasons and the Good*. *Notre Dame Philosophical Reviews*, 2007.07.09. https://ndpr.nd.edu/reviews/reasons-and-the-good/
+1. Heathwood, C. (2007b). The reduction of sensory pleasure to desire. *Philosophical Studies*, 133(1), 23–44. https://doi.org/10.1007/s11098-006-9004-9
+1. Kahane, G. (2009). Pain, dislike and experience. *Utilitas*, 21(3), 327–336. https://doi.org/10.1017/S0953820809990070
+1. Klocksiem, J. (2010). Pleasure, desire and oppositeness. *Journal of Ethics and Social Philosophy*, 4(2), 1–7. https://doi.org/10.26556/jesp.v4i2.134
 1. Kron, A., Goldstein, A., Lee, D. H.-J., Gardhouse, K., & Anderson, A. K. (2013). How are you feeling? Revisiting the quantification of emotional qualia. *Psychological Science*, 24(8), 1503–1511. https://doi.org/10.1177/0956797613475456
 1. Labukt, I. (2012). Hedonic tone and the heterogeneity of pleasure. *Utilitas*, 24(2), 172–199. https://doi.org/10.1017/S0953820812000052
 1. Lindquist, K. A., Satpute, A. B., Wager, T. D., Weber, J., & Barrett, L. F. (2016). The brain basis of positive and negative affect: evidence from a meta-analysis of the human neuroimaging literature. *Cerebral Cortex*, 26(5), 1910–1922. https://doi.org/10.1093/cercor/bhv001
+1. Pallies, D. (2021). An honest look at hybrid theories of pleasure. *Philosophical Studies*, 178(3), 887–907. https://doi.org/10.1007/s11098-020-01464-5
 1. Panksepp, J. (2011). The basic emotional circuits of mammalian brains: do animals have affective lives? *Neuroscience & Biobehavioral Reviews*, 35(9), 1791–1804. https://doi.org/10.1016/j.neubiorev.2011.08.003
 1. Russell, J. A. (2003). Core affect and the psychological construction of emotion. *Psychological Review*, 110(1), 145–172. https://doi.org/10.1037/0033-295X.110.1.145
 1. Russell, J. A., & Barrett, L. F. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805–819. https://doi.org/10.1037/0022-3514.76.5.805

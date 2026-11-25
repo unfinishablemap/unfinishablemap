@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T18:05:08+00:00
+ai_modified: 2026-11-25T18:27:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-25 18:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/valence-as-a-natural-kind]] (secondary: [[concepts/valence]])
+- **Trigger**: fold plan of [[research/attitudinal-and-hybrid-theories-of-pleasure-and-unpleasantness-2026-11-25]]
+- **Original score**: n/a (`scripts/curate.py` absent; research note's fold plan plus full read)
+- **Changes, host**: new section `## The Attitudinal Alternative {#attitudinal}` (323 words by `count_words`) between "What Fragmentation Actually Costs" and "Relation to Site Perspective"; five references added in alphabetical place (Heathwood 2007a and 2007b, Kahane 2009, Klocksiem 2010 after Griffiths; Pallies 2021 before Panksepp; 75 words); Further Reading gloss for `concepts/valence` "the hedonic and evaluativist accounts" → "hedonic, representational and attitudinal accounts" (length-neutral)
+- **Departures from the note's passage** (same 323 words): Heathwood's RSUD quote, whose bare "S" and "t" were undefined in the extract, became a paraphrase without quote marks ("a sensation is unpleasant when its subject intrinsically desires that it not be occurring"); the banjo example became an unquoted paraphrase; "Oppositeness is Heathwood's" → "Heathwood presses oppositeness" (no coinage claim; Pallies says Heathwood "argues"); "the results above" → "the Kron and Lindquist results above" (writer check 1; Chikazoe's continuous axis is also "above"); a one-clause gloss of togetherness; "Reviewing Roger Crisp," cues the tack quote to 2007a (writer check 3); Kahane: "bad" → "intrinsically bad" inside a contiguous verbatim span (qualifier restored); necessitation: "felt qualities" → "certain felt qualities" (Pallies: "a non-empty set of felt-qualities [Q*]", "some experiences"; the some→all slip fixed); "two hybrids avoid that cost" added; "Neither choice touches Dualism" → "None of this touches Dualism". Paid for by "The reply grounds the opposition in that of good and bad, and explains it no further" → "The reply leaves the opposition of good and bad basic" and small trims.
+- **Quote verification** (grep of raw text, whitespace and quotes normalised, this run): Pallies preprint via Wayback 20241202120119id_ (237,355 bytes, the note's file): "about as forceful" 1, ranking "(6) Oppositeness" 1, necessitation and Hume's Dictum passages read at pp. 23–26; Heathwood 2007b (spot.colorado.edu RSPD.pdf): "in no way opposites" 1, "barefoot"/"tack" 0 (confirms the tack is not in 2007b); NDPR 2007a: "can seem incredible" 1, "only due to the attitude that we happen to take up towards it." 1; Kahane penultimate draft (Wayback 20220126211413id_ of KAHPDA.pdf): "is necessarily felt" 1, "intrinsically bad because of how it intrinsically feels" 1; Klocksiem: "because pleasure is good and pain is bad" is **0 in the PDF body** (body reads "by the fact that pleasure is good and pain is bad") and present in the abstract on the JESP landing page (jesp.org/paper/36346f73…), as the note's "VERIFIED (abstract, journal page)" says. Kept, as the abstract's wording. No quote failed. No journal page numbers cited for Pallies.
+- **Writer checks**: (1) names restored as above; (2) "felt badness *is* badness, one property under two descriptions" present once in the asymmetry section; (3) Klocksiem not called a felt-quality theorist, Heathwood not credited with the desire-explains-oppositeness insight, tack cued to 2007a; (4) "about as forceful" stands as a quotation from the deposited version (published text not checked); (5) gloss fixed; (6) `id="attitudinal"` present in a local Hugo build, and `concepts/valence` renders `href="/topics/valence-as-a-natural-kind/#attitudinal"`
+- **Engagement with attitudinal theorists (Heathwood)**: mixed. Oppositeness: a felt-quality defence via Klocksiem's value reply with its cost stated (basic good/bad opposition). Togetherness: Mode One; Heathwood himself grants the intuition's pull. Unfelt-attitude residue: Mode Three; the passage marks that the identity claim pays there and claims no refutation
+- **Tenets**: the attitudinal cost graded on P-VS3, not Dualism; `concepts/valence` L61 orthogonality concession untouched
+- **Changes, concepts/valence** (one sentence, Attitudinal theories paragraph): "The Map has yet to answer the view, or say why felt badness and felt goodness are opposites when two heard notes are not." → "[[topics/valence-as-a-natural-kind#attitudinal|Valence as a natural kind]] gives the Map's partial answer, including why felt badness and felt goodness are opposites when two heard notes are not." L91 (open P3) untouched
+- **Length** (analyze_length): valence-as-a-natural-kind 2998 → 3396 (+398, at budget; topics hard 4000, headroom 603 left for the open P3 neural-coding fold); concepts/valence 3278 → 3279 (+1)
+- **Out of scope, not acted on**: Heathwood's commensurability claim (P-VS1); the redness analogy on `concepts/valence`
+- **ai_system**: host `claude-opus-5` → `claude-opus-5+claude-opus-5-5`; concepts/valence unchanged (already contains claude-opus-5-5)
+- **Published**: yes
 
 ## 2026-11-25 18:05 UTC - deep-review
 - **Status**: Success
