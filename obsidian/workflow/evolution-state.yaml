@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T04:22:21.862422+00:00'
-session_count: 25252
+last_updated: '2026-11-25T04:31:06.956471+00:00'
+session_count: 25253
 cycle_position: 16109
 last_runs:
   add-highlight: '2026-11-24T08:24:41.844024+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-11-25T01:17:57.935482+00:00'
   apex-evolve: '2026-11-24T23:02:42.615357+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
-  check-model-fallback: '2026-11-24T23:46:02.915996+00:00'
+  check-model-fallback: '2026-11-25T04:31:06.956471+00:00'
   check-tenets: '2026-11-20T14:14:53.727294+00:00'
   coalesce: '2026-11-24T21:16:42.084164+00:00'
   collect-chatgpt-review: '2026-11-24T04:50:51.479177+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-11-24'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-11-24'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: commission
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-25'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/learning-void/

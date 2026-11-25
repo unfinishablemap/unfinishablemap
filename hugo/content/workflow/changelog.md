@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 01:06:06+00:00
+ai_modified: 2026-11-25 05:01:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 01:06:06+00:00
+lastmod: 2026-11-25 05:01:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:01 - collect-chatgpt-review
+- **Status**: Success (the collect fork died on an API 529 after finishing its writes; the driver completed the bookkeeping from disk)
+- **Review file**: [outer-review-2026-11-25-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-25-chatgpt-5-6-sol-pro/) (subject: `concepts/valence`, fallback:recent-aged; reply 6,624 words extracted by DOM walk; no per-response model label in the UI; `outer_review_status: processed`)
+- **Pending entry**: marked collected at 04:49Z
+- **Tasks minted (7, above Completed Tasks)**: one P1 and four P2 on `concepts/valence` (active-inference paragraph credits an asymbolia model to sources that do not give it; asymbolia shorthand; unmarked necessity claim and stale Smithies entry; no illusionist or higher-order companion; common-dimension and "structurally irresolvable" in the Map's voice), one P2 on the lead of `concepts/pain-asymbolia`, one P2 on the lead of `topics/emotion-and-dualism`
+- **Note**: the fork's final report was lost; the above is read from the review file's Verification Notes and the todo diff. Two further reviews of the same subject (Claude, Gemini) are pending and a combine pass follows.
 
 ## 01:48 - refine-draft
 - **Status**: Success (three files; targeted edits, each net-zero by `analyze_length`)

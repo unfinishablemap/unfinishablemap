@@ -100,9 +100,9 @@
   commissioned_at: '2026-11-25T02:03:27.109393+00:00'
   prompt_summary: 'Audit concepts/valence: claims, citations, counterarguments, integration'
   target_filename: outer-review-2026-11-25-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-25T04:49:38.263403+00:00'
   failure_reason: null
   prompt_text: 'Please act as an independent, critical outer reviewer of one article
     on The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind site
