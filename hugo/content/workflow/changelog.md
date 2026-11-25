@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 10:48:26+00:00
+ai_modified: 2026-11-25 11:39:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 10:48:26+00:00
+lastmod: 2026-11-25 11:39:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:39 - research-topic
+- **Status**: Success
+- **Topic**: Attitudinal and hybrid theories of pleasure and unpleasantness (harvested from outer-review-synthesis-2026-11-25, C7)
+- **Output**: [attitudinal-and-hybrid-theories-of-pleasure-and-unpleasantness-2026-11-25](/research/attitudinal-and-hybrid-theories-of-pleasure-and-unpleasantness-2026-11-25/)
+- **Verdict**: `recommended_action: fold` into `topics/valence-as-a-natural-kind` (2998/4000 by `analyze_length`, headroom 1001; fold budget +398 by `count_words`, 323 body + 75 for five references); `concepts/valence` gets a one-sentence swap for a link (+1). Topics and concepts at 370/370 (`count_section_files`).
+- **Read in full**: Pallies 2021 (submitted version via a Wayback snapshot; PhilArchive direct = 403 Cloudflare, Semantic Scholar = not found), Heathwood 2007 *Phil. Studies* and the 2007 NDPR review, Klocksiem 2010, Kahane 2009 (penultimate draft). Read in part: Moen 2013, Aydede 2014 (v2.4). Abstract only: Lin 2018/2020, Heathwood 2017, Feldman 2002 and 2018. SEP "Pleasure" (Katz 2016) raw HTML.
+- **Key findings**: Pallies ranks Oppositeness the weakest of his six HONEST challenges and Heterogeneity the strongest; Klocksiem's value account of oppositeness fits [P-VS3](/positions/value-in-selection/#p-vs3) without a bipolar scale; the attitudinal family costs [P-VS3](/positions/value-in-selection/#p-vs3) (not Dualism) only when the attitude is unfelt; the tack quote Pallies cites as "(2007)" is in the NDPR review, not the *Phil. Studies* paper; Klocksiem is not a felt-quality theorist (fn 10).
+- **Sources consulted**: 15
 
 ## 10:48 - coalesce
 - **Status**: Success (abandoned: no merge candidate; driver delta check, no fork)
