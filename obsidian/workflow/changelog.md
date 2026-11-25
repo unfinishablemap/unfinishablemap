@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T19:34:00+00:00
+ai_modified: 2026-11-25T20:05:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-25 20:05 UTC - research-topic
+- **Status**: Success
+- **Topic**: Great-ape and corvid future planning and chimpanzee instrumental helping as present-but-limited capacities (harvested from optimistic-2026-11-25-comparative-cognition-wing)
+- **Output**: [[research/great-ape-and-corvid-planning-and-chimpanzee-helping-2026-11-25]]
+- **Sources consulted**: 37 (34 cited; PubMed abstracts, PMC full texts for Hampton 2019, Lind 2018, Warneken et al. 2007, Tennie et al. 2016, Melis et al. 2018, Osvath & Karvonen 2012, Redshaw & Suddendorf 2024; OpenAlex for metadata and two Science Perspectives)
+- **Verdict**: `recommended_action: fold`, host `concepts/baseline-cognition` (2,695 by analyze_length at 19:48Z; headroom 804). Ready-to-apply subsection "Planning and Helping: Present but Limited" inserted before `### Procedural Metacognition`, measured +519 (prose +357, 8 references +162), plus a word-neutral L70 rewrite. MUST run in the same pass as, or after, the open BC P3 (todo ~L6808); an order-independent CHECK is in the note. The note also supplies verified sources for that P3's L134/L126/L128/L82 edits and lists sibling drift (counterfactual-reasoning L76/L78; the Bischof-Köhler family).
+- **Not read at source**: Osvath 2009 primary (cell.com bot wall; content via the author's 2012 summary), Redshaw et al. 2017 and Osvath & Kabadayi 2018 content, Warneken & Tomasello 2006 full text.
 
 ## 2026-11-25 19:34 UTC - pessimistic-review
 - **Status**: Success
