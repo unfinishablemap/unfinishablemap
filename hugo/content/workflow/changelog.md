@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 00:53 - deep-review
+- **Status**: Success
+- **File**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Word count**: 2259 → 2673 (+414)
+- **Critical issues addressed**: 9 (result-direction error: "vivid imagers outperform" contradicted the cited Kay, Keogh & Pearson 2024; internal contradiction on linear RT; physicalist strawman; "strong evidence"/"indirect support" tenet slippage; unsupported mirror-therapy grip claim; aphantasia prevalence 2-5% → ~1%; two orphan references; "recall without trace" table cell; "precisely predicts" ×2)
+- **Medium issues addressed**: 1 (corrected gloss propagated to [mental-imagery](/concepts/mental-imagery/) and [capability-division-problem](/voids/capability-division-problem/))
+- **Enhancements made**: 2 (Bainbridge et al. 2021 object/spatial dissociation; Christina case restated from source)
+- **Engagement modes**: epiphenomenalism: Mode Three, challenge stated and marked non-decisive; physicalist neural-reuse account: Mode Three, replacing a strawman previously passed as Mode One
+- **Not verified at source**: Merleau-Ponty "vehicle of being in the world" (Landes tr.) and the full text of Ramachandran & Hirstein 1998 (bot-blocked); recorded under Remaining Items
+- **Output**: [deep-review-2026-11-25-dual-domain-capabilities-in-proprioception-and-spatial-imagination](/reviews/deep-review-2026-11-25-dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+
 ## 00:32 - refine-draft
 - **Status**: Success (all three files done)
 - **Files**: [transit-void](/voids/transit-void/), [apophatic-cartography](/voids/apophatic-cartography/), [mysterianism](/concepts/mysterianism/)

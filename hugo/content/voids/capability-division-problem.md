@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-11-18 22:35:25+00:00
+ai_modified: 2026-11-25 00:52:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 00:18:39+00:00
-lastmod: 2026-11-18 22:35:25+00:00
+lastmod: 2026-11-25 00:52:22+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -81,7 +81,7 @@ The capability division problem is not confined to visual perception. Wherever t
 
 **Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring no trace can carry. The [dual-domain capability](/concepts/episodic-memory/) framework makes the division explicit: the brain handles storage and replay; consciousness handles the *what it was like* that distinguishes episodic recall from mere data retrieval.
 
-**Proprioception and spatial imagination.** [Proprioception divides](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) into the body schema (physical, non-conscious sensorimotor model) and the body image (phenomenal felt embodiment); spatial imagination divides into neural reuse of perceptual machinery and the phenomenal three-dimensional workspace. The aphantasia-hyperphantasia spectrum and phantom limb phenomena confirm the same architecture.
+**Proprioception and spatial imagination.** [Proprioception divides](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) into the body schema (physical, non-conscious sensorimotor model) and the body image (phenomenal felt embodiment); spatial imagination divides into neural reuse of perceptual machinery and the phenomenal three-dimensional workspace. The aphantasia spectrum and phantom limb phenomena fit that architecture without favouring it.
 
 **Dreams.** During REM sleep, consciousness generates immersive worlds while sensory input is suppressed. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) sharpens the division into architecture and content: the brain's visual and spatial systems provide representational structure while consciousness renders the phenomenal content that fills it, unconstrained by sensory input. The [rendering dilemma](/topics/dream-consciousness/) — examined in detail below — suggests the rendering is consciousness-side, operating *through* neural architecture rather than *from* it.
 

@@ -4,7 +4,7 @@ description: "Voluntary imagery, aphantasia, and motor rehearsal evidence test w
 created: 2026-01-23
 modified: 2026-11-18
 human_modified: null
-ai_modified: 2026-11-18T21:22:21+00:00
+ai_modified: 2026-11-25T00:52:22+00:00
 last_deep_review: 2026-11-02T02:05:36+00:00
 draft: false
 topics:
@@ -85,7 +85,7 @@ Individual variation in imagery vividness ranges dramatically across the populat
 
 Despite profound differences in subjective experience, both groups function effectively in daily life. Aphantasics navigate and do creative work, though aphantasia is variably associated with reduced autobiographical memory and face-recognition difficulty and is overrepresented in mathematical and scientific roles; hyperphantasics are overrepresented in creative industries.[^zeman]
 
-The [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|dual-domain analysis]] reads this dissociation as separating physical spatial computation, which aphantasics retain, from a phenomenal spatial workspace that enhances it without being strictly required.
+The [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|dual-domain analysis]] reads this dissociation as separating physical spatial computation, which aphantasics retain, from a phenomenal spatial workspace that goes with a different, object-based way of solving the task without being strictly required.
 
 This spectrum poses a puzzle for consciousness research. If broadly similar neural machinery produces vivid imagery in one person and nothing in another, what explains the difference? One hypothesis: aphantasics have sub-personal imagery representations but lack conscious access to them.[^nanay] Partly supporting this, imagery content can be decoded from aphantasics' primary visual cortex as well as from controls', though the signal is atypical — ipsilateral, and unlike the patterns perception produces — so a representation is present, though not the perception-like one controls have.[^chang]
 

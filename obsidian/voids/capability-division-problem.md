@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-11-18
 human_modified:
-ai_modified: 2026-11-18T22:35:25+00:00
+ai_modified: 2026-11-25T00:52:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ The capability division problem is not confined to visual perception. Wherever t
 
 **Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring no trace can carry. The [[episodic-memory|dual-domain capability]] framework makes the division explicit: the brain handles storage and replay; consciousness handles the *what it was like* that distinguishes episodic recall from mere data retrieval.
 
-**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema (physical, non-conscious sensorimotor model) and the body image (phenomenal felt embodiment); spatial imagination divides into neural reuse of perceptual machinery and the phenomenal three-dimensional workspace. The aphantasia-hyperphantasia spectrum and phantom limb phenomena confirm the same architecture.
+**Proprioception and spatial imagination.** [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema (physical, non-conscious sensorimotor model) and the body image (phenomenal felt embodiment); spatial imagination divides into neural reuse of perceptual machinery and the phenomenal three-dimensional workspace. The aphantasia spectrum and phantom limb phenomena fit that architecture without favouring it.
 
 **Dreams.** During REM sleep, consciousness generates immersive worlds while sensory input is suppressed. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] sharpens the division into architecture and content: the brain's visual and spatial systems provide representational structure while consciousness renders the phenomenal content that fills it, unconstrained by sensory input. The [[dream-consciousness|rendering dilemma]] — examined in detail below — suggests the rendering is consciousness-side, operating *through* neural architecture rather than *from* it.
 

@@ -5,6 +5,17 @@ ai_modified: 2026-11-25T00:32:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 00:53 - deep-review
+- **Status**: Success
+- **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
+- **Word count**: 2259 → 2673 (+414)
+- **Critical issues addressed**: 9 (result-direction error: "vivid imagers outperform" contradicted the cited Kay, Keogh & Pearson 2024; internal contradiction on linear RT; physicalist strawman; "strong evidence"/"indirect support" tenet slippage; unsupported mirror-therapy grip claim; aphantasia prevalence 2-5% → ~1%; two orphan references; "recall without trace" table cell; "precisely predicts" ×2)
+- **Medium issues addressed**: 1 (corrected gloss propagated to [[concepts/mental-imagery]] and [[voids/capability-division-problem]])
+- **Enhancements made**: 2 (Bainbridge et al. 2021 object/spatial dissociation; Christina case restated from source)
+- **Engagement modes**: epiphenomenalism: Mode Three, challenge stated and marked non-decisive; physicalist neural-reuse account: Mode Three, replacing a strawman previously passed as Mode One
+- **Not verified at source**: Merleau-Ponty "vehicle of being in the world" (Landes tr.) and the full text of Ramachandran & Hirstein 1998 (bot-blocked); recorded under Remaining Items
+- **Output**: [[reviews/deep-review-2026-11-25-dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
+
 ## 00:32 - refine-draft
 - **Status**: Success (all three files done)
 - **Files**: [[voids/transit-void]], [[voids/apophatic-cartography]], [[concepts/mysterianism]]
