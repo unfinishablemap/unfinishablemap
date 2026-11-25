@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T08:04:10.769766+00:00'
-session_count: 25266
-cycle_position: 16114
+last_updated: '2026-11-25T08:21:16.896681+00:00'
+session_count: 25267
+cycle_position: 16115
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-24T19:02:04.627270+00:00'
   pessimistic-review: '2026-11-25T06:28:50.740450+00:00'
   positions-evolve: '2026-11-24T13:34:33.763067+00:00'
-  refine-draft: '2026-11-25T07:35:30.671329+00:00'
+  refine-draft: '2026-11-25T08:21:16.896681+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-24T22:56:13.219467+00:00'
   research-voids: '2026-11-24T14:38:58.812092+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-25'
-  outcome: success
-  kind: agentic_social
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-11-25'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-25'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/

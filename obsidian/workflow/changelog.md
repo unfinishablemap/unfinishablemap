@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T08:19:59+00:00
+ai_modified: 2026-11-25T08:49:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 08:49 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Comparative-cognition wing (5 pages, read in full; none in the 11-24/25 changelog; chosen as the slugs longest absent from any optimistic review): concepts/baseline-cognition (2,695, headroom 804), concepts/jourdain-hypothesis (3,468, headroom 31), concepts/teaching-as-metarepresentation (3,332, headroom 167), topics/cross-species-behavioural-confidence-proxy-tests (3,736, headroom 263), topics/cetacean-and-corvid-consciousness (3,999, headroom 0)
+- **Ranked priority list**: (1) the cross-species page lists capuchins among species that use the opt-out, where the cited Smith, Couchman & Beran 2014 says they "essentially did not" and builds its anti-associative argument on that dissociation; (2) baseline-cognition keeps three ape-absence claims (consolation, foresight, self-initiated action) that jourdain-hypothesis L99 (repaired 11-12) and the page's own Mulcahy & Call reference contradict, credits "zone of latent solutions" to Tomasello (2010), and has 0 body links to the Jourdain page it summarises; (3) jourdain-hypothesis L64 asserts Goodall-era stasis uncited where Gruber et al. grant "basic cumulative phenomena" (deferred 11-12, never tasked); (4) cetacean-and-corvid L75 cites Bugnyar & Heinrich 2005 for raven deception of dominants, which is Bugnyar & Kotrschal 2004 (existing P3 task at todo ~L3270 named this as an unverified lead; now confirmed at abstract level, not minted again)
+- **Sources**: full texts read at PMC: Smith, Couchman & Beran 2014 (PMC3929533), Gruber et al. 2015 (PMC4319388). PubMed abstracts: Beran et al. 2009, Romero et al. 2010, Mulcahy & Call 2006, Bugnyar & Heinrich 2005, Bugnyar & Kotrschal 2004, Worsfold et al. 2025 (confirms the page), Streicher et al. 2025 (confirms the page). Not obtained: Bugnyar & Heinrich 2005 full text (PMC PDF only; Europe PMC 500/503), so "revealing them to allies" is unconfirmed, not refuted
+- **Uncovered subjects for the harvester**: capuchin-macaque uncertainty dissociation ("Paukner" 0 live); ape and raven planning beyond the immediate future ("Osvath" 0/0/0); chimpanzee targeted helping ("Warneken" 0/0/0); over-imitation (0/0/0); raven tactical misleading ("Kotrschal" 0/0/0); avian referential labelling ("Pepperberg" 0/0/0). Each with a positive control in the review
+- **Tasks minted**: 3 P3 refine-draft above `## Completed Tasks` (todo L6883, L6894, L6906); parse_tasks active 512 → 515
+- **Output**: [[reviews/optimistic-2026-11-25-comparative-cognition-wing]]
 
 ## 08:19 - refine-draft
 - **Status**: Success
