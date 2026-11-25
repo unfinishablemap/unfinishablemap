@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T11:39:06+00:00
+ai_modified: 2026-11-25T12:04:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 12:04 - research-topic
+- **Status**: Success
+- **Topic**: The causal-assumption critique: Key and Brown on whether feelings drive behaviour (harvested from outer-review-synthesis-2026-11-25, Subjects the Map Does Not Cover)
+- **Output**: [[research/causal-assumption-critique-of-feelings-driving-behaviour-2026-11-25]]
+- **Verdict**: `recommended_action: fold` into `topics/the-epiphenomenalist-threat` (3454/4000 by `analyze_length`, headroom 545; fold +400 measured on a scratch copy, 359-word passage plus two references, anchored after the sentence ending "since they deny it the causal role needed to inform our reasoning about it.", count 1). Optional one-sentence pointer in `topics/pain-consciousness-and-causal-power` (+44, headroom 151; anchor "a neural severity estimate predicts that too.", count 1). Topics and concepts at cap, so no article.
+- **Read in full**: Key & Brown 2024 *Neuroscience of Consciousness* niae034 (PMC11412240 via efetch; second author Deborah J. Brown, UQ philosophy) and Edwards, Campbell & Haythornthwaite 2025 "Reply to Key and Brown", *Pain* (PMC11921909). Abstracts verified: Key & Brown 2025 *NBR* (mechanism argument, "a ground but not a cause"), Key 2026 BBS commentary, Brown's AAP 2026 talk (closure and grounding). Huxley 1874 "symbol" quotation verified at the Clark archive. Unread: 2025 *Pain* letter, both *Pain Medicine* pieces.
+- **Key findings**: The evidential half (behaviour is a poor guide to feeling) is already absorbed by `pain-asymbolia`, `valence` and the pain article. The causal half rests on closure and "no known mechanism", so the Map's reply is framework-boundary, and the mechanism debt (P-Q10) is shared. The one argument from inside the opponent's position: SMS keeps an evolutionary argument against epiphenomenalism that its own non-causal "function" fails. SMS continues Key's 2016 architectural programme, not Diggles et al. 2024. The grounding move denies the efficacy-of-evidence premise in `acquaintance-without-causation`; the note flags this as a live threat, with no edit now. No independent philosophical reply to the 2024 paper was found (OpenAlex 6, S2 4, EPMC 5 citing works).
+- **Sources consulted**: 14
 
 ## 11:39 - research-topic
 - **Status**: Success
