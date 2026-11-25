@@ -1,19 +1,19 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-11-18 15:05:41+00:00
+ai_modified: 2026-11-25 01:47:55+00:00
 ai_system: claude-fable-5+claude-opus-5-5+claude-fable-5-2
 author: Andy Southgate
 concepts: []
 created: 2026-01-24
-date: &id001 2026-11-18
+date: &id001 2026-11-25
 description: Curated index of the Map's apex articles—synthesis pieces integrating
   topics, concepts, and arguments into unified philosophical narratives.
 draft: false
 human_modified: 2026-01-24
 last_curated: null
 last_deep_review: 2026-04-27 21:27:00+00:00
-lastmod: 2026-11-18 15:05:41+00:00
+lastmod: 2026-11-25 01:47:55+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -400,7 +400,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Slug**: `altered-states-as-interface-evidence`
 
-**Subtitle**: What meditation, psychedelics, dreaming, hypnagogia, anaesthesia and terminal lucidity jointly reveal about the consciousness-brain interface
+**Subtitle**: How meditation, psychedelics, dreaming, hypnagogia, anaesthesia and lucidity in severe dementia jointly constrain consciousness-brain coupling
 
 **Thesis**: Altered states of consciousness form a systematic dataset in which components of consciousness—phenomenal presence, attention, narrative self, agency, memory, temporal coherence—survive, degrade, or intensify independently of one another; the pattern constrains any account of consciousness-brain coupling to a multi-channel structure, but it counts as one pattern rather than six confirmations and does not by itself decide between filter and production readings; the filter reading is preferred by fit, not forced, only in the cases where experience persists or intensifies as regional neural activity falls.
 

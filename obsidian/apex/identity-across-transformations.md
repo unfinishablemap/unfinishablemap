@@ -2,9 +2,9 @@
 title: "Identity Across Transformations"
 description: "What persists through radical change? The Map argues identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture."
 created: 2026-01-31
-modified: 2026-11-15
+modified: 2026-11-25
 human_modified:
-ai_modified: 2026-11-15T11:34:13+00:00
+ai_modified: 2026-11-25T01:47:55+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -28,7 +28,7 @@ related_articles:
 
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-31
 last_curated:
 last_deep_review: 2026-07-07T09:10:00+00:00
@@ -154,7 +154,7 @@ Collapse interpretations preserve indexical identity by maintaining that one out
 
 The Map's dualist framework makes survival coherent without guaranteeing it. If consciousness is not identical with neural activity but merely interfaces with it, brain death might alter how consciousness manifests without ending *this* particular consciousness. The question becomes genuinely open in ways materialism forecloses.
 
-The phenomenology of dying strengthens this openness. As [[death-and-consciousness|the death article]] develops, dying involves far more than a binary switch from conscious to unconscious. Terminal lucidity—where patients with advanced neurodegeneration suddenly recover full mental clarity, recognise family, and hold coherent conversations—challenges production models directly: the neural tissue that supposedly generated their consciousness has been extensively destroyed, yet *this* person returns, with *their* memories and identity intact. Nearing death awareness unfolds over days or weeks as a gradual transition, and shared death experiences—where healthy bystanders report sharing aspects of the dying person's experience—suggest consciousness may not be confined to a single brain. Across these phenomena, *reports* of enhanced rather than diminished awareness recur as the brain fails, as though the interface were dissolving to reveal what it normally constrains — though the reports are the datum, and shared death experiences in particular may not survive prospective study.
+The phenomenology of dying is compatible with this openness. As [[death-and-consciousness|the death article]] develops, dying is no binary switch from conscious to unconscious. [[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]]—the return of memory, orientation, and coherent speech at the end of life in severe dementia—constrains production models without establishing the filter alternative: caregivers report *this* person returning, recalling *their* past. Lucid episodes, mostly brief, are also reported months earlier and need not signal that death is near. Nearing death awareness unfolds over days or weeks, and shared death experiences—where healthy bystanders report sharing aspects of the dying person's experience—suggest consciousness may not be confined to a single brain. Across these phenomena, *reports* of enhanced rather than diminished awareness recur as the brain fails, as though the interface were dissolving to reveal what it normally constrains — though the reports are the datum, and shared death experiences may not survive prospective study.
 
 But survival, if it occurs, must preserve indexical identity. What death threatens is not merely a biological organism but the *extended self*—the being constituted moment by moment through [[anoetic-noetic-autonoetic-consciousness|autonoetic]] binding, a felt continuity that cannot be copied like data. This constrains what could count as "you" continuing:
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-11-02 17:19:01+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-25 01:47:55+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-11-02 17:19:01+00:00
 apex_sources:
 - tenets/tenets
@@ -24,7 +24,7 @@ concepts:
 - '[[filter-theory]]'
 - '[[bidirectional-interaction]]'
 created: 2026-05-25
-date: &id001 2026-11-02
+date: &id001 2026-11-25
 description: If the Map is right, the mind-matter interface is structurally selected
   to hide from unconditioned aggregate measurement, which re-orients the whole evidential
   programme from bulk physical traces to constrained asymmetries and intention-conditioned
@@ -38,7 +38,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:08:16+00:00
-lastmod: 2026-11-02 17:19:01+00:00
+lastmod: 2026-11-25 01:47:55+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -128,7 +128,7 @@ If the architecture is right about itself, the falsification programme has been 
 
 **Dissociation.** [The phenomenal-output / causal-machinery dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) shows phenomenal access reaching outputs but not the operations producing them, across perception, cognition, agency, and memory. A dissociation is a seam by definition: it is the gap between two things that the smooth case presents as one. The self-concealing interface predicts that the gap is where the architecture is legible.
 
-**Graded channel failure.** The memory hierarchy is the worked exhibit: ordered degradation under partial blockade, a seam datum because no single measurement of intact memory reveals it—only the sequence of failures does. Its sharper face is that recovery does *not* simply retrace degradation. [Recovery-order asymmetry](/topics/memory-channel-interface-evidence/) makes the *direction* of interface change part of the datum: the autonoetic channel returns last under rising substrate function (anaesthesia emergence) and is reported, in retrospective case narratives, to return first under falling substrate function (terminal lucidity), a divergence a substrate-symmetric production account does not predict from a single direction-blind vulnerability profile, though one willing to add direction-specific mechanisms per case can absorb it. The signature *constrains* production rather than *establishing* the filter reading. It belongs to a wider [signature family](/concepts/direction-of-interface-change/)—hysteresis of state transition, recovery-order reversal across mechanisms, abrupt dissociative reconnection versus gradual onset, direction-decoupled emergence timing—that no substrate-state-at-a-time description captures. Its members share one upstream architecture, so the [common-cause null](/project/common-cause-null/) credits them as one view, not four. The seam is sharp enough to have a design. A reversible perturbation read on both its up-ramp and its down-ramp—the [substrate-state](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) and [direction-axis](/topics/direction-dependent-discriminating-test-design/) designs—tests for equilibrated non-mirrored orderings, which static-threshold production forbids, and so could, if run, deliver more than the constraining force the convergence currently earns.
+**Graded channel failure.** The memory hierarchy is the worked exhibit: ordered degradation under partial blockade, a seam datum because no single measurement of intact memory reveals it—only the sequence of failures does. Its sharper face is that recovery does *not* retrace degradation. [Recovery-order asymmetry](/topics/memory-channel-interface-evidence/) makes the *direction* of interface change part of the datum: the autonoetic channel returns last under rising substrate function (anaesthesia emergence) and is reported, in retrospective end-of-life case narratives, to return first under falling substrate function (lucid episodes during advancing dementia), a divergence a substrate-symmetric production account does not predict from a single direction-blind vulnerability profile, though one willing to add direction-specific mechanisms per case can absorb it. The signature *constrains* production rather than *establishing* the filter reading. It belongs to a [signature family](/concepts/direction-of-interface-change/)—hysteresis of state transition, recovery-order reversal across mechanisms, abrupt dissociative reconnection versus gradual onset, direction-decoupled emergence timing—that no substrate-state-at-a-time description captures. Its members share one upstream architecture, so the [common-cause null](/project/common-cause-null/) credits them as one view, not four. The seam is sharp enough to have a design. A reversible perturbation read on its up-ramp and down-ramp—the [substrate-state](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) and [direction-axis](/topics/direction-dependent-discriminating-test-design/) designs—tests for equilibrated non-mirrored orderings, which static-threshold production forbids, and so could, if run, deliver more than the constraining force the convergence currently earns.
 
 **Patient-population divergence.** [Pharmacological dissociation](/apex/pharmacological-dissociation-as-evidence/) and the neurological and clinical dissociation literatures supply contrasts—same target / opposite outcome, different targets / convergent outcome, same behaviour / different mechanism / different phenomenology—that a normal population averages away. The divergence between populations whose introspective architecture *differs* carries weight precisely because it cannot be running through shared neurotypical machinery, which is the structural defence the [common-cause null](/project/common-cause-null/) demands.
 

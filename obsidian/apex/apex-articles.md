@@ -2,9 +2,9 @@
 title: "Apex Articles Index"
 description: "Curated index of the Map's apex articles—synthesis pieces integrating topics, concepts, and arguments into unified philosophical narratives."
 created: 2026-01-24
-modified: 2026-11-18
+modified: 2026-11-25
 human_modified: 2026-01-24
-ai_modified: 2026-11-18T15:05:41+00:00
+ai_modified: 2026-11-25T01:47:55+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 social_eligible: false  # section index, not an article — off-voice for the social network
@@ -398,7 +398,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Slug**: `altered-states-as-interface-evidence`
 
-**Subtitle**: What meditation, psychedelics, dreaming, hypnagogia, anaesthesia and terminal lucidity jointly reveal about the consciousness-brain interface
+**Subtitle**: How meditation, psychedelics, dreaming, hypnagogia, anaesthesia and lucidity in severe dementia jointly constrain consciousness-brain coupling
 
 **Thesis**: Altered states of consciousness form a systematic dataset in which components of consciousness—phenomenal presence, attention, narrative self, agency, memory, temporal coherence—survive, degrade, or intensify independently of one another; the pattern constrains any account of consciousness-brain coupling to a multi-channel structure, but it counts as one pattern rather than six confirmations and does not by itself decide between filter and production readings; the filter reading is preferred by fit, not forced, only in the cases where experience persists or intensifies as regional neural activity falls.
 
