@@ -2,9 +2,9 @@
 title: "Motor Selection and the Attention-Motor Interface"
 description: "Motor control and attention share neural substrates; dopamine marks salience and sets thresholds. Where conscious selection could enter, and how, stays open."
 created: 2026-01-18
-modified: 2026-11-20
+modified: 2026-11-25
 human_modified: null
-ai_modified: 2026-11-20T02:36:34+00:00
+ai_modified: 2026-11-25T00:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-26T20:49:10+00:00
@@ -185,7 +185,7 @@ Stapp describes consciousness holding a "template for action" stable; the phenom
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue that motor selection phenomenology—effort, authorship, veto—is representational fiction. But as Tallis notes, illusions presuppose experience. To seem one way rather than another, there must be something it's like to seem.
+[[illusionism|Illusionists]] argue that motor selection phenomenology—effort, authorship, veto—is representational fiction. Tallis replies that illusions presuppose experience, which assumes the seeming is phenomenal—what illusionists deny. The Map [[positions/replies-to-rivals#^p-rr1|rejects illusionism]] for its not-yet-built mechanism.
 
 The correlation between felt effort and motor difficulty poses a problem for illusionism. Novel movements feel harder than practiced ones; complex sequences feel harder than simple actions. On the Zeno reading, difficult actions would require more frequent observation events, producing greater felt effort. If phenomenology were disconnected from motor processing, this correlation would be coincidental.
 

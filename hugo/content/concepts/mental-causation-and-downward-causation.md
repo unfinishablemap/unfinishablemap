@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-11-12 15:20:13+00:00
+ai_modified: 2026-11-25 00:20:00+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -36,14 +36,14 @@ concepts:
 - '[[trumping-preemption]]'
 - '[[selection-only-mind-influence]]'
 created: 2026-01-15
-date: &id001 2026-11-12
+date: &id001 2026-11-25
 description: How mental states cause physical effects despite Kim's exclusion argument.
   Downward causation acts at quantum indeterminacies collapse readings leave open.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:37:29+00:00
-lastmod: 2026-11-12 15:20:13+00:00
+lastmod: 2026-11-25 00:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -174,7 +174,7 @@ The strongest positive argument for mental causation is [self-stultification](/t
 
 ## The Illusionist Challenge
 
-[illusionism](/concepts/illusionism/) poses a radical challenge: if phenomenal consciousness is an illusion, there is nothing non-physical to exercise downward causation. But the illusionist faces a dilemma—if "functional seeming" retains any experiential dimension the regress reasserts itself, and if it eliminates experiential character entirely it no longer explains why consciousness strikes us as overwhelmingly real. As Tallis notes, illusions presuppose experience.
+[illusionism](/concepts/illusionism/) poses a radical challenge: if phenomenal consciousness is an illusion, there is nothing non-physical to exercise downward causation. But the illusionist faces a dilemma—if "functional seeming" retains any experiential dimension the regress reasserts itself, and if it eliminates experiential character entirely it still owes an account of why consciousness strikes us as overwhelmingly real. The Map [rejects illusionism](/positions/replies-to-rivals/#p-rr1) on that unpaid debt.
 
 For mental causation specifically, whatever produces the "illusion" must influence our verbal reports about it. If that production is purely physical, reports should be about neural states rather than phenomenal properties; if something non-physical shapes report content, that itself is downward causation.
 
@@ -250,7 +250,6 @@ Mental causation and downward causation are central to the Map's framework.
 1. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.

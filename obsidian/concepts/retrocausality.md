@@ -2,9 +2,9 @@
 title: "Retrocausality"
 description: "Backward causation in time-symmetric quantum mechanics. On retrocausal interpretations, the Libet problem dissolves: consciousness can select outcomes despite neural activity preceding awareness."
 created: 2026-01-07
-modified: 2026-10-20
+modified: 2026-11-25
 human_modified: null
-ai_modified: 2026-10-26T02:41:30+00:00
+ai_modified: 2026-11-25T00:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[presentiment-and-retrocausality]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-07
 last_curated: null
 last_deep_review: 2026-07-15T09:01:21+00:00
@@ -118,7 +118,7 @@ The transactional picture adds a subtlety: the handshake is atemporal. Decoheren
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue retrocausality solves a non-problem: if phenomenal experience is representational fiction, nothing is threatened by Libet. But the regress problem applies—an illusion must appear to something. Even illusionist "seemings" face the temporal ordering puzzle. And the functional asymmetry remains: voluntary actions differ from reflexes, and whatever generates this difference must interface with neural preparation. See [[introspection]] for why phenomenological data survives debunking attempts.
+[[illusionism|Illusionists]] argue retrocausality solves a non-problem: if phenomenal experience is representational fiction, nothing is threatened by Libet. The regress reply—an illusion must appear to something—assumes a phenomenal seeming, which illusionists deny. The Map [[positions/replies-to-rivals#^p-rr1|rejects illusionism]] for its not-yet-built mechanism; even illusionist "seemings" face the temporal ordering puzzle. And the functional asymmetry remains: voluntary actions differ from reflexes, and whatever generates this difference must interface with neural preparation. See [[introspection]] for why phenomenological data survives debunking attempts.
 
 ## Contemplative Evidence
 

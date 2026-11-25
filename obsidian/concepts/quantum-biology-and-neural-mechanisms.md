@@ -2,9 +2,9 @@
 title: "Quantum Biology and Neural Mechanisms"
 description: "Quantum effects in living systems—magnetoreception and enzyme tunnelling survive, photosynthesis no longer does—and five proposed neural quantum mechanisms."
 created: 2026-01-16
-modified: 2026-11-19
+modified: 2026-11-25
 human_modified: null
-ai_modified: 2026-11-19T16:13:20+00:00
+ai_modified: 2026-11-25T00:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[integrated-information-theory]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-03-26
 last_curated: null
 last_deep_review: 2026-11-09T17:37:06+00:00
@@ -149,7 +149,7 @@ None of this proves quantum consciousness, and the discipline of "predictions he
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] (Frankish 2016; Dennett 2016) might dismiss the quantum biology debate as solving the wrong problem. Two responses: any account of why consciousness *seems* unified presupposes the very unity it denies (Tallis's regress: illusions presuppose experience), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
+[[illusionism|Illusionists]] (Frankish 2016; Dennett 2016) might dismiss the quantum biology debate as solving the wrong problem. Two responses: the Map [[positions/replies-to-rivals#^p-rr1|rejects illusionism]] for its not-yet-built mechanism (Tallis's reply that illusions presuppose experience assumes the phenomenality illusionists deny), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
 
 ## The Measurement Problem Connection
 

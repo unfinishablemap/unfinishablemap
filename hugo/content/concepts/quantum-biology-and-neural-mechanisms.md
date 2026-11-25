@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-11-19 16:13:20+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-25 00:20:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/quantum-biology/
@@ -33,14 +33,14 @@ concepts:
 - '[[haecceity]]'
 - '[[witness-consciousness]]'
 created: 2026-01-16
-date: &id001 2026-11-19
+date: &id001 2026-11-25
 description: Quantum effects in living systems—magnetoreception and enzyme tunnelling
   survive, photosynthesis no longer does—and five proposed neural quantum mechanisms.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-09 17:37:06+00:00
-lastmod: 2026-11-19 16:13:20+00:00
+lastmod: 2026-11-25 00:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -152,7 +152,7 @@ None of this proves quantum consciousness, and the discipline of "predictions he
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) (Frankish 2016; Dennett 2016) might dismiss the quantum biology debate as solving the wrong problem. Two responses: any account of why consciousness *seems* unified presupposes the very unity it denies (Tallis's regress: illusions presuppose experience), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
+[Illusionists](/concepts/illusionism/) (Frankish 2016; Dennett 2016) might dismiss the quantum biology debate as solving the wrong problem. Two responses: the Map [rejects illusionism](/positions/replies-to-rivals/#p-rr1) for its not-yet-built mechanism (Tallis's reply that illusions presuppose experience assumes the phenomenality illusionists deny), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
 
 ## The Measurement Problem Connection
 

@@ -2,9 +2,9 @@
 title: "Brain Interface Boundary: Why Consciousness Acts Only Here"
 description: "Brains meet five criteria for consciousness interfaces while external systems don't. This principled boundary explains brain specialness without implying universal psychokinesis."
 created: 2026-01-16
-modified: 2026-02-22
+modified: 2026-11-25
 human_modified: null
-ai_modified: 2026-10-30T10:23:45+00:00
+ai_modified: 2026-11-25T00:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[predictive-construction-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 ai_generated_date: 2026-01-27
 last_curated: null
 last_deep_review: 2026-07-31T01:37:09+00:00
@@ -125,7 +125,7 @@ On the selection reading, the Map's framework suggests quantum sensitivity is es
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue that if phenomenal consciousness is an introspective illusion, there's nothing special about brains regarding consciousness. The Map responds that the "illusion" itself must be explained—and as Raymond Tallis observes, illusions presuppose experience. More fundamentally, interface locality holds whether consciousness is real or illusory; the causal processes are brain-local either way. See [[illusionism]] for fuller engagement.
+[[illusionism|Illusionists]] argue that if phenomenal consciousness is an introspective illusion, there's nothing special about brains regarding consciousness. The Map [[positions/replies-to-rivals#^p-rr1|rejects the view]]: the "illusion" itself needs explaining—though Tallis's reply that illusions presuppose experience assumes the seeming is phenomenal, which illusionists deny. More fundamentally, interface locality holds whether consciousness is real or illusory; the causal processes are brain-local either way. See [[illusionism]] for fuller engagement.
 
 ## The Decoherence Challenge
 

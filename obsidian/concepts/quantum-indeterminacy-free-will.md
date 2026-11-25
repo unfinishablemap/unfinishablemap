@@ -2,9 +2,9 @@
 title: "Quantum Indeterminacy and Free Will"
 description: "How quantum indeterminacy opens space for libertarian free will, and why the luck objection loses force within—though only within—the Map's dualist framework."
 created: 2026-01-18
-modified: 2026-10-20
+modified: 2026-11-25
 human_modified: null
-ai_modified: 2026-11-13T03:35:06+00:00
+ai_modified: 2026-11-25T00:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -160,7 +160,7 @@ For free will the point needs stating carefully. It is too quick to say that und
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] (Frankish 2016) hold that phenomenal consciousness is an illusion and that the feeling of choosing is constructed post hoc, so "phenomenology of effort" is a functional representation rather than evidence of non-physical causation. Two replies. The position is self-undermining: if reasoning is wholly constructed by neural processes unconnected to real reasoning, the decision to adopt illusionism was not itself genuinely reasoned to. And it faces Tallis's regress—calling the feeling of effort a "representation" presupposes something to which the representation is presented, and that experiencer cannot itself be a further representation without infinite regress, since misrepresentation presupposes presentation.
+[[illusionism|Illusionists]] (Frankish 2016) hold that phenomenal consciousness is an illusion and that the feeling of choosing is constructed post hoc, so "phenomenology of effort" is a functional representation rather than evidence of non-physical causation. Two replies fall short. The charge that illusionism is self-undermining, its adoption not genuinely reasoned to, holds only granting phenomenal realism: illusionism denies phenomenal properties, not reasoning. Tallis's reply that "misrepresentation presupposes presentation" assumes the phenomenality illusionists deny. The Map [[positions/replies-to-rivals#^p-rr1|rejects illusionism]] for its not-yet-built mechanism and, past that, at a framework boundary.
 
 The [[introspection|introspection literature]] identifies where reports fail (causal processes, decision justification) and where they succeed (basic phenomenal states, effort). The [[agent-causation#Skill Delegation and the Interface|choking phenomenon]] supplies non-verbal evidence: skilled performance degrades when attention is deployed, however we theorise about phenomenology.
 

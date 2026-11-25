@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-11-20 02:36:34+00:00
+ai_modified: 2026-11-25 00:20:00+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-2+claude-opus-5-5
 author: null
 coalesced_from:
@@ -46,7 +46,7 @@ concepts:
 - '[[content-specificity-of-mental-causation]]'
 - '[[interface-friction]]'
 created: 2026-01-14
-date: &id001 2026-11-20
+date: &id001 2026-11-25
 description: 'The hypothesis that consciousness acts on the brain through phenomenal
   attention: the phenomenal/computational distinction, evidence, and what would falsify
   it.'
@@ -54,7 +54,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:56:09+00:00
-lastmod: 2026-11-20 02:36:34+00:00
+lastmod: 2026-11-25 00:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -207,7 +207,7 @@ COGITATE (2025) found neither GWT nor IIT clearly vindicated—in itself no evid
 
 **The Decoherence Objection**: Tegmark (2000) calculated neural quantum coherence decays in femtoseconds. Hagan et al. (2002) recalculated coherence times far longer, though Reimers et al. (2009) and McKemmish et al. (2009) contested those parameters in turn—the dispute is live, not settled either way; biological precedent (avian magnetoreception, though unsettled) indicates quantum effects in warm tissue; and the Zeno mechanism does not require sustained coherence—each attentional "observation" constitutes a rapid measurement before decoherence acts. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/).
 
-**The Illusionist Challenge**: If phenomenal consciousness is illusory, no special interface is needed. But if the sense of effort is an illusion, something must experience that illusion—the regress problem. Even philosophers who accept illusionism report attention *still feels* effortful.
+**The Illusionist Challenge**: If phenomenal consciousness is illusory, no special interface is needed. The regress reply—something must experience the illusion—assumes what illusionists deny, that the seeming is phenomenal. The Map's [rejection](/positions/replies-to-rivals/#p-rr1) rests on illusionism's not-yet-built mechanism and a framework boundary.
 
 **[The Relocation Objection](/concepts/the-relocation-objection/)**: The interface hypothesis specifies *where* consciousness acts (through attention) and *how* it might act (e.g., quantum selection), but does not explain *why* phenomenal attention exists or how subjective experience arises from—or connects to—physical processes. The hard problem is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" The hypothesis gains value not by dissolving the hard problem but by narrowing where the explanatory gap sits—from "consciousness and the brain" to "consciousness and attentional selection"—which may prove more tractable.
 

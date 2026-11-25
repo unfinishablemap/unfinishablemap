@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-10-30 22:10:59+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-11-25 00:20:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/quantum-probability-and-consciousness/
@@ -22,7 +22,7 @@ concepts:
 - '[[prebiotic-collapse]]'
 - '[[probability-problem-in-many-worlds]]'
 created: 2026-01-23
-date: &id001 2026-01-27
+date: &id001 2026-11-25
 description: 'Born probabilities describe the consciousness-quantum interface: not
   purely subjective beliefs, not observer-independent facts, but the structure where
   mind meets indeterminacy.'
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 13:17:16+00:00
-lastmod: 2026-10-30 22:10:59+00:00
+lastmod: 2026-11-25 00:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,9 +157,9 @@ The selection-versus-injection distinction dissolves the [energy conservation ob
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) offers a deflationary response: if phenomenal consciousness is an illusion, the indexical question may be confused—there is no *this* subject requiring explanation.
+[Illusionism](/concepts/illusionism/), which the Map [rejects](/positions/replies-to-rivals/#p-rr1), offers a deflationary response: if phenomenal consciousness is an illusion, the indexical question may be confused—there is no *this* subject requiring explanation.
 
-The illusionist move faces the standard regress: for there to be an *illusion* of experiencing spin-up, something must undergo that illusion. The subject of misrepresentation must exist, and if it does, the indexical question remains. Furthermore, quantum probabilities concern future experiences—if experience is illusory, what are these probabilities *about*?
+The standard regress—something must undergo the *illusion* of experiencing spin-up—assumes the phenomenality illusionists deny. What survives is narrower: a misrepresenting system still exists, and a self-locating question remains for it. Furthermore, quantum probabilities concern future experiences—if experience is illusory, what are these probabilities *about*?
 
 ## The Mysterian Caveat
 

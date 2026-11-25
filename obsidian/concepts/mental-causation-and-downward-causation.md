@@ -2,9 +2,9 @@
 title: "Mental Causation and Downward Causation"
 description: "How mental states cause physical effects despite Kim's exclusion argument. Downward causation acts at quantum indeterminacies collapse readings leave open."
 created: 2026-01-15
-modified: 2026-11-12
+modified: 2026-11-25
 human_modified: null
-ai_modified: 2026-11-12T15:20:13+00:00
+ai_modified: 2026-11-25T00:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -171,7 +171,7 @@ The strongest positive argument for mental causation is [[self-stultification-as
 
 ## The Illusionist Challenge
 
-[[illusionism]] poses a radical challenge: if phenomenal consciousness is an illusion, there is nothing non-physical to exercise downward causation. But the illusionist faces a dilemma—if "functional seeming" retains any experiential dimension the regress reasserts itself, and if it eliminates experiential character entirely it no longer explains why consciousness strikes us as overwhelmingly real. As Tallis notes, illusions presuppose experience.
+[[illusionism]] poses a radical challenge: if phenomenal consciousness is an illusion, there is nothing non-physical to exercise downward causation. But the illusionist faces a dilemma—if "functional seeming" retains any experiential dimension the regress reasserts itself, and if it eliminates experiential character entirely it still owes an account of why consciousness strikes us as overwhelmingly real. The Map [[positions/replies-to-rivals#^p-rr1|rejects illusionism]] on that unpaid debt.
 
 For mental causation specifically, whatever produces the "illusion" must influence our verbal reports about it. If that production is purely physical, reports should be about neural states rather than phenomenal properties; if something non-physical shapes report content, that itself is downward causation.
 
@@ -247,7 +247,6 @@ Mental causation and downward causation are central to the Map's framework.
 1. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.

@@ -2,9 +2,9 @@
 title: "Quantum Consciousness Mechanisms"
 description: "How consciousness might interact with quantum mechanics: Orch OR microtubule collapse, Stapp's quantum Zeno effect, and Fisher's nuclear spin entanglement."
 created: 2026-01-09
-modified: 2026-11-19
+modified: 2026-11-25
 human_modified: null
-ai_modified: 2026-11-19T16:13:20+00:00
+ai_modified: 2026-11-25T00:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -147,7 +147,7 @@ Quantum entanglement is different—entangled systems form genuinely unified who
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionism]] claims consciousness is illusion—but the regress problem poses a serious challenge: there must be something it *seems like* to have the illusion, and the seeming is itself phenomenal. Moreover, even if qualia were illusions, the quantum selection problem persists—*something* must select among outcomes where physics leaves them undetermined.
+[[illusionism|Illusionism]] holds that phenomenal consciousness *as traditionally conceived* is illusory. The regress reply—the seeming is itself phenomenal—assumes what illusionists deny; the Map [[positions/replies-to-rivals#^p-rr1|rejects illusionism]] for its not-yet-built mechanism. Moreover, even if qualia were illusions, the quantum selection problem persists—*something* must select among outcomes where physics leaves them undetermined.
 
 ## Distinguishing from "Quantum Woo"
 
@@ -224,7 +224,7 @@ The Map's position is strong emergentism that specifies its mechanism: conscious
 - [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR models
 - [[quantum-indeterminacy-free-will]] — Why quantum selection isn't mere randomness
 - [[amplification-void]] — Why quantum-to-neural amplification chains are untraceable
-- [[illusionism]] — The challenge that consciousness is illusion
+- [[illusionism]] — The challenge that phenomenal consciousness is illusory
 - [[mysterianism]] — Cognitive closure on the consciousness-physics interface
 
 **Background:**

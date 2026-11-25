@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-10-30 10:23:45+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-11-25 00:20:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/brain-specialness/
@@ -21,7 +21,7 @@ concepts:
 - '[[post-decoherence-selection]]'
 - '[[predictive-processing]]'
 created: 2026-01-16
-date: &id001 2026-02-22
+date: &id001 2026-11-25
 description: Brains meet five criteria for consciousness interfaces while external
   systems don't. This principled boundary explains brain specialness without implying
   universal psychokinesis.
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 01:37:09+00:00
-lastmod: 2026-10-30 10:23:45+00:00
+lastmod: 2026-11-25 00:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -129,7 +129,7 @@ On the selection reading, the Map's framework suggests quantum sensitivity is es
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that if phenomenal consciousness is an introspective illusion, there's nothing special about brains regarding consciousness. The Map responds that the "illusion" itself must be explained—and as Raymond Tallis observes, illusions presuppose experience. More fundamentally, interface locality holds whether consciousness is real or illusory; the causal processes are brain-local either way. See [illusionism](/concepts/illusionism/) for fuller engagement.
+[Illusionists](/concepts/illusionism/) argue that if phenomenal consciousness is an introspective illusion, there's nothing special about brains regarding consciousness. The Map [rejects the view](/positions/replies-to-rivals/#p-rr1): the "illusion" itself needs explaining—though Tallis's reply that illusions presuppose experience assumes the seeming is phenomenal, which illusionists deny. More fundamentally, interface locality holds whether consciousness is real or illusory; the causal processes are brain-local either way. See [illusionism](/concepts/illusionism/) for fuller engagement.
 
 ## The Decoherence Challenge
 

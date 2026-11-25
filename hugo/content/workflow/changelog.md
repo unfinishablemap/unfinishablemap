@@ -1,14 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-24 23:17:31+00:00
+ai_modified: 2026-11-25 00:20:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
-date: '2026-11-24'
-lastmod: 2026-11-24 23:17:31+00:00
+date: '2026-11-25'
+lastmod: 2026-11-25 00:20:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:20 - refine-draft
+- **Status**: Success (all nine files done)
+- **Files**: [attention-as-interface](/concepts/attention-as-interface/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [motor-selection](/concepts/motor-selection/), [retrocausality](/concepts/retrocausality/), [quantum-consciousness](/concepts/quantum-consciousness/), [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/), [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Source review**: [pessimistic-2026-11-17-illusionism-reply-grade](/reviews/pessimistic-2026-11-17-illusionism-reply-grade/) (priority item 3); grade taken from [illusionism](/concepts/illusionism/) as it stands, [deep-review-2026-11-17-illusionism](/reviews/deep-review-2026-11-17-illusionism/) Stability Notes and [P-RR1](/positions/replies-to-rivals/#p-rr1) in [replies-to-rivals](/positions/replies-to-rivals/)
+- **Original score**: n/a (targeted sentence edits; `scripts/curate.py` is absent)
+- **Change, same on every page**: the one-line regress (or "self-undermining") is no longer stated as a refutation; it is reported as a reply that assumes what illusionists deny. Every page now states the Map's rejection, on the hub's ground (the mechanism owed is not yet built; past that a framework boundary), with a piped link to the [P-RR1](/positions/replies-to-rivals/#p-rr1) anchor. Second, independent replies on each page are kept.
+- **attention-as-interface** (3477 → 3478, +1):
+  - Before: "But if the sense of effort is an illusion, something must experience that illusion—the regress problem. Even philosophers who accept illusionism report attention *still feels* effortful."
+  - After: "The regress reply—something must experience the illusion—assumes what illusionists deny, that the seeming is phenomenal. The Map's rejection rests on illusionism's not-yet-built mechanism and a framework boundary."
+  - The unsourced "Even philosophers who accept illusionism report…" sentence is removed (no source on the page).
+- **brain-interface-boundary** (3314 → 3321, +7):
+  - Before: "The Map responds that the "illusion" itself must be explained—and as Raymond Tallis observes, illusions presuppose experience."
+  - After: "The Map rejects the view: the "illusion" itself needs explaining—though Tallis's reply that illusions presuppose experience assumes the seeming is phenomenal, which illusionists deny."
+- **motor-selection** (3498 → 3498, 0):
+  - Before: "But as Tallis notes, illusions presuppose experience. To seem one way rather than another, there must be something it's like to seem."
+  - After: "Tallis replies that illusions presuppose experience, which assumes the seeming is phenomenal—what illusionists deny. The Map rejects illusionism for its not-yet-built mechanism."
+- **retrocausality** (3427 → 3439, +12):
+  - Before: "But the regress problem applies—an illusion must appear to something. Even illusionist "seemings" face the temporal ordering puzzle."
+  - After: "The regress reply—an illusion must appear to something—assumes a phenomenal seeming, which illusionists deny. The Map rejects illusionism for its not-yet-built mechanism; even illusionist "seemings" face the temporal ordering puzzle."
+- **quantum-consciousness** (3693 → 3693, 0; page was and remains over the 3500 gate):
+  - Before: "Illusionism claims consciousness is illusion—but the regress problem poses a serious challenge: there must be something it *seems like* to have the illusion, and the seeming is itself phenomenal. Moreover, even if…"
+  - After: "Illusionism holds that phenomenal consciousness *as traditionally conceived* is illusory. The regress reply—the seeming is itself phenomenal—assumes what illusionists deny; the Map rejects illusionism for its not-yet-built mechanism. Moreover, even if…"
+  - Further Reading label: "The challenge that consciousness is illusion" → "The challenge that phenomenal consciousness is illusory" (same mis-statement of the view).
+- **quantum-biology-and-neural-mechanisms** (3498 → 3499, +1):
+  - Before: "Two responses: any account of why consciousness *seems* unified presupposes the very unity it denies (Tallis's regress: illusions presuppose experience), and even if…"
+  - After: "Two responses: the Map rejects illusionism for its not-yet-built mechanism (Tallis's reply that illusions presuppose experience assumes the phenomenality illusionists deny), and even if…"
+- **quantum-probability-consciousness** (3389 → 3388, −1):
+  - Before: "Illusionism offers a deflationary response:" / "The illusionist move faces the standard regress: for there to be an *illusion* of experiencing spin-up, something must undergo that illusion. The subject of misrepresentation must exist, and if it does, the indexical question remains."
+  - After: "Illusionism, which the Map rejects, offers a deflationary response:" / "The standard regress—something must undergo the *illusion* of experiencing spin-up—assumes the phenomenality illusionists deny. What survives is narrower: a misrepresenting system still exists, and a self-locating question remains for it."
+  - "the indexical question" became "a self-locating question": the page's indexical reading and its No Many Worlds paragraph need a phenomenal subject, which the surviving point does not supply against the illusionist. Those sections now rest on the stated rejection, not on the regress.
+- **quantum-indeterminacy-free-will** (3495 → 3484, −11):
+  - Before: "Two replies. The position is self-undermining: if reasoning is wholly constructed by neural processes unconnected to real reasoning, the decision to adopt illusionism was not itself genuinely reasoned to. And it faces Tallis's regress—calling the feeling of effort a "representation" presupposes something to which the representation is presented, and that experiencer cannot itself be a further representation without infinite regress, since misrepresentation presupposes presentation."
+  - After: "Two replies fall short. The charge that illusionism is self-undermining, its adoption not genuinely reasoned to, holds only granting phenomenal realism: illusionism denies phenomenal properties, not reasoning. Tallis's reply that "misrepresentation presupposes presentation" assumes the phenomenality illusionists deny. The Map rejects illusionism for its not-yet-built mechanism and, past that, at a framework boundary."
+  - Grading of the self-undermining charge reuses the wording in `concepts/libet-experiments`.
+- **mental-causation-and-downward-causation** (3560 → 3554, −6; page was and remains over the 3500 gate):
+  - Before: "…it no longer explains why consciousness strikes us as overwhelmingly real. As Tallis notes, illusions presuppose experience."
+  - After: "…it still owes an account of why consciousness strikes us as overwhelmingly real. The Map rejects illusionism on that unpaid debt."
+  - The Tallis (2024) reference-list entry is removed: the deleted sentence was its only citation on the page.
+- **Engagement with the illusionist (all nine)**: mixed. The mechanism debt presses a standard illusionism itself endorses; the residue is marked as a framework boundary. No page claims a refutation.
+- **Checked and found clean**: no page carries a 2011 date for Tallis (all cite 2024); none uses the label "Chalmers's meta-problem dilemma"; none glosses "as traditionally conceived"; no reply is attributed to Frankish.
+- **Left for a later pass** (outside this task's sentences): `concepts/motor-selection` still says the willed-versus-instructed signatures would be "contradicting illusionism" on one horn of its zombie reformulation; `concepts/attention-as-interface` lists Tallis (ref 19) and Dennett 2016 (ref 3) with no body citation, as it did before this edit; `concepts/quantum-consciousness` and `concepts/mental-causation-and-downward-causation` remain over the length gate.
+- **Not changed**: `last_deep_review` on any file; the COGITATE row of `concepts/attention-as-interface`.
+- **Published**: yes
 
 ## 23:17 - refine-draft
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-10-26 02:41:30+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-25 00:20:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
 - '[[quantum-indeterminacy-free-will]]'
@@ -20,7 +20,7 @@ concepts:
 - '[[introspection]]'
 - '[[prebiotic-collapse]]'
 created: 2026-01-07
-date: &id001 2026-10-20
+date: &id001 2026-11-25
 description: 'Backward causation in time-symmetric quantum mechanics. On retrocausal
   interpretations, the Libet problem dissolves: consciousness can select outcomes
   despite neural activity preceding awareness.'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:01:21+00:00
-lastmod: 2026-10-26 02:41:30+00:00
+lastmod: 2026-11-25 00:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,7 +122,7 @@ The transactional picture adds a subtlety: the handshake is atemporal. Decoheren
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue retrocausality solves a non-problem: if phenomenal experience is representational fiction, nothing is threatened by Libet. But the regress problem applies—an illusion must appear to something. Even illusionist "seemings" face the temporal ordering puzzle. And the functional asymmetry remains: voluntary actions differ from reflexes, and whatever generates this difference must interface with neural preparation. See [introspection](/concepts/introspection/) for why phenomenological data survives debunking attempts.
+[Illusionists](/concepts/illusionism/) argue retrocausality solves a non-problem: if phenomenal experience is representational fiction, nothing is threatened by Libet. The regress reply—an illusion must appear to something—assumes a phenomenal seeming, which illusionists deny. The Map [rejects illusionism](/positions/replies-to-rivals/#p-rr1) for its not-yet-built mechanism; even illusionist "seemings" face the temporal ordering puzzle. And the functional asymmetry remains: voluntary actions differ from reflexes, and whatever generates this difference must interface with neural preparation. See [introspection](/concepts/introspection/) for why phenomenological data survives debunking attempts.
 
 ## Contemplative Evidence
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-11-13 03:35:06+00:00
+ai_modified: 2026-11-25 00:20:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -37,14 +37,14 @@ concepts:
 - '[[libet-experiments]]'
 - '[[concepts/many-worlds]]'
 created: 2026-01-18
-date: &id001 2026-10-20
+date: &id001 2026-11-25
 description: How quantum indeterminacy opens space for libertarian free will, and
   why the luck objection loses force within—though only within—the Map's dualist framework.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-11-13 03:35:06+00:00
+lastmod: 2026-11-25 00:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,7 +163,7 @@ For free will the point needs stating carefully. It is too quick to say that und
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) (Frankish 2016) hold that phenomenal consciousness is an illusion and that the feeling of choosing is constructed post hoc, so "phenomenology of effort" is a functional representation rather than evidence of non-physical causation. Two replies. The position is self-undermining: if reasoning is wholly constructed by neural processes unconnected to real reasoning, the decision to adopt illusionism was not itself genuinely reasoned to. And it faces Tallis's regress—calling the feeling of effort a "representation" presupposes something to which the representation is presented, and that experiencer cannot itself be a further representation without infinite regress, since misrepresentation presupposes presentation.
+[Illusionists](/concepts/illusionism/) (Frankish 2016) hold that phenomenal consciousness is an illusion and that the feeling of choosing is constructed post hoc, so "phenomenology of effort" is a functional representation rather than evidence of non-physical causation. Two replies fall short. The charge that illusionism is self-undermining, its adoption not genuinely reasoned to, holds only granting phenomenal realism: illusionism denies phenomenal properties, not reasoning. Tallis's reply that "misrepresentation presupposes presentation" assumes the phenomenality illusionists deny. The Map [rejects illusionism](/positions/replies-to-rivals/#p-rr1) for its not-yet-built mechanism and, past that, at a framework boundary.
 
 The [introspection literature](/concepts/introspection/) identifies where reports fail (causal processes, decision justification) and where they succeed (basic phenomenal states, effort). The [choking phenomenon](/concepts/agent-causation/#skill-delegation-and-the-interface) supplies non-verbal evidence: skilled performance degrades when attention is deployed, however we theorise about phenomenology.
 

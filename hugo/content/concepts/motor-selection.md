@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-11-20 02:36:34+00:00
-ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-11-25 00:20:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 coalesced_from:
 - /concepts/motor-selection/
@@ -24,14 +24,14 @@ concepts:
 - '[[illusionism]]'
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-01-18
-date: &id001 2026-11-20
+date: &id001 2026-11-25
 description: Motor control and attention share neural substrates; dopamine marks salience
   and sets thresholds. Where conscious selection could enter, and how, stays open.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:49:10+00:00
-lastmod: 2026-11-20 02:36:34+00:00
+lastmod: 2026-11-25 00:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -188,7 +188,7 @@ Stapp describes consciousness holding a "template for action" stable; the phenom
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that motor selection phenomenology—effort, authorship, veto—is representational fiction. But as Tallis notes, illusions presuppose experience. To seem one way rather than another, there must be something it's like to seem.
+[Illusionists](/concepts/illusionism/) argue that motor selection phenomenology—effort, authorship, veto—is representational fiction. Tallis replies that illusions presuppose experience, which assumes the seeming is phenomenal—what illusionists deny. The Map [rejects illusionism](/positions/replies-to-rivals/#p-rr1) for its not-yet-built mechanism.
 
 The correlation between felt effort and motor difficulty poses a problem for illusionism. Novel movements feel harder than practiced ones; complex sequences feel harder than simple actions. On the Zeno reading, difficult actions would require more frequent observation events, producing greater felt effort. If phenomenology were disconnected from motor processing, this correlation would be coincidental.
 
