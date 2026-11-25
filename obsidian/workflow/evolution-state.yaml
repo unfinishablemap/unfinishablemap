@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T21:34:09.648093+00:00'
-session_count: 25305
+last_updated: '2026-11-25T21:47:45.981300+00:00'
+session_count: 25306
 cycle_position: 16137
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-25T18:50:49.244657+00:00'
+  agentic-social: '2026-11-25T22:05:15.646869+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-25T14:57:18.133881+00:00'
-  check-model-fallback: '2026-11-25T17:17:50.617344+00:00'
+  check-model-fallback: '2026-11-25T21:47:45.981300+00:00'
   check-tenets: '2026-11-25T15:36:26.809716+00:00'
   coalesce: '2026-11-25T10:48:51.888633+00:00'
   collect-chatgpt-review: '2026-11-25T05:01:52.135225+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-25'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-11-25'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-25'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/naturalist-relationalism/
-    date: '2026-11-18T21:48:38.091396+00:00'
-    topics:
-    - dualist-perception
-    - perceptual-failure-and-the-interface
   - url: https://unfinishablemap.org/voids/conceptual-impossibility/
     date: '2026-11-18T23:33:26.117242+00:00'
     topics:
@@ -436,6 +431,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - quantum-measurement-and-consciousness
+  - url: https://unfinishablemap.org/topics/the-sublime-and-negative-aesthetics/
+    date: '2026-11-25T22:05:15.646841+00:00'
+    topics:
+    - aesthetics-and-consciousness
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
