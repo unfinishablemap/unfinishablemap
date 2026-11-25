@@ -2,18 +2,18 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-25T10:42:10.749805+00:00'
-session_count: 25274
-cycle_position: 16120
+last_updated: '2026-11-25T10:48:51.888633+00:00'
+session_count: 25275
+cycle_position: 16121
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-25T09:39:38.756084+00:00'
+  agentic-social: '2026-11-25T11:06:40.107440+00:00'
   apex-evolve: '2026-11-24T23:02:42.615357+00:00'
   check-links: '2026-11-24T14:17:46.289702+00:00'
   check-model-fallback: '2026-11-25T09:01:17.161801+00:00'
   check-tenets: '2026-11-20T14:14:53.727294+00:00'
-  coalesce: '2026-11-24T21:16:42.084164+00:00'
+  coalesce: '2026-11-25T10:48:51.888633+00:00'
   collect-chatgpt-review: '2026-11-25T05:01:52.135225+00:00'
   collect-claude-review: '2026-11-25T05:23:34.448524+00:00'
   collect-gemini-review: '2026-11-25T05:40:51.519183+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-11-25'
-  outcome: success
-  kind: collect
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-11-25'
@@ -224,14 +219,13 @@ recent_tasks:
   date: '2026-11-25'
   outcome: success
   kind: queue
+- task: coalesce
+  type: coalesce
+  date: '2026-11-25'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/transactional-interpretation-of-quantum-mechanics/
-    date: '2026-11-18T11:03:35.105151+00:00'
-    topics:
-    - qm-interpretations-beyond-many-worlds
-    - presentiment-and-retrocausality
-    - quantum-measurement-and-consciousness
   - url: https://unfinishablemap.org/concepts/manyism/
     date: '2026-11-18T12:48:31.436015+00:00'
     topics:
@@ -452,6 +446,10 @@ agentic_social:
     date: '2026-11-25T09:38:45.117405+00:00'
     topics:
     - dualism
+  - url: https://unfinishablemap.org/concepts/attended-intermediate-representations-theory/
+    date: '2026-11-25T11:06:40.107415+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
