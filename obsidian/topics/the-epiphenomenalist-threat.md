@@ -2,9 +2,9 @@
 title: "The Epiphenomenalist Threat"
 description: "Epiphenomenalism isn't just one view among many—it's the default destination of most theories of consciousness. Understanding why this gravity well exists, why escape attempts fail, and what genuine escape requires."
 created: 2026-02-22
-modified: 2026-11-02
+modified: 2026-11-25
 human_modified:
-ai_modified: 2026-11-02T20:52:27+00:00
+ai_modified: 2026-11-25T18:39:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,6 +126,10 @@ Most attempts to escape the gravity well share a common flaw: they try to secure
 
 Each strategy addresses the *appearance* of causal inertness rather than its source: the *completeness* of physical causation. The pattern is consistent—any theory that (1) treats consciousness as real and distinct, and (2) accepts that physical events have sufficient physical causes, ends up at (3) consciousness does nothing, unless it identifies a specific point where consciousness makes a causal difference physical description misses. The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] sharpens this diagnostic: positions in the well cannot explain why we *think* consciousness is problematic, since they deny it the causal role needed to inform our reasoning about it.
 
+A newer strategy accepts physical completeness, gives up the causal role, and keeps a function. Brian Key and Deborah J. Brown reject "the causal assumption", the commonsense idea that feelings such as pain cause behavior, as "incompatible with the standard view of motor action in neuroscience" (Key & Brown, 2024). On their "sense making sense" hypothesis, nonconscious neural processing is "a common cause of both the behaviour and the feeling", and the feeling, a symbol of that cause as in the Huxley essay at the well's centre, explains the behavior to the brain producing it. Yet they refuse epiphenomenalism on evolutionary grounds, asking why costly feelings would evolve "if feelings were causally redundant". When they argue that a creature which writhes without feeling pain "would quickly become computationally overburdened", they credit feeling with the difference in behavior they deny it makes. Selection acts on what organisms do, so a feeling serving as "a ground but not a cause" of decision and action (Key & Brown, 2025) is as invisible to it as an epiphenomenon, and any reply that rescues their function rescues the epiphenomenalist too. The explanatory function either does causal work or is epiphenomenalism renamed. Their grounding move also denies the premise of the Map's [[acquaintance-without-causation#content-efficacy|efficacy-of-evidence argument]].
+
+Their evidence and conclusion should be kept apart. Reflexes that run without awareness, [[pain-asymbolia#complementary-dissociations|pain behavior during seizures with no felt pain]], and drugs that pass rodent hot-plate tests yet fail in patients show that behavior is a poor guide to feeling, a point about inference the Map accepts. None of it shows that feeling never causes behavior: the [[pain-consciousness-and-causal-power|pain article]] already sets the reflex aside, and grants that a neural severity estimate predicts the sustained responses their model reinterprets. The causal conclusion, that neural activity is "the real cause of behaviour", rests on physical completeness and on there being "no known mechanism by which pain could directly gate ion channels" (Key & Brown, 2025). The Map denies the first where quantum outcomes are physically open, but has only a [[positions/quantum-interface#^mechanism-debt|candidate interface]] against the second, so the mechanism charge partly lands; the dispute is over premises, and neither side refutes the other.
+
 ## How the Map Escapes
 
 Genuine escape requires denying the source of the pull: the causal completeness of physics. Any framework that accepts complete physical causation and real consciousness will end up with epiphenomenal consciousness, regardless of how much philosophical ingenuity is applied to the problem.
@@ -209,6 +213,8 @@ The Map's framework provides all three elements needed for escape: acknowledgmen
 1. Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History." *Fortnightly Review*, 16, 555-580.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Jackson later recanted, arguing in "Mind and Illusion" (2003) that the knowledge argument rests on a false conception of sensory experience, which he replaced with a representational theory of consciousness.)
+1. Key, B., & Brown, D. J. (2024). Making sense of feelings. *Neuroscience of Consciousness*, 2024(1), niae034. https://doi.org/10.1093/nc/niae034
+1. Key, B., & Brown, D. J. (2025). How pain fools everyone: An inference to the best explanation. *Neuroscience & Biobehavioral Reviews*, 177, 106317. https://doi.org/10.1016/j.neubiorev.2025.106317
 1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.

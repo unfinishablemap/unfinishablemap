@@ -2,9 +2,9 @@
 title: "Pain, Consciousness, and Causal Power"
 description: "Pain is the hard problem made personal, and the sharpest pressure on epiphenomenalism: felt awfulness resists physical reduction and seems one with the power behind avoidance, a unity asymbolia fits but does not establish."
 created: 2026-02-09
-modified: 2026-11-19
+modified: 2026-11-25
 human_modified:
-ai_modified: 2026-11-25T10:39:49+00:00
+ai_modified: 2026-11-25T18:40:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,9 +137,9 @@ Most philosophical discussions of [[mental-causation-and-downward-causation|ment
 
 When you touch a hot stove, the nociceptive signal travels through C-fibres and A-delta fibres to the brain. But the *withdrawal* — the urgent, whole-body recoil — appears phenomenologically unified with the awfulness: the pain hurts *and therefore* you pull away. The "therefore" is experienced, not inferred — though the epiphenomenalist may read this felt unity as itself a product of the underlying physical process rather than evidence of phenomenal causation.
 
-The epiphenomenalist insists the withdrawal would occur identically without conscious experience. But this conflates the initial spinal reflex (which is indeed unconscious and automatic) with the sustained behavioural response that follows. The spinal reflex yanks your hand away. On the Map's reading, consciousness shapes what happens next: whether you run cold water over the burn, avoid the stove for hours afterward, or develop a lasting wariness. These extended responses track the *felt severity* of the pain, not merely the magnitude of tissue damage; a neural severity estimate predicts that too.
+The epiphenomenalist insists the withdrawal would occur identically without conscious experience. But this conflates the initial spinal reflex (which is indeed unconscious and automatic) with the sustained behavioural response that follows. The spinal reflex yanks your hand away. On the Map's reading, consciousness shapes what happens next: whether you run cold water over the burn, avoid the stove for hours afterward, or develop a lasting wariness. These extended responses track the *felt severity* of the pain, not merely the magnitude of tissue damage; a neural severity estimate predicts that too. Key and Brown (2024) build a [[the-epiphenomenalist-threat#why-escape-attempts-fail|non-causal account]] on that possibility, reading even guarding as driven by a prediction rather than by the pain.
 
-Asymbolia makes this vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. That rules out identifying the awfulness with damage-detection, though not with the aversive disposition lost alongside it. What asymbolia leaves open is that phenomenal character may be a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's (2005) [[causal-exclusion-argument|causal exclusion argument]] denies: that phenomenal properties [[constitution-vs-causal-work|contribute causally beyond the physical base]]. The dissociation itself is a shared explanandum, though: [[pain-asymbolia#Causal Efficacy of Phenomenal Quality|a valence-prior account]] predicts it too, and on Noordhof's (2021) reversal the missing disposition explains the missing painfulness, so the dissociation constrains Kim's reading rather than refuting it.
+Asymbolia makes that tracking vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. That rules out identifying the awfulness with damage-detection, though not with the aversive disposition lost alongside it. What asymbolia leaves open is that phenomenal character may be a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's (2005) [[causal-exclusion-argument|causal exclusion argument]] denies: that phenomenal properties [[constitution-vs-causal-work|contribute causally beyond the physical base]]. The dissociation itself is a shared explanandum, though: [[pain-asymbolia#Causal Efficacy of Phenomenal Quality|a valence-prior account]] predicts it too, and on Noordhof's (2021) reversal the missing disposition explains the missing painfulness, so the dissociation constrains Kim's reading rather than refuting it.
 
 The unity claim faces a dilemma. As a claim about the pain sensation, it meets Grahek's counterexample above: pain felt without motivational force. As a claim about awfulness understood as the motivational component, it is near-analytic, and imperativists and Noordhof accept it too. The conceivable pain-zombie below adds that character and behaviour are at most nomologically linked. The Map replies that the unity joins felt awfulness to the *power* behind the sustained response, not to the behaviour a zombie performs emptily. That reply buys coherence, not discrimination: the asymbolic lesion remains a common cause of lost awfulness and response.
 
@@ -212,6 +212,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 1. Griffith, T. & Kind, A. (2024). "Pain Asymbolia is Not Pain." *Philosophy of Science*, 91(3), 561–578. https://doi.org/10.1017/psa.2023.167
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
 1. Jensen, K. B., Kaptchuk, T. J., Kirsch, I., et al. (2012). "Nonconscious Activation of Placebo and Nocebo Pain Responses." *Proceedings of the National Academy of Sciences*, 109(39), 15959–15964.
+1. Key, B., & Brown, D. J. (2024). "Making Sense of Feelings." *Neuroscience of Consciousness*, 2024(1), niae034. https://doi.org/10.1093/nc/niae034
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Kragel, P. A., & LaBar, K. S. (2015). "Multivariate Neural Biomarkers of Emotional States Are Categorically Distinct." *Social Cognitive and Affective Neuroscience*, 10(11), 1437–1448.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
