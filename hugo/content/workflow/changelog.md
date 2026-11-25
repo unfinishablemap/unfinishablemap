@@ -1,14 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 14:56:07+00:00
+ai_modified: 2026-11-25 15:03:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 14:56:07+00:00
+lastmod: 2026-11-25 15:03:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:03 - research-voids
+- **Status**: Success (skipped by the driver: voids is effectively at capacity; no fork, no research note)
+- **Measure**: `count_section_files('voids')` = 124 against cap 125, so 1 slot. Five pending P3 expand-topic tasks already target `voids/` for it (amodal-void, noseeum-void, substitution-void, compartment-void, geometry-void), plus the NEEDS-HUMAN contingency-void slot item, and 246 `voids-*` research notes are banked. A new voids research note could not become an article ahead of the five queued ones, so it would only add to the bank.
+- **Finding**: the skill's capacity check stops only at `count >= cap`. With 1 slot and 5 queued claimants, the section is effectively full. The operator could have the skill also stop when pending voids expand tasks are at least the remaining slots, or raise the voids cap.
+- **Output**: none
 
 ## 14:56 - check-links
 - **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
