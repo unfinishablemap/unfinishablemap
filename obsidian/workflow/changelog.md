@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25T22:48:00+00:00
+ai_modified: 2026-11-25T23:23:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-25 23:23 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Interface-variation wing (5 pages, read in full; the oldest connected cluster by last body mention in any optimistic review, after excluding the four wings reviewed since 11-11, 36 pages edited today and 376 open-task File stems): topics/comparative-consciousness-and-interface-differences (3,473, headroom 526; last mention 06-24), topics/consciousness-interface-development (3,988, headroom 11; 07-18), concepts/mind-matter-interface (2,678, headroom 821; 08-03), concepts/interface-heterogeneity (2,619, headroom 880; 08-21), concepts/universal-coupling-response (1,879, headroom 1,620; 10-10)
+- **Ranked priority list**: (1) mind-matter-interface L146 calls warm-biology quantum coherence "demonstrable" and says avian magnetoreception "relies on it", using it to discount decoherence, against P-Q8 and the radical-pair page; the 10-11 sweep (ecd59e9b20) keyed on a different wording and missed it; (2) universal-coupling-response L42 says IIT requires phi to exceed zero "by a meaningful amount" (Tononi & Koch 2015: any Φmax > 0, "can occur in some very simple systems"), and L84's heading "Consciousness varies in degree, not kind" commits the Map where degrees-of-consciousness ("not just kind"), evolution-under-dualism ("does not commit") and interface-heterogeneity leave it open; (3) comparative-consciousness L79 keeps the lineage-to-mechanism inference interface-heterogeneity withdrew on 10-25, L89 says a severed octopus arm "can solve simple problems" (Sumbre et al. 2001: a peripheral motor program), L50 drops the vertebrates from the New York Declaration's second tier; (4) consciousness-interface-development L117/L119 superlatives flagged by the 08-02 pessimistic review and never tasked, plus L121 "not brain size", net ≤ 0
+- **Sources**: full text at PMC: Tononi & Koch 2015 (PMC4387509). PubMed abstracts: Bassetto et al. 2023, Sumbre et al. 2001, Dorkenwald et al. 2024, Miller et al. 2012, Medeiros et al. 2021, Pophale et al. 2023, Loukola et al. 2017. Live pages: the New York Declaration text; SEP *Panpsychism* (2022 revision). Not obtained: Tonetto's PhilArchive paper (JavaScript challenge), so mind-matter-interface's L76 quote and missing reference stay a LEAD
+- **Uncovered subjects for the harvester**: octopus two-stage sleep ("Pophale" 0/0/0); octopus arm peripheral motor programs ("Sumbre" 0/0/0); the adult fly connectome ("FlyWire" 0/0/0); bee object manipulation ("Loukola" 0/0/0); human-versus-chimpanzee myelination timing ("prolonged myelination" 0/0/0). Each with a positive control in the review
+- **Tasks minted**: 4 P3 refine-draft directly above `## Completed Tasks` (todo L7138, L7156, L7181, L7203); parse_tasks active 532 → 536; count_p0_p2_tasks 18 → 18
+- **Output**: [[reviews/optimistic-2026-11-25-interface-variation-wing]]
 
 ## 2026-11-25 22:48 UTC - research-topic
 - **Status**: Success
