@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 07:11:44+00:00
+ai_modified: 2026-11-25 07:34:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 07:11:44+00:00
+lastmod: 2026-11-25 07:34:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:33 - refine-draft
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Task**: outer-review synthesis 2026-11-25, order 8 of 9 — mark the necessity claim as the Map's contested commitment (Vulcan bullet-bite); Smithies orphan/forthcoming. Commitment marked, not softened.
+- **Changes**:
+  - Necessity sentence. BEFORE: "But valence provides the necessary condition: without felt badness, there is nothing for moral concern to be about." AFTER: "But valence is, on the Map's [defeasible commitment → positions/moral-status#^p-ms1], the necessary condition: without experience that feels good or bad to its subject, there is no one who can be wronged. The commitment bites a bullet: [philosophical Vulcans → sentientism#^vulcans], conscious beings who feel nothing good or bad, would have no moral status. Smithies (2026) argues that zombies cannot be excluded without excluding Vulcans too; the phenomenal reading of his hedonic criterion is the Map's further step, one that, unlike its dualism, depends on the hedonic account above." Wording echoes [P-MS1](/positions/moral-status/#p-ms1) ("feels good or bad to its subject", "who can be wronged") and the sentientism Vulcans anchor; the Smithies clause claims no more than sentientism's own sentence and the Crossref abstract. The closing clause answers the Gemini addendum (does the moral ground survive the hedonic account's defeat?) at the register's grade: [P-MS1](/positions/moral-status/#p-ms1) lists the phenomenal horn of the valence dispute as a dependency.
+  - "Jeremy Bentham's principle" → "Jeremy Bentham's (1789) principle"; reference entry added (ch. XVII, §1, footnote to ¶IV), quotation and footnote location verified this run against the UT Austin IPML text (ipml.c17.s01.n02).
+  - Smithies entry: "(forthcoming)" → "(2026) … (Vol. 5, pp. 307–336) … https://doi.org/10.1093/9780198994121.003.0011", verified at Crossref this run (pp. 307-336, published 2026-06-25).
+  - Cleeremans & Tallon-Baudry entry: added article number niac007 and DOI 10.1093/nc/niac007 (Crossref).
+- **Length**: 2600 → 2689 by analyze_length (+89; ceiling +90).
+- **Not changed, reported**: "trillions of invertebrates" left as is (the linked invertebrate article asserts "trillions of insects annually", itself unsourced; Rowe 2020 remains an unverified lead); Rawlette publisher not added (unverified); the "framework commitment, not a probability the evidence supplies" wording left (no budget; reading judged clear); `topics/emotion-and-dualism` still lists Smithies as forthcoming (separate P2).
+- **Engagement classification**: Vulcan objection — Mode Three (boundary marked as a bitten bullet, not refuted).
+- **Published**: yes
 
 ## 07:11 - deep-review
 - **Status**: Success

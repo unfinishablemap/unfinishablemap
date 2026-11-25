@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-11-25 06:48:12+00:00
+ai_modified: 2026-11-25 07:33:31+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 15:29:00+00:00
-lastmod: 2026-11-25 06:48:12+00:00
+lastmod: 2026-11-25 07:33:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,11 +78,11 @@ This bears on the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 
 ## Valence and Moral Status
 
-If valence is an intrinsic phenomenal property, it provides the ground for moral significance. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—expresses a valence-based [sentientism](/concepts/sentientism/), on which the capacity for valenced experience is what qualifies a being for moral consideration.
+If valence is an intrinsic phenomenal property, it provides the ground for moral significance. Jeremy Bentham's (1789) principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—expresses a valence-based [sentientism](/concepts/sentientism/), on which the capacity for valenced experience is what qualifies a being for moral consideration.
 
 This connects directly to [phenomenal-value-realism](/topics/phenomenal-value-realism/). If the badness of suffering is objective and intrinsic, moral facts may depend on phenomenal facts. As Rawlette (2016) argues, the wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state, grounding moral realism in the felt quality of experience itself.
 
-A gap remains between phenomenal and normative facts. That suffering *feels* bad does not immediately entail that causing it *ought not* be done. But valence provides the necessary condition: without felt badness, there is nothing for moral concern to be about. The [invertebrate ethics question](/topics/ethics-of-consciousness-invertebrate-question/) tests the limits of this principle. If the difference consciousness makes runs on a signal distinguishing beneficial from harmful, valence would be structurally expected wherever coupling occurs, and trillions of invertebrates in agricultural systems may possess the very capacity that grounds moral status. That expectation is a framework commitment, not a probability the evidence supplies—a distinction the invertebrate article keeps explicit.
+A gap remains between phenomenal and normative facts. That suffering *feels* bad does not immediately entail that causing it *ought not* be done. But valence is, on the Map's [defeasible commitment](/positions/moral-status/#p-ms1), the necessary condition: without experience that feels good or bad to its subject, there is no one who can be wronged. The commitment bites a bullet: [philosophical Vulcans](/concepts/sentientism/#vulcans), conscious beings who feel nothing good or bad, would have no moral status. Smithies (2026) argues that zombies cannot be excluded without excluding Vulcans too; the phenomenal reading of his hedonic criterion is the Map's further step, one that, unlike its dualism, depends on the hedonic account above. The [invertebrate ethics question](/topics/ethics-of-consciousness-invertebrate-question/) tests the limits of this principle. If the difference consciousness makes runs on a signal distinguishing beneficial from harmful, valence would be structurally expected wherever coupling occurs, and trillions of invertebrates in agricultural systems may possess the very capacity that grounds moral status. That expectation is a framework commitment, not a probability the evidence supplies—a distinction the invertebrate article keeps explicit.
 
 ## Relation to Site Perspective
 
@@ -112,7 +112,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 
 1. Russell, J. A., & Barrett, L. F. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805-819.
 1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
-1. Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
+1. Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007. https://doi.org/10.1093/nc/niac007
 1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 1. Scarantino, A. (2009). Core affect and natural affective kinds. *Philosophy of Science*, 76(5), 940-957. https://doi.org/10.1086/605816
 1. Labukt, I. (2012). Hedonic tone and the heterogeneity of pleasure. *Utilitas*, 24(2), 172-199. https://doi.org/10.1017/S0953820812000052
@@ -120,7 +120,8 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 1. Hesp, C., Smith, R., Parr, T., Allen, M., Friston, K. J., & Ramstead, M. J. D. (2021). Deeply felt affect: the emergence of valence in deep active inference. *Neural Computation*, 33(2), 398–446. https://doi.org/10.1162/neco_a_01341
 1. Gerrans, P. (2020). Pain asymbolia as depersonalization for pain experience: An interoceptive active inference account. *Frontiers in Psychology*, 11, 523710. https://doi.org/10.3389/fpsyg.2020.523710
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
-1. Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind* (Vol. 5). Oxford University Press.
+1. Smithies, D. (2026). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind* (Vol. 5, pp. 307–336). Oxford University Press. https://doi.org/10.1093/9780198994121.003.0011
+1. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*, ch. XVII, §1, footnote to ¶IV.
 1. Aydede, M. (2023). Is pain representational? *Belgrade Philosophical Annual*, 36(2), 25–39. https://doi.org/10.5937/bpa2302025a
 1. Bain, D. (2013). What makes pains unpleasant? *Philosophical Studies*, 166(S1), 69–89. https://doi.org/10.1007/s11098-012-0049-7
 1. Bain, D. (2014). Pains that don't hurt. *Australasian Journal of Philosophy*, 92(2), 305–320. https://doi.org/10.1080/00048402.2013.822399
