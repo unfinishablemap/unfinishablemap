@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-25 05:22:20+00:00
+ai_modified: 2026-11-25 05:39:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-25'
-lastmod: 2026-11-25 05:22:20+00:00
+lastmod: 2026-11-25 05:39:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:39 - collect-gemini-review
+- **Status**: Success
+- **Reviewer**: Gemini 4 Neon (gemini.google.com, Deep Research; the composer pill read "Neon High"; slug `gemini-4-neon`)
+- **Review file**: [outer-review-2026-11-25-gemini-4-neon](/reviews/outer-review-2026-11-25-gemini-4-neon/) (subject: `concepts/valence`, reused from the ChatGPT commission; report complete, 6,447 words / 51.7k characters, ending with the eight-item weaknesses list and a one-sentence verdict, "Reject outright"; extracted word count matched the panel)
+- **Pending entry**: marked collected
+- **Page state**: research finished (panel dated "Nov 25, 4:55 AM"), no stop button, no error turn. Nothing was submitted and no setting was touched.
+- **Extraction**: the JS tool truncates output near 1,000 characters and its filter blocked larger chunks, so the walked markdown was written into the page's own `<main>` and read back with `get_page_text` in three 45k slices, then the page was reloaded. Three embedded chart iframes were not captured. The panel's "Sources used in the report" list (491 entries, Gemini's browse log) is kept at the end of the Reply.
+- **Claims verified**: all 31 DOIs in the report resolve at Crossref to the stated authors, titles, journals and pages; 6 abstract-level checks at OpenAlex (Cleeremans and Tallon-Baudry, Hagiwara et al., Key and Brown, Gerrans 2020 and 2024, Hesp et al., Barlassina 2020). Findings and figures the report attributes to those papers are otherwise unread and marked as leads. 7 findings convergent with the earlier reviews, 1 new and verified, 5 partly right, 2 disputed.
+- **High-value findings**: 1 new (the page says a zombie's pain-processing "would be functionally identical to ours" two sections before arguing that felt badness does causal work, without the conditional `concepts/philosophical-zombies` already concedes in "The Interactionist Escape")
+- **Tasks generated**: 1 (P2, `concepts/valence`, minted above Completed Tasks)
+- **Addenda to existing tasks**: 7, on the P1 active-inference misattribution (now all three reviewers; Gerrans 2020/2024 named as the real active-inference account of asymbolia), the asymbolia shorthand (Hagiwara's inverse dissociation; Key and Brown 2024 as a lead), the necessity sentence (does the moral ground survive the hedonic account's defeat), the illusionist and Panksepp companions (verified Kammerer, LeDoux, Berridge metadata), the own-voice "common evaluative dimension" (Cleeremans's reductive moral; Čeko, Vaccaro, Cowen as leads), the reasons argument (objectless moods and reflexive imperativism; now two reviewers), and the "three accounts" framing (Pallies 2021 supplied as the missing citation; the Oppositeness question)
+- **False alarms**: the charge that the tenet section "quietly reinstates" the single-currency thesis (that sentence reports "the value-sensitive position" at low credence); "inverts" Cleeremans and Tallon-Baudry (overstated: the page claims only functional significance); "falsely claims" invertebrate evidence is absent (the sentence grades a structural expectation, and the linked article cites Gibbons and Birch); "cannot coexist" for the zombie point is right about the page as worded and wrong about the Map, which has the reply
+- **Not taken up**: subjects absent from the corpus (Key and Brown 2024; Pallies 2021; Čeko 2022; Vaccaro 2024; Taschereau-Dumouchel 2022) and additions to neighbouring pages, left for the research harvest and the combine pass
+- **Headroom**: `concepts/valence` 2,474 of 3,500 (`analyze_length`), 1,025 words shared by nine open tasks
 
 ## 05:22 - collect-claude-review
 - **Status**: Success
