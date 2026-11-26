@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Strawson's Persons and the conceptual problem of other minds
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 2): Strawson's 'Persons' (1958; Individuals ch. 3, 1959) covers P-predicates, the primitive concept of a person, and the claim that self-ascription requires other-ascription; Avramides (Other Minds, 2001) treats the conceptual problem of other minds. 'P-predicate' 0/0, 'Avramides' 0/0, 'conceptual problem of other minds' 0/0. Individuals is cited, but only for sounds and categorial voids. Expect fold into concepts/problem-of-other-minds (its Wittgensteinian Dissolution heading, L76). Metadata is from memory in the review, so verify at the publisher. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/strawson-persons-conceptual-problem-of-other-minds-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'strawson-persons-conceptual-problem-of-other-minds' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-26
-
 ### P3: Research Valberg's horizonal subject as an inegalitarian first-person realism
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 5): Valberg, Dream, Death, and the Self (Princeton UP 2007, DOI 10.1515/9780691190181 at Crossref), is the third inegalitarian first-person realism beside Hare (concepts/egocentric-presentism) and Merlo. 'Valberg' 1 content hit (inside a Merlo quotation) and 2 research name-drops; 'personal horizon' 0/1; positive control 'Hare 2009' 2/2. Expect fold into concepts/egocentric-presentism or topics/subjective-facts-and-the-metaphysical-problem-of-other-minds. Verify quotations at source. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/valberg-horizonal-subject-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'valberg-horizonal-subject' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7618,8 +7612,38 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - TENETS: neutral throughout. Darwall's view is metaethical, so it is compatible only.
   - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
 
+### P3: Fold P. F. Strawson's "Persons" (1958) into the other-minds cluster as a CHALLENGE to the Map: the person as primitive; self-ascription requires readiness to ascribe the same predicates to others; Ayer (1963) says the argument reaches "any idea of a non-physical subject of consciousness"
+- **Type**: refine-draft
+- **File**: obsidian/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds.md
+- **Secondary files**: obsidian/concepts/logical-behaviourism.md, obsidian/concepts/problem-of-other-minds.md, obsidian/research/problem-of-other-minds-2026-01-14.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 18:07Z (`research/strawson-persons-conceptual-problem-of-other-minds-2026-11-26`, recommended_action fold); harvested from optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 2)
+- **Generated**: 2026-11-26
+- **Headroom**: subjective-facts 3,387/4,000 (+156); logical-behaviourism 2,607/3,500 (+85); problem-of-other-minds 3,472/3,500 (+9 ONLY, 27 words of headroom). With the open P3s on these pages also applied, they end at about 3,569 / 2,712 / 3,488. Re-measure all three first.
+- **Notes**: Apply the note's §Verdict and Fold Plan and §Guards for the Writer with their exact anchors.
+  - subjective-facts: three sentences appended to the Posit One entry (about L106), plus refs 18–20.
+  - logical-behaviourism: a new paragraph after L74 on Strawson's third way (P-predicates against both Cartesianism and behaviourism), plus ref 10.
+  - problem-of-other-minds: a scoping clause at L126, plus a ZERO-word piped link to [[logical-behaviourism]] at L80.
+  SOURCES: quote "Persons" from the 1958 *Minnesota Studies in the Philosophy of Science* 2 text with 1958 page numbers (U. Minnesota Digital Conservancy, hdl 11299/184616). *Individuals* (1959) was not reached and its wording differs (p. 99), so cite it only via SEP or Ayer. Ayer, "The Concept of a Person" (1963): read pp. 85–117 on archive.org. Gomes 2011 was read in full. Avramides 2001 (abstract only) and her SEP "Other Minds" (rev. 2023) entry were read in full.
+  GRADING:
+  - Tenet 1 as stated (irreducibility) does NOT conflict with Strawson, but he gives it no support either.
+  - He attacks Cartesian two-subject dualism. The Map's subject is closer to Lowe's, but that link is the note's reconstruction; Lowe never mentions Strawson.
+  - Against Posit One, Strawson is a direct challenge. The Map's exit, rejecting the verificationist premise that his identification requirement needs (Gomes), rejects a premise and refutes nothing. Mark it as a framework-boundary disagreement.
+  - Gomes's NON-verificationist version is NOT answered anywhere in the corpus. Say so; do not claim a reply.
+  GUARDS:
+  - Always write "P. F." Strawson (Galen Strawson appears nearby), and keep "Persons" distinct from "Freedom and Resentment".
+  - Strawson's own footnote concedes the premiss needs only READINESS to ascribe to others.
+  - Quote Nagel 1986 only via SEP.
+  - Do not touch the lines the open P3s own: subjective-facts L96/L36 (second-person cluster) and logical-behaviourism L30/L38/L78/L84.
+  RESEARCH-NOTE CORRECTION: `research/problem-of-other-minds-2026-01-14` L113 lists "P.F. Strawson" as a proponent of the Wittgensteinian dissolution. Strawson REJECTS the 1930–33 Wittgensteinian "no-ownership" view ("Persons" pp. 334–336, 353). Add a dated correction there.
+  ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Research Strawson's Persons and the conceptual problem of other minds
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 2): Strawson's 'Persons' (1958; Individuals ch. 3, 1959) covers P-predicates, the primitive concept of a person, and the claim that self-ascription requires other-ascription; Avramides (Other Minds, 2001) treats the conceptual problem of other minds. 'P-predicate' 0/0, 'Avramides' 0/0, 'conceptual problem of other minds' 0/0. Individuals is cited, but only for sounds and categorial voids. Expect fold into concepts/problem-of-other-minds (its Wittgensteinian Dissolution heading, L76). Metadata is from memory in the review, so verify at the publisher. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/strawson-persons-conceptual-problem-of-other-minds-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'strawson-persons-conceptual-problem-of-other-minds' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-26: Research Darwall's second-person standpoint and second-personal reasons
 - **Type**: research-topic

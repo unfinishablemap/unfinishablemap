@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T17:03:14+00:00
+ai_modified: 2026-11-26T18:07:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 18:07 UTC - research-topic
+- **Status**: Success
+- **Topic**: Strawson's "Persons" and the conceptual problem of other minds
+- **Output**: [[research/strawson-persons-conceptual-problem-of-other-minds-2026-11-26]]
+- **Sources consulted**: 9 external. Four were read in full, with every quotation grep-checked in the raw text: Strawson 1958 "Persons" (open PDF text, UMN Digital Conservancy, hdl 11299/184616); Ayer 1963 "The Concept of a Person" pp. 85–117 (archive.org full text); the Gomes 2011 preprint (Wayback copy of PhilArchive); and SEP "Other Minds" (Avramides 2023) with its notes. Three were read in part: SEP "Strawson" (Snowdon & Gomes), Lowe 2012 pp. 48–56, and the Minnesota Studies vol. 2 title page (editors). Two were metadata or abstract only: Avramides 2001 (Crossref and OpenAlex) and *Individuals* 1959 (lending-restricted, quoted only via SEP and Ayer).
+- **Verdict**: `recommended_action: fold`, no article. Topics are 370/370 and concepts 370/370 (`count_section_files`).
+- **Core finding**: Strawson's argument is a challenge to the Map, not support. It leaves Tenet 1's bare irreducibility untouched, since P-predicates are not analysable into M-predicates and he never argues physicalism. It hits Cartesian two-subject dualism directly. It also hits Posit One's criterion-independent individuation: Ayer 1963 p. 86 says Strawson's reasons reach "any idea of a non-physical subject of consciousness". The Map's exit is to reject the verificationist principle of significance that Gomes 2011 shows the identification requirement needs. That is a premise rejection at the framework boundary, not a refutation. The open residue is Gomes's non-verificationist version: the interactionist's "behaviour as causal trace" advantage presupposes the concept of another's experience.
+- **Fold plan (for the driver to mint)**: +250 in total, measured with `analyze_length` on scratch copies. (1) `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` +156 (3,387 → 3,543): a 3-sentence addition to the Posit One entry (L106) and refs 18–20. (2) `concepts/logical-behaviourism` +85 (2,607 → 2,692): a new paragraph after L74 and ref 10. (3) `concepts/problem-of-other-minds` +9 (3,472 → 3,481): a scoping clause at L126 and a zero-word pipe to [[logical-behaviourism]] at L80. All three are disjoint from the open P3s on those pages.
+- **Guards recorded**: P. F. vs Galen Strawson; "Persons" kept distinct from "Freedom and Resentment"; 1958 wording vs *Individuals* p. 99 wording; Strawson's own weaker "prepared to ascribe" premiss (p. 338 n.); Lowe does not reply to Strawson (0 mentions in the chapter); Avramides 2001 abstract-only; Nagel 1986 via SEP only. Correction: `research/problem-of-other-minds-2026-01-14` L113 files Strawson as a simple Wittgensteinian, but he rejects the 1930–33 no-ownership view (pp. 334–336, 353).
 
 ## 2026-11-26 17:35 UTC - research-topic
 - **Status**: Success
