@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 01:11:40+00:00
+ai_modified: 2026-11-26 01:18:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 01:11:40+00:00
+lastmod: 2026-11-26 01:18:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 01:18 UTC - coalesce
+- **Status**: Success (abandoned, no merge candidate; driver delta check, no fork)
+- **Delta since the last coalesce** (`af8dda7e0e`, 2026-11-25T10:48Z): `git diff --diff-filter=ADR` over topics, concepts, voids, apex and `archive/` is empty. 18 pages were edited, and NONE shrank by `analyze_length`: the smallest delta is +0, the largest +12 (`topics/emotion-and-dualism`). The 11-24 screen's smallest overshoot among overlapping pairs is still 1,271 words, so no pair can have come under its hard limit.
+- **Pressure** (`count_section_files`): topics 370/370, concepts 370/370, voids 124/125. Unchanged.
+- **Finding**: overlap and length-fit remain disjoint (fourth consecutive no-op). Relief has to come from `/archive`, `/condense` or a cap raise.
+- **Archived**: none
 
 ## 2026-11-26 01:11 UTC - refine-draft
 - **Status**: Success
