@@ -39,6 +39,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Two-stage quiet and active sleep in octopuses
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Medeiros et al. 2021 and Pophale et al. 2023 are 0/0/0 across live, research and archive ('active sleep' hits are human only; positive control 'octopus' 27/15/7). A cephalopod sleep-state architecture bears on comparative markers in topics/comparative-consciousness-and-interface-differences. Topics and concepts are at cap (370/370), so expect recommended_action: fold, host topics/comparative-consciousness-and-interface-differences (~526 headroom at review time; an open P3 owns its L50/L79/L89 and a LeDoux fold reserves about +54 at L141, so re-measure and anchor elsewhere). Grade any consciousness inference at the authors' own grade; sleep architecture is not a consciousness marker by itself. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/two-stage-sleep-in-octopuses-2026-11-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'two-stage-sleep-in-octopuses' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-26
+
+### P3: Research The adult Drosophila whole-brain connectome and what it does and does not settle
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Dorkenwald et al. 2024 (FlyWire) is 0/0/0 ('FlyWire', 'Dorkenwald', '139,255'; positive control 'connectome' 8/6/2). concepts/universal-coupling-response gives a Drosophila neuron count of ~100,000 where the connectome gives 139,255 (an open P3 from the same review may fix the number). The research should say what a complete wiring diagram does and does not settle for consciousness attributions. Concepts and topics are at cap, so expect recommended_action: fold, host concepts/universal-coupling-response (~1,620 headroom at review time; coordinate with its open P3 on L42/L84). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/adult-drosophila-whole-brain-connectome-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'adult-drosophila-whole-brain-connectome' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-26
+
+### P3: Research Bee object manipulation and observational learning (Loukola et al. 2017)
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Loukola et al. 2017 and string-pulling studies are 0/0/0 (positive control 'Chittka' 10/3/0). Bee ball-rolling and string-pulling bear on minimal-cognition claims in concepts/universal-coupling-response. Concepts and topics are at cap, so expect recommended_action: fold, host concepts/universal-coupling-response (shared headroom with the connectome research; re-measure) or none. State the findings at the authors' grade; observational learning is not evidence of phenomenal consciousness by itself. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/bee-object-manipulation-and-observational-learning-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'bee-object-manipulation-and-observational-learning' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-26
+
 ### P3: `topics/biological-teleology-and-the-interface-framework` lead opens "Biology banished purpose from nature. Darwin showed ..." - the same history `topics/consciousness-evolution-and-biology` corrected on 2026-11-16 (Darwin welcomed Gray's "bringing back" of teleology; teleonomy is naturalised goal-directedness, not banishment)
 - **Type**: refine-draft
 - **File**: obsidian/topics/biological-teleology-and-the-interface-framework.md
@@ -7251,6 +7269,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   (2) The model page `voids/closure-types-void` L48, "Since we can and do understand the mind-body problem, we cannot be cognitively closed to what would solve it", goes slightly beyond Kriegel's 2003 abstract. The abstract concedes we may not know the solution or understand exactly what the problem is, and its claim is that it is "incoherent" to suppose we cannot understand what would COUNT as a solution to a problem we understand. Bring L48 to abstract grade, length-neutral. The PhilPapers abstract is available via the Wayback Machine (snapshot 2016-05-02); the full text was blocked.
   (3) `concepts/mysterianism` L132 has Demircioglu saying that understanding a question "does not require the capacity" to understand its answers. The model page says only that the concepts "need not be attained", which is weaker. Settle it from Demircioglu's text (32(1), 125-132; Crossref-checked). If the text cannot be fetched in two or three attempts with `--max-time 40`, bring the clause to the model page's weaker wording, net-zero (that page is 3,484/3,500).
   Quote nothing you have not grepped in raw source text this run. Cognitive closure is a naturalist thesis: enlist none of these authors for dualism. ai_system: append the model you actually run as only if it is absent from the whole string, on each file. Sync and verify both trees.
+
+### P3: `voids/valence-void` L99 "The question is not difficult — it is unanswerable" (banned "not X — it is Y" construct, and stronger than the page's 2026-11-26 description "difficulty"); `voids/compound-failure-signatures` L141 "exactly the simplifying assumption this tenet warns against"
+- **Type**: refine-draft
+- **File**: obsidian/voids/valence-void.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-26 02:25Z (void tenet sections to [P-V3](/positions/voids-as-evidence/#p-v3), commit fd463528), out-of-scope items recorded in its changelog; driver grep-verified 02:2xZ
+- **Generated**: 2026-11-26
+- **Review file**: reviews/pessimistic-2026-11-16-void-tenet-sections-pv3.md
+- **Notes**: TWO FILES; report each by name.
+  (1) `voids/valence-void` L99 (in "The flip from obvious to mysterious") says "The question is not difficult — it is unanswerable". This uses the "This is not X. It is Y." construct the style guide bans. It is also stronger than the page now is: on 2026-11-26 the description changed from "impossibility" to "difficulty", and the lead now "presents valence as primitive and unanalysable". Rephrase it as a positive claim at the page's own grade (e.g. that the question may be unanswerable by the means available), length-neutral.
+  (2) `voids/compound-failure-signatures` L141 still says the assumption is "exactly the simplifying assumption this tenet warns against". The same pass changed "empirically refutes" to "motivates, without establishing" in that paragraph. Soften "exactly" so the sentence matches, length-neutral.
+  Leave L61/L63 of valence-void alone (an open P3 adds a LeDoux & Brown sentence there). Re-grep each string before editing. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
 
 ## Completed Tasks
 

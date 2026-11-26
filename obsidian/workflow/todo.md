@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Two-stage quiet and active sleep in octopuses
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Medeiros et al. 2021 and Pophale et al. 2023 are 0/0/0 across live, research and archive ('active sleep' hits are human only; positive control 'octopus' 27/15/7). A cephalopod sleep-state architecture bears on comparative markers in topics/comparative-consciousness-and-interface-differences. Topics and concepts are at cap (370/370), so expect recommended_action: fold, host topics/comparative-consciousness-and-interface-differences (~526 headroom at review time; an open P3 owns its L50/L79/L89 and a LeDoux fold reserves about +54 at L141, so re-measure and anchor elsewhere). Grade any consciousness inference at the authors' own grade; sleep architecture is not a consciousness marker by itself. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/two-stage-sleep-in-octopuses-2026-11-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'two-stage-sleep-in-octopuses' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-26
-
 ### P3: Research The adult Drosophila whole-brain connectome and what it does and does not settle
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Dorkenwald et al. 2024 (FlyWire) is 0/0/0 ('FlyWire', 'Dorkenwald', '139,255'; positive control 'connectome' 8/6/2). concepts/universal-coupling-response gives a Drosophila neuron count of ~100,000 where the connectome gives 139,255 (an open P3 from the same review may fix the number). The research should say what a complete wiring diagram does and does not settle for consciousness attributions. Concepts and topics are at cap, so expect recommended_action: fold, host concepts/universal-coupling-response (~1,620 headroom at review time; coordinate with its open P3 on L42/L84). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/adult-drosophila-whole-brain-connectome-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'adult-drosophila-whole-brain-connectome' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7280,8 +7274,33 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   (2) `voids/compound-failure-signatures` L141 still says the assumption is "exactly the simplifying assumption this tenet warns against". The same pass changed "empirically refutes" to "motivates, without establishing" in that paragraph. Soften "exactly" so the sentence matches, length-neutral.
   Leave L61/L63 of valence-void alone (an open P3 adds a LeDoux & Brown sentence there). Re-grep each string before editing. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Fold octopus two-stage sleep (Medeiros et al. 2021; Pophale et al. 2023) into `concepts/sleep-and-consciousness` "The Evolutionary Puzzle" (research note 2026-11-26, recommended_action: fold)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/sleep-and-consciousness.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 03:0xZ (fold verdict; minted by the driver, since a fold mints nothing automatically)
+- **Generated**: 2026-11-26
+- **Review file**: research/two-stage-sleep-in-octopuses-2026-11-26.md
+- **Notes**: Apply the note's fold plan exactly.
+  - PLACEMENT: a new paragraph directly after the paragraph ending "a fact about brain state, not yet about experience." (1 hit at 03:0xZ), before "## Why the Serial Channel Withdraws".
+  - BUDGET: +163 by count_words (123 of prose plus two references). It includes a zero-word piped link to `topics/comparative-consciousness-and-interface-differences` §The Cephalopod Case. The host was 2,653/3,500. An open P3 (Demirel 2025, todo ~L4030) owns L69, L104 and L134; leave them alone.
+  - The note's optional length-neutral Blumberg et al. 2026 swap is OPTIONAL. If taken, do NOT cite Blumberg for homology: its "seem homologous" contradicts Medeiros's "analogous rather than homologous" and is not argued.
+  - GUARDS:
+    - two-state sleep is replicated across two labs and two species, but the likeness to REM/non-REM is partial (no brain-wide slow waves; atonia not comparable), and both papers call it "probably" convergent;
+    - NEITHER paper claims octopuses dream; "dream" appears only in press coverage, where the authors hedged it;
+    - do NOT state Medeiros's active-sleep interval, because the abstract and main text disagree;
+    - do NOT cite Ramos 2023 ("possible nightmares", a single-animal preprint) or the 2024 field-replication dissertation;
+    - sleep is not a marker in the 2021 LSE cephalopod review or the 2024 New York Declaration; the 2012 Cambridge Declaration did cite sleep circuitry; van De Poll & van Swinderen 2021 tie active sleep to consciousness only as a proposal.
+  - GRADE: compatible only. The finding bears on what complex brains need offline, not on whether sleep is experienced.
+  - Quote only VERIFIED spans, re-grepped against the note's recorded raw source.
+  - ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Research Two-stage quiet and active sleep in octopuses
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Medeiros et al. 2021 and Pophale et al. 2023 are 0/0/0 across live, research and archive ('active sleep' hits are human only; positive control 'octopus' 27/15/7). A cephalopod sleep-state architecture bears on comparative markers in topics/comparative-consciousness-and-interface-differences. Topics and concepts are at cap (370/370), so expect recommended_action: fold, host topics/comparative-consciousness-and-interface-differences (~526 headroom at review time; an open P3 owns its L50/L79/L89 and a LeDoux fold reserves about +54 at L141, so re-measure and anchor elsewhere). Grade any consciousness inference at the authors' own grade; sleep architecture is not a consciousness marker by itself. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/two-stage-sleep-in-octopuses-2026-11-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'two-stage-sleep-in-octopuses' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-26: Tenet sections of `voids/valence-void` ("finds particularly strong support") and `voids/compound-failure-signatures` ("gains support from two directions"), with the over-claim repeated in valence-void's lead and description; one small fix on `voids/meaning-void`
 - **Type**: refine-draft

@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 02:25:36+00:00
+ai_modified: 2026-11-26 03:03:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 02:25:36+00:00
+lastmod: 2026-11-26 03:03:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 03:03 UTC - research-topic
+- **Status**: Success
+- **Topic**: Two-stage quiet and active sleep in octopuses (harvested from optimistic-2026-11-25-interface-variation-wing)
+- **Output**: [two-stage-sleep-in-octopuses-2026-11-26](/research/two-stage-sleep-in-octopuses-2026-11-26/)
+- **Sources consulted**: 24. Full text (NCBI efetch PMC, every quoted string grep-checked): Medeiros et al. 2021, Pophale et al. 2023, Frank et al. 2012, Blumberg et al. 2026, Geiger et al. 2026. PDFs: the Cambridge Declaration (2012) and the LSE/Defra cephalopod sentience review (2021). Press pages: NPR 2021, the OIST release via EurekAlert 2023, Schnell 2021 (*The Conversation*). Abstracts (OpenAlex/bioRxiv): Iglesias 2019, Rößler 2022, Becchetti 2025, van De Poll & van Swinderen 2021, Ramos 2023 (n = 1 preprint), the Medeiros 2024 dissertation (field replication), and others. Blocked: oist.jp, phys.org, aps.org, smithsonianmag.com.
+- **Verdict**: fold, not article (topics and concepts at cap). Host `concepts/sleep-and-consciousness` §"The Evolutionary Puzzle" (2,653/3,500), new paragraph after "a fact about brain state, not yet about experience." (+163 by `count_words`: 123 body, 2 references). The review's proposed host, `topics/comparative-consciousness-and-interface-differences`, was rejected: five open tasks name it, and its coupling-modes frame invites mapping quiet and active sleep onto interface modes. Grades: the two-state architecture is strongly supported (two labs, two species, cuttlefish concurring); its resemblance to REM/NREM is partial; convergence is "probably"; function is open. Neither paper claims dreaming ("dream" 0 in Medeiros; only a reference title in Pophale). Sleep architecture is not a consciousness marker (LSE 2021 "sleep" 0 of 56,951 words; New York 2024 none; Cambridge 2012 did cite it). Tenets: compatible only. Medeiros's abstract and body disagree on the active-sleep interval band (26–39 vs 29.58–32.98 min).
+- **Not done (per driver)**: no article, todo.md or evolution-state.yaml edits; no commit.
 
 ## 2026-11-26 02:25 UTC - refine-draft
 - **Status**: Success
