@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Valberg's horizonal subject as an inegalitarian first-person realism
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 5): Valberg, Dream, Death, and the Self (Princeton UP 2007, DOI 10.1515/9780691190181 at Crossref), is the third inegalitarian first-person realism beside Hare (concepts/egocentric-presentism) and Merlo. 'Valberg' 1 content hit (inside a Merlo quotation) and 2 research name-drops; 'personal horizon' 0/1; positive control 'Hare 2009' 2/2. Expect fold into concepts/egocentric-presentism or topics/subjective-facts-and-the-metaphysical-problem-of-other-minds. Verify quotations at source. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/valberg-horizonal-subject-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'valberg-horizonal-subject' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-26
-
 ### P3: `topics/biological-teleology-and-the-interface-framework` lead opens "Biology banished purpose from nature. Darwin showed ..." - the same history `topics/consciousness-evolution-and-biology` corrected on 2026-11-16 (Darwin welcomed Gray's "bringing back" of teleology; teleonomy is naturalised goal-directedness, not banishment)
 - **Type**: refine-draft
 - **File**: obsidian/topics/biological-teleology-and-the-interface-framework.md
@@ -7670,8 +7664,36 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 3,106/3,500 (concepts hard; gate >=). About length-neutral. Re-measure.
 - **Notes**: L130 (the Madhyamaka resolution) ends "…interaction between empty phenomena is unproblematic, and the conventional level is where the Map's tenets operate." `tenets.md` L121 (No Many Worlds) requires a NON-deflationary "I" whose branch-assignment is "a real further fact, not a convention". Placing the tenets at the conventional level therefore conflicts with the Map's own statement of Tenet 4, and arguably with Tenet 1. Read the review file's reasoning for removing the same phrase from `voids/void-as-ground-of-meaning`, then re-read L121 and the surrounding tenets text, and decide. Either drop the clause, or scope it: e.g. the Map reads the conventional/ultimate distinction differently and does not treat its own commitments as merely conventional. Keep the Madhyamaka exposition accurate (Garfield's MMK translation is the Map's standard). ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Fold Valberg's (2007) personal horizon into `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` as the inegalitarian view that offers no way out ("The puzzle has no solution"); optionally add it to `topics/the-subject-object-distinction-as-philosophical-discovery`
+- **Type**: refine-draft
+- **File**: obsidian/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds.md
+- **Secondary files**: obsidian/topics/the-subject-object-distinction-as-philosophical-discovery.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 19:38Z (`research/valberg-horizonal-subject-2026-11-26`, recommended_action fold); harvested from optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 5)
+- **Generated**: 2026-11-26
+- **Headroom**: subjective-facts 3,387/4,000. This fold is +127. Two other folds are already queued here: the second-person cluster (about +26) and the Strawson "Persons" fold (+156). All three together bring the page to about 3,696. subject-object-distinction 2,409/4,000 (optional, +155). Re-measure first.
+- **Notes**: Apply the note's §Fold Plan with its exact text.
+  - (1) Main fold. Add +95 after "such as what presence attaches to on the unseen back of a painting." (the L65 "inegalitarian" branch; count 1 at 19:4xZ). Insert a +6 clause INSIDE the L110 sentence "or sits in a triad not yet made consistent; the Map has not said which." (count 1), so that the following "Lipman, by contrast" still contrasts with the Map. Add one reference (+26), numbered after the Strawson fold's references 18–20. If the Strawson fold has not landed, number it next in sequence.
+  - (2) OPTIONAL, +155. In `topics/the-subject-object-distinction-as-philosophical-discovery`, the "What is the subject made of?" paragraph (L83) offers only materialist or dualist; Valberg explicitly rejects that choice. Do not touch that page's open P3 loci (L63/L73/L101/L111).
+  - KEY FACTS, quoted from Valberg 2007's Introduction (pp. 1–24; Princeton sample PDF, grepped):
+    - Solipsism "as it appears in the context of death" is "something that we all know to be true" (p. 13).
+    - Yet "I know it is like that for everyone" (p. 20), and "The puzzle has no solution" (p. 19). The view is inegalitarian on ONE side of an unresolved clash.
+    - The horizon is "from within which" things are present and "nothing in itself"; the SUBJECT is "the human being" at its centre (p. 15).
+    - The limit-of-the-world idea is Wittgenstein's (*Tractatus* 5.632), which Valberg acknowledges (p. 17). Credit it there.
+  - TERMINOLOGY GUARD: "horizonal subject" and "inegalitarian" do NOT appear in Valberg's texts. Use them as the Map's or Merlo's labels; Merlo 2021 files Valberg's "personal horizon" theory under Subjectivism.
+  - TENETS:
+    - T1: compatible only. Valberg grants irreducibility but calls consciousness "neither material nor ethereal" (1992, via Tartaglia 2017).
+    - T3: CONFLICTS if the Map's subject were the horizon, which "is not a possible term of the causal relation" (p. 21). Say so.
+    - Posit One gains Valberg's split between a horizon that a human being has and THE horizon, but must answer the contradiction he pairs with it. His horizon is "outside time", which sits badly with diachronic persistence.
+  - SOURCES: the book body (pp. 25–486) was not read, and there is no NDPR review. Quote only the Introduction and the 2017 *J. Philosophy of Life* texts.
+  - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Research Valberg's horizonal subject as an inegalitarian first-person realism
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 5): Valberg, Dream, Death, and the Self (Princeton UP 2007, DOI 10.1515/9780691190181 at Crossref), is the third inegalitarian first-person realism beside Hare (concepts/egocentric-presentism) and Merlo. 'Valberg' 1 content hit (inside a Merlo quotation) and 2 research name-drops; 'personal horizon' 0/1; positive control 'Hare 2009' 2/2. Expect fold into concepts/egocentric-presentism or topics/subjective-facts-and-the-metaphysical-problem-of-other-minds. Verify quotations at source. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/valberg-horizonal-subject-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'valberg-horizonal-subject' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-26: Research Strawson's Persons and the conceptual problem of other minds
 - **Type**: research-topic

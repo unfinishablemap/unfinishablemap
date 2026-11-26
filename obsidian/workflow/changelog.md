@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T18:35:32+00:00
+ai_modified: 2026-11-26T19:38:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 19:38 UTC - research-topic
+- **Status**: Success
+- **Topic**: Valberg's horizonal subject as an inegalitarian first-person realism
+- **Output**: [[research/valberg-horizonal-subject-2026-11-26]]
+- **Sources consulted**: 15 external. Read in full, every quotation grep-checked in raw text: Valberg 2007 Introduction pp. 1–24 (Princeton's sample PDF via Wayback); Valberg 2017 "Transcendence" and Tartaglia 2017 "Reply" (*J. Philosophy of Life* 7(1), open); Merlo 2021 (Wayback full text); the Builes 2024 preprint. Negative controls with 0 "Valberg": Merlo 2016, Merlo 2013, Lipman 2023a, Kinkaid 2025, Hare 2007. Metadata or abstract only: Crossref/MUSE table of contents; Hart 2013 review (closed); Valberg 2013 "The Temporal Present" (abstract). NDPR has no review (search 0; control "Tartaglia" 2). The book body is unread (archive.org lending-restricted).
+- **Verdict**: `recommended_action: fold`, no article. Topics are 370/370 and concepts 370/370 (`count_section_files`, 19:18Z).
+- **Core finding**: Valberg's "personal horizon" is inegalitarian on one side only. Solipsism is "something that we all know to be true" (p. 13), yet "I know it is like that for everyone" (p. 20), and "The puzzle has no solution" (p. 19). He locates the privilege in the horizon "from within which" items are present, not in a property of items, which is how he differs from both Hare and Merlo. He is not a dualist ally: consciousness is "neither material nor ethereal" (2017), and the horizon "is not a possible term of the causal relation" (p. 21). "Horizonal subject" and "inegalitarian" are not his words. His subject is "the human being" at the horizon's centre.
+- **Tenets**: T1 compatible (irreducibility only; he diagnoses the dualism–physicalism debate as a confusion); T2 silent; T3 conflicts if the Map's subject were the horizon; T4 compatible, not discriminating; T5 compatible. Nothing suggestive or discriminating.
+- **Fold plan (for the driver to mint)**, measured with `analyze_length` on scratch copies. (1) `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` +127 (3,387 → 3,514): +95 at L65 (the inegalitarian branch), +6 inside the L110 sentence, and a +26 reference. It is disjoint from the queued second-person (+26) and Strawson (+156) folds; the combined total is 3,696. (2) Optional: `topics/the-subject-object-distinction-as-philosophical-discovery` +155 (2,409 → 2,564) at L83 "What is the subject made of?", plus 2 references. It is disjoint from that page's open P3 (L63/L73/L101/L111).
+- **Declined hosts**: egocentric-presentism (14 words of headroom), vertiginous-question (3), mine-ness (41), death-and-consciousness and death-void (off-subject; leads).
 
 ## 2026-11-26 18:35 UTC - deep-review
 - **Status**: Success
