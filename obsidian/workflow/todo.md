@@ -7332,21 +7332,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - Length: most hosts are near soft; corrections are near length-neutral.
   - ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
 
-### P2: `concepts/nihilism-and-existentialism` L48 says the page "strengthens the Dualism tenet by demonstrating structural features of consciousness incompatible with materialist reduction", a demonstration claim that neither its Heidegger and Sartre material nor the Map's own P-M1 can support
-- **Type**: refine-draft
-- **File**: obsidian/concepts/nihilism-and-existentialism.md
-- **Status**: pending
-- **Source**: outer-review
-- **Generated**: 2026-11-26
-- **Review file**: reviews/outer-review-2026-11-26-claude-fable-5-2.md
-- **Headroom**: 2,549/3,500 (analyze_length 2026-11-26; concepts hard 3,500, gate >=). Aim for net <= +40. Re-measure first.
-- **Notes**: From outer review 2026-11-26 (Claude Fable 5.2, §2.6 "Neutrality", §2.9 table and Part 4), raised as a neighbour of `concepts/mine-ness`. Verified on the live file on 2026-11-26. L48 ends: "...and strengthens the [[tenets#^dualism|Dualism tenet]] by demonstrating structural features of consciousness incompatible with materialist reduction." The description (L3) says Sartre's pour-soi and Heidegger's Dasein "reveal why consciousness resists reduction". L92 says Dasein's reflexivity "presupposes what materialism cannot explain". Neither Heidegger nor Sartre argued for dualism, and Heidegger's analysis is set against the Cartesian subject. The Map's P-M1 (`positions/methodology-and-calibration`) holds that "A tenet removes a defeater but never upgrades the evidence level". `project/evidential-status-discipline` keeps "demonstrating" for results that discriminate against rivals.
-  (1) L48: recalibrate to what the page actually argues. Existentialist analyses of first-person structure are congenial to the Dualism tenet (compatible, not evidential), and Sartre's regress argument against illusionism (§The Regress Against Illusionism) is the page's strongest contribution. Drop "demonstrating structural features of consciousness incompatible with materialist reduction".
-  (2) Bring the L3 description and L92 to the same grade, for example "resist objectifying description" or "on the Map's reading". The description must stay a single sentence that a search snippet can quote.
-  (3) L100 says Heidegger's *Jemeinigkeit* and Sartre's particularity "converge on [[haecceity]]". [[mine-ness]] L128 says "Mine-ness is not haecceity" (phenomenal versus metaphysical), and that the two meet only at the [[vertiginous-question]]. Reword L100 so the two pages agree (e.g. "point toward"), at about zero net.
-  HEADROOM: 2,549/3,500 (analyze_length 2026-11-26; concepts hard 3,500; gate >=). Aim for net <= +40, and re-measure first. Scope: this file only. Do not edit `concepts/mine-ness`; four open tasks on that page are queued above.
-  Housekeeping: bump ai_modified with `date -u` (never hand-type a time). Append the running model to ai_system only if it is ABSENT anywhere in the plus-joined string. Do not use "This is not X. It is Y." or "load-bearing". Sync, then verify the change in both obsidian/ and hugo/content/. No browser tools.
-
 ### P3: `concepts/depersonalisation` L81 still says DPD "reports the for-me character degraded while that content stays largely fixed", the wording `concepts/mine-ness` retired on 2026-11-26 after the for-me-ness/mineness split
 - **Type**: refine-draft
 - **File**: obsidian/concepts/depersonalisation.md
@@ -7377,6 +7362,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: `concepts/nihilism-and-existentialism` L48 says the page "strengthens the Dualism tenet by demonstrating structural features of consciousness incompatible with materialist reduction", a demonstration claim that neither its Heidegger and Sartre material nor the Map's own P-M1 can support
+- **Type**: refine-draft
+- **File**: obsidian/concepts/nihilism-and-existentialism.md
+- **Notes**: From outer review 2026-11-26 (Claude Fable 5.2, §2.6 "Neutrality", §2.9 table and Part 4), raised as a neighbour of `concepts/mine-ness`. Verified on the live file on 2026-11-26. L48 ends: "...and strengthens the [[tenets#^dualism|Dualism tenet]] by demonstrating structural features of consciousness incompatible with materialist reduction." The description (L3) says Sartre's pour-soi and Heidegger's Dasein "reveal why consciousness resists reduction". L92 says Dasein's reflexivity "presupposes what materialism cannot explain". Neither Heidegger nor Sartre argued for dualism, and Heidegger's analysis is set against the Cartesian subject. The Map's P-M1 (`positions/methodology-and-calibration`) holds that "A tenet removes a defeater but never upgrades the evidence level". `project/evidential-status-discipline` keeps "demonstrating" for results that discriminate against rivals.
+  (1) L48: recalibrate to what the page actually argues. Existentialist analyses of first-person structure are congenial to the Dualism tenet (compatible, not evidential), and Sartre's regress argument against illusionism (§The Regress Against Illusionism) is the page's strongest contribution. Drop "demonstrating structural features of consciousness incompatible with materialist reduction".
+  (2) Bring the L3 description and L92 to the same grade, for example "resist objectifying description" or "on the Map's reading". The description must stay a single sentence that a search snippet can quote.
+  (3) L100 says Heidegger's *Jemeinigkeit* and Sartre's particularity "converge on [[haecceity]]". [[mine-ness]] L128 says "Mine-ness is not haecceity" (phenomenal versus metaphysical), and that the two meet only at the [[vertiginous-question]]. Reword L100 so the two pages agree (e.g. "point toward"), at about zero net.
+  HEADROOM: 2,549/3,500 (analyze_length 2026-11-26; concepts hard 3,500; gate >=). Aim for net <= +40, and re-measure first. Scope: this file only. Do not edit `concepts/mine-ness`; four open tasks on that page are queued above.
+  Housekeeping: bump ai_modified with `date -u` (never hand-type a time). Append the running model to ai_system only if it is ABSENT anywhere in the plus-joined string. Do not use "This is not X. It is Y." or "load-bearing". Sync, then verify the change in both obsidian/ and hugo/content/. No browser tools.
 
 ### ✓ 2026-11-26: Two neighbours of `concepts/mine-ness` keep the for-me-ness/mineness collision or beg the no-owner question: `concepts/self-and-self-consciousness` L66 (universal "built-in" for-me-ness with no room for mineness lapsing) and `topics/consciousness-and-the-ownership-problem` L102 ("…rather than to no one?")
 - **Type**: refine-draft
