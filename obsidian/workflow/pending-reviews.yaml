@@ -220,3 +220,33 @@
   subject_articles:
   - concepts/mine-ness.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/1dcacbcd-3be0-47bb-9089-c706be963d2d
+  commissioned_at: '2026-11-26T03:21:01.578544+00:00'
+  prompt_summary: 'Audit mine-ness: citations, pathology evidence, deflationary rivals'
+  target_filename: outer-review-2026-11-26-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy-of-mind site committed to five tenets: dualism, minimal quantum interaction,
+    bidirectional interaction, rejection of Many Worlds, and limits on Occam''s razor.
+    Please audit the article "Mine-ness and the Ownership Void" at https://unfinishablemap.org/concepts/mine-ness/
+    (last substantively edited 2026-11-19). Search indexes lag, so check the changelog
+    at https://unfinishablemap.org/workflow/changelog/ for recent edits before judging
+    what the page says. Verify its citations and quotations against the primary sources,
+    flagging misattributions, wrong years or paraphrases presented as quotes. Test
+    whether its reading of depersonalisation, thought insertion and contemplative
+    self-dissolution is accurate and reflects the current empirical literature. Does
+    it give the strongest deflationary and no-ownership accounts of mine-ness a fair
+    hearing, or does it frame them so the tenets are protected? Is the ownership void
+    a genuine limit or an overstatement? How well does the article integrate with
+    the Map''s neighbouring pages on self, subjectivity and phenomenal consciousness?
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit mine-ness
+  subject_articles:
+  - concepts/mine-ness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-26-chatgpt-5-6-sol-pro.md
