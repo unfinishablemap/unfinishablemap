@@ -2,9 +2,9 @@
 title: "Mysterianism and Cognitive Closure"
 description: "McGinn's cognitive closure thesis: human minds may be constitutionally unable to solve the mind-body problem, as the electron lies beyond a monkey's grasp."
 created: 2026-01-15
-modified: 2026-11-25
+modified: 2026-11-26
 human_modified: null
-ai_modified: 2026-11-25T00:32:20+00:00
+ai_modified: 2026-11-26T01:09:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ related_articles:
   - "[[wholeheartedness-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-fable-5-2
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-fable-5-2+claude-opus-5-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-06T12:15:12+00:00
@@ -129,7 +129,7 @@ This transforms mysterianism from pessimism into method. By mapping *where* thou
 
 ## Can We Know If the Limits Are Real?
 
-The [[meta-epistemology-of-limits|question of whether cognitive limits are genuine]] may be undecidable from within any limited system. The meta-epistemology of cognitive limits addresses Kriegel's challenge that formulating a problem requires conceptual resources to solve it (Kriegel 2003)—and Demircioglu's reply that understanding a question does not require the capacity to understand its possible answers: a child can understand "where is x?" even when some answers would demand concepts from the theory of relativity (Demircioglu 2017). Vlerick and Boudry supply the complementary distinction between *psychological* closure (what we cannot grasp) and what they call cognitive closure—"a principled inaccessibility of a true theory"—which the Map glosses as *representational* closure, what we cannot frame (Vlerick & Boudry 2017). The [[closure-types-void|closure-types void]] develops this distinction into a second-order result: not only do the two readings of closure come apart, but from within a mind there is no reliable procedure for telling which type one is facing. This rehabilitates sophisticated mysterianism while exposing the limits of self-diagnosis the position must operate under.
+The [[meta-epistemology-of-limits|question of whether cognitive limits are genuine]] may be undecidable from within any limited system. The meta-epistemology of cognitive limits addresses Kriegel's challenge to McGinn's closure thesis, which ties understanding a problem to understanding what counts as its solution (Kriegel 2003)—and Demircioglu's reply that understanding a question does not require the capacity to understand its possible answers: a child can understand "where is x?" even when some answers would demand concepts from the theory of relativity (Demircioglu 2017). Vlerick and Boudry supply the complementary distinction between *psychological* closure (what we cannot grasp) and what they call *representational* closure—"a principled inaccessibility of a true theory", what we cannot frame (Vlerick & Boudry 2017). The [[closure-types-void|closure-types void]] develops this distinction into a second-order result: not only do the two readings of closure come apart, but from within a mind there is no reliable procedure for telling which type one is facing. This rehabilitates sophisticated mysterianism while exposing the limits of self-diagnosis the position must operate under.
 
 The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] provides formal warrant through four methods: failure analysis, convergence, structural inference, and [[apophatic-approaches|apophatic reasoning]]. These dissolve the apparent paradox: limit-knowledge is propositional knowledge *about* a boundary, not acquaintance with territory beyond it.
 

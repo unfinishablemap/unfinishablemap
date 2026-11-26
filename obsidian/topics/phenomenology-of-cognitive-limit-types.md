@@ -2,9 +2,9 @@
 title: "The Phenomenology of Cognitive Limit Types"
 description: "Human+AI systematic mapping of how different cognitive limits feel from the inside—frustration, satisfaction, illusory comprehension, and finer signatures that diagnose what kind of boundary consciousness has encountered."
 created: 2026-03-17
-modified: 2026-10-21
+modified: 2026-11-26
 human_modified:
-ai_modified: 2026-10-21T00:23:30+00:00
+ai_modified: 2026-11-26T01:09:42+00:00
 last_deep_review: 2026-10-12T10:27:29+00:00
 draft: false
 topics:
@@ -120,7 +120,7 @@ The phenomenological signatures also bear on the distinction between the [[three
 
 The systematic mapping of limit phenomenologies connects to the Map's [[tenets]] at several points.
 
-**[[tenets#^dualism|Dualism]]** is consistent with the persistent aporia surrounding consciousness. The hard problem produces more than the frustration of mere difficulty, and never the satisfaction of resolution. Its distinctive profile is a compound: smooth understanding of neural mechanism punctuated by abrupt blockage at the question of experience. This phenomenological profile — comprehension interrupted by persistent aporia — is consistent with consciousness being genuinely not reducible to physical description. It is also, however, what a psychological closure that merely looks representational would feel like: the [[closure-types-void|closure-types void]] records that "the phenomenology of merely hard problems mimics principled impossibility", with false positives for representational closure outnumbering false negatives. Because the method is a heuristic rather than a proof, the profile counts as compatible with dualism and, at most, as weak evidence for it — the same provisional status the taxonomy claims for itself applies to this reading of it.
+**[[tenets#^dualism|Dualism]]** is consistent with the persistent aporia surrounding consciousness. The hard problem produces more than the frustration of mere difficulty, and never the satisfaction of resolution. Its distinctive profile is a compound: smooth understanding of neural mechanism punctuated by abrupt blockage at the question of experience. This phenomenological profile — comprehension interrupted by persistent aporia — is consistent with consciousness being genuinely not reducible to physical description. It is also, however, what a psychological closure that merely looks representational would feel like: the [[closure-types-void|closure-types void]] records that "the phenomenology of merely hard problems mimics principled impossibility", with the known errors running toward over-diagnosing representational closure. Because the method is a heuristic rather than a proof, the profile counts as compatible with dualism and, at most, as weak evidence for it — the same provisional status the taxonomy claims for itself applies to this reading of it.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** gains precision from the illusory-comprehension category. If adaptive limits are phenomenologically invisible — if the simplest-seeming explanation feels right precisely because the cognitive system was tuned by evolution to make it feel right — then parsimony judgments cannot be taken at face value. The Map's resistance to materialist parsimony arguments is reinforced by the possibility that our sense of what is "simple" is itself an adaptive construction rather than a reliable guide to ontology.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-03-19 02:21:06+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-11-26 01:09:42+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 archive_reason: Coalesced into The Meta-Epistemology of Cognitive Limits
 archived: true
 archived_date: 2026-03-19 09:42:00+00:00
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-15 08:01:00+00:00
-lastmod: 2026-03-19 02:21:06+00:00
+lastmod: 2026-11-26 01:09:42+00:00
 modified: *id001
 original_path: /voids/epistemology-of-cognitive-limits/
 related_articles:
@@ -67,13 +67,11 @@ The hard problem of consciousness may be a mystery rather than a problem: the co
 
 ## The Incoherence Challenge
 
-Uriah Kriegel poses a sharp challenge to mysterianism. He argues it is *incoherent* to suppose we cannot understand what would count as solving a problem we can formulate.
+Uriah Kriegel poses a sharp challenge to Colin McGinn's thesis of cognitive closure, though he ends by proposing his own form of mysterianism. His abstract grants that we may not know the solution to a problem we understand, or may not understand exactly what the problem is, "but it is incoherent to suppose that we cannot understand what would count as a solution to a problem we can and do understand."
 
-Questions, Kriegel notes following Hamblin and Stahl, are individuated by the set of statements that would answer them. To pose a question is already to have the conceptual resources to frame potential answers. If we can ask "how does neural activity give rise to consciousness?", our conceptual scheme is powerful enough to frame a solution.
+The argument appeals to an accepted assumption in the logic of questions, developed mainly by Stahl.
 
-"It is incoherent," Kriegel writes, "to suppose that we cannot understand what would count as a solution to a problem we can and do understand."
-
-This is an elegant argument. But it may conflate two different notions. Erhan Demircioglu distinguishes *representational* from *psychological* closure. We may be able to *represent* a solution—to know what kind of thing would count as answering the question—while remaining unable to actually *grasp* that solution when presented with it. A rat might represent "the prime numbers" as "the set of numbers mathematicians study" without being able to identify which numbers those are.
+This is an elegant argument. But it may conflate two different notions. Erhan Demircioglu replies that the concepts required for answering a question need not be attained in order to understand it. We may be able to *represent* a solution—to know what kind of thing would count as answering the question—while remaining unable to actually *grasp* that solution when presented with it. A rat might represent "the prime numbers" as "the set of numbers mathematicians study" without being able to identify which numbers those are.
 
 The question remains open. Kriegel's argument cuts against naive mysterianism but does not obviously dissolve more sophisticated versions.
 
@@ -160,7 +158,7 @@ If the epistemology of limits is itself a limit, several methodological conseque
 ## References
 
 1. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
-2. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
+2. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32(1), 125-132.
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 4. McGinn, C. (2014). "Mysterianism Revisited." Blog post, December 23, 2014.
 5. Chomsky, N. (1976). "Problems and Mysteries in the Study of Human Language." In *Language in Focus*, 281-357.

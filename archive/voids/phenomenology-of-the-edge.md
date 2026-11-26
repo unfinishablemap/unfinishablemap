@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-08-26T15:25:35+00:00
+ai_modified: 2026-11-26T01:09:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[self-maintained-cognitive-limits]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-04-16T02:18:00+00:00
@@ -101,7 +101,7 @@ This is different from ordinary forgetting. Ordinary memories fade gradually and
 
 One interpretation: these thoughts exist only at the boundary, requiring the edge-state to be thought at all. When the mind returns to ordinary processing, the context that made them thinkable no longer exists—the insight cannot be represented in ordinary cognition.
 
-This connects to the distinction between what Uriah Kriegel calls "representational closure" and "psychological closure." Psychological closure means we have difficulty grasping something; representational closure means we cannot represent it at all within our conceptual system. Dissolving insights may mark encounters with representationally closed territory—content that can be contacted briefly at the edge but cannot be brought back because we have no containers to hold it.
+This connects to Vlerick and Boudry's distinction between "representational closure" and "psychological closure." Psychological closure means we have difficulty grasping something; representational closure means we cannot represent it at all within our conceptual system. Dissolving insights may mark encounters with representationally closed territory—content that can be contacted briefly at the edge but cannot be brought back because we have no containers to hold it.
 
 ## What the Edge Reveals
 
@@ -177,5 +177,5 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 2. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 3. Millière, R., et al. (2018). "Psychedelics, Meditation, and Self-Consciousness." *Frontiers in Psychology*, 9, 1475.
 4. Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive preprint (manuscript, archived 2024-12-09; record KUTTBO).
-5. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
+5. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*, 71(1), 101-115.
 6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.

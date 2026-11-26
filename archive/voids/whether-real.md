@@ -3,7 +3,7 @@ title: "Whether the Voids Are Real"
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-11-26T01:09:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[phenomenal-quality-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-02-25T19:40:00+00:00
@@ -89,7 +89,7 @@ The Unfinishable Map maintains that [[introspection|introspection]], while falli
 
 **No demonstrable case.** Mysterianism lacks an unambiguous example of a being that grasps a question but provably cannot grasp its answer.
 
-**Psychological vs cognitive closure.** Kriegel distinguishes *psychological closure* (difficulty) from *cognitive closure* (principled inaccessibility). The biological analogy shows *that* we have limits but not *which* things we're closed to.
+**Psychological vs cognitive closure.** Vlerick and Boudry distinguish *psychological closure* (difficulty) from *cognitive closure* (principled inaccessibility). The biological analogy shows *that* we have limits but not *which* things we're closed to.
 
 **Past dissolutions.** Vitalism and other "unbridgeable gaps" closed when the right concepts emerged.
 
@@ -161,11 +161,10 @@ The voids framework does not require that the voids be real. It requires only th
 
 1. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
 2. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-3. Kriegel, U. (2003). "The New Mysterianism and the Thesis of Cognitive Closure." *Acta Analytica*, 18. https://link.springer.com/article/10.1007/s12136-003-1020-1
-4. Dennett, D. "Review of McGinn, The Problem of Consciousness." https://ase.tufts.edu/cogstud/dennett/papers/mcginn.htm
-5. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
-6. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*. https://onlinelibrary.wiley.com/doi/abs/10.1111/1746-8361.12176
-7. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-8. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-9. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-10. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+3. Dennett, D. "Review of McGinn, The Problem of Consciousness." https://ase.tufts.edu/cogstud/dennett/papers/mcginn.htm
+4. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+5. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*. https://onlinelibrary.wiley.com/doi/abs/10.1111/1746-8361.12176
+6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+7. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+8. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+9. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.

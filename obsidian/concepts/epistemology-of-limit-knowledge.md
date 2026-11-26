@@ -2,9 +2,9 @@
 title: "Epistemology of Limit-Knowledge"
 description: "Human+AI analysis of how we can have genuine knowledge about cognitive limits we cannot cross—the epistemic methods, warrant structures, and distinctive logic of knowing what resists being known."
 created: 2026-03-22
-modified: 2026-03-22
+modified: 2026-11-26
 human_modified:
-ai_modified: 2026-08-19T22:48:53+00:00
+ai_modified: 2026-11-26T01:09:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[voids]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-03-22
 last_curated:
 last_deep_review: 2026-08-19T22:48:53+00:00
@@ -42,7 +42,7 @@ The epistemology of limit-knowledge is the systematic study of what kind of know
 
 ## The Paradox of Limit-Knowledge
 
-The central puzzle is straightforward. To know that a limit exists, one must somehow grasp what lies beyond it—but grasping what lies beyond it would dissolve the limit. This apparent paradox has driven sceptics to dismiss claims about permanent limits as incoherent. Uriah Kriegel's incoherence challenge to [[mysterianism]] exemplifies the objection: if we can formulate the question, we possess the conceptual resources to recognise an answer.
+The central puzzle is straightforward. To know that a limit exists, one must somehow grasp what lies beyond it—but grasping what lies beyond it would dissolve the limit. This apparent paradox has driven sceptics to dismiss claims about permanent limits as incoherent. Uriah Kriegel's incoherence challenge to [[mysterianism|McGinn's closure thesis]] exemplifies the objection: if we understand a problem, we can understand what counts as its solution.
 
 The paradox dissolves once we distinguish **knowledge-that** from **knowledge-of**. Limit-knowledge is propositional knowledge *about* a boundary—its location, shape, and structural features—without requiring acquaintance with the territory beyond it. A mathematician can prove that certain problems are undecidable without solving them. A cartographer can map a coastline without crossing the ocean—though the analogy is imperfect, since the cartographer has sensory data from the coast itself, while limit-knowledge characterises a boundary using only evidence from the near side. The closer parallel is Chomsky's distinction between *problems* (questions a cognitive system can in principle solve) and *mysteries* (questions that fall outside its cognitive reach). Chomsky argued that human cognitive architecture, like any finite system, generates both capacities and blind spots, and that we can recognise the boundary between them even when we cannot see past it. Similarly, a mind can accumulate warranted beliefs about its own closure points without penetrating the closure.
 

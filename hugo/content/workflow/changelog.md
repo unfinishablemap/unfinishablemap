@@ -1,14 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 00:28:32+00:00
+ai_modified: 2026-11-26 01:11:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 00:28:32+00:00
+lastmod: 2026-11-26 01:11:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 01:11 UTC - refine-draft
+- **Status**: Success
+- **SIX FILES** (three live, three archived)
+- **File**: [mysterianism](/concepts/mysterianism/)
+- **Secondary files**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/), [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/), `archive/voids/epistemology-of-cognitive-limits.md`, `archive/voids/phenomenology-of-the-edge.md`, `archive/voids/whether-real.md`
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Review file**: `reviews/deep-review-2026-11-17-closure-types-void.md`
+- **Sources checked this run** (01:04-01:07Z):
+  - Vlerick & Boudry: abstract rebuilt from OpenAlex (`doi:10.1111/1746-8361.12176`). Each of these counts 1: "a strong, representational notion of cognitive closure", "The latter we label psychological closure", "representational closure does not follow from psychological closure". Crossref lists only Vlerick as author; Semantic Scholar lists Vlerick and Boudry.
+  - Kriegel 2003: abstract taken from the archived PhilPapers record (web.archive.org 2016-05-02, KRITNM). "incoherent" appears once, in the "but it is incoherent ..." sentence, after the two concessions. The argument "appeals to certain accepted assumption in the logic of questions, developed in the early sixties, mainly by Stahl". It closes with "a form of mysterianism which is in some sense more optimistic and in another more pessimistic than McGinn's". The full text was not obtained, so his position is stated at abstract grade.
+  - Crossref: Kriegel 18(1-2), 177-191 (the deposited references include Hamblin 1958 and Stahl 1962). Demircioglu 10.1007/s12136-016-0295-y, 32(1), 125-132 (print 2017-03, online 2016-04-13).
+  - Demircioglu's text was not re-fetched. His claim is paraphrased from the model page, not quoted.
+- **Length** (`analyze_length`, before → after): mysterianism 3484 → 3484; epistemology-of-limit-knowledge 2239 → 2239; phenomenology-of-cognitive-limit-types 2656 → 2656; archive epistemology-of-cognitive-limits 2029 → 2021; archive phenomenology-of-the-edge 2629 → 2627; archive whether-real 1965 → 1951.
+- **`concepts/mysterianism`** (L132), two changes:
+  - Before: "Kriegel's challenge that formulating a problem requires conceptual resources to solve it". After: "Kriegel's challenge to McGinn's closure thesis, which ties understanding a problem to understanding what counts as its solution".
+  - Before: "what they call cognitive closure—"a principled inaccessibility of a true theory"—which the Map glosses as *representational* closure, what we cannot frame". After: "what they call *representational* closure—"a principled inaccessibility of a true theory", what we cannot frame".
+- **`concepts/epistemology-of-limit-knowledge`** (L45): Before: "Kriegel's incoherence challenge to [mysterianism](/concepts/mysterianism/) exemplifies the objection: if we can formulate the question, we possess the conceptual resources to recognise an answer". After: "... challenge to [McGinn's closure thesis](/concepts/mysterianism/) exemplifies the objection: if we understand a problem, we can understand what counts as its solution".
+- **`topics/phenomenology-of-cognitive-limit-types`** (L123): Before: "with false positives for representational closure outnumbering false negatives". After: "with the known errors running toward over-diagnosing representational closure". The new wording follows closure-types-void L74. The quotation from the void page was kept; it is verbatim there (count 1).
+- **`archive/voids/epistemology-of-cognitive-limits`**, four changes:
+  - L67-71, the Kriegel paragraph. Before, it had three defects: the target was "mysterianism"; the paraphrase spoke of "a problem we can formulate"; and the quotation was split as "'It is incoherent,' Kriegel writes, 'to suppose...'" with the concessions dropped. After: the target is McGinn's thesis of cognitive closure, and Kriegel's own mysterianism is noted. His abstract's two concessions are paraphrased, and the quotation now runs from "but it is incoherent..." as it does in the abstract.
+  - L69, the Hamblin-and-Stahl question-individuation paraphrase. It became "The argument appeals to an accepted assumption in the logic of questions, developed mainly by Stahl" (abstract grade). The "If we can ask..." application was removed too. It rested on the premise that we understand the mind-body problem, and the abstract concedes we may not understand exactly what the problem is.
+  - L73, which was not on the task's list but has the same kind of defect. Before: "Erhan Demircioglu distinguishes *representational* from *psychological* closure". After: "Erhan Demircioglu replies that the concepts required for answering a question need not be attained in order to understand it" (model page L50). The labels were not moved to Vlerick and Boudry here: the next sentence glosses representing as knowing "what kind of thing would count as answering", which is not their notion.
+  - References: Demircioglu "32, 147-158" became "32(1), 125-132".
+- **`archive/voids/phenomenology-of-the-edge`** (L104): Before: "the distinction between what Uriah Kriegel calls "representational closure" and "psychological closure."". After: "Vlerick and Boudry's distinction between ...". Both labels are verbatim in their abstract. Reference 5 (Kriegel 2003) would have been cited nowhere, so it was replaced with Vlerick & Boudry 2017, *Dialectica* 71(1), 101-115.
+- **`archive/voids/whether-real`** (L92): Before: "Kriegel distinguishes *psychological closure* (difficulty) from *cognitive closure* (principled inaccessibility)". After: "Vlerick and Boudry distinguish ...". Their reference (formerly 6) had been cited nowhere and now is. The Kriegel reference (formerly 3) would have been cited nowhere, so it was removed and references 4-10 became 3-9.
+- **Frontmatter**:
+  - Live pages: `modified` 2026-11-26 and `ai_modified` 2026-11-26T01:09:42+00:00.
+  - Archived pages: only `ai_modified` changed. `modified` was left alone under the archive rule.
+  - `ai_system`: `+claude-opus-5-5` appended on five files. It was already present on phenomenology-of-cognitive-limit-types.
+- **Skips**: no file lacked its listed string.
+- **Report-only, not edited**:
+  - `research/voids-closure-types-2026-04-18`:
+    - L45 and L76 say Vlerick and Boudry's labels are "cognitive" and "psychological" and that "representational" is the Map's gloss. Their abstract itself says "representational closure".
+    - L53-56: the question-individuation paraphrase, which the abstract does not support.
+    - L58: the Kriegel quotation without its concessions.
+    - L116: "by its own definition, undetectable".
+    - L124: the uncountable error asymmetry.
+  - `research/voids-epistemology-of-cognitive-limits-2026-02-04`:
+    - L48 "quotes" Kriegel: "It is incoherent to suppose that a conceptual scheme is powerful enough to frame a problem without being powerful enough to frame its solution". That sentence is not in the abstract, whose one "incoherent" is in the other sentence.
+    - L46 "the only problems we cannot solve are those we cannot formulate" is not in the abstract either.
+- **Noticed, not edited**:
+  - (a) mysterianism L132 says "Demircioglu's reply that understanding a question does not require the capacity to understand its possible answers". The model page and limit-knowledge L49 say only that the concepts "need not be attained", which is a weaker claim. Demircioglu's text was not available to settle it.
+  - (b) `voids/meta-epistemology-of-limits` L80: "Critiques (Kriegel, Demircioglu, Vlerick-Boudry) separate *representational* from *psychological* closure". This credits all three with the distinction and counts Demircioglu's defence of closure as a critique.
+  - (c) `voids/closure-types-void` L48: "Since we can and do understand the mind-body problem, we cannot be cognitively closed to what would solve it". This goes slightly past the abstract, since Kriegel concedes we may not understand exactly what the problem is.
+- **Engagement**: Kriegel is presented as exposition at abstract grade, so no mode is claimed. No author is enlisted for dualism. The limit-types change sits in that page's Dualism paragraph and weakens the inference.
+- **Published**: yes
 
 ## 2026-11-26 00:51 UTC - deep-review
 - **Status**: Success
