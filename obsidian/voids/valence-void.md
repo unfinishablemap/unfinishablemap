@@ -1,10 +1,10 @@
 ---
 title: "The Valence Void"
-description: "Why does experience come sorted into good and bad? Human+AI exploration of the impossibility of explaining consciousness's built-in evaluative dimension."
+description: "Why does experience come sorted into good and bad? Human+AI exploration of the difficulty of explaining consciousness's built-in evaluative dimension."
 created: 2026-02-18
-modified: 2026-11-17
+modified: 2026-11-26
 human_modified:
-ai_modified: 2026-11-24T12:48:36+00:00
+ai_modified: 2026-11-26T02:25:04+00:00
 draft: false
 last_deep_review: 2026-07-19T02:22:00+00:00
 topics:
@@ -40,7 +40,7 @@ embedded_videos:
     source: notebooklm/0172-01-valence-void
 ---
 
-The [[hard-problem-of-consciousness|hard problem]] asks why there is something it is like to be a physical system. The valence void asks a sharper question: why does that "something" come pre-sorted into good and bad? Human experience as we know it carries hedonic tone — pleasant, unpleasant, or nominally neutral — and this built-in evaluative dimension resists explanation from every direction. Neuroscience explains [[valence|valence's]] *function* (approach/avoid signalling) without explaining why activation of particular neural circuits *hurts*. Introspection reveals valence as primitive and irreducible — pain's badness cannot be decomposed into simpler experiential components. And any attempt to explain valence from within consciousness uses concepts that are themselves valenced, creating a circularity that may be structurally irresolvable.
+The [[hard-problem-of-consciousness|hard problem]] asks why there is something it is like to be a physical system. The valence void asks a sharper question: why does that "something" come pre-sorted into good and bad? Human experience as we know it carries hedonic tone — pleasant, unpleasant, or nominally neutral — and this built-in evaluative dimension resists explanation from every direction. Neuroscience explains [[valence|valence's]] *function* (approach/avoid signalling) without explaining why activation of particular neural circuits *hurts*. Introspection presents valence as primitive and unanalysable — pain's badness cannot be decomposed into simpler experiential components. And any attempt to explain valence from within consciousness uses concepts that are themselves valenced, creating a circularity that may be structurally irresolvable.
 
 The Unfinishable Map treats the valence void as a distinct cognitive boundary, sharper and more intimate than the hard problem it inherits. The hard problem is abstract — one can discuss it without confronting it. The valence void is lived. Every moment of experience demonstrates the phenomenon and defeats the explanation simultaneously.
 
@@ -112,11 +112,11 @@ Johnson's Symmetry Theory of Valence (2016) proposes that the valence of a consc
 
 The valence void connects to the Map's [[tenets|foundational commitments]] at multiple points.
 
-**[[tenets#^dualism|Dualism]]** finds particularly strong support. If the felt badness of pain cannot be captured by functional or physical description — as the explanatory gap suggests and pain asymbolia illustrates without settling — then consciousness involves something beyond the material. Valence sharpens this argument because it concerns the *simplest* phenomenal property, the bare positive-negative dimension. If even this elementary feature resists reduction, the prospects for reducing richer phenomenal properties are poor.
+**[[tenets#^dualism|Dualism]]** gains a sharper statement of its motivating gap and no new evidence. The datum is that functional accounts of valence explain approach and avoidance and leave open why the signal hurts; pain asymbolia, in which damage is registered without felt badness, illustrates the gap without settling it. [[type-a-type-b-and-type-c-physicalism|Type-B physicalism]] grants a gap of this kind and denies that it marks a gap in reality, so the datum does not discriminate. What valence adds is an a fortiori step inside the gap argument: it is the *simplest* phenomenal property, and if the gap holds for the bare positive-negative dimension it is unlikely to close for richer ones. The Map reads the gap as [[phenomenal-value-realism|ontological]]. That reading is the Map's, and as a catalogue entry the void adds no weight to it: the voids register has [[positions/voids-as-evidence#^p-v3|suspended the cumulative step]].
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** has its most intuitive case in valence. Pain asymbolia shows that when the phenomenal quality of badness is absent, behaviour changes — patients do not avoid damaging stimuli with normal urgency. It follows that whatever asymbolics lack matters causally, but not that the felt quality is what matters: the aversive disposition goes missing too and can explain both the missing painfulness and the behaviour, as in Noordhof's reversed order (above), and an epiphenomenalist predicts the same deficit. The Map's reading, on which the felt quality does causal work, is compatible with the data rather than supported by them (the same limit the [[cross-state-void]] draws for its own behavioural evidence) and inherits the debt recorded at [[tenets#^tenet-3-standing|the tenet's standing note]]. If valence is genuinely phenomenal and behaviour depends on how things *feel*, then consciousness causally influences the physical world through its evaluative dimension.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** has its most intuitive case in valence. Pain asymbolia shows that when the phenomenal quality of badness is absent, behaviour changes — patients do not avoid damaging stimuli with normal urgency. It follows that whatever asymbolics lack matters causally, but not that the felt quality is what matters: the aversive disposition goes missing too and can explain both the missing painfulness and the behaviour, as in Noordhof's reversed order (above), and an epiphenomenalist predicts the same deficit. The Map's reading, on which the felt quality does causal work, is compatible with the data rather than supported by them (the same limit the [[cross-state-void]] draws for its own behavioural evidence) and inherits the debt recorded at [[tenets#^tenet-3-standing|the tenet's standing note]].
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated precisely. "Pain hurts" seems like the simplest possible statement about experience. Yet this apparent simplicity resists all deeper explanation — not because of insufficient ingenuity but because the simplicity *is* the depth. The preference for parsimonious explanation fails here: the simplest experiential fact is the most inexplicable.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated precisely. "Pain hurts" seems like the simplest possible statement about experience. Yet this apparent simplicity resists all deeper explanation — not because of insufficient ingenuity but because the simplicity *is* the depth. The brevity of a statement is no guide to the simplicity of its explanation: the tenet's caution in miniature, illustrated rather than tested.
 
 ## Further Reading
 

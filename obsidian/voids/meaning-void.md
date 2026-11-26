@@ -2,9 +2,9 @@
 title: "The Meaning Void"
 description: "How thoughts achieve aboutness, and what understanding feels like once they have. Both faces of meaning—the mechanism of reference and the felt character of comprehension—resist physical reduction."
 created: 2026-02-05
-modified: 2026-09-27
+modified: 2026-11-26
 human_modified: null
-ai_modified: 2026-11-11T00:03:17.720588+00:00
+ai_modified: 2026-11-26T02:25:04+00:00
 last_deep_review: 2026-07-17T15:31:28+00:00
 draft: false
 topics:
@@ -125,11 +125,11 @@ If AI eventually achieves genuine intentionality, whether it would have better i
 
 The meaning void connects directly to the Map's [[tenets|foundational commitments]].
 
-**[[tenets#^dualism|Dualism]]** finds qualified support. That we access content but never content-formation, comprehension but never its felt character in formal terms, is compatible with multiple frameworks. The dualist case rests on a further claim: that *original* intentionality and cognitive phenomenology resist third-person description for the same reasons qualia do. If aboutness and felt understanding are constitutively first-personal, no objective account can capture what makes a thought about its object, any more than a wavelength specification captures what red looks like. The Map endorses the phenomenal-intentionality side while acknowledging the physicalist alternative remains open.
+**[[tenets#^dualism|Dualism]]** gains a reading here and [[positions/voids-as-evidence#^p-v3|no independent evidence]]. That we access content but never content-formation, comprehension but never its felt character in formal terms, is compatible with multiple frameworks. The dualist case rests on a further claim: that *original* intentionality and cognitive phenomenology resist third-person description for the same reasons qualia do. If aboutness and felt understanding are constitutively first-personal, no objective account can capture what makes a thought about its object, any more than a wavelength specification captures what red looks like. The Map endorses the phenomenal-intentionality side while acknowledging the physicalist alternative remains open.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. The "simpler" physical story—meaning as causal covariation, biological function, or computational role—is parsimonious but may be systematically incomplete. Decades of work on naturalising meaning have produced no consensus theory. Parsimony assumes we understand enough to judge simplicity; the void suggests we do not.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** gains texture from symbol grounding and phenomenal intentionality. If meaning requires sensorimotor grounding, consciousness must be causally engaged with its environment. If consciousness constitutively determines a portion of semantic content, it is doing causal work in generating meaning, not merely registering it.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** has a thematic link to symbol grounding and phenomenal intentionality. If meaning requires sensorimotor grounding, the organism must be causally engaged with its environment, as every account grants. If consciousness constitutively determines a portion of semantic content, it plays a constitutive role; that the role is also causal is the Map's commitment, not shown here.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** connects through the indexical character of meaning, though less decisively than it might seem. An Everettian can grant branch-local determinacy: each branch's thinker bears a determinate referential relation to its own objects. The dispute sits at global indexical identity—whether *this* thinker's intending, rather than a qualitatively identical duplicate's, is a further non-qualitative fact. The Map posits that fact rather than deriving it from meaning ([[diverging-worlds-everettianism]] locates the residue in haecceity and global exclusion), so the meaning void coheres with the tenet without establishing it.
 
