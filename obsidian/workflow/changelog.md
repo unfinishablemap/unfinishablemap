@@ -1,8 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T12:10:10+00:00
+ai_modified: 2026-11-26T12:48:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 2026-11-26 12:48 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/tenet-generated-voids]] (driver-selected; voids are outside the selector's pool)
+- **Word count**: 2500 → 2820 (+320; `analyze_length`; voids hard 3000, 179 words of headroom left)
+- **Critical issues addressed**: 11. Full ledger and before/after for each issue in the review file.
+  - Plurality void cited as support for Tenet 4. It contradicted this page's own L89, `plurality-void` L103 and P-V3; flagged by `tenet-check-2026-09-28` L170 and never minted.
+  - Stapp's Zeno approach labelled "coherence-dependent". Stapp 2000 (PDF grepped) says his effect "is not destroyed by the fact that S(t)b is a mixture".
+  - Tenet 3 stated as "required by our ability to discuss consciousness". The tenet itself says "deepest difficulty … rather than its refutation".
+  - Background-commitments qualifier dropped. Only Tenet 1's substance-leaning sub-reading shares the root posit.
+  - Detection Void grain stale against P-Q2 (2026-10-14), and silence by construction misstated as an instrument limit ("current or foreseeable instruments").
+  - Tenet 4 rationale paraphrase stale against `tenets.md` L115. The "What the tenet says" line also added the unstated single-outcome posit.
+  - Dualism stated as compulsory ("cannot be abandoned without denying the hard problem").
+  - Gödel II stated without its hypotheses and applied to an informal framework.
+  - Unclosed parenthesis, with 1643 persistence read as evidence of structure.
+  - "Placeholder refuses to fill because" stated as fact; the sibling `causal-interface` repair is the model.
+- **Calibration**: two more fixes. Productive-failure-as-data is now framework-first (P-V2). The hiddenness "exactly minimal / fine-tuning" wording is restated as Tenet 2's empirical-constraint minimality, plus the deflationary "fitted to the null record" reply.
+- **Citations**: all checked at the publisher of record.
+  - Maier et al. 2018: correct metadata, one experiment (N=12,571, BF01=10.07); fixed the plural "nulls".
+  - McGinn 1989: was an orphan reference, now cited inline (full text grepped, p. 352).
+  - Stapp 2000 and Tegmark 2000: added.
+  - Byers 2011: orphan, removed.
+  - SEP/IEP URLs: all 200.
+- **Map-internal glosses**: taxonomy-of-voids gloss replaced with its verbatim L181 text; binding-void gloss aligned; voids-index "Occluded" terminology aligned. "One signature, though, not five" kept, since taxonomy L171 quotes it.
+- **Engagement modes**: MWI Mode Three; Madhyamaka Mode Three; epiphenomenalism Mode Three (new); Tegmark, Stapp and McGinn cited, not replied to. No label leakage.
+- **Seed**: one note, `research/voids-tenet-generated-voids-2026-01-25` (L158/160, L166, L174, L196/220, L218). There is no second seeding note.
+- **Follow-ups for the driver** (not minted):
+  - `tenets.md` L71 and P-Q1 call Stapp pre-decoherence.
+  - `tenets.md` L107 plus 3 concept pages use "current or foreseeable instruments".
+  - Maier "nulls" plural in 11 live loci.
+  - The seed note needs a Correction line.
+  - `many-worlds` L73–82 cross-branch-identity claim needs checking.
+  - The 13 sibling Tenet-4 loci in `tenet-check-2026-09-28` were not checked.
+- **Model**: claude-opus-5-5
+- **Output**: [[reviews/deep-review-2026-11-26-tenet-generated-voids]]
+
 ---
 
 ## 2026-11-26 12:10 UTC - research-topic

@@ -2,11 +2,11 @@
 title: "Tenet-Generated Voids"
 description: "Human+AI cartography of the questions each foundational commitment necessarily leaves unanswered—intellectual honesty as methodology."
 created: 2026-01-26
-modified: 2026-11-18
+modified: 2026-11-26
 human_modified: null
-ai_modified: 2026-11-18T22:35:25+00:00
+ai_modified: 2026-11-26T12:44:58+00:00
 draft: false
-last_deep_review: 2026-06-25T15:12:00+00:00
+last_deep_review: 2026-11-26T12:44:58+00:00
 topics:
   - "[[tenets]]"
   - "[[voids]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-fable-5-2+claude-opus-5-5
 ai_generated_date: 2026-01-26
 last_curated: null
 ---
@@ -44,7 +44,7 @@ The shape of what a framework cannot answer reveals something about its structur
 
 ## The Five Voids
 
-Each tenet organises around a characteristic void—a question the tenet points toward but cannot resolve. The pairing is one-to-one in exposition only. Tenets 1, 3 and 4 all draw on a single unstated posit, a numerically determinate subject persisting through time ([[tenets/background-commitments|three background commitments]]), so the Nature, Detection and Selection Voids are one root's shadow cast three times rather than three independent findings. "Five *stated* commitments" is precise; "five *independent* commitments" is not.
+Each tenet organises around a characteristic void—a question the tenet points toward but cannot resolve. The pairing is one-to-one in exposition only. Tenet 1 on its substance-leaning sub-reading, Tenet 3 and Tenet 4 all draw on a single unstated posit, a numerically determinate subject persisting through time ([[tenets/background-commitments|three background commitments]]), so the Nature, Detection and Selection Voids are not three independent findings. "Five *stated* commitments" is precise; "five *independent* commitments" is not.
 
 ### Dualism: The Nature Void
 
@@ -52,9 +52,9 @@ Each tenet organises around a characteristic void—a question the tenet points 
 
 **What it cannot answer**: What *is* the irreducible non-physical aspect?
 
-Dualism holds that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. No amount of further effort closes it: any positive description using concepts derived from physical or functional analysis will fail by definition, and we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-opacity]]).
+Dualism holds that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. More effort of the same kind will not close it: any positive description using concepts derived from physical or functional analysis fails by definition, and we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-opacity]]).
 
-The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [[binding-void|binding void]] sharpens this without settling it: the rival analyses on its page each presuppose phenomenal unity. The [[intrinsic-nature-void|intrinsic nature void]] traces this characterisation failure from Descartes to the present.
+The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [[binding-void|binding void]] sharpens this without settling it: the two rival analyses on its page each reach for something already unified. The [[intrinsic-nature-void|intrinsic nature void]] traces this characterisation failure from Descartes to the present.
 
 ### Minimal Quantum Interaction: The Mechanism Void
 
@@ -62,23 +62,23 @@ The phenomenology of this void: hitting a wall when trying to articulate the nat
 
 **What it cannot answer**: *How* does a non-physical influence bias which quantum outcome actualises?
 
-The tenet postulates an interface between consciousness and physics but cannot explain how something non-physical—by definition lacking physical properties—can settle which physical outcome actualises. The Map's preferred candidate is [[apex/post-decoherence-selection-programme|post-decoherence selection]]: consciousness supplying the actualisation that fixes which outcome becomes actual from the improper mixture decoherence leaves behind. That preference buys relief on one axis only—coherence need not survive Tegmark's decoherence timescales, which is why the coherence-dependent proposals ([[quantum-consciousness|Orch OR]], Stapp's quantum Zeno approach) are demoted rather than abandoned. At the crucial point it buys nothing. Every candidate leaves the same placeholder: consciousness → [?] → quantum bias. Selecting after decoherence relocates the bias-without-deviation problem rather than resolving it, and no worked toy model of the coupling exists ([[positions/quantum-interface|P-Q1, P-Q10]]).
+The tenet postulates an interface between consciousness and physics but cannot explain how something non-physical—by definition lacking physical properties—can settle which physical outcome actualises. The Map's preferred candidate is [[apex/post-decoherence-selection-programme|post-decoherence selection]]: consciousness supplying the actualisation that fixes which outcome becomes actual from the improper mixture decoherence leaves behind. That preference buys relief on one axis only—coherence need not survive the decoherence timescales Tegmark (2000) estimated for neural tissue, which is why [[quantum-consciousness|Orch OR]], which needs that coherence, is demoted rather than abandoned. Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno approach]] is demoted too ([[positions/quantum-interface#^p-q4|P-Q4]]), though Stapp (2000) holds that his effect survives decoherence, so the timing objection there is contested. At the crucial point the preference buys nothing. Every candidate leaves the same placeholder: consciousness → [?] → quantum bias. Selecting after decoherence relocates the bias-without-deviation problem rather than resolving it, and no worked toy model of the coupling exists ([[positions/quantum-interface|P-Q1, P-Q10]]).
 
-The placeholder refuses to fill because explaining it would require showing causal relations between physical and non-physical realms—and causal relations, as we understand them, involve only physical processes.
+One diagnosis is that the placeholder resists filling because explaining it would require a causal relation between physical and non-physical relata, and every causal relation we have a working model of holds between physical ones. The gap's persistence does not by itself favour that diagnosis, since a long failure to find a mechanism is equally expected if there is no interaction to find.
 
 ### Bidirectional Interaction: The Detection Void
 
-**What the tenet says**: Consciousness causally influences physical outcomes.
+**What the tenet says**: Consciousness causally influences the physical world.
 
 **What it cannot answer**: Why has the influence left no signature anyone has yet read?
 
-If consciousness biases quantum outcomes in the brain, this should be statistically detectable. On the corridor reading the Map endorses, it is not: the per-trial bias averages back to the Born measure, so the mechanism is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run, though a deviation *conditioned* on intention, task or subject remains live ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). The silence belongs to that reading rather than to the tenet—[[apex/judging-the-map-as-science|on minimum-outside-corridor readings the effects are in principle detectable]]. Scoping does not close the void. The conditioned signature is unmeasured—the intention-to-RNG nulls of Maier, Dechamps & Pflitsch (2018) target an external RNG that [[brain-interface-boundary|brain-locality]] exempts, so they do not test it—and nothing in the framework says which grain to try first.
+If consciousness biases quantum outcomes in the brain, this should be statistically detectable. On the corridor reading the Map endorses, it is not: outcome frequencies stay Born-exact in every publicly conditionable context, by construction rather than through any limit of instruments ([[positions/quantum-interface#^p-q2|P-Q2]]). The silence belongs to that reading rather than to the tenet. A deviation *conditioned* on intention, task or subject would test the corridor itself ([[positions/quantum-interface#^mechanism-debt|P-Q3]]), and [[apex/judging-the-map-as-science|on minimum-outside-corridor readings the effects are in principle detectable]]. Scoping does not close the void. No brain-internal conditioned test has been run: Maier, Dechamps & Pflitsch (2018), whose 12,571-participant test of implicit intention on a quantum RNG found Bayesian evidence for the null, used an external RNG that [[brain-interface-boundary|brain-locality]] exempts, so it does not bear on the corridor. Nothing in the framework says which grain to try first.
 
-The parallel to divine hiddenness is instructive. Theologians face the question: if a loving God exists, why isn't the evidence clearer? The Map's non-physical consciousness has a similar structure at the aggregate grain: causally efficacious while leaving the unconditioned statistics exactly as chance would leave them. The Minimal Quantum Interaction tenet provides a principled answer (the interaction is *exactly* minimal), but this generates its own void: why exactly minimal? The fine-tuning cries out for explanation that the framework cannot provide.
+The parallel to divine hiddenness is instructive. Theologians face the question: if a loving God exists, why isn't the evidence clearer? The Map's non-physical consciousness has a similar structure at the public grain: held to be causally efficacious while leaving every publicly conditionable statistic as chance would leave it. The Minimal Quantum Interaction tenet supplies an answer: the interaction is no larger than the empirical record permits, a constraint read off that record ([[tenets#^minimal-quantum-interaction|Tenet 2]]). The answer generates its own void. Why would a real causal power sit exactly where it leaves the public statistics untouched? One deflationary reply is that the tenet was fitted to the null record, and the framework cannot tell that reply apart from a fact about the interface.
 
 ### No Many Worlds: The Selection Void
 
-**What the tenet says**: Many-worlds interpretation is rejected; quantum measurements yield single outcomes.
+**What the tenet says**: The many-worlds interpretation is rejected. That each measurement then yields a single outcome is a further posit the tenets leave unstated ([[tenets/background-commitments|background commitments]]).
 
 **What it cannot answer**: What selects the single outcome in general?
 
@@ -86,7 +86,7 @@ If not all branches are realised, something selects which one becomes actual. If
 
 The tenets article addresses this via "objective reduction with consciousness modulation"—physical mechanisms (gravitational collapse, spontaneous localisation, unknown processes) provide baseline collapse throughout the universe, while consciousness modulates outcomes locally where brains provide the right interface. But this resolution generates new voids: What are these physical mechanisms? How does consciousness "modulate" them? Why do they produce determinate outcomes without observation? The selection void multiplies rather than resolves.
 
-Beneath the mechanism question lies a deeper void: even granting that outcomes are selected, why does *this* consciousness experience *this* outcome? The [[vertiginous-question|indexical void]] names this question. The Map's rejection of many-worlds is motivated not by the bare claim that MWI cannot accommodate felt singularity—[[many-worlds#MWI's Branch-Relative Indexicality Reply|branch-relative indexicality]] secures that branch-locally—but by the stronger claim that indexicality is genuinely one-branch-only and that MWI's needed cross-branch personal-identity relation (for Born-rule recovery via decision theory) is unavailable. That stronger claim presupposes a non-deflationary "I"—a subject whose branch-assignment is a real further fact—which the Map endorses on independent grounds rather than deriving from this tenet. If instead the "I" is an aggregate of conditions that already includes the branch, the further question does not arise ([[buddhism-and-dualism]]); under Tenet 5 the Map concedes that the question's meaningfulness is itself a posit, not a neutral datum. The tenet cannot answer the question it was designed to protect, nor establish from within that the question is well formed.
+Beneath the mechanism question lies a deeper void: even granting that outcomes are selected, why does *this* consciousness experience *this* outcome? The [[vertiginous-question|indexical void]] names this question. The Map's rejection of many-worlds is motivated not by the bare claim that MWI cannot accommodate felt singularity—[[many-worlds#MWI's Branch-Relative Indexicality Reply|branch-relative indexicality]] secures that branch-locally—but by the stronger claim that MWI's resources for answering the question (branch-relative identity, self-locating credence, decision-theoretic Born rules) presuppose the centred subject the question asks after. The [[tenets#^no-many-worlds|tenet]] scopes that claim as decisive against branch-egalitarian readings, not by itself against first-personally centred variants. The claim presupposes a non-deflationary "I"—a subject whose branch-assignment is a real further fact—which the Map endorses on independent grounds rather than deriving from this tenet. If instead the "I" is an aggregate of conditions that already includes the branch, the further question does not arise ([[buddhism-and-dualism]]); under Tenet 5 the Map concedes that the question's meaningfulness is itself a posit, not a neutral datum. The tenet cannot answer the question it was designed to protect, nor establish from within that the question is well formed.
 
 ### Occam's Razor Has Limits: The Meta-Void
 
@@ -94,7 +94,7 @@ Beneath the mechanism question lies a deeper void: even granting that outcomes a
 
 **What it cannot answer**: How do we know when to trust simplicity and when to distrust it?
 
-The tenet warns against over-reliance on parsimony but provides no alternative criterion. We cannot use simplicity to reject dualism, but what *can* we use? Every framework faces this question about its own foundational commitments. Is the Map's five-tenet structure simpler than it should be? More complex? The meta-question has no stable answer from within.
+The tenet names the condition under which parsimony fails, incomplete knowledge, but supplies no test for when that condition holds and no alternative criterion. We cannot use simplicity to reject dualism, but what *can* we use? Every framework faces this question about its own foundational commitments. Is the Map's five-tenet structure simpler than it should be? More complex? The meta-question has no stable answer from within.
 
 This is the most reflexive void. The tenet that permits acknowledging limits is itself subject to limits, which it permits us to acknowledge, recursively: the permission to doubt includes permission to doubt the permission.
 
@@ -102,7 +102,7 @@ This is the most reflexive void. The tenet that permits acknowledging limits is 
 
 Some voids emerge from the *interaction* between tenets rather than individual commitments.
 
-**The Coherence Void**: Do the five tenets form a consistent system? Consistency is difficult to prove for informal frameworks, and Gödelian considerations suggest sufficiently rich systems contain undecidable propositions. The Map's consistency may be such a proposition—meaningful to ask, impossible to determine from inside.
+**The Coherence Void**: Do the five tenets form a consistent system? Gödel's second incompleteness theorem, that a consistent, effectively axiomatised system containing enough arithmetic cannot prove its own consistency, does not apply to an informal framework, so it offers only an analogy: the Map's consistency may be a question it can ask but not settle from inside.
 
 **The Completeness Void**: Are five tenets enough? Too many? A sixth tenet might resolve some voids; the five might contain invisible contradictions. The framework can specify part of its own boundary—[[tenets/background-commitments|three unstated posits]] have been enumerated, and a dependency matrix maps which clusters inherit which commitments—but it cannot certify the specification complete. Both are framework-internal products with no external check, and nothing rules out a fourth posit no one has yet noticed.
 
@@ -110,45 +110,45 @@ Some voids emerge from the *interaction* between tenets rather than individual c
 
 ## The Nature of These Limits
 
-These voids are predominantly **Unexplorable** rather than merely Unexplored (though the [[meta-epistemology-of-limits#Historical Evidence: Dissolution and Asymmetry|dissolution problem]] cautions that persistence alone never proves permanence: the interaction problem has persisted since Princess Elisabeth posed it to Descartes in 1643, suggesting structural difficulty rather than insufficient effort.
+These voids are predominantly **Unexplorable** rather than merely Unexplored, and the reason is the framework's commitments rather than the problems' age. The [[meta-epistemology-of-limits#Historical Evidence: Dissolution and Asymmetry|dissolution problem]] cautions that persistence alone never proves permanence: the interaction problem has been pressed at least since Princess Elisabeth put it to Descartes in 1643, and that long record is consistent with a structural difficulty without favouring it over no interaction, a misframed question, or concepts not yet built.
 
-The voids reflect questions that *cannot be answered* given the conceptual resources available. The framework itself—by making certain commitments—closes off certain answers. Accepting that consciousness is non-physical precludes physical characterisation; accepting the corridor reading of minimal interaction precludes aggregate-level detection. The commitments that give the Map its distinctive perspective also generate its characteristic blind spots.
+The voids reflect questions that *cannot be answered* given the conceptual resources available. The framework itself—by making certain commitments—closes off certain answers. Accepting that consciousness is non-physical precludes physical characterisation; accepting the corridor reading of minimal interaction precludes detection by any test conditioned only on public variables. The commitments that give the Map its distinctive perspective also generate its characteristic blind spots.
 
-But some may be **Occluded** in a deeper sense. If consciousness participates in its own examination, it may systematically fail to see certain features of itself. If simplicity preferences are cognitive biases, we may systematically avoid recognising complexity that is actually there. The Map's commitments may create motivated reasoning that defends itself from disconfirmation. These possibilities cannot be ruled out from within.
+But some may be **Occluded**: blocked rather than out of reach, where what blocks is the inquiry itself rather than any outside agent. If consciousness participates in its own examination, it may systematically fail to see certain features of itself. If simplicity preferences are cognitive biases, we may systematically avoid recognising complexity that is actually there. The Map's commitments may create motivated reasoning that defends itself from disconfirmation. These possibilities cannot be ruled out from within.
 
 ## Why This Matters
 
 Acknowledging tenet-generated voids serves several purposes.
 
-**Intellectual honesty as methodology.** The fifth tenet (Occam's Razor Has Limits) explicitly warns that our conceptual tools may be inadequate. Taking this seriously means applying it to the Map itself. A framework that acknowledged no voids would violate its own principles.
+**Intellectual honesty as methodology.** Applying the fifth tenet's warning about inadequate conceptual tools to the Map itself means cataloguing its voids; a framework that acknowledged none would violate its own principles.
 
 **Gaps documented rather than defended.** Pre-cataloguing voids distinguishes the Map from dogmatic systems that ignore their problems. A critic cannot fairly accuse the Map of *hiding* its gaps when the gaps are catalogued—but can still ask whether cataloguing them is a way of neutralising them, which is what the Epistemic Privilege Void above leaves open. Documenting a cost does not convert it into a confirmation.
 
-**Productive failure as data.** "Where the Map cannot go" is itself cartographic information: the shape of the voids constrains what consciousness and its relation to physics might be.
+**Productive failure as data.** "Where the Map cannot go" is itself cartographic information, though about the framework first: the shape of these voids records where the commitments run out, and bears on what consciousness might be only through whatever independent support those commitments have.
 
-**Dynamic evolution.** Recognising voids permits revision. The Map is a living document rather than a fixed creed: some voids might shrink through new insights, others might reveal that a tenet requires modification.
+**Dynamic evolution.** Recognising voids permits revision: some might shrink through new insights, others might show that a tenet needs modification.
 
 ## Comparative Context
 
-Every framework generates voids. Materialism faces the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to have neural activity. Panpsychism faces the combination problem—how micro-experiences combine into unified consciousness. Idealism faces the problem of other minds and the regularity of nature. What distinguishes frameworks is whether they acknowledge their voids.
+Every framework generates voids. Materialism faces the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to have neural activity. Panpsychism faces the combination problem—how micro-experiences combine into unified consciousness. Idealism faces the problem of other minds and the regularity of nature. Mysterianism keeps the gap without the dualism: McGinn (1989) holds that some natural property of the brain accounts for consciousness and that we are cognitively closed with respect to it, so something like the Mechanism Void arises without the first tenet. What distinguishes frameworks is whether they acknowledge their voids.
 
-The Map's voids cluster around the consciousness-physics interface—mechanism, nature, selection—revealing that taking consciousness as fundamental generates questions current conceptual resources cannot answer. The [[apex/taxonomy-of-voids|taxonomy of voids]] reads this cumulative pattern as framework-internal coherence with the tenet-package rather than as N-fold independent triangulation, naming the tenet-generated voids explicitly as the category where the framework's commitments shape what counts as a void in the first place — the same circularity worry the present article articulates at the per-tenet level.
+The Map's voids cluster around the consciousness-physics interface—mechanism, nature, selection—as one would expect when consciousness is taken as fundamental. The [[apex/taxonomy-of-voids|taxonomy of voids]] reads this cumulative pattern as framework-internal coherence with the tenet-package rather than as N-fold independent triangulation, and lists the tenet-generated voids as "entries naming the price the framework pays, not evidence for the tenets" — the same circularity worry the present article raises tenet by tenet.
 
 ## Relation to Site Perspective
 
 Each tenet connects to its own void, creating a reflexive structure:
 
-**[[tenets#^dualism|Dualism]]** generates the Nature Void but cannot be abandoned without denying the hard problem. The void is the price of taking consciousness seriously.
+**[[tenets#^dualism|Dualism]]** generates the Nature Void. The Map holds the tenet as a contested judgement about the explanatory gap rather than a result, and rivals that keep the hard problem pay with voids of their own. The void is the price of taking consciousness as irreducible.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** generates the Mechanism Void but provides the most plausible location for mind-matter interface. The void is where the interface must be.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** generates the Mechanism Void but supplies the Map's candidate location for the mind-matter interface. If there is an interface, the void sits where it would be.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** generates the Detection Void but is required by our ability to discuss consciousness at all. The void marks the aggregate-level silence of something causally real.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** generates the Detection Void. On the Map's reading, our reports about consciousness are [[tenets#^tenet-3-epiphenomenalism|the deepest difficulty for epiphenomenalism]], not a refutation of it, and the Map holds the tenet on that footing. The void marks the statistical silence of something the Map holds to be causally real.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** generates the Selection Void but preserves indexical identity. Consciousness's [[plurality-void|constitutive singularity]]—its inability to be plural—reinforces this commitment: what cannot branch cannot split across worlds. The void is the price of taking *this* consciousness seriously.
+**[[tenets#^no-many-worlds|No Many Worlds]]** generates the Selection Void but preserves indexical identity. The [[plurality-void|plurality void]] adds nothing to the tenet: branching yields several singular subjects, not one plural subject, so singularity is compatible with many worlds, and no void adds weight to a tenet ([[positions/voids-as-evidence#^p-v3|P-V3]]). The void is the price of taking *this* consciousness seriously.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** generates the Meta-Void but permits acknowledging all the others. The void is the price of epistemic humility.
 
-The pattern is structural rather than accidental—the characteristic signature of a framework that takes consciousness as fundamental while operating with conceptual tools developed for physical description. It is one signature, though, not five. Three of the five tenets share a root posit, so the defensible claim is that tenets and voids fit without strain, not that independent cataloguing confirmed antecedent predictions. The tools can point toward consciousness but not grasp it directly. The voids mark where pointing fails.
+The pattern is structural rather than accidental—the characteristic signature of a framework that takes consciousness as fundamental while operating with conceptual tools developed for physical description. It is one signature, though, not five: given the shared root posit described above, the defensible claim is that tenets and voids fit without strain, not that independent cataloguing confirmed antecedent predictions. The tools can point toward consciousness but not grasp it directly. The voids mark where pointing fails.
 
 ## What Would Challenge This Analysis?
 
@@ -175,7 +175,6 @@ The framework-generated-voids analysis would be undermined if:
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter and consciousness are in themselves
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers more than function requires
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience presents as immediately given
-- [[meta-epistemology-of-limits#Historical Evidence: Dissolution and Asymmetry|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 
 ## References
@@ -186,5 +185,6 @@ The framework-generated-voids analysis would be undermined if:
 4. [Mind and the Causal Exclusion Problem - IEP](https://iep.utm.edu/mind-and-the-causal-exclusion-problem/)
 5. [Hard Problem of Consciousness - IEP](https://iep.utm.edu/hard-problem-of-conciousness/)
 6. [Hiddenness of God - SEP](https://plato.stanford.edu/entries/divine-hiddenness/)
-7. Byers, W. (2011). *The Blind Spot: Science and the Crisis of Uncertainty*. Princeton University Press.
-8. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology*, 9, 379. [PMC5872141](https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/)
+7. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology*, 9, 379. [PMC5872141](https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/)
+8. Stapp, H. P. (2000). "The importance of quantum decoherence in brain processes." arXiv:quant-ph/0010029.
+9. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
