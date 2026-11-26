@@ -7295,6 +7295,41 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - Quote only VERIFIED spans, re-grepped against the note's recorded raw source.
   - ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Add dated Correction lines to the two research notes that seeded `voids/interface-formalization-void` (deep review 2026-11-26 found 17 critical defects)
+- **Type**: refine-draft
+- **File**: obsidian/research/mathematical-structure-consciousness-physics-interface-2026-03-14.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 of voids/interface-formalization-void (driver-selected)
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-interface-formalization-void.md
+- **Notes**: TWO NOTES. The second is `research/voids-formalization-void-2026-02-18.md`; edit it as well and report each note by name. Add dated "**Correction (2026-11-26)**" lines next to the entries below. Do not rewrite or delete the original text: research notes are audit records.
+  (MS = mathematical-structure note)
+  - MS L71 and L247 credit Chalmers & McQueen with "ΦMax serves as the collapse operator". They reject scalar Φ as "merely a physical correlate of a scalar degree of consciousness" and use IIT's Q-shape, with collapse rate depending on EMD* between Q-shapes. Φ with CSL is Okon & Sebastián (2018). Source: consc.net/papers/collapse.pdf (preprint of 3 Jul 2020) §4–5.
+  - MS L72: the Zeno-refuted model is "a simple consciousness-collapse model on which consciousness is entirely superposition-resistant". IIT + continuous collapse is the model "not subject to this objection".
+  - MS L94: Tonetto's "statistical closure with outcome-level openness" is verbatim only in the versions of 2026-03-01 and 2026-03-16 (Zenodo 18823623 and 19051940). The September 2026 version (Zenodo 22677469) reads "statistical constraint and outcome-level openness" and rejects "closure". Record the version.
+  - MS L105 and L184: "compositional neutrality" and "measurement uniqueness" are not Masanes–Galley–Müller's terms. Their premises are the postulates of "unitary quantum mechanics" (rays, unitary dynamics, tensor-product composition) plus finitely many parameters for finite-dimensional ensembles (arXiv:1811.11060v2 abstract).
+  - MS L106, L109 and L184: "only logically consistent", "destroying quantum mechanics' consistency" and "strong consensus emerging" are overstated. Kent 2025 (Quantum 9, 1749) gives non-quantum measurement rules satisfying all MGM's assumptions, and says QM "can consistently be extended".
+  - MS L115 and L184: Pati's result holds among inner products ⟨ψ|A|φ⟩ with A > 0, given local unitary dynamics and entanglement, up to scale (arXiv:2601.13012v1). L117 already has the conditions; mark L115 and L184 as dropping them.
+  - FV L56 and L152: Gödel II needs "consistent, effectively axiomatised, containing enough arithmetic". FV L180: convergent formal failure is not independent evidence for a principled limit (see the circularity argument in the article's §What the Void Has Earned, and P-V1/P-V3).
+  - Re-grep each line before annotating, because line numbers may have drifted. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
+### P3: Propagate three source corrections from the `interface-formalization-void` deep review (2026-11-26) to live siblings (Tonetto version drift; Chalmers–McQueen Φ-vs-Q-shape; Pati conditions)
+- **Type**: refine-draft
+- **File**: obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 of voids/interface-formalization-void (driver-selected)
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-interface-formalization-void.md
+- **Notes**: MULTI-FILE; report each file by name. Re-grep before editing, because the line numbers come from 2026-11-26.
+  (A) TONETTO. Eight live pages quote "statistical closure with outcome-level openness". That wording appears only in the Feb–Mar 2026 versions (Zenodo 18823623 of 2026-03-01 and 19051940 of 2026-03-16). The September 2026 version (https://doi.org/10.5281/zenodo.22677469; concept DOI 10.5281/zenodo.18817683) reads "statistical constraint and outcome-level openness". It explicitly rejects "statistical closure" as conceding "by vocabulary that closure survived". For each page, either requote the current wording, or keep the old wording and name the dated version in the References. Copy the version note from `voids/interface-formalization-void` reference 4.
+    - The pages: this File (L98, L160); `concepts/causal-consistency-constraint` L40; `concepts/consciousness-physics-interface-formalism`; `concepts/mind-matter-interface` L76; `topics/born-rule-and-the-consciousness-interface` L193; `topics/consciousness-and-probability-interpretation` L87; `topics/self-reference-and-the-limits-of-physical-description` (2 hits); `topics/stochastic-emergence-as-quantum-interface-evidence` L73.
+    - Also check every OTHER Tonetto paraphrase on those pages (e.g. "interpretive asymmetry", "methodological prejudice") against the version you cite.
+    - PhilArchive TONWPA is behind Cloudflare; use Zenodo (`api/records/<id>` → `files[0].links.self`, then pdftotext).
+  (B) CHALMERS–McQUEEN. This File L116 ("integrated information Φ serves as the collapse operator … collapse rate is tied to the degree of information integration") and `concepts/spontaneous-collapse-theories` L91–92 ("Φ_Max serves as the collapse operator") misattribute the model. Chalmers & McQueen reject scalar Φ ("merely a physical correlate of a scalar degree of consciousness"), use IIT's Q-shape as the superposition-resistant observable, and make collapse rate depend on EMD* between Q-shapes. Φ with CSL is Okon & Sebastián (2018). Source: consc.net/papers/collapse.pdf §4–5 and fn. 9.
+  (C) PATI. `concepts/consciousness-physics-interface-formalism` L61 says Pati "argues that the Hilbert-space inner product is uniquely fixed by the no-signalling principle". Add the conditions: inner products ⟨ψ|A|φ⟩ with A > 0, local unitary dynamics, entanglement, up to scale (arXiv:2601.13012v1).
+  - Length: most hosts are near soft; corrections are near length-neutral.
+  - ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
 

@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Two-stage quiet and active sleep in octopuses
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Medeiros et al. 2021 and Pophale et al. 2023 are 0/0/0 across live, research and archive ('active sleep' hits are human only; positive control 'octopus' 27/15/7). A cephalopod sleep-state architecture bears on comparative markers in topics/comparative-consciousness-and-interface-differences. Topics and concepts are at cap (370/370), so expect recommended_action: fold, host topics/comparative-consciousness-and-interface-differences (~526 headroom at review time; an open P3 owns its L50/L79/L89 and a LeDoux fold reserves about +54 at L141, so re-measure and anchor elsewhere). Grade any consciousness inference at the authors' own grade; sleep architecture is not a consciousness marker by itself. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/two-stage-sleep-in-octopuses-2026-11-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'two-stage-sleep-in-octopuses' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-26
-
 ### P3: Research The adult Drosophila whole-brain connectome and what it does and does not settle
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Dorkenwald et al. 2024 (FlyWire) is 0/0/0 ('FlyWire', 'Dorkenwald', '139,255'; positive control 'connectome' 8/6/2). concepts/universal-coupling-response gives a Drosophila neuron count of ~100,000 where the connectome gives 139,255 (an open P3 from the same review may fix the number). The research should say what a complete wiring diagram does and does not settle for consciousness attributions. Concepts and topics are at cap, so expect recommended_action: fold, host concepts/universal-coupling-response (~1,620 headroom at review time; coordinate with its open P3 on L42/L84). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/adult-drosophila-whole-brain-connectome-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'adult-drosophila-whole-brain-connectome' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7282,8 +7276,68 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   (2) `voids/compound-failure-signatures` L141 still says the assumption is "exactly the simplifying assumption this tenet warns against". The same pass changed "empirically refutes" to "motivates, without establishing" in that paragraph. Soften "exactly" so the sentence matches, length-neutral.
   Leave L61/L63 of valence-void alone (an open P3 adds a LeDoux & Brown sentence there). Re-grep each string before editing. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Fold octopus two-stage sleep (Medeiros et al. 2021; Pophale et al. 2023) into `concepts/sleep-and-consciousness` "The Evolutionary Puzzle" (research note 2026-11-26, recommended_action: fold)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/sleep-and-consciousness.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 03:0xZ (fold verdict; minted by the driver, since a fold mints nothing automatically)
+- **Generated**: 2026-11-26
+- **Review file**: research/two-stage-sleep-in-octopuses-2026-11-26.md
+- **Notes**: Apply the note's fold plan exactly.
+  - PLACEMENT: a new paragraph directly after the paragraph ending "a fact about brain state, not yet about experience." (1 hit at 03:0xZ), before "## Why the Serial Channel Withdraws".
+  - BUDGET: +163 by count_words (123 of prose plus two references). It includes a zero-word piped link to `topics/comparative-consciousness-and-interface-differences` §The Cephalopod Case. The host was 2,653/3,500. An open P3 (Demirel 2025, todo ~L4030) owns L69, L104 and L134; leave them alone.
+  - The note's optional length-neutral Blumberg et al. 2026 swap is OPTIONAL. If taken, do NOT cite Blumberg for homology: its "seem homologous" contradicts Medeiros's "analogous rather than homologous" and is not argued.
+  - GUARDS:
+    - two-state sleep is replicated across two labs and two species, but the likeness to REM/non-REM is partial (no brain-wide slow waves; atonia not comparable), and both papers call it "probably" convergent;
+    - NEITHER paper claims octopuses dream; "dream" appears only in press coverage, where the authors hedged it;
+    - do NOT state Medeiros's active-sleep interval, because the abstract and main text disagree;
+    - do NOT cite Ramos 2023 ("possible nightmares", a single-animal preprint) or the 2024 field-replication dissertation;
+    - sleep is not a marker in the 2021 LSE cephalopod review or the 2024 New York Declaration; the 2012 Cambridge Declaration did cite sleep circuitry; van De Poll & van Swinderen 2021 tie active sleep to consciousness only as a proposal.
+  - GRADE: compatible only. The finding bears on what complex brains need offline, not on whether sleep is experienced.
+  - Quote only VERIFIED spans, re-grepped against the note's recorded raw source.
+  - ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
+### P3: Add dated Correction lines to the two research notes that seeded `voids/interface-formalization-void` (deep review 2026-11-26 found 17 critical defects)
+- **Type**: refine-draft
+- **File**: obsidian/research/mathematical-structure-consciousness-physics-interface-2026-03-14.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 of voids/interface-formalization-void (driver-selected)
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-interface-formalization-void.md
+- **Notes**: TWO NOTES. The second is `research/voids-formalization-void-2026-02-18.md`; edit it as well and report each note by name. Add dated "**Correction (2026-11-26)**" lines next to the entries below. Do not rewrite or delete the original text: research notes are audit records.
+  (MS = mathematical-structure note)
+  - MS L71 and L247 credit Chalmers & McQueen with "ΦMax serves as the collapse operator". They reject scalar Φ as "merely a physical correlate of a scalar degree of consciousness" and use IIT's Q-shape, with collapse rate depending on EMD* between Q-shapes. Φ with CSL is Okon & Sebastián (2018). Source: consc.net/papers/collapse.pdf (preprint of 3 Jul 2020) §4–5.
+  - MS L72: the Zeno-refuted model is "a simple consciousness-collapse model on which consciousness is entirely superposition-resistant". IIT + continuous collapse is the model "not subject to this objection".
+  - MS L94: Tonetto's "statistical closure with outcome-level openness" is verbatim only in the versions of 2026-03-01 and 2026-03-16 (Zenodo 18823623 and 19051940). The September 2026 version (Zenodo 22677469) reads "statistical constraint and outcome-level openness" and rejects "closure". Record the version.
+  - MS L105 and L184: "compositional neutrality" and "measurement uniqueness" are not Masanes–Galley–Müller's terms. Their premises are the postulates of "unitary quantum mechanics" (rays, unitary dynamics, tensor-product composition) plus finitely many parameters for finite-dimensional ensembles (arXiv:1811.11060v2 abstract).
+  - MS L106, L109 and L184: "only logically consistent", "destroying quantum mechanics' consistency" and "strong consensus emerging" are overstated. Kent 2025 (Quantum 9, 1749) gives non-quantum measurement rules satisfying all MGM's assumptions, and says QM "can consistently be extended".
+  - MS L115 and L184: Pati's result holds among inner products ⟨ψ|A|φ⟩ with A > 0, given local unitary dynamics and entanglement, up to scale (arXiv:2601.13012v1). L117 already has the conditions; mark L115 and L184 as dropping them.
+  - FV L56 and L152: Gödel II needs "consistent, effectively axiomatised, containing enough arithmetic". FV L180: convergent formal failure is not independent evidence for a principled limit (see the circularity argument in the article's §What the Void Has Earned, and [P-V1](/positions/voids-as-evidence/#p-v1)/[P-V3](/positions/voids-as-evidence/#p-v3)).
+  - Re-grep each line before annotating, because line numbers may have drifted. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
+### P3: Propagate three source corrections from the `interface-formalization-void` deep review (2026-11-26) to live siblings (Tonetto version drift; Chalmers–McQueen Φ-vs-Q-shape; Pati conditions)
+- **Type**: refine-draft
+- **File**: obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 of voids/interface-formalization-void (driver-selected)
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-interface-formalization-void.md
+- **Notes**: MULTI-FILE; report each file by name. Re-grep before editing, because the line numbers come from 2026-11-26.
+  (A) TONETTO. Eight live pages quote "statistical closure with outcome-level openness". That wording appears only in the Feb–Mar 2026 versions (Zenodo 18823623 of 2026-03-01 and 19051940 of 2026-03-16). The September 2026 version (https://doi.org/10.5281/zenodo.22677469; concept DOI 10.5281/zenodo.18817683) reads "statistical constraint and outcome-level openness". It explicitly rejects "statistical closure" as conceding "by vocabulary that closure survived". For each page, either requote the current wording, or keep the old wording and name the dated version in the References. Copy the version note from `voids/interface-formalization-void` reference 4.
+    - The pages: this File (L98, L160); `concepts/causal-consistency-constraint` L40; `concepts/consciousness-physics-interface-formalism`; `concepts/mind-matter-interface` L76; `topics/born-rule-and-the-consciousness-interface` L193; `topics/consciousness-and-probability-interpretation` L87; `topics/self-reference-and-the-limits-of-physical-description` (2 hits); `topics/stochastic-emergence-as-quantum-interface-evidence` L73.
+    - Also check every OTHER Tonetto paraphrase on those pages (e.g. "interpretive asymmetry", "methodological prejudice") against the version you cite.
+    - PhilArchive TONWPA is behind Cloudflare; use Zenodo (`api/records/<id>` → `files[0].links.self`, then pdftotext).
+  (B) CHALMERS–McQUEEN. This File L116 ("integrated information Φ serves as the collapse operator … collapse rate is tied to the degree of information integration") and `concepts/spontaneous-collapse-theories` L91–92 ("Φ_Max serves as the collapse operator") misattribute the model. Chalmers & McQueen reject scalar Φ ("merely a physical correlate of a scalar degree of consciousness"), use IIT's Q-shape as the superposition-resistant observable, and make collapse rate depend on EMD* between Q-shapes. Φ with CSL is Okon & Sebastián (2018). Source: consc.net/papers/collapse.pdf §4–5 and fn. 9.
+  (C) PATI. `concepts/consciousness-physics-interface-formalism` L61 says Pati "argues that the Hilbert-space inner product is uniquely fixed by the no-signalling principle". Add the conditions: inner products ⟨ψ|A|φ⟩ with A > 0, local unitary dynamics, entanglement, up to scale (arXiv:2601.13012v1).
+  - Length: most hosts are near soft; corrections are near length-neutral.
+  - ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Research Two-stage quiet and active sleep in octopuses
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Medeiros et al. 2021 and Pophale et al. 2023 are 0/0/0 across live, research and archive ('active sleep' hits are human only; positive control 'octopus' 27/15/7). A cephalopod sleep-state architecture bears on comparative markers in topics/comparative-consciousness-and-interface-differences. Topics and concepts are at cap (370/370), so expect recommended_action: fold, host topics/comparative-consciousness-and-interface-differences (~526 headroom at review time; an open P3 owns its L50/L79/L89 and a LeDoux fold reserves about +54 at L141, so re-measure and anchor elsewhere). Grade any consciousness inference at the authors' own grade; sleep architecture is not a consciousness marker by itself. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/two-stage-sleep-in-octopuses-2026-11-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'two-stage-sleep-in-octopuses' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-26: Tenet sections of `voids/valence-void` ("finds particularly strong support") and `voids/compound-failure-signatures` ("gains support from two directions"), with the over-claim repeated in valence-void's lead and description; one small fix on `voids/meaning-void`
 - **Type**: refine-draft

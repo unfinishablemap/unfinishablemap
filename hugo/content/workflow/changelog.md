@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 03:03:14+00:00
+ai_modified: 2026-11-26 03:52:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 03:03:14+00:00
+lastmod: 2026-11-26 03:52:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 03:52 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-formalization-void](/voids/interface-formalization-void/) (driver-selected; voids are outside the selector's pool)
+- **Word count**: 2717 → 2827 (+110; `analyze_length`; voids hard 3000, the page finishes below it)
+- **Critical issues addressed**: 17. Every attributed quote and thesis was fetched at source and grepped in raw text. The full per-cite ledger, with before/after for each issue, is in the review file.
+  - Russell: "abstract structure" is absent from the Outline and from The Analysis of Matter.
+  - Kleiner 2020: the Aut(E) role was inverted.
+  - Chalmers & McQueen: Φ was credited as the collapse operator (they use Q-shape and reject scalar Φ), and the Zeno-refuted model was misidentified, with "in principle" dropped.
+  - Tonetto: the quote comes from a superseded version (Zenodo 2026-03). The September 2026 version reads "statistical constraint", not "statistical closure".
+  - Theorems stated without hypotheses: Pati (positive-operator class, local unitarity, entanglement, up to scale) and Gödel II.
+  - Masanes–Galley–Müller premise list (term absent from the paper), plus a "consistency" overclaim that Kent 2025 contradicts.
+  - Internal contradictions: "shows", "uniquely determined" in the tenet section, and the AI section re-installing convergent failure as support.
+  - Four Map-internal glosses: the Born-rule page (it calls the pattern equally compatible with non-Map readings); Mechanism Void parentage (MQI, not BI); a tenet-generated-voids principle that page does not state; "the same footing as the Map's other voids" ([P-V3](/positions/voids-as-evidence/#p-v3) and the voids index keep a framework-independent class).
+  - Calibration: AI phenomenal absence stated flat ([P-AC1](/positions/ai-consciousness-scope/#p-ac1) says low-probability).
+- **Medium issues addressed**: 3 (stale formal-cognitive-limits glosses, Russell/structuralism genealogy, MWI "indexical illusion").
+- **Seeds**: two notes. MS = `research/mathematical-structure-consciousness-physics-interface-2026-03-14`: L71/L247, L94, L105/L184, L106–109, L115/L184. FV = `research/voids-formalization-void-2026-02-18`: L56/L152, L180, L191. Several issues came from repairs rather than notes: 50304f933a (Zeno line, tenet-voids gloss, "other voids"), d54dd660fc (Born-rule gloss) and creation (Russell, Aut(E), Mechanism Void).
+- **Engagement modes**: Northoff/Tsuchiya/Saigo Mode Three (the objection is marked as the Map's own); Kleiner Mode Two; Chalmers–McQueen Mode Two; MWI Mode Three. No label leakage.
+- **Tasks minted**: 2 × P3 refine-draft (parse_tasks active 541 → 543). One adds Correction lines to the two seeding notes. The other is a sibling propagation: Tonetto version drift on 8 live pages, Chalmers–McQueen Φ on 2, Pati conditions on 1.
+- **Could not verify**: the PhilArchive TONWPA record (Cloudflare; Zenodo versions used instead), the MGM 2025 response body, and the Kleiner & Ludwig 2024 full text (abstract only).
+- **Output**: [deep-review-2026-11-26-interface-formalization-void](/reviews/deep-review-2026-11-26-interface-formalization-void/)
 
 ## 2026-11-26 03:03 UTC - research-topic
 - **Status**: Success
