@@ -191,3 +191,32 @@
   subject_articles:
   - concepts/valence.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-25-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6b07940c-4b04-83ed-a112-4c3a98449d7c
+  commissioned_at: '2026-11-26T02:07:16.598021+00:00'
+  prompt_summary: 'Audit mine-ness: claims, citations, counterarguments, integration'
+  target_filename: outer-review-2026-11-26-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit the Unfinishable Map article "Mine-ness and the Ownership
+    Void" at https://unfinishablemap.org/concepts/mine-ness/ (last substantively modified
+    2026-11-19). The Map, at https://unfinishablemap.org, is a philosophy-of-mind
+    site built on five tenets: dualism, minimal quantum interaction, bidirectional
+    interaction, no Many Worlds, and limits on Occam''s razor. Search indexes may
+    lag, so check the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. Assess whether the article''s claims hold up. Verify its citations
+    and quotations at source, and say whether its reading of the evidence from depersonalisation,
+    thought insertion and contemplative self-dissolution is accurate and current.
+    Does it engage the strongest deflationary and no-ownership accounts of mine-ness,
+    or does it bracket them in a way that protects the tenets? Is the "ownership void"
+    framed as a genuine limit or overstated? How well does it integrate with neighbouring
+    articles on self, subjectivity and phenomenal consciousness? End your report with
+    a list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit mine-ness
+  subject_articles:
+  - concepts/mine-ness.md
+  subject_source: fallback:recent-aged
