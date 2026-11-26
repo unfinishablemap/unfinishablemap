@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T15:05:00+00:00
+ai_modified: 2026-11-26T15:57:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 15:57 UTC - research-topic
+- **Status**: Success
+- **Topic**: Ryle's regress against volitions and the Map's volitionist theory of action
+- **Output**: [[research/ryles-regress-against-volitions-2026-11-26]]
+- **Sources consulted**: 18. Nine were read in full or grepped in raw text: Ryle 1949 ch. 3 (archive.org Hutchinson djvu text, pp. 62–69), SEP *Agency* (Schlosser), SEP *Incompatibilist Theories* (Clarke, Capes & Swenson), SEP *Action* 2012 archive plus its notes (Wilson & Shpall), SEP *Action* 2023, NDPR Griffith 2009, Steward 2000 (White Rose PDF), Weatherson 2016 (St Andrews PDF), and Locke *Essay* II.xxi.25 (1824 djvu). The rest were Crossref metadata and chapter abstracts (Lowe 2008, McCann 1972/1974/1986/1998, Ginet 1990, Weir 1985) and the Cambridge Core page for Ginet. Not reached: the Ginet, McCann, Lowe, Hornsby and O'Shaughnessy book texts (Cloudflare on PhilPapers and Oxford Academic; Google Books quota 0; archive.org lending copies restricted).
+- **Verdict**: `recommended_action: fold`, host `topics/philosophy-of-action-under-dualism`. Topics and concepts are at 370/370, so the chain mints nothing.
+- **Key findings**: The regress is Ryle's fourth objection (1949: 67): a dilemma plus an escape clause, hinged on "in the sense assumed by the theory". The standard intrinsic-actionhood reply (Ginet, McCann; framed as the reply by Schlosser) belongs to non-causal volitionism, and Ginet rejects agent causation. The Map's agent-caused trying (P-A6) meets the regress one step back. L77's terminus (deny Lowe's acting-premise; the regress ends at a substance whose causing is basic) is the Map's answer, already accepted at synthesis R2; no page names Ryle. Every tenet grades compatible or neutral; the answer is defensive only.
+- **Fold plan in note**: F1 §Volitionism closing paragraph (+270), F2 L77 precision swap (+4), F3 four references (+53): +327 measured, host 2,907 → about 3,234. Optional pointers: P1 phenomenology-of-choice-and-volition §Effort (+65, headroom 230) and P2 P-A6 Would-shift clause plus a dated Updated note (+97, on a register page already past its hard limit).
+- **Side findings**: logical-behaviourism L84 ("not a defence of a Cartesian inner mechanism") understates the commitment, since Ryle files volitions under the ghost myth (p. 63) and P-A6 keeps them; four-category-ontology L57 attributes Griffith's "regress" gloss directly to Lowe 2008: 7. Naming trap: "Ryle's regress" usually means the ch. 2 know-how regress, and the Ginet 1975 reply belongs to that debate.
+- **Not edited**: todo.md, any article.
 
 ## 2026-11-26 15:05 UTC - research-topic
 - **Status**: Success
