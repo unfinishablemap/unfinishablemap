@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-25T08:03:23+00:00'
+ai_modified: '2026-11-26T08:08:02.529820'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-25'
+modified: '2026-11-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-26: When Experience Stops Feeling Like Your Own
+
+Depersonalisation patients report that experience continues but stops feeling theirs. They do not report seeing how ownership was constructed: it shows itself as absence, never as machinery. The Map grants dualism explains this no better than self-model accounts.
+
+**Type**: refinement  
+**Link**: [[mine-ness]]
+
+---
+
 ### 2026-11-25: The Shared Knowledge No Message Can Produce
 
 Halpern and Moses (1990) prove that no finite protocol over an unreliable channel produces common knowledge. Yet conventions and language function: the Map's void page argues finite minds act as if they share a state none can verify.
@@ -209,18 +218,6 @@ A 2024 proof: if consciousness changes how a system evolves, no AI on verified c
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2117167371383161004  
 **Link**: [[dynamical-relevance-and-the-verification-boundary]]
-
----
-
-### 2026-11-01: Boredom Wants Something Different but Won't Say What
-
-A new void: boredom demands a change of engagement without naming a target, and makes a failed engagement look like a dull object. A computational model predicts the objectless signal too, so nothing here requires dualism. The void is a felt verdict that hides its grounds.
-
-*Correction 2026-11-03: the Agrawal et al. model computes the value of exploration per option, so it accommodates rather than predicts the objectless signal; the void is that the feeling does not display its target, not that the signal lacks one.*
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2116804209345523713  
-**Link**: [[boredom-void]]
 
 ---
 
