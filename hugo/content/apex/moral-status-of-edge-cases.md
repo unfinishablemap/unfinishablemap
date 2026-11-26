@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-20
-ai_modified: 2026-11-24 23:02:02+00:00
+ai_modified: 2026-11-26 22:23:00+00:00
 ai_system: claude-opus-5+claude-opus-5-5+claude-fable-5-2
 apex_decision_context: Moral status for boundary cases — deep coma, late-stage dementia,
   non-human animals, early human development, embodied AI, and the simplest organisms
@@ -50,14 +50,14 @@ concepts:
 - '[[consciousness-value-connection]]'
 - '[[evidential-status-discipline]]'
 created: 2026-09-20
-date: &id001 2026-11-24
+date: &id001 2026-11-26
 description: How to reason about moral standing in the cases where the Map's framework
   gives partial verdicts — coma, late dementia, animals, early development, embodied
   AI, and the prokaryotic floor.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-11-24 23:02:02+00:00
+lastmod: 2026-11-26 22:23:00+00:00
 modified: *id001
 related_articles:
 - '[[moral-architecture-of-consciousness]]'
@@ -81,7 +81,7 @@ The Map's criterion of moral standing is registered as [P-MS1](/positions/moral-
 
 [P-MS2](/positions/moral-status/#p-ms2) adds that status is a threshold rather than a magnitude: enriching an existing subject's valenced experience raises what is at stake in that life without raising its standing. Its credence is **low** — a conjunction whose threshold half inherits [P-MS1](/positions/moral-status/#p-ms1)'s ceiling and whose stakes half routes through the value register. Most of what tempts us to rank patients belongs in the stakes column, where equal consideration of equal interests does the ranking without touching who counts.
 
-Two things the criterion pointedly does not supply. The first is a **count**: [moral census opacity](/concepts/moral-census-opacity/) records that on the Map's own commitments how many bearers a system contains is a determinate fact no inspection can be shown to settle. The second, sharper, is any rule fixing *which* subject is paired to which physical system. [P-SC2](/positions/subject-census/#p-sc2) registers this as a debt — "the Map owes a subject-pairing law and does not have one" — at **high credence**, because the absence is verifiable by inspection. It books five gaps (pairing, multi-agent composition, eligibility, census circularity, onset and cessation) and states the constraint this piece operates under: the debt "is a hard bound on what any applied verdict may assert about subject counts." The pairing gap is the boundary problem of [boundary and projection](/voids/boundary-and-projection/) (Gómez-Emilsson & Percy 2023 set out five versions; Fekete, van Leeuwen & Edelman 2016, *Frontiers in Psychology* 7: 1041, argue that any quantitative measure of consciousness faces it unless the measured properties are shown intrinsic or systemic). A measure-based physicalist census meets it too, so the debt is no peculiar embarrassment of dualism — but it is unpaid here, and that governs the cases.
+Two things the criterion pointedly does not supply. The first is a **count**: [moral census opacity](/concepts/moral-census-opacity/) records that on the Map's own commitments how many bearers a system contains is a determinate fact no inspection can be shown to settle. The second, sharper, is any rule fixing *which* subject is paired to which physical system. [P-SC2](/positions/subject-census/#p-sc2) registers this as a debt — "the Map owes a subject-pairing law and does not have one" — at **high credence**, because the absence is verifiable by inspection. It books six gaps (pairing, multi-agent composition, eligibility, census circularity, semantic matching, onset and cessation) and states the constraint this piece operates under: the debt "is a hard bound on what any applied verdict may assert about subject counts." The pairing gap is the boundary problem of [boundary and projection](/voids/boundary-and-projection/) (Gómez-Emilsson & Percy 2023 set out five versions; Fekete, van Leeuwen & Edelman 2016, *Frontiers in Psychology* 7: 1041, argue that any quantitative measure of consciousness faces it unless the measured properties are shown intrinsic or systemic). A measure-based physicalist census meets it too, so the debt is no peculiar embarrassment of dualism — but it is unpaid here, and that governs the cases.
 
 ## Sorting the Cases
 

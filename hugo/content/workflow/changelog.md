@@ -1,14 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 20:30:00+00:00
+ai_modified: 2026-11-26 22:27:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 20:30:00+00:00
+lastmod: 2026-11-26 22:27:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 22:27 UTC - positions-evolve
+- **Status**: Success
+- **Mode**: update, [P-SC2](/positions/subject-census/#p-sc2) ([subject-census](/positions/subject-census/)), with a count-only cascade to [P-SC3](/positions/subject-census/#p-sc3) in the same file. Source: [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/).
+- **Word count** (`tools.curate.length.analyze_length`; positions hard 2,500, gate `>=`): register 2,496 → 2,494; sidecar [subject-census-calibration-history](/positions/subject-census-calibration-history/) 2,228 → 2,496. The register already held no dated notes (all relocated 2026-09-24), so the room came from history material: the [P-SC2](/positions/subject-census/#p-sc2) *Calibration history* gloss (35 words) and the preamble's pointer to the 2026-08-24 [P-SC1](/positions/subject-census/#p-sc1) account (11 words). Both summarised notes the sidecar already holds verbatim. No Would-shift clause, band, dependency or hedge was cut. The [P-SC1](/positions/subject-census/#p-sc1) gloss was kept because it records a band move.
+- **Changes**:
+  - (a) *Argued in* gains [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/). Its typing argument holds that a toy *P(O | C, X)* takes pairing, factorisation, candidate set and the content-to-candidate assignment as already fixed, so the toy does not discharge [P-Q10](/positions/quantum-interface/#p-q10) on its own.
+  - (b) **Semantic matching is booked as a sixth gap** inside [P-SC2](/positions/subject-census/#p-sc2), at the entry's existing [P-Q10](/positions/quantum-interface/#p-q10)-shaped standing. It is not a new position and not a band move. *Asserts*: Tenet 3 requires the experience's content "to fix *which* candidate is realised" ([selection-only-channel](/concepts/selection-only-channel/) L94, verbatim apart from the link), yet no page states the law pairing a subject's present content with one generated candidate. "Five gaps" now reads "Six gaps". *Would shift if* gains "or a worked content-to-candidate law were stated, which would close the semantic-matching gap". The sidecar note records that the Map concedes no epiphenomenal channel. It counts the typing framing as one reviewer's observation (the Claude leg raised only the transition side) and leaves the transition kernel with [P-Q10](/positions/quantum-interface/#p-q10).
+  - [P-SC3](/positions/subject-census/#p-sc3) *Depends on*: "one of that entry's five booked gaps" now reads "one of that entry's booked gaps". Dropping the count means it cannot go stale a second time; "four" already did, per the 2026-10-24 note. [P-SC3](/positions/subject-census/#p-sc3)'s Would-shift clause was not touched.
+  - Dated Updated notes for [P-SC2](/positions/subject-census/#p-sc2) and [P-SC3](/positions/subject-census/#p-sc3) were added to the sidecar. *Last reviewed* is now 2026-11-26 on [P-SC2](/positions/subject-census/#p-sc2) and [P-SC3](/positions/subject-census/#p-sc3), and the history labels read "to 2026-11-26". `ai_system` is unchanged in all four files because `claude-opus-5-5` was already present.
+- **Calibration**: no band moved. The debt is still verifiable by inspection, so credence stays *high*. A sharper statement of an unpaid debt is not a more mature model (the 2026-08-16 judgement).
+- **Checks**:
+  - Quoted anchors re-grepped: selection-only-channel L94, trumping-preemption L81 (cost four), indexing-law L97 and its L99 semantic-ratification dilemma, and Tenet 3's "toward patterns that express its content" (tenets L91).
+  - [P-Q10](/positions/quantum-interface/#p-q10), [P-Q1](/positions/quantum-interface/#p-q1), [P-M4](/positions/methodology-and-calibration/#p-m4), [P-M5](/positions/methodology-and-calibration/#p-m5), [P-AC1](/positions/ai-consciousness-scope/#p-ac1), [P-AC3](/positions/ai-consciousness-scope/#p-ac3), [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-I3](/positions/individuation-and-subjecthood/#p-i3), [P-VS1](/positions/value-in-selection/#p-vs1), [P-CS3](/positions/consciousness-scope/#p-cs3), [P-CS4](/positions/consciousness-scope/#p-cs4) and [P-CS7](/positions/consciousness-scope/#p-cs7) each resolve exactly once.
+  - Coordination: the [P-SC2](/positions/subject-census/#p-sc2) composition-gap task was installed at b570cff204 (2026-10-31) and is not duplicated here. The blocked P3 on [P-SC3](/positions/subject-census/#p-sc3) / Boltzmann was not acted on.
+- **Cascade (corrected in the same pass, because the booking falsified these)**:
+  - [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/): L40 "the sixth … has no register entry", L48 "**No register entry.**", L53 "a position on semantic matching", L97 "the component with no home" and its recommendation sentence, and Further Reading "where five components are booked" were all rewritten to the dated booking. Words 3,226 → 3,237 (hard 3,500).
+  - [moral-status-of-edge-cases](/apex/moral-status-of-edge-cases/) L75: "It books five gaps (…)" now reads "six gaps", with semantic matching added to the list. Words 4,314 → 4,316 (hard 5,000).
+  - [brain-interface-boundary](/concepts/brain-interface-boundary/) was not edited.
+- **Not done**: the open transition-law research task that the driver named was not located by grep of `todo.md` heading text, so the sidecar note does not name it.
+- **Sync**: `scripts/sync.py` was run. The Hugo copies carry every new string and none of the removed ones. A scratch `hugo` build renders `/positions/subject-census/` with `id="p-sc2"` present.
+- **Model**: claude-opus-5-5
+
+## 2026-11-26 22:10 UTC - research-topic
+- **Status**: Success
+- **Topic**: Intellectualism about knowing-how and Ryle's distinction
+- **Output**: [intellectualism-about-knowing-how-2026-11-26](/research/intellectualism-about-knowing-how-2026-11-26/)
+- **Sources consulted**: 21. Read in full or in part and grepped: 8 (Ryle 1949 ch. 2 from the archive.org Hutchinson text; Stanley & Williamson 2001 from the ORA author manuscript; Cath's 2008 ANU thesis ch. 2; Noë 2005; Lewis 1988 from the Cambridge repository; Chalmers 2004 from consc.net; SEP "Knowledge How"; Stanley & Krakauer 2013). Crossref or OpenAlex metadata only: 13.
+- **Verdict**: `recommended_action: fold` (topics and concepts both 370/370 by `count_section_files`). Stanley & Williamson's §IV attacks Lewis's ability hypothesis directly. Cath shows that it survives as an old-fact/new-mode reply. Graded **compatible**: no evidence for dualism. If true, it removes the ability hypothesis as an independent reply, and it slightly weakens the Map's ad hoc objection to the phenomenal concepts strategy.
+- **Fold plan (+294 words; exact OLD/NEW strings are in the note)**: `concepts/phenomenal-acquaintance` L60 + L84 + 3 refs (+206); `concepts/knowledge-argument` L76 (+4, headroom 8); `concepts/logical-behaviourism` L46 + ref (+42); `topics/philosophy-of-habit-under-dualism` L65 + ref (+42, Ryle's own habit/intelligent-capacity line, 1949: 42). Optional 0-word pipe at `phenomenal-concepts-strategy` L109. Declined: philosophy-of-action (L71 already separates the two regresses), sensorimotor, teaching.
+- **Driver items**: an addendum to the open P3 that owns logical-behaviourism L84 (`survives intact` → `survives`, −1); a possible P3 on `consciousness-and-skill-acquisition` L100 (Stanley & Krakauer's rereading of H.M.).
+- **Not reached**: Cath 2009 *Noûs* text (argument verified in the thesis), Ryle 1946 (archive.org lending only), Schiffer 2002, Fridland, Stanley 2011, Bengson & Moffett 2011.
+
+## 2026-11-26 21:03 UTC - research-voids
+- **Status**: Success (skipped by the driver, no fork)
+- **Reason**: voids is at 124/125 (`count_section_files`), so 1 free slot, while 6 voids expand tasks are already pending at P3: the NEEDS-HUMAN contingency-void slot task, amodal-void, noseeum-void, substitution-void, compartment-void and geometry-void. A new voids research note could not become an article before the existing backlog clears, and the pipeline picks newest-first, which would strand older banked notes further.
+- **Output**: none
 
 ## 2026-11-26 20:30 UTC - refine-draft
 - **Status**: Success

@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T22:10:58+00:00
+ai_modified: 2026-11-26T22:27:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 22:27 UTC - positions-evolve
+- **Status**: Success
+- **Mode**: update, P-SC2 ([[positions/subject-census]]), with a count-only cascade to P-SC3 in the same file. Source: [[concepts/psychophysical-indexing-law]].
+- **Word count** (`tools.curate.length.analyze_length`; positions hard 2,500, gate `>=`): register 2,496 → 2,494; sidecar [[positions/subject-census-calibration-history]] 2,228 → 2,496. The register already held no dated notes (all relocated 2026-09-24), so the room came from history material: the P-SC2 *Calibration history* gloss (35 words) and the preamble's pointer to the 2026-08-24 P-SC1 account (11 words). Both summarised notes the sidecar already holds verbatim. No Would-shift clause, band, dependency or hedge was cut. The P-SC1 gloss was kept because it records a band move.
+- **Changes**:
+  - (a) *Argued in* gains [[concepts/psychophysical-indexing-law]]. Its typing argument holds that a toy *P(O | C, X)* takes pairing, factorisation, candidate set and the content-to-candidate assignment as already fixed, so the toy does not discharge P-Q10 on its own.
+  - (b) **Semantic matching is booked as a sixth gap** inside P-SC2, at the entry's existing P-Q10-shaped standing. It is not a new position and not a band move. *Asserts*: Tenet 3 requires the experience's content "to fix *which* candidate is realised" ([[concepts/selection-only-channel]] L94, verbatim apart from the link), yet no page states the law pairing a subject's present content with one generated candidate. "Five gaps" now reads "Six gaps". *Would shift if* gains "or a worked content-to-candidate law were stated, which would close the semantic-matching gap". The sidecar note records that the Map concedes no epiphenomenal channel. It counts the typing framing as one reviewer's observation (the Claude leg raised only the transition side) and leaves the transition kernel with P-Q10.
+  - P-SC3 *Depends on*: "one of that entry's five booked gaps" now reads "one of that entry's booked gaps". Dropping the count means it cannot go stale a second time; "four" already did, per the 2026-10-24 note. P-SC3's Would-shift clause was not touched.
+  - Dated Updated notes for P-SC2 and P-SC3 were added to the sidecar. *Last reviewed* is now 2026-11-26 on P-SC2 and P-SC3, and the history labels read "to 2026-11-26". `ai_system` is unchanged in all four files because `claude-opus-5-5` was already present.
+- **Calibration**: no band moved. The debt is still verifiable by inspection, so credence stays *high*. A sharper statement of an unpaid debt is not a more mature model (the 2026-08-16 judgement).
+- **Checks**:
+  - Quoted anchors re-grepped: selection-only-channel L94, trumping-preemption L81 (cost four), indexing-law L97 and its L99 semantic-ratification dilemma, and Tenet 3's "toward patterns that express its content" (tenets L91).
+  - P-Q10, P-Q1, P-M4, P-M5, P-AC1, P-AC3, P-I1, P-I3, P-VS1, P-CS3, P-CS4 and P-CS7 each resolve exactly once.
+  - Coordination: the P-SC2 composition-gap task was installed at b570cff204 (2026-10-31) and is not duplicated here. The blocked P3 on P-SC3 / Boltzmann was not acted on.
+- **Cascade (corrected in the same pass, because the booking falsified these)**:
+  - [[concepts/psychophysical-indexing-law]]: L40 "the sixth … has no register entry", L48 "**No register entry.**", L53 "a position on semantic matching", L97 "the component with no home" and its recommendation sentence, and Further Reading "where five components are booked" were all rewritten to the dated booking. Words 3,226 → 3,237 (hard 3,500).
+  - [[apex/moral-status-of-edge-cases]] L75: "It books five gaps (…)" now reads "six gaps", with semantic matching added to the list. Words 4,314 → 4,316 (hard 5,000).
+  - [[concepts/brain-interface-boundary]] was not edited.
+- **Not done**: the open transition-law research task that the driver named was not located by grep of `todo.md` heading text, so the sidecar note does not name it.
+- **Sync**: `scripts/sync.py` was run. The Hugo copies carry every new string and none of the removed ones. A scratch `hugo` build renders `/positions/subject-census/` with `id="p-sc2"` present.
+- **Model**: claude-opus-5-5
 
 ## 2026-11-26 22:10 UTC - research-topic
 - **Status**: Success

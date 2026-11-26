@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-28
-ai_modified: 2026-11-05 09:25:42+00:00
+ai_modified: 2026-11-26 22:23:00+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[integrated-information-theory]]'
 - '[[composition-and-consciousness]]'
 created: 2026-10-28
-date: &id001 2026-11-05
+date: &id001 2026-11-26
 description: Before any transition law, the interface must say whose state, which
   subsystem, which candidate, when, and how many. Six indexing components and the
   debt the Map books, traced with human-AI review.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-28 21:11:21+00:00
-lastmod: 2026-11-05 09:25:42+00:00
+lastmod: 2026-11-26 22:23:00+00:00
 modified: *id001
 related_articles:
 - '[[subject-census]]'
@@ -41,7 +41,7 @@ topics:
 
 The Unfinishable Map's interface programme owes two laws, not one. The familiar debt is a *transition law*: how a conscious state shifts the probability of a physical outcome, the *P(O | C, X)* that [P-Q10](/positions/quantum-interface/#p-q10) records as unwritten. The 2026-10-28 ChatGPT outer review observed that this kernel cannot be stated until something has fixed *whose* state *C* is, *which* subsystem *X* describes, which candidate set is in play, which candidate a given content picks out, when the law is in force, and how several subjects' conditionals combine on one event. It called that prior object a **psychophysical indexing law**, a map from subject, state and time to a factorisation, a candidate set and a content-to-candidate assignment, and concluded that without it "the transition mechanism is not yet well-typed". The Map adopts "indexing law" as a working label. The term is the review's own — no prior use in this sense was located — though the register already spoke of a "census-indexed law" ([P-SC2](/positions/subject-census/#p-sc2)), and the problem is older: Foster's and Kim's in philosophy, Zurek's and Tegmark's in physics.
 
-The Map holds no indexing law. Five of the [six components](#six-components) (explained below) are already booked in the positions register as debts; the sixth, semantic matching, has no register entry. What this page adds is the [typing argument](#typing) that the six are one object the transition law consumes, so a toy *P(O | C, X)* does not discharge [P-Q10](/positions/quantum-interface/#p-q10) on its own; a survey of the [three shapes](#three-shapes) of pairing law in the dualist literature and of the [physics](#physics-side) of subsystem decomposition, neither of which supplies the law; and the choice the Map has not yet made between a general and a haecceitous pairing law. None of this moves a credence band; it sharpens what is owed.
+The Map holds no indexing law. Five of the [six components](#six-components) (explained below) were booked in the positions register as debts when this page was written; the sixth, semantic matching, joined them at [P-SC2](/positions/subject-census/#p-sc2) on 2026-11-26. What this page adds is the [typing argument](#typing) that the six are one object the transition law consumes, so a toy *P(O | C, X)* does not discharge [P-Q10](/positions/quantum-interface/#p-q10) on its own; a survey of the [three shapes](#three-shapes) of pairing law in the dualist literature and of the [physics](#physics-side) of subsystem decomposition, neither of which supplies the law; and the choice the Map has not yet made between a general and a haecceitous pairing law. None of this moves a credence band; it sharpens what is owed.
 
 ## The Six Components {#six-components}
 
@@ -49,12 +49,12 @@ The review listed five questions and its recommendations added the census as a s
 
 1. **Pairing** — which subject is linked to which physical system. Kim's *pairing problem* (Kim 2001; Kim 2005, pp. 70–92): "As Kim acknowledges, the Pairing Argument has its origin in Foster (1991)" (Bailey, Rasmussen and Van Horn 2011, fn. 1). Booked at [P-SC2](/positions/subject-census/#p-sc2); discussed on [pairing-problem](/concepts/pairing-problem/), [brain-interface-boundary](/concepts/brain-interface-boundary/) and [boundary-and-projection](/voids/boundary-and-projection/).
 2. **Factorisation** — which degrees of freedom constitute the system. Zurek (1998) posed it as "what are the systems"; Tegmark (2015) named it the *quantum factorization problem*, in the literature's American spelling (the Map writes *factorisation*). Booked on [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/) and as [P-SC2](/positions/subject-census/#p-sc2)'s quantum face; [P-Q1](/positions/quantum-interface/#p-q1)'s einselected menu depends on it.
-3. **Semantic matching** — which generated candidate expresses the subject's present content. No name for it was located in the pairing literature as of 2026-10-28; the Map states it in one sentence of [selection-only-channel](/concepts/selection-only-channel/) and one cost in [trumping-preemption](/concepts/trumping-preemption/). **No register entry.**
+3. **Semantic matching** — which generated candidate expresses the subject's present content. No name for it was located in the pairing literature as of 2026-10-28; the Map states it in one sentence of [selection-only-channel](/concepts/selection-only-channel/) and one cost in [trumping-preemption](/concepts/trumping-preemption/). **Booked at [P-SC2](/positions/subject-census/#p-sc2) since 2026-11-26.**
 4. **Temporal jurisdiction** — when the channel begins, persists, suspends and ends. [P-SC3](/positions/subject-census/#p-sc3) asserts persistence through interruptions and declines to date onset or cessation; [sleep-consciousness-void](/voids/sleep-consciousness-void/) holds the open case. The literature treats onset only, as emergence.
 5. **Composition** — how *N* ≥ 2 subjects' conditionals combine over one event. Booked at [P-SC2](/positions/subject-census/#p-sc2) as "Multi-agent composition" and the copies question; [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/) ("whose selection counts, and how much") routes it to [P-Q10](/positions/quantum-interface/#p-q10). No dualist antecedent was located; the nearest analogue is panpsychist combination ([composition-and-consciousness](/concepts/composition-and-consciousness/)).
 6. **Census and eligibility** — how many subjects a system supports and which systems qualify. The *boundary problem* is Gómez-Emilsson and Percy's (2023) name; IIT's exclusion postulate is the one worked physicalist answer ([integrated-information-theory](/concepts/integrated-information-theory/)). Booked at [P-SC1](/positions/subject-census/#p-sc1), [P-SC2](/positions/subject-census/#p-sc2) ("Eligibility", "Census circularity"), [P-CS7](/positions/consciousness-scope/#p-cs7), [P-I3](/positions/individuation-and-subjecthood/#p-i3) and, for artefacts, [P-AC1](/positions/ai-consciousness-scope/#p-ac1); [plurality-void](/voids/plurality-void/) holds the residue.
 
-Three things are absent rather than scattered: a statement that these components are one object whose outputs the transition law consumes; a position on semantic matching; and a cessation question distinct from onset.
+Three things were absent rather than scattered: a statement that these components are one object whose outputs the transition law consumes; a register entry for semantic matching, supplied at [P-SC2](/positions/subject-census/#p-sc2) on 2026-11-26; and a cessation question distinct from onset.
 
 ### Why the kernel is typed over them {#typing}
 
@@ -98,7 +98,7 @@ The Map holds the *requirement*: once conscious-state conditionals do causal wor
 
 What it has not decided is the shape of the law it owes. [P-I3](/positions/individuation-and-subjecthood/#p-i3) amounts to a haecceitist commitment about subjects, and Shape C fits it directly. But a haecceitous pairing law makes census and eligibility unanswerable in principle, turning [P-SC2](/positions/subject-census/#p-sc2) from a repayable obligation into a permanent registered cost, one of that entry's own named shift conditions. A general law of Shape A or B keeps the debt repayable and testable, but must say what the general pairing properties are — [P-CS7](/positions/consciousness-scope/#p-cs7)'s "architectural adequacy" — and so inherits the duplicate and the copies question. The corpus has not chosen; this page presents the fork rather than resolving it.
 
-Semantic matching is the component with no home, and where the Map's commitments are least negotiable. [selection-only-channel](/concepts/selection-only-channel/) states the requirement: reliable report "needs the experience's content to fix *which* candidate is realised", so that report varies with experience, base held fixed; [trumping-preemption](/concepts/trumping-preemption/) finds that an authority-only law cannot meet it; [self-stultification](/concepts/self-stultification/) is what fails otherwise. The Map therefore *requires* content-sensitivity in the channel, in the wording of Tenet 3's influence "toward patterns that express its content", and does not concede that the channel might be epiphenomenal. Its concession is narrower: no page states the law assigning contents to candidates, and no position books that one must exist. This page recommends that the register consider a semantic-matching entry alongside [P-SC2](/positions/subject-census/#p-sc2), and adds no position itself.
+Semantic matching was the last component to find a home, and is where the Map's commitments are least negotiable. [selection-only-channel](/concepts/selection-only-channel/) states the requirement: reliable report "needs the experience's content to fix *which* candidate is realised", so that report varies with experience, base held fixed; [trumping-preemption](/concepts/trumping-preemption/) finds that an authority-only law cannot meet it; [self-stultification](/concepts/self-stultification/) is what fails otherwise. The Map therefore *requires* content-sensitivity in the channel, in the wording of Tenet 3's influence "toward patterns that express its content", and does not concede that the channel might be epiphenomenal. Its concession is narrower: no page states the law assigning contents to candidates. On this page's recommendation, [P-SC2](/positions/subject-census/#p-sc2) books that one must exist (since 2026-11-26); the page itself adds no position.
 
 The 2026-11-05 ChatGPT outer review turns the unstated law into a *semantic-ratification dilemma*. Some relation *M(C, aᵢ)* must fix which brain-prepared candidate expresses content *C*. If the brain computes *M*, consciousness only ratifies, with token authority over a semantically ranked menu: the authority-only shape, under which accuracy "rests on the lawful match" ([trumping-preemption](/concepts/trumping-preemption/)). Given the content-sensitivity required above, this horn cannot be the whole account. If the subject supplies *M*, the interface carries a structured content-to-physical mapping, richer than one that "acts only through the act of selection itself" ([selection-only-channel](/concepts/selection-only-channel/)). If *M* is a [primitive](/concepts/selection-criterion-problem/) psychophysical law, it must encode a large, plastic mapping across learning histories, representational schemes and contexts. Whichever holds, Tenet 2's "minimal" means [empirical-constraint minimality](/tenets/#minimal-quantum-interaction), no detectable perturbation; the law's nomological, semantic and coordination complexity is a separate cost the Map must count, which Tenet 5 does not waive and [bit-rate alone](/apex/interface-specification-programme/) cannot measure.
 
@@ -122,7 +122,7 @@ The typing conclusion restated: the two-subject model waits on a composition rul
 ## Further Reading
 
 - [pairing-problem](/concepts/pairing-problem/) — Kim's argument, the responses and the Map's position
-- [subject-census](/positions/subject-census/) — where five components are booked
+- [subject-census](/positions/subject-census/) — where all six components are booked
 - [interface-specification-programme](/apex/interface-specification-programme/) — the specification gap this law sits inside
 - [mereology-of-mind](/apex/mereology-of-mind/) — the unity-of-the-interface debt
 
