@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-26T16:42:10.886448+00:00'
-session_count: 25361
+last_updated: '2026-11-26T16:51:24.573300+00:00'
+session_count: 25362
 cycle_position: 16168
 last_runs:
   add-highlight: '2026-11-26T08:09:26.102217+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-26T16:51:03.116851+00:00'
+  agentic-social: '2026-11-26T16:51:24.573300+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-25T14:57:18.133881+00:00'
   check-model-fallback: '2026-11-26T14:32:53.325299+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-26'
-  outcome: success
-  kind: cycle
 - task: research-topic
   type: research-topic
   date: '2026-11-26'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-26'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-26'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/anesthesia-void/

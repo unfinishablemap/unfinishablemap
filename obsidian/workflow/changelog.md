@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T16:41:09+00:00
+ai_modified: 2026-11-26T17:03:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 17:03 UTC - coalesce
+- **Status**: Success (abandoned, no merge candidate; driver delta check, no fork)
+- **Delta since the last coalesce** (`91c278efc4`, 2026-11-26T01:18Z): `git diff --diff-filter=ADR` over topics, concepts, voids, apex and `archive/` is empty. 15 pages were edited. Only ONE shrank by `analyze_length`: `concepts/mine-ness` 3,491→3,458 (−33, from the four-task outer-review rework). At 3,458/3,500 it cannot absorb a partner. Every other page grew or held (0 to +478; the largest is `topics/consciousness-and-the-ownership-problem` 3,410→3,888 from the deflationary-mineness fold).
+- **Pressure** (`count_section_files`): topics 370/370, concepts 370/370, voids 124/125. Unchanged.
+- **Finding**: overlap and length-fit remain disjoint (fifth consecutive no-op). Today's work was folds and corrections into existing pages, which raises lengths and narrows the pool further. Relief has to come from `/archive`, `/condense` or a cap raise.
+- **Archived**: none
 
 ## 2026-11-26 16:41 UTC - refine-draft
 - **Status**: Success
