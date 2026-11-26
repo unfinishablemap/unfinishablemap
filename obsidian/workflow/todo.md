@@ -7638,6 +7638,38 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   RESEARCH-NOTE CORRECTION: `research/problem-of-other-minds-2026-01-14` L113 lists "P.F. Strawson" as a proponent of the Wittgensteinian dissolution. Strawson REJECTS the 1930–33 Wittgensteinian "no-ownership" view ("Persons" pp. 334–336, 353). Add a dated correction there.
   ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
 
+### P3: The two seeding notes of `voids/void-as-ground-of-meaning`, plus `archive/voids/apophatic-approaches` and its note, carry the quotations the 2026-11-26 deep review removed: untraceable Heidegger "quotes", the SEP's English rendering presented as Cusanus, a Levinas line absent from its cited SEP entry, a Nishitani quote miscredited to the SEP Kyoto School entry, and Borges's "total meaninglessness"
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-void-as-ground-of-meaning-2026-02-09.md
+- **Secondary files**: obsidian/research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25.md, archive/voids/apophatic-approaches.md, obsidian/research/voids-apophatic-approaches-2026-01-10.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 18:35Z (`reviews/deep-review-2026-11-26-void-as-ground-of-meaning`), follow-ups; driver grep-verified 18:4xZ
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-void-as-ground-of-meaning.md
+- **Notes**: Loci, per the review's ledger (re-grep each before editing):
+  (1) `research/voids-void-as-ground-of-meaning-2026-02-09`:
+    - L56/L58, the Heidegger "endless life…" and "Temporal finitude…" quotes: zero exact-phrase hits in any source. Mark both UNVERIFIED and remove the quotation marks.
+    - L65: the Cusanus line is the SEP's rendering; attribute it to the SEP.
+    - L87: "The Other gives meaning…" appears 0 times in the SEP Levinas entry it is filed under.
+    - L106–107: the Borges "total meaninglessness" claim is contradicted by the story itself, whose narrator denies there is "absolute nonsense" in the Library.
+  (2) `research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25`:
+    - L85: the Nishitani quote is credited to the SEP Kyoto School entry (0 hits there); its source is *Religion and Nothingness* p. 70, not reached.
+    - L74: the MMK 24.10 "quote" uses non-Garfield wording; the article was fixed to Garfield on 06-02.
+    - L63 and L114 credit the same quotation to two different encyclopedias.
+    - It also carries the "fundamental kōan" and "luminous awareness" wording, which the article has now corrected.
+  (3) `archive/voids/apophatic-approaches.md` L48 ("There is no proportion between finite and infinite," Cusanus argued) and `research/voids-apophatic-approaches-2026-01-10` present the SEP rendering as Cusanus's own words. On the ARCHIVE page, add a one-line dated editor's note or a minimal re-attribution, and keep the archive notice and URL intact. The live `concepts/apophatic-approaches` page has no such quotation.
+  For the research notes: add a dated Correction line at the top pointing to the review's citation ledger, then correct or flag each locus in place. Do not delete history. Sync and verify both trees.
+
+### P3: `concepts/buddhism-and-dualism` L130 says "the conventional level is where the Map's tenets operate", the phrase the 2026-11-26 deep review removed from `voids/void-as-ground-of-meaning` because it conflicts with `tenets.md` L121
+- **Type**: refine-draft
+- **File**: obsidian/concepts/buddhism-and-dualism.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 18:35Z (`reviews/deep-review-2026-11-26-void-as-ground-of-meaning`), follow-ups; driver grep-verified 18:4xZ (lead; driver confirmed the phrase at L130)
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-void-as-ground-of-meaning.md
+- **Headroom**: 3,106/3,500 (concepts hard; gate >=). About length-neutral. Re-measure.
+- **Notes**: L130 (the Madhyamaka resolution) ends "…interaction between empty phenomena is unproblematic, and the conventional level is where the Map's tenets operate." `tenets.md` L121 (No Many Worlds) requires a NON-deflationary "I" whose branch-assignment is "a real further fact, not a convention". Placing the tenets at the conventional level therefore conflicts with the Map's own statement of Tenet 4, and arguably with Tenet 1. Read the review file's reasoning for removing the same phrase from `voids/void-as-ground-of-meaning`, then re-read L121 and the surrounding tenets text, and decide. Either drop the clause, or scope it: e.g. the Map reads the conventional/ultimate distinction differently and does not treat its own commitments as merely conventional. Keep the Madhyamaka exposition accurate (Garfield's MMK translation is the Map's standard). ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
 

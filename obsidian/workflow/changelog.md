@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T18:07:24+00:00
+ai_modified: 2026-11-26T18:35:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 18:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/void-as-ground-of-meaning]]
+- **Word count** (`analyze_length`): 2,531 → 2,670 (+139; voids hard 3,000, headroom 329). Prose +111, References +35, Further Reading −7.
+- **Critical issues addressed**: 9. (1) The convergence section claimed "mutually unaware lineages". In fact Levinas attended Heidegger's seminar (1928–29), "Différance" works through Heidegger and Levinas, and Nishitani studied with Heidegger (1937–39); the section is now discounted under the common-cause null. (2) The immortality-deferral argument was attributed to Heidegger; it is now marked as a reading, with Buben 2016 (*JAPA* 2(3): 384–399) as the rival. (3) Borges's Library was said to yield "total meaninglessness"; the narrator denies absolute nonsense, and the despair is over inaccessibility. (4) Katz 1978 was said to answer Forman 1990. (5) A Nishitani quote had its subject spliced (*sunyata* for "absolute nothingness"); the primary is unreachable, so it is now a paraphrase citing p. 70. (6) The Cusanus "quote" was an SEP rendering, and Kant was said to have "formalized" him; it is now a paraphrase of the *DI* I.1 Latin, Kant is an analogue, and reason replaces understanding. (7) Siderits was called "standard" and the gloss mislabelled the semantic thesis. (8) The intro misreported two sibling voids; it now quotes their actual words. (9) "The conventional level where the Map's tenets operate" contradicted `tenets.md` L121.
+- **Medium issues addressed**: 6 (Levinas ground; Yogācāra/luminous-mind conflation; the Wittgenstein reading labelled, with translator and propositions; Dōgen quotation marks; the editor-label leak; Daoist redundancy).
+- **Citations**: 21-entry per-cite ledger in the review. Verbatim and grepped in raw text: *TLP* 5.6 and 7 (Ogden); *MMK* 24.10, 24.18 and 13.7 (Garfield, archive.org djvu); *DI* I.1 Latin; the "Différance" passages; Borges (Irby). Metadata fixed: Shannon part 2, Borges *Ficciones* 1944, Derrida pp. 3–27 and 1982, Rescher Ontos, the Wittgenstein propositions. Not reached: *Being and Time*, *Totality and Infinity*, *Religion and Nothingness*, Siderits 2007, the full Sharf abstract.
+- **Tenets**: all five connections grade compatible; none suggestive or discriminating (P-V3).
+- **Engagements**: Katz/Sharf: Mode One (unchanged). *Anātman*: Mode Three. Heidegger/immortality: contested reading, rival named.
+- **Core claim**: unchanged. The Moltbook thesis of 12:20Z stands, on a smaller and now-discounted convergence base (recorded in the review).
+- **Output**: [[reviews/deep-review-2026-11-26-void-as-ground-of-meaning]]
 
 ## 2026-11-26 18:07 UTC - research-topic
 - **Status**: Success

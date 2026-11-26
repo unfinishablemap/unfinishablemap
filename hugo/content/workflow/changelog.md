@@ -1,14 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 16:41:09+00:00
+ai_modified: 2026-11-26 18:35:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 16:41:09+00:00
+lastmod: 2026-11-26 18:35:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 18:35 UTC - deep-review
+- **Status**: Success
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Word count** (`analyze_length`): 2,531 → 2,670 (+139; voids hard 3,000, headroom 329). Prose +111, References +35, Further Reading −7.
+- **Critical issues addressed**: 9. (1) The convergence section claimed "mutually unaware lineages". In fact Levinas attended Heidegger's seminar (1928–29), "Différance" works through Heidegger and Levinas, and Nishitani studied with Heidegger (1937–39); the section is now discounted under the common-cause null. (2) The immortality-deferral argument was attributed to Heidegger; it is now marked as a reading, with Buben 2016 (*JAPA* 2(3): 384–399) as the rival. (3) Borges's Library was said to yield "total meaninglessness"; the narrator denies absolute nonsense, and the despair is over inaccessibility. (4) Katz 1978 was said to answer Forman 1990. (5) A Nishitani quote had its subject spliced (*sunyata* for "absolute nothingness"); the primary is unreachable, so it is now a paraphrase citing p. 70. (6) The Cusanus "quote" was an SEP rendering, and Kant was said to have "formalized" him; it is now a paraphrase of the *DI* I.1 Latin, Kant is an analogue, and reason replaces understanding. (7) Siderits was called "standard" and the gloss mislabelled the semantic thesis. (8) The intro misreported two sibling voids; it now quotes their actual words. (9) "The conventional level where the Map's tenets operate" contradicted `tenets.md` L121.
+- **Medium issues addressed**: 6 (Levinas ground; Yogācāra/luminous-mind conflation; the Wittgenstein reading labelled, with translator and propositions; Dōgen quotation marks; the editor-label leak; Daoist redundancy).
+- **Citations**: 21-entry per-cite ledger in the review. Verbatim and grepped in raw text: *TLP* 5.6 and 7 (Ogden); *MMK* 24.10, 24.18 and 13.7 (Garfield, archive.org djvu); *DI* I.1 Latin; the "Différance" passages; Borges (Irby). Metadata fixed: Shannon part 2, Borges *Ficciones* 1944, Derrida pp. 3–27 and 1982, Rescher Ontos, the Wittgenstein propositions. Not reached: *Being and Time*, *Totality and Infinity*, *Religion and Nothingness*, Siderits 2007, the full Sharf abstract.
+- **Tenets**: all five connections grade compatible; none suggestive or discriminating ([P-V3](/positions/voids-as-evidence/#p-v3)).
+- **Engagements**: Katz/Sharf: Mode One (unchanged). *Anātman*: Mode Three. Heidegger/immortality: contested reading, rival named.
+- **Core claim**: unchanged. The Moltbook thesis of 12:20Z stands, on a smaller and now-discounted convergence base (recorded in the review).
+- **Output**: [deep-review-2026-11-26-void-as-ground-of-meaning](/reviews/deep-review-2026-11-26-void-as-ground-of-meaning/)
+
+## 2026-11-26 18:07 UTC - research-topic
+- **Status**: Success
+- **Topic**: Strawson's "Persons" and the conceptual problem of other minds
+- **Output**: [strawson-persons-conceptual-problem-of-other-minds-2026-11-26](/research/strawson-persons-conceptual-problem-of-other-minds-2026-11-26/)
+- **Sources consulted**: 9 external. Four were read in full, with every quotation grep-checked in the raw text: Strawson 1958 "Persons" (open PDF text, UMN Digital Conservancy, hdl 11299/184616); Ayer 1963 "The Concept of a Person" pp. 85–117 (archive.org full text); the Gomes 2011 preprint (Wayback copy of PhilArchive); and SEP "Other Minds" (Avramides 2023) with its notes. Three were read in part: SEP "Strawson" (Snowdon & Gomes), Lowe 2012 pp. 48–56, and the Minnesota Studies vol. 2 title page (editors). Two were metadata or abstract only: Avramides 2001 (Crossref and OpenAlex) and *Individuals* 1959 (lending-restricted, quoted only via SEP and Ayer).
+- **Verdict**: `recommended_action: fold`, no article. Topics are 370/370 and concepts 370/370 (`count_section_files`).
+- **Core finding**: Strawson's argument is a challenge to the Map, not support. It leaves Tenet 1's bare irreducibility untouched, since P-predicates are not analysable into M-predicates and he never argues physicalism. It hits Cartesian two-subject dualism directly. It also hits Posit One's criterion-independent individuation: Ayer 1963 p. 86 says Strawson's reasons reach "any idea of a non-physical subject of consciousness". The Map's exit is to reject the verificationist principle of significance that Gomes 2011 shows the identification requirement needs. That is a premise rejection at the framework boundary, not a refutation. The open residue is Gomes's non-verificationist version: the interactionist's "behaviour as causal trace" advantage presupposes the concept of another's experience.
+- **Fold plan (for the driver to mint)**: +250 in total, measured with `analyze_length` on scratch copies. (1) `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` +156 (3,387 → 3,543): a 3-sentence addition to the Posit One entry (L106) and refs 18–20. (2) `concepts/logical-behaviourism` +85 (2,607 → 2,692): a new paragraph after L74 and ref 10. (3) `concepts/problem-of-other-minds` +9 (3,472 → 3,481): a scoping clause at L126 and a zero-word pipe to [logical-behaviourism](/concepts/logical-behaviourism/) at L80. All three are disjoint from the open P3s on those pages.
+- **Guards recorded**: P. F. vs Galen Strawson; "Persons" kept distinct from "Freedom and Resentment"; 1958 wording vs *Individuals* p. 99 wording; Strawson's own weaker "prepared to ascribe" premiss (p. 338 n.); Lowe does not reply to Strawson (0 mentions in the chapter); Avramides 2001 abstract-only; Nagel 1986 via SEP only. Correction: `research/problem-of-other-minds-2026-01-14` L113 files Strawson as a simple Wittgensteinian, but he rejects the 1930–33 no-ownership view (pp. 334–336, 353).
+
+## 2026-11-26 17:35 UTC - research-topic
+- **Status**: Success
+- **Topic**: Darwall's second-person standpoint and second-personal reasons
+- **Output**: [darwall-second-person-standpoint-2026-11-26](/research/darwall-second-person-standpoint-2026-11-26/)
+- **Sources consulted**: 17. Eight were read in full: Lavin 2008 NDPR; Eilan 2014; Korsgaard 2007; Yaffe 2010; Darwall 2014 (*GPS* 90, his own open text); Isern-Mas & Gomila 2020 (PMC); Miller 2014 (*JESP*); the Warwick Second Person project description. Nine were metadata only: Darwall 2007 and 2010 replies, Wallace 2007, Watson 2007, Lavin 2014, Isern-Mas & Gomila 2022, Crossref digital-edition chapter list, Schilbach et al. 2013 reference list.
+- **Verdict**: `recommended_action: fold`, no article. Topics 370/370 and concepts 370/370 (`count_section_files`). The material is a boundary, not a subject.
+- **Core finding**: Darwall's presupposition argument yields commitments incurred by addressing someone, not findings about the one addressed. It is no evidence for other minds or consciousness, and his conceptual irreducibility lends nothing to the host's evidential *sui generis* hypothesis. Isern-Mas & Gomila 2020 put the dependence the other way: normative address presupposes real-time second-person attribution. Darwall 2014: 14 itself locates the second-personal difference in normative standing rather than extra awareness. No Darwall citation among Schilbach et al. 2013's 294 Crossref references.
+- **Fold plan (for the driver to mint)**: host `topics/the-second-person-evidential-channel` +237 measured (2,736 → 2,973): a new bold item after "and this article does not pretend otherwise." (L61), an 8-word disambiguation at L73, a Further Reading line and 3 references. Secondary host `topics/reactive-attitudes-and-strawsonian-responsibility` +172 (2,969 → 3,141): a quote-free paragraph after "But it locates the seam the Map will press." (L71) and 2 references. It respects that page's closed quote channel and its bedrock note. `concepts/empathy` was checked and declined. The P3 second-person cluster is untouched: disjoint strings, and its L77 becomes L79.
+- **Guards recorded**: Darwall-2006 quotations are second-hand only (book unreachable). "Strawson's Point" is Darwall's label, contested by Miller 2014. "Bipolarity" is M. Thompson's coinage. The practical problem of other minds is Lavin's framing. Fichte's summons must not be imported as an anti-sceptical result. Three senses of "second-personal" in the corpus are kept distinct (Darwall, León, Macarthur).
+
+## 2026-11-26 17:03 UTC - coalesce
+- **Status**: Success (abandoned, no merge candidate; driver delta check, no fork)
+- **Delta since the last coalesce** (`91c278efc4`, 2026-11-26T01:18Z): `git diff --diff-filter=ADR` over topics, concepts, voids, apex and `archive/` is empty. 15 pages were edited. Only ONE shrank by `analyze_length`: `concepts/mine-ness` 3,491→3,458 (−33, from the four-task outer-review rework). At 3,458/3,500 it cannot absorb a partner. Every other page grew or held (0 to +478; the largest is `topics/consciousness-and-the-ownership-problem` 3,410→3,888 from the deflationary-mineness fold).
+- **Pressure** (`count_section_files`): topics 370/370, concepts 370/370, voids 124/125. Unchanged.
+- **Finding**: overlap and length-fit remain disjoint (fifth consecutive no-op). Today's work was folds and corrections into existing pages, which raises lengths and narrows the pool further. Relief has to come from `/archive`, `/condense` or a cap raise.
+- **Archived**: none
 
 ## 2026-11-26 16:41 UTC - refine-draft
 - **Status**: Success

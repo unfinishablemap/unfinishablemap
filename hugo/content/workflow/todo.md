@@ -39,18 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Darwall's second-person standpoint and second-personal reasons
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 4), and a REPEAT: optimistic-2026-09-23-intersubjective-wing L153 listed it too, and it never reached the harvest state. 'Darwall' 0 content/0 research; 'second-person standpoint' 0/0; positive control 'second-person' 25/16. It bears on topics/the-second-person-evidential-channel, which separates an established method from a hypothesis. Darwall's address and accountability structure is the normative counterpart. Expect fold into that page (topics FULL). Darwall 2006, Harvard UP (Crossref digital-edition DOI 10.4159/9780674253636, dated 2009): verify the print metadata. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/darwall-second-person-standpoint-2026-11-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'darwall-second-person-standpoint' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-26
-
-### P3: Research Strawson's Persons and the conceptual problem of other minds
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 2): Strawson's 'Persons' (1958; Individuals ch. 3, 1959) covers P-predicates, the primitive concept of a person, and the claim that self-ascription requires other-ascription; Avramides (Other Minds, 2001) treats the conceptual problem of other minds. 'P-predicate' 0/0, 'Avramides' 0/0, 'conceptual problem of other minds' 0/0. Individuals is cited, but only for sounds and categorial voids. Expect fold into concepts/problem-of-other-minds (its Wittgensteinian Dissolution heading, L76). Metadata is from memory in the review, so verify at the publisher. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/strawson-persons-conceptual-problem-of-other-minds-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'strawson-persons-conceptual-problem-of-other-minds' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-26
-
 ### P3: Research Valberg's horizonal subject as an inegalitarian first-person realism
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 5): Valberg, Dream, Death, and the Self (Princeton UP 2007, DOI 10.1515/9780691190181 at Crossref), is the third inegalitarian first-person realism beside Hare (concepts/egocentric-presentism) and Merlo. 'Valberg' 1 content hit (inside a Merlo quotation) and 2 research name-drops; 'personal horizon' 0/1; positive control 'Hare 2009' 2/2. Expect fold into concepts/egocentric-presentism or topics/subjective-facts-and-the-metaphysical-problem-of-other-minds. Verify quotations at source. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/valberg-horizonal-subject-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'valberg-horizonal-subject' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7574,26 +7562,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-26
 - **Notes**: The bee research fork grepped Chittka et al. 2025's PMC full text and found no such sentence. Per the fork, the quotation appears only in this note and its Hugo copy, not on any live article. Re-run `grep -rlF "Young bees engaged more frequently with objects"` over obsidian/ before acting. (1) Re-check the sentence against the PMC full text yourself. If it is absent, remove the quotation marks and either paraphrase what the paper says about play-like ball rolling, citing Galpayage Dona et al. 2022, or mark the line UNVERIFIED with a dated correction note. (2) Fix the L48 author list to Chittka, Skeels, Dyakova & Janbon (re-check on Crossref). Keep the note's history and add a dated Correction line at the top. Sync and verify both trees.
 
-### P2: Fold Ryle's regress against volitions (*The Concept of Mind* ch. 3, 1949, p. 67) into `topics/philosophy-of-action-under-dualism` §Volitionism: the Map's volitionism ([P-A6](/positions/agency-and-will/#p-a6)) never names the oldest objection to it, though its agent-causal reply (host L77, [P-A2](/positions/agency-and-will/#p-a2)) already answers it
-- **Type**: refine-draft
-- **File**: obsidian/topics/philosophy-of-action-under-dualism.md
-- **Secondary files**: obsidian/concepts/phenomenology-of-choice-and-volition.md, obsidian/concepts/four-category-ontology.md
-- **Status**: pending
-- **Source**: research-topic 2026-11-26 15:57Z (`research/ryles-regress-against-volitions-2026-11-26`, recommended_action fold); harvested from optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 1)
-- **Generated**: 2026-11-26
-- **Headroom**: host 2,907/4,000 (F1–F3 come to +327; the note caps the fold at +350). phenomenology-of-choice-and-volition 3,269/3,500 (P1, +65). four-category-ontology 2,231/3,500. Re-measure all three.
-- **Notes**: Apply the note's Fold Plan, using its exact anchor strings (each occurs once).
-  - F1: a new closing paragraph for §Volitionism, after "…could bias a physical outcome." (+270). It states Ryle's dilemma as Ryle gives it (p. 67): volitions are involuntary, or voluntary "in the sense assumed by the theory" and so regress, or neither. The ch. 3 quotations were grepped in archive.org's 1949 Hutchinson text, so copy them verbatim from the note. The reply is the one the page already makes at L77: deny Lowe's premise that agents cause only by acting, and end the regress at a substance whose causing is basic (accepted by the 2026-10-29 synthesis, R2). Add the standard reply (a volition is an action intrinsically: Ginet, McCann, via the SEP *Agency* entry) only as a supplement.
-  - F2 (optional, +4): at L77, the "obvious regress" wording describes a different regress from Griffith's. Use the note's swap.
-  - F3: four references (+53).
-  - NAMING TRAP: "Ryle's regress" usually means the ch. 2 knowing-how argument, and "Ginet (1975)" belongs to that debate. Keep them apart.
-  - P1 (optional, +65): one sentence in §Effort of `concepts/phenomenology-of-choice-and-volition` on Ryle's first objection (volitions have no reportable feel), using the note's wording.
-  - SECONDARY FIX: `concepts/four-category-ontology` L57 attributes Griffith's word "regress" directly to Lowe 2008, p. 7. Re-attribute it to Griffith, or drop the word, length-neutral.
-  - NOT IN SCOPE: the note's P2 (naming the regress in [P-A6](/positions/agency-and-will/#p-a6) with a "Would shift if" clause). `positions/agency-and-will` is 3,426 against its 2,500 hard limit; record that as a lead in the changelog. The [P-A6](/positions/agency-and-will/#p-a6) "direct causal product" ambiguity (O'Connor's model, or causing as a non-act exercise of power) belongs to a positions-evolve audit.
-  - SOURCES: Ginet, McCann, Lowe, Hornsby and O'Shaughnessy were not reached in full text. Paraphrase them, and attribute any quotation to the SEP entry or the review that relayed it.
-  - TENETS: answering the regress is defensive, so it is compatible only and gives no evidence for Bidirectional Interaction. Do not use the Occam tenet against Ryle.
-  - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
-
 ### P3: The seeding note `research/voids-erasure-void-2026-03-20` carries the defects the 2026-11-26 deep review corrected on `voids/erasure-void`: Nikolinakos (2004) miscredited to "Gertler 2003", an unverifiable quotation, a "supports dualism" claim, an unsourced normal-ageing claim, and four wrong author names
 - **Type**: refine-draft
 - **File**: obsidian/research/voids-erasure-void-2026-03-20.md
@@ -7623,8 +7591,80 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: taxonomy-of-voids 4,908/5,000 (apex hard; gate >=). LENGTH-NEUTRAL or negative only. Re-measure.
 - **Notes**: (1) `apex/taxonomy-of-voids` L123: the clause "ordinary ageing the common one" treats normal ageing as a common case of unnoticed self-degradation. `voids/erasure-void` (deep review, 2026-11-26) now cites Gifford et al. 2014, where people often DO notice their decline. Copy that page's corrected wording, re-grepped, and rephrase L123 to match, length-neutral. (2) LOW PRIORITY: `voids/voids.md` L182 says "lost capacities take their detection mechanisms with them" without qualification. Add "can" or "often" only if it costs zero net words. The low-priority olfactory research-note line (`research/voids-olfactory-void-2026-08-13` L105, "*is* noticed") is recorded in the review file and is not in scope here. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Fold Darwall's second-person standpoint into `topics/the-second-person-evidential-channel` as a NORMATIVE boundary: his presupposition argument concerns what address commits the addresser to, not evidence that a conscious addressee exists. Optionally also fold it into `topics/reactive-attitudes-and-strawsonian-responsibility`
+- **Type**: refine-draft
+- **File**: obsidian/topics/the-second-person-evidential-channel.md
+- **Secondary files**: obsidian/topics/reactive-attitudes-and-strawsonian-responsibility.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 17:35Z (`research/darwall-second-person-standpoint-2026-11-26`, recommended_action fold); harvested from optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 4; a repeat of the 09-23 listing)
+- **Generated**: 2026-11-26
+- **Headroom**: host 2,736/4,000 (the fold is +237, bringing it to about 2,973). reactive-attitudes 2,969/4,000 (+172, about 3,141). Re-measure both.
+- **Notes**: Apply the note's §Fold Plan and §Writer Guards with their exact strings.
+  - HOST, items H1–H4. H1 is a 160-word bold item, "The normative second person.", inserted after "and this article does not pretend otherwise." (count 1 at 17:4xZ). H2 is an 8-word clause at L73 separating being responded to from being held answerable. H3 is one Further Reading line, which applies ONLY IF R1 below also lands. H4 is three references.
+  - SECONDARY, item R1: a 134-word paragraph with NO quotation marks, after "But it locates the seam the Map will press." (count 1). That page's 2026-10-26 review declared its quote channel closed. Add two references. The paragraph records that Darwall helps the Strawsonian against Watson; it does not support the Map. Do not use Tenet 5.
+  - CORE POINTS:
+    - Darwall 2014 (*Grazer Philosophische Studien* 90, p. 15): address "is committed to" shared competence and authority. That is a commitment of the addresser, so it cannot show that anyone is there.
+    - On p. 14, awareness of being regarded as an agent "might be no different from a third-personal, observer's awareness".
+    - Isern-Mas & Gomila (2020): normative address PRESUPPOSES the interactive channel the host studies, so it cannot vouch for that channel.
+    - Darwall's "irreducible" means interdefinability among demand, authority, reason and accountability. Do not let it run together with the host's evidential irreducibility hypothesis.
+  - COINERS: "Strawson's Point" is Darwall's own label and is contested by Miller (2014). "Bipolarity" is Michael Thompson's. The practical problem of other minds is Lavin's (2008).
+  - SOURCES: the 2006 book was NOT reached, so every 2006 quotation is second-hand (Lavin, Eilan, Isern-Mas & Gomila). Attribute it as relayed, or paraphrase. Print metadata: Harvard UP, 2006, ISBN 0674022742.
+  - Do NOT strengthen the hedges the 2026-09-14 review protects on the host.
+  - COORDINATION: the open P3 "Second-person channel cluster" edits the host's L77. This fold moves that line to about L79, so whichever task lands second must locate by string.
+  - TENETS: neutral throughout. Darwall's view is metaethical, so it is compatible only.
+  - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
+### P3: Fold P. F. Strawson's "Persons" (1958) into the other-minds cluster as a CHALLENGE to the Map: the person as primitive; self-ascription requires readiness to ascribe the same predicates to others; Ayer (1963) says the argument reaches "any idea of a non-physical subject of consciousness"
+- **Type**: refine-draft
+- **File**: obsidian/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds.md
+- **Secondary files**: obsidian/concepts/logical-behaviourism.md, obsidian/concepts/problem-of-other-minds.md, obsidian/research/problem-of-other-minds-2026-01-14.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 18:07Z (`research/strawson-persons-conceptual-problem-of-other-minds-2026-11-26`, recommended_action fold); harvested from optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 2)
+- **Generated**: 2026-11-26
+- **Headroom**: subjective-facts 3,387/4,000 (+156); logical-behaviourism 2,607/3,500 (+85); problem-of-other-minds 3,472/3,500 (+9 ONLY, 27 words of headroom). With the open P3s on these pages also applied, they end at about 3,569 / 2,712 / 3,488. Re-measure all three first.
+- **Notes**: Apply the note's §Verdict and Fold Plan and §Guards for the Writer with their exact anchors.
+  - subjective-facts: three sentences appended to the Posit One entry (about L106), plus refs 18–20.
+  - logical-behaviourism: a new paragraph after L74 on Strawson's third way (P-predicates against both Cartesianism and behaviourism), plus ref 10.
+  - problem-of-other-minds: a scoping clause at L126, plus a ZERO-word piped link to [logical-behaviourism](/concepts/logical-behaviourism/) at L80.
+  SOURCES: quote "Persons" from the 1958 *Minnesota Studies in the Philosophy of Science* 2 text with 1958 page numbers (U. Minnesota Digital Conservancy, hdl 11299/184616). *Individuals* (1959) was not reached and its wording differs (p. 99), so cite it only via SEP or Ayer. Ayer, "The Concept of a Person" (1963): read pp. 85–117 on archive.org. Gomes 2011 was read in full. Avramides 2001 (abstract only) and her SEP "Other Minds" (rev. 2023) entry were read in full.
+  GRADING:
+  - Tenet 1 as stated (irreducibility) does NOT conflict with Strawson, but he gives it no support either.
+  - He attacks Cartesian two-subject dualism. The Map's subject is closer to Lowe's, but that link is the note's reconstruction; Lowe never mentions Strawson.
+  - Against Posit One, Strawson is a direct challenge. The Map's exit, rejecting the verificationist premise that his identification requirement needs (Gomes), rejects a premise and refutes nothing. Mark it as a framework-boundary disagreement.
+  - Gomes's NON-verificationist version is NOT answered anywhere in the corpus. Say so; do not claim a reply.
+  GUARDS:
+  - Always write "P. F." Strawson (Galen Strawson appears nearby), and keep "Persons" distinct from "Freedom and Resentment".
+  - Strawson's own footnote concedes the premiss needs only READINESS to ascribe to others.
+  - Quote Nagel 1986 only via SEP.
+  - Do not touch the lines the open P3s own: subjective-facts L96/L36 (second-person cluster) and logical-behaviourism L30/L38/L78/L84.
+  RESEARCH-NOTE CORRECTION: `research/problem-of-other-minds-2026-01-14` L113 lists "P.F. Strawson" as a proponent of the Wittgensteinian dissolution. Strawson REJECTS the 1930–33 Wittgensteinian "no-ownership" view ("Persons" pp. 334–336, 353). Add a dated correction there.
+  ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Research Strawson's Persons and the conceptual problem of other minds
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 2): Strawson's 'Persons' (1958; Individuals ch. 3, 1959) covers P-predicates, the primitive concept of a person, and the claim that self-ascription requires other-ascription; Avramides (Other Minds, 2001) treats the conceptual problem of other minds. 'P-predicate' 0/0, 'Avramides' 0/0, 'conceptual problem of other minds' 0/0. Individuals is cited, but only for sounds and categorial voids. Expect fold into concepts/problem-of-other-minds (its Wittgensteinian Dissolution heading, L76). Metadata is from memory in the review, so verify at the publisher. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/strawson-persons-conceptual-problem-of-other-minds-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'strawson-persons-conceptual-problem-of-other-minds' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+
+### ✓ 2026-11-26: Research Darwall's second-person standpoint and second-personal reasons
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 4), and a REPEAT: optimistic-2026-09-23-intersubjective-wing L153 listed it too, and it never reached the harvest state. 'Darwall' 0 content/0 research; 'second-person standpoint' 0/0; positive control 'second-person' 25/16. It bears on topics/the-second-person-evidential-channel, which separates an established method from a hypothesis. Darwall's address and accountability structure is the normative counterpart. Expect fold into that page (topics FULL). Darwall 2006, Harvard UP (Crossref digital-edition DOI 10.4159/9780674253636, dated 2009): verify the print metadata. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/darwall-second-person-standpoint-2026-11-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'darwall-second-person-standpoint' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+
+### ✓ 2026-11-26: Fold Ryle's regress against volitions (*The Concept of Mind* ch. 3, 1949, p. 67) into `topics/philosophy-of-action-under-dualism` §Volitionism: the Map's volitionism ([P-A6](/positions/agency-and-will/#p-a6)) never names the oldest objection to it, though its agent-causal reply (host L77, [P-A2](/positions/agency-and-will/#p-a2)) already answers it
+- **Type**: refine-draft
+- **File**: obsidian/topics/philosophy-of-action-under-dualism.md
+- **Notes**: Apply the note's Fold Plan, using its exact anchor strings (each occurs once).
+  - F1: a new closing paragraph for §Volitionism, after "…could bias a physical outcome." (+270). It states Ryle's dilemma as Ryle gives it (p. 67): volitions are involuntary, or voluntary "in the sense assumed by the theory" and so regress, or neither. The ch. 3 quotations were grepped in archive.org's 1949 Hutchinson text, so copy them verbatim from the note. The reply is the one the page already makes at L77: deny Lowe's premise that agents cause only by acting, and end the regress at a substance whose causing is basic (accepted by the 2026-10-29 synthesis, R2). Add the standard reply (a volition is an action intrinsically: Ginet, McCann, via the SEP *Agency* entry) only as a supplement.
+  - F2 (optional, +4): at L77, the "obvious regress" wording describes a different regress from Griffith's. Use the note's swap.
+  - F3: four references (+53).
+  - NAMING TRAP: "Ryle's regress" usually means the ch. 2 knowing-how argument, and "Ginet (1975)" belongs to that debate. Keep them apart.
+  - P1 (optional, +65): one sentence in §Effort of `concepts/phenomenology-of-choice-and-volition` on Ryle's first objection (volitions have no reportable feel), using the note's wording.
+  - SECONDARY FIX: `concepts/four-category-ontology` L57 attributes Griffith's word "regress" directly to Lowe 2008, p. 7. Re-attribute it to Griffith, or drop the word, length-neutral.
+  - NOT IN SCOPE: the note's P2 (naming the regress in [P-A6](/positions/agency-and-will/#p-a6) with a "Would shift if" clause). `positions/agency-and-will` is 3,426 against its 2,500 hard limit; record that as a lead in the changelog. The [P-A6](/positions/agency-and-will/#p-a6) "direct causal product" ambiguity (O'Connor's model, or causing as a non-act exercise of power) belongs to a positions-evolve audit.
+  - SOURCES: Ginet, McCann, Lowe, Hornsby and O'Shaughnessy were not reached in full text. Paraphrase them, and attribute any quotation to the SEP entry or the review that relayed it.
+  - TENETS: answering the regress is defensive, so it is compatible only and gives no evidence for Bidirectional Interaction. Do not use the Occam tenet against Ryle.
+  - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
 
 ### ✓ 2026-11-26: Research Ryle's regress against volitions and the Map's volitionist theory of action
 - **Type**: research-topic
