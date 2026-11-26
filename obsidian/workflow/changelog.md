@@ -1,9 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T12:48:30+00:00
+ai_modified: 2026-11-26T13:15:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 13:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [[positions/quantum-interface]] (P-Q1 Asserts, L55); secondary [[tenets]] (L71, Candidate mechanisms)
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Task**: Stapp's Zeno approach was filed as plainly pre-decoherence or coherence-dependent in both loci. That contradicts Stapp (2000) and the Map's own `concepts/quantum-consciousness` L122. Review file: `reviews/deep-review-2026-11-26-tenet-generated-voids` (Issue 2 and Remaining Item 1).
+- **Source check**: re-fetched arXiv:quant-ph/0010029 and grepped the PDF text. "the Quantum Zeno Effect described above is not destroyed by the fact that S(t)b is a mixture: that makes no difference at all" has 1 hit (PDF p. 12). Only the verbatim tail "makes no difference at all" is quoted in P-Q1, with its subject ("the brain state's being a mixture") kept outside the quotation marks. Side note: the PDF spells the Tegmark sentence "did not direct his remarks about decohence at my theory", and the review ledger renders it "decoherence". That sentence is not quoted in either file.
+- **Changes**:
+  - P-Q1: "(Stapp-Zeno, Orch-OR)" became "pre-decoherence proposals like Orch-OR". A new sentence names the dispute: "Whether the objection reaches Stapp-Zeno is disputed: Stapp (2000) replies that the brain state's being a mixture 'makes no difference at all' to his effect (P-Q4)." Orch-OR stays the clear pre-decoherence case.
+  - P-Q1: added a dated note, "Updated 2026-11-26: Stapp-Zeno's pre-decoherence label marked disputed; no band moved". `Last reviewed` moved from 2026-07-27 to 2026-11-26.
+  - `tenets.md` L71: "Other proposals depend on pre-decoherence coherence … Orch OR …; Stapp's …" became an Orch OR sentence ("depends on pre-decoherence coherence and stands or falls with that more demanding assumption") followed by a separate Stapp sentence ending "whether the decoherence-timescale objection reaches it is disputed, Stapp (2000) replying that the Zeno effect survives decoherence". "ahead of the coherence-dependent proposals" became "ahead of both". This is now consistent with `tenets.md` L77, which already scopes the dispute to Orch OR and the Fröhlich lines.
+- **Length** (`analyze_length`; both files were already critical): `positions/quantum-interface` stayed at 5,997 words (net 0). `tenets.md` stayed at 6,787 words (net 0).
+  - P-Q1 offsets, all inside the entry: the 2026-07-25 timing clarification lost a duplicate restatement ("not a claim that branch-outcomes are already singular", which "rather than realised outcomes with one already picked out" repeats). Also cut: "environmental", "does not address" (implied by "relocates rather than resolves"), "rather than competing primary claims" (implied by "subordinate fallbacks"), the unused "(TI/TSVF)", "see", "its own", and a shorter Calibration-history tail.
+  - `tenets.md` offsets: removed the filler opener "Several scientific proposals have explored this interface." and the phrase "through the Zeno effect".
+  - No hedge, calibration qualifier or Would-shift clause was cut.
+- **Stranded-quote check**: scanned every live quotation of the old P-Q1 and L71 text across the corpus (excluding reviews/workflow). 0 stranded. `topics/self-observation-and-the-moments-of-selection` L89 quotes two P-Q1 strings verbatim ("selection acts on already-decohered branch-outcomes rather than on coherent neural superpositions"; "decoherence yields an improper mixture rather than realised outcomes with one already picked out"). An intermediate trim had broken both, and both were restored. `research-programme-decisions-under-the-map` L76 ("working stance … currently exists") and L82 (the Would-shift quote) still match.
+- **Positions discipline**: no confidence band changed, because the reclassification grades nothing. P-IDs cited (P-Q3, P-Q4, P-Q10) and `^p-q1` all resolve.
+  - Cascade: P-Q4 and P-Q5 depend on P-Q1. P-Q5 is unaffected, since Orch-OR stays the clear case. P-Q4 L93 still lists "the decoherence timescale (the objection cuts hardest here)" as Stapp-Zeno's first gate without naming Stapp's reply. That is a candidate follow-up and was not edited.
+  - Convention: `quantum-interface-calibration-history` L30 says dated notes relocate to the history file at the next `/positions-evolve` touch.
+- **Engagement modes**: Tegmark and Stapp are cited for what each claims, not replied to, so no mode classification applies. No label leakage.
+- **Sibling sweep** (driver's 8 pages, re-grepped, NOT edited):
+  - `topics/forward-in-time-conscious-selection`: misclassifies at L3 (description, "only the first two operate before decoherence") and L63 ("the first two are pre-decoherence"). It is internally inconsistent: L97 (Stapp 2000, "denies that it needs a surviving superposition") and L175 ("Stapp dissents") already name the dispute.
+  - `topics/forward-in-time-vs-time-symmetric-selection` L67: misclassifies with no qualifier ("The pre-decoherence versions (… Stapp's quantum Zeno mechanism) require neural superpositions to survive").
+  - `topics/quantum-biology-and-neural-consciousness` L47: misclassifies ("pre-decoherence-coherence mechanisms (Orch OR, Fröhlich-microtubule, Stapp Zeno, Fisher Posner)"). That contradicts its own L51 and L191, which file Stapp under discrete-event mechanisms.
+  - `concepts/post-decoherence-selection`: L84 already names the dispute ("Stapp disputes that reading of his own model"). The bare label survives at L86 and in the L121 Further Reading gloss. Minor.
+  - `concepts/stapp-quantum-mind` L128: misclassifies ("over pre-decoherence proposals like Stapp's"), and it paraphrases the old P-Q1 wording. The page never cites Stapp 2000's mixture claim.
+  - `apex/assessing-ai-consciousness-under-the-map` L74: misclassifies ("a pre-decoherence mechanism (Stapp-Zeno, Orch-OR)", copied from the old P-Q1 parenthetical).
+  - `apex/open-question-ai-consciousness` L145: misclassifies ("objection Tegmark presses against pre-decoherence proposals like Stapp-Zeno"). It also attributes to Tegmark an aim Stapp 2000 says he did not have.
+  - `apex/research-programme-decisions-under-the-map` L82: misclassifies ("the pre-decoherence rivals (Stapp-Zeno, Orch-OR)"). Its L118 "Stapp-Zeno's two gates" follows P-Q4 and is not itself a misclassification.
+- **Other**: sync also refreshed `hugo/content/workflow/todo.md` with the driver's already-committed task mint. That change is harmless and not mine.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-11-26 12:48 UTC - deep-review
 - **Status**: Success

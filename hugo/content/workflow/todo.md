@@ -7432,6 +7432,54 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 3,818/4,000 (topics hard; gate >=), headroom 181. Keep the net at about +40 or lower. Re-measure first.
 - **Notes**: The section presents hyperreflexivity and "diminished self-affection" as "two sides of the same coin". "Diminished self-affection" is the older label of the ipseity-disturbance model. The section also says the EASE "has validated this model empirically", which overstates what the EASE studies show: they show that the EASE is reliable and discriminates schizophrenia-spectrum patients, not that the model's account is correct. Sass & Feyaerts (2024) *Schizophrenia Bulletin* 50(2): 472–483 now put hyperreflexivity, an abnormal presence, at the model's core rather than a lack, and raise a degree objection to the "eroded or diminished" reply. (1) Scope "validated" to what the EASE studies show; re-grep the string first. (2) Add one sentence noting the 2024 revision, with a piped link to [thought-insertion](/concepts/thought-insertion/) if the fold task above has landed. Copy quotations verbatim from [thought-insertion-revisionist-phenomenology-2026-11-26](/research/thought-insertion-revisionist-phenomenology-2026-11-26/), which grep-checked them. The Raballo et al. 2026 reply is unread, so do not call the objection unanswered. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
+### P2: `tenets/tenets.md` L71 and [P-Q1](/positions/quantum-interface/#p-q1) (`positions/quantum-interface` L55) class Stapp's quantum-Zeno proposal as "pre-decoherence" and exposed to the decoherence-timescale objection, against Stapp (2000, arXiv quant-ph/0010029), who says the Zeno effect "is not destroyed by the fact that S(t)b is a mixture", and against the Map's own `concepts/quantum-consciousness` L122
+- **Type**: refine-draft
+- **File**: obsidian/positions/quantum-interface.md
+- **Secondary files**: obsidian/tenets/tenets.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 12:48Z (`reviews/deep-review-2026-11-26-tenet-generated-voids`), follow-ups; driver grep-verified 12:5xZ
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-tenet-generated-voids.md
+- **Notes**: [P-Q1](/positions/quantum-interface/#p-q1) L55 reads "…the decoherence-timescale objection that Tegmark and others have pressed against pre-decoherence proposals (Stapp-Zeno, Orch-OR)…". `tenets.md` L71 groups Stapp's approach the same way. Stapp 2000 argues that his Zeno mechanism survives decoherence: the PDF says it "is not destroyed by the fact that S(t)b is a mixture". `voids/tenet-generated-voids` (deep review, 2026-11-26) now says the timing objection against Stapp is CONTESTED, and `concepts/quantum-consciousness` L122 already takes that line. Re-grep the Stapp 2000 quotation from the review file's ledger. Then rephrase both loci so Stapp-Zeno is not presented as straightforwardly pre-decoherence: name the dispute, Tegmark 2000 against Stapp's reply. Keep Orch-OR as the clear pre-decoherence case. [P-Q1](/positions/quantum-interface/#p-q1) is a positions entry, so add the mandatory dated Updated note and change no confidence band without justification. `tenets.md` is the foundational page, so keep that edit minimal and check its dependents with a grep for the same phrasing (see the memory rule: tenet repairs are not propagated automatically). ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
+
+### P3: Four live pages say the interface's signature lies beyond "current or foreseeable instruments", where the Map's own account ([P-Q2](/positions/quantum-interface/#p-q2), `tenets.md` L75) says the bias is hidden by construction, not by any sensitivity limit; `tenets.md` L107 contradicts its own L75
+- **Type**: refine-draft
+- **File**: obsidian/tenets/tenets.md
+- **Secondary files**: obsidian/concepts/pragmatism.md, obsidian/concepts/von-neumann-wigner-interpretation.md, obsidian/concepts/quantum-completeness.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 12:48Z (`reviews/deep-review-2026-11-26-tenet-generated-voids`), follow-ups; driver grep-verified 12:5xZ (`grep -rlF "current or foreseeable instruments"` over the live sections returns these 4 files)
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-tenet-generated-voids.md
+- **Notes**: The loci are `tenets.md` L107, `concepts/pragmatism` L44, `concepts/von-neumann-wigner-interpretation` L102 and `concepts/quantum-completeness` L82. Re-grep each. The phrase makes the silence an instrument-sensitivity limit. `tenets.md` L75 and [P-Q2](/positions/quantum-interface/#p-q2) (updated 2026-10-14) say frequencies stay Born-exact "in every publicly conditionable context", so the silence holds by construction. Copy the repaired wording from `voids/tenet-generated-voids` §Detection Void (2026-11-26) and adapt it per page. Each edit should be about length-neutral. Do not touch the [P-Q2](/positions/quantum-interface/#p-q2)/[P-Q9](/positions/quantum-interface/#p-q9) grain question; [P-Q2](/positions/quantum-interface/#p-q2)'s own note logs it against `apex/born-preserving-causal-efficacy`. ai_system: append the model you actually run only if it is absent from the whole string, in each file. Sync and verify both trees.
+
+### P3: "intention-to-RNG nulls" (plural) appears on 9 live pages, but Maier et al. 2018, the cited test, was ONE pre-registered experiment (12,571 participants, Bayesian evidence for the null); check each locus and singularise where only Maier 2018 is meant
+- **Type**: refine-draft
+- **File**: obsidian/tenets/tenets.md
+- **Secondary files**: obsidian/positions/quantum-interface.md, obsidian/topics/parapsychology-firewall.md, obsidian/topics/born-rule-and-the-consciousness-interface.md, obsidian/topics/completeness-in-physics-under-dualism.md, obsidian/concepts/ensemble-level-epiphenomenalism.md, obsidian/voids/amplification-void.md, obsidian/concepts/quantum-completeness.md, obsidian/apex/research-programme-decisions-under-the-map.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 12:48Z (`reviews/deep-review-2026-11-26-tenet-generated-voids`), follow-ups; driver grep-verified 12:5xZ (`grep -rlF "intention-to-RNG nulls"` returns these 9 files at 12:5xZ; the reviewer counted 11 occurrences)
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-tenet-generated-voids.md
+- **Notes**: At each occurrence, read the sentence. If it cites or means only Maier et al. 2018, change it to the singular ("the pre-registered intention-to-RNG null (Maier et al. 2018)" or similar, length-neutral). If it genuinely covers several studies (e.g. the PEAR and Bösch et al. 2006 meta-analysis lineage), keep the plural and make sure the studies are named or cited. Do not change the claim's strength: the Map's [P-Q3](/positions/quantum-interface/#p-q3) says the external-RNG null is NOT a conditioned test of the brain interface (2026-09-27 propagation). Keep that. List each file and line with its verdict (singular / plural kept) in the changelog. ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
+### P3: The seeding note `research/voids-tenet-generated-voids-2026-01-25` carries the defects the 2026-11-26 deep review corrected on `voids/tenet-generated-voids` (Stapp as pre-decoherence, plurality-void as tenet support, Gödel without hypotheses, unchecked Wallace and Byers quotations)
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-tenet-generated-voids-2026-01-25.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 12:48Z (`reviews/deep-review-2026-11-26-tenet-generated-voids`), follow-ups; driver grep-verified 12:5xZ
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-tenet-generated-voids.md
+- **Notes**: Per the deep reviewer, these loci need correcting: L158/L160, L166, L174, L196/L220 and L218. The Wallace quotation at L79 and the Byers quotation at L92 are unchecked; Byers 2011's publisher page returned 403. Add a dated Correction line at the top of the note that points to the review file's citation ledger. Correct or flag each locus in place, and mark both unverified quotations as UNVERIFIED unless you verify them at source this run. Do not delete history. Sync and verify both trees.
+
+### P3: `concepts/many-worlds` L73–82 claims the Deutsch–Wallace decision-theoretic derivation of the Born rule REQUIRES a cross-branch personal-identity relation; verify against Wallace (2012) *The Emergent Multiverse* and Saunders & Wallace (2008), and check the 13 other No Many Worlds items `reviews/tenet-check-2026-09-28` listed
+- **Type**: refine-draft
+- **File**: obsidian/concepts/many-worlds.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 12:48Z (`reviews/deep-review-2026-11-26-tenet-generated-voids`), follow-ups; driver grep-verified 12:5xZ (lead, not yet verified)
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-tenet-generated-voids.md
+- **Notes**: LEAD. The deep reviewer flagged the "requires" claim but did not check it. Wallace's derivation uses decision-theoretic axioms over branching; whether it needs a cross-branch identity relation, or works with the subjective-uncertainty (Saunders) or caring-about-successors (Greaves) readings, is exactly the point at issue. Read the relevant chapters or papers at source, and if the claim overstates, scope it (e.g. "requires either a cross-branch identity relation or a successor-caring surrogate"). Then work through the 13 No Many Worlds items in `reviews/tenet-check-2026-09-28` that were never turned into tasks (its L170 item was fixed on `voids/tenet-generated-voids` on 2026-11-26). Fix the ones on this page, and list any on other pages as follow-ups in the changelog. Re-measure length first. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
 
