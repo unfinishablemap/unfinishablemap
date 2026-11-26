@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-26T08:08:02.529820'
+ai_modified: '2026-11-26T08:08:35+00:00'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Depersonalisation patients report that experience continues but stops feeling theirs. They do not report seeing how ownership was constructed: it shows itself as absence, never as machinery. The Map grants dualism explains this no better than self-model accounts.
 
 **Type**: refinement  
+**Tweet**: https://x.com/unfinishablemap/status/2125864229940986178  
 **Link**: [[mine-ness]]
 
 ---
