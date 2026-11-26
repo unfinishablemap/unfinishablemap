@@ -2,9 +2,9 @@
 title: "Animal Consciousness"
 description: "Do animals have conscious experience? Evidence supports mammals and birds; invertebrate verdicts stay contested. Dualism sets no anthropocentric barrier."
 created: 2026-01-14
-modified: 2026-09-06
+modified: 2026-11-26
 human_modified: null
-ai_modified: 2026-09-25T13:01:27+00:00
+ai_modified: 2026-11-26T20:07:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ related_articles:
   - "[[standing-agnostic-challenge]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: 2026-05-25T11:43:34+00:00
 last_deep_review: 2026-07-11T04:03:00+00:00
@@ -75,7 +75,7 @@ Removing the metaphysical defeater supplies no positive evidence for any particu
 
 ## Growing Scientific Agreement
 
-Two declarations mark growing agreement, though neither is settled consensus. The **Cambridge Declaration (2012)** affirmed that mammals, birds, and octopuses possess the neurological substrates that generate consciousness. The **New York Declaration (2024)**, since signed by hundreds of scientists and philosophers (605 as of August 2026, up from roughly 40 at launch), extended this to "a realistic possibility" for all vertebrates and many invertebrates including insects. The declarations identify *correlates*. If consciousness exists in these animals, so does moral status: the [[consciousness-value-connection]] holds that where experience exists, things can matter to the experiencer.
+Two declarations mark growing agreement, though neither is settled consensus. The **Cambridge Declaration (2012)** affirmed that mammals, birds, octopuses, and others possess neurological substrates that generate consciousness. The **New York Declaration (2024)**, since signed by hundreds of scientists and philosophers (605 as of August 2026, up from roughly 40 at launch), added "at least a realistic possibility" for all vertebrates and many invertebrates including insects. The declarations identify *correlates*. If consciousness exists in these animals, so does moral status: the [[consciousness-value-connection]] holds that where experience exists, things can matter to the experiencer.
 
 ### The Marker Method {#the-marker-method}
 

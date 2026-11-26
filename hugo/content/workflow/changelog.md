@@ -1,13 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 19:51:43+00:00
+ai_modified: 2026-11-26 20:07:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 19:51:43+00:00
+lastmod: 2026-11-26 20:07:34+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-26 20:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/) (primary); [emergence](/concepts/emergence/) and [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) (secondary)
+- **Task**: P3, the source slips that the 2026-11-16 repair of `concepts/evolution-of-consciousness` fixed on that page and listed for these three.
+- **Review file**: [outer-review-2026-11-16-claude-fable-5-2](/reviews/outer-review-2026-11-16-claude-fable-5-2/)
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Changes**:
+  - (1) `topics/animal-consciousness` L78, New York Declaration. Before: `extended this to "a realistic possibility" for all vertebrates and many invertebrates including insects`. After: `added "at least a realistic possibility" for all vertebrates and many invertebrates including insects`. The scope already read "all vertebrates", not "all other vertebrates", so it was left alone. Removing "extended this to" paid for "at least", and also removed a "this" that pointed back to the Cambridge sentence.
+  - Cambridge Declaration, same paragraph. The page had no quotation marks here; it gave a closed list. Before: `affirmed that mammals, birds, and octopuses possess the neurological substrates that generate consciousness`. After: `affirmed that mammals, birds, octopuses, and others possess neurological substrates that generate consciousness`. This is a paraphrase without quotation marks, and it now shows that the list is open, as the declaration's "and many other creatures, including octopuses" does. Dropping "the" paid for the change.
+  - The signatory parenthetical ("since signed by hundreds of scientists and philosophers (605 as of August 2026, up from roughly 40 at launch)") was left word for word. An open P3 task (signatory figures across five pages) owns it and finds it by that text.
+  - Factual-status check on the paragraph: no sentence states as fact what the declarations give as a realistic possibility. The moral-status sentence is conditional, and "The declarations identify *correlates*" stands.
+  - (2) `concepts/emergence` L58, Broad (1925). The quotation was cut at "combinations". It now runs to the end of the printed sentence: `taken separately or in other combinations, and of their proportions and arrangements in this whole" (Broad 1925, p. 59)`. This matches `concepts/evolution-of-consciousness` L115. The wording is the 2026-11-16 reading of the archive.org scan (dli.bengal.10689.8832, p. 59) and keeps "could not". The driver brief's "cannot" was a typo; the 2026-07-19 deep review also confirmed "could not".
+  - (3) `topics/the-strong-emergence-of-consciousness` L81, Broad. The quotation now closes with an ellipsis inside the quotation marks: `taken separately or in other combinations...".` No page reference was added, so the edit costs 0 words.
+- **Length** (`analyze_length`; gate at >=): animal-consciousness 3,998 → 3,998 (hard 4,000); emergence 2,982 → 2,995 (hard 3,500); the-strong-emergence-of-consciousness 3,969 → 3,969 (hard 4,000).
+- **Frontmatter**: `ai_modified` and `modified` set on all three. `ai_system` on animal-consciousness gained `+claude-opus-5-5`; both emergence pages already contained it. `last_deep_review` was not touched.
+- **Reasoning mode**: no reply to a named opponent was changed. Broad and the signatories are not enlisted for dualism.
+- **Noticed, not done**: `research/emergence-consciousness-philosophy-2026-01-15` L40 also ends the Broad quotation at "combinations" with no ellipsis. It is a research note and outside this task.
+- **Published**: yes
+
 ---
 
 ## 2026-11-26 19:51 UTC - refine-draft

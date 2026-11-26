@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-11-08 19:04:58+00:00
+ai_modified: 2026-11-26 20:07:02+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -23,7 +23,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[measurement-problem]]'
 created: 2026-01-15
-date: &id001 2026-01-15
+date: &id001 2026-11-26
 description: 'The Map uses strong-emergence vocabulary as a comparative register for
   its bi-aspectual dualism: consciousness co-fundamental with physical structure,
   not arising from it.'
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:24:36+00:00
-lastmod: 2026-11-08 19:04:58+00:00
+lastmod: 2026-11-26 20:07:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Weak emergence is compatible with [physicalism](/concepts/materialism/) and [cau
 
 Higher-level properties are genuinely novel—not deducible even in principle from lower-level facts. Strong emergence is incompatible with physicalism. The emergent property supervenes with only *nomological* (natural law) necessity (see [supervenience](/concepts/supervenience/) for the distinction): same physical base could have different emergent properties under different laws. Or no emergent properties at all—the conceivability of [zombies](/concepts/philosophical-zombies/) illustrates this.
 
-C.D. Broad established emergence as a distinct philosophical position in 1925. His criterion: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components, taken separately or in other combinations".
+C.D. Broad established emergence as a distinct philosophical position in 1925. His criterion: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components, taken separately or in other combinations, and of their proportions and arrangements in this whole" (Broad 1925, p. 59).
 
 The most ambitious version of strong emergence posits not merely novel *properties* but a novel *individual*: William Hasker's [emergent dualism](/concepts/emergent-dualism/) holds that a sufficiently organised brain generates a new, non-composite mental substance, not just irreducible features of the brain.
 

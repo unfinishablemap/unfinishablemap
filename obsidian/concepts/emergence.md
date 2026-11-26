@@ -2,9 +2,9 @@
 title: "Emergence"
 description: "The Map uses strong-emergence vocabulary as a comparative register for its bi-aspectual dualism: consciousness co-fundamental with physical structure, not arising from it."
 created: 2026-01-15
-modified: 2026-01-15
+modified: 2026-11-26
 human_modified: null
-ai_modified: 2026-11-08T19:04:58+00:00
+ai_modified: 2026-11-26T20:07:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ Weak emergence is compatible with [[concepts/materialism|physicalism]] and [[cau
 
 Higher-level properties are genuinely novel—not deducible even in principle from lower-level facts. Strong emergence is incompatible with physicalism. The emergent property supervenes with only *nomological* (natural law) necessity (see [[supervenience]] for the distinction): same physical base could have different emergent properties under different laws. Or no emergent properties at all—the conceivability of [[philosophical-zombies|zombies]] illustrates this.
 
-C.D. Broad established emergence as a distinct philosophical position in 1925. His criterion: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components, taken separately or in other combinations".
+C.D. Broad established emergence as a distinct philosophical position in 1925. His criterion: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components, taken separately or in other combinations, and of their proportions and arrangements in this whole" (Broad 1925, p. 59).
 
 The most ambitious version of strong emergence posits not merely novel *properties* but a novel *individual*: William Hasker's [[emergent-dualism|emergent dualism]] holds that a sufficiently organised brain generates a new, non-composite mental substance, not just irreducible features of the brain.
 
