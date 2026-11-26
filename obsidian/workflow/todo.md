@@ -7392,24 +7392,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - L61/L140: persistence "suggests genuine inaccessibility / cognitive closure".
   Add a dated correction note at the top of the research note pointing to the review file's citation ledger, and correct or flag each line in place. Do not delete the history. ARCHIVE pages (still served at their URLs with an archive notice): `archive/voids/volitional-opacity.md` L150 ("…millennia of contemplative practice is evidence that the limit is structural") and `archive/voids/introspective-opacity.md` L112 ("Meditators across traditions…"). Apply a minimal correction, or a one-line dated editor's note under the archive notice that points to the corrected `voids/causal-interface`. Keep the archive notice and the URL intact. Re-grep each string first. ai_system: append the model you actually run only if it is absent from the whole string (archive files too, if they carry the field). Sync and verify both trees.
 
-### P2: Fold deflationary accounts of mineness into `topics/consciousness-and-the-ownership-problem`: separate the four denials, and re-aim the page's defences (L48 "survives even if the hard problem were somehow solved", L84, challenge list L118–120, Dualism L126, Occam L132) at the rival that denies only a phenomenal ownership quality
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-and-the-ownership-problem.md
-- **Status**: pending
-- **Source**: research-topic 2026-11-26 10:12Z (`research/deflationary-accounts-of-mineness-2026-11-26`, recommended_action fold); harvested from outer-review-synthesis-2026-11-26 C10 (3/3 reviewers)
-- **Generated**: 2026-11-26
-- **Review file**: reviews/outer-review-synthesis-2026-11-26.md
-- **Headroom**: 3,476/4,000 (analyze_length 2026-11-26 10:1xZ; topics hard 4,000; gate >=). The note caps the fold at net +420, which leaves about 100 in reserve. Re-measure first.
-- **Notes**: Execute the note's "Fold Plan" item 1, (a) to (f), in its order, plus its References line and its Terminology guard. Read [[research/deflationary-accounts-of-mineness-2026-11-26]] §Fold Plan, §Four Denials, §Key Sources and §Gaps in Research first.
-  - CORE POINT: nearly every author in this family (Sá Pereira 2026, Wehinger 2022/2024, Kang 2025, Alweiss 2022, McClelland 2023, Bradley 2024/2026) denies only a phenomenal ownership QUALITY. They do not deny the subject or first-person organisation (Sá Pereira: "I do not deny that experience has a perspectival structure…"). Letheby 2020 alone denies first-person organisation, and only for psychedelic ego dissolution. The page's illusionism regress, challenge (2) and Occam line answer the other denials, so they miss this family.
-  - SOURCE STATUS: the note read Wehinger, Sá Pereira, Guillot 2017, Guillot 2023 and Gallagher 2017 in FULL. Bradley 2024, McClelland, Kang, Alweiss, Letheby and Bradley 2026 are ABSTRACT-ONLY. Do NOT use the Gemini review's account of Bradley 2024 (the achromatopsia analogy, the "experiential basis"); it is unverified. Add Bradley 2024 as a reference only if you read its full text first.
-  - DATING GUARD: give the online and issue years exactly as the note gives them (Kang online 2024, issue 2025; Wehinger online 2022, issue 2024).
-  - TERMINOLOGY: use Guillot's three terms as [[thought-insertion]] L72–80 does (for-me-ness, mineness, me-ness). Also fix L60 ("the felt for-me character", the leftover for-me-ness/mineness collision) inside this budget.
-  - DO NOT REVERT the 2026-11-26 08:2xZ edit at about L104 (the no-owner view at its strongest, and "is a commitment, not a refutation", commit b2c80b0d).
-  - GRADING: the rival does not conflict with the Dualism tenet (compatible-only). Grade L126 and L132 on the compatible / suggestive / discriminating ladder.
-  - QUOTATIONS: re-grep every quotation in raw source text this run, or copy it verbatim from the note, which grep-checked it.
-  - ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
-
 ### P3: Small folds from `research/deflationary-accounts-of-mineness-2026-11-26`: Letheby 2020's dilemma at `concepts/thought-insertion` L94, and one Bradley 2026 sentence after the Sá Pereira paragraph of `concepts/mine-ness` (about L94)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/thought-insertion.md
@@ -7432,6 +7414,19 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Fold deflationary accounts of mineness into `topics/consciousness-and-the-ownership-problem`: separate the four denials, and re-aim the page's defences (L48 "survives even if the hard problem were somehow solved", L84, challenge list L118–120, Dualism L126, Occam L132) at the rival that denies only a phenomenal ownership quality
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-the-ownership-problem.md
+- **Notes**: Execute the note's "Fold Plan" item 1, (a) to (f), in its order, plus its References line and its Terminology guard. Read [[research/deflationary-accounts-of-mineness-2026-11-26]] §Fold Plan, §Four Denials, §Key Sources and §Gaps in Research first.
+  - CORE POINT: nearly every author in this family (Sá Pereira 2026, Wehinger 2022/2024, Kang 2025, Alweiss 2022, McClelland 2023, Bradley 2024/2026) denies only a phenomenal ownership QUALITY. They do not deny the subject or first-person organisation (Sá Pereira: "I do not deny that experience has a perspectival structure…"). Letheby 2020 alone denies first-person organisation, and only for psychedelic ego dissolution. The page's illusionism regress, challenge (2) and Occam line answer the other denials, so they miss this family.
+  - SOURCE STATUS: the note read Wehinger, Sá Pereira, Guillot 2017, Guillot 2023 and Gallagher 2017 in FULL. Bradley 2024, McClelland, Kang, Alweiss, Letheby and Bradley 2026 are ABSTRACT-ONLY. Do NOT use the Gemini review's account of Bradley 2024 (the achromatopsia analogy, the "experiential basis"); it is unverified. Add Bradley 2024 as a reference only if you read its full text first.
+  - DATING GUARD: give the online and issue years exactly as the note gives them (Kang online 2024, issue 2025; Wehinger online 2022, issue 2024).
+  - TERMINOLOGY: use Guillot's three terms as [[thought-insertion]] L72–80 does (for-me-ness, mineness, me-ness). Also fix L60 ("the felt for-me character", the leftover for-me-ness/mineness collision) inside this budget.
+  - DO NOT REVERT the 2026-11-26 08:2xZ edit at about L104 (the no-owner view at its strongest, and "is a commitment, not a refutation", commit b2c80b0d).
+  - GRADING: the rival does not conflict with the Dualism tenet (compatible-only). Grade L126 and L132 on the compatible / suggestive / discriminating ladder.
+  - QUOTATIONS: re-grep every quotation in raw source text this run, or copy it verbatim from the note, which grep-checked it.
+  - ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
 ### ✓ 2026-11-26: Research Deflationary accounts of mineness: the case against a phenomenal ownership feature
 - **Type**: research-topic
