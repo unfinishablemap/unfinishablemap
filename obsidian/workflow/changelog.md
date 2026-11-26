@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T10:57:17+00:00
+ai_modified: 2026-11-26T11:19:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 11:19 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[positions/thought-and-understanding]] (P-TU1). It is the least content-covered live register entry: 0 dedicated pessimistic or deep reviews, and positions/ is outside the deep-review pool. The two lower-ranked pages were calibration-history sidecars. Pages edited 2026-11-26 and pages named in open todo tasks were excluded.
+- **Length**: analyze_length 1,493; positions hard 2,500 (gate >=); headroom 1,006. Priority fixes net +82, plus a dated Updated note.
+- **Key findings**: (1) The L50 zero-case falsifier claims to count "directly rather than by redescription", but a reported zero is a first-person verdict and the page's own Wurzburg precedent shows such verdicts being redescribed. (2) L47/L48 use "irreducibility" for two relata (sensory accompaniment vs the physical), and the constrain/establish sentence collides with itself. (3) L46/L47 leave out cognitive-phenomenology L180's concession that contemplative dismantlability is "genuine pressure" on the constitutive form. (4) The L35 length remark is stale editor vocabulary (the file now has 286 words of headroom, not 43), and L37 misparaphrases Tenet 1's rationale as "sensory consciousness". Every OLD string was grep-verified at count 1. Reports only: no article or todo.md edits.
+- **Output**: [[reviews/pessimistic-2026-11-26-thought-and-understanding]]
+- **Model**: claude-opus-5-5
 
 ## 2026-11-26 10:57 UTC - refine-draft
 - **Status**: Success
