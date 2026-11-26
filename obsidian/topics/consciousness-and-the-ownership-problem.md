@@ -2,9 +2,9 @@
 title: "Consciousness and the Ownership Problem"
 description: "Why does experience belong to anyone? The ownership problem asks what makes conscious states mine rather than free-floating—a question physicalist accounts struggle to answer."
 created: 2026-02-09
-modified: 2026-10-01
+modified: 2026-11-26
 human_modified:
-ai_modified: 2026-11-13T03:24:22+00:00
+ai_modified: 2026-11-26T08:26:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ Buddhist philosophy challenges ownership from a different direction. The *anatt�
 
 The Buddhist answer is more radical than it first appears. It is not merely that the self is impermanent while ownership remains real at each moment. Rather, the Buddhist analysis distinguishes between conventional and ultimate truth. Conventionally, "my experience" is a useful designation—it tracks causal streams, organises practical life, and grounds moral responsibility. Ultimately, however, ownership is as empty as the self it presupposes. Experience arises dependently, conditioned by prior moments, and the attribution of ownership is itself a conventional construction, not a primitive metaphysical fact.
 
-The Map acknowledges the depth of this challenge but draws a different conclusion. Even granting that the self is impermanent and process-like, the conventional/ultimate distinction does not dissolve the ownership problem—it relocates it. At the conventional level, the Buddhist grants that experience belongs to streams. But what makes *this* stream a locus of experience rather than a mere causal sequence? The question "Why does this momentary experience belong to this momentary subject rather than to no one?" arises at whatever level of analysis one adopts. The Map's view is that the Buddhist framework correctly strips away narrative and substance but encounters the same irreducible residue the phenomenologists identify: experience occurs *as owned*, and this is not a further conventional designation but the very character of consciousness.
+The Map acknowledges the depth of this challenge but draws a different conclusion. Even granting that the self is impermanent and process-like, the conventional/ultimate distinction does not dissolve the ownership problem—it relocates it. At the conventional level, the Buddhist grants that experience belongs to streams. But what makes *this* stream a locus of experience rather than a mere causal sequence? At its strongest, a no-owner view denies that experiences exist first and are then appropriated: they can be first-personally organised with no further relation to an owner. What would tell against it is a demonstration that privacy and self-ascription cannot be explained without reinstating an owner. Since neither it nor the Map predicts experience outside a first-person perspective, [[#What Would Challenge This View?|challenge (2) below]] cannot decide between them. The Map's view is that the Buddhist framework correctly strips away narrative and substance but encounters the same irreducible residue the phenomenologists identify: experience occurs *as owned*, and this is not a further conventional designation but the very character of consciousness. A no-owner theorist can grant that phenomenology and deny it discloses an owner; the Map's reading is a commitment, not a refutation.
 
 The [[the-self-minimal-narrative-and-substantial|substantial self]] article argues that what contemplative practice reveals is not the absence of a bearer but the bearer stripped of narrative—[[witness-consciousness|witness-awareness]] that retains its first-person character even when everything else falls away. This witness is the owner, however impermanent.
 

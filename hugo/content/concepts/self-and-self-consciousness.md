@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-11-19 17:07:57+00:00
+ai_modified: 2026-11-26 08:26:40+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ concepts:
 - '[[illusionism]]'
 - '[[mine-ness]]'
 created: 2026-01-14
-date: &id001 2026-11-19
+date: &id001 2026-11-26
 description: The minimal self is the structural for-me-ness of every conscious experience,
   not an addition to consciousness. Self-consciousness—the reflexive awareness of
   this structure—resists construction from non-reflexive parts and supports dualist
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:10:00+00:00
-lastmod: 2026-11-19 17:07:57+00:00
+lastmod: 2026-11-26 08:26:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Consciousness is always someone's consciousness. Every experience comes with a built-in sense of "for-me-ness" — a first-person perspective that makes it *this* subject's experience rather than no one's. This **minimal self** is the very form conscious experience takes, not an added feature. And consciousness can become aware of this self-presence — a reflexive capacity called **self-consciousness** that generates one of philosophy's most stubborn puzzles: how can consciousness turn back on itself without already presupposing the very awareness it seeks to explain?
+Consciousness is always someone's. Every experience has "for-me-ness", a first-person perspective that makes it *this* subject's. On [Marie Guillot's split](/concepts/thought-insertion/), [mine-ness](/concepts/mine-ness/) can lapse in depersonalisation and thought insertion while for-me-ness persists. This **minimal self** is the very form conscious experience takes, not an added feature. And consciousness can become aware of this self-presence, a reflexive capacity called **self-consciousness** that generates one of philosophy's most stubborn puzzles: how can consciousness turn back on itself without presupposing the awareness it seeks to explain?
 
 The Unfinishable Map treats both the minimal self and self-consciousness as evidence that consciousness has features no physical description captures. The [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/) — the asymmetry between experiencer and experienced — grounds the minimal self's philosophical significance: "for-me-ness" is the subject-side of a distinction that had to be discovered and that resists dissolution. The circularity at the heart of self-consciousness — that explaining it requires presupposing it — is not a defect in our theorising but a structural feature of what consciousness is.
 
@@ -88,7 +88,7 @@ A fourth dimension cuts across all layers: [the unobservable self](/voids/self-o
 
 ## Mine-ness and Agency as Separable Components
 
-Within the minimal-self layer, two phenomenal features must be distinguished. [Mine-ness](/concepts/mine-ness/) is the for-me character by which experience presents as belonging to a subject. The sense of agency is the character by which a thought or action presents as initiated by that subject. Gallagher (2000, 2020) draws the distinction from clinical phenomenology: schizophrenic [thought insertion](/concepts/thought-insertion/) preserves ownership while disrupting agency (the thought occurs in *my* mind but feels produced by someone else). On the Gallagher-style reading, [depersonalisation](/concepts/depersonalisation/) disrupts ownership while sparing the sense of initiation, though active-inference accounts describe a disturbed sense of control, making the separation one-way.
+Within the minimal-self layer, two phenomenal features must be distinguished. [Mine-ness](/concepts/mine-ness/) is the felt character by which experience presents as belonging to a subject. The sense of agency is the character by which a thought or action presents as initiated by that subject. Gallagher (2000, 2020) draws the distinction from clinical phenomenology: schizophrenic [thought insertion](/concepts/thought-insertion/) preserves ownership while disrupting agency (the thought occurs in *my* mind but feels produced by someone else). On the Gallagher-style reading, [depersonalisation](/concepts/depersonalisation/) disrupts ownership while sparing the sense of initiation, though active-inference accounts describe a disturbed sense of control, making the separation one-way.
 
 Most of this article's claims about "for-me-ness" and "first-personal givenness" sit at the *mine-ness* layer rather than the agency layer. Ego-dissolution evidence concerns mine-ness; the bidirectional-interaction argument concerns agency; the indexical-identity argument concerns mine-ness as the phenomenal anchor and haecceity as its diachronic correlate. The distinction matters because each feature has its own falsifying scenario: perfect co-variation of content and mine-ness would defeat the mine-ness reading without touching the agency reading, and vice versa. This is phenomenal feature decomposition, not a commitment about how many subjects there are; the [evidential-status-discipline](/project/evidential-status-discipline/) applies to both layers.
 

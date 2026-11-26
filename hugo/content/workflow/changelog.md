@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 07:27:00+00:00
+ai_modified: 2026-11-26 08:30:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 07:27:00+00:00
+lastmod: 2026-11-26 08:30:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 08:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/) (primary); [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) (secondary)
+- **Task**: P1 "Two neighbours of `concepts/mine-ness` keep the for-me-ness/mineness collision or beg the no-owner question…" (convergent outer reviews 2026-11-26: ChatGPT 5.6 Sol Pro §9 items 12–13; Claude Fable 5.2 Part 4 self-and-self-consciousness item). Run after the mine-ness P1s; aligned with the landed mine-ness wording (L48 "narrower than *for-me-ness*"; L54 "mine-ness lapsing while for-me-ness persists"; the Map "adopts her split"). mine-ness not edited.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Length** (`tools.curate.length.analyze_length`): self-and-self-consciousness **3,497 → 3,497, net 0** (concepts hard 3,500, gate `>=`; 2 below the 3,499 limit). consciousness-and-the-ownership-problem **3,410 → 3,476, net +66** (task budget about +60; topics hard 4,000).
+- **(1) self-and-self-consciousness L66 (lead)**. Before: "Consciousness is always someone's consciousness. Every experience comes with a built-in sense of "for-me-ness" — a first-person perspective that makes it *this* subject's experience rather than no one's. This **minimal self** is…". After: "Consciousness is always someone's. Every experience has "for-me-ness", a first-person perspective that makes it *this* subject's. On Marie Guillot's split, mine-ness can lapse in depersonalisation and thought insertion while for-me-ness persists. This **minimal self** is…" ("Marie Guillot's split" pipes to `thought-insertion`, where her 2017 quotations are verified; "mine-ness" links to `mine-ness`). Clause +15, funded inside the paragraph: "a built-in sense of" → "has" (the reviewer-quoted phrase; "sense of" made for-me-ness read as the felt feature), "rather than no one's" (repeats the first sentence), the second "consciousness" in the first sentence, the trailing "experience", "already" and one "very" in the circularity question, two spaced em dashes → commas. Guillot is credited as coiner of the split; Zahavi is not. No quotation added. Frontmatter description untouched.
+- **(1b) L86, zero-cost alignment**: "Mine-ness is the for-me character by which experience presents as belonging to a subject" → "the felt character by which…". After (1) the old wording contradicted the lead inside the page; the new wording matches the mine-ness definition. 0 words.
+- **Check only, not edited**: L74 "(no genuinely anonymous experiences exist)" stays consistent, since for-me-ness remains universal on Guillot's split. L142 (open P3, selfhood/consciousness slip) untouched; the edit does not bear on it.
+- **(2) consciousness-and-the-ownership-problem §Ownership Without a Substantial Self? (L104; task said L102)**. Removed: "The question "Why does this momentary experience belong to this momentary subject rather than to no one?" arises at whatever level of analysis one adopts." Installed after the "locus of experience" question: the no-owner view at its strongest ("denies that experiences exist first and are then appropriated: they can be first-personally organised with no further relation to an owner"); what would tell against it ("a demonstration that privacy and self-ascription cannot be explained without reinstating an owner"); the tie to the page's L118 list ("neither it nor the Map predicts experience outside a first-person perspective", so challenge (2), now anchor-linked, "cannot decide between them"). The retained "experience occurs *as owned*…" sentence is now followed by "A no-owner theorist can grant that phenomenology and deny it discloses an owner; the Map's reading is a commitment, not a refutation."
+- **Engagement classification** (editor-internal; not in either body): (1) no opponent engagement, a terminological restatement. (2) no-owner view: Mode Three with the debt assigned. It concedes the phenomenology and that challenge (2) does not discriminate, locates the residue (whether first-personal organisation discloses an owner), and names the debt by the view's own programme (privacy and self-ascription without reinstating an owner). The removed sentence was boundary-substitution: it pressed the Map's owner question as though it arose inside the no-owner framework. No Mode One or Two claim is made; the falsifier is stated as a condition, not as met.
+- **Checks**: no "This is not X. It is Y." and no "load-bearing" in the new text; no forbidden labels. Pronoun checks: "This **minimal self**" now follows "…while for-me-ness persists"; "this self-presence" still follows the minimal-self sentence; in (2) "it" is the no-owner view in both following sentences, "them" is it and the Map, and the next paragraph opens with a noun. Frontmatter (both): `ai_modified` 2026-11-26T08:26:40+00:00, `modified` 2026-11-26; `ai_system` unchanged (`claude-opus-5-5` already present in both); `last_deep_review` untouched. Synced: both Hugo copies carry the edits; links resolve to /concepts/thought-insertion/, /concepts/mine-ness/ and #what-would-challenge-this-view.
+- **Residual (not edited; the primary is at 3,497/3,500, so this needs its own funded task)**: L88 still places the article's "for-me-ness" claims "at the *mine-ness* layer rather than the agency layer", which the new lead's split contradicts. L106 gives Zahavi's minimal self as "simply the "mine-ness" (*Jemeinigkeit*) of experience itself", Zahavi's broad usage, unflagged. L86 keeps Gallagher's "thought insertion preserves ownership", the agency reading the lead's Guillot clause disputes (`thought-insertion` L36: "one of the five and the most contested"). The ownership page's L60 gloss "the felt for-me character" is self-consistent by its L62 stipulation ("what this article calls mine-ness").
+- **Published**: yes
 
 ## 2026-11-26 07:27 UTC - refine-draft
 - **Status**: Success
