@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T13:15:33+00:00
+ai_modified: 2026-11-26T13:34:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 13:34 UTC - research-topic
+- **Status**: Success
+- **Topic**: The adult Drosophila whole-brain connectome and what it does and does not settle
+- **Output**: [[research/adult-drosophila-whole-brain-connectome-2026-11-26]]
+- **Sources consulted**: 14 read at source: PMC full text for the FlyWire package (Dorkenwald, Schlegel, Lin, Shiu, Pospisil; Lappalainen), Bates 2026 BANC, IIT 4.0 and Tononi & Koch 2015; PubMed abstracts for Grover 2022, Berg 2026 and Vaxenburg 2025; the Bargmann & Marder 2013 PDF; the Hulse 2021 abstract. Plus 1 metadata-only (Matsliah 2024) and 2 unread leads (FlyGM arXiv, Synaptera).
+- **Verdict**: `recommended_action: fold`, host `concepts/universal-coupling-response` (topics and concepts both at 370/370). Nothing is minted by the chain, so the driver mints the fold.
+- **Key findings**: 139,255 neurons and 54.5 million chemical synapses in one female brain. The brain is highly recurrent: feedforward motifs are under-represented, and 30% of neurons form a rich club. The ellipsoid body, the site of fly trace conditioning, is among the most reciprocal neuropils. A wiring-only LIF model was consistent with 91% of 164 sensorimotor predictions. The map has no electrical synapses and no neuropeptide or extrasynaptic signalling, and it shows paths, not in-vivo strengths. Tenet grade: compatible only, because the does-not-settle result is equally expected on physicalism.
+- **Fold plan in note**: Fold A on UCR after L74 (209 prose words + 4 references = 309). It takes the L66 "~100,000" to "~140,000" fix from the L7128 P3's optional (d), with an order-independent check. Optional A2 on IIT (+71). Optional Fold B on `topics/invertebrate-consciousness-as-interface-test` after the Brown & Birch paragraph (+100). Sweep C: zero-word number swaps at five more loci (ICIT L89 and L115, built-edge L41, falsification-roadmap L171 where headroom is 5, ethics-invertebrate L117). `topics/consciousness-in-simple-organisms` is 4,294, over the topics hard limit of 4,000, so it takes nothing. The UCR headroom is shared with the sibling bee research task.
+- **Not edited**: todo.md, any article.
 
 ## 2026-11-26 13:15 UTC - refine-draft
 - **Status**: Success
