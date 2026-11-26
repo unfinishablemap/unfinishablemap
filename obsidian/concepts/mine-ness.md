@@ -4,7 +4,7 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-02-24
 modified: 2026-11-26
 human_modified:
-ai_modified: 2026-11-26T06:58:54+00:00
+ai_modified: 2026-11-26T07:10:20+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -73,7 +73,7 @@ The case for treating mine-ness as a distinct feature rests on its **dissociabil
 
 Anna Ciaunica and colleagues describe DPD as a crack in a normally transparent window. On the Map's reading, the window's transparency is its mine-ness: ordinarily we see *through* it to the world. When it cracks the window becomes partly visible—mine-ness becomes a noticed absence rather than an unnoticed presence, and subjects report a fracture between an "observing self" and an "observed self." The pathology converts a transparent feature into an opaque one without destroying consciousness itself.
 
-DPD is also one of the cleanest cases where the [[discrimination-problem]] engages at the *phenomenal-feature level* rather than at the metaphysical-zombie level. The discrimination problem, in its general form, asks whether functional duplicates can differ in their phenomenology. DPD supplies the within-subject version: the same subject, with much first-order content available, reports the for-me character degraded. The discriminator the framework names — what distinguishes "experience with mine-ness" from "functionally similar processing without mine-ness" — is here visibly *within* the phenomenology, not behind it. That makes separability the crux of the framework's most tractable application: a phenomenal feature reported as varying while contents stay largely fixed.
+DPD is also, on the Map's reconstruction, a within-subject case of the [[discrimination-problem]] at the level of a phenomenal feature: the same subject reports mine-ness degraded while much sensory and cognitive content persists.
 
 ### Thought Insertion
 
@@ -81,15 +81,17 @@ In schizophrenic thought insertion, patients locate a thought in their own mind 
 
 ### Contemplative Dissolution
 
-Buddhist *anattā* (no-self) practice systematically searches for [[pudgalavada|the owner of experience]] and fails to find it. Each element of experience—body, sensation, perception, mental formations, consciousness—is examined, and for each the sense of "mine" is found to be impermanent and unfixable. Across many traditions—Theravāda insight meditation, certain Advaita Vedānta witness practices, varieties of Zen—advanced practitioners report states in which experience continues without a felt sense of "someone experiencing it." Unlike DPD, this is usually described as peaceful or liberating. The [[comparative-phenomenology-of-meditative-traditions]] article surveys the cross-cultural data.
+Buddhist *anattā* (no-self) practice systematically searches for [[pudgalavada|the owner of experience]] and fails to find it. Each element of experience—body, sensation, perception, mental formations, consciousness—is examined, and for each the sense of "mine" is found to be impermanent and unfixable. In Theravāda insight meditation and varieties of Zen, practitioners report states in which experience continues without a felt sense of "someone experiencing it." Advaita Vedānta witness practice differs: what [[comparative-phenomenology-of-meditative-traditions#the-status-of-the-witness|persists there is the witness]]. Unlike DPD episodes, such states are more often welcomed.
 
-The contemplative evidence reinforces the depersonalisation evidence: mine-ness can fade while consciousness continues. Deane, Miller and Wilkinson bring the two approaches under one description using the active inference framework—the self emerges from a "temporally deep generative model," and both DPD and advanced meditation involve its dissolution, by involuntary collapse in the first case and deliberate relaxation in the second. The contemplative data also add something new: the loss of mine-ness is not intrinsically aversive. The same structural absence produces terror when entered involuntarily and equanimity when entered deliberately. This affective dissociation suggests that the *valence* attached to mine-ness's presence or absence is a separate feature again, layered on top of mine-ness itself. [[edge-states-and-void-probes]] documents similar context-dependence at other cognitive limits.
+The contemplative evidence reinforces the depersonalisation evidence: mine-ness can fade while consciousness continues. The overlap between the two is partial. Deane, Miller and Wilkinson trace the experience of selfhood to a "temporally deep generative model" and find "striking experiential similarities and important differences": on their account depersonalisation reflects an inferred loss of control, meditative selflessness a gain. A preregistered survey (Pons et al. 2026) found meditation-triggered and other-triggered depersonalisation-like episodes alike on the Cambridge Depersonalisation Scale but different on every other questionnaire; over a third of meditators had their first episode within 100 hours of practice, and most participants in both groups called their episodes mixed. The loss of mine-ness is neither intrinsically aversive nor intrinsically peaceful, which suggests that its *valence* is a separate feature again, layered on top of mine-ness and varying with context and control. [[edge-states-and-void-probes]] documents similar context-dependence at other cognitive limits.
 
 ### Empirical Caveat
 
-Franz Knappik has argued that DPD symptoms do not necessarily reflect loss of a *single* global mine-ness feature: depersonalisation and derealisation can occur independently, and different modalities may be affected differently, so what we call "loss of mine-ness" may be a family of related losses rather than the failure of a single phenomenal mark. The Map's reply—that even a plural mine-ness leaves *each* form a separable phenomenal feature dissociable from content and agency—survives Knappik only if each type-specific relation is itself phenomenal rather than functional, which his paper does not grant. Plurality then means sub-types (perceptual, cognitive, bodily), not emptiness.
+Franz Knappik's rival account needs no mine-ness feature at all. He criticises explaining DPD by altered "global features of normal consciousness, such as 'mineness'": depersonalisation and derealisation can occur independently, and most symptoms can be understood as impairments of self-relations that mental states have by virtue of their type. The Map's reply—that each such relation is still a separable phenomenal feature—survives Knappik only if each type-specific relation is itself phenomenal rather than functional, which his paper does not grant.
 
 The separability thesis is in principle defeasible. It would be undermined by cases in which mine-ness co-varies *perfectly* with phenomenal content or with the sense of agency—where every disruption to content also disrupts ownership, or every loss of agency also abolishes ownership. The dissociations above, one-way for agency, break that co-variation; so long as they replicate, the separability thesis stands.
+
+Whether what separates is phenomenal is a further question. Roberto Sá Pereira (2026) argues that the for-me-ness view "lacks evidential support beyond the phenomenological descriptions it was built to interpret," and that depersonalisation and related cases have better explanations without it. The charge reaches separable mine-ness too: the dissociations show that something varies, not that it is a phenomenal mark rather than disrupted affective, interoceptive or self-model processing. Reported loss of mine-ness with those processes measured intact would favour the phenomenal reading.
 
 ## Mine-ness and Transparency
 
@@ -119,9 +121,9 @@ The void is the epistemic residue that remains once the [[consciousness-and-the-
 
 ## What Mine-ness is Not
 
-**Mine-ness is not personal identity over time.** Personal identity asks what makes tomorrow's person the same as today's. Mine-ness operates within a single moment: the feature by which this present experience is mine *now*. [[quasi-memory-and-the-circularity-objection|The two come apart cleanly]]. A patient with severe dissociative identity might have intact mine-ness in each moment while diachronic identity is fractured. Conversely, a being with continuous personal identity could lose mine-ness during a depersonalised episode and recover it later.
+**Mine-ness is not personal identity over time.** Personal identity asks what makes tomorrow's person the same as today's; mine-ness is the feature by which this present experience is mine *now*. [[quasi-memory-and-the-circularity-objection|The two come apart cleanly]]: severe dissociative identity might leave mine-ness intact in each moment while diachronic identity fractures, and a continuous person could lose mine-ness in a depersonalised episode and recover it later.
 
-**Mine-ness is not the sense of bodily ownership.** Bodily ownership—the sense that *this body* or *this limb* is mine, manipulable via the rubber hand illusion and similar paradigms—is a *sub-type* of mine-ness applied to the bodily domain. Mine-ness as a general phenomenal feature extends to thoughts, perceptions, and memories that have no bodily location.
+**Mine-ness is not the sense of bodily ownership.** Bodily ownership—the sense that *this body* or *this limb* is mine, manipulable via the rubber hand illusion—is a *sub-type* of mine-ness. Mine-ness in general extends to thoughts, perceptions, and memories with no bodily location.
 
 **Mine-ness is not haecceity.** [[haecceity|Haecceity]] is the *metaphysical* "thisness" of a particular; mine-ness is the *phenomenal* feature by which experience presents as a subject's. The [[vertiginous-question]] is where the two meet.
 
@@ -170,15 +172,17 @@ Predictive processing and self-model accounts give elegant, parsimonious explana
 
 ## References
 
-1. Billon, A. (2023). "What Is It Like to Lack Mineness? Depersonalization as a Probe for the Scope, Nature, and Role of Mineness." In *Self-Experience: Essays on Inner Awareness*. Oxford University Press.
+1. Billon, A. (2023). "What Is It Like to Lack Mineness? Depersonalization as a Probe for the Scope, Nature, and Role of Mineness." In M. García-Carpintero & M. Guillot (Eds.), *Self-Experience: Essays on Inner Awareness* (pp. 314–342). Oxford University Press. https://doi.org/10.1093/oso/9780198805397.003.0014
 1. Ciaunica, A., Charlton, J., & Farmer, H. (2021). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*, 20(1), 1–19. https://doi.org/10.1007/s11097-020-09677-z
 1. Deane, G., Miller, M., & Wilkinson, S. (2020). "Losing Ourselves: Active Inference, Depersonalization, and Meditation." *Frontiers in Psychology*, 11, 539726.
 1. Gallagher, S. (2000). "Philosophical Conceptions of the Self: Implications for Cognitive Science." *Trends in Cognitive Sciences*, 4(1), 14-21.
 1. Gallagher, S. (2012). "Multiple Aspects in the Sense of Agency." *New Ideas in Psychology*, 30(1), 15-31.
 1. Heidegger, M. (1927/1962). *Being and Time*. Trans. Macquarrie & Robinson. §9 (Jemeinigkeit).
-1. Knappik, F. (2022). "No Need for Mineness: Depersonalization/Derealization Disorder and Mental State Types." *Phenomenology and the Cognitive Sciences*.
+1. Knappik, F. (2022). "No Need for Mineness: Depersonalization/Derealization Disorder and Mental State Types." *Phenomenology and the Cognitive Sciences*, 24(2), 411–435 (online 17 December 2022; issue 2025). https://doi.org/10.1007/s11097-022-09872-0
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-1. Zahavi, D. (2005/2014). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Pons, E., Galante, J., Van Dam, N. T. & Lindner, A. (2026). "A cross-sectional survey on depersonalization/derealization and meditation-induced alterations of the self." *Scientific Reports*, 16, 14673. https://doi.org/10.1038/s41598-026-51014-y
+1. Sá Pereira, R. (2026). "For-me-ness: A Critical Assessment of the Phenomenal Mineness Thesis." *Cognitive Processing*, 27(4), 1307–1326. https://doi.org/10.1007/s10339-026-01383-z
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
 1. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
 1. Zahavi, D. (2017). "Thin, Thinner, Thinnest: Defining the Minimal Self." In *Embodiment, Enaction, and Culture*, ed. C. Durt, T. Fuchs, & C. Tewes. MIT Press.
 1. Zahavi, D. & Parnas, J. (1998). "Phenomenal Consciousness and Self-Awareness: A Phenomenological Critique of Representational Theory." *Journal of Consciousness Studies*, 5(5-6), 687-705. "Completely irrelational" at p. 696.
