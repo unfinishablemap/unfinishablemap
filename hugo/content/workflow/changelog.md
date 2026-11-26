@@ -1,14 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 14:06:00+00:00
+ai_modified: 2026-11-26 15:57:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 14:06:00+00:00
+lastmod: 2026-11-26 15:57:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 16:19 UTC - deep-review
+- **Status**: Success
+- **File**: [erasure-void](/voids/erasure-void/)
+- **Word count**: 2,807 → 2,919 (+112; voids hard 3,000, gate `>=`)
+- **Critical issues addressed**: 12. (1) "Gertler 2003" is really Nikolinakos 2004, *Phil Stud* 119(3):315-342. The DOI was right but the author was wrong; Crossref has no Gertler item in vol. 117. (2) The "fragmentary character" quotation could not be verified (abstract withheld by the publisher; Springer, PhilPapers and JSTOR blocked), so it was removed. (3) The Dualism paragraph claimed anosognosia favours dualism and that identity theory finds it "puzzling". This misstated the opponent, contradicted the page's own L54 and the Map's anosognosia page ("should not present anosognosia as a dualist datum"), and broke [P-V3](/positions/voids-as-evidence/#p-v3). It now grades the void *compatible, and no higher*. (4) The unsourced normal-ageing claim ran against Gifford et al. 2014, and is replaced with that finding plus "empirical reach thins outside pathology". (5) Kruger & Dunning's "often" was restored. (6) The Michel 2024 quotation was completed with "of visual deficits", and the Map's extension of it is now labelled. (7) "Vision's absence is instantly catastrophic" contradicted the page's own Anton case and Michel. (8) The report-latency sentence's "unlike erasure … from outside" contradicted L74 and L107. (9) The CAM's originator, Agnew & Morris 1998, is now cited. (10) "Not selective failure but parallel decline" ran against the model's own heterogeneity finding, and the unsourced later-stage claim is replaced with Michel's verified sentence. (11) The SEP entry is by Frise 2023, not Bernecker & Michaelian; it was an orphan and is removed, along with orphan Ricoeur and Nietzsche. (12) The Croy 2012 quotation is from its introduction's literature summary, not from its 32-adult sample, and is reframed.
+- **Medium issues addressed**: 9 (post-viral "usually"; "strictly superior" → "outperforms"; olfactory first-step claim scoped to the congenital case; "healthy" → "general population"; coherence-over-accuracy hedged; Occam paragraph recast as illustration; three not-X-but-Y constructions; Adams end page 231; Nuhfer subtitle)
+- **Enhancements made**: 2 (Adams: the unaware had worse cognition; Agnew & Morris heterogeneity plus Michel's AD-versus-Anton contrast)
+- **Engagements**: identity theorist moved from boundary substitution to Mode Three (honest concession; the void does not discriminate). Dunning-Kruger critics: Mode Three, unchanged.
+- **Not reached**: the Nikolinakos 2004 text; the full text of Wu & Dunning's RGP paper (Levy credited via their 2018 *Scientific American* essay).
+- **Coordination**: L92 (`## Distinguishing from Related Voids`) and its list untouched, so the vitality-form-void cross-review link still has its place.
+- **Output**: [deep-review-2026-11-26-erasure-void](/reviews/deep-review-2026-11-26-erasure-void/)
+
+## 2026-11-26 15:57 UTC - research-topic
+- **Status**: Success
+- **Topic**: Ryle's regress against volitions and the Map's volitionist theory of action
+- **Output**: [ryles-regress-against-volitions-2026-11-26](/research/ryles-regress-against-volitions-2026-11-26/)
+- **Sources consulted**: 18. Nine were read in full or grepped in raw text: Ryle 1949 ch. 3 (archive.org Hutchinson djvu text, pp. 62–69), SEP *Agency* (Schlosser), SEP *Incompatibilist Theories* (Clarke, Capes & Swenson), SEP *Action* 2012 archive plus its notes (Wilson & Shpall), SEP *Action* 2023, NDPR Griffith 2009, Steward 2000 (White Rose PDF), Weatherson 2016 (St Andrews PDF), and Locke *Essay* II.xxi.25 (1824 djvu). The rest were Crossref metadata and chapter abstracts (Lowe 2008, McCann 1972/1974/1986/1998, Ginet 1990, Weir 1985) and the Cambridge Core page for Ginet. Not reached: the Ginet, McCann, Lowe, Hornsby and O'Shaughnessy book texts (Cloudflare on PhilPapers and Oxford Academic; Google Books quota 0; archive.org lending copies restricted).
+- **Verdict**: `recommended_action: fold`, host `topics/philosophy-of-action-under-dualism`. Topics and concepts are at 370/370, so the chain mints nothing.
+- **Key findings**: The regress is Ryle's fourth objection (1949: 67): a dilemma plus an escape clause, hinged on "in the sense assumed by the theory". The standard intrinsic-actionhood reply (Ginet, McCann; framed as the reply by Schlosser) belongs to non-causal volitionism, and Ginet rejects agent causation. The Map's agent-caused trying ([P-A6](/positions/agency-and-will/#p-a6)) meets the regress one step back. L77's terminus (deny Lowe's acting-premise; the regress ends at a substance whose causing is basic) is the Map's answer, already accepted at synthesis R2; no page names Ryle. Every tenet grades compatible or neutral; the answer is defensive only.
+- **Fold plan in note**: F1 §Volitionism closing paragraph (+270), F2 L77 precision swap (+4), F3 four references (+53): +327 measured, host 2,907 → about 3,234. Optional pointers: P1 phenomenology-of-choice-and-volition §Effort (+65, headroom 230) and P2 [P-A6](/positions/agency-and-will/#p-a6) Would-shift clause plus a dated Updated note (+97, on a register page already past its hard limit).
+- **Side findings**: logical-behaviourism L84 ("not a defence of a Cartesian inner mechanism") understates the commitment, since Ryle files volitions under the ghost myth (p. 63) and [P-A6](/positions/agency-and-will/#p-a6) keeps them; four-category-ontology L57 attributes Griffith's "regress" gloss directly to Lowe 2008: 7. Naming trap: "Ryle's regress" usually means the ch. 2 know-how regress, and the Ginet 1975 reply belongs to that debate.
+- **Not edited**: todo.md, any article.
+
+## 2026-11-26 15:05 UTC - research-topic
+- **Status**: Success
+- **Topic**: Bee object manipulation and observational learning (Loukola et al. 2017)
+- **Output**: [bee-object-manipulation-and-observational-learning-2026-11-26](/research/bee-object-manipulation-and-observational-learning-2026-11-26/)
+- **Sources consulted**: 16. Eight were read in full and grepped: Loukola 2017 (the Science reprint, including the editor's summary), Alem 2016 (PMC), Galpayage Dona 2022 (PDF), Wen 2024 eLife (PMC), Chittka 2025 (PMC), Procenko 2026 (PDF), Lu 2024 (PMC) and the 05-19 research note. The rest were PubMed abstracts and Crossref metadata. *The Mind of a Bee* was not read.
+- **Verdict**: `recommended_action: fold`, host `concepts/universal-coupling-response`. Topics and concepts are both at 370/370, so the chain mints nothing and the driver mints the fold.
+- **Key findings**: The primary authors call ball transport and string pulling "object manipulation", never tool use. The "tool use" label comes from *Science*'s editor's summary ("Very clever bees use tools") and from the book's publisher copy (search-relayed). Alem 2016 traces string pulling to associative mechanisms without insight. Wen et al. 2024 (eLife, with Chittka as co-author) find image matching rather than means-end understanding, and the eLife assessment grades that evidence "convincing". Chittka et al. 2025 say the individual lines of evidence are not "formal demonstrations of consciousness". Every tenet: compatible only.
+- **Fold plan in note**: UCR A1 swaps "tool use" for "object manipulation" at L40 (0 words). A2 appends 112 words to the end of the L70 Functional markers paragraph, plus 3 references, for +198 measured; that is two paragraphs above the connectome fold's anchor. A-short (+89) is the fallback. Sibling swaps: architectural-adequacy L69 (0 words) and, optionally, invertebrate-consciousness-as-interface-test L61 (−1). Optional Fold B on cumulative-culture L136 is +88.
+- **Side findings**: `research/animal-consciousness-2024-2025-literature-2026-05-19` L56 carries a Chittka 2025 "quote" that is absent from the PMC full text, and its L48 author list is wrong (it should be Chittka, Skeels, Dyakova & Janbon). The brief's "Solvi, Baciadonna & Chittka 2020" conflates the 2016 emotion paper with the 2020 cross-modal paper (Solvi, Gutierrez Al-Khudhairy & Chittka). C. J. Perry and Cwyn Solvi are the same author.
+- **Not edited**: todo.md, any article.
 
 ## 2026-11-26 14:06 UTC - optimistic-review
 - **Status**: Success

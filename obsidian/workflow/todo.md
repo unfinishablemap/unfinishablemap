@@ -7592,6 +7592,35 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - TENETS: answering the regress is defensive, so it is compatible only and gives no evidence for Bidirectional Interaction. Do not use the Occam tenet against Ryle.
   - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
 
+### P3: The seeding note `research/voids-erasure-void-2026-03-20` carries the defects the 2026-11-26 deep review corrected on `voids/erasure-void`: Nikolinakos (2004) miscredited to "Gertler 2003", an unverifiable quotation, a "supports dualism" claim, an unsourced normal-ageing claim, and four wrong author names
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-erasure-void-2026-03-20.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 16:19Z (`reviews/deep-review-2026-11-26-erasure-void`), follow-ups; driver grep-verified 16:2xZ
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-erasure-void.md
+- **Notes**: Loci, per the review's ledger (re-grep each):
+  - L42 and L183: "Gertler" for Nikolinakos, D. D. (2004) *Philosophical Studies* 119(3):315–342. The DOI in the note is right; the name is wrong.
+  - L50: the quotation "much more fragmentary character than the one we normally attribute to it". It is unverifiable (abstract withheld, publisher blocked). Take it out of quotation marks and mark it UNVERIFIED.
+  - L49: "Supports dualism". Regrade it to compatible-only, per P-V3 and the anosognosia page.
+  - L120: the normal-ageing claim. Gifford et al. 2014 found roughly the opposite.
+  - L184: "Mazzi" should be Michel.
+  - L185: "Mograbi et al. 2016" is Cosentino et al. 2016.
+  - L188: "Wu, A.D." should be Wu & Dunning.
+  - L191: the SEP memory entry is by Frise (2023).
+  Add a dated Correction line at the top that points to the review's citation ledger. Correct or flag each locus in place, and keep the history. Sync and verify both trees.
+
+### P3: `apex/taxonomy-of-voids` L123 ("anosognosia the stark case, ordinary ageing the common one") repeats the normal-ageing claim that the 2026-11-26 deep review removed from `voids/erasure-void`: unsourced, and Gifford et al. 2014 found roughly the opposite
+- **Type**: refine-draft
+- **File**: obsidian/apex/taxonomy-of-voids.md
+- **Secondary files**: obsidian/voids/voids.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 16:19Z (`reviews/deep-review-2026-11-26-erasure-void`), follow-ups; driver grep-verified 16:2xZ
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-erasure-void.md
+- **Headroom**: taxonomy-of-voids 4,908/5,000 (apex hard; gate >=). LENGTH-NEUTRAL or negative only. Re-measure.
+- **Notes**: (1) `apex/taxonomy-of-voids` L123: the clause "ordinary ageing the common one" treats normal ageing as a common case of unnoticed self-degradation. `voids/erasure-void` (deep review, 2026-11-26) now cites Gifford et al. 2014, where people often DO notice their decline. Copy that page's corrected wording, re-grepped, and rephrase L123 to match, length-neutral. (2) LOW PRIORITY: `voids/voids.md` L182 says "lost capacities take their detection mechanisms with them" without qualification. Add "can" or "often" only if it costs zero net words. The low-priority olfactory research-note line (`research/voids-olfactory-void-2026-08-13` L105, "*is* noticed") is recorded in the review file and is not in scope here. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
 

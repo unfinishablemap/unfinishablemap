@@ -5,6 +5,18 @@ ai_modified: 2026-11-26T15:57:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-26 16:19 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/erasure-void]]
+- **Word count**: 2,807 → 2,919 (+112; voids hard 3,000, gate `>=`)
+- **Critical issues addressed**: 12. (1) "Gertler 2003" is really Nikolinakos 2004, *Phil Stud* 119(3):315-342. The DOI was right but the author was wrong; Crossref has no Gertler item in vol. 117. (2) The "fragmentary character" quotation could not be verified (abstract withheld by the publisher; Springer, PhilPapers and JSTOR blocked), so it was removed. (3) The Dualism paragraph claimed anosognosia favours dualism and that identity theory finds it "puzzling". This misstated the opponent, contradicted the page's own L54 and the Map's anosognosia page ("should not present anosognosia as a dualist datum"), and broke P-V3. It now grades the void *compatible, and no higher*. (4) The unsourced normal-ageing claim ran against Gifford et al. 2014, and is replaced with that finding plus "empirical reach thins outside pathology". (5) Kruger & Dunning's "often" was restored. (6) The Michel 2024 quotation was completed with "of visual deficits", and the Map's extension of it is now labelled. (7) "Vision's absence is instantly catastrophic" contradicted the page's own Anton case and Michel. (8) The report-latency sentence's "unlike erasure … from outside" contradicted L74 and L107. (9) The CAM's originator, Agnew & Morris 1998, is now cited. (10) "Not selective failure but parallel decline" ran against the model's own heterogeneity finding, and the unsourced later-stage claim is replaced with Michel's verified sentence. (11) The SEP entry is by Frise 2023, not Bernecker & Michaelian; it was an orphan and is removed, along with orphan Ricoeur and Nietzsche. (12) The Croy 2012 quotation is from its introduction's literature summary, not from its 32-adult sample, and is reframed.
+- **Medium issues addressed**: 9 (post-viral "usually"; "strictly superior" → "outperforms"; olfactory first-step claim scoped to the congenital case; "healthy" → "general population"; coherence-over-accuracy hedged; Occam paragraph recast as illustration; three not-X-but-Y constructions; Adams end page 231; Nuhfer subtitle)
+- **Enhancements made**: 2 (Adams: the unaware had worse cognition; Agnew & Morris heterogeneity plus Michel's AD-versus-Anton contrast)
+- **Engagements**: identity theorist moved from boundary substitution to Mode Three (honest concession; the void does not discriminate). Dunning-Kruger critics: Mode Three, unchanged.
+- **Not reached**: the Nikolinakos 2004 text; the full text of Wu & Dunning's RGP paper (Levy credited via their 2018 *Scientific American* essay).
+- **Coordination**: L92 (`## Distinguishing from Related Voids`) and its list untouched, so the vitality-form-void cross-review link still has its place.
+- **Output**: [[reviews/deep-review-2026-11-26-erasure-void]]
+
 ## 2026-11-26 15:57 UTC - research-topic
 - **Status**: Success
 - **Topic**: Ryle's regress against volitions and the Map's volitionist theory of action
