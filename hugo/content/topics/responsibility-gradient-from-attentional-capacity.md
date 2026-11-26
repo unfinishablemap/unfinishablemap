@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-11-13 20:56:11+00:00
+ai_modified: 2026-11-26 20:28:03+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[reasons-responsiveness]]'
 - '[[working-memory]]'
 created: 2026-02-19
-date: &id001 2026-11-13
+date: &id001 2026-11-26
 description: Moral responsibility is not binary but graded by attentional capacity—the
   conscious bandwidth available for deliberation, foresight, and self-regulation shapes
   how much desert an agent bears.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-13 20:56:11+00:00
-lastmod: 2026-11-13 20:56:11+00:00
+lastmod: 2026-11-26 20:28:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,6 +71,8 @@ Conditions like ADHD, acute stress, sleep deprivation, and addiction all reduce 
 The range of the attentional field—how broadly consciousness can survey options, consequences, and affected parties—varies between agents and within the same agent across time. Narrow attentional scope produces what the [duress article](/topics/consciousness-and-moral-agency-under-duress/) calls *tunnel vision*: the agent attends to immediate demands while broader moral considerations fall outside the phenomenal field entirely.
 
 Scope affects sourcehood. An agent whose attention is structurally confined to the immediate situation—whether by threat, addiction, or chronic poverty—did not choose to ignore distant consequences. Those consequences were never phenomenally available for selection. "Phenomenally available" is this article's term. Levy's condition requires only that information be *personally available*, an informational state he distinguishes from phenomenal consciousness.
+
+Desert may also depend on the adequacy of the option set presented, not only on the selection made within it; on a [selection-only channel](/concepts/selection-only-channel/) the agent inherits that set rather than authoring it, and so is exposed to [menu luck](/concepts/basic-argument-and-constitutive-luck/#menu-luck).
 
 ### Flexibility
 

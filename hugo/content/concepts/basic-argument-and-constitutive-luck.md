@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-26
-ai_modified: 2026-10-26 14:39:04+00:00
+ai_modified: 2026-11-26 20:28:03+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[rollback-argument-against-agent-causation]]'
 - '[[compatibilist-symmetry-challenge]]'
 created: 2026-10-26
-date: &id001 2026-10-26
+date: &id001 2026-11-26
 description: 'Galen Strawson''s Basic Argument reaches a non-physical agent as hard
   as a brain. The Map''s agent-causal reply rejects its second premise and ends at
   the rollback''s primitive: character is self-shaped.'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-26 14:39:04+00:00
-lastmod: 2026-10-26 14:39:04+00:00
+lastmod: 2026-11-26 20:28:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,6 +111,14 @@ On the Map's reading, the two concessions are one, seen from two sides:
 
 The Map can say *who* originates. It has no further answer to why the originator's settling went this way, nor to why the originator is such as to settle at all. Both questions end at the [bare exercise of the power](/concepts/quantum-indeterminacy-free-will/). [The divided-will article](/topics/the-divided-will/#luck-objection) treats the akratic form of present luck.
 
+## Menu Luck: Who Sets the Alternatives {#menu-luck}
+
+A third question stands beside the two in the table above: granting that the agent settles which option is actualised, who set the options? On a [selection-only channel](/concepts/selection-only-channel/) the brain supplies the candidate set at each event and mind contributes nothing to it; the probability-bias reading the Map also keeps open inherits the set too, since it only reweights the brain's candidates. An external AI review of the Map (ChatGPT, October 2026) called the resulting exposure "menu luck" or "option-set luck". Both labels are the reviewer's coinages; searches found neither in the philosophical literature. The phenomenon has older names. Nagel lists, beside constitutive luck, "luck in one's circumstances—the kind of problems and situations one faces", and asks how one can be responsible "for the circumstances that pose one's moral choices" (Nagel 1976: 140, 146). For Levy, who presses present luck on compatibilists too, "Which considerations come to mind is – apparently – a matter of luck for an agent" (Levy 2011: 90, as quoted in Garrett 2013: 213). Ronald Dworkin's "option luck" is nearly the contrary notion: luck in a risk one accepted and "might have declined" (as quoted in Nelkin 2025, §4.2.3), not in a set one never chose.
+
+Menu luck is a composite of lucks this page already concedes. Constitution limits what can be conceived, circumstance fixes what the situation offers, and chance in the generator decides what comes to mind. Three authorships therefore come apart. *Token* authorship, which option is actualised, is what agent causation claims. *Menu* authorship, which options are on the table, is what the selection-only channel denies at the event and grants only recursively, since present selections curate future candidate sets through attention. *Character* authorship is the self-shaping [conceded below](#what-the-map-can-claim). So desert tracks the luck of which options occur as well as the choice among them.
+
+The one new element is structural. Daniel Dennett, a compatibilist, sketched for libertarians a model that places the indeterminism at an earlier stage of deliberation, in which considerations come to mind, and keeps the agent's control in evaluating them (Dennett 1978, ch. 15). Mele (1995, ch. 12; 2006: 9–14) and Laura Ekstrom developed it most fully. Ekstrom's earlier account made forming a preference the act of an agent who is her preferences and reflective beliefs together with the faculty that forms them (Clarke, Capes and Swenson 2026, §2.1). On such views the candidates are the agent's own beliefs, even where chance decides which of them arrive. A selection-only channel cannot say this, since mind contributes nothing to its candidate set; it pays the cost in full. Its one reply is recursive, with the shape and the limit of the self-shaping reply: the first menu, like the initial character, was not chosen, and the curating power is itself constitutive luck. The [responsibility gradient's](/topics/responsibility-gradient-from-attentional-capacity/) scope dimension already carries the practical consequence: options never phenomenally available were not refused.
+
 ## What the Map Can Claim {#what-the-map-can-claim}
 
 - **Origination, not authorship of powers.** The agent originates its exercises but did not author the powers it exercises. Origination without self-creation is the Map's commitment, not a result, and Istvan argues that it fails.
@@ -147,6 +155,9 @@ The Map can say *who* originates. It has no further answer to why the originator
 
 1. Caruso, G. (2018). Skepticism About Moral Responsibility. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/skepticism-moral-responsibility/
 1. Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press. Ch. 9, pp. 151–184. https://doi.org/10.1093/019515987x.003.0009
+1. Clarke, R., Capes, J., & Swenson, P. (2000, rev. 2026). Incompatibilist (Nondeterministic) Theories of Free Will. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-theories/
+1. Dennett, D. C. (1978). On Giving Libertarians What They Say They Want. In *Brainstorms* (ch. 15). Bradford Books. Not read; described here from secondary sources.
+1. Garrett, B. J. (2013). Review of Neil Levy, *Hard Luck*. *Philosophy in Review*, 33(3), 212–214. https://journals.uvic.ca/index.php/pir/article/view/12413
 1. Hartman, R. J. (2018). Constitutive Moral Luck and Strawson's Argument for the Impossibility of Moral Responsibility. *Journal of the American Philosophical Association*, 4(2), 165–183. https://doi.org/10.1017/apa.2018.18
 1. Istvan, M. A. (2011). Concerning the Resilience of Galen Strawson's Basic Argument. *Philosophical Studies*, 155(3), 399–420. https://doi.org/10.1007/s11098-010-9578-0
 1. Kane, R. (1989). Two Kinds of Incompatibilism. *Philosophy and Phenomenological Research*, 50(2), 219–254. https://doi.org/10.2307/2107958
@@ -154,7 +165,7 @@ The Map can say *who* originates. It has no further answer to why the originator
 1. Levy, N. (2011). *Hard Luck*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199601387.001.0001
 1. Mele, A. R. (1995). *Autonomous Agents*. Oxford University Press. https://doi.org/10.1093/0195150430.003.0012
 1. Mele, A. R. (2006). *Free Will and Luck*. Oxford University Press. https://doi.org/10.1093/0195305043.001.0001
-1. Nagel, T. (1976). Moral Luck. *Proceedings of the Aristotelian Society, Supplementary Volumes*, 50, 137–151. Revised in *Mortal Questions* (Cambridge University Press, 1979), pp. 24–38. https://doi.org/10.1017/CBO9781107341050.005
+1. Nagel, T. (1976). Moral Luck. *Proceedings of the Aristotelian Society, Supplementary Volumes*, 50, 137–151. Revised in *Mortal Questions* (Cambridge University Press, 1979), pp. 24–38. Pages cited are the 1976 paper's. https://doi.org/10.1017/CBO9781107341050.005
 1. Nelkin, D. K. (2004, rev. 2025). Moral Luck. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/moral-luck/
 1. O'Connor, T. (2009). Degrees of Freedom. *Philosophical Explorations*, 12(2), 119–125. https://doi.org/10.1080/13869790902838472
 1. O'Connor, T., & Franklin, C. E. (2022). Free Will. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/freewill/

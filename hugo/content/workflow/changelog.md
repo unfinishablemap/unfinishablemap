@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 20:07:34+00:00
+ai_modified: 2026-11-26 20:30:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 20:07:34+00:00
+lastmod: 2026-11-26 20:30:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 20:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [basic-argument-and-constitutive-luck](/concepts/basic-argument-and-constitutive-luck/) (primary); [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) (secondary)
+- **Task**: P3, fold "menu luck" (ChatGPT outer review 2026-10-28 §2.3; research verdict fold) into the constitutive-luck page, plus a one-sentence menu-adequacy note on the gradient page's Scope.
+- **Research note**: `research/menu-luck-and-option-set-authorship-2026-10-28` (Home decision and draft passage read first)
+- **Original score**: not scored (`scripts/curate.py` is absent)
+- **Length (`analyze_length`)**: primary 2,772 -> 3,327 (concepts hard 3,500; headroom now 172); secondary 3,325 -> 3,365 (topics hard 4,000).
+- **Changes**:
+  - Primary: new `## Menu Luck: Who Sets the Alternatives {#menu-luck}` at L110, between "Where the Basic Argument Meets the Rollback" and "What the Map Can Claim" (now L118). It has three paragraphs. (1) The third question ("who set the options?"). The candidate set is inherited on the strict selection-only reading and also on the probability-bias reading kept live at `selection-only-channel` L129. "Menu luck" / "option-set luck" are named as the reviewer's coinages with no literature use. The antecedents are Nagel's circumstantial luck (1976: 140, 146) and Levy's present luck (2011: 90, as quoted in Garrett 2013: 213). Dworkin's option luck is set apart as nearly the contrary notion. (2) The composite (constitution, circumstance, chance in the generator) and the token / menu / character authorship split; desert tracks which options occur. (3) The structural cost. Deliberative accounts (Dennett 1978 ch. 15, paraphrased; Mele 1995 ch. 12, 2006: 9–14; Ekstrom's earlier account, all via Clarke, Capes and Swenson 2026 §2.1) draw the candidates from the agent's own beliefs. A selection-only channel cannot, so it pays in full. Its recursive reply has the self-shaping reply's limit, and the paragraph links back to the gradient page.
+  - Primary references: added Clarke, Capes & Swenson (2000, rev. 2026); Dennett (1978) marked "Not read"; Garrett (2013). Nagel 1976 entry now says the pages cited are the 1976 paper's.
+  - Secondary: new one-sentence paragraph at L71, closing §Scope (40 words): desert may also depend on the adequacy of the option set presented; links `[[selection-only-channel]]` and `[[basic-argument-and-constitutive-luck#menu-luck|menu luck]]`.
+- **Deviations from the task Notes, with reasons**:
+  - Anchor: wrote `#menu-luck`, not the heading-text form `#Menu Luck: Who Sets the Alternatives`. Hugo renders the explicit id (`<h2 id="menu-luck">`, confirmed in a scratch build), so the heading-text form would sync to the dead `#menu-luck-who-sets-the-alternatives`. The gradient page's own cross-page anchors already use the `{#id}` slug form (`the-divided-will#the-organ-model-test`, `control-theoretic-will#analogy-model-and-ontology`). The synced href is `/concepts/basic-argument-and-constitutive-luck/#menu-luck`, and it resolves in the build.
+  - Locus: the Notes' "apex/consciousness-and-agency L42/L54/L84" are frontmatter lines there. The channel definitions are `concepts/selection-only-channel` L42/L54/L84, which is what the section links. The apex is untouched. Its L95 already reads as recursive menu curation (b161b9532f), and the section describes that in its own words ("present selections curate future candidate sets through attention"), without quoting or linking it.
+  - SEP year: the incompatibilist-theories entry had a substantive revision on 2026-11-17, so it is cited as 2026, not the research note's 2021. Every passage used was re-read in the current revision. The current entry also reports that Ekstrom (2019) moved to a centered view, so the page says "Ekstrom's earlier account".
+  - Dworkin: no year-cite and no Dworkin entry. The verbatim fragment "might have declined" is quoted via Nelkin 2025 §4.2.3, which was re-read raw this run. The secondary-only page numbers (1981: 293; 2000: 73) are not used.
+  - Escape routes: the research note's "moving the indeterminism" route was not written, since relocating indeterminism does not by itself give menu authorship. The route written is the one SEP §2.1 supports. On deliberative views the candidates are the agent's own nonoccurrent beliefs, and Ekstrom identifies the agent with her preferences, acceptances and preference-forming faculty.
+  - Length: the section is 487 words against the ~330 planned. The extra covers the coinage statement, the Dworkin contrast, the either-reading calibration and the three-author structural paragraph.
+- **Quote verification this run (raw)**: Nagel 1976 PAS PDF: "luck in one's circumstances—the kind of problems and situations one faces" under the p. 140 running head; "for the circumstances that pose one's moral choices" between the p. 146 and p. 147 heads. The scan's OCR renders the dash as a hyphen, and it is kept as an em dash. Garrett 2013 PDF p. 213: the Levy line, cited "(90)", en dashes as quoted. Garrett metadata (Brian Jonathan Garrett; 33(3): 212–214) taken from the journal landing page. SEP incompatibilism-theories §2.1: "earlier stage of the deliberative process", the "nonoccurrent beliefs come to mind" sentence, the Ekstrom/Mele attributions, "sketched by Daniel Dennett (1978)", and the Ekstrom preference-formation sentences. Nelkin §4.2.3: Dworkin's option-luck fragment.
+- **Harvest-note correction**: the archived harvest note (`workflow/archive/completed-tasks-2026-W44.md` L596) says "0 live hits for 'menu luck' / 'option-set luck' / 'option luck'", which is still true (case-insensitive, all live sections). It does not contain a claim that two pages carry "option luck / brute luck", and no source for that claim was found in the review, the harvest state or the 10-28 loop log. The research note's own rebuttal ("a case-sensitive grep ... returns zero") is wrong for "brute luck". `topics/co-optimization-reply-to-the-correlation-problem` L47 (present since 2026-05-31, so also on 10-28) and `topics/pain-consciousness-and-causal-power` L160 (since 2026-11-19) both use "brute luck" in the everyday sense of an unexplained coincidence, not Dworkin's sense, and need no change. The research note's Summary 2 and Gaps lines still carry the over-strong zero; they were not edited (outside this task's two files).
+- **Orphan checks (surname, year), both directions, primary**: Mele 1995 (2 in text / 1 entry); Mele 2006 (2/1); Levy 2011 (2/1); Levy 2014 (0/0); Nagel 1976 (1/1); Nagel 1979 (0/0 as a separate cite; the reprint sits inside the 1976 entry); Dennett 1978 (1/1); Garrett 2013 (1/1); Clarke, Capes & Swenson 2026 (1/1); Nelkin 2025 (2/1); Ekstrom, Dworkin and Doyle have no year-cites or entries. Secondary: Levy is named without a year and has no entry, which is pre-existing; Levy 2014 (0/0). Pre-existing orphans on the primary, not touched: "Kane's 1996 book" has no Kane 1996 entry, and "Williams 1993, as quoted in Nelkin 2025" has no Williams 1993 entry.
+- **Engagement classification**: the menu-luck objection is conceded in full for desert, and the recursive reply's limit is stated: Mode Three, boundary marked, no refutation claimed. Dennett is labelled a compatibilist; Nagel, Levy, Dennett, Mele and Ekstrom are not enlisted for dualism. Nothing concedes epiphenomenalism, and the following "What the Map Can Claim" bullet (desert, not efficacy) is unchanged.
+- **Frontmatter**: `ai_modified` set from `date -u` on both files (2026-11-26T20:28:03+00:00) and `modified` set to 2026-11-26. `ai_system` was left as it was: `claude-opus-5-5` is already present on both. `last_deep_review` was not touched.
+- **Sync**: `scripts/sync.py` run. Both Hugo copies carry the new text, and the body has no unconverted wikilinks (the remaining `[[` are frontmatter lists). The scratch build renders `id="menu-luck"`, and the gradient page's href points at it.
+- **Published**: yes
 
 ## 2026-11-26 20:07 UTC - refine-draft
 - **Status**: Success
