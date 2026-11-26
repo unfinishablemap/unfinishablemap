@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-26T04:32:55.923036+00:00'
-session_count: 25326
+last_updated: '2026-11-26T05:00:22.455712+00:00'
+session_count: 25327
 cycle_position: 16148
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
@@ -15,7 +15,7 @@ last_runs:
   check-tenets: '2026-11-25T15:36:26.809716+00:00'
   coalesce: '2026-11-26T01:18:23.721236+00:00'
   collect-chatgpt-review: '2026-11-26T04:32:55.923036+00:00'
-  collect-claude-review: '2026-11-25T05:23:34.448524+00:00'
+  collect-claude-review: '2026-11-26T05:00:22.455712+00:00'
   collect-gemini-review: '2026-11-25T05:40:51.519183+00:00'
   combine-outer-reviews: '2026-11-25T06:10:07.658011+00:00'
   commission-chatgpt-review: '2026-11-26T02:07:41.884071+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 801
-  reviews_completed: 8539
+  reviews_completed: 8540
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-25'
-  outcome: success
-  kind: agentic_social
 - task: research-topic
   type: research-topic
   date: '2026-11-25'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: commission
 - task: collect-chatgpt-review
   type: collect-chatgpt-review
+  date: '2026-11-26'
+  outcome: success
+  kind: collect
+- task: collect-claude-review
+  type: collect-claude-review
   date: '2026-11-26'
   outcome: success
   kind: collect

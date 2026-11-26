@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T04:59:28+00:00
+ai_modified: 2026-11-26T05:27:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 2026-11-26 05:27 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 4 Neon ("Deeper analysis", High; Deep Research). Commissioned 04:12:46Z. A dead error turn sits above the live research turn. At 05:04Z, after a fresh load, the panel read "Creating your report..." with research finished; it moved to "Writing your report..." and was complete at 05:14Z ("I've completed your research", stop button gone, one h1-bearing panel, 38,863 chars).
+- **File**: [[reviews/outer-review-2026-11-26-gemini-4-neon]] (subject: Audit mine-ness, `concepts/mine-ness`, reused from the ChatGPT leg; collected by collect-gemini-review with `--model-slug gemini-4-neon`)
+- **Extraction**: the skill's inline-panel DOM walk gave 39,821 chars, which were read in labelled 900-char `javascript_tool` slices and reassembled from the transcript. Five sub-slices tripped the MCP query-string filter even after halving. Two short spans (28 and 56 chars, both statistics parentheticals) were filled from a `get_page_text` pass of the same report. The reassembled body matches the in-page 31-hash (1717466121) and the length. The review file has 5,301 words at collection.
+- **Claims verified**: about 25. Crossref metadata for 14 DOIs (Bradley 2024, Kang 2025, Kammerer 2022, Graziano 2022, López-Silva 2025, Mathieson 2023, Feyaerts & Sass 2024, Lane 2020, Alweiss 2022, Lush 2020, Ciaunica 2022 and 2024, Woźniak 2023, Jenkinson 2020). Europe PMC abstracts: Ciaunica 2022 and 2024, Woźniak 2023, Jenkinson 2020. Full text: Deane 2020 (PMC7673417), Graziano 2022 (PMC9170028), and Billon 2023 from the HAL deposit (deagentivation, and the §7 "purely neurophysiological" challenge, which the Claude processing could not verify through PhilArchive). Map side: `git log -S` traces for the stale strings, plus [[pudgalavada]] L63/L81 and [[thought-insertion]] L54/L106.
+- **Access caveat**: the reviewer says the live page failed to load. It rebuilt the article from research notes, Map review files and the changelog. **6 findings were stale**: "ordinary agency remains intact" (removed 10-09), "the actual phenomenology" (now scoped), the SEP-as-Zahavi quote (fixed), "finds direct support" (removed 10-02), and the "plural for-me-ness" and "bedrock disagreement" strings, which are not on the page.
+- **High-value findings**: 8 survived. Seven converge with ChatGPT and Claude, so they now have three reviewers: L82 constructed quote; the for-me-ness/mineness equivocation; the opacity-to-void slide; L114 "multiplies it"; the calibration asymmetry at L136/L148; the L88 Deane overstatement; deflationary rivals. One is new as a tasked item: **illusionism**. Graziano's attention schema predicts the "presence, never machinery" signature that L136 offers as fitting dualism; all three reviewers mention illusionism and no task covered it. Gemini also supplied the empirical anchor for the structurelessness item: L126 makes bodily ownership a sub-type, and Jenkinson 2020 shows that sub-type decomposes.
+- **Disputed / not tasked**: the pudgalavada pipe (the target page supports it); "meditation supports an abiding subject" and the MPE "undercut" (L86-L88 use meditation for fading); the HCT, neuroimaging and intentional-binding confounds (the page cites none of them); the RHI demand-characteristics dispute (contested, and L126 only says "manipulable"); and Ciaunica 2024, whose null agency result is congenial to the page. Lead only: Feyaerts & Sass 2024 for [[thought-insertion]]'s fifth reading.
+- **Tasks generated**: 0 new. **4 addenda**, to the two P1s and the sources and tenet P2s on this page. They carry the illusionism/AST clause and the Jenkinson anchor (P1 L136, net <= 0), the optional Billon-deagentivation clause at L60 (+4), the Woźniak lead for L114, the Deane "essential subject" caution, Bradley 2024 as the deflationary lead behind Sá Pereira, the L148 predictive-edge grade matching [[thought-insertion]] L106, and Billon §7 now verified. There is also **1 data point** on the NEEDS-HUMAN (pipeline) fetchability entry of 2026-11-14: two of three legs never read the target. parse_tasks active 549 → 549. Every addendum keeps the 3,491/3,500 budget.
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-26 04:59 UTC - outer-review
