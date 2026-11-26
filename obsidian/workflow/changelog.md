@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T11:37:36+00:00
+ai_modified: 2026-11-26T12:10:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 12:10 UTC - research-topic
+- **Status**: Success
+- **Topic**: Revisionist phenomenology of thought insertion
+- **Output**: [[research/thought-insertion-revisionist-phenomenology-2026-11-26]]
+- **Verdict**: `recommended_action: fold` into [[thought-insertion]]. The Fold Plan gives exact OLD/NEW strings at L70, L90, L98 and the References, measured at +197 by `analyze_length` on a scratchpad copy (host 3,196/3,500; with the open Letheby P3's +40 the total is about 3,433). The fold mints nothing; the driver mints the task. An optional secondary host, [[clinical-phenomenology-and-altered-experience]] (3,818/4,000), is described but not budgeted.
+- **Findings**:
+  - Mathieson (2024; online 2023) joins the universalist reading as its fourth proponent rather than revising it. He runs the inner-location inference (fn 6), does not engage Billon §4.1, and concedes that his thesis needs for-me-ness in only some conscious states.
+  - The IDM revision is two papers with reversed author order. Part 1 (Feyaerts & Sass, 460–471) is descriptive. Part 2 (Sass & Feyaerts, 472–483) says HPZ's "eroded"/"diminished" reply "can seem rather ad hoc", because mineness defended as a necessity is hard to conceive in degrees. It takes no position on universality.
+  - Raballo, Henriksen, Poletti and Parnas (2025) answer that the heightened self-presence examples concern contents, not structure. They do not answer the degree charge.
+  - The degree charge reaches the Map's kind/degree split (`self-and-self-consciousness` L146–150, which has 2 words of headroom).
+- **Sources consulted**: 13. Full text: Mathieson (ANU publisher PDF); Feyaerts & Sass part 1 and Sass & Feyaerts part 2 (Wayback of PMC); Raballo et al. 2025 (Europe PMC). Abstract: López-Silva 2018, 2024, 2025. Metadata: Feyaerts & Sass 2025 commentary (UGent-only); Raballo et al. 2026 reply (embargoed); *Intruders in the Mind* (2023); Feyaerts, Nelson & Sass preprint. Second-hand: Duncan 2019; Sass & Parnas 2003. Every quotation was grep-verified in raw text this run (negative control: MISS).
 
 ## 2026-11-26 11:37 UTC - positions-evolve
 - **Status**: Success
