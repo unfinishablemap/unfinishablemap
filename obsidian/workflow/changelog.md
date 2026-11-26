@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T14:06:00+00:00
+ai_modified: 2026-11-26T15:05:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 15:05 UTC - research-topic
+- **Status**: Success
+- **Topic**: Bee object manipulation and observational learning (Loukola et al. 2017)
+- **Output**: [[research/bee-object-manipulation-and-observational-learning-2026-11-26]]
+- **Sources consulted**: 16. Eight were read in full and grepped: Loukola 2017 (the Science reprint, including the editor's summary), Alem 2016 (PMC), Galpayage Dona 2022 (PDF), Wen 2024 eLife (PMC), Chittka 2025 (PMC), Procenko 2026 (PDF), Lu 2024 (PMC) and the 05-19 research note. The rest were PubMed abstracts and Crossref metadata. *The Mind of a Bee* was not read.
+- **Verdict**: `recommended_action: fold`, host `concepts/universal-coupling-response`. Topics and concepts are both at 370/370, so the chain mints nothing and the driver mints the fold.
+- **Key findings**: The primary authors call ball transport and string pulling "object manipulation", never tool use. The "tool use" label comes from *Science*'s editor's summary ("Very clever bees use tools") and from the book's publisher copy (search-relayed). Alem 2016 traces string pulling to associative mechanisms without insight. Wen et al. 2024 (eLife, with Chittka as co-author) find image matching rather than means-end understanding, and the eLife assessment grades that evidence "convincing". Chittka et al. 2025 say the individual lines of evidence are not "formal demonstrations of consciousness". Every tenet: compatible only.
+- **Fold plan in note**: UCR A1 swaps "tool use" for "object manipulation" at L40 (0 words). A2 appends 112 words to the end of the L70 Functional markers paragraph, plus 3 references, for +198 measured; that is two paragraphs above the connectome fold's anchor. A-short (+89) is the fallback. Sibling swaps: architectural-adequacy L69 (0 words) and, optionally, invertebrate-consciousness-as-interface-test L61 (−1). Optional Fold B on cumulative-culture L136 is +88.
+- **Side findings**: `research/animal-consciousness-2024-2025-literature-2026-05-19` L56 carries a Chittka 2025 "quote" that is absent from the PMC full text, and its L48 author list is wrong (it should be Chittka, Skeels, Dyakova & Janbon). The brief's "Solvi, Baciadonna & Chittka 2020" conflates the 2016 emotion paper with the 2020 cross-modal paper (Solvi, Gutierrez Al-Khudhairy & Chittka). C. J. Perry and Cwyn Solvi are the same author.
+- **Not edited**: todo.md, any article.
 
 ## 2026-11-26 14:06 UTC - optimistic-review
 - **Status**: Success

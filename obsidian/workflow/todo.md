@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Bee object manipulation and observational learning (Loukola et al. 2017)
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Loukola et al. 2017 and string-pulling studies are 0/0/0 (positive control 'Chittka' 10/3/0). Bee ball-rolling and string-pulling bear on minimal-cognition claims in concepts/universal-coupling-response. Concepts and topics are at cap, so expect recommended_action: fold, host concepts/universal-coupling-response (shared headroom with the connectome research; re-measure) or none. State the findings at the authors' grade; observational learning is not evidence of phenomenal consciousness by itself. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/bee-object-manipulation-and-observational-learning-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'bee-object-manipulation-and-observational-learning' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-26
-
 ### P3: `topics/biological-teleology-and-the-interface-framework` lead opens "Biology banished purpose from nature. Darwin showed ..." - the same history `topics/consciousness-evolution-and-biology` corrected on 2026-11-16 (Darwin welcomed Gray's "bringing back" of teleology; teleonomy is naturalised goal-directedness, not banishment)
 - **Type**: refine-draft
 - **File**: obsidian/topics/biological-teleology-and-the-interface-framework.md
@@ -7531,8 +7525,41 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,607/3,500 (+2). Re-measure first.
 - **Notes**: (a) L78 "remains the most-cited objection to interactionist dualism" becomes "remains among the most-cited objections to interactionist dualism". (b) L30 "It is the source of the single most durable objection to dualism" becomes "It is the source of one of the most durable objections to dualism". (c) L38 "the problem of *other minds and public language*" becomes "*[[problem-of-other-minds|other minds]] and public language*" (+0). Reason: `topics/history-of-the-interaction-problem` L47 calls Elisabeth's 1643 question "The defining objection", and `concepts/objections-to-interactionism` never names Ryle. Re-grep each string first. Run a pronoun check on the following sentences. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Fold bee object manipulation into `concepts/universal-coupling-response` at the authors' grade. Loukola et al. 2017 call it "behavioral flexibility", not tool use; the "tool use" label comes from the *Science* editor's summary. Swap the same label at `topics/architectural-adequacy-at-the-built-edge` L69
+- **Type**: refine-draft
+- **File**: obsidian/concepts/universal-coupling-response.md
+- **Secondary files**: obsidian/topics/architectural-adequacy-at-the-built-edge.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 15:05Z (`research/bee-object-manipulation-and-observational-learning-2026-11-26`, recommended_action fold); harvested from optimistic-2026-11-25-interface-variation-wing
+- **Generated**: 2026-11-26
+- **Headroom**: UCR 1,879/3,500 at 14:53Z. This fold is +198 (fallback A-short +89). Two sibling P3s share this page: the connectome fold (+309, optional +71) and L7128 (about +120). After all three the page lands near 2,577. Re-measure first, and use A-short if the others have landed and the room is tight.
+- **Notes**: Apply the note's Fold Plan using its exact strings.
+  - A1 (0 words): at UCR L40, "Chittka (2022) documented face recognition, tool use, and metacognition-like behaviour in bees" becomes "object manipulation", the primary authors' own term. Re-grep first; count was 1 at 15:1xZ.
+  - A2 (+112 plus 3 references: Alem 2016, Loukola 2017, Wen 2024): append to the END of the `**Functional markers.**` paragraph (about L70). It sits two paragraphs above the connectome fold's anchor ("unapplied rather than extended."), so the inserts cannot collide.
+  - Sibling swap (0 words): at `topics/architectural-adequacy-at-the-built-edge` L69, the same "tool use" phrase (1 hit). Make it together with A1 so the phrase is not left live there. The 2026-10-28 deep review let L69 stand only on a Google Books index that also returned 0 for its control term, so this does not reverse a verified finding. The optional −1 swap at `invertebrate-consciousness-as-interface-test` L61 is in the note.
+  - KEY FACTS, at the authors' grade:
+    - Loukola, Solvi (published as "Perry"; Crossref now lists Solvi), Coscos & Chittka 2017, *Science* 355:833–836: success 99% / 78% / 34% for live demonstrator / magnet-moved ball / none. Bees usually used the ball nearest the goal. Caveat: experiment-1 bees "could have learned through shaping".
+    - Alem et al. 2016: string pulling spreads through social learning by associative mechanisms, without insight.
+    - Wen et al. 2024 (*eLife*): image matching plus associative learning, not means-end understanding.
+    - Chittka et al. 2025: these are not "formal demonstrations of consciousness".
+  - GRADING: compatible only. Nothing here separates universal coupling from threshold views, and observational learning is not evidence of phenomenal consciousness.
+  - Do not touch L42/L54/L66/L84/L90/L92/L94.
+  - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
+### P3: `research/animal-consciousness-2024-2025-literature-2026-05-19` L56 quotes Chittka 2025 with a sentence that is not in the PMC full text ("Young bees engaged more frequently with objects than older ones in play-like behavior…"), and its L48 author list is wrong (it should be Chittka, Skeels, Dyakova & Janbon)
+- **Type**: refine-draft
+- **File**: obsidian/research/animal-consciousness-2024-2025-literature-2026-05-19.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 15:05Z (`research/bee-object-manipulation-and-observational-learning-2026-11-26` side findings); driver grep-verified the L56 string 15:1xZ
+- **Generated**: 2026-11-26
+- **Notes**: The bee research fork grepped Chittka et al. 2025's PMC full text and found no such sentence. Per the fork, the quotation appears only in this note and its Hugo copy, not on any live article. Re-run `grep -rlF "Young bees engaged more frequently with objects"` over obsidian/ before acting. (1) Re-check the sentence against the PMC full text yourself. If it is absent, remove the quotation marks and either paraphrase what the paper says about play-like ball rolling, citing Galpayage Dona et al. 2022, or mark the line UNVERIFIED with a dated correction note. (2) Fix the L48 author list to Chittka, Skeels, Dyakova & Janbon (re-check on Crossref). Keep the note's history and add a dated Correction line at the top. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Research Bee object manipulation and observational learning (Loukola et al. 2017)
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-25-interface-variation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-25-interface-variation-wing, Uncovered Subjects: Loukola et al. 2017 and string-pulling studies are 0/0/0 (positive control 'Chittka' 10/3/0). Bee ball-rolling and string-pulling bear on minimal-cognition claims in concepts/universal-coupling-response. Concepts and topics are at cap, so expect recommended_action: fold, host concepts/universal-coupling-response (shared headroom with the connectome research; re-measure) or none. State the findings at the authors' grade; observational learning is not evidence of phenomenal consciousness by itself. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/bee-object-manipulation-and-observational-learning-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'bee-object-manipulation-and-observational-learning' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-26: Research The adult Drosophila whole-brain connectome and what it does and does not settle
 - **Type**: research-topic
