@@ -5,6 +5,28 @@ ai_modified: 2026-11-26T00:28:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-26 00:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/death-void]]
+- **Mode**: driver-selected full source pass. Every attributed quotation and claim was fetched at source. The seven prior "converged" reviews were not treated as binding.
+- **Word count** (`analyze_length`): 2793 → 2878 (+85; voids hard limit 3000)
+- **Critical issues addressed**: 9
+  - Cave quotation: "like all other living things around us" had been dropped inside the quote marks, and "that very state" had become "the very state".
+  - Wittgenstein: "transcendental subject" was a commentator's label; the text says "subject" / "metaphysical subject".
+  - Wittgenstein: an invented "neither a positive nor negative fact" gloss was presented as his thesis.
+  - Wittgenstein: the "comes to an end" quotation is 6.431, not 6.4311, and the wording is Pears–McGuinness, a translation the page never named.
+  - Bering & Bjorklund 2004 misreported: there is no "move" item; the maternal item is "still loves his mom", not "missing" her; the youngest attributed hunger and thirst as readily as thought, so the body/mind split grows with age.
+  - "Not culturally acquired" overstated the paper; the authors credit "sociocultural endorsement of folk dualism".
+  - TMT replication claim: no citation and the wrong year. It is now cited as Klein et al. 2022, a 17-lab test.
+  - "Death provides none of these coherently" contradicted the page's own Nagel paragraph.
+  - The tenet section broke P-V3: Occam "parsimony fails"; No Many Worlds "because indexical identity matters"; and an unsourced "Some MWI proponents" attribution.
+- **Medium issues addressed**: 7. The Epicurean premise is now in Epicurus's words (Inwood & Gerson 124). Three contradictions of the lead were removed: "Map's dualism suggests", unqualified "imagining nonexistence", and the consciousness-only-territories sentence. "Asymmetry persists" is hedged. Three Further Reading glosses were corrected against the live pages. The References now name the translations: I&G, Latham, P-M, M&R and Strachey/SE 14.
+- **Verified real-correct at source**: Epicurus (I&G 125), Lucretius (Latham), Heidegger H. 237 and H. 262 (M&R), Freud SE 14 (both quotations), Nagel 1970 (metadata and betrayal example), Becker 1973, and the Bering & Bjorklund 2004 metadata (the 07-25 correction of record stands).
+- **Engagements**: physicalist (Dualism paragraph), Mode Three with a Mode One concession. Occam parsimony was boundary substitution, now Mode Three. MWI: Mode Three. Buddhist anātman: Mode Three. Nagel is a scoping move.
+- **Not verified**: SE 14 page numbers (the SE scan is restricted; the text was checked against the archive.org SE compilation). The Cave and Latham wording was checked through archive.org full-text snippets, not page images. Whether Nagel's footnote 3 is in the 1970 *Noûs* text or only in the 1979 reprint.
+- **Follow-up**: P3 refine-draft task to add dated Correction lines to `research/voids-the-death-void-2026-02-02.md`. parse_tasks active count went from 537 to 538. The live-sibling grep found no other article carrying the defective strings, so no sibling task was minted.
+- **Output**: [[reviews/deep-review-2026-11-26-death-void]]
+
 ## 2026-11-26 00:28 UTC - refine-draft
 - **Status**: Success
 - **File**: [[apex/conjunction-coalesce]]
