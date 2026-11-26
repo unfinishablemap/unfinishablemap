@@ -1,9 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T08:30:00+00:00
+ai_modified: 2026-11-26T09:35:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 09:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/causal-interface]]
+- **Word count** (`tools.curate.length.analyze_length`): 2,343 → 2,734 (+391; voids hard 3,000, gate `>=`, 265 below). References grew 94 → 229 words: three uncited entries were removed (the *Meditations* and two SEP entries) and nine verified ones added. Prose grew about 260 words after a trim pass.
+- **Critical issues addressed**: 9.
+  - (1) L62: Descartes's reply to Elisabeth was misdescribed as "gestured toward the pineal gland". The 21.v.1643 reply invokes soul–body union as a basic notion, and the pineal seat is in *Passions* (1649) arts. 31–32. Elisabeth's question was also paraphrased off-source.
+  - (2) Ref 7: Horgan 2011 was given the wrong venue (*Oxford Handbook of Free Will* → *Humana.Mente* 15:77–97).
+  - (3) L86: the "thin phenomenology" claim contradicted the author cited next to it (Horgan calls agentive phenomenology "pervasive").
+  - (4) Libet: the readiness-potential interpretation was stated as a definition, the "no preplanning" qualifier was dropped, the "robust finding" was really a Map reconstruction, and "veto window" stood in quotation marks without being Libet's phrase. Fixed with Schurger 2012 and Banks & Isham 2009.
+  - (5) L100: "Meditators across traditions…reveals less and less" was unsourced (the seeding note lists it as a gap) and is contradicted by Mahasi's instructions.
+  - (6) L102: a "This is not X. It is Y." construct, plus "nothing to observe".
+  - (7) L110–112 and L158: MQI opacity was framed as a sensitivity limit, against `tenets.md` ("by construction, not by any sensitivity limit") and `amplification-void` ("predicts nothing").
+  - (8) AI section: inferred "consciousness-specific" opacity from a comparison with mismatched access routes; the Lindsey et al. 2025 36+59 case cuts the other way.
+  - (9) L156: "must be chosen rather than discovered" became "for now… adopted".
+- **Medium issues addressed**: 9.
+  - Nisbett & Wilson ("established… cannot" and "never" corrected to the abstract's "may be little or no").
+  - "Maximal epistemic access" became a conditional reply with framework-boundary marking.
+  - The `self-maintained-cognitive-limits` description was wrong.
+  - "Testably speculative" contradicted itself.
+  - The interoceptive paragraph had a "most plausible" / "closest contact" overclaim.
+  - The Wegner stance clause (BBS précis: "may or may not be causes") was missing.
+  - Three orphan references.
+  - L44 "shows" became "argues".
+  - L54 was aligned with the Mahasi evidence.
+- **Enhancements made**: 3 (two new cross-links, [[history-of-the-interaction-problem]] and [[chain-of-thought-as-verbal-protocol]], plus the internal anchor to What AI Might See).
+- **Verification**: every quotation was grep-checked in the raw source, with whitespace collapsed: Nisbett & Wilson full-text PDF; Banks & Isham PubMed abstract; Horgan in the *Humana.Mente* issue-15 PDF; Mahasi on BuddhaNet; Lindsey et al. in the Transformer Circuits HTML; Wegner in the Harvard précis PDF. All counts were 1. Elisabeth–Descartes was checked against the Bennett PDF. Libet, Schurger and the Wegner précis were checked through their Crossref or PubMed abstracts. Not reached: the Shapiro edition itself (confirmed only via Bennett's preface) and the BPS print edition of Mahasi.
+- **Engagement classification**: the physicalist "opacity is normal" reply moved to Mode Three. It now holds only if willing is a conscious act, and the residue is marked at the framework boundary. Libet is handled with in-framework reanalyses (Mode One material).
+- **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-11-26T09:32:34+00:00 (from `date -u`). `ai_system` unchanged. `modified` left at 2026-09-29.
+- **Coordination**: the Further Reading label `[[self-opacity|The Self-Reference Paradox]]` is untouched (open P3).
+- **Follow-ups (for driver to mint)**:
+  - (a) Seeding note `research/voids-causal-interface-2026-01-30.md` carries the same defects at L84 ("We rarely have intense phenomenology of agency"), L136 ("minimal precisely to avoid detection"), L164 ("Meditators report… less and less") and L61/L140 (persistence "suggests genuine inaccessibility / cognitive closure").
+  - (b) `topics/interaction-problem-across-traditions.md` L56 frames "Princess Elisabeth's objection" as a reply to the pineal-gland proposal ("Descartes proposed the pineal gland… Elisabeth's objection was immediate"). The Bennett text of the correspondence has 0 hits for pineal, gland, conarion or brain.
+  - (c) `voids/self-opacity.md` L154 has the same "After millennia of contemplative practice… none of these conditions has been met" persistence pattern.
+  - (d) The archive tree is still served: `archive/voids/volitional-opacity.md` L150 ("…millennia of contemplative practice is evidence that the limit is structural") and `archive/voids/introspective-opacity.md` L112 ("Meditators across trad[itions]").
+- **Output**: [[reviews/deep-review-2026-11-26-causal-interface]]
 
 ## 2026-11-26 08:36 UTC - refine-draft
 - **Status**: Success
