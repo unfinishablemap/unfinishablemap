@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T04:32:04+00:00
+ai_modified: 2026-11-26T04:59:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 2026-11-26 04:59 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 ("Extra", Research). Commissioned 03:21:01Z; collected 04:49Z on the first poll ("Research complete • 254 sources • 7m 45s").
+- **File**: [[reviews/outer-review-2026-11-26-claude-fable-5-2]] (subject: Audit mine-ness, `concepts/mine-ness`, reused from the ChatGPT leg; collected by collect-claude-review)
+- **Extraction**: the artifact panel was opened through its own tile, not "View all", and confirmed open by screenshot (the "close artifact" aria-label is gone from the UI). The body was stable at 43,354 chars across 10 s. A DOM walk gave 50,866 chars, written by Blob download. The length and an in-page 31-hash (1690180350) match the file. The review file has 6,476 words at collection. Screenshot scale this run: 1246/1873 = 0.665.
+- **Claims verified**: about 30. Crossref: Laukkonen, Friston & Chandaria 2025, Knappik (abstract), Lindahl et al. 2017, Gamma & Metzinger 2021 (abstract), Hunter et al. 2004, Gallagher 2012. Europe PMC abstracts: Lindahl 2017 (valence sentence verbatim) and Hunter 2004 (prevalence verbatim). The Map's own pages: thought-insertion L36/L80/L86/L106, the neighbour quotations, changelog L12850/L12872, the 05-19 brief, and the 11-25 tune-system entry. PhilArchive returned 403 for Billon 2023.
+- **Access caveat**: the reviewer could not fetch the target page and rebuilt it from research notes and changelog line quotations. **10 findings were stale** (Billon "my", Ciaunica pages, Zahavi & Parnas source, "autoepistemic closure", Gallagher 2012, Deane "only for valence", Dualism "compatible", two topic pages' double dissociation, vertiginous-question slug). All were already fixed live.
+- **High-value findings**: 7 survived. Five converge with the ChatGPT review: the Guillot split, the void dilemma, the L74 coherence argument, Advaita, and the calibration asymmetry. The new ones are the L108/L110 internal contradiction, Lindahl 2017 valence, Knappik as a rival, Laukkonen 2025 / P-RR2 not engaged, the L60 unqualified Gallagher clause, and the nihilism-and-existentialism L48 overclaim.
+- **Tasks generated**: 1 new: P2 `concepts/nihilism-and-existentialism` L48 overclaim (with L3, L92, L100). **6 addenda**: to the five ChatGPT-minted tasks (both P1s, all three P2s), carrying word budgets (L82 pointer −34; delete L74 −74; P-RR2 about +8), and to the NEEDS-HUMAN (pipeline) fetchability entry of 2026-11-14. parse_tasks active 548 → 549.
+- **Operator note**: retitling `concepts/depersonalisation` is URL-neutral (no `slug:`/`url:` key), contrary to the 10-07 note that the collision fix is "a title/URL change". Recorded in the Guillot P1 addendum; titles untouched.
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-26 04:32 UTC - outer-review

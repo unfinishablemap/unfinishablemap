@@ -225,9 +225,9 @@
   commissioned_at: '2026-11-26T03:21:01.578544+00:00'
   prompt_summary: 'Audit mine-ness: citations, pathology evidence, deflationary rivals'
   target_filename: outer-review-2026-11-26-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-26T04:50:14.730177+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
     a philosophy-of-mind site committed to five tenets: dualism, minimal quantum interaction,

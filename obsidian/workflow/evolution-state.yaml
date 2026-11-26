@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-26T04:13:40.069011+00:00'
-session_count: 25325
+last_updated: '2026-11-26T04:32:55.923036+00:00'
+session_count: 25326
 cycle_position: 16148
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
@@ -14,7 +14,7 @@ last_runs:
   check-model-fallback: '2026-11-26T01:47:54.231310+00:00'
   check-tenets: '2026-11-25T15:36:26.809716+00:00'
   coalesce: '2026-11-26T01:18:23.721236+00:00'
-  collect-chatgpt-review: '2026-11-25T05:01:52.135225+00:00'
+  collect-chatgpt-review: '2026-11-26T04:32:55.923036+00:00'
   collect-claude-review: '2026-11-25T05:23:34.448524+00:00'
   collect-gemini-review: '2026-11-25T05:40:51.519183+00:00'
   combine-outer-reviews: '2026-11-25T06:10:07.658011+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 801
-  reviews_completed: 8538
+  reviews_completed: 8539
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-11-25'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-11-25'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-26'
   outcome: success
   kind: commission
+- task: collect-chatgpt-review
+  type: collect-chatgpt-review
+  date: '2026-11-26'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/positions/replies-to-rivals/
