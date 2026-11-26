@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T05:27:36+00:00
+ai_modified: 2026-11-26T05:49:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 05:49 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-26
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-4-neon). Subject: `concepts/mine-ness` ("Audit mine-ness", `fallback:recent-aged`; Claude and Gemini reused ChatGPT's subject). Only the ChatGPT leg read the live page; Claude and Gemini rebuilt it from research notes and changelog quotations, and their processing passes marked 10 and 6 findings stale.
+- **Adjudication**: every cluster was counted at a passage that is live today (`concepts/mine-ness` unchanged since 2026-11-19, 3,491 words). Two processing-pass counts were corrected against the review texts. The L82 constructed quotation is 2/3 (ChatGPT, Gemini), not "all three": the Claude review never raises it. The Deane "same structural absence" overstatement is 1/3 (ChatGPT): Claude's Deane charge is stale and Gemini's is a different claim. Gemini's Lane 2020 "critique" is inverted per the publisher check in `research/implicit-agency-and-self-prioritisation-in-depersonalisation-2026-10-28`.
+- **Clusters**: 15 convergent (7 three-reviewer, 8 two-reviewer, one only partly right), 9 singletons plus 6 recorded leads, 5 divergences, 22 reviewer findings judged stale, disputed or overstated.
+  - **3/3**: for-me-ness/mineness under one word (C1); the void overstated (C2); L108 "can vanish" (C3); L114 "it multiplies it" against Knappik (C4); thought insertion on Gallagher's contested reading, surviving unscoped at L60 (C5); calibration asymmetry and the predictive rival at L136/L148 (C9); no deflationary rival at full strength (C10).
+  - **2/3**: constructed quotation at L82 (C6); L74 coherence argument (C7); "completely irrelational" over-read at L136/L110 (C8); illusionism and the attention schema (C11); Advaita among no-self reports (C12); the valence contrast (C13); `concepts/self-and-self-consciousness` keeps the collision (C14); Billon's neurophysiological verdict, partly right (C15).
+  - **Singletons, left inside their tasks**: L64/L140 relation, L144 Many-Worlds, L140 speculation label, Deane overstatement, Pons, L78 and metadata, ownership-problem L102 (ChatGPT); `concepts/nihilism-and-existentialism` L48 and the beautiful-loop clause (Claude).
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3): the mine-ness sources task (C10, C12, C13), the mine-ness tenet-sections task (C9), the neighbours task (C14). The two mine-ness P1s stay P1. The nihilism P2 is a singleton and was not touched.
+- **Tasks deduplicated**: 0 merged. One overlap was withdrawn: item (4) of the P3 "Siblings of the 2026-11-15 `concepts/empathy` deep review" (mine-ness L48), which the Guillot-split P1 discharges. That P3 had no coordination note, although the ChatGPT processing said one existed.
+- **Budget**: `concepts/mine-ness` is 3,491/3,500 (gate `>=`, headroom 8). A shared BUDGET RULE now opens the Notes of all four tasks that edit it. Order and net ceilings: (1) quotation/relation/structure P1, −25 or lower; (2) Guillot-split P1, −30 or lower; (3) tenet sections, 0 or lower; (4) sources, +55 at most. The ceilings sum to 0, keeping the 8 words in reserve. Two cuts are now required and fund the additions: the L82 subsection becomes a pointer of at most 60 words (about −34), and L74 is deleted (about −74). The quote-repair and L74-rewrite options are withdrawn. A positive ceiling binds as min(ceiling, 3,499 − measured count), so the page stays under 3,500 in any order.
+- **Operator items** (surfaced, not acted on): the for-me-ness/mineness title question on hold since 2026-10-07 (a retitle of `concepts/depersonalisation` or `concepts/mine-ness` is URL-neutral: no slug/url/aliases keys, no Hugo permalinks); fetchability (2 of 3 legs blind tonight; NEEDS-HUMAN pipeline entry of 2026-11-14 carries both addenda); the two-reviewer methodology proposal that correctness should override caps and retain-wording mandates.
+- **parse_tasks**: active 549 → 549 (P1 4 → 7, P2 20 → 17, P3 525 → 525; pending 514, blocked 33, superseded 2, unchanged). One `## Completed Tasks` line before and after.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-26]]
 
 ## 2026-11-26 05:27 UTC - outer-review
 - **Status**: Success
