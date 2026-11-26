@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T22:27:00+00:00
+ai_modified: 2026-11-26T22:50:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 22:50 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/narrative-void]]
+- **Word count** (`tools.curate.length.analyze_length`; voids hard 3,000, gate `>=`): 2,342 → 2,547 (+205; 453 under hard). Repairs were partly offset by cutting the duplicated Encoding-Void Further Reading gloss and two Relation-section sentences.
+- **Critical issues addressed**: 9. (1) Nisbett & Wilson's dropped qualifier: "study established" became "review concluded the evidence 'suggests that there may be…'", and their accurate-when-the-theory-fits condition is restored. (2) The Gazzaniga "glue" quotation is unverifiable (archive.org item restricted; absent from *The Ethical Brain* and *Sci. Am.* 1998), so it is now an unquoted paraphrase. (3) "Pupillometric extensions sharpen the structural finding" was reversed by Grassi et al. 2025 ("less introspectively blind than originally portrayed"); the page now presents the Pärnamets 2023 vs Grassi 2025 dispute. (4) Ricoeur source/Map conflation: "always already" attaches to prefiguration (mimesis₁), so the strong reading is marked as the Map's radicalisation. (5) Schechtman: the multiplicity claim was attributed to her, contrary to her reality constraint; it is now marked as the Map's observation within her constraints, with the characterization question named. (6) The independence-scoring exhibit was misparaphrased: "scores" became "audits", and Gazzaniga moves from the healthy-adult channel to the patient-population channel. (7) Dualism paragraph calibration: the void is graded *compatible*, Dennett's model predicts it as naturally, and the receiving subject is credited to background Posit One. (8) Yang 2024 species qualifier ("In mice") restored. (9) The lead's "consciousness constructs" contradicted the body; it now reads "the mind constructs".
+- **Medium issues addressed**: 8. Strawson "fairly Episodic", with the full sentence and p. 433. Lindsey & Litwin-Kumar "schema-fit" corrected to "consistency with prior short-term learning". Doorway-effect replication caveat added (McFadyen et al. 2021). Ongchoco & Xu "flushed" downgraded to "may flush", and the article number added. "Millisecond scale / below conscious access" became "applied automatically". Damasio's naturalist stance stated. "Phenomenological texture as genuine memories" scoped to expressed certainty. "Every moment" became "Much of conscious life".
+- **Style**: four "This is not X. It is Y." constructs rewritten. Pronoun check run after each replacement.
+- **Engagement**: Dennett (Multiple Drafts): Mode Three; the rejection is framework-sourced and the data are declared non-discriminating.
+- **References**: added Gazzaniga & LeDoux 1978, Pärnamets et al. 2023, Grassi et al. 2025, McFadyen et al. 2021. The 2026-08-06 per-trial fix (0050e95de3) was preserved verbatim. The embed is untouched.
+- **Not reached at primary source**: *The Mind's Past* (archive.org lending-only); *Time and Narrative* (archive.org 403); "Against Narrativity" (tuni bot-block, philarchive 403, cuni login; verified via PMC6633324 instead); Schechtman 1996 (constraints verified via SEP and PMC5895654).
+- **Sync**: `scripts/sync.py` was run. The Hugo copy carries the new strings and `validate.py` passes.
+- **Output**: [[reviews/deep-review-2026-11-26-narrative-void]]
+- **Model**: claude-opus-5-5
 
 ## 2026-11-26 22:27 UTC - positions-evolve
 - **Status**: Success
