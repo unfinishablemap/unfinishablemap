@@ -2,9 +2,9 @@
 title: "Mine-ness and the Ownership Void"
 description: "Mine-ness is the phenomenal mark by which experience presents as belonging to a subject—separable in pathology, yet its mechanism of appropriation stays opaque."
 created: 2026-02-24
-modified: 2026-11-19
+modified: 2026-11-26
 human_modified:
-ai_modified: 2026-11-19T00:56:36+00:00
+ai_modified: 2026-11-26T06:38:46+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -57,7 +57,7 @@ Three clarifications keep the concept from sliding into adjacent notions:
 
 **Mine-ness is not the content of experience.** The content of seeing red is *red*. The content of remembering Paris is *Paris*. Mine-ness is the [[metacognitive-access-versus-retention|orthogonal dimension]]: that this seeing and this remembering present themselves as the seeing and remembering *of a subject*. On the Map's reading, two otherwise similar states can differ in whether they carry the mine-ness tag, as depersonalisation illustrates.
 
-**Mine-ness is not the sense of agency.** Agency is the sense that "I am the initiator" of an action or thought. Ownership is the sense that "this is happening in my experience." Shaun Gallagher's analysis distinguishes the two and shows they come apart in pathology: in schizophrenic thought insertion, agency is lost (someone else seems to be producing the thought) while ownership is preserved (the thought still occurs in the patient's mind). On the Gallagher-style reading, [[depersonalisation|depersonalisation]] can disrupt ownership while sparing agency, though active-inference accounts describe a disturbed sense of control, making the separation one-way.
+**Mine-ness is not the sense of agency.** Agency is the sense that "I am the initiator" of an action or thought. Ownership is the sense that "this is happening in my experience." Shaun Gallagher's analysis distinguishes the two and argues they come apart in pathology: on his reading of schizophrenic thought insertion, agency is lost (someone else seems to be producing the thought) while ownership is preserved (the thought still occurs in the patient's mind). On the Gallagher-style reading, [[depersonalisation|depersonalisation]] can disrupt ownership while sparing agency, though active-inference accounts and Billon's deagentivation cluster describe a disturbed sense of control, making the separation one-way.
 
 **Mine-ness is not reflective self-awareness.** Reflective self-awareness is a second-order state: attending to one's own mental states as such. Zahavi's claim is stronger: mine-ness is present in *first-order* experience, before any reflective act. The phenomenal "for-me" structure is built into conscious states at the ground level, not constructed by metacognition on top of them.
 
@@ -79,7 +79,7 @@ DPD is also one of the cleanest cases where the [[discrimination-problem]] engag
 
 ### Thought Insertion
 
-In schizophrenic thought insertion, patients report thoughts occurring "in their mind" that "[[immunity-to-error-through-misidentification|belong to someone else]]." On Gallagher's [[thought-insertion|agency reading]], the reverse dissociation from DPD: agency is disrupted (someone else seems to have produced the thought) while ownership is preserved (the thought is still occurring in *this* stream of consciousness). The patient says: "this thought occurs in my mind but I did not produce it." If agency and ownership were the same feature, the thought would either feel produced-by-and-belonging-to the patient or produced-by-and-belonging-to someone else. On that reading—mine but not authored—the features are separable.
+In schizophrenic thought insertion, patients locate a thought in their own mind yet [[immunity-to-error-through-misidentification|deny that it is theirs]]. Gallagher reads this as the reverse of the DPD dissociation: agency lost, ownership preserved. His is one of five readings that [[thought-insertion]] weighs, and the most contested; on two of the others ownership itself fails.
 
 ### Contemplative Dissolution
 
@@ -133,11 +133,11 @@ The void is the epistemic residue that remains once the [[consciousness-and-the-
 
 ### Dualism
 
-The [[tenets#^dualism|Dualism]] tenet is compatible with, [[depersonalisation#what-the-datum-shows-two-tiers|not evidenced by]], mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "completely irrelational"—not a relation between an experience and a subject who has it, but a feature constitutive of experience itself. A feature with no internal structure, no constituent parts, and no functional decomposition fits dualism, though not uniquely: a basic property of consciousness that physicalist accounts can describe in their functional shadow but not capture in their phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model. The ownership void fits the same reading: a feature constitutive of non-physical subjectivity would have no decomposition to inspect, which is why introspection finds a presence and never machinery.
+The [[tenets#^dualism|Dualism]] tenet is compatible with, [[depersonalisation#what-the-datum-shows-two-tiers|not evidenced by]], mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "completely irrelational"—not a subject taking its experience as an object, but a non-objectifying self-givenness built into experience itself. Read as a basic property of consciousness, that givenness fits dualism, though not uniquely: physicalist accounts can describe its functional shadow but not capture its phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model. The ownership void is compatible with the dualist reading but not better explained by it: introspection finding a presence and never machinery is equally expected on self-model and [[attention-schema-theory|attention-schema]] accounts, whose models omit their own workings.
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet connects to mine-ness through the agency/ownership distinction. If consciousness causally influences physical processes—on the Map's account, by biasing among quantum outcomes available at the brain-mind interface—then *agency* is the phenomenal correlate of that causal role. *Mine-ness*, being prior to and separable from agency, may be the more fundamental feature: the non-physical subject's basic mode of relating to, and claiming, the physical processes it influences. Ownership is the relation; agency is one form that relation takes when it issues in action. The mechanism of the claiming would then be concealed by the same opacity that hides the interaction mechanism itself. This reading respects the dissociation data (mine-ness without agency on Gallagher's reading of insertion) and the tenet's commitment to a non-physical subject with causal traction.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet connects to mine-ness through the agency/ownership distinction. If consciousness causally influences physical processes—on the Map's account, by biasing among quantum outcomes available at the brain-mind interface—then *agency* is the phenomenal correlate of that causal role. *Mine-ness*, being prior to and separable from agency, may be the more fundamental feature: intrinsic to experience, yet the form in which the non-physical subject claims the physical processes it influences; agency is the form that claiming takes in action. The mechanism of the claiming would then be concealed by the same opacity that hides the interaction mechanism itself. This reading respects the dissociation data (mine-ness without agency on Gallagher's reading of insertion) and the tenet's commitment to a non-physical subject with causal traction.
 
 ### No Many Worlds
 
